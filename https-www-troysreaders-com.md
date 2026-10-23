@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2016-09-26T22:28:23Z
 - Contact Email: Troy@troysreaders.com
-- Updated At: 2026-08-01T00:00:49.726Z
+- Updated At: 2026-10-23T01:04:04.702Z
 
 ## Products
 
 - [Clic Executive Reading Glasses - Black](https://www.troysreaders.com/products/clic-executive-readers-black): This Item Comes With Free Shipping & Free Returns Tired of dropping your reading glasses? Or perhaps you’re just sick of not knowing where they are when you need them? Do away with these annoyances by purchasing a pair of Clic Magnetic Reading Glasses.
-  Updated: 2026-07-08T20:12:14Z
+  Updated: 2026-10-18T04:42:26Z
   Vendor: opti-source
   Product Type: Clic
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clic-executive-black-clic-327906.jpg?v=1629825609
     Price: $44.95 USD
 - [Clic Original Reading Glasses - Black](https://www.troysreaders.com/products/clic-readers-black): This Item Comes With Free Shipping & Free Returns Tired of dropping your reading glasses? Or perhaps you’re just sick of not knowing where they are when you need them? Do away with these annoyances by purchasing a pair of Clic Magnetic Reading Glasses.
-  Updated: 2026-07-08T20:12:15Z
+  Updated: 2026-10-06T19:50:50Z
   Vendor: opti-source
   Product Type: Clic
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clic-original-black-clic-119640.JPG?v=1629824837
     Price: $39.95 USD
 - [Toddler Sport Sunglasses](https://www.troysreaders.com/products/toddler-sport-sunglasses): 100% UV protection Soft and durable
-  Updated: 2026-07-16T01:45:30Z
+  Updated: 2026-10-06T19:50:51Z
   Vendor: Asia Pacific
   Product Type: kids sunglasses
   Availability: Available
@@ -101,7 +101,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/toddler-sport-sunglasses-kids-sunglasses-dark-blue-black-425739.JPG?v=1629825673
     Price: $8.00 USD
 - [Baby Sunglasses Cateye](https://www.troysreaders.com/products/toddler-sunglasses-cat-eye): 100% UV protection Soft and durable
-  Updated: 2026-07-18T03:35:45Z
+  Updated: 2026-10-06T19:50:51Z
   Vendor: Asia Pacific
   Product Type: kids sunglasses
   Availability: Available
@@ -119,7 +119,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/toddler-sunglasses-cateye-kids-sunglasses-479005.JPG?v=1629825613
     Price: $8.00 USD
 - [Cinzia  Reading Sunglasses With Case](https://www.troysreaders.com/products/cinzia--sunglasses-reader-smoke-amber): Trendies By Cinzia  Reading Sunglasses Black With Case Fashion your way to fame with these star-studded sunglass readers! Click here!
-  Updated: 2026-07-08T20:12:17Z
+  Updated: 2026-10-18T04:36:32Z
   Vendor: Shark eyes
   Product Type: Fully Magnified Reading Sunglasses
   Availability: Available
@@ -127,17 +127,17 @@
   - [+1.50](https://www.troysreaders.com/products/cinzia--sunglasses-reader-smoke-amber?variant=49555908687)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-smoke-amber-with-case-fully-magnified-reading-sunglasses-877844.jpg?v=1693351527
-    Price: $7.49 USD
+    Price: $14.99 USD
   - [+2.00](https://www.troysreaders.com/products/cinzia--sunglasses-reader-smoke-amber?variant=49556035279)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-smoke-amber-with-case-fully-magnified-reading-sunglasses-877844.jpg?v=1693351527
-    Price: $7.49 USD
+    Price: $14.99 USD
   - [+2.50](https://www.troysreaders.com/products/cinzia--sunglasses-reader-smoke-amber?variant=49556035407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-smoke-amber-with-case-fully-magnified-reading-sunglasses-877844.jpg?v=1693351527
-    Price: $7.49 USD
+    Price: $14.99 USD
 - [Cinzia  Reading Sunglasses Brown With Case](https://www.troysreaders.com/products/cinzia--reader-sunglasses-brown): Trendies By Cinzia  Reading Sunglasses With Case. Click Here!
-  Updated: 2026-07-17T19:41:32Z
+  Updated: 2026-10-06T22:29:01Z
   Vendor: Shark eyes
   Product Type: Fully Magnified Reading Sunglasses
   Availability: Available
@@ -145,17 +145,17 @@
   - [+1.50](https://www.troysreaders.com/products/cinzia--reader-sunglasses-brown?variant=49555602191)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-brown-with-case-fully-magnified-reading-sunglasses-694065.jpg?v=1693351666
-    Price: $7.49 USD
+    Price: $11.99 USD
   - [+2.00](https://www.troysreaders.com/products/cinzia--reader-sunglasses-brown?variant=49555698831)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-brown-with-case-fully-magnified-reading-sunglasses-694065.jpg?v=1693351666
-    Price: $7.49 USD
+    Price: $11.99 USD
   - [+2.50](https://www.troysreaders.com/products/cinzia--reader-sunglasses-brown?variant=49555698895)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/cinzia--reading-sunglasses-brown-with-case-fully-magnified-reading-sunglasses-694065.jpg?v=1693351666
-    Price: $7.49 USD
+    Price: $11.99 USD
 - [1 fl. oz Troy's Readers Lens Cleaner](https://www.troysreaders.com/products/vision-guard-lens-cleaner): I Can See Through My Glasses Again! For all eyewear lenses, camera lenses, computer and mobile phone screens. Safe on anti-reflective and multi-coated lenses. 1 FL OZ/ 30 ML. Manufactured by a leader in the lens cleaning industry.
-  Updated: 2026-07-08T20:12:17Z
+  Updated: 2026-10-17T16:23:22Z
   Vendor: opti-source
   Product Type: Cleaner
   Availability: Available
@@ -173,49 +173,49 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/1-fl-oz-troys-readers-lens-cleaner-cleaner-5-pack-145254.jpg?v=1659901780
     Price: $11.49 USD
 - [Ash Sun-Staches](https://www.troysreaders.com/products/ash-sun-staches): Gotta catch em' all! All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-17T15:19:55Z
+  Updated: 2026-10-06T19:50:53Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/ash-sun-staches-sun-staches-363315.jpg?v=1629825281
   Price: $10.00 USD
 - [Lil' Paw Patrol Skye Sun-Staches](https://www.troysreaders.com/products/paw-patrol-skye-sun-staches): Woof. Woof. The squad is out and ready to take on the day. Time to feel like the coolest dog in town with a pair of these Paw Patrol Skye Sun-Staches. There’s a new patrol squad in town, and guess what; it’s you. Put on a pair of these Paw Patrol Skye Sun-Staches and you’ll be ready to take on anything that comes your way. Pup, pup, and away! With a pair of Paw Patrol Skye Sun-Staches you’ll be ready to fly and take on the sky. Don’t forget, buckle up! All Sun-Staches provide 100% UV400 protection, because we care.
-  Updated: 2026-07-17T01:45:51Z
+  Updated: 2026-10-06T19:50:55Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/lil-paw-patrol-skye-sun-staches-sun-staches-518621.jpg?v=1629825660
   Price: $10.00 USD
 - [Original Black Handlebar Sun-Staches](https://www.troysreaders.com/products/original-black-handlebar-sun-staches): I mustache you a question, but I'll shave it for later. Show you've got class with the Black Handlebar Sun-Staches! This is where the Sun-Staches revolution started. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-17T12:36:26Z
+  Updated: 2026-10-06T19:50:56Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/original-black-handlebar-sun-staches-sun-staches-958281.jpg?v=1629825535
   Price: $10.00 USD
 - [Harley Quinn Sun-Staches](https://www.troysreaders.com/products/harley-quinn-sun-staches): You might need to be a billionaire to create your own superhero. But, you can turn yourself into a supervillain for a lot less. Hang up the batgirl costume and get this Harley Quin look! How many other pairs of woman's sunglasses bring this mischief like these Sun-Staches? All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-17T19:16:39Z
+  Updated: 2026-10-06T19:50:57Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/harley-quinn-sun-staches-sun-staches-592514.jpg?v=1629825274
   Price: $10.00 USD
 - [Fluffy "Despicable Me" Sun-Staches](https://www.troysreaders.com/products/fluffy-despicable-me-sun-staches): Own your own Fluffy with out having to play any games. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-16T17:36:47Z
+  Updated: 2026-10-06T19:50:59Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/fluffy-despicable-me-sun-staches-sun-staches-779962.jpg?v=1629825111
   Price: $10.00 USD
 - [Pinky Pie Kids "My Little Pony" Sun-Staches](https://www.troysreaders.com/products/pinky-pie-kids-my-little-pony-sun-staches): In the magical world of "My Little Pony" you can find the funnest ponies that create your world into the most amazing world. Pinky Pie SunStaches will having you flying across shinning all over the place! All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-18T07:12:00Z
+  Updated: 2026-10-06T19:51:00Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/pinky-pie-kids-my-little-pony-sun-staches-sun-staches-597346.jpg?v=1629825666
   Price: $10.00 USD
 - [Owlette "PJ Mask" Sun-Staches](https://www.troysreaders.com/products/owlette-pj-mask-sun-staches): Keep your "Owl Eyes" on Owlette! You'll be sending bad guys airborne with a flick of your powerful wings, in these heroic Sun-Staches from our exclusive PJ Masks line. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-08T20:12:25Z
+  Updated: 2026-10-06T19:51:01Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
@@ -240,7 +240,7 @@
   Availability: Available
   Price: $3.00 USD
 - [!01 Assorted Soft Cases](https://www.troysreaders.com/products/soft-cases)
-  Updated: 2026-07-28T06:01:49Z
+  Updated: 2026-10-18T19:39:36Z
   Vendor: Troy's Readers
   Product Type: Eyewear Cases
   Availability: Available
@@ -283,26 +283,26 @@
   Availability: Available
   Price: $5.00 USD
 - [Magnify and Measure](https://www.troysreaders.com/products/magnify-and-measure): 2x power 6 inch magnifying ruler Thin and Flexible Easy to use Helps reduce eye strain Ideal for reading small print, menus,  labels and more Enlarges details- great for hobbies and crafts
-  Updated: 2026-07-08T20:12:27Z
+  Updated: 2026-10-06T19:51:03Z
   Vendor: Conklin Fashions INC.
   Product Type: Magnifiers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/magnify-and-measure-magnifiers-939764.jpg?v=1629825426
   Price: $2.00 USD
 - [Magnify on the Go 2-Pack](https://www.troysreaders.com/products/magnify-on-the-go): 2x power  size Fits conveniently in your purse, wallet or pocket Easy to use Helps reduce eye strain Ideal for reading small print, menus,  labels and more
-  Updated: 2026-07-08T20:12:27Z
+  Updated: 2026-10-06T19:51:04Z
   Vendor: Conklin Fashions INC.
   Product Type: Magnifiers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/magnify-on-the-go-2-pack-magnifiers-790668.jpg?v=1629825653
   Price: $2.00 USD
 - [47mm UV400 Clip On Sunglasses | Troy's Readers](https://www.troysreaders.com/products/polarized-spring-clip-on): Clip on sunglasses designed to fit small to medium glasses. Click Here.
-  Updated: 2026-07-15T08:23:35Z
+  Updated: 2026-10-06T22:50:13Z
   Vendor: Asia Pacific
   Product Type: clip-on/flip-up
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/47mm-uv400-clip-on-sunglasses-clip-onflip-up-351130.jpg?v=1659383147
-  Price: $8.99 USD
+  Price: $14.99 USD
 - [Wooden Colorful Kids Cord](https://www.troysreaders.com/products/wooden-colorful-kids-cord)
   Updated: 2026-07-28T06:01:51Z
   Vendor: Troy's Readers
@@ -316,7 +316,7 @@
   Availability: Available
   Price: $3.00 USD
 - [58mm Clip On Reader Assorted Powers](https://www.troysreaders.com/products/clip-on-reader-assorted-powers): Turn Sunglasses Into Readers More power for your readers or power to your sunglasses, these frameless clip on Reading lenses are perfect. Fits Most Glasses
-  Updated: 2026-07-08T20:12:28Z
+  Updated: 2026-10-21T19:47:57Z
   Vendor: E Focus Inc
   Product Type: clip-on/flip-up
   Availability: Available
@@ -324,57 +324,57 @@
   - [+1.00](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829067834)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+1.25](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829100602)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+1.50](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829133370)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+1.75](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829166138)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+2.00](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829198906)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+2.25](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829231674)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+2.50](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829264442)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+2.75](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829297210)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+3.00](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829329978)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
   - [+3.50](https://www.troysreaders.com/products/clip-on-reader-assorted-powers?variant=39659829362746)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/clip-on-reader-assorted-powers-clip-onflip-up-100-892906.jpg?v=1658199190
-    Price: $12.99 USD
+    Price: $14.99 USD
 - [Baseball Cap Visor Clip-on](https://www.troysreaders.com/products/baseball-cap-visor-clip-on): Glasses for your Hat! Yup, they go on your hat. Fancy that. Works well with all Baseball Caps and as well as all hats that have a stiff brim
-  Updated: 2026-07-29T05:56:27Z
+  Updated: 2026-10-22T19:58:07Z
   Vendor: E Focus Inc
   Product Type: clip-on/flip-up
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/baseball-cap-visor-clip-on-clip-onflip-up-534750.jpg?v=1658623167
   Price: $14.99 USD
 - [56mm Vision Guard Polarized Flip-up Clip on Sunglasses](https://www.troysreaders.com/products/polarized-flip-up-clip-on-sunglasses): Vision Guard Clip on Flip up Sunglasses Protect your eyes with premium heavy gauge 1.1mm Lenses. Easy to put on and take off.
-  Updated: 2026-07-16T09:52:57Z
+  Updated: 2026-10-06T22:50:12Z
   Vendor: E Focus Inc
   Product Type: clip-on/flip-up
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/56mm-vision-guard-medium-polarized-flip-up-clip-on-sunglasses-clip-onflip-up-913594.jpg?v=1658621560
-  Price: $12.99 USD
+  Price: $14.99 USD
 - [ICU Eyeware](https://www.troysreaders.com/products/icu-eyeware)
   Updated: 2026-07-28T06:01:51Z
   Vendor: Troy's Readers
@@ -527,12 +527,12 @@
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/plastic-metal-reader-reader-with-display-555795.jpg?v=1629825331
   Price: $8.00 USD
 - [Plastic Rhinestone Reader](https://www.troysreaders.com/products/plastic-rhinestone-reader)
-  Updated: 2026-07-28T06:01:56Z
+  Updated: 2026-10-10T08:02:22Z
   Vendor: Shark eyes
   Product Type: Reader with Display
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/plastic-rhinestone-reader-reader-with-display-302225.jpg?v=1629825282
-  Price: $8.00 USD
+  Price: $14.99 USD
 - [Plastic Rhinestone Metal Reader](https://www.troysreaders.com/products/plastic-rhinestone-metal-reader)
   Updated: 2026-07-28T06:01:56Z
   Vendor: Shark eyes
@@ -540,13 +540,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/plastic-rhinestone-metal-reader-reader-with-display-756881.jpg?v=1629825620
   Price: $8.00 USD
-- [Super Slim Reader](https://www.troysreaders.com/products/super-slim-reader)
-  Updated: 2026-07-28T06:01:56Z
-  Vendor: Shark eyes
-  Product Type: Reader with Display
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1512/7792/products/super-slim-reader-reader-with-display-894123.jpg?v=1629824814
-  Price: $6.00 USD
 - [Mens Plastic Metal Reader](https://www.troysreaders.com/products/mens-plastic-metal-reader)
   Updated: 2026-07-28T06:01:56Z
   Vendor: Shark eyes
@@ -599,7 +592,7 @@
   Availability: Available
   Price: $5.00 USD
 - [Fun in the Sun Flower Hair Clip](https://www.troysreaders.com/products/flower-hair-clip): Level Up Your Look This Summer With the fun and fantastic flower hair clip. Features Quality Made to Last Sparkle and Floral Designs Strong and Comfortable Comes in 4 Styles 2 Pack Black and White (1 each) Orange Flower Red Flower Flat Orange Flower (while Supplies Last)
-  Updated: 2026-07-17T13:51:47Z
+  Updated: 2026-10-06T19:51:06Z
   Vendor: Steve Crane
   Product Type: Counter Display
   Availability: Available
@@ -621,31 +614,31 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/flower-hair-clip-counter-display-306414.jpg?v=1656617089
     Price: $5.99 USD
 - [Fit Over](https://www.troysreaders.com/products/fit-over)
-  Updated: 2026-07-28T06:01:58Z
+  Updated: 2026-10-05T02:43:07Z
   Vendor: Steve Crane
   Product Type: Fit Over Sunglasses
   Availability: Available
   - [Amber](https://www.troysreaders.com/products/fit-over?variant=201092038671)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Smoke](https://www.troysreaders.com/products/fit-over?variant=201092071439)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Night Driving](https://www.troysreaders.com/products/fit-over?variant=201092104207)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Colorful Lens](https://www.troysreaders.com/products/fit-over?variant=201092136975)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Rhinestone](https://www.troysreaders.com/products/fit-over?variant=201092169743)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Colorful Frame](https://www.troysreaders.com/products/fit-over?variant=201092202511)
     Availability: Available
-    Price: $12.00 USD
+    Price: $20.00 USD
   - [Extra Small Frame](https://www.troysreaders.com/products/fit-over?variant=201092235279)
     Availability: Not Available
-    Price: $12.00 USD
+    Price: $20.00 USD
 - [Goggles](https://www.troysreaders.com/products/goggles)
   Updated: 2026-07-28T06:01:59Z
   Vendor: Troy's Readers
@@ -685,7 +678,7 @@
   Availability: Available
   Price: $2.00 USD
 - [Visor Curly Cord - No Tie Shoe Laces | Troy's Readers](https://www.troysreaders.com/products/visor-curly-cord): Best in class, durable, reliable, and curly. These are the foam sun visor curly cords and no tie shoelaces you are looking for. Click here for more colors than we know what to do with.
-  Updated: 2026-07-28T13:30:09Z
+  Updated: 2026-10-19T20:47:13Z
   Vendor: The Incredible Sunvisor
   Product Type: Curly cords
   Availability: Available
@@ -854,7 +847,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/replacement-curly-coil-no-tie-shoe-lace-band-for-foam-sun-visors-curly-cords-red-green-gold-glitz-pair-610705.jpg?v=1660428137
     Price: $4.99 USD
   - [Pair / Burgundy](https://www.troysreaders.com/products/visor-curly-cord?variant=39686746832954)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/replacement-curly-coil-no-tie-shoe-lace-band-for-foam-sun-visors-curly-cords-burgundy-pair-650937.jpg?v=1660428137
     Price: $4.99 USD
   - [Pair / Flat Red](https://www.troysreaders.com/products/visor-curly-cord?variant=39686746865722)
@@ -960,29 +953,8 @@
   Product Type: Counter Display
   Availability: Available
   Price: $5.00 USD
-- [Venti20 Pocket Blade Green](https://www.troysreaders.com/products/venti20-pocket-blade-green): Patented Pocket Blade Readers feature swivel temple that create a durable case. Small and lightweight, the Pocket Blade is the ideal readers for people on the go.
-  Updated: 2026-07-08T20:12:31Z
-  Vendor: opti-source
-  Product Type: Pocket Blade
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1512/7792/products/venti20-pocket-blade-green-pocket-blade-704530.jpg?v=1629825512
-  - [+1.00](https://www.troysreaders.com/products/venti20-pocket-blade-green?variant=201452388367)
-    Availability: Available
-    Price: $29.00 USD
-  - [+1.50](https://www.troysreaders.com/products/venti20-pocket-blade-green?variant=201485713423)
-    Availability: Not Available
-    Price: $29.00 USD
-  - [+200](https://www.troysreaders.com/products/venti20-pocket-blade-green?variant=201485746191)
-    Availability: Not Available
-    Price: $29.00 USD
-  - [+2.50](https://www.troysreaders.com/products/venti20-pocket-blade-green?variant=201485778959)
-    Availability: Not Available
-    Price: $29.00 USD
-  - [+3.00](https://www.troysreaders.com/products/venti20-pocket-blade-green?variant=201485811727)
-    Availability: Not Available
-    Price: $29.00 USD
 - [Venti20 Pocket Blade Red](https://www.troysreaders.com/products/venti20-pocket-blade-red): Patented Pocket Blade Readers feature swivel temple that create a durable case. Small and lightweight, the Pocket Blade is the ideal readers for people on the go.
-  Updated: 2026-07-08T20:12:31Z
+  Updated: 2026-10-06T19:51:08Z
   Vendor: opti-source
   Product Type: Pocket Blade
   Availability: Available
@@ -1003,7 +975,7 @@
     Availability: Not Available
     Price: $29.00 USD
 - [Venti20 Pocket Blade Plum](https://www.troysreaders.com/products/venti20-pocket-blade-plum): Patented Pocket Blade Readers feature swivel temple that create a durable case. Small and lightweight, the Pocket Blade is the ideal readers for people on the go.
-  Updated: 2026-07-08T20:12:32Z
+  Updated: 2026-10-18T04:36:33Z
   Vendor: opti-source
   Product Type: Pocket Blade
   Availability: Available
@@ -1093,7 +1065,7 @@
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/action-bottle-clip-action-clip-334596.jpg?v=1629825406
   Price: $3.00 USD
 - [Peanuts Metal Frame Negative Power Glasses for Distance](https://www.troysreaders.com/products/glasses-for-distance): Peanuts. Now thats all it costs to see clearly. We know its a recession. That's why we are only charging peanuts for these great distance glasses.
-  Updated: 2026-07-08T20:12:33Z
+  Updated: 2026-10-06T19:51:09Z
   Vendor: Shark Eyes
   Product Type: Distance Glasses
   Availability: Available
@@ -1306,7 +1278,7 @@
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/01-assorted-1-color-cords-cords-831812.jpg?v=1629825056
   Price: $1.00 USD
 - [Mod Pod Grey](https://www.troysreaders.com/products/mod-pod-black): Unique Original and Patented 360 Degree Folding Design - Opthalmic Quality Lenses. Discrete Pocket Size! When Folded these glasses measure 3/4" High with a 1/4" Width No Case Needed - When Folded The Temples Act as Protective Case. See Images. Perfect for the quick menu read or reviewing the check when dining. Super Thin and Super Light.
-  Updated: 2026-07-08T20:12:33Z
+  Updated: 2026-10-06T19:51:10Z
   Vendor: opti-source
   Product Type: Mod Pod
   Availability: Available
@@ -1327,7 +1299,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Mod Pod Brown](https://www.troysreaders.com/products/mod-pod-orange): Unique Original and Patented 360 Degree Folding Design - Opthalmic Quality Lenses. Discrete Pocket Size! When Folded these glasses measure 3/4" High with a 1/4" Width No Case Needed - When Folded The Temples Act as Protective Case. See Images. Perfect for the quick menu read or reviewing the check when dining. Super Thin and Super Light.
-  Updated: 2026-07-08T20:12:33Z
+  Updated: 2026-10-06T19:51:10Z
   Vendor: opti-source
   Product Type: Mod Pod
   Availability: Available
@@ -1354,7 +1326,7 @@
   Availability: Available
   Price: $10.00 USD
 - [Soft Neoprene Zipper Case In Six Colors](https://www.troysreaders.com/products/soft-neopren-zipper-case): -Soft Neoprene Zipper Case In Six Colors with clip. -Pouch Size (Length/Width): 18 x 7 x 3 cm Color may vary slightly
-  Updated: 2026-07-08T20:12:34Z
+  Updated: 2026-10-17T15:11:27Z
   Vendor: E Focus Inc
   Product Type: Cases
   Availability: Available
@@ -1384,7 +1356,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/soft-neoprene-zipper-case-in-six-colors-cases-black-505606.jpg?v=1658616399
     Price: $5.99 USD
 - [Reusable Stick on Bifocals](https://www.troysreaders.com/products/stick-on-bi-focals): Turn any ordinary glasses into reading glasses with these reusable magnifying lenses. They are crystal clear, removable/ reusable, and come with a carrying case. Use them on eyeglasses, sunglasses, goggles and driving masks.
-  Updated: 2026-07-08T20:12:34Z
+  Updated: 2026-10-18T04:36:33Z
   Vendor: opti-source
   Product Type: Stick on Bi-focal
   Availability: Available
@@ -1524,7 +1496,7 @@
   Availability: Available
   Price: $12.00 USD
 - [Keychain Screwdriver](https://www.troysreaders.com/products/screwdriver-key-chain): Key Chain Screwdriver 4.5"
-  Updated: 2026-07-08T20:12:35Z
+  Updated: 2026-10-06T19:51:11Z
   Vendor: opti-source
   Product Type: Counter Display
   Availability: Available
@@ -1584,7 +1556,7 @@
   Availability: Available
   Price: $1.00 USD
 - [Glam Ladies Large Lens Leopard Print Bifocal Reading Sunglasses](https://www.troysreaders.com/products/ladies-large-lens-sunreader): Click Here for Glam Bifocal Sunglass Reader well dressed and beautiful. Bifocal Lenses Saddle Bridge Leopard Print Comes in 4 Styles Black leopard print frames with amber lenses.
-  Updated: 2026-07-16T17:44:35Z
+  Updated: 2026-10-18T04:36:33Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -1790,7 +1762,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/glam-ladies-large-lens-leopard-print-bifocal-reading-sunglasses-bifocal-reading-sunglasses-394195.jpg?v=1681177472
     Price: $14.99 USD
 - [Fly Clubmaster Bifocal Reading Sunglasses](https://www.troysreaders.com/products/clubmaster-bi-focal-reading-sunglasses): Click Here to Look Good Bifocal Lenses Adjustable Nose Pads Metal & Plastic Frames Nice and Sturdy Comes in 2 Styles Black Frame with Smoke Lenses Tortoise Frame.
-  Updated: 2026-07-08T20:12:35Z
+  Updated: 2026-10-06T19:51:12Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -1904,7 +1876,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/fly-clubmaster-bifocal-reading-sunglasses-bifocal-reading-sunglasses-648163.jpg?v=1633986907
     Price: $14.99 USD
 - [The Man Aviator Bifocal Reading Sunglasses](https://www.troysreaders.com/products/aviator-bi-focal-reading-sunglasses): Click Here So No One Will Question Your Authority Comparable build quality to Expensive Brand name glasses 100% UVA & UVB.
-  Updated: 2026-07-08T20:12:36Z
+  Updated: 2026-10-18T04:36:33Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -2006,49 +1978,49 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/the-man-aviator-bifocal-reading-sunglasses-bifocal-reading-sunglasses-638586.jpg?v=1635717592
     Price: $14.99 USD
 - [Ariel "The Little Mermaid" Sun-Staches](https://www.troysreaders.com/products/ariel-the-little-mermaid-sun-staches): Live under the sea with Ariel and friends with your fun and creative Little Mermaid Sun-Staches! Become the princess of the sea with Ariel Sun-Staches All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-16T00:08:49Z
+  Updated: 2026-10-06T19:51:13Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/ariel-the-little-mermaid-sun-staches-sun-staches-522259.jpg?v=1629825726
   Price: $10.00 USD
 - [Batman Dark Knight Sun-Staches](https://www.troysreaders.com/products/batman-dark-knight-sun-staches): If you're an eccentric billionaire who moonlights as a superhero, you need to protect your identity. Even if you're not, the Batman Dark Night Sun-Stache will keep you incognito when you fight crime. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-08T20:12:36Z
+  Updated: 2026-10-06T19:51:13Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/batman-dark-knight-sun-staches-sun-staches-680412.jpg?v=1629824961
   Price: $10.00 USD
 - [Peppa Pig Sun-Staches](https://www.troysreaders.com/products/peppa-pig-sun-staches): Put some pep in your step with Peppa Sun-Staches. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-18T10:19:28Z
+  Updated: 2026-10-06T19:51:14Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/peppa-pig-sun-staches-sun-staches-123672.jpg?v=1629825709
   Price: $10.00 USD
 - [Rapunzel Sun-Staches](https://www.troysreaders.com/products/princess-cinderella-sun-staches): Make it tradition to wear the Olaf Sun-Staches! every Christmas year. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-16T08:32:14Z
+  Updated: 2026-10-06T19:51:15Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/rapunzel-sun-staches-sun-staches-408555.jpg?v=1629825704
   Price: $10.00 USD
 - [Snow White Sun-Staches](https://www.troysreaders.com/products/tinkerbell-sun-staches): All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-08T20:12:38Z
+  Updated: 2026-10-06T19:51:15Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/snow-white-sun-staches-sun-staches-666932.jpg?v=1629824983
   Price: $10.00 USD
 - [Stitch Sun-Staches](https://www.troysreaders.com/products/stitch-sun-staches): All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-17T10:17:27Z
+  Updated: 2026-10-06T19:51:15Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/stitch-sun-staches-sun-staches-365640.jpg?v=1629825631
   Price: $10.00 USD
 - [Princess Jasmine Sun-Staches](https://www.troysreaders.com/products/princess-jasmine-sun-staches): Breakaway from the normal and become one of the beautiful princess in the world of Disney where she meets Aladdin. Jasmine Princess Sun-Staches will transform you into a world of wonders and adventure. All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-08T20:12:39Z
+  Updated: 2026-10-06T19:51:16Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
@@ -2075,7 +2047,7 @@
     Availability: Available
     Price: $8.00 USD
 - [On The Beam Frameless Metal Bifocal Reading Sunglasses](https://www.troysreaders.com/products/rimless-metal-bi-focal-reading-sunglasses): On The Beam, The Frameless Bifocal Sunglasses. Bifocal Lenses Frameless Design Nose Pads Quality Feel 100% UVA & UVB. Click Here for Great Quality.
-  Updated: 2026-07-18T14:41:38Z
+  Updated: 2026-10-17T20:38:21Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -2281,7 +2253,7 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/on-the-beam-frameless-metal-bifocal-reading-sunglasses-bifocal-reading-sunglasses-633698.jpg?v=1635644359
     Price: $14.99 USD
 - [Fantabulous Ladies XL Butterfly Bifocal Reading Sunglass](https://www.troysreaders.com/products/ladies-xl-lens-bi-focal-reading-sunglasses): Click here for great quality glasses Fantabulous XL Butterfly Sunglass Reader. big Bifocal Lenses Metal Accent on Sides
-  Updated: 2026-07-16T10:25:29Z
+  Updated: 2026-10-06T19:51:16Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -2467,13 +2439,13 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/fantabulous-ladies-xl-butterfly-lens-bifocal-reading-sunglasses-bifocal-reading-sunglasses-462499.jpg?v=1634254751
     Price: $14.99 USD
 - [Rhinestone Fits-Over Sunglasses](https://www.troysreaders.com/products/rhinestone-fits-over-sunglasses-1)
-  Updated: 2026-07-28T06:02:06Z
+  Updated: 2026-10-05T02:43:07Z
   Vendor: Asia Pacific
   Product Type: Fit Over Sunglasses
   Availability: Available
-  Price: $15.99 USD
+  Price: $20.00 USD
 - [Admiral Polarized Sport Bifocal Reading Sunglasses](https://www.troysreaders.com/products/polarized-sport-bi-focal-reading-sunglasses): Click Here Admiral the Sleek and Durable Polarized Sunglass Reader Protect your eyes.  Polarized Bifocal Lenses Durable Quality Made Light Weight Non-slip.
-  Updated: 2026-07-17T14:22:58Z
+  Updated: 2026-10-18T04:36:37Z
   Vendor: Asia Pacific
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -2587,42 +2559,42 @@
     Image: https://cdn.shopify.com/s/files/1/1512/7792/products/admiral-polarized-sport-bifocal-reading-sunglasses-bifocal-reading-sunglasses-339599.jpg?v=1688949380
     Price: $15.99 USD
 - [PJ Masks Catboy Sun-Staches](https://www.troysreaders.com/products/pj-masks-catboy-sun-staches): Who says you need to be a cat to have cat like reflexes! Catboy Sun-Staches can help you become the fastest and most remarkably active hero at night to protect lives at daylight! Catboy to the rescue! All Sun-Staches provide 100% UV400 protection, because we care. Ages 3+
-  Updated: 2026-07-08T20:12:41Z
+  Updated: 2026-10-06T19:51:18Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/pj-masks-catboy-sun-staches-sun-staches-613992.jpg?v=1629824827
   Price: $10.00 USD
 - [Mickey Mouse Sun-Staches](https://www.troysreaders.com/products/mickey-mouse-sun-staches): Be apart of the magic Disney brings with SUn-Staches in the Mickey Mouse Sun-Staches! All Sun-Staches provide 100% UV400 protection, because we care. One Size fits Most
-  Updated: 2026-07-22T01:45:38Z
+  Updated: 2026-10-06T19:51:18Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/mickey-mouse-sun-staches-sun-staches-916192.jpg?v=1629824942
   Price: $10.00 USD
 - [Winnie the Pooh Sun-Staches](https://www.troysreaders.com/products/copy-of-princess-jasmine-sun-staches): All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-18T07:40:54Z
+  Updated: 2026-10-06T19:51:19Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/winnie-the-pooh-sun-staches-sun-staches-138891.jpg?v=1629825066
   Price: $10.00 USD
 - [Gekko "PJ Mask" Sun-Staches](https://www.troysreaders.com/products/gekko-pj-mask-sun-staches): All Sun-Staches provide 100% UV400 protection, because we care. One size fits most.
-  Updated: 2026-07-15T09:03:23Z
+  Updated: 2026-10-06T19:51:19Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/gekko-pj-mask-sun-staches-sun-staches-398460.jpg?v=1629825474
   Price: $10.00 USD
 - [Princess Peach Sun-Staches](https://www.troysreaders.com/products/princess-peach-sun-staches): All Sun-Staches provide 100% UV400 protection, because we care. One size fits most
-  Updated: 2026-07-16T03:32:59Z
+  Updated: 2026-10-06T19:51:20Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1512/7792/products/princess-peach-sun-staches-sun-staches-683566.jpg?v=1629825330
   Price: $10.00 USD
 - [Minnie Mouse Look Up Sun-Staches](https://www.troysreaders.com/products/minnie-mouse-sun-staches): Minnie is the sweetest mouse around, well known for her collection of big bows! She is a hopeless romantic and very affectionate and helps Mickey when things get tough. You can become one of Disney’s most famous characters in Minnie’s famous red bow with these Sun-Staches! All Sun-Staches provide 100% UV400 protection, because we care. Ages 3+
-  Updated: 2026-07-08T20:12:44Z
+  Updated: 2026-10-06T19:51:20Z
   Vendor: Sun-Staches
   Product Type: Sun-Staches
   Availability: Available
@@ -2649,7 +2621,7 @@
     Availability: Available
     Price: $12.00 USD
 - [Brain Child Ladies Large Round Bifocal Reading Sunglasses](https://www.troysreaders.com/products/bi-focal-reading-sunglasses): Brain Child. Intelligent Ladies Round Bifocal Sunglass Reader. Bifocal Lenses Round lenses Quality Feel 100% UVA & UVB. Click Here for Our Amazing Glasses
-  Updated: 2026-07-08T20:12:45Z
+  Updated: 2026-10-17T20:18:27Z
   Vendor: E Focus Inc
   Product Type: Bifocal Reading Sunglasses
   Availability: Available
@@ -2819,162 +2791,15 @@
   - [+2.50](https://www.troysreaders.com/products/snake-skin-bi-focal-reading-sunglasses?variant=659450855439)
     Availability: Available
     Price: $8.00 USD
-- [Sporty Amber Wrap Around Bi-focal Reading Sunglasses](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses)
-  Updated: 2026-07-28T06:02:07Z
-  Vendor: E Focus Inc
-  Product Type: Bifocal Reading Sunglasses
-  Availability: Available
-  - [+1.00](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516194831)
-    Availability: Available
-    Price: $8.00 USD
-  - [+1.25](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516227599)
-    Availability: Available
-    Price: $8.00 USD
-  - [+1.50](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516260367)
-    Availability: Not Available
-    Price: $8.00 USD
-  - [+1.75](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516293135)
-    Availability: Available
-    Price: $8.00 USD
-  - [+2.00](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516325903)
-    Availability: Not Available
-    Price: $8.00 USD
-  - [+2.25](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516358671)
-    Availability: Available
-    Price: $8.00 USD
-  - [+2.50](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516391439)
-    Availability: Not Available
-    Price: $8.00 USD
-  - [+2.75](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516424207)
-    Availability: Available
-    Price: $8.00 USD
-  - [+3.00](https://www.troysreaders.com/products/sport-wrap-around-bi-focal-reading-sunglasses?variant=659516456975)
-    Availability: Available
-    Price: $8.00 USD
-- [Quadracle](https://www.troysreaders.com/products/quadracle)
-  Updated: 2026-07-28T06:02:07Z
-  Vendor: E Focus Inc
-  Product Type: Reader no Case
-  Availability: Available
-  Price: $8.00 USD
-- [Alligator Folding Glasses](https://www.troysreaders.com/products/copy-of-quadracle)
-  Updated: 2026-07-28T06:02:07Z
-  Vendor: Troy's Readers
-  Product Type: Reader with Display
-  Availability: Available
-  Price: $8.00 USD
-- [Foster Grant Folding Glasses](https://www.troysreaders.com/products/foster-grant-folding-glasses)
-  Updated: 2026-07-28T06:02:07Z
-  Vendor: Troy's Readers
-  Product Type: 
-  Availability: Available
-  Price: $8.00 USD
-- [It's a Gas the Sport Cushion Night Driving Glasses](https://www.troysreaders.com/products/night-driving-sport-frame): Sport Cushion Night Driving Glasses Features Yellow Lenses Cushioned Frames Protects from wind comfortable under a helmet Comes in 1 Style Black Frame Measurements Frame Width: 135mm Frame Height: 42mm Temple Length: 160mm Bridge Width: 15mm Weight: 1.2oz / 31grams
-  Updated: 2026-07-08T20:12:45Z
-  Vendor: E Focus Inc
-  Product Type: Night Driver
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1512/7792/products/its-a-gas-the-sport-cushion-night-driving-glasses-night-driver-352596.jpg?v=1656297018
-  - [Gloss Black](https://www.troysreaders.com/products/night-driving-sport-frame?variant=911575285775)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/its-a-gas-the-sport-cushion-night-driving-glasses-night-driver-352596.jpg?v=1656297018
-    Price: $14.99 USD
-  - [Matte Black](https://www.troysreaders.com/products/night-driving-sport-frame?variant=39873028128826)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/its-a-gas-the-sport-cushion-night-driving-glasses-night-driver-352596.jpg?v=1656297018
-    Price: $14.99 USD
-- [Hang Ten Coco Kids Sunglasses](https://www.troysreaders.com/products/hang-ten-coco-sunglasses): Plastic FrameUV400 Frame Size: Lens Width: 48mm Bridge: 13mm Temple: 120mm
-  Updated: 2026-07-17T03:47:05Z
-  Vendor: Shark eyes
-  Product Type: kids sunglasses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-black-222782.jpg?v=1629824826
-  - [Black](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=779535548431)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-black-222782.jpg?v=1629824826
-    Price: $10.00 USD
-  - [Peach](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=779540037647)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-peach-809648.jpg?v=1629824864
-    Price: $10.00 USD
-  - [White](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=779540070415)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-white-992622.jpg?v=1629825010
-    Price: $10.00 USD
-  - [White Marble](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=779540103183)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-white-marble-387454.jpg?v=1629825401
-    Price: $10.00 USD
-  - [Green](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7160962252858)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-green-275465.jpg?v=1629825416
-    Price: $10.00 USD
-  - [Light Pink](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7161247957050)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-light-pink-318763.jpg?v=1629825482
-    Price: $10.00 USD
-  - [Purple](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7161282789434)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-purple-294761.jpg?v=1629825581
-    Price: $10.00 USD
-  - [Cream](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7161323454522)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-cream-693529.jpg?v=1629825413
-    Price: $10.00 USD
-  - [White with Wood](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7161331810362)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-white-with-wood-301691.jpg?v=1629825205
-    Price: $10.00 USD
-  - [Black with Wood](https://www.troysreaders.com/products/hang-ten-coco-sunglasses?variant=7161336594490)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-coco-kids-sunglasses-kids-sunglasses-black-with-wood-938882.jpg?v=1629825311
-    Price: $10.00 USD
-- [Hang Ten Venice Kids Sunglasses](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses): Plastic FrameUV400 Frame Size: Lens Width: 45mm Bridge: 12mm Temple: 120mm
-  Updated: 2026-07-17T20:27:30Z
-  Vendor: Shark eyes
-  Product Type: kids sunglasses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-blue-580963.jpg?v=1629825284
-  - [Blue](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=779733958671)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-blue-580963.jpg?v=1629825284
-    Price: $10.00 USD
-  - [Pink](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=779745591311)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-pink-464928.jpg?v=1629825707
-    Price: $10.00 USD
-  - [Dark Wood](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=779745624079)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-dark-wood-897944.jpg?v=1629825189
-    Price: $10.00 USD
-  - [Light Wood](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=779745656847)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-light-wood-736909.jpg?v=1629825523
-    Price: $10.00 USD
-  - [Grey Wood](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=779745689615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-grey-wood-493681.jpg?v=1629825685
-    Price: $10.00 USD
-  - [Tortoises](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=7163817295930)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-tortoises-311999.jpg?v=1629824813
-    Price: $10.00 USD
-  - [Tortoises Polarized](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=7163818508346)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1512/7792/products/hang-ten-venice-kids-sunglasses-kids-sunglasses-tortoises-311999.jpg?v=1629824813
-    Price: $12.00 USD
-  - [Tan](https://www.troysreaders.com/products/hang-ten-venice-kids-sunglasses?variant=7163847901242)
-    Availability: Not Available
-    Price: $10.00 USD
-[List Continued](https://www.troysreaders.com/a/llms-agent/llms.txt?shop=troys-readers.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MjU0MzMzODUxMSwibGFzdF92YWx1ZSI6IjcyNTQzMzM4NTExIn0%3D)
+[List Continued](https://www.troysreaders.com/a/llms-agent/llms.txt?shop=troys-readers.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2MTA0MzAxNTY5NSwibGFzdF92YWx1ZSI6IjYxMDQzMDE1Njk1In0%3D)
 
 ## Collections
 
 - [Home page](https://www.troysreaders.com/collections/frontpage): Troys Readers Gifts, Glasses, and Foam Sun visors.
-  Updated: 2026-07-22T11:04:13Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 40
 - [Cinzia Reading Glasses](https://www.troysreaders.com/collections/cinzia): Cinzia reading glasses are high quality eyewear made of strong and durable frames. Cinzia reading glasses are designer eyewear for the modern individual, who appreciates the beauty of clean yet bold lines. Cinzia reading glasses are for those who invests in their style, who aims to be distinctive rather than trendy. we carry Cinzia reading glasses for men and women.
-  Updated: 2026-07-24T11:04:43Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 39
 - [Toddler](https://www.troysreaders.com/collections/kids)
   Updated: 2026-07-08T20:12:14Z
@@ -2986,16 +2811,16 @@
   Updated: 2026-07-08T20:13:42Z
   Total Products: 17
 - [Cinzia Reading Sunglasses](https://www.troysreaders.com/collections/cinzia-reading-sunglasses)
-  Updated: 2026-07-24T11:04:43Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 35
 - [Coed](https://www.troysreaders.com/collections/coed)
   Updated: 2026-07-08T20:13:42Z
   Total Products: 9
 - [Good Quality Reading Sunglasses Single Vision and Bifocal](https://www.troysreaders.com/collections/reading-sunglasses): Quality bifocal and single vision sunglass readers. Protect your eyes and still live life to the fullest with quality reading sunglasses with the magnification that you need.
-  Updated: 2026-07-28T11:04:50Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 60
 - [Aloha Headache Free miracle Hawaiian and Tropical print foam sun visor with coil lace](https://www.troysreaders.com/collections/hawaiian-prints): Say aloha with these fun Hawaiian and tropical flower themed foam sun visor prints. Visit us for Headache free all day comfort headwear.
-  Updated: 2026-07-28T11:04:50Z
+  Updated: 2026-10-17T11:06:12Z
   Total Products: 5
 - [iDecoz](https://www.troysreaders.com/collections/idecoz)
   Updated: 2026-07-08T23:21:20Z
@@ -3013,7 +2838,7 @@
   Updated: 2026-07-08T20:12:15Z
   Total Products: 2
 - [Accessories](https://www.troysreaders.com/collections/accessories-1)
-  Updated: 2026-07-18T11:04:35Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 267
 - [Travel](https://www.troysreaders.com/collections/travel)
   Updated: 2026-07-08T23:19:33Z
@@ -3022,106 +2847,106 @@
   Updated: 2026-07-08T20:13:59Z
   Total Products: 32
 - [Socksmith](https://www.troysreaders.com/collections/socksmith)
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 321
 - [Popsockets](https://www.troysreaders.com/collections/popsockets)
-  Updated: 2026-07-08T23:27:12Z
+  Updated: 2026-10-05T01:40:10Z
   Total Products: 70
 - [All Reading Glasses](https://www.troysreaders.com/collections/reading-glasses): Troy's Readers has a mission to offer affordable high quality reading glasses that are built better, stronger, and more durable then others in its class. We offer mens and women's reading glasses that are stylish but don't break the bank. Feel young and look as good on the outside as you are on the inside with our new colorful reading glasses. Leave your cares behind with our affordable readers that are there when you need them. We stand behind our products and offer 30 day returns.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 478
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 477
 - [Women Reading Glasses](https://www.troysreaders.com/collections/women-reading-glasses)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 121
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 120
 - [Men's Reading Glasses](https://www.troysreaders.com/collections/mens-reading-glasses): Mens readers up to +6.00 bifocal, progressive, and sunglass readers click here for reliable quality eyewear under $15.00.
-  Updated: 2026-07-30T11:04:54Z
-  Total Products: 72
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 71
 - [Fabric foam sun visors with adjustable coil lace band and hideable tuck away ends](https://www.troysreaders.com/collections/foam-sun-visor): Come see our huge selection of quality fabric foam sun visors with hideable clean ends that don't hang out. Comes with coil lace band. Soft, cool, and fun. Click here
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 300
 - [Headache free Glitz fabric foam sun visors with coil lace band](https://www.troysreaders.com/collections/glitz): The incredible miracle headache free glitz foam sun visor will keep you comfortable even with all day wear. Click here for the sparkles, click here for the glitz.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-14T11:03:42Z
   Total Products: 43
 - [Golf themed prints fabric foam sun visors with adjustable coil lace band](https://www.troysreaders.com/collections/golf-1): Click Here to make your friends jealous with these golf theme fabric foam sun visor hats. Golf balls, golf carts, and golf bag themed prints of fabric foam sun visors.
-  Updated: 2026-07-08T23:24:12Z
+  Updated: 2026-10-08T11:04:02Z
   Total Products: 19
 - [Sports theme fabric foam sun visors with adjustable curl coil lace band](https://www.troysreaders.com/collections/sports): Click Here for the best fabric foam sun visors perfect for any sports related occasion. Stays on, comfortable, and keeps the sun out of your eyes.
-  Updated: 2026-07-16T11:04:27Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 7
 - [Solid Color fabric foam sun visors with adjustable curly coil lace band](https://www.troysreaders.com/collections/solid-color-visors): Click Here to see every color of solid print fabric foam sun visors to match all of your outfits. We got the color for you.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 17
 - [Floral print fabric foam sun visors with adjustable coil lace band](https://www.troysreaders.com/collections/floral-sun-visors): Amazing selection of cotton fabric floral flower print EVA foam sun visors. Click Here for the best in quality headache free visor hats.
-  Updated: 2026-07-28T11:04:50Z
+  Updated: 2026-10-17T11:06:12Z
   Total Products: 33
 - [Animal prints fabric foam sun visor with adjustable curly coil lace band](https://www.troysreaders.com/collections/animal-visors): Comes in dog and cat patterns, zoo animals, farm animals, and animal skin prints. Our foam sun visors are headache free and perfect for all day wear Click here.
-  Updated: 2026-07-28T11:04:50Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 11
 - [Multi color prints and rainbow fabric foam sun visors with adjustable curly coil lace band](https://www.troysreaders.com/collections/rainbow-visors): Click Here to see the best rainbow and multi color fabric foam sun visors made with waterproof EVA foam. Be a free spirit with these colorful hats.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 9
 - [Patterns fabric foam sun visors](https://www.troysreaders.com/collections/patterns-visors): Comfortable waterproof EVA foam. Hide away ends -NO more unsightly curly cords sticking out of the sides of this hat! Adjustable coil lace band. Click Here
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 11
 - [Fun colorful fabric foam sun visor prints with adjustable curly coil lace band](https://www.troysreaders.com/collections/fun-visor-prints): Live your best life with fun tie-dye, sandals, and everything else prints that will brighten up your day. Click Here to show us your fun side.
-  Updated: 2026-07-27T11:04:09Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 117
 - [Women Socks](https://www.troysreaders.com/collections/women-socks)
-  Updated: 2026-07-08T23:27:19Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 281
 - [Men Socks](https://www.troysreaders.com/collections/men-socks)
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 339
 - [Kids socks](https://www.troysreaders.com/collections/kids-socks)
-  Updated: 2026-07-08T23:28:12Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 71
 - [Really funny Socks perfect for gift ideas](https://www.troysreaders.com/collections/socks): Blue Q, socks smith, sock it to me, Wit, Good luck socks, Headline, foozies, and other great name brand socks perfect for gifts. Click here!
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 844
 - [Gift Items](https://www.troysreaders.com/collections/gift-items)
-  Updated: 2026-07-30T11:04:54Z
-  Total Products: 851
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 841
 - [BlueQ](https://www.troysreaders.com/collections/blueq)
-  Updated: 2026-07-08T23:27:19Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 295
 - [Wit Gifts](https://www.troysreaders.com/collections/wit-gifts)
   Updated: 2026-07-08T23:21:02Z
   Total Products: 68
 - [Kitchen Stuff](https://www.troysreaders.com/collections/in-the-kitchen)
-  Updated: 2026-07-08T23:28:21Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 269
 - [All Sunglasses](https://www.troysreaders.com/collections/sunglasses)
-  Updated: 2026-07-29T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 302
 - [Night Driving Sunglasses](https://www.troysreaders.com/collections/night-driving): Yellow Lens Glasses used for nighttime driving and hunting.
-  Updated: 2026-07-08T23:26:09Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 23
 - [Fit Over Sunglasses](https://www.troysreaders.com/collections/fit-overs): Glasses that fit over your other glasses. Turn any readers or perscription glasses into sunglasses today. Easy to use and great for the car.
-  Updated: 2026-07-08T23:27:34Z
+  Updated: 2026-10-05T02:43:09Z
   Total Products: 68
 - [Progressive Readers and Progressive Reading Sunglasses](https://www.troysreaders.com/collections/progressive-readers): Progressive multifocal reading glasses and reading sunglasses are perfect for all day wear. No more having to constantly take off and put on your glasses. Click Here
-  Updated: 2026-07-08T23:28:21Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 18
 - [Venti20 Pocket Blade](https://www.troysreaders.com/collections/venti20-pocket-blade): Patented Pocket Blade Readers feature swivel temple that create a durable case. Small and lightweight, the Pocket Blade is the ideal readers for people on the go.
-  Updated: 2026-07-08T20:12:40Z
+  Updated: 2026-10-01T11:04:07Z
   Total Products: 6
 - [Clic Magnetic Connection Reading Glasses](https://www.troysreaders.com/collections/clic-magnetic-connection-reading-glasses): Shop Clic Glasses featuring magnetic front closures and adjustable neckbands. Comfortable, convenient reading glasses always within reach.
-  Updated: 2026-07-08T23:27:16Z
+  Updated: 2026-10-12T11:04:20Z
   Total Products: 18
 - [Mod Pod](https://www.troysreaders.com/collections/mod-pod)
   Updated: 2026-07-08T20:12:42Z
   Total Products: 6
 - [ThinOptics](https://www.troysreaders.com/collections/thinoptics): Thin Optics, these are the best readers to always have with you. Reliable and thin, they conveniently stick on the back of your phone slide into your wallet or become part of your keychain. Great for golf bags and everywhere readers are needed.
-  Updated: 2026-07-08T23:21:22Z
+  Updated: 2026-10-06T11:04:46Z
   Total Products: 6
 - [Readers With Matching Case](https://www.troysreaders.com/collections/readers-with-case): Great readers the come with matching cases.
-  Updated: 2026-07-23T11:04:24Z
-  Total Products: 93
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 92
 - [It Takes Balls To Golf](https://www.troysreaders.com/collections/it-takes-balls-to-golf)
   Updated: 2026-07-08T23:19:23Z
   Total Products: 6
 - [Headline](https://www.troysreaders.com/collections/headline)
-  Updated: 2026-07-08T23:25:40Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 36
 - [Two Left Feet](https://www.troysreaders.com/collections/two-left-feet)
   Updated: 2026-07-08T20:12:17Z
@@ -3130,22 +2955,22 @@
   Updated: 2026-07-08T23:19:40Z
   Total Products: 9
 - [Eyewear Cases](https://www.troysreaders.com/collections/eyewear-cases)
-  Updated: 2026-07-18T11:04:35Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 125
 - [Eyewear Fashion Chains](https://www.troysreaders.com/collections/eyewear-cords-chains): Buy Two Get One FREE! Click Here For 
-  Updated: 2026-07-08T23:25:41Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 76
 - [Eyewear Retainers](https://www.troysreaders.com/collections/eyewear-holders)
-  Updated: 2026-07-08T23:27:26Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 92
 - [Foozys Dog Collection](https://www.troysreaders.com/collections/foozys-dog-collection)
-  Updated: 2026-07-08T23:28:21Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 60
 - [Foozys Socks](https://www.troysreaders.com/collections/foozys-socks)
-  Updated: 2026-07-08T23:28:21Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 106
 - [Glasses Cleaner](https://www.troysreaders.com/collections/glasses-cleaner)
-  Updated: 2026-07-08T23:28:12Z
+  Updated: 2026-10-18T11:04:26Z
   Total Products: 11
 - [Magnifying Glasses](https://www.troysreaders.com/collections/magnifying-glasses)
   Updated: 2026-07-08T23:21:46Z
@@ -3163,142 +2988,142 @@
   Updated: 2026-07-23T11:04:24Z
   Total Products: 64
 - [Multifocal Readers and Multifocal Sunglass Readers](https://www.troysreaders.com/collections/multi-focal-progressive-readers): Progressive multifocal reading glasses perfect for the office. great for reading up close, at your computer screen, and across the desk. Click here for quality glasses.
-  Updated: 2026-07-08T23:28:21Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 18
 - [Bifocal Reading Sunglasses](https://www.troysreaders.com/collections/bi-focal-reading-sunglasses): Bifocal Sunglass Readers are the best way to read in the sun. Live your Life and protect your eyes with our great quality glasses.
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 117
 - [Fully Magnified Reading Sunglasses](https://www.troysreaders.com/collections/single-power-reading-sunglasses): Click Here to see the most comfortable Fully Magnified sunglass readers. Perfect for at the beach, a quick round of golf, or reading by the pool.
-  Updated: 2026-07-28T11:04:50Z
-  Total Products: 59
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 58
 - [Clip-On Sunglasses & Flip-Up Sunglasses | Polarized, Reading & Night Driving Clip On](https://www.troysreaders.com/collections/clip-on-sunglasses-flip-up-sunglasses-polarized-reading-night-driving-clip-on): Shop polarized clip-on sunglasses, flip-up sunglasses, magnetic clip-ons, reading clip-ons & night driving lenses. Find the perfect fit for your glasses.
-  Updated: 2026-07-29T11:04:16Z
-  Total Products: 88
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 87
 - [Clear Bifocal Reading Glasses – No Line Readers for Men & Women](https://www.troysreaders.com/collections/clear-bi-focal): Shop clear bifocal reading glasses for men and women. No-line bifocal readers, blue light bifocals, high power bifocal reading glasses.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-16T11:07:25Z
   Total Products: 16
 - [Lanyard & Key Fob](https://www.troysreaders.com/collections/lanyard-key-fob)
   Updated: 2026-07-08T23:25:39Z
   Total Products: 3
 - [Reading Glasses Without Case](https://www.troysreaders.com/collections/reading-glasses-1)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 52
 - [High Power Reading Glasses | Strong Readers from +3.25 to +6.00](https://www.troysreaders.com/collections/high-power-reading-glasses): Shop high power reading glasses from +3.25 to +6.00. Find stylish, lightweight, durable readers for men and women. Lightweight, Spring Hinges, Blue Light Reader
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 78
 - [Curly cord coil lace band for fabric foam sun visor and no tie shoe lace](https://www.troysreaders.com/collections/visor-curly-cord): Available in tons of colors, blue, black, white, red, green pink, tan, brown, glitz, purple just to name a few. Click here to see them all.
-  Updated: 2026-07-26T11:04:24Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 2
 - [Makeup Applicator Glasses](https://www.troysreaders.com/collections/makeup-applicator-glasses)
-  Updated: 2026-07-08T23:28:24Z
+  Updated: 2026-10-02T11:04:42Z
   Total Products: 5
 - [Refrigerator Magnets](https://www.troysreaders.com/collections/refrigerator-magnets): The best part of any home is the fridge. Yet no refrigerator is complete without a vast collection of magnets. Seroiusly, you can never have enough of these.
-  Updated: 2026-07-08T23:27:25Z
+  Updated: 2026-10-11T11:04:42Z
   Total Products: 81
 - [Blue Light Blocking Reading Glasses | Computer Readers for Men & Women](https://www.troysreaders.com/collections/blue-blocking-reading-glasses): hop blue light blocking reading glasses for computer use. Reduce eye strain, improve screen comfort, and enjoy clear vision with stylish blue light readers for men and women.
-  Updated: 2026-07-08T23:28:08Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 10
 - [](https://www.troysreaders.com/collections/)
-  Updated: 2026-07-27T11:04:09Z
+  Updated: 2026-10-16T11:07:25Z
   Total Products: 62
 - [Trimmed Fabric Foam Visor with adjustable curly coil band](https://www.troysreaders.com/collections/trimmed-foam-visor): Trimmed out for extra long life and durability Our already great fabric foam visors just got even better.
-  Updated: 2026-07-08T23:25:43Z
+  Updated: 2026-10-12T11:04:20Z
   Total Products: 14
 - [Solar Shield](https://www.troysreaders.com/collections/solar-shield)
-  Updated: 2026-07-08T23:22:58Z
+  Updated: 2026-10-05T02:42:59Z
   Total Products: 4
 - [Saxmod](https://www.troysreaders.com/collections/saxmod): Saxophone mouthpiece stand. A Strong, secure and versatile saxophone mouthpiece stand with Plenty of room for all of your clarinet soprano alto tenor and baritone saxophone mouthpieces and their removable baffles. Holds your expensive equipment snugly with minimum to no wobble when used correctly. Individual stands can be combined back to back and side to side or both with the included attachment squares to form many possibilities for all your needs.
   Updated: 2026-07-08T23:23:26Z
   Total Products: 9
 - [+3.25 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-3-25): Shop stylish +3.25 reading glasses for men and women. Browse high power readers, blue light readers, bifocals, lightweight frames, and fast shipping from Troy's Readers.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 65
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 66
 - [+3.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-3-00)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 277
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 276
 - [+3.50 Reading Glasses](https://www.troysreaders.com/collections/collections-3-50-reading-glasses): Shop +3.50 reading glasses for men and women. Browse stylish high power readers, blue light readers, bifocals, lightweight frames, and fast shipping from Troy's Readers.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 125
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 124
 - [+3.75 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-3-75): Browse +6.00 reading glasses, extra strong readers, and high power magnification glasses for fine print, hobbies, crafts, sewing, and detailed work. Shop Now
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 10
+  Updated: 2026-10-18T11:04:26Z
+  Total Products: 11
 - [+4.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-4-00): whether you on the beach or in the office we have the +4.00 strong durable and quality reading glasses for you. Our high power readers are best in class.
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 72
 - [+4.50 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-4-50): Shop +4.50 reading glasses, strong sunglass reading glasses, and high power readers for men and women. Stylish +4.50 reader glasses in modern and classic frames
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 72
 - [+5.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-5-00): Shop +5.00 reading glasses. High power readers for men and women. Find comfortable, durable, and affordable +5.00 readers for clear close-up vision.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 16
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 17
 - [+5.50 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-5-50): Shop +5.50 reading glasses. High power readers for men and women in comfortable frames. Find strong magnification, fashionable designs, and affordable prices.
-  Updated: 2026-07-22T11:04:13Z
-  Total Products: 6
+  Updated: 2026-10-18T11:04:26Z
+  Total Products: 7
 - [+6.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-6-00): Shop +6.00 reading glasses in a variety of styles and colors. Extra strong readers designed for fine print, detailed work, hobbies, crafts, and everyday close-up vision.
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 18
 - [+2.75 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-2-75)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 167
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 168
 - [+2.50 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-2-50)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 251
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 249
 - [+2.25 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-2-25)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 170
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 171
 - [+2.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-2-00)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 258
 - [+1.75 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-1-75)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 196
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 195
 - [+1.50 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-1-50)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 313
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 307
 - [+1.25 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-1-25)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 208
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 206
 - [+1.00 Reading Glasses](https://www.troysreaders.com/collections/reading-glasses-1-00)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 229
 - [Single Power Reading Glasses](https://www.troysreaders.com/collections/single-power-reading-glasses)
-  Updated: 2026-07-28T11:04:50Z
-  Total Products: 99
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 98
 - [All Products](https://www.troysreaders.com/collections/all-products)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 3765
 - [All Reading Sunglasses](https://www.troysreaders.com/collections/all-reading-sunglasses)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 185
 - [Socks for Women, Men & Kids | Family Socks Collection](https://www.troysreaders.com/collections/socks-for-women-men-kids-family-socks-collection): Shop women's socks, men's socks, and kids' socks. Find athletic, dress, casual, and novelty socks for the whole family.
-  Updated: 2026-07-08T23:28:22Z
-  Total Products: 356
+  Updated: 2026-10-19T11:03:37Z
+  Total Products: 352
 - [Phone Accessories](https://www.troysreaders.com/collections/phone-accessories)
-  Updated: 2026-07-08T23:27:12Z
+  Updated: 2026-10-05T01:40:10Z
   Total Products: 116
 - [Products](https://www.troysreaders.com/collections/all)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 3908
 - [Sun-Staches](https://www.troysreaders.com/collections/sun-staches)
-  Updated: 2026-07-23T11:04:24Z
-  Total Products: 90
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 88
 - [Baby](https://www.troysreaders.com/collections/baby): Baby Sunglasses & Baby Related Items, more to come soon!
   Updated: 2026-07-08T20:14:12Z
   Total Products: 2
 - [Toddler](https://www.troysreaders.com/collections/toddler): Great Gifts and Glasses for your Toddler
-  Updated: 2026-07-08T23:26:25Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 24
 - [Adolescent](https://www.troysreaders.com/collections/adolescent): Great Glasses and gifts for ones you love most.
-  Updated: 2026-07-23T11:04:24Z
-  Total Products: 127
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 125
 - [Aprons](https://www.troysreaders.com/collections/aprons): Be the star of your own kitchen in these fabulous aprons. Gift one of these to your friends today to prove to them that you too, can have a sense of humor.
-  Updated: 2026-07-08T23:25:40Z
+  Updated: 2026-10-08T01:33:37Z
   Total Products: 23
 - [Dish Towels](https://www.troysreaders.com/collections/dish-towels): You can clean these dishes all your want, but your mind will still be dirty. Tell them what you really think with these great dish towels. These make great gifts.
-  Updated: 2026-07-08T23:28:20Z
-  Total Products: 72
+  Updated: 2026-10-19T11:03:37Z
+  Total Products: 70
 - [Oven Mitts](https://www.troysreaders.com/collections/oven-mitts): Don't drop it when it's hot. Protect your hands year round with these funny oven mitts.
-  Updated: 2026-07-08T23:27:17Z
+  Updated: 2026-10-08T01:55:14Z
   Total Products: 12
 - [Novelty](https://www.troysreaders.com/collections/novelty): Well this is fun.
   Updated: 2026-07-08T20:13:41Z
@@ -3307,7 +3132,7 @@
   Updated: 2026-07-08T23:19:28Z
   Total Products: 2
 - [All Foam Visors](https://www.troysreaders.com/collections/all-foam-visors): Foam Visors – Lightweight, Comfortable & Made in the USA Discover the most comfortable foam visors designed for all-day wear. Made in the USA, our lightweight foam visors provide excellent sun protection without the pressure, headaches, or discomfort often caused by traditional hats and visors. Perfect for walking, gardening, golfing, beach trips, outdoor events, and everyday wear, these comfortable sun visors feature a soft foam construction that feels light on your head while helping shield your face and eyes from the sun. Their unique design allows for a secure fit without tight bands or heavy materials, making them a favorite for people who find regular hats uncomfortable. Whether you're looking for a headache-free visor, a lightweight sun visor for travel, or a durable foam visor made in the USA, you'll find comfortable and stylish options in our collection. Why Customers Love Our Foam Visors Lightweight foam construction for exceptional comfort Designed to help reduce pressure and headache discomfort Great for walking, golf, gardening, beach days, and outdoor activities Easy to pack and travel with Durable and long-lasting Made in the USA Available in a variety of colors and styles Shop our collection of foam visors and enjoy comfortable sun protection without the weight and pressure of traditional hats.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 70
 - [Baseball Caps](https://www.troysreaders.com/collections/baseball-caps): This is the way we wear out hat, wear our hat, wear our hat, this is the way we wear out hat, when we have funny things to say.
   Updated: 2026-07-08T23:24:49Z
@@ -3325,50 +3150,50 @@
   Updated: 2026-07-08T23:18:50Z
   Total Products: 15
 - [Everything Golf](https://www.troysreaders.com/collections/everything-golf): All the best golf related stuff.
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-08T11:04:02Z
   Total Products: 33
 - [Fun Socks](https://www.troysreaders.com/collections/fun-socks): Make a subtle statement and match your mood to your wardrobe with these fun, comfortable, and stylish socks. Comes in men's, women's, children's, ankle, Crew, Knee high, and compression.
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 849
 - [Ocean Themes Prints Fabric Foam Sun Visors with Adjustable Coil Lace Band](https://www.troysreaders.com/collections/ocean-themes-prints-fabric-foam-sun-visors-with-adjustable-coil-lace-band): Do you love the ocean? we do too! live your best life at the beach with these fabulous headache free foam visors.
-  Updated: 2026-07-28T11:04:50Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 2
 - [Patriotic Print Fabric Foam Sun Visors with Coil Lace Band](https://www.troysreaders.com/collections/patriotic-print-fabric-foam-sun-visors-with-coil-lace-band): America! #1.
-  Updated: 2026-07-24T11:04:44Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 4
 - [Hats & Apparel](https://www.troysreaders.com/collections/hats-apparel): Baseball Caps, Foam Visors, Socks, Underwear, Backpacks, Bandanas, and more.
-  Updated: 2026-07-30T11:04:54Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 1408
 - [All Bifocals](https://www.troysreaders.com/collections/all-bifocals)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 119
 - [Hair Clips](https://www.troysreaders.com/collections/hair-clips)
   Updated: 2026-07-08T20:12:37Z
   Total Products: 1
 - [NIght Driving Fit Overs](https://www.troysreaders.com/collections/night-driving-fit-overs): Glasses that fit over your glasses. Yellow Lenses, also known as night driving glasses.
-  Updated: 2026-07-08T23:22:30Z
+  Updated: 2026-10-05T02:43:08Z
   Total Products: 8
 - [Night Driving Glasses for Safer, Clearer Night Vision](https://www.troysreaders.com/collections/night-driving-glasses): Shop night driving glasses designed to reduce headlight glare and improve nighttime visibility. Comfortable anti-glare glasses available in fit-over, clip-on, and standard styles.
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 37
 - [Distance glasses](https://www.troysreaders.com/collections/distance-glasses): Glasses $14.99 for Seeing Far Away.
-  Updated: 2026-07-08T23:26:45Z
+  Updated: 2026-10-20T11:05:31Z
   Total Products: 8
 - [The Best Name Brand Eyewear](https://www.troysreaders.com/collections/the-best-name-brand-eyewear): Troy's Readers has all the best name brand eyewear! Eyebobs, Thin Optics, Cinzia, Ray-Bans, Modpod and more...
-  Updated: 2026-07-24T11:04:43Z
-  Total Products: 99
+  Updated: 2026-10-18T11:04:26Z
+  Total Products: 98
 - [Reader No Case](https://www.troysreaders.com/collections/reader-no-case)
-  Updated: 2026-07-31T11:04:16Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 223
 - [Sunglasses in store for pos](https://www.troysreaders.com/collections/sunglasses-in-store)
-  Updated: 2026-07-08T23:28:22Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 113
 - [Readers Buy 2 Get 1 Free](https://www.troysreaders.com/collections/readers-buy-2-get-1-free)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 591
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 602
 - [New](https://www.troysreaders.com/collections/new)
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 2292
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 2276
 - [Saxophones](https://www.troysreaders.com/collections/saxophones)
   Updated: 2026-07-08T23:25:47Z
   Total Products: 1
@@ -3385,43 +3210,43 @@
   Updated: 2026-07-08T23:26:21Z
   Total Products: 4
 - [Photochromic Reading Glasses – Readers That Darken in Sunlight](https://www.troysreaders.com/collections/photochromic-reading-glasses): Shop photochromic reading glasses with light-adaptive lenses that darken in sunlight and clear indoors. Comfortable transition readers available in multiple strengths and styles.
-  Updated: 2026-07-08T23:26:15Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 5
 - [Specialty Readers](https://www.troysreaders.com/collections/specialty-readers): Readers for every special need and use case can be found here at TroysReaders.com. These Include Folding Reading Glasses Stick On Bifocals Makeup Application Readers Magnetic Glasses Back of the Phone Reading Glasses Super Slim & Half Readers
-  Updated: 2026-07-27T11:04:09Z
+  Updated: 2026-10-21T11:05:40Z
   Total Products: 59
 - [Folding Reading Glasses – Compact Readers for Travel & Everyday Use](https://www.troysreaders.com/collections/folding-readers): Shop folding reading glasses in a variety of strengths and styles. Compact pocket readers designed for travel, everyday carry, work, and convenient on-the-go reading.
-  Updated: 2026-07-08T23:26:11Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 13
 - [Night Driving Readers](https://www.troysreaders.com/collections/night-driving-readers): Bifocal and fully magnified readers with a yellow lens.
-  Updated: 2026-07-25T11:04:18Z
+  Updated: 2026-10-09T11:04:37Z
   Total Products: 7
 - [Night Driving Clip On](https://www.troysreaders.com/collections/night-driving-clip-on): Yellow lens clip on sunglasses.
-  Updated: 2026-07-08T23:24:42Z
+  Updated: 2026-10-06T22:50:13Z
   Total Products: 12
 - [Readers Under $8.00](https://www.troysreaders.com/collections/readers-under-8-00): Readers under $8.00
-  Updated: 2026-07-08T23:26:45Z
-  Total Products: 18
+  Updated: 2026-10-19T11:03:37Z
+  Total Products: 7
 - [Readers $12.99 or Less](https://www.troysreaders.com/collections/readers-12-99-or-less): All Reading Glasses under $12.99.
-  Updated: 2026-07-23T11:04:24Z
-  Total Products: 92
+  Updated: 2026-10-20T11:05:31Z
+  Total Products: 20
 - [Readers Under $14.99](https://www.troysreaders.com/collections/readers-14-99-or-less): Everything Readers $14.99 or Less.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 316
+  Updated: 2026-10-21T11:05:40Z
+  Total Products: 325
 - [Readers Over $15.00](https://www.troysreaders.com/collections/readers-over-15-00): Readers for all the lotto winners and CEO's of the world. Go ahead and treat yourself to our fancy over $15.00 Readers. Wow. Even our expensive stuff is affordable. Here is everything above $15.00.
-  Updated: 2026-07-24T11:04:43Z
-  Total Products: 97
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 90
 - [All Fully Magnified Reading Glasses](https://www.troysreaders.com/collections/all-fully-magnified-reading-glasses): Reading Glasses. Just plain old normal reading glasses here. But more awesome.
-  Updated: 2026-07-31T11:04:16Z
-  Total Products: 219
+  Updated: 2026-10-22T11:04:21Z
+  Total Products: 218
 - [Boys Sunglasses | 100% UVA/UVB Protection & Durable Frames](https://www.troysreaders.com/collections/boys-sunglasses-100-uva-uvb-protection-durable-frames): Shop boys sunglasses with UV400 protection, durable frames, and comfortable fits. Affordable styles designed for school, sports, and everyday adventures.
-  Updated: 2026-07-08T23:27:26Z
+  Updated: 2026-10-08T11:04:02Z
   Total Products: 23
 - [All Reading Sunglsses](https://www.troysreaders.com/collections/all-reading-sunglsses)
-  Updated: 2026-07-24T11:04:43Z
+  Updated: 2026-10-22T11:04:21Z
   Total Products: 100
 - [High Power Bifocal Reading Sunglasses up to +6.00](https://www.troysreaders.com/collections/collections-high-power-bifocal-reading-sunglasses): Shop high power bifocal reading sunglasses for men and women. Polarized bifocal readers in strengths up to +6.00 with stylish, UV-protective frames.
-  Updated: 2026-07-22T11:04:13Z
+  Updated: 2026-10-19T11:03:37Z
   Total Products: 7
 
 ## Blogs
@@ -3510,6 +3335,111 @@
   - [Comparing Sock Types Which Is Right for You?](https://www.troysreaders.com/blogs/news/comparing-sock-types-which-is-right-for-you): Comparing Sock Types Which Is Right for You?
     Updated: 2026-07-31T11:51:20Z
     Author: Troy's Readers
+  - [A Guide to Cleaning Your Reading Glasses the Right Way](https://www.troysreaders.com/blogs/news/a-guide-to-cleaning-your-reading-glasses-the-right-way): A Guide to Cleaning Your Reading Glasses the Right Way
+    Updated: 2026-08-03T11:47:53Z
+    Author: Troy's Readers
+  - [Cleaning and Care Tips for Keeping Your Fashionable Foam Sun Visor Fresh Senior Women Edition](https://www.troysreaders.com/blogs/news/cleaning-and-care-tips-for-keeping-your-fashionable-foam-sun-visor-fresh-senior-women-edition): Cleaning and Care Tips for Keeping Your Fashionable Foam Sun Visor Fresh Senior Women Edition
+    Updated: 2026-08-05T13:48:44Z
+    Author: Troy's Readers
+  - [The Impact of Socks on Foot Health An Educational Look](https://www.troysreaders.com/blogs/news/the-impact-of-socks-on-foot-health-an-educational-look): The Impact of Socks on Foot Health An Educational Look
+    Updated: 2026-08-07T09:53:38Z
+    Author: Troy's Readers
+  - [Everything You Need to Know About Protecting Your Glasses](https://www.troysreaders.com/blogs/news/everything-you-need-to-know-about-protecting-your-glasses): Everything You Need to Know About Protecting Your Glasses
+    Updated: 2026-08-10T10:43:32Z
+    Author: Troy's Readers
+  - [Easy Cleaning and Stylish Designs: The Perfect Butterfly Foam Sun Visor for Active Senior Women](https://www.troysreaders.com/blogs/news/easy-cleaning-and-stylish-designs-the-perfect-butterfly-foam-sun-visor-for-active-senior-women): Easy Cleaning and Stylish Designs: The Perfect Butterfly Foam Sun Visor for Active Senior Women
+    Updated: 2026-08-12T10:40:03Z
+    Author: Troy's Readers
+  - [Why Investing in Quality Socks Matters A Persuasive Piece.](https://www.troysreaders.com/blogs/news/why-investing-in-quality-socks-matters-a-persuasive-piece): Why Investing in Quality Socks Matters A Persuasive Piece.
+    Updated: 2026-08-14T10:05:36Z
+    Author: Troy's Readers
+  - [Comparing  Lenses Versus Over-the-Counter Reading Glasses](https://www.troysreaders.com/blogs/news/comparing--lenses-versus-over-the-counter-reading-glasses): Comparing  Lenses Versus Over-the-Counter Reading Glasses
+    Updated: 2026-08-17T08:21:07Z
+    Author: Troy's Readers
+  - [Golf and Tennis Fashion for Seniors: Caring for Your New Visor](https://www.troysreaders.com/blogs/news/golf-and-tennis-fashion-for-seniors-caring-for-your-new-visor): Golf and Tennis Fashion for Seniors: Caring for Your New Visor
+    Updated: 2026-08-19T13:26:41Z
+    Author: Troy's Readers
+  - [The Science of Compression Socks Explained](https://www.troysreaders.com/blogs/news/the-science-of-compression-socks-explained): The Science of Compression Socks Explained
+    Updated: 2026-08-21T12:49:25Z
+    Author: Troy's Readers
+  - [Step-by-Step Tutorial for Comprehensive Eyewear Care](https://www.troysreaders.com/blogs/news/step-by-step-tutorial-for-comprehensive-eyewear-care): Step-by-Step Tutorial for Comprehensive Eyewear Care
+    Updated: 2026-08-24T09:56:30Z
+    Author: Troy's Readers
+  - [Easy Clean Tips for Senior Women's Fashionable Black and White Foam Sun Visor](https://www.troysreaders.com/blogs/news/easy-clean-tips-for-senior-womens-fashionable-black-and-white-foam-sun-visor): Easy Clean Tips for Senior Women's Fashionable Black and White Foam Sun Visor
+    Updated: 2026-08-26T08:09:12Z
+    Author: Troy's Readers
+  - [Eco-Friendly Sock Shopping Made Easy: A Guide](https://www.troysreaders.com/blogs/news/eco-friendly-sock-shopping-made-easy-a-guide): Eco-Friendly Sock Shopping Made Easy: A Guide
+    Updated: 2026-08-28T10:55:37Z
+    Author: Troy's Readers
+  - [How to Maintain Your Eyewear for Long-lasting Use](https://www.troysreaders.com/blogs/news/how-to-maintain-your-eyewear-for-long-lasting-use): How to Maintain Your Eyewear for Long-lasting Use
+    Updated: 2026-08-31T11:01:21Z
+    Author: Troy's Readers
+  - [How to Maintain Your Colorful Foam Sun Visor Fresh for Senior Ladies Playing Golf and Tennis](https://www.troysreaders.com/blogs/news/how-to-maintain-your-colorful-foam-sun-visor-fresh-for-senior-ladies-playing-golf-and-tennis): How to Maintain Your Colorful Foam Sun Visor Fresh for Senior Ladies Playing Golf and Tennis
+    Updated: 2026-09-02T11:06:53Z
+    Author: Troy's Readers
+  - [The Art of Mismatched Socks Embracing Your Style](https://www.troysreaders.com/blogs/news/the-art-of-mismatched-socks-embracing-your-style): The Art of Mismatched Socks Embracing Your Style
+    Updated: 2026-09-04T12:00:36Z
+    Author: Troy's Readers
+  - [Why Proper Eyewear Care is Essential for Your Vision](https://www.troysreaders.com/blogs/news/why-proper-eyewear-care-is-essential-for-your-vision): Why Proper Eyewear Care is Essential for Your Vision
+    Updated: 2026-09-07T10:06:09Z
+    Author: Troy's Readers
+  - [Keep Your Solid Prints and Denim Foam Sun Visor Clean and Fashionable for Senior Ladies Golf and Tennis](https://www.troysreaders.com/blogs/news/keep-your-solid-prints-and-denim-foam-sun-visor-clean-and-fashionable-for-senior-ladies-golf-and-tennis): Keep Your Solid Prints and Denim Foam Sun Visor Clean and Fashionable for Senior Ladies Golf and Tennis
+    Updated: 2026-09-09T12:57:46Z
+    Author: Troy's Readers
+  - [Five Troublesome Sock Myths Debunked](https://www.troysreaders.com/blogs/news/five-troublesome-sock-myths-debunked): Five Troublesome Sock Myths Debunked
+    Updated: 2026-09-11T12:17:53Z
+    Author: Troy's Readers
+  - [Expert Tips for Choosing Reading Glasses](https://www.troysreaders.com/blogs/news/expert-tips-for-choosing-reading-glasses): Expert Tips for Choosing Reading Glasses
+    Updated: 2026-09-14T10:06:05Z
+    Author: Troy's Readers
+  - [Lovely Flower Foam Sun Visor Cleaning Guide for Stylish Senior Women on the Golf Course and Tennis Court](https://www.troysreaders.com/blogs/news/lovely-flower-foam-sun-visor-cleaning-guide-for-stylish-senior-women-on-the-golf-course-and-tennis-court): Lovely Flower Foam Sun Visor Cleaning Guide for Stylish Senior Women on the Golf Course and Tennis Court
+    Updated: 2026-09-16T11:58:53Z
+    Author: Troy's Readers
+  - [Maximize Comfort with These Sock Layering Tips](https://www.troysreaders.com/blogs/news/maximize-comfort-with-these-sock-layering-tips): Maximize Comfort with These Sock Layering Tips
+    Updated: 2026-09-18T11:13:13Z
+    Author: Troy's Readers
+  - [Common Eyewear Problems and Their Easy Fixes](https://www.troysreaders.com/blogs/news/common-eyewear-problems-and-their-easy-fixes): Common Eyewear Problems and Their Easy Fixes
+    Updated: 2026-09-21T13:46:29Z
+    Author: Troy's Readers
+  - [Effortlessly Chic on the Green with Waterproof Silly Fun Foam Sun Visors for Senior Women](https://www.troysreaders.com/blogs/news/effortlessly-chic-on-the-green-with-waterproof-silly-fun-foam-sun-visors-for-senior-women): Effortlessly Chic on the Green with Waterproof Silly Fun Foam Sun Visors for Senior Women
+    Updated: 2026-09-23T09:47:47Z
+    Author: Troy's Readers
+  - [A History of Cultural Sock Customs Around the World](https://www.troysreaders.com/blogs/news/a-history-of-cultural-sock-customs-around-the-world): A History of Cultural Sock Customs Around the World
+    Updated: 2026-09-25T09:50:42Z
+    Author: Troy's Readers
+  - [An Educational Guide to Using and Caring for Reading Glasses](https://www.troysreaders.com/blogs/news/an-educational-guide-to-using-and-caring-for-reading-glasses): An Educational Guide to Using and Caring for Reading Glasses
+    Updated: 2026-09-28T09:28:22Z
+    Author: Troy's Readers
+  - [Easy Steps to Clean and Maintain Your Fashionable Foam Sun Visor for Active Senior Women](https://www.troysreaders.com/blogs/news/easy-steps-to-clean-and-maintain-your-fashionable-foam-sun-visor-for-active-senior-women): Easy Steps to Clean and Maintain Your Fashionable Foam Sun Visor for Active Senior Women
+    Updated: 2026-09-30T10:21:52Z
+    Author: Troy's Readers
+  - [Trending Sock Patterns and How to Wear Them](https://www.troysreaders.com/blogs/news/trending-sock-patterns-and-how-to-wear-them): Trending Sock Patterns and How to Wear Them
+    Updated: 2026-10-02T13:34:29Z
+    Author: Troy's Readers
+  - [FAQs About Eyewear Care and Maintenance](https://www.troysreaders.com/blogs/news/faqs-about-eyewear-care-and-maintenance): FAQs About Eyewear Care and Maintenance
+    Updated: 2026-10-05T11:32:04Z
+    Author: Troy's Readers
+  - [Cleaning and Fashion Tips for Senior Women's Foam Sun Visor Crafted for Tennis and Golf Use](https://www.troysreaders.com/blogs/news/cleaning-and-fashion-tips-for-senior-womens-foam-sun-visor-crafted-for-tennis-and-golf-use): Cleaning and Fashion Tips for Senior Women's Foam Sun Visor Crafted for Tennis and Golf Use
+    Updated: 2026-10-07T12:34:45Z
+    Author: Troy's Readers
+  - [Sneakers vs Dress Shoes: Choosing the Right Sock](https://www.troysreaders.com/blogs/news/sneakers-vs-dress-shoes-choosing-the-right-sock): Sneakers vs Dress Shoes: Choosing the Right Sock
+    Updated: 2026-10-09T12:14:06Z
+    Author: Troy's Readers
+  - [Insider Tips to Keep Your Reading Glasses Scratch-Free](https://www.troysreaders.com/blogs/news/insider-tips-to-keep-your-reading-glasses-scratch-free): Insider Tips to Keep Your Reading Glasses Scratch-Free
+    Updated: 2026-10-12T13:25:58Z
+    Author: Troy's Readers
+  - [Easy Maintenance Tips for Senior Women to Keep Your Stylish Turtle Patterns Foam Sun Visor Looking Great](https://www.troysreaders.com/blogs/news/easy-maintenance-tips-for-senior-women-to-keep-your-stylish-turtle-patterns-foam-sun-visor-looking-great): Easy Maintenance Tips for Senior Women to Keep Your Stylish Turtle Patterns Foam Sun Visor Looking Great
+    Updated: 2026-10-14T09:02:50Z
+    Author: Troy's Readers
+  - [Ultimate How-To for Caring for Wool Socks](https://www.troysreaders.com/blogs/news/ultimate-how-to-for-caring-for-wool-socks): Ultimate How-To for Caring for Wool Socks
+    Updated: 2026-10-16T09:52:54Z
+    Author: Troy's Readers
+  - [Understanding Different Types of Reading Glasses and Their Uses](https://www.troysreaders.com/blogs/news/understanding-different-types-of-reading-glasses-and-their-uses): Understanding Different Types of Reading Glasses and Their Uses
+    Updated: 2026-10-19T13:27:02Z
+    Author: Troy's Readers
+  - [Cleaning and Style Tips for Senior Women's Trimmed Solid Prints and Denim Foam Sun Visor](https://www.troysreaders.com/blogs/news/cleaning-and-style-tips-for-senior-womens-trimmed-solid-prints-and-denim-foam-sun-visor): Cleaning and Style Tips for Senior Women's Trimmed Solid Prints and Denim Foam Sun Visor
+    Updated: 2026-10-21T09:36:19Z
+    Author: Troy's Readers
 
 ## Store Pages
 
@@ -3537,15 +3467,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.troysreaders.com/policies/privacy-policy)
-  Updated: 2019-10-03T19:49:37-07:00
+  Updated: 2019-10-04T02:49:37Z
 - [Shipping Policy](https://www.troysreaders.com/policies/shipping-policy)
-  Updated: 2026-07-17T13:02:40-07:00
+  Updated: 2026-07-17T20:02:40Z
 - [Refund Policy](https://www.troysreaders.com/policies/refund-policy)
-  Updated: 2026-07-17T13:02:06-07:00
+  Updated: 2026-08-04T01:11:23Z
 - [Terms of Service](https://www.troysreaders.com/policies/terms-of-service)
-  Updated: 2019-10-03T19:49:37-07:00
+  Updated: 2019-10-04T02:49:37Z
 - [Contact Information](https://www.troysreaders.com/policies/contact-information)
-  Updated: 2026-06-12T20:47:32-07:00
+  Updated: 2026-06-13T03:47:32Z
 
 ## Optional
 
