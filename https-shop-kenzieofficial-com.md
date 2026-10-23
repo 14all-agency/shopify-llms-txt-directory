@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-12T00:00:42.901Z
+- Updated At: 2026-10-23T00:48:00.730Z
 
 ## Products
 
@@ -162,7 +162,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/P1010112.jpg?v=1731946597
   Price: $20.00 USD
 - [Logo Sticker](https://shop.kenzieofficial.com/products/logo-sticker): Black die-cut vinyl sticker featuring Kenzie's logo
-  Updated: 2026-10-05T13:04:12Z
+  Updated: 2026-10-16T16:07:55Z
   Vendor: Kenzie
   Product Type: Sticker
   Availability: Available
@@ -190,7 +190,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Logo Boxer Shorts](https://shop.kenzieofficial.com/products/logo-boxer-shorts): 100% woven cotton shorts in blue stripe with woven label. Single button fly opening. Size Chart Size Half Waist (in) Full Length (in) S 12 1/2 13 3/4 M 13 3/4 14 L 14 3/4 14 1/2 XL 15 3/4 15 2XL 16 3/4 15 1/4
-  Updated: 2026-10-05T13:04:14Z
+  Updated: 2026-10-16T16:07:55Z
   Vendor: Kenzie
   Product Type: Shorts
   Availability: Available
@@ -278,15 +278,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://shop.kenzieofficial.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:18:28-05:00
+  Updated: 2026-06-19T15:18:28Z
 - [Shipping Policy](https://shop.kenzieofficial.com/policies/shipping-policy)
-  Updated: 2026-09-25T10:54:48-05:00
+  Updated: 2026-09-25T15:54:48Z
 - [Refund Policy](https://shop.kenzieofficial.com/policies/refund-policy)
-  Updated: 2026-06-19T10:17:36-05:00
+  Updated: 2026-06-19T15:17:36Z
 - [Terms of Service](https://shop.kenzieofficial.com/policies/terms-of-service)
-  Updated: 2026-09-25T10:54:03-05:00
+  Updated: 2026-09-25T15:54:03Z
 - [Contact Information](https://shop.kenzieofficial.com/policies/contact-information)
-  Updated: 2024-10-24T17:01:47-05:00
+  Updated: 2024-10-24T22:01:47Z
 
 ## Optional
 
