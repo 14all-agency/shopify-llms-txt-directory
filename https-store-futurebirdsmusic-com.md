@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-29T15:35:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-14T00:00:46.204Z
+- Updated At: 2026-10-23T00:46:45.918Z
 
 ## Products
 
 - [Futurebirds x Howler Bros Snapfront Shirt](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-snapfront-shirt): The Futurebirds x Howler Brothers collaboration, exclusively available online. Futurebirds rainbow Birdhead embroidered on the chest with the band name on the back left shoulder Quick drying cotton, polyester, & spandex blendVented backPearl snapsSunglass cleaning microfiber at hemRegular fit
-  Updated: 2026-10-05T13:04:18Z
+  Updated: 2026-10-16T17:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Rainbow Onesie](https://store.futurebirdsmusic.com/products/rainbow-onesie): Green short sleeve onesie with rainbow logo on the front.
-  Updated: 2026-10-05T13:04:19Z
+  Updated: 2026-10-19T21:49:43Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -72,7 +72,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Birdhead Swim Trunks](https://store.futurebirdsmusic.com/products/birdhead-swim-trunks): Blue swim trunks with red birdhead logo printed on the front and back.
-  Updated: 2026-10-05T13:04:19Z
+  Updated: 2026-10-16T17:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -84,7 +84,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Futurebirds x Howler Bros Board Shorts](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-swim-trunks)
-  Updated: 2026-10-05T13:04:20Z
+  Updated: 2026-10-16T17:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Futurebirds x Howler Bros Terry Polo](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-terry-polo): Blue terry cloth polo shirt with rainbow embroidered on the front right pocket.
-  Updated: 2026-10-05T13:04:20Z
+  Updated: 2026-10-16T17:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -140,7 +140,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDS_CAMO_HAT.png?v=1748886731
   Price: $35.00 USD
 - [Birdhead Joggers](https://store.futurebirdsmusic.com/products/birdhead-joggers): Black joggers with red birdhead embroidery.
-  Updated: 2026-10-05T13:04:22Z
+  Updated: 2026-10-16T17:29:56Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -206,7 +206,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBIRDHEADKEYCHAIN.png?v=1748885676
   Price: $5.00 USD
 - [Mystery Bin (RESTOCKED!)](https://store.futurebirdsmusic.com/products/mystery-bin): $15 Mystery Bin! All items in this bin are t-shirts of a $35 value. All you need to do is pick your size! FINAL 
-  Updated: 2026-10-05T13:04:24Z
+  Updated: 2026-10-18T19:37:26Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -275,7 +275,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSRODEOHAT.png?v=1762290718
   Price: $40.00 USD
 - [Trippin' Tee](https://store.futurebirdsmusic.com/products/trippin-tee): Futurebirds Trippin' Tee on Realtree APX Camo with front print only.
-  Updated: 2026-10-05T13:04:26Z
+  Updated: 2026-10-18T19:37:26Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -359,7 +359,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSWESTCOASTPOSTER.png?v=1773261642
   Price: $10.00 USD
 - [Black Diamond IV Poster](https://store.futurebirdsmusic.com/products/black-diamond-iv-poster): Black Diamond IV Poster
-  Updated: 2026-10-05T13:04:32Z
+  Updated: 2026-10-19T21:50:02Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -464,7 +464,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Map Tee](https://store.futurebirdsmusic.com/products/map-tee): Futurebirds Far Out Country Map Tee in ivory with front and back print. 100% Cotton
-  Updated: 2026-10-13T15:01:47Z
+  Updated: 2026-10-18T14:26:19Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -509,52 +509,52 @@
 ## Collections
 
 - [Home page](https://store.futurebirdsmusic.com/collections/frontpage)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-21T21:16:01Z
   Total Products: 58
 - [Apparel](https://store.futurebirdsmusic.com/collections/apparel)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-21T21:16:01Z
   Total Products: 30
 - [Accessories](https://store.futurebirdsmusic.com/collections/accessories)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-20T11:13:44Z
   Total Products: 36
 - [All](https://store.futurebirdsmusic.com/collections/all)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-20T11:13:44Z
   Total Products: 39
 - [Music](https://store.futurebirdsmusic.com/collections/music)
-  Updated: 2026-09-13T11:12:39Z
+  Updated: 2026-10-21T21:14:06Z
   Total Products: 5
 - [Summer Collection](https://store.futurebirdsmusic.com/collections/summer-collection)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-19T11:13:44Z
   Total Products: 12
 - [Fall Collection](https://store.futurebirdsmusic.com/collections/fall-collection)
-  Updated: 2026-09-12T11:11:52Z
+  Updated: 2026-10-21T21:16:01Z
   Total Products: 5
 - [Black Friday ](https://store.futurebirdsmusic.com/collections/black-friday-)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-21T21:14:06Z
   Total Products: 29
 - [Hats](https://store.futurebirdsmusic.com/collections/hats)
   Updated: 2026-10-12T11:16:25Z
   Total Products: 7
 - [UPSELL](https://store.futurebirdsmusic.com/collections/upsell)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-14T11:16:43Z
   Total Products: 7
 - [The Red Collection](https://store.futurebirdsmusic.com/collections/trippin)
-  Updated: 2026-10-05T11:12:57Z
+  Updated: 2026-10-21T21:16:01Z
   Total Products: 11
 - [Posters](https://store.futurebirdsmusic.com/collections/posters)
-  Updated: 2026-09-30T11:13:30Z
+  Updated: 2026-10-20T11:13:44Z
   Total Products: 8
 - [Spring Collection](https://store.futurebirdsmusic.com/collections/spring-collection)
   Updated: 2026-09-19T11:12:26Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://store.futurebirdsmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-21T21:16:01Z
   Total Products: 71
 - [Summer Kickoff](https://store.futurebirdsmusic.com/collections/summer-kickoff)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-14T11:16:43Z
   Total Products: 16
 - [Far Out Country](https://store.futurebirdsmusic.com/collections/far-out-country)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-10-19T11:13:44Z
   Total Products: 4
 
 ## Store Pages
@@ -569,15 +569,15 @@
 ## Policies
 
 - [Privacy Policy](https://store.futurebirdsmusic.com/policies/privacy-policy)
-  Updated: 2026-06-18T10:09:36-05:00
+  Updated: 2026-06-18T15:09:36Z
 - [Shipping Policy](https://store.futurebirdsmusic.com/policies/shipping-policy)
-  Updated: 2025-02-07T12:49:14-06:00
+  Updated: 2025-02-07T18:49:14Z
 - [Refund Policy](https://store.futurebirdsmusic.com/policies/refund-policy)
-  Updated: 2026-06-18T10:10:09-05:00
+  Updated: 2026-06-18T15:10:09Z
 - [Terms of Service](https://store.futurebirdsmusic.com/policies/terms-of-service)
-  Updated: 2025-02-07T12:48:53-06:00
+  Updated: 2025-02-07T18:48:53Z
 - [Contact Information](https://store.futurebirdsmusic.com/policies/contact-information)
-  Updated: 2025-02-07T12:49:05-06:00
+  Updated: 2025-02-07T18:49:05Z
 
 ## Optional
 
