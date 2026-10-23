@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-05-06T11:58:58Z
 - Contact Email: imrangulzar1110@gmail.com
-- Updated At: 2026-10-14T00:00:49.608Z
+- Updated At: 2026-10-23T00:37:04.645Z
 
 ## Products
 
@@ -1137,7 +1137,14 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/carving_lapis_rough.jpg?v=1770142052
   Price: $220.00 USD
-[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODE5Nzk4NzYzOSwibGFzdF92YWx1ZSI6IjEwNDE4MTk3OTg3NjM5In0%3D)
+- [233 Gram Rough Lapis Lazuli with Golden Pyrite](https://www.gemstoneinsider.com/products/233-gram-rough-lapis-lazuli-with-golden-pyrite): This 233-gram rough Lapis Lazuli features a beautiful Rich blue colour with natural golden Pyrite inclusions. The stone has an opaque clarity and is completely natural and untreated, preserving its authentic character. Ideal for collectors and crystal enthusiasts, it is also a meaningful September birthstone with unique natural appeal. Q1: Is this Lapis Lazuli natural or treated? Yes, this Lapis Lazuli is 100% natural and untreated. No dyes, heat, or chemical treatments have been applied, so the stone retains its original colour and natural characteristics. Q2: What gives this Lapis Lazuli its golden sparkle? The golden shimmer comes from natural Pyrite inclusions. High-quality Lapis Lazuli often contains evenly distributed golden Pyrite, which enhances the stone’s beauty and value. Q3: Are white spots or veins in Lapis Lazuli a defect? No, white areas are usually calcite, which is a natural component of Lapis Lazuli. While premium pieces have minimal calcite, its presence does not mean the stone is fake or low quality. Q4: What does “opaque clarity” mean for this stone? Opaque clarity means the stone does not allow light to pass through, which is normal and expected for natural rough Lapis Lazuli. Q5: How can I judge the quality of rough Lapis Lazuli online? Look for a strong, attractive blue colour, visible natural golden Pyrite flecks, solid weight, and confirmation that the stone is untreated. Clear photos and accurate weight details also help indicate quality. Q6: Is Afghan (Sar-e-Sang) Lapis Lazuli better than other origins? Lapis Lazuli from Afghanistan, Chile, and Russia is beautiful in its own way, but Afghan Sar-e-Sang Lapis is especially famous worldwide for its richer colour, better clarity, and striking golden Pyrite inclusions. Q7: Is this stone suitable for jewellery making? Yes, this rough Lapis Lazuli can be cut and polished for jewellery or used as a specimen for collections, carving, or crystal work. Q8: Why is the price reasonable despite the good quality? Even though this stone has excellent colour, natural golden Pyrite, and no , Lapis Lazuli is generally more affordable than many precious and other semi-precious stones, offering great value for its quality. Q9: Is this a good birthstone gift for September? Yes, Lapis Lazuli is traditionally associated with September and makes a meaningful and symbolic gift for birthdays or special occasions. Q10: Will the colour fade over time? No, since this stone is natural and untreated, its colour will remain stable with normal care and proper storage.
+  Updated: 2026-07-08T21:20:31Z
+  Vendor: Gemstone Insider
+  Product Type: Lapidary Rough
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0876/6668/8311/files/Persian_lapis_rough.jpg?v=1770303929
+  Price: $260.00 USD
+[List Continued](https://www.gemstoneinsider.com/a/llms-agent/llms.txt?shop=c53a5f-00.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQxODg1MDU2MjM1OSwibGFzdF92YWx1ZSI6IjEwNDE4ODUwNTYyMzU5In0%3D)
 
 ## Collections
 
@@ -1371,15 +1378,15 @@ In conclusion, even if lemon quartz and citrine are both yellow quartz, their sh
 ## Policies
 
 - [Privacy Policy](https://www.gemstoneinsider.com/policies/privacy-policy)
-  Updated: 2025-03-06T16:59:58-06:00
+  Updated: 2025-03-06T22:59:58Z
 - [Shipping Policy](https://www.gemstoneinsider.com/policies/shipping-policy)
-  Updated: 2025-11-05T12:19:43-06:00
+  Updated: 2025-11-05T18:19:43Z
 - [Refund Policy](https://www.gemstoneinsider.com/policies/refund-policy)
-  Updated: 2026-03-20T10:15:34-05:00
+  Updated: 2026-03-20T15:15:34Z
 - [Terms of Service](https://www.gemstoneinsider.com/policies/terms-of-service)
-  Updated: 2024-05-06T08:00:22-05:00
+  Updated: 2024-05-06T13:00:22Z
 - [Contact Information](https://www.gemstoneinsider.com/policies/contact-information)
-  Updated: 2026-03-20T10:17:41-05:00
+  Updated: 2026-03-20T15:17:41Z
 
 ## Optional
 
