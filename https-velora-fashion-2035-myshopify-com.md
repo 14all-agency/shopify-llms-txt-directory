@@ -6,7 +6,7 @@
 - Timezone: Africa/Lagos
 - Created At: 2026-07-11T00:13:24Z
 - Contact Email: emotionalsuspense36@gmail.com
-- Updated At: 2026-09-14T00:00:46.163Z
+- Updated At: 2026-10-23T00:51:24.406Z
 
 ## Products
 
@@ -125,15 +125,15 @@
 ## Policies
 
 - [Privacy Policy](https://velora-fashion-2035.myshopify.com/policies/privacy-policy)
-  Updated: 2026-07-11T01:13:27+01:00
+  Updated: 2026-07-11T00:13:27Z
 - [Shipping Policy](https://velora-fashion-2035.myshopify.com/policies/shipping-policy)
-  Updated: 2026-07-26T11:44:26+01:00
+  Updated: 2026-07-26T10:44:26Z
 - [Refund Policy](https://velora-fashion-2035.myshopify.com/policies/refund-policy)
-  Updated: 2026-07-26T11:48:51+01:00
+  Updated: 2026-07-26T10:48:51Z
 - [Terms of Service](https://velora-fashion-2035.myshopify.com/policies/terms-of-service)
-  Updated: 2026-07-26T11:50:37+01:00
+  Updated: 2026-07-26T10:50:37Z
 - [Contact Information](https://velora-fashion-2035.myshopify.com/policies/contact-information)
-  Updated: 2026-07-26T11:51:01+01:00
+  Updated: 2026-07-26T10:51:01Z
 
 ## Optional
 
