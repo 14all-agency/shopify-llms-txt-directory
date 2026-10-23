@@ -83,19 +83,19 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-10T21:37:49Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-08T00:00:28.959Z
+- Updated At: 2026-10-23T00:32:06.585Z
 
 ## Products
 
 - [Club Country Necklace](https://grahambarham.merchmadeeasy.com/products/club-country-necklace): Silver-colored necklace
-  Updated: 2026-10-05T13:06:30Z
+  Updated: 2026-10-19T18:12:46Z
   Vendor: Graham Barham
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0761/1305/1726/files/GBAR_Club_Country_Necklace.webp?v=1790014876
   Price: $25.00 USD
 - [Club Country Bandana](https://grahambarham.merchmadeeasy.com/products/club-country-bandana): 22" bandana
-  Updated: 2026-10-05T13:06:31Z
+  Updated: 2026-10-15T23:19:11Z
   Vendor: Graham Barham
   Product Type: Bandana
   Availability: Available
@@ -123,7 +123,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
 - [Club Country White Mesh Jersey](https://grahambarham.merchmadeeasy.com/products/club-country-white-mesh-jersey): 100% polyester unisex jersey in white. Features Club Country horse design on the front and 808 on the back.
-  Updated: 2026-10-05T13:06:32Z
+  Updated: 2026-10-18T17:55:27Z
   Vendor: Graham Barham
   Product Type: Jersey
   Availability: Available
@@ -162,13 +162,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://grahambarham.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-03T11:26:43Z
+  Updated: 2026-10-19T11:16:37Z
   Total Products: 6
 - [Apparel](https://grahambarham.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-03T11:26:43Z
+  Updated: 2026-10-19T11:16:37Z
   Total Products: 4
 - [Accessories](https://grahambarham.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-03T11:26:43Z
+  Updated: 2026-10-16T11:18:48Z
   Total Products: 2
 - [Hats](https://grahambarham.merchmadeeasy.com/collections/hats)
   Updated: 2026-09-28T14:11:19Z
@@ -177,7 +177,7 @@ your agent can transact everywhere.
   Updated: 2026-09-28T14:11:19Z
   Total Products: 0
 - [All](https://grahambarham.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-03T11:26:43Z
+  Updated: 2026-10-19T11:16:37Z
   Total Products: 6
 
 ## Store Pages
@@ -192,15 +192,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://grahambarham.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-09-11T12:34:46-05:00
+  Updated: 2026-09-11T17:34:46Z
 - [Shipping Policy](https://grahambarham.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-11T12:34:06-05:00
+  Updated: 2026-09-11T17:34:06Z
 - [Refund Policy](https://grahambarham.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-09-11T12:35:31-05:00
+  Updated: 2026-09-11T17:35:31Z
 - [Terms of Service](https://grahambarham.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-11T12:34:30-05:00
+  Updated: 2026-09-11T17:34:30Z
 - [Contact Information](https://grahambarham.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-09-11T12:35:48-05:00
+  Updated: 2026-09-11T17:35:48Z
 
 ## Optional
 
