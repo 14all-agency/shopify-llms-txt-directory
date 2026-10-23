@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-10-13T00:00:30.624Z
+- Updated At: 2026-10-23T01:22:02.766Z
 
 ## Products
 
@@ -30,7 +30,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Virgin_Hair_Fertilizer.png?v=1758922643
   Price: $9.99 USD
 - [Minimie Chin Chin, Pack of 10 & 900g Jar | Nexxtmart](https://nexxtmart.com/products/minimie-chin-chin): Buy Minimie chin chin, the Nigerian fried snack. Pack of ten 40g sachets or a 900g jar. Shipped across the United States.
-  Updated: 2026-09-16T10:04:38Z
+  Updated: 2026-10-18T19:13:45Z
   Vendor: Minimie
   Product Type: 
   Availability: Available
@@ -42,14 +42,14 @@
     Availability: Available
     Price: $25.99 USD
 - [Jigsimur Herbal Drink 750ml, Aloe Ferox | Nexxtmart](https://nexxtmart.com/products/jigsimur-natural-herbal-drink): Buy Jigsimur herbal drink, made from Aloe ferox harvested in South Africa's Western Cape. 750ml bottle, shipped across the United States.
-  Updated: 2026-09-16T10:04:36Z
+  Updated: 2026-10-20T17:09:55Z
   Vendor: Jigsimur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Jigsimur_Natural_Herbal_Drink.png?v=1758922647
-  Price: $58.00 USD
+  Price: $60.00 USD
 - [Jekonmo Herbal Mixture 3oz & Box of 24 | Nexxtmart](https://nexxtmart.com/products/jekonmo-herbal-mixture): Buy Jekonmo herbal mixture, a traditional Nigerian bottled herbal drink. Single 3oz bottles or a box of 24. Shipped across the United States.
-  Updated: 2026-10-04T16:19:38Z
+  Updated: 2026-10-22T16:33:37Z
   Vendor: Jekonmo
   Product Type: 
   Availability: Available
@@ -59,7 +59,7 @@
     Price: $6.68 USD
   - [1 box of 24 bottles](https://nexxtmart.com/products/jekonmo-herbal-mixture?variant=45830114639924)
     Availability: Available
-    Price: $99.99 USD
+    Price: $95.99 USD
 - [Egusi Ground Melon Seed 8oz-5.6lb, for Egusi Soup | Nexxtmart](https://nexxtmart.com/products/egusi-grinded-melon): Buy ground egusi online, ready milled for egusi soup. Includes the lumpy and fried methods, and how to keep your lumps intact. Shipped across the US.
   Updated: 2026-09-15T22:37:20Z
   Vendor: Nexxtmart LLC
@@ -128,7 +128,7 @@
     Availability: Available
     Price: $90.99 USD
 - [Uziza Leaves 2oz, Dried Nigerian Pepper Leaf | Nexxtmart](https://nexxtmart.com/products/uziza-dry-leaves-cut-sifted): Buy dried uziza leaves 2oz for pepper soup, ofe nsala and ofe ugba. Includes when to add it so the aroma survives. Shipped across the US.
-  Updated: 2026-09-15T22:37:17Z
+  Updated: 2026-10-18T19:08:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nestle_Milo_Refill.png?v=1758922690
   Price: $15.94 USD
 - [Peanut Burger, Nigerian Groundnut Snack 6 & 12 Pieces | Nexxtmart](https://nexxtmart.com/products/peanut-burger): Buy peanut burger, the caramelised Nigerian groundnut snack. Packs of 6 or 12 pieces. Shipped across the United States.
-  Updated: 2026-09-29T15:21:54Z
+  Updated: 2026-10-22T16:32:21Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -170,7 +170,7 @@
     Price: $8.73 USD
   - [1 Pack (12 Pieces)](https://nexxtmart.com/products/peanut-burger?variant=45833578840116)
     Availability: Available
-    Price: $15.99 USD
+    Price: $14.99 USD
 - [Prekese 6 Pods, Aidan Fruit Dried Whole | Nexxtmart](https://nexxtmart.com/products/aidan-fruit-prekese): Buy 6 whole dried prekese pods, known as aidan fruit, for pepper soup, light soup and nsala. Includes how to crack and use it. Shipped across the US.
   Updated: 2026-09-15T22:37:17Z
   Vendor: Nexxtmart LLC
@@ -179,7 +179,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Aidan_Fruit_Prekese.png?v=1758922695
   Price: $6.99 USD
 - [Ukwa 1lb, Dried African Breadfruit Seeds | Nexxtmart](https://nexxtmart.com/products/ukwa-bread-fruit): Buy ukwa 1lb, dried African breadfruit seeds. Includes how to cook it with akanwu into porridge, or roast it. Shipped across the United States.
-  Updated: 2026-09-16T10:52:04Z
+  Updated: 2026-10-18T19:08:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Coco Samba Herbal Mixture 3oz, 6-Pack & Box of 24 | Nexxtmart](https://nexxtmart.com/products/coco-samba-herbal-mixture): Buy Coco Samba herbal mixture, a West African bottled herbal drink. Single 3oz bottles, six packs and cartons. Shipped across the US.
-  Updated: 2026-09-29T21:40:51Z
+  Updated: 2026-10-22T16:33:09Z
   Vendor: Coco Samba
   Product Type: 
   Availability: Available
@@ -352,16 +352,16 @@
     Price: $39.99 USD
   - [1 Box of 24 Bottles](https://nexxtmart.com/products/coco-samba-herbal-mixture?variant=45829321556020)
     Availability: Available
-    Price: $99.99 USD
+    Price: $95.99 USD
 - [Orijin Bitters Herbal Spirit 75cl, Nigerian Bitters | Nexxtmart](https://nexxtmart.com/products/orijin-bitters-spirit-herbal-extracts-75cl): Buy Orijin Bitters, the Nigerian herbal spirit built on African roots, herbs and fruit. 75cl bottle, shipped across the US. Ages 21 and over.
-  Updated: 2026-09-30T09:32:21Z
+  Updated: 2026-10-22T16:35:54Z
   Vendor: Orijin
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Orijin_Bitters.png?v=1758922744
   - [1 Bottle 75CL](https://nexxtmart.com/products/orijin-bitters-spirit-herbal-extracts-75cl?variant=45815410851892)
     Availability: Available
-    Price: $25.99 USD
+    Price: $28.99 USD
   - [2 Bottles 75CL](https://nexxtmart.com/products/orijin-bitters-spirit-herbal-extracts-75cl?variant=45815410884660)
     Availability: Available
     Price: $48.99 USD
@@ -544,7 +544,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Gino Pepper & Onion Tomato Mix, Roll of 5 Sachets | Nexxtmart](https://nexxtmart.com/products/gino-pepper-onion-tomato-seasoning-mix): Buy Gino pepper and onion tomato mix sachets for stew and jollof. Roll of 5, 0.85lb. Shipped across the United States.
-  Updated: 2026-09-23T06:00:11Z
+  Updated: 2026-10-18T19:08:30Z
   Vendor: Gino
   Product Type: 
   Availability: Available
@@ -787,17 +787,17 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sweet_and_Spicy_Ripe_Plantain_Chips.png?v=1758922877
   Price: $10.99 USD
 - [Whole Stockfish 2-3lb, Okporoko Norwegian Dried Cod | Nexxtmart](https://nexxtmart.com/products/stockfish-cod): Buy whole Norwegian stockfish, okporoko, pack of 4 pieces 2-3lb. Includes how to soak and prepare it. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-10-16T15:25:33Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/whole_stock_fish.png?v=1758922879
   - [Pack of 4 pcs (partially cut) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049042996)
     Availability: Available
-    Price: $200.00 USD
+    Price: $250.00 USD
   - [Pack of 4 pcs (whole) 2-3lb](https://nexxtmart.com/products/stockfish-cod?variant=45873049075764)
     Availability: Available
-    Price: $200.00 USD
+    Price: $250.00 USD
 - [Curry Masala 4.25oz-14.45oz, Aromatic Spice Blend | Nexxtmart](https://nexxtmart.com/products/curry-masala): Buy curry masala, a warmer fuller blend than curry powder. Includes when to use which. 4.25oz to 14.45oz. Shipped across the US.
   Updated: 2026-09-15T22:37:35Z
   Vendor: Nexxtmart LLC
@@ -1506,7 +1506,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Double_Root_Coffee.png?v=1758923001
   Price: $29.99 USD
 - [Suya Spice 4.3oz-3.7lb, Yaji Nigerian Peanut Rub | Nexxtmart](https://nexxtmart.com/products/suya-spice-mix-seasoning): Buy suya spice, the Hausa yaji peanut and pepper rub for grilled meat. 4.3oz to 3.7lb catering size. Shipped across the United States.
-  Updated: 2026-09-15T22:37:48Z
+  Updated: 2026-10-18T19:08:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1554,7 +1554,7 @@
     Availability: Available
     Price: $65.99 USD
 - [Epiderm Cream 15g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/epiderm-creme-for-fungal-infections): Epiderm cream 15g, imported. Contains betamethasone and gentamicin, both -only in the US. Read the safety information before buying.
-  Updated: 2026-10-02T03:33:05Z
+  Updated: 2026-10-22T04:25:03Z
   Vendor: Epiderm
   Product Type: 
   Availability: Available
@@ -1566,7 +1566,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Funbact-A Cream 30g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/antifungal-cream-funbact-a): Funbact-A cream 30g, imported. Contains betamethasone, a -only corticosteroid in the US. Read the safety information before buying.
-  Updated: 2026-10-11T18:04:36Z
+  Updated: 2026-10-14T02:50:17Z
   Vendor: Funbact-A
   Product Type: 
   Availability: Available
@@ -1675,10 +1675,10 @@
   Updated: 2026-09-15T22:05:13Z
   Total Products: 27
 - [Featured Items](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-10-01T15:31:46Z
+  Updated: 2026-10-22T16:35:55Z
   Total Products: 145
 - [Best Sellers](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2026-10-01T15:31:46Z
+  Updated: 2026-10-21T11:11:53Z
   Total Products: 57
 - [cooking oil](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2026-09-15T22:05:03Z
@@ -1690,13 +1690,13 @@
   Updated: 2026-09-15T22:05:08Z
   Total Products: 46
 - [Drinks](https://nexxtmart.com/collections/drinks): Refreshing Drinks for Every Occasion Drinks bring people together, whether it’s a chilled soda on a  - Nexxtmart
-  Updated: 2026-10-05T11:13:24Z
+  Updated: 2026-10-22T16:35:55Z
   Total Products: 18
 - [Condiments](https://nexxtmart.com/collections/condiments): Elevate your cooking with Nexxtmart’s premium selection of condiments. From rich sauces and  - Nexxtmart
-  Updated: 2026-09-15T22:05:08Z
+  Updated: 2026-10-16T15:25:34Z
   Total Products: 44
 - [Health and Beauty](https://nexxtmart.com/collections/health-and-beauty): Nourish Your Body Inside and Out Your health and beauty routine deserves the best. At Nexxtmart, our  - Nexxtmart
-  Updated: 2026-10-12T11:12:36Z
+  Updated: 2026-10-22T11:13:42Z
   Total Products: 4
 - [Fruits & Vegetables](https://nexxtmart.com/collections/fruits-vegetables): Fresh Fruits &amp; Vegetables for a Healthy Lifestyle At Nexxtmart, we bring you the finest  - Nexxtmart
   Updated: 2026-09-15T22:05:08Z
@@ -1711,10 +1711,10 @@
   Updated: 2025-09-26T22:02:18Z
   Total Products: 0
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-05T11:13:24Z
+  Updated: 2026-10-22T16:35:55Z
   Total Products: 108
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-05T11:13:24Z
+  Updated: 2026-10-22T16:35:55Z
   Total Products: 108
 
 ## Blogs
@@ -1841,15 +1841,15 @@
 ## Policies
 
 - [Privacy Policy](https://nexxtmart.com/policies/privacy-policy)
-  Updated: 2025-09-27T19:19:25-04:00
+  Updated: 2025-09-27T23:19:25Z
 - [Shipping Policy](https://nexxtmart.com/policies/shipping-policy)
-  Updated: 2026-09-15T17:54:31-04:00
+  Updated: 2026-09-15T21:54:31Z
 - [Refund Policy](https://nexxtmart.com/policies/refund-policy)
-  Updated: 2026-09-15T19:12:22-04:00
+  Updated: 2026-09-15T23:12:22Z
 - [Terms of Service](https://nexxtmart.com/policies/terms-of-service)
-  Updated: 2026-09-15T19:46:09-04:00
+  Updated: 2026-09-15T23:46:09Z
 - [Contact Information](https://nexxtmart.com/policies/contact-information)
-  Updated: 2026-09-15T19:15:41-04:00
+  Updated: 2026-09-15T23:15:41Z
 
 ## Optional
 
