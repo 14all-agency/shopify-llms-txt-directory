@@ -6,17 +6,32 @@
 - Timezone: America/New_York
 - Created At: 2026-01-30T21:19:15Z
 - Contact Email: info@drinkandreina.com
-- Updated At: 2026-07-19T00:00:43.709Z
+- Updated At: 2026-10-23T01:10:28.751Z
 
 ## Products
 
 - [Andreina Tuscan Red  <0.5% ABV | Premium Non-Alcoholic Wine from Cortona](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine): Experience authentic Tuscan winemaking without alcohol. Andreina Syrah from Cortona preserves 99% of wine aromas. 15 calories, <0.5% ABV. Perfect for gatherings. Ships to 43 states.
-  Updated: 2026-07-16T21:10:46Z
+  Updated: 2026-10-19T20:22:36Z
   Vendor: Andreina
   Product Type: Non-Alcoholic Wine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/1714/9263/files/Andreina_white_background.jpg?v=1775146660
-  Price: $29.99 USD
+  - [1 Bottle](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine?variant=46333524541519)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0691/1714/9263/files/Andreina_white_background.jpg?v=1775146660
+    Price: $29.99 USD
+  - [3 Bottles](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine?variant=46333524574287)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0691/1714/9263/files/Andreina_white_background.jpg?v=1775146660
+    Price: $89.97 USD
+  - [6 Bottles (Half Case) • Save 5%](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine?variant=46333524607055)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0691/1714/9263/files/Andreina_white_background.jpg?v=1775146660
+    Price: $170.94 USD
+  - [12 Bottles (Full Case) • Save 10%](https://drinkandreina.com/products/tuscan-red-non-alcoholic-wine?variant=46333524639823)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0691/1714/9263/files/Andreina_white_background.jpg?v=1775146660
+    Price: $323.89 USD
 
 ## Collections
 
@@ -24,10 +39,10 @@
   Updated: 2026-04-14T17:41:10Z
   Total Products: 0
 - [NA Wines](https://drinkandreina.com/collections/na_wines): Experience authentic Tuscan winemaking without alcohol. Andreina Tuscan Red from Cortona preserves wine aromas. 15 calories, <0.5% ABV. Perfect for gatherings
-  Updated: 2026-07-17T11:22:59Z
+  Updated: 2026-10-20T11:28:51Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://drinkandreina.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-07-17T11:22:59Z
+  Updated: 2026-10-20T11:28:51Z
   Total Products: 1
 
 ## Store Pages
@@ -48,11 +63,13 @@
   Updated: 2026-02-17T20:14:23Z
 - [Our Story - The Art of Italian Gathering | Andreina](https://drinkandreina.com/pages/our-story): 
   Updated: 2026-02-08T23:40:27Z
+- [Press & Reviews | Andreina Non-Alcoholic Wine](https://drinkandreina.com/pages/press): 
+  Updated: 2026-07-27T22:09:06Z
 
 ## Policies
 
 - [Privacy Policy](https://drinkandreina.com/policies/privacy-policy)
-  Updated: 2026-02-17T15:09:56-05:00
+  Updated: 2026-02-17T20:09:56Z
 
 https://www.instagram.com/drinkandreina/
 
