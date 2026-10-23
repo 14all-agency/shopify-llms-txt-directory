@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-18T01:50:58Z
 - Contact Email: richsoleek@gmail.com
-- Updated At: 2026-10-08T00:00:27.551Z
+- Updated At: 2026-10-23T00:34:51.822Z
 
 ## Products
 
@@ -28,44 +28,8 @@
   - [XL](https://www.rich-society.com/products/rebels-hoodie?variant=43235728359485)
     Availability: Not Available
     Price: $88.00 USD
-- [“High Fashion” tee](https://www.rich-society.com/products/high-fashion-tee): TRUE TO SIZE DTG PRINT
-  Updated: 2026-10-03T15:27:19Z
-  Vendor: RICHSO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG-4201.jpg?v=1781839972
-  - [S](https://www.rich-society.com/products/high-fashion-tee?variant=43283059540029)
-    Availability: Available
-    Price: $25.00 USD
-  - [M](https://www.rich-society.com/products/high-fashion-tee?variant=43283059572797)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://www.rich-society.com/products/high-fashion-tee?variant=43283059605565)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://www.rich-society.com/products/high-fashion-tee?variant=43283059638333)
-    Availability: Not Available
-    Price: $40.00 USD
-- [“ Store” Tee](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1): Classic  Store design hand painted on to a heavyweight cotton shirt 7Oz boxy fit
-  Updated: 2026-10-03T15:26:49Z
-  Vendor: RICHSO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/60602027-8571-48F7-8B52-38C2247B6983.jpg?v=1782447721
-  - [S](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1?variant=43296402571325)
-    Availability: Available
-    Price: $25.00 USD
-  - [M](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1?variant=43296402604093)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1?variant=43296402636861)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://www.rich-society.com/products/vibes-don-t-lie-trucker-hats-1?variant=43350258090045)
-    Availability: Not Available
-    Price: $40.00 USD
 - [“Imagine” Tee](https://www.rich-society.com/products/imagine-tee): TRUE TO SIZE DTG PRINT
-  Updated: 2026-10-03T15:08:29Z
+  Updated: 2026-10-13T23:24:46Z
   Vendor: RICHSO
   Product Type: Shirts
   Availability: Available
@@ -83,7 +47,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [XXL](https://www.rich-society.com/products/imagine-tee?variant=43624042037309)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
 - [“blessmeup” Trucker Hat (red)](https://www.rich-society.com/products/angel-trucker-red): baby blue/white embroidery patch.
   Updated: 2026-09-26T15:41:58Z
@@ -101,131 +65,131 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/B453D4C0-276D-4277-B809-7B2466A39AC3.jpg?v=1787105354
   Price: $50.00 USD
 - [RICHES Set (steel blue)](https://www.rich-society.com/products/riches-set-steel-blue): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-09-24T22:01:56Z
+  Updated: 2026-10-14T00:49:07Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/97334F1E-7328-4F80-93CD-4CEDD6D19358.jpg?v=1790093262
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/E7658BE8-35AD-4EAA-B2A6-DF0159B8537C.jpg?v=1791934008
   - [S](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472478269)
-    Availability: Available
-    Price: $120.00 USD
+    Availability: Not Available
+    Price: $100.00 USD
   - [M](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472511037)
     Availability: Available
-    Price: $120.00 USD
+    Price: $100.00 USD
   - [L](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472543805)
     Availability: Available
-    Price: $120.00 USD
+    Price: $100.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472576573)
-    Availability: Available
-    Price: $120.00 USD
+    Availability: Not Available
+    Price: $100.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-steel-blue?variant=43643472609341)
-    Availability: Available
-    Price: $120.00 USD
+    Availability: Not Available
+    Price: $100.00 USD
 - [RICHES Set (black)](https://www.rich-society.com/products/riches-set-black): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-10-03T15:10:19Z
+  Updated: 2026-10-13T23:36:29Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/AC2433D5-96BF-47BB-9B89-6B89BC54B3BD.jpg?v=1790093262
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/E7B0BAE7-A919-4125-9691-1D1F636E866F.jpg?v=1791934008
   - [S](https://www.rich-society.com/products/riches-set-black?variant=43643472871485)
     Availability: Available
-    Price: $110.00 USD
+    Price: $90.00 USD
   - [M](https://www.rich-society.com/products/riches-set-black?variant=43643472904253)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [L](https://www.rich-society.com/products/riches-set-black?variant=43643472937021)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-black?variant=43643472969789)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-black?variant=43643473002557)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
 - [RICHES Set (grey)](https://www.rich-society.com/products/riches-set-grey): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-10-03T15:10:27Z
+  Updated: 2026-10-13T23:36:15Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/5620A2E3-B263-4687-BBB3-5E6704CDD637.jpg?v=1789685631
   - [S](https://www.rich-society.com/products/riches-set-grey?variant=43643473068093)
     Availability: Available
-    Price: $110.00 USD
+    Price: $90.00 USD
   - [M](https://www.rich-society.com/products/riches-set-grey?variant=43643473100861)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [L](https://www.rich-society.com/products/riches-set-grey?variant=43643473133629)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-grey?variant=43643473166397)
     Availability: Available
-    Price: $110.00 USD
+    Price: $90.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-grey?variant=43643473199165)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
 - [RICHES Set (red)](https://www.rich-society.com/products/riches-set-red): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-10-03T15:11:18Z
+  Updated: 2026-10-22T21:35:56Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/69037866-A932-4203-9F77-E07852E4EF7B.jpg?v=1790093262
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/A07605D2-80E8-4928-83DF-92C6B13C4F0C.jpg?v=1791934008
   - [S](https://www.rich-society.com/products/riches-set-red?variant=43643473231933)
     Availability: Available
-    Price: $100.00 USD
+    Price: $90.00 USD
   - [M](https://www.rich-society.com/products/riches-set-red?variant=43643473264701)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [L](https://www.rich-society.com/products/riches-set-red?variant=43643473297469)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-red?variant=43643473330237)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-red?variant=43643473363005)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
 - [RICHES Set (olive)](https://www.rich-society.com/products/riches-set-olive): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-10-03T15:10:46Z
+  Updated: 2026-10-22T21:36:16Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/68A58971-C13C-4843-A251-260D606671AE.jpg?v=1790093262
   - [S](https://www.rich-society.com/products/riches-set-olive?variant=43643473395773)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [M](https://www.rich-society.com/products/riches-set-olive?variant=43643473428541)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [L](https://www.rich-society.com/products/riches-set-olive?variant=43643473461309)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-olive?variant=43643473494077)
     Availability: Available
-    Price: $110.00 USD
+    Price: $90.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-olive?variant=43643473526845)
-    Availability: Available
-    Price: $110.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
 - [RICHES Set (charcoal)](https://www.rich-society.com/products/riches-set-charcoal): ready to ship True to size 100 cotton expect 2-3 days for processing and 1-3 for shipping
-  Updated: 2026-10-03T15:10:52Z
+  Updated: 2026-10-13T23:35:58Z
   Vendor: RICHSO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/CCF55A30-13E8-42EA-ADDA-E0FD4FD01618.jpg?v=1789685631
   - [S](https://www.rich-society.com/products/riches-set-charcoal?variant=43643473920061)
     Availability: Available
-    Price: $100.00 USD
+    Price: $90.00 USD
   - [M](https://www.rich-society.com/products/riches-set-charcoal?variant=43643473952829)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [L](https://www.rich-society.com/products/riches-set-charcoal?variant=43643473985597)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XL](https://www.rich-society.com/products/riches-set-charcoal?variant=43643474018365)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
   - [XXL](https://www.rich-society.com/products/riches-set-charcoal?variant=43643474051133)
-    Availability: Available
-    Price: $100.00 USD
+    Availability: Not Available
+    Price: $90.00 USD
 - [“blessmeup” unstructured hat(camo)](https://www.rich-society.com/products/angel-trucker-camo): Camo hat w/ embroidery patch.
   Updated: 2026-09-26T15:41:24Z
   Vendor: RICHSO
@@ -248,6 +212,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/95B94D96-9595-4434-B170-5AE0C5BC86EA.jpg?v=1791040325
   Price: $80.00 USD
+- [Traveller Woven Set](https://www.rich-society.com/products/traveller-woven-set): ready to ship True to size 100% woven expect 2-3 days for processing and 1-3 for shipping
+  Updated: 2026-10-19T02:49:06Z
+  Vendor: RICHSO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/2EF0537D-D8DF-4EAC-A8B2-00E9DD47DCBB.jpg?v=1791766527
+  - [S](https://www.rich-society.com/products/traveller-woven-set?variant=43796601995325)
+    Availability: Available
+    Price: $130.00 USD
+  - [M](https://www.rich-society.com/products/traveller-woven-set?variant=43796602028093)
+    Availability: Not Available
+    Price: $130.00 USD
+  - [L](https://www.rich-society.com/products/traveller-woven-set?variant=43796602060861)
+    Availability: Available
+    Price: $130.00 USD
+  - [XL](https://www.rich-society.com/products/traveller-woven-set?variant=43796602093629)
+    Availability: Not Available
+    Price: $130.00 USD
+  - [XXL](https://www.rich-society.com/products/traveller-woven-set?variant=43796602126397)
+    Availability: Not Available
+    Price: $130.00 USD
 
 ## Collections
 
@@ -258,10 +243,10 @@
   Updated: 2026-09-26T03:42:27Z
   Total Products: 4
 - [Sets](https://www.rich-society.com/collections/sets): Jogging Suits
-  Updated: 2026-10-03T15:11:19Z
-  Total Products: 6
+  Updated: 2026-10-13T23:37:28Z
+  Total Products: 7
 - [Tees](https://www.rich-society.com/collections/tees)
-  Updated: 2026-10-03T15:27:20Z
+  Updated: 2026-10-13T23:25:13Z
   Total Products: 4
 - [Hoodies](https://www.rich-society.com/collections/hoodies)
   Updated: 2026-10-03T15:24:03Z
@@ -277,11 +262,11 @@
 ## Policies
 
 - [Privacy Policy](https://www.rich-society.com/policies/privacy-policy)
-  Updated: 2025-06-17T20:51:09-05:00
+  Updated: 2025-06-18T01:51:09Z
 - [Shipping Policy](https://www.rich-society.com/policies/shipping-policy)
-  Updated: 2026-10-03T08:59:42-05:00
+  Updated: 2026-10-03T13:59:42Z
 - [Refund Policy](https://www.rich-society.com/policies/refund-policy)
-  Updated: 2026-10-03T08:56:39-05:00
+  Updated: 2026-10-03T13:56:39Z
 
 ## Optional
 
