@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-02-12T12:33:32Z
 - Contact Email: info@minoki.de
-- Updated At: 2026-10-14T10:08:21.191Z
+- Updated At: 2026-10-23T01:09:42.576Z
 
 ## Products
 
 - [Kleiner Bär & Bienen | Kinderzimmer Poster](https://minoki.de/products/teddybaer-mit-bienen): Süßes Kinderzimmer Poster mit Teddybär und Bienen im Aquarellstil. Warme Naturtöne für eine ruhige, liebevolle Atmosphäre im Baby- oder Kinderzimmer.
-  Updated: 2026-10-13T19:09:11Z
+  Updated: 2026-10-19T10:35:40Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -29,7 +29,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Lachende Sonne | Poster fürs Kinderzimmer](https://minoki.de/products/lachende-sonne): Fröhliches Kinderzimmer Poster mit lachender Sonne in warmen Gelb- und Naturtönen. Ein freundliches, ruhiges Motiv für Baby- und Kinderzimmer.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:08Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Schlafender Bär auf dem Mond | Kinderzimmer Poster](https://minoki.de/products/schlafender-baer-auf-dem-mond): Verwandle das Kinderzimmer in eine traumhafte Sternenwelt. Unser Poster mit dem schlafenden Bären auf dem Mond ist die ideale Ergänzung für eine liebevolle Wandgestaltung, die Geborgenheit und Ruhe ausstrahlt. Auf diesem hochwertigen Motiv ruht ein kleiner Teddybär in sanften Brauntönen auf einer pastellblauen Mondsichel. Begleitet von verspielten Wolken und einem sanften Sternenregen, fängt die Illustration den Moment des tiefen Schlummers perfekt ein. Die feinen Wasserfarben-Details und die harmonische Farbwahl in Blau und Grau sorgen für einen zeitlosen Look. Ob zur Geburt oder einfach als neues Highlight im Spielzimmer – dieses Bild schafft eine beruhigende Umgebung für tägliche Abenteuer und nächtliche Erholung. Es lässt sich wunderbar mit Holzmöbeln und hellen Textilien kombinieren, um einen modernen und einladenden Raum für dein Kind zu gestalten. Produktmerkmale:- 200g+ Archivpapier in Museumsqualität, das nicht vergilbt- Lebendige Pigmenttinten für strahlende, langanhaltende Farben- In mehreren Größen mit mattem Finish erhältlich- Bereit zum Aufhängen mit Clips, Klebeband, Reißzwecken oder zum Einrahmen Pflegehinweise:- Sollte das Poster Staub ansetzen, können Sie diesen vorsichtig mit einem sauberen, trockenen Tuch abwischen. Produkthinweis:- Poster kommt ohne Rahmen oder sonstige Artikel.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:10Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Schlummernde Maus auf dem Käsemond | Kinderzimmer Poster](https://minoki.de/products/schlummernde-maus-auf-dem-kasemond): Kinderzimmer Poster mit schlafender Maus auf dem Käsemond. Sanfte Aquarellfarben und warme Naturtöne für eine ruhige, liebevolle Schlafumgebung.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:07Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Fuchs im Blumenmeer | Kinderzimmer Poster](https://minoki.de/products/kleiner-fuchs-im-blumenmeer): Kinderzimmer Poster mit kleinem Fuchs im Blumenmeer. Warme Naturtöne und sanfter Aquarellstil schaffen eine ruhige, gemütliche Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:06:13Z
+  Updated: 2026-10-19T10:30:08Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -101,7 +101,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Hase im Gras | Kinderzimmer Poster](https://minoki.de/products/kleiner-hase-im-gras): Kinderzimmer Poster mit kleinem Hasen im Gras. Sanfte Naturtöne und liebevoller Aquarellstil sorgen für eine ruhige, gemütliche Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:07Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -119,7 +119,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleine Baby-Ziege auf der Wiese | Kinderzimmer Poster](https://minoki.de/products/kleine-baby-ziege-auf-der-wiese-kinderzimmer-poster): Kinderzimmer Poster mit kleiner Baby-Ziege auf der Wiese. Sanfte Naturtöne und liebevoller Aquarellstil für eine ruhige, warme Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:11Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -137,7 +137,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleines Rehkitz in der Blumenwiese | Kinderzimmer Poster](https://minoki.de/products/kleines-rehkitz-in-der-blumenwiese-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Rehkitz in der Blumenwiese. Sanfte Erdtöne und liebevoller Aquarellstil für eine ruhige, natürliche Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:09Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Lächelndes Reh | Kinderzimmer Poster](https://minoki.de/products/laechelndes-reh-kinderzimmer-poster): Kinderzimmer Poster mit lächelndem Reh im Aquarellstil. Warme Erdtöne und sanfte Details sorgen für eine ruhige, natürliche Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:12Z
+  Updated: 2026-10-19T10:30:10Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -173,7 +173,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Biber in der Blumenwiese](https://minoki.de/products/kleiner-biber-in-der-blumenwiese-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Biber in der Blumenwiese. Warme Braun- und Beigetöne im Aquarellstil sorgen für eine ruhige, natürliche Atmosphäre.
-  Updated: 2026-10-13T19:09:13Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Elefant | Kinderzimmer Poster](https://minoki.de/products/kleiner-elefant-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Elefanten im Aquarellstil. Warme Erdtöne und sanfte Details schaffen eine ruhige, harmonische Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:13Z
+  Updated: 2026-10-19T10:30:11Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -245,7 +245,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Dream Big Little One | Kinderzimmer Poster](https://minoki.de/products/dream-big-little-one-kinderzimmer-poster): Kinderzimmer Poster „Dream Big Little One“ mit moderner Typografie und sanften Naturtönen. Ruhiger Aquarellstil für eine liebevolle Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:13Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -263,7 +263,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Schlafendes Faultier Little Dreamer | Kinderzimmer Poster](https://minoki.de/products/schlafendes-faultier-little-dreamer-kinderzimmer-poster): Kinderzimmer Poster mit schlafendem Faultier „Little Dreamer“. Sanfte Naturtöne und ruhiger Aquarellstil für eine entspannte, harmonische Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:13Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -281,7 +281,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Tanzende Maus mit Gänseblümchen | Kinderzimmer Poster](https://minoki.de/products/tanzende-maus-mit-ganseblumchen-kinderzimmer-poster): Kinderzimmer Poster mit tanzender Maus und Gänseblümchen. Sanfte Grau- und Naturtöne im Aquarellstil für eine ruhige, liebevolle Atmosphäre.
-  Updated: 2026-10-13T19:09:13Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -299,7 +299,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Bär und Biene im Gänseblümchen-Heißluftballon | Kinderzimmer Poster](https://minoki.de/products/bar-und-biene-im-ganseblumchen-heissluftballon-kinderzimmer-poster): Kinderzimmer Poster mit Bär und Bienen im Gänseblümchen-Heißluftballon. Sanfte Aquarellfarben und warme Naturtöne für eine ruhige, liebevolle Atmosphäre.
-  Updated: 2026-10-13T19:09:14Z
+  Updated: 2026-10-19T10:30:17Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Naschbär mit Honig | Kinderzimmer Poster](https://minoki.de/products/kleiner-naschbar-mit-honig-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Naschbär und Honig. Warme Goldtöne und sanfter Aquarellstil sorgen für eine ruhige, liebevolle Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:14Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -371,7 +371,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleines Kälbchen auf der Blumenwiese | Kinderzimmer Poster](https://minoki.de/products/kleines-kalbchen-auf-der-blumenwiese-kinderzimmer-poster): Kinderzimmer Poster mit kleinem Kälbchen auf der Blumenwiese. Sanfte Naturtöne und liebevoller Aquarellstil für eine ruhige, warme Atmosphäre im Babyzimmer.
-  Updated: 2026-10-13T19:09:14Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -389,7 +389,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner sitzender Bär | Kinderzimmer Poster](https://minoki.de/products/kleiner-sitzender-bar-kinderzimmer-poster): Kinderzimmer Poster mit kleinem sitzenden Bären im Aquarellstil. Warme Brauntöne und sanfte Details sorgen für eine ruhige, gemütliche Atmosphäre.
-  Updated: 2026-10-13T19:09:14Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -497,7 +497,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Elefant mit Blume | Kinderzimmer Poster](https://minoki.de/products/kleiner-elefant-mit-blume-kinderzimmer-poster): Verschönere das Kinderzimmer mit dem süßen Poster 'Kleiner Elefant mit Blume'. Sanfte Aquarellfarben & ein freundliches Motiv für eine harmonische Wanddeko.
-  Updated: 2026-10-13T19:09:15Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -533,7 +533,7 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Kleiner Bär mit blauer Blume | Kinderzimmer Poster](https://minoki.de/products/kleiner-bar-mit-blauer-blume-kinderzimmer-poster): Zauberhaftes Bären-Poster für das Kinderzimmer. Liebevolles Aquarell-Design eines Babybären mit Blume. Jetzt entdecken und das Babyzimmer gemütlich dekorieren!
-  Updated: 2026-10-13T19:09:15Z
+  Updated: 2026-10-19T10:30:16Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -586,8 +586,8 @@
   - [DIN A1](https://minoki.de/products/kleines-alpaka-kinderzimmer-poster?variant=62702184071498)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Leuchtturm – Ruhe fürs Babyzimmer](https://minoki.de/products/kleiner-leuchtturm-am-morgen-kinderzimmer-poster-16030078140746): Kinderzimmer-Poster Leuchtturm bringt ruhige Küstenstimmung ins Babyzimmer. Als Geschenk zur Geburt oder fürs erste Zimmer entdecken.
-  Updated: 2026-10-14T09:41:49Z
+- [Kinderzimmer-Poster Leuchtturm – Geborgenheit fürs Kinderzimmer](https://minoki.de/products/kleiner-leuchtturm-am-morgen-kinderzimmer-poster-16030078140746): Kinderzimmer-Poster Leuchtturm für eine ruhige Küstenstimmung. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer auswählen.
+  Updated: 2026-10-14T21:42:02Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -604,8 +604,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-leuchtturm-am-morgen-kinderzimmer-poster-16030078140746?variant=63494760989002)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Meer – Ruhe und Weite für kleine Räume](https://minoki.de/products/duenenweg-zum-meer-kinderzimmer-poster): Das Kinderzimmer-Poster Meer bringt Ruhe und Weite ins Babyzimmer. Eine bleibende Geschenkidee zur Geburt oder Taufe – jetzt Küstengefühl einziehen lassen.
-  Updated: 2026-10-14T09:41:49Z
+- [Kinderzimmer-Poster Meer – Ruhe und Weite fürs Kinderzimmer](https://minoki.de/products/duenenweg-zum-meer-kinderzimmer-poster): Kinderzimmer-Poster Meer bringt ruhige Küstenstimmung ins Babyzimmer. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt Lieblingsplatz gestalten.
+  Updated: 2026-10-14T21:41:55Z
   Vendor: minoki
   Product Type: Kinderzimmer-Poster
   Availability: Available
@@ -622,8 +622,8 @@
   - [DIN A1](https://minoki.de/products/duenenweg-zum-meer-kinderzimmer-poster?variant=63497650700618)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Rehkitz und Häschen | Sanfte Waldtiere](https://minoki.de/products/rehkitz-haeschen-kinderzimmer-poster): Das Kinderzimmer-Poster Rehkitz und Häschen schenkt dem Babyzimmer Ruhe und Wärme. Eine liebevolle Geschenkidee zur Geburt oder Taufe.
-  Updated: 2026-10-14T09:41:48Z
+- [Kinderzimmer-Poster Rehkitz & Häschen für sanfte Räume](https://minoki.de/products/rehkitz-haeschen-kinderzimmer-poster): Kinderzimmer-Poster Rehkitz & Häschen für eine ruhige, geborgene Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe. Jetzt entdecken.
+  Updated: 2026-10-14T21:41:56Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -640,8 +640,8 @@
   - [DIN A1](https://minoki.de/products/rehkitz-haeschen-kinderzimmer-poster?variant=63497890726218)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Fuchs – sanfte Wolkenreise](https://minoki.de/products/fuchs-auf-wolkenreise-kinderzimmer-poster): Das Kinderzimmer-Poster Fuchs bringt Ruhe und Fantasie ins Babyzimmer. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt Lieblingsplatz gestalten.
-  Updated: 2026-10-14T09:41:48Z
+- [Kinderzimmer-Poster Fuchs – Reise über Wald und Berge](https://minoki.de/products/fuchs-auf-wolkenreise-kinderzimmer-poster): Das Kinderzimmer-Poster Fuchs schenkt dem Raum Ruhe und Fantasie. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
+  Updated: 2026-10-14T21:41:56Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -658,8 +658,8 @@
   - [DIN A1](https://minoki.de/products/fuchs-auf-wolkenreise-kinderzimmer-poster?variant=63501190299978)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Giraffe und Elefant für kleine Tierfreunde](https://minoki.de/products/kleine-safari-freunde-kinderzimmer-poster): Das Kinderzimmer-Poster Giraffe und Elefant schafft eine ruhige Safari-Stimmung und ist eine liebevolle Geschenkidee zur Geburt oder Taufe. Jetzt entdecken.
-  Updated: 2026-10-14T09:41:47Z
+- [Kinderzimmer-Poster Giraffe und Elefant | Geschenk zur Geburt](https://minoki.de/products/kleine-safari-freunde-kinderzimmer-poster): Kinderzimmer-Poster Giraffe und Elefant in sanften Naturtönen für eine geborgene Raumatmosphäre. Als Geschenk zur Geburt oder Taufe entdecken.
+  Updated: 2026-10-14T21:41:58Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -676,8 +676,8 @@
   - [DIN A1](https://minoki.de/products/kleine-safari-freunde-kinderzimmer-poster?variant=63501476462922)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Rakete – Fantasie für kleine Entdecker](https://minoki.de/products/rakete-im-sternenhimmel-kinderzimmer-poster): Kinderzimmer-Poster Rakete für eine ruhige, fantasievolle Raumstimmung. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das Weltraum-Motiv.
-  Updated: 2026-10-14T09:41:47Z
+- [Kinderzimmer-Poster Rakete für kleine Weltraumfans](https://minoki.de/products/rakete-im-sternenhimmel-kinderzimmer-poster): Das Kinderzimmer-Poster Rakete bringt sanfte Weltraumstimmung ins Babyzimmer. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
+  Updated: 2026-10-14T21:41:55Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -694,8 +694,8 @@
   - [DIN A1](https://minoki.de/products/rakete-im-sternenhimmel-kinderzimmer-poster?variant=63501515915594)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Häschen – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleines-haeschen-mit-schmetterling-kinderzimmer-poster): Kinderzimmer-Poster Häschen für eine ruhige, warme Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T09:41:46Z
+- [Kinderzimmer-Poster Hase – liebevolle Geschenkidee](https://minoki.de/products/kleines-haeschen-mit-schmetterling-kinderzimmer-poster): Kinderzimmer-Poster Hase für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das zarte Tiermotiv.
+  Updated: 2026-10-14T21:41:51Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -712,8 +712,8 @@
   - [DIN A1](https://minoki.de/products/kleines-haeschen-mit-schmetterling-kinderzimmer-poster?variant=63502118486346)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Bär – maritime Ruhe für kleine Räume](https://minoki.de/products/baer-auf-segelfahrt-kinderzimmer-poster): Kinderzimmer-Poster Bär für eine ruhige, maritime Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe. Entdecke das Motiv fürs Babyzimmer.
-  Updated: 2026-10-14T09:41:46Z
+- [Kinderzimmer-Poster Bär – maritime Ruhe zum Träumen](https://minoki.de/products/baer-auf-segelfahrt-kinderzimmer-poster): Kinderzimmer-Poster Bär für eine ruhige, maritime Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer entdecken.
+  Updated: 2026-10-14T21:41:54Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -730,8 +730,8 @@
   - [DIN A1](https://minoki.de/products/baer-auf-segelfahrt-kinderzimmer-poster?variant=63508628308298)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Segelboot für kleine Meeresfans](https://minoki.de/products/kleines-segelboot-unter-der-sonne-kinderzimmer-poster): Kinderzimmer-Poster Segelboot für eine ruhige, maritime Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T09:41:45Z
+- [Kinderzimmer-Poster Segelboot für kleine Meeresfreunde](https://minoki.de/products/kleines-segelboot-unter-der-sonne-kinderzimmer-poster): Kinderzimmer-Poster Segelboot in sanften Aquarelltönen für eine ruhige, maritime Atmosphäre. Als Geschenk entdecken und Meeresgefühl einziehen lassen.
+  Updated: 2026-10-14T21:41:55Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -748,8 +748,8 @@
   - [DIN A1](https://minoki.de/products/kleines-segelboot-unter-der-sonne-kinderzimmer-poster?variant=63508676510026)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Fischerboot – Ruhe fürs Kinderzimmer](https://minoki.de/products/fischerboot-im-abendlicht-kinderzimmer-poster): Kinderzimmer-Poster Fischerboot für eine ruhige, maritime Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
-  Updated: 2026-10-14T09:41:45Z
+- [Kinderzimmer-Poster Fischerboot – Ruhe fürs kleine Reich](https://minoki.de/products/fischerboot-im-abendlicht-kinderzimmer-poster): Das Kinderzimmer-Poster Fischerboot bringt ruhige Meeresstimmung ins kleine Reich. Eine schöne Geschenkidee zur Geburt – jetzt Lieblingsplatz gestalten.
+  Updated: 2026-10-14T21:41:53Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -766,8 +766,8 @@
   - [DIN A1](https://minoki.de/products/fischerboot-im-abendlicht-kinderzimmer-poster?variant=63516703392074)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Teddybär – Ruhe für kleine Räume](https://minoki.de/products/teddys-segelfahrt-kinderzimmer-poster): Kinderzimmer-Poster Teddybär für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke Teddys Segelfahrt.
-  Updated: 2026-10-14T08:39:28Z
+- [Kinderzimmer-Poster Teddybär – Ruhe für kleine Träumer](https://minoki.de/products/teddys-segelfahrt-kinderzimmer-poster): Das Kinderzimmer-Poster Teddybär bringt Ruhe und Fantasie ins Babyzimmer. Eine liebevolle Geschenkidee zur Geburt, Taufe oder zum Geburtstag.
+  Updated: 2026-10-14T20:39:48Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -784,8 +784,8 @@
   - [DIN A1](https://minoki.de/products/teddys-segelfahrt-kinderzimmer-poster?variant=63516756050250)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Segelboot für kleine Küstenfans](https://minoki.de/products/segelboot-im-abendlicht-kinderzimmer-poster): Das Kinderzimmer-Poster Segelboot schenkt dem Raum ruhige Küstenstimmung. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
-  Updated: 2026-10-14T09:41:44Z
+- [Kinderzimmer-Poster Segelboot – Ruhe und Fernweh](https://minoki.de/products/segelboot-im-abendlicht-kinderzimmer-poster): Das Kinderzimmer-Poster Segelboot schenkt dem Raum Ruhe und Weite. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer entdecken.
+  Updated: 2026-10-14T21:41:52Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -802,8 +802,8 @@
   - [DIN A1](https://minoki.de/products/segelboot-im-abendlicht-kinderzimmer-poster?variant=63516759556426)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Häschen – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleines-haeschen-blumenwiese-kinderzimmer-poster): Kinderzimmer-Poster Häschen in sanften Naturtönen: eine liebevolle Geschenkidee zur Geburt und fürs erste eigene Zimmer. Jetzt Lieblingsplatz gestalten.
-  Updated: 2026-10-14T09:41:44Z
+- [Kinderzimmer-Poster Häschen für eine sanfte Atmosphäre](https://minoki.de/products/kleines-haeschen-blumenwiese-kinderzimmer-poster): Das Kinderzimmer-Poster Häschen bringt Wärme ins Babyzimmer und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Motiv.
+  Updated: 2026-10-14T21:41:51Z
   Vendor: minoki
   Product Type: Kinderzimmer Poster
   Availability: Available
@@ -820,8 +820,8 @@
   - [DIN A1](https://minoki.de/products/kleines-haeschen-blumenwiese-kinderzimmer-poster?variant=63516764275018)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Elefant – Geborgenheit zum Verschenken](https://minoki.de/products/elefantenfreunde-unterm-sternenhimmel-kinderzimmer-poster): Das Kinderzimmer-Poster Elefant schafft eine sanfte Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das liebevolle Motiv.
-  Updated: 2026-10-14T09:41:43Z
+- [Kinderzimmer-Poster Elefant – Ruhe fürs Babyzimmer](https://minoki.de/products/elefantenfreunde-unterm-sternenhimmel-kinderzimmer-poster): Das Kinderzimmer-Poster Elefant schafft eine geborgene Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Motiv.
+  Updated: 2026-10-14T21:41:51Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -838,8 +838,8 @@
   - [DIN A1](https://minoki.de/products/elefantenfreunde-unterm-sternenhimmel-kinderzimmer-poster?variant=63518570873162)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Löwe – Wärme fürs Babyzimmer](https://minoki.de/products/kleiner-loewe-im-sonnenschein-kinderzimmer-poster): Kinderzimmer-Poster Löwe für eine warme, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke den kleinen Löwen.
-  Updated: 2026-10-14T09:41:42Z
+- [Kinderzimmer-Poster Löwe – Wärme für kleine Lieblingsplätze](https://minoki.de/products/kleiner-loewe-im-sonnenschein-kinderzimmer-poster): Das Kinderzimmer-Poster Löwe bringt Wärme und Geborgenheit ins Babyzimmer. Eine liebevolle Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
+  Updated: 2026-10-14T21:41:52Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -856,8 +856,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-loewe-im-sonnenschein-kinderzimmer-poster?variant=63524909416778)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eisbär – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/neugieriger-eisbaer-kinderzimmer-poster): Kinderzimmer-Poster Eisbär für eine ruhige, geborgene Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe – entdecke das Motiv.
-  Updated: 2026-10-14T08:39:24Z
+- [Kinderzimmer-Poster Eisbär – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/neugieriger-eisbaer-kinderzimmer-poster): Kinderzimmer-Poster Eisbär für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Tiermotiv.
+  Updated: 2026-10-14T20:39:33Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -874,8 +874,8 @@
   - [DIN A1](https://minoki.de/products/neugieriger-eisbaer-kinderzimmer-poster?variant=63528987525450)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Fohlen – sanfte Tierkunst fürs Kinderzimmer](https://minoki.de/products/kleines-fohlen-kinderzimmer-poster): Kinderzimmer-Poster Fohlen in warmen Naturtönen für eine ruhige Wandgestaltung. Als Geschenk zur Geburt oder Taufe auswählen.
-  Updated: 2026-10-14T09:41:33Z
+- [Kinderzimmer-Poster Fohlen – sanfte Deko für kleine Pferdefans](https://minoki.de/products/kleines-fohlen-kinderzimmer-poster): Das Kinderzimmer-Poster Fohlen schenkt dem Raum ruhige Wärme und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Motiv.
+  Updated: 2026-10-14T21:41:41Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -892,8 +892,8 @@
   - [DIN A1](https://minoki.de/products/kleines-fohlen-kinderzimmer-poster?variant=63528987754826)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Waschbär – Ruhe für kleine Räume](https://minoki.de/products/kleiner-waschbaer-kinderzimmer-poster): Das Kinderzimmer-Poster Waschbär schafft eine sanfte Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das Motiv.
-  Updated: 2026-10-14T09:41:34Z
+- [Kinderzimmer-Poster Waschbär für eine ruhige Bilderwelt](https://minoki.de/products/kleiner-waschbaer-kinderzimmer-poster): Das Kinderzimmer-Poster Waschbär schafft eine warme Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Waldtier.
+  Updated: 2026-10-14T21:41:42Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -910,8 +910,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-waschbaer-kinderzimmer-poster?variant=63528988574026)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eichhörnchen für eine ruhige Waldstimmung](https://minoki.de/products/kleines-eichhoernchen-kinderzimmer-poster): Kinderzimmer-Poster Eichhörnchen in warmen Naturtönen – eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das Motiv für Babys erstes Zimmer.
-  Updated: 2026-10-14T09:41:33Z
+- [Kinderzimmer-Poster Eichhörnchen für kleine Tierfreunde](https://minoki.de/products/kleines-eichhoernchen-kinderzimmer-poster): Das Kinderzimmer-Poster Eichhörnchen schafft eine ruhige Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Tiermotiv.
+  Updated: 2026-10-14T21:41:41Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -928,8 +928,8 @@
   - [DIN A1](https://minoki.de/products/kleines-eichhoernchen-kinderzimmer-poster?variant=63529009643850)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Igel – ruhige Waldtier-Deko](https://minoki.de/products/kleiner-igel-kinderzimmer-poster): Kinderzimmer-Poster Igel für eine warme, ruhige Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T08:39:25Z
+- [Kinderzimmer-Poster Igel – ruhiges Waldtiermotiv](https://minoki.de/products/kleiner-igel-kinderzimmer-poster): Kinderzimmer-Poster Igel in sanften Naturtönen für eine ruhige Wandgestaltung. Als Geschenk zur Geburt oder Taufe entdecken.
+  Updated: 2026-10-14T20:40:05Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -946,8 +946,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-igel-kinderzimmer-poster?variant=63529027928394)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Lämmchen für sanfte Geborgenheit](https://minoki.de/products/kleines-laemmchen-kinderzimmer-poster): Kinderzimmer-Poster Lämmchen für eine ruhige, warme Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T09:41:34Z
+- [Kinderzimmer-Poster Lämmchen – sanfte Wanddeko](https://minoki.de/products/kleines-laemmchen-kinderzimmer-poster): Das Kinderzimmer-Poster Lämmchen schenkt dem Raum Wärme und Ruhe. Eine liebevolle Geschenkidee zur Geburt oder Taufe – entdecke das Motiv.
+  Updated: 2026-10-14T21:41:40Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -964,8 +964,8 @@
   - [DIN A1](https://minoki.de/products/kleines-laemmchen-kinderzimmer-poster?variant=63529028157770)
     Availability: Available
     Price: 39,90 € EUR
-- [Löwenposter fürs Kinderzimmer – warmes Tiermotiv](https://minoki.de/products/neugieriges-loewenkind-kinderzimmer-poster): Löwenposter fürs Kinderzimmer in warmen Naturtönen. Eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das ruhige Tiermotiv.
-  Updated: 2026-10-14T09:41:35Z
+- [Kinderzimmer-Poster Löwe – Wärme für kleine Räume](https://minoki.de/products/neugieriges-loewenkind-kinderzimmer-poster): Das Kinderzimmer-Poster Löwe schafft eine sanfte Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das neugierige Löwenkind.
+  Updated: 2026-10-14T21:41:44Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -982,8 +982,8 @@
   - [DIN A1](https://minoki.de/products/neugieriges-loewenkind-kinderzimmer-poster?variant=63529029501258)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Koala – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-koala-kinderzimmer-poster): Das Kinderzimmer-Poster Koala schenkt Baby- und Kinderzimmern Ruhe und Wärme. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
-  Updated: 2026-10-14T09:41:35Z
+- [Kinderzimmer-Poster Koala – sanfte Deko zur Geburt](https://minoki.de/products/kleiner-koala-kinderzimmer-poster): Kinderzimmer-Poster Koala in sanften Naturtönen für eine geborgene Atmosphäre. Schön zur Geburt oder fürs erste eigene Zimmer – jetzt entdecken.
+  Updated: 2026-10-14T21:41:41Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1000,8 +1000,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-koala-kinderzimmer-poster?variant=63529029796170)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eule – ruhiges Motiv in Naturtönen](https://minoki.de/products/neugierige-eule-kinderzimmer-poster): Das Kinderzimmer-Poster Eule schafft mit warmen Naturtönen eine ruhige Atmosphäre – eine schöne Geschenkidee zur Geburt. Entdecke das Motiv.
-  Updated: 2026-10-14T09:41:36Z
+- [Kinderzimmer-Poster Eule – ruhige Wanddeko in Naturtönen](https://minoki.de/products/neugierige-eule-kinderzimmer-poster): Kinderzimmer-Poster Eule für eine ruhige, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer entdecken.
+  Updated: 2026-10-14T21:41:43Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1018,8 +1018,8 @@
   - [DIN A1](https://minoki.de/products/neugierige-eule-kinderzimmer-poster?variant=63529031008586)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Wal – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/sanfter-wal-kinderzimmer-poster): Kinderzimmer-Poster Wal in sanften Naturtönen: eine ruhige Wandidee fürs Babyzimmer und ein schönes Geschenk zur Geburt. Jetzt Lieblingsplatz gestalten.
-  Updated: 2026-10-14T08:39:25Z
+- [Kinderzimmer-Poster Wal – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/sanfter-wal-kinderzimmer-poster): Kinderzimmer-Poster Wal für eine ruhige, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das sanfte Meeresmotiv.
+  Updated: 2026-10-14T20:39:40Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1036,8 +1036,8 @@
   - [DIN A1](https://minoki.de/products/sanfter-wal-kinderzimmer-poster?variant=63529031172426)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Robbe – Ruhe fürs Babyzimmer](https://minoki.de/products/kleine-robbe-kinderzimmer-poster): Kinderzimmer-Poster Robbe in sanften Naturtönen für eine ruhige Atmosphäre. Als Geschenk zur Geburt oder fürs erste eigene Zimmer entdecken.
-  Updated: 2026-10-14T09:41:36Z
+- [Kinderzimmer-Poster Robbe – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/kleine-robbe-kinderzimmer-poster): Kinderzimmer-Poster Robbe für eine ruhige, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das sanfte Tiermotiv.
+  Updated: 2026-10-14T21:41:45Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1054,8 +1054,8 @@
   - [DIN A1](https://minoki.de/products/kleine-robbe-kinderzimmer-poster?variant=63529032581450)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Pinguin – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-pinguin-kinderzimmer-poster): Kinderzimmer-Poster Pinguin für eine ruhige, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer auswählen.
-  Updated: 2026-10-14T09:41:37Z
+- [Kinderzimmer-Poster Pinguin – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-pinguin-kinderzimmer-poster): Das Kinderzimmer-Poster Pinguin bringt Ruhe und Wärme ins Babyzimmer. Eine liebevolle Geschenkidee zur Geburt oder Taufe. Jetzt Motiv entdecken.
+  Updated: 2026-10-14T21:41:43Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1072,8 +1072,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-pinguin-kinderzimmer-poster?variant=63529033826634)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Rehkitz – sanfte Waldtier-Deko](https://minoki.de/products/kleines-rehkitz-kinderzimmer-poster): Das Kinderzimmer-Poster Rehkitz schenkt dem Raum eine ruhige Waldstimmung. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt entdecken.
-  Updated: 2026-10-14T09:41:38Z
+- [Kinderzimmer-Poster Rehkitz für eine geborgene Atmosphäre](https://minoki.de/products/kleines-rehkitz-kinderzimmer-poster): Kinderzimmer-Poster Rehkitz für Wärme und Geborgenheit. Eine schöne Geschenkidee zur Geburt, Taufe oder zum Geburtstag. Entdecke das Motiv.
+  Updated: 2026-10-14T21:41:46Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1090,8 +1090,8 @@
   - [DIN A1](https://minoki.de/products/kleines-rehkitz-kinderzimmer-poster?variant=63529033990474)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Elefant – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-elefant-mit-blume-kinderzimmer-poster-16036959584586): Kinderzimmer-Poster Elefant für eine ruhige, warme Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das sanfte Tiermotiv.
-  Updated: 2026-10-14T08:39:27Z
+- [Kinderzimmer-Poster Elefant – sanfte Wärme für kleine Räume](https://minoki.de/products/kleiner-elefant-mit-blume-kinderzimmer-poster-16036959584586): Das Kinderzimmer-Poster Elefant schafft eine ruhige Atmosphäre und ist eine liebevolle Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Motiv.
+  Updated: 2026-10-16T06:37:57Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1108,8 +1108,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-elefant-mit-blume-kinderzimmer-poster-16036959584586?variant=63529034187082)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Bär – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-baer-mit-gaensebluemchen-kinderzimmer-poster): Das Kinderzimmer-Poster Bär schafft eine ruhige Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Tiermotiv.
-  Updated: 2026-10-14T09:41:38Z
+- [Kinderzimmer-Poster Bär – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleiner-baer-mit-gaensebluemchen-kinderzimmer-poster): Kinderzimmer-Poster Bär in sanften Naturtönen für eine geborgene Atmosphäre. Als Geschenk zur Geburt oder Taufe auswählen und Freude schenken.
+  Updated: 2026-10-14T21:41:46Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1126,8 +1126,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-baer-mit-gaensebluemchen-kinderzimmer-poster?variant=63529035366730)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Fuchs – Wärme fürs Babyzimmer](https://minoki.de/products/neugieriger-fuchs-kinderzimmer-poster): Kinderzimmer-Poster Fuchs für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke den neugierigen Waldbewohner.
-  Updated: 2026-10-14T09:41:37Z
+- [Kinderzimmer-Poster Fuchs – Wärme fürs erste eigene Zimmer](https://minoki.de/products/neugieriger-fuchs-kinderzimmer-poster): Kinderzimmer-Poster Fuchs für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das Motiv fürs erste Zimmer.
+  Updated: 2026-10-14T21:41:50Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1144,8 +1144,8 @@
   - [DIN A1](https://minoki.de/products/neugieriger-fuchs-kinderzimmer-poster?variant=63529035530570)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Dino – Naturtöne fürs Babyzimmer](https://minoki.de/products/kleiner-dino-im-gruenen-kinderzimmer-poster): Das Kinderzimmer-Poster Dino schafft eine ruhige Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Naturmotiv.
-  Updated: 2026-10-14T09:41:39Z
+- [Kinderzimmer-Poster Dinosaurier – sanfte Naturtöne](https://minoki.de/products/kleiner-dino-im-gruenen-kinderzimmer-poster): Das Kinderzimmer-Poster Dinosaurier schafft eine warme Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke den kleinen Dino.
+  Updated: 2026-10-14T21:41:50Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1162,8 +1162,8 @@
   - [DIN A1](https://minoki.de/products/kleiner-dino-im-gruenen-kinderzimmer-poster?variant=63529035661642)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eichhörnchen – Wärme für kleine Räume](https://minoki.de/products/kleines-eichhoernchen-mit-eichel-kinderzimmer-poster): Kinderzimmer-Poster Eichhörnchen für eine warme, natürliche Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt Lieblingsplatz gestalten.
-  Updated: 2026-10-14T09:41:39Z
+- [Kinderzimmer-Poster Eichhörnchen für warme Waldmomente](https://minoki.de/products/kleines-eichhoernchen-mit-eichel-kinderzimmer-poster): Kinderzimmer-Poster Eichhörnchen in warmen Naturtönen – eine liebevolle Geschenkidee zur Geburt oder Taufe. Schenke dem Kinderzimmer Geborgenheit.
+  Updated: 2026-10-14T21:41:46Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1180,8 +1180,8 @@
   - [DIN A1](https://minoki.de/products/kleines-eichhoernchen-mit-eichel-kinderzimmer-poster?variant=63529035891018)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Füchse für eine geborgene Atmosphäre](https://minoki.de/products/kuschelige-fuechse-kinderzimmer-poster): Kinderzimmer-Poster Füchse für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt, Taufe oder zum ersten Geburtstag. Jetzt entdecken.
-  Updated: 2026-10-14T08:39:27Z
+- [Kinderzimmer-Poster Füchse – Geborgenheit für kleine Räume](https://minoki.de/products/kuschelige-fuechse-kinderzimmer-poster): Kinderzimmer-Poster Füchse schenkt dem Raum Ruhe und Geborgenheit. Eine liebevolle Geschenkidee zur Geburt oder Taufe – entdecke das Motiv.
+  Updated: 2026-10-14T20:39:40Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1198,8 +1198,8 @@
   - [DIN A1](https://minoki.de/products/kuschelige-fuechse-kinderzimmer-poster?variant=63529039790410)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eule – sanfte Ruhe fürs Babyzimmer](https://minoki.de/products/schlafende-eule-im-mond-kinderzimmer-poster): Das Kinderzimmer-Poster Eule schafft eine geborgene Stimmung und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Nachtmotiv.
-  Updated: 2026-10-14T09:41:42Z
+- [Kinderzimmer-Poster Eule – sanfte Ruhe zum Einschlafen](https://minoki.de/products/schlafende-eule-im-mond-kinderzimmer-poster): Das Kinderzimmer-Poster Eule bringt Wärme und Ruhe ins Babyzimmer. Eine liebevolle Geschenkidee zur Geburt oder Taufe – entdecke das Mondmotiv.
+  Updated: 2026-10-14T21:41:48Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1216,8 +1216,8 @@
   - [DIN A1](https://minoki.de/products/schlafende-eule-im-mond-kinderzimmer-poster?variant=63529040511306)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Segelboot für maritime Geborgenheit](https://minoki.de/products/moewe-auf-segelfahrt-kinderzimmer-poster): Das Kinderzimmer-Poster Segelboot bringt ruhige Küstenstimmung ins Babyzimmer. Eine schöne Geschenkidee zur Geburt oder Taufe. Jetzt Motiv entdecken.
-  Updated: 2026-10-14T09:41:40Z
+- [Kinderzimmer-Poster Segelboot – maritime Ruhe für kleine Räume](https://minoki.de/products/moewe-auf-segelfahrt-kinderzimmer-poster): Kinderzimmer-Poster Segelboot in sanften Aquarellfarben, ideal zur Geburt oder Taufe. Entdecke das maritime Motiv für Baby- und Kinderzimmer.
+  Updated: 2026-10-14T21:41:54Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1234,8 +1234,8 @@
   - [DIN A1](https://minoki.de/products/moewe-auf-segelfahrt-kinderzimmer-poster?variant=63529041002826)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Heißluftballon für kleine Träumer](https://minoki.de/products/froehliche-ballonfahrt-kinderzimmer-poster): Kinderzimmer-Poster Heißluftballon für eine heitere, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe. Jetzt Motiv entdecken.
-  Updated: 2026-10-14T09:41:40Z
+- [Kinderzimmer-Poster Heißluftballon für kleine Träumer](https://minoki.de/products/froehliche-ballonfahrt-kinderzimmer-poster): Das Kinderzimmer-Poster Heißluftballon schenkt dem Raum ruhige Leichtigkeit. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das sanfte Motiv.
+  Updated: 2026-10-14T21:41:47Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1252,8 +1252,8 @@
   - [DIN A1](https://minoki.de/products/froehliche-ballonfahrt-kinderzimmer-poster?variant=63529041133898)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Rehkitz – sanfte Waldstimmung](https://minoki.de/products/kleines-rehkitz-auf-blumenwiese-kinderzimmer-poster): Das Kinderzimmer-Poster Rehkitz schafft eine ruhige, warme Atmosphäre und ist eine schöne Geschenkidee zur Geburt. Entdecke das Aquarellmotiv.
-  Updated: 2026-10-14T08:39:19Z
+- [Kinderzimmer-Poster Rehkitz – sanfte Waldtier-Deko](https://minoki.de/products/kleines-rehkitz-auf-blumenwiese-kinderzimmer-poster): Kinderzimmer-Poster Rehkitz für eine ruhige, natürliche Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – entdecke das sanfte Aquarellmotiv.
+  Updated: 2026-10-14T20:39:30Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1270,8 +1270,8 @@
   - [DIN A1](https://minoki.de/products/kleines-rehkitz-auf-blumenwiese-kinderzimmer-poster?variant=63529042477386)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Dinosaurier | Sanfte Deko für kleine Fans](https://minoki.de/products/freundlicher-langhals-kinderzimmer-poster): Das Kinderzimmer-Poster Dinosaurier schenkt dem Raum eine ruhige Atmosphäre. Eine liebevolle Geschenkidee zur Geburt oder zum Geburtstag. Jetzt entdecken.
-  Updated: 2026-10-14T09:41:41Z
+- [Kinderzimmer-Poster Dinosaurier | Sanfte Deko fürs Kinderzimmer](https://minoki.de/products/freundlicher-langhals-kinderzimmer-poster): Das Kinderzimmer-Poster Dinosaurier bringt sanfte Farben und Entdeckerfreude an die Wand. Eine schöne Geschenkidee zur Geburt, Taufe oder zum Geburtstag.
+  Updated: 2026-10-14T21:41:47Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1288,8 +1288,8 @@
   - [DIN A1](https://minoki.de/products/freundlicher-langhals-kinderzimmer-poster?variant=63529044017482)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Schnecke – sanfte Deko fürs Babyzimmer](https://minoki.de/products/kleine-schnecke-auf-blumenwiese-kinderzimmer-poster): Kinderzimmer-Poster Schnecke für eine ruhige, warme Wandgestaltung. Eine liebevolle Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer wählen.
-  Updated: 2026-10-14T09:41:41Z
+- [Kinderzimmer-Poster Schnecke – sanfte Deko fürs Kinderzimmer](https://minoki.de/products/kleine-schnecke-auf-blumenwiese-kinderzimmer-poster): Das Kinderzimmer-Poster Schnecke schafft eine ruhige Atmosphäre und ist eine schöne Geschenkidee zur Geburt oder Taufe. Entdecke das sanfte Wiesenmotiv.
+  Updated: 2026-10-14T21:41:47Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1306,8 +1306,8 @@
   - [DIN A1](https://minoki.de/products/kleine-schnecke-auf-blumenwiese-kinderzimmer-poster?variant=63529044377930)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Wiesenblumen für eine ruhige Atmosphäre](https://minoki.de/products/stiefel-voller-wiesenblumen-kinderzimmer-poster): Kinderzimmer-Poster Wiesenblumen für eine warme, ruhige Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T08:38:52Z
+- [Kinderzimmer-Poster Wiesenblumen für sanfte Naturmomente](https://minoki.de/products/stiefel-voller-wiesenblumen-kinderzimmer-poster): Das Kinderzimmer-Poster Wiesenblumen bringt sanfte Naturfarben ins Babyzimmer. Eine schöne Geschenkidee zur Geburt – jetzt Motiv entdecken.
+  Updated: 2026-10-14T20:39:13Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1324,8 +1324,8 @@
   - [DIN A1](https://minoki.de/products/stiefel-voller-wiesenblumen-kinderzimmer-poster?variant=63628806717770)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Eisenbahn – ruhige Pflanzenreise](https://minoki.de/products/kleine-pflanzenreise-kinderzimmer-poster): Kinderzimmer-Poster Eisenbahn für eine ruhige, geborgene Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Babyzimmer entdecken.
-  Updated: 2026-10-14T09:41:32Z
+- [Kinderzimmer-Poster Eisenbahn – ruhige Deko fürs Babyzimmer](https://minoki.de/products/kleine-pflanzenreise-kinderzimmer-poster): Kinderzimmer-Poster Eisenbahn für eine ruhige, warme Atmosphäre. Eine schöne Geschenkidee zur Geburt oder Taufe – jetzt fürs Kinderzimmer auswählen.
+  Updated: 2026-10-14T21:41:42Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1342,8 +1342,8 @@
   - [DIN A1](https://minoki.de/products/kleine-pflanzenreise-kinderzimmer-poster?variant=63792757866826)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Schwan – Nähe und Geborgenheit](https://minoki.de/products/schwan-mit-kueken-kinderzimmer-poster): Das Kinderzimmer-Poster Schwan bringt Ruhe und Nähe ins Babyzimmer. Ein liebevolles Geschenk zur Geburt oder Taufe. Entdecke das sanfte Aquarellmotiv.
-  Updated: 2026-10-14T09:41:32Z
+- [Kinderzimmer-Poster Schwan – Nähe und Geborgenheit](https://minoki.de/products/schwan-mit-kueken-kinderzimmer-poster): Das Kinderzimmer-Poster Schwan bringt Ruhe und Geborgenheit ins Zimmer. Ein liebevolles Geschenk zur Geburt – entdecke das sanfte Aquarellmotiv.
+  Updated: 2026-10-14T21:41:38Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1360,8 +1360,8 @@
   - [DIN A1](https://minoki.de/products/schwan-mit-kueken-kinderzimmer-poster?variant=63901692166474)
     Availability: Available
     Price: 39,90 € EUR
-- [Kinderzimmer-Poster Rakete – Raum für kleine Weltraumträume](https://minoki.de/products/rakete-zwischen-planeten-kinderzimmer-poster): Das Kinderzimmer-Poster Rakete bringt sanfte Weltraumstimmung ins Zimmer. Ein Geschenk zur Geburt oder Taufe – entdecke das Motiv für kleine Träumer.
-  Updated: 2026-10-14T08:39:24Z
+- [Kinderzimmer-Poster Rakete – für kleine Weltraumträume](https://minoki.de/products/rakete-zwischen-planeten-kinderzimmer-poster): Kinderzimmer-Poster Rakete für ruhige Räume und große Träume. Ein Geschenk zur Geburt oder zum ersten Geburtstag. Entdecke das Weltraummotiv.
+  Updated: 2026-10-14T20:39:38Z
   Vendor: minoki
   Product Type: Poster
   Availability: Available
@@ -1378,8 +1378,8 @@
   - [DIN A1](https://minoki.de/products/rakete-zwischen-planeten-kinderzimmer-poster?variant=63901977542986)
     Availability: Available
     Price: 39,90 € EUR
-- [Geburtsposter Bär mit Luftballons – Erinnerung an die Geburt](https://minoki.de/products/geburtsposter-baer-luftballons-personalisiert): Das personalisierte Geburtsposter Bär bringt sanfte Wärme ins Babyzimmer. Ein bleibendes Geschenk zur Geburt – halte den ersten Tag deines Kindes fest.
-  Updated: 2026-10-14T03:01:42Z
+- [Geburtsposter Bär mit Luftballons – persönliches Geburtsgeschenk](https://minoki.de/products/geburtsposter-baer-luftballons-personalisiert): Geburtsposter Bär mit Luftballons: Wärme fürs Babyzimmer und eine Erinnerung zur Geburt. Gestalte dein Andenken mit Name und Geburtsdaten.
+  Updated: 2026-10-14T22:59:08Z
   Vendor: minoki
   Product Type: Personalisiertes Geburtsposter
   Availability: Available
@@ -1396,8 +1396,8 @@
   - [DIN A1](https://minoki.de/products/geburtsposter-baer-luftballons-personalisiert?variant=63903645204810)
     Availability: Available
     Price: 49,99 € EUR
-- [Kinderzimmer-Poster Bär im Weltall – für kleine Träumer](https://minoki.de/products/baer-im-weltall-kinderzimmer-poster): Kinderzimmer-Poster Bär im Weltall bringt Ruhe und Entdeckerfreude ins Zimmer. Ein Geschenk zur Geburt oder Taufe. Entdecke den kleinen Astronauten.
-  Updated: 2026-10-14T09:59:38Z
+- [Kinderzimmer-Poster Bär im Weltall – für kleine Entdecker](https://minoki.de/products/baer-im-weltall-kinderzimmer-poster): Kinderzimmer-Poster Bär im Weltall: sanfte Aquarelltöne für dein Babyzimmer. Ein Geschenk zur Geburt, das Fantasie weckt. Jetzt entdecken.
+  Updated: 2026-10-14T20:34:27Z
   Vendor: minoki
   Product Type: Kinderzimmer-Poster
   Availability: Available
@@ -1414,50 +1414,284 @@
   - [DIN A1](https://minoki.de/products/baer-im-weltall-kinderzimmer-poster?variant=63909273141578)
     Availability: Available
     Price: 39,90 € EUR
+- [Kinderzimmer-Poster Langhals-Dino – Geschenk zur Geburt](https://minoki.de/products/langhals-dino-im-gruenen-kinderzimmer-poster): Kinderzimmer-Poster Langhals-Dino in sanftem Grün für eine ruhige Atmosphäre. Ein liebevolles Geschenk zur Geburt. Entdecke das Motiv für dein Kind.
+  Updated: 2026-10-14T11:30:30Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-langhals-dino-im-gruenen-kinderzimmer-poster-16105155756362-rahmen-titelbild.jpg?v=1791976069
+  - [DIN A3](https://minoki.de/products/langhals-dino-im-gruenen-kinderzimmer-poster?variant=63910306316618)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/langhals-dino-im-gruenen-kinderzimmer-poster?variant=63910306349386)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/langhals-dino-im-gruenen-kinderzimmer-poster?variant=63910306382154)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/langhals-dino-im-gruenen-kinderzimmer-poster?variant=63910306414922)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Dino – sanftes Motiv zur Geburt](https://minoki.de/products/dino-auf-der-blumenwiese-kinderzimmer-poster): Kinderzimmer-Poster Dino bringt Wärme und Fantasie ins Zimmer. Ein liebevolles Geschenk zur Geburt oder Taufe. Entdecke den Dino auf der Blumenwiese.
+  Updated: 2026-10-14T12:38:32Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-dino-auf-der-blumenwiese-kinderzimmer-poster-16105478422858-rahmen-titelbild.jpg?v=1791979402
+  - [DIN A3](https://minoki.de/products/dino-auf-der-blumenwiese-kinderzimmer-poster?variant=63911266255178)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/dino-auf-der-blumenwiese-kinderzimmer-poster?variant=63911266287946)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/dino-auf-der-blumenwiese-kinderzimmer-poster?variant=63911266320714)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/dino-auf-der-blumenwiese-kinderzimmer-poster?variant=63911266353482)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Dino-Duo – Nähe fürs erste eigene Zimmer](https://minoki.de/products/dino-duo-kinderzimmer-poster): Das Kinderzimmer-Poster Dino-Duo bringt Ruhe und Nähe ins Zimmer. Ein Geschenk zur Geburt oder Taufe – entdecke die beiden Langhals-Dinosaurier.
+  Updated: 2026-10-14T14:13:51Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-dino-duo-kinderzimmer-poster-16106379542858-rahmen-titelbild.jpg?v=1791985743
+  - [DIN A3](https://minoki.de/products/dino-duo-kinderzimmer-poster?variant=63912677638474)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/dino-duo-kinderzimmer-poster?variant=63912677671242)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/dino-duo-kinderzimmer-poster?variant=63912677704010)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/dino-duo-kinderzimmer-poster?variant=63912677736778)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Dino – sanftes Motiv zur Geburt](https://minoki.de/products/dino-mit-schmetterling-kinderzimmer-poster): Kinderzimmer-Poster Dino für eine ruhige, freundliche Atmosphäre. Ein liebevolles Geschenk zur Geburt oder Taufe. Entdecke das Motiv mit Schmetterling.
+  Updated: 2026-10-14T14:35:31Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-dino-mit-schmetterling-kinderzimmer-poster-16106759553354-rahmen-titelbild.jpg?v=1791987431
+  - [DIN A3](https://minoki.de/products/dino-mit-schmetterling-kinderzimmer-poster?variant=63913216704842)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/dino-mit-schmetterling-kinderzimmer-poster?variant=63913216737610)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/dino-mit-schmetterling-kinderzimmer-poster?variant=63913216770378)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/dino-mit-schmetterling-kinderzimmer-poster?variant=63913216803146)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Dino im Ei – Geschenk für kleine Anfänge](https://minoki.de/products/kleiner-dino-im-ei-kinderzimmer-poster): Das Kinderzimmer-Poster Dino im Ei bringt Ruhe und Wärme ins Zimmer. Als Geschenk zur Geburt oder Taufe: Entdecke den kleinen Begleiter.
+  Updated: 2026-10-14T14:40:32Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-kleiner-dino-im-ei-kinderzimmer-poster-16106770170186-rahmen-titelbild.jpg?v=1791987754
+  - [DIN A3](https://minoki.de/products/kleiner-dino-im-ei-kinderzimmer-poster?variant=63913251864906)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/kleiner-dino-im-ei-kinderzimmer-poster?variant=63913251897674)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/kleiner-dino-im-ei-kinderzimmer-poster?variant=63913251930442)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/kleiner-dino-im-ei-kinderzimmer-poster?variant=63913251963210)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Bär und Bienen – Geschenk zur Geburt](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster): Das Kinderzimmer-Poster Bär und Bienen bringt sanfte Wiesenstimmung ins Zimmer. Als Geschenk zur Geburt: Entdecke das warme Aquarellmotiv.
+  Updated: 2026-10-15T08:14:05Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-kleiner-baer-und-bienen-kinderzimmer-poster-16106796974410-rahmen-titelbild.jpg?v=1791988193
+  - [DIN A3](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster?variant=63913339552074)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster?variant=63913339584842)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster?variant=63913339617610)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster?variant=63913339650378)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Astronaut – für kleine Weltraumträumer](https://minoki.de/products/kleiner-astronaut-zwischen-sternen-kinderzimmer-poster): Das Kinderzimmer-Poster Astronaut bringt Ruhe und Fantasie ins Zimmer. Ein Geschenk zur Geburt oder Taufe. Entdecke das sanfte Weltraummotiv.
+  Updated: 2026-10-15T08:11:13Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-kleiner-astronaut-zwischen-sternen-kinderzimmer-poster-16106799595850-rahmen-titelbild.jpg?v=1791988289
+  - [DIN A3](https://minoki.de/products/kleiner-astronaut-zwischen-sternen-kinderzimmer-poster?variant=63913346269514)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/kleiner-astronaut-zwischen-sternen-kinderzimmer-poster?variant=63913346302282)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/kleiner-astronaut-zwischen-sternen-kinderzimmer-poster?variant=63913346335050)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/kleiner-astronaut-zwischen-sternen-kinderzimmer-poster?variant=63913346367818)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Bär im Weltall – für kleine Träumer](https://minoki.de/products/kleiner-baer-im-weltall-kinderzimmer-poster): Kinderzimmer-Poster Bär im Weltall bringt Wärme und Entdeckerfreude ins Zimmer. Ein liebevolles Geschenk zur Geburt – entdecke das Motiv.
+  Updated: 2026-10-15T08:10:55Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-kleiner-baer-im-weltall-kinderzimmer-poster-16106804379978-rahmen-titelbild.jpg?v=1791988530
+  - [DIN A3](https://minoki.de/products/kleiner-baer-im-weltall-kinderzimmer-poster?variant=63913358688586)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/kleiner-baer-im-weltall-kinderzimmer-poster?variant=63913358721354)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/kleiner-baer-im-weltall-kinderzimmer-poster?variant=63913358754122)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/kleiner-baer-im-weltall-kinderzimmer-poster?variant=63913358786890)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Bär und Bienen – Geschenk zur Geburt](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354): Kinderzimmer-Poster Bär und Bienen für eine warme, ruhige Atmosphäre. Ein liebevolles Geschenk zur Geburt oder Taufe. Entdecke das Motiv.
+  Updated: 2026-10-15T20:08:31Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354-rahmen-titelbild.jpg?v=1791988531
+  - [DIN A3](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354?variant=63913359147338)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354?variant=63913359180106)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354?variant=63913359212874)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/kleiner-baer-und-bienen-kinderzimmer-poster-16106804609354?variant=63913359245642)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Igel und Bienen – Geschenk zur Geburt](https://minoki.de/products/igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster): Kinderzimmer-Poster Igel und Bienen bringt sanfte Natur ins Zimmer. Ein liebevolles Geschenk zur Geburt oder Taufe. Entdecke deinen kleinen Wiesenmoment.
+  Updated: 2026-10-15T08:15:22Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster-16106804740426-rahmen-titelbild.jpg?v=1791988533
+  - [DIN A3](https://minoki.de/products/igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster?variant=63913359507786)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster?variant=63913359540554)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster?variant=63913359573322)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/igel-und-bienen-auf-der-blumenwiese-kinderzimmer-poster?variant=63913359606090)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Geburtsposter Otter – persönliche Erinnerung zur Geburt](https://minoki.de/products/geburtsposter-otter-mit-schlafendem-jungtier-personalisiert): Das Geburtsposter Otter bringt Ruhe ins Babyzimmer. Mit Name und Geburtsdaten als Geschenk zur Geburt: Gestalte dein persönliches Andenken.
+  Updated: 2026-10-16T01:43:23Z
+  Vendor: minoki
+  Product Type: Personalisiertes Geburtsposter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-geburtsposter-otter-mit-schlafendem-jungtier-personalisiert-16110424129866-rahmen-titelbild-f6cd7e30.jpg?v=1792071789
+  - [DIN A3](https://minoki.de/products/geburtsposter-otter-mit-schlafendem-jungtier-personalisiert?variant=63934854496586)
+    Availability: Available
+    Price: 29,99 € EUR
+  - [DIN A4](https://minoki.de/products/geburtsposter-otter-mit-schlafendem-jungtier-personalisiert?variant=63934854529354)
+    Availability: Available
+    Price: 24,99 € EUR
+  - [DIN A2](https://minoki.de/products/geburtsposter-otter-mit-schlafendem-jungtier-personalisiert?variant=63934854562122)
+    Availability: Available
+    Price: 39,99 € EUR
+  - [DIN A1](https://minoki.de/products/geburtsposter-otter-mit-schlafendem-jungtier-personalisiert?variant=63934854594890)
+    Availability: Available
+    Price: 49,99 € EUR
+- [Kinderzimmer-Poster Meeresschildkröten – Geborgenheit schenken](https://minoki.de/products/meeresschildkroeten-im-seegras-kinderzimmer-poster): Kinderzimmer-Poster Meeresschildkröten bringt Ruhe ins Babyzimmer. Ein sanftes Geschenk zur Geburt oder Taufe. Entdecke das Aquarellmotiv.
+  Updated: 2026-10-15T14:00:21Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-meeresschildkroeten-im-seegras-kinderzimmer-poster-16110495433034-rahmen-titelbild.jpg?v=1792056805
+  - [DIN A3](https://minoki.de/products/meeresschildkroeten-im-seegras-kinderzimmer-poster?variant=63935070667082)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/meeresschildkroeten-im-seegras-kinderzimmer-poster?variant=63935070699850)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/meeresschildkroeten-im-seegras-kinderzimmer-poster?variant=63935070732618)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/meeresschildkroeten-im-seegras-kinderzimmer-poster?variant=63935070765386)
+    Availability: Available
+    Price: 39,90 € EUR
+- [Kinderzimmer-Poster Bär – Geborgenheit mit blauem Luftballon](https://minoki.de/products/baer-mit-blauem-luftballon-kinderzimmer-poster): Das Kinderzimmer-Poster Bär bringt sanfte Farben und Geborgenheit ins Babyzimmer. Ein liebevolles Geschenk zur Geburt. Jetzt deinen Lieblingsplatz gestalten.
+  Updated: 2026-10-15T14:21:01Z
+  Vendor: minoki
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1017/3720/1994/files/minoki-baer-mit-blauem-luftballon-kinderzimmer-poster-16111033712970-rahmen-titelbild.jpg?v=1792073569
+  - [DIN A3](https://minoki.de/products/baer-mit-blauem-luftballon-kinderzimmer-poster?variant=63937873609034)
+    Availability: Available
+    Price: 21,90 € EUR
+  - [DIN A4](https://minoki.de/products/baer-mit-blauem-luftballon-kinderzimmer-poster?variant=63937873641802)
+    Availability: Available
+    Price: 16,90 € EUR
+  - [DIN A2](https://minoki.de/products/baer-mit-blauem-luftballon-kinderzimmer-poster?variant=63937873674570)
+    Availability: Available
+    Price: 29,90 € EUR
+  - [DIN A1](https://minoki.de/products/baer-mit-blauem-luftballon-kinderzimmer-poster?variant=63937873707338)
+    Availability: Available
+    Price: 39,90 € EUR
 
 ## Collections
 
 - [Startseite](https://minoki.de/collections/frontpage): Liebevolle Kinderzimmer Poster und Babyzimmer Bilder mit sanften Tiermotiven. Entdecke Waldtiere, Safari Tiere und Bauernhof Poster in A4 bis A1 – modern, ruhig und kindgerecht.
-  Updated: 2026-10-14T08:36:38Z
-  Total Products: 79
+  Updated: 2026-10-15T18:37:53Z
+  Total Products: 92
 - [Tiere](https://minoki.de/collections/tiere): Liebevolle Tierposter fürs Kinderzimmer und Babyzimmer: Waldtiere, Safari- und Bauernhoftiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-10-13T12:47:04Z
+  Updated: 2026-10-15T18:37:53Z
   Total Products: 59
 - [Sommer](https://minoki.de/collections/sommer)
-  Updated: 2026-09-22T11:32:55Z
+  Updated: 2026-10-15T15:46:45Z
   Total Products: 2
 - [Sprüche](https://minoki.de/collections/sprueche)
-  Updated: 2026-09-14T13:53:28Z
+  Updated: 2026-10-15T15:46:45Z
   Total Products: 1
 - [Waldtiere Poster fürs Kinderzimmer](https://minoki.de/collections/waldtiere-kinderzimmer-poster): Liebevolle Waldtiere Poster fürs Kinderzimmer und Babyzimmer: Fuchs, Reh, Bär, Hase & weitere Motive in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-10-13T07:52:26Z
-  Total Products: 33
-- [Safari Poster für das Kinderzimmer](https://minoki.de/collections/safari-kinderzimmer-poster): Liebevolle Safari Poster fürs Kinderzimmer und Babyzimmer: Elefant, Löwe, Zebra, Nilpferd & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
-  Updated: 2026-10-05T11:29:12Z
+  Updated: 2026-10-15T14:14:36Z
+  Total Products: 37
+- [Safari Poster für das Kinderzimmer](https://minoki.de/collections/safari-kinderzimmer-poster): Safari Poster fürs Kinderzimmer: Elefant, Giraffe, Löwe, Zebra und mehr in sanftem Aquarell. Eigenes Set kombinieren, vier DIN-Größen ab 16,90 €.
+  Updated: 2026-10-15T18:50:32Z
   Total Products: 13
 - [Bauernhof Poster für das Kinderzimmer](https://minoki.de/collections/bauernhof-kinderzimmer-poster): Liebevolle Bauernhof Poster fürs Kinderzimmer und Babyzimmer: Kuh, Schaf, Ziege, Ente & weitere Tiere in sanften Farben. Als Einzelposter oder Poster-Set in A4 bis A1.
   Updated: 2026-10-13T12:47:04Z
   Total Products: 11
 - [Meer & Küste](https://minoki.de/collections/meer-kuste): Maritime Kinderzimmer Poster mit Segelbooten, Leuchtturm, Wal und Robbe in sanften Blau- und Sandtönen. Einzeln oder kombiniert, in A4 bis A1.
-  Updated: 2026-10-13T10:08:13Z
-  Total Products: 12
+  Updated: 2026-10-15T15:46:45Z
+  Total Products: 13
 - [Himmel & Weltraum](https://minoki.de/collections/himmel-weltraum)
-  Updated: 2026-10-14T08:45:30Z
-  Total Products: 4
+  Updated: 2026-10-15T16:00:43Z
+  Total Products: 6
 - [Dinosaurier](https://minoki.de/collections/dinosaurier): Dino Poster fürs Kinderzimmer: freundliche Dinosaurier wie der Langhals in sanften Grün- und Beigetönen. Ruhige Dino Bilder in A4 bis A1.
-  Updated: 2026-09-14T07:35:19Z
-  Total Products: 2
+  Updated: 2026-10-15T17:36:53Z
+  Total Products: 7
 - [Fahrzeuge](https://minoki.de/collections/fahrzeuge)
-  Updated: 2026-10-13T19:11:21Z
+  Updated: 2026-10-15T15:46:45Z
   Total Products: 1
 - [Neu im Shop](https://minoki.de/collections/neu-im-shop): Frisch illustriert: unsere neuesten Kinderzimmer Poster, immer automatisch nach Erscheinungsdatum sortiert.
-  Updated: 2026-10-14T08:36:38Z
-  Total Products: 79
+  Updated: 2026-10-15T18:37:53Z
+  Total Products: 92
 - [Babyzimmer Poster & Bilder](https://minoki.de/collections/babyzimmer-poster): Babyzimmer Poster und Bilder in ruhigen Naturtönen: Waldtiere, Safari, Meer und Mondmotive im Aquarellstil. Als Einzelposter oder Set, A4 bis A1.
-  Updated: 2026-10-14T08:36:38Z
+  Updated: 2026-10-15T18:37:53Z
   Total Products: 35
 - [Heißluftballon Poster](https://minoki.de/collections/heissluftballon-kinderzimmer-poster): Heißluftballon Poster fürs Kinderzimmer: Fuchs, Bär und Igel auf Ballonfahrt über Wolken und Wiesen, gemalt in sanften Aquarellfarben. A4 bis A1.
-  Updated: 2026-10-13T12:47:31Z
+  Updated: 2026-10-15T15:46:45Z
   Total Products: 4
 
 ## Store Pages
@@ -1472,13 +1706,13 @@
 ## Policies
 
 - [Privacy Policy](https://minoki.de/policies/privacy-policy)
-  Updated: 2026-02-21T10:33:48+01:00
+  Updated: 2026-02-21T09:33:48Z
 - [Refund Policy](https://minoki.de/policies/refund-policy)
-  Updated: 2026-03-24T09:27:20+01:00
+  Updated: 2026-03-24T08:27:20Z
 - [Terms of Service](https://minoki.de/policies/terms-of-service)
-  Updated: 2026-02-21T13:55:30+01:00
+  Updated: 2026-02-21T12:55:30Z
 - [Contact Information](https://minoki.de/policies/contact-information)
-  Updated: 2026-02-21T13:58:03+01:00
+  Updated: 2026-02-21T12:58:03Z
 
 ## Optional
 
