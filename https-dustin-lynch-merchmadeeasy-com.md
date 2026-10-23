@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2021-07-21T21:37:44Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-07T00:00:43.989Z
+- Updated At: 2026-10-23T00:49:33.873Z
 
 ## Products
 
 - [Ladies Sunset Tank - White](https://dustin-lynch.merchmadeeasy.com/products/ladies-logo-tank): 65% poly, 35% viscose Slouchy fit White
-  Updated: 2026-10-05T13:02:01Z
+  Updated: 2026-10-10T23:23:16Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -32,33 +32,12 @@
     Availability: Not Available
     Price: $10.00 USD
 - [Tullahoma CD](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-cd): Tracklist: Momma's House Dirt Road Thinking 'Bout You (featuring Lauren Alaina) Ridin' Roads Old Country Song The World Ain't Yours and Mine Country Star Workin' On You Little Town Livin Red Dirt, Blue Eyes Good Girl
-  Updated: 2026-10-05T13:02:01Z
+  Updated: 2026-10-07T01:38:59Z
   Vendor: Dustin Lynch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLTULLAHOMACD.png?v=1788384401
   Price: $10.99 USD
-- [Tullahoma Photo Tee](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee): Black Unisex
-  Updated: 2026-10-05T13:02:02Z
-  Vendor: Dustin Lynch
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DL2024TOURTEE-3.png?v=1788541726
-  - [S](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee?variant=40568759451839)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [M](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee?variant=40568759484607)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [L](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee?variant=40568759517375)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [XL](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee?variant=40568759550143)
-    Availability: Not Available
-    Price: $10.00 USD
-  - [2XL](https://dustin-lynch.merchmadeeasy.com/products/tullahoma-photo-tee?variant=40568759582911)
-    Availability: Available
-    Price: $10.00 USD
 - [Drinkin' Bout You Tie Dye Tee](https://dustin-lynch.merchmadeeasy.com/products/drinkin-bout-you-tie-dye-tee): Each tie dye tee is unique in color 50/50 combed ringspun cotton/polyester jersey
   Updated: 2026-10-05T13:02:03Z
   Vendor: Dustin Lynch
@@ -122,13 +101,6 @@
   - [2XL](https://dustin-lynch.merchmadeeasy.com/products/tequila-on-a-boat-tee-pre-order?variant=40884681867455)
     Availability: Available
     Price: $35.00 USD
-- [Blue In The Sky CD](https://dustin-lynch.merchmadeeasy.com/products/blue-in-the-sky-cd): Track Listing Party Mode Thinking ‘Bout You (feat. MacKenzie Porter) Stars Like Confetti Somethin’ That Makes You Smile Break It On A Beach Tequila On A Boat (feat. Chris Lane) Tennessee Trouble Summer Never Ended Back Road TN Huntin’ Land (feat. Riley Green) Pasadena Not Every Cowboy Produced by Zach Crowell
-  Updated: 2026-10-05T13:02:05Z
-  Vendor: Dustin Lynch
-  Product Type: Music CDs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLBLUEINTHESKYCD.png?v=1788384545
-  Price: $7.98 USD
 - [Party Mode Long Sleeve](https://dustin-lynch.merchmadeeasy.com/products/party-mode-long-sleeve): Natural crewneck, long sleeve with 'Dustin Lynch Party Mode' printed on the front chest in blue ink. Available in sizes S-2XL Unisex fit
   Updated: 2026-10-05T13:02:06Z
   Vendor: Dustin Lynch
@@ -253,14 +225,14 @@
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLTOURKOOZIE.png?v=1788385320
   Price: $5.00 USD
 - [Killed The Cowboy CD](https://dustin-lynch.merchmadeeasy.com/products/killed-the-cowboy-cd): Release Date: September 29, 2023 Tracklist: Killed The Cowboy Honky Tonk Heartbreaker George Straight Jr. Chevrolet (feat. Jelly Roll) If I Stop Drinkin' Only Girl In This Town Breakin' Up Down Trouble With This Truck Blue Lights Lone Star Listen To The Radio Long Way Home
-  Updated: 2026-10-05T13:02:12Z
+  Updated: 2026-10-16T15:47:23Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLKTCCD.png?v=1788384460
   Price: $14.98 USD
 - [Live On Tour 2024 Tee](https://dustin-lynch.merchmadeeasy.com/products/live-on-tour-2024-tee): Dustin Lynch's 2024 Live on Tour Official Tee featuring photo print on front and dates printed on back. Made of 100% airlume combed and ring-spun cotton.Unisex fit Size Body Length (in) Chest Width (Laid Flat) Neck Size (in) S 28 18 6 1/2 M 29 20 6 3/4 L 30 22 7 XL 31 24 7 1/2 2XL 32 26 7 3/4 3XL 33 28 7 3/4
-  Updated: 2026-10-05T13:02:13Z
+  Updated: 2026-10-17T16:56:26Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -418,7 +390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLBULLKOOZIE.png?v=1788384121
   Price: $5.00 USD
 - [Bull Hoodie](https://dustin-lynch.merchmadeeasy.com/products/bull-hoodie): Dustin Lynch Bull Hoodie in shade "Vintage Arctic" with front print only.
-  Updated: 2026-10-05T13:02:18Z
+  Updated: 2026-10-11T23:06:58Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -484,14 +456,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Dustin Lynch Clean Slate - CD (SIGNED)](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd-signed): SIGNED copy Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-10-05T23:20:06Z
+  Updated: 2026-10-16T22:47:26Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLCLEANSLATECDSIGNED_a0d0abfc-e020-446b-902f-bdf7fb465175.png?v=1788302683
   Price: $19.98 USD
 - [Dustin Lynch Clean Slate - CD](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd): Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-10-05T13:02:21Z
+  Updated: 2026-10-13T21:37:33Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
@@ -501,28 +473,28 @@
 ## Collections
 
 - [Home page](https://dustin-lynch.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-05T11:20:25Z
+  Updated: 2026-10-07T11:20:39Z
   Total Products: 20
 - [Apparel](https://dustin-lynch.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-05T11:20:25Z
+  Updated: 2026-10-18T11:19:22Z
   Total Products: 43
 - [Accessories](https://dustin-lynch.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-03T11:24:46Z
+  Updated: 2026-10-20T16:43:56Z
   Total Products: 32
 - [](https://dustin-lynch.merchmadeeasy.com/collections/-1)
-  Updated: 2026-10-03T11:24:46Z
+  Updated: 2026-10-20T16:43:56Z
   Total Products: 11
 - [All](https://dustin-lynch.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-06T11:19:09Z
+  Updated: 2026-10-20T16:43:56Z
   Total Products: 88
 - [Featured Merch](https://dustin-lynch.merchmadeeasy.com/collections/featured-merch)
-  Updated: 2026-10-05T11:20:25Z
+  Updated: 2026-10-18T11:19:22Z
   Total Products: 47
 - [Stay Country](https://dustin-lynch.merchmadeeasy.com/collections/stay-country)
   Updated: 2026-07-22T20:37:33Z
   Total Products: 1
 - [Music](https://dustin-lynch.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-06T11:19:09Z
+  Updated: 2026-10-17T11:25:39Z
   Total Products: 9
 - [Hats](https://dustin-lynch.merchmadeeasy.com/collections/hats-1)
   Updated: 2026-07-22T20:37:33Z
@@ -531,7 +503,7 @@
   Updated: 2026-09-17T11:18:11Z
   Total Products: 9
 - [Blue In The Sky](https://dustin-lynch.merchmadeeasy.com/collections/blue-in-the-sky)
-  Updated: 2026-08-28T11:20:26Z
+  Updated: 2026-10-07T11:20:39Z
   Total Products: 5
 - [Digital Albums](https://dustin-lynch.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:17:33Z
@@ -546,28 +518,28 @@
   Updated: 2026-08-28T11:20:26Z
   Total Products: 3
 - [Killed The Cowboy](https://dustin-lynch.merchmadeeasy.com/collections/killed-the-cowboy)
-  Updated: 2026-09-02T21:27:45Z
+  Updated: 2026-10-07T11:20:39Z
   Total Products: 6
 - [Killed The Cowboy 2024 Tour](https://dustin-lynch.merchmadeeasy.com/collections/2024-tour-collection)
-  Updated: 2026-09-23T11:18:25Z
+  Updated: 2026-10-18T11:19:22Z
   Total Products: 8
 - [Outerwear](https://dustin-lynch.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-07-25T11:20:25Z
+  Updated: 2026-10-12T11:24:17Z
   Total Products: 5
 - [T-Shirts](https://dustin-lynch.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-10-05T11:20:25Z
+  Updated: 2026-10-18T11:19:22Z
   Total Products: 29
 - [SIGNED KILLED THE COWBOY](https://dustin-lynch.merchmadeeasy.com/collections/signed-killed-the-cowboy)
   Updated: 2026-08-31T19:40:38Z
   Total Products: 2
 - [Killed The Cowboy](https://dustin-lynch.merchmadeeasy.com/collections/killed-the-cowboy-1)
-  Updated: 2026-09-23T11:18:25Z
+  Updated: 2026-10-18T11:19:22Z
   Total Products: 8
 - [New Arrivals](https://dustin-lynch.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-05T11:20:25Z
+  Updated: 2026-10-12T11:24:17Z
   Total Products: 4
 - [Clean Slate](https://dustin-lynch.merchmadeeasy.com/collections/clean-slate)
-  Updated: 2026-10-06T11:19:09Z
+  Updated: 2026-10-17T11:25:39Z
   Total Products: 2
 
 ## Store Pages
@@ -596,15 +568,15 @@
 ## Policies
 
 - [Privacy Policy](https://dustin-lynch.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:29:45-05:00
+  Updated: 2026-06-19T15:29:45Z
 - [Shipping Policy](https://dustin-lynch.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-20T16:16:56-06:00
+  Updated: 2024-02-20T22:16:56Z
 - [Refund Policy](https://dustin-lynch.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-19T10:29:53-05:00
+  Updated: 2026-06-19T15:29:53Z
 - [Terms of Service](https://dustin-lynch.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-20T16:16:56-06:00
+  Updated: 2024-02-20T22:16:56Z
 - [Contact Information](https://dustin-lynch.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-02-20T16:16:56-06:00
+  Updated: 2024-02-20T22:16:56Z
 
 ## Optional
 
