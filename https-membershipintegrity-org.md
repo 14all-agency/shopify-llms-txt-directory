@@ -6,64 +6,51 @@
 - Timezone: America/New_York
 - Created At: 2026-06-26T10:06:58Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-08-14T00:00:45.136Z
+- Updated At: 2026-10-23T01:00:30.442Z
 
 ## Products
 
 - [Pre-Applicant Member Screening | Membership Integrity](https://membershipintegrity.org/products/pre-applicant-member-screening): Screen membership candidates before they're accepted — not after. FCRA-compliant pre-applicant background screening at $39.99. Results in 1–3 business days.
-  Updated: 2026-07-20T22:15:08Z
+  Updated: 2026-10-20T05:47:09Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/new-member-screening-6426578.png?v=1784585707
-  Price: $27.95 USD
+  Price: $18.99 USD
 - [Volunteer Background Check | Membership Integrity](https://membershipintegrity.org/products/volunteer-background-check): Screen volunteers before they serve your organization. Fast, affordable background checks for churches, nonprofits, and fraternal organizations.
-  Updated: 2026-07-20T22:15:08Z
+  Updated: 2026-10-20T05:51:19Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/volunteer-background-check-2755100.png?v=1784585707
-  Price: $19.99 USD
+  Price: $13.99 USD
 - [Annual Renewal Screening | Membership Integrity](https://membershipintegrity.org/products/annual-renewal-screening): Re-screen your members annually to maintain safety standards. Membership Integrity's renewal screening keeps your organization protected year after year.
-  Updated: 2026-07-20T22:15:08Z
+  Updated: 2026-10-20T05:53:21Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/annual-membership-renewal-screening-2832573.png?v=1784585707
   Price: $13.95 USD
-- [Driver Record Review | Membership Integrity](https://membershipintegrity.org/products/driver-record-review): Verify driving records for anyone transporting members or youth on behalf of your organization. Protect your community with a Driver Record Review.
-  Updated: 2026-07-20T22:15:08Z
-  Vendor: Membership Integrity
-  Product Type: Screening Service
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/driver-record-review-2427874.png?v=1784585707
-  Price: $29.99 USD
 - [Leadership Screening | Membership Integrity](https://membershipintegrity.org/products/leadership-screening): Thoroughly vet officers, board members, and key leaders in your organization. Membership Integrity's Leadership Screening provides deeper due diligence.
-  Updated: 2026-07-20T22:15:08Z
+  Updated: 2026-10-20T05:56:01Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/leadership-screening-7932320.png?v=1784585707
-  Price: $64.95 USD
+  Price: $18.99 USD
 - [Vendor Screening | Membership Integrity](https://membershipintegrity.org/products/vendor-screening): Screen vendors and contractors before they access your events or facilities. Membership Integrity's Vendor Screening protects your organization and members.
-  Updated: 2026-07-20T22:15:08Z
+  Updated: 2026-10-20T05:56:40Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0891/0566/1986/files/vendor-screening-4724646.png?v=1784585707
   Price: $19.99 USD
 - [Youth Worker Screening | Membership Integrity](https://membershipintegrity.org/products/youth-worker-screening): The most thorough screening for anyone working with minors. Protect the youth in your organization with Membership Integrity's Youth Worker Screening.
-  Updated: 2026-07-01T03:30:45Z
+  Updated: 2026-10-20T05:57:39Z
   Vendor: Membership Integrity
   Product Type: Screening Service
   Availability: Available
-  Price: $39.99 USD
-- [Annual Renewal + Driver Record Bundle | Membership Integrity](https://membershipintegrity.org/products/annual-renewal-driver-record-bundle): Combine your annual member renewal screening with a driver record review and save. The perfect bundle for organizations with transportation responsibilities.
-  Updated: 2026-07-01T03:30:55Z
-  Vendor: Membership Integrity
-  Product Type: Screening Service
-  Availability: Available
-  Price: $44.99 USD
+  Price: $13.99 USD
 
 ## Collections
 
@@ -160,6 +147,96 @@
     Author: User
   - [THE Importance of Comprehensive Risk Management in Fraternal Organizations](https://membershipintegrity.org/blogs/news/the-importance-of-comprehensive-risk-management-in-fraternal-organizations): THE Importance of Comprehensive Risk Management in Fraternal Organizations
     Updated: 2026-08-13T16:09:07Z
+    Author: User
+  - [The Comparative Benefits of using technology in Volunteer Screening](https://membershipintegrity.org/blogs/news/the-comparative-benefits-of-using-technology-in-volunteer-screening): The Comparative Benefits of using technology in Volunteer Screening
+    Updated: 2026-08-16T13:12:06Z
+    Author: User
+  - [Unlocking Potential: Key Tactics for Fraternal Organizations Seeking Non-Dues Revenue](https://membershipintegrity.org/blogs/news/unlocking-potential-key-tactics-for-fraternal-organizations-seeking-non-dues-revenue): Unlocking Potential: Key Tactics for Fraternal Organizations Seeking Non-Dues Revenue
+    Updated: 2026-08-18T11:14:09Z
+    Author: User
+  - [Strengthening Volunteer Programs: New Trends in Screening for Fraternal Groups](https://membershipintegrity.org/blogs/news/strengthening-volunteer-programs-new-trends-in-screening-for-fraternal-groups): Strengthening Volunteer Programs: New Trends in Screening for Fraternal Groups
+    Updated: 2026-08-20T09:16:07Z
+    Author: User
+  - [Innovative Approaches to Boosting Non-Dues Revenue in Membership Societies](https://membershipintegrity.org/blogs/news/innovative-approaches-to-boosting-non-dues-revenue-in-membership-societies): Innovative Approaches to Boosting Non-Dues Revenue in Membership Societies
+    Updated: 2026-08-23T06:19:07Z
+    Author: User
+  - [Membership Integrity: Ensuring Trust and Transparency with Better Practices](https://membershipintegrity.org/blogs/news/membership-integrity-ensuring-trust-and-transparency-with-better-practices): Membership Integrity: Ensuring Trust and Transparency with Better Practices
+    Updated: 2026-08-25T04:21:08Z
+    Author: User
+  - [Volunteer Screening FAQ: Everything Fraternal Leaders Should Know](https://membershipintegrity.org/blogs/news/volunteer-screening-faq-everything-fraternal-leaders-should-know): Volunteer Screening FAQ: Everything Fraternal Leaders Should Know
+    Updated: 2026-08-28T01:24:08Z
+    Author: User
+  - [Risk Management Strategies That Protect and Empower Fraternal Groups](https://membershipintegrity.org/blogs/news/risk-management-strategies-that-protect-and-empower-fraternal-groups): Risk Management Strategies That Protect and Empower Fraternal Groups
+    Updated: 2026-08-30T22:27:09Z
+    Author: User
+  - [Why Membership Governance Reforms are Essential for Modern Organizations](https://membershipintegrity.org/blogs/news/why-membership-governance-reforms-are-essential-for-modern-organizations): Why Membership Governance Reforms are Essential for Modern Organizations
+    Updated: 2026-09-01T20:29:09Z
+    Author: User
+  - [The Role of Volunteer Screening in Contemporary Membership Groups](https://membershipintegrity.org/blogs/news/the-role-of-volunteer-screening-in-contemporary-membership-groups): The Role of Volunteer Screening in Contemporary Membership Groups
+    Updated: 2026-09-03T18:31:08Z
+    Author: User
+  - [An Educational Guide to Developing Comprehensive Membership Policies](https://membershipintegrity.org/blogs/news/an-educational-guide-to-developing-comprehensive-membership-policies): An Educational Guide to Developing Comprehensive Membership Policies
+    Updated: 2026-09-06T00:21:16Z
+    Author: User
+  - [Exploring Advanced Risk Management Systems for Member-Centric Organizations](https://membershipintegrity.org/blogs/news/exploring-advanced-risk-management-systems-for-member-centric-organizations): Exploring Advanced Risk Management Systems for Member-Centric Organizations
+    Updated: 2026-09-08T13:36:08Z
+    Author: User
+  - [Maximizing Alternative Revenue Methods for Fraternal Groups](https://membershipintegrity.org/blogs/news/maximizing-alternative-revenue-methods-for-fraternal-groups): Maximizing Alternative Revenue Methods for Fraternal Groups
+    Updated: 2026-09-10T11:38:10Z
+    Author: User
+  - [Effective Volunteer Screening: A Step-By-Step Guide](https://membershipintegrity.org/blogs/news/effective-volunteer-screening-a-step-by-step-guide): Effective Volunteer Screening: A Step-By-Step Guide
+    Updated: 2026-09-13T00:22:24Z
+    Author: User
+  - [Why Governance Structure Matters in Member Organizations](https://membershipintegrity.org/blogs/news/why-governance-structure-matters-in-member-organizations): Why Governance Structure Matters in Member Organizations
+    Updated: 2026-09-15T00:51:43Z
+    Author: User
+  - [Exploring the Benefits of Non-Dues Revenue for Future Growth](https://membershipintegrity.org/blogs/news/exploring-the-benefits-of-non-dues-revenue-for-future-growth): Exploring the Benefits of Non-Dues Revenue for Future Growth
+    Updated: 2026-09-17T00:50:23Z
+    Author: User
+  - [Developing a Volunteer Screening Protocol for Success](https://membershipintegrity.org/blogs/news/developing-a-volunteer-screening-protocol-for-success): Developing a Volunteer Screening Protocol for Success
+    Updated: 2026-09-20T00:22:05Z
+    Author: User
+  - [Strategies for Risk Management in Membership-Based Organizations](https://membershipintegrity.org/blogs/news/strategies-for-risk-management-in-membership-based-organizations): Strategies for Risk Management in Membership-Based Organizations
+    Updated: 2026-09-22T00:44:29Z
+    Author: User
+  - [The Importance of Integrity in Growing Fraternal Organizations](https://membershipintegrity.org/blogs/news/the-importance-of-integrity-in-growing-fraternal-organizations): The Importance of Integrity in Growing Fraternal Organizations
+    Updated: 2026-09-24T00:51:27Z
+    Author: User
+  - [How to Implement Strong Governance Without Overcomplication](https://membershipintegrity.org/blogs/news/how-to-implement-strong-governance-without-overcomplication): How to Implement Strong Governance Without Overcomplication
+    Updated: 2026-09-27T17:56:14Z
+    Author: User
+  - [Transforming Volunteer Screening with Cutting-Edge Techniques](https://membershipintegrity.org/blogs/news/transforming-volunteer-screening-with-cutting-edge-techniques): Transforming Volunteer Screening with Cutting-Edge Techniques
+    Updated: 2026-09-29T15:58:09Z
+    Author: User
+  - [Navigating Risk Factors in Fraternal Group Management](https://membershipintegrity.org/blogs/news/navigating-risk-factors-in-fraternal-group-management): Navigating Risk Factors in Fraternal Group Management
+    Updated: 2026-10-01T14:00:10Z
+    Author: User
+  - [Revenue Secrets Revealed: Transformative Tips for Fraternal Groups](https://membershipintegrity.org/blogs/news/revenue-secrets-revealed-transformative-tips-for-fraternal-groups): Revenue Secrets Revealed: Transformative Tips for Fraternal Groups
+    Updated: 2026-10-04T00:21:45Z
+    Author: User
+  - [Navigating Membership Governance: Powerful Ways to Elevate Involvement](https://membershipintegrity.org/blogs/news/navigating-membership-governance-powerful-ways-to-elevate-involvement): Navigating Membership Governance: Powerful Ways to Elevate Involvement
+    Updated: 2026-10-06T00:31:53Z
+    Author: User
+  - [Upholding Membership Integrity: Tactics for Building Trust](https://membershipintegrity.org/blogs/news/upholding-membership-integrity-tactics-for-building-trust): Upholding Membership Integrity: Tactics for Building Trust
+    Updated: 2026-10-08T07:07:08Z
+    Author: User
+  - [Volunteer Screening Made Easy: Techniques for Smarter Choices](https://membershipintegrity.org/blogs/news/volunteer-screening-made-easy-techniques-for-smarter-choices): Volunteer Screening Made Easy: Techniques for Smarter Choices
+    Updated: 2026-10-11T00:21:16Z
+    Author: User
+  - [Proactive Risk Management: Essential Strategies for Organizational Safety](https://membershipintegrity.org/blogs/news/proactive-risk-management-essential-strategies-for-organizational-safety): Proactive Risk Management: Essential Strategies for Organizational Safety
+    Updated: 2026-10-14T01:13:10Z
+    Author: User
+  - [Simple Steps to Boost Non-Dues Revenue in Your Froternal Group](https://membershipintegrity.org/blogs/news/simple-steps-to-boost-non-dues-revenue-in-your-froternal-group): Simple Steps to Boost Non-Dues Revenue in Your Froternal Group
+    Updated: 2026-10-15T23:15:08Z
+    Author: User
+  - [Fraternal Governance Overhaul: Revitalize with Modern Policies](https://membershipintegrity.org/blogs/news/fraternal-governance-overhaul-revitalize-with-modern-policies): Fraternal Governance Overhaul: Revitalize with Modern Policies
+    Updated: 2026-10-18T20:18:08Z
+    Author: User
+  - [Membership Integrity Challenges and Proven Solutions](https://membershipintegrity.org/blogs/news/membership-integrity-challenges-and-proven-solutions): Membership Integrity Challenges and Proven Solutions
+    Updated: 2026-10-20T18:20:08Z
+    Author: User
+  - [Optimizing Volunteer Screening with Selective Innovations](https://membershipintegrity.org/blogs/news/optimizing-volunteer-screening-with-selective-innovations): Optimizing Volunteer Screening with Selective Innovations
+    Updated: 2026-10-22T16:22:08Z
     Author: User
 
 ## Store Pages
@@ -264,7 +341,7 @@
 ## Policies
 
 - [Privacy Policy](https://membershipintegrity.org/policies/privacy-policy)
-  Updated: 2026-06-26T06:07:04-04:00
+  Updated: 2026-06-26T10:07:04Z
 
 ## Optional
 
