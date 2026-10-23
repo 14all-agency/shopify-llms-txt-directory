@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-08-01T08:18:25Z
 - Contact Email: aaronlexbusinesssolutions@gmail.com
-- Updated At: 2026-10-06T00:00:46.046Z
+- Updated At: 2026-10-23T00:47:15.697Z
 
 ## Products
 
@@ -2672,6 +2672,9 @@
 
 ## Collections
 
+- [Home page](https://trendpickk.aaronlexonline.com/collections/frontpage): Discover top trending products at TrendPickk. Fashion, electronics, beauty & wellness — all in one place. Shop now!
+  Updated: 2026-08-10T21:37:58Z
+  Total Products: 0
 - [Fashion](https://trendpickk.aaronlexonline.com/collections/fashion): Discover TrendPickk's Fashion collection. Shop trendy styles, everyday wear & occasion outfits for men & women. Fresh arrivals, curated for every wardrobe.
   Updated: 2026-08-19T00:29:35Z
   Total Products: 14
@@ -2681,6 +2684,9 @@
 - [Everyday Essentials](https://trendpickk.aaronlexonline.com/collections/bags): Discover TrendPickk's premium Bags collection. Shop handbags, totes, backpacks & clutches - stylish, durable designs for travel & everyday use.
   Updated: 2026-08-19T00:18:27Z
   Total Products: 20
+- [Jewellery](https://trendpickk.aaronlexonline.com/collections/jewellery): Explore TrendPickk's premium Jewellery collection. Shop rings, necklaces, earrings & bracelets crafted for elegance. Perfect for every occasion & gifting.
+  Updated: 2026-08-19T00:22:05Z
+  Total Products: 1
 - [Apparels](https://trendpickk.aaronlexonline.com/collections/apparels): Discover TrendPickk's curated Apparels collection. Shop premium tops, dresses, outerwear & more. Quality fashion for every occasion. New arrivals added regularly.
   Updated: 2026-08-10T21:37:58Z
   Total Products: 0
@@ -2699,15 +2705,15 @@
 ## Policies
 
 - [Privacy Policy](https://trendpickk.aaronlexonline.com/policies/privacy-policy)
-  Updated: 2026-08-01T13:48:28+05:30
+  Updated: 2026-08-01T08:18:28Z
 - [Shipping Policy](https://trendpickk.aaronlexonline.com/policies/shipping-policy)
-  Updated: 2026-08-03T21:17:19+05:30
+  Updated: 2026-08-03T15:47:19Z
 - [Refund Policy](https://trendpickk.aaronlexonline.com/policies/refund-policy)
-  Updated: 2026-08-09T15:02:55+05:30
+  Updated: 2026-08-09T09:32:55Z
 - [Terms of Service](https://trendpickk.aaronlexonline.com/policies/terms-of-service)
-  Updated: 2026-08-03T21:04:12+05:30
+  Updated: 2026-08-03T15:34:12Z
 - [Contact Information](https://trendpickk.aaronlexonline.com/policies/contact-information)
-  Updated: 2026-08-03T21:13:01+05:30
+  Updated: 2026-08-03T15:43:01Z
 
 ## Optional
 
