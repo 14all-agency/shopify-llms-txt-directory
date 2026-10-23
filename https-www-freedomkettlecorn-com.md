@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-06T15:56:29Z
 - Contact Email: admin@freedomkettlecorn.com
-- Updated At: 2026-10-15T00:00:36.853Z
+- Updated At: 2026-10-23T00:37:55.806Z
 
 ## Products
 
@@ -506,13 +506,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.freedomkettlecorn.com/policies/privacy-policy)
-  Updated: 2026-01-06T09:56:42-06:00
+  Updated: 2026-01-06T15:56:42Z
 - [Refund Policy](https://www.freedomkettlecorn.com/policies/refund-policy)
-  Updated: 2026-04-15T12:19:55-05:00
+  Updated: 2026-04-15T17:19:55Z
 - [Terms of Service](https://www.freedomkettlecorn.com/policies/terms-of-service)
-  Updated: 2026-05-08T09:07:10-05:00
+  Updated: 2026-05-08T14:07:10Z
 - [Contact Information](https://www.freedomkettlecorn.com/policies/contact-information)
-  Updated: 2026-04-15T12:19:39-05:00
+  Updated: 2026-04-15T17:19:39Z
 
 ## Optional
 
