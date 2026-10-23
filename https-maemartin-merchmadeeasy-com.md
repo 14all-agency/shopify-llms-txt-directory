@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-14T00:00:43.657Z
+- Updated At: 2026-10-23T00:48:12.339Z
 
 ## Products
 
@@ -177,15 +177,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://maemartin.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-19T10:38:24-05:00
+  Updated: 2026-06-19T15:38:24Z
 - [Shipping Policy](https://maemartin.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-25T11:01:16-05:00
+  Updated: 2026-09-25T16:01:16Z
 - [Refund Policy](https://maemartin.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-19T10:38:13-05:00
+  Updated: 2026-06-19T15:38:13Z
 - [Terms of Service](https://maemartin.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-25T11:00:57-05:00
+  Updated: 2026-09-25T16:00:57Z
 - [Contact Information](https://maemartin.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-02-20T16:06:17-06:00
+  Updated: 2026-02-20T22:06:17Z
 
 ## Optional
 
