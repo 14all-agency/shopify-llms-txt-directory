@@ -9,7 +9,7 @@
 - Created At: 2025-12-15T18:58:27Z
 - Contact Email: online@tamos.ro
 - Contact Phone: +40745171717
-- Updated At: 2026-10-13T00:00:49.259Z
+- Updated At: 2026-10-23T00:48:56.657Z
 
 ## Products
 
@@ -18,15 +18,15 @@
 ## Policies
 
 - [Privacy Policy](https://mobila.com/policies/privacy-policy)
-  Updated: 2026-06-29T12:33:23+03:00
+  Updated: 2026-06-29T09:33:23Z
 - [Shipping Policy](https://mobila.com/policies/shipping-policy)
-  Updated: 2026-07-03T15:46:36+03:00
+  Updated: 2026-07-03T12:46:36Z
 - [Refund Policy](https://mobila.com/policies/refund-policy)
-  Updated: 2026-07-03T15:45:26+03:00
+  Updated: 2026-07-03T12:45:26Z
 - [Terms of Service](https://mobila.com/policies/terms-of-service)
-  Updated: 2026-06-29T12:32:52+03:00
+  Updated: 2026-06-29T09:32:52Z
 - [Contact Information](https://mobila.com/policies/contact-information)
-  Updated: 2025-12-31T16:52:42+02:00
+  Updated: 2025-12-31T14:52:42Z
 
 ## Optional
 
