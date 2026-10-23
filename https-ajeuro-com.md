@@ -6,12 +6,12 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2025-12-30T03:37:42Z
 - Contact Email: franceajluxe@gmail.com
-- Updated At: 2026-07-16T00:00:43.501Z
+- Updated At: 2026-10-23T01:04:20.941Z
 
 ## Products
 
 - [Legging Femme Push-Up Sans Coutures – S à 3XL](https://ajeuro.com/products/legging-femme-push-up-sans-coutures-fitness-yoga-et-gym-s-a-3xl-8-couleurs): Découvrez notre legging femme push-up sans coutures, extensible et confortable, idéal pour le yoga, la gym et le fitness. Disponible en 8 couleurs.
-  Updated: 2026-07-10T18:04:36Z
+  Updated: 2026-07-17T19:39:14Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -231,14 +231,14 @@
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/1622339879847.jpg?v=1782273508
     Price: 24,00 € EUR
 - [Ventilateur Refroidisseur USB 12W — Double Vaporisation Glacière | AJ Euro](https://ajeuro.com/products/ventilateur-refroidisseur-bureau-double-vaporisation-usb-12w-3-vitesses): Ventilateur refroidisseur de bureau USB avec double vaporisation, glacière, 3 vitesses et moins de 36dB. 12W, 5V. Livré en France.
-  Updated: 2026-07-10T16:11:23Z
+  Updated: 2026-07-25T06:26:56Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/173c483b-c74b-4fa3-ac82-c031abb961a9.jpg?v=1782273910
   Price: 35,00 € EUR
 - [Dog GPS Tracker Real Time, Anti-Lost Pet Tracker With Geofence, Flash Light And Sound Alarm, Unlimited Distance Tracking, Fits Most Pet Collars, Subscription Required](https://ajeuro.com/products/dog-gps-tracker-real-time-anti-lost-pet-tracker-with-geofence-flash-light-and-sound-alarm-unlimited-distance-tracking-fits-most-pet-collars-subscription-required): 【Double Protection Against Loss】 This dog GPS tracker features a built-in QR code that allows anyone who finds your pet to scan and instantly access your contact information. Even if the tracker runs out of power, a kind finder can still help return your dog safely. 【Real-Time GPS Tracking】 Track your dog’s location in real time for complete peace of mind. Powered by GPS, BDS, and GLONASS positioning systems, the tracker delivers accurate and stable location updates anytime, anywhere. 【Custom Geo-Fence Alerts】 Easily set up virtual safe zones in the app, such as your yard or garden. You’ll receive instant alerts on your phone if your pet leaves the designated area, helping prevent loss before it happens. 【Activity Monitoring & Route History】 View your dog’s movement history and daily activity on the map. See where your pet has been, monitor exercise levels, and discover favorite walking and play areas. 【Easy Installation & Wide Compatibility】 The snap-on design with included buckle allows quick and secure attachment to most pet collars. Compatible with both iOS and Android devices for easy setup and use. 【Sound & Light Finder Modes】 Built-in beeper and flashing light help you quickly locate your pet nearby. Activate sound or light alerts through the app to find your dog faster, day or night. 【Flexible Subscription Plans】 Choose the plan that fits your needs: $28.99 / 3 months ($9.60/month), $46.99 / 6 months, or $74.99 / 1 year—starting at just $0.20 per day. No hidden fees. 【IP67 Waterproof for Outdoor Adventures】 With IP67 waterproof protection, the tracker resists water splashes, dust, and mud—perfect for dogs who love outdoor play and exploration.
-  Updated: 2026-07-11T16:38:30Z
+  Updated: 2026-08-22T18:29:26Z
   Vendor: Company of Animals
   Product Type: Electronics, Mobile communication and ac
   Availability: Available
@@ -378,6 +378,148 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fec83b47-362a-43a8-880d-00c878ad454d.jpg?v=1784014157
     Price: 40,99 € EUR
+- [Bague Connectée R6 — Sommeil Fréquence Cardiaque Étanche | AJ Euro](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche): Bague connectée R6 avec suivi sommeil, fréquence cardiaque, SpO2 et podomètre. Étanche, tailles 8–12. Livré en France.
+  Updated: 2026-09-14T18:41:37Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/db282a44-1a69-4c9e-a0ca-d9fa47e256b5_trans.jpg?v=1784615496
+  - [Silver / No.8](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967713472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25de5a2f-cb66-4a5c-b548-3114e1a2a41e.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Black / No.10](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967746240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1897c29-9f3a-460e-aaef-a3a454fe7aa4.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Black / No.11](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967779008)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1897c29-9f3a-460e-aaef-a3a454fe7aa4.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Black / No.12](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967811776)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1897c29-9f3a-460e-aaef-a3a454fe7aa4.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Black / No.8](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967844544)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1897c29-9f3a-460e-aaef-a3a454fe7aa4.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Black / No.9](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967877312)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/e1897c29-9f3a-460e-aaef-a3a454fe7aa4.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Gold / No.10](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967910080)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3201ee3-43e6-457f-aff4-b41f3b15c45c.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Gold / No.11](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967942848)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3201ee3-43e6-457f-aff4-b41f3b15c45c.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Gold / No.12](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643967975616)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3201ee3-43e6-457f-aff4-b41f3b15c45c.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Gold / No.8](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968008384)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3201ee3-43e6-457f-aff4-b41f3b15c45c.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Gold / No.9](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968041152)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c3201ee3-43e6-457f-aff4-b41f3b15c45c.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Silver / No.10](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968073920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25de5a2f-cb66-4a5c-b548-3114e1a2a41e.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Silver / No.11](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968106688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25de5a2f-cb66-4a5c-b548-3114e1a2a41e.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Silver / No.12](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968139456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25de5a2f-cb66-4a5c-b548-3114e1a2a41e.jpg?v=1784615496
+    Price: 28,00 € EUR
+  - [Silver / No.9](https://ajeuro.com/products/bague-connectee-r6-suivi-sommeil-frequence-cardiaque-podometre-etanche?variant=48643968172224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/25de5a2f-cb66-4a5c-b548-3114e1a2a41e.jpg?v=1784615496
+    Price: 28,00 € EUR
+- [Biberon Mains Libres Bébé 150ml — Rose & Bleu Tétine Souple | AJ Euro](https://ajeuro.com/products/biberon-mains-libres-bebe-150ml-rose-bleu-tetine-souple): Biberon mains libres 150ml pour bébé. Forme droite, tétine souple, disponible en rose et bleu. Livré en France.
+  Updated: 2026-09-04T08:53:21Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/4ffeacc1-5eb2-4bd9-9c73-0e010b0dc460_trans.jpg?v=1787804883
+  - [Blue / 150ml](https://ajeuro.com/products/biberon-mains-libres-bebe-150ml-rose-bleu-tetine-souple?variant=48904920826048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/eb841406-3861-4c2d-b63d-1b23b8ccda7f.jpg?v=1787804883
+    Price: 17,99 € EUR
+  - [Pink / 150ml](https://ajeuro.com/products/biberon-mains-libres-bebe-150ml-rose-bleu-tetine-souple?variant=48904920858816)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/3f9dea22-5c7e-4e3f-a0a1-cb8e9a02e549.jpg?v=1787804883
+    Price: 17,99 € EUR
+- [Épilateur Cristal — Épilation Indolore Réutilisable Corps | AJ Euro](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes): Épilateur cristal nano-verre réutilisable pour épilation indolore. Sans douleur, sans produits chimiques. Vert, violet ou noir. Livré en France.
+  Updated: 2026-09-09T13:13:22Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/827ee28d-0a3e-49bd-8db6-fb856a20e225.jpg?v=1788916393
+  - [Black / 1PC](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes?variant=48979679871168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/827ee28d-0a3e-49bd-8db6-fb856a20e225.jpg?v=1788916393
+    Price: 19,99 € EUR
+  - [Metallic dark blue / 1PC](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes?variant=48979679903936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/336625cd-3bea-4349-9d2d-fc7a05e7465d.jpg?v=1788916393
+    Price: 19,99 € EUR
+  - [Metallic rose / 1PC](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes?variant=48979679936704)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/139ef62f-7006-4254-983d-5b5d6259240d.jpg?v=1788916393
+    Price: 19,99 € EUR
+  - [Sliver / 1PC](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes?variant=48979679969472)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/fd9d94bd-d9d0-4a4a-b4ab-e9a521b9ecbc.jpg?v=1788916393
+    Price: 19,99 € EUR
+  - [White / 1PC](https://ajeuro.com/products/epilateur-cristal-reutilisable-epilation-indolore-corps-jambes?variant=48979680002240)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/a6074bf3-a46d-4565-925c-c9312898ab2d.jpg?v=1788916393
+    Price: 19,99 € EUR
+- [Appareil Gua Sha Luminothérapie Rouge & Bleu — Soin Cou Anti-Rides | AJ Euro](https://ajeuro.com/products/appareil-gua-sha-luminotherapie-rouge-bleu-soin-cou-anti-rides): Appareil Gua Sha avec luminothérapie rouge et bleue pour soin cou et visage. Anti-rides, régénération cutanée à domicile. Livré en France.
+  Updated: 2026-09-14T18:23:59Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/afc3b5f4-367f-4fc2-a430-493875e94283.jpg?v=1789367032
+  Price: 34,00 € EUR
+- [Fer à Lisser et Boucler 3-en-1 Démontable 55W — Rose & Gris | AJ Euro](https://ajeuro.com/products/fer-lisser-boucler-3-en-1-demontable-protection-capillaire-55w): Fer à coiffer 3-en-1 démontable pour lisser, boucler et onduler. 55W, protection capillaire, disponible en rose et gris. Livré en France.
+  Updated: 2026-09-23T15:43:56Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/90f5a88d-078b-4f6a-b739-6c0f6404476e_trans.jpg?v=1790135032
+  - [Gray / UK](https://ajeuro.com/products/fer-lisser-boucler-3-en-1-demontable-protection-capillaire-55w?variant=50326908207296)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4ba1fd6-93e7-4b13-9ffb-27d35d8e2100_trans.jpg?v=1790135032
+    Price: 34,99 € EUR
+  - [Gray / US](https://ajeuro.com/products/fer-lisser-boucler-3-en-1-demontable-protection-capillaire-55w?variant=50326908240064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/c4ba1fd6-93e7-4b13-9ffb-27d35d8e2100_trans.jpg?v=1790135032
+    Price: 34,99 € EUR
+  - [Pink / UK](https://ajeuro.com/products/fer-lisser-boucler-3-en-1-demontable-protection-capillaire-55w?variant=50326908272832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d0e01c13-2232-4b73-9b9c-f20281c14d8a_trans.jpg?v=1790135032
+    Price: 34,99 € EUR
+  - [Pink / US](https://ajeuro.com/products/fer-lisser-boucler-3-en-1-demontable-protection-capillaire-55w?variant=50326908305600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/d0e01c13-2232-4b73-9b9c-f20281c14d8a_trans.jpg?v=1790135032
+    Price: 34,99 € EUR
+- [Lampe de Projection Noël & Halloween — 6 à 8 Objectifs Plafond | AJ Euro](https://ajeuro.com/products/lampe-projection-plafond-noel-halloween-objectifs-interchangeables): Projecteur de plafond festif avec 6 objectifs Noël ou 8 objectifs Halloween. Décoration intérieure instantanée, livré en boîte kraft. Livré en France.
+  Updated: 2026-09-26T13:47:17Z
+  Vendor: Company of Animals
+  Product Type: Electronics, Mobile communication and ac
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0736/6311/9552/files/bf3abe4f-32e6-4b0c-9ac9-be4303c72fa1.jpg?v=1790387233
+  Price: 24,99 € EUR
 
 ## Collections
 
@@ -385,8 +527,8 @@
   Updated: 2026-07-10T06:04:31Z
   Total Products: 21
 - [Électronique](https://ajeuro.com/collections/electronics): Shop electronics at AJ Euro — mini projectors, wireless chargers, security cameras, bamboo keyboards and more. Ships to France and the UK. EUR pricing.
-  Updated: 2026-07-10T08:29:19Z
-  Total Products: 25
+  Updated: 2026-08-11T08:42:19Z
+  Total Products: 26
 - [Audio](https://ajeuro.com/collections/audio): Shop Bluetooth speakers, TWS earbuds, over-ear headphones, bone conduction headsets and microphones at AJ Euro. Ships to France and the UK.
   Updated: 2026-07-10T04:36:45Z
   Total Products: 20
@@ -403,8 +545,8 @@
   Updated: 2026-07-10T04:41:38Z
   Total Products: 2
 - [Sports](https://ajeuro.com/collections/sports): Shop sports at AJ Euro — padel rackets, pickleball paddles, knee supports, ankle braces and cycling accessories. Ships to France and the UK.
-  Updated: 2026-07-10T06:04:31Z
-  Total Products: 10
+  Updated: 2026-07-21T06:30:32Z
+  Total Products: 9
 - [Mode](https://ajeuro.com/collections/fashion): Shop fashion at AJ Euro — layered anklets, women's shirts, Bluetooth headbands and cosy slippers. Everyday style for France and the UK. EUR pricing.
   Updated: 2026-07-10T06:04:31Z
   Total Products: 1
@@ -435,7 +577,7 @@
 ## Policies
 
 - [Privacy Policy](https://ajeuro.com/policies/privacy-policy)
-  Updated: 2026-06-26T15:39:07+07:00
+  Updated: 2026-06-26T08:39:07Z
 
 ## Optional
 
