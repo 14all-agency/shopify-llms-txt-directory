@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-10-09T06:35:32.958Z
+- Updated At: 2026-10-23T00:59:54.429Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
@@ -91,7 +91,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $298.35 USD
 - [Organic Early Harvest EVOO - Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
-  Updated: 2026-10-07T20:48:18Z
+  Updated: 2026-10-21T09:11:06Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -168,8 +168,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $331.50 USD
-- [Organic High Polyphenol EVOO (840 mg/kg) | Fruity & Full-Bodied](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early-harvest extra virgin olive oil from Troy. Lab- 840 mg/kg polyphenols and ≤0.2% acidity. Bold, peppery flavor for olive oil shots.
-  Updated: 2026-10-07T20:45:50Z
+- [Fruity & Full-Bodied EVOO (840 mg/kg) | Juicy Olive ASK FARMS](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early August EVOO. 840 mg/kg polyphenols, ≤0.20% FFA. Bold, peppery oleocanthal finish. Cold pressed <22°C within 2 hours. Fast US shipping.
+  Updated: 2026-10-16T08:45:09Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -256,7 +256,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-09-04T09:30:58Z
   Total Products: 74
 - [Main Products](https://juicyolive.com/collections/main-products): Shop single-estate organic extra virgin olive oils from Turkey. Lab-tested up to 840 mg/kg polyphenols across 3 profiles: Fruity, Mild, and Smooth. Free shipping.
-  Updated: 2026-10-03T11:11:44Z
+  Updated: 2026-10-21T11:09:55Z
   Total Products: 18
 
 ## Blogs
@@ -275,54 +275,75 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Author: Reza Malekan
     Tags: RECIPES
   - [How to Choose & Buy Top-Quality EVOO: 5 Expert Tips](https://juicyolive.com/blogs/article/5-pro-tips-on-how-to-buy-and-choose-the-top-quality-extra-virgin-olive-oil): How to Choose & Buy Top-Quality EVOO: 5 Expert Tips
-    Updated: 2026-10-06T15:09:02Z
+    Updated: 2026-10-19T04:56:39Z
     Author: Houman Hosseini
     Tags: EDUCATION, LIFESTYLE
+  - [How to Taste Olive Oil: Step-by-Step EVOO Tasting Guide | Juicy Olive](https://juicyolive.com/blogs/article/how-to-taste-extra-virgin-olive-oil): How to Taste Olive Oil: Step-by-Step EVOO Tasting Guide | Juicy Olive
+    Updated: 2026-10-22T20:58:44Z
+    Author: Houman Hosseini
   - [Gift of Health and Taste: Why Extra Virgin Olive Oil Makes an Exceptional Choice for Special Days](https://juicyolive.com/blogs/article/gift-of-health-and-taste-why-extra-virgin-olive-oil-makes-an-exceptional-choice-for-special-days)
-    Updated: 2026-08-31T08:26:39Z
+    Updated: 2026-10-20T05:38:39Z
     Author: Merve Hossaini
     Tags: LIFESTYLE
-  - [Benefits of Early Harvest Cold Pressed Extra Virgin Olive Oil](https://juicyolive.com/blogs/article/benefits-of-early-harvest-cold-pressed-extra-virgin-olive-oil)
-    Updated: 2026-09-14T09:28:40Z
+  - [Early Harvest Olive Oil: What Changes in the Bottle](https://juicyolive.com/blogs/article/benefits-of-early-harvest-cold-pressed-extra-virgin-olive-oil)
+    Updated: 2026-10-19T06:25:19Z
     Author: Merve Hossaini
     Tags: EDUCATION
   - [Myths and Facts About Extra Virgin Olive Oil-Separating Fiction From Reality](https://juicyolive.com/blogs/article/myths-and-facts-about-extra-virgin-olive-oil-separating-fiction-from-reality)
-    Updated: 2026-09-14T07:10:17Z
+    Updated: 2026-10-13T17:03:48Z
     Author: Merve Hossaini
     Tags: EDUCATION
   - [Discover the Secrets of Olive oil - History, Health and Purity](https://juicyolive.com/blogs/article/discover-the-secrets-of-olive-oil-history-health-and-purity)
-    Updated: 2026-09-14T07:04:40Z
+    Updated: 2026-10-13T17:04:30Z
     Author: Merve Hossaini
     Tags: EDUCATION
-  - [The 5 Types of Olive Oil - How to Avoid Buying the Wrong One](https://juicyolive.com/blogs/article/the-5-types-of-olive-oil-how-to-avoid-buying-the-wrong-one)
-    Updated: 2026-09-14T09:27:09Z
+  - [Types of Olive Oil: Refined vs Pomace vs Extra Virgin](https://juicyolive.com/blogs/article/the-5-types-of-olive-oil-how-to-avoid-buying-the-wrong-one): Types of Olive Oil: Refined vs Pomace vs Extra Virgin
+    Updated: 2026-10-20T05:35:49Z
     Author: Merve Hossaini
   - [Pomegranate-Glazed Roasted Cauliflower](https://juicyolive.com/blogs/article/pomegranate-glazed-roasted-cauliflower)
     Updated: 2026-09-14T07:13:18Z
     Author: Merve Hossaini
     Tags: RECIPES
   - [Premium Turkish Extra Virgin Olive Oil from Troy Region](https://juicyolive.com/blogs/article/why-harvest-to-extraction-time-matters): Premium Turkish Extra Virgin Olive Oil from Troy Region
-    Updated: 2026-08-31T08:27:14Z
+    Updated: 2026-10-19T02:47:47Z
     Author: Merve Hossaini
     Tags: EDUCATION, Olive Oil Benefits
   - [Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive](https://juicyolive.com/blogs/article/polyphenol-olive-oil-guide): Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive
-    Updated: 2026-10-07T15:24:55Z
+    Updated: 2026-10-19T05:00:47Z
     Author: Hessam Mousavi
-  - [Why the Troy Region Is Distinctive for Olive Oil: Mount Ida & Northern Aegean Terroir](https://juicyolive.com/blogs/article/troy-region-olive-oil)
-    Updated: 2026-10-07T06:50:55Z
+  - [Troy Region Olive Oil: Single-Estate Aegean Terroir (Troas)](https://juicyolive.com/blogs/article/troy-region-olive-oil): <p><meta charset="utf-8"><span>Olive oil from the Troy region comes from the ancient Troas in Çanakkale, where Mount Ida, the Dardanelles and the Northern Aegean meet. A producer's guide with our measured harvest results.</span></p>
+    Updated: 2026-10-19T05:02:10Z
     Author: Hessam Mousavi
   - [5 Features of Premium Extra Virgin Olive Oil](https://juicyolive.com/blogs/article/5-features-of-premium-extra-virgin-olive-oil): <p><meta charset="utf-8">Premium extra virgin olive oil is shaped by more than one number or label. Discover the five factors we look for at Juicy Olive—from healthy fruit and harvest timing to careful pressing, sensory character, lab results and protected storage.</p>
-    Updated: 2026-10-07T08:47:46Z
+    Updated: 2026-10-19T05:03:51Z
     Author: Hessam Mousavi
-  - [Olive Oil Shot Benefits: How to Take EVOO & What Science Says | Juicy Olive](https://juicyolive.com/blogs/article/olive-oil-shot-benefits-guide): Olive Oil Shot Benefits: How to Take EVOO & What Science Says | Juicy Olive
-    Updated: 2026-10-02T13:53:42Z
+  - [Olive Oil Shot Benefits: What 1 Tablespoon Daily Does & Why](https://juicyolive.com/blogs/article/olive-oil-shot-benefits-guide): <p><meta charset="utf-8"><strong><span style="font-size: 12.0pt; line-height: 115%; font-family: 'Aptos',sans-serif; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;">Thinking about a morning olive oil shot? Learn what science supports, what to look for in a high-quality EVOO, how polyphenols affect taste, and how to choose the right intensity.</span></strong><br></p>
+    Updated: 2026-10-19T05:05:21Z
     Author: Hessam Mousavi
-  - [Low Acidity Olive Oil: Free Fatty Acids, Quality Standards & What They Mean](https://juicyolive.com/blogs/article/low-acidity-olive-oil-guide): <p><meta charset="utf-8">Learn what low acidity means in extra virgin olive oil, how free fatty acids are measured, and why lower values can reflect healthy fruit, careful handling and rapid pressing. This guide also explains key quality markers such as peroxide value and polyphenols, with real Juicy Olive harvest data for context.</p>
-    Updated: 2026-10-02T13:47:52Z
+  - [Low Acidity Olive Oil: What the Free Acidity Numbers Mean](https://juicyolive.com/blogs/article/low-acidity-olive-oil-guide): <p><meta charset="utf-8">Learn what low acidity means in extra virgin olive oil, how free fatty acids are measured, and why lower values can reflect healthy fruit, careful handling and rapid pressing. This guide also explains key quality markers such as peroxide value and polyphenols, with real Juicy Olive harvest data for context.</p>
+    Updated: 2026-10-19T05:07:43Z
     Author: Hessam Mousavi
-  - [How to Choose Premium High-Polyphenol EVOO: What Separates Quality Tiers](https://juicyolive.com/blogs/article/how-to-choose-high-polyphenol-olive-oil-guide): <p>Learn how to choose true therapeutic-grade high-polyphenol extra virgin olive oil. Discover the 5 lab- quality criteria—including polyphenol counts, low free acidity ≤ 0.20% , early green harvest timing, and organic certification—that separate premium wellness oils from standard commercial blends.</p>
-    Updated: 2026-10-07T10:32:27Z
+  - [How to Choose Premium High-Polyphenol EVOO: What Separates Quality Tiers](https://juicyolive.com/blogs/article/how-to-choose-high-polyphenol-olive-oil-guide): <p><meta charset="utf-8"><span>A buyer's checklist for high-polyphenol extra virgin olive oil: lab results, free acidity, harvest date, processing and certification, with our own results as a worked example.</span></p>
+    Updated: 2026-10-19T05:11:39Z
     Author: Hessam Mousavi
+  - [Turkish Olive Oil: Regions, Cultivars & How to Choose](https://juicyolive.com/blogs/article/turkish-olive-oil-regions-cultivars-and-how-to-choose): <p><meta charset="utf-8">Discover the diversity of Turkish olive oil—from Northern Aegean cultivars and historic growing regions to the harvest, acidity, and laboratory details that reveal true quality.</p>
+    Updated: 2026-10-19T06:30:41Z
+    Author: Hessam Mousavi
+  - [How to Read an Olive Oil Lab Report | Juicy Olive](https://juicyolive.com/blogs/article/how-to-read-an-olive-oil-lab-report): How to Read an Olive Oil Lab Report | Juicy Olive
+    Updated: 2026-10-19T06:27:16Z
+    Author: Hessam Mousavi
+  - [Best Olive Oil: Why the Producer Matters More Than the Country](https://juicyolive.com/blogs/article/best-olive-oil-producer-vs-country-of-origin): <p><meta charset="utf-8"><span>Searching for the </span><strong><span>best olive oil</span></strong><span>? This guide explains why producer knowledge, harvest timing, milling, storage, laboratory results, and traceability matter more than whether a bottle is Italian, Greek, Spanish, Turkish, or American. Learn how to compare olive oil brands and choose a fine </span><strong><span>extra virgin olive oil</span></strong><span> with confidence.</span></p>
+    Updated: 2026-10-22T08:36:24Z
+    Author: Houman Hosseini
+  - [Premium EVOO: 6 Signs of Exceptional Quality | Juicy Olive](https://juicyolive.com/blogs/article/what-makes-premium-extra-virgin-olive-oil-truly-exceptiona): Premium EVOO: 6 Signs of Exceptional Quality | Juicy Olive
+    Updated: 2026-10-22T20:58:38Z
+    Author: Houman Hosseini
+  - [Oleocanthal Olive Oil: Taste vs. Total Polyphenols | Juicy Olive](https://juicyolive.com/blogs/article/oleocanthal-olive-oil-taste-vs-total-polyphenols): Oleocanthal Olive Oil: Taste vs. Total Polyphenols | Juicy Olive
+    Updated: 2026-10-22T20:58:55Z
+    Author: Houman Hosseini
+  - [Premium Olive Oil Gifts: Who They’re Perfect For | Juicy Olive](https://juicyolive.com/blogs/article/premium-olive-oil-gift-guide): Premium Olive Oil Gifts: Who They’re Perfect For | Juicy Olive
+    Updated: 2026-10-22T21:34:12Z
+    Author: Houman Hosseini
 
 ## Store Pages
 
@@ -352,8 +373,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-08-31T08:27:20Z
 - [Withdrawal Request Received](https://juicyolive.com/pages/withdrawal-request-received): Your withdrawal request has been received Thank you. We have received your EU withdrawal request. A confirmation email has been sent to the email a...
   Updated: 2026-08-31T08:27:20Z
-- [Free Fatty Acid Acidity & Freshness Purity of Extra Virgin Olive Oil](https://juicyolive.com/pages/low-acidity): 
-  Updated: 2026-08-31T08:27:21Z
+- [Free Acidity in Extra Virgin Olive Oil: Our Lab Numbers](https://juicyolive.com/pages/low-acidity): 
+  Updated: 2026-10-15T05:42:02Z
 - [Early Harvest Craft: Less Oil. More Character.](https://juicyolive.com/pages/early-harvest-craft): 
   Updated: 2026-08-31T08:27:23Z
 - [Single Cold Pressing](https://juicyolive.com/pages/single-cold-pressing): 
@@ -364,21 +385,21 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-09-08T13:01:42Z
 - [Our Team](https://juicyolive.com/pages/about-our-team): .jo-team-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-heade...
   Updated: 2026-10-07T09:43:28Z
-- [Buy Premium High-Polyphenol Extra Virgin Olive Oil Online in the USA](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
-  Updated: 2026-10-07T09:50:41Z
+- [High-Polyphenol Olive Oil USA: Buy Online](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
+  Updated: 2026-10-15T05:38:05Z
 
 ## Policies
 
 - [Privacy Policy](https://juicyolive.com/policies/privacy-policy)
-  Updated: 2023-11-04T11:58:40+03:00
+  Updated: 2023-11-04T08:58:40Z
 - [Shipping Policy](https://juicyolive.com/policies/shipping-policy)
-  Updated: 2026-08-07T12:21:11+03:00
+  Updated: 2026-08-07T09:21:11Z
 - [Refund Policy](https://juicyolive.com/policies/refund-policy)
-  Updated: 2026-07-14T12:26:37+03:00
+  Updated: 2026-07-14T09:26:37Z
 - [Terms of Service](https://juicyolive.com/policies/terms-of-service)
-  Updated: 2023-10-25T20:18:49+03:00
+  Updated: 2023-10-25T17:18:49Z
 - [Contact Information](https://juicyolive.com/policies/contact-information)
-  Updated: 2023-10-23T16:58:56+03:00
+  Updated: 2023-10-23T13:58:56Z
 
 https://www.instagram.com/juicy__olive/
 
