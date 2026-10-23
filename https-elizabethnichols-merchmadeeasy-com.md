@@ -6,25 +6,25 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-14T20:53:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-09T00:00:26.255Z
+- Updated At: 2026-10-23T00:32:42.271Z
 
 ## Products
 
 - [I Got A New One Elizabeth Nichols Dad Hat](https://elizabethnichols.merchmadeeasy.com/products/i-got-a-new-one-hat): I Got A New One Dad Hat in shade "stone" with front, back, and side embroidery. Adjustable back closure
-  Updated: 2026-10-05T13:06:30Z
+  Updated: 2026-10-10T00:18:55Z
   Vendor: Elizabeth Nichols
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHIGOTANEWONEHAT.png?v=1789590556
   Price: $35.00 USD
 - [Elizabeth Nichols Photo Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/photo-tee): Elizabeth Nichols Photo Tee in white with front print only. 100% Cotton
-  Updated: 2026-10-05T13:06:31Z
+  Updated: 2026-10-22T06:29:56Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHPHOTOTEE.png?v=1789590940
   - [S](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032364268)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [M](https://elizabethnichols.merchmadeeasy.com/products/photo-tee?variant=48369032397036)
     Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $40.00 USD
 - [You're Welcome Hoodie Elizabeth Nicholes](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie): You're Welcome Hoodie in light blue with front, back, and sleeve print. 80% Cotton / 20% Polyester
-  Updated: 2026-10-07T18:10:46Z
+  Updated: 2026-10-20T02:05:22Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -60,7 +60,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Elizabeth Nichols Kiss and Tour Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee): Kiss and Tour Tee in white with front print and back print. 100% Cotton
-  Updated: 2026-10-07T21:49:32Z
+  Updated: 2026-10-18T00:56:30Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -84,10 +84,10 @@
 ## Collections
 
 - [Home page](https://elizabethnichols.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-08T11:30:04Z
+  Updated: 2026-10-22T11:29:16Z
   Total Products: 4
 - [Apparel](https://elizabethnichols.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-08T11:30:04Z
+  Updated: 2026-10-22T11:29:16Z
   Total Products: 3
 - [Accessories](https://elizabethnichols.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-03T11:29:55Z
@@ -99,7 +99,7 @@
   Updated: 2026-09-28T18:28:59Z
   Total Products: 0
 - [All](https://elizabethnichols.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-08T11:30:04Z
+  Updated: 2026-10-22T11:29:16Z
   Total Products: 4
 
 ## Store Pages
@@ -114,15 +114,15 @@
 ## Policies
 
 - [Privacy Policy](https://elizabethnichols.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-09-14T16:34:04-05:00
+  Updated: 2026-09-14T21:34:04Z
 - [Shipping Policy](https://elizabethnichols.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-14T16:34:33-05:00
+  Updated: 2026-09-14T21:34:33Z
 - [Refund Policy](https://elizabethnichols.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-09-14T16:33:29-05:00
+  Updated: 2026-09-14T21:33:29Z
 - [Terms of Service](https://elizabethnichols.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-14T16:34:16-05:00
+  Updated: 2026-09-14T21:34:16Z
 - [Contact Information](https://elizabethnichols.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-09-14T16:34:45-05:00
+  Updated: 2026-09-14T21:34:45Z
 
 ## Optional
 
