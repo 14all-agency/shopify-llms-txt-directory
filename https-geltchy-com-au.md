@@ -6,12 +6,12 @@
 - Timezone: Australia/Brisbane
 - Created At: 2019-10-05T06:03:54Z
 - Contact Email: info@geltchy.com
-- Updated At: 2026-08-12T00:00:48.511Z
+- Updated At: 2026-10-23T00:57:23.875Z
 
 ## Products
 
 - [HQ Holden Kingswood Man Cave Car Artwork Print](https://geltchy.com.au/products/krusty-q-rusty-patina-hq-gmh-holden-street-machine-fine-art-rat-rod-man-cave-car-print): Elevate your man cave with our limited-edition "KRUSTY Q Rusty Patina Classic Holden Car" fine art prints. These meticulously crafted prints add character to any space. Choose from A3 or A2 sizes on archival matte paper, with optional frames.
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-10-15T10:11:05Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-KRUSTY-Q-Rusty-Patina-Classic-Holden-Car-Street-Machine-Garage-Man-Cave-Decor-Professional-Fine-Art-Prints.jpg?v=1748763324
     Price: $244.95 AUD
 - [Valiant Chrysler Muscle Car Man Cave Car Artwork Print](https://geltchy.com.au/products/valiant-man-cave-art-silver-vf-chrysler-hardtop-mopar-hemi-street-machine-australian-classic-car-illustrated-automotive-framed-artwork): VF VALIANT Chrysler Hardtop Street Machine Muscle Car Man Cave Artwork Illustrated Framed Art Prints Automotive Man Cave Art suitable for your Bar, She Shed, Garage, Workshop, Office or Home Decor
-  Updated: 2026-08-10T05:14:58Z
+  Updated: 2026-10-15T10:11:05Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-VF-VALIANT-Chrysler-Hardtop-Street-Machine-Muscle-Car-Man-Cave-Artwork-Illustrated-Auto-Art-Prints.jpg?v=1675035961
     Price: $149.95 AUD
 - [SKULL Illustration Punk Tattoo Flash Art Prints](https://geltchy.com.au/products/skull-illustration-punk-tattoo-flash-art-man-cave-framed-prints): LURKER Skull Illustration Thrash Punk Rock Flipped Cap Skateboard Tattoo Prints Framed Fine Art. The limited edition art prints will have your favourite punk metal thrash playlist on repeat and cranked to eleven in your Man Cave, Bar, She Shed, Garage, Workshop or Favourite Room.
-  Updated: 2026-08-10T05:15:34Z
+  Updated: 2026-10-15T10:11:06Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -53,7 +53,7 @@
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-LURKER-Skull-Illustration-Thrash-Punk-Rock-Flipped-Cap-Skateboard-Tattoo-Prints-Fine-Artwork.jpg?v=1674266757
     Price: $99.95 AUD
 - [XL FORD Falcon Wagon Street Machine Man Cave Auto Art Print](https://geltchy.com.au/products/oldie-ford-xl-falcon-station-wagon-street-machine-teal-car-fine-art-man-cave-illustrated-automotive-vehicle-artwork-print): OLDIE XL Ford Falcon Car Old School Station Wagon Longroof Street Machine Illustrated Auto Art Fine Art Prints designed for your Man Cave, Bar, Workshop, Garage, Office or Home Decor. Perfect Gift for the old school kustom kulture car enthusiast memorabilia collector
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-10-15T10:11:06Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-OLDIE-XL-Ford-Falcon-Car-Old-School-Station-Wagon-Longroof-Street-Machine-Garage-Man-Cave-Decor-Illustrated-Auto-Art-Prints.jpg?v=1748763949
     Price: $199.95 AUD
 - [Gift Card order quickly and easily online](https://geltchy.com.au/products/gift-card): Give the Gift of ART with the Geltchy Gift Card. Searching for a last minute gift or shopping for someone else but not sure what to give them? Keep it simple and make the choice theirs with the Geltchy eGift Card.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-10-15T10:11:07Z
   Vendor: Geltchy
   Product Type: Gift Card
   Availability: Available
@@ -95,14 +95,29 @@
 - [BOARDCARRY | Carry Strap](https://geltchy.com.au/products/boardcarry-carry-strap): BOARDCARRY
 Surfboard | Snowboard | Carry Strap.
 The BoardCarry is lightweight, convenient to carry, and is designed to carry up to 3 boards at once with ease. Versatile enough to help you carry your boards whilst riding, skating or walking.
-  Updated: 2026-07-16T09:55:25Z
+  Updated: 2026-10-15T10:11:09Z
   Vendor: Boardcarry
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/boardcarry-surfboard-snowboard-carry-strap-2.jpg?v=1620281460
-  Price: $99.95 AUD
+  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Boardcarry-Premium.jpg?v=1789695558
+  - [PREMIUM - ALL ATTACHMENTS](https://geltchy.com.au/products/boardcarry-carry-strap?variant=48665798344873)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Boardcarry-Premium.jpg?v=1789695558
+    Price: $99.95 AUD
+  - [SHORTBOARD](https://geltchy.com.au/products/boardcarry-carry-strap?variant=48665630507177)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Boardcarry-Shortboard.jpg?v=1789695790
+    Price: $49.95 AUD
+  - [SNOWBOARD](https://geltchy.com.au/products/boardcarry-carry-strap?variant=48665630539945)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Boardcarry-Snowboard.jpg?v=1789695873
+    Price: $49.95 AUD
+  - [YOGA MAT](https://geltchy.com.au/products/boardcarry-carry-strap?variant=48665798312105)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Boardcarry-Yoga-Mat_acfbcbea-4fa2-477e-91f5-0ce336b863da.jpg?v=1789696082
+    Price: $49.95 AUD
 - [FJ Holden Patina Ute Man Cave Art Framed Print](https://geltchy.com.au/products/ruste-fj-holden-patina-ute-gmh-street-machine-fine-art-rat-rod-man-cave-illustrated-car-artwork-print): RUSTE FJ Holden Patina Ute GMH Street Machine Rat Rod Garage Man Cave Wall Art Professional Fine Art Prints suitable for your Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-06-24T09:40:56Z
+  Updated: 2026-10-15T10:11:10Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -116,7 +131,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/RUSTE-FJ-Holden-Patina-Ute-GMH-Street-Machine-Rat-Rod-Garage-Man-Cave-Decor-Professional-Fine-Art-Prints.jpg?v=1748763044
     Price: $199.95 AUD
 - [SPECTRUM Sticker - Free Postage Australia Wide](https://geltchy.com.au/products/boardcarry-spectrum-sticker-free-postage-australia-wide-qld-nsw-vic-act-tas-sa-wa): Whether you're an avid surfer, skateboarder, snowboarder, or simply someone who enjoys exploring the great outdoors, the BOARDCARRY Spectrum Sticker is a must-have accessory. Its round die-cut design adds a touch of uniqueness, while the 10cm size ensures visibility without being overpowering.
-  Updated: 2026-08-10T05:13:05Z
+  Updated: 2026-10-15T10:11:10Z
   Vendor: Geltchy
   Product Type: Sticker
   Availability: Available
@@ -130,21 +145,21 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/boardcarry-spectrum-sticker.jpg?v=1619074760
     Price: $6.95 AUD
 - [LC TORANA Holden Street Machine Man Cave Art Print](https://geltchy.com.au/products/agent-orange-lc-holden-gmh-torana-supercharged-blown-street-machine-fine-art-man-cave-illustrated-car-artwork-print): LC TORANA GMH Holden Supercharged Blown Street Machine Fine Art Prints Framed Artwork For . These auto artwork limited edition numbered wall art prints are ready to complement your man cave decor suitable for all Holden Enthusiasts.
-  Updated: 2026-08-10T05:15:25Z
+  Updated: 2026-10-15T10:11:10Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-LC-TORANA-GMH-Holden-Supercharged-Blown-Street-Machine-Man-Cave-Artwork-Fine-Art-Prints.jpg?v=1673819809
   Price: $149.95 AUD
 - [FC Holden Street Machine Man Cave Art Print](https://geltchy.com.au/products/tasty-fc-holden-gmh-special-australian-street-machine-hot-rod-fine-art-man-cave-car-illustration-artwork-print): FC Holden Special Street Machine Best Man Cave Art Collectors Illustrated Framed Print suitable for your Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:15:12Z
+  Updated: 2026-10-15T10:11:11Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-TASTY-FC-Holden-Special-Street-Machine-Best-Man-Cave-Auto-Art-Print.jpg?v=1675804993
   Price: $149.95 AUD
 - [48-215 FX Holden Man Cave Wall Art Car Art Prints](https://geltchy.com.au/products/outlaw-fx-48-215-gmh-holden-bare-metal-aussie-street-machine-rat-rod-fine-art-man-cave-car-print): 48-215 FX HOLDEN Fine Art Print Framed Art Street Machine Rat Rod Fine Art Man Cave Collectable Car Drawing Visual Artwork Limited Edition Giclee Print. Australian Man Cave Wall Art suitable for your She Shed, Bar, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:16:53Z
+  Updated: 2026-10-15T10:11:11Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -158,21 +173,21 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-OUTLAW-48-215-FX-HOLDEN-Fine-Art-Print-Street-Machine-Rat-Rod-Fine-Art-Man-Cave-Collectable-Car-Drawing-Visual-Artwork-Limited-Edition-Giclee-Prin.jpg?v=1673140467
     Price: $199.95 AUD
 - [FC Holden Street Machine Man Cave Car Art](https://geltchy.com.au/products/cyanide-fc-holden-50s-street-machine-man-cave-illustrated-fine-artwork-print): FC Holden Special Car Auto Art Print. The ultimate addition to your Man Cave, Bar, She Shed, Garage, Workshop, Office, or Home Decor. Featuring the iconic Australian FC Holden Special in a stunning teal color, this limited edition numbered car art print is a true gem for Street Machine enthusiasts.
-  Updated: 2026-08-10T05:14:44Z
+  Updated: 2026-10-15T10:11:11Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-FC-Holden-Special-Street-Machine-Best-Man-Cave-Car-Art-Illustrated-Auto-Art-Print.jpg?v=1677536265
   Price: $149.95 AUD
 - [48-215 FX Holden GMH Badge Man Cave Art Print](https://geltchy.com.au/products/48-215-fx-general-motors-holden-australian-badge-fine-art-memorabilia-collector-man-cave-vehicle-car-print): Bring a touch of automotive history to your space with our exclusive 48-215 Holden Badge Best Man Cave Art. This artwork is the perfect addition to your Bar, She Shed, Garage, Workshop, Office, or Home Decor, showcasing the iconic FX Holden Australian Car Badge.
-  Updated: 2026-08-10T05:13:55Z
+  Updated: 2026-10-15T10:11:12Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-48-215-FX-General-Motors-Holden-GMH-Aussie-Car-Badge-Memorabilia-Collector-Best-Man-Cave-Art-Illustrated-Print.jpg?v=1672876920
   Price: $119.95 AUD
 - [Kangaroo Beach Decor Framed Wall Art Australia](https://geltchy.com.au/products/freddy-kangaroo-native-indigenous-australian-beach-bum-fine-art-home-decor-illustrated-wall-artwork-print): FREDDY Kangaroo Beach Art Australian Native Animal Illustration Home Decor Framed Fine Art Prints! Add a touch of Australiana to your home with these exquisite Kangaroo Illustration Beach Wall Art prints, showcasing the beauty of Australian native animals in a unique and captivating way.
-  Updated: 2026-08-10T05:14:29Z
+  Updated: 2026-10-15T10:11:12Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -186,7 +201,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-FREDDY-Kangaroo-Beach-Art-Australian-Native-Animal-Illustration-Home-Decor-Fine-Art-Prints.jpg?v=1673739850
     Price: $149.95 AUD
 - [FC Holden Man Cave Art Skull Artwork Cloud Prints](https://geltchy.com.au/products/clouded-fc-holden-special-street-machine-cloud-skull-skeleton-art-print): CLOUDED FC Holden Street Machine Car Art Tattoo Flash Skull Illustration Man Cave Artwork Fine Art Prints ready to accelerate across your favourite wall in your Man Cave, She Shed, Bar, Workshop, Office or Home.
-  Updated: 2026-08-10T05:16:06Z
+  Updated: 2026-10-15T10:11:12Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -200,7 +215,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-CLOUDED-FC-Holden-Street-Machine-Car-Art-Tattoo-Flash-Skull-Illustration-Man-Cave-Artwork-Fine-Art-Prints.jpg?v=1674802055
     Price: $149.95 AUD
 - [1952 BUICK WOODY Green Surf Wagon GCMM Classic Car Collector Fine Art Man Cave Illustrated Print](https://geltchy.com.au/products/1952-buick-woody-green-surf-wagon-gccm-classic-car-collector-fine-art-man-cave-illustrated-memorabilia-print): 1952 BUICK WOODY Green Surf Wagon Gold Coast Motor Museum Classic Car  Memorabilia Collector Fine Art Man Cave Vehicle Illustrated Artwork Print designed for Man Cave, Bar, Workshop, Office or Home. 52 Buick Green Woody Wagon with Longboard on display at the Gold Coast Motor Museum.
-  Updated: 2026-08-10T05:13:03Z
+  Updated: 2026-10-15T10:11:13Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -214,7 +229,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-GCMM-green-52-buick-woody-wagon-Framed-Artwork.jpg?v=1653208471
     Price: $249.95 AUD
 - [HQ GTS Monaro Pink Holden Street Machine Art Prints](https://geltchy.com.au/products/hq-gts-monaro-holden-street-machine-man-cave-auto-artwork-in-pink): Limited Edition HQ GTS Monaro Holden Art Print: Exclusive, Signed, and Numbered. Elevate your man cave with this rare, high-quality artwork by Mark Geltch. Free AU-wide shipping. Only 20 prints available!
-  Updated: 2026-08-10T05:15:02Z
+  Updated: 2026-10-15T10:11:13Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -228,7 +243,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HQ-GTS-Monaro-Holden-Street-Machine-Auto-Art-Man-Cave-Print-in-Pink.jpg?v=1719574321
     Price: $199.95 AUD
 - [HJ Holden Monaro GTS Street Machine Man Cave Art Print](https://geltchy.com.au/products/mandarin-red-hj-holden-monaro-gts-street-machine-fine-art-man-cave-aussie-muscle-automotive-vehicle-custom-car-car-memorabilia-artwork-print): HJ Holden Monaro GTS Mandarin Red Street Machine Fine Art Prints are the perfect addition to your Man Cave, Bar, Garage, She Shed, Workshop, Office, or Home Decor. These stunning illustrations capture the essence of the iconic HJ Holden GTS, showcasing its timeless beauty and V8 power.
-  Updated: 2026-08-10T05:14:49Z
+  Updated: 2026-10-15T10:11:13Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -242,7 +257,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HJ-Holden-Monaro-GTS-Mandarin-Red-Street-Machine-Illustrated-Fine-Art-Print.jpg?v=1715650116
     Price: $199.95 AUD
 - [DREAMING Man Cave Art FJ HOLDEN Beach Framed Print](https://geltchy.com.au/products/dreaming-man-cave-art-rusted-fj-holden-secluded-surfing-beach-australiana-framed-or-unframed-car-artwork-print): Discover the limited edition DREAMING FJ Holden Beach Framed Print. Perfect for man caves, home decor, and collectors. Australian-made, only 20 available!
-  Updated: 2026-08-10T05:14:56Z
+  Updated: 2026-10-15T10:11:14Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -256,7 +271,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-FJ-HOLDEN-Fine-Art-Print-Dreaming-Beach-Kangaroo-Australiana-Man-Cave-Artwork-Limited-Edition-Fine-Art-Print_51e1c880-3ccf-4cb8-a211-1225bc358e6c.jpg?v=1723341368
     Price: $244.95 AUD
 - [DAWN SERVICE ANZAC Australiana Man Cave Fine Art Print](https://geltchy.com.au/products/dawn-service-anzac-day-cenotaph-returned-serviceman-freedom-aint-free-graffiti-holden-ute-fine-art-man-cave-australiana-artwork-print): Honor ANZAC legacy with the DAWN SERVICE Australiana Fine Art Print. Limited edition, gallery-quality print on 285gsm archival matte paper. Available in A3 & A2 sizes with optional black wood frame. Only 20 prints with certificate of authenticity. Proudly Australian made. Perfect for your man cave.
-  Updated: 2026-08-10T05:14:29Z
+  Updated: 2026-10-15T10:11:14Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -270,7 +285,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/DAWN-SERVICE-ANZAC-Australiana-Man-Cave-Limited-Edition-Fine-Art-Print-by-Geltchy.jpg?v=1723343740
     Price: $149.95 AUD
 - [HJ HOLDEN UTE Slammed Street Machine Man Cave Art Print](https://geltchy.com.au/products/hj-holden-gmh-ute-kingswood-durham-beige-street-machine-fine-art-man-cave-car-print): HJ Holden Slammed GMH UTE Kingswood Durham Beige Street Machine Best Man Cave Auto Art Illustrated Print! This remarkable piece of artwork is the epitome of man cave decor, perfect for enthusiasts of Australian street machines. Perfect for your bar, she shed, garage, workshop, office, or home.
-  Updated: 2026-08-10T05:15:37Z
+  Updated: 2026-10-18T07:09:04Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -278,13 +293,13 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
   - [A3 Artwork Only](https://geltchy.com.au/products/hj-holden-gmh-ute-kingswood-durham-beige-street-machine-fine-art-man-cave-car-print?variant=42164563280041)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HJ-HOLDEN-UTE-Slammed-Street-Machine-Man-Cave-Art-Print.jpg?v=1715847172
-    Price: $149.95 AUD
+    Price: $99.95 AUD
   - [A2 Artwork Only](https://geltchy.com.au/products/hj-holden-gmh-ute-kingswood-durham-beige-street-machine-fine-art-man-cave-car-print?variant=42811417198761)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HJ-HOLDEN-UTE-Slammed-Street-Machine-Man-Cave-Art-Print.jpg?v=1715847172
-    Price: $199.95 AUD
+    Price: $149.95 AUD
 - [HOLDEN VE Custom Commodore Wagon Beach Fine Art Prints](https://geltchy.com.au/products/perry-red-slammed-gmh-holden-ve-commodore-wagon-v8-street-machine-coolum-beach-boardwalk-fine-art-man-cave-home-decor-australiana-artwork-print): PERRY RED Slammed Holden VE Commodore Custom Wagon V8 Street Machine Coolum Beach Boardwalk Home Decor Framed Art Prints! If you're in search of the very best beach wall art to elevate your living space, bar, she shed, garage, workshop, office, or man cave, look no further.
-  Updated: 2026-08-10T05:14:54Z
+  Updated: 2026-10-15T10:11:15Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -298,28 +313,28 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-PERRY-RED-Slammed-Holden-VE-Commodore-Custom-Wagon-V8-Street-Machine-Coolum-Beach-Boardwalk-Home-Decor-Art-Prints.jpg?v=1674346981
     Price: $149.95 AUD
 - [GTS HJ Holden Monaro Badge 15oz Coffee Mug Gift](https://geltchy.com.au/products/gts-hj-holden-monaro-badge-15oz-premium-coffee-mug): GTS HJ Holden Monaro badge 15oz coffee mug. Premium Australian‑made street machine gift for Holden fans, man caves and automotive art lovers.
-  Updated: 2026-06-24T09:40:59Z
+  Updated: 2026-10-15T10:11:15Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/GTSHJHoldenMonaroBadge15ozPremiumCoffeeMugbyGeltchy.jpg?v=1763277933
   Price: $21.95 AUD
 - [BAD DECISIONS Large Coffee Mugs](https://geltchy.com.au/products/bad-decisions-make-good-stories-typography-lettering-15oz-premium-coffee-mug-gift): The perfect coffee mug with the message - 'BAD DECISIONS MAKE GOOD STORIES.' Designed and made in Australia, this unique 15oz Old School Skull Typography Lettering Illustrated Coffee Mug is ideal for your best mate or dad. Dishwasher and microwave safe, it makes a legendary gift.
-  Updated: 2026-08-10T05:15:07Z
+  Updated: 2026-10-15T10:11:16Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-BAD-DECISIONS-MAKE-GOOD-STORIES-Large-15oz-Old-School-Skull-Typography-Lettering-Illustrated-Unique-Coffee-Mug-designed-and-made-in-Australia.jpg?v=1677708678
   Price: $19.95 AUD
 - [PINK HOLDEN HQ Monaro 15oz Large Coffee Mugs](https://geltchy.com.au/products/strike-me-pink-hq-gts-holden-monaro-street-machine-aussie-muscle-automotive-vehicle-15oz-premium-large-coffee-mug-gift): Celebrate Aussie muscle cars with our STRIKE ME PINK Holden HQ GTS Monaro 15oz Coffee Mug. Perfect for early Holden enthusiasts, this durable ceramic mug is dishwasher and microwave safe, and proudly designed in Australia. Ideal gift for car lovers.
-  Updated: 2026-08-10T05:09:46Z
+  Updated: 2026-10-15T10:11:16Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/STRIKE-ME-PINK-Holden-HQ-GTS-Monaro-Large-15oz-Slammed-Street-Machine-Auto-Art-Coffee-Mug-by-Geltchy.jpg?v=1719622089
   Price: $21.95 AUD
 - [1957 Chevrolet Street Machine Man Cave Art Framed Prints](https://geltchy.com.au/products/1957-chevrolet-bel-air-red-street-machine-usa-classic-fine-art-man-cave-illustrated-car-artwork-print): 1957 Chevrolet Bel Air Red Street Machine Illustrated Drawing Fine Art Prints Framed Artwork For . Hand Drawn Illustrated Auto Art numbered professional art prints suitable for your Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:15:41Z
+  Updated: 2026-10-15T10:11:17Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -333,7 +348,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-1957-Chevrolet-Bel-Air-Red-Street-Machine-Illustrated-Drawing-Fine-Art-Prints-Car-Artwork-For-.jpg?v=1683667952
     Price: $199.95 AUD
 - [VK HOLDEN COMMODORE GROUP A SS Man Cave Art Print](https://geltchy.com.au/products/vk-holden-commodore-group-a-ss-peter-brock-blue-meanie-gmh-hdt-car-artwork-automotive-print): BLUE MEANIE. The iconic Formula Blue Australian Classic Collectable Peter Brock SS Commodore Street Machine Car, this masterpiece captures the essence of Australian automotive history. With only 20 numbered prints available, you can be sure that you'll own a truly unique piece of art.
-  Updated: 2026-08-10T05:15:25Z
+  Updated: 2026-10-15T10:11:17Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -347,14 +362,14 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/VK-HOLDEN-COMMODORE-GROUP-A-SS-Man-Cave-Art-Print-by-Geltchy.jpg?v=1723415084
     Price: $199.95 AUD
 - [VK COMMODORE GROUP A SS Large Coffee Mugs](https://geltchy.com.au/products/group-a-ss-peter-brock-gmh-hdt-vk-commodore-car-illustrated-15oz-premium-coffee-mug-gift): GROUP A SS Peter Brock GMH HDT VK Commodore Car Illustrated 15oz V8 Street Machine Auto Art Unique Car Coffee Mug is a must-have for car enthusiasts and collectors. Our Holden Car Mugs are ideal for any car lover in your life. Whether they're a fan of Peter Brock or GMH this mug is sure to impress.
-  Updated: 2026-08-10T05:13:37Z
+  Updated: 2026-10-15T10:11:18Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-GROUP-A-SS-Peter-Brock-GMH-HDT-VK-Commodore-Car-Illustrated-15oz-V8-Street-Machine-Auto-Art-Unique-Car-Coffee-Mug-designed-and-made-in-Australia.jpg?v=1677835750
   Price: $19.95 AUD
 - [1953 FJ Holden GMH Badge Man Cave Art Framed Print](https://geltchy.com.au/products/1953-fj-holden-australian-car-badge-fine-art-memorabilia-collector-man-cave-home-decor-illustrated-car-print): 1953 FJ ﻿General Motors Holden GMH Aussie Car Badge Memorabilia Collector Garage Man Cave Art Fine Art Prints For . Numbered professional art prints suitable for your Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:14:54Z
+  Updated: 2026-10-15T10:11:18Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -368,7 +383,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-1953-FJ-General-Motors-Holden-GMH-Aussie-Car-Badge-Memorabilia-Collector-Garage-Man-Cave-Art-Fine-Art-Prints-For-.jpg?v=1673388131
     Price: $99.95 AUD
 - [FOX 1 Running On Empty Movie Man Cave Art Print](https://geltchy.com.au/products/running-on-empty-fox-1-dodge-challenger-r-t-40yr-anniversary-art-print): FOX 1 Running On Empty Film Car Movie 1970 Dodge Challenger R/T Street Machine Fine Art Prints Framed Artwork For . Pay homage to the Australian cult car film RUNNING ON EMPTY celebrating 40 years with these auto artwork limited edition numbered wall art prints.
-  Updated: 2026-08-10T05:14:44Z
+  Updated: 2026-10-15T10:11:18Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -382,7 +397,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-FOX-1-Running-On-Empty-Film-Car-Movie-1970-Dodge-Challenger-RT-Street-Machine-Fine-Art-Prints-Auto-Artwork.jpg?v=1675635405
     Price: $199.95 AUD
 - [BLOWN 57 Running On Empty Movie Man Cave Art Print](https://geltchy.com.au/products/running-on-empty-blown-57-chev-40yr-anniversary-illustrated-art-print): Capture the essence of the iconic Australian action film 'Running On Empty' with BLOWN 57 Fine Art Prints. Limited edition numbered prints celebrating 40 years of the cult classic. Shop now for exclusive wall art for your Aussie Man Cave!
-  Updated: 2026-08-10T05:14:44Z
+  Updated: 2026-10-15T10:11:19Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -395,36 +410,29 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-BLOWN-57-Running-On-Empty-Film-Car-Movie-1957-Black-Chevrolet-Bel-Air-Street-Machine-Fine-Art-Prints-Illustrated-Artwork-For-.jpg?v=1714630754
     Price: $199.95 AUD
-- [BAD DECISIONS Skull Bar Runner Man Cave Mat](https://geltchy.com.au/products/bad-decisions-bar-runner-make-good-stories-man-cave-barware-mat): BAD DECISIONS MAKE GOOD STORIES Skull Bar Runner Mat - a unique and edgy addition to your bar decor. Proudly Australian-made, this 890mm x 240mm bar mat features lowbrow garage artwork, an ultra-absorbent felt top, and non-slip rubber backing. Protect your surfaces in style. FREE POSTAGE available. Don't miss out!"
-  Updated: 2026-08-10T05:14:41Z
-  Vendor: Geltchy
-  Product Type: Bar Runner Mat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-BAD-DECISIONS-MAKE-GOOD-STORIES-Bar-Runner-Mat-Australian-Old-School-Skull-Typography-Lettering-Barware-Gift.jpg?v=1664835616
-  Price: $59.95 AUD
 - [HOLDEN Rusty Kingswood Large Coffee Mugs](https://geltchy.com.au/products/rusty-holden-hq-slammed-rat-rod-street-machine-aussie-muscle-automotive-vehicle-15oz-premium-large-car-coffee-mug): COOLTOWN HQ RUSTY Holden Kingswood Large 15oz Slammed Rat Rod Patina Street Machine Unique Auto Art Coffee Mug designed and made in Australia. Makes a perfect gift for the Old School Holden enthusiast with a bit of attitude.
-  Updated: 2026-08-10T05:16:41Z
+  Updated: 2026-10-15T10:11:21Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-COOLTOWN-HQ-RUSTY-Holden-Kingswood-Large-15oz-Slammed-Rat-Rod-Patina-Street-Machine-Coffee-Mug-Unique-Coffee-Mug-designed-and-made-in-Australia.jpg?v=1677737131
   Price: $19.95 AUD
 - [48-215 FX Holden GMH Badge Car Collector Coffee Mug Gift](https://geltchy.com.au/products/48-215-fx-holden-gmh-badge-car-collector-coffee-mug-gift): Don't miss out on this opportunity to own a piece of Australian automotive history. Order your 48-215 FX Holden GMH Car Badge Street Machine Australian Classic Car Illustrated 15oz Collector Coffee Mug today and savour your coffee in style.
-  Updated: 2026-08-10T05:14:43Z
+  Updated: 2026-10-18T07:08:01Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-48-215-FX-Holden-GMH-Car-Badge-Street-Machine-Australian-Classic-Car-Illustrated-15oz-Collector-Coffee-Mugs.jpg?v=1686693991
   Price: $19.95 AUD
 - [FJ Holden GMH Badge Car Collector Coffee Mug Gift](https://geltchy.com.au/products/fj-holden-gmh-car-badge-street-machine-australian-classic-car-illustrated-15oz-collector-coffee-mugs): FJ Holden GMH Car Badge Street Machine Australian Classic Car Illustrated 15oz Collector Coffee Mugs. The GMH Badge Coffee Cup is a personalized Gift for the Old School Aussie Early Holden Street Machine Classic Car Enthusiast.
-  Updated: 2026-08-10T05:15:41Z
+  Updated: 2026-10-18T07:15:06Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-FJ-Holden-GMH-Car-Badge-Street-Machine-Australian-Classic-Car-Illustrated-15oz-Collector-Coffee-Mugs.jpg?v=1669763013
   Price: $19.95 AUD
 - [Flying Eye Kustom Kulture Man Cave Art Framed Print](https://geltchy.com.au/products/flying-eye-kustom-kulture-man-cave-art-framed-print): The Flying Eyeball Rat Rod Lowbrow Kustom Kulture Hot Rod Flames Best Man Cave Art Illustrated Framed Print will get your mates talking in your Man Cave, Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:15:33Z
+  Updated: 2026-10-15T10:11:22Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -438,7 +446,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-Flying-Eyeball-Rat-Rod-Lowbrow-Kustom-Kulture-Hot-Rod-Flames-Best-Man-Cave-Art-Illustrated-Artwork-Print.jpg?v=1673219771
     Price: $99.95 AUD
 - [SHAKA Hand Tattoo Art Prints For ](https://geltchy.com.au/products/shaka-hand-tattoo-art-prints-for-): Let the Goodvibes Roll with this Illustrated Skeleton Shaka Hand Lowbrow Tattoo Flash Artwork. The limited edition art prints will get the beers flowing and your mates talking in your Man Cave, Bar, She Shed, Garage, Workshop, Office or Home Decor.
-  Updated: 2026-08-10T05:13:37Z
+  Updated: 2026-10-15T10:11:22Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -452,7 +460,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-GOODVIBES-Skeleton-Hangloose-Skeleton-Hand-Tattoo-Artwork-Illustrated-Fine-Art-Print.jpg?v=1673910543
     Price: $149.95 AUD
 - [VK Commodore Group A SS Tin Sign | Custom A3/A4](https://geltchy.com.au/products/vk-commodore-group-a-ss-tin-sign-custom-a3-a4): Shop the VK Commodore Group A SS tin sign in A4/A3. Custom paint & interior option available. Ready to hang. Ships Australia-wide.
-  Updated: 2026-07-25T06:26:56Z
+  Updated: 2026-10-15T10:11:23Z
   Vendor: Geltchy
   Product Type: Tin Sign Giftware
   Availability: Available
@@ -474,7 +482,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/vk-commodore-group-a-ss-tin-sign-peter-brock-blue-meanie-a3-a4.jpg?v=1783840589
     Price: $79.95 AUD
 - [Holden Kingswood Ute Number Plate Sign (AU Made)](https://geltchy.com.au/products/holden-kingswood-ute-number-plate-sign-cotillion-white): Holden Kingswood Ute Number Plate Sign in Cotillion White. AU made 1mm aluminium, UV printed, ready to hang. Display only—shop now.
-  Updated: 2026-06-24T09:41:04Z
+  Updated: 2026-10-16T14:57:14Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
@@ -488,7 +496,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/holden-kingswood-ute-number-plate-sign-custom-colour-wheels.jpg?v=1780131815
     Price: $66.95 AUD
 - [HOLDEN Commodore Atomic Green Auto Art Man Cave Artwork](https://geltchy.com.au/products/holden-commodore-slammed-atomic-green-wagon-auto-art-man-cave-artwork): Elevate your space with the exclusive HOLDEN VE Commodore Slammed Atomic Green Custom Wagon V8 Street Machine Auto Art Man Cave Artwork. Limited edition prints on archival paper, proudly Australian made. Free postage Australia wide!
-  Updated: 2026-08-10T05:15:25Z
+  Updated: 2026-10-15T10:11:25Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -502,7 +510,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HOLDEN-Commodore-Slammed-Atomic-Green-Wagon-Auto-Art-Man-Cave-Artwork-Print.jpg?v=1710031088
     Price: $199.95 AUD
 - [VE Commodore Wagon Mug Sting Red 15oz | Geltchy](https://geltchy.com.au/products/ve-commodore-wagon-mug-sting-red-15oz): VE Commodore wagon mug in Sting Red, 15oz Australian-made ceramic. Limited edition, dishwasher safe—perfect Holden gift. Shop now.
-  Updated: 2026-06-24T09:41:05Z
+  Updated: 2026-10-15T10:11:26Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
@@ -516,14 +524,14 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/ve-commodore-wagon-mug-sting-red-15oz-geltchy.jpg?v=1780743576
     Price: $39.95 AUD
 - [WHITE HOLDEN Kingswood Ute Large Coffee Mugs](https://geltchy.com.au/products/white-holden-kingswood-ute-large-coffee-mugs): COTILLION WHITE Holden HJ Kingswood Ute Large 15oz Slammed Street Machine Unique Aussie Auto Art Coffee Mug designed and made in Australia. The large 15oz Mug is perfect as unique gift for the Early Holden Enthusiast, great for your next Cars and Coffee Meet.
-  Updated: 2026-08-10T05:14:47Z
+  Updated: 2026-10-15T10:11:26Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-COTILLION-WHITE-Holden-HJ-Kingswood-Ute-Large-15oz-Slammed-Street-Machine-Unique-Aussie-Auto-Art-Coffee-Mug-designed-and-made-in-Australia.jpg?v=1677820768
   Price: $19.95 AUD
 - [PINK HOLDEN HQ Monaro Aussie Number Plate](https://geltchy.com.au/products/pink-holden-hq-monaro-novelty-number-plate-license-plate): STRIKE ME PINK Holden HQ GTS Monaro Number Plate. Slammed Aussie Muscle Car. This Unique Auto Art Man Cave Novelty License Plate is proudly designed and made in Australia. Suitable for a variety of settings, including your Man Cave, She Shed, Bar, Pool Room, Cafe, Garage, Workshop, Store, or even as home decor.
-  Updated: 2026-08-10T05:09:55Z
+  Updated: 2026-10-15T10:11:27Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
@@ -537,7 +545,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-PINK-HOLDEN-HQ-Monaro-Aussie-Number-Plate-Novelty-License-Plate_a21216a1-6afe-4e59-aa9f-c849c482cb53.jpg?v=1719565767
     Price: $66.95 AUD
 - [FB HOLDEN Special Slammed Street Machine Man Cave Art Print](https://geltchy.com.au/products/fb-holden-special-slammed-street-machine-man-cave-art-print-for--australia-qld-nsw-act-vic-tas-sa-wa-nt): Transform your space with the FB HOLDEN Special Slammed 1961 GMH Sedan Satellite Yellow Street Machine Man Cave Illustrated Auto Artwork. Limited to 20 numbered prints, this Australian-made masterpiece celebrates automotive excellence. Perfect for Man Caves, She Sheds, and more.
-  Updated: 2026-08-10T05:15:41Z
+  Updated: 2026-10-15T10:11:27Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -551,7 +559,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-FB-HOLDEN-Special-Slammed-1961-GMH-Sedan-Satellite-Yellow-Street-Machine-Illustrated-Man-Cave-Auto-Artwork.jpg?v=1715151571
     Price: $199.95 AUD
 - [FB Holden Number Plate Sign - Apache Red Metal](https://geltchy.com.au/products/fb-holden-number-plate-sign-apache-red): FB Holden number plate sign in Apache Red. Premium aluminium man cave wall decor. Custom option available. Free shipping Australia-wide.
-  Updated: 2026-07-29T16:59:56Z
+  Updated: 2026-10-15T10:11:27Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
@@ -565,21 +573,21 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/fb-holden-number-plate-sign-apache-red-aluminium-man-cave-wall-decor.jpg?v=1784855652
     Price: $66.95 AUD
 - [FB HOLDEN Special Large Coffee Mugs](https://geltchy.com.au/products/fb-holden-special-large-coffee-mugs-australian-car-memorabilia-gift-qld-nsw-act-vic-tas-sa-wa-nt): FB HOLDEN Special Large 15oz Slammed 1961 GMH Apache Red Sedan Street Machine Unique Auto Art Coffee Mug designed and made in Australia. Makes a perfect gift for the Old School Holden enthusiast that loves an Aussie Classic.
-  Updated: 2026-08-10T05:14:46Z
+  Updated: 2026-10-15T10:11:28Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/products/Geltchy-FB-HOLDEN-Special-Large-15oz-Slammed-1961-GMH-Apache-Red-Sedan-Street-Machine-Unique-Auto-Art-Coffee-Mug-designed-and-made-in-Australia.jpg?v=1679698749
   Price: $19.95 AUD
 - [BEACH BAR Flamingo Novelty Aussie Number Plate Sign](https://geltchy.com.au/products/beach-bar-flamingo-novelty-license-plate-sign-barware-giftware-australia-qld-nsw-vic-act-tas-sa-nt-wa): Transform your space with our Beach Bar Flamingo Novelty Aluminium Aussie Number Plate Sign! Featuring unique artwork by Mark Geltch, this durable sign adds a tropical touch to any room. Proudly made in Australia.
-  Updated: 2026-08-10T05:15:53Z
+  Updated: 2026-10-15T10:11:29Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-BEACH-BAR-Flamingo-Tiki-Kustom-Kulture-Aussie-Number-Plate-Sign.jpg?v=1708043982
   Price: $26.95 AUD
 - [T-SHIRT Black Mens Wing Chun Kung Fu](https://geltchy.com.au/products/t-shirt-black-mens-wing-chun-kung-fu-free-shipping-australia-wide): Coolum Wing Chun Mens Black Regular Fit Kung Fu T-Shirt. features a classic fit that offers ample room without compromising on style. Whether you're training, running errands, this versatile t-shirt will complement any outfit effortlessly.
-  Updated: 2026-08-10T05:15:43Z
+  Updated: 2026-10-15T10:11:29Z
   Vendor: Coolum Wing Chun
   Product Type: T-Shirt
   Availability: Available
@@ -605,7 +613,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Coolum-Wing-Chun-Mens-Black-Regular-Fit-Kung-Fu-T-Shirt.jpg?v=1683417529
     Price: $49.95 AUD
 - [T-SHIRT Black Kids Wing Chun Kung Fu](https://geltchy.com.au/products/t-shirt-black-kids-wing-chun-kung-fu-free-shipping-australia-wide): Coolum Wing Chun Kids Black Regular Fit Kung Fu T-Shirt. features a classic fit that offers ample room without compromising on style. Whether you're training or playing, this versatile t-shirt will complement any outfit effortlessly.
-  Updated: 2026-08-10T05:16:51Z
+  Updated: 2026-10-15T10:11:29Z
   Vendor: Coolum Wing Chun
   Product Type: T-Shirt
   Availability: Available
@@ -631,7 +639,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Coolum-Wing-Chun-Mens-Black-Regular-Fit-Kung-Fu-T-Shirt_501e1662-cb2d-4089-bf6d-417f2316023e.jpg?v=1683419552
     Price: $44.95 AUD
 - [T-SHIRT Black Womens Wing Chun Kung Fu](https://geltchy.com.au/products/t-shirt-black-womens-wing-chun-kung-fu-free-shipping-australia-wide): Coolum Wing Chun Womens Black Regular Fit Kung Fu T-Shirt. features a classic fit that offers ample room without compromising on style. Whether you're training or playing, this versatile t-shirt will complement any outfit effortlessly.
-  Updated: 2026-08-10T05:13:42Z
+  Updated: 2026-10-15T10:11:30Z
   Vendor: Coolum Wing Chun
   Product Type: T-Shirt
   Availability: Available
@@ -661,14 +669,14 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Coolum-Wing-Chun-Womens-Black-Regular-Fit-Kung-Fu-T-Shirt-Front.jpg?v=1683437659
     Price: $49.95 AUD
 - [HQ Holden Kingswood Aussie Number Plate License Plate](https://geltchy.com.au/products/hq-holden-kingswood-number-plate-license-plate): HQ Holden Kingswood Number Plate License Plate – a must-have for automotive enthusiasts and lovers of classic cars. With its rustic patina and attention to detail, this unique license plate brings nostalgia and character to any space. Hang it in your Man Cave, She Shed, Bar, or showcase it at shows and meetings.
-  Updated: 2026-08-10T05:14:38Z
+  Updated: 2026-10-16T15:25:42Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-HQ-Holden-Kingswood-Aussie-Number-Plate-License-Plate.jpg?v=1707997999
   Price: $26.95 AUD
 - [MY JOB IS Mens Hi Vis Polo Tradie Work Shirt](https://geltchy.com.au/products/mens-hi-vis-polo-tradie-work-shirt-my-job-is-to-fix-fck-ups): LIFE STRIFE - MY JOB IS TO FIX F*CK UPS Work Shirt is a vibrant and humorous addition to your workwear collection. This mens orange hi-vis polo shirt is designed to keep you visible and comfortable while adding a touch of fun to your workday.
-  Updated: 2026-08-10T05:15:08Z
+  Updated: 2026-10-15T10:11:30Z
   Vendor: Life Strife
   Product Type: Shirts
   Availability: Available
@@ -698,7 +706,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-MY-JOB-IS-TO-FIX-FCK-UPS-Work-Shirt-a-vibrant-and-humorous-addition-to-your-workwear-collection.jpg?v=1684737108
     Price: $34.95 AUD
 - [Mens Track Pants Black Wing Chun Kung Fu](https://geltchy.com.au/products/mens-track-pants-black-wing-chun-kung-fu): Coolum Wing Chun Men's Black Regular Fit Kung Fu Premium Track Pants. Designed for ultimate comfort and style. Whether you're practicing martial arts or simply lounging around, these track pants offer the perfect blend of functionality and fashion. A must-have for any martial arts enthusiast.
-  Updated: 2026-08-10T05:15:53Z
+  Updated: 2026-10-15T10:11:31Z
   Vendor: Coolum Wing Chun
   Product Type: Track Pants
   Availability: Available
@@ -728,7 +736,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Coolum-Wing-Chun-Men_s-Black-Regular-Fit-Kung-Fu-Premium-Track-Pants-Designed-for-ultimate-comfort-and-style.jpg?v=1685315750
     Price: $86.45 AUD
 - [Grumpy Old Bastard Funny Humour Sticker](https://geltchy.com.au/products/grumpy-old-bastard-funny-humour-sticker): WARNING Grumpy Old Bastard Sticker, the ultimate UV DTF decal for those with a sense of humour and a grumpy disposition. Embrace your inner grump and spread some laughter with the WARNING Grumpy Old Bastard Sticker. Place your order today and let your surroundings reflect your unique sense of humour and personality.
-  Updated: 2026-06-24T09:41:08Z
+  Updated: 2026-10-15T10:11:31Z
   Vendor: Geltchy
   Product Type: Sticker
   Availability: Available
@@ -742,21 +750,21 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/WARNING-Grumpy-Old-Bastard-UV-DTF-Yellow-Sticker-Make-a-Statement-with-Humour.jpg?v=1723112721
     Price: $6.95 AUD
 - [Fix F#ck Ups 15oz Novelty Mug | LIFE STRIFE Australia](https://geltchy.com.au/products/life-strife-fix-fck-ups-15oz-novelty-coffee-mug-tradie-gift-australian-made): LIFE STRIFE 15oz Novelty Coffee Mug - My Job Is To Fix F#ck Ups. Australian made tradie gift. Dishwasher safe. Free shipping over $75.
-  Updated: 2026-06-24T09:41:08Z
+  Updated: 2026-10-15T10:11:31Z
   Vendor: Life Strife
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-My-Job-Fix-Fck-Ups-15oz-Novelty-Coffee-Mug-Australian-Made_9c86e5c9-437a-4c0a-adea-6035a3a61db7.jpg?v=1760430436
   Price: $19.95 AUD
 - [Holden GTS 1974 Aluminium Number Plate Sign | Geltchy](https://geltchy.com.au/products/holden-gts-1974-premium-aluminium-number-plate-sign-man-cave-decor): Premium Holden GTS 1974 aluminium number plate sign. Hand-illustrated, 1mm thick, outdoor suitable. Australian made. Free shipping over $75.
-  Updated: 2026-06-24T09:41:09Z
+  Updated: 2026-10-15T10:11:31Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/GTS-Badge-Number-Plate.jpg?v=1752141760
   Price: $26.95 AUD
 - [JUST SEND IT Mens Hi Vis Polo Tradie Work Shirt](https://geltchy.com.au/products/just-send-it-mens-hi-vis-polo-tradie-work-shirt): LIFE STRIFE - JUST SEND IT Work Shirt is a vibrant and humorous addition to your workwear collection. This mens orange hi-vis polo shirt is designed to keep you visible and comfortable while adding a touch of fun to your workday.
-  Updated: 2026-08-10T05:15:08Z
+  Updated: 2026-10-15T10:11:32Z
   Vendor: Life Strife
   Product Type: Shirts
   Availability: Available
@@ -786,7 +794,7 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-JUST-SEND-IT-Mens-Hi-Vis-Polo-Tradie-Work-Shirt-a-vibrant-and-humorous-addition-to-your-workwear-collection.jpg?v=1686186981
     Price: $34.95 AUD
 - [HOLDEN KINGSWOOD Beige Large Coffee Mugs](https://geltchy.com.au/products/holden-kingswood-badge-durham-beige-background-large-coffee-mugs): HOLDEN Kingswood Badge Large 15oz Unique Aussie Automotive Memorabilia Coffee Mug on Durham Beige Background! The ultimate gift for any early Holden enthusiast, making it a perfect choice for any occasion. Perfect for Cars and Coffee meets, allowing you to proudly display your passion for classic Australian cars.
-  Updated: 2026-08-10T05:14:32Z
+  Updated: 2026-10-15T10:11:32Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
@@ -794,14 +802,14 @@ The BoardCarry is lightweight, convenient to carry, and is designed to carry up 
   Price: $19.95 AUD
 - [48-215 OLDIE Novelty Aussie Number Plate Man Cave Sign](https://geltchy.com.au/products/48-215-oldie-novelty-number-plate-man-cave-sign): 48-215 (FX) Holden OLDIE Novelty Aussie Number Plate Man Cave Sign License Plate.
 A stunning novelty license plate that will elevate the aesthetic of your Man Cave, She Shed, Bar, Pool Room, Cafe, Garage, Workshop, Store, or any space in your home, making it a fantastic addition for enthusiasts and collectors alike.
-  Updated: 2026-08-10T05:13:42Z
+  Updated: 2026-10-15T10:11:32Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-48-215-OLDIE-Novelty-Aussie-Number-Plate-Man-Cave-Sign.jpg?v=1707969663
   Price: $24.95 AUD
 - [SUPERVISOR Mens Hi Vis Polo Tradie Work Shirt](https://geltchy.com.au/products/supervisor-of-the-shit-show-mens-hi-vis-polo-tradie-work-shirt): LIFE STRIFE - SUPERVISOR OF THE SHIT SHOW Men's Hi Vis Polo Tradie Work Shirt is a vibrant and humorous addition to your workwear collection. This men's orange hi-vis polo shirt is designed to keep you visible and comfortable while adding a touch of fun to your workday.
-  Updated: 2026-08-10T05:15:41Z
+  Updated: 2026-10-15T10:11:33Z
   Vendor: Life Strife
   Product Type: Shirts
   Availability: Available
@@ -831,14 +839,14 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-SUPERVISOR-OF-THE-SHIT-SHOW-Men_s-Hi-Vis-Polo-Tradie-Work-Shirt.jpg?v=1686874464
     Price: $34.95 AUD
 - [SUPERVISOR of the SHIT SHOW Large Novelty Coffee Mugs](https://geltchy.com.au/products/life-strife-supervisor-of-the-shit-show-large-novelty-coffee-mugs): SUPERVISOR OF THE SHIT SHOW Large 15oz Hi-Vis Orange Novelty Coffee Mug. Not only a conversation starter but also a great way to connect with fellow tradies and mates, sharing jokes and creating a sense of camaraderie. Embrace the humour and share a laugh with others who appreciate the absurdity of everyday life.
-  Updated: 2026-06-24T09:41:09Z
+  Updated: 2026-10-15T10:11:33Z
   Vendor: Life Strife
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-SUPERVISOR-OF-THE-SHIT-SHOW-Large-15oz-Hi-Vis-Orange-Novelty-Coffee-Mug.jpg?v=1686902169
   Price: $19.95 AUD
 - [GRUMPY OLD TRADIE Mens Hi Vis Polo Tradie Work Shirt](https://geltchy.com.au/products/grumpy-old-tradie-mens-hi-vis-polo-tradie-work-shirt): Stay safe and stand out with our LIFE STRIFE - GRUMPY OLD TRADIE Men's Hi Vis Polo Tradie Work Shirt. Designed in Australia, this orange hi-vis polo adds humour and personality to your workwear while ensuring high visibility on the job site. Made from 100% Polyester for comfort and durability. Get yours now!
-  Updated: 2026-08-10T05:15:07Z
+  Updated: 2026-10-15T10:11:34Z
   Vendor: Life Strife
   Product Type: Shirts
   Availability: Available
@@ -868,7 +876,7 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-GRUMPY-OLD-TRADIE-Mens-Orange-Hi-Vis-Polo-Tradie-Work-Shirt.jpg?v=1689921751
     Price: $29.95 AUD
 - [RED HOLDEN HQ GTS Monaro Aussie Number Plate Man Cave Sign](https://geltchy.com.au/products/red-holden-hq-gts-monaro-number-plate-license-plate): Elevate your space with the iconic Salamanca Red Holden HQ GTS Monaro Number Plate. Expertly designed and proudly crafted in Australia, this unique auto art piece captures the essence of Aussie muscle culture. Perfect for Man Caves, Bars, Garages, and more. Own a slice of automotive history today!
-  Updated: 2026-08-10T05:14:32Z
+  Updated: 2026-10-15T10:11:35Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
@@ -882,42 +890,42 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Red-Holden-HQ-GTS-Monaro-Number-Plate-Unique-Auto-Art-Man-Cave-Novelty-License-Plate-is-more-than-just-a-decoration-it_s-a-statement.jpg?v=1710898279
     Price: $66.95 AUD
 - [Monaro Number Plate – HOLDEN Badge Tin Sign Man Cave Decor](https://geltchy.com.au/products/monaro-number-plate-holden-tin-sign-man-cave-decor-limited-edition): Monaro Number Plate tin sign – HOLDEN badge, limited edition. Perfect man cave decor. Free AU shipping. Own a piece of Aussie muscle car history!
-  Updated: 2026-06-24T09:41:11Z
+  Updated: 2026-10-15T10:11:35Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/monaro-number-plate-holden-badge-tin-sign-man-cave.jpg?v=1772279933
   Price: $26.95 AUD
 - [RED HOLDEN HQ GTS Monaro Large Coffee Mug](https://geltchy.com.au/products/red-holden-hq-gts-monaro-large-coffee-mug): Premium GTS HQ Holden Monaro badge 15oz coffee mug. Australian made, hand‑illustrated automotive art – perfect gift for Holden and street machine fans.
-  Updated: 2026-08-10T05:14:47Z
+  Updated: 2026-10-15T10:11:35Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/HOLDEN-HQ-GTS-Salamanca-Red-Monaro-Large-Coffee-Mug-by-Geltchy.jpg?v=1719788469
   Price: $21.95 AUD
 - [RED HOLDEN Monaro Badge Large 15oz Coffee Mug](https://geltchy.com.au/products/red-holden-monaro-badge-large-15oz-coffee-mug): Discover the essence of Australian automotive heritage with our RED HOLDEN Monaro Badge Coffee Mug. Meticulously crafted, this 15oz porcelain masterpiece pays tribute to the iconic Monaro Badge, capturing every detail. Designed and made in Australia. Fast shipping is available. Indulge in automotive nostalgia today!
-  Updated: 2026-08-10T05:16:41Z
+  Updated: 2026-10-15T10:11:36Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-RED-HOLDEN-Monaro-Badge-Large-15oz-Porcelain-Coffee-Mug-a-true-masterpiece-for-Holden-Monaro-enthusiasts-and-admirers-of-automotive-greatness.jpg?v=1693264209
   Price: $19.95 AUD
 - [SUPERVISOR Life Strife Man Cave Sign](https://geltchy.com.au/products/supervisor-life-strife-man-cave-sign): Elevate your space with the "Supervisor of the Shit Show" tin sign. Designed in Australia, this unique man cave giftware adds humour to workplace mishaps. Perfect for tradies and 4WD enthusiasts. Shop now and support Australian craftsmanship!
-  Updated: 2026-06-24T09:41:11Z
+  Updated: 2026-10-15T10:11:36Z
   Vendor: Life Strife
   Product Type: Tin Sign Giftware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-SUPERVISOR-OF-THE-SHITSHOW-Unique-Australian-Man-Cave-Aluminium-Tin-Sign-Giftware-by-LIFE-STRIFE-a-whimsical-tribute-to-the-mishaps-and-everyday-frustrations-we-encounter-in-t.jpg?v=1693305971
   Price: $19.95 AUD
 - [HOLDEN Yellow Devil Monaro Badge Large 15oz Coffee Mug](https://geltchy.com.au/products/holden-yellow-devil-monaro-badge-large-15oz-coffee-mug): Elevate your morning with the iconic V2 - VZ DEVIL YELLOW HOLDEN Monaro Badge Large 15oz Porcelain Coffee Mug. Relish the automotive brilliance of the 2001-2006 Monaro Badge meticulously recreated on this exceptional mug. Crafted in Australia, it's a tribute to precision and heritage. Fast delivery. Order now!
-  Updated: 2026-08-10T05:14:47Z
+  Updated: 2026-10-15T10:11:36Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-V2-VZ-DEVIL-YELLOW-HOLDEN-Monaro-Badge-Large-15oz-Porcelain-Coffee-Mug.jpg?v=1693347870
   Price: $19.95 AUD
 - [Custom Car Artwork – Personalised Fine Art Print Australia](https://geltchy.com.au/products/custom-car-artwork-personalised-fine-art-print-vehicle-illustration-australia): Personalised custom car artwork by Mark Geltch. Unique fine art prints, perfect gift for car lovers. Order your bespoke vehicle illustration now!
-  Updated: 2026-06-24T09:41:12Z
+  Updated: 2026-10-15T10:11:37Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -939,7 +947,7 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/custom-car-artwork-front-view-hq-holden-premier-chris-fitzhenry.jpg?v=1767932446
     Price: $399.95 AUD
 - [EK Holden Custom 1962 Hot Rod Aussie Number Plate](https://geltchy.com.au/products/ek-holden-custom-1962-hot-rod-australiana-number-plate): Discover the ultimate collector's piece - a custom EK Holden Slammed 1962 Hot Rod Australiana Number Plate featuring Mark Geltch's iconic artwork. Perfect for your Man Cave or automotive-themed decor. Proudly crafted in Australia. (Not for road use.)
-  Updated: 2026-08-10T05:15:05Z
+  Updated: 2026-10-15T10:11:37Z
   Vendor: Geltchy
   Product Type: Number Plate
   Availability: Available
@@ -953,21 +961,21 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-EK-Holden-Custom-1962-Hot-Rod-Aussie-Number-Plate_aa3b8fb0-2a91-4044-b3b0-e740ff8f8f84.jpg?v=1719706609
     Price: $66.95 AUD
 - [EK HOLDEN 1962 Purple Hot Rod Coffee Mug - Australian-Made Auto Art](https://geltchy.com.au/products/ek-holden-slammed-1962-gmh-purple-hot-rod-coffee-mug-australian-made-auto-art): FB HOLDEN Special Large 15oz Slammed 1961 GMH Apache Red Sedan Street Machine Unique Auto Art Coffee Mug designed and made in Australia. Makes a perfect gift for the Old School Holden enthusiast that loves an Aussie Classic.
-  Updated: 2026-08-10T05:13:37Z
+  Updated: 2026-10-15T10:11:37Z
   Vendor: Geltchy
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-EK-HOLDEN-Slammed-1962-GMH-Purple-Custom-Hot-Rod-Wagon-with-Flames-Australiana-Street-Machine-Unique-Auto-Art-Coffee-Mug.jpg?v=1694563999
   Price: $19.95 AUD
 - [Ain't Got TIME Life Strife Man Cave Sign](https://geltchy.com.au/products/aint-got-time-life-strife-man-cave-sign): Enhance your man cave decor with our hilarious Unique Australian Man Cave Aluminium Tin Sign by LIFE STRIFE. It features Aussie wit and is perfect for those seeking funny man cave signs and personalized decor. Proudly crafted in Australia, hang it in your man cave or office today!
-  Updated: 2026-06-24T09:41:12Z
+  Updated: 2026-10-15T10:11:38Z
   Vendor: Life Strife
   Product Type: Tin Sign Giftware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-Aint-Got-No-Time-For-Your-BULLSHIT-Today-Unique-Australian-Man-Cave-Aluminium-Tin-Sign.jpg?v=1694920753
   Price: $19.95 AUD
 - [EK HOLDEN Purple Custom Hot Rod Man Cave Art Print](https://geltchy.com.au/products/ek-holden-purple-custom-hot-rod-man-cave-art-print-free-shipping-australia-wide): Transform your man cave with our limited-edition EK HOLDEN Purple Custom Hot Rod Art Print. Elevate your space with this exclusive Kustom Kulture masterpiece, proudly Australian-made. Choose from A3 or A2 sizes and optional black wood frames. Rev up your decor today!
-  Updated: 2026-08-10T05:14:46Z
+  Updated: 2026-10-15T10:11:38Z
   Vendor: Geltchy
   Product Type: Posters, Prints, & Visual Artwork
   Availability: Available
@@ -981,14 +989,14 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-EK-HOLDEN-Purple-Custom-Hot-Rod-Man-Cave-Art-Print-by-Mark-Geltch.jpg?v=1694995043
     Price: $199.95 AUD
 - [LIFE STRIFE Ain't Got TIME Large Novelty Coffee Mugs](https://geltchy.com.au/products/life-strife-aint-got-time-large-novelty-coffee-mugs): Add humour to your day with our LIFE STRIFE Ain't Got No Time For This BULLSHIT Large 15oz Coffee Mug. Designed in Australia, this Hi-Vis Orange novelty coffee mug is perfect for work, social gatherings, and camping trips. Get yours today!
-  Updated: 2026-06-24T09:41:13Z
+  Updated: 2026-10-15T10:11:38Z
   Vendor: Life Strife
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/LIFE-STRIFE-Aint-Got-No-Time-For-This-BULLSHIT-Large-15oz-Hi-Vis-Orange-Novelty-Coffee-Mug.jpg?v=1695089457
   Price: $19.95 AUD
 - [Yaroomba Boardriders STOP ROCK Mens T-Shirt Black](https://geltchy.com.au/products/yaroomba-boardriders-stop-rock-mens-t-shirt-black): Support YAROOMBA Boardriders with the STOP ROCK Men's T-Shirt. 100% combed cotton, stylish & durable. Perfect for surf fans. Shop now!
-  Updated: 2026-08-10T05:14:12Z
+  Updated: 2026-10-15T10:11:39Z
   Vendor: Geltchy
   Product Type: T-Shirt
   Availability: Available
@@ -1017,62 +1025,7 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-STOP-ROCK-Official-Men_s-T-Shirt-in-Black.jpg?v=1738393146
     Price: $44.95 AUD
-- [Yaroomba Boardriders 2023 Womens T-Shirt Black](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black): Get ready to ride the waves in style with our YAROOMBA Boardriders QLD 2023 Women's T-Shirt in Black. Designed by Geltchy, this premium t-shirt embodies Surfing Queensland's spirit. Dive into comfort with 100% combed cotton and durable 180 GSM fabric. Support your local boardriders today!
-  Updated: 2026-08-10T05:14:40Z
-  Vendor: Geltchy
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-  - [XSM](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084133545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [SML](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084166313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [MED](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084199081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [LRG](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084231849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [XLG](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084264617)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [2XL](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084297385)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-  - [3XL](https://geltchy.com.au/products/yaroomba-boardriders-2023-womens-t-shirt-black?variant=43289084330153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/YAROOMBA-Boardriders-QLD-2023-Merchandise-Womens-T-Shirt-in-Black.jpg?v=1697191963
-    Price: $45.95 AUD
-- [Yaroomba Boardriders Sticker](https://geltchy.com.au/products/yaroomba-boardriders-sticker-free-postage-australia-wide): Shop the YAROOMBA Boardriders Logo 10cm Round Sticker - Durable Outdoor Vinyl | Perfect for Cars and Surfboards | Free Shipping Australia-wide. Show your board riding passion with style!
-  Updated: 2026-08-10T05:15:50Z
-  Vendor: Geltchy
-  Product Type: Sticker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-YAROOMBA-Boardriders-Logo-10cm-Round-Sticker-Your-Perfect-Companion-for-the-Great-Outdoors.jpg?v=1697414048
-  Price: $4.95 AUD
-- [Gin Gin Rusty HJ Ute Coffee Mug - Australian-Made Auto Art](https://geltchy.com.au/products/gin-gin-rusty-hj-ute-coffee-mug-australian-made-auto-art): Experience the heart of Australia with the Gin Gin Rusty HJ Ute Coffee Mug. Featuring iconic landmarks, indigenous heritage, and exquisite artwork by Mark Geltch. A tribute to classic Aussie wheels and the charm of Gin Gin, Queensland. Order now and bring Australia into your everyday life.
-  Updated: 2026-08-10T05:15:32Z
-  Vendor: Geltchy
-  Product Type: Mugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Gin-Gin-Rusty-HJ-Ute-15oz-Large-Illustrated-Coffee-Mug-A-Taste-of-Australias-Heart.jpg?v=1697674992
-  Price: $19.95 AUD
-- [HOLDEN Monaro LS Illustrated Badge Number Plate in Taormina Blue](https://geltchy.com.au/products/holden-monaro-taormina-blue-number-plate): Discover the iconic Holden Monaro LS Novelty Number Plate in Taormina Blue—a premium aluminum tribute to Australian automotive history. Perfect for display, this rare Monaro LS Car Badge illustration plate is designed and manufactured in Australia. Elevate your automotive memorabilia with fast shipping!
-  Updated: 2026-08-10T05:14:45Z
-  Vendor: Geltchy
-  Product Type: Number Plate
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0245/2039/2767/files/Geltchy-Holden-Monaro-LS-Badge-Novelty-Number-Plate-License-Plate-in-Taormina-Blue.jpg?v=1707262258
-  Price: $26.95 AUD
-[List Continued](https://geltchy.com.au/a/llms-agent/llms.txt?shop=geltchy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODA1MzU0ODAzMzY5LCJsYXN0X3ZhbHVlIjoiNzgwNTM1NDgwMzM2OSJ9)
+[List Continued](https://geltchy.com.au/a/llms-agent/llms.txt?shop=geltchy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Nzk1NTYyMzgxNDgxLCJsYXN0X3ZhbHVlIjoiNzc5NTU2MjM4MTQ4MSJ9)
 
 ## Collections
 
@@ -1080,23 +1033,23 @@ A stunning novelty license plate that will elevate the aesthetic of your Man Cav
   Updated: 2023-01-24T07:24:01Z
   Total Products: 1
 - [ORIGINAL ARTWORKS](https://geltchy.com.au/collections/original-artworks)
-  Updated: 2026-06-24T09:40:52Z
+  Updated: 2026-09-30T12:32:29Z
   Total Products: 1
 - [FINE ART PRINTS FOR ](https://geltchy.com.au/collections/fine-art-prints-for-): Unique Classic Car, Custom Car, Skull, Native Wildlife, Tattoo Inspired Australian Illustrated Limited Edition Collectors Artworks by Mark Geltch specially designed for your Man Cave, She Shed, Bar, Workshop, Garage, Office or to complement your Home Decor.
 The framed and unframed art prints make a personal statement.
-  Updated: 2026-08-09T05:15:09Z
-  Total Products: 90
+  Updated: 2026-10-22T11:06:19Z
+  Total Products: 92
 - [HOMEWARES](https://geltchy.com.au/collections/homewares)
   Updated: 2022-12-15T23:17:31Z
   Total Products: 0
 - [HI-OCTANE](https://geltchy.com.au/collections/hi-octane)
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:29Z
   Total Products: 0
 - [ANGELTUDE](https://geltchy.com.au/collections/angeltude)
   Updated: 2022-12-15T23:17:31Z
   Total Products: 4
 - [BLOG](https://geltchy.com.au/collections/popular)
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:29Z
   Total Products: 0
 - [LURKER x4](https://geltchy.com.au/collections/lurker-x4)
   Updated: 2022-12-15T23:17:31Z
@@ -1117,14 +1070,14 @@ The framed and unframed art prints make a personal statement.
   Updated: 2026-01-04T09:20:32Z
   Total Products: 5
 - [Australian Stickers | Automotive, Surf, Skate, Punk Rock & Hardcore Decals](https://geltchy.com.au/collections/australian-stickers-automotive-surf-skate-punk-hardcore): Australian stickers: automotive, surf, skate, punk & hardcore designs. Holden decals to surfboard stickers. Free shipping $75+ Australia-wide!
-  Updated: 2026-07-08T11:11:56Z
+  Updated: 2026-10-03T11:12:01Z
   Total Products: 16
 - [Kid Vean](https://geltchy.com.au/collections/kid-vean)
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:29Z
   Total Products: 12
 - [SMVRK Supply Co](https://geltchy.com.au/collections/smvrk-supply-co): Discover unconventional fashion through our limited edition and one-of-a-kind pieces that defy mainstream trends. From t-shirts to confident headwear, our collection has everything you need to make a statement with our stylish outerwear, bags, and accessories that add a touch of distinctiveness to your ensemble.
-  Updated: 2026-07-08T11:11:56Z
-  Total Products: 42
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 43
 - [WAGTAIL](https://geltchy.com.au/collections/wagtail)
   Updated: 2022-12-15T23:17:31Z
   Total Products: 4
@@ -1132,427 +1085,433 @@ The framed and unframed art prints make a personal statement.
   Updated: 2022-12-15T23:17:31Z
   Total Products: 4
 - [FRESH ARRIVALS](https://geltchy.com.au/collections/fresh-arrivals)
-  Updated: 2026-08-09T11:11:19Z
-  Total Products: 20
+  Updated: 2026-10-09T11:09:14Z
+  Total Products: 19
 - [BOARDCARRY](https://geltchy.com.au/collections/boardcarry): Shop Boardcarry for the best surfboard carriers and surf-inspired clothing. Our hands-free carry strap makes transporting your surfboard hassle-free, whether you're walking, cycling, or skateboarding. Discover stylish, durable apparel and accessories designed for surfers.
-  Updated: 2026-07-15T21:59:46Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 12
 - [HEADWEAR](https://geltchy.com.au/collections/headwear)
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 18
 - [POSTERS](https://geltchy.com.au/collections/illustrated-poster-prints-by-geltchy-vintage-rock-band-and-custom-art-prints-for--in-australia): Discover a world of creativity with Illustrated Poster Prints by Geltchy. Explore our vintage, rock band-inspired, and custom art prints for  in Australia. Transform your space with our premium quality artwork.
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 13
 - [GIFTS](https://geltchy.com.au/collections/gifts)
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 5
 - [ACCESSORIES](https://geltchy.com.au/collections/meticulously-designed-illustrated-accessories-from-life-strife-sacrifice-industries-smvrk-supply-co-and-wyld): Discover meticulously designed accessories featuring Geltchy's illustrations. From mens wallets to beach towels, travel bags to bottle openers, our collection offers style and convenience in every functional product by brands like LIFE STRIFE, SACRIFICE Industries, SMVRK Supply Co, and WYLD
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 10
 - [FOR MUM](https://geltchy.com.au/collections/for-mum): Love Your Mum?Give the Gift of Art - at an affordable price this Mothers Day!
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 23
 - [Limited Edition Australian Car Art Canvas Prints | Man Cave Wall Art](https://geltchy.com.au/collections/limited-edition-australian-car-art-canvas-prints): Discover exclusive, numbered automotive canvas prints by Mark Geltch. Only 20 prints per design. Gallery-quality, ready-to-hang Australian car artwork perfect for your man cave, garage, or home.
-  Updated: 2026-06-24T09:40:53Z
+  Updated: 2026-10-10T08:22:34Z
   Total Products: 6
 - [SIGNS](https://geltchy.com.au/collections/signs)
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 3
 - [THE CUSTOM SHOP - Draw Your Car Your Way](https://geltchy.com.au/collections/draw-your-car-your-way-the-custom-shop): Custom Illustrated Drawing of Your Car.  a detailed illustration of your street machine, classic or custom car. Draw your car, your way now! Finished artwork supplied print framed or unframed other options include acrylic plexiglass, coffee mugs and personalised custom giftware.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:30Z
   Total Products: 4
 - [CLASSICS](https://geltchy.com.au/collections/classics): Browse the range of Classic Car Illustrated Artworks by Geltchy...
 A collective collaboration with Gold Coast Motor Museum, featuringing a selection of curated vehicles from their display. 
 Check this Strictly limited collectors edition of 25 each Signed & Numbered Framed & Unframed Fine Artworks.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:31Z
   Total Products: 9
 - [15oz ILLUSTRATED COFFEE MUGS - The Perfect Gift](https://geltchy.com.au/collections/15oz-premium-artwork-and-typography-coffee-mug-gifts): Discover our unique collection of Illustrated Holden car, Australian Wildlife, Old School, Skull Typography Lettering, and Novelty Illustrated Australian Designed and Manufactured Ceramic Coffee Mugs.
-  Updated: 2026-08-10T11:10:39Z
-  Total Products: 89
+  Updated: 2026-10-13T11:52:04Z
+  Total Products: 91
 - [FATHERS DAY](https://geltchy.com.au/collections/unique-man-cave-fathers-day-illustrated-car-and-music-inspired-mugs-signs-art-prints-gifts-giftware-for-dad): LOVE YOUR DAD? Give Him something unique this FATHERS DAY! Car and Music inspired MUGS, SIGNS and FINE ART PRINTS from $20. Find the best Gifts and Giftware for your Dads, Man Cave, Bar, Workshop, Office or Home with FREE SHIPPING (Australia Wide) on all orders over $30
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-10-18T07:08:23Z
   Total Products: 52
 - [HOLDEN](https://geltchy.com.au/collections/holden)
-  Updated: 2026-08-11T06:56:02Z
-  Total Products: 171
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 179
 - [BEST FATHERS DAY GIFTS](https://geltchy.com.au/collections/best-fathers-day-gifts): Find the perfect gift for the DAD who has it all at our online store. Surprise him with a special item that reflects his passions and interests. Don't settle for ordinary gifts when you can give something extraordinary. Shop now and make his day unforgettable.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-10-05T11:07:46Z
   Total Products: 60
 - [BAND ARTWORK](https://geltchy.com.au/collections/original-artwork-design-original-artwork-design-for-album-covers-posters-merchandise-for-musicians-bands-and-music-artists): ORIGINAL ARTWORK & DESIGN ORIGINAL ARTWORK & DESIGN for Musicians Bands and Music Artists. Music artwork is designed to complement, showcasing your music. Geltchy is an Australian based Internationally published artist, illustrator & designer producing artwork for music albums, posters and merchandise.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:31Z
   Total Products: 1
 - [ACRYLIC PRINTS](https://geltchy.com.au/collections/frameless-limited-edition-illustrated-modern-contemporary-acrylic-plexiglass-art-prints): Our Premium Frameless Limited Edition Illustrated Modern Contemporary Acrylic Glass Art Prints, meticulously crafted in Australia to elevate your living spaces with sophistication and elegance allowing you to transform any space into a gallery of beauty and inspiration.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:31Z
   Total Products: 1
 - [STUBBY COOLERS](https://geltchy.com.au/collections/quality-unique-illustrated-stubby-coolers-gifts): SHOP the unique range of Illustrated Australian Designed and Manufactured Stubby Coolers featuring hand drawn and digital colour artwork designs. All online orders are processed and Shipped locally in Australia the Next Day to ensure FAST DELIVERY!
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:31Z
   Total Products: 0
 - [RARE & COLLECTABLE](https://geltchy.com.au/collections/unique-rare-collectable-limited-edition-curated-items-and-collectors-packs): UNIQUE RARE & COLLECTABLE Limited Edition Curated Items and Packs. Get yourself the ultimate Memorabilia Rare and Collectable Art Prints, Mugs, Gifts especially curated for display in your Man Cave, She Shed, Pool Room, Bar, Workshop, Office or Home.
-  Updated: 2026-06-24T09:40:54Z
+  Updated: 2026-09-30T12:32:31Z
   Total Products: 7
-- [BAR RUNNERS](https://geltchy.com.au/collections/bar-runners): Geltchy ILLUSTRATED Australian Bar Runner Mats The Best Man Cave Gift featuring Old Holden Australiana Novelty and Meme Typography Artwork suitable for your Bar, She Shed, Garage, Workshop, Store, Coffee Shop, Office or Home Decor
-  Updated: 2026-08-10T11:20:19Z
-  Total Products: 33
+- [Australian Made Bar Runners – Limited Edition Car Art Bar Mat 890mm](https://geltchy.com.au/collections/australian-made-bar-runners): Shop Australian Made Bar Runners—limited edition car art bar mats. Non-slip, absorbent, 890x240mm. Free ship $75+. 30-day guarantee.
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 35
 - [HOLDEN COFFEE MUGS](https://geltchy.com.au/collections/holden-street-machine-coffee-mug-personalized-gifts): Discover our exclusive HOLDEN Street Machine Coffee Mug collection, designed for passionate Street Machine and Aussie Muscle Car enthusiasts. These mugs make exceptional personalized gifts that will be treasured for years to come.
-  Updated: 2026-08-10T11:10:39Z
-  Total Products: 31
+  Updated: 2026-10-13T11:52:04Z
+  Total Products: 33
 - [BAD DECISIONS](https://geltchy.com.au/collections/bad-decisions)
-  Updated: 2026-06-24T11:13:59Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 10
 - [ANZAC Merchandise Australia | T-Shirts, Stickers & Gifts | Geltchy](https://geltchy.com.au/collections/anzac-merchandise-australia): ANZAC merchandise Australia by Geltchy. Shop hand-illustrated tees, stickers and gifts with bold Australian tribute-inspired style.
-  Updated: 2026-06-24T09:40:55Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 28
 - [FRESH ILLUSTRATED COFFEE MUGS](https://geltchy.com.au/collections/buy-the-newest-15oz-illustrated-holden-australiana-novelty-and-meme-best-mancave-mugs): SHOP the newest and latest 15oz Illustrated Holden Australiana Novelty and Meme best Man Cave mugs suitable for your Bar, She Shed, Garage, Workshop, Store, Coffee Shop, Office or Home Decor
-  Updated: 2026-08-10T11:10:39Z
-  Total Products: 51
+  Updated: 2026-10-13T11:52:04Z
+  Total Products: 53
 - [NOVELTY Coffee Mug Personalized Gifts](https://geltchy.com.au/collections/novelty-coffee-mug-personalized-gifts): Shop our quirky collection of Novelty Hand Drawn Illustrated and Typography Australian Meme Funny Coffee Mugs. These mugs are filled with Aussie humour and make excellent gifts for any occasion. Make someone's day memorable with a special coffee mug filled with Aussie humour.
-  Updated: 2026-07-24T01:11:58Z
+  Updated: 2026-09-30T12:32:32Z
   Total Products: 32
 - [BEST AUSSIE CHRISTMAS GIFTS UNDER $20](https://geltchy.com.au/collections/best-aussie-christmas-gifts-under-20-dollars): Discover Affordable Aussie Men's Christmas Gifts - Unique, Australian-Made, and Under $20. Shop Now for Man Cave Christmas Presents, Aussie Mugs, and Novelty Coffee Mugs. Perfect for Secret Santa and Stocking Fillers. Make This Christmas Unforgettable!
-  Updated: 2026-05-31T04:07:34Z
+  Updated: 2026-09-13T11:09:34Z
   Total Products: 14
 - [HOLDEN MAN CAVE WALL ART PRINTS](https://geltchy.com.au/collections/holden-man-cave-wall-art-prints): Buy Limited Edition Numbered Professional HOLDEN GMH Wall Art Prints that provide the Very Best Visual Artwork suitable as Man Cave Wall Art for the Holden Enthusiast illustrated by Geltchy
-  Updated: 2026-08-09T05:15:09Z
-  Total Products: 49
+  Updated: 2026-10-22T11:06:19Z
+  Total Products: 51
 - [HOLDEN Stubby Cooler Illustrated Personalised Gifts](https://geltchy.com.au/collections/holden-stubby-cooler-illustrated-personalised-gifts): BUY Illustrated Australian Designed HOLDEN Stubby Coolers featuring hand drawn and digital colour auto art designs. Perfect gift for the Holden Enthusiast, keep one in your car for your hanging out with ya mates or a few at home for the occasional gathering or BBQ with friends.
-  Updated: 2026-06-24T09:40:55Z
+  Updated: 2026-09-30T12:32:32Z
   Total Products: 0
 - [HOLDEN BAR RUNNER MATS](https://geltchy.com.au/collections/holden-bar-runner-mats-best-man-cave-decor): BUY Detailed Illustrated Australian HOLDEN Stubby Coolers featuring hand drawn and digital colour Street Machine Auto Art Designs. The Felt / Rubber Bar Runner Mats will protect your table or bar featuring lowbrow garage art drawings.
-  Updated: 2026-08-10T11:20:19Z
-  Total Products: 19
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 23
 - [NED KELLY Bushranger Australian Man Cave Art and Giftware](https://geltchy.com.au/collections/ned-kelly-bushranger-australian-man-cave-art-and-giftware): Browse the NED KELLY Notorious Australian Bushranger collection of Artwork and Giftware Illustrated by Artist Mark Geltch.
-  Updated: 2026-06-24T09:40:55Z
+  Updated: 2026-09-30T12:32:32Z
   Total Products: 5
 - [TIN SIGNS](https://geltchy.com.au/collections/tin-signs): Detailed Illustrated Australian Tin Signs featuring hand drawn and digital colour Artwork Designs suitable for your Man Cave or Bar. Add some colour and make a statement on your wall with these lowbrow garage art drawings and Illustrations ready to display on your favourite wall.
-  Updated: 2026-08-01T11:10:58Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 39
 - [AUSSIE Illustrated Wall Art Home and Decor Prints](https://geltchy.com.au/collections/aussie-illustrated-wall-art-home-and-decor-prints): SHOP Unique Iconic Australian Home Decor Art, Hand Drawn, Australiana inspired and themed Limited Edition Professional Art Prints Framed Wall Art Illustrated by Sunshine Coast Artist Mark Geltch.
-  Updated: 2026-06-24T09:40:55Z
+  Updated: 2026-09-30T12:32:32Z
   Total Products: 3
 - [AUSSIE MAN CAVE NUMBER PLATE SIGNS](https://geltchy.com.au/collections/premium-aluminium-automotive-number-plate-signs): Discover premium 1mm aluminium number plates featuring hand-drawn Holden, Ford & ANZAC designs. Australian-made man cave signs by Mark Geltch.
-  Updated: 2026-08-11T06:56:02Z
-  Total Products: 80
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 82
 - [LIFE STRIFE](https://geltchy.com.au/collections/life-strife)
-  Updated: 2026-08-09T10:05:14Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 43
 - [FAITH HOPE LOVE](https://geltchy.com.au/collections/faith-hope-love-illustrated-gifts-and-apparel-for--australia-free-postage): Three of the most inspirational English words, faith, hope, and love, are commonly grouped together to form a statement of peace and happiness, religious or non-religious.  The FAITH, HOPE, LOVE collection takes from this inspiration and creates visual artwork and designs on unique items.
-  Updated: 2026-06-24T09:40:55Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 3
 - [SACRIFICE Industries](https://geltchy.com.au/collections/sacrifice-industries-clothing-apparel-since-2009): Stylish clothing and accessories that embody the spirit of contemporary culture. Crafted with attention to detail and a commitment to quality, their garments reflect youthful rebellion and self-expression. Join the vibrant community with SACRIFICE Industries' authentic and inspiring clothing.
-  Updated: 2026-08-09T10:02:57Z
-  Total Products: 39
+  Updated: 2026-10-04T11:09:13Z
+  Total Products: 42
 - [ ](https://geltchy.com.au/collections/-)
-  Updated: 2026-06-24T09:40:56Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 19
 - [RUNNING ON EMPTY Movie Car Artwork and Giftware](https://geltchy.com.au/collections/running-on-empty-movie-car-artwork-and-giftware-qld-nsw-vic-act-tas-sa-wa-nt): Pay homage to the Australian cult car film RUNNING ON EMPTY celebrating 40 years with Car Artwork & Giftware Illustrated by Mark Geltch
-  Updated: 2026-06-24T09:40:56Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 4
 - [COOLUM WING CHUN](https://geltchy.com.au/collections/coolum-wing-chun): Licensed Merchandise by Coolum Wing Chun. Wing Chun is a true martial art. It is based on technique, but more importantly, has underlying philosphies based on science, simplicity and directness.
-  Updated: 2026-07-12T11:13:44Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 5
 - [SUPPORT YA MATES](https://geltchy.com.au/collections/support-ya-mates): Inspiring Products aimed to bring HOPE to the HOPELESS, ensuring those close to You RUOK with the Support Ya Mates Collection
-  Updated: 2026-06-24T09:40:56Z
+  Updated: 2026-09-30T12:32:33Z
   Total Products: 5
 - [BARWARE](https://geltchy.com.au/collections/barware-man-cave-bar-runner-mats-beer-stubby-coolers-designed-and-manufactured-in-australia): SHOP Australian Designed and Manufactured Bar Runner Mats and Beer Stubby Coolers that make the Best Man Cave Gifts. Designs feature hand drawn and digital illustrated Old Holdens, Australiana Themes, Novelty and Meme Typography artwork designs.
-  Updated: 2026-08-10T11:20:19Z
-  Total Products: 32
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 37
 - [TRENDING PRODUCTS](https://geltchy.com.au/collections/trending-australian-automotive-art): Shop trending Holden & Ford art, number plates, mugs & tees. Hand-illustrated by Mark Geltch. Free shipping over $75 Australia-wide. Order now!
-  Updated: 2026-08-09T11:11:19Z
+  Updated: 2026-10-17T11:14:12Z
   Total Products: 20
 - [The Bargain Bin Collection - Premium Australian Art & Automotive Merchandise at Unbeatable Prices](https://geltchy.com.au/collections/bargain-bin-australian-automotive-art-merch): Discover discounted Australian automotive art, coffee mugs & merch from Geltchy. Free shipping over $75 AUD Australia-wide. Limited stock!
-  Updated: 2026-08-10T11:10:39Z
-  Total Products: 98
+  Updated: 2026-10-18T07:15:43Z
+  Total Products: 103
 - [COLLECTORS & ENTHUSIASTS](https://geltchy.com.au/collections/art-giftware-merchandise-for-collectors-enthusiasts)
-  Updated: 2026-06-24T09:40:56Z
+  Updated: 2026-10-18T07:08:23Z
   Total Products: 4
 - [LIFE STRIFE - Just Send It!](https://geltchy.com.au/collections/life-strife-just-send-it): In the world of extreme sports and fearless individuals, one name stands out—Larry Enticer. With his iconic catchphrase "JUST SEND IT!," Larry has become a symbol of living life to the fullest, pushing boundaries, and embracing the thrill of adrenaline. LIFE STRIFE introduces their Just Send It collection alongside Larry's adventurous spirit, adding humour and vibrancy to your everyday experiences. In this blog post, we delve into the world of Larry Enticer, explore the impact of his daring personality, and introduce LIFE STRIFE's unique products that embody the essence of his spirit.
-  Updated: 2026-06-24T09:40:57Z
+  Updated: 2026-09-30T12:32:34Z
   Total Products: 2
 - [BLUE MEANIE](https://geltchy.com.au/collections/vk-holden-commodore-group-a-ss-peter-brock): Welcome to the VK HOLDEN COMMODORE GROUP A SS Peter Brock Blue Meanie collection page! Here, you'll find a range of high-quality products that celebrate the iconic Aussie Classic and pay tribute to the legendary Peter Brock.
-  Updated: 2026-07-25T11:12:13Z
+  Updated: 2026-09-30T12:32:34Z
   Total Products: 7
 - [BAD DECISIONS Make Good Stories](https://geltchy.com.au/collections/bad-decisions-make-good-stories-bold-unique-giftware-with-a-difference): Discover our "Bad Decisions Make Good Stories" collection! Explore Skull-themed items: Stubby Holder, Bar Runner, T-Shirt, Coffee Mugs, and more. Embrace your edgy side and transform your space.
-  Updated: 2026-06-24T11:13:59Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 9
 - [JUST ARRIVED](https://geltchy.com.au/collections/just-arrived): Discover our Latest Releases, featuring Limited Edition Fine Art Prints, Unique Illustrated Australian Giftware, Man Cave Signs, Number Plates, Posters, Large Mugs, and Merchandise. Elevate your space with meticulously crafted pieces that celebrate creativity and authenticity.
-  Updated: 2026-08-10T11:46:43Z
-  Total Products: 40
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 41
 - [RUM CITY RODS & CUSTOMS](https://geltchy.com.au/collections/rum-city-rods-customs)
-  Updated: 2026-08-02T11:11:06Z
-  Total Products: 6
+  Updated: 2026-10-08T11:08:45Z
+  Total Products: 9
 - [YAROOMBA BOARDRIDERS](https://geltchy.com.au/collections/yaroomba-boardriders): Embrace surf culture with Yaroomba Boardriders Official Merchandise. Shop stylish gear, enjoy member discounts, and join the ocean-loving community!
-  Updated: 2026-06-24T09:40:57Z
+  Updated: 2026-09-30T12:32:34Z
   Total Products: 20
 - [LIFE STRIFE MUGS](https://geltchy.com.au/collections/life-strife-funny-novelty-mugs-to-make-you-laugh): Discover the perfect workday companion with our 15oz novelty coffee mugs. Add humour to your daily routine and stay fueled throughout the day. Proudly designed and manufactured in Australia. Grab yours now!
-  Updated: 2026-07-24T01:11:58Z
+  Updated: 2026-09-30T12:32:34Z
   Total Products: 12
 - [MONARO - GMH Holden Artwork Memorabilia and Giftware](https://geltchy.com.au/collections/monaro-gmh-holden-artwork-memorabilia-and-giftware)
-  Updated: 2026-08-11T06:56:02Z
+  Updated: 2026-10-05T11:07:46Z
   Total Products: 35
 - [FORD](https://geltchy.com.au/collections/ford)
-  Updated: 2026-08-09T11:11:19Z
-  Total Products: 21
+  Updated: 2026-10-17T11:14:12Z
+  Total Products: 23
 - [BEST MENS CHRISTMAS GIFTS EVER](https://geltchy.com.au/collections/best-mens-christmas-gifts-ever): Discover unique Man Cave Christmas Gifts - Limited Edition Auto Art Numbered Professional Artworks featuring Old School Holdens and Classic Fords. Transform his space with archival quality matte rag paper art. The perfect holiday gift!
-  Updated: 2026-03-02T12:09:59Z
+  Updated: 2026-10-18T07:08:23Z
   Total Products: 10
 - [NEXT GEN Junior Surf Challenge](https://geltchy.com.au/collections/next-gen-junior-surf-challenge): Dive into surf culture at Yaroomba Boardriders' NEXT GEN 2023 event on the Sunshine Coast, QLD. Join us on December 9, 2023, for thrilling heats featuring talented junior surfers aged 12 to 16. Enjoy the positive vibe, breathtaking views, and a chance to witness the best young surfers compete for cash prizes!
-  Updated: 2026-06-24T09:40:58Z
+  Updated: 2026-09-30T12:32:34Z
   Total Products: 4
 - [MENS APPAREL](https://geltchy.com.au/collections/mens-apparel): Elevate your style with our exclusive Men's Apparel. Explore meticulously crafted clothing, from captivating t-shirts to stylish outerwear, designed by renowned artist Geltchy in collaboration with acclaimed labels. Discover the fusion of contemporary art and fashion. Shop now and express your unique style with our versatile pieces.
-  Updated: 2026-08-11T11:08:51Z
-  Total Products: 124
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 132
 - [WORKWEAR](https://geltchy.com.au/collections/mens-workwear)
-  Updated: 2026-06-24T09:40:58Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 8
 - [LOYALTY](https://geltchy.com.au/collections/loyalty)
-  Updated: 2026-08-09T05:15:09Z
+  Updated: 2026-10-09T11:09:14Z
   Total Products: 5
 - [PHONE CASES](https://geltchy.com.au/collections/phone-cases): Discover unmatched phone protection with illustrated premium bumper cases. Designed for iPhone, Samsung, and Google Pixel, each case exceeds military drop test standards, ensuring ultimate durability. Suregrip sides prevent accidental drops, while the rubber-aluminum blend resists UV fading and scratches.
-  Updated: 2026-06-24T09:40:58Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 0
 - [MENS HEADWEAR](https://geltchy.com.au/collections/mens-headwear)
-  Updated: 2026-06-24T09:40:58Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 9
 - [WOMENS APPAREL](https://geltchy.com.au/collections/womens-apparel): Elevate your style with our Women's Apparel Collection, featuring captivating t-shirts, cozy hoodies, and sleek outerwear. Crafted by artist Geltchy in collaboration with top labels, each piece is a masterpiece. Shop now for unparalleled fashion and self-expression.
-  Updated: 2026-07-24T01:12:33Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 21
 - [BE MY VALENTINE - Find The Perfect Gift For Your Lover!](https://geltchy.com.au/collections/be-my-valentine): Give the gift of everlasting love this Valentine's Day with our bespoke collection of alternative art, giftware, and apparel. Discover unique handcrafted pieces that go beyond flowers. Order by January 31 for  delivery. Shop now and create memories that last a lifetime!
-  Updated: 2026-06-24T09:40:58Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 8
 - [BEER MUGS](https://geltchy.com.au/collections/beer-mugs): Discover the perfect vessel for your favourite brews with our collection of 16oz Glass Beer Stein Mugs. Crafted for enthusiasts and designed for style, elevate your drinking experience today!
-  Updated: 2026-06-24T09:40:59Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 0
 - [YOUTH 8-16](https://geltchy.com.au/collections/youth)
-  Updated: 2026-06-24T09:40:59Z
-  Total Products: 6
+  Updated: 2026-10-05T07:33:11Z
+  Total Products: 7
 - [A4 Aluminium Tin Signs by Geltchy](https://geltchy.com.au/collections/a4-aluminium-tin-signs): Shop A4 Aluminium Tin Signs by Geltchy – premium wall art featuring vintage cars, surf-inspired designs, and Aussie culture. Durable, vibrant, easy to display!
-  Updated: 2026-08-01T11:10:58Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 24
 - [INTRICATE SHOCKWAVE](https://geltchy.com.au/collections/intricate-shockwave)
-  Updated: 2026-06-24T09:40:59Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 9
 - [LOW N' SLOW](https://geltchy.com.au/collections/low-n-slow): I've been sitting on this concept for a bit, wanting to do a lead sled style custom early holden. During the week I was chatting with a customer who's husband had a Corona Grey 2 tone FB Holden, then after seeing the Bruce Highway being one big parking lot from Brisbane to the Sunshine Coast for over 24hrs, that was all the inspiration needed to do some finishing touches and put together the LOW N' SLOW Collection.
-  Updated: 2026-07-24T03:44:31Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 7
 - [COOLUM BEER CO. - Pop Up Art Exhibition April 2024](https://geltchy.com.au/collections/coolum-beer-co-exhibition-april-2024): Discover the vibrant fusion of art and craft beer at Coolum Beer Co's Pop Up Art Show! Explore the captivating illustrations by Mark Geltch, featuring iconic Australiana, Ned Kelly, Old Holdens, Skulls, and inspirations from the Sunshine Coast. Shop the displayed art collection by Geltchy.
-  Updated: 2026-06-24T09:40:59Z
+  Updated: 2026-09-30T12:32:35Z
   Total Products: 10
 - [HARBOUR CITY AUTO CLUB INC - Official Merchandise](https://geltchy.com.au/collections/harbour-city-auto-club-gladstone-qld-official-merchandise-limited-edition-automotive-art): Shop official Harbour City Auto Club Gladstone QLD merchandise. Free shipping Australia-wide!
-  Updated: 2026-08-11T11:08:51Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 4
 - [SHITSHOW EP: 2](https://geltchy.com.au/collections/shitshow-ep-2)
-  Updated: 2026-08-11T11:08:51Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 12
 - [SHITSHOW EP: 3](https://geltchy.com.au/collections/shitshow-ep-3)
-  Updated: 2026-06-24T09:40:59Z
+  Updated: 2026-10-01T11:08:47Z
   Total Products: 11
 - [SHITSHOW EP: 4](https://geltchy.com.au/collections/shitshow-ep-4)
-  Updated: 2026-08-09T11:11:19Z
+  Updated: 2026-10-02T11:08:55Z
   Total Products: 6
 - [SHITSHOW EP: 5](https://geltchy.com.au/collections/shitshow-ep-5)
-  Updated: 2026-08-09T11:11:19Z
+  Updated: 2026-10-02T11:08:55Z
   Total Products: 11
 - [HOLDEN SANDMAN](https://geltchy.com.au/collections/holden-sandman): Discover exclusive Holden Sandman art, giftware, and merchandise illustrated by Geltchy. Shop fine art prints, barware, number plates, man cave signs, coffee mugs, t-shirts, and more. Perfect for car enthusiasts and collectors alike.
-  Updated: 2026-08-09T05:15:09Z
-  Total Products: 13
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 21
 - [CAR ART - Side View](https://geltchy.com.au/collections/car-art-side-view)
-  Updated: 2026-08-09T05:15:09Z
-  Total Products: 34
+  Updated: 2026-10-22T11:06:19Z
+  Total Products: 36
 - [HOLDEN ART PRINTS](https://geltchy.com.au/collections/holden-art-prints)
-  Updated: 2026-08-09T05:15:09Z
-  Total Products: 37
+  Updated: 2026-10-22T11:06:19Z
+  Total Products: 39
 - [SHITSHOW EP:7](https://geltchy.com.au/collections/shitshow-ep-7): Special 20%  on these selected products just for Sunday SHITSHOW Viewers!Watch Episode: 7 - to get the code!
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 6
 - [CHOGELICIOUS](https://geltchy.com.au/collections/chogelicious): WHERE AUSTRALIA MEETS KENYA - AFRICA. Bespoke Apparel, Jewellry & Giftware by Alice Choge
-  Updated: 2026-06-24T09:41:00Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 21
 - [SHITSHOW EP:8](https://geltchy.com.au/collections/shitshow-ep-8): Special 20%  on these selected products just for Sunday SHITSHOW Viewers! Watch Episode: 8 - to get the code!
-  Updated: 2026-06-24T09:41:00Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 2
 - [The Sunday SHITSHOW](https://geltchy.com.au/collections/the-sunday-shitshow): Shop The Sunday SHITSHOW official licensed merchandise! Discover mugs, t-shirts, apparel, barware, and giftware. Support your favourite podcast with high-quality, unique items.
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-09-30T12:32:36Z
   Total Products: 10
 - [SHITSHOW EP:9](https://geltchy.com.au/collections/shitshow-ep-9)
-  Updated: 2026-08-09T11:11:19Z
+  Updated: 2026-10-09T11:09:14Z
   Total Products: 4
 - [STUDIO 53](https://geltchy.com.au/collections/studio-53): Studio 53 Art & Surf Culture Gallery in Coolum Beach, QLD, is a dynamic hub for local creativity, featuring the works of more than 50 artists across a variety of mediums. Owned and operated by Owen Cavanagh (Owen Surf Art) the gallery is a testament to his passion for both art and surf culture. Owen is renowned for his large-scale mural art and intricate sand art, which capture the essence of coastal life and the vibrant energy of the ocean. Studio 53 not only showcases Owen’s unique creations but also champions the work of local artists, making it a must-visit destination for those looking to experience the rich artistic spirit of Coolum Beach.
-  Updated: 2026-06-24T09:41:01Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 4
 - [CAR ART - Front View](https://geltchy.com.au/collections/car-art-front-view)
-  Updated: 2026-06-24T09:41:01Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 8
 - [CAR ART - Isometric](https://geltchy.com.au/collections/car-art-isometric)
-  Updated: 2026-06-24T09:41:01Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 11
 - [AUSTRALIANA Fine Art Prints - Landscape](https://geltchy.com.au/collections/australiana-fine-art-prints): Shop unique Australiana Fine Art Prints featuring hand-drawn, iconic Australian landscapes by Sunshine Coast artist Mark Geltch. Limited edition framed wall art for your home.
-  Updated: 2026-06-24T09:41:01Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 9
 - [AUSTRALIANA Fine Art Prints - Portrait](https://geltchy.com.au/collections/australiana-fine-art-prints-portrait): Explore our Australiana Fine Art Prints - Portrait collection, where the charm and wit of Australia come to life. Each piece showcases hand-drawn illustrations of iconic Australian animals, birds, and symbols, all infused with a touch of humour. Created by Sunshine Coast multi disciplinary artist Mark Geltch, these limited edition art prints offer a playful yet refined take on Australiana. Perfect for adding character to your home decor, each print is expertly framed, turning your space into a celebration of Australia’s unique wildlife and culture.
-  Updated: 2026-06-24T09:41:01Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 9
 - [SHITSHOW EP:10](https://geltchy.com.au/collections/shitshow-ep-10)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 6
 - [SHITSHOW EP:11](https://geltchy.com.au/collections/shitshow-ep-11)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 4
 - [Holden Number Plate Signs - Premium Australian Automotive Art for Your Man Cave](https://geltchy.com.au/collections/holden-number-plate-signs): Premium hand-illustrated Holden number plate signs. HQ Monaro, HZ Sandman & classic Aussie muscle cars. Free shipping Australia-wide.
-  Updated: 2026-08-09T05:15:14Z
-  Total Products: 45
+  Updated: 2026-10-19T11:07:53Z
+  Total Products: 46
 - [FORD NUMBER PLATE SIGNS](https://geltchy.com.au/collections/ford-number-plate-signs)
-  Updated: 2026-08-09T11:11:19Z
+  Updated: 2026-10-09T11:09:14Z
   Total Products: 7
 - [CHRYSLER / VALIANT NUMBER PLATE SIGNS](https://geltchy.com.au/collections/chrysler-valiant-number-plate-signs)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:37Z
   Total Products: 1
 - [SHITSHOW EP: 12](https://geltchy.com.au/collections/shitshow-ep-12)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 2
 - [SHITSHOW EP: 13](https://geltchy.com.au/collections/shitshow-ep-13)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 2
 - [TERMINAL FROST](https://geltchy.com.au/collections/terminal-frost)
-  Updated: 2026-06-24T09:41:02Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 3
 - [SHITSHOW EP: 15](https://geltchy.com.au/collections/shitshow-ep-15)
-  Updated: 2026-06-24T09:41:03Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 4
 - [SHITSHOW EP: 16](https://geltchy.com.au/collections/shitshow-ep-16)
-  Updated: 2026-06-24T09:41:03Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 3
 - [SHITSHOW EP: 17](https://geltchy.com.au/collections/shitshow-ep-17)
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-10-12T11:13:34Z
   Total Products: 3
 - [MYSTERY ](https://geltchy.com.au/collections/mystery-): Unlock the thrill of surprise with our Mystery ! Up to 60% OFF mugs, T-shirts & more. Rare finds, sustainable shopping—shop now for exclusive deals!
-  Updated: 2026-06-24T09:41:03Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 4
 - [FRESH OFF THE PRESS - The SUNDAY SHITSHOW S2 EP:1](https://geltchy.com.au/collections/fresh-off-the-press-the-sunday-shitshow-s2-ep-1): Season 2 of The Sunday SHITSHOW is here! Geltchy drops Holden-inspired number plate signs + a 20% . Tune in to Episode 1 for the code!
-  Updated: 2026-07-26T11:11:25Z
+  Updated: 2026-10-19T11:07:53Z
   Total Products: 3
 - [Men's Tees | Auto Surf Skate Punk Culture | Geltchy](https://geltchy.com.au/collections/mens-automotive-surf-skate-punk-tees): Explore men's punk culture tees that blend automotive art and street style. Join the Geltchy movement today!
-  Updated: 2026-08-11T11:08:51Z
-  Total Products: 94
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 102
 - [THROW PILLOW CUSHIONS](https://geltchy.com.au/collections/throw-pillow-cushions)
-  Updated: 2026-07-12T06:44:43Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 5
 - [COOLTOWN CUSTOMS | The Fusion Of Australian Automotive Art and Apparel](https://geltchy.com.au/collections/cooltown-customs-the-fusion-of-australian-automotive-art-and-apparel): Premium automotive culture meets art in our Australian-made apparel collection. Classic cars, rockabilly style & man cave must-haves by artist Mark Geltch.
-  Updated: 2026-08-09T10:05:33Z
-  Total Products: 26
+  Updated: 2026-10-17T11:14:12Z
+  Total Products: 29
 - [Premium A3 Illustrated Australian Man Cave Metal Signs](https://geltchy.com.au/collections/premium-a3-illustrated-australian-man-cave-metal-signs): Transform Your Man Cave with Premium A3 Illustrated Metal Signs Celebrate Australia’s automotive heritage with exclusive, hand-illustrated decor.Elevate your man cave decor with premium A3 size (275mm x 370mm) aluminium metal signs, proudly printed in Australia. Featuring meticulously hand-illustrated designs by Sunshine Coast artist Mark Geltch, these signs reflect the spirit of Australian automotive culture. Perfect for home bars, garages, or man caves, these sentimental pieces are conversation starters and timeless additions to your space. Crafted for automotive enthusiasts, collectors, and anyone who appreciates quality artwork with a nostalgic Australian twist.Why Choose Our Premium A3 Metal Signs? A3 size (275mm x 370mm) for perfect wall placement. Printed on durable 1mm thick aluminium for lasting quality. Designed by Sunshine Coast artist Mark Geltch. Proudly printed in Australia. What Sets Us Apart? "Exclusive Artist Designs" – Hand-illustrated by Mark Geltch. "Australian-Made" – Support local craftsmanship. "Man Cave " – Perfect for collectors and enthusiasts. Shop the Collection Today!
-  Updated: 2026-06-24T09:41:03Z
+  Updated: 2026-09-30T12:32:38Z
   Total Products: 12
 - [Ready to Hang Limited Edition Australiana Canvas Prints | Premium Wall Art | Geltchy](https://geltchy.com.au/collections/limited-edition-australiana-canvas-prints): Premium ready-to-hang canvas prints, hand-illustrated by Mark Geltch. Museum-grade, professionally stretched canvas. Limited to 20 pieces per design.
-  Updated: 2026-06-24T09:41:04Z
+  Updated: 2026-09-30T12:32:39Z
   Total Products: 1
 - [MENS SWEATSHIRTS](https://geltchy.com.au/collections/mens-sweatshirts)
-  Updated: 2026-06-24T09:41:04Z
+  Updated: 2026-09-30T12:32:39Z
   Total Products: 2
 - [SHITSHOW S2 | EPISODE 6](https://geltchy.com.au/collections/shitshow-s2-episode-6)
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-09-30T12:32:39Z
   Total Products: 3
 - [HQ Holden GTS 4 Door Collection | Art Prints, Mugs, Number Plates & Tin Signs](https://geltchy.com.au/collections/hq-holden-gts-4-door-art-collection): Shop HQ Holden GTS 4 Door art prints, coffee mugs & number plates. Hand-illustrated Australian muscle car collection. Free shipping Australia.
-  Updated: 2026-08-11T06:56:02Z
+  Updated: 2026-09-30T12:32:39Z
   Total Products: 7
 - [Just Released - Limited Edition Holden Art Prints, Number Plates & Man Cave Decor | Geltchy](https://geltchy.com.au/collections/just-released-holden-limited-edition-art): Limited edition Holden HQ GTS art prints, number plates & man cave decor. Hand-illustrated by Mark Geltch. Free shipping over $75. Australian-made.
-  Updated: 2026-08-11T06:56:02Z
+  Updated: 2026-09-30T12:32:39Z
   Total Products: 6
 - [Affordable Framed Aluminium Wall Art Australia | Geltchy](https://geltchy.com.au/collections/affordable-framed-aluminium-wall-art): Shop affordable wooden framed aluminium wall art by Australian artist Mark Geltch. Limited edition man cave decor. Free shipping over $75.
-  Updated: 2026-08-09T05:15:56Z
+  Updated: 2026-10-10T07:54:02Z
   Total Products: 6
 - [Australian Car Number Plate Signs | Premium Automotive Man Cave Decor](https://geltchy.com.au/collections/australian-car-number-plate-signs-man-cave-decor): Premium Australian car number plate signs. Hand-illustrated aluminium automotive art for man caves. Free shipping over $75.
-  Updated: 2026-08-11T06:56:02Z
+  Updated: 2026-10-21T11:09:26Z
   Total Products: 12
 - [WOMENS T-SHIRTS](https://geltchy.com.au/collections/womens-t-shirts)
-  Updated: 2026-07-24T01:12:33Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 15
 - [Man Cave Signs Vertical](https://geltchy.com.au/collections/man-cave-signs-vertical)
-  Updated: 2026-06-24T09:41:05Z
+  Updated: 2026-10-08T11:08:45Z
   Total Products: 1
 - [WOMENS CROP TOPS](https://geltchy.com.au/collections/womens-crop-tops)
-  Updated: 2026-06-24T09:41:05Z
+  Updated: 2026-10-03T11:12:01Z
   Total Products: 2
 - [GAME OVER](https://geltchy.com.au/collections/game-over)
-  Updated: 2026-08-09T05:15:56Z
+  Updated: 2026-10-10T07:54:02Z
   Total Products: 6
 - [MARIO - Game Over](https://geltchy.com.au/collections/mario-game-over)
-  Updated: 2026-08-09T05:15:56Z
+  Updated: 2026-10-10T07:54:02Z
   Total Products: 6
 - [Fresh Off The Press – The Sunday SHITSHOW S2 EP 11 Streetwear & Merch | Life Strife & SMVRK Supply Co](https://geltchy.com.au/collections/fresh-off-the-press-sunday-shitshow-season-2-episode-11-merch): Fresh Off The Press Sunday SHITSHOW S2 EP 11 merch – Aussie-made graphic tees, Life Strife & SMVRK streetwear, limited edition coffee mugs.
-  Updated: 2026-06-24T09:41:05Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 6
 - [CAR BADGE MUGS](https://geltchy.com.au/collections/car-badge-mugs)
-  Updated: 2026-07-13T11:10:04Z
+  Updated: 2026-10-11T11:09:16Z
   Total Products: 8
 - [Fresh Off The Press: Aussie Car Memorabilia, Custom Mugs & Man Cave Decor – The Sunday SHITSHOW Season 2 Episode 12 Collection](https://geltchy.com.au/collections/fresh-off-the-press-aussie-car-memorabilia-custom-mugs-man-cave-decor-sunday-shitshow-s2e12): Shop Aussie car memorabilia, custom podcast mugs & man cave decor from The Sunday SHITSHOW Season 2 Ep12. Limited edition, fast shipping!
-  Updated: 2026-08-02T11:11:06Z
-  Total Products: 7
+  Updated: 2026-10-02T11:08:55Z
+  Total Products: 8
 - [Fresh Off The Press: Limited Edition Automotive Art & Merchandise – The Sunday SHITSHOW Season 2 Episode 13](https://geltchy.com.au/collections/fresh-off-the-press-limited-edition-automotive-art-merchandise-australia-season-2-episode-13-collection): Limited edition automotive art, apparel & mugs from The Sunday SHITSHOW. Aussie-made, exclusive, free shipping $75+. Shop Geltchy collectibles now!
-  Updated: 2026-08-09T05:13:59Z
+  Updated: 2026-09-30T12:32:40Z
   Total Products: 3
 - [Novelty Number Plates Australia | Premium Aluminium Man Cave Plates](https://geltchy.com.au/collections/novelty-number-plates-australia): Shop Novelty Number Plates Australia—premium 1mm aluminium display plates, Aussie made. Perfect for man caves, garages & gifts. Custom options available.
-  Updated: 2026-08-11T06:56:02Z
-  Total Products: 60
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 62
 - [Car Mugs](https://geltchy.com.au/collections/car-mugs)
-  Updated: 2026-08-10T11:10:39Z
-  Total Products: 33
+  Updated: 2026-10-13T11:47:16Z
+  Total Products: 34
 - [CAR BADGE MUGS](https://geltchy.com.au/collections/car-badge-mugs-1)
-  Updated: 2026-07-13T11:10:04Z
+  Updated: 2026-10-11T11:09:16Z
   Total Products: 8
 - [MENS T-SHIRTS](https://geltchy.com.au/collections/mens-t-shirts): Australian-made men’s t-shirts featuring hand-illustrated Holden, Ford & car art. Shop unique automotive tees by Geltchy.
-  Updated: 2026-08-09T10:05:33Z
-  Total Products: 60
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 68
 - [Fresh Off The Press: Limited Edition Automotive Art & Merchandise – The Sunday SHITSHOW Season 3 Episode 1](https://geltchy.com.au/collections/fresh-off-the-press-limited-edition-automotive-art-merch-sunday-shitshow-s3e1): Shop limited edition automotive art & merch from The Sunday SHITSHOW S3E1. Unique Aussie street, surf, skate, punk & car culture. Free shipping now!
-  Updated: 2026-08-02T11:11:06Z
+  Updated: 2026-10-17T11:14:12Z
   Total Products: 8
 - [Limited Edition Tattoo Art Merchandise Fresh Off The Press S3 EP 2](https://geltchy.com.au/collections/limited-edition-tattoo-art-merchandise-s3-ep-2): Explore our limited edition tattoo art merchandise. Unique designs that are fresh off the press, perfect for art lovers and collectors!
-  Updated: 2026-06-24T09:41:06Z
+  Updated: 2026-09-30T12:32:40Z
   Total Products: 8
 - [KIDS 2-6](https://geltchy.com.au/collections/kids-2-6)
-  Updated: 2026-06-24T09:41:06Z
-  Total Products: 1
+  Updated: 2026-10-05T07:33:11Z
+  Total Products: 2
 - [Club and Community Merchandise Collection – FRESH OFF THE PRESS](https://geltchy.com.au/collections/club-and-community-merchandise-collection): Shop unique Club and Community Merchandise. Aussie-made surf, skate, streetwear tees. Limited edition, fast shipping Australia-wide. Support your local club!
-  Updated: 2026-08-11T11:08:51Z
+  Updated: 2026-09-30T12:32:41Z
   Total Products: 6
 - [Club and Community Merchandise Collection – FRESH OFF THE PRESS](https://geltchy.com.au/collections/club-and-community-merchandise-collection-fresh-off-the-press-copy): Shop unique Club and Community Merchandise. Aussie-made surf, skate, streetwear tees. Limited edition, fast shipping Australia-wide. Support your local club!
-  Updated: 2026-08-11T11:08:51Z
+  Updated: 2026-09-30T12:32:41Z
   Total Products: 6
 - [Car Merchandise Collection – FRESH OFF THE PRESS S3 EP4](https://geltchy.com.au/collections/car-merchandise-collection-fresh-off-the-press-s3-ep4): Car Merchandise Collection. Shop The Sunday SHITSHOW S3E4 for 20% off street machine, custom car, and Aussie automotive gear. Limited time only!
-  Updated: 2026-07-24T11:12:35Z
+  Updated: 2026-10-17T11:14:12Z
   Total Products: 6
 - [Holden Car Merchandise | Fresh Off The Press | S3 Episode 5](https://geltchy.com.au/collections/holden-car-merchandise-australia-20-off): Shop Holden car merchandise in Australia with 20% off. Discover mugs, signs and gifts inspired by classic Holden and street machine culture.
-  Updated: 2026-08-06T11:12:07Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 6
 - [Funny Warning Man Cave Signs - Australia](https://geltchy.com.au/collections/funny-warning-man-cave-signs): Funny warning man cave signs for sheds, garages and bars. Shop rude Aussie humour signs made to get laughs and spark great gift buys.
-  Updated: 2026-08-01T11:10:58Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 7
 - [Swearing Humour Merchandise | Fresh Off The Press | S3 Episode 6](https://geltchy.com.au/collections/swearing-humour-merchandise-fresh-off-the-press): Swearing humour merchandise tees and mugs from Life Strife - Fresh Off The Press. Score 20% off automatically at checkout for a limited time only.
-  Updated: 2026-08-09T10:05:14Z
+  Updated: 2026-09-30T12:32:41Z
   Total Products: 8
 - [MENS POLO SHIRTS](https://geltchy.com.au/collections/mens-polo-shirts)
-  Updated: 2026-06-24T09:41:07Z
+  Updated: 2026-09-30T12:32:41Z
   Total Products: 1
 - [Man Cave Signs Australia | Fresh Off The Press](https://geltchy.com.au/collections/man-cave-signs-australia-funny-tin-signs): Shop funny man cave signs Australia loves, plus shed signs, warning tin signs and novelty garage signs. Affordable styles with 20% off at checkout.
-  Updated: 2026-08-01T11:10:58Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 10
 - [ANZAC Day 2026 | Fresh Off The Press – (Lest We Forget Collection)](https://geltchy.com.au/collections/anzac-day-2026-fresh-off-the-press): ANZAC Day 2026 Fresh Off The Press: shirts, tees, mugs & stickers. Watch S3E8 for the 20% code. Valid until 10 May 2026.
-  Updated: 2026-06-24T09:41:07Z
+  Updated: 2026-10-04T11:09:13Z
   Total Products: 8
 - [Punk Streetwear Australia | Skull Tees, Stickers & Mugs](https://geltchy.com.au/collections/punk-streetwear-australia-fresh-off-the-press-s3e9): Punk Streetwear Australia drop: skull tees, stickers & mugs. 20% off code in Episode 9 YouTube. Ends midnight AEST 6 Jun 2026.
-  Updated: 2026-07-08T11:11:56Z
-  Total Products: 8
+  Updated: 2026-10-23T00:43:12Z
+  Total Products: 9
 - [Ford Coffee Mugs 15oz | Illustrated Auto Art Mug Australia](https://geltchy.com.au/collections/ford-coffee-mugs-15oz): Shop Ford Coffee Mugs in 15oz illustrated auto art. Dishwasher & microwave safe, designed and printed in Australia. Fast AU shipping—order now.
-  Updated: 2026-07-19T08:47:43Z
+  Updated: 2026-09-30T12:32:41Z
   Total Products: 5
 - [Mens Hoodies Australia | Graphic, Surf, Snow & Zip Hoodies](https://geltchy.com.au/collections/mens-hoodies-australia): Mens hoodies Australia: graphic, surf, snow & zip styles. Limited drops, easy checkout—grab your next go-to hoodie today. Shop now.
-  Updated: 2026-06-24T09:41:07Z
+  Updated: 2026-09-30T12:32:42Z
   Total Products: 2
 - [Fresh Off The Press Merch Drop (S3E10) | SACRIFICE Industries](https://geltchy.com.au/collections/fresh-off-the-press-merch-drop-s3e10): Fresh Off The Press Merch Drop (S3E10): SACRIFICE Industries tee & hoodie. Watch Episode 10 on YouTube to find the 20% code. Ends 28 Jun 2026.
-  Updated: 2026-08-07T09:18:41Z
+  Updated: 2026-09-30T12:32:42Z
   Total Products: 6
 - [Holden Sandman Number Plate Signs | HQ & Original Lettering Drop](https://geltchy.com.au/collections/holden-sandman-number-plate-signs-drop-s3e11): Holden Sandman number plate signs drop: HQ Glacier White premium aluminium + original lettering man cave sign. Watch S3E11 for 20%  code.
-  Updated: 2026-07-24T11:12:35Z
+  Updated: 2026-10-21T11:09:26Z
   Total Products: 6
+- [Custom Number Plate Sign | Fresh Off The Press Merch Drop (S3E14)](https://geltchy.com.au/collections/custom-number-plate-sign-australia): Custom number plate sign Australia: personalised chrome text aluminium plates for man caves & garages. Watch S3E14 for a hidden 20% code.
+  Updated: 2026-10-22T11:11:44Z
+  Total Products: 4
+- [ACRYLIC SIGNS](https://geltchy.com.au/collections/acrylic-signs)
+  Updated: 2026-09-30T12:32:42Z
+  Total Products: 1
 
 ## Blogs
 
@@ -1939,6 +1898,10 @@ Check this Strictly limited collectors edition of 25 each Signed & Numbered Fram
     Updated: 2026-08-01T09:26:08Z
     Author: Mark Geltch
     Tags: Agent Orange, Alternative lifestyle Australia, Australian bands, Australian podcast, Australian punk, Australian surf culture, Brisbane punk, captives, Custom cars Australia, DIY culture, Melbourne punk, music picks, New music releases, Noosa surfing, Phantogram, punk rock, Skateboarding Australia, Songs of The SHITSHOW, Street machines Australia, Surf videography Australia, Underground culture Australia, Whiskey & Speed, Yaroomba Beach, Yaroomba junior surf comp, YouTube podcast
+  - [Best Coffee Sunshine Coast: Wagtail Coffee Yaroomba](https://geltchy.com.au/blogs/sunday-shitshow-season-3-podcast/best-coffee-sunshine-coast-wagtail-coffee-yaroomba-s3e14): Best Coffee Sunshine Coast: Wagtail Coffee Yaroomba
+    Updated: 2026-08-22T02:34:51Z
+    Author: Mark Geltch
+    Tags: Best Coffee Sunshine Coast, Coffee Tips, Humble Scott Coffee Roasters, Ian Harrison, Punk Picks, Ratcat, Season 3 Episode 14, Specialty Coffee, Sunshine Coast Cafes, Sunshine Coast Coffee, Surf Talk, The Meanies, The Skinner Brothers, The Sunday SHITSHOW, Wagtail Coffee, Yaroomba QLD
 - [New Music Reviews: Weekly Punk, Hardcore & Metal Singles (Australia)](https://geltchy.com.au/blogs/new-music-reviews): New Music Reviews of punk, hardcore, metal & metalcore singles—weekly drops, underground picks, and fast takes worth your time.
   - [Lambrini Girls Cult of  Review (Punk)](https://geltchy.com.au/blogs/new-music-reviews/lambrini-girls-cult-of--review): Lambrini Girls Cult of  Review (Punk)
     Updated: 2026-04-30T08:27:23Z
@@ -2000,6 +1963,30 @@ Check this Strictly limited collectors edition of 25 each Signed & Numbered Fram
     Updated: 2026-08-06T10:04:03Z
     Author: Mark Geltch
     Tags: alternative rock, Australian alternative rock, Deftones influence, emo rock, heavy alternative, Invisible Strings, lyrics meaning, Melbourne band, Memory Music, new music review, post-grunge, punk rock, shoegaze, song review, The Sunday SHITSHOW, Turnstile influence, Wayside, Wayside Invisible Strings review, Will Yip
+  - [Until The Sun Explodes Sublime review | Geltchy](https://geltchy.com.au/blogs/new-music-reviews/until-the-sun-explodes-sublime-review): Until The Sun Explodes Sublime review | Geltchy
+    Updated: 2026-08-14T12:06:58Z
+    Author: Mark Geltch
+    Tags: alternative rock, band history, best lyrics, Bradley Nowell, Bud Gaugh, Eric Wilson, Geltchy, Jakob Nowell, Long Beach, lyrics meaning, new music review, punk rock, reggae punk, ska punk, song review, Sublime, Sublime review, The Sunday SHITSHOW, Until The Sun Explodes, Until The Sun Explodes Sublime review
+  - [Mannequin Death Squad Sick Review (2026 Mix)](https://geltchy.com.au/blogs/new-music-reviews/mannequin-death-squad-sick-review-lyrics-production-verdict): Mannequin Death Squad Sick Review (2026 Mix)
+    Updated: 2026-08-20T10:27:19Z
+    Author: Mark Geltch
+    Tags: alternative rock, Australian punk, controlled chaos, grunge punk, lyrics meaning, Mannequin Death Squad, Mannequin Death Squad review, Melbourne punk, new music 2026, production mix, punk duo, punk rock, Sick (2026 Mix), Sick review
+  - [Dead Poet Society Cold Song Review & Lyrics Meaning](https://geltchy.com.au/blogs/new-music-reviews/dead-poet-society-cold-song-review): Dead Poet Society Cold Song Review & Lyrics Meaning
+    Updated: 2026-08-26T11:13:35Z
+    Author: Mark Geltch
+    Tags: 2026 rock releases, alt rock, alternative rock, Cold, Cold song review, Dead Poet Society, Dead Poet Society Cold song review, hard rock, heavy alt rock, Jack Underkofler, lyrics meaning, modern rock, music video, new music, new single, Paul Meany, rock review, song meaning, underground rock
+  - [Down Blood Oath Review: Lyrics, Meaning & Verdict](https://geltchy.com.au/blogs/new-music-reviews/down-blood-oath-review): Down Blood Oath Review: Lyrics, Meaning & Verdict
+    Updated: 2026-09-03T08:38:52Z
+    Author: Mark Geltch
+    Tags: band history, Blood Oath single, doom metal, Down Blood Oath, Down Blood Oath review, Down review, heavy metal single review, lyrics meaning, metal song review, New Orleans sludge metal, Phil Anselmo, sludge metal, southern metal, stoner metal, The Sunday SHITSHOW
+  - [Private School GO AWAY Review: Lyrics Meaning](https://geltchy.com.au/blogs/new-music-reviews/private-school-go-away-review): Private School GO AWAY Review: Lyrics Meaning
+    Updated: 2026-09-13T02:11:10Z
+    Author: Mark Geltch
+    Tags: alt rock, GO AWAY, hardcore, Los Angeles band, lyrics meaning, music blog, new music, nu metal, Private School, Private School GO AWAY review, rap rock, song review, The Sunday SHITSHOW, underground music
+  - [The Kittyhawks Hold Your Fire Review](https://geltchy.com.au/blogs/new-music-reviews/the-kittyhawks-hold-your-fire-review): The Kittyhawks Hold Your Fire Review
+    Updated: 2026-09-19T03:19:14Z
+    Author: Mark Geltch
+    Tags: Australian ska punk, Brisbane music blog, Hold Your Fire, horn-driven punk, live music Australia, Melbourne ska punk, new music review, punk band Australia, punk rock, ska punk, ska punk single, The Kittyhawks, The Kittyhawks Hold Your Fire review, underground music
 - [MAN CAVE Essentials Cars Signs & Barware](https://geltchy.com.au/blogs/man-cave-essentials-cars-signs-barware): MAN CAVE Essentials Cars Signs & Barware—car art, number plate signs, tin signs, mugs & bar gear. Shop unique Aussie-made gifts.
   - [Tin Signs for Man Cave | Aussie Garage Wall Decor](https://geltchy.com.au/blogs/man-cave-essentials-cars-signs-barware/tin-signs-for-man-cave-aussie-garage-shed-wall-decor-ideas): Tin Signs for Man Cave | Aussie Garage Wall Decor
     Updated: 2026-07-04T04:35:04Z
@@ -2021,10 +2008,18 @@ Check this Strictly limited collectors edition of 25 each Signed & Numbered Fram
     Updated: 2026-07-29T10:33:23Z
     Author: Geltchy
     Tags: car wall art, custom number plate sign, fathers day gift, fb holden, fb holden wagon, garage wall art, gift for dad, holden memorabilia, man cave decor, man cave gifts, man cave signs, man cave signs australia, novelty number plates, number plate signs, shed wall art
+  - [Holden HQ GTS Monaro Man Cave Wall Art FAQs](https://geltchy.com.au/blogs/man-cave-essentials-cars-signs-barware/holden-hq-gts-monaro-man-cave-wall-art-salamanca-red-faqs): Holden HQ GTS Monaro Man Cave Wall Art FAQs
+    Updated: 2026-08-16T02:33:21Z
+    Author: Geltchy
+    Tags: art print, Australian car art, Australian made, automotive artwork, bar runner, canvas print, classic Holden, garage wall art, gift ideas for car lovers, GTS Monaro, Holden HQ GTS Monaro, Holden wall art, limited edition prints, man cave decor, man cave wall art, number plate sign, Salamanca Red, shed decor
   - [EH Holden Gifts: EH Premier Man Cave Decor](https://geltchy.com.au/blogs/man-cave-essentials-cars-signs-barware/eh-holden-gifts-eh-premier-man-cave-decor): EH Holden Gifts: EH Premier Man Cave Decor
     Updated: 2026-08-02T11:56:07Z
     Author: Geltchy
     Tags: Australian made, automotive art, bar runner, classic car gifts, classic Holden, custom car art, EH Holden gifts, EH Holden mug, EH Holden number plate, EH Holden wall art, EH Premier, garage decor, Holden barware, Holden EH, Holden gifts, Holden man cave, Holden wall art, limited edition, man cave decor, personalised gifts
+  - [Exploring How Car Art Transforms Ordinary Spaces into Ultimate Man Caves](https://geltchy.com.au/blogs/man-cave-essentials-cars-signs-barware/exploring-how-car-art-transforms-ordinary-spaces-into-ultimate-man-caves): Exploring How Car Art Transforms Ordinary Spaces into Ultimate Man Caves
+    Updated: 2026-10-20T00:06:02Z
+    Author: Geltchy
+    Tags: car art, cave, decor, ford, garage makeover, giftware, holden, home bar, man, man cave, merchandise, tin sign, transform ordinary spaces, ultimate man cave ideas
 - [EVENTS](https://geltchy.com.au/blogs/events)
   - [Next Gen Challenge 2026: Yaroomba Junior Surf Comp](https://geltchy.com.au/blogs/events/next-gen-challenge-2026-yaroomba-junior-surf-comp): Next Gen Challenge 2026: Yaroomba Junior Surf Comp
     Updated: 2026-07-15T11:46:06Z
@@ -2081,15 +2076,15 @@ Check this Strictly limited collectors edition of 25 each Signed & Numbered Fram
 ## Policies
 
 - [Privacy Policy](https://geltchy.com.au/policies/privacy-policy)
-  Updated: 2022-12-21T18:12:47+10:00
+  Updated: 2022-12-21T08:12:47Z
 - [Shipping Policy](https://geltchy.com.au/policies/shipping-policy)
-  Updated: 2022-12-21T18:12:47+10:00
+  Updated: 2026-09-29T12:16:16Z
 - [Refund Policy](https://geltchy.com.au/policies/refund-policy)
-  Updated: 2022-12-21T20:52:11+10:00
+  Updated: 2022-12-21T10:52:11Z
 - [Terms of Service](https://geltchy.com.au/policies/terms-of-service)
-  Updated: 2022-12-21T18:12:47+10:00
+  Updated: 2022-12-21T08:12:47Z
 - [Contact Information](https://geltchy.com.au/policies/contact-information)
-  Updated: 2022-12-15T18:00:09+10:00
+  Updated: 2022-12-15T08:00:09Z
 
 ## Optional
 
