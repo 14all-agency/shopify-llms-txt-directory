@@ -6,7 +6,7 @@
 - Timezone: Asia/Taipei
 - Created At: 2020-05-06T12:41:58Z
 - Contact Email: evan5471@gmail.com
-- Updated At: 2026-09-08T00:00:44.773Z
+- Updated At: 2026-10-23T00:53:55.190Z
 
 ## Products
 
@@ -254,48 +254,6 @@
   - [L](https://aprilmint.com/products/vivi-high-rise-leggings?variant=34461590061189)
     Availability: Available
     Price: $98.00 USD
-- [Gina Power Sculpting Bra Top](https://aprilmint.com/products/gina-power-sculpting-bra-top): EDITOR'S NOTE The lightweight Gina power sculpting bra top provides support and shapeliness without sacrificing comfort and feel like your second skin. The supple feel and seamless construction make this bra top an everyday layering staple that enhances your body' natural shape. Shown with the APRIL MINT Gina power sculpting bike short. DETAILS & CARE Everyday Comfort, Support Of An Underwire, Silicone Band, Adjustable Straps Machine Wash Cold, Do Not Bleach, Tumble Dry Low Importe SIZE & FIT Olivia Is 5'5" And Wearing Size S/M 78% Nylon / 22% Spandex DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
-  Updated: 2026-08-27T17:51:46Z
-  Vendor: April Mint
-  Product Type: shapewear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0381/5912/2565/products/GinaBraTop-1.jpg?v=1655411867
-  - [S/M / NUDE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262532741)
-    Availability: Available
-    Price: $48.00 USD
-  - [S/M / BLACK](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262565509)
-    Availability: Available
-    Price: $48.00 USD
-  - [S/M / PURPPLE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262598277)
-    Availability: Available
-    Price: $48.00 USD
-  - [S/M / BROWN](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262631045)
-    Availability: Available
-    Price: $48.00 USD
-  - [M/L / NUDE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262663813)
-    Availability: Available
-    Price: $48.00 USD
-  - [M/L / BLACK](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262696581)
-    Availability: Available
-    Price: $48.00 USD
-  - [M/L / PURPPLE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262729349)
-    Availability: Available
-    Price: $48.00 USD
-  - [M/L / BROWN](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262762117)
-    Availability: Available
-    Price: $48.00 USD
-  - [L/XL / NUDE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262794885)
-    Availability: Available
-    Price: $48.00 USD
-  - [L/XL / BLACK](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262827653)
-    Availability: Available
-    Price: $48.00 USD
-  - [L/XL / PURPPLE](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262860421)
-    Availability: Available
-    Price: $48.00 USD
-  - [L/XL / BROWN](https://aprilmint.com/products/gina-power-sculpting-bra-top?variant=39509262893189)
-    Availability: Available
-    Price: $48.00 USD
 - [Gina Power Sculpting Bike Short](https://aprilmint.com/products/copy-of-gina-power-sculpting-bike-short): EDITOR'S NOTE Invisible under everything, this Gina power sculpting bike short provides core support while shaping and lifting your butt. The whisper-soft and seamless construction makes this sculpting bike short an everyday staple for enhancing your body's natural shape. Shown with the Gina power sculpting bra top. If you prefer more comfort for everyday wear, we recommend selecting a size up. DETAILS & CARE Silicone Waist Grip Band To Prevent Rolling, Mid Rise, Full Back, Seamless Construction Machine Wash Cold, Do Not Bleach Imported SIZE & FIT Olivia is 5'5" And Wearing Size S/M 78% Nylon / 22% Spandex DELIVERY & RETURN Express: USD $0 Delivery between 9 am-8 pm, Monday to Friday Receive your purchases in 2-3 working days after your order has been accepted Delivery information for shipping to US Try your purchase on in the comfort of your own home and let us know straight away if you’d like a different size or a refund and we’ll collect from your home, work, or an alternative address. Find out more about our Shipping & return.
   Updated: 2026-07-16T22:23:11Z
   Vendor: April Mint
@@ -1128,7 +1086,7 @@
 ## Collections
 
 - [ALL COLLECTION](https://aprilmint.com/collections/frontpage)
-  Updated: 2026-08-28T11:12:56Z
+  Updated: 2026-09-28T07:56:43Z
   Total Products: 90
 - [Signature One-Piece Swimsuits](https://aprilmint.com/collections/swimsuit-one-piece): NAKED — Second-Skin ComfortSmooth, soft and highly flexible fabrics create a barely-there feel that moves naturally with the body. SUPPORTED — Considered SupportThoughtful construction provides a secure, flattering fit while allowing the body to move freely and confidently. SHAPED — Sculpted by DesignCouture-inspired seams, strategic coverage and contouring cuts visually define the waist, smooth the midsection and enhance natural proportions.
   Updated: 2026-07-30T07:00:08Z
@@ -1143,10 +1101,10 @@
   Updated: 2026-07-08T21:37:27Z
   Total Products: 3
 - [LINGERIE](https://aprilmint.com/collections/lingerie)
-  Updated: 2026-08-28T11:12:56Z
+  Updated: 2026-09-28T07:56:43Z
   Total Products: 40
 - [Front Page Collection](https://aprilmint.com/collections/front-page-collection)
-  Updated: 2026-08-28T11:12:56Z
+  Updated: 2026-09-28T07:56:43Z
   Total Products: 9
 - [ACCESSORIES & HATS](https://aprilmint.com/collections/accessories)
   Updated: 2026-08-22T07:55:58Z
@@ -1167,7 +1125,7 @@
   Updated: 2026-07-08T21:37:44Z
   Total Products: 14
 - [Shapewear](https://aprilmint.com/collections/shapewear)
-  Updated: 2026-08-28T11:12:56Z
+  Updated: 2026-09-28T07:56:43Z
   Total Products: 6
 - [Black & White](https://aprilmint.com/collections/black-white)
   Updated: 2026-08-22T07:56:51Z
@@ -1218,11 +1176,11 @@
 ## Policies
 
 - [Privacy Policy](https://aprilmint.com/policies/privacy-policy)
-  Updated: 2025-02-15T07:26:39+08:00
+  Updated: 2025-02-14T23:26:39Z
 - [Shipping Policy](https://aprilmint.com/policies/shipping-policy)
-  Updated: 2025-02-15T07:32:26+08:00
+  Updated: 2025-02-14T23:32:26Z
 - [Refund Policy](https://aprilmint.com/policies/refund-policy)
-  Updated: 2025-02-15T07:26:10+08:00
+  Updated: 2025-02-14T23:26:10Z
 
 ## Optional
 
