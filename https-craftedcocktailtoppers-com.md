@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-06-03T00:00:43.888Z
+- Updated At: 2026-10-23T01:18:44.855Z
 
 Crafted Cocktail Toppers is a premium provider of custom edible drink toppers designed for weddings, corporate events, and luxury celebrations. Our toppers can be personalized with logos, photos, monograms, and themed designs to elevate cocktails and create memorable drink experiences.
 
@@ -14,10 +14,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 
 ## Products
 
-- [Custom Edible Monogram Toppers | Cocktail Garnishes](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Elevate your cocktails with custom edible monogram toppers. Perfect for weddings, parties & events. Premium quality, fast shipping. Order 50-1000 pieces!
-  Updated: 2026-06-02T09:57:57Z
+- [Personalized Edible Monogram Drink Toppers - Custom Cocktail Garnishe](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-10-22T17:46:38Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: Cocktail Accessories
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6048552515_a70x.webp?v=1746560933
   - [2" / 50](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes?variant=43003695595590)
@@ -84,17 +84,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6000475256_3sm7.webp?v=1746560972
     Price: $18.21 USD
-- [Custom Cocktail Topper Design Setup – $35 Pre-Production Fee](https://craftedcocktailtoppers.com/products/set-up-fee-for-pre-production-design-transfer): Initiate your personalized cocktail topper design with a $35 setup fee. Ensure precise pre-production design transfer for standout event garnishes.
-  Updated: 2026-05-11T21:28:12Z
-  Vendor: Crafted Cocktail Toppers
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/223.jpg?v=1746633994
-  Price: $35.00 USD
 - [Personalized customizable foil stamping Napkins for Wedding, Custom Monogram Cocktail and Dinner Napkins, Engagement and Anniversary](https://craftedcocktailtoppers.com/products/personalized-customizable-foil-stamping-napkins-for-wedding-custom-monogram-cocktail-and-dinner-napkins-engagement-and-anniversary-3406690): Elevate your special day with our personalized customizable foil stamping napkins. Perfect for weddings, engagements, and anniversaries, these custom monogram cocktail and dinner napkins add a luxurious touch to any event. Delight your guests with beautifully foiled stamped beverage napkins, crafted to match your style and theme. Make your moments memorable with our high-quality, elegant napkins.Product Features:Material: Made from three-ply tissue for a soft yet durable feel.Size: Compact size at 4.75" x 4.75", perfect for beverages.Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities.Printing technique: 1 sided full-color digital print
-  Updated: 2026-04-02T10:38:43Z
-  Vendor: MyDesigns
-  Product Type: Physical Item
+  Updated: 2026-07-08T20:24:31Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/a1d7496e-702f-4273-bd9e-56add4b52f27.jpg?v=1748461355
   - [Wine (50) / Copper Foil](https://craftedcocktailtoppers.com/products/personalized-customizable-foil-stamping-napkins-for-wedding-custom-monogram-cocktail-and-dinner-napkins-engagement-and-anniversary-3406690?variant=43220453556294)
@@ -248,10 +241,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [Gold (50) / Rose Gold Foil](https://craftedcocktailtoppers.com/products/personalized-customizable-foil-stamping-napkins-for-wedding-custom-monogram-cocktail-and-dinner-napkins-engagement-and-anniversary-3406690?variant=43220455161926)
     Availability: Available
     Price: $59.00 USD
-- [Sexy Lips Edible Drink Topper - Edible Cocktail Garnish, Lips Shaped Drink Decoration, Party Drink Accessory, Bachelorette Party Favor](https://craftedcocktailtoppers.com/products/sexy-lips-edible-drink-topper-edible-cocktail-garnish-lips-shaped-drink-decoration-party-drink-accessory-bachelorette-party-favor): Add a touch of flirty fun to your drinks with our Sexy Lips Edible Drink Toppers! Perfect for turning any ordinary cocktail into a conversation starter, these lips-shaped edible garnishes are the must-have accessory for your next party. Whether you‘re hosting a bachelorette bash, celebrating a birthday, or just want to add some sass to your sip, these toppers have got you covered. Crafted with care and designed to dazzle, our edible lips bring a playful vibe to any event. Imagine the look on your guests‘ faces when they see their drinks topped with these cheeky, edible decorations it‘s sure to be a hit! And the best part? Theyre not just for looks; theyre completely edible, adding a sweet and surprising twist to your favorite cocktails. These toppers are perfect for themed parties, girls‘ nights out, or any occasion where a little extra flair is needed. Theyre also fantastic as party favors, giving your guests something to remember the night by. So why settle for boring when you can make your drinks stand out with our Sexy Lips Edible Drink Toppers? Add these sassy toppers to your cart now and get ready to wow your guests with a sip-worthy surprise!
-  Updated: 2026-04-02T10:38:44Z
-  Vendor: Etsy
-  Product Type: 
+- [Sexy Lips Edible Drink Topper - Edible Cocktail Garnish, Lips Shaped](https://craftedcocktailtoppers.com/products/sexy-lips-edible-drink-topper-edible-cocktail-garnish-lips-shaped-drink-decoration-party-drink-accessory-bachelorette-party-favor): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-07-08T20:24:31Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6238626397_m4n6.jpg?v=1750221289
   - [50 / 2"](https://craftedcocktailtoppers.com/products/sexy-lips-edible-drink-topper-edible-cocktail-garnish-lips-shaped-drink-decoration-party-drink-accessory-bachelorette-party-favor?variant=43455744770118)
@@ -282,16 +275,16 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $236.00 USD
 - [Professional Custom Photo Editing Service | Personalized Photo Design | Enhance & Retouch Images](https://craftedcocktailtoppers.com/products/professional-custom-photo-editing-service-personalized-photo-design-enhance-retouch-images): Unlock the potential of your photos with our Custom Photo Editing Design Service! Whether you need to enhance, retouch, or completely transform your images, our expert team provides professional-grade edits tailored to your exact needs. From photo restoration and color correction to intricate photo manipulation and background removal, we handle it all with precision and creativity. Our service is ideal for anyone looking to elevate their images, be it for personal memories, professional portfolios, or social media presence. With years of experience in digital photo editing, we guarantee a finished product that exceeds your expectations. Order now and let us bring your vision to life! Why Choose Us? Custom Solutions: Every project is unique, and we provide personalized edits to match your specific requirements. Professional Quality: We use advanced techniques and tools to deliver superior results. Fast Turnaround: Get your edited photos back quickly without compromising on quality. Satisfaction : We work closely with you to ensure you‘re completely satisfied with the final product. How It Works: Upload your photos and specify your editing needs. Our skilled editors get to work, applying their expertise to enhance your images. Review the edits and request any revisions if necessary. Download your final, polished images ready for use! Make your photos stand out with our Custom Photo Editing Design Servicewhere every image is perfected to shine. Order today and take the first step towards stunning, professional-quality photos!
-  Updated: 2026-05-30T02:53:09Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:31Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Photo Editing Services
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6248530545_cwgk.jpg?v=1750221531
   Price: $14.43 USD
-- [🎉 7 Best Bulk Personalized Edible Drink Toppers – Fast Turnaround](https://craftedcocktailtoppers.com/products/personalized-edible-drink-toppers): Order custom edible drink toppers—bulk packs, fast delivery, vegan, and allergen-friendly. Perfect for events, bars & weddings. Customize yours today!
-  Updated: 2026-05-19T19:28:47Z
+- [Bulk Personalized Edible Drink Toppers – Custom Logo & Event Designs](https://craftedcocktailtoppers.com/products/personalized-edible-drink-toppers): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-10-20T04:02:48Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: 
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/77d265d49edf.png?v=1751245250
   - [2" / 6](https://craftedcocktailtoppers.com/products/personalized-edible-drink-toppers?variant=43496369160262)
@@ -342,10 +335,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/77d265d49edf.png?v=1751245250
     Price: $33.00 USD
-- [30th Birthday Edible Drink Toppers – Fun, Custom Party Decorations](https://craftedcocktailtoppers.com/products/edible-drink-toppers-30th-birthday): Celebrate turning 30 in style with personalized edible drink toppers! Perfect for cocktails, mocktails, and coffee — fun, food-safe, and  to wow your guests.
-  Updated: 2026-04-02T10:38:44Z
+- [🎉 Edible Drink Toppers for 30th Birthday – Fun, Personalized Party D](https://craftedcocktailtoppers.com/products/edible-drink-toppers-30th-birthday): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-09-18T23:51:48Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: 
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/30.png?v=1751422850
   - [2" / 6](https://craftedcocktailtoppers.com/products/edible-drink-toppers-30th-birthday?variant=43503924772934)
@@ -384,10 +377,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [3" / 25](https://craftedcocktailtoppers.com/products/edible-drink-toppers-30th-birthday?variant=43503925133382)
     Availability: Available
     Price: $33.00 USD
-- [Edible Baby Shower Drink Toppers – Custom & Instagram-Worthy](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower): Personalized edible drink toppers for baby showers, gender reveals & sprinkles. Elevate your drinks with custom designs that impress guests—order now!
-  Updated: 2026-05-08T13:59:17Z
+- [Personalized Edible Drink Toppers for Baby Shower – Custom Baby Showe](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-09-18T20:20:53Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: 
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/040.png?v=1751506193
   - [2" / 6](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower?variant=43506728697926)
@@ -426,10 +419,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [3" / 25](https://craftedcocktailtoppers.com/products/edible-drink-toppers-baby-shower?variant=43506729058374)
     Availability: Available
     Price: $33.00 USD
-- [Personalized Napkins for Wedding, Anniversary, Engagement | Custom Monogram Cocktail Napkins | Printed Luncheon & Dinner Guest Napkins](https://craftedcocktailtoppers.com/products/personalized-napkins-for-wedding-anniversary-engagement-custom-monogram-cocktail-napkins-printed-luncheon-dinner-guest-napkins): Elevate your special occasions with our Personalized Napkins, perfect for weddings, anniversaries, and engagements. Our custom napkins, featuring elegant monograms and high-quality printing, are designed to add a touch of sophistication to your events. These custom printed napkins are ideal for cocktail, beverage, luncheon, and dinner settings, making them versatile for any guest arrangement. Why Choose Our Personalized Napkins? Custom Monogram Design: Each napkin is printed with your chosen monogram, ensuring a personal touch that your guests will remember. High-Quality Printing: We use top-notch printing techniques to ensure clarity and durability. Versatile Usage: Suitable for cocktail hours, beverages, luncheons, and dinners, these napkins are perfect for all parts of your event. Perfect for Any Event: Ideal for weddings, anniversaries, engagements, and other special celebrations. Our personalized napkins not only enhance the aesthetic appeal of your event but also serve as a memorable keepsake for your guests. Whether you are hosting a wedding reception, an anniversary party, or an engagement celebration, these napkins are a must-have. Order your Personalized Napkins today and make your event unforgettable with a touch of personalized elegance.
-  Updated: 2026-05-26T17:42:27Z
-  Vendor: Etsy
-  Product Type: 
+- [Custom Monogram Wedding Napkins | Personalized Cocktail Napkins](https://craftedcocktailtoppers.com/products/personalized-napkins-for-wedding-anniversary-engagement-custom-monogram-cocktail-napkins-printed-luncheon-dinner-guest-napkins): Custom monogram cocktail napkins for weddings, anniversaries, and engagements. Elegant printed napkins with personalized designs. Available in 50–1000 count packs. Perfect for guest tables and bar setups.
+  Updated: 2026-08-13T14:25:49Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6011215358_rs61.jpg?v=1751588507
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/personalized-napkins-for-wedding-anniversary-engagement-custom-monogram-cocktail-napkins-printed-luncheon-dinner-guest-napkins?variant=43509470560326)
@@ -460,9 +453,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $374.64 USD
 - [He Popped The Question Beverage Napkins, Engagement Party Napkins, Bridal Shower Napkins, Wedding Reception Napkins, Proposal Party Decor](https://craftedcocktailtoppers.com/products/he-popped-the-question-beverage-napkins-engagement-party-napkins-bridal-shower-napkins-wedding-reception-napkins-proposal-party-decor): Celebrate your engagement with these elegant beverage napkins featuring the phrase "He Popped The Question". Perfect for engagement parties, bridal showers, and wedding receptions, these napkins add a touch of fun to your special occasion. Each pack comes with napkins designed to complement your party decor and make your proposal celebration memorable. Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:45Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:33Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6009691200_iq8i.jpg?v=1751588509
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/he-popped-the-question-beverage-napkins-engagement-party-napkins-bridal-shower-napkins-wedding-reception-napkins-proposal-party-decor?variant=43509470888006)
@@ -502,9 +495,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6088578339_m47h.jpg?v=1751588511
     Price: $374.64 USD
 - [Team Bride Beverage Napkins, Bachelorette Party Napkins, Bridal Shower Decoration, Engagement Party Accessories, Hen Party Essentials](https://craftedcocktailtoppers.com/products/team-bride-beverage-napkins-bachelorette-party-napkins-bridal-shower-decoration-engagement-party-accessories-hen-party-essentials): Celebrate your bachelorette party or bridal shower with these "Team Bride" beverage napkins. Perfect for adding a special touch to your party decor, these napkins are both practical and fun. They are ideal for engagement parties, hen nights, or any bridal event. Make your celebration memorable with these stylish and functional napkins. Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:45Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:33Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6062394874_rff5.jpg?v=1751588513
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/team-bride-beverage-napkins-bachelorette-party-napkins-bridal-shower-decoration-engagement-party-accessories-hen-party-essentials?variant=43509471215686)
@@ -580,9 +573,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $150.00 USD
 - [Customized Edible Drink Topper and Personalized Beverage Napkins Bundle, She Said Yes, Perfect for Engagement Party Decorations](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-she-said-yes-perfect-for-engagement-party-decorations): Celebrate your engagement with our Customized Edible Drink Topper and Personalized Beverage Napkins Bundle! Featuring the beautiful and joyful "She Said Yes" design, this bundle is perfect for adding a special touch to your engagement party. The beverage napkins and drink toppers enhance your party decorations and bring a festive vibe to any celebration. Easy to use and sure to impress your guests, these personalized items are a must-have for your memorable event. Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:45Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:33Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Party Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6043138958_reay.jpg?v=1751588514
   - [4.75" x 4.75" (50) / White](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-she-said-yes-perfect-for-engagement-party-decorations?variant=43509471936582)
@@ -658,9 +651,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $150.00 USD
 - [Customized Edible Drink Topper and Personalized Beverage Napkins Bundle, Perfect for Engagements and Weddings](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-perfect-for-engagements-and-weddings): Celebrate your special moment with our customized edible drink topper and personalized beverage napkins bundle! Ideal for engagements and weddings, this set will add a unique touch to your celebrations. The edible drink topper features the phrase "She Said Yes!" with a ring design, making it perfect for toasting your engagement. The personalized beverage napkins complement the theme and add an elegant touch to your event decor. Impress your guests with this delightful and personal touch! Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:45Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:34Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Party Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6093284529_ftvv.jpg?v=1751588516
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-perfect-for-engagements-and-weddings?variant=43509472657478)
@@ -736,9 +729,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $150.00 USD
 - [We're Poppin Bottles Beverage Napkins, Fun Party Supplies, Cute Drink Napkins, Elegant Wedding Decor, Funny Cocktail Napkins](https://craftedcocktailtoppers.com/products/were-poppin-bottles-beverage-napkins-fun-party-supplies-cute-drink-napkins-elegant-wedding-decor-funny-cocktail-napkins): Add a touch of fun to your party with these "We‘re Poppin Bottles" beverage napkins. Perfect for weddings, celebrations, and cocktail parties, these cute and elegant napkins will delight your guests and add a charming detail to your event. Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-05T07:06:36Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:34Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6057770143_9x2s.jpg?v=1751588539
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/were-poppin-bottles-beverage-napkins-fun-party-supplies-cute-drink-napkins-elegant-wedding-decor-funny-cocktail-napkins?variant=43509473378374)
@@ -778,9 +771,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6040856482_q6xe.jpg?v=1751588539
     Price: $374.64 USD
 - [Custom Mr and Mrs Beverage Napkins & Edible Drink Toppers Bundle | Elegant Wedding Reception Decor | Personalized Party Supplies](https://craftedcocktailtoppers.com/products/custom-mr-and-mrs-beverage-napkins-edible-drink-toppers-bundle-elegant-wedding-reception-decor-personalized-party-supplies): Elevate your wedding reception with our Custom Mr and Mrs Beverage Napkins and Edible Drink Toppers Bundle. This exquisite set is designed to add a touch of elegance and personalization to your special day. Our high-quality napkins and drink toppers are perfect for wedding receptions, ensuring your event is both memorable and stylish. Custom Mr and Mrs Beverage Napkins: -Crafted from premium materials for a luxurious feel. -Personalized with ‘Mr and Mrs‘ for a unique touch. -Ideal for wedding receptions, engagement parties, and anniversaries. Edible Drink Toppers: -Made from safe, edible ingredients. -Customized designs to complement your wedding theme. -Easy to use and perfect for cocktails, mocktails, and other beverages. Bundle Package: -Conveniently combines napkins and drink toppers for cohesive decor. -Perfect for adding a coordinated look to your wedding reception. -Great value for a stylish and personalized touch to your party supplies. This bundle is not just about utility; it‘s about adding that extra flair to your celebration. Whether you‘re planning an intimate gathering or a grand event, our custom napkins and drink toppers will ensure your guests remember your special day. Order now to make your wedding reception decor truly unforgettable! Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:45Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:34Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Party Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6141149559_l56t.jpg?v=1751588544
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/custom-mr-and-mrs-beverage-napkins-edible-drink-toppers-bundle-elegant-wedding-reception-decor-personalized-party-supplies?variant=43509473706054)
@@ -856,9 +849,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $150.00 USD
 - [Customized Edible Drink Topper and Personalized Beverage Napkins Bundle, She Said Yes Engagement Party Decor, Bridal Shower Gifts](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-she-said-yes-engagement-party-decor-bridal-shower-gifts): Celebrate your special moments with this bundle of a customized edible drink topper and personalized beverage napkins. Perfect for engagement parties, bridal showers, and weddings, this bundle is designed with the phrase "She Said Yes" and a ring illustration, adding a personalized touch to your special event. Impress your guests with this unique and memorable party decor. Each item is crafted to enhance the celebration of love and commitment. Product Features: Material: Made from three-ply tissue for a soft yet durable feel. Size: Compact size at 4.75" x 4.75", perfect for beverages. Quantities: Available in 50, 100, 200, 300, 400, 500, 600, 750, and 1000 piece quantities. Printing technique: 1 sided full color digital print Napkin color: White
-  Updated: 2026-04-02T10:38:46Z
-  Vendor: Etsy
-  Product Type: 
+  Updated: 2026-07-08T20:24:34Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Party Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6045180608_c810.jpg?v=1751588546
   - [4.75" x 4.75" (100) / White](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-she-said-yes-engagement-party-decor-bridal-shower-gifts?variant=43509474426950)
@@ -933,52 +926,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [3" Toppers 300 ct. / White](https://craftedcocktailtoppers.com/products/customized-edible-drink-topper-and-personalized-beverage-napkins-bundle-she-said-yes-engagement-party-decor-bridal-shower-gifts?variant=43509475082310)
     Availability: Available
     Price: $150.00 USD
-- [Personalized Digital Design Service | Custom Art Creation | Tailored Digital Art | Unique Graphic Design for Any Occasion](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion): Unlock your creativity with our Custom Digital Design Service, where your vision meets professional artistry. Whether you need personalized art for a special occasion, unique graphic design for your brand, or a custom illustration to bring your ideas to life, we have you covered. Our tailored digital artwork services are perfect for those seeking one-of-a-kind designs. We work closely with you to ensure every detail aligns with your vision, delivering a final product that exceeds your expectations. From custom photo editing to bespoke illustrations, we transform your concepts into stunning digital art pieces. Why choose our Custom Digital Design Service? Personalization: Every design is tailored to your specific needs, ensuring a unique and personal touch. Professional Quality: With years of experience in digital art, we guarantee high-quality, polished designs that stand out. Versatility: Whether it‘s for personal use, branding, or gifting, our designs are perfect for any occasion. Ready to bring your ideas to life? Place your custom order today and let us create something extraordinary just for you!
-  Updated: 2026-04-22T17:19:40Z
-  Vendor: Etsy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.6229141770_52n8.jpg?v=1752956272
-  - [1/2 Hour](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497521734)
-    Availability: Available
-    Price: $20.00 USD
-  - [3/4 Hour](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497554502)
-    Availability: Available
-    Price: $25.00 USD
-  - [1 Hour](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497587270)
-    Availability: Available
-    Price: $50.00 USD
-  - [2 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497620038)
-    Availability: Available
-    Price: $100.00 USD
-  - [3 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497652806)
-    Availability: Available
-    Price: $150.00 USD
-  - [4 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497685574)
-    Availability: Available
-    Price: $200.00 USD
-  - [5 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497718342)
-    Availability: Available
-    Price: $250.00 USD
-  - [6 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497751110)
-    Availability: Available
-    Price: $300.00 USD
-  - [7 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497783878)
-    Availability: Available
-    Price: $350.00 USD
-  - [8 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497816646)
-    Availability: Available
-    Price: $400.00 USD
-  - [9 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497849414)
-    Availability: Available
-    Price: $450.00 USD
-  - [10 Hours](https://craftedcocktailtoppers.com/products/personalized-digital-design-service-custom-art-creation-tailored-digital-art-unique-graphic-design-for-any-occasion?variant=43582497882182)
-    Availability: Available
-    Price: $500.00 USD
 - [Custom Pet Photo Cocktail Stirrers | Personalized Acrylic Drink Sticks](https://craftedcocktailtoppers.com/products/personalized-pet-photo-cocktail-stirrers): Celebrate every sip with custom pet photo cocktail stirrers! 🎉 Personalized acrylic drink sticks are perfect for weddings, parties, and holidays.
-  Updated: 2026-06-02T13:05:27Z
+  Updated: 2026-10-21T00:11:24Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: 
+  Product Type: Cocktail Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/WeddingIdeas.png?v=1761430574
   - [10pcs / 5.91inch Length](https://craftedcocktailtoppers.com/products/personalized-pet-photo-cocktail-stirrers?variant=44000001851462)
@@ -1006,107 +957,11 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $101.98 USD
 - [Personalized Acrylic Cocktail Stirrers | Custom Drink Decor](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-05-30T02:43:42Z
+  Updated: 2026-09-09T14:32:06Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: Cocktail Decorations
+  Product Type: Cocktail Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Crafted_drink_stirrers.png?v=1766898756
-  - [30pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329455686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
-  - [30pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329488454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
-  - [10pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329521222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
-  - [10pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329553990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
-  - [30pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329586758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
-  - [30pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329619526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
-  - [30pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329652294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
-  - [30pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329685062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
-  - [100pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329717830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
-  - [100pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329750598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
-  - [50pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329783366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
-  - [50pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329816134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
-  - [30pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329848902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
-  - [30pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329881670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
-  - [10pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329914438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
-  - [10pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329947206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
-  - [100pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329979974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
-  - [100pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330012742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
-  - [50pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330045510)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
-  - [50pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330078278)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
-  - [10pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330111046)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
-  - [10pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330143814)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
-  - [10pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330176582)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
-  - [10pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330209350)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
   - [100pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330242118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
@@ -1123,19 +978,19 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $41.98 USD
-  - [30pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330373190)
+  - [30pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329455686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $25.98 USD
-  - [30pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330405958)
+  - [30pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329488454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $28.98 USD
-  - [10pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330438726)
+  - [10pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329521222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $15.98 USD
-  - [10pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330471494)
+  - [10pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329553990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $17.98 USD
@@ -1155,51 +1010,147 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $41.98 USD
-  - [30pcs Magenta / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330635334)
+  - [30pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329652294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $25.98 USD
-  - [30pcs Magenta / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330668102)
+  - [30pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329685062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $28.98 USD
-  - [10pcs Magenta / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330700870)
+  - [10pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330176582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $15.98 USD
-  - [10pcs Magenta / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330733638)
+  - [10pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330209350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $17.98 USD
-  - [100pcs Pink / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330766406)
+  - [100pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329717830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $54.98 USD
-  - [100pcs Pink / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330799174)
+  - [100pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329750598)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $69.98 USD
-  - [50pcs Pink / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330831942)
+  - [50pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329783366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $33.98 USD
-  - [50pcs Pink / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330864710)
+  - [50pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329816134)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $41.98 USD
-  - [30pcs Purple / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330897478)
+  - [30pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330373190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $25.98 USD
-  - [30pcs Purple / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330930246)
+  - [30pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330405958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $28.98 USD
-  - [10pcs Purple / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330963014)
+  - [10pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330438726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $15.98 USD
-  - [10pcs Purple / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330995782)
+  - [10pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330471494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $17.98 USD
+  - [100pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329979974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $54.98 USD
+  - [100pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330012742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $69.98 USD
+  - [50pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330045510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $33.98 USD
+  - [50pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330078278)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $41.98 USD
+  - [30pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329586758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $25.98 USD
+  - [30pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329619526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $28.98 USD
+  - [10pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330111046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $15.98 USD
+  - [10pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330143814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $17.98 USD
+  - [100pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331552838)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $54.98 USD
+  - [100pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331585606)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $69.98 USD
+  - [50pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331618374)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $33.98 USD
+  - [50pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331651142)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $41.98 USD
+  - [30pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331159622)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $25.98 USD
+  - [30pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331192390)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $28.98 USD
+  - [10pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331225158)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $15.98 USD
+  - [10pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331257926)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $17.98 USD
+  - [100pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331290694)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $54.98 USD
+  - [100pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331323462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $69.98 USD
+  - [50pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331356230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $33.98 USD
+  - [50pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331388998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $41.98 USD
+  - [30pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329848902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $25.98 USD
+  - [30pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329881670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $28.98 USD
+  - [10pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329914438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
+    Price: $15.98 USD
+  - [10pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329947206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $17.98 USD
@@ -1212,9 +1163,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
     Price: $69.98 USD
 - [Personalized Acrylic Drink Tags (20–100pcs) | Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/products/20-50-100pcs-custom-drink-tags-acrylic-wine-charms-place-cards): Shop personalized acrylic drink tags that double as wine charms and place cards. Elegant, custom engraved details for weddings, events, and elevated hosting.
-  Updated: 2026-05-11T20:36:38Z
+  Updated: 2026-09-19T01:42:04Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: Cocktail Accessories
+  Product Type: Acrylic Drink Tags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/S7fdb8bb2feef4652a89585b98901faaaQ.webp?v=1766981996
   - [100pcs Light pink / 2.36 inches](https://craftedcocktailtoppers.com/products/20-50-100pcs-custom-drink-tags-acrylic-wine-charms-place-cards?variant=44391471906886)
@@ -1417,10 +1368,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/S7fdb8bb2feef4652a89585b98901faaaQ.webp?v=1766981996
     Price: $25.98 USD
-- [Minimal Serif Monogram Edible Drink Toppers](https://craftedcocktailtoppers.com/products/minimal-serif-monogram-edible-drink-toppers): Elevate your celebration with our Minimal Serif Monogram Edible Drink Toppers—designed for modern hosts, elegant weddings, and refined events. Each topper features a single initial in a clean serif typeface, creating a timeless look that pairs beautifully with champagne flutes, cocktails, mocktails, and specialty drinks. Perfect for engagement parties, weddings, anniversaries, corporate events, or elevated home entertaining. Crafted using high-quality edible materials and printed with precision, these toppers add a polished finishing touch without overpowering your drink presentation. Ideal for couples, planners, and hosts who value understated luxury. What’s Included • Custom edible drink toppers featuring one initial • Professionally printed, crisp and clean finish Perfect For • Weddings and engagement parties • Corporate events and branded gatherings • Minimalist celebrations and upscale hosting A simple detail—designed to make a lasting impression.
-  Updated: 2026-04-02T10:38:47Z
-  Vendor: Etsy
-  Product Type: 
+- [Minimal Serif Monogram Edible Drink Toppers | Edible Wafer Paper Drin](https://craftedcocktailtoppers.com/products/minimal-serif-monogram-edible-drink-toppers): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
+  Updated: 2026-07-08T20:24:36Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Edible Drink Toppers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/il_fullxfull.7562569592_5g3g.jpg?v=1767406603
   - [50 / 2"](https://craftedcocktailtoppers.com/products/minimal-serif-monogram-edible-drink-toppers?variant=44399824797766)
@@ -1484,9 +1435,9 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $0.59 USD
 - [Personalized Wedding Cocktail Stirrers | Custom Acrylic](https://craftedcocktailtoppers.com/products/customized-wedding-cocktail-stirrers): Elevate your wedding bar with personalized acrylic cocktail stirrers. Custom name swizzle sticks in luxe finishes. Available in bulk. Fast turnaround.
-  Updated: 2026-05-30T02:44:11Z
+  Updated: 2026-08-28T00:06:16Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: Cocktail Decorations
+  Product Type: Cocktail Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/S6edfb137ef31451281be2126ba98b6bbS.webp?v=1772157303
   - [100pcs Black / 18cm](https://craftedcocktailtoppers.com/products/customized-wedding-cocktail-stirrers?variant=44694971416646)
@@ -1689,10 +1640,64 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/S6edfb137ef31451281be2126ba98b6bbS.webp?v=1772157303
     Price: $56.98 USD
-- [Personalized Napkins | C & W Wedding](https://craftedcocktailtoppers.com/products/personalized-wedding-napkins-with-photo): Custom wedding napkins featuring a sentimental quote and couple illustration. Perfect for your special day. Shop now.
-  Updated: 2026-05-22T03:42:34Z
+- [Custom Graduation Edible Drink Toppers | Personalized Party Decor](https://craftedcocktailtoppers.com/products/graduation-toppers): Celebrate graduation with custom edible drink toppers featuring photos, school logos, or names. Perfect for cocktails, mocktails, champagne, and parties.
+  Updated: 2026-09-21T18:17:09Z
   Vendor: Crafted Cocktail Toppers
-  Product Type: Physical Item
+  Product Type: Edible Drink Toppers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Thumbnail1.png?v=1783014995
+  - [2" / 50](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012569670)
+    Availability: Available
+    Price: $30.00 USD
+  - [2" / 250](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012602438)
+    Availability: Available
+    Price: $110.00 USD
+  - [2" / 500](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012635206)
+    Availability: Available
+    Price: $220.00 USD
+  - [2" / 1000](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012667974)
+    Availability: Available
+    Price: $410.00 USD
+  - [2.5" / 50](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012700742)
+    Availability: Available
+    Price: $32.00 USD
+  - [2.5" / 250](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012733510)
+    Availability: Available
+    Price: $114.00 USD
+  - [2.5" / 500](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012766278)
+    Availability: Available
+    Price: $228.00 USD
+  - [2.5" / 1000](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012799046)
+    Availability: Available
+    Price: $426.00 USD
+  - [3" / 50](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012831814)
+    Availability: Available
+    Price: $35.00 USD
+  - [3" / 250](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012864582)
+    Availability: Available
+    Price: $120.00 USD
+  - [3" / 500](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012897350)
+    Availability: Available
+    Price: $240.00 USD
+  - [3" / 1000](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012930118)
+    Availability: Available
+    Price: $450.00 USD
+  - [Rush Production Service / 50](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012962886)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 250](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266012995654)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 500](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266013028422)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 1000](https://craftedcocktailtoppers.com/products/graduation-toppers?variant=45266013061190)
+    Availability: Available
+    Price: $18.21 USD
+- [Personalized Napkins | C & W Wedding](https://craftedcocktailtoppers.com/products/personalized-wedding-napkins-with-photo): Custom wedding napkins featuring a sentimental quote and couple illustration. Perfect for your special day. Shop now.
+  Updated: 2026-07-08T20:24:37Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Napkins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/e57b2c88-1f3c-4b15-b54c-db210e8d116d.jpg?v=1779378149
   - [Kitchen Accessories - 4.8" x 4.8"White / 100](https://craftedcocktailtoppers.com/products/personalized-wedding-napkins-with-photo?variant=45072880107590)
@@ -1711,36 +1716,364 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/880601eb-365e-49e2-b3e7-f6b38031a267.jpg?v=1779378148
     Price: $84.34 USD
+- [Custom Logo Cocktail Stirrers | Personalized Acrylic Swizzle Sticks](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers): Personalized acrylic cocktail stirrers featuring your logo, monogram, or custom text. Available in bulk quantities for corporate events, weddings, restaurants, bars, and brand activations.
+  Updated: 2026-07-08T20:24:37Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+  - [30 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959352902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $26.98 USD
+  - [30 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959418438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $28.98 USD
+  - [30 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958795846)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $26.98 USD
+  - [30 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958894150)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $28.98 USD
+  - [30 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958664774)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $26.98 USD
+  - [30 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958763078)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $28.98 USD
+  - [30 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944321606)
+    Availability: Available
+    Price: $26.98 USD
+  - [30 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944354374)
+    Availability: Available
+    Price: $28.98 USD
+  - [50 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959385670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $37.98 USD
+  - [50 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959615046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $42.98 USD
+  - [50 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958861382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $37.98 USD
+  - [50 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959221830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $42.98 USD
+  - [50 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958730310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $37.98 USD
+  - [50 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958566470)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $42.98 USD
+  - [50 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944387142)
+    Availability: Available
+    Price: $37.98 USD
+  - [50 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944419910)
+    Availability: Available
+    Price: $42.98 USD
+  - [80 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959582278)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $54.98 USD
+  - [80 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959680582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $63.98 USD
+  - [80 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959189062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $54.98 USD
+  - [80 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959287366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $63.98 USD
+  - [80 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958533702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $54.98 USD
+  - [80 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958632006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $63.98 USD
+  - [80 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944452678)
+    Availability: Available
+    Price: $54.98 USD
+  - [80 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944485446)
+    Availability: Available
+    Price: $63.98 USD
+  - [100 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959647814)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $66.98 USD
+  - [100 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959483974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $75.98 USD
+  - [100 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959254598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $66.98 USD
+  - [100 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959090758)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $75.98 USD
+  - [100 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958599238)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $66.98 USD
+  - [100 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958959686)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $75.98 USD
+  - [100 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944518214)
+    Availability: Available
+    Price: $66.98 USD
+  - [100 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944550982)
+    Availability: Available
+    Price: $75.98 USD
+  - [120 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959451206)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $76.98 USD
+  - [120 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959549510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $87.98 USD
+  - [120 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959057990)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $76.98 USD
+  - [120 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959156294)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $87.98 USD
+  - [120 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958926918)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $76.98 USD
+  - [120 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959025222)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $87.98 USD
+  - [120 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944583750)
+    Availability: Available
+    Price: $76.98 USD
+  - [120 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944616518)
+    Availability: Available
+    Price: $87.98 USD
+  - [150 / Clear / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959516742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $85.98 USD
+  - [150 / Clear / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958697542)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $99.98 USD
+  - [150 / Black / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959123526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $85.98 USD
+  - [150 / Black / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144959320134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $99.98 USD
+  - [150 / White / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958992454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $85.98 USD
+  - [150 / White / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45144958828614)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Scb61cf489083474eb528dab5da05232dH.webp?v=1780618706
+    Price: $99.98 USD
+  - [150 / Blue / 5.91 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944649286)
+    Availability: Available
+    Price: $85.98 USD
+  - [150 / Blue / 7.1 in](https://craftedcocktailtoppers.com/products/business-events-cocktail-stirrers?variant=45294944682054)
+    Availability: Available
+    Price: $99.98 USD
+- [Personalized Cocktail Garnishes for Pet Weddings](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers): Add your pet photo to edible cocktail toppers for weddings, signature drinks, and luxury celebrations. A sweet way to include your fur baby.
+  Updated: 2026-10-22T18:32:27Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Edible Drink Toppers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Idotoo..png?v=1781906338
+  - [2" / 50](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654458950)
+    Availability: Available
+    Price: $30.00 USD
+  - [2" / 250](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654491718)
+    Availability: Available
+    Price: $110.00 USD
+  - [2" / 500](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654524486)
+    Availability: Available
+    Price: $220.00 USD
+  - [2" / 1000](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654557254)
+    Availability: Available
+    Price: $410.00 USD
+  - [2.5" / 50](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654590022)
+    Availability: Available
+    Price: $32.00 USD
+  - [2.5" / 250](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654622790)
+    Availability: Available
+    Price: $114.00 USD
+  - [2.5" / 500](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654655558)
+    Availability: Available
+    Price: $228.00 USD
+  - [2.5" / 1000](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654688326)
+    Availability: Available
+    Price: $426.00 USD
+  - [3" / 50](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654721094)
+    Availability: Available
+    Price: $35.00 USD
+  - [3" / 250](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654753862)
+    Availability: Available
+    Price: $120.00 USD
+  - [3" / 500](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654786630)
+    Availability: Available
+    Price: $240.00 USD
+  - [3" / 1000](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654819398)
+    Availability: Available
+    Price: $450.00 USD
+  - [Rush Production Service / 50](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654852166)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 250](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654884934)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 500](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654917702)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 1000](https://craftedcocktailtoppers.com/products/pet-photo-wedding-cocktail-toppers?variant=45152654950470)
+    Availability: Available
+    Price: $18.21 USD
+- [Floral Monogram Wedding Drink Stirrers | Custom Acrylic Sticks](https://craftedcocktailtoppers.com/products/floral-stirrers): Personalized floral monogram wedding drink stirrers for signature cocktails, bridal showers, engagement parties, and romantic acrylic bar decor.
+  Updated: 2026-07-08T20:24:37Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Cocktail Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/floral-monogram-wedding-drink-stirrers.png?v=1781499908
+  - [10pcs / 5.91inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888659526)
+    Availability: Available
+    Price: $28.98 USD
+  - [20pcs / 5.91inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888692294)
+    Availability: Available
+    Price: $25.98 USD
+  - [50 PCS / 5.91inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888725062)
+    Availability: Available
+    Price: $47.98 USD
+  - [100 PCS / 5.91inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888757830)
+    Availability: Available
+    Price: $76.98 USD
+  - [10pcs / 7.09inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888790598)
+    Availability: Available
+    Price: $33.98 USD
+  - [20pcs / 7.09inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888823366)
+    Availability: Available
+    Price: $23.98 USD
+  - [50 PCS / 7.09inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888856134)
+    Availability: Available
+    Price: $65.98 USD
+  - [100 PCS / 7.09inch Length](https://craftedcocktailtoppers.com/products/floral-stirrers?variant=45181888888902)
+    Availability: Available
+    Price: $101.98 USD
+- [Custom Fundraiser Edible Drink Toppers](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers): Personalized Edible Monogram Drink ToppersPersonalized Edible Monogram Drink Toppers are custom wafer paper cocktail garnishes designed for weddings, engagement parties, anniversaries, corporate events, restaurants, bars, and private celebrations. Add initials, a monogram, short text, logo, or custom artwork to create a refined detail that floats on cocktails, champagne, wine, mocktails, and signature drinks.These toppers are ideal when you want an elevated drink presentation that feels personal, branded, and event-ready.Perfect For Weddings and cocktail hours Engagement parties and anniversaries Corporate receptions and branded events Restaurants, bars, and hospitality programs Private parties and milestone celebrations Product Specifications Material: Wafer paper Personalization: Monogram, initials, text, logo, or custom artwork Drink types: Cocktails, champagne, wine, mocktails, coffee, and specialty drinks Use: Add to finished drinks close to serving time Made to order: Yes Frequently Asked QuestionsWhat are edible drink toppers?They are thin edible wafer paper garnishes printed with custom designs and used to decorate drinks.How do I upload my logo?Upload your logo, monogram, or artwork through the product customization/upload option after selecting your options.Are they food safe?Yes. They are made from edible wafer paper with food-safe printing materials.Are they gluten free?They are listed as gluten free, kosher, and vegan. Contact us before ordering for strict dietary certification needs.Are they vegan?Yes, they are listed as vegan-friendly.How long do they last?Store sealed and dry, away from humidity. For best presentation, place them on drinks just before serving.What image formats work best?Vector files, PNG, PDF, AI, SVG, and high-resolution JPEG artwork are recommended. Made from edible wafer paper and used as a cocktail, mocktail, champagne, or wine garnish. Custom printed with text, photo, logo, or artwork. Vegan, gluten free, kosher, and made with no dairy ingredients.
+  Updated: 2026-10-15T18:43:36Z
+  Vendor: Crafted Cocktail Toppers
+  Product Type: Edible Drink Toppers
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Faith_Foundation_Drink_Toppers_Menu.png?v=1782925091
+  - [2" / 50](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261665894470)
+    Availability: Available
+    Price: $30.00 USD
+  - [2" / 250](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261665927238)
+    Availability: Available
+    Price: $110.00 USD
+  - [2" / 500](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261665960006)
+    Availability: Available
+    Price: $220.00 USD
+  - [2" / 1000](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261665992774)
+    Availability: Available
+    Price: $410.00 USD
+  - [2.5" / 50](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666025542)
+    Availability: Available
+    Price: $32.00 USD
+  - [2.5" / 250](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666058310)
+    Availability: Available
+    Price: $114.00 USD
+  - [2.5" / 500](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666091078)
+    Availability: Available
+    Price: $228.00 USD
+  - [2.5" / 1000](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666123846)
+    Availability: Available
+    Price: $426.00 USD
+  - [3" / 50](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666156614)
+    Availability: Available
+    Price: $35.00 USD
+  - [3" / 250](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666189382)
+    Availability: Available
+    Price: $120.00 USD
+  - [3" / 500](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666222150)
+    Availability: Available
+    Price: $240.00 USD
+  - [3" / 1000](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666254918)
+    Availability: Available
+    Price: $450.00 USD
+  - [Rush Production Service / 50](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666287686)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 250](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666320454)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 500](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666353222)
+    Availability: Available
+    Price: $18.21 USD
+  - [Rush Production Service / 1000](https://craftedcocktailtoppers.com/products/custom-fundraiser-edible-drink-toppers?variant=45261666385990)
+    Availability: Available
+    Price: $18.21 USD
+[List Continued](https://craftedcocktailtoppers.com/a/llms-agent/llms.txt?shop=iyym97-q3.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDQ0MzA5NTY5NjA2LCJsYXN0X3ZhbHVlIjoiODQ0NDMwOTU2OTYwNiJ9)
 
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-06-02T11:19:44Z
-  Total Products: 1
+  Updated: 2026-10-22T11:21:05Z
+  Total Products: 3
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
-  Updated: 2026-04-02T10:38:43Z
+  Updated: 2026-07-08T20:15:22Z
   Total Products: 0
 - [AVADA - Best Sellers](https://craftedcocktailtoppers.com/collections/avada-best-sellers)
-  Updated: 2026-05-30T03:08:40Z
-  Total Products: 4
-- [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers)
-  Updated: 2026-06-02T11:19:44Z
+  Updated: 2026-09-04T20:48:32Z
   Total Products: 5
-- [Cocktail Decorations & Edible Drink Toppers - Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-06-02T11:19:44Z
-  Total Products: 4
-- [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins)
-  Updated: 2026-05-27T11:17:00Z
+- [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers): Shop premium edible cocktail toppers that wow guests at weddings, bachelorettes, birthdays, and corporate events. Customizable designs that sit beautifully on any drink.
+  Updated: 2026-10-22T11:21:05Z
+  Total Products: 10
+- [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
+  Updated: 2026-10-21T11:16:46Z
+  Total Products: 5
+- [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins): Elevate your bar cart and event tables with premium cocktail napkins. Perfect for weddings, showers, and celebrations — pair seamlessly with our edible drink toppers.
+  Updated: 2026-10-15T19:48:41Z
   Total Products: 10
 - [New Arrivals](https://craftedcocktailtoppers.com/collections/new-arrivals)
-  Updated: 2026-06-02T11:19:44Z
-  Total Products: 1
+  Updated: 2026-10-21T11:16:46Z
+  Total Products: 2
 - [Gift Sets](https://craftedcocktailtoppers.com/collections/gift-sets)
-  Updated: 2026-04-02T10:38:43Z
+  Updated: 2026-07-08T20:15:22Z
   Total Products: 0
 - [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations-1)
-  Updated: 2026-04-02T10:38:43Z
-  Total Products: 2
+  Updated: 2026-09-07T19:47:57Z
+  Total Products: 4
+- [Cocktail Accessories](https://craftedcocktailtoppers.com/collections/cocktail-accessories): Personalized cocktail accessories for weddings, corporate events, restaurants, bars, hotels, and brand activations. Shop custom acrylic stirrers and drink accessories.
+  Updated: 2026-10-21T11:16:46Z
+  Total Products: 5
 
 ## Blogs
 
@@ -2408,6 +2741,93 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [The Innovative World of Edible Drink Toppers for Weddings](https://craftedcocktailtoppers.com/blogs/news/the-innovative-world-of-edible-drink-toppers-for-weddings): The Innovative World of Edible Drink Toppers for Weddings
     Updated: 2026-06-02T00:51:49Z
     Author: Che Che
+  - [What Are Edible Drink Toppers Made Of? A Fascinating Insight](https://craftedcocktailtoppers.com/blogs/news/what-are-edible-drink-toppers-made-of-a-fascinating-insight): What Are Edible Drink Toppers Made Of? A Fascinating Insight
+    Updated: 2026-06-03T02:24:44Z
+    Author: Che Che
+  - [From Baby Showers to Graduation Parties: Edible Drink Toppers for Every Occasion](https://craftedcocktailtoppers.com/blogs/news/from-baby-showers-to-graduation-parties-edible-drink-toppers-for-every-occasion): From Baby Showers to Graduation Parties: Edible Drink Toppers for Every Occasion
+    Updated: 2026-06-08T00:29:35Z
+    Author: Che Che
+  - [Custom Drink Toppers: Personalize Your Cocktail Experience](https://craftedcocktailtoppers.com/blogs/news/custom-drink-toppers-personalize-your-cocktail-experience): Custom Drink Toppers: Personalize Your Cocktail Experience
+    Updated: 2026-06-09T00:48:58Z
+    Author: Che Che
+  - [Ordering Bulk Edible Drink Toppers: What You Need to Know](https://craftedcocktailtoppers.com/blogs/news/ordering-bulk-edible-drink-toppers-what-you-need-to-know): Ordering Bulk Edible Drink Toppers: What You Need to Know
+    Updated: 2026-06-10T02:22:44Z
+    Author: Che Che
+  - [Unleashing Creativity with Custom Edible Drink Toppers for Weddings and Beyond](https://craftedcocktailtoppers.com/blogs/news/unleashing-creativity-with-custom-edible-drink-toppers-for-weddings-and-beyond): Unleashing Creativity with Custom Edible Drink Toppers for Weddings and Beyond
+    Updated: 2026-06-15T00:30:45Z
+    Author: Che Che
+  - [How to Master Edible Drink Toppers for Picture-Perfect Cocktails](https://craftedcocktailtoppers.com/blogs/news/how-to-master-edible-drink-toppers-for-picture-perfect-cocktails): How to Master Edible Drink Toppers for Picture-Perfect Cocktails
+    Updated: 2026-06-16T00:50:48Z
+    Author: Che Che
+  - [The Rise of Edible Drink Toppers: Transform Your Cocktail Experience](https://craftedcocktailtoppers.com/blogs/news/the-rise-of-edible-drink-toppers-transform-your-cocktail-experience): The Rise of Edible Drink Toppers: Transform Your Cocktail Experience
+    Updated: 2026-06-17T02:07:25Z
+    Author: Che Che
+  - [Choosing the Right Edible Drink Toppers: From Baby Showers to Grad Parties](https://craftedcocktailtoppers.com/blogs/news/choosing-the-right-edible-drink-toppers-from-baby-showers-to-grad-parties): Choosing the Right Edible Drink Toppers: From Baby Showers to Grad Parties
+    Updated: 2026-06-22T00:28:58Z
+    Author: Che Che
+  - [Design Your Own Edible Drink Topper for Exclusive Wedding Cocktails](https://craftedcocktailtoppers.com/blogs/news/design-your-own-edible-drink-topper-for-exclusive-wedding-cocktails): Design Your Own Edible Drink Topper for Exclusive Wedding Cocktails
+    Updated: 2026-06-23T00:52:07Z
+    Author: Che Che
+  - [All About Cocktail Toppers: The Power of Custom Edible Designs](https://craftedcocktailtoppers.com/blogs/news/all-about-cocktail-toppers-the-power-of-custom-edible-designs): All About Cocktail Toppers: The Power of Custom Edible Designs
+    Updated: 2026-06-24T02:23:27Z
+    Author: Che Che
+  - [Understanding What Edible Drink Toppers Are Made Of and How to Use Them](https://craftedcocktailtoppers.com/blogs/news/understanding-what-edible-drink-toppers-are-made-of-and-how-to-use-them): Understanding What Edible Drink Toppers Are Made Of and How to Use Them
+    Updated: 2026-06-29T00:29:30Z
+    Author: Che Che
+  - [Exploring the Art of Clear Edible Drink Toppers for Modern Cocktails](https://craftedcocktailtoppers.com/blogs/news/exploring-the-art-of-clear-edible-drink-toppers-for-modern-cocktails): Exploring the Art of Clear Edible Drink Toppers for Modern Cocktails
+    Updated: 2026-06-30T00:51:24Z
+    Author: Che Che
+  - [From DIY to Bulk Orders: Your Guide to Custom Edible Drink Toppers](https://craftedcocktailtoppers.com/blogs/news/from-diy-to-bulk-orders-your-guide-to-custom-edible-drink-toppers): From DIY to Bulk Orders: Your Guide to Custom Edible Drink Toppers
+    Updated: 2026-07-01T02:48:53Z
+    Author: Che Che
+  - [Innovative Experiences with Edible Drink Toppers at Your Next Cocktail Event](https://craftedcocktailtoppers.com/blogs/news/innovative-experiences-with-edible-drink-toppers-at-your-next-cocktail-event): Innovative Experiences with Edible Drink Toppers at Your Next Cocktail Event
+    Updated: 2026-07-06T00:30:02Z
+    Author: Che Che
+  - [Edible Drink Toppers: The Perfect Addition to Your Next Celebration](https://craftedcocktailtoppers.com/blogs/news/edible-drink-toppers-the-perfect-addition-to-your-next-celebration): Edible Drink Toppers: The Perfect Addition to Your Next Celebration
+    Updated: 2026-07-07T00:49:34Z
+    Author: Che Che
+  - [All About Edible Cocktail Toppers and Their Growing Popularity](https://craftedcocktailtoppers.com/blogs/news/all-about-edible-cocktail-toppers-and-their-growing-popularity): All About Edible Cocktail Toppers and Their Growing Popularity
+    Updated: 2026-07-08T02:25:54Z
+    Author: Che Che
+  - [Transform Your Baby Shower with Customized Edible Drink Toppers](https://craftedcocktailtoppers.com/blogs/news/transform-your-baby-shower-with-customized-edible-drink-toppers): Transform Your Baby Shower with Customized Edible Drink Toppers
+    Updated: 2026-07-13T00:32:34Z
+    Author: Che Che
+  - [Understanding the Materials Behind Delicious Drink Toppers](https://craftedcocktailtoppers.com/blogs/news/understanding-the-materials-behind-delicious-drink-toppers): Understanding the Materials Behind Delicious Drink Toppers
+    Updated: 2026-07-14T00:53:16Z
+    Author: Che Che
+  - [Elevate Your Grad Celebrations with Unique Edible Drink Toppers](https://craftedcocktailtoppers.com/blogs/news/elevate-your-grad-celebrations-with-unique-edible-drink-toppers): Elevate Your Grad Celebrations with Unique Edible Drink Toppers
+    Updated: 2026-07-15T02:27:17Z
+    Author: Che Che
+  - [How to Make Party-Worthy Edible Drink Toppers at Home](https://craftedcocktailtoppers.com/blogs/news/how-to-make-party-worthy-edible-drink-toppers-at-home): How to Make Party-Worthy Edible Drink Toppers at Home
+    Updated: 2026-07-20T00:33:18Z
+    Author: Che Che
+  - [Exploring How Clear Edible Drink Toppers Make a Statement in Cocktails](https://craftedcocktailtoppers.com/blogs/news/exploring-how-clear-edible-drink-toppers-make-a-statement-in-cocktails): Exploring How Clear Edible Drink Toppers Make a Statement in Cocktails
+    Updated: 2026-07-21T00:50:28Z
+    Author: Che Che
+  - [Custom Design Toppers: The Next Level of Cocktail Personalization](https://craftedcocktailtoppers.com/blogs/news/custom-design-toppers-the-next-level-of-cocktail-personalization): Custom Design Toppers: The Next Level of Cocktail Personalization
+    Updated: 2026-07-22T02:26:04Z
+    Author: Che Che
+  - [Bringing Flair to Wedding Receptions with Bulk Edible Drink Toppers](https://craftedcocktailtoppers.com/blogs/news/bringing-flair-to-wedding-receptions-with-bulk-edible-drink-toppers): Bringing Flair to Wedding Receptions with Bulk Edible Drink Toppers
+    Updated: 2026-07-27T00:28:42Z
+    Author: Che Che
+  - [Discovering New Horizons: Custom Edible Drink Toppers Paper for Special Events](https://craftedcocktailtoppers.com/blogs/news/discovering-new-horizons-custom-edible-drink-toppers-paper-for-special-events): Discovering New Horizons: Custom Edible Drink Toppers Paper for Special Events
+    Updated: 2026-07-28T00:49:40Z
+    Author: Che Che
+  - [Curating Custom Edible Drink Toppers for Stylish Grad Parties](https://craftedcocktailtoppers.com/blogs/news/curating-custom-edible-drink-toppers-for-stylish-grad-parties): Curating Custom Edible Drink Toppers for Stylish Grad Parties
+    Updated: 2026-07-29T02:26:37Z
+    Author: Che Che
+  - [Master the Craft of Edible Drink Toppers with Easy-to-Follow Recipes](https://craftedcocktailtoppers.com/blogs/news/master-the-craft-of-edible-drink-toppers-with-easy-to-follow-recipes): Master the Craft of Edible Drink Toppers with Easy-to-Follow Recipes
+    Updated: 2026-08-03T00:32:00Z
+    Author: Che Che
+  - [Uncover Trending Cocktail Toppers and How You Can Craft Them at Home](https://craftedcocktailtoppers.com/blogs/news/uncover-trending-cocktail-toppers-and-how-you-can-craft-them-at-home): Uncover Trending Cocktail Toppers and How You Can Craft Them at Home
+    Updated: 2026-08-04T00:50:10Z
+    Author: Che Che
+  - [Elevate Your Cocktail Collections with Stunning Edible Drink Topper Creations](https://craftedcocktailtoppers.com/blogs/news/elevate-your-cocktail-collections-with-stunning-edible-drink-topper-creations): Elevate Your Cocktail Collections with Stunning Edible Drink Topper Creations
+    Updated: 2026-08-05T02:52:34Z
+    Author: Che Che
+  - [Ingenious Ways to Use Edible Drink Toppers for Baby Showers](https://craftedcocktailtoppers.com/blogs/news/ingenious-ways-to-use-edible-drink-toppers-for-baby-showers): Ingenious Ways to Use Edible Drink Toppers for Baby Showers
+    Updated: 2026-08-10T00:31:26Z
+    Author: Che Che
 
 ## Store Pages
 
@@ -2419,19 +2839,21 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2025-06-08T18:08:56Z
 - [Happy Customers](https://craftedcocktailtoppers.com/pages/happy-customers)
   Updated: 2025-10-01T16:22:26Z
+- [Newsletter | Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/pages/newsletter): Crafted Cocktail Toppers A little inspiration for your next celebration. Join our email list and receive a welcome code for 10% off your next order...
+  Updated: 2026-10-12T20:53:08Z
 
 ## Policies
 
 - [Privacy Policy](https://craftedcocktailtoppers.com/policies/privacy-policy)
-  Updated: 2026-02-23T14:43:24-06:00
+  Updated: 2026-02-23T20:43:24Z
 - [Shipping Policy](https://craftedcocktailtoppers.com/policies/shipping-policy)
-  Updated: 2026-03-13T20:08:52-05:00
+  Updated: 2026-03-14T01:08:52Z
 - [Refund Policy](https://craftedcocktailtoppers.com/policies/refund-policy)
-  Updated: 2025-05-24T17:33:09-05:00
+  Updated: 2025-05-24T22:33:09Z
 - [Terms of Service](https://craftedcocktailtoppers.com/policies/terms-of-service)
-  Updated: 2026-02-23T14:47:07-06:00
+  Updated: 2026-02-23T20:47:07Z
 - [Contact Information](https://craftedcocktailtoppers.com/policies/contact-information)
-  Updated: 2025-05-24T18:28:53-05:00
+  Updated: 2025-05-24T23:28:53Z
 
 ## About Crafted Cocktail Toppers
 We create premium edible cocktail toppers and drink garnish art for weddings, corporate events, birthdays, and celebrations.
