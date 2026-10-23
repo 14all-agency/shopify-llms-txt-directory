@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-10-07T08:08:26Z
 - Contact Email: wych200@outlook.com
-- Updated At: 2026-10-14T10:25:26.471Z
+- Updated At: 2026-10-23T00:33:01.928Z
 
 ## Collections
 
@@ -44,9 +44,9 @@
 - [您的隐私选项](https://mlleather.com/pages/data-sharing-opt-out): 正如我们的隐私政策中所述，我们通过您与我们和我们网站的互动收集个人信息，包括使用 Cookie 和类似技术。我们还可能与第三方（包括广告合作伙伴）共享这些个人信息。我们这样做是为了在其他网站上展示更符合您兴趣的广告，以及出于我们隐私政策中概述的其他原因。 根据美国某些州的隐私法，基于您在不同网...
   Updated: 2026-10-07T08:08:33Z
 - [Genuine Leather Handbags & Product Categories](https://mlleather.com/pages/product-categories): Small-batch custom production Company catalogue styles: customisation from 20 units per style. Your own product, sample or design: custom productio...
-  Updated: 2026-10-12T12:19:48Z
+  Updated: 2026-10-18T05:25:33Z
 - [Genuine Leather Storage Pouches](https://mlleather.com/pages/leather-storage-pouches): Small-batch custom production Company catalogue styles: customisation from 20 units per style. Your own product, sample or design: custom productio...
-  Updated: 2026-10-10T03:59:46Z
+  Updated: 2026-10-18T05:25:33Z
 - [Genuine Leather Cosmetic Bags](https://mlleather.com/pages/leather-cosmetic-bags): A cosmetic bag needs to work with the beauty essentials it carries. Enquire about genuine leather cosmetic bags for beauty brands, travel collectio...
   Updated: 2026-10-09T06:03:18Z
 - [Genuine Leather Eyeglass Clips](https://mlleather.com/pages/leather-eyeglass-clips): A small eyewear accessory can add a useful detail to a bag or personal accessories range. Enquire about genuine leather eyeglass clips and explain ...
@@ -56,18 +56,18 @@
 - [Genuine Leather Shoulder Straps](https://mlleather.com/pages/leather-shoulder-straps): The shoulder strap shapes how a bag is carried. Enquire about genuine leather shoulder straps for new bag ranges or coordinated accessory collectio...
   Updated: 2026-10-09T06:03:18Z
 - [Private Label Leather Handbags & OEM Manufacturing](https://mlleather.com/pages/private-label-oem): Develop private label leather handbags with MINGLUN in Guangzhou, China. We bring 25 years of high-end women's handbag manufacturing experience to ...
-  Updated: 2026-10-10T12:29:31Z
+  Updated: 2026-10-18T05:25:33Z
 - [Materials & Craftsmanship](https://mlleather.com/pages/materials-and-craftsmanship): A clear material and construction brief makes a leather accessories project easier to review. Use the points below to describe the intended product...
   Updated: 2026-10-09T06:03:18Z
-- [Leather Bag Manufacturer in China](https://mlleather.com/pages/our-factory): .b2b-prose:has(.factory-tour){max-width:none}.factory-tour{--tour-line:#d9d9cc;--tour-ink:#203a30}.factory-tour .factory-tour-intro{display:grid;gr...
-  Updated: 2026-10-13T05:44:39Z
-- [Request a Quote](https://mlleather.com/pages/request-a-quote): Contact Us on WhatsApp WhatsApp: +1 380 218 8498 Chat on WhatsApp ↗ Share your product reference, quantity per style and customisation requirements...
-  Updated: 2026-10-10T06:19:31Z
+- [Leather Bag Manufacturer in China](https://mlleather.com/pages/our-factory): body:has(.factory-story) #MainContent .shopify-section > .section .section-content-wrapper > .text-block:has(> h1) { display: none !important; } .f...
+  Updated: 2026-10-18T05:25:33Z
+- [Small-Batch Private-Label Leather Bag Manufacturing | MINGLUN](https://mlleather.com/pages/request-a-quote): Contact Us on WhatsApp WhatsApp: +1 380 218 8498 Chat on WhatsApp ↗ Share your product reference, quantity per style and customisation requirements...
+  Updated: 2026-10-18T05:25:33Z
 
 ## Policies
 
 - [Privacy Policy](https://mlleather.com/policies/privacy-policy)
-  Updated: 2026-10-07T01:08:35-07:00
+  Updated: 2026-10-07T08:08:35Z
 
 ## Optional
 
