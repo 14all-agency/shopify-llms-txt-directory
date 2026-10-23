@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-07-23T00:00:42.458Z
+- Updated At: 2026-10-23T01:03:15.196Z
 
 ## Collections
 
@@ -101,9 +101,9 @@
 ## Store Pages
 
 - [Wenn Busglas, dann vom Busglas-Profi](https://www.zentrale-autoglas.de/pages/busglas-busscheibe): 
-  Updated: 2026-07-15T06:19:41Z
+  Updated: 2026-08-20T12:56:51Z
 - [Autoglas-Reparatur PKW-Scheiben](https://www.zentrale-autoglas.de/pages/autoglas-reparatur-in-der-naehe): 
-  Updated: 2026-07-15T06:23:11Z
+  Updated: 2026-08-20T12:58:49Z
 - [Keine Sorge bei Schäden im Oldtimer-Glas](https://www.zentrale-autoglas.de/pages/oldtimer-glas-autoscheiben-sonderanfertigung): 
   Updated: 2026-07-15T06:27:13Z
 - [Ihre beschädigte LKW-Scheibe professionell reparieren oder tauschen](https://www.zentrale-autoglas.de/pages/lkw-scheibe-lkw-glas): 
@@ -121,7 +121,7 @@
 - [Fit für die Reise: Wohnmobil-Scheiben vom Profi](https://www.zentrale-autoglas.de/pages/wohnmobil-scheiben-reparieren): 
   Updated: 2026-07-15T06:25:08Z
 - [Datenschutz](https://www.zentrale-autoglas.de/pages/datenschutz)
-  Updated: 2026-03-30T16:54:56Z
+  Updated: 2026-09-14T04:49:10Z
 - [Impressum](https://www.zentrale-autoglas.de/pages/impressum)
   Updated: 2026-05-18T10:04:32Z
 - [Großhandel Autoglas](https://www.zentrale-autoglas.de/pages/grosshandel-autoglas)
@@ -131,15 +131,15 @@
 - [Datenschutzinformationen für Bewerber](https://www.zentrale-autoglas.de/pages/datenschutzinformation_fuer_bewerber)
   Updated: 2025-04-23T07:14:01Z
 - [Liteglas](https://www.zentrale-autoglas.de/pages/liteglas): 
-  Updated: 2026-07-15T08:57:41Z
+  Updated: 2026-07-24T10:47:45Z
 - [Stellenausschreibungen](https://www.zentrale-autoglas.de/pages/stellenausschreibungen): 
-  Updated: 2026-07-15T09:01:32Z
+  Updated: 2026-09-07T11:00:30Z
 - [Test](https://www.zentrale-autoglas.de/pages/test)
   Updated: 2025-01-09T11:18:49Z
 - [AGB](https://www.zentrale-autoglas.de/pages/agb)
   Updated: 2026-05-18T10:52:33Z
 - [Datenschutzinformationen zur Videoüberwachung](https://www.zentrale-autoglas.de/pages/datenschutzinformationen_zur_videoberwachung)
-  Updated: 2025-04-25T04:23:07Z
+  Updated: 2026-09-14T04:47:29Z
 - [♿](https://www.zentrale-autoglas.de/pages/accessibility-design)
   Updated: 2026-03-01T11:26:00Z
 - [Reguläre Version](https://www.zentrale-autoglas.de/pages/regular-design)
@@ -147,7 +147,7 @@
 - [Barrierefreiheits-Erklärung](https://www.zentrale-autoglas.de/pages/barrierefreiheits-erklaerung)
   Updated: 2026-02-18T15:04:29Z
 - [Kontakt](https://www.zentrale-autoglas.de/pages/kontakt): 
-  Updated: 2026-07-15T08:59:35Z
+  Updated: 2026-08-20T12:53:53Z
 
 # Agent Instructions
 
