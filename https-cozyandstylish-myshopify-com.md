@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-07-24T16:43:16Z
 - Contact Email: cozyandstylish@outlook.com
-- Updated At: 2026-10-16T00:00:26.255Z
+- Updated At: 2026-10-23T00:29:35.239Z
 
 ## Products
 
@@ -2631,7 +2631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-t-shirt-white-front-6ab8ead98d0b8.jpg?v=1791412250
     Price: 192,50 kr NOK
 - [Ragdoll Cat T-Shirt for Women - Cozy & Stylish](https://cozyandstylish.myshopify.com/products/life-is-better-with-a-ragdoll-cat-womens-relaxed-t-shirt): Show your love for Ragdoll cats with this comfy t-shirt. Perfect for relaxing at home or casual outings. Get yours today!
-  Updated: 2026-10-15T23:49:16Z
+  Updated: 2026-10-21T23:59:35Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -2844,20 +2844,26 @@
   Updated: 2026-10-08T11:38:51Z
   Total Products: 0
 - [Mugs and glassware](https://cozyandstylish.myshopify.com/collections/mugs-and-glassware): Brighten every sip with unique mugs and glassware. Find your favorite today and enjoy every drink in style!
-  Updated: 2026-10-15T13:55:16Z
-  Total Products: 97
+  Updated: 2026-10-22T14:43:20Z
+  Total Products: 106
 - [Doglovers](https://cozyandstylish.myshopify.com/collections/doglovers): Showcase your love for dogs with our curated collection. Find the perfect item to express your canine passion!
-  Updated: 2026-10-15T13:59:45Z
-  Total Products: 153
+  Updated: 2026-10-22T14:43:20Z
+  Total Products: 168
 - [Crazy Cat Lady](https://cozyandstylish.myshopify.com/collections/crazy-cat-lady): Discover the ultimate gifts for cat lovers. Wear your feline obsession with pride and shop our collection today!
   Updated: 2026-10-08T12:04:12Z
   Total Products: 5
 - [Women](https://cozyandstylish.myshopify.com/collections/women-clothes): Discover casual favorites that celebrate your love for pets. Treat yourself or find the perfect gift today!
-  Updated: 2026-10-14T20:07:47Z
-  Total Products: 59
+  Updated: 2026-10-22T15:41:30Z
+  Total Products: 75
+- [Home and living](https://cozyandstylish.myshopify.com/collections/home-and-living): Make yourself at home with our Home and Living collection. Discover mugs, glassware, and pillows that add comfort and personality to your everyday spaces.From your first sip of morning coffee to a quiet evening curled up on the sofa, it’s the little details that make a space feel like yours. Find a new favorite for your home or a thoughtful gift for someone who loves cozy moments.
+  Updated: 2026-10-22T14:43:20Z
+  Total Products: 112
 - [Laptop sleeves](https://cozyandstylish.myshopify.com/collections/laptop-sleeves): Protect your laptop with stylish sleeves. Find the perfect fit and give your device a personal touch today!
   Updated: 2026-10-08T11:38:53Z
   Total Products: 1
+- [Catlovers](https://cozyandstylish.myshopify.com/collections/catlovers): Celebrate your love for cats with our Catlovers collection. Discover cat-inspired mugs and cozy hoodies that bring a little feline personality to your everyday life.From your morning coffee to a relaxed evening with your favorite furry companion, find something that makes those small moments feel more like you. Treat yourself or choose a thoughtful gift for a fellow cat lover.
+  Updated: 2026-10-22T15:41:30Z
+  Total Products: 96
 - [Pillows](https://cozyandstylish.myshopify.com/collections/pillows): Transform your favorite spot with decorative pillows. Explore designs that enhance your cozy corner today!
   Updated: 2026-10-12T15:39:14Z
   Total Products: 9
@@ -2865,32 +2871,38 @@
   Updated: 2026-10-15T13:59:45Z
   Total Products: 44
 - [Pets](https://cozyandstylish.myshopify.com/collections/pets): Celebrate your four-legged companions with our charming pet products. Discover thoughtful gifts for every pet lover!
-  Updated: 2026-10-12T16:24:39Z
+  Updated: 2026-10-21T15:43:40Z
   Total Products: 16
+- [Catbreeds](https://cozyandstylish.myshopify.com/collections/catbreeds): Celebrate the breed that has your heart with our Cat Breeds collection. Explore designs inspired by Bengals, British Shorthairs, Maine Coons, Ragdolls, and Sphynx cats, bringing a little feline charm to your everyday life.Whether you’re treating yourself or choosing a thoughtful gift for a fellow cat lover, find something that celebrates a favorite companion. Different breeds, unforgettable personalities, and so many reasons to love them.
+  Updated: 2026-10-22T15:41:30Z
+  Total Products: 30
 - [Sphynx](https://cozyandstylish.myshopify.com/collections/sphynx): Showcase your love for Sphynx cats with our playful collection. Find the perfect tribute to your one-of-a-kind friend!
-  Updated: 2026-10-15T13:44:38Z
-  Total Products: 7
+  Updated: 2026-10-18T14:25:07Z
+  Total Products: 8
 - [Bengal](https://cozyandstylish.myshopify.com/collections/bengal): Explore Bengal-inspired designs that add personality to your life. Find the perfect treat for yourself or a fellow cat lover today.
-  Updated: 2026-10-12T15:36:57Z
-  Total Products: 5
+  Updated: 2026-10-18T14:34:18Z
+  Total Products: 6
 - [Maine Coon](https://cozyandstylish.myshopify.com/collections/maine-coon): Discover Maine Coon-inspired pieces that celebrate your magnificent companion. Treat yourself or find a thoughtful gift for a fellow lover.
-  Updated: 2026-10-15T13:45:52Z
-  Total Products: 5
+  Updated: 2026-10-18T14:43:12Z
+  Total Products: 6
 - [British Shorthair](https://cozyandstylish.myshopify.com/collections/british-shorthair): Bring home British Shorthair charm with designs that celebrate your favorite feline. Perfect for gifts or a personal treat, explore today.
   Updated: 2026-10-12T15:14:27Z
   Total Products: 3
 - [Ragdoll](https://cozyandstylish.myshopify.com/collections/ragdoll): Find Ragdoll-inspired pieces that remind you of cozy moments with your feline. Treat yourself or surprise another Ragdoll lover now.
-  Updated: 2026-10-14T20:11:58Z
-  Total Products: 8
+  Updated: 2026-10-18T10:50:47Z
+  Total Products: 9
+- [Dog breeds](https://cozyandstylish.myshopify.com/collections/dog-breeds): Celebrate the breed that has your heart with our Dog Breeds collection. Explore designs inspired by Border Collies, Chinese Cresteds, and Shiba Inus, each bringing a little canine character to your everyday life.Whether you’re treating yourself or choosing a thoughtful gift for a fellow dog lover, find something that celebrates a favorite four-legged companion. Different breeds, unforgettable personalities, and plenty to love.
+  Updated: 2026-10-22T14:43:20Z
+  Total Products: 86
 - [Border Collie](https://cozyandstylish.myshopify.com/collections/border-collie): Show your love for Border Collies with designs perfect for everyday life. Perfect gifts or self-treats await you in this charming collection.
-  Updated: 2026-10-15T13:39:33Z
-  Total Products: 22
+  Updated: 2026-10-21T16:13:05Z
+  Total Products: 29
 - [Chinese Crested](https://cozyandstylish.myshopify.com/collections/chinese-crested): Celebrate the charm of Chinese Cresteds with fun, playful designs. Find the perfect items for yourself or gifts for fellow dog lovers.
-  Updated: 2026-10-15T13:55:16Z
-  Total Products: 46
+  Updated: 2026-10-17T15:29:29Z
+  Total Products: 47
 - [Shiba Inu](https://cozyandstylish.myshopify.com/collections/shiba-inu): Explore Shiba Inu-inspired pieces that add charm to your daily life. Discover your favorite or find a gift for a fellow dog lover today.
-  Updated: 2026-10-15T13:40:24Z
-  Total Products: 31
+  Updated: 2026-10-17T15:18:31Z
+  Total Products: 32
 - [Phone cases](https://cozyandstylish.myshopify.com/collections/phone-cases): Make your phone reflect your style with our unique designs. Find your favorite looks and gift ideas in our Phone Cases collection.
   Updated: 2026-10-15T13:50:33Z
   Total Products: 6
@@ -2898,17 +2910,17 @@
   Updated: 2026-10-15T13:48:46Z
   Total Products: 3
 - [Golden Retriever](https://cozyandstylish.myshopify.com/collections/golden-retriever): Celebrate the love of Golden Retrievers with designs for everyday joy. Find a special gift or treat yourself with our charming collection.
-  Updated: 2026-10-15T10:59:10Z
-  Total Products: 17
+  Updated: 2026-10-17T15:37:21Z
+  Total Products: 18
 - [Samsung](https://cozyandstylish.myshopify.com/collections/samsung): Add personality to your Samsung with our fun phone cases. Choose a design that fits your style and make every call more enjoyable!
   Updated: 2026-10-15T13:50:33Z
   Total Products: 3
 - [Men](https://cozyandstylish.myshopify.com/collections/men): Elevate your wardrobe with our Men's collection for a cozy vibe. Discover casual styles perfect for any occasion and express your unique style.
-  Updated: 2026-10-14T17:45:40Z
-  Total Products: 26
+  Updated: 2026-10-22T15:41:30Z
+  Total Products: 42
 - [Babies and kids](https://cozyandstylish.myshopify.com/collections/baby-and-kids): Dress your little one in our sweet styles that spark joy. These cute outfits are perfect for playtime and cuddles, making each day special.
-  Updated: 2026-10-15T15:52:16Z
-  Total Products: 26
+  Updated: 2026-10-21T16:13:05Z
+  Total Products: 32
 - [Chihuahua](https://cozyandstylish.myshopify.com/collections/chihuahua): Celebrate your beloved Chihuahua with our fun collection. Find designs that express your love for this playful breed and wear your heart.
   Updated: 2026-10-14T10:34:57Z
   Total Products: 8
@@ -2928,8 +2940,8 @@
   Updated: 2026-10-12T16:24:39Z
   Total Products: 3
 - [Talk to the paw](https://cozyandstylish.myshopify.com/collections/talk-to-the-paw): Add attitude to your style with our Talk to the Paw collection. Celebrate your pet's personality with fun designs that make a statement.
-  Updated: 2026-10-15T13:55:16Z
-  Total Products: 5
+  Updated: 2026-10-21T14:29:11Z
+  Total Products: 6
 - [Canvas](https://cozyandstylish.myshopify.com/collections/canvas): Transform your space with our stylish canvas. Perfect for any room, it adds a cozy touch. Shop now and enhance your decor!
   Updated: 2026-10-11T10:04:43Z
   Total Products: 1
@@ -2949,8 +2961,29 @@
   Updated: 2026-10-14T18:46:06Z
   Total Products: 4
 - [Fantasy Pets](https://cozyandstylish.myshopify.com/collections/fantasy-pets): Step into a world where a love for pets meets a little magic. Explore Fantasy Pets, a collection inspired by beloved animal companions and the wonder of make-believe. Find a playful way to celebrate your love for animals, or a charming gift for someone whose imagination is as big as their heart. - Cozy and Stylish
-  Updated: 2026-10-15T15:52:16Z
-  Total Products: 6
+  Updated: 2026-10-16T14:14:33Z
+  Total Products: 8
+- [Caps](https://cozyandstylish.myshopify.com/collections/caps): - Cozy and Stylish
+  Updated: 2026-10-17T15:37:21Z
+  Total Products: 4
+- [Celestial Guardians](https://cozyandstylish.myshopify.com/collections/celestial-guardians): – A Magical Dog Collection - Cozy and Stylish
+  Updated: 2026-10-18T14:43:13Z
+  Total Products: 4
+- [Calendars](https://cozyandstylish.myshopify.com/collections/calendars): - Cozy and Stylish
+  Updated: 2026-10-20T12:09:40Z
+  Total Products: 0
+- [Stella Queen – Cat Attitude Collection](https://cozyandstylish.myshopify.com/collections/stella-queen-cat-attitude-collection): Meet Stella Queen 👑🐱 Small Cat. Big Attitude. Inspired by the sass, charm and undeniable royal energy of our feline friends, Stella Queen is an original Cozy & Stylish collection made for people who know that cats don't follow the rules — they make them. Discover playful cat designs, cozy apparel and fun gifts that celebrate the little queens and kings ruling our homes. Because every cat deserves a crown. - Cozy and Stylish
+  Updated: 2026-10-21T10:58:23Z
+  Total Products: 3
+- [I herd you](https://cozyandstylish.myshopify.com/collections/i-herd-you)
+  Updated: 2026-10-21T16:13:05Z
+  Total Products: 5
+- [Devon Rex](https://cozyandstylish.myshopify.com/collections/devon-rex)
+  Updated: 2026-10-22T15:41:30Z
+  Total Products: 3
+- [Zolo](https://cozyandstylish.myshopify.com/collections/zolo)
+  Updated: 2026-10-22T14:43:20Z
+  Total Products: 1
 
 ## Blogs
 
@@ -2962,61 +2995,30 @@
   - [The Ultimate Guide for Catlovers and Doglovers: Fashion for Toddlers with the Cool Cat Tee](https://cozyandstylish.myshopify.com/blogs/nyheter/the-ultimate-guide-for-catlovers-and-doglovers-fashion-for-toddlers-with-the-cool-cat-tee): The Ultimate Guide for Catlovers and Doglovers: Fashion for Toddlers with the Cool Cat Tee
     Updated: 2026-10-08T14:48:58Z
     Author: Cozy and Stylish
-  - [Beautiful Dog Mugs That Make Great Gifts](https://cozyandstylish.myshopify.com/blogs/nyheter/beautiful-dog-mugs-that-make-great-gifts): Dog mugs bring a little extra joy to every coffee or tea break and make thoughtful gifts for dog lovers. Discover what makes them special, why they’re a meaningful everyday gift, and what to look for when choosing a quality mug.
-    Updated: 2026-10-09T10:35:41Z
+  - [Beautiful Dog Mugs That Make Great Gifts](https://cozyandstylish.myshopify.com/blogs/nyheter/beautiful-dog-mugs-that-make-great-gifts): Beautiful Dog Mugs That Make Great Gifts
+    Updated: 2026-10-20T12:48:02Z
     Author: Camilla Tangen
     Tags: coffeemugs, dog, doglovergifts, doglovers, dogmugs
   - [Beautiful Cat Mugs That Make Great Gifts](https://cozyandstylish.myshopify.com/blogs/nyheter/beautiful-cat-mugs-that-make-great-gifts): Discover how beautifully designed cat mugs bring charm to your daily coffee or tea ritual and make thoughtful gifts for cat lovers. From elegant illustrations to playful prints, find inspiration for a mug that adds a little feline joy to every sip.
     Updated: 2026-10-09T14:30:56Z
     Author: Camilla Tangen
     Tags: cat, catlover, catlovergifts, coffeemugs
-  - [Chihuahua Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chihuahua-christmas-mug): <p><span>Bring festive cheer to every sip with our Chihuahua Christmas mug, featuring three adorable holiday designs. Perfect for cozy coffee breaks or hot chocolate by the fireplace, it makes a thoughtful Christmas gift for Chihuahua lovers and proud pet parents.</span></p>
-    Updated: 2026-10-10T12:14:40Z
+  - [Chihuahua Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chihuahua-christmas-mug): Chihuahua Christmas mug
+    Updated: 2026-10-20T12:49:03Z
     Author: Camilla Tangen
     Tags: chihuahua, christmas, christmasgift, coffeemugs, dog, doglover, doglovergifts, doglovers, dogmugs
-  - [Chinese Crested Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chinese-crested-christmas-mug): <div class="_VirtualizedListHost_jcamu_11" data-sk-virtualized-list-host="" data-sk-virtualized-mounted-count="1">
-<div class="Polaris-Scroll" data-sk-virtualized-scrollport="" role="list" tabindex="0">
-<div data-sk-virtualized-item="" data-key="9604a399-9de7-4810-a56a-ed726f2e7a15" data-index="0" role="listitem">
-<div data-sk-virtualized-row="">
-<div class="_Turn_jcamu_57 _FirstTurn_jcamu_126">
-<div class="_TurnBlocks_17f6i_53 _TurnBlocksLead_17f6i_61">
-<div class="_TurnBlockItem_17f6i_1" data-last-in-turn="true" data-item-type="content" data-message-id="01M4KG7XGN8582B5CJSVTC29PS">
-<div class="_TurnBlockItemContent_17f6i_14">
-<div class="Polaris-InlineStack">
-<div class="_HelpCard_zub4n_6">
-<article class="_container_1thwv_1">
-<p class="_p_1thwv_144"><span>Celebrate the festive season with a Chinese Crested Christmas mug that brings warmth and personality to every sip. A thoughtful gift for Chinese Crested owners and dog lovers, it’s a charming way to enjoy your favorite hot drink and add a little holiday cheer to your daily routine.</span></p>
-</article>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="Polaris-Box">
-<div class="_MessageFooter_12y2u_101">
-<div class="_FeedbackContainer_wyts6_1">
-<div class="_FeedbackOptions_wyts6_12" data-animate="true">
-<div class="_FeedbackOptionsLeft_wyts6_31"><br></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-    Updated: 2026-10-10T18:13:50Z
+  - [Chinese Crested Christmas mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chinese-crested-christmas-mug): Chinese Crested Christmas mug
+    Updated: 2026-10-20T12:53:55Z
     Author: Camilla Tangen
     Tags: chinesecrested, christmas, christmasgift, dog, doglover, doglovergifts, doglovers, dogmugs
   - [How to Choose the Perfect Knitted Christmas Dog Sweater For Furry Fashionista Gift Ideas for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/how-to-choose-the-perfect-knitted-christmas-dog-sweater-for-furry-fashionista-gift-ideas-for-doglovers-and-catlovers): How to Choose the Perfect Knitted Christmas Dog Sweater For Furry Fashionista Gift Ideas for Doglovers and Catlovers
     Updated: 2026-10-11T00:22:48Z
     Author: Cozy and Stylish
   - [Captivating Gift Ideas for Doglovers and Catlovers: Discover the Fashionable Golden Retriever Mug](https://cozyandstylish.myshopify.com/blogs/nyheter/captivating-gift-ideas-for-doglovers-and-catlovers-discover-the-fashionable-golden-retriever-mug): Captivating Gift Ideas for Doglovers and Catlovers: Discover the Fashionable Golden Retriever Mug
-    Updated: 2026-10-12T03:02:42Z
+    Updated: 2026-10-20T12:53:23Z
     Author: Cozy and Stylish
-  - [A Cozy Christmas Touch for Dog Lovers](https://cozyandstylish.myshopify.com/blogs/nyheter/a-cozy-christmas-touch-for-dog-lovers): <p><span>Bring a cozy Christmas touch to your home with festive dog-themed pillows from Cozy and Stylish. Discover simple styling ideas for a welcoming holiday corner and find a thoughtful gift for the dog lover in your life.</span></p>
-    Updated: 2026-10-12T09:59:45Z
+  - [A Cozy Christmas Touch for Dog Lovers](https://cozyandstylish.myshopify.com/blogs/nyheter/a-cozy-christmas-touch-for-dog-lovers): A Cozy Christmas Touch for Dog Lovers
+    Updated: 2026-10-20T12:49:40Z
     Author: Camilla Tangen
     Tags: chihuahua, chinesecrested, christmas, christmasgift, christmaspillow, dog, doglover, doglovergifts, doglovers, homeandliving, pillow, pinscher
   - [Cozy Sips for Dog Lovers: Find Your Favourite Breed](https://cozyandstylish.myshopify.com/blogs/nyheter/cozy-sips-for-dog-lovers-find-your-favourite-breed): <p><span>Discover five charming dog-themed mugs celebrating the Border Collie, Shiba Inu, Chinese Crested, Whippet and Pinscher. Find your favourite breed, add a personal touch to your coffee break, or choose a thoughtful gift for a fellow dog lover.</span></p>
@@ -3030,6 +3032,27 @@
     Updated: 2026-10-15T12:01:54Z
     Author: Camilla Tangen
     Tags: bordercollie, chihuahua, chinesecrested, coffeemugs, dalmatian, doglover, doglovergifts, dogmugs, fashion, golden retriever, mugs, new designs, pinscher, shibainu, sweatshirt, tshirt
+  - [Anti-Depressants Sweatshirts: Because Dogs Make Everything Better!](https://cozyandstylish.myshopify.com/blogs/nyheter/anti-depressants-sweatshirts-because-dogs-make-everything-better): Anti-Depressants Sweatshirts: Because Dogs Make Everything Better!
+    Updated: 2026-10-20T12:52:13Z
+    Author: Camilla Tangen
+    Tags: apperal, dog, doglover, doglovergifts, doglovers, fashion, funnydogdesign, men, sweatshirt, women
+  - [Cozy Gifts for Doglovers and Catlovers: The Fashionable Women's Dog Print Pajama Top](https://cozyandstylish.myshopify.com/blogs/nyheter/cozy-gifts-for-doglovers-and-catlovers-the-fashionable-womens-dog-print-pajama-top): Cozy Gifts for Doglovers and Catlovers: The Fashionable Women's Dog Print Pajama Top
+    Updated: 2026-10-18T00:04:50Z
+    Author: Cozy and Stylish
+  - [Why the Border Collie Travel Mug is the Perfect Fashionable Gift for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/why-the-border-collie-travel-mug-is-the-perfect-fashionable-gift-for-doglovers-and-catlovers): Why the Border Collie Travel Mug is the Perfect Fashionable Gift for Doglovers and Catlovers
+    Updated: 2026-10-20T12:51:31Z
+    Author: Cozy and Stylish
+  - [Stella Queen Collection Coming Soon | Cozy & Stylish](https://cozyandstylish.myshopify.com/blogs/nyheter/stella-queen-collection-coming-soon-cozy-stylish): Stella Queen Collection Coming Soon | Cozy & Stylish
+    Updated: 2026-10-20T12:50:33Z
+    Author: Camilla Tangen
+    Tags: catlover, catlovergifts, catmom, cozy and stylish, cute cat designs, funny cat gifts, new collection, Stella Queen, Stella Queen Collection
+  - [Captivating Ceramics How the Adorable Chinese Crested Dog Mug Makes Perfect Gifts for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/captivating-ceramics-how-the-adorable-chinese-crested-dog-mug-makes-perfect-gifts-for-doglovers-and-catlovers): Captivating Ceramics How the Adorable Chinese Crested Dog Mug Makes Perfect Gifts for Doglovers and Catlovers
+    Updated: 2026-10-22T00:05:28Z
+    Author: Cozy and Stylish
+  - [Something Special Is Coming This Sunday: Meet the Stella Queen Collection!](https://cozyandstylish.myshopify.com/blogs/nyheter/something-special-is-coming-this-sunday-meet-the-stella-queen-collection): <p>Meet Stella Queen! 👑🐾 Our exciting new cat-inspired collection launches October 25 at Cozy &amp; Stylish. Discover playful designs, cozy hoodies, tumblers, stickers, and more — all inspired by one very special cat.</p>
+    Updated: 2026-10-22T13:46:46Z
+    Author: Camilla Tangen
+    Tags: Cat Lovers, Cat Mom Gifts, Collection Launch, Cozy & Stylish, Pet Inspired Designs, Stella Queen
 
 ## Store Pages
 
@@ -3045,15 +3068,15 @@
 ## Policies
 
 - [Privacy Policy](https://cozyandstylish.myshopify.com/policies/privacy-policy)
-  Updated: 2026-07-24T18:43:19+02:00
+  Updated: 2026-07-24T16:43:19Z
 - [Shipping Policy](https://cozyandstylish.myshopify.com/policies/shipping-policy)
-  Updated: 2026-10-11T12:25:16+02:00
+  Updated: 2026-10-11T10:25:16Z
 - [Refund Policy](https://cozyandstylish.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-13T15:15:59+02:00
+  Updated: 2026-10-13T13:15:59Z
 - [Terms of Service](https://cozyandstylish.myshopify.com/policies/terms-of-service)
-  Updated: 2026-09-27T13:12:07+02:00
+  Updated: 2026-09-27T11:12:07Z
 - [Contact Information](https://cozyandstylish.myshopify.com/policies/contact-information)
-  Updated: 2026-10-11T12:28:00+02:00
+  Updated: 2026-10-11T10:28:00Z
 
 ## Optional
 
