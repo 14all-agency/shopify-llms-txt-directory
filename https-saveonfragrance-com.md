@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-16T15:20:48Z
 - Contact Email: info@saveonfragrance.com
-- Updated At: 2026-10-13T00:00:37.096Z
+- Updated At: 2026-10-23T00:34:42.499Z
 
 ## Products
 
@@ -389,7 +389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/Carolina-Herrera-Good-Girl-Blush-Eau-de-Parfum-2-7-oz_d30cc559-4fe6-4413-bd4f-a463a37e112c.469a433ffe8f2afbecf9cc3c5d952a69.jpg?v=1788164750
   Price: $75.00 USD
 - [GIORGIO ARMANI Acqua Di Gio Eau de Toilette 6.7oz](https://saveonfragrance.com/products/giorgio-armani-acqua-di-gio-6-7oz-men-s-eau-de-toilette): Shop GIORGIO ARMANI Acqua Di Gio Eau de Toilette 6.7oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-10-06T10:02:47Z
+  Updated: 2026-10-20T04:16:10Z
   Vendor: GIORGIO ARMANI
   Product Type: Perfume
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0995/0969/8890/files/B08XJTL86Z.01.LZZZZZZZ.jpg?v=1788164759
   Price: $92.00 USD
 - [YVES SAINT LAURENT Libre LE PARFUM () 3.0 oz](https://saveonfragrance.com/products/yves-saint-laurent-libre-le-parfum-for-women-3-0-oz-90ml): Shop YVES SAINT LAURENT Libre LE PARFUM () 3.0 oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-10-06T10:02:09Z
+  Updated: 2026-10-20T04:09:45Z
   Vendor: YVES SAINT LAURENT
   Product Type: Perfume
   Availability: Available
@@ -942,15 +942,15 @@
 ## Policies
 
 - [Privacy Policy](https://saveonfragrance.com/policies/privacy-policy)
-  Updated: 2026-09-03T10:16:50+02:00
+  Updated: 2026-09-03T08:16:50Z
 - [Shipping Policy](https://saveonfragrance.com/policies/shipping-policy)
-  Updated: 2026-09-03T10:47:14+02:00
+  Updated: 2026-09-03T08:47:14Z
 - [Refund Policy](https://saveonfragrance.com/policies/refund-policy)
-  Updated: 2026-09-02T10:13:18+02:00
+  Updated: 2026-09-02T08:13:18Z
 - [Terms of Service](https://saveonfragrance.com/policies/terms-of-service)
-  Updated: 2026-09-03T10:40:22+02:00
+  Updated: 2026-09-03T08:40:22Z
 - [Contact Information](https://saveonfragrance.com/policies/contact-information)
-  Updated: 2026-09-02T08:52:02+02:00
+  Updated: 2026-09-02T06:52:02Z
 
 ## Optional
 
