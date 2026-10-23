@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-10-02T02:47:03Z
 - Contact Email: triciatoussi262@gmail.com
-- Updated At: 2026-10-14T00:00:37.596Z
+- Updated At: 2026-10-23T00:40:37.576Z
 
 ## Products
 
@@ -1273,15 +1273,15 @@
 ## Policies
 
 - [Privacy Policy](https://autodirectsave.com/policies/privacy-policy)
-  Updated: 2025-10-01T19:47:14-07:00
+  Updated: 2025-10-02T02:47:14Z
 - [Shipping Policy](https://autodirectsave.com/policies/shipping-policy)
-  Updated: 2026-09-18T10:27:52-07:00
+  Updated: 2026-09-18T17:27:52Z
 - [Refund Policy](https://autodirectsave.com/policies/refund-policy)
-  Updated: 2026-09-18T10:25:57-07:00
+  Updated: 2026-09-18T17:25:57Z
 - [Terms of Service](https://autodirectsave.com/policies/terms-of-service)
-  Updated: 2026-09-18T10:26:31-07:00
+  Updated: 2026-09-18T17:26:31Z
 - [Contact Information](https://autodirectsave.com/policies/contact-information)
-  Updated: 2026-09-18T10:27:02-07:00
+  Updated: 2026-09-18T17:27:02Z
 
 ## Optional
 
