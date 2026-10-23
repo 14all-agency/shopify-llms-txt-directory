@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2016-12-08T21:12:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-15T00:00:42.433Z
+- Updated At: 2026-10-23T00:50:18.065Z
 
 ## Products
 
@@ -204,7 +204,7 @@
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KIPWILDCARDHAT.png?v=1760471948
   Price: $40.00 USD
 - [Solitary Tracks World Tour Tee](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-world-tour-tee): Solitary Tracks World Tour Tee in "brown Savana" with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:01:20Z
+  Updated: 2026-10-17T16:08:41Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -246,7 +246,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Solitary Tracks CD [SIGNED]](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-cd-signed): SIGNED Solitary Tracks CD!
-  Updated: 2026-10-11T18:36:47Z
+  Updated: 2026-10-17T15:37:54Z
   Vendor: Kip Moore
   Product Type: Music
   Availability: Available
@@ -302,7 +302,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Solitary Tracks Photo Tee](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-photo-tee): Solitary Tracks Photo Tee in black with front print only. 100% Cotton
-  Updated: 2026-10-09T02:12:16Z
+  Updated: 2026-10-19T16:26:56Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -379,14 +379,14 @@
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMGREENBULLKOOZIE.png?v=1780521515
   Price: $5.00 USD
 - [Bull Bandana](https://kipmoore.merchmadeeasy.com/products/bull-bandana): Red Bull Bandana
-  Updated: 2026-10-08T21:20:58Z
+  Updated: 2026-10-19T16:26:57Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMBANDANA.png?v=1780521641
   Price: $25.00 USD
 - [Bull Crewneck](https://kipmoore.merchmadeeasy.com/products/bull-crewneck): Bull Crewneck in sand with front and back print. 50% Cotton, 50% Polyester
-  Updated: 2026-10-09T02:12:17Z
+  Updated: 2026-10-19T21:50:36Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -407,7 +407,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Reason To Believe - White Vinyl](https://kipmoore.merchmadeeasy.com/products/reason-to-believe-exclusive-white-vinyl): Kip Moore's newest album, Reason To Believe, on white vinyl.
-  Updated: 2026-10-05T13:01:28Z
+  Updated: 2026-10-18T20:07:56Z
   Vendor: MUSIC
   Product Type: Music
   Availability: Available
@@ -424,25 +424,25 @@
 ## Collections
 
 - [Home page](https://kipmoore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 94
 - [Apparel](https://kipmoore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-20T11:01:35Z
   Total Products: 98
 - [Music](https://kipmoore.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 20
 - [All Products](https://kipmoore.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-20T11:01:35Z
   Total Products: 193
 - [Last Chance](https://kipmoore.merchmadeeasy.com/collections/)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-18T11:01:24Z
   Total Products: 72
 - [Accessories](https://kipmoore.merchmadeeasy.com/collections/hats)
-  Updated: 2026-09-24T11:02:41Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 43
 - [Featured Collection](https://kipmoore.merchmadeeasy.com/collections/damn-love)
-  Updated: 2026-10-08T11:01:24Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 27
 - [2024 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2024-tour-collection)
   Updated: 2026-09-24T11:02:41Z
@@ -451,31 +451,31 @@
   Updated: 2026-10-09T11:01:17Z
   Total Products: 2
 - [Outerwear](https://kipmoore.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-20T11:01:35Z
   Total Products: 9
 - [2025 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2025-world-tour-collection)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-18T11:01:24Z
   Total Products: 14
 - [Black Friday ](https://kipmoore.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-18T11:01:24Z
   Total Products: 28
 - [$20.25 Tour Tees](https://kipmoore.merchmadeeasy.com/collections/20-25-tour-tees)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-18T11:01:24Z
   Total Products: 6
 - [Signed Solitary Tracks Collection](https://kipmoore.merchmadeeasy.com/collections/signed-solitary-tracks-collection)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-18T11:01:24Z
   Total Products: 3
 - [UPSELL](https://kipmoore.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 11
 - [Best–](https://kipmoore.merchmadeeasy.com/collections/all-products-copy)
-  Updated: 2026-10-12T11:01:16Z
+  Updated: 2026-10-20T11:01:35Z
   Total Products: 193
 - [Reason To Believe](https://kipmoore.merchmadeeasy.com/collections/reason-to-believe)
-  Updated: 2026-10-11T11:02:06Z
+  Updated: 2026-10-20T11:01:35Z
   Total Products: 13
 - [BEST SELLERS](https://kipmoore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-09T11:01:17Z
+  Updated: 2026-10-19T11:02:58Z
   Total Products: 13
 
 ## Store Pages
@@ -514,15 +514,15 @@
 ## Policies
 
 - [Privacy Policy](https://kipmoore.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T19:03:13-05:00
+  Updated: 2026-06-19T00:03:13Z
 - [Shipping Policy](https://kipmoore.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-26T11:04:41-06:00
+  Updated: 2024-02-26T17:04:41Z
 - [Refund Policy](https://kipmoore.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T19:03:25-05:00
+  Updated: 2026-06-19T00:03:25Z
 - [Terms of Service](https://kipmoore.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-26T11:04:41-06:00
+  Updated: 2024-02-26T17:04:41Z
 - [Contact Information](https://kipmoore.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-02-26T11:04:41-06:00
+  Updated: 2024-02-26T17:04:41Z
 
 ## Optional
 
