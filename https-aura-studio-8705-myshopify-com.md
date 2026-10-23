@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-02-18T08:51:38Z
 - Contact Email: sharjeelsdcsdc@gmail.com
-- Updated At: 2026-07-25T00:00:42.319Z
+- Updated At: 2026-10-23T01:04:21.436Z
 
 ## Products
 
@@ -74,7 +74,7 @@
 ## Policies
 
 - [Privacy Policy](https://aura-studio-8705.myshopify.com/policies/privacy-policy)
-  Updated: 2026-02-18T03:51:46-05:00
+  Updated: 2026-02-18T08:51:46Z
 
 ## Optional
 
