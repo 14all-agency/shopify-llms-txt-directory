@@ -6,61 +6,47 @@
 - Timezone: Europe/London
 - Created At: 2017-12-12T10:20:11Z
 - Contact Email: noreply@cohorted.co.uk
-- Updated At: 2026-08-10T00:00:46.992Z
+- Updated At: 2026-10-23T00:54:59.665Z
 
 ## Products
 
-- [Beauty Mystery Box | Makeup & Skin Care Mystery Box](https://www.cohorted.co.uk/products/limited-edition-mystery-box): Our beauty mystery box is the perfect pamper package. You can expect at least 13 premium beauty products across makeup, skincare, haircare and fragrance.
-  Updated: 2026-08-05T21:18:36Z
+- [Beauty Mystery Box | Makeup & Skin Care Mystery Box](https://www.cohorted.co.uk/products/limited-edition-mystery-box): Our beauty mystery box is the perfect pamper package. You can expect premium beauty products across makeup, skincare, haircare and fragrance.
+  Updated: 2026-10-22T21:30:06Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/MysterY-box-TIKTOK-04_jpg.png?v=1774538462
-  Price: £24.99 GBP
+  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Cohorted_Beauty_Mystery_Beauty_Box_Bundle.png?v=1791995795
+  Price: £18.99 GBP
 - [Subscription Beauty Box UK | Monthly Luxury Skincare & Makeup Box](https://www.cohorted.co.uk/products/subscription-beauty-box-uk-monthly-luxury-skincare-makeup): Join Cohorted’s subscription beauty box for monthly luxury skincare, makeup and premium beauty discoveries, curated by experts and delivered to your door.
-  Updated: 2026-08-09T20:01:27Z
+  Updated: 2026-10-23T00:21:17Z
   Vendor: Cohorted Beauty
   Product Type: Gift Beauty Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Pat-Mcgrath-Subscription-Product-Page_26d7a4ad-40c9-41be-93eb-3ca73c75900e.png?v=1785750373
+  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Subscription-Product-Page-1080x1080px.png?v=1790849828
   Price: £39.99 GBP
 - [Mystery Beauty Box UK | Luxury Skincare, Makeup & Surprise Beauty Gifts](https://www.cohorted.co.uk/products/mystery-beauty-box-uk-luxury-skincare-makeup-gifts): Shop a mystery beauty box from Cohorted with luxury skincare, makeup and surprise beauty gifts. Discover a curated unboxing treat for beauty lovers.
-  Updated: 2026-08-09T00:36:37Z
+  Updated: 2026-10-22T23:27:16Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Myster-box-shopify-05.jpg?v=1772214345
-  Price: £24.99 GBP
-- [Easter Beauty Box I Gift Box UK](https://www.cohorted.co.uk/products/easter-beauty-box): Hop into our Limited Edition Easter Beauty Box and discover what the Beauty Bunny has curated. It’s time to indulge yourself in all things beauty.
-  Updated: 2026-08-02T11:48:41Z
+  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Cohorted_Mystery_Beauty_Box-Gift.png?v=1787318585
+  Price: £18.99 GBP
+- [Luxury Limited Edition Beauty Box I Gift Box UK](https://www.cohorted.co.uk/products/luxury-limited-edition-beauty-box): Discover the ultimate beauty indulgence with our Limited Edition Beauty Box. Thoughtfully curated with an exciting selection of beauty must-haves, it's time to treat yourself to a little luxury. Unbox, discover and indulge in your new beauty favourites.
+  Updated: 2026-10-19T11:33:00Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Easter_1080x1080_New-updated.jpg?v=1775642717
   Price: £34.99 GBP
-- [Letterbox Gifts - It's Your Birthday (Worth £90+)](https://www.cohorted.co.uk/products/letterbox-gifts-its-your-birthday): Treat someone to a birthday surprise through the letterbox with this curated beauty gift, featuring skincare, makeup and a keepsake bracelet from cult favourite brands, Pestle & Mortar, Laura Mercier, bareMinerals, Filorga, Emolyne and Sweetheart & Darlings.
-  Updated: 2026-07-31T08:31:20Z
-  Vendor: Cohorted - Be You Be Beautiful
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/letterbox-gifts-birthday-box.jpg?v=1774614269
-  Price: £12.99 GBP
-- [Bybi Beauty Box | Vegan and Cruelty Free Gift Box](https://www.cohorted.co.uk/products/the-bybi-beauty-box-edit): Indulge in the ultimate natural beauty experience with the exclusive Cohorted x Bybi Beauty Box. Featuring vegan and cruelty-free products, discover the latest in sustainable skincare. Learn more...
-  Updated: 2026-08-09T11:33:56Z
-  Vendor: Cohorted - Be You Be Beautiful
-  Product Type: Gift Beauty Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Bybi-updated.jpg?v=1773404547
-  Price: £19.99 GBP
 - [Letterbox Gifts - Beauty in Bloom](https://www.cohorted.co.uk/products/letterbox-gifts-beauty-in-bloom): Discover our Beauty in Bloom Edit. Containing luxury brands and products such as the Emolyne Velvet Lipstick, Dr Lipp Original Nipple Balm and more...
-  Updated: 2026-08-02T11:48:42Z
+  Updated: 2026-10-19T11:33:05Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Beauty-in-bloom-2026.jpg?v=1774635403
   Price: £14.99 GBP
 - [Cohorted - Gift Card](https://www.cohorted.co.uk/products/gift-card): Cohorted Beauty Gift Card – The Perfect Luxury Beauty Gift Looking for a thoughtful, flexible and instantly appreciated gift? The Cohorted Beauty Gift Card is the ultimate choice for beauty lovers who enjoy discovering premium skincare, makeup and haircare. Whether it’s for a birthday, celebration or last-minute surprise, this digital gift card lets them choose exactly what they want from the world of luxury beauty. Why Choose a Cohorted Gift Card? Give the gift of choice with access to a curated collection of high-end beauty products and exclusive beauty boxes. From cult-favourite skincare to trending makeup essentials, the recipient can shop with complete freedom. Instant Delivery – Sent directly via email, perfect for last-minute gifting Flexible Amounts – Choose the value that suits your budget Luxury Beauty Access – Redeem across premium brands and curated edits No Expiry Pressure – Shop at their own pace Whether you’re gifting for Christmas, birthdays, anniversaries or simply treating someone special, a Cohorted gift card removes the guesswork while still feeling personal and luxurious.
-  Updated: 2026-08-07T16:38:05Z
+  Updated: 2026-10-19T11:33:06Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Card
   Availability: Available
@@ -94,76 +80,69 @@
     Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Artboard_17_17368b20-1811-47f7-a004-5b1a1ed71f3a.jpg?v=1714140691
     Price: £200.00 GBP
 - [Cohorted x Christophe Robin Beauty Box | Luxury Haircare Set](https://www.cohorted.co.uk/products/the-christophe-robin-beauty-box): Discover the Cohorted x Christophe Robin Curl Care Beauty Box – a luxury 5-piece haircare set worth over £120. Hydrate, define, and tame frizz for soft, bouncy curls.
-  Updated: 2026-07-19T23:14:45Z
+  Updated: 2026-10-19T11:33:07Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Christophe_Robin_haircare_box_curls.png?v=1743691374
   Price: £29.99 GBP
 - [Cohorted x OFRA Cosmetics Beauty Box | Luxury Beauty Gift Set UK](https://www.cohorted.co.uk/products/the-ofra-beauty-box-3rd-edition): Experience the exclusive Cohorted x OFRA Cosmetics Beauty Box, valued at £125.00. This luxury UK beauty gift box features premium skincare, makeup, and cosmetics curated to deliver radiant results. Perfect as a subscription treat or indulgent gift, it's a must-have for beauty enthusiasts.
-  Updated: 2026-08-09T11:18:47Z
+  Updated: 2026-10-21T15:17:56Z
   Vendor: Cohorted - Be You Be Beautiful
   Product Type: Gift Beauty Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2635/3958/files/1_a6d3207a-8e64-4403-8c1b-5c857ff70a1e.jpg?v=1746025479
   Price: £19.99 GBP
-- [Avant Skincare Beauty Box I Luxury Beauty Gift Box UK](https://www.cohorted.co.uk/products/the-avant-beauty-box-renew-revive): Unbox luxury with the Cohorted x Avant Skincare Beauty Box worth £386. Packed with Avant’s premium skincare must-haves, this exclusive collection is worth an incredible £386. Elevate your skincare routine and indulge in a perfectly balanced glow.
-  Updated: 2026-08-06T07:49:05Z
-  Vendor: Cohorted - Be You Be Beautiful
-  Product Type: Gift Beauty Boxes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Avant-Box-Scene-Square.jpg?v=1781085865
-  Price: £49.99 GBP
 - [Flânerie Skincare Beauty Box I Luxury Beauty Gift Box UK](https://www.cohorted.co.uk/products/the-flanerie-beauty-box-fresh-faced): Discover the Flânerie Skincare Fresh Faced Beauty Box from Cohorted. Worth £112 and packed with luxury skincare essentials designed to cleanse, hydrate and revitalise your complexion.
-  Updated: 2026-07-24T15:02:23Z
+  Updated: 2026-10-22T21:26:07Z
   Vendor: Cohorted Beauty
   Product Type: Gift Beauty Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2635/3958/files/04-April-Flanerie-Comp-Scene-Square-02.jpg?v=1781087606
   Price: £39.99 GBP
 - [Cohorted x Pat McGrath Labs Beauty Box | Worth £146 | Limited Edition](https://www.cohorted.co.uk/products/the-pat-mcgrath-beauty-box): Discover the exclusive Cohorted x Pat McGrath Labs Beauty Box worth £146. Featuring bestselling Divine Blush, Bronze & Glow Trio and Lust Gloss, this limited-edition luxury beauty box is available exclusively at Cohorted. Shop before it sells out.
-  Updated: 2026-08-07T12:42:56Z
+  Updated: 2026-10-22T21:26:07Z
   Vendor: Cohorted Beauty
   Product Type: Gift Beauty Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/ChatGPTImageJul24_2026_03_50_30PM.png?v=1784904643
+  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Cohorted_Pat_Mcgrath_Limited_Edition_Beauty_Box.png?v=1787318188
   Price: £59.99 GBP
-- [Cohorted Premium Skincare Beauty Box | Worth £158 | Limited Edition](https://www.cohorted.co.uk/products/the-season-of-glow-beauty-box): Discover a luxury skincare gift set featuring Mario Badescu, EVE LOM and the RÉDUIT BOOST device. Hydrate, brighten and rejuvenate skin with this premium beauty collection.
-  Updated: 2026-08-03T11:51:05Z
+- [Cohorted Beauty | The Electric Bloom Edit | KVD Beauty, WBCo & Luxury Fragrance](https://www.cohorted.co.uk/products/the-electric-bloom-beauty-box): Shop The Electric Bloom Edit from Cohorted, featuring KVD Beauty, WBCo, Maison Crivelli and BDK Parfums. 7 beauty products worth £124.23.
+  Updated: 2026-10-21T08:57:36Z
   Vendor: Cohorted Beauty
   Product Type: Gift Beauty Boxes
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/Packshot-01.png?v=1785516314
-  Price: £19.99 GBP
+  Image: https://cdn.shopify.com/s/files/1/2635/3958/files/cohorted_electric_bloom_beauty_box_01.png?v=1791376125
+  Price: £49.99 GBP
 
 ## Collections
 
 - [OrderlyEmails - Recommended Products](https://www.cohorted.co.uk/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-08-09T11:06:26Z
-  Total Products: 22
+  Updated: 2026-10-22T11:06:20Z
+  Total Products: 18
 - [Classic Gift Beauty Box Collection](https://www.cohorted.co.uk/collections/classic-beauty-boxes): Browse our beauty box collection and discover previous curations. Our subscription beauty boxes are cruelty free, offering premium products for every beauty lover.
-  Updated: 2026-08-09T11:06:26Z
-  Total Products: 60
+  Updated: 2026-10-22T11:06:20Z
+  Total Products: 62
 - [Limited Edition Beauty Box Collection](https://www.cohorted.co.uk/collections/limited-edition-beauty-boxes): Shop limited edition beauty boxes in the UK with premium skincare, makeup, haircare and fragrance gift sets. Discover luxury curated edits from Cohorted.
-  Updated: 2026-08-09T11:06:26Z
-  Total Products: 49
+  Updated: 2026-10-22T11:06:20Z
+  Total Products: 51
 - [Subscription Box Collection](https://www.cohorted.co.uk/collections/subscription-box-collection): Our monthly subscription features a wide selection of premium beauty products across cosmetics, skincare, haircare, fragrance and more. You’ll receive a minimum of five luxury products from cult brands, hand-picked by our in-house beauty experts. Your subscription will include our digital Beauty Box Magazine where you will find beauty hacks, monthly offers and inspiring conversations to enhance your beauty regime.
-  Updated: 2026-08-09T11:06:26Z
+  Updated: 2026-10-22T11:06:20Z
   Total Products: 1
 - [Cohorted Gift Cards](https://www.cohorted.co.uk/collections/cohorted-gift-cards): Shop Cohorted gift cards online for luxury beauty gifts, beauty box subscriptions and premium self-care treats. Perfect for birthdays, Christmas and thank you gifts.
-  Updated: 2026-07-20T11:07:05Z
+  Updated: 2026-09-29T11:14:35Z
   Total Products: 1
 - [Cohorted Advent Calendars](https://www.cohorted.co.uk/collections/luxury-beauty-advent-calendars-uk): Shop luxury beauty advent calendars in the UK with premium skincare, makeup and festive beauty gifts. Discover Cohorted Christmas countdown edits.
   Updated: 2026-05-26T19:53:59Z
   Total Products: 6
 - [Letterbox Gifts](https://www.cohorted.co.uk/collections/letterbox-gifts): Letterbox Overview:The Cohorted Letterbox Gift Edits are your answer to finding that special little something for any occasion big or small. Designed to be delivered straight to your loved ones, our letterbox curations are a perfect pick me up and one stop shop for a hassle free gifting experience.Cohorted have curated a thoughtful selection of bespoke gifts for a variety of occasions,  to leave a lasting impression on your favourite person. Discover new ways of self-care for the mind, body and soul, whilst celebrating special moments and special people.The Cohorted Letterbox Gift Edit team research and source trending beauty and lifestyle products, saving you the stress of finding that perfect present. Accessible to all, we want to make gifting simple and sublime.All gift boxes are delicately packaged with sustainable shredded paper in our 100% recyclable boxes and bio-degradable, eco-friendly polymailer.
-  Updated: 2026-08-03T11:06:49Z
+  Updated: 2026-10-19T11:06:39Z
   Total Products: 14
 - [Shop All Beauty Gift Boxes](https://www.cohorted.co.uk/collections/shop-all-beauty-gift-boxes): Discover all Cohorted luxury beauty boxes, featuring curated skincare, makeup, and wellness from premium brands. Shop exclusive edits and elevate your beauty routine today.
-  Updated: 2026-08-09T11:06:26Z
-  Total Products: 117
-- [Mystery Beauty Box Collection](https://www.cohorted.co.uk/collections/mystery-beauty-box-collection): Shop Cohorted mystery beauty boxes and discover luxury skincare, makeup, and wellness surprises from premium brands. Limited editions with exceptional value.
-  Updated: 2026-08-09T11:06:26Z
+  Updated: 2026-10-22T11:06:20Z
+  Total Products: 119
+- [Mystery Beauty Box Collection](https://www.cohorted.co.uk/collections/mystery-beauty-boxes): Shop Cohorted mystery beauty boxes and discover luxury skincare, makeup, and wellness surprises from premium brands. Limited editions with exceptional value.
+  Updated: 2026-10-22T11:06:20Z
   Total Products: 2
 
 ## Blogs
@@ -206,7 +185,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box subscription, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty box guide, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes, uk beauty boxes
   - [The Exclusive Beauty Box Experience: What Sets a High End Beauty Box Apart?](https://www.cohorted.co.uk/blogs/beauty-news/the-exclusive-beauty-box-experience-what-sets-a-high-end-beauty-box-apart): The Exclusive Beauty Box Experience: What Sets a High End Beauty Box Apart?
-    Updated: 2026-05-26T20:03:36Z
+    Updated: 2026-10-15T13:23:23Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, exclusive beauty box, high end beauty box, high-end beauty, luxury, luxury beauty box, luxury beauty subscription, luxury subscription service, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, premium beauty collection, skincare mystery box
   - [Navigating the Monthly Beauty Box Selection: Which One Suits Your Needs Best?](https://www.cohorted.co.uk/blogs/beauty-news/navigating-the-monthly-beauty-box-selection-which-one-suits-your-needs-best): Navigating the Monthly Beauty Box Selection: Which One Suits Your Needs Best?
@@ -244,7 +223,7 @@
     Author: Best Beauty Box
     Tags: beauty box, beauty boxes, beauty subscription box, best beauty box uk, best beauty subscription services, boxes, curated beauty box, gift boxes, high end beauty box, luxury, luxury beauty box, luxury beauty gift ideas, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, surprise beauty boxes
   - [The Art of Curating a Premium Beauty Box Experience](https://www.cohorted.co.uk/blogs/beauty-news/the-art-of-curating-a-premium-beauty-box-experience): The Art of Curating a Premium Beauty Box Experience
-    Updated: 2026-05-26T20:03:17Z
+    Updated: 2026-10-15T13:23:59Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty subscription box, best beauty box uk, curated beauty box, curated experience, exquisite beauty subscription, high end beauty box, high-end beauty boxes, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty, premium beauty box, skincare mystery box
   - [Is a Makeup Mystery Box Your Next Beauty Obsession?](https://www.cohorted.co.uk/blogs/beauty-news/is-a-makeup-mystery-box-your-next-beauty-obsession): Is a Makeup Mystery Box Your Next Beauty Obsession?
@@ -288,7 +267,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty products, beauty subscription box, best beauty box uk, curated beauty box, gift boxes, high end beauty box, luxury beauty, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription box, uk beauty samples
   - [Ultimate Guide to Finding the Best Beauty Box UK](https://www.cohorted.co.uk/blogs/beauty-news/ultimate-guide-to-finding-the-best-beauty-box-uk): Ultimate Guide to Finding the Best Beauty Box UK
-    Updated: 2026-05-26T20:04:55Z
+    Updated: 2026-10-15T13:22:59Z
     Author: Best Beauty Box
     Tags: affordable beauty box options, beauty, beauty box, beauty subscription, beauty subscription box, best beauty box uk, best beauty boxes uk, curated beauty box, gift boxes, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery beauty box, mystery beauty box uk, mystery boxes, premium beauty box, skincare, skincare mystery box
   - [Curated Beauty Box Essentials: What You Need to Know](https://www.cohorted.co.uk/blogs/beauty-news/curated-beauty-box-essentials-what-you-need-to-know): Curated Beauty Box Essentials: What You Need to Know
@@ -308,7 +287,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, best beauty subscriptions uk, curated beauty, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty box guide, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes
   - [The Allure of Exclusive Mystery Beauty Boxes: Are They Worth the Excitement?](https://www.cohorted.co.uk/blogs/beauty-news/the-allure-of-exclusive-mystery-beauty-boxes-are-they-worth-the-excitement): The Allure of Exclusive Mystery Beauty Boxes: Are They Worth the Excitement?
-    Updated: 2026-05-26T20:03:01Z
+    Updated: 2026-10-15T13:24:20Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty subscription box, best beauty box services, best beauty box uk, curated beauty box, exclusive mystery boxes, high end beauty box, luxury beauty, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, premium beauty box reviews, skincare mystery box, subscription beauty boxes
   - [Unlock Elegance: Discover the Top High-End Beauty Boxes for Women in 2026](https://www.cohorted.co.uk/blogs/beauty-news/unlock-elegance-discover-the-top-high-end-beauty-boxes-for-women-in-2026): Unlock Elegance: Discover the Top High-End Beauty Boxes for Women in 2026
@@ -328,7 +307,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, best beauty boxes uk, curated beauty box, high end beauty box, luxury, luxury beauty, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, mystery box, premium beauty box, skincare mystery box, women's beauty subscription boxes
   - [Mystery Beauty Box Unboxing: What Surprises Await Inside?](https://www.cohorted.co.uk/blogs/beauty-news/mystery-beauty-box-unboxing-what-surprises-await-inside): Mystery Beauty Box Unboxing: What Surprises Await Inside?
-    Updated: 2026-05-26T20:01:54Z
+    Updated: 2026-10-15T13:32:40Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, luxury beauty subscription boxes, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, skincare products, surprise gifts inside, unboxing experience
   - [Is a Monthly Beauty Subscription Box Your Perfect Beauty Routine Solution?](https://www.cohorted.co.uk/blogs/beauty-news/is-a-monthly-beauty-subscription-box-your-perfect-beauty-routine-solution): Is a Monthly Beauty Subscription Box Your Perfect Beauty Routine Solution?
@@ -368,7 +347,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty boxes, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty, premium beauty box, skincare mystery box, subscription beauty box essentials, what’s inside beauty boxes
   - [The Evolution of Beauty Boxes: From Subscription to Luxury](https://www.cohorted.co.uk/blogs/beauty-news/the-evolution-of-beauty-boxes-from-subscription-to-luxury): The Evolution of Beauty Boxes: From Subscription to Luxury
-    Updated: 2026-05-26T20:03:19Z
+    Updated: 2026-10-15T13:23:41Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty box trends, beauty boxes, beauty subscription box, best beauty box uk, best beauty boxes, curated beauty box, high end beauty box, luxury, luxury beauty, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes
   - [Exclusive Beauty Box Gifts: Elevate Your Skincare Regimen](https://www.cohorted.co.uk/blogs/beauty-news/exclusive-beauty-box-gifts-elevate-your-skincare-regimen): Exclusive Beauty Box Gifts: Elevate Your Skincare Regimen
@@ -392,7 +371,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery beauty box, mystery beauty box uk, mystery boxes, pamper, premium beauty box, skincare mystery box, subscription beauty
   - [What Makes a Mystery Beauty Box So Alluring for Beauty Enthusiasts?](https://www.cohorted.co.uk/blogs/beauty-news/what-makes-a-mystery-beauty-box-so-alluring-for-beauty-enthusiasts): What Makes a Mystery Beauty Box So Alluring for Beauty Enthusiasts?
-    Updated: 2026-06-08T07:25:18Z
+    Updated: 2026-10-15T13:25:24Z
     Author: Best Beauty Box
     Tags: allure of mystery boxes, beauty, beauty box, beauty box subscriptions, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, luxury subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty
   - [Is a Beauty Subscription Box Right for Your Beauty Routine?](https://www.cohorted.co.uk/blogs/beauty-news/is-a-beauty-subscription-box-right-for-your-beauty-routine): Is a Beauty Subscription Box Right for Your Beauty Routine?
@@ -408,7 +387,7 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty box subscription, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, luxury subscription boxes, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty, ultimate mystery box experience
   - [Top 5 Reasons to Choose Premium Over Standard Beauty Boxes](https://www.cohorted.co.uk/blogs/beauty-news/top-5-reasons-to-choose-premium-over-standard-beauty-boxes): Top 5 Reasons to Choose Premium Over Standard Beauty Boxes
-    Updated: 2026-07-05T09:20:37Z
+    Updated: 2026-10-15T13:21:53Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty box subscription, beauty subscription box, best beauty box uk, curated beauty box, curated beauty experiences, high end beauty box, high-end beauty boxes, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery beauty box, mystery beauty box uk, mystery boxes, premium beauty, premium beauty box, skincare mystery box, subscription
   - [How a Mystery Skincare Box Transforms Your Beauty Regimen](https://www.cohorted.co.uk/blogs/beauty-news/how-a-mystery-skincare-box-transforms-your-beauty-regimen): How a Mystery Skincare Box Transforms Your Beauty Regimen
@@ -424,13 +403,53 @@
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty subscription box, best beauty box uk, boxes, curated beauty box, high end beauty box, high-end beauty subscriptions, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, makeup mystery boxes, mystery beauty, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes, ultimate beauty guide
   - [Finding the Best Curated Beauty Box in the UK: Proven Strategies](https://www.cohorted.co.uk/blogs/beauty-news/finding-the-best-curated-beauty-box-in-the-uk-proven-strategies): Finding the Best Curated Beauty Box in the UK: Proven Strategies
-    Updated: 2026-08-04T17:06:52Z
+    Updated: 2026-10-15T13:21:25Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, best subscription boxes uk, curated beauty box, curated boxes, high end beauty box, luxury, luxury beauty box, luxury beauty box reviews, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty
   - [Best Mystery Beauty Box UK: What Should You Expect Inside?](https://www.cohorted.co.uk/blogs/beauty-news/best-mystery-beauty-box-uk-what-should-you-expect-inside): Best Mystery Beauty Box UK: What Should You Expect Inside?
-    Updated: 2026-08-09T00:03:56Z
+    Updated: 2026-08-10T02:56:32Z
     Author: Best Beauty Box
     Tags: beauty, beauty box, beauty box reviews, beauty subscription box, best beauty box uk, best beauty boxes, curated beauty box, high end beauty box, luxury beauty, luxury beauty box, luxury beauty subscription, luxury mystery gift boxes, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty box uk, subscription boxes
+  - [Is a Luxury Beauty Subscription the Right Choice for You?](https://www.cohorted.co.uk/blogs/beauty-news/is-a-luxury-beauty-subscription-the-right-choice-for-you): Is a Luxury Beauty Subscription the Right Choice for You?
+    Updated: 2026-08-17T09:30:10Z
+    Author: Best Beauty Box
+    Tags: are beauty subscriptions worth it, beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, luxury boxes, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty, subscription box ideas
+  - [Five Things to Know About Choosing a Premium Beauty Box Gift in the UK](https://www.cohorted.co.uk/blogs/beauty-news/five-things-to-know-about-choosing-a-premium-beauty-box-gift-in-the-uk): Five Things to Know About Choosing a Premium Beauty Box Gift in the UK
+    Updated: 2026-10-15T13:21:08Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty box gifts, beauty boxes, beauty subscription box, best beauty box uk, best subscription boxes, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty, premium beauty box, skincare mystery box, subscription services
+  - [Exploring High-End Beauty Boxes: Are They Worth the Splurge?](https://www.cohorted.co.uk/blogs/beauty-news/exploring-high-end-beauty-boxes-are-they-worth-the-splurge): Exploring High-End Beauty Boxes: Are They Worth the Splurge?
+    Updated: 2026-08-31T12:33:39Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty subscription box, best beauty box uk, best beauty subscription services, boxes, curated beauty box, high end beauty box, high-end beauty boxes, luxury, luxury beauty box, luxury beauty subscription, luxury beauty subscription boxes, makeup mystery box, mystery beauty, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty
+  - [Can a Curated Beauty Box Transform Your Skincare Routine?](https://www.cohorted.co.uk/blogs/beauty-news/can-a-curated-beauty-box-transform-your-skincare-routine): Can a Curated Beauty Box Transform Your Skincare Routine?
+    Updated: 2026-09-07T09:54:48Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty subscription, beauty subscription box, best beauty box uk, boxes, curated beauty box, high end beauty box, luxury beauty box, luxury beauty subscription, luxury boxes, makeup mystery box, mystery beauty box, mystery beauty box uk, mystery box, premium beauty box, skincare, skincare mystery box, subscription beauty boxes
+  - [Understanding the Luxury Beauty Box: How to Choose Wisely](https://www.cohorted.co.uk/blogs/beauty-news/understanding-the-luxury-beauty-box-how-to-choose-wisely): Understanding the Luxury Beauty Box: How to Choose Wisely
+    Updated: 2026-09-14T14:09:40Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, best beauty subscriptions, choose luxury beauty box, curated beauty box, high end beauty box, luxury, luxury beauty, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes
+  - [Are Monthly Beauty Boxes Changing the Beauty Game?](https://www.cohorted.co.uk/blogs/beauty-news/are-monthly-beauty-boxes-changing-the-beauty-game): Are Monthly Beauty Boxes Changing the Beauty Game?
+    Updated: 2026-10-15T13:20:55Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty subscription, beauty subscription box, best beauty box uk, boxes, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, monthly beauty box trends, mystery beauty box, mystery beauty box uk, mystery boxes, premium beauty box, skincare mystery box, subscription beauty, unique beauty experiences
+  - [The Allure of Exclusive Beauty Boxes: Uncovering Unique Finds](https://www.cohorted.co.uk/blogs/beauty-news/the-allure-of-exclusive-beauty-boxes-uncovering-unique-finds): The Allure of Exclusive Beauty Boxes: Uncovering Unique Finds
+    Updated: 2026-10-15T13:20:38Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, curated beauty box, curated beauty experiences, exclusive beauty boxes, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription boxes, unique beauty subscriptions
+  - [Discover How a Mystery Beauty Box Revolutionises Makeup Collections](https://www.cohorted.co.uk/blogs/beauty-news/discover-how-a-mystery-beauty-box-revolutionises-makeup-collections): Discover How a Mystery Beauty Box Revolutionises Makeup Collections
+    Updated: 2026-10-04T04:59:35Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty box review, beauty subscription box, best beauty box uk, curated beauty box, curated beauty subscription, high end beauty box, luxury beauty box, luxury beauty boxes, luxury beauty subscription, makeup mystery box, makeup mystery boxes, makeup subscriptions, mystery, mystery beauty box, mystery beauty box uk, premium beauty box, skincare mystery box, subscription beauty
+  - [Choosing the Best Beauty Box for Women: Skincare vs. Makeup Mystery.](https://www.cohorted.co.uk/blogs/beauty-news/choosing-the-best-beauty-box-for-women-skincare-vs-makeup-mystery): Choosing the Best Beauty Box for Women: Skincare vs. Makeup Mystery.
+    Updated: 2026-10-15T13:19:55Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty boxes, beauty subscription box, best beauty box uk, best beauty subscription boxes, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery beauty box, mystery beauty box uk, mystery box, premium beauty box, skincare, skincare mystery box, subscription beauty, women's beauty boxes
+  - [Top 10 Luxury Beauty Boxes UK for the Ultimate Pamper Experience](https://www.cohorted.co.uk/blogs/beauty-news/top-10-luxury-beauty-boxes-uk-for-the-ultimate-pamper-experience): Top 10 Luxury Beauty Boxes UK for the Ultimate Pamper Experience
+    Updated: 2026-10-18T04:25:13Z
+    Author: Best Beauty Box
+    Tags: beauty, beauty box, beauty subscription box, best beauty box uk, best luxury boxes uk, boxes, curated beauty box, high end beauty box, luxury, luxury beauty box, luxury beauty subscription, makeup mystery box, mystery beauty, mystery beauty box, mystery beauty box uk, pamper experience, premium beauty box, skincare mystery box, subscription beauty, top beauty subscription services.
 - [What's Inside My Beauty Box](https://www.cohorted.co.uk/blogs/whats-inside-my-beauty-box): Discover what’s inside the upcoming Cohorted Beauty Box. Get early reveals of luxury skincare, makeup and fragrance featured in beauty boxes before it launches.
   - [Cohorted Fresh Faced Beauty Box with Flânerie Skincare – Full Reveal](https://www.cohorted.co.uk/blogs/whats-inside-my-beauty-box/cohorted-fresh-faced-beauty-box-with-flanerie-skincare-full-reveal): <p>Discover the Cohorted Fresh Faced Beauty Box featuring a complete skincare routine from Flânerie Skincare, including the Vivifying Serum, Invigorating Mask, Pore Refining Exfoliator, Night Cream and more.</p>
     Updated: 2026-06-17T14:02:31Z
@@ -448,6 +467,18 @@
     Updated: 2026-06-14T06:52:48Z
     Author: Content Team
     Tags: beauty box, beauty box subscriptions, skincare, Whats inside my box
+  - [Cohorted Beauty - Summer Sunset Beauty Box with KVD Beauty: Full Reveal](https://www.cohorted.co.uk/blogs/whats-inside-my-beauty-box/kvd-beauty-summer-sunet-full-reveal): <p>Discover every product inside the Cohorted KVD Beauty Summer Sunset Beauty Box worth £116. Explore the full reveal of this exclusive luxury makeup edit.</p>
+    Updated: 2026-08-19T12:14:27Z
+    Author: Content Team
+    Tags: beauty box, beauty box subscription, KVD Beauty, Whats inside my box
+  - [Cohorted Soft Focus Glow Beauty Box with Pat McGrath Labs: Full Reveal](https://www.cohorted.co.uk/blogs/whats-inside-my-beauty-box/pat-mcgrath-soft-focus-glow-beauty-box)
+    Updated: 2026-09-27T10:09:11Z
+    Author: Content Team
+    Tags: beauty box, beauty box subscription, beauty boxes, makeup box, Pat McGrath
+  - [Cohorted Electric Bloom Beauty Box | KVD Beauty](https://www.cohorted.co.uk/blogs/whats-inside-my-beauty-box/electric-bloom-kvd-beauty-box): Cohorted Electric Bloom Beauty Box | KVD Beauty
+    Updated: 2026-10-04T04:59:34Z
+    Author: Content Team
+    Tags: BDK Parfums, beauty box, beauty box subscription, KVD Beauty, Maison Crivelli, WBCo
 
 ## Store Pages
 
@@ -483,15 +514,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.cohorted.co.uk/policies/privacy-policy)
-  Updated: 2026-02-24T16:47:34+00:00
+  Updated: 2026-02-24T16:47:34Z
 - [Shipping Policy](https://www.cohorted.co.uk/policies/shipping-policy)
-  Updated: 2026-02-24T17:25:36+00:00
+  Updated: 2026-02-24T17:25:36Z
 - [Refund Policy](https://www.cohorted.co.uk/policies/refund-policy)
-  Updated: 2026-05-15T10:47:12+01:00
+  Updated: 2026-05-15T09:47:12Z
 - [Terms of Service](https://www.cohorted.co.uk/policies/terms-of-service)
-  Updated: 2026-05-15T10:48:24+01:00
+  Updated: 2026-05-15T09:48:24Z
 - [Contact Information](https://www.cohorted.co.uk/policies/contact-information)
-  Updated: 2026-02-23T20:21:28+00:00
+  Updated: 2026-02-23T20:21:28Z
 
 ## Optional
 
