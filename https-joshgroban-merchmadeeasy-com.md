@@ -6,71 +6,71 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-03T15:48:07Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-02T00:00:45.519Z
+- Updated At: 2026-10-23T00:50:00.156Z
 
 ## Products
 
 - [Gems CD](https://joshgroban.merchmadeeasy.com/products/gems-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T19:24:48Z
+  Updated: 2026-10-12T17:51:05Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGGEMSCD.png?v=1745938256
   Price: $24.98 USD
 - [Harmony CD](https://joshgroban.merchmadeeasy.com/products/harmony-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T19:20:11Z
+  Updated: 2026-10-05T13:04:54Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/HARMONYCD.png?v=1744831437
   Price: $19.98 USD
 - [Bridges CD](https://joshgroban.merchmadeeasy.com/products/bridges-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T19:19:41Z
+  Updated: 2026-10-05T13:04:54Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/BRIDGESCD.png?v=1744831548
   Price: $19.98 USD
 - [Sweeney Todd: The Demon Barber Of Fleet Street CD](https://joshgroban.merchmadeeasy.com/products/sweeney-todd-the-demon-barber-of-fleet-street-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T19:18:40Z
+  Updated: 2026-10-05T13:04:55Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/SWEENEYTODDCD.png?v=1744832046
   Price: $24.98 USD
 - [Gems Keychain](https://joshgroban.merchmadeeasy.com/products/gems-keychain): Enamel Gems Keychain
-  Updated: 2026-09-12T02:27:17Z
+  Updated: 2026-10-05T13:04:55Z
   Vendor: Josh Groban
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGKeychain.png?v=1745434460
   Price: $10.00 USD
 - [Gems Embroidered Crewneck](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck): Silver embroidery on the front Premium crewneck in hunter green 100% cotton face Unisex
-  Updated: 2026-08-30T23:31:27Z
+  Updated: 2026-10-12T16:10:34Z
   Vendor: Josh Groban
   Product Type: Outerwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGGemsSweatshirt.png?v=1773262267
   - [S](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41757792501837)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [M](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41757792534605)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [L](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41757792567373)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [XL](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41757792600141)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [2XL](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41757792632909)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [3XL](https://joshgroban.merchmadeeasy.com/products/gems-embroidered-crewneck?variant=41828860428365)
     Availability: Not Available
-    Price: $65.00 USD
+    Price: $60.00 USD
 - [Josh Groban Piano Tee | Official Josh Groban Store](https://joshgroban.merchmadeeasy.com/products/josh-groban-piano-tee): Illustrative piano graphic on the front Shortsleeve tee in White 100% ringspun cotton Unisex
-  Updated: 2026-09-28T00:39:16Z
+  Updated: 2026-10-20T20:13:46Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -94,7 +94,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Josh Groban Vintage Photo Tee | Official Josh Groban Store](https://joshgroban.merchmadeeasy.com/products/josh-groban-vintage-photo-tee): Vintage style photo of Josh on the front Shortsleeve tee in Sand 100% ringspun cotton Unisex
-  Updated: 2026-08-30T19:29:07Z
+  Updated: 2026-10-21T20:28:01Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $40.00 USD
 - [JG Embroidered Hat](https://joshgroban.merchmadeeasy.com/products/jg-embroidered-hat-navy): Embroidered JG emblem on the front Baseball style hat in royal blue, maroon or black 100% cotton Self-fabric slide closure
-  Updated: 2026-09-02T19:16:46Z
+  Updated: 2026-10-22T14:36:32Z
   Vendor: Josh Groban
   Product Type: Hat
   Availability: Available
@@ -136,7 +136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGHatBlack_f0093274-2765-4ee1-ac9b-caad203fde35.png?v=1779125049
     Price: $35.00 USD
 - [Gems Photo Tee](https://joshgroban.merchmadeeasy.com/products/vegas-photo-tee): Josh Groban Photo Tee Limited Edition design for Vegas 2025 100% ringspun cotton tee in black Unisex
-  Updated: 2026-09-02T19:13:04Z
+  Updated: 2026-10-06T15:50:16Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -160,7 +160,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Las Vegas Tee | Official Josh Groban Merch](https://joshgroban.merchmadeeasy.com/products/vegas-photo-tee-copy): Las Vegas graphic with Josh Groban photo on the front Limited edition design for Vegas 2025 100% ringspun cotton tee in Navy Unisex
-  Updated: 2026-09-27T19:37:07Z
+  Updated: 2026-10-16T04:23:09Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -184,49 +184,49 @@
     Availability: Available
     Price: $25.00 USD
 - [Las Vegas Poster](https://joshgroban.merchmadeeasy.com/products/las-vegas-poster): Poster from Josh Groban's Las Vegas appearance Limited run 11 x 17 in.
-  Updated: 2026-09-29T23:46:53Z
+  Updated: 2026-10-13T14:18:01Z
   Vendor: Josh Groban
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGLAsVegasPoster.png?v=1748551985
   Price: $9.00 USD
 - [SIGNED Hollywood Bowl Poster](https://joshgroban.merchmadeeasy.com/products/hollywood-bowl-poster): In collaboration with artist Kii Arens SIGNED by Josh Groban and designer Kii Arens Poster from Josh Groban's Hollywood Bowl performance Limited run of 250 18" X 24" Archival Pigment Print
-  Updated: 2026-09-04T00:46:56Z
+  Updated: 2026-10-05T13:04:59Z
   Vendor: Josh Groban
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JG-HWB-Poster-Signed.png?v=1758750823
   Price: $50.00 USD
 - [Hidden Gems CD](https://joshgroban.merchmadeeasy.com/products/hidden-gems-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-21T22:49:17Z
+  Updated: 2026-10-05T13:05:00Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JoshHGCD.png?v=1762895257
   Price: $24.98 USD
 - [CINEMATIC Vinyl](https://joshgroban.merchmadeeasy.com/products/cinematic-vinyl): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-26T21:09:47Z
+  Updated: 2026-10-22T14:47:46Z
   Vendor: Josh Groban
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGCinematicVinyl_21956456-5edf-4bc3-9970-bba6e8b05fd0.png?v=1773072255
   Price: $29.98 USD
 - [CINEMATIC Photobook CD](https://joshgroban.merchmadeeasy.com/products/cinematic-photobook-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-10-01T00:25:58Z
+  Updated: 2026-10-05T13:05:00Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JG-Photobook-Spread-Final.png?v=1773254131
   Price: $39.98 USD
 - [CINEMATIC CD](https://joshgroban.merchmadeeasy.com/products/cinematic-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-26T21:09:47Z
+  Updated: 2026-10-22T14:36:36Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGCinematicCD_bba47ca3-7e64-41fb-9232-5bc5da44b789.png?v=1773074010
   Price: $14.98 USD
 - [CINEMATIC Tee](https://joshgroban.merchmadeeasy.com/products/cinematic-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-09-02T19:07:56Z
+  Updated: 2026-10-05T13:05:01Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -250,21 +250,21 @@
     Availability: Not Available
     Price: $40.00 USD
 - [CINEMATIC Hat](https://joshgroban.merchmadeeasy.com/products/cinematic-hat): Embroidered Cinematic emblem and album name on the front Baseball style hat in grey 100% cotton Self-fabric slide closure
-  Updated: 2026-09-02T19:07:31Z
+  Updated: 2026-10-05T13:05:02Z
   Vendor: Josh Groban
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/Cinematic-Hat_500ec8fd-efed-48cf-af0e-481034b0d732.png?v=1773164960
   Price: $35.00 USD
 - [CINEMATIC Bookmark](https://joshgroban.merchmadeeasy.com/products/cinematic-bookmark): Film reel inspired paper bookmark
-  Updated: 2026-09-04T00:46:57Z
+  Updated: 2026-10-06T15:50:16Z
   Vendor: Josh Groban
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/BookMark_373cce70-56da-4928-9685-1c7d4aa736b3.png?v=1773165023
   Price: $10.00 USD
 - [CINEMATIC Crewneck](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck): CINEMATIC album photo sweatshirt Inspired by vintage film reels 100% cotton face Unisex SIZE CHART
-  Updated: 2026-09-02T19:03:06Z
+  Updated: 2026-10-05T13:05:02Z
   Vendor: Josh Groban
   Product Type: Outerwear
   Availability: Available
@@ -288,42 +288,42 @@
     Availability: Not Available
     Price: $65.00 USD
 - [CINEMATIC Digital Download](https://joshgroban.merchmadeeasy.com/products/cinematic-digital-download): Your digital download file will be emailed to you Josh Groban presents CINEMATIC An album of the world’s most iconic movie songs—at last matched with Josh Groban's extraordinary voice. From Oscar-winning themes like “Can You Feel The Love Tonight” (The Lion King) and “Skyfall” (James Bond) to timeless classics including “Moon River” (Breakfast at Tiffany's), “As Time Goes By" (Casablanca), and “When You Wish Upon a Star” (Pinocchio) plus a heartfelt new rendition of “Stand By Me”. Tracklist: As Time Goes By Skyfall Brucia La Terra Can You Feel The Love Tonight (featuring The Gay Men’s Chorus of Los Angeles) When You Wish Upon A Star Unchained Melody (with Jennifer Hudson) Remember Me Moon River (featuring Jack Groban) Against All Odds (Take A Look At Me Now) Stand By Me
-  Updated: 2026-09-24T01:43:43Z
+  Updated: 2026-10-12T21:48:56Z
   Vendor: Josh Groban
   Product Type: Digital Download
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/Cinematic-Digital_78d1908c-4976-488c-a8a1-b116f4d928f4.png?v=1773694659
   Price: $9.98 USD
 - [Closer CD](https://joshgroban.merchmadeeasy.com/products/closer-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T19:00:28Z
+  Updated: 2026-10-05T13:05:03Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGCloserCD.png?v=1773374486
   Price: $14.98 USD
 - [Josh Groban CD](https://joshgroban.merchmadeeasy.com/products/josh-groban-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T18:59:24Z
+  Updated: 2026-10-05T13:05:03Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGCD.png?v=1773411208
   Price: $14.98 USD
 - [Stages CD](https://joshgroban.merchmadeeasy.com/products/stages-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T18:58:23Z
+  Updated: 2026-10-12T17:51:36Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGStagesCD.png?v=1773411299
   Price: $14.98 USD
 - [Awake CD](https://joshgroban.merchmadeeasy.com/products/awake-cd): Josh Groban - the world’s most unmistakable voice. Presenting a collection of his most celebrated recordings on his new album, Gems.
-  Updated: 2026-09-02T18:57:59Z
+  Updated: 2026-10-05T13:05:04Z
   Vendor: Josh Groban
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JGAwakeCD.png?v=1773411505
   Price: $14.98 USD
 - [Charcoal Cinematic Reel Tee](https://joshgroban.merchmadeeasy.com/products/charcoal-cinematic-reel-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-09-02T18:56:46Z
+  Updated: 2026-10-21T19:53:39Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -347,7 +347,7 @@
     Availability: Available
     Price: $40.00 USD
 - [2026 Live On Tour Tee](https://joshgroban.merchmadeeasy.com/products/2026-live-on-tour-tee): Cinematic album photo tee Inspired by vintage film reels 100% cotton tee in charcoal Unisex
-  Updated: 2026-09-02T18:56:20Z
+  Updated: 2026-10-11T03:50:47Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -371,7 +371,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Josh Groban Ladies Vintage Photo Tee | Official Josh Groban Store](https://joshgroban.merchmadeeasy.com/products/natural-ladies-photo-tee): Vintage style photo of Josh on the front Shortsleeve tee in Sand 100% ringspun cotton Unisex
-  Updated: 2026-09-26T21:09:47Z
+  Updated: 2026-10-21T19:56:47Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -392,14 +392,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Cinematic Reel Tote Bag](https://joshgroban.merchmadeeasy.com/products/cinematic-reel-tote-bag): CINEMATIC album graphic with the track list on the front Inspired by vintage film reels Black canvas tote
-  Updated: 2026-09-06T18:42:37Z
+  Updated: 2026-10-22T14:36:37Z
   Vendor: Josh Groban
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JG_Mockup_0000_Black-Cinematic-Reel-Tote-Bag.png?v=1779304958
   Price: $20.00 USD
 - [Josh Groban Piano Tee | Official Josh Groban Store](https://joshgroban.merchmadeeasy.com/products/black-piano-tee): Illustrative piano graphic on the front Shortsleeve tee in Black 100% ringspun cotton Unisex
-  Updated: 2026-09-02T18:53:47Z
+  Updated: 2026-10-21T21:35:19Z
   Vendor: Josh Groban
   Product Type: T-Shirt
   Availability: Available
@@ -408,10 +408,10 @@
     Availability: Available
     Price: $40.00 USD
   - [M](https://joshgroban.merchmadeeasy.com/products/black-piano-tee?variant=43016132034637)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [L](https://joshgroban.merchmadeeasy.com/products/black-piano-tee?variant=43016132067405)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [XL](https://joshgroban.merchmadeeasy.com/products/black-piano-tee?variant=43016132100173)
     Availability: Available
@@ -423,31 +423,31 @@
     Availability: Available
     Price: $40.00 USD
 - [CINEMATIC Crewneck - Black](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black): CINEMATIC album photo sweatshirt Inspired by vintage film reels 100% cotton face Unisex SIZE CHART
-  Updated: 2026-09-22T15:24:27Z
+  Updated: 2026-10-22T14:39:36Z
   Vendor: Josh Groban
   Product Type: Outerwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0637/5623/8925/files/JG_Mockup_0001_Black-Cinematic-Photo-Crewneck.png?v=1779896082
   - [S](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044813901)
     Availability: Available
-    Price: $65.00 USD
+    Price: $60.00 USD
   - [M](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044846669)
-    Availability: Not Available
-    Price: $65.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [L](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044879437)
-    Availability: Not Available
-    Price: $65.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [XL](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044912205)
-    Availability: Not Available
-    Price: $65.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [2XL](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044944973)
-    Availability: Not Available
-    Price: $65.00 USD
+    Availability: Available
+    Price: $60.00 USD
   - [3XL](https://joshgroban.merchmadeeasy.com/products/cinematic-crewneck-black?variant=43045044977741)
-    Availability: Not Available
-    Price: $65.00 USD
+    Availability: Available
+    Price: $60.00 USD
 - [Live On Tour Program](https://joshgroban.merchmadeeasy.com/products/live-on-tour-program): Program from the Live On Tour run with Jennifer Hudson Filled with photos and a special note from Josh
-  Updated: 2026-09-02T18:51:29Z
+  Updated: 2026-10-16T04:42:55Z
   Vendor: Josh Groban
   Product Type: Accessories
   Availability: Available
@@ -457,47 +457,47 @@
 ## Collections
 
 - [Home page](https://joshgroban.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-01T11:13:35Z
+  Updated: 2026-10-21T11:14:52Z
   Total Products: 19
 - [Apparel](https://joshgroban.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-28T11:11:31Z
-  Total Products: 16
+  Updated: 2026-10-22T17:04:32Z
+  Total Products: 19
 - [Accessories](https://joshgroban.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-30T11:12:40Z
+  Updated: 2026-10-22T17:04:32Z
   Total Products: 16
 - [All](https://joshgroban.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-01T11:13:35Z
-  Total Products: 50
+  Updated: 2026-10-22T17:04:32Z
+  Total Products: 53
 - [Music](https://joshgroban.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-01T11:13:35Z
+  Updated: 2026-10-22T17:04:32Z
   Total Products: 22
 - [Gems](https://joshgroban.merchmadeeasy.com/collections/gems)
-  Updated: 2026-09-28T11:11:31Z
+  Updated: 2026-10-21T11:14:52Z
   Total Products: 8
 - [EasyGift All Products](https://joshgroban.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-01T11:13:35Z
-  Total Products: 50
+  Updated: 2026-10-22T17:04:32Z
+  Total Products: 53
 - [Hats](https://joshgroban.merchmadeeasy.com/collections/hats)
   Updated: 2025-04-29T16:51:02Z
   Total Products: 0
 - [Las Vegas Collection](https://joshgroban.merchmadeeasy.com/collections/las-vegas-collection)
-  Updated: 2026-09-30T11:12:40Z
-  Total Products: 4
+  Updated: 2026-10-15T16:24:45Z
+  Total Products: 5
 - [New Arrivals](https://joshgroban.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-01T11:13:35Z
-  Total Products: 26
+  Updated: 2026-10-22T17:04:32Z
+  Total Products: 28
 - [All excluding new media](https://joshgroban.merchmadeeasy.com/collections/all-except-new-media)
-  Updated: 2026-10-01T11:13:35Z
-  Total Products: 45
+  Updated: 2026-10-22T17:04:32Z
+  Total Products: 48
 - [Event Merch](https://joshgroban.merchmadeeasy.com/collections/event-merch)
-  Updated: 2026-09-30T11:12:40Z
-  Total Products: 6
+  Updated: 2026-10-15T16:24:45Z
+  Total Products: 7
 - [CINEMATIC](https://joshgroban.merchmadeeasy.com/collections/cinematic)
-  Updated: 2026-10-01T11:13:35Z
+  Updated: 2026-10-22T17:04:32Z
   Total Products: 16
 - [Live On Tour](https://joshgroban.merchmadeeasy.com/collections/live-on-tour)
-  Updated: 2026-09-28T11:11:31Z
-  Total Products: 14
+  Updated: 2026-10-21T11:14:52Z
+  Total Products: 16
 
 ## Store Pages
 
@@ -511,15 +511,15 @@
 ## Policies
 
 - [Privacy Policy](https://joshgroban.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-19T11:20:47-05:00
+  Updated: 2026-06-19T16:20:47Z
 - [Shipping Policy](https://joshgroban.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2025-04-03T11:05:52-05:00
+  Updated: 2025-04-03T16:05:52Z
 - [Refund Policy](https://joshgroban.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-19T11:20:53-05:00
+  Updated: 2026-06-19T16:20:53Z
 - [Terms of Service](https://joshgroban.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2025-04-03T11:05:44-05:00
+  Updated: 2025-04-03T16:05:44Z
 - [Contact Information](https://joshgroban.merchmadeeasy.com/policies/contact-information)
-  Updated: 2025-04-03T11:05:57-05:00
+  Updated: 2025-04-03T16:05:57Z
 
 ## Optional
 
