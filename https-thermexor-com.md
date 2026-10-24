@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-09-19T15:56:22Z
 - Contact Email: zhu261010@gmail.com
-- Updated At: 2026-10-17T00:00:34.449Z
+- Updated At: 2026-10-24T00:46:34.052Z
 
 ## Products
 
@@ -78,13 +78,13 @@
 ## Policies
 
 - [Privacy Policy](https://thermexor.com/policies/privacy-policy)
-  Updated: 2026-09-20T00:39:44+08:00
+  Updated: 2026-09-19T16:39:44Z
 - [Shipping Policy](https://thermexor.com/policies/shipping-policy)
-  Updated: 2026-09-20T23:49:39+08:00
+  Updated: 2026-09-20T15:49:39Z
 - [Refund Policy](https://thermexor.com/policies/refund-policy)
-  Updated: 2026-09-20T23:47:10+08:00
+  Updated: 2026-09-20T15:47:10Z
 - [Terms of Service](https://thermexor.com/policies/terms-of-service)
-  Updated: 2026-09-20T23:39:20+08:00
+  Updated: 2026-09-20T15:39:20Z
 
 ## Optional
 
