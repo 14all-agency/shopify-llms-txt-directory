@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-09-05T01:22:31Z
 - Contact Email: usaautopartsdirect@gmail.com
-- Updated At: 2026-10-17T00:00:39.865Z
+- Updated At: 2026-10-24T00:29:59.439Z
 
 ## Products
 
@@ -1262,14 +1262,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_b46fbe62-f4f8-4f1e-aec4-bdf9a1d03187.webp?v=1788996750
   Price: $85.00 USD
-- [QFS Fuel Pump for Chevrolet GMC C1500 K1500 (1990-1999)](https://usaautopartsdirect.com/products/qfs-in-tank-fuel-pump-for-chevrolet-gmc-c1500-k1500-19901999-188486147941): QFS Fuel Pump for Chevrolet GMC C1500 K1500 (1990-1999). Supplied product details follow. Specifications and fitment Includes: - QFS In-Tank Fuel Pump Fits Models: - Chevrolet C1500 - GMC K1500 Model Years: - 1990–1999 Submodels: - Common trims include Base, Cheyenne, Silverado, and Sierra - Body styles: Regular Cab, Extended Cab, and Crew Cab - Chassis codes: GMT400 Engine Options: - Common engine sizes include 4.3L V6, 5.0L V8, 5.7L V8 - Engine codes: L35, L31, L05 Description: The QFS In-Tank Fuel Pump is designed for reliable performance in Chevrolet C1500 and GMC K1500 models from 1990 to 1999. This fuel pump ensures optimal fuel delivery and maintains engine performance, making it an essential component for your vehicle's fuel system. Features: - Direct replacement for factory fuel pump - High-quality construction for durability - Ensures consistent fuel flow and pressure - Easy installation with no modifications required - Compatible with standard fuel systems Part Number: Not specified
-  Updated: 2026-09-17T20:30:03Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_50868b53-bcf3-4228-b2a4-e0b9ebcfd6f6.webp?v=1788996749
-  Price: $420.00 USD
-[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MTM0Mjk2LCJsYXN0X3ZhbHVlIjoiODk3MzMzNTEzNDI5NiJ9)
+[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MTAxNTI4LCJsYXN0X3ZhbHVlIjoiODk3MzMzNTEwMTUyOCJ9)
 
 ## Collections
 
@@ -1277,7 +1270,7 @@
   Updated: 2026-10-02T02:32:46Z
   Total Products: 0
 - [master](https://usaautopartsdirect.com/collections/master)
-  Updated: 2026-10-16T11:35:55Z
+  Updated: 2026-10-23T11:28:16Z
   Total Products: 1859564
 
 ## Blogs
@@ -1363,6 +1356,15 @@
   - [A Persuasive Look at Truck Parts: Why Auto Accessories Matter](https://usaautopartsdirect.com/blogs/news/a-persuasive-look-at-truck-parts-why-auto-accessories-matter): A Persuasive Look at Truck Parts: Why Auto Accessories Matter
     Updated: 2026-10-16T00:03:31Z
     Author: USA Auto Parts Direct
+  - [The Educational Journey of Car Parts Online: From Version 1.0 to Now](https://usaautopartsdirect.com/blogs/news/the-educational-journey-of-car-parts-online-from-version-1-0-to-now): The Educational Journey of Car Parts Online: From Version 1.0 to Now
+    Updated: 2026-10-18T00:06:33Z
+    Author: USA Auto Parts Direct
+  - [Comparative Insights: Auto Parts vs. Replacement Auto Parts for Your Vehicle](https://usaautopartsdirect.com/blogs/news/comparative-insights-auto-parts-vs-replacement-auto-parts-for-your-vehicle): Comparative Insights: Auto Parts vs. Replacement Auto Parts for Your Vehicle
+    Updated: 2026-10-19T00:51:57Z
+    Author: USA Auto Parts Direct
+  - [An Editorial Perspective on the Evolution of Auto Accessories and Parts](https://usaautopartsdirect.com/blogs/news/an-editorial-perspective-on-the-evolution-of-auto-accessories-and-parts): An Editorial Perspective on the Evolution of Auto Accessories and Parts
+    Updated: 2026-10-23T00:03:55Z
+    Author: USA Auto Parts Direct
 
 ## Store Pages
 
@@ -1378,15 +1380,15 @@
 ## Policies
 
 - [Privacy Policy](https://usaautopartsdirect.com/policies/privacy-policy)
-  Updated: 2026-09-05T13:22:34+12:00
+  Updated: 2026-09-05T01:22:34Z
 - [Shipping Policy](https://usaautopartsdirect.com/policies/shipping-policy)
-  Updated: 2026-09-24T22:25:51+12:00
+  Updated: 2026-09-24T10:25:51Z
 - [Refund Policy](https://usaautopartsdirect.com/policies/refund-policy)
-  Updated: 2026-09-24T22:36:10+12:00
+  Updated: 2026-09-24T10:36:10Z
 - [Terms of Service](https://usaautopartsdirect.com/policies/terms-of-service)
-  Updated: 2026-09-19T23:04:06+12:00
+  Updated: 2026-09-19T11:04:06Z
 - [Contact Information](https://usaautopartsdirect.com/policies/contact-information)
-  Updated: 2026-09-11T12:14:37+12:00
+  Updated: 2026-09-11T00:14:37Z
 
 ## Optional
 
