@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-10-17T00:00:46.186Z
+- Updated At: 2026-10-24T00:59:59.345Z
 
 ## Products
 
@@ -1775,7 +1775,7 @@
     Availability: Available
     Price: 13 000,00 FCFA XAF
 - [Nike air force 1](https://gelnext.click/products/nike-air-force-3)
-  Updated: 2026-08-04T02:08:31Z
+  Updated: 2026-10-19T19:06:00Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -1940,7 +1940,7 @@
     Availability: Available
     Price: 13 000,00 FCFA XAF
 - [Adidas Samba](https://gelnext.click/products/adidas-samba)
-  Updated: 2026-09-30T20:47:55Z
+  Updated: 2026-10-23T17:54:33Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2743,18 +2743,30 @@
 - [New balance](https://gelnext.click/collections/new-balance): - GelNext
   Updated: 2026-09-28T11:19:59Z
   Total Products: 4
+- [Prada cup Trinity](https://gelnext.click/collections/prada-cup): - GelNext
+  Updated: 2026-09-23T19:20:07Z
+  Total Products: 5
 - [Birkenstock boston](https://gelnext.click/collections/birkenstock-boston): - GelNext
   Updated: 2026-09-01T20:25:08Z
   Total Products: 6
+- [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
+  Updated: 2026-09-22T11:23:10Z
+  Total Products: 13
 - [Spécial world cup](https://gelnext.click/collections/special-world-cup): - GelNext
   Updated: 2026-08-08T18:42:27Z
   Total Products: 23
 - [Sandale](https://gelnext.click/collections/sandale): - GelNext
   Updated: 2026-08-18T11:23:15Z
   Total Products: 4
+- [Nike](https://gelnext.click/collections/special-nike)
+  Updated: 2026-09-20T11:24:05Z
+  Total Products: 12
 - [Asics](https://gelnext.click/collections/asics): - GelNext
   Updated: 2026-09-22T11:23:10Z
   Total Products: 12
+- [New balance](https://gelnext.click/collections/new-balance-1): - GelNext
+  Updated: 2026-09-28T11:19:59Z
+  Total Products: 7
 - [Birkenstock](https://gelnext.click/collections/birkenstock): - GelNext
   Updated: 2026-09-01T20:25:08Z
   Total Products: 10
@@ -2787,15 +2799,15 @@
 ## Policies
 
 - [Privacy Policy](https://gelnext.click/policies/privacy-policy)
-  Updated: 2026-06-21T02:17:25+01:00
+  Updated: 2026-06-21T01:17:25Z
 - [Shipping Policy](https://gelnext.click/policies/shipping-policy)
-  Updated: 2026-07-25T18:55:07+01:00
+  Updated: 2026-07-25T17:55:07Z
 - [Refund Policy](https://gelnext.click/policies/refund-policy)
-  Updated: 2026-07-25T18:48:11+01:00
+  Updated: 2026-07-25T17:48:11Z
 - [Terms of Service](https://gelnext.click/policies/terms-of-service)
-  Updated: 2026-07-25T18:58:38+01:00
+  Updated: 2026-07-25T17:58:38Z
 - [Contact Information](https://gelnext.click/policies/contact-information)
-  Updated: 2026-06-21T02:21:26+01:00
+  Updated: 2026-06-21T01:21:26Z
 
 ## Optional
 
