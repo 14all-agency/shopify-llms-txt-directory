@@ -10,12 +10,12 @@
 - Contact Email: sales@wicstun-distillery.co.uk
 - Contact Phone: 01430 411060
 - Address: Unit 1 Lambert Enterprise Park, York Road, Market Weighton, YO43 3RJ
-- Updated At: 2026-10-17T08:00:26.089Z
+- Updated At: 2026-10-24T08:51:17.610Z
 
 ## Products
 
 - [Aromatic Gin (Dry) - 40% vol -Award Winning](https://wicstun-distillery.co.uk/products/aromatic-yorkshire-dry-gin): An Aromatic Gin Highly Commended by The Deliciously Yorkshire Foods & Drink Awards 2023. A captivating blend of exquisite flavours.
-  Updated: 2026-10-06T09:15:10Z
+  Updated: 2026-10-19T03:47:40Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -27,7 +27,7 @@
     Availability: Not Available
     Price: £6.00 GBP
 - [Caribbean Dark Rum 70cl at 40% vol](https://wicstun-distillery.co.uk/products/caribbean-dark-rum): Caribbean Dark Rum is a rich and flavourful spirit that is sure to transport your taste buds to the sunny shores of the Caribbean.
-  Updated: 2026-10-16T18:25:59Z
+  Updated: 2026-10-19T03:41:56Z
   Vendor: Wicstun Distillery
   Product Type: Rum
   Availability: Available
@@ -40,7 +40,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Spiced Rum - 40% vol - Made in Yorkshire](https://wicstun-distillery.co.uk/products/caribbean-dark-spiced-rum): This premium dark spiced rum is crafted from our specially selected Caribbean White rum, expertly infused with a variety of spices, including ginger & vanilla.
-  Updated: 2026-10-16T18:25:57Z
+  Updated: 2026-10-21T10:08:04Z
   Vendor: Wicstun Distillery
   Product Type: Rum
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Not Available
     Price: £6.00 GBP
 - [Honey Rum 70cl at 40% vol](https://wicstun-distillery.co.uk/products/caribbean-honey-rum): A premium Caribbean Dark Honey Rum is a rich & flavourful spirit infused with Yorkshire Heather Honey.
-  Updated: 2026-10-14T18:37:02Z
+  Updated: 2026-10-19T03:42:02Z
   Vendor: Wicstun Distillery
   Product Type: Rum
   Availability: Available
@@ -66,7 +66,7 @@
     Availability: Not Available
     Price: £6.00 GBP
 - [Dark Chocolate Rum 70cl at 40% vol](https://wicstun-distillery.co.uk/products/dark-chocolate-rum): Dark Chocolate Rum is a rich and flavourful spirit that is sure to transport your taste buds to the sunny shores of the Caribbean. Perfect with coke over ice.
-  Updated: 2026-10-16T15:57:06Z
+  Updated: 2026-10-21T08:14:43Z
   Vendor: Wicstun Distillery
   Product Type: Rum
   Availability: Available
@@ -79,7 +79,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Yorkshire Distillery Tour with Gin & Rum Tasting](https://wicstun-distillery.co.uk/products/distillery-tour): DISTILLERY TOUR WITH GIN & RUM TASTING WITH THE DISTILLER Step behind the scenes and discover the art of craft distilling with our immersive tours and tasting experiences. Learn about the process, meet the makers, and savour a selection of our finest spirits—perfect for enthusiasts, gift-giving, or  ...
-  Updated: 2026-10-13T08:40:10Z
+  Updated: 2026-10-19T03:42:01Z
   Vendor: Wicstun Distillery
   Product Type: Distillery Tours & Tasting Experiences
   Availability: Available
@@ -103,21 +103,21 @@
     Availability: Available
     Price: £110.00 GBP
 - [East Yorkshire Cream Liqueur - 20% vol](https://wicstun-distillery.co.uk/products/east-yorkshire-cream-liqueur): EAST YORKSHIRE CREAM LIQUEUR 20% vol A delicate vodka cream liqueur with a hint of caramel & chocolate. Best served cold with ice. 20% ABV 70cl Bottle Store for up to 1-2 months in a cool, dark place, ideally in the fridge. Refrigerate once opened for up to 2 months. Shake the bottle vigorously befo ...
-  Updated: 2026-10-11T14:48:45Z
+  Updated: 2026-10-19T03:42:02Z
   Vendor: Wicstun Distillery
   Product Type: Liqueur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/IMG-20260911-WA0004.png?v=1791394849
   Price: £29.00 GBP
 - [East Yorkshire Vodka](https://wicstun-distillery.co.uk/products/east-yorkshire-vodka): EAST YORKSHIRE VODKA Introducing East Yorkshire Vodka - an exquisite spirit crafted with precision and care in the heart of Market Weighton, East Yorkshire. This smooth and enticing vodka offers an unparalleled drinking experience, perfect for savouring neat or mixing into your favourite cocktails.  ...
-  Updated: 2026-10-11T11:15:35Z
+  Updated: 2026-10-19T03:42:02Z
   Vendor: Wicstun Distillery
   Product Type: Vodka
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/Yorkshire_Vodka_70cl.png?v=1777362918
   Price: £38.00 GBP
 - [Lemon Gin (Dry) 70cl at 40% vol](https://wicstun-distillery.co.uk/products/lemon-dry-gin): Dry Lemon Gin, a refreshing and zesty creation crafted with care. This exquisite gin is the result of using only the finest, hand-selected lemon zest.
-  Updated: 2026-10-15T13:33:46Z
+  Updated: 2026-10-19T03:42:01Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Orange Dry Gin](https://wicstun-distillery.co.uk/products/orange-dry-gin): A refined Yorkshire dry gin infused with natural orange oils, offering a smooth, bright citrus profile and a crisp, refreshing finish.
-  Updated: 2026-08-21T21:29:46Z
+  Updated: 2026-10-19T03:42:01Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -150,7 +150,7 @@
     Availability: Not Available
     Price: £6.00 GBP
 - [Pink Gin - 40% vol - Made in Yorkshire](https://wicstun-distillery.co.uk/products/pink-dry-gin): A refreshing dry fruity Pink Gin made using fresh strawberries, raspberries, and Blueberries. This is a premium gin that uses the highest quality ingredients.
-  Updated: 2026-10-13T09:19:32Z
+  Updated: 2026-10-19T03:42:06Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -163,7 +163,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Scarborough Gin - Made with Kelp & Heather](https://wicstun-distillery.co.uk/products/scarborough-dry-gin): Experience the exceptional Scarborough Dry Gin, made with Kelp and heather. A handcrafted masterpiece designed to elevate your gin-drinking experience.
-  Updated: 2026-10-15T20:30:37Z
+  Updated: 2026-10-19T03:42:06Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -180,21 +180,21 @@
     Availability: Available
     Price: £6.00 GBP
 - [Sloe Gin Liqueur with raspberries - 26% vol](https://wicstun-distillery.co.uk/products/sloe-gin-liqueur): Sloe Gin Liqueur with raspberries a sweet, warming Raspberry & Sloe Gin at 26% vol. It’s perfect for gin cocktails, adding a touch of sweetness & rich colour.
-  Updated: 2026-10-11T12:09:11Z
+  Updated: 2026-10-19T03:42:06Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/Sloe_Raspberry_Gin_70cl.png?v=1777362676
   Price: £29.00 GBP
 - [The Feeling Toffee Vodka - "12 Shots & Home" - 22% vol](https://wicstun-distillery.co.uk/products/the-feeling-12-shots-and-home-toffee-vodka): The Feeling Toffee Vodka, "12 Shots and Home" is an irresistible Toffee Vodka at 22% vol. A collaboration between the band The Feeling and Wicstun Distillery.
-  Updated: 2026-09-03T14:58:11Z
+  Updated: 2026-10-19T03:42:06Z
   Vendor: Wicstun Distillery
   Product Type: Vodka
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/the-feeling-12-shots-and-home-toffee-vodka-7485330.png?v=1759835165
   Price: £28.00 GBP
 - [Toffee Vodka | Great Taste Award Winner | 22% vol](https://wicstun-distillery.co.uk/products/toffee-vodka): Discover Wicstun Distillery’s award-winning Toffee Vodka Liqueur, handcrafted in Yorkshire for a rich, smooth taste. 2-Star Great Taste 2026. 22% ABV.
-  Updated: 2026-10-14T08:54:12Z
+  Updated: 2026-10-19T03:42:06Z
   Vendor: Wicstun Distillery
   Product Type: Vodka
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Yorkshire Dry Gin - 40% vol - Made in Yorkshire](https://wicstun-distillery.co.uk/products/yorkshire-dry-gin): This Yorkshire dry gin has a subtle hint of orange, producing a refreshing dry gin. Ideally served with tonic, a slice of lemon and ice. Perfect in a Martini.
-  Updated: 2026-10-16T09:01:31Z
+  Updated: 2026-10-19T03:42:11Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
@@ -222,7 +222,7 @@
     Availability: Available
     Price: £6.00 GBP
 - [Rhubarb Vodka Liqueur - 22% vol](https://wicstun-distillery.co.uk/products/yorkshire-rhubarb-vodka): Rhubarb Vodka Liqueur at 22%, perfect on its own or with a mixure like ginger ale. Handmade in Yorkshire by Wicstun DIstillery.
-  Updated: 2026-10-02T19:15:37Z
+  Updated: 2026-10-23T18:31:46Z
   Vendor: Wicstun Distillery
   Product Type: Vodka
   Availability: Available
@@ -238,21 +238,21 @@
     Availability: Not Available
     Price: £6.00 GBP
 - [Yorkshire Pudding Beer 440ml Cans (Pack of 6)](https://wicstun-distillery.co.uk/products/yorkshire-pudding-beer-cans): YORKSHIRE PUDDING BEER - A blonde Ale made with real Yorkshire Puddings, served in a can at 3.8%. Made in Yorkshire.
-  Updated: 2026-10-12T20:32:37Z
+  Updated: 2026-10-24T06:53:36Z
   Vendor: Wicstun Distillery
   Product Type: Beer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/Yorkshire_Pudding_Beer_Cans_440ml_x_3.png?v=1777362440
   Price: £17.95 GBP
 - [Pickering Gin with Watercress & Cucumber](https://wicstun-distillery.co.uk/products/pickering-watercress-cucumber-gin): Pickering Watercress & Cucumber Gin, a London Dry Gin, is made using fresh Pickering watercress & locally grown cucumbers. This is a light and refreshing gin which is easy to drink.
-  Updated: 2026-10-11T14:03:55Z
+  Updated: 2026-10-19T03:42:11Z
   Vendor: Wicstun Distillery
   Product Type: Gin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/Wicstun_Distillery_Award_Images_7.png?v=1790433136
   Price: £39.00 GBP
 - [Cocktail Making Kit | 14-Piece Bartender Cocktail Kit](https://wicstun-distillery.co.uk/products/cocktail-making-kit): A complete bartending kit cocktail set with all the bar cart essentials equipment you need to shake & mix up delicious  alcoholic drinks & mocktails.
-  Updated: 2026-09-10T23:29:55Z
+  Updated: 2026-10-20T07:05:53Z
   Vendor: Jolof Store
   Product Type: Cocktail Shakers
   Availability: Available
@@ -289,7 +289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/91_Ek0NW9hL.jpg?v=1777360822
     Price: £60.60 GBP
 - [Stainless Steel Ice Cubes](https://wicstun-distillery.co.uk/products/ice-cubes-set-1): Stainless Steel Ice Cubes are perfect for chilling your gin or rum without watering the drink down.
-  Updated: 2026-09-15T20:50:57Z
+  Updated: 2026-10-19T20:07:46Z
   Vendor: Michan Direct
   Product Type: 0
   Availability: Available
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0846/7483/8856/files/rn-image_picker_lib_temp_ee220a09-1ab3-4c86-8efd-e872d4f5f4ab.png?v=1791394902
     Price: £12.00 GBP
 - [Victory Garden Gin](https://wicstun-distillery.co.uk/products/victory-garden-gin): A dry gin made with Brambles, Nettles and Elderflower, which is celebrating the Land Girls of World War 2. A donation is made to Pickering Community Interest Company for every bottle sold.
-  Updated: 2026-10-11T14:29:46Z
+  Updated: 2026-10-20T17:13:56Z
   Vendor: Wicstun Distillery
   Product Type: 
   Availability: Available
@@ -387,23 +387,23 @@
 ## Collections
 
 - [Premium Artisan Gins](https://wicstun-distillery.co.uk/collections/gin): Bursting with flavour & crafted with care, our premium gins offer a perfect balance of tradition & innovation, with classic juniper notes & unique infusions.
-  Updated: 2026-10-16T11:17:00Z
+  Updated: 2026-10-21T11:19:01Z
   Total Products: 12
 - [Premium Vodka & Flavoured Vodkas](https://wicstun-distillery.co.uk/collections/vodka): Clean, crisp, and expertly crafted, our vodkas deliver smoothness and purity with every sip. Ideal for mixing your favourite cocktails or enjoying chilled on their own, these versatile spirits bring a refined touch to any occasion.
   Updated: 2026-10-12T11:20:59Z
   Total Products: 7
 - [Premium Handmade Rum](https://wicstun-distillery.co.uk/collections/rum): Rich and smooth, our premium rums offer everything from warming spiced to classic, mellow styles. Perfect for sipping or mixing in cocktails.
-  Updated: 2026-10-15T11:17:45Z
-  Total Products: 8
+  Updated: 2026-10-21T11:19:01Z
+  Total Products: 10
 - [Sophie Ellis-Bextor's Limited Edition Premium Italian Rosé Wine](https://wicstun-distillery.co.uk/collections/wine): Sophie Ellis-Bextor's Limited Edition Premium Italian Rosé Wine. The wine is a collaboration between Sophie and Alessandra Quarta from the Claudio Quarta winery in Puglia. Each bottle captures the heart and heritage of the region.  Desktop / Laptop layout , .collection-hero__description { max-wid ...
   Updated: 2026-08-04T13:15:48Z
   Total Products: 2
 - [Yorkshire Artisan Beer & Ales](https://wicstun-distillery.co.uk/collections/beer): Crafted with passion & bursting with flavour, our Yorkshire Pudding Ale and beers offer everything from crisp, refreshing lagers to rich, full-bodied ales. Perfect for sharing with friends or enjoying a quiet moment.
-  Updated: 2026-10-13T11:17:01Z
+  Updated: 2026-10-23T11:18:54Z
   Total Products: 2
 - [All Spirits, Liqueurs, Beers & Wine](https://wicstun-distillery.co.uk/collections/all-spirits-and-liqueurs): Explore our full collection of handcrafted spirits, liqueurs, Beers & Wine. All bursting with bold flavours, smooth finishes, and a touch of Yorkshire charm.
-  Updated: 2026-10-16T11:17:00Z
-  Total Products: 33
+  Updated: 2026-10-23T11:18:54Z
+  Total Products: 35
 - [Premium Liqueurs & Spirit Drinks](https://wicstun-distillery.co.uk/collections/liqueurs): Our handcrafted liqueurs are perfect for sipping, gifting, or adding a twist to your favourite cocktails. From Toffee Vodka to Sloe Gin, there's a bottle to suit everyone.
   Updated: 2026-10-12T11:20:59Z
   Total Products: 6
@@ -417,7 +417,7 @@
   Updated: 2026-08-04T13:15:49Z
   Total Products: 1
 - [Fruity Gins & Flavoured Gins](https://wicstun-distillery.co.uk/collections/fruity-gins-and-flavoured-gins): Explore our deliciously diverse collection of Fruity Gins and Flavoured Gins, where classic botanicals meet vibrant bursts of fruit and unique twists.
-  Updated: 2026-10-16T11:17:00Z
+  Updated: 2026-10-21T11:19:01Z
   Total Products: 5
 - [Garnishes](https://wicstun-distillery.co.uk/collections/garnishes): A range of garnishes to complement you favourit drink
   Updated: 2026-08-04T13:15:49Z
@@ -426,11 +426,11 @@
   Updated: 2026-08-04T13:15:49Z
   Total Products: 5
 - [Best Sellers](https://wicstun-distillery.co.uk/collections/best-sellers): Shop the best- spirits from Wicstun Distillery. Discover handcrafted Yorkshire gins and customer favourites, perfect for gifting or enjoying at home.
-  Updated: 2026-10-15T11:17:45Z
-  Total Products: 8
+  Updated: 2026-10-21T11:19:01Z
+  Total Products: 9
 - [All Products](https://wicstun-distillery.co.uk/collections/all)
-  Updated: 2026-10-16T11:17:00Z
-  Total Products: 65
+  Updated: 2026-10-23T11:18:54Z
+  Total Products: 67
 - [Cream Liqueurs](https://wicstun-distillery.co.uk/collections/cream-liqueurs)
   Updated: 2026-10-12T11:20:59Z
   Total Products: 3
@@ -441,7 +441,10 @@
   Updated: 2026-10-13T11:17:01Z
   Total Products: 1
 - [Pickering Gins](https://wicstun-distillery.co.uk/collections/pickering-gins)
-  Updated: 2026-10-12T11:20:59Z
+  Updated: 2026-10-21T11:19:01Z
+  Total Products: 2
+- [YORKSHIRE PUDDING BEER (Can)](https://wicstun-distillery.co.uk/collections/yorkshire-pudding-beer-can)
+  Updated: 2026-10-23T11:18:54Z
   Total Products: 2
 
 ## Blogs
@@ -720,6 +723,18 @@
     Updated: 2026-10-06T16:13:37Z
     Author: Wicstun Distillery
     Tags: how to check if alcohol is vegan, vegan friendly alcohol brands, vegan friendly alcohol brands uk, vegan liqueurs, vegan spirits, vegan wine and beer
+  - [Local Yorkshire Craft Spirit Gifts: 10 Premium Picks](https://wicstun-distillery.co.uk/blogs/news-1/local-yorkshire-craft-spirit-gifts): Local Yorkshire Craft Spirit Gifts: 10 Premium Picks
+    Updated: 2026-10-23T12:08:11Z
+    Author: Wicstun Distillery
+    Tags: local yorkshire craft spirit gifts, yorkshire craft spirit gifts, yorkshire distillery gifts, yorkshire gin gifts, yorkshire-made spirits
+  - [Best Craft Gin for Cocktails: 7 Yorkshire Gins](https://wicstun-distillery.co.uk/blogs/news-1/best-craft-gin-for-cocktails): Best Craft Gin for Cocktails: 7 Yorkshire Gins
+    Updated: 2026-10-23T12:08:38Z
+    Author: Wicstun Distillery
+    Tags: best craft gin for cocktails, best gin for gin and tonic, best gin for martini, gin cocktail recipes, how to choose gin for cocktails
+  - [Why Premium Spirits Cost More: A 2026 Guide](https://wicstun-distillery.co.uk/blogs/news-1/why-premium-spirits-cost-more): Why Premium Spirits Cost More: A 2026 Guide
+    Updated: 2026-10-23T12:36:35Z
+    Author: Wicstun Distillery
+    Tags: are premium spirits worth it, how to taste spirits, premium spirits cost, small-batch spirits, what makes a spirit premium, why premium spirits cost more
 - [Rum News & Blog](https://wicstun-distillery.co.uk/blogs/rum): Rum news and Uodates from Wicstun Distillery and further afield, keeping you uptodate with all things rum.
   - [Discover The Allure Of Wicstun Distilleries Dark Spiced Rum](https://wicstun-distillery.co.uk/blogs/rum/discover-the-allure-of-wicstun-distilleries-dark-spiced-rum-7-june-2024): Discover The Allure Of Wicstun Distilleries Dark Spiced Rum
     Updated: 2026-04-14T20:48:20Z
@@ -1005,15 +1020,15 @@
 ## Policies
 
 - [Privacy Policy](https://wicstun-distillery.co.uk/policies/privacy-policy)
-  Updated: 2024-09-14T10:31:44+01:00
+  Updated: 2024-09-14T09:31:44Z
 - [Shipping Policy](https://wicstun-distillery.co.uk/policies/shipping-policy)
-  Updated: 2025-09-17T14:49:30+01:00
+  Updated: 2025-09-17T13:49:30Z
 - [Refund Policy](https://wicstun-distillery.co.uk/policies/refund-policy)
-  Updated: 2025-09-20T13:28:21+01:00
+  Updated: 2025-09-20T12:28:21Z
 - [Terms of Service](https://wicstun-distillery.co.uk/policies/terms-of-service)
-  Updated: 2025-09-20T13:30:05+01:00
+  Updated: 2025-09-20T12:30:05Z
 - [Contact Information](https://wicstun-distillery.co.uk/policies/contact-information)
-  Updated: 2025-09-20T13:24:07+01:00
+  Updated: 2025-09-20T12:24:07Z
 
 ## Optional
 
