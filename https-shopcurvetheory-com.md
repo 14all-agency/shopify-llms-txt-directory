@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T22:51:07Z
 - Contact Email: assortment.shoppe@gmail.com
-- Updated At: 2026-10-17T00:00:35.726Z
+- Updated At: 2026-10-24T00:37:35.576Z
 
 ## Products
 
@@ -1375,6 +1375,15 @@
   - [Understanding Different Types of Shapewear and Their Uses](https://shopcurvetheory.com/blogs/curve-theory-blog/understanding-different-types-of-shapewear-and-their-uses): Understanding Different Types of Shapewear and Their Uses
     Updated: 2026-10-14T19:00:24Z
     Author: CURVE THEORY
+  - [A Beginner's Guide to Wearing Shapewear Comfortably](https://shopcurvetheory.com/blogs/curve-theory-blog/a-beginners-guide-to-wearing-shapewear-comfortably): A Beginner's Guide to Wearing Shapewear Comfortably
+    Updated: 2026-10-18T19:00:21Z
+    Author: CURVE THEORY
+  - [Addressing Shapewear Myths and Discovering the Facts](https://shopcurvetheory.com/blogs/curve-theory-blog/addressing-shapewear-myths-and-discovering-the-facts): Addressing Shapewear Myths and Discovering the Facts
+    Updated: 2026-10-19T19:00:24Z
+    Author: CURVE THEORY
+  - [Shapewear Styling Tips for Special Occasions and Everyday Wear](https://shopcurvetheory.com/blogs/curve-theory-blog/shapewear-styling-tips-for-special-occasions-and-everyday-wear): Shapewear Styling Tips for Special Occasions and Everyday Wear
+    Updated: 2026-10-21T19:00:26Z
+    Author: CURVE THEORY
 
 ## Store Pages
 
@@ -1400,13 +1409,13 @@
 ## Policies
 
 - [Privacy Policy](https://shopcurvetheory.com/policies/privacy-policy)
-  Updated: 2025-08-17T18:51:21-04:00
+  Updated: 2025-08-17T22:51:21Z
 - [Refund Policy](https://shopcurvetheory.com/policies/refund-policy)
-  Updated: 2026-06-17T11:05:59-04:00
+  Updated: 2026-06-17T15:05:59Z
 - [Terms of Service](https://shopcurvetheory.com/policies/terms-of-service)
-  Updated: 2026-06-17T11:07:25-04:00
+  Updated: 2026-06-17T15:07:25Z
 - [Contact Information](https://shopcurvetheory.com/policies/contact-information)
-  Updated: 2026-06-17T11:07:55-04:00
+  Updated: 2026-06-17T15:07:55Z
 
 ## Optional
 
