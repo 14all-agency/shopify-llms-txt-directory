@@ -6,110 +6,110 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-07-07T10:42:48Z
 - Contact Email: hello@kumaio.de
-- Updated At: 2026-10-17T00:00:28.594Z
+- Updated At: 2026-10-24T00:17:31.965Z
 
 ## Products
 
 - [Peppadew® Rote Kirschpaprika ganze Frucht - 260 g](https://www.kumaio.de/products/peppadew-rote-kirschpaprika-ganze-fruchte): Entdecke die süß-pikante Köstlichkeit der Peppadew® Kirschpaprika! Ganze Früchte, perfekt zum Füllen oder als Beilage. Jetzt den einzigartigen Geschmack genießen!
-  Updated: 2026-10-14T18:47:09Z
+  Updated: 2026-10-18T09:00:31Z
   Vendor: Kumaio®
   Product Type: Kirschpaprika
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/peppadew-ganze-frucht-kumaio.jpg?v=1724338491
   Price: 3,59 € EUR
 - [Bio Aminos Kokos Gewürzsauce - Kumaio®](https://www.kumaio.de/products/bio-aminos-kokos-gewurzsauce): Bio Aminos Kokos Gewürzsauce: Exotisch, Bio und Glutenfrei. Perfekte Geschmacksverstärkung für deine Gerichte. Entdecke die Kokosnuss-Magie!
-  Updated: 2026-10-16T13:54:21Z
+  Updated: 2026-10-19T21:34:57Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/B1229-bio-kokos-aminos-traditionell.jpg?v=1769000242
   Price: 8,99 € EUR
 - [Bio King Kokoswasser aus Sri Lanka | 350 ml Glas | Kumaio®](https://www.kumaio.de/products/bio-king-kokosnusswasser-350ml): 100 % Bio King Kokoswasser aus Sri Lanka. Mild, leicht süßlich, ohne Zuckerzusatz und ohne Zusatzstoffe. In der 350ml Glasflasche.
-  Updated: 2026-10-15T10:51:14Z
+  Updated: 2026-10-23T09:43:06Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-king-kokoswasser-2026.jpg?v=1783953582
   Price: 3,99 € EUR
 - [Bio King Kokoswasser Passionsfrucht - 350 ml](https://www.kumaio.de/products/bio-king-kokosnusswasser-mit-passionsfrucht-350-ml-in-der-glasflasche): Bio King Kokosnusswasser mit Passionsfrucht – die perfekte Erfrischung in der 350 ml Glasflasche. Natürlich, vegan und köstlich exotisch. Jetzt entdecken!
-  Updated: 2026-10-10T18:17:07Z
+  Updated: 2026-10-23T09:22:27Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-king-kokoswasser-mit-passionsfrucht-web.jpg?v=1783690883
   Price: 3,99 € EUR
 - [Bio Kokosmilch mit 60% Kokosnussextrakt - 400 g](https://www.kumaio.de/products/bio-kokosmilch-mit-60-kokosnussextrakt): Genieße die cremige Fülle unserer Kokosmilch mit 60% Kokosnussextrakt. Perfekt für exotische Gerichte. Jetzt probieren!
-  Updated: 2026-10-05T14:41:26Z
+  Updated: 2026-10-23T09:24:53Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/bio-kokosmilch-normal.jpg?v=1742372823
   Price: 2,29 € EUR
 - [Bio Kokosmilch - Light mit 9% Fett](https://www.kumaio.de/products/bio-kokosmilch-light): Leichte Bio-Kokosmilch mit nur 9% Fettgehalt. Genieße den natürlichen Geschmack. Ideal für gesunde Rezepte. Jetzt entdecken!
-  Updated: 2026-10-16T13:54:16Z
+  Updated: 2026-10-23T09:24:32Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/bio-kokosmilch-light-kumaio.jpg?v=1742116225
   Price: 2,29 € EUR
 - [Bio Pulled Jackfruit - 240 g](https://www.kumaio.de/products/bio-pulled-young-green-jackfruit): Das neue Superfood: Jackfruit. Ohne Konservierungs- und Zusatzstoffe. Ballaststoffquelle: Fleischalternative bei: Curry, Wraps, Burritos. Probiere es selbst!
-  Updated: 2026-10-12T07:14:17Z
+  Updated: 2026-10-23T09:23:15Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/products/bio-pulled-jackfruit-kumaio-selecto.jpg?v=1669904536
   Price: 3,98 € EUR
 - [Bio süße Jackfruit, im Glas - 220 g](https://www.kumaio.de/products/bio-sweet-jackfruit-ohne-zugefuhrten-zucker): Entdecken Sie die exotische Süße unserer Bio-Jackfruit in Ananassaft. Ideal für Desserts und gesunde Snacks. Jetzt probieren und genießen!
-  Updated: 2026-10-12T13:51:28Z
+  Updated: 2026-10-19T10:51:22Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/products/sweet-jackfruit.jpg?v=1677057605
   Price: 4,49 € EUR
 - [Bio Pulled young Jackfruit, im Glas - 220 g](https://www.kumaio.de/products/bio-pulled-young-jackfruit-im-glas): Köstliche gezupfte Jackfruit im Glas: Vegane/Vegetarische Vielfalt für anspruchsvolle Gaumen. Zart, würzig, glutenfrei. Entdecke die Exotik!
-  Updated: 2026-10-14T12:53:09Z
+  Updated: 2026-10-22T08:37:16Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/products/glas-pulled-jackfruit.jpg?v=1734352074
   Price: 3,98 € EUR
 - [Bio Young Jackfruit in Stücken, im Glas - 220 g](https://www.kumaio.de/products/bio-junge-jackfrucht-in-stucken-glas): Bio junge Jackfrucht im Glas: Vielseitige vegane Alternative. Authentisch, nachhaltig und voller natürlicher Aromen. Entdecke neue Geschmackserlebnisse!
-  Updated: 2026-10-14T12:53:03Z
+  Updated: 2026-10-23T09:23:16Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/products/jackfruit-stuecke-glas.jpg?v=1734343109
   Price: 3,98 € EUR
 - [Bio Bananen Hälften getrocknet - 250 g](https://www.kumaio.de/products/bio-bananenhalften-getrocknet-250-gramm): 100% getrocknete Bio Banane. Süß, lecker und ein gesunder Snack für zwischendurch. Probiere und überzeuge dich selber. Jetzt einfach bestellen!
-  Updated: 2026-10-16T08:54:36Z
+  Updated: 2026-10-19T14:43:45Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/bio-bananen-haelften-kumaio-2026.jpg?v=1770390714
   Price: 5,99 € EUR
 - [Bio Aminos Kokos Gewürzsauce - Ingwer-Zitrone](https://www.kumaio.de/products/bio-aminos-kokos-ingwer-zitrone-250-ml): Entdecke die Bio Aminos Kokos Gewürzsauce Ingwer-Zitrone. Ideal für gesundheitsbewusste Genießer, die eine fruchtig-leichte Note in asiatischen Gerichten, Salaten und mehr bevorzugen. 100 % natürlich, vegan und ohne Zusatzstoffe!
-  Updated: 2026-10-16T13:54:18Z
+  Updated: 2026-10-19T21:04:33Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-kokos-aminos-ingwer-zitrone-v2026.jpg?v=1784282268
   Price: 8,99 € EUR
 - [Bio Kokosöl - 500ml | 100% rein, nativ & kaltgepresst](https://www.kumaio.de/products/bio-kokosol-nativ-500ml): 100% reines Kokosöl aus kontrolliert biologischem Anbau, kaltgepresst und vielseitig einsetzbar. Ideal zum Kochen, Backen, Braten, für die Haut- und Haarpflege und vieles mehr. Jetzt bestellen!
-  Updated: 2026-10-16T08:54:33Z
+  Updated: 2026-10-23T21:20:58Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kokosoel-500ml-kumaio.jpg?v=1722520289
   Price: 8,49 € EUR
 - [Bio Kokoschips Natur 150g - 100% pur mit Naturhaut](https://www.kumaio.de/products/bio-kokoschips-natur): Knusprige Bio Kokoschips Natur aus 100% Kokosnuss. Ohne Zuckerzusatz, mit Schale für mehr Geschmack & Ballaststoffe. Vegan & glutenfrei.
-  Updated: 2026-10-16T17:51:01Z
+  Updated: 2026-10-18T09:00:41Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kokoschips-natur-kumaio-neu.jpg?v=1730800525
   Price: 6,99 € EUR
 - [Bio Kokoschips Passionsfrucht - 150 g | Knusprig & Natürlich](https://www.kumaio.de/products/bio-kokoschips-passionsfrucht): Entdecke unsere Bio Kokoschips Passionsfrucht – eine köstliche Kombination aus knuspriger Kokosnuss und fruchtiger Passionsfrucht. Perfekt als Snack oder Topping. Jetzt probieren!
-  Updated: 2026-10-16T17:51:01Z
+  Updated: 2026-10-18T09:00:42Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
@@ -142,140 +142,140 @@
     Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-giftcards-100.png?v=1733479509
     Price: 100,00 € EUR
 - [Kokos Aminos Duo – Bio Würzsaucen im Set | Kumaio®](https://www.kumaio.de/products/aminos-duo): Entdecke das Kokos Aminos Duo – zwei Bio-Kokos-Würzsaucen, die Deine Küche bereichern! Natürlich, vegan und vielseitig – jetzt bestellen und den exotischen Geschmack genießen!
-  Updated: 2026-10-16T23:59:06Z
+  Updated: 2026-10-24T00:14:21Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-kokos-aminos-duo.jpg?v=1784282629
   Price: 15,99 € EUR
 - [Bio King Kokosnusswasser-Duo | Exotische Erfrischung](https://www.kumaio.de/products/bio-kokosnusswasser-duo): Erlebe das Bio King Kokosnusswasser-Duo! Zwei erfrischende Varianten – pur und mit Passionsfrucht. Natürlich, tropisch & nachhaltig. Jetzt entdecken!
-  Updated: 2026-10-16T23:54:50Z
+  Updated: 2026-10-24T00:12:50Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-king-kokoswasser-duo.jpg?v=1784281673
   Price: 7,49 € EUR
 - [Kumaio® Bio Chai Sirup - 250 ml](https://www.kumaio.de/products/bio-chai-sirup): Entdecke den Kumaio® Bio Chai Sirup: 100% Bio, vegan & koffeinfrei. Gesüßt mit Kokosnussnektar. Ideal für Chai Latte & kreative Rezepte.
-  Updated: 2026-10-14T14:57:24Z
+  Updated: 2026-10-19T14:43:53Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-chai-sirup.jpg?v=1755849210
   Price: 12,99 € EUR
 - [Bio Kokos Essig 250 ml | Kumaio®](https://www.kumaio.de/products/bio-kokos-essig): Milder Bio Kokosessig aus fermentiertem Kokoswasser. Fruchtig-frische Säure für Dressings, Marinaden, Dips, Bowls und Saucen.
-  Updated: 2026-10-06T07:52:41Z
+  Updated: 2026-10-19T19:57:23Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kumaio-kokos-vinegar.jpg?v=1773758407
   Price: 6,99 € EUR
 - [Bio Kokoschips Passionsfrucht 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-passionsfrucht-110-g): Bio Kokoschips Passionsfrucht ohne zugesetzten Zucker. Tropisch-fruchtiger Snack und knuspriges Topping für Müsli, Joghurt, Bowls und Desserts.
-  Updated: 2026-10-16T17:51:05Z
+  Updated: 2026-10-22T11:37:16Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/b1256-kokoschips-passionfruit-110g.jpg?v=1774013350
   Price: 4,49 € EUR
 - [Bio Kokoschips Zimt 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-zimt-110-g): Bio Kokoschips Zimt ohne zugesetzten Zucker. Warmer, aromatischer Snack und knuspriges Topping für Müsli, Joghurt, Porridge und Desserts.
-  Updated: 2026-10-16T17:51:01Z
+  Updated: 2026-10-20T06:19:42Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/b1258-bio-kokoschips-zimt-110g-shop.jpg?v=1774020858
   Price: 4,49 € EUR
 - [Bio Kokoschips Mango 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-mango-110-g): Bio Kokoschips Mango ohne zugesetzten Zucker. Tropisch-fruchtiger Snack und knuspriges Topping für Müsli, Joghurt, Bowls und Desserts.
-  Updated: 2026-10-16T17:51:01Z
+  Updated: 2026-10-20T06:19:41Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/b1257-kokoschips-mango-110g-shop.jpg?v=1774022313
   Price: 4,49 € EUR
 - [Bio Kokoschips Ananas 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-ananas-110-g): Bio Kokoschips Ananas ohne zugesetzten Zucker. Tropisch-fruchtiger Snack und knuspriges Topping für Müsli, Joghurt, Bowls und Desserts.
-  Updated: 2026-10-16T17:51:00Z
+  Updated: 2026-10-20T06:19:45Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/B1259-cocochips-ananas-shop.jpg?v=1774259384
   Price: 4,49 € EUR
 - [Bio Kokoschips Natur 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-natur-110-g): Bio Kokoschips Natur ohne zugesetzten Zucker. Milder, nussiger Snack und knuspriges Topping für Müsli, Joghurt, Bowls, Salate und Currys.
-  Updated: 2026-10-16T17:51:01Z
+  Updated: 2026-10-18T09:00:51Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/B1260-cocochips-natur-shop.jpg?v=1774260953
   Price: 4,49 € EUR
 - [Bio Kokoschips Sweet Chili | Mild pikant & knusprig | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-sweet-chili): Bio Kokoschips Sweet Chili aus Sri Lanka: knusprige Kokoschips mit 90 % Bio-Kokosnuss, milder Chili-Würze und natürlicher Kokoshaut. 110 g.
-  Updated: 2026-10-14T17:19:23Z
+  Updated: 2026-10-20T06:19:43Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/B1261-cocochips-sweet-chili-shop.jpg?v=1781164170
   Price: 4,49 € EUR
 - [Bio Kokoschips Salt & Pepper 110 g | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-salt-pepper-110-g): Herzhafte Bio Kokoschips mit Salz und Pfeffer. Knuspriger Snack und Topping für Salate, Bowls, Suppen, Currys und moderne Küche.
-  Updated: 2026-10-14T17:19:22Z
+  Updated: 2026-10-19T14:43:45Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/B1261-cocochips-salz-und-pfeffer-shop.jpg?v=1774269224
   Price: 4,49 € EUR
 - [Bio Kokos Aminos Orange Chili 250 ml | Kumaio®](https://www.kumaio.de/products/bio-kokos-aminos-orange-chili): Fruchtig-pikante Bio Kokos Aminos Soße mit Orange und milder Chili-Schärfe. Ideal für Bowls, Dips, Marinaden, Gemüse, Reisgerichte und Sommerrollen.
-  Updated: 2026-10-16T13:54:19Z
+  Updated: 2026-10-19T19:57:37Z
   Vendor: Kumaio®
   Product Type: Bio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/Orange-chili-kumaio-web.jpg?v=1784818689
   Price: 8,99 € EUR
 - [Bio Kokoschips Probierpaket 7 Sorten | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-probierpaket-alle-7-sorten): Bio Kokoschips Probierpaket mit allen 7 Sorten: Natur, Ananas, Mango, Passionsfrucht, Zimt, Salt & Pepper und Sweet Chili. Knuspriger Snack und Topping.
-  Updated: 2026-10-16T23:58:51Z
+  Updated: 2026-10-24T00:12:20Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kokoschips-probierpaket-alle-sieben-sorten.png?v=1781167184
   Price: 28,00 € EUR
 - [Bio Kokoschips Süßes Set 4 Sorten | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-suess-set): Süße Kokoschips zum Probieren Das Bio Kokoschips Süße Set bündelt vier Sorten, die perfekt zu süßen Snackmomenten, Frühstücksideen und kreativen Toppings passen. Jede Sorte basiert auf knusprigen Bio-Kokoschips, bringt aber eine eigene Geschmacksrichtung mit. Die Sorte Ananas schmeckt tropisch-fruchtig und erinnert an sonnige Genussmomente. Mango bringt eine runde, exotische Fruchtnote mit. Passionsfrucht ergänzt das Set mit einer etwas intensiveren, fruchtigen Note. Zimt sorgt für einen warmen, leicht würzigen Geschmack und passt besonders gut zu Porridge, Joghurt und Desserts. So entsteht ein Set, das nicht nur zum Probieren gedacht ist, sondern auch im Alltag viele Anwendungsmöglichkeiten bietet. Wie schmeckt das Süße Set? Das Set ist fruchtig, knusprig, leicht nussig und angenehm süßlich. Die Kokosbasis bleibt bei allen Sorten erkennbar, wird aber je nach Variante unterschiedlich ergänzt. Ananas und Mango bringen eine sonnige, tropische Richtung. Passionsfrucht wirkt etwas kräftiger und fruchtiger. Zimt ist die gemütlichere Sorte im Set und passt besonders gut zu warmen oder cremigen Frühstücks- und Dessertideen. Dadurch ist das Set ideal, wenn Du verschiedene süße Kokoschips ausprobieren möchtest, ohne Dich direkt für eine einzelne Sorte entscheiden zu müssen. Wofür kannst Du die Kokoschips verwenden? Die Sorten aus dem Süße Set passen besonders gut zu allem, was etwas Crunch, Kokosaroma und eine besondere Topping-Note vertragen kann. Du kannst sie verwenden für: Müsli, Granola und Cereals Joghurt, Quark oder pflanzliche Alternativen Porridge und Overnight Oats Smoothie Bowls und Açai Bowls Desserts, Eis und Obstsalat Kuchen, Gebäck und kleine Snackideen als süßer Snack direkt aus der Packung Besonders schön ist die Kombination aus cremigen Grundlagen und knusprigem Topping. Auf Joghurt, Porridge oder Bowls sorgen die Kokoschips für Textur, Geschmack und ein natürliches tropisches Finish. Wenn Du eher herzhafte Kokoschips suchst, entdecke auch unser Bio Kokoschips Herzhafte Set mit Natur, Salt & Pepper und Sweet Chili.
-  Updated: 2026-10-16T23:59:21Z
+  Updated: 2026-10-24T00:13:47Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kokoschips-set-susse-vielfalt.png?v=1782388077
   Price: 17,00 € EUR
 - [Bio Kokoschips Herzhaft Set 3 Sorten | Kumaio®](https://www.kumaio.de/products/bio-kokoschips-herzhafte-vielfalt): Bio Kokoschips Herzhaft Set mit Natur, Salt & Pepper und Sweet Chili. Knuspriger Snack und Topping für Salate, Bowls, Currys und Dips.
-  Updated: 2026-10-16T23:59:15Z
+  Updated: 2026-10-24T00:13:16Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/kokoschips-herzhaft-set.png?v=1782376906
   Price: 13,00 € EUR
 - [Bio Kokos Aminos Saucen Set 3 Sorten | Kumaio®](https://www.kumaio.de/products/bio-kokos-aminos-probierpaket-3-sorten): Bio Kokos Aminos Saucen Set mit Traditionell, Ingwer-Zitrone und Orange Chili. Drei sojafreie Würzsaucen zum Würzen, Marinieren und Verfeinern.
-  Updated: 2026-10-17T00:00:02Z
+  Updated: 2026-10-24T00:15:10Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/bundle-3erset-aminos.png?v=1785237645
   Price: 23,97 € EUR
 - [Bio Kokos Aminos & Kokosessig Set | Kumaio®](https://www.kumaio.de/products/bio-kokos-aminos-kokosessig-set): Bio Kokos Aminos & Kokosessig Set mit 4 Flaschen. Würzsaucen und milder Kokosessig für mehr Würze, Frische und Balance in Deiner Küche.
-  Updated: 2026-10-16T13:54:36Z
+  Updated: 2026-10-24T00:07:26Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/bundle-aminos-essig.png?v=1785238721
   Price: 29,99 € EUR
 - [Bio Kokos Aminos & Kokosessig Duo | Kumaio®](https://www.kumaio.de/products/kokosessig-kokos-aminos-traditionell): Bio Kokos Aminos Traditionell & Kokosessig im Duo: würzig, fein säuerlich und vielseitig für Dressings, Marinaden, Bowls und Saucen. Jetzt entdecken.
-  Updated: 2026-10-16T13:54:36Z
+  Updated: 2026-10-24T00:12:26Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/traditionell-kokosessig.png?v=1786693005
   Price: 14,99 € EUR
 - [Bio Kokos Aminos Ingwer-Zitrone & Kokosessig Duo | Kumaio®](https://www.kumaio.de/products/kokosessig-kokos-aminos-ingwer-zitrone): Bio Kokos Aminos Ingwer-Zitrone und Kokosessig im Duo: würzig, frisch und fein säuerlich. Sojafreie Kokos Aminos plus Essig aus fermentiertem Kokoswasser.
-  Updated: 2026-10-16T13:54:26Z
+  Updated: 2026-10-24T00:13:22Z
   Vendor: Kumaio®
   Product Type: Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0431/3595/9192/files/ingwer-zitrone-kokosessig.png?v=1786632495
   Price: 14,99 € EUR
 - [Bio Kokos Aminos Orange Chili & Kokosessig Duo | Kumaio®](https://www.kumaio.de/products/kokosessig-kokos-aminos-orange-chili): Zwei Bio Küchenbegleiter für fruchtige Würze, milde Säure, Marinaden, Dressings und Saucen.
-  Updated: 2026-10-16T13:54:29Z
+  Updated: 2026-10-24T00:14:21Z
   Vendor: Kumaio®
   Product Type: 
   Availability: Available
@@ -285,43 +285,43 @@
 ## Collections
 
 - [Bio Produkte aus Sri Lanka](https://www.kumaio.de/collections/bio): Entdecke bei Kumaio® exotische Bio-Lebensmittel. Kaufe hochwertige und nachhaltige Produkte für ein kulinarisches Abenteuer.
-  Updated: 2026-10-16T11:08:46Z
-  Total Products: 33
+  Updated: 2026-10-23T11:15:12Z
+  Total Products: 31
 - [Peppadew](https://www.kumaio.de/collections/peppadew): Entdecke die köstlichen Peppadew® Kirschpaprika und kaufe sie bei uns. Genieße die einzigartige süß-scharfe Note in deinen Gerichten. Jetzt bestellen!
   Updated: 2026-10-15T11:11:46Z
   Total Products: 3
 - [Kokoswasser](https://www.kumaio.de/collections/kokoswasser): Entdecke reines Bio Kokoswasser: naturbelassen, mit Passionsfrucht oder im Duo. 100 % natürlich, vegan & ohne Zuckerzusatz – jetzt genießen!
-  Updated: 2026-10-15T11:11:46Z
+  Updated: 2026-10-23T11:15:12Z
   Total Products: 3
 - [Kokosprodukte](https://www.kumaio.de/collections/kokosprodukte): Entdecke unsere hochwertigen Kokosprodukte. Verpasse nicht die Chance, exotischen Genuss in deine Küche zu bringen. Jetzt ausprobieren!
-  Updated: 2026-10-16T11:08:46Z
+  Updated: 2026-10-23T11:15:12Z
   Total Products: 32
 - [Jackfruit](https://www.kumaio.de/collections/jackfruit): Entdecke Bio Jackfruit von Kumaio®: 100 % pflanzlich, vegan & vielseitig in der Küche. Perfekt als Fleischalternative in Currys, Bowls & Tacos.
-  Updated: 2026-10-15T11:11:46Z
-  Total Products: 6
+  Updated: 2026-10-23T11:15:12Z
+  Total Products: 4
 - [Sets](https://www.kumaio.de/collections/sets): Entdecke unsere sorgfältig zusammengestellten Sets – die perfekte Kombination aus hochwertigen Bio-Produkten, ideal zum Ausprobieren oder Verschenken.
   Updated: 2026-08-26T08:25:24Z
   Total Products: 11
 - [Kokoschips](https://www.kumaio.de/collections/kokoschips): Knusprige Bio Kokoschips aus Sri Lanka: Natur, Mango, Ananas, Passionsfrucht, Zimt, Salt & Pepper und Sweet Chili. Jetzt alle 7 Sorten entdecken.
-  Updated: 2026-10-15T11:11:46Z
+  Updated: 2026-10-20T11:06:34Z
   Total Products: 15
 - [Alle Produkte](https://www.kumaio.de/collections/alle-produkte): Entdecke alle Bio & veganen Lebensmittel von Kumaio: King Kokoswasser, Kokos Aminos, Jackfruit & mehr. 100% natürlich, nachhaltig & ohne Zuckerzusatz.
-  Updated: 2026-10-16T11:08:46Z
-  Total Products: 42
-- [7%](https://www.kumaio.de/collections/food)
-  Updated: 2026-10-16T11:08:46Z
+  Updated: 2026-10-23T11:15:12Z
   Total Products: 40
+- [7%](https://www.kumaio.de/collections/food)
+  Updated: 2026-10-23T11:15:12Z
+  Total Products: 38
 - [New! Shopify performance sharing is now turned on](https://www.kumaio.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-16T11:08:46Z
-  Total Products: 44
+  Updated: 2026-10-23T11:15:12Z
+  Total Products: 42
 - [Aminos Gewürzsaucen](https://www.kumaio.de/collections/aminos-gewurzsaucen): Kumaio Bio Kokos Aminos: Die gesunde, gluten- & sojafreie Alternative zu Sojasauce. Reich an Aminosäuren. Entdecke Classic oder Ingwer-Zitrone! Vegan.
-  Updated: 2026-10-15T11:11:46Z
+  Updated: 2026-10-20T11:06:34Z
   Total Products: 9
 - [Kokosmilch](https://www.kumaio.de/collections/kokosmilch)
-  Updated: 2026-10-06T11:08:09Z
+  Updated: 2026-10-20T11:06:34Z
   Total Products: 2
 - [Saucen & Sirupe](https://www.kumaio.de/collections/saucen-sirupe)
-  Updated: 2026-10-15T11:11:46Z
+  Updated: 2026-10-20T11:06:34Z
   Total Products: 11
 
 ## Blogs
@@ -525,15 +525,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.kumaio.de/policies/privacy-policy)
-  Updated: 2026-06-24T10:33:01+02:00
+  Updated: 2026-10-23T06:58:35Z
 - [Shipping Policy](https://www.kumaio.de/policies/shipping-policy)
-  Updated: 2026-08-17T11:01:49+02:00
+  Updated: 2026-08-17T09:01:49Z
 - [Refund Policy](https://www.kumaio.de/policies/refund-policy)
-  Updated: 2026-08-17T11:31:02+02:00
+  Updated: 2026-08-17T09:31:02Z
 - [Terms of Service](https://www.kumaio.de/policies/terms-of-service)
-  Updated: 2026-01-19T14:38:04+01:00
+  Updated: 2026-01-19T13:38:04Z
 - [Contact Information](https://www.kumaio.de/policies/contact-information)
-  Updated: 2026-01-19T14:37:41+01:00
+  Updated: 2026-01-19T13:37:41Z
 
 ## Optional
 
