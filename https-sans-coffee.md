@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-12-27T18:34:05Z
 - Contact Email: ershovcpt@gmail.com
-- Updated At: 2026-10-17T00:00:36.891Z
+- Updated At: 2026-10-24T00:48:46.740Z
 
 ## Collections
 
@@ -40,11 +40,11 @@
 ## Policies
 
 - [Privacy Policy](https://sans.coffee/policies/privacy-policy)
-  Updated: 2025-08-25T09:58:46-07:00
+  Updated: 2025-08-25T16:58:46Z
 - [Refund Policy](https://sans.coffee/policies/refund-policy)
-  Updated: 2025-08-25T09:59:20-07:00
+  Updated: 2025-08-25T16:59:20Z
 - [Terms of Service](https://sans.coffee/policies/terms-of-service)
-  Updated: 2025-08-25T09:59:41-07:00
+  Updated: 2025-08-25T16:59:41Z
 
 ## Optional
 
