@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-10-17T00:00:45.940Z
+- Updated At: 2026-10-24T00:49:55.227Z
 
 ## Products
 
@@ -92,7 +92,7 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_5_2026_04_27_41_PM_1.png?v=1788589995
   Price: $24.99 USD
 - [Magnova™ Magnesium Complex](https://naylora.store/products/magnesium-capsule-complex-health-products): Product Information： Main raw material: magnesium Net content: 50g Type: Capsule Packing List： Capsule * 1 set
-  Updated: 2026-10-08T04:26:57Z
+  Updated: 2026-10-17T13:29:25Z
   Vendor: Digi Collex
   Product Type: health
   Availability: Available
@@ -106,7 +106,7 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_10_2026_07_29_46_AM_f8a85adf-7005-49b2-9d12-7c41500cc967.png?v=1788993089
   Price: $59.99 USD
 - [Rootiva™ Rosemary Rice Water Hair Growth Spray](https://naylora.store/products/rosemary-rice-water-hair-spray): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
-  Updated: 2026-10-15T06:28:16Z
+  Updated: 2026-10-19T16:28:15Z
   Vendor: Digi Collex
   Product Type: 1 Hair Growth Cap
   Availability: Available
@@ -474,7 +474,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_27_2026_02_01_15_PM.png?v=1790481695
     Price: $34.99 USD
 - [Reliva™ Easy-Zip Compression Socks](https://naylora.store/products/mens-and-womens-sports-zipper-elastic-socks): Product information: Pattern: solid color Color: gray, skin color, black, copper skin color, Copper Black, butterfly, stripes Length of socks: Middle calf Size: S/M,L/XL,XXL Thickness: medium Fabric name: Nylon Yarn Main fabric composition: Nylon Inventory Type: entire transaction Function: breathable, shaping, sweat absorption, anti-friction Suitable season: summer, winter, spring, autumn Style: Sports Craft: Jacquard Packing list: Socks*1(Pair) Product Image: Actual Product Photo
-  Updated: 2026-10-06T12:26:57Z
+  Updated: 2026-10-21T20:33:32Z
   Vendor: naylora
   Product Type: zip socks
   Availability: Available
@@ -550,7 +550,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_9_2026_10_05_57_AM.png?v=1791500964
     Price: $43.99 USD
 - [Spiora™ Lower Back Spinal support Belt](https://naylora.store/products/lower-back-spinal-care-support-belt): SIZE（cm) Length(cm） waistline(cm） S 110 75-100 M 110 75-100 L 125 90-113 XL 125 90-113 1. three-level detachable back support, to provide more support at the back. A. It is designed according to the physiological curvature of the spine. B. Consumers can adjust the support force according to their own needs or even remove it. 2. Two detachable magical sized stands that can provide more support for our size. Consumers can adjust the position according to their size and do not need to worry about their body type.
-  Updated: 2026-10-16T23:59:43Z
+  Updated: 2026-10-20T07:52:23Z
   Vendor: naylora
   Product Type: Lower Back Belt Spinal Care
   Availability: Available
@@ -558,15 +558,22 @@
   - [Large](https://naylora.store/products/lower-back-spinal-care-support-belt?variant=54233589776667)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_16_2026_07_55_53_PM-3_ca0673f6-d447-4f58-9664-93648322ae47.png?v=1792142489
-    Price: $74.99 USD
+    Price: $79.99 USD
   - [Medium](https://naylora.store/products/lower-back-spinal-care-support-belt?variant=54233589809435)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_16_2026_07_55_52_PM-2_e7ef86e8-502e-4fc7-9aff-87487f6d3f9a.png?v=1792142535
-    Price: $74.99 USD
+    Price: $79.99 USD
   - [Xtra Small](https://naylora.store/products/lower-back-spinal-care-support-belt?variant=54233589842203)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_16_2026_07_55_50_PM-1_a0451b84-a90e-46ae-a240-b7fe71d8c8a6.png?v=1792142551
-    Price: $74.99 USD
+    Price: $79.99 USD
+- [Chopiva™ 6-in-1 Vegetable Chopper & Salad Spinner](https://naylora.store/products/multifunctional-vegetable-cutter-and-drain-basket): Overview Multifunctional Design - Combines shredding, slicing, grinding, draining, and storage in one device Manual Rotation - Effortless operation with a hand-crank mechanism for efficient dehydration Compact Efficiency - Space-saving design ideal for kitchens with limited counter space Durable Material - Constructed with 304 stainless steel for longevity and hygiene Versatile Use - Handles fruits, vegetables, and salads with multiple blade attachments Specifications Product Dimensions: 24.5*24.5*18.5 cm Material: 304 stainless steel Color Options: Milky white, Fresh green, Transparent variants Functions: Shredding, slicing, grinding, draining, storage Included Attachments: Six interchangeable blades, cutting board (depending on variant) Packing List multifunctional vegetable cutter*1 six blade heads*1 set cutting board*1 (for specific variants) {"styleType":"offer-type-1","items":"970575975873,971284780350,974128309049,972267317483,989524406699,984171583531","usemap":"_sdmap_18"}
+  Updated: 2026-10-22T19:58:55Z
+  Vendor: naylora
+  Product Type: Vegetable Cutter
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/108f5521-b067-497a-ae30-7c71d11221fe.jpg?v=1792469143
+  Price: $47.99 USD
 
 ## Collections
 
@@ -574,7 +581,7 @@
   Updated: 2026-10-14T07:56:55Z
   Total Products: 12
 - [Quality Products](https://naylora.store/collections/quality-products)
-  Updated: 2026-10-16T23:43:06Z
+  Updated: 2026-10-20T07:51:53Z
   Total Products: 4
 - [Must Buy](https://naylora.store/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
@@ -610,8 +617,8 @@
   Updated: 2026-10-14T07:56:59Z
   Total Products: 0
 - [Trending Now](https://naylora.store/collections/best-seller)
-  Updated: 2026-09-17T22:39:45Z
-  Total Products: 13
+  Updated: 2026-10-22T08:00:34Z
+  Total Products: 14
 - [SwiftChop™ Vegetable Chopper](https://naylora.store/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
   Total Products: 1
@@ -626,15 +633,15 @@
 ## Policies
 
 - [Privacy Policy](https://naylora.store/policies/privacy-policy)
-  Updated: 2026-09-30T13:54:37+10:00
+  Updated: 2026-09-30T03:54:37Z
 - [Shipping Policy](https://naylora.store/policies/shipping-policy)
-  Updated: 2026-09-30T14:00:32+10:00
+  Updated: 2026-09-30T04:00:32Z
 - [Refund Policy](https://naylora.store/policies/refund-policy)
-  Updated: 2026-09-30T13:53:48+10:00
+  Updated: 2026-09-30T03:53:48Z
 - [Terms of Service](https://naylora.store/policies/terms-of-service)
-  Updated: 2026-09-30T14:00:08+10:00
+  Updated: 2026-09-30T04:00:08Z
 - [Contact Information](https://naylora.store/policies/contact-information)
-  Updated: 2026-09-30T14:00:58+10:00
+  Updated: 2026-09-30T04:00:58Z
 
 ## Optional
 
