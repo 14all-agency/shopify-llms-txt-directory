@@ -6,12 +6,12 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-05-13T01:02:49Z
 - Contact Email: morripierre@gmail.com
-- Updated At: 2026-10-17T00:00:42.031Z
+- Updated At: 2026-10-24T00:46:02.774Z
 
 ## Products
 
 - [CloudForm Ergonomic Pillow | Contoured Cervical Memory Foam | ELT Sydney](https://eltsydney.com/products/elt-dream-align-rebound-pillow): Contoured memory-foam pillow for side and back sleepers, with cervical support, airflow channels and a washable cover. Worldwide shipping; free over AUD 100.
-  Updated: 2026-09-17T08:15:46Z
+  Updated: 2026-10-21T06:16:40Z
   Vendor: ELT Sydney
   Product Type: Sleep & Recovery
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: $64.99 AUD
 - [Eclipse 3D Blackout Sleep Mask | Contoured Eye Cups | ELT Sydney](https://eltsydney.com/products/elt-deep-sleep-black-out-mask): 3D contoured sleep mask designed to reduce light leakage without pressing on the eyelids. For travel, shift work and daytime sleep. Worldwide shipping; free over AUD 100.
-  Updated: 2026-09-17T08:15:30Z
+  Updated: 2026-10-21T06:16:40Z
   Vendor: ELT Sydney
   Product Type: Sleep & Recovery
   Availability: Available
@@ -45,7 +45,7 @@
 ## Collections
 
 - [Best Sellers](https://eltsydney.com/collections/frontpage): Our most popular products — the ones our customers keep coming back to. Each one engineered for performance, designed for the executive who refuses to compromise.
-  Updated: 2026-09-17T08:15:47Z
+  Updated: 2026-10-21T06:16:40Z
   Total Products: 10
 - [Sleep & Recovery](https://eltsydney.com/collections/sleep-recovery): Engineer your recovery. Because the highest performers know rest is not a reward — it is part of the system. Every product here is built to help you sleep deeper, recover faster, and wake up ready to operate at 100%.
   Updated: 2026-09-17T08:15:47Z
@@ -85,15 +85,15 @@
 ## Policies
 
 - [Privacy Policy](https://eltsydney.com/policies/privacy-policy)
-  Updated: 2026-05-13T11:02:56+10:00
+  Updated: 2026-05-13T01:02:56Z
 - [Shipping Policy](https://eltsydney.com/policies/shipping-policy)
-  Updated: 2026-06-02T14:20:13+10:00
+  Updated: 2026-06-02T04:20:13Z
 - [Refund Policy](https://eltsydney.com/policies/refund-policy)
-  Updated: 2026-08-04T18:55:16+10:00
+  Updated: 2026-08-04T08:55:16Z
 - [Terms of Service](https://eltsydney.com/policies/terms-of-service)
-  Updated: 2026-05-14T18:38:53+10:00
+  Updated: 2026-05-14T08:38:53Z
 - [Contact Information](https://eltsydney.com/policies/contact-information)
-  Updated: 2026-08-04T19:06:37+10:00
+  Updated: 2026-08-04T09:06:37Z
 
 ## Optional
 
