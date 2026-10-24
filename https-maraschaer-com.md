@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2020-03-26T10:39:21Z
 - Contact Email: info@joycorporate.ch
-- Updated At: 2026-10-17T00:00:26.265Z
+- Updated At: 2026-10-24T00:42:22.182Z
 
 Mara Schär – Life & Business Coaching in Basel, Schweiz
 
@@ -697,6 +697,18 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
   - [Selbstvertrauen nach Kündigung stärken](https://maraschaer.com/blogs/news/selbstvertrauen-nach-kuendigung-staerken): Selbstvertrauen nach Kündigung stärken
     Updated: 2026-10-15T02:33:23Z
     Author: Admin
+  - [Coaching für Expats Schweiz - sicher ankommen](https://maraschaer.com/blogs/news/coaching-fuer-expats-schweiz): Coaching für Expats Schweiz - sicher ankommen
+    Updated: 2026-10-17T02:40:29Z
+    Author: Admin
+  - [Business Coaching oder Therapie - was passt dir?](https://maraschaer.com/blogs/news/business-coaching-oder-therapie): Business Coaching oder Therapie - was passt dir?
+    Updated: 2026-10-19T02:34:49Z
+    Author: Admin
+  - [Neuroleadership im Unternehmen wirksam nutzen](https://maraschaer.com/blogs/news/neuroleadership-im-unternehmen): Neuroleadership im Unternehmen wirksam nutzen
+    Updated: 2026-10-21T02:34:43Z
+    Author: Admin
+  - [Ein Beispiel für Burnout-Prävention im Unternehmen](https://maraschaer.com/blogs/news/burnout-praevention-im-unternehmen-beispiel): Ein Beispiel für Burnout-Prävention im Unternehmen
+    Updated: 2026-10-23T02:41:15Z
+    Author: Admin
 
 ## Store Pages
 
@@ -762,9 +774,9 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
 ## Policies
 
 - [Privacy Policy](https://maraschaer.com/policies/privacy-policy)
-  Updated: 2025-07-22T14:45:59+02:00
+  Updated: 2025-07-22T12:45:59Z
 - [Terms of Service](https://maraschaer.com/policies/terms-of-service)
-  Updated: 2025-07-22T14:47:07+02:00
+  Updated: 2025-07-22T12:47:07Z
 
 Products and Services
 
