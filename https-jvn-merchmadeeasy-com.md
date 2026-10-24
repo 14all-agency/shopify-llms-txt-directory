@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-17T00:00:43.241Z
+- Updated At: 2026-10-24T00:40:20.622Z
 
 ## Products
 
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot Slut University Tote](https://jvn.merchmadeeasy.com/products/hot-slut-university-tote): 100% cotton canvas tote in Black Hot Slut University graphic on the front
-  Updated: 2026-10-05T13:06:22Z
+  Updated: 2026-10-22T21:36:04Z
   Vendor: Jonathan Van Ness
   Product Type: Tote
   Availability: Available
@@ -187,24 +187,6 @@
   - [XL / Purple](https://jvn.merchmadeeasy.com/products/stun-queen-tee?variant=48320678527194)
     Availability: Available
     Price: $20.00 USD
-- [Stun Queen Crop Hoodie](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie): Stun Queen graphic with photo of Jonathan on the front Cropped hoodie Unisex
-  Updated: 2026-10-05T13:06:24Z
-  Vendor: Jonathan Van Ness
-  Product Type: Hoodie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198543-jvn-2a2a3587.png?v=1779121483
-  - [XL / Pink](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836722823386)
-    Availability: Not Available
-    Price: $50.00 USD
-  - [XL / Beige](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836723314906)
-    Availability: Not Available
-    Price: $50.00 USD
-  - [2X / Pink](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836722856154)
-    Availability: Available
-    Price: $50.00 USD
-  - [2X / Beige](https://jvn.merchmadeeasy.com/products/stun-queen-crop-hoodie?variant=47836723413210)
-    Availability: Not Available
-    Price: $50.00 USD
 - [Stun Queen Crop Tee](https://jvn.merchmadeeasy.com/products/stun-queen-crop-tee): Stun Queen graphic on the front with photo of Jonathan 100% cotton tee, cropped Unisex
   Updated: 2026-10-05T13:06:25Z
   Vendor: Jonathan Van Ness
@@ -218,13 +200,13 @@
     Availability: Available
     Price: $20.00 USD
 - [Stun Queen Crewneck](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck): Stun Queen graphic with photo of Jonathan on the front Unisex sweatshirt available in medium length or cropped
-  Updated: 2026-10-05T13:06:26Z
+  Updated: 2026-10-20T16:58:31Z
   Vendor: Jonathan Van Ness
   Product Type: Sweatshirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/868198545-jvn-2a2a3591.png?v=1779121771
   - [XL / Black Crew](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck?variant=47893914747098)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
   - [XL / Crop in Navy](https://jvn.merchmadeeasy.com/products/stun-queen-crewneck?variant=47893914779866)
     Availability: Available
@@ -236,11 +218,11 @@
     Availability: Available
     Price: $50.00 USD
 - [IUD Hoodie](https://jvn.merchmadeeasy.com/products/iud-hoodie): Jonathan Van Ness IUD 100% cotton Hoodie with IUD text graphic on the front.
-  Updated: 2026-10-05T13:06:26Z
+  Updated: 2026-10-23T09:34:34Z
   Vendor: Jonathan Van Ness
   Product Type: Hoodie
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
+  Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0002_IUD-Hoodie-Pink_45a97789-9982-44ea-ae77-0e4a20bca707.png?v=1786048482
   - [S / Black](https://jvn.merchmadeeasy.com/products/iud-hoodie?variant=48303333408986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0819/4893/4362/files/Mockup_0001_IUD-Hoodie-Black_ffe4e189-33b7-4cdf-b32c-29708fcd828a.png?v=1786048490
@@ -388,13 +370,13 @@
 ## Collections
 
 - [Home page](https://jvn.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-03T11:23:09Z
+  Updated: 2026-10-22T21:36:06Z
   Total Products: 6
 - [Apparel](https://jvn.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-15T11:22:30Z
+  Updated: 2026-10-22T21:34:17Z
   Total Products: 12
 - [Accessories](https://jvn.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-09-15T11:22:30Z
+  Updated: 2026-10-22T21:36:06Z
   Total Products: 10
 - [Hats](https://jvn.merchmadeeasy.com/collections/hats)
   Updated: 2026-06-03T15:43:39Z
@@ -403,8 +385,8 @@
   Updated: 2026-06-03T15:43:39Z
   Total Products: 0
 - [All](https://jvn.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-15T11:22:30Z
-  Total Products: 21
+  Updated: 2026-10-22T21:36:06Z
+  Total Products: 20
 - [Tour](https://jvn.merchmadeeasy.com/collections/tour)
   Updated: 2026-09-15T11:22:30Z
   Total Products: 7
@@ -421,15 +403,15 @@
 ## Policies
 
 - [Privacy Policy](https://jvn.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T14:55:43-05:00
+  Updated: 2026-06-18T19:55:43Z
 - [Shipping Policy](https://jvn.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-04-22T14:30:17-05:00
+  Updated: 2026-04-22T19:30:17Z
 - [Refund Policy](https://jvn.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T14:55:48-05:00
+  Updated: 2026-06-18T19:55:48Z
 - [Terms of Service](https://jvn.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-04-22T14:30:33-05:00
+  Updated: 2026-04-22T19:30:33Z
 - [Contact Information](https://jvn.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-04-22T14:30:24-05:00
+  Updated: 2026-04-22T19:30:24Z
 
 ## Optional
 
