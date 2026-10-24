@@ -9,61 +9,61 @@
 - Created At: 2025-07-28T21:38:02Z
 - Contact Email: contact@contixogroup.com
 - Address: 13947 Central Ave, Chino, CA 91710
-- Updated At: 2026-10-16T18:25:21.132Z
+- Updated At: 2026-10-24T00:19:56.162Z
 
 ## Products
 
 - [Contixo F30 Gaia](https://contixodrones.com/products/contixo-f30-gps-4k-drone-with-uhd-camera-brushless-motor-follow-me-2-batteries-carrying-case-foldable-fpv-quadcopter-for-kids-adults): The Contixo F30 Gaia is a foldable GPS drone with a 4K camera, designed for beginners and seasoned flyers alike. Weighing under 250g, it needs no FAA registration, and brushless motors deliver quiet, efficient power. GPS + GLONASS, Follow Me, Tap Fly, and Waypoint Navigation make cinematic shots easy, and two included batteries provide up to 32 minutes of total flight time. Key Features 4K UHD Camera: Clear, high-resolution aerial photos and 1080P video. GPS + GLONASS: Dual satellite positioning for accurate, reliable flight outdoors. Follow Me & Waypoints: Hands-free tracking and route planning with a built-in map. Intelligent Return Home: Returns automatically on low battery or lost connection. Brushless Motors: Quieter, longer-lasting, and more powerful than brushed motors. Two Batteries Included: Up to 32 minutes of total flight time, 16 minutes per battery. Long Range & Wind Resistant: Up to 3,600 feet of control range and stable flight in winds up to level 7. What's in the Box 1 x F30 Drone 1 x Remote Control 2 x Batteries 1 x Carrying Case
-  Updated: 2026-10-09T23:54:27Z
+  Updated: 2026-10-20T15:50:36Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/YWJzOi8vc3RvcmVpbWFnZXMvY29udGl4by83NmYyMGNiYzQxMWJhYmY0ODVhNjUzZTg0ODQ5ZWUzN2U4NjVlM2MyLmpwZWc.jpg?v=1757367599
   Price: $229.99 USD
 - [Contixo F23 Helio](https://contixodrones.com/products/contixo-f23-pro-drone): The Contixo F23 Helio is a GPS camera drone with a built-in 4.5" screen remote, so you can watch the live feed without a smartphone. GPS and optical flow keep it stable while Follow Me, circle flight, and waypoint routes help you capture smooth footage up to 600 feet away. Two included batteries deliver up to 46 minutes of total flight time. Key Features 4.5" Screen Remote: View live video, flight path, and telemetry right on the controller. GPS Smart Flight: Follow Me, Waypoint Flight, Orbit Mode, and Return to Home. Up to 46 Minutes of Flight: Two 7.4V 1600mAh batteries, each delivering up to 23 minutes. 720P HD Camera: 60° field of view with a lens adjustable from −90° to 0°. 5GHz FPV Transmission: Smooth live video up to 600 feet away. No FAA Registration: Weighs just 8.3 oz, under the FAA registration threshold. Complete Travel Kit: Includes a 16GB memory card, spare propellers, landing pad, and travel case. What's in the Box 1 x F23 Drone 1 x Remote Control with 4.5" Screen 2 x Rechargeable Batteries 1 x 16GB Memory Card 1 x Spare Propeller Set 1 x Landing Pad 1 x Micro-USB Cable 1 x Carrying Case
-  Updated: 2026-10-16T15:37:39Z
+  Updated: 2026-10-23T03:07:28Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F23-New-LI-1.jpg?v=1757367601
   Price: $149.99 USD
 - [Contixo F29 Altura Max](https://contixodrones.com/products/f29-altura-max): The Contixo F29 Altura Max is a foldable 4K drone with a 3-axis gimbal and a 5" HD touchscreen remote, built for cinematic footage without a smartphone. GPS positioning, optical flow, and automatic return home keep every flight stable and safe. Two included batteries deliver up to 46 minutes of total flight time. Key Features 4K UHD Camera: 3840×2160 photos and video with a 105° field of view and 70° adjustable angle. 3-Axis Gimbal: Smooth, shake-free footage with vertical, panoramic, and time-lapse modes. 5" HD Touchscreen Remote: Live video, flight data, and route planning right on the controller. Intelligent Flight Modes: GPS Follow, Orbit, Waypoints, Spiral, Far Fly, and Skyrocket. Long Range: Control range up to 3,000 m with up to 2,000 m of image transmission. Up to 46 Minutes of Flight: Two batteries, each providing up to 23 minutes. Under 249g: No FAA registration needed for recreational flying. What's in the Box 1 x F29 Drone 1 x Screen Remote Control 2 x Batteries 8 x Propeller Blades 1 x USB Cable 1 x Landing Pad 1 x Carrying Case 1 x 32GB SD Card 1 x User Manual
-  Updated: 2026-10-10T00:41:53Z
+  Updated: 2026-10-19T23:13:26Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F29-Image-03.jpg?v=1758838832
   Price: $499.99 USD
 - [Contixo F33 Vortex](https://contixodrones.com/products/contixo-f33-vortex): The Contixo F33 Vortex is a professional GPS drone for adults, with a 4K camera on a 2-axis gimbal and a 5.5" touchscreen remote. Brushless motors deliver up to 42 minutes of flight per battery, and front-side laser obstacle avoidance adds confidence on every flight. At 615g, FAA registration is required. Key Features 4K UHD Camera: 3840×2160 photos and 4K/30fps video with a 100° lens and 80° adjustable angle. 2-Axis Gimbal + EIS: Stabilized, shake-free footage with panoramic and time-lapse modes. 5.5" Touchscreen Remote: Live view and easy control right on the controller. Advanced Flight Modes: Follow Me, Orbit, Spiral, Far Fly, Skyrocket, Fixed Speed Cruise, and GPS Return Home. Obstacle Avoidance: Front-side laser sensing plus GPS and optical flow for precise hovering. Long Range: Digital real-time transmission up to 4 miles. Up to 42-Minute Flights: Efficient brushless motors keep you in the air longer. What's in the Box 1 x F33 Drone 1 x Screen Remote Control 1 x Battery 8 x Propeller Blades 1 x USB Cable 1 x Carrying Case 1 x 32GB SD Card 1 x User Manual
-  Updated: 2026-10-15T11:25:27Z
+  Updated: 2026-10-19T23:14:37Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F33-Image-04.jpg?v=1758839278
   Price: $799.99 USD
 - [Contixo F28 Stratus Max](https://contixodrones.com/products/f28-premium-2-axis-gimbal-drone): The Contixo F28 Stratus Max adds a 2-axis gimbal with electronic image stabilization to a compact 4K GPS drone. A 110° wide-angle lens captures sweeping landscapes, and GPS features like Follow Me, Waypoint, and Auto Return make smooth, cinematic footage easy. Up to 23 minutes of flight time and a 3,280-foot control range let you explore farther. Key Features 4K UHD Camera: 3840×2160 resolution with a 110° wide-angle lens and 70° adjustable angle. 2-Axis Gimbal + EIS: Reduces shake and vibration for steady, clear video. Follow Me & Waypoint: GPS tracking follows your moves or flies a route you tap on your phone. Real-Time FPV & Selfie Mode: Live video to your smartphone and easy aerial selfies. GPS Auto Return: Returns to the starting point when needed. Long Flight & Range: Up to 23 minutes per battery and up to 3,280 feet of control range. What's in the Box 1 x F28 Premium Drone 1 x Transmitter 1 x Battery (Installed) 1 x Landing Pad 8 x Replacement Blades
-  Updated: 2026-10-15T16:18:55Z
+  Updated: 2026-10-19T23:13:26Z
   Vendor: Contixo Drones
   Product Type: Drone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/81YAmziJmbL._AC_SL1500.jpg?v=1757367606
   Price: $279.99 USD
 - [Contixo F16 Ziro Mini Drone - Brushless Motors, Foldable, FAA-Exempt, Portable](https://contixodrones.com/products/contixo-f16-ziro): Fly smarter with the Contixo F16 Ziro Mini Drone! Features brushless motors, foldable design, FAA-exempt lightweight build, and smart flight modes for dynamic flying.
-  Updated: 2026-10-16T18:05:40Z
+  Updated: 2026-10-23T21:48:37Z
   Vendor: Contixo Drones
   Product Type: Drone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F16-ProHero.png?v=1757367608
   Price: $49.99 USD
 - [Contixo F21 Pro Drone - FAA-Exempt, Brushless Motors, FPV Screen, HD](https://contixodrones.com/products/f21-pro): Fly smarter with the Contixo F21 Pro Drone! Features brushless motors, 720p HD adjustable camera, FPV screen, foldable design, and advanced obstacle avoidance.
-  Updated: 2026-10-16T14:08:07Z
+  Updated: 2026-10-23T23:53:47Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F21-ProHero.png?v=1757367611
   Price: $149.99 USD
 - [Replacement Battery for F28 Stratus and F28 Stratus Max (2024+ Model)](https://contixodrones.com/products/contixo-replacement-drone-battery-2000mah-for-f28-f28pro-old-version): Keep your Contixo F28 Stratus and F28 Stratus Max in the air longer. This genuine Contixo replacement battery delivers the same power as the one that came in the box, so you can swap packs, recharge, and get back to flying without cutting your session short.This 2000mAh pack is for 2024 and newer F28 models. Own an original 2023 F28 or F28 Pro? Choose the 1500mAh 2023 battery instead.Features Genuine Contixo Power: Built to the original F28 Stratus and F28 Stratus Max specification for a secure fit and reliable, consistent output. More Time Flying: Each charge adds approximately 23 to 25 minutes of flight time, so a spare pack can double your time in the air. Built-In Protection: Integrated safety circuitry guards against overcharge, over-discharge, and short circuits for safe, dependable use. Rechargeable: Lightweight lithium polymer cells can be recharged hundreds of times. Worry-Free Support: Backed by a one-year manufacturer warranty plus US-based customer service and technical support. Specifications Battery Type: Lithium Polymer (Li-Po), rechargeable Voltage: 7.4V Capacity: 2000mAh Flight Time: Approximately 23 to 25 minutes What's Included1x Contixo F28 Stratus (2024+) Replacement BatteryCompatibility: Fits the 2024 and newer Contixo F28 Stratus and F28 Stratus Max. Not compatible with the 2023 F28 or F28 Pro.
-  Updated: 2026-10-14T23:51:36Z
+  Updated: 2026-10-23T22:50:36Z
   Vendor: Contixo Drones
   Product Type: Batteries
   Availability: Available
@@ -77,7 +77,7 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F19BatteryProKit.jpg?v=1757367618
   Price: $18.99 USD
 - [Replacement Battery for F19 Arvo](https://contixodrones.com/products/contixo-f19-replacement-1800mah-3-7v-drone-battery): Keep your Contixo F19 Arvo in the air longer. This genuine Contixo replacement battery delivers the same power as the one that came in the box, so you can swap packs, recharge, and get back to flying without cutting your session short.Features Genuine Contixo Power: Built to the original F19 Arvo specification for a secure fit and reliable, consistent output. More Time Flying: A fully charged spare pack can double your time in the air. Built-In Protection: Integrated safety circuitry guards against overcharge, over-discharge, and short circuits for safe, dependable use. Rechargeable: Lightweight lithium polymer cells can be recharged hundreds of times. Worry-Free Support: Backed by a one-year manufacturer warranty plus US-based customer service and technical support. Specifications Battery Type: Lithium Polymer (Li-Po), rechargeable Voltage: 3.7V Capacity: 1800mAh What's Included1x Contixo F19 Arvo Replacement BatteryCompatibility: Designed for the Contixo F19 Arvo drone only.
-  Updated: 2026-10-08T09:54:01Z
+  Updated: 2026-10-21T18:55:36Z
   Vendor: Contixo Drones
   Product Type: Batteries
   Availability: Available
@@ -91,14 +91,14 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F19_Replacement_Propellers.png?v=1757367622
   Price: $14.99 USD
 - [Replacement Battery for F28 and F28 Pro (2023 Model)](https://contixodrones.com/products/contixo-replacement-drone-battery-2000mah-for-f28-f28pro): Keep your Contixo F28 and F28 Pro (2023 model) in the air longer. This genuine Contixo replacement battery delivers the same power as the one that came in the box, so you can swap packs, recharge, and get back to flying without cutting your session short.This 1500mAh pack is for the original 2023 F28 and F28 Pro. If you own a 2024 or newer F28 Stratus or F28 Stratus Max, choose the 2000mAh F28 battery instead.Features Genuine Contixo Power: Built to the original F28 and F28 Pro (2023 model) specification for a secure fit and reliable, consistent output. More Time Flying: Each charge adds approximately 25 minutes of flight time, so a spare pack can double your time in the air. Built-In Protection: Integrated safety circuitry guards against overcharge, over-discharge, and short circuits for safe, dependable use. Rechargeable: Lightweight lithium polymer cells can be recharged hundreds of times. Worry-Free Support: Backed by a one-year manufacturer warranty plus US-based customer service and technical support. Specifications Battery Type: Lithium Polymer (Li-Po), rechargeable Voltage: 7.4V Capacity: 1500mAh Flight Time: Approximately 25 minutes What's Included1x Contixo F28 (2023) Replacement BatteryCompatibility: Fits the 2023 Contixo F28 and F28 Pro only. Not compatible with 2024 and newer F28 Stratus or F28 Stratus Max models.
-  Updated: 2026-10-14T02:36:36Z
+  Updated: 2026-10-21T00:14:27Z
   Vendor: Contixo Drones
   Product Type: Batteries
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/1_6742b1cd-1aee-4d88-80cc-82c287009e36.png?v=1757367623
   Price: $39.99 USD
 - [Replacement Battery for F36 Apollo](https://contixodrones.com/products/contixo-replacement-drone-battery-2100mah-for-f36): Keep your Contixo F36 Apollo in the air longer. This genuine Contixo replacement battery delivers the same power as the one that came in the box, so you can swap packs, recharge, and get back to flying without cutting your session short.Features Genuine Contixo Power: Built to the original F36 Apollo specification for a secure fit and reliable, consistent output. More Time Flying: Each charge adds approximately 25 minutes of flight time, so a spare pack can double your time in the air. Built-In Protection: Integrated safety circuitry guards against overcharge, over-discharge, and short circuits for safe, dependable use. Rechargeable: Lightweight lithium polymer cells can be recharged hundreds of times. Worry-Free Support: Backed by a one-year manufacturer warranty plus US-based customer service and technical support. Specifications Battery Type: Lithium Polymer (Li-Po), rechargeable Voltage: 7.7V Capacity: 2100mAh Flight Time: Approximately 25 minutes What's Included1x Contixo F36 Apollo Replacement BatteryCompatibility: Designed for the Contixo F36 Apollo drone only.
-  Updated: 2026-10-09T01:12:23Z
+  Updated: 2026-10-21T16:58:56Z
   Vendor: Contixo Drones
   Product Type: Batteries
   Availability: Available
@@ -106,7 +106,7 @@
   Price: $59.99 USD
 - [Contixo TD2 Butterfly Kids Drone - LED Lights, 360-](https://contixodrones.com/products/contixo-td2-butterfly-drone-with-led-light-effects): Soar to new heights with the Contixo TD2 Butterfly Kids Drone! Easy to fly, 360- stunts, and 
  LED lights are perfect for fun and learn
-  Updated: 2026-10-16T17:06:56Z
+  Updated: 2026-10-23T22:52:46Z
   Vendor: Contixo Drones
   Product Type: Drone
   Availability: Available
@@ -120,7 +120,7 @@
     Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/1P.jpg?v=1757367634
     Price: $99.99 USD
 - [Contixo TD1 Dragonfly](https://contixodrones.com/products/contixo-td1-dragonfly): The Contixo TD1 Dragonfly is a light-up stunt drone made for kids and beginners. One-button takeoff, landing, and altitude hold keep flights simple, while 360° rotations and flips add the excitement. Bright LED strips light up night flights, and two rechargeable batteries extend play time up to 16 minutes. Key Features 360° Stunts: Rotations and flips at the press of a button. LED Light Effects: Bright LED strips light up the drone for night flying. Easy to Fly: One-button takeoff and landing, altitude hold, and headless mode. Speed Switch: 2.4GHz anti-interference remote with adjustable speed for multiple players at once. Two Batteries: Up to 16 minutes of total flight time. Protected Propellers: A round guard surrounds the propellers for safer play. Pocket Size: Measures just 6.7 x 6.7 x 1.6 inches. What's in the Box 1 x TD1 Drone 1 x Remote Control 2 x Batteries 2 x Spare Propellers 1 x Charging Cable 1 x Mini Screwdriver
-  Updated: 2026-10-16T14:27:36Z
+  Updated: 2026-10-23T22:52:49Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
@@ -134,14 +134,14 @@
     Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/1_5a1f0500-af9a-4fae-bb58-3aab49838a82.jpg?v=1757367636
     Price: $37.99 USD
 - [Contixo F28 Stratus](https://contixodrones.com/products/contixo-f28-stratus): The Contixo F28 Stratus is a compact GPS drone with a 2K camera in a sub-250g foldable frame. GPS and intelligent flight modes like Follow Me, Waypoint, Orbit, and Selfie Mode handle the hard work, while panoramic and time-lapse modes expand your creative options. It is FAA registration-exempt for recreational use. Key Features 2K Camera with Gimbal: 2048×1152 photos with an 85° lens and gimbal-stabilized tilt from −90° to 0°. GPS Smart Flight: Follow Me, Waypoint, Orbit, and Selfie Mode. 5GHz Live Video: Stable, low-latency FPV up to 1,000 feet through the Contixo F28 app. 1,700-Foot Control Range: 2.4GHz controller for confident range in open areas. Extended Flight Time: 7.4V 2000mAh battery and 1503 brushless motors for long sessions. Creative Modes: Panoramic capture, time-lapse, and one-key scenic flight paths. Sub-250g Foldable Design: Weighs 247g, so no FAA registration is needed for recreational use. What's in the Box 1 x F28 Stratus Drone 1 x Remote Control 1 x Intelligent Flight Battery 1 x Type-C Charging Cable
-  Updated: 2026-10-16T13:02:57Z
+  Updated: 2026-10-24T00:17:27Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F28-2_copy.jpg?v=1757367639
   Price: $159.99 USD
 - [Contixo F19 Arvo](https://contixodrones.com/products/contixo-f19-arvo): The Contixo F19 Arvo is a compact, foldable camera drone that makes it easy for beginners to get airborne right out of the box. Its built-in WiFi camera records 1080P Full HD photos and video, and auto-hovering keeps it steady so you can focus on the shot. Two included 1800mAh batteries keep the fun going longer. Key Features Full HD WiFi Camera: Captures 1920×1080 photos and video with a 90° field of view. Auto-Hover Stability: Altitude hold keeps the drone locked in position for smooth, controlled flights. Two Batteries Included: Two 1800mAh Li-Po batteries for back-to-back flight sessions. 2.4GHz Remote Control: Responsive control up to 80 meters in open conditions. Live FPV via Free App: Stream real-time video through the WiFi UAV app on iOS or Android. Foldable & Lightweight: Weighs just 143g and folds to 5.59 x 2.91 x 2.04 inches for easy carrying.
-  Updated: 2026-10-16T18:05:46Z
+  Updated: 2026-10-23T23:53:42Z
   Vendor: Contixo Drones
   Product Type: Drone
   Availability: Available
@@ -162,7 +162,7 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F22F24-main1_7ecb5b77-d262-47a5-b35d-8972bfbe9cd4.png?v=1757367650
   Price: $39.99 USD
 - [Replacement Remote Controller for F35 Hermes](https://contixodrones.com/products/contixo-f35-drone-spare-transmitter-remote-controller-high-range-drone-transmitter-contixo-f35-remote): Lost, broken, or worn-out controller? This genuine Contixo replacement remote is made for the F35 Hermes, so you can get back to flying with the same controls and feel as the original.Features Original Contixo Controller: Same layout and functions as the remote included with the F35 Hermes, so there is nothing new to learn. Reliable Connection: Pairs with your drone for responsive, dependable control. Familiar One-Key Controls: Takeoff, landing, and flight functions work just like the original remote. Worry-Free Support: Backed by a one-year manufacturer warranty plus US-based customer service and technical support. What's Included1x Contixo F35 Hermes Replacement Remote ControllerCompatibility: Designed for the Contixo F35 Hermes drone only. Pair the remote with your drone following the instructions in your owner's manual.
-  Updated: 2026-10-08T09:54:41Z
+  Updated: 2026-10-23T08:21:16Z
   Vendor: Contixo Drones
   Product Type: Remote Controllers
   Availability: Available
@@ -254,7 +254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/f22-1-1500_1fd3e384-dc14-4292-972d-f38310a119f6.jpg?v=1757367692
   Price: $179.99 USD
 - [Contixo F22 GPS Drone - 1080P Camera, Foldable Design, 18-Min](https://contixodrones.com/products/contixo-f22-fpv-drone-with-camera): Explore the skies with the Contixo F22 GPS Drone-1080P camera, foldable design, 18-min flight time, and GPS-assisted features like Follow Me and Orbit Mode. Perfect for all
-  Updated: 2026-10-10T00:38:50Z
+  Updated: 2026-10-22T03:50:28Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
@@ -275,21 +275,21 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/71M8Kxi97SL._AC_SL1500.jpg?v=1772826206
   Price: $59.99 USD
 - [Replacement Propeller Kit for F33 Vortex](https://contixodrones.com/products/replacement-propeller-kit-for-f33-vortex): Get back in the air fast after a hard landing or a run-in with a tree. This genuine Contixo propeller kit is made for the F33 Vortex, so the blades fit cleanly and keep your drone flying smooth, stable, and balanced.Features Exact Fit: Matched to the F33 Vortex motor shafts and arm design for secure, wobble-free installation. Durable ABS Construction: High-quality ABS plastic resists cracking and tearing under flight stress. Restores Performance: Fresh, balanced blades reduce vibration for steadier hovering and smoother video. Quick Swap: Keep a spare set in your case so a damaged blade never ends the flying day. Specifications Material: ABS plastic Color: Black with yellow tips Installation: Install with the yellow tips facing up. What's Included4 propellersCompatibility: Designed for the Contixo F33 Vortex drone only.
-  Updated: 2026-10-15T23:01:27Z
+  Updated: 2026-10-23T04:01:27Z
   Vendor: Contixo Drones
   Product Type: Propellers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F33-Image-13.jpg?v=1772041115
   Price: $29.99 USD
 - [Replacement Propeller Kit for F29 Altura Max](https://contixodrones.com/products/replacement-propeller-kit-for-f29-altura-max): Get back in the air fast after a hard landing or a run-in with a tree. This genuine Contixo propeller kit is made for the F29 Altura Max, so the blades fit cleanly and keep your drone flying smooth, stable, and balanced.Features Exact Fit: Matched to the F29 Altura Max motor shafts and arm design for secure, wobble-free installation. Durable ABS Construction: High-quality ABS plastic resists cracking and tearing under flight stress. Restores Performance: Fresh, balanced blades reduce vibration for steadier hovering and smoother video. Quick Swap: Keep a spare set in your case so a damaged blade never ends the flying day. Specifications Material: ABS plastic Color: Black with yellow tips Installation: Install with the yellow tips facing up. What's Included4 propellersCompatibility: Designed for the Contixo F29 Altura Max drone only.
-  Updated: 2026-10-08T09:55:04Z
+  Updated: 2026-10-21T11:19:36Z
   Vendor: Contixo Drones
   Product Type: Propellers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F29-Image-10.jpg?v=1772041591
   Price: $19.99 USD
 - [Contixo F15 Astro](https://contixodrones.com/products/contixo-f15-astro): The Contixo F15 Astro is built for young pilots and first-time fliers, with a 2.4" screen remote that shows live video without a smartphone. One-key takeoff, altitude hold, and headless mode keep every flight steady, while RGB LED lights and 3D flips make it fun to fly day or night. Two included batteries deliver up to 12 minutes of total flight time. Key Features 720P HD Camera: Captures 1280×720 photos and video at 30fps with a 60° wide-angle lens and a lens angle adjustable from −90° to 90°. 2.4" Screen Remote: Live FPV video appears right on the controller, so there is no phone or app to set up. Beginner-Friendly Controls: One-key takeoff and landing, altitude hold, and headless mode help new pilots stay in control. Smart Flight Modes: Gesture selfie, trajectory flight, and gravity sensing add creative ways to fly. Reliable 2.4GHz Signal: Control range up to 350 feet with FPV video up to 150 feet. Two Rechargeable Batteries: Two 580mAh batteries provide up to 12 minutes of combined flight time. Flips, Lights & Safety: One-button 3D flips, RGB LED lighting, and an emergency stop button for quick motor cutoff.
-  Updated: 2026-10-08T06:56:38Z
+  Updated: 2026-10-21T09:47:40Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
@@ -307,7 +307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F15-Pink-Image-01.jpg?v=1775068867
     Price: $99.99 USD
 - [Contixo F27 Halo](https://contixodrones.com/products/contixo-f27-halo): The Contixo F27 Halo is a foldable, light-up drone built for beginners and young fliers who want a step-up experience without the learning curve. Its 4.3" screen remote shows live video with no smartphone required, and optical flow positioning with altitude hold keeps it steady. Two included batteries provide up to 18 minutes of total flight time. Key Features 720P HD Camera: 1280×720 video at 30fps with a 60° lens and 90° adjustable tilt. 4.3" Screen Remote: Live FPV viewing right out of the box, no app needed. Optical Flow & Altitude Hold: Dual stabilization keeps the drone hovering precisely. Flips & LED Lights: One-button 360° flips and multi-color LED modes for day and night flying. Smart Flight Modes: Gesture control, trajectory flight, and headless mode. Two Rechargeable Batteries: Two 1300mAh batteries for up to 18 minutes of combined flight. Built-In Propeller Guards: Integrated guards add safety for new pilots. What's in the Box 1 x F27 Halo Drone 1 x Remote Control with 4.3" Screen 2 x 1300mAh Rechargeable Batteries
-  Updated: 2026-10-16T14:08:08Z
+  Updated: 2026-10-22T13:41:43Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
@@ -328,14 +328,14 @@
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F23PropellerSet.jpg?v=1775632259
   Price: $14.99 USD
 - [Replacement Propeller Set for F28](https://contixodrones.com/products/replacement-propeller-set-for-f28): Get back in the air fast after a hard landing or a run-in with a tree. This genuine Contixo propeller kit is made for the F28 Stratus, so the blades fit cleanly and keep your drone flying smooth, stable, and balanced.Features Exact Fit: Matched to the F28 Stratus motor shafts and arm design for secure, wobble-free installation. Durable ABS Construction: High-quality ABS plastic resists cracking and tearing under flight stress. Restores Performance: Fresh, balanced blades reduce vibration for steadier hovering and smoother video. Quick Swap: Keep a spare set in your case so a damaged blade never ends the flying day. Specifications Material: ABS plastic Installation: Follow your owner's manual to match each blade to the correct motor. What's Included4 propellersCompatibility: Designed for the Contixo F28 Stratus drone.
-  Updated: 2026-10-08T09:55:04Z
+  Updated: 2026-10-21T09:58:56Z
   Vendor: Contixo Drones
   Product Type: Propellers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0763/2506/0854/files/F28PropellerSet.jpg?v=1775632460
   Price: $14.99 USD
 - [Contixo F26 Volant](https://contixodrones.com/products/f26-volant): The Contixo F26 Volant is made for first flights that feel easy and fun. A 4.3" screen remote shows live video with no phone needed, while brushless motors and optical flow keep it hovering smoothly. Four-sided infrared sensing helps detect nearby obstacles so new pilots can explore with confidence. Key Features 4.3" Screen Remote: Real-time FPV right on the controller, so you can pick it up and fly. Brushless Motors: Smooth, steady power paired with optical flow stabilization. Obstacle Sensing: Four-sided infrared sensors help detect nearby obstacles. 480P Camera: Record your flights with live FPV transmission up to 240 feet. Dual-Battery System: 2000mAh drone battery plus a 1200mAh controller battery. One-Key Controls: Takeoff, landing, return, and emergency stop at the press of a button. What's in the Box 1 x F26 Drone 1 x Remote Controller with 4.3" Screen 2 x Batteries 1 x 16GB SD Card 1 x Transport Case 1 x Type-C Data Cable 4 x Propeller Guards 8 x Propeller Blades
-  Updated: 2026-10-15T22:06:37Z
+  Updated: 2026-10-23T13:02:35Z
   Vendor: Contixo Drones
   Product Type: 
   Availability: Available
@@ -345,22 +345,22 @@
 ## Collections
 
 - [Accessories](https://contixodrones.com/collections/accessories)
-  Updated: 2026-10-16T11:29:12Z
+  Updated: 2026-10-23T12:08:12Z
   Total Products: 31
 - [Pro Series](https://contixodrones.com/collections/pro-series)
-  Updated: 2026-10-07T01:52:06Z
+  Updated: 2026-10-23T01:32:17Z
   Total Products: 10
 - [Core Series](https://contixodrones.com/collections/core-series)
-  Updated: 2026-10-07T01:52:06Z
+  Updated: 2026-10-23T01:33:01Z
   Total Products: 12
 - [Batteries](https://contixodrones.com/collections/batteries)
-  Updated: 2026-10-15T11:24:04Z
+  Updated: 2026-10-23T12:08:12Z
   Total Products: 13
 - [Propellers](https://contixodrones.com/collections/propellers)
-  Updated: 2026-10-16T11:29:12Z
+  Updated: 2026-10-23T12:08:12Z
   Total Products: 11
 - [Remote Controllers](https://contixodrones.com/collections/remote-controllers)
-  Updated: 2026-10-07T21:56:55Z
+  Updated: 2026-10-23T12:08:12Z
   Total Products: 6
 - [Storage](https://contixodrones.com/collections/storage)
   Updated: 2026-10-07T21:57:12Z
@@ -885,6 +885,18 @@
     Updated: 2026-10-16T13:01:31Z
     Author: Contixo Drones
     Tags: advanced, aerial photography, affordable, affordable drones, beginner, beginner drones, cinematography, consumer-grade drones, drone, drone safety guidelines, drones, easy-to-use, essential drone rules, flying, fpv flying, hobby, no-fly zones, premium, videography
+  - [Advanced Cinematography with Premium Drones: Navigating FAA Registration and Regulations](https://contixodrones.com/blogs/posts/advanced-cinematography-with-premium-drones-navigating-faa-registration-and-regulations): Advanced Cinematography with Premium Drones: Navigating FAA Registration and Regulations
+    Updated: 2026-10-19T13:03:33Z
+    Author: Contixo Drones
+    Tags: advanced, advanced filming, aerial footage, aerial photography, affordable, beginner, cinematography, consumer-grade drones, drone, drone photography, drones, easy-to-use, faa, fpv flying, navigating drone regulations, no-fly zones, premium, premium drone usage, videography
+  - [How to Master Aerial Photography with Easy-to-Use Consumer-Grade Drones](https://contixodrones.com/blogs/posts/how-to-master-aerial-photography-with-easy-to-use-consumer-grade-drones): How to Master Aerial Photography with Easy-to-Use Consumer-Grade Drones
+    Updated: 2026-10-21T13:03:38Z
+    Author: Contixo Drones
+    Tags: advanced, aerial, aerial photography, affordable, beginner, best drones for beginners, cinematography, consumer drones, consumer-grade drones, drone, drone tips, drones, easy photography, easy-to-use, fpv flying, master aerial photography, no-fly zones, photography, premium, videography
+  - [Exploring the World of FPV Flying with New Affordable Drone Releases](https://contixodrones.com/blogs/posts/exploring-the-world-of-fpv-flying-with-new-affordable-drone-releases): Exploring the World of FPV Flying with New Affordable Drone Releases
+    Updated: 2026-10-23T13:01:39Z
+    Author: Contixo Drones
+    Tags: advanced, aerial photography, affordable, affordable drones, beginner, beginner fpv guides, cinematography, consumer-grade drones, drone, drone technology, drones, easy-to-use, flying, fpv, fpv flying, fpv flying tips, new drone features, no-fly zones, premium, videography
 
 ## Store Pages
 
@@ -902,15 +914,15 @@
 ## Policies
 
 - [Privacy Policy](https://contixodrones.com/policies/privacy-policy)
-  Updated: 2025-07-28T14:38:14-07:00
+  Updated: 2025-07-28T21:38:14Z
 - [Shipping Policy](https://contixodrones.com/policies/shipping-policy)
-  Updated: 2025-08-22T14:42:53-07:00
+  Updated: 2025-08-22T21:42:53Z
 - [Refund Policy](https://contixodrones.com/policies/refund-policy)
-  Updated: 2025-08-22T14:38:40-07:00
+  Updated: 2025-08-22T21:38:40Z
 - [Terms of Service](https://contixodrones.com/policies/terms-of-service)
-  Updated: 2025-08-22T14:39:45-07:00
+  Updated: 2025-08-22T21:39:45Z
 - [Contact Information](https://contixodrones.com/policies/contact-information)
-  Updated: 2025-08-22T14:34:39-07:00
+  Updated: 2025-08-22T21:34:39Z
 
 ## Optional
 
