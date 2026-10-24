@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-10-17T00:00:39.431Z
+- Updated At: 2026-10-24T00:43:41.286Z
 
 ## Products
 
@@ -121,6 +121,14 @@
     Updated: 2026-10-15T12:00:55Z
     Author: CHEETALS
     Tags: due diligence, essential real estate advice, first time home buyers, home buyer due-diligence, income, , passive income, property , real estate, real estate strategy tips
+  - [How First-Time Home Buyers Can Create Passive Income](https://cheetals.com/blogs/news/how-first-time-home-buyers-can-create-passive-income): How First-Time Home Buyers Can Create Passive Income
+    Updated: 2026-10-20T12:01:05Z
+    Author: CHEETALS
+    Tags: build wealth strategies, first time home buyers, first-time buyers, home buyer due-diligence, income property, , long-term financial success, passive income, real estate, rental units
+  - [Avoid Costly Mistakes: A First-Time Home Buyer's Due Diligence Checklist](https://cheetals.com/blogs/news/avoid-costly-mistakes-a-first-time-home-buyers-due-diligence-checklist): Avoid Costly Mistakes: A First-Time Home Buyer's Due Diligence Checklist
+    Updated: 2026-10-22T12:01:45Z
+    Author: CHEETALS
+    Tags: due diligence, first time home buyers, first-time buyer, home buyer due-diligence, home buying, income, money, passive income, property  checklist, real estate, smart home purchase tips
 
 ## Store Pages
 
@@ -134,9 +142,9 @@
 ## Policies
 
 - [Privacy Policy](https://cheetals.com/policies/privacy-policy)
-  Updated: 2026-04-12T19:56:24-03:00
+  Updated: 2026-04-12T22:56:24Z
 - [Terms of Service](https://cheetals.com/policies/terms-of-service)
-  Updated: 2026-04-12T20:01:28-03:00
+  Updated: 2026-04-12T23:01:28Z
 
 ## Optional
 
