@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2019-11-25T17:04:18Z
 - Contact Email: support@wellingtonempire.com
-- Updated At: 2026-10-17T00:00:46.299Z
+- Updated At: 2026-10-24T00:33:25.195Z
 
 ## Products
 
@@ -1226,32 +1226,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/S4313729ed4a6410caa2874ee1ded4efbM.webp?v=1764256180
   Price: $32.00 USD
-- [Small 6 Cup Bright White Water Filter Pitcher with Standard Filter, BPA-Free for Clean Drinking Water, Compact Fridge Design](https://www.wellingtonempire.com/products/small-6-cup-bright-white-water-filter-pitcher-with-standard-filter-bpa-free-for-clean-drinking-water-compact-fridge-design): SPECIFICATIONSBrand Name: NoEnName_NullHign-concerned Chemical: NoneOrigin: US(Origin)
-  Updated: 2026-09-05T09:08:26Z
-  Vendor: Generic
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/S8ce95f604a6e44ee9e8b989409c21e2bL.webp?v=1764256182
-  Price: $64.95 USD
-- [Potato Peelers Double Head Hand Stainless Steel Peeler Kitchen Utensils & Gadgets With Comfortable Handle For Kids Family](https://www.wellingtonempire.com/products/potato-peelers-double-head-hand-stainless-steel-peeler-kitchen-utensils-gadgets-with-comfortable-handle-for-kids-family): SPECIFICATIONSBlade Material: Stainless SteelBrand Name: NoEnName_NullCertification: CIQFeature: Eco-FriendlyFruit & Vegetable Tools Type: GratersHigh-concerned chemical: NoneMaterial: PlasticModel Number: Potato PeelersOrigin: Mainland ChinaType: Fruit & Vegetable Toolssuitable_for: Young people, elderly, childrenusage_scenarios: Chinese New Year, Valentine's Day
-  Updated: 2026-09-05T10:13:46Z
-  Vendor: Generic
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/Se413324b86f048f7bac82ad2c8c2c643I.webp?v=1764256357
-  - [Blue / United States](https://www.wellingtonempire.com/products/potato-peelers-double-head-hand-stainless-steel-peeler-kitchen-utensils-gadgets-with-comfortable-handle-for-kids-family?variant=52045372293409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/Sd63bef73e05540f492d9f412179a803b0.webp?v=1764256357
-    Price: $8.00 USD
-  - [Blue / CHINA](https://www.wellingtonempire.com/products/potato-peelers-double-head-hand-stainless-steel-peeler-kitchen-utensils-gadgets-with-comfortable-handle-for-kids-family?variant=52045372424481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/Sd63bef73e05540f492d9f412179a803b0.webp?v=1764256357
-    Price: $8.00 USD
-  - [Blue / GERMANY](https://www.wellingtonempire.com/products/potato-peelers-double-head-hand-stainless-steel-peeler-kitchen-utensils-gadgets-with-comfortable-handle-for-kids-family?variant=52045372457249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0281/4695/8411/files/Sd63bef73e05540f492d9f412179a803b0.webp?v=1764256357
-    Price: $8.00 USD
-[List Continued](https://www.wellingtonempire.com/a/llms-agent/llms.txt?shop=wellington-sports.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE5NDI3MjUxODQzMywibGFzdF92YWx1ZSI6IjEwMTk0MjcyNTE4NDMzIn0%3D)
+[List Continued](https://www.wellingtonempire.com/a/llms-agent/llms.txt?shop=wellington-sports.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDE5NDI2MzE3OTU1MywibGFzdF92YWx1ZSI6IjEwMTk0MjYzMTc5NTUzIn0%3D)
 
 ## Collections
 
@@ -1592,6 +1567,45 @@
   - [The Beginner's Guide to Safe Food Handling in Your Kitchen](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/the-beginners-guide-to-safe-food-handling-in-your-kitchen): The Beginner's Guide to Safe Food Handling in Your Kitchen
     Updated: 2026-10-16T00:51:35Z
     Author: Wellington Empire
+  - [Sandwich Trends That Are Capturing Global Taste Buds](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/sandwich-trends-that-are-capturing-global-taste-buds): Sandwich Trends That Are Capturing Global Taste Buds
+    Updated: 2026-10-17T00:11:09Z
+    Author: Wellington Empire
+  - [Top Tools for Effortless Meal Prep](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/top-tools-for-effortless-meal-prep): Top Tools for Effortless Meal Prep
+    Updated: 2026-10-17T00:47:59Z
+    Author: Wellington Empire
+  - [Expert Solutions to Enhance Your Saucing Skills](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/expert-solutions-to-enhance-your-saucing-skills): Expert Solutions to Enhance Your Saucing Skills
+    Updated: 2026-10-18T00:09:38Z
+    Author: Wellington Empire
+  - [How to Choose the Perfect Kitchen Color Scheme](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/how-to-choose-the-perfect-kitchen-color-scheme): How to Choose the Perfect Kitchen Color Scheme
+    Updated: 2026-10-18T00:33:42Z
+    Author: Wellington Empire
+  - [A Comprehensive Exploration of the Farm-to-Table Movement](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/a-comprehensive-exploration-of-the-farm-to-table-movement): A Comprehensive Exploration of the Farm-to-Table Movement
+    Updated: 2026-10-19T00:20:30Z
+    Author: Wellington Empire
+  - [Exploring the Origins of Popular Kitchen Gadgets](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/exploring-the-origins-of-popular-kitchen-gadgets): Exploring the Origins of Popular Kitchen Gadgets
+    Updated: 2026-10-19T00:44:12Z
+    Author: Wellington Empire
+  - [An Educational Dive into Cookware Material Options](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/an-educational-dive-into-cookware-material-options): An Educational Dive into Cookware Material Options
+    Updated: 2026-10-20T00:47:02Z
+    Author: Wellington Empire
+  - [Comparing Lunchbox Ideas for Kids: Balancing Nutrition and Fun](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/comparing-lunchbox-ideas-for-kids-balancing-nutrition-and-fun): Comparing Lunchbox Ideas for Kids: Balancing Nutrition and Fun
+    Updated: 2026-10-21T00:08:37Z
+    Author: Wellington Empire
+  - [Compare Popular Gadgets for Kitchen Time-Saving](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/compare-popular-gadgets-for-kitchen-time-saving): Compare Popular Gadgets for Kitchen Time-Saving
+    Updated: 2026-10-21T00:48:15Z
+    Author: Wellington Empire
+  - [Transforming Your Kitchen Mindset with Minimalist Strategies](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/transforming-your-kitchen-mindset-with-minimalist-strategies): Transforming Your Kitchen Mindset with Minimalist Strategies
+    Updated: 2026-10-22T00:47:23Z
+    Author: Wellington Empire
+  - [The Art of Spice Pairings: Unlocking Their Hidden Potentials](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/the-art-of-spice-pairings-unlocking-their-hidden-potentials): The Art of Spice Pairings: Unlocking Their Hidden Potentials
+    Updated: 2026-10-23T00:11:00Z
+    Author: Wellington Empire
+  - [10 Ingenious Kitchen Hacks to Simplify Your Cooking Routine](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/10-ingenious-kitchen-hacks-to-simplify-your-cooking-routine): 10 Ingenious Kitchen Hacks to Simplify Your Cooking Routine
+    Updated: 2026-10-23T01:01:26Z
+    Author: Wellington Empire
+  - [10 Must-Try Street Foods Around the World](https://www.wellingtonempire.com/blogs/everyday-kitchen-helpers/10-must-try-street-foods-around-the-world): 10 Must-Try Street Foods Around the World
+    Updated: 2026-10-24T00:09:42Z
+    Author: Wellington Empire
 - [2026 Tips & Tricks](https://www.wellingtonempire.com/blogs/2026-tips-tricks)
   - [Top 10 Must-Have Kitchen Gadgets in 2026: Upgrade Your Cooking Game](https://www.wellingtonempire.com/blogs/2026-tips-tricks/top-10-must-have-kitchen-gadgets-in-2026-upgrade-your-cooking-game): <p>Upgrade your kitchen in 2026 with the top 10 must-have kitchen gadgets every home cook needs. From smart multi-function cookers to high-speed blenders, these innovative tools save time, improve meal prep, and make cooking more enjoyable. Discover trending gadgets that combine efficiency, versatility, and style while exploring our <a href="https://www.wellingtonempire.com/collections/kitchen-tools-gadgets" target="_blank" rel="noopener">Kitchen Tools &amp; Gadgets</a>, <a href="https://www.wellingtonempire.com/collections/prep-tools" target="_blank" rel="noopener">Prep Tools</a> and <a href="https://www.wellingtonempire.com/collections/storage-organisation">Storage &amp; Organisation</a> collections. Make your kitchen smarter and more functional in 2026!</p>
     Updated: 2025-12-29T13:21:12Z
@@ -1634,15 +1648,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.wellingtonempire.com/policies/privacy-policy)
-  Updated: 2025-11-27T07:43:34+00:00
+  Updated: 2025-11-27T07:43:34Z
 - [Shipping Policy](https://www.wellingtonempire.com/policies/shipping-policy)
-  Updated: 2025-11-27T08:02:13+00:00
+  Updated: 2025-11-27T08:02:13Z
 - [Refund Policy](https://www.wellingtonempire.com/policies/refund-policy)
-  Updated: 2026-06-25T04:21:13+01:00
+  Updated: 2026-06-25T03:21:13Z
 - [Terms of Service](https://www.wellingtonempire.com/policies/terms-of-service)
-  Updated: 2025-11-27T07:58:06+00:00
+  Updated: 2025-11-27T07:58:06Z
 - [Contact Information](https://www.wellingtonempire.com/policies/contact-information)
-  Updated: 2025-12-03T18:10:03+00:00
+  Updated: 2025-12-03T18:10:03Z
 
 ## Optional
 
