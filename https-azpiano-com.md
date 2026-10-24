@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2021-03-12T22:00:33Z
 - Contact Email: info@azpiano.com
-- Updated At: 2026-10-17T00:00:24.571Z
+- Updated At: 2026-10-24T00:34:51.545Z
 
 ## Products
 
@@ -1340,7 +1340,49 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20260904_145857.jpg?v=1790204480
   Price: $24,988.00 USD
-[List Continued](https://azpiano.com/a/llms-agent/llms.txt?shop=az-piano.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYwOTQ3NzA5MTUxMiwibGFzdF92YWx1ZSI6IjEwNjA5NDc3MDkxNTEyIn0%3D)
+- [Steinway & Sons Model B](https://azpiano.com/products/steinway-sons-model-b): MODEL NUMBER: BSERIAL NUMBER: 399636YEAR: N/ASIZE: 6'11" (211 cm) semi-concert grand pianoCOLOR/FINISH STYLE: Satin EbonyADDITIONAL DETAILS: INCLUDES ARTIST BENCH
+  Updated: 2026-10-22T07:37:24Z
+  Vendor: AZ PIANO
+  Product Type: USED GRAND PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261014_140838.jpg?v=1792612436
+  Price: $0.00 USD
+- [Steinway & Sons Model L](https://azpiano.com/products/steinway-sons-model-l): MODEL NUMBER: LSERIAL NUMBER: 498985YEAR: N/ASIZE: 5'10.5" (179 cm) grand pianoCOLOR/FINISH STYLE: Satin EbonyADDITIONAL DETAILS: INCLUDES ARTIST BENCH
+  Updated: 2026-10-22T08:07:05Z
+  Vendor: AZ PIANO
+  Product Type: USED GRAND PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261014_140601.jpg?v=1792612802
+  Price: $0.00 USD
+- [Schimmel Classic P - 350.551](https://azpiano.com/products/schimmel-classic-p-350-551): MODEL NUMBER: Classic PSERIAL NUMBER: 350.551YEAR: N/ASIZE: N/ACOLOR/FINISH STYLE: Polished BlackADDITIONAL DETAILS: INCLUDES BENCH
+  Updated: 2026-10-23T11:30:26Z
+  Vendor: AZ PIANO
+  Product Type: USED UPRIGHT PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261022_131226.jpg?v=1792711812
+  Price: $0.00 USD
+- [Yamaha U1](https://azpiano.com/products/yamaha-u1-1): MODEL NUMBER: U1SERIAL NUMBER: 6174330YEAR: N/ASIZE: 48"COLOR/FINISH STYLE: Polished BlackADDITIONAL DETAILS: INCLUDES BENCH
+  Updated: 2026-10-23T11:36:21Z
+  Vendor: AZ PIANO
+  Product Type: USED UPRIGHT PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261022_131407.jpg?v=1792712131
+  Price: $0.00 USD
+- [Kingsburg](https://azpiano.com/products/kingsburg): MODEL NUMBER: KF-185SERIAL NUMBER: 202619YEAR: N/ASIZE: N/ACOLOR/FINISH STYLE: Black PolishADDITIONAL DETAILS: INCLUDES BENCH
+  Updated: 2026-10-23T12:20:34Z
+  Vendor: AZ PIANO
+  Product Type: USED GRAND PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261022_131721.jpg?v=1792714758
+  Price: $0.00 USD
+- [Yamaha GB1](https://azpiano.com/products/yamaha-gb1): MODEL NUMBER: GB1SERIAL NUMBER: J3682425YEAR: N/ASIZE: N/ACOLOR/FINISH STYLE: Polished BlackADDITIONAL DETAILS: INCLUDES ARTIST BENCH
+  Updated: 2026-10-23T12:43:02Z
+  Vendor: AZ PIANO
+  Product Type: USED GRAND PIANO
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0553/0055/4936/files/20261022_132102_c9ced0f9-0539-4977-b485-1f63d23d2ca6.jpg?v=1792716168
+  Price: $0.00 USD
+[List Continued](https://azpiano.com/a/llms-agent/llms.txt?shop=az-piano.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDY3ODAyOTM4NTkxMiwibGFzdF92YWx1ZSI6IjEwNjc4MDI5Mzg1OTEyIn0%3D)
 
 ## Collections
 
@@ -1363,8 +1405,8 @@
   Updated: 2026-09-28T01:22:11Z
   Total Products: 20
 - [Pre-Owned Pianos](https://azpiano.com/collections/pre-owned-pianos)
-  Updated: 2026-09-28T01:22:15Z
-  Total Products: 62
+  Updated: 2026-10-23T00:42:59Z
+  Total Products: 68
 - [Digitals](https://azpiano.com/collections/digitals)
   Updated: 2026-09-28T01:22:11Z
   Total Products: 20
@@ -1408,14 +1450,14 @@
   Updated: 2026-09-28T01:22:14Z
   Total Products: 0
 - [Grand Pianos](https://azpiano.com/collections/grand-pianos)
-  Updated: 2026-09-28T08:20:57Z
-  Total Products: 91
+  Updated: 2026-10-23T00:42:59Z
+  Total Products: 95
 - [Upright Pianos](https://azpiano.com/collections/upright-pianos)
-  Updated: 2026-09-28T08:21:00Z
-  Total Products: 79
+  Updated: 2026-10-22T23:36:16Z
+  Total Products: 81
 - [Schimmel](https://azpiano.com/collections/schimmel): AZ Piano is a Schimmel Used Piano store. Our bright and elegant showroom has a wide range of used grand pianos, and upright pianos.
-  Updated: 2026-09-28T01:22:12Z
-  Total Products: 5
+  Updated: 2026-10-22T23:30:26Z
+  Total Products: 6
 - [Shigeru Kawai](https://azpiano.com/collections/shigeru-kawai): AZ Piano is an exclusive Shigeru Kawai Dealer. Our bright and elegant showroom has a great selection of Shigeru Kawai grand pianos to choose from of different sizes and designs handcrafted using only the finest materials delivering a full, rich sound, and incredibly responsive to the touch.
   Updated: 2026-09-28T01:22:41Z
   Total Products: 3
@@ -1450,11 +1492,11 @@
   Updated: 2026-09-28T01:20:46Z
   Total Products: 8
 - [Pre-Owned Grand Pianos](https://azpiano.com/collections/pre-owned-grand-pianos)
-  Updated: 2026-09-28T01:22:41Z
-  Total Products: 35
+  Updated: 2026-10-23T00:42:59Z
+  Total Products: 39
 - [Pre-Owned Upright Pianos](https://azpiano.com/collections/pre-owned-upright-pianos)
-  Updated: 2026-09-28T01:22:15Z
-  Total Products: 37
+  Updated: 2026-10-22T23:36:16Z
+  Total Products: 39
 - [New Wm. Knabe & Co Upright Piano](https://azpiano.com/collections/new-wm-knabe-co-upright-piano)
   Updated: 2026-09-10T11:06:11Z
   Total Products: 4
@@ -1476,6 +1518,9 @@
 - [New Seiler Uprights](https://azpiano.com/collections/new-seiler-uprights)
   Updated: 2026-09-28T08:21:00Z
   Total Products: 8
+- [Steinway and Sons](https://azpiano.com/collections/steinway-and-sons): Steinway & Sons is a piano maker founded in New York City in 1853, with factories in Queens, New York and Hamburg, Germany. Its grands range from the 5'1" Model S to the 8'11¾" Model D concert grand, and a well-cared-for Steinway can stay in service for generations. AZ Piano offers pre-owned Steinway & Sons pianos in our Phoenix showroom, with current inventory and pricing online.
+  Updated: 2026-10-23T00:42:59Z
+  Total Products: 3
 
 ## Store Pages
 
@@ -1505,19 +1550,19 @@
   Updated: 2026-09-26T08:42:18Z
 - [AZ Piano Reviews | The Best and Most Trusted Piano Reviews](https://azpiano.com/pages/az-piano-reviews-the-best-and-most-trusted-piano-reviews): .azp{ --azp-ebony:#1C1A19; --azp-ink:#34302D; --azp-stone:#6A645E; --azp-panel:#F4F4F2; --azp-line:#DEDBD6; --azp-red:#B8292F; --azp-red-dark:#9320...
   Updated: 2026-09-25T09:29:09Z
-- [Schimmel Used Piano Store at AZ Piano](https://azpiano.com/pages/steinway-sons-pianos-handmade-in-the-usa-az-piano): 
-  Updated: 2026-09-28T01:16:00Z
+- [Steinway & Sons Used Piano Store at AZ Piano](https://azpiano.com/pages/steinway-sons-pianos-handmade-in-the-usa-az-piano): .swp{ --swp-ebony:#1C1A19; --swp-ink:#34302D; --swp-stone:#6A645E; --swp-panel:#F4F4F2; --swp-line:#DEDBD6; --swp-red:#B8292F; --swp-red-dark:#9320...
+  Updated: 2026-10-22T22:42:12Z
 
 ## Policies
 
 - [Privacy Policy](https://azpiano.com/policies/privacy-policy)
-  Updated: 2021-05-11T23:21:30-07:00
+  Updated: 2021-05-12T06:21:30Z
 - [Shipping Policy](https://azpiano.com/policies/shipping-policy)
-  Updated: 2021-05-11T23:21:30-07:00
+  Updated: 2021-05-12T06:21:30Z
 - [Refund Policy](https://azpiano.com/policies/refund-policy)
-  Updated: 2021-05-11T23:21:30-07:00
+  Updated: 2021-05-12T06:21:30Z
 - [Terms of Service](https://azpiano.com/policies/terms-of-service)
-  Updated: 2021-05-11T23:21:30-07:00
+  Updated: 2021-05-12T06:21:30Z
 
 ## Optional
 
