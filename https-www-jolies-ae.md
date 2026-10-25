@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-10-18T12:00:39.826Z
+- Updated At: 2026-10-25T12:46:09.706Z
 
 ## Products
 
@@ -160,8 +160,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ADORE-TECH-Hair-Dryer-By-Ceriotti-2200-W-ADORE-TECH-JOLIE-S-1696938393329.jpg?v=1696938395
   Price: AED 300.00 AED
-- [Shop IPANEMA Biorestore Organic Brazilian Hair Protein 1000 ML in UAE](https://www.jolies.ae/products/ipanema-bio-restore-organic-brazilian-hair-protein-1000-ml): IPANEMA Biorestore Organic Brazilian Hair Protein 1000 ML ORIGIN : Made in Brazil HAIR PROTEIN 1000  JOLIE'S
-  Updated: 2026-10-16T22:03:45Z
+- [IPANEMA Biorestore Hair Protein 1000ml](https://www.jolies.ae/products/ipanema-bio-restore-organic-brazilian-hair-protein-1000-ml): IPANEMA Biorestore Organic Brazilian Hair Protein 1000 ML ORIGIN : Made in Brazil HAIR PROTEIN 1000  JOLIE'S
+  Updated: 2026-10-25T07:02:31Z
   Vendor: BRAZIL COSMETICS
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -430,7 +430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Turquoise-and-Tiger-Eye-Natural-Stone-JOLIE_S-JOLIE_S-118228176.jpg?v=1724965371
   Price: AED 220.00 AED
 - [Sally's Choice Bio Protein 6-Piece Set | JOLIES UAE](https://www.jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set): Shop Sally's Choice Bio Protein Natural Hair Therapy 6-piece set for a coordinated professional routine addressing frizz and manageability at JOLIES UAE.
-  Updated: 2026-10-16T22:04:01Z
+  Updated: 2026-10-21T06:04:06Z
   Vendor: SALLY'S CHOICE
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -569,7 +569,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TopHair-Cosmetics-Premium-Hair-Smooth-Collagen-Protein-120-ML-TopHair-Cosmetics-JOLIE_S-205064453.png?v=1779549613
   Price: AED 150.00 AED
 - [Elixir ThermoCell Vital Hair Ampoules 3 pcs | JOLIES UAE](https://www.jolies.ae/products/elixir-thermocell-vital-apple-stem-cells-3-pcs-pack): Shop Elixir ThermoCell Vital Apple Stem Cells three-piece hair-care pack for cosmetic conditioning support for damaged-looking hair.
-  Updated: 2026-10-16T22:04:07Z
+  Updated: 2026-10-23T12:43:28Z
   Vendor: ELIXIR
   Product Type: Hair Care
   Availability: Available
@@ -603,8 +603,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Acne-Pimple-Patch-COSRX-JOLIE_S-131185942.jpg?v=1724966446
   Price: AED 50.00 AED
-- [COSRX AC Collection Blemish Spot Clearing Serum 40 ml - JOLIE'S](https://www.jolies.ae/products/cosrx-ac-collection-blemish-spot-clearing-serum-40-gm): COSRX COSRX AC Collection Blemish Spot Clearing Serum 40 ml Ultimate serum reducing traces of acne Total  JOLIE'S
-  Updated: 2026-10-16T22:04:09Z
+- [COSRX AC Blemish Spot Serum 40ml](https://www.jolies.ae/products/cosrx-ac-collection-blemish-spot-clearing-serum-40-gm): COSRX COSRX AC Collection Blemish Spot Clearing Serum 40 ml Ultimate serum reducing traces of acne Total  JOLIE'S
+  Updated: 2026-10-25T07:02:25Z
   Vendor: COSRX
   Product Type: Face Serum
   Availability: Available
@@ -652,15 +652,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-BHA-Blackhead-Power-Liquid-100-ml-COSRX-JOLIE_S-131173811.jpg?v=1724966638
   Price: AED 100.00 AED
-- [COSRX Oil Free Ultra Moisturizing Lotion With Birch Sap 100 ml -](https://www.jolies.ae/products/cosrx-oil-free-ultra-moisturizing-lotion-with-birch-sap-100-ml): COSRX COSRX Oil Free Ultra Moisturizing Lotion With Birch Sap 100 ml Daily moisturizer for all skin type  JOLIE'S
-  Updated: 2026-10-16T22:04:12Z
+- [COSRX Oil-Free Birch Sap Lotion 100ml](https://www.jolies.ae/products/cosrx-oil-free-ultra-moisturizing-lotion-with-birch-sap-100-ml): COSRX COSRX Oil Free Ultra Moisturizing Lotion With Birch Sap 100 ml Daily moisturizer for all skin type  JOLIE'S
+  Updated: 2026-10-25T07:02:26Z
   Vendor: COSRX
   Product Type: Face Moisturizer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Oil-Free-Ultra-Moisturizing-Lotion-With-Birch-Sap-100-ml-COSRX-JOLIE_S-131175025.jpg?v=1724966675
   Price: AED 100.00 AED
-- [COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser 150 ml - JOLIE'S](https://www.jolies.ae/products/cosrx-hydrium-triple-hyaluronic-moisturizing-cleanser-150-ml): COSRX COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser 150 ml Vitamin B5 and three types of  JOLIE'S
-  Updated: 2026-10-16T22:04:12Z
+- [COSRX Hydrium Hyaluronic Cleanser 150ml](https://www.jolies.ae/products/cosrx-hydrium-triple-hyaluronic-moisturizing-cleanser-150-ml): COSRX COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser 150 ml Vitamin B5 and three types of  JOLIE'S
+  Updated: 2026-10-25T07:02:26Z
   Vendor: COSRX
   Product Type: Face Cleanser
   Availability: Available
@@ -708,8 +708,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/COSRX-Full-Fit-Propolis-Light-Ampule-30-ml-COSRX-JOLIE_S-131180635.jpg?v=1724966846
   Price: AED 100.00 AED
-- [COSRX Galactomyces 95 Tone Balancing Essence 100  ml - JOLIE'S](https://www.jolies.ae/products/cosrx-galactomyces-95-tone-balancing-essence-100-ml): COSRX COSRX Galactomyces 95 Tone Balancing Essence 100  ml Multi - acting enhancer for dull, rough skin!  JOLIE'S
-  Updated: 2026-10-16T22:04:15Z
+- [COSRX Galactomyces 95 Essence 100ml](https://www.jolies.ae/products/cosrx-galactomyces-95-tone-balancing-essence-100-ml): COSRX COSRX Galactomyces 95 Tone Balancing Essence 100  ml Multi - acting enhancer for dull, rough skin!  JOLIE'S
+  Updated: 2026-10-25T07:02:25Z
   Vendor: COSRX
   Product Type: Essence
   Availability: Available
@@ -757,15 +757,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Relief-Sun-_-Rice-_-Probiotics-50-ml-BEAUTY-OF-JOSEON-JOLIE_S-131212849.png?v=1724967005
   Price: AED 80.00 AED
-- [Beauty of Joseon Revive Eye Serum: Ginseng + Retinal Pink 30 ml -](https://www.jolies.ae/products/beauty-of-joseon-revive-eye-serum-ginseng-retinal-pink-30-ml): BEAUTY OF JOSEON Beauty of Joseon Revive Eye Serum: Ginseng + Retinal Pink 30 ml Treat Puffy Eye Bags, Fine Lines,  JOLIE'S
-  Updated: 2026-10-16T22:04:18Z
+- [Beauty of Joseon Revive Eye Serum Retinal 30ml](https://www.jolies.ae/products/beauty-of-joseon-revive-eye-serum-ginseng-retinal-pink-30-ml): BEAUTY OF JOSEON Beauty of Joseon Revive Eye Serum: Ginseng + Retinal Pink 30 ml Treat Puffy Eye Bags, Fine Lines,  JOLIE'S
+  Updated: 2026-10-25T07:02:04Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Eye Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Revive-Eye-Serum_-Ginseng-_-Retinal-Pink-30-ml-BEAUTY-OF-JOSEON-JOLIE_S-131213345.jpg?v=1724967021
   Price: AED 55.00 AED
-- [Beauty of Joseon Glow Serum Propolis + Niacinamide 30 ml - JOLIE'S](https://www.jolies.ae/products/beauty-of-joseon-glow-serum-propolis-niacinamide-30-ml): BEAUTY OF JOSEON Beauty of Joseon Glow Serum Propolis + Niacinamide 30 ml This serum is made for those struggling  JOLIE'S
-  Updated: 2026-10-16T22:04:19Z
+- [Beauty of Joseon Glow Serum Propolis 30ml](https://www.jolies.ae/products/beauty-of-joseon-glow-serum-propolis-niacinamide-30-ml): BEAUTY OF JOSEON Beauty of Joseon Glow Serum Propolis + Niacinamide 30 ml This serum is made for those struggling  JOLIE'S
+  Updated: 2026-10-25T07:02:02Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Face Serum
   Availability: Available
@@ -778,15 +778,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Dynasty-Cream-50-ml-BEAUTY-OF-JOSEON-JOLIE_S-131214874.png?v=1724967066
   Price: AED 75.00 AED
-- [Beauty of Joseon Green Plum Refreshing Cleanser 100 ml - JOLIE'S](https://www.jolies.ae/products/beauty-of-joseon-green-plum-refreshing-cleanser-100-ml): BEAUTY OF JOSEON Beauty of Joseon Green Plum Refreshing Cleanser 100 ml Choosing a cleanser involves finding a  JOLIE'S
-  Updated: 2026-10-16T22:04:19Z
+- [Beauty of Joseon Green Plum Cleanser 100ml](https://www.jolies.ae/products/beauty-of-joseon-green-plum-refreshing-cleanser-100-ml): BEAUTY OF JOSEON Beauty of Joseon Green Plum Refreshing Cleanser 100 ml Choosing a cleanser involves finding a  JOLIE'S
+  Updated: 2026-10-25T07:02:02Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Face Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Green-Plum-Refreshing-Cleanser-100-ml-BEAUTY-OF-JOSEON-JOLIE_S-131215435.png?v=1724967084
   Price: AED 80.00 AED
-- [Beauty of Joseon Glow Deep Serum : Rice + Arbutin 30 ml - JOLIE'S](https://www.jolies.ae/products/beauty-of-joseon-glow-deep-serum-rice-arbutin-30-ml): BEAUTY OF JOSEON Beauty of Joseon Glow Deep Serum : Rice + Arbutin 30 ml This serum is designed for individuals  JOLIE'S
-  Updated: 2026-10-16T22:04:20Z
+- [Beauty of Joseon Glow Deep Serum 30ml](https://www.jolies.ae/products/beauty-of-joseon-glow-deep-serum-rice-arbutin-30-ml): BEAUTY OF JOSEON Beauty of Joseon Glow Deep Serum : Rice + Arbutin 30 ml This serum is designed for individuals  JOLIE'S
+  Updated: 2026-10-25T07:01:59Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Face Serum
   Availability: Available
@@ -806,8 +806,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Ginseng-Essence-Water-150-ml-BEAUTY-OF-JOSEON-JOLIE_S-131217259.png?v=1724967139
   Price: AED 80.00 AED
-- [Beauty of Joseon Revive Serum : Ginseng + Snail Mucin 30 ml - JOLIE'S](https://www.jolies.ae/products/beauty-of-joseon-revive-serum-ginseng-snail-mucin-30-ml): BEAUTY OF JOSEON Beauty of Joseon Revive Serum : Ginseng + Snail Mucin 30 ml This serum is made for skin that has  JOLIE'S
-  Updated: 2026-10-16T22:04:21Z
+- [Beauty of Joseon Revive Serum Ginseng Snail 30ml](https://www.jolies.ae/products/beauty-of-joseon-revive-serum-ginseng-snail-mucin-30-ml): BEAUTY OF JOSEON Beauty of Joseon Revive Serum : Ginseng + Snail Mucin 30 ml This serum is made for skin that has  JOLIE'S
+  Updated: 2026-10-25T07:02:22Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Face Serum
   Availability: Available
@@ -820,15 +820,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Ginseng-Cleansing-Oil-210-ml-BEAUTY-OF-JOSEON-JOLIE_S-131218653.png?v=1724967181
   Price: AED 90.00 AED
-- [Beauty of Joseon Red Bean Refreshing Pore Mask 140 ml - JOLIE'S](https://www.jolies.ae/products/beauty-of-joseon-red-bean-refreshing-pore-mask-140-ml): BEAUTY OF JOSEON Beauty of Joseon Red Bean Refreshing Pore Mask 140 ml Our pores are essentially pathways that sebum  JOLIE'S
-  Updated: 2026-10-16T22:04:22Z
+- [Beauty of Joseon Red Bean Pore Mask 140ml](https://www.jolies.ae/products/beauty-of-joseon-red-bean-refreshing-pore-mask-140-ml): BEAUTY OF JOSEON Beauty of Joseon Red Bean Refreshing Pore Mask 140 ml Our pores are essentially pathways that sebum  JOLIE'S
+  Updated: 2026-10-25T07:02:03Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Face Mask
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Red-Bean-Refreshing-Pore-Mask-140-ml-BEAUTY-OF-JOSEON-JOLIE_S-131219217.png?v=1724967200
   Price: AED 90.00 AED
-- [Beauty of Joseon Green Plum Refreshing Toner : AHA + BHA 150 ml -](https://www.jolies.ae/products/beauty-of-joseon-green-plum-refreshing-toner-aha-bha-150-ml): BEAUTY OF JOSEON Beauty of Joseon Green Plum Refreshing Toner : AHA + BHA 150 ml The natural rhythm of our skin  JOLIE'S
-  Updated: 2026-10-16T22:04:23Z
+- [Beauty of Joseon Green Plum AHA BHA Toner 150ml](https://www.jolies.ae/products/beauty-of-joseon-green-plum-refreshing-toner-aha-bha-150-ml): BEAUTY OF JOSEON Beauty of Joseon Green Plum Refreshing Toner : AHA + BHA 150 ml The natural rhythm of our skin  JOLIE'S
+  Updated: 2026-10-25T07:02:03Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Toner
   Availability: Available
@@ -862,8 +862,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TOCOBO-Collagen-Brightening-Eye-Gel-Cream-30-ml-TOCOBO-JOLIE_S-131719610.jpg?v=1724967731
   Price: AED 100.00 AED
-- [SHISEIDO FINO Premium Touch Hair Mask 230 g | JOLIES UAE](https://www.jolies.ae/products/shiseido-fino-premium-touch-hair-mask-230-gm): Shop SHISEIDO FINO Premium Touch Hair Mask 230 g, an intensive rinse-out conditioning mask for dry, damaged or frizz-prone hair.
-  Updated: 2026-10-16T22:04:25Z
+- [SHISEIDO FINO Premium Touch Hair Mask 230 g | JOLIES UAE](https://www.jolies.ae/products/shiseido-fino-hair-mask): Shop SHISEIDO FINO Premium Touch Hair Mask 230 g, an intensive rinse-out conditioning mask for dry, damaged or frizz-prone hair.
+  Updated: 2026-10-25T11:30:21Z
   Vendor: SHISEIDO FINO
   Product Type: Hair Mask
   Availability: Available
@@ -894,48 +894,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SHISEIDO-FINO-Premium-Touch-Moist-Shampoo-_-Conditioner-550-ml-SHISEIDO-FINO-JOLIE_S-131720836.jpg?v=1724967768
     Price: AED 130.00 AED
-- [THE ORDINARY The Balance Set - JOLIE'S](https://www.jolies.ae/products/the-ordinary-the-balance-set): THE ORDINARY THE ORDINARY The Balance Set The  to clear skin is balance. That’s why The Balance Set includes  JOLIE'S
-  Updated: 2026-10-16T22:04:27Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-The-Balance-Set-THE-ORDINARY-JOLIE_S-131723943.jpg?v=1724967785
-  Price: AED 190.00 AED
-- [THE ORDINARY Glycolic Acid 7% Toning Solution 240 ml - JOLIE'S](https://www.jolies.ae/products/the-ordinary-glycolic-acid-7-toning-solution-240-ml): THE ORDINARY THE ORDINARY Glycolic Acid 7% Toning Solution 240 ml Glycolic Acid 7% Toning Solution is an  JOLIE'S
-  Updated: 2026-10-16T22:04:27Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-Glycolic-Acid-7_-Toning-Solution-240-ml-THE-ORDINARY-JOLIE_S-131724260.jpg?v=1724967795
-  Price: AED 80.00 AED
-- [The Ordinary Granactive Retinoid 2% Emulsion 30 ml | JOLIES UAE](https://www.jolies.ae/products/the-ordinary-granactive-retinoid-2-emulsion-30-ml): Shop The Ordinary Granactive Retinoid 2% Emulsion 30 ml, a water-based serum targeting the visible signs of ageing and uneven texture.
-  Updated: 2026-10-16T22:04:28Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-Granactive-Retinoid-2_-Emulsion-30-ml-THE-ORDINARY-JOLIE_S-131724436.jpg?v=1724967801
-  Price: AED 55.00 AED
-- [The Ordinary Daily Skincare Set | JOLIES UAE](https://www.jolies.ae/products/the-ordinary-the-daily-set): Shop The Ordinary Daily Set with a cleanser, hyaluronic acid serum and moisturising factors for a simple everyday skincare routine.
-  Updated: 2026-10-16T22:04:28Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-The-Daily-Set-THE-ORDINARY-JOLIE_S-131724723.jpg?v=1724967811
-  Price: AED 150.00 AED
-- [The Ordinary Glycolic Acid 7% Toner 100 ml | JOLIES UAE](https://www.jolies.ae/products/the-ordinary-glycolic-acid-7-exfoliating-toner-100-ml): Shop The Ordinary Glycolic Acid 7% Exfoliating Toner 100 ml, a leave-on exfoliant for improving dullness and uneven-looking texture.
-  Updated: 2026-10-16T22:04:29Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-Glycolic-Acid-7_-Exfoliating-Toner-100-ml-THE-ORDINARY-JOLIE_S-131725157.jpg?v=1724967822
-  Price: AED 50.00 AED
-- [The Ordinary Hyaluronic Acid 2% + B5 120 ml | JOLIES UAE](https://www.jolies.ae/products/the-ordinary-hyaluronic-acid-2-b5-120-ml): Shop The Ordinary Hyaluronic Acid 2% + B5 120 ml, a hydrating serum designed to support smoother, plumper-looking skin.
-  Updated: 2026-10-16T22:04:29Z
-  Vendor: THE ORDINARY
-  Product Type: Skin Care
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/THE-ORDINARY-Hyaluronic-Acid-2_-_-B5-120-ml-THE-ORDINARY-JOLIE_S-131725386.jpg?v=1724967829
-  Price: AED 120.00 AED
 - [Beauty of Joseon Hanbang Sun Trio | JOLIES UAE](https://www.jolies.ae/products/beauty-of-joseon-perfect-hanbang-sun-trio-relief-sun-matte-sun-stick-sun-serum): Shop the Beauty of Joseon Hanbang Sun Trio with Relief Sun, Matte Sun Stick and Ginseng Moist Sun Serum for flexible daily SPF application.
   Updated: 2026-10-16T22:04:29Z
   Vendor: BEAUTY OF JOSEON
@@ -1353,8 +1311,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-Of-Joseon-Light-On-Serum_-Centella-_-Vitamin-C-30-ml-BEAUTY-OF-JOSEON-JOLIE_S-132882651.png?v=1743092106
   Price: AED 85.00 AED
-- [Anua 8 Hyaluronic Acid Hydrating Gentle Foaming Cleanser 150 ml -](https://www.jolies.ae/products/8-hyaluronic-acid-hydrating-gentle-foaming-cleanser-150-ml): Anua Anua 8  Acid Hydrating Gentle Foaming Cleanser 150 ml Packed with eight types of  JOLIE'S
-  Updated: 2026-10-16T22:04:55Z
+- [Anua 8 Hyaluronic Foaming Cleanser 150ml](https://www.jolies.ae/products/8-hyaluronic-acid-hydrating-gentle-foaming-cleanser-150-ml): Anua Anua 8  Acid Hydrating Gentle Foaming Cleanser 150 ml Packed with eight types of  JOLIE'S
+  Updated: 2026-10-25T07:01:55Z
   Vendor: Anua
   Product Type: Face Cleanser
   Availability: Available
@@ -1479,8 +1437,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Daily-Sun-Lotion-60-ml-PURITO-SEOUL-JOLIE_S-133572911.jpg?v=1743092933
   Price: AED 95.00 AED
-- [PURITO Wonder Releaf Centella Toner 200 ml | JOLIES UAE](https://www.jolies.ae/products/wonder-releaf-centella-toner-unscented-200ml): Shop PURITO Wonder Releaf Centella Toner Unscented 200 ml, a fragrance-free hydrating toner for sensitive or irritated-looking skin.
-  Updated: 2026-10-16T22:05:03Z
+- [PURITO Wonder Releaf Toner Unscented 200ml](https://www.jolies.ae/products/wonder-releaf-centella-toner-unscented-200ml): Shop PURITO Wonder Releaf Centella Toner Unscented 200 ml, a fragrance-free hydrating toner for sensitive or irritated-looking skin.
+  Updated: 2026-10-25T06:54:45Z
   Vendor: PURITO SEOUL
   Product Type: Toner
   Availability: Available
@@ -1493,15 +1451,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Cream-Unscented-50-ml-PURITO-SEOUL-JOLIE_S-133573887.jpg?v=1743092990
   Price: AED 100.00 AED
-- [PURITO Wonder Releaf Centella Eye Cream 30 ml | JOLIES UAE](https://www.jolies.ae/products/wonder-releaf-centella-eye-cream-unscented-30ml): Shop PURITO Wonder Releaf Centella Eye Cream Unscented 30 ml for hydrating and soothing the delicate eye area.
-  Updated: 2026-10-16T22:05:04Z
+- [PURITO Wonder Releaf Eye Cream Unscented 30ml](https://www.jolies.ae/products/wonder-releaf-centella-eye-cream-unscented-30ml): Shop PURITO Wonder Releaf Centella Eye Cream Unscented 30 ml for hydrating and soothing the delicate eye area.
+  Updated: 2026-10-25T06:54:44Z
   Vendor: PURITO SEOUL
   Product Type: Eye Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/PURITO-Wonder-Releaf-Centella-Eye-Cream-Unscented-30-ml-PURITO-SEOUL-JOLIE_S-133574312.jpg?v=1743093024
   Price: AED 100.00 AED
-- [PURITO Wonder Releaf Centella Serum 60 ml | JOLIES UAE](https://www.jolies.ae/products/wonder-releaf-centella-serum-unscented): Shop PURITO Wonder Releaf Centella Serum Unscented 60 ml, a fragrance-free serum for hydration and calming sensitive-looking skin.
-  Updated: 2026-10-16T22:05:04Z
+- [PURITO Wonder Releaf Serum Unscented 60ml](https://www.jolies.ae/products/wonder-releaf-centella-serum-unscented): Shop PURITO Wonder Releaf Centella Serum Unscented 60 ml, a fragrance-free serum for hydration and calming sensitive-looking skin.
+  Updated: 2026-10-25T06:54:44Z
   Vendor: PURITO SEOUL
   Product Type: Serum
   Availability: Available
@@ -2122,8 +2080,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Quercetinol-Pore-Deep-Cleansing-Foam_-Heartleaf-77_-Soothing-Toner-_-80_-Soothing-Ampoule-Set-Anua-JOLIE_S-195633198.jpg?v=1745095549
   Price: AED 267.00 AED
-- [ANUA Cleanser, Heartleaf Toner & Peach Serum Set | JOLIES UAE](https://www.jolies.ae/products/anua-quercetinol-pore-deep-cleansing-foam-heartleaf-77-soothing-toner-70-niacinamide-serumset): Shop the ANUA Quercetinol Cleanser, Heartleaf 77% Toner and Peach 70% Niacinamide Serum Set for a balanced skincare routine.
-  Updated: 2026-10-16T22:08:10Z
+- [ANUA Cleanser, Heartleaf Toner & Peach Serum](https://www.jolies.ae/products/anua-quercetinol-pore-deep-cleansing-foam-heartleaf-77-soothing-toner-70-niacinamide-serumset): Shop the ANUA Quercetinol Cleanser, Heartleaf 77% Toner and Peach 70% Niacinamide Serum Set for a balanced skincare routine.
+  Updated: 2026-10-25T07:01:57Z
   Vendor: Anua
   Product Type: Skin Care Kits & Sets
   Availability: Available
@@ -2395,8 +2353,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-Heartleaf-Series-3-_Toner_Soothing-Ampoule_Clear-Pad_-Anua-JOLIE_S-195636721.jpg?v=1745096226
   Price: AED 273.00 AED
-- [ANUA Heartleaf Toner, Ampoule & Cleansing Oil Set | JOLIES UAE](https://www.jolies.ae/products/anua-heartleaf-series-4-toner-soothing-ampoule-cleansing-oil-glam-secret): Shop the ANUA Heartleaf toner, soothing ampoule and cleansing oil set for makeup removal, hydration and targeted skincare care.
-  Updated: 2026-10-16T22:08:28Z
+- [ANUA Heartleaf Toner, Ampoule & Cleansing Oil](https://www.jolies.ae/products/anua-heartleaf-series-4-toner-soothing-ampoule-cleansing-oil-glam-secret): Shop the ANUA Heartleaf toner, soothing ampoule and cleansing oil set for makeup removal, hydration and targeted skincare care.
+  Updated: 2026-10-25T07:01:56Z
   Vendor: Anua
   Product Type: Skin Care Kits & Sets
   Availability: Available
@@ -2703,6 +2661,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Collagen-Booster-Set-JOLIE_S-JOLIE_S-200517837.png?v=1749251170
   Price: AED 800.00 AED
+- [CAPIXY Intense Hair Tonic Spray 125ml | JOLIES UAE](https://www.jolies.ae/products/capixy-intense-hair-tonic-spray-125-ml): Shop CAPIXY Intense Hair Tonic Spray 125ml for convenient scalp and hair-care use within your regular routine.
+  Updated: 2026-10-18T16:43:05Z
+  Vendor: CAPIXY
+  Product Type: Hair Tonic
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Capixy-Intense-Tonic-Spray-125ml-JOLIE_S-JOLIE_S-201146468.webp?v=1750956447
+  Price: AED 220.00 AED
 - [EVA Skin Clinic Eye & Lip Makeup Remover | JOLIES UAE](https://www.jolies.ae/products/eva-skin-clinic-collagen-makeup-remover-for-eyes-lips): Shop EVA Skin Clinic Collagen Eyes & Lips Makeup Remover for gentle removal of eye and lip makeup.
   Updated: 2026-10-16T22:08:47Z
   Vendor: EVA
@@ -2927,8 +2892,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Cera-nol-Gel-Toner-Pads-_-60-pads-_-Medicube-JOLIE_S-202019657.avif?v=1753442832
   Price: AED 90.00 AED
-- [BIODANCE Vita Niacinamide Gel Toner Pads 60 Pads | JOLIES UAE](https://www.jolies.ae/products/biodance-vita-niacinamide-gel-toner-pads-60-pads): Shop BIODANCE Vita Niacinamide Gel Toner Pads, 60 pads, for convenient hydration and cosmetic care of dull or uneven-looking skin.
-  Updated: 2026-10-16T22:09:16Z
+- [BIODANCE Niacinamide Toner Pads 60ct](https://www.jolies.ae/products/biodance-vita-niacinamide-gel-toner-pads-60-pads): Shop BIODANCE Vita Niacinamide Gel Toner Pads, 60 pads, for convenient hydration and cosmetic care of dull or uneven-looking skin.
+  Updated: 2026-10-25T07:02:23Z
   Vendor: BIODANCE
   Product Type: Toner Pads
   Availability: Available
@@ -3032,18 +2997,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-Clearer-4-Pcs-Set-Medicube-JOLIE_S-202259312.png?v=1754413133
   Price: AED 380.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTgxNDEyNzA0NTc3LCJsYXN0X3ZhbHVlIjoiOTk4MTQxMjcwNDU3NyJ9)
+- [MEDICUBE Zero Pore 6-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-zero-pore-6-pcs-set): Shop the MEDICUBE Zero Pore six-piece set for a coordinated routine focused on cleansing, hydration, pores and texture.
+  Updated: 2026-10-16T22:09:22Z
+  Vendor: Medicube
+  Product Type: Cosmetic Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Zero-Pore-6-Pcs-Set-Medicube-JOLIE_S-202259254.png?v=1754413084
+  Price: AED 599.00 AED
+- [MEDICUBE PDRN Pink Collagen 6-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-pdrn-booster-lip-pink-toning-collagen-6-pcs-set): Shop the MEDICUBE PDRN Booster Lip Pink Toning Collagen six-piece set for coordinated hydration and cosmetic firmness care.
+  Updated: 2026-10-16T22:09:23Z
+  Vendor: Medicube
+  Product Type: Cosmetic Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Booster-Lip-Pink-Toning-Collagen-6-Pcs-Set-Medicube-JOLIE_S-202260071.png?v=1754416563
+  Price: AED 1,100.00 AED
+- [MEDICUBE AGE-R Bloom Glow 4-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-age-r-bloom-glow-4-pcs-set): Shop the MEDICUBE AGE-R Bloom Glow 4-piece skincare set for a coordinated routine supporting hydration, radiance and smoother-looking skin at JOLIES UAE.
+  Updated: 2026-10-16T22:09:23Z
+  Vendor: Medicube
+  Product Type: Anti-Aging Skin Care
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-AGE-R-Bloom-Glow-4-Pcs-Set-Medicube-JOLIE_S-202259930.png?v=1754415916
+  Price: AED 899.00 AED
+- [ANUA Serums Combination Set | JOLIES UAE](https://www.jolies.ae/products/anua-serums-combo-set): Shop the ANUA Serums Combination Set for a coordinated selection of targeted hydration and cosmetic skincare treatments.
+  Updated: 2026-10-16T22:09:24Z
+  Vendor: ANUA
+  Product Type: Skin Care Kits & Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/ANUA-SERUMS-Combo-Set-ANUA-JOLIE_S-202038163.avif?v=1776787265
+  Price: AED 320.00 AED
+- [X-Care Professional Hair Straightener 230°C | JOLIES UAE](https://www.jolies.ae/products/x-care-professional-hair-straightener-230-c): Shop the X-Care Professional Hair Straightener with adjustable heat up to 230°C for smooth, controlled styling. Available from JOLIES throughout the UAE.
+  Updated: 2026-10-16T22:09:24Z
+  Vendor: X CARE
+  Product Type: Hair Straighteners
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/X_Care-Professional-Hair-Straightener-230_oC-X-CARE-JOLIE_S-202113373.jpg?v=1753793697
+  Price: AED 350.00 AED
+- [CAPIXY Lashes  Serum 10ml | JOLIES UAE](https://www.jolies.ae/products/capixy-lashes--serum-10ml): Shop CAPIXY Lashes  Serum 10ml for convenient cosmetic care of lashes and brows within your regular routine.
+  Updated: 2026-10-17T08:15:26Z
+  Vendor: CAPIXY
+  Product Type: Lash & Brow Serum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/CAPIXY-LASHES--SERUM-10ML-JOLIE_S-JOLIE_S-202397932.webp?v=1754929372
+  Price: AED 125.00 AED
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTkwNzk3Mjk1OTM3LCJsYXN0X3ZhbHVlIjoiOTk5MDc5NzI5NTkzNyJ9)
 
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-08T19:45:59Z
+  Updated: 2026-10-21T11:11:08Z
   Total Products: 30
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-18T11:09:53Z
+  Updated: 2026-10-24T11:09:39Z
   Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-10-14T11:11:03Z
+  Updated: 2026-10-21T11:11:08Z
   Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-10-03T12:14:35Z
@@ -3055,7 +3062,7 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-10-17T07:26:02Z
+  Updated: 2026-10-21T11:11:08Z
   Total Products: 203
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
@@ -3076,13 +3083,13 @@
   Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-10-18T11:09:53Z
+  Updated: 2026-10-24T11:09:39Z
   Total Products: 513
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-10-08T11:13:01Z
+  Updated: 2026-10-21T11:11:08Z
   Total Products: 370
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
-  Updated: 2026-10-08T11:13:01Z
+  Updated: 2026-10-21T11:11:08Z
   Total Products: 9
 
 ## Blogs
@@ -3205,15 +3212,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.jolies.ae/policies/privacy-policy)
-  Updated: 2026-08-11T20:01:30+04:00
+  Updated: 2026-08-11T16:01:30Z
 - [Shipping Policy](https://www.jolies.ae/policies/shipping-policy)
-  Updated: 2026-08-10T21:57:34+04:00
+  Updated: 2026-08-10T17:57:34Z
 - [Refund Policy](https://www.jolies.ae/policies/refund-policy)
-  Updated: 2026-08-10T21:58:05+04:00
+  Updated: 2026-08-10T17:58:05Z
 - [Terms of Service](https://www.jolies.ae/policies/terms-of-service)
-  Updated: 2026-08-10T21:58:51+04:00
+  Updated: 2026-08-10T17:58:51Z
 - [Contact Information](https://www.jolies.ae/policies/contact-information)
-  Updated: 2026-08-10T21:59:16+04:00
+  Updated: 2026-08-10T17:59:16Z
 
 ## Optional
 
