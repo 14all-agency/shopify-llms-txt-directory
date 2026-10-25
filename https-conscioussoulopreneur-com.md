@@ -6,76 +6,76 @@
 - Timezone: Australia/Adelaide
 - Created At: 2025-06-21T06:21:38Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-10-18T00:00:36.396Z
+- Updated At: 2026-10-25T00:39:28.354Z
 
 ## Products
 
 - [Metafisica y Autoconocimiento — ¿Quién Te Crees Que Eres? Libro](https://conscioussoulopreneur.com/products/metafisica-libro-espiritual-autoconocimiento): Metafisica y Autoconocimiento: Un Viaje Hacia Tu Verdad InteriorSi la metafisica te ha enseñado algo, es que la verdad de quién eres va mucho más allá de los
-  Updated: 2026-09-20T04:15:35Z
+  Updated: 2026-10-23T17:19:49Z
   Vendor: CONSCIOUS SOULOPRENEUR
-  Product Type: books
+  Product Type: Hardcover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/gjzqzzq-front-shortedge-384.jpg?v=1789606883
   Price: $44.00 USD
 - [¿Quién Te Crees Que Eres? — Edición Rústica | Your Self-Discovery](https://conscioussoulopreneur.com/products/quien-te-crees-que-eres-edicion-rustica-your-self-discovery-guide-to-personal-growth): ¿Quién eres realmente, más allá de todo lo que te han dicho que eres?La mayoría de nosotros vivimos con una identidad prestada — formada por la familia, la
-  Updated: 2026-09-20T04:16:32Z
+  Updated: 2026-10-23T17:19:14Z
   Vendor: CONSCIOUS SOULOPRENEUR
-  Product Type: books
+  Product Type: Paperback
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1789606891
-  Price: $39.00 USD
-- [Who Do You Think You Are? — Paperback Color | Spiritual](https://conscioussoulopreneur.com/products/spiritual-self-discovery-book-paperback-color): For those who want more than just a book — they want an experience.This is the full colour edition of Who Do You Think You Are? — a spiritual memoir that
-  Updated: 2026-10-16T20:55:41Z
+  Price: $44.00 USD
+- [Who Do You Think You Are? — Hardcover | Spiritual Self-Discovery](https://conscioussoulopreneur.com/products/spiritual-self-discovery-book-hardcover): Who Do You Think You Are? in hardcover, a spiritual memoir exploring identity, consciousness, purpose, and self-discovery. By Ruben Lauthier Wendt.
+  Updated: 2026-10-24T14:04:51Z
   Vendor: CONSCIOUS SOULOPRENEUR
-  Product Type: books
+  Product Type: Hardcover
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/2mn4j9w-front-shortedge-384.jpg?v=1789606902
   Price: $44.00 USD
 - [Who Do You Think You Are? – A Self-Discovery Memoir for](https://conscioussoulopreneur.com/products/self-discovery-memoir-paperback-bw): The question that changes everything: Who do you really think you are?Most of us go through life with a borrowed identity — shaped by family, culture, and
-  Updated: 2026-09-20T04:10:31Z
+  Updated: 2026-10-23T17:19:34Z
   Vendor: CONSCIOUS SOULOPRENEUR
-  Product Type: Physical Book
+  Product Type: Paperback
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/7kz6q26-front-shortedge-384.jpg?v=1789606909
-  Price: $39.00 USD
+  Price: $44.00 USD
 - [Who Do You Think You Are? — Shared Consciousness Spiritual eBook](https://conscioussoulopreneur.com/products/shared-spiritual-ebook-i-am-scared-who-do-you-think-you-are): Feeling scared and lost? Who Do You Think You Are? is a transformative spiritual eBook that guides you back to your true self. Instant download. 7-day guarantee.
-  Updated: 2026-09-20T04:14:33Z
-  Vendor: CONSCIOUS SOULOPRENEUR
-  Product Type: books
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/who-do-you-think-you-are-lifestyle-reading-image.png?v=1789760086
-  Price: $6.00 USD
-- [Quantum Consciousness Transformation Guide: Unlock Your Inner Wisdom](https://conscioussoulopreneur.com/products/quantum-consciousness-book-remembering-body): Transform Your Life Today with the Quantum Consciousness Transformation GuideImagine unlocking the answers to your deepest questions — all without ever leaving
-  Updated: 2026-09-20T04:13:56Z
+  Updated: 2026-10-23T12:53:25Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: eBook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/who-do-you-think-you-are-lifestyle-reading-image.png?v=1789760086
   Price: $6.00 USD
+- [¿Quién Te Crees Que Eres? eBook de Autodescubrimiento Espiritual](https://conscioussoulopreneur.com/products/quien-te-crees-que-eres-ebook-de-autodescubrimiento-espiritual): Explora tu identidad, conciencia y crecimiento personal con ¿Quién Te Crees Que Eres?, un eBook de autodescubrimiento espiritual en español. Descarga digital.
+  Updated: 2026-10-23T16:03:04Z
+  Vendor: Conscious Soulopreneur
+  Product Type: eBook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/lady-reading-with-cup-popup-image.png?v=1789701699
+  Price: $6.00 USD
 
 ## Collections
 
 - [Home page](https://conscioussoulopreneur.com/collections/frontpage): Explore spiritual memoirs and self-discovery books by Carlos Ruben Lauthier Wendt. Available in hardcover, paperback and eBook in English and Spanish.
-  Updated: 2026-09-20T08:06:03Z
-  Total Products: 7
+  Updated: 2026-10-23T05:35:17Z
+  Total Products: 6
 - [Spanish Version](https://conscioussoulopreneur.com/collections/spanish-version): books in Spanish books in Spanish books in Spanish books in Spanish books in Spanish
-  Updated: 2026-09-20T04:16:33Z
-  Total Products: 2
+  Updated: 2026-10-23T05:32:16Z
+  Total Products: 3
 - [English Version](https://conscioussoulopreneur.com/collections/english-version-1): English language books English language books English language books English language books
-  Updated: 2026-09-21T06:48:56Z
+  Updated: 2026-10-23T05:35:02Z
   Total Products: 3
 - [SPANISH](https://conscioussoulopreneur.com/collections/spanish): All books in Spanish
-  Updated: 2026-09-20T04:16:33Z
+  Updated: 2026-10-23T05:26:41Z
   Total Products: 2
 - [SPANISH VERSION](https://conscioussoulopreneur.com/collections/spanish-version-1): books in Spanish books in Spanish books in Spanish books in Spanish books in Spanish
-  Updated: 2026-09-20T04:16:33Z
+  Updated: 2026-10-23T05:26:41Z
   Total Products: 2
 - [Self Discovery Reads](https://conscioussoulopreneur.com/collections/self-discovery-reads): self-discovery-readsself-discovery-readsself-discovery-readsself-discovery-readsself-discovery-reads self-discovery-readsself-discovery-reads
-  Updated: 2026-09-20T08:06:03Z
-  Total Products: 7
+  Updated: 2026-10-23T05:35:17Z
+  Total Products: 6
 - [Spiritual Growth Books](https://conscioussoulopreneur.com/collections/spiritual-growth-books): spiritual growth booksspiritual growth booksspiritual growth booksspiritual growth booksspiritual growth books
-  Updated: 2026-09-20T08:06:03Z
-  Total Products: 7
+  Updated: 2026-10-23T05:35:17Z
+  Total Products: 6
 
 ## Blogs
 
@@ -111,29 +111,31 @@
 
 ## Store Pages
 
-- [Contact Form Contact Form Contact Form](https://conscioussoulopreneur.com/pages/contact-form): Contact Form Should you have any questions about our privacy practices or this Privacy Policy, or if you would like to exercise any of the rights a...
-  Updated: 2026-09-04T18:03:17Z
-- [About Ruben About Ruben About Ruben](https://conscioussoulopreneur.com/pages/about-ruben): Ruben is spiritual author dedicated to helping people discover deeper awareness and personal transformation, Through his books, Ruben shares insigh...
-  Updated: 2026-09-04T17:49:52Z
+- [Contact Us](https://conscioussoulopreneur.com/pages/contact): Full Name: Carlos Ruben Lauthier Wendt Email: conscioussoulopreneur@gmail.com Mail: PO Box 91, Bordertown, South Australia 5268, Australia Facebook...
+  Updated: 2026-10-18T20:56:50Z
+- [About Ruben](https://conscioussoulopreneur.com/pages/about-ruben): For 30 years, I received messages from beyond — not in words I could immediately understand, but in feelings, visions, and knowing. It took me thre...
+  Updated: 2026-10-18T20:53:57Z
 - [Refund policy Page Refund policy Page](https://conscioussoulopreneur.com/pages/refund-policy-page): Refund policy Page We want you to be satisfied with your purchase.if you experience any issue, please contact us within 7 days Refund policy Page
   Updated: 2026-09-04T17:59:17Z
 - [privacy-policyprivacy-policyprivacy-policy](https://conscioussoulopreneur.com/pages/privacy-policy): privacy-policy At our company, we are committed to protecting your personal information and your right to privacy. This Privacy Policy outlines the...
   Updated: 2026-09-04T17:57:31Z
 - [Your Privacy Choices Your Privacy Choices](https://conscioussoulopreneur.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-20T05:12:34Z
+- [FAQ](https://conscioussoulopreneur.com/pages/faq): Instant download?Yes, your eBook PDF is available instantly after payment.Refund?30 days if not downloaded.Shipping?Digital products require no shi...
+  Updated: 2026-10-18T20:47:59Z
 
 ## Policies
 
 - [Privacy Policy](https://conscioussoulopreneur.com/policies/privacy-policy)
-  Updated: 2025-06-21T15:51:48+09:30
+  Updated: 2025-06-21T06:21:48Z
 - [Shipping Policy](https://conscioussoulopreneur.com/policies/shipping-policy)
-  Updated: 2026-09-09T10:55:38+09:30
+  Updated: 2026-10-18T21:38:56Z
 - [Refund Policy](https://conscioussoulopreneur.com/policies/refund-policy)
-  Updated: 2026-02-24T01:29:42+10:30
+  Updated: 2026-10-18T21:36:56Z
 - [Terms of Service](https://conscioussoulopreneur.com/policies/terms-of-service)
-  Updated: 2026-02-24T01:31:32+10:30
+  Updated: 2026-10-18T21:42:09Z
 - [Contact Information](https://conscioussoulopreneur.com/policies/contact-information)
-  Updated: 2026-03-25T08:55:48+10:30
+  Updated: 2026-10-18T21:47:05Z
 
 ## Optional
 
