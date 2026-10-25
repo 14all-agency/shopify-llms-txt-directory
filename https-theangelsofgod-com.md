@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-04-30T01:48:07Z
 - Contact Email: soundtherapyusa@gmail.com
-- Updated At: 2026-10-18T00:00:31.887Z
+- Updated At: 2026-10-25T00:42:30.707Z
 
 ## Products
 
@@ -3791,9 +3791,9 @@ Bark & Whiskers
 ## Policies
 
 - [Refund Policy](https://theangelsofgod.com/policies/refund-policy)
-  Updated: 2025-07-25T08:53:52-07:00
+  Updated: 2025-07-25T15:53:52Z
 - [Terms of Service](https://theangelsofgod.com/policies/terms-of-service)
-  Updated: 2025-07-25T08:52:43-07:00
+  Updated: 2025-07-25T15:52:43Z
 
 ## Optional
 
