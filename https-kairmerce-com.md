@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-13T18:25:24Z
 - Contact Email: kairmerce@outlook.com
-- Updated At: 2026-10-18T00:00:36.852Z
+- Updated At: 2026-10-25T00:40:44.552Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/6277/8973/files/perfume-roja-parfums-scandal-pour-homme-edp-m-50-ml-1-prive-perfumes.jpg?v=1789424514
   Price: $179.99 USD
 - [MAISON FRANCIS KURKDJIAN Eau De Parfum](https://kairmerce.com/products/maison-francis-kurkdjian-eau-de-parfum): Shop MAISON FRANCIS KURKDJIAN Eau De Parfum. View fragrance concentration, size and key scent details.
-  Updated: 2026-09-29T00:50:41Z
+  Updated: 2026-10-20T02:23:58Z
   Vendor: MAISON FRANCIS KURKDJIAN
   Product Type: Perfume
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/6277/8973/files/B074V34X4C.01.LZZZZZZZ.jpg?v=1789424532
   Price: $91.00 USD
 - [MAISON FRANCIS KURKDJIAN Baccarat Rouge 540 Eau De Parfum Spray 2.3 Fl](https://kairmerce.com/products/maison-francis-kurkdjian-baccarat-rouge-540-eau-de-parfum-spray-2-3-fl-oz): Shop MAISON FRANCIS KURKDJIAN Baccarat Rouge 540 Eau De Parfum Spray 2.3 Fl oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-10-01T16:54:07Z
+  Updated: 2026-10-20T02:18:47Z
   Vendor: MAISON FRANCIS KURKDJIAN
   Product Type: Perfume
   Availability: Available
@@ -683,7 +683,7 @@
   Image: https://cdn.shopify.com/s/files/1/0722/6277/8973/files/s-l1600_3.webp?v=1789425168
   Price: $102.00 USD
 - [BYREDO Mojave Ghost Eau De Parfum 3.4oz](https://kairmerce.com/products/byredo-mojave-ghost-3-4oz-100ml-eau-de-parfum): Shop BYREDO Mojave Ghost Eau De Parfum 3.4oz. View fragrance concentration, size and key scent details.
-  Updated: 2026-10-06T09:16:57Z
+  Updated: 2026-10-20T02:18:46Z
   Vendor: BYREDO
   Product Type: Perfume
   Availability: Available
@@ -1069,15 +1069,15 @@
 ## Policies
 
 - [Privacy Policy](https://kairmerce.com/policies/privacy-policy)
-  Updated: 2026-01-13T12:25:36-06:00
+  Updated: 2026-01-13T18:25:36Z
 - [Shipping Policy](https://kairmerce.com/policies/shipping-policy)
-  Updated: 2026-08-23T04:54:58-05:00
+  Updated: 2026-08-23T09:54:58Z
 - [Refund Policy](https://kairmerce.com/policies/refund-policy)
-  Updated: 2026-08-27T10:28:14-05:00
+  Updated: 2026-08-27T15:28:14Z
 - [Terms of Service](https://kairmerce.com/policies/terms-of-service)
-  Updated: 2026-08-23T05:31:11-05:00
+  Updated: 2026-08-23T10:31:11Z
 - [Contact Information](https://kairmerce.com/policies/contact-information)
-  Updated: 2026-08-23T04:49:40-05:00
+  Updated: 2026-08-23T09:49:40Z
 
 ## Optional
 
