@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-18T00:00:44.722Z
+- Updated At: 2026-10-25T00:47:05.252Z
 
 ## Products
 
@@ -32,26 +32,26 @@
     Availability: Available
     Price: $40.00 USD
 - [Motorcycle Tee](https://store.thechainsmokers.com/products/motorcycle-tee): Bella+Canvas 100% ringspun cotton Unisex fit
-  Updated: 2026-10-16T14:36:36Z
+  Updated: 2026-10-20T19:06:03Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/moto_tee.png?v=1581622081
   - [S](https://store.thechainsmokers.com/products/motorcycle-tee?variant=31569382572094)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/motorcycle-tee?variant=31569382604862)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/motorcycle-tee?variant=31569382637630)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/motorcycle-tee?variant=31569382670398)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [2XL](https://store.thechainsmokers.com/products/motorcycle-tee?variant=31569382703166)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [The Chainsmokers Hoodie](https://store.thechainsmokers.com/products/the-chainsmokers-hoodie): Heavy Fleece Hooded Sweatshirt100% U.S. CottonMade in U.S.A.Los Angeles ApparelOversized fit
   Updated: 2026-10-14T16:46:20Z
   Vendor: The Chainsmokers
@@ -74,26 +74,26 @@
     Availability: Available
     Price: $65.00 USD
 - [Grid Tee](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-05T13:01:35Z
+  Updated: 2026-10-20T19:06:03Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/face-grid-white-tee_The-Chainsmokers.png?v=1653599143
   - [S](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee?variant=39691082072126)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee?variant=39691082104894)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee?variant=39691082137662)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee?variant=39691082170430)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [2XL](https://store.thechainsmokers.com/products/the-chainsmokers-grid-tee?variant=39691082203198)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [The Chainsmokers Grid Long Sleeve Tee](https://store.thechainsmokers.com/products/copy-of-the-chainsmokers-grid-long-sleeve-tee): UnisexMade in U.S.A.Los Angeles Apparel6.5oz100% Cotton
   Updated: 2026-10-11T22:29:13Z
   Vendor: The Chainsmokers
@@ -116,26 +116,26 @@
     Availability: Available
     Price: $55.00 USD
 - [Oval Tee](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-17T22:49:55Z
+  Updated: 2026-10-20T19:06:01Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/chainsmokers-oval-tee-white_The-Chainsmokers.png?v=1653600266
   - [S](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720340030)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720372798)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720405566)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720438334)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [2XL](https://store.thechainsmokers.com/products/the-chainsmokers-oval-tee-white?variant=39718720471102)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [TCS Tote](https://store.thechainsmokers.com/products/the-chainsmokers-tcs-tote-bag): 100% Cotton canvas
   Updated: 2026-10-05T13:01:38Z
   Vendor: The Chainsmokers
@@ -158,26 +158,26 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/TCS-cream-bucket-hat_The-Chainsmokers_50ead504-d6d2-4036-8673-7da0a1cfe0a4.png?v=1680744587
   Price: $35.00 USD
 - [So Far So Good Tracklist Tee - White](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-05T13:01:40Z
+  Updated: 2026-10-20T19:06:01Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/so-far-so-good-tracklist-tee-white_The-Chainsmokers.png?v=1653596832
   - [S](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve?variant=39763050102846)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve?variant=39763050168382)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve?variant=39763050233918)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve?variant=39763050299454)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XXL](https://store.thechainsmokers.com/products/so-far-so-good-short-sleeve?variant=39763050397758)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [So Far So Good Grid Long Sleeve - White](https://store.thechainsmokers.com/products/so-far-so-good-grid-long-sleeve): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
   Updated: 2026-10-05T13:01:41Z
   Vendor: The Chainsmokers
@@ -200,26 +200,26 @@
     Availability: Available
     Price: $45.00 USD
 - [So Far So Good Stacked Tee](https://store.thechainsmokers.com/products/stacked-logo-tee): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-05T13:01:42Z
+  Updated: 2026-10-20T19:06:02Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/so-far-so-good-stacked-logo-white-tee_The-Chainsmokers.png?v=1661185165
   - [S / White](https://store.thechainsmokers.com/products/stacked-logo-tee?variant=39763081166910)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M / White](https://store.thechainsmokers.com/products/stacked-logo-tee?variant=39763081199678)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L / White](https://store.thechainsmokers.com/products/stacked-logo-tee?variant=39763081232446)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL / White](https://store.thechainsmokers.com/products/stacked-logo-tee?variant=39763081265214)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XXL / White](https://store.thechainsmokers.com/products/stacked-logo-tee?variant=39763081297982)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [Holographic Sticker Pack](https://store.thechainsmokers.com/products/so-far-so-good-sticker-pack): The Chainsmokers 4 holographic stickers.
   Updated: 2026-10-11T22:44:47Z
   Vendor: The Chainsmokers
@@ -242,26 +242,26 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/products/houstonrodeohatfrontEDIT_6222f336-12c2-49cd-b6a4-826ef883350f.png?v=1680811034
   Price: $35.00 USD
 - [The Party Never Ends Tee - Realtree Camo](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee): The Party Never Ends Real Tree Camo Tee UnisexMade in U.S.A.100% Cotton
-  Updated: 2026-10-05T13:01:46Z
+  Updated: 2026-10-20T19:06:01Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/tpnerealtreefront2.png?v=1714495033
   - [S](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee?variant=46019106177313)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee?variant=46019303702817)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee?variant=46019303735585)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee?variant=46019303768353)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XXL](https://store.thechainsmokers.com/products/the-party-never-ends-real-tree-camo-tee?variant=46019303801121)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [The Party Never Ends Bucket Hat](https://store.thechainsmokers.com/products/the-party-never-ends-bucket-hat): The Party Never Ends Bucket Hat 100% Cotton twill embroidered bucket hatUnstructured, 3 1/2" crown 2" brim One size fits most
   Updated: 2026-10-05T13:01:47Z
   Vendor: The Chainsmokers
@@ -270,26 +270,26 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCS-black-bucket-hat_The-Chainsmokers_2f6f955e-8f5a-4079-8991-817346ae81e1.png?v=1690988876
   Price: $15.00 USD
 - [The Party Never Ends Tee - Tan](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee): The Party Never Ends Tan Tee UnisexMade in U.S.A.100% Cotton
-  Updated: 2026-10-05T13:01:48Z
+  Updated: 2026-10-20T19:06:00Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/tpnetantee.png?v=1690988728
   - [S](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee?variant=46019380314401)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee?variant=46019380347169)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee?variant=46019380379937)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee?variant=46019380412705)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XXL](https://store.thechainsmokers.com/products/the-party-never-ends-tan-tee?variant=46019380478241)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [The Party Never Ends Tote](https://store.thechainsmokers.com/products/the-party-never-ends-tote-bag): The Party Never Ends Tote Bag 100% Cotton canvas
   Updated: 2026-10-05T13:01:49Z
   Vendor: The Chainsmokers
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TOTEUSEME.png?v=1691002366
   Price: $20.00 USD
 - [Disposable Camera](https://store.thechainsmokers.com/products/the-party-never-ends-disposable-camera): The Party Never Ends Disposable Camera, available now!
-  Updated: 2026-10-05T13:01:50Z
+  Updated: 2026-10-18T10:53:15Z
   Vendor: The Chainsmokers
   Product Type: Camera
   Availability: Available
@@ -326,49 +326,49 @@
     Availability: Available
     Price: $45.00 USD
 - [Summertime Friends Tee](https://store.thechainsmokers.com/products/summertime-friends-tee): This white unisex t-shirt is made of 100% cotton and shows The Chainsmokers embracing their summer selves on the front.
-  Updated: 2026-10-05T13:01:52Z
+  Updated: 2026-10-20T19:06:00Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/thumbnail_image002.png?v=1693952903
   - [S](https://store.thechainsmokers.com/products/summertime-friends-tee?variant=46736553017633)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [M](https://store.thechainsmokers.com/products/summertime-friends-tee?variant=46736553050401)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [L](https://store.thechainsmokers.com/products/summertime-friends-tee?variant=46736553083169)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [XL](https://store.thechainsmokers.com/products/summertime-friends-tee?variant=46736553115937)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [2XL](https://store.thechainsmokers.com/products/summertime-friends-tee?variant=46736553148705)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
 - [So Far So Good Tracklist Tee](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-16T03:46:52Z
+  Updated: 2026-10-20T19:06:00Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCS_12.png?v=1722891688
   - [S](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee?variant=50103388995873)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [M](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee?variant=50103389028641)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [L](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee?variant=50103389061409)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XL](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee?variant=50103389094177)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
   - [XXL](https://store.thechainsmokers.com/products/so-far-so-good-tracklist-black-tee?variant=50103389126945)
     Availability: Available
-    Price: $20.16 USD
+    Price: $35.00 USD
 - [So Far So Good Grid Black Long Sleeve](https://store.thechainsmokers.com/products/so-far-so-good-grid-black-long-sleeve): UnisexMade in U.S.A.Los Angeles Apparel100% Cotton
-  Updated: 2026-10-05T13:01:56Z
+  Updated: 2026-10-18T03:39:45Z
   Vendor: The Chainsmokers
   Product Type: Clothing
   Availability: Available
@@ -410,31 +410,31 @@
     Availability: Available
     Price: $60.00 USD
 - [Stamp Tee](https://store.thechainsmokers.com/products/stamp-tee): The Chainsmokers Stamp Tee in black with front print only.
-  Updated: 2026-10-07T12:19:17Z
+  Updated: 2026-10-20T19:06:00Z
   Vendor: The Chainsmokers Store
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSECHOTEE-2.png?v=1778253576
   - [S](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546688801)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [M](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546721569)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [L](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546754337)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [XL](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546787105)
     Availability: Not Available
-    Price: $20.16 USD
+    Price: $40.00 USD
   - [2XL](https://store.thechainsmokers.com/products/stamp-tee?variant=52645546819873)
     Availability: Available
-    Price: $20.16 USD
+    Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-10-17T11:02:31Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
   Updated: 2026-10-17T11:02:31Z
@@ -443,37 +443,37 @@
   Updated: 2026-10-17T11:02:31Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-10-16T11:04:19Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-10-17T11:02:31Z
+  Updated: 2026-10-18T11:02:18Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
   Total Products: 3
 - [Hats](https://store.thechainsmokers.com/collections/hats)
-  Updated: 2026-10-17T11:02:31Z
+  Updated: 2026-10-20T19:04:20Z
   Total Products: 19
 - [So Far So Good](https://store.thechainsmokers.com/collections/soearlysogood)
-  Updated: 2026-10-16T11:04:19Z
+  Updated: 2026-10-20T19:06:03Z
   Total Products: 8
 - [](https://store.thechainsmokers.com/collections/salecollection)
-  Updated: 2026-10-17T11:02:31Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-10-17T11:02:31Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
-  Updated: 2026-10-04T11:02:56Z
+  Updated: 2026-10-20T19:06:03Z
   Total Products: 9
 - [Best Sellers](https://store.thechainsmokers.com/collections/best-sellers)
-  Updated: 2026-10-04T11:02:56Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 8
 - [No Hard Feelings](https://store.thechainsmokers.com/collections/no-hard-feelings)
   Updated: 2026-09-02T11:02:54Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-10-16T11:04:19Z
+  Updated: 2026-10-20T19:06:04Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-10-15T11:03:19Z
@@ -485,7 +485,7 @@
   Updated: 2026-10-12T11:02:19Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-10-09T11:04:50Z
+  Updated: 2026-10-20T19:06:02Z
   Total Products: 3
 
 ## Store Pages
@@ -520,15 +520,15 @@
 ## Policies
 
 - [Privacy Policy](https://store.thechainsmokers.com/policies/privacy-policy)
-  Updated: 2026-06-18T11:54:22-05:00
+  Updated: 2026-06-18T16:54:22Z
 - [Shipping Policy](https://store.thechainsmokers.com/policies/shipping-policy)
-  Updated: 2024-02-20T16:36:50-06:00
+  Updated: 2024-02-20T22:36:50Z
 - [Refund Policy](https://store.thechainsmokers.com/policies/refund-policy)
-  Updated: 2026-06-18T11:54:55-05:00
+  Updated: 2026-06-18T16:54:55Z
 - [Terms of Service](https://store.thechainsmokers.com/policies/terms-of-service)
-  Updated: 2024-02-20T16:36:50-06:00
+  Updated: 2024-02-20T22:36:50Z
 - [Contact Information](https://store.thechainsmokers.com/policies/contact-information)
-  Updated: 2024-02-20T16:36:50-06:00
+  Updated: 2024-02-20T22:36:50Z
 
 ## Optional
 
