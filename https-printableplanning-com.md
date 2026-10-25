@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-10-18T08:00:34.191Z
+- Updated At: 2026-10-25T08:50:21.037Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -1384,13 +1384,13 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-10-13T11:00:52Z
+  Updated: 2026-10-24T11:01:19Z
   Total Products: 424
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
   Updated: 2026-09-09T11:01:39Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-10-13T11:00:52Z
+  Updated: 2026-10-24T11:01:19Z
   Total Products: 424
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
   Updated: 2026-10-06T11:01:05Z
@@ -1405,7 +1405,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-08-12T13:53:19Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-09-19T11:01:08Z
+  Updated: 2026-10-24T11:01:19Z
   Total Products: 26
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-08-12T13:53:19Z
@@ -1417,7 +1417,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-09-09T11:01:39Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-10-06T11:01:05Z
+  Updated: 2026-10-24T11:01:19Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-08-12T13:53:19Z
@@ -1451,9 +1451,9 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Policies
 
 - [Privacy Policy](https://printableplanning.com/policies/privacy-policy)
-  Updated: 2024-10-20T15:32:19-04:00
+  Updated: 2024-10-20T19:32:19Z
 - [Contact Information](https://printableplanning.com/policies/contact-information)
-  Updated: 2025-06-24T17:58:22-04:00
+  Updated: 2025-06-24T21:58:22Z
 
 ## Social Media
 - https://www.facebook.com/printableplanning/
