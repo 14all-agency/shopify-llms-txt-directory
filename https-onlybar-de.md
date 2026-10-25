@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-23T15:38:07Z
 - Contact Email: info@onlybar.de
-- Updated At: 2026-10-18T00:00:31.478Z
+- Updated At: 2026-10-25T00:37:55.067Z
 
 ## Products
 
 - [OnlyBar Proteinriegel Milky Caramel Crisp – mit 14 g Protein](https://onlybar.de/products/onlybar-proteinriegel-milky-caramel-crisp): OnlyBar Proteinriegel Milky Caramel Crisp: 14 g Protein, 0 g Zuckerzusatz und 195 kcal pro 50 g. Mit 150 mg Leucin, ideal nach dem Sport oder für zwischendurch.
-  Updated: 2026-10-16T17:55:12Z
+  Updated: 2026-10-21T08:53:41Z
   Vendor: OnlyBar
   Product Type: Proteinriegel
   Availability: Available
@@ -29,21 +29,21 @@
     Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlybar-proteinriegel-milky-caramel-crisp-schokoriegel-karam-3.png?v=1791111790
     Price: 84,60 € EUR
 - [OnlySauce Burger Style – cremige Burger Sauce, 47 kcal je 100 ml](https://onlybar.de/products/onlysauce-burger-style-kalorienreduzierte-burger-sauce-ohne-zuckerzusatz): OnlySauce Burger Style schmeckt wie klassische Burger Sauce: cremig, rauchig und ohne Zuckerzusatz. Mit 47 kcal pro 100 ml und 2 kcal je Teelöffel (5 ml).
-  Updated: 2026-10-16T17:55:17Z
+  Updated: 2026-10-19T05:13:59Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-burger-style-cremige-burgersauce-1.png?v=1791111801
+  Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/OnlyBar_BurgerSauce.png?v=1786894641
   Price: 4,49 € EUR
 - [OnlySauce Curry-Ketchup – Würzig-tomatig zu Pommes und Bratwurst](https://onlybar.de/products/curry-ketchup): OnlySauce Curry-Ketchup schmeckt würzig und tomatig und passt perfekt zu Pommes und Bratwurst. Ohne Zuckerzusatz, mit 24 kcal je 100
-  Updated: 2026-10-16T17:55:08Z
+  Updated: 2026-10-20T08:53:26Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Sauce
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-curry-ketchup-rotbraune-flasche-mit-schwarzem-etik.png?v=1791111801
   Price: 4,49 € EUR
 - [OnlyCherki Beef Jerky Original – Würziger Rindfleischsnack pur](https://onlybar.de/products/onlycherki-beef-jerky-original-rindfleischsnack): OnlyCherki Beef Jerky Original ist würzig-herbes Trockenfleisch aus Rindfleisch, handwerklich in einer bayerischen Metzgerei hergestellt – für Büro, Reisen oder Pause.
-  Updated: 2026-10-04T11:03:26Z
+  Updated: 2026-10-18T15:51:28Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
@@ -55,7 +55,7 @@
     Availability: Available
     Price: 42,50 € EUR
 - [OnlyCherki Beef Jerky – Pfeffer Style mit kräftigem Rindfleischgeschmack](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style): OnlyCherki Beef Jerky im Pfeffer Style: handwerklich in einer bayerischen Metzgerei aus Rindfleisch hergestellt. Herzhaft für deine Snackpause, mit 50 g Inhalt.
-  Updated: 2026-10-04T11:03:28Z
+  Updated: 2026-10-19T08:53:16Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
@@ -70,10 +70,10 @@
 ## Collections
 
 - [Kollektion](https://onlybar.de/collections/frontpage)
-  Updated: 2026-10-17T11:44:58Z
+  Updated: 2026-10-18T15:51:27Z
   Total Products: 5
 - [OnlyBar](https://onlybar.de/collections/onlybar): Proteinriegel
-  Updated: 2026-10-17T11:44:58Z
+  Updated: 2026-10-18T15:51:27Z
   Total Products: 1
 
 ## Blogs
@@ -101,8 +101,21 @@
   - [Welche zuckerfreien Süßstoffe sind wirklich gesund?](https://onlybar.de/blogs/news/welche-zuckerfreien-sussstoffe-sind-wirklich-gesund): Welche zuckerfreien Süßstoffe sind wirklich gesund?
     Updated: 2026-10-14T09:00:24Z
     Author: Pascal Zimmermann
+  - [Best Burger Sauce 2026 – Find Your Perfect Flavor](https://onlybar.de/blogs/news/best-burger-sauce-2026-find-your-perfect-flavor): Best Burger Sauce 2026 – Find Your Perfect Flavor
+    Updated: 2026-10-21T10:55:30Z
+    Author: The OnlyBar by SeamlessBio Team
+    Tags: burger sauce, burger toppings, condiment guide, homemade sauce
   - [Sind alle zuckerfreien Produkte auch wirklich kalorienarm?](https://onlybar.de/blogs/news/sind-alle-zuckerfreien-produkte-auch-wirklich-kalorienarm): Sind alle zuckerfreien Produkte auch wirklich kalorienarm?
     Updated: 2026-10-16T09:00:36Z
+    Author: Pascal Zimmermann
+  - [Zuckerfreie](https://onlybar.de/blogs/news/zuckerfreie): Zuckerfreie
+    Updated: 2026-10-18T09:01:26Z
+    Author: Pascal Zimmermann
+  - [Kalorienarme Snacks](https://onlybar.de/blogs/news/kalorienarme-snacks): Kalorienarme Snacks
+    Updated: 2026-10-21T09:00:27Z
+    Author: Pascal Zimmermann
+  - [Die Sie unbedingt probieren sollten](https://onlybar.de/blogs/news/die-sie-unbedingt-probieren-sollten): Die Sie unbedingt probieren sollten
+    Updated: 2026-10-23T09:00:29Z
     Author: Pascal Zimmermann
 
 ## Store Pages
@@ -147,13 +160,13 @@
 ## Policies
 
 - [Privacy Policy](https://onlybar.de/policies/privacy-policy)
-  Updated: 2026-05-23T19:38:59+02:00
+  Updated: 2026-05-23T17:38:59Z
 - [Refund Policy](https://onlybar.de/policies/refund-policy)
-  Updated: 2026-08-06T19:51:02+02:00
+  Updated: 2026-08-06T17:51:02Z
 - [Terms of Service](https://onlybar.de/policies/terms-of-service)
-  Updated: 2026-08-06T19:51:25+02:00
+  Updated: 2026-08-06T17:51:25Z
 - [Contact Information](https://onlybar.de/policies/contact-information)
-  Updated: 2026-08-06T19:51:54+02:00
+  Updated: 2026-08-06T17:51:54Z
 
 ## Optional
 
