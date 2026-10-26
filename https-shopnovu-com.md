@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-02T05:10:58Z
 - Contact Email: kevinhuff1203@icloud.com
-- Updated At: 2026-10-19T00:00:33.056Z
+- Updated At: 2026-10-26T00:48:11.875Z
 
 ## Products
 
@@ -2574,6 +2574,9 @@
 - [Home & Living](https://shopnovu.com/collections/home-living): Shop stylish home decor, furniture, and everyday essentials at Novu Shop. Elevate your living space today.
   Updated: 2026-10-11T07:00:34Z
   Total Products: 32
+- [Beauty & Health](https://shopnovu.com/collections/beauty-health): Shop top beauty, skincare, and health products at Novu Shop. Look and feel your best every day.
+  Updated: 2026-10-11T07:00:30Z
+  Total Products: 15
 - [Shoes](https://shopnovu.com/collections/shoes)
   Updated: 2026-10-11T07:00:37Z
   Total Products: 13
@@ -2586,9 +2589,18 @@
 - [Pet Supplies](https://shopnovu.com/collections/pet-supplies)
   Updated: 2026-10-11T06:31:49Z
   Total Products: 9
+- [Electronics](https://shopnovu.com/collections/electronics)
+  Updated: 2026-10-11T07:00:34Z
+  Total Products: 20
+- [Toys & Games](https://shopnovu.com/collections/toys-games)
+  Updated: 2026-10-11T06:21:42Z
+  Total Products: 9
 - [Books & Office](https://shopnovu.com/collections/books-office)
   Updated: 2026-10-11T05:09:59Z
   Total Products: 15
+- [Automotive](https://shopnovu.com/collections/automotive)
+  Updated: 2026-10-11T06:04:35Z
+  Total Products: 9
 - [Featured Products](https://shopnovu.com/collections/featured-products)
   Updated: 2026-10-13T07:01:14Z
   Total Products: 294
@@ -2607,11 +2619,11 @@
 ## Policies
 
 - [Privacy Policy](https://shopnovu.com/policies/privacy-policy)
-  Updated: 2026-10-02T01:11:04-04:00
+  Updated: 2026-10-02T05:11:04Z
 - [Refund Policy](https://shopnovu.com/policies/refund-policy)
-  Updated: 2026-10-11T14:38:01-04:00
+  Updated: 2026-10-11T18:38:01Z
 - [Terms of Service](https://shopnovu.com/policies/terms-of-service)
-  Updated: 2026-10-05T00:08:47-04:00
+  Updated: 2026-10-05T04:08:47Z
 
 ## Optional
 
