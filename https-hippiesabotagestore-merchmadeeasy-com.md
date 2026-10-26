@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2020-02-14T17:55:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-19T00:00:42.780Z
+- Updated At: 2026-10-26T01:00:31.738Z
 
 ## Products
 
 - [Enter The Unknown Tour Poster](https://hippiesabotagestore.merchmadeeasy.com/products/enter-the-unknown-tour-poster): Unsigned poster from the Enter The Unknown tour! 12x18 in
-  Updated: 2026-10-06T17:39:57Z
+  Updated: 2026-10-20T23:04:27Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0315/2769/8491/files/HIPPIE-SABOTAGE-UNKNOWN-TOUR-POSTER-2024.png?v=1710448264
   Price: $5.00 USD
 - [Trailblazer Vinyl](https://hippiesabotagestore.merchmadeeasy.com/products/trailblazer-vinyl): Trailblazer now available on Double LP Vinyl!
-  Updated: 2026-10-06T17:39:57Z
+  Updated: 2026-10-25T23:05:37Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
@@ -49,7 +49,7 @@
     Availability: Not Available
     Price: $17.50 USD
 - [Echoes of Time Hoodie](https://hippiesabotagestore.merchmadeeasy.com/products/echoes-of-time-tour-hoodie): Echoes of Time clock tour hoodie in black with front and back print. 50% Cotton / 50% Polyester
-  Updated: 2026-10-18T03:25:26Z
+  Updated: 2026-10-23T10:05:56Z
   Vendor: Hippie Sabotage
   Product Type: Apparel
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Echoes of Time Poster](https://hippiesabotagestore.merchmadeeasy.com/products/echoes-of-time-fall-poster): Unsigned poster from the Echoes of Time fall tour! 11x17 in
-  Updated: 2026-10-05T13:01:33Z
+  Updated: 2026-10-25T23:05:37Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Tie Dye Logo Tee](https://hippiesabotagestore.merchmadeeasy.com/products/tie-dye-logo-tee): Tie Dye Logo Tee in shade Zero G. Front print only / 100% Cotton
-  Updated: 2026-10-15T02:45:57Z
+  Updated: 2026-10-25T23:05:27Z
   Vendor: HippieSabotageStore
   Product Type: Apparel
   Availability: Available
@@ -194,7 +194,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Mushroom Sticker](https://hippiesabotagestore.merchmadeeasy.com/products/mystery-sticker): 4x4
-  Updated: 2026-10-10T01:10:47Z
+  Updated: 2026-10-21T17:52:07Z
   Vendor: HippieSabotageStore
   Product Type: Accessories
   Availability: Available
@@ -204,37 +204,37 @@
 ## Collections
 
 - [Home page](https://hippiesabotagestore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-18T11:05:06Z
+  Updated: 2026-10-23T11:05:20Z
   Total Products: 79
 - [Apparel](https://hippiesabotagestore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-18T11:05:06Z
+  Updated: 2026-10-23T11:05:20Z
   Total Products: 51
 - [Accessories](https://hippiesabotagestore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-16T11:06:57Z
+  Updated: 2026-10-22T11:05:43Z
   Total Products: 36
 - [All Products](https://hippiesabotagestore.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-18T11:05:06Z
+  Updated: 2026-10-23T11:05:20Z
   Total Products: 94
 - [Echoes of Time](https://hippiesabotagestore.merchmadeeasy.com/collections/echoes-of-time)
-  Updated: 2026-10-18T11:05:06Z
+  Updated: 2026-10-23T11:05:20Z
   Total Products: 8
 - [BOGO TEES](https://hippiesabotagestore.merchmadeeasy.com/collections/bogo-tees)
   Updated: 2026-09-10T11:06:35Z
   Total Products: 7
 - [Posters](https://hippiesabotagestore.merchmadeeasy.com/collections/posters)
-  Updated: 2026-10-07T11:05:24Z
+  Updated: 2026-10-22T11:05:43Z
   Total Products: 6
 - [Tie-Dye Collection](https://hippiesabotagestore.merchmadeeasy.com/collections/tie-dye-collection)
   Updated: 2026-10-15T11:04:18Z
   Total Products: 5
 - [Give and Take Tour Collection](https://hippiesabotagestore.merchmadeeasy.com/collections/give-and-take-tour-collection)
-  Updated: 2026-10-16T11:06:57Z
+  Updated: 2026-10-21T11:06:28Z
   Total Products: 9
 - [4/20 Tee](https://hippiesabotagestore.merchmadeeasy.com/collections/4-20-tee)
   Updated: 2026-09-10T11:06:35Z
   Total Products: 1
 - [UPSELL](https://hippiesabotagestore.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-10-10T11:05:39Z
+  Updated: 2026-10-21T11:06:28Z
   Total Products: 4
 
 ## Store Pages
@@ -253,15 +253,15 @@
 ## Policies
 
 - [Privacy Policy](https://hippiesabotagestore.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T14:18:05-05:00
+  Updated: 2026-06-18T19:18:05Z
 - [Shipping Policy](https://hippiesabotagestore.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2024-02-26T10:55:56-06:00
+  Updated: 2024-02-26T16:55:56Z
 - [Refund Policy](https://hippiesabotagestore.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T14:18:14-05:00
+  Updated: 2026-06-18T19:18:14Z
 - [Terms of Service](https://hippiesabotagestore.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2024-02-26T10:55:56-06:00
+  Updated: 2024-02-26T16:55:56Z
 - [Contact Information](https://hippiesabotagestore.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-02-26T10:55:56-06:00
+  Updated: 2024-02-26T16:55:56Z
 
 ## Optional
 
