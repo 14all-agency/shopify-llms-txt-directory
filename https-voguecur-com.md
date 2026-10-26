@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-08-20T17:34:28Z
 - Contact Email: chenjie520225@gmail.com
-- Updated At: 2026-10-19T00:00:28.662Z
+- Updated At: 2026-10-26T00:47:55.926Z
 
 VOGUE CUR is an upscale fashion brand specializing in luxury handbags, footwear and fine accessories.
 We focus on premium craftsmanship and timeless style, shipping to most countries around the world.
@@ -1717,17 +1717,17 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T20:49:17Z
   Total Products: 8
 - [Fashion sports shoes](https://voguecur.com/collections/fashion-sports-shoes): - Fashion Boutique
-  Updated: 2026-10-05T19:05:32Z
-  Total Products: 103
+  Updated: 2026-10-19T17:46:01Z
+  Total Products: 106
 - [All Products](https://voguecur.com/collections/best-sellers): - Fashion Boutique
-  Updated: 2026-10-13T20:25:37Z
-  Total Products: 580
+  Updated: 2026-10-25T20:21:00Z
+  Total Products: 593
 - [CHANEL Collection](https://voguecur.com/collections/lali-ga): - Fashion Boutique
-  Updated: 2026-10-04T19:18:49Z
-  Total Products: 30
+  Updated: 2026-10-25T20:21:00Z
+  Total Products: 33
 - [Sports casual shoes](https://voguecur.com/collections/sports-casual-shoes-1): - Fashion Boutique
-  Updated: 2026-10-05T19:14:05Z
-  Total Products: 76
+  Updated: 2026-10-19T17:46:01Z
+  Total Products: 79
 - [Fashion scarves](https://voguecur.com/collections/fashion-scarves): - Fashion Boutique
   Updated: 2026-09-17T20:53:35Z
   Total Products: 18
@@ -1750,8 +1750,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T20:41:31Z
   Total Products: 6
 - [Exclusive GUCCI Bags Collection](https://voguecur.com/collections/gucci): - Fashion Boutique
-  Updated: 2026-10-12T18:26:11Z
-  Total Products: 30
+  Updated: 2026-10-22T19:15:32Z
+  Total Products: 36
 - [PRADA Collection](https://voguecur.com/collections/prada): - Fashion Boutique
   Updated: 2026-09-17T20:58:41Z
   Total Products: 27
@@ -1765,8 +1765,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T20:41:30Z
   Total Products: 9
 - [Men's Belt](https://voguecur.com/collections/mens-belt): - Fashion Boutique
-  Updated: 2026-10-13T20:25:38Z
-  Total Products: 50
+  Updated: 2026-10-22T17:13:40Z
+  Total Products: 51
 - [lady belt](https://voguecur.com/collections/lady-belt): - Fashion Boutique
   Updated: 2026-10-13T15:41:03Z
   Total Products: 21
@@ -1792,8 +1792,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T20:46:21Z
   Total Products: 17
 - [Premium LOUIS VUITTON  Footwear Collection](https://voguecur.com/collections/louis-vuitton-shoes): - Fashion Boutique
-  Updated: 2026-10-05T19:14:05Z
-  Total Products: 42
+  Updated: 2026-10-19T17:46:01Z
+  Total Products: 45
 - [Premium Gucci Footwear Collection](https://voguecur.com/collections/gucci-shoes): - Fashion Boutique
   Updated: 2026-07-10T15:38:33Z
   Total Products: 21
@@ -1813,8 +1813,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T20:53:28Z
   Total Products: 7
 - [GUCCI Belt](https://voguecur.com/collections/gucci-belt): - Fashion Boutique
-  Updated: 2026-10-13T20:25:38Z
-  Total Products: 15
+  Updated: 2026-10-22T17:13:40Z
+  Total Products: 16
 - [CHANEL Belt](https://voguecur.com/collections/chanel-belt): - Fashion Boutique
   Updated: 2026-09-17T20:46:22Z
   Total Products: 8
@@ -1876,14 +1876,14 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T21:00:58Z
   Total Products: 3
 - [Luxury Bestsellers](https://voguecur.com/collections/luxury-bestsellers): Curated top- luxury bags, watches and fashion accessories, classic styles hot  all year round
-  Updated: 2026-10-12T18:34:50Z
-  Total Products: 61
+  Updated: 2026-10-25T20:21:00Z
+  Total Products: 69
 - [Designer Handbags](https://voguecur.com/collections/designer-handbags): Curated collection of luxury designer handbags, featuring iconic styles from top fashion houses.
-  Updated: 2026-10-12T18:31:27Z
-  Total Products: 59
+  Updated: 2026-10-22T19:15:32Z
+  Total Products: 63
 - [Stylish Footwear](https://voguecur.com/collections/designer-sneakers): Premium designer sneakers and luxury footwear for everyday style.
-  Updated: 2026-10-05T19:14:05Z
-  Total Products: 37
+  Updated: 2026-10-19T17:46:01Z
+  Total Products: 40
 - [Luxury Watches](https://voguecur.com/collections/luxury-watches): Curated selection of luxury watches and iconic timepieces.
   Updated: 2026-09-17T21:00:51Z
   Total Products: 4
@@ -1891,8 +1891,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T21:05:10Z
   Total Products: 33
 - [New Arrivals: Curated Luxury](https://voguecur.com/collections/discover-more-new-products): Be the first to explore our latest selection of luxury masterpieces. Curated based on standards of quality, craftsmanship, and enduring value—ranging from rare treasures to limited-edition collectibles—these new arrivals are created exclusively for those who appreciate extraordinary beauty.
-  Updated: 2026-10-12T17:31:21Z
-  Total Products: 66
+  Updated: 2026-10-25T20:21:00Z
+  Total Products: 76
 
 ## Blogs
 
@@ -1925,15 +1925,15 @@ All products are carefully inspected before dispatch to guarantee quality.
 ## Policies
 
 - [Privacy Policy](https://voguecur.com/policies/privacy-policy)
-  Updated: 2026-06-10T16:53:42-05:00
+  Updated: 2026-06-10T21:53:42Z
 - [Shipping Policy](https://voguecur.com/policies/shipping-policy)
-  Updated: 2026-06-10T16:55:42-05:00
+  Updated: 2026-06-10T21:55:42Z
 - [Refund Policy](https://voguecur.com/policies/refund-policy)
-  Updated: 2026-06-10T16:50:23-05:00
+  Updated: 2026-06-10T21:50:23Z
 - [Terms of Service](https://voguecur.com/policies/terms-of-service)
-  Updated: 2026-06-10T16:54:56-05:00
+  Updated: 2026-06-10T21:54:56Z
 - [Contact Information](https://voguecur.com/policies/contact-information)
-  Updated: 2024-12-22T12:02:32-06:00
+  Updated: 2024-12-22T18:02:32Z
 
 ## Social Media
 - https://www.instagram.com/Lux_retro_/
