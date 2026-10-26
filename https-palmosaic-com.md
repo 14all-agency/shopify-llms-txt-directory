@@ -6,187 +6,187 @@
 - Timezone: Asia/Hebron
 - Created At: 2025-04-25T12:04:35Z
 - Contact Email: palmosaic@gmail.com
-- Updated At: 2026-10-19T00:00:30.997Z
+- Updated At: 2026-10-26T00:46:24.193Z
 
 ## Products
 
 - [God Bless Our Home Mosaic Ceramic Wooden Gifts | Pal-Mosaic](https://palmosaic.com/products/ceramic-wooden-gifts-mosaic-art): Shop Pal-Mosaic's God Bless Our Home mosaic, a unique ceramic wooden gift blending vibrant tradition with elegant craftsmanship. Perfect for heartfelt decor.
-  Updated: 2026-08-29T03:36:10Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and earthenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/decorative_mosaic_and_earthenware_plaque_with_floral_design_and_God_Bless_Our_Home3.jpg?v=1755862148
   Price: $200.00 USD
 - [The Eternal Olive | Jerusalem Mosaic & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/the-eternal-olive-jerusalem-mosaic-tatreez): Celebrate Palestinian roots with The Eternal Olive. Hand-cut Jerusalem stone mosaic fused with traditional tatreez embroidery in a handcrafted wood frame.
-  Updated: 2026-08-29T03:36:10Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade_Jerusalem_mosaic_embroidery_with_tree_design3.jpg?v=1755861565
   Price: $220.00 USD
 - [Jerusalem: Gates of Stone | Ceramic & Mosaic Plaque — Pal-Mosaic](https://palmosaic.com/products/jerusalem-gates-of-stone-ceramic-mosaic): Authentic Palestinian ceramic tile art depicting Old Jerusalem, framed with hand-cut mosaic stones and warm finished wood. A meaningful cultural gift.
-  Updated: 2026-08-29T03:36:11Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and earthenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/mosaic_and_earthenware_plaque_featuring_traditional_Palestinian_artwork7.jpg?v=1755861396
   Price: $50.00 USD
 - [Jerusalem Limestone Whisper | Stone & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/jerusalem-limestone-whisper-tatreez): Genuine Jerusalem limestone tesserae framing delicate traditional Palestinian cross-stitch. An earthy, tactile heritage artwork crafted by Maher & Suad.
-  Updated: 2026-08-29T03:36:11Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Palestine_embroidery_framed_by_natural_Jerusalem_limestone_decor_mosaic_2.jpg?v=1755861265
   Price: $85.00 USD
 - [The Olive Sentinel | Handala Mosaic on Olive Wood — Pal-Mosaic](https://palmosaic.com/products/the-olive-sentinel-handala-olive-wood): Handala icon handcrafted from natural stone mosaic set upon aged Palestinian olive wood. A masterwork of resilience and heritage handmade by Pal-Mosaic.
-  Updated: 2026-08-29T03:36:11Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handala-mosaic-decor-full-front-mosaic-wood-frame1.jpg?v=1755861147
   Price: $380.00 USD
 - [The Native Banner | Palestine Flag Stone Mosaic Wall — Pal-Mosaic](https://palmosaic.com/products/the-native-banner-palestine-flag-mosaic): The national flag of Palestine sculpted from genuine hand-cut natural stone mosaic tiles in a handcrafted wooden frame. Timeless patriotic artwork.
-  Updated: 2026-08-29T03:36:12Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Palestine_flag_mosaic_art.jpg?v=1755860930
   Price: $100.00 USD
 - [The Tatreez Blossom | Classic Floral Tatreez & Stone — Pal-Mosaic](https://palmosaic.com/products/the-tatreez-blossom-mosaic-frame): The signature Palestinian floral cross-stitch in vivid crimson and green threads, framed by textured natural stones in solid dark wood.
-  Updated: 2026-08-29T03:36:12Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/square_wall_art_with_Palestinian_flower_embroidery_art6.jpg?v=1755860745
   Price: $90.00 USD
 - [Nocturne of Bethlehem | Geometric Tatreez & Mosaic — Pal-Mosaic](https://palmosaic.com/products/nocturne-of-bethlehem-tatreez-mosaic): An intricate heirloom piece marrying sacred Palestinian star embroidery with hand-hewn natural stone mosaic tiles in rich natural wood framing.
-  Updated: 2026-08-29T03:36:12Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handcrafted_cultural_gifts_with_embroidery_featuring_a_geometric_pattern2.jpg?v=1755860480
   Price: $90.00 USD
 - [The Welcoming Threshold (Classic) | Ahlan Wa Sahlan — Pal-Mosaic](https://palmosaic.com/products/the-welcoming-threshold-classic-mosaic): Traditional "Ahlan Wa Sahlan" welcome wall decor handcrafted with Palestinian tatreez cross-stitch and native limestone mosaic. A warm housewarming gift.
-  Updated: 2026-08-29T03:36:13Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/welcome_home_mosaic_wall_decor_with_black_and_gold_embroidery_9.jpg?v=1755860339
   Price: $120.00 USD
 - [The Jerusalem Relic | Mosaic Plaque with Stand — Pal-Mosaic](https://palmosaic.com/products/the-jerusalem-relic-standing-mosaic-plaque): Authentic Palestinian earthenware and hand-cut stone mosaic depicting Jerusalem, mounted on an elegant wooden desktop stand. Handcrafted by Pal-Mosaic.
-  Updated: 2026-08-29T03:36:13Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and earthenware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade_Jerusalem_mosaic_gift_featuring_colorful_earthenware5.jpg?v=1755860282
   Price: $200.00 USD
 - [The Heritage Weave | Mosaic & Tatreez Wall Art — Pal-Mosaic](https://palmosaic.com/products/the-heritage-weave-mosaic-tatreez): Intricate geometric tatreez needlework encased in handcrafted Palestinian natural stone mosaic. A striking blend of texture, heritage, and timeless art.
-  Updated: 2026-08-29T03:36:13Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade-palestinian-mosaic-decor-wooden-frame-colorful-stone-inlay8.jpg?v=1755796351
   Price: $100.00 USD
 - [The Bethlehem Crescent | Tatreez Moon & Stone Decor — Pal-Mosaic](https://palmosaic.com/products/the-bethlehem-crescent-mosaic-frame): A larger format showcasing Bethlehem's celestial cross-stitch pattern surrounded by textured native limestone tesserae and hand-finished dark wood.
-  Updated: 2026-08-29T03:36:14Z
+  Updated: 2026-10-25T16:23:31Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/cultural-palestinian-decor-yellow-framed-mosaic-wall-artn.jpg?v=1755796294
   Price: $90.00 USD
 - [The Moon of Bethlehem | Tatreez Moon & Stone Mosaic — Pal-Mosaic](https://palmosaic.com/products/the-moon-of-bethlehem-mosaic-tatreez): The iconic Moon of Bethlehem (Qamar Beit Lahm) star motif hand-embroidered and framed with natural Palestinian stone mosaic. Authentic cultural gift.
-  Updated: 2026-08-29T03:36:14Z
+  Updated: 2026-10-25T16:23:37Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/palestinian-mosaic-art-square-wooden-frame-multicolor-pattern1.jpg?v=1755796201
   Price: $50.00 USD
 - [The Heritage Mint | Coin & Mosaic with Stand — Pal-Mosaic](https://palmosaic.com/products/the-heritage-mint-standing-coin-mosaic): Rare vintage coins fused with Palestinian tatreez and natural stone mosaic on a solid wooden desktop stand. A unique heritage heirloom by Pal-Mosaic.
-  Updated: 2026-08-29T03:36:14Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/traditional-palestinian-art-gift-decorative-wooden-stand0.jpg?v=1755859818
   Price: $200.00 USD
 - [The Rebel’s Gaze: Che Guevara | Stone Mosaic Portrait — Pal-Mosaic](https://palmosaic.com/products/the-rebels-gaze-che-guevara-mosaic): The iconic portrait of Che Guevara meticulously handcrafted with contrast natural stone mosaic tiles on solid wood. A striking revolutionary artwork.
-  Updated: 2026-08-29T03:36:15Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade-che-guevara-mosaic-black-face-gold-background2.jpg?v=1755794559
   Price: $120.00 USD
 - [The Unbroken Stance | Handala Stone Mosaic Artwork — Pal-Mosaic](https://palmosaic.com/products/the-unbroken-stance-handala-mosaic): Handcrafted Palestinian stone mosaic depicting Handala. Hand-cut native stones framed in solid wood to embody the resilience and soul of Palestine.
-  Updated: 2026-08-29T03:36:15Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade-palestinian-handala-mosaic-yellow-black-wood-frame8.jpg?v=1755794505
   Price: $200.00 USD
 - [Echoes of Return | Handala Stone Mosaic Art Plaque — Pal-Mosaic](https://palmosaic.com/products/echoes-of-return-handala-mosaic): The iconic Handala character brought to life with hand-cut natural Palestinian stones. A profound symbol of justice, patience, and enduring heritage.
-  Updated: 2026-08-29T03:36:15Z
+  Updated: 2026-10-25T16:23:35Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handala-mosaic-art-child-holding-gun-yellow-black-stone0.jpg?v=1755794441
   Price: $230.00 USD
 - [On This Land: Worthy of Life | Mosaic & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/on-this-land-mosaic-tatreez-art): Inspired by Mahmoud Darwish's iconic verse. Handcrafted natural stone mosaic paired with exquisite red Palestinian tatreez embroidery in a dark wood frame.
-  Updated: 2026-08-29T03:36:16Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handmade-palestinian-mosaic-art-arabic-calligraphy-wooden-frame.webp?v=1755792497
   Price: $150.00 USD
 - [The Poet’s Stone: Mahmoud Darwish | Mosaic Portrait — Pal-Mosaic](https://palmosaic.com/products/the-poets-stone-mahmoud-darwish-mosaic): Portrait of Palestinian national poet Mahmoud Darwish, meticulously handcrafted in natural stone mosaic tiles. A literary and cultural masterpiece.
-  Updated: 2026-08-29T03:36:16Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/mahmoud-darwish-mosaic-art-black-white-portrait-ston.jpg?v=1755794363
   Price: $100.00 USD
 - [The Golden Meadow — Yellow Floral Tatreez & Stone Mosaic](https://palmosaic.com/products/the-golden-meadow-tatreez-mosaic-frame): Radiant yellow and earthy cross-stitch floral motifs embraced by native Palestinian stone mosaics. A warm, artisanal centerpiece for any living space.
-  Updated: 2026-08-29T03:36:16Z
+  Updated: 2026-10-25T16:23:37Z
   Vendor: Pal-Mosaic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/flower_embroidery_art_in_red_black_and_yellow_thread3.jpg?v=1755860745
   Price: $90.00 USD
 - [The Earth Blossom |  Tatreez & Stone Mosaic — Pal-Mosaic](https://palmosaic.com/products/the-earth-blossom-tatreez-mosaic-frame): Warm terracotta and bronze floral tatreez cross-stitch framed in authentic Palestinian hand-cut limestone mosaic. Handcrafted with precision by Maher & Suad.
-  Updated: 2026-08-29T03:36:17Z
+  Updated: 2026-10-25T16:23:31Z
   Vendor: Pal-Mosaic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/handcrafted_mosaic_and_Palestinian_flower_embroidery5.jpg?v=1755860745
   Price: $90.00 USD
 - [The Olive Blossom | Earth & Olive Tatreez Mosaic — Pal-Mosaic](https://palmosaic.com/products/the-olive-blossom-tatreez-mosaic-frame): Earthy brown and olive green hand-stitched Palestinian floral tatreez surrounded by hand-cut natural stone mosaic tiles in an elegant wooden frame.
-  Updated: 2026-08-29T03:36:17Z
+  Updated: 2026-10-25T16:23:36Z
   Vendor: Pal-Mosaic
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Palestinian_flower_embroidery_art_in_mosaic_5.jpg?v=1755860745
   Price: $90.00 USD
 - [The Welcoming Threshold (Crimson) | Ahlan Wa Sahlan — Pal-Mosaic](https://palmosaic.com/products/the-welcoming-threshold-crimson-mosaic): Greet guests with authentic Arab hospitality. Crimson hand-embroidered "Ahlan Wa Sahlan" framed by natural Palestinian stone mosaic and solid wood.
-  Updated: 2026-08-29T03:36:17Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/welcome_home_mosaic_wall_decor_with_embroidery_and_stone8.jpg?v=1755860366
   Price: $120.00 USD
 - [Gaza: The Tide of Resilience | Mosaic & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/gaza-tide-of-resilience-mosaic-tatreez): A tribute to courage and roots. Hand-cut Palestinian natural stone mosaic framing intricate traditional embroidery of Gaza. Handmade with heart and stone
-  Updated: 2026-08-29T03:36:17Z
+  Updated: 2026-10-25T16:23:37Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Untitleddesign_45.jpg?v=1757786199
   Price: $75.00 USD
 - [Haifa: The Coastal Whisper | Mosaic & Tatreez Art — Pal-Mosaic](https://palmosaic.com/products/haifa-coastal-whisper-mosaic-tatreez): Honor the bride of the sea with handcrafted natural Palestinian stone mosaic and red tatreez cross-stitch spelling Haifa. Authentic handmade wall decor.
-  Updated: 2026-08-29T03:36:18Z
+  Updated: 2026-10-25T16:23:31Z
   Vendor: Pal-Mosaic
   Product Type: mosaic and embroidery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/8405/3176/files/Untitleddesign_49.jpg?v=1757787045
   Price: $75.00 USD
 - [Authentic Palestinian Pottery & Stone Mosaic Wall Art | Pal-Mosaic](https://palmosaic.com/products/the-clay-ridge-wall-art): Bring Palestinian heritage into your home with "The Clay Ridge". A unique, handmade mosaic artwork featuring an authentic ancient clay fragment.
-  Updated: 2026-08-29T03:36:18Z
+  Updated: 2026-10-25T16:23:32Z
   Vendor: Pal-Mosaic
   Product Type: mosaic
   Availability: Available
@@ -222,6 +222,12 @@
 - [all](https://palmosaic.com/collections/all)
   Updated: 2026-08-26T07:54:35Z
   Total Products: 29
+- [[Shipping] 200$](https://palmosaic.com/collections/shipping-135111868600)
+  Updated: 2026-10-23T20:35:36Z
+  Total Products: 28
+- [[Shipping] General profile](https://palmosaic.com/collections/shipping-124684828856)
+  Updated: 2026-10-23T20:35:35Z
+  Total Products: 0
 
 ## Blogs
 
@@ -448,13 +454,13 @@
 ## Policies
 
 - [Privacy Policy](https://palmosaic.com/policies/privacy-policy)
-  Updated: 2025-04-25T15:04:43+03:00
+  Updated: 2025-04-25T12:04:43Z
 - [Refund Policy](https://palmosaic.com/policies/refund-policy)
-  Updated: 2026-07-09T17:03:34+03:00
+  Updated: 2026-07-09T14:03:34Z
 - [Terms of Service](https://palmosaic.com/policies/terms-of-service)
-  Updated: 2025-06-10T21:39:08+03:00
+  Updated: 2025-06-10T18:39:08Z
 - [Contact Information](https://palmosaic.com/policies/contact-information)
-  Updated: 2025-06-10T21:38:14+03:00
+  Updated: 2025-06-10T18:38:14Z
 
 ## Optional
 
