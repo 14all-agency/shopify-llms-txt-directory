@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-10-26T02:53:14Z
 - Contact Email: info@viznclothing.com
-- Updated At: 2026-10-19T00:00:43.557Z
+- Updated At: 2026-10-26T00:53:06.403Z
 
 ## Products
 
@@ -314,15 +314,15 @@
 ## Policies
 
 - [Privacy Policy](https://viznclothing.com/policies/privacy-policy)
-  Updated: 2024-09-11T01:12:20+01:00
+  Updated: 2024-09-11T00:12:20Z
 - [Shipping Policy](https://viznclothing.com/policies/shipping-policy)
-  Updated: 2026-07-25T12:43:35+01:00
+  Updated: 2026-07-25T11:43:35Z
 - [Refund Policy](https://viznclothing.com/policies/refund-policy)
-  Updated: 2026-07-25T12:42:33+01:00
+  Updated: 2026-07-25T11:42:33Z
 - [Terms of Service](https://viznclothing.com/policies/terms-of-service)
-  Updated: 2026-07-11T09:54:55+01:00
+  Updated: 2026-07-11T08:54:55Z
 - [Contact Information](https://viznclothing.com/policies/contact-information)
-  Updated: 2025-12-09T22:07:57+00:00
+  Updated: 2025-12-09T22:07:57Z
 
 ## Optional
 
