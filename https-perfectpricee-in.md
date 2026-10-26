@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-02T17:03:29Z
 - Contact Email: info@perfectpricee.in
-- Updated At: 2026-10-19T00:00:39.935Z
+- Updated At: 2026-10-26T00:54:16.842Z
 
 ## Products
 
@@ -1691,6 +1691,18 @@
 - [Trending](https://perfectpricee.in/collections/trending)
   Updated: 2026-09-30T12:33:26Z
   Total Products: 24
+- [Kunya](https://perfectpricee.in/collections/kunya): Shop the full Kunya® range — kitchen tools, home decor, and everyday essentials at great prices.
+  Updated: 2026-10-08T11:14:54Z
+  Total Products: 117
+- [Ji and Ja](https://perfectpricee.in/collections/ji-and-ja): Shop the full Ji and Ja® range — lunch bags, kids accessories, and fun essentials for little ones.
+  Updated: 2026-10-10T17:51:49Z
+  Total Products: 59
+- [Perfect Pricee](https://perfectpricee.in/collections/perfect-pricee): Shop the full Perfect Pricee® range — baking tools, kitchen essentials, and home products at great prices.
+  Updated: 2026-10-10T17:51:05Z
+  Total Products: 72
+- [Customise Your Need](https://perfectpricee.in/collections/customise-your-need): Browse customisable products at Perfect Pricee. Personalise to your exact need.
+  Updated: 2026-10-08T11:14:54Z
+  Total Products: 115
 - [Harry Porter](https://perfectpricee.in/collections/harry-porter): Harry Porter Series
   Updated: 2026-10-08T11:14:54Z
   Total Products: 3
@@ -1709,12 +1721,18 @@
 - [Ji & Ja - Trending](https://perfectpricee.in/collections/ji-and-ja-trending): Discover what's trending at Ji & Ja — popular kids essentials loved by families across India.
   Updated: 2026-10-10T17:51:49Z
   Total Products: 18
+- [Kunya - Wooden Stamp](https://perfectpricee.in/collections/kunya-wooden-stamp): Shop personalised wooden stamps by Kunya. Custom initial stamps, home stamps, book stamps and more. Crafted with care, personalised for you.
+  Updated: 2026-10-08T11:14:54Z
+  Total Products: 71
 - [Kunya - Self Ink Stamp](https://perfectpricee.in/collections/kunya-self-ink-stamp): Shop personalised self ink stamps by Kunya. Custom designs for gifting and everyday use. Crafted with care, personalised for you.
   Updated: 2026-10-03T07:41:02Z
   Total Products: 20
 - [Kunya - Bookmark](https://perfectpricee.in/collections/kunya-bookmark): Shop personalised leatherette bookmarks with tassel by Kunya. Custom names, initials or messages. Crafted with care, personalised for you.
   Updated: 2026-09-30T12:33:26Z
   Total Products: 8
+- [Kunya - UV Print](https://perfectpricee.in/collections/kunya-uv-print): Shop Kunya's UV-printed stamps and stationery. Vibrant, durable custom prints for personal libraries and book lovers. Fast dispatch across India.
+  Updated: 2026-10-08T11:14:54Z
+  Total Products: 96
 - [Ji and Ja - Bags](https://perfectpricee.in/collections/ji-and-ja-bags): Shop Ji and Ja's collection of kids bags including lunch bags, table mats and drawing bags. Fun, colorful and practical for everyday use.
   Updated: 2026-09-26T08:31:57Z
   Total Products: 1
@@ -1750,15 +1768,15 @@
 ## Policies
 
 - [Privacy Policy](https://perfectpricee.in/policies/privacy-policy)
-  Updated: 2026-09-02T22:33:34+05:30
+  Updated: 2026-09-02T17:03:34Z
 - [Shipping Policy](https://perfectpricee.in/policies/shipping-policy)
-  Updated: 2026-09-24T23:39:50+05:30
+  Updated: 2026-09-24T18:09:50Z
 - [Refund Policy](https://perfectpricee.in/policies/refund-policy)
-  Updated: 2026-09-24T23:42:00+05:30
+  Updated: 2026-09-24T18:12:00Z
 - [Terms of Service](https://perfectpricee.in/policies/terms-of-service)
-  Updated: 2026-09-03T13:58:10+05:30
+  Updated: 2026-09-03T08:28:10Z
 - [Contact Information](https://perfectpricee.in/policies/contact-information)
-  Updated: 2026-09-27T16:35:30+05:30
+  Updated: 2026-09-27T11:05:30Z
 
 ## Optional
 
