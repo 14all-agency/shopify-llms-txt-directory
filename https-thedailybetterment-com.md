@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-10-19T00:00:27.541Z
+- Updated At: 2026-10-26T00:48:57.487Z
 
 ## Products
 
@@ -121,6 +121,9 @@
 - [Home page](https://thedailybetterment.com/collections/frontpage)
   Updated: 2026-10-11T02:39:05Z
   Total Products: 1
+- [Bundles](https://thedailybetterment.com/collections/bundles)
+  Updated: 2026-10-11T02:39:05Z
+  Total Products: 5
 
 ## Blogs
 
@@ -168,6 +171,15 @@
   - [Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources](https://thedailybetterment.com/blogs/the-daily-read/why-self-help-books-to-read-online-for-free-are-crucial-for-beginners-pdf-resources): Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources
     Updated: 2026-10-18T07:00:46Z
     Author: The Daily Betterment
+  - [Unlocking Potential with Self Help PDF Download and Free Online Resources](https://thedailybetterment.com/blogs/the-daily-read/unlocking-potential-with-self-help-pdf-download-and-free-online-resources): Unlocking Potential with Self Help PDF Download and Free Online Resources
+    Updated: 2026-10-20T07:00:59Z
+    Author: The Daily Betterment
+  - [Mindset Books for Beginners What to Read Online for Free and How to Find Them](https://thedailybetterment.com/blogs/the-daily-read/mindset-books-for-beginners-what-to-read-online-for-free-and-how-to-find-them): Mindset Books for Beginners What to Read Online for Free and How to Find Them
+    Updated: 2026-10-22T07:01:02Z
+    Author: The Daily Betterment
+  - [Self Help Books to Read Online for Free Essential Checklist for Personal Growth](https://thedailybetterment.com/blogs/the-daily-read/self-help-books-to-read-online-for-free-essential-checklist-for-personal-growth): Self Help Books to Read Online for Free Essential Checklist for Personal Growth
+    Updated: 2026-10-25T07:00:19Z
+    Author: The Daily Betterment
 
 ## Store Pages
 
@@ -185,17 +197,19 @@
   Updated: 2026-09-30T05:30:49Z
 - [About Us](https://thedailybetterment.com/pages/about): Small steps. Bigger tomorrows. The Daily Betterment started with a simple idea: most people don't need a complete life makeover. They need a little...
   Updated: 2026-10-15T07:32:04Z
+- [Free Printable: 5 Calm Phrases for Hard Moments](https://thedailybetterment.com/pages/free-printable): FREE PRINTABLE 5 Calm Phrases for Hard Moments Simple words that help kids feel safe and listen, without yelling. Print it, stick it on the fridge,...
+  Updated: 2026-10-23T03:17:56Z
 
 ## Policies
 
 - [Privacy Policy](https://thedailybetterment.com/policies/privacy-policy)
-  Updated: 2026-09-08T13:39:39-04:00
+  Updated: 2026-09-08T17:39:39Z
 - [Refund Policy](https://thedailybetterment.com/policies/refund-policy)
-  Updated: 2026-09-17T23:02:32-04:00
+  Updated: 2026-09-18T03:02:32Z
 - [Terms of Service](https://thedailybetterment.com/policies/terms-of-service)
-  Updated: 2026-09-17T23:06:45-04:00
+  Updated: 2026-09-18T03:06:45Z
 - [Contact Information](https://thedailybetterment.com/policies/contact-information)
-  Updated: 2026-09-25T00:23:27-04:00
+  Updated: 2026-09-25T04:23:27Z
 
 ## Optional
 
