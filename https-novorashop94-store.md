@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-11T17:55:32Z
 - Contact Email: novora.store88@gmail.com
-- Updated At: 2026-10-18T19:07:57.337Z
+- Updated At: 2026-10-26T00:45:38.230Z
 
 ## Products
 
@@ -897,7 +897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0987/8047/9812/files/1616070580363.jpg?v=1791987884
     Price: $10.95 USD
 - [Same Outdoor Clothes Special Forces Camouflage Training Clothes](https://novorashop94.store/products/same-outdoor-clothes-special-forces-camouflage-training-clothes): Product information: Color: black suit, gray suit, green suit, brown khaki suit, CP camouflage suit, dark night camouflage suit, ruins camouflage suit Hooded or not: Hooded Combination form: One-piece set Suitable season: Winter Size: S,M,L,XL,XXL,XXXL,4XL Prevention: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top*1+Pants*1（ No belt and armband） Product Image:
-  Updated: 2026-10-18T10:34:30Z
+  Updated: 2026-10-25T12:25:38Z
   Vendor: NovoraShop94
   Product Type: 0
   Availability: Available
@@ -3027,6 +3027,9 @@
   - [Women's Western Wear | Western Clothing for Women](https://novorashop94.store/blogs/news/womens-western-wear-best-pieces): Women's Western Wear | Western Clothing for Women
     Updated: 2026-10-16T14:41:17Z
     Author: Novora Store
+  - [Newborn Photoshoot Outfits: What Parents Should Look For](https://novorashop94.store/blogs/news/newborn-photoshoot-outfits-what-parents-should-look-for): Newborn Photoshoot Outfits: What Parents Should Look For
+    Updated: 2026-10-19T13:00:15Z
+    Author: vknpie-c6
 
 ## Store Pages
 
@@ -3050,15 +3053,15 @@
 ## Policies
 
 - [Privacy Policy](https://novorashop94.store/policies/privacy-policy)
-  Updated: 2026-10-11T13:55:37-04:00
+  Updated: 2026-10-11T17:55:37Z
 - [Shipping Policy](https://novorashop94.store/policies/shipping-policy)
-  Updated: 2026-10-14T10:55:58-04:00
+  Updated: 2026-10-24T14:24:41Z
 - [Refund Policy](https://novorashop94.store/policies/refund-policy)
-  Updated: 2026-10-14T10:55:46-04:00
+  Updated: 2026-10-24T14:24:36Z
 - [Terms of Service](https://novorashop94.store/policies/terms-of-service)
-  Updated: 2026-10-14T10:55:52-04:00
+  Updated: 2026-10-14T14:55:52Z
 - [Contact Information](https://novorashop94.store/policies/contact-information)
-  Updated: 2026-10-14T10:56:56-04:00
+  Updated: 2026-10-14T14:56:56Z
 
 ## Optional
 
