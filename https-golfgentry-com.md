@@ -14,7 +14,7 @@ Customers can use  code VIP2026 for 10% off. We also offer an automatic Buy 5, P
 - Timezone: America/New_York
 - Created At: 2024-03-13T06:46:22Z
 - Contact Email: info@golfgentry.com
-- Updated At: 2026-10-19T20:01:19.305Z
+- Updated At: 2026-10-26T20:47:13.721Z
 
 Golf Gentry is an online golf apparel brand specializing in men's and women's golf clothing, custom golf apparel, team uniforms, and tournament outfits.
 
@@ -29,15 +29,15 @@ Customers can order ready-made golf apparel or request custom logo printing, per
 ## Policies
 
 - [Privacy Policy](https://golfgentry.com/policies/privacy-policy)
-  Updated: 2024-09-03T18:14:26-04:00
+  Updated: 2024-09-03T22:14:26Z
 - [Shipping Policy](https://golfgentry.com/policies/shipping-policy)
-  Updated: 2024-03-13T22:48:33-04:00
+  Updated: 2024-03-14T02:48:33Z
 - [Refund Policy](https://golfgentry.com/policies/refund-policy)
-  Updated: 2024-03-13T22:37:37-04:00
+  Updated: 2024-03-14T02:37:37Z
 - [Terms of Service](https://golfgentry.com/policies/terms-of-service)
-  Updated: 2024-03-13T22:48:33-04:00
+  Updated: 2024-03-14T02:48:33Z
 - [Contact Information](https://golfgentry.com/policies/contact-information)
-  Updated: 2024-03-13T22:50:20-04:00
+  Updated: 2024-03-14T02:50:20Z
 
 ## Key Product Categories
 - Men's Golf Polo Shirts: Lightweight, breathable, moisture-wicking golf polos for daily rounds, tournaments, and team events.
