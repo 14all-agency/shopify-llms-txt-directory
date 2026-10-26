@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2024-11-30T17:33:41Z
 - Contact Email: contact@myparismonaco.com
-- Updated At: 2026-10-19T00:00:47.368Z
+- Updated At: 2026-10-26T00:57:21.832Z
 
 ## Products
 
 - [Robe chemise blanche plissée à manches longues - MyParisMonaco](https://www.myparismonaco.com/products/sakiya-pleated-long-sleeve-shirt-dress-white): L'essentiel de la robe Cette robe chemise blanche plissée incarne l'élégance intemporelle et le minimalisme chic parisien. Avec son décolleté en V raffiné, ses détails plissés délicats et sa longueur genou sophistiquée, elle apporte une touche de sophistication décontractée à vos tenues quotidiennes et occasions casual chic. Confectionnée en coton de qualité, elle offre un tombé impeccable et un confort optimal. Comment la porter à la parisienne Portez-la avec des baskets blanches pour un look casual chic de jour, ou avec des bottines en cuir pour une version plus sophistiquée. Elle se marie parfaitement avec un sac en cuir structuré pour le bureau ou un panier en osier pour le week-end. L'astuce parisienne : accessorisez avec une ceinture fine pour marquer la taille et créer une silhouette plus féminine, ajoutez des bijoux dorés minimalistes, et superposez avec un trench beige ou un blazer oversize pour un look parisien classique et intemporel qui fonctionne aussi bien pour le travail que pour les loisirs. Caractéristiques Style : casual chic Détails : plissés raffinés Décolleté : en V Longueur : genou Manches : longues Couleur : blanc Composition : coton Conseils d'entretien Lavage en machine à l'eau froide. Repassage à température moyenne pour préserver les plissés. Séchage en machine à basse température. Guide des tailles Veuillez consulter le guide des tailles disponible ou nous contacter pour obtenir des informations précises sur les mesures. - MyParisMonaco
-  Updated: 2026-09-30T17:18:50Z
+  Updated: 2026-10-25T11:56:59Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Long-Sleeve Dress
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/marigold-shadows-blouses-shirts-sakiya-pleated-long-sleeve-shirt-dress-white-28308373897282_lzF3Qka.jpg?v=1773523293
     Price: 49,90 € EUR
 - [Robe longue bohème imprimé floral décolleté en V avec fente haute - MyParisMonaco](https://www.myparismonaco.com/products/women-summer-dress-boho-style-women-long-maxi-evening-party-dress-sexy-vintage-floral-v-neck-high-split-beach-dresses-su): L'essentiel de la robe Cette robe longue bohème imprimé floral incarne l'élégance romantique et le charme parisien estival. Avec son décolleté en V flatteur, sa fente haute sensuelle et son imprimé floral vintage délicat, elle apporte une touche de féminité bohème à vos soirées et sorties ensoleillées. Confectionnée en polyester léger avec une coupe empire et une silhouette évasée, elle offre un tombé impeccable et une allure romantique. Comment la porter à la parisienne Portez-la avec des sandales plates en cuir pour un look plage chic, ou avec des mules à talons pour une soirée en terrasse. Elle se marie parfaitement avec un panier en osier pour une journée à la plage ou une pochette tressée pour un apéritif au bord de l'eau. L'astuce parisienne : utilisez la ceinture incluse pour marquer la taille et créer une silhouette plus structurée, accessorisez avec des bijoux dorés minimalistes et un chapeau de paille, et ajoutez une veste en jean ou un kimono léger pour les soirées fraîches tout en conservant l'esprit bohème chic. Caractéristiques Style : bohème vintage Détails : fente haute, ceinture incluse Décolleté : en V Coupe : empire évasée Manches : longues Composition : polyester léger Conseils d'entretien Lavage en machine à l'eau froide. Séchage en machine à basse température. Guide des tailles Veuillez consulter le guide des tailles disponible ou nous contacter pour obtenir des informations précises sur les mesures. - MyParisMonaco
-  Updated: 2026-09-30T17:18:46Z
+  Updated: 2026-10-25T11:56:59Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Sleeveless Dress
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Women-Summer-Dress-Boho-Style-Women-Long-Maxi-Evening-Party-Dress-Sexy-Vintage-Floral-V-Neck_caed0a29-c6b0-47d9-836a-9b172c13ab47_2E35QFG.jpg?v=1773523647
     Price: 44,90 € EUR
 - [Robe en coton mercerisé col en U avec ceinture et jupe courbe - MyParisMonaco](https://www.myparismonaco.com/products/april-story-3d-u-neck-split-waist-curved-skirt-knitted-dress-for-women): L'essentiel de la robe Cette robe en coton mercerisé incarne l'élégance minimaliste et le raffinement parisien. Avec son col en U tridimensionnel flatteur, sa ceinture en corde de coton assortie qui marque la taille et sa jupe courbe sophistiquée, elle apporte une touche de sophistication décontractée à vos tenues quotidiennes et occasions casual chic. Confectionnée en coton mercerisé avec texture micro-froissée, elle offre un tombé impeccable, une allure structurée et un confort optimal. Comment la porter à la parisienne Portez-la avec des baskets blanches pour un look casual chic de jour, ou avec des sandales à talons pour une version plus sophistiquée. Elle se marie parfaitement avec un sac en cuir structuré pour le bureau ou un panier en osier pour le week-end. L'astuce parisienne : la ceinture en corde de coton crée une silhouette flatteuse et ajoute un détail raffiné, accessorisez avec des bijoux dorés minimalistes, et ajoutez une veste en jean oversize ou un blazer structuré pour un look parisien intemporel qui fonctionne aussi bien pour le travail que pour les loisirs. Caractéristiques Style : minimaliste chic Détails : col en U tridimensionnel, ceinture en corde de coton assortie Coupe : ample et structurée avec jupe courbe Manches : courtes amples Composition : 100 % coton mercerisé avec texture micro-froissée Propriétés : toucher soyeux, résistant à l'usure, structuré Conseils d'entretien Lavage en machine à l'eau froide. Séchage en machine à basse température. Le coton mercerisé est durable et facile à entretenir. Guide des tailles Le mannequin mesure 178 cm et porte une taille M. Veuillez consulter le guide des tailles disponible ou nous contacter pour obtenir des informations précises sur les mesures. - MyParisMonaco
-  Updated: 2026-09-30T17:20:46Z
+  Updated: 2026-10-25T11:56:59Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Sleeveless Dress
   Availability: Available
@@ -82,7 +82,7 @@
     Availability: Available
     Price: 84,90 € EUR
 - [Robe courte trapèze décolleté en V à volants et manches courtes - MyParisMonaco](https://www.myparismonaco.com/products/summer-solid-dress-women-casual-bohemian-v-neck-short-sleeve-ruffles-loose-a-line-mini-dress-elegant-beach-party-vestidos-street): L'essentiel de la robe Cette robe courte trapèze à décolleté en V incarne l'élégance bohème et le charme parisien estival. Avec son décolleté flatteur, ses volants délicats et sa coupe ample et confortable, elle apporte une touche de féminité décontractée à vos sorties estivales et occasions casual chic. Confectionnée en polyester légèrement extensible, elle offre un tombé impeccable et un confort optimal. Comment la porter à la parisienne Portez-la avec des sandales plates en cuir pour un look casual chic de jour, ou avec des mules à talons pour une version plus habillée en soirée. Elle se marie parfaitement avec un panier en osier pour une promenade au marché ou un brunch, ou une pochette tressée pour un apéritif en terrasse. L'astuce parisienne : accessorisez avec des bijoux dorés minimalistes et un chapeau de paille pour un look estival, et ajoutez une veste en jean ou un kimono léger pour les soirées fraîches tout en conservant l'esprit bohème et décontracté de la robe. Caractéristiques Style : bohème casual Détails : volants Décolleté : en V Coupe : trapèze ample Manches : courtes Élasticité : légèrement extensible Composition : polyester Conseils d'entretien Lavage en machine à l'eau froide. Séchage en machine à basse température. Guide des tailles Taille Longueur S 94 cm M 98 cm L 102 cm XL 106 cm XXL 112 cm - MyParisMonaco
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:56:59Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Short-Sleeve Dress
   Availability: Available
@@ -188,7 +188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/A20c2ba4b691440fb9097a8333908c99fY.jpg?v=1773523918
     Price: 15,90 € EUR
 - [Robe longue manches longues élégante - MyParisMonaco](https://www.myparismonaco.com/products/chloe-long-sleeve-gown): L'élégance intemporelle Cette robe longue à manches longues incarne le raffinement absolu pour vos événements formels. Sa coupe épurée et sa ligne fluide créent une silhouette élancée et sophistiquée, parfaite pour les occasions qui exigent une élégance discrète mais affirmée. Le tissu noble tombe avec grâce jusqu'au sol, tandis que les manches longues ajustées apportent une touche de modernité classique. La simplicité du design uni permet à la qualité de la matière et à la justesse de la coupe de s'exprimer pleinement, dans la plus pure tradition du vestiaire parisien. Comment la porter à la parisienne Pour un mariage au Château de Versailles, choisissez la version bordeaux et associez-la à des escarpins en satin nude et une pochette minimaliste. Des boucles d'oreilles pendantes en perles suffiront à parfaire l'ensemble, la robe étant déjà une pièce statement en elle-même. La version noire se prête magnifiquement aux galas et soirées de prestige. Portez-la avec des sandales à talons aiguilles dorées et un clutch métallisé. Un chignon bas sophistiqué et un rouge à lèvres bordeaux complèteront ce look d'une élégance parisienne intemporelle. Pour une réception hivernale, la version blanche éclatante s'impose avec des bottines en daim noir et un manteau long ceinturé. Ajoutez une écharpe en cachemire délicatement nouée pour cette touche d'insouciance chic qui caractérise le style parisien. Le secret réside dans la sobriété des accessoires, la robe étant suffisamment élégante pour se suffire à elle-même. Caractéristiques composition : tissu noble fluide et structuré coupe : ajustée au buste, fluide sur la jupe manches : longues ajustées longueur : cheville fermeture : zip invisible au dos coloris disponibles : noir, bordeaux, blanc entretien : nettoyage à sec recommandé pour préserver la qualité du tissu Guide des tailles taille tour de poitrine (cm) tour de taille (cm) tour de hanches (cm) longueur (cm) S 81-86 cm 63-68 cm 86-91 cm 145 cm M 86-91 cm 68-73 cm 91-96 cm 147 cm L 91-96 cm 73-78 cm 96-101 cm 149 cm XL 96-101 cm 78-83 cm 101-106 cm 151 cm - MyParisMonaco
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Long-Sleeve Dress
   Availability: Available
@@ -242,7 +242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/6646de8d.jpg?v=1773524135
     Price: 87,90 € EUR
 - [Robe longue bohème imprimé abstrait dos croisé - MyParisMonaco](https://www.myparismonaco.com/products/boho-print-maxi-dress-crossed-on-the-back): La bohème raffinée Cette robe longue bohème séduit par son imprimé abstrait graphique et son détail signature au dos. Les bretelles croisées créent une ouverture délicate qui révèle subtilement la peau, apportant une touche de sensualité discrète à cette pièce estivale. Confectionnée dans une viscose légère et aérienne, elle offre un tombé fluide et élégant qui ondule au gré de vos mouvements. Le large décolleté en V allonge harmonieusement la silhouette, tandis que la coupe ample et décontractée garantit un confort absolu tout au long de la journée. Les manches courtes apportent l'équilibre parfait entre couverture et fraîcheur. Comment la porter à la parisienne Pour un déjeuner au Jardin des Plantes, associez cette robe bleue à des sandales plates en cuir naturel et un sac panier tressé. Ajoutez des lunettes de soleil rondes et un chapeau de paille souple pour un look bohème parisien authentique. Le dos croisé se suffit à lui-même, évitez les bijoux trop présents et privilégiez de fines créoles dorées. Pour un apéritif en terrasse à Saint-Germain-des-Prés, portez-la avec des mules à talons en daim et une pochette en raphia. Laissez vos cheveux détachés avec un wavy naturel et ajoutez un bracelet fin au poignet. Un gilet en lin beige jeté sur les épaules apportera cette décontraction chic si parisienne. Pour une balade le long de la Seine, associez-la à des baskets blanches minimalistes et un sac bandoulière en cuir souple. Nouez un foulard en soie dans vos cheveux pour cette touche parisienne intemporelle. Cette robe se prête merveilleusement au layering, glissez un tee-shirt blanc fin dessous pour un look plus décontracté. Le secret réside dans la simplicité des accessoires pour laisser l'imprimé et le détail du dos s'exprimer pleinement. Caractéristiques composition : 100 % viscose, tissu tissé légercoupe : ample et décontractée, coupe bohèmeencolure : large décolleté en Vmanches : courtesdétail signature : dos ouvert avec bretelles croiséesmotif : imprimé abstrait graphiquelongueur : chevillecoupe : taille normaleentretien : lavage en machine à 30° C délicat, séchage à plat Guide des tailles taille tour de poitrine (cm) tour de taille (cm) tour de hanches (cm) longueur (cm) S 86-91 cm 66-71 cm 91-96 cm 135 cm M 91-96 cm 71-76 cm 96-101 cm 137 cm L 96-101 cm 76-81 cm 101-106 cm 139 cm XL 101-106 cm 81-86 cm 106-111 cm 141 cm Coupe ample et décontractée, taille normalement. - MyParisMonaco
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Half-Sleeve Dress
   Availability: Available
@@ -260,7 +260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/boho-print-maxi-dress-crossed-on-the-back-96a78d9e-6fea-4027-b000-c9bb40d337f1-_3.jpg?v=1773256015
     Price: 57,90 € EUR
 - [Robe longue col V imprimé toile de Jouy bleu ivoire - MyParisMonaco](https://www.myparismonaco.com/products/flowy-v-neck-dress-with-toile-de-jouy-print): L'élégance intemporelle Cette robe longue revisite avec modernité le motif iconique de la toile de Jouy dans un camaieu bleu et ivoire saisissant. Son imprimé classique français apporte une touche d'élégance intemporelle et raffinée, parfaite pour affirmer un style sophistiqué avec caractère. Le décolleté en V plongeant allonge harmonieusement la silhouette, tandis que les manches courtes amples offrent un confort aérien et une liberté de mouvement absolue. La taille ajustée avec cordon coulissant permet de personnaliser la coupe selon vos envies, créant une silhouette flatteuse qui souligne délicatement la taille. Confectionnée dans un mélange de viscose et polyester léger et texturé, elle offre un tombé fluide et élégant. Comment la porter à la parisienne Pour un déjeuner au Jardin du Palais Royal, associez cette robe à des sandales plates en cuir camel et un panier en osier. Ajoutez un chapeau de paille souple et des lunettes de soleil rondes pour un look bohème chic parisien. Le motif toile de Jouy étant déjà très présent, privilégiez des bijoux discrets comme de fines créoles dorées. Pour un vernissage à Saint-Germain-des-Prés, portez-la avec des mules à talons en daim bleu marine et une pochette en cuir structurée. Un blazer bleu marine ceinturé jeté sur les épaules apportera une touche de structure parisienne. Laissez vos cheveux détachés avec un wavy naturel et optez pour un maquillage nude pour laisser l'imprimé s'exprimer. Pour une balade dans le Marais, associez-la à des baskets blanches minimalistes et un sac bandoulière en cuir souple. Nouez un foulard en soie ivoire au poignet pour cette touche parisienne raffinée. Une veste en jean vintage complètera ce look décontracté-chic parfaitement parisien. Le secret réside dans la simplicité des accessoires pour laisser le motif toile de Jouy, véritable signature française, rayonner pleinement. Caractéristiques composition : 80 % viscose, 20 % polyester, tissu léger texturécoupe : fluide avec taille ajustée par cordon coulissantencolure : décolleté V plongeantmanches : courtes amplesmotif : toile de Jouy bleu et ivoirelongueur : maxi, chevillestyle : élégant, romantique, classique françaisentretien : lavage en machine à 30° C délicat, séchage à plat Guide des tailles taille tour de poitrine (cm) tour de taille (cm) tour de hanches (cm) longueur (cm) S 86-91 cm 66-71 cm 91-96 cm 135 cm M 91-96 cm 71-76 cm 96-101 cm 137 cm L 96-101 cm 76-81 cm 101-106 cm 139 cm XL 101-106 cm 81-86 cm 106-111 cm 141 cm Coupe fluide avec taille ajustable par cordon coulissant pour un ajustement personnalisé. - MyParisMonaco
-  Updated: 2026-09-30T17:17:51Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Half-Sleeve Dress
   Availability: Available
@@ -274,7 +274,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Flowy-V-neck-Dress-with-Toile-de-Jouy-Print-106588-_4.jpg?v=1773255943
     Price: 51,90 € EUR
 - [Blouse pois manches ballon col montant - élégance vintage](https://www.myparismonaco.com/products/polka-dot-print-lantern-sleeve-blouse): Blouse pois manches ballon col montant femme. Poignets smockés, coupe décontractée. L'élégance vintage intemporelle et polyvalente.
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -328,7 +328,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/QQ-20250403101847-_3.jpg?v=1773254942
     Price: 41,90 € EUR
 - [Chemise longue flanelle carreaux vintage femme - confort chic](https://www.myparismonaco.com/products/hot--vintage-long-shirts-button-down-plaid-blouse-wholesale-flannel-shirt-women): Chemise longue flanelle carreaux vintage femme. Coupe longue, boutonnage devant, plusieurs couleurs. Le confort chic et polyvalent intemporel.
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Chemise longue
   Availability: Available
@@ -398,14 +398,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Hb6e6cde3cb0d4286ad5a4ec18d2c0866u-_10.jpg?v=1773254936
     Price: 22,90 € EUR
 - [Lunettes de soleil rectangulaires oversize blanches - style moderne](https://www.myparismonaco.com/products/oversized-rectangular-sunglasses-with-wide-frame-in-white): Lunettes de soleil rectangulaires oversize monture large blanche. Polycarbonate 100%, design contemporain. L'accessoire statement chic et sophistiqué.
-  Updated: 2026-09-30T17:18:28Z
+  Updated: 2026-10-25T11:57:00Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Accessories - Women's Glasses - Women's Sunglasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/oversized-rectangular-sunglasses-with-wide-frame-in-white_oqXz6wZ.jpg?v=1774188722
   Price: 41,90 € EUR
 - [Maillot de bain une pièce durable édition limitée - luxe éco-responsable](https://www.myparismonaco.com/products/giardino-dei-tarocchi-sustainable-regenerated-and-limited-edition-bikini): Maillot de bain une pièce régénéré édition limitée. Production artisanale italienne, matière recyclable. Le luxe éco-responsable unique et exclusif.
-  Updated: 2026-09-30T17:20:31Z
+  Updated: 2026-10-25T11:57:01Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Suits & Sets - Women's Sets
   Availability: Available
@@ -420,7 +420,7 @@
     Availability: Available
     Price: 160,90 € EUR
 - [T-shirt en coton bio imprimé vintage - mode écoresponsable](https://www.myparismonaco.com/products/im-just-a-vintage-soul-t-shirt): T-shirt 100% coton biologique avec imprimé vintage. Matériaux écoresponsables, confection éthique, doux et confortable. Style conscient et élégant.
-  Updated: 2026-09-30T17:20:27Z
+  Updated: 2026-10-25T11:57:01Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - T-Shirts
   Availability: Available
@@ -522,7 +522,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/1631268148_Imjustavintagesoulmauv_dkhLlZu.png?v=1774188744
     Price: 40,90 € EUR
 - [Sac à dos vintage toile et cuir végan - style éthique parisien](https://www.myparismonaco.com/products/vintage-vegan-custom-your-own-logo-printed-washed-vintage-laptop-custom-logo-book-bags-leather-canvas-women-school-backpack): Sac à dos vintage toile lavée et cuir végan. Compartiment ordinateur, multiples poches, bretelles confortables. Style rétro responsable pour quotidien urbain.
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:01Z
   Vendor: MyParisMonaco
   Product Type: Sac à dos
   Availability: Available
@@ -560,14 +560,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/H18eb6b215f82407c9e17d91f1181167dO.jpg?v=1774188759
     Price: 22,90 € EUR
 - [Lunettes de soleil vintage monture épaisse - glamour intemporel](https://www.myparismonaco.com/products/vintage-solid-thick-sunglasses-brown): Lunettes de soleil vintage monture épaisse. Protection UV400 100%, verres miroir, monture incassable. Style rétro parisien chic et élégant.
-  Updated: 2026-09-30T17:17:50Z
+  Updated: 2026-10-25T11:57:01Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Accessories - Women's Glasses - Women's Sunglasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/IMG-4593-Half-Body-Front-_1.jpg?v=1773254841
   Price: 34,90 € EUR
 - [Sac à main vintage élégance parisienne - glamour intemporel](https://www.myparismonaco.com/products/brangio-vintage-parisian-elegance-handbag): Sac à main vintage peint à la main. Motifs floraux, oiseaux, voiture vintage. Bandoulière amovible, intérieur spacieux. Glamour parisien artistique.
-  Updated: 2026-10-01T05:17:05Z
+  Updated: 2026-10-25T11:57:01Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Shoulder Bags
   Availability: Available
@@ -601,14 +601,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/RA6669M-RD-_11.jpg?v=1773254789
     Price: 86,90 € EUR
 - [Raquette de pickleball design géométrique - performance et style](https://www.myparismonaco.com/products/vintage-lattice-pickleball-paddle): Raquette de pickleball design géométrique unique. Surface fibre de verre, noyau polypropylène, grip confortable. Performance optimale et esthétique moderne.
-  Updated: 2026-09-30T19:17:16Z
+  Updated: 2026-10-25T11:57:02Z
   Vendor: MyParisMonaco
   Product Type: Sports & Entertainment - Other Sports & Entertainment
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/raquette-de-pickleball-tenue-en-main-_1.png?v=1773254723
   Price: 24,90 € EUR
 - [Robe longue vintage imprimé floral manches bouffantes - romance estivale](https://www.myparismonaco.com/products/vestidos-vintage-vintage-print-puff-sleeve-summer-beach-sweet-dresses-casual-square-collar-floral-maxi-long-dress-2024-festa): Robe longue vintage imprimé floral, manches bouffantes, col carré, taille empire. Silhouette en A flatteuse, longueur mi-mollet. Style romantique parisien.
-  Updated: 2026-10-02T16:41:25Z
+  Updated: 2026-10-25T21:10:26Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Half-Sleeve Dress
   Availability: Available
@@ -678,7 +678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Hfc8320237eb449f7ba39e1029024dbe2J_K0FwJR0.jpg?v=1774188770
     Price: 14,90 € EUR
 - [Sac de voyage vintage pour week-end - élégance en déplacement](https://www.myparismonaco.com/products/dreamerz-vintage-overnight-bag): Sac de voyage vintage en cuir glacé double couche. Bagage cabine, multiples compartiments, bandoulière ajustable, finitions or rose. Style voyageur parisien.
-  Updated: 2026-09-30T17:47:06Z
+  Updated: 2026-10-25T11:57:02Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Shoulder Bags
   Availability: Available
@@ -696,14 +696,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/BFO6977-BL-UlHzFZx-_2.jpg?v=1773254687
     Price: 57,90 € EUR
 - [Sac tote vintage illustration parisienne - élégance artistique](https://www.myparismonaco.com/products/arosa-vintage-parisian-tote-bag): Sac tote vintage avec illustrations parisiennes : tour Eiffel, roses, voiture classique. Spacieux, finition glacée, charm floral. Romance parisienne intemporelle.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:02Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Backpacks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/FG-SL-daa47e6d-9e6c-4c59-86b6-f19183b9a455-Vw43vZy-_1.jpg?v=1773254648
   Price: 64,90 € EUR
 - [T-shirt unisexe en coton premium - confort et style intemporel](https://www.myparismonaco.com/products/vintage-soul-butterfly-tee): T-shirt unisexe 100% coton Airlume premium. Doux, respirant, coupe ajustée, fabrication éthique. Essentiel du vestiaire parisien décontracté.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:03Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - T-Shirts
   Availability: Available
@@ -805,7 +805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/vintage-soul-butterfly-tee-peachy-sunday-t-shirt-33187865985182-sUJqFe3-_4.png?v=1773254642
     Price: 40,90 € EUR
 - [Sac tote vintage motif floral - élégance intemporelle parisienne](https://www.myparismonaco.com/products/brangio-vintage-floral-tote): Sac tote vintage motif floral ivoire et chocolat. Spacieux, organisé, bandoulière amovible, finitions dorées. Parfait pour le travail, voyage et quotidien.
-  Updated: 2026-09-30T17:17:03Z
+  Updated: 2026-10-25T11:57:03Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Shoulder Bags
   Availability: Available
@@ -823,14 +823,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/RL9583-BN-KJH8CW6-_1.jpg?v=1773254559
     Price: 86,90 € EUR
 - [Casquette vintage en sergé de coton - style décontracté parisien](https://www.myparismonaco.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap): Casquette vintage en sergé de coton 100% avec effet délavé. Broderie délicate, profil bas, ajustable. Style rebelle et élégant pour un look parisien effortless.
-  Updated: 2026-09-30T17:19:56Z
+  Updated: 2026-10-25T11:57:03Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Hoodies & Sweatshirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/vintage-cap-black-front-661aa40fabd5a_9Kd5PrG.jpg?v=1774188822
   Price: 35,90 € EUR
 - [Robe smock courte imprimé floral fuchsia - romantisme parisien](https://www.myparismonaco.com/products/mini-smock-dress-in-fuchsia-vintage-floral): Robe smock courte imprimé floral fuchsia. Manches longues, large col, taille élastique, ceinture incluse. Style romantique et décontracté pour un look parisien.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:03Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Long-Sleeve Dress
   Availability: Available
@@ -848,14 +848,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/mini-smock-dress-in-fuchsia-vintage-floral-6a7aba67-370a-4c07-a7ad-e365a6386ea7-_6.jpg?v=1773254502
     Price: 93,90 € EUR
 - [Casquette vintage en sergé de coton - style décontracté parisien](https://www.myparismonaco.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap-1): Casquette vintage en sergé de coton 100% avec effet délavé. Broderie délicate, profil bas, ajustable. Style rebelle et élégant pour un look parisien effortless.
-  Updated: 2026-09-30T17:24:51Z
+  Updated: 2026-10-25T11:57:03Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Hoodies & Sweatshirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/vintage-cap-pink-front-661aa6c38edfb-ALKsKUl-_1.jpg?v=1773254456
   Price: 35,90 € EUR
 - [Sac à main vintage motif floral - élégance intemporelle](https://www.myparismonaco.com/products/brangio-vintage-floral-satchel): Sac à main vintage motif floral ivoire et chocolat. Finitions dorées, bandoulière amovible, intérieur spacieux. Élégance parisienne raffinée.
-  Updated: 2026-10-01T05:16:46Z
+  Updated: 2026-10-25T11:57:04Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Shoulder Bags
   Availability: Available
@@ -873,21 +873,21 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/RLH9575-BN-s5uvNx7-_1.jpg?v=1773254392
     Price: 86,90 € EUR
 - [Kimono en lin artisanal tissé main - élégance naturelle](https://www.myparismonaco.com/products/fire-goddess-linen-kimono): Kimono en lin naturel tissé à la main avec motifs imprimés artisanalement. Teintures bio Oeko-Tex®100. Pièce unique 70% lin 30% coton. Style bohème parisien.
-  Updated: 2026-09-30T17:19:46Z
+  Updated: 2026-10-25T11:57:04Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Weddings & Events - Evening Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/womenscottonbathrobe-_1.png?v=1773254329
   Price: 95,90 € EUR
 - [Casquette vintage rebel girl coton sergé - style rétro rebelle](https://www.myparismonaco.com/products/vintage-cap-rebel-girl-vintage-cotton-twill-cap-2): Casquette vintage rebel girl sergé coton 100%. Effet délavé, broderie complexe, ajustable. Le style vintage rebelle intemporel et authentique.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:04Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Hoodies & Sweatshirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/vintage-cap-maroon-front-661aa78729a8f-UOT5TzM-_1.jpg?v=1773254313
   Price: 35,90 € EUR
 - [Sac cabas imprimé léopard - style audacieux iconique](https://www.myparismonaco.com/products/leopard-printed-tote-bag): Sac cabas imprimé léopard polyester. Format généreux, anses confortables. Le style audacieux iconique et polyvalent.
-  Updated: 2026-10-01T05:16:41Z
+  Updated: 2026-10-25T11:57:04Z
   Vendor: MyParisMonaco
   Product Type: Bags & Luggage - Women's Bags - Shoulder Bags
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/HDG2702WT-3T_6Re11eE.jpg?v=1774188881
     Price: 17,90 € EUR
 - [Combi-short blanche transparente manches longues - style sexy audacieux](https://www.myparismonaco.com/products/white-see-through-playsuit): Combi-short blanche transparente manches longues femme. Style sexy polyvalent, effet transparent. Le style audacieux chic et festif.
-  Updated: 2026-09-30T17:17:06Z
+  Updated: 2026-10-25T11:57:04Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jumpsuits
   Availability: Available
@@ -923,7 +923,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/white_playsuit_4.jpg?v=1774188927
     Price: 43,90 € EUR
 - [Combi-short sequins beige décolleté plongeant - glamour sexy](https://www.myparismonaco.com/products/beige-sequin-playsuit-romper): Combi-short sequins beige décolleté plongeant sans manches femme. Style sexy tendance, polyvalence jour-soirée. Le glamour chic et festif.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:05Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress
   Availability: Available
@@ -945,7 +945,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/t2KHOxfdpeFTo1CDoeij9VebPZHlhXio.jpg?v=1774188954
     Price: 32,90 € EUR
 - [Chapeau de paille large bord femme - protection solaire chic](https://www.myparismonaco.com/products/2020-summer-women-wide-brim-straw-hat-fashion-chapeau-paille-lady-sun-hats-boater-wheat-panama-beach-hats-chapeu-feminino-caps): Chapeau de paille large bord femme style boater panama. Protection solaire, plusieurs largeurs. L'accessoire estival élégant et intemporel.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:05Z
   Vendor: MyParisMonaco
   Product Type: Chapeau
   Availability: Available
@@ -975,7 +975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/H8f1ee87074c4478390ebad936f903152F_dzoIvCg.jpg?v=1774188955
     Price: 30,90 € EUR
 - [Chemise manches nœuds boutonnage devant - design exclusif féminin](https://www.myparismonaco.com/products/bow-sleeve-button-down-shirt): Chemise manches nœuds boutonnage devant femme. Col classique, détails nœuds délicats. Le design exclusif féminin romantique et raffiné.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:05Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -997,14 +997,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/22203737_d513800a-544c-441f-b652-361686c66e04.jpg?v=1774188973
     Price: 27,90 € EUR
 - [Chapeau fedora rouge bordeaux avec chaîne - élégance parisienne](https://www.myparismonaco.com/products/lets-link-up-belted-chain-fedora-hat-burgundy): Chapeau fedora classique rouge bordeaux avec bandeau cuir noir et chaîne dorée. Taille unique, 65% polyester 35% coton. Style parisien automne-hiver chic.
-  Updated: 2026-09-30T17:46:41Z
+  Updated: 2026-10-25T11:57:05Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Accessories - Women's Hats - Women's Fedoras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/chapeau-fedora-rouge-en-contexte-parisien-_1.png?v=1773254228
   Price: 15,90 € EUR
 - [Jupe courte maille côtelée rayée blanc et vert - fraîcheur bohème](https://www.myparismonaco.com/products/ribbed-knitted-mini-skirt-in-white-and-green): Jupe courte maille côtelée rayures blanc et vert. Coupe moulante, bord festonné, taille élastique. Style bohème chic estival parisien.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:06Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Skirt - Pencil Skirt
   Availability: Available
@@ -1022,7 +1022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/ribbed-knitted-mini-skirt-in-white-and-green-acd73087-37d0-42e4-8900-c2524fd7c23a-_6.jpg?v=1773254082
     Price: 45,90 € EUR
 - [Jupe courte blanche broderie anglaise à volants - fraîcheur bohème](https://www.myparismonaco.com/products/broderie-frill-mini-skirt-in-white): Jupe courte blanche en coton avec broderie anglaise et volants. Taille haute élastique, doublure intégrale. Style bohème chic estival parisien.
-  Updated: 2026-09-30T17:17:07Z
+  Updated: 2026-10-25T11:57:06Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Skirt - Pleated skirt
   Availability: Available
@@ -1040,7 +1040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/broderie-frill-mini-skirt-in-white_b8a78015-25d3-4108-ad0b-28af1a9dee19.jpg?v=1774189109
     Price: 50,90 € EUR
 - [Sandales en cuir à brides noires - élégance estivale intemporelle](https://www.myparismonaco.com/products/mangara-black-angico-leather-strappy-sandals): Sandales en cuir véritable à brides noires. Design raffiné, confort optimal, durabilité exceptionnelle. Style parisien estival élégant et polyvalent.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:06Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Shoes - Women's Flats
   Availability: Available
@@ -1094,7 +1094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/mangara-angico-women-s-summer-sandals-warm-weather-2.jpg?v=1774189164
     Price: 59,90 € EUR
 - [Sandales plates fleur jaune - fraîcheur estivale parisienne](https://www.myparismonaco.com/products/noho-yellow-flower-sandale): Sandales plates avec fleur jaune décorative. Cuir végan, confection artisanale, confort optimal. Style estival joyeux et élégant pour été parisien.
-  Updated: 2026-09-30T18:16:33Z
+  Updated: 2026-10-25T11:57:06Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Shoes - Women's Flats
   Availability: Available
@@ -1136,7 +1136,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/DSC_0306_AxxcIP4.jpg?v=1774189172
     Price: 65,90 € EUR
 - [Espadrilles plates imperméables ornées de feuilles dorées - confort chic](https://www.myparismonaco.com/products/smith-gold-leaf-embellished-waterproof-espadrille-flat-for-women): Espadrilles plates imperméables avec feuilles dorées. Cuir végan, confection artisanale, confort optimal. Style parisien décontracté et élégant.
-  Updated: 2026-09-30T17:17:06Z
+  Updated: 2026-10-25T11:57:07Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Shoes - Women's Flats
   Availability: Available
@@ -1173,30 +1173,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/DSC_7989_JeQaFiQ.jpg?v=1774189180
     Price: 98,90 € EUR
-- [Combinaison moulante résille ornée de cristaux - glamour audacieux](https://www.myparismonaco.com/products/beyo-diamante-embellished-crystal-mesh-catsuit): Combinaison moulante en résille avec cristaux scintillants. Confection sur mesure, style célébrité, silhouette spectaculaire. Pour soirées exceptionnelles.
-  Updated: 2026-09-30T17:17:05Z
-  Vendor: MyParisMonaco
-  Product Type: Women's Fashion - Weddings & Events - -Inspired Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Beyo-Diamante-Embellished-Crystal-Mesh-Catsuit-by-GUZUNDSTRAUS-Feminine-Culture-Festive-Vibe-Par_2337_1.jpg?v=1773253913
-  - [S](https://www.myparismonaco.com/products/beyo-diamante-embellished-crystal-mesh-catsuit?variant=53914071073108)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Beyo_Diamante_Embellished_Crystal_Mesh_Catsuit_by_GUZUNDSTRAUS_-_Feminine_Culture_Festive_Vibe_-_Party_Dress_to_Impress_-_Luxury_Dresses_2.jpg?v=1774189187
-    Price: 172,90 € EUR
-  - [M](https://www.myparismonaco.com/products/beyo-diamante-embellished-crystal-mesh-catsuit?variant=53914071105876)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Beyo_Diamante_Embellished_Crystal_Mesh_Catsuit_by_GUZUNDSTRAUS_-_Feminine_Culture_Festive_Vibe_-_Party_Dress_to_Impress_-_Luxury_Dresses_2.jpg?v=1774189187
-    Price: 172,90 € EUR
-  - [L](https://www.myparismonaco.com/products/beyo-diamante-embellished-crystal-mesh-catsuit?variant=53914071138644)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Beyo_Diamante_Embellished_Crystal_Mesh_Catsuit_by_GUZUNDSTRAUS_-_Feminine_Culture_Festive_Vibe_-_Party_Dress_to_Impress_-_Luxury_Dresses_2.jpg?v=1774189187
-    Price: 172,90 € EUR
-  - [XL](https://www.myparismonaco.com/products/beyo-diamante-embellished-crystal-mesh-catsuit?variant=53914071171412)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Beyo_Diamante_Embellished_Crystal_Mesh_Catsuit_by_GUZUNDSTRAUS_-_Feminine_Culture_Festive_Vibe_-_Party_Dress_to_Impress_-_Luxury_Dresses_2.jpg?v=1774189187
-    Price: 172,90 € EUR
 - [Robe de soirée plissée en mousseline et satin - élégance royale](https://www.myparismonaco.com/products/graceful-dreamer): Robe de soirée en mousseline plissée main et satin. Col montant, ceinture intégrée, nœud amovible. Confection artisanale, disponible sur mesure.
-  Updated: 2026-09-30T17:17:06Z
+  Updated: 2026-10-25T11:57:07Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Weddings & Events - Evening Dresses
   Availability: Available
@@ -1218,7 +1196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/square-rochie_seara_craiasa_9_16_CR24_Mov-5.jpg?v=1774189201
     Price: 305,90 € EUR
 - [Robe de soirée noire fendue haute - élégance intemporelle](https://www.myparismonaco.com/products/black-high-slit-gown): Robe de soirée longue noire avec fente haute. Silhouette raffinée, coupe ajustée, style formel élégant. Parfaite pour galas, cocktails et occasions spéciales.
-  Updated: 2026-09-30T17:17:03Z
+  Updated: 2026-10-25T11:57:07Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Weddings & Events - Evening Dresses
   Availability: Available
@@ -1239,34 +1217,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Robin_Black_Evening_Gown_3.jpg?v=1774189219
     Price: 76,90 € EUR
-- [Ensemble tailleur dentelle noire - élégance soirée | MyParisMonaco](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit): Découvrez notre ensemble tailleur en dentelle noire : veste cintrée et pantalon droit pour une élégance audacieuse. Pièce sophistiquée parfaite pour vos soirées chics et événements prestigieux.
-  Updated: 2026-09-30T17:17:05Z
-  Vendor: MyParisMonaco
-  Product Type: Women's Fashion - Weddings & Events - Evening Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-0.jpg?v=1774189298
-  - [S](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit?variant=53919910658388)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-3.jpg?v=1774189299
-    Price: 91,90 € EUR
-  - [M](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit?variant=53919910691156)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-3.jpg?v=1774189299
-    Price: 91,90 € EUR
-  - [L](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit?variant=53919910723924)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-3.jpg?v=1774189299
-    Price: 91,90 € EUR
-  - [XL](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit?variant=53919910756692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-3.jpg?v=1774189299
-    Price: 91,90 € EUR
-  - [XXL](https://www.myparismonaco.com/products/lace-stretchy-jacket-suit?variant=53919910789460)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/D260108-3.jpg?v=1774189299
-    Price: 91,90 € EUR
 - [Pantalon noir broderies blanches - style avant-garde | MyParisMonaco](https://www.myparismonaco.com/products/trona-straps-embroidered-oval-shape-black-jeans-unisex): Découvrez notre pantalon noir taille haute avec broderies blanches graphiques. Pièce avant-gardiste qui allie confort et sophistication pour un style parisien audacieux et contemporain.
-  Updated: 2026-09-30T17:17:03Z
+  Updated: 2026-10-25T11:57:07Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jeans - Flare Jeans
   Availability: Available
@@ -1288,7 +1240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/TronaStrapsEmbroideredOvalShapeBlackJeansUnisexbyGUZUNDSTRAUS-FestiveVibeandFeminineCulture-OutstandingLuxuryDressesandContemporaryDenim3.jpg?v=1774189334
     Price: 70,90 € EUR
 - [T-shirt rose cristaux découpes - chic glamour | MyParisMonaco](https://www.myparismonaco.com/products/xena-cut-out-crystal-embellished-t-shirt-pink): Découvrez notre t-shirt rose orné de cristaux avec découpes raffinées. Pièce statement qui allie décontraction et glamour pour un style parisien moderne et sophistiqué.
-  Updated: 2026-09-30T17:16:10Z
+  Updated: 2026-10-25T11:57:08Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - T-Shirts
   Availability: Available
@@ -1310,7 +1262,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/XenaCut-outCrystal-Embellished-T-shirt-Pink-by-GUZUNDSTRAUS-Festive-Vibes-and-Feminine-Culture-Outstanding-Luxury-Dresses-and-Contemporary-Denim-1.jpg?v=1774189229
     Price: 52,90 € EUR
 - [Robe longue beige cristaux découpes - cocktail chic | MyParisMonaco](https://www.myparismonaco.com/products/vena-embellished-cut-out-crystal-maxi-dress-beige): Découvrez notre robe longue beige ornée de cristaux avec découpes raffinées. Élégance parisienne et audace moderne pour vos soirées d'exception. Sophistication garantie.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:08Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Weddings & Events - Cocktail Dresses
   Availability: Available
@@ -1336,7 +1288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/VenaEmbellishedCut-OutCrystalMaxiDressBeigebyGUZUNDSTRAUS-FeminineCulture_FestiveVibe-PartyDresstoImpress-LuxuryDresses2.jpg?v=1774189237
     Price: 70,90 € EUR
 - [Robe longue noire cristaux - élégance soirée | MyParisMonaco](https://www.myparismonaco.com/products/zaka-black-embellished-crystal-maxi-dress): Découvrez notre robe longue noire ornée de cristaux scintillants, parfaite pour vos soirées d'exception. Élégance parisienne et raffinement absolu pour un style inoubliable.
-  Updated: 2026-09-30T17:19:10Z
+  Updated: 2026-10-25T11:57:08Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Weddings & Events - Evening Dresses
   Availability: Available
@@ -1361,34 +1313,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/ZakaBlackEmbellishedCrystalMaxiDressbyGUZUNDSTRAUS-FeminineCulture_FestiveVibe-PartyDresstoImpress-LuxuryDresses6.jpg?v=1774189290
     Price: 61,90 € EUR
-- [Ensemble blazer et pantalon dentelle florale noire - élégance sophistiquée](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black): Ensemble blazer taillé et pantalon large dentelle florale noire. Décolleté V, taille haute. Parfait galas, mariages. Élégance parisienne sophistiquée.
-  Updated: 2026-09-30T17:17:05Z
-  Vendor: MyParisMonaco
-  Product Type: Women's Fashion - Weddings & Events - Evening Dresses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-  - [S](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black?variant=53919912657236)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-    Price: 104,90 € EUR
-  - [M](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black?variant=53919912690004)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-    Price: 104,90 € EUR
-  - [L](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black?variant=53919912722772)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-    Price: 104,90 € EUR
-  - [XL](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black?variant=53919912755540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-    Price: 104,90 € EUR
-  - [2XL](https://www.myparismonaco.com/products/carie-sequin-floral-blazer-set-black?variant=53919912788308)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/50d438c004224530aaba24fddbf3309f.thumbnail.0000000000_3ZSP3Yt.jpg?v=1774189314
-    Price: 104,90 € EUR
 - [Jean taille haute bleu orné de cristaux - glamour audacieux parisien](https://www.myparismonaco.com/products/auga-crystal-embellished-high-waist-blue-jeans-unisex): Jean taille haute bleu cristaux scintillants, coupe ample relaxed, denim qualité. Style statement glamour parisien audacieux pour occasions spéciales.
-  Updated: 2026-09-30T17:19:02Z
+  Updated: 2026-10-25T11:57:08Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jeans - Flare Jeans
   Availability: Available
@@ -1406,21 +1332,21 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Auga_Crystal_Embellished_High_Waist_Blue_Jeans_Unisex_by_GUZUNDSTRAUS_-_Festive_Vibe_and_Feminine_Culture_-_Outstanding_Luxury_Dresses_and_contemporary_Denim_4_vTNZyqW.jpg?v=1774189321
     Price: 70,90 € EUR
 - [Chapeau fedora bicolore noir chic - élégance parisienne intemporelle](https://www.myparismonaco.com/products/chic-colorblock-fedora-hat-black): Chapeau fedora bicolore noir et café, large bord, ceinture, modulable. Laine et coton. Taille unique. Style parisien chic intemporel et sophistiqué.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:09Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Accessories - Women's Hats - Women's Fedoras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/chapeau-fedora-bicolore-port-dans-un-contexte-parisien.png?v=1773331572
   Price: 27,90 € EUR
 - [Robe-chemise noire plissée à manches longues - élégance intemporelle](https://www.myparismonaco.com/products/hotaru-long-sleeve-pleated-shirt-dress-black): Robe-chemise noire plissée col montant, manches longues, jersey coton. Taille unique, style casual chic. Élégance parisienne intemporelle sophistiquée.
-  Updated: 2026-10-06T11:30:20Z
+  Updated: 2026-10-25T11:57:09Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/marigold-shadows-dresses-hotaru-long-sleeve-pleated-shirt-dress-black-28313129844802_u5KmkBX.jpg?v=1774189336
   Price: 51,90 € EUR
 - [Top court en lin pré-lavé manches ouvertes - fraîcheur estivale](https://www.myparismonaco.com/products/naturally-hip-top): Top court lin pré-lavé, manches ouvertes, fermeture éclair dos. Naturel ou ciel. Style décontracté chic parisien estival respirant.
-  Updated: 2026-09-30T17:15:54Z
+  Updated: 2026-10-25T11:57:09Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1450,7 +1376,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c225_natural.jpg?v=1774189351
     Price: 42,90 € EUR
 - [Chemise col revers manches longues ourlet irrégulier - minimalisme parisien](https://www.myparismonaco.com/products/sonoya-lapel-long-sleeve-irregular-hem-shirt): Chemise col revers ourlet irrégulier, manches longues, jersey coton. Coupe ample, blanc ou noir. Style casual chic minimaliste parisien moderne.
-  Updated: 2026-09-30T17:17:06Z
+  Updated: 2026-10-25T11:57:10Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1480,7 +1406,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/marigold-shadows-shirts-sonoya-lapel-long-sleeve-irregular-hem-shirt-28314041581634_Bu4iRpW.jpg?v=1774189353
     Price: 45,90 € EUR
 - [Chemise léopard manches 3/4 avec détails rouges - audace parisienne](https://www.myparismonaco.com/products/leopard-3-4-sleeves-shirt-with-red-details): Chemise imprimé léopard col rouge, manches 3/4, coupe oversize. 100% polyester léger. Style comfy chic audacieux et sophistiqué parisien.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:10Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1498,14 +1424,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/leopard-34-sleeves-shirt-with-red-details_b5f6fc66-7774-43b8-87c7-bcfdabcf8232.jpg?v=1774189359
     Price: 44,90 € EUR
 - [Robe-chemise blanche plissée à manches longues - minimalisme parisien](https://www.myparismonaco.com/products/hotaru-long-sleeve-pleated-shirt-dress-white): Robe-chemise blanche plissée col montant, manches longues, jersey coton. Taille unique, style casual chic. Élégance minimaliste parisienne intemporelle.
-  Updated: 2026-10-06T11:30:16Z
+  Updated: 2026-10-25T11:57:10Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/marigold-shadows-dresses-hotaru-long-sleeve-pleated-shirt-dress-white-1191597594.png?v=1774189364
   Price: 51,90 € EUR
 - [Chemise ample en coton vert à col polo - élégance décontractée](https://www.myparismonaco.com/products/cotton-loose-fit-shirt-in-green): Chemise ample coton 100% vert, col polo, manches longues. Coupe relaxed confortable. Style tailored casual parisien. Fraîcheur et élégance.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:10Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1523,7 +1449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/cotton-loose-fit-shirt-in-green_3b2223dc-ae69-42ad-83fb-1b23f09d1126.jpg?v=1774189411
     Price: 58,90 € EUR
 - [Chemise oversize blanche à col rond - minimalisme parisien](https://www.myparismonaco.com/products/oversized-collared-shirt-in-white): Chemise oversize blanche col rond, manches longues. 65% polyester 35% coton. Coupe ample confortable. Style casual chic minimaliste parisien.
-  Updated: 2026-09-30T17:17:05Z
+  Updated: 2026-10-25T11:57:11Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1541,7 +1467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/oversized-collared-shirt-in-white_e1b08325-ad1d-4496-b165-f56b86407bdc.jpg?v=1774189416
     Price: 40,90 € EUR
 - [Top épaules dénudées rayé en lyocell et laine - élégance parisienne](https://www.myparismonaco.com/products/fashionable-off-shoulder-lyocell-tencel-wool-blended-draped-patchwork-striped-t-shirtpicasso-lines): Top off-shoulder rayé lyocell et laine mérinos. Design ample ajusté, respirant, élastique. 2 coloris. Style parisien chic et sensuel toutes saisons.
-  Updated: 2026-09-30T17:16:45Z
+  Updated: 2026-10-25T11:57:11Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1571,7 +1497,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/48_c0db9647-536c-4250-9e47-8b80904a7968.jpg?v=1774189437
     Price: 72,90 € EUR
 - [Chemise longue déstructurée en coton peigné - avant-garde parisienne](https://www.myparismonaco.com/products/tencel-jacquard-striped-long-sleeved-shirt-jacket-womens-loose-topspring-and-summer-prank): Chemise longue déstructurée coton peigné 50 fils. Coutures déchirées, plis structurels, coupe avant-gardiste. Style parisien unique et audacieux.
-  Updated: 2026-09-30T17:15:30Z
+  Updated: 2026-10-25T11:57:11Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1589,7 +1515,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/04_70dec6e5-25d1-4a12-b389-94a6c398b4f8.jpg?v=1774189451
     Price: 70,90 € EUR
 - [Coupe-vent court imperméable à grand col - élégance urbaine](https://www.myparismonaco.com/products/night-messenger-anti-wrinkle-waterproof-large-lapel-short-straight-box-windbreaker-for-women): Coupe-vent court imperméable coupe boxy, grand col, coton longues fibres. Infroissable, respirant, style urbain chic. Parfait pour parisienne moderne.
-  Updated: 2026-09-30T17:15:29Z
+  Updated: 2026-10-25T11:57:12Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -1607,7 +1533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/SKU02_7ce68b54-1c68-43fa-8315-7adc07449678.jpg?v=1774189474
     Price: 181,90 € EUR
 - [Body pailletté doré à décolleté en V profond | MyParisMonaco](https://www.myparismonaco.com/products/shiny-glitter-body-with-deep-v-neck-in-gold): Body pailletté doré en lurex scintillant avec décolleté en V profond et manches longues. Coupe près du corps. Glamour absolu pour vos soirées festives.
-  Updated: 2026-09-30T17:15:25Z
+  Updated: 2026-10-25T11:57:12Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Bodysuits
   Availability: Available
@@ -1625,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/shiny-glitter-body-with-deep-v-neck-in-gold_9cdc6d66-db68-4d35-9f4d-435729fcf789.jpg?v=1774189539
     Price: 72,90 € EUR
 - [Maillot de bain une pièce rayé | MyParisMonaco](https://www.myparismonaco.com/products/find-your-coast®-striped-one-piece-swimsuit): Maillot de bain une pièce rayé en tissu doux et extensible. Résistant au chlore, coupe flatteuse et dos échancré. Élégance balnaire intemporelle.
-  Updated: 2026-09-30T17:15:30Z
+  Updated: 2026-10-25T11:57:12Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Bodysuits
   Availability: Available
@@ -1659,7 +1585,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/all-over-print-one-piece-swimsuit-white-front-65ef6cd17f62e.png?v=1774189501
     Price: 54,90 € EUR
 - [Sweat court sport à manches raglan | MyParisMonaco](https://www.myparismonaco.com/products/sport-x-shrug-sweatshirt): Sweat court sport en molleton français 100% coton. Manches raglan et logo brodé minimaliste. Style athleisure chic pour un look urbain parisien.
-  Updated: 2026-09-30T17:15:23Z
+  Updated: 2026-10-25T11:57:12Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Hoodies & Sweatshirts
   Availability: Available
@@ -1697,7 +1623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/RBTL-1003_Heather-GreyWhite_Front_J022MJN.jpg?v=1774189549
     Price: 57,90 € EUR
 - [Haut fleuri à bretelles avec finitions dentelle | MyParisMonaco](https://www.myparismonaco.com/products/lace-trim-detail-floral-top-in-multicolour): Haut romantique à bretelles ajustables avec imprimé floral et finitions dentelle. Tissu léger et décolleté en V. Parfait pour vos soirées d'été.
-  Updated: 2026-09-30T17:15:20Z
+  Updated: 2026-10-25T11:57:13Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1715,7 +1641,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/lace-trim-detail-floral-top-in-multicolour_2703e3da-3905-422d-95eb-b112a93f64be.jpg?v=1774189553
     Price: 37,90 € EUR
 - [Cardigan rayé en maille tissée col V printemps | MyParisMonaco](https://www.myparismonaco.com/products/nice-weekend-striped-mixed-woven-v-neck-early-spring-layered-knitted-cardigan-top-vest): Cardigan en maille tissée avec rayures dégradées et col V. Mélange de fils précieux : laine, mohair, sequins. Disponible en veste ou gilet. Style parisien.
-  Updated: 2026-09-30T17:15:20Z
+  Updated: 2026-10-25T11:57:13Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1769,7 +1695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/SKU04_848c991f-6c71-4e50-b605-19bd4cfb2da9.jpg?v=1774189611
     Price: 87,90 € EUR
 - [Haut col montant à nouer imprimé abstrait noir et blanc | MyParisMonaco](https://www.myparismonaco.com/products/halter-top-with-tie-neck-in-abstract-black-and-white-print): Haut sans manches en mousseline avec col montant et détail noué. Imprimé abstrait noir et blanc intemporel. Parfait pour vos soirées parisiennes chic.
-  Updated: 2026-09-30T17:15:16Z
+  Updated: 2026-10-25T11:57:13Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1787,7 +1713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/halter-top-with-tie-neck-in-abstract-black-and-white-print_42a0c0c3-a802-4c1a-85db-dd27de5bad83.jpg?v=1774189560
     Price: 44,90 € EUR
 - [Crop top rose à manches courtes et col V - style soirée parisien](https://www.myparismonaco.com/products/pink-crop-top-with-short-sleeves-and-v-neck): Crop top rose avec col V et dos ouvert noué. Tissu léger 100% polyester pour un style soirée parisien élégant et féminin. Pièce sophistiquée et romantique.
-  Updated: 2026-09-30T17:15:15Z
+  Updated: 2026-10-25T11:57:13Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1805,14 +1731,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/pink-crop-top-with-short-sleeves-and-v-neck_eyrFxcn.jpg?v=1774189565
     Price: 51,90 € EUR
 - [Gilet court tricoté à finitions côtelées beige - style parisien](https://www.myparismonaco.com/products/knitted-cropped-vest-with-rib-trim-in-beige): Gilet court tricoté beige avec finitions côtelées et motif géométrique. Coupe relaxed et tricot fin pour un style parisien élégant et décontracté. Taille unique.
-  Updated: 2026-09-30T17:15:10Z
+  Updated: 2026-10-25T11:57:14Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/knitted-cropped-vest-with-rib-trim-in-beige_3f9a59cf-dc36-4636-b21e-aad56b90cc6a.jpg?v=1774189573
   Price: 39,90 € EUR
 - [Crop top col claudine vert - style romantique parisien](https://www.myparismonaco.com/products/crop-top-with-bib-collar-in-green): Crop top col claudine vert en coton et lin. Décolleté plongeant et finitions à volants pour un style romantique parisien. Pièce féminine et élégante.
-  Updated: 2026-09-30T17:15:10Z
+  Updated: 2026-10-25T11:57:14Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1830,7 +1756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/crop-top-with-bib-collar-in-green_35502ab9-0d26-41e1-90ea-6bcf584653c1.jpg?v=1774189612
     Price: 47,90 € EUR
 - [Débardeur col halter rétro à motif brodé - élégance parisienne](https://www.myparismonaco.com/products/light-and-shadow-retro-posey-halter-neck-vest): Débardeur col halter rétro avec motif brodé exclusif. Coupe trapèze flatteuse et tissu premium pour un style parisien chic et intemporel. Pièce sophistiquée.
-  Updated: 2026-09-30T17:15:05Z
+  Updated: 2026-10-25T11:57:14Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1860,7 +1786,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/53_ef351471-0086-4d7f-8705-8e1ed77726c4.jpg?v=1774189653
     Price: 76,90 € EUR
 - [Haut froncé à imprimé fleuri rose - style parisien chic](https://www.myparismonaco.com/products/ruched-top-in-pink-ditsy-floral): Haut froncé à imprimé fleuri rose avec décolleté bardot. Coupe ajustée en pur coton pour un style parisien élégant et décontracté. Parfait pour vos looks casual chic.
-  Updated: 2026-09-30T17:16:09Z
+  Updated: 2026-10-25T11:57:14Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1878,7 +1804,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/ruched-top-in-pink-ditsy-floral_911bd0bc-ccd2-4a26-9ce5-1cc4b7b3e143.jpg?v=1774189659
     Price: 30,90 € EUR
 - [Top débardeur col halter rétro motif floral brulé - élégance parisienne](https://www.myparismonaco.com/products/light-and-shadow-retro-posey-halter-neck-vest-1): Top débardeur col halter coupe A, ourlet plissé, motif floral brulé artisanal. Drapé exceptionnel. Style rétro parisien raffiné et élégant.
-  Updated: 2026-09-30T17:15:01Z
+  Updated: 2026-10-25T11:57:15Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
   Availability: Available
@@ -1907,15 +1833,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/61_3ed3d3e0-b8b5-4b8b-b8d9-f0804cb80607.jpg?v=1774189685
     Price: 76,90 € EUR
-- [Top en satin imprimé paisley bleu - caraco chic à détail anneau](https://www.myparismonaco.com/products/satin-top-in-paisley-print-print-in-blue): Caraco en satin 100% viscose avec imprimé paisley bleu. Détail d'anneau au décolleté, bretelles ajustables, coupe près du corps. Style bohème parisien raffiné.
-  Updated: 2026-09-30T17:16:05Z
-  Vendor: MyParisMonaco
-  Product Type: Women's Fashion - Women's Clothing - Tops & Tees - Camis
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/top-en-satin-avec-arri-re-plan-lifestyle.png?v=1773425379
-  Price: 36,90 € EUR
 - [Mini jupe en simili cuir noir avec poches - coupe évasée | MyParisMonaco](https://www.myparismonaco.com/products/black-leatherette-mini-skirt-with-pockets): Découvrez notre mini jupe en simili cuir noir. Coupe évasée flatteuse, poches pratiques et fermeture dos. Pièce rock chic pour un style parisien moderne et sophistiqué.
-  Updated: 2026-09-30T17:14:57Z
+  Updated: 2026-10-25T11:57:15Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Bottoms - Skirts
   Availability: Available
@@ -1933,7 +1852,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/black-leatherette-mini-skirt-with-pockets_6a834691-9644-43f3-afd0-5e4c2e163087.jpg?v=1774189707
     Price: 43,90 € EUR
 - [Veste jaune avec détails zippés - style moderne audacieux | MyParisMonaco](https://www.myparismonaco.com/products/yellow-jacket-with-zipper-details): Découvrez notre veste jaune vibrante avec détails zippés uniques. Coupe confortable, tissu durable et couleur éclatante. Pièce audacieuse pour un style parisien moderne.
-  Updated: 2026-09-30T17:14:55Z
+  Updated: 2026-10-25T11:57:15Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jackets & Coats - Jackets
   Availability: Available
@@ -1951,7 +1870,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Yellow_Jacket_with_Zipper_Details_103595.jpg?v=1774189700
     Price: 41,90 € EUR
 - [Robe portefeuille à manches longues - coupe flatteuse | MyParisMonaco](https://www.myparismonaco.com/products/long-sleeve-wrap-front-dress): Découvrez notre robe portefeuille courte à manches longues. Décolleté en V flatteur, ceinture ajustable et tissu fluide. Disponible en crème et rouge. Style parisien féminin.
-  Updated: 2026-09-30T17:14:55Z
+  Updated: 2026-10-25T11:57:15Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Long-Sleeve Dress
   Availability: Available
@@ -1989,7 +1908,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/19450401_aa3579b3-931f-401f-9c52-7e6eb010e65e_fJr7ByF.jpg?v=1774189786
     Price: 45,90 € EUR
 - [Veste en jean courte à col en V avec clous - style rock chic | MyParisMonaco](https://www.myparismonaco.com/products/studded-detail-v-neck-denim-jacket): Découvrez notre veste en jean courte avec détails cloutés. Col en V féminin, coupe moderne et attitude rock. Pièce intemporelle pour un style parisien audacieux.
-  Updated: 2026-09-30T17:14:56Z
+  Updated: 2026-10-25T11:57:16Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jackets & Coats - Jackets
   Availability: Available
@@ -2011,7 +1930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/23943758_841559b9-58a4-491d-bdc4-75c155b1dd53.jpg?v=1774189705
     Price: 78,90 € EUR
 - [Blouse à manches lanternes à pois suisses - dentelle romantique | MyParisMonaco](https://www.myparismonaco.com/products/swiss-dot-lantern-sleeve-blouse): Découvrez notre blouse romantique à pois suisses et empiècements dentelle. Manches lanternes élégantes, disponible en rose et sauge. Style parisien raffiné et féminin.
-  Updated: 2026-09-30T17:14:50Z
+  Updated: 2026-10-25T11:57:16Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2049,7 +1968,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/QQ_20250415152443.jpg?v=1774189720
     Price: 40,90 € EUR
 - [Blouse à manches longues élégante - tissu fluide | MyParisMonaco](https://www.myparismonaco.com/products/long-sleeve-blouse): Découvrez notre blouse à manches longues au tombé élégant. Manches bouffantes délicates, coupe ajustée et tissu fluide. Parfaite pour un style parisien raffiné au quotidien.
-  Updated: 2026-09-30T17:14:41Z
+  Updated: 2026-10-25T11:57:16Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2071,7 +1990,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/QQ_20250513154929.jpg?v=1774189702
     Price: 40,90 € EUR
 - [Haut à manches ballon imprimé géométrique épaules dénudées | MyParisMonaco](https://www.myparismonaco.com/products/geometric-print-lantern-sleeves-top): Haut à manches ballon avec imprimé géométrique et décolleté épaules dénudées. Coupe relaxée confortable. Disponible en 4 couleurs multicolores.
-  Updated: 2026-09-30T17:14:40Z
+  Updated: 2026-10-25T11:57:16Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2141,7 +2060,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/QQ_20250424145637.jpg?v=1774189716
     Price: 40,90 € EUR
 - [Jean large bleu foncé avec surpiqûres contrastantes | MyParisMonaco](https://www.myparismonaco.com/products/dark-wash-wide-leg-jeans-with-contrasting-stitching): Jean large bleu foncé avec surpiqûres contrastantes. Denim de qualité : 80% coton, 18% polyester, 2% élasthanne. Coupe relaxée flatteuse et confortable.
-  Updated: 2026-09-30T17:14:41Z
+  Updated: 2026-10-25T11:57:17Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jeans - Wide Leg Jeans
   Availability: Available
@@ -2167,14 +2086,14 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Dark_Wash_Wide_Leg_Jeans_With_Contrasting_Stitching_109872.jpg?v=1774189723
     Price: 63,90 € EUR
 - [Robe longue en maille à épaules dénudées marron | MyParisMonaco](https://www.myparismonaco.com/products/maxi-knitted-wide-bardot-dress-in-brown): Robe longue en maille marron avec décolleté bardot large et manches longues. 50% viscose, 28% nylon, 22% polyester. Élégance automnale confortable.
-  Updated: 2026-09-30T17:14:35Z
+  Updated: 2026-10-25T11:57:17Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Dress - Long-Sleeve Dress
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Maxi_Knitted_wide_Bardot_Dress_in_brown_109900.jpg?v=1774189731
   Price: 59,90 € EUR
 - [Blouse beige à pois avec col claudine et boutons ornés | MyParisMonaco](https://www.myparismonaco.com/products/beige-polka-dot-blouse-with-bib-collar-and-embellished-buttons): Blouse beige romantique avec imprimé pois, col claudine et boutons ornés. Décolleté en V et manches courtes. 100% polyester doublé. Style vintage chic.
-  Updated: 2026-09-30T17:14:33Z
+  Updated: 2026-10-25T11:57:17Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2192,7 +2111,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/beige-polka-dot-blouse-with-bib-collar-and-embellished-buttons_YQYRHPM.jpg?v=1774189737
     Price: 46,90 € EUR
 - [Ensemble 2 pièces rayé en maille à manches longues | MyParisMonaco](https://www.myparismonaco.com/products/striped-long-sleeve-2-piece-set): Ensemble 2 pièces en maille douce avec motif rayé intemporel. Haut à manches longues et short assorti. Confort décontracté et style sans effort.
-  Updated: 2026-09-30T17:14:30Z
+  Updated: 2026-10-25T11:57:18Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Suits & Sets - Women's Sets
   Availability: Available
@@ -2246,7 +2165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/QQ_20250310115834.jpg?v=1774189772
     Price: 52,90 € EUR
 - [Haut rayé sans manches avec nœud au col | MyParisMonaco](https://www.myparismonaco.com/products/striped-halter-top): Haut sans manches avec motif rayé et détail nœud au col. Silhouette relaxée confortable. Style polyvalent pour le quotidien et le bureau.
-  Updated: 2026-09-30T17:14:26Z
+  Updated: 2026-10-25T11:57:18Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2268,7 +2187,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Image_m8w9nrm8w9nrm8w9-Camila.png?v=1774189787
     Price: 42,90 € EUR
 - [Mini jupe blanche à motifs en viscose | MyParisMonaco](https://www.myparismonaco.com/products/aztec-white-mini-skirt): Mini jupe blanche en viscose 100% douce et fluide. Coupe droite épurée et longueur mini féminine. Style décontracté chic pour l'été.
-  Updated: 2026-09-30T17:14:30Z
+  Updated: 2026-10-25T11:57:18Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Skirt - Straight Skirt
   Availability: Available
@@ -2282,7 +2201,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/aztec-white-mini-skirt_eb509994-2ab3-4046-b3d4-fca2d68c40cb.jpg?v=1774189793
     Price: 43,90 € EUR
 - [Manteau en laine d'alpaga avec cape amovible | MyParisMonaco](https://www.myparismonaco.com/products/fireladyfur-womens-alpaca-wool-coat-with-detachable-cape-elegant-silhouette): Manteau luxueux en laine d'alpaga et mérinos avec cape amovible. Design 2-en-1 polyvalent, ceinture ajustable et col montant. Élégance intemporelle.
-  Updated: 2026-09-30T17:14:25Z
+  Updated: 2026-10-25T11:57:18Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Jackets & Coats - Trench Coats
   Availability: Available
@@ -2312,7 +2231,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/22_308106b0-4d7d-45ba-82b4-4217ae67da0c_zbYT81q.jpg?v=1774189800
     Price: 307,90 € EUR
 - [Blouse à manches longues col montant imprimé géométrique | MyParisMonaco](https://www.myparismonaco.com/products/long-sleeve-mock-neck-blouse): Blouse à manches longues avec imprimé géométrique raffiné et col montant. Coupe relaxée confortable. Disponible en crème et rose vif. Style rétro chic.
-  Updated: 2026-09-30T17:14:21Z
+  Updated: 2026-10-25T11:57:19Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2350,7 +2269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/20352574_fd81b11b-5e92-4dda-8499-8eb52027ef51_GFcVbop.jpg?v=1774189804
     Price: 43,90 € EUR
 - [Bikini écoresponsable intemporel en édition limitée | MyParisMonaco](https://www.myparismonaco.com/products/trullo-sustainable-regenerated-and-limited-edition-bikini): Bikini écoresponsable régénéré à partir de filets de pêche recyclés. Haut triangle ajustable et bas taille haute. Pièce unique en édition limitée.
-  Updated: 2026-09-30T17:14:20Z
+  Updated: 2026-10-25T11:57:19Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Suits & Sets - Women's Sets
   Availability: Available
@@ -2380,7 +2299,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Trullo_2_brasiliana.webp?v=1774189814
     Price: 161,90 € EUR
 - [Jupe longue à volants imprimé floral | MyParisMonaco](https://www.myparismonaco.com/products/miss-sparkling-floral-tiered-maxi-skirt): Jupe longue à volants avec imprimé floral délicat et taille haute. Coupe étagée fluide et légère. Style romantique et bohème pour toutes occasions.
-  Updated: 2026-09-30T17:14:20Z
+  Updated: 2026-10-25T11:57:19Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Skirt - A-line skirt
   Availability: Available
@@ -2418,7 +2337,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/23943654_51a91e9e-5555-4c0d-9bd0-2476585e1449.jpg?v=1774189817
     Price: 41,90 € EUR
 - [Haut court rouge à pois ajusté à la taille | MyParisMonaco](https://www.myparismonaco.com/products/chic-red-polka-dot-cropped-top-fitted-at-the-waist): Haut court rouge à pois avec coupe ajustée à la taille et manches trois-quarts. Tissu extensible 100% polyester. Style rétro chic intemporel.
-  Updated: 2026-09-30T17:14:19Z
+  Updated: 2026-10-25T11:57:20Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Blouses & Shirts
   Availability: Available
@@ -2436,7 +2355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Chic_Red_Polka-Dot_Cropped_Top_fitted_at_the_waist_110625.jpg?v=1774189825
     Price: 51,90 € EUR
 - [Bikini écoresponsable en édition limitée | MyParisMonaco](https://www.myparismonaco.com/products/maschera-veneziana-sustainable-regenerated-and-limited-edition-bikini): Bikini écoresponsable régénéré à partir de filets de pêche recyclés. Haut triangle à franges et bas taille haute. Pièce unique en édition limitée.
-  Updated: 2026-09-30T17:14:14Z
+  Updated: 2026-10-25T11:57:20Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Suits & Sets - Women's Sets
   Availability: Available
@@ -2454,7 +2373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Maschera_veneziana_3.webp?v=1774189835
     Price: 161,90 € EUR
 - [Combinaison jambe large taille haute à bretelles taupe - Mode femme](https://www.myparismonaco.com/products/cropped-bottom-wide-leg-oversized-jumpsuit-taupe): Combinaison oversize taupe à jambe large et bretelles fines. Coupe fluide et sophistiquée, parfaite du casual au semi-formel. Tissu extensible confortable.
-  Updated: 2026-09-30T17:14:15Z
+  Updated: 2026-10-25T11:57:20Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2476,7 +2395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/16927266_d73a6a64-16a2-45c7-825c-e70a5e3d49ee.jpg?v=1774015198
     Price: 25,90 € EUR
 - [Combishort court en satin plissé cache-cœur fuchsia - Mode soirée](https://www.myparismonaco.com/products/satin-wrap-deatil-pleated-short-jumpsuit-in-fuchsia): Combishort en satin fuchsia avec détail cache-cœur et plis élégants. Manches larges, coupe ajustée. Parfait pour les soirées chic. Livraison rapide.
-  Updated: 2026-09-30T17:15:17Z
+  Updated: 2026-10-25T11:57:20Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2494,7 +2413,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/satin-wrap-deatil-pleated-short-jumpsuit-in-fuchsia_4c944f27-0034-4f73-90e6-1ec838769686.jpg?v=1774015245
     Price: 65,90 € EUR
 - [Combishort bustier tie-dye à volant - Mode femme été](https://www.myparismonaco.com/products/via-strapless-tie-dye-romper): Combishort bustier tie-dye avec volant frontal romantique. Coupe mini flatteuse, tissu extensible confortable. Style bohème chic pour l'été. Livraison rapide.
-  Updated: 2026-09-30T17:14:10Z
+  Updated: 2026-10-25T11:57:21Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2512,7 +2431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/5_a54f3c88-2356-48be-8ed9-ffbc3d206a59.png?v=1774015226
     Price: 25,90 € EUR
 - [Salopette courte en denim taille haute - Mode femme casual chic](https://www.myparismonaco.com/products/short-denim-overalls-women-hole-jumpsuit-high-waist-casual-jeans-playsuit-washed-salopette-straps-2019-summer-romper): Salopette courte en denim à taille haute et bretelles ajustables. Détails usés authentiques, coupe droite confortable. Style casual polyvalent pour l'été. Livraison rapide.
-  Updated: 2026-09-30T17:14:01Z
+  Updated: 2026-10-25T11:57:21Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2538,7 +2457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/Hd029a534ea0146ec98bc71686a54d117o_PZmJI83.jpg?v=1774015260
     Price: 28,90 € EUR
 - [Combishort épaules dénudées olive à rayures - style casual chic | MyParisMonaco](https://www.myparismonaco.com/products/off-shoulder-romper-olive): Découvrez notre combishort à épaules dénudées en olive avec rayures multicolores. Taille élastique confortable, style casual chic. Pièce estivale parfaite pour un look parisien.
-  Updated: 2026-09-30T17:13:55Z
+  Updated: 2026-10-25T11:57:21Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2560,7 +2479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/13799976_965ddc3d-4bfe-45f5-a056-5310a0f5b58c.jpg?v=1774015244
     Price: 25,90 € EUR
 - [Combinaison jambe large taille haute à bretelles - Mode femme élégante](https://www.myparismonaco.com/products/cropped-bottom-wide-leg-oversized-jumpsuit-blue): Combinaison oversize à jambe large et bretelles fines. Coupe fluide et sophistiquée, parfaite du casual au semi-formel. Tissu extensible confortable. Livraison rapide.
-  Updated: 2026-09-30T17:15:00Z
+  Updated: 2026-10-25T11:57:21Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Clothing - Rompers
   Availability: Available
@@ -2582,7 +2501,7 @@
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/16926934_a476b823-5aeb-4f12-85c1-be1b6cfeb493.jpg?v=1774015255
     Price: 25,90 € EUR
 - [Lunettes de soleil carrées oversize ornées de cristaux - Accessoire glamour](https://www.myparismonaco.com/products/glammed-in-crystals-sunglasses): Lunettes de soleil carrées oversize avec cristaux. Protection UV 400, taille unique confortable. 4 coloris disponibles. Étui inclus. Livraison rapide.
-  Updated: 2026-09-30T17:13:56Z
+  Updated: 2026-10-25T11:57:22Z
   Vendor: MyParisMonaco
   Product Type: Women's Fashion - Women's Accessories - Women's Glasses - Women's Sunglasses
   Availability: Available
@@ -2603,81 +2522,119 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/15971896_a97cdd30-b5a3-4b73-aaf0-d8fd8b1be58d.jpg?v=1774019992
     Price: 26,90 € EUR
-[List Continued](https://www.myparismonaco.com/a/llms-agent/llms.txt?shop=pt6yr5-91.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAyODM5NTc3MDE5NiwibGFzdF92YWx1ZSI6IjE1MDI4Mzk1NzcwMTk2In0%3D)
+- [Robe midi camisole bretelles nouées imprimée – style parisien | MyParisMonaco](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress): Robe midi camisole à bretelles nouées et fronces en 100% polyester. Coupe féminine et légère en rosé poudré ou bleu clair pour un style parisien chic.
+  Updated: 2026-10-25T11:57:22Z
+  Vendor: MyParisMonaco
+  Product Type: Women's Fashion - Women's Clothing - Dress
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
+  - [Rosé poudré / S](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970768986452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
+    Price: 33,90 € EUR
+  - [Rosé poudré / M](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769019220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
+    Price: 33,90 € EUR
+  - [Rosé poudré / L](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769051988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
+    Price: 33,90 € EUR
+  - [Rosé poudré / XL](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769084756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/c0c0abd8-133e-4b4e-b458-3e2020424c7d-Max-Origin.webp?v=1774258207
+    Price: 33,90 € EUR
+  - [Bleu clair / S](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769117524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
+    Price: 33,90 € EUR
+  - [Bleu clair / M](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769150292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
+    Price: 33,90 € EUR
+  - [Bleu clair / L](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769183060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
+    Price: 33,90 € EUR
+  - [Bleu clair / XL](https://www.myparismonaco.com/products/printed-tie-shoulder-midi-cami-dress?variant=53970769215828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0925/2162/7988/files/4e90b3b9-1582-44bc-8cfa-83cccbf0d032-Max-Origin.webp?v=1774258239
+    Price: 33,90 € EUR
+[List Continued](https://www.myparismonaco.com/a/llms-agent/llms.txt?shop=pt6yr5-91.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAzMTU0NjkzNzY4NCwibGFzdF92YWx1ZSI6IjE1MDMxNTQ2OTM3Njg0In0%3D)
 
 ## Collections
 
 - [Robes & Jupes longues](https://www.myparismonaco.com/collections/robes-longues): Découvrez notre collection de robes & jupes longues élégantes, parfaites pour toutes les occasions. Des silhouettes fluides et sophistiquées qui incarnent le chic parisien et monégasque. - MyParisMonaco
-  Updated: 2026-10-17T17:14:08Z
-  Total Products: 179
+  Updated: 2026-10-25T19:30:14Z
+  Total Products: 183
 - [Robes & Jupes courtes](https://www.myparismonaco.com/collections/robes-courtes): Explorez notre sélection de robes courtes & jupes chics et modernes. Des pièces polyvalentes qui allient élégance et décontraction, idéales pour vos journées ensoleillées et soirées estivales. - MyParisMonaco
-  Updated: 2026-10-17T17:34:26Z
-  Total Products: 132
+  Updated: 2026-10-25T11:56:58Z
+  Total Products: 135
 - [Hauts & Pulls chics](https://www.myparismonaco.com/collections/hauts-chics): Découvrez notre collection de hauts raffinés, où l'élégance parisienne rencontre le glamour monégasque. Chaque pièce est soigneusement sélectionnée pour sublimer votre silhouette avec sophistication et modernité. Des chemisiers en soie aux tops structurés, notre sélection incarne l'art de vivre à la française : intemporel, chic et résolument féminin. Parfaits pour vos journées au bureau comme pour vos soirées d'exception, ces hauts s'accordent avec votre style de vie cosmopolite. Laissez-vous séduire par des coupes impeccables, des matières nobles et une attention particulière aux détails qui font toute la différence. - MyParisMonaco
-  Updated: 2026-10-18T11:39:38Z
-  Total Products: 245
+  Updated: 2026-10-25T19:37:22Z
+  Total Products: 257
 - [Ensemble & combinaisons](https://www.myparismonaco.com/collections/ensemble-chic): L'élégance parisienne rencontre le raffinement monégasque. Notre collection ensemble chic incarne l'art de vivre à la française avec une touche de sophistication méditerranéenne. Conçue pour la femme moderne qui apprécie les lignes épurées et les matières nobles, cette collection célèbre le chic intemporel. Chaque pièce est pensée pour s'harmoniser parfaitement, créant des silhouettes élégantes du matin au soir. Laissez-vous séduire par l'alliance subtile du bleu marine profond et du blanc immaculé, signature de notre maison, pour un style à la fois classique et contemporain. L'élégance n'est jamais une question de mode, c'est une question d'attitude. - MyParisMonaco
-  Updated: 2026-10-17T15:43:04Z
-  Total Products: 118
+  Updated: 2026-10-25T11:56:59Z
+  Total Products: 115
 - [Sacs à main, Bagages & Ceintures](https://www.myparismonaco.com/collections/sacs-a-main): Alliant l'élégance parisienne au raffinement de Monaco, notre sélection de sacs à main, bagages & Ceintures incarne le chic intemporel et la sophistication moderne. Chaque pièce est soigneusement choisie pour sublimer votre style avec une touche d'élégance française. Des modèles classiques aux créations contemporaines, nos sacs à main sont conçus pour accompagner la femme moderne dans tous ses moments, du quotidien aux occasions spéciales. Matériaux nobles, finitions impeccables et design raffiné : chaque détail compte pour créer des accessoires qui traversent le temps. Laissez-vous séduire par notre collection et trouvez le sac à main qui deviendra votre compagnon d'élégance au quotidien. - MyParisMonaco
-  Updated: 2026-10-15T15:26:20Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 80
 - [Chaussures - Bottes](https://www.myparismonaco.com/collections/chaussures): La collection qui sublime chaque pas Découvrez notre sélection de chaussures qui allie élégance parisienne et confort absolu. Des baskets minimalistes aux escarpins raffinés, en passant par les bottines intemporelles et les sandales estivales, chaque paire est choisie pour sublimer votre style avec sophistication. Notre collection réunit les essentiels du vestiaire parisien : des pièces polyvalentes qui se portent aussi bien au quotidien qu'en soirée, des lignes épurées qui traversent les saisons, des matières nobles qui assurent qualité et durabilité. Que vous recherchiez des chaussures pour le bureau, une soirée spéciale ou vos week-ends décontractés, vous trouverez la paire parfaite pour compléter votre look. Notre sélection baskets : des modèles minimalistes en cuir blanc aux versions plus audacieuses, parfaites pour un look décontracté-chic parisien escarpins : des talons aiguilles classiques aux kitten heels, pour une élégance intemporelle du bureau à la soirée bottines : des modèles plats aux talons structurés, en cuir ou daim, essentiels pour l'automne et l'hiver sandales : des nu-pieds plats aux modèles à talons, pour un été chic et confortable mules : des versions à talons aux modèles plats, parfaites pour une élégance sans effort ballerines : des classiques intemporels qui se glissent dans tous les looks parisiens Le style parisien à vos pieds Chaque paire de notre collection est sélectionnée pour incarner cette élégance parisienne si particulière : des lignes épurées, des couleurs intemporelles, des détails raffinés. Nous privilégions les matières nobles comme le cuir, le daim souple et les véritables finitions soignées qui assurent confort et durabilité. Que vous soyez à la recherche de la paire parfaite pour compléter votre tenue de travail, sublimer une robe de soirée ou simplement vous sentir bien au quotidien, notre collection de chaussures vous accompagne à chaque instant avec style et confort. - MyParisMonaco
-  Updated: 2026-10-15T15:13:02Z
-  Total Products: 76
+  Updated: 2026-10-25T17:56:29Z
+  Total Products: 89
 - [Manteaux, blousons, vestes & gilets](https://www.myparismonaco.com/collections/manteaux-trenchs): Découvrez notre sélection de manteaux et vestes qui incarnent l'élégance parisienne intemporelle. Du trench classique beige au manteau en laine structuré, en passant par le perfecto en cuir et le pardessus long, chaque pièce est choisie pour sublimer votre silhouette et vous accompagner avec style à travers les saisons. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les années, des matières nobles comme la laine vierge, le cachemire et le cuir de qualité, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
-  Updated: 2026-10-18T11:59:24Z
-  Total Products: 179
+  Updated: 2026-10-25T19:21:34Z
+  Total Products: 223
 - [Pantalons, shorts & jeans](https://www.myparismonaco.com/collections/pantalons-shorts-jeans): Découvrez notre sélection de pantalons, shorts et jeans qui incarnent l'élégance parisienne intemporelle. Du jean brut parfait au pantalon cigarette impeccable, en passant par le short tailleur et le pantalon large fluide, chaque pièce est choisie pour sublimer votre silhouette et composer un vestiaire polyvalent et sophistiqué. Notre collection réunit les essentiels du vestiaire parisien : des coupes impeccables qui traversent les saisons, des matières nobles comme le denim de qualité, la laine vierge et le coton premium, des finitions soignées qui garantissent durabilité et élégance. - MyParisMonaco
-  Updated: 2026-10-15T13:58:46Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 24
 - [Chapeaux & casquettes](https://www.myparismonaco.com/collections/chapeaux-casquettes): Sublimez votre style parisien avec notre collection de chapeaux et casquettes raffinés. Des pièces intemporelles qui apportent la touche finale parfaite à votre garde-robe, du casual chic au plus sophistiqué. Chaque accessoire est sélectionné pour sa qualité exceptionnelle et son élégance discrète, transformant instantanément n'importe quelle tenue en déclaration de style. - MyParisMonaco
-  Updated: 2026-10-18T11:19:41Z
-  Total Products: 11
+  Updated: 2026-10-25T11:56:59Z
+  Total Products: 10
 - [Plage, Sport & Lunettes](https://www.myparismonaco.com/collections/plage-lunettes): Découvrez notre collection estivale qui célèbre l'art de vivre à la française. Des maillots de bain raffinés aux lunettes de soleil iconiques, chaque pièce est sélectionnée pour sa qualité exceptionnelle et son élégance intemporelle. Sublimez vos journées ensoleillées avec des essentiels qui allient sophistication parisienne et confort absolu, du bord de mer aux terrasses urbaines. L'été se vit avec style et distinction. - MyParisMonaco
-  Updated: 2026-10-12T18:05:36Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 43
 - [Mode masculine](https://www.myparismonaco.com/collections/mode-masculine): Découvrez la mode masculine MyParisMonaco : costumes, chemises et manteaux de luxe aux silhouettes raffinées, entre Paris et Monaco.
-  Updated: 2026-10-15T05:56:52Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 60
 - [Automne & Halloween](https://www.myparismonaco.com/collections/halloween): Découvrez notre sélection Halloween & automne : pièces sombres, matières somptueuses et silhouettes dramatiques pour une élégance envoûtante.
-  Updated: 2026-10-17T17:23:48Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 32
 - [Châles, Echarpes, Gants & Bonnets](https://www.myparismonaco.com/collections/chales-echarpes-gants-bonnets): Laine, cachemire, cuir souple — les accessoires qui font la douceur de l'hiver. Châles à draper, écharpes à enrouler, gants et bonnets pour affronter le froid
-  Updated: 2026-10-12T18:05:36Z
-  Total Products: 7
+  Updated: 2026-10-25T11:56:59Z
+  Total Products: 11
 - [PM GIRLS](https://www.myparismonaco.com/collections/pm-girls): PM Girls — by MyParisMonaco notre Collection - MyParisMonaco
   Updated: 2026-10-12T15:50:02Z
   Total Products: 11
 - [Sortir](https://www.myparismonaco.com/collections/sortir): Sequins, dentelle, cristaux et satin — tout ce qui brille quand la nuit commence. Des robes courtes aux silhouettes longues, des looks cocktail aux tenues de
-  Updated: 2026-10-17T06:01:11Z
-  Total Products: 56
+  Updated: 2026-10-25T19:30:13Z
+  Total Products: 67
 - [Homme Chaussures - Bottes](https://www.myparismonaco.com/collections/homme-chaussures-bottes): Découvrez nos bottes homme en cuir, des modèles élégants et intemporels pour une silhouette parisienne affirmée.
-  Updated: 2026-10-13T05:18:18Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 6
 - [Chemises & Polos](https://www.myparismonaco.com/collections/chemises-hommes-polos): Des chemises et polos aux matières raffinées, pensés pour composer une silhouette masculine élégante et décontractée. Des essentiels intemporels, entre
-  Updated: 2026-10-15T05:56:52Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 35
 - [Manteaux - Vestes - Gilets](https://www.myparismonaco.com/collections/manteaux-vestes-gilets): Des manteaux, vestes et gilets aux coupes élégantes pour composer une silhouette parisienne en toute saison. Des matières raffinées et des lignes
-  Updated: 2026-10-15T16:19:23Z
-  Total Products: 25
+  Updated: 2026-10-25T11:56:59Z
+  Total Products: 26
 - [Pulls - Sweatshirts](https://www.myparismonaco.com/collections/pulls-sweatshirts): Des pulls et sweatshirts aux matières douces et aux coupes soigneusement pensées, pour conjuguer confort et élégance au quotidien. Des essentiels intemporels
-  Updated: 2026-10-12T18:05:36Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 6
 - [Sport](https://www.myparismonaco.com/collections/sport): Une sélection sport pensée pour accompagner chaque mouvement avec style. Des pièces confortables, fonctionnelles et modernes, conçues pour passer naturellement
   Updated: 2026-10-03T08:36:00Z
   Total Products: 0
 - [T-Shirts](https://www.myparismonaco.com/collections/t-shirts): Des T-shirts aux coupes soignées et aux matières agréables, pensés pour composer une silhouette simple et élégante au quotidien. Des essentiels faciles à
-  Updated: 2026-10-12T18:05:36Z
+  Updated: 2026-10-25T11:56:59Z
   Total Products: 4
 - [Noël & Fêtes](https://www.myparismonaco.com/collections/noel-et-fetes): Sélection mode pour les fêtes de fin d'année : tenues de réveillon, hauts festifs, accessoires et idées cadeaux. Élégance parisienne pour Noël et le Nouvel An.
-  Updated: 2026-10-17T17:23:48Z
-  Total Products: 31
+  Updated: 2026-10-25T18:59:46Z
+  Total Products: 48
 - [Accessoires & Livres de bord de mer](https://www.myparismonaco.com/collections/accessoires-livres-bord-de-mer): Accessoires et livres inspirés de la mer et de la navigation. Une sélection pour ceux qui vivent au rythme des marées, des voiliers et des terrasses côtières.
-  Updated: 2026-10-12T18:05:36Z
+  Updated: 2026-10-25T11:57:00Z
   Total Products: 28
 - [Collections - Meilleures ventes](https://www.myparismonaco.com/collections/meilleures-ventes): Découvrez nos pièces les plus appréciées et une sélection de vêtements et accessoires au style parisien.
-  Updated: 2026-10-13T11:25:39Z
+  Updated: 2026-10-25T11:57:00Z
   Total Products: 50
 
 ## Blogs
@@ -2753,6 +2710,15 @@
   - [Les règles d'or pour adopter un look marin au cœur de Paris](https://www.myparismonaco.com/blogs/news/les-regles-dor-pour-adopter-un-look-marin-au-coeur-de-paris): Les règles d'or pour adopter un look marin au cœur de Paris
     Updated: 2026-10-14T22:25:25Z
     Author: MyParisMonaco - Amélie notre experte mode
+  - [Itinéraire vers un style marin sans quitter les pavés parisiens](https://www.myparismonaco.com/blogs/news/itineraire-vers-un-style-marin-sans-quitter-les-paves-parisiens): Itinéraire vers un style marin sans quitter les pavés parisiens
+    Updated: 2026-10-19T00:06:18Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Décryptage des tendances marines en milieu citadin](https://www.myparismonaco.com/blogs/news/decryptage-des-tendances-marines-en-milieu-citadin): Décryptage des tendances marines en milieu citadin
+    Updated: 2026-10-21T00:08:05Z
+    Author: MyParisMonaco - Amélie notre experte mode
+  - [Adapter les icônes du garde-robe marin au quotidien parisien](https://www.myparismonaco.com/blogs/news/adapter-les-icones-du-garde-robe-marin-au-quotidien-parisien): Adapter les icônes du garde-robe marin au quotidien parisien
+    Updated: 2026-10-26T00:08:01Z
+    Author: MyParisMonaco - Amélie notre experte mode
 
 ## Store Pages
 
@@ -2784,15 +2750,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.myparismonaco.com/policies/privacy-policy)
-  Updated: 2026-10-02T17:58:28+02:00
+  Updated: 2026-10-02T15:58:28Z
 - [Shipping Policy](https://www.myparismonaco.com/policies/shipping-policy)
-  Updated: 2026-10-13T09:12:59+02:00
+  Updated: 2026-10-21T17:10:54Z
 - [Refund Policy](https://www.myparismonaco.com/policies/refund-policy)
-  Updated: 2026-10-07T16:11:48+02:00
+  Updated: 2026-10-07T14:11:48Z
 - [Terms of Service](https://www.myparismonaco.com/policies/terms-of-service)
-  Updated: 2026-10-02T18:03:42+02:00
+  Updated: 2026-10-02T16:03:42Z
 - [Contact Information](https://www.myparismonaco.com/policies/contact-information)
-  Updated: 2026-10-02T18:06:11+02:00
+  Updated: 2026-10-02T16:06:11Z
 
 ## Optional
 
