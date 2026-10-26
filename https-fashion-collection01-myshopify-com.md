@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-08-10T06:58:26Z
 - Contact Email: josiah.norval08@gmail.com
-- Updated At: 2026-10-19T00:00:42.725Z
+- Updated At: 2026-10-26T00:47:32.274Z
 
 ## Products
 
@@ -2928,15 +2928,15 @@
 ## Policies
 
 - [Privacy Policy](https://fashion-collection01.myshopify.com/policies/privacy-policy)
-  Updated: 2026-08-09T23:58:31-07:00
+  Updated: 2026-08-10T06:58:31Z
 - [Shipping Policy](https://fashion-collection01.myshopify.com/policies/shipping-policy)
-  Updated: 2026-09-05T21:34:42-07:00
+  Updated: 2026-09-06T04:34:42Z
 - [Refund Policy](https://fashion-collection01.myshopify.com/policies/refund-policy)
-  Updated: 2026-09-05T21:28:22-07:00
+  Updated: 2026-09-06T04:28:22Z
 - [Terms of Service](https://fashion-collection01.myshopify.com/policies/terms-of-service)
-  Updated: 2026-09-05T21:33:49-07:00
+  Updated: 2026-09-06T04:33:49Z
 - [Contact Information](https://fashion-collection01.myshopify.com/policies/contact-information)
-  Updated: 2026-09-05T21:36:05-07:00
+  Updated: 2026-09-06T04:36:05Z
 
 ## Optional
 
