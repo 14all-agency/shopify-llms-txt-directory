@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-21T02:25:02Z
 - Contact Email: support@autoglowled.top
-- Updated At: 2026-10-19T00:00:46.358Z
+- Updated At: 2026-10-26T00:57:26.885Z
 
 ## Products
 
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_3884ac14-5083-48c4-8b0f-f9c29b0057b2.jpg?v=1789057063
     Price: $51.99 USD
 - [AutoGlowLED LED Interior Light Kit BMW X5 E70 2007-2013](https://autoglowled.top/products/autoglowled-23pcs-canbus-led-interior-light-kit-bmw-x5-e70-2007-2013): Upgrade your BMW X5 E70 (2007-2013) with AutoGlowLED 23Pcs Canbus LED interior light kit – error-free, plug-and-play, bright. Get yours today!
-  Updated: 2026-10-15T03:05:40Z
+  Updated: 2026-10-20T00:44:56Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -409,7 +409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_116c59ce-4371-46d9-b08e-ef952c0209c1.jpg?v=1789032997
     Price: $45.99 USD
 - [AutoGlowLED Canbus LED Interior Light Kit Mercedes](https://autoglowled.top/products/autoglowled-canbus-led-interior-light-kit-mercedes-benz): Upgrade your Mercedes with AutoGlowLED Canbus LED interior light kit. Fits C, E, S, M, CLK models. Multiple color temps. Plug-and-play.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:31Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -651,7 +651,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_4e810624-3375-433b-9eee-a4f3f2688366.jpg?v=1789057114
     Price: $47.99 USD
 - [AutoGlowLED LED Interior Light Kit BMW X5 E53 2000-2006](https://autoglowled.top/products/autoglowled-22pc-led-interior-light-kit-bmw-x5-e53-2000-2006): Upgrade your BMW X5 E53 (2000-2006) with a 22-piece AutoGlowLED LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, door, footwell, trunk, and more.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -695,7 +695,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_bb17cd74-5950-4c67-aedf-78b2f986a9d3.jpg?v=1789057112
     Price: $46.99 USD
 - [AutoGlowLED LED Interior Light Kit for Renault Laguna 2 2001-2007](https://autoglowled.top/products/autoglowled-led-interior-light-kit-renault-laguna-2-2001-2007): AutoGlowLED 14pc LED interior light kit for Renault Laguna 2 II MK2 (2001-2007). Dome, map, trunk, glove box lights. Bright, plug-and-play upgrade.
-  Updated: 2026-10-15T03:05:40Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -815,7 +815,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3330280-49d6-4d4c-805d-3a8a7793f7ab.jpg?v=1789033063
     Price: $50.99 USD
 - [AutoGlowLED LED Interior Light Kit for Renault Scenic 2010-2016](https://autoglowled.top/products/autoglowled-21pcs-led-interior-light-kit-for-renault-scenic-grand-scenic-3-mk3-2010-2016): Upgrade your Renault Scenic or Grand Scenic 3 MK3 (2010-2016) with this 21-piece LED interior light kit. Bright, energy-saving, plug-and-play. Buy now with 2-year warranty.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -951,7 +951,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_33be4aee-c0a8-40e6-9398-0426580fc527.jpg?v=1789057159
     Price: $55.99 USD
 - [AutoGlowLED LED Interior Light Kit Audi Q5 SQ5 8R 2008-2016](https://autoglowled.top/products/autoglowled-25pcs-led-interior-light-kit-audi-q5-sq5-8r-2008-2016): Upgrade your Audi Q5/SQ5 (2008-2016) with AutoGlowLED's 25pc LED interior kit. Error-free, plug-and-play bulbs. 50,000-hour life. Includes tools.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1049,7 +1049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_286629a6-47d2-4beb-bf0e-ffc10c55ca79.jpg?v=1789033121
     Price: $52.99 USD
 - [LED Interior Light Kit for Seat Alhambra 1996-2018](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-seat-alhambra): Buy AutoGlowLED 22Pcs LED interior light kit for Seat Alhambra 1996-2018. Bright, error-free, plug-and-play bulbs with 50,000-hour lifespan. 2-year warranty.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:31Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1185,7 +1185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e3649f89-2808-4ee8-9934-1c2a06aba860.jpg?v=1789033169
     Price: $50.99 USD
 - [AutoGlowLED LED Interior Light Kit for Chevy Tracker 2016-2020](https://autoglowled.top/products/autoglowled-13pcs-canbus-led-interior-light-kit-chevy-tracker-2016-2020): Upgrade your Chevy Tracker 2016-2020 with AutoGlowLED 13pc Canbus LED interior light kit – dome, map, trunk, license plate. Error-free, plug-and-play, 50,000-hr life.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:31Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1339,7 +1339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_1f254897-a92d-447e-809c-95b44e9df396.jpg?v=1789033199
     Price: $33.99 USD
 - [LED Interior Light Kit for Infiniti QX70 2013-2017](https://autoglowled.top/products/autoglowled-20pc-led-interior-light-kit-for-infiniti-qx70-2013-2017): Upgrade your Infiniti QX70 2013-2017 with AutoGlowLED 20pc full LED interior light kit. Dome, map, foot, door, trunk, and license plate bulbs. Plug & play.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1443,7 +1443,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_1f401ec2-4cd3-4c2f-ad5a-227b63f2317d.jpg?v=1789057232
     Price: $50.99 USD
 - [AutoGlowLED LED Interior Light Kit Mercedes S-Class W220](https://autoglowled.top/products/autoglowled-led-interior-light-kit-mercedes-s-class-w220): Upgrade your Mercedes-Benz S-Class W220 (1999-2005) with AutoGlowLED 23pc LED interior light kit. Bright, error-free, plug-and-play bulbs. Shop now!
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1465,7 +1465,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_752f0857-47f4-44c5-a60f-747eacdf0c34.jpg?v=1789057233
     Price: $48.99 USD
 - [13Pcs LED Interior Light Kit for VW Sharan 7N 2011-2020](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-vw-sharan-7n-2011-2020): Upgrade your VW Sharan 7N (2011-2020) with AutoGlowLED 13Pcs LED interior kit – bright, error-free, easy plug-and-play installation. 50,000-hour lifespan.
-  Updated: 2026-10-15T03:05:41Z
+  Updated: 2026-10-20T00:40:31Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1821,7 +1821,7 @@
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_299c2570-c3c4-4c79-9dfe-b1f5f8a3299d.jpg?v=1789057281
     Price: $34.99 USD
 - [AutoGlowLED 24Pcs LED Interior Light Kit Range Rover L322](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-land-rover-range-rover-l322-2002-2012): Buy AutoGlowLED 24Pcs Canbus LED interior light kit for Land Rover Range Rover L322 2002-2012. Error-free, plug-and-play, 50,000hr lifespan. Shop now.
-  Updated: 2026-10-15T03:05:42Z
+  Updated: 2026-10-20T00:40:32Z
   Vendor: AutoGlowLED
   Product Type: LED Interior Light Kit
   Availability: Available
@@ -1886,232 +1886,24 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_22286764-22b1-441b-a6b6-5dc7e34fe95c.jpg?v=1789033326
     Price: $31.99 USD
-- [AutoGlowLED 19Pcs LED Interior Light Kit for Land Cruiser 100](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100): Upgrade your Toyota Land Cruiser 100 (1998-2007) with AutoGlowLED 19Pcs LED interior light kit – bright, error-free, plug-and-play bulbs with 50,000-hour lifespan.
-  Updated: 2026-10-15T03:05:42Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_37e92701-6576-46b5-bf5e-8e05bcfc7082.jpg?v=1789066586
-  - [WHITE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766927517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e06c0e1d-c8b5-4144-b9e5-d1fd1a5022aa.jpg?v=1789033337
-    Price: $42.99 USD
-  - [Red](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766960285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_dfc94229-2f29-4355-b897-fde3cf01b2e3.jpg?v=1789057293
-    Price: $42.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867766993053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_48ee69f8-8ab3-4611-a5ec-0769b3ac54e4.jpg?v=1789033333
-    Price: $44.99 USD
-  - [YELLOW](https://autoglowled.top/products/autoglowled-19pcs-led-interior-light-kit-toyota-land-cruiser-100-lc100?variant=48867767025821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_e960ac87-5388-4ae6-8176-1ca779479ab1.jpg?v=1789057289
-    Price: $45.99 USD
-- [Porsche Panamera LED Interior Kit – AutoGlowLED 24Pcs](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016): Upgrade your Porsche Panamera 970 (2009-2016) with AutoGlowLED 24Pcs Canbus LED interior light kit. Error-free, plug-and-play, 50,000-hour lifespan.
-  Updated: 2026-09-28T10:35:59Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_eeffb8f5-d39c-435c-b3ea-e63578a31284.jpg?v=1789066595
-  - [YELLOW](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772432541)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5663579f-244d-43c0-b461-3c47d45ff355.jpg?v=1789057290
-    Price: $55.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772465309)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_98066e93-2a6f-4ada-9fb3-44d829c709df.jpg?v=1789033335
-    Price: $54.99 USD
-  - [Red](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772498077)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_2d4339d4-f613-45d2-ae3e-7d67d27ede5a.jpg?v=1789057295
-    Price: $51.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-24pcs-canbus-led-interior-light-kit-porsche-panamera-970-2009-2016?variant=48867772530845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_d762e5c2-1bf6-4e03-99a5-b3b3f1f66e44.jpg?v=1789033340
-    Price: $51.99 USD
-- [AutoGlowLED LED Interior Light Kit Peugeot 508 2010-2018](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018): Upgrade your Peugeot 508 Mk1 (2010-2018) with AutoGlowLED 22Pcs LED Interior Light Kit. Bright, error-free, plug-and-play bulbs for dome, door, foot, trunk. 50,000hr life.
-  Updated: 2026-10-15T03:05:41Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_52921114-0df7-4c40-8b3b-83aabf6dc301.jpg?v=1789066620
-  - [Red](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776299165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b30a4d93-8be6-412d-a0b3-9d0fd6bc65ee.jpg?v=1789057307
-    Price: $49.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776331933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_b3bbe2ec-471f-4d35-9057-14a446341af9.jpg?v=1789033347
-    Price: $49.99 USD
-  - [YELLOW](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776364701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_773eb1a7-0f0d-43d5-bdd3-9200da2b4e92.jpg?v=1789057302
-    Price: $52.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-22pcs-led-interior-light-kit-peugeot-508-mk1-2010-2018?variant=48867776397469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_862bb448-166d-499a-82b1-9adb6cc9b7e3.jpg?v=1789033341
-    Price: $51.99 USD
-- [LED Interior Light Kit Toyota Avensis T25 2003-2008](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008): Upgrade your Toyota Avensis T25 (2003-2008) with this 17-piece LED interior light kit. Bright, error-free, plug-and-play bulbs for dome, map, trunk, door, and more.
-  Updated: 2026-10-15T03:05:41Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_16bdb1a8-e61a-4c58-b26e-83878cdf764f.jpg?v=1789066623
-  - [YELLOW](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867781935261)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_193af41a-3698-4d14-a876-937cd99a4985.jpg?v=1789057306
-    Price: $54.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867781968029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_5606c364-f666-485f-a02b-a4cbc921f3a5.jpg?v=1789033357
-    Price: $55.99 USD
-  - [Red](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867782000797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_edc82f3b-c895-4b02-869f-f16166c98c4b.jpg?v=1789057311
-    Price: $32.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-17-piece-led-interior-light-kit-toyota-avensis-t25-2003-2008?variant=48867782033565)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_9d0ad7b1-eedb-4c47-9450-471237073352.jpg?v=1789033361
-    Price: $33.99 USD
-- [Interior LED Light Kit for Jeep Liberty 2002-2007 AutoGlowLED](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007): Shop AutoGlowLED 14Pcs Canbus LED Interior Kit for Jeep Liberty 2002-2007. Dome, map, trunk, license plate, error-free. Plug & play upgrade.
-  Updated: 2026-09-28T10:35:58Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_7a8f4958-2aa0-4094-aa65-5d4a2cc272d0.jpg?v=1789066638
-  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783934109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_353fb3db-fa51-4d6d-9a32-02cc91ad1278.jpg?v=1789057312
-    Price: $31.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783966877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7cde3ce7-dfb6-4b5b-b099-c337fbe6a55d.jpg?v=1789033357
-    Price: $31.99 USD
-  - [Red](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867783999645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_6ca155e1-c317-4834-9f22-981b77099ad8.jpg?v=1789057316
-    Price: $34.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-interior-led-light-kit-jeep-liberty-2002-2007?variant=48867784032413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_62feb5e6-5244-4dec-a883-2ca305e84f13.jpg?v=1789033362
-    Price: $31.99 USD
-- [LED Interior Light Kit for Nissan Rogue 2008-2024](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024): Upgrade your Nissan Rogue (2008-2024) with AutoGlowLED bright, error-free LED interior light kit. Includes dome, map, trunk, vanity, and more. Plug-and-play.
-  Updated: 2026-10-15T03:05:42Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_5d1e1b33-2e19-4784-a1d7-beb6c66ecfd5.jpg?v=1789066642
-  - [(2008-2013) 11PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384276637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
-    Price: $31.99 USD
-  - [(2008-2013) 11PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384309405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
-    Price: $32.99 USD
-  - [(2008-2013) 11PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384342173)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
-    Price: $33.99 USD
-  - [(2008-2013) 11PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384374941)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
-    Price: $31.99 USD
-  - [(2014-2020) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384407709)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
-    Price: $33.99 USD
-  - [(2014-2020) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384440477)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
-    Price: $34.99 USD
-  - [(2014-2020) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384473245)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
-    Price: $34.99 USD
-  - [(2014-2020) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384506013)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
-    Price: $31.99 USD
-  - [(2021-2024) 12PCS / PURPLE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384538781)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_a6456cf7-b2a5-4c19-8b03-16c515cacca7.jpg?v=1789033358
-    Price: $32.99 USD
-  - [(2021-2024) 12PCS / Red](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384571549)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_715e2bae-23b5-4b16-acdd-de2c3fc2de87.jpg?v=1789057317
-    Price: $34.99 USD
-  - [(2021-2024) 12PCS / WHITE](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384604317)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_e4d2a8a7-a416-4284-b01c-cfa050072aa0.jpg?v=1789033362
-    Price: $34.99 USD
-  - [(2021-2024) 12PCS / YELLOW](https://autoglowled.top/products/autoglowled-led-interior-light-kit-nissan-rogue-2008-2024?variant=48868384637085)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_71b4ef7c-a1b8-4e0a-b802-55f5b07ebf5b.jpg?v=1789057313
-    Price: $33.99 USD
-- [AutoGlowLED LED Interior Light Kit for Range Rover Sport 2005-2013](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013): Bright, Canbus error-free AutoGlowLED 14pc LED kit for Range Rover Sport L320 2005-2013. Dome, reading, trunk, footwell. Plug and play, 50,000hr life. Buy now.
-  Updated: 2026-09-28T10:35:58Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_f438c90f-3ebd-48a4-a3ee-06f08c389323.jpg?v=1789066659
-  - [Red](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793207453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_3a646a6f-b36d-4ba9-afd2-e7d783cb6615.jpg?v=1789057318
-    Price: $30.99 USD
-  - [YELLOW](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793240221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_70881c21-23df-459f-a1ea-7bc8e23e41ab.jpg?v=1789057313
-    Price: $31.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793272989)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_ed500f46-e184-40d1-a93d-9d985f505f55.jpg?v=1789033364
-    Price: $30.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-14pcs-led-interior-light-kit-land-rover-range-rover-sport-l320-2005-2013?variant=48867793305757)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_7b71cf2d-7646-4f8c-b364-9fb523b8ce76.jpg?v=1789033359
-    Price: $31.99 USD
-- [LED Interior Light Kit Ford Fiesta 2003-2007 AutoGlowLED](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007): Upgrade your Ford Fiesta 2003-2007 with AutoGlowLED 13-piece LED interior light kit. Brighter, error-free, easy plug-and-play installation for dome, map, trunk, and license plate lights.
-  Updated: 2026-10-15T03:05:41Z
-  Vendor: AutoGlowLED
-  Product Type: LED Interior Light Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/cover_6c572573-dee6-498e-9fa4-85a3d561093e.jpg?v=1789066677
-  - [Red](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795271837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_f81e195e-0e47-47cc-afae-f6f9b880fe4e.jpg?v=1789057327
-    Price: $31.99 USD
-  - [WHITE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795304605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/white_148a85f5-84b0-4112-a534-e8f5a4c10d82.jpg?v=1789033372
-    Price: $31.99 USD
-  - [Warm White](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795337373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/warm_white_078ef579-a955-4736-8265-fd7c0a8bee58.jpg?v=1789033367
-    Price: $33.99 USD
-  - [PURPLE](https://autoglowled.top/products/autoglowled-13pcs-led-interior-light-kit-ford-fiesta-2003-2007?variant=48867795370141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0775/4095/0173/files/purple_655d08e3-ddbb-451a-989c-d3f8bda5ba9d.jpg?v=1789033363
-    Price: $33.99 USD
-[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM3NzQ0NzAxNTk3LCJsYXN0X3ZhbHVlIjoiOTAzNzc0NDcwMTU5NyJ9)
+[List Continued](https://autoglowled.top/a/llms-agent/llms.txt?shop=fja5g2-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDM3NzMxMDcwMTA5LCJsYXN0X3ZhbHVlIjoiOTAzNzczMTA3MDEwOSJ9)
 
 ## Collections
 
 - [Car interior lights](https://autoglowled.top/collections/car-interior-lights): AutoGlowLED car interior LED light kits for dome, map and footwell bulbs. CANBUS-ready options, 6000K white and color choices, fitment for 135+ vehicles.
-  Updated: 2026-10-15T06:27:19Z
+  Updated: 2026-10-22T11:10:02Z
   Total Products: 4689
 - [Ford](https://autoglowled.top/collections/ford): AutoGlowLED Ford LED interior light kits for F-150, Focus, Fiesta, Escape, Explorer and more. CANBUS-compatible, plug-and-play bulbs in white or color options.
   Updated: 2026-10-15T06:27:45Z
   Total Products: 343
 - [LED Interior Light Kit](https://autoglowled.top/collections/led-interior-light-kit): AutoGlowLED LED Interior Light Kits fit Chevy Colorado, Hyundai Kona, Kia Seltos, Mitsubishi Eclipse Cross, and VW CC with plug-and-play CANBUS options.
-  Updated: 2026-10-15T06:27:19Z
+  Updated: 2026-10-22T11:10:02Z
   Total Products: 5724
 - [Mercedes-Benz](https://autoglowled.top/collections/mercedes-benz): AutoGlowLED Mercedes-Benz LED interior light kits fit A-Class W169, C-Class W202-W205, S-Class W220, CLK, CLS, GLA, GLK, Viano W639 and more.
   Updated: 2026-10-15T06:27:53Z
   Total Products: 113
 - [AutoGlowLED](https://autoglowled.top/collections/autoglowled): AutoGlowLED interior LED kits for Nissan Sentra, BMW E30, Ford Fiesta MK7, and more. CANBUS-ready dome, map, and trunk bulbs in multiple colors.
-  Updated: 2026-10-15T06:27:19Z
+  Updated: 2026-10-22T11:10:02Z
   Total Products: 6324
 - [Acura](https://autoglowled.top/collections/acura): Shop AutoGlowLED Acura LED interior light kits for MDX, RDX, TSX, RSX, TL, ILX, and RL. Plug-and-play 6000K or 3000K bulbs with CANBUS-ready options.
   Updated: 2026-10-15T06:25:52Z
@@ -2141,7 +1933,7 @@
   Updated: 2026-10-15T06:27:33Z
   Total Products: 48
 - [BMW](https://autoglowled.top/collections/bmw): Shop AutoGlowLED BMW LED interior light kits. CANBUS-ready, 6000K white and color options, festoon and T10 bulbs for 3 Series, 5 Series, X3, X5 and more.
-  Updated: 2026-10-15T06:27:25Z
+  Updated: 2026-10-22T11:10:02Z
   Total Products: 445
 - [Seat](https://autoglowled.top/collections/seat): AutoGlowLED Seat LED interior light kits for Leon, Ibiza, Alhambra, Ateca, Arona and more. CANBUS-ready, error-free bulbs in white and colour options.
   Updated: 2026-10-15T06:27:45Z
@@ -3007,6 +2799,234 @@
     Updated: 2026-10-16T03:01:31Z
     Author: Shopify API
     Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Skoda Superb interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/skoda-superb-interior-led-upgrade-what-actually-fits): Skoda Superb interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:31Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Skoda Kodiaq interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/skoda-kodiaq-interior-led-upgrade-what-actually-fits): Skoda Kodiaq interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:34Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Skoda Yeti interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/skoda-yeti-interior-led-upgrade-what-actually-fits): Skoda Yeti interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:37Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [LED vs halogen interior bulbs: what actually changes when you swap](https://autoglowled.top/blogs/guides/led-vs-halogen-interior-bulbs-what-actually-changes-when-you-swap): LED vs halogen interior bulbs: what actually changes when you swap
+    Updated: 2026-10-19T06:43:43Z
+    Author: Shopify API
+    Tags: bulb size, CANBUS, install guide, LED interior lights
+  - [Skoda Rapid interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/skoda-rapid-interior-led-upgrade-what-actually-fits): Skoda Rapid interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:41Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Volvo V40 interior LED upgrade: what actually fits (1995-2017)](https://autoglowled.top/blogs/guides/volvo-v40-interior-led-upgrade-what-actually-fits-1995-2017): Volvo V40 interior LED upgrade: what actually fits (1995-2017)
+    Updated: 2026-10-19T06:43:44Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Volvo V60 interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/volvo-v60-interior-led-upgrade-what-actually-fits): Volvo V60 interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:47Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Volvo V70 interior LED upgrade: what actually fits (1996-2016)](https://autoglowled.top/blogs/guides/volvo-v70-interior-led-upgrade-what-actually-fits-1996-2016): Volvo V70 interior LED upgrade: what actually fits (1996-2016)
+    Updated: 2026-10-19T06:43:50Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Volvo S60 interior LED upgrade: what actually fits (1996-2018)](https://autoglowled.top/blogs/guides/volvo-s60-interior-led-upgrade-what-actually-fits-1996-2018): Volvo S60 interior LED upgrade: what actually fits (1996-2018)
+    Updated: 2026-10-19T06:43:53Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Volvo XC70 interior LED upgrade: what actually fits (1998-2016)](https://autoglowled.top/blogs/guides/volvo-xc70-interior-led-upgrade-what-actually-fits-1998-2016): Volvo XC70 interior LED upgrade: what actually fits (1998-2016)
+    Updated: 2026-10-19T06:43:56Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Opel Astra interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/opel-astra-interior-led-upgrade-what-actually-fits): Opel Astra interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:43:59Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Opel Corsa interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/opel-corsa-interior-led-upgrade-what-actually-fits): Opel Corsa interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:02Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Opel Insignia interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/opel-insignia-interior-led-upgrade-what-actually-fits): Opel Insignia interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:05Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Opel Zafira interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/opel-zafira-interior-led-upgrade-what-actually-fits): Opel Zafira interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:08Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Opel Mokka interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/opel-mokka-interior-led-upgrade-what-actually-fits): Opel Mokka interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:11Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Vauxhall Astra interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/vauxhall-astra-interior-led-upgrade-what-actually-fits): Vauxhall Astra interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:14Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Jaguar XF interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/jaguar-xf-interior-led-upgrade-what-actually-fits): Jaguar XF interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:17Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Jaguar XE interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/jaguar-xe-interior-led-upgrade-what-actually-fits): Jaguar XE interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:20Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Jaguar F-Pace interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/jaguar-f-pace-interior-led-upgrade-what-actually-fits): Jaguar F-Pace interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:24Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Jaguar XJ interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/jaguar-xj-interior-led-upgrade-what-actually-fits): Jaguar XJ interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:27Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Land Rover Discovery interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/land-rover-discovery-interior-led-upgrade-what-actually-fits): Land Rover Discovery interior LED upgrade: what actually fits
+    Updated: 2026-10-19T06:44:30Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mazda CX-5 and Mazda3 interior LED lights: bulb sizes and fitting](https://autoglowled.top/blogs/guides/mazda-cx-5-and-mazda3-interior-led-lights-bulb-sizes-and-fitting): Mazda CX-5 and Mazda3 interior LED lights: bulb sizes and fitting
+    Updated: 2026-10-20T02:00:58Z
+    Author: Shopify API
+    Tags: bulb size, CANBUS, install guide, LED interior lights, Mazda
+  - [Land Rover Defender interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/land-rover-defender-interior-led-upgrade-what-actually-fits): Land Rover Defender interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:00:34Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Land Rover Freelander interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/land-rover-freelander-interior-led-upgrade-what-actually-fits): Land Rover Freelander interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:00:37Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Land Rover Evoque interior LED upgrade: what actually fits (2011-2018)](https://autoglowled.top/blogs/guides/land-rover-evoque-interior-led-upgrade-what-actually-fits-2011-2018): Land Rover Evoque interior LED upgrade: what actually fits (2011-2018)
+    Updated: 2026-10-20T03:00:40Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Porsche Cayenne interior LED upgrade: what actually fits (2003-2016)](https://autoglowled.top/blogs/guides/porsche-cayenne-interior-led-upgrade-what-actually-fits-2003-2016): Porsche Cayenne interior LED upgrade: what actually fits (2003-2016)
+    Updated: 2026-10-20T03:00:44Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Porsche 911 interior LED upgrade: what actually fits (1989-2016)](https://autoglowled.top/blogs/guides/porsche-911-interior-led-upgrade-what-actually-fits-1989-2016): Porsche 911 interior LED upgrade: what actually fits (1989-2016)
+    Updated: 2026-10-20T03:00:47Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Porsche Panamera interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/porsche-panamera-interior-led-upgrade-what-actually-fits): Porsche Panamera interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:00:50Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mini Countryman interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mini-countryman-interior-led-upgrade-what-actually-fits): Mini Countryman interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:00:53Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mini Clubman interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mini-clubman-interior-led-upgrade-what-actually-fits): Mini Clubman interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:00:57Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Honda Fit interior LED upgrade: what actually fits (2001-2022)](https://autoglowled.top/blogs/guides/honda-fit-interior-led-upgrade-what-actually-fits-2001-2022): Honda Fit interior LED upgrade: what actually fits (2001-2022)
+    Updated: 2026-10-20T03:01:00Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Honda HR-V interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/honda-hr-v-interior-led-upgrade-what-actually-fits): Honda HR-V interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:01:03Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Honda Stream interior LED upgrade: what actually fits (2001-2014)](https://autoglowled.top/blogs/guides/honda-stream-interior-led-upgrade-what-actually-fits-2001-2014): Honda Stream interior LED upgrade: what actually fits (2001-2014)
+    Updated: 2026-10-20T03:01:06Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Honda City interior LED upgrade: what actually fits (2014-2024)](https://autoglowled.top/blogs/guides/honda-city-interior-led-upgrade-what-actually-fits-2014-2024): Honda City interior LED upgrade: what actually fits (2014-2024)
+    Updated: 2026-10-20T03:01:09Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Honda Insight interior LED upgrade: what actually fits (2000-2022)](https://autoglowled.top/blogs/guides/honda-insight-interior-led-upgrade-what-actually-fits-2000-2022): Honda Insight interior LED upgrade: what actually fits (2000-2022)
+    Updated: 2026-10-20T03:01:12Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Alphard interior LED upgrade: what actually fits (2003-2023)](https://autoglowled.top/blogs/guides/toyota-alphard-interior-led-upgrade-what-actually-fits-2003-2023): Toyota Alphard interior LED upgrade: what actually fits (2003-2023)
+    Updated: 2026-10-20T03:01:15Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Estima interior LED upgrade: what actually fits (1990-2019)](https://autoglowled.top/blogs/guides/toyota-estima-interior-led-upgrade-what-actually-fits-1990-2019): Toyota Estima interior LED upgrade: what actually fits (1990-2019)
+    Updated: 2026-10-20T03:01:19Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Innova interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/toyota-innova-interior-led-upgrade-what-actually-fits): Toyota Innova interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:01:22Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Fortuner interior LED upgrade: what actually fits (2005-2023)](https://autoglowled.top/blogs/guides/toyota-fortuner-interior-led-upgrade-what-actually-fits-2005-2023): Toyota Fortuner interior LED upgrade: what actually fits (2005-2023)
+    Updated: 2026-10-20T03:01:25Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Rush interior LED upgrade: what actually fits (2006-2021)](https://autoglowled.top/blogs/guides/toyota-rush-interior-led-upgrade-what-actually-fits-2006-2021): Toyota Rush interior LED upgrade: what actually fits (2006-2021)
+    Updated: 2026-10-20T03:01:28Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Avanza interior LED upgrade: what actually fits (2003-2024)](https://autoglowled.top/blogs/guides/toyota-avanza-interior-led-upgrade-what-actually-fits-2003-2024): Toyota Avanza interior LED upgrade: what actually fits (2003-2024)
+    Updated: 2026-10-20T03:01:31Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Toyota Roomy interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/toyota-roomy-interior-led-upgrade-what-actually-fits): Toyota Roomy interior LED upgrade: what actually fits
+    Updated: 2026-10-20T03:01:34Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mercedes GLC and GLE interior LED lights: sizes and CANBUS notes](https://autoglowled.top/blogs/guides/mercedes-glc-and-gle-interior-led-lights-sizes-and-canbus-notes): Mercedes GLC and GLE interior LED lights: sizes and CANBUS notes
+    Updated: 2026-10-21T02:00:37Z
+    Author: Shopify API
+    Tags: bulb size, CANBUS, install guide, LED interior lights, Mercedes
+  - [Mitsubishi Lancer interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mitsubishi-lancer-interior-led-upgrade-what-actually-fits): Mitsubishi Lancer interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:28Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi Outlander interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mitsubishi-outlander-interior-led-upgrade-what-actually-fits): Mitsubishi Outlander interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:32Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi ASX interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mitsubishi-asx-interior-led-upgrade-what-actually-fits): Mitsubishi ASX interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:35Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi Pajero interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/mitsubishi-pajero-interior-led-upgrade-what-actually-fits): Mitsubishi Pajero interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:38Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi L200 interior LED upgrade: what actually fits (1987-2022)](https://autoglowled.top/blogs/guides/mitsubishi-l200-interior-led-upgrade-what-actually-fits-1987-2022): Mitsubishi L200 interior LED upgrade: what actually fits (1987-2022)
+    Updated: 2026-10-21T03:00:41Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi Eclipse interior LED upgrade: what actually fits (1990-2012](https://autoglowled.top/blogs/guides/mitsubishi-eclipse-interior-led-upgrade-what-actually-fits-1990-2012): Mitsubishi Eclipse interior LED upgrade: what actually fits (1990-2012
+    Updated: 2026-10-21T03:00:44Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Mitsubishi Mirage interior LED upgrade: what actually fits (1989-2020)](https://autoglowled.top/blogs/guides/mitsubishi-mirage-interior-led-upgrade-what-actually-fits-1989-2020): Mitsubishi Mirage interior LED upgrade: what actually fits (1989-2020)
+    Updated: 2026-10-21T03:00:47Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru Impreza interior LED upgrade: what actually fits (1993-2021)](https://autoglowled.top/blogs/guides/subaru-impreza-interior-led-upgrade-what-actually-fits-1993-2021): Subaru Impreza interior LED upgrade: what actually fits (1993-2021)
+    Updated: 2026-10-21T03:00:50Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru Legacy interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/subaru-legacy-interior-led-upgrade-what-actually-fits): Subaru Legacy interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:53Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru WRX interior LED upgrade: what actually fits (2000-2021)](https://autoglowled.top/blogs/guides/subaru-wrx-interior-led-upgrade-what-actually-fits-2000-2021): Subaru WRX interior LED upgrade: what actually fits (2000-2021)
+    Updated: 2026-10-21T03:00:56Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru Tribeca interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/subaru-tribeca-interior-led-upgrade-what-actually-fits): Subaru Tribeca interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:00:59Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru BRZ interior LED upgrade: what actually fits (2013-2023)](https://autoglowled.top/blogs/guides/subaru-brz-interior-led-upgrade-what-actually-fits-2013-2023): Subaru BRZ interior LED upgrade: what actually fits (2013-2023)
+    Updated: 2026-10-21T03:01:02Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Subaru Levorg interior LED upgrade: what actually fits](https://autoglowled.top/blogs/guides/subaru-levorg-interior-led-upgrade-what-actually-fits): Subaru Levorg interior LED upgrade: what actually fits
+    Updated: 2026-10-21T03:01:06Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
+  - [Lexus IS interior LED upgrade: what actually fits (1989-2018)](https://autoglowled.top/blogs/guides/lexus-is-interior-led-upgrade-what-actually-fits-1989-2018): Lexus IS interior LED upgrade: what actually fits (1989-2018)
+    Updated: 2026-10-21T03:01:09Z
+    Author: Shopify API
+    Tags: Automotive Lighting, Install Guide, LED Interior Light Kit
 
 ## Store Pages
 
@@ -3026,15 +3046,15 @@
 ## Policies
 
 - [Privacy Policy](https://autoglowled.top/policies/privacy-policy)
-  Updated: 2026-07-23T18:20:49-07:00
+  Updated: 2026-07-24T01:20:49Z
 - [Shipping Policy](https://autoglowled.top/policies/shipping-policy)
-  Updated: 2026-08-13T23:43:19-07:00
+  Updated: 2026-08-14T06:43:19Z
 - [Refund Policy](https://autoglowled.top/policies/refund-policy)
-  Updated: 2026-08-13T18:22:11-07:00
+  Updated: 2026-08-14T01:22:11Z
 - [Terms of Service](https://autoglowled.top/policies/terms-of-service)
-  Updated: 2026-07-22T19:20:45-07:00
+  Updated: 2026-07-23T02:20:45Z
 - [Contact Information](https://autoglowled.top/policies/contact-information)
-  Updated: 2026-07-22T19:22:12-07:00
+  Updated: 2026-07-23T02:22:12Z
 
 ## Optional
 
