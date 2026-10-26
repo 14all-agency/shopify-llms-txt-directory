@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2023-07-08T19:27:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-19T00:00:45.426Z
+- Updated At: 2026-10-26T00:59:45.624Z
 
 ## Products
 
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $25.00 USD
 - [star tee](https://dasha.merchmadeeasy.com/products/star-tee): you're a star 💫 100% ringspun heavyweight cotton, Comfort Colors t-shirt in black; garment-dyed and pre-shrunk for a lived-in feel size chart size body length (in) chest width (in) s 26 1/2 18 1/4 m 28 20 1/4 l 29 1/4 22 xl 30 3/4 24 2xl 31 1/2 26
-  Updated: 2026-10-08T15:18:29Z
+  Updated: 2026-10-19T18:27:57Z
   Vendor: Dasha
   Product Type: T-Shirt
   Availability: Available
@@ -161,19 +161,26 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/CuntryPinkHat.png?v=1712934678
   Price: $35.00 USD
 - [cuntry trucker hat - orange](https://dasha.merchmadeeasy.com/products/cuntry-trucker-hat-orange): we're serving cuntry in these hats 🧡 camo trucker hat with a snap closure
-  Updated: 2026-10-15T21:56:06Z
+  Updated: 2026-10-21T18:09:17Z
   Vendor: Cuntry
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/CuntryOrangeHat.png?v=1712934703
   Price: $35.00 USD
 - [temporary tattoo pack](https://dasha.merchmadeeasy.com/products/temporary-tattoo-pack): set of 10 temporary tattoos instructions: place the tattoo design face down on your skin, dampen the paper backing with a wet cloth, press firmly for at least 30 seconds, and carefully peel off the paper to reveal the transferred design; make sure to choose the desired design, cut it out, and remove the clear protective sheet before applying.
-  Updated: 2026-10-05T13:03:47Z
+  Updated: 2026-10-24T02:46:56Z
   Vendor: Dasha
   Product Type: Temporary Tattoos
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/Dasha_Temp_Tat_Single.png?v=1738967837
   Price: $15.00 USD
+- [not at this party keychain](https://dasha.merchmadeeasy.com/products/not-at-this-party-keychain): i'm not at this party! motel-style keychain in red
+  Updated: 2026-10-24T02:46:57Z
+  Vendor: Dasha
+  Product Type: Keychain
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/Dasha_Keychain_Front_d15c5e30-7610-4506-88c8-fabd3520191c.png?v=1740756712
+  Price: $8.00 USD
 - [bedazzled cuntry tank](https://dasha.merchmadeeasy.com/products/bedazzled-cuntry-tank): these cuntry tanks needed a little sparkle ✨ 100% cotton tank top in white. please note: these tanks are hand-bedazzled – each tank is unique and may not match the photo exactly
   Updated: 2026-10-05T13:03:48Z
   Vendor: Cuntry
@@ -196,7 +203,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [southern heart tee](https://dasha.merchmadeeasy.com/products/southern-heart-tee): southern at heart 🤎 100% ringspun cotton mineral wash t-shirt in vintage black size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26
-  Updated: 2026-10-05T13:03:49Z
+  Updated: 2026-10-21T18:10:39Z
   Vendor: Dasha
   Product Type: T-Shirt
   Availability: Available
@@ -208,7 +215,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
   - [L](https://dasha.merchmadeeasy.com/products/southern-heart-tee?variant=50512461594943)
-    Availability: Not Available
+    Availability: Available
     Price: $30.00 USD
   - [XL](https://dasha.merchmadeeasy.com/products/southern-heart-tee?variant=50512461627711)
     Availability: Available
@@ -256,7 +263,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [not at this party tee](https://dasha.merchmadeeasy.com/products/not-at-this-party-tee): 100% ringspun cotton t-shirt in white size chart size body length (in) chest width (in) s 26 1/2 18 1/4 m 28 20 1/4 l 29 1/4 22 xl 30 3/4 24 2xl 31 1/2 26
-  Updated: 2026-10-05T13:03:51Z
+  Updated: 2026-10-21T18:11:50Z
   Vendor: Dasha
   Product Type: T-Shirt
   Availability: Available
@@ -265,7 +272,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
   - [M](https://dasha.merchmadeeasy.com/products/not-at-this-party-tee?variant=51015390167359)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [L](https://dasha.merchmadeeasy.com/products/not-at-this-party-tee?variant=51015390200127)
     Availability: Available
@@ -284,14 +291,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/DASHA_0002_165063_1_302717_d.png?v=1749483762
   Price: $5.00 USD
 - [dashville skinny koozie](https://dasha.merchmadeeasy.com/products/dashville-skinny-koozie): neoprene koozie in red; fits slim 12oz containers
-  Updated: 2026-10-05T13:03:52Z
+  Updated: 2026-10-21T18:09:18Z
   Vendor: Dasha
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/DASHA_0003_165062_1_302716_d.png?v=1749483762
   Price: $5.00 USD
 - [cardinal hoodie](https://dasha.merchmadeeasy.com/products/cardinal-hoodie): could you work on me? 🔧 80/10/10 cotton/polyester/recycled polyester hoodie in cardinal red size chart size body length (in) chest width (in) xs 26 18 s 27 20 m 28 22 l 29 24 xl 30 26 2xl 31 28
-  Updated: 2026-10-05T13:03:52Z
+  Updated: 2026-10-23T06:59:41Z
   Vendor: Dasha
   Product Type: Hoodie
   Availability: Available
@@ -303,7 +310,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $70.00 USD
   - [L](https://dasha.merchmadeeasy.com/products/cardinal-hoodie?variant=51479860609343)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [XL](https://dasha.merchmadeeasy.com/products/cardinal-hoodie?variant=51479860642111)
     Availability: Not Available
@@ -357,16 +364,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://dasha.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 29
 - [apparel](https://dasha.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-15T21:38:04Z
+  Updated: 2026-10-23T11:13:23Z
   Total Products: 13
 - [accessories](https://dasha.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 14
 - [all](https://dasha.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 39
 - [What Happens Now?](https://dasha.merchmadeeasy.com/collections/what-happens-now)
   Updated: 2026-07-22T14:13:01Z
@@ -375,49 +382,49 @@ your agent can transact everywhere.
   Updated: 2026-07-22T14:13:01Z
   Total Products: 4
 - [austin collection](https://dasha.merchmadeeasy.com/collections/austin-collection)
-  Updated: 2026-10-01T11:10:52Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 8
 - [cuntry collection](https://dasha.merchmadeeasy.com/collections/cuntry-collection)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-20T11:11:30Z
   Total Products: 7
 - [$20.24](https://dasha.merchmadeeasy.com/collections/20-24)
   Updated: 2025-05-04T01:50:35Z
   Total Products: 0
 - [hats](https://dasha.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-20T11:11:30Z
   Total Products: 6
 - [2025 tour merch](https://dasha.merchmadeeasy.com/collections/not-at-this-party)
-  Updated: 2026-09-20T11:10:31Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 14
 - [tanks](https://dasha.merchmadeeasy.com/collections/tanks)
   Updated: 2026-09-18T11:10:38Z
   Total Products: 2
 - [new arrivals](https://dasha.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 39
 - [best sellers](https://dasha.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 39
 - [](https://dasha.merchmadeeasy.com/collections/)
-  Updated: 2026-10-01T11:10:52Z
+  Updated: 2026-10-20T11:11:30Z
   Total Products: 2
 - [Tees & Tanks](https://dasha.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-01T11:10:52Z
+  Updated: 2026-10-20T11:11:30Z
   Total Products: 9
 - [anna](https://dasha.merchmadeeasy.com/collections/anna)
-  Updated: 2026-09-20T11:10:31Z
+  Updated: 2026-10-23T11:13:23Z
   Total Products: 4
 - [bedazzled](https://dasha.merchmadeeasy.com/collections/bedazzled)
   Updated: 2026-09-18T11:10:38Z
   Total Products: 2
 - [$10 & Under](https://dasha.merchmadeeasy.com/collections/10-under)
-  Updated: 2026-09-20T11:10:31Z
+  Updated: 2026-10-24T11:12:30Z
   Total Products: 6
 - [$20](https://dasha.merchmadeeasy.com/collections/20)
   Updated: 2026-06-08T20:27:37Z
   Total Products: 1
 - [$30 & Above](https://dasha.merchmadeeasy.com/collections/30-above)
-  Updated: 2026-10-17T11:18:58Z
+  Updated: 2026-10-23T11:13:23Z
   Total Products: 22
 
 ## Store Pages
@@ -432,15 +439,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://dasha.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-06-18T09:40:15-05:00
+  Updated: 2026-06-18T14:40:15Z
 - [Shipping Policy](https://dasha.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-25T10:24:08-05:00
+  Updated: 2026-09-25T15:24:08Z
 - [Refund Policy](https://dasha.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-06-18T09:56:43-05:00
+  Updated: 2026-06-18T14:56:43Z
 - [Terms of Service](https://dasha.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-25T10:23:40-05:00
+  Updated: 2026-09-25T15:23:40Z
 - [Contact Information](https://dasha.merchmadeeasy.com/policies/contact-information)
-  Updated: 2024-03-13T13:29:14-05:00
+  Updated: 2024-03-13T18:29:14Z
 
 ## Optional
 
