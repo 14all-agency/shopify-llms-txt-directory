@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-02-23T15:47:43Z
 - Contact Email: petvetmart@gmail.com
-- Updated At: 2026-10-19T00:00:39.398Z
+- Updated At: 2026-10-26T00:55:24.525Z
 
 ## Products
 
@@ -54,7 +54,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/waterproof_backpack_for_cat_carrier.png?v=1773697879
     Price: $60.99 USD
 - [Collapsible Hard Shell Dog & Cat Carrier | 40+ lbs](https://www.petvetmart.com/products/collapsible-pet-carrier-crate): hard shell collapsible pet carrier for dogs & cats. PVC shell, tear-proof foam core, 360° zip, 40+ lb zipper rating, shoulder strap & leash hook. 18.2×11.4×13.3".
-  Updated: 2026-10-14T17:10:17Z
+  Updated: 2026-10-22T02:09:28Z
   Vendor: Pet Life
   Product Type: Pet Carriers
   Availability: Available
@@ -104,7 +104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Plush_penguin_toy.webp?v=1785325612
   Price: $19.99 USD
 - [LightHound LED Dog Harness – USB Rechargeable Reflective Safety Vest | Pet Vet Mart](https://www.petvetmart.com/products/lighthound-led-dog-harness): Shop the LightHound LED dog harness with 8 colors, 6 light modes, 360° reflective visibility & 12-hr rechargeable battery. Adjustable, durable & weather-resistant.
-  Updated: 2026-10-17T02:19:11Z
+  Updated: 2026-10-24T17:15:49Z
   Vendor: Wags & Whiskers Pet Supply
   Product Type: Pet Collars, Harnesses & Leashes
   Availability: Available
@@ -156,7 +156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Pet_Grooming_Straighter.jpg?v=1785325792
     Price: $89.00 USD
 - [Puracy Pet Stain & Odor Remover – Enzyme Cleaner, Non-Toxic, No-Rinse](https://www.petvetmart.com/products/puracy-pet-stain-odor-remover): Puracy enzyme pet stain & odor remover tackles urine, vomit & feces on carpet, fabric & upholstery. Non-toxic, plant-based, no-rinse formula. 25 oz spray.
-  Updated: 2026-10-18T19:15:42Z
+  Updated: 2026-10-25T23:15:14Z
   Vendor: Puracy
   Product Type: Pet
   Availability: Available
@@ -181,21 +181,21 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/3AC479CBD6D58D0F71338432FA449721.jpg?v=1775120920
   Price: $17.06 USD
 - [Omega Pawz Liquid Omega-3 Fish Oil for Dogs & Cats | Dr. Ruth Roberts](https://www.petvetmart.com/products/omega-pawz-liquid-omega-3-fish-oil-dogs-cats): Omega Pawz by Dr. Ruth Roberts – 8 fl oz liquid fish oil with 725mg EPA & 475mg DHA per serving. All-natural, lemon-flavored daily supplement for dogs and cats.
-  Updated: 2026-10-16T22:56:16Z
+  Updated: 2026-10-20T17:31:19Z
   Vendor: Dr. Ruth Roberts
   Product Type: Animals & Pet Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Omega.png?v=1775121033
   Price: $39.00 USD
 - [Pet's Daily Wellness Formula | Glandular-Free Dog & Cat Multivitamin – Dr. Ruth Roberts](https://www.petvetmart.com/products/pets-daily-wellness-formula): Dr. Ruth Roberts' glandular-free daily multivitamin powder for dogs & cats. Free of pork & beef organs. Packed with vitamins, minerals & taurine. Mixes with any diet. $54.
-  Updated: 2026-10-18T12:23:16Z
+  Updated: 2026-10-23T14:39:27Z
   Vendor: Dr. Ruth Roberts
   Product Type: Vitamins & Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Pets_Daily_wellness_formula.png?v=1775121090
   Price: $54.00 USD
 - [Holistic Total Body Support | Vet-Formulated Pet Multivitamin for Dogs & Cats](https://www.petvetmart.com/products/multivitamin-glandular-support-for-dogs-and-cats): Give your pet daily nutritional support with HTBS—a vet-formulated powdered multivitamin & glandular supplement for dogs & cats by Dr. Ruth Roberts, DVM. Shop now!
-  Updated: 2026-10-17T15:17:06Z
+  Updated: 2026-10-25T18:19:16Z
   Vendor: Dr. Ruth Roberts
   Product Type: Vitamins & Supplements
   Availability: Available
@@ -216,7 +216,7 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/gimars-6-in-1-professional-stainless-steel-safety-pet-grooming-scissors-pet-supplies-dailysale-630207.jpg?v=1775422290
   Price: $39.00 USD
 - [Pet-Safe Grass Seed – Tall Fescue & Clover Mix for Dogs](https://www.petvetmart.com/products/pet-safe-grass-seed-mix): blends Tall Fescue & White Dutch Clover to resist urine burn, repair bare spots, and stay green with less water. Safe for dogs and cats. No chemicals.
-  Updated: 2026-10-18T22:43:37Z
+  Updated: 2026-10-25T23:47:32Z
   Vendor: Earthwise Seed
   Product Type: 
   Availability: Available
@@ -244,21 +244,21 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/cosequin-soft-chews-dogs-glucosamine-chondroitin-supplement.jpg?v=1783456936
   Price: $61.33 USD
 - [Dog Multivitamin Chews with Glucosamine & Probiotics – 90ct](https://www.petvetmart.com/products/10-in-1-dog-multivitamin-soft-chews-chicken-flavor): 10-in-1 dog multivitamin soft chews – 90ct. Made in USA, vet-. Glucosamine, probiotics, krill oil & vitamins for joint, gut, skin & immune health.
-  Updated: 2026-10-18T23:27:56Z
+  Updated: 2026-10-26T00:51:47Z
   Vendor: Googipet
   Product Type: Dog Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Googipet_10-in-1_Multivitamin.png?v=1784830516
   Price: $29.99 USD
 - [Dog Probiotic Chews 6 Billion CFU | Gut, Immune & Digestive Support](https://www.petvetmart.com/products/probiotic-chews-for-dogs-googipet): 3-in-1 dog probiotic chews with 6B CFU, prebiotics & postbiotics. NASC-, vet-, Made in USA. Duck flavor, 90 soft chews. Non-GMO.
-  Updated: 2026-10-18T23:09:26Z
+  Updated: 2026-10-26T00:51:08Z
   Vendor: Googipet
   Product Type: Dog Supplies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Dog_supplement_containers.jpg?v=1784829508
   Price: $29.99 USD
 - [Soft daily chews with Glucosamine HCl, MSM, EPAX® Omega-3, FruiteX-B® & Green Lipped Mussel. NASC , all-natural, made in USA. For all breeds & ages. 90ct.](https://www.petvetmart.com/products/agility-plus-hip-joint-chews-dogs-90ct): Soft daily chews with Glucosamine HCl, MSM, EPAX® Omega-3, FruiteX-B® & Green Lipped Mussel. NASC , all-natural, made in USA. For all breeds & ages. 90ct.
-  Updated: 2026-10-18T23:51:47Z
+  Updated: 2026-10-26T00:24:36Z
   Vendor: Googipet
   Product Type: 
   Availability: Available
@@ -286,14 +286,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Open_Farm_Rawmix_dog_food_item.jpg?v=1784133952
     Price: $97.99 USD
 - [Fish Treat Topper for Dogs & Cats | Wild-Caught Walleye](https://www.petvetmart.com/products/fish-treat-topper-walleye-dog-cat): Fish Treat Topper — 100% wild-caught walleye powder, single-ingredient, 74% protein, omega-3 rich. Low-allergen, dry food form. Made in USA. For dogs & cats.
-  Updated: 2026-10-15T23:36:25Z
+  Updated: 2026-10-25T20:56:07Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/farm-pet_-toppers.png?v=1784829282
   Price: $15.95 USD
 - [Chicken Dog Food Topper | Single-Ingredient, Human-Grade](https://www.petvetmart.com/products/chicken-treat-topper): Chicken Treat Topper: 100% human-grade chicken breast powder, 80% protein, 3 cal/tsp. Grain-free, single-ingredient. For dogs & cats. Made in USA.
-  Updated: 2026-10-18T22:15:06Z
+  Updated: 2026-10-25T19:33:52Z
   Vendor: Farm To Pet
   Product Type: Topper
   Availability: Available
@@ -336,7 +336,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Open Farm Grain-Free Turkey Pâté for Cats | Humanely Raised, No Corn or Soy](https://www.petvetmart.com/products/open-farm-turkey-pate-cat): Open Farm Homestead Turkey Pâté — grain-free, legume-free wet cat food made with humanely-raised turkey and turkey liver. No corn, soy, or carrageenan. Available in 2.8 oz and 5.3 oz.
-  Updated: 2026-10-14T17:10:18Z
+  Updated: 2026-10-23T14:40:11Z
   Vendor: The Family Pet
   Product Type: 
   Availability: Available
@@ -348,7 +348,7 @@
     Availability: Available
     Price: $3.19 USD
 - [Chicken Chips Dog Treats | Farm to Pet | Pet Vet Mart](https://www.petvetmart.com/products/chicken-chips-dog-treats): Shop Farm to Pet Chicken Chips: crunchy, single-ingredient chicken dog treats made in the USA. 7 calories per chip. Choose 4 oz or 12 oz pouches.
-  Updated: 2026-10-18T23:04:06Z
+  Updated: 2026-10-25T20:13:25Z
   Vendor: Farm To Pet
   Product Type: Chip
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Package_of_Farm_to_Pet_Chicken_Chip.png?v=1791115778
     Price: $29.95 USD
 - [Applaws Chicken Breast in Broth Wet Cat Food 2.47oz | Natural, 3-Ingredient Cat Food](https://www.petvetmart.com/products/applaws-chicken-breast-broth-wet-cat-food): Applaws Chicken Breast in Broth Wet Cat Food — only 3 natural ingredients, carrageenan-free, and additive-free. A clean, simple wet food for  cats. 2.47 oz can.
-  Updated: 2026-10-14T17:10:11Z
+  Updated: 2026-10-23T14:25:09Z
   Vendor: The Family Pet
   Product Type: Wet Cat Food
   Availability: Available
@@ -414,14 +414,14 @@
     Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Stainless_steel_bowl_with_orange.jpg?v=1786103502
     Price: $15.98 USD
 - [Flea & Tick Chews for Dogs, 170 Count | Pet Vet Mart](https://www.petvetmart.com/products/flea-tick-chews): Explore Yuma’s chicken-flavor flea and tick soft chews for dogs. 170-count tub with B-complex vitamins, neem, coriander and flax seed. Made in the USA.
-  Updated: 2026-10-18T23:35:46Z
+  Updated: 2026-10-26T00:20:37Z
   Vendor: Zamzamas
   Product Type: Pet Pest Control Supplies & Dogs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Yuma_s_Flea_Tick_Prevention_Immune_Chews.jpg?v=1791114398
   Price: $21.99 USD
 - [Herbal Defense Powder – Natural Flea & Tick Support for Dogs & Cats](https://www.petvetmart.com/products/herbal-defense-powder-flea-tick-dogs-cats): Herbal Defense Powder: vet-designed, 100% natural oral supplement that deters fleas, ticks & mosquitoes in dogs & cats. No chemicals. 4 oz.
-  Updated: 2026-10-16T13:48:27Z
+  Updated: 2026-10-24T10:41:07Z
   Vendor: Adore Pet
   Product Type: 
   Availability: Available
@@ -442,14 +442,14 @@
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/Prenatal_Multivitamin_for_Dogs_Cats.png?v=1786645461
   Price: $24.95 USD
 - [West Paw Rawbiotic Bites Beef Dog Food Topper | Freeze-Dried, Probiotic-Rich | Pet Vet Mart](https://www.petvetmart.com/products/west-paw-rawbiotic-bites-beef-dog-food-topper): West Paw Rawbiotic Bites Beef is a freeze-dried dog food topper with raw beef proteins, fermented probiotics, real fruits & veggies. No fillers. 6.4 oz. USA-made.
-  Updated: 2026-10-17T13:59:16Z
+  Updated: 2026-10-23T13:44:30Z
   Vendor: West Paw
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/3577/6299/files/West_Paw_Rawbiotic_Bites_for_dogs.jpg?v=1787659689
   Price: $19.95 USD
 - [West Paw Rawbiotic Bites Chicken Dog Food Topper | Freeze-Dried, Probiotic, Grain-Free](https://www.petvetmart.com/products/west-paw-rawbiotic-bites-chicken-dog-food-topper): West Paw Rawbiotic Bites Chicken Dog Food Topper (6.4 oz) – freeze-dried raw chicken with fermented probiotics, real fruits & veggies. No gluten, grain, soy, or artificial additives. USA-made. Sprinkle over any kibble.
-  Updated: 2026-10-17T13:59:16Z
+  Updated: 2026-10-22T15:28:32Z
   Vendor: West Paw
   Product Type: 
   Availability: Available
@@ -552,7 +552,7 @@
     Availability: Available
     Price: $72.99 USD
 - [Hill's Science Diet  Urinary & Hairball Control Chicken Recipe Dry Cat Food](https://www.petvetmart.com/products/hills-science-diet--urinary-hairball-control-chicken-recipe-dry-cat-food): Cat food that supports the entire urinary system with optimal levels of magnesium A good source of natural fiber to help comfortably reduce hairballs in cats Supports healthy skin and coat with omega-6s and vitamin E High-quality protein to help your cat maintain muscle Made with natural ingredients Made in the USA with global ingredients you can trust #1 Veterinarian Recommended Hill's Science Diet Urinary Hairball Control  dry cat food supports the health of the whole urinary system and helps avoid hairball formation. Supports the health of the whole urinary system with optimal levels of magnesium Natural fiber comfortably reduces hairballs High quality fiber, fatty acids and antioxidants to support healthy digestion, skin & coat and a strong immune system Highly digestible, high quality protein to help maintain lean muscle Additional info: At Hill's we have been studying how nutrition supports cat health. We learned that a healthy urinary system is vital to overall health and how natural fiber comfortably reduces hairballs. Recommended for:  cats 1 - 6 years to help support the health of the urinary system and reduce hairballs. Not recommended for: Kittens and pregnant or nursing cats. During pregnancy or nursing, cats should be switched to Hill’s Science Diet Kitten or Hill's Science Diet Kitten Indoor dry cat food. Ingredients: Chicken, Whole Grain Wheat, Corn Gluten Meal, Pork Fat, Powdered Cellulose, Wheat Gluten, Chicken Liver Flavor, Dried Beet Pulp, Soybean Oil, Lactic Acid, Calcium Sulfate, Fish Oil, Choline Chloride, Potassium Chloride, L-Lysine, Iodized Salt, Dicalcium Phosphate, Taurine, vitamins (Vitamin E Supplement, L-Ascorbyl-2-Polyphosphate (source of Vitamin C), Niacin Supplement, Thiamine Mononitrate, Vitamin A Supplement, Calcium Pantothenate, Riboflavin Supplement, Biotin, Vitamin B12 Supplement, Pyridoxine Hydrochloride, Folic Acid, Vitamin D3 Supplement), Potassium Citrate, minerals (Ferrous Sulfate, Zinc Oxide, Copper Sulfate, Manganous Oxide, Calcium Iodate, Sodium Selenite), L-Carnitine, Mixed Tocopherols for freshness, Natural Flavors, Green Peas, Apples, Cranberries, Carrots, Broccoli, Beta-Carotene.
-  Updated: 2026-10-16T14:37:27Z
+  Updated: 2026-10-22T15:39:37Z
   Vendor: The Family Pet
   Product Type: Dry Cat Food
   Availability: Available
@@ -567,7 +567,7 @@
     Availability: Available
     Price: $78.99 USD
 - [Hill's Science Diet  Chicken & Barley Recipe Dry Dog Food Bag](https://www.petvetmart.com/products/hills-science-diet--chicken-barley-recipe-dry-dog-food-bag): Hill's Science Diet  dry dog food is specially formulated to fuel the energy needs of dogs during the prime of their life. Made with high quality, easy-to-digest ingredients. Omega-6s & Vitamin E for beautiful skin & coat High-quality protein for lean muscles Natural fibers for healthy digestion Additional info: Great tasting natural* nutrition for a long, happy life. With a wagging tail and licks on your face, no one can say hello like your dog. Because every moment you spend together is special, we strive to give you more of them. With natural ingredients and the right nutrients, Hill's Science Diet is precisely prepared to offer your dog the nutrition he needs for lifelong health and happiness.We make every bag of our dry dog food in our own US facilities with highest quality ingredients from North America, Europe and New Zealand. These ingredients must meet our strict requirements for purity and nutrient content, which exceed industry standards.You can make a difference in the lives of shelter pets. With every purchase of Science Diet you help feed over 100,000 homeless pets every day, 365 days a year.Learn more at hillsfoodshelterlove.com.*plus vitamins, minerals and amino acids Recommended for:  dogs 1 - 6 years of age. Not recommended for: Puppies and pregnant or nursing dogs. During pregnancy or nursing, dogs should be switched to Hill’s Science Diet Puppy, Hill’s Science Diet Puppy Small Bites or Hill’s Science Diet Puppy Small Paws dry dog food.
-  Updated: 2026-10-14T17:10:20Z
+  Updated: 2026-10-21T16:56:22Z
   Vendor: The Family Pet
   Product Type: Dry Dog Food
   Availability: Available
@@ -729,13 +729,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.petvetmart.com/policies/privacy-policy)
-  Updated: 2026-02-23T20:47:54+05:00
+  Updated: 2026-02-23T15:47:54Z
 - [Refund Policy](https://www.petvetmart.com/policies/refund-policy)
-  Updated: 2026-03-02T21:40:16+05:00
+  Updated: 2026-03-02T16:40:16Z
 - [Terms of Service](https://www.petvetmart.com/policies/terms-of-service)
-  Updated: 2026-02-24T21:22:57+05:00
+  Updated: 2026-02-24T16:22:57Z
 - [Contact Information](https://www.petvetmart.com/policies/contact-information)
-  Updated: 2026-02-24T21:23:25+05:00
+  Updated: 2026-02-24T16:23:25Z
 
 ## Optional
 
