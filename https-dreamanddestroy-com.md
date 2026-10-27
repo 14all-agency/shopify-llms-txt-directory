@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-01T05:30:25Z
 - Contact Email: david@dreamanddestroy.com
-- Updated At: 2026-10-20T00:00:23.504Z
+- Updated At: 2026-10-27T00:49:42.266Z
 
 ## Products
 
@@ -556,13 +556,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Helmut_Lang_Vinyl_skirt.jpg?v=1790385677
   Price: $150.00 USD
-- [Nicholas Kamila Ruffle Cowl-Neck Silk-Blend Chiffon Gown Ivory Floral](https://dreamanddestroy.com/products/nicholas-kamila-ruffle-cowl-neck-silk-blend-chiffon-gown-ivory-floral-sz-6-695): NICHOLAS KAMILA RUFFLE COWL-NECK SILK CHIFFON GOWN IN THE HARD TO FIND BLUE COLOR THAT WILL FIT A SIZE 6 PERFECTLY. FEATURESNO VISIBLE ISSUES, WORN TO A WEDDING.RETAILS AT $695- CURRENT DESIGN AND STILL IN STORES.MEASUREMENTS:CHEST: 15 X WAIST: 15 X HIP AREA: 20 X LENGTH: 51- Self: 100% silkLining: 100% viscose- Made in China- Dry clean only- Fully lined- Hidden back zipper closure- Adjustable shoulder straps- Chiffon fabric with ruffle detail
-  Updated: 2026-10-05T22:58:11Z
-  Vendor: Nicholas
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/nicholas_dress.jpg?v=1790902390
-  Price: $350.00 USD
 - [GUNEX BY BRUNELLO CUCINELLI BLACK STRETCH DRESS CREASE PANTS 6](https://dreamanddestroy.com/products/gunex-by-brunello-cucinelli-black-stretch-dress-crease-pants-6): GUNEX BY BRUNELLO CUCINELLI BLACK STRETCH DRESS CREASE PANTS IN A MARKED SIZE 6. FEATURES A BLACK STRETCH COTTON, CREASE DOWN THE CENTER OF LEGS, FLAT FRONT WITH A ZIP CLOSURE. GORGEOUS PANTS.MEASUREMENTS: 16 X INSEAM: 29 X FOOT: 7
   Updated: 2026-10-05T22:57:08Z
   Vendor: Gunex
@@ -690,15 +683,15 @@
 ## Policies
 
 - [Privacy Policy](https://dreamanddestroy.com/policies/privacy-policy)
-  Updated: 2020-09-09T14:42:18-07:00
+  Updated: 2020-09-09T21:42:18Z
 - [Shipping Policy](https://dreamanddestroy.com/policies/shipping-policy)
-  Updated: 2025-09-05T21:29:40-07:00
+  Updated: 2025-09-06T04:29:40Z
 - [Refund Policy](https://dreamanddestroy.com/policies/refund-policy)
-  Updated: 2026-07-26T17:20:49-07:00
+  Updated: 2026-07-27T00:20:49Z
 - [Terms of Service](https://dreamanddestroy.com/policies/terms-of-service)
-  Updated: 2025-09-05T21:30:07-07:00
+  Updated: 2025-09-06T04:30:07Z
 - [Contact Information](https://dreamanddestroy.com/policies/contact-information)
-  Updated: 2025-09-05T21:29:52-07:00
+  Updated: 2025-09-06T04:29:52Z
 
 ## Optional
 
