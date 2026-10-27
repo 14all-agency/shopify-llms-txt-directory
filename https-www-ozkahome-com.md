@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T07:35:24Z
 - Contact Email: info@ozkahome.com
-- Updated At: 2026-10-20T00:00:49.153Z
+- Updated At: 2026-10-27T01:12:16.542Z
 
 ## Products
 
@@ -536,7 +536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saf2c5f17b59041c7820c30950b766c221.webp?v=1782159229
     Price: $23.90 USD
 - [40 Oz Insulated Tumbler | Handle, Straw & Steel Travel Cup](https://www.ozkahome.com/products/40oz-insulated-tumbler): 40 Oz Insulated Tumbler with handle and reusable straw, made from 18/8 stainless steel. Holds 40 oz and keeps drinks hot up to 12 hours or cold up to 24 hours.
-  Updated: 2026-10-18T19:06:41Z
+  Updated: 2026-10-23T20:06:36Z
   Vendor: OZKA HOME
   Product Type: Drinkware
   Availability: Available
@@ -876,7 +876,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2d5d383929c148a1a90f574f6af8f84aY.webp?v=1782309157
     Price: $27.10 USD
 - [Silicone Kitchenware With Wooden Handle | Utensil Sets](https://www.ozkahome.com/products/silicone-kitchenware-with-wooden-handle): Silicone Kitchenware With Wooden Handle for cooking, baking, stirring, and serving. Choose single pieces or 12–14 piece sets in a range of colors.
-  Updated: 2026-10-17T16:06:40Z
+  Updated: 2026-10-22T12:06:13Z
   Vendor: OZKA HOME
   Product Type: Silicone Kitchenware
   Availability: Available
@@ -1004,7 +1004,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c66cf3d96f340c893a32b1b1003a97fo.webp?v=1782420408
   Price: $2.76 USD
 - [Emery Cleaning Sponge Brush with Handle | OZKA HOME](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2): Make everyday cleaning easier with a lightweight emery sponge brush featuring a comfortable handle. Explore practical cleaning tools at OZKA HOME.
-  Updated: 2026-10-19T18:43:20Z
+  Updated: 2026-10-20T18:39:43Z
   Vendor: OZKA HOME
   Product Type: Cleaning Tools
   Availability: Available
@@ -1230,7 +1230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614821353310.jpg?v=1782541009
     Price: $48.92 USD
 - [Stainless Steel Metal Garden Hose with Spray Nozzle | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-metal-garden-hose-spray-nozzle): Kink-free stainless steel garden hose with 10-pattern spray nozzle. Available in 50FT & 100FT. Heavy duty, flexible, and rust-resistant. Perfect for any garden.
-  Updated: 2026-10-14T10:25:05Z
+  Updated: 2026-10-26T15:05:44Z
   Vendor: OZKA HOME
   Product Type: Garden Supplies
   Availability: Available
@@ -1258,7 +1258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9132f679-963b-4e5a-9e3f-128ba549427d.jpg?v=1782542931
     Price: $71.99 USD
 - [Portable Electric Espresso Machine – Cordless Self-Heating](https://www.ozkahome.com/products/portable-electric-espresso-machine-cordless-car-camping): Brew fresh espresso anywhere with this cordless, self-heating portable coffee maker. Compatible with ground coffee & NS/DG capsules. Perfect for car, camping & office.
-  Updated: 2026-10-14T20:06:36Z
+  Updated: 2026-10-24T04:06:15Z
   Vendor: OZKA HOME
   Product Type: 3D Sleep Mask
   Availability: Available
@@ -1303,7 +1303,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S573da1c68f704bfda3674d15aa8ef195i.webp?v=1782594827
     Price: $20.98 USD
 - [Oil & Vinegar Spray Bottle – Leakproof Push-Pump Mister](https://www.ozkahome.com/products/oil-vinegar-spray-bottle-leakproof-bbq-cooking): Push-pump oil spray bottle for BBQ, baking & cooking. Leakproof, no propellants. Fits oil, vinegar, soy sauce & more. 100ml glass + ABS.
-  Updated: 2026-10-16T23:07:57Z
+  Updated: 2026-10-27T00:06:52Z
   Vendor: OZKA HOME
   Product Type: Kitchen Gadgets
   Availability: Available
@@ -1930,7 +1930,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S194bafd70ec1443fb038716cacb450043.webp?v=1783674274
     Price: $9.38 USD
 - [Stainless Steel Oil Filter Pot 2L – Fine Mesh Strainer & Storage Tank | OZKA HOME](https://www.ozkahome.com/products/2l-stainless-steel-oil-filter-pot-with-fine-mesh-filter-oil-storage-tank-frying-basket): Keep your kitchen oil clean & fresh with this 2L SS304 stainless steel oil filter pot. Heat-resistant, rust-proof, easy to clean. Perfect for frying & storage.
-  Updated: 2026-10-14T10:28:18Z
+  Updated: 2026-10-26T12:05:50Z
   Vendor: OZKA HOME
   Product Type: Kitchen & Cooking
   Availability: Available
@@ -2299,7 +2299,7 @@
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb09b7ea905d14e6da89433f693c05babG.webp?v=1784275224
   Price: $9.38 USD
 - [Portable Electric Vacuum Pump for Storage Bags | OZKA HOME](https://www.ozkahome.com/products/portable-electric-vacuum-pump): Rechargeable wireless electric vacuum pump for storage bags. 25W, USB-C charging, compact & lightweight. Perfect for travel & home. Shop OZKA HOME.
-  Updated: 2026-10-19T18:44:15Z
+  Updated: 2026-10-24T22:09:31Z
   Vendor: OZKA HOME
   Product Type: Vacuum Pump
   Availability: Available
@@ -2363,265 +2363,25 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sed366a1451034c32b63cf65f2d5eb418u.webp?v=1784319644
     Price: $5.18 USD
-- [Large Capacity Spray Water Bottle | OZKA HOME](https://www.ozkahome.com/products/large-capacity-spray-water-bottle): Wide-mouth spray water bottle with leakproof lid and carry strap. BPA-free plastic, perfect for sports, gym, office, and travel. Available in multiple colors and sizes.
-  Updated: 2026-10-14T10:26:36Z
-  Vendor: OZKA HOME
-  Product Type: Water Bottles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/5e8df1e0-c3e3-4514-9f36-0c7f89def14d.jpg?v=1784321668
-  - [Green](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136754871)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fa3f1c4c-7e36-41dc-a983-58d0b108748a.jpg?v=1784321669
-    Price: $31.63 USD
-  - [Black](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136787639)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8cd93671-c003-4ca6-88b9-07e6cb50fadd.jpg?v=1784321668
-    Price: $31.56 USD
-  - [Black700ml](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136820407)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8e577e6f-634b-478c-a7fd-5c63088f000a.jpg?v=1784321669
-    Price: $32.46 USD
-  - [Blueorange gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136853175)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7f2813af-5b2a-44de-ae99-fe90aa0a73c9.jpg?v=1784321668
-    Price: $18.97 USD
-  - [Blueorange gradient3pcs](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136885943)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/bd3cae53-970d-47b9-81a0-79d5e4b17b45.jpg?v=1784321669
-    Price: $44.40 USD
-  - [Green 3PCS](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136918711)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6675a5e8-f0f0-4344-ace5-0c807314a4c9.jpg?v=1784321669
-    Price: $63.24 USD
-  - [Green and Green and Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136951479)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/891cd643-c56d-45bd-8af2-61d2296526eb.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Green and Green and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897136984247)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/4e10e2ab-3fc8-4366-94f8-df14366a0061.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Green and Pink and Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137017015)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/33bff742-85f5-4d18-b69f-d59e7141d56d.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Green and Pink and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137049783)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2ef0c5c2-1fe3-4fb1-9983-31c0afeda430.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Green and White and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137082551)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7320574d-1191-4ddb-9ba7-96b3187e44cd.jpg?v=1784321669
-    Price: $63.24 USD
-  - [Greenpurple gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137115319)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/8b9011ad-7cd4-453c-86a0-f7ff500c0d47.jpg?v=1784321668
-    Price: $30.42 USD
-  - [Grey](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137148087)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/c2a68cc6-3672-42c9-a96b-f16b0813b38f.jpg?v=1784321668
-    Price: $106.37 USD
-  - [PCPurple](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137180855)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/00fcc04f-472f-4b0d-99ef-e96ceab85e61.jpg?v=1784321668
-    Price: $18.76 USD
-  - [PCblue](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137213623)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1f119901-f183-49af-999f-73878f81ea6d.jpg?v=1784321669
-    Price: $18.76 USD
-  - [PCgreen](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137246391)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/063b67d9-e68f-414c-814b-652d0feae78b.jpg?v=1784321668
-    Price: $27.42 USD
-  - [PCpink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137279159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/d8de6499-c538-4418-93b6-1c1b6c4b18fd.jpg?v=1784321669
-    Price: $18.76 USD
-  - [Pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137311927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/dcfc74d8-1a19-4a7c-b8be-288d8ab97464.jpg?v=1784321668
-    Price: $29.04 USD
-  - [Pink and Pink and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137344695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/313d2a2a-c1bd-4ca3-86d4-e672537c8933.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Pink and White and White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137377463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f757e617-9032-464f-acd1-0accec6d4340.jpg?v=1784321668
-    Price: $63.24 USD
-  - [Powder blue gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137410231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b0a742de-13fc-409d-9dbe-43e63b6a82e3.jpg?v=1784321668
-    Price: $18.97 USD
-  - [Purple and blue gradient](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137442999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/f88438b7-8b3d-402c-a2fb-877452ae2364.jpg?v=1784321669
-    Price: $18.97 USD
-  - [Sealing ring](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137475767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/422015f6-75b4-4cfd-bca9-19b39e239e34.jpg?v=1784321669
-    Price: $10.20 USD
-  - [Straw](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137508535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/2ccb6435-3f9c-40f9-a880-781b6638c865.jpg?v=1784321669
-    Price: $9.35 USD
-  - [TRITAN black](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137541303)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/24019165-34a6-4e9f-83e2-12988b47fa8e.jpg?v=1784321668
-    Price: $47.48 USD
-  - [TRITAN blue](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137574071)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/17858925-4f46-4e8c-8966-ce35dec33bb5.jpg?v=1784321668
-    Price: $19.37 USD
-  - [TRITAN green](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137606839)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b739490b-d9e4-46f1-9335-855f8156ea36.jpg?v=1784321669
-    Price: $24.61 USD
-  - [TRITAN pink](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137639607)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e5ef8c13-547c-472e-9a15-b31ccc500592.jpg?v=1784321669
-    Price: $26.10 USD
-  - [TRITANwhite](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137672375)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/811cf9b6-04d4-4f20-bda9-2024d692dc77.jpg?v=1784321669
-    Price: $26.17 USD
-  - [White](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137705143)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/49cc71bf-a6f8-4af7-9e74-701ed175b5ff.jpg?v=1784321668
-    Price: $31.33 USD
-  - [White 3PCS](https://www.ozkahome.com/products/large-capacity-spray-water-bottle?variant=48897137737911)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1e980416-1d53-42c6-99ba-7d71acdadae8.jpg?v=1784321668
-    Price: $63.24 USD
-- [Cat Tree Tower – Multi-Level Climbing Frame | OZKA HOME](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame): Give your cat the perfect climbing space with this multi-level cat tree tower, featuring scratching posts, cozy perches, and a sturdy 13.5 kg build.
-  Updated: 2026-10-19T22:06:46Z
-  Vendor: OZKA HOME
-  Product Type: Cat Trees & Towers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fd505bfc-77c3-4b2f-8246-04e19f8ab1fc.jpg?v=1784459213
-  - [Beige](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame?variant=48902588465335)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fd505bfc-77c3-4b2f-8246-04e19f8ab1fc.jpg?v=1784459213
-    Price: $171.23 USD
-  - [Deep blue](https://www.ozkahome.com/products/cat-tree-tower-climbing-frame?variant=48902588498103)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/31d45e37-9ac8-406d-b740-31e9e0d12004.jpg?v=1784459213
-    Price: $169.96 USD
-- [Round Fluffy Dog & Cat Bed – Non-Slip, Washable | OZKA HOME](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed): Cozy round plush pet bed for dogs & cats up to 25 lbs. Non-slip bottom, machine washable, available in Brown & Grey, sizes S–XL. Shop OZKA HOME.
-  Updated: 2026-10-19T23:06:42Z
-  Vendor: OZKA HOME
-  Product Type: Pet Bed
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/11e69253-7338-4d83-ba24-182a52a7edfd.jpg?v=1784461125
-  - [Brown L](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724255927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Brown xl](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724288695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Grey L](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724321463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Grey XL](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724354231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Brown M](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724386999)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Brown S](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724419767)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/7c77cf59-9997-4a4c-a67d-7b70e13c2205.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Grey M](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724452535)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $76.79 USD
-  - [Grey S](https://www.ozkahome.com/products/round-fluffy-dog-cat-bed?variant=48902724485303)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9b1d5f7a-b5a5-4297-9252-26e780efe88c.jpg?v=1784461125
-    Price: $76.79 USD
-- [Lift Top Coffee Table with Hidden Storage | OZKA HOME](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage): Modern lift-top coffee table with hidden storage & side shelves. Sturdy steel mechanism, easy assembly. Available in Black & Brown. Shop OZKA HOME.
-  Updated: 2026-10-19T23:06:40Z
-  Vendor: OZKA HOME
-  Product Type: Coffee Table
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/85b136d0-2d0c-48a2-8ff9-f98982721485.jpg?v=1784461947
-  - [Black](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage?variant=48902739919031)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/85b136d0-2d0c-48a2-8ff9-f98982721485.jpg?v=1784461947
-    Price: $151.07 USD
-  - [Brown](https://www.ozkahome.com/products/lift-top-coffee-table-with-storage?variant=48902739951799)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/65a55844-8fba-44b9-8e37-267f5cfae923.jpg?v=1784461947
-    Price: $151.07 USD
-- [Ergonomic Gaming & Office Chair – PU Leather | OZKA HOME](https://www.ozkahome.com/products/ergonomic-gaming-office-chair): PU leather ergonomic gaming & office chair with lumbar support, rocking mode & adjustable height. Available in 4 colors. Shop OZKA HOME.
-  Updated: 2026-10-19T23:09:10Z
-  Vendor: OZKA HOME
-  Product Type: Gaming Chair
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/b9530d04-f231-4577-9681-1f1d9b6dd16c.jpg?v=1784462478
-  - [Blue](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770720951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/83a4ed45-1220-4513-9694-183c611151a5.jpg?v=1784462478
-    Price: $150.22 USD
-  - [Gray](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770753719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/6457cdd3-13a8-4b61-957b-76eb680c879f.jpg?v=1784462477
-    Price: $150.22 USD
-  - [Pink](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770786487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/e0b37dfa-c1bb-49fd-b5e6-c5013f3fd096.jpg?v=1784462477
-    Price: $150.22 USD
-  - [Red](https://www.ozkahome.com/products/ergonomic-gaming-office-chair?variant=48902770819255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/935d5e46-b498-42ff-96a4-790aafe63220.jpg?v=1784462478
-    Price: $150.22 USD
-- [Foldable Dog Playpen Fence - Indoor & Outdoor | 1z6nep Ky](https://www.ozkahome.com/products/foldable-dog-playpen-fence): Foldable dog playpen for small to medium dogs up to 44 lbs. Non-toxic plastic, indoor & outdoor use, 4 or 6 panels in Black & White. Shop OZKA HOME.
-  Updated: 2026-10-19T23:09:07Z
-  Vendor: OZKA HOME
-  Product Type: Pet Playpen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/550e82ee-951f-496e-8160-a4f5f01ded0a.jpg?v=1784463189
-  - [Black4Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806274231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/63a6b69d-854c-4b64-9234-a903497e5a0b.jpg?v=1784463189
-    Price: $113.86 USD
-  - [Black6Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806306999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/453f6767-756d-4723-bf53-15875fb8a302.jpg?v=1784463189
-    Price: $113.86 USD
-  - [White4Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806339767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/550e82ee-951f-496e-8160-a4f5f01ded0a.jpg?v=1784463189
-    Price: $113.86 USD
-  - [White6Panel](https://www.ozkahome.com/products/foldable-dog-playpen-fence?variant=48902806372535)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/cc4403a1-64b6-4420-96a3-14f2156f3bd6.jpg?v=1784463190
-    Price: $113.86 USD
-[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc3NzA0NTMyMTUxLCJsYXN0X3ZhbHVlIjoiODY3NzcwNDUzMjE1MSJ9)
+[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc0OTUzMzYzNjM5LCJsYXN0X3ZhbHVlIjoiODY3NDk1MzM2MzYzOSJ9)
 
 ## Collections
 
 - [Kitchen Essentials](https://www.ozkahome.com/collections/kitchen-essentials): Kitchen Essentials-OZKA HOME
-  Updated: 2026-10-19T18:50:10Z
-  Total Products: 154
+  Updated: 2026-10-26T13:43:56Z
+  Total Products: 158
 - [Home Decor](https://www.ozkahome.com/collections/home-decor): Home Decor-OZKA HOME
-  Updated: 2026-10-19T18:49:54Z
-  Total Products: 97
+  Updated: 2026-10-25T11:18:54Z
+  Total Products: 98
 - [Storage & Organization](https://www.ozkahome.com/collections/storage-organization): Storage & Organization-OZKA HOME
-  Updated: 2026-10-19T21:03:20Z
-  Total Products: 66
+  Updated: 2026-10-23T10:35:39Z
+  Total Products: 68
 - [Bathroom Essentials](https://www.ozkahome.com/collections/bathroom-essentials-1): Bathroom Essentials-OZKA HOME
-  Updated: 2026-10-19T18:50:05Z
-  Total Products: 20
+  Updated: 2026-10-25T16:29:11Z
+  Total Products: 33
 - [Outdoor Living](https://www.ozkahome.com/collections/outdoor-living): Outdoor Living-OZKA HOME
-  Updated: 2026-10-19T18:49:41Z
-  Total Products: 21
+  Updated: 2026-10-22T11:09:54Z
+  Total Products: 23
 - [Fitness & Wellness](https://www.ozkahome.com/collections/fitness-wellness): Fitness & Wellness-OZKA HOME
   Updated: 2026-10-19T18:45:28Z
   Total Products: 7
@@ -2635,20 +2395,20 @@
   Updated: 2026-10-19T18:50:01Z
   Total Products: 13
 - [Home Improvement](https://www.ozkahome.com/collections/home-improvement): Home Improvement-OZKA HOME
-  Updated: 2026-10-19T18:49:03Z
-  Total Products: 57
+  Updated: 2026-10-23T18:14:42Z
+  Total Products: 68
 - [New Arrivals](https://www.ozkahome.com/collections/new-arrivals): New Arrivals-OZKA HOME
-  Updated: 2026-10-19T18:50:10Z
-  Total Products: 275
+  Updated: 2026-10-25T11:18:54Z
+  Total Products: 287
 - [Furniture](https://www.ozkahome.com/collections/furniture): Furniture-OZKA HOME
-  Updated: 2026-10-19T18:48:34Z
-  Total Products: 7
+  Updated: 2026-10-20T11:46:24Z
+  Total Products: 8
 - [Automotive Accessories](https://www.ozkahome.com/collections/automotive-accessories): Automotive Accessories-OZKA HOME
-  Updated: 2026-10-19T18:50:04Z
-  Total Products: 16
+  Updated: 2026-10-22T11:09:54Z
+  Total Products: 17
 - [Pet Supplies](https://www.ozkahome.com/collections/pet-supplies): Pet Supplies-OZKA HOME
-  Updated: 2026-10-19T18:49:20Z
-  Total Products: 46
+  Updated: 2026-10-23T23:01:31Z
+  Total Products: 49
 - [Lighting](https://www.ozkahome.com/collections/lighting): Lighting-OZKA HOME
   Updated: 2026-10-19T18:50:07Z
   Total Products: 16
@@ -2656,8 +2416,8 @@
   Updated: 2026-10-19T18:49:54Z
   Total Products: 7
 - [All Products](https://www.ozkahome.com/collections/all-products): All Products-OZKA HOME
-  Updated: 2026-10-19T21:03:20Z
-  Total Products: 652
+  Updated: 2026-10-26T13:43:56Z
+  Total Products: 700
 - [Beauty & Skincare](https://www.ozkahome.com/collections/beauty-skincare): Beauty & Skincare-OZKA HOME
   Updated: 2026-10-19T18:49:58Z
   Total Products: 18
@@ -2674,14 +2434,14 @@
   Updated: 2026-10-19T18:49:32Z
   Total Products: 21
 - [Under $25](https://www.ozkahome.com/collections/under-25): Under $25-OZKA HOME
-  Updated: 2026-10-19T18:50:31Z
-  Total Products: 248
+  Updated: 2026-10-26T10:12:07Z
+  Total Products: 277
 - [Smart Accessories](https://www.ozkahome.com/collections/smart-accessories): Smart Accessories-OZKA HOME
   Updated: 2026-10-19T18:47:21Z
   Total Products: 13
 - [Power Tools & Accessories](https://www.ozkahome.com/collections/power-tools-accessories): Power Tools & Accessories-OZKA HOME
-  Updated: 2026-10-19T18:48:35Z
-  Total Products: 18
+  Updated: 2026-10-20T06:35:00Z
+  Total Products: 19
 - [Bath & Towels](https://www.ozkahome.com/collections/bath-towels): Bath & Towels-OZKA HOME
   Updated: 2026-10-19T18:47:25Z
   Total Products: 6
@@ -2689,11 +2449,11 @@
   Updated: 2026-10-19T18:50:00Z
   Total Products: 21
 - [Baby & Kids Toys](https://www.ozkahome.com/collections/baby-kids-toys): Baby & Kids Toys-OZKA HOME
-  Updated: 2026-10-19T18:49:07Z
-  Total Products: 17
+  Updated: 2026-10-20T10:01:24Z
+  Total Products: 18
 - [Bags & Luggage](https://www.ozkahome.com/collections/bags-luggage): Bags & Luggage-OZKA HOME
-  Updated: 2026-10-19T18:50:09Z
-  Total Products: 32
+  Updated: 2026-10-23T22:41:11Z
+  Total Products: 34
 - [School & Office Supplies](https://www.ozkahome.com/collections/school-office-supplies): School & Office Supplies-OZKA HOME
   Updated: 2026-10-19T18:50:09Z
   Total Products: 9
@@ -2701,23 +2461,26 @@
   Updated: 2026-10-19T18:48:51Z
   Total Products: 2
 - [Halloween](https://www.ozkahome.com/collections/halloween): Halloween-OZKA HOME
-  Updated: 2026-10-19T18:50:16Z
-  Total Products: 24
+  Updated: 2026-10-26T10:12:07Z
+  Total Products: 27
 - [Winter Essentials](https://www.ozkahome.com/collections/winter-essentials): Winter Essentials-OZKA HOME
   Updated: 2026-10-19T18:48:37Z
   Total Products: 4
 - [Kitchen Storage & Organization](https://www.ozkahome.com/collections/kitchen-storage-organization): Kitchen Storage & Organization-OZKA HOME
-  Updated: 2026-10-19T21:03:20Z
-  Total Products: 12
+  Updated: 2026-10-26T13:43:56Z
+  Total Products: 13
 - [Bathroom Storage & Organization](https://www.ozkahome.com/collections/bathroom-storage-organization): Bathroom Storage & Organization-OZKA HOME
-  Updated: 2026-10-19T21:03:20Z
-  Total Products: 5
+  Updated: 2026-10-25T14:26:57Z
+  Total Products: 8
 - [Recommended Products (Wiz Email)](https://www.ozkahome.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-19T21:03:20Z
-  Total Products: 568
-- [Black Friday Deals](https://www.ozkahome.com/collections/black-friday-deals): Shop our Black Friday deals on selected home and everyday essentials.
+  Updated: 2026-10-27T00:06:17Z
+  Total Products: 606
+- [Black Friday Deals – Unmissable Savings on Home Essentials](https://www.ozkahome.com/collections/black-friday-deals): Shop our Black Friday deals on selected home and everyday essentials.
   Updated: 2026-10-19T18:49:18Z
   Total Products: 12
+- [Musical Instruments & Accessories](https://www.ozkahome.com/collections/musical-instruments-accessories): Shop musical instruments and accessories at OZKA HOME. Discover piano benches, keyboard accessories, and practical essentials for your music space.
+  Updated: 2026-10-25T11:29:49Z
+  Total Products: 1
 
 ## Blogs
 
@@ -3151,6 +2914,90 @@
     Updated: 2026-10-19T21:06:13Z
     Author: KAGAN GENC
     Tags: Bathroom Organization, Foldable Storage Cart, Home Organization, Kitchen Organization, Small Space Storage
+  - [Car Wash Hose Nozzle Guide: Adjustable Spray | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/car-wash-hose-nozzle-adjustable-spray-guide): Car Wash Hose Nozzle Guide: Adjustable Spray | OZKA HOME
+    Updated: 2026-10-20T07:36:09Z
+    Author: KAGAN GENC
+    Tags: Car Care, Car Wash Hose Nozzle, Garden Watering, Hose Accessories, Outdoor Living
+  - [Bare Foot Costume Shoes for Halloween | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/bare-foot-costume-shoes-halloween-outfit-ideas): Bare Foot Costume Shoes for Halloween | OZKA HOME
+    Updated: 2026-10-20T08:17:52Z
+    Author: KAGAN GENC
+    Tags: Costume Ideas, Costume Shoes, Halloween, Halloween Accessories, Novelty Footwear
+  - [Santa Sleigh and Reindeer Christmas Decor | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/santa-sleigh-reindeer-christmas-decor-ideas): Santa Sleigh and Reindeer Christmas Decor | OZKA HOME
+    Updated: 2026-10-20T08:34:20Z
+    Author: KAGAN GENC
+    Tags: Christmas Decor, Holiday Decorating, Home Decor, Reindeer Decor, Santa Sleigh
+  - [Plush Stuffed Animals: Gift & Size Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/plush-stuffed-animals-gift-style-size-guide): Plush Stuffed Animals: Gift & Size Guide | OZKA HOME
+    Updated: 2026-10-20T10:08:56Z
+    Author: KAGAN GENC
+    Tags: Animal Gifts, Cow Plush, Dog Plush, Gift Ideas, Plush Stuffed Animals
+  - [Fabric Drawer Dresser: Storage Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/fabric-drawer-dresser-bedroom-storage-guide): Fabric Drawer Dresser: Storage Guide | OZKA HOME
+    Updated: 2026-10-20T12:02:51Z
+    Author: KAGAN GENC
+    Tags: Bedroom Storage, Fabric Drawer Dresser, Furniture, Home Organization, Storage Ideas
+  - [10-Inch Sediment Water Filter Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/10-inch-1-micron-sediment-water-filter-guide): 10-Inch Sediment Water Filter Guide | OZKA HOME
+    Updated: 2026-10-22T13:41:38Z
+    Author: KAGAN GENC
+    Tags: Buying Guide, Filter Replacement, Home Improvement, Sediment Filters, Water Filtration
+  - [Pop-Up Sink Drain Stopper & Filter Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/pop-up-sink-drain-stopper-filter-guide): Pop-Up Sink Drain Stopper & Filter Guide | OZKA HOME
+    Updated: 2026-10-22T20:42:31Z
+    Author: KAGAN GENC
+    Tags: Bathroom Essentials, Bathroom Upgrades, Home Improvement, Product Guide, Sink Drain Stopper
+  - [Bathroom Sink Stopper & Hair Catcher Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/bathroom-sink-stopper-hair-catcher-buying-guide): Bathroom Sink Stopper & Hair Catcher Guide | OZKA HOME
+    Updated: 2026-10-22T20:58:31Z
+    Author: KAGAN GENC
+    Tags: Bathroom Essentials, Bathroom Sink Stopper, Buying Guide, Home Improvement, Sink Hair Catcher
+  - [Fabric Stiffening Spray for Crafts | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/fabric-stiffening-spray-crochet-lace-crafts-guide): Fabric Stiffening Spray for Crafts | OZKA HOME
+    Updated: 2026-10-22T21:18:44Z
+    Author: KAGAN GENC
+    Tags: Craft Supplies, Crochet, Fabric Stiffening Spray, Lace Crafts, Textile Crafts
+  - [Single-Handle Bathroom Sink Faucet | Style & Fit Guide](https://www.ozkahome.com/blogs/ozka-home-blog/single-handle-bathroom-sink-faucet-refresh): Single-Handle Bathroom Sink Faucet | Style & Fit Guide
+    Updated: 2026-10-23T05:55:32Z
+    Author: KAGAN GENC
+    Tags: Bathroom Essentials, Bathroom Refresh, Bathroom Sink Faucet, Faucet Buying Guide, Home Improvement
+  - [Handheld Shower Head: 3 Spray Modes | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/handheld-shower-head-three-spray-modes): Handheld Shower Head: 3 Spray Modes | OZKA HOME
+    Updated: 2026-10-23T10:21:34Z
+    Author: KAGAN GENC
+    Tags: Bathroom Essentials, Bathroom Updates, Buying Guide, Handheld Shower Head, Shower Accessories
+  - [Single-Handle Bathroom Faucet Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/single-handle-bathroom-faucet-vanity-update): Single-Handle Bathroom Faucet Guide | OZKA HOME
+    Updated: 2026-10-23T11:37:42Z
+    Author: KAGAN GENC
+    Tags: Bathroom Essentials, Bathroom Faucets, Buying Guide, Home Improvement, Vanity Updates
+  - [Cayenne Pepper Powder for Everyday Cooking | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/cayenne-pepper-powder-everyday-cooking): Cayenne Pepper Powder for Everyday Cooking | OZKA HOME
+    Updated: 2026-10-23T18:37:42Z
+    Author: KAGAN GENC
+    Tags: Cayenne Pepper, Cooking Tips, Nutricost Pantry, Pantry Essentials, Spices
+  - [Purina Pro Plan Sensitive Skin & Stomach Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/purina-pro-plan-sensitive-skin-stomach-recipe-guide): Purina Pro Plan Sensitive Skin & Stomach Guide | OZKA HOME
+    Updated: 2026-10-23T22:11:54Z
+    Author: KAGAN GENC
+    Tags:  Dog Food, Dog Food Guide, Dry Dog Food, Pet Supplies, Purina Pro Plan
+  - [Wall-Mounted Toilet Brush Set for a Modern Bathroom](https://www.ozkahome.com/blogs/ozka-home-blog/wall-mounted-toilet-brush-set-bathroom-style): Wall-Mounted Toilet Brush Set for a Modern Bathroom
+    Updated: 2026-10-25T11:02:22Z
+    Author: OZKA HOME
+    Tags: Bathroom Accessories, Bathroom Essentials, Bathroom Organization, Small Bathroom Ideas, Wall-Mounted Toilet Brush
+  - [Toilet Brush with Holder for Modern Bathrooms | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/toilet-brush-with-holder-modern-bathroom): Toilet Brush with Holder for Modern Bathrooms | OZKA HOME
+    Updated: 2026-10-25T16:43:48Z
+    Author: KAGAN GENC
+    Tags: Bathroom Cleaning, Bathroom Essentials, Modern Bathroom, Product Guide, Toilet Brush with Holder
+  - [Why Your Morning Smoothie Routine Is Failing You (And How a Portable Blender Finally Fixed Mine)](https://www.ozkahome.com/blogs/ozka-home-blog/why-your-morning-smoothie-routine-is-failing-you-and-how-a-portable-blender-finally-fixed-mine)
+    Updated: 2026-10-26T11:07:45Z
+    Author: EmergeRank
+    Tags: portable USB blender for travel
+  - [Best portable blender — how to choose the right one](https://www.ozkahome.com/blogs/ozka-home-blog/best-portable-blender-how-to-choose): Best portable blender — how to choose the right one
+    Updated: 2026-10-26T06:00:10Z
+    Author: 1z6nep-ky
+  - [Red Enameled Dutch Oven: A Versatile Kitchen Essential for Everyday Cooking](https://www.ozkahome.com/blogs/ozka-home-blog/red-enameled-dutch-oven-everyday-cooking): <p>Discover how a 5-quart red enameled cast iron Dutch oven can help you make cozy one-pot dinners, simmer soups, and serve meals beautifully. Explore the OZKA HOME Dutch oven.</p>
+    Updated: 2026-10-26T11:01:45Z
+    Author: OZKA HOME
+    Tags: cookware, Dutch oven, enameled cast iron, kitchen essentials, one-pot meals
+  - [Electric Web Shooter for Cosplay: Add More Action to Your Costume](https://www.ozkahome.com/blogs/ozka-home-blog/electric-web-shooter-cosplay-costume-accessory): <p>Looking for a standout cosplay accessory? Discover how an electric wrist-mounted web shooter with auto retraction can add an interactive finishing touch to your costume, convention look, or Halloween outfit.</p>
+    Updated: 2026-10-26T11:07:21Z
+    Author: OZKA HOME
+    Tags:  cosplay, cosplay accessories, electric web shooter, Halloween costume accessories, wrist mounted prop
+- [OZKA HOME Blog](https://www.ozkahome.com/blogs/ozka-home-blog-1)
+  - [How to Choose a 15-Piece Knife Block Set for a More Organized Kitchen](https://www.ozkahome.com/blogs/ozka-home-blog-1/choose-15-piece-knife-block-set-kitchen): <p>Upgrade your everyday food prep with a coordinated 15-piece knife block set. Discover practical kitchen organization tips, what to look for in a knife set, and the Kuisine set available at OZKA HOME.</p>
+    Updated: 2026-10-26T13:59:38Z
+    Author: OZKA HOME
+    Tags: 15-piece knife set, kitchen knives, kitchen organization, knife block set, Kuisine
 
 ## Store Pages
 
@@ -3204,15 +3051,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.ozkahome.com/policies/privacy-policy)
-  Updated: 2026-06-26T10:23:27+03:00
+  Updated: 2026-06-26T07:23:27Z
 - [Shipping Policy](https://www.ozkahome.com/policies/shipping-policy)
-  Updated: 2026-07-06T11:46:02+03:00
+  Updated: 2026-07-06T08:46:02Z
 - [Refund Policy](https://www.ozkahome.com/policies/refund-policy)
-  Updated: 2026-07-06T11:50:00+03:00
+  Updated: 2026-07-06T08:50:00Z
 - [Terms of Service](https://www.ozkahome.com/policies/terms-of-service)
-  Updated: 2026-06-28T13:09:37+03:00
+  Updated: 2026-06-28T10:09:37Z
 - [Contact Information](https://www.ozkahome.com/policies/contact-information)
-  Updated: 2026-07-06T11:48:34+03:00
+  Updated: 2026-07-06T08:48:34Z
 
 ## Optional
 
