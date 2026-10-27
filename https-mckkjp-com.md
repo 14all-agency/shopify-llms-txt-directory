@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-10-20T00:00:42.785Z
+- Updated At: 2026-10-27T01:34:50.753Z
 
 ## Products
 
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
 - [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
-  Updated: 2026-10-10T00:14:54Z
+  Updated: 2026-10-26T23:54:02Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -187,35 +187,35 @@
     Updated: 2026-10-13T04:05:06Z
     Author: 勇輝中町
   - [初めてのお香の選び方｜香り・素材・形状の比較と楽しむ際の注意点](https://mckkjp.com/blogs/magazine/incense-guide)
-    Updated: 2026-10-09T02:03:36Z
+    Updated: 2026-10-23T01:28:09Z
     Author: 勇輝中町
   - [雨の日に「香りを聞く」。梅雨の過ごし方](https://mckkjp.com/blogs/magazine/rainy-day-scent)
     Updated: 2026-10-09T02:04:45Z
     Author: 勇輝中町
   - [1日5分で心をリセット。初心者向け「おうち瞑想」の基本と、リラックスを深める香りの効果](https://mckkjp.com/blogs/magazine/meditation)
-    Updated: 2026-10-09T02:04:56Z
+    Updated: 2026-10-23T01:29:22Z
     Author: 勇輝中町
   - [暮らしの中で、少し寄り道を。](https://mckkjp.com/blogs/magazine/life-detours)
-    Updated: 2026-10-09T02:05:20Z
+    Updated: 2026-10-23T01:29:59Z
     Author: 勇輝中町
   - [一日の終わりに心をリセット。睡眠と瞑想を深める、夜のお香習慣](https://mckkjp.com/blogs/magazine/nighttime-reset)
-    Updated: 2026-10-09T02:05:36Z
+    Updated: 2026-10-23T01:30:55Z
     Author: 勇輝中町
   - [お香の使い方・焚き方｜火のつけ方から消し方まで、初心者向け4ステップ](https://mckkjp.com/blogs/magazine/how-to-use): お香の使い方・焚き方｜火のつけ方から消し方まで、初心者向け4ステップ
-    Updated: 2026-10-13T04:05:56Z
+    Updated: 2026-10-23T01:31:26Z
     Author: 勇輝中町
   - [お香の効果とは？リラックス・気分転換の楽しみ方と注意点](https://mckkjp.com/blogs/magazine/refreshing-effect): お香の効果とは？リラックス・気分転換の楽しみ方と注意点
-    Updated: 2026-10-13T04:15:01Z
+    Updated: 2026-10-23T01:32:07Z
     Author: 勇輝中町
   - [海を渡り、淡路島から始まった日本の香り。1400年の歴史と受け継がれるお香文化](https://mckkjp.com/blogs/magazine/incense-culture)
-    Updated: 2026-10-09T02:06:19Z
+    Updated: 2026-10-23T01:32:42Z
     Author: 勇輝中町
   - [いま伸びているコーポレートギフト市場。選ばれるブランドの共通点](https://mckkjp.com/blogs/magazine/corporate-gift)
-    Updated: 2026-10-09T02:06:35Z
+    Updated: 2026-10-23T00:11:52Z
     Author: 勇輝中町
     Tags: コーポレートギフト
   - [香りを贈るという選択。相手に喜ばれるお香ギフトの選び方](https://mckkjp.com/blogs/magazine/香りを贈るという選択-相手に喜ばれるお香ギフトの選び方)
-    Updated: 2026-10-09T02:06:50Z
+    Updated: 2026-10-23T00:14:52Z
     Author: 勇輝中町
   - [香りの正体を知る。お香に使われる天然香木の基礎知識](https://mckkjp.com/blogs/magazine/香りの正体を知る-お香に使われる天然香木の基礎知識)
     Updated: 2026-10-09T02:07:02Z
@@ -230,18 +230,18 @@
     Updated: 2026-10-09T02:07:58Z
     Author: 勇輝中町
   - [デジタルギフトが主流になっても、「モノ」のギフトが選ばれる理由](https://mckkjp.com/blogs/magazine/デジタルギフトが主流になっても-モノ-のギフトが選ばれる理由)
-    Updated: 2026-10-09T02:08:12Z
+    Updated: 2026-10-23T00:14:29Z
     Author: 勇輝中町
   - [気を遣わせない、それでいて記憶に残る。取引先へのお礼ギフト選び](https://mckkjp.com/blogs/magazine/気を遣わせない-それでいて記憶に残る-取引先へのお礼ギフト選び)
-    Updated: 2026-10-09T02:08:44Z
+    Updated: 2026-10-23T00:13:05Z
     Author: 勇輝中町
     Tags: コーポレートギフト
   - [毎年同じにならない。会社として贈るお中元・お歳暮の新定番](https://mckkjp.com/blogs/magazine/毎年同じにならない-会社として贈るお中元-お歳暮の新定番)
-    Updated: 2026-10-09T02:09:19Z
+    Updated: 2026-10-23T00:41:44Z
     Author: 勇輝中町
     Tags: コーポレートギフト
   - [開業祝い・栄転祝いにお香を贈る意味](https://mckkjp.com/blogs/magazine/開業祝い-栄転祝いにお香を贈る意味)
-    Updated: 2026-10-09T02:09:29Z
+    Updated: 2026-10-23T00:42:38Z
     Author: 勇輝中町
     Tags: コーポレートギフト
 
@@ -277,11 +277,11 @@
 ## Policies
 
 - [Privacy Policy](https://mckkjp.com/policies/privacy-policy)
-  Updated: 2025-04-14T18:17:22+09:00
+  Updated: 2025-04-14T09:17:22Z
 - [Refund Policy](https://mckkjp.com/policies/refund-policy)
-  Updated: 2026-03-02T18:50:15+09:00
+  Updated: 2026-03-02T09:50:15Z
 - [Terms of Service](https://mckkjp.com/policies/terms-of-service)
-  Updated: 2025-04-14T18:18:41+09:00
+  Updated: 2025-04-14T09:18:41Z
 
 ## Optional
 
