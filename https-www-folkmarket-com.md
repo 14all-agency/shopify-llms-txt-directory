@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-04-23T07:14:05Z
 - Contact Email: info@folkmarket.com
-- Updated At: 2026-10-20T00:00:43.265Z
+- Updated At: 2026-10-27T00:56:33.903Z
 
 ## Products
 
@@ -1580,25 +1580,28 @@
   Updated: 2026-07-09T16:48:31Z
   Total Products: 0
 - [New Arrivals Crafts](https://www.folkmarket.com/collections/new-arrivals): Latest Crystals Deals, vintage jewelry, handicrafts,
-  Updated: 2026-10-18T11:13:25Z
-  Total Products: 188
+  Updated: 2026-10-23T03:20:18Z
+  Total Products: 189
 - [All Type Jewelry](https://www.folkmarket.com/collections/unique-handmade-jewelry): Shop raw crystal pendants, Afghan Kuchi jewelry, Rose Quartz, Amethyst & gemstone necklaces. Artisan-crafted, wholesale-friendly. Free global shipping available.
   Updated: 2026-10-08T08:37:18Z
   Total Products: 180
 - [Sales Deals on Crystal and Crafts](https://www.folkmarket.com/collections/sales-deals-with-folkmarket): Shop authentic crystals, vintage jewelry, artisan crafts, home decor & more on . Premium quality at special prices. Limited stock available.
-  Updated: 2026-10-18T15:47:28Z
-  Total Products: 95
+  Updated: 2026-10-26T09:25:53Z
+  Total Products: 96
+- [Polished Crystals - Loose Gems](https://www.folkmarket.com/collections/polished-crystals): Explore high-quality loose gemstones online at Folkmarket Crystal Store. Buy loose gemstones for jewelry or collection — emeralds, rubies, sapphires, peridots, tourmalines, amethysts, and more. Trusted worldwide for loose gemstones for  and gemstones and crystals near me.
+  Updated: 2026-08-06T22:27:05Z
+  Total Products: 17
 - [Beads Crystals](https://www.folkmarket.com/collections/crystal-beads): Buy natural crystal beads for jewelry making at Folkmarket. Lapis lazuli strands in 4mm–12mm sizes. Wholesale deals available. Shop now.
   Updated: 2026-07-09T20:07:46Z
   Total Products: 1
 - [Under $500](https://www.folkmarket.com/collections/under-500)
-  Updated: 2026-10-18T11:13:25Z
-  Total Products: 405
+  Updated: 2026-10-26T09:25:46Z
+  Total Products: 402
 - [Under $300USD](https://www.folkmarket.com/collections/deals-under-300-usd)
-  Updated: 2026-10-18T11:13:25Z
-  Total Products: 363
+  Updated: 2026-10-23T03:20:18Z
+  Total Products: 361
 - [Deals $100 USD Crystals | Jewelry | Crafts](https://www.folkmarket.com/collections/folkmarket-craft-sales-under-100-usd): Discover crystals, vintage jewelry, handicrafts, packaging supplies, handbags & home decor under $100. Premium artisan products at affordable prices.
-  Updated: 2026-10-18T11:13:25Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 195
 - [Turquoise Crystals](https://www.folkmarket.com/collections/turquoise-crystals): Shop natural turquoise crystals, loose stones & jewelry at Folkmarket. Ethically sourced, bohemian-luxury pieces for collectors & healers.
   Updated: 2026-08-24T20:10:44Z
@@ -1607,11 +1610,14 @@
   Updated: 2026-10-07T11:37:55Z
   Total Products: 127
 - [Start Up Crafts Materials](https://www.folkmarket.com/collections/deals-for-beginners): Start Up Material for New Businesses
-  Updated: 2026-10-18T11:13:25Z
-  Total Products: 369
+  Updated: 2026-10-26T09:25:46Z
+  Total Products: 367
 - [Afghan Vintage Rings](https://www.folkmarket.com/collections/afghan-kuchi-tribal-rings): Shop Afghan Kuchi vintage rings in single pieces & wholesale sets. Handmade in Peshawar with turquoise, coral & lapis lazuli. Buy now at Folkmarket.
   Updated: 2026-07-09T23:44:08Z
   Total Products: 18
+- [Handmade Handbags, Purses & Wallets](https://www.folkmarket.com/collections/handmade-handbags-purses-wallets): Shop handmade handbags: genuine leather, vintage-style, Kuchi tribal, Sindhi mirror work, totes & custom bags. Handcrafted, shipped from the USA
+  Updated: 2026-10-21T11:27:02Z
+  Total Products: 96
 - [Bracelets](https://www.folkmarket.com/collections/handmade-bracelets): Shop handmade Afghan Kuchi bracelets in tribal, boho & vintage styles. Single pieces & wholesale deals from $25. Secure checkout. Shop Folkmarket.
   Updated: 2026-07-09T20:09:12Z
   Total Products: 26
@@ -1628,8 +1634,8 @@
   Updated: 2026-08-06T21:50:06Z
   Total Products: 2
 - [Resin Crafts and Supplies](https://www.folkmarket.com/collections/resin-crafts-resin-epoxy-craft-kit): Shop handcrafted resin and natural stone home decor at Folkmarket. Polished agate coasters with gold-plated edges. Free shipping available. Shop now.
-  Updated: 2026-10-10T16:54:34Z
-  Total Products: 2
+  Updated: 2026-10-21T11:09:53Z
+  Total Products: 1
 - [Candles](https://www.folkmarket.com/collections/candle-crafts-and-candle-making-kits)
   Updated: 2026-08-12T21:01:25Z
   Total Products: 4
@@ -1639,6 +1645,9 @@
 - [Wholesale Vintage Jewelry](https://www.folkmarket.com/collections/buy-wholesale-vintage-jewelry): .Shop wholesale vintage jewelry, Afghan vintage jewelry, antique & bohemian pieces in bulk. Unique, handcrafted jewelry for resale, boutiques & collectors.
   Updated: 2026-08-06T22:24:56Z
   Total Products: 20
+- [Raw Crystals](https://www.folkmarket.com/collections/raw-crystals-for-craft-making): Natural raw crystals for crafts! Natural healing crystals, unique gemstones & DIY supplies for jewelry, decor, or healing kits. Affordable, high-quality options for crafters & resellers. Shop now!
+  Updated: 2026-08-06T22:27:54Z
+  Total Products: 18
 - [Featured Crafts](https://www.folkmarket.com/collections/featured-crafts): Shop handmade handicrafts: crystals, tribal jewelry, rattan bags & artisan decor. Wholesale deals available. Secure checkout. Order at Folkmarket.
   Updated: 2026-07-09T20:08:47Z
   Total Products: 13
@@ -1670,8 +1679,8 @@
   Updated: 2026-10-06T12:43:10Z
   Total Products: 34
 - [Home & Lifestyle Décor Artisans Made](https://www.folkmarket.com/collections/home-decor-home-accessories-crafts): Shop hand-carved artisan home décor and wellness lighting. Natural crystal lamps, sphere lights & salt room kits from $39. Authentic. Secure checkout.
-  Updated: 2026-09-10T16:52:08Z
-  Total Products: 26
+  Updated: 2026-10-26T09:25:17Z
+  Total Products: 27
 - [Featured Collections](https://www.folkmarket.com/collections/featured-collections): Shop handmade tribal jewelry, natural crystals, boho bags & artisan crafts at Folkmarket. Wholesale deals from $10. Secure checkout. Shop now.
   Updated: 2026-07-09T20:07:55Z
   Total Products: 12
@@ -1688,19 +1697,19 @@
   Updated: 2026-08-06T21:47:23Z
   Total Products: 2
 - [All Printing / Packaging](https://www.folkmarket.com/collections/printing-packaging-): Wholesale printing, packaging &  solutions at Folkmarket. Custom boxes, printed stationery, corporate gift sets, tech items & print-on-demand services.
-  Updated: 2026-10-18T11:13:25Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 27
 - [Packaging](https://www.folkmarket.com/collections/packaging-supplies): Shop wholesale packaging & shipping supplies with custom design options. Premium quality boxes, mailers, and protective materials at competitive prices for your business.
   Updated: 2026-10-18T11:13:25Z
   Total Products: 5
 - [Promotions and Branding](https://www.folkmarket.com/collections/-items): Custom corporate  items with logo branding. Wholesale ordering available for pens, notebooks, t-shirts, caps, and tote bags. Custom design and material options for your business.
-  Updated: 2026-10-04T17:46:22Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 22
 - [Printing](https://www.folkmarket.com/collections/printing): Custom printing services including business cards, flyers, brochures, pharmaceutical packaging, makeup boxes, labels & more. Quality prints at competitive prices.
   Updated: 2026-07-17T15:33:47Z
   Total Products: 3
 - [Gifts](https://www.folkmarket.com/collections/boho-lifestyle-gifts)
-  Updated: 2026-10-04T18:46:26Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 8
 - [Vintage-Style Accessories](https://www.folkmarket.com/collections/vintage-style-accessories): Shop 85 handcrafted vintage accessories at Folkmarket — exotic leather wallets, Italian bags, Afghan tribal jewelry & boho bags. Wholesale deals available.
   Updated: 2026-10-12T11:23:12Z
@@ -1712,10 +1721,10 @@
   Updated: 2026-07-09T23:44:34Z
   Total Products: 3
 - [Kitchen Accessories](https://www.folkmarket.com/collections/kitchen-accessories): Shop kitchen accessories at Folkmarket: bulk Himalayan pink salt, artisan raffia placemats, ceramic mugs & salt bricks. Food grade & handmade. Order now.
-  Updated: 2026-08-05T15:56:27Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 11
 - [Spa & Sauna Collection](https://www.folkmarket.com/collections/spa-sauna-collection): Shop artisan spa & sauna accessories at Folkmarket. Natural wood, stone & linen pieces handcrafted for your wellness ritual. Ethically sourced & beautifully made.
-  Updated: 2026-08-05T16:27:28Z
+  Updated: 2026-10-23T03:20:18Z
   Total Products: 19
 - [Handmade Handicrafts](https://www.folkmarket.com/collections/handicrafts): Shop handmade handicrafts at Folkmarket – exotic leather wallets, Afghan tribal patches, artisan bags & home decor. Free personalization options available.
   Updated: 2026-10-12T13:21:10Z
@@ -1974,15 +1983,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.folkmarket.com/policies/privacy-policy)
-  Updated: 2024-12-21T00:44:32-08:00
+  Updated: 2024-12-21T08:44:32Z
 - [Shipping Policy](https://www.folkmarket.com/policies/shipping-policy)
-  Updated: 2026-10-10T11:09:51-07:00
+  Updated: 2026-10-10T18:09:51Z
 - [Refund Policy](https://www.folkmarket.com/policies/refund-policy)
-  Updated: 2026-10-10T10:57:51-07:00
+  Updated: 2026-10-10T17:57:51Z
 - [Terms of Service](https://www.folkmarket.com/policies/terms-of-service)
-  Updated: 2026-03-05T13:32:15-08:00
+  Updated: 2026-03-05T21:32:15Z
 - [Contact Information](https://www.folkmarket.com/policies/contact-information)
-  Updated: 2026-10-10T11:10:21-07:00
+  Updated: 2026-10-10T18:10:21Z
 
 ## Optional
 
