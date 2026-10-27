@@ -9,7 +9,7 @@
 - Created At: 2025-09-09T10:58:51Z
 - Contact Email: sales@qldecor.com
 - Contact Phone: +48572008079
-- Updated At: 2026-10-20T00:00:46.912Z
+- Updated At: 2026-10-27T01:17:54.500Z
 
 ## Products
 
@@ -948,15 +948,15 @@
 ## Policies
 
 - [Privacy Policy](https://qldecor.shop/policies/privacy-policy)
-  Updated: 2026-06-16T17:40:02+02:00
+  Updated: 2026-06-16T15:40:02Z
 - [Shipping Policy](https://qldecor.shop/policies/shipping-policy)
-  Updated: 2026-06-16T17:37:57+02:00
+  Updated: 2026-06-16T15:37:57Z
 - [Refund Policy](https://qldecor.shop/policies/refund-policy)
-  Updated: 2026-06-16T17:37:58+02:00
+  Updated: 2026-06-16T15:37:58Z
 - [Terms of Service](https://qldecor.shop/policies/terms-of-service)
-  Updated: 2026-06-16T17:37:57+02:00
+  Updated: 2026-06-16T15:37:57Z
 - [Contact Information](https://qldecor.shop/policies/contact-information)
-  Updated: 2025-09-10T14:18:26+02:00
+  Updated: 2025-09-10T12:18:26Z
 
 ## Optional
 
