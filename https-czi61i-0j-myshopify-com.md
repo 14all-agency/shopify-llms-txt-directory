@@ -6,12 +6,12 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-05T05:52:41Z
 - Contact Email: christowelman4@gmail.com
-- Updated At: 2026-10-20T00:00:40.820Z
+- Updated At: 2026-10-27T01:11:21.010Z
 
 ## Products
 
 - [New Car Portable Inflator Pump Mini Bicycle Electric Tire](https://czi61i-0j.myshopify.com/products/new-car-portable-inflator-pump-mini-bicycle-electric-tire-handheld-wireless-charging-super-car-inflator-pump): New Car Portable Inflator Pump Mini Bicycle Electric Tire Color: BlackVoltage and power: DC 7.4V, 70WPressure value: 150 PSICylinder diameter:
-  Updated: 2026-09-06T18:55:51Z
+  Updated: 2026-10-20T01:56:17Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -138,7 +138,7 @@
     Image: https://cdn.shopify.com/s/files/1/0746/0192/2691/files/2911D1E6B54B524C1693BEA1BFD8E181.jpg?v=1786477308
     Price: R 450.00 ZAR
 - [Motorcycle Modified Accessories CNC Modified Handle](https://czi61i-0j.myshopify.com/products/waterproof-motorcycle-tail-bag-multi-functional-durable-rear-motorcycle-seat-bag-high-capacity-rider-backpack-11-mc-0102-latest): Motorcycle Modified Accessories CNC Modified Handle Item Type: Back Seat Bags Model Name :Motorcycle bagItem
-  Updated: 2026-09-06T15:18:21Z
+  Updated: 2026-10-20T01:58:01Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -274,7 +274,7 @@
     Availability: Available
     Price: R 1,499.00 ZAR
 - [Electric Vehicle Cover Waterproof Sun Protection Motorcycle](https://czi61i-0j.myshopify.com/products/polyester-taffeta-oxford-fabric-electric-vehicle-cover-waterproof-sun-protection-motorcycle): Electric Vehicle Cover Waterproof Sun Protection Motorcycle Color: BlackSize: M, L, XL, XXL, 3XL, 4XL
-  Updated: 2026-09-06T15:18:18Z
+  Updated: 2026-10-20T01:58:03Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -374,7 +374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0746/0192/2691/files/F40FBBBA37EF08913465EB35E966F99C.jpg?v=1786477357
     Price: R 500.00 ZAR
 - [Vacuum suction phone holder car mounted.](https://czi61i-0j.myshopify.com/products/vacuum-suction-phone-holder-car-mounted-rotating-magnetic-phone-holder): Vacuum suction phone holder car mounted. Color: Black, White Installation method: suction cup type Material: Alloy Bar
-  Updated: 2026-09-06T15:18:20Z
+  Updated: 2026-10-20T01:58:02Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -422,7 +422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0746/0192/2691/files/9926424FDF0B66386CE5ADE12996782F.png?v=1786477348
     Price: R 400.00 ZAR
 - [Portable Cordless Car Vacuum Cleaner](https://czi61i-0j.myshopify.com/products/portable-cordless-car-vacuum): Portable Cordless Car Vacuum Cleaner with approximately 9000Pa suction, 120W power and up to 40 minutes of battery life.
-  Updated: 2026-09-06T15:18:19Z
+  Updated: 2026-10-20T01:58:02Z
   Vendor: eprolo
   Product Type: 
   Availability: Available
@@ -574,6 +574,15 @@
   - [Explore Top Benefits of Using a Portable Tyre Inflator Pump in South Africa](https://czi61i-0j.myshopify.com/blogs/news/explore-top-benefits-of-using-a-portable-tyre-inflator-pump-in-south-africa): Explore Top Benefits of Using a Portable Tyre Inflator Pump in South Africa
     Updated: 2026-10-19T00:51:18Z
     Author: Velocity
+  - [Enhanced Riding Comfort and Control with Aluminum Alloy Motorcycle Throttle Grip Sets in South Africa](https://czi61i-0j.myshopify.com/blogs/news/enhanced-riding-comfort-and-control-with-aluminum-alloy-motorcycle-throttle-grip-sets-in-south-africa): Enhanced Riding Comfort and Control with Aluminum Alloy Motorcycle Throttle Grip Sets in South Africa
+    Updated: 2026-10-22T00:05:03Z
+    Author: Velocity
+  - [Revolutionizing Road Safety: The Impact of 4K WiFi Dual Dash Cams with Parking Mode in South Africa](https://czi61i-0j.myshopify.com/blogs/news/revolutionizing-road-safety-the-impact-of-4k-wifi-dual-dash-cams-with-parking-mode-in-south-africa): Revolutionizing Road Safety: The Impact of 4K WiFi Dual Dash Cams with Parking Mode in South Africa
+    Updated: 2026-10-25T00:05:46Z
+    Author: Velocity
+  - [How to Effectively Use a Portable Cordless Car Vacuum Cleaner for Immaculate Interiors](https://czi61i-0j.myshopify.com/blogs/news/how-to-effectively-use-a-portable-cordless-car-vacuum-cleaner-for-immaculate-interiors): How to Effectively Use a Portable Cordless Car Vacuum Cleaner for Immaculate Interiors
+    Updated: 2026-10-26T01:07:50Z
+    Author: Velocity
 
 ## Store Pages
 
@@ -583,15 +592,15 @@
 ## Policies
 
 - [Privacy Policy](https://czi61i-0j.myshopify.com/policies/privacy-policy)
-  Updated: 2026-08-05T07:52:45+02:00
+  Updated: 2026-08-05T05:52:45Z
 - [Shipping Policy](https://czi61i-0j.myshopify.com/policies/shipping-policy)
-  Updated: 2026-09-04T14:59:53+02:00
+  Updated: 2026-09-04T12:59:53Z
 - [Refund Policy](https://czi61i-0j.myshopify.com/policies/refund-policy)
-  Updated: 2026-09-04T14:52:33+02:00
+  Updated: 2026-09-04T12:52:33Z
 - [Terms of Service](https://czi61i-0j.myshopify.com/policies/terms-of-service)
-  Updated: 2026-09-04T14:53:09+02:00
+  Updated: 2026-09-04T12:53:09Z
 - [Contact Information](https://czi61i-0j.myshopify.com/policies/contact-information)
-  Updated: 2026-09-04T14:55:42+02:00
+  Updated: 2026-09-04T12:55:42Z
 
 ## Optional
 
