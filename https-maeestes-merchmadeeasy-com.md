@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-04T16:30:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-19T02:12:25.610Z
+- Updated At: 2026-10-27T00:57:36.080Z
 
 ## Products
 
 - [The 90s Called - Signed CD](https://maeestes.merchmadeeasy.com/products/the-90s-called-signed-cd): SIGNED CD OF MAE ESTES' THE 90S CALLED ALBUM The 90s Called She's Not The Cheatin' Kind Moon Over Georgia (ft. Shenandoah) You Can Feel Bad The Fool Do Ya
-  Updated: 2026-10-19T02:04:19Z
+  Updated: 2026-10-25T18:11:50Z
   Vendor: Mae Estes
   Product Type: CD
   Availability: Available
@@ -98,22 +98,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://maeestes.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-26T11:24:19Z
   Total Products: 1
 - [Apparel](https://maeestes.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-22T21:25:20Z
   Total Products: 0
 - [Accessories](https://maeestes.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-22T21:25:20Z
   Total Products: 0
 - [Hats](https://maeestes.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-22T21:25:20Z
   Total Products: 0
 - [Music](https://maeestes.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-26T11:24:19Z
   Total Products: 1
 - [All](https://maeestes.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-15T16:40:54Z
+  Updated: 2026-10-26T11:24:19Z
   Total Products: 1
 
 ## Store Pages
@@ -130,15 +130,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://maeestes.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-09-11T11:48:03-05:00
+  Updated: 2026-09-11T16:48:03Z
 - [Shipping Policy](https://maeestes.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-11T11:47:09-05:00
+  Updated: 2026-09-11T16:47:09Z
 - [Refund Policy](https://maeestes.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-09-11T11:49:39-05:00
+  Updated: 2026-09-11T16:49:39Z
 - [Terms of Service](https://maeestes.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-11T11:47:44-05:00
+  Updated: 2026-09-11T16:47:44Z
 - [Contact Information](https://maeestes.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-09-11T11:48:40-05:00
+  Updated: 2026-09-11T16:48:40Z
 
 ## Optional
 
