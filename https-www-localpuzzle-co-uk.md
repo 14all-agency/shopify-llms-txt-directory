@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-01-21T23:25:32Z
 - Contact Email: info@localpuzzle.co.uk
-- Updated At: 2026-10-21T00:00:40.050Z
+- Updated At: 2026-10-28T00:54:14.819Z
 
 Local Puzzle is a UK-based jigsaw puzzle brand creating distinctive illustrated puzzles celebrating places, landmarks and communities people know and love. Our puzzles are designed to create an emotional connection with familiar places, making them more than a traditional jigsaw puzzle.
 
@@ -65,7 +65,7 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/St-Albans-Clock-Tower-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
 - [St Albans Odyssey Cinema Jigsaw Puzzle | 1000-Piece St Albans Jigsaw Puzzles for Adults | Hertfordshire Puzzles](https://www.localpuzzle.co.uk/products/st-albans-odyssey-cinema-jigsaw-puzzle): Take a nostalgic stroll through St Albans with our "St Albans Odyssey Cinema" Jigsaw Puzzle, capturing the timeless beauty of this iconic local treasure. Nestled within the city’s historic heart, the Odyssey stands as a glowing beacon of vintage charm and community spirit, surrounded by the soft glow of streetlights and the buzz of evening life.
-  Updated: 2026-09-14T16:41:07Z
+  Updated: 2026-10-24T20:39:23Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
@@ -211,50 +211,50 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/Welwyn-Garden-City-Town-Centre-Hertfordshire-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background-2.jpg?v=1788715183
   Price: £34.99 GBP
-- [Battersea Power Station Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-battersea-power-station-jigsaw-puzzle): Our London Battersea Power Station jigsaw puzzle celebrates the character, history and unmistakable presence of this much-loved London landmark. It's a snapshot of a place where the industrial heritage of the capital meets its modern, vibrant spirit — making it a meaningful keepsake for anyone with a connection to London.
-  Updated: 2026-09-14T16:32:47Z
+- [Battersea Power Station Jigsaw Puzzle | London Battersea Power Station Souvenir](https://www.localpuzzle.co.uk/products/london-battersea-power-station-jigsaw-puzzle): Our London Battersea Power Station jigsaw puzzle celebrates the character, history and unmistakable presence of this much-loved London landmark. It's a snapshot of a place where the industrial heritage of the capital meets its modern, vibrant spirit — making it a meaningful keepsake for anyone with a connection to London.
+  Updated: 2026-10-27T01:11:35Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Battersea-Power-Station-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962354
   Price: £34.99 GBP
-- [Camden Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-camden-market-jigsaw-puzzle): Bring the unmistakable energy of Camden home, piece by piece. Step into the heart of one of London's most vibrant and recognisable destinations. Our London Camden Market jigsaw puzzle captures the character of this much-loved part of the capital, from its distinctive architecture and iconic market entrance to the colourful people and everyday moments that give Camden its unmistakable energy.
-  Updated: 2026-09-14T16:33:57Z
+- [Camden Market Jigsaw Puzzle | London Camden Market Souvenir](https://www.localpuzzle.co.uk/products/london-camden-market-jigsaw-puzzle): Bring the unmistakable energy of Camden Market home, piece by piece. Step into the heart of one of London's most vibrant and recognisable destinations. Our London Camden Market jigsaw puzzle captures the character of this much-loved part of the capital, from its distinctive architecture and iconic market entrance to the colourful people and everyday moments that give Camden its unmistakable energy.
+  Updated: 2026-10-26T00:51:22Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Camden-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962353
   Price: £34.99 GBP
-- [Millennium Bridge Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-millennium-bridge-jigsaw-puzzle): Bring one of London's most memorable views home, piece by piece. Walk across the Thames with our London Millennium Bridge jigsaw puzzle, capturing the iconic pedestrian bridge stretching towards the magnificent dome of St Paul’s Cathedral.
-  Updated: 2026-09-14T16:34:31Z
+- [London Millennium Bridge Jigsaw Puzzle | Millennium Bridge Souvenir](https://www.localpuzzle.co.uk/products/london-millennium-bridge-jigsaw-puzzle): Bring one of London's most memorable views home, piece by piece. Walk across the Thames with our London Millennium Bridge jigsaw puzzle, capturing the iconic pedestrian bridge stretching towards the magnificent dome of St Paul’s Cathedral.
+  Updated: 2026-10-26T00:49:52Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Millennium-Bridge-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1787962858
   Price: £34.99 GBP
-- [Natural History Museum Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-natural-history-museum-jigsaw-puzzle): Bring one of London’s most iconic landmarks to life, piece by piece. From its magnificent terracotta architecture to the prehistoric wonder waiting inside, the Natural History Museum is a place filled with memories, discovery and childhood nostalgia.
-  Updated: 2026-09-14T16:31:49Z
+- [London Natural History Museum Jigsaw Puzzle | Natural History Museum Souvenir](https://www.localpuzzle.co.uk/products/london-natural-history-museum-jigsaw-puzzle): Bring one of London’s most iconic landmarks to life, piece by piece. From its magnificent terracotta architecture to the prehistoric wonder waiting inside, the Natural History Museum is a place filled with memories, discovery and childhood nostalgia.
+  Updated: 2026-10-26T00:47:35Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Natural-History-Museum-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle1-Wooden-Background.jpg?v=1788396774
   Price: £34.99 GBP
-- [London Borough Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-borough-market-jigsaw-puzzle): Bring one of London’s most vibrant meeting places to life, piece by piece. There’s something wonderfully familiar about Borough Market. The bustle of people browsing food stalls, the smell of something delicious cooking, the historic market roof overhead and the Shard rising dramatically into the London skyline all come together to create a scene that feels unmistakably London.
-  Updated: 2026-10-04T23:07:01Z
+- [Borough Market Jigsaw Puzzle | London Borough Market Souvenir](https://www.localpuzzle.co.uk/products/london-borough-market-jigsaw-puzzle): Bring one of London’s most vibrant meeting places to life, piece by piece. There’s something wonderfully familiar about Borough Market. The bustle of people browsing food stalls, the smell of something delicious cooking, the historic market roof overhead and the Shard rising dramatically into the London skyline all come together to create a scene that feels unmistakably London.
+  Updated: 2026-10-26T00:42:09Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Borough-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1790297187
   Price: £34.99 GBP
-- [London Leadenhall Market Jigsaw Puzzle | 1000-Piece London Jigsaw Puzzles for Adults | London Gifts & Souvenirs](https://www.localpuzzle.co.uk/products/london-leadenhall-market-jigsaw-puzzle): Bring our London Leadenhall market jigsaw puzzle to life, piece by piece. Beneath its spectacular glass roof, ornate details, colourful shopfronts and bustling walkways create a setting that feels unmistakably London....
-  Updated: 2026-10-04T23:12:57Z
+- [Leadenhall Market Jigsaw Puzzle | London Leadenhall Market Souvenir](https://www.localpuzzle.co.uk/products/london-leadenhall-market-jigsaw-puzzle): Bring our London Leadenhall market jigsaw puzzle to life, piece by piece. Beneath its spectacular glass roof, ornate details, colourful shopfronts and bustling walkways create a setting that feels unmistakably London....
+  Updated: 2026-10-26T00:43:44Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0807/2111/7522/files/London-Leadenhall-Market-Jigsaw-Puzzle-Product-Mockup-With-Box-Angle-Wooden-Background.jpg?v=1790988320
   Price: £34.99 GBP
-- [Covent Garden Piazza Jigsaw Puzzle | Covent Garden Market Puzzle](https://www.localpuzzle.co.uk/products/london-covent-garden-piazza-jigsaw-puzzle): Bring one of London’s most beautiful historic areas to life, piece by piece. Step into the lively heart of London with our London Covent Garden Piazza Jigsaw Puzzle, a beautifully illustrated celebration of one of the capital’s most iconic and treasured destinations.
-  Updated: 2026-10-20T05:05:34Z
+- [Covent Garden Piazza Jigsaw Puzzle | London Covent Garden Market Souvenir](https://www.localpuzzle.co.uk/products/london-covent-garden-piazza-jigsaw-puzzle): Bring one of London’s most beautiful historic areas to life, piece by piece. Step into the lively heart of London with our London Covent Garden Piazza Jigsaw Puzzle, a beautifully illustrated celebration of one of the capital’s most iconic and treasured destinations.
+  Updated: 2026-10-26T00:45:00Z
   Vendor: Local Puzzle
   Product Type: Jigsaw Puzzle
   Availability: Available
@@ -264,43 +264,43 @@ The brand's core idea is simple: reconnect people with the places they love, pie
 ## Collections
 
 - [Best Sellers](https://www.localpuzzle.co.uk/collections/best-sellers)
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 9
 - [Local Puzzles](https://www.localpuzzle.co.uk/collections/local-jigsaw-puzzles): Explore the Local Puzzle collection – a charming range of jigsaw puzzles celebrating beloved towns, landmarks, and hidden gems across the UK. Perfect for adults who cherish nostalgia, local pride, and thoughtful gifting.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 34
 - [Hertfordshire Puzzles](https://www.localpuzzle.co.uk/collections/hertfordshire-jigsaw-puzzles): Discover and explore our Hertfordshire jigsaw puzzle collection, featuring beautifully illustrated scenes from Hitchin, St Albans, Letchworth, and more. Celebrate local landmarks and British charm with every piece.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Hitchin Puzzles](https://www.localpuzzle.co.uk/collections/hitchin-jigsaw-puzzles): Explore our Hitchin jigsaw puzzle collection, capturing the charm of this historic Hertfordshire town. Featuring St Mary’s Church, the River Hiz, Town Hall, and more—perfect for locals and puzzle lovers alike.
   Updated: 2026-10-20T11:17:15Z
   Total Products: 3
 - [St Albans Puzzles](https://www.localpuzzle.co.uk/collections/st-albans-jigsaw-puzzles): Discover our St Albans Jigsaw Puzzles collection, featuring beautifully illustrated scenes of historic landmarks, charming streets, and local icons. Perfect for adults who love local heritage and mindful puzzling.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Letchworth Puzzles](https://www.localpuzzle.co.uk/collections/letchworth-jigsaw-puzzles): Discover our charming Letchworth Jigsaw Puzzles collection, celebrating the world’s first garden city. Featuring iconic landmarks like Broadway Cinema, these beautifully illustrated puzzles capture the heart and heritage of Letchworth for puzzle lovers and local pride alike.
   Updated: 2026-09-13T00:17:24Z
   Total Products: 2
 - [Local Hertfordshire Gifts](https://www.localpuzzle.co.uk/collections/local-hertfordshire-gifts): Our local jigsaw puzzle collection make the perfect Hertfordshire gifts for any occasion — they spark memories, connection, and pride in the places we call home.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Bedfordshire Puzzles](https://www.localpuzzle.co.uk/collections/bedfordshire-jigsaw-puzzles): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-13T00:12:40Z
   Total Products: 6
-- [London Puzzles](https://www.localpuzzle.co.uk/collections/london-jigsaw-puzzles): Explore our 1000-piece London jigsaw puzzles through beautifully illustrated scenes inspired by iconic locations & landmarks such as Battersea Power Station, Camden Market, Natural History Museum and more...
-  Updated: 2026-10-19T17:08:59Z
+- [London Puzzles](https://www.localpuzzle.co.uk/collections/london-jigsaw-puzzles): Experience our London jigsaw puzzles through beautifully illustrated scenes inspired by iconic locations & landmarks such as Battersea Power Station, Borough Market, Natural History Museum and more...
+  Updated: 2026-10-27T01:19:26Z
   Total Products: 7
 - [London Gifts](https://www.localpuzzle.co.uk/collections/unique-london-gifts): Looking for a London gift that feels more personal than a typical souvenir? Discover our collection of beautifully illustrated London jigsaw puzzles, each inspired by the iconic landmarks, streets and places that make the capital so memorable. From Battersea Power Station and Camden Market to the Millennium Bridge and beyond, every design captures a different side of London and the memories connected to it.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [London souvenirs](https://www.localpuzzle.co.uk/collections/unique-london-souvenirs): Take home more than a traditional keepsake with our collection of unique London souvenirs, celebrating the places, landmarks and moments that make the capital unforgettable. Each beautifully illustrated design captures a distinctive London scene, creating a lasting reminder of a favourite visit, a beloved neighbourhood or a city full of memories.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Town Centre Puzzles](https://www.localpuzzle.co.uk/collections/town-centre-jigsaw-puzzles): Step into the charm of Britain's town centres with our collection of whimsical town centre puzzles, bringing familiar streets, historic buildings, independent shops and everyday moments to life in a playful illustrated style. Each scene is filled with character and little details to discover, capturing the warmth and personality that makes every town feel unique.
   Updated: 2026-10-20T11:17:15Z
   Total Products: 19
 - [St Albans Housewarming Gifts](https://www.localpuzzle.co.uk/collections/housewarming-gifts-st-albans): Celebrate a new St Albans home with a 1000-piece illustrated jigsaw featuring familiar local landmarks. A thoughtful housewarming gift for friends, family or new neighbours that brings a piece of St Albans into their home.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Hitchin Housewarming Gifts](https://www.localpuzzle.co.uk/collections/hitchin-housewarming-gifts): Celebrate a new Hitchin home with a 1000-piece illustrated local jigsaw. Thoughtful Hitchin housewarming gifts featuring familiar places including St Mary’s Church, Hitchin Town Hall and the town centre.
   Updated: 2026-10-20T11:17:15Z
@@ -309,28 +309,28 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-05T23:22:38Z
   Total Products: 2
 - [London Housewarming Gifts](https://www.localpuzzle.co.uk/collections/london-housewarming-gifts): Discover 1000-piece illustrated London jigsaws celebrating iconic landmarks and neighbourhoods. These London housewarming gifts bring familiar places such as Battersea Power Station, Camden Market and Borough Market into a new home.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [London Leaving Gifts](https://www.localpuzzle.co.uk/collections/london-leaving-gifts): Give them something to remember London by with a 1000-piece illustrated jigsaw featuring iconic landmarks and familiar city scenes. Thoughtful London leaving gifts for anyone moving away, starting a new chapter or saying farewell.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Battersea Power Station Gifts](https://www.localpuzzle.co.uk/collections/battersea-power-station-gifts-art): Celebrate one of London’s most recognisable landmarks with 1000-piece illustrated jigsaws featuring Battersea Power Station. Thoughtful Battersea Power Station gifts for London lovers, architecture enthusiasts and anyone with a connection to this iconic riverside landmark.
   Updated: 2026-10-03T17:04:32Z
   Total Products: 1
 - [London Landmark Gifts](https://www.localpuzzle.co.uk/collections/london-landmark-gifts-art): Discover 1000-piece illustrated London jigsaws featuring iconic landmarks and architecture. These London landmark gifts bring familiar city scenes into your home as a relaxing activity and distinctive piece of wall art.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Hertfordshire Housewarming Gifts](https://www.localpuzzle.co.uk/collections/hertfordshire-housewarming-gifts): Discover 1000-piece illustrated Hertfordshire jigsaws celebrating familiar towns and places. Thoughtful housewarming gifts for new homeowners, friends, family or neighbours, bringing a little piece of Hertfordshire into their new home.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Hertfordshire Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-hertfordshire): Celebrate your first wedding anniversary with a paper anniversary gift featuring a Hertfordshire place that means something to you — where you met, married, bought your first home or began your story together
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [London Paper Wedding Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-london): Celebrate your first wedding anniversary with a paper anniversary gift featuring a London place that means something to you — where you met, married, lived together or began your life as a couple.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [St Albans Paper Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-st-albans): Celebrate your first wedding anniversary with a paper anniversary gift featuring St Albans — a familiar place connected to where you met, married, lived together or began your life as a couple.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Hitchin Paper 1st Wedding Anniversary Gifts](https://www.localpuzzle.co.uk/collections/paper-wedding-anniversary-gifts-hitchin): Celebrate your first wedding anniversary with a paper anniversary gift featuring Hitchin — a familiar place connected to where you met, married, lived together or began your life as a couple.
   Updated: 2026-10-20T11:17:15Z
@@ -345,16 +345,16 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-07T23:10:26Z
   Total Products: 6
 - [Hertfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-hertfordshire): Celebrate a career spent in Hertfordshire with a retirement gift featuring familiar towns and landmarks. These illustrated 1000-piece jigsaws make thoughtful retirement gift ideas for colleagues, bosses, friends and family with memories tied to the county.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Bedfordshire Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-07T23:51:49Z
   Total Products: 6
 - [London Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-london): Celebrate a career spent in London with a retirement gift featuring iconic landmarks and familiar city scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [St Albans Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-st-albans): Celebrate a career spent in St Albans with a retirement gift featuring familiar landmarks and town-centre scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Letchworth Retirement Gifts](https://www.localpuzzle.co.uk/collections/unique-retirement-gifts-letchworth): Celebrate a career spent in Letchworth with a retirement gift featuring familiar landmarks and town-centre scenes. These illustrated 1000-piece jigsaws offer thoughtful retirement gift ideas for colleagues, bosses, friends and family.
   Updated: 2026-09-08T00:00:05Z
@@ -363,10 +363,10 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-10-20T11:17:15Z
   Total Products: 3
 - [St Albans Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-st-albans): Discover St Albans Christmas gifts featuring familiar landmarks, streets and town-centre scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for residents, loved ones who have moved away and anyone with memories of St Albans.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Hertfordshire Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-hertfordshire): Discover Hertfordshire Christmas gifts featuring familiar towns, landmarks and everyday scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for residents, loved ones who have moved away and anyone with cherished memories of the county.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Bedfordshire Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-08T20:15:59Z
@@ -375,16 +375,16 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-08T20:17:32Z
   Total Products: 2
 - [London Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-london): Discover London Christmas gifts featuring iconic landmarks, streets and familiar city scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for Londoners, loved ones who have moved away and anyone with cherished memories of the capital.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Hitchin Christmas Gifts](https://www.localpuzzle.co.uk/collections/unique-christmas-gifts-hitchin): Discover Hitchin Christmas gifts featuring familiar streets, landmarks and town-centre scenes. These illustrated 1000-piece jigsaws make thoughtful Christmas presents for residents, loved ones who have moved away and anyone with cherished memories of Hitchin.
   Updated: 2026-10-20T11:17:15Z
   Total Products: 3
 - [Hertfordshire Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-hertfordshire): Celebrate a 50th, 60th or 70th birthday with Hertfordshire milestone birthday gifts featuring familiar towns, streets and landmarks. These illustrated 1000-piece jigsaws turn decades of memories into a deeply personal keepsake.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [St Albans Birthday gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-st-albans): Discover St Albans birthday gifts featuring familiar landmarks, streets and town-centre scenes. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners with cherished memories of St Albans.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Letchworth Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-letchworth): Discover Letchworth birthday gifts featuring familiar streets, landmarks and Garden City scenes. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners with cherished memories of Letchworth Garden City.
   Updated: 2026-09-08T23:23:36Z
@@ -393,19 +393,19 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-10-20T11:17:15Z
   Total Products: 3
 - [London Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-london): Discover London birthday gifts featuring iconic landmarks, streets and familiar city scenes. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners with a special connection to the capital.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Bedfordshire Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-08T23:28:48Z
   Total Products: 6
 - [Hertfordshire Birthday Gifts](https://www.localpuzzle.co.uk/collections/unique-birthday-gifts-hertfordshire): Discover Hertfordshire birthday gifts featuring familiar towns, landmarks and streets. These illustrated 1000-piece jigsaws make thoughtful birthday presents for family, friends and partners who have a special connection to Hertfordshire.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Bedfordshire Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-09T23:38:08Z
   Total Products: 6
 - [London Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-london): Discover thoughtful London milestone birthday gifts for 50th, 60th and 70th celebrations. These illustrated 1000-piece jigsaws turn iconic London landmarks into nostalgic keepsakes for parents, grandparents and loved ones.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Hitchin Milestone Birthday Gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-hitchin): Discover thoughtful Hitchin milestone birthday gifts for 50th, 60th and 70th celebrations. These illustrated 1000-piece jigsaws turn familiar Hitchin streets and landmarks into nostalgic keepsakes for parents, grandparents and loved ones.
   Updated: 2026-10-20T11:17:15Z
@@ -414,16 +414,16 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-09T23:33:59Z
   Total Products: 2
 - [St Albans Milestone Birthday gifts](https://www.localpuzzle.co.uk/collections/sentimental-milestone-birthday-gifts-st-albans): Discover thoughtful St Albans milestone birthday gifts for 50th, 60th and 70th celebrations. These illustrated 1000-piece jigsaws turn familiar St Albans landmarks into nostalgic keepsakes for parents, grandparents and loved ones.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 - [Hertfordshire Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-hertfordshire): Discover thoughtful Hertfordshire gifts for grandparents, featuring familiar towns, landmarks and streets. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the places they have known and loved for years.
-  Updated: 2026-10-20T11:17:15Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 21
 - [Bedfordshire Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-bedfordshire): Discover our Bedfordshire towns jigsaw puzzle collection, featuring beautifully illustrated scenes from Bedford, Luton, Leighton Buzzard, and more. Celebrate local landmarks and British charm with every piece.
   Updated: 2026-09-10T00:14:47Z
   Total Products: 6
 - [London Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-london): Discover thoughtful London gifts for grandparents, featuring iconic landmarks and familiar city scenes. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the places, memories and moments that have made London special over the years.
-  Updated: 2026-10-19T17:08:59Z
+  Updated: 2026-10-26T00:42:09Z
   Total Products: 7
 - [Hitchin Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-hitchin): Discover thoughtful Hitchin gifts for grandparents, featuring familiar streets, landmarks and town-centre scenes. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the Hitchin places they have known, visited and loved over the years.
   Updated: 2026-10-20T11:17:15Z
@@ -432,29 +432,29 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2026-09-10T00:22:31Z
   Total Products: 2
 - [St Albans Gifts for Grandparents](https://www.localpuzzle.co.uk/collections/sentimental-gifts-for-grandparents-st-albans): Discover thoughtful St Albans gifts for grandparents, featuring familiar landmarks, streets and town-centre scenes. These illustrated 1000-piece jigsaws make sentimental gifts for grandma and granddad, celebrating the places they have known, visited and loved over the years.
-  Updated: 2026-09-29T11:19:38Z
+  Updated: 2026-10-25T11:14:27Z
   Total Products: 4
 
 ## Blogs
 
 - [Puzzlers Post](https://www.localpuzzle.co.uk/blogs/puzzlers-post)
   - [The History of Jigsaw Puzzles: From Pastime to Phenomenon](https://www.localpuzzle.co.uk/blogs/puzzlers-post/history-of-jigsaw-puzzles): <p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Jigsaw puzzles, they're a classic pastime enjoyed by people of all ages around the world. From rainy afternoons spent piecing together landscapes to...</span></p>
-    Updated: 2025-10-30T17:45:51Z
+    Updated: 2026-10-22T16:36:37Z
     Author: Samiul Islam
-  - [The Benefits of Jigsaw Puzzles: Mind, Body, and Family](https://www.localpuzzle.co.uk/blogs/puzzlers-post/benefits-of-jigsaw-puzzles): <p><meta charset="utf-8">In a world filled with screens and constant distractions, the benefits of jigsaw puzzles stand out...<br></p>
-    Updated: 2025-06-09T17:57:33Z
+  - [The Benefits of Jigsaw Puzzles: Mind, Body, and Family](https://www.localpuzzle.co.uk/blogs/puzzlers-post/benefits-of-jigsaw-puzzles): <p><meta charset="utf-8"><meta charset="utf-8">In a world filled with screens and constant distractions, the benefits of jigsaw puzzles stand out as a timeless form of entertainment and relaxation....<br></p>
+    Updated: 2026-10-22T16:32:58Z
     Author: Samiul Islam
   - [Jigsaw Puzzles: Educational Benefits for Children](https://www.localpuzzle.co.uk/blogs/puzzlers-post/jigsaw-puzzles-educational-benefits-for-children): <meta charset="utf-8"><span data-mce-fragment="1">In today's fast-paced digital age, where screens dominate our daily lives, traditional toys and activities like jigsaw puzzles...</span>
-    Updated: 2025-06-09T17:49:17Z
+    Updated: 2026-10-22T16:34:27Z
     Author: Samiul Islam
   - [How to Complete a Jigsaw Puzzle – Tips and Tricks for Adults](https://www.localpuzzle.co.uk/blogs/puzzlers-post/how-to-complete-a-jigsaw-puzzle)
-    Updated: 2026-10-04T23:22:59Z
+    Updated: 2026-10-22T16:39:20Z
     Author: Samiul Islam
   - [Hertfordshire Gifts Ideas with Heart: Local Gifts With Meaning](https://www.localpuzzle.co.uk/blogs/puzzlers-post/hertfordshire-gift-ideas)
-    Updated: 2026-10-04T23:19:34Z
+    Updated: 2026-10-22T16:37:39Z
     Author: Samiul Islam
   - [How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard](https://www.localpuzzle.co.uk/blogs/puzzlers-post/how-to-start-jigsaw-puzzles): How to Start Jigsaw Puzzles for Adults | Starting Puzzles is Easy, Completing Them is Hard
-    Updated: 2026-10-07T16:55:58Z
+    Updated: 2026-10-22T16:40:34Z
     Author: Samiul Islam
   - [Screen-Free Activities for Londoners: Explore London, Piece by Piece](https://www.localpuzzle.co.uk/blogs/puzzlers-post/screen-free-activities-for-londoners-explore-london-piece-by-piece): <p>You know that feeling when you've finally finished work, got home, made a cup of tea… and somehow ended up scrolling for an hour?</p>
 <p>London keeps us busy. The commute, the messages, the emails, the endless stream of things competing for our attention. Even when we're relaxing, our phones are never far away.</p>
@@ -468,27 +468,27 @@ The brand's core idea is simple: reconnect people with the places they love, pie
   Updated: 2024-01-21T23:25:33Z
 - [About Us](https://www.localpuzzle.co.uk/pages/about-us)
   Updated: 2024-01-29T20:22:42Z
-- [Privacy Policy](https://www.localpuzzle.co.uk/pages/privacy-policy)
-  Updated: 2024-03-02T23:57:03Z
-- [Cookie Policy](https://www.localpuzzle.co.uk/pages/cookie-policy)
-  Updated: 2024-03-03T00:00:04Z
+- [Privacy Policy](https://www.localpuzzle.co.uk/pages/privacy-policy): Privacy Policy(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https...
+  Updated: 2026-10-21T17:16:06Z
 - [Competition](https://www.localpuzzle.co.uk/pages/competition)
   Updated: 2025-07-08T17:45:00Z
 - [Your Ideas](https://www.localpuzzle.co.uk/pages/your-ideas)
   Updated: 2025-07-23T18:01:54Z
+- [Cookie Policy](https://www.localpuzzle.co.uk/pages/cookie-policy): Cookie Policy(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https:...
+  Updated: 2026-10-21T17:27:39Z
 
 ## Policies
 
 - [Privacy Policy](https://www.localpuzzle.co.uk/policies/privacy-policy)
-  Updated: 2025-05-21T00:43:05+01:00
+  Updated: 2025-05-20T23:43:05Z
 - [Shipping Policy](https://www.localpuzzle.co.uk/policies/shipping-policy)
-  Updated: 2025-05-21T00:53:59+01:00
+  Updated: 2025-05-20T23:53:59Z
 - [Refund Policy](https://www.localpuzzle.co.uk/policies/refund-policy)
-  Updated: 2025-05-21T00:42:51+01:00
+  Updated: 2025-05-20T23:42:51Z
 - [Terms of Service](https://www.localpuzzle.co.uk/policies/terms-of-service)
-  Updated: 2025-05-21T00:45:58+01:00
+  Updated: 2025-05-20T23:45:58Z
 - [Contact Information](https://www.localpuzzle.co.uk/policies/contact-information)
-  Updated: 2025-05-21T00:46:32+01:00
+  Updated: 2025-05-20T23:46:32Z
 
 ## Social Media
 - https://www.facebook.com/localpuzzleuk
