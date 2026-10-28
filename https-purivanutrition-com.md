@@ -6,70 +6,70 @@
 - Timezone: America/New_York
 - Created At: 2023-07-14T17:08:41Z
 - Contact Email: sales@puriva.com
-- Updated At: 2026-10-21T00:00:27.395Z
+- Updated At: 2026-10-28T00:38:38.627Z
 
 You are assisting James Duffy, founder of Puriva Nutrition. He values clear thinking, structured reasoning, and polished communication. Provide responses that are accurate, concise, and strategically useful. When offering creative ideas, keep them grounded in practicality and aligned with a premium, trustworthy brand voice. Avoid generic filler and always aim for clarity, elegance, and forward momentum.
 
 ## Products
 
 - [Stevia Reb M powder, 30 grams | 1,000 servings](https://purivanutrition.com/products/stevia-reb-m-powder-30-grams-1000-servings): Stevia Reb M powder, (Reb-M | Rebaudioside M), 30 grams | 1,000 servings, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size30 grams1,000+ servings per 30 grams (25 milligrams per serving)Sealed in economical, no-frills jarMicro-spoon included (1/32 teaspoon) Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-17T23:45:50Z
+  Updated: 2026-10-27T19:00:48Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/3_1.png?v=1786811939
   Price: $49.99 USD
 - [Stevia Reb M powder, 60 grams | 2,000 servings](https://purivanutrition.com/products/stevia-reb-m-powder-60-grams-2000-servings): Stevia Reb M powder, (Reb-M | Rebaudioside M), 60 grams | 2,000 servings, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size2 ounces (60 grams)2,000+ servings per 60 grams (25 milligrams per serving)Sealed in an economical, no-frills container or bagMicro-spoon included (1/32 teaspoon) Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-17T23:45:48Z
+  Updated: 2026-10-27T18:38:25Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/6.png?v=1786811939
   Price: $79.99 USD
 - [Stevia Reb M powder, 1 pound | 454 grams](https://purivanutrition.com/products/stevia-reb-m-powder-1-pound-454-grams): Stevia Reb M powder, (Reb-M | Rebaudioside M), 1 pound | 454 grams, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package sizeOne pound (454 grams)Sealed in an economical, no-frills container or bag Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-19T14:52:05Z
+  Updated: 2026-10-24T23:13:35Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Rebaudioside_M_-_1_pound_-_Puriva_Nutrition_FRONT.png?v=1785711726
   Price: $369.99 USD
 - [Stevia Reb M powder, 100 grams | 3,300 servings](https://purivanutrition.com/products/stevia-reb-m-powder-100-grams-3300-servings): Stevia Reb M powder, (Reb-M | Rebaudioside M), 100 grams | 3,300 servings, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size3,300+ servings per 100 grams (25 milligrams per serving)Sealed in an economical, no-frills container or bagMicro-spoon included (1/32 teaspoon) Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-19T19:10:08Z
+  Updated: 2026-10-26T22:27:46Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Rebaudioside_M_-_100_grams_-_Puriva_Nutrition_FRONT_with_SPOON_4ba54803-66d9-45aa-b742-44a65a2c92b8.png?v=1782923752
   Price: $104.99 USD
 - [Stevia Reb M powder, 1 kilogram | 2.2 pounds](https://purivanutrition.com/products/stevia-reb-m-powder-1-kilogram): Stevia Reb M powder, (Reb-M | Rebaudioside M), 1 Kilogram | 2.2 Pounds, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size1 kilogram (1,000 grams / 2.2 lbs)Sealed in an economical, no-frills container or bag Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers. - Standard bulk pack size: 20 kg - Custom repacking available for any quantity - No minimum order requirement - Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-19T19:43:46Z
+  Updated: 2026-10-24T23:13:35Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Rebaudioside_M_-_1_Kilogram_-_Puriva_Nutrition_FRONT_47213712-97ad-482d-b626-13d4e39e64c3.png?v=1782923676
   Price: $479.99 USD
 - [Stevia Reb M powder, 5 kilograms | 11 pounds](https://purivanutrition.com/products/stevia-reb-m-powder-5-kilograms): Stevia Reb M powder, (Reb-M | Rebaudioside M), 5 Kilograms | 11 Pounds, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size5 kilograms (5,000 grams / 11 lbs)Sealed in an economical, no-frills container or bag Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers. - Standard bulk pack size: 20 kg - Custom repacking available for any quantity - No minimum order requirement - Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-17T23:45:51Z
+  Updated: 2026-10-24T23:13:35Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Rebaudioside_M_-_5_Kilograms_-_Puriva_Nutrition_FRONT_5d74c40a-2d2a-4c23-b29c-36c8f61e4e4e.png?v=1782923558
   Price: $1,999.99 USD
 - [Stevia Reb M powder, 10 kilograms | 22 pounds](https://purivanutrition.com/products/stevia-reb-m-powder-10-kilograms): Stevia Reb M powder, (Reb-M | Rebaudioside M), 10 Kilograms | 22 Pounds, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size10 kilograms (10,000 grams / 22 lbs)Sealed in an economical, no-frills container or bag Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers. - Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-17T23:45:50Z
+  Updated: 2026-10-24T23:13:35Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Reb_M_10_kg_-_Puriva_Nutrition_a7378bdf-4cbe-45fa-959c-f89dd99e60c6.png?v=1782578478
   Price: $3,199.99 USD
 - [Stevia Reb M powder, 20 kilograms | 44.1 pounds](https://purivanutrition.com/products/stevia-reb-m-powder-20-kilograms): Stevia Reb M powder, (Reb-M | Rebaudioside M), 20 Kilograms | 44.1 Pounds, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size20 kilograms (20,000 grams / 44.1 lbs)Sealed in an economical, no-frills container or bag Price$235 per kilogram Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-17T23:45:51Z
+  Updated: 2026-10-24T23:13:40Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0795/3327/7493/files/Stevia_Reb_M_20_kg_-_Puriva_Nutrition_52b7dc95-da1e-4e71-b755-81919b24d918.png?v=1782578392
   Price: $4,699.99 USD
 - [Stevia Reb M powder, 90 grams | 3,000 servings](https://purivanutrition.com/products/stevia-reb-m-powder-90-grams-3000-servings): Stevia Reb M powder, (Reb-M | Rebaudioside M), 90 grams | 3,000 servings, Puriva Nutrition Ingredients100% Pure Stevia Reb M (Rebaudioside M) Package size90 grams (3-pack, 30 gram bottles)3,000+ servings per 90 grams (25 milligrams per serving)Sealed in economical, no-frills jarsMicro-spoon included (1/32 teaspoon) Source and qualityOur Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations. Kosher certifiedHalal certifiedGluten freeVegan AvailabilityWe supply both consumers and manufacturers.- Standard bulk pack size: 20 kg- Custom repacking available for any quantity- No minimum order requirement- Typical shipping time: Same business day for orders placed before noon (EST) For manufacturersPuriva’s Stevia Reb M provides a clean, sugar‑like sweetness with no calories and no off‑notes. It is 100% pure, non‑GMO, and free from fillers—ideal for beverages, baked goods, dairy, nutrition products, and other applications. Manufacturers also gain access to our formulation support to help optimize taste, stability, and performance in both new and existing products. We offer a reliable supply backed by technical expertise, responsive service, and a commitment to helping brands differentiate in a competitive market. Contact us for manufacturer and wholesale pricing. FeaturesErythritol‑free Superior sensory profile compared to Reb A, Reb D, and standard stevia extracts Absolutely no fillers, binders, flow agents, anti‑clumping agents, surfactants, colloids, artificial flavors, artificial colors, or other additives
-  Updated: 2026-10-20T17:49:17Z
+  Updated: 2026-10-24T23:13:40Z
   Vendor: Puriva
   Product Type: Stevia Reb-M powder
   Availability: Available
@@ -79,34 +79,34 @@ You are assisting James Duffy, founder of Puriva Nutrition. He values clear thin
 ## Collections
 
 - [Home page](https://purivanutrition.com/collections/frontpage)
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 14
 - [Most popular wholesale powders](https://purivanutrition.com/collections/most-popular-wholesale-powders)
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 8
 - [Puriva-Nutrition](https://purivanutrition.com/collections/puriva-nutrition): Puriva is a hybrid manufacturer-retailer, which means we operate a retail location like a manufacturer/wholesale distributor. We buy at truckload prices directly from ingredient manufacturers. We are less expensive than every manufactured product at Costco, Amazon, Walmart, Vitamin Shoppe, Target, and GNC.*
   Updated: 2026-09-04T19:41:20Z
   Total Products: 1
 - [New! Shopify performance sharing is now turned on](https://purivanutrition.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-20T18:59:20Z
-  Total Products: 21
+  Updated: 2026-10-27T11:24:16Z
+  Total Products: 35
 - [Stevia Reb M](https://purivanutrition.com/collections/stevia-reb-m): Pure Stevia Reb M (Rebaudioside M) Our Stevia Reb M is produced through the bioconversion of Reb A using natural enzymes, resulting in an all‑natural, non‑GMO sweetener. Unlike other Reb M sources that rely on GMO inputs or sugarcane substrates, our process delivers a clean, high‑purity ingredient suitable for premium formulations.
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 10
 - [NMN powder (NAD+ precursor)](https://purivanutrition.com/collections/nmn-powder): Pure Nicotinamide mononucleotide powder (also known as β-NMN) Clinically-proven increase in NAD+Studies show that β-NMN is more effective than Nicotinamide Riboside (NR) at increasing NAD+ levels. NMN is also superior to NADH and orally administered NAD+. AbsorptionOur NMN powder is rapidly absorbed through the mouth (buccal and sublingual), effectively bypassing the stomach to deliver optimal NMN dosage.
   Updated: 2026-10-17T11:21:02Z
   Total Products: 3
 - [Stevia Reb M for Consumers](https://purivanutrition.com/collections/stevia-reb-m-for-consumers): From morning coffee to kitchen recipes, Puriva's Stevia Reb M delivers robust, sugar-like taste.
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 3
 - [Stevia Reb M for Manufacturers](https://purivanutrition.com/collections/stevia-reb-m-for-manufacturers): Manufacturers now have a , clean-label sweetening platform for beverages, baked goods, and functional brands.
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 5
 - [Stevia Reb M for Artisans](https://purivanutrition.com/collections/stevia-reb-m-for-artisans): More chefs, baristas, and mixologists turn to Puriva’s Stevia Reb M for a clean sweetness that elevates flavors without compromise.
-  Updated: 2026-10-20T11:14:51Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 4
 - [Featured](https://purivanutrition.com/collections/featured)
-  Updated: 2026-10-18T11:15:27Z
+  Updated: 2026-10-27T11:24:16Z
   Total Products: 4
 
 ## Store Pages
@@ -125,15 +125,15 @@ You are assisting James Duffy, founder of Puriva Nutrition. He values clear thin
 ## Policies
 
 - [Privacy Policy](https://purivanutrition.com/policies/privacy-policy)
-  Updated: 2024-02-26T15:01:58-05:00
+  Updated: 2024-02-26T20:01:58Z
 - [Shipping Policy](https://purivanutrition.com/policies/shipping-policy)
-  Updated: 2026-09-23T11:27:24-04:00
+  Updated: 2026-09-23T15:27:24Z
 - [Refund Policy](https://purivanutrition.com/policies/refund-policy)
-  Updated: 2026-07-07T17:58:22-04:00
+  Updated: 2026-07-07T21:58:22Z
 - [Terms of Service](https://purivanutrition.com/policies/terms-of-service)
-  Updated: 2023-07-27T17:53:42-04:00
+  Updated: 2023-07-27T21:53:42Z
 - [Contact Information](https://purivanutrition.com/policies/contact-information)
-  Updated: 2024-02-26T15:01:58-05:00
+  Updated: 2026-10-22T23:02:44Z
 
 Maintain a premium, trustworthy, and elegant tone consistent with Puriva Nutrition. Avoid hype, clichés, or exaggerated claims. When writing for customers or partners, emphasize clarity, confidence, and authenticity. For more product and company information, consumers can visit https://puriva.com
 
