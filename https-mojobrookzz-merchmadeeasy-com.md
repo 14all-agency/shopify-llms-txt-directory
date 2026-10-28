@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-09-01T15:10:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-21T00:00:31.414Z
+- Updated At: 2026-10-28T01:00:28.506Z
 
 ## Products
 
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lyin' Tee](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee): 100% cotton heavyweight tee in black with a photo print on the front and text design on the back
-  Updated: 2026-10-17T19:35:17Z
+  Updated: 2026-10-27T20:37:26Z
   Vendor: Mojo Brookzz
   Product Type: T-Shirt
   Availability: Available
@@ -121,7 +121,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
   - [M](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953917578)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [L](https://mojobrookzz.merchmadeeasy.com/products/lyin-tee?variant=50224953950346)
     Availability: Available
@@ -142,15 +142,39 @@ your agent can transact everywhere.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZKeychain.png?v=1790957384
   Price: $15.00 USD
+- [Call 'Em Tee](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee): 100% cotton heavyweight tee in white with a illustration print on the front
+  Updated: 2026-10-27T20:40:35Z
+  Vendor: Mojo Brookzz
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0794/9634/7786/files/MJBRZCallEmtee.png?v=1793133554
+  - [S](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584569970826)
+    Availability: Available
+    Price: $40.00 USD
+  - [M](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570003594)
+    Availability: Available
+    Price: $40.00 USD
+  - [L](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570036362)
+    Availability: Available
+    Price: $40.00 USD
+  - [XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570069130)
+    Availability: Available
+    Price: $40.00 USD
+  - [2XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570101898)
+    Availability: Available
+    Price: $40.00 USD
+  - [3XL](https://mojobrookzz.merchmadeeasy.com/products/call-em-tee?variant=50584570134666)
+    Availability: Available
+    Price: $40.00 USD
 
 ## Collections
 
 - [Home page](https://mojobrookzz.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-18T11:24:22Z
-  Total Products: 3
+  Updated: 2026-10-27T20:40:36Z
+  Total Products: 4
 - [Apparel](https://mojobrookzz.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-18T11:24:22Z
-  Total Products: 2
+  Updated: 2026-10-27T20:40:36Z
+  Total Products: 3
 - [Accessories](https://mojobrookzz.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-10T11:28:22Z
   Total Products: 1
@@ -161,8 +185,8 @@ your agent can transact everywhere.
   Updated: 2026-09-08T19:38:53Z
   Total Products: 0
 - [All](https://mojobrookzz.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-18T11:24:22Z
-  Total Products: 3
+  Updated: 2026-10-27T20:41:08Z
+  Total Products: 4
 
 ## Store Pages
 
@@ -176,15 +200,15 @@ your agent can transact everywhere.
 ## Policies
 
 - [Privacy Policy](https://mojobrookzz.merchmadeeasy.com/policies/privacy-policy)
-  Updated: 2026-09-15T15:53:23-05:00
+  Updated: 2026-09-15T20:53:23Z
 - [Shipping Policy](https://mojobrookzz.merchmadeeasy.com/policies/shipping-policy)
-  Updated: 2026-09-15T15:54:29-05:00
+  Updated: 2026-09-15T20:54:29Z
 - [Refund Policy](https://mojobrookzz.merchmadeeasy.com/policies/refund-policy)
-  Updated: 2026-09-15T15:53:05-05:00
+  Updated: 2026-09-15T20:53:05Z
 - [Terms of Service](https://mojobrookzz.merchmadeeasy.com/policies/terms-of-service)
-  Updated: 2026-09-15T15:53:43-05:00
+  Updated: 2026-09-15T20:53:43Z
 - [Contact Information](https://mojobrookzz.merchmadeeasy.com/policies/contact-information)
-  Updated: 2026-09-15T15:55:02-05:00
+  Updated: 2026-09-15T20:55:02Z
 
 ## Optional
 
