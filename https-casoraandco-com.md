@@ -5,12 +5,12 @@
 - Currency: USD
 - Timezone: America/Chicago
 - Created At: 2026-07-22T05:48:19Z
-- Updated At: 2026-10-21T00:00:24.908Z
+- Updated At: 2026-10-28T00:49:54.189Z
 
 ## Products
 
 - [Tiger Eye – Natural Bead Bracelet | Shop CASORA & CO](https://casoraandco.com/products/tiger-eye-stone-magnetic-woven-bracelet): Shop a natural tiger eye bead bracelet with a braided polyester band and magnetic clasp. Adjustable from 16–28 cm, with 4 mm beads for everyday styling.
-  Updated: 2026-10-17T19:53:01Z
+  Updated: 2026-10-23T07:25:56Z
   Vendor: CASORA & Co
   Product Type: Bracelet
   Availability: Available
@@ -18,19 +18,19 @@
   - [Tiger Eye](https://casoraandco.com/products/tiger-eye-stone-magnetic-woven-bracelet?variant=67749046059202)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/76d3e152-15d8-46d6-9ce8-287475faee57.jpg?v=1791612471
-    Price: $14.99 USD
+    Price: $22.15 USD
   - [Blue Tiger Eye](https://casoraandco.com/products/tiger-eye-stone-magnetic-woven-bracelet?variant=67749046091970)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/0c1bfb5a-ce5d-4bba-808a-2d1bd1560911.jpg?v=1791612471
-    Price: $14.99 USD
+    Price: $22.15 USD
   - [Red Tiger Eye](https://casoraandco.com/products/tiger-eye-stone-magnetic-woven-bracelet?variant=67749046124738)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/9cfe70db-8b76-425c-862e-040d626f7e8b.jpg?v=1791612471
-    Price: $14.99 USD
+    Price: $22.15 USD
   - [Green Tiger Eye](https://casoraandco.com/products/tiger-eye-stone-magnetic-woven-bracelet?variant=67749046157506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/03046f3a-2192-45d2-8e6e-c3e91c4a3425.jpg?v=1791612471
-    Price: $14.99 USD
+    Price: $22.15 USD
 - [Magnetic Silicone Phone Case – iPhone Case with Stand | CASORA & CO](https://casoraandco.com/products/magnetic-silicone-phone-case-with-stand-for-iphone): Magnetic Silicone Phone Case: Shop a magnetic silicone iPhone case with a built-in stand for hands-free viewing. Choose your color and exact iPhone model at CASORA & CO.
   Updated: 2026-10-18T03:45:20Z
   Vendor: CASORA & Co
@@ -260,7 +260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/c7f9dccb-ffd5-428d-bbca-5805d54e4ace.jpg?v=1791612981
     Price: $165.50 USD
 - [Silicone Lip Plumping Device – Facial Massage Tool | CASORA & CO](https://casoraandco.com/products/silicone-lip-plumping-device): Silicone Lip Plumping Device: Discover a compact silicone lip-plumping and facial massage tool at CASORA & CO. Compare the available set options before ordering.
-  Updated: 2026-10-18T04:01:30Z
+  Updated: 2026-10-23T10:38:02Z
   Vendor: CASORA & Co
   Product Type: PER
   Availability: Available
@@ -272,11 +272,11 @@
   - [Lip-Plumping Fish Rose Massage Board](https://casoraandco.com/products/silicone-lip-plumping-device?variant=67749100617922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/5f380495-947b-437d-9fc9-04e5564405e3.jpg?v=1791613446
-    Price: $25.47 USD
+    Price: $26.99 USD
   - [Lip-Plumping Fish Rose Massage Board Oil](https://casoraandco.com/products/silicone-lip-plumping-device?variant=67749100650690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/60788ec7-e14f-4d5b-8501-4ecd32a14160.jpg?v=1791613446
-    Price: $25.47 USD
+    Price: $28.99 USD
 - [Hot Air Styling Wand – 5-in-1 Styling Tool | CASORA & CO](https://casoraandco.com/products/multifunctional-hot-air-styling-wand): Style with a 5-in-1 hot air styling wand featuring three speed settings, 1000W power, and 110–240V support. Choose the plug option for your region.
   Updated: 2026-10-17T17:51:03Z
   Vendor: CASORA & Co
@@ -324,7 +324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/76b84944-634c-4d42-8489-b59a97f6b691.jpg?v=1791614105
     Price: $150.50 USD
 - [Cordless Hair Straightening Comb – LCD Display | CASORA & CO](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display): Cordless Hair Straightening Comb: Style on the go with a rechargeable hair straightening comb featuring an LCD display, ceramic plates and three heat settings. Explore five colors.
-  Updated: 2026-10-18T04:23:24Z
+  Updated: 2026-10-23T10:38:03Z
   Vendor: CASORA & Co
   Product Type: Hair Styling Tools
   Availability: Available
@@ -332,23 +332,23 @@
   - [Black](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display?variant=67749148786882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/8c642b84-643c-4062-a9d1-8ef3dd2de0d4.jpg?v=1792222649
-    Price: $20.95 USD
+    Price: $24.99 USD
   - [White](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display?variant=67749148819650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/b1d094cc-678f-46af-b805-d7d9932079f2.jpg?v=1792222654
-    Price: $20.95 USD
+    Price: $24.99 USD
   - [Pink](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display?variant=67749148852418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/2194d18f-dd75-4fa5-94b9-8eb93199c6ea.jpg?v=1792222659
-    Price: $20.95 USD
+    Price: $24.99 USD
   - [Purple](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display?variant=67749148885186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/4e3c515c-4df1-43eb-b6b6-f96e42a7db36.jpg?v=1791614187
-    Price: $20.95 USD
+    Price: $24.99 USD
   - [Blue](https://casoraandco.com/products/cordless-hair-straightening-comb-lcd-display?variant=67749148917954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/9a381404-3c34-432b-a3c6-3dacf3c6aaba.jpg?v=1791614187
-    Price: $20.95 USD
+    Price: $24.99 USD
 - [Electric Hair Curler – Interchangeable Heads | CASORA & CO](https://casoraandco.com/products/electric-hair-curler): Explore an electric hair curler with interchangeable styling heads and adjustable heat settings. Choose the set and plug option for your routine.
   Updated: 2026-10-17T19:34:57Z
   Vendor: CASORA & Co
@@ -481,7 +481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/76ef6621-f664-4247-8369-c1dd9c868e9b.jpg?v=1791615409
     Price: $119.99 USD
 - [Hair Straightener and Curler – Dual Styling Tool | CASORA & CO](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool): Hair Straightener and Curler: Switch between straight and curled styles with a dual styling tool featuring five heat settings. Check the plug and voltage before ordering.
-  Updated: 2026-10-18T05:19:15Z
+  Updated: 2026-10-23T10:38:03Z
   Vendor: CASORA & Co
   Product Type: Hair Styling Tools
   Availability: Available
@@ -489,23 +489,23 @@
   - [Black Yellow Ring / US Plug](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool?variant=67749224677570)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/7f1189db-81f6-4b06-a1ae-475dfc853844.jpg?v=1792223507
-    Price: $17.99 USD
+    Price: $22.99 USD
   - [White Yellow Ring / US Plug](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool?variant=67749224710338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/c6c2d51b-234a-4330-8ec2-eedce32ba054.jpg?v=1791615562
-    Price: $17.99 USD
+    Price: $22.99 USD
   - [Green Yellow Ring / US Plug](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool?variant=67749224743106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/2e8a456c-7184-4a16-ba02-11d9277899d9.jpg?v=1791615562
-    Price: $17.99 USD
+    Price: $22.99 USD
   - [Red Yellow Ring / US Plug](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool?variant=67749224775874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/3ef830b6-65d3-4aa3-96e7-73a5aba127af.jpg?v=1791615562
-    Price: $17.99 USD
+    Price: $22.99 USD
   - [Black Purple Ring Painted / US Plug](https://casoraandco.com/products/hair-straightener-and-curler-dual-styling-tool?variant=67749224808642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/1fcecd22-0887-467f-ba5a-804e811857b5.jpg?v=1791615562
-    Price: $19.99 USD
+    Price: $22.99 USD
 - [Professional Hair Clipper Set – Cordless LED Trimmer | CASORA & CO](https://casoraandco.com/products/professional-hair-clipper-set-with-led-cordless-trimmer): Professional Hair Clipper Set: Shop a rechargeable hair clipper and LED trimmer set with guide combs and USB charging cables. Compare the available options at CASORA & CO.
   Updated: 2026-10-17T19:35:04Z
   Vendor: CASORA & Co
@@ -1630,64 +1630,64 @@
     Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/299525b9-400d-491d-b976-2faa43c5a647.jpg?v=1791627068
     Price: $24.99 USD
 - [Retro Stainless Steel Leather Bracelet – Magnetic Clasp | CASORA & CO](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet): Retro Stainless Steel Leather Bracelet: Shop a woven cowhide leather bracelet with stainless steel details and a magnetic clasp. Choose 19cm, 21cm or 23cm in Steel or Black.
-  Updated: 2026-10-17T18:43:41Z
+  Updated: 2026-10-23T10:38:03Z
   Vendor: CASORA & CO
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/3514234e-4b37-43fe-bc8f-b320f02071b9.jpg?v=1792219416
   - [steel color / 19cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768127170)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
   - [steel color / 21cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768159938)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
   - [steel color / 23cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768192706)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
   - [black / 19cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768225474)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
   - [black / 21cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768258242)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
   - [black / 23cm](https://casoraandco.com/products/retro-stainless-steel-leather-bracelet?variant=67848768291010)
     Availability: Available
-    Price: $19.99 USD
+    Price: $22.99 USD
 - [Water Drop Pendant Necklace – Vintage Titanium Steel | CASORA & CO](https://casoraandco.com/products/vintage-french-retro-titanium-steel-water-drop-pendant-necklace): Explore a vintage-inspired water drop pendant necklace made from titanium steel. Choose a green or blue pendant at CASORA & CO.
-  Updated: 2026-10-18T03:15:43Z
+  Updated: 2026-10-23T10:38:04Z
   Vendor: CASORA & CO
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0767/4504/8258/files/9392eb5f-c00e-4642-8eb8-fa8b987f409f.jpg?v=1792219513
   - [A green water drop does not fade](https://casoraandco.com/products/vintage-french-retro-titanium-steel-water-drop-pendant-necklace?variant=67848770027714)
     Availability: Available
-    Price: $15.20 USD
+    Price: $17.99 USD
   - [A blue water drop does not fade](https://casoraandco.com/products/vintage-french-retro-titanium-steel-water-drop-pendant-necklace?variant=67848770060482)
     Availability: Available
-    Price: $15.20 USD
+    Price: $17.99 USD
 
 ## Collections
 
 - [Men’s Watches](https://casoraandco.com/collections/men-s-watches): Explore men's quartz and mechanical watches at CASORA & CO. Compare dial styles, straps and calendar features to find a watch for your everyday look.
-  Updated: 2026-10-17T10:09:20Z
+  Updated: 2026-10-22T06:43:55Z
   Total Products: 22
 - [Women’s Watches](https://casoraandco.com/collections/women-s-watches): Discover women's watches at CASORA & CO, including quartz designs with round, square and oval dials. Compare finishes and bracelet styles.
-  Updated: 2026-10-17T10:40:22Z
+  Updated: 2026-10-22T06:39:10Z
   Total Products: 3
 - [Smart Watches](https://casoraandco.com/collections/smart-watches): Browse smart watches with activity tracking, touchscreen displays and Bluetooth features at CASORA & CO. Check phone compatibility before ordering.
-  Updated: 2026-10-17T10:10:38Z
+  Updated: 2026-10-22T06:43:16Z
   Total Products: 4
 - [Hair Styling Tools](https://casoraandco.com/collections/hair-styling-tools): Shop hot air stylers, curling tools, straighteners and rechargeable clippers at CASORA & CO. Compare attachments, heat settings and plug options.
-  Updated: 2026-10-17T10:16:32Z
+  Updated: 2026-10-23T10:38:04Z
   Total Products: 7
 - [Phone Accessories](https://casoraandco.com/collections/phone-accessories): Shop the magnetic silicone iPhone case with a built-in stand at CASORA & CO. Choose Black, White, or Red and select the fit for your exact iPhone model.
   Updated: 2026-10-17T07:45:01Z
   Total Products: 1
 - [Jewelry](https://casoraandco.com/collections/jewelry): Explore bracelets and pendant necklaces at CASORA & CO, from woven leather and tiger eye beads to stainless steel styles and water drop pendants.
-  Updated: 2026-10-17T08:47:41Z
+  Updated: 2026-10-23T10:38:05Z
   Total Products: 5
 - [Personal Care](https://casoraandco.com/collections/beauty-tools): Browse personal care and beauty tools at CASORA & CO. Compare product features, materials and included accessories before choosing your routine.
-  Updated: 2026-10-17T10:17:29Z
+  Updated: 2026-10-22T06:40:34Z
   Total Products: 4
 
 ## Store Pages
@@ -1708,13 +1708,13 @@
 ## Policies
 
 - [Privacy Policy](https://casoraandco.com/policies/privacy-policy)
-  Updated: 2026-10-10T05:18:16-05:00
+  Updated: 2026-10-10T10:18:16Z
 - [Shipping Policy](https://casoraandco.com/policies/shipping-policy)
-  Updated: 2026-10-10T05:22:47-05:00
+  Updated: 2026-10-10T10:22:47Z
 - [Refund Policy](https://casoraandco.com/policies/refund-policy)
-  Updated: 2026-10-10T05:14:56-05:00
+  Updated: 2026-10-10T10:14:56Z
 - [Terms of Service](https://casoraandco.com/policies/terms-of-service)
-  Updated: 2026-10-10T05:17:05-05:00
+  Updated: 2026-10-10T10:17:05Z
 
 ## Optional
 
