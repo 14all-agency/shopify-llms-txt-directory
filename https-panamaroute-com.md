@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-04-23T15:52:29Z
 - Contact Email: stefano@panamaroute.com
-- Updated At: 2026-10-20T12:57:08.405Z
+- Updated At: 2026-10-28T00:48:00.182Z
 
 ## Products
 
@@ -1347,7 +1347,7 @@
     Availability: Not Available
     Price: 159,00 € EUR
 - [STEVE 01 Blu](https://panamaroute.com/products/steve-01-blu-2): Felpa girocollo con costine in lana
-  Updated: 2026-09-15T21:20:40Z
+  Updated: 2026-10-21T18:54:16Z
   Vendor: Panama Route
   Product Type: 
   Availability: Available
@@ -1362,7 +1362,7 @@
     Availability: Available
     Price: 156,00 € EUR
   - [L](https://panamaroute.com/products/steve-01-blu-2?variant=58671277539592)
-    Availability: Available
+    Availability: Not Available
     Price: 156,00 € EUR
   - [XL](https://panamaroute.com/products/steve-01-blu-2?variant=58671277572360)
     Availability: Not Available
@@ -1754,6 +1754,150 @@
   - [XXL](https://panamaroute.com/products/jeff-02-nero-copia?variant=58736929997064)
     Availability: Available
     Price: 220,00 € EUR
+- [ETIENNE 25 Stone Wash](https://panamaroute.com/products/etienne-25-stone-wash): Pantaloni con laccio e tasconi in denim
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE25stonewfront.jpg?v=1792576468
+  - [XS](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742355208)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742387976)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742420744)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742453512)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742486280)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-25-stone-wash?variant=59176742519048)
+    Availability: Not Available
+    Price: 156,00 € EUR
+- [ETIENNE 25T Blu](https://panamaroute.com/products/etienne-25t-blu): Pantaloni con laccio e tasconi in denim sovratinto.
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE25TBLUFRONT.jpg?v=1792576702
+  - [XS](https://panamaroute.com/products/etienne-25t-blu?variant=59176762933512)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-25t-blu?variant=59176762966280)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-25t-blu?variant=59176762999048)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-25t-blu?variant=59176763031816)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-25t-blu?variant=59176763064584)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-25t-blu?variant=59176763097352)
+    Availability: Not Available
+    Price: 156,00 € EUR
+- [ETIENNE 25T Bosco](https://panamaroute.com/products/etienne-25t-bosco): Pantaloni con laccio e tasconi in denim sovratinto.
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE25TboscoFront2.jpg?v=1792577227
+  - [XS](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772272392)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772305160)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772337928)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772370696)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772403464)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-25t-bosco?variant=59176772436232)
+    Availability: Not Available
+    Price: 156,00 € EUR
+- [ETIENNE 25T Ocra](https://panamaroute.com/products/etienne-25t-bosco-copia): Pantaloni con laccio e tasconi in denim sovratinto.
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE25TocraFRONT.jpg?v=1792577007
+  - [XS](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790589704)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790622472)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790655240)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790688008)
+    Availability: Available
+    Price: 156,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790720776)
+    Availability: Not Available
+    Price: 156,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-25t-bosco-copia?variant=59176790753544)
+    Availability: Not Available
+    Price: 156,00 € EUR
+- [ETIENNE 26 Latte](https://panamaroute.com/products/etienne-26-latte): Pantaloni con laccio e tasconi in cotone pesante
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE26lattefront.jpg?v=1792577516
+  - [XS](https://panamaroute.com/products/etienne-26-latte?variant=59176831713544)
+    Availability: Not Available
+    Price: 159,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-26-latte?variant=59176831746312)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-26-latte?variant=59176831779080)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-26-latte?variant=59176831811848)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-26-latte?variant=59176831844616)
+    Availability: Not Available
+    Price: 159,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-26-latte?variant=59176831877384)
+    Availability: Not Available
+    Price: 159,00 € EUR
+- [ETIENNE 26 Tabacco](https://panamaroute.com/products/etienne-26-latte-copia): Pantaloni con laccio e tasconi in cotone pesante
+  Updated: 2026-10-26T11:48:32Z
+  Vendor: Panama Route
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0954/6737/2808/files/ETIENNE26tabaccoFRONT.jpg?v=1792577641
+  - [XS](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835711240)
+    Availability: Not Available
+    Price: 159,00 € EUR
+  - [S](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835744008)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [M](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835776776)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [L](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835809544)
+    Availability: Available
+    Price: 159,00 € EUR
+  - [XL](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835842312)
+    Availability: Not Available
+    Price: 159,00 € EUR
+  - [XXL](https://panamaroute.com/products/etienne-26-latte-copia?variant=59176835875080)
+    Availability: Not Available
+    Price: 159,00 € EUR
 
 ## Collections
 
@@ -1770,8 +1914,8 @@
   Updated: 2026-02-24T10:07:50Z
   Total Products: 0
 - [Pantaloni](https://panamaroute.com/collections/pantaloni)
-  Updated: 2026-09-14T15:41:34Z
-  Total Products: 24
+  Updated: 2026-10-23T11:35:57Z
+  Total Products: 30
 - [Cardigan](https://panamaroute.com/collections/cardigan)
   Updated: 2026-09-14T15:41:37Z
   Total Products: 10
@@ -1785,13 +1929,13 @@
   Updated: 2026-07-18T08:57:00Z
   Total Products: 17
 - [Shop](https://panamaroute.com/collections/shop)
-  Updated: 2026-10-16T11:30:50Z
-  Total Products: 109
+  Updated: 2026-10-23T11:35:57Z
+  Total Products: 115
 - [SS 26](https://panamaroute.com/collections/spring-summer-26)
   Updated: 2026-10-16T11:30:50Z
   Total Products: 55
 - [FW26/27](https://panamaroute.com/collections/fw26-27)
-  Updated: 2026-09-14T16:09:29Z
+  Updated: 2026-10-22T11:31:52Z
   Total Products: 23
 
 ## Store Pages
@@ -1810,15 +1954,15 @@
 ## Policies
 
 - [Privacy Policy](https://panamaroute.com/policies/privacy-policy)
-  Updated: 2025-05-27T17:55:25+02:00
+  Updated: 2025-05-27T15:55:25Z
 - [Shipping Policy](https://panamaroute.com/policies/shipping-policy)
-  Updated: 2026-10-20T10:36:41+02:00
+  Updated: 2026-10-20T08:36:41Z
 - [Refund Policy](https://panamaroute.com/policies/refund-policy)
-  Updated: 2026-10-20T11:54:05+02:00
+  Updated: 2026-10-20T09:54:05Z
 - [Terms of Service](https://panamaroute.com/policies/terms-of-service)
-  Updated: 2026-10-20T10:37:04+02:00
+  Updated: 2026-10-20T08:37:04Z
 - [Contact Information](https://panamaroute.com/policies/contact-information)
-  Updated: 2025-11-28T17:59:42+01:00
+  Updated: 2025-11-28T16:59:42Z
 
 ## Optional
 
