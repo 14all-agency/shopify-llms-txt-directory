@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-09-16T11:40:41Z
 - Contact Email: office.margal24@gmail.com
-- Updated At: 2026-10-21T00:00:35.889Z
+- Updated At: 2026-10-28T01:21:18.108Z
 
 ## Collections
 
@@ -60,6 +60,14 @@
     Updated: 2026-10-16T09:01:29Z
     Author: Galmar Jawellery
     Tags: clean dull jewelry, jewellery, jewelry, jewelry care, jewelry maintenance guide, restore shine, ring, rings, shine, sparkling rings tips
+  - [Unlocking the Secrets to Long-Lasting Rings and Jewellery Care](https://www.galmar-jewellery.com/blogs/news/unlocking-the-secrets-to-long-lasting-rings-and-jewellery-care): Unlocking the Secrets to Long-Lasting Rings and Jewellery Care
+    Updated: 2026-10-22T09:00:25Z
+    Author: Galmar Jawellery
+    Tags: care, how to care for rings, jewellery, jewelry, jewelry maintenance, precious stones, ring, ring cleaning, rings, tips for jewelry care
+  - [Sure](https://www.galmar-jewellery.com/blogs/news/sure): Sure
+    Updated: 2026-10-23T09:01:31Z
+    Author: Galmar Jawellery
+    Tags: care, cleaning, gemstone protection, how to clean jewelry, jewellery, jewelry, jewelry maintenance, jewelry storage, ring, tips for jewelry care
 
 ## Store Pages
 
@@ -71,15 +79,15 @@
 ## Policies
 
 - [Privacy Policy](https://www.galmar-jewellery.com/policies/privacy-policy)
-  Updated: 2026-09-16T12:40:46+01:00
+  Updated: 2026-09-16T11:40:46Z
 - [Shipping Policy](https://www.galmar-jewellery.com/policies/shipping-policy)
-  Updated: 2026-09-17T16:40:48+01:00
+  Updated: 2026-09-17T15:40:48Z
 - [Refund Policy](https://www.galmar-jewellery.com/policies/refund-policy)
-  Updated: 2026-09-16T16:02:35+01:00
+  Updated: 2026-09-16T15:02:35Z
 - [Terms of Service](https://www.galmar-jewellery.com/policies/terms-of-service)
-  Updated: 2026-09-17T16:16:48+01:00
+  Updated: 2026-09-17T15:16:48Z
 - [Contact Information](https://www.galmar-jewellery.com/policies/contact-information)
-  Updated: 2026-09-16T20:00:40+01:00
+  Updated: 2026-09-16T19:00:40Z
 
 ## Optional
 
