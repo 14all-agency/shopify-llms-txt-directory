@@ -7,7 +7,7 @@
 - Created At: 2026-09-02T13:56:49Z
 - Contact Email: info@creativetopsinc.com
 - Contact Phone: 888-702-8281
-- Updated At: 2026-10-20T10:31:52.867Z
+- Updated At: 2026-10-28T00:49:29.005Z
 
 ## Products
 
@@ -88,7 +88,7 @@
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0436CARAMEL.jpg?v=1790185819
     Price: $72.00 USD
 - [Arbin Woven Vegan Leather Placemat | Creative Tops Home](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular): Woven vegan leather placemat in 50% PU / 50% PVC from Tiseco Belgium. Rectangular 13x18in, waterproof and wipe clean. Four colours.
-  Updated: 2026-10-07T12:41:18Z
+  Updated: 2026-10-21T09:10:23Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -728,7 +728,7 @@
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011C.jpg?v=1789994192
   Price: $25.00 USD
 - [Amber Glass Tumblers – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-amber-tumbler): Shop Duralex Lys amber glass tumblers, set of 6. Warm tones in a stackable, chip-resistant glass — dishwasher safe and made for everyday use.
-  Updated: 2026-10-07T12:41:37Z
+  Updated: 2026-10-27T14:29:31Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -782,8 +782,8 @@
   Updated: 2026-10-07T12:41:50Z
   Total Products: 7
 - [New in](https://creative-tops-home.myshopify.com/collections/new-in)
-  Updated: 2026-10-07T12:41:40Z
-  Total Products: 8
+  Updated: 2026-10-27T14:12:19Z
+  Total Products: 46
 - [Gifting & Sets](https://creative-tops-home.myshopify.com/collections/gifting-sets)
   Updated: 2026-09-22T13:49:56Z
   Total Products: 0
@@ -818,23 +818,50 @@
   Updated: 2026-10-07T12:41:49Z
   Total Products: 1
 - [Bestsellers](https://creative-tops-home.myshopify.com/collections/bestsellers)
-  Updated: 2026-10-08T13:13:56Z
-  Total Products: 52
+  Updated: 2026-10-27T14:09:18Z
+  Total Products: 46
 - [Glassware](https://creative-tops-home.myshopify.com/collections/glassware)
-  Updated: 2026-10-07T12:41:43Z
+  Updated: 2026-10-27T15:06:09Z
   Total Products: 34
 - [Tableware](https://creative-tops-home.myshopify.com/collections/tableware)
   Updated: 2026-10-07T12:41:53Z
   Total Products: 38
 - [Bakeware](https://creative-tops-home.myshopify.com/collections/bakeware)
-  Updated: 2026-10-07T12:41:50Z
-  Total Products: 9
+  Updated: 2026-10-27T15:07:42Z
+  Total Products: 7
 - [Porland](https://creative-tops-home.myshopify.com/collections/porland)
   Updated: 2026-10-15T11:35:30Z
   Total Products: 0
 - [All Brands](https://creative-tops-home.myshopify.com/collections/all-brands)
   Updated: 2026-10-15T11:37:56Z
   Total Products: 47
+- [Duralex Tumblers](https://creative-tops-home.myshopify.com/collections/duralex-tumblers)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 25
+- [Duralex Mugs & Espresso Cups](https://creative-tops-home.myshopify.com/collections/duralex-mugs)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 7
+- [Duralex Glass Food Storage](https://creative-tops-home.myshopify.com/collections/duralex-glass-food-storage)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 2
+- [Tiseco Placemats](https://creative-tops-home.myshopify.com/collections/tiseco-placemats)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 6
+- [Tiseco Oven Gloves & Grippers](https://creative-tops-home.myshopify.com/collections/tiseco-oven-gloves-grippers)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 4
+- [Tiseco Kitchen Towels & Aprons](https://creative-tops-home.myshopify.com/collections/tiseco-kitchen-towels-aprons)
+  Updated: 2026-10-22T13:49:53Z
+  Total Products: 3
+- [Gifts Under $30](https://creative-tops-home.myshopify.com/collections/gifts-under-30): Stocking fillers, Secret Santa and little thank-yous for the home.
+  Updated: 2026-10-26T09:21:52Z
+  Total Products: 18
+- [Gifts Under $50](https://creative-tops-home.myshopify.com/collections/gifts-under-50): Hostess gifts and everyday treats for the home.
+  Updated: 2026-10-26T09:21:57Z
+  Total Products: 35
+- [Gifts Under $100](https://creative-tops-home.myshopify.com/collections/gifts-under-100): Statement pieces for the people who matter most.
+  Updated: 2026-10-26T09:22:09Z
+  Total Products: 42
 
 ## Store Pages
 
@@ -843,26 +870,32 @@
 - [Your Privacy Choices](https://creative-tops-home.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-02T13:56:59Z
 - [Duralex](https://creative-tops-home.myshopify.com/pages/duralex)
-  Updated: 2026-10-14T06:38:13Z
+  Updated: 2026-10-22T13:52:32Z
 - [Porland](https://creative-tops-home.myshopify.com/pages/porland)
-  Updated: 2026-10-14T06:38:23Z
+  Updated: 2026-10-22T13:52:32Z
 - [Tiseco](https://creative-tops-home.myshopify.com/pages/tiseco)
-  Updated: 2026-10-14T06:38:31Z
-- [O Cuisine](https://creative-tops-home.myshopify.com/pages/o-cuisine)
-  Updated: 2026-10-14T06:38:39Z
+  Updated: 2026-10-22T13:52:32Z
 - [About Us](https://creative-tops-home.myshopify.com/pages/about-us)
-  Updated: 2026-10-14T06:38:48Z
+  Updated: 2026-10-27T08:16:11Z
+- [Wishlist](https://creative-tops-home.myshopify.com/pages/wishlist)
+  Updated: 2026-10-26T07:17:08Z
+- [Gift Guide](https://creative-tops-home.myshopify.com/pages/gift-guide)
+  Updated: 2026-10-27T08:15:36Z
+- [Everyday Essentials](https://creative-tops-home.myshopify.com/pages/everyday-essentials)
+  Updated: 2026-10-27T08:15:26Z
+- [Care & Use Guide](https://creative-tops-home.myshopify.com/pages/care-use-guide)
+  Updated: 2026-10-27T08:15:10Z
 
 ## Policies
 
 - [Privacy Policy](https://creative-tops-home.myshopify.com/policies/privacy-policy)
-  Updated: 2026-10-02T08:40:13-04:00
+  Updated: 2026-10-02T12:40:13Z
 - [Shipping Policy](https://creative-tops-home.myshopify.com/policies/shipping-policy)
-  Updated: 2026-10-02T08:39:41-04:00
+  Updated: 2026-10-02T12:39:41Z
 - [Refund Policy](https://creative-tops-home.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-02T08:39:13-04:00
+  Updated: 2026-10-02T12:39:13Z
 - [Terms of Service](https://creative-tops-home.myshopify.com/policies/terms-of-service)
-  Updated: 2026-10-02T08:40:40-04:00
+  Updated: 2026-10-02T12:40:40Z
 
 ## Optional
 
