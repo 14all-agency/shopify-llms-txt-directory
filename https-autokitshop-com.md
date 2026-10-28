@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-10-15T03:52:23Z
 - Contact Email: customer@autokitshop.com
-- Updated At: 2026-10-21T00:00:47.428Z
+- Updated At: 2026-10-28T00:58:27.866Z
 
 ## Products
 
@@ -15,15 +15,15 @@
 ## Policies
 
 - [Privacy Policy](https://autokitshop.com/policies/privacy-policy)
-  Updated: 2026-10-11T23:35:48-07:00
+  Updated: 2026-10-12T06:35:48Z
 - [Shipping Policy](https://autokitshop.com/policies/shipping-policy)
-  Updated: 2026-10-11T23:58:34-07:00
+  Updated: 2026-10-12T06:58:34Z
 - [Refund Policy](https://autokitshop.com/policies/refund-policy)
-  Updated: 2026-10-11T23:16:46-07:00
+  Updated: 2026-10-12T06:16:46Z
 - [Terms of Service](https://autokitshop.com/policies/terms-of-service)
-  Updated: 2026-10-11T23:15:54-07:00
+  Updated: 2026-10-12T06:15:54Z
 - [Contact Information](https://autokitshop.com/policies/contact-information)
-  Updated: 2026-10-11T23:15:59-07:00
+  Updated: 2026-10-12T06:15:59Z
 
 ## Optional
 
