@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-08-05T11:23:29Z
 - Contact Email: support@palono.store
-- Updated At: 2026-10-20T02:45:39.903Z
+- Updated At: 2026-10-28T00:47:49.695Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/jActsfqLNDG8wHK6pFORF__KoOIaFDSe.jpg?v=1789036858
   Price: 29,99 € EUR
 - [Double Hydration Boost Gel + HA](https://palono.store/products/double-hydration-boost-gel-ha): PALONO Double Hydration Boost Gel + HA Deep-feeling hydration. Fresh, supple-looking skin. A lightweight hydration booster designed to give your daily skincare routine an extra moisture boost. Formulated with Hyaluronic Acid, its refreshing gel texture leaves skin feeling soft, comfortable and replenished. Why you'll love it * Lightweight gel texture * Hydration-focused formula * Contains Hyaluronic Acid * Helps skin feel soft and comfortable * Easy to add to your daily routine How to use: Apply to clean skin and gently massage until absorbed. Follow with moisturiser. PALONO — Your beauty. Your ritual. Moisture boost, Sodium PCA + HA, Reduces fine lines, face-care, Moisturiser (Type), Anti-age (Concern), Damaged skin barrier (Concern), Dehydrated skin (Concern), Under-eye fatigue (Concern), Normal (Skin type), Mature (Skin type), Hyaluronic Acid (Active ingredients), Aloe Juice (Active ingredients), Sodium PCA (Active ingredients), White (Packaging color), Transparent (Packaging color) Sodium PCA, Hyaluronic Acid, Aloe Leaf Juice, Sage Extract, White Tea Extract
-  Updated: 2026-10-18T09:15:22Z
+  Updated: 2026-10-25T16:00:16Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/JskEKGU2BMt8BkdBQAXv0mI06insaEjN.jpg?v=1788510576
   Price: 24,99 € EUR
 - [Dark Spot Face Cream with Kojic Acid](https://palono.store/products/dark-spot-face-cream-with-kojic-acid): PALONO Dark Spot Face Cream A brighter-looking complexion starts with targeted care. A targeted facial cream formulated with Kojic Acid and designed for skincare routines focused on uneven-looking tone and the appearance of dark spots. Its comfortable cream texture makes it easy to incorporate into your daily routine. Why you'll love it * Formulated with Kojic Acid * Designed for dark-spot-focused skincare * Helps promote a more even-looking complexion * Comfortable cream texture * Easy to incorporate into your routine How to use: Apply a small amount to clean skin, focusing on areas requiring targeted care. Follow with moisturiser if needed and use sunscreen during the day. PALONO — Your beauty. Your ritual. Targeted care, Brightening, face-care, Moisturiser (Type), Dermatologically tested (Claims), Gluten Free (Claims), Nut Free (Claims), Vegan (Claims), Dark spots (Concern), Mature (Skin type), Kojic Acid (Active ingredients), Vitamin C (Active ingredients), Rosemary Oil (Active ingredients), Vitamin E (Active ingredients), Sodium PCA (Active ingredients), Betaine (Active ingredients), White (Packaging color) Vitamin C Vitamin E Sea Buckthorn Oil Rosemary Extract Sodium PCA Betaine Kojic Acid
-  Updated: 2026-10-18T09:15:22Z
+  Updated: 2026-10-23T15:00:36Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -284,14 +284,14 @@
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/4SDA7JT3_dIcEnVHo-soRcWBY8EQC-J8.jpg?v=1788546064
   Price: 24,99 € EUR
 - [Gloss Shampoo, Smoky Green Vetiver](https://palono.store/products/gloss-shampoo-smoky-green-vetiver): PALONO Gloss Shampoo, Smoky Green Vetiver Fresh cleanse. Beautiful gloss. Effortless sophistication. Cleanse and refresh your hair with the PALONO Gloss Shampoo, Smoky Green Vetiver, formulated with Betaine to help gently cleanse while leaving hair feeling soft and refreshed. Finished with a sophisticated Smoky Green Vetiver scent, it transforms an everyday cleanse into a beautifully refined hair-care ritual. Why you'll love it * Formulated with Betaine * Helps cleanse the hair * Leaves hair feeling soft and refreshed * Supports a healthy-looking appearance * Perfect for everyday cleansing * Sophisticated Smoky Green Vetiver scent How to use: Apply to wet hair and gently massage into the scalp and lengths until a lather forms. Rinse thoroughly and follow with PALONO Gloss Conditioner. PALONO — Your beauty. Your ritual. Adds gloss to the hair, hair feels smooth, delicately fragranced, hair-care, Shampoo (Type), Lack of glow (Concern), Lack of volume (Concern), All skin types (Skin type), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Betaine, Wheat Protein
-  Updated: 2026-10-18T09:15:21Z
+  Updated: 2026-10-21T15:00:11Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/PqDV3YzqtEmCgo8ZcPyJuJxNS0fLvEcl.jpg?v=1788546274
   Price: 24,99 € EUR
 - [Fresh Conditioner, Citrus Cocktail](https://palono.store/products/fresh-conditioner-citrus-cocktail): PALONO Fresh Conditioner, Citrus Cocktail Fresh feeling. Silky softness. Effortless care. Treat your hair to the PALONO Fresh Conditioner, Citrus Cocktail, a nourishing conditioner formulated with Panthenol to help soften and smooth the hair while improving manageability. Its bright Citrus Cocktail scent brings a fresh, uplifting touch to your everyday ritual, leaving hair feeling soft, refreshed and beautifully cared for. Why you'll love it * Formulated with Panthenol * Helps soften and condition hair * Helps smooth dry-feeling ends * Improves manageability * Leaves hair feeling refreshed * Fresh Citrus Cocktail scent How to use: Apply to clean, damp hair, focusing on the lengths and ends. Leave on for a few minutes, then rinse thoroughly. PALONO — Your beauty. Your ritual. Helps to reduce split ends, Eases styling, Nourishes the hair, hair-care, Conditioner (Type), Dry ends (Concern), Lack of volume (Concern), All skin types (Skin type), Panthenol (Active ingredients), Betaine (Active ingredients), Wheat Protein (Active ingredients), White (Packaging color) Panthenol, Betaine, Wheat Protein
-  Updated: 2026-10-18T09:15:21Z
+  Updated: 2026-10-27T16:00:36Z
   Vendor: Selfnamed
   Product Type: 
   Availability: Available
@@ -325,12 +325,19 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/I6bXTogr8ZK7uJWG7k0v8S0HmR1fqJ8g.jpg?v=1792235493
   Price: 29,99 € EUR
+- [The Complete Daily Face Ritual – Morning & Evening Set](https://palono.store/products/the-complete-daily-face-ritual-morning-evening-set): Your complete face care ritual in one set. This 8-piece collection is designed to take you from clean skin to protected, hydrated, comfortable skin — morning and night. Each product has a clear role, so you always know what to use and in what order. What’s included Cleansing Foam Glycolic Acid Exfoliating Toner Hydrating Serum Double Hydration Boost Gel + HA Bioactive Prebiotics Jelly Serum Peptide Age-Defying Eye Cream Peptide Ageless AM/PM Cream Sunscreen SPF30 with Tint Clean formulas. Simple steps. One complete daily ritual. How to Use Apply products from lightest to richest. A small amount of each is enough. Morning Ritual Cleansing Foam — Cleanse face and neck, then pat dry. Hydrating Serum — Apply a thin layer for everyday moisture. Double Hydration Boost Gel + HA — Layer on top for a deeper hydration boost. Bioactive Prebiotics Jelly Serum — Press in until absorbed to support a comfortable skin barrier. Peptide Age-Defying Eye Cream — Dot around the eye area and gently pat in. Peptide Ageless AM/PM Cream — Apply to face and neck to lock in moisture. Sunscreen SPF30 with Tint — Finish every morning as the final step. Skip the Glycolic Acid Exfoliating Toner in the morning. Evening Ritual Cleansing Foam — Cleanse face and neck, then pat dry. Glycolic Acid Exfoliating Toner — Sweep over the face. Start 2–3 evenings a week. Increase only if your skin feels comfortable. Skip on sensitive nights. Hydrating Serum — Apply a thin layer. Double Hydration Boost Gel + HA — Follow with a second hydration layer. Bioactive Prebiotics Jelly Serum — Massage in until absorbed. Peptide Age-Defying Eye Cream — Apply around the eyes. Peptide Ageless AM/PM Cream — Seal everything in for overnight care. Why both hydration steps Hydrating Serum = lightweight everyday moisture base Double Hydration Boost Gel + HA = extra hydration layer on top Use them in that order, then follow with the Prebiotics Jelly Serum and moisturiser. Short version (if you need a shorter Shopify text) Your complete morning and evening face ritual in one set. Cleanse, hydrate, treat, nourish, and protect with 8 carefully paired products. Follow the simple step-by-step order for soft, comfortable, well-cared-for skin every day.
+  Updated: 2026-10-27T03:38:17Z
+  Vendor: Palono
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1028/0180/1593/files/fKE90QImg9A5kzkc-4xhMd3PyPAXfJHJ.jpg?v=1789036835
+  Price: 214,99 € EUR
 
 ## Collections
 
 - [Face Care](https://palono.store/collections/face-care): Explore Palono's face care collection — clean, effective skincare essentials designed to make your daily beauty ritual simple and beautiful.
-  Updated: 2026-09-26T08:41:30Z
-  Total Products: 20
+  Updated: 2026-10-26T15:29:09Z
+  Total Products: 21
 - [Body Care](https://palono.store/collections/body-care): Discover Palono's body care collection — ethically sourced, clean formulas that make your self-care routine feel luxurious and effortless.
   Updated: 2026-09-26T08:41:30Z
   Total Products: 9
@@ -473,6 +480,15 @@
   - [Unlock Radiant Skin with Bioactive Prebiotics Jelly Serum by Palono Beauty Care](https://palono.store/blogs/news/unlock-radiant-skin-with-bioactive-prebiotics-jelly-serum-by-palono-beauty-care): Unlock Radiant Skin with Bioactive Prebiotics Jelly Serum by Palono Beauty Care
     Updated: 2026-10-19T01:00:48Z
     Author: palono
+  - [Revitalize Your Hair with Palono Beauty Care Moisturising Shampoo: Your Ultimate Guide to Healthy Tresses](https://palono.store/blogs/news/revitalize-your-hair-with-palono-beauty-care-moisturising-shampoo-your-ultimate-guide-to-healthy-tresses): Revitalize Your Hair with Palono Beauty Care Moisturising Shampoo: Your Ultimate Guide to Healthy Tresses
+    Updated: 2026-10-21T00:42:59Z
+    Author: palono
+  - [Top Benefits of Using Palono Beauty Care Sensitive Skin Face & Body Cleanser for Daily Regimen](https://palono.store/blogs/news/top-benefits-of-using-palono-beauty-care-sensitive-skin-face-body-cleanser-for-daily-regimen): Top Benefits of Using Palono Beauty Care Sensitive Skin Face & Body Cleanser for Daily Regimen
+    Updated: 2026-10-24T00:22:43Z
+    Author: palono
+  - [Sensitive Scalp Shampoo from Palono Beauty Care Your Answers to Common Questions](https://palono.store/blogs/news/sensitive-scalp-shampoo-from-palono-beauty-care-your-answers-to-common-questions): Sensitive Scalp Shampoo from Palono Beauty Care Your Answers to Common Questions
+    Updated: 2026-10-26T01:02:48Z
+    Author: palono
 
 ## Store Pages
 
@@ -510,15 +526,15 @@
 ## Policies
 
 - [Privacy Policy](https://palono.store/policies/privacy-policy)
-  Updated: 2026-09-05T08:51:22+02:00
+  Updated: 2026-09-05T06:51:22Z
 - [Shipping Policy](https://palono.store/policies/shipping-policy)
-  Updated: 2026-09-05T08:52:48+02:00
+  Updated: 2026-09-05T06:52:48Z
 - [Refund Policy](https://palono.store/policies/refund-policy)
-  Updated: 2026-09-05T08:51:32+02:00
+  Updated: 2026-09-05T06:51:32Z
 - [Terms of Service](https://palono.store/policies/terms-of-service)
-  Updated: 2026-09-05T08:51:13+02:00
+  Updated: 2026-09-05T06:51:13Z
 - [Contact Information](https://palono.store/policies/contact-information)
-  Updated: 2026-09-05T08:53:13+02:00
+  Updated: 2026-09-05T06:53:13Z
 
 ## Optional
 
