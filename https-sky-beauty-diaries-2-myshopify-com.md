@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-10-21T00:00:38.358Z
+- Updated At: 2026-10-28T00:57:40.079Z
 
 ## Products
 
@@ -158,6 +158,18 @@
   - [How to Maintain Self-Care During Stressful Times](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/how-to-maintain-self-care-during-stressful-times): How to Maintain Self-Care During Stressful Times
     Updated: 2026-10-18T00:07:42Z
     Author: User
+  - [The Stress-Relief Power of Practical Self-Care](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/the-stress-relief-power-of-practical-self-care): The Stress-Relief Power of Practical Self-Care
+    Updated: 2026-10-21T00:05:40Z
+    Author: User
+  - [Exploring Surprising Self-Care Habits That Work](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/exploring-surprising-self-care-habits-that-work): Exploring Surprising Self-Care Habits That Work
+    Updated: 2026-10-23T00:08:13Z
+    Author: User
+  - [How to Choose the Best Self-Care Method for You](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/how-to-choose-the-best-self-care-method-for-you): How to Choose the Best Self-Care Method for You
+    Updated: 2026-10-25T00:09:41Z
+    Author: User
+  - [Common Self-Care Missteps and How to Avoid Them](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/common-self-care-missteps-and-how-to-avoid-them): Common Self-Care Missteps and How to Avoid Them
+    Updated: 2026-10-28T00:06:35Z
+    Author: User
 
 ## Store Pages
 
@@ -189,15 +201,15 @@
 ## Policies
 
 - [Privacy Policy](https://sky-beauty-diaries-2.myshopify.com/policies/privacy-policy)
-  Updated: 2026-03-19T13:14:19+08:00
+  Updated: 2026-03-19T05:14:19Z
 - [Shipping Policy](https://sky-beauty-diaries-2.myshopify.com/policies/shipping-policy)
-  Updated: 2026-03-19T14:01:50+08:00
+  Updated: 2026-03-19T06:01:50Z
 - [Refund Policy](https://sky-beauty-diaries-2.myshopify.com/policies/refund-policy)
-  Updated: 2026-03-19T13:14:26+08:00
+  Updated: 2026-03-19T05:14:26Z
 - [Terms of Service](https://sky-beauty-diaries-2.myshopify.com/policies/terms-of-service)
-  Updated: 2026-03-19T13:14:45+08:00
+  Updated: 2026-03-19T05:14:45Z
 - [Contact Information](https://sky-beauty-diaries-2.myshopify.com/policies/contact-information)
-  Updated: 2026-03-19T13:15:00+08:00
+  Updated: 2026-03-19T05:15:00Z
 
 ## Optional
 
