@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2021-12-14T17:53:45Z
 - Contact Email: info@rugbranch.com
-- Updated At: 2026-10-21T00:01:10.233Z
+- Updated At: 2026-10-28T00:53:16.326Z
 
 ## Products
 
 - [Elaris Abstract Contemporary Beige and Blue Indoor Rug | Rug Branch](https://www.rugbranch.com/products/elaris-abstract-beige-indoor-rug-and-runner): Elaris is a beige and blue abstract runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:37:02Z
+  Updated: 2026-10-21T01:34:50Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -121,7 +121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/Nikhil_s_New_Board_For_A_41.png?v=1773392282
     Price: $332.89 CAD
 - [Zola Abstract Wave Contemporary Beige and Blue Indoor Rug | Rug Branch](https://www.rugbranch.com/products/zola-abstract-wave-contemporary-beige-indoor-rug-and-runner): Zola is a beige and blue abstract runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:40:48Z
+  Updated: 2026-10-26T22:24:54Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -182,8 +182,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2917ML_10.png?v=1791480829
     Price: $38.49 CAD
-- [Ziya Abstract Distressed Contemporary Yellow and Blue Indoor Rug | ...](https://www.rugbranch.com/products/ziya-distressed-contemporary-yellow-indoor-rug-and-runner): Ziya is a yellow and blue abstract runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:40:48Z
+- [Ziya Abstract Contemporary Yellow and Blue Rug](https://www.rugbranch.com/products/ziya-distressed-contemporary-yellow-indoor-rug-and-runner): Ziya is a yellow and blue abstract runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
+  Updated: 2026-10-26T22:24:37Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -297,7 +297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2916ML_10.png?v=1791480498
     Price: $57.59 CAD
 - [Zora Abstract Contemporary Purple and Orange Indoor Rug | Rug Branch](https://www.rugbranch.com/products/zora-abstract-purple-indoor-rug-and-runner): Zora is a purple and orange abstract runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:40:49Z
+  Updated: 2026-10-26T22:23:58Z
   Vendor: Rug Branch
   Product Type: Area Rugs
   Availability: Available
@@ -410,361 +410,192 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2915ML_9.png?v=1791480657
     Price: $80.79 CAD
-- [Solana Boho Contemporary Pink and Blue Indoor Rug | Rug Branch](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner): Solana is a pink and blue boho runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:39:47Z
-  Vendor: Rug Branch
-  Product Type: Area Rugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_1.jpg?v=1791480289
-  - [2' x 4'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456735255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_10.png?v=1791480291
-    Price: $41.39 CAD
-  - [3' x 5'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456768023)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_10.png?v=1791480291
-    Price: $57.59 CAD
-  - [4' x 6'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456800791)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_2.png?v=1791480292
-    Price: $89.59 CAD
-  - [5' x 8'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456833559)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_2.png?v=1791480292
-    Price: $134.19 CAD
-  - [6' x 9'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456866327)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_2.png?v=1791480292
-    Price: $229.19 CAD
-  - [8' x 11'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456899095)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_2.png?v=1791480292
-    Price: $318.89 CAD
-  - [9' x 12'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=39911456931863)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_2.png?v=1791480292
-    Price: $459.99 CAD
-  - [2' x 10'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543128256535)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_9.png?v=1791480292
-    Price: $78.49 CAD
-  - [2' x 13'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543128616983)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_9.png?v=1791480292
-    Price: $92.69 CAD
-  - [2' x 15'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543128780823)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_9.png?v=1791480292
-    Price: $119.19 CAD
-  - [2' x 20'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543129042967)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_9.png?v=1791480292
-    Price: $150.29 CAD
-  - [2' x 5'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543129829399)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_10.png?v=1791480291
-    Price: $44.69 CAD
-  - [2' x 8'](https://www.rugbranch.com/products/solana-boho-pink-and-blue-indoor-rug-and-runner?variant=40543130615831)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2914ML_9.png?v=1791480292
-    Price: $68.69 CAD
-- [Nomia Boho Contemporary Beige and Blue Indoor Rug | Rug Branch](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner): Nomia is a beige and blue boho runner that suits a hallway, kitchen or entryway. Free shipping on orders over $50, and easy returns within 30 days.
-  Updated: 2026-10-20T03:38:42Z
-  Vendor: Rug Branch
-  Product Type: Area Rugs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_1.jpg?v=1791480218
-  - [2' x 4'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456440343)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_10.png?v=1791480220
-    Price: $41.39 CAD
-  - [3' x 5'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456505879)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_10.png?v=1791480220
-    Price: $57.59 CAD
-  - [4' x 6'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456538647)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_2.png?v=1791480221
-    Price: $89.59 CAD
-  - [5' x 8'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456571415)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_2.png?v=1791480221
-    Price: $134.19 CAD
-  - [6' x 9'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456604183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_2.png?v=1791480221
-    Price: $229.19 CAD
-  - [8' x 11'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456636951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_2.png?v=1791480221
-    Price: $318.89 CAD
-  - [9' x 12'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=39911456669719)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_2.png?v=1791480221
-    Price: $459.99 CAD
-  - [2' x 10'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419160087)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $78.49 CAD
-  - [2' x 13'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419192855)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $92.69 CAD
-  - [2' x 15'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419225623)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $119.19 CAD
-  - [2' x 20'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419258391)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $150.29 CAD
-  - [2' x 5'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419291159)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_10.png?v=1791480220
-    Price: $44.69 CAD
-  - [2' x 6'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419323927)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $53.79 CAD
-  - [2' x 8'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=40528419356695)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $68.69 CAD
-  - [2' x 11'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463242775)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $94.19 CAD
-  - [2' x 12'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463275543)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $97.09 CAD
-  - [2' x 14'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463308311)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $120.29 CAD
-  - [2' x 16'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463341079)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $130.09 CAD
-  - [2' x 17'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463373847)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $133.99 CAD
-  - [2' x 18'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463406615)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $138.39 CAD
-  - [2' x 19'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463439383)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $146.39 CAD
-  - [2' x 2'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463472151)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_10.png?v=1791480220
-    Price: $36.79 CAD
-  - [2' x 25'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463504919)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $182.99 CAD
-  - [2' x 3'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463537687)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_10.png?v=1791480220
-    Price: $44.49 CAD
-  - [2' x 30'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463570455)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $233.39 CAD
-  - [2' x 7'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463603223)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $65.39 CAD
-  - [2' x 9'](https://www.rugbranch.com/products/nomia-boho-beige-indoor-rug-and-runner?variant=42105463635991)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0556/4324/2519/files/SP2912CR_9.png?v=1791480221
-    Price: $80.79 CAD
-[List Continued](https://www.rugbranch.com/a/llms-agent/llms.txt?shop=rug-branch-retail.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NjQyMjAwOTM2NDcxLCJsYXN0X3ZhbHVlIjoiNjY0MjIwMDkzNjQ3MSJ9)
+[List Continued](https://www.rugbranch.com/a/llms-agent/llms.txt?shop=rug-branch-retail.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NjQyMjAwODM4MTY3LCJsYXN0X3ZhbHVlIjoiNjY0MjIwMDgzODE2NyJ9)
 
 ## Collections
 
 - [All Rugs](https://www.rugbranch.com/collections/all-rugs): Shop area rugs in sizes from small mats to 9x12 and larger. Contemporary, geometric, traditional, kids and runner rugs in cream, beige, grey and blue.
-  Updated: 2026-10-20T20:34:16Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1835
-- [Vogue Collection](https://www.rugbranch.com/collections/vogue-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Vogue Collection](https://www.rugbranch.com/collections/vogue-collection): The Vogue collection: indoor area rugs, in grey, beige, blue and red. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 16
-- [Silvia Collection](https://www.rugbranch.com/collections/silvia-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Silvia Collection](https://www.rugbranch.com/collections/silvia-collection): The Silvia collection: indoor area rugs in abstract and contemporary designs, in grey, beige and blue. Sizes include 2x10, 2x13, 2x15, 2x20 and 2x8.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 5
-- [Havana Collection](https://www.rugbranch.com/collections/havana-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Havana Collection](https://www.rugbranch.com/collections/havana-collection): The Havana collection: indoor area rugs in contemporary, abstract and mosaic designs, in blue, grey, brown and beige. Sizes include 2x3, 2x8, 4x6 and 8x10.
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 13
-- [Nova Collection](https://www.rugbranch.com/collections/nova-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Nova Collection](https://www.rugbranch.com/collections/nova-collection): The Nova collection: indoor area rugs in contemporary, geometric and abstract designs, in grey, blue, black and red. Sizes include 4x6, 5x7, 6x9 and 8x10.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 16
-- [New Zealand Plush Collection](https://www.rugbranch.com/collections/new-zealand-plush-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [New Zealand Plush Collection](https://www.rugbranch.com/collections/new-zealand-plush-collection): The New zealand plush collection: indoor area rugs, in grey, black, brown and beige. Sizes include 4x6 and 8x11.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 6
-- [Majestic Collection](https://www.rugbranch.com/collections/majestic-collection): Shop Rug Branch’s Majestic Collection of luxury area rugs. Elegant, durable, and timeless designs that elevate your home décor with comfort and style.
-  Updated: 2026-10-20T11:13:23Z
+- [Majestic Collection](https://www.rugbranch.com/collections/majestic-collection): Shop the Majestic collection of Persian medallion area rugs in cream, beige and black, in elegant, timeless designs.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 20
-- [Capri Collection](https://www.rugbranch.com/collections/capri-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Capri Collection](https://www.rugbranch.com/collections/capri-collection): The Capri collection: indoor area rugs in contemporary, abstract and geometric designs, in grey, red and beige. Sizes include 6x9.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 7
-- [Sardini Collection](https://www.rugbranch.com/collections/sardini-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Sardini Collection](https://www.rugbranch.com/collections/sardini-collection): The Sardini collection: indoor area rugs in contemporary, abstract and geometric designs, in grey, red, beige and brown. Sizes include 4x6 and 6x9.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 8
 - [Cascade Collection](https://www.rugbranch.com/collections/cascade-collection)
   Updated: 2026-10-20T04:39:51Z
   Total Products: 9
-- [Retro Collection](https://www.rugbranch.com/collections/retro-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Retro Collection](https://www.rugbranch.com/collections/retro-collection): The Retro collection: indoor area rugs in contemporary, geometric and abstract designs, in grey, white, beige and brown. Sizes include 3x5, 4x6 and 6x9.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 11
-- [Savannah Collection](https://www.rugbranch.com/collections/savannah-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Savannah Collection](https://www.rugbranch.com/collections/savannah-collection): The Savannah collection: indoor area rugs, in blue, beige, grey and yellow. Sizes include 2x4, 2x5, 3x5, 4x6 and 5x8.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 18
-- [Mirage Collection](https://www.rugbranch.com/collections/mirage-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Mirage Collection](https://www.rugbranch.com/collections/mirage-collection): The Mirage collection: indoor area rugs in contemporary, abstract and geometric designs, in grey, cream and beige. Sizes include 4x6, 5x7, 6x9 and 8x10.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 8
-- [Super Soft Collection](https://www.rugbranch.com/collections/super-soft-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Super Soft Collection](https://www.rugbranch.com/collections/super-soft-collection): The Super collection: indoor area rugs in contemporary designs, in white, grey and pink. Sizes include 4x6.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 4
-- [Oasis Collection](https://www.rugbranch.com/collections/oasis-collection)
-  Updated: 2026-10-20T04:39:51Z
+- [Oasis Collection](https://www.rugbranch.com/collections/oasis-collection): The Oasis collection: indoor area rugs in contemporary, damask and transitional designs, in grey, beige, blue and yellow. Sizes include 6x9.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 15
 - [Montage Collection](https://www.rugbranch.com/collections/montage-collection)
-  Updated: 2026-10-20T04:39:51Z
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 21
-- [Vista Collection](https://www.rugbranch.com/collections/vista-collection)
-  Updated: 2026-10-20T04:39:52Z
+- [Vista Collection](https://www.rugbranch.com/collections/vista-collection): The Vista collection: indoor area rugs in contemporary, boho and abstract designs, in beige, rust, blue and grey. Sizes include 3x5 and 5x8.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 12
-- [Amalfi Collection](https://www.rugbranch.com/collections/amalfi-collection)
-  Updated: 2026-10-20T04:39:52Z
+- [Amalfi Collection](https://www.rugbranch.com/collections/amalfi-collection): The Amalfi collection: indoor area rugs in abstract and contemporary designs, in beige and blue. Sizes include 10x13, 2x10, 2x12, 2x13 and 2x15.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 5
 - [Non-Slip Rug Pads](https://www.rugbranch.com/collections/rug-pad): Non slip rug pads that keep area rugs, runners and doormats flat and in place, in sizes from 2x4 runners up to 9x12 rooms.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-21T01:07:51Z
   Total Products: 2
-- [Emir Collection](https://www.rugbranch.com/collections/emir-collection): Water Repellent Area Rug, Machine Washable
-  Updated: 2026-10-20T04:39:52Z
+- [Emir Collection](https://www.rugbranch.com/collections/emir-collection): The Emir collection: Persian floral and abstract area rugs in blue, gold and brown. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 11
-- [Transitional Rugs](https://www.rugbranch.com/collections/transitional-rugs)
-  Updated: 2026-10-20T04:39:52Z
+- [Transitional Rugs](https://www.rugbranch.com/collections/transitional-rugs): Shop transitional rugs that blend traditional patterns with modern colours and simpler lines, for rooms that mix classic and contemporary furniture.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 38
 - [Traditional Rugs](https://www.rugbranch.com/collections/traditional-rugs): Traditional area rugs in Persian medallion, Oriental and Bokhara designs, in red, beige, black, green and cream. Runners to large room sizes.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 333
 - [Contemporary Rugs](https://www.rugbranch.com/collections/contemporary-rugs): Contemporary area rugs in abstract, geometric and tonal designs, in blue, grey, beige and more. Runners to 8x11 room sizes, in polypropylene and polyester.
-  Updated: 2026-10-20T04:39:52Z
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 266
 - [Shaggy and Plush Rugs](https://www.rugbranch.com/collections/shaggy-rugs): Shag and plush area rugs in white, beige, grey and brown. Polyester in sizes from 3x5 to 8x11 for bedrooms and living rooms.
-  Updated: 2026-10-20T04:39:52Z
+  Updated: 2026-10-21T01:08:28Z
   Total Products: 18
-- [Outdoor Rugs](https://www.rugbranch.com/collections/outdoor-rugs): Explore the Outdoor Rugs collection at Rug Branch, featuring durable and stylish area rugs designed to withstand the elements. Perfect for enhancing your patio, deck, or any outdoor space, our high-quality outdoor rugs come in various patterns and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T04:58:58Z
-  Total Products: 184
+- [Outdoor Rugs](https://www.rugbranch.com/collections/outdoor-rugs): Rugs for a patio, porch or sunroom, in geometric, striped and bordered designs. Some are made for outdoor use, so check each product page.
+  Updated: 2026-10-21T03:49:01Z
+  Total Products: 153
 - [Geometric Rugs](https://www.rugbranch.com/collections/geometric-rugs): Geometric area rugs with checkered, striped, chevron and mosaic patterns, in runner sizes up to 9x12. Mostly polypropylene, loom made in Turkey and Belgium.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 400
-- [Bohemian Rugs](https://www.rugbranch.com/collections/bohemian-rugs): Discover the Bohemian Rugs collection at Rug Branch, where you'll find an array of stylish and unique area rugs. Perfect for adding a touch of boho-chic charm to any room, our rugs combine vibrant patterns and rich textures. Shop now for high-quality bohemian rugs and enjoy free shipping on all orders!
-  Updated: 2026-10-20T04:39:52Z
+- [Bohemian Rugs](https://www.rugbranch.com/collections/bohemian-rugs): Shop bohemian and boho area rugs with layered patterns and relaxed colours for living rooms, bedrooms and entryways.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 90
-- [Best Sellers](https://www.rugbranch.com/collections/best-sellers): Browse the top rated and best  rugs at Rug Branch. Discover customer favorites in modern, traditional, and transitional designs for every room in your home.
-  Updated: 2026-10-20T20:34:16Z
+- [Best Sellers](https://www.rugbranch.com/collections/best-sellers): Browse the best  rugs customers buy most often, in modern, traditional and transitional designs for every room.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1749
-- [Type: Runner Rugs](https://www.rugbranch.com/collections/runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+- [Type: Runner Rugs](https://www.rugbranch.com/collections/runner-rugs): Runner rugs for hallways, kitchens and entryways, plus rug pads. Check the actual length shown under Size on each rug.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 4
-- [Melo Collection](https://www.rugbranch.com/collections/melo-collection)
-  Updated: 2026-10-20T04:39:52Z
+- [Melo Collection](https://www.rugbranch.com/collections/melo-collection): The Melo collection: indoor area rugs in contemporary, abstract and geometric designs, in beige, brown, blue and grey. Sizes include 5x8 and 9x12.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 8
-- [Elysian Collection](https://www.rugbranch.com/collections/elysian-collection)
-  Updated: 2026-10-20T04:39:52Z
+- [Elysian Collection](https://www.rugbranch.com/collections/elysian-collection): The Elysian collection: indoor area rugs in floral, medallion and traditional designs, in grey, blue, cream and gold. Sizes include 5x8, 8x10 and 9x12.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 3
-- [Sakarya Collection](https://www.rugbranch.com/collections/sakarya-collection)
-  Updated: 2026-10-20T04:39:52Z
+- [Sakarya Collection](https://www.rugbranch.com/collections/sakarya-collection): The Sakarya collection: indoor area rugs in contemporary, abstract and geometric designs, in brown, grey, black and beige. Sizes include 4x6, 5x8 and 6x9.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 15
-- [Mats](https://www.rugbranch.com/collections/doormats)
-  Updated: 2026-10-20T11:13:23Z
+- [Mats](https://www.rugbranch.com/collections/doormats): Doormats and small rugs for a front door, a kitchen sink or a bathroom. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 147
-- [Rug Runners](https://www.rugbranch.com/collections/rug-runners): Runner rugs for hallways, kitchens and entryways in lengths from 2x3 to 2x20, plus matching room sizes. Mostly easy care polypropylene, loom made in Turkey.
-  Updated: 2026-10-20T20:34:16Z
+- [Rug Runners](https://www.rugbranch.com/collections/rug-runners): Runner rugs for hallways, kitchens and entryways in lengths from 2x3 to 2x20, plus matching room sizes. Mostly polypropylene, loom made in Turkey.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 244
-- [3'x5' Rugs](https://www.rugbranch.com/collections/3x5-area-rugs)
-  Updated: 2026-10-20T11:13:23Z
+- [3'x5' Rugs](https://www.rugbranch.com/collections/3x5-area-rugs): Shop 3x5 rugs for an entryway, a bathroom, a desk area or the front of a sink. Check the actual size before you order.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 119
-- [4'x6' Rugs](https://www.rugbranch.com/collections/4x6-area-rug)
-  Updated: 2026-10-20T20:34:16Z
+- [4'x6' Rugs](https://www.rugbranch.com/collections/4x6-area-rug): Shop 4x6 rugs for a bedside, a reading nook, an entryway or a small room, in many styles. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 656
-- [5'x7' Rugs](https://www.rugbranch.com/collections/5x7-rugs): Browse 5x7 and 5x8 rugs at Rug Branch. Perfect for bedrooms, small living areas, and home offices. Explore stylish and durable medium size rugs in every design.
-  Updated: 2026-10-20T11:13:23Z
+- [5'x7' Rugs](https://www.rugbranch.com/collections/5x7-rugs): Browse 5x7 and 5x8 rugs for bedrooms, small living rooms and home offices, in contemporary, traditional and boho designs.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1291
-- [6'x9' Rugs](https://www.rugbranch.com/collections/6x9-area-rug)
-  Updated: 2026-10-20T20:34:16Z
+- [6'x9' Rugs](https://www.rugbranch.com/collections/6x9-area-rug): Shop 6x9 rugs for bedrooms, small living rooms and dining areas, in contemporary, traditional and boho designs. Check the actual size first.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 896
-- [9'x12' Rugs & Larger](https://www.rugbranch.com/collections/9x12-area-rug-larger): 9'x12' Rugs & Larger
-  Updated: 2026-10-20T20:34:16Z
-  Total Products: 998
-- [Hand-Tufted Rugs](https://www.rugbranch.com/collections/hand-tufted): Discover the craftsmanship of our Hand-Tufted Rugs collection. Each piece is meticulously crafted with a hand-tufting technique that ensures exceptional quality and durability. Perfect for adding a touch of elegance and texture to any space, these rugs feature intricate designs and rich textures that enhance your home decor. Explore our selection of hand-tufted rugs at Rug Branch and elevate your living space with timeless beauty and comfort.
-  Updated: 2026-10-20T04:39:53Z
+- [8'x11' Rugs](https://www.rugbranch.com/collections/8x11-rugs): Shop 8x11 area rugs in contemporary, geometric, modern and traditional designs, in beige, grey, cream and blue. Polypropylene and polyester.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 561
+- [9'x12' Area Rugs](https://www.rugbranch.com/collections/9x12-area-rug-larger): Shop 9x12 rugs and larger for big living rooms, open plan spaces and large dining rooms. Check the actual size before you order.
+  Updated: 2026-10-24T11:14:10Z
+  Total Products: 803
+- [Hand-Tufted Rugs](https://www.rugbranch.com/collections/hand-tufted): Shop hand tufted rugs in checkered, tonal and abstract designs, in 5x8 and 8x11 sizes.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 9
 - [Machine Washable Rugs](https://www.rugbranch.com/collections/machine-washable-rugs): Machine washable area rugs in traditional, vintage floral and abstract designs. Wash at home following the care label. Currently in stock in 5x8.
   Updated: 2026-10-20T04:39:53Z
   Total Products: 11
-- [Farmhouse Rugs](https://www.rugbranch.com/collections/farmhouse-rugs)
-  Updated: 2026-10-20T11:13:23Z
+- [Farmhouse Rugs](https://www.rugbranch.com/collections/farmhouse-rugs): Shop farmhouse rugs in neutral cream, grey and brown with a relaxed vintage style look, for rustic and country style rooms.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 141
-- [Persian Rugs](https://www.rugbranch.com/collections/persian-rugs)
-  Updated: 2026-10-20T04:39:53Z
+- [Persian Rugs](https://www.rugbranch.com/collections/persian-rugs): Shop Persian style rugs with medallion patterns in cream, beige, blue and red for living rooms, dining rooms and entryways.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 61
-- [Moroccan Rugs](https://www.rugbranch.com/collections/moroccan-rugs)
-  Updated: 2026-10-20T04:39:53Z
+- [Moroccan Rugs](https://www.rugbranch.com/collections/moroccan-rugs): Shop Moroccan style rugs with trellis, diamond and lattice patterns in cream, beige and grey for modern and relaxed rooms.
+  Updated: 2026-10-21T03:49:44Z
   Total Products: 18
 - [Scandinavian Rugs](https://www.rugbranch.com/collections/scandinavian-rugs)
   Updated: 2026-10-20T04:39:53Z
   Total Products: 0
-- [Kids Rugs](https://www.rugbranch.com/collections/kids-rugs): Kids rugs and play rugs for playrooms, nurseries and bedrooms, in sizes from small 2x4 rugs to 8x11 room sizes, in polyester and easy care polypropylene.
-  Updated: 2026-10-20T11:13:23Z
-  Total Products: 76
-- [Abstract Rugs](https://www.rugbranch.com/collections/abstract-rugs): Abstract Rugs
-  Updated: 2026-10-20T20:34:16Z
+- [Kids Rugs](https://www.rugbranch.com/collections/kids-rugs): Kids rugs and play rugs for playrooms, nurseries and bedrooms, in sizes from small 2x4 rugs to 8x11 room sizes, in polyester and polypropylene.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 75
+- [Abstract Rugs](https://www.rugbranch.com/collections/abstract-rugs): Shop abstract area rugs with shapes, lines and artistic patterns in neutral and bold colours for modern living rooms, bedrooms and offices.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 444
-- [Solid Colored Rugs](https://www.rugbranch.com/collections/plain-rugs): Explore the Solid Rugs collection at Rug Branch, featuring classic and versatile area rugs that complement any decor style. Ideal for adding a clean and cohesive look to your space, our high-quality solid rugs come in a variety of colors and sizes. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T04:58:51Z
-  Total Products: 372
-- [Coastal Rugs](https://www.rugbranch.com/collections/coastal-rugs): Explore the Coastal Rugs collection at Rug Branch, featuring elegant beach-inspired area rugs that bring a touch of seaside charm to your home. Perfect for creating a relaxed and breezy atmosphere, our high-quality coastal rugs come in various styles and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T04:39:53Z
+- [Solid Colored Rugs](https://www.rugbranch.com/collections/plain-rugs): Shop solid colour and tonal area rugs that suit any decor style, in a range of colours and sizes.
+  Updated: 2026-10-21T03:49:01Z
+  Total Products: 367
+- [Coastal Rugs](https://www.rugbranch.com/collections/coastal-rugs): Shop coastal area rugs in light blue, grey and white with a relaxed, beach inspired look, in various styles and sizes.
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 30
-- [Modern Rugs](https://www.rugbranch.com/collections/modern-rugs): Discover modern rugs at Rug Branch featuring bold patterns, soft textures, and contemporary designs. Perfect for living rooms, bedrooms, and modern spaces.
-  Updated: 2026-10-20T11:13:23Z
+- [Modern Rugs](https://www.rugbranch.com/collections/modern-rugs): Discover modern rugs with bold patterns, clean lines and contemporary designs for living rooms, bedrooms and modern spaces.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 612
-- [Floral Rugs](https://www.rugbranch.com/collections/floral-rugs): Discover the Floral Rugs collection at Rug Branch, offering a stunning selection of beautiful and elegant area rugs. Perfect for adding a touch of nature-inspired charm to any space, our high-quality floral rugs feature intricate designs and vibrant colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T11:13:23Z
+- [Floral Rugs](https://www.rugbranch.com/collections/floral-rugs): Shop floral area rugs in traditional and modern patterns, from large bold blooms to small quiet florals, for living rooms and bedrooms.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 110
-- [Vintage Rugs](https://www.rugbranch.com/collections/vintage-rugs): Explore the Vintage Rugs collection at Rug Branch, featuring timeless and elegant area rugs that add a touch of classic charm to any space. Perfect for creating a sophisticated and nostalgic atmosphere, our high-quality vintage rugs come in various patterns and colors. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T11:13:23Z
+- [Vintage Rugs](https://www.rugbranch.com/collections/vintage-rugs): Shop vintage style area rugs with classic oriental and traditional patterns in muted colours, in various sizes.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 264
-- [Yellow / Orange Rugs](https://www.rugbranch.com/collections/yellow-orange-rugs): Shop vibrant yellow and orange rugs at Rug Branch—ideal for uplifting modern, boho, or eclectic interiors. Add energy, warmth, and a bold pop of color to your space. Free shipping on all orders!
-  Updated: 2026-10-20T04:39:54Z
+- [Yellow / Orange Rugs](https://www.rugbranch.com/collections/yellow-orange-rugs): Shop yellow and orange area rugs in modern, boho and traditional designs. Add a warm, bold colour to a living room, dining room or kids room.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 160
-- [Red / Burgundy Rugs](https://www.rugbranch.com/collections/red-burgundy-rugs): Shop stunning red and burgundy rugs at Rug Branch—perfect for adding warmth, drama, and elegance to any room. Ideal for traditional, vintage, and eclectic interiors. Available in multiple sizes. Free shipping!
-  Updated: 2026-10-20T04:39:54Z
+- [Red / Burgundy Rugs](https://www.rugbranch.com/collections/red-burgundy-rugs): Shop red and burgundy area rugs in traditional, vintage style and modern designs, in several sizes, for living rooms, dining rooms and entryways.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 134
-- [Multi-Colored Rugs](https://www.rugbranch.com/collections/multi-colored-rugs): Explore eye-catching multi-colored rugs at Rug Branch—perfect for eclectic, boho, and modern interiors. Add personality, warmth, and bold style to any room. Shop unique patterns and enjoy free shipping!
-  Updated: 2026-10-20T11:13:23Z
+- [Multi-Colored Rugs](https://www.rugbranch.com/collections/multi-colored-rugs): Shop multi colored and colorful area rugs in boho, modern and eclectic patterns. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 39
-- [Pink / Purple Rugs](https://www.rugbranch.com/collections/pink-purple-rugs): Explore vibrant pink and purple rugs at Rug Branch—perfect for adding a pop of color and personality to any room. Ideal for kids’ rooms, boho chic spaces, and modern interiors. Shop now with free shipping!
-  Updated: 2026-10-20T04:39:54Z
+- [Pink / Purple Rugs](https://www.rugbranch.com/collections/pink-purple-rugs): Shop pink and purple area rugs for kids rooms, bedrooms and modern living rooms, in plain, patterned and kids designs.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 81
-- [Beige / Taupe Rugs](https://www.rugbranch.com/collections/beige-and-taupe): Explore beige and taupe rugs at Rug Branch. These soft neutral rugs are perfect for modern and classic spaces with styles that suit every room in your home.
-  Updated: 2026-10-20T20:34:16Z
+- [Beige / Taupe Rugs](https://www.rugbranch.com/collections/beige-and-taupe): Explore beige and taupe rugs in neutral tones for modern and classic spaces, in styles that suit every room in your home.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 506
-- [Blue / Navy Rugs](https://www.rugbranch.com/collections/blue-navy-rugs): Blue and navy area rugs in geometric, floral, mosaic and medallion designs. Runner lengths to large room sizes, mostly easy care polypropylene.
-  Updated: 2026-10-20T11:13:23Z
+- [Blue / Navy Rugs](https://www.rugbranch.com/collections/blue-navy-rugs): Blue and navy area rugs in geometric, floral, mosaic and medallion designs. Runner lengths to large room sizes, mostly polypropylene.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 371
-- [Grey Rugs](https://www.rugbranch.com/collections/grey-rugs): Shop premium grey rugs at Rug Branch—perfect for contemporary, minimalist, or industrial interiors. Add texture, depth, and elegance with soft, neutral tones. Available in various sizes and patterns. Free shipping!
-  Updated: 2026-10-20T04:39:54Z
+- [Grey Rugs](https://www.rugbranch.com/collections/grey-rugs): Shop grey area rugs in contemporary, minimalist and industrial styles, in several sizes and patterns, for living rooms and bedrooms.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 621
-- [Green Rugs](https://www.rugbranch.com/collections/green-rugs): Green area rugs in modern, abstract and botanical designs, from 3x5 accent rugs to 8x11 room sizes and rounds, in easy care polypropylene and polyester.
-  Updated: 2026-10-20T11:13:23Z
+- [Green Rugs](https://www.rugbranch.com/collections/green-rugs): Green area rugs in modern, abstract and botanical designs, from 3x5 accent rugs to 8x11 room sizes and rounds, in polypropylene and polyester.
+  Updated: 2026-10-21T01:10:53Z
   Total Products: 72
 - [Rug Runners on ](https://www.rugbranch.com/collections/rug-runners-on-): Rug Runners on 
   Updated: 2026-10-20T04:39:54Z
@@ -772,217 +603,215 @@
 - [Rug Mats on ](https://www.rugbranch.com/collections/rug-mats-on-): Rug Mats on 
   Updated: 2026-10-20T04:39:54Z
   Total Products: 0
-- [Large Table Rugs (8 seats)](https://www.rugbranch.com/collections/large-table-8-seats): For a dining table accommodating eight or more, opt for a 9'x12' rug or larger, providing ample space for all chairs to comfortably sit on the rug when seated.
-  Updated: 2026-10-20T20:34:17Z
+- [Large Table Rugs (8 seats)](https://www.rugbranch.com/collections/large-table-8-seats): For a dining table that seats eight, choose a 9x12 or larger so the chairs stay on the rug when pulled out. Check the actual size before you order.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 998
-- [Medium Table Rugs (6 seats)](https://www.rugbranch.com/collections/medium-table-6-seats): For a dining table set for six, the ideal rug sizes are 8'x10' or 6'x9', providing sufficient space around the table for easy movement of dining chairs while ensuring they remain on the rug.
-  Updated: 2026-10-20T20:34:17Z
+- [Medium Table Rugs (6 seats)](https://www.rugbranch.com/collections/medium-table-6-seats): For a dining table that seats six, an 8x10 keeps the chairs on the rug when pulled out. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1334
-- [Small Table Rugs (4 seats)](https://www.rugbranch.com/collections/small-table-4-seats): For a table set for four, you can float the table and chairs in the center of a 6'x9' rug for a cozy arrangement.
-  Updated: 2026-10-20T20:34:17Z
+- [Small Table Rugs (4 seats)](https://www.rugbranch.com/collections/small-table-4-seats): For a dining table that seats four, a 6x9 keeps the chairs on the rug when pulled out. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 896
-- [King Bed Rugs](https://www.rugbranch.com/collections/king-bed)
-  Updated: 2026-10-20T20:34:17Z
+- [King Bed Rugs](https://www.rugbranch.com/collections/king-bed): Shop rugs for a king bed: a 9x12 is the usual size, and an 8x10 fits a smaller room. Check the actual size before you order.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 998
-- [Queen Bed Rugs](https://www.rugbranch.com/collections/queen-bed)
-  Updated: 2026-10-20T20:34:17Z
+- [Queen Bed Rugs](https://www.rugbranch.com/collections/queen-bed): Shop rugs for a queen bed: an 8x10 is the usual size, and a 6x9 works under the lower two thirds of the bed. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1334
-- [Full Bed Rugs](https://www.rugbranch.com/collections/full-bed-rugs)
-  Updated: 2026-10-20T20:34:17Z
+- [Full Bed Rugs](https://www.rugbranch.com/collections/full-bed-rugs): Shop rugs for a full bed: a 6x9 is the usual size, and a 5x8 fits a small room. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 896
-- [Twin Bed Rugs](https://www.rugbranch.com/collections/twin-bed-rugs): Twin Bed Rugs
-  Updated: 2026-10-20T11:13:23Z
+- [Twin Bed Rugs](https://www.rugbranch.com/collections/twin-bed-rugs): Shop rugs for a twin bed: a 5x8 is the usual size, and a 4x6 works beside the bed. Check the actual size before you order.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1291
-- [New Arrivals](https://www.rugbranch.com/collections/new-arrivals): Browse the newest rugs at Rug Branch featuring modern designs and timeless classics. Find fresh styles and premium quality rugs for every room in your home.
-  Updated: 2026-10-20T11:13:23Z
+- [New Arrivals](https://www.rugbranch.com/collections/new-arrivals): Browse the newest rugs, from modern designs to timeless classics, for every room in your home.
+  Updated: 2026-10-21T11:14:42Z
   Total Products: 256
-- [Shop By Style](https://www.rugbranch.com/collections/shop-by-style): Discover the All Rug Styles collection at Rug Branch, offering a diverse range of trendy area rugs to suit any taste and decor. From traditional to modern, bohemian to coastal, our high-quality rugs bring style and comfort to every room. Shop now and enjoy free shipping on all orders!
-  Updated: 2026-10-20T11:13:23Z
+- [Shop By Style](https://www.rugbranch.com/collections/shop-by-style): Browse area rugs by style: modern, contemporary, traditional, bohemian, farmhouse, floral, geometric and more. Pick the look that suits your room.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 497
-- [Alfombra Collection](https://www.rugbranch.com/collections/alfombra)
-  Updated: 2026-10-20T04:39:55Z
+- [Alfombra Collection](https://www.rugbranch.com/collections/alfombra): The Alfombra collection: indoor area rugs, in beige, grey and cream. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 7
-- [Aruba Collection](https://www.rugbranch.com/collections/aruba)
-  Updated: 2026-10-20T04:39:55Z
+- [Aruba Collection](https://www.rugbranch.com/collections/aruba): The Aruba collection: indoor area rugs in traditional, medallion and oriental designs, in cream, gold, brown and black. Sizes include 4x6, 5x8 and 8x11.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 5
-- [Astra Collection](https://www.rugbranch.com/collections/astra)
-  Updated: 2026-10-20T11:13:23Z
+- [Astra Collection](https://www.rugbranch.com/collections/astra): The Astra collection: indoor area rugs, in beige, cream and grey. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T11:14:42Z
   Total Products: 14
-- [Atlas Collection](https://www.rugbranch.com/collections/atlas)
-  Updated: 2026-10-20T04:39:55Z
+- [Atlas Collection](https://www.rugbranch.com/collections/atlas): The Atlas collection: indoor area rugs in medallion, traditional and abstract designs, in grey, beige, ivory and brown. Sizes include 8x11, 4x6 and 5x8.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 18
-- [Blossom Collection](https://www.rugbranch.com/collections/blossom)
-  Updated: 2026-10-20T04:39:55Z
+- [Blossom Collection](https://www.rugbranch.com/collections/blossom): The Blossom collection: indoor area rugs in botanical, contemporary and floral designs, in beige, grey, cream and red. Sizes include 4x6, 5x8 and 6x9.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 4
-- [Cadence Collection](https://www.rugbranch.com/collections/cadence)
-  Updated: 2026-10-20T04:39:55Z
+- [Cadence Collection](https://www.rugbranch.com/collections/cadence): The Cadence collection: indoor area rugs, in beige, cream, grey and brown. Sizes include 8x11, 4x6, 5x8 and 6x9.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 17
-- [Casa Collection](https://www.rugbranch.com/collections/casa)
-  Updated: 2026-10-20T04:39:55Z
+- [Casa Collection](https://www.rugbranch.com/collections/casa): The Casa collection: indoor area rugs in modern, boho and contemporary designs, in cream, beige and grey. Sizes include 2x8 and 4x6.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 11
-- [Domus Collection](https://www.rugbranch.com/collections/domus-collection)
-  Updated: 2026-10-20T04:39:55Z
+- [Domus Collection](https://www.rugbranch.com/collections/domus-collection): The Domus collection: indoor area rugs in modern, abstract and striped designs, in cream, black and green. Sizes include 4x6, 5x8 and 8x11.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 9
-- [Eclipse Collection](https://www.rugbranch.com/collections/eclipse-collection)
-  Updated: 2026-10-20T04:39:55Z
+- [Eclipse Collection](https://www.rugbranch.com/collections/eclipse-collection): The Eclipse collection: indoor area rugs, in beige, brown, cream and black. Sizes include 4x6, 5x8, 6x9 and 8x11.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 16
 - [Jute Rugs](https://www.rugbranch.com/collections/jute-rugs): Explore Rug Branch's natural jute rug collection. Featuring braided, woven, and patterned designs, our eco-friendly rugs add texture and warmth to any room. Shop now for free shipping across North America!
-  Updated: 2026-10-20T04:58:58Z
-  Total Products: 8
-- [Jules Collection](https://www.rugbranch.com/collections/jules-collection)
-  Updated: 2026-10-20T04:39:55Z
+  Updated: 2026-10-21T01:45:49Z
+  Total Products: 0
+- [Jules Collection](https://www.rugbranch.com/collections/jules-collection): The Jules collection: indoor area rugs, in grey and beige. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 6
-- [Kids Soft Steps Playtime Collection](https://www.rugbranch.com/collections/kids-soft-steps-playtime-collection)
-  Updated: 2026-10-20T11:13:23Z
+- [Kids Soft Steps Playtime Collection](https://www.rugbranch.com/collections/kids-soft-steps-playtime-collection): Kids area rugs with rainbow, road map and castle themes for bedrooms, nurseries and playrooms. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 69
-- [Maise Collection](https://www.rugbranch.com/collections/maise-collection)
-  Updated: 2026-10-20T04:39:56Z
+- [Maise Collection](https://www.rugbranch.com/collections/maise-collection): The Maise collection: indoor area rugs, in beige, cream, brown and blue. Sizes include 2x10, 2x8, 4x6 and 8x10.
+  Updated: 2026-10-24T11:14:10Z
   Total Products: 12
-- [Maison Collection](https://www.rugbranch.com/collections/maison-collection)
-  Updated: 2026-10-20T04:39:56Z
+- [Maison Collection](https://www.rugbranch.com/collections/maison-collection): The Maison collection: indoor area rugs in contemporary and geometric designs, in beige, cream and grey. Sizes include 6x9 and 8x11.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 7
-- [Nimbus Collection](https://www.rugbranch.com/collections/nimbus-collection)
-  Updated: 2026-10-20T04:39:56Z
+- [Nimbus Collection](https://www.rugbranch.com/collections/nimbus-collection): The Nimbus collection: indoor area rugs, in cream and grey. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 4
-- [Nomad Collection](https://www.rugbranch.com/collections/nomad-collection)
-  Updated: 2026-10-20T11:13:23Z
+- [Nomad Collection](https://www.rugbranch.com/collections/nomad-collection): The Nomad collection: indoor area rugs, in beige, green, cream and brown. Sizes include 4x6, 5x8, 6x9 and 8x11.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 21
-- [Premium Rug Pad](https://www.rugbranch.com/collections/premium-rug-pad)
-  Updated: 2026-10-20T11:13:23Z
+- [Premium Rug Pad](https://www.rugbranch.com/collections/premium-rug-pad): A non slip rug pad that keeps a rug flat and in place. Compare the sizes on the product page with your rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 1
-- [Supreme Rug Pad](https://www.rugbranch.com/collections/supreme-rug-pad)
-  Updated: 2026-10-20T04:39:56Z
+- [Supreme Rug Pad](https://www.rugbranch.com/collections/supreme-rug-pad): A non slip rug pad that keeps a rug flat and in place. Compare the sizes on the product page with your rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 1
-- [Deals of the Month](https://www.rugbranch.com/collections/deals-of-the-week): Shop this month's rug deals: a selected set of area rugs and runners at a reduced price. Final , so check the size before you order.
-  Updated: 2026-10-20T04:39:56Z
+- [Deals of the Month](https://www.rugbranch.com/collections/deals-of-the-week): Shop this month's rug deals: a selected set of area rugs and runners at a reduced price.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 49
 - [Best  Products](https://www.rugbranch.com/collections/best--products)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 2132
 - [Newest Products](https://www.rugbranch.com/collections/newest-products)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 2132
-- [Earthy & Natural Tones](https://www.rugbranch.com/collections/earthy-and-natural-tone-rugs): Shop Natural and Jute Rugs with earthy textures neutral tones and organic fiber designs. Add warmth and natural charm to any room with durable easy care jute area rugs.
-  Updated: 2026-10-20T11:13:23Z
+- [Earthy & Natural Tones](https://www.rugbranch.com/collections/earthy-and-natural-tone-rugs): Shop natural tone rugs in beige, tan, brown and olive, with earthy textures and neutral tones. Add warmth to a living room or bedroom.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 158
-- [Minimalist Rugs](https://www.rugbranch.com/collections/minimalist-rugs): Embrace the beauty of simplicity with our Minimalist Rugs collection. Each rug is thoughtfully designed to enhance your space with a clean and modern aesthetic. Featuring understated patterns and a serene color palette, these rugs are perfect for creating a calm and cohesive look. Crafted from high-quality materials, our minimalist rugs offer both elegance and durability. Elevate your home decor with the timeless appeal of minimalist design and experience the perfect balance of style and tranquility with Rug Branch.
-  Updated: 2026-10-20T11:13:23Z
+- [Minimalist Rugs](https://www.rugbranch.com/collections/minimalist-rugs): Shop minimalist rugs with understated patterns and a calm colour palette for a clean, cohesive look in a living room, bedroom or office.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 42
-- [Mid-Century Modern Rugs](https://www.rugbranch.com/collections/mid-century-modern-rugs): Infuse your home with retro charm and timeless sophistication with our Mid-Century Modern Rugs collection. Inspired by the iconic designs of the mid-20th century, these rugs feature bold geometric patterns, rich textures, and a vibrant color palette that captures the essence of classic modernism. Perfect for adding a touch of vintage flair to contemporary spaces, our rugs are crafted with premium materials for enduring quality and style. Explore our Mid-Century Modern Rugs at Rug Branch and bring a touch of nostalgic elegance to your decor.
-  Updated: 2026-10-20T04:39:56Z
+- [Mid-Century Modern Rugs](https://www.rugbranch.com/collections/mid-century-modern-rugs): Shop mid century modern rugs with bold geometric patterns and warm colours such as mustard, rust and olive, for rooms with wood furniture.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 41
-- [Animal Print Rugs](https://www.rugbranch.com/collections/animal-print-rugs): Explore Rug Branch's stunning collection of animal print rugs. Featuring zebra, leopard, and tiger designs, our high-quality rugs add a touch of exotic flair to any room. Shop now for free shipping across North America!
-  Updated: 2026-10-20T04:39:56Z
+- [Animal Print Rugs](https://www.rugbranch.com/collections/animal-print-rugs): Shop animal print area rugs in bold patterns for living rooms, bedrooms and entryways. Check the actual size before you order.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 7
-- [Rustic Rugs](https://www.rugbranch.com/collections/rustic-rugs): Explore Rug Branch's exquisite collection of rustic rugs. Featuring braided, jute, and kilim designs, our high-quality rugs add warmth and charm to any room. Shop now for free shipping across North America!
-  Updated: 2026-10-20T04:39:56Z
+- [Rustic Rugs](https://www.rugbranch.com/collections/rustic-rugs): Shop rustic area rugs in earthy colours such as rust, brown, cream and olive, for cabins, farmhouse rooms and rooms with wood and stone.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 10
 - [Round Rugs](https://www.rugbranch.com/collections/round-rugs): Shop round rugs in 5 ft and 8 ft sizes for entryways, bedrooms, reading corners and round dining tables. Check the actual size before you order.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 14
-- [Handmade Rugs](https://www.rugbranch.com/collections/one-of-a-kind): Shop handmade rugs at Rug Branch: one of a kind hand knotted Persian rugs in wool and cotton, plus a handmade kilim. Free shipping on orders over $50.
-  Updated: 2026-10-20T04:39:57Z
+- [Handmade Rugs](https://www.rugbranch.com/collections/one-of-a-kind): Shop handmade and one of a kind rugs, including hand knotted Persian rugs and a handmade kilim. Check the product page for the details of each rug.
+  Updated: 2026-10-21T05:14:48Z
   Total Products: 61
 - [Living Room Tables](https://www.rugbranch.com/collections/living-room-tables): Living Room Tables
   Updated: 2026-10-20T04:39:57Z
   Total Products: 0
 - [Regular (not on )](https://www.rugbranch.com/collections/regular-not-on-)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 146
-- [Shop By Size](https://www.rugbranch.com/collections/shop-area-rugs-by-size): Browse Rug Branch’s collection of area rugs by size to find the perfect fit for every room. From small accent rugs to oversized statement pieces—shop premium quality rugs in every dimension.
-  Updated: 2026-10-20T11:13:23Z
+- [Shop By Size](https://www.rugbranch.com/collections/shop-area-rugs-by-size): Shop area rugs by size, from small 2x3 accent rugs to 9x12, extra large and round sizes. Find the size that fits your room.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 683
-- [Shop By Color](https://www.rugbranch.com/collections/shop-by-color): Whether you're looking for bold hues to make a statement or neutral tones for a calming ambiance, we make it simple to find rugs that perfectly complement your décor. From timeless beige and ivory rugs to striking reds, blues, and greens, our curated color categories help you discover your ideal style in just a few clicks. Each rug in our collection is crafted with care, combining rich colors with premium materials to deliver lasting beauty and durability. Whether you’re redecorating a living room, bedroom, or office, selecting the right rug color can instantly enhance the mood and aesthetic of any space.
-  Updated: 2026-10-20T11:13:23Z
+- [Shop By Color](https://www.rugbranch.com/collections/shop-by-color): Shop area rugs by colour: beige, grey, blue, green, red, yellow, orange, pink and multi colored. Find the rug that suits your room.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 698
-- [Shop By Room](https://www.rugbranch.com/collections/shop-by-room): At Rug Branch, we make it easy to shop for area rugs by room. Whether you're styling a cozy bedroom or a spacious living room, our curated selection has the perfect rug for every space in your home. Easily find the right rug to match your room's layout, furniture setup, and style preferences.Explore our room-specific collections to discover: Living room rugs — large, statement pieces that anchor your seating area Bedroom rugs — soft, cozy options that add warmth underfoot Kitchen & entryway rugs — durable runners and accent rugs built for high-traffic areas Dining room rugs — easy-to-clean styles sized to fit your table and chairs Home office rugs — functional and stylish rugs to define your workspace Crafted from premium materials and designed with lasting beauty, every rug in our collection delivers on quality and style.Shop by room now and bring balance, warmth, and harmony to your home with the right rug from Rug Branch.
-  Updated: 2026-10-20T11:13:23Z
+- [Shop By Room](https://www.rugbranch.com/collections/shop-by-room): Shop area rugs by room: living room, kitchen, nursery, playroom and entryway. Find the right rug for your layout and furniture.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 634
-- [Ivory / Cream Rugs](https://www.rugbranch.com/collections/ivory-cream-rugs): Shop luxurious ivory and cream rugs at Rug Branch. Discover soft, neutral tones that elevate any room with warmth and elegance. Perfect for modern, classic, or boho styles. Free shipping available!
-  Updated: 2026-10-20T11:13:23Z
-  Total Products: 613
-- [Black Rugs](https://www.rugbranch.com/collections/black-rugs): Discover sleek and stylish black rugs at Rug Branch—ideal for modern, contemporary, and minimalist spaces. Add depth, contrast, and luxury to your décor. Available in various textures and sizes. Free shipping!
-  Updated: 2026-10-20T04:39:57Z
-  Total Products: 165
+- [Ivory / Cream Rugs](https://www.rugbranch.com/collections/ivory-cream-rugs): Shop ivory and cream area rugs in neutral tones for modern, classic and boho rooms, in various sizes and patterns.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 392
+- [Black Rugs](https://www.rugbranch.com/collections/black-rugs): Shop black area rugs in modern, contemporary and minimalist designs, in several sizes. Add contrast to a living room, entryway or office.
+  Updated: 2026-10-25T11:14:08Z
+  Total Products: 110
 - [Rust / Terracotta Rugs](https://www.rugbranch.com/collections/rust-terracotta-rugs): Terracotta and rust area rugs in warm, earthy tones for boho, southwestern and modern rooms, in sizes from 3x5 to 8x11.
-  Updated: 2026-10-20T04:39:57Z
+  Updated: 2026-10-21T01:17:10Z
   Total Products: 11
-- [Hogar](https://www.rugbranch.com/collections/hogar)
-  Updated: 2026-10-20T04:39:57Z
+- [Hogar](https://www.rugbranch.com/collections/hogar): The Hogar collection: indoor area rugs, in beige, grey, brown and cream. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 9
 - [All Products](https://www.rugbranch.com/collections/all-products)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 2132
-- [Modern Abstract Rugs](https://www.rugbranch.com/collections/modern-abstract-rugs): Shop Modern Abstract Rugs with artistic patterns neutral tones and contemporary designs. Add texture and style to your living room bedroom or condo with durable easy care rugs.
-
-If you want I can also create your next style page such as Geometric Vintage Distressed Scandinavian Shaggy or any others you have in mind.
-  Updated: 2026-10-20T20:34:17Z
+- [Modern Abstract Rugs](https://www.rugbranch.com/collections/modern-abstract-rugs): Shop modern abstract rugs with artistic patterns, neutral tones and contemporary designs for a living room, bedroom or condo.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 777
-- [Moroccan and Boho Rugs](https://www.rugbranch.com/collections/moroccan-and-boho-rugs): Shop Moroccan and Boho Rugs with Berber patterns soft textures and neutral tones. Create a cozy and stylish look in any room with durable easy care boho area rugs.
-  Updated: 2026-10-20T04:39:57Z
+- [Moroccan and Boho Rugs](https://www.rugbranch.com/collections/moroccan-and-boho-rugs): Shop Moroccan and boho rugs with Berber inspired patterns and neutral tones. Create a relaxed, stylish look in any room.
+  Updated: 2026-10-21T03:48:55Z
   Total Products: 106
-- [Traditional Vintage and Distressed Rugs](https://www.rugbranch.com/collections/traditional-vintage-and-distressed-rugs): Shop Traditional Vintage and Distressed Rugs with Persian inspired patterns muted tones and antique style designs. Add warmth and character to any room with durable easy care rugs.
-  Updated: 2026-10-20T11:13:23Z
+- [Traditional and Vintage Style Rugs](https://www.rugbranch.com/collections/traditional-vintage-and-distressed-rugs): Shop traditional and vintage style rugs with Persian inspired patterns and muted tones. Add warmth and character to a living room, dining room or bedroom.
+  Updated: 2026-10-25T11:14:08Z
   Total Products: 335
 - [Auctions](https://www.rugbranch.com/collections/auctions)
   Updated: 2026-10-20T04:39:57Z
   Total Products: 0
-- [2' x 6' Runner Rugs](https://www.rugbranch.com/collections/2x6-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+- [2' x 6' Runner Rugs](https://www.rugbranch.com/collections/2x6-runner-rugs): Shop 2x6 runner rugs for a short hallway, a galley kitchen or a bedside. Check the actual size shown under Size on each rug.
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 140
 - [2' x 7' Runner Rugs](https://www.rugbranch.com/collections/2x7-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 52
 - [2' x 8' Runner Rugs](https://www.rugbranch.com/collections/2x8-runner-rugs)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 279
 - [2' x 9' Runner Rugs](https://www.rugbranch.com/collections/2x9-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 43
 - [2' x 10' Runner Rugs](https://www.rugbranch.com/collections/2x10-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 111
 - [2' x 11' Runner Rugs](https://www.rugbranch.com/collections/2x11-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 43
 - [2' x 12' Runner Rugs](https://www.rugbranch.com/collections/2x12-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 49
 - [2' x 13' Runner Rugs](https://www.rugbranch.com/collections/2x13-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 91
 - [2' x 14' Runner Rugs](https://www.rugbranch.com/collections/2x14-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 44
 - [Discounted Items](https://www.rugbranch.com/collections/discounted-items)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 2106
 - [2' x 15' Runner Rugs](https://www.rugbranch.com/collections/2x5-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 319
 - [2' x 16' Runner Rugs](https://www.rugbranch.com/collections/2x16-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 53
 - [2' x 17' Runner Rugs](https://www.rugbranch.com/collections/2x17-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 42
 - [2' x 18' Runner Rugs](https://www.rugbranch.com/collections/2x18-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 70
 - [2' x 19' Runner Rugs](https://www.rugbranch.com/collections/2x19-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 42
 - [2' x 20' Runner Rugs](https://www.rugbranch.com/collections/2x20-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 91
 - [2' x 25' Runner Rugs](https://www.rugbranch.com/collections/2x25-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 40
 - [2' x 30' Runner Rugs](https://www.rugbranch.com/collections/2x30-runner-rugs)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 39
 - [Rug Branch x Maya Hand Tufted Collection](https://www.rugbranch.com/collections/maya-collection): Designed in house and hand tufted in India by our skilled artisans, this collection blends premium materials with exceptional craftsmanship and a soft, luxurious feel. Quantities are limited and once sold out, restocking is not . Secure yours before it is gone.
-  Updated: 2026-10-20T04:39:59Z
+  Updated: 2026-10-21T01:17:45Z
   Total Products: 9
 - [New Arrivals (Copy)](https://www.rugbranch.com/collections/new-arrivals-copy): Browse the newest rugs at Rug Branch featuring modern designs and timeless classics. Find fresh styles and premium quality rugs for every room in your home.
   Updated: 2026-10-20T11:13:23Z
@@ -990,60 +819,111 @@ If you want I can also create your next style page such as Geometric Vintage Dis
 - [New Arrivals (Copy)](https://www.rugbranch.com/collections/new-arrivals-copy-1): Browse the newest rugs at Rug Branch featuring modern designs and timeless classics. Find fresh styles and premium quality rugs for every room in your home.
   Updated: 2026-10-20T11:13:23Z
   Total Products: 225
-- [Bedsheets](https://www.rugbranch.com/collections/bedsheets): Upgrade your bedroom with soft and breathable bedsheets designed for everyday comfort and timeless style. Featuring cozy fabrics, elegant colors, and modern designs, our bedsheets help create a relaxing sleep space while perfectly complementing your bedding and bedroom décor.
-  Updated: 2026-10-20T04:39:59Z
+- [Bedsheets](https://www.rugbranch.com/collections/bedsheets): Shop sheet sets in cotton and French linen, in twin to king sizes. Check the product page for the material and the colours.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 15
-- [Pillowcases](https://www.rugbranch.com/collections/pillowcases): Complete your bedroom with soft and stylish pillowcases designed for everyday comfort and a cozy sleep experience. Featuring breathable fabrics, elegant colors, and timeless designs, our pillowcases add comfort, durability, and a polished look to any bedding setup.
-  Updated: 2026-10-20T04:39:59Z
+- [Pillowcases](https://www.rugbranch.com/collections/pillowcases): Shop pillowcases in queen and king sizes. Check the product page for the material and the colours.
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 8
-- [Throws](https://www.rugbranch.com/collections/throws): Wrap yourself in comfort with our stylish collection of throws designed to add warmth, texture, and elegance to any space. Perfect for sofas, beds, and cozy corners, these soft decorative throws effortlessly complement modern, boho, and contemporary home décor styles.
-  Updated: 2026-10-20T04:39:59Z
+- [Throws](https://www.rugbranch.com/collections/throws): Shop throws in cotton and acrylic, in navy, blue, parchment, black and more. Add colour and texture to a sofa, a bed or a chair.
+  Updated: 2026-10-21T03:49:01Z
   Total Products: 28
-- [Pillow With Insert](https://www.rugbranch.com/collections/pillow-with-insert): Add comfort and style to your home with decorative pillows featuring included inserts for a full, plush look. Perfect for sofas, beds, and accent chairs, these cozy pillows bring texture, warmth, and modern elegance to any living space.
-  Updated: 2026-10-20T04:39:59Z
+- [Pillow With Insert](https://www.rugbranch.com/collections/pillow-with-insert): Shop decorative pillows that include an insert, in a range of sizes and colours for sofas, beds and accent chairs.
+  Updated: 2026-10-21T03:49:02Z
   Total Products: 0
 - [Pillow With Insert](https://www.rugbranch.com/collections/pillow-with-insert-1)
-  Updated: 2026-10-20T04:39:59Z
+  Updated: 2026-10-21T01:17:45Z
   Total Products: 56
-- [Duvet Cover Set](https://www.rugbranch.com/collections/duvet-cover-set): Refresh your bedroom with stylish duvet cover sets designed for comfort, softness, and everyday elegance. Featuring modern patterns, cozy textures, and breathable fabrics, our duvet covers help create a warm and inviting bedroom while complementing a variety of décor styles.
-  Updated: 2026-10-20T04:39:59Z
+- [Duvet Cover Set](https://www.rugbranch.com/collections/duvet-cover-set): Shop duvet cover sets in textured cotton and French linen, in twin to super king sizes. Check the product page for the material and colours.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 37
-- [Comforter Sets](https://www.rugbranch.com/collections/comforter-sets): Upgrade your bedroom with cozy and stylish comforter sets designed for everyday comfort and modern living. Featuring soft fabrics, elegant textures, and timeless designs, our comforter sets help create a warm, relaxing, and beautifully layered bedroom space.
-  Updated: 2026-10-20T04:39:59Z
+- [Comforter Sets](https://www.rugbranch.com/collections/comforter-sets): Shop comforter sets in mulberry silk, bamboo and cotton, in twin to super king sizes. Check the product page for the material and fill.
+  Updated: 2026-10-21T03:49:45Z
   Total Products: 17
-- [Bedding](https://www.rugbranch.com/collections/bedding): Soft, breathable bedding for everyday comfort. The collection includes 600 thread count long staple cotton sheets, jacquard microfiber duvet covers, and comforter sets, in a range of colours to suit your bedroom.
-  Updated: 2026-10-20T04:39:59Z
+- [Bedding](https://www.rugbranch.com/collections/bedding): Shop sheet sets, duvet cover sets, comforter sets, pillows and throws in a range of colours to suit your bedroom.
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 161
 - [Stair Treads](https://www.rugbranch.com/collections/stair-treads)
   Updated: 2026-10-20T04:39:59Z
   Total Products: 126
 - [Exclusively Pre-Order](https://www.rugbranch.com/collections/exclusively-pre-order)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 25
 - [Pre-order](https://www.rugbranch.com/collections/pre-order)
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 25
 - [ Eligible: Full Price Items (hidden)](https://www.rugbranch.com/collections/-eligible-full-price-items-hidden)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 1939
+- [8'x10' Rugs](https://www.rugbranch.com/collections/8x10-rugs): Shop 8x10 area rugs in contemporary, geometric, abstract and traditional designs, in cream, beige, grey and blue. Polyester and polypropylene.
+  Updated: 2026-10-24T11:14:10Z
+  Total Products: 863
+- [Nursery Rugs](https://www.rugbranch.com/collections/nursery-rugs): Shop nursery rugs in calm cream, pink and pastel rainbow designs with stars, daisies and safari animals. Sized for cribs, rocking chairs and play areas.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 16
+- [Playroom Rugs](https://www.rugbranch.com/collections/playroom-rugs): Shop playroom rugs for kids and toddlers in rainbow, unicorn, airplane, safari and road map designs. Large and small sizes for floor play.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 21
+- [Girls' Rugs](https://www.rugbranch.com/collections/girls-rugs): Shop girls' rugs in pink, cream and purple, with rainbows, unicorns and daisies. Bedroom and playroom rugs in sizes from small to large.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 7
+- [Boys' Rugs](https://www.rugbranch.com/collections/boys-rugs): Shop boys' rugs with airplanes, cars and trucks, road maps and blue rainbow designs. Bedroom and playroom rugs in sizes from small to large.
+  Updated: 2026-10-24T11:14:10Z
+  Total Products: 6
+- [Rainbow Rugs for Kids](https://www.rugbranch.com/collections/rainbow-kids-rugs): Shop rainbow rugs for kids in pink, blue, navy and white, from arch rainbows to modern stripes. Bedroom and playroom sizes.
+  Updated: 2026-10-21T01:18:19Z
+  Total Products: 7
+- [Pre-Teen Rugs](https://www.rugbranch.com/collections/pre-teen-rugs): Shop pre-teen rugs for tween bedrooms: modern rainbows, stripes, ombre and light florals in pink, purple, blue and cream.
+  Updated: 2026-10-21T01:18:19Z
+  Total Products: 10
+- [Teen Room Rugs](https://www.rugbranch.com/collections/teen-room-rugs): Shop teen room rugs: checkered, mid-century, ombre, boho and purple abstract designs for bedrooms and dorms, in sizes from 4x6 to 8x11.
+  Updated: 2026-10-21T01:18:19Z
+  Total Products: 20
+- [Fall Decor & Halloween Rugs](https://www.rugbranch.com/collections/fall-decor-halloween-rugs): Shop fall decor and Halloween rugs in rust, orange, gold, burgundy, deep green and black. Warm autumn colours for living rooms, bedrooms and entryways.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 80
+- [Christmas Rugs](https://www.rugbranch.com/collections/christmas-rugs): Shop Christmas rugs in red, deep green, gold, cream and plaid, plus snow white plush rugs. Festive colours for living rooms, dining rooms and entryways.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 26
+- [Living Room Rugs](https://www.rugbranch.com/collections/living-room-rugs): Shop living room rugs in 5x8 and larger sizes: contemporary, geometric, traditional and boho designs in cream, beige, grey, blue and more.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 421
+- [Kitchen Rugs](https://www.rugbranch.com/collections/kitchen-rugs): Shop kitchen rugs: runners and small rugs in patterned and tonal designs, in sizes from 2x3 to 3x5 and long runner lengths.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 91
+- [Toddler Rugs](https://www.rugbranch.com/collections/toddler-rugs): Shop toddler rugs with rainbows, stars, daisies, stripes and friendly animals. Simple play rugs in gentle colours for toddler bedrooms and playrooms.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 15
 - [Full price items (no deals)](https://www.rugbranch.com/collections/full-price-items-no-deals)
-  Updated: 2026-10-20T20:34:17Z
+  Updated: 2026-10-27T08:05:19Z
   Total Products: 2083
 - [Entryway Rugs](https://www.rugbranch.com/collections/entryway-rugs): Shop entryway rugs in 2x3, 3x5 and runner sizes for a front door, foyer or hallway, in patterns and tones that suit a busy entrance.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 120
 - [2x3 Rugs](https://www.rugbranch.com/collections/2x3-rugs): Shop 2x3 rugs, the small size for a front door, a kitchen sink, a bathroom or a bedside, in patterns and colours that suit a busy spot.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 21
 - [5x8 Rugs](https://www.rugbranch.com/collections/5x8-rugs): Shop 5x8 rugs for bedrooms, offices, small living rooms and dining nooks, in contemporary, traditional, geometric and boho designs.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 320
 - [7x10 Rugs](https://www.rugbranch.com/collections/7x10-rugs): Shop 7x10 rugs, a mid large size between 6x9 and 8x10, for living rooms, dining rooms and bedrooms in contemporary, traditional and boho designs.
-  Updated: 2026-10-20T11:13:23Z
+  Updated: 2026-10-26T11:14:48Z
   Total Products: 54
 - [Extra Large Rugs](https://www.rugbranch.com/collections/extra-large-rugs): Shop extra large rugs in 10x13, 10x14 and 12x18 for great rooms, open plan spaces and big dining rooms. Check the actual size before you order.
-  Updated: 2026-10-20T11:13:23Z
-  Total Products: 16
+  Updated: 2026-10-25T11:14:08Z
+  Total Products: 736
+- [Loved by Your Pets](https://www.rugbranch.com/collections/loved-by-your-pets): Real photos from customers who share their rugs at home with their pets. Browse the designs and check the actual size before you order.
+  Updated: 2026-10-21T01:18:45Z
+  Total Products: 12
+- [Bedroom Rugs](https://www.rugbranch.com/collections/bedroom-rugs): Shop bedroom rugs in 5x8, 6x9, 8x10 and larger sizes for twin, full, queen and king beds, in calm neutrals, patterns and bold colours.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 421
+- [Dining Room Rugs](https://www.rugbranch.com/collections/dining-room-rugs): Shop dining room rugs in 6x9, 8x10, 9x12 and larger sizes. Find a size that keeps the chairs on the rug, in patterns and colours that hide everyday marks.
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 380
+- [Rugs excluding deals](https://www.rugbranch.com/collections/rugs-excluding-deals)
+  Updated: 2026-10-26T11:14:48Z
+  Total Products: 1699
 
 ## Blogs
 
@@ -1181,7 +1061,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Updated: 2026-09-09T18:51:21Z
     Author: Hameem Nayyer
   - [Farmhouse Area Rugs: Jute, Plaid, Wool & Vintage Style](https://www.rugbranch.com/blogs/rugs/area-rugs-for-farmhouse-style): Farmhouse Area Rugs: Jute, Plaid, Wool & Vintage Style
-    Updated: 2026-10-15T13:00:03Z
+    Updated: 2026-10-27T18:00:03Z
     Author: Hameem Nayyer
   - [Pet-Friendly Area Rugs: Durable, Stain-Resistant, Washable](https://www.rugbranch.com/blogs/rugs/area-rugs-for-pet-friendly-homes): Pet-Friendly Area Rugs: Durable, Stain-Resistant, Washable
     Updated: 2026-10-08T18:00:03Z
@@ -1238,13 +1118,13 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Updated: 2026-10-18T15:00:04Z
     Author: Hameem Nayyer
   - [Best Area Rugs for Under the Bed: Sizes & Placement](https://www.rugbranch.com/blogs/rugs/best-area-rugs-for-under-the-bed): Best Area Rugs for Under the Bed: Sizes & Placement
-    Updated: 2026-10-05T13:00:03Z
+    Updated: 2026-10-22T13:00:02Z
     Author: Hameem Nayyer
   - [Best Area Rugs for Rental Homes: Durable & Easy-Clean](https://www.rugbranch.com/blogs/rugs/area-rugs-for-rental-homes): Best Area Rugs for Rental Homes: Durable & Easy-Clean
     Updated: 2026-10-01T19:26:54Z
     Author: Hameem Nayyer
   - [Area Runner Rugs: Sizes, Placement & Care | Rug Branch](https://www.rugbranch.com/blogs/rugs/area-runner-rugs-stylish-durable-for-every-space): Area Runner Rugs: Sizes, Placement & Care | Rug Branch
-    Updated: 2026-10-16T17:36:33Z
+    Updated: 2026-10-26T15:00:08Z
     Author: Hameem Nayyer
   - [Best Rug Care Practices to Prolong Rug Life | Rug Branch](https://www.rugbranch.com/blogs/rugs/best-practices-for-maintaining-and-prolonging-rug-life): Best Rug Care Practices to Prolong Rug Life | Rug Branch
     Updated: 2026-10-16T17:36:26Z
@@ -1259,7 +1139,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Updated: 2026-10-08T13:00:03Z
     Author: Hameem Nayyer
   - [Dining Room Area Rugs | Styles & Placement Tips | Rug Branch](https://www.rugbranch.com/blogs/rugs/area-rugs-for-dining-room): Dining Room Area Rugs | Styles & Placement Tips | Rug Branch
-    Updated: 2026-10-09T16:00:03Z
+    Updated: 2026-10-25T16:00:10Z
     Author: Hameem Nayyer
   - [Area Rugs for Under Coffee Table | Rug Branch](https://www.rugbranch.com/blogs/rugs/area-rugs-for-under-coffee-table): Area Rugs for Under Coffee Table | Rug Branch
     Updated: 2026-10-02T16:26:30Z
@@ -1320,7 +1200,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Updated: 2026-10-05T15:00:10Z
     Author: Hameem Nayyer
   - [Long Runner Rugs: Sizes, Styles & Buying Guide](https://www.rugbranch.com/blogs/rugs/long-runner-rugs-style-function-and-the-ultimate-buying-guide): Long Runner Rugs: Sizes, Styles & Buying Guide
-    Updated: 2026-10-01T19:26:22Z
+    Updated: 2026-10-26T15:00:07Z
     Author: Hameem Nayyer
   - [How to Clean an Area Rug: Step-by-Step Guide](https://www.rugbranch.com/blogs/rugs/how-to-clean-area-rug-spring-cleaning): How to Clean an Area Rug: Step-by-Step Guide
     Updated: 2026-10-14T16:00:04Z
@@ -1387,7 +1267,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs canada, best rug stores, canadian retailers, online rug shopping canada, rug store comparison
   - [Best Area Rug for Bedroom: Size, Style and Material](https://www.rugbranch.com/blogs/rugs/best-area-rug-for-bedroom): Best Area Rug for Bedroom: Size, Style and Material
-    Updated: 2026-10-16T16:00:04Z
+    Updated: 2026-10-22T15:00:08Z
     Author: Shopify API
     Tags: area rug guide, bedroom decor, bedroom rugs, buying guide, rug size
   - [Polypropylene Rug Pros and Cons: Complete Material Guide](https://www.rugbranch.com/blogs/rugs/polypropylene-rug-pros-cons): Polypropylene Rug Pros and Cons: Complete Material Guide
@@ -1411,7 +1291,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: 9x12 area rug, area rugs, buying guide, large area rugs, rug sizing
   - [Rug Color Ideas for a Beige Sofa: 12 Combinations](https://www.rugbranch.com/blogs/rugs/rug-color-ideas-for-beige-sofa): Rug Color Ideas for a Beige Sofa: 12 Combinations
-    Updated: 2026-10-09T01:00:05Z
+    Updated: 2026-10-26T18:00:07Z
     Author: Shopify API
     Tags: area rugs, beige sofa, interior design, living room rugs, rug color ideas
   - [How to Clean a Wool Rug: Complete Step-by-Step Guide](https://www.rugbranch.com/blogs/rugs/how-to-clean-a-wool-rug-complete-guide): How to Clean a Wool Rug: Complete Step-by-Step Guide
@@ -1423,7 +1303,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs canada, buying guide, canadian home decor, wool rug care, wool rugs canada
   - [How Big Is an 8x10 Rug? Size in Inches, Feet & CM](https://www.rugbranch.com/blogs/rugs/8x10-area-rug): How Big Is an 8x10 Rug? Size in Inches, Feet & CM
-    Updated: 2026-10-14T20:12:41Z
+    Updated: 2026-10-25T13:00:02Z
     Author: Shopify API
     Tags: 8x10 rug, area rugs, buying guide, living room rug, rug sizing
   - [How to Measure for an Area Rug: Room-by-Room Guide](https://www.rugbranch.com/blogs/rugs/how-to-measure-for-an-area-rug): How to Measure for an Area Rug: Room-by-Room Guide
@@ -1447,7 +1327,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rug ideas, home decor, layered rugs, rug layering, rug styling
   - [What Color Rug Goes With a Brown Couch? 15 Ideas](https://www.rugbranch.com/blogs/rugs/rug-color-ideas-for-brown-furniture): What Color Rug Goes With a Brown Couch? 15 Ideas
-    Updated: 2026-10-18T13:00:04Z
+    Updated: 2026-10-27T15:00:10Z
     Author: Shopify API
     Tags: brown furniture, buying guide, interior design, living room, rug colors
   - [Outdoor Rugs Canada: Best Patio & Balcony Rugs](https://www.rugbranch.com/blogs/rugs/outdoor-rugs-canada-complete-guide): Outdoor Rugs Canada: Best Patio & Balcony Rugs
@@ -1503,7 +1383,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: home decor, japandi, minimalist rugs, natural fiber rugs, scandinavian style
   - [Best Area Rug for Entryway: 2026 Buying Guide](https://www.rugbranch.com/blogs/rugs/area-rug-for-entryway-buying-guide): Best Area Rug for Entryway: 2026 Buying Guide
-    Updated: 2026-10-14T15:00:09Z
+    Updated: 2026-10-25T16:00:11Z
     Author: Shopify API
     Tags: entryway rug, foyer rug, high-traffic rug, rug buying guide, small rugs
   - [How to Stop a Rug from Slipping: 7 Proven Methods](https://www.rugbranch.com/blogs/rugs/how-to-stop-rug-from-slipping): How to Stop a Rug from Slipping: 7 Proven Methods
@@ -1511,7 +1391,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: how to, non-slip rug, rug care, rug pad, rug safety
   - [Best Area Rug for Dining Room | Complete Buying Guide](https://www.rugbranch.com/blogs/rugs/best-area-rug-for-dining-room): Best Area Rug for Dining Room | Complete Buying Guide
-    Updated: 2026-10-15T20:00:03Z
+    Updated: 2026-10-25T15:00:06Z
     Author: Shopify API
     Tags: area rug size guide, dining room decor, dining room rug, rug buying guide, stain resistant rugs
   - [Area Rug for Open Floor Plan | Complete Guide](https://www.rugbranch.com/blogs/rugs/area-rug-for-open-floor-plan): Area Rug for Open Floor Plan | Complete Guide
@@ -1547,7 +1427,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: 2025, buying guide, home decor, style, trends
   - [Scandinavian Rug Style: Nordic Minimalism Guide](https://www.rugbranch.com/blogs/rugs/scandinavian-rug-style-nordic-minimalism-guide): Scandinavian Rug Style: Nordic Minimalism Guide
-    Updated: 2026-10-02T16:26:39Z
+    Updated: 2026-10-21T13:00:03Z
     Author: Shopify API
     Tags: home decor, minimalist, nordic, scandinavian, style
   - [Best Area Rugs Under $100: What You Can Get](https://www.rugbranch.com/blogs/rugs/best-area-rugs-under-100-budget-friendly): Best Area Rugs Under $100: What You Can Get
@@ -1647,7 +1527,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs ottawa, canada, on, rugs ottawa, where to buy rugs ottawa
   - [Abstract Rug Decor Trend: 2026 Style Guide](https://www.rugbranch.com/blogs/rugs/abstract-rug-decor-trend-style-guide-2026): Abstract Rug Decor Trend: 2026 Style Guide
-    Updated: 2026-10-16T15:00:03Z
+    Updated: 2026-10-27T15:00:10Z
     Author: Shopify API
     Tags: abstract rug decor trend, abstract rugs, area rug style 2026, modern home decor, rug decor trend
   - [Shag Rugs Canada: 2026 Complete Buyer's Guide](https://www.rugbranch.com/blogs/rugs/shag-rugs-canada-complete-buyers-guide-2026): Shag Rugs Canada: 2026 Complete Buyer's Guide
@@ -1887,7 +1767,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs quebec city, canada, qc, rugs quebec city, where to buy rugs quebec city
   - [Geometric Area Rugs: Complete 2026 Style & Buying Guide](https://www.rugbranch.com/blogs/rugs/geometric-area-rugs-2026-complete-style-guide): Geometric Area Rugs: Complete 2026 Style & Buying Guide
-    Updated: 2026-10-03T18:00:04Z
+    Updated: 2026-10-27T18:00:02Z
     Author: Shopify API
     Tags: area rug buying guide, geometric area rugs, geometric rugs, modern area rugs, rug styles 2026
   - [Mid-Century Modern Rugs: Style & Buying Guide 2026](https://www.rugbranch.com/blogs/rugs/mid-century-modern-area-rugs-style-buying-guide-2026): Mid-Century Modern Rugs: Style & Buying Guide 2026
@@ -2395,7 +2275,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: buying guide, fade resistant rugs, garden room rugs, greenhouse rugs, moisture resistant rugs
   - [Compact Area Rugs: Sizes, Placement & Buying Guide](https://www.rugbranch.com/blogs/rugs/compact-area-rugs): Compact Area Rugs: Sizes, Placement & Buying Guide
-    Updated: 2026-10-01T19:23:46Z
+    Updated: 2026-10-24T20:00:05Z
     Author: Shopify API
     Tags: compact area rugs, rug placement, rug size guide, runner rugs, small rugs
   - [Best Rugs for a Powder Room | Small-Space Guide | Rug Branch](https://www.rugbranch.com/blogs/rugs/best-rugs-for-a-powder-room): Best Rugs for a Powder Room | Small-Space Guide | Rug Branch
@@ -2427,7 +2307,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs richmond, bc, canada, rugs richmond, where to buy rugs richmond
   - [Best Rug Pad for Elderly Tripping Prevention Guide](https://www.rugbranch.com/blogs/rugs/best-rug-pad-for-elderly-tripping-prevention): Best Rug Pad for Elderly Tripping Prevention Guide
-    Updated: 2026-10-01T19:23:33Z
+    Updated: 2026-10-27T13:00:02Z
     Author: Shopify API
     Tags: fall prevention, non-slip rugs, rug pads, senior safety
   - [Best Area Rugs for a Sewing Room | Rug Branch](https://www.rugbranch.com/blogs/rugs/best-area-rugs-for-sewing-room): Best Area Rugs for a Sewing Room | Rug Branch
@@ -2451,7 +2331,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs fontana, california, rugs fontana, usa, where to buy rugs fontana
   - [How to Pick the Right Size Rug for a Room](https://www.rugbranch.com/blogs/rugs/how-to-pick-the-right-size-rug-for-a-room): How to Pick the Right Size Rug for a Room
-    Updated: 2026-10-18T16:00:04Z
+    Updated: 2026-10-22T15:00:07Z
     Author: Shopify API
     Tags: area rugs, home decor, interior design, rug size guide, rug sizing
   - [Where to Buy Area Rugs in Moreno Valley, CA: 2026 Buyer's Guide | Rug Branch](https://www.rugbranch.com/blogs/rugs/where-to-buy-rugs-moreno-valley-ca): Where to Buy Area Rugs in Moreno Valley, CA: 2026 Buyer's Guide | Rug Branch
@@ -2483,7 +2363,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rugs worcester, massachusetts, rugs worcester, usa, where to buy rugs worcester
   - [Wash a Washable Rug With a Rug Pad Underneath](https://www.rugbranch.com/blogs/rugs/wash-a-washable-rug-with-a-rug-pad-underneath): Wash a Washable Rug With a Rug Pad Underneath
-    Updated: 2026-10-08T23:00:05Z
+    Updated: 2026-10-27T16:00:04Z
     Author: Shopify API
     Tags: cleaning rugs, rug care, rug pads, washable rugs
   - [Where to Buy Area Rugs in Richmond Hill, ON: 2026 Buyer's Guide | Rug Branch](https://www.rugbranch.com/blogs/rugs/where-to-buy-rugs-richmond-hill-on): Where to Buy Area Rugs in Richmond Hill, ON: 2026 Buyer's Guide | Rug Branch
@@ -2555,7 +2435,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: area rug maintenance, how to store a rug, protect rugs, rug care, rug storage
   - [What Color Rug Goes With a Leather Sofa?](https://www.rugbranch.com/blogs/rugs/what-color-rug-goes-with-a-leather-sofa): What Color Rug Goes With a Leather Sofa?
-    Updated: 2026-10-20T18:00:03Z
+    Updated: 2026-10-26T18:00:06Z
     Author: Shopify API
     Tags: area rug ideas, leather sofa rug, living room rugs, rug colours, rug pairing
   - [How to Fix a Fraying Rug: Easy DIY Repair](https://www.rugbranch.com/blogs/rugs/how-to-fix-a-fraying-rug): How to Fix a Fraying Rug: Easy DIY Repair
@@ -2631,7 +2511,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: rug binding, rug buying guide, rug edge finishes, rug fringe, serged rug edge
   - [What Size Rug for a King Bed? Sizing Guide](https://www.rugbranch.com/blogs/rugs/what-size-rug-for-a-king-bed): What Size Rug for a King Bed? Sizing Guide
-    Updated: 2026-10-13T20:00:13Z
+    Updated: 2026-10-22T18:00:04Z
     Author: Shopify API
     Tags: area rug sizing, bedroom rug size, king bed rug, rug placement, what size rug for a king bed
   - [Fade Resistant Outdoor Rugs: What to Look For](https://www.rugbranch.com/blogs/rugs/fade-resistant-outdoor-rugs): Fade Resistant Outdoor Rugs: What to Look For
@@ -2647,7 +2527,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: rug cleaning, stain removal, wool rug care, wool rugs
   - [Fall Area Rug Ideas: Warm, Cozy Picks for 2026](https://www.rugbranch.com/blogs/rugs/fall-area-rug-ideas): Fall Area Rug Ideas: Warm, Cozy Picks for 2026
-    Updated: 2026-10-09T23:00:05Z
+    Updated: 2026-10-26T13:00:05Z
     Author: Shopify API
     Tags: area rugs, cozy home decor, fall rugs, seasonal decor, warm tone rugs
   - [Do Polypropylene Rugs Shed? The Honest Answer](https://www.rugbranch.com/blogs/rugs/do-polypropylene-rugs-shed): Do Polypropylene Rugs Shed? The Honest Answer
@@ -2671,7 +2551,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: anti-fatigue kitchen mats, buying guide, kitchen rugs, kitchen runner, rug pad
   - [Area Rug for a Kids Study Room: Setup Guide](https://www.rugbranch.com/blogs/rugs/area-rug-for-a-kids-study-room): Area Rug for a Kids Study Room: Setup Guide
-    Updated: 2026-10-16T17:36:21Z
+    Updated: 2026-10-26T16:00:04Z
     Author: Shopify API
     Tags: back to school, buying guide, kids rugs, kids study room rug, study room
   - [Entry-Level Area Rug: How to Choose One Well](https://www.rugbranch.com/blogs/rugs/best-entry-level-area-rug): Entry-Level Area Rug: How to Choose One Well
@@ -2703,7 +2583,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: best rugs for LVP, flooring guide, LVP rugs, rug pad for vinyl, rugs for vinyl plank floors
   - [How to Dry a Wet Rug: Fast, Mold-Free Steps](https://www.rugbranch.com/blogs/rugs/how-to-dry-a-wet-rug): How to Dry a Wet Rug: Fast, Mold-Free Steps
-    Updated: 2026-10-14T16:00:03Z
+    Updated: 2026-10-27T16:00:04Z
     Author: Shopify API
     Tags: prevent mold, rug care, rug drying, water damage, wet rug
   - [Best Rugs for Allergy Sufferers: Top Picks](https://www.rugbranch.com/blogs/rugs/best-rugs-for-allergy-sufferers): Best Rugs for Allergy Sufferers: Top Picks
@@ -2715,7 +2595,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: buying guide, hand-knotted rugs, hand-tufted rugs, rug construction, wool rugs
   - [Earth Tone Rugs: Warm Color Buying Guide](https://www.rugbranch.com/blogs/rugs/earth-tone-rugs-complete-style-guide): Earth Tone Rugs: Warm Color Buying Guide
-    Updated: 2026-10-08T13:02:23Z
+    Updated: 2026-10-26T13:00:05Z
     Author: Shopify API
     Tags: earth tone rugs, living room rugs, natural rugs, style guide, warm colors
   - [Black Area Rugs: Styling & Care Guide](https://www.rugbranch.com/blogs/rugs/black-area-rugs-styling-and-buying-guide): Black Area Rugs: Styling & Care Guide
@@ -2759,11 +2639,11 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: decor guide, open concept rugs, rug placement, rug styling, two rugs one room
   - [3'6 x 5'6 Rug Size: Inches, Feet & CM](https://www.rugbranch.com/blogs/rugs/3-6-x-5-6-rug-size): 3'6 x 5'6 Rug Size: Inches, Feet & CM
-    Updated: 2026-10-12T13:47:50Z
+    Updated: 2026-10-22T18:00:02Z
     Author: Shopify API
     Tags: accent rugs, area rug size guide, rug sizes, small rugs
   - [Rugs That Make a Room Look Bigger](https://www.rugbranch.com/blogs/rugs/rugs-that-make-a-room-look-bigger): Rugs That Make a Room Look Bigger
-    Updated: 2026-10-13T20:00:12Z
+    Updated: 2026-10-22T16:00:03Z
     Author: Shopify API
     Tags: decor tips, make room look bigger, rug color, rug size guide, small space rugs
   - [Yellow and Orange Area Rugs: Styling Guide](https://www.rugbranch.com/blogs/rugs/yellow-and-orange-area-rugs-styling-buying-guide): Yellow and Orange Area Rugs: Styling Guide
@@ -2819,7 +2699,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: new rug smell, odor removal, rug care, rug tips
   - [Oval Rug Sizes: Standard Dimensions Guide](https://www.rugbranch.com/blogs/rugs/oval-rug-sizes): Oval Rug Sizes: Standard Dimensions Guide
-    Updated: 2026-10-17T13:00:02Z
+    Updated: 2026-10-22T18:00:03Z
     Author: Shopify API
     Tags: Buying Guide, Oval Rugs, Round Rugs, Rug Shapes, Rug Sizes
   - [Rug Ideas for a French Country Home: Guide](https://www.rugbranch.com/blogs/rugs/rug-ideas-for-a-french-country-home): Rug Ideas for a French Country Home: Guide
@@ -2843,7 +2723,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: abstract rugs, grey rugs, industrial loft, loft rugs, modern rugs
   - [Teen Bedroom Rug Ideas: Size, Color, Care](https://www.rugbranch.com/blogs/rugs/teen-bedroom-rug-ideas): Teen Bedroom Rug Ideas: Size, Color, Care
-    Updated: 2026-10-19T08:45:26Z
+    Updated: 2026-10-21T13:00:04Z
     Author: Shopify API
     Tags: area rug ideas, kids room decor, rug sizing, teen bedroom rugs
   - [Rug Colors for Light Oak Floors: A Guide](https://www.rugbranch.com/blogs/rugs/rug-colors-for-light-oak-floors): Rug Colors for Light Oak Floors: A Guide
@@ -2867,7 +2747,7 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: cleaning, red wine, rug care, stain removal
   - [How Far Should a Rug Extend? Placement Rules](https://www.rugbranch.com/blogs/rugs/how-far-should-a-rug-extend-past-furniture): How Far Should a Rug Extend? Placement Rules
-    Updated: 2026-10-19T08:48:17Z
+    Updated: 2026-10-27T15:00:11Z
     Author: Shopify API
     Tags: dining room rugs, how to decorate, living room rugs, rug placement, rug sizing
   - [Rug Materials Compared: Which Should You Pick?](https://www.rugbranch.com/blogs/rugs/rug-materials-compared): Rug Materials Compared: Which Should You Pick?
@@ -2903,9 +2783,77 @@ If you want I can also create your next style page such as Geometric Vintage Dis
     Author: Shopify API
     Tags: rug buying guide, rug construction, rug glossary, rug materials, rug terms
   - [What Colour Rug Goes With a Black Leather Couch](https://www.rugbranch.com/blogs/rugs/what-colour-rug-goes-with-a-black-leather-couch): What Colour Rug Goes With a Black Leather Couch
-    Updated: 2026-10-20T18:00:02Z
+    Updated: 2026-10-21T14:26:12Z
     Author: Shopify API
     Tags: black leather couch, living room rugs, rug colours, rug pairing
+  - [Scandinavian Bedroom Rug Ideas & Picks](https://www.rugbranch.com/blogs/rugs/scandinavian-bedroom-rug-ideas): Scandinavian Bedroom Rug Ideas & Picks
+    Updated: 2026-10-21T14:24:55Z
+    Author: Shopify API
+    Tags: bedroom rugs, minimalist decor, neutral rugs, scandinavian rugs
+  - [What Size Rug Goes Under a Queen Bed?](https://www.rugbranch.com/blogs/rugs/what-size-rug-goes-under-a-queen-bed): What Size Rug Goes Under a Queen Bed?
+    Updated: 2026-10-26T16:00:05Z
+    Author: Shopify API
+    Tags: bedroom rugs, queen bed rugs, rug placement, rug size guide
+  - [7x10 Rug Size Guide: 7x10 vs 6x9 vs 8x10](https://www.rugbranch.com/blogs/rugs/7x10-rug-size-guide): 7x10 Rug Size Guide: 7x10 vs 6x9 vs 8x10
+    Updated: 2026-10-25T13:00:04Z
+    Author: Shopify API
+    Tags: 7x10 rugs, area rug sizes, living room rugs, rug size guide
+  - [What Size Rug for a 10x12 Room?](https://www.rugbranch.com/blogs/rugs/what-size-rug-for-a-10x12-room): What Size Rug for a 10x12 Room?
+    Updated: 2026-10-23T14:35:00Z
+    Author: Shopify API
+    Tags: 10x12 room, large area rugs, living room rugs, rug placement, rug size guide
+  - [The Actual Size of a Rug vs the Label](https://www.rugbranch.com/blogs/rugs/actual-size-of-a-rug): The Actual Size of a Rug vs the Label
+    Updated: 2026-10-25T13:00:03Z
+    Author: Shopify API
+    Tags: actual rug size, buying guide, nominal size, rug dimensions, rug size
+  - [Where to Use a 2x3 Rug: Best Spots](https://www.rugbranch.com/blogs/rugs/where-to-use-a-2x3-rug): Where to Use a 2x3 Rug: Best Spots
+    Updated: 2026-10-24T20:00:03Z
+    Author: Shopify API
+    Tags: 2x3 rugs, accent rugs, rug placement, small rugs
+  - [5x8 vs 6x9 vs 8x10: Which Rug Size?](https://www.rugbranch.com/blogs/rugs/5x8-vs-6x9-vs-8x10-rug-size): 5x8 vs 6x9 vs 8x10: Which Rug Size?
+    Updated: 2026-10-25T13:00:02Z
+    Author: Shopify API
+    Tags: 5x8 rugs, 6x9 rugs, 8x10 rugs, rug size guide, rug sizes
+  - [See a Rug in Your Room at Its True Size](https://www.rugbranch.com/blogs/rugs/see-a-rug-in-your-room-at-its-true-size): See a Rug in Your Room at Its True Size
+    Updated: 2026-10-25T15:00:06Z
+    Author: Shopify API
+    Tags: area rug size, how to buy a rug, rug shopping tips, rug sizing, see it in your room
+  - [Christmas Rug Ideas: Entryway and Living Room](https://www.rugbranch.com/blogs/rugs/christmas-rug-ideas-entryway-and-living-room): Christmas Rug Ideas: Entryway and Living Room
+    Updated: 2026-10-25T16:00:06Z
+    Author: Shopify API
+    Tags: christmas rugs, entryway rugs, holiday decor, living room rugs, seasonal rugs
+  - [Fall to Winter Rug Swap: Nov and Dec](https://www.rugbranch.com/blogs/rugs/fall-to-winter-rug-swap): Fall to Winter Rug Swap: Nov and Dec
+    Updated: 2026-10-26T13:00:04Z
+    Author: Shopify API
+    Tags: fall rugs, rug styling, seasonal rugs, warm colors, winter rugs
+  - [Runner Beside a Bed: Sizes and Placement](https://www.rugbranch.com/blogs/rugs/runner-beside-a-bed): Runner Beside a Bed: Sizes and Placement
+    Updated: 2026-10-26T15:00:06Z
+    Author: Shopify API
+    Tags: area rugs, bedroom rugs, rug runners, rug sizing, runner placement
+  - [Kids Room Rug Size by Age: Nursery to Tween](https://www.rugbranch.com/blogs/rugs/kids-room-rug-size-by-age): Kids Room Rug Size by Age: Nursery to Tween
+    Updated: 2026-10-26T16:00:02Z
+    Author: Shopify API
+    Tags: kids room, kids rugs, nursery rugs, playroom rugs, rug size guide
+  - [Rug Color for a Green Sofa: Best Pairings](https://www.rugbranch.com/blogs/rugs/rug-color-for-a-green-sofa): Rug Color for a Green Sofa: Best Pairings
+    Updated: 2026-10-26T18:00:05Z
+    Author: Shopify API
+    Tags: color pairing, green sofa, living room rugs, rug color
+  - [What Size Rug Pad to Buy (and How to Cut It)](https://www.rugbranch.com/blogs/rugs/what-size-rug-pad-to-buy): What Size Rug Pad to Buy (and How to Cut It)
+    Updated: 2026-10-27T13:00:01Z
+    Author: Shopify API
+    Tags: area rug accessories, non slip rug pad, rug care, rug pad size, rug pads
+  - [Styling an Abstract Rug With Plain Furniture](https://www.rugbranch.com/blogs/rugs/how-to-style-an-abstract-rug-with-plain-furniture): Styling an Abstract Rug With Plain Furniture
+    Updated: 2026-10-27T15:00:08Z
+    Author: Shopify API
+    Tags: abstract rugs, home decor, living room decor, plain furniture, rug styling
+  - [How to Dry a Washable Rug (Dryer or Air)](https://www.rugbranch.com/blogs/rugs/how-to-dry-a-washable-rug): How to Dry a Washable Rug (Dryer or Air)
+    Updated: 2026-10-27T16:00:03Z
+    Author: Shopify API
+    Tags: drying a rug, rug care, rug cleaning, washable rugs
+  - [How to Style a Boho Rug in Any Room](https://www.rugbranch.com/blogs/rugs/how-to-style-a-boho-rug): How to Style a Boho Rug in Any Room
+    Updated: 2026-10-27T18:00:01Z
+    Author: Shopify API
+    Tags: bohemian decor, boho rugs, moroccan rugs, rug layering, rug styling
 - [Marketing](https://www.rugbranch.com/blogs/marketing)
   - [How to Choose the Best Contemporary Rug for a Minimalist Living Room: A Definitive Guide](https://www.rugbranch.com/blogs/marketing/how-to-choose-the-best-contemporary-rug-for-a-minimalist-living-room-a-definitive-guide): Your minimalist living room is a testament to thoughtful design, a haven of peace where every element serves a purpose. Yet, even in such a refined sp...
     Updated: 2026-02-02T09:48:19Z
@@ -3148,15 +3096,15 @@ If you want I can also create your next style page such as Geometric Vintage Dis
 ## Policies
 
 - [Privacy Policy](https://www.rugbranch.com/policies/privacy-policy)
-  Updated: 2025-03-19T14:39:47-04:00
+  Updated: 2025-03-19T18:39:47Z
 - [Shipping Policy](https://www.rugbranch.com/policies/shipping-policy)
-  Updated: 2026-10-08T11:42:41-04:00
+  Updated: 2026-10-08T15:42:41Z
 - [Refund Policy](https://www.rugbranch.com/policies/refund-policy)
-  Updated: 2026-10-08T11:40:30-04:00
+  Updated: 2026-10-08T15:40:30Z
 - [Terms of Service](https://www.rugbranch.com/policies/terms-of-service)
-  Updated: 2025-03-19T14:39:36-04:00
+  Updated: 2025-03-19T18:39:36Z
 - [Contact Information](https://www.rugbranch.com/policies/contact-information)
-  Updated: 2026-10-08T11:41:51-04:00
+  Updated: 2026-10-08T15:41:51Z
 
 ## Optional
 
