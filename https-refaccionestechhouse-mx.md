@@ -6,21 +6,21 @@
 - Timezone: America/Mexico_City
 - Created At: 2023-12-28T19:46:20Z
 - Contact Email: tienda@techhouse.com.mx
-- Updated At: 2026-10-21T00:00:45.520Z
+- Updated At: 2026-10-28T01:32:53.218Z
 
 Refacciones Tech House es una tienda en línea mexicana especializada en refacciones y herramientas para la reparación de celulares, tablets, laptops y smartwatches: pantallas (OLED, AMOLED, Incell, LCD), baterías, centros de carga, bandejas porta SIM, tapas, cámaras, flexores y equipo de taller. Piezas compatibles y originales, seleccionables por modelo exacto, con envío a todo México y precios de mayoreo para talleres y técnicos. Marcas: Apple, Samsung, Xiaomi, Motorola, Huawei, Honor, Oppo, Realme, Vivo y más; equipo profesional Forward, Relife, Sunshine y TBK.
 
 ## Products
 
 - [Kit de Tintas para Sublimación FW-IC01](https://refaccionestechhouse.mx/products/kit-de-tintas-para-sublimacion-fw-ic01): Kit de Tintas para Sublimación FW-IC01. Para micas de hidrogel y sublimación. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:57Z
   Vendor: Forward
   Product Type: Equipo de sublimación
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FORWARD-Dye-Sublimation-Ink-Productcopia.png?v=1720212811
-  Price: 2600,00 $ MXN
+  Price: 1825,00 $ MXN
 - [Funda Forward para Sublimación 3D 2 en 1](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a): Funda Forward para Sublimación 3D 2 en 1 – iPhone Serie X al 14. Accesorios y gadgets para tu celular. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-27T18:00:52Z
   Vendor: Forward
   Product Type: Funda para sublimación
   Availability: Available
@@ -28,174 +28,198 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [X/XS](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351009342)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-18A.jpg?v=1773355288
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [XR](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351042110)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-16A.jpg?v=1773355294
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [XS Max](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351074878)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-17A.jpg?v=1773355300
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [11](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351107646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-15A.jpg?v=1773355327
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [11 Pro](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351140414)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-14A.jpg?v=1773355333
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [11 Pro Max](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351173182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-13A.jpg?v=1773355343
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [12](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351205950)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-12A.jpg?v=1773355347
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [12 Mini](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351238718)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-11A.jpg?v=1773355356
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [12 Pro](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351271486)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-10A.jpg?v=1773355361
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [12 Pro Max](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=42311351304254)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-09A.jpg?v=1773355365
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
   - [14](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67860599308350)
     Availability: Available
-    Price: 680,50 $ MXN
+    Price: 695,00 $ MXN
+  - [iPhone 15](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975099580478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-15A.jpg?v=1773355327
+    Price: 695,00 $ MXN
+  - [iPhone 15 Pro](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975092699198)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-15A.jpg?v=1773355327
+    Price: 695,00 $ MXN
+  - [iPhone 15 Pro Max](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975081918526)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/FW-S-15A.jpg?v=1773355327
+    Price: 695,00 $ MXN
+  - [iPhone 16](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975361495102)
+    Availability: Not Available
+    Price: 695,00 $ MXN
+  - [iPhone 16 Pro](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975360020542)
+    Availability: Not Available
+    Price: 695,00 $ MXN
+  - [iPhone 16 Plus](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975358513214)
+    Availability: Not Available
+    Price: 695,00 $ MXN
+  - [iPhone 16 Pro Max](https://refaccionestechhouse.mx/products/funda-para-sublimacion-3d-2-en-1-fw-s-01a?variant=67975354744894)
+    Availability: Not Available
+    Price: 695,00 $ MXN
 - [Batería compatible con iPhone 6 A1549, A1586, A1589](https://refaccionestechhouse.mx/products/bateria-para-iphone-6-a1549-a1586-a1589): Batería compatible con iPhone 6 A1549, A1586, A1589: recupera la autonomía del equipo. Refacción de reemplazo compatible, calidad garantizada para talleres y
-  Updated: 2026-10-13T17:27:16Z
+  Updated: 2026-10-23T18:20:41Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0111D002.png?v=1746548267
-  Price: 230,00 $ MXN
+  Price: 270,00 $ MXN
 - [Batería compatible con iPhone 6 Plus A1522, A1524, A1593](https://refaccionestechhouse.mx/products/bateria-para-iphone-6-plus-a1522-a1524-a1593): Batería para iPhone 6 Plus. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:41Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0111D004.webp?v=1761779265
-  Price: 205,00 $ MXN
+  Price: 240,00 $ MXN
 - [Batería Deji compatible con iPhone SE3 2022](https://refaccionestechhouse.mx/products/bateria-deji-para-iphone-se3-2022-capacidad-extendida): Batería para iPhone SE (2022). Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:35Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/Photoroom_20240413_144529.png?v=1746548256
-  Price: 360,00 $ MXN
+  Price: 370,00 $ MXN
 - [Batería Huawei Nova 3 | Repuesto DEJI HB386589ECW](https://refaccionestechhouse.mx/products/bateria-compatible-huawei-nova-3-deji-hb386589ecw): Reemplaza la batería de tu Huawei Nova 3 con la refacción DEJI HB386589ECW de 3750 mAh y 3.82 V. Recupera la autonomía original de tu equipo.
-  Updated: 2026-10-20T19:32:50Z
+  Updated: 2026-10-23T18:20:30Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/DEJI-HB386589ECW.png?v=1746548250
-  Price: 155,00 $ MXN
+  Price: 180,00 $ MXN
 - [Batería Honor 9A | Repuesto Deji HB526489EFW 5000mAh](https://refaccionestechhouse.mx/products/bateria-deji-compatible-honor-9a-deji-hb526489efw): Cambia la batería de tu Honor 9A con la refacción Deji HB526489EFW de 5000 mAh y 3.85 V. Recupera la energía constante de tu equipo.
-  Updated: 2026-10-20T19:32:51Z
+  Updated: 2026-10-23T18:20:30Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/DEJI-HB526489EFW.png?v=1746548250
-  Price: 170,00 $ MXN
+  Price: 200,00 $ MXN
 - [Batería sin Flexor iPhone 11](https://refaccionestechhouse.mx/products/bateria-sin-flexor-iphone-11-tech-house-3110-mah): Celda de batería sin flexor para iPhone 11 de Tech House. Capacidad de 3110 mAh. Ideal para técnicos que trasplantan el BMS original para eliminar mensajes de pieza desconocida.
-  Updated: 2026-10-20T20:16:06Z
+  Updated: 2026-10-26T16:43:41Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-11-SFLEX.jpg?v=1746548240
-  Price: 175,00 $ MXN
+  Price: 210,00 $ MXN
 - [Batería para iPhone 11 Pro - Tech House](https://refaccionestechhouse.mx/products/bateria-tech-house-para-iphone-11-pro): Batería para iPhone 11 Pro. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:21Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-IPH11PRO-3046-1.jpg?v=1777565776
-  Price: 320,00 $ MXN
+  Price: 380,00 $ MXN
 - [Batería Tech House compatible con iPhone 11 Pro](https://refaccionestechhouse.mx/products/bateria-autoprogramable-tech-house-para-iphone-11-pro): Batería para iPhone 11 Pro. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T21:26:20Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-IPH11PRO-CRACK.jpg?v=1746548237
-  Price: 440,00 $ MXN
+  Price: 530,00 $ MXN
 - [Batería Tech House compatible con iPhone 11 Pro Max](https://refaccionestechhouse.mx/products/bateria-tech-house-para-iphone-11-pro-max): Batería para iPhone 11 Pro Max. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:19Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-IPH11PM-3969.jpg?v=1746548235
-  Price: 335,00 $ MXN
+  Price: 400,00 $ MXN
 - [Batería iPhone 11 Pro Max Tech House 3969 mAh | A2218](https://refaccionestechhouse.mx/products/bateria-compatible-iphone-11-pro-max-tech-house): Restaura la autonomía de tu iPhone 11 Pro Max con esta batería Tech House de 3969 mAh. Repuesto de alta calidad y rendimiento ideal para tu servicio técnico.
-  Updated: 2026-10-13T17:27:05Z
+  Updated: 2026-10-23T18:20:19Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-IPH11PM-CRACK.jpg?v=1746548234
-  Price: 455,00 $ MXN
+  Price: 545,00 $ MXN
 - [Batería para iPhone 12 mini | Reemplazo](https://refaccionestechhouse.mx/products/bateria-para-iphone-12-mini): Batería de reemplazo para iPhone 12 mini: recupera la autonomía original de tu equipo. Refacción de alta calidad para talleres y técnicos.
-  Updated: 2026-10-07T20:21:38Z
+  Updated: 2026-10-23T18:20:18Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0129D002.png?v=1746548233
-  Price: 410,00 $ MXN
+  Price: 490,00 $ MXN
 - [Batería para iPhone 12 Mini](https://refaccionestechhouse.mx/products/bateria-iphone-12-mini-tech-house-2227mah): Sustituye la batería de tu iPhone 12 Mini con el repuesto profesional Tech House. 2227 mAh de capacidad real, seguridad certificada y compatibilidad total. ¡Compra ahora!
-  Updated: 2026-10-13T17:27:06Z
+  Updated: 2026-10-23T18:20:18Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/TH-IPH12MINI-CRACK-1.jpg?v=1777576304
-  Price: 365,00 $ MXN
+  Price: 440,00 $ MXN
 - [Cristal de Cámara Trasera compatible con Samsung A71](https://refaccionestechhouse.mx/products/cristal-de-camara-trasera-para-samsung-a71): Cristal de cámara trasera para Samsung Galaxy A71. Repara el lente sin cambiar la cámara. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:17Z
   Vendor: Refacciones Tech House
   Product Type: Cristal de cámara
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/Photoroom_20240502_175122_a3fe2550-d88a-4230-9f1a-7780c7d62395.png?v=1746548230
-  Price: 135,00 $ MXN
+  Price: 100,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Mi 11 5G](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-mi-11-5g): Pantalla para Xiaomi Mi 11. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:27Z
+  Updated: 2026-10-23T18:20:17Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_954040-MLM71330690344_082023-B_3e43f972-b6b8-49fe-b232-0221397432d6.jpg?v=1746548229
-  Price: 4110,00 $ MXN
+  Price: 4015,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Mi Redmi 5](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-mi-redmi-5): Pantalla para Redmi 5. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:16Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_914638-MLM75345247039_032024-B.jpg?v=1746548227
-  Price: 635,00 $ MXN
+  Price: 655,00 $ MXN
 - [Pantalla/Display compatible con ZTE Blade A7S 2020](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-blade-a7s-2020): Pantalla para ZTE Blade A7s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:15Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_902150-MLM75197372232_032024-B.jpg?v=1746548227
-  Price: 892,91 $ MXN
+  Price: 915,10 $ MXN
 - [Adhesivo compatible con Batería de iPhone X](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-de-iphone-x-a1865): Adhesivo compatible con Batería de iPhone X. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:27Z
+  Updated: 2026-10-23T18:20:15Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_671069-MLM74399396306_022024-B.jpg?v=1746548226
-  Price: 45,00 $ MXN
+  Price: 50,00 $ MXN
 - [Pantalla/Display compatible con LG K40S](https://refaccionestechhouse.mx/products/pantalla-compatible-con-lg-k40s-lmx430emw): Pantalla para LG K40s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T18:20:14Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_696116-MLM71137386648_082023-B_f2d3717f-6306-4023-8368-b35e538e043f.jpg?v=1746548224
   Price: 645,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A10 Dual SIM](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10-dual-sim): Pantalla para Samsung Galaxy A10. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:26Z
+  Updated: 2026-10-23T21:04:20Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -203,90 +227,90 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10-dual-sim?variant=42943405293630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F856.jpg?v=1782249478
-    Price: 615,00 $ MXN
+    Price: 395,00 $ MXN
   - [HD con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10-dual-sim?variant=42943405326398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F804.jpg?v=1782249487
-    Price: 1080,00 $ MXN
+    Price: 700,00 $ MXN
 - [Pantalla/Display compatible con ZTE Blade V9 Vita Premium](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-blade-v9-vita-v0920-premium): Pantalla para ZTE Blade V9 Vita. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:27Z
+  Updated: 2026-10-23T18:20:13Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_673402-MLM71172819487_082023-B.jpg?v=1746548222
-  Price: 501,41 $ MXN
+  Price: 512,72 $ MXN
 - [Pantalla/Display compatible con Honor X6](https://refaccionestechhouse.mx/products/pantalla-compatible-con-honor-x6-vne-lx1): Pantalla para Honor X6. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:23Z
+  Updated: 2026-10-23T18:20:12Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_966829-MLM75231402192_032024-B.jpg?v=1746548220
-  Price: 485,00 $ MXN
+  Price: 430,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Mi 11 Ultra M2102K1G](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-mi-11-ultra-m2102k1g): Pantalla para Xiaomi Mi 11 Ultra. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:20:11Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_706368-MLM71121395571_082023-B.jpg?v=1746548220
-  Price: 4030,00 $ MXN
+  Price: 3940,00 $ MXN
 - [Pantalla/Display compatible con Huawei P40 Lite JNY-L21A](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-p40-lite-jny-l21a): Pantalla para Huawei P40 Lite y Huawei Nova 7i. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:20:11Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_774932-MLM75381345027_032024-B.jpg?v=1746548219
-  Price: 745,00 $ MXN
+  Price: 715,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone XR Premium](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-de-iphone-xr-a2105-premium): Adhesivo compatible con Batería de iPhone XR Premium. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:20:10Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_706069-MLM54869921827_042023-B_ca628dc3-6d35-4758-b336-a64eacb97f12.jpg?v=1746548218
   Price: 50,00 $ MXN
 - [Pantalla/Display compatible con Honor 50 Lite](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-50-lite-ntn-l22): Pantalla para Honor 50 Lite. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:20:09Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_704405-MLM75381335567_032024-B.jpg?v=1746548218
-  Price: 805,00 $ MXN
+  Price: 780,00 $ MXN
 - [Pantalla/Display Compatible con Moto G8 Play | Repuesto LCD XT2015](https://refaccionestechhouse.mx/products/pantalla-compatible-moto-g8-play-lcd-xt2015): Pantalla LCD para Moto G8 Play. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:58Z
+  Updated: 2026-10-23T18:20:09Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_943865-MLM71088768494_082023-B_5accf5c4-de04-4bd7-91d0-5ec1644ddb60.jpg?v=1746548217
-  Price: 1165,00 $ MXN
+  Price: 805,00 $ MXN
 - [Pantalla/Display compatible con Huawei Y6P ART-l27](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-y6p-art-l27): Pantalla para Huawei Y6p. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:59Z
+  Updated: 2026-10-23T18:20:08Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_762705-MLM71136222960_082023-B.jpg?v=1746548216
-  Price: 625,00 $ MXN
+  Price: 645,00 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Redmi Note 9 5g M2007j22c](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-redmi-note-9-5g-m2007j22c): Pantalla para Redmi Note 9 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T18:20:07Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_675739-MLM75097477082_032024-B.jpg?v=1746548216
-  Price: 905,00 $ MXN
+  Price: 875,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy J6](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-j6): Pantalla para Samsung Galaxy J6. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:59Z
+  Updated: 2026-10-23T18:20:06Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_769372-MLM75097486524_032024-B.jpg?v=1746548214
-  Price: 1540,00 $ MXN
+  Price: 1000,00 $ MXN
 - [Pantalla/Display Compatible Con LG K22 Para Lmk200z](https://refaccionestechhouse.mx/products/pantalla-compatible-con-lg-k22-para-lmk200z): Pantalla para LG K22. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:58Z
+  Updated: 2026-10-23T18:20:04Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_896366-MLM75242091235_032024-B.jpg?v=1746548213
   Price: 495,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A73 5G](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g): Pantalla para Samsung Galaxy A73 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T21:04:20Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -294,29 +318,29 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Negro / OEM / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866464318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F799.jpg?v=1782757092
-    Price: 2430,00 $ MXN
+    Price: 1800,00 $ MXN
   - [Gris / Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866497086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F621.jpg?v=1782757100
-    Price: 1940,00 $ MXN
+    Price: 1435,00 $ MXN
   - [Blanco / Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866628158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F620.jpg?v=1782757108
-    Price: 1940,00 $ MXN
+    Price: 1435,00 $ MXN
   - [Blanco / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866693694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F238.jpg?v=1782757117
-    Price: 2890,00 $ MXN
+    Price: 2145,00 $ MXN
   - [Verde / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866824766)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F240.jpg?v=1782757125
-    Price: 2890,00 $ MXN
+    Price: 2145,00 $ MXN
   - [Menta / Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a73-5g?variant=42971866890302)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F619.jpg?v=1782757132
-    Price: 1940,00 $ MXN
+    Price: 1435,00 $ MXN
 - [Pantalla compatible con Samsung Galaxy A32](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a32): Pantalla compatible con Samsung Galaxy A32: módulo completo con buen color y respuesta táctil precisa. Refacción de reemplazo compatible para talleres y técni
-  Updated: 2026-10-20T19:49:36Z
+  Updated: 2026-10-23T21:04:21Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -324,91 +348,91 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a32?variant=42954053156926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F388.jpg?v=1782423273
-    Price: 720,00 $ MXN
+    Price: 495,00 $ MXN
   - [Incell / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a32?variant=42954053189694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F824.jpg?v=1782423280
-    Price: 690,00 $ MXN
+    Price: 475,00 $ MXN
   - [Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a32?variant=42954053222462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F142.jpg?v=1782423289
-    Price: 1110,00 $ MXN
+    Price: 765,00 $ MXN
   - [Oled / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a32?variant=42954053255230)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F563.jpg?v=1782423294
-    Price: 1060,00 $ MXN
+    Price: 730,00 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Poco F2 Pro Para M2004j11g](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-poco-f2-pro-para-m2004j11g): Pantalla para Poco F2 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T18:20:02Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_983459-MLM75242091267_032024-B.jpg?v=1746548211
-  Price: 520,00 $ MXN
+  Price: 500,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Redmi 10C 220333qag Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-redmi-10c-220333qag-incell): Pantalla Incell para Redmi 10C. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:20:00Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_712298-MLM75097486366_032024-B.jpg?v=1746548209
-  Price: 485,00 $ MXN
+  Price: 430,00 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Redmi Note 10 4g / Note 10s](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-redmi-note-10-4g-note-10s-1): Pantalla para Redmi Note 10 y Redmi Note 10S. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T18:19:59Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_983661-MLM75097486346_032024-B.jpg?v=1746548207
-  Price: 1075,00 $ MXN
+  Price: 1040,00 $ MXN
 - [Pantalla/Display Compatible Con Oppo Reno 6 Pro Para Cph22499 Amoled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-reno-6-pro-para-cph22499-amoled): Pantalla OLED para Oppo Reno 6 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:58Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_945897-MLM75097486164_032024-B.jpg?v=1746548207
-  Price: 2410,00 $ MXN
+  Price: 2140,00 $ MXN
 - [Pantalla/Display Apple Watch 42mm A1802 A1803 Negra | Repuesto](https://refaccionestechhouse.mx/products/pantalla-compatible-con-apple-watch-42mm-a1802-a1803): Compra la pantalla compatible con Apple Watch 42mm (A1802 / A1803). Recupera la nitidez y el control táctil con resolución 340x272 píxeles.
-  Updated: 2026-10-15T21:16:51Z
+  Updated: 2026-10-23T18:19:57Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_617622-MLM78070290187_072024-B.jpg?v=1746548204
-  Price: 265,00 $ MXN
+  Price: 685,00 $ MXN
 - [Pantalla/Display Compatible Con Oppo A53 4g / A53s 4g / A32 / A33](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-a53-4g-a53s-4g-a32-a33): Pantalla para Oppo A53 y Oppo A53s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:56Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_867586-MLM75097477198_032024-B.jpg?v=1746548204
-  Price: 370,00 $ MXN
+  Price: 355,00 $ MXN
 - [Pantalla/Display Compatible Con Honor X5 Vna-lx2 Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-honor-x5-vna-lx2-oled): Pantalla OLED para Honor X5. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:56Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_781719-MLM75242091151_032024-B.jpg?v=1746548203
-  Price: 395,00 $ MXN
+  Price: 345,00 $ MXN
 - [Pantalla/Display Compatible Con Zte Axon 10 Pro Para A10p3251 Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-axon-10-pro-para-a10p3251-oled): Pantalla OLED para ZTE Axon 10 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:58Z
+  Updated: 2026-10-23T18:19:55Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_673129-MLM75097477156_032024-B.jpg?v=1746548202
-  Price: 1456,22 $ MXN
+  Price: 1587,60 $ MXN
 - [Pantalla/Display compatible con Oppo & Realme A9 A8 A5 C3](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-a9-2020-a8-a5-2020-c3): Pantalla para Oppo A9 y Oppo A8. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:59Z
+  Updated: 2026-10-23T18:19:54Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_708826-MLM75242091153_032024-B.jpg?v=1746548202
-  Price: 270,00 $ MXN
+  Price: 415,00 $ MXN
 - [Pantalla/Display para Moto G52 4G | Reemplazo OEM XT2221-1](https://refaccionestechhouse.mx/products/pantalla-compatible-moto-g52-4g-xt2221-1-oem): Pantalla para Moto G52. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T21:26:16Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_620397-MLM75097477196_032024-B.jpg?v=1746548197
-  Price: 2470,00 $ MXN
+  Price: 1830,00 $ MXN
 - [Pantalla/Display para iPhone 7 Plus | Incell](https://refaccionestechhouse.mx/products/pantalla-ebr-compatible-iphone-7-plus-incell): Pantalla para iPhone 7 Plus. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-27T01:22:37Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -416,20 +440,20 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Blanco](https://refaccionestechhouse.mx/products/pantalla-ebr-compatible-iphone-7-plus-incell?variant=42915765485630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0117F034.jpg?v=1781291621
-    Price: 500,00 $ MXN
+    Price: 515,00 $ MXN
   - [Negro](https://refaccionestechhouse.mx/products/pantalla-ebr-compatible-iphone-7-plus-incell?variant=42915765518398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0117F033.jpg?v=1781291628
-    Price: 320,00 $ MXN
+    Price: 330,00 $ MXN
 - [Pantalla/Display compatible con Samsung Galaxy M14 5G | Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-m14-5g-incell): Pantalla para Samsung Galaxy M14 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:59Z
+  Updated: 2026-10-23T18:19:52Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_792780-MLM75242091143_032024-B.jpg?v=1746548195
-  Price: 625,00 $ MXN
+  Price: 460,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A13 5G](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a13-5g-sm-a136u): Pantalla para Samsung Galaxy A13 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:58Z
+  Updated: 2026-10-23T21:04:21Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -437,270 +461,255 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a13-5g-sm-a136u?variant=42947179708478)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F771.jpg?v=1782318711
-    Price: 645,00 $ MXN
+    Price: 475,00 $ MXN
   - [HD con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a13-5g-sm-a136u?variant=42947179741246)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F476.jpg?v=1782318714
-    Price: 625,00 $ MXN
+    Price: 460,00 $ MXN
 - [Pantalla/Display con Marco compatible con Huawei Y9](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-y9-2019-jkm-lx1-lcd): Pantalla para Huawei Y9. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:50Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_632951-MLM76948237039_062024-B.jpg?v=1746548192
   - [Negro](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-y9-2019-jkm-lx1-lcd?variant=41271543627838)
     Availability: Available
-    Price: 765,00 $ MXN
+    Price: 790,00 $ MXN
   - [Azul](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-y9-2019-jkm-lx1-lcd?variant=41271543660606)
     Availability: Available
-    Price: 790,00 $ MXN
+    Price: 815,00 $ MXN
   - [Violeta](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-y9-2019-jkm-lx1-lcd?variant=41271543693374)
     Availability: Available
-    Price: 750,00 $ MXN
+    Price: 780,00 $ MXN
 - [Pantalla/Display compatible con Huawei Nova Y90](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-nova-y90): Pantalla para Huawei Nova Y90. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T18:19:49Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_657317-MLM75532285713_042024-B.jpg?v=1746548191
-  Price: 600,00 $ MXN
+  Price: 530,00 $ MXN
+- [Pantalla/Display compatible con Vivo V21](https://refaccionestechhouse.mx/products/pantalla-compatible-con-vivo-v21): Pantalla para Vivo V21. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
+  Updated: 2026-10-23T18:19:49Z
+  Vendor: Refacciones Tech House
+  Product Type: Pantalla
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_616466-MLM75072888444_032024-B.jpg?v=1746548191
+  Price: 2460,00 $ MXN
 - [Cintas Adhesivas iMac 21.5" pulgadas A1418 Premium](https://refaccionestechhouse.mx/products/cintas-adhesivas-imac-21-5-compatible-a1418-premium): Cintas Adhesivas compatible con iMac 21.5" pulgadas A1418 Premium. Refacción para tu laptop. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:01Z
+  Updated: 2026-10-23T18:19:48Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_977177-MLM52526684691_112022-B.jpg?v=1724777721
-  Price: 400,00 $ MXN
+  Price: 240,00 $ MXN
 - [Pantalla/Display Compatible Con  Huawei Honor V20 /  Nova 4 Lcd](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-v20-nova-4-lcd): Pantalla LCD para Honor V20 y Honor View 20. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:25:59Z
+  Updated: 2026-10-23T18:19:48Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_873796-MLM75254905714_032024-B.jpg?v=1746548190
-  Price: 510,00 $ MXN
+  Price: 525,00 $ MXN
 - [Pantalla/Display Apple Watch Serie 6 | Repuesto 40/44mm](https://refaccionestechhouse.mx/products/pantalla-compatible-con-apple-watch-serie-6-40mm-44mm): Compra la pantalla compatible con Apple Watch Serie 6 (A2375 / A2376). Recupera la nitidez y el control táctil con resolución de 448x368 píxeles.
-  Updated: 2026-10-15T21:16:51Z
+  Updated: 2026-10-26T22:42:06Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_796766-MLM74476878925_022024-B.jpg?v=1746548190
   - [40mm](https://refaccionestechhouse.mx/products/pantalla-compatible-con-apple-watch-serie-6-40mm-44mm?variant=41271544053822)
     Availability: Available
-    Price: 2325,00 $ MXN
+    Price: 2250,00 $ MXN
   - [44mm](https://refaccionestechhouse.mx/products/pantalla-compatible-con-apple-watch-serie-6-40mm-44mm?variant=41271544086590)
     Availability: Available
-    Price: 1660,00 $ MXN
+    Price: 1655,00 $ MXN
 - [Batería Compatible Con Xiaomi Mi A2/ Mi 6x M1804d2sg Bn36](https://refaccionestechhouse.mx/products/bateria-compatible-con-xiaomi-mi-a2-mi-6x-m1804d2sg-bn36): Batería para Xiaomi Mi A2 y Xiaomi Mi 6X. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:46Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_887137-MLM77442318604_072024-B_af47eebd-9caf-485b-becc-a30d48c8a834.jpg?v=1746548189
-  Price: 170,00 $ MXN
+  Price: 195,00 $ MXN
 - [Batería Compatible Con Huawei Honor 9 Lite Hb366481ecw](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-honor-9-lite-hb366481ecw): Batería para Honor 9 Lite. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:45Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_761822-MLM77573597241_072024-B.jpg?v=1746548188
-  Price: 165,00 $ MXN
+  Price: 195,00 $ MXN
 - [Batería Compatible Con Xiaomi Mi A2 Lite/ Redmi 6 Pro Bn47](https://refaccionestechhouse.mx/products/bateria-compatible-con-xiaomi-mi-a2-lite-redmi-6-pro-bn47): Batería para Xiaomi Mi A2 Lite y Redmi 6 Pro. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:02Z
+  Updated: 2026-10-23T18:19:45Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_745108-MLM77461631460_072024-B.jpg?v=1746548188
-  Price: 185,00 $ MXN
+  Price: 215,00 $ MXN
 - [Batería Compatible Con Huawei Honor V10 Bkl-al20 Hb386589ecw](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-honor-v10-bkl-al20-hb386589ecw): Batería para Honor V10. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:25:58Z
+  Updated: 2026-10-23T18:19:44Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_880387-MLM77571398241_072024-B.jpg?v=1746548187
-  Price: 205,00 $ MXN
+  Price: 240,00 $ MXN
 - [Batería Compatible Con Xiaomi Redmi 9c M2006c3mg Bn56](https://refaccionestechhouse.mx/products/bateria-compatible-con-xiaomi-redmi-9c-m2006c3mg-bn56): Batería para Redmi 9C. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:44Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_671425-MLM77462940880_072024-B.jpg?v=1746548187
-  Price: 275,00 $ MXN
+  Price: 325,00 $ MXN
 - [Bateria Compatible Con Motorola G8 Play Xt2015 Kg40](https://refaccionestechhouse.mx/products/bateria-compatible-con-motorola-g8-play-xt2015-kg40): Batería para Moto G8 Play. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:43Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_873032-MLM77359107430_072024-B.jpg?v=1746548186
-  Price: 210,00 $ MXN
+  Price: 250,00 $ MXN
 - [Batería Compatible Con Nokia 7.1 Ta-1100 He342](https://refaccionestechhouse.mx/products/bateria-compatible-con-nokia-7-1-ta-1100-he342): Batería para Nokia 7.1. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:43Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_848118-MLM77679395273_072024-B.jpg?v=1746548186
   Price: 195,00 $ MXN
 - [Batería Compatible Con Moto G10 Power Pamr0002in Mh60](https://refaccionestechhouse.mx/products/bateria-compatible-con-moto-g10-power-pamr0002in-mh60): Batería para Moto G10 Power. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T18:19:41Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_901822-MLM77570368295_072024-B.jpg?v=1746548185
-  Price: 255,00 $ MXN
+  Price: 305,00 $ MXN
 - [Bateria Samsung A21 Sm-a215 Scud-wt-n6](https://refaccionestechhouse.mx/products/bateria-compatible-con-samsung-a21-sm-a215-scud-wt-n6): Batería SCUD-WT-N6 compatible con Samsung A21 SM-A215. Potencia duradera para tu dispositivo. Cotiza con nosotros
-  Updated: 2026-10-13T17:16:56Z
+  Updated: 2026-10-23T18:19:41Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_638440-MLM77597133083_072024-B.jpg?v=1746548184
-  Price: 195,00 $ MXN
+  Price: 230,00 $ MXN
 - [Batería compatible con Huawei Y5 2019](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-y5-2019-amn-lx9-hb405979ecw): Batería para Huawei Y5 2019. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:40Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_791895-MLM77600852179_072024-B.jpg?v=1746548183
   - [Opción 1](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-y5-2019-amn-lx9-hb405979ecw?variant=41271646748734)
     Availability: Not Available
-    Price: 175,00 $ MXN
+    Price: 200,00 $ MXN
   - [Opción 2](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-y5-2019-amn-lx9-hb405979ecw?variant=67860209696830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0901D046-1_ad9e1edc-1c90-425c-a32a-f25b0cbed65e.jpg?v=1791487753
-    Price: 170,00 $ MXN
+    Price: 200,00 $ MXN
 - [Batería Compatible Con Xiaomi Poco F2 Pro M2004j11g Bm4q](https://refaccionestechhouse.mx/products/bateria-compatible-con-xiaomi-poco-f2-pro-m2004j11g-bm4q): Batería para Poco F2 Pro. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-26T16:39:12Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_901294-MLM77710242779_072024-B_beebfd94-321e-4884-9df3-79d66b3011c9.jpg?v=1746548183
-  Price: 310,00 $ MXN
+  Price: 375,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Samsung A22 5g Sm-a226](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a22-5g-sm-a226): Bandeja porta SIM para Samsung Galaxy A22 5G. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T18:19:39Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_768527-MLM75533781736_042024-B.jpg?v=1746548182
   - [Violeta Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a22-5g-sm-a226?variant=41271544709182)
     Availability: Available
-    Price: 85,00 $ MXN
+    Price: 70,00 $ MXN
   - [Verde claro Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a22-5g-sm-a226?variant=41271544741950)
     Availability: Available
-    Price: 85,00 $ MXN
+    Price: 70,00 $ MXN
   - [Blanco Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a22-5g-sm-a226?variant=41271544774718)
     Availability: Available
-    Price: 85,00 $ MXN
+    Price: 70,00 $ MXN
   - [Negro Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a22-5g-sm-a226?variant=67860208123966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP07020753-1_266eba50-7f59-44b0-837e-93e6bf6b3301.jpg?v=1791408199
-    Price: 90,00 $ MXN
+    Price: 75,00 $ MXN
 - [Batería compatible con Huawei Mate 10 Pro/Mate10](https://refaccionestechhouse.mx/products/bateria-compatible-con-huawei-mate-10-pro-mate10-hb436486ecw): Batería para Huawei Mate 10 Pro y Huawei Mate 10. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:38Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_624837-MLA77508314771_072024-B_d7004f81-cf9b-4ac7-9962-af44f6656e78.jpg?v=1746548181
-  Price: 230,00 $ MXN
+  Price: 270,00 $ MXN
 - [Bateria Compatible Con LG K22 Plus Lmk200haw Bl-m03](https://refaccionestechhouse.mx/products/bateria-compatible-con-lg-k22-plus-lmk200haw-bl-m03): Batería para LG K22+. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:56Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_652916-MLM77498561808_072024-B.jpg?v=1746548181
   Price: 195,00 $ MXN
 - [Batería Compatible Con Xiaomi Mi 10 T Lite M2007j17g Bm4w](https://refaccionestechhouse.mx/products/bateria-compatible-con-xiaomi-mi-10-t-lite-m2007j17g-bm4w): Batería para Xiaomi Mi 10T Lite. Capacidad real y protección contra sobrecarga. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:37Z
   Vendor: Refacciones Tech House
   Product Type: Batería
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_826242-MLM77675634113_072024-B_3daf00c5-8f88-4175-aaf3-6836f74e5756.jpg?v=1746548180
-  Price: 290,00 $ MXN
+  Price: 350,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Samsung A02s Sm-a025](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a02s-sm-a025): Bandeja porta SIM para Samsung Galaxy A02s. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:44Z
+  Updated: 2026-10-23T18:19:37Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_740880-MLM75533773440_042024-B.jpg?v=1746548180
   - [Negro Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a02s-sm-a025?variant=41271544905790)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Azul Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a02s-sm-a025?variant=41271544938558)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Rojo Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a02s-sm-a025?variant=41271544971326)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Blanco Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a02s-sm-a025?variant=41271545004094)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Samsung M20 Sm-m205](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-m20-sm-m205): Bandeja porta SIM para Samsung Galaxy M20. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:40Z
+  Updated: 2026-10-23T18:19:36Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_992854-MLM75533782768_042024-B.jpg?v=1746548179
   Price: 65,00 $ MXN
-- [Bandeja Porta SIM Samsung Galaxy A30s | Repuesto](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s): Compra la bandeja porta SIM para Samsung A30s. Restaura la lectura de tu chip, recupera tu señal móvil y protege el interior de tu equipo al instante.
-  Updated: 2026-10-16T16:06:12Z
-  Vendor: Refacciones Tech House
-  Product Type: Bandeja SIM
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/BJ-A30S-VD.jpg?v=1791408300
-  - [Blanco / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s?variant=67823161966654)
-    Availability: Not Available
-    Price: 50,00 $ MXN
-  - [Blanco / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s?variant=67823161999422)
-    Availability: Not Available
-    Price: 100,00 $ MXN
-  - [Negro / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s?variant=67823162032190)
-    Availability: Not Available
-    Price: 50,00 $ MXN
-  - [Negro / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s?variant=67823162064958)
-    Availability: Not Available
-    Price: 100,00 $ MXN
-  - [Verde / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-a30s?variant=67823162097726)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/BJ-A30S-VD.jpg?v=1791408300
-    Price: 50,00 $ MXN
 - [Bandeja Porta SIM Samsung S20 Single y Dual | Repuesto](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20): Compra la bandeja porta SIM para Samsung Galaxy S20. Restaura la lectura de tu chip y recupera tu señal móvil al instante con versión Single o Dual.
-  Updated: 2026-10-20T19:41:08Z
+  Updated: 2026-10-24T17:38:03Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_996832-MLM75693567363_042024-B.jpg?v=1746548177
   - [Azul / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254086206)
     Availability: Available
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Azul / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254118974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP07019949.jpg?v=1792169522
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Negro / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254151742)
     Availability: Not Available
     Price: 80,00 $ MXN
   - [Negro / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254184510)
     Availability: Available
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Gris / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254217278)
     Availability: Not Available
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Gris / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254250046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP07019947.jpg?v=1792169580
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Rosa / Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254282814)
     Availability: Available
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
   - [Rosa / Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-samsung-galaxy-s20?variant=67890254315582)
     Availability: Available
-    Price: 80,00 $ MXN
+    Price: 70,00 $ MXN
 - [Pantalla/Display Compatible Con Oppo A72 5g  Pdym20 Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-a72-5g-pdym20-incell): Pantalla Incell para Oppo A72 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T18:19:34Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_891124-MLM75344987029_032024-B.jpg?v=1746548175
-  Price: 470,00 $ MXN
+  Price: 520,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A70 | Calidad Premium SM-A705F](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-samsung-galaxy-a70): Pantalla para Samsung Galaxy A70. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T21:04:21Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -708,17 +717,17 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-samsung-galaxy-a70?variant=42958557937726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F860.jpg?v=1782586793
-    Price: 745,00 $ MXN
+    Price: 480,00 $ MXN
   - [Oled](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-samsung-galaxy-a70?variant=42958557970494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F713.jpg?v=1782586801
-    Price: 1885,00 $ MXN
+    Price: 1220,00 $ MXN
   - [Original del Equipo](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-samsung-galaxy-a70?variant=42958558003262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F838.jpg?v=1782586807
-    Price: 2750,00 $ MXN
+    Price: 1785,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A23 | Calidad FHD SM-A235F](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a23): Pantalla para Samsung Galaxy A23. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-26T16:25:30Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -726,101 +735,108 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a23?variant=42953247981630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F792.jpg?v=1782408209
-    Price: 585,00 $ MXN
+    Price: 430,00 $ MXN
   - [FHD+](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a23?variant=42953248014398)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F781.jpg?v=1782408335
-    Price: 710,00 $ MXN
+    Price: 525,00 $ MXN
   - [HD con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a23?variant=42953248047166)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F233.jpg?v=1782408337
-    Price: 650,00 $ MXN
+    Price: 480,00 $ MXN
 - [Teclado Macbook Pro 13.3" pulgadas](https://refaccionestechhouse.mx/products/teclado-macbook-pro-13-3-para-a1278-2009-2012-espanol): Teclado compatible con Macbook Pro 13.3" pulgadas - Versión Español. Refacción para tu laptop. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:30Z
   Vendor: Refacciones Tech House
   Product Type: Teclado
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP04010244-1.webp?v=1764273384
-  Price: 330,00 $ MXN
+  Price: 340,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Poco F4](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-poco-f4): Pantalla para Poco F4. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:28Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_624467-MLM75343694713_032024-B.jpg?v=1746548172
-  Price: 2875,00 $ MXN
+  Price: 2555,00 $ MXN
 - [Pantalla/Display compatible con Honor X9](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-x9): Pantalla para Honor X9. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:40Z
+  Updated: 2026-10-23T18:19:27Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_606114-MLM75319722449_032024-B.jpg?v=1746548172
-  Price: 700,00 $ MXN
+  Price: 620,00 $ MXN
 - [Teclado Retroiluminado Macbook Air 13.3" pulgadas](https://refaccionestechhouse.mx/products/teclado-macbook-air-13-3-a2337-iluminado-para-2020-ingles): Teclado Retroiluminado compatible con Macbook Air 13.3" pulgadas - Versión Inglés. Refacción para tu laptop. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:26Z
   Vendor: Refacciones Tech House
   Product Type: Teclado
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP04010773-1.webp?v=1764268760
-  Price: 590,00 $ MXN
+  Price: 610,00 $ MXN
 - [Pantalla/Display compatible con Oppo A52 / A72 4G](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-a52-a72-4g): Pantalla compatible con Oppo A52 y A72 4G: módulo completo con buen color y táctil preciso. Refacción de reemplazo para talleres y técnicos.
-  Updated: 2026-10-20T20:16:06Z
+  Updated: 2026-10-23T18:19:25Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_994184-MLM75212722081_032024-B.jpg?v=1746548170
-  Price: 465,00 $ MXN
+  Price: 510,00 $ MXN
 - [Pantalla/Display Con Marco Compatible Con Xiaomi Mi 10t 5g](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-con-xiaomi-mi-10t-5g): Pantalla para Xiaomi Mi 10T. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:24Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_745040-MLM75378264549_032024-B.jpg?v=1746548167
   - [Cosmic Black](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-con-xiaomi-mi-10t-5g?variant=41271546150974)
     Availability: Available
-    Price: 1215,00 $ MXN
+    Price: 1175,00 $ MXN
   - [Luna Silver](https://refaccionestechhouse.mx/products/pantalla-con-marco-compatible-con-xiaomi-mi-10t-5g?variant=41271546183742)
     Availability: Available
-    Price: 1245,00 $ MXN
+    Price: 1200,00 $ MXN
 - [Pantalla/Display compatible con MacBook Air 13" A1932 (2018-2019)](https://refaccionestechhouse.mx/products/pantalla-y-tapa-compatible-con-macbook-air-13-2018-a1932): Pantalla para MacBook Air 13 (A1932). Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:23Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0401L080.jpg?v=1773159090
-  Price: 6370,00 $ MXN
+  Price: 8800,00 $ MXN
+- [Flex Centro de carga compatible con Macbook Air 11.6" A1465](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-macbook-air-11-6-a1465): Centro de carga para MacBook Air 11 (A1465). Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
+  Updated: 2026-10-23T21:26:08Z
+  Vendor: Refacciones Tech House
+  Product Type: Centro de carga
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_685182-MLM75910514061_042024-B.jpg?v=1746548166
+  Price: 710,00 $ MXN
 - [Flex Centro De Carga Compatible Con iPad Mini 2 / Mini 3](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-mini-2-mini-3): Centro de carga para iPad mini 2 y iPad mini 3. Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:14Z
   Vendor: Refacciones Tech House
   Product Type: Centro de carga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_696500-MLM75910514103_042024-B.jpg?v=1746548165
-  Price: 50,00 $ MXN
+  Price: 70,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Motorola G100 Xt2125](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g100-xt2125): Bandeja porta SIM para Moto G100. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:13Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_753493-MLM75910687631_042024-B.jpg?v=1746548163
   - [Azul Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g100-xt2125?variant=41271547134014)
     Availability: Available
-    Price: 165,00 $ MXN
+    Price: 125,00 $ MXN
   - [Negro Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g100-xt2125?variant=41271547166782)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
   - [Plateado](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g100-xt2125?variant=67868628811838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/PO370SP1096-1.jpg?v=1791916063
-    Price: 270,38 $ MXN
+    Price: 110,00 $ MXN
 - [Flex Centro De Carga Compatible Con iPad 3 A1416](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-3-a1416): Centro de carga para iPad 3. Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:12Z
   Vendor: Refacciones Tech House
   Product Type: Centro de carga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_768092-MLM75910504157_042024-B.jpg?v=1746548162
-  Price: 95,00 $ MXN
+  Price: 125,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A30](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30): Pantalla para Samsung Galaxy A30. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T21:04:22Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -828,115 +844,115 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30?variant=42953594798142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F319.png?v=1782415379
-    Price: 510,00 $ MXN
+    Price: 330,00 $ MXN
   - [HD con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30?variant=42953594830910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F720.jpg?v=1782415384
-    Price: 1180,00 $ MXN
+    Price: 760,00 $ MXN
 - [Flex Centro De Carga Compatible Con iPad 7 A2197](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-7-a2197): Centro de carga para iPad 7. Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:11Z
   Vendor: Refacciones Tech House
   Product Type: Centro de carga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_837409-MLM75910504161_042024-B_33f72250-3c5b-43a3-85ab-9361dd117d20.jpg?v=1746548161
   - [Negro](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-7-a2197?variant=41271547330622)
     Availability: Available
-    Price: 95,00 $ MXN
+    Price: 115,00 $ MXN
   - [blanco](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-7-a2197?variant=41271547363390)
     Availability: Not Available
-    Price: 70,00 $ MXN
+    Price: 85,00 $ MXN
 - [Flex de Carga Magsafe compatible con Macbook Pro 15.4 A1398](https://refaccionestechhouse.mx/products/flex-de-carga-magsafe-compatible-con-macbook-pro-15-4-a1398): Centro de carga para MacBook Pro 15 (A1398). Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:40Z
+  Updated: 2026-10-23T18:19:09Z
   Vendor: Refacciones Tech House
   Product Type: Centro de carga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_864556-MLM75910514065_042024-B_7dc9392e-f314-4986-b841-af1118f32a82.jpg?v=1746548160
-  Price: 160,00 $ MXN
+  Price: 200,00 $ MXN
 - [Flex Centro De Carga Compatible Con iPad Pro 12.9 (2.ª Gen) A1670 / A1671](https://refaccionestechhouse.mx/products/flex-centro-de-carga-compatible-con-ipad-pro-12-9-a1701): Centro de carga para iPad Pro 12.9 (2ª gen). Recupera la carga y la conexión USB. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T21:22:36Z
   Vendor: Refacciones Tech House
   Product Type: Centro de carga
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_719808-MLM75742670652_042024-B_bf9eb411-5515-4490-a0ef-e5588acf48f8.jpg?v=1746548159
-  Price: 105,00 $ MXN
+  Price: 130,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Moto Edge 20 Lite Xt2139](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-20-lite-xt2139): Bandeja porta SIM para Moto Edge 20 Lite. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:08Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_892573-MLM75742843116_042024-B.jpg?v=1746548158
   - [Gris Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-20-lite-xt2139?variant=41271547592766)
     Availability: Available
-    Price: 95,00 $ MXN
+    Price: 75,00 $ MXN
   - [Verde Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-20-lite-xt2139?variant=41271547625534)
     Availability: Available
-    Price: 95,00 $ MXN
+    Price: 75,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Motorola E6s Xt2053](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e6s-xt2053): Bandeja porta SIM para Moto E6s. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:07Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_962198-MLM75742842866_042024-B.jpg?v=1746548157
   - [Gris](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e6s-xt2053?variant=41271547658302)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
   - [Rosa](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e6s-xt2053?variant=41271547691070)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Motorola E7 Plus Xt2081](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e7-plus-xt2081): Bandeja porta SIM para Moto E7 Plus. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T18:19:06Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_788077-MLM75742850938_042024-B.jpg?v=1746548156
   - [Bronce](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e7-plus-xt2081?variant=41271547723838)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
   - [Roja](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-e7-plus-xt2081?variant=41271547756606)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Motorola G60s Xt2133-2](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g60s-xt2133-2): Bandeja porta SIM para Moto G60s. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:37Z
+  Updated: 2026-10-23T18:19:05Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_918823-MLM75910687901_042024-B_f5551df2-0a61-4d41-9735-a97fcfe0cc04.jpg?v=1746548156
   - [Azul](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g60s-xt2133-2?variant=41271547822142)
     Availability: Not Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
   - [Gris](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g60s-xt2133-2?variant=67860209500222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP09012062-1_12831a38-a99c-4c21-99e4-4d91fb22b3b4.jpg?v=1791485960
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Moto Edge 30 Fusion Xt2243](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-30-fusion-xt2243): Bandeja porta SIM para Moto Edge 30 Fusion. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:38Z
+  Updated: 2026-10-23T18:19:05Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_626329-MLM75742850904_042024-B_f8650904-6c1a-444e-a42a-983823453628.jpg?v=1746548155
   - [Blanco](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-30-fusion-xt2243?variant=41271547854910)
     Availability: Available
-    Price: 115,00 $ MXN
+    Price: 80,00 $ MXN
   - [Negro](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-moto-edge-30-fusion-xt2243?variant=41271547887678)
     Availability: Available
-    Price: 115,00 $ MXN
+    Price: 80,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Motorola G32 Xt2235](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g32-xt2235): Bandeja porta SIM para Moto G32. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:26:36Z
+  Updated: 2026-10-23T18:19:04Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_910354-MLM75742842886_042024-B_639bdd47-c1c0-461b-98d3-12eafa61fe1b.jpg?v=1746548154
   - [Rojo Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g32-xt2235?variant=41271548018750)
     Availability: Available
-    Price: 90,00 $ MXN
+    Price: 65,00 $ MXN
   - [Negro Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g32-xt2235?variant=41271548051518)
     Availability: Available
-    Price: 90,00 $ MXN
+    Price: 65,00 $ MXN
   - [Plateado Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-motorola-g32-xt2235?variant=41271548084286)
     Availability: Available
-    Price: 90,00 $ MXN
+    Price: 65,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Xiaomi Redmi Note 8t](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-xiaomi-redmi-note-8t): Bandeja porta SIM para Redmi Note 8T. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:19:03Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
@@ -951,64 +967,64 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
     Availability: Available
     Price: 60,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Xiaomi Redmi Note 9 Pro](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-xiaomi-redmi-note-9-pro): Bandeja porta SIM para Redmi Note 9 Pro. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:19:02Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_926988-MLM75742842830_042024-B_52427e93-523e-470d-b0e0-a68f9f464c99.jpg?v=1746548152
   - [Blanco Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-xiaomi-redmi-note-9-pro?variant=41271548117054)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Gris Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-xiaomi-redmi-note-9-pro?variant=41271548149822)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Verde Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-xiaomi-redmi-note-9-pro?variant=41271548182590)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
 - [Pantalla/Display compatible con Realme 3 RMX1821](https://refaccionestechhouse.mx/products/pantalla-compatible-con-realme-3-para-rmx1821-incell): Pantalla para Realme 3. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:19:02Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_937991-MLM75380564017_032024-B.jpg?v=1746548152
-  Price: 330,00 $ MXN
+  Price: 365,00 $ MXN
 - [Pantalla/Display Motorola Moto E7 2020](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-e7-2020-incell): Pantalla para Moto E7. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:19:01Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_768646-MLM75531669769_042024-B_a7f491cf-21c6-4981-aeaa-046f5d50a747.jpg?v=1746548152
-  Price: 1390,00 $ MXN
+  Price: 960,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone 8 Plus A1864](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-de-iphone-8-plus-a1864-premium): Adhesivo compatible con Batería de iPhone 8 Plus A1864. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:15Z
+  Updated: 2026-10-23T18:19:01Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_702375-MLM54874340776_042023-B.jpg?v=1746548151
-  Price: 45,00 $ MXN
+  Price: 50,00 $ MXN
 - [Adhesivo para Batería de iPhone 12 Pro Max](https://refaccionestechhouse.mx/products/adhesivo-bateria-iphone-12-pro-max-pull-tabs): Adhesivo de doble cara con pestañas de extracción para batería de iPhone 12 Pro Max. Asegura una fijación profesional y segura. Compatible con modelos A2411, A2342.
-  Updated: 2026-10-13T17:26:55Z
+  Updated: 2026-10-23T18:19:00Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NT01320024-1.jpg?v=1778090716
-  Price: 50,00 $ MXN
+  Price: 55,00 $ MXN
 - [Pantalla/Display para Vivo Y11S | 6.51" HD+ | Modelo V2028](https://refaccionestechhouse.mx/products/pantalla-compatible-vivo-y11s-v2028-hd): Pantalla Incell para Vivo Y11s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:59Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_907202-MLM75197202372_032024-B.jpg?v=1746548149
-  Price: 365,00 $ MXN
+  Price: 350,00 $ MXN
 - [Sticker Adhesivo iMac 27" A1419 2012-2017 | Kit Profesional](https://refaccionestechhouse.mx/products/sticker-adhesivo-imac-27-a1419-2012-2017): Kit de adhesivos precortados para sellar la pantalla de tu iMac 27 pulgadas A1419. Calidad técnica para modelos 2012 a 2017. ¡Asegura tu pantalla con calidad de fábrica!
-  Updated: 2026-10-15T21:09:37Z
+  Updated: 2026-10-25T13:41:14Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_747244-MLM53499948289_012023-B_f57b9eda-2041-42be-8875-573b6b75bf15.jpg?v=1725380623
-  Price: 300,00 $ MXN
+  Price: 210,00 $ MXN
 - [Pantalla/Display para Moto G41 4G | Reemplazo Incell y Oled XT2167-2](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-g41-4g-xt2167-2): Pantalla para Moto G41. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T21:04:22Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1016,13 +1032,13 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-g41-4g-xt2167-2?variant=42935055745086)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F616.jpg?v=1781735750
-    Price: 1500,00 $ MXN
+    Price: 1035,00 $ MXN
   - [Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-g41-4g-xt2167-2?variant=42935055777854)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F501.jpg?v=1781735754
-    Price: 2770,00 $ MXN
+    Price: 1915,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A30s | Calidad Premium SM-A307F](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30s): Pantalla para Samsung Galaxy A30s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T21:04:22Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1030,20 +1046,20 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30s?variant=42953637658686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F863.jpg?v=1782416154
-    Price: 835,00 $ MXN
+    Price: 540,00 $ MXN
   - [Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a30s?variant=42953637691454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F673.jpg?v=1782416157
-    Price: 780,00 $ MXN
+    Price: 505,00 $ MXN
 - [Pantalla/Display compatible con Huawei P40 Lite JNY-L21A](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-p40-lite-para-jny-l21a): Pantalla para Huawei P40 Lite y Huawei Nova 7i. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:56Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_839446-MLM75231320560_032024-B_1a1a3d96-73f5-47e2-b4fc-c738f613039b.jpg?v=1746548146
-  Price: 595,00 $ MXN
+  Price: 575,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A20](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a20): Pantalla para Samsung Galaxy A20. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T21:04:22Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1051,87 +1067,87 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a20?variant=42948588437566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F585.jpg?v=1782342546
-    Price: 575,00 $ MXN
+    Price: 395,00 $ MXN
   - [Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a20?variant=42948588470334)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F719.jpg?v=1782342551
-    Price: 610,00 $ MXN
+    Price: 420,00 $ MXN
   - [Oled / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a20?variant=42948588503102)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F327.jpg?v=1782342558
-    Price: 615,00 $ MXN
+    Price: 420,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Mi Mix 2s M1803d5xa](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-mi-mix-2s-m1803d5xa): Cámara trasera para Xiaomi Mi Mix 2S. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:15Z
+  Updated: 2026-10-23T18:18:55Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_621222-MLM75917555574_042024-B.jpg?v=1746548144
-  Price: 180,00 $ MXN
+  Price: 220,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Poco F1 M1805e10a](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-poco-f1-m1805e10a): Cámara trasera para Poco F1. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:18Z
+  Updated: 2026-10-23T18:18:54Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_887989-MLM75917555522_042024-B.jpg?v=1746548144
-  Price: 305,00 $ MXN
+  Price: 370,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Mi A3 M1906f9sh](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-mi-a3-m1906f9sh): Cámara trasera para Xiaomi Mi A3. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:15Z
+  Updated: 2026-10-23T18:18:54Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_653989-MLM75917564998_042024-B.jpg?v=1746548144
-  Price: 280,00 $ MXN
+  Price: 340,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi Note 8 M1908c3j](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-note-8-m1908c3j): Cámara trasera para Redmi Note 8. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-24T18:40:16Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_731609-MLM75917565066_042024-B.jpg?v=1746548143
-  Price: 245,00 $ MXN
+  Price: 300,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Mi 9 Se M1903f2g](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-mi-9-se-m1903f2g): Cámara trasera para Xiaomi Mi 9 SE. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:53Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_793251-MLM75917555566_042024-B.jpg?v=1746548143
-  Price: 190,00 $ MXN
+  Price: 230,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi Note 11 4g](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-note-11-4g): Cámara trasera para Redmi Note 11 4G. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:52Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_621401-MLM75917531210_042024-B.jpg?v=1746548142
-  Price: 240,00 $ MXN
+  Price: 260,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi Note 6 Pro](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-note-6-pro): Cámara trasera para Redmi Note 6 Pro. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:51Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_735121-MLM75917531170_042024-B.jpg?v=1746548142
-  Price: 155,00 $ MXN
+  Price: 190,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi Note 8 Pro](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-note-8-pro): Cámara trasera para Redmi Note 8 Pro. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:15Z
+  Updated: 2026-10-23T18:18:51Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_636548-MLM75917531180_042024-B.jpg?v=1746548141
-  Price: 370,00 $ MXN
+  Price: 450,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi 5 Plus Meg7](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-5-plus-meg7): Cámara trasera para Redmi 5 Plus. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:50Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_943378-MLM75917531176_042024-B.jpg?v=1746548141
-  Price: 210,00 $ MXN
+  Price: 260,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi S2 M1803e6g](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-s2-m1803e6g): Cámara trasera para Redmi S2. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:50Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_810852-MLM75917565002_042024-B.jpg?v=1746548141
-  Price: 140,00 $ MXN
+  Price: 175,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Oppo Reno 5 Lite Cph2205](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-oppo-reno-5-lite-cph2205): Bandeja porta SIM para Oppo Reno 5 Lite. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:49Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
@@ -1142,92 +1158,92 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Negro](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-oppo-reno-5-lite-cph2205?variant=67822073577534)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP20003171-1.jpg?v=1791308732
-    Price: 206,80 $ MXN
+    Price: 60,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Redmi Note 9c](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-redmi-note-9c): Cámara trasera para Redmi Note 9C. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:49Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_985789-MLM75917555572_042024-B.jpg?v=1746548140
-  Price: 135,00 $ MXN
+  Price: 160,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Poco F3 M2012k11ag](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-poco-f3-m2012k11ag): Cámara trasera para Poco F3. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:48Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_692392-MLM75917555514_042024-B.jpg?v=1746548139
-  Price: 280,00 $ MXN
+  Price: 325,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Mi Note 10 M2002f4LG](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-mi-note-10-m2002f4lg): Cámara trasera para Xiaomi Mi Note 10. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:47Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_859429-MLM75917531174_042024-B_a41cf6ec-f3c6-408a-9ecc-c4bae10add99.jpg?v=1746548139
-  Price: 285,00 $ MXN
+  Price: 330,00 $ MXN
 - [Bandeja Porta SIM Realme C21Y RMX3261 RMX3263 | Repuesto](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-c21y): Compra la bandeja porta SIM para Realme C21Y (RMX3261, RMX3263). Restaura la lectura de tu chip y recupera tu señal móvil al instante.
-  Updated: 2026-10-20T19:42:01Z
+  Updated: 2026-10-23T18:18:47Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_778617-MLM76092727683_042024-B.jpg?v=1746548138
   - [Negro](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-c21y?variant=67883996545086)
     Availability: Not Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Azul](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-c21y?variant=67883996577854)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Realme Narzo 50a Rmx3430](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-narzo-50a-rmx3430): Bandeja porta SIM para Realme Narzo 50A. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:46Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_689271-MLM76092971243_042024-B.jpg?v=1746548138
   - [Azul Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-narzo-50a-rmx3430?variant=41271549427774)
     Availability: Available
-    Price: 65,00 $ MXN
+    Price: 55,00 $ MXN
   - [Negro Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-narzo-50a-rmx3430?variant=41271549460542)
     Availability: Available
-    Price: 65,00 $ MXN
+    Price: 55,00 $ MXN
 - [Camara Trasera Compatible Con Xiaomi Mi 9 M1902f1g](https://refaccionestechhouse.mx/products/camara-trasera-compatible-con-xiaomi-mi-9-m1902f1g): Cámara trasera para Xiaomi Mi 9. Recupera fotos y videos nítidos. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:46Z
   Vendor: Refacciones Tech House
   Product Type: Cámara trasera
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_773538-MLM75917555518_042024-B_e5b8aa45-27e2-4430-b05b-14b536bfcdba.jpg?v=1746548137
-  Price: 605,00 $ MXN
+  Price: 725,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Realme 10 Rmx3630](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-10-rmx3630): Bandeja porta SIM para Realme 10. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:45Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_738115-MLM76092727879_042024-B.jpg?v=1746548137
   - [Azul Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-10-rmx3630?variant=41271549591614)
     Availability: Available
-    Price: 90,00 $ MXN
+    Price: 65,00 $ MXN
   - [Blanco Single](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-10-rmx3630?variant=41271549624382)
     Availability: Available
-    Price: 90,00 $ MXN
+    Price: 65,00 $ MXN
 - [Bandeja Porta Sim Compatible Con One Plus Nord Ac2001](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-one-plus-nord-ac2001): Bandeja porta SIM para OnePlus Nord. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:44Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_957063-MLM76092756105_042024-B_96ba2f57-086f-40cb-9f93-762731dd0b00.jpg?v=1746548136
   - [Azul Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-one-plus-nord-ac2001?variant=41271549657150)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
   - [Gris Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-one-plus-nord-ac2001?variant=41271549689918)
     Availability: Available
-    Price: 75,00 $ MXN
+    Price: 65,00 $ MXN
 - [Bandeja Porta Sim Compatible Con Realme 7 Rmx2155](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-7-rmx2155): Bandeja porta SIM para Realme 7. Recupera la lectura de tu chip. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:43Z
   Vendor: Refacciones Tech House
   Product Type: Bandeja SIM
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_788967-MLM76092756019_042024-B.jpg?v=1746548135
   - [Azul Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-7-rmx2155?variant=41271549722686)
     Availability: Available
-    Price: 70,00 $ MXN
+    Price: 60,00 $ MXN
   - [Azul Fuerte Dual](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-7-rmx2155?variant=41271549755454)
     Availability: Available
     Price: 200,00 $ MXN
@@ -1237,23 +1253,23 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Blanco](https://refaccionestechhouse.mx/products/bandeja-porta-sim-compatible-con-realme-7-rmx2155?variant=67859969572926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP20008584-1_1869277a-cca1-4d90-8f1b-a0aa85826104.jpg?v=1791645224
-    Price: 136,63 $ MXN
+    Price: 60,00 $ MXN
 - [Pantalla/Display Compatible Con Huawei Honor 20 Pro](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-20-pro): Pantalla para Honor 20 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:42Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_684954-MLM75295923691_032024-B.jpg?v=1746548135
-  Price: 910,00 $ MXN
+  Price: 945,00 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Poco X4 Gt 22041216g](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-poco-x4-gt-22041216g): Pantalla para Poco X4 GT. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:42Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_915326-MLM75407724947_032024-B.jpg?v=1746548133
-  Price: 755,00 $ MXN
+  Price: 670,00 $ MXN
 - [Pantalla/Display para Moto G200 | Reemplazo Incell y Oled XT2141-1](https://refaccionestechhouse.mx/products/pantalla-compatible-moto-g200-xt2141-1-incell-oled): Pantalla para Moto G200. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T21:04:23Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1261,13 +1277,13 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-moto-g200-xt2141-1-incell-oled?variant=42934758801470)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F606.jpg?v=1781719469
-    Price: 860,00 $ MXN
+    Price: 635,00 $ MXN
   - [Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-moto-g200-xt2141-1-incell-oled?variant=42934758834238)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F504.jpg?v=1781719474
-    Price: 1285,00 $ MXN
+    Price: 950,00 $ MXN
 - [Pantalla/Display con Marco para Samsung Galaxy A02s | HD+ SM-A025M](https://refaccionestechhouse.mx/products/pantalla-con-marco-samsung-galaxy-a02s-sm-a025m-hd): Pantalla para Samsung Galaxy A02s (con marco). Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-25T05:08:26Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1275,27 +1291,27 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [HD](https://refaccionestechhouse.mx/products/pantalla-con-marco-samsung-galaxy-a02s-sm-a025m-hd?variant=42941643948094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F111.jpg?v=1782230630
-    Price: 545,00 $ MXN
+    Price: 375,00 $ MXN
   - [FHD+](https://refaccionestechhouse.mx/products/pantalla-con-marco-samsung-galaxy-a02s-sm-a025m-hd?variant=42941643980862)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F851.jpg?v=1782230633
-    Price: 715,00 $ MXN
+    Price: 495,00 $ MXN
 - [Pantalla/Display Compatible Con Honor X5 Plus Wod-lx1 Lcd](https://refaccionestechhouse.mx/products/pantalla-compatible-con-honor-x5-plus-wod-lx1-lcd): Pantalla LCD para Honor X5 Plus. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:37Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_874599-MLM76424295428_052024-B.jpg?v=1746548128
-  Price: 525,00 $ MXN
+  Price: 450,00 $ MXN
 - [Adhesivo compatible con Batería iPhone 13 Mini](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-13-mini): Adhesivo compatible con Batería iPhone 13 Mini. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:37Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_730794-MLM76536993644_052024-B.jpg?v=1746548127
-  Price: 60,00 $ MXN
+  Price: 65,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A35 | Calidad Premium SM-A356E](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35): Pantalla para Samsung Galaxy A35 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:17Z
+  Updated: 2026-10-27T17:51:11Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1303,152 +1319,131 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Negro / Incell / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954312777790)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP20005189.jpg?v=1782431178
-    Price: 695,00 $ MXN
+    Price: 595,00 $ MXN
   - [Negro / Oled / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954312876094)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0703F677.jpg?v=1782431187
-    Price: 2705,00 $ MXN
+    Price: 2335,00 $ MXN
   - [Negro / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954312908862)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F998.jpg?v=1782431196
-    Price: 2805,00 $ MXN
+    Price: 2425,00 $ MXN
   - [Negro / Original del Equipo / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954313007166)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/GH82-34224A.jpg?v=1782431204
-    Price: 1945,00 $ MXN
+    Price: 1620,00 $ MXN
   - [Azul / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954313171006)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F995.jpg?v=1782431211
-    Price: 2770,00 $ MXN
+    Price: 2395,00 $ MXN
   - [Azul Claro / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954313433150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F899.jpg?v=1782431216
-    Price: 2855,00 $ MXN
+    Price: 2465,00 $ MXN
   - [Púrpura / OEM / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a35?variant=42954313695294)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F997.jpg?v=1782431237
-    Price: 2805,00 $ MXN
+    Price: 2425,00 $ MXN
 - [Pantalla/Display con Marco compatible con Xiaomi Redmi 13C LCD](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-xiaomi-redmi-13c-lcd): Pantalla LCD para Redmi 13C. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T18:18:35Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_NQ_NP_2X_899101-MLM90757940596_082025-F.webp?v=1761261281
-  Price: 510,00 $ MXN
+  Price: 450,00 $ MXN
 - [Pantalla/Display LCD compatible con Xiaomi Redmi 13 / Poco C65](https://refaccionestechhouse.mx/products/pantalla-lcd-compatible-xiaomi-redmi-13-poco-c65): Pantalla LCD para Redmi 13 y Poco C65. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:16Z
+  Updated: 2026-10-23T21:26:05Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1420F005-1.jpg?v=1779205172
-  Price: 435,00 $ MXN
+  Price: 380,00 $ MXN
 - [Adhesivo compatible con Batería iPhone XS](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-xs): Adhesivo compatible con Batería iPhone XS. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:32Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_774323-MLM76735847155_052024-B.jpg?v=1746548120
   Price: 50,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone 11 Pro Max](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-11-pro-max): Adhesivo compatible con Batería de iPhone 11 Pro Max. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:32Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_887259-MLM76735854881_052024-B.jpg?v=1746548119
   Price: 50,00 $ MXN
 - [Pantalla/Display para OPPO A78 5G | Repuesto Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-con-oppo-a78-5g): Pantalla para Oppo A78 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-23T18:18:31Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_763392-MLM76424282762_052024-B.jpg?v=1746548118
-  Price: 370,00 $ MXN
+  Price: 330,00 $ MXN
 - [Adhesivo compatible con batería iPhone 13](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-13): Adhesivo compatible con batería iPhone 13. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:30Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_757623-MLM76735847159_052024-B.jpg?v=1746548117
-  Price: 60,00 $ MXN
-- [Adhesivo compatible con Batería de iPhone 14 Pro](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-14-pro): Adhesivo compatible con Batería de iPhone 14 Pro. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
-  Vendor: Refacciones Tech House
-  Product Type: Adhesivo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_933313-MLM76735847265_052024-B.jpg?v=1746548117
-  Price: 105,00 $ MXN
-- [Adhesivo compatible con batería iPhone 14](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-14): Adhesivo compatible con batería iPhone 14. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
-  Vendor: Refacciones Tech House
-  Product Type: Adhesivo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_688347-MLM76735855009_052024-B.jpg?v=1746548116
-  Price: 105,00 $ MXN
+  Price: 65,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone 11 Pro](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-11-pro): Adhesivo compatible con Batería de iPhone 11 Pro. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:28Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_849733-MLM76537167208_052024-B.jpg?v=1746548115
   Price: 50,00 $ MXN
 - [Adhesivo para Batería de iPhone XS Max | Tiras de Sujeción](https://refaccionestechhouse.mx/products/adhesivo-bateria-iphone-xs-max-pull-tabs): Compra el adhesivo de doble cara para batería de iPhone XS Max. Incluye pestañas de extracción elásticas para una reparación segura y profesional. Ajuste perfecto garantizado.
-  Updated: 2026-10-13T17:26:35Z
+  Updated: 2026-10-23T18:18:28Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_932272-MLM76735847161_052024-B.jpg?v=1746548113
   Price: 50,00 $ MXN
 - [Adhesivo compatible con batería iPhone 13 Pro Max](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-13-pro-max): Adhesivo compatible con batería iPhone 13 Pro Max. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-26T16:39:07Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_793890-MLM76735847157_052024-B.jpg?v=1746548113
-  Price: 60,00 $ MXN
+  Price: 65,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone 13 Pro](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-13-pro): Adhesivo compatible con Batería de iPhone 13 Pro. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-26T16:43:18Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_914817-MLM76735854879_052024-B.jpg?v=1746548106
-  Price: 60,00 $ MXN
-- [Adhesivo compatible con batería iPhone 14 Pro Max](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-iphone-14-pro-max): Adhesivo compatible con batería iPhone 14 Pro Max. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
-  Vendor: Refacciones Tech House
-  Product Type: Adhesivo
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_874987-MLM76735854883_052024-B.jpg?v=1746548105
-  Price: 105,00 $ MXN
+  Price: 65,00 $ MXN
 - [Pantalla/Display compatible con Honor X6A LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-x6a-lcd): Pantalla LCD para Honor X6a. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:26Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_908289-MLM76424282768_052024-B.jpg?v=1746548105
-  Price: 390,00 $ MXN
+  Price: 345,00 $ MXN
 - [Pantalla/Display para Moto G7 Power | Reemplazo Incell XT1955](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-g7-power-xt1955-incell): Pantalla para Moto G7 Power. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:25Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_768612-MLM75233009310_032024-B.jpg?v=1746548103
-  Price: 740,00 $ MXN
+  Price: 475,00 $ MXN
 - [Pantalla/Display compatible con Vivo Y20](https://refaccionestechhouse.mx/products/pantalla-compatible-con-vivo-y20-v2027): Pantalla para Vivo Y20. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:24Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_951757-MLM75234098554_032024-B.jpg?v=1746548102
-  Price: 430,00 $ MXN
+  Price: 415,00 $ MXN
 - [Pantalla/Display compatible con Huawei P40 Lite JNY-L21A Premium](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-p40-lite-jny-l21a-premium): Pantalla para Huawei P40 Lite y Huawei Nova 7i (premium). Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:24Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_605330-MLM75380916237_032024-B.jpg?v=1746548101
-  Price: 555,00 $ MXN
+  Price: 535,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A10s](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10s-sm-a107m): Pantalla para Samsung Galaxy A10s. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T21:04:23Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1456,64 +1451,64 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Con Marco / HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10s-sm-a107m?variant=42943494094910)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F858.jpg?v=1782251501
-    Price: 580,00 $ MXN
+    Price: 375,00 $ MXN
   - [Con Marco / FHD+](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10s-sm-a107m?variant=42943494127678)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0701F681.jpg?v=1782251504
-    Price: 1075,00 $ MXN
+    Price: 695,00 $ MXN
   - [Sin Marco / HD](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a10s-sm-a107m?variant=42943494160446)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F857.jpg?v=1782251510
-    Price: 560,00 $ MXN
+    Price: 360,00 $ MXN
 - [Adhesivo compatible con Batería de iPhone 12 Mini](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-de-iphone-12-mini-a2399-premium): Adhesivo compatible con Batería de iPhone 12 Mini. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:53Z
+  Updated: 2026-10-23T18:18:22Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_910864-MLM54869977237_042023-B.jpg?v=1746548098
-  Price: 50,00 $ MXN
+  Price: 55,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Poco M3](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-poco-m3-m2010j19cg): Pantalla para Poco M3. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:21Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_608400-MLM75173881948_032024-B.jpg?v=1746548097
-  Price: 885,00 $ MXN
+  Price: 855,00 $ MXN
 - [Pantalla/Display compatible con Honor X8](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-x8-jsn-l22): Pantalla para Honor X8. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T21:25:56Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0902F676.png?v=1746548097
-  Price: 575,00 $ MXN
+  Price: 510,00 $ MXN
 - [Adhesivo Batería de iPhone 12 Pro A2407 Premium](https://refaccionestechhouse.mx/products/adhesivo-para-bateria-de-iphone-12-pro-a2407-premium): Adhesivo compatible con Batería de iPhone 12 Pro A2407 Premium. Refacción para tu equipo. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:20Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_621272-MLM54874293826_042023-B_af559fc7-5010-4928-b7bb-5d44ab49773a.jpg?v=1746548096
-  Price: 50,00 $ MXN
+  Price: 55,00 $ MXN
 - [Pantalla/Display compatible con Xiaomi Mi 8 Lite M1808D2TT Premium](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-mi-8-lite-m1808d2tt-premium): Pantalla para Xiaomi Mi 8 Lite. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:19Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_957015-MLA71536677586_092023-B.jpg?v=1746548095
-  Price: 605,00 $ MXN
+  Price: 625,00 $ MXN
 - [Pantalla/Display C/ Marco Compatible Con Huawei Mate 40 Pro Noh-nx9](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-mate-40-pro-noh-nx9): Pantalla para Huawei Mate 40 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-23T18:18:18Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_989457-MLM75255127164_032024-B.jpg?v=1746548095
   - [Negro](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-mate-40-pro-noh-nx9?variant=41271552868414)
     Availability: Available
-    Price: 4365,00 $ MXN
+    Price: 4260,00 $ MXN
   - [Silver](https://refaccionestechhouse.mx/products/pantalla-c-marco-compatible-con-huawei-mate-40-pro-noh-nx9?variant=41271552901182)
     Availability: Available
-    Price: 4365,00 $ MXN
+    Price: 4260,00 $ MXN
 - [Pantalla/Display para Samsung Galaxy A22 4G](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a22-4g): Pantalla para Samsung Galaxy A22. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T21:04:24Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1521,17 +1516,17 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Incell / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a22-4g?variant=42953136537662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F862.jpg?v=1782406243
-    Price: 730,00 $ MXN
+    Price: 505,00 $ MXN
   - [Incell / sin Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a22-4g?variant=42953136570430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0702F861.jpg?v=1782406167
-    Price: 650,00 $ MXN
+    Price: 445,00 $ MXN
   - [Oled / con Marco](https://refaccionestechhouse.mx/products/pantalla-compatible-samsung-galaxy-a22-4g?variant=42953136603198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NZ0702F100.jpg?v=1782406331
-    Price: 2410,00 $ MXN
+    Price: 1665,00 $ MXN
 - [Pantalla/Display Motorola Moto E7 Power](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-e7-power-incell): Pantalla para Moto E7 Power. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T21:04:24Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
@@ -1539,13 +1534,13 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Amoled](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-e7-power-incell?variant=42928748888126)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F497.jpg?v=1781565015
-    Price: 1450,00 $ MXN
+    Price: 1000,00 $ MXN
   - [Incell](https://refaccionestechhouse.mx/products/pantalla-compatible-motorola-moto-e7-power-incell?variant=42928748920894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP1403F551.jpg?v=1781565022
-    Price: 875,00 $ MXN
+    Price: 605,00 $ MXN
 - [Adhesivo 3M sellado a prueba de agua Apple Watch Series 7](https://refaccionestechhouse.mx/products/adhesivo-3m-sellado-prueba-agua-apple-watch-series-7): Compra el adhesivo 3M de repuesto para Apple Watch Series 7. Sellado hermético a prueba de agua para modelos de 41 mm y 45 mm (A2475, A2476, A2477, A2478). ¡Envío rápido!
-  Updated: 2026-10-20T04:28:08Z
+  Updated: 2026-10-23T18:18:16Z
   Vendor: Refacciones Tech House
   Product Type: Adhesivo
   Availability: Available
@@ -1559,28 +1554,28 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
     Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/45MM_5a559964-241d-4f3b-932b-0bde1550c861.webp?v=1764694780
     Price: 99,24 $ MXN
 - [Pantalla/Display compatible con ZTE Blade A53 LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-blade-a53-lcd): Pantalla LCD para ZTE Blade A53. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-23T18:18:15Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0102F592.webp?v=1762458608
-  Price: 507,07 $ MXN
+  Price: 443,72 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Poco F5 Lcd](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-poco-f5-lcd): Pantalla LCD para Poco F5. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:50Z
+  Updated: 2026-10-23T18:18:14Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_629437-MLM77295039275_062024-B.jpg?v=1746548091
-  Price: 560,00 $ MXN
+  Price: 495,00 $ MXN
 - [Pantalla/Display Samsung Galaxy M34 5g | Refacciones Tech House](https://refaccionestechhouse.mx/products/pantalla-compatible-con-samsung-galaxy-m34-5g-oled): Pantalla OLED para Samsung Galaxy M34 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-23T18:18:13Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_837447-MLM77295039161_062024-B.jpg?v=1746548090
-  Price: 2390,00 $ MXN
+  Price: 1770,00 $ MXN
 - [Hilo de Molibdeno de Alta Tenacidad](https://refaccionestechhouse.mx/products/hilo-de-molibdeno-para-separar-glass-display-100m): Hilo de Molibdeno de Alta Tenacidad. Herramienta profesional para técnicos en reparación. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:27:52Z
+  Updated: 2026-10-23T18:18:11Z
   Vendor: Refacciones Tech House
   Product Type: Consumible de reparación
   Availability: Available
@@ -1613,272 +1608,219 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
     Availability: Available
     Price: 200,00 $ MXN
 - [Pantalla/Display compatible con Honor V40 Amoled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-honor-v40-amoled): Pantalla AMOLED para Honor V40. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:10Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_848578-MLM77295055479_062024-B.jpg?v=1746548089
-  Price: 1525,00 $ MXN
+  Price: 1475,00 $ MXN
 - [Pantalla/Display Compatible Con Realme C67 Rmx3890 Lcd](https://refaccionestechhouse.mx/products/pantalla-compatible-con-realme-c67-rmx3890-lcd): Pantalla LCD para Realme C67. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:09Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_747938-MLM77082866888_062024-B.jpg?v=1746548089
-  Price: 665,00 $ MXN
+  Price: 575,00 $ MXN
 - [Pantalla/Display compatible con Infinix Zero 30 Amoled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-telefono-infinix-zero-30-amoled): Pantalla AMOLED para Infinix Zero 30. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:19:06Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_940966-MLM77297264879_062024-B.jpg?v=1746548089
-  Price: 2400,00 $ MXN
+  Price: 2135,00 $ MXN
 - [Pantalla/Display compatible con ZTE Blade A34 LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-blade-a34-lcd): Pantalla LCD para ZTE Blade A34. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:08Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0102F591-1.webp?v=1762458310
-  Price: 594,29 $ MXN
+  Price: 505,51 $ MXN
 - [Pantalla/Display Compatible Con Realme C36/c51/c53 Lcd](https://refaccionestechhouse.mx/products/pantalla-compatible-con-realme-c36-c51-c53-lcd): Pantalla LCD para Realme C36 y Realme C51. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:07Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_696699-MLM77295055359_062024-B.jpg?v=1746548088
-  Price: 405,00 $ MXN
+  Price: 360,00 $ MXN
 - [Pantalla/Display Externa para Moto Razr 5G | OLED Flexible XT2071](https://refaccionestechhouse.mx/products/pantalla-externa-compatible-motorola-moto-razr-5g-xt2071-oled): Pantalla para Moto Razr 5G (2020). Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:06Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_761088-MLM78300568191_082024-B.jpg?v=1746548088
-  Price: 3670,00 $ MXN
+  Price: 2535,00 $ MXN
 - [Pantalla/Display compatible con ZTE Axon 40 Lite 5G LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-axon-40-lite-5g-lcd): Pantalla LCD para ZTE Axon 40 Lite 5G. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:27:51Z
+  Updated: 2026-10-23T18:18:05Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_NQ_NP_2X_881547-MLM86357255960_062025-F.webp?v=1761581491
-  Price: 646,62 $ MXN
+  Price: 566,65 $ MXN
 - [Pantalla/Display compatible con Motorola Moto G24 Power LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-motorola-moto-g24-power-lcd): Pantalla LCD para Moto G24 Power. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:28Z
+  Updated: 2026-10-23T18:18:05Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_891772-MLM77295055809_062024-B.jpg?v=1746548087
-  Price: 795,00 $ MXN
+  Price: 680,00 $ MXN
 - [Pantalla/Display Compatible Con Xiaomi Redmi Note 12 4g/5g Oled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-redmi-note-12-4g-5g-oled): Pantalla OLED para Redmi Note 12. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:30Z
+  Updated: 2026-10-23T18:18:04Z
   Vendor: Refacciones Tech House
   Product Type: Pantalla
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_692059-MLM77295033659_062024-B.jpg?v=1746548086
-  Price: 1160,00 $ MXN
-- [Cámara Frontal compatible con Xiaomi Mi 10 Lite M2002J9G](https://refaccionestechhouse.mx/products/camara-frontal-compatible-con-xiaomi-mi-10-lite-m2002j9g): Cámara frontal para Xiaomi Mi 10 Lite. Recupera tus selfies y videollamadas. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:32Z
-  Vendor: Refacciones Tech House
-  Product Type: Cámara frontal
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_831413-MLM77302351155_062024-B.jpg?v=1746548085
-  Price: 205,00 $ MXN
-- [Cámara Frontal compatible con Xiaomi Redmi 7 M1810F6LG](https://refaccionestechhouse.mx/products/camara-frontal-compatible-con-xiaomi-redmi-7-m1810f6lg): Cámara frontal para Redmi 7. Recupera tus selfies y videollamadas. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:31Z
-  Vendor: Refacciones Tech House
-  Product Type: Cámara frontal
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_924491-MLM77090032276_062024-B.jpg?v=1746548085
-  Price: 95,00 $ MXN
-- [Cámara Frontal compatible con Huawei Honor V20 PCT-L29](https://refaccionestechhouse.mx/products/camara-frontal-compatible-con-huawei-honor-v20-pct-l29): Cámara frontal para Honor V20 y Honor View 20. Recupera tus selfies y videollamadas. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:28:31Z
-  Vendor: Refacciones Tech House
-  Product Type: Cámara frontal
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_879763-MLM77090039268_062024-B.jpg?v=1746548085
-  Price: 120,00 $ MXN
-- [Pantalla/Display Compatible Con Xiaomi Mi Note 10 M1910f4g Amoled](https://refaccionestechhouse.mx/products/pantalla-compatible-con-xiaomi-mi-note-10-m1910f4g-amoled): Pantalla AMOLED para Xiaomi Mi Note 10. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:28Z
-  Vendor: Refacciones Tech House
-  Product Type: Pantalla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_881688-MLM77295038951_062024-B_85f2264f-6f44-4a36-a037-ec9d62efb660.jpg?v=1746548084
-  Price: 991,05 $ MXN
-- [Pantalla/Display Samsung Galaxy M30s/m30/m31](https://refaccionestechhouse.mx/products/pantalla-compatible-con-samsung-galaxy-m30s-m30-m31-incell): Pantalla Incell para Samsung Galaxy M30s y Samsung Galaxy M30. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:28:31Z
-  Vendor: Refacciones Tech House
-  Product Type: Pantalla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_653686-MLM77295055483_062024-B.jpg?v=1746548084
-  Price: 900,00 $ MXN
-- [Pantalla/Display para Infinix Note 40 Pro | Modelo X6851 | 6.7" FHD+](https://refaccionestechhouse.mx/products/pantalla-compatible-infinix-note-40-pro-x6851): Pantalla AMOLED para Infinix Note 40 Pro. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:30Z
-  Vendor: Refacciones Tech House
-  Product Type: Pantalla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/NP0102F581-1.jpg?v=1777562759
-  Price: 2090,00 $ MXN
-- [Pantalla/Display compatible con Huawei Mate 20 LCD](https://refaccionestechhouse.mx/products/pantalla-compatible-con-huawei-mate-20-lcd): Pantalla LCD para Huawei Mate 20. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:32Z
-  Vendor: Refacciones Tech House
-  Product Type: Pantalla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_894619-MLM71085554680_082023-B.jpg?v=1746548080
-  Price: 1135,00 $ MXN
-- [Pantalla/Display compatible con ZTE Blade V30 4G 9030 Premium](https://refaccionestechhouse.mx/products/pantalla-compatible-con-zte-blade-v30-4g-9030-premium): Pantalla para ZTE Blade V30. Imagen y táctil listos para instalar. Envío a todo México y precio de mayoreo para talleres. Compra en Tech House.
-  Updated: 2026-10-20T21:28:31Z
-  Vendor: Refacciones Tech House
-  Product Type: Pantalla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0561/8086/7134/files/D_715633-MLM71151740009_082023-B.jpg?v=1746548080
-  Price: 872,82 $ MXN
-[List Continued](https://refaccionestechhouse.mx/a/llms-agent/llms.txt?shop=a3509a-3.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjYzMTY0MjkzMTgyLCJsYXN0X3ZhbHVlIjoiNzY2MzE2NDI5MzE4MiJ9)
+  Price: 1030,00 $ MXN
+[List Continued](https://refaccionestechhouse.mx/a/llms-agent/llms.txt?shop=a3509a-3.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjYzMTYzNjcwNTkwLCJsYXN0X3ZhbHVlIjoiNzY2MzE2MzY3MDU5MCJ9)
 
 ## Collections
 
 - [Microscopios, Monitores, Cámaras y más](https://refaccionestechhouse.mx/collections/microscopios-trinoculares): Microscopios, Monitores, Cámaras y más en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+  Updated: 2026-10-22T20:48:10Z
   Total Products: 38
 - [Máquinas Cortadoras de Hidrogel](https://refaccionestechhouse.mx/collections/corte-e-instalacion-de-micas-de-hidrogel): Máquinas cortadoras de micas de hidrogel para taller: corta protectores a la medida de cualquier modelo. Equipo profesional para tu negocio.
-  Updated: 2026-10-16T16:17:50Z
+  Updated: 2026-10-23T17:19:28Z
   Total Products: 9
-- [Forward](https://refaccionestechhouse.mx/collections/forward): Refacciones para Forward Machine Factory: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-17T00:02:25Z
+- [Forward (selección anterior)](https://refaccionestechhouse.mx/collections/forward-anterior): Refacciones para Forward Machine Factory: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T16:03:44Z
   Total Products: 72
+- [Baterías](https://refaccionestechhouse.mx/collections/baterias): Asegura la potencia de cada dispositivo que llega a tu taller con nuestra línea profesional de baterías de repuesto. Entendemos que la versatilidad es clave para tu negocio; por ello, contamos con el catálogo más amplio de baterías para todas las marcas y modelos, incluyendo smartphones, tablets, smartwatches y computadoras portátiles. Ofrecemos diferentes calidades con celdas de alta densidad y 0 ciclos de carga. Nuestras refacciones garantizan capacidad real y circuitos de protección IC para evitar sobrecargas, brindando la confianza que un técnico profesional exige para evitar garantías.
+  Updated: 2026-10-27T22:14:14Z
+  Total Products: 788
 - [Baterías para iPhone](https://refaccionestechhouse.mx/collections/baterias-para-iphone): Batería y pila para iPhone de reemplazo por modelo (iPhone X y más), en calidad compatible u original. Refacciones para talleres y técnicos.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-26T16:30:19Z
   Total Products: 146
 - [Baterías para Apple Watch](https://refaccionestechhouse.mx/collections/baterias-para-apple-watch): Batería para Apple Watch de reemplazo por serie. Recupera la autonomía de tu reloj; refacción para talleres y técnicos.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-27T11:16:31Z
   Total Products: 29
 - [Baterías para MacBook](https://refaccionestechhouse.mx/collections/baterias-para-macbook): Batería para MacBook Air y Pro de reemplazo por modelo. Recupera la autonomía de tu laptop Apple; refacción para talleres.
-  Updated: 2026-10-16T16:17:50Z
+  Updated: 2026-10-22T21:08:41Z
   Total Products: 40
 - [Baterías para AirPods](https://refaccionestechhouse.mx/collections/baterias-para-airpods): Batería para AirPods de reemplazo por modelo. Refacción para reparación de audífonos inalámbricos; para talleres y técnicos.
-  Updated: 2026-10-16T16:17:50Z
+  Updated: 2026-10-22T20:17:35Z
   Total Products: 7
 - [Baterías para Samsung](https://refaccionestechhouse.mx/collections/baterias-samsung): Batería o pila Samsung de reemplazo por modelo exacto (Galaxy A, S, Note), en calidad compatible u original. Refacciones para talleres.
-  Updated: 2026-10-17T18:21:09Z
-  Total Products: 272
+  Updated: 2026-10-25T11:16:29Z
+  Total Products: 274
 - [Baterías para Xiaomi](https://refaccionestechhouse.mx/collections/baterias-xiaomi): Batería o pila Xiaomi de reemplazo por modelo: Redmi, Note, POCO y Mi. Refacción compatible para talleres y técnicos.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-24T20:27:15Z
   Total Products: 207
 - [Baterías para Huawei](https://refaccionestechhouse.mx/collections/baterias-huawei): Batería o pila Huawei de reemplazo por modelo: series P, Mate, Nova y Y. Refacción compatible para talleres y técnicos.
-  Updated: 2026-10-19T16:44:59Z
-  Total Products: 114
+  Updated: 2026-10-27T22:14:10Z
+  Total Products: 115
 - [Baterías para LG](https://refaccionestechhouse.mx/collections/baterias-para-lg): Batería LG de reemplazo por modelo: series K, G y Q. Refacción compatible para talleres y técnicos.
-  Updated: 2026-10-16T16:17:51Z
+  Updated: 2026-10-21T18:11:39Z
   Total Products: 27
 - [Pantallas iPhone](https://refaccionestechhouse.mx/collections/pantallas-apple): Pantalla y display para iPhone de reemplazo por modelo, del iPhone 6 a la serie 15. Calidad original y compatible de alta gama para tu reparación.
-  Updated: 2026-10-20T20:15:07Z
-  Total Products: 110
+  Updated: 2026-10-27T22:23:46Z
+  Total Products: 118
 - [Pantallas Samsung](https://refaccionestechhouse.mx/collections/pantallas-samsung): Pantalla y display Samsung de reemplazo por modelo: Galaxy A, S, Note y más. Calidad OLED, Incell u Original para tu reparación.
-  Updated: 2026-10-20T11:22:53Z
-  Total Products: 318
+  Updated: 2026-10-27T22:23:36Z
+  Total Products: 323
 - [Pantallas Xiaomi](https://refaccionestechhouse.mx/collections/pantallas-xiaomi): Pantalla Xiaomi de reemplazo por modelo: Redmi, Note, POCO y más. Calidad OLED, Incell u Original para tu reparación.
-  Updated: 2026-10-19T22:06:12Z
-  Total Products: 261
+  Updated: 2026-10-27T22:23:45Z
+  Total Products: 268
 - [Pantallas Huawei](https://refaccionestechhouse.mx/collections/pantallas-huawei): Pantalla Huawei de reemplazo por modelo: series P, Mate, Nova y Y. Calidad OLED, Incell u Original para tu reparación.
-  Updated: 2026-10-16T16:17:51Z
+  Updated: 2026-10-23T19:44:36Z
   Total Products: 182
 - [Pantallas Honor](https://refaccionestechhouse.mx/collections/pantallas-honor): Pantalla Honor de reemplazo por modelo: series Magic, X y Play. Calidad OLED e Incell para tu reparación.
-  Updated: 2026-10-19T21:56:54Z
-  Total Products: 130
-- [Pantallas Realme](https://refaccionestechhouse.mx/collections/pantallas-realme): Pantalla Realme de reemplazo por modelo: series C, Narzo y GT. Módulo completo para tu reparación.
-  Updated: 2026-10-16T16:17:51Z
+  Updated: 2026-10-27T22:13:22Z
+  Total Products: 132
+- [Pantallas Realme (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-realme-anterior): Pantalla Realme de reemplazo por modelo: series C, Narzo y GT. Módulo completo para tu reparación.
+  Updated: 2026-10-27T16:57:44Z
   Total Products: 118
-- [Pantallas LG](https://refaccionestechhouse.mx/collections/pantallas-lg): Pantalla LG de reemplazo por modelo: series K, G y Q. Módulo completo para tu reparación.
-  Updated: 2026-10-16T16:17:51Z
+- [Pantallas LG (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-lg-anterior): Pantalla LG de reemplazo por modelo: series K, G y Q. Módulo completo para tu reparación.
+  Updated: 2026-10-24T15:57:12Z
   Total Products: 31
 - [Pantallas Motorola](https://refaccionestechhouse.mx/collections/pantallas-motorola): Pantalla Motorola de reemplazo por modelo: Moto G, E, Edge y One. Módulo completo con o sin marco para tu reparación.
-  Updated: 2026-10-16T16:17:51Z
-  Total Products: 159
-- [Pantallas Oppo](https://refaccionestechhouse.mx/collections/pantalla-oppo): Pantalla Oppo de reemplazo por modelo: series A, Reno y Find. Calidad OLED e Incell para tu reparación.
-  Updated: 2026-10-16T16:17:51Z
+  Updated: 2026-10-26T23:18:25Z
+  Total Products: 161
+- [Pantallas Oppo (selección anterior)](https://refaccionestechhouse.mx/collections/pantalla-oppo-anterior): Pantalla Oppo de reemplazo por modelo: series A, Reno y Find. Calidad OLED e Incell para tu reparación.
+  Updated: 2026-10-24T15:57:12Z
   Total Products: 98
-- [Pantallas Cubot](https://refaccionestechhouse.mx/collections/pantallas-cubot): Pantalla Cubot de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:51Z
+- [Pantallas Cubot (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-cubot-anterior): Pantalla Cubot de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:13Z
   Total Products: 37
-- [Pantallas Infinix](https://refaccionestechhouse.mx/collections/pantallas-infinix): Pantalla Infinix de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-19T13:34:10Z
+- [Pantallas Infinix (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-infinix-anterior): Pantalla Infinix de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:13Z
   Total Products: 27
-- [Pantallas Wiko](https://refaccionestechhouse.mx/collections/pantallas-wiko): Pantalla Wiko de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Wiko (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-wiko-anterior): Pantalla Wiko de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:13Z
   Total Products: 4
-- [Pantallas Google](https://refaccionestechhouse.mx/collections/pantallas-google): Pantalla Google Pixel de reemplazo por modelo: serie Pixel y Pixel A. Calidad OLED e Incell para tu reparación.
-  Updated: 2026-10-19T11:26:18Z
+- [Pantallas Google (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-google-anterior): Pantalla Google Pixel de reemplazo por modelo: serie Pixel y Pixel A. Calidad OLED e Incell para tu reparación.
+  Updated: 2026-10-24T15:57:13Z
   Total Products: 61
-- [Pantallas Vivo](https://refaccionestechhouse.mx/collections/pantallas-vivo): Pantalla Vivo de reemplazo por modelo: series Y, V y X. Módulo completo para tu reparación.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Vivo (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-vivo-anterior): Pantalla Vivo de reemplazo por modelo: series Y, V y X. Módulo completo para tu reparación.
+  Updated: 2026-10-24T15:57:14Z
   Total Products: 49
-- [Pantallas OnePlus](https://refaccionestechhouse.mx/collections/pantallas-one-plus): Pantalla OnePlus de reemplazo por modelo: series Nord y OnePlus. Calidad OLED e Incell para tu reparación.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas OnePlus (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-one-plus-anterior): Pantalla OnePlus de reemplazo por modelo: series Nord y OnePlus. Calidad OLED e Incell para tu reparación.
+  Updated: 2026-10-24T15:57:14Z
   Total Products: 21
-- [Pantallas Sony](https://refaccionestechhouse.mx/collections/pantallas-sony): Pantalla Sony Xperia de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Sony (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-sony-anterior): Pantalla Sony Xperia de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:14Z
   Total Products: 7
-- [Pantallas HTC](https://refaccionestechhouse.mx/collections/pantallas-htc): Pantalla HTC de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas HTC (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-htc-anterior): Pantalla HTC de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:15Z
   Total Products: 1
-- [Pantallas Lenovo](https://refaccionestechhouse.mx/collections/pantallas-lenovo): Pantalla Lenovo de reemplazo por modelo: módulo completo para tu reparación, compatible con los modelos de la marca (celular y tablet).
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Lenovo (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-lenovo-anterior): Pantalla Lenovo de reemplazo por modelo: módulo completo para tu reparación, compatible con los modelos de la marca (celular y tablet).
+  Updated: 2026-10-24T15:57:15Z
   Total Products: 12
-- [Pantallas ZTE](https://refaccionestechhouse.mx/collections/pantallas-zte): Pantalla ZTE de reemplazo por modelo: series Blade, A y V. Módulo completo para tu reparación.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas ZTE (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-zte-anterior): Pantalla ZTE de reemplazo por modelo: series Blade, A y V. Módulo completo para tu reparación.
+  Updated: 2026-10-24T15:57:15Z
   Total Products: 70
-- [Pantallas Nokia](https://refaccionestechhouse.mx/collections/pantallas-nokia): Pantalla Nokia de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Nokia (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-nokia-anterior): Pantalla Nokia de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:15Z
   Total Products: 8
-- [Pantallas Hisense](https://refaccionestechhouse.mx/collections/pantalla-hisense): Pantalla Hisense de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
-  Updated: 2026-10-16T16:17:52Z
+- [Pantallas Hisense (selección anterior)](https://refaccionestechhouse.mx/collections/pantalla-hisense-anterior): Pantalla Hisense de reemplazo por modelo: módulo completo (display + táctil) para tu reparación, compatible con los modelos de la marca.
+  Updated: 2026-10-24T15:57:16Z
   Total Products: 1
 - [Pantallas para Celular](https://refaccionestechhouse.mx/collections/pantallas): Pantallas para celular por marca y modelo: iPhone, Samsung, Xiaomi, Motorola y más. Calidad OLED, Incell u Original para tu reparación.
-  Updated: 2026-10-20T20:15:07Z
-  Total Products: 1617
+  Updated: 2026-10-27T22:23:46Z
+  Total Products: 1645
 - [Wuzip](https://refaccionestechhouse.mx/collections/wuzip): Productos Wuzip para reparación de celulares: pasta de estaño, soldadura, desarmadores y multímetro. Distribuidor oficial. Para talleres y técnicos.
   Updated: 2026-10-16T16:17:52Z
   Total Products: 8
-- [Flexores](https://refaccionestechhouse.mx/collections/flexores): Flexores (flex) para celular: flex de carga, encendido, volumen, huella y más, para todas las marcas y modelos. Refacciones para talleres y técnicos.
-  Updated: 2026-10-16T16:17:52Z
+- [Flexores (selección anterior)](https://refaccionestechhouse.mx/collections/flexores-anterior): Flexores (flex) para celular: flex de carga, encendido, volumen, huella y más, para todas las marcas y modelos. Refacciones para talleres y técnicos.
+  Updated: 2026-10-24T16:03:42Z
   Total Products: 408
 - [Cámaras para Celular: Trasera y Frontal](https://refaccionestechhouse.mx/collections/camaras-traseras-para-celulares): Cámara trasera y frontal de reemplazo para celular por modelo: Samsung, iPhone, Xiaomi, Motorola y más. Recupera fotos nítidas en tu taller.
-  Updated: 2026-10-20T23:28:57Z
-  Total Products: 700
+  Updated: 2026-10-27T20:40:01Z
+  Total Products: 716
 - [Centros de Carga](https://refaccionestechhouse.mx/collections/centros-de-carga): Centros de carga y pines de carga para celular por modelo: USB-C, Lightning y Micro USB, para todas las marcas. Refacciones para talleres y técnicos.
-  Updated: 2026-10-19T22:51:31Z
-  Total Products: 662
+  Updated: 2026-10-27T22:11:38Z
+  Total Products: 666
 - [Teclados](https://refaccionestechhouse.mx/collections/teclados): Teclados: teclas que responden como nuevas. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:53Z
+  Updated: 2026-10-22T21:28:43Z
   Total Products: 48
 - [Wekome](https://refaccionestechhouse.mx/collections/wekome): Refacciones para Wekome: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
   Updated: 2026-10-16T16:17:53Z
   Total Products: 30
 - [DMooster](https://refaccionestechhouse.mx/collections/dmooster-1): Productos dMooster: audífonos bluetooth, bocinas portátiles y power banks con diseños únicos y sonido premium. Compra en México.
-  Updated: 2026-10-17T15:58:18Z
+  Updated: 2026-10-24T11:17:12Z
   Total Products: 19
 - [Baterías Deji](https://refaccionestechhouse.mx/collections/baterias-deji): Baterías Deji de reemplazo por modelo, con 1 año de garantía. Refacción de alta calidad para talleres y técnicos.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-24T20:27:15Z
   Total Products: 144
 - [Baterías para Sony](https://refaccionestechhouse.mx/collections/baterias-para-sony): Batería Sony Xperia de reemplazo por modelo. Refacción compatible para talleres y técnicos; recupera la autonomía del equipo.
   Updated: 2026-10-16T16:17:53Z
   Total Products: 3
 - [Baterías para Google](https://refaccionestechhouse.mx/collections/baterias-para-google): Batería Google Pixel de reemplazo por modelo. Refacción compatible u original para talleres y técnicos.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-27T11:16:31Z
   Total Products: 17
 - [Baterías para ZTE](https://refaccionestechhouse.mx/collections/baterias-para-zte): Batería ZTE de reemplazo por modelo: series Blade y A. Refacción compatible para talleres y técnicos.
-  Updated: 2026-10-16T16:17:53Z
+  Updated: 2026-10-21T18:13:23Z
   Total Products: 17
 - [Remanufactura de Pantallas](https://refaccionestechhouse.mx/collections/remanufactura): Remanufactura de Pantallas en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+  Updated: 2026-10-22T20:44:09Z
   Total Products: 10
 - [Celulares](https://refaccionestechhouse.mx/collections/telefonia): Refacciones para Celulares: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-09T11:19:42Z
-  Total Products: 84
+  Updated: 2026-10-27T23:23:13Z
+  Total Products: 90
 - [Accesorios Forward](https://refaccionestechhouse.mx/collections/accesorios-forward): En Refacciones Tech House tenemos las herramientas para reparar celulares que estás buscando para tu taller de celulares
-  Updated: 2026-10-16T16:17:53Z
+  Updated: 2026-10-22T20:29:19Z
   Total Products: 11
 - [Sunshine](https://refaccionestechhouse.mx/collections/sunshine): Refacciones para Sunshine: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-17T00:03:21Z
-  Total Products: 45
+  Updated: 2026-10-27T21:36:57Z
+  Total Products: 46
 - [Baterías para HP](https://refaccionestechhouse.mx/collections/baterias-hp): Batería para laptop HP de reemplazo por modelo. Recupera la autonomía del equipo; refacción para talleres.
   Updated: 2026-10-16T16:17:53Z
   Total Products: 3
@@ -1886,244 +1828,244 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-16T16:17:53Z
   Total Products: 11
 - [Baterías para Asus](https://refaccionestechhouse.mx/collections/baterias-asus): Batería Asus de reemplazo por modelo (Zenfone y ROG Phone). Refacción compatible para talleres y técnicos.
-  Updated: 2026-10-16T16:17:53Z
+  Updated: 2026-10-21T16:48:49Z
   Total Products: 5
 - [Baterías para Lenovo](https://refaccionestechhouse.mx/collections/baterias-lenovo): Baterías para Lenovo: recupera la autonomía de tu equipo. Calidad garantizada para tu taller. Envío a todo México.
   Updated: 2026-10-16T16:17:53Z
   Total Products: 6
 - [Baterías para OnePlus](https://refaccionestechhouse.mx/collections/baterias-oneplus): Baterías para OnePlus: recupera la autonomía de tu equipo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+  Updated: 2026-10-22T21:16:04Z
   Total Products: 12
 - [Baterías para Infinix](https://refaccionestechhouse.mx/collections/baterias-infinix): Baterías para Infinix: recupera la autonomía de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+  Updated: 2026-10-22T20:06:12Z
   Total Products: 10
-- [Pantallas Alcatel](https://refaccionestechhouse.mx/collections/pantallas-alcatel): Pantallas Alcatel en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+- [Pantallas Alcatel (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-alcatel-anterior): Pantallas Alcatel en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
+  Updated: 2026-10-24T15:57:16Z
   Total Products: 3
-- [Pantallas Asus](https://refaccionestechhouse.mx/collections/pantallas-asus): Pantallas Asus en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+- [Pantallas Asus (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-asus-anterior): Pantallas Asus en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
+  Updated: 2026-10-24T15:57:16Z
   Total Products: 5
 - [Pantallas Macbook](https://refaccionestechhouse.mx/collections/pantallas-macbook): Refacciones para Pantallas Macbook: pantallas, baterías, centros de carga, cámaras y más. Envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
-  Total Products: 37
-- [Tapas para Samsung](https://refaccionestechhouse.mx/collections/tapas-para-samsung): Tapas para Samsung: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-20T18:45:31Z
+  Updated: 2026-10-27T23:15:34Z
+  Total Products: 36
+- [Tapas para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-samsung-anterior): Tapas para Samsung: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:57:16Z
   Total Products: 113
-- [Tapas para Xiaomi](https://refaccionestechhouse.mx/collections/tapas-para-xiaomi): Tapas para Xiaomi: restaura la estética original. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Xiaomi (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-xiaomi-anterior): Tapas para Xiaomi: restaura la estética original. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:57:17Z
   Total Products: 99
-- [Tapas para Realme](https://refaccionestechhouse.mx/collections/tapas-para-realme): Tapas para Realme: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Realme (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-realme-anterior): Tapas para Realme: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:57:17Z
   Total Products: 33
-- [Tapas para Vivo](https://refaccionestechhouse.mx/collections/tapas-para-vivo): Tapas para Vivo: restaura la estética original. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Vivo (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-vivo-anterior): Tapas para Vivo: restaura la estética original. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:57:17Z
   Total Products: 13
-- [Tapas para Huawei](https://refaccionestechhouse.mx/collections/tapas-para-huawei): Tapas para Huawei: restaura la estética original. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Huawei (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-huawei-anterior): Tapas para Huawei: restaura la estética original. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:57:17Z
   Total Products: 53
-- [Tapas para Oppo](https://refaccionestechhouse.mx/collections/tapas-para-oppo): Tapas para Oppo: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Oppo (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-oppo-anterior): Tapas para Oppo: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:57:18Z
   Total Products: 34
-- [Tapas para HTC](https://refaccionestechhouse.mx/collections/tapas-para-htc): Tapas para HTC: restaura la estética original. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para HTC (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-htc-anterior): Tapas para HTC: restaura la estética original. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:24Z
   Total Products: 2
-- [Tapas para OnePlus](https://refaccionestechhouse.mx/collections/tapas-para-oneplus): Tapas para OnePlus: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para OnePlus (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-oneplus-anterior): Tapas para OnePlus: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:25Z
   Total Products: 11
-- [Tapas para Motorola](https://refaccionestechhouse.mx/collections/tapas-para-motorola): Tapas para Motorola: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Motorola (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-motorola-anterior): Tapas para Motorola: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-26T11:17:54Z
   Total Products: 67
-- [Tapas para Honor](https://refaccionestechhouse.mx/collections/tapas-para-honor): Tapas para Honor: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:54Z
+- [Tapas para Honor (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-honor-anterior): Tapas para Honor: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-27T16:01:40Z
   Total Products: 39
-- [Tapas para iPhone](https://refaccionestechhouse.mx/collections/tapas-para-iphone): Tapas para iPhone: restaura la estética original. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-19T19:25:20Z
+- [Tapas para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-iphone-anterior): Tapas para iPhone: restaura la estética original. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-26T20:56:58Z
   Total Products: 35
 - [Baterías para iPod](https://refaccionestechhouse.mx/collections/bateria-para-ipod): Baterías para iPod: recupera la autonomía de tu equipo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T21:08:20Z
   Total Products: 4
 - [Pantallas iPad](https://refaccionestechhouse.mx/collections/pantallas-para-ipad): Pantalla y display para iPad de reemplazo por modelo: iPad, Air, Mini y Pro. Refacciones para talleres y técnicos.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T21:26:42Z
   Total Products: 53
 - [Pantallas iMac](https://refaccionestechhouse.mx/collections/pantallas-para-imac): Pantallas iMac: recupera imagen nítida y táctil perfecto. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T21:25:20Z
   Total Products: 9
 - [Bandejas Porta SIM](https://refaccionestechhouse.mx/collections/bandejas-sim): Bandeja porta SIM (slot de chip) de reemplazo para celular por modelo: iPhone, Samsung, Xiaomi y más. Ajuste exacto para tu reparación.
-  Updated: 2026-10-19T17:39:44Z
-  Total Products: 481
+  Updated: 2026-10-27T22:23:03Z
+  Total Products: 493
 - [Botón Home para Samsung](https://refaccionestechhouse.mx/collections/boton-home-para-samsung): Botón Home para Samsung: restablece el botón y sus funciones. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T20:50:56Z
   Total Products: 1
 - [Botón Home para iPhone](https://refaccionestechhouse.mx/collections/boton-home-para-iphone): Botón Home para iPhone: restablece el botón y sus funciones. Compra segura con envío a todo México.
-  Updated: 2026-10-19T18:57:40Z
+  Updated: 2026-10-21T17:43:23Z
   Total Products: 2
 - [Flex de Huella para Samsung](https://refaccionestechhouse.mx/collections/flex-de-huella-para-samsung): Flex de Huella para Samsung: restablece botones y funciones. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-24T00:04:01Z
   Total Products: 3
-- [Flex de Huella para MacBook](https://refaccionestechhouse.mx/collections/flex-de-huella-para-macbook): Flex de Huella para MacBook: restablece botones y funciones. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+- [Flex de Huella para MacBook (selección anterior)](https://refaccionestechhouse.mx/collections/flex-de-huella-para-macbook-anterior): Flex de Huella para MacBook: restablece botones y funciones. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:26Z
   Total Products: 1
 - [Jack de Audio para Samsung](https://refaccionestechhouse.mx/collections/jack-de-audio-para-samsung): Jack de Audio para Samsung: restaura la salida de audio. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T20:51:17Z
   Total Products: 2
 - [Jack de Audio para iPhone](https://refaccionestechhouse.mx/collections/jack-de-audio-para-iphone): Jack de Audio para iPhone: restaura la salida de audio. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-22T21:14:42Z
   Total Products: 13
 - [Jack de Audio para iPad](https://refaccionestechhouse.mx/collections/jack-de-audio-para-ipad): Jack de Audio para iPad: restaura la salida de audio. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:55Z
+  Updated: 2026-10-21T17:44:08Z
   Total Products: 1
 - [Herramientas para Reparar Celulares](https://refaccionestechhouse.mx/collections/herramientas): Herramientas para reparar celulares: kits de destornilladores, cautines, pistolas de calor, ventosas, pinzas y más para tu taller.
-  Updated: 2026-10-17T00:02:27Z
+  Updated: 2026-10-24T16:03:47Z
   Total Products: 93
 - [Cargadores](https://refaccionestechhouse.mx/collections/cargadores): Cargadores, cables y adaptadores para celular: carga rápida USB-C, Lightning y Micro USB. Accesorios compatibles con las principales marcas.
   Updated: 2026-10-16T16:17:55Z
   Total Products: 3
 - [Fuente de Poder para iMac](https://refaccionestechhouse.mx/collections/fuente-de-poder-para-imac): Fuente de Poder para iMac: energía estable para tu equipo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-22T20:51:27Z
   Total Products: 4
 - [Micas de Hidrogel](https://refaccionestechhouse.mx/collections/micas-de-hidrogel): Mica de hidrogel por modelo: protector de pantalla flexible y autorreparable, sin burbujas. Para talleres y técnicos.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-23T20:11:38Z
   Total Products: 19
 - [Pines de Carga](https://refaccionestechhouse.mx/collections/pin-de-carga): Pin de carga (conector de carga) para celular por modelo. Soluciona fallas de carga y falso contacto. Refacciones para talleres.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-22T21:17:43Z
   Total Products: 23
 - [Baterías para iPad](https://refaccionestechhouse.mx/collections/baterias-apple): Baterías para iPad: recupera la autonomía de tu equipo. Compra segura con envío a todo México.
-  Updated: 2026-10-19T18:01:11Z
+  Updated: 2026-10-26T16:30:19Z
   Total Products: 55
 - [Pin de Carga para Samsung](https://refaccionestechhouse.mx/collections/pin-de-carga-samsung): Pin de Carga Samsung: soluciona fallas de carga. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-22T21:17:43Z
   Total Products: 5
 - [Pin de Carga para Motorola](https://refaccionestechhouse.mx/collections/pin-de-carga-motorola): Pin de Carga Motorola: soluciona fallas de carga. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-21T18:08:24Z
   Total Products: 6
 - [Cristales de Cámara para Celulares](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-celulares): Cristal (lente) de cámara trasera para celular de reemplazo por modelo: Samsung, iPhone, Xiaomi, Motorola y más. Refacciones para talleres y técnicos.
-  Updated: 2026-10-20T17:19:24Z
-  Total Products: 588
+  Updated: 2026-10-27T22:14:09Z
+  Total Products: 592
 - [Auriculares y Altavoces](https://refaccionestechhouse.mx/collections/auriculares-y-altavoces): Bocina, auricular y altavoz de reemplazo para celular por modelo: iPhone, Samsung, Xiaomi y más. Recupera el audio en tu taller.
-  Updated: 2026-10-19T18:37:04Z
-  Total Products: 898
+  Updated: 2026-10-27T20:45:33Z
+  Total Products: 908
 - [Glass con OCA](https://refaccionestechhouse.mx/collections/glass-y-touch-1): Glass con OCA: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-19T21:56:53Z
-  Total Products: 76
-- [Glass para iPhone](https://refaccionestechhouse.mx/collections/glass-para-iphone): Glass para iPhone: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+  Updated: 2026-10-27T23:37:40Z
+  Total Products: 80
+- [Glass para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/glass-para-iphone-anterior): Glass para iPhone: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T16:03:48Z
   Total Products: 7
-- [Glass para Samsung](https://refaccionestechhouse.mx/collections/glass-samsung): Glass para Samsung: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+- [Glass para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/glass-samsung-anterior): Glass para Samsung: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:27Z
   Total Products: 5
-- [Glass para Xiaomi](https://refaccionestechhouse.mx/collections/glass-xiaomi): Glass para Xiaomi: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:56Z
+- [Glass para Xiaomi (selección anterior)](https://refaccionestechhouse.mx/collections/glass-xiaomi-anterior): Glass para Xiaomi: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:27Z
   Total Products: 8
-- [Glass para Honor](https://refaccionestechhouse.mx/collections/glass-honor): Glass para Honor: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-19T21:56:51Z
+- [Glass para Honor (selección anterior)](https://refaccionestechhouse.mx/collections/glass-honor-anterior): Glass para Honor: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:28Z
   Total Products: 4
-- [Glass para Motorola](https://refaccionestechhouse.mx/collections/glass-motorola): Glass para Motorola: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-19T21:56:53Z
+- [Glass para Motorola (selección anterior)](https://refaccionestechhouse.mx/collections/glass-motorola-anterior): Glass para Motorola: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:28Z
   Total Products: 8
-- [Glass para iPad](https://refaccionestechhouse.mx/collections/glass-ipad): Glass para iPad: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para iPad (selección anterior)](https://refaccionestechhouse.mx/collections/glass-ipad-anterior): Glass para iPad: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:28Z
   Total Products: 1
-- [Glass para Apple Watch](https://refaccionestechhouse.mx/collections/glass-apple-watch): Glass para Apple Watch: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para Apple Watch (selección anterior)](https://refaccionestechhouse.mx/collections/glass-apple-watch-anterior): Glass para Apple Watch: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:29Z
   Total Products: 2
-- [Glass para Realme](https://refaccionestechhouse.mx/collections/glass-realme): Glass para Realme: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para Realme (selección anterior)](https://refaccionestechhouse.mx/collections/glass-realme-anterior): Glass para Realme: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:29Z
   Total Products: 6
-- [Glass para Infinix](https://refaccionestechhouse.mx/collections/glass-infinix): Glass para Infinix: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-19T21:56:52Z
+- [Glass para Infinix (selección anterior)](https://refaccionestechhouse.mx/collections/glass-infinix-anterior): Glass para Infinix: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:30Z
   Total Products: 2
-- [Glass para Huawei](https://refaccionestechhouse.mx/collections/glass-huawei): Glass para Huawei: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para Huawei (selección anterior)](https://refaccionestechhouse.mx/collections/glass-huawei-anterior): Glass para Huawei: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:30Z
   Total Products: 6
-- [Glass para Vivo](https://refaccionestechhouse.mx/collections/glass-vivo): Glass para Vivo: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para Vivo (selección anterior)](https://refaccionestechhouse.mx/collections/glass-vivo-anterior): Glass para Vivo: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:30Z
   Total Products: 3
-- [Glass para Oppo](https://refaccionestechhouse.mx/collections/glass-para-oppo): Glass para Oppo: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para Oppo (selección anterior)](https://refaccionestechhouse.mx/collections/glass-para-oppo-anterior): Glass para Oppo: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:31Z
   Total Products: 2
-- [Touch para iPhone](https://refaccionestechhouse.mx/collections/touch-para-iphone): Touch para iPhone: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-19T21:56:50Z
+- [Touch para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/touch-para-iphone-anterior): Touch para iPhone: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:31Z
   Total Products: 3
-- [Touch para iPad](https://refaccionestechhouse.mx/collections/touch-para-ipad): Touch para iPad: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Touch para iPad (selección anterior)](https://refaccionestechhouse.mx/collections/touch-para-ipad-anterior): Touch para iPad: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:31Z
   Total Products: 7
-- [Touch para Apple Watch](https://refaccionestechhouse.mx/collections/touch-para-apple-watch): Touch para Apple Watch: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Touch para Apple Watch (selección anterior)](https://refaccionestechhouse.mx/collections/touch-para-apple-watch-anterior): Touch para Apple Watch: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:32Z
   Total Products: 3
-- [Glass para OnePlus](https://refaccionestechhouse.mx/collections/glass-para-oneplus): Glass para OnePlus: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Glass para OnePlus (selección anterior)](https://refaccionestechhouse.mx/collections/glass-para-oneplus-anterior): Glass para OnePlus: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:32Z
   Total Products: 1
 - [Cautines Profesionales](https://refaccionestechhouse.mx/collections/cautines-forward): Cautines profesionales para soldar con precisión y control de temperatura. El cautín ideal para reparación de celulares y electrónica, para talleres y técnicos.
-  Updated: 2026-10-16T16:17:57Z
+  Updated: 2026-10-22T21:30:17Z
   Total Products: 9
 - [Planchas de Calor](https://refaccionestechhouse.mx/collections/planchas-de-calor-forward): Planchas de Calor: equipo para tu taller de reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+  Updated: 2026-10-22T20:37:07Z
   Total Products: 5
-- [Flex de Proximidad y Auricular](https://refaccionestechhouse.mx/collections/flex-de-proximidad-y-auricular): Flex de Proximidad y Auricular: sonido claro sin distorsión. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:57Z
+- [Flex de Proximidad y Auricular (selección anterior)](https://refaccionestechhouse.mx/collections/flex-de-proximidad-y-auricular-anterior): Flex de Proximidad y Auricular: sonido claro sin distorsión. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:32Z
   Total Products: 1
 - [Soldadura de puntos Quian-Li Macaroon](https://refaccionestechhouse.mx/collections/soldadura-de-puntos-quian-li-macaroon): Soldadura de puntos Quian-Li Macaroon: equipo para tu taller de reparación. Compra segura con envío a todo México.
   Updated: 2026-10-16T16:17:58Z
   Total Products: 1
-- [Pantalla Touch para Lenovo](https://refaccionestechhouse.mx/collections/pantalla-touch-para-lenovo): Pantalla Touch para Lenovo: recupera imagen nítida y táctil perfecto. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Pantalla Touch para Lenovo (selección anterior)](https://refaccionestechhouse.mx/collections/pantalla-touch-para-lenovo-anterior): Pantalla Touch para Lenovo: recupera imagen nítida y táctil perfecto. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:33Z
   Total Products: 1
-- [Touch + Marco para Table Blu](https://refaccionestechhouse.mx/collections/touch-marco-para-table-blu): Touch + Marco para Table Blu: cristal y touch de reemplazo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Touch + Marco para Table Blu (selección anterior)](https://refaccionestechhouse.mx/collections/touch-marco-para-table-blu-anterior): Touch + Marco para Table Blu: cristal y touch de reemplazo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:33Z
   Total Products: 1
-- [Cristal Touch Screen para Apple Watch](https://refaccionestechhouse.mx/collections/cristal-touch-screen-para-apple-watch): Cristal Touch Screen para Apple Watch: cristal y touch de reemplazo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Cristal Touch Screen para Apple Watch (selección anterior)](https://refaccionestechhouse.mx/collections/cristal-touch-screen-para-apple-watch-anterior): Cristal Touch Screen para Apple Watch: cristal y touch de reemplazo. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:33Z
   Total Products: 1
 - [Trackpad para Macbook Pro](https://refaccionestechhouse.mx/collections/trackpad-para-macbook-pro): Trackpad para Macbook Pro: control preciso restaurado. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+  Updated: 2026-10-22T20:50:59Z
   Total Products: 2
 - [Touch para Macbook](https://refaccionestechhouse.mx/collections/touchpad-para-macbook): Touch para Macbook: cristal y touch de reemplazo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+  Updated: 2026-10-22T20:51:07Z
   Total Products: 5
 - [Ventiladores para Macbook Pro](https://refaccionestechhouse.mx/collections/ventiladores-para-macbook-pro): Ventiladores para Macbook Pro: evita el sobrecalentamiento de tu equipo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+  Updated: 2026-10-22T20:51:06Z
   Total Products: 8
 - [Ventiladores para Macbook Air](https://refaccionestechhouse.mx/collections/ventiladores-para-macbook-air): Ventiladores para Macbook Air: evita el sobrecalentamiento de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+  Updated: 2026-10-21T17:43:47Z
   Total Products: 3
-- [Vibrador para iPhone](https://refaccionestechhouse.mx/collections/vibrador-para-iphone-1): Vibrador para iPhone: restaura la vibración de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Vibrador para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/vibrador-para-iphone-1-anterior): Vibrador para iPhone: restaura la vibración de tu equipo. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:34Z
   Total Products: 11
-- [Vibrador para Samsung](https://refaccionestechhouse.mx/collections/vibrador-para-samsung-1): Vibrador para Samsung: restaura la vibración de tu equipo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Vibrador para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/vibrador-para-samsung-1-anterior): Vibrador para Samsung: restaura la vibración de tu equipo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:34Z
   Total Products: 7
-- [Vibrador para Nokia](https://refaccionestechhouse.mx/collections/vibrador-para-nokia-1): Vibrador para Nokia: restaura la vibración de tu equipo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Vibrador para Nokia (selección anterior)](https://refaccionestechhouse.mx/collections/vibrador-para-nokia-1-anterior): Vibrador para Nokia: restaura la vibración de tu equipo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:34Z
   Total Products: 1
-- [Vibrador para LG](https://refaccionestechhouse.mx/collections/vibrador-para-lg-1): Vibrador para LG: restaura la vibración de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:58Z
+- [Vibrador para LG (selección anterior)](https://refaccionestechhouse.mx/collections/vibrador-para-lg-1-anterior): Vibrador para LG: restaura la vibración de tu equipo. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:35Z
   Total Products: 1
-- [Flexor de Cámara Frontal para iPhone](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-iphone): Flexor de Cámara Frontal para iPhone: restablece la cámara frontal. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-iphone-anterior): Flexor de Cámara Frontal para iPhone: restablece la cámara frontal. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:35Z
   Total Products: 4
-- [Flexor de Cámara Frontal para Samsung](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-samsung): Flexor de Cámara Frontal para Samsung: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-samsung-anterior): Flexor de Cámara Frontal para Samsung: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:36Z
   Total Products: 35
-- [Flexor de Cámara Frontal para Xiaomi](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-xiaomi): Flexor de Cámara Frontal para Xiaomi: restablece la cámara frontal. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Xiaomi (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-xiaomi-anterior): Flexor de Cámara Frontal para Xiaomi: restablece la cámara frontal. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:36Z
   Total Products: 19
-- [Flexor de Cámara Frontal para Oppo](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-oppo): Flexor de Cámara Frontal para Oppo: restablece la cámara frontal. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Oppo (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-oppo-anterior): Flexor de Cámara Frontal para Oppo: restablece la cámara frontal. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:36Z
   Total Products: 19
-- [Flexor de Cámara Frontal para Realme](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-realme): Flexor de Cámara Frontal para Realme: restablece la cámara frontal. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Realme (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-realme-anterior): Flexor de Cámara Frontal para Realme: restablece la cámara frontal. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:37Z
   Total Products: 27
-- [Flexor de Cámara Frontal para Honor](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-honor-1): Flexor de Cámara Frontal para Honor: restablece la cámara frontal. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Honor (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-honor-1-anterior): Flexor de Cámara Frontal para Honor: restablece la cámara frontal. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:54:37Z
   Total Products: 11
-- [Flexor de Cámara Frontal para Vivo](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-vivo): Flexor de Cámara Frontal para Vivo: restablece la cámara frontal. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Vivo (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-vivo-anterior): Flexor de Cámara Frontal para Vivo: restablece la cámara frontal. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:37Z
   Total Products: 9
-- [Flexor de Cámara Frontal para Motorola](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-motorola): Flexor de Cámara Frontal para Motorola: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para Motorola (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-motorola-anterior): Flexor de Cámara Frontal para Motorola: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:38Z
   Total Products: 35
-- [Flexor de Cámara Frontal para OnePlus](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-oneplus): Flexor de Cámara Frontal para OnePlus: restablece la cámara frontal. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:17:59Z
+- [Flexor de Cámara Frontal para OnePlus (selección anterior)](https://refaccionestechhouse.mx/collections/flexor-de-camara-frontal-para-oneplus-anterior): Flexor de Cámara Frontal para OnePlus: restablece la cámara frontal. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:38Z
   Total Products: 6
 - [Stenciil para Apple iPhone](https://refaccionestechhouse.mx/collections/stenciil-para-apple-iphone): Stencil para Apple iPhone: equipo para tu taller de reparación. Precios de mayoreo y envío a todo México.
   Updated: 2026-10-16T16:17:59Z
@@ -2144,13 +2086,13 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-16T16:18:00Z
   Total Products: 1
 - [Relife](https://refaccionestechhouse.mx/collections/relife): Relife en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
-  Total Products: 92
-- [Tapas para Asus](https://refaccionestechhouse.mx/collections/tapas-para-asus): Tapas para Asus: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+  Updated: 2026-10-26T16:54:34Z
+  Total Products: 94
+- [Tapas para Asus (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-asus-anterior): Tapas para Asus: restaura la estética original. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:39Z
   Total Products: 3
-- [Tapas para Google](https://refaccionestechhouse.mx/collections/tapas-para-google): Tapas para Google: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+- [Tapas para Google (selección anterior)](https://refaccionestechhouse.mx/collections/tapas-para-google-anterior): Tapas para Google: restaura la estética original. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:39Z
   Total Products: 11
 - [Sugon](https://refaccionestechhouse.mx/collections/sugon): Refacciones para Sugon: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
   Updated: 2026-10-16T16:18:00Z
@@ -2162,64 +2104,64 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-16T16:18:00Z
   Total Products: 4
 - [Pistolas de Calor](https://refaccionestechhouse.mx/collections/pistolas-de-calor): Pistola de calor para reparación de celulares y electrónica: remoción de componentes SMD, separación de pantallas, reballing y desoldadura. Para talleres y técnicos.
-  Updated: 2026-10-16T16:18:00Z
+  Updated: 2026-10-22T19:44:23Z
   Total Products: 12
-- [Pantallas Autoprogramables](https://refaccionestechhouse.mx/collections/pantallas-autoprogramables): Pantallas Autoprogramables: recupera imagen nítida y táctil perfecto. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+- [Pantallas Autoprogramables (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-autoprogramables-anterior): Pantallas Autoprogramables: recupera imagen nítida y táctil perfecto. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:57:18Z
   Total Products: 11
-- [Glass para Google Pixel](https://refaccionestechhouse.mx/collections/glass-para-google-pixel): Glass para Google Pixel: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+- [Glass para Google Pixel (selección anterior)](https://refaccionestechhouse.mx/collections/glass-para-google-pixel-anterior): Glass para Google Pixel: cristal y touch de reemplazo. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:39Z
   Total Products: 4
-- [Cristales](https://refaccionestechhouse.mx/collections/glass-para-imac): Cristales: cristal y touch de reemplazo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+- [Cristales (selección anterior)](https://refaccionestechhouse.mx/collections/glass-para-imac-anterior): Cristales: cristal y touch de reemplazo. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:40Z
   Total Products: 4
-- [Touchscreen](https://refaccionestechhouse.mx/collections/touchscreen): Touchscreen: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:00Z
+- [Touchscreen (selección anterior)](https://refaccionestechhouse.mx/collections/touchscreen-anterior): Touchscreen: cristal y touch de reemplazo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:54:40Z
   Total Products: 7
 - [Pantallas Apple Watch](https://refaccionestechhouse.mx/collections/pantalla-para-apple-watch): Pantallas Apple Watch: recupera imagen nítida y táctil perfecto. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T21:29:25Z
   Total Products: 19
 - [Sublimación de Fundas Personalizadas](https://refaccionestechhouse.mx/collections/sublimacion-de-fundas-personalizadas): Sublimación de Fundas Personalizadas: personaliza fundas y celulares. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-17T00:02:29Z
+  Updated: 2026-10-22T21:30:22Z
   Total Products: 14
 - [Laminadoras](https://refaccionestechhouse.mx/collections/laminadoras): Laminadora y equipo de laminado OCA para reconstrucción de pantallas de celular. Máquinas para talleres de reparación y remanufactura de displays.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T20:44:07Z
   Total Products: 4
 - [Fuentes de Poder](https://refaccionestechhouse.mx/collections/fuentes-de-poder): Fuentes de Poder: energía estable para tu equipo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-17T00:02:25Z
+  Updated: 2026-10-24T16:03:44Z
   Total Products: 3
 - [Herramientas y Accesorios](https://refaccionestechhouse.mx/collections/herramientas-y-accesorios): Herramientas y Accesorios: equipo para tu taller de reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T20:15:19Z
   Total Products: 30
 - [Baterías - Android](https://refaccionestechhouse.mx/collections/baterias-android): Baterías Android: recupera la autonomía de tu equipo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T19:42:47Z
   Total Products: 4
 - [Skins Personalizados para Celulares](https://refaccionestechhouse.mx/collections/skins-personalizados-para-celulares): Skins Personalizados para Celulares: personaliza fundas y celulares. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T20:19:54Z
   Total Products: 4
 - [Baterías Forward](https://refaccionestechhouse.mx/collections/baterias-forward): Baterías Forward: recupera la autonomía de tu equipo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-23T22:00:30Z
   Total Products: 47
 - [Marco / Chasis](https://refaccionestechhouse.mx/collections/carcasas-y-marco-chasis): Marco / Chasis: chasis de reemplazo por modelo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
-  Total Products: 102
+  Updated: 2026-10-27T22:23:45Z
+  Total Products: 108
 - [Carcasas iPhone](https://refaccionestechhouse.mx/collections/carcasas): Carcasas iPhone en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+  Updated: 2026-10-22T21:26:49Z
   Total Products: 30
-- [Marco para Motorola](https://refaccionestechhouse.mx/collections/marco-para-motorola): Marco para Motorola: chasis de reemplazo por modelo. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+- [Marco para Motorola (selección anterior)](https://refaccionestechhouse.mx/collections/marco-para-motorola-anterior): Marco para Motorola: chasis de reemplazo por modelo. Compra segura con envío a todo México.
+  Updated: 2026-10-24T15:57:19Z
   Total Products: 8
-- [Marco para iPhone](https://refaccionestechhouse.mx/collections/marco-para-iphone): Marco para iPhone: chasis de reemplazo por modelo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+- [Marco para iPhone (selección anterior)](https://refaccionestechhouse.mx/collections/marco-para-iphone-anterior): Marco para iPhone: chasis de reemplazo por modelo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:57:19Z
   Total Products: 4
-- [Marco para Samsung](https://refaccionestechhouse.mx/collections/marco-para-samsung): Marco para Samsung: chasis de reemplazo por modelo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+- [Marco para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/marco-para-samsung-anterior): Marco para Samsung: chasis de reemplazo por modelo. Precios de mayoreo y envío a todo México.
+  Updated: 2026-10-24T15:57:19Z
   Total Products: 7
 - [Blue Láser](https://refaccionestechhouse.mx/collections/blue-laser): Blue Láser: equipo para tu taller de reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:01Z
+  Updated: 2026-10-22T20:35:35Z
   Total Products: 2
 - [Electrónicos](https://refaccionestechhouse.mx/collections/electronicos): Refacciones para Electrónicos: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:02Z
+  Updated: 2026-10-26T16:55:10Z
   Total Products: 10
 - [Cargadores de pared](https://refaccionestechhouse.mx/collections/cargadores-wekome): Cargadores de pared en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
   Updated: 2026-10-20T21:31:18Z
@@ -2233,54 +2175,54 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
 - [Localizadores](https://refaccionestechhouse.mx/collections/localizador-wekome): Localizadores GPS y rastreadores para tus dispositivos. Piezas compatibles y originales, con envío a todo México.
   Updated: 2026-10-16T16:18:02Z
   Total Products: 2
-- [Máquinas Láser TBK](https://refaccionestechhouse.mx/collections/tbk): Máquinas Láser TBK en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+- [Equipos TBK](https://refaccionestechhouse.mx/collections/tbk): Equipos TBK en Tech House, distribuidor autorizado: máquinas láser, pulidoras, separadores, prensas y extractores. Envío a todo México y mayoreo para talleres.
+  Updated: 2026-10-24T11:17:12Z
   Total Products: 30
-- [Flex de Interconexión](https://refaccionestechhouse.mx/collections/flex-de-interconexion): Flex de Interconexión: restablece botones y funciones. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:02Z
+- [Flex de Interconexión (selección anterior)](https://refaccionestechhouse.mx/collections/flex-de-interconexion-anterior): Flex de Interconexión: restablece botones y funciones. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:40Z
   Total Products: 171
 - [Flex de Carga](https://refaccionestechhouse.mx/collections/flex-de-carga-1): Flex de Carga: restablece botones y funciones. Compra segura con envío a todo México.
-  Updated: 2026-10-19T22:51:31Z
-  Total Products: 667
-- [Flex de Botones](https://refaccionestechhouse.mx/collections/flex-de-botones): Flex de Botones: restablece botones y funciones. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-19T18:49:56Z
+  Updated: 2026-10-27T22:11:38Z
+  Total Products: 671
+- [Flex de Botones (selección anterior)](https://refaccionestechhouse.mx/collections/flex-de-botones-anterior): Flex de Botones: restablece botones y funciones. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:54:41Z
   Total Products: 162
-- [Flex de Cámara Frontal](https://refaccionestechhouse.mx/collections/flex-de-camara-frontal): Flex de Cámara Frontal: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:02Z
+- [Flex de Cámara Frontal (selección anterior)](https://refaccionestechhouse.mx/collections/flex-de-camara-frontal-anterior): Flex de Cámara Frontal: restablece la cámara frontal. Calidad garantizada para tu taller. Envío a todo México.
+  Updated: 2026-10-24T15:54:41Z
   Total Products: 157
 - [Flexor Centro de Carga Macbook](https://refaccionestechhouse.mx/collections/flexor-centro-de-carga-macbook): Flexor Centro de Carga Macbook: soluciona fallas de carga. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:02Z
+  Updated: 2026-10-22T21:09:03Z
   Total Products: 7
 - [Nuevos](https://refaccionestechhouse.mx/collections/equipos-nuevos): Refacciones para Nuevos: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-16T16:18:02Z
-  Total Products: 58
+  Updated: 2026-10-27T23:23:13Z
+  Total Products: 71
 - [Open Box](https://refaccionestechhouse.mx/collections/open-box): Refacciones para Open Box: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
   Updated: 2026-10-16T16:18:03Z
   Total Products: 60
 - [Reacondicionados](https://refaccionestechhouse.mx/collections/reacondicionados): Refacciones para Reacondicionados: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
   Updated: 2026-10-16T16:18:03Z
   Total Products: 32
-- [Marco para Honor](https://refaccionestechhouse.mx/collections/marco-para-honor): Marco para Honor: chasis de reemplazo por modelo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:03Z
+- [Marco para Honor (selección anterior)](https://refaccionestechhouse.mx/collections/marco-para-honor-anterior): Marco para Honor: chasis de reemplazo por modelo. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:57:20Z
   Total Products: 8
 - [Adhesivo para iPhone](https://refaccionestechhouse.mx/collections/adhesivos-para-iphone): Adhesivo para iPhone: sellado y fijación profesional. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:03Z
+  Updated: 2026-10-22T21:28:23Z
   Total Products: 24
 - [Adhesivo para Apple Watch](https://refaccionestechhouse.mx/collections/adhesivo-para-apple-watch): Adhesivo para Apple Watch: sellado y fijación profesional. Compra segura con envío a todo México.
   Updated: 2026-10-20T11:22:53Z
   Total Products: 4
-- [Pantallas Nothing](https://refaccionestechhouse.mx/collections/pantallas-para-nothing): Pantallas Nothing: recupera imagen nítida y táctil perfecto. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T16:18:03Z
+- [Pantallas Nothing (selección anterior)](https://refaccionestechhouse.mx/collections/pantallas-para-nothing-anterior): Pantallas Nothing: recupera imagen nítida y táctil perfecto. Piezas compatibles y originales, con envío a todo México.
+  Updated: 2026-10-24T15:57:20Z
   Total Products: 8
-- [Motor Vibrador para Samsung](https://refaccionestechhouse.mx/collections/motor-vibrador-para-samsung): Motores vibradores compatibles con Samsung. Repuestos de calidad para restaurar la vibración de tu dispositivo. Envío rápido en México.
-  Updated: 2026-10-16T16:18:03Z
+- [Motor Vibrador para Samsung (selección anterior)](https://refaccionestechhouse.mx/collections/motor-vibrador-para-samsung-anterior): Motores vibradores compatibles con Samsung. Repuestos de calidad para restaurar la vibración de tu dispositivo. Envío rápido en México.
+  Updated: 2026-10-24T15:54:42Z
   Total Products: 2
 - [Flex de Antena para Samsung](https://refaccionestechhouse.mx/collections/flex-de-antena-para-samsung): Flex de antena compatibles con Samsung. Repuestos de calidad para restaurar señal de red, WiFi y Bluetooth. Envío rápido en México.
-  Updated: 2026-10-16T16:18:03Z
+  Updated: 2026-10-22T19:20:52Z
   Total Products: 2
 - [Outlet](https://refaccionestechhouse.mx/collections/outlet): Outlet en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
-  Total Products: 27
+  Updated: 2026-10-27T05:25:27Z
+  Total Products: 33
 - [Adaptadores Outlet](https://refaccionestechhouse.mx/collections/adaptadores-outlet): Refacciones para Adaptadores Outlet: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
   Updated: 2026-10-16T16:18:03Z
   Total Products: 9
@@ -2297,194 +2239,191 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-16T16:18:04Z
   Total Products: 5
 - [Top Baterías con Más Ventas](https://refaccionestechhouse.mx/collections/top-baterias-mas-vendidas): Top Baterías con Más Ventas en Tech House: refacciones para técnicos con envío a todo México y precio de mayoreo para talleres.
-  Updated: 2026-10-20T21:31:18Z
+  Updated: 2026-10-22T20:31:39Z
   Total Products: 19
 - [Lápices Ópticos y Stylus](https://refaccionestechhouse.mx/collections/lapices-opticos-y-stylus): Refacciones para Lápices Ópticos y Stylus: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:04Z
+  Updated: 2026-10-21T00:46:26Z
   Total Products: 1
 - [Pantallas Oficiales Honor](https://refaccionestechhouse.mx/collections/pantallas-oficiales-honor): Pantallas Oficiales Honor: recupera imagen nítida y táctil perfecto. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-16T16:18:04Z
+  Updated: 2026-10-21T00:47:37Z
   Total Products: 10
 - [Pantallas Oficiales Samsung](https://refaccionestechhouse.mx/collections/pantallas-samsung-oficiales): Pantallas Oficiales Samsung: recupera imagen nítida y táctil perfecto. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:04Z
+  Updated: 2026-10-23T11:21:31Z
   Total Products: 22
 - [Baterías Oficiales Honor](https://refaccionestechhouse.mx/collections/pantallas-oficiales-honor-1): Baterías Oficiales Honor: recupera la autonomía de tu equipo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T16:18:04Z
+  Updated: 2026-10-21T00:47:02Z
   Total Products: 11
 - [Todo para iPhone 13 Pro Max](https://refaccionestechhouse.mx/collections/todo-iphone-13-pro-max): Refacciones y partes para Todo para iPhone 13 Pro Max. Envío a todo México.
-  Updated: 2026-10-19T21:56:50Z
+  Updated: 2026-10-24T16:03:41Z
   Total Products: 41
 - [Microscopios](https://refaccionestechhouse.mx/collections/microscopios): Microscopios: equipo para tu taller de reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-12T17:13:34Z
+  Updated: 2026-10-22T20:48:10Z
   Total Products: 38
 - [Baterías para Motorola](https://refaccionestechhouse.mx/collections/baterias-para-motorola-1): Baterías para Motorola: recupera la autonomía de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-12T23:36:36Z
+  Updated: 2026-10-25T11:16:29Z
   Total Products: 116
 - [Baterías para Oppo](https://refaccionestechhouse.mx/collections/baterias-para-oppo-2): Baterías para Oppo: recupera la autonomía de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-09T23:28:02Z
-  Total Products: 93
+  Updated: 2026-10-26T18:14:00Z
+  Total Products: 94
 - [Baterías para Realme](https://refaccionestechhouse.mx/collections/baterias-para-realme-2): Baterías para Realme: recupera la autonomía de tu equipo. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-19T17:53:57Z
+  Updated: 2026-10-25T11:16:29Z
   Total Products: 71
 - [Baterías para Honor](https://refaccionestechhouse.mx/collections/bateria-para-honor): Baterías para Honor: recupera la autonomía de tu equipo. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-13T15:09:24Z
-  Total Products: 49
+  Updated: 2026-10-26T17:34:25Z
+  Total Products: 51
 - [Divoom](https://refaccionestechhouse.mx/collections/divoom-1): Refacciones para Divoom: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
   Updated: 2026-09-07T20:52:53Z
   Total Products: 22
 - [Apple](https://refaccionestechhouse.mx/collections/apple): Refacciones para Apple: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-20T20:15:07Z
-  Total Products: 1187
+  Updated: 2026-10-27T23:37:40Z
+  Total Products: 1205
 - [Samsung](https://refaccionestechhouse.mx/collections/samsung): Refacciones para Samsung: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T23:28:57Z
-  Total Products: 1887
+  Updated: 2026-10-27T23:23:53Z
+  Total Products: 1911
 - [Xiaomi](https://refaccionestechhouse.mx/collections/xiaomi): Refacciones para Xiaomi: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-20T11:22:53Z
-  Total Products: 1240
+  Updated: 2026-10-27T22:23:45Z
+  Total Products: 1260
 - [Motorola](https://refaccionestechhouse.mx/collections/motorola): Refacciones para Motorola: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T23:14:28Z
-  Total Products: 982
+  Updated: 2026-10-27T22:23:02Z
+  Total Products: 991
 - [Huawei](https://refaccionestechhouse.mx/collections/huawei): Refacciones para Huawei: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-16T11:24:00Z
-  Total Products: 687
+  Updated: 2026-10-27T22:14:10Z
+  Total Products: 689
 - [Realme](https://refaccionestechhouse.mx/collections/realme): Refacciones para Realme: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-20T21:38:50Z
-  Total Products: 582
+  Updated: 2026-10-27T22:23:03Z
+  Total Products: 587
 - [Oppo](https://refaccionestechhouse.mx/collections/oppo): Refacciones para Oppo: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T22:25:05Z
-  Total Products: 513
+  Updated: 2026-10-27T21:03:18Z
+  Total Products: 516
 - [Honor](https://refaccionestechhouse.mx/collections/honor): Refacciones para Honor: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T16:48:10Z
-  Total Products: 506
+  Updated: 2026-10-27T22:23:02Z
+  Total Products: 516
 - [Vivo](https://refaccionestechhouse.mx/collections/vivo): Refacciones para Vivo: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T16:55:46Z
-  Total Products: 257
+  Updated: 2026-10-27T16:54:41Z
+  Total Products: 258
 - [OnePlus](https://refaccionestechhouse.mx/collections/oneplus): Refacciones para OnePlus: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T15:00:23Z
+  Updated: 2026-10-26T23:57:42Z
   Total Products: 164
 - [ZTE](https://refaccionestechhouse.mx/collections/zte): Refacciones para ZTE: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-14T22:36:16Z
-  Total Products: 132
+  Updated: 2026-10-27T22:13:22Z
+  Total Products: 135
 - [Google](https://refaccionestechhouse.mx/collections/google): Refacciones para Google: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-20T11:22:53Z
-  Total Products: 132
+  Updated: 2026-10-27T11:16:31Z
+  Total Products: 133
 - [LG](https://refaccionestechhouse.mx/collections/lg): Refacciones para LG: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-09T15:35:48Z
+  Updated: 2026-10-24T00:03:29Z
   Total Products: 71
 - [Infinix](https://refaccionestechhouse.mx/collections/infinix): Refacciones para Infinix: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-19T21:56:53Z
-  Total Products: 58
+  Updated: 2026-10-27T16:54:40Z
+  Total Products: 59
 - [Lenovo](https://refaccionestechhouse.mx/collections/lenovo): Refacciones para Lenovo: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-05T20:22:32Z
-  Total Products: 33
+  Updated: 2026-10-26T16:05:55Z
+  Total Products: 31
 - [Nokia](https://refaccionestechhouse.mx/collections/nokia): Refacciones para Nokia: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
   Updated: 2026-10-06T19:47:55Z
   Total Products: 23
 - [Asus](https://refaccionestechhouse.mx/collections/asus): Refacciones para Asus: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-16T11:24:00Z
+  Updated: 2026-10-21T18:22:24Z
   Total Products: 23
 - [Sony](https://refaccionestechhouse.mx/collections/sony): Refacciones para Sony: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
   Updated: 2026-10-17T15:58:08Z
   Total Products: 13
 - [Tablets](https://refaccionestechhouse.mx/collections/tablets): Refacciones para Tablets: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-17T11:22:25Z
-  Total Products: 303
+  Updated: 2026-10-27T22:13:58Z
+  Total Products: 305
 - [Laptops y Mac](https://refaccionestechhouse.mx/collections/laptops-y-mac): Refacciones para Laptops y Mac: pantallas, baterías, centros de carga y más para reparación. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-19T21:56:55Z
-  Total Products: 227
+  Updated: 2026-10-27T23:15:34Z
+  Total Products: 226
 - [Smartwatch](https://refaccionestechhouse.mx/collections/smartwatch): Refacciones para Smartwatch: pantallas, baterías, centros de carga y más para reparación. Compra segura con envío a todo México.
-  Updated: 2026-10-20T11:22:53Z
-  Total Products: 72
+  Updated: 2026-10-27T22:49:13Z
+  Total Products: 75
 - [Audífonos y auriculares](https://refaccionestechhouse.mx/collections/audifonos-y-auriculares): Audífonos y auriculares: sonido claro sin distorsión. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-17T15:59:24Z
-  Total Products: 18
+  Updated: 2026-10-27T21:02:43Z
+  Total Products: 19
 - [Gadgets y accesorios](https://refaccionestechhouse.mx/collections/gadgets-y-accesorios): Refacciones para Gadgets y accesorios: pantallas, baterías, centros de carga y más para reparación. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-20T11:22:53Z
+  Updated: 2026-10-23T20:11:38Z
   Total Products: 112
 - [Equipo de reparación](https://refaccionestechhouse.mx/collections/equipo-de-reparacion): Equipo de reparación: equipo para tu taller de reparación. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-17T00:03:01Z
+  Updated: 2026-10-27T21:37:38Z
   Total Products: 381
 - [Señalización LED](https://refaccionestechhouse.mx/collections/senalizacion-led): Refacciones para Señalización LED: pantallas, baterías, centros de carga y más para reparación. Calidad garantizada para tu taller. Envío a todo México.
   Updated: 2026-10-01T21:39:17Z
   Total Products: 12
 - [Baterías para Vivo](https://refaccionestechhouse.mx/collections/baterias-para-vivo): Baterías para Vivo: recupera la autonomía de tu equipo. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-07T17:24:15Z
-  Total Products: 35
+  Updated: 2026-10-27T16:54:41Z
+  Total Products: 36
 - [Flex Main Samsung](https://refaccionestechhouse.mx/collections/flex-main-samsung): Flex Main Samsung: restablece botones y funciones. Compra segura con envío a todo México.
-  Updated: 2026-10-19T13:37:09Z
-  Total Products: 61
+  Updated: 2026-10-24T00:04:51Z
+  Total Products: 63
 - [Centros de Carga para Samsung](https://refaccionestechhouse.mx/collections/centros-de-carga-samsung): Centros de Carga para Samsung: soluciona fallas de carga. Compra segura con envío a todo México.
-  Updated: 2026-10-12T15:28:17Z
-  Total Products: 136
+  Updated: 2026-10-26T11:17:54Z
+  Total Products: 137
 - [Centros de Carga para Xiaomi](https://refaccionestechhouse.mx/collections/centros-de-carga-xiaomi): Centros de Carga para Xiaomi: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-19T22:51:31Z
+  Updated: 2026-10-22T21:14:02Z
   Total Products: 89
 - [Centros de Carga para Realme](https://refaccionestechhouse.mx/collections/centros-de-carga-realme): Centros de Carga para Realme: soluciona fallas de carga. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-19T21:56:53Z
+  Updated: 2026-10-22T21:11:00Z
   Total Products: 41
 - [Centros de Carga para Vivo](https://refaccionestechhouse.mx/collections/centros-de-carga-vivo): Centros de Carga para Vivo: soluciona fallas de carga. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-05T20:29:31Z
+  Updated: 2026-10-22T19:59:28Z
   Total Products: 22
 - [Centros de Carga para Huawei](https://refaccionestechhouse.mx/collections/centros-de-carga-huawei): Centros de Carga para Huawei: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-06T19:52:01Z
+  Updated: 2026-10-22T21:15:42Z
   Total Products: 54
 - [Centros de Carga para Oppo](https://refaccionestechhouse.mx/collections/centro-de-carga-oppo): Centros de Carga para Oppo: soluciona fallas de carga. Compra segura con envío a todo México.
-  Updated: 2026-10-06T19:48:40Z
+  Updated: 2026-10-22T21:10:56Z
   Total Products: 34
 - [Centros de Carga para Motorola](https://refaccionestechhouse.mx/collections/centro-de-carga-motorola): Centros de Carga para Motorola: soluciona fallas de carga. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-12T15:17:18Z
+  Updated: 2026-10-22T21:11:52Z
   Total Products: 93
 - [Centros de Carga para ZTE](https://refaccionestechhouse.mx/collections/centros-de-carga-para-zte): Centros de Carga para ZTE: soluciona fallas de carga. Compra segura con envío a todo México.
-  Updated: 2026-10-06T19:48:01Z
+  Updated: 2026-10-21T18:06:22Z
   Total Products: 32
 - [Centros de Carga para Asus](https://refaccionestechhouse.mx/collections/centro-de-carga-asus): Centros de Carga para Asus: soluciona fallas de carga. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-09-12T18:17:57Z
+  Updated: 2026-10-21T18:06:13Z
   Total Products: 6
 - [Centros de Carga para Nokia](https://refaccionestechhouse.mx/collections/centro-de-carga-nokia): Centros de Carga para Nokia: soluciona fallas de carga. Piezas compatibles y originales, con envío a todo México.
   Updated: 2026-10-01T19:26:23Z
   Total Products: 2
 - [Centros de Carga para OnePlus](https://refaccionestechhouse.mx/collections/centros-de-carga-oneplus): Centros de Carga para OnePlus: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-06T19:47:14Z
+  Updated: 2026-10-21T18:06:21Z
   Total Products: 14
 - [Centros de Carga para Honor](https://refaccionestechhouse.mx/collections/centros-de-carga-para-honor): Centros de Carga para Honor: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-06T19:51:58Z
+  Updated: 2026-10-22T19:59:08Z
   Total Products: 44
 - [Centros de Carga para Google](https://refaccionestechhouse.mx/collections/centros-de-carga-para-google): Centros de Carga para Google: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-09-27T11:17:20Z
+  Updated: 2026-10-22T20:01:00Z
   Total Products: 18
 - [Centros de Carga para iPhone](https://refaccionestechhouse.mx/collections/centros-de-carga-iphone): Centros de Carga para iPhone: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-06T21:24:14Z
-  Total Products: 40
+  Updated: 2026-10-27T22:11:38Z
+  Total Products: 42
 - [Centros de Carga para MacBook](https://refaccionestechhouse.mx/collections/centros-de-carga-macbook): Centros de Carga para MacBook: soluciona fallas de carga. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-06T19:47:50Z
+  Updated: 2026-10-22T21:28:37Z
   Total Products: 16
 - [Centros de Carga para iPad](https://refaccionestechhouse.mx/collections/centros-de-carga-para-ipad): Centros de Carga para iPad: soluciona fallas de carga. Calidad garantizada para tu taller. Envío a todo México.
-  Updated: 2026-10-15T22:39:53Z
+  Updated: 2026-10-22T21:28:34Z
   Total Products: 20
 - [Cristales de Cámara para Samsung](https://refaccionestechhouse.mx/collections/cristales-para-camara-para-samsung): Cristales de Cámara para Samsung: protege el lente de tu cámara. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-14T23:38:44Z
+  Updated: 2026-10-26T11:17:54Z
   Total Products: 151
 - [Cristales de Cámara para Xiaomi](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-xiaomi): Cristales de Cámara para Xiaomi: protege el lente de tu cámara. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-19T23:02:37Z
+  Updated: 2026-10-22T20:44:02Z
   Total Products: 105
 - [Cristales de Cámara para Realme](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-realme): Cristales de Cámara para Realme: protege el lente de tu cámara. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-20T17:18:54Z
-  Total Products: 47
+  Updated: 2026-10-27T22:13:21Z
+  Total Products: 48
 - [Cristales de Cámara para Vivo](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-vivo): Cristales de Cámara para Vivo: protege el lente de tu cámara. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T16:55:09Z
+  Updated: 2026-10-22T19:16:34Z
   Total Products: 21
 - [Cristales de Cámara para Huawei](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-huawei): Cristales de Cámara para Huawei: protege el lente de tu cámara. Compra segura con envío a todo México.
-  Updated: 2026-10-07T23:21:58Z
+  Updated: 2026-10-22T20:43:48Z
   Total Products: 51
 - [Cristales de Cámara para Oppo](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-oppo): Cristales de Cámara para Oppo: protege el lente de tu cámara. Piezas compatibles y originales, con envío a todo México.
-  Updated: 2026-10-20T15:30:55Z
+  Updated: 2026-10-22T20:44:01Z
   Total Products: 41
 - [Cristales de Cámara para HTC](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-htc): Cristales de Cámara para HTC: protege el lente de tu cámara. Precios de mayoreo y envío a todo México.
-  Updated: 2026-09-07T20:55:55Z
+  Updated: 2026-10-21T17:10:17Z
   Total Products: 4
-- [Cristales de Cámara para OnePlus](https://refaccionestechhouse.mx/collections/cristales-de-camara-para-oneplus): Cristales de Cámara para OnePlus: protege el lente de tu cámara. Precios de mayoreo y envío a todo México.
-  Updated: 2026-10-12T15:15:08Z
-  Total Products: 14
 
 ## Blogs
 
@@ -3027,6 +2966,15 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   - [Calidad de refacciones: cómo elegir sin fallar](https://refaccionestechhouse.mx/blogs/noticias/calidad-de-refacciones-como-elegir-sin-fallar): Calidad de refacciones: cómo elegir sin fallar
     Updated: 2026-10-20T01:44:43Z
     Author: Admin
+  - [Guía de diagnóstico táctil para reparar celulares](https://refaccionestechhouse.mx/blogs/noticias/guia-diagnostico-tactil-reparar-celulares): Guía de diagnóstico táctil para reparar celulares
+    Updated: 2026-10-22T01:50:22Z
+    Author: Admin
+  - [Tipos de flexores móviles y cómo identificarlos](https://refaccionestechhouse.mx/blogs/noticias/tipos-flexores-moviles): Tipos de flexores móviles y cómo identificarlos
+    Updated: 2026-10-24T01:44:55Z
+    Author: Admin
+  - [Cómo verificar IMEI celular antes de repararlo](https://refaccionestechhouse.mx/blogs/noticias/verificar-imei-celular): Cómo verificar IMEI celular antes de repararlo
+    Updated: 2026-10-26T01:44:47Z
+    Author: Admin
 
 ## Store Pages
 
@@ -3050,16 +2998,12 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-20T21:59:36Z
 - [Glass con OCA](https://refaccionestechhouse.mx/pages/glass-con-oca-para-pantallas): Optimiza tus procesos de laminación con nuestra línea profesional de cristales glass y digitalizadores touch. Diseñados específicamente para técnic...
   Updated: 2026-10-20T21:59:36Z
-- [Forward México](https://refaccionestechhouse.mx/pages/forward): Marca con más de 10 años de experiencia en la fabricación de maquinaria, herramientas e insumos para la industria de accesorios y herramientas de r...
-  Updated: 2026-10-20T21:59:36Z
 - [Herramientas](https://refaccionestechhouse.mx/pages/herramientas): En Refaciones TECHHOUSE, entendemos que la precisión es la clave de una reparación exitosa. Por ello, hemos seleccionado el catálogo más completo d...
   Updated: 2026-10-20T21:59:36Z
 - [Marco / Chasis para Celular](https://refaccionestechhouse.mx/pages/marco-chasis): Encuentra una amplia selección de marcos y chasis para celulares de diferentes marcas y modelos. En Refacciones Tech House contamos con piezas de r...
   Updated: 2026-10-20T21:59:36Z
 - [Glass con OCA para Pantallas](https://refaccionestechhouse.mx/pages/touchscreen): Descubre nuestra amplia selección de pantallas táctiles de alta calidad para dispositivos móviles. Ofrecemos touchscreens compatibles con las marca...
   Updated: 2026-10-20T21:59:36Z
-- [Wekome: Cargadores, Cables y Power Banks en México](https://refaccionestechhouse.mx/pages/wekome): Wekome es una marca especializada en accesorios de carga y conectividad, reconocida por combinar tecnología avanzada, diseño moderno y precios acce...
-  Updated: 2026-08-18T19:22:12Z
 - [TBK](https://refaccionestechhouse.mx/pages/tbk): Descubre la línea completa de equipos TBK, la marca líder en soluciones profesionales para técnicos y talleres de reparación de dispositivos móvile...
   Updated: 2026-10-20T21:59:36Z
 - [Flexores](https://refaccionestechhouse.mx/pages/flexores): Encuentra los flexores de repuesto que necesitas para reparar smartphones con precisión y confianza. En Tech House contamos con una amplia selecció...
@@ -3070,15 +3014,11 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-08-17T22:05:28Z
 - [Flex de Botones](https://refaccionestechhouse.mx/pages/flex-de-botones): 
   Updated: 2026-08-17T22:05:28Z
-- [Celulares Nuevos, Open Box y Seminuevos en México](https://refaccionestechhouse.mx/pages/telefonia): 
-  Updated: 2026-09-22T16:26:47Z
 - [Sucursales](https://refaccionestechhouse.mx/pages/sucursales): Visítanos en nuestras sucursales y encuentra las refacciones que necesitas para tu dispositivo. Estamos listos para atenderte con el mejor servicio...
   Updated: 2026-10-20T21:59:37Z
 - [Outlet](https://refaccionestechhouse.mx/pages/outlet): Aprovecha ofertas exclusivas en componentes seleccionados y equipa tu banco de trabajo por mucho menos.
   Updated: 2026-10-20T21:59:37Z
 - [Repuestos para Computadoras](https://refaccionestechhouse.mx/pages/repuestos-para-computadoras): 
-  Updated: 2026-08-17T22:05:28Z
-- [Repuestos para iPad](https://refaccionestechhouse.mx/pages/repuestos-para-ipad): 
   Updated: 2026-08-17T22:05:28Z
 - [Adhesivos](https://refaccionestechhouse.mx/pages/adhesivos): 
   Updated: 2026-08-17T22:05:28Z
@@ -3097,7 +3037,7 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
 - [Guías de Reparación](https://refaccionestechhouse.mx/pages/guias): 
   Updated: 2026-10-20T21:59:37Z
 - [Motor Vibrador para Celulares](https://refaccionestechhouse.mx/pages/motor-vibrador-para-celulares): Encuentra motores vibradores para celulares por marca: Motor Vibrador para LG Motor Vibrador para Samsung
-  Updated: 2026-10-20T21:59:37Z
+  Updated: 2026-10-23T22:34:39Z
 - [Refacciones para iPhone](https://refaccionestechhouse.mx/pages/iphone): Refacciones para todos los modelos de iPhone: pantallas, baterías, tapas traseras, centros de carga, cámaras y flexores. Elige tu modelo para ver s...
   Updated: 2026-10-20T21:59:37Z
 - [Refacciones para iPad](https://refaccionestechhouse.mx/pages/ipad): Refacciones para iPad, iPad Air, iPad mini y iPad Pro: pantallas, touch, baterías y centros de carga. Elige tu modelo para ver solo las piezas comp...
@@ -3176,19 +3116,39 @@ Refacciones Tech House es una tienda en línea mexicana especializada en refacci
   Updated: 2026-10-20T21:59:59Z
 - [Refacciones para Huawei](https://refaccionestechhouse.mx/pages/huawei): Refacciones para todos los modelos Huawei: serie P y Pura, Mate, Nova, serie Y y tablets MatePad. Pantallas, baterías, centros de carga y más. Elig...
   Updated: 2026-10-20T21:59:59Z
+- [Refacciones para Cubot](https://refaccionestechhouse.mx/pages/cubot): Refacciones para los modelos Cubot KingKong, Note, P, X, Max y A: pantallas de reemplazo compatibles. Elige tu modelo para ver solo las piezas comp...
+  Updated: 2026-10-24T19:42:59Z
+- [Refacciones para OnePlus](https://refaccionestechhouse.mx/pages/oneplus): Refacciones para OnePlus: pantallas, baterías, bandejas SIM, centros de carga, cristales de cámara y otras piezas de reemplazo compatibles con 42 m...
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Lenovo](https://refaccionestechhouse.mx/pages/lenovo): Refacciones para Lenovo: pantallas, baterías, teclados, cámaras traseras, cámaras frontales y otras piezas de reemplazo compatibles con 18 modelos....
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Nokia](https://refaccionestechhouse.mx/pages/nokia): Refacciones para Nokia: baterías, pantallas, centros de carga, cámaras frontales, motores vibradores y otras piezas de reemplazo compatibles con 13...
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Asus](https://refaccionestechhouse.mx/pages/asus): Refacciones para Asus: centros de carga, pantallas, cristales de cámara, baterías y tapas traseras de reemplazo compatibles con 11 modelos. Elige t...
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Sony](https://refaccionestechhouse.mx/pages/sony): Refacciones para Sony: pantallas, baterías, centros de carga, cámaras traseras y refacciones de audífonos de reemplazo compatibles con 8 modelos. E...
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para TCL](https://refaccionestechhouse.mx/pages/tcl): Refacciones para TCL: cristales de cámara de reemplazo compatibles. Elige tu modelo o consulta todas las refacciones TCL disponibles.
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para HTC](https://refaccionestechhouse.mx/pages/htc): Refacciones para HTC: cristales de cámara, tapas traseras, pantallas y flex main de reemplazo compatibles con 6 modelos. Elige tu modelo para ver s...
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Nothing](https://refaccionestechhouse.mx/pages/nothing): Refacciones para Nothing: pantallas de reemplazo compatibles con 7 modelos. Elige tu modelo para ver solo las piezas compatibles.
+  Updated: 2026-10-26T15:06:51Z
+- [Refacciones para Wiko](https://refaccionestechhouse.mx/pages/wiko): Refacciones para Wiko: pantallas y centros de carga de reemplazo compatibles con 4 modelos. Elige tu modelo para ver solo las piezas compatibles.
+  Updated: 2026-10-26T15:06:51Z
 
 ## Policies
 
 - [Privacy Policy](https://refaccionestechhouse.mx/policies/privacy-policy)
-  Updated: 2024-04-10T15:32:13-06:00
+  Updated: 2024-04-10T21:32:13Z
 - [Shipping Policy](https://refaccionestechhouse.mx/policies/shipping-policy)
-  Updated: 2026-09-22T11:17:32-06:00
+  Updated: 2026-09-22T17:17:32Z
 - [Refund Policy](https://refaccionestechhouse.mx/policies/refund-policy)
-  Updated: 2026-09-22T11:25:58-06:00
+  Updated: 2026-10-24T16:35:14Z
 - [Terms of Service](https://refaccionestechhouse.mx/policies/terms-of-service)
-  Updated: 2026-09-22T11:25:45-06:00
+  Updated: 2026-09-22T17:25:45Z
 - [Contact Information](https://refaccionestechhouse.mx/policies/contact-information)
-  Updated: 2024-04-10T15:32:13-06:00
+  Updated: 2024-04-10T21:32:13Z
 
 ## Categorías destacadas
 - [Pantallas](https://refaccionestechhouse.mx/pages/pantallas): OLED, AMOLED, Incell y LCD por modelo.
