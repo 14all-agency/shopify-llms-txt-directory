@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-10-20T11:51:06.583Z
+- Updated At: 2026-10-28T00:47:21.991Z
 
 ## Products
 
 - [Sweet Desire Unisex Vanilla Extrait de Parfum | VR7](https://vr7fragrance.in/products/sweet-desire-extrait-de-parfum-vr7-fragrance): Long-lasting unisex vanilla extrait de parfum with warm spicy gourmand notes. Ideal for date nights and winter, by VR7 Fragrance.
-  Updated: 2026-10-19T07:33:05Z
+  Updated: 2026-10-21T18:44:02Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_sweet_desire_20_ml_new_b.jpg?v=1791969533
     Price: ₹349.00 INR
 - [Midnight Smoke – Smoky Leather Tobacco Oud | VR7](https://vr7fragrance.in/products/midnight-smoke-extrait-de-parfum-vr7-fragrance): Smoky leather, tobacco, rose & oud extrait de parfum for men. 33% oil, 8–12h lasting. Winter-ready scent by VR7 Fragrance. Ships in India.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-24T06:09:33Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -36,10 +36,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/midnight-smoke-extrait-de-parfum-vr7-fragrance?variant=51606340632893)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_midnight_smoke_20_ml_new_b.jpg?v=1791974272
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_midnight_smoke_20_ml_..jpg?v=1792604960
     Price: ₹349.00 INR
 - [Velvet Flame Woody Honey Amber Unisex Extrait | VR7 Fragrance](https://vr7fragrance.in/products/velvet-flame-extrait-de-parfum-vr7-fragrance): Velvet Flame by VR7 Fragrance: Unisex extrait de parfum with honey and sandalwood. Lasts up to 10 hours—crafted for bold evening impressions.
-  Updated: 2026-10-19T07:28:10Z
+  Updated: 2026-10-21T18:41:51Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -50,10 +50,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/velvet-flame-extrait-de-parfum-vr7-fragrance?variant=51606336340285)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_velvet_flame_20_ml_new_b.jpg?v=1791969461
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_velvet_flame_20_ml.jpg?v=1792604848
     Price: ₹349.00 INR
 - [Morning Star Fruity Aquatic Perfume | Extrait de Parfum VR7](https://vr7fragrance.in/products/morning-star-extrait-de-parfum-vr7-fragrance): Morning Star by VR7 Fragrance: Fruity aquatic Extrait de Parfum (33% oil), long-lasting fresh scent for men and women. Ideal for summer or daily use.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:30:50Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -64,17 +64,17 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/morning-star-extrait-de-parfum-vr7-fragrance?variant=51606333980989)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_morning_star_20_ml_new_b.jpg?v=1791968686
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_morning_star_20_ml_..jpg?v=1792604701
     Price: ₹349.00 INR
 - [VR7 Discovery Set – 7 Extrait de Parfum Sprays Sampler](https://vr7fragrance.in/products/vr7-perfume-discovery-set-7x3ml-extrait-de-parfum): Sample 7 luxury extrait de parfum sprays—oud, vanilla, aquatic, and more. High-concentration, unisex, premium gift. Only ₹499.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-24T13:38:17Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-discovery-set-7-perfume-sprays-india.jpg?v=1784890977
   Price: ₹499.00 INR
 - [#-Tag Woody Resin Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/tag-by-vr7-fragrance): Woody resin extrait de parfum by VR7 Fragrance—dark, smoky, 33% oil for lasting, niche winter scent. Ideal for night, men and women.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:28:11Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -85,10 +85,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/tag-by-vr7-fragrance?variant=51606332506429)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_-tag_20_ml_new_b.jpg?v=1791968583
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_-tag_20_ml.jpg?v=1792604576
     Price: ₹349.00 INR
 - [Dubai Nights Extrait de Parfum – Oud, Tonka & Amber by VR7](https://vr7fragrance.in/products/dubai-nights-by-vr7-fragrance): Dubai Nights by VR7: Extrait de Parfum with oud, tonka, spicy amber. Unisex, 33% oil for long-lasting impact. Ideal for weddings & special evenings.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:25:46Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -99,10 +99,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/dubai-nights-by-vr7-fragrance?variant=51606331130173)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_dubai_nights_20_ml_new_b.jpg?v=1791968498
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_dubai_nights_20_ml..jpg?v=1792604427
     Price: ₹349.00 INR
 - [Ultra Fresh Citrus Aquatic Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/ultra-fresh-by-vr7-fragrance): Long-lasting citrus, aquatic, and musky Extrait de Parfum by VR7 Fragrance. Unisex, ideal for summer, office, and daily wear. 33% oil concentration.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:26:17Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -113,10 +113,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/ultra-fresh-by-vr7-fragrance?variant=51606322643261)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_ultra_fresh_20_ml_new_b.jpg?v=1791968427
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_ultra_fresh_20_ml.jpg?v=1792604294
     Price: ₹299.00 INR
 - [Club-X Citrus Smoky Amber Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/club-x-extrait-de-parfum-for-men-fruity-woody-musk-long-lasting-luxury-perfume-for-office-parties): Club-X by VR7 Fragrance: citrus, smoky, and amber Extrait de Parfum (33% oil). Long-lasting, bold, unisex scent. 20ml/50ml travel-ready bottles.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:23:24Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -127,10 +127,10 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/club-x-extrait-de-parfum-for-men-fruity-woody-musk-long-lasting-luxury-perfume-for-office-parties?variant=51606321365309)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_club-x_20_ml_new_b.jpg?v=1791968376
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_club-x_20_ml_bottle.jpg?v=1792604170
     Price: ₹349.00 INR
 - [Royale Oud Amber Perfume for Men | Long-Lasting Extrait | VR7 Fragrance](https://vr7fragrance.in/products/royale-extrait-de-parfum-vr7-fragrance): Royale by VR7 Fragrance: 33% oil extrait de parfum for men with lasting oud, spicy, and amber notes. Ideal for formal occasions and winter wear.
-  Updated: 2026-10-14T09:23:28Z
+  Updated: 2026-10-21T18:18:07Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -141,7 +141,7 @@
     Price: ₹699.00 INR
   - [20 ML](https://vr7fragrance.in/products/royale-extrait-de-parfum-vr7-fragrance?variant=51606299803965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_royale_20_ml_new_b.jpg?v=1791968329
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_royale_20_ml.jpg?v=1792604024
     Price: ₹349.00 INR
 - [Royale 3ml](https://vr7fragrance.in/products/royale): Royale Extrait de Parfum is a sophisticated warm spicy amber fragrance crafted for those who demand excellence. With its rich concentration of fragrance oils, this extrait delivers an intense, long-lasting sillage that evolves beautifully throughout the evening. The composition opens with spiced warmth, settling into a luxurious amber heart that lingers on skin and fabric. Perfect for special occasions, intimate dinners, and moments that call for refined elegance. Each application is an  in presence and confidence. Housed in premium packaging that reflects the luxury within, Royale is designed for the discerning individual who appreciates niche craftsmanship and uncompromising quality. A signature scent for those who make an impression.✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Royale has spoken to your sense of refinement, claim the full 50ml bottle — a signature scent for those who make an impression.→ Get the Full-Size Royale 50ml Bottle
   Updated: 2026-07-26T19:11:22Z
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/sweetdesire3mlsamplevr7fragrance..jpg?v=1778689933
   Price: ₹80.00 INR
 - [Candy Elixir Unisex Gourmand Perfume | VR7 Extrait de Parfum](https://vr7fragrance.in/products/candy-elixir-extrait-de-parfum-vr7-fragrance): Candy Elixir by VR7: extrait de parfum (33% oil), unisex, fruity & creamy gourmand. Long-lasting, IFRA-compliant.
-  Updated: 2026-10-19T07:28:11Z
+  Updated: 2026-10-21T18:12:40Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
@@ -197,7 +197,7 @@
     Price: ₹699.00 INR
   - [20 ml](https://vr7fragrance.in/products/candy-elixir-extrait-de-parfum-vr7-fragrance?variant=51651004301629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_candy_elixir_20_ml_new_b.jpg?v=1791968268
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_candy_elixir_20_ml.jpg?v=1792603919
     Price: ₹349.00 INR
 - [Candy Elixir 3ml](https://vr7fragrance.in/products/candy-elixir-3ml): Candy Elixir For Women – Extrait de ParfumFragrance Family: Floral Fruity GourmandIndulge in the irresistible charm of Candy Elixir For Women, a delightful fragrance that captures the essence of sweet sophistication and playful elegance. Designed for those who love a deliciously feminine scent, this perfume is a perfect harmony of juicy fruits, soft florals, and creamy sweetness.The fragrance opens with a vibrant burst of tangy black currant and zesty green citrus, creating an energizing and refreshing first impression. As it settles, the heart reveals a dreamy blend of candied strawberry notes and delicate white florals, adding a soft, romantic sweetness with a sparkling twist.In the base, warm and comforting notes of vanilla, soft musk, amber, and smooth sandalwood wrap the scent in a long-lasting, creamy finish that feels both cozy and luxurious.Fragrance Notes:Top Notes: Black Currant, Green CitrusMiddle Notes: Strawberry Candy Accord, White FloralsBase Notes: Vanilla, Musk, Amber, SandalwoodWhy You’ll Love It:Sweet, fruity, and creamy scent profilePerfect balance of playful and elegantLong-lasting with a soft, captivating trailIdeal for daily wear, dates, and special occasionsCandy Elixir For Women is a celebration of sweetness and confidence—crafted for those who want to leave a charming and unforgettable impression wherever they go.✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Candy Elixir has become your signature sweet escape, indulge in the full bottle — a celebration of sweetness and confidence, in every drop.→ Get the Full-Size Candy Elixir Bottle
   Updated: 2026-07-26T19:11:56Z
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7fragrance-samples.jpg?v=1782634141
   Price: ₹650.00 INR
 - [Tropical | Woody Floral Leather Extrait de Parfum | VR7](https://vr7fragrance.in/products/tropical-extrait-de-parfum-vr7-fragrance): Tropical by VR7 Fragrance — a woody floral leather Extrait de Parfum with rose, sandalwood, jasmine & oud. Long-lasting, unisex. From ₹349.
-  Updated: 2026-10-14T09:18:30Z
+  Updated: 2026-10-21T18:11:13Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de Parfum
   Availability: Available
@@ -246,7 +246,7 @@
     Price: ₹699.00 INR
   - [20 ml](https://vr7fragrance.in/products/tropical-extrait-de-parfum-vr7-fragrance?variant=51857078911293)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_tropical_20_ml_new_b.jpg?v=1791967831
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/WhatsApp_Image_2026-10-20_at_3.16.48_PM_1.jpg?v=1792603747
     Price: ₹349.00 INR
 - [VR7 Alpha Male Collection | 4x50ml Extrait de Parfum Set for Men](https://vr7fragrance.in/products/vr7-alpha-male-collection-4x50ml): VR7 Alpha Male Collection — 4 x 50ml Extrait de Parfum: Midnight Smoke, Dubai Nights, Club-X, #-Tag. 33%+ concentration, up to 24 hrs. ₹2,399 instead of ₹3,196.
   Updated: 2026-10-19T07:28:11Z
@@ -288,7 +288,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-fragrance-tropical-extrait-de-parfum.png?v=1785577684
   Price: ₹80.00 INR
 - [Perfume Formulation eBook Bundle | 10 Perfumery Books](https://vr7fragrance.in/products/perfumers-formula-vault): Learn perfume formulation, raw materials, accords, blending and troubleshooting with The Perfumer’s Formula Vault — a complete 10-book digital perfumery collection.
-  Updated: 2026-10-02T14:32:37Z
+  Updated: 2026-10-24T08:51:17Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook Bundle
   Availability: Available
@@ -372,7 +372,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-burning-woods-50ml-bottle.jpg?v=1790356248
   Price: ₹699.00 INR
 - [VR7 Signature Trio | 3 x 20ml Extrait de Parfum Combo](https://vr7fragrance.in/products/vr7-signature-trio-3x20ml): Discover VR7 Signature Trio: Morning Star, Dubai Nights and Midnight Smoke in 3 x 20ml travel-size extrait de parfum sprays. Fresh, oud and smoky scents.
-  Updated: 2026-10-20T10:49:06Z
+  Updated: 2026-10-20T21:27:04Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de Parfum Combo
   Availability: Available
@@ -394,7 +394,7 @@
   Updated: 2026-10-16T11:20:31Z
   Total Products: 3
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Explore the new extrait de parfum arrivals by VR7 Fragrance—luxury scents with 33% oil concentration for lasting, sophisticated impressions. Find your signature today.
-  Updated: 2026-10-20T10:03:01Z
+  Updated: 2026-10-25T11:21:36Z
   Total Products: 14
 - [Men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Explore men’s extrait de parfum by VR7 Fragrance—luxury scents with 33% oil for lasting impression. Shop top-rated, signature perfumes online.
   Updated: 2026-10-16T11:20:31Z
@@ -403,7 +403,7 @@
   Updated: 2026-10-16T11:20:31Z
   Total Products: 9
 - [Discovery sets by VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Explore 7 luxury extrait de parfum sprays by VR7 in one premium gift set for men and women. Long-lasting, unisex, travel-ready, just ₹499.
-  Updated: 2026-10-20T09:59:35Z
+  Updated: 2026-10-25T11:21:36Z
   Total Products: 1
 - [Everyday Perfumes](https://vr7fragrance.in/collections/everyday-perfumes): Shop VR7 Extrait de Parfum selected for everyday wear—fresh, versatile and long-lasting fragrances for daily confidence.
   Updated: 2026-10-14T11:24:15Z
@@ -421,10 +421,10 @@
   Updated: 2026-08-11T20:13:12Z
   Total Products: 4
 - [Perfume Gifts](https://vr7fragrance.in/collections/perfume-gifts): Shop VR7 perfume gifts, Discovery Sets and luxury Extrait de Parfum gift sets for birthdays, celebrations and special occasions.
-  Updated: 2026-10-20T09:58:17Z
+  Updated: 2026-10-25T11:21:36Z
   Total Products: 8
 - [All Perfumes](https://vr7fragrance.in/collections/all-perfumes): Explore VR7 Fragrance perfumes and fragrance gift collections. Sample-size 3 ml products and digital education products are shown separately.
-  Updated: 2026-10-20T10:01:48Z
+  Updated: 2026-10-25T11:21:36Z
   Total Products: 20
 
 ## Blogs
@@ -522,6 +522,10 @@
     Updated: 2026-10-15T06:55:08Z
     Author: VR7 Fragrance
     Tags: 2026, Discovery Set, Diwali perfumes, festive perfumes, Karwa Chauth perfumes, Navratri perfumes, perfume gifts, VR7 Fragrance
+  - [VR7 Perfume Comparisons & Scent Guide | VR7 Fragrance](https://vr7fragrance.in/blogs/latest-news-updates/vr7-perfume-comparisons-scent-guide): VR7 Perfume Comparisons & Scent Guide | VR7 Fragrance
+    Updated: 2026-10-22T09:04:40Z
+    Author: VR7 Fragrance Team
+    Tags: Customer Reviews, Indian Perfumes, Luxury Fragrances, Perfume Guide, Scent Comparisons, VR7 Fragrance
 
 ## Store Pages
 
@@ -565,15 +569,15 @@
 ## Policies
 
 - [Privacy Policy](https://vr7fragrance.in/policies/privacy-policy)
-  Updated: 2026-06-12T07:41:07+05:30
+  Updated: 2026-06-12T02:11:07Z
 - [Shipping Policy](https://vr7fragrance.in/policies/shipping-policy)
-  Updated: 2026-09-09T00:50:11+05:30
+  Updated: 2026-09-08T19:20:11Z
 - [Refund Policy](https://vr7fragrance.in/policies/refund-policy)
-  Updated: 2026-07-03T14:26:20+05:30
+  Updated: 2026-07-03T08:56:20Z
 - [Terms of Service](https://vr7fragrance.in/policies/terms-of-service)
-  Updated: 2026-06-12T07:42:09+05:30
+  Updated: 2026-06-12T02:12:09Z
 - [Contact Information](https://vr7fragrance.in/policies/contact-information)
-  Updated: 2026-06-12T07:38:38+05:30
+  Updated: 2026-06-12T02:08:38Z
 
 ## Optional
 
