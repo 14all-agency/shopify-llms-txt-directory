@@ -6,7 +6,7 @@
 - Timezone: Europe/Prague
 - Created At: 2023-05-17T10:22:34Z
 - Contact Email: eyezsayitall1@gmail.com
-- Updated At: 2026-10-21T00:00:39.676Z
+- Updated At: 2026-10-28T00:52:27.682Z
 
 ## Products
 
@@ -1093,15 +1093,15 @@
 ## Policies
 
 - [Privacy Policy](https://natural-emeralds.com/policies/privacy-policy)
-  Updated: 2025-02-22T19:53:46+01:00
+  Updated: 2025-02-22T18:53:46Z
 - [Shipping Policy](https://natural-emeralds.com/policies/shipping-policy)
-  Updated: 2025-02-22T19:54:47+01:00
+  Updated: 2025-02-22T18:54:47Z
 - [Refund Policy](https://natural-emeralds.com/policies/refund-policy)
-  Updated: 2025-02-22T19:57:27+01:00
+  Updated: 2025-02-22T18:57:27Z
 - [Terms of Service](https://natural-emeralds.com/policies/terms-of-service)
-  Updated: 2025-02-22T19:53:53+01:00
+  Updated: 2025-02-22T18:53:53Z
 - [Contact Information](https://natural-emeralds.com/policies/contact-information)
-  Updated: 2025-02-22T19:55:12+01:00
+  Updated: 2025-02-22T18:55:12Z
 
 ## Optional
 
