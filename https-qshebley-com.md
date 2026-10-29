@@ -9,7 +9,7 @@
 - Created At: 2014-06-06T22:31:25Z
 - Contact Email: info@shopqbyqs.com
 - Contact Phone: 18883188144
-- Updated At: 2026-10-22T00:02:04.102Z
+- Updated At: 2026-10-29T00:52:16.352Z
 
 Que Shebley is an independent artisan brand specializing in handcrafted footwear. We provide a human-connected alternative to mass-market luxury, offering superior craftsmanship and a unique rationale for Millennial and Gen X shoppers who value quality over brand names. Our heritage is rooted in Lebanese craftsmanship, moving to the beat of our own drum to provide truly unique dress shoes and boots.
 
@@ -576,7 +576,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/empire-single-monk-patina-men-dress-shoes-pair-plaid-strap-906.webp?v=1741885852
   Price: $550.00 USD
 - [QS Gift Card for Any Occasion and Free Shipping](https://qshebley.com/products/qs-gift-card): QS Gift Card offers flexibility and choice with no processing fees. Delivered by email, it never expires and is perfect for any occasion.
-  Updated: 2026-09-24T15:46:11Z
+  Updated: 2026-10-26T02:02:10Z
   Vendor: Que Shebley
   Product Type: Gift Card
   Availability: Available
@@ -1364,44 +1364,44 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/q-lux-leather-care-kit-shoe-brushes-polish-311.webp?v=1741889479
   Price: $125.00 USD
 - [Shoe Tree  Lux for Perfect Fit and Maintenance](https://qshebley.com/products/shoe-tree-lux): Shoe Tree Lux , crafted from high-quality cedar wood, absorbs moisture while providing an aromatic scent, ensuring your footwear maintains its shape and freshness.
-  Updated: 2026-10-19T07:06:41Z
+  Updated: 2026-10-28T14:43:48Z
   Vendor: Que Shebley
   Product Type: shoe tree
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0528/4177/files/lux-shoe-tree-black-plastic-stretchers-842.webp?v=1741889490
   - [5 us/38 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390851306)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [6 us/39 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390884074)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [7 us/40 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390916842)
-    Availability: Not Available
-    Price: $100.00 USD
+    Availability: Available
+    Price: $129.99 USD
   - [8 us/41 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390949610)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [9 us/42 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055390982378)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [10 us/43 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391015146)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [11 us/44 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391047914)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [12 us/45 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391080682)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [13 us/46 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391113450)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [14 us/47 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391146218)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
   - [15 us/48 eu](https://qshebley.com/products/shoe-tree-lux?variant=43055391178986)
     Availability: Available
-    Price: $100.00 USD
+    Price: $129.99 USD
 - [Alto Loafers Brown Leather Penny Loafers](https://qshebley.com/products/alto-loafers): Alto Loafers present brown leather penny loafers crafted from painted calf, combining timeless style with premium materials for unmatched comfort and elegance.
   Updated: 2026-09-24T15:47:53Z
   Vendor: Que Shebley
@@ -1490,7 +1490,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:36Z
   Total Products: 46
 - [SHOP WOMEN](https://qshebley.com/collections/shop-women): Explore the SHOP WOMEN collection featuring elegant high heels, stylish holdall gym bags, and luxurious duffle bags, all available for online shopping.
-  Updated: 2026-09-24T11:00:19Z
+  Updated: 2026-10-28T14:42:22Z
   Total Products: 226
 - [Exotic Skin Shoes](https://qshebley.com/collections/exotic-skin-shoes): Explore luxurious footwear in the Exotic Skin Shoes collection, featuring Amiri Alligator Double Monk, Karma Alligator Loafers, and TheDon Alligator Loafers.
   Updated: 2026-07-22T02:18:36Z
@@ -1505,7 +1505,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-09-05T13:37:41Z
   Total Products: 29
 - [SHOP MEN](https://qshebley.com/collections/shop-men): Explore the diverse SHOP MEN collection featuring luxury footwear including Nab Loafers, Olimpia Oxford Sneaker, and exotic Amiri Alligator Double Monk.
-  Updated: 2026-09-24T11:00:19Z
+  Updated: 2026-10-28T14:42:22Z
   Total Products: 1700
 - [Moccasins + Drivers](https://qshebley.com/collections/moccasins-drivers): Explore the Moccasins + Drivers collection featuring luxurious options like Lincoln RD Driver, Kalma Driver, and Patina series, with shoes priced from $325 to $450.
   Updated: 2026-07-22T02:18:36Z
@@ -1541,7 +1541,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:37Z
   Total Products: 9
 - [Under $400 Mens Products](https://qshebley.com/collections/under-400-mens-products): Explore premium men's products under $400, featuring brands like Olimpia and Markof, with options like Oxford and Laceless Sneakers for refined style.
-  Updated: 2026-09-24T11:00:19Z
+  Updated: 2026-10-28T14:42:22Z
   Total Products: 400
 - [Lifestyle Jogger Sneakers (RELAUNCHING SOON)](https://qshebley.com/collections/lifestyle-jogger-sneakers-mens-unisex): Discover the upcoming Lifestyle Jogger Sneakers collection, relaunching soon. Enjoy free shipping on orders over $500.
   Updated: 2026-06-01T23:18:06Z
@@ -1631,7 +1631,7 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:38Z
   Total Products: 14
 - [Mens Products $100-$400](https://qshebley.com/collections/mens-products-100-400): Discover a curated range of men's footwear from $100-$400 including Olimpia Oxford and Twilight Trainer Sneakers, with free shipping on purchases over $500.
-  Updated: 2026-09-24T11:00:19Z
+  Updated: 2026-10-28T14:42:22Z
   Total Products: 372
 - [Mens Products $400-$600](https://qshebley.com/collections/mens-products-400-600): Discover premium men's footwear ranging from $400-$600, including Nab Loafers, Gall Chelsea Boots, and Saif Patina Longwing Blucher, with options for rush shipping.
   Updated: 2026-09-30T15:59:18Z
@@ -1688,8 +1688,8 @@ Que Shebley is an independent artisan brand specializing in handcrafted footwear
   Updated: 2026-07-22T02:18:39Z
   Total Products: 6
 - [New! Shopify performance sharing is now turned on](https://qshebley.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-21T01:10:27Z
-  Total Products: 2856
+  Updated: 2026-10-28T14:42:22Z
+  Total Products: 2862
 - [Spring/Summer 2026](https://qshebley.com/collections/spring-summer-2026): Discover Que Shebley Spring Summer 2026, a refined fusion of artistry and comfort showcasing luxury bespoke shoes for men and hand-painted patina styles.
   Updated: 2026-07-22T02:18:39Z
   Total Products: 41
