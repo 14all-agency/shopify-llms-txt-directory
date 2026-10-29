@@ -6,46 +6,56 @@
 - Timezone: Europe/Rome
 - Created At: 2026-09-26T19:42:46Z
 - Contact Email: hornglowindustry.com@gmail.com
-- Updated At: 2026-10-21T16:08:35.616Z
+- Updated At: 2026-10-29T00:50:30.559Z
 
 ## Products
 
 - [Mens Varsity Wool Jacket With Leather Sleeves - Comfort & Style](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves): Discover the mens varsity wool jacket with leather sleeves, designed for warmth and style on cold days. Perfect for campus or casual outings.
-  Updated: 2026-10-07T23:45:21Z
+  Updated: 2026-10-27T04:23:22Z
   Vendor: Horn Glow Industry 
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
+  Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/1793031485109-w7u1y5r74m.webp?v=1793031798
   - [XS / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839492866378)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
   - [S / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839492899146)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
   - [M / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839492931914)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
   - [L / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839492964682)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
   - [XL / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839492997450)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
   - [2XL / Black](https://s7h5pq-jx.myshopify.com/products/mens-varsity-wool-jacket-with-leather-sleeves?variant=63839493030218)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3910/2026/files/WhatsAppImage2026-09-30at11.19.15PM_8da46d7c-7039-4688-a193-e27fe1c6c561.jpg?v=1790882581
     Price: €224.99 EUR
 
 ## Collections
 
 - [Welcome to Our Website - Shop High-Quality Products](https://s7h5pq-jx.myshopify.com/collections/welcome-to-our-website-home-page): Welcome to our website! Discover high-quality products curated for your needs, enhancing your shopping experience with style and variety.
-  Updated: 2026-10-09T02:37:29Z
+  Updated: 2026-10-26T16:23:16Z
   Total Products: 1
+
+## Blogs
+
+- [Latest News Updates: Stay Informed with Current Events](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates): Stay updated with the latest news updates. Get current events and insights delivered right to your screen!
+  - [Ultimate Guide to Styling the Men's Varsity Wool Jacket with Leather Sleeves to Perfection](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/ultimate-guide-to-styling-the-mens-varsity-wool-jacket-with-leather-sleeves-to-perfection): Ultimate Guide to Styling the Men's Varsity Wool Jacket with Leather Sleeves to Perfection
+    Updated: 2026-10-21T16:17:46Z
+    Author: Horn Glow Industry
+  - [How to Stay Warm and Stylish This Winter with a Men's Varsity Wool Jacket with Leather Sleeves](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/how-to-stay-warm-and-stylish-this-winter-with-a-mens-varsity-wool-jacket-with-leather-sleeves): How to Stay Warm and Stylish This Winter with a Men's Varsity Wool Jacket with Leather Sleeves
+    Updated: 2026-10-23T15:01:07Z
+    Author: Horn Glow Industry
+  - [Staying Fashionably Warm A Look at the Versatile Men's Varsity Wool Jacket with Leather Sleeves](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/staying-fashionably-warm-a-look-at-the-versatile-mens-varsity-wool-jacket-with-leather-sleeves): Staying Fashionably Warm A Look at the Versatile Men's Varsity Wool Jacket with Leather Sleeves
+    Updated: 2026-10-25T15:00:43Z
+    Author: Horn Glow Industry
+  - [Effortlessly Elevate Your Winter Wardrobe with a Men's Varsity Wool Jacket Featuring Leather Sleeves](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/effortlessly-elevate-your-winter-wardrobe-with-a-mens-varsity-wool-jacket-featuring-leather-sleeves): Effortlessly Elevate Your Winter Wardrobe with a Men's Varsity Wool Jacket Featuring Leather Sleeves
+    Updated: 2026-10-28T15:00:23Z
+    Author: Horn Glow Industry
 
 ## Store Pages
 
@@ -57,15 +67,15 @@
 ## Policies
 
 - [Privacy Policy](https://s7h5pq-jx.myshopify.com/policies/privacy-policy)
-  Updated: 2026-09-30T19:25:35+02:00
+  Updated: 2026-09-30T17:25:35Z
 - [Shipping Policy](https://s7h5pq-jx.myshopify.com/policies/shipping-policy)
-  Updated: 2026-10-07T13:31:11+02:00
+  Updated: 2026-10-07T11:31:11Z
 - [Refund Policy](https://s7h5pq-jx.myshopify.com/policies/refund-policy)
-  Updated: 2026-09-30T19:29:37+02:00
+  Updated: 2026-09-30T17:29:37Z
 - [Terms of Service](https://s7h5pq-jx.myshopify.com/policies/terms-of-service)
-  Updated: 2026-09-30T19:26:52+02:00
+  Updated: 2026-09-30T17:26:52Z
 - [Contact Information](https://s7h5pq-jx.myshopify.com/policies/contact-information)
-  Updated: 2026-09-30T19:28:08+02:00
+  Updated: 2026-09-30T17:28:08Z
 
 ## Optional
 
