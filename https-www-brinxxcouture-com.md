@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-10-22T00:01:28.580Z
+- Updated At: 2026-10-29T00:53:54.738Z
 
 ## Products
 
@@ -154,7 +154,7 @@
     Availability: Not Available
     Price: $44.99 USD
 - [Animal Print Black Dress - Brinxx Couture](https://www.brinxxcouture.com/products/cap2-24-cd2787-id-55570): Stand out from the crowd in this sexy Animal Print Black Dress at Brinxx Couture. Form fitting thigh length long sleeve dress. Great for evening, birthdays and the club.
-  Updated: 2026-07-15T12:57:03Z
+  Updated: 2026-10-28T08:42:56Z
   Vendor: Brinxx Couture
   Product Type: Dress
   Availability: Available
