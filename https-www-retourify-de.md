@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-10-22T00:00:56.156Z
+- Updated At: 2026-10-29T00:41:01.545Z
 
 ## Products
 
@@ -155,13 +155,6 @@
   - [5-er Set](https://www.retourify.de/products/post-it-z-notes-abroller-schwarz-inkl-1-block-super-sticky-z-notes-neuware?variant=45235873743112)
     Availability: Available
     Price: 19,95 € EUR
-- [Weihnachtsdeko Restposten Palette 55 Boxen B-Ware kaufen | Retourify](https://www.retourify.de/products/posten-weihnachtsekoration-neuware-b-ware-gemischt): Weihnachtsdeko-Restposten für Gewerbe: 55 nummerierte Deko-Boxen auf einer Palette, Inhalt mit Fotos dokumentiert. Lieferung per Spedition.
-  Updated: 2026-10-19T21:29:09Z
-  Vendor: Retourify
-  Product Type: Postenware Paletten
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/posten-weihnachtdsekoration-neuware-b-ware-gemischt-gegen-preisvorschlag-3011152.jpg?v=1758788333
-  Price: 479,00 € EUR
 - [Blomus HEXA Schale Eiche hellbraun B-Ware | Retourify](https://www.retourify.de/products/blomus-hexa-schale-schussel-schalchen-eiche-hellbraun-b-ware): Blomus HEXA Schale aus Eiche in hellbraunem Ton, geprüfte B-Ware – dekorativ & praktisch. Jetzt günstig bei Retourify sichern!
   Updated: 2026-09-29T20:23:46Z
   Vendor: Blomus
@@ -1233,7 +1226,7 @@
   Updated: 2026-09-16T09:07:19Z
   Total Products: 10
 - [Weihnachten - Allerlei](https://www.retourify.de/collections/weihnachten): Stöbere in unserem Onlineshop nach Weihnachtsdeko: Neuware & Top B-Ware zu attraktiven Preisen. Jetzt festliche Weihnachtsdekoration online kaufen / Retourify
-  Updated: 2026-10-21T15:21:03Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 39
 - [a_Rabattartikel](https://www.retourify.de/collections/a_rabattartikel)
   Updated: 2026-10-02T15:04:33Z
@@ -1251,7 +1244,7 @@
   Updated: 2026-10-02T15:04:32Z
   Total Products: 6
 - [_Postenware Paletten](https://www.retourify.de/collections/paletten-postenware): Probleme mit überteuerten Angeboten und unnötiger Verschwendung? Spare nachhaltig mit unseren Postenware Paletten, entdecke vielfältige B Ware. Nur bei Retourify!
-  Updated: 2026-10-19T09:33:15Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 1
 - [_Alle Artikel aus Wohnen](https://www.retourify.de/collections/wohnen): Alles für ein gemütliches Zuhause... innen und außen! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-10-19T07:15:53Z
@@ -1422,7 +1415,7 @@
   Updated: 2026-08-07T09:45:37Z
   Total Products: 0
 - [_Sonderposten: Gib Deinen Preisvorschlag ab!](https://www.retourify.de/collections/top-angebote-mit-preisvorschlagen): Preise sind oft zu hoch? Mit unseren Sonderposten: Gib Deinen Preisvorschlag ab! Spare clever bei Retourenware und B-Ware, während du fair und transparent einkaufst. Nutze jetzt die Chance bei Retourify!
-  Updated: 2026-10-19T09:33:15Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 8
 - [_Gartenleuchten und Laternen](https://www.retourify.de/collections/gartenleuchten-und-laternen): Du suchst stimmungsvolle Außenbeleuchtung? Entdecke unsere Gartenleuchten und Laternen für nachhaltiges Licht und attraktive Preise. Jetzt bei Retourify!
   Updated: 2026-08-07T09:41:15Z
@@ -1518,13 +1511,13 @@
   Updated: 2026-10-04T11:14:03Z
   Total Products: 9
 - [_Preisupdates - täglich aktualisiert](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-21T15:21:03Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 229
 - [Optionize Add-ons](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-21T15:21:03Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 243
 - [All products](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-21T15:21:03Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 268
 - [_Weihnachtsdeko - Fertigsets](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
   Updated: 2026-10-21T15:17:39Z
@@ -1533,7 +1526,7 @@
   Updated: 2026-09-16T09:07:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-10-21T15:21:03Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 243
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
   Updated: 2026-10-21T15:21:03Z
@@ -1554,7 +1547,7 @@
   Updated: 2026-10-02T14:35:01Z
   Total Products: 11
 - [B-Ware](https://www.retourify.de/collections/b-ware): Geprüfte B-Ware und Sonderposten stark reduziert – deutlich günstiger als Neuware, mit klarer Zustandsbeschreibung. Jetzt bei Retourify entdecken.
-  Updated: 2026-10-21T15:21:38Z
+  Updated: 2026-10-22T11:18:49Z
   Total Products: 32
 - [Gebrauchtware und C-Ware](https://www.retourify.de/collections/gebrauchtware-und-c-ware): Stark reduzierte Gebrauchtware & C-Ware bei Retourify. Ehrlich beschriebene Mängel, geprüfte Funktion & maximale Ersparnis. Jetzt nachhaltig sparen!
   Updated: 2026-09-30T05:28:15Z
@@ -1711,13 +1704,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-10-21T01:50:12Z
+  Updated: 2026-10-28T03:26:42Z
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
   Updated: 2026-09-15T15:32:45Z
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-10-15T20:22:36Z
+  Updated: 2026-10-23T03:05:40Z
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-10-15T20:19:30Z
+  Updated: 2026-10-23T03:03:20Z
 - [Contact Information](https://www.retourify.de/policies/contact-information)
   Updated: 2023-05-05T13:40:01Z
 
