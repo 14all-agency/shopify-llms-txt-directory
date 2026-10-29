@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-28T20:28:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-22T00:00:37.248Z
+- Updated At: 2026-10-29T01:34:43.046Z
 
 ## Products
 
 - [Everybody's Home, Nobody's Happy - Exclusive Ghost Vinyl](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-exclusive-vinyl): Everybody's Home, Nobody's Happy Exclusive Ghost Vinyl
-  Updated: 2026-10-21T06:14:16Z
+  Updated: 2026-10-28T18:50:16Z
   Vendor: Sawyer Hill
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHEVERYBODY_SHOMEVINYL.png?v=1780324797
   Price: $34.99 USD
 - [Everybody's Home, Nobody's Happy Tee](https://sawyerhill.merchmadeeasy.com/products/everybodys-home-nobodys-happy-tee): Sawyer Hill Album Tee in black with front and back print. 100% cotton, wide collar, relaxed fit tee. Please note this tee is cropped about an inch shorter than standard tees. See size chart for details.
-  Updated: 2026-10-20T20:03:08Z
+  Updated: 2026-10-27T00:32:50Z
   Vendor: Sawyer Hill
   Product Type: T-Shirt
   Availability: Available
@@ -60,7 +60,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Cult Hoodie](https://sawyerhill.merchmadeeasy.com/products/cult-hoodie): Sawyer Hill Cult Hoodie in black with front and back print. 80/20 cotton/recycled polyester
-  Updated: 2026-10-21T03:31:36Z
+  Updated: 2026-10-24T13:59:51Z
   Vendor: Sawyer Hill
   Product Type: Hoodie
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: $85.00 USD
 - [Enamel Pin Set](https://sawyerhill.merchmadeeasy.com/products/enamel-pin-set): Set of 4 enamel pins on cardstock backing
-  Updated: 2026-10-16T14:55:59Z
+  Updated: 2026-10-24T13:59:55Z
   Vendor: Sawyer Hill
   Product Type: Pin
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/1019/5501/0928/files/SHPOSTER-2.png?v=1780498908
   Price: $10.00 USD
 - [Heartbreak Hysteria - Deluxe Green Vinyl](https://sawyerhill.merchmadeeasy.com/products/heartbreak-hysteria-deluxe-green-vinyl): Heartbreak Hysteria (Deluxe) on Green Vinyl. Mini poster included with each purchase!
-  Updated: 2026-10-21T06:14:17Z
+  Updated: 2026-10-26T19:37:27Z
   Vendor: Sawyer Hill
   Product Type: Vinyl
   Availability: Available
@@ -105,23 +105,26 @@
 ## Collections
 
 - [Home page](https://sawyerhill.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-21T11:19:09Z
+  Updated: 2026-10-27T11:17:09Z
   Total Products: 5
 - [Apparel](https://sawyerhill.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-21T11:19:09Z
-  Total Products: 3
+  Updated: 2026-10-27T11:17:09Z
+  Total Products: 8
 - [Accessories](https://sawyerhill.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-16T11:18:44Z
-  Total Products: 2
+  Updated: 2026-10-25T11:17:16Z
+  Total Products: 4
 - [Everybody’s Home, Nobody’s Happy](https://sawyerhill.merchmadeeasy.com/collections/everybody-s-home-nobody-s-happy)
-  Updated: 2026-10-21T11:19:09Z
+  Updated: 2026-10-27T11:17:09Z
   Total Products: 8
 - [All](https://sawyerhill.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-21T11:19:09Z
-  Total Products: 10
+  Updated: 2026-10-27T11:17:09Z
+  Total Products: 17
 - [Music](https://sawyerhill.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-21T11:19:09Z
-  Total Products: 3
+  Updated: 2026-10-27T11:17:09Z
+  Total Products: 4
+- [From The Archives](https://sawyerhill.merchmadeeasy.com/collections/from-the-archives)
+  Updated: 2026-10-22T19:37:46Z
+  Total Products: 7
 
 ## Store Pages
 
