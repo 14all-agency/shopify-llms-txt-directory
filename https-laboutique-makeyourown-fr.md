@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-10-22T00:00:46.423Z
+- Updated At: 2026-10-29T00:25:13.036Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/votremachineacoudre-square.jpg?v=1769840569
   Price: 40,00 € EUR
 - [Taie d'oreiller ou housse de coussin portefeuille](https://laboutique.makeyourown.fr/products/atelier-taie-doreiller-ou-housse-de-coussin-portefeuille): Si vous n'avez jamais cousu, ce cours est fait pour vous. Il vous permettra de découvrir la machine à coudre avec un projet simple et utile. Vous découvrirez enfin la surjeteuse pour les finitions. Les informations relatives aux dimensions du/des tissus à apporter vous seront communiquées lors de la réservation. Grand débutant Durée 2h30 Fournitures non comprises En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Cet atelier est proposé toute l’année. Pour fixer la date de votre atelier, merci de me contacter après votre réservation.
-  Updated: 2026-08-29T05:49:35Z
+  Updated: 2026-10-27T10:59:47Z
   Vendor: MYO COUTURE | La boutique
   Product Type: 
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/housse_naissance_01.jpg?v=1771419442
   Price: 40,00 € EUR
 - [Marque page personnalisé](https://laboutique.makeyourown.fr/products/atelier-enfant-marque-page-personnalise): Votre enfant découvrira la couture et la machine à coudre au travers d'un atelier ludique. Il créera le ou les marque-pages qui lui plaisent (élastiqué, avec ruban, personnalisation au choix, flex uni, pailleté, confettis, etc.) À partir de 7 ans Initiation Durée 3h Fournitures comprises En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Cet atelier est proposé toute l’année. Pour fixer la date de votre atelier, merci de me contacter après votre achat.
-  Updated: 2026-08-29T05:49:39Z
+  Updated: 2026-10-27T10:59:47Z
   Vendor: MYO COUTURE | La boutique
   Product Type: 
   Availability: Available
@@ -339,13 +339,13 @@
   Updated: 2026-08-29T08:42:05Z
   Total Products: 3
 - [ateliers de couture adultes](https://laboutique.makeyourown.fr/collections/ateliers-de-couture): Participez à des ateliers de couture pratiques et créatifs au Café Couture pensés pour vous faire progresser tout en réalisant des projets concrets. Chaque atelier vous permet d’apprendre et d’explorer une technique ou une pièce spécifique, avec un accompagnement personnalisé. Chaque session est organisée autour d’un projet complet, du tracé à la finition. Les ateliers sont ouverts aux débutant·es comme aux couturier·es déjà familiarisé·es avec la machine, et sont souvent centrés sur un projet précis, ce qui vous permet de repartir avec quelque chose de tangible à la fin de la séance.J'organise aussi des ateliers ponctuels adaptés aux saisons ou aux occasions spéciales (Noël, Pâques, upcycling, etc.), ces ateliers publiés sur les réseaux sociaux. Suivez l'actualité du Café Couture pour ne rien manquer. Découvrez le Café Couture
-  Updated: 2026-10-13T11:39:50Z
+  Updated: 2026-10-27T12:04:01Z
   Total Products: 8
 - [couture libre](https://laboutique.makeyourown.fr/collections/carte-en-acces-libre): La Couture Libre vous permet de venir coudre à votre rythme au Café Couture à et de travailler sur vos projets personnels dans un espace convivial et équipé. Choisissez une carte d’heures : les tarifs sont dégressifs en fonction du nombre d’heures choisies.Réservez un créneau du mardi au vendredi, le matin (9h‑12h) ou l’après-midi (14h‑17h), et le samedi sur demande.Chaque carte est valable un an. Que vous souhaitiez avancer sur un projet existant, expérimenter de nouvelles techniques ou simplement prendre un moment pour vous, la Couture Libre vous offre toute la liberté pour organiser vos séances comme il vous convient.
   Updated: 2026-08-25T13:02:14Z
   Total Products: 1
 - [ateliers de couture enfants](https://laboutique.makeyourown.fr/collections/ateliers-de-couture-enfants): Les ateliers enfants du Café Couture sont pensés pour éveiller la créativité de votre enfant tout en lui faisant découvrir les bases de la couture. Chaque session est centrée sur un projet amusant et concret, que votre enfant pourra terminer et emporter. Adaptés aux différents âges et niveaux, ces ateliers permettent à votre enfant de progresser à son rythme, avec un accompagnement bienveillant et ludique. Des ateliers spéciaux sont proposés selon les saisons et les fêtes pour varier les projets et surprendre votre enfant. Découvrez le Café Couture
-  Updated: 2026-08-29T08:42:05Z
+  Updated: 2026-10-27T12:04:01Z
   Total Products: 6
 - [ateliers de couture naissance](https://laboutique.makeyourown.fr/collections/ateliers-de-couture-naissance): Les ateliers de couture naissance permettent à chacun de créer un cadeau unique pour bébé, qu’on soit parent, ami, grand-parent ou cousin. Parce qu’il est souvent difficile de trouver un cadeau qui sorte vraiment de l’ordinaire, ces ateliers offrent la possibilité de fabriquer soi-même des indispensables uniques. Découvrez le Café Couture
   Updated: 2026-09-23T11:46:17Z
