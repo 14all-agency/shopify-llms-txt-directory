@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-17T08:15:22Z
 - Contact Email: contact@kdc-surfwear.com
-- Updated At: 2026-10-22T00:00:42.947Z
+- Updated At: 2026-10-29T00:24:07.909Z
 
 ## Products
 
@@ -883,7 +883,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/bottom_bikini_nero_KDC.jpg?v=1772808311
     Price: 32,50 € EUR
 - [Boardshort surf homme recyclé 18'' – KOOK | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-recycle-kook-18inch): Boardshort surf fabriqué à partir de bouteilles plastique recyclées. Pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-10-19T15:40:10Z
+  Updated: 2026-10-23T07:27:28Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -987,7 +987,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort_surf_Tropic_KDC_2.png?v=1775115757
     Price: 59,00 € EUR
 - [Boardshort surf homme recyclé 18'' – SLOW | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-de-surf-slow-18inch-recycled): Boardshort stretch à séchage rapide, hyper léger, fabriqué à partir de bouteilles plastique recyclées pour le surf, le wake, le stand up paddle, le kitesurf ou sur la plage.
-  Updated: 2026-10-19T15:40:15Z
+  Updated: 2026-10-23T07:27:27Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Homme
   Availability: Available
@@ -1061,7 +1061,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Electro_4.png?v=1775025434
     Price: 39,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – WURFEUSE | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-wurfeuse-recycle): Boardshort femme recyclé 11'' pour surfeuses et kitesurfeuses : 8 bouteilles recyclées, Stretch4D, séchage rapide. Éco-responsable. KDC Surfwear.
-  Updated: 2026-10-19T15:40:25Z
+  Updated: 2026-10-25T19:12:03Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Chill_KDC_3.png?v=1775030744
     Price: 39,00 € EUR
 - [Poncho surf 100 % coton – PASTEK | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-pastek): Poncho surf 100% coton terry double face. Capuche large contrastée, ouvertures latérales. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-10-21T05:34:11Z
+  Updated: 2026-10-28T13:38:46Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -1115,7 +1115,7 @@
 ## Collections
 
 - [Line-up](https://kdc-surfwear.com/collections/line-up): Collection au line-up
-  Updated: 2026-10-21T11:30:14Z
+  Updated: 2026-10-26T11:27:58Z
   Total Products: 12
 - [Accessoires](https://kdc-surfwear.com/collections/accessoires): Accessoires Poncho / Mug / Casquettes / Stickers
   Updated: 2026-09-06T11:20:55Z
@@ -1130,10 +1130,10 @@
   Updated: 2026-05-29T05:00:52Z
   Total Products: 1
 - [Boardshorts Homme](https://kdc-surfwear.com/collections/boardshort-homme-long-court-pour-surf-kitesurf): Nos boardshorts pour homme sont fabriqués à partir de bouteilles plastique recyclées. Il sont Strech4D pour un confort optimal, les frottements sont réduits, le séchage est rapide grâce à une technologie QuickDry, et il sait se faire oublier par sa légèreté et son tissus très doux.
-  Updated: 2026-10-16T11:28:39Z
+  Updated: 2026-10-23T11:49:50Z
   Total Products: 12
 - [Boardshort Femme](https://kdc-surfwear.com/collections/boardshort-femme-long-court-surf-kitesurf): Nos boardshorts pour femme sont fabriqués à partir de bouteilles plastique recyclées. Il sont Strech4D pour un confort optimal, les frottements sont réduits, le séchage est rapide grâce a une technologie QuickDry , et il sait se faire oublier par sa légèreté et son tissus très doux.
-  Updated: 2026-09-22T11:26:28Z
+  Updated: 2026-10-26T11:27:58Z
   Total Products: 7
 - [Bikinis](https://kdc-surfwear.com/collections/bikinis): Bikinis fabriqués à partir de fil de nylon 100 % régénéré dérivé de déchets pré et post-industriels, tels que des filets de pêche jetés. Recyclé / Stretch 4D / Anti-UV / Recyclable
   Updated: 2026-09-07T11:23:15Z
@@ -1142,7 +1142,7 @@
   Updated: 2026-07-21T11:27:46Z
   Total Products: 11
 - [Ponchos Surf](https://kdc-surfwear.com/collections/poncho-serviette): Poncho de surf pour se changer facilement et rester au chaud après la session.100% coton 380 gsm certifié OEKO-TEX®
-  Updated: 2026-10-21T11:30:14Z
+  Updated: 2026-10-24T11:25:08Z
   Total Products: 2
 - [Hoodies](https://kdc-surfwear.com/collections/hoodies): Imprimé en France
   Updated: 2026-06-20T11:24:07Z
@@ -1172,16 +1172,16 @@
   Updated: 2026-08-24T11:22:43Z
   Total Products: 2
 - [Maillots recyclés](https://kdc-surfwear.com/collections/maillot-recycle): KDC S’IMPLIQUE POUR LA PLANÈTE ! MAILLOTS DE BAIN FABRIQUÉS À PARTIR DE BOUTEILLES PLASTIQUE RECYCLÉES
-  Updated: 2026-10-16T11:28:39Z
+  Updated: 2026-10-26T11:27:58Z
   Total Products: 21
 - [Leggings et brassières](https://kdc-surfwear.com/collections/legging-brassiere-sport-yoga): Fabriqué en Econyl ♻ Matière recyclée et recyclable
   Updated: 2026-07-21T11:27:46Z
   Total Products: 8
 - [Boardshorts Homme – Smart](https://kdc-surfwear.com/collections/boardshorts-homme-smart)
-  Updated: 2026-10-16T11:28:39Z
+  Updated: 2026-10-23T11:49:50Z
   Total Products: 12
 - [Boardshorts Femme – Smart](https://kdc-surfwear.com/collections/boardshorts-femme-smart)
-  Updated: 2026-09-22T11:26:28Z
+  Updated: 2026-10-26T11:27:58Z
   Total Products: 7
 - [Bikinis – Smart](https://kdc-surfwear.com/collections/bikinis-smart)
   Updated: 2026-09-07T11:23:15Z
@@ -1193,10 +1193,10 @@
   Updated: 2026-06-20T11:24:07Z
   Total Products: 7
 - [Maillots Recyclés – Smart](https://kdc-surfwear.com/collections/maillots-recycles-smart)
-  Updated: 2026-10-16T11:28:39Z
+  Updated: 2026-10-26T11:27:58Z
   Total Products: 21
 - [Accessoires &amp; Lifestyle – Smart](https://kdc-surfwear.com/collections/accessoires-amp-lifestyle-smart)
-  Updated: 2026-10-21T11:30:14Z
+  Updated: 2026-10-24T11:25:08Z
   Total Products: 12
 - [Bikinis, leggings, brassières, maillots en matières recyclées](https://kdc-surfwear.com/collections/bikinis-leggings-brassieres-maillots-en-matieres-recyclees): Fabriqués à partir d'un nylon de haute qualité fabriqué entièrement à partir de déchets ramassés dans les océans (principalement des «filets fantômes» et tapis abandonnés). Ils sont triés et lavés, broyés, fondus puis transformés en fibre et tissés. La fabrication de cette fibre réduit de 80% les émissions de gaz à effet de serre par rapport à la production d’un fil de nylon standard. Elle n’utilise pas de matière fossile non renouvelable et est 100% recyclable à vie.
   Updated: 2026-09-07T11:23:15Z
