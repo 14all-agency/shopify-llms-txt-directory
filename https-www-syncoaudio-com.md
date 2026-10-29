@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-02T02:31:54Z
 - Contact Email: service@syncoaudio.com
-- Updated At: 2026-10-22T08:00:35.000Z
+- Updated At: 2026-10-29T08:46:44.044Z
 
 ## Products
 
