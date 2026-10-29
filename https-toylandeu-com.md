@@ -12,12 +12,12 @@
 - Contact Email: Toys@toylandeu.com
 - Contact Phone: 19492595481
 - Address: 6547 North Academy Boulevard
-- Updated At: 2026-10-22T00:01:44.715Z
+- Updated At: 2026-10-29T01:02:29.602Z
 
 ## Products
 
 - [Advanced Remote Control Helicopter Model with Intelligent Return](https://toylandeu.com/products/rc-intelligent-rc-helicopter-with-auto-return-follow-me-feature): Experience Unmatched Control with the Advanced Remote Control Helicopter Model Prepare to be amazed  - ToylandEU
-  Updated: 2026-10-18T03:41:10Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Remote Control Helicopters
   Availability: Available
@@ -31,7 +31,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Advanced-Remote-Control-Helicopter-Model-with-Intelligent-Return-50123809718611.webp?v=1792150718
     Price: $125.61 USD
 - [Marble Maze Wooden Puzzle Kit - DIY Mechanical Self-Assembly Toy for](https://toylandeu.com/products/diy-marble-run-puzzle-kit-engaging-wooden-maze-construction-toy-for-teens-adults): Unleash Creativity  Marble Maze Wooden Puzzle Kit Embark on a journey of fun and innovation  - ToylandEU
-  Updated: 2026-10-18T03:41:10Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
@@ -45,14 +45,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Marble-Maze-Wooden-Puzzle-Kit-DIY-Mechanical-Self-Assembly-Toy-for-50123810079059.webp?v=1792150726
     Price: $124.07 USD
 - [Marble Maze Building Blocks Set for Educational Fun and Learning -](https://toylandeu.com/products/moc-creative-marble-maze-building-blocks-set-for-family-fun-learning): Unlock Creativity with Marble Maze Building Blocks! Spark educational fun and learning with  - ToylandEU
-  Updated: 2026-10-18T03:41:10Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Marble-Maze-Building-Blocks-Set-for-Educational-Fun-and-Learning-50123810439507.webp?v=1792150725
   Price: $70.79 USD
 - [Dino-Themed Marble Run Building Blocks Set - 62 Pieces with Slides,](https://toylandeu.com/products/moc-dino-adventure-marble-run-set-62-piece-building-blocks-for-kids): Unleash Prehistoric Fun with the Dino-Themed Marble Run Building Blocks Set! Embark on a thrilling  - ToylandEU
-  Updated: 2026-10-18T03:41:11Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
@@ -66,28 +66,28 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Dino-Themed-Marble-Run-Building-Blocks-Set-62-Pieces-with-Slides-50123810931027.webp?v=1792150725
     Price: $52.43 USD
 - [Rainbow Tensegrity Marble Run Building Block Set with Motorized](https://toylandeu.com/products/colorful-tensegrity-marble-run-set-with-motorized-ball-stem-fun): Explore Limitless Creativity with the Rainbow Tensegrity Marble Run Building Block Set! Unleash the  - ToylandEU
-  Updated: 2026-10-18T03:41:15Z
+  Updated: 2026-10-28T23:25:03Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Rainbow-Tensegrity-Marble-Run-Building-Block-Set-with-Motorized-50123811127635.webp?v=1792150725
   Price: $296.52 USD
 - [Electric Marble Wheel Building Blocks Set with Roaster Ball Lift Track](https://toylandeu.com/products/moc-electric-marble-wheel-building-blocks-with-lift-track-for-endless-fun): Unleash Creativity with the Electric Marble Wheel Building Blocks Set Get ready to embark on a  - ToylandEU
-  Updated: 2026-10-18T03:41:15Z
+  Updated: 2026-10-28T23:25:06Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Electric-Marble-Wheel-Building-Blocks-Set-with-Roaster-Ball-Lift-Track-50123811553619.webp?v=1792150733
   Price: $76.92 USD
 - [Rainbow Marble Run Building Blocks Set for Adults - DIY Tensegrity](https://toylandeu.com/products/rc-diy-rainbow-marble-run-set-with-remote-control-for-creative-adults): Experience Endless Creativity with the Rainbow Marble Run Building Blocks Set Unleash your  - ToylandEU
-  Updated: 2026-10-18T03:41:15Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Rainbow-Marble-Run-Building-Blocks-Set-for-Adults-DIY-Tensegrity-50123811782995.webp?v=1792150733
   Price: $478.42 USD
 - [Marble Run Building Blocks Maze Toy Set for Kids Educational Pipeline](https://toylandeu.com/products/moc-creative-marble-run-building-blocks-set-fun-educational-maze-toy): Unleash Creativity with the Marble Run Building Blocks Maze Toy Set Embark on a journey of  - ToylandEU
-  Updated: 2026-10-18T03:41:20Z
+  Updated: 2026-10-28T23:25:12Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
@@ -125,7 +125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Marble-Run-Building-Blocks-Maze-Toy-Set-for-Kids-Educational-Pipeline-50123812831571.webp?v=1792150740
     Price: $48.67 USD
 - [EC135 Brushless Remote Control Helicopter - 6CH Double Paddle Aileron](https://toylandeu.com/products/rc-ultimate-ec135-brushless-6ch-rc-helicopter-for-aerial-adventures): Experience Ultimate Control with the EC135 Brushless Remote Control Helicopter Remote Distance:  - ToylandEU
-  Updated: 2026-10-18T03:41:20Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -139,7 +139,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/EC135-Brushless-Remote-Control-Helicopter-6CH-Double-Paddle-Aileron-50123821973843.webp?v=1792150740
     Price: $330.99 USD
 - [RC Helicopter | 80 cm XY002 Dual Propeller | Toylandeu™](https://toylandeu.com/products/rc-80cm-led-dual-propeller-rc-helicopter-fly-with-anti-crash-tech): XY002 80 cm RC helicopter with dual propeller, LED lights and a 150 m range plus anti-crash design. Bring the fun home. Add it to your cart at Toylandeu™.
-  Updated: 2026-10-18T03:41:30Z
+  Updated: 2026-10-28T23:25:11Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -241,7 +241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/80CM-Dual-Propeller-LED-RC-Helicopter-Remote-Control-Toy-with-50123835179347.webp?v=1792150773
     Price: $206.99 USD
 - [Alloy RC Helicopter 3.5CH 80cm Extra Large Remote Control Aircraft](https://toylandeu.com/products/rc-extra-large-remote-control-alloy-helicopter-ultimate-flying-fun): Experience the Thrill of Flight with the  RC Helicopter Take playtime to new heights with the  - ToylandEU
-  Updated: 2026-10-18T03:41:35Z
+  Updated: 2026-10-28T23:25:11Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -319,7 +319,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Alloy-RC-Helicopter-3-5CH-80cm-Extra-Large-Remote-Control-Aircraft-50123828986195.webp?v=1792150753
     Price: $257.59 USD
 - [70cm 4K WiFi FPV RC Helicopter with Obstacle Avoidance & LED Lights -](https://toylandeu.com/products/rc-4k-wifi-fpv-rc-helicopter-with-led-lights-obstacle-avoidance-for-kids): Experience the Ultimate Adventure with the 70cm 4K WiFi FPV RC Helicopter Immersive FPV Experience:  - ToylandEU
-  Updated: 2026-10-18T03:41:35Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/70cm-4K-WiFi-FPV-RC-Helicopter-with-Obstacle-Avoidance-LED-Lights-50123826364755.webp?v=1792150747
     Price: $129.50 USD
 - [Dual Motor RC Airplane Kit with Remote Control - DIY Foam Glider Toy](https://toylandeu.com/products/rc-diy-dual-motor-remote-control-airplane-kit-fun-foam-glider-toy): Experience Thrilling Adventures with the Dual Motor RC Airplane Kit! Unleash Your Inner Pilot: Dive  - ToylandEU
-  Updated: 2026-10-18T03:41:41Z
+  Updated: 2026-10-28T23:25:13Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -355,7 +355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Dual-Motor-RC-Airplane-Kit-with-Remote-Control-DIY-Foam-Glider-Toy-50123829739859.webp?v=1792150761
     Price: $143.76 USD
 - [Ultimate Aerobatic Mini RC Airplane - Ready-to-Fly 150mm Wingspan](https://toylandeu.com/products/rc-advanced-mini-aerobatic-rc-drone-easy-to-use-lightweight-150mm-wingspan-epp-foam-build): Experience the Thrill of Aerobatics with the Ultimate Mini RC Airplane! Ready-to-Fly: NoEnName_Null  - ToylandEU
-  Updated: 2026-10-18T03:41:41Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -373,14 +373,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Ultimate-Aerobatic-Mini-RC-Airplane-Ready-to-Fly-150mm-Wingspan-50123830952275.webp?v=1792150761
     Price: $101.17 USD
 - [Foam Glider 6-Channel RC Aircraft Model with Electric Assembly -](https://toylandeu.com/products/rc-ultimate-foam-glider-6-channel-rc-aircraft-for-outdoor-adventures): Experience the Ultimate Outdoor Fun with the Foam Glider RC Aircraft Model! High-Quality Build:  - ToylandEU
-  Updated: 2026-10-18T03:41:40Z
+  Updated: 2026-10-28T23:25:06Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Foam-Glider-6-Channel-RC-Aircraft-Model-with-Electric-Assembly-50123832754515.webp?v=1792150761
   Price: $675.30 USD
 - [WLtoys F949S 3Ch RC Airplane with Gyroscope - Ready-to-Fly Outdoor](https://toylandeu.com/products/rc-wltoys-f949s-gyroscopic-rc-airplane-ready-to-fly-fun-for-everyone): Experience the Thrill of Flight with WLtoys F949S RC Airplane Equipped with a Gyroscope for  - ToylandEU
-  Updated: 2026-10-18T03:42:05Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -536,7 +536,7 @@
     Availability: Available
     Price: $145.57 USD
 - [Ultimate F22S Raptor 3D6G RC Airplane with Gyroscope - Outdoor Flying](https://toylandeu.com/products/rc-experience-the-thrill-of-f22s-raptor-3d6g-rc-airplane-fly-high): Experience Thrilling Outdoor Adventures with the Ultimate F22S Raptor 3D6G RC Airplane! Advanced  - ToylandEU
-  Updated: 2026-10-18T03:42:15Z
+  Updated: 2026-10-28T23:25:13Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -606,7 +606,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Ultimate-F22S-Raptor-3D6G-RC-Airplane-with-Gyroscope-Outdoor-Flying-50123840782675.webp?v=1792150779
     Price: $114.50 USD
 - [RC Fighter Ranger600 3CH Aerobatic RC Plane - Ready-to-Fly Foam](https://toylandeu.com/products/rc-thrilling-3ch-rc-fighter-ranger600-aerobatic-plane-ready-to-fly-fun): Experience Thrilling Aerobatics with the RC Fighter Ranger600 Aerobatic RC Plane! Ready-to-Fly: Get  - ToylandEU
-  Updated: 2026-10-18T03:42:15Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -620,7 +620,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/RC-Thrilling-3CH-RC-Fighter-Ranger600-Aerobatic-Plane-Ready-to-Fly-Fun-ToylandEU-50123842650451.webp?v=1750920819
     Price: $181.03 USD
 - [Ultimate Volantex Spitfire EPP 400mm RC Warbird with Aerobatic Key](https://toylandeu.com/products/rc-aerobatic-volantex-spitfire-epp-400mm-rc-warbird-fly-like-a-pro): Experience Thrilling s with the Ultimate Volantex Spitfire EPP 400mm RC Warbird! Unleash  - ToylandEU
-  Updated: 2026-10-18T03:42:16Z
+  Updated: 2026-10-28T23:25:12Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -638,7 +638,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Ultimate-Volantex-Spitfire-EPP-400mm-RC-Warbird-with-Aerobatic-Key-50123843961171.webp?v=1792150785
     Price: $218.08 USD
 - [6CH Dual Brushless RC Helicopter | 120-150 m Range | Toylandeu™](https://toylandeu.com/products/rc-ultimate-6ch-brushless-rc-helicopter-with-app-control-3d-technology): 6CH dual brushless RC helicopter with a 120-150 m range, app control and 3D optical flow. Discover more at Toylandeu™ and add it to your collection today.
-  Updated: 2026-10-18T03:42:21Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -651,7 +651,7 @@
     Availability: Available
     Price: $220.99 USD
 - [FMS 64mm F-16 "Battle Falcon" V2 PNP Remote Control Aircraft Model -](https://toylandeu.com/products/rc-fms-64mm-f-16-battle-falcon-v2-pnp-rc-plane-with-navigation-lights): Experience Thrilling Aerial Adventures with the FMS 64mm F-16 "Battle Falcon" V2 PNP Remote Control  - ToylandEU
-  Updated: 2026-10-18T03:42:20Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -665,14 +665,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/FMS-64mm-F-16-Battle-Falcon-V2-PNP-Remote-Control-Aircraft-Model-50123846386003.webp?v=1792150791
     Price: $641.11 USD
 - [Beginner's Guide RC Glider Model  Volantex 600mm Fixed Wing Aircraft](https://toylandeu.com/products/rc-volantex-600mm-rc-glider-unleash-your-flying-skills-with-our-beginner-friendly-aircraft): Experience the Thrill of Flight with the Volantex 600mm Fixed Wing Aircraft Embark on your aviation  - ToylandEU
-  Updated: 2026-10-18T03:42:20Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Beginner-s-Guide-RC-Glider-Model-Volantex-600mm-Fixed-Wing-Aircraft-50123855266131.webp?v=1792150791
   Price: $322.23 USD
 - [RC Airplane Glider Toy for Boys - Brushless Motor, Remote Control](https://toylandeu.com/products/rc-high-flying-remote-control-glider-for-kids-brushless-motor-fun): Experience High-Flying Adventures with the RC Airplane Glider Toy for Boys Main Features: Brushless  - ToylandEU
-  Updated: 2026-10-18T03:42:25Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -686,14 +686,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/RC-Airplane-Glider-Toy-for-Boys-Brushless-Motor-Remote-Control-50123850121555.webp?v=1792150791
     Price: $268.63 USD
 - [Ultimate Volantex Ranger600 RC Plane - Ready-to-Fly Outdoor Aircraft](https://toylandeu.com/products/rc-experience-the-thrill-with-volantex-ranger600-rc-plane-ready-to-fly): Unleash Your Flying Skills with the Ultimate Volantex Ranger600 RC Plane! Ready-to-Fly Outdoor  - ToylandEU
-  Updated: 2026-10-18T03:42:25Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Ultimate-Volantex-Ranger600-RC-Plane-Ready-to-Fly-Outdoor-Aircraft-50123855954259.webp?v=1792150806
   Price: $244.63 USD
 - [Sky Master F959s 3CH RC Airplane with Gyro - Ready-to-Fly Glider for](https://toylandeu.com/products/rc-beginner-friendly-sky-master-f959s-rc-airplane-with-gyro-stability): Experience the Skies with Sky Master F959s 3CH  Airplane Embark on your journey into the world of  - ToylandEU
-  Updated: 2026-10-18T03:42:25Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Remote Control Toys
   Availability: Available
@@ -715,7 +715,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Sky-Master-F959s-3CH-RC-Airplane-with-Gyro-Ready-to-Fly-Glider-for-50123857035603.webp?v=1792150806
     Price: $189.68 USD
 - [Shapeshift Robot 3D Action Figure Assembly Game Toy - Kids'](https://toylandeu.com/products/shapeshift-robot-3d-buildable-action-figure-toy-for-family-fun): Experience Endless Fun with the Shapeshift Robot 3D Action Figure Assembly Game Toy Get ready to  - ToylandEU
-  Updated: 2026-10-18T03:42:35Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -769,7 +769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Shapeshift-Robot-3D-Action-Figure-Assembly-Game-Toy-Kids-50123858903379.webp?v=1792150813
     Price: $29.27 USD
 - [Demon Slayer Anime Character Action Figures Set - PVC Figurines](https://toylandeu.com/products/pvc-action-figures-set-collectible-anime-characters-for-kids): Discover the World of Demon Slayer Anime Characters! Unleash the Excitement: Bring home the beloved  - ToylandEU
-  Updated: 2026-10-18T03:42:41Z
+  Updated: 2026-10-28T23:25:11Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -827,7 +827,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/PVC-Action-Figures-Set-Collectible-Anime-Characters-for-Kids-ToylandEU-50123861164371.webp?v=1750920711
     Price: $33.82 USD
 - [Demon Slayer Anime  17cm Muzan Akaza Gyoumei Sabito Doll Action](https://toylandeu.com/products/17cm-action-figures-muzan-akaza-gyoumei-sabito-collection): Four 17 cm PVC action figures from Kimetsu no Yaiba (Muzan, Akaza, Gyoumei, Sabito); unisex, for display or play; suitable for ages 6+, eco-packaging.
-  Updated: 2026-10-18T03:42:50Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -884,7 +884,7 @@
     Availability: Available
     Price: $30.69 USD
 - [Avengers Mini Figure Set | Spider-Man Launcher | Toylandeu™](https://toylandeu.com/products/avengers-mini-anime-action-figures-set-spider-man-launcher-heroes): Marvel Avengers mini figure set with a Spider-Man launcher, Iron Man and Captain America, plus Thor, for young superhero fans. See more at Toylandeu™.
-  Updated: 2026-10-18T03:42:51Z
+  Updated: 2026-10-28T23:25:12Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -922,7 +922,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Marvel-SpiderMan-Launcher-Action-Figure-Set-with-Avengers-Characters-50123862409555.webp?v=1792150825
     Price: $33.82 USD
 - [Adaptable Shapeshift Robot Action Figure Toy  3D Print Model for Kids](https://toylandeu.com/products/versatile-3d-printed-adaptable-robot-action-figure-for-kids): Unleash Endless Adventures with the Adaptable Shapeshift Robot Action Figure Toy Transformative  - ToylandEU
-  Updated: 2026-10-18T03:43:01Z
+  Updated: 2026-10-28T23:25:11Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -980,14 +980,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Adaptable-Shapeshift-Robot-Action-Figure-Toy-3D-Print-Model-for-Kids-50123867554131.webp?v=1792150845
     Price: $29.65 USD
 - [Super Mario Bros PVC Action Figure Toys Set - 6pcs Luigi Yoshi Donkey](https://toylandeu.com/products/super-bros-6-piece-pvc-action-figure-set-luigi-yoshi-more): Experience the Adventure with the Super Mario Bros PVC Action Figure Toys Set Embark on a thrilling  - ToylandEU
-  Updated: 2026-10-18T03:43:00Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Super-Mario-Bros-PVC-Action-Figure-Toys-Set-6pcs-Luigi-Yoshi-Donkey-50123863327059.webp?v=1792150825
   Price: $43.90 USD
 - [Elite Special Forces Building Blocks Military Toy Set - ToylandEU](https://toylandeu.com/products/moc-ultimate-military-mission-building-blocks-set-with-action-figures): Unleash Your Inner Hero with the Elite Special Forces Building Blocks Military Toy Set! Immerse  - ToylandEU
-  Updated: 2026-10-18T03:43:05Z
+  Updated: 2026-10-28T23:25:13Z
   Vendor: ToylandEU
   Product Type: Interlocking Blocks
   Availability: Available
@@ -1025,7 +1025,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Elite-Special-Forces-Building-Blocks-Military-Toy-Set-ToylandEU-50123867717971.webp?v=1792150845
     Price: $32.28 USD
 - [Jujutsu Kaisen 10cm Satoru Gojo and Geto Suguru Mini Action Figures](https://toylandeu.com/products/jujutsu-kaisen-10cm-mini-figure-set-satoru-gojo-geto-suguru-toys): Experience the Magic of Jujutsu Kaisen with These Mini Action Figures! Set includes mini action  - ToylandEU
-  Updated: 2026-10-18T03:43:10Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1055,7 +1055,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Jujutsu-Kaisen-10cm-Satoru-Gojo-and-Geto-Suguru-Mini-Action-Figures-50123869061459.webp?v=1792150851
     Price: $30.94 USD
 - [Haikyuus Volleyball Action Figure Set with Kenma Kozume, Shoyo Hinata,](https://toylandeu.com/products/haikyu-volleyball-action-figure-collection-8-iconic-characters-set): Experience the Thrilling Action with Haikyuus Volleyball Action Figure Set! Includes 8 action  - ToylandEU
-  Updated: 2026-10-18T03:43:10Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1073,14 +1073,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Haikyuus-Volleyball-Action-Figure-Set-with-Kenma-Kozume-Shoyo-Hinata-50123868635475.webp?v=1792150852
     Price: $33.83 USD
 - [12-Piece Jujutsu Kaisen Gojo Satoru Figure PVC Models Set for Kids -](https://toylandeu.com/products/12-piece-gojo-satoru-pvc-figure-set-jujutsu-kaisen-anime-collectibles): 12-piece Gojo Satoru PVC figure set from Jujutsu Kaisen; 12 PVC figures of varying heights, PVC material, for display and collection.
-  Updated: 2026-10-18T03:43:10Z
+  Updated: 2026-10-28T23:25:08Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/12-Piece-Jujutsu-Kaisen-Gojo-Satoru-Figure-PVC-Models-Set-for-Kids-50123872141651.webp?v=1792150851
   Price: $77.63 USD
 - [Kawaii Jujutsu Kaisen 7.87" Plush Toy - Satoru Gojo & Getou Suguru](https://toylandeu.com/products/kawaii-jujutsu-kaisen-plush-set-adorable-satoru-gojo-getou-suguru): Experience the Magic of Kawaii  Kaisen with our Plush Toy Duo! Bring the enchanting world of  - ToylandEU
-  Updated: 2026-10-21T20:49:17Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Stuffed Animals
   Availability: Available
@@ -1094,7 +1094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Kawaii-Jujutsu-Kaisen-7-87-Plush-Toy-Satoru-Gojo-Getou-Suguru-50123874828627.webp?v=1792150867
     Price: $29.92 USD
 - [20cm Gojo And Geto Anime Plush Toys - Cute Stuffed Dolls for Kids](https://toylandeu.com/products/20cm-gojo-geto-plush-toys-adorable-anime-dolls-for-kids-gifts): 20 cm Gojo & Geto plush toys; plush material with PP cotton filling, CE  for ages 3–6, gender-neutral, inspired by movie/TV characters.
-  Updated: 2026-10-18T03:43:15Z
+  Updated: 2026-10-28T23:25:08Z
   Vendor: ToylandEU
   Product Type: Stuffed Animals
   Availability: Available
@@ -1116,14 +1116,14 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/20cm-Gojo-And-Geto-Anime-Plush-Toys-Cute-Stuffed-Dolls-for-Kids-50123876237651.webp?v=1792150868
     Price: $32.01 USD
 - [Fushiguro Toji Plush Doll | 130 cm | Toylandeu™](https://toylandeu.com/products/fushiguro-toji-130cm-plush-doll-kawaii-jujutsu-kaisen-anime-decor): Snuggle up to Jujutsu Kaisen's Fushiguro Toji in this 130cm kawaii plush doll filled with PP cotton, a fun anime decor piece. Shop now at Toylandeu™.
-  Updated: 2026-10-18T03:43:15Z
+  Updated: 2026-10-28T23:25:07Z
   Vendor: ToylandEU
   Product Type: Dolls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Jujutsu-Kaisen-130cm-Plush-Doll-Fushiguro-Toji-Cursed-Spririt-Swear-50123878433107.webp?v=1792150867
   Price: $58.41 USD
 - [Jujutsu Kaisen Okkotsu Yuta Figure | Anime PVC Model | Toylandeu™](https://toylandeu.com/products/bandai-jujutsu-kaisen-collectible-action-figures-anime-pvc-model-toy-set): Jujutsu Kaisen Okkotsu Yuta anime PVC model figure, a polished desk piece for fans who follow the sorcerer's story. Shop the full range at Toylandeu™.
-  Updated: 2026-10-18T03:43:20Z
+  Updated: 2026-10-28T23:25:14Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1149,7 +1149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Jujutsu-Kaisen-Anime-Character-Action-Figures-Set-Collectible-PVC-50123879481683.webp?v=1792150873
     Price: $32.01 USD
 - [Anime Figures Jujutsu Kaisen Satoru Gojo Geto Suguru Collectible PVC](https://toylandeu.com/products/jujutsu-kaisen-satoru-gojo-geto-pvc-collectible-figures-set): Explore the World of Jujutsu Kaisen with our Collectible PVC Toy Set Immerse yourself in the  - ToylandEU
-  Updated: 2026-10-18T03:43:21Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1171,7 +1171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Anime-Figures-Jujutsu-Kaisen-Satoru-Gojo-Geto-Suguru-Collectible-PVC-50123881185619.webp?v=1792150873
     Price: $38.75 USD
 - [Anime Figure Robot XP Series Mecha Model - Transformers Edition -](https://toylandeu.com/products/adaptable-mecha-model-primal-commander-anime-figure-for-collectors-adaptable): Transform and Command with the Anime Figure Robot XP Series Mecha Model Step into the world of  - ToylandEU
-  Updated: 2026-10-18T03:43:25Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1193,7 +1193,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Anime-Figure-Robot-XP-Series-Mecha-Model-Transformers-Edition-50123882135891.webp?v=1792150882
     Price: $151.93 USD
 - [Blue Warrior Haiku Drift Three Forms CE-05 Action Figure - 17CM - With](https://toylandeu.com/products/transformable-blue-warrior-haiku-drift-ce-05-action-figure-17cm): Unleash the Blue Warrior Haiku Drift Three Forms CE-05 Action Figure! Experience the ultimate  - ToylandEU
-  Updated: 2026-10-18T03:43:25Z
+  Updated: 2026-10-28T23:25:09Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1207,7 +1207,7 @@
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Blue-Warrior-Haiku-Drift-Three-Forms-CE-05-Action-Figure-17CM-With-50123882791251.webp?v=1792150882
     Price: $156.96 USD
 - [Adaptable Wasp Warrior Toy Robot - 1/12 Scale Model - ToylandEU](https://toylandeu.com/products/versatile-wasp-warrior-robot-model-1-12-scale-collectible-toy): Unleash the Power of the Adaptable Wasp Warrior Toy Robot Scale Model: Experience the intricate  - ToylandEU
-  Updated: 2026-10-18T03:43:30Z
+  Updated: 2026-10-28T23:25:10Z
   Vendor: ToylandEU
   Product Type: Action Figures
   Availability: Available
@@ -1220,109 +1220,81 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Versatile-Wasp-Warrior-Robot-Model-1-12-Scale-Collectible-Toy-ToylandEU-50123886690643.webp?v=1750920483
     Price: $111.74 USD
-- [Adaptable Weijiang Glaive Bumblebee MPM03 16cm Movie Model Action](https://toylandeu.com/products/adaptable-weijiang-bumblebee-mpm03-action-figure-collectible-model): Unleash the Power of adaptable with the Adaptable Weijiang Glaive Bumblebee MPM03 Action Figure!  - ToylandEU
-  Updated: 2026-10-18T03:43:30Z
-  Vendor: ToylandEU
-  Product Type: Action Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Adaptable-Weijiang-Glaive-Bumblebee-MPM03-16cm-Movie-Model-Action-50123885838675.webp?v=1792150882
-  - [M03 with box](https://toylandeu.com/products/adaptable-weijiang-bumblebee-mpm03-action-figure-collectible-model?variant=49041340301651)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Adaptable-Weijiang-Glaive-Bumblebee-MPM03-16cm-Movie-Model-Action-50123885936979.webp?v=1792150881
-    Price: $111.34 USD
-  - [M03 no box](https://toylandeu.com/products/adaptable-weijiang-bumblebee-mpm03-action-figure-collectible-model?variant=49041340399955)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Adaptable-Weijiang-Glaive-Bumblebee-MPM03-16cm-Movie-Model-Action-50123885904211.webp?v=1792150881
-    Price: $109.45 USD
-- [Black Mamba Bee Extra Large 28cm Movie Alloy Action Figure Robot Toy -](https://toylandeu.com/products/black-mamba-bee-28cm-alloy-robot-action-figure-ultimate-collectors-item): Unleash the Power of Black Mamba Bee Extra Large 28cm Movie Alloy Action Figure Robot Toy  - ToylandEU
-  Updated: 2026-10-18T03:43:30Z
-  Vendor: ToylandEU
-  Product Type: Action Figures
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Black-Mamba-Bee-Extra-Large-28cm-Movie-Alloy-Action-Figure-Robot-Toy-50123887182163.webp?v=1792150888
-  - [no Box / Nearest Warehouse To Customer](https://toylandeu.com/products/black-mamba-bee-28cm-alloy-robot-action-figure-ultimate-collectors-item?variant=49041340596563)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Black-Mamba-Bee-Extra-Large-28cm-Movie-Alloy-Action-Figure-Robot-Toy-50123887214931.webp?v=1792150887
-    Price: $144.03 USD
-  - [Original Box / Nearest Warehouse To Customer](https://toylandeu.com/products/black-mamba-bee-28cm-alloy-robot-action-figure-ultimate-collectors-item?variant=49041340662099)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0757/9693/9091/files/Black-Mamba-Bee-Extra-Large-28cm-Movie-Alloy-Action-Figure-Robot-Toy-50123887346003.webp?v=1792150887
-    Price: $147.30 USD
-[List Continued](https://toylandeu.com/a/llms-agent/llms.txt?shop=5b3581-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzMzMDY4ODkwNDUxLCJsYXN0X3ZhbHVlIjoiOTMzMzA2ODg5MDQ1MSJ9)
+[List Continued](https://toylandeu.com/a/llms-agent/llms.txt?shop=5b3581-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MzMzMDY4ODI0OTE1LCJsYXN0X3ZhbHVlIjoiOTMzMzA2ODgyNDkxNSJ9)
 
 ## Collections
 
 - [Water Toys | Water , Slides & Bubble Makers](https://toylandeu.com/collections/summer-water-toys): Water , slip n slides, bubble machines & more. Everything for backyard splash days. Free shipping!
-  Updated: 2026-10-21T15:27:32Z
+  Updated: 2026-10-27T02:15:06Z
   Total Products: 615
 - [Toy Cars & Trucks](https://toylandeu.com/collections/cars-trucks): Race cars, monster trucks & everyday rides built for real play. Durable, fun & ready for adventure.
-  Updated: 2026-10-21T14:25:13Z
-  Total Products: 902
+  Updated: 2026-10-28T21:14:21Z
+  Total Products: 900
 - [Dolls](https://toylandeu.com/collections/dolls): Realistic and classic dolls in every skin tone, size & style. Play that reflects every child. Shop now!
-  Updated: 2026-10-21T23:12:41Z
-  Total Products: 1561
+  Updated: 2026-10-28T13:01:46Z
+  Total Products: 1556
 - [Educational Toys](https://toylandeu.com/collections/educational): Montessori sets, sensory boards & skill-building toys. Learning made fun for toddlers & kids. Shop now!
-  Updated: 2026-10-20T13:24:52Z
-  Total Products: 241
+  Updated: 2026-10-28T13:01:28Z
+  Total Products: 239
 - [Best  Products](https://toylandeu.com/collections/best--products): Discover our Best  Products collection, featuring the hottest items that everyone is raving about!  Toyland EU - Free Shipping Worldwide.
-  Updated: 2026-10-21T23:51:14Z
-  Total Products: 63876
+  Updated: 2026-10-29T00:30:52Z
+  Total Products: 63609
 - [Newest Products](https://toylandeu.com/collections/newest-products): Newest Products Discover our Newest Products, where excitement meets innovation! This exclusive collection features the latest toys and more.
-  Updated: 2026-10-21T23:51:14Z
-  Total Products: 63883
+  Updated: 2026-10-29T00:30:52Z
+  Total Products: 63616
 - [Wooden Toys](https://toylandeu.com/collections/wooden-toys): Sustainable wooden toys, blocks & puzzles built for imaginative, screen-free play. Shop now!
-  Updated: 2026-10-21T23:25:16Z
-  Total Products: 841
+  Updated: 2026-10-28T19:01:42Z
+  Total Products: 828
 - [Toy Planes](https://toylandeu.com/collections/planes): RC planes, gliders & classic model aircraft for young pilots. Shop the skies today!
-  Updated: 2026-10-20T22:16:18Z
+  Updated: 2026-10-28T08:09:55Z
   Total Products: 251
 - [Kids Play Kitchen Toys](https://toylandeu.com/collections/kitchen): Play kitchens, pretend food & cooking sets for imaginative role play. Shop now!
-  Updated: 2026-10-20T17:57:52Z
-  Total Products: 127
+  Updated: 2026-10-28T17:15:30Z
+  Total Products: 132
 - [Bath Toys](https://toylandeu.com/collections/bath-toys): Fun, safe bath toys that turn bathtime into playtime. Shop now!
-  Updated: 2026-10-20T20:08:38Z
+  Updated: 2026-10-24T11:11:58Z
   Total Products: 106
 - [Construction Toys | Building Sets & RC Construction Vehicles](https://toylandeu.com/collections/construction): Shop construction toys — hands-on building sets and RC construction vehicles like excavators & cranes. Educational, engaging play. Shop now!
-  Updated: 2026-10-20T22:16:11Z
-  Total Products: 372
+  Updated: 2026-10-27T17:32:17Z
+  Total Products: 371
 - [Farm Toys](https://toylandeu.com/collections/farming): Tractors, farm animals & barnyard playsets for hours of farm-life fun. Shop now!
-  Updated: 2026-10-21T03:07:42Z
-  Total Products: 167
+  Updated: 2026-10-27T09:37:50Z
+  Total Products: 168
 - [Toddler & Preschool Toys | Early Learning & Development](https://toylandeu.com/collections/toddler-toys): Shop toddler and preschool toys — safe, non-toxic toys that build early learning skills through hands-on, sensory play. Shop now!
-  Updated: 2026-10-20T13:24:52Z
-  Total Products: 241
+  Updated: 2026-10-28T13:01:28Z
+  Total Products: 239
 - [Teddy Bears](https://toylandeu.com/collections/teddy-bears): Classic teddy bears in every size, ready for a lifetime of hugs. Shop now!
-  Updated: 2026-10-20T01:09:01Z
-  Total Products: 128
+  Updated: 2026-10-22T12:46:02Z
+  Total Products: 124
 - [Plush Toys](https://toylandeu.com/collections/plush-toys): Soft, huggable plushies and stuffed animals for kids of all ages. Shop now!
-  Updated: 2026-10-21T23:51:14Z
-  Total Products: 1905
+  Updated: 2026-10-28T23:36:45Z
+  Total Products: 1924
 - [Kids Musical Instruments](https://toylandeu.com/collections/musical-instruments): Guitars, keyboards, drums & xylophones for little musicians. Shop now!
-  Updated: 2026-10-20T01:08:15Z
-  Total Products: 179
+  Updated: 2026-10-28T13:01:28Z
+  Total Products: 177
 - [Puzzles](https://toylandeu.com/collections/puzzles): Jigsaw, 3D & wooden puzzles for all ages. Screen-free fun, shop now!
-  Updated: 2026-10-21T19:03:52Z
+  Updated: 2026-10-28T23:36:45Z
   Total Products: 799
 - [Board Games & Card Games](https://toylandeu.com/collections/games): Board games, card games & party games for the whole family. Shop now!
-  Updated: 2026-10-21T22:24:33Z
-  Total Products: 1079
+  Updated: 2026-10-28T23:29:13Z
+  Total Products: 1097
 - [STEM Toys](https://toylandeu.com/collections/experiments-science): Science kits, coding robots & engineering sets that make learning fun. Shop now!
-  Updated: 2026-10-20T23:06:54Z
-  Total Products: 700
+  Updated: 2026-10-29T00:02:14Z
+  Total Products: 714
 - [Art & Writing Supplies](https://toylandeu.com/collections/writing-tools): Markers, sketchbooks & craft kits for young creators. Shop now!
-  Updated: 2026-10-21T22:45:26Z
-  Total Products: 820
+  Updated: 2026-10-28T21:42:52Z
+  Total Products: 818
 - [Craft Kits](https://toylandeu.com/collections/crafts): DIY craft kits, jewellery making & clay sets for creative hands-on fun. Shop now!
-  Updated: 2026-10-16T07:32:44Z
+  Updated: 2026-10-24T11:14:15Z
   Total Products: 12
 - [Baby Toys](https://toylandeu.com/collections/baby-toys): Safe sensory toys, rattles & teethers for newborns and infants. Shop now!
-  Updated: 2026-10-21T23:15:24Z
-  Total Products: 3182
+  Updated: 2026-10-28T13:47:54Z
+  Total Products: 3179
 - [Kids Wall Decor](https://toylandeu.com/collections/wall-design): Wall stickers, decals & posters for nurseries and playrooms. Shop now!
   Updated: 2026-10-17T13:00:54Z
   Total Products: 60
 - [Sports Training Gear](https://toylandeu.com/collections/sports-training): Agility ladders, cones & fitness gear to train smarter and play harder. Shop now!
-  Updated: 2026-10-21T08:16:59Z
+  Updated: 2026-10-25T18:18:45Z
   Total Products: 400
 - [NEW](https://toylandeu.com/collections/new): Shop the latest new toys, games & collectibles at Toyland EU. Fresh arrivals updated regularly across all categories. See what's new!
   Updated: 2026-08-20T10:47:55Z
@@ -1331,55 +1303,55 @@
   Updated: 2026-08-20T10:47:55Z
   Total Products: 5
 - [Stickers](https://toylandeu.com/collections/stickers): Sticker books, reward stickers & holographic sets for kids. Shop now!
-  Updated: 2026-10-17T14:45:00Z
+  Updated: 2026-10-24T11:13:39Z
   Total Products: 100
 - [Kids Boots](https://toylandeu.com/collections/boots): Wellies, snow boots & waterproof styles built for every kind of weather. Shop now!
-  Updated: 2026-10-20T22:03:49Z
+  Updated: 2026-10-23T13:17:16Z
   Total Products: 352
 - [Kids Sandals](https://toylandeu.com/collections/sandals): Lightweight velcro sandals & flip flops for warm-weather fun. Shop now!
   Updated: 2026-10-21T22:07:27Z
   Total Products: 81
 - [Kids Footwear](https://toylandeu.com/collections/all-footwear): Trainers, school shoes, boots & sandals for every season. Shop now!
-  Updated: 2026-10-21T22:07:27Z
+  Updated: 2026-10-24T11:13:32Z
   Total Products: 429
 - [Kids Art Supplies](https://toylandeu.com/collections/art): Paint sets, drawing kits & colouring supplies for young artists. Shop now!
-  Updated: 2026-10-20T02:04:26Z
+  Updated: 2026-10-24T11:14:59Z
   Total Products: 141
 - [RC Toys](https://toylandeu.com/collections/rc-toys-remote-control-toys-hand-controlled): RC cars, drones & trucks for thrilling remote control fun. Shop now!
-  Updated: 2026-10-21T11:16:04Z
+  Updated: 2026-10-28T23:35:54Z
   Total Products: 1148
 - [Toy Trains](https://toylandeu.com/collections/trains): Wooden and electric train sets for toddlers, kids & collectors. Shop now!
-  Updated: 2026-10-21T17:19:51Z
+  Updated: 2026-10-28T15:07:01Z
   Total Products: 215
 - [Robot Toys](https://toylandeu.com/collections/robots): Programmable and coding robots that teach tech through play. Shop now!
-  Updated: 2026-10-21T20:28:23Z
-  Total Products: 582
+  Updated: 2026-10-28T23:36:46Z
+  Total Products: 584
 - [Kids Coats & Jackets](https://toylandeu.com/collections/coats-jackets): Winter coats, rain jackets & fleeces built to keep kids warm and dry. Shop now!
-  Updated: 2026-10-20T11:14:42Z
+  Updated: 2026-10-28T11:09:30Z
   Total Products: 131
 - [Buy 1 Get 1 Free Toyland EU Toy Gift Cards](https://toylandeu.com/collections/gift-card-black-friday-best-black-friday-toy-): Looking for the best Black Friday toy deals? Don't miss out on our gift certificate offer! Buy 1 Get 1 Free on all Toyland Toy Gift Cards.
-  Updated: 2026-10-19T22:46:22Z
+  Updated: 2026-10-28T00:00:11Z
   Total Products: 1
 - [Kites](https://toylandeu.com/collections/kites): Stunt kites, delta kites & novelty flyers for park & beach days. Shop now!
-  Updated: 2026-10-20T00:59:44Z
+  Updated: 2026-10-24T09:50:26Z
   Total Products: 180
 - [Puppets](https://toylandeu.com/collections/puppets): Hand puppets, finger puppets & marionettes for creative storytelling. Shop now!
-  Updated: 2026-10-20T00:34:08Z
-  Total Products: 93
+  Updated: 2026-10-27T10:02:05Z
+  Total Products: 94
 - [Kids Backpacks](https://toylandeu.com/collections/backpacks-rucksacks): Durable backpacks & character bags for school and everyday adventures. Shop now!
-  Updated: 2026-10-21T18:33:38Z
-  Total Products: 482
+  Updated: 2026-10-28T07:58:16Z
+  Total Products: 478
 - [Action Figures](https://toylandeu.com/collections/converter-figures-robot-toys-for-kids): Superhero, anime & movie action figures for kids and collectors alike. Shop now!
-  Updated: 2026-10-21T22:18:34Z
-  Total Products: 2341
+  Updated: 2026-10-28T21:33:09Z
+  Total Products: 2245
 - [Costumes & Cosplay | Halloween, KPop Demon Hunters & More](https://toylandeu.com/collections/creative-halloween-costumes): Shop costumes for every occasion — Halloween, cosplay & KPop Demon Hunters costumes (Rumi, Zoey, Mira) for kids and fans. Shop now!
-  Updated: 2026-10-21T18:29:42Z
-  Total Products: 2179
+  Updated: 2026-10-28T13:01:41Z
+  Total Products: 2175
 - [Personalized Sports Gear](https://toylandeu.com/collections/personalized-kids-sports-gear): Custom name & number jerseys for kids and adults. The perfect sports gift. Shop now!
   Updated: 2026-10-17T14:33:59Z
   Total Products: 172
 - [TT Shop](https://toylandeu.com/collections/usa-tiktok-shipping): Shop trending toys, plush, and collectibles from ToylandEU™'s TT Shop collection, curated for fast USA shipping.
-  Updated: 2026-10-17T12:45:27Z
+  Updated: 2026-10-28T11:14:37Z
   Total Products: 1054
 - [Cross Stitch Kits](https://toylandeu.com/collections/cross-stitch): Cross stitch kits & embroidery sets for beginners and pros alike. Shop now!
   Updated: 2026-10-04T23:12:03Z
@@ -1391,80 +1363,80 @@
   Updated: 2026-08-20T10:47:56Z
   Total Products: 4
 - [Building Block Sets | Compatible Bricks & MOC Kits](https://toylandeu.com/collections/moc-blocks-bricks): Shop building block sets and compatible brick kits — MOC builds, Technic-style sets & more. A great alternative for builders of all ages. Shop now!
-  Updated: 2026-10-21T06:53:22Z
-  Total Products: 914
+  Updated: 2026-10-28T13:18:23Z
+  Total Products: 915
 - [title parking descrip](https://toylandeu.com/collections/title-parking-descrip)
   Updated: 2026-01-18T12:40:55Z
   Total Products: 0
 - [Inflatables](https://toylandeu.com/collections/inflatables-summer-toys): Pool floats, bouncy castles & water slides for backyard summer fun. Shop now!
-  Updated: 2026-10-21T12:42:33Z
-  Total Products: 849
+  Updated: 2026-10-27T08:26:20Z
+  Total Products: 859
 - [USA Tariff-Free Toys](https://toylandeu.com/collections/usa-domestic-shipping): Toys shipped to the USA with no import duties or hidden fees. Shop now!
-  Updated: 2026-10-21T11:25:46Z
+  Updated: 2026-10-28T11:27:48Z
   Total Products: 24593
 - [Phonics & Math Toys](https://toylandeu.com/collections/language-math): Alphabet puzzles, math games & phonics toys for early learners. Shop now!
-  Updated: 2026-10-21T19:12:42Z
-  Total Products: 753
+  Updated: 2026-10-28T23:36:45Z
+  Total Products: 752
 - [Montessori Toys](https://toylandeu.com/collections/montessori): Wooden, sensory & practical-life toys for child-led learning. Shop now!
-  Updated: 2026-10-20T13:24:52Z
-  Total Products: 241
+  Updated: 2026-10-28T13:01:28Z
+  Total Products: 239
 - [Labubu Gear](https://toylandeu.com/collections/labubu-style-clothes-accessories): Labubu figures, plush toys & blind boxes for collectors and fans. Shop now!
-  Updated: 2026-10-17T14:55:05Z
+  Updated: 2026-10-24T11:14:02Z
   Total Products: 175
 - [Officially Licensed Team Fan Gear | NFL, NBA, MLB, NHL, MLS & NCAA](https://toylandeu.com/collections/nfl-nba-mlb-nhl-mls-ncaa): Shop officially licensed NFL, NBA, MLB, NHL, MLS & NCAA team fan gear — license plate frames, mugs, flags, apparel & more. Free worldwide shipping. Shop now!
-  Updated: 2026-10-17T11:19:09Z
+  Updated: 2026-10-26T11:18:50Z
   Total Products: 20041
 - [APPPlaza - Best Sellers](https://toylandeu.com/collections/appplaza-best-sellers): Browse ToylandEU™'s best- toys, collectibles, and children's products across every category - customer favorites loved worldwide.
-  Updated: 2026-10-21T23:51:14Z
-  Total Products: 63889
+  Updated: 2026-10-29T00:30:52Z
+  Total Products: 63622
 - [Winter Gear](https://toylandeu.com/collections/winter): Thermal hats, gloves & scarves to keep kids warm all winter. Shop now!
-  Updated: 2026-10-18T08:38:56Z
+  Updated: 2026-10-28T11:09:30Z
   Total Products: 356
 - [Reborn Baby Dolls | Lifelike Realistic Newborn Dolls](https://toylandeu.com/collections/reborn-dolls): Shop lifelike reborn baby dolls — realistic newborn dolls in silicone & cloth-body styles. Handcrafted detail, perfect for collectors & gifts. Shop now!
-  Updated: 2026-10-20T00:59:28Z
+  Updated: 2026-10-25T09:51:37Z
   Total Products: 309
 - [Die-Cast Toy Vehicles | Cars, Trucks & Collectible Models](https://toylandeu.com/collections/die-cast-toys): Shop die-cast toy vehicles — cars, trucks & collectible models for kids and collectors. Unique gifts built to last. Shop now!
-  Updated: 2026-10-21T20:29:12Z
-  Total Products: 3753
+  Updated: 2026-10-28T22:42:12Z
+  Total Products: 3854
 - [new descrip](https://toylandeu.com/collections/new-descrip)
-  Updated: 2026-10-20T15:55:56Z
+  Updated: 2026-10-24T11:13:24Z
   Total Products: 63
 - [LEGO® Official Collectibles](https://toylandeu.com/collections/lego®-official-collectibles): Official LEGO Icons, Art & Technic sets for  builders and collectors. Shop now!
   Updated: 2026-10-04T23:13:38Z
   Total Products: 180
 - [Funko Pop Figures](https://toylandeu.com/collections/funko): Funko Pop vinyl figures from movies, TV, gaming & anime. Shop now!
-  Updated: 2026-10-21T21:15:05Z
-  Total Products: 1547
+  Updated: 2026-10-28T13:01:18Z
+  Total Products: 1542
 - [bulk edit 1](https://toylandeu.com/collections/bulk-edit-1): dsfadsaf
   Updated: 2026-10-17T13:25:13Z
   Total Products: 76
 - [Minifigures](https://toylandeu.com/collections/minifigs-1): Rare & popular minifigs for builders, kids and collectors. Shop now!
-  Updated: 2026-10-21T23:50:15Z
-  Total Products: 4194
+  Updated: 2026-10-29T00:18:33Z
+  Total Products: 4138
 - [DIY Kits](https://toylandeu.com/collections/kits): Weaving, painting & sand art kits for fun, creative play. Shop now!
-  Updated: 2026-10-20T15:55:52Z
-  Total Products: 35
+  Updated: 2026-10-28T13:01:36Z
+  Total Products: 32
 - [Custom Bobbleheads](https://toylandeu.com/collections/custom-bobble-heads): Personalised bobblehead figures for birthdays, weddings & unique gifts. Shop now!
   Updated: 2026-08-24T10:38:23Z
   Total Products: 5
 - [collective](https://toylandeu.com/collections/collective)
-  Updated: 2026-10-21T23:51:14Z
-  Total Products: 23463
+  Updated: 2026-10-29T00:30:52Z
+  Total Products: 23214
 - [Calming & Sensory Toys | Fidget Spinners & Sensory Tools](https://toylandeu.com/collections/calming-sensory-toys-fidget-spinners-stress-relief): Shop calming and sensory toys including fidget spinners, sensory boards, and ADHD-friendly fidget toys. Support focus and comfort. Shop now!
-  Updated: 2026-10-21T19:12:42Z
-  Total Products: 535
+  Updated: 2026-10-28T23:36:43Z
+  Total Products: 549
 - [Best Sellers](https://toylandeu.com/collections/best-sellers): Our top 25 most-loved toys, updated daily. See what's trending now. Shop now!
-  Updated: 2026-10-22T00:01:12Z
-  Total Products: 24
+  Updated: 2026-10-29T01:01:06Z
+  Total Products: 25
 - [Kids Shoes](https://toylandeu.com/collections/shoes): Sneakers, school shoes & sandals for boys, girls and toddlers. Shop now!
-  Updated: 2026-10-21T08:15:56Z
-  Total Products: 225
+  Updated: 2026-10-24T11:30:44Z
+  Total Products: 224
 - [Coloring & Activity Books](https://toylandeu.com/collections/coloring-activity-books): A collection of coloring books, color-by-number books, and drawing/activity books for kids, teens, and adults looking for a relaxing, screen-free creative outlet.
-  Updated: 2026-10-20T00:53:12Z
-  Total Products: 37
+  Updated: 2026-10-27T08:38:34Z
+  Total Products: 43
 - [Toy Blasters, Archery & Gel  | Foam Darts, Airsoft & Bows](https://toylandeu.com/collections/toy-blasters-gel--foam-darts-airsoft-slingshots): Foam dart blasters, gel ball blasters, airsoft pistols and rifles, and slingshots for outdoor target practice and backyard battle games.
-  Updated: 2026-10-21T08:16:59Z
-  Total Products: 652
+  Updated: 2026-10-28T11:14:37Z
+  Total Products: 645
 
 ## Blogs
 
@@ -2627,6 +2599,34 @@
     Updated: 2026-10-21T01:01:06Z
     Author: T. Holland 
     Tags: en, rc car tire types
+  - [Toy Preorders Explained: How They Work and Your Rights](https://toylandeu.com/blogs/articles/toy-preorders-explained): How toy preorders work in the US: when you're charged, why release dates slip, what the FTC 30-day rule means for you, and when to skip a preorder.
+    Updated: 2026-10-22T01:00:50Z
+    Author: T. Holland 
+    Tags: en, toy preorders explained
+  - [Kids Cosplay Safety: A Parent's Checklist for 2026](https://toylandeu.com/blogs/articles/kids-cosplay-safety): Kids cosplay safety, step by step: fit, fire resistance, masks, makeup, contact lenses, batteries and props, with a checklist to run before the costume goes on.
+    Updated: 2026-10-23T01:02:29Z
+    Author: T. Holland 
+    Tags: en, kids cosplay safety
+  - [Plush vs Vinyl Toys: Which Is Right for Your Child or Shelf?](https://toylandeu.com/blogs/articles/plush-vs-vinyl-toys): Plush vs vinyl toys compared on safety, durability, cleaning, age fit and collector value, so you can pick the right one for a kid or a display shelf.
+    Updated: 2026-10-24T01:00:32Z
+    Author: T. Holland 
+    Tags: en, plush vs vinyl toys
+  - [Abacus vs Ten Frame: Which Tool Fits Your Child?](https://toylandeu.com/blogs/articles/abacus-vs-ten-frame): Abacus or ten frame? See what each tool teaches, which ages suit it, what the research says, and how to choose for home or classroom.
+    Updated: 2026-10-25T01:00:50Z
+    Author: T. Holland 
+    Tags: abacus vs ten frame, en
+  - [Kite Line Types: Materials, Strengths and What to Use](https://toylandeu.com/blogs/articles/kite-line-types): Compare kite line types by material, strength and line count, from braided polyester to Spectra, and pick the right line for your kite and your wind.
+    Updated: 2026-10-26T01:01:10Z
+    Author: T. Holland 
+    Tags: en, kite line types
+  - [Puppets for Language: Activities That Get Kids Talking](https://toylandeu.com/blogs/articles/puppets-for-language): How puppets build vocabulary, conversation and storytelling skills, with age-by-age activities, puppet types, and when to talk to your pediatrician.
+    Updated: 2026-10-27T01:01:33Z
+    Author: T. Holland 
+    Tags: en, puppets for language
+  - [Gift Customs Limit for the USA: The $100 Rule Explained](https://toylandeu.com/blogs/articles/gift-customs-limit-usa): What is the US customs limit on gifts? Learn the $100 gift exemption, the $800 traveler allowance, what makes a package dutiable and how to avoid surprise fees.
+    Updated: 2026-10-28T01:00:24Z
+    Author: T. Holland 
+    Tags: en, gift customs limit usa
 
 ## Store Pages
 
