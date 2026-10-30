@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-08-15T20:35:15Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:46:29.199Z
+- Updated At: 2026-10-30T01:23:53.789Z
 
 ## Products
 
@@ -180,7 +180,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/products/HOTHATFINAL.png?v=1662745884
   Price: $25.00 USD
 - [Black Have It All Sweatpants](https://taylortomlinsonstore.merchmadeeasy.com/products/black-have-it-all-sweatpants): Only available online! 50% cotton / 50% polyester sweatpants in black Size Chart Size Hip (in) Inseam (in) Waist Relaxed (in) Waist Extended (in) S 21 29 13 18 M 22 29 1/2 14 19 L 23 30 15 20 XL 24 30 1/2 16 21 2XL 26 31 18 23
-  Updated: 2026-10-22T12:56:43Z
+  Updated: 2026-10-24T23:36:52Z
   Vendor: Taylor Tomlinson Store
   Product Type: Sweatpants
   Availability: Available
@@ -208,7 +208,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/files/TTOMColorCards.png?v=1693511767
   Price: $10.00 USD
 - [Have It All Makeup Bag](https://taylortomlinsonstore.merchmadeeasy.com/products/have-it-all-makeup-bag): 12oz cotton cosmetic bag in black
-  Updated: 2026-10-21T17:08:07Z
+  Updated: 2026-10-26T16:21:36Z
   Vendor: Taylor Tomlinson Store
   Product Type: Bag
   Availability: Available
@@ -221,30 +221,6 @@ your agent can transact everywhere.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/files/TTOMWhiteTumbler.png?v=1693535021
   Price: $15.00 USD
-- [Bi Pride Tee](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee): 100% combed ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-05T13:02:41Z
-  Vendor: Taylor Tomlinson Store
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/files/TTOMBiVisTeeFront.png?v=1726264452
-  - [S](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659826741)
-    Availability: Available
-    Price: $40.00 USD
-  - [M](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659859509)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [L](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659892277)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [XL](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659925045)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [2XL](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659957813)
-    Availability: Not Available
-    Price: $40.00 USD
-  - [3XL](https://taylortomlinsonstore.merchmadeeasy.com/products/bi-pride-tee?variant=43964659990581)
-    Availability: Not Available
-    Price: $40.00 USD
 - [Save Me Tour Tee](https://taylortomlinsonstore.merchmadeeasy.com/products/save-me-tour-tee): 100% combed ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
   Updated: 2026-10-21T20:59:36Z
   Vendor: Taylor Tomlinson Store
@@ -301,14 +277,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/files/TTOMBiPrideTote.png?v=1727470116
   Price: $21.00 USD
 - [Save Me Hat](https://taylortomlinsonstore.merchmadeeasy.com/products/save-me-hat): 100% cotton dad hat in black
-  Updated: 2026-10-22T13:29:27Z
+  Updated: 2026-10-24T23:36:52Z
   Vendor: Taylor Tomlinson Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0593/6172/2421/files/TTOMSMHatFront.png?v=1727470649
   Price: $24.50 USD
 - [Save Me Sticker Pack](https://taylortomlinsonstore.merchmadeeasy.com/products/save-me-sticker-pack): Die cut sticker pack, each sticker measures approximately 3.25" wide
-  Updated: 2026-10-16T17:43:34Z
+  Updated: 2026-10-25T22:57:35Z
   Vendor: Taylor Tomlinson Store
   Product Type: Sticker
   Availability: Available
@@ -363,7 +339,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Save Me Embroidered Baby Tee](https://taylortomlinsonstore.merchmadeeasy.com/products/save-me-embroidered-baby-tee): 100% cotton micro-rib baby tee in black. Made in Los Angeles. Shrinks 7% in wash and stretches up to 2x its original size. Size Chart Size Body Length (in) Chest Width (in) S 17 7/8 13 1/2 M 18 3/8 14 1/2 L 18 7/8 15 1/2 XL 19 3/8 16 1/2 2XL 19 7/8 17 1/2
-  Updated: 2026-10-16T17:43:34Z
+  Updated: 2026-10-24T08:08:25Z
   Vendor: Taylor Tomlinson Store
   Product Type: T-Shirt
   Availability: Available
@@ -387,22 +363,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [Apparel](https://taylortomlinsonstore.merchmadeeasy.com/collections/aparrel)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-25T11:16:13Z
   Total Products: 18
 - [Accessories](https://taylortomlinsonstore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 18
 - [All](https://taylortomlinsonstore.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:17:44Z
-  Total Products: 22
+  Updated: 2026-10-26T11:14:17Z
+  Total Products: 21
 - [](https://taylortomlinsonstore.merchmadeeasy.com/collections/)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 26
 - [ with It Tour Collection - Up to 75% Off!](https://taylortomlinsonstore.merchmadeeasy.com/collections/-with-it-tour)
   Updated: 2025-10-14T21:40:30Z
   Total Products: 10
 - [Have It All - 2022](https://taylortomlinsonstore.merchmadeeasy.com/collections/the-have-it-all-tour)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-23T11:19:55Z
   Total Products: 9
 - [Candles](https://taylortomlinsonstore.merchmadeeasy.com/collections/candles): Taylor Tomlinson Candles. Changed My Whole Life Candle and Nostalgically Horny Boxed Candle.
   Updated: 2026-04-14T21:02:51Z
@@ -411,40 +387,40 @@ your agent can transact everywhere.
   Updated: 2026-06-02T02:48:29Z
   Total Products: 6
 - [Have It All - 2023](https://taylortomlinsonstore.merchmadeeasy.com/collections/have-it-all-2023)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-25T11:16:13Z
   Total Products: 7
 - [Have It All](https://taylortomlinsonstore.merchmadeeasy.com/collections/have-it-all)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-25T11:16:13Z
   Total Products: 13
 - [Vintage Collection](https://taylortomlinsonstore.merchmadeeasy.com/collections/vintage-collection)
   Updated: 2026-06-02T04:49:09Z
   Total Products: 1
 - [Save Me Tour](https://taylortomlinsonstore.merchmadeeasy.com/collections/save-me-tour)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 10
 - [EasyGift All Products](https://taylortomlinsonstore.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 37
 - [Hats](https://taylortomlinsonstore.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-25T11:16:13Z
   Total Products: 4
 - [$10](https://taylortomlinsonstore.merchmadeeasy.com/collections/10)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 9
 - [$20](https://taylortomlinsonstore.merchmadeeasy.com/collections/20)
   Updated: 2026-04-14T21:02:51Z
   Total Products: 0
 - [$30](https://taylortomlinsonstore.merchmadeeasy.com/collections/30)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-25T11:16:13Z
   Total Products: 7
 - [Best Sellers](https://taylortomlinsonstore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 37
 - [New Arrivals](https://taylortomlinsonstore.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-22T11:17:44Z
+  Updated: 2026-10-26T11:14:17Z
   Total Products: 37
 - [$10 Tees & $30 Crewnecks](https://taylortomlinsonstore.merchmadeeasy.com/collections/10-tees-30-crewnecks)
-  Updated: 2026-10-20T14:35:46Z
+  Updated: 2026-10-23T11:19:55Z
   Total Products: 3
 
 ## Store Pages
