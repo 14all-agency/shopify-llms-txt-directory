@@ -10,7 +10,7 @@
 - Contact Email: shop@iqguernsey.com
 - Contact Phone: +44 1481 712111
 - Address: 50 High St Guernsey GY1 2JU
-- Updated At: 2026-10-23T00:33:50.849Z
+- Updated At: 2026-10-30T00:50:12.249Z
 
 ## What We 
 
@@ -54,13 +54,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14854459.jpg?v=1742659031
   Price: £183.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myhd3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:59:40Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317177.jpg?v=1742659015
-  Price: £875.00 GBP
 - [EarPods (USB-C)](https://iqguernsey.com/products/earpods-usb-c-myqy3zm-a): Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.
   Updated: 2026-10-07T11:35:47Z
   Vendor: Apple
@@ -75,34 +68,20 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192253.jpg?v=1745834359
   Price: £1,666.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpt3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:57:32Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317221.jpg?v=1742659001
-  Price: £708.00 GBP
 - [iPad mini Wi-Fi 512GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myh23nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:58:03Z
+  Updated: 2026-10-26T19:04:52Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317244.jpg?v=1742658997
   Price: £750.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Plum](https://iqguernsey.com/products/iphone-16-silicone-case-with-magsafe-myy43zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-10-14T10:33:58Z
+  Updated: 2026-10-27T12:49:51Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666245.png?v=1745833565
   Price: £41.00 GBP
-- [iPad mini Wi-Fi 256GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxne3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:56:30Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317200.jpg?v=1742658990
-  Price: £583.00 GBP
 - [10.9-inch iPad Wi-Fi + Cellular 64GB - Silver (10th generation)](https://iqguernsey.com/products/2022-10-9-inch-ipad-10th-generation-mcmj4nf-a): Colourfully reimagined and more versatile than ever. With an all-screen design,10.9-inch Liquid Retina display and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done, all for an even more affordable price.
   Updated: 2026-05-14T08:39:12Z
   Vendor: Apple
@@ -152,13 +131,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666852.png?v=1742658941
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpy3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:55:55Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317199.jpg?v=1742658938
-  Price: £708.00 GBP
 - [11-inch iPad Air Wi-Fi 1TB - Purple (M2)](https://iqguernsey.com/products/11-inch-ipad-air-m2-muwu3nf-a): iPad Air. Built for Apple Intelligence. Supercharged by the incredibly fast Apple M2 chip. It features a stunning 11‑inch Liquid Retina display, a landscape camera perfect for FaceTime and video calls, and superfast Wi‑Fi 6E. And it works with Apple Pencil Pro and Magic Keyboard, so you can multitask, study, work, play and create from anywhere.
   Updated: 2026-10-16T01:29:45Z
   Vendor: Apple
@@ -187,13 +159,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526748.png?v=1742658915
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 128GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpr3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:53:54Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317199_07026c3d-e7c6-4060-a7b2-62faacd688dc.jpg?v=1742658912
-  Price: £625.00 GBP
 - [11-inch iPad Pro Wi-Fi + Cellular 1TB Standard Glass - Silver (M4)](https://iqguernsey.com/products/11-inch-ipad-pro-m4-mvw63nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display, and superfast Wi-Fi 6E and 5G. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-14T23:26:34Z
   Vendor: Apple
@@ -215,13 +180,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10892874.jpg?v=1745833402
   Price: £916.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myhf3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:51:52Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317199_6613000b-34b7-4e48-81b8-871ba009389a.jpg?v=1742658369
-  Price: £875.00 GBP
 - [40mm Black/Blue Nike Sport Loop](https://iqguernsey.com/products/2024-apple-watch-nike-sport-loop-mc1l4zm-a): The Nike Sport Loop has been redesigned to use excess yarn from previous seasons to create a soft, breathable and lightweight strap with a bold pattern. The hook-and-loop fastener and a woven pull tab featuring the Nike Swoosh makes it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. The Nike Sport Loop contains at least 68% excess yarn from previous seasons, saving over three tonnes of primary yarn.
   Updated: 2025-09-17T18:09:58Z
   Vendor: Apple
@@ -292,20 +250,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526618.png?v=1742658341
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpw3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:53:02Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317177_dcbce7eb-8878-4436-b780-49a221fbd120.jpg?v=1742658339
-  Price: £708.00 GBP
-- [iPad mini Wi-Fi + Cellular 128GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpp3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:54:50Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317177_6cec04b1-bb5a-43d4-8615-61a9ea17b372.jpg?v=1742658335
-  Price: £625.00 GBP
 - [13-inch iPad Pro Wi-Fi 1TB Nano-texture glass - Silver (M4)](https://iqguernsey.com/products/13-inch-ipad-pro-m4-mwrg3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-15T01:13:42Z
   Vendor: Apple
@@ -376,13 +320,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526615.png?v=1742658280
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myhc3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:50:20Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317221_3515f942-b549-46a7-b3f6-dad06083dc6d.jpg?v=1742658270
-  Price: £875.00 GBP
 - [11-inch iPad Pro Wi-Fi + Cellular 2TB Standard Glass - Silver (M4)](https://iqguernsey.com/products/11-inch-ipad-pro-m4-mvw83nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display, and superfast Wi-Fi 6E and 5G. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-14T23:25:32Z
   Vendor: Apple
@@ -482,7 +419,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666555.png?v=1742658220
   Price: £41.00 GBP
 - [iPad mini Wi-Fi 128GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxn73nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:48:44Z
+  Updated: 2026-10-28T18:50:09Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -524,19 +461,12 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192263_7220c549-888f-4911-bdf6-65f01afc3048.jpg?v=1745837077
   Price: £2,083.00 GBP
 - [iPad mini Wi-Fi 512GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mygy3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:50:51Z
+  Updated: 2026-10-26T19:04:28Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317222.jpg?v=1742658186
   Price: £750.00 GBP
-- [iPad mini Wi-Fi 128GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxn83nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:48:39Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317244_c053fec8-cbb9-467d-b749-eca2404e46a0.jpg?v=1742658176
-  Price: £500.00 GBP
 - [iPhone FineWoven Wallet with MagSafe - Blackberry](https://iqguernsey.com/products/iphone-finewoven-wallet-with-magsafe-ma7a4zm-a): Designed with both style and function in mind, the new iPhone FineWoven Wallet with MagSafe is the perfect way to keep your ID and credit cards close at hand. It supports Find My, so you can be notified of your wallet’s last known location if it gets separated from your phone. Made from durable micro-twill, the material has a smooth and seamless feel. The FineWoven material in this accessory is made from 100 per cent post-consumer recycled content and significantly reduces carbon emissions compared to leather. The wallet features strong built-in magnets that allow it to effortlessly snap into place on the back of your iPhone. You can even stack it on top of a case with MagSafe to create a look that’s unique to you. The FineWoven wallet supports up to three cards and is shielded so it’s safe for credit cards.
   Updated: 2026-10-06T12:21:00Z
   Vendor: Apple
@@ -565,13 +495,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526739.png?v=1742658155
   Price: £41.00 GBP
-- [iPad mini Wi-Fi 256GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxna3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:50:07Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317222_3f9231d8-ed7c-4cf8-ad38-7f23881952a3.jpg?v=1742658153
-  Price: £583.00 GBP
 - [41mm Pure Platinum Nike Sport Band - M/L](https://iqguernsey.com/products/2023-apple-watch-nike-sport-band-muul3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:34:10Z
   Vendor: Apple
@@ -580,7 +503,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526670.png?v=1742658147
   Price: £41.00 GBP
 - [iPad mini Wi-Fi 512GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myh13nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:46:26Z
+  Updated: 2026-10-26T19:04:43Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -754,20 +677,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14778214_be2dc760-b338-46e1-87aa-3b4bf1261fb2.jpg?v=1745834787
   Price: £666.00 GBP
-- [iPad mini Wi-Fi 256GB - Blue (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxnc3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:53:57Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317178_03bcbbc6-f18b-469a-9728-98dcf9d3a853.jpg?v=1742658779
-  Price: £583.00 GBP
-- [iPad mini Wi-Fi + Cellular 128GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpn3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:50:18Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317221_921f3ccd-68c6-407f-a88b-c02c18d27c3b.jpg?v=1742658775
-  Price: £625.00 GBP
 - [41mm Blue Flame Nike Sport Band - S/M](https://iqguernsey.com/products/2023-apple-watch-nike-sport-band-muut3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:35:27Z
   Vendor: Apple
@@ -824,13 +733,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14778144_1595f2f5-e27b-4f6f-bb40-a31873efec65.jpg?v=1745836575
   Price: £666.00 GBP
-- [iPad mini Wi-Fi + Cellular 128GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpq3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:50:01Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317243.jpg?v=1742658740
-  Price: £625.00 GBP
 - [45mm Midnight Sky Nike Sport Band - S/M](https://iqguernsey.com/products/2023-apple-watch-nike-sport-band-muv33zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:37:27Z
   Vendor: Apple
@@ -860,7 +762,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192253_09d1d181-e46f-4906-9790-eb7bd7aff894.jpg?v=1745833374
   Price: £1,416.00 GBP
 - [iPhone 16 128GB White](https://iqguernsey.com/products/iphone-16-mye93qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-22T10:19:17Z
+  Updated: 2026-10-26T16:16:35Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -943,13 +845,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14854459_f85a28df-4d40-4043-9a50-24184ecc01ee.jpg?v=1742658688
   Price: £183.00 GBP
-- [iPad mini Wi-Fi 128GB - Space Grey (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxn63nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:49:49Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317222_58edbbb3-1389-4ab8-a8ec-08fb48ccdb16.jpg?v=1742658686
-  Price: £500.00 GBP
 - [iPhone 16 Plus 256GB Black](https://iqguernsey.com/products/iphone-16-mxwn3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
   Updated: 2026-10-20T07:14:15Z
   Vendor: Apple
@@ -999,13 +894,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13196079_8efc0083-8986-43af-979c-06b6c057fa41.jpg?v=1766473076
   Price: £840.00 GBP
-- [iPad mini Wi-Fi 256GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxnd3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:46:12Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317244_8edb0f5e-e5b0-48dc-ba5f-bdb196d527ea.jpg?v=1742658653
-  Price: £583.00 GBP
 - [42mm Black/Blue Nike Sport Loop](https://iqguernsey.com/products/2024-apple-watch-nike-sport-loop-myja3zm-a): The Nike Sport Loop has been redesigned to use excess yarn from previous seasons to create a soft, breathable and lightweight strap with a bold pattern. The hook-and-loop fastener and a woven pull tab featuring the Nike Swoosh makes it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. The Nike Sport Loop contains at least 68% excess yarn from previous seasons, saving over three tonnes of primary yarn.
   Updated: 2025-10-26T02:38:24Z
   Vendor: Apple
@@ -1062,13 +950,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526558.png?v=1742658633
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxpx3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:49:15Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317243_0905fb4b-2200-4111-9a61-0f5fdd5b18bc.jpg?v=1742658630
-  Price: £708.00 GBP
 - [45mm Cargo Khaki Nike Sport Band - S/M](https://iqguernsey.com/products/2023-apple-watch-nike-sport-band-muvc3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:38:58Z
   Vendor: Apple
@@ -1118,13 +999,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526612.png?v=1742658614
   Price: £41.00 GBP
-- [iPad mini Wi-Fi 512GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myh33nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:45:19Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317200_e385a937-234b-4293-9b5a-0232a57f37a6.jpg?v=1742658612
-  Price: £750.00 GBP
 - [Apple Watch SE GPS 40mm Silver Aluminium Case with Denim Sport Band - M/L](https://iqguernsey.com/products/2024-apple-watch-se-sport-band-2nd-generation-mxed3qa-a): Essential features to help you stay connected, active, healthy, and safe.
   Updated: 2026-05-15T00:15:50Z
   Vendor: Apple
@@ -1132,13 +1006,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14854443_84dccbe2-5054-40eb-928b-cac2a19a0169.jpg?v=1742658610
   Price: £153.00 GBP
-- [iPad mini Wi-Fi 128GB - Purple (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-mxn93nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:44:22Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317200_bfc4be37-376d-451e-8f49-70a4593a7576.jpg?v=1742658608
-  Price: £500.00 GBP
 - [46mm Starlight/Pink Nike Sport Loop](https://iqguernsey.com/products/2024-apple-watch-nike-sport-loop-myje3zm-a): The Nike Sport Loop has been redesigned to use excess yarn from previous seasons to create a soft, breathable and lightweight strap with a bold pattern. The hook-and-loop fastener and a woven pull tab featuring the Nike Swoosh makes it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. The Nike Sport Loop contains at least 68% excess yarn from previous seasons, saving over three tonnes of primary yarn.
   Updated: 2026-02-27T19:48:39Z
   Vendor: Apple
@@ -1160,13 +1027,6 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666735.png?v=1742658601
   Price: £41.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Starlight (A17 Pro)](https://iqguernsey.com/products/ipad-mini-a17-pro-myhe3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-16T01:43:25Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317243_a1f4d399-6b08-4e1a-a447-d006a4b940d1.jpg?v=1742658600
-  Price: £875.00 GBP
 - [11-inch iPad Pro Wi-Fi + Cellular 1TB Nano-texture glass - Silver (M4)](https://iqguernsey.com/products/11-inch-ipad-pro-m4-mwrq3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display, and superfast Wi-Fi 6E and 5G. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-14T21:43:08Z
   Vendor: Apple
@@ -1238,7 +1098,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16740428.jpg?v=1742658564
   Price: £2,083.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T22:06:21Z
+  Updated: 2026-10-29T10:59:06Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1357,7 +1217,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745387.jpg?v=1745837858
   Price: £875.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-21T08:56:46Z
+  Updated: 2026-10-28T13:23:36Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1511,7 +1371,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744992_3610593f-2f65-4a10-b7e9-edb74959ec92.jpg?v=1742658489
   Price: £608.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-22T12:25:19Z
+  Updated: 2026-10-24T13:18:05Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1546,7 +1406,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745377_1110d002-f195-43e7-b3f5-26535aef09c2.jpg?v=1745838257
   Price: £792.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T21:54:37Z
+  Updated: 2026-10-28T11:40:46Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1595,7 +1455,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16720088_m_jpg_1.jpg?v=1742658458
   Price: £41.00 GBP
 - [iPad Wi-Fi 128GB - Yellow (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4d4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T21:51:01Z
+  Updated: 2026-10-27T14:44:07Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1651,7 +1511,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745050_760a392c-a52a-458b-82c5-9a247e214643.jpg?v=1745838477
   Price: £708.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-21T13:08:17Z
+  Updated: 2026-10-28T15:50:51Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1962,7 +1822,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:47Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqguernsey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-10-14T11:19:40Z
+  Updated: 2026-10-24T11:20:03Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqguernsey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
   Updated: 2026-06-24T14:59:22Z
@@ -2025,8 +1885,8 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:49Z
   Total Products: 0
 - [Offers](https://iqguernsey.com/collections/offers)
-  Updated: 2026-10-14T08:09:26Z
-  Total Products: 37
+  Updated: 2026-10-26T14:05:31Z
+  Total Products: 36
 - [Belkin Boost](https://iqguernsey.com/collections/belkin-boost)
   Updated: 2025-05-20T12:07:19Z
   Total Products: 0
@@ -2055,8 +1915,8 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:53Z
   Total Products: 2
 - [apl_ps_140W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_140w-usb-c-power-adapter)
-  Updated: 2026-06-29T12:56:06Z
-  Total Products: 1
+  Updated: 2026-10-28T18:52:55Z
+  Total Products: 2
 - [apl_ps_14-inch MacBook Pro M4](https://iqguernsey.com/collections/apl_ps_14-inch-macbook-pro-m4)
   Updated: 2026-09-17T12:30:53Z
   Total Products: 5
@@ -2154,7 +2014,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2025-04-23T07:16:11Z
   Total Products: 0
 - [apl_ps_2023 Apple Pencil (USB-C)](https://iqguernsey.com/collections/apl_ps_2023-apple-pencil-usb-c)
-  Updated: 2026-07-28T11:21:11Z
+  Updated: 2026-10-29T11:18:09Z
   Total Products: 1
 - [apl_ps_2023 Apple Watch SE Sport Band 2nd generation](https://iqguernsey.com/collections/apl_ps_2023-apple-watch-se-sport-band-2nd-generation)
   Updated: 2025-04-23T07:16:11Z
@@ -2193,14 +2053,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2025-04-23T07:16:12Z
   Total Products: 0
 - [apl_ps_24-inch iMac with Retina 4.5K display M4](https://iqguernsey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display-m4)
-  Updated: 2026-10-04T11:19:26Z
+  Updated: 2026-10-28T16:35:42Z
   Total Products: 17
 - [apl_ps_67W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_67w-usb-c-power-adapter)
   Updated: 2026-08-01T11:18:27Z
   Total Products: 1
 - [apl_ps_70W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_70w-usb-c-power-adapter)
-  Updated: 2026-06-27T12:44:51Z
-  Total Products: 1
+  Updated: 2026-10-28T18:52:55Z
+  Total Products: 2
 - [apl_ps_96W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_96w-usb-c-power-adapter)
   Updated: 2025-04-23T07:16:12Z
   Total Products: 0
@@ -2566,7 +2426,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
 - [View all iPhone](https://iqguernsey.com/pages/view-all-iphone)
   Updated: 2026-09-11T10:19:29Z
 - [View all Mac](https://iqguernsey.com/pages/view-all-mac)
-  Updated: 2025-10-15T14:05:22Z
+  Updated: 2026-10-28T19:06:50Z
 - [View all Music](https://iqguernsey.com/pages/view-all-music)
   Updated: 2026-02-12T07:21:53Z
 - [View all TV & Home](https://iqguernsey.com/pages/view-all-tv-home)
@@ -2632,7 +2492,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
 - [iPad Air M4](https://iqguernsey.com/pages/ipad-air-m4)
   Updated: 2026-03-11T06:24:06Z
 - [Compare all iPad Models](https://iqguernsey.com/pages/ipad-compare)
-  Updated: 2026-03-06T10:59:43Z
+  Updated: 2026-10-27T09:34:08Z
 - [MacBook Neo](https://iqguernsey.com/pages/macbook-neo)
   Updated: 2026-03-23T09:36:26Z
 - [Compare all Mac Models](https://iqguernsey.com/pages/mac-compare)
@@ -2657,6 +2517,8 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-14T11:51:54Z
 - [Apple Watch Ultra 4](https://iqguernsey.com/pages/apple-watch-ultra-4)
   Updated: 2026-09-14T12:17:58Z
+- [iPad mini A20 Pro](https://iqguernsey.com/pages/ipad-mini-a20-pro)
+  Updated: 2026-10-28T09:46:05Z
 
 ## Policies
 
