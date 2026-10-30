@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-06T15:56:29Z
 - Contact Email: admin@freedomkettlecorn.com
-- Updated At: 2026-10-23T00:37:55.806Z
+- Updated At: 2026-10-30T00:55:57.490Z
 
 ## Products
 
@@ -219,7 +219,7 @@
     Availability: Available
     Price: $12.99 USD
 - [White Cheddar Popcorn – No Sugar Savory Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/white-cheddar): Smooth, creamy white cheddar on fresh-popped popcorn — no sugar, no artificial flavors. A bold, savory gourmet snack handcrafted in Arkansas.
-  Updated: 2026-09-04T05:24:27Z
+  Updated: 2026-10-29T23:23:46Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -240,7 +240,7 @@
     Availability: Available
     Price: $99.99 USD
 - [Caramel Corn Kettle Corn – Rich Buttery Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/caramel-corn): Fresh-popped kettle corn coated in rich, buttery caramel. Freedom Caramel Corn is the sweet, salty, crunchy classic — hand-popped daily in small batches in Arkansas.
-  Updated: 2026-10-13T21:43:06Z
+  Updated: 2026-10-29T23:23:46Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -256,7 +256,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Classic Sweet & Salty Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/classic-kettle-corn): Enjoy the timeless taste of Freedom Classic Kettle Corn, freshly popped with the perfect balance of sweet and salty flavor. Light, crispy, and handcrafted in small batches for an irresistible snack everyone loves.
-  Updated: 2026-10-05T14:57:27Z
+  Updated: 2026-10-29T23:23:56Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -327,7 +327,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Spicy Cheddar Kettle Corn – Bold Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/spicy-cheddar): Freshly popped kettle corn coated with rich cheddar cheese and zesty spices. Freedom Spicy Cheddar Kettle Corn delivers the perfect balance of cheesy flavor and satisfying heat.
-  Updated: 2026-09-04T04:24:35Z
+  Updated: 2026-10-29T23:23:45Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -395,7 +395,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Sharp Cheddar Popcorn – Bold No-Sugar Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sharp-cheddar): Intense, tangy sharp cheddar on fresh-popped popcorn — no sugar, non-GMO. The bold savory snack for serious cheese lovers, handcrafted in Arkansas.
-  Updated: 2026-10-07T15:33:26Z
+  Updated: 2026-10-29T23:23:43Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
@@ -469,13 +469,13 @@
 ## Collections
 
 - [Home page](https://www.freedomkettlecorn.com/collections/frontpage)
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-10-26T11:15:26Z
   Total Products: 24
 - [All Popcorn](https://www.freedomkettlecorn.com/collections/imported-products): Shop all gourmet kettle corn from Freedom Kettle Corn of Arkansas. Sweet, savory, spicy & seasonal flavors handcrafted fresh in small batches. Order online!
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-10-26T11:15:26Z
   Total Products: 24
 - [Sweet](https://www.freedomkettlecorn.com/collections/sweet-popcorn): Shop handcrafted sweet kettle corn from Freedom Kettle Corn of Arkansas. Classic caramel, cinnamon, and more. Order online for fresh-popped gourmet flavor.
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-10-26T11:15:26Z
   Total Products: 13
 - [Savory](https://www.freedomkettlecorn.com/collections/savory-popcorn): Explore savory gourmet kettle corn from Freedom Kettle Corn of Arkansas. Bold, handcrafted flavors made fresh in small batches. Order online today!
   Updated: 2026-10-08T11:15:22Z
@@ -493,7 +493,7 @@
   Updated: 2026-10-14T11:42:01Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://www.freedomkettlecorn.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-10-26T11:15:26Z
   Total Products: 26
 
 ## Store Pages
