@@ -7,7 +7,7 @@
 - Currency: EUR
 - Timezone: Europe/Berlin
 - Created At: 2025-11-02T16:10:48Z
-- Updated At: 2026-10-23T00:51:45.715Z
+- Updated At: 2026-10-30T01:24:46.699Z
 
 ## Products
 
@@ -84,7 +84,7 @@
   - [3XL](https://el-capitano.net/products/el-capitano-tee-f-u-c-k-y-o-u?variant=56156225700226)
     Availability: Available
 - [CTC Bikers Best Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best): Gemacht für kühle Tage und lange Abende. Der CTC Bikers Best Zip Hoodie – Señoras kombiniert angenehmen Tragekomfort mit einem markanten Rückenprint im klassischen Oldschool-Look. Der feminine Schnitt sitzt bequem, ohne einzuengen, während das weiche Material angenehm warm hält und sich unkompliziert im Alltag tragen lässt. Vorne bewusst reduziert, hinten mit klarer Präsenz. Der durchgehende 2-Wege-Reißverschluss, die Kapuze mit Kordelzug und die praktischen Taschen machen den Hoodie alltagstauglich, ohne den klaren Look zu verlieren. Teil der originalen CTC Community Series. Details Damen Fit mit dezenter Taillierung angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -100,7 +100,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best?variant=56161654571394)
     Availability: Available
 - [CTC Buffalo Rider Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider): Angenehm zu tragen. Klar im Look. Der CTC Buffalo Rider Zip Hoodie – Señoras verbindet weichen Tragekomfort mit einem markanten Rückenprint im klassischen Buffalo Rider Design. Der feminine Schnitt sitzt bequem und alltagstauglich, ohne einzuengen. Das Material hält angenehm warm, während Kapuze, 2-Wege-Reißverschluss und praktische Taschen den Hoodie vielseitig tragbar machen. Vorne bewusst reduziert, hinten mit deutlicher Präsenz. Ein Hoodie für kühle Tage, spontane Touren und lange Abende draußen. Ohne übertriebenen Look, aber mit genug Charakter, um nicht beliebig zu wirken. Teil der originalen CTC Community Series. Details Damen Fit mit dezenter Taillierung angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -116,7 +116,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider?variant=56161727381890)
     Availability: Available
 - [DILLIGAF Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-dilligaf): Für Tage, an denen Diskussionen überbewertet sind. Der DILLIGAF Zip Hoodie – Señoras bringt genau die richtige Mischung aus Komfort, Haltung und klarer Ansage mit. Ohne künstlich laut zu sein. Menschen versuchen ständig, jedem zu gefallen. Anstrengendes Hobby eigentlich. 😏 Der taillierte Damen Fit sitzt angenehm körpernah, ohne einzuengen. Das weiche Material sorgt für hohen Tragekomfort, während Kapuze, robuster 2-Wege-Reißverschluss und zusätzliche Reißverschlusstasche den Hoodie alltagstauglich machen. Vorne bewusst clean gehalten, hinten mit markantem DILLIGAF-Print und klassischem CTC-Style. Für kalte Tage, lange Nächte und alle Wege, die du lieber selbst gehst. Details Damen Fit mit dezenter Taillierung super weich und angenehm zu tragen Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche durchgehender, verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint im Oldschool-Style Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -132,7 +132,7 @@
   - [2XL](https://el-capitano.net/products/el-capitano-zip-hoodie-dilligaf?variant=56161734754690)
     Availability: Available
 - [F.U.C.K. Y.O.U. Zip Hoodie – Señoras](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u): Für Menschen mit Haltung. Keine Regeln. Kein Plan B.Nicht für die Masse. Der F.U.C.K. Y.O.U. Zip Hoodie ist nichts für angepasste Sonntagslächeln und weichgespültes Gelaber. Klare Kante, schwerer Stoff und ein Rückenprint, der nicht um Erlaubnis fragt. Für Frauen, die lieber anecken als hinterherlaufen. Anziehen. Reißverschluss hoch. Eigenen Weg fahren.Der Rest kann diskutieren, posten oder motivierende Kalenderspüche teilen. 🏴 Details: Passform: Damen Fit mit dezenter Taillierung Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen Kapuze: Kapuze mit Kordelzug Taschen: Zwei seitliche Taschen sowie eine zusätzliche Reißverschlusstasche Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -316,7 +316,7 @@
   - [7XL](https://el-capitano.net/products/el-capitano-tee-a-f-u-c-k-y-o-u?variant=56185582813570)
     Availability: Not Available
 - [CTC Bikers Best Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best-1): Wärmend, bequem und klar im Look. Der CTC Bikers Best Zip Hoodie – Caballeros verbindet einen geraden Regular Fit mit einem markanten Rückenprint und alltagstauglichen Details ohne unnötigen Schnickschnack. Das weiche Material sorgt für ein angenehmes Tragegefühl, während Kapuze, 2-Wege-Reißverschluss und die zusätzlichen Taschen den Hoodie praktisch und vielseitig machen. Vorne bewusst reduziert, hinten mit deutlicher Oldschool-Optik. Ein Hoodie für kühle Tage, lange Abende und Menschen, die lieber auf langlebigen Stil setzen als auf kurzlebige Trends. Teil der originalen CTC Community Series. Details Regular Fit mit geradem Schnitt angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -338,7 +338,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-bikers-best-1?variant=56185685639554)
     Availability: Available
 - [CTC Buffalo Rider Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-1): Gemacht für draußen. Der CTC Buffalo Rider Zip Hoodie – Caballeros kombiniert angenehmen Tragekomfort mit einem markanten Buffalo Rider Rückenprint und klarer Oldschool-Optik. Der Regular Fit sitzt bequem und unkompliziert, ohne weit oder unförmig zu wirken. Das weiche Material hält angenehm warm und bleibt auch im Alltag robust. Mit Kapuze, stabilem 2-Wege-Reißverschluss und zusätzlicher Reißverschlusstasche ist der Hoodie nicht nur fürs Rumstehen an der Tanke gedacht. Menschen bauen erstaunlich viele kleine Rituale um Kleidung herum. Dieser hier macht wenigstens praktisch mit. 😏 Vorne bewusst reduziert, hinten mit deutlicher Präsenz. Für Touren, kühle Abende und alles, was nicht geschniegelt wirken soll. Teil der originalen CTC Community Series. Details Regular Fit mit geradem, bequemem Schnitt angenehm weiches Tragegefühl Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -360,7 +360,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-1?variant=56185797542274)
     Availability: Available
 - [DILLIGAF Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-dilligaf): Manche Ansagen brauchen keine Erklärung. Der DILLIGAF Zip Hoodie – Caballeros steht für klare Haltung, ehrliche Streetwear und kompromisslosen Oldschool-Style. Nicht geschniegelt. Nicht geschniegelt tun als wäre man rebellisch. Einfach direkt. Selten geworden heutzutage. 😏 Der Regular Fit sitzt bequem und unkompliziert, während das weiche Material angenehm warm hält, ohne schwer zu wirken. Mit Kapuze, stabilem 2-Wege-Reißverschluss und zusätzlicher Reißverschlusstasche ist der Hoodie gemacht für Alltag, Touren und lange Abende draußen. Vorne bewusst reduziert, hinten mit markantem DILLIGAF Rückenprint im klassischen CTC-Look. Genau richtig für Leute, die ihren eigenen Weg gehen und dabei nicht ständig Applaus brauchen. Details Regular Fit mit geradem, bequemem Schnitt super weich und angenehm zu tragen Kapuze mit Kordelzug zwei seitliche Taschen zusätzliche Reißverschlusstasche durchgehender, verdeckter 2-Wege-Reißverschluss strapazierfähig und langlebig markanter Rückenprint im Oldschool-Style Teil der El Capitano Premium Originals-Kollektion
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -382,7 +382,7 @@
   - [5XL](https://el-capitano.net/products/el-capitano-zip-hoodie-ctc-buffalo-rider-dilligaf?variant=56185872810370)
     Availability: Available
 - [F.U.C.K. Y.O.U. Zip Hoodie – Caballeros](https://el-capitano.net/products/el-capitano-zip-hoodie-f-u-c-k-y-o-u-1): Für Menschen mit Haltung. Keine Regeln. Kein Plan B.Nicht für die Masse. Der F.U.C.K. Y.O.U. Zip Hoodie ist für Männer, die nicht jeden Trend mitmachen müssen, um Haltung zu zeigen. Schwerer Stoff, cleaner Frontprint und ein Rückenprint, der ziemlich deutlich sagt, was Sache ist. Keine bunte Influencer-Kostümierung. Kein weichgespülter Lifestyle-Müll. Ein Hoodie für kalte Straßen, lange Fahrten und Menschen, die lieber anecken als dazugehören.Reißverschluss hoch. Kopf runter. Weiterfahren. 🏴 Details: • Passform: Regular Fit mit geradem, bequemem Schnitt• Tragegefühl: Super weich und angenehm zu tragen, ohne einzuengen• Kapuze: Kapuze mit Kordelzug• Taschen: Zwei seitliche Taschen sowie eine zusätzliche Reißverschlusstasche• Verschluss: Durchgehender, verdeckter 2-Wege-Reißverschluss• Haltbarkeit: Strapazierfähig, auch bei häufigem Waschen• Teil der El Capitano Premium Originals-Kollektion.
-  Updated: 2026-10-22T08:44:32Z
+  Updated: 2026-10-29T09:00:48Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1216,7 +1216,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/white_dilligaffu_front_mann.webp?v=1781456367
 - [DILLIFU Hoodie - Caballeros](https://el-capitano.net/products/dillifu-hoodie): DILLIGAF FU Hoodie – Caballeros Man muss nicht jedem gefallen. Der DILLIGAF FU Hoodie – Caballeros verbindet ein klares Utility-Design mit einem angenehmen, robusten Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode-Print auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Touren und alle, die lieber ihren eigenen Weg gehen, als sich nach der Meinung anderer zu richten. Teil der Capitano Crew Line Edition. Details • angenehmes und robustes Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich• Hinweis: Wer es etwas weicher und leichter mag, findet bei der Señoras-Version eine angenehm softere Stoffqualität. Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-10-22T08:44:33Z
+  Updated: 2026-10-29T09:00:49Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1300,7 +1300,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch-pink_dilligaffu_front_mann.webp?v=1784907874
   - [Punch Pink / L](https://el-capitano.net/products/dillifu-hoodie?variant=56748404277634)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch-pink_dilligaffu_front_mann.webp?v=1784907874
   - [Punch Pink / XL](https://el-capitano.net/products/dillifu-hoodie?variant=56748404310402)
     Availability: Available
@@ -1372,7 +1372,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/red_dilligaffu_front_mann_f6973dc4-571e-4063-b1fe-3475eec37585.webp?v=1784907875
 - [DILLIFU Hoodie - Señoras](https://el-capitano.net/products/unisex-kapuzenpullover): Haltung trägt man nicht nur im Sommer. Der DILLIGAF FU Hoodie – Señoras verbindet ein klares Utility-Design mit einem angenehm weichen Tragegefühl. Vorne der markante DILLIGAF-Print, hinten die technische Foxtrot-Uniform-Grafik. Der Barcode auf dem linken Ärmel setzt den letzten Akzent und macht den Look komplett. Für kühle Tage, lange Abende und alle, die lieber ihren eigenen Weg gehen als jedem Trend hinterherzulaufen. Teil der Capitano Crew Line Edition. Details • angenehm weiches Tragegefühl• Kapuze mit Kordelzug• Kängurutasche vorne• vertikaler DILLIGAF Frontprint im Industrial-Look• großer Foxtrot Uniform Rückenprint• Barcode-Print auf dem linken Ärmel• mehrere Farbvarianten erhältlich Teil der El Capitano Crew Line-Kollektion.
-  Updated: 2026-10-22T08:44:33Z
+  Updated: 2026-10-29T09:00:49Z
   Vendor: El Capitano
   Product Type: Hoodie
   Availability: Available
@@ -1456,7 +1456,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch-pink_dilligaffu_front_frau_ee591fe5-c1c7-4006-9507-a5db5da2c150.webp?v=1784907226
   - [Punch Pink / L](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130839426)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0937/7120/2946/files/punch-pink_dilligaffu_front_frau_ee591fe5-c1c7-4006-9507-a5db5da2c150.webp?v=1784907226
   - [Punch Pink / XL](https://el-capitano.net/products/unisex-kapuzenpullover?variant=56763130872194)
     Availability: Available
