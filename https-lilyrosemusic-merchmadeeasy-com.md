@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2021-03-05T19:31:22Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:47:48.957Z
+- Updated At: 2026-10-30T01:27:52.898Z
 
 ## Products
 
 - [Villain Tee](https://lilyrosemusic.merchmadeeasy.com/products/yeah-ive-heard-thangs-t-shirt): “Yeah I've Heard Thangs" t-shirt inspired from Lily Rose's song, Villain. Black Unisex
-  Updated: 2026-10-16T01:23:57Z
+  Updated: 2026-10-25T14:04:06Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -117,29 +117,8 @@
   - [2X](https://lilyrosemusic.merchmadeeasy.com/products/i-know-what-i-want-tour-tee?variant=45183990661308)
     Availability: Not Available
     Price: $35.00 USD
-- [Seein' Blue Tee](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee): Lily Rose Seein' Blue Tee in indigo with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:01:44Z
-  Vendor: Lily Rose
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRSEEINGBLUETEE-2.png?v=1757446129
-  - [S](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee?variant=45184015892668)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [M](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee?variant=45184015925436)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [L](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee?variant=45184015958204)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee?variant=45184015990972)
-    Availability: Available
-    Price: $35.00 USD
-  - [2X](https://lilyrosemusic.merchmadeeasy.com/products/seein-blue-tee?variant=45184016023740)
-    Availability: Not Available
-    Price: $35.00 USD
 - [Lily Hoodie](https://lilyrosemusic.merchmadeeasy.com/products/lily-hoodie): Lily Rose Hoodie in Dark Chocolate with front print only. 100% Cotton
-  Updated: 2026-10-05T13:01:45Z
+  Updated: 2026-10-25T14:04:06Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -246,50 +225,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRBEERBEFORE10KOOZIE.png?v=1773763146
   Price: $5.00 USD
-- [Album Tee](https://lilyrosemusic.merchmadeeasy.com/products/album-tee): I Know What I Want Tour Album Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-16T00:23:06Z
-  Vendor: Lily Rose
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRIKWIWTEE-2.png?v=1773763331
-  - [S](https://lilyrosemusic.merchmadeeasy.com/products/album-tee?variant=46071901356220)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://lilyrosemusic.merchmadeeasy.com/products/album-tee?variant=46071901388988)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://lilyrosemusic.merchmadeeasy.com/products/album-tee?variant=46071901421756)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://lilyrosemusic.merchmadeeasy.com/products/album-tee?variant=46071901454524)
-    Availability: Not Available
-    Price: $35.00 USD
-  - [2X](https://lilyrosemusic.merchmadeeasy.com/products/album-tee?variant=46071901487292)
-    Availability: Available
-    Price: $35.00 USD
 - [Tequila & Lime Koozie](https://lilyrosemusic.merchmadeeasy.com/products/tequila-lime-koozie): Double sided 12 oz. koozie
-  Updated: 2026-10-07T20:06:37Z
+  Updated: 2026-10-23T16:49:47Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRTEQUILA_LIMEKOOZIE-2.png?v=1788461480
   Price: $5.00 USD
 - [Logo Hat Lily Rose Puff Embroidery](https://lilyrosemusic.merchmadeeasy.com/products/logo-hat): Lily Rose two tone Logo Hat in Natural/Black with puff embroidery on the front. One Size Fits Most
-  Updated: 2026-10-11T23:37:07Z
+  Updated: 2026-10-23T16:49:46Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRLOGOHAT.png?v=1788461611
   Price: $35.00 USD
 - [Lily Tallboy Koozie](https://lilyrosemusic.merchmadeeasy.com/products/lily-tallboy-koozie): Black tallboy koozie with photo of Lily on both sides.
-  Updated: 2026-10-05T17:16:06Z
+  Updated: 2026-10-23T16:49:47Z
   Vendor: Lily Rose
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRTALLBOYKOOZIE.png?v=1788461850
   Price: $8.00 USD
 - [Card Hoodie](https://lilyrosemusic.merchmadeeasy.com/products/card-hoodie): Lily Rose Card Hoodie in natural with front and back print. 80/20 ring-spun USA premium cotton/polyester
-  Updated: 2026-10-22T20:09:55Z
+  Updated: 2026-10-23T16:48:46Z
   Vendor: Lily Rose
   Product Type: Apparel
   Availability: Available
@@ -310,7 +268,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Lil' Something Like Camo Tee](https://lilyrosemusic.merchmadeeasy.com/products/lil-something-like-camo-tee): Lil' Something Like Tee in darkwood tree camo with front and back print. 100% Cotton Jersey
-  Updated: 2026-10-22T20:09:57Z
+  Updated: 2026-10-25T08:31:51Z
   Vendor: Lily Rose
   Product Type: T-Shirt
   Availability: Available
@@ -330,50 +288,29 @@
   - [2X](https://lilyrosemusic.merchmadeeasy.com/products/lil-something-like-camo-tee?variant=47402753884348)
     Availability: Not Available
     Price: $40.00 USD
-- [Fall Tour '26 Tee](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee): Lily Rose Fall Tour '26 Tee with front and back print. Tour dates on back! 100% Cotton
-  Updated: 2026-10-22T20:09:55Z
-  Vendor: Lily Rose
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0551/1666/0924/files/LRFALTOUR26TEE-2.png?v=1788462634
-  - [S](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee?variant=47402758897852)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee?variant=47402758930620)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee?variant=47402758963388)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee?variant=47402758996156)
-    Availability: Available
-    Price: $35.00 USD
-  - [2X](https://lilyrosemusic.merchmadeeasy.com/products/fall-tour-26-tee?variant=47402759028924)
-    Availability: Not Available
-    Price: $35.00 USD
 
 ## Collections
 
 - [Apparel](https://lilyrosemusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-20T11:03:31Z
+  Updated: 2026-10-26T11:03:09Z
   Total Products: 34
 - [Accessories](https://lilyrosemusic.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-22T15:28:15Z
   Total Products: 23
 - [Shop All](https://lilyrosemusic.merchmadeeasy.com/collections/shop-all)
-  Updated: 2026-10-22T15:28:16Z
+  Updated: 2026-10-26T11:03:09Z
   Total Products: 61
 - [I Know What I Want](https://lilyrosemusic.merchmadeeasy.com/collections/i-know-what-i-want)
-  Updated: 2026-10-22T15:28:15Z
+  Updated: 2026-10-23T20:55:48Z
   Total Products: 11
 - [Lily Rose Collection](https://lilyrosemusic.merchmadeeasy.com/collections/lily-rose-collection)
-  Updated: 2026-10-16T11:03:24Z
+  Updated: 2026-10-26T11:03:09Z
   Total Products: 11
 - [All](https://lilyrosemusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T15:28:16Z
+  Updated: 2026-10-26T11:03:09Z
   Total Products: 61
 - [Fall Tour Collection](https://lilyrosemusic.merchmadeeasy.com/collections/fall-tour-collection)
-  Updated: 2026-10-21T11:05:03Z
+  Updated: 2026-10-25T11:04:25Z
   Total Products: 7
 - [Last Chance](https://lilyrosemusic.merchmadeeasy.com/collections/last-chance)
   Updated: 2026-10-22T15:28:15Z
