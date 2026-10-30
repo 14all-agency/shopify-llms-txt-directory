@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-10-23T00:44:49.931Z
+- Updated At: 2026-10-30T01:23:39.222Z
 
 ## Products
 
@@ -1444,6 +1444,15 @@
     Author: PawCentral
   - [The Pros and Cons of Adopting Versus Buying a Pet](https://pawcentral.co.za/blogs/news/the-pros-and-cons-of-adopting-versus-buying-a-pet): The Pros and Cons of Adopting Versus Buying a Pet
     Updated: 2026-10-21T00:31:08Z
+    Author: PawCentral
+  - [How to Introduce Your Pet to New Household Members Successfully](https://pawcentral.co.za/blogs/news/how-to-introduce-your-pet-to-new-household-members-successfully): How to Introduce Your Pet to New Household Members Successfully
+    Updated: 2026-10-24T00:08:09Z
+    Author: PawCentral
+  - [The Importance of Mental Stimulation in Your Pet's Life](https://pawcentral.co.za/blogs/news/the-importance-of-mental-stimulation-in-your-pets-life): The Importance of Mental Stimulation in Your Pet's Life
+    Updated: 2026-10-26T00:51:32Z
+    Author: PawCentral
+  - [Preventing Pet Obesity through Effective Diet and Exercise Strategies](https://pawcentral.co.za/blogs/news/preventing-pet-obesity-through-effective-diet-and-exercise-strategies): Preventing Pet Obesity through Effective Diet and Exercise Strategies
+    Updated: 2026-10-28T00:46:13Z
     Author: PawCentral
 
 ## Store Pages
