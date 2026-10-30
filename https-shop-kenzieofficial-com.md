@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:48:00.730Z
+- Updated At: 2026-10-30T01:20:10.743Z
 
 ## Products
 
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $50.00 USD
 - [Bow Tee](https://shop.kenzieofficial.com/products/portrait-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-05T13:04:11Z
+  Updated: 2026-10-25T01:48:59Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -242,13 +242,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://shop.kenzieofficial.com/collections/frontpage)
-  Updated: 2026-10-06T19:18:42Z
+  Updated: 2026-10-25T11:21:32Z
   Total Products: 9
 - [Apparel](https://shop.kenzieofficial.com/collections/apparel)
-  Updated: 2026-10-06T19:18:42Z
+  Updated: 2026-10-25T11:21:32Z
   Total Products: 6
 - [All](https://shop.kenzieofficial.com/collections/all)
-  Updated: 2026-09-08T11:24:43Z
+  Updated: 2026-10-25T11:21:32Z
   Total Products: 7
 - [Accessories](https://shop.kenzieofficial.com/collections/accessories)
   Updated: 2026-09-03T11:21:26Z
