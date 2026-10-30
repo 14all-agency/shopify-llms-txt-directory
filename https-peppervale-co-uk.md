@@ -6,216 +6,10 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-10-23T00:50:37.304Z
+- Updated At: 2026-10-30T01:07:39.772Z
 
 ## Products
 
-- [Organic Colours Tank Top Womens](https://peppervale.co.uk/products/organic-colours-tank-top-womens): The Organic Colours tank top is a simple, 100% organic cotton vest available in a wide selection of colours. It's a customer favourite and can be worn as an undervest in winter or as a lightweight, breathable vest in the summer. An ultimate wardrobe staple.
-  Updated: 2026-10-22T19:05:43Z
-  Vendor: Earth Wardrobe
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_aloe_ft2.jpg?v=1786029368
-  - [XS / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376005445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XS / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376038213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XS / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376202053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XS / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376267589)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XS / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376300357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XS / Petal Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376333125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NS341_20PEL_20FRONT.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XS / Wet Sand](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376365893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/624548.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XS / Jade Green](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376398661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/607626.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XS / Pearl Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376431429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/627600_1_5.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [S / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376464197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [S / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376496965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [S / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376660805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [S / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376726341)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [S / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376759109)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [S / Petal Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376791877)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NS341_20PEL_20FRONT.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [S / Wet Sand](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376824645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/624548.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [S / Jade Green](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376857413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/607626.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [S / Pearl Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376890181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/627600_1_5.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [M / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376922949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [M / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787376955717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £10.67 GBP
-  - [M / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377119557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [M / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377185093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [M / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377217861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [M / Petal Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377250629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NS341_20PEL_20FRONT.jpg?v=1786029368
-    Price: £13.73 GBP
-  - [M / Wet Sand](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377283397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/624548.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [M / Jade Green](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377316165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/607626.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [M / Pearl Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377348933)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/627600_1_5.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [L / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377381701)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [L / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377414469)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £10.67 GBP
-  - [L / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377578309)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [L / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377643845)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [L / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377676613)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [L / Petal Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377709381)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NS341_20PEL_20FRONT.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [L / Wet Sand](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377742149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/624548.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [L / Jade Green](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377774917)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/607626.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [L / Pearl Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377807685)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/627600_1_5.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XL / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377840453)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XL / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787377873221)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XL / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378037061)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XL / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378102597)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.73 GBP
-  - [XL / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378135365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XL / Petal Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378168133)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/NS341_20PEL_20FRONT.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [XL / Wet Sand](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378200901)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/624548.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XL / Jade Green](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378233669)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/607626.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [XL / Pearl Rose](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378266437)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/627600_1_5.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [2XL / Black](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378299205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_black_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [2XL / White](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378331973)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_white_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [2XL / French Navy](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378495813)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sx275_frenchnavy_ft2.jpg?v=1786029368
-    Price: £13.33 GBP
-  - [2XL / Mineral Grey](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378561349)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345657.jpg?v=1786029369
-    Price: £13.33 GBP
-  - [2XL / Khaki](https://peppervale.co.uk/products/organic-colours-tank-top-womens?variant=58787378594117)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/345655.jpg?v=1786029369
-    Price: £13.33 GBP
 - [FLEECE POLO NECK OVERSIZED PONCHO / JUMPER](https://peppervale.co.uk/products/fleece-polo-neck-oversized-poncho-jumper): This fantastic fleece poncho from Rockthosecurves is an oversized beauty! With a poncho style and animal print design, this one-size fits all polo neck will keep you warm and looking fierce. Don't miss out on adding this must-have item to your wardrobe!
   Updated: 2026-09-18T21:19:09Z
   Vendor: rockthosecurves
@@ -243,7 +37,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-2749_a76fd729-7cd5-4cd7-abf1-b0972eb8d67a.png?v=1786029432
     Price: £42.50 GBP
 - [Sleeveless Blue Pink Floral Maxi Dress](https://peppervale.co.uk/products/sleeveless-blue-pink-floral-maxi-dress): Say hello to effortless holiday style with our Sleeveless Blue Pink Floral Maxi Dress – a stunning full-length piece designed to flatter and flow. With a classic round neckline and sleeveless design, this plus-size summer dress is light, breathable, and perfect for warm-weather days. The bold blue and pink floral print adds a pop of colour, while the crease-resistant fabric makes it an ideal travel companion. Whether you're strolling through the city or lounging by the beach, this maxi dress delivers easy elegance with zero fuss. Product Features: 🌸 Bold blue and pink floral print – Bright, feminine, and eye-catching 👗 Sleeveless maxi design – Full-length style perfect for summer days 🔵 Round neckline – Clean, classic and flattering 🚫 Crease-resistant fabric – Ideal for packing and travel ➕ Perfect for plus-size women – Flattering fit for sizes 14–28 The ultimate throw-on-and-go summer dress – easy, elegant, and made to rock your curves.
-  Updated: 2026-10-03T14:27:26Z
+  Updated: 2026-10-26T08:08:51Z
   Vendor: rockthosecurves
   Product Type: Dresses
   Availability: Available
@@ -1695,7 +1489,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
     Price: £22.67 GBP
 - [ZIP UP HOODIE PLUS SIZE JACKET](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket): Stay warm and stylish with our ZIP UP HOODIE PLUS SIZE JACKET, featuring convenient front pockets! From ROCKTHOSECURVES, this long-sleeve jacket will keep you comfortable and confident in any weather.
-  Updated: 2026-10-21T18:25:12Z
+  Updated: 2026-10-27T08:10:58Z
   Vendor: rockthosecurves
   Product Type: Jacket
   Availability: Available
@@ -1901,17 +1695,17 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/IMG-9981_19d6204f-8cb2-40e1-92e5-b01eae0caf9c.png?v=1786029434
     Price: £26.92 GBP
 - [Tracksuit with Straight Leopard Panels](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels): Take athleisure to the next level with our Tracksuit with Leopard Panels, combining comfort and bold style in one must-have outfit. Crafted with a fierce leopard panel design, this set adds a wild twist to classic loungewear, making it perfect for workouts, errands, or casual days out. The elasticated waist trousers offer a comfortable, flexible fit, while the matching top with leopard accents brings effortless coordination. Designed for plus-size curves, this tracksuit ensures you look and feel fabulous wherever your day takes you. Product Features: 🐆 Leopard panel detailing – Bold, on-trend styling 👖 Elasticated waist trousers – Comfortable and flattering 👕 Coordinated top with panels – Effortless matching look ✨ Versatile design – Perfect for workouts, lounging, or casual outings ➕ Plus-size fit – Designed for sizes 14–28 Stylish, comfortable, and unapologetically bold – this RockThoseCurves tracksuit is your go-to for everyday confidence and standout athleisure style.
-  Updated: 2026-10-22T06:54:36Z
+  Updated: 2026-10-25T17:01:45Z
   Vendor: rockthosecurves
   Product Type: Tracksuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
   - [BLACK / UK 14](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423715653)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
     Price: £55.25 GBP
   - [BLACK / UK 16](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423748421)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_750.png?v=1786029434
     Price: £55.25 GBP
   - [BLACK / UK 18](https://peppervale.co.uk/products/tracksuit-with-straight-leopard-panels?variant=58787423781189)
@@ -2480,7 +2274,157 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
     Price: £46.75 GBP
-[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MjE3ODExNywibGFzdF92YWx1ZSI6IjE2MDcxNTQyMTc4MTE3In0%3D)
+- [Polo Neck Lace Neckline Long Sleeve Top](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top): Elevate your everyday style with a touch of elegance in our Polo Neck Lace Neckline Long Sleeve Top – where comfort meets sophisticated detail. This plus-size top features a soft, stretchy fabric that gently skims your curves, with a classic polo neck for added warmth and polish. The delicate lace neckline adds a feminine finish, making this top perfect for layering or wearing solo. Whether you're heading to lunch or dressing up your workwear, it's a versatile must-have for your wardrobe. Product Features: 🖤 Elegant lace neckline – Adds softness and chic style 🧣 Polo neck design – Classic, flattering, and warm 👚 Full-length sleeves – Comfortable and easy to style 🧵 Soft, stretch fabric – Perfect for all-day wear ➕ Designed for plus-size women – Flattering fit for sizes 14–28 Refined and curve-friendly – this is a timeless RockThoseCurves essential that adds grace to your everyday look.
+  Updated: 2026-09-22T10:39:46Z
+  Vendor: rockthosecurves
+  Product Type: top
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+  - [RED / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428794693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [RED / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428827461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [RED / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428860229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [RED / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428892997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [RED / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428925765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [RED / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428958533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
+    Price: £25.50 GBP
+  - [WHITE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428991301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WHITE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429024069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WHITE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429056837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WHITE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429089605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WHITE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429122373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WHITE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429155141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429187909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429220677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429253445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429286213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429318981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [BLACK / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429351749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429384517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429417285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429450053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429482821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429515589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [WINE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429548357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
+    Price: £25.50 GBP
+  - [TEAL / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429581125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [TEAL / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429613893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [TEAL / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429646661)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [TEAL / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429679429)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [TEAL / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429712197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [TEAL / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429744965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
+    Price: £25.50 GBP
+  - [PURPLE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429777733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+  - [PURPLE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429810501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+  - [PURPLE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429843269)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+  - [PURPLE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429876037)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+  - [PURPLE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429908805)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+  - [PURPLE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429941573)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
+    Price: £25.50 GBP
+[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MjI3NjQyMSwibGFzdF92YWx1ZSI6IjE2MDcxNTQyMjc2NDIxIn0%3D)
 
 ## Collections
 
@@ -2524,7 +2468,7 @@
   Updated: 2026-09-18T22:26:29Z
   Total Products: 253
 - [Loungewear & Sleepwear](https://peppervale.co.uk/collections/loungewear-sleepwear): Shop women’s loungewear, pyjamas and sleepwear at PepperVale, with comfortable everyday styles from independent brands and secure UK checkout.
-  Updated: 2026-09-18T23:11:58Z
+  Updated: 2026-10-26T12:55:14Z
   Total Products: 547
 - [Activewear](https://peppervale.co.uk/collections/activewear): Shop women’s activewear at PepperVale, including leggings, tops and comfortable layers for workouts and everyday movement from independent brands.
   Updated: 2026-09-18T23:03:32Z
@@ -2533,10 +2477,10 @@
   Updated: 2026-09-18T22:52:36Z
   Total Products: 478
 - [Home & Living](https://peppervale.co.uk/collections/home-bedding): Shop bedding and home essentials at PepperVale, including bamboo duvet covers and pillowcases, with clear UK delivery information, secure checkout and returns.
-  Updated: 2026-10-22T10:34:57Z
-  Total Products: 166
+  Updated: 2026-10-29T14:01:17Z
+  Total Products: 162
 - [Accessories](https://peppervale.co.uk/collections/accessories): Shop bags, hats, scarves and useful everyday accessories from independent and trusted brands, with clear UK delivery information and returns.
-  Updated: 2026-09-24T10:03:55Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 5194
 - [Kids & Baby](https://peppervale.co.uk/collections/kids-baby): Shop baby, toddler and children’s clothing at PepperVale, including everyday organic basics and comfortable styles from independent brands.
   Updated: 2026-10-05T12:23:13Z
@@ -2545,40 +2489,40 @@
   Updated: 2026-10-12T11:43:07Z
   Total Products: 5586
 - [Safety Boots & Work Trainers](https://peppervale.co.uk/collections/safety-boots-work-trainers): Shop safety boots, protective work trainers and durable occupational footwear from trusted trade brands, selected for UK workplaces and everyday comfort.
-  Updated: 2026-10-12T11:43:07Z
+  Updated: 2026-10-28T11:42:15Z
   Total Products: 503
 - [Hi-Vis Workwear & Reflective Clothing](https://peppervale.co.uk/collections/hi-vis-workwear-reflective-clothing): Shop hi-vis jackets, trousers, work shirts, hoodies and reflective clothing for safer, more visible working days across UK sites and trades.
   Updated: 2026-09-18T21:39:14Z
   Total Products: 485
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-10-22T14:52:08Z
-  Total Products: 841
+  Updated: 2026-10-29T12:29:38Z
+  Total Products: 832
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-10-22T11:41:31Z
-  Total Products: 374
+  Updated: 2026-10-28T23:30:04Z
+  Total Products: 256
 - [Bedding & Bed Linen](https://peppervale.co.uk/collections/bedding-bed-linen): Shop breathable pillowcases, fitted sheets, duvet covers and comfortable bed linen in soft natural fabrics for a calmer, more inviting bedroom.
-  Updated: 2026-10-21T13:03:19Z
-  Total Products: 729
+  Updated: 2026-10-29T20:10:30Z
+  Total Products: 724
 - [Men's Clothing](https://peppervale.co.uk/collections/mens-workwear-clothing): Shop men's clothing at Peppervale — T-shirts, shirts, jumpers, hoodies, jackets, trousers, jeans, shorts and everyday essentials, plus durable workwear and safety layers. UK sellers, clear delivery and easy returns.
-  Updated: 2026-10-17T10:55:49Z
-  Total Products: 7213
+  Updated: 2026-10-29T16:14:48Z
+  Total Products: 7168
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
   Updated: 2026-10-07T10:53:58Z
   Total Products: 2530
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-15T08:50:36Z
+  Updated: 2026-10-29T12:57:30Z
   Total Products: 15067
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-20T16:47:32Z
+  Updated: 2026-10-29T12:41:50Z
   Total Products: 9980
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
   Updated: 2026-10-19T14:16:32Z
   Total Products: 15609
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-21T09:18:22Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 12076
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-08T18:21:12Z
+  Updated: 2026-10-28T16:39:31Z
   Total Products: 5059
 - [Homeware & Décor](https://peppervale.co.uk/collections/homeware-decor)
   Updated: 2026-09-18T21:55:14Z
@@ -2590,7 +2534,7 @@
   Updated: 2026-09-18T22:52:49Z
   Total Products: 137
 - [eBay ramp - £20 profit](https://peppervale.co.uk/collections/ebay-ramp-20-profit)
-  Updated: 2026-10-20T16:47:32Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 8350
 - [eBay ramp - £20 profit - part 01](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-01)
   Updated: 2026-10-20T16:47:32Z
@@ -2608,13 +2552,13 @@
   Updated: 2026-10-05T12:23:13Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 06](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-06)
-  Updated: 2026-10-01T09:54:40Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 997
 - [eBay ramp - £20 profit - part 07](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-07)
   Updated: 2026-09-18T22:20:11Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 08](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-08)
-  Updated: 2026-09-18T22:44:36Z
+  Updated: 2026-10-26T12:55:14Z
   Total Products: 886
 - [eBay ramp - £20 profit - part 09](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-09)
   Updated: 2026-09-18T23:12:02Z
@@ -2623,13 +2567,13 @@
   Updated: 2026-10-19T14:16:32Z
   Total Products: 11924
 - [eBay ramp - 100pc cost + 15 net](https://peppervale.co.uk/collections/ebay-ramp-100pc-cost-15-net): Auto-built. Qualifies for 100% markup on cost AND >= 15 GBP net profit at +85% MC markup. Not published to any sales channel.
-  Updated: 2026-10-21T09:18:22Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 22496
 - [eBay eligible – stock 3+ and cost ](https://peppervale.co.uk/collections/ebay-eligible-stock-3-cost-): Internal Marketplace Connect source. Products qualify only after all variants pass the Peppervale cost check and at least one variant has Shopify inventory greater than 2.
-  Updated: 2026-10-22T19:20:21Z
-  Total Products: 39632
+  Updated: 2026-10-30T00:49:55Z
+  Total Products: 39171
 - [eBay rollout – audited stock 3+ – 13 Sep 2026](https://peppervale.co.uk/collections/ebay-rollout-audited-stock-3-2026-09-13): Internal Marketplace Connect rollout set generated from the 13 September 2026 Peppervale cost and inventory audit. The live quantity formula remains the final stock safeguard.
-  Updated: 2026-10-21T09:18:22Z
+  Updated: 2026-10-29T13:44:58Z
   Total Products: 35463
 
 ## Blogs
@@ -3009,7 +2953,7 @@
     Updated: 2026-10-09T01:21:04Z
     Author: PepperVale Editorial Team
   - [Children’s country clothing that stands up to school runs](https://peppervale.co.uk/blogs/news/childrens-country-clothing-school-runs): A practical guide to children’s country clothing for UK families, covering fabrics, fit, layers, footwear and what works for daily wear.
-    Updated: 2026-10-09T06:30:06Z
+    Updated: 2026-10-27T03:53:01Z
     Author: peppervale.co.uk
   - [How to read UK safety footwear labels before you buy](https://peppervale.co.uk/blogs/news/how-to-read-uk-safety-footwear-labels-before-you-buy): A practical guide to UK safety footwear standards, labels and ratings, including EN ISO 20345, toe caps, midsoles and slip resistance.
     Updated: 2026-10-10T06:30:06Z
@@ -3067,6 +3011,36 @@
     Author: peppervale.co.uk
   - [Pioneering Ideas in Sustainable Agriculture Practices Explained](https://peppervale.co.uk/blogs/news/pioneering-ideas-in-sustainable-agriculture-practices-explained): Pioneering Ideas in Sustainable Agriculture Practices Explained
     Updated: 2026-10-23T00:12:22Z
+    Author: PepperVale Editorial Team
+  - [How to spot a genuine clothing  online](https://peppervale.co.uk/blogs/news/how-to-spot-a-genuine-clothing--online): A practical UK guide to buying women’s clothing in a , from checking fit and fabric to comparing prices, delivery and returns.
+    Updated: 2026-10-23T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to choose workwear that still looks smart](https://peppervale.co.uk/blogs/news/how-to-choose-workwear-that-still-looks-smart): A practical guide to women's professional clothing in the UK, from office basics to safety footwear, fit, fabrics and dress codes.
+    Updated: 2026-10-26T03:35:08Z
+    Author: peppervale.co.uk
+  - [How to buy women’s clothes online and get the fit right](https://peppervale.co.uk/blogs/news/how-to-buy-womens-clothes-online-and-get-the-fit-right): A practical guide to buying women’s clothes online in the UK, from sizing and fabric to fit, care and building a useful basket.
+    Updated: 2026-10-26T03:33:42Z
+    Author: peppervale.co.uk
+  - [Breaking Down Barriers to a Plastic-Free Lifestyle](https://peppervale.co.uk/blogs/news/breaking-down-barriers-to-a-plastic-free-lifestyle): Breaking Down Barriers to a Plastic-Free Lifestyle
+    Updated: 2026-10-26T00:29:44Z
+    Author: PepperVale Editorial Team
+  - [How to choose women’s co-ords that you will actually wear](https://peppervale.co.uk/blogs/news/how-to-choose-womens-co-ords-that-you-will-actually-wear): A practical guide to women’s sets clothing, including fabrics, fit, sizing and when matching sets are worth buying for everyday wear.
+    Updated: 2026-10-26T06:30:07Z
+    Author: peppervale.co.uk
+  - [How to stay warm outdoors without bulky layers](https://peppervale.co.uk/blogs/news/how-to-stay-warm-outdoors-without-bulky-layers): A practical guide to women’s thermal clothing for extreme cold, including base layers, fabrics, fit, layering and what works for UK winter use.
+    Updated: 2026-10-27T06:30:06Z
+    Author: peppervale.co.uk
+  - [The Evolution of Eco-Friendly Technologies Through the Years](https://peppervale.co.uk/blogs/news/the-evolution-of-eco-friendly-technologies-through-the-years): The Evolution of Eco-Friendly Technologies Through the Years
+    Updated: 2026-10-28T00:22:51Z
+    Author: PepperVale Editorial Team
+  - [Choosing a sage green changing mat that wipes clean](https://peppervale.co.uk/blogs/news/choosing-sage-green-changing-mat-that-wipes-clean): A practical UK guide to choosing a sage green changing mat, including size, materials, wipe-clean covers, safety and what to check before you buy.
+    Updated: 2026-10-28T06:30:06Z
+    Author: peppervale.co.uk
+  - [How to choose a geometric hooded blanket for winter](https://peppervale.co.uk/blogs/news/choose-geometric-hooded-blanket-winter): Learn what a geometric hooded blanket is, which materials suit UK homes, how sizing works and what to check before you buy one online.
+    Updated: 2026-10-29T06:30:04Z
+    Author: peppervale.co.uk
+  - [The Power of Plant-Based Diets for Sustainability: An Educational Insight](https://peppervale.co.uk/blogs/news/the-power-of-plant-based-diets-for-sustainability-an-educational-insight): The Power of Plant-Based Diets for Sustainability: An Educational Insight
+    Updated: 2026-10-30T00:11:19Z
     Author: PepperVale Editorial Team
 
 ## Store Pages
