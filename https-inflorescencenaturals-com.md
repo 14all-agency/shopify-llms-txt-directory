@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-01T05:49:08Z
 - Contact Email: info@inflorescencenaturals.com
-- Updated At: 2026-10-23T00:55:58.522Z
+- Updated At: 2026-10-30T01:25:58.924Z
 
 ## Products
 
@@ -95,7 +95,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/patchouli-earth-eau-de-parfum-inflorescence-naturals-6055336.jpg?v=1785427331
     Price: ₹599.00 INR
 - [Saffron Royale | Natural Eau de Parfum — Saffron Oud Perfume from Kannauj](https://inflorescencenaturals.com/products/saffron-royale-eau-de-parfum): Saffron Royale EDP — botanical, grain-based denatured ethanol Eau de Parfum. Warm saffron, rich oud & sandalwood. Zero harsh synthetics. The fragrance of royalty.
-  Updated: 2026-10-20T15:51:36Z
+  Updated: 2026-10-26T03:00:58Z
   Vendor: Inflorescence Naturals
   Product Type: Eau de Parfum
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/wet-earth-gili-mitti-natural-eau-de-parfum-inflorescence-naturals-8113167.png?v=1788170551
     Price: ₹599.00 INR
 - [Mitti Attar – Traditional Kannauj Attar | First Rain Fragrance | Inflorescence Naturals](https://inflorescencenaturals.com/products/mitti-indian-attar): Mitti Attar from Kannauj, crafted by Deg-Bhapka distillation. Experience the iconic scent of first rain on earth — authentic traditional Indian attar perfumery.
-  Updated: 2026-10-19T10:02:53Z
+  Updated: 2026-10-29T03:19:47Z
   Vendor: Inflorescence Naturals 
   Product Type: Attar
   Availability: Available
@@ -395,7 +395,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/sandalwood-eau-de-parfum-inflorescence-naturals-7955248.png?v=1785427330
     Price: ₹599.00 INR
 - [Ruh Khus | Natural Eau de Parfum — Vetiver Perfume from Kannauj](https://inflorescencenaturals.com/products/ruh-khus-eau-de-parfum): Ruh Khus EDP — botanical, grain-based denatured ethanol vetiver Eau de Parfum. Earthy, smoky & deeply grounding. Zero harsh synthetics. Long-lasting sillage.
-  Updated: 2026-10-20T15:51:36Z
+  Updated: 2026-10-25T15:17:57Z
   Vendor: Inflorescence Naturals 
   Product Type: Eau de Parfum
   Availability: Available
@@ -423,11 +423,11 @@
   Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/assam-oud-bakhoor-attar-gift-set-6ml-each-pack-of-two-gift-set-inflorescence-naturals-1338423.png?v=1785427332
   Price: ₹1,599.00 INR
 - [Assam Oud Eau de Parfum 50 ml | Inflorescence Naturals](https://inflorescencenaturals.com/products/assam-oud-eau-de-parfum-50ml): Discover Assam Oud Natural Eau de Parfum for men, 50 ml. A woody-spicy fragrance made in Kannauj by Inflorescence Naturals.
-  Updated: 2026-10-22T04:56:42Z
+  Updated: 2026-10-25T11:51:05Z
   Vendor: Inflorescence Naturals
   Product Type: Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/assam-oud-natural-eau-de-parfum-50-ml-eau-de-parfum-inflorescence-naturals-6420506.png?v=1792644967
+  Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/assam-oud-natural-eau-de-parfum-50-ml-eau-de-parfum-inflorescence-naturals-6407808.png?v=1792810757
   Price: ₹1,699.00 INR
 - [Oud Noble EDP for Men 50 ml | Inflorescence Naturals](https://inflorescencenaturals.com/products/oud-noble-eau-de-parfum-for-men-50ml): Discover Oud Noble, a rich woody Eau de Parfum for men, crafted with natural Dehn Al Oud attar and grain-based ethanol. 50 ml by Inflorescence Naturals.
   Updated: 2026-10-21T14:37:41Z
@@ -440,28 +440,28 @@
 ## Collections
 
 - [Eau de Parfum](https://inflorescencenaturals.com/collections/eau-de-parfum): Shop our Eau de Parfum range — grain-based denatured ethanol spray perfumes inspired by Kannauj botanicals. Distinct from attars. Shop online India.
-  Updated: 2026-10-21T00:07:17Z
+  Updated: 2026-10-26T11:40:16Z
   Total Products: 15
 - [For Her](https://inflorescencenaturals.com/collections/for-her): Shop natural fragrances for her — Indian attars & EDPs crafted in Kannauj. Rose, jasmine, tuberose & more. Pure botanicals, zero harsh synthetics.
-  Updated: 2026-10-13T11:24:42Z
+  Updated: 2026-10-26T11:40:16Z
   Total Products: 9
 - [For Him](https://inflorescencenaturals.com/collections/for-him): Shop natural fragrances for him — Indian attars & EDPs crafted in Kannauj. Oud, sandalwood, vetiver & more. Pure botanicals, zero harsh synthetics.
-  Updated: 2026-10-21T00:07:17Z
+  Updated: 2026-10-26T11:40:16Z
   Total Products: 13
 - [Unisex](https://inflorescencenaturals.com/collections/unisex): Shop unisex natural fragrances — pure Indian attars & EDPs crafted in Kannauj. 100% natural, zero synthetics. Beautiful fragrances for everyone.
-  Updated: 2026-10-13T11:24:42Z
+  Updated: 2026-10-26T11:40:16Z
   Total Products: 9
 - [Gifting](https://inflorescencenaturals.com/collections/gifting): Gift the art of Kannauj. Shop premium attar gift sets and natural perfume hampers for birthdays, weddings & festivals. Beautifully packaged, delivered across India.
   Updated: 2026-09-02T15:12:42Z
   Total Products: 5
 - [Bestselling](https://inflorescencenaturals.com/collections/bestselling): Shop our most-loved Kannauj attars and natural perfumes. Customer favourites with proven longevity, rich sillage & authentic botanical ingredients.
-  Updated: 2026-10-20T16:07:27Z
+  Updated: 2026-10-29T11:18:26Z
   Total Products: 6
 - [Indian Attars | Kannauj Attars](https://inflorescencenaturals.com/collections/indian-attars): Shop pure Kannauj attars handcrafted using traditional deg-bhapka distillation. Natural, long-lasting Indian attars for men & women. Free shipping on orders above ₹999.
-  Updated: 2026-10-09T11:26:08Z
+  Updated: 2026-10-29T11:18:26Z
   Total Products: 15
 - [All Products](https://inflorescencenaturals.com/collections/all-products): Shop all natural Indian perfumes from Inflorescence Naturals — pure Kannauj attars & EDPs. Pure botanicals, zero harsh synthetics. Find your signature scent.
-  Updated: 2026-10-21T00:07:17Z
+  Updated: 2026-10-29T11:18:26Z
   Total Products: 35
 
 ## Blogs
@@ -595,6 +595,17 @@
     Updated: 2026-10-21T05:53:15Z
     Author: Ravindra kumar
     Tags: Agarwood, Assam Oud, Fragrance Heritage, Indian Perfumery, Kannauj, Oud
+  - [Whispers of Five Perfume Gift Set | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/whispers-of-five-perfume-gift-set): Whispers of Five Perfume Gift Set | Inflorescence Naturals
+    Updated: 2026-10-26T00:58:13Z
+    Author: Ravindra kumar
+    Tags: Diwali Gifting, Eau de Parfum, Fragrance Discovery, Indian Perfumery, Kannauj Perfumery, Perfume Gift Set, Whispers of Five
+  - [Ruh Khus: Discover the Earthy Elegance of Indian Vetiver](https://inflorescencenaturals.com/blogs/news/ruh-khus-discover-the-earthy-elegance-of-indian-vetiver)
+    Updated: 2026-10-27T23:00:19Z
+    Author: Ravindra kumar
+  - [Natural, Organic & Traditional Perfumes: What's the Difference?](https://inflorescencenaturals.com/blogs/news/natural-organic-traditional-or-nature-inspired-understanding-whats-inside-your-perfume): Natural, Organic & Traditional Perfumes: What's the Difference?
+    Updated: 2026-10-27T23:00:25Z
+    Author: Ravindra kumar
+    Tags: Eau de Parfum, Fragrance Education, Kannauj Perfumery, Natural Perfume, Nature-Inspired Perfume, Perfume Ingredients, Traditional Attar
 
 ## Store Pages
 
