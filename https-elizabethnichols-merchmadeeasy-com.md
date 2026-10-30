@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-14T20:53:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:32:42.271Z
+- Updated At: 2026-10-30T00:52:30.721Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0850/5386/6220/files/ENICHIGOTANEWONEHAT.png?v=1789590556
   Price: $35.00 USD
 - [Elizabeth Nichols Photo Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/photo-tee): Elizabeth Nichols Photo Tee in white with front print only. 100% Cotton
-  Updated: 2026-10-22T06:29:56Z
+  Updated: 2026-10-26T00:15:42Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $40.00 USD
 - [You're Welcome Hoodie Elizabeth Nicholes](https://elizabethnichols.merchmadeeasy.com/products/youre-welcome-hoodie): You're Welcome Hoodie in light blue with front, back, and sleeve print. 80% Cotton / 20% Polyester
-  Updated: 2026-10-20T02:05:22Z
+  Updated: 2026-10-26T03:12:27Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -60,7 +60,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Elizabeth Nichols Kiss and Tour Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee): Kiss and Tour Tee in white with front print and back print. 100% Cotton
-  Updated: 2026-10-18T00:56:30Z
+  Updated: 2026-10-26T13:55:37Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -84,10 +84,10 @@
 ## Collections
 
 - [Home page](https://elizabethnichols.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-22T11:29:16Z
+  Updated: 2026-10-27T11:26:24Z
   Total Products: 4
 - [Apparel](https://elizabethnichols.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T11:29:16Z
+  Updated: 2026-10-27T11:26:24Z
   Total Products: 3
 - [Accessories](https://elizabethnichols.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-03T11:29:55Z
@@ -99,7 +99,7 @@
   Updated: 2026-09-28T18:28:59Z
   Total Products: 0
 - [All](https://elizabethnichols.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:29:16Z
+  Updated: 2026-10-27T11:26:24Z
   Total Products: 4
 
 ## Store Pages
