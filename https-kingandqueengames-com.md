@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2026-10-23T00:16:24.816Z
+- Updated At: 2026-10-30T00:44:59.056Z
 
 King And Queen Games, llc
 
@@ -50,7 +50,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/future-flash-booster-box-japanese-8779304.png?v=1771801806
   Price: $115.00 USD
 - [Raging Roar Booster Box (Japanese) - King And Queen Games](https://kingandqueengames.com/products/raging-roar-booster-box): Dragon Ball Super Raging Roar Booster Box - 24 packs, 6 cards each. Perfect for casual and competitive players. Build powerful decks!
-  Updated: 2026-08-19T18:44:25Z
+  Updated: 2026-10-27T16:52:45Z
   Vendor: Bandai
   Product Type: Booster Box
   Availability: Available
@@ -119,6 +119,13 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/2024-yu-gi-oh-rao2-dugares-card-5510184.jpg?v=1771801866
   Price: $30.00 USD
+- [FB04 Ultra Limit Booster Box - King And Queen Games](https://kingandqueengames.com/products/fb04-ultra-limit-booster-box): Dragon Ball Super Card Game Fusion World FB04 Ultra Limit booster box. 24 packs, 12 cards each. Premium collectible for fans.
+  Updated: 2026-10-27T16:54:37Z
+  Vendor: Bandai
+  Product Type: Booster Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/fb04-ultra-limit-booster-box-4320487.jpg?v=1771801805
+  Price: $59.00 USD
 - [Disney Lorcana The First Chapter - King And Queen Games](https://kingandqueengames.com/products/disney-lorcana-the-first-chapter): Disney Lorcana The First Chapter booster box. 24 packs, 12 cards each. Premiere set featuring classic Disney characters. For collectors.
   Updated: 2026-08-19T18:44:37Z
   Vendor: Ravensburger
@@ -217,13 +224,6 @@ King And Queen Games, llc
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/box-of-disaster-6524597.jpg?v=1771801748
   Price: $20.00 USD
-- [Moltres - King And Queen Games](https://kingandqueengames.com/products/moltres): Moltres Fates Collide 2016 reverse holo CGC Mint 9. Card #9/124 with vibrant artwork. Near-flawless graded collectible for serious collectors.
-  Updated: 2026-08-19T18:44:55Z
-  Vendor: Pokémon
-  Product Type: Garded Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/moltres-8916774.jpg?v=1771801748
-  Price: $35.00 USD
 - [Entei - King And Queen Games](https://kingandqueengames.com/products/entei): Entei 2021 Battle Styles 020/163 holo card. Legendary Fire-type Pokémon with dynamic artwork. Rare collectible for competitive players.
   Updated: 2026-08-19T18:44:55Z
   Vendor: Pokémon
@@ -1366,14 +1366,14 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Borsalino-2_8e391b5b-84c7-42db-867f-a2e280190f1f.jpg?v=1782185213
   Price: $2.00 USD
 - [Donquixote Doflamingo OP04-031 Foil NM - One Piece Card Game](https://kingandqueengames.com/products/donquixote-doflamingo-op04-031-one-piece-card-game-nm-foil): Buy Donquixote Doflamingo OP04-031 Foil (Near Mint) from One Piece Card Game. In-stock single at King and Queen Games. Fast shipping.
-  Updated: 2026-08-19T18:47:35Z
+  Updated: 2026-10-28T04:19:10Z
   Vendor: Bandai
   Product Type: Single Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Doflamingo_Donquixote-2_c2f36729-4360-4ce5-a180-6cd50bb6b8d2.jpg?v=1782185213
   Price: $2.00 USD
 - [Charlotte Cracker OP03-108 Foil NM - One Piece Card Game Single](https://kingandqueengames.com/products/charlotte-cracker-op03-108-one-piece-card-game-nm-foil): Buy Charlotte Cracker OP03-108 Foil (Near Mint) from One Piece Card Game. In-stock single at King and Queen Games. Fast shipping.
-  Updated: 2026-08-19T18:47:35Z
+  Updated: 2026-10-28T04:18:16Z
   Vendor: Bandai
   Product Type: Single Card
   Availability: Available
@@ -1394,7 +1394,7 @@ King And Queen Games, llc
   Image: https://cdn.shopify.com/s/files/1/0663/2747/8332/files/Eustass_Kid-2_f5709f84-3874-4cfb-bbb4-a2b58838bb9a.jpg?v=1782185213
   Price: $2.00 USD
 - [Kuzan Aokiji OP02-096 Foil NM - One Piece Card Game Single](https://kingandqueengames.com/products/kuzan-op02-096-one-piece-card-game-nm-foil): Buy Kuzan OP02-096 Foil (Near Mint) from One Piece Card Game. In-stock single at King and Queen Games. Fast shipping.
-  Updated: 2026-08-19T18:47:42Z
+  Updated: 2026-10-29T03:05:36Z
   Vendor: Bandai
   Product Type: Single Card
   Availability: Available
@@ -1688,10 +1688,10 @@ King And Queen Games, llc
   Updated: 2026-10-16T11:16:13Z
   Total Products: 6
 - [Dragon Ball Z Fusion World](https://kingandqueengames.com/collections/dragon-ball-z-fusion-world): Discover the Fascinating Dragon Ball Z Super Fusion World Dragon Ball Z Super Card Game Fusion World What is Dragon Ball Z Fusion? Dragon Ball Z Fusion is an exciting concept where characters combine their powers to create stronger warriors. This fusion process brings together two characters, merging their abilities, strengths, and even their personalities. As fans love to watch these epic transformations, various combinations lead to unique fighters with extraordinary capabilities. The idea not only enhances the battles but also adds an element of surprise, as viewers eagerly anticipate who will fuse next. - King And Queen Games
-  Updated: 2026-09-17T11:16:58Z
-  Total Products: 5
+  Updated: 2026-10-27T17:07:20Z
+  Total Products: 6
 - [Graded Pokemon Cards](https://kingandqueengames.com/collections/graded-pokemon-cards): Buy graded Pokémon cards at King And Queen Games. PSA, BGS & CGC slabs from vintage to modern — authenticated and condition-.
-  Updated: 2026-08-01T05:17:22Z
+  Updated: 2026-10-25T11:14:11Z
   Total Products: 19
 - [Lorcana Booster Boxes](https://kingandqueengames.com/collections/lorcana-booster-boxes): Everything You Need to Know About Lorcana Booster Boxes Lorcana Booster Boxes What Are Lorcana Booster Boxes? Lorcana Booster Boxes are a vital part of the  card game experience. They contain multiple booster packs, each filled with cards that players can use to build their decks. Because these boxes offer a wide variety of cards, they are perfect for collectors and players alike who want to enhance their gameplay. Additionally, each box can hold exclusive or rare cards that are hard to find elsewhere. Therefore, purchasing a Lorcana Booster Box is often an exciting adventure for card enthusiasts. Why Should You Buy Lorcana Booster Boxes? Buying Lorcana Booster Boxes is beneficial for several reasons. First, they provide a great value since you receive multiple booster packs at a lower price compared to buying them individually. However, the thrill of opening packs and discovering new cards adds to the overall enjoyment. Many players find that these boxes help them improve their strategies by providing access to diverse cards, making gameplay more competitive. So, whether you are a seasoned player or a newcomer, having a Lorcana Booster Box can elevate your card-playing experience. - King And Queen Games
   Updated: 2026-08-01T05:23:01Z
@@ -1712,14 +1712,14 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:17:33Z
   Total Products: 4
 - [Smart Products Filter Index - Do not delete](https://kingandqueengames.com/collections/globofilter-best--products-index): - King And Queen Games
-  Updated: 2026-10-16T11:16:13Z
-  Total Products: 314
+  Updated: 2026-10-29T03:13:18Z
+  Total Products: 344
 - [Pokemon Singles](https://kingandqueengames.com/collections/single--cards): Buy Pokémon singles online at King And Queen Games. Shop rare holos, full arts, alt arts, and competitive staples from every set and expansion.
-  Updated: 2026-10-05T11:14:02Z
-  Total Products: 146
+  Updated: 2026-10-27T16:09:25Z
+  Total Products: 153
 - [Lorcana Singles](https://kingandqueengames.com/collections/japanese-lorcana-singles): Shop individual Lorcana  cards at King And Queen Games. Find rare and common singles to complete your Disney Lorcana TCG collection.
-  Updated: 2026-08-01T05:22:04Z
-  Total Products: 11
+  Updated: 2026-10-27T04:29:01Z
+  Total Products: 15
 - [Dragon Ball Z Singles](https://kingandqueengames.com/collections/japanese-dragon-ball-z-fusion-singles): Buy Dragon Ball Z Fusion World single cards at King And Queen Games. Build your deck with individual DBZ TCG cards for players and collectors.
   Updated: 2026-08-01T05:22:37Z
   Total Products: 12
@@ -1736,14 +1736,14 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:19:15Z
   Total Products: 1
 - [New Arrivals ￼](https://kingandqueengames.com/collections/new-arrivals): Discover the latest  card game releases at King And Queen Games. Shop new Pokémon, MTG, Yu-Gi-Oh!, One Piece, and Lorcana products as they arrive.
-  Updated: 2026-10-09T11:14:29Z
-  Total Products: 26
+  Updated: 2026-10-27T17:07:19Z
+  Total Products: 25
 - [[XCloud Search app] All products](https://kingandqueengames.com/collections/cloud-search-all-products): This collection is used by the XCloud Search & Product Filter app (https://apps.shopify.com/cloudsearch) to query information about products in your store.Please do not edit or delete this collection (unless you've removed the app in which case you can safely delete it). - King And Queen Games
-  Updated: 2026-10-16T11:16:13Z
-  Total Products: 314
+  Updated: 2026-10-29T03:13:18Z
+  Total Products: 344
 - [Pokémon  Card Game Products](https://kingandqueengames.com/collections/all-pokemon-cards): Shop authentic Pokémon TCG products including booster boxes, elite trainer boxes, single cards, and sealed packs. Premium Japanese and English cards for collectors and players.
-  Updated: 2026-10-09T11:14:29Z
-  Total Products: 201
+  Updated: 2026-10-27T16:10:00Z
+  Total Products: 208
 - [Yu-Gi-OH Singles](https://kingandqueengames.com/collections/yu-gi-oh): Shop authentic Yu-Gi-Oh  cards and singles. Find rare cards, competitive staples, and collectible Yu-Gi-Oh TCG products at King And Queen Games.
   Updated: 2026-09-20T04:22:06Z
   Total Products: 26
@@ -1751,11 +1751,11 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:20:01Z
   Total Products: 2
 - [All Products](https://kingandqueengames.com/collections/all-products): Your ultimate destination for  card games and collectibles. Explore the full King And Queen Games catalog — featuring Japanese and English Pokémon booster boxes, singles, Yu-Gi-Oh!, Dragon Ball Super, Disney Lorcana, One Piece, and accessories. Whether you're a collector or a player, everything you need is here.
-  Updated: 2026-10-16T11:16:13Z
-  Total Products: 255
+  Updated: 2026-10-29T03:13:18Z
+  Total Products: 285
 - [One-Piece Single Cards](https://kingandqueengames.com/collections/one-piece-single-cards): Shop One Piece single cards at King and Queen Games. Browse rare, holo, and playable singles from all One Piece Card Game sets — perfect for collectors and competitive players. Fast shipping and premium selection.
-  Updated: 2026-08-01T05:27:15Z
-  Total Products: 20
+  Updated: 2026-10-29T03:12:43Z
+  Total Products: 38
 
 ## Blogs
 
@@ -2028,6 +2028,15 @@ King And Queen Games, llc
     Author: King And Queen Games
   - [Checklist for Getting the Best Deals on Japanese Booster Boxes in the USA](https://kingandqueengames.com/blogs/news/checklist-for-getting-the-best-deals-on-japanese-booster-boxes-in-the-usa): Checklist for Getting the Best Deals on Japanese Booster Boxes in the USA
     Updated: 2026-10-19T00:31:36Z
+    Author: King And Queen Games
+  - [Exploring Historical Developments in Japanese Pokemon Booster Box Design](https://kingandqueengames.com/blogs/news/exploring-historical-developments-in-japanese-pokemon-booster-box-design): Exploring Historical Developments in Japanese Pokemon Booster Box Design
+    Updated: 2026-10-23T00:24:50Z
+    Author: King And Queen Games
+  - [Top 5 Reasons Collectors Love Japanese Pokemon Booster Boxes and How to Buy Them in the USA](https://kingandqueengames.com/blogs/news/top-5-reasons-collectors-love-japanese-pokemon-booster-boxes-and-how-to-buy-them-in-the-usa): Top 5 Reasons Collectors Love Japanese Pokemon Booster Boxes and How to Buy Them in the USA
+    Updated: 2026-10-26T00:43:17Z
+    Author: King And Queen Games
+  - [The World of Chinese Pokemon Cards Exploring What Makes Them Unique Compared to Japanese Booster Boxes](https://kingandqueengames.com/blogs/news/the-world-of-chinese-pokemon-cards-exploring-what-makes-them-unique-compared-to-japanese-booster-boxes): The World of Chinese Pokemon Cards Exploring What Makes Them Unique Compared to Japanese Booster Boxes
+    Updated: 2026-10-30T00:22:44Z
     Author: King And Queen Games
 
 ## Store Pages
