@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-15T10:54:19Z
 - Contact Email: leviative@gmail.com
-- Updated At: 2026-10-23T00:31:05.285Z
+- Updated At: 2026-10-30T00:58:27.901Z
 
 ## Products
 
-- [Ecommerce Roadmap for Beginners in India | Leviative](https://leviative.com/products/digital-product): Start with Leviative's Rs. 99 Ecommerce Roadmap. Learn product research, Shopify setup, sourcing, shipping and profitability in a clear beginner sequence.
-  Updated: 2026-10-15T14:22:50Z
+- [Ecommerce Roadmap for Beginners in India | Leviative](https://leviative.com/products/ecommerce-roadmap): Start with Leviative's Rs. 99 Ecommerce Roadmap. Learn product research, Shopify setup, sourcing, shipping and profitability in a clear beginner sequence.
+  Updated: 2026-10-25T20:00:43Z
   Vendor: LEVIATIVE
   Product Type: Roadmap
   Availability: Available
@@ -185,7 +185,16 @@
     Author: Leviative Editorial
     Tags: AI for business, Beginner business, India
   - [Finding the Perfect Fit: How to Identify Ideal Suppliers for Your Indian Ecommerce Venture](https://leviative.com/blogs/blog/finding-the-perfect-fit-how-to-identify-ideal-suppliers-for-your-indian-ecommerce-venture): Finding the Perfect Fit: How to Identify Ideal Suppliers for Your Indian Ecommerce Venture
-    Updated: 2026-10-23T00:09:03Z
+    Updated: 2026-10-23T09:29:35Z
+    Author: Leviative
+  - [The Complete Guide to Navigating India's Supplier Landscape for Ecommerce Success](https://leviative.com/blogs/blog/the-complete-guide-to-navigating-indias-supplier-landscape-for-ecommerce-success): The Complete Guide to Navigating India's Supplier Landscape for Ecommerce Success
+    Updated: 2026-10-26T00:26:47Z
+    Author: Leviative
+  - [Sourcing Strategies in India: An Explainer for Ecommerce Entrepreneurs on Winning Products](https://leviative.com/blogs/blog/sourcing-strategies-in-india-an-explainer-for-ecommerce-entrepreneurs-on-winning-products): Sourcing Strategies in India: An Explainer for Ecommerce Entrepreneurs on Winning Products
+    Updated: 2026-10-28T00:11:27Z
+    Author: Leviative
+  - [Finding the Perfect Match: Solutions for Supplier Sourcing Challenges in Indian Ecommerce](https://leviative.com/blogs/blog/finding-the-perfect-match-solutions-for-supplier-sourcing-challenges-in-indian-ecommerce): Finding the Perfect Match: Solutions for Supplier Sourcing Challenges in Indian Ecommerce
+    Updated: 2026-10-30T00:08:35Z
     Author: Leviative
 
 ## Store Pages
