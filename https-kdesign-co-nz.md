@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2024-10-07T20:11:51Z
 - Contact Email: k@kdesign.co.nz
-- Updated At: 2026-10-23T00:30:16.365Z
+- Updated At: 2026-10-30T00:49:51.280Z
 
 ## Products
 
 - [Paperweight Ornaments](https://kdesign.co.nz/products/paperweight-ornament): Six iconic New Zealand animals, each one ready to travel the world with you. Whether you're heading overseas or simply want a little piece of New Zealand to keep, these charming ornaments make a gift worth giving. Small enough to tuck into any corner of a suitcase (45mm x 30mm), each one comes in its own special presentation box. Made from solid zinc alloy. Designed in New Zealand.
-  Updated: 2026-10-12T20:51:37Z
+  Updated: 2026-10-28T21:10:27Z
   Vendor: My Store
   Product Type: Figurine
   Availability: Available
@@ -45,7 +45,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/Fences.png?v=1786684324
     Price: $17.39 NZD
 - [Linen coloured tea towel with New Zealand Designs. Great for travelers to take home as a gift.](https://kdesign.co.nz/products/tea-towel-natural-nz-designs): Take a little piece of New Zealand home with you. Our 100% cotton tea towels in a beautiful natural colour make a thoughtful and lasting gift. Proudly designed in New Zealand, available in 9 unique designs. 100% natural cotton with black print. Made in India.
-  Updated: 2026-09-09T04:15:09Z
+  Updated: 2026-10-26T04:31:25Z
   Vendor: K DESIGN
   Product Type: Tea Towel
   Availability: Available
@@ -129,7 +129,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/TTNYoudrink.png?v=1786511730
     Price: $13.91 NZD
 - [Playing Cards](https://kdesign.co.nz/products/playing-cards): Beautifully designed pack of playing cards including all of our favourite NZ designs with every suit a different image. Each pack contains 54 unique cards. The sealed pack is 67mm x 92mm in size & weighs 98gms so is a compact gift to take home or send overseas.
-  Updated: 2026-09-09T04:17:15Z
+  Updated: 2026-10-28T21:10:26Z
   Vendor: K DESIGN
   Product Type: Card Game
   Availability: Available
@@ -143,7 +143,7 @@
   Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/GameImage.png?v=1786584963
   Price: $24.35 NZD
 - [Coin Purses](https://kdesign.co.nz/products/coin-purse): The K Design coin purse — small in size, big on style. The perfect companion for travel, everyday carry, or gifting. At 13cm x 8.5cm, it holds coins, cards, and the little things that always go missing. Crafted from waterproof-treated, tight-weave 100% cotton with a robust zip top, and finished in our signature New Zealand designs. 13cm x 6.5cm | Waterproof treated 100% cotton | Recycled yarn
-  Updated: 2026-09-09T04:15:08Z
+  Updated: 2026-10-28T21:10:27Z
   Vendor: K DESIGN
   Product Type: Coin Purse
   Availability: Available
@@ -165,7 +165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/CP_Map.png?v=1786582036
     Price: $7.39 NZD
 - [Cotton Wallets](https://kdesign.co.nz/products/wallet): Every traveller needs a reliable travel pouch — and this is it. The K Design travel wallet keeps your passport, documents, and daily essentials organised and easy to find. At 19cm x 13cm, there's plenty of room for all the important things you can't afford to lose. Made from a tight-weave 100% cotton with a sturdy zip closure — practical, durable, and beautifully designed. 19cm x 13cm | Waterproof treated 100% cotton | Recycled yarn
-  Updated: 2026-09-09T04:15:08Z
+  Updated: 2026-10-28T21:10:27Z
   Vendor: K DESIGN
   Product Type: Cotton Wallet
   Availability: Available
@@ -225,7 +225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/Apron_If_you_dont.png?v=1786588998
     Price: $30.43 NZD
 - [Apron Black Mens | Funny Kitchen Apron | K DESIGN](https://kdesign.co.nz/products/apron-black-mens): Fun and functional black cotton aprons for men. A great gift for kitchen lovers and BBQ fans. Larger fit, proudly designed in New Zealand. Shop K DESIGN.
-  Updated: 2026-09-23T21:18:38Z
+  Updated: 2026-10-26T23:33:10Z
   Vendor: K DESIGN
   Product Type: Apron
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/Apron_BBQ.png?v=1786589466
     Price: $34.79 NZD
   - [I'm a trophy husband](https://kdesign.co.nz/products/apron-black-mens?variant=51460531683574)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/Apron_Trophy_Husband.png?v=1786589466
     Price: $34.79 NZD
   - [Step away from the BBQ](https://kdesign.co.nz/products/apron-black-mens?variant=51460531716342)
@@ -371,7 +371,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/Coasters_White_NZ.png?v=1786670670
     Price: $13.04 NZD
 - [Key Rings](https://kdesign.co.nz/products/key-ring): The perfect little keepsake for travellers or anyone who wants a piece of New Zealand to take home. Small enough to tuck into any bag (40mm x 25mm), each key ring comes on its own special key chain. Made from solid zinc alloy, proudly designed by us.
-  Updated: 2026-09-09T04:15:08Z
+  Updated: 2026-10-28T21:10:27Z
   Vendor: K DESIGN
   Product Type: Key Ring
   Availability: Available
@@ -389,7 +389,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/KR_Cow.png?v=1786671581
     Price: $12.61 NZD
 - [Paper Napkins](https://kdesign.co.nz/products/paper-napkins): Who would have thought — dinner napkins in a box. What a radical idea. No more unsightly napkins getting jumbled up in the drawer. Simply place the whole box on the table, let your guests help themselves, then pop it back in the drawer ready for next time. Genius.Available in three great designs.Details: Each box contains 20 x 3-ply white paper napkins. 210mm x 120mm.
-  Updated: 2026-09-09T04:15:04Z
+  Updated: 2026-10-26T23:39:46Z
   Vendor: K DESIGN
   Product Type: Napkins
   Availability: Available
@@ -421,7 +421,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/OVNIsithot.png?v=1786672022
     Price: $13.04 NZD
 - [NZ Pin Badge | Kiwi, Cow & Sheep Designs | K DESIGN](https://kdesign.co.nz/products/pin-badge): Beautifully detailed NZ pin badges in Kiwi, Cow & Sheep designs. Made from solid zinc alloy. Perfect NZ souvenir or gift. Proudly designed in New Zealand.
-  Updated: 2026-09-09T04:15:05Z
+  Updated: 2026-10-26T23:37:03Z
   Vendor: K DESIGN
   Product Type: Pin Badge
   Availability: Available
@@ -439,7 +439,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/PinSheep.png?v=1786597420
     Price: $7.39 NZD
 - [Pot Mats](https://kdesign.co.nz/products/pot-mat): Good-looking and hardworking, these pot mats are designed to complement any kitchen décor while keeping your benchtop safe from hot pots and pans.
-  Updated: 2026-10-07T23:26:27Z
+  Updated: 2026-10-28T21:10:27Z
   Vendor: K DESIGN
   Product Type: Pot Mat
   Availability: Available
@@ -455,6 +455,10 @@
   - [Stripes](https://kdesign.co.nz/products/pot-mat?variant=51460925423862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/PotStripes.png?v=1786675980
+    Price: $15.22 NZD
+  - [Birds](https://kdesign.co.nz/products/pot-mat?variant=52053892006134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/PotBirds.png?v=1786675979
     Price: $15.22 NZD
 - [Fun Cotton Shoe Bags | Travel & Storage | K DESIGN](https://kdesign.co.nz/products/shoe-bag): Gorgeous natural cotton drawstring shoe bags with fun sayings. Perfect for travel or wardrobe storage. A great gift for shoe lovers. Designed in New Zealand.
   Updated: 2026-09-09T04:15:05Z
@@ -479,7 +483,7 @@
     Image: https://cdn.shopify.com/s/files/1/0724/6590/7958/files/ShoeBagYes.png?v=1786599297
     Price: $13.91 NZD
 - [NZ Tote Bags | Recycled Cotton | Kiwi Designs | K DESIGN](https://kdesign.co.nz/products/tote-bag): Lightweight NZ-themed tote bags made from 100% recycled cotton. Perfect souvenir or everyday bag. Kiwi designs, proudly made in New Zealand. Shop K DESIGN.
-  Updated: 2026-09-23T04:45:42Z
+  Updated: 2026-10-28T21:10:26Z
   Vendor: K DESIGN
   Product Type: Tote Bag
   Availability: Available
@@ -534,25 +538,25 @@
 ## Collections
 
 - [Paperweights](https://kdesign.co.nz/collections/frontpage): Choose from six iconic New Zealand animals — the perfect little gift or keepsake. Compact at just 45 × 30mm, each piece weighs a substantial 75g and comes beautifully presented in its own gift box. Made from solid zinc alloy and designed in New Zealand.
-  Updated: 2026-10-13T11:24:39Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 1
 - [Cotton Wallets & Coin Purses](https://kdesign.co.nz/collections/travel-wallets-coin-purses): Keep your documents handy in these stylish, 100% recycled cotton wallets and coin purses featuring a range of New Zealand designs.
-  Updated: 2026-08-24T02:22:17Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 2
 - [Mens & Womens Aprons](https://kdesign.co.nz/collections/mens-womens-aprons): Both function and funny, our gorgeous aprons will give you something to smile about. A great gift for anyone who enjoys spending time in the kitchen or by the BBQ.
   Updated: 2026-09-23T13:12:03Z
   Total Products: 3
 - [Fun & Games](https://kdesign.co.nz/collections/fun-games): Take home some New Zealand playing cards featuring charming, uniquely Kiwi illustrations. A fun and practical keepsake, perfect for gifting or taking on your travels.
-  Updated: 2026-08-25T11:25:41Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 2
 - [Little Treasures](https://kdesign.co.nz/collections/little-treasures): Little treasures that travel well — the perfect reminder of your New Zealand journey.
-  Updated: 2026-10-13T11:24:39Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 3
 - [Kitchen, Tableware & Things](https://kdesign.co.nz/collections/kitchen-tableware): From the kitchen to the table, our Kitchen & Tableware collection brings bold New Zealand design into your everyday. Featuring aprons, coasters, placemats, pot mats, shoe bags and oven mitts — practical pieces that make great gifts too.
-  Updated: 2026-09-23T13:12:03Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 15
 - [New Zealand](https://kdesign.co.nz/collections/new-zealand): Take home a little piece of New Zealand with these gorgeous New Zealand momentos.
-  Updated: 2026-10-13T11:24:39Z
+  Updated: 2026-10-28T11:21:33Z
   Total Products: 13
 
 ## Store Pages
@@ -577,7 +581,7 @@
 ## Policies
 
 - [Privacy Policy](https://kdesign.co.nz/policies/privacy-policy)
-  Updated: 2024-10-07T20:15:03Z
+  Updated: 2026-10-29T21:32:17Z
 
 ## Optional
 
