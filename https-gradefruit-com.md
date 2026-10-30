@@ -8,7 +8,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-08-28T15:17:32Z
 - Contact Email: contact@gradefruit.com
-- Updated At: 2026-10-23T00:15:58.139Z
+- Updated At: 2026-10-30T00:49:00.699Z
 
 ## Products
 
@@ -28,7 +28,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Analogue Ambience – Vintage Film Look for Your Footage](https://gradefruit.com/products/analogue-ambience): Infuse your footage with the warmth and texture of classic film, bringing a vintage, nostalgic feel to your visuals.
-  Updated: 2026-09-11T13:08:13Z
+  Updated: 2026-10-29T10:39:21Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -133,7 +133,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Cinematic LUTs – Cinematic II LUT Pack | Gradefruit](https://gradefruit.com/products/cinematic-v2): Give your footage a cinematic look in seconds. Cinematic II includes 19 cinematic LUTs + Lightroom presets for DaVinci Resolve, Premiere Pro, Final Cut, CapCut, Lightroo and more.
-  Updated: 2026-10-21T19:33:20Z
+  Updated: 2026-10-29T10:39:19Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -373,7 +373,7 @@
     Availability: Available
     Price: $19.00 USD
 - [Straw and Sun – Bright, Cheerful Outdoor Scenes](https://gradefruit.com/products/straw-and-sun): Evoke the golden hues of sunlit fields and warm, rustic charm with this pack, ideal for bright and cheerful outdoor scenes.
-  Updated: 2026-09-11T13:08:06Z
+  Updated: 2026-10-29T10:39:08Z
   Vendor: GRADEFRUIT
   Product Type: LUTs
   Availability: Available
@@ -544,13 +544,13 @@
   Updated: 2024-08-28T19:36:50Z
   Total Products: 0
 - [LUTs](https://gradefruit.com/collections/luts): Transform your photos and videos with our premium LUT packs! Designed for photographers, videographers, and creators, our LUTs offer stunning color grading options to elevate your visuals effortlessly. Perfect for all skill levels!
-  Updated: 2026-10-22T11:15:45Z
+  Updated: 2026-10-29T11:16:46Z
   Total Products: 34
 - [Bundles](https://gradefruit.com/collections/bundles): Experience the incredible value and versatility of our bundles. Each bundle offers you a wide range of styles and looks to enhance your creative projects. Perfect for creatives who want a comprehensive set of color correction tools while benefiting from large bundle discounts. Everything works on desktop computers and mobile devices.
   Updated: 2026-06-04T05:13:12Z
   Total Products: 1
 - [Lightroom Presets](https://gradefruit.com/collections/lightroom-presets): Enhance your photos instantly with our professional Lightroom Presets! Designed for photographers of all levels, our presets deliver stunning edits with just one click. Perfect for creating vibrant, consistent, and polished images!
-  Updated: 2026-10-22T11:15:45Z
+  Updated: 2026-10-29T11:16:46Z
   Total Products: 34
 
 ## Store Pages
@@ -571,7 +571,7 @@
 ## Policies
 
 - [Privacy Policy](https://gradefruit.com/policies/privacy-policy)
-  Updated: 2024-08-28T15:17:38Z
+  Updated: 2026-10-29T21:33:34Z
 - [Shipping Policy](https://gradefruit.com/policies/shipping-policy)
   Updated: 2024-11-14T13:57:48Z
 - [Refund Policy](https://gradefruit.com/policies/refund-policy)
