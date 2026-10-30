@@ -6,31 +6,31 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-10-23T00:28:28.357Z
+- Updated At: 2026-10-30T01:03:21.006Z
 
 ## Products
 
 - [Balaclava Ninja Hoodie - Men & Women - Gleame](https://gleame.co.in/products/balaclava-hoodie-with-mask-black): Product Details Crafted from a premium fleece cotton blend, this hoodie combines comfort, durability, and modern streetwear style. Featuring a built-in balaclava mask, it offers versatile wear for both casual and outdoor settings. Features: Material: Fleece Cotton blend (soft, warm, and durable) Sleeve: Long sleeves with ribbed cuffs Neck: Hooded with full zip-up closure Design: All-in-one hoodie with integrated balaclava mask Breathable: Mask made from breathable fabric for all-day comfort Fit: Tailored modern fit for a sleek look Style: Unisex design, suitable for men and women Care Instructions: Machine wash cold at 30°C / 85°F Do not bleach Do not tumble dry Do not dry clean Iron on low heat if needed Additional Details: Standard length hoodie with adjustable coverage Built-in balaclava for extra warmth and protection Ideal for everyday wear, outdoor activities, and urban fashion - Gleame
-  Updated: 2026-10-22T17:35:01Z
+  Updated: 2026-10-27T14:13:56Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/en.jpg?v=1779793706
   - [S](https://gleame.co.in/products/balaclava-hoodie-with-mask-black?variant=46532974411930)
-    Availability: Not Available
-    Price: ₹1,099.00 INR
+    Availability: Available
+    Price: ₹1,199.00 INR
   - [M](https://gleame.co.in/products/balaclava-hoodie-with-mask-black?variant=46532974444698)
     Availability: Available
-    Price: ₹1,099.00 INR
+    Price: ₹1,199.00 INR
   - [L](https://gleame.co.in/products/balaclava-hoodie-with-mask-black?variant=46532974477466)
     Availability: Available
-    Price: ₹1,099.00 INR
+    Price: ₹1,199.00 INR
   - [XL](https://gleame.co.in/products/balaclava-hoodie-with-mask-black?variant=46532974510234)
     Availability: Available
-    Price: ₹1,099.00 INR
+    Price: ₹1,199.00 INR
   - [2XL](https://gleame.co.in/products/balaclava-hoodie-with-mask-black?variant=46532974543002)
     Availability: Available
-    Price: ₹1,099.00 INR
+    Price: ₹1,199.00 INR
 - [Ferrari F1 Motorsport Vintage Racer White & Red Jacket Unisex - Gleame](https://gleame.co.in/products/ferrari-f1-motorsport-vintage-racer-white-red-jacket-unisex): White & Red Ferrari F1 Vintage Racer Jacket Ferrari F1 Vintage Racer Jacket – Speed Meets Style Rev up your wardrobe with the White & Red Ferrari F1 Vintage Racer Jacket from Gleame, designed for those who live life in the fast lane. Perfect for parties, events, club outings, travels, and date nights, this jacket combines luxury-inspired design, comfort, and timeless appeal. Crafted with attention to detail, it features a sleek silhouette, vibrant Ferrari-red finish, and vintage racing accents that echo the spirit of Formula 1. Whether layering over casual tees or pairing with your favorite streetwear, this jacket ensures you stand out and feel confident wherever you go. Key Features: Premium Material: Comfortable, durable, and built for everyday wear Vintage Racing Design: Inspired by iconic Ferrari F1 heritage Versatile Styling: Ideal for casual outings, events, and travel Unisex Appeal: Perfect for men and women seeking statement streetwear Elevate your look, flaunt your individuality, and feel the thrill of motorsport-inspired fashion with this must-have Ferrari F1 jacket. - Gleame
   Updated: 2026-09-05T08:37:11Z
   Vendor: Gleame
@@ -165,69 +165,6 @@
   - [White / 2XL](https://gleame.co.in/products/ichigo-kurosaki-oversized-t-shirt-bleach-v3?variant=47821417021594)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/61714366_jpg.webp?v=1780218443
-    Price: ₹1,199.00 INR
-- [Argentina 26 Away Messi Jersey (Embroidery)](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery): Product Details Premium Argentina 26 Away Messi Jersey featuring the legendary Lionel Messi design with high-quality embroidery logo for a premium football look. Inspired by Argentina’s iconic away kit, this jersey is perfect for football fans, Messi supporters, and streetwear lovers who want both comfort and style on and off the field. Player Highlights: World Champion & Argentina Legend Iconic No. 10 Football Jersey Inspired by Lionel Messi’s legendary football journey Premium embroidered crest & detailing Features: Fabric: Breathable premium sports fabric for all-day comfort Fit: Regular athletic fit Logo: Premium embroidery team logo Style: Unisex football streetwear jersey Design: Argentina 26 Away Edition with Messi 10 print Care Instructions: Machine wash cold (30°C) Wash inside-out to protect print & embroidery Do not bleach Do not tumble dry Iron inside-out on low heat Do not iron directly on print or logo Additional Details: Premium football jersey aesthetic with embroidered finish Perfect for match days, casual wear, and football fans Stylish Argentina away jersey inspired by Messi’s legacy Ideal gift for Messi & Argentina supporters
-  Updated: 2026-09-05T08:37:11Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/ChatGPTImageMay26_2026_02_04_09PM.png?v=1779784470
-  - [S](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery?variant=48129605206170)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [M](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery?variant=48129605238938)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [L](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery?variant=48129605271706)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [XL](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery?variant=48129605304474)
-    Availability: Available
-    Price: ₹1,199.00 INR
-  - [2XL](https://gleame.co.in/products/argentina-26-away-messi-jersey-embroidery?variant=48129605337242)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-- [Argentina World Cup Messi Jersey (Embroidery)](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery): Product Details Premium Argentina FIFA World Cup Messi Jersey featuring the legendary Lionel Messi No. 10 design with a premium embroidery logo finish. Inspired by Argentina’s iconic World Cup football kit, this jersey is perfect for football fans, Messi supporters, and streetwear lovers who want to represent champions in style. Player Highlights: World Cup Champion & Argentina Legend Iconic Messi No. 10 Jersey Inspired by Lionel Messi’s historic World Cup journey Premium embroidered crest & professional detailing Features: Fabric: Breathable premium sports fabric for maximum comfort Fit: Regular athletic fit Logo: Premium embroidery team logo Style: Unisex football streetwear jersey Design: Argentina World Cup Edition with Messi 10 print Care Instructions: Machine wash cold (30°C) Wash inside-out to protect print & embroidery Do not bleach Do not tumble dry Iron inside-out on low heat Do not iron directly on print or logo Additional Details: Premium football jersey aesthetic with embroidered finish Perfect for match days, casual wear, and football fans Inspired by Argentina’s historic World Cup legacy Ideal gift for Messi & Argentina supporters
-  Updated: 2026-09-05T08:37:11Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Argentina-World-Cup-Messi-Home-Kit-2026-2.jpg?v=1780219145
-  - [S](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery?variant=48130169503898)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [M](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery?variant=48130169536666)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [L](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery?variant=48130169569434)
-    Availability: Available
-    Price: ₹1,199.00 INR
-  - [XL](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery?variant=48130169602202)
-    Availability: Available
-    Price: ₹1,199.00 INR
-  - [2XL](https://gleame.co.in/products/argentina-world-cup-messi-jersey-embroidery?variant=48130169634970)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-- [Spain World Cup 2026 Away Jersey (EMBROIDERY)](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery): Product Details Premium Spain World Cup 2026 Away Jersey featuring a sleek modern football design with premium embroidery finish. Inspired by Spain’s iconic international football legacy, this jersey is perfect for football fans, jersey collectors, and streetwear lovers who want a stylish and professional match-day look. Team Highlights: Inspired by Spain’s World Cup football heritage Modern Away Edition football design Premium embroidered crest & detailing Perfect blend of football culture and streetwear fashion Features: Fabric: Breathable premium sports fabric for all-day comfort Fit: Regular athletic fit Logo: Premium embroidery finish Style: Unisex football streetwear jersey Design: Spain World Cup 2026 Away Edition Care Instructions: Machine wash cold (30°C) Wash inside-out to protect print & embroidery Do not bleach Do not tumble dry Iron inside-out on low heat Do not iron directly on print or logo Additional Details: Premium football jersey aesthetic with embroidered finish Perfect for match days, casual wear, and football fans Modern Spain away jersey inspired by international football culture Ideal gift for Spain supporters and jersey collectors
-  Updated: 2026-09-05T08:37:11Z
-  Vendor: Gleame
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/JZ5728-1.jpg?v=1780219415
-  - [S](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131536912538)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [M](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131536945306)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [L](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131536978074)
-    Availability: Not Available
-    Price: ₹1,199.00 INR
-  - [XL](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131537010842)
-    Availability: Available
-    Price: ₹1,199.00 INR
-  - [2XL](https://gleame.co.in/products/spain-world-cup-2026-away-jersey-embroidery?variant=48131537043610)
-    Availability: Not Available
     Price: ₹1,199.00 INR
 - [Monkey D. Luffy – Gear 5 Edition Oversied Jersey](https://gleame.co.in/products/monkey-d-luffy-gear-5-edition-oversied-jersey): Product Details Premium anime jersey inspired by Monkey D. Luffy Gear 5 — the legendary awakened form of the future Pirate King from One Piece. Unleashing the true power of the Hito Hito no Mi, Model: Nika, Gear 5 represents ultimate freedom, limitless creativity, and unmatched strength. Perfect for anime streetwear lovers and One Piece fans who embody a fearless spirit. Character Highlights: Awakened Gear 5 Form of Monkey D. Luffy User of the Mythical Zoan Devil Fruit: Hito Hito no Mi, Model: Nika The Warrior of Liberation Limitless power, freedom, and imagination Features: Fit: Relaxed jersey fit Print: High-definition Gear 5 anime graphic print Style: Unisex anime streetwear jersey Design: Breathable and lightweight sports-style design Care Instructions: Machine wash cold (30°C) Do not bleach Do not tumble dry Iron inside-out on low heat Additional Details: Iconic Gear 5 Nika-inspired design Perfect for One Piece fans and anime streetwear outfits Great choice for conventions, anime events, and everyday wear
   Updated: 2026-10-19T14:25:51Z
@@ -419,7 +356,7 @@
     Availability: Available
     Price: ₹1,799.00 INR
 - [Premium Maroon CNY Jacket | Chinese Knot Tang Streetwear Jacket | Gleame](https://gleame.co.in/products/premium-maroon-cny-jacket-chinese-knot-tang-streetwear-unisex-jacket): Shop the Premium Maroon CNY Jacket at Gleame. Crafted from premium suede with traditional Chinese knot buttons, an oversized unisex fit, and luxury Tang-inspired streetwear styling.
-  Updated: 2026-09-05T08:37:11Z
+  Updated: 2026-10-24T23:43:36Z
   Vendor: Gleame
   Product Type: jacket
   Availability: Available
@@ -503,26 +440,26 @@
     Availability: Available
     Price: ₹1,799.00 INR
 - [Sukuna Hoodie | Premium Anime Streetwear](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear): Product Details Inspired by the King of Curses, the Sukuna Oversized Hoodie is crafted from a premium fleece cotton blend for exceptional comfort, warmth, and everyday durability. Designed with a relaxed oversized fit and bold anime-inspired artwork, this Anime Hoodie is perfect for casual wear, streetwear styling, and fans who want to stand out. Product Includes: 1 × Sukuna Oversized Hoodie only. Track Pant is not included and is available separately. Features: Material: Premium Fleece Cotton Blend (soft, warm, and durable) Fit: Oversized fit for maximum comfort and a modern streetwear look Sleeves: Long sleeves with ribbed cuffs Neck: Adjustable hood with drawstrings Design: High-quality Sukuna anime print with premium finish Style: Unisex design for men and women Perfect For: Daily wear, anime events, travel, and streetwear fashion Care Instructions Machine wash cold at 30°C / 85°F Wash inside out to protect the print Do not bleach Do not tumble dry Iron on low heat Additional Details Premium oversized streetwear hoodie Soft fleece interior for all-day comfort Durable print designed for long-lasting wear Perfect gift for anime fans and Sukuna lovers Suitable for everyday wear in all seasons
-  Updated: 2026-09-05T08:37:11Z
+  Updated: 2026-10-24T17:39:36Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Uibok_oversized_black_streetwear_hoodie_with_Ryomen_Sukuna_inspired_distressed_applique_patches_1.jpg?v=1786099442
   - [S](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear?variant=48967571964058)
     Availability: Available
-    Price: ₹2,499.00 INR
+    Price: ₹2,199.00 INR
   - [M](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear?variant=48967571996826)
     Availability: Available
-    Price: ₹2,499.00 INR
+    Price: ₹2,199.00 INR
   - [L](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear?variant=48967572029594)
     Availability: Available
-    Price: ₹2,499.00 INR
+    Price: ₹2,199.00 INR
   - [XL](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear?variant=48967572062362)
     Availability: Available
-    Price: ₹2,499.00 INR
+    Price: ₹2,199.00 INR
   - [2XL](https://gleame.co.in/products/sukuna-oversized-hoodie-premium-anime-streetwear?variant=48967572095130)
     Availability: Available
-    Price: ₹2,499.00 INR
+    Price: ₹2,199.00 INR
 - [Dune Hanfu](https://gleame.co.in/products/dune-hanfu): Colour : Dune Each piece is handcrafted to ensure it receives the attention it deserves. - Regular Fit, Slightly boxy- Chinese Hanfu inspired silhouette- Front closure copper finish metal buckle- Removable & retractable sleeves- Faux Suede Leather - Premium Grain- Asymmetric front closure- Conceived for all-season versatility- Silky inner liningModel is 5ft 6, wearing mediumSIZE GUIDEPlease refer to the detailed measurements above to find your perfect fit. Each size shows chest, length, and sleeve measurements in centimeters.
   Updated: 2026-09-05T08:37:11Z
   Vendor: Gleame
@@ -565,11 +502,74 @@
   - [XL](https://gleame.co.in/products/onyx-hanfu?variant=48978379997338)
     Availability: Available
     Price: ₹7,999.00 INR
+- [Black Cropped Metal Clasp Leather Jacket](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket): Product Details Black Cropped Metal Clasp Leather Jacket designed for a bold, modern streetwear aesthetic. Featuring a sleek black finish, a statement metal clasp closure, and a trendy cropped silhouette, this jacket brings an edgy yet sophisticated touch to any outfit. Its structured design and contemporary styling make it a standout essential for those who appreciate premium streetwear with a rebellious edge. Style Highlights: Statement Metal Clasp Closure Sleek Black Leather-Look Finish Trendy Cropped Silhouette Edgy Minimalist Design with a Premium Streetwear Aesthetic Features: Fit: Contemporary cropped fit Fabric: Leather or leather-look material Closure: Statement metal clasp fastening Color: Classic black Design: Structured silhouette with a sleek, edgy finish Style: Modern luxury-inspired streetwear Care Instructions: Do not machine wash to protect the material and structure. Do not bleach or use harsh cleaning chemicals. Wipe gently with a soft, slightly damp cloth to remove surface dirt. Do not tumble dry or expose to direct heat. Keep away from prolonged direct sunlight to help prevent fading and damage. Store on a padded hanger in a cool, dry place. For stubborn stains, consult a professional cleaner experienced with leather or synthetic leather. Additional Details: A timeless black finish that adds an edgy and sophisticated touch to your wardrobe. A statement metal clasp closure that elevates the jacket's contemporary design. A cropped silhouette perfect for creating bold, fashion-forward outfits. Versatile styling that pairs effortlessly with baggy jeans, cargo pants, fitted tops, and boots. Perfect for everyday streetwear, night outings, concerts, and statement fashion looks. Designed for effortless layering and a confident, modern aesthetic.
+  Updated: 2026-10-27T08:02:56Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Edgy_Aviator_Streetwear_Portrait.png?v=1792843116
+  - [S](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711739546)
+    Availability: Available
+    Price: ₹1,899.00 INR
+  - [M](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711772314)
+    Availability: Available
+    Price: ₹1,899.00 INR
+  - [L](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711805082)
+    Availability: Available
+    Price: ₹1,899.00 INR
+  - [XL](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711837850)
+    Availability: Available
+    Price: ₹1,899.00 INR
+  - [2XL](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711870618)
+    Availability: Available
+    Price: ₹1,899.00 INR
+- [GLEAME FRAN SHIRT - WHITE SILK](https://gleame.co.in/products/gleame-fran-shirt-white-silk): Crafted in luxurious white silk crepe, the GLEAME Fran Shirt features an oversized silhouette, a refined point collar, a classic button placket, and elegant French cuffs for a modern, understated look. Its signature self-tie sashes offer versatile styling options. Tie them at the back for a cinched fit, cross them at the front for a wrap silhouette, or leave them loose for a relaxed finish. DETAILS Colour: White Fabric: Silk crepe Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Dry clean only. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on low heat using a protective cloth, if needed. Store in a cool, dry place away from direct sunlight. Hang on a padded hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
+  Updated: 2026-10-29T19:29:37Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Imports-1of2_V1.jpg?v=1793121626
+  - [XS](https://gleame.co.in/products/gleame-fran-shirt-white-silk?variant=67979858083994)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [S](https://gleame.co.in/products/gleame-fran-shirt-white-silk?variant=67979858116762)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [M](https://gleame.co.in/products/gleame-fran-shirt-white-silk?variant=67979858149530)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [L](https://gleame.co.in/products/gleame-fran-shirt-white-silk?variant=67979858182298)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [XL](https://gleame.co.in/products/gleame-fran-shirt-white-silk?variant=67979858215066)
+    Availability: Available
+    Price: ₹2,799.00 INR
+- [FRAN SHIRT - BLACK CUPRO](https://gleame.co.in/products/fran-shirt-black-cupro): Crafted in luxurious black cupro, the GLEAME Fran Shirt combines an oversized silhouette with a refined point collar, a classic button placket, and elegant French cuffs for a sophisticated, contemporary look. Its signature self-tie sashes create versatile styling possibilities. Tie them at the back for a cinched silhouette, cross them at the front for a wrap effect, or leave them loose for an effortlessly relaxed finish. DETAILS Colour: Black Fabric: Cupro Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Follow the care label; professional dry cleaning is recommended until the fabric's specific care requirements are confirmed. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on a low temperature suitable for cupro, using a protective cloth if needed. Store in a cool, dry place away from direct sunlight. Hang on a suitable hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
+  Updated: 2026-10-29T18:50:06Z
+  Vendor: Gleame
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/19118A58-A3E3-4B4E-B03A-EAB4AEABAC6A_1.png?v=1793201787
+  - [XS](https://gleame.co.in/products/fran-shirt-black-cupro?variant=67987372966042)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [S](https://gleame.co.in/products/fran-shirt-black-cupro?variant=67987372998810)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [M](https://gleame.co.in/products/fran-shirt-black-cupro?variant=67987373031578)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [L](https://gleame.co.in/products/fran-shirt-black-cupro?variant=67987373064346)
+    Availability: Available
+    Price: ₹2,799.00 INR
+  - [XL](https://gleame.co.in/products/fran-shirt-black-cupro?variant=67987373097114)
+    Availability: Available
+    Price: ₹2,799.00 INR
 
 ## Collections
 
 - [Hoodie](https://gleame.co.in/collections/balaclava-hoodies): - Gleame
-  Updated: 2026-10-22T11:19:16Z
+  Updated: 2026-10-28T11:15:47Z
   Total Products: 7
 - [Jacket](https://gleame.co.in/collections/jacket): - Gleame
   Updated: 2026-07-15T16:25:35Z
@@ -581,7 +581,7 @@
   Updated: 2026-09-15T08:53:09Z
   Total Products: 2
 - [Search collection](https://gleame.co.in/collections/search-collection): - Gleame
-  Updated: 2026-10-22T11:19:16Z
+  Updated: 2026-10-28T11:15:47Z
   Total Products: 6
 - [Nihilist Penguine](https://gleame.co.in/collections/nihilist-penguine): - Gleame
   Updated: 2026-07-15T16:25:36Z
@@ -626,7 +626,7 @@
   Updated: 2026-09-06T11:17:02Z
   Total Products: 10
 - [Football Jersey](https://gleame.co.in/collections/football-jersey)
-  Updated: 2026-07-15T16:25:37Z
+  Updated: 2026-10-24T16:07:27Z
   Total Products: 7
 - [Track Pants](https://gleame.co.in/collections/track-pants)
   Updated: 2026-08-11T11:17:21Z
@@ -638,7 +638,13 @@
   Updated: 2026-08-09T09:45:02Z
   Total Products: 2
 - [Sukuna](https://gleame.co.in/collections/sukuna)
-  Updated: 2026-08-28T11:16:41Z
+  Updated: 2026-10-25T11:32:40Z
+  Total Products: 2
+- [Search](https://gleame.co.in/collections/search)
+  Updated: 2026-10-28T11:15:47Z
+  Total Products: 3
+- [Shirt](https://gleame.co.in/collections/shirt)
+  Updated: 2026-10-29T12:33:37Z
   Total Products: 2
 
 ## Blogs
@@ -968,6 +974,8 @@
   Updated: 2026-05-28T11:11:04Z
 - [](https://gleame.co.in/pages/)
   Updated: 2026-05-31T07:50:53Z
+- [Fran Shirt Size Guide](https://gleame.co.in/pages/fran-shirt-size-guide): The Perfect Fit Size Guide Find your ideal fit with our detailed size measurements. SIZE BODY SHOULDER SLEEVE XS 29" 17" 25" S 30" 18" 26" M 31" 19...
+  Updated: 2026-10-28T07:45:16Z
 
 ## Policies
 
