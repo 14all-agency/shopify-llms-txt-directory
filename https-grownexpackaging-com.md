@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-16T12:02:11Z
 - Contact Email: online@grownexpackaging.com
-- Updated At: 2026-10-23T00:21:09.168Z
+- Updated At: 2026-10-30T00:57:15.375Z
 
 ## Products
 
 - [Durable 5 Cavity Chocolate Box with Matt Finish - Grownex Packaging](https://grownexpackaging.com/products/5-pcs-folding-chocolate-box-blue): 5 Cavity Folding Chocolates packing Box - Blue: Perfect for gifting and storing chocolates. High quality, food-safe, lightweight, easy to fold. Shop now!
-  Updated: 2026-10-19T12:06:16Z
+  Updated: 2026-10-29T11:55:46Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: ₹5,399.00 INR
 - [Green Leaf 4 Line Sweet Box 1Kg | India Sweet Box](https://grownexpackaging.com/products/green-leaf-4-line-sweet-box-1kg): Buy Green Leaf 1Kg sweet box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-22T14:55:55Z
+  Updated: 2026-10-27T05:16:06Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -56,7 +56,7 @@
     Availability: Available
     Price: ₹9,599.00 INR
 - [Green Leaf 4 Line Sweet Box 500Gm | Sweet Box Price](https://grownexpackaging.com/products/green-leaf-4-line-sweet-box-500gm): Shop Green Leaf 500Gm sweet box at best sweet box price. Sturdy, festive-ready packaging for sweets & gifts.
-  Updated: 2026-10-22T17:45:57Z
+  Updated: 2026-10-29T07:35:52Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -79,32 +79,8 @@
   - [500 gm / 200](https://grownexpackaging.com/products/green-leaf-4-line-sweet-box-500gm?variant=54475420041507)
     Availability: Available
     Price: ₹8,099.00 INR
-- [Pink Peacock 4 Line Sweet Box 1Kg | Sweet Box Design](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg): Pink Peacock 1Kg sweet box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
-  Updated: 2026-10-22T11:06:06Z
-  Vendor: Grownex Packaging
-  Product Type: Sweet Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/1_Kg_Pink_Peacock_4_Line_Premium_Sweet_Box-1.jpg?v=1770716424
-  - [1 Kg / 2](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=54522655441187)
-    Availability: Available
-    Price: ₹199.00 INR
-  - [1 Kg / 20](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=51448139874595)
-    Availability: Available
-    Price: ₹1,899.00 INR
-  - [1 Kg / 60](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=54475463590179)
-    Availability: Available
-    Price: ₹3,599.00 INR
-  - [1 Kg / 100](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=54475463622947)
-    Availability: Available
-    Price: ₹5,299.00 INR
-  - [1 Kg / 160](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=54475463655715)
-    Availability: Available
-    Price: ₹8,009.00 INR
-  - [1 Kg / 200](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-1kg?variant=54475463688483)
-    Availability: Available
-    Price: ₹9,599.00 INR
 - [Yellow Leaf 4 Line Sweet Box 1Kg | Sweets Packing](https://grownexpackaging.com/products/yellow-leaf-4-line-sweet-box-1kg): Premium Yellow Leaf 1Kg sweet box for elegant sweets packing. Explore sweets packing & festive gift options.
-  Updated: 2026-10-22T07:25:58Z
+  Updated: 2026-10-29T07:35:57Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -128,7 +104,7 @@
     Availability: Available
     Price: ₹9,599.00 INR
 - [Green Elephant 4 Line Sweet Box 1Kg | India Sweet Box](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-1kg): Buy Green Elephant 1Kg sweet box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-21T20:41:56Z
+  Updated: 2026-10-27T06:05:59Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -140,19 +116,19 @@
     Availability: Available
     Price: ₹1,899.00 INR
   - [1 Kg / 60](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-1kg?variant=51448141349155)
-    Availability: Available
+    Availability: Not Available
     Price: ₹3,599.00 INR
   - [1 Kg / 100](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-1kg?variant=54475472929059)
-    Availability: Available
+    Availability: Not Available
     Price: ₹5,299.00 INR
   - [1 Kg / 160](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-1kg?variant=54475472961827)
-    Availability: Available
+    Availability: Not Available
     Price: ₹8,009.00 INR
   - [1 Kg / 200](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-1kg?variant=54475472994595)
-    Availability: Available
+    Availability: Not Available
     Price: ₹9,599.00 INR
 - [Brown Elephant 4 Line Sweet Box 1Kg | Sweet Box Price](https://grownexpackaging.com/products/brown-elephant-4-line-sweet-box-1kg): Shop Brown Elephant 1Kg sweet box at best sweet box price. Sturdy, festive-ready packaging for sweets & gifts.
-  Updated: 2026-10-16T17:48:57Z
+  Updated: 2026-10-29T10:55:56Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -176,7 +152,7 @@
     Availability: Available
     Price: ₹12,399.00 INR
 - [Textured Print 4 Line Sweet Box 1Kg | Sweets Packing](https://grownexpackaging.com/products/textured-print-4-line-sweet-box-1kg): Premium Textured 1Kg sweet box for elegant sweets packing. Explore sweets packing & festive gift options.
-  Updated: 2026-10-22T07:55:49Z
+  Updated: 2026-10-28T13:15:49Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -200,7 +176,7 @@
     Availability: Available
     Price: ₹13,699.00 INR
 - [Red Elephant Foil 4 Line Sweet Box 1Kg | India Sweet Box](https://grownexpackaging.com/products/red-elephant-foil-4-line-sweet-box-1kg): Buy Red Elephant Foil 1Kg sweet box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-20T07:35:46Z
+  Updated: 2026-10-27T21:35:54Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -218,13 +194,13 @@
     Availability: Available
     Price: ₹8,999.00 INR
   - [1 Kg / 160](https://grownexpackaging.com/products/red-elephant-foil-4-line-sweet-box-1kg?variant=54478797242659)
-    Availability: Not Available
+    Availability: Available
     Price: ₹13,439.00 INR
   - [1 Kg / 200](https://grownexpackaging.com/products/red-elephant-foil-4-line-sweet-box-1kg?variant=54478797275427)
-    Availability: Not Available
+    Availability: Available
     Price: ₹15,599.00 INR
 - [Big Size Blue Foil 4 Line Sweet Box | Sweet Box Price](https://grownexpackaging.com/products/big-size-blue-foil-4-line-sweet-box-1kg): Shop Blue Foil sweet box at best sweet box price. Sturdy, festive-ready packaging for sweets & gifts.
-  Updated: 2026-09-30T05:10:35Z
+  Updated: 2026-10-28T09:15:52Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -248,7 +224,7 @@
     Availability: Available
     Price: ₹19,999.00 INR
 - [Pink Peacock 4 Line Sweet Box 500Gm | Sweet Box Design](https://grownexpackaging.com/products/pink-peacock-4-line-sweet-box-500gm): Pink Peacock 500Gm sweet box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
-  Updated: 2026-10-22T10:55:57Z
+  Updated: 2026-10-29T09:25:56Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -272,7 +248,7 @@
     Availability: Available
     Price: ₹8,099.00 INR
 - [Yellow Leaf 4 Line Sweet Box 500Gm | Sweets Packing](https://grownexpackaging.com/products/yellow-leaf-4-line-sweet-box-500gm): Premium Yellow Leaf 500Gm sweet box for elegant sweets packing. Explore sweets packing & festive gift options.
-  Updated: 2026-10-21T12:25:47Z
+  Updated: 2026-10-28T12:45:58Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -296,7 +272,7 @@
     Availability: Available
     Price: ₹8,099.00 INR
 - [Green Elephant 4 Line Sweet Box 500Gm | India Sweet Box](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-500gm): Buy Green Elephant 500Gm sweet box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-20T18:05:47Z
+  Updated: 2026-10-29T11:05:57Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -311,16 +287,16 @@
     Availability: Available
     Price: ₹2,999.00 INR
   - [500 gm / 100](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-500gm?variant=54475473322275)
-    Availability: Available
+    Availability: Not Available
     Price: ₹4,429.00 INR
   - [500 gm / 160](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-500gm?variant=54475473355043)
-    Availability: Available
+    Availability: Not Available
     Price: ₹6,999.00 INR
   - [500 gm / 200](https://grownexpackaging.com/products/green-elephant-4-line-sweet-box-500gm?variant=54475473387811)
-    Availability: Available
+    Availability: Not Available
     Price: ₹8,099.00 INR
 - [Blue Foil 4 Line Sweet Box 500Gm | Sweet Box Design](https://grownexpackaging.com/products/blue-foil-4-line-sweet-box-500gm): Blue Foil 500Gm sweet box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
-  Updated: 2026-10-22T10:45:56Z
+  Updated: 2026-10-29T06:46:25Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -332,7 +308,7 @@
     Availability: Available
     Price: ₹2,154.00 INR
   - [500 gm / 60](https://grownexpackaging.com/products/blue-foil-4-line-sweet-box-500gm?variant=54478795768099)
-    Availability: Available
+    Availability: Not Available
     Price: ₹4,259.00 INR
   - [500 gm / 100](https://grownexpackaging.com/products/blue-foil-4-line-sweet-box-500gm?variant=54478795800867)
     Availability: Not Available
@@ -343,38 +319,8 @@
   - [500 gm / 200](https://grownexpackaging.com/products/blue-foil-4-line-sweet-box-500gm?variant=54478795866403)
     Availability: Not Available
     Price: ₹12,399.00 INR
-- [Pink Gold Foil Lawana Box with 5 Partitions | India Sweet Box](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg): Buy Pink Gold Foil Lawana 5 Partitions lawana box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-10T09:35:57Z
-  Vendor: Grownex Packaging
-  Product Type: Sweet Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-  - [1 Kg / 2](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=54522645676323)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹379.00 INR
-  - [1 Kg / 20](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=53939944685859)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹2,799.00 INR
-  - [1 Kg / 60](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=54482851922211)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹8,299.00 INR
-  - [1 Kg / 100](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=54482851954979)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹12,999.00 INR
-  - [1 Kg / 160](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=54482851987747)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹21,499.00 INR
-  - [1 Kg / 200](https://grownexpackaging.com/products/pink-gold-foil-lawana-box-with-5-partitions-1kg?variant=54482852020515)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_12752.jpg?v=1770711276
-    Price: ₹26,899.00 INR
 - [Orange Gold Foil Lawana Box with 5 Partitions | Sweet Box Design](https://grownexpackaging.com/products/orange-gold-foil-lawana-box-with-5-partitions): Orange Gold Foil Lawana 5 Partitions lawana box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
-  Updated: 2026-10-21T12:25:43Z
+  Updated: 2026-10-28T09:15:56Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -392,7 +338,7 @@
     Availability: Available
     Price: ₹10,999.00 INR
   - [160](https://grownexpackaging.com/products/orange-gold-foil-lawana-box-with-5-partitions?variant=51739984888099)
-    Availability: Available
+    Availability: Not Available
     Price: ₹17,499.00 INR
   - [200](https://grownexpackaging.com/products/orange-gold-foil-lawana-box-with-5-partitions?variant=54522645971235)
     Availability: Not Available
@@ -422,7 +368,7 @@
     Availability: Not Available
     Price: ₹25,699.00 INR
 - [8 Partition Red Book Style Lawana Box | Sweet Box Price](https://grownexpackaging.com/products/8-partition-red-book-style-lawana-box-1kg): Shop 8 Partition Red Book Style Lawana lawana box at best sweet box price. Sturdy, festive-ready packaging for sweets & gifts.
-  Updated: 2026-10-22T07:15:53Z
+  Updated: 2026-10-29T06:46:26Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -446,7 +392,7 @@
     Availability: Available
     Price: ₹34,299.00 INR
 - [Rajasthani Theme Book Style Lawana 5 Partitions | India Sweet Box](https://grownexpackaging.com/products/rajasthani-theme-book-style-lawana-box-with-5-partitions-1kg): Buy Rajasthani Theme Book Style Lawana 5 Partitions lawana box online - premium quality, elegant design, best india sweet box for gifting & mithai packing.
-  Updated: 2026-10-21T04:15:47Z
+  Updated: 2026-10-29T17:05:46Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -470,7 +416,7 @@
     Availability: Available
     Price: ₹34,299.00 INR
 - [Elephant Print 4 Line File Sweet Box 1Kg | Sweet Box Design](https://grownexpackaging.com/products/elephant-print-4-line-file-sweet-box-1kg): Elephant 1Kg file sweet box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
-  Updated: 2026-10-19T12:06:03Z
+  Updated: 2026-10-26T19:37:37Z
   Vendor: Grownex Packaging
   Product Type: Sweet Box
   Availability: Available
@@ -488,7 +434,7 @@
     Availability: Available
     Price: ₹9,999.00 INR
   - [1 Kg / 105](https://grownexpackaging.com/products/elephant-print-4-line-file-sweet-box-1kg?variant=51579597521187)
-    Availability: Available
+    Availability: Not Available
     Price: ₹11,399.00 INR
   - [1 Kg / 120](https://grownexpackaging.com/products/elephant-print-4-line-file-sweet-box-1kg?variant=54500262281507)
     Availability: Not Available
@@ -524,7 +470,7 @@
     Availability: Not Available
     Price: ₹9,999.00 INR
 - [Grownex Packaging: Purple 5 Cavity Box - Lightweight & Eco-Friendly](https://grownexpackaging.com/products/5-pcs-folding-chocolate-box-purple): 5 Cavity Folding Chocolates packing Box - Purple: Perfect for gifting and chocolate storage. High quality 300gsm SBS paperboard. Shop now!
-  Updated: 2026-10-22T12:25:41Z
+  Updated: 2026-10-27T06:15:56Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -533,7 +479,7 @@
     Availability: Available
     Price: ₹599.00 INR
   - [60](https://grownexpackaging.com/products/5-pcs-folding-chocolate-box-purple?variant=54482867814691)
-    Availability: Available
+    Availability: Not Available
     Price: ₹1,699.00 INR
   - [100](https://grownexpackaging.com/products/5-pcs-folding-chocolate-box-purple?variant=54482867847459)
     Availability: Not Available
@@ -545,7 +491,7 @@
     Availability: Not Available
     Price: ₹5,399.00 INR
 - [Lightweight 5 Cavity Chocolate Packaging Box - Food Safe | Grownex Packaging](https://grownexpackaging.com/products/5-pcs-folding-chocolate-box-marble): 5 Cavity Folding Chocolates packing Box - Marble Print: Perfect for gifting chocolates. Features a matt finish, food safe quality, and easy folding. Shop now!
-  Updated: 2026-10-16T10:25:56Z
+  Updated: 2026-10-26T08:35:58Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -587,7 +533,7 @@
     Availability: Available
     Price: ₹6,049.00 INR
 - [8 Cavity Folding Chocolate Packing Box – Floral Red | 300 GSM](https://grownexpackaging.com/products/8-cavity-folding-chocolate-packing-box-floral-red): Premium 8 cavity folding chocolates packing box in floral red design made from 300 GSM SBS paperboard. Ideal for chocolates & gifting.
-  Updated: 2026-10-21T06:45:49Z
+  Updated: 2026-10-27T16:46:24Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -608,7 +554,7 @@
     Availability: Available
     Price: ₹6,049.00 INR
 - [Lightweight Folding Chocolate Packaging Box - 9 Cavities | Grownex](https://grownexpackaging.com/products/9-pcs-folding-chocolate-box-marble-red): 9 Cavity Folding Chocolates Packing Box - Red Marble: Perfect for gifting delicious chocolates. Made with high quality 300gsm SBS Paperboard. Shop now!
-  Updated: 2026-10-22T05:45:46Z
+  Updated: 2026-10-26T08:36:01Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -650,7 +596,7 @@
     Availability: Available
     Price: ₹8,599.00 INR
 - [Premium Pink Chocolate Box with Cavity Tray - 300gsm SBS Paper | Grownex Packaging](https://grownexpackaging.com/products/16-pcs-folding-chocolate-box-pink): 16 Cavity Folding Chocolates Packing Box - Pink: Perfect for gifting chocolates in style. High quality 300gsm SBS Paperboard material. Shop now!
-  Updated: 2026-10-22T17:35:47Z
+  Updated: 2026-10-28T08:45:41Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -662,7 +608,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
   - [100](https://grownexpackaging.com/products/16-pcs-folding-chocolate-box-pink?variant=52059540128035)
-    Availability: Available
+    Availability: Not Available
     Price: ₹4,249.00 INR
   - [160](https://grownexpackaging.com/products/16-pcs-folding-chocolate-box-pink?variant=54483026411811)
     Availability: Not Available
@@ -671,7 +617,7 @@
     Availability: Not Available
     Price: ₹8,599.00 INR
 - [Grownex Packaging 20 Cavity Chocolate Box - Easy to Fold & Odor-Free](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-purple): 20 Cavity Folding Chocolates Packing Box - Purple: Perfect for gifting and chocolate storage. High quality 300gsm SBS Paperboard. Shop now!
-  Updated: 2026-10-16T20:15:48Z
+  Updated: 2026-10-30T00:55:48Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -692,7 +638,7 @@
     Availability: Available
     Price: ₹10,299.00 INR
 - [Premium Folding Chocolate Box - 300gsm SBS & Matt Finish | Grownex](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-pink): 20 Cavity Folding Chocolates Packing Box - Diamond Pink: Perfect for gifting chocolates. High quality 300gsm paperboard with cavity tray and matt finish. Shop now!
-  Updated: 2026-10-02T07:25:47Z
+  Updated: 2026-10-29T11:55:41Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -707,13 +653,13 @@
     Availability: Available
     Price: ₹5,299.00 INR
   - [160](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-pink?variant=54483029426467)
-    Availability: Available
+    Availability: Not Available
     Price: ₹8,349.00 INR
   - [200](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-pink?variant=54483029459235)
-    Availability: Available
+    Availability: Not Available
     Price: ₹10,299.00 INR
 - [Grownex Folding Chocolate Packing Box: 300gsm, Matt Finish & Easy to Fold](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-grey): 20 Cavity Folding Chocolates Packing Box -Grey: Perfect for gifting or storing chocolates. High quality 300gsm SBS Paperboard, food safe, easy to fold. Shop now!
-  Updated: 2026-08-23T05:26:46Z
+  Updated: 2026-10-25T17:45:47Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -728,7 +674,7 @@
     Availability: Available
     Price: ₹5,299.00 INR
   - [160](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-grey?variant=54483029360931)
-    Availability: Available
+    Availability: Not Available
     Price: ₹8,349.00 INR
   - [200](https://grownexpackaging.com/products/20-pcs-folding-chocolate-box-grey?variant=54483029393699)
     Availability: Not Available
@@ -788,7 +734,7 @@
     Availability: Available
     Price: ₹4,249.00 INR
 - [4 Cavity Chocolate Packing Box - Marble Blue](https://grownexpackaging.com/products/4-pcs-cavity-chocolate-box-marble-blue): 4 Pcs Cavity Chocolate Box - Marble Blue: Perfect for gifting chocolates. High Quality Kapaboard material and machine made quality box. Shop now!
-  Updated: 2026-08-23T12:45:47Z
+  Updated: 2026-10-24T12:25:49Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -806,7 +752,7 @@
     Availability: Available
     Price: ₹4,249.00 INR
 - [6 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/6-pcs-cavity-chocolate-box-red): 6 Pcs Cavity Chocolate Box - Red: Perfect for gifting and presenting chocolates. High quality Kapaboard material with cavity tray included. Shop now!
-  Updated: 2026-10-19T12:25:54Z
+  Updated: 2026-10-25T17:45:46Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -824,7 +770,7 @@
     Availability: Available
     Price: ₹5,299.00 INR
 - [6 Cavity Chocolate Packing Box - Marble Blue](https://grownexpackaging.com/products/6-pcs-cavity-chocolate-box-marble-blue): 6 Pcs Cavity Chocolate Box - Marble Blue: Perfect for gifting handmade chocolates. High quality Kapaboard material with included cavity tray. Shop now!
-  Updated: 2026-10-21T19:05:48Z
+  Updated: 2026-10-27T06:35:59Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -839,7 +785,7 @@
     Availability: Available
     Price: ₹2,699.00 INR
   - [100](https://grownexpackaging.com/products/6-pcs-cavity-chocolate-box-marble-blue?variant=52090975944995)
-    Availability: Available
+    Availability: Not Available
     Price: ₹5,299.00 INR
 - [10 Cavity Chocolate Packing Box - Marble Blue](https://grownexpackaging.com/products/10-pcs-cavity-chocolate-box-marble-blue): 10 Pcs Cavity Chocolate Box - Marble Blue: Perfect for gifting or party favors. High quality Kapaboard and lightweight, strong design. Shop now!
   Updated: 2026-09-30T12:16:02Z
@@ -860,7 +806,7 @@
     Availability: Available
     Price: ₹6,999.00 INR
 - [12 Cavity Chocolate Packing Box - Brown](https://grownexpackaging.com/products/12-pcs-cavity-chocolate-box-brown): 12 Pcs Cavity Chocolate Box - Brown: Perfect for gifting homemade chocolates. High quality Kapaboard material and included cavity tray. Shop now!
-  Updated: 2026-10-18T18:05:17Z
+  Updated: 2026-10-29T06:46:27Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -878,7 +824,7 @@
     Availability: Available
     Price: ₹7,549.00 INR
 - [12 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/12-pcs-cavity-chocolate-box-red): 12 Pcs Cavity Chocolate Box - Red: Perfect for gifting chocolates on special occasions. Made from high quality Kapaboard with included cavity tray. Shop now!
-  Updated: 2026-10-19T12:25:52Z
+  Updated: 2026-10-25T10:15:45Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -932,7 +878,7 @@
     Availability: Available
     Price: ₹7,549.00 INR
 - [16 Cavity Chocolate Packing Box - Brown](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-brown): 16 Pcs Cavity Chocolate Box - Brown: Perfect for gifting and presenting chocolates. Made with high quality kapaboard material and includes cavity tray. Shop now!
-  Updated: 2026-10-22T05:55:49Z
+  Updated: 2026-10-29T15:36:08Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -950,7 +896,7 @@
     Availability: Available
     Price: ₹8,999.00 INR
 - [16 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-red): 16 Pcs Cavity Chocolate Box - Red: Perfect for gifting or elegant chocolate presentation. High Quality Kapaboard material for lasting strength. Shop now!
-  Updated: 2026-10-20T13:45:42Z
+  Updated: 2026-10-24T02:55:42Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -986,7 +932,7 @@
     Availability: Available
     Price: ₹8,999.00 INR
 - [16 Cavity Chocolate Packing Box - Marble Blue](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-marble-blue): 16 Pcs Cavity Chocolate Box - Marble Blue: Perfect for gifting chocolates elegantly. Made with high quality Kapaboard and includes a cavity tray. Shop now!
-  Updated: 2026-09-07T10:15:47Z
+  Updated: 2026-10-29T06:46:25Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1004,7 +950,7 @@
     Availability: Available
     Price: ₹8,999.00 INR
 - [16 Cavity Chocolate Packing Box - Stone Print](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-stone-print): 16 Pcs Cavity Chocolate Box - Stone Print: Perfect for gifting or special occasions. High Quality Kapaboard material ensures durability. Shop now!
-  Updated: 2026-10-11T05:56:07Z
+  Updated: 2026-10-26T11:36:07Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1021,42 +967,6 @@
   - [100](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-stone-print?variant=52090996064547)
     Availability: Not Available
     Price: ₹8,999.00 INR
-- [16 Cavity Chocolate Packing Box - Floral Print](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-floral): 16 Pcs Cavity Chocolate Box - Floral: Perfect for gifting and chocolate storage. High quality Kapaboard, lightweight yet strong, cavity tray included. Shop now!
-  Updated: 2026-07-10T13:51:27Z
-  Vendor: Grownex Packaging
-  Product Type: Chocolate Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC04242.jpg?v=1770711964
-  - [10](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-floral?variant=52090996523299)
-    Availability: Available
-    Price: ₹979.00 INR
-  - [30](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-floral?variant=52090996556067)
-    Availability: Available
-    Price: ₹2,929.00 INR
-  - [50](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-floral?variant=52090996588835)
-    Availability: Not Available
-    Price: ₹4,599.00 INR
-  - [100](https://grownexpackaging.com/products/16-pcs-cavity-chocolate-box-floral?variant=52090996621603)
-    Availability: Not Available
-    Price: ₹8,999.00 INR
-- [18 Cavity Chocolate Packing Box - Brown](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-brown): 18 Pcs Cavity Chocolate Box - Brown: Perfect for gifting chocolates or special occasions. High quality Kapaboard material with included cavity tray. Shop now!
-  Updated: 2026-10-13T01:55:46Z
-  Vendor: Grownex Packaging
-  Product Type: Chocolate Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC_0623.jpg?v=1770711975
-  - [10](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-brown?variant=52090997047587)
-    Availability: Available
-    Price: ₹1,099.00 INR
-  - [30](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-brown?variant=52090997080355)
-    Availability: Available
-    Price: ₹3,249.00 INR
-  - [50](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-brown?variant=52090997113123)
-    Availability: Not Available
-    Price: ₹5,299.00 INR
-  - [100](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-brown?variant=52090997145891)
-    Availability: Not Available
-    Price: ₹10,199.00 INR
 - [18 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/18-pcs-cavity-chocolate-box-red): 18 Pcs Cavity Chocolate Box - Red: Perfect for gifting or chocolate storage. High quality Kapaboard material with cavity tray included. Shop now!
   Updated: 2026-09-27T05:36:08Z
   Vendor: Grownex Packaging
@@ -1112,7 +1022,7 @@
     Availability: Available
     Price: ₹10,199.00 INR
 - [24 Cavity Chocolate Packing Box - Brown](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-brown): 24 Pcs Cavity Chocolate Box - Brown: Perfect for gifting chocolates or special occasions. High quality Kapaboard material. Shop now!
-  Updated: 2026-10-21T03:45:54Z
+  Updated: 2026-10-28T09:25:45Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1130,7 +1040,7 @@
     Availability: Available
     Price: ₹10,999.00 INR
 - [24 Cavity Chocolate Packing Box - Red](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-red): 24 Pcs Cavity Chocolate Box - Red: Perfect for gifting chocolates on special occasions. Made from high quality Kapaboard with a cavity tray. Shop now!
-  Updated: 2026-10-19T08:17:37Z
+  Updated: 2026-10-24T12:25:53Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1145,10 +1055,10 @@
     Availability: Available
     Price: ₹5,649.00 INR
   - [100](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-red?variant=52090999832867)
-    Availability: Available
+    Availability: Not Available
     Price: ₹10,999.00 INR
 - [24 Cavity Chocolate Packing Box - Baby Pink](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-baby-pink): 24 Pcs Cavity Chocolate Box - Baby Pink: Perfect for gifting homemade chocolates. High quality Kapaboard material with cavity tray included. Shop now!
-  Updated: 2026-10-13T15:46:04Z
+  Updated: 2026-10-24T12:46:01Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1166,7 +1076,7 @@
     Availability: Available
     Price: ₹10,999.00 INR
 - [24 Cavity Chocolate Packing Box - Marble Blue](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-marble-blue): 24 Pcs Cavity Chocolate Box - Marble Blue: Perfect for gifting chocolates or special occasions. High quality Kapaboard material. Shop now!
-  Updated: 2026-08-24T07:46:03Z
+  Updated: 2026-10-24T12:25:48Z
   Vendor: Grownex Packaging
   Product Type: Chocolate Box
   Availability: Available
@@ -1175,10 +1085,10 @@
     Availability: Available
     Price: ₹1,159.00 INR
   - [30](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-marble-blue?variant=52091001012515)
-    Availability: Available
+    Availability: Not Available
     Price: ₹3,459.00 INR
   - [50](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-marble-blue?variant=52091001078051)
-    Availability: Available
+    Availability: Not Available
     Price: ₹5,649.00 INR
   - [100](https://grownexpackaging.com/products/24-pcs-cavity-chocolate-box-marble-blue?variant=52091001110819)
     Availability: Not Available
@@ -1304,7 +1214,7 @@
     Availability: Not Available
     Price: ₹19,199.00 INR
 - [Black Lid Pattern Earring Box 9.5x9.5x4 cm | Grownex](https://grownexpackaging.com/products/earrings-box-lid-pattern-black): Shop Grownex Black Textured Kapaboard Earring Box 9.5x9.5x4 cm — foam padded interior, machine made, perfect for jewelry retail, wedding & festive gifting. Bulk orders available!
-  Updated: 2026-10-18T18:05:17Z
+  Updated: 2026-10-29T13:05:41Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1350,30 +1260,6 @@
     Price: ₹7,519.00 INR
   - [200](https://grownexpackaging.com/products/earrings-box-lid-pattern-beige?variant=55227189100835)
     Availability: Available
-    Price: ₹17,029.00 INR
-- [Green Lid Pattern Earring Box 9.5x9.5x4 cm | Grownex](https://grownexpackaging.com/products/earrings-box-lid-pattern-green): Shop Grownex Green Lid Pattern Earring Box 9.5x9.5x4 cm — foam padded interior, machine made, perfect for jewelry retail, corporate & festive gifting. Bulk orders available!
-  Updated: 2026-10-19T12:06:18Z
-  Vendor: Grownex Packaging
-  Product Type: Jewellery Box
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC08359.jpg?v=1770716805
-  - [2](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=54526413701411)
-    Availability: Available
-    Price: ₹169.00 INR
-  - [20](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=53940388856099)
-    Availability: Available
-    Price: ₹1,669.00 INR
-  - [60](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=51632848011555)
-    Availability: Available
-    Price: ₹4,759.00 INR
-  - [100](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=51632848142627)
-    Availability: Not Available
-    Price: ₹7,519.00 INR
-  - [160](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=53616970957091)
-    Availability: Not Available
-    Price: ₹7,519.00 INR
-  - [200](https://grownexpackaging.com/products/earrings-box-lid-pattern-green?variant=53616970989859)
-    Availability: Not Available
     Price: ₹17,029.00 INR
 - [Black Lid Pattern Ring Box 4.5x4.5x5 cm | Premium Jewellery Packaging](https://grownexpackaging.com/products/ring-box-lid-pattern-black): Shop Black Lid Pattern Ring Box with textured finish and foam padding. Ideal for jewellery retailers, boutiques, online sellers, gifting businesses, and premium ring packaging.
   Updated: 2026-10-15T09:55:43Z
@@ -1424,7 +1310,7 @@
     Availability: Available
     Price: ₹17,029.00 INR
 - [Textured Green Ring Box, Jewellery Box - 5x5x4.5 cm | Grownex Packaging Quality](https://grownexpackaging.com/products/ring-box-lid-pattern-green): Lid Pattern Ring Box - Green: Perfect for presenting cherished jewelry gifts. Features a textured finish and inner foam padding. Shop now!
-  Updated: 2026-10-06T08:19:25Z
+  Updated: 2026-10-26T12:07:45Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -1568,7 +1454,7 @@
     Availability: Not Available
     Price: ₹20,699.00 INR
 - [14x14x3 Inches Corrugated Mailer Box - White](https://grownexpackaging.com/products/14x14x3-inches-mailer-box-white): 14x14x3 Inches Mailer Box - White: Perfect for securely packing garments and items. Rigid after fold, holds up to 1000g. Shop now!
-  Updated: 2026-10-19T12:06:10Z
+  Updated: 2026-10-29T11:55:55Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1691,7 +1577,7 @@
     Availability: Available
     Price: ₹3,649.00 INR
 - [8.5x7.5x1.75 Inches Corrugated Mailer Box - White](https://grownexpackaging.com/products/8-5x7-5x1-75-inches-mailer-box-white): 8.5x7.5x1.75 Inches Mailer Box - White: Perfect for securely packing and shipping. Rigid after folding, supports up to 700g. Shop now!
-  Updated: 2026-10-22T11:45:58Z
+  Updated: 2026-10-24T09:15:48Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1760,7 +1646,7 @@
     Availability: Available
     Price: ₹4,399.00 INR
 - [6x4.25x1 Inch Corrugated Mailer Box - Baby Pink](https://grownexpackaging.com/products/6x4-inch-mailer-box-baby-pink): 6x4.25x1 Inch Mailer Box - Baby Pink: Perfect for stylish and secure packaging. Rigid and easily foldable with matt laminated finish. Shop now!
-  Updated: 2026-10-06T08:23:58Z
+  Updated: 2026-10-27T13:46:05Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1784,7 +1670,7 @@
     Availability: Available
     Price: ₹11,099.00 INR
 - [6x4.25x1 Inch Corrugated Mailer Box - Sea Green](https://grownexpackaging.com/products/6x4-inch-mailer-box-sea-green): 6x4.25x1 Inch Mailer Box - Sea Green: Perfect for secure and stylish packaging. Rigid after folding, holds up to 200g, matt laminated finish. Shop now!
-  Updated: 2026-10-06T20:23:21Z
+  Updated: 2026-10-24T14:35:59Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1838,7 +1724,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/1000170036_2.jpg?v=1770712549
     Price: ₹16,399.00 INR
 - [4x4x1.5 Inch Corrugated Mailer Box - Sea Green](https://grownexpackaging.com/products/4x4-inch-mailer-box-sea-green): 4x4x1.5 Inch Mailer Box - Sea Green: Perfect for shipping or gifting small items. Rigid after folding, matt laminated, and easily foldable. Shop now!
-  Updated: 2026-10-16T09:25:46Z
+  Updated: 2026-10-28T14:25:48Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1862,7 +1748,7 @@
     Availability: Available
     Price: ₹9,899.00 INR
 - [Premium Baby Pink Corrugated Mailer Box for Packaging – Grownex](https://grownexpackaging.com/products/8-5x7-5x1-5-inch-mailer-box-baby-pink): Baby pink corrugated packaging box for gifting, shipping, product packaging, and small business orders.
-  Updated: 2026-10-13T19:15:57Z
+  Updated: 2026-10-28T12:55:56Z
   Vendor: Grownex Packaging
   Product Type: Mailer Box
   Availability: Available
@@ -1952,7 +1838,7 @@
     Availability: Available
     Price: ₹3,679.00 INR
 - [Stylish Brown Folding Box with Window Design - Grownex Packaging](https://grownexpackaging.com/products/pillow-shape-folding-box-brown): Pillow Shape Folding Box Brown: Perfect for multi purpose use. Window cut design for product visibility. Shop now!
-  Updated: 2026-10-20T08:15:46Z
+  Updated: 2026-10-27T07:06:06Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
@@ -1973,7 +1859,7 @@
     Availability: Available
     Price: ₹2,429.00 INR
 - [Textured Craft Paper Hamper Box - Easy Fold Design | Grownex Packaging](https://grownexpackaging.com/products/8x4-inc-pillow-shape-folding-box-brown): 8x4 Inc Pillow Shape Folding Box Brown: Perfect for multi purpose use. Features a window cut design for product visibility. Shop now!
-  Updated: 2026-10-20T08:15:45Z
+  Updated: 2026-10-27T07:16:08Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
@@ -2117,7 +2003,7 @@
     Availability: Not Available
     Price: ₹3,919.00 INR
 - [Eco-Friendly Pyramid Shape Hamper Box - Easy Fold Design | Grownex Packaging](https://grownexpackaging.com/products/pyramid-shape-folding-box-purple): Pyramid Shape Folding Box Purple: Perfect for multi purpose use as a hamper box. Matt laminated for durability. Shop now!
-  Updated: 2026-10-13T19:15:57Z
+  Updated: 2026-10-27T06:15:51Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
@@ -2177,7 +2063,7 @@
     Availability: Available
     Price: ₹3,439.00 INR
 - [Versatile Baby Pink Hamper Box - 300 GSM Paperboard | Grownex Packaging](https://grownexpackaging.com/products/small-gift-folding-box-baby-pink): Small Gift Folding Box Baby Pink: Perfect for multi purpose use at parties or gifting. Glossy laminated, easy to fold, no pasting required. Shop now!
-  Updated: 2026-10-22T10:45:57Z
+  Updated: 2026-10-29T08:55:55Z
   Vendor: Grownex Packaging
   Product Type: hamper box
   Availability: Available
@@ -2192,7 +2078,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
   - [500](https://grownexpackaging.com/products/small-gift-folding-box-baby-pink?variant=52243223839011)
-    Availability: Available
+    Availability: Not Available
     Price: ₹3,079.00 INR
 - [Decorative Folding Gift Box - 3.5x3.5 Inches, Floral Design | Grownex Packaging](https://grownexpackaging.com/products/small-gift-folding-box-floral-design-2): Small Gift Folding Box Floral Design-2: Perfect for gifting and food storage. Gloss laminated, easy to fold, and multipurpose use. Shop now!
   Updated: 2026-10-18T18:05:17Z
@@ -2213,7 +2099,7 @@
     Availability: Available
     Price: ₹3,079.00 INR
 - [Foil Print Garment Paper Bag 15.5x3.75x13.5 Inch | Grownex](https://grownexpackaging.com/products/garment-bags-foil-print): Shop Grownex Foil Print Garment Paper Bag 15.5x3.75x13.5 Inch — wide profile perfect for saree stores, fashion boutiques & clothing brand packaging. Bulk orders available. Order online India!
-  Updated: 2026-10-20T04:36:17Z
+  Updated: 2026-10-29T07:55:57Z
   Vendor: Grownex Packaging
   Product Type: paper bags
   Availability: Available
@@ -2223,23 +2109,23 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_8175.jpg?v=1770712784
     Price: ₹929.00 INR
   - [30](https://grownexpackaging.com/products/garment-bags-foil-print?variant=51848688927011)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_8174.jpg?v=1770712787
     Price: ₹2,729.00 INR
   - [50](https://grownexpackaging.com/products/garment-bags-foil-print?variant=51848688959779)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_8175.jpg?v=1770712784
     Price: ₹4,539.00 INR
   - [80](https://grownexpackaging.com/products/garment-bags-foil-print?variant=51848688992547)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_8174.jpg?v=1770712787
     Price: ₹7,239.00 INR
   - [100](https://grownexpackaging.com/products/garment-bags-foil-print?variant=51848689025315)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_8175.jpg?v=1770712784
     Price: ₹8,759.00 INR
 - [Luxury Foil Print Garment Bags for Retail & Boutique Packaging – Grownex](https://grownexpackaging.com/products/garment-bags-foil-print-10-5x4x12-5-inch): Enhance your clothing presentation with premium foil print garment bags. Perfect for boutiques, retail stores, fashion brands, gifting, and garment packaging.
-  Updated: 2026-10-07T05:05:50Z
+  Updated: 2026-10-24T09:25:48Z
   Vendor: Grownex Packaging
   Product Type: paper bags
   Availability: Available
@@ -2343,7 +2229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_3224.jpg?v=1770712826
     Price: ₹8,599.00 INR
 - [Pink Peacock Matte Paper Gift Bag 11.5x4.5x13.5 | Grownex](https://grownexpackaging.com/products/pink-peacock-foil-print-paper-bag-10-5x4x12-5-inch): Buy Grownex Pink Peacock Foil Matte Paper Gift Bag 11.5x4.5x13.5 Inch — ideal for wedding return gifts, boutique shopping & festive hampers. Bulk orders available. Shop online India!
-  Updated: 2026-10-22T07:45:43Z
+  Updated: 2026-10-26T11:45:56Z
   Vendor: Grownex Packaging
   Product Type: paper bags
   Availability: Available
@@ -2369,7 +2255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_4648.jpg?v=1770712832
     Price: ₹7,419.00 INR
 - [Beige Floral Paper Gift Bag 13x8.5x6 Inch | Grownex Packaging](https://grownexpackaging.com/products/beige-floral-print-premium-paper-bag-13x8-5x6-inch): Buy Grownex Beige Floral Print Paper Gift Bag 13x8.5x6 Inch — perfect for wedding return gifts, festive hampers, retail & boutique packaging. Bulk orders available. Shop online India!
-  Updated: 2026-10-06T21:45:52Z
+  Updated: 2026-10-25T16:36:03Z
   Vendor: Grownex Packaging
   Product Type: paper bags
   Availability: Available
@@ -2587,7 +2473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/19_10.jpg?v=1785996195
     Price: ₹319.00 INR
 - [Floral Print Blue hamper Basket | Unique Hampers - Grownex Packaging](https://grownexpackaging.com/products/floral-print-blue-hamper-basket): Buy a Floral Print Blue MDF Gift Hamper Basket for Diwali, Navratri, weddings & return gifts. Reusable, handcrafted, elegant packaging. Bulk orders welcome!
-  Updated: 2026-10-22T04:35:47Z
+  Updated: 2026-10-28T15:25:58Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2605,7 +2491,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/1_16.jpg?v=1785994885
     Price: ₹319.00 INR
 - [Floral Orange Gift Basket | Unique Hampers - Grownex Packaging](https://grownexpackaging.com/products/floral-orange-decorative-hamper-basket): Buy a Floral Orange Decorative MDF Gift Hamper Basket online. Reusable, handcrafted & perfect for Diwali, Navratri, weddings, and festive gifting. Shop now!
-  Updated: 2026-10-14T13:35:42Z
+  Updated: 2026-10-29T22:45:50Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2623,7 +2509,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/14_10.jpg?v=1785997051
     Price: ₹319.00 INR
 - [Floral Gold Hamper Basket | Unique Hampers - Grownex Packaging](https://grownexpackaging.com/products/floral-gold-hamper-basket): Floral Gold MDF Gift Hamper Basket – Elevate Your Gifting Game. Reusable, handcrafted & elegant, perfect for Diwali, weddings & corporate gifting. Shop now at Grownex!
-  Updated: 2026-10-22T16:35:49Z
+  Updated: 2026-10-29T05:25:46Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2641,7 +2527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/8_9.jpg?v=1785390830
     Price: ₹319.00 INR
 - [Royal White Gift Basket | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/royal-white-basket): Royal White Gift Basket – premium mdf wooden basket for diwali, navratri, wedding gifting. Reusable, handcrafted & elegant packaging. Shop now at Grownex.
-  Updated: 2026-10-21T08:10:57Z
+  Updated: 2026-10-25T13:05:46Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2659,7 +2545,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/22_4.jpg?v=1785994530
     Price: ₹319.00 INR
 - [Baby Pink Festive Gift Hamper Basket for Baby Shower & Return Gifts – Grownex](https://grownexpackaging.com/products/polka-pink-basket): Beautifully crafted gift hamper baskets for festive gifting, sweets, dry fruits, chocolates, return gifts, and elegant celebration packaging.
-  Updated: 2026-10-22T16:35:48Z
+  Updated: 2026-10-29T06:25:56Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2725,7 +2611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/15_80aa3505-6e2b-40c3-ade6-f2a731159009.jpg?v=1770713001
     Price: ₹29,429.00 INR
 - [Baby Pink Gift Basket with Lace | Pink Hampers - Grownex Packaging](https://grownexpackaging.com/products/baby-pink-lace-basket): Baby Pink Gift Basket with Lace – premium MDF basket, ideal for Diwali, Navratri, festive & wedding gifting. Handcrafted & reusable. Shop at Grownex!
-  Updated: 2026-10-14T11:45:48Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2743,7 +2629,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/84_1.jpg?v=1781954603
     Price: ₹349.00 INR
 - [Orange Wooden Gift Hamper Basket | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/orange-wooden-hamper-basket): Orange Wooden Gift Hamper Basket—premium MDF basket, perfect for Diwali, Navratri, festive & wedding gifting. Reusable, handcrafted & elegant. Shop at Grownex!
-  Updated: 2026-10-09T00:29:41Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2761,7 +2647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/28_6.jpg?v=1785995797
     Price: ₹349.00 INR
 - [Royal Blue Gift Basket with Lace | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/decorative-royal-blue-basket-lace): Royal Blue Lace Gift Basket – Regal Elegance for Every Occasion. Premium MDF, handcrafted & reusable for weddings, Navratri & corporate gifting. Shop at Grownex!
-  Updated: 2026-10-16T07:25:46Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2779,7 +2665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/34_7_642c078e-9cc5-412f-9d54-fb20ac29bf86.jpg?v=1785996874
     Price: ₹349.00 INR
 - [Yellow Gift Basket | Gourmet Hampers For Gifting - Grownex Packaging](https://grownexpackaging.com/products/yellow-hamper-basket): Yellow Gift Hamper Basket – Bright & Cheerful Gifting, Reimagined. Premium MDF, handcrafted & reusable for Diwali, weddings & return gifts. Shop at Grownex!
-  Updated: 2026-10-17T04:45:51Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2797,7 +2683,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/60_2.jpg?v=1781954375
     Price: ₹349.00 INR
 - [Rani Pink Gift Basket with Lace | Pink Hampers - Grownex Packaging](https://grownexpackaging.com/products/rani-pink-mdf-hamper-basket): Rani Pink Lace Hamper Basket – Rich Elegance for Festive Celebrations. Premium MDF, handcrafted & reusable for weddings, Diwali & Navratri. Shop at Grownex!
-  Updated: 2026-10-20T05:15:47Z
+  Updated: 2026-10-29T12:04:46Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2815,7 +2701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/65_3.jpg?v=1781954256
     Price: ₹349.00 INR
 - [Red Gift Hamper Basket with Lace | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/red-hamper-basket-lace): Red Lace Gift Hamper Basket – Classic Charm for Every Celebration. Premium MDF, handcrafted & reusable for Diwali, weddings & corporate gifting. Shop at Grownex!
-  Updated: 2026-10-19T12:06:03Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2833,7 +2719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/26_10.jpg?v=1785996563
     Price: ₹349.00 INR
 - [Golden Jute Gift Basket | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/golden-jute-hamper-basket): Golden Jute Gift Basket – Rustic Elegance Meets Festive Charm. Eco-friendly, handcrafted & reusable for Diwali, weddings & corporate gifting. Shop now!
-  Updated: 2026-10-22T17:35:57Z
+  Updated: 2026-10-28T06:56:12Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2850,7 +2736,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/25_8.jpg?v=1785391508
     Price: ₹349.00 INR
 - [Square Lace Rani Pink Gift Basket | Pink Hampers - Grownex Packaging](https://grownexpackaging.com/products/square-lace-rani-pink-basket): Square Lace Rani Pink Gift Basket – premium mdf wooden basket for diwali, navratri, wedding gifting. Reusable, handcrafted & elegant packaging. Shop now at...
-  Updated: 2026-10-21T15:25:47Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2865,7 +2751,7 @@
     Availability: Available
     Price: ₹349.00 INR
 - [Square Lace Red Gift Basket | Festive Hampers - Grownex Packaging](https://grownexpackaging.com/products/square-lace-red-basket): Square Lace Red Gift Basket – premium mdf wooden basket for diwali, navratri, wedding gifting. Reusable, handcrafted & elegant packaging. Shop now at Grownex.
-  Updated: 2026-10-22T13:35:58Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -2880,7 +2766,7 @@
     Availability: Available
     Price: ₹349.00 INR
 - [Yellow Lace Gift Hamper Basket | Gourmet Hampers - Grownex Packaging](https://grownexpackaging.com/products/square-lace-yellow-basket): Square Lace Yellow Gift Basket – premium mdf wooden basket for navratri, wedding, corporate gifting. Reusable, handcrafted & elegant packaging. Shop now at...
-  Updated: 2026-10-22T13:36:03Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3024,7 +2910,7 @@
     Availability: Available
     Price: ₹2,069.00 INR
 - [Pink Peacock | Corporate Diwali Gift Hampers](https://grownexpackaging.com/products/pink-peacock-dry-fruit-gift-box-3-jars): Shop Pink Peacock – premium corporate diwali gift hampers for employees & clients. Elegant packaging, bulk pricing, order today!
-  Updated: 2026-10-22T12:35:50Z
+  Updated: 2026-10-29T12:04:41Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3045,7 +2931,7 @@
     Availability: Not Available
     Price: ₹42,299.00 INR
 - [Pink Peacock Dry Fruit Gift Box 6 Jars | Wooden Products | house Gifts](https://grownexpackaging.com/products/pink-peacock-dry-fruit-gift-box-6-jars): Make a statement with the Pink Peacock Wooden Dry Fruit Gift Box, a spacious six-jar hamper designed for those who love to gift generously. Each glass jar sits securely within a sturdy wooden frame finished in a striking gold-foil peacock print, while the reliable lock closure ensures safe delivery every time. Perfect for large festive hampers, weddings, and premium client gifting. Shop the collection now!
-  Updated: 2026-10-19T00:17:52Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3066,7 +2952,7 @@
     Availability: Available
     Price: ₹72,599.00 INR
 - [White Marble Print | Diwali Gift Hampers for Corporate](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-2-jars): White Marble Print – top diwali gift hampers for corporate gifting. Premium quality & custom branding available. Order in bulk now!
-  Updated: 2026-10-22T13:45:57Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3087,7 +2973,7 @@
     Availability: Available
     Price: ₹36,999.00 INR
 - [White Marble Wooden Hamper Box with 3 Glass Jars | Diwali Packaging](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-3-jars): Buy White Marble online – stylish diwali packaging for sweets, dry fruits & gifts. Perfect for corporate & personal gifting.
-  Updated: 2026-10-21T12:55:49Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3105,10 +2991,10 @@
     Availability: Available
     Price: ₹21,999.00 INR
   - [100](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-3-jars?variant=51815294042403)
-    Availability: Available
+    Availability: Not Available
     Price: ₹42,299.00 INR
 - [White Marble Dry Fruit Gift Box 4 Jars | Wooden Items | Special Gifts](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-4-jars): Elevate your festive gifting with this White Marble Dry Fruit Gift Box, featuring four glass jars framed in an elegant gold-foil finish. The refined marble exterior brings a premium, sophisticated look to dry fruit and sweet packaging, making it ideal for Diwali hampers and thoughtful corporate presents. Durable, stylish, and ready to impress — order yours today!
-  Updated: 2026-10-21T12:45:49Z
+  Updated: 2026-10-29T12:04:40Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3129,7 +3015,7 @@
     Availability: Available
     Price: ₹55,999.00 INR
 - [White Marble Wooden Dry Fruit Gift Box 6 Jars | Gift Box Design](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-6-jars): Designed for generous gifting, this White Marble Wooden Dry Fruit Gift Box offers six roomy glass jars set within a durable, elegantly finished wooden hamper. The classic marble print lends a premium, versatile look that suits weddings, festivals, and corporate hampers alike. Built to last and styled to impress — shop this spacious hamper today!
-  Updated: 2026-10-22T19:45:48Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3147,10 +3033,10 @@
     Availability: Available
     Price: ₹36,599.00 INR
   - [100](https://grownexpackaging.com/products/white-marble-dry-fruit-gift-box-6-jars?variant=51818539352355)
-    Availability: Available
+    Availability: Not Available
     Price: ₹72,599.00 INR
 - [Red Floral Foil Wooden Hamper Box with 4 Glass Jars | Diwali Sweet Box](https://grownexpackaging.com/products/red-floral-dry-fruit-gift-box-4-jars): Red Floral Foil – elegant diwali sweet box for festive gifting. Premium finish, ideal for corporate orders & family celebrations.
-  Updated: 2026-10-15T11:15:44Z
+  Updated: 2026-10-23T07:15:38Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3171,7 +3057,7 @@
     Availability: Not Available
     Price: ₹55,999.00 INR
 - [Red Floral Wooden Dry Fruit Gift Box 6 Jar | Gift Box Design](https://grownexpackaging.com/products/red-floral-dry-fruit-gift-box-6-jars): Make every gift memorable with this Red Floral Wooden Dry Fruit Box, offering six generous glass jars wrapped in a bold, gold-embossed floral print. Reusable and sturdily built, it's designed to hold dry fruits and sweets while adding a festive flourish to any occasion. A striking centrepiece for premium hampers — order yours today!
-  Updated: 2026-10-22T04:25:48Z
+  Updated: 2026-10-29T07:55:57Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3197,7 +3083,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SQUARE_EDIT_Brown.jpg?v=1770713510
     Price: ₹72,599.00 INR
 - [Blue Peacock Print | Sweet Box Diwali](https://grownexpackaging.com/products/blue-peacock-gift-hamper-box-4-jars): Shop premium sweet box diwali collection – Blue Peacock Print for elegant festive gifting. Bulk corporate orders welcome!
-  Updated: 2026-10-21T12:45:47Z
+  Updated: 2026-10-25T12:25:46Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3209,7 +3095,7 @@
     Availability: Available
     Price: ₹3,089.00 INR
   - [10](https://grownexpackaging.com/products/blue-peacock-gift-hamper-box-4-jars?variant=51817476784419)
-    Availability: Available
+    Availability: Not Available
     Price: ₹6,159.00 INR
   - [50](https://grownexpackaging.com/products/blue-peacock-gift-hamper-box-4-jars?variant=51817476817187)
     Availability: Not Available
@@ -3244,7 +3130,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/654454854.jpg?v=1770713572
     Price: ₹77,599.00 INR
 - [Radha Krishna Festive Hampers | Diwali Packaging | Gifting in India](https://grownexpackaging.com/products/radha-krishna-wooden-gift-hamper-box): Celebrate devotion and tradition with this Radha Krishna Wooden Mithai Box, adorned with a graceful gold-foil print. Thoughtfully designed for sweets, dry fruits, and Pooja offerings, it brings a touch of spirituality to festive gifting. A meaningful choice for Diwali and religious occasions — shop this devotional hamper today!
-  Updated: 2026-10-20T07:45:50Z
+  Updated: 2026-10-28T15:45:47Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3270,7 +3156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/12_a8d14d75-1385-4938-908c-1bfdefb18bcb.jpg?v=1770713598
     Price: ₹29,699.00 INR
 - [Net Pattern Dry fruit Folding Box – Purple | Elegant, Compact Storage & Gifting Box](https://grownexpackaging.com/products/purple-net-pattern-dryfruit-folding-box): Shop the Purple Net-Pattern 4-Compartment Folding Dry fruit Box — durable, hygienic, and compact. Ideal for stylish dry fruit storage, gifting, and pantry organization.
-  Updated: 2026-10-17T05:36:07Z
+  Updated: 2026-10-30T00:55:48Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -3324,7 +3210,7 @@
     Availability: Not Available
     Price: ₹6,999.00 INR
 - [Versatile 2 Jar Tray for Jars - Sky Blue Design by Grownex Packaging](https://grownexpackaging.com/products/2-jar-tray-sky-blue): 2 Jar Sky Blue Tray (Pack of 2): Perfect for events or everyday use. Durable, stylish design enhances presentation and organization. Shop now!
-  Updated: 2026-10-19T12:06:03Z
+  Updated: 2026-10-25T12:45:54Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -3336,7 +3222,7 @@
     Availability: Available
     Price: ₹849.00 INR
 - [Organize with Trendy Sky Blue 3 Jar Tray - Grownex Packaging](https://grownexpackaging.com/products/3-jar-tray-sky-blue): 3 Jar Sky Blue Tray (Pack of 2): Perfect for gifting, organizing, or retail displays. Vibrant color and secure design for standout presentation. Shop now!
-  Updated: 2026-10-08T06:55:56Z
+  Updated: 2026-10-26T07:06:12Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -3348,7 +3234,7 @@
     Availability: Available
     Price: ₹1,145.00 INR
 - [High-Quality Sky Blue 4 Jar Tray - Ideal for Home & Retail Organization | Grownex Packaging](https://grownexpackaging.com/products/4-jar-tray-sky-blue): 4 Jar Sky Blue Tray (Pack of 2): Perfect for retail displays and home use. Durable and stylish tray securely holds jars. Shop now!
-  Updated: 2026-08-19T11:45:47Z
+  Updated: 2026-10-26T07:06:12Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -3384,7 +3270,7 @@
     Availability: Available
     Price: ₹1,099.00 INR
 - [Grey Wooden Tray 2 Jars | Wooden Products | House Gifts](https://grownexpackaging.com/products/grey-wooden-hamper-tray-2-jars): For those who love understated elegance, this Grey Wooden Open Hamper Tray with two jars offers a clean, modern way to gift dry fruits and sweets. Compact at 8x4x2 inches and finished in a sleek grey tone, it suits everyday gifting as well as special occasions. Simple, stylish, and practical — shop now!
-  Updated: 2026-10-08T07:05:47Z
+  Updated: 2026-10-26T07:06:12Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3396,7 +3282,7 @@
     Availability: Available
     Price: ₹895.00 INR
 - [Grey Wooden Tray 3 Jars | Wooden Craft | House Gifts](https://grownexpackaging.com/products/grey-wooden-hamper-tray-3-jars): This Grey Wooden Open Hamper Tray brings a modern touch to traditional gifting, featuring three jars in a sturdy wood finish measuring 11x4x2 inches. Its minimal design makes it a versatile choice for dry fruits, sweets, and snacks, suited to both personal and corporate gifting. Order today and gift with contemporary flair!
-  Updated: 2026-09-16T06:47:23Z
+  Updated: 2026-10-26T06:06:16Z
   Vendor: Grownex Packaging
   Product Type: Dry Fruit Box
   Availability: Available
@@ -3419,6 +3305,24 @@
   - [5](https://grownexpackaging.com/products/grey-wooden-hamper-tray-4-jars?variant=54491064172835)
     Availability: Available
     Price: ₹1,599.00 INR
+- [Stylish 14x10x2 Velvet Wooden Tray for Elegant Packaging | Grownex](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-z-black): This handcrafted wooden tray brings elegance to your gifting and serving needs. Ideal for dry fruits, sweets, or festive hampers, it blends functionality with timeless charm.
+  Updated: 2026-10-26T13:05:56Z
+  Vendor: Grownex Packaging
+  Product Type: Basket & Tray
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC01446.jpg?v=1770713916
+  - [1](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-z-black?variant=52082745573667)
+    Availability: Available
+    Price: ₹229.00 INR
+  - [5](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-z-black?variant=52082745606435)
+    Availability: Available
+    Price: ₹1,116.00 INR
+  - [20](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-z-black?variant=52082745639203)
+    Availability: Not Available
+    Price: ₹3,880.00 INR
+  - [50](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-z-black?variant=52082745671971)
+    Availability: Not Available
+    Price: ₹8,999.00 INR
 - [Grownex Packaging Baby Pink Velvet Wooden Tray - Durable & Chic Design](https://grownexpackaging.com/products/14x10x2-inch-velvet-wooden-tray-baby-pink): Elegant wooden tray hamper baskets perfect for festive gifting. Ideal for presenting sweets, dry fruits, chocolates, and more in a stylish way.
   Updated: 2026-10-16T19:05:43Z
   Vendor: Grownex Packaging
@@ -3442,7 +3346,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/IMG_7982.jpg?v=1770713942
     Price: ₹8,999.00 INR
 - [Royal Blue Designer Triangle Basket | Festive Hampers - Grownex](https://grownexpackaging.com/products/royal-blue-triangle-mdf-basket): Royal Blue Designer Triangle Basket – Elegant Design, Secure Fit. Jar padding for dry fruits, handcrafted & reusable for Navratri & weddings. Shop now!
-  Updated: 2026-10-09T00:29:41Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: Basket & Tray
   Availability: Available
@@ -3460,7 +3364,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC06167.jpg?v=1770713957
     Price: ₹359.00 INR
 - [Green Lid Pattern Earring Box 9.5x9.5x4 cm | Grownex](https://grownexpackaging.com/products/earrings-box-lid-pattern-grey): Shop Grownex Green Lid Pattern Earring Box 9.5x9.5x4 cm — foam padded interior, machine made, perfect for jewellery retail, corporate & festive gifting. Bulk orders available!
-  Updated: 2026-10-06T08:47:24Z
+  Updated: 2026-10-29T11:05:56Z
   Vendor: Grownex Packaging
   Product Type: Jewellery Box
   Availability: Available
@@ -3532,7 +3436,7 @@
     Availability: Available
     Price: ₹18,169.00 INR
 - [Pink Peacock Dry Fruit Gift Box 2 Jars | Pink Hampers | House Gifts](https://grownexpackaging.com/products/pink-peacock-dry-fruit-gift-box-2-jars): Charm your loved ones with the Pink Peacock Wooden Gift Box, a compact two-jar hamper finished in gold foil with a secure clasp lock. Perfectly sized for weddings, festivals, and special occasions, it's an elegant way to present dry fruits and sweets without compromising on style. Shop this graceful little hamper today!
-  Updated: 2026-10-22T12:35:45Z
+  Updated: 2026-10-29T12:04:45Z
   Vendor: Grownex Packaging
   Product Type: wooden box
   Availability: Available
@@ -3552,18 +3456,113 @@
   - [100](https://grownexpackaging.com/products/pink-peacock-dry-fruit-gift-box-2-jars?variant=51814393413923)
     Availability: Available
     Price: ₹36,999.00 INR
-[List Continued](https://grownexpackaging.com/a/llms-agent/llms.txt?shop=6b9a8a-60.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NzU0MjY3MjIyMzA3LCJsYXN0X3ZhbHVlIjoiOTc1NDI2NzIyMjMwNyJ9)
+- [Green Garden Wooden Box 3 Jars | Festive Hampers | Corporate Gifts](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars): Celebrate with a burst of colour using this Green Garden Wooden Hamper Box, featuring three glass jars wrapped in a vivid garden print with a gold-foil finish. Sturdily built for festive gifting and celebrations, it's a fresh, vibrant pick that stands out among traditional hampers. Shop the collection today!
+  Updated: 2026-10-29T12:04:40Z
+  Vendor: Grownex Packaging
+  Product Type: wooden box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/186_1.jpg?v=1789621605
+  - [1](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars?variant=51815297286435)
+    Availability: Available
+    Price: ₹499.00 INR
+  - [5](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars?variant=51815297319203)
+    Availability: Not Available
+    Price: ₹2,449.00 INR
+  - [10](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars?variant=51815297351971)
+    Availability: Not Available
+    Price: ₹4,799.00 INR
+  - [50](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars?variant=51815297384739)
+    Availability: Not Available
+    Price: ₹22,999.00 INR
+  - [100](https://grownexpackaging.com/products/green-garden-festive-hamper-box-3-jars?variant=51815297417507)
+    Availability: Not Available
+    Price: ₹42,299.00 INR
+- [Royal Blue Foil Print Sweet | Diwali Gift Hampers for Corporate](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg): Royal Blue Foil Print Sweet & Chocolate – top diwali gift hampers for corporate gifting. Premium quality & custom branding available. Order in bulk now!
+  Updated: 2026-10-28T12:15:48Z
+  Vendor: Grownex Packaging
+  Product Type: wooden box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+  - [1 Kg / 1](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg?variant=51841092354339)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+    Price: ₹299.00 INR
+  - [1 Kg / 10](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg?variant=51841092387107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+    Price: ₹2,299.00 INR
+  - [1 Kg / 40](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg?variant=51841092419875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+    Price: ₹8,499.00 INR
+  - [1 Kg / 80](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg?variant=51841092452643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+    Price: ₹16,799.00 INR
+  - [1 Kg / 150](https://grownexpackaging.com/products/royal-blue-foil-print-sweet-gift-box-1kg?variant=51841092485411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/SUB_0332.jpg?v=1770716098
+    Price: ₹31,299.00 INR
+- [Brown Foil Magnetic File Box 1Kg | Sweet Box Price](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg): Shop Brown Foil Magnetic 1Kg magnetic file box at best sweet box price. Sturdy, festive-ready packaging for sweets & gifts.
+  Updated: 2026-10-22T12:15:46Z
+  Vendor: Grownex Packaging
+  Product Type: Sweet Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC00391_fe6bf48b-51f6-4a18-a576-c2f85f1e7ccf.jpg?v=1770714063
+  - [1 Kg / 2](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=54223207301411)
+    Availability: Available
+    Price: ₹499.00 INR
+  - [1 Kg / 10](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=51847307985187)
+    Availability: Available
+    Price: ₹2,399.00 INR
+  - [1 Kg / 50](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=51847308017955)
+    Availability: Available
+    Price: ₹9,499.00 INR
+  - [1 Kg / 100](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=51847308050723)
+    Availability: Available
+    Price: ₹18,899.00 INR
+  - [1 Kg / 150](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=51847308083491)
+    Availability: Available
+    Price: ₹28,199.00 INR
+  - [1 Kg / 200](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-1kg?variant=51847308116259)
+    Availability: Available
+    Price: ₹37,599.00 INR
+- [Brown Foil Magnetic File Box 500Gm | Sweet Box Design](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm): Brown Foil Magnetic 500Gm magnetic file box - stylish sweet box design ideal for Diwali, weddings & mithai gifting in India.
+  Updated: 2026-10-21T06:45:46Z
+  Vendor: Grownex Packaging
+  Product Type: Sweet Box
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0903/5851/3955/files/DSC00391_8ab1dce4-db97-41d0-a64a-f7079b93e710.jpg?v=1770714079
+  - [500 gm / 2](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=54523643887907)
+    Availability: Available
+    Price: ₹399.00 INR
+  - [500 gm / 10](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=51847313064227)
+    Availability: Available
+    Price: ₹1,899.00 INR
+  - [500 gm / 50](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=51847313096995)
+    Availability: Available
+    Price: ₹8,999.00 INR
+  - [500 gm / 100](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=51847313129763)
+    Availability: Available
+    Price: ₹16,899.00 INR
+  - [500 gm / 150](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=51847313162531)
+    Availability: Available
+    Price: ₹24,799.00 INR
+  - [500 gm / 200](https://grownexpackaging.com/products/brown-foil-magnetic-file-box-500gm?variant=51847313195299)
+    Availability: Available
+    Price: ₹31,999.00 INR
+[List Continued](https://grownexpackaging.com/a/llms-agent/llms.txt?shop=6b9a8a-60.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NzU1ODI2NTg1ODkxLCJsYXN0X3ZhbHVlIjoiOTc1NTgyNjU4NTg5MSJ9)
 
 ## Collections
 
 - [Sweet Mithai Boxes](https://grownexpackaging.com/collections/sweet-box): Shop empty sweet boxes for mithai, sweets & festive gifting. Beautiful designs for sweet shops, home bakers & gifting businesses.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 91
 - [Chocolate Boxes](https://grownexpackaging.com/collections/chocolate-box): Shop empty chocolate boxes in folding & rigid styles for gifting. Fill with your favourite chocolates & gift with love.
-  Updated: 2026-10-20T11:19:03Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 79
 - [Hamper Boxes](https://grownexpackaging.com/collections/hamper-box): Shop premium Gift Hamper Boxes & stylish Hamper Items for festive, wedding and corporate gifting. Explore elegant designs and order your perfect hamper today!
-  Updated: 2026-10-18T11:18:06Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 58
 - [Mailer Boxes](https://grownexpackaging.com/collections/mailer-box): Shop empty mailer boxes for ecommerce, shipping & branded packaging. Perfect for online businesses & bulk orders.
   Updated: 2026-10-05T10:23:52Z
@@ -3572,28 +3571,28 @@
   Updated: 2026-10-12T11:21:11Z
   Total Products: 27
 - [Recommended products (Seguno)](https://grownexpackaging.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to  - Grownex Packaging
-  Updated: 2026-10-22T14:26:29Z
-  Total Products: 550
+  Updated: 2026-10-29T11:15:06Z
+  Total Products: 543
 - [Wooden Dry Fruit Boxes](https://grownexpackaging.com/collections/wooden-dry-fruit-boxes): Shop empty wooden dry fruit boxes for a luxurious gifting touch. Available in multiple jar sizes, ideal for festive gifts.
-  Updated: 2026-10-21T11:20:18Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 39
 - [Gift Hamper Baskets](https://grownexpackaging.com/collections/basket-tray): Shop empty gift hamper baskets for weddings, festivals & everyday gifting. Fill with your favourites & gift with love.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 72
 - [Dry Fruit Gift Boxes](https://grownexpackaging.com/collections/dry-fruit-box): Shop empty dry fruit gift boxes in folding, rigid & wooden styles. Perfect for gifting, sweet shops & businesses.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 28
 - [Paper Bags](https://grownexpackaging.com/collections/paper-bags): Shop paper bags for gifting, sweets & retail packaging. Perfect for sweet shops, retailers, brands & bulk orders.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-27T11:17:27Z
   Total Products: 35
 - [Bakery Boxes](https://grownexpackaging.com/collections/bakery-box): Shop empty bakery boxes for cakes, pastries & desserts. Perfect for bakeries, home bakers, caterers & bulk orders.
   Updated: 2026-09-23T04:43:45Z
   Total Products: 27
 - [Smart Products Filter Index - Do not delete](https://grownexpackaging.com/collections/globofilter-best--products-index): - Grownex Packaging
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 726
 - [test](https://grownexpackaging.com/collections/test): - Grownex Packaging
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 40
 - [Wedding Shagun Trays](https://grownexpackaging.com/collections/tray): Shop empty wedding shagun trays to fill with sweets & shagun. Perfect for ceremonies filled with blessings.
   Updated: 2026-10-17T11:28:32Z
@@ -3605,13 +3604,13 @@
   Updated: 2026-10-10T11:18:50Z
   Total Products: 44
 - [Diwali Gift Boxes](https://grownexpackaging.com/collections/diwali-gift-boxes): Shop empty Diwali gift boxes to fill with sweets, dry fruits & diyas. Wrap up warmth & light this festive season.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 69
 - [Ganesh Chaturthi Gift Boxes](https://grownexpackaging.com/collections/ganesh-chaturthi-gift-boxes): Shop empty Ganesh Chaturthi gift boxes to fill with modaks & sweets. Celebrate Bappa's arrival in style.
   Updated: 2026-10-21T11:20:18Z
   Total Products: 31
 - [All You Need to Know About Diversity](https://grownexpackaging.com/collections/all): Discover what diversity means in society, its importance, and how it shapes our lives. Learn why embracing all differences matters.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 726
 - [Rakhi Gift Boxes](https://grownexpackaging.com/collections/rakhi-gift-box): Shop empty Rakhi gift boxes to fill with love for your sibling. Perfect for rakhi hampers & heartfelt surprises.
   Updated: 2026-09-22T11:26:43Z
@@ -3629,43 +3628,43 @@
   Updated: 2026-10-22T11:22:40Z
   Total Products: 31
 - [Luxury Gifting Combo](https://grownexpackaging.com/collections/luxury-gifting-combo): Shop premium combo packaging, combo boxes & luxury gift packaging. Discover stylish, durable and ready-to-gift packaging solutions for every special occasion.
-  Updated: 2026-10-12T11:21:11Z
+  Updated: 2026-10-26T11:20:45Z
   Total Products: 26
 - [Wedding Collection](https://grownexpackaging.com/collections/wedding-collection): Shop stylish wedding boxes, the gift box & unique gift box ideas for weddings. Discover premium gift packaging at GROWNEX Packaging for every celebration.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 120
 - [Navaratri Return Gifts](https://grownexpackaging.com/collections/navaratri-gifting-basket): Shop empty Navratri return gift boxes to fill & share with loved ones. Perfect for pujas, gatherings & celebrations.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-27T11:17:27Z
   Total Products: 43
 - [Customized Sweet Boxes](https://grownexpackaging.com/collections/customized-sweet-boxes): Shop customized sweet boxes with your name or logo. Perfect for personal gifting, brands & festive celebrations.
   Updated: 2026-10-15T11:16:52Z
   Total Products: 26
 - [Folding Chocolate Boxes](https://grownexpackaging.com/collections/chocolate-boxes): Shop empty folding chocolate boxes, easy to fill & gift. Great for everyday treats, parties & gifting too.
-  Updated: 2026-10-20T11:19:03Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 27
 - [Rigid Chocolate Boxes](https://grownexpackaging.com/collections/rigid-box): Shop empty rigid chocolate boxes for a premium gifting look. Perfect for special occasions & festive gifting.
-  Updated: 2026-10-19T11:18:16Z
+  Updated: 2026-10-26T11:20:45Z
   Total Products: 47
 - [Optionize Add-ons](https://grownexpackaging.com/collections/optionize-add-ons): - Grownex Packaging
   Updated: 2026-07-10T13:08:55Z
   Total Products: 0
 - [Wedding Lawana & Mix Mithai Boxes](https://grownexpackaging.com/collections/lawana-bhaji-boxes): Shop empty Lawana & mix mithai boxes to fill with sweets for weddings. Carry forward tradition with every gift.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-25T11:19:08Z
   Total Products: 23
 - [Personalized Jewellery Boxes](https://grownexpackaging.com/collections/personalized-jewellery-boxes): Shop personalized jewellery boxes with custom designs & names. Add a special touch to every jewellery gift.
   Updated: 2026-09-23T04:35:01Z
   Total Products: 4
 - [APPPlaza - Best Sellers](https://grownexpackaging.com/collections/appplaza-best-sellers): Explore the trending collections in APPPlaza - Best Sellers for must-have apps that fit your needs.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 694
 - [Premium Hamper Boxes](https://grownexpackaging.com/collections/premium-packaging-hamper-boxes): Shop empty premium hamper boxes for luxury gifting. Fill with sweets, dry fruits or chocolates & gift in style.
-  Updated: 2026-10-19T11:18:16Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 26
 - [Holi](https://grownexpackaging.com/collections/holi): Celebrate the festival of colors with our Holi Gifting Collection, featuring premium and customizable gift boxes, elegant combos, and festive packaging designed for joyful celebrations. Perfect for Holi hampers, corporate gifting, family gifting, and return gifts, our collection blends vibrant designs with luxury finishes. Each product is crafted to elevate your Holi gifting experience—ideal for packing dry fruits, sweets, chocolates, and festive treats. Whether you’re gifting loved ones or planning bulk festive gifting, our Holi collection offers a complete, ready-to-gift solution with style and quality. ✨ Why Choose Our Holi Collection? Festive & premium gifting designs Customizable gift boxes & combos Ideal for personal & corporate Holi gifting Durable, reusable & elegant packaging Perfect for dry fruits, sweets & festive hampers Add colors, joy, and elegance to your celebrations with our Holi Special Gifting Collection.
   Updated: 2026-07-10T13:54:15Z
   Total Products: 7
 - [Eid Gift Boxes](https://grownexpackaging.com/collections/eid): Shop empty Eid gift boxes to fill with sweets & dry fruits for loved ones. Celebrate Eid with warmth & generosity.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 14
 - [Personalized Wedding Gifts](https://grownexpackaging.com/collections/personalized-wedding-gifts): Shop personalized wedding gift packaging with names, dates & designs. Make every wedding gift one of a kind.
   Updated: 2026-09-23T04:36:04Z
@@ -3680,37 +3679,37 @@
   Updated: 2026-10-22T11:22:40Z
   Total Products: 21
 - [Regular Sweet Boxes](https://grownexpackaging.com/collections/regular-sweet-boxes): Shop empty sweet boxes perfect for homemade or store mithai. Great for sweet shops, home bakers, gifting & bulk orders too.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 41
 - [Magnetic Sweet Boxes](https://grownexpackaging.com/collections/magnetic-sweet-boxes): Shop empty magnetic sweet boxes for a premium gifting look. Perfect for mithai lovers, sweet shops & special occasion gifting.
-  Updated: 2026-10-20T11:19:03Z
+  Updated: 2026-10-27T11:17:27Z
   Total Products: 7
 - [Premium Wooden Sweet Boxes](https://grownexpackaging.com/collections/premium-wooden-sweet-boxes): Shop empty premium wooden sweet boxes for a luxurious gifting touch. Perfect for special mithai gifts, weddings & festive hampers.
-  Updated: 2026-10-19T11:18:16Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 6
 - [Mix Mithai / Lawna Boxes](https://grownexpackaging.com/collections/mix-mithai-ladoo-boxes): Shop empty mix mithai & lawana boxes made for traditional celebrations. Ideal for weddings, festivals & everyday family gifting.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-25T11:19:08Z
   Total Products: 24
 - [Folding Dry Fruit Boxes](https://grownexpackaging.com/collections/folding-dry-fruit-boxes): Shop empty folding dry fruit boxes, easy to pack & gift. Great for everyday gifting, sweet shops & home businesses too.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-27T11:17:27Z
   Total Products: 4
 - [Rigid Dry Fruit Boxes](https://grownexpackaging.com/collections/rigid-dry-fruit-boxes): Shop empty rigid dry fruit boxes for a sturdy, premium gifting look. Perfect for special occasions & gifting businesses.
   Updated: 2026-10-21T11:20:18Z
   Total Products: 12
 - [Sweet & Dry Fruit Gift Boxes](https://grownexpackaging.com/collections/sweet-dry-fruit-gift-boxes): Shop empty sweet & dry fruit gift boxes, perfect for mixed festive gifting. Ideal for family, gifting brands & bulk orders.
-  Updated: 2026-10-18T11:18:06Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 8
 - [Wooden Hamper Boxes](https://grownexpackaging.com/collections/wooden-hamper-boxes): Shop empty wooden hamper boxes for elegant festive gifting. Fill your way & gift a luxurious hamper with ease.
-  Updated: 2026-10-18T11:18:06Z
+  Updated: 2026-10-29T11:15:06Z
   Total Products: 12
 - [Premium Rigid Hamper Boxes](https://grownexpackaging.com/collections/premium-rigid-hamper-boxes): Shop empty premium hamper boxes for sweets & dry fruits. Perfect for festive gifting, weddings & corporate gifts too.
-  Updated: 2026-10-07T11:18:28Z
+  Updated: 2026-10-28T11:18:35Z
   Total Products: 40
 - [Matching Gift Box & Paper Bag Sets](https://grownexpackaging.com/collections/matching-gift-box-paper-bag-sets): Shop empty matching box & bag sets, designed to go together beautifully. Perfect for sweets, hampers & festive gifting.
-  Updated: 2026-10-12T11:21:11Z
+  Updated: 2026-10-26T11:20:45Z
   Total Products: 16
 - [Wedding Shagun Boxes](https://grownexpackaging.com/collections/wedding-shagun-boxes): Shop empty wedding shagun boxes to fill with love for the newlyweds. A traditional way to bless every celebration.
-  Updated: 2026-10-22T11:22:40Z
+  Updated: 2026-10-24T11:18:14Z
   Total Products: 11
 - [Packaging Accessories](https://grownexpackaging.com/collections/packaging-accessories): Shop packaging accessories - stickers, gift tags, fillers, ribbons, butter paper & acrylic tags. Complete your gift the right way.
   Updated: 2026-09-23T04:38:18Z
