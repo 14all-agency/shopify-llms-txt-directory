@@ -6,17 +6,10 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-10-06T05:57:22Z
 - Contact Email: hello@garimas.com
-- Updated At: 2026-10-23T00:29:17.315Z
+- Updated At: 2026-10-30T00:49:40.660Z
 
 ## Products
 
-- [Set of 2 Fashion Earrings | GARIMAS](https://garimas.in/products/set-of-2-earrings): Shop a set of two fashion earrings at GARIMAS. Refresh your jewellery collection with versatile earrings for everyday outfits, parties and gifting.
-  Updated: 2026-10-14T00:38:17Z
-  Vendor: Garimas Lifestyle
-  Product Type: Earrings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/100021965883_8703cf1cd7de11ef9e4dd52c6a9efbde_output_0.jpg?v=1791292171
-  Price: ₹499.00 INR
 - [Seashell and Faux Pearl Drop Earrings | GARIMAS](https://garimas.in/products/iridescent-seashell-faux-pearl-drop-earrings): Shop iridescent seashell and faux pearl drop earrings at GARIMAS. Add a pearly finish to everyday outfits, parties and special occasions.
   Updated: 2026-10-20T05:42:56Z
   Vendor: GARIMAS
@@ -30,14 +23,14 @@
   Availability: Available
   Price: ₹499.00 INR
 - [Aqua Green Crystal American Diamond Danglers | GARIMAS](https://garimas.in/products/aqua-green-american-diamond-studded-crystal-brass-drops-danglers): Shop aqua green crystal brass drop earrings and danglers with American diamond detailing at GARIMAS. Style them for parties, celebrations and festive wear.
-  Updated: 2026-10-14T00:36:28Z
+  Updated: 2026-10-28T18:53:57Z
   Vendor: GARIMAS
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/171541119159_2cd490e4d75211efafe58584d6140a20_output_0-1.jpg?v=1791478817
   Price: ₹1,299.00 INR
 - [Aqua Green Stone American Diamond Drop Earrings | GARIMAS](https://garimas.in/products/aqua-green-stone-american-diamond-brass-drops): Shop aqua green stone American diamond brass drop earrings at GARIMAS. A colourful accessory for celebrations, parties and stylish everyday looks.
-  Updated: 2026-10-14T00:36:53Z
+  Updated: 2026-10-28T18:53:31Z
   Vendor: GARIMAS
   Product Type: Earrings
   Availability: Available
@@ -142,7 +135,7 @@
   Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/1785479018676.png?v=1791478838
   Price: ₹199.00 INR
 - [Multicolour Bead Necklace & Bracelet Set | GARIMAS](https://garimas.in/products/multicolor-acrylic-beads-necklace-and-bracelet-set-for-baby-girls-1): Shop a multicolour acrylic bead necklace and bracelet set for baby girls at GARIMAS. A playful jewellery set for dress-up, birthdays and gifting.
-  Updated: 2026-10-13T17:11:25Z
+  Updated: 2026-10-25T14:09:11Z
   Vendor: GARIMAS
   Product Type: Kids Jewellery Set
   Availability: Available
@@ -344,7 +337,7 @@
   Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/46197.png?v=1791597659
   Price: ₹349.00 INR
 - [Gold Tone Anti Tarnish Leaf Drop Earrings | GARIMAS](https://garimas.in/products/gold-tone-anti-tarnish-leaf-drop-earrings): Shop gold-tone anti-tarnish leaf drop earrings at GARIMAS. A nature-inspired jewellery accent for everyday outfits, celebrations and special occasions.
-  Updated: 2026-10-13T16:38:33Z
+  Updated: 2026-10-24T12:36:46Z
   Vendor: GARIMAS
   Product Type: Earrings
   Availability: Available
@@ -428,7 +421,7 @@
   Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/rn-image_picker_lib_temp_57edaff6-1a87-4858-b788-3c3d4fea235f.png?v=1791906945
   Price: ₹299.00 INR
 - [Gold-Tone Quatrefoil Tassel Earrings | GARIMAS](https://garimas.in/products/gold-tone-quatrefoil-tassel-earrings): Shop gold-tone quatrefoil tassel earrings at GARIMAS. Textured V-shaped drops and delicate chain details add a statement accent to occasion looks.
-  Updated: 2026-10-14T18:13:15Z
+  Updated: 2026-10-24T05:22:46Z
   Vendor: GARIMAS
   Product Type: Drop Earrings
   Availability: Available
@@ -643,12 +636,117 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/rn-image_picker_lib_temp_a514e709-d2a3-4cf9-a325-24f1f14ad5a0.png?v=1792312298
   Price: ₹499.00 INR
-[List Continued](https://garimas.in/a/llms-agent/llms.txt?shop=yj6rzf-it.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NTI5NzUwNzgyMDA2LCJsYXN0X3ZhbHVlIjoiOTUyOTc1MDc4MjAwNiJ9)
+- [GARIMAS Handmade Jute Necklace Set | ₹299](https://garimas.in/products/garimas-handmade-jute-necklace-set-with-blue-floral-accents): Shop GARIMAS handmade jute necklace set with blue floral accents and shell details. A colourful ethnic jewellery set for festive and boho looks at ₹299.
+  Updated: 2026-10-29T02:54:55Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-1.png?v=1793198916
+  Price: ₹299.00 INR
+- [Blue Floral Jute Necklace Set | GARIMAS](https://garimas.in/products/garimas-blue-floral-jute-necklace-and-earrings-set): Buy the GARIMAS blue floral jute necklace and earrings set. A colourful handmade-style ethnic accessory with shell accents, priced at ₹299.
+  Updated: 2026-10-29T02:54:57Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-2.png?v=1793198926
+  Price: ₹299.00 INR
+- [Tribal Patchwork Cowrie Shell Necklace | GARIMAS](https://garimas.in/products/garimas-colourful-tribal-patchwork-necklace-set-with-cowrie-shells): Discover GARIMAS colourful tribal patchwork necklace set with cowrie shells and matching earrings. A statement ethnic accessory for ₹299.
+  Updated: 2026-10-29T02:54:59Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-3.png?v=1793198935
+  Price: ₹299.00 INR
+- [Bohemian Cowrie Shell Necklace Set | GARIMAS](https://garimas.in/products/garimas-bohemian-cowrie-shell-necklace-set-with-colourful-beads): Shop GARIMAS bohemian cowrie shell necklace with colourful beads and matching earrings. A vibrant folk-inspired necklace set for ₹299.
+  Updated: 2026-10-29T02:55:08Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-4.png?v=1793198944
+  Price: ₹299.00 INR
+- [Tribal Bird Charm Necklace Set | GARIMAS](https://garimas.in/products/garimas-tribal-bird-charm-necklace-set-with-shell-details): Explore GARIMAS tribal bird charm necklace set with colourful details, shell accents and matching earrings. Statement ethnic jewellery for ₹299.
+  Updated: 2026-10-29T02:55:10Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-5.png?v=1793198953
+  Price: ₹299.00 INR
+- [Green Silver Ethnic Necklace Set | GARIMAS](https://garimas.in/products/garimas-green-and-silver-ethnic-necklace-set-with-goddess-pendant): Shop GARIMAS green and silver-tone ethnic necklace set with decorative pendant and matching earrings. Traditional-inspired style for ₹299.
+  Updated: 2026-10-29T02:55:13Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-6.png?v=1793198961
+  Price: ₹299.00 INR
+- [Royal Blue Tribal Necklace Set | GARIMAS](https://garimas.in/products/garimas-royal-blue-tribal-necklace-set-with-silver-tone-pendant): Buy GARIMAS royal blue tribal necklace set with silver-tone pendant details and matching earrings. Bold ethnic accessories for ₹299.
+  Updated: 2026-10-29T02:55:16Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-7.png?v=1793198970
+  Price: ₹299.00 INR
+- [Yellow Bead Traditional Necklace Set | GARIMAS](https://garimas.in/products/garimas-yellow-bead-traditional-necklace-set-with-silver-tone-pendant): Shop GARIMAS yellow bead necklace set with silver-tone pendant and matching earrings. A bright traditional-style accessory for ₹299.
+  Updated: 2026-10-29T02:55:20Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-8.png?v=1793198979
+  Price: ₹299.00 INR
+- [Multicolour Jute Statement Necklace | GARIMAS](https://garimas.in/products/garimas-multicolour-jute-statement-necklace-set-with-shell-drops): Discover GARIMAS multicolour jute statement necklace set with woven-look detail, colourful beads, shell drops and matching earrings for ₹299.
+  Updated: 2026-10-29T02:55:24Z
+  Vendor: GARIMAS
+  Product Type: Necklace
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/garimas-kolkata-handmade-necklace-set-9.png?v=1793198997
+  Price: ₹299.00 INR
+- [Christmas Tree Pendant Necklace Set for Women | GARIMAS](https://garimas.in/products/garimas-christmas-tree-pendant-necklace-and-earrings-set-red-star): Shop GARIMAS Christmas tree pendant and earring set with festive red and green details. A cheerful Christmas jewellery gift for her at ₹299.
+  Updated: 2026-10-29T16:35:57Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas2.png?v=1793291491
+  Price: ₹299.00 INR
+- [Red Christmas Bell Pendant Necklace and Earrings Set | GARIMAS](https://garimas.in/products/garimas-red-christmas-bell-pendant-necklace-and-earrings-set): Shop GARIMAS red Christmas bell pendant necklace and matching earrings. Festive gold-tone holiday jewellery and a sweet gift for her at ₹299.
+  Updated: 2026-10-29T18:20:45Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas6.png?v=1793291502
+  Price: ₹299.00 INR
+- [Santa Pendant Necklace and Christmas Tree Earrings Set | GARIMAS](https://garimas.in/products/garimas-santa-pendant-necklace-with-christmas-tree-earrings-set): Shop GARIMAS Santa pendant necklace with colourful Christmas tree earrings. A playful festive jewellery set and Christmas gift for her at ₹299.
+  Updated: 2026-10-29T16:36:01Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas1.png?v=1793291512
+  Price: ₹299.00 INR
+- [Green Christmas Tree Pendant Necklace Set with Earrings | GARIMAS](https://garimas.in/products/garimas-green-christmas-tree-necklace-and-multicolour-stone-earrings-set): Shop GARIMAS green Christmas tree pendant necklace and matching multicolour accent earrings. A festive jewellery set for holiday looks at ₹299.
+  Updated: 2026-10-29T16:58:13Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas4.png?v=1793291528
+  Price: ₹299.00 INR
+- [Santa Face Pendant Necklace and Red Bell Earrings Set | GARIMAS](https://garimas.in/products/garimas-santa-face-pendant-necklace-and-red-bell-earrings-set): Shop GARIMAS Santa face pendant necklace with red Christmas bell earrings. A cheerful festive accessory and gift for her, priced at ₹299.
+  Updated: 2026-10-29T16:36:06Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas3.png?v=1793291539
+  Price: ₹299.00 INR
+- [Santa Pendant Necklace and Christmas Tree Earrings Set | GARIMAS](https://garimas.in/products/garimas-santa-pendant-necklace-and-red-star-christmas-tree-earrings-set): Shop GARIMAS Santa pendant necklace with red star Christmas tree earrings. A festive red and green jewellery set and gift for her at ₹299.
+  Updated: 2026-10-29T16:47:02Z
+  Vendor: GARIMAS
+  Product Type: Necklace Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0783/1175/1734/files/Garimas5.png?v=1793291549
+  Price: ₹299.00 INR
+[List Continued](https://garimas.in/a/llms-agent/llms.txt?shop=yj6rzf-it.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjA3NTc1NTAyOTAyLCJsYXN0X3ZhbHVlIjoiOTYwNzU3NTUwMjkwMiJ9)
 
 ## Collections
 
 - [Best Seller](https://garimas.in/collections/best-seller): Shop best- jewellery and fashion accessories at GARIMAS. Discover popular earrings, necklace sets, bracelets and thoughtful gifts for every occasion.
-  Updated: 2026-10-14T16:43:58Z
+  Updated: 2026-10-28T06:50:17Z
   Total Products: 25
 - [Bracelets](https://garimas.in/collections/bracelets): Explore stylish bracelets at Garimas, from everyday beaded designs to charming accessories. Find versatile pieces to layer, gift and wear your way.
   Updated: 2026-10-14T16:43:30Z
@@ -657,20 +755,20 @@
   Updated: 2026-10-14T16:43:49Z
   Total Products: 4
 - [Kids Jewellery](https://garimas.in/collections/kids-jewellery): Discover kids jewellery at GARIMAS, including playful necklace and bracelet sets for little ones. Explore colourful accessories and gift ideas for birthdays and celebrations.
-  Updated: 2026-10-14T16:45:13Z
+  Updated: 2026-10-26T11:20:15Z
   Total Products: 5
 - [Necklace Sets](https://garimas.in/collections/necklace-sets-garimas): Shop necklace sets at GARIMAS, from American diamond designs to colourful pendant sets. Discover coordinated jewellery for parties, festive looks and gifting.
-  Updated: 2026-10-16T04:11:30Z
-  Total Products: 13
+  Updated: 2026-10-29T16:35:01Z
+  Total Products: 28
 - [New Arrivals](https://garimas.in/collections/new-arrivals): Shop new arrivals at GARIMAS and discover fresh earrings, necklace sets and fashion accessories. Explore new styles for everyday outfits, festive occasions and gifting.
-  Updated: 2026-10-14T16:45:40Z
-  Total Products: 27
+  Updated: 2026-10-28T06:51:54Z
+  Total Products: 26
 - [Pendants](https://garimas.in/collections/pendants): Shop pendant sets at GARIMAS, including colourful stone and crystal designs with matching chains. Explore jewellery for parties, gifting and special occasions.
-  Updated: 2026-10-14T16:45:06Z
-  Total Products: 8
+  Updated: 2026-10-29T16:57:44Z
+  Total Products: 17
 - [Earrings](https://garimas.in/collections/earrings): Shop fashion earrings at Garimas, including sparkling drops, elegant studs and statement designs. Find versatile earrings for parties, gifting and everyday wear.
-  Updated: 2026-10-16T04:08:54Z
-  Total Products: 38
+  Updated: 2026-10-28T06:53:50Z
+  Total Products: 37
 - [Phone Charms](https://garimas.in/collections/phone-charms-1): Shop cute phone charms at Garimas to personalise your phone with playful style. Discover charming accessories for everyday use and thoughtful gifting.
   Updated: 2026-10-14T16:44:02Z
   Total Products: 5
@@ -698,6 +796,9 @@
 - [GARIMAS Crossbody Sling Bags](https://garimas.in/collections/garimas-crossbody-sling-bags): Explore the GARIMAS Crossbody Faux Leather Sling Bag with Kiss-Lock Mobile Pouch collection. Available in a range of colours, priced at ₹499 each.
   Updated: 2026-10-18T11:07:09Z
   Total Products: 10
+- [Necklace](https://garimas.in/collections/necklace): Explore GARIMAS necklace sets inspired by Kolkata's colourful handmade-style jewellery, featuring jute textures, fabric flowers, shells, vibrant beads and traditional statement pendants.
+  Updated: 2026-10-28T14:51:56Z
+  Total Products: 9
 
 ## Blogs
 
@@ -717,6 +818,15 @@
   - [Exploring the Enchanting World of GARIMAS Pink Hello Kitty Mobile Charm for Girls Fashion and Jewellery](https://garimas.in/blogs/news/exploring-the-enchanting-world-of-garimas-pink-hello-kitty-mobile-charm-for-girls-fashion-and-jewellery): Exploring the Enchanting World of GARIMAS Pink Hello Kitty Mobile Charm for Girls Fashion and Jewellery
     Updated: 2026-10-22T17:00:20Z
     Author: GARIMAS
+  - [Exploring the Best of Girls Jewellery with GARIMAS Aqua Green Crystal Brass Danglers](https://garimas.in/blogs/news/exploring-the-best-of-girls-jewellery-with-garimas-aqua-green-crystal-brass-danglers): Exploring the Best of Girls Jewellery with GARIMAS Aqua Green Crystal Brass Danglers
+    Updated: 2026-10-24T17:00:23Z
+    Author: GARIMAS
+  - [Exploring the Unique Style of the GARIMAS Pendant Set CZ Studded and Silver Plated Chain in Aqua Yellow for Girls Fashion and Kids Jewellery](https://garimas.in/blogs/news/exploring-the-unique-style-of-the-garimas-pendant-set-cz-studded-and-silver-plated-chain-in-aqua-yellow-for-girls-fashion-and-kids-jewellery): Exploring the Unique Style of the GARIMAS Pendant Set CZ Studded and Silver Plated Chain in Aqua Yellow for Girls Fashion and Kids Jewellery
+    Updated: 2026-10-27T17:00:22Z
+    Author: GARIMAS
+  - [Discover the Magic of GARIMAS Multicolor Acrylic Beads Set to Elevate Kids Fashion and Girls Jewellery](https://garimas.in/blogs/news/discover-the-magic-of-garimas-multicolor-acrylic-beads-set-to-elevate-kids-fashion-and-girls-jewellery): Discover the Magic of GARIMAS Multicolor Acrylic Beads Set to Elevate Kids Fashion and Girls Jewellery
+    Updated: 2026-10-29T17:00:25Z
+    Author: GARIMAS
 
 ## Store Pages
 
@@ -732,12 +842,12 @@
   Updated: 2026-10-07T11:31:00Z
 - [Terms & conditions](https://garimas.in/pages/terms-conditions): body { font-family: 'Inter', sans-serif; background-color: #f9fafb; /* Light gray background */ color: #374151; /* Dark gray text */ } h1, h2, h3 {...
   Updated: 2026-10-07T11:33:25Z
-- [Shipping return](https://garimas.in/pages/shipping-return): Shipping policy At look, we provide free standard delivery to any address within India. However, do note that we do not deliver to po boxes, milita...
-  Updated: 2026-10-07T11:27:12Z
+- [Shipping return](https://garimas.in/pages/shipping-return): Shipping Policy At GARIMAS, we offer free shipping on all orders with no minimum order value across India. Enter your delivery address at checkout ...
+  Updated: 2026-10-29T14:47:25Z
 - [Wishlist](https://garimas.in/pages/wishlist)
   Updated: 2026-10-07T07:01:11Z
 - [Payment Policy](https://garimas.in/pages/payment-policy): Payment PolicyEffective Date: October 7, 2026Website: www.garimas.inCompany: GARIMASThis Payment Policy outlines the accepted modes of payment, sec...
-  Updated: 2026-10-07T16:11:22Z
+  Updated: 2026-10-26T13:40:46Z
 - [Fashion Jewellery](https://garimas.in/pages/fashion-jewellery)
   Updated: 2026-10-07T16:32:14Z
 - [kp account](https://garimas.in/pages/kp-account)
@@ -746,15 +856,15 @@
 ## Policies
 
 - [Privacy Policy](https://garimas.in/policies/privacy-policy)
-  Updated: 2026-10-06T05:57:26Z
+  Updated: 2026-10-29T15:21:01Z
 - [Shipping Policy](https://garimas.in/policies/shipping-policy)
-  Updated: 2026-10-07T11:27:44Z
+  Updated: 2026-10-29T15:16:27Z
 - [Refund Policy](https://garimas.in/policies/refund-policy)
-  Updated: 2026-10-07T11:31:07Z
+  Updated: 2026-10-24T11:13:22Z
 - [Terms of Service](https://garimas.in/policies/terms-of-service)
   Updated: 2026-10-07T11:33:31Z
 - [Contact Information](https://garimas.in/policies/contact-information)
-  Updated: 2026-10-07T16:03:03Z
+  Updated: 2026-10-28T06:48:25Z
 
 ## Optional
 
