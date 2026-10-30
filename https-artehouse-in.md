@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-12-23T03:47:23Z
 - Contact Email: admin@artehouse.in
-- Updated At: 2026-10-23T00:42:15.343Z
+- Updated At: 2026-10-30T00:59:17.523Z
 
 ## Products
 
 - [Divine Delight: Buy Guruvayur Krishna Idol | Arte House](https://artehouse.in/products/guruvayur-krishna-idol-online): Elevate Your Space With Divine Charm! Purchase the Exquisite Guruvayur Krishna Idol at Arte House. Experience the Joy of Spiritual Beauty. Shop Now With Joy
-  Updated: 2026-10-20T04:29:05Z
+  Updated: 2026-10-25T16:12:30Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -28,22 +28,8 @@
   - [Grey](https://artehouse.in/products/guruvayur-krishna-idol-online?variant=44448297451755)
     Availability: Available
     Price: ₹3,500.00 INR
-- [Buy Amazing Divine Laddu Gopal Idol Online | Arte House](https://artehouse.in/products/laddu-gopal-idol-online): Elevate Your Spiritual Space With Our Divine Laddu Gopal Idol. Discover Divine Charm and Craftsmanship at Arte House. Bring Home the Essence of Devotion.
-  Updated: 2026-10-16T06:37:27Z
-  Vendor: Arte House
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/laddu-gopal-idol-online-blue-indoor.jpg?v=1706330026
-  - [Blue](https://artehouse.in/products/laddu-gopal-idol-online?variant=44448303153387)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/laddu-gopal-idol-online-blue_1.jpg?v=1706330026
-    Price: ₹1,500.00 INR
-  - [Ivory Color](https://artehouse.in/products/laddu-gopal-idol-online?variant=44448303186155)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/laddu-gopal-idol-online-ivory_1.jpg?v=1706330026
-    Price: ₹1,500.00 INR
 - [Sacred Splendor: Lord Krishna Idol - Explore | Arte House](https://artehouse.in/products/krishna-idol-for-home): Elevate Your Space With Sacred Splendor! Explore Lord Krishna Idol at Arte House. Handcrafted in Fiber, Adorned With Sequins and Ornaments. Bring Divine Charm
-  Updated: 2026-08-18T07:22:42Z
+  Updated: 2026-10-25T09:41:23Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -61,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/krishna-idol-for-home-ivory-color.jpg?v=1731567169
     Price: ₹4,500.00 INR
 - [Buy Elegant Lord Krishna Idol for Pooja | Arte House](https://artehouse.in/products/krishna-idol-for-pooja): Elevate Your Experience With Our Elegant Lord Krishna Idol. Discover Divine Beauty and Craftsmanship at Arte House. Bring Home the Spiritual Essence. Shop Now!
-  Updated: 2026-08-25T06:36:53Z
+  Updated: 2026-10-24T05:13:00Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -75,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/Lord-krishna-idol-for-pooja-ivory-color-indoor.jpg?v=1706254766
     Price: ₹5,999.00 INR
 - [Sacred Beauty: Buy Guruvayur Krishna Statue | Arte House](https://artehouse.in/products/guruvayur-krishna-statue-online): Elevate Your Space With the Sacred Beauty of Guruvayur Krishna Statue at Arte House. Bring Home the Divine Essence With Our Fiber Statue. Shop Now for Elegance!
-  Updated: 2026-10-21T07:17:46Z
+  Updated: 2026-10-24T05:13:01Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -89,7 +75,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/guruvayur-krishna-statue-online-55-cm-ivory-color_1.jpg?v=1706335776
     Price: ₹2,500.00 INR
 - [Buy Your Beautiful Blessing Krishna Idol | Arte House](https://artehouse.in/products/krishna-fiber-idol): Discover Divine Beauty With Arte House's Blessing Krishna Idol. Elevate Your Space With This Exquisite Masterpiece. Shop Now for a Touch of Spiritual Elegance
-  Updated: 2026-03-23T12:24:33Z
+  Updated: 2026-10-24T05:13:01Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -103,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/krishna-fiber-idol-ivory_1.jpg?v=1706322149
     Price: ₹5,100.00 INR
 - [Buy Blessing Krishna Idol in fiber Online | Arte House](https://artehouse.in/products/fiber-krishna-statue-online): Shop now Fiber Blessing Krishna Statue Online - Beautifully crafted, high-quality Fiber Krishna Statues- Find the perfect piece for your home or temple today
-  Updated: 2026-08-25T06:48:13Z
+  Updated: 2026-10-24T05:13:02Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -117,7 +103,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/fiber-krishna-statue-online-ivory-color_1.jpg?v=1706322520
     Price: ₹3,500.00 INR
 - [Bring Home Blessing: Buy Guruvayur Krishna Idol | Arte House](https://artehouse.in/products/guruvayur-krishna-idol-for-home): Elevate the spiritual energy in your home with our exquisite Guruvayur Krishna Idol. Shop now at Arte House for a meaningful addition to your home decor.
-  Updated: 2026-10-20T04:34:26Z
+  Updated: 2026-10-24T05:13:02Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -139,7 +125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/guruvayur-krishna-idol-for-home-grey_1.jpg?v=1706322308
     Price: ₹5,500.00 INR
 - [Buy Beautiful Vithoba Krishna in Fibre | Arte House](https://artehouse.in/products/vithoba-krishna-in-fibre): Welcome Divine Grace and Beauty! Exquisite Vithoba Krishna Statues by Arte House. Lightweight, Affordable Fibre Adds Elegance to your Space. Shop Now!
-  Updated: 2026-07-09T09:27:43Z
+  Updated: 2026-10-24T05:13:02Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -416,7 +402,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/krishna-cow-statue-40-cm_1.png?v=1703394517
   Price: ₹1,350.00 INR
 - [Buy Beautiful Krishna Idol with Cow in Fibre | Arte House](https://artehouse.in/products/krishna-idol-with-cow): Satisfy your desire for an Eye-Catching and Unique 62cm tall Krishna idol with Cow crafted from Fiber - creates an awe-inspiring aura of timelessness
-  Updated: 2026-03-06T06:29:47Z
+  Updated: 2026-10-24T05:13:03Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -477,7 +463,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/murugan-idol-with-peacock-and-snake_1.jpg?v=1703432022
   Price: ₹1,999.00 INR
 - [Bless Your Home : Unique Blessing Krishna Idol | Arte House](https://artehouse.in/products/fiber-krishna-statue): Embrace divinity with our Fiber-Blessing Krishna Idol. Discover Arte House's exquisite Krishna idol collection for a touch of spirituality and Divinity
-  Updated: 2026-07-26T16:05:03Z
+  Updated: 2026-10-24T05:13:04Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -515,7 +501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/bhasma_kotta_wooden_vibhuti_box_1.jpg?v=1722613996
   Price: ₹850.00 INR
 - [Sacred Serenity: Krishna Idol in Fibre | Arte House](https://artehouse.in/products/krishna-vigraham): Elevate Your Living Space With Sacred Serenity! Explore the Exquisite Krishna Idol in Fiber at Arte House. Bring Divine Beauty Into Your Home. Shop Now!
-  Updated: 2026-04-10T07:36:22Z
+  Updated: 2026-10-24T05:13:05Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -662,7 +648,7 @@
     Availability: Available
     Price: ₹2,700.00 INR
 - [Realistic Fragrant Artificial Jasmine Garlands-75 cm](https://artehouse.in/products/artificial-jasmine-flower-garland): Realistic Fragrant Artificial Jasmine Garlands made in Hard Plastic brought to you by Arte House. Perfect for decorating your idols, statues, photo frames, etc.
-  Updated: 2026-09-03T05:10:56Z
+  Updated: 2026-10-25T11:16:07Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -680,7 +666,7 @@
     Availability: Available
     Price: ₹2,000.00 INR
 - [Manjady Seeds for Pooja Room and Vishu kani from Guruvayur](https://artehouse.in/products/manjady-seeds-adenanthera-pavonina-or-red-lucky-seeds-for-pooja-room-and-vishu-kani): Manjady Seeds for Pooja Room and Vishu kani from Guruvayur brought to you by Arte House. Elevate Your Sacred Moments in Pooja Rooms and Spiritual Rituals with Adenanthera Pavonina seeds.
-  Updated: 2026-10-21T05:13:16Z
+  Updated: 2026-10-24T12:57:14Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -982,7 +968,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/ushapooja-guruvayurappan-fridge-magnet-handcrafted-multicolour-glossy-metal-70mm-0_28e3cab5-7264-4b63-adfd-bae8182e490e.png?v=1779884658
   Price: ₹150.00 INR
 - [Lord Guruvayurappan round Fridge Magnet Multicolour Glossy](https://artehouse.in/products/lord-guruvayurappan-fridge-magnet): Buy multicolour lifelike Lord Guruvayurappan Round fridge magnet with glossy finish. Perfect for pooja room, home décor, and thoughtful gifting. Order now.
-  Updated: 2026-10-19T16:09:11Z
+  Updated: 2026-10-28T06:23:12Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1140,10 +1126,10 @@
 ## Collections
 
 - [Idols and Statues](https://artehouse.in/collections/idols-and-statues): Idols and Statues from Guruvayur, Kerala. Revamp your pooja room and living spaces with an extensive collection of Kerala Idols and Showpieces.
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-29T11:15:41Z
   Total Products: 148
 - [Krishna Idols](https://artehouse.in/collections/krishna-idols): Shop Krishna Idols Online - Unique and Handcrafted Lord Krishna Idols Online Shopping for your Home or Temple. Get the Best Deals and Discounts Buy now!
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-29T11:15:41Z
   Total Products: 103
 - [Murugan Idols](https://artehouse.in/collections/murugan-idols): Buy handmade statues of Lord Murugan online from Artehouse in different materials and colors. Get the Best Deals and Discounts Buy now!
   Updated: 2026-10-06T11:21:51Z
@@ -1188,19 +1174,19 @@
   Updated: 2026-10-03T11:30:39Z
   Total Products: 5
 - [Seasonal Decor](https://artehouse.in/collections/seasonal-decor)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-26T11:22:49Z
   Total Products: 34
 - [Vishu Decor](https://artehouse.in/collections/vishu-decor)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-26T11:22:49Z
   Total Products: 37
 - [Onam Decor](https://artehouse.in/collections/onam-decor)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-26T11:22:49Z
   Total Products: 8
 - [Christmas Decor](https://artehouse.in/collections/christmas-decor)
   Updated: 2024-12-01T10:16:07Z
   Total Products: 4
 - [Fibre Krishna Idols](https://artehouse.in/collections/fibre-krishna-idols)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-29T11:15:41Z
   Total Products: 35
 - [Polymarble Krishna Idols](https://artehouse.in/collections/polymarble-krishna-idols)
   Updated: 2026-09-20T11:23:50Z
@@ -1215,13 +1201,13 @@
   Updated: 2026-10-19T11:18:55Z
   Total Products: 6
 - [Vishu Kani Kits](https://artehouse.in/collections/vishu-kani-kits): Each festival in India comes with its unique set of customs and rituals. Guess what sets apart Vishu from other festivals in Kerala? Yes. The Vishu Kani. Waking up to a dreamy, spectacular Vishu Kani with all those lights, decors, and a Charming Krishna is a pleasant memory indeed. This is especially true for people living outside Kerala for whom the memories of traditional Vishu Kani in their childhood are nothing short of a heartwarming nostalgia. Each year when Vishu approaches, they get ready to relive that nostalgia by frantically searching for a Beautiful Krishna and other decors for setting up the Vishu Kani. But, chances are that they never really find all the items together. Are you one of them? We have got some good news for you. Buy your Vishu Kani set online. This is where we, Arte House, come in and make your Vishu memorable. We have created an assortment of all necessary items required for making a Vishu Kani. A beautiful Krishna Idol is the primary requirement. We have the largest collection of Guruvayur Krishna Idols one of which would definitely appease your mind. Next comes the decorative fan-shaped cloth known as Thiruudayada. It is available in 4 different colors. A brass Vaalkannadi or brass metal piece is another necessary element. Place some kunnikuru or manjady in a brass uruli. Add some fruits, vegetables, and silk cloth—light your lamps or nilavilakku. Lo and behold, your Vishu Kani is ready! Choose from a variety of combos based on your budget and height preference. All accessories are also individually available for purchase. We provide all-India Delivery. All the rates displayed on the idols are inclusive of Delivery charges and GST. So, there are no hidden charges, unless you opt for COD. COD is available only on idols below 1000 Rs and would cost you an additional 50 Rs as Couriers charge this extra amount for Cash Collection. So, the best option is to go with prepaid orders. All payments are secured and collected through companies like Razorpay and Instamojo which have strict regulations and Security features to avoid any scams. So, by now you should have got an answer to that nagging question ”Where to buy Vishu Kani kit online?” Come, Explore our collections below.
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-26T11:22:49Z
   Total Products: 27
 - [Thiru Udayadas](https://artehouse.in/collections/thiru-udayadas)
   Updated: 2026-09-16T11:27:56Z
   Total Products: 7
 - [Best Sellers](https://artehouse.in/collections/best-sellers)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-26T11:22:49Z
   Total Products: 42
 - [Ganesha Idols](https://artehouse.in/collections/ganesha-idols): Discover The Exclusive Collection of Ganesh Idols and Wall Decor At Arte House Whenever something new begins, it is celebrated with a Ganesha Idol. The magnificent range of Ganesha idols at Arte House is the most unique one that you won't find anywhere else. Whether you are looking for a Ganesh idol to add to your temple, for home decor, or for gifting someone, we have a wide range of Ganpati idols that you would love to buy. Ganesha idol is considered a symbol of a good start, so embrace the new beginnings with one-of-a-kind Ganesha idols at Arte House. Ganesha Statue In Marble Dust Our collection of Ganesha idols features Ganesha statues crafted using marble dust that capture every intricate detail, showcasing the devotion and artistry put into their creation. Ganesha Idol in Fibre If you want a more contemporary and lightweight option, our Ganesha Idol in Fibre is perfect. These idols are made with high-quality fibre material, ensuring durability and ease of handling. Ganesha Vetiver Wall Decor We also offer a Ganesha Vetiver Wall Decor that adds a unique and artistic touch to your walls. They create a serene ambiance in your home while adding a touch of cultural charm. Embrace New Beginnings with Exquisite Ganesha Idols and decor at Arte House Whether you are starting a new chapter or simply looking to enhance your spiritual practice and home decor, our exclusive collection of Ganesha Idols at ArteHouse will surely entice you. Visit Arte House today and discover the beauty of our unique collection.
   Updated: 2026-08-13T11:20:16Z
@@ -1260,13 +1246,13 @@
   Updated: 2025-02-20T16:11:31Z
   Total Products: 0
 - [Fridge Magnets](https://artehouse.in/collections/fridge-magnets)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 301
 - [Products](https://artehouse.in/collections/all)
-  Updated: 2026-10-21T11:23:15Z
+  Updated: 2026-10-29T11:15:41Z
   Total Products: 544
 - [Gods Fridge Magnets](https://artehouse.in/collections/gods-fridge-magnets)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 118
 - [Inspirational Quotes](https://artehouse.in/collections/inspirational-quotes)
   Updated: 2026-09-17T11:33:32Z
@@ -1293,16 +1279,16 @@
   Updated: 2026-09-23T11:28:41Z
   Total Products: 12
 - [All Gods](https://artehouse.in/collections/all-gods)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 40
 - [Cute Gods](https://artehouse.in/collections/cute-gods)
   Updated: 2026-10-17T11:26:29Z
   Total Products: 43
 - [Holy Symbols](https://artehouse.in/collections/holy-symbols)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 22
 - [All Gods plus symbols](https://artehouse.in/collections/all-gods-copy)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 72
 - [Monuments](https://artehouse.in/collections/monuments)
   Updated: 2026-09-28T11:18:43Z
@@ -1311,14 +1297,17 @@
   Updated: 2026-09-19T10:52:51Z
   Total Products: 8
 - [Magnet Best sellers](https://artehouse.in/collections/magnet-best-sellers)
-  Updated: 2026-10-20T11:20:52Z
+  Updated: 2026-10-28T11:19:31Z
   Total Products: 82
 - [Kerala Watercolour Fridge Magnets](https://artehouse.in/collections/kerala-watercolour-fridge-magnets): Bring home the colours of God's Own Country. Painterly watercolour fridge magnets of 23 Kerala places, from the backwaters of Alappuzha and Kumarakom to the tea hills of Munnar, the cliffs of Varkala and the temple town of Guruvayur. Each is a 70 mm round metal badge magnet with a glossy laminated print, made as a Kerala travel souvenir and gift.
   Updated: 2026-10-12T11:25:58Z
   Total Products: 23
 - [Magnet sets](https://artehouse.in/collections/magnet-sets)
-  Updated: 2026-10-20T16:57:27Z
-  Total Products: 7
+  Updated: 2026-10-23T11:29:21Z
+  Total Products: 8
+- [Fibre Best-Sellers](https://artehouse.in/collections/fibre-best-sellers)
+  Updated: 2026-10-29T11:15:41Z
+  Total Products: 27
 
 ## Blogs
 
@@ -1382,10 +1371,8 @@
 
 - [Contact](https://artehouse.in/pages/contact)
   Updated: 2023-12-23T03:47:24Z
-- [About Us](https://artehouse.in/pages/about-us)
-  Updated: 2024-11-13T16:57:34Z
-- [CONTACT US](https://artehouse.in/pages/contact-us)
-  Updated: 2024-10-23T05:28:16Z
+- [Contact Us](https://artehouse.in/pages/contact-us): We're a small team near Guruvayur, Kerala, and we answer every message ourselves. WhatsApp is the fastest way to reach us. WhatsApp +91 85928 20965...
+  Updated: 2026-10-26T12:44:20Z
 - [FAQs](https://artehouse.in/pages/faqs)
   Updated: 2023-12-26T06:51:16Z
 - [TERMS AND CONDITIONS](https://artehouse.in/pages/terms-and-conditions): Terms & Conditions Please read the following terms and conditions very carefully as your use of service is subject to your acceptance of and compli...
@@ -1420,11 +1407,13 @@
   Updated: 2026-09-27T11:30:51Z
 - [Build Your Perfect Bundle](https://artehouse.in/pages/build-your-perfect-bundle)
   Updated: 2026-09-27T16:17:20Z
+- [Our Story](https://artehouse.in/pages/our-story): .ahs{--ink:#2a1a14;--maroon:#7a1f1f;--gold:#c9a227;--cream:#fbf6ec;--line:#e8dcc4;color:var(--ink);font-size:17px;line-height:1.7;max-width:900px;m...
+  Updated: 2026-10-25T17:01:55Z
 
 ## Policies
 
 - [Privacy Policy](https://artehouse.in/policies/privacy-policy)
-  Updated: 2024-08-05T06:18:16Z
+  Updated: 2026-10-29T16:45:19Z
 - [Shipping Policy](https://artehouse.in/policies/shipping-policy)
   Updated: 2023-12-29T05:43:35Z
 - [Refund Policy](https://artehouse.in/policies/refund-policy)
