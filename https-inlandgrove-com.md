@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-02-01T16:53:23Z
 - Contact Email: james.carlson@shopify.com
-- Updated At: 2026-10-23T00:28:00.071Z
+- Updated At: 2026-10-30T00:47:24.001Z
 
 ## Products
 
@@ -652,11 +652,11 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/hills-button-polotops-9047370.png?v=1784560871
     Price: $95.00 USD
 - [OPEN COLLAR POLO](https://inlandgrove.com/products/open-collar-polo): Open collar black polo with grey side panels and detailing on chest. Caddy bear logo on bottom left front.
-  Updated: 2026-10-08T01:07:46Z
+  Updated: 2026-10-29T17:29:52Z
   Vendor: Qiandao
   Product Type: Polos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/open-collar-polopolos-7691210.png?v=1787295259
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/open-collar-polo-bone-green-look4-front.jpg?v=1793225262
   - [Bone / Green / XS](https://inlandgrove.com/products/open-collar-polo?variant=45849603702818)
     Availability: Available
     Price: $95.00 USD
@@ -904,7 +904,7 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/piped-crewnecktops-7235909.jpg?v=1784560869
     Price: $98.00 USD
 - [CITRUS ROUND T-SHIRT](https://inlandgrove.com/products/citrus-round-t-shirt): Circular Inland Grove wordmark anchored by an orange with leaf detail.
-  Updated: 2026-09-09T18:10:06Z
+  Updated: 2026-10-29T17:34:24Z
   Vendor: Stock Blank
   Product Type: T-Shirts
   Availability: Available
@@ -1012,11 +1012,11 @@
     Availability: Available
     Price: $68.00 USD
 - [SOCCER STRIPE SWEATER](https://inlandgrove.com/products/soccer-stripe-sweater): Soccer stripe sweater, with BONE, Grey and Pale blue detailing. INLAND GROVE wordmark across chest and caddy bear logo on back neck.
-  Updated: 2026-10-08T01:08:41Z
+  Updated: 2026-10-29T17:36:14Z
   Vendor: Fortuna
   Product Type: Sweaters
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/soccer-stripe-sweatertops-8679548.png?v=1784644043
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/soccer-stripe-sweater-look1-front.jpg?v=1793228677
   - [S / Light Grey](https://inlandgrove.com/products/soccer-stripe-sweater?variant=45850387677218)
     Availability: Available
     Price: $98.00 USD
@@ -1048,33 +1048,29 @@
     Availability: Available
     Price: $140.00 USD
 - [CLASSIC SWEATER VEST](https://inlandgrove.com/products/classic-sweater-vest): Classic cable knit vest with Caddy bear logo on chest and INLAND GROVE wordmark down back left seam.
-  Updated: 2026-10-08T01:08:04Z
+  Updated: 2026-10-29T17:37:20Z
   Vendor: Fortuna
   Product Type: Vests
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vesttops-6612127.png?v=1784478015
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vest-look2-front.jpg?v=1793229699
   - [S / Forest Green](https://inlandgrove.com/products/classic-sweater-vest?variant=45852710502434)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vesttops-6612127.png?v=1784478015
     Price: $88.00 USD
   - [M / Forest Green](https://inlandgrove.com/products/classic-sweater-vest?variant=45852710600738)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vesttops-6612127.png?v=1784478015
     Price: $88.00 USD
   - [L / Forest Green](https://inlandgrove.com/products/classic-sweater-vest?variant=45852710567970)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vesttops-6612127.png?v=1784478015
     Price: $88.00 USD
   - [XL / Forest Green](https://inlandgrove.com/products/classic-sweater-vest?variant=45852710535202)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/classic-sweater-vesttops-6612127.png?v=1784478015
     Price: $88.00 USD
 - [WINDSHIRT](https://inlandgrove.com/products/windshirt): Shortsleeve quarter zip popover windshirt with tonal caddy bear logo on left chest.
-  Updated: 2026-10-08T01:08:16Z
+  Updated: 2026-10-29T17:38:40Z
   Vendor: Qiandao
   Product Type: T-Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/windshirtpopover-1853825.png?v=1784644041
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/windshirt-bone-look3-front.jpg?v=1793223710
   - [XS / Bone](https://inlandgrove.com/products/windshirt?variant=45852755984418)
     Availability: Available
     Price: $138.00 USD
@@ -1205,18 +1201,16 @@
     Availability: Available
     Price: $148.00 USD
 - [FAIRWAY WINDBREAKER](https://inlandgrove.com/products/fairway-windbreaker): Nylon windbreaker with IG chest branding and mesh storm flap on back
-  Updated: 2026-08-27T00:06:16Z
+  Updated: 2026-10-29T19:41:45Z
   Vendor: Qiandao
   Product Type: Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/fairway-windbreakerjacket-2905838.png?v=1784644041
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/Generated_with_Kive.ai_-_Oran_Colorblock_hooded_jacket_the_jacket_is_zipped_up_but_he_has_a_white_undershirt_Black_elastic_pants_running_shoe_insirt_the_model_into_the_refrence_we_are.png?v=1793302569
   - [XS / Dark Navy/Bone](https://inlandgrove.com/products/fairway-windbreaker?variant=45852856516642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/fairway-windbreakerjacket-2905838.png?v=1784644041
     Price: $148.00 USD
   - [XS / Forest Green/Bone](https://inlandgrove.com/products/fairway-windbreaker?variant=45852856549410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/fairway-windbreakerjacket-2905838.png?v=1784644041
     Price: $148.00 USD
   - [S / Dark Navy/Bone](https://inlandgrove.com/products/fairway-windbreaker?variant=45852856647714)
     Availability: Available
@@ -1282,55 +1276,70 @@
     Availability: Available
     Price: $105.00 USD
 - [TECHNICAL PIPING SHORT](https://inlandgrove.com/products/technical-short): Technical stretch short with contrast piping down side hem with Caddy bear logo on front left leg and Inland Grove wordmark on back pocket.
-  Updated: 2026-10-08T01:08:17Z
+  Updated: 2026-10-29T18:01:10Z
   Vendor: Qiandao
   Product Type: Bottoms
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/front_8.png?v=1784843958
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-short-khaki-look4-front.jpg?v=1793225790
   - [BLACK / S](https://inlandgrove.com/products/technical-short?variant=45852948660258)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_8.png?v=1784870852
     Price: $68.00 USD
   - [BLACK / M](https://inlandgrove.com/products/technical-short?variant=45852948758562)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_8.png?v=1784870852
     Price: $68.00 USD
   - [BLACK / L](https://inlandgrove.com/products/technical-short?variant=45852948725794)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_8.png?v=1784870852
     Price: $68.00 USD
   - [BLACK / XL](https://inlandgrove.com/products/technical-short?variant=45852948693026)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_8.png?v=1784870852
     Price: $68.00 USD
   - [BLACK / XXL](https://inlandgrove.com/products/technical-short?variant=45852948627490)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_8.png?v=1784870852
     Price: $68.00 USD
   - [Khaki / S](https://inlandgrove.com/products/technical-short?variant=45852948889634)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_7.png?v=1784870852
     Price: $68.00 USD
   - [Khaki / M](https://inlandgrove.com/products/technical-short?variant=45852948987938)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_7.png?v=1784870852
     Price: $68.00 USD
   - [Khaki / L](https://inlandgrove.com/products/technical-short?variant=45852948955170)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_7.png?v=1784870852
     Price: $68.00 USD
   - [Khaki / XL](https://inlandgrove.com/products/technical-short?variant=45852948922402)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_7.png?v=1784870852
     Price: $68.00 USD
   - [Khaki / XXL](https://inlandgrove.com/products/technical-short?variant=45852948856866)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/OH_7.png?v=1784870852
     Price: $68.00 USD
   - [Navy / S](https://inlandgrove.com/products/technical-short?variant=46065293426722)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-shortbottoms-8006812.png?v=1787295258
     Price: $68.00 USD
   - [Navy / M](https://inlandgrove.com/products/technical-short?variant=46065293459490)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-shortbottoms-8006812.png?v=1787295258
     Price: $68.00 USD
   - [Navy / L](https://inlandgrove.com/products/technical-short?variant=46065293492258)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-shortbottoms-8006812.png?v=1787295258
     Price: $68.00 USD
   - [Navy / XL](https://inlandgrove.com/products/technical-short?variant=46065293525026)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-shortbottoms-8006812.png?v=1787295258
     Price: $68.00 USD
   - [Navy / XXL](https://inlandgrove.com/products/technical-short?variant=46065293557794)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/technical-piping-shortbottoms-8006812.png?v=1787295258
     Price: $68.00 USD
 - [FAIRWAY SHORT](https://inlandgrove.com/products/fairway-short): Matching short to windbreaker, Contrast panel technical short. 8 inch length.
   Updated: 2026-08-22T02:13:19Z
@@ -1640,11 +1649,11 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/relaxed-pantbottoms-3460154.png?v=1784644046
     Price: $105.00 USD
 - [INLAND GROVE SCRIPT FLAG HAT - GREEN TO WHITE](https://inlandgrove.com/products/inland-grove-script-flag-hat): Corduroy Inland Grove Flag Logo, with bicolor bill in Green and skull in BONE. Strapback closure. 5 Panel.
-  Updated: 2026-09-03T01:39:53Z
+  Updated: 2026-10-29T18:04:30Z
   Vendor: Meidiney / Mosquito
   Product Type: Hats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/inland-grove-script-flag-hathats-4736248.png?v=1784478013
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/script-flag-hat-bone-green-look8-front.jpg?v=1793230768
   Price: $48.00 USD
 - [RANGE RAT HAT](https://inlandgrove.com/products/range-rat-hat): Range Rat Logo, with bicolor bill in Pale Blue and skull in BONE. Snapback closure. 5 Panel.
   Updated: 2026-08-22T02:13:51Z
@@ -1703,7 +1712,7 @@
   Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/oval-caddy-patch-hathats-8223248.png?v=1784644038
   Price: $48.00 USD
 - [GOLF BALL PATCH HAT - BLUE](https://inlandgrove.com/products/golf-ball-patch-hat): Round Golf ball Patch hat on performance mesh base. Snapback strap. 5 Panel.
-  Updated: 2026-09-02T05:44:03Z
+  Updated: 2026-10-29T18:08:25Z
   Vendor: Meidiney / Mosquito
   Product Type: Hats
   Availability: Available
@@ -1724,14 +1733,14 @@
   Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/caddy-rope-hathats-8152133.png?v=1784644037
   Price: $48.00 USD
 - [CADDY ROPE HAT - GREEN / ORANGE ROPE](https://inlandgrove.com/products/caddy-rope-hat-1): Inland Grove Script embroidery in Orange on Green base with Orange rope detailing. Snapback closure. 5 Panel.
-  Updated: 2026-09-02T05:42:02Z
+  Updated: 2026-10-29T18:09:52Z
   Vendor: Meidiney / Mosquito
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/caddy-rope-hathats-9602562.jpg?v=1784644036
   Price: $48.00 USD
 - [CADDY THE BEAR CLASSIC HAT - GREEN TO BLACK](https://inlandgrove.com/products/caddy-the-bear-classic-hat-2): Caddy the Bear Logo, with bicolor bill in Green and skull in Black. Snapback closure. 6 Panel.
-  Updated: 2026-09-02T18:14:07Z
+  Updated: 2026-10-29T06:03:27Z
   Vendor: Meidiney / Mosquito
   Product Type: Hats
   Availability: Available
@@ -1895,7 +1904,7 @@
     Availability: Available
     Price: $68.00 USD
 - [CHI CHI RODRIGUEZ T-SHIRT](https://inlandgrove.com/products/chc-chi-rodriguez-t-shirt): Photo Box logo tee with Caddy Bear on back neck.
-  Updated: 2026-09-17T15:50:38Z
+  Updated: 2026-10-29T18:18:44Z
   Vendor: Stock Blank
   Product Type: T-Shirts
   Availability: Available
@@ -1976,7 +1985,7 @@
     Availability: Available
     Price: $68.00 USD
 - [CHARLIE SIFFORD T-SHIRT](https://inlandgrove.com/products/charlie-sifford-t-shirt): Photo Box logo tee with Caddy Bear on back neck.
-  Updated: 2026-09-17T15:50:46Z
+  Updated: 2026-10-29T06:13:35Z
   Vendor: Stock Blank
   Product Type: T-Shirts
   Availability: Available
@@ -2138,11 +2147,11 @@
     Availability: Available
     Price: $68.00 USD
 - [CITRUS ROUND HOODY](https://inlandgrove.com/products/citrus-round-hoody): Circular Inland Grove wordmark anchored by an orange with leaf detail embroidered on back with Caddy bear embroidery on front center chest.
-  Updated: 2026-10-08T01:08:19Z
+  Updated: 2026-10-29T18:20:25Z
   Vendor: Sona
   Product Type: Hoodies
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/citrus-round-hoodytops-6339725.jpg?v=1784644031
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/citrus-round-hoody-black-look11-front.jpg?v=1793254926
   - [XS / BLACK](https://inlandgrove.com/products/citrus-round-hoody?variant=46076384313378)
     Availability: Available
     Price: $118.00 USD
@@ -2322,38 +2331,31 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-bear-crewneckcrewnecks-8738138.jpg?v=1787295253
     Price: $118.00 USD
 - [SIGNATURE QUARTER ZIP](https://inlandgrove.com/products/signature-quarter-zip): Quarter Zip jersey sweatshirt with Caddy Bear logo white embroidery front left chest and and Inland Grove wordmark white embroidery on bottom back left.
-  Updated: 2026-08-26T22:58:36Z
+  Updated: 2026-10-29T20:35:21Z
   Vendor: Sona
   Product Type: Sweaters
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-2731729.png?v=1787295253
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zip-forest-green-look10-front.jpg?v=1793255252
   - [Coconut Milk / XS](https://inlandgrove.com/products/signature-quarter-zip?variant=46065289265186)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / S](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071458338)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / M](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071491106)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / L](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071523874)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / XL](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071556642)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / XXL](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071589410)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Coconut Milk / XXXL](https://inlandgrove.com/products/signature-quarter-zip?variant=46077071622178)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/signature-quarter-zipsweaters-9719328.jpg?v=1787295252
     Price: $118.00 USD
   - [Forest Green / XS](https://inlandgrove.com/products/signature-quarter-zip?variant=46065289297954)
     Availability: Available
@@ -2898,94 +2900,73 @@
     Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/club-performance-polopolos-3397121.png?v=1787295254
     Price: $95.00 USD
 - [GOLD RIDGES BUTTON POLO](https://inlandgrove.com/products/gold-ridges-button-polo): Horizontal gold stripe polo with silicone caddy logo on left chest and silicone INLAND GROVE wordmark on back bottom left seam.
-  Updated: 2026-08-31T21:46:07Z
+  Updated: 2026-10-29T18:24:49Z
   Vendor: MZLF - Anna
   Product Type: Polos
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
+  Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-polo-dark-green-look5-front.jpg?v=1793226236
   - [KHAKI GREEN / GOLD / XS](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46057373433890)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / S](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875655714)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / M](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875688482)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / L](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875721250)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / XL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875754018)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / XXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875786786)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [KHAKI GREEN / GOLD / XXXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875819554)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-3399730.png?v=1784644035
     Price: $95.00 USD
   - [RED / GOLD / XS](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46057373466658)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / S](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875852322)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / M](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875885090)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / L](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875917858)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / XL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875950626)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / XXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075875983394)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [RED / GOLD / XXXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876016162)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-4707973.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / XS](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46057373499426)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / S](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876048930)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / M](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876081698)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / L](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876114466)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / XL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876147234)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / XXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876180002)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
   - [TEAL / GOLD / XXXL](https://inlandgrove.com/products/gold-ridges-button-polo?variant=46075876212770)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0711/3156/2018/files/gold-ridges-button-polotops-9929852.png?v=1784644036
     Price: $95.00 USD
 
 ## Collections
@@ -3168,7 +3149,7 @@
 ## Policies
 
 - [Privacy Policy](https://inlandgrove.com/policies/privacy-policy)
-  Updated: 2026-02-24T02:37:28Z
+  Updated: 2026-10-29T17:28:24Z
 - [Shipping Policy](https://inlandgrove.com/policies/shipping-policy)
   Updated: 2024-03-28T17:20:41Z
 - [Refund Policy](https://inlandgrove.com/policies/refund-policy)
