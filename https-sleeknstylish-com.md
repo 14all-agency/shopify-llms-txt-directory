@@ -6,7 +6,7 @@
 - Timezone: America/Detroit
 - Created At: 2026-08-11T16:13:53Z
 - Contact Email: SleeknStylishSupport@gmail.com
-- Updated At: 2026-10-23T00:46:08.225Z
+- Updated At: 2026-10-30T01:20:33.126Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/bbd43921-cbce-4374-818d-2aa226078f18-Max.webp?v=1787005588
     Price: $38.00 USD
 - [Perfee Striped Rib-Knit Open Front Cardigan](https://sleeknstylish.com/products/perfee-striped-rib-knit-drop-shoulder-open-front-cardigan): This Striped Rib-Knit Drop Shoulder Open Front Cardigan is both stylish and comfortable with its relaxed drop shoulder design. The unique striped pattern adds a playful touch, perfect for showcasing your fashion-forward taste. Features: Ribbed Stretch: Moderate stretch Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low Model information: Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: bust 41 in, length 32 in, sleeve 20 in, shoulder 22 in M: bust 43 in, length 32 in, sleeve 20 in, shoulder 23 in L: bust 45 in, length 33 in, sleeve 20 in, shoulder 24 in
-  Updated: 2026-09-22T13:12:17Z
+  Updated: 2026-10-25T04:35:55Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/eed9fb7a81a7450a8d39b3313f9563ce-Max.jpg?v=1787005593
     Price: $28.00 USD
 - [Zara Scuba Half Zip Pullover With Pocket](https://sleeknstylish.com/products/zenana-scuba-half-zip-pullover-with-kangaroo-pockets): This stylish half-zip pullover sweatshirt is the perfect addition to your casual wardrobe. Made from a soft and cozy blend of cotton and polyester, it offers both comfort and durability. The half-zip closure allows for adjustable warmth and ventilation, while the front pocket provides convenient storage for your essentials. The relaxed fit and ribbed cuffs and hem create a flattering silhouette. Ideal for layering or wearing on its own, this sweatshirt is perfect for everyday wear. Available in a range of sizes to ensure a perfect fit. Features:Drawstring,Pocketed Stretch:Slightly stretchy Material composition:90%POLYESTER, 6%RAYON, 4%SPANDEX Care instructions:Machine wash cold. Tumble dry low Product Measurements (Measurements by inches) & Size Conversion Size Bust Waist S 34-36 26-28 M 37-38 29-31 L 39-40 32-33
-  Updated: 2026-08-29T00:41:43Z
+  Updated: 2026-10-25T21:17:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -93,7 +93,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/3b696ec6-2f1a-4d40-abcb-655ec1aacab4-Max-Origin.webp?v=1787005636
     Price: $27.84 USD
   - [H VANILLA / M](https://sleeknstylish.com/products/zenana-scuba-half-zip-pullover-with-kangaroo-pockets?variant=46519760257220)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/3b696ec6-2f1a-4d40-abcb-655ec1aacab4-Max-Origin.webp?v=1787005636
     Price: $27.84 USD
   - [H VANILLA / L](https://sleeknstylish.com/products/zenana-scuba-half-zip-pullover-with-kangaroo-pockets?variant=46519760289988)
@@ -211,7 +211,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/5e661fa2710b434bb1202bca41529f86-Max.jpg?v=1787005663
     Price: $18.00 USD
 - [Shiny Eyelet Dropped Shoulder Round Neck Blouse](https://sleeknstylish.com/products/shiny-eyelet-dropped-shoulder-round-neck-blouse): Add a touch of femininity and elegance to your wardrobe with this eyelet dropped shoulder round neck blouse. The delicate eyelet detailing creates a beautiful and intricate pattern, while the dropped shoulder and round neck design adds a relaxed and modern twist. Perfect for dressing up or down, this blouse is a versatile and stylish addition to any outfit. Features: Openwork Sheer: Opaque Stretch: No stretch Material composition: 95% polyester, 5% spandex Care instructions: Hand wash cold. Do not tumble dry Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: front length 24.2 in, bust 42.1 in, sleeve length 18.1 in M: front length 24.6 in, bust 43.7 in, sleeve length 18.3 in L: front length 25.2 in, bust 46 in, sleeve length 18.6 in XL: front length 25.7 in, bust 48.4 in, sleeve length 18.9 in
-  Updated: 2026-10-16T15:44:17Z
+  Updated: 2026-10-26T22:18:07Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/4e364d90f24d477d83fd9f5d62efc7f2-Max.jpg?v=1787005681
     Price: $25.00 USD
 - [Women's Colorblock Exposed Seam Casual Top](https://sleeknstylish.com/products/double-take-color-block-exposed-seam-top): Show off your style with this color block top. This top is crafted from a soft, comfortable material and features exposed seams and a ribbed design to show off your curves. Features: Exposed seam Sheer: Opaque Stretch: Slightly stretchy Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low Model information: Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Product measurements: S: bust 32 in, sleeve 27 in, length 21 in, hem width 32 in M: bust 34 in, sleeve 27 in, length 22 in, hem width 34 in L: bust 36 in, sleeve 28 in, length 23 in, hem width 35 in XL: bust 39 in, sleeve 28 in, length 23 in, hem width 39 in 2XL: bust 43 in, sleeve 29 in, length 24 in, hem width 42 in
-  Updated: 2026-10-18T00:43:44Z
+  Updated: 2026-10-27T01:47:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -281,7 +281,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/26e66edaae19454f93e6a20b91796b76-Max.jpg?v=1787005689
     Price: $24.00 USD
 - [Women's Ribbed Crew Neck Long Sleeve Casual T-Shirt](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-long-sleeve-t-shirt): Features: Basic style, Exposed seam Sheer: Opaque Stretch: Moderate stretch Material composition: 61% polyester, 33% rayon, 6% spandex Care instructions: Machine wash cold. Tumble dry l Model information: Regular size model-height 5'8", bust 34", waist 24", hip 35", size S, jeans size 1 Regular size model-height 5'7", bust 34", waist 26", hip 34", size S, jeans size 3 Curve model-height 5'3", bust 49", waist 40", hip 53", size 2XL Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 25.6 46.1 M 6/8 26 48.4 L 10/12 26.4 50.8 XL 14/16 26.8 53.1 2XL 18/20 27.2 57.1 3XL 22 27.6 61
-  Updated: 2026-10-20T22:12:37Z
+  Updated: 2026-10-30T00:11:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -367,7 +367,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f5cd83c0-3e30-4468-a6d8-be4bfb49863d-Max.webp?v=1787005994
     Price: $24.00 USD
   - [Orange / L](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-long-sleeve-t-shirt?variant=46523156725956)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/f5cd83c0-3e30-4468-a6d8-be4bfb49863d-Max.webp?v=1787005994
     Price: $24.00 USD
   - [Orange / XL](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-long-sleeve-t-shirt?variant=46523156758724)
@@ -634,7 +634,7 @@
     Availability: Available
     Price: $31.88 USD
 - [Perfee Long Sleeve Dropped Shoulder Jacket](https://sleeknstylish.com/products/perfee-long-sleeve-dropped-shoulder-jacket): This long sleeve dropped shoulder jacket is a fashionable and versatile outerwear piece. It adds a trendy and effortless touch to any outfit. The dropped shoulder design and long sleeves offer a cozy and comfortable feel, making it perfect for layering in cooler weather. Features: Basic style Thickness: Normal Body: Not lined Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low Model information: Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Sleeve Length Shoulder S 4 44.5 21.3 18.5 23.8 M 6/8 46.1 21.7 18.7 24.6 L 10/12 48.4 22.2 18.9 25.8 XL 14 50.8 22.8 19.2 27
-  Updated: 2026-10-19T00:04:27Z
+  Updated: 2026-10-26T22:18:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -656,7 +656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/5a269f5dd3a04884bcfdb5a1f19ec769-Max.jpg?v=1787005766
     Price: $28.00 USD
 - [Woven Right V-Neck Long Sleeve Cardigan](https://sleeknstylish.com/products/angel-wings-woven-right-v-neck-long-sleeve-cardigan): Stay effortlessly chic in this V-neck long-sleeve cardigan. With its versatile design and comfortable fit, this cardigan is the perfect addition to your wardrobe for layering or adding a touch of elegance to any look. Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: bust 40.6 in, sleeve length 22.6 in, length 23.4 in M: bust 42.1 in, sleeve length 23 in, length 23.8 in L: bust 43.7 in, sleeve length 23.4 in, length 24.2 in XL: bust 45.2 in, sleeve length 23.8 in, length 25 in
-  Updated: 2026-10-19T00:04:13Z
+  Updated: 2026-10-27T15:35:42Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -678,7 +678,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/319cee65451d47148d52421b60ffd538-Max.jpg?v=1787006036
     Price: $35.00 USD
 - [Women's Striped Wide Neck Long Sleeve Sweater](https://sleeknstylish.com/products/double-take-striped-boat-neck-sweater): This striped boat neck sweater is a timeless and versatile addition to your wardrobe. The classic boat neck design and striped pattern give it a sophisticated and nautical-inspired look, perfect for achieving a chic and effortless style. Whether paired with jeans for a casual weekend outing or dressed up with a skirt for a more polished look, this sweater is a must-have for any fashion-forward individual. Features: Exposed seam Model information: Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Stretch: Slightly stretchy Material composition: 60% acrylic, 40% nylon Care instructions: Machine wash cold. Tumble dry low Product Measurements (Measurements by inches) & Size Conversion Size US Bust Sleeve Length Top Length S 4 42.1 17.2 24.6 M 6/8 44.5 17.2 25.4 L 10/12 46.8 17.2 26.1 XL 14 49.9 17.2 26.9
-  Updated: 2026-10-19T15:34:07Z
+  Updated: 2026-10-25T04:36:17Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -794,7 +794,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/8dee70c88b2242b5b5cbce086d88cc14-Max.jpg?v=1787006545
     Price: $25.00 USD
 - [Sleek and Stylish Raw Hem Distressed Mid Rise Crop Jeans](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans): These Sleek and Stylish Raw Hem Distressed Mid Rise Crop Jeans are a stylish and fashion addition to any wardrobe. Falling under the Jeans category, specifically Denim Bottoms, these jeans feature a flattering mid-rise waist and a cropped length, perfect for showcasing your favorite shoes. The raw hem and distressed detailing add a touch of edgy style, while the classic five-pocket design provides functionality. Made from durable denim, these jeans are comfortable and built to last. The versatile design allows for easy pairing with a variety of tops, making them suitable for both casual and dressy occasions. The material is primarily cotton with a touch of spandex for stretch and comfort. Features:Pocketed,Raw Hem,Distressed Stretch:Slightly stretchy Material composition:92% cotton, 6% polyester, 2% spandex Care instructions:Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 1 25 31 28 9 3 26 32 28 9 5 27 33 28 9 7 28 34 28 9.5 9 29 35 28 9.5 11 30 36 28 9.5 13 31 37 28 10 15 32 38 28 10
-  Updated: 2026-10-21T14:54:11Z
+  Updated: 2026-10-23T13:29:01Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -808,7 +808,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 5](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222720708)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
   - [Medium / 7](https://sleeknstylish.com/products/bytos-raw-hem-distressed-mid-rise-crop-jeans?variant=46523222753476)
@@ -832,7 +832,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/997183e7-6d13-4db5-a270-c45407d03049-Max.webp?v=1787006322
     Price: $49.98 USD
 - [Sleek and Stylish High Waist Tummy Control Flare Jeans](https://sleeknstylish.com/products/judy-blue-full-size-high-waist-tummy-control-jeans): High Waist Tummy Control Jeans are designed to flatter your figure and give you a sleek silhouette. They feature a high waistband that smooths and shapes your tummy area for a slimming effect. These jeans are perfect for creating a stylish and chic look while also providing comfortable support. The tummy control feature helps to accentuate your curves and enhance your overall appearance. These jeans are versatile and can be dressed up or down for various occasions. Say goodbye to muffin tops and hello to a more confident you with High Waist Tummy Control Jeans! Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 74% cotton, 11% polyester, 6% t400, 7% rayon, 2% lycra Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 32 10 1 24 30 32 10 3 25 31 32 10.5 5 26 32 32 10.5 7 27 33 32 11 9 28 34 32 11 11 29 35 32 11 13 30 37 32 11.5 15 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5
-  Updated: 2026-10-18T20:35:31Z
+  Updated: 2026-10-28T16:00:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -898,7 +898,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/73e2b524-6dc2-49f9-836f-e9e2c4b94da1-Max.webp?v=1787006314
     Price: $52.00 USD
 - [Sleek and Stylish Full Size Button Fly Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans): The button fly hem destroys straight jeans and combines a classic silhouette with a modern flair. Featuring a stylish button fly closure, these jeans offer a unique twist on traditional designs. The distressed detailing adds a trendy, lived-in look, making them perfect for casual outings. Crafted from durable denim, they provide both comfort and style for everyday wear. Pair them with a simple tee or a cozy sweater for an effortlessly chic outfit. Elevate your denim collection with these versatile straight jeans! Features: Washed, Pocketed, Raw Hem Stretch: Moderate stretch Material composition: 94% cotton, 5% polyester, 1% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 32.5 10 1 24 30 32.5 10 3 25 31 32.5 10.5 5 26 32 32.5 10.5 7 27 33 32.5 11 9 28 34 32.5 11 11 29 35 32.5 11 13 30 37 32.5 11.5 15 31 38 32.5 11.5 14W 31 40 32.5 11.5 16W 30 40 32.5 12 18W 32 42 32.5 12 20W 35 45 32.5 12.5 22W 37 47 32.5 13 24W 39 50 32.5 13.5
-  Updated: 2026-10-21T23:47:32Z
+  Updated: 2026-10-29T15:10:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -928,7 +928,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1787006408
     Price: $56.00 USD
   - [Dark / 11](https://sleeknstylish.com/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=46523238187204)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1787006408
     Price: $56.00 USD
   - [Dark / 13](https://sleeknstylish.com/products/judy-blue-full-size-button-fly-hem-destroy-straight-jeans?variant=46523238219972)
@@ -964,7 +964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/97d55af7-fb0b-43d4-80e5-c89d35c9db02-Max.webp?v=1787006408
     Price: $56.00 USD
 - [Sleek and Stylish Full Size Tummy Control Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-straight-jeans): The Tummy Control Straight Jeans are a must-have for anyone looking to slim and shape their midsection. Featuring innovative tummy control technology, these jeans provide a smooth and flattering fit. The straight leg cut offers a classic and versatile style that can be dressed up or down for any occasion. With a blend of stretchy and comfortable fabric, these jeans ensure all-day wearability. Enjoy a sleek silhouette and enhanced confidence in these stylish and flattering Tummy Control Straight Jeans. Elevate your wardrobe with these figure-flattering jeans that offer both style and comfort. Features: Pocketed, Washed Stretch: Moderate stretch Material composition: 91% cotton, 7% polyester, 2% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Mid Rise Inseam 0 25 30 9.5 32 1 26 31 10 32 3 27 32 10 32 5 28 33 10.5 32 7 29 34 10.5 32 9 30 35 11 32 11 31 36 11 32 13 32 37 11.5 32 15 32 38 11.5 32 14W 33 40 12 32 16W 33 42 12 32 18W 34 44 12.5 32 20W 36 46 12.5 32 22W 38 48 13 32 24W 40 50 13 32
-  Updated: 2026-10-22T18:48:57Z
+  Updated: 2026-10-26T00:26:57Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1030,7 +1030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/c80cd56d-b63e-4fdc-981c-4f22270f7f51-Max.webp?v=1787006421
     Price: $54.00 USD
 - [Vibrant MIU Full Size Jess Button Flare Jeans](https://sleeknstylish.com/products/vibrant-miu-full-size-jess-button-flare-jeans): Dress retro with these ultra-high rise flared jeans. Slight distressing and a frayed hem give them a worn-in look, and the 5-button fly adds an extra detail. Faux front pockets ensure a perfect, form-flattering fit for your ensemble. Pattern Type: Solid Style: Casual Features: Distressed Length: Long Material composition: 60% cotton, 32% modal, 7% T400, 1% lycra Stretch: Moderate stretch Care instructions: Machine wash cold. Tumble dry low The models are wearing sizes 5 and 1X. Product measurements: 1: hip 29 in, rise 10.5 in, inseam 32 in, waist 22 in 3: hip 30 in, rise 10.5 in, inseam 32 in, waist 23 in 5: hip 31 in, rise 11 in, inseam 32 in, waist 24 in 7: hip 32 in, rise 11 in, inseam 32 in, waist 25 in 9: hip 33 in, rise 11 in, inseam 32 in, waist 26 in 11: hip 34 in, rise 11.5 in, inseam 32 in, waist 27 in 13: hip 35 in, rise 12 in, inseam 32 in, waist 28 in 15: hip 36 in, rise 12.5 in, inseam 32 in, waist 29 in 1X: hip 40 in, rise 13 in, inseam 32 in, waist 31 in 2X: hip 42 in, rise 13.5 in, inseam 32 in, waist 32 in 3X: hip 44 in, rise 14 in, inseam 32 in, waist 33 in
-  Updated: 2026-09-28T15:41:44Z
+  Updated: 2026-10-28T13:40:46Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1212,7 +1212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/839f1dc0-bd32-4234-8673-ccbf61d9e01a-Max.webp?v=1787006453
     Price: $56.00 USD
 - [Sleek and Stylish Full Size Tummy Control Cut Raw Hem Straight Jeans](https://sleeknstylish.com/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans! Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0 23 29 33 11 1 24 30 33 11 3 25 31 33 11 5 26 32 33 11.5 7 27 33 33 11.5 9 28 34 33 11.5 11 29 35 33 12 13 30 37 33 12 15 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-10-19T15:34:06Z
+  Updated: 2026-10-27T15:36:04Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1869,7 +1869,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/0c61acf8ad0f45a5bb2fa86b69ad94d2-Max.jpg?v=1787006192
     Price: $38.00 USD
 - [Women's Open Front Long Sleeve Casual Cardigan](https://sleeknstylish.com/products/double-take-open-front-long-sleeve-cardigan): This open-front long-sleeve cardigan is a cozy and versatile staple for any wardrobe. The long sleeves and open front design make it perfect for layering over any outfit, while the comfortable fabric ensures all-day comfort. Features: Basic style Stretch: Slightly stretchy Material composition: 100% acrylic Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Product measurements: S：front length 21.5 in, shoulder 19.1 in, bust 41.3 in, sleeve length 19.3 in M：front length 22.2 in, shoulder 20.3 in, bust 43.7 in, sleeve length 19.7 in L：front length 23 in, shoulder 21.5 in, bust 46 in, sleeve length 20.1 in XL：front length 23.8 in, shoulder 23 in, bust 49.1 in, sleeve length 20.5 in 2XL：front length 24.6 in, shoulder 24.6 in, bust 52.3 in, sleeve length 20.9 in
-  Updated: 2026-10-22T22:26:30Z
+  Updated: 2026-10-29T20:20:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1921,7 +1921,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e261ecfaa33846a083004e2ac88d50f5-Max.jpg?v=1787005834
     Price: $28.00 USD
 - [Women's Scoop Neck Empire Waist Long Sleeve Dress](https://sleeknstylish.com/products/double-take-scoop-neck-empire-waist-long-sleeve-magic-dress): This dress is absolutely stunning and looks great on all body types. The fabric is comfortable to wear, while still being elegant. You will love the dress featuring an empire waist design, scoop neckline, and long sleeves. Features: Decorative buttons, Pocketed Sheer: Opaque Stretch: Moderate stretch Body: Not lined Material composition: 95% polyester, 5% elastane Care instructions: Machine wash cold. Tumble dry low. Model information: Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Product measurements: S: bust 35 in, waist 28 in, shoulder 13 in, sleeve 23 in, hem width 57 in M: bust 37 in, waist 29 in, shoulder 14 in, sleeve 24 in, hem width 59 in L: bust 40 in, waist 31 in, shoulder 14 in, sleeve 24 in, hem width 62 in XL: bust 43 in, waist 34 in, shoulder 15 in, sleeve 25 in, hem width 65 in 2XL: bust 47 in, waist 37 in, shoulder 16 in, sleeve 25 in, hem width 69 in
-  Updated: 2026-09-24T01:36:17Z
+  Updated: 2026-10-29T05:22:26Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2013,7 +2013,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/2d084522-10ec-4fb7-9d64-2de6ace68b90-Max.webp?v=1787006200
     Price: $28.00 USD
 - [Women's Striped Collared Neck Casual Top](https://sleeknstylish.com/products/basic-bae-striped-collared-neck-rib-knit-top): Achieve a classic and stylish look with this striped collared neck rib-knit top. The striped pattern adds a timeless touch to this top, while the collared neck design adds a hint of sophistication. Made with rib-knit fabric, this top provides a comfortable and figure-flattering fit. Perfect for both casual and dressier occasions, this top is a versatile addition to your wardrobe. Features: Basic style Stretch: Stretchy Material composition: 80% cotton, 20% polyester Care instructions: Machine wash cold. Tumble dry low Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product Measurements (Measurements by inches) & Size Conversion Size US Bust Shoulder Sleeve Length Top Length S 4 31.6 14 23 23.8 M 6/8 33.5 14.4 23.4 24.6 L 10/12 35.5 14.8 23.8 25.4 XL 14 38.6 15.2 24.2 26.1 2XL 16/18 1 1 1 1
-  Updated: 2026-09-27T02:11:57Z
+  Updated: 2026-10-28T04:05:43Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2039,7 +2039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/074c2c44e8f749969c5b633eff23606c-Max.jpg?v=1787005881
     Price: $28.00 USD
 - [Women's Ribbed Half-Button Long Sleeve Henley Top](https://sleeknstylish.com/products/basic-bae-half-button-long-sleeve-top): A half-button long-sleeve top is a versatile and chic addition to your wardrobe. The half-button design adds a touch of sophistication, while the long sleeves provide comfort and warmth. Whether for a casual day out or a more formal event, this top can be easily dressed up or down for a stylish and effortless look. Features: Basic style Sheer: Opaque Stretch: Moderate stretch Material composition: 62% polyester, 32% cotton, 6% spandex Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'9", bust 34", waist 25", hip 35", size S, jeans size 3 Product Measurements (Measurements by inches) & Size Conversion Size US Bust Top Length Shoulder S 4 39 25 29 M 6/8 41 26 30 L 10/12 43 27 31 XL 14 46 28 33 2XL 16/18 49 28 34
-  Updated: 2026-09-23T14:22:32Z
+  Updated: 2026-10-23T22:05:29Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2065,7 +2065,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/4615f3b325144ea8935ebed39681ae6e-Max.jpg?v=1787005884
     Price: $26.00 USD
 - [Women's Crochet Detail Button-Front Top](https://sleeknstylish.com/products/double-take-crochet-lace-hem-sleeve-button-top): This classic top is a fun and flirty way to liven up your wardrobe. The charming lace design is feminine, while the solid color keeps it versatile. Features: Lace detail Sheer: Opaque Stretch: Slightly stretchy Material composition: 95% polyester, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: bust 32 in, waist 28 in, front length 24 in, hem width 33 in M: bust 34 in, waist 30 in, front length 25 in, hem width 35 in L: bust 36 in, waist 32 in, front length 26 in, hem width 37 in XL: bust 39 in, waist 35 in, front length 26 in, hem width 40 in 2XL: bust 43 in, waist 38 in, front length 27 in, hem width 43 in
-  Updated: 2026-10-02T01:56:27Z
+  Updated: 2026-10-25T13:36:38Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2243,7 +2243,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/13275c74418743009fccb349f1808129-Max.jpg?v=1787005928
     Price: $25.00 USD
 - [Macie Plaid Dropped Shoulder Shirt](https://sleeknstylish.com/products/mandy-plaid-dropped-shoulder-shirt): This plaid shirt features a collared neckline and long sleeves, offering a classic and refined look. The dropped shoulder design adds a relaxed and laid-back touch to the shirt. With its regular length, it can be worn as a standalone piece or layered over other garments for a chic and versatile outfit. Features: Basic style Sheer: Opaque Stretch: No stretch Material composition: 100% polyester Care instructions: Machine wash cold. Tumble dry low. Model information: Curve model-height 5'9", bust 46", waist 37", hip 48", size 1X, jeans size 14W Regular size model-height 5'6", bust 34", waist 25", hip 35", size S, jeans size 1 Product measurements: S: bust 36.7 in, length 25 in, sleeve length 23.4 in, shoulder 14 in M: bust 38.6 in, length 25.4 in, sleeve length 23.6 in, shoulder 14.4 in L: bust 40.6 in, length 25.7 in, sleeve length 23.8 in, shoulder 14.8 in XL: bust 43.7 in, length 26.1 in, sleeve length 24.2 in, shoulder 15.6 in 2XL: bust 46.8 in, length 26.5 in, sleeve length 24.6 in, shoulder 16.4 in
-  Updated: 2026-10-02T21:20:29Z
+  Updated: 2026-10-26T22:18:03Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2289,7 +2289,7 @@
     Image: https://cdn.shopify.com/s/files/1/0754/3147/7444/files/e65474f7b10b48098d0253ca5391cbba-Max.jpg?v=1787005941
     Price: $26.00 USD
 - [Women’s Ribbed Short Sleeve Crop Top – Fitted Stretch Knit Casual T-Shirt](https://sleeknstylish.com/products/basic-bae-full-size-ribbed-round-neck-short-sleeve-t-shirt): Features: Basic style, Ribbed Sheer: Opaque Stretch: Moderate stretch Material composition: 61% polyester, 33% rayon, 6% spandex Care instructions: Machine wash cold. Tumble dry low Model information: Regular size model-height 5'8", bust 34", waist 24", hip 35", size S, jeans size 1 Regular size model-height 5'7", bust 34", waist 26", hip 34", size S, jeans size 3 Product Measurements (Measurements by inches) & Size Conversion Size US Top Length Bust S 2/4 16.1 31.1 M 6/8 16.5 33.5 L 10/12 16.9 35.8 XL 14/16 17.3 38.2 2XL 18/20 17.7 42.1 3XL 22 18.1 46.1
-  Updated: 2026-10-06T05:56:03Z
+  Updated: 2026-10-29T05:22:56Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2715,7 +2715,7 @@
 ## Policies
 
 - [Privacy Policy](https://sleeknstylish.com/policies/privacy-policy)
-  Updated: 2026-08-11T16:14:02Z
+  Updated: 2026-10-29T15:04:13Z
 - [Shipping Policy](https://sleeknstylish.com/policies/shipping-policy)
   Updated: 2026-08-18T18:20:25Z
 - [Refund Policy](https://sleeknstylish.com/policies/refund-policy)
