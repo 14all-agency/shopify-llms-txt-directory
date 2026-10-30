@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-09-12T16:15:02Z
 - Contact Email: peebow65@gmail.com
-- Updated At: 2026-10-23T00:28:08.746Z
+- Updated At: 2026-10-30T00:48:52.101Z
 
 ## Products
 
@@ -175,7 +175,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Sa386004b57814beb853ab686d5c366cbo.webp?v=1791350294
     Price: $13.25 USD
 - [Carbon Board Running Sneakers | Breathable Lightweight Marathon Shoes for Men & Women](https://wpbbnz-dw.myshopify.com/products/casual-running-shoes-men-marathon-sports-carbon-board-breathable-lightweight-womens-comfortable-athletic-nonskid-sneakers-2026): Shop unisex carbon board running sneakers with breathable air mesh upper, EVA insole & non-slip rubber outsole. Lightweight & athletic. Sizes 33–45.
-  Updated: 2026-10-07T18:39:10Z
+  Updated: 2026-10-29T23:25:09Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Sab25dc3f44de4aa49c4f85bd3585ee46M.webp?v=1791350293
     Price: $28.99 USD
 - [Men's Waterproof Safety Work Boots | Steel Toe Non-Slip Industrial Shoes](https://wpbbnz-dw.myshopify.com/products/waterproof-wrok-safety-shoes-for-men-summer-breathable-indestructible-boots-non-slip-industrial-construction-shoes-male-footwear): Shop PHLIYXUAN men's waterproof safety work boots with steel toe cap, non-slip rubber outsole & EVA insole. Breathable & handmade. Sizes 36–46.
-  Updated: 2026-10-07T18:45:15Z
+  Updated: 2026-10-29T23:27:21Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -563,7 +563,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S028fbd247d8846f79ec7c5f77450ced4M.webp?v=1791350294
     Price: $45.33 USD
 - [Men's Minimalist Slip-On Mule Trainers | Breathable Knit Casual Shoes](https://wpbbnz-dw.myshopify.com/products/simple-minimalist-men-mule-trainers-perforated-grid-knit-breathable-surface-wrapped-protective-toe-overlay-lightweight-slip-on): Shop men's minimalist slip-on mule trainers with perforated knit upper, protective toe overlay & EVA insole. Anti-odor & lightweight. Sizes 39–45.
-  Updated: 2026-10-07T18:43:51Z
+  Updated: 2026-10-29T23:27:27Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -921,7 +921,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S1ae3e90fac014010bfff01d594fd144bz.webp?v=1791350296
     Price: $33.66 USD
 - [COZOK Men's Canvas Slip-On Platform Shoes | Lightweight & Breathable](https://wpbbnz-dw.myshopify.com/products/2026-mens-shoes-spring-summer-comfortable-lightweight-casual-shoes-fashion-platform-outdoor-walking-shoes-zapatillas-informales): Shop COZOK men's breathable canvas slip-on shoes with rubber outsole & platform sole. Lightweight, waterproof & stylish. Sizes 39–46.
-  Updated: 2026-10-07T18:41:11Z
+  Updated: 2026-10-29T23:25:09Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -1229,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Se32320ba04854275808ce220bad8762cN.webp?v=1791350297
     Price: $16.99 USD
 - [Men's High-Top Air Sneakers | Basketball, Running & Tennis Shoes](https://wpbbnz-dw.myshopify.com/products/men-sneakers-air-casual-sprots-basketball-shoes-high-top-field-running-shoes-couple-tennis-shoes-for-men-and-women-size-36-45): Shop men's high-top air sneakers with rubber outsole & leather upper. Great for basketball, running & casual wear. Unisex. Sizes 36–47.
-  Updated: 2026-10-07T18:43:51Z
+  Updated: 2026-10-29T23:27:31Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -1537,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S79471385df8d45a2ba3f00f020b54bd3a.webp?v=1791350298
     Price: $23.95 USD
 - [Men's Chunky Height-Boosting Sneakers | Breathable Lightweight Sports Shoes](https://wpbbnz-dw.myshopify.com/products/chunky-sneakers-summer-new-heighten-breathable-lightweight-casual-mens-outdoor-running-shoes-fashion-student-speed-sports-shoes): Shop men's chunky sneakers with height-increasing sole, breathable mesh upper & lightweight design. Stylish & comfortable. Sizes 39–44.
-  Updated: 2026-10-07T18:46:11Z
+  Updated: 2026-10-29T23:25:10Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -1845,7 +1845,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S63a76e7903bd42e48536030eda9f79c4T.webp?v=1791350301
     Price: $18.66 USD
 - [Men's Casual Sneakers | Breathable Lace-Up Sport Shoes](https://wpbbnz-dw.myshopify.com/products/sneaker-for-men-casual-shoes-sneakers-mens-shoes-prices-urban-man-sneakers-for-mens-casual-sport-shoe-original-deals-male): Shop EALSQN men's casual lace-up sneakers with breathable air mesh upper & EVA sole. Lightweight, flexible & stylish. Sizes 36–46. True to size.
-  Updated: 2026-10-07T18:44:31Z
+  Updated: 2026-10-29T23:27:27Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2321,7 +2321,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Sd8528b4ee7134c89b0fa6fbc6f894fc0g.webp?v=1791356163
     Price: $7.47 USD
 - [20cm Anime-Style Plush Doll - Soft Plush Toy](https://wpbbnz-dw.myshopify.com/products/20cm-senbon-zakura-kaito-plush-toys-cute-soft-stuffed-animal-fumo-cosplay-pillow-dolls-for-kid-birthday-christmas-gift): Shop 20cm Anime-Style Plush Doll. Soft, cuddly and gift-ready, in multiple styles and sizes. Order online today.
-  Updated: 2026-10-07T18:56:10Z
+  Updated: 2026-10-29T23:27:30Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2384,7 +2384,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S3d49d6ab7a524c03aee695451279e5b2q.webp?v=1791356164
     Price: $9.63 USD
 - [Cheese Cat Plush Doll - Soft Plush Toy](https://wpbbnz-dw.myshopify.com/products/cat-plush-toys-chi-chis-cat-stuffed-doll-soft-animal-dolls-cheese-cat-stuffed-toys-dolls-pillow-cushion-for-kids-sweet-cat-doll): Shop Cheese Cat Plush Doll. Soft, cuddly and gift-ready, in multiple styles and sizes. Order online today.
-  Updated: 2026-10-07T18:56:10Z
+  Updated: 2026-10-29T23:27:25Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2568,7 +2568,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Sfb6318b9e9ec473797940cc232a5abf1z.webp?v=1791356166
     Price: $32.40 USD
 - [Soft Cat & Dog Plush Toy - Soft Plush Toy](https://wpbbnz-dw.myshopify.com/products/mr-vivicare-cat-plush-toy-small-soft-simulation-kids-stuffed-animal-toys-for-children-cute-photo-props-girls-birthday): Shop Soft Cat & Dog Plush Toy. Soft, cuddly and gift-ready, in multiple styles and sizes. Order online today.
-  Updated: 2026-10-07T18:56:10Z
+  Updated: 2026-10-29T23:27:22Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2661,30 +2661,27 @@
 
 ## Collections
 
-- [Lifestyle & Accessories](https://wpbbnz-dw.myshopify.com/collections/lifestyle-accessories): Everyday essentials and stylish accessories to complete your look. Shop quality picks at great prices, delivered to your door.
-  Updated: 2026-10-07T05:20:55Z
+- [Lifestyle & Accessories](https://wpbbnz-dw.myshopify.com/collections/lifestyle-accessories): Shop everyday essentials and stylish accessories at Peebow. Quality picks at great prices, delivered to your door.
+  Updated: 2026-10-29T23:18:23Z
   Total Products: 0
-- [Jeans & Pants](https://wpbbnz-dw.myshopify.com/collections/jeans-pants): Comfortable, trendy jeans and pants for every day. Find your perfect fit in classic and modern styles.
-  Updated: 2026-10-20T21:50:13Z
+- [Jeans & Pants](https://wpbbnz-dw.myshopify.com/collections/jeans-pants): Comfortable, trendy jeans and pants for every day. Find your perfect fit in classic and modern styles at Peebow.
+  Updated: 2026-10-29T23:18:24Z
   Total Products: 24
-- [Stuffed Animals & Plush Toys](https://wpbbnz-dw.myshopify.com/collections/stuffed-animals-plush-toys): Soft, cuddly plush toys and stuffed animals for kids and collectors. Perfect gifts that bring a smile.
-  Updated: 2026-10-20T21:44:27Z
+- [Stuffed Animals & Plush Toys](https://wpbbnz-dw.myshopify.com/collections/stuffed-animals-plush-toys): Shop soft, cuddly plush toys and stuffed animals for kids and collectors. Perfect gifts that bring a smile. Order at Peebow.
+  Updated: 2026-10-29T23:18:24Z
   Total Products: 64
-- [Pet Play Zone](https://wpbbnz-dw.myshopify.com/collections/pet-play-zone): Everything your pet needs, all in one place. Shop toys, accessories, and daily essentials for your furry, feathered, or scaly friends. 🐶🐱
-  Updated: 2026-10-20T22:02:47Z
+- [Pet Play Zone](https://wpbbnz-dw.myshopify.com/collections/pet-play-zone): Toys, accessories and daily essentials for dogs, cats and other pets. Shop the Pet Play Zone at Peebow.
+  Updated: 2026-10-29T23:18:24Z
   Total Products: 71
-- [Sneaker's](https://wpbbnz-dw.myshopify.com/collections/sneakers-1): Fresh, comfortable sneakers for every style and occasion. step out in the latest look
-  Updated: 2026-10-20T22:10:00Z
+- [Sneakers](https://wpbbnz-dw.myshopify.com/collections/sneakers-1): Fresh, comfortable sneakers for every style and occasion. Shop casual, running and platform sneakers at Peebow.
+  Updated: 2026-10-29T23:18:24Z
   Total Products: 28
 - [Gym & Fitness](https://wpbbnz-dw.myshopify.com/collections/gym-fitness): Shop top gym and fitness gear at Peebow. Workout equipment, accessories, and apparel to help you train harder and reach your goals faster.
   Updated: 2026-10-20T22:07:00Z
   Total Products: 13
-- [Boys' Essentials](https://wpbbnz-dw.myshopify.com/collections/boys-essentials): Everything a boy needs, nothing he doesn't. Shop top picks for every age and occasion.
-  Updated: 2026-10-20T22:21:14Z
+- [Boys' Essentials](https://wpbbnz-dw.myshopify.com/collections/boys-essentials): Everything a boy needs, nothing he doesn't. Shop top picks for every age and occasion at Peebow.
+  Updated: 2026-10-29T23:18:24Z
   Total Products: 37
-- [Gym & Fitness](https://wpbbnz-dw.myshopify.com/collections/gym-fitness-1): Level up your workout game with our curated Gym & Fitness collection. Train harder. Recover faster. Look great doing it.
-  Updated: 2026-10-20T22:27:43Z
-  Total Products: 13
 
 ## Store Pages
 
