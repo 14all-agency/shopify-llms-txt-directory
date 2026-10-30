@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:49:10.108Z
+- Updated At: 2026-10-30T01:02:55.172Z
 
 ## Products
 
 - [the adventures of mxmtoon: dawn & dusk](https://merch.mxmtoon.com/products/the-adventures-of-mxmtoon-dawn-dusk): the adventures of mxmtoon: dawn & dusk
-  Updated: 2026-10-05T13:03:39Z
+  Updated: 2026-10-28T20:11:47Z
   Vendor: mxmtoon
   Product Type: Book
   Availability: Available
@@ -130,14 +130,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-purple.png?v=1650918959
   Price: $30.00 USD
 - [rising - limited edition pink vinyl](https://merch.mxmtoon.com/products/rising-spotify-fans-first-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" light pink vinyl and features full color tri fold packaging. Release Date: May 20, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-10-07T17:40:41Z
+  Updated: 2026-10-28T14:54:21Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/products/mxmtoon_web_rising_music_lp-spotify-pink.png?v=1650919025
   Price: $30.00 USD
-- [mxmtoon logo tee](https://merch.mxmtoon.com/products/mxmtoon-logo-tee): Product Brand/Style: Royal 5051ORG - Eggplant Fit: StandardFabric: 100% Organic Cotton, USA Made
-  Updated: 2026-10-12T15:21:11Z
+- [mxmtoon logo tee](https://merch.mxmtoon.com/products/mxmtoon-logo-tee): 100% organic cotton t-shirt in eggplant, USA Made
+  Updated: 2026-10-27T14:21:46Z
   Vendor: mxmtoon
   Product Type: Shirts
   Availability: Available
@@ -155,7 +155,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
   - [X-Large](https://merch.mxmtoon.com/products/mxmtoon-logo-tee?variant=42132018561218)
-    Availability: Not Available
+    Availability: Available
     Price: $20.00 USD
   - [2X-Large](https://merch.mxmtoon.com/products/mxmtoon-logo-tee?variant=42132018593986)
     Availability: Not Available
@@ -419,7 +419,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTbumperstickerset.png?v=1722365355
   Price: $15.00 USD
 - [liminal space - exclusive cloudy green vinyl](https://merch.mxmtoon.com/products/liminal-space-exclusive-cloudy-green-vinyl): Exclusive cloudy green pressing release date: november 1st, 2024
-  Updated: 2026-10-05T13:04:04Z
+  Updated: 2026-10-23T15:19:58Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -489,7 +489,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMT_Rising_Cass_signed.png?v=1774462988
   Price: $10.00 USD
 - [rising - yellow vinyl](https://merch.mxmtoon.com/products/rising-yellow-vinyl): mxmtoon's second full-length LP, rising. Pressed to 12" yellow vinyl and features full color tri fold packaging. Release Date: December 16, 2022Record Label: AWAL Recordings America, Inc.Format + Color: 12" Vinyl
-  Updated: 2026-10-05T13:04:12Z
+  Updated: 2026-10-23T15:20:00Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -534,7 +534,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
   Updated: 2026-10-12T15:16:42Z
@@ -543,7 +543,7 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:42Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-10-12T15:16:43Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-10-12T15:15:51Z
@@ -561,13 +561,13 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
   Total Products: 15
 - [Spotify](https://merch.mxmtoon.com/collections/spotify)
-  Updated: 2026-10-08T11:04:14Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 3
 - [Livestream Promotions](https://merch.mxmtoon.com/collections/livestream-promotions)
   Updated: 2026-07-08T20:17:27Z
@@ -585,7 +585,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:27Z
   Total Products: 0
 - [rising](https://merch.mxmtoon.com/collections/rising)
-  Updated: 2026-10-12T15:16:43Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 18
 - [Misc](https://merch.mxmtoon.com/collections/misc)
   Updated: 2026-10-12T15:16:44Z
@@ -594,7 +594,7 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:42Z
   Total Products: 13
 - [new arrivals](https://merch.mxmtoon.com/collections/new-arrivals)
-  Updated: 2026-10-12T15:16:43Z
+  Updated: 2026-10-24T11:04:46Z
   Total Products: 34
 - [bittersweet daze tour merch](https://merch.mxmtoon.com/collections/bittersweet-daze-tour-merch)
   Updated: 2026-10-12T15:16:44Z
@@ -630,13 +630,13 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:15:52Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-10-29T11:04:08Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
   Updated: 2026-10-12T15:15:52Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
-  Updated: 2026-10-12T15:15:35Z
+  Updated: 2026-10-24T11:04:46Z
   Total Products: 7
 - [liminal space collection](https://merch.mxmtoon.com/collections/liminal-space-collection)
   Updated: 2026-10-12T15:15:34Z
