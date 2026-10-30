@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-11-06T10:53:38Z
 - Contact Email: theworldofnerdscustomer@gmail.com
-- Updated At: 2026-10-23T00:23:19.396Z
+- Updated At: 2026-10-30T00:53:30.950Z
 
 ## Products
 
@@ -2391,7 +2391,7 @@
   Updated: 2026-09-10T11:12:56Z
   Total Products: 196
 - [KEYCHAINS](https://theworldofnerds.com/collections/keychains): Add a touch of personality to your keys with our vibrant character keychains! These keychains are made from high-quality, durable material and feature various adorable designs that cater to all ages. Our keychains are lightweight and available in multiple colors and styles, perfect for everyday use or as a charming gift. Explore our collection to find your favorite character and enjoy the perfect blend of functionality and fun. Whether you want to express your unique style or seek the ideal gift, shop now and elevate your key collection game.
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 277
 - [Q Poskets](https://theworldofnerds.com/collections/q-poskets): Bring your favorite characters to life with Q Poskets! These adorable, highly detailed figures capture the charm and personality of iconic anime and manga characters in a unique, stylized form. Known for their cute, wide-eyed expressions and vibrant colors, Q Poskets are perfect for collectors and fans alike. Each figure is carefully crafted with attention to detail, making them a must-have addition to any collection. Whether you're a fan of classic anime or the latest releases, Q Poskets are the perfect way to display your love for your favorite characters!
   Updated: 2026-05-17T11:16:55Z
@@ -2442,16 +2442,16 @@
   Updated: 2026-09-26T11:10:29Z
   Total Products: 21
 - [ALL DIECAST CAR'S](https://theworldofnerds.com/collections/diecast-cars): A diecast car toy is a little masterpiece on wheels! Made from metal alloys, these toys are miniature versions of real cars, and they’re built to last. They come with super detailed features like realistic paint jobs, decals, and sometimes even movable parts like doors or wheels. Whether you’re into collecting or just love cars, diecast toys are great for both display and play. They come in different sizes, so you can choose one that fits perfectly on your shelf or in your hands. With their awesome craftsmanship, each car feels like a mini version of the real thing!
-  Updated: 2026-10-02T11:11:59Z
+  Updated: 2026-10-27T11:12:01Z
   Total Products: 647
 - [ANIME](https://theworldofnerds.com/collections/anime): Anime toys are like little pieces of your favorite shows that you can hold in your hands! Whether it’s a cool action figure, a cute plushie, or a stunning statue, these toys are made with awesome attention to detail, capturing the unique style and personality of beloved characters. They’re perfect for showing off your love for a certain anime or just adding a bit of fun to your space. Each one is made to bring a bit of that anime magic into the real world—whether you want to display them on a shelf, keep them close, or even take them on little adventures! If you’re a fan, these toys let you connect with the anime you love in a whole new way.
-  Updated: 2026-08-20T11:10:54Z
+  Updated: 2026-10-25T11:12:24Z
   Total Products: 151
 - [MAISTO DIECAST CAR'S](https://theworldofnerds.com/collections/maisto): Get ready to rev up your collection with Maisto Diecast Cars! Known for their exceptional craftsmanship and attention to detail, Maisto diecast cars offer a perfect blend of realism and durability. From sleek sports cars to classic vintage models, each car is carefully crafted with realistic features, intricate designs, and vibrant finishes. Whether you’re a passionate car collector or simply a fan of fine models, Maisto cars are built to impress and are ideal for display, gifting, or adding to your collection. Start your Maisto journey today and experience the ultimate in diecast car excellence!
   Updated: 2026-09-01T12:42:27Z
   Total Products: 14
 - [BBURAGO DIECAST CAR'S](https://theworldofnerds.com/collections/bburago): Step into the world of high-quality craftsmanship with BBURAGO Diecast Cars! Known for their attention to detail and authentic designs, BBURAGO offers a wide range of diecast cars, from classic vintage models to the latest sports cars. Each model is expertly crafted with precision, featuring realistic finishes, detailed interiors, and movable parts, making them perfect for collectors and car enthusiasts alike. Whether you're displaying them on your shelf or racing them on your track, BBURAGO’s diecast cars are built to impress with their stunning design and durability.
-  Updated: 2026-09-10T11:12:56Z
+  Updated: 2026-10-27T11:12:01Z
   Total Products: 64
 - [BBURAGO CAR SCLAE 1:18](https://theworldofnerds.com/collections/sclae-1-18): Take your collection to the next level with BBURAGO 1:18 Scale Cars! These larger-than-life diecast models are crafted with impeccable attention to detail, offering a stunning representation of both classic and modern vehicles. From fully functional doors and hoods to intricate interiors, each model is designed to showcase the finest automotive features in a 1:18 scale. Perfect for serious collectors, car enthusiasts, or anyone who appreciates high-quality craftsmanship, BBURAGO’s 1:18 scale cars deliver both style and realism in every piece.
   Updated: 2026-08-13T11:15:15Z
@@ -2472,7 +2472,7 @@
   Updated: 2026-09-10T11:12:56Z
   Total Products: 14
 - [BBURAGO CAR SCALE 1:43](https://theworldofnerds.com/collections/bburago-scale-1-43): Discover the perfect blend of quality and detail with BBURAGO 1:43 Scale Cars! These finely crafted diecast models offer an incredible level of precision, capturing the true essence of iconic vehicles in a compact 1:43 scale. Each model features realistic details, including vibrant paint finishes, detailed interiors, and intricate designs, making them a must-have for collectors and car enthusiasts. Whether you're looking to display your favorite car or start a new collection, BBURAGO’s 1:43 scale cars offer the perfect balance of size and authenticity.
-  Updated: 2026-09-01T12:42:31Z
+  Updated: 2026-10-27T11:12:01Z
   Total Products: 24
 - [RMZ CITY](https://theworldofnerds.com/collections/rmz-city): Explore the world of detailed diecast models with RMZ City! Known for their exceptional quality and precision, RMZ City offers a wide range of miniature vehicles, from sleek sports cars to classic trucks and everyday vehicles. Each model is designed with intricate details, including realistic paint finishes, moving parts, and high-quality construction. Perfect for collectors, enthusiasts, or anyone who loves finely crafted vehicles, RMZ City brings the excitement of the automotive world to your shelves. Add a touch of realism and style to your collection with these impressive diecast models.
   Updated: 2026-09-03T11:11:24Z
@@ -2484,7 +2484,7 @@
   Updated: 2026-08-12T11:11:37Z
   Total Products: 38
 - [ALL ACTION FIGURES](https://theworldofnerds.com/collections/action-figures): Action figures are more than just toys—they’re a chance to bring your favorite characters to life. With their detailed designs, movable joints, and cool accessories, these figures let you recreate epic moments or imagine your own adventures. Whether it’s superheroes, villains, or characters from your favorite shows, each figure captures the essence of who they are, making them fun to play with or display. For kids, they’re a tool for creativity and storytelling, and for collectors, they’re a way to hold onto a piece of the worlds we love. Simply put, action figures make playtime and display a lot more exciting!
-  Updated: 2026-09-19T11:10:13Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 284
 - [RC](https://theworldofnerds.com/collections/rc): Remote control toys are an awesome way to have some fun and let your imagination run wild. Whether it’s racing cars, flying drones, or even controlling a little robot, these toys let you take charge of the action. They’re not just for kids—adults love them too! You can race around, do tricks, or just enjoy the thrill of controlling something with a simple push of a button. Plus, they’re a great way to practice coordination and problem-solving. With so many cool options out there, there’s a remote control toy for pretty much anyone and any interest.
   Updated: 2026-04-18T11:21:57Z
@@ -2493,7 +2493,7 @@
   Updated: 2025-08-12T11:12:51Z
   Total Products: 3
 - [ALL KEYCHAIN](https://theworldofnerds.com/collections/all-keychain): Unlock your style with our collection of unique and customizable keychains! Whether you’re looking for fun, quirky designs or sleek, minimalist accessories, we have keychains to suit every personality. Perfect for holding your keys, adding a touch of charm to your bags, or giving as thoughtful gifts, our keychains are as functional as they are fashionable. Browse through our wide selection and find the perfect keychain to express your style!
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 447
 - [CARTOON KEYCHAINS](https://theworldofnerds.com/collections/cartoon-keychains): Add some fun and personality to your keys with our vibrant collection of cartoon keychains! Featuring your favorite animated characters, these keychains are the perfect way to showcase your love for beloved cartoons. Made with high-quality materials and colorful designs, each keychain is a delightful accessory that will brighten up your day. Whether you're a fan of classic cartoons, modern favorites, or quirky characters, our collection has something for everyone. Ideal for gifting, collecting, or adding a playful touch to your everyday essentials, these cartoon keychains are sure to bring a smile wherever you go!
   Updated: 2026-10-10T11:11:37Z
@@ -2502,7 +2502,7 @@
   Updated: 2026-09-02T11:11:06Z
   Total Products: 34
 - [ANIME KEYCHAIN](https://theworldofnerds.com/collections/anime-keychain): Show your love for anime with our exclusive collection of Anime Keychains! Featuring your favorite characters from popular anime series, these keychains are the perfect way to carry a piece of your fandom wherever you go. Made with vibrant colors and high-quality materials, each keychain is designed to showcase the iconic heroes, villains, and moments that make anime so unforgettable. Whether you’re looking to add some personality to your bag, keys, or accessories, our anime keychains are the perfect way to express your passion for the world of anime!
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 272
 - [SPORTS KEYCHAIN](https://theworldofnerds.com/collections/sports-keychain): Show off your love for sports with our collection of Sports Keychains! Whether you're a fan of football, basketball, soccer, or any other sport, these keychains are the perfect way to carry a symbol of your favorite game with you. Crafted with attention to detail and durable materials, each keychain features iconic sports equipment, team logos, or action-packed designs that will make a bold statement. Perfect for athletes, fans, or anyone who loves the thrill of the game, these sports keychains are a great addition to your everyday essentials or make an ideal gift for the sports enthusiast in your life.
   Updated: 2026-09-01T11:10:36Z
@@ -2523,7 +2523,7 @@
   Updated: 2026-09-14T11:09:11Z
   Total Products: 213
 - [SHOP BY MERCHANDISE](https://theworldofnerds.com/collections/anime-action-figures): Explore our exclusive collection of nerd-inspired merchandise, carefully curated for fans of all things geeky! Whether you're into gaming, comics, anime, or pop culture, we have something special for you. Browse through categories like apparel, collectibles, accessories, and home decor to find the perfect addition to your collection. Level up your fandom with high-quality products designed for true enthusiasts. Start shopping now and bring your favorite worlds to life!
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 571
 - [MAISTO BIKE SCALE 1:6](https://theworldofnerds.com/collections/maisto-scale-1-6): Step up your collection with the impressive Maisto 1:6 Scale Bikes! Known for their exceptional attention to detail and craftsmanship, Maisto offers highly realistic, fully-functional diecast models that are perfect for motorcycle enthusiasts and collectors. With a scale of 1:6, these bikes are larger and packed with intricate features like movable parts, detailed engines, and authentic finishes. From sportbikes to choppers, Maisto’s 1:6 scale bikes are the ultimate way to showcase your love for motorcycles. Whether displayed on a shelf or added to your collection, these models are built to impress.
   Updated: 2026-02-05T10:58:13Z
@@ -2541,7 +2541,7 @@
   Updated: 2026-04-17T11:17:46Z
   Total Products: 74
 - [COLLECTABLES & FIGURES](https://theworldofnerds.com/collections/collectables-figures): "Expand your collection with our latest collectibles & figures! From highly detailed action figures and statues to limited-edition Funko Pop! collectibles, keychains, and more, we have something for every fan. Whether you're into anime, superheroes, gaming, or movie icons, these premium-quality pieces bring your favorite characters to life. Perfect for display, gifting, or adding to your ever-growing collection—grab yours before they’re gone!" 🎮🔥🧩
-  Updated: 2026-09-19T11:10:13Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 621
 - [ANIME & POP CULTURE](https://theworldofnerds.com/collections/anime-pop-culture): "Level up your collection with our latest anime and pop culture arrivals! From highly detailed action figures and adorable Funko Pop! collectibles to stylish keychains, posters, and apparel, we have everything a true fan needs. Whether you're looking to decorate your space, accessorize your style, or expand your collection with exclusive finds, these must-have items bring your favorite characters to life. Don't miss out—shop now and celebrate your fandom in the best way possible!" 🚀🔥
   Updated: 2026-10-13T11:10:25Z
@@ -2571,13 +2571,13 @@
   Updated: 2026-08-20T11:10:54Z
   Total Products: 60
 - [ONE PIECE](https://theworldofnerds.com/collections/one-piece): One Piece Collection – Set sail on an epic adventure with our exclusive One Piece merchandise inspired by the world of pirates and the Grand Line. Discover a treasure trove of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic Straw Hat gear. Whether you admire Luffy’s unbreakable spirit, Zoro’s unmatched swordsmanship, or the bond of the Straw Hat crew, our collection lets you celebrate your love for the legendary anime in style. Join the journey, embrace the pirate life, and find your next treasure. Shop now and become a part of the One Piece world.
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 144
 - [DRAGON BALL Z](https://theworldofnerds.com/collections/dragon-ball-z): Dragon Ball Z Collection – Power up your style with our exclusive Dragon Ball Z merchandise inspired by the legendary Saiyan warriors. Explore a dynamic range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items like Dragon Balls and Saiyan armor. Whether you admire Goku’s unstoppable determination, Vegeta’s fierce pride, or the intense battles that shaped the universe, our collection lets you showcase your love for the series. Train like a true warrior, unleash your power, and take your fandom to the next level. Shop now and channel the energy of the Dragon Ball Z universe.
   Updated: 2026-09-02T11:11:06Z
   Total Products: 112
 - [JUJUTSU KAISEN](https://theworldofnerds.com/collections/jujutsu-kaisen): Jujutsu Kaisen Collection – Step into the world of sorcery and cursed energy with our exclusive Jujutsu Kaisen merchandise. Explore a powerful selection of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items inspired by Gojo Satoru, Itadori Yuji, Megumi Fushiguro, and other legendary jujutsu sorcerers. Whether you’re drawn to intense battles, powerful domain expansions, or the dark and mysterious world of curses, our collection lets you showcase your love for the series in style. Shop now and embrace the power of Jujutsu Kaisen.
-  Updated: 2026-08-13T11:15:15Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 44
 - [POKEMON](https://theworldofnerds.com/collections/pokemon): Pokemon Collection – Catch ‘em all with our exclusive Pokemon merchandise, perfect for trainers of all ages. Explore a wide range of apparel, hoodies, t-shirts, accessories, collectible figurines, and iconic items featuring Pikachu, Charizard, Eevee, and other beloved Pokemon. Whether you’re a longtime fan or just starting your journey, our collection brings the magic of the Pokemon world to life. Train, battle, and collect your favorites in style. Shop now and become the ultimate Pokemon Master.
   Updated: 2026-06-18T11:12:30Z
@@ -2601,7 +2601,7 @@
   Updated: 2026-05-04T11:16:21Z
   Total Products: 49
 - [SHOP ALL BY MERCHANDISE](https://theworldofnerds.com/collections/shop-all-by-merchandise): New arrivals are here! Explore the latest action figures, Funko Pop! collectibles, keychains, and more—perfect for every fan and collector. Whether you're hunting for rare finds, adding to your collection, or looking for the perfect gift, our newest merchandise has something for everyone. Shop now and grab your favorites before they’re gone!" 🎉🔥
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 960
 - [MARVEL](https://theworldofnerds.com/collections/marvel): "Unleash the power of the Marvel Universe with our latest collection of action figures, Funko Pop! collectibles, keychains, and more! From legendary heroes like Spider-Man, Iron Man, Thor, and Captain America to iconic villains like Thanos and Loki, these high-quality collectibles bring the epic battles and stories of Marvel to life. Whether you're a die-hard fan or a passionate collector, now’s your chance to assemble your favorite characters and celebrate the legacy of Marvel. Shop now and bring the action home!" 🦸♂️⚡🔥
   Updated: 2026-09-15T11:10:12Z
@@ -2619,7 +2619,7 @@
   Updated: 2026-02-11T09:58:38Z
   Total Products: 1
 - [NEW ARRIVALS 📢](https://theworldofnerds.com/collections/new-arrivals-📢): New arrivals just dropped! Explore a fresh selection of high-quality die-cast cars and collectibles, perfect for expanding your collection or finding that one special piece. Whether you're a passionate collector or just starting out, our latest additions feature stunning details, unique designs, and limited-edition finds that you won’t want to miss. Grab yours now before they  out!" 🚗✨
-  Updated: 2026-10-22T10:31:13Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 1128
 - [Light Boxes](https://theworldofnerds.com/collections/light-boxes)
   Updated: 2026-02-12T12:06:28Z
@@ -2634,7 +2634,7 @@
   Updated: 2026-08-02T11:10:10Z
   Total Products: 17
 - [⚡ ALL ANIME MERCHANDISE ⚔️🔥](https://theworldofnerds.com/collections/all-anime-merchandise)
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 412
 - [MATCHBOX](https://theworldofnerds.com/collections/matchbox)
   Updated: 2026-09-19T11:10:13Z
@@ -2652,7 +2652,7 @@
   Updated: 2026-08-20T11:10:54Z
   Total Products: 85
 - [Anime Ultimates](https://theworldofnerds.com/collections/anime-ultimates)
-  Updated: 2026-05-22T11:12:24Z
+  Updated: 2026-10-25T11:12:24Z
   Total Products: 13
 - [SCALE 1:64](https://theworldofnerds.com/collections/cca)
   Updated: 2026-10-01T11:12:47Z
@@ -2697,7 +2697,7 @@
   Updated: 2026-06-08T10:59:42Z
   Total Products: 3
 - [POSTER](https://theworldofnerds.com/collections/poster): - The World Of Nerds
-  Updated: 2026-10-22T10:31:58Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 110
 - [test](https://theworldofnerds.com/collections/test): - The World Of Nerds
   Updated: 2026-08-25T10:23:09Z
@@ -2706,11 +2706,11 @@
   Updated: 2026-09-26T11:10:29Z
   Total Products: 59
 - [Bburago](https://theworldofnerds.com/collections/bburago-1): - The World Of Nerds
-  Updated: 2026-09-10T11:12:56Z
+  Updated: 2026-10-27T11:12:01Z
   Total Products: 67
 - [NARUTO d](https://theworldofnerds.com/collections/naruto-1): - The World Of Nerds
-  Updated: 2026-10-14T11:11:22Z
-  Total Products: 74
+  Updated: 2026-10-27T07:11:25Z
+  Total Products: 73
 - [JUJUTSU KAISEN ACTION FIGURES](https://theworldofnerds.com/collections/jujutsu-kaisen-action-figures): - The World Of Nerds
   Updated: 2026-05-07T11:22:19Z
   Total Products: 26
@@ -2721,10 +2721,10 @@
   Updated: 2026-02-24T09:55:19Z
   Total Products: 2
 - [JUJUTSU KAISEN KEYCHAINS](https://theworldofnerds.com/collections/jujutsu-kaisen-keychains): - The World Of Nerds
-  Updated: 2026-08-13T11:15:15Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 10
 - [JUJUTSU KAISEN POSTERS](https://theworldofnerds.com/collections/jujutsu-kaisen-posters): - The World Of Nerds
-  Updated: 2026-03-29T11:15:29Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 1
 - [JUJUTSU KAISEN ACCESSORIES](https://theworldofnerds.com/collections/jujutsu-kaisen-accessories): - The World Of Nerds
   Updated: 2026-03-26T13:12:21Z
@@ -2805,7 +2805,7 @@
   Updated: 2026-09-15T11:10:12Z
   Total Products: 10
 - [ONE PIECE ACTION FIGURE](https://theworldofnerds.com/collections/one-piece-action-figure): - The World Of Nerds
-  Updated: 2026-09-05T11:12:16Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 75
 - [ONE PIECE PREMIUM STATUES](https://theworldofnerds.com/collections/one-piece-premium-statues): - The World Of Nerds
   Updated: 2026-02-27T05:54:03Z
@@ -2817,7 +2817,7 @@
   Updated: 2026-04-09T11:18:26Z
   Total Products: 9
 - [ONE PIECE KEYCHAINS](https://theworldofnerds.com/collections/one-piece-keychains): - The World Of Nerds
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 30
 - [ONE PIECE LIGHTBOX](https://theworldofnerds.com/collections/one-piece-lightbox): - The World Of Nerds
   Updated: 2026-04-17T06:51:00Z
@@ -2841,7 +2841,7 @@
   Updated: 2026-02-27T06:16:35Z
   Total Products: 1
 - [ACTION FIGURES ALL](https://theworldofnerds.com/collections/action-figures-1): - The World Of Nerds
-  Updated: 2026-09-19T11:10:13Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 395
 - [PREMIUM STATUES](https://theworldofnerds.com/collections/premium-statues): - The World Of Nerds
   Updated: 2026-08-31T12:31:00Z
@@ -2853,7 +2853,7 @@
   Updated: 2026-08-20T11:10:54Z
   Total Products: 41
 - [SILICON KEYCHAIN](https://theworldofnerds.com/collections/keychains-at-149): - The World Of Nerds
-  Updated: 2026-10-14T11:11:22Z
+  Updated: 2026-10-29T11:09:13Z
   Total Products: 244
 - [POKEMON COMBOS](https://theworldofnerds.com/collections/pokemon-combos): - The World Of Nerds
   Updated: 2026-04-25T11:18:06Z
