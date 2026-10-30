@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-10-23T00:44:12.810Z
+- Updated At: 2026-10-30T01:23:25.700Z
 
 ## Products
 
@@ -802,14 +802,14 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.19.13.png?v=1787264419
   Price: ₺0,00 TRY
 - [Lotus Koltuk Takımı](https://koltuxs.com/products/lotus-koltuk-takimi-1)
-  Updated: 2026-08-21T00:04:17Z
+  Updated: 2026-10-23T02:00:16Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.20.34.png?v=1787264490
   Price: ₺0,00 TRY
 - [Lotus TV Ünitesi](https://koltuxs.com/products/lotus-tv-unitesi): Ürün Açıklaması Lotus TV Ünitesi, modern tasarım çizgilerini zarif detaylarla buluşturarak yaşam alanlarına estetik ve fonksiyonel bir dokunuş kazandırır. Minimal hatları, kaliteli malzeme yapısı ve şık renk kombinasyonu sayesinde salon dekorasyonunun tamamlayıcı parçası olur. Geniş üst yüzeyi ve kullanışlı depolama alanlarıyla elektronik cihazlar ve dekoratif aksesuarlar için ideal bir kullanım sunarken, sade tasarımı sayesinde farklı dekorasyon stilleriyle kolayca uyum sağlar. Öne Çıkan Özellikler Modern ve minimalist tasarım Geniş kullanım alanı sunan fonksiyonel üst tabla Kapaklı ve raflı depolama bölmeleri Dayanıklı ve uzun ömürlü malzeme yapısı Kaliteli yüzey kaplaması ile şık görünüm Kolay temizlenebilen yüzey Düzenli kablo yönetimine uygun tasarım Sağlam ayak ve gövde yapısı Dekoratif objeler ve medya ekipmanları için ideal kullanım Modern, çağdaş ve endüstriyel dekorasyon tarzlarıyla uyumlu tasarı
-  Updated: 2026-08-21T12:34:47Z
+  Updated: 2026-10-25T09:48:35Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1170,13 +1170,13 @@
 ## Collections
 
 - [Anasayfa](https://koltuxs.com/collections/frontpage)
-  Updated: 2026-10-11T11:26:11Z
+  Updated: 2026-10-25T11:29:00Z
   Total Products: 73
 - [Oturma Odası](https://koltuxs.com/collections/oturma-odasi)
   Updated: 2026-08-24T16:13:25Z
   Total Products: 14
 - [Koltuk Takımı](https://koltuxs.com/collections/koltuk-takimi)
-  Updated: 2026-08-20T22:21:37Z
+  Updated: 2026-10-23T11:28:52Z
   Total Products: 12
 - [Köşe Koltuk Takımı](https://koltuxs.com/collections/kose-koltuk-takimi)
   Updated: 2026-08-24T16:09:00Z
@@ -1185,7 +1185,7 @@
   Updated: 2026-08-15T10:49:00Z
   Total Products: 0
 - [TV Ünitesi](https://koltuxs.com/collections/tv-unitesi)
-  Updated: 2026-10-21T11:24:26Z
+  Updated: 2026-10-25T11:29:00Z
   Total Products: 7
 - [Orta Sehpa](https://koltuxs.com/collections/orta-sehpasi)
   Updated: 2026-08-15T10:49:00Z
