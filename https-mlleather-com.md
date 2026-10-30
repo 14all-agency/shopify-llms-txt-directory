@@ -6,18 +6,18 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-10-07T08:08:26Z
 - Contact Email: wych200@outlook.com
-- Updated At: 2026-10-23T00:33:01.928Z
+- Updated At: 2026-10-30T00:49:09.522Z
 
 ## Collections
 
 - [主页](https://mlleather.com/collections/frontpage)
-  Updated: 2026-10-10T04:30:13Z
+  Updated: 2026-10-23T14:42:28Z
   Total Products: 1
 - [Minglun B2B Pouches](https://mlleather.com/collections/minglun-b2b-pouches): Explore coin pouches and an SN005 leather pencil case with product images and supplied dimensions. Send your private-label or bulk sourcing requirements.
-  Updated: 2026-10-12T12:19:46Z
+  Updated: 2026-10-23T14:42:28Z
   Total Products: 18
 - [Leather Handbag Manufacturer Catalogue | MINGLUN](https://mlleather.com/collections/minglun-b2b-handbags): Explore MINGLUN handbags by material and shape. Private label and small-batch manufacturing in Guangzhou, China: catalogue 20+/style; your design 100+.
-  Updated: 2026-10-12T12:19:12Z
+  Updated: 2026-10-23T14:42:28Z
   Total Products: 12
 
 ## Blogs
@@ -67,7 +67,7 @@
 ## Policies
 
 - [Privacy Policy](https://mlleather.com/policies/privacy-policy)
-  Updated: 2026-10-07T08:08:35Z
+  Updated: 2026-10-29T15:16:02Z
 
 ## Optional
 
