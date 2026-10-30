@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-10-23T00:35:11.426Z
+- Updated At: 2026-10-30T00:55:55.849Z
 
 ## Products
 
@@ -82,10 +82,10 @@
     Updated: 2026-09-24T12:20:43Z
     Author: Kip A
   - [Color Temperature Explained: 1800K, 3300K, 6000K Options](https://kindlights.co/blogs/guides/color-temperature-explained-1800k-3300k-6000k): Color Temperature Explained: 1800K, 3300K, 6000K Options
-    Updated: 2026-10-07T08:09:19Z
+    Updated: 2026-10-26T06:11:48Z
     Author: Kip A
   - [Complete Guide to Light and Sleep | Kind Lights](https://kindlights.co/blogs/guides/the-complete-guide-to-light-and-sleep): Complete Guide to Light and Sleep | Kind Lights
-    Updated: 2026-10-19T05:13:00Z
+    Updated: 2026-10-26T06:00:02Z
     Author: Kip A
 - [Circadian home](https://kindlights.co/blogs/circadian-home)
   - [Circadian Lighting Benefits for Daily Rhythm](https://kindlights.co/blogs/circadian-home/why-circadian-lighting-matters-key-benefits-explained): Circadian Lighting Benefits for Daily Rhythm
@@ -101,7 +101,7 @@
     Updated: 2026-09-24T12:57:50Z
     Author: Kip A
   - [Nighttime Bathroom Lighting: Best Light for Late-Night Visits](https://kindlights.co/blogs/circadian-home/nighttime-bathroom-lighting): Nighttime Bathroom Lighting: Best Light for Late-Night Visits
-    Updated: 2026-10-19T06:01:55Z
+    Updated: 2026-10-26T07:17:56Z
     Author: Kip A
 - [Science](https://kindlights.co/blogs/science)
   - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/science/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
@@ -117,16 +117,16 @@
     Updated: 2026-09-24T13:03:56Z
     Author: Kip A
   - [Daylight Saving Time and Your Body Clock: How to Adjust](https://kindlights.co/blogs/science/daylight-saving-time-body-clock): Daylight Saving Time and Your Body Clock: How to Adjust
-    Updated: 2026-10-07T09:29:36Z
+    Updated: 2026-10-26T07:14:46Z
     Author: Kip A
   - [Do LED Lights Affect Sleep? What Matters and What Doesn't](https://kindlights.co/blogs/science/do-led-lights-affect-sleep): Do LED Lights Affect Sleep? What Matters and What Doesn't
-    Updated: 2026-10-07T09:32:37Z
+    Updated: 2026-10-26T07:04:59Z
     Author: Kip A
   - [Best Nursery Lighting for Sleep: A Parent's Guide](https://kindlights.co/blogs/science/best-nursery-lighting-for-sleep-a-parents-guide)
-    Updated: 2026-10-19T05:29:49Z
+    Updated: 2026-10-26T06:43:54Z
     Author: Kip A
   - [Blue Light and Melatonin: How Blue Light Affects Sleep](https://kindlights.co/blogs/science/blue-light-and-melatonin-how-it-affects-sleep): Blue Light and Melatonin: How Blue Light Affects Sleep
-    Updated: 2026-10-19T05:42:20Z
+    Updated: 2026-10-26T06:40:28Z
     Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
@@ -136,13 +136,13 @@
     Updated: 2026-09-24T11:56:37Z
     Author: Kip A
   - [Amber Light for Sleep: Does It Help You Sleep Better?](https://kindlights.co/blogs/compare/amber-light-for-sleep-does-it-help-you-sleep-better)
-    Updated: 2026-10-07T09:29:56Z
+    Updated: 2026-10-26T06:23:28Z
     Author: Kip A
   - [What Color Light Helps You Sleep? Best and Worst Colors](https://kindlights.co/blogs/compare/what-color-light-helps-you-sleep): What Color Light Helps You Sleep? Best and Worst Colors
-    Updated: 2026-10-07T09:28:41Z
+    Updated: 2026-10-26T06:34:37Z
     Author: Kip A
   - [2700K vs 3000K vs 3500K: Which Is Best for Your Home?](https://kindlights.co/blogs/compare/2700k-vs-3000k-vs-3500k)
-    Updated: 2026-10-19T06:18:42Z
+    Updated: 2026-10-26T06:14:27Z
     Author: Kip A
 
 ## Store Pages
