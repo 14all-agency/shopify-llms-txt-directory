@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-12T13:05:00Z
 - Contact Email: chicetbio@maisoncrepue.com
-- Updated At: 2026-10-23T00:30:39.644Z
+- Updated At: 2026-10-30T00:49:47.821Z
 
 ## Products
 
 - [Baume capillaire pousse rapide cheveux crépus et frises](https://maisoncrepue.com/products/baume-capillaire-pousse-rapide-cheveux-crepus): Baume Capillaire Miracle Pouss Pouss – Stimule la Pousse & FortifieLe baume capillaire pousse rapide cheveux crépus Pouss Pouss de Maison Crépue est le soin concentré qui stimule la pousse et fortifie les cheveux en profondeur. Sa formule riche et nourrissante est spécialement conçue pour les cheveux crépus, bouclés et défrisés qui ont besoin d’un vrai coup de boost.Baume capillaire pousse rapide cheveux crépus : ses bienfaits Stimulation de la pousse : active le métabolisme du follicule pileux pour accélérer la croissance Fortifiant : renforce la structure interne du cheveu et réduit la casse Hydratation profonde : nourrit et hydrate durablement la fibre capillaire Scellant : referme les écailles du cheveu pour une brillance et une douceur incomparables Apaisement du cuir chevelu : soulage les démangeaisons et les irritations Ingrédients clés Beurre de karité : nourrit intensément et scelle l’hydratation Huile de ricin : stimule la pousse et renforce les racines Huile de coco : pénètre la fibre capillaire et réduit la casse Aloe vera : hydrate et apaise le cuir chevelu Huiles essentielles naturelles : activent la microcirculation du cuir chevelu Mode d’emploiAppliquez le baume sur cheveux propres et humides, section par section. Répartissez uniformément du milieu à la pointe. Peut également s’utiliser sur le cuir chevelu pour un massage nourrissant. Coiffez comme à votre habitude. Utilisez quotidiennement ou selon vos besoins.Idéal pour : cheveux crépus, bouclés et frisés — méthode LOC/LCO — cheveux secs et cassants.🚚 Livraison 📦 Standard Colissimo : 4 à 6 jours ouvrables ⚡ Express : 2 à 3 jours ouvrables 🎉 Livraison offerte dès 65€ d’achat
-  Updated: 2026-10-20T00:38:31Z
+  Updated: 2026-10-25T07:44:41Z
   Vendor: Ma boutique
   Product Type: Soins capillaires
   Availability: Available
@@ -25,40 +25,40 @@
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/shampoing_coloration_cheveux_blancs_naturel.jpg?v=1788784418
   Price: 23,99 € EUR
 - [huile anti-chute cheveux naturels, fortifie et stimule la pousse](https://maisoncrepue.com/products/huile-anti-chute-cheveux-naturels-pouss-pouss): huile anti-chute cheveux naturels,Combattez la chute de cheveux et retrouvez une chevelure forte et dense avec l'Huile Revitalisante et Fortifiante Pouss Pouss de Maison Crépue. Conçue pour fortifier
-  Updated: 2026-10-16T05:13:09Z
+  Updated: 2026-10-25T19:44:14Z
   Vendor: Ma boutique
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/Image_huile_fortifiante_2.png?v=1792084331
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/huile_fortifiante_bon.jpg?v=1792781385
   Price: 12,50 € EUR
 - [spray démêlant cheveux crépus bouclés , hydratant et stimule la pousse](https://maisoncrepue.com/products/spray-demelant-cheveux-crepus-boucles-pouss-pouss): spray démêlant cheveux crépus bouclés, hydratant et stimule la pousse. vos cheveux seront doux, soyeux et facile à coiffer, en plus les ingrédients naturels apportent à vos cheveux du volume et force
-  Updated: 2026-09-11T17:14:03Z
+  Updated: 2026-10-25T19:43:05Z
   Vendor: Ma boutique
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/gel_e_de_lin_miel_cheveux_secs.jpg?v=1788797277
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/spray_bon.jpg?v=1792781385
   Price: 10,99 € EUR
 - [beurre karité pur peau sèche, répare, hydrate ,protège la peau](https://maisoncrepue.com/products/beurre-karite-pur-peau-seche): beurre karité pur peau sèche ,hydrate en profondeur, apaise les irritations et nourrit durablement. Sans parabènes, sans conservateurs.
 il conserve l’intégralité de ses nutriments actifs — acides gras
-  Updated: 2026-09-08T02:13:53Z
+  Updated: 2026-10-25T07:45:41Z
   Vendor: Maison Crepue
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/beurre_karit_pur_peau_s_che.jpg?v=1788790773
   Price: 10,00 € EUR
 - [baume réparateur peaux a imperfections apporte éclat douceur](https://maisoncrepue.com/products/baume-reparateur-peaux-a-imperfections): baume réparateur peaux a imperfections Imaginez appliquer chaque matin un baume fondant aux effluves gourmands de cacao et de mangue, et voir votre peau se transformer : plus douce, plus lumineuneuse
-  Updated: 2026-09-11T11:48:37Z
+  Updated: 2026-10-25T07:46:03Z
   Vendor: Maison Crepue
   Product Type: Soins visage & corps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/baume_r_parateur_peaux_a_imperfections.png?v=1788796448
   Price: 15,00 € EUR
 - [Pack Miracle Pouss Pouss | Maison Crépue](https://maisoncrepue.com/products/soins-capillaires-naturels-cheveux-crepus): Découvrez le pack Miracle Pouss Pouss : baume nourrissant et protecteur, huile fortifiante anti-chute et spray hydratant pour vos cheveux.
-  Updated: 2026-10-22T14:49:04Z
+  Updated: 2026-10-29T20:15:05Z
   Vendor: Maison Crepue
   Product Type: Soins capillaires
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/pack-miracle-pouss-pouss.png?v=1792079586
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/BELLE_IMAGE_PACK_POUSS_-_Copie_1e6f2738-064a-45a1-afb6-acaf7e3d1f01.png?v=1792773930
   Price: 65,00 € EUR
 - [ballerines mary jane femme noires](https://maisoncrepue.com/products/ballerines-mary-jane-femme-noires): ballerines mary jane femme noires 
 L'élégance intemporelle des Ballerines Mary Jane
@@ -78,7 +78,7 @@ Certaines chaussures traversent les tendances sans jamais se démoder
   Price: 17,99 € EUR
 - [Crème pousse volume cheveux crépus frises,tous types cheveux](https://maisoncrepue.com/products/creme-pousse-volume-cheveux-crepus-frises): crème pousse volume cheveux crépus frises
 Révélez le plein potentiel de vos cheveux crépus, bouclés ou défrisés avec crème pousse volume cheveux crépus frises 100% naturel, formulé pour stimuler
-  Updated: 2026-10-16T05:01:26Z
+  Updated: 2026-10-23T20:10:36Z
   Vendor: Maison Crepue
   Product Type: Soins capillaires
   Availability: Available
@@ -131,7 +131,7 @@ Prenez soin de vos cheveux dès la sortie de la douche avec la Serviette Microfi
   Price: 9,99 € EUR
 - [appareil massage cuir chevelu stimulateur pousse](https://maisoncrepue.com/products/appareil-de-massage-cuir-chevelu-silicone-rose): appareil massage cuir chevelu stimulateur pousse
 Sublimez votre routine capillaire avec l'Appareil de Massage Cuir Chevelu en Silicone Rose — un masseur doux
-  Updated: 2026-09-11T23:43:43Z
+  Updated: 2026-10-25T07:41:45Z
   Vendor: Maison Crépue
   Product Type: Accessoire cheveux
   Availability: Available
@@ -153,11 +153,11 @@ Sublimez votre routine capillaire avec l'Appareil de Massage Cuir Chevelu en Sil
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/Serviette_microfibre_s_chage_rapide_cheveux.jpg?v=1788807976
   Price: 6,99 € EUR
 - [appareil massage cuir chevelu stimulateur pousse de cheveux](https://maisoncrepue.com/products/appareil-massage-cuir-chevelu-stimulateur-pousse): appareil massage cuir chevelu stimulateur pousseOffrez à votre cuir chevelu le soin qu'il mérite avec l'Appareil de Massage Cuir Chevelu de Maison Crépue — conçu pour stimuler la circulation sanguine, favoriser la pousse et réduire les tensions au quotidien.appareil massage cuir chevelu stimulateur poussePourquoi masser son cuir chevelu ? Stimule la pousse — active la microcirculation sanguine au niveau des follicules pileux Réduit les pellicules — exfolie doucement le cuir chevelu Détente et relaxe — parfait après une longue journée Facilite la pénétration des soins — idéal utilisé avec une huile capillaire Caractéristiques Silicone doux et flexible Pointes souples anti-douleur Utilisable sur cheveux secs ou mouillés Compact et léger — idéal pour les voyages Livraison Standard Colissimo : 4 à 6 jours ouvrables Express : 2 à 3 jours ouvrables Livraison offerte dès 65€ d'achat
-  Updated: 2026-09-11T23:46:14Z
+  Updated: 2026-10-25T07:51:11Z
   Vendor: Maison Crepue
   Product Type: Accessoire Capillaire
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/image_appreil_de_masage_rose_cheveux.webp?v=1787834204
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/APPAREIL_DE_MASSAGE_72f2bc3e-b6c3-473b-a66d-66715fe9bd54.png?v=1792781388
   Price: 9,99 € EUR
 - [bonnet satin protection cheveux nuit, rend les cheveux doux et soignes](https://maisoncrepue.com/products/bonnet-en-satin-de-protection-cheveux-rose): bonnet satin protection cheveux nuit Protégez vos cheveux chaque nuit avec notre Bonnet en Satin Rose de Maison Crépue — conçu pour préserver l'hydratation, réduire les frisottis et protéger vos
   Updated: 2026-09-12T00:05:41Z
@@ -197,21 +197,56 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/poudredemoringa.png?v=1787345592
   Price: 15,00 € EUR
 - [STOP — Formation complète en soins capillaires pour cheveux crépus | Fabrication, recettes, conseils et bonus - Maison Crepue](https://maisoncrepue.com/products/stop-formation-complete-en-soins-capillaires-pour-cheveux-crepus-fabrication-recettes-conseils-et-bonus-1): STOP aux routines choisies au hasard. Comprenez les cheveux crépus, apprenez à fabriquer vos soins et construisez une routine adaptée à vos besoins. Et pourquoi pas transformer votre savoir-faire en activité ?Le programme de la formation Module 1 — Comprendre les cheveux crépus et leurs caractéristiques Module 2 — Les actifs et nutriments essentiels pour la pousse et le volume Module 3 — Matériel nécessaire et bonnes pratiques de fabrication Module 4 — Fabriquer une crème hydratante pour cheveux naturels Module 5 — Fabriquer un leave-in fortifiant, pousse et volume Module 6 — Gestes du quotidien et coiffures protectrices Module 7 — Construire sa routine capillaire personnalisée Module 8 — Séances d’accompagnement et de coaching personnalisé En complémentCadeau : 3 fiches recettes 100 % naturelles.Annexes : glossaire, FAQ, répertoire d’ingrédients, lecture INCI, routine saisonnière, étiquette produit, fiche vierge, vente et auto-évaluation.Format : formation numérique. Les modalités d’accès et d’accompagnement sont à préciser avant la mise en vente. - Maison Crepue
-  Updated: 2026-10-04T18:26:42Z
+  Updated: 2026-10-23T17:03:48Z
   Vendor: Maison Crépue
   Product Type: Formation numérique
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/imagedegardefinale.png?v=1790533130
-  Price: 19,99 € EUR
+  Price: 29,99 € EUR
+- [Pack Miracle Pouss Pouss à 35 € | Maison Crépue](https://maisoncrepue.com/products/offre-novembre-pack-miracle-pouss-pouss): Pack Miracle Pouss Pouss à 35 € : baume et spray achetés, huile fortifiante et appareil de massage offerts. Pour deux packs, un shampooing offert en plus.
+  Updated: 2026-10-24T06:36:44Z
+  Vendor: Maison Crepue
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/PROMONOVEMBRE_-_Copie.jpg?v=1792773878
+  Price: 35,00 € EUR
+- [Pack Miracle Pouss Pouss novembre à 35 € | Maison Crépue](https://maisoncrepue.com/products/pack-miracle-pouss-pouss-novembre-2-achetes-2-offerts): Pack Miracle Pouss Pouss à 35 € : baume 30 €, spray 5 € au lieu de 15 €, huile et appareil de massage offerts. Du 1er au 30 novembre.
+  Updated: 2026-10-25T07:45:11Z
+  Vendor: Maison Crepue
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/PROMONOVEMBRE-Copie.jpg?v=1792780911
+  Price: 35,00 € EUR
+- [Shampooing Pouss Pouss 3 en 1 – 200 ml | Maison Crépue](https://maisoncrepue.com/products/shampooing-pouss-pouss-3-en-1-200-ml): Découvrez le shampooing Pouss Pouss 3 en 1 de 200 ml : nettoyant, fortifiant et stimulant, pour compléter votre routine capillaire Maison Crépue.
+  Updated: 2026-10-23T19:02:25Z
+  Vendor: Maison Crepue
+  Product Type: Shampooing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/shampoingbon.jpg?v=1792781697
+  Price: 15,00 € EUR
+- [Pack familial Miracle Pouss Pouss à 70 € | Maison Crépue](https://maisoncrepue.com/products/pack-familial-miracle-pouss-pouss-novembre-2-packs-achetes-5-produits-offerts): Pack familial Pouss Pouss : 2 baumes et 2 sprays, avec 2 huiles, 2 appareils de massage et un shampooing 200 ml offerts. Offre novembre à 70 €.
+  Updated: 2026-10-25T07:45:11Z
+  Vendor: Maison Crepue
+  Product Type: Soins capillaires
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/PROMONOVEMBRE_-_Copie.jpg?v=1792773878
+  Price: 70,00 € EUR
+- [Huiles naturelles pour cheveux crépus | Maison Crépue](https://maisoncrepue.com/products/le-pouvoir-des-huiles-naturelles-sur-les-cheveux-crepus): Découvrez 27 huiles et actifs naturels pour cheveux crépus : conseils d’utilisation, précautions, routines et cinq recettes maison avec Maison Crépue.
+  Updated: 2026-10-28T21:56:01Z
+  Vendor: Maison Crepue
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1073/3620/4619/files/Le_pouvoir_des_huiles_naturelles_Maison_Crepue_page_01.png?v=1793181288
+  Price: 9,99 € EUR
 
 ## Collections
 
 - [Page d’accueil](https://maisoncrepue.com/collections/frontpage): - Maison Crepue
-  Updated: 2026-10-15T16:03:43Z
+  Updated: 2026-10-23T17:45:30Z
   Total Products: 4
 - [Gamme capillaire miracle pouss pouss](https://maisoncrepue.com/collections/womens-casual-wear-example-products): - Maison Crepue
-  Updated: 2026-10-15T16:03:43Z
-  Total Products: 5
+  Updated: 2026-10-23T18:54:33Z
+  Total Products: 6
 - [MODE](https://maisoncrepue.com/collections/mode): - Maison Crepue
   Updated: 2026-09-07T16:25:25Z
   Total Products: 2
@@ -231,8 +266,8 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-10-03T18:52:48Z
   Total Products: 13
 - [Promotions — Offres Spéciales](https://maisoncrepue.com/collections/promotions): Découvrez nos offres promotionnelles et produits en réduction. - Maison Crepue
-  Updated: 2026-10-15T16:08:21Z
-  Total Products: 10
+  Updated: 2026-10-23T18:59:06Z
+  Total Products: 13
 - [Gamme Soin Visage au Curcuma — Peaux à Imperfections](https://maisoncrepue.com/collections/gamme-soin-visage-curcuma): Découvrez notre gamme complète de soins visage au curcuma, spécialement formulée pour les peaux à imperfections, taches et boutons. Le curcuma est reconnu pour
   Updated: 2026-10-03T18:53:30Z
   Total Products: 4
@@ -246,14 +281,14 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-09-07T15:27:29Z
   Total Products: 1
 - [Formation](https://maisoncrepue.com/collections/formation): Explorez les formations Maison Crépue sur les soins des cheveux crépus, les recettes et la fabrication de soins capillaires.
-  Updated: 2026-09-27T18:36:09Z
+  Updated: 2026-10-23T17:03:49Z
   Total Products: 1
 - [Hydratation & Nutrition](https://maisoncrepue.com/collections/hydratation-nutrition): Des soins hydratants et nourrissants pour révéler tout le potentiel de vos cheveux crépus. Gelées, crèmes et compléments pour une chevelure souple et éclatante. - Maison Crepue
   Updated: 2026-10-03T17:33:05Z
   Total Products: 4
 - [Anti-casse & Fortifiant](https://maisoncrepue.com/collections/anti-casse-fortifiant): Vos cheveux crépus méritent une protection solide. Cette sélection rassemble les soins les plus puissants pour stopper la casse, renforcer la fibre capillaire et fortifier le cuir chevelu en profondeur.Formulés à base d'ingrédients naturels riches en protéines et nutriments essentiels — moringa, hibiscus, batana — ces produits nourrissent vos cheveux de l'intérieur pour leur redonner résistance et élasticité. Réduit la casse et la fragilité Renforce la fibre capillaire Stimule un cuir chevelu sain Idéal pour les cheveux crépus et frisés fragilisés - Maison Crepue
-  Updated: 2026-10-03T17:57:55Z
-  Total Products: 1
+  Updated: 2026-10-23T18:54:33Z
+  Total Products: 2
 - [Pousse & Longueur](https://maisoncrepue.com/collections/pousse-longueur): Stimulez la pousse et favorisez la longueur de vos cheveux crépus avec notre sélection de soins naturels boosteurs de croissance. - Maison Crepue
   Updated: 2026-10-03T18:18:49Z
   Total Products: 5
@@ -261,8 +296,11 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-10-03T18:26:34Z
   Total Products: 3
 - [Routine complète crépue](https://maisoncrepue.com/collections/routine-complete-crepue): Découvrez notre sélection complète de produits pour une routine capillaire crépue de A à Z : soins lavants, hydratants, coiffants et accessoires pour des cheveux crépus sains, définis et sublimés. - Maison Crepue
-  Updated: 2026-10-03T18:32:58Z
-  Total Products: 10
+  Updated: 2026-10-28T09:35:57Z
+  Total Products: 12
+- [Courses](https://maisoncrepue.com/collections/courses)
+  Updated: 2026-10-28T09:35:57Z
+  Total Products: 1
 
 ## Blogs
 
@@ -455,8 +493,8 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   - [Les Secrets de la Fragrance Chogan 078: Une Immersion Inspirée d'Ultra Violet Paco Rabanne](https://maisoncrepue.com/blogs/actualites/les-secrets-de-la-fragrance-chogan-078-une-immersion-inspiree-dultra-violet-paco-rabanne): Les Secrets de la Fragrance Chogan 078: Une Immersion Inspirée d'Ultra Violet Paco Rabanne
     Updated: 2026-10-03T16:28:11Z
     Author: User
-  - [Les meilleurs produits pour cheveux bouclés en 2026](https://maisoncrepue.com/blogs/actualites/meilleur-produit-cheveux-boucles): Quel meilleur produit cheveux bouclés 2026 choisir ? Comparez gelée définissante, spray démêlant et crème selon vos besoins et votre texture.
-    Updated: 2026-10-20T06:04:03Z
+  - [Les meilleurs produits pour cheveux bouclés en 2026](https://maisoncrepue.com/blogs/actualites/meilleur-produit-cheveux-boucles): Les meilleurs produits pour cheveux bouclés en 2026
+    Updated: 2026-10-26T18:43:34Z
     Author: Edith FEUMOE
   - [Huile de romarin pour les cheveux : bienfaits et précautions](https://maisoncrepue.com/blogs/actualites/huile-romarin-cheveux): Huile romarin cheveux : comparez huile essentielle, huile infusée et soin formulé, puis choisissez un usage prudent selon les preuves disponibles.
     Updated: 2026-10-21T06:02:37Z
@@ -464,6 +502,18 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   - [Créer une micro-entreprise sans expérience : quel appui choisir ?](https://maisoncrepue.com/blogs/actualites/quel-accompagnement-choisir-pour-creer-une-micro-entreprise-sans-experience): Quel accompagnement choisir pour créer une micro-entreprise sans expérience ? Comparez aides publiques, formation et conseil personnalisé.
     Updated: 2026-10-22T06:02:39Z
     Author: Edith FEUMOE
+  - [Les Jours La Beauté Artisanale : 10 au 30 octobre | Maison Crépue](https://maisoncrepue.com/blogs/actualites/les-jours-la-beaute-artisanale-octobre-2026): Les Jours La Beauté Artisanale : 10 au 30 octobre | Maison Crépue
+    Updated: 2026-10-23T18:20:34Z
+    Author: Maison Crépue
+  - [Les Meilleurs Conseils pour Prendre Soin de Vos Cheveux Crépus](https://maisoncrepue.com/blogs/actualites/les-meilleurs-conseils-pour-prendre-soin-de-vos-cheveux-crepus): Les Meilleurs Conseils pour Prendre Soin de Vos Cheveux Crépus
+    Updated: 2026-10-24T22:40:34Z
+    Author: User
+  - [Comment Éviter les Erreurs Courantes dans l'Entretien des Cheveux Crépus](https://maisoncrepue.com/blogs/actualites/comment-eviter-les-erreurs-courantes-dans-lentretien-des-cheveux-crepus): Comment Éviter les Erreurs Courantes dans l'Entretien des Cheveux Crépus
+    Updated: 2026-10-26T08:02:40Z
+    Author: User
+  - [Le Guide Ultime pour Révéler la Beauté Naturelle de Vos Cheveux](https://maisoncrepue.com/blogs/actualites/le-guide-ultime-pour-reveler-la-beaute-naturelle-de-vos-cheveux): Le Guide Ultime pour Révéler la Beauté Naturelle de Vos Cheveux
+    Updated: 2026-10-28T08:02:24Z
+    Author: User
 
 ## Store Pages
 
@@ -501,6 +551,8 @@ La Poudre de Moringa Bio Maison Crépue est l'un des superaliments les plus comp
   Updated: 2026-08-27T10:47:17Z
 - [Les Jours La Beauté Artisanale | Pack Miracle Pouss Pouss](https://maisoncrepue.com/pages/les-jours-la-beaute-artisanale): Pack Miracle Pouss Pouss : volume et longueur des cheveuxDu 10 au 30 octobre, profitez des Jours La Beauté Artisanale chez Maison Crépue. Une routi...
   Updated: 2026-10-15T16:10:38Z
+- [Offre inédite Pack Miracle Pouss Pouss : 2 achetés, 2 offerts ; 2 packs achetés, 5 produits offerts](https://maisoncrepue.com/pages/offre-novembre-pack-miracle-pouss-pouss): Les Jours La Beauté Artisanale : Offre de novembre Découvrez le Pack Miracle Pouss Pouss de Maison Crépue : votre routine capillaire accompagnée de...
+  Updated: 2026-10-23T17:53:22Z
 
 ## Policies
 
