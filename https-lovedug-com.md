@@ -1,7 +1,7 @@
 # love dug (https://lovedug.com)
 
 - Contact Email: business@lovedug.com
-- Updated At: 2026-10-23T00:40:45.563Z
+- Updated At: 2026-10-30T01:03:16.548Z
 
 ## Products
 
@@ -58,7 +58,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_c352e62c-8b94-4d36-b337-c321151907dc.jpg?v=1784813772
     Price: $27.00 USD
 - [Love Dug | Waterproof Car Trunk Organizer – 50L, Foldable](https://lovedug.com/products/multi-compartment-waterproof-car-trunk-organizer): 50L waterproof car trunk organizer in 600D fabric. Rigid shape, reinforced walls, foldable for storage. Fits cars, SUVs, trucks. Shop Love Dug.
-  Updated: 2026-10-15T07:44:58Z
+  Updated: 2026-10-29T23:32:43Z
   Vendor: love dug
   Product Type: Multi Compartment Waterproof Car Trunk Organizer
   Availability: Available
@@ -154,8 +154,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Beige_1.jpg?v=1784813409
     Price: $144.00 USD
-- [Love Dug | Festive Tabletop Christmas Tree – Mini PVC Tree](https://lovedug.com/products/festive-table-top-christmas-tree): Mini festive tabletop Christmas tree with fluffable PVC branches and included accessories. Available in 11.8" and 23.6". Indoor and covered outdoor use. Shop Love Dug.
-  Updated: 2026-08-29T00:11:16Z
+- [Love Dug | Festive Tabletop Christmas Tree – Mini PVC Tree](https://lovedug.com/products/festive-table-top-christmas-tree): Mini festive tabletop Christmas tree with fluffable PVC branches and included accessories. Available in 11.8". Indoor and covered outdoor use. Shop Love Dug.
+  Updated: 2026-10-27T15:43:01Z
   Vendor: love dug
   Product Type: Festive Tabletop Christmas Tree
   Availability: Available
@@ -169,7 +169,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/RusticStand.jpg?v=1784813272
   Price: $53.00 USD
 - [Love Dug | Portable Home Theater Projector – Smart HD Mini](https://lovedug.com/products/portable-home-theater-projector): Portable-size smart projector with Android 11, Wi-Fi 6, Bluetooth 5.0, and 720p native resolution. 40–130 inch screen, ~0.5 kg. Shop at Love Dug.
-  Updated: 2026-10-22T00:32:34Z
+  Updated: 2026-10-29T17:05:46Z
   Vendor: love dug
   Product Type: Portable Home Theater Projector
   Availability: Available
@@ -387,7 +387,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/GreyVIP.jpg?v=1784799771
     Price: $15.00 USD
 - [Love Dug | Cozy Cable Knit Leg Warmers "Classics"](https://lovedug.com/products/cozy-cable-knit-leg-warmers-classics): Classic knit leg warmers in acrylic and cotton. 42 cm and three colors (white, black, gray). Tall tube, warm, breathable. Shop Love Dug.
-  Updated: 2026-10-07T15:46:24Z
+  Updated: 2026-10-29T02:27:35Z
   Vendor: love dug
   Product Type: Cozy Cable Knit Leg Warmers "Classics"
   Availability: Available
@@ -441,7 +441,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/32_colours.jpg?v=1783504997
   Price: $119.00 USD
 - [Love Dug | Non-Stick Mini Waffle Maker & Griddle Set – 4-Inch](https://lovedug.com/products/non-stick-mini-waffle-maker): Non-stick mini waffle maker and griddle set with 4-inch nonstick plates, even heating, and quick heat-up. PFAS free, recipe guide included. Shop Love Dug.
-  Updated: 2026-10-22T09:42:50Z
+  Updated: 2026-10-27T11:47:51Z
   Vendor: love dug
   Product Type: Festive Non-Stick Mini Waffle Maker
   Availability: Available
@@ -462,7 +462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_9893e898-77e5-4934-994c-a4a90af01994.jpg?v=1783504291
     Price: $479.00 USD
 - [Love Dug | Resistance Workout & Stretch Bands](https://lovedug.com/products/resistance-workout-stretch-bands): Silicone resistance bands with 5 color-coded levels (10–40 lb). For squats, bridges, pilates, yoga. Includes carry bag. Unisex. Shop Love Dug.
-  Updated: 2026-10-21T08:34:18Z
+  Updated: 2026-10-29T13:37:43Z
   Vendor: love dug
   Product Type: Resistance Workout & Stretch Bands
   Availability: Available
@@ -530,7 +530,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Purple_30cb3f89-09fe-4676-ab11-8f8e5da494f3.jpg?v=1786460163
     Price: $6.00 USD
 - [Love Dug | Christmas Fluffy Reindeer House Slippers](https://lovedug.com/products/christmas-fluffy-reindeer-house-slippers): Fluffy Christmas reindeer slippers with flannel upper, plush insole, PVC outsole, and festive animal print design. Indoor use. Runs small, size up. Shop Love Dug.
-  Updated: 2026-10-17T16:29:07Z
+  Updated: 2026-10-27T16:39:30Z
   Vendor: love dug
   Product Type: Christmas Fluffy Reindeer House Slippers
   Availability: Available
@@ -1300,7 +1300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Green_a90d6506-26e6-4fb9-af69-e1099b116e50.png?v=1786627544
     Price: $67.00 USD
 - [Love Dug | Fleece Touchscreen Women's Gloves – Warm Lined](https://lovedug.com/products/fleece-touchscreen-womens-gloves): Warm cotton winter gloves for women with velvet fleece lining and touchscreen-compatible fingertips. Thickened design for cold weather. Shop Love Dug.
-  Updated: 2026-10-07T15:37:45Z
+  Updated: 2026-10-27T09:18:28Z
   Vendor: love dug
   Product Type: Fleece Touchscreen Women's Gloves
   Availability: Available
@@ -1430,32 +1430,61 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/StandardGreen.jpg?v=1786642081
     Price: $59.00 USD
+- [Love Dug | Cozy Fireplace Flame Diffuser & Humidifier](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier): Fireplace flame aroma diffuser with 280 ml tank, remote control, 6/8/10-hour timer, rainbow LED modes, and auto shutoff. Type-C powered. Shop Love Dug.
+  Updated: 2026-10-27T08:56:30Z
+  Vendor: love dug
+  Product Type: Cozy Fireplace Flame Air Diffuser & Humidifier
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/DeepWoodgrain_98c7e02d-32b6-49fe-9b9d-4f57843e45c0.jpg?v=1792837165
+  - [Black](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=48288275333174)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Black_2da61b83-c5fa-4dbc-832c-ca3a669c265f.jpg?v=1792837165
+    Price: $101.00 USD
+  - [White](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=48288275365942)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/White_2a54c125-4dd6-4516-b970-cf8488ee69c3.jpg?v=1792837165
+    Price: $102.00 USD
+  - [Light Wood Grain](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=48288275398710)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/LightWoodgrain_f9e8320b-b9c0-4a6d-bcf1-eb5fdff38891.jpg?v=1792837165
+    Price: $110.00 USD
+  - [Dark Wood Grain](https://lovedug.com/products/cozy-fireplace-flame-air-diffuser-humidifier?variant=48288275431478)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/DeepWoodgrain_98c7e02d-32b6-49fe-9b9d-4f57843e45c0.jpg?v=1792837165
+    Price: $109.00 USD
+- [Love Dug | Cozy Cable Knit Leg Warmers "Pink"](https://lovedug.com/products/cozy-cable-knit-leg-warmers-pink): Cozy knit leg warmers for women in a solid color with hollowed-out heel design. Polyester, knee-high, Y2K-inspired. Perfect for layering and everyday styling. Shop Love Dug.
+  Updated: 2026-10-27T08:56:40Z
+  Vendor: love dug
+  Product Type: Cozy Cable Knit Leg Warmers "Pink"
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0682/9663/8518/files/Pink_8fab5c9d-ebaf-4948-b6f7-b97099db92cd.jpg?v=1792992304
+  Price: $22.00 USD
 
 ## Collections
 
 - [Shop All](https://lovedug.com/collections/shop-all): Browse the complete Love Dug catalog. From trending kitchen gadgets, cozy home decor, to trending fashion and smart travel solutions, find everything you need in one place.
-  Updated: 2026-10-22T16:46:22Z
+  Updated: 2026-10-29T23:32:44Z
   Total Products: 45
 - [New Arrivals](https://lovedug.com/collections/shop-new): Be the first to shop our newest arrivals. Discover the latest drop of smart gadgets, seasonal fashion items, home upgrades, and more.
-  Updated: 2026-10-22T16:46:22Z
+  Updated: 2026-10-29T23:32:44Z
   Total Products: 5
 - [Seasonal Favorites & Holiday Gear](https://lovedug.com/collections/shop-seasonal): Get ready for winter with our curated holiday picks. Shop festive decor, warm winter wear, and seasonal gifts.
-  Updated: 2026-10-22T09:42:43Z
+  Updated: 2026-10-29T23:32:44Z
   Total Products: 12
 - [Trending](https://lovedug.com/collections/shop-trending): Shop the products everyone is talking about. Discover our best- viral hits, from smart cleaning tools to innovative beauty hacks.
-  Updated: 2026-10-22T00:32:35Z
-  Total Products: 5
+  Updated: 2026-10-29T17:05:47Z
+  Total Products: 4
 - [Home & Kitchen](https://lovedug.com/collections/home-kitchen): Upgrade your home with our top-rated kitchen tools. Shop the must-have pizza makers, smart lightings, and organization hacks.
-  Updated: 2026-10-22T09:42:43Z
+  Updated: 2026-10-29T17:05:47Z
   Total Products: 17
 - [Fashion & Beauty](https://lovedug.com/collections/fashion-beauty): Elevate your style with our fashion and beauty collection. Shop DIY nail kits, cozy winter boots, and handy travel organizers.
-  Updated: 2026-10-22T16:46:22Z
+  Updated: 2026-10-26T05:35:36Z
   Total Products: 17
 - [Fitness & Recovery](https://lovedug.com/collections/fitness-recovery): Achieve your fitness and wellness goals. Shop resistance bands, safety lights for runners, and deep tissue massage pillows for post-workout recovery.
   Updated: 2026-10-10T05:38:03Z
   Total Products: 4
 - [Travel & Auto](https://lovedug.com/collections/travel-auto): Travel smarter with our auto and travel collection. Shop portable washing machines, car organizers, and travel irons for your next trip.
-  Updated: 2026-10-15T07:44:59Z
+  Updated: 2026-10-29T23:32:44Z
   Total Products: 7
 - [Holiday Gifts](https://lovedug.com/collections/gift-guide-holiday-gifts): Celebrate the holidays with unique gifts. Shop festive Christmas trees, holiday costumes for pets, and cozy seasonal presents.
   Updated: 2026-08-02T13:35:32Z
@@ -1464,10 +1493,10 @@
   Updated: 2026-09-24T06:05:47Z
   Total Products: 5
 - [Gifts For Him](https://lovedug.com/collections/gift-guide-gifts-for-him): Shop the best gifts for men. Discover car gadgets, tech accessories, and grooming tools that he will actually use and love.
-  Updated: 2026-10-22T00:32:35Z
+  Updated: 2026-10-29T17:05:47Z
   Total Products: 4
 - [Gifts Under $100](https://lovedug.com/collections/gift-guide-gifts-under-100): Shop impressive gifts without breaking the bank. Discover high-quality home goods, beauty kits, and tech gadgets all under $100.
-  Updated: 2026-10-22T09:42:43Z
+  Updated: 2026-10-27T11:47:43Z
   Total Products: 4
 - [Gifts Under $50](https://lovedug.com/collections/gift-guide-gifts-under-50): Find thoughtful gifts for any budget. Shop kitchen hacks, cozy winter wear, and fun accessories for under $50.
   Updated: 2026-08-13T17:42:59Z
@@ -1476,7 +1505,7 @@
   Updated: 2026-10-05T16:13:06Z
   Total Products: 4
 - [The Ultimate Gift Guide](https://lovedug.com/collections/gift-guide): Find the perfect gift for any occasion. Explore our curated gift guides for him, her, holidays, and budget-friendly finds under $30, $50, and $100.
-  Updated: 2026-10-22T09:42:43Z
+  Updated: 2026-10-27T11:47:43Z
   Total Products: 13
 - [Digital Goods VAT Tax](https://lovedug.com/collections/digital-goods-vat-tax)
   Updated: 2026-07-27T12:09:30Z
@@ -1490,11 +1519,11 @@
     Author: Love Dug Editorial Team
     Tags: The Love Dug Edit
   - [Love Dug | Home & Kitchen Essentials: A Practical Guide](https://lovedug.com/blogs/all/home-kitchen): Love Dug | Home & Kitchen Essentials: A Practical Guide
-    Updated: 2026-10-22T05:02:52Z
+    Updated: 2026-10-28T16:39:41Z
     Author: Love Dug Editorial Team
     Tags: Home & Kitchen
   - [Love Dug | Fashion & Beauty Essentials: Fit and Care](https://lovedug.com/blogs/all/fashion-beauty): Love Dug | Fashion & Beauty Essentials: Fit and Care
-    Updated: 2026-10-08T08:43:08Z
+    Updated: 2026-10-29T16:36:37Z
     Author: Love Dug Editorial Team
     Tags: Fashion & Beauty
   - [Love Dug | Fitness & Recovery Essentials: A Practical Guide](https://lovedug.com/blogs/all/fitness-recovery): Love Dug | Fitness & Recovery Essentials: A Practical Guide
@@ -1506,13 +1535,73 @@
     Author: Love Dug Editorial Team
     Tags: Travel & Auto
   - [Love Dug | Thoughtful Gift Ideas: A Practical Guide](https://lovedug.com/blogs/all/gift-guide): Love Dug | Thoughtful Gift Ideas: A Practical Guide
-    Updated: 2026-10-08T09:34:33Z
+    Updated: 2026-10-28T16:20:08Z
     Author: Love Dug Editorial Team
     Tags: Gift Guide
   - [Love Dug | How to Choose a Handheld Milk Frother](https://lovedug.com/blogs/all/how-to-choose-a-handheld-milk-frother): Love Dug | How to Choose a Handheld Milk Frother
-    Updated: 2026-10-22T12:16:21Z
+    Updated: 2026-10-23T08:21:00Z
     Author: Love Dug Editorial Team
     Tags: Home & Kitchen
+  - [Love Dug | Purse Organizer or Bag Insert?](https://lovedug.com/blogs/all/purse-organizer-or-bag-insert): Love Dug | Purse Organizer or Bag Insert?
+    Updated: 2026-10-23T08:52:55Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | How to Choose a Cookbook Stand That Fits](https://lovedug.com/blogs/all/how-to-choose-a-cookbook-stand): Love Dug | How to Choose a Cookbook Stand That Fits
+    Updated: 2026-10-26T08:34:57Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | How to Choose a Replacement Handbag Strap](https://lovedug.com/blogs/all/how-to-choose-a-replacement-handbag-strap): Love Dug | How to Choose a Replacement Handbag Strap
+    Updated: 2026-10-26T13:32:54Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | How to Choose Touchscreen Gloves for Winter](https://lovedug.com/blogs/all/how-to-choose-touchscreen-gloves): Love Dug | How to Choose Touchscreen Gloves for Winter
+    Updated: 2026-10-27T09:23:59Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | Gifts for Home Cooks: 3 Thoughtful Ideas](https://lovedug.com/blogs/all/gifts-for-home-cooks): Love Dug | Gifts for Home Cooks: 3 Thoughtful Ideas
+    Updated: 2026-10-27T11:17:15Z
+    Author: Love Dug Editorial Team
+    Tags: Gift Guide
+  - [Love Dug | How to Choose a Tabletop Christmas Tree](https://lovedug.com/blogs/all/how-to-choose-tabletop-christmas-tree): Love Dug | How to Choose a Tabletop Christmas Tree
+    Updated: 2026-10-27T16:13:54Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | Holiday Coffee Corner Ideas for Small Spaces](https://lovedug.com/blogs/all/holiday-coffee-corner): Love Dug | Holiday Coffee Corner Ideas for Small Spaces
+    Updated: 2026-10-27T16:26:30Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | How to Organize a Tote Bag With a Pouch](https://lovedug.com/blogs/all/how-to-organize-tote-bag): Love Dug | How to Organize a Tote Bag With a Pouch
+    Updated: 2026-10-27T16:54:39Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | Oil Sprayer vs. Pour Bottle: Which to Choose?](https://lovedug.com/blogs/all/oil-sprayer-vs-pour-bottle): Love Dug | Oil Sprayer vs. Pour Bottle: Which to Choose?
+    Updated: 2026-10-28T08:37:00Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | Gifts for Frequent Travelers: 3 Useful Ideas](https://lovedug.com/blogs/all/gifts-for-frequent-travelers): Love Dug | Gifts for Frequent Travelers: 3 Useful Ideas
+    Updated: 2026-10-28T15:45:53Z
+    Author: Love Dug Editorial Team
+    Tags: Gift Guide
+  - [Love Dug | Winter Accessories: 3 Easy Outfit Ideas](https://lovedug.com/blogs/all/winter-accessories-existing-outfit): Love Dug | Winter Accessories: 3 Easy Outfit Ideas
+    Updated: 2026-10-28T16:16:51Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | Gifts for Small Homes & Apartments](https://lovedug.com/blogs/all/gifts-for-small-homes): Love Dug | Gifts for Small Homes & Apartments
+    Updated: 2026-10-28T16:18:00Z
+    Author: Love Dug Editorial Team
+    Tags: Gift Guide
+  - [Love Dug | How to Choose a Dog Poop Bag Holder](https://lovedug.com/blogs/all/how-to-choose-dog-poop-bag-holder): Love Dug | How to Choose a Dog Poop Bag Holder
+    Updated: 2026-10-28T16:36:55Z
+    Author: Love Dug Editorial Team
+    Tags: Home & Kitchen
+  - [Love Dug | How to Choose Indoor Slippers That Fit](https://lovedug.com/blogs/all/how-to-choose-indoor-slippers): Love Dug | How to Choose Indoor Slippers That Fit
+    Updated: 2026-10-29T07:36:58Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
+  - [Love Dug | How to Choose Leg-Warmer Length and Fit](https://lovedug.com/blogs/all/how-to-choose-leg-warmer-length): Love Dug | How to Choose Leg-Warmer Length and Fit
+    Updated: 2026-10-29T16:32:46Z
+    Author: Love Dug Editorial Team
+    Tags: Fashion & Beauty
 
 ## Store Pages
 
