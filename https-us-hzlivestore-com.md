@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-03-17T20:12:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:55:10.112Z
+- Updated At: 2026-10-30T01:28:23.948Z
 
 ## Products
 
@@ -166,7 +166,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Logo Tour Tee](https://us.hzlivestore.com/products/white-logo-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-15T06:23:57Z
+  Updated: 2026-10-25T03:48:46Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -220,7 +220,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/162492_6_299163_d.png?v=1744062597
     Price: $30.00 USD
 - [Titles Tee](https://us.hzlivestore.com/products/titles-t-shirt-black-zim): 100% cotton tee in Black
-  Updated: 2026-10-12T14:58:27Z
+  Updated: 2026-10-27T15:24:06Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -282,7 +282,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/ARENAPOSTER.png?v=1742418909
   Price: $15.00 USD
 - [Sheet Music White Mug](https://us.hzlivestore.com/products/sheet-music-white-mug-zim): 12oz ceramic mug in White, featuring Hans Zimmer sheet music.
-  Updated: 2026-10-16T16:22:35Z
+  Updated: 2026-10-27T15:24:06Z
   Vendor: Hans Zimmer Live
   Product Type: Mug
   Availability: Available
@@ -296,7 +296,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/TRUCKER.png?v=1742418931
   Price: $30.00 USD
 - [Logo Beanie](https://us.hzlivestore.com/products/logo-beanie-black-zim): 100% acrylic beanie in Black with embroidered design
-  Updated: 2026-10-12T14:58:27Z
+  Updated: 2026-10-27T15:24:06Z
   Vendor: Hans Zimmer Live
   Product Type: Hat
   Availability: Available
@@ -459,16 +459,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://us.hzlivestore.com/collections/frontpage)
-  Updated: 2026-10-16T11:23:18Z
+  Updated: 2026-10-28T11:20:55Z
   Total Products: 29
 - [HZL Apparel](https://us.hzlivestore.com/collections/apparel)
-  Updated: 2026-10-16T11:23:18Z
+  Updated: 2026-10-28T11:20:55Z
   Total Products: 5
 - [HZL Accessories](https://us.hzlivestore.com/collections/accessories)
-  Updated: 2026-10-13T11:20:05Z
+  Updated: 2026-10-28T11:20:55Z
   Total Products: 13
 - [All HZL Merch](https://us.hzlivestore.com/collections/all)
-  Updated: 2026-10-16T11:23:18Z
+  Updated: 2026-10-28T11:20:55Z
   Total Products: 18
 - [WOHZ Apparel](https://us.hzlivestore.com/collections/wohz-apparel)
   Updated: 2026-10-13T11:20:05Z
