@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2015-09-23T17:57:14Z
 - Contact Email: info@intouchclothing.net
-- Updated At: 2026-10-23T00:47:26.819Z
+- Updated At: 2026-10-30T01:01:13.270Z
 
 ## Products
 
 - [Slender Supplex 7-Inch Short | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/7-inch-supplex-bike-short): Moisture-wicking, 4-way stretch, quick-dry CoolMax gusset, 7-inch inseam, 86% Supplex, USA-made.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-10-28T08:03:56Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -63,7 +63,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/1561_BLCK-LS.jpg?v=1541090447
     Price: $38.50 USD
 - [Supplex Bike Short | 5-Inch Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/5-inch-supplex-bike-short): Slimming, 4-way stretch, medium rise, 90% Supplex 10% Spandex, USA-made — great for yoga, gym, or biking.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-10-28T08:05:13Z
   Vendor: Intouch Clothing
   Product Type: Activewear
   Availability: Available
@@ -89,7 +89,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/7360-2_grande_0743df6b-62d9-4869-a2fc-bf761c707692.png?v=1451414748
     Price: $26.99 USD
 - [Combed Cotton Spandex Legging | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/combed-cotton-spandex-legging): Breathable, stretchy, naturally soft, 90% combed cotton 10% spandex, made in Los Angeles — fashion and workout ready.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-10-28T08:04:08Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -175,7 +175,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/8668_Black_FRONT.jpg?v=1548097299
     Price: $20.50 USD
 - [Beyond Clean Karma Organic Shorts | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/beyond-clean-karma-womens-organic-shorts): 90% organic cotton, 5-3/4" inseam, comfortable waistband, mid-thigh length, USA-made — perfect for fitness or casual wear.
-  Updated: 2026-08-11T04:41:16Z
+  Updated: 2026-10-28T08:03:57Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -235,7 +235,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/8333_Black_BACK.jpg?v=1527091145
     Price: $29.50 USD
 - [High Impact Supplex Legging | Women's Activewear | Intouch Clothing](https://intouchclothing.net/products/premium-supplex-full-length-legging): Compression fit, Cool Wave gussets, quick-dry, 90% Supplex 10% Spandex, 4-way stretch, USA-made.
-  Updated: 2026-08-11T04:44:51Z
+  Updated: 2026-10-28T08:04:31Z
   Vendor: 0
   Product Type: Activewear
   Availability: Available
@@ -261,7 +261,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/8668_black_lifestyle.jpg?v=1541090168
     Price: $54.99 USD
 - [Electronic Gift Card | Intouch Clothing](https://intouchclothing.net/products/gift-card): Give the gift of choice. Intouch Clothing gift cards delivered by email, no processing fees, redeemable at checkout.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-10-28T08:04:14Z
   Vendor: Intouch Clothing
   Product Type: Gift Card
   Availability: Available
@@ -341,7 +341,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/9005_tiger__pant_FB.jpg?v=1521587887
     Price: $65.00 USD
 - [French Terry Triblend Pocket Hoodie | Women's Casual Wear | Intouch Clothing](https://intouchclothing.net/products/french-terry-cut-sleeve-hoodie): Lightweight triblend hoodie, front pouch pocket, adjustable drawstring, 50% poly 25% rayon 25% cotton, LA-made.
-  Updated: 2026-08-11T04:41:17Z
+  Updated: 2026-10-28T08:04:14Z
   Vendor: Intouch Clothing
   Product Type: Activewear
   Availability: Available
@@ -405,7 +405,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/moonphase-back.jpg?v=1559600930
     Price: $27.00 USD
 - [Organic Cotton Yoga Tank | Hand Dyed Racerback | Intouch Clothing](https://intouchclothing.net/products/crystal-wash-chambray-organic-cotton-yoga-tank): Shop our hand-dyed organic cotton yoga tank. Racerback design, thick straps, and a straight hem. Each piece is unique. Made in California from 100% organic cotton.
-  Updated: 2026-08-09T04:22:29Z
+  Updated: 2026-10-28T08:04:10Z
   Vendor: Intouch Clothing
   Product Type: Organic
   Availability: Available
@@ -431,7 +431,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/products/3195-CrystalWashFront.jpg?v=1588527306
     Price: $20.00 USD
 - [Neo-Leggings with Waist Band Support | Sculpting | Intouch Clothing](https://intouchclothing.net/products/neo-leggings): Sculpting leggings with integrated Neo-Waist Band, flexible, breathable, flattering silhouette, made in Los Angeles.
-  Updated: 2026-10-16T13:53:16Z
+  Updated: 2026-10-23T13:02:57Z
   Vendor: Intouch Clothing
   Product Type: Activewear
   Availability: Available
@@ -557,7 +557,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Stylish Crop Tank Top - Organic Cotton Comfort](https://intouchclothing.net/products/crop-tank-top): Discover the perfect blend of style and comfort with our organic cotton crop tank top. Ideal for layering or a casual chic look.
-  Updated: 2026-10-16T13:53:25Z
+  Updated: 2026-10-23T13:03:08Z
   Vendor: Intouch Clothing
   Product Type: fitwear
   Availability: Available
@@ -713,7 +713,7 @@
     Availability: Not Available
     Price: $37.99 USD
 - [Relax Hoodie - Cozy Comfort for Everyday Calm](https://intouchclothing.net/products/relax-hoodie): Discover the Relax Hoodie, designed for a comforting embrace that alleviates anxiety and stress with its soft cotton fabric and spacious pockets.
-  Updated: 2026-10-16T13:53:35Z
+  Updated: 2026-10-23T13:03:17Z
   Vendor: Intouch Clothing
   Product Type: orgnic
   Availability: Available
@@ -799,7 +799,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/DSC07963.jpg?v=1757388386
     Price: $40.50 USD
 - [Sexy straps leggings](https://intouchclothing.net/products/sexy-straps-leggings): These sexy straps leggings blend design and comfort, crafted from soft, breathable cotton for all-day wear. The unique strap details add a bold, fashionable edge, enhancing your silhouette while offering flexibility and support. Perfect for both casual outings and active moments, they combine expert construction with stylish appeal.
-  Updated: 2026-10-16T13:53:35Z
+  Updated: 2026-10-23T13:03:17Z
   Vendor: Intouch Clothing
   Product Type: 
   Availability: Available
@@ -821,7 +821,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/dc7cf4e6-6b07-44f7-93fe-82e18c6245cf.jpg?v=1758926528
     Price: $60.00 USD
 - [Sirene Mesh Bra](https://intouchclothing.net/products/sirene-mesh-bra): Elevate your swimwear collection with our stunning black bikini top, expertly crafted from a high-quality stretchy fabric that ensures a comfortable and flattering fit for all body types. This swimwear bra features a chic mesh sirene design, adding a touch of elegance and sophistication to your beach or poolside look. The breathable material allows for optimal movement and flexibility, making it perfect for swimming, sunbathing, or beach volleyball. With its versatile black hue, this bikini top pairs effortlessly with any bottom, allowing you to mix and match for a personalized style. Embrace confidence and comfort this summer with a bikini top that combines functionality with fashion.
-  Updated: 2026-10-16T13:53:40Z
+  Updated: 2026-10-28T08:04:12Z
   Vendor: Atletike
   Product Type: Swimwear
   Availability: Available
@@ -859,7 +859,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/bra-red.jpg?v=1769292644
     Price: $80.00 USD
 - [Marina one piece Swimwear](https://intouchclothing.net/products/marina-one-piece-swimwear): Elevate your swimwear collection with our stunning yellow one-piece swimsuit, designed for a clean finish that flatters every figure. This vibrant piece not only exudes confidence and style but also offers exceptional comfort and support, making it perfect for both lounging by the pool and active beach days. Crafted with high-quality materials, it ensures durability and a perfect fit, allowing you to make a splash in style. Embrace the sun and stand out effortlessly in this must-have swimsuit.
-  Updated: 2026-10-16T13:53:48Z
+  Updated: 2026-10-28T08:04:03Z
   Vendor: Ondine
   Product Type: ONE PIECE
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/The-New-Black_12.png?v=1774650190
     Price: $60.00 USD
 - [100% Organic Cotton Racer Tank Top | Intouch Clothing](https://intouchclothing.net/products/100-organic-cotton-racer-tank-top): Shop our 100% GOTS- organic cotton racer tank top in White and Pale Yellow. Made in LA, designed for movement and everyday wear.
-  Updated: 2026-10-16T13:53:55Z
+  Updated: 2026-10-23T13:03:37Z
   Vendor: Intouch Clothing
   Product Type: Tank Top
   Availability: Available
@@ -967,7 +967,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/pale-yellow-racer-tank-top-front.png?v=1784501143
     Price: $38.00 USD
 - [Organic Cotton Spandex Leggings | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-spandex-leggings-1): Shop our 95% organic cotton, 5% spandex leggings in Black and Mocha. Soft, stretchy, and sustainably made in Los Angeles.
-  Updated: 2026-10-16T13:53:59Z
+  Updated: 2026-10-23T13:03:40Z
   Vendor: Intouch Clothing
   Product Type: Leggings
   Availability: Available
@@ -1005,7 +1005,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/mocha.jpg?v=1785125543
     Price: $59.00 USD
 - [Organic Cotton Bike Shorts | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-bike-shorts): Shop our 95% organic cotton, 5% spandex bike shorts in Black and Mocha. Soft, stretchy, and sustainably made in Los Angeles.
-  Updated: 2026-10-16T13:54:05Z
+  Updated: 2026-10-23T13:03:47Z
   Vendor: Intouch Clothing
   Product Type: Shorts
   Availability: Available
@@ -1043,7 +1043,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/image_fd0079c9-1728-4efb-bc62-ad18320174b8.png?v=1785126496
     Price: $42.00 USD
 - [Organic Cotton Capri Leggings | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-capri-leggings): Shop our 95% organic cotton, 5% spandex capri leggings in Black and Mocha. Soft, stretchy, and sustainably made in Los Angeles.
-  Updated: 2026-10-16T13:54:05Z
+  Updated: 2026-10-23T13:03:51Z
   Vendor: Intouch Clothing
   Product Type: Leggings
   Availability: Available
@@ -1081,7 +1081,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/capri_black.jpg?v=1785126699
     Price: $48.00 USD
 - [Organic Cotton Racerback Tank | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-racerback-tank): Shop our 100% organic cotton racerback tank in Oatmeal and White. Soft, breathable, and sustainably made in Los Angeles.
-  Updated: 2026-10-16T13:54:10Z
+  Updated: 2026-10-23T13:03:52Z
   Vendor: Intouch Clothing
   Product Type: Tops
   Availability: Available
@@ -1119,7 +1119,7 @@
     Image: https://cdn.shopify.com/s/files/1/1003/0520/files/tank_top.jpg?v=1785127017
     Price: $28.00 USD
 - [Organic Cotton Sports Bra | Intouch Clothing](https://intouchclothing.net/products/organic-cotton-sports-bra): Shop our 95% organic cotton, 5% spandex sports bra with organic pads in Black and Mocha. Sustainably made in Los Angeles.
-  Updated: 2026-10-18T23:15:17Z
+  Updated: 2026-10-23T13:04:00Z
   Vendor: Intouch Clothing
   Product Type: Sports Bra
   Availability: Available
@@ -1463,6 +1463,27 @@
     Author: intouch clothing
   - [Embrace Effortless Movement and Style: Exploring the Features of the Sam Slender Supplex 7 Inch Shorts](https://intouchclothing.net/blogs/news/embrace-effortless-movement-and-style-exploring-the-features-of-the-sam-slender-supplex-7-inch-shorts): Embrace Effortless Movement and Style: Exploring the Features of the Sam Slender Supplex 7 Inch Shorts
     Updated: 2026-10-22T12:03:43Z
+    Author: intouch clothing
+  - [Experience Ultimate Comfort with Your Organic Cotton Training Tee](https://intouchclothing.net/blogs/news/experience-ultimate-comfort-with-your-organic-cotton-training-tee): Experience Ultimate Comfort with Your Organic Cotton Training Tee
+    Updated: 2026-10-23T12:01:57Z
+    Author: intouch clothing
+  - [Convenient and Thoughtful: How Electronic Gift Cards Are Changing the Way We Give Gifts](https://intouchclothing.net/blogs/news/convenient-and-thoughtful-how-electronic-gift-cards-are-changing-the-way-we-give-gifts): Convenient and Thoughtful: How Electronic Gift Cards Are Changing the Way We Give Gifts
+    Updated: 2026-10-24T12:01:42Z
+    Author: intouch clothing
+  - [Exploring the Versatility of 5 Inch Supplex Bike Shorts for All Activities](https://intouchclothing.net/blogs/news/exploring-the-versatility-of-5-inch-supplex-bike-shorts-for-all-activities): Exploring the Versatility of 5 Inch Supplex Bike Shorts for All Activities
+    Updated: 2026-10-25T12:02:20Z
+    Author: intouch clothing
+  - [Optimizing Your Workout: The Top Benefits of 5 Inch Supplex Bike Shorts](https://intouchclothing.net/blogs/news/optimizing-your-workout-the-top-benefits-of-5-inch-supplex-bike-shorts): Optimizing Your Workout: The Top Benefits of 5 Inch Supplex Bike Shorts
+    Updated: 2026-10-26T12:03:36Z
+    Author: intouch clothing
+  - [10 Outfit Ideas with Organic Cotton Bike Shorts You Need to Try](https://intouchclothing.net/blogs/news/10-outfit-ideas-with-organic-cotton-bike-shorts-you-need-to-try): 10 Outfit Ideas with Organic Cotton Bike Shorts You Need to Try
+    Updated: 2026-10-27T12:03:25Z
+    Author: intouch clothing
+  - [Maximize Your Workout: Why You Need a DRI-FIT Racerback Sleeveless Hoodie](https://intouchclothing.net/blogs/news/maximize-your-workout-why-you-need-a-dri-fit-racerback-sleeveless-hoodie): Maximize Your Workout: Why You Need a DRI-FIT Racerback Sleeveless Hoodie
+    Updated: 2026-10-28T12:02:18Z
+    Author: intouch clothing
+  - [Why the 100% Organic Cotton Racer Tank Top is Essential for Eco-Conscious Athletes](https://intouchclothing.net/blogs/news/why-the-100-organic-cotton-racer-tank-top-is-essential-for-eco-conscious-athletes): Why the 100% Organic Cotton Racer Tank Top is Essential for Eco-Conscious Athletes
+    Updated: 2026-10-29T12:03:56Z
     Author: intouch clothing
 
 ## Store Pages
