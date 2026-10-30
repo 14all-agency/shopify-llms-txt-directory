@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-01-16T15:49:21Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:45:27.977Z
+- Updated At: 2026-10-30T01:26:51.878Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-BREAKOURFALL-CD.png?v=1708116582
   Price: $13.00 USD
 - [Silent Steeples - Highlighter Yellow Vinyl](https://dispatchmerch.com/products/silent-steeples-highlighter-yellow-vinyl): 2x LP Highlighter Yellow vinylTRACKLIST: SIDE A1. Steeples2. Past The Falls3. Water Stop SIDE B4. Hey, Hey5. Flying Horses6. Questioned Apocalypse SIDE C7. Seasons - Movement III8. Mayday9. Born Normal SIDE D10. Bridges11. Walk With You12. Elias Released 1996
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-25T21:03:06Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-FOUR-DAY-TRIALS-BLACK-VINYL.png?v=1708117492
   Price: $35.00 USD
 - [Live From The Boston Woods - Limited Edition Vinyl](https://dispatchmerch.com/products/live-from-the-woods-vinyl): 2x LP Standard black vinylTRACKLIST: SIDE APasserbyBreak Our FallOpen UpOnly the Wild OnesSIDE BPainted Yellow LinesBang BangPast The FallsSIDE COutloud feat. G. LoveFlying HorsesLookin’ Out My Back DoorEliasSIDE DCame For The FireThe General feat. Jerry DePizzo and Jon LampleyIt’s the End of the World As We Know It (and I Feel Fine) feat. O.A.R., G. LoveLetter to Lady J feat. O.A.R., G. Love Released 2023
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-25T12:39:03Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AMERICA-LOCATION12-CD3.png?v=1708967415
   Price: $12.00 USD
 - [Circles Around The Sun - Limited Edition Red Vinyl](https://dispatchmerch.com/products/circles-around-the-sun-red-vinyl): 180-gram red vinyl with hardcover bound book featuring photographs from the studio, and includes CD version inside. TRACKLIST:1. Circles Around The Sun2. Not Messin3. Get Ready Boy4. Sign Of The Times5. Josaphine6. Flag7. Come To Me8. Never Or Now9. We Hold A Gun10. Feels So Good
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-25T12:39:06Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-WHO-ARE-WE-LIVING-FOR-PINK-VINYL.png?v=1708968883
   Price: $35.00 USD
 - [Who Are We Living For - Black Vinyl](https://dispatchmerch.com/products/who-are-we-living-for-black-vinyl): 2x LP Standard black vinylTRACKLIST: SIDE A1. Everybody Clap2. Open Up3. Just Like Larry4. Time Served5. Even SIDE B6. Passerby7. Carry You8. D. Bits9. How Now10. Lightning SIDE C11. Granite12. Prince of Spades13. Parade Speed14. Headlights15. Blood SIDE D16. 10ft, 5ft Bag ‘em17. Douggie Mayu’s18. Gone19. Spades (Acoustic)20. 5 / 4
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-25T12:39:08Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -109,219 +109,193 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LOCATION-13-CD.png?v=1708974989
   Price: $13.00 USD
 - [Break Our Fall Bandana](https://dispatchmerch.com/products/break-our-fall-bandana): Break Our Fall multicolored tie dye bandana. 22" x 22" inches 100% Cotton
-  Updated: 2026-10-05T13:03:47Z
+  Updated: 2026-10-27T16:07:08Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallBandana.png?v=1710520140
-  Price: $10.00 USD
+  Price: $20.00 USD
 - [Patch Beanie](https://dispatchmerch.com/products/dispatch-beanie): Dispatch beanie in black with woven label. Made in the USA. 100% Acrylic
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-27T16:07:07Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchBeanie.png?v=1710520170
-  Price: $20.00 USD
+  Price: $25.00 USD
 - [Summer Stops '19 Trucker Hat](https://dispatchmerch.com/products/summer-stops-2019-trucker-hat): Summer Stops '19 5-panel trucker hat. Made from recycled bottles. 50% polyester, 50% cottonAdjustable snapback closure, one size fits all
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-27T16:07:08Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/SummerStops2019TruckerHatfront3.png?v=1710520356
-  Price: $15.00 USD
+  Price: $30.00 USD
 - [Enamel Pin Set](https://dispatchmerch.com/products/dispatch-enamel-pin-set): Custom Dispatch enamel pin set and printed backing card. Silver pin clutches Dimensions:- Owl: 2" x 1"- Bison: 1 1/4" x 1"- Dispatch 2019: 1 1/4" x 1"
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-27T16:07:07Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchEnamelPinSet.png?v=1710520609
-  Price: $10.00 USD
+  Price: $25.00 USD
 - [Dispatch Vinyl Slipmat](https://dispatchmerch.com/products/dispatch-slipmat): 12" double sided felt slipmat.
-  Updated: 2026-10-16T17:03:55Z
+  Updated: 2026-10-27T16:07:56Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchSlipmat.png?v=1710520869
   Price: $10.00 USD
 - [Logo Tumbler](https://dispatchmerch.com/products/dispatch-logo-tumbler): Copper logo tumbler that includes a vacuum sealed push-on lid with slide closure and reusable straw included. 22 oz.
-  Updated: 2026-10-05T13:03:50Z
+  Updated: 2026-10-27T16:07:07Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchLogoTumbler.png?v=1710520889
-  Price: $10.00 USD
+  Price: $40.00 USD
 - [Lightning Water Bottle](https://dispatchmerch.com/products/dispatch-water-bottle): Lightning water bottle with detachable lid. 16 oz.
-  Updated: 2026-10-05T13:03:50Z
+  Updated: 2026-10-27T16:07:56Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DispatchWaterBottle.png?v=1710520910
   Price: $15.00 USD
-- [Break Our Fall Tee](https://dispatchmerch.com/products/break-our-fall-t-shirt): Break Our Fall tee in deep charcoal or black. Deep Charcoal- 100% Cotton / Black- 65% Polyester, 35% Cotton
-  Updated: 2026-10-17T12:36:46Z
-  Vendor: Dispatch
-  Product Type: APPAREL
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-  - [S / Deep Charcoal](https://dispatchmerch.com/products/break-our-fall-t-shirt?variant=41096174960701)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-    Price: $20.00 USD
-  - [M / Deep Charcoal](https://dispatchmerch.com/products/break-our-fall-t-shirt?variant=41096174993469)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-    Price: $20.00 USD
-  - [L / Deep Charcoal](https://dispatchmerch.com/products/break-our-fall-t-shirt?variant=41096175026237)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-    Price: $20.00 USD
-  - [XL / Deep Charcoal](https://dispatchmerch.com/products/break-our-fall-t-shirt?variant=41096175059005)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-    Price: $20.00 USD
-  - [XXL / Deep Charcoal](https://dispatchmerch.com/products/break-our-fall-t-shirt?variant=41096175091773)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/BreakOurFallTee1.png?v=1710521080
-    Price: $20.00 USD
 - [Rainbow Butterfly Tee](https://dispatchmerch.com/products/rainbow-butterfly-tee): Rainbow butterfly print on a black tee. 100% Cotton
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:07Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/RainbowButterflyTee.png?v=1710521427
   - [S](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41096523284541)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41096523317309)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41096523350077)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41096523382845)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41096523415613)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
   - [XXXL](https://dispatchmerch.com/products/rainbow-butterfly-tee?variant=41110749675581)
     Availability: Available
-    Price: $20.00 USD
+    Price: $30.00 USD
 - [Bomber Logo Crewneck Sweatshirt](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt): Dispatch logo crewneck in gray. Features raglan sleeves and soft material. 50% Polyester, 37.5% Cotton, 12.5% Rayon
-  Updated: 2026-10-17T12:36:52Z
+  Updated: 2026-10-27T16:07:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/LetterLogoCrewneck.png?v=1710521556
   - [S](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt?variant=41096103460925)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [M](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt?variant=41096103493693)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [L](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt?variant=41096103526461)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [XL](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt?variant=41096103559229)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
   - [XXL](https://dispatchmerch.com/products/black-letter-logo-crewneck-sweatshirt?variant=41096103591997)
     Availability: Available
-    Price: $30.00 USD
+    Price: $50.00 USD
 - [Rainbow Tie Dye Tee](https://dispatchmerch.com/products/tie-dye-t-shirt): Dispatch rainbow tie dye tee with front print only. 100% Cotton
-  Updated: 2026-10-05T13:03:53Z
+  Updated: 2026-10-27T16:07:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/KH-DISPATCH-009-R2-02_1.png?v=1718992613
   - [S](https://dispatchmerch.com/products/tie-dye-t-shirt?variant=41096658190397)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/tie-dye-t-shirt?variant=41096658223165)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/tie-dye-t-shirt?variant=41096658255933)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/tie-dye-t-shirt?variant=41096658288701)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/tie-dye-t-shirt?variant=41096658321469)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
 - [Rainbow Tee](https://dispatchmerch.com/products/rainbow-t-shirt): Dispatch rainbow print on navy tee. 100% Cotton
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/1_8_1.png?v=1710522005
   - [S](https://dispatchmerch.com/products/rainbow-t-shirt?variant=41096529215549)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/rainbow-t-shirt?variant=41096529248317)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/rainbow-t-shirt?variant=41096529281085)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/rainbow-t-shirt?variant=41096529313853)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/rainbow-t-shirt?variant=41096529346621)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
 - [Tie-Dye Crewneck](https://dispatchmerch.com/products/tie-dye-crewneck): Tie-Dye Crewneck with lighting logo. 100% Cotton
-  Updated: 2026-10-05T13:03:54Z
+  Updated: 2026-10-27T16:07:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/LightningCrewneck.png?v=1710522088
   - [S](https://dispatchmerch.com/products/tie-dye-crewneck?variant=41096657436733)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [M](https://dispatchmerch.com/products/tie-dye-crewneck?variant=41096657469501)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [L](https://dispatchmerch.com/products/tie-dye-crewneck?variant=41096657502269)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [XL](https://dispatchmerch.com/products/tie-dye-crewneck?variant=41096657535037)
     Availability: Not Available
-    Price: $35.00 USD
+    Price: $60.00 USD
   - [XXL](https://dispatchmerch.com/products/tie-dye-crewneck?variant=41096657567805)
     Availability: Available
-    Price: $35.00 USD
+    Price: $60.00 USD
 - [Summer '22 Poster](https://dispatchmerch.com/products/summer-22-poster): Dispatch Summer '22 Poster.
-  Updated: 2026-10-05T13:03:54Z
+  Updated: 2026-10-27T16:07:05Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/D-Poster.png?v=1710522113
-  Price: $10.00 USD
+  Price: $20.00 USD
 - [Ranger Bear Tee](https://dispatchmerch.com/products/ranger-bear-tee): Ranger Bear Tee. 100% Cotton
-  Updated: 2026-10-11T19:36:06Z
+  Updated: 2026-10-27T16:07:05Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/RangerBearTee.png?v=1710780278
   - [S](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492532797)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492565565)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492598333)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492631101)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102492663869)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXXL](https://dispatchmerch.com/products/ranger-bear-tee?variant=41102614036541)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
 - [Location 13 - Tri-Colored Vinyl](https://dispatchmerch.com/products/location-13-tri-colored-vinyl): Location 13 available on a Tri-Colored Vinyl. TRACKLIST: Side A: 1. Cross The World2. Daft Alchemist3. London Daughters4. So Good5. Black Land Prairie Side B: 6. Came For The Fire7. Letter to Lady J8. Don Juan Tango9. Follow I The River10. Prisoner’s Visitor11. Dear Congress (17)
   Updated: 2026-10-20T15:35:35Z
   Vendor: Dispatch
@@ -330,60 +304,60 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-LOCATION-13-VINYL.png?v=1715182566
   Price: $35.00 USD
 - [Summer Stops '24 Tee](https://dispatchmerch.com/products/summer-stops-24-tee): Summer Stops '24 Tee, front print only. 100% Cotton
-  Updated: 2026-10-05T13:03:56Z
+  Updated: 2026-10-27T16:07:05Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/Dispatch_1.png?v=1718647700
   - [S](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41475226304573)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41475226337341)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41475226370109)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41475226402877)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $30.00 USD
   - [2XL](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41475226435645)
     Availability: Available
-    Price: $10.00 USD
+    Price: $30.00 USD
   - [3XL](https://dispatchmerch.com/products/summer-stops-24-tee?variant=41822782390333)
     Availability: Available
-    Price: $10.00 USD
+    Price: $30.00 USD
 - [Retro Hoodie](https://dispatchmerch.com/products/circle-hoodie): Retro Hoodie in cream with front pocket and drawstring 100% Cotton
-  Updated: 2026-10-05T13:03:56Z
+  Updated: 2026-10-27T16:07:05Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CIRCLE-HOODIE-FRONT-TAN-2024.png?v=1721151314
   - [S](https://dispatchmerch.com/products/circle-hoodie?variant=41563594129469)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [M](https://dispatchmerch.com/products/circle-hoodie?variant=41563594162237)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [L](https://dispatchmerch.com/products/circle-hoodie?variant=41563594195005)
     Availability: Not Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [XL](https://dispatchmerch.com/products/circle-hoodie?variant=41563594227773)
     Availability: Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [2XL](https://dispatchmerch.com/products/circle-hoodie?variant=41563594260541)
     Availability: Available
-    Price: $30.00 USD
+    Price: $60.00 USD
   - [3XL](https://dispatchmerch.com/products/circle-hoodie?variant=41563596816445)
     Availability: Available
-    Price: $30.00 USD
+    Price: $60.00 USD
 - [Retro Beanie](https://dispatchmerch.com/products/circle-beanie): Retro Beanie with patch
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:04Z
   Vendor: Dispatch
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CIRCLE-BEANIE-NAVY-2024.png?v=1722527853
-  Price: $15.00 USD
+  Price: $30.00 USD
 - [Circles Around The Sun - CD](https://dispatchmerch.com/products/circles-around-the-sun-cd): Standard CD. TRACKLIST:1. Circles Around The Sun2. Not Messin3. Get Ready Boy4. Sign Of The Times5. Josaphine6. Flag7. Come To Me8. Never Or Now9. We Hold A Gun10. Feels So Good
   Updated: 2026-10-05T13:03:57Z
   Vendor: Dispatch
@@ -406,57 +380,57 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-EP-CD.png?v=1739222630
   Price: $10.00 USD
 - [Dispatch  Fold-Up Blanket](https://dispatchmerch.com/products/dispatch-blanket): Large Dispatch Blanket that folds up so it is easy to take from show to show! 45 x 52 in / Thin blanket
-  Updated: 2026-10-13T02:43:17Z
+  Updated: 2026-10-27T16:07:04Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-CLOSED-BLANKET.png?v=1729719778
-  Price: $10.00 USD
+  Price: $25.00 USD
 - [Amplifying Democracy Tee](https://dispatchmerch.com/products/amplifying-democracy-tee): Amplifying Democracy Tour Tee, now available online! 100% Cotton
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-29T21:14:06Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-TEE-BOTH-2024.png?v=1730124604
   - [S](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170650173)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
   - [M](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170682941)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
   - [L](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170715709)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
   - [XL](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170748477)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
   - [XXL](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170781245)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
   - [XXXL](https://dispatchmerch.com/products/amplifying-democracy-tee?variant=41775170814013)
     Availability: Available
-    Price: $15.00 USD
+    Price: $25.00 USD
 - [Amplifying Democracy Tote](https://dispatchmerch.com/products/amplifying-democracy-tote): Amplifying Democracy canvas tote bag!
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:04Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-TOTE.png?v=1730125147
-  Price: $10.00 USD
+  Price: $15.00 USD
 - [Amplifying Democracy Button](https://dispatchmerch.com/products/amplifying-democracy-button): Amplifying Democracy button! 2.5 x 2.5 in
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-TEE-BUTTON.png?v=1730125312
-  Price: $2.50 USD
+  Price: $4.00 USD
 - [Amplifying Democracy Sticker](https://dispatchmerch.com/products/amplifying-democracy-sticker): Amplifying Democracy sticker! 3 x 3.5 in
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-AD-STICKER.png?v=1730125381
-  Price: $2.50 USD
+  Price: $5.00 USD
 - [Ranger Bear Koozie](https://dispatchmerch.com/products/ranger-bear-koozie): Ranger Bear doubled sided koozie in green. 12 oz koozie
   Updated: 2026-10-05T13:04:01Z
   Vendor: Dispatch
@@ -465,33 +439,33 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-RANGER-BEAR-KOOZIE.png?v=1731953927
   Price: $5.00 USD
 - [Patch Party Bottle Opener](https://dispatchmerch.com/products/patch-party-bottle-opener): Patch Party Bottle Opener in orange. 7 in x 1 5/8 in
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-BOTTLE-OPENER-2024.png?v=1731953448
-  Price: $7.00 USD
+  Price: $10.00 USD
 - [Patch Party Tee](https://dispatchmerch.com/products/patch-party-tee): Patch Party Tee in white with front print only. 100% Cotton / Bella Canvas Tee
-  Updated: 2026-10-16T17:03:57Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCH-PATCH-PARTY-TEE-WHITE-2024.png?v=1731953686
   - [S](https://dispatchmerch.com/products/patch-party-tee?variant=41820803334205)
     Availability: Available
-    Price: $15.00 USD
+    Price: $35.00 USD
   - [M](https://dispatchmerch.com/products/patch-party-tee?variant=41820803366973)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $35.00 USD
   - [L](https://dispatchmerch.com/products/patch-party-tee?variant=41820803399741)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $35.00 USD
   - [XL](https://dispatchmerch.com/products/patch-party-tee?variant=41820803432509)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $35.00 USD
   - [XXL](https://dispatchmerch.com/products/patch-party-tee?variant=41820803465277)
     Availability: Available
-    Price: $15.00 USD
+    Price: $35.00 USD
 - [Yellow Jacket - CD [SIGNED]](https://dispatchmerch.com/products/yellow-jacket-cd): Standard CD + SIGNED art card. Tracklist: 1. Yellow Jacket 2. Whisk Me Away 3. Trinket (ft. John Butler) 4. The Night Young 5. Everyone's In The Street (ft. Ani DiFranco) 6. Johnny Whoops 7. Flood 8. The Moon and the Seven Seas 9. Hush Money 10. Tulsa Picnic 11. Darker Light Release Date: June 6, 2025 "Yellow Jacket" was recorded and produced almost entirely in Boston, together with the full band and Craig Welsch at Rear Window Studios. The 11-song collection of music harkens back to the infectious blend of reggae, ska and roots rock that built the band’s heralded career and dedicated fanbase.“For us, this album is a way to acknowledge what our culture is facing and the effects of the abuse of power. In this album, you’ll find the effects war has on family in 'Johnny Whoops,' the complexity and brilliance of Emily Dickinson’s words in 'Trinket (ft. John Butler),' and we pay homage to the great activists of our time alongside Ani DiFranco on 'In the Street,' as a reminder of how crucial it is to not sit back idly. But mostly, our goal with this album is for listeners to enjoy the tunes in whatever way, hopefully at times collectively, and in community.” - Chadwick Stokes
   Updated: 2026-10-05T13:04:03Z
   Vendor: Dispatch
@@ -521,70 +495,70 @@
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCHYELLOWJACKETCD.png?v=1749158750
   Price: $8.99 USD
 - [Yellow Jacket Tee - Black](https://dispatchmerch.com/products/yellow-jacket-tee-black): Dispatch Yellow Jacket Tee in back with front print only. 100% combed ring-spun cotton
-  Updated: 2026-10-05T13:04:05Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPYELLOWJACKETTEE.png?v=1756313751
   - [S](https://dispatchmerch.com/products/yellow-jacket-tee-black?variant=42559874498621)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/yellow-jacket-tee-black?variant=42559874531389)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/yellow-jacket-tee-black?variant=42559874564157)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/yellow-jacket-tee-black?variant=42559874596925)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/yellow-jacket-tee-black?variant=42559874629693)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
 - [Summer Tour Tee](https://dispatchmerch.com/products/summer-tour-tee): Dispatch Summer Tour Tee in "natural" with front and back print. 100% combed ring-spun cotton
-  Updated: 2026-10-13T22:23:26Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: APPAREL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPSUMMERTOURTEE-2.png?v=1756314100
   - [S](https://dispatchmerch.com/products/summer-tour-tee?variant=42559885049917)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [M](https://dispatchmerch.com/products/summer-tour-tee?variant=42559885082685)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [L](https://dispatchmerch.com/products/summer-tour-tee?variant=42559885115453)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XL](https://dispatchmerch.com/products/summer-tour-tee?variant=42559885148221)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
   - [XXL](https://dispatchmerch.com/products/summer-tour-tee?variant=42559885180989)
     Availability: Available
-    Price: $15.00 USD
+    Price: $30.00 USD
 - [Microphone Sticker - Orange](https://dispatchmerch.com/products/microphone-sticker-orange): Approx 4 x 4 inches
-  Updated: 2026-10-17T12:36:55Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPMICSTICKER_0b61f065-17cb-4da3-92ec-f42df7a4d119.png?v=1756392224
-  Price: $2.50 USD
+  Price: $5.00 USD
 - [Charleston, SC Poster [SIGNED]](https://dispatchmerch.com/products/charleston-sc-poster): Limited quantities available. 18 x 24 in
-  Updated: 2026-10-05T13:04:08Z
+  Updated: 2026-10-27T16:07:03Z
   Vendor: Dispatch
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPCHARLESTONPOSTER.png?v=1756315142
-  Price: $20.00 USD
+  Price: $50.00 USD
 - [Live From The Boston Woods - Lumberjack Vinyl](https://dispatchmerch.com/products/live-from-the-boston-woods-lumberjack-edition-vinyl): 30th Anniversary Edition Live From The Boston Woods - Lumberjack Edition 2 LP in “Evergreen” and “Stump Brown". This repress is excluded from the Dispatch30 Vinyl . TRACKLIST: SIDE APasserbyBreak Our FallOpen UpOnly the Wild OnesSIDE BPainted Yellow LinesBang BangPast The FallsSIDE COutloud feat. G. LoveFlying HorsesLookin’ Out My Back DoorEliasSIDE DCame For The FireThe General feat. Jerry DePizzo and Jon LampleyIt’s the End of the World As We Know It (and I Feel Fine) feat. O.A.R., G. LoveLetter to Lady J feat. O.A.R., G. Love
-  Updated: 2026-10-16T21:00:09Z
+  Updated: 2026-10-28T14:15:07Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0591/5600/4925/files/DISPATCHLFTWREPRESS.png?v=1783016598
   Price: $35.00 USD
 - [Bang Bang - Blended Citrus Vinyl](https://dispatchmerch.com/products/bang-bang-blended-citrus-vinyl): Limited Edition Bang Bang Vinyl in "Blended Citrus" TRACKLIST: SIDE A1. Here We Go2. Bats In The Belfry3. The General4. Bang Bang5. Mission SIDE B6. Drive7. Two Coins8. Railway9. Whirlwind10. Out Loud
-  Updated: 2026-10-22T15:26:17Z
+  Updated: 2026-10-28T14:15:07Z
   Vendor: Dispatch
   Product Type: Music
   Availability: Available
@@ -601,31 +575,31 @@
 ## Collections
 
 - [Apparel](https://dispatchmerch.com/collections/apparel)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 37
 - [Accessories](https://dispatchmerch.com/collections/accessories)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-27T16:07:57Z
   Total Products: 52
 - [Hats](https://dispatchmerch.com/collections/hats)
   Updated: 2026-07-08T21:40:16Z
   Total Products: 0
 - [All Music](https://dispatchmerch.com/collections/music)
-  Updated: 2026-10-22T11:20:44Z
+  Updated: 2026-10-29T11:10:59Z
   Total Products: 43
 - [CDs](https://dispatchmerch.com/collections/cds)
   Updated: 2026-09-20T11:14:34Z
   Total Products: 9
 - [Featured](https://dispatchmerch.com/collections/featured)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 21
 - [Garage ](https://dispatchmerch.com/collections/)
-  Updated: 2026-10-14T11:40:21Z
+  Updated: 2026-10-27T16:07:57Z
   Total Products: 22
 - [Amplifying Democracy Collection](https://dispatchmerch.com/collections/amplifying-democracy-collection)
-  Updated: 2026-10-14T11:40:21Z
+  Updated: 2026-10-27T16:07:06Z
   Total Products: 4
 - [Winter Gear Collection](https://dispatchmerch.com/collections/winter-gear-collection)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:03:37Z
   Total Products: 14
 - [The Yellow Jacket Album Collection](https://dispatchmerch.com/collections/yellow-jacket-album-collection)
   Updated: 2026-09-20T11:14:34Z
@@ -634,55 +608,55 @@
   Updated: 2026-09-20T11:14:34Z
   Total Products: 5
 - [Tour Essentials](https://dispatchmerch.com/collections/tour-essentials)
-  Updated: 2026-10-13T11:12:53Z
+  Updated: 2026-10-27T16:07:57Z
   Total Products: 10
 - [Vinyl](https://dispatchmerch.com/collections/vinyl)
-  Updated: 2026-10-22T11:20:44Z
+  Updated: 2026-10-29T11:10:59Z
   Total Products: 30
 - [Summer Tour Collection](https://dispatchmerch.com/collections/summer-tour-collection)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-27T16:07:04Z
   Total Products: 15
 - [All](https://dispatchmerch.com/collections/all)
-  Updated: 2026-10-22T11:20:44Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 129
 - [4th of July ](https://dispatchmerch.com/collections/4th-of-july-)
-  Updated: 2026-10-14T11:40:21Z
+  Updated: 2026-10-27T16:07:57Z
   Total Products: 10
 - [UPSELL](https://dispatchmerch.com/collections/upsell)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-27T16:07:05Z
   Total Products: 4
 - [Black Friday ](https://dispatchmerch.com/collections/black-friday-)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 48
 - [$20.25 Tees](https://dispatchmerch.com/collections/20-25-tees)
-  Updated: 2026-10-14T11:40:21Z
+  Updated: 2026-10-27T16:07:06Z
   Total Products: 4
 - [$5 and Below Collection](https://dispatchmerch.com/collections/5-and-below-collection)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-27T16:07:09Z
   Total Products: 9
 - [$10 Collection](https://dispatchmerch.com/collections/10-collection)
-  Updated: 2026-10-14T11:40:21Z
+  Updated: 2026-10-27T16:07:57Z
   Total Products: 13
 - [$15 Collection](https://dispatchmerch.com/collections/15-collection)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 12
 - [$25 and Above Collection](https://dispatchmerch.com/collections/25-and-above-collection)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-27T16:07:08Z
   Total Products: 6
 - [SPRING CLEANING ](https://dispatchmerch.com/collections/spring-cleaning-)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 42
 - [DISPATCH30](https://dispatchmerch.com/collections/dispatch30)
-  Updated: 2026-10-22T11:20:44Z
+  Updated: 2026-10-29T11:10:59Z
   Total Products: 2
 - [From the Garage](https://dispatchmerch.com/collections/from-the-garage)
   Updated: 2026-10-03T11:23:40Z
   Total Products: 11
 - [VINYL ](https://dispatchmerch.com/collections/vinyl-)
-  Updated: 2026-10-22T11:20:44Z
+  Updated: 2026-10-26T11:13:59Z
   Total Products: 14
 - [90's Pricing ](https://dispatchmerch.com/collections/90s-pricing-)
-  Updated: 2026-10-18T11:14:57Z
+  Updated: 2026-10-29T21:37:38Z
   Total Products: 41
 
 ## Store Pages
