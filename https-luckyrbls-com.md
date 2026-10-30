@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-19T09:06:57Z
 - Contact Email: hello@luckyrbls.com
-- Updated At: 2026-10-23T00:36:12.761Z
+- Updated At: 2026-10-30T00:53:54.180Z
 
 LuckyRbls is a women's fashion boutique based in Las Vegas, NV, specializing in bold, trend-forward apparel and footwear. The brand offers a curated selection of going-out dresses, bandage dresses, bold platform heels, mules, statement shoes, shapewear, denim, outerwear, and elevated basics — all designed for the woman who dresses with intention.
 
@@ -454,8 +454,8 @@ The store ships domestically and internationally, offers flexible payment option
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Firefly_GeminiFlash_Hyper-realistic2fashionimages6070907hw.jpg?v=1784846096
     Price: $89.00 USD
-- [Women's Square Neck Cami Strap Bandage Mini Dress](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress): A sculpting square-neck bandage mini dress with cami straps and an open back, made for birthdays, date nights, and nights out.
-  Updated: 2026-10-13T18:02:12Z
+- [Women's Square Neck Cami Strap Bandage Mini Dress](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress): Shop the Sofia square neck bandage mini dress at LuckyRbls Boutique. A sculpting, open-back bodycon dress with cami straps in pink, purple, light blue, and cream. XS–XL.
+  Updated: 2026-10-25T16:33:57Z
   Vendor: LuckyRbls
   Product Type: Dresses
   Availability: Available
@@ -463,67 +463,67 @@ The store ships domestically and internationally, offers flexible payment option
   - [Pink / XS](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791095487)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_PInk.png?v=1784843210
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Pink / S](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791128255)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_PInk.png?v=1784843210
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Pink / M](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791161023)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_PInk.png?v=1784843210
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Pink / L](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791193791)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_PInk.png?v=1784843210
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Purple / XS](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791226559)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Purple_0cb3f982-0960-40c0-9e5d-7295c5d87bee.png?v=1784843736
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Purple / S](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791259327)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Purple_0cb3f982-0960-40c0-9e5d-7295c5d87bee.png?v=1784843736
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Purple / M](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791292095)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Purple_0cb3f982-0960-40c0-9e5d-7295c5d87bee.png?v=1784843736
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Purple / L](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791324863)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Purple_0cb3f982-0960-40c0-9e5d-7295c5d87bee.png?v=1784843736
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Light Blue / XS](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791357631)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Blue_f25b039b-6381-4286-ae2f-8d4ecaa5ecd7.png?v=1784844111
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Light Blue / S](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791390399)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Blue_f25b039b-6381-4286-ae2f-8d4ecaa5ecd7.png?v=1784844111
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Light Blue / M](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791423167)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Blue_f25b039b-6381-4286-ae2f-8d4ecaa5ecd7.png?v=1784844111
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Light Blue / L](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791455935)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Blue_f25b039b-6381-4286-ae2f-8d4ecaa5ecd7.png?v=1784844111
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Cream / XS](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791488703)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Cream_61f60cff-8e80-4c0d-aa3d-7941f0d75b5a.png?v=1784843937
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Cream / S](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791521471)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Cream_61f60cff-8e80-4c0d-aa3d-7941f0d75b5a.png?v=1784843937
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Cream / M](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791554239)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Cream_61f60cff-8e80-4c0d-aa3d-7941f0d75b5a.png?v=1784843937
-    Price: $79.00 USD
+    Price: $65.90 USD
   - [Cream / L](https://luckyrbls.com/products/square-neck-cami-strap-mini-bandage-dress?variant=45884791587007)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Sofia_Square_Neck_Cami_Strap_Bandage_Mini_Dress_-_Cream_61f60cff-8e80-4c0d-aa3d-7941f0d75b5a.png?v=1784843937
-    Price: $79.00 USD
+    Price: $65.90 USD
 - [Women's Draped Front Bodycon Halter Midi Dress](https://luckyrbls.com/products/cod2-6-md2747-id-60497): Women's turquoise halter midi dress with draped waist detail and open back. Shop now, pay later + 15% off your first order.
   Updated: 2026-10-15T05:59:50Z
   Vendor: LuckyRbls
@@ -1854,7 +1854,7 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Medium_Wash_Low_Rise_Bootcut_Jeans_d8066d9a-e393-4a44-a990-790d6959754d.png?v=1785036684
     Price: $69.00 USD
 - [Women's Bootcut Jeans | Judy Blue Medium Wash Mid Rise Denim](https://luckyrbls.com/products/judy-blue-full-size-mid-rise-bootcut-jeans-with-contrast-wash-front-patch-pockets-plus-size): Shop Judy Blue medium wash bootcut jeans at LuckyRbls. Mid-rise stretch denim with contrast front patch pockets and plus sizes through 24W, under $100.
-  Updated: 2026-10-16T16:32:17Z
+  Updated: 2026-10-25T21:16:18Z
   Vendor: LuckyRbls
   Product Type: Jeans
   Availability: Available
@@ -2003,48 +2003,6 @@ The store ships domestically and internationally, offers flexible payment option
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Blue_Wash_Raw_Hem_High_Waist_Column_Straight_Jeans_30442bcb-8c2d-4183-95f4-adb15abb002d.png?v=1785044733
     Price: $79.00 USD
-- [Women's Wide Leg Jeans | Dark Wash High Rise Denim](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans): Shop women's dark wash wide-leg jeans at LuckyRbls. Discover high-rise stretch denim with slanted pockets and a flattering relaxed fit, under $100.
-  Updated: 2026-10-23T00:01:29Z
-  Vendor: LuckyRbls
-  Product Type: Jeans
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-  - [DARK / 0](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274562239)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 1](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274595007)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 3](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274627775)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 5](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274660543)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 7](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274693311)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 9](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274726079)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 11](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274758847)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 13](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274791615)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
-  - [DARK / 15](https://luckyrbls.com/products/risen-high-rise-wide-leg-slanted-pocket-jeans?variant=45914274824383)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_High_Rise_Wide_Leg_Jeans.1.png?v=1785042106
-    Price: $79.00 USD
 - [Dark Wash Front Tie High Rise Wide Leg Jeans | Women's Denim](https://luckyrbls.com/products/risen-full-size-high-rise-wide-leg-jeans-with-front-tie-detail-plus-size): Shop women's dark wash wide-leg jeans at LuckyRbls. Discover high-rise Risen denim with front-tie waist detailing and plus sizes through 3XL, under $100.
   Updated: 2026-10-16T16:31:15Z
   Vendor: LuckyRbls
@@ -2100,7 +2058,7 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Wash_Front_Tie_High_Rise_Wide_Leg_Jeans_c49831a1-50d7-4456-9d1a-56456d355116.png?v=1785035738
     Price: $79.00 USD
 - [Women's Skinny Jeans | Judy Blue Acid Wash High Waisted Jeans](https://luckyrbls.com/products/judy-blue-full-size-high-waist-skinny-jeans): Shop Judy Blue acid wash skinny jeans at LuckyRbls. High-waisted stretch denim in regular and plus sizes through 24W, with stylish jeans under $100.
-  Updated: 2026-10-16T16:28:11Z
+  Updated: 2026-10-28T14:12:00Z
   Vendor: LuckyRbls
   Product Type: Jeans
   Availability: Available
@@ -2126,7 +2084,7 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Acid_Dark_Wash_High_Waist_Skinny_Jeans.1.png?v=1785043458
     Price: $69.00 USD
   - [Dark / 9/29](https://luckyrbls.com/products/judy-blue-full-size-high-waist-skinny-jeans?variant=45914281672895)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Acid_Dark_Wash_High_Waist_Skinny_Jeans.1.png?v=1785043458
     Price: $69.00 USD
   - [Dark / 11/30](https://luckyrbls.com/products/judy-blue-full-size-high-waist-skinny-jeans?variant=45914281705663)
@@ -2208,17 +2166,17 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Light_Blue_Wash_Mid_Rise_Retro_Wide_Leg_Jeans_c2314e1e-3b59-43df-a555-7e46ca680130.png?v=1785050892
     Price: $79.00 USD
 - [Women's Wide Leg Jeans | Judy Blue Retro Dark Wash Jeans](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams): Shop Judy Blue dark wash wide-leg jeans at LuckyRbls. High-waisted retro denim with twisted seams, front patch pockets and a 33-inch inseam under $100.
-  Updated: 2026-10-16T16:41:22Z
+  Updated: 2026-10-26T02:11:27Z
   Vendor: LuckyRbls
   Product Type: Jeans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Blue_Wash_High_Waisted_Retro_Wide_Leg_Jeans_fv2.png?v=1785046284
   - [DK / 0(24)](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams?variant=45914818379967)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Blue_Wash_High_Waisted_Retro_Wide_Leg_Jeans_fv2.png?v=1785046284
     Price: $79.00 USD
   - [DK / 1(25)](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams?variant=45914818412735)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Blue_Wash_High_Waisted_Retro_Wide_Leg_Jeans_fv2.png?v=1785046284
     Price: $79.00 USD
   - [DK / 3(26)](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams?variant=45914818445503)
@@ -2226,7 +2184,7 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Blue_Wash_High_Waisted_Retro_Wide_Leg_Jeans_fv2.png?v=1785046284
     Price: $79.00 USD
   - [DK / 5(27)](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams?variant=45914818478271)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Dark_Blue_Wash_High_Waisted_Retro_Wide_Leg_Jeans_fv2.png?v=1785046284
     Price: $79.00 USD
   - [DK / 7(28)](https://luckyrbls.com/products/judy-blue-high-waisted-retro-wide-jeans-with-patch-pkts-twisted-seams?variant=45914818511039)
@@ -2796,7 +2754,7 @@ The store ships domestically and internationally, offers flexible payment option
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Farah_Sequined_Lace_Trim_Halter_Neck_Top.C_8b4ea8ce-6179-4672-8174-4a89c3947ab5.png?v=1785484647
     Price: $69.00 USD
 - [Women's Bias Cut Polka Dot Satin Midi Skirt | LuckyRbls](https://luckyrbls.com/products/polka-dot-midi-skirt): A polka dot satin midi skirt with a bias cut, soft flare, and easy day-to-night appeal. Get up to 20% Off + Free Shipping on Your First Order.
-  Updated: 2026-10-22T08:20:57Z
+  Updated: 2026-10-29T09:01:08Z
   Vendor: LuckyRbls
   Product Type: Skirts
   Availability: Available
@@ -2877,7 +2835,45 @@ The store ships domestically and internationally, offers flexible payment option
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Mila_Polka_Dot_Sweetheart_Neckline_Halter_Top.black.whitepolkdadots.2.png?v=1787627743
     Price: $35.00 USD
-[List Continued](https://luckyrbls.com/a/llms-agent/llms.txt?shop=yj35pa-mk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTI4MjI2NjE1NDg3LCJsYXN0X3ZhbHVlIjoiODUyODIyNjYxNTQ4NyJ9)
+- [Women's Striped Long Sleeve Fitted Blouse](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse): hop a structured striped blouse with a fitted silhouette and polished hook closure. Perfect for elevated outfits. Get 15% Off Your First Order. Shop Now, Pay Later.
+  Updated: 2026-10-16T15:13:56Z
+  Vendor: LuckyRbls
+  Product Type: Tops
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.1-3_side-by-side_i_214093_4ddec66c-8c48-4f7d-a94e-9f5a945c87f8.png?v=1785399661
+  - [Dark Navy / S](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444820159)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.1-3_side-by-side_i_214093.png?v=1785399698
+    Price: $49.00 USD
+  - [Dark Navy / M](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444852927)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.1-3_side-by-side_i_214093.png?v=1785399698
+    Price: $49.00 USD
+  - [Dark Navy / L](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444885695)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.1-3_side-by-side_i_214093.png?v=1785399698
+    Price: $49.00 USD
+  - [Dark Navy / XL](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444918463)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.1-3_side-by-side_i_214093.png?v=1785399698
+    Price: $49.00 USD
+  - [Black / S](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444951231)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.3-3_side-by-side_into_aspect_2_874671_b1336f5d-857b-49cc-bee0-ec2780848868.png?v=1785398025
+    Price: $49.00 USD
+  - [Black / M](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935444983999)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.3-3_side-by-side_into_aspect_2_874671_b1336f5d-857b-49cc-bee0-ec2780848868.png?v=1785398025
+    Price: $49.00 USD
+  - [Black / L](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935445016767)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.3-3_side-by-side_into_aspect_2_874671_b1336f5d-857b-49cc-bee0-ec2780848868.png?v=1785398025
+    Price: $49.00 USD
+  - [Black / XL](https://luckyrbls.com/products/striped-long-sleeve-fitted-blouse?variant=45935445049535)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0760/9643/8463/files/Vivienne_Striped_Long_Sleeve_Fitted_Blouse.3-3_side-by-side_into_aspect_2_874671_b1336f5d-857b-49cc-bee0-ec2780848868.png?v=1785398025
+    Price: $49.00 USD
+[List Continued](https://luckyrbls.com/a/llms-agent/llms.txt?shop=yj35pa-mk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTI4MjI5MjY5Njk1LCJsYXN0X3ZhbHVlIjoiODUyODIyOTI2OTY5NSJ9)
 
 ## Collections
 
@@ -2888,28 +2884,28 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-13T00:01:20Z
   Total Products: 0
 - [New Arrivals](https://luckyrbls.com/collections/new): Shop the newest arrivals in women's fashion at LuckyRbls. Discover sexy, carefree, and bombshell trendy looks. Get up to 20% off your order + Shop now, pay later.
-  Updated: 2026-10-22T10:26:42Z
-  Total Products: 62
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 56
 - [Clothing](https://luckyrbls.com/collections/clothing): Shop LuckyRbls women's clothing: bandage dresses, crop tops, high-waisted jeans, matching sets & shapewear. Boutique fashion for the trend-forward woman.
-  Updated: 2026-10-22T18:59:08Z
-  Total Products: 310
-- [Jeans & Denim](https://luckyrbls.com/collections/denim): Shop women's jeans at LuckyRbls, from wide-leg and flare denim to bootcut and curve-friendly fits. Explore select stylish jeans under $100. Up to 20% off your first order.
-  Updated: 2026-10-19T08:10:34Z
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 321
+- [Jeans](https://luckyrbls.com/collections/denim): Shop women's jeans at LuckyRbls, from wide-leg and flare denim to bootcut and curve-friendly fits. Explore select stylish jeans under $100. Up to 20% off your first order.
+  Updated: 2026-10-28T12:06:13Z
   Total Products: 46
 - [Accessories](https://luckyrbls.com/collections/accessories): Complete your look with RBTL's curated accessories collection. Shop bags, jewelry, belts, and more styled for the trend-conscious woman.
   Updated: 2026-10-14T16:16:53Z
   Total Products: 20
 - [Tops](https://luckyrbls.com/collections/tops): Shop LuckyRbls women’s tops, from corsets and bodysuits to bandage, halter, lace, mesh, satin and going-out tops. Feminine styles for date nights, parties, vacations and more. Shop now, pay later.
-  Updated: 2026-10-22T01:08:54Z
+  Updated: 2026-10-24T20:34:43Z
   Total Products: 42
 - [Dresses](https://luckyrbls.com/collections/dresses): Shop women’s dresses including bodycon, bandage, mini, midi, and trendy glam styles perfect for birthdays, vacations, nights out, and elevated everyday fashion.
-  Updated: 2026-10-22T18:58:08Z
-  Total Products: 97
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 108
 - [Outfits & Matching Sets](https://luckyrbls.com/collections/sets): Shop women's matching sets, corset sets, and chic two-piece outfits. Perfect for vacations, events, dinners, brunch, and elevated everyday style.
-  Updated: 2026-10-21T11:31:27Z
+  Updated: 2026-10-28T04:07:08Z
   Total Products: 22
 - [Jumpsuits & Rompers](https://luckyrbls.com/collections/jumpsuits-rompers): Shop women's jumpsuits & rompers at LuckyRbls Boutique. Wide-leg, fitted, strapless, tailored & going-out one-piece styles for every occasion. Shop Now, Pay Later.
-  Updated: 2026-10-21T10:47:48Z
+  Updated: 2026-10-29T01:05:55Z
   Total Products: 13
 - [Lingerie & Intimates](https://luckyrbls.com/collections/lingerie-intimates): Shop RBTL's lingerie and intimates collection. Discover beautiful, trend-forward styles curated for the confident, style-conscious woman.
   Updated: 2026-10-13T00:01:21Z
@@ -2921,8 +2917,8 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-21T21:54:34Z
   Total Products: 18
 - [Outerwear](https://luckyrbls.com/collections/outerwear): Shop LuckyRbls women’s coats and jackets, from luxe faux fur and faux leather to trendy trenches, blazers, cropped jackets and statement outerwear. Shop now, pay later.
-  Updated: 2026-10-21T07:43:41Z
-  Total Products: 14
+  Updated: 2026-10-27T08:02:19Z
+  Total Products: 17
 - [Straight Leg](https://luckyrbls.com/collections/straight-leg): Shop LuckyRbls women's straight leg jeans: light wash, dark wash, mid-rise & more. Classic straight-cut denim for every outfit. Get 15% Off Your First Order.
   Updated: 2026-10-19T03:19:15Z
   Total Products: 4
@@ -2942,14 +2938,14 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-13T00:01:22Z
   Total Products: 0
 - [Mini Dresses](https://luckyrbls.com/collections/mini-dresses): Shop women’s mini dresses featuring bodycon, satin, open-back, party, and statement styles for birthdays, date nights, brunch, vacations & more.
-  Updated: 2026-10-22T10:29:44Z
-  Total Products: 45
+  Updated: 2026-10-28T11:23:48Z
+  Total Products: 47
 - [Midi Dresses](https://luckyrbls.com/collections/midi-dresses): Shop women’s midi dresses including bodycon, bandage, ruched, halter, and open-back styles for weddings, date nights, cocktails, vacations & more.
-  Updated: 2026-10-17T00:42:40Z
-  Total Products: 15
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 18
 - [Maxi Dresses](https://luckyrbls.com/collections/maxi-dresses): Shop women’s maxi dresses featuring flowy, satin, bodycon, and vacation-ready styles. Discover elegant looks for weddings, events, nights out & resort getaways.
-  Updated: 2026-10-22T18:58:08Z
-  Total Products: 39
+  Updated: 2026-10-29T02:34:10Z
+  Total Products: 46
 - [Basic Tops](https://luckyrbls.com/collections/basic-tops): Shop women's basic tops, fitted tees, tanks, camisoles, and everyday essentials. Discover versatile wardrobe staples and feminine styles for effortless outfits.
   Updated: 2026-10-14T17:59:30Z
   Total Products: 3
@@ -2969,8 +2965,8 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-14T17:59:29Z
   Total Products: 3
 - [](https://luckyrbls.com/collections/): Shop LuckyRbls  styles featuring bestselling dresses, statement pieces, elevated sets & trendy looks at special prices. Shop now, pay later.
-  Updated: 2026-10-22T18:55:09Z
-  Total Products: 48
+  Updated: 2026-10-25T04:36:56Z
+  Total Products: 49
 - [Wide Leg Jeans](https://luckyrbls.com/collections/wide-leg-denim): Shop women's wide leg jeans, relaxed fit denim, and boutique styles designed for everyday wear. Free shipping on orders $75+.
   Updated: 2026-10-19T03:23:29Z
   Total Products: 10
@@ -2981,50 +2977,50 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-06T00:24:33Z
   Total Products: 3
 - [Bandage Collection](https://luckyrbls.com/collections/bandage): Discover bandage dresses, bodycon bandage tops, and sculpting styles designed to contour your shape and flatter your curves. Shop Now, Pay Later + up to 20% Off Your First Order.
-  Updated: 2026-10-22T10:25:25Z
-  Total Products: 34
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 38
 - [Clubwear, Party & Occasions Edit](https://luckyrbls.com/collections/party-looks): Shop party & occasion dresses at LuckyRbls. Date night dresses, sequin & sparkle, birthday outfits, bachelorette looks, and destination outfits for Greece, Ibiza & Dubai.
-  Updated: 2026-10-22T18:58:08Z
-  Total Products: 73
+  Updated: 2026-10-29T22:51:09Z
+  Total Products: 82
 - [Y2K Edit](https://luckyrbls.com/collections/y2k-edit): Shop the Y2K Edit — curated Y2K fashion, clothing, and tops inspired by early 2000s style. Bold, nostalgic, and effortlessly wearable.
   Updated: 2026-10-20T01:12:46Z
   Total Products: 26
 - [Recommended products (Seguno)](https://luckyrbls.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-23T00:27:29Z
-  Total Products: 495
+  Updated: 2026-10-30T00:41:46Z
+  Total Products: 511
 - [Bodysuits](https://luckyrbls.com/collections/bodysuits)
   Updated: 2026-10-20T01:11:52Z
   Total Products: 3
 - [Gowns & Formal Dresses](https://luckyrbls.com/collections/gowns-formal-dresses): Shop gowns & formal dresses at LuckyRbls.com . Discover elegant evening gowns, floor-length dresses, wedding guest styles, formal maxis and statement dresses for special occasions.
-  Updated: 2026-10-22T18:58:08Z
+  Updated: 2026-10-28T23:31:54Z
   Total Products: 21
 - [All Items Except Sales & ](https://luckyrbls.com/collections/all-items-except-sales-)
-  Updated: 2026-10-23T00:01:11Z
-  Total Products: 334
+  Updated: 2026-10-30T00:41:46Z
+  Total Products: 337
 - [Free Economy Shipping](https://luckyrbls.com/collections/free-economy-shipping)
-  Updated: 2026-10-22T18:55:09Z
-  Total Products: 201
+  Updated: 2026-10-29T01:05:55Z
+  Total Products: 200
 - [Smooth & Sculpt Shapewear](https://luckyrbls.com/collections/shapewear): Shop women’s shapewear, lingerie accessories, body shapers, sculpting bodysuits, shaper shorts, sticky bras, nipple covers & more. Get up to 20% off your first order. Shop now, pay later.
   Updated: 2026-10-20T08:53:05Z
   Total Products: 22
 - [Smart Products Filter Index - Do not delete](https://luckyrbls.com/collections/globofilter-best--products-index)
-  Updated: 2026-10-23T00:27:29Z
-  Total Products: 515
+  Updated: 2026-10-30T00:41:46Z
+  Total Products: 533
 - [Footwear](https://luckyrbls.com/collections/shoes): Shop LuckyRbls women’s shoes, from heels and boots to sandals and statement styles for nights out, vacations, parties and everyday looks. Shop now, pay later.
-  Updated: 2026-10-23T00:27:29Z
-  Total Products: 48
+  Updated: 2026-10-25T14:23:33Z
+  Total Products: 54
 - [Vendor: TaiLingJia](https://luckyrbls.com/collections/vendor-tailingjia)
   Updated: 2026-10-22T00:50:12Z
   Total Products: 3
 - [All Items Except Shoes + Sales & ](https://luckyrbls.com/collections/all-items-except-sales--copy)
-  Updated: 2026-10-22T18:59:40Z
-  Total Products: 311
+  Updated: 2026-10-30T00:41:46Z
+  Total Products: 312
 - [StoreRank.ai All Products](https://luckyrbls.com/collections/storerank-ai-all-products)
-  Updated: 2026-10-23T00:27:29Z
-  Total Products: 515
-- [Heels](https://luckyrbls.com/collections/womens-heels): Shop women's heels at LuckyRbls Boutique — stilettos, platforms, mules, pumps & strappy styles. Get up to 20% off your first order.
-  Updated: 2026-10-23T00:05:06Z
-  Total Products: 30
+  Updated: 2026-10-30T00:41:46Z
+  Total Products: 533
+- [Heels](https://luckyrbls.com/collections/womens-heels): Shop women's heels at LuckyRbls Boutique — From runway-inspired heels, high heel stiletto mules , platforms, pumps , glamorous going-out strappy styles & more!
+  Updated: 2026-10-25T07:23:43Z
+  Total Products: 36
 - [Boots](https://luckyrbls.com/collections/womens-boots): Shop women's boots at LuckyRbls Boutique — ankle, knee-high, thigh-high & platform styles. Shop Now, Pay Later.
   Updated: 2026-10-14T16:03:00Z
   Total Products: 13
@@ -3038,7 +3034,7 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-23T00:01:11Z
   Total Products: 13
 - [Platform & Wedges](https://luckyrbls.com/collections/womens-platform-wedge-shoes): Shop women's platform heels & wedges at LuckyRbls Boutique. Platform sandals, wedge heels, chunky platforms, strappy styles & more. Get up to 20% off your first order.
-  Updated: 2026-10-23T00:27:29Z
+  Updated: 2026-10-23T07:22:58Z
   Total Products: 12
 - [Pumps & Slingbacks](https://luckyrbls.com/collections/womens-pumps-slingbacks): Shop women's pumps & slingback heels at LuckyRbls Boutique. High heels, mid heels, kitten heels, pointed-toe pumps & more. Get up to 20% off your first order.
   Updated: 2026-10-16T11:34:11Z
@@ -3047,23 +3043,29 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-15T04:00:47Z
   Total Products: 28
 - [Polka Dots](https://luckyrbls.com/collections/trends-polka-dots): Shop the polka dot trend in women's dresses, tops, jumpsuits, heels and more! Shop now pay later with Klarna + Get up to 20% off your first order.
-  Updated: 2026-10-20T02:55:14Z
+  Updated: 2026-10-28T11:23:48Z
   Total Products: 23
 - [Dresses ( Excluding  &  )](https://luckyrbls.com/collections/dresses-copy): Shop women’s dresses including bodycon, bandage, mini, midi, and trendy glam styles perfect for birthdays, vacations, nights out, and elevated everyday fashion.
-  Updated: 2026-10-22T18:58:08Z
-  Total Products: 75
+  Updated: 2026-10-29T02:34:10Z
+  Total Products: 77
 - [LACE & SATIN](https://luckyrbls.com/collections/trends-lace-satin): Shop the lace and satin trend with satin dresses, lace tops, camis, corset styles, skirts and feminine going-out looks. Shop now pay later + Get up to 20% off your first order.
-  Updated: 2026-10-22T18:54:19Z
+  Updated: 2026-10-29T08:46:45Z
   Total Products: 36
 - [Jewelry](https://luckyrbls.com/collections/womens-all-jewelry): Shop women's jewelry at LuckyRbls. Discover 18K gold-plated, platinum-plated sterling silver, moissanite necklaces, statement earrings, rings and bracelets.
-  Updated: 2026-10-20T06:47:10Z
-  Total Products: 75
+  Updated: 2026-10-23T21:10:23Z
+  Total Products: 74
 - [Basics Collection (Excludes Sales & )](https://luckyrbls.com/collections/basics-collection-copy): Shop women's elevated basics at LuckyRbls. Discover rib-knit dresses, fitted tops, matching sets, rompers and everyday outfits with a not-so-basic twist.
   Updated: 2026-10-22T18:59:41Z
   Total Products: 17
 - [Fine Jewelry](https://luckyrbls.com/collections/womens-fine-jewelry): Shop LuckyRbls fine jewelry selection: moissanite necklaces, tennis bracelets, 925 sterling silver, 18K gold-plated and platinum-plated jewelry.
   Updated: 2026-10-20T06:44:59Z
   Total Products: 20
+- [Loungewear](https://luckyrbls.com/collections/loungewear): Shop women's loungewear at LuckyRbls. Discover feminine matching sets, ribbed knit outfits, cropped hoodies, flattering lounge pants and oh so soft and cosy lounge essentials.
+  Updated: 2026-10-27T11:25:17Z
+  Total Products: 4
+- [All Items Except Bandage Collection](https://luckyrbls.com/collections/all-items-except-bandage): Shop every LuckyRbls style outside the Bandage Collection, from dresses and matching sets to heels and boots.
+  Updated: 2026-10-29T02:34:10Z
+  Total Products: 495
 
 ## Blogs
 
@@ -3130,8 +3132,6 @@ The store ships domestically and internationally, offers flexible payment option
   Updated: 2026-10-09T07:17:33Z
 - [Women’s Wholesale Clothing for Boutiques | LuckyRbls](https://luckyrbls.com/pages/wholesale): Ready to stock pieces your customers will actually reach for? We curate trend-forward women's boutique fashion — from ruched halter minis to corset...
   Updated: 2026-09-13T02:04:04Z
-- [Alternatives to Princess Polly for Trendy Dresses (2026)](https://luckyrbls.com/pages/alternatives-to-princess-polly-for-trendy-dresses-2026): Introduction Princess Polly has become a staple for trendy dresses, attracting fashion-forward shoppers with its bold styles and youthful vibes. Ho...
-  Updated: 2026-10-18T07:45:58Z
 
 ## Policies
 
