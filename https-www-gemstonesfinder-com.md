@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-07-31T11:42:42Z
 - Contact Email: folkmarketgems@gmail.com
-- Updated At: 2026-10-23T00:38:14.600Z
+- Updated At: 2026-10-30T00:56:19.772Z
 
 ## Products
 
@@ -869,7 +869,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.gemstonesfinder.com/policies/privacy-policy)
-  Updated: 2025-12-08T12:03:08Z
+  Updated: 2026-10-29T16:44:09Z
 - [Shipping Policy](https://www.gemstonesfinder.com/policies/shipping-policy)
   Updated: 2023-08-03T22:19:25Z
 - [Refund Policy](https://www.gemstonesfinder.com/policies/refund-policy)
