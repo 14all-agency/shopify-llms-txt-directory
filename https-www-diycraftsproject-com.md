@@ -6,7 +6,7 @@
 - Timezone: Europe/Dublin
 - Created At: 2020-02-25T00:37:03Z
 - Contact Email: support@diycraftsproject.com
-- Updated At: 2026-10-23T00:27:14.786Z
+- Updated At: 2026-10-30T00:48:08.429Z
 
 ## Products
 
@@ -160,7 +160,7 @@
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Vintage_floral_vellum_sticker_sheets_10_10_cm_10pc_set.webp?v=1791615196
   Price: $4.95 USD
 - [27-Piece Clay Sculpting Tools Set – Pottery & Modelling Kit](https://www.diycraftsproject.com/products/27-piece-clay-sculpting-tools-set-pottery-kit): 27-piece pottery sculpting kit with wooden tools, ball stylus, rubber pens, metal needle & sponge. Works with air dry, polymer & ceramic clay. Includes storage bag. Shop now.
-  Updated: 2026-10-16T04:38:56Z
+  Updated: 2026-10-29T23:07:35Z
   Vendor: DiyCraftsProject
   Product Type: Clay Sculpting Tools
   Availability: Available
@@ -1133,7 +1133,7 @@
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Calligraphy-Pen-Glass-Dip-Pen-Chinese-Calligraphy-Beginner-Kit.jpg?v=1726617873
   Price: $19.95 USD
 - [3D Teddy Bear Silicone Mold](https://www.diycraftsproject.com/products/3d-teddy-bear-silicone-mold-candles-resin): Detailed sitting teddy bear silicone mold for candles, resin, soap and handmade gifts. Flexible mold for easy demolding.
-  Updated: 2026-10-22T16:50:40Z
+  Updated: 2026-10-23T04:50:44Z
   Vendor: DiyCraftsProject
   Product Type: Craft Molds
   Availability: Available
@@ -1270,7 +1270,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/woodwork-clamp-set-carpentry-clamping-device-kit-2.jpg?v=1726618019
     Price: $9.74 USD
 - [Premium Clear Elastic Bracelet String & Stretch Cord](https://www.diycraftsproject.com/products/premium-clear-elastic-bracelet-string-stretch-cord): Craft durable, professional jewelry with our Premium Clear Elastic Bracelet String. Features high-tensile stretch recovery, a transparent finish, and secure knotting.
-  Updated: 2026-10-13T17:52:29Z
+  Updated: 2026-10-28T13:22:13Z
   Vendor: DiyCraftsProject
   Product Type: cord
   Availability: Available
@@ -1410,7 +1410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Wooden-Guitar-Buttons-Sew-On-Buttons-For-Dressmaking-Sewing-Supplies-Backpack-Buttons-50pcs.jpg?v=1726618141
   Price: $5.95 USD
 - [50-Piece Grogu (Baby Yoda) Sticker Pack | Waterproof Vinyl Decals](https://www.diycraftsproject.com/products/50-piece-grogu-baby-yoda-waterproof-vinyl-stickers): High-quality 50-piece Grogu sticker set. Waterproof, sun-proof vinyl decals featuring "The Child" in various poses. Perfect for laptops, water bottles, and journals.
-  Updated: 2026-10-14T14:29:14Z
+  Updated: 2026-10-28T13:22:23Z
   Vendor: DiyCraftsProject
   Product Type: Decorative Stickers
   Availability: Available
@@ -1431,7 +1431,7 @@
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/hOVAIvmMVZOusgAg.jpg?v=1792082257
   Price: $3.95 USD
 - [Gold Heart Sticker Sheets | Metallic Foil Envelope Seals](https://www.diycraftsproject.com/products/gold-heart-stickers-metallic-foil-wedding-seals): Add a touch of elegance with our metallic gold heart stickers. Perfect for wedding invitations, Valentine’s cards, and gift wrapping. High-shine foil with strong adhesive.
-  Updated: 2026-10-14T14:29:13Z
+  Updated: 2026-10-28T13:22:25Z
   Vendor: DiyCraftsProject
   Product Type: Scrapbooking/Card Making
   Availability: Available
@@ -1470,14 +1470,14 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Handmade-With-Love-Stickers-Pack-Candle-Labels-Stickers-Sheet-Soap-Labels.jpg?v=1726618310
     Price: $5.95 USD
 - [Holographic Thank You Stickers 500pc Roll – 2.5cm Iridescent Labels](https://www.diycraftsproject.com/products/holographic-thank-you-sticker-roll-500-iridescent-2-5cm): 500 holographic iridescent Thank You circle stickers per roll, 2.5cm diameter. Elevate care packages, small business orders & gift packaging instantly. Shop now.
-  Updated: 2026-10-16T07:43:34Z
+  Updated: 2026-10-28T13:22:25Z
   Vendor: DiyCraftsProject
   Product Type: Scrapbooking/Card Making
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/holographic-thank-you-sticker-roll-iridescent-care-package-labels-circle-stickers-6644648.jpg?v=1776462256
   Price: $7.95 USD
 - [Fragile Stickers for Shipping | Handle With Care Warning Labels](https://www.diycraftsproject.com/products/fragile-stickers-shipping-handle-with-care-labels): Protect your shipments with our 100-pack of bright red Fragile stickers. Available in Large and Small sizes. Strong adhesive for boxes, mailers, and glass.
-  Updated: 2026-10-14T14:29:11Z
+  Updated: 2026-10-28T13:22:33Z
   Vendor: DiyCraftsProject
   Product Type: Plan & Organize
   Availability: Available
@@ -1516,7 +1516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/Paint-Brush-Set-Gifts-For-Painter-Women-Best-Paint-Roller.webp?v=1791592467
     Price: $13.95 USD
 - [Clean-Cut Paint Edger Roller](https://www.diycraftsproject.com/products/clean-cut-paint-edger-roller-brush-wall-trim): Stop wasting time on painter's tape! Use our Clean-Cut Paint Edger for sharp lines on trim & ceilings. 20x faster than a brush. Perfect for DIY home decor.
-  Updated: 2026-10-18T13:58:07Z
+  Updated: 2026-10-28T13:22:10Z
   Vendor: DiyCraftsProject
   Product Type: Paint Edgers
   Availability: Available
@@ -1658,7 +1658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/cat-shaped-cookie-cutter-aluminum-dough-molds-baking-accessories-7.jpg?v=1726618696
     Price: $4.95 USD
 - [Velvety Chenille Cotton & Polyester Yarn | 4.5mm Chunky Crafting](https://www.diycraftsproject.com/products/velvety-chenille-cotton-polyester-yarn-45mm-chunky-blanket): Knit plush home comforts with our Velvety Chenille Cotton & Polyester Yarn. 4.5mm thick, anti-pilling, and fade-resistant. Perfect for blankets & rugs!
-  Updated: 2026-10-13T17:52:36Z
+  Updated: 2026-10-28T13:22:39Z
   Vendor: DiyCraftsProject
   Product Type: arts and crafts supplies
   Availability: Available
@@ -1791,7 +1791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/writing-pen-with-wooden-pen-holder-wood-fountain-pen-ballpoint-pen-with-bamboo-pen-stand-letter-writing-gifts-for-him-5.webp?v=1791613419
     Price: $10.49 USD
 - [Dual-Tip Colored Brush Markers Set | Fine & Brush Art Pens](https://www.diycraftsproject.com/products/dual-tip-colored-brush-markers-set): Create stunning art with our Dual-Tip Colored Brush Markers! Features fine & brush tips for coloring, calligraphy, & sketching.
-  Updated: 2026-10-13T17:52:38Z
+  Updated: 2026-10-28T13:22:29Z
   Vendor: DiyCraftsProject
   Product Type: markers
   Availability: Available
@@ -1889,7 +1889,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/paper-crafts-for-kids-crafts-kits-diy-craft-kit-2.jpg?v=1726619413
     Price: $10.95 USD
 - [Buy Magic Water Coloring Book - Reusable No-Mess Drawing Pad for Kids (2+ Years) | DIY Crafts Project](https://www.diycraftsproject.com/products/magic-water-coloring-book-reusable-kids-activity): Unleash mess-free fun with our reusable magic water coloring book! Just add water for vibrant reveal. Eco-friendly activity pad for toddlers (2+ years).
-  Updated: 2026-10-15T07:27:57Z
+  Updated: 2026-10-28T13:22:31Z
   Vendor: DiyCraftsProject
   Product Type: Kids Arts & Crafts
   Availability: Available
@@ -1919,7 +1919,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/files/magic-water-coloring-book-reusable-no-mess-drawing-pad-for-kids-2-years-1096306.webp?v=1791593233
     Price: $2.99 USD
 - [White Charcoal Pencil - Highlight & Blending Pencil for Artists](https://www.diycraftsproject.com/products/white-charcoal-pencil-drawing-highlights): White charcoal pencil for adding crisp highlights, soft white shading and fine detail to sketches, portraits and toned-paper drawings.
-  Updated: 2026-10-15T02:34:21Z
+  Updated: 2026-10-28T13:22:31Z
   Vendor: DiyCraftsProject
   Product Type: Art Pencils
   Availability: Available
@@ -2040,7 +2040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/silicone-baking-mat-pizza-maker-gift-bread-baking-gifts-4.jpg?v=1726620072
     Price: $5.95 USD
 - [Fondant Scraper & Cake Icing Spatula - Cake Decorating Tool](https://www.diycraftsproject.com/products/fondant-scraper-cake-icing-spatula-tool): Fondant scraper and icing spatula for smoothing buttercream and shaping fondant. A handy cake decorating tool for home bakers.
-  Updated: 2026-10-15T02:34:22Z
+  Updated: 2026-10-28T13:22:34Z
   Vendor: DiyCraftsProject
   Product Type: Cake Decorating Supplies
   Availability: Available
@@ -2225,7 +2225,7 @@
     Image: https://cdn.shopify.com/s/files/1/0337/9137/7545/products/wedding-invitation-template-lovers-die-cut-for-weddings-stencil-5.jpg?v=1726620354
     Price: $2.24 USD
 - [Ombre Washi Tape Set | Gradient Decorative Masking Tape](https://www.diycraftsproject.com/products/ombre-washi-tape-set): Add subtle color transitions to your crafts with our Ombre Washi Tape Set! Premium Japanese paper tape for journals & scrapbooks.
-  Updated: 2026-10-14T14:16:35Z
+  Updated: 2026-10-28T13:22:38Z
   Vendor: DiyCraftsProject
   Product Type: Scrapbooking/Card Making
   Availability: Available
@@ -2342,10 +2342,10 @@
   Updated: 2026-10-22T20:24:14Z
   Total Products: 81
 - [Candle Making Supplies](https://www.diycraftsproject.com/collections/candle-making-supplies): Shop candle making supplies: silicone candle molds, wax, wicks, scents, dyes and kits. Everything you need to make handmade candles and wax melts.
-  Updated: 2026-10-22T20:32:24Z
+  Updated: 2026-10-28T11:05:55Z
   Total Products: 120
 - [Jewelry Making Supplies](https://www.diycraftsproject.com/collections/jewelry-making-supplies): Shop jewelry making supplies: beads, wire, findings, resin, tools and kits for handmade necklaces, bracelets and earrings. Beginner to pro.
-  Updated: 2026-10-22T20:29:54Z
+  Updated: 2026-10-28T11:05:55Z
   Total Products: 88
 - [Storage + Packaging Supplies](https://www.diycraftsproject.com/collections/storage-packaging-supplies): Craft storage and packaging supplies: gift boxes, cupcake boxes, mesh and organza bags, ribbon and organizers for gifts and small businesses.
   Updated: 2026-10-22T20:30:59Z
@@ -2354,7 +2354,7 @@
   Updated: 2026-10-22T20:24:10Z
   Total Products: 20
 - [Halloween Crafts & Decor](https://www.diycraftsproject.com/collections/halloween-crafts-decorations): Halloween craft kits for kids, skull and pumpkin silicone molds, stickers, face paint and DIY decorations. Everything for spooky parties and classrooms.
-  Updated: 2026-10-22T20:30:49Z
+  Updated: 2026-10-28T11:05:55Z
   Total Products: 108
 - [Mothers Day Crafts](https://www.diycraftsproject.com/collections/mothers-day-crafts): Mother's Day crafts and DIY gift kits: embroidery, needle felting, painting and candle projects to make a heartfelt handmade gift for Mom.
   Updated: 2026-10-22T20:31:08Z
@@ -2369,8 +2369,8 @@
   Updated: 2026-10-22T20:30:05Z
   Total Products: 47
 - [Saint Patricks Crafts](https://www.diycraftsproject.com/collections/saint-patricks-crafts): St. Patrick's Day crafts: shamrock decorations, cookie cutters, stickers, patches and green craft supplies for parties, classrooms and gifts.
-  Updated: 2026-10-22T20:32:41Z
-  Total Products: 38
+  Updated: 2026-10-24T13:10:30Z
+  Total Products: 39
 - [ Crafts Kits](https://www.diycraftsproject.com/collections/-crafts-kits): Craft kits for adults: needle felting, embroidery, paint by numbers, string art and more. Relaxing DIY projects and thoughtful creative gifts.
   Updated: 2026-10-22T20:29:29Z
   Total Products: 30
@@ -2384,8 +2384,8 @@
   Updated: 2026-10-22T20:24:15Z
   Total Products: 26
 - [All Craft Supplies](https://www.diycraftsproject.com/collections/all-craft-supplies): Browse all our craft supplies: molds, pottery tools, cross stitch kits, paints, stickers, sewing supplies and DIY kits for every hobby.
-  Updated: 2026-10-22T21:26:02Z
-  Total Products: 1974
+  Updated: 2026-10-29T22:23:46Z
+  Total Products: 2012
 - [Adhesives & Glues](https://www.diycraftsproject.com/collections/adhesives-glues): Craft adhesives and glues: glue  and sticks, UV resin glue, fabric glue, super glue and double-sided tape for DIY, repairs and art.
   Updated: 2026-10-22T20:24:10Z
   Total Products: 13
@@ -2396,8 +2396,8 @@
   Updated: 2026-10-22T20:31:08Z
   Total Products: 106
 - [Cross Stitch Kits](https://www.diycraftsproject.com/collections/cross-stitch-kits): Complete cross stitch kits with printed or counted patterns, fabric, thread and needles. Floral, animal, landscape and Christmas designs.
-  Updated: 2026-10-22T20:24:11Z
-  Total Products: 81
+  Updated: 2026-10-23T21:59:46Z
+  Total Products: 82
 - [Eco-Friendly Craft Materials for Sustainable DIY Projects](https://www.diycraftsproject.com/collections/eco-friendly-craft-materials): Sustainable craft supplies made from natural, recycled and biodegradable materials — jute, bamboo and more for low-waste DIY projects.
   Updated: 2026-10-22T20:24:12Z
   Total Products: 19
@@ -2411,11 +2411,11 @@
   Updated: 2026-10-22T20:24:12Z
   Total Products: 17
 - [Fiber Arts Supplies](https://www.diycraftsproject.com/collections/fiber-arts-supplies): Fiber arts supplies for embroidery, crochet, knitting, needle felting and weaving: yarn, floss, hoops, needles and looms for all skill levels.
-  Updated: 2026-10-22T20:32:25Z
-  Total Products: 196
+  Updated: 2026-10-23T21:42:09Z
+  Total Products: 197
 - [Paper Craft Supplies](https://www.diycraftsproject.com/collections/paper-craft-supplies): Scrapbook paper, cardstock, origami paper, quilling kits, cutting dies, stamps and washi tape. Paper craft supplies for cards and journals.
-  Updated: 2026-10-22T20:27:44Z
-  Total Products: 181
+  Updated: 2026-10-23T22:48:51Z
+  Total Products: 182
 - [Plaster Craft Supplies](https://www.diycraftsproject.com/collections/plaster-craft-supplies): Plaster craft supplies: statue, planter and decor molds plus kids' plaster painting kits. Cast, sculpt and paint your own plaster pieces.
   Updated: 2026-10-22T20:24:14Z
   Total Products: 32
@@ -2438,8 +2438,8 @@
   Updated: 2026-10-22T20:24:14Z
   Total Products: 68
 - [Printables & Digital Downloads](https://www.diycraftsproject.com/collections/digital-products): Instant-download printables: Halloween and trunk-or-treat party kits, games, labels, craft journals, kids activity pages and seller tools. US Letter and A4.
-  Updated: 2026-10-22T21:26:02Z
-  Total Products: 33
+  Updated: 2026-10-24T20:44:12Z
+  Total Products: 43
 - [DIY Project Tools](https://www.diycraftsproject.com/collections/diy-project-tools): DIY and hobby tools: screwdriver sets, household tool kits, mini drills, calipers, paint rollers, wire strippers and storage for home projects and crafts.
   Updated: 2026-10-22T20:31:08Z
   Total Products: 75
