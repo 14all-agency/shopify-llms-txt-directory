@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2020-02-25T10:19:46Z
 - Contact Email: support@paisleyautocare.com
-- Updated At: 2026-10-23T00:50:39.611Z
+- Updated At: 2026-10-30T01:06:59.538Z
 
 ## Products
 
@@ -75,7 +75,7 @@
     Availability: Available
     Price: £92.00 GBP
 - [Class 4 MOT in Paisley | £39.99 | Paisley Autocare](https://paisleyautocare.co.uk/products/mot): Book a Class 4 MOT in Paisley for £39.99. VOSA- testing, qualified technicians, and a free retest subject to T&amp;Cs.
-  Updated: 2026-10-18T23:27:46Z
+  Updated: 2026-10-29T16:12:32Z
   Vendor: Paisley Autocare
   Product Type: MOT
   Availability: Available
@@ -93,7 +93,7 @@
     Availability: Available
     Price: £59.99 GBP
 - [Standard Service | Car Service Every 12,000 Miles](https://paisleyautocare.co.uk/products/full-service): Book a Standard Service with OEM-spec parts and oil. Includes 12,000-mile checks, fluid top-ups, brakes, tyres, suspension and more.
-  Updated: 2026-10-16T11:28:37Z
+  Updated: 2026-10-26T23:26:58Z
   Vendor: Paisley Autocare LTD
   Product Type: Car Service
   Availability: Available
@@ -171,7 +171,7 @@
     Availability: Available
     Price: £389.99 GBP
 - [Interim Service | Oil Change & Safety Checks | Paisley Autocare](https://paisleyautocare.co.uk/products/interim-service-1): Interim Service in Paisley with oil and filter replacement, coolant top-up and essential safety checks. Ideal between major service intervals.
-  Updated: 2026-10-12T22:28:12Z
+  Updated: 2026-10-26T15:05:35Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -221,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0336/7403/5338/files/Exhaust-System-Check-Paisley-Autocare-200223810.jpg?v=1745488919
   Price: £72.00 GBP
 - [Brake Check in Paisley | Paisley Autocare](https://paisleyautocare.co.uk/products/brake-check): Brake check in Paisley for £59.99, including qualified labour, brake inspection, fluid checks and safe stopping performance testing.
-  Updated: 2026-10-12T22:27:48Z
+  Updated: 2026-10-26T11:42:00Z
   Vendor: Paisley Autocare
   Product Type: 
   Availability: Available
@@ -274,7 +274,7 @@
 ## Collections
 
 - [Car Servicing Paisley](https://paisleyautocare.co.uk/collections/car-servicing-paisley): Get top-quality car servicing paisley. Our experienced team ensures your vehicle runs smoothly and safely.
-  Updated: 2026-10-22T11:16:55Z
+  Updated: 2026-10-28T11:27:43Z
   Total Products: 15
 - [Car Brakes](https://paisleyautocare.co.uk/collections/car-brakes): Want to know more about car brakes? This guide covers everything you need to know about car brakes, from types to maintenance.
   Updated: 2026-10-12T10:27:41Z
@@ -283,7 +283,7 @@
   Updated: 2026-10-20T14:06:18Z
   Total Products: 0
 - [Car Servicing](https://paisleyautocare.co.uk/collections/service): Discover the essential aspects of car servicing. Learn how regular car servicing enhances performance and extends your vehicle's lifespan.
-  Updated: 2026-10-22T11:16:55Z
+  Updated: 2026-10-27T11:20:57Z
   Total Products: 4
 - [Tyres](https://paisleyautocare.co.uk/collections/tyres): Looking for new car tyres? Find a wide range of tyres at unbeatable prices. Get free delivery & fitting. Order now online or visit us in-store.
   Updated: 2026-04-20T16:41:01Z
@@ -1301,7 +1301,7 @@
 ## Policies
 
 - [Privacy Policy](https://paisleyautocare.co.uk/policies/privacy-policy)
-  Updated: 2025-12-17T12:01:38Z
+  Updated: 2026-10-29T16:59:25Z
 - [Shipping Policy](https://paisleyautocare.co.uk/policies/shipping-policy)
   Updated: 2024-05-15T10:11:56Z
 - [Refund Policy](https://paisleyautocare.co.uk/policies/refund-policy)
