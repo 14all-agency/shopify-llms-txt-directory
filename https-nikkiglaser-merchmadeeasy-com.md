@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-04T22:42:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:46:19.159Z
+- Updated At: 2026-10-30T01:15:28.779Z
 
 ## Products
 
 - [Alive and Unwell Crewneck - Black](https://nikkiglaser.merchmadeeasy.com/products/alive-and-unwell-crewneck): Welcome to the Alive and Unwell University 90/10 US grown cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 21 24 M 29 23 24 L 30 25 24 XL 31 27 24 2XL 32 29 23 1/2 3XL 33 31 23
-  Updated: 2026-10-12T20:22:00Z
+  Updated: 2026-10-23T13:04:30Z
   Vendor: Nikki Glaser Official Store
   Product Type: 
   Availability: Available
@@ -213,7 +213,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Ghost Tee](https://nikkiglaser.merchmadeeasy.com/products/ghost-tee): Alive & Unwell Ghost Tee in light blue with front print only.
-  Updated: 2026-10-13T14:23:27Z
+  Updated: 2026-10-23T23:01:53Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
@@ -472,7 +472,7 @@
   Image: https://cdn.shopify.com/s/files/1/0646/2803/1623/files/NGSTUNNINGTOTE.png?v=1784835573
   Price: $30.00 USD
 - [The Stunning Tour Tee](https://nikkiglaser.merchmadeeasy.com/products/the-stunning-tour-tee): The Stunning Tour Tee, only available in black on the Official Store. Front and back print. 100% cotton Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-17T04:28:33Z
+  Updated: 2026-10-29T16:03:21Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
@@ -535,7 +535,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Stunning Crewneck](https://nikkiglaser.merchmadeeasy.com/products/stunning-crewneck): The Stunning Tour Crewneck in maroon with front and back print. 90/10 US grown cotton/polyester Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 21 24 M 29 23 24 L 30 25 24 XL 31 27 24 2XL 32 29 23 1/2
-  Updated: 2026-10-13T04:18:37Z
+  Updated: 2026-10-25T02:03:46Z
   Vendor: Nikki Glaser Official Store
   Product Type: Apparel
   Availability: Available
@@ -559,16 +559,16 @@
 ## Collections
 
 - [SHOP FULL COLLECTION](https://nikkiglaser.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-21T11:15:56Z
+  Updated: 2026-10-25T11:14:34Z
   Total Products: 34
 - [APPAREL](https://nikkiglaser.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-21T11:15:56Z
+  Updated: 2026-10-25T11:14:34Z
   Total Products: 24
 - [ACCESSORIES](https://nikkiglaser.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-22T11:18:39Z
   Total Products: 14
 - [ALL](https://nikkiglaser.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:18:39Z
+  Updated: 2026-10-25T11:14:34Z
   Total Products: 39
 - [Limited Edition City Tees](https://nikkiglaser.merchmadeeasy.com/collections/city-tees)
   Updated: 2026-08-15T11:16:16Z
@@ -577,7 +577,7 @@
   Updated: 2026-10-19T11:12:05Z
   Total Products: 7
 - [$15 TEES](https://nikkiglaser.merchmadeeasy.com/collections/15-tees)
-  Updated: 2026-10-21T11:15:56Z
+  Updated: 2026-10-25T11:14:34Z
   Total Products: 21
 - [$5 POSTERS](https://nikkiglaser.merchmadeeasy.com/collections/5-posters)
   Updated: 2026-10-19T11:12:05Z
@@ -589,16 +589,16 @@
   Updated: 2026-10-22T11:18:39Z
   Total Products: 3
 - [THE STUNNING TOUR](https://nikkiglaser.merchmadeeasy.com/collections/the-stunning-tour)
-  Updated: 2026-10-22T11:18:39Z
+  Updated: 2026-10-25T11:14:34Z
   Total Products: 9
 - [Last Chance](https://nikkiglaser.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-10-21T11:15:56Z
+  Updated: 2026-10-24T11:13:33Z
   Total Products: 8
 - [$10 Vintage ](https://nikkiglaser.merchmadeeasy.com/collections/10-vintage-)
-  Updated: 2026-10-21T11:15:56Z
+  Updated: 2026-10-24T11:13:33Z
   Total Products: 16
 - [20% Off Select Items](https://nikkiglaser.merchmadeeasy.com/collections/20-off-select-items)
-  Updated: 2026-10-13T14:23:28Z
+  Updated: 2026-10-24T11:13:33Z
   Total Products: 5
 
 ## Store Pages
