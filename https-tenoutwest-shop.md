@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-09T16:09:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:35:04.279Z
+- Updated At: 2026-10-30T00:59:14.728Z
 
 ## Products
 
 - [OUTWEST TOTE TEN TOUR 100% COTTON](https://tenoutwest.shop/products/outwest-tote): TEN OUTWEST TOUR TOTE BAG in natural with print on one side. This item is a pre-order that will ship mid-November. 100% cotton 15"W x 16"H x 3"D
-  Updated: 2026-10-22T17:06:40Z
+  Updated: 2026-10-30T00:38:06Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/168477_1_310509_d_jpg.png?v=1789575323
   Price: $25.00 USD
 - [TOUR T-SHIRT - BLACK](https://tenoutwest.shop/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-10-22T06:32:55Z
+  Updated: 2026-10-30T00:09:12Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -39,13 +39,13 @@
     Availability: Available
     Price: $40.00 USD
 - [TOUR HOODIE](https://tenoutwest.shop/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in shade "cement" with front and back print. 100% Cotton
-  Updated: 2026-10-21T10:49:45Z
+  Updated: 2026-10-29T21:54:58Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_Grey_Hoodie.png?v=1791382450
   - [S](https://tenoutwest.shop/products/photo-tour-hoodie?variant=53296473735349)
-    Availability: Available
+    Availability: Not Available
     Price: $80.00 USD
   - [M](https://tenoutwest.shop/products/photo-tour-hoodie?variant=53296473768117)
     Availability: Available
@@ -60,20 +60,20 @@
     Availability: Available
     Price: $80.00 USD
 - [TOUR CAP](https://tenoutwest.shop/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-10-22T22:46:06Z
+  Updated: 2026-10-29T21:50:06Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTHAT.png?v=1789576954
   Price: $45.00 USD
 - [TOUR T-SHIRT (ARTWORK BY TEN) - NATURAL](https://tenoutwest.shop/products/west-tour-tee): TEN WEST TOUR TEE in shade "natural" with print on front and dates on back. 100% Cotton
-  Updated: 2026-10-22T20:23:27Z
+  Updated: 2026-10-30T00:38:05Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENTOURTEE-NATURAL_e120102d-202f-4020-81ae-52cdbcf86fdb.png?v=1790797163
   - [S](https://tenoutwest.shop/products/west-tour-tee?variant=53296506339509)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [M](https://tenoutwest.shop/products/west-tour-tee?variant=53296506372277)
     Availability: Available
@@ -88,105 +88,172 @@
     Availability: Available
     Price: $40.00 USD
 - [PENDANT KEYCHAIN](https://tenoutwest.shop/products/outwest-irl-keychain): OUTWEST + IRL PENDANT KEYCHAIN SET Acrylic charms with steel wire rings OUTWEST pendant dimensions: 2.4in x .6in IRL pendant dimensions: .8in x .6in
-  Updated: 2026-10-22T20:23:28Z
+  Updated: 2026-10-30T00:38:06Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTIRLKEYCHAIN.png?v=1789577314
   Price: $10.00 USD
 - [CITY EXCLUSIVE TOUR HOODIE](https://tenoutwest.shop/products/city-exclusive-tour-hoodie): CITY EXCLUSIVE TEN US SHOWCASE PHOTO TOUR HOODIE in shade black with city name on front and back print. City Exclusive tour hoodies will become available online the day after each show. This item is a pre-order that will ship 2-3 weeks after the date of the show. 100% Cotton
-  Updated: 2026-10-22T17:06:37Z
+  Updated: 2026-10-30T00:09:11Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND-2.png?v=1792508226
-  - [Seattle / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841903285)
+  - [SEATTLE / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841903285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_SEATTLE.png?v=1792508095
-    Price: $80.00 USD
-  - [Seattle / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841936053)
+    Price: $100.00 USD
+  - [SEATTLE / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841936053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_SEATTLE.png?v=1792508095
-    Price: $80.00 USD
-  - [Seattle / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841968821)
+    Price: $100.00 USD
+  - [SEATTLE / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570841968821)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_SEATTLE.png?v=1792508095
-    Price: $80.00 USD
-  - [Seattle / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570842001589)
+    Price: $100.00 USD
+  - [SEATTLE / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570842001589)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_SEATTLE.png?v=1792508095
-    Price: $80.00 USD
-  - [Seattle / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570842034357)
+    Price: $100.00 USD
+  - [SEATTLE / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53570842034357)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_SEATTLE.png?v=1792508095
-    Price: $80.00 USD
-  - [Portland / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076751541)
+    Price: $100.00 USD
+  - [PORTLAND / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076751541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND.png?v=1792508107
-    Price: $80.00 USD
-  - [Portland / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076784309)
+    Price: $100.00 USD
+  - [PORTLAND / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076784309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND.png?v=1792508107
-    Price: $80.00 USD
-  - [Portland / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076817077)
+    Price: $100.00 USD
+  - [PORTLAND / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076817077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND.png?v=1792508107
-    Price: $80.00 USD
-  - [Portland / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076849845)
+    Price: $100.00 USD
+  - [PORTLAND / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076849845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND.png?v=1792508107
-    Price: $80.00 USD
-  - [Portland / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076882613)
+    Price: $100.00 USD
+  - [PORTLAND / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53571076882613)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HOODIE_PORTLAND.png?v=1792508107
-    Price: $80.00 USD
-  - [San Francisco / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966647989)
+    Price: $100.00 USD
+  - [SAN FRANCISCO / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966647989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SF.png?v=1792687157
-    Price: $80.00 USD
-  - [San Francisco / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966680757)
+    Price: $100.00 USD
+  - [SAN FRANCISCO / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966680757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SF.png?v=1792687157
-    Price: $80.00 USD
-  - [San Francisco / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966713525)
+    Price: $100.00 USD
+  - [SAN FRANCISCO / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966713525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SF.png?v=1792687157
-    Price: $80.00 USD
-  - [San Francisco / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966746293)
+    Price: $100.00 USD
+  - [SAN FRANCISCO / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966746293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SF.png?v=1792687157
-    Price: $80.00 USD
-  - [San Francisco / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966779061)
+    Price: $100.00 USD
+  - [SAN FRANCISCO / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53584966779061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SF.png?v=1792687157
-    Price: $80.00 USD
+    Price: $100.00 USD
+  - [SAN DIEGO / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810583221)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
+    Price: $100.00 USD
+  - [SAN DIEGO / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810615989)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
+    Price: $100.00 USD
+  - [SAN DIEGO / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810648757)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
+    Price: $100.00 USD
+  - [SAN DIEGO / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810681525)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
+    Price: $100.00 USD
+  - [SAN DIEGO / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810714293)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
+    Price: $100.00 USD
+  - [LOS ANGELES / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810747061)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_LA.png?v=1793025410
+    Price: $100.00 USD
+  - [LOS ANGELES / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810779829)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_LA.png?v=1793025410
+    Price: $100.00 USD
+  - [LOS ANGELES / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810812597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_LA.png?v=1793025410
+    Price: $100.00 USD
+  - [LOS ANGELES / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810845365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_LA.png?v=1793025410
+    Price: $100.00 USD
+  - [LOS ANGELES / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810878133)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_LA.png?v=1793025410
+    Price: $100.00 USD
+  - [PHOENIX / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53625092800693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_PHX.png?v=1793203894
+    Price: $100.00 USD
+  - [PHOENIX / M](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53625092833461)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_PHX.png?v=1793203894
+    Price: $100.00 USD
+  - [PHOENIX / L](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53625092866229)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_PHX.png?v=1793203894
+    Price: $100.00 USD
+  - [PHOENIX / XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53625092898997)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_PHX.png?v=1793203894
+    Price: $100.00 USD
+  - [PHOENIX / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53625092931765)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_PHX.png?v=1793203894
+    Price: $100.00 USD
 - [CITY EXCLUSIVE TOUR CAP](https://tenoutwest.shop/products/city-exclusive-tour-cap): TEN OUTWEST HAT in black with logo on front and city specific embroidery on back. City Exclusive tour caps will become available online the day after each show. This item is a pre-order that will ship 2-3 weeks after the date of the show. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-10-22T04:47:16Z
+  Updated: 2026-10-30T00:38:01Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTCITYHAT.png?v=1792506488
-  Price: $45.00 USD
+  - [PORTLAND](https://tenoutwest.shop/products/city-exclusive-tour-cap?variant=53570844819637)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_OUTWEST_CITY_HAT_PORTLAND.png?v=1792506498
+    Price: $50.00 USD
+  - [LOS ANGELES](https://tenoutwest.shop/products/city-exclusive-tour-cap?variant=53606849544373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HAT_LA.png?v=1793026288
+    Price: $50.00 USD
 
 ## Collections
 
 - [Home page](https://tenoutwest.shop/collections/frontpage)
-  Updated: 2026-10-22T11:21:02Z
+  Updated: 2026-10-29T20:33:14Z
   Total Products: 8
 - [Apparel](https://tenoutwest.shop/collections/apparel)
-  Updated: 2026-10-22T11:21:02Z
+  Updated: 2026-10-29T20:32:36Z
   Total Products: 4
 - [Accessories](https://tenoutwest.shop/collections/accessories)
-  Updated: 2026-10-22T11:21:02Z
+  Updated: 2026-10-29T20:33:14Z
   Total Products: 4
 - [Hats](https://tenoutwest.shop/collections/hats)
-  Updated: 2026-10-22T11:21:02Z
+  Updated: 2026-10-29T20:33:14Z
   Total Products: 2
 - [Music](https://tenoutwest.shop/collections/music)
   Updated: 2026-09-15T21:11:55Z
   Total Products: 0
 - [All](https://tenoutwest.shop/collections/all)
-  Updated: 2026-10-22T11:21:02Z
+  Updated: 2026-10-29T20:33:14Z
   Total Products: 6
 
 ## Store Pages
