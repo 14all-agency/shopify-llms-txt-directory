@@ -6,7 +6,7 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-10-23T04:46:56.488Z
+- Updated At: 2026-10-30T04:49:43.011Z
 
 ## Products
 
@@ -3761,7 +3761,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1963 Ford Falcon T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1963-ford-falcon-t-shirt): Get this 1963 Ford Falcon T-Shirt featuring a bold retro American classic car graphic design. Premium quality vintage style from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:51Z
+  Updated: 2026-10-23T13:15:36Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4515,22 +4515,22 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-10-22T11:30:56Z
+  Updated: 2026-10-29T11:23:09Z
   Total Products: 419
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
-  Updated: 2026-10-20T11:26:34Z
+  Updated: 2026-10-27T11:23:34Z
   Total Products: 90
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
-  Updated: 2026-10-20T11:26:34Z
+  Updated: 2026-10-29T11:23:09Z
   Total Products: 83
 - [Bowtie Nation T-shirt](https://legend1apparel.com/collections/bowtie-nation-t-shirt): Shop the Bowtie Nation T-shirt collection at Legend 1 Apparel.
   Updated: 2026-10-20T11:26:34Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-10-18T11:29:04Z
+  Updated: 2026-10-27T11:23:34Z
   Total Products: 86
 - [Route 66 America's Heartland](https://legend1apparel.com/collections/route-66-americas-heartland): Shop Route 66 America's Heartland graphic tees. Bold Americana designs inspired by the iconic highway and classic roadside culture.
-  Updated: 2026-10-14T11:28:11Z
+  Updated: 2026-10-29T11:23:09Z
   Total Products: 84
 - [Your Car Custom T-shirt](https://legend1apparel.com/collections/your-car-custom-t-shirt)
   Updated: 2026-10-22T11:30:56Z
