@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-10-23T00:42:12.254Z
+- Updated At: 2026-10-30T00:58:42.148Z
 
 ## About RareLyf 
 
@@ -41,12 +41,12 @@
 
 ## Products
 
-- [RareLyf Calm | 15-Ingredient Stress and Sleep Support](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
-  Updated: 2026-10-22T12:15:44Z
+- [RareLyf Calm](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. No melatonin. No proprietary blends. No morning fog. Just 15 ingredients with every dose printed on the label. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
+  Updated: 2026-10-29T08:09:42Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero.jpg?v=1791457395
+  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero_-_Ayurvedic_positioning.jpg?v=1793256265
   Price: $59.99 USD
 - [90 Days Restoration Scratchcard](https://rarelyf.com/products/90-days-restoration-scratchcard)
   Updated: 2026-10-22T12:17:34Z
@@ -59,7 +59,7 @@
 ## Collections
 
 - [Home page](https://rarelyf.com/collections/frontpage)
-  Updated: 2026-10-08T10:37:04Z
+  Updated: 2026-10-25T06:11:48Z
   Total Products: 0
 
 ## Store Pages
@@ -83,7 +83,7 @@
 - [Thanks for your feedback](https://rarelyf.com/pages/thanks-for-your-feedback): .rlc{--v:#2d1a4e;--g:#b8960a;--ink:#111;--mu:#5e5a52;--ln:#e4dfd2;--card:#fffdf8;--cr:#f2f0ea;font-family:var(--font-body--family,Poppins),Poppins,...
   Updated: 2026-09-30T06:15:32Z
 - [The Sleep Fix Quiz](https://rarelyf.com/pages/sleep-quiz): #sfq {--cream: #FAFAF5; --cream-dark: #F2F0EA; --ink: #111111; --grey: #6B6B6B; --line: #E4E0D6; --gold: #B8960A; --gold-light: #D4AE2E; --violet: ...
-  Updated: 2026-10-21T06:39:19Z
+  Updated: 2026-10-26T10:16:14Z
 
 ## Policies
 
