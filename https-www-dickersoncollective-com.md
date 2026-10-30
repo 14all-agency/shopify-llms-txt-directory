@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-05-06T18:06:04Z
 - Contact Email: bonitainteriors@yahoo.com
-- Updated At: 2026-10-23T00:42:24.211Z
+- Updated At: 2026-10-30T01:05:48.539Z
 
 ## Products
 
@@ -249,14 +249,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/715F7EE4-3592-46C4-B0C6-715E95127A76.jpg?v=1783951831
   Price: $1,750.00 USD
 - [Vintage 1970s Wooden Candelabra | Dickerson Collective](https://www.dickersoncollective.com/products/wooden-candelabra): Vintage 1970s wooden candelabra with a compact sculptural profile for tabletop or shelf display.
-  Updated: 2026-10-12T15:07:41Z
+  Updated: 2026-10-30T00:27:09Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/7BBAAC55-E84F-424D-A333-1760F63812FB.jpg?v=1700016751
   Price: $175.00 USD
 - [Jae Carmichael Original Framed Abstract Painting | DC](https://www.dickersoncollective.com/products/abstract): Signed original abstract painting by Jae Carmichael with colorful geometric forms in orange, green, blue, yellow, and black.
-  Updated: 2026-10-20T13:58:15Z
+  Updated: 2026-10-29T23:01:02Z
   Vendor: Dickerson Collective
   Product Type: Art
   Availability: Available
@@ -270,7 +270,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/F08722A1-141D-40F6-AB08-B5D8FB918304.jpg?v=1783987265
   Price: $1,000.00 USD
 - [Vintage Abstract Diptych Painting – Primary Colors | DC](https://www.dickersoncollective.com/products/a-star-f): Vintage abstract diptych with bold primary colors, expressive brushstrokes, and layered composition across two canvases.
-  Updated: 2026-10-15T16:20:33Z
+  Updated: 2026-10-28T13:00:30Z
   Vendor: Dickerson Collective
   Product Type: Art
   Availability: Available
@@ -298,7 +298,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/7DBCB365-59EB-40FC-B47D-C3B1F225218C.jpg?v=1783951831
   Price: $1,800.00 USD
 - [Hand-Painted Tribal Ceramic Vase – Amerikkka Version | DC](https://www.dickersoncollective.com/products/untitled-aug15_11-49): Hand-painted antiqued ceramic vase with a graphic tribal-inspired pattern and red, white, and blue color palette.
-  Updated: 2026-10-12T15:07:45Z
+  Updated: 2026-10-30T00:48:46Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -403,7 +403,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/CAB494FA-BF80-45A6-BC46-A48C8535073E.jpg?v=1696875528
   Price: $50.00 USD
 - [Vintage Anagama Brown & Black Wood-Fired Vase | Dickerson Collective](https://www.dickersoncollective.com/products/anagama-brown-vase): Vintage Anagama-style vase with ridged texture and an earthy brown-and-black wood-fired finish.
-  Updated: 2026-10-12T15:08:03Z
+  Updated: 2026-10-30T00:49:14Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -417,7 +417,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A3CD408A-1F27-4F69-99B2-B3308E36803D.jpg?v=1696880204
   Price: $125.00 USD
 - [Vintage MJA Gold & Brown Raku Studio Pot | Dickerson Collective](https://www.dickersoncollective.com/products/mja-gold-brown-raku-studio-pot): Vintage MJA studio pottery pot with rich gold-and-brown Raku glazes and a compact handcrafted form.
-  Updated: 2026-10-12T15:08:06Z
+  Updated: 2026-10-30T00:49:33Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -431,7 +431,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/4955196E-7EEF-49D8-800B-0EB2F544E6F8.jpg?v=1697066203
   Price: $150.00 USD
 - [Vintage Brown & Cream Coil Studio Pottery Bowl | Dickerson Collective](https://www.dickersoncollective.com/products/coil): Vintage studio pottery bowl with visible coil construction and a brown-and-cream glaze highlighting its handmade texture.
-  Updated: 2026-10-12T15:08:06Z
+  Updated: 2026-10-30T00:49:58Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -445,7 +445,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/96544DF0-1AF3-4DC2-9930-FCD22195336B.jpg?v=1696909645
   Price: $250.00 USD
 - [Vintage Portrait Studio Pottery Planter Vase | Dickerson Collective](https://www.dickersoncollective.com/products/portrait-planter-studio-vase): Vintage studio pottery planter vase with a portrait motif and sculptural vessel form for flowers, plants, or display.
-  Updated: 2026-10-12T15:08:09Z
+  Updated: 2026-10-30T00:50:18Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -543,14 +543,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/956B7D7A-85E1-46DA-B34C-32DDC26E38CF.jpg?v=1697173219
   Price: $275.00 USD
 - [Vintage Blue Coil Ceramic Bud Vase | Dickerson Collective](https://www.dickersoncollective.com/products/blue-coil-bud-vase): Vintage ceramic bud vase with a rustic blue finish and visible coil texture across its compact handmade form.
-  Updated: 2026-10-12T15:08:26Z
+  Updated: 2026-10-30T00:50:28Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/CBD5A385-FD06-4D94-86E7-22AF230EE1B1.jpg?v=1708098409
   Price: $55.00 USD
 - [Blue Tall Coil Studio Pottery Vase | Dickerson Collective](https://www.dickersoncollective.com/products/coil-1): Tall blue studio pottery vase with visible coil construction and a narrow contemporary vessel form.
-  Updated: 2026-10-12T15:08:23Z
+  Updated: 2026-10-30T00:50:46Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/1BD1C25E-7970-4A84-A99C-F0781F41F6F3.jpg?v=1697411794
   Price: $200.00 USD
 - [Vintage Brutalist Brown Coil Ceramic Vase | Dickerson Collective](https://www.dickersoncollective.com/products/brutalist-brown-coil-mcm-vase): Vintage Brutalist ceramic vase with brown glazing and visible coil construction across a compact sculptural form.
-  Updated: 2026-10-12T15:08:32Z
+  Updated: 2026-10-30T00:51:15Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -648,14 +648,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/B24F99ED-E85A-46A8-9BFC-861205AF81C3.jpg?v=1697600687
   Price: $400.00 USD
 - [Vintage Jun-Type Purple-Flushed Stoneware Bowl | Dickerson Collective](https://www.dickersoncollective.com/products/small-jun-type-purple-flushed-stoneware-bowl-vintage): Vintage Jun-type stoneware bowl with a shallow form and distinctive purple-flushed glaze.
-  Updated: 2026-10-12T15:08:38Z
+  Updated: 2026-10-30T00:52:09Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/5F31117D-F3D1-4BC0-9D37-AAFE4699AD85.jpg?v=1700013433
   Price: $125.00 USD
 - [Vintage Blue & Pink Glazed Studio Pottery Bowl | Dickerson Collective](https://www.dickersoncollective.com/products/blue-13): Vintage studio pottery bowl with a blue glaze accented by pink tones across a compact rounded form.
-  Updated: 2026-10-12T15:08:38Z
+  Updated: 2026-10-30T00:52:19Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -683,14 +683,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/2D965D58-A4A8-440F-9584-889E577F205A.jpg?v=1700015035
   Price: $85.00 USD
 - [Vintage Blue Brown & Cream Coil Pottery Vase](https://www.dickersoncollective.com/products/e): Vintage handmade coil pottery vase with a glazed blend of blue, brown, and cream tones across a tall organic form.
-  Updated: 2026-10-12T15:09:12Z
+  Updated: 2026-10-30T00:52:28Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/1AAC4433-794F-4627-B7F5-AEE3EF0C03A3.jpg?v=1700015498
   Price: $525.00 USD
 - [Vintage Blue & White Floral Ceramic Table Lamp | Dickerson Collective](https://www.dickersoncollective.com/products/c-1): Vintage ceramic table lamp with a classic blue-and-white floral pattern and rounded decorative body.
-  Updated: 2026-10-12T15:09:14Z
+  Updated: 2026-10-28T13:37:40Z
   Vendor: Dickerson Collective
   Product Type: Lighting
   Availability: Available
@@ -711,7 +711,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/DEF534EF-F41B-401E-B12D-D5D36AE60A0D.jpg?v=1700017319
   Price: $825.00 USD
 - [Mid-Century Warm Stoneware Table Lamps – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/mcm-stoneware-warm-table-lamps-vintags): Pair of mid-century stoneware table lamps with warm Italian-inspired glazing and sculptural ceramic forms.
-  Updated: 2026-10-12T15:09:14Z
+  Updated: 2026-10-28T13:37:18Z
   Vendor: Dickerson Collective
   Product Type: Lighting
   Availability: Available
@@ -725,7 +725,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/B2148D1F-8E5C-4033-A919-12320709B004.jpg?v=1700018629
   Price: $600.00 USD
 - [Vintage Orange Speckled Scalloped Studio Pottery Plate | DC](https://www.dickersoncollective.com/products/orange-scalloped-studio-plate): Vintage shallow studio pottery plate with orange, russet, melon, and cream speckled glaze and raw scalloped edges.
-  Updated: 2026-10-12T15:09:17Z
+  Updated: 2026-10-30T00:47:31Z
   Vendor: Dickerson Collective
   Product Type: Plates
   Availability: Available
@@ -788,7 +788,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/425B366D-EC73-416F-8A7A-A937A245359A.jpg?v=1783988909
   Price: $800.00 USD
 - [Signed Brown Satin-Glazed Studio Pottery Vase | Dickerson Collective](https://www.dickersoncollective.com/products/untitled-dec22_14-03): Signed studio pottery vase with a brown satin glaze emphasizing the natural clay surface and sculptural form.
-  Updated: 2026-10-12T15:09:24Z
+  Updated: 2026-10-30T01:04:17Z
   Vendor: Dickerson Collective
   Product Type: Studio Pottery
   Availability: Available
@@ -802,7 +802,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C5C042F5-D4AE-4412-A09D-F212800E4205.jpg?v=1785063494
   Price: $375.00 USD
 - [Vintage Extra-Tall Solid Wood Mannequin Head | Dickerson Collective](https://www.dickersoncollective.com/products/extra-tall-wood-mannequin-head-vintage): Vintage extra-tall mannequin head carved from solid wood with a simple sculptural display form.
-  Updated: 2026-10-12T15:09:26Z
+  Updated: 2026-10-30T00:27:43Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
@@ -921,7 +921,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/1DF0C188-B59E-4AC1-B11A-0F28695CC263.jpg?v=1784613528
   Price: $1,500.00 USD
 - [Dave Ramsey Hand-Thrown Cutout Studio Pottery Vase | DC](https://www.dickersoncollective.com/products/hand-thrown): Hand-thrown studio pottery vase attributed to Dave Ramsey with decorative cutouts across the vessel surface.
-  Updated: 2026-10-12T15:09:40Z
+  Updated: 2026-10-30T00:54:33Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
@@ -984,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/9F043A76-BE20-4807-A3B4-BB6440389BF4.jpg?v=1784613528
   Price: $850.00 USD
 - [Womenly Small Bust (Vintage)](https://www.dickersoncollective.com/products/womenly-small-bust-vintage): Exquisite head bust of a woman, meticulously crafted to capture elegance and grace. This small yet captivating piece stands atop a sleek wooden block base. Size: Height: 8 inches Width: 4: inches (base)
-  Updated: 2026-10-21T11:20:24Z
+  Updated: 2026-10-23T05:25:59Z
   Vendor: Bonita Interiors
   Product Type: Decor
   Availability: Available
@@ -998,7 +998,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/8F90F9C5-299B-484F-B988-1E47177B4C79.jpg?v=1708478156
   Price: $1,800.00 USD
 - [Vintage Gold Cast Iron Candlesticks – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/gold-sheened-heavy-cast-iron-candle-stick-pair-vintage): Pair of vintage heavy cast iron candlesticks with a gold finish and tall traditional profiles.
-  Updated: 2026-10-15T16:21:04Z
+  Updated: 2026-10-28T13:39:20Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
@@ -1026,7 +1026,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/72F4E4C3-ECB6-45BB-9138-650905A85425.jpg?v=1708733000
   Price: $125.00 USD
 - [Jozefina Krosno Murano-Style Glass Octopus Oil Lamp | DC](https://www.dickersoncollective.com/products/murano-style-art-glass-octopus-oil-lamp-by-jozefina-krosno-vintage): Murano-style art glass octopus oil lamp by Jozefina Krosno, made in Poland, with a sculptural clear-glass body.
-  Updated: 2026-10-12T15:09:53Z
+  Updated: 2026-10-30T00:28:42Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
@@ -1047,28 +1047,28 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/image_5f3c02f2-bfc6-4d67-bd0f-7393124bdbbc.jpg?v=1709171244
   Price: $135.00 USD
 - [Vintage Shell Encrusted Jewelry Box | Coastal Decorative… | DC](https://www.dickersoncollective.com/products/shel-jewelry): Vintage Shell Encrusted Jewelry Box | Coastal Decorative Keepsake Box. This vintage shell encrusted jewelry box is handcrafted with natural shells, creating…
-  Updated: 2026-10-12T15:11:24Z
+  Updated: 2026-10-30T00:45:10Z
   Vendor: Dickerson Collective
   Product Type: Jewelry Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/FullSizeRender_890b93cf-39c1-470a-91da-329757072f0f.jpg?v=1709176037
   Price: $325.00 USD
 - [Vintage Japanese Cream Glazed Stoneware Bowls (Pair) | Handmade…](https://www.dickersoncollective.com/products/cream-bowls-vintage): Vintage Japanese Cream Glazed Stoneware Bowls (Pair) | Handmade Pottery. Pair of vintage Japanese cream glazed stoneware bowls with handcrafted texture and an…
-  Updated: 2026-10-12T15:11:26Z
+  Updated: 2026-10-30T00:55:19Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/image_b3e93691-d5b6-4bc3-b299-792f8a1bda74.jpg?v=1709176656
   Price: $145.00 USD
 - [Cream Glazed Vintage Studio Pottery Bowl | Handmade Ceramic Bowl | DC](https://www.dickersoncollective.com/products/cream-glaze-bowl): Cream Glazed Vintage Studio Pottery Bowl | Handmade Ceramic Bowl. A vintage studio pottery bowl, resplendent in its creamy glaze, bearing the distinguished…
-  Updated: 2026-10-12T15:11:26Z
+  Updated: 2026-10-30T00:56:23Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/image_fef3c815-ee5a-4228-8af3-67b8e4d5303f.jpg?v=1780624268
   Price: $95.00 USD
 - [Purple Liliac Modernism Vessel | Dickerson Collective](https://www.dickersoncollective.com/products/purple-vessel): Purple Liliac Modernism Vessel. A majestic embodiment of modernism, this large tripod vessel flaunts a regal hue of purple lilac, harmonizing with its sleek…
-  Updated: 2026-10-12T15:11:27Z
+  Updated: 2026-10-29T23:07:42Z
   Vendor: Dickerson Collective
   Product Type: Vessels
   Availability: Available
@@ -1124,7 +1124,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/D3AE8D90-6098-4392-86EF-ED0595006936.jpg?v=1713062892
   Price: $350.00 USD
 - [Vintage Handmade Terracotta Reclining Figurine | Dickerson Collective](https://www.dickersoncollective.com/products/terracotta-clay-laying-figurine-vintage): Vintage handmade terracotta clay figurine in a reclining pose with visible hand-worked detail.
-  Updated: 2026-10-12T15:11:34Z
+  Updated: 2026-10-30T01:00:28Z
   Vendor: Dickerson Collective
   Product Type: Sculptures & Statues
   Availability: Available
@@ -1145,28 +1145,28 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/CB82732C-D48A-4163-8787-34187F384C97.jpg?v=1784563409
   Price: $400.00 USD
 - [Carlos Villanueva Mexican Pottery Incense Burner | DC](https://www.dickersoncollective.com/products/carlos-villanueva-mexican-pottery-incense-burner-folk-art-candle): Handcrafted Mexican pottery incense burner by Carlos Villanueva with a celestial sun-egg form and rich blue glaze.
-  Updated: 2026-10-12T15:11:37Z
+  Updated: 2026-10-28T13:37:50Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/51765C4C-CCEB-4658-895D-AC394DC6B0EA.jpg?v=1755399025
   Price: $75.00 USD
 - [Jorge Wilmot Tonalá Sun & Moon Pottery Vase | Dickerson Collective](https://www.dickersoncollective.com/products/untitled-aug16_20-13): Signed vintage Jorge Wilmot Tonalá stoneware vase with double-sided sun and moon celestial design.
-  Updated: 2026-10-12T15:11:37Z
+  Updated: 2026-10-28T13:37:56Z
   Vendor: Dickerson Collective
   Product Type: Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0ADE2E05-68D7-4CF9-96D1-4AFAFB4EBC77.jpg?v=1755401055
   Price: $125.00 USD
 - [Handmade Marbled Ceramic Sculptural Vase](https://www.dickersoncollective.com/products/untitled-aug16_21-22): Handmade abstract ceramic vase with an asymmetrical form and marbled terracotta, brown, and cream glaze.
-  Updated: 2026-10-15T16:21:17Z
+  Updated: 2026-10-28T13:40:39Z
   Vendor: Dickerson Collective
   Product Type: Studio Pottery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/82402D83-B7E4-4E23-A85B-335D91DD71A6.jpg?v=1755405149
   Price: $250.00 USD
 - [Vintage Abalone & Brass Candlestick Holders – Pair | DC](https://www.dickersoncollective.com/products/pair-of-abalone-brass-candlestick-holders-vintage): Pair of vintage candlestick holders with abalone shell inlay and warm brass detailing.
-  Updated: 2026-10-12T15:11:40Z
+  Updated: 2026-10-28T13:37:36Z
   Vendor: Dickerson Collective
   Product Type: Candlesticks
   Availability: Available
@@ -1187,14 +1187,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/8C3035DD-1904-4DC6-8F4C-32FAC61069D3.jpg?v=1773948715
   Price: $800.00 USD
 - [Vintage Coach Companion Flap Crossbody #0056-088 | DC](https://www.dickersoncollective.com/products/coach-companion-flap-crossbody-bag-black-tan-two-tone-leather-made-in-usa-no-0056-088): Vintage Coach Companion crossbody #0056-088 in black glove-tanned leather with British tan trim and aged brass hardware.
-  Updated: 2026-10-12T15:11:44Z
+  Updated: 2026-10-28T13:38:17Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/DSCF0790_shopify.jpg?v=1773947767
   Price: $300.00 USD
 - [Vintage Coach City Bag – Black Leather](https://www.dickersoncollective.com/products/coach-city-bag-black-glove-tanned-leather-turnlock-flap-made-in-new-york-city-vintage): Vintage Coach City Bag made in New York City in black glove-tanned leather with brass turnlock and adjustable strap.
-  Updated: 2026-10-12T15:11:45Z
+  Updated: 2026-10-28T13:40:11Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
@@ -1208,7 +1208,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A8686D07-98EE-439F-A347-8269C5054962.jpg?v=1773947540
   Price: $500.00 USD
 - [Vintage Coach Hamptons Hobo – Khaki Signature Jacquard | DC](https://www.dickersoncollective.com/products/coach-hamptons-hobo-bag-khaki-signature-jacquard-camel-leather-y2k-vintage): Vintage Coach Hamptons Hobo in khaki Signature C jacquard with camel leather trim and silver-tone hardware.
-  Updated: 2026-10-12T15:11:48Z
+  Updated: 2026-10-28T13:38:17Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
@@ -1222,7 +1222,7 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/300616AC-3F70-4826-A4A6-BFC0AA08403B.png?v=1783521727
   Price: $800.00 USD
 - [Vintage Michael Green Brown Leather Crossbody Bag](https://www.dickersoncollective.com/products/michael-green-brown-leather-flap-crossbody-bag-1980s-brass-hardware-vintage): Vintage Michael Green cognac leather crossbody with fold-over flap, brass hardware, adjustable strap, and suede lining.
-  Updated: 2026-10-12T15:11:47Z
+  Updated: 2026-10-28T13:39:14Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
@@ -1271,14 +1271,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A7316E5C-97DD-407F-9F8B-FFB358C60F93.jpg?v=1773945864
   Price: $150.00 USD
 - [Vintage Black Croc-Embossed Frame Handbag – 1950s–60s](https://www.dickersoncollective.com/products/1950s-1960s-black-croc-embossed-leather-frame-bag-gold-frame-clasp-top-handle-vintage): Vintage black croc-embossed frame handbag with gold-tone metal frame, push-button clasp, and single top handle.
-  Updated: 2026-10-12T15:11:54Z
+  Updated: 2026-10-28T13:37:47Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/DSCF0706_shopify.jpg?v=1773939812
   Price: $275.00 USD
 - [Vintage Dark Brown Croc-Embossed Leather Frame Handbag | DC](https://www.dickersoncollective.com/products/dark-brown-crocodile-embossed-leather-frame-handbag-silver-kiss-lock-clasp-1960s-70s-top-handle-bag-vintage): Vintage dark brown croc-embossed leather frame bag with silver kiss-lock clasp, top handle, and aged patina.
-  Updated: 2026-10-12T15:11:53Z
+  Updated: 2026-10-28T13:38:10Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
@@ -1292,189 +1292,189 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/FA75EF4A-13F3-4C24-8ED5-028A0B896F04.jpg?v=1773945608
   Price: $325.00 USD
 - [Vintage Structured Top-Handle Frame Handbag – Gold Hardware | DC](https://www.dickersoncollective.com/products/black-pebbled-leather-dome-satchel-structured-top-handle-doctor-bag-gold-hardware-minimal-handbag-vintage-1980s-90s): Vintage structured top-handle frame handbag with minimal lines and gold-tone frame hardware.
-  Updated: 2026-10-12T15:11:55Z
+  Updated: 2026-10-28T13:38:05Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/9BDAF8EE-1700-47CE-A9B7-381DC62D7CC3.jpg?v=1773950941
   Price: $125.00 USD
 - [Vintage Croc-Embossed Leather Frame Handbag](https://www.dickersoncollective.com/products/black-brown-crocodile-embossed-leather-frame-handbag-gold-kiss-lock-clasp-cristina-italy-top-handle-bag-vintage-1970s-80s): Vintage croc-embossed leather frame handbag with structured rectangular silhouette, gold-tone hardware, and top handle.
-  Updated: 2026-10-12T15:11:59Z
+  Updated: 2026-10-28T13:38:52Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/5796BB85-7422-4BE6-9005-0030D0E48B84.jpg?v=1773970441
   Price: $225.00 USD
 - [Vintage Coach Cream Pebbled Leather Shoulder Bag](https://www.dickersoncollective.com/products/cream-pebbled-leather-coach-shoulder-bag-gold-hardware-pleated-front-satchel-soft-slouch-designer-handbag-y2k-vintage): Vintage Coach cream pebbled leather shoulder bag with pleated front, gold-tone hardware, and double straps.
-  Updated: 2026-10-12T15:12:00Z
+  Updated: 2026-10-28T13:37:59Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/6F71ECC0-F459-493E-A64F-ABC4D06207AA.jpg?v=1773973101
   Price: $165.00 USD
 - [Kurt Geiger Pink Suede Rhinestone Mule Heels](https://www.dickersoncollective.com/products/kurt-geiger-london-pink-suede-mule-heels-rhinestone-strap-pointed-toe-pumps-y2k-statement-heels): Pink suede Kurt Geiger London mule heels with pointed toes and multicolor rhinestone strap.
-  Updated: 2026-10-12T15:11:59Z
+  Updated: 2026-10-28T13:38:36Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/82BB5F48-6DCD-4AFB-8679-4F9CDC7F884C.jpg?v=1773973622
   Price: $150.00 USD
 - [Vintage Coach Red Leather Mini Backpack | Dickerson Collective](https://www.dickersoncollective.com/products/coach-red-leather-mini-backpack-gold-turn-lock-closure-minimal-structured-vintage): Vintage Coach mini backpack in red leather with a structured silhouette, gold turnlock, and adjustable straps.
-  Updated: 2026-10-12T15:12:00Z
+  Updated: 2026-10-28T13:39:52Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/74B6F4C4-5551-4F1B-B5B1-6D202CC8C9D3.jpg?v=1773975724
   Price: $800.00 USD
 - [Y2K Mary Jane Platform Block Heel Sandals | Dickerson Collective](https://www.dickersoncollective.com/products/untitled-mar19_19-38): Y2K Mary Jane sandals with pleather construction, chunky platform, block heel, and classic strap silhouette.
-  Updated: 2026-10-12T15:12:01Z
+  Updated: 2026-10-28T13:37:59Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/1C6B0E9C-18A5-45AB-89B0-106A76BDC9A8.jpg?v=1773975808
   Price: $35.00 USD
 - [Christian Louboutin Burgundy Patent Peep-Toe Heels | DC](https://www.dickersoncollective.com/products/untitled-mar19_19-46): Christian Louboutin burgundy patent peep-toe heels with signature red sole and sculptural gold-tone heel detail.
-  Updated: 2026-10-12T15:12:01Z
+  Updated: 2026-10-28T13:40:21Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/9AB5BE00-2BAE-403B-81CB-CB768CC93E36.jpg?v=1773975590
   Price: $500.00 USD
 - [Christian Louboutin Purple Suede Peep-Toe Heels | Dickerson Collective](https://www.dickersoncollective.com/products/purple-suede-peep-toe-heels-classic-red-sole-pumps-y2k-minimal-evening-shoes-vintage): Christian Louboutin purple suede peep-toe heels with signature red sole and streamlined pump silhouette.
-  Updated: 2026-10-12T15:12:02Z
+  Updated: 2026-10-28T13:39:27Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/21D1C378-D15A-46AA-9334-5F4E883396AF.jpg?v=1773975630
   Price: $500.00 USD
 - [Tilly B Nude Patent Leather Pointed-Toe Wedge Heels | DC](https://www.dickersoncollective.com/products/nude-patent-leather-wedge-heels-pointed-toe-slip-on-pumps-minimal-everyday-neutral-shoes): Tilly B nude patent leather wedge heels with pointed toe and clean slip-on silhouette.
-  Updated: 2026-10-12T15:12:03Z
+  Updated: 2026-10-28T13:39:37Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/FEB5111A-D2C0-4033-9C8F-4BB7C2D3B1C7.jpg?v=1773975168
   Price: $45.00 USD
 - [Tinea Prolo Purple Suede Block Heel Loafers | Dickerson Collective](https://www.dickersoncollective.com/products/tinea-prolo-purple-suede-block-heel-loafers-structured-square-toe-pumps-minimal-statement-heels): Tinea Prolo purple suede loafer heels with structured square toe and bold block heel.
-  Updated: 2026-10-12T15:12:04Z
+  Updated: 2026-10-28T13:39:11Z
   Vendor: Dickerson Collective
   Product Type: Shoes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/9DEF18BE-E38A-464B-B51A-2C695B3EA822.jpg?v=1773976884
   Price: $95.00 USD
 - [Vintage Black & Tan Two-Tone Leather Crossbody Bag | DC](https://www.dickersoncollective.com/products/two-tone-leather-crossbody-bag-black-tan-turn-lock-purse-minimal-shoulder-bag-vintage): Vintage black-and-tan leather crossbody with structured flap, turnlock closure, and slim shoulder strap.
-  Updated: 2026-10-12T15:12:05Z
+  Updated: 2026-10-28T13:38:38Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C1611B51-BC01-4118-89B5-B9E075196D7D.jpg?v=1773978367
   Price: $325.00 USD
 - [Vintage Coach Yellow Leather Pleated Satchel | Dickerson Collective](https://www.dickersoncollective.com/products/coach-yellow-leather-satchel-gold-hardware-pleated-shoulder-bag-soft-slouch-vintage-handbag): Vintage Coach yellow leather satchel with pleated front, gold-tone hardware, and double shoulder straps.
-  Updated: 2026-10-12T15:12:06Z
+  Updated: 2026-10-28T13:38:21Z
   Vendor: Dickerson Collective
   Product Type: HANDBAGS
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0D084655-0AC2-4799-9258-A26F8EBED7F8.jpg?v=1773978554
   Price: $175.00 USD
 - [Vintage Cloisonné Green Dragon Trinket Box | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-cloisonne-trinket-box-hand-painted-with-floral-bird-design): Vintage cloisonné enamel trinket box with a traditional green dragon motif and gold-tone detailing.
-  Updated: 2026-10-12T15:12:09Z
+  Updated: 2026-10-28T13:39:57Z
   Vendor: Dickerson Collective
   Product Type: Jewelry Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/35FC999A-E185-4462-A5C3-F70FCC49C99A.jpg?v=1780971588
   Price: $45.00 USD
 - [Vintage Chinese Cloisonné Floral Trinket Dish | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-cloisonne-floral-trinket-dish): Vintage Chinese cloisonné enamel trinket dish with floral motif, black ground, turquoise border, and brass rim.
-  Updated: 2026-10-15T16:21:19Z
+  Updated: 2026-10-28T13:37:56Z
   Vendor: Dickerson Collective
   Product Type: Jewelry Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/BEA67F5F-E9D1-4ECC-9AA0-C31A5B19CA77.jpg?v=1780971787
   Price: $25.00 USD
 - [Vintage Miniature Chinese Cloisonné Cigarette Jar | DC](https://www.dickersoncollective.com/products/vintage-minutare-cloisonne-cigarette-jar-holder-with-floral-design): Vintage miniature Chinese cloisonné cigarette jar with floral enamel decoration, brass trim, and black ground.
-  Updated: 2026-10-12T15:12:10Z
+  Updated: 2026-10-28T13:38:03Z
   Vendor: Dickerson Collective
   Product Type: Ashtrays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/5C922901-A776-4653-ABF5-8CCE34D081FD.jpg?v=1780972307
   Price: $40.00 USD
 - [Vintage Turquoise Chinese Cloisonné Cigarette Jar | DC](https://www.dickersoncollective.com/products/vintage-minutare-cloisonne-cigarette-jar-holder-with-floral-design-1): Vintage Chinese cloisonné cigarette jar with turquoise ground, floral medallion, and scrolling cloud motifs.
-  Updated: 2026-10-12T15:12:12Z
+  Updated: 2026-10-28T13:38:45Z
   Vendor: Dickerson Collective
   Product Type: Jars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/51C2BF9C-3F1F-42AD-9FBD-C6B08523F97A.jpg?v=1780972487
   Price: $40.00 USD
 - [Vintage Chinese Cloisonné Black Floral Vase | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-black-floral-vase): Vintage Chinese cloisonné enamel vase with floral and landscape motifs on a black ground with brass trim.
-  Updated: 2026-10-12T15:12:12Z
+  Updated: 2026-10-28T13:38:23Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A1FD3B74-AB3D-42F0-981A-20186CA12E6A.jpg?v=1780972691
   Price: $125.00 USD
 - [Vintage Japanese Tokoname Textured Art Pottery Vase | DC](https://www.dickersoncollective.com/products/vintage-japanese-tokanabe-textured-art-pottery-vase): Vintage Japanese Tokoname-style pottery vase with textured black-and-red finish and raised geometric motifs.
-  Updated: 2026-10-12T15:12:13Z
+  Updated: 2026-10-28T13:39:29Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/25036236-05DB-4A0F-BC72-8A049AE01A14.jpg?v=1781013967
   Price: $145.00 USD
 - [Vintage Chinese Cloisonné Chrysanthemum Bowl | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-chrysanthemum-bowl): Vintage Chinese cloisonné bowl with chrysanthemum blossoms, cobalt blue enamel ground, and brass rim.
-  Updated: 2026-10-12T15:12:14Z
+  Updated: 2026-10-28T13:38:27Z
   Vendor: Dickerson Collective
   Product Type: Bowls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/E3D5C9D6-6011-4C9B-8AF4-BD4AD8AD7A88.jpg?v=1780973417
   Price: $150.00 USD
 - [Vintage Chinese Cloisonné Ashtray & Incense Burner | DC](https://www.dickersoncollective.com/products/vintage-chinese-minutare-cloisonne-ashtray-incense-burner): Vintage Chinese cloisonné ashtray or incense burner with floral enamel, black ground, brass accents, and removable insert.
-  Updated: 2026-10-12T15:12:16Z
+  Updated: 2026-10-28T13:38:29Z
   Vendor: Dickerson Collective
   Product Type: Ashtrays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A42892D7-3296-4B1A-B275-A3DC76DC0F82.jpg?v=1780973649
   Price: $85.00 USD
 - [Art Deco Mappin & Webb Travel Clock – Kienzle Movement | DC](https://www.dickersoncollective.com/products/art-deco-mappin-webb-travel-clock-kienzle-movement): Vintage Art Deco Mappin & Webb travel clock with red-and-gilt chinoiserie design and original Kienzle movement.
-  Updated: 2026-10-12T15:12:17Z
+  Updated: 2026-10-28T13:39:29Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/AC56F776-E84E-429A-AA5F-765286454DEA.jpg?v=1780973854
   Price: $325.00 USD
 - [Vintage Chinese Red Cloisonné Floral Vase | Dickerson Collective](https://www.dickersoncollective.com/products/untitled-jun9_07-19-26): Vintage Chinese cloisonné vase with red enamel ground, floral vine motifs, and brass trim.
-  Updated: 2026-10-15T16:21:19Z
+  Updated: 2026-10-28T13:40:15Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0EDC6DB7-2C3D-468F-B24C-E183840B4723.jpg?v=1781014782
   Price: $75.00 USD
 - [Vintage Cloisonné Floral Vases – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/pair-of-vintage-cloisonne-floral-vases): Pair of vintage cloisonné enamel vases with floral decoration in amber, rust, black, and gold tones.
-  Updated: 2026-10-12T15:12:21Z
+  Updated: 2026-10-28T13:38:55Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/EB21F6B3-BFC7-4C83-BCD7-6205777D277F.jpg?v=1781015388
   Price: $500.00 USD
 - [Vintage Chinese Cloisonné Covered Ginger Jar | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-covered-ginger-jar): Vintage Chinese cloisonné ginger jar with gold scrollwork, floral motifs, domed lid, brass trim, and blue enamel interior.
-  Updated: 2026-10-12T15:12:21Z
+  Updated: 2026-10-28T13:40:59Z
   Vendor: Dickerson Collective
   Product Type: Ginger Jars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/5F7AA903-CC64-4E5D-B138-3DAA06C555E4.jpg?v=1781015689
   Price: $275.00 USD
 - [Vintage Cloisonné Chinoiserie Ginger Jar | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-cloisonne-chinoiserie-ginger-jar): Vintage cloisonné ginger jar with stylized floral motifs in silver, copper, bronze, and warm metallic tones.
-  Updated: 2026-10-12T15:12:20Z
+  Updated: 2026-10-28T13:40:06Z
   Vendor: Dickerson Collective
   Product Type: Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C4FB930F-D857-424E-9844-E2C1859F18E2.jpg?v=1781023865
   Price: $200.00 USD
 - [Vintage Teal Green Brass & Enamel Vases – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/untitled-jun9_11-22-05): Pair of vintage teal-green brass and enamel vases with raised Baroque-style scrollwork and flared rims.
-  Updated: 2026-10-15T16:21:21Z
+  Updated: 2026-10-28T13:38:10Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0BAFA459-48C9-4929-B7DD-6FE40F9CB9FD.jpg?v=1781033523
   Price: $125.00 USD
 - [Vintage Japanese Brass Enamel Bird & Bamboo Vase | DC](https://www.dickersoncollective.com/products/vintage-japanese-hand-painted-brass-enamel-bird-bamboo-vase): Vintage Japanese brass vase with bronze-gold ground and raised-enamel bird and bamboo motifs.
-  Updated: 2026-10-12T15:12:22Z
+  Updated: 2026-10-28T13:38:49Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
@@ -1488,98 +1488,98 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/50578D3E-EB8F-461B-A3C9-B51D9E29E38C.jpg?v=1781033907
   Price: $50.00 USD
 - [Vintage Emerald Green Chinese Cloisonné Vases – Pair | DC](https://www.dickersoncollective.com/products/pair-of-vintage-chinese-cloisonne-floral-vase-emerald-green-enamel): Pair of vintage Chinese cloisonné vases with emerald green enamel, colorful floral motifs, and brass wirework.
-  Updated: 2026-10-12T15:12:23Z
+  Updated: 2026-10-28T13:38:06Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C1A856C9-3B72-4EFB-BCC7-5BD963574179.jpg?v=1781034058
   Price: $150.00 USD
 - [Vintage Japanese Lidded Porcelain Tea Cup – Bird & Blossoms | DC](https://www.dickersoncollective.com/products/vintage-japanese-lidded-porcelain-tea-cup-with-bird-blossoms): Vintage Japanese lidded porcelain tea cup with hand-painted birds and flowering branches.
-  Updated: 2026-10-12T15:12:24Z
+  Updated: 2026-10-28T13:38:14Z
   Vendor: Dickerson Collective
   Product Type: Cups
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/5F2BBBE0-646E-44EB-BB87-3A1397941822.jpg?v=1781034416
   Price: $35.00 USD
 - [Vintage Chinese White Cloisonné Chrysanthemum Vase | DC](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-chrysanthemum-vase-white-enamel-ground): Vintage Chinese cloisonné vase with white enamel, lavender chrysanthemums, yellow blossoms, butterfly, and brass wirework.
-  Updated: 2026-10-12T15:12:26Z
+  Updated: 2026-10-28T13:38:29Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/53A75662-09AC-409F-9986-58C306A93450.jpg?v=1781034556
   Price: $85.00 USD
 - [Vintage Green Brass Overlay Floral Vases – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-pair-of-green-brass-overlay-floral-vases): Pair of vintage green enamel brass vases with raised floral motifs and compact rounded forms.
-  Updated: 2026-10-12T15:12:27Z
+  Updated: 2026-10-28T13:38:30Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/8FF2747D-FE13-4533-B8D6-B658E2F25049.jpg?v=1781034684
   Price: $225.00 USD
 - [Vintage Chinese White Cloisonné Peony Vase | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-peony-vase-white-enamel-ground): Vintage Chinese cloisonné vase with white enamel, pink peonies, green foliage, cloud-pattern detail, and brass wirework.
-  Updated: 2026-10-12T15:12:28Z
+  Updated: 2026-10-28T13:40:07Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/9A67A924-58BD-4264-8E2B-C9FF8B66F4DB.jpg?v=1781035080
   Price: $55.00 USD
 - [Vintage Chinese Black Cloisonné Butterfly & Blossom Vase | DC](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-butterfly-blossom-vase-black-enamel-ground): Vintage Chinese cloisonné vase with black enamel, butterflies, pink blossoms, green foliage, and brass wirework.
-  Updated: 2026-10-12T15:12:29Z
+  Updated: 2026-10-28T13:38:21Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0AAC1D06-84D9-41B3-93F1-B2802621BF32.jpg?v=1781035485
   Price: $125.00 USD
 - [Vintage Chinese Yellow Cloisonné Covered Trinket Box | DC](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-covered-trinket-box-yellow-enamel-ground): Vintage Chinese cloisonné covered box with yellow enamel ground, floral decoration, and fine brass wirework.
-  Updated: 2026-10-12T15:12:30Z
+  Updated: 2026-10-28T13:38:52Z
   Vendor: Dickerson Collective
   Product Type: Jewelry Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/91004B67-1E89-460E-AFC6-1FA22D0D4418.jpg?v=1781035612
   Price: $125.00 USD
 - [Vintage Chinese Green Cloisonné Floral Trinket Box | DC](https://www.dickersoncollective.com/products/vintage-chinese-green-cloisonne-trinket-box): Vintage Chinese cloisonné trinket box with emerald green enamel, all-over floral pattern, and brass wirework.
-  Updated: 2026-10-12T15:12:32Z
+  Updated: 2026-10-28T13:40:40Z
   Vendor: Dickerson Collective
   Product Type: Jewelry Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/D64D0B05-119D-4848-BE6D-F99CBBD4AC17.jpg?v=1781037104
   Price: $45.00 USD
 - [Vintage Chinese Cloisonné Lidded Ginger Jars – Pair | DC](https://www.dickersoncollective.com/products/vintage-chinese-green-cloisonne-trinket-box-1): Pair of vintage Chinese cloisonné lidded ginger jars with colorful floral enamel decoration, brass wirework, and figural finials.
-  Updated: 2026-10-12T15:12:32Z
+  Updated: 2026-10-28T13:39:10Z
   Vendor: Dickerson Collective
   Product Type: Ginger Jars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/569B2A25-6336-4AFD-9FC0-6727DF9BA4DE.jpg?v=1781037254
   Price: $75.00 USD
 - [Vintage Chinese Cloisonné Vanity Set – Box & Bud Vase | DC](https://www.dickersoncollective.com/products/untitled-jun9_13-34-46): Vintage Chinese cloisonné vanity set with matching bud vase and trinket box in colorful floral and scrollwork enamel.
-  Updated: 2026-10-15T16:21:20Z
+  Updated: 2026-10-28T13:38:16Z
   Vendor: Dickerson Collective
   Product Type: Decorative Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/55629AA8-EFAC-4391-B4F1-2990E269B775.jpg?v=1781038379
   Price: $225.00 USD
 - [Vintage Chinese Cloisonné Mini Ginger Jars – Pair | DC](https://www.dickersoncollective.com/products/untitled-jun9_13-53-06): Pair of vintage Chinese cloisonné mini ginger jars with fitted lids, colorful floral motifs, and gilt brass detail.
-  Updated: 2026-10-15T16:21:22Z
+  Updated: 2026-10-28T13:39:00Z
   Vendor: Dickerson Collective
   Product Type: Ginger Jars
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/EA372C3B-DCCC-4FAF-A4A0-52CB75FBC2EC.jpg?v=1781055466
   Price: $95.00 USD
 - [Vintage Chinese Black Cloisonné Chrysanthemum Vase | DC](https://www.dickersoncollective.com/products/vintage-chinese-black-cloisonne-chrysanthemum-vase): Vintage Chinese cloisonné vase with black enamel, ivory chrysanthemum, green foliage, and brass wirework.
-  Updated: 2026-10-12T15:12:34Z
+  Updated: 2026-10-28T13:38:17Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A036C794-7F37-4719-81C7-39E81846155C.jpg?v=1781055711
   Price: $75.00 USD
 - [Vintage Chinese Cloisonné Blossom Vases – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-blossom-vase-pair): Pair of vintage Chinese cloisonné vases with pastel blossoms, black cloud-pattern enamel, cobalt accents, and brass rims.
-  Updated: 2026-10-12T15:12:34Z
+  Updated: 2026-10-28T13:41:00Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/32D09D5F-096F-4163-B69A-9902162C8A5A.jpg?v=1781055963
   Price: $150.00 USD
 - [Vintage Chinese Cloisonné Double-Handle Vase | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-double-handle-vase): Vintage Chinese cloisonné vase with cherry blossoms, cobalt panels, gilt motifs, and brass elephant-head ring handles.
-  Updated: 2026-10-12T15:12:37Z
+  Updated: 2026-10-28T13:39:30Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
@@ -1593,14 +1593,14 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/IMG-6043.jpg?v=1782103016
   Price: $150.00 USD
 - [Vintage Chinese Cloisonné Cherry Blossom Brush Holder | DC](https://www.dickersoncollective.com/products/vintage-chinese-cloisonne-brush-holder-cherry-blossom-motif): Vintage Chinese cloisonné brush holder with black enamel, cherry blossoms, cobalt blue interior, and brass rims.
-  Updated: 2026-10-12T15:12:39Z
+  Updated: 2026-10-28T13:39:02Z
   Vendor: Dickerson Collective
   Product Type: Cups
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/0A34E32C-0AD2-4627-88C5-4554CF57DA79.jpg?v=1781056917
   Price: $85.00 USD
 - [Vintage Chinese Phoenix Porcelain Cachepot Planter | DC](https://www.dickersoncollective.com/products/vintage-chinese-phoenix-cachepot-jardiniere): Vintage Chinese porcelain cachepot with black ground, gilt phoenix birds, floral medallions, and cobalt blue borders.
-  Updated: 2026-10-12T15:12:41Z
+  Updated: 2026-10-28T13:39:50Z
   Vendor: Dickerson Collective
   Product Type: Planters
   Availability: Available
@@ -1614,77 +1614,77 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/89DE6601-9AB1-486C-B731-B77D397B64B7.jpg?v=1781058570
   Price: $95.00 USD
 - [Vintage Avon Bristol Blue Imperial Garden Cologne Decanter | DC](https://www.dickersoncollective.com/products/avon-bristol-blue-imperial-garden-cologne-decanter): Vintage Avon Imperial Garden cologne decanter in turquoise Bristol blue glass with molded detail, stopper, and gilt ring.
-  Updated: 2026-10-04T03:14:43Z
+  Updated: 2026-10-28T13:40:14Z
   Vendor: Dickerson Collective
   Product Type: Decorative Bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/E4871B5F-0B9A-4411-AE35-2F24106BA56A.jpg?v=1781143557
   Price: $38.00 USD
 - [Vintage Chinese Floral Porcelain Ginger Jars – Pair | DC](https://www.dickersoncollective.com/products/vintage-chinese-floral-ginger-jars-pair): Pair of vintage Chinese porcelain ginger jars with black grounds, colorful floral enamel decoration, and matching domed lids.
-  Updated: 2026-10-15T16:21:23Z
+  Updated: 2026-10-28T13:40:14Z
   Vendor: Dickerson Collective
   Product Type: Ginger Jar Pair
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/B02B050F-0E6D-44D5-B865-6A6B405C92DD.jpg?v=1781143612
   Price: $125.00 USD
 - [Vintage Red Crane Porcelain Covered Box | Dickerson Collective](https://www.dickersoncollective.com/products/red-crane-porcelain-covered-box): Vintage red porcelain covered box with crane and floral motif, gilt accents, and lidded form for jewelry or display.
-  Updated: 2026-10-04T03:14:45Z
+  Updated: 2026-10-28T13:39:00Z
   Vendor: Dickerson Collective
   Product Type: Decorative Boxes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C0CBCC1C-0A0E-4052-BEF6-8EE0DE02CE89.jpg?v=1781144706
   Price: $68.00 USD
 - [Vintage Blue & White Chinoiserie Tulipiere Vase | Dickerson Collective](https://www.dickersoncollective.com/products/blue-white-tulipiere-vase): Vintage blue-and-white tulipiere-style vase with stacked flower openings and chinoiserie floral decoration.
-  Updated: 2026-10-04T03:14:44Z
+  Updated: 2026-10-28T13:38:44Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/A1988CF4-DD41-445A-BE96-973D3CC5FA93.jpg?v=1781144734
   Price: $125.00 USD
 - [Vintage Satsuma-Style Floral Vase | Dickerson Collective](https://www.dickersoncollective.com/products/satsuma-style-floral-vase): Vintage Satsuma-style vase with detailed floral decoration, warm ivory ground, and decorative gilt accents.
-  Updated: 2026-10-04T03:14:45Z
+  Updated: 2026-10-28T13:39:58Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/C09A65A3-E0C5-47CD-97FA-EC34B1E92E99.jpg?v=1781144842
   Price: $95.00 USD
 - [Vintage Japanese Kutani-Style Cylinder Vase | Dickerson Collective](https://www.dickersoncollective.com/products/japanese-kutani-style-cylinder-vase): Vintage Japanese Kutani-style cylinder vase with colorful figural, landscape, floral, and gilt decoration.
-  Updated: 2026-10-04T03:14:46Z
+  Updated: 2026-10-28T13:39:10Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/2D378516-98E0-4986-B211-E90C96E13BAF.jpg?v=1781145032
   Price: $65.00 USD
 - [Vintage Red Cloisonné Rose Vase | Dickerson Collective](https://www.dickersoncollective.com/products/red-cloisonn-rose-vase): Vintage cloisonné vase with pink roses on a rich red enamel ground and fine brass wirework.
-  Updated: 2026-10-04T03:14:47Z
+  Updated: 2026-10-28T13:38:30Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/EA70FA65-A498-46AE-B80B-353EDD13C1FB.jpg?v=1781145085
   Price: $95.00 USD
 - [Vintage Emerald Green Glass Vases – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/pair-of-emerald-green-glass-vases): Pair of vintage emerald green glass vases with simple silhouettes and rich jewel-tone color.
-  Updated: 2026-10-04T03:14:47Z
+  Updated: 2026-10-28T13:38:34Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/96B1BA20-C13E-4643-B514-0E61AF20B9BB.jpg?v=1781144999
   Price: $98.00 USD
 - [Vintage Carved Faux Ivory Scenic Vase | Dickerson Collective](https://www.dickersoncollective.com/products/intricately-carved-faux-ivory-scenic-vase): Vintage faux ivory vase with dimensional carved landscape, floral, and architectural scenic motifs.
-  Updated: 2026-10-04T03:14:48Z
+  Updated: 2026-10-28T13:38:55Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/B10943D1-42F9-47E8-83E6-CE045A5E1666.jpg?v=1781145124
   Price: $150.00 USD
 - [Vintage Blue & Gold Phoenix Porcelain Vase | Dickerson Collective](https://www.dickersoncollective.com/products/blue-gold-phoenix-porcelain-vase): Vintage blue-and-gold porcelain vase with phoenix and floral decoration and rich cobalt accents.
-  Updated: 2026-10-04T03:14:48Z
+  Updated: 2026-10-28T13:38:26Z
   Vendor: Dickerson Collective
   Product Type: Vases
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/2DCCEC3D-FB2C-4744-8FF7-3F506269B8AA.jpg?v=1781145195
   Price: $150.00 USD
 - [Vintage Chinese Floral Porcelain Planter | Dickerson Collective](https://www.dickersoncollective.com/products/chinese-floral-porcelain-planter): Vintage Chinese porcelain planter with colorful floral decoration and classic decorative borders.
-  Updated: 2026-10-04T03:14:49Z
+  Updated: 2026-10-28T13:41:12Z
   Vendor: Dickerson Collective
   Product Type: Planters
   Availability: Available
@@ -1743,7 +1743,7 @@
   Updated: 2026-10-14T19:41:38Z
   Total Products: 286
 - [Vases](https://www.dickersoncollective.com/collections/vases): Shop Vases at Dickerson Collective.
-  Updated: 2026-10-12T03:14:09Z
+  Updated: 2026-10-29T18:32:50Z
   Total Products: 305
 - [Vessels](https://www.dickersoncollective.com/collections/vessels): Shop Vessels at Dickerson Collective.
   Updated: 2026-10-12T03:14:07Z
@@ -1869,7 +1869,7 @@
   Updated: 2026-07-30T00:08:15Z
   Total Products: 0
 - [Brass](https://www.dickersoncollective.com/collections/brass): Shop Brass at Dickerson Collective.
-  Updated: 2026-10-15T11:09:28Z
+  Updated: 2026-10-29T18:32:50Z
   Total Products: 121
 - [Bronze](https://www.dickersoncollective.com/collections/bronze): Shop Bronze at Dickerson Collective.
   Updated: 2026-10-12T03:09:43Z
@@ -1959,13 +1959,13 @@
   Updated: 2026-07-30T00:07:40Z
   Total Products: 0
 - [Art](https://www.dickersoncollective.com/collections/art): Explore original paintings, mixed media, sculpture and artwork by Angela Dickerson at Dickerson Collective in Los Angeles. Shop online or visit by appointment.
-  Updated: 2026-10-21T20:56:28Z
+  Updated: 2026-10-28T01:00:24Z
   Total Products: 320
-- [Angela Dickerson](https://www.dickersoncollective.com/collections/angela-dickerson): Shop Angela Dickerson at Dickerson Collective.
-  Updated: 2026-10-21T20:56:28Z
+- [Angela Dickerson](https://www.dickersoncollective.com/collections/angela-dickerson): Discover original abstract and mixed-media artwork by Angela Dickerson. Featured in Presumed Innocent, Emily Henderson interiors, and Houzz.
+  Updated: 2026-10-27T18:48:28Z
   Total Products: 75
-- [Featured Artists](https://www.dickersoncollective.com/collections/featured-artists): Shop Featured Artists at Dickerson Collective.
-  Updated: 2026-10-21T20:56:28Z
+- [Featured Artists](https://www.dickersoncollective.com/collections/featured-artists): Featured Artist: Angela Dickerson Angela Dickerson is a Los Angeles-area abstract and mixed-media artist whose work explores expressive color and layered texture. Her earlier art and design business, Bonita Interiors, grew into Dickerson Collective. Her original paintings have appeared in Presumed Innocent and in published interiors by Emily Henderson and Houzz. Meet Angela Dickerson Shop Angela Dickerson Artwork Seen on Screen
+  Updated: 2026-10-27T19:17:54Z
   Total Products: 75
 - [Guest Artists](https://www.dickersoncollective.com/collections/guest-artists): Shop Guest Artists at Dickerson Collective.
   Updated: 2026-07-30T00:08:27Z
@@ -1974,10 +1974,10 @@
   Updated: 2026-07-30T00:08:14Z
   Total Products: 0
 - [Paintings](https://www.dickersoncollective.com/collections/paintings): Shop Paintings at Dickerson Collective.
-  Updated: 2026-10-21T20:56:28Z
+  Updated: 2026-10-28T01:00:24Z
   Total Products: 128
 - [Abstract Art](https://www.dickersoncollective.com/collections/abstract-art): Shop Abstract Art at Dickerson Collective.
-  Updated: 2026-10-21T20:56:28Z
+  Updated: 2026-10-28T01:00:24Z
   Total Products: 122
 - [Portraits](https://www.dickersoncollective.com/collections/portraits): Shop Portraits at Dickerson Collective.
   Updated: 2026-07-30T00:08:51Z
@@ -1995,7 +1995,7 @@
   Updated: 2026-07-30T00:09:13Z
   Total Products: 0
 - [Mixed Media](https://www.dickersoncollective.com/collections/mixed-media): Shop Mixed Media at Dickerson Collective.
-  Updated: 2026-10-12T03:15:00Z
+  Updated: 2026-10-28T01:00:24Z
   Total Products: 55
 - [Assemblage](https://www.dickersoncollective.com/collections/assemblage): Shop Assemblage at Dickerson Collective.
   Updated: 2026-07-30T00:07:40Z
@@ -2118,17 +2118,17 @@
   Updated: 2026-07-30T00:08:09Z
   Total Products: 0
 - [Under $100](https://www.dickersoncollective.com/collections/under-100): Shop one-of-a-kind vintage art, pottery, clothing and objects priced under $100 from Dickerson Collective.
-  Updated: 2026-10-15T02:44:17Z
+  Updated: 2026-10-29T18:33:26Z
   Total Products: 396
 - [Under $500](https://www.dickersoncollective.com/collections/under-500): Shop one-of-a-kind vintage art, pottery, fashion, furniture and objects priced under $500 from Dickerson Collective.
-  Updated: 2026-10-20T20:49:55Z
+  Updated: 2026-10-29T18:33:27Z
   Total Products: 1027
 - [Best  Products](https://www.dickersoncollective.com/collections/best--products)
-  Updated: 2026-10-21T20:56:28Z
-  Total Products: 1575
+  Updated: 2026-10-29T18:32:50Z
+  Total Products: 1576
 - [Newest Products](https://www.dickersoncollective.com/collections/newest-products)
-  Updated: 2026-10-21T20:56:28Z
-  Total Products: 1575
+  Updated: 2026-10-29T18:32:50Z
+  Total Products: 1576
 - [Accessories](https://www.dickersoncollective.com/collections/accessories): Shop Accessories at Dickerson Collective.
   Updated: 2026-10-12T03:15:40Z
   Total Products: 76
@@ -2187,7 +2187,7 @@
   Updated: 2026-07-30T00:08:43Z
   Total Products: 0
 - [Pottery & Objects](https://www.dickersoncollective.com/collections/pottery-and-objects): Shop Pottery & Objects at Dickerson Collective.
-  Updated: 2026-10-17T17:23:42Z
+  Updated: 2026-10-29T18:32:50Z
   Total Products: 569
 - [Production Rentals](https://www.dickersoncollective.com/collections/production-rentals)
   Updated: 2026-07-30T00:08:54Z
@@ -2449,14 +2449,14 @@
 
 - [Contact Dickerson Collective | Los Angeles Vintage Store](https://www.dickersoncollective.com/pages/contact-us): Have any questions? We'd love to hear from you.
   Updated: 2026-10-15T04:03:11Z
-- [About Dickerson Collective | Los Angeles Vintage & Art](https://www.dickersoncollective.com/pages/about): 
-  Updated: 2026-10-15T04:04:13Z
+- [About Dickerson Collective | Los Angeles Vintage & Art](https://www.dickersoncollective.com/pages/about): Meet the Family Behind Dickerson Collective We’re a family-run creative collective built around a shared love of art, vintage furniture, and object...
+  Updated: 2026-10-27T19:06:59Z
 - [FAQ/Store Policies](https://www.dickersoncollective.com/pages/faq): Please review our store policies before your visit.For available checkout shipping options and free Los Angeles pickup, see our Shipping & Delivery...
   Updated: 2026-10-12T03:45:35Z
 - [Trade & Reseller Memo Program](https://www.dickersoncollective.com/pages/trade-reseller-memo-program): Interested in our Trade & Reseller Memo Program? Email us to request an application. Request Trade Application
   Updated: 2026-10-02T23:12:02Z
-- [Spaces + Rentals](https://www.dickersoncollective.com/pages/spaces-rentals): Production Parking Lot Rental Dickerson Collective offers its approximately 9,000-square-foot paved parking lot in Frogtown / the Los Angeles River...
-  Updated: 2026-09-18T19:10:21Z
+- [Spaces + Rentals](https://www.dickersoncollective.com/pages/spaces-rentals): DICKERSON COLLECTIVE · LOS ANGELES Spaces + Rentals Two distinctive location rental options at 1918 Riverside Drive in Frogtown: our fully styled, ...
+  Updated: 2026-10-27T15:38:34Z
 - [Book Vintage Shopping in LA | Dickerson Collective](https://www.dickersoncollective.com/pages/book-appointment): Book a shopping visit to Dickerson Collective, our 11,000-square-foot Los Angeles space filled with vintage furniture, lighting, original art, clot...
   Updated: 2026-10-15T04:11:58Z
 - [Vintage Store in Los Angeles | Visit Dickerson Collective](https://www.dickersoncollective.com/pages/hours-location): Dickerson Collective is a family-run vintage store in Los Angeles, bringing together vintage furniture, lighting, original art, clothing, and desig...
@@ -2465,8 +2465,6 @@
   Updated: 2026-10-15T04:11:57Z
 - [Vintage Shopping Los Angeles | Dickerson Collective](https://www.dickersoncollective.com/pages/shopping-information): Discover vintage furniture, lighting, art, clothing, and objects for the soul at Dickerson Collective, a family-run Los Angeles vintage store at 19...
   Updated: 2026-10-15T04:11:59Z
-- [AVAILABLE RENTAL SPACES](https://www.dickersoncollective.com/pages/faq-policies)
-  Updated: 2026-06-24T15:11:20Z
 - [Returns & Refunds](https://www.dickersoncollective.com/pages/returns-refunds): Returns & RefundsContent coming soon.
   Updated: 2026-06-17T23:39:33Z
 - [Bag Check Policy](https://www.dickersoncollective.com/pages/bag-check-policy): Bag Check PolicyContent coming soon.
@@ -2487,22 +2485,10 @@
   Updated: 2026-06-17T23:39:36Z
 - [Trade FAQ](https://www.dickersoncollective.com/pages/trade-faq): Trade FAQContent coming soon.
   Updated: 2026-06-17T23:39:37Z
-- [Film & Production](https://www.dickersoncollective.com/pages/film-production): Film & ProductionContent coming soon.
-  Updated: 2026-06-17T23:39:37Z
-- [Photography Rentals](https://www.dickersoncollective.com/pages/photography-rentals): Photography RentalsContent coming soon.
-  Updated: 2026-06-17T23:39:37Z
-- [Event Rentals](https://www.dickersoncollective.com/pages/event-rentals): Event RentalsContent coming soon.
-  Updated: 2026-06-17T23:39:38Z
-- [Location Rentals](https://www.dickersoncollective.com/pages/location-rentals): Location RentalsContent coming soon.
-  Updated: 2026-06-17T23:39:38Z
-- [Prop Rentals](https://www.dickersoncollective.com/pages/prop-rentals): Prop RentalsContent coming soon.
-  Updated: 2026-06-17T23:39:39Z
-- [Rental Rates](https://www.dickersoncollective.com/pages/rental-rates): Rental RatesContent coming soon.
-  Updated: 2026-06-17T23:39:39Z
-- [Rental FAQ](https://www.dickersoncollective.com/pages/rental-faq): Rental FAQContent coming soon.
-  Updated: 2026-06-17T23:39:39Z
-- [Contact Rentals Team](https://www.dickersoncollective.com/pages/contact-rentals-team): Contact Rentals TeamContent coming soon.
-  Updated: 2026-06-17T23:39:40Z
+- [Showroom Location Rental | Film & TV](https://www.dickersoncollective.com/pages/location-rentals): Film & TV Location · Photography · Commercials · Music Videos Film in a Real Vintage Showroom Rent Dickerson Collective's approximately 11,000-squa...
+  Updated: 2026-10-27T15:25:02Z
+- [Rental Rates](https://www.dickersoncollective.com/pages/rental-rates): Rental Rates Dickerson Collective offers two independent rentals in Frogtown, Los Angeles. These rates are for location and lot use, not individual...
+  Updated: 2026-10-27T15:25:36Z
 - [Shop & Sip](https://www.dickersoncollective.com/pages/shop-sip): Shop & SipContent coming soon.
   Updated: 2026-06-17T23:39:40Z
 - [Artist Receptions](https://www.dickersoncollective.com/pages/artist-receptions): Artist ReceptionsContent coming soon.
@@ -2515,11 +2501,17 @@
   Updated: 2026-06-17T23:39:42Z
 - [Vintage Shopping Appointments | Dickerson Collective](https://www.dickersoncollective.com/pages/appointments): 
   Updated: 2026-10-15T04:03:11Z
+- [Parking Lot Rental | Production Parking](https://www.dickersoncollective.com/pages/parking-lot-rental): Production Parking · Base Camp · Vehicle Staging Private Parking Lot Rental in Frogtown, Los Angeles Dickerson Collective offers a separate approxi...
+  Updated: 2026-10-27T15:23:40Z
+- [Seen on Screen](https://www.dickersoncollective.com/pages/as-seen-on-screen): Formerly Bonita Interiors · Now Dickerson Collective · Los Angeles Seen on Screen Original artwork by Angela Dickerson has been featured in televis...
+  Updated: 2026-10-27T18:31:14Z
+- [Featured Artist | Angela Dickerson](https://www.dickersoncollective.com/pages/angela-dickerson-artist): Dickerson Collective · Featured Artist Angela Dickerson Meet the Artist Angela Dickerson is a Los Angeles-area abstract and mixed-media artist know...
+  Updated: 2026-10-27T19:19:58Z
 
 ## Policies
 
 - [Privacy Policy](https://www.dickersoncollective.com/policies/privacy-policy)
-  Updated: 2025-05-29T21:00:52Z
+  Updated: 2026-10-29T17:27:48Z
 - [Shipping Policy](https://www.dickersoncollective.com/policies/shipping-policy)
   Updated: 2023-01-25T22:27:07Z
 - [Refund Policy](https://www.dickersoncollective.com/policies/refund-policy)
