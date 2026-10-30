@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-08T19:06:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:49:21.756Z
+- Updated At: 2026-10-30T01:27:47.005Z
 
 ## Products
 
 - ["HERE" Hoodie](https://epikhigh.merchmadeeasy.com/products/epik-high-here-hoodie): 80% Cotton, 20% Polyester Generous fit Fleece lined hood
-  Updated: 2026-10-22T08:44:35Z
+  Updated: 2026-10-29T10:35:46Z
   Vendor: Epik High
   Product Type: Apparel
   Availability: Available
@@ -35,21 +35,21 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Unbreakable Tote Bag](https://epikhigh.merchmadeeasy.com/products/unbreakable-tote): It's really hard to crush usPeople have tried but we're pretty much unbreakable A sturdy and stylish solution for carrying belongings with black gusset and handles! Made with PET, a durable and recyclable type of polyester fabric, this bag is designed to last for years. The 100 GSM weight of the fabric makes it perfect for everyday use, and the gusseted sides provide extra space to fill essentials. Dimensions: 13″ W x 13″ H x 8″ D
-  Updated: 2026-10-22T18:54:57Z
+  Updated: 2026-10-30T00:18:56Z
   Vendor: Epik High
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPTote.png?v=1720803924
   Price: $5.00 USD
 - [ANTI Keyring](https://epikhigh.merchmadeeasy.com/products/antihero-keychain): I'm the hero you deserve, I'm the hero you needI’m an antiheroAll the heroes that you serve look like villains to meI'm their antihero Dimensions: 1" x 1.5"
-  Updated: 2026-10-19T23:28:48Z
+  Updated: 2026-10-29T03:22:45Z
   Vendor: Epik High
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPKeychain.png?v=1720803934
   Price: $5.00 USD
 - [PUMP Tracklist Hoodie](https://epikhigh.merchmadeeasy.com/products/pump-tracklist-hoodie): The PUMP Tour | North America 2024 This black hoodie is made of a 50/50 poly-cotton blend and features The PUMP Tour 2024 North American stops on the back. Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2
-  Updated: 2026-10-21T02:13:07Z
+  Updated: 2026-10-26T13:41:02Z
   Vendor: Epik High
   Product Type: Hoodie
   Availability: Available
@@ -76,22 +76,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/PUMPTempTats.png?v=1721759559
   Price: $2.00 USD
-- [3.0 Adjustable Logo Tour Hat Epik High](https://epikhigh.merchmadeeasy.com/products/3-0-logo-hat): Epik High 3.0 Tour 2026 Logo Dad Hat in forest green with embroidery on front and back. Due to high demand, this item is a pre-order that will ship late October. Adjustable closure on back.
-  Updated: 2026-10-22T15:33:06Z
+- [3.0 Adjustable Logo Tour Hat Epik High](https://epikhigh.merchmadeeasy.com/products/3-0-logo-hat): Epik High 3.0 Tour 2026 Logo Dad Hat in forest green with embroidery on front and back. Due to high demand, this item is a pre-order that will ship early November. Adjustable closure on back.
+  Updated: 2026-10-29T22:03:41Z
   Vendor: Epik High
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/EH3.0LOGOHAT.png?v=1789490075
   Price: $40.00 USD
 - [3.0 Cotton Tote Epik High Tour](https://epikhigh.merchmadeeasy.com/products/3-0-tote): 3.0 Tour Tote in natural with front and back print. 100% Cotton 10x10
-  Updated: 2026-10-21T23:10:20Z
+  Updated: 2026-10-27T23:03:58Z
   Vendor: Epik High
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/EH3.0TOTE.png?v=1789490292
   Price: $20.00 USD
 - [Anime Tee 3.0 Tour 100% Cotton Epik High](https://epikhigh.merchmadeeasy.com/products/anime-tee): Epik High 3.0 Tour Anime Tee in natural with front and back print. Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-22T02:24:02Z
+  Updated: 2026-10-28T22:31:46Z
   Vendor: Epik High
   Product Type: T-Shirt
   Availability: Available
@@ -112,7 +112,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Epikism Hoodie 3.0 Tour Epik High](https://epikhigh.merchmadeeasy.com/products/epikism-hoodie): 3.0 Tour Epikism Hoodie in dark green with front and back print.
-  Updated: 2026-10-22T21:59:06Z
+  Updated: 2026-10-30T00:18:51Z
   Vendor: Epik High
   Product Type: Hoodie
   Availability: Available
@@ -133,14 +133,14 @@
     Availability: Available
     Price: $65.00 USD
 - [Epikism Temporary Tattoos](https://epikhigh.merchmadeeasy.com/products/epikism-temporary-tattoos): 5x7 Temporary Tattoo Sheet
-  Updated: 2026-10-12T03:44:56Z
+  Updated: 2026-10-28T06:52:56Z
   Vendor: Epik High
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0045/6491/0154/files/EHTEMPTATS.png?v=1790087541
   Price: $10.00 USD
-- [Epikism Bandana](https://epikhigh.merchmadeeasy.com/products/epikism-bandana): 100% Cotton Green Bandana Due to high demand, this item is a pre-order that will ship late October. 22x22
-  Updated: 2026-10-22T11:13:07Z
+- [Epikism Bandana](https://epikhigh.merchmadeeasy.com/products/epikism-bandana): 100% Cotton Green Bandana Due to high demand, this item is a pre-order that will ship early November. 22x22
+  Updated: 2026-10-29T06:56:32Z
   Vendor: Epik High
   Product Type: Accessories
   Availability: Available
@@ -150,16 +150,16 @@
 ## Collections
 
 - [Home page](https://epikhigh.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 22
 - [Featured](https://epikhigh.merchmadeeasy.com/collections/featured)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 15
 - [HERE](https://epikhigh.merchmadeeasy.com/collections/here)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 4
 - [Apparel](https://epikhigh.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 13
 - [Epik High - Tour](https://epikhigh.merchmadeeasy.com/collections/epik-high-tour): Epik High - Tour
   Updated: 2026-06-04T15:22:20Z
@@ -168,31 +168,31 @@
   Updated: 2026-09-15T16:40:05Z
   Total Products: 5
 - [Accessories](https://epikhigh.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 15
 - [Black Friday](https://epikhigh.merchmadeeasy.com/collections/black-friday)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 11
 - [MORE MERCH](https://epikhigh.merchmadeeasy.com/collections/sleepless-more)
   Updated: 2026-06-04T15:22:20Z
   Total Products: 6
 - [PUMP](https://epikhigh.merchmadeeasy.com/collections/pump)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 8
 - [All](https://epikhigh.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 23
 - [PUMP BUNDLES](https://epikhigh.merchmadeeasy.com/collections/pump-bundles)
   Updated: 2026-09-15T16:34:40Z
   Total Products: 3
 - [50% OFF HOODIES](https://epikhigh.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 3
 - [3.0 Tour Collection](https://epikhigh.merchmadeeasy.com/collections/3-0-tour-collection)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 7
 - [Last Chance](https://epikhigh.merchmadeeasy.com/collections/last-chance)
-  Updated: 2026-10-22T11:10:20Z
+  Updated: 2026-10-29T11:07:57Z
   Total Products: 4
 
 ## Store Pages
