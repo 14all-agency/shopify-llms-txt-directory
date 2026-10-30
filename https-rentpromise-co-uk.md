@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-10-23T00:34:47.207Z
+- Updated At: 2026-10-30T00:51:28.651Z
 
 ## Collections
 
@@ -255,6 +255,18 @@
     Updated: 2026-10-21T09:07:42Z
     Author: RentPromise Team
     Tags:  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease, housing association lease , , no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r, uk landlord solutions
+  - [Maximise Returns with No Void Social Housing  UK](https://rentpromise.co.uk/blogs/news/maximise-returns-with-no-void-social-housing--uk): Maximise Returns with No Void Social Housing  UK
+    Updated: 2026-10-23T09:07:29Z
+    Author: RentPromise Team
+    Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease , , no void property management, no void social housing , rent guarantee, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r, uk landlords services
+  - [Specialist Supported Housing: A Profitable Option for Landlords](https://rentpromise.co.uk/blogs/news/specialist-supported-housing-a-profitable-option-for-landlords): Specialist Supported Housing: A Profitable Option for Landlords
+    Updated: 2026-10-26T09:11:35Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent social housing investmen,  rent solutions,  rent uk, hands-off property management, housing, housing association lease , management, no void social housing , property leasing, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported housing, supported living , supported living   r
+  - [Comparing Housing Association Leases and Traditional Letting in the UK](https://rentpromise.co.uk/blogs/news/comparing-housing-association-leases-and-traditional-letting-in-the-uk): Comparing Housing Association Leases and Traditional Letting in the UK
+    Updated: 2026-10-28T09:07:33Z
+    Author: RentPromise Team
+    Tags: compare housing associations,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease , housing association leases, leasing, no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
 
 ## Store Pages
 
