@@ -8,7 +8,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-14T09:12:11Z
 - Contact Email: ThornandThimble@proton.me
-- Updated At: 2026-10-23T00:32:21.264Z
+- Updated At: 2026-10-30T00:56:10.338Z
 
 ## Products
 
@@ -1725,28 +1725,28 @@
     Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/kiss-cut-stickers-white-5.5x5.5-default-6a88a1192c1de.jpg?v=1788352666
     Price: $3.99 USD
 - [Sakura Flower Agate Bracelet – Growth & New Beginnings](https://thornthimble.shop/products/the-woman-you-re-becoming-sakura-flower-agate-bracelet): Sakura flower agate bracelet with blossom-like stone patterns, chosen for everyday crystal jewelry and intentions of growth and new beginnings.
-  Updated: 2026-10-22T14:06:57Z
+  Updated: 2026-10-26T22:30:58Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/98233AD1-3C23-4113-8ACF-FFEB89CE9A67.png?v=1790986604
   Price: $19.99 USD
 - [Chalcedony Leaf Charm Bracelet – Calm & Communication](https://thornthimble.shop/products/the-elegant-calming-bracelet): Chalcedony bracelet with a leaf charm, pairing natural stone jewelry with symbols of renewal, calm, and thoughtful communication.
-  Updated: 2026-10-22T16:40:19Z
+  Updated: 2026-10-29T13:52:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8117D173-5C44-45A1-B6E6-9FCCC56FE885.png?v=1790970016
   Price: $12.99 USD
 - [Lapis Lazuli Bracelet – Focus & Self-Expression](https://thornthimble.shop/products/the-blue-focus-bracelet): Lapis lazuli bracelet for everyday crystal jewelry, journaling, and intentions of focus, truth, and self-expression.
-  Updated: 2026-10-22T02:49:19Z
+  Updated: 2026-10-28T10:03:28Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8522696D-0A08-4517-BA29-5141AFA81DD9.png?v=1791028119
   Price: $12.99 USD
 - [Hematite, Black Obsidian & Tiger’s Eye Protection Bracelet](https://thornthimble.shop/products/the-triple-protection-bracelet): Hematite, black obsidian, and tiger’s eye bracelet combining three stones traditionally associated with grounding, courage, and protection.
-  Updated: 2026-10-23T00:21:28Z
+  Updated: 2026-10-30T00:45:58Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
@@ -1758,161 +1758,154 @@
     Availability: Available
     Price: $26.99 USD
 - [Rose Quartz 3-Piece Crystal Set | Thorn & Thimble](https://thornthimble.shop/products/the-rose-quartz-healing-crystal-set): Three-piece rose quartz crystal set with a polished stone, Tree of Life charm bracelet and dowsing pendulum for coordinated wear, reflection and altar display.
-  Updated: 2026-10-22T02:49:22Z
+  Updated: 2026-10-29T13:52:55Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E0A46A7F-BC28-4448-8BBC-5130F149647E.png?v=1790970034
   Price: $19.99 USD
 - [Seven-Chakra Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-7-chakra-healing-tassel): Seven large stones are secured in dark woven netting above a colorful cascade of polished crystal chips in this decorative chakra tassel.
-  Updated: 2026-10-22T02:49:21Z
+  Updated: 2026-10-28T10:03:32Z
   Vendor: Conscious Items
   Product Type: Decorative Tassels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F8C5E3A4-7864-4508-B2EB-B949683E96A3.png?v=1790986874
   Price: $16.99 USD
 - [Rose Quartz Crystal Apples, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/rose-quartz-love-apples): This set includes two polished rose quartz apples finished with decorative silver-tone stems and sparkling leaves.
-  Updated: 2026-10-22T02:49:24Z
+  Updated: 2026-10-29T03:16:47Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/165DC59E-B68B-4A92-8F9B-556FFA56AFE5.png?v=1791028139
   Price: $15.99 USD
 - [Rose Quartz Crystal Coasters, Set of 2 | Thorn & Thimble](https://thornthimble.shop/products/the-positive-energy-coasters-2-pcs): This two-piece coaster set is crafted from polished rose quartz with naturally varied pink color and translucent patterning.
-  Updated: 2026-10-22T02:49:22Z
+  Updated: 2026-10-29T18:33:46Z
   Vendor: Conscious Items
   Product Type: Coasters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3D823D15-57E9-4393-8E2C-5551F7730CA8.png?v=1790964872
   Price: $26.99 USD
 - [White Agate Butterfly Bracelet – Balance & Spiritual Growth](https://thornthimble.shop/products/the-spiritual-growth-bracelet): White agate bead bracelet with a butterfly charm, combining soft neutral color with symbols of transformation, balance, and personal growth.
-  Updated: 2026-10-22T15:33:56Z
+  Updated: 2026-10-29T13:52:55Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/38B2182F-F9EF-47F9-9F01-A72C9562DE8B.png?v=1790986883
   Price: $12.99 USD
 - [Rainbow Fluorite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-cleansing-stone): Layered shades of purple, blue, teal, and green give this polished rainbow fluorite point its extraordinary color.
-  Updated: 2026-10-22T02:49:23Z
+  Updated: 2026-10-29T14:01:55Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/19C48D9A-F762-452B-93D6-DDCB262E676D.png?v=1790966021
   Price: $11.99 USD
 - [Garnet, Clear Quartz, Red Jasper & Pyrite 4-Piece Bracelet Set](https://thornthimble.shop/products/prosperity-magnet-bracelet-pack-of-4): Four-piece garnet, clear quartz, red jasper, and pyrite bracelet set to wear as a stack or in separate combinations.
-  Updated: 2026-10-22T02:49:24Z
+  Updated: 2026-10-29T20:37:46Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6051DFBF-F5D0-4270-9F9B-CFD0556F88C0.png?v=1791028150
   Price: $26.99 USD
 - [Seven-Chakra Crystal Tree with Agate Base | Thorn & Thimble](https://thornthimble.shop/products/limitless-possibilities-feng-shui-chakra-tree): Colorful gemstone leaves extend from flexible copper branches in this seven-chakra crystal tree, which stands on a natural agate base.
-  Updated: 2026-10-22T02:49:31Z
+  Updated: 2026-10-28T16:31:10Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D2233EBE-4F59-4419-8357-FA54E0EB6BDA.png?v=1790986912
   Price: $39.99 USD
 - [Malachite, Rose Pyroxene, Clear Quartz, Amber & Pearl Bracelet](https://thornthimble.shop/products/the-law-of-attraction-bracelet): Malachite, rose pyroxene, clear quartz, amber, and pearl bracelet in green, pink, golden, translucent, and pearly tones.
-  Updated: 2026-10-22T14:55:27Z
+  Updated: 2026-10-29T22:42:35Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-law-of-attraction-bracelet-9237872.jpg?v=1788353400
   Price: $26.99 USD
 - [Eight-Stone Natural Energy Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-natural-energy-lamp): A USB-powered lamp with eight loose crystals, including amethyst, rose quartz and black tourmaline, for a colorful altar or desk display.
-  Updated: 2026-10-22T14:51:14Z
+  Updated: 2026-10-28T18:46:53Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/22555293-EF2F-4BB3-8341-D98750488A1D.png?v=1790970044
   Price: $26.99 USD
 - [Amethyst, Aquamarine & Rose Quartz Pixiu Prosperity Bracelet](https://thornthimble.shop/products/the-prosperity-bracelet): Amethyst, aquamarine, and rose quartz bracelet with a temperature-responsive alloy Pixiu charm that shifts color as its temperature changes.
-  Updated: 2026-10-22T02:49:25Z
+  Updated: 2026-10-29T14:55:26Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/89CD2587-8DF6-4366-9E5A-EB812747123E.png?v=1791028166
   Price: $12.99 USD
 - [Citrine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/golden-lamp-of-wealth-citrine-tree): A citrine crystal tree lamp with clear quartz at the base and a wooden stand with a Flower of Life-inspired emblem for warm ambient decor.
-  Updated: 2026-10-22T21:36:52Z
+  Updated: 2026-10-29T21:48:12Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/golden-lamp-of-wealth-citrine-tree-2647821.jpg?v=1788353555
   Price: $32.99 USD
-- [Amethyst, Lapis Lazuli, Aventurine & Chalcedony Bracelet Set](https://thornthimble.shop/products/good-karma-bracelet-set-of-luck-success-pack-of-4): Four-piece amethyst, lapis lazuli, green aventurine, and chalcedony bracelet set in complementary purple, blue, and green tones.
-  Updated: 2026-10-22T02:49:30Z
-  Vendor: Conscious Items
-  Product Type: Bracelet Sets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6094D18B-2C07-428B-B736-06B9A1177C12.png?v=1790966036
-  Price: $26.99 USD
 - [Uruguayan Amethyst Heart Cluster | Thorn & Thimble](https://thornthimble.shop/products/uruguayan-amethyst-love-heart-cluster-aaa-premium-quality): The polished outline frames the raw crystal formation within, allowing both sides of the stone’s personality to shine.
-  Updated: 2026-10-22T04:36:14Z
+  Updated: 2026-10-29T13:00:26Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6D9A02B7-E6B2-4C27-857E-6228663C0A92.png?v=1790970056
   Price: $12.99 USD
 - [Blue Tiger’s Eye & Black Tourmaline Protection Bracelet](https://thornthimble.shop/products/stress-less-aura-protection-bracelet): Dyed blue tiger’s eye and natural black tourmaline bracelet with reflective blue flashes and contrasting dark stone texture.
-  Updated: 2026-10-22T02:49:30Z
+  Updated: 2026-10-29T09:32:16Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A9499EB0-7180-4723-8F93-E8CCB0F5ED5F.png?v=1790966043
   Price: $12.99 USD
 - [Rose Quartz & Moonstone Divine Feminine Bracelet](https://thornthimble.shop/products/fertility-bracelet): Rose quartz, Madagascar rose quartz, and moonstone bracelet in blush and pearly tones, inspired by moonlight and divine feminine symbolism.
-  Updated: 2026-10-22T15:58:27Z
+  Updated: 2026-10-30T00:05:18Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/C48D860F-D460-4D0F-A6AF-E1BC40316C34.png?v=1790970063
   Price: $14.99 USD
 - [Citrine Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/infinite-abundance-citrine-lamp-of-manifestation): A circular citrine halo lamp with raw crystal clusters and adjustable brightness, for golden accent lighting in an office or altar space.
-  Updated: 2026-10-22T02:49:31Z
+  Updated: 2026-10-28T10:05:05Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/infinite-abundance-citrine-lamp-of-manifestation-7659473.jpg?v=1788353803
   Price: $39.99 USD
 - [Amethyst & Citrine Decorative Crystal Tree | Thorn & Thimble](https://thornthimble.shop/products/supreme-abundance-tree-of-everlasting-fortune): Purple amethyst and golden citrine stones form the colorful branches of this decorative crystal tree.
-  Updated: 2026-10-22T14:55:20Z
+  Updated: 2026-10-28T18:12:25Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E741DCE6-0059-4BCE-919D-488F0ACCD058.png?v=1790986939
   Price: $39.99 USD
 - [Eight-Stone Divine Feminine Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/wealth-goddess-the-divine-feminine-lamp): An eight-stone crystal lamp with turquoise, citrine, amethyst and other colorful stones for a divine feminine altar or decorative display.
-  Updated: 2026-10-22T02:49:31Z
+  Updated: 2026-10-27T16:21:29Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/wealth-goddess-the-divine-feminine-lamp-9265485.jpg?v=1788353868
   Price: $32.99 USD
 - [Eight-Stone Selenite Prosperity Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/money-magnet-lamp): A selenite lamp surrounded by pyrite, citrine and five more stones for a colorful prosperity-themed altar display or crystal grid.
-  Updated: 2026-10-22T02:49:32Z
+  Updated: 2026-10-28T10:04:27Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6079AAE6-F948-4781-B111-AA82C03F18F0.png?v=1790986943
   Price: $26.99 USD
 - [Amazonite, Labradorite, Amethyst & Lapis Lazuli Bracelet Set](https://thornthimble.shop/products/manifestation-magnet-pack-of-4): Four-piece amazonite, labradorite, amethyst, and lapis lazuli bracelet set for colorful crystal stacks or separate wear.
-  Updated: 2026-10-22T02:49:32Z
+  Updated: 2026-10-29T15:01:11Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/manifestation-magnet-pack-of-4-7740119.jpg?v=1788353976
   Price: $26.99 USD
 - [Black Onyx, Pink Opal & Amethyst Eye of Horus Bracelet](https://thornthimble.shop/products/i-am-strong-illuminating-bracelet-of-feminine-power): Adjustable black onyx, pink opal, and amethyst bracelet with an Eye of Horus charm decorated with stars and crescent moons.
-  Updated: 2026-10-22T02:49:41Z
+  Updated: 2026-10-30T00:32:35Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E52849D1-7CA0-4948-BDE5-35DD32B0E621.png?v=1790987863
   Price: $19.99 USD
 - [Amethyst Halo Crystal Protection Lamp | Thorn & Thimble](https://thornthimble.shop/products/i-am-at-peace-spiritual-protection-amethyst-lamp): An amethyst-point halo lamp with 30 adjustable light modes. Select one lamp or the two-lamp option for your decorative lighting setup.
-  Updated: 2026-10-22T22:21:48Z
+  Updated: 2026-10-29T23:42:06Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
@@ -1924,84 +1917,84 @@
     Availability: Available
     Price: $58.99 USD
 - [Malachite & Black Onyx Hamsa Bracelet Set – Strength & Protection](https://thornthimble.shop/products/fortress-of-heart-mind-bracelet-set-for-mental-healing): Malachite and black onyx bracelet set with a Hamsa charm, pairing banded green stone and polished black beads.
-  Updated: 2026-10-22T02:49:36Z
+  Updated: 2026-10-28T10:04:56Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/0AF072B1-9681-47D7-9C4E-10A423DB4739.png?v=1790987892
   Price: $32.99 USD
 - [Malachite & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/malachite-anxiety-tree-lamp): A green malachite crystal tree lamp with clear quartz at its base, for nature-inspired ambient lighting on a desk or meditation shelf.
-  Updated: 2026-10-22T02:49:39Z
+  Updated: 2026-10-27T04:08:06Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/malachite-anxiety-tree-lamp-2876938.png?v=1790970074
   Price: $32.99 USD
 - [Aquamarine & Clear Quartz Crystal Tree Lamp | Thorn & Thimble](https://thornthimble.shop/products/guardian-angel-lamp-of-protection-aquamarine-tree): An aquamarine crystal tree with clear quartz at the base and a wooden stand, for blue gemstone accent lighting in a bedroom or meditation nook.
-  Updated: 2026-10-22T02:49:35Z
+  Updated: 2026-10-27T20:33:26Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D6E0AB41-1027-45B8-874B-2FDB7B4B8FA5.png?v=1790970082
   Price: $32.99 USD
 - [Shungite, Rose Quartz & Moonstone Bracelet – Grounding & Intuition](https://thornthimble.shop/products/digital-detox-shungite-super-charged-bracelet): Shungite, rose quartz, and moonstone bracelet with gold-plated copper accents, combining black, blush, and pearly stone tones.
-  Updated: 2026-10-22T15:59:37Z
+  Updated: 2026-10-29T13:52:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A10CB00F-932E-432F-B7DE-ACAF55768D56.png?v=1791028172
   Price: $12.99 USD
 - [Shungite & Howlite 2-Piece Bracelet Set – Calm & Grounding](https://thornthimble.shop/products/negativity-banisher-bracelet-set): Two-piece shungite and howlite bracelet set with deep black stone and white beads marked by gray veining.
-  Updated: 2026-10-22T02:49:36Z
+  Updated: 2026-10-28T10:04:36Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/negativity-banisher-bracelet-set-2850291.jpg?v=1788354274
   Price: $19.99 USD
 - [Tiger's Eye Heart Crystal Hanging Tassel | Thorn & Thimble](https://thornthimble.shop/products/the-protection-tassel): Tiger’s Eye Heart Crystal Hanging Tassel – Protection for gemstone collections and personal display.
-  Updated: 2026-10-22T02:49:38Z
+  Updated: 2026-10-29T14:59:16Z
   Vendor: Conscious Items
   Product Type: Decorative Tassels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1ADD75BC-1DF9-4A3E-8E02-E6577233E8B9.png?v=1790970091
   Price: $26.99 USD
 - [Clear Quartz Crystal Cleansing Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-healing-lamp): A clear quartz crystal lamp for ambient lighting on a nightstand, desk or altar. Natural inclusions and crystal formations vary between pieces.
-  Updated: 2026-10-22T07:28:27Z
+  Updated: 2026-10-27T00:22:26Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-healing-lamp-3460079.jpg?v=1788354333
   Price: $26.99 USD
 - [Tiger’s Eye & Black Onyx Bracelet – Focus & Success](https://thornthimble.shop/products/the-professional-success-bracelet): Golden tiger’s eye and black onyx bracelet with reflective banding and polished contrast, for everyday wear or crystal jewelry stacks.
-  Updated: 2026-10-22T20:06:47Z
+  Updated: 2026-10-29T13:46:27Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7F82501F-59DC-4347-9D56-9A2AC093F87D.png?v=1790970098
   Price: $12.99 USD
 - [Rainbow Hematite, Tourmaline & Amethyst 4-Piece Bracelet Set](https://thornthimble.shop/products/veil-of-protection-the-absolute-bracelet-set): Four-piece bracelet set with rainbow hematite, metallic hematite, black tourmaline, and amethyst for colorful crystal stacks.
-  Updated: 2026-10-22T02:49:44Z
+  Updated: 2026-10-29T20:25:37Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D5A2E08D-2789-49FF-A65A-6A16B7C849BF.png?v=1790970546
   Price: $26.99 USD
 - [Tiger’s Eye & Black Agate Bracelet – Stability & Protection](https://thornthimble.shop/products/the-tiger-s-eye-stability-bracelet): Dyed blue tiger’s eye and black agate bracelet with cool reflective detail and dark polished contrast.
-  Updated: 2026-10-22T11:21:36Z
+  Updated: 2026-10-29T18:29:21Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/04882F97-ED36-4493-8861-AFE634D4B7EB.png?v=1790970553
   Price: $11.99 USD
 - [Lapis Lazuli, Onyx & Hematite Protection Bracelet](https://thornthimble.shop/products/the-energy-shield-bracelet): Lapis lazuli, black onyx, and hematite bracelet with blue, black, and silver-gray beads for everyday wear and personal ritual.
-  Updated: 2026-10-22T02:49:39Z
+  Updated: 2026-10-29T16:41:42Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3734E1A1-7948-4699-8DA0-5B1CC84BB105.png?v=1790980623
   Price: $12.99 USD
 - [Obsidian or Clear Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/the-pyramids-of-power): Obsidian or Clear Quartz Crystal Pyramid for gemstone collections and personal display.
-  Updated: 2026-10-22T02:49:39Z
+  Updated: 2026-10-28T21:14:17Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
@@ -2014,344 +2007,358 @@
     Availability: Available
     Price: $19.99 USD
 - [Eight-Stone Sacred Protection Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-sacred-protection-lamp): An eight-stone crystal lamp with a selenite point and a golden mandala engraved in the base, for a symbolic protection-themed altar display.
-  Updated: 2026-10-22T02:49:39Z
+  Updated: 2026-10-29T09:23:26Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-sacred-protection-lamp-7137914.png?v=1790966074
   Price: $26.99 USD
 - [Amethyst, Rose Quartz, Aquamarine & Fluorite 4-Piece Bracelet Set](https://thornthimble.shop/products/soothing-anxiety-free-bracelet-pack-of-4): Four-piece amethyst, rose quartz, aquamarine, and fluorite bracelet set to stack together, pair, or wear individually.
-  Updated: 2026-10-22T02:49:39Z
+  Updated: 2026-10-29T20:25:36Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3DA64174-9010-412D-866F-D76989D68966.png?v=1790966084
   Price: $26.99 USD
 - [Selenite Crystal Cleansing Lamp | Thorn & Thimble](https://thornthimble.shop/products/selenite-cleansing-lamp): A selenite crystal lamp for luminous bedside, altar or meditation decor. Select one lamp or two lamps using the quantity options.
-  Updated: 2026-10-22T02:49:40Z
+  Updated: 2026-10-28T10:06:40Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/selenite-cleansing-lamp-8721882.jpg?v=1788374274
-  - [Get 1 - Save 45%](https://thornthimble.shop/products/selenite-cleansing-lamp?variant=46416903897185)
+  - [Get 1 - Save 30%](https://thornthimble.shop/products/selenite-cleansing-lamp?variant=46416903897185)
     Availability: Available
     Price: $26.99 USD
   - [Get 2 - Save 51%](https://thornthimble.shop/products/selenite-cleansing-lamp?variant=46416903929953)
     Availability: Available
     Price: $45.99 USD
 - [Amethyst, Sodalite, Aquamarine & Moonstone 4-Piece Bracelet Set](https://thornthimble.shop/products/spiritual-healing-bracelet-pack-of-4): Four-piece amethyst, sodalite, aquamarine, and rainbow moonstone bracelet set for coordinating crystal jewelry combinations.
-  Updated: 2026-10-22T02:49:42Z
+  Updated: 2026-10-28T13:48:45Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CC34F208-5424-4C17-A0D2-4F8AC7F099A2.png?v=1790988889
   Price: $26.99 USD
 - [Clear Quartz & Pink Tourmaline Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/find-my-peace-quartz-tourmaline-lamp-of-blooming-tranquility): Clear quartz and pink tourmaline crystal lamp with 30 adjustable light settings for a softly colored desk, bedroom or meditation display.
-  Updated: 2026-10-22T16:52:27Z
+  Updated: 2026-10-29T18:30:18Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/find-my-peace-quartz-tourmaline-lamp-of-blooming-tranquility-8284769.jpg?v=1788374372
   Price: $39.99 USD
 - [Labradorite Owl Crystal Carving | Thorn & Thimble](https://thornthimble.shop/products/-of-wisdom-labradorite-owl-talisman): Add an owl-shaped labradorite carving to a reading nook, desk or altar with the  of Wisdom crystal talisman.
-  Updated: 2026-10-22T02:30:24Z
+  Updated: 2026-10-28T10:05:20Z
   Vendor: Conscious Items
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F57D9BA7-FFCC-4EC3-A924-86FDC213CB02.png?v=1790964893
   Price: $12.99 USD
 - [Rose Quartz Heart Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/love-magnet-rose-quartz-heart-lamp): A rose quartz heart-shaped crystal lamp with 30 adjustable light settings, for a bedroom, journaling corner or love-themed altar.
-  Updated: 2026-10-22T02:49:42Z
+  Updated: 2026-10-29T18:30:16Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/love-magnet-rose-quartz-heart-lamp-2654660.jpg?v=1788374472
   Price: $45.99 USD
 - [Amethyst & Aura Quartz Crystal Lamp Set | Thorn & Thimble](https://thornthimble.shop/products/protect-my-home-best-value): A two-lamp crystal set pairing amethyst with aura-coated clear quartz halo designs. Adjustable lighting for a coordinated display or separate rooms.
-  Updated: 2026-10-22T02:49:43Z
+  Updated: 2026-10-28T06:00:39Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/5A4F2EF0-16D0-4D68-A1B0-78550733D69B.png?v=1790961596
   Price: $65.99 USD
 - [Malachite & Black Onyx 2-Piece Bracelet Set – Balance & Strength](https://thornthimble.shop/products/the-anxiety-double-bracelet-set): Two-piece malachite and black onyx bracelet set with a small stainless-steel charm, for separate wear or a contrasting green-and-black stack.
-  Updated: 2026-10-22T02:49:48Z
+  Updated: 2026-10-28T10:04:20Z
   Vendor: Conscious Items
   Product Type: Bracelet Sets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-anxiety-double-bracelet-set-9144320.png?v=1790980661
   Price: $26.99 USD
 - [Angel or Aqua Aura Quartz Crystal Pyramid | Thorn & Thimble](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire): Angel or Aqua Aura Quartz Crystal Pyramid for gemstone collections and personal display.
-  Updated: 2026-10-22T02:49:45Z
+  Updated: 2026-10-28T21:04:02Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7414C124-0DB2-4261-AAB0-5C30AC802D37.png?v=1790961609
   - [Angel Aura Pyramid](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire?variant=46416908615777)
-    Availability: Available
+    Availability: Not Available
     Price: $19.99 USD
   - [Aqua Aura Pyramid](https://thornthimble.shop/products/summon-my-power-pyramids-of-inner-fire?variant=46416908648545)
     Availability: Available
     Price: $19.99 USD
 - [Citrine & Selenite Good Luck Charm Bracelet](https://thornthimble.shop/products/quartet-of-luck-citrine-selenite-bracelet-of-serendipity): Citrine and selenite bracelet with a detailed good-luck charm and zircon accent, for crystal jewelry and personal intention setting.
-  Updated: 2026-10-22T02:49:43Z
+  Updated: 2026-10-29T03:04:41Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1324B59E-A658-4901-8F7A-F0456862BEF7.png?v=1790988907
   Price: $22.99 USD
 - [Aura Clear Quartz Halo Lamp | Thorn & Thimble](https://thornthimble.shop/products/rainbow-after-the-storm-clear-quartz-lamp-of-hope): A halo lamp with aura-coated clear quartz points and 30 adjustable light modes, for rainbow-colored accent lighting in a mystical room.
-  Updated: 2026-10-22T02:49:44Z
+  Updated: 2026-10-28T12:17:37Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/rainbow-after-the-storm-clear-quartz-lamp-of-hope-5353123.jpg?v=1788374720
   Price: $39.99 USD
 - [Moroccan Selenite Tower Lamp with Remote | Thorn & Thimble](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power): Light a reading nook or altar with a Moroccan selenite tower lamp, walnut-tone base and 30 remote-controlled light modes. Natural crystal variation.
-  Updated: 2026-10-22T22:37:36Z
+  Updated: 2026-10-30T00:52:56Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power-5415623.jpg?v=1788374765
-  - [Get 1 - Save 40%](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power?variant=48843056152673)
+  - [Get 1 - Save 30%](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power?variant=48843056152673)
     Availability: Available
     Price: $39.99 USD
   - [Get 2 - Save 46%](https://thornthimble.shop/products/the-cleanse-all-selenite-lamp-2-pounds-of-healing-power?variant=46416927490145)
     Availability: Available
     Price: $70.99 USD
 - [Aura Clear Quartz Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/manifest-success-clear-quartz-lamp-of-achievement): A blue aura-coated clear quartz lamp with 30 light modes, remote control and timer, for a colorful desk or intention-setting space.
-  Updated: 2026-10-22T04:45:16Z
+  Updated: 2026-10-28T10:05:25Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/manifest-success-clear-quartz-lamp-of-achievement-7057864.jpg?v=1788374813
   Price: $32.99 USD
 - [Citrine & Amethyst 2-Piece Crystal Anklet Set | Thorn & Thimble](https://thornthimble.shop/products/destiny-maker-powerhouse-anklet-set): Rose-gold accent beads plated with 18K gold bring a warm metallic finish to the colorful collection.
-  Updated: 2026-10-22T02:49:46Z
+  Updated: 2026-10-28T10:05:29Z
   Vendor: Conscious Items
   Product Type: Anklets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/01C33D73-1E41-4DF4-9BC0-7046753B7FA6.png?v=1790988992
   Price: $19.99 USD
 - [Orca Agate Bracelet – Serenity & Self-Expression](https://thornthimble.shop/products/exotic-orca-agate-bracelet-of-deep-healing): Orca agate bracelet with individually patterned polished beads and ocean-inspired color, for everyday crystal jewelry and reflection.
-  Updated: 2026-10-22T23:22:16Z
+  Updated: 2026-10-29T23:42:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A747262A-F7B5-487F-815B-B7C38D2A6F2E.png?v=1790989001
   Price: $12.99 USD
 - [Amethyst Halo Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/portal-to-peace-amethyst-lamp-of-stress-relief): An amethyst halo lamp with remote control and 30 adjustable light modes, for ambient bedroom, meditation or reading-nook decor.
-  Updated: 2026-10-22T02:49:46Z
+  Updated: 2026-10-28T19:41:25Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/portal-to-peace-amethyst-lamp-of-stress-relief-9306264.jpg?v=1788374917
   Price: $32.99 USD
 - [Selenite Hamsa Hand Crystal Mood Lamp | Thorn & Thimble](https://thornthimble.shop/products/my-aura-spa-mood-lamp-of-rejuvenation): A selenite Hamsa hand mood lamp with 30 adjustable light modes, for symbolic hand-shaped altar decor or gentle bedside illumination.
-  Updated: 2026-10-22T02:49:47Z
+  Updated: 2026-10-28T10:05:28Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/C2D3A244-3D72-477F-ABEB-55C4056C9C3E.png?v=1790989010
   Price: $32.99 USD
 - [Black Tourmaline & Golden Obsidian Protection Bracelet](https://thornthimble.shop/products/the-energy-protection-bracelet): Black tourmaline and golden obsidian bracelet with contrasting stone textures and reflective detail, for everyday wear or personal ritual.
-  Updated: 2026-10-22T02:49:47Z
+  Updated: 2026-10-29T15:22:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-energy-protection-bracelet-2147070.png?v=1790989030
   Price: $12.99 USD
 - [Zebra Jasper Bracelet – Balance & Grounding](https://thornthimble.shop/products/permission-to-pause-the-zebra-jasper-bracelet): Zebra jasper bracelet with contrasting natural markings, for earthy crystal jewelry and intentions of balance and grounding.
-  Updated: 2026-10-22T02:49:47Z
+  Updated: 2026-10-29T03:11:30Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AE9623EA-6B62-4F6B-8507-C30305485E8B.png?v=1791028205
   Price: $12.99 USD
 - [Royal Blue Tiger’s Eye Bracelet – Focus & Confidence](https://thornthimble.shop/products/hawk-s-focus-royal-blue-tiger-s-eye-bracelet): Royal blue dyed tiger’s eye bracelet with reflective banding, for crystal jewelry and intentions of focus and confidence.
-  Updated: 2026-10-22T18:26:50Z
+  Updated: 2026-10-29T21:02:36Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/AA1E9864-258D-4B64-AEEC-42BA492EF7DD.png?v=1790989041
   Price: $12.99 USD
-- [Dalmatian Jasper & Black Obsidian Bracelet – Joy & Protection](https://thornthimble.shop/products/soul-reset-dalmatian-jasper-bracelet-of-healing): Dalmatian jasper, green malachite, and black obsidian bracelet combining speckled, banded, and polished stones.
-  Updated: 2026-10-22T21:10:27Z
-  Vendor: Conscious Items
-  Product Type: Bracelets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D24A06DF-E382-427A-B27F-9C79AC9CC115.png?v=1791028226
-  Price: $12.99 USD
 - [Clear Quartz Crystal Tower Manifestation Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-clear-quartz-manifestation-tower-lamp): A sculptural clear quartz tower lamp with 30 adjustable light modes, for an altar, nightstand or illuminated crystal display.
-  Updated: 2026-10-22T10:03:39Z
+  Updated: 2026-10-30T00:14:26Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-clear-quartz-manifestation-tower-lamp-9265426.jpg?v=1788375176
   Price: $39.99 USD
 - [Amethyst Halo Crystal Meditation Lamp | Thorn & Thimble](https://thornthimble.shop/products/stress-less-sleep-more-amethyst-healing-lamp): An amethyst halo lamp with 30 adjustable light modes and an included remote, for a meditation corner, nightstand or atmospheric display.
-  Updated: 2026-10-22T23:09:18Z
+  Updated: 2026-10-29T18:30:16Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/stress-less-sleep-more-amethyst-healing-lamp-conscious-items-2186037.jpg?v=1788375213
   Price: $32.99 USD
 - [Snowflake Obsidian Bracelet – Pattern Breaking & Self-Trust](https://thornthimble.shop/products/the-pattern-breaker-snowflake-obsidian-bracelet): Snowflake obsidian bracelet with individual stone patterns, for crystal jewelry and intentions of grounding, reflection, and self-trust.
-  Updated: 2026-10-22T02:49:57Z
+  Updated: 2026-10-28T10:06:07Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CA0AEDEE-48EC-4B1B-9BD9-23DC6AF3688C.png?v=1790980679
   Price: $12.99 USD
 - [Rare Seraphinite Bracelet – Transformation & Renewal](https://thornthimble.shop/products/angel-energy-rare-seraphinite-bracelet-of-transformation): Seraphinite bracelet with natural wing-like patterns, for crystal jewelry collections and intentions of transformation and renewal.
-  Updated: 2026-10-22T20:57:05Z
+  Updated: 2026-10-29T20:06:30Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CD1D03D9-8F9B-4106-A728-293FF5FB4524.png?v=1790989055
   Price: $26.99 USD
 - [Natural Blue Kyanite Bracelet – Truth & Self-Expression](https://thornthimble.shop/products/my-truth-my-power-rare-kyanite-bracelet): Natural blue kyanite bracelet featuring untreated stone, for crystal jewelry and intentions of honest communication and self-expression.
-  Updated: 2026-10-22T14:55:18Z
+  Updated: 2026-10-29T21:02:45Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/52997333-1113-483B-A992-BC7E03F975E4.png?v=1791028236
   Price: $26.99 USD
 - [Amethyst, Selenite & Rose Quartz Bracelet – Calm & Clarity](https://thornthimble.shop/products/trinity-bracelet-of-stress-resilience): Amethyst, selenite, and rose quartz bracelet in purple, white, and pink tones, for everyday crystal jewelry and quiet reflection.
-  Updated: 2026-10-22T02:49:58Z
+  Updated: 2026-10-29T18:18:48Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/trinity-bracelet-of-stress-resilience-7260658.jpg?v=1788375354
   Price: $12.99 USD
 - [Blue Tiger’s Eye, Obsidian & Quartz Protection Bracelet](https://thornthimble.shop/products/the-negativity-filter-bracelet): Dyed blue tiger’s eye, black obsidian, and clear quartz bracelet with deep blue and black beads and a bright quartz accent.
-  Updated: 2026-10-22T23:10:47Z
+  Updated: 2026-10-29T23:42:37Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/7C2419F3-B2BA-497B-B1B1-AC7167CEE5D0.png?v=1790989064
   Price: $12.99 USD
 - [Hypersthene & Clear Quartz Bracelet – Intuition & Abundance](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-bracelet): Hypersthene and clear quartz bracelet with a subtle silvery sheen, for crystal jewelry and intentions of discernment, intuition, and abundance.
-  Updated: 2026-10-22T23:02:06Z
+  Updated: 2026-10-30T00:00:34Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/B94EF0F7-12B2-40B7-B809-806D56CB62D1.png?v=1791028322
   Price: $22.99 USD
 - [River Agate Bracelet – Calm & Steady Energy](https://thornthimble.shop/products/calm-in-the-chaos-river-agate-bracelet): River agate bracelet with natural stone variations, for everyday crystal jewelry and intentions of calm, stability, and steady progress.
-  Updated: 2026-10-22T14:19:46Z
+  Updated: 2026-10-28T18:02:01Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/9EF400E4-DAF6-4BDC-9928-460149B9A995.png?v=1790980718
   Price: $12.99 USD
 - [Carnelian & Orca Agate Bracelet – Confidence & Inner Strength](https://thornthimble.shop/products/feminine-force-carnelian-orca-agate-bracelet): Carnelian and orca agate bracelet combining warm orange stone and softly patterned blue-gray agate in a fire-and-water-inspired design.
-  Updated: 2026-10-22T15:23:26Z
+  Updated: 2026-10-29T04:58:32Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/A51688F3-2F07-4D96-8D2C-0EF1E0E7E493.png?v=1790980731
   Price: $12.99 USD
 - [Citrine Crystal Point Bracelet – Prosperity & New Beginnings](https://thornthimble.shop/products/365-days-of-brilliance-citrine-bracelet): Citrine bracelet with a pointed centerpiece, for crystal jewelry and intentions of prosperity, confidence, and new beginnings.
-  Updated: 2026-10-22T13:29:58Z
+  Updated: 2026-10-28T14:32:06Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/365-days-of-brilliance-citrine-bracelet-5138249.jpg?v=1788375515
   Price: $16.99 USD
 - [Obsidian, Hematite, Tiger’s Eye & Citrine Protection Bracelet](https://thornthimble.shop/products/the-quadruple-protection-bracelet): Obsidian, hematite, tiger’s eye, and citrine bracelet combining dark polished beads with warm honey-and-gold accents.
-  Updated: 2026-10-22T15:58:25Z
+  Updated: 2026-10-30T00:23:47Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-quadruple-protection-bracelet-1328174.png?v=1790989089
   Price: $12.99 USD
 - [Amethyst, Selenite & Malachite Bracelet – Balance & Renewal](https://thornthimble.shop/products/the-triple-healing-bracelet): Amethyst, selenite, and malachite bracelet combining purple, white, and green stones, for crystal jewelry and intentions of balance and renewal.
-  Updated: 2026-10-22T08:32:16Z
+  Updated: 2026-10-28T10:05:40Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/79CAFE77-EE67-41D3-9487-F65BC3FAD92B.png?v=1790989428
   Price: $16.99 USD
 - [Clear Quartz, Moonstone & Citrine Bracelet – New Beginnings](https://thornthimble.shop/products/spark-hope-golden-bracelet-of-new-beginnings): Clear quartz, moonstone, and citrine bracelet in clear, pearly, and honey-colored tones, for crystal jewelry and fresh-start intentions.
-  Updated: 2026-10-22T02:50:02Z
+  Updated: 2026-10-28T10:05:50Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F6097611-6F12-40BD-9601-872A1A56F542.png?v=1790980754
   Price: $16.99 USD
 - [Black Obsidian & Raw Tourmaline Bracelet – Protection & Renewal](https://thornthimble.shop/products/habit-breaker-black-obsidian-tourmaline-bracelet): Black obsidian and raw black tourmaline bracelet combining polished and natural surfaces, for crystal jewelry and intentions of renewal.
-  Updated: 2026-10-22T14:57:27Z
+  Updated: 2026-10-29T02:03:36Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/habit-breaker-black-obsidian-tourmaline-bracelet-6761505.jpg?v=1788375722
   Price: $12.99 USD
 - [Citrine Crystal Geyser Lamp | Thorn & Thimble](https://thornthimble.shop/products/turn-my-life-to-gold-midas-citrine-lamp): A citrine crystal geyser lamp with 30 adjustable light modes, for golden accent lighting in a creative studio or prosperity-themed altar.
-  Updated: 2026-10-22T07:28:23Z
+  Updated: 2026-10-30T00:14:26Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/51A6EE6D-5382-470C-A600-BEEF17A5A1FB.png?v=1790980771
   Price: $39.99 USD
 - [Galaxy Tiger’s Eye & Selenite Bracelet – Intention & Clarity](https://thornthimble.shop/products/cosmic-energy-amplifier-galaxy-tiger-s-eye-bracelet): Dyed Galaxy tiger’s eye and selenite bracelet with 14K gold-plated stainless-steel accents, combining vivid celestial color and pale stone.
-  Updated: 2026-10-22T02:50:04Z
+  Updated: 2026-10-29T22:44:57Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/cosmic-energy-amplifier-galaxy-tigers-eye-bracelet-4442951.jpg?v=1788375854
   Price: $12.99 USD
 - [Seven-Crystal Selenite Sanctuary Lamp | Thorn & Thimble](https://thornthimble.shop/products/the-stress-shield-lamp-7-stones-of-healing): A selenite sanctuary lamp with seven complementary crystals, for a textured gemstone display on a bedside table or meditation shelf.
-  Updated: 2026-10-22T02:50:04Z
+  Updated: 2026-10-29T13:30:07Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/295741EF-9E89-46DC-B0BC-C3435A7448F7.png?v=1790964912
   Price: $32.99 USD
 - [Obsidian, Hematite & Tiger’s Eye Protection Bracelet](https://thornthimble.shop/products/the-triple-karma-shield-bracelet): Obsidian, hematite, and tiger’s eye bracelet for everyday crystal jewelry, layering, and intentions of grounding and protective boundaries.
-  Updated: 2026-10-22T12:26:37Z
+  Updated: 2026-10-29T20:23:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/F4E8F529-9F71-4F1A-823E-D0EFF271981C.png?v=1790989482
   Price: $12.99 USD
+- [Amethyst, Apatite & Howlite Raw Crystal Trio | Thorn & Thimble](https://thornthimble.shop/products/the-anti-anxiety-trio): The three contrasting stones arrive in a satin storage pouch with an informational guide card for beginning a personal crystal practice.
+  Updated: 2026-10-29T20:30:53Z
+  Vendor: Conscious Items
+  Product Type: Crystals & Stones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-anti-anxiety-trio-conscious-items-5229120.png?v=1790980796
+  Price: $5.99 USD
 - [Blue Lace Agate, Howlite & Selenite Bracelet – Calm & Clarity](https://thornthimble.shop/products/the-empath-s-trio-daily-reset-bracelet): Blue lace agate, howlite, and selenite bracelet in a gentle palette, for everyday crystal jewelry and quiet reflection.
-  Updated: 2026-10-22T02:50:06Z
+  Updated: 2026-10-29T18:52:16Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/47FC2403-795C-4060-9960-44C15D280FBD.png?v=1790966133
   Price: $19.99 USD
 - [Arfvedsonite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-is-your-breakthrough-rare-arfvedsonite-point): Arfvedsonite Crystal Point – Breakthrough for gemstone collections and personal display.
-  Updated: 2026-10-22T18:38:23Z
+  Updated: 2026-10-29T20:57:36Z
   Vendor: Conscious Items
   Product Type: Crystals & Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/385FB726-B0C4-43F3-B9B1-EB1D4AF5A5F7.png?v=1790966145
   Price: $11.99 USD
+- [Obsidian, Tiger's Eye & Hematite Raw Stone Trio | Thorn & Thimble](https://thornthimble.shop/products/the-triple-protection-trio): Obsidian, Tiger’s Eye & Hematite Crystal Trio for gemstone collections and personal display.
+  Updated: 2026-10-30T00:36:46Z
+  Vendor: Conscious Items
+  Product Type: Crystals & Stones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/the-triple-protection-trio-conscious-items-6306604.jpg?v=1788376191
+  Price: $5.99 USD
+- [Citrine, Pyrite & Aventurine Raw Crystal Trio | Thorn & Thimble](https://thornthimble.shop/products/the-abundance-trio): The three natural stones arrive with a satin storage pouch and informational guide card.
+  Updated: 2026-10-29T20:22:32Z
+  Vendor: Conscious Items
+  Product Type: Crystals & Stones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8B2A5802-9613-4749-BF23-5A23D87F3256.png?v=1790989498
+  Price: $5.99 USD
 - [Hypersthene Teardrop Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-hypersthene-millionaire-manifestation-pendant): Hypersthene Teardrop Crystal Pendant – Manifestation for gemstone collections and personal display.
-  Updated: 2026-10-22T23:17:48Z
+  Updated: 2026-10-29T18:36:28Z
   Vendor: Conscious Items
   Product Type: Pendants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/CC33FE05-4958-4C09-8756-50D60FE5AF90.png?v=1790980810
   Price: $19.99 USD
 - [Orca Agate Protection Bracelet – Obsidian, Hematite & Tiger’s Eye](https://thornthimble.shop/products/orca-s-armor-the-triple-protection-healing-bracelet): Orca agate, obsidian, hematite, and tiger’s eye bracelet inspired by moonlit ocean colors, for crystal jewelry and grounding intentions.
-  Updated: 2026-10-22T14:32:59Z
+  Updated: 2026-10-29T20:31:17Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DBA7D193-83DC-41CD-9484-14BD7496D5F9.png?v=1790980835
   Price: $12.99 USD
 - [Pink Kunzite Bracelet – Compassion & Self-Love](https://thornthimble.shop/products/the-heart-reset-rare-pink-kunzite-bracelet): Pink kunzite bracelet with delicate color and a luminous polished finish, for crystal jewelry and intentions of compassion and self-love.
-  Updated: 2026-10-22T14:21:06Z
+  Updated: 2026-10-29T12:39:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/Copy_of_Product_Annotated_-_Badge_Remote_6f96d55a-ff05-4841-8199-f7dfccb53d5d.png?v=1790966152
   Price: $26.99 USD
 - [Seraphinite Crystal Pendant Necklace | Thorn & Thimble](https://thornthimble.shop/products/the-angel-by-my-side-rare-seraphinite-pendant): Seraphinite Crystal Pendant – Angel by My Side for gemstone collections and personal display.
-  Updated: 2026-10-22T02:50:08Z
+  Updated: 2026-10-29T15:22:47Z
   Vendor: Conscious Items
   Product Type: Pendants
   Availability: Available
@@ -2363,77 +2370,77 @@
     Availability: Available
     Price: $26.99 USD
 - [Malachite Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/this-changes-everything-malachite-phoenix-point): Malachite Crystal Point – Phoenix Transformation for gemstone collections and personal display.
-  Updated: 2026-10-22T02:50:08Z
+  Updated: 2026-10-29T20:57:45Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D9995B33-9B5C-4BCA-A4AA-D7669E07B989.png?v=1790980842
   Price: $14.99 USD
 - [Blue Amazonite Bracelet – Courage & Self-Expression](https://thornthimble.shop/products/empire-of-her-own-premium-blue-amazonite-bracelet): Blue amazonite bracelet with bold color and a smooth finish, for everyday crystal jewelry and intentions of courage and self-expression.
-  Updated: 2026-10-22T02:50:08Z
+  Updated: 2026-10-27T18:34:31Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DSC00115-e-w_1.jpg?v=1788376553
   Price: $26.99 USD
 - [Siberian Charoite Bracelet – Intuition & Self-Trust](https://thornthimble.shop/products/unshakeable-intuition-rare-siberian-charoite-bracelet): Siberian charoite bracelet with lavender, purple, and darker mineral detail, for crystal jewelry and intentions of intuition and self-trust.
-  Updated: 2026-10-22T17:34:37Z
+  Updated: 2026-10-29T20:01:56Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/D37C2B8A-DAEA-4E66-9E93-CAB1B65EE5CA.png?v=1791024449
   Price: $32.99 USD
 - [Moroccan Selenite Twin-Tower Crystal Lamp | Thorn & Thimble](https://thornthimble.shop/products/two-tower-selenite-lamp-deep-energy-cleanse-reset): A twin-tower Moroccan selenite lamp with 30 adjustable light modes and remote control, for symmetrical crystal accent lighting.
-  Updated: 2026-10-22T02:50:11Z
+  Updated: 2026-10-27T20:34:15Z
   Vendor: Conscious Items
   Product Type: Crystal Lamps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/two-tower-selenite-lamp-deep-energy-cleanse-reset-conscious-items-7336795.jpg?v=1788376689
   Price: $39.99 USD
 - [Rainbow Tourmaline Bracelet – Grounding & Balance](https://thornthimble.shop/products/the-spiral-breaker-rainbow-tourmaline-bracelet): Rainbow tourmaline bracelet with varied stone colors and patterns, for everyday crystal jewelry and intentions of grounding and balance.
-  Updated: 2026-10-22T03:25:51Z
+  Updated: 2026-10-29T18:58:03Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/6841F46F-D024-4C9F-BE10-ACC8B3518799.png?v=1791024459
   Price: $26.99 USD
 - [Peruvian Pink Opal Bracelet – Love & Emotional Renewal](https://thornthimble.shop/products/repair-my-heart-the-peruvian-pink-opal-bracelet): Peruvian pink opal bracelet in gentle tones, for crystal jewelry and intentions of love, compassion, and emotional renewal.
-  Updated: 2026-10-22T14:06:57Z
+  Updated: 2026-10-29T01:19:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/5D3BF9F4-0604-4647-8384-301C1422A497.png?v=1791024466
   Price: $16.99 USD
 - [Ocean Jasper Bracelet – Calm & Emotional Balance](https://thornthimble.shop/products/quiet-my-mind-ocean-jasper-bracelet): Ocean jasper bracelet with individual natural color and markings, for crystal jewelry and intentions of calm and emotional balance.
-  Updated: 2026-10-22T02:50:12Z
+  Updated: 2026-10-29T13:52:55Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/3F17405D-8389-4604-A199-1067C5745E7D.png?v=1791024474
   Price: $12.99 USD
 - [Black Moonstone Bracelet – Boundaries & New Beginnings](https://thornthimble.shop/products/the-empath-s-cord-cutter-black-moonstone-bracelet): Black moonstone bracelet with natural color, flash, and pattern variations, for crystal jewelry and intentions of boundaries and new beginnings.
-  Updated: 2026-10-22T19:52:17Z
+  Updated: 2026-10-29T18:37:45Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/25FA1EC7-319C-4214-857D-841A78828768.png?v=1790980852
   Price: $26.99 USD
 - [Snowflake Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/spiritual-bodyguard-snowflake-obsidian-point): Snowflake Obsidian Crystal Point – Spiritual Bodyguard for gemstone collections and personal display.
-  Updated: 2026-10-22T14:13:53Z
+  Updated: 2026-10-29T16:05:05Z
   Vendor: Conscious Items
   Product Type: Crystals & Stones
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/DSC09542-w_1.jpg?v=1788376950
   Price: $11.99 USD
 - [7A Grade Tiger’s Eye Bracelet – Focus & Prosperity](https://thornthimble.shop/products/built-to-win-7a-grade-tiger-s-eye-bracelet): 7A Grade tiger’s eye bracelet with natural reflective movement, for crystal jewelry and intentions of focus, confidence, and prosperity.
-  Updated: 2026-10-22T02:50:20Z
+  Updated: 2026-10-29T19:01:17Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/1D7FBBD1-1BB0-48D3-A636-33F384B6CCCD.png?v=1790980866
   Price: $14.99 USD
 - [Gold or Silver Sheen Obsidian Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/the-upper-hand-gold-silver-sheen-obsidian-points): Gold or Silver Sheen Obsidian Crystal Point for gemstone collections and personal display.
-  Updated: 2026-10-22T14:55:06Z
+  Updated: 2026-10-29T17:58:18Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
@@ -2444,43 +2451,36 @@
   - [Silver Sheen Obsidian](https://thornthimble.shop/products/the-upper-hand-gold-silver-sheen-obsidian-points?variant=46416956719201)
     Availability: Available
     Price: $12.99 USD
-- [Ice Quartz Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/limitless-manifestation-ice-quartz-point): Ice Quartz Crystal Point – Limitless Manifestation for gemstone collections and personal display.
-  Updated: 2026-10-22T02:50:16Z
-  Vendor: Conscious Items
-  Product Type: Crystal Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/902D25AD-875E-4040-BCBD-F9EF23047174.png?v=1790980874
-  Price: $11.99 USD
 - [Golden Healer Quartz Bracelet – Transformation & Renewal](https://thornthimble.shop/products/the-master-reset-golden-healer-quartz-bracelet): Golden Healer quartz bracelet with natural colors and patterns, for crystal jewelry and intentions of transformation and renewal.
-  Updated: 2026-10-22T08:32:54Z
+  Updated: 2026-10-29T20:25:37Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/E1E606EB-DC2E-4BEA-92DB-B1FC70CD857F.png?v=1790966193
   Price: $19.99 USD
 - [Chevron Amethyst Crystal Point | Thorn & Thimble](https://thornthimble.shop/products/cycle-breaker-chevron-amethyst-point-of-transformation): Chevron Amethyst Crystal Point – Cycle Breaker for gemstone collections and personal display.
-  Updated: 2026-10-22T02:50:15Z
+  Updated: 2026-10-29T22:44:58Z
   Vendor: Conscious Items
   Product Type: Crystal Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/8A9AF569-15A7-4FA8-91F5-AF89BB73F9CD.png?v=1790980887
   Price: $11.99 USD
 - [Mahogany Obsidian Bracelet – Grounding & Boundaries](https://thornthimble.shop/products/the-self-sabotage-breaker-mahogany-obsidian-bracelet): Mahogany obsidian bracelet with a polished, earthy appearance, for crystal jewelry and intentions of grounding and personal boundaries.
-  Updated: 2026-10-22T20:37:46Z
+  Updated: 2026-10-29T20:25:36Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/206F617C-6E31-46C7-BCA7-A435BBFA59B4.png?v=1791024482
   Price: $19.99 USD
 - [Howlite, Blue Lace Agate & Rose Quartz Nighttime Bracelet](https://thornthimble.shop/products/3am-thoughts-off-deep-sleep-trio-bracelet): One howlite, blue lace agate, and rose quartz bracelet in white, blue, and blush tones, for quiet journaling and evening reflection.
-  Updated: 2026-10-23T00:31:47Z
+  Updated: 2026-10-30T00:12:46Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0649/2523/7345/files/image_2_1.jpg?v=1788377265
   Price: $16.99 USD
 - [Pink Galaxy Tiger’s Eye & Selenite Bracelet – Focus & Intention](https://thornthimble.shop/products/shape-your-future-pink-galaxy-tiger-s-eye-bracelet): Pink Galaxy tiger’s eye and selenite bracelet for celestial crystal jewelry and intentions of focus and clarity; color and finish vary.
-  Updated: 2026-10-22T02:50:16Z
+  Updated: 2026-10-28T22:08:04Z
   Vendor: Conscious Items
   Product Type: Bracelets
   Availability: Available
@@ -2545,8 +2545,8 @@
 ## Collections
 
 - [All Thorn & Thimble Products](https://thornthimble.shop/collections/full-catalog): Shop all Thorn & Thimble finds: witchy gifts, mystical décor, tarot, crystals, books, games, dice and curious oddities for magical souls.
-  Updated: 2026-10-22T23:10:40Z
-  Total Products: 1884
+  Updated: 2026-10-29T22:09:29Z
+  Total Products: 1886
 - [Garden Flags](https://thornthimble.shop/collections/flags): Shop witchy garden flags with mushrooms, skulls, celestial details and whimsical artwork. Add gothic charm to your porch, patio or garden with Thorn & Thimble.
   Updated: 2026-10-13T08:26:34Z
   Total Products: 16
@@ -2569,7 +2569,7 @@
   Updated: 2026-10-13T08:26:45Z
   Total Products: 23
 - [Spiritual Bracelets](https://thornthimble.shop/collections/bracelets): Shop crystal and gemstone bracelets featuring tiger’s eye, amethyst, quartz and more. Explore beaded styles and bracelet sets for meaningful everyday wear.
-  Updated: 2026-10-22T00:59:11Z
+  Updated: 2026-10-29T18:11:45Z
   Total Products: 106
 - [Labradorite Jewelry](https://thornthimble.shop/collections/labradorite): Shop labradorite necklaces, earrings and bracelets from Parken Jewelry. Explore halo pendants, drop earrings and layering sets with luminous gemstone color.
   Updated: 2026-10-13T08:26:49Z
@@ -2587,34 +2587,34 @@
   Updated: 2026-10-21T13:41:28Z
   Total Products: 213
 - [Cthulhu Collection](https://thornthimble.shop/collections/cthulhu): Shop Cthulhu games, RPG books, dice and accessories. Explore Call of Cthulhu, Death May Die and Lovecraftian gifts for cosmic horror fans and gamers.
-  Updated: 2026-10-22T23:10:40Z
+  Updated: 2026-10-26T18:07:19Z
   Total Products: 92
 - [Refillable Oil Candles](https://thornthimble.shop/collections/oil-candles): Shop scented refillable oil candles inspired by deities, zodiac signs and the elements. Explore individual candles and ritual gift sets at Thorn & Thimble.
   Updated: 2026-10-21T13:31:13Z
   Total Products: 53
 - [Spiritual Crystals](https://thornthimble.shop/collections/crystals): Shop crystals and gemstones for altars, collecting, meditation and mystical décor. Discover colorful stones and meaningful crystal gifts at Thorn & Thimble.
-  Updated: 2026-10-20T16:35:00Z
-  Total Products: 39
+  Updated: 2026-10-29T17:55:29Z
+  Total Products: 40
 - [Magical Fantasy Wands](https://thornthimble.shop/collections/magical_fantasy_wands): Shop decorative fantasy magic wands with Green Man, raven, serpent and celestial designs for cosplay, display and unusual gifts at Thorn & Thimble.
   Updated: 2026-10-08T18:04:11Z
   Total Products: 24
 - [Affordable Gifts Under $20](https://thornthimble.shop/collections/under-20): Find witchy gifts under $20, from crystals and gemstone bracelets to stickers, books and RPG dice. Discover affordable little treasures at Thorn & Thimble.
-  Updated: 2026-10-22T19:38:50Z
-  Total Products: 1064
+  Updated: 2026-10-29T18:19:14Z
+  Total Products: 1068
 - [Unique Gifts $20 - $50](https://thornthimble.shop/collections/gifts-20-50): Explore witchy gifts from $20 to under $50, including candles, spell kits, crystal lamps, games and décor. Find thoughtful gifts for magical souls.
-  Updated: 2026-10-22T08:45:31Z
-  Total Products: 1125
+  Updated: 2026-10-29T22:09:29Z
+  Total Products: 1128
 - [Discover Gifts $50 - $100](https://thornthimble.shop/collections/gifts-50-under-100): Discover witchy gifts from $50 to under $100, including gemstone jewelry, premium dice, statues and ritual finds for collectors, gamers and magical souls.
-  Updated: 2026-10-21T00:54:20Z
-  Total Products: 532
+  Updated: 2026-10-29T15:13:06Z
+  Total Products: 534
 - [Luxury Gifts Over $100](https://thornthimble.shop/collections/gifts-100): Explore witchy gifts $100 and up, including statement gemstone carvings, statues, jewelry and tabletop collectibles for memorable celebrations.
-  Updated: 2026-10-22T23:10:40Z
-  Total Products: 127
+  Updated: 2026-10-28T02:26:37Z
+  Total Products: 131
 - [Esoteric and Occult Books](https://thornthimble.shop/collections/esoteric-occult-books): Explore witchcraft, occult and spiritual books on tarot, astrology, crystals, mythology and more. Browse reading for curious minds and personal practice.
   Updated: 2026-10-06T03:38:48Z
   Total Products: 0
 - [Decorative Statues](https://thornthimble.shop/collections/statues): Shop goddess and pagan altar statues, mythological figures and gothic décor. Discover Hecate, Lilith, Nyx, Gaia and more from Dellamorte & Co.
-  Updated: 2026-10-21T13:31:11Z
+  Updated: 2026-10-28T00:46:38Z
   Total Products: 63
 - [Spell Ingredients](https://thornthimble.shop/collections/oddities-curiosities): Explore spell ingredients, ritual inks, bones, animal oddities and magical notions. Browse curious supplies for spellwork, crafting and personal rituals.
   Updated: 2026-10-21T13:31:17Z
@@ -2623,14 +2623,14 @@
   Updated: 2026-10-08T21:24:47Z
   Total Products: 0
 - [Incense](https://thornthimble.shop/collections/incense-smudge): Shop ritual incense, fragrant resins and incense burners for altars and everyday atmosphere. Explore herbal, floral and earthy scents at Thorn & Thimble.
-  Updated: 2026-10-13T08:28:22Z
+  Updated: 2026-10-28T20:43:04Z
   Total Products: 71
 - [Ritual Brooms](https://thornthimble.shop/collections/ritual-brooms-collection): Shop witch brooms, ritual besoms and cinnamon altar brooms for symbolic cleansing, seasonal rituals and witchy décor. Explore Thorn & Thimble.
-  Updated: 2026-10-13T08:28:24Z
+  Updated: 2026-10-27T01:24:35Z
   Total Products: 37
 - [Curated Bundles](https://thornthimble.shop/collections/curated-bundles): Shop curated gift bundles and witchy gift sets with complementary finds for rituals, hobbies and themed gifting. Explore magical pairings at Thorn & Thimble.
-  Updated: 2026-10-19T10:07:47Z
-  Total Products: 19
+  Updated: 2026-10-28T04:08:00Z
+  Total Products: 24
 - [Altars](https://thornthimble.shop/collections/altars): Explore altar tables, cloths, chests, bells, athames and ritual brooms. Browse supplies for witchcraft, devotional spaces and personal rituals.
   Updated: 2026-10-12T21:08:34Z
   Total Products: 0
@@ -2638,13 +2638,13 @@
   Updated: 2026-10-06T12:00:22Z
   Total Products: 0
 - [Cauldrons & Mortar & Pestles](https://thornthimble.shop/collections/cauldrons-mortar-pestles): Shop witchcraft cauldrons and mortar and pestle sets for preparing herbs, spell ingredients and altar displays. Find ritual tools at Thorn & Thimble.
-  Updated: 2026-10-21T18:34:44Z
+  Updated: 2026-10-25T23:10:09Z
   Total Products: 8
 - [Lamps](https://thornthimble.shop/collections/lamps): Shop crystal lamps featuring selenite, amethyst, quartz and more. Discover tower, halo, heart and gemstone tree designs for atmospheric lighting and décor.
   Updated: 2026-10-10T08:29:34Z
   Total Products: 25
 - [Altar Chests & Boxes](https://thornthimble.shop/collections/altar-chests-boxes): Shop altar boxes and chests for storing crystals, herbs, tarot cards and ritual tools. Organize your sacred space with magical finds from Thorn & Thimble.
-  Updated: 2026-10-17T18:07:51Z
+  Updated: 2026-10-25T10:25:14Z
   Total Products: 11
 - [Altar Tables](https://thornthimble.shop/collections/altar-table): Shop small altar tables with pentagram and triple moon designs for crystals, ritual tools and sacred displays. Create your altar space with Thorn & Thimble.
   Updated: 2026-10-12T21:08:34Z
@@ -2653,7 +2653,7 @@
   Updated: 2026-10-12T21:08:35Z
   Total Products: 6
 - [Bells](https://thornthimble.shop/collections/bells): Shop altar bells and brass ritual bells with triple moon, triquetra and Om designs. Bring sound to your witchcraft practice and sacred space at Thorn & Thimble.
-  Updated: 2026-10-16T15:56:56Z
+  Updated: 2026-10-25T19:22:25Z
   Total Products: 6
 - [Smudge & Cleansing](https://thornthimble.shop/collections/smudge-cleansing): Shop smudge sticks and herbal smoke cleansing bundles for ritual, meditation and aromatic atmosphere. Find your next ritual companion at Thorn & Thimble.
   Updated: 2026-10-19T10:07:48Z
@@ -2674,7 +2674,7 @@
   Updated: 2026-10-12T21:08:41Z
   Total Products: 0
 - [Tarot & Oracle](https://thornthimble.shop/collections/tarot-decks): Shop tarot cards and oracle decks for readings, reflection and collecting. Discover witchy, fantasy and illustrated divination decks at Thorn & Thimble.
-  Updated: 2026-10-21T13:31:15Z
+  Updated: 2026-10-27T13:13:59Z
   Total Products: 111
 - [Pendulums](https://thornthimble.shop/collections/pendulums): Shop crystal and brass pendulums for dowsing, divination and intuitive practice. Explore gemstone styles, chakra pendulums and more at Thorn & Thimble.
   Updated: 2026-10-12T21:08:43Z
@@ -2692,7 +2692,7 @@
   Updated: 2026-10-12T21:08:46Z
   Total Products: 36
 - [Spell Kits](https://thornthimble.shop/collections/spell-kits): Gather the pieces without hunting them down one by one. Explore spell kits that bring together coordinated ritual supplies for specific intentions, practices, and magical workings.
-  Updated: 2026-10-22T19:38:50Z
+  Updated: 2026-10-28T21:42:39Z
   Total Products: 59
 - [Housewares & Mystical Décor](https://thornthimble.shop/collections/housewares): Explore witchy and cottagecore home décor, mugs, blankets, pillows, lamps and statues. Browse mystical housewares and gifts with unusual character.
   Updated: 2026-10-12T21:08:47Z
@@ -2707,7 +2707,7 @@
   Updated: 2026-10-21T00:54:22Z
   Total Products: 70
 - [Premium Dice](https://thornthimble.shop/collections/premium-dice): Shop premium polyhedral D&D dice sets in gemstone, glass, metal and liquid-core styles. Discover collectible RPG dice for your next tabletop adventure.
-  Updated: 2026-10-21T00:54:20Z
+  Updated: 2026-10-28T12:01:31Z
   Total Products: 116
 - [Dice Accessories](https://thornthimble.shop/collections/dice-accessories): Shop dice bags, rolling trays, dice towers and storage cases for D&D and tabletop RPGs. Keep your polyhedral dice organized at Thorn & Thimble.
   Updated: 2026-10-17T02:01:27Z
@@ -2719,67 +2719,67 @@
   Updated: 2026-10-18T11:13:08Z
   Total Products: 36
 - [Munchkin](https://thornthimble.shop/collections/munchkins): Shop Munchkin card games, expansions and themed editions, including Munchkin Warhammer, Scooby-Doo and more. Find tabletop game night favorites at Thorn & Thimble.
-  Updated: 2026-10-19T11:16:22Z
+  Updated: 2026-10-29T01:27:59Z
   Total Products: 79
 - [Miscellaneous Games](https://thornthimble.shop/collections/miscellaneous-games): Shop board games, card games, party games and strategy games for your next game night. Find unusual tabletop games and gamer gifts at Thorn & Thimble.
-  Updated: 2026-10-22T23:10:40Z
+  Updated: 2026-10-29T01:27:59Z
   Total Products: 636
 - [Ritual Inks](https://thornthimble.shop/collections/ritual-inks): Shop ritual inks for spell writing, petitions and sigils, including Dragon's Blood, Dove's Blood, Bat's Blood and black ink at Thorn & Thimble.
   Updated: 2026-10-21T03:24:44Z
   Total Products: 5
 - [Bones & Animal Oddities](https://thornthimble.shop/collections/bones-animal-curios): Shop animal bones, natural curiosities and oddities for witchcraft, altar displays, crafting and curiosity cabinets. Explore Thorn & Thimble.
-  Updated: 2026-10-21T13:38:33Z
+  Updated: 2026-10-29T18:19:14Z
   Total Products: 43
 - [Curios & Notions](https://thornthimble.shop/collections/curios-notions): Shop witchcraft supplies, bottles, pins and ritual notions for spellwork, crafting and altar practice. Explore the witch’s cabinet at Thorn & Thimble.
-  Updated: 2026-10-21T16:40:24Z
+  Updated: 2026-10-29T00:12:28Z
   Total Products: 27
 - [Witchcraft Books](https://thornthimble.shop/collections/witchcraft-books): Shop witchcraft books on spells, Wicca, green witchcraft and folk magic. Explore practical guides, magical traditions and witchcraft history.
-  Updated: 2026-10-20T21:44:59Z
-  Total Products: 58
+  Updated: 2026-10-28T23:51:32Z
+  Total Products: 59
 - [Celtic Spirituality Books](https://thornthimble.shop/collections/celtic-books): Explore Celtic spirituality books on wisdom, mythology, sacred traditions and connection to nature. Discover thoughtful spiritual reading at Thorn & Thimble.
-  Updated: 2026-10-21T23:20:41Z
-  Total Products: 30
+  Updated: 2026-10-29T22:09:29Z
+  Total Products: 32
 - [Ancient Mysteries Books](https://thornthimble.shop/collections/ancient-mysteries-books): Explore ancient mysteries and esoteric books, including The Kybalion and The Books of Enoch. Browse spiritual texts, alternative ideas and hidden knowledge.
   Updated: 2026-10-19T10:34:11Z
   Total Products: 9
 - [Crystals Books](https://thornthimble.shop/collections/crystals-books): Explore crystal books and gemstone guides covering identification, symbolism and spiritual uses. Discover reference books for beginners and crystal lovers.
-  Updated: 2026-10-18T02:05:59Z
+  Updated: 2026-10-27T22:13:40Z
   Total Products: 4
 - [Divination Books](https://thornthimble.shop/collections/divination-books): Shop tarot and divination books on card meanings, spreads, symbolism and intuitive reading. Explore beginner guides and deeper studies for your practice.
-  Updated: 2026-10-22T08:45:31Z
-  Total Products: 59
+  Updated: 2026-10-27T02:05:59Z
+  Total Products: 60
 - [Astrology Books](https://thornthimble.shop/collections/astrology-books): Explore astrology books on birth charts, zodiac signs, planetary aspects and transits. Discover beginner guides, reference works and traditional techniques.
-  Updated: 2026-10-20T02:31:45Z
-  Total Products: 13
+  Updated: 2026-10-24T00:51:22Z
+  Total Products: 14
 - [Angels & Spirit Guide Books](https://thornthimble.shop/collections/angels-books): Explore books on angels, spirit guides, spiritual connection and unseen helpers. Discover folklore, reference works and perspectives on personal guidance.
   Updated: 2026-10-18T14:06:05Z
   Total Products: 8
 - [Magick Studies Books](https://thornthimble.shop/collections/magick-studies-books): Explore magick books on ritual, spellwork, chaos magic and magical theory. Discover practical guides and esoteric studies for a deeper reading practice.
-  Updated: 2026-10-21T23:20:41Z
-  Total Products: 67
+  Updated: 2026-10-28T23:51:32Z
+  Total Products: 69
 - [Occultism Books](https://thornthimble.shop/collections/occultism-books): Explore occult books on esoteric philosophy, sacred symbolism, grimoires and ritual traditions. Discover historical studies and practical perspectives.
-  Updated: 2026-10-20T15:14:11Z
-  Total Products: 33
+  Updated: 2026-10-24T00:51:22Z
+  Total Products: 34
 - [Mysticism Books](https://thornthimble.shop/collections/mysticism-books): Explore mysticism books on spiritual philosophy, consciousness, mystical experience and inner transformation. Find your next read at Thorn & Thimble.
-  Updated: 2026-10-20T15:14:11Z
+  Updated: 2026-10-23T08:27:17Z
   Total Products: 18
 - [Dreams Books](https://thornthimble.shop/collections/dreams-books): Explore dream interpretation books on symbolism, dreamwork and the inner world. Discover psychological and spiritual perspectives for reflective reading.
   Updated: 2026-10-18T14:06:06Z
   Total Products: 4
 - [Healing Books](https://thornthimble.shop/collections/healing-books): Explore spiritual healing and self-care books on mindfulness, grief, energy practices and personal wellbeing. Discover reflective reading across traditions.
-  Updated: 2026-10-18T17:50:25Z
-  Total Products: 53
+  Updated: 2026-10-27T12:51:20Z
+  Total Products: 54
 - [Gaia & Earth Energies Books](https://thornthimble.shop/collections/gaia-books): Explore Earth spirituality and nature magic books on plant lore, natural symbolism and connection to the land. Discover reading inspired by Gaia and nature.
   Updated: 2026-10-18T14:06:04Z
   Total Products: 6
 - [Goddess Worship Books](https://thornthimble.shop/collections/goddess-worship-books): Explore goddess worship books on mythology, devotion, sacred feminine traditions and pagan practice. Discover spiritual perspectives across cultures.
-  Updated: 2026-10-20T21:44:59Z
-  Total Products: 6
+  Updated: 2026-10-27T22:13:39Z
+  Total Products: 7
 - [Candle Spells](https://thornthimble.shop/collections/candle-spells): Shop candle spells and ritual spell candles for protection, love, prosperity and cleansing intentions. Bring candle magic to your altar with Thorn & Thimble.
-  Updated: 2026-10-21T13:36:50Z
+  Updated: 2026-10-29T15:12:28Z
   Total Products: 105
 - [Sacred Oils, Washes & Waters](https://thornthimble.shop/collections/oils-washes-waters): Shop ritual oils, spiritual washes and waters, including Florida Water, for anointing, cleansing rituals and spellwork. Explore Thorn & Thimble.
-  Updated: 2026-10-16T20:48:50Z
+  Updated: 2026-10-28T23:08:04Z
   Total Products: 129
 - [Athames & Bolines](https://thornthimble.shop/collections/athames-bolines): Shop jade athames with owl, tiger and dragon designs for ritual symbolism, ceremonial practice and altar displays. Discover witchcraft tools at Thorn & Thimble.
   Updated: 2026-10-12T21:09:02Z
@@ -2791,13 +2791,13 @@
   Updated: 2026-10-12T21:09:04Z
   Total Products: 49
 - [Gemstone Carvings](https://thornthimble.shop/collections/gemstone-carvings): Shop gemstone and crystal carvings featuring Anubis, Bastet, lucky cats, ankhs and more. Discover carved stone gifts and altar décor at Thorn & Thimble.
-  Updated: 2026-10-12T21:09:05Z
+  Updated: 2026-10-24T00:51:28Z
   Total Products: 29
 - [Leather Journals](https://thornthimble.shop/collections/leather-journals): Shop leather journals for writing, dream records and your Book of Shadows. Discover dragon, moon, pentagram and Tree of Life designs at Thorn & Thimble.
-  Updated: 2026-10-21T13:31:16Z
+  Updated: 2026-10-29T21:49:49Z
   Total Products: 15
 - [Salts, Dirts & Ashes](https://thornthimble.shop/collections/salts-dirts-ashes): Shop ritual salts, graveyard dirt, ashes and curio vials for spellwork, altar use and folk magic. Stock your witch’s cabinet at Thorn & Thimble.
-  Updated: 2026-10-19T10:20:47Z
+  Updated: 2026-10-29T00:12:29Z
   Total Products: 9
 - [Dried Herbs & Flowers](https://thornthimble.shop/collections/dried-herbs-flowers): Shop dried herbs and flowers for witchcraft, spellwork, ritual and botanical crafts. Stock your witch’s cabinet with magical botanicals at Thorn & Thimble.
   Updated: 2026-10-21T13:39:48Z
@@ -2812,8 +2812,8 @@
   Updated: 2026-10-12T21:09:08Z
   Total Products: 1
 - [Recommended products (Seguno)](https://thornthimble.shop/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-22T23:11:15Z
-  Total Products: 1824
+  Updated: 2026-10-29T22:09:58Z
+  Total Products: 1834
 
 ## Blogs
 
@@ -2893,6 +2893,18 @@
     Updated: 2026-10-21T00:08:30Z
     Author: — Loretta, Human Dark Overlord
     Tags: essential herbs for witches, herbal ingredients, herbs, magical tools, spells, unique gifts for aspiring witches, witchcraft, witchy gifts
+  - [Master the Art of Dice Rolling in Your RPG Adventure](https://thornthimble.shop/blogs/news/master-the-art-of-dice-rolling-in-your-rpg-adventure): Master the Art of Dice Rolling in Your RPG Adventure
+    Updated: 2026-10-24T00:03:08Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: adventure, best dice for rpg, dice, dice rolling, game mechanics, mastering dice rolls, rpg, rpg strategy
+  - [DIY Witchy Gifts: Crafting Your Own Spell Jars and Enchanted Infusions](https://thornthimble.shop/blogs/news/diy-witchy-gifts-crafting-your-own-spell-jars-and-enchanted-infusions): DIY Witchy Gifts: Crafting Your Own Spell Jars and Enchanted Infusions
+    Updated: 2026-10-26T00:08:27Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: crafting spell ingredients, diy spell jars, enchanted infusions, herbs, spell jars, spells, witchcraft, witchy gifts
+  - [The History and Symbolism Behind Witchcraft's Most Revered Ritual Items](https://thornthimble.shop/blogs/news/the-history-and-symbolism-behind-witchcrafts-most-revered-ritual-items): The History and Symbolism Behind Witchcraft's Most Revered Ritual Items
+    Updated: 2026-10-28T00:10:17Z
+    Author: — Loretta, Human Dark Overlord
+    Tags: historical witchcraft practices, ritual items meaning, rituals, significance of witchcraft symbols, spell ingredients, spells, witchcraft, witchy gifts
 
 ## Store Pages
 
