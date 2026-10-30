@@ -6,14 +6,14 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-04T21:45:03Z
 - Contact Email: hello@maisonandi.com
-- Updated At: 2026-10-23T00:38:45.262Z
+- Updated At: 2026-10-30T00:57:00.119Z
 
 ## Products
 
 - [Elysia Eco One-Piece | Gender-Neutral Swimwear](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-mineral-green): Swimwear designed for every body, beyond binaries. The Elysia features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-09-29T03:33:16Z
+  Updated: 2026-10-30T00:14:43Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: One-Piece Swimsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/marsha-one-piece-mineral-green-on-model-side.jpg?v=1770678859
   - [XS](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-mineral-green?variant=43106255143023)
@@ -32,9 +32,9 @@
     Availability: Available
     Price: €89.95 EUR
 - [Elysia Eco One-Piece | Gender-Neutral Swimwear](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-terracotta-red): Swimwear designed for every body, beyond binaries. The Elysia features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-10-19T17:05:52Z
+  Updated: 2026-10-30T00:14:44Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: One-Piece Swimsuit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/marsha-one-piece-terracotta-on-model-front-2.jpg?v=1769964122
   - [XS](https://www.maisonandi.com/products/elysia-gender-neutral-one-piece-swimsuit-terracotta-red?variant=43108982620271)
@@ -53,9 +53,9 @@
     Availability: Available
     Price: €89.95 EUR
 - [Slim Fit Cotton T-Shirt – " Nature Is Queer " Graphic](https://www.maisonandi.com/products/at-shirt-nature-is-queer): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
-  Updated: 2026-09-22T23:59:51Z
+  Updated: 2026-10-30T00:14:44Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/t-shirt-nature-is-queer-closeup-model.jpg?v=1769964122
   - [S](https://www.maisonandi.com/products/at-shirt-nature-is-queer?variant=43112040366191)
@@ -68,9 +68,9 @@
     Availability: Available
     Price: €34.95 EUR
 - [Anthias Eco Swim Top | Gender-Neutral Swimwear](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-terracotta-red): Swimwear designed for every body, beyond binaries. The Anthias features Soft Compression for a secure, gender-affirming fit. Inclusive, sustainable and flattening.
-  Updated: 2026-10-19T16:59:27Z
+  Updated: 2026-10-30T00:14:45Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Swim Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/swim-top-audre-terracotta-red-front-model-2.jpg?v=1769964122
   - [XS](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-terracotta-red?variant=43112047050863)
@@ -89,9 +89,9 @@
     Availability: Available
     Price: €45.95 EUR
 - [Coris Eco Knotted Bikini Bottom | Gender-Neutral Swimwear](https://www.maisonandi.com/products/coris-gender-neutral-knotted-bikini-bottom-mineral-green): Swimwear designed for every body, beyond binaries. The Coris features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-10-19T16:59:27Z
+  Updated: 2026-10-29T21:45:37Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Bikini Bottom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/bikini-bottom-coris-mineral-green-side-model.jpg?v=1770594486
   - [XS](https://www.maisonandi.com/products/coris-gender-neutral-knotted-bikini-bottom-mineral-green?variant=43112056422511)
@@ -110,9 +110,9 @@
     Availability: Available
     Price: €49.95 EUR
 - [Coris Eco Knotted Bikini Bottom | Gender-Neutral Swimwear](https://www.maisonandi.com/products/coris-gender-neutral-knotted-bikini-bottom-terracotta-red): Swimwear designed for every body, beyond binaries. The Coris features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-10-19T16:59:26Z
+  Updated: 2026-10-29T21:44:37Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Bikini Bottom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/bikini-bottom-coris-terracotta-red-side-model.jpg?v=1770602081
   - [XS](https://www.maisonandi.com/products/coris-gender-neutral-knotted-bikini-bottom-terracotta-red?variant=43112057012335)
@@ -131,9 +131,9 @@
     Availability: Available
     Price: €49.95 EUR
 - [Anthias Eco Swim Top | Gender-Neutral Swimwear](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-mineral-green): Swimwear designed for every body, beyond binaries. The Anthias features Soft Compression for a secure, gender-affirming fit. Inclusive, sustainable and flattening.
-  Updated: 2026-09-17T03:06:32Z
+  Updated: 2026-10-30T00:14:48Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Swim Top
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/swim-top-audre-mineralgreen-side-model.jpg?v=1769964122
   - [XS](https://www.maisonandi.com/products/anthias-gender-netural-scoop-neck-swim-top-mineral-green?variant=43112116224111)
@@ -152,9 +152,9 @@
     Availability: Available
     Price: €45.95 EUR
 - [Slim Fit Cotton T-Shirt Short Sleeve –  Esssential](https://www.maisonandi.com/products/plain-sleevless-t-shirt): Classic off-white tee with androgynous fit and gender-free style. Soft cotton for everyday wear.
-  Updated: 2026-10-07T22:00:57Z
+  Updated: 2026-10-30T00:14:48Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/t-shirt-plain-off-white-front-model-closeup.jpg?v=1769964122
   - [S](https://www.maisonandi.com/products/plain-sleevless-t-shirt?variant=43112122777711)
@@ -167,9 +167,9 @@
     Availability: Available
     Price: €34.95 EUR
 - [maison andi E-Gift Card](https://www.maisonandi.com/products/e-gift-card): Give the gift of feeling good in your own skin.The maison andi e-gift card lets your loved one choose pieces that fit their identity and their style.
-  Updated: 2026-06-02T14:53:05Z
+  Updated: 2026-10-30T00:14:48Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Gift Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/e-gift-card-maisonandi-e-carte-cadeau.jpg?v=1763675753
   - [€35.00](https://www.maisonandi.com/products/e-gift-card?variant=43856387735663)
@@ -188,9 +188,9 @@
     Availability: Available
     Price: €150.00 EUR
 - [Doris Eco Long-Sleeve Crop Top Rash Guard | Gender-Neutral Swimwear](https://www.maisonandi.com/products/doris-gender-neutral-long-sleeve-swim-crop-top-rash-guard-mineral-green): Swimwear designed for every body, beyond binaries. The Doris features Long sleeves and a crop top style for a gender-affirming fit. Inclusive and sustainable.
-  Updated: 2026-09-17T03:05:57Z
+  Updated: 2026-10-29T21:46:53Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Rash Guard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/gender-neutral-nonbinary-Doris-long-sleeve-swim-crop-top-rashguard-mineral-green-side-Venus-striped-bikini-bottom-sustainable.jpg?v=1772629651
   - [XS](https://www.maisonandi.com/products/doris-gender-neutral-long-sleeve-swim-crop-top-rash-guard-mineral-green?variant=52757978185839)
@@ -209,9 +209,9 @@
     Availability: Available
     Price: €65.95 EUR
 - [Doris Eco Long-Sleeve Crop Top Rash Guard | Gender-Neutral Swimwear](https://www.maisonandi.com/products/doris-gender-neutral-long-sleeve-swim-crop-top-rash-guard-terracotta-red): Swimwear designed for every body, beyond binaries. The Doris features Long sleeves and a crop top style for a gender-affirming fit. Inclusive and sustainable.
-  Updated: 2026-09-29T03:33:38Z
+  Updated: 2026-10-30T00:14:51Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Rash Guard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/Gender-Neutral-nonbinary-Doris-long-sleeve-dswim-crop-top-rashguard-terracotta-red-closeup-sustainable-Venus-striped-bikini-bottom-front.jpg?v=1772628438
   - [XS](https://www.maisonandi.com/products/doris-gender-neutral-long-sleeve-swim-crop-top-rash-guard-terracotta-red?variant=52758011674735)
@@ -230,9 +230,9 @@
     Availability: Available
     Price: €65.95 EUR
 - [Venus Eco Striped Bikini Bottom | Gender-Neutral Swimwear](https://www.maisonandi.com/products/venus-gender-neutral-eco-striped-bikini-bottom-mineral-green): Swimwear designed for every body, beyond binaries. The Venus features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-09-29T03:32:54Z
+  Updated: 2026-10-29T21:46:33Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Bikini Bottom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/Gender-Neutral-Nonbinary-Venus-Eco-sustainable-Striped-Bikini-Bottom-mineral-green-front-detail.jpg?v=1772625288
   - [XS](https://www.maisonandi.com/products/venus-gender-neutral-eco-striped-bikini-bottom-mineral-green?variant=52761789890671)
@@ -251,9 +251,9 @@
     Availability: Available
     Price: €49.95 EUR
 - [Venus Eco Striped Bikini Bottom | Gender Neutral Swimwear](https://www.maisonandi.com/products/venus-gender-neutral-eco-striped-bikini-bottom-terracotta-red): Swimwear designed for every body, beyond binaries. The Venus features Anatomical Coverage for a secure, gender-affirming fit. Inclusive, sustainable and tuck-friendly.
-  Updated: 2026-10-19T16:59:27Z
+  Updated: 2026-10-29T21:46:07Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: Bikini Bottom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/gender-neutral-bikini-bottom-terracotta-red-striped-venus.jpg?v=1772620903
   - [XS](https://www.maisonandi.com/products/venus-gender-neutral-eco-striped-bikini-bottom-terracotta-red?variant=52761790218351)
@@ -272,9 +272,9 @@
     Availability: Available
     Price: €49.95 EUR
 - [Slim Fit Cotton T-Shirt – "Nature Is Queer"](https://www.maisonandi.com/products/nature-is-queer-flower-slim-fit-cotton-t-shirt): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
-  Updated: 2026-09-17T22:53:22Z
+  Updated: 2026-10-30T00:14:51Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/ECOMM-filtrechaud-140.jpg?v=1776602759
   - [S](https://www.maisonandi.com/products/nature-is-queer-flower-slim-fit-cotton-t-shirt?variant=52969981673583)
@@ -287,9 +287,9 @@
     Availability: Available
     Price: €35.95 EUR
 - [Slim Fit Cotton T-Shirt – “Mother Nature Is a Lesbian”](https://www.maisonandi.com/products/mother-nature-slim-fit-cotton-t-shirt): Androgynous off-white t-shirt with bold "Nature is queer" statement. Regular fit, gender-inclusive and expressive.
-  Updated: 2026-09-22T12:06:41Z
+  Updated: 2026-10-30T00:14:52Z
   Vendor: maison andi
-  Product Type: 
+  Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/4035/7487/files/ECOMM-filtrechaud-129.jpg?v=1776602945
   - [S](https://www.maisonandi.com/products/mother-nature-slim-fit-cotton-t-shirt?variant=52969982066799)
@@ -305,34 +305,34 @@
 ## Collections
 
 - [Marsha One Piece Swimsuit Sibiling](https://www.maisonandi.com/collections/siblings-marsha-onepiece-swimsuit)
-  Updated: 2026-09-21T14:01:44Z
+  Updated: 2026-10-29T12:14:41Z
   Total Products: 2
 - [Audre Swim Scoop Neck Top Sibling](https://www.maisonandi.com/collections/sibling-audre-swim-scoop-neck-top)
-  Updated: 2026-09-16T15:12:18Z
+  Updated: 2026-10-29T12:14:44Z
   Total Products: 2
 - [Sylvia Tucking-Friendly Knot Bikini Bottom Sibling](https://www.maisonandi.com/collections/sibling-sylvia-knot-bikini-bottom)
-  Updated: 2026-09-16T15:09:21Z
+  Updated: 2026-10-29T12:14:43Z
   Total Products: 2
 - [Terracota Red](https://www.maisonandi.com/collections/terracotta-red)
-  Updated: 2026-09-21T14:01:44Z
+  Updated: 2026-10-29T12:14:48Z
   Total Products: 5
 - [Mineral Green](https://www.maisonandi.com/collections/mineral-green)
-  Updated: 2026-09-22T11:59:47Z
+  Updated: 2026-10-29T12:14:47Z
   Total Products: 6
 - [Skin-Wear™ : Swimwear for Freedom of Movement](https://www.maisonandi.com/collections/skin-wear): Discover Skin-Wear™ : swimwear designed for secure movement. Gender-neutral and non-binary swimwear engineered with soft compression and anatomical coverage.
-  Updated: 2026-10-07T10:11:39Z
+  Updated: 2026-10-29T12:14:49Z
   Total Products: 15
 - [T-shirt sibling](https://www.maisonandi.com/collections/sibling-t-shirt)
-  Updated: 2026-10-07T10:00:54Z
+  Updated: 2026-10-29T12:14:49Z
   Total Products: 4
 - [Sibling Doris Eco Long-Sleeve Swim Crop Top Rash Guard](https://www.maisonandi.com/collections/sibling-doris-top)
-  Updated: 2026-09-16T15:05:34Z
+  Updated: 2026-10-29T12:14:47Z
   Total Products: 2
 - [Sibling Venus Striped Bikini Bottom](https://www.maisonandi.com/collections/sibling-venus-striped-bikini-bottom)
-  Updated: 2026-09-16T15:33:09Z
+  Updated: 2026-10-29T12:14:48Z
   Total Products: 2
 - [Pride Capsule](https://www.maisonandi.com/collections/pride-capsule)
-  Updated: 2026-10-07T10:00:54Z
+  Updated: 2026-10-29T12:14:49Z
   Total Products: 4
 
 ## Blogs
@@ -474,7 +474,13 @@
     Updated: 2026-10-21T09:52:27Z
     Author: andi
   - [History of Anatomical Design in Gender-Affirming Clothing](https://www.maisonandi.com/blogs/journal/history-of-anatomical-design-in-gender-affirming-clothing): History of Anatomical Design in Gender-Affirming Clothing
-    Updated: 2026-10-21T18:00:46Z
+    Updated: 2026-10-28T11:06:32Z
+    Author: andi
+  - [Technical Secrets of Non-Binary Swimwear Material Engineering](https://www.maisonandi.com/blogs/journal/technical-secrets-of-non-binary-swimwear-material-engineering): Technical Secrets of Non-Binary Swimwear Material Engineering
+    Updated: 2026-10-28T11:11:35Z
+    Author: andi
+  - [The Art of Anatomical Design in Gender-Affirming Swimwear](https://www.maisonandi.com/blogs/journal/the-art-of-anatomical-design-in-gender-affirming-swimwear): The Art of Anatomical Design in Gender-Affirming Swimwear
+    Updated: 2026-10-28T18:01:31Z
     Author: andi
 
 ## Store Pages
