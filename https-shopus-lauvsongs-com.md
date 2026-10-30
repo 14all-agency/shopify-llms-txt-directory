@@ -83,26 +83,26 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-06-14T16:33:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:49:53.142Z
+- Updated At: 2026-10-30T01:27:04.343Z
 
 ## Products
 
 - [First Heartbreak Blanket](https://shopus.lauvsongs.com/products/first-heartbreak-blanket): 50x60" woven blanket
-  Updated: 2026-10-13T15:48:03Z
+  Updated: 2026-10-28T20:11:01Z
   Vendor: Lauv
   Product Type: Blanket
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVFHBlanket.png?v=1726071667
   Price: $55.00 USD
 - [Lauv = Love Hat](https://shopus.lauvsongs.com/products/lauv-love-hat): Mesh-back trucker hat
-  Updated: 2026-10-13T15:48:03Z
+  Updated: 2026-10-28T20:10:55Z
   Vendor: Lauv
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0607/9466/7059/files/LAUVlovehat_ae8ec62c-f582-41ce-9f94-1859e4284b47.png?v=1726172757
   Price: $25.00 USD
 - [Lauv = Love Tee](https://shopus.lauvsongs.com/products/lauv-love-tee): Heavyweight, garment-dyed t-shirt. 100% USA cotton, made in Los Angeles. Size Chart Size Body Length (in) Chest Width (in) S 27 3/4 19 M 28 1/2 21 L 29 1/2 23 XL 30 1/2 24 3/4 2XL 31 1/4 26 1/2 3XL 32 1/4 28 1/2
-  Updated: 2026-10-05T19:10:13Z
+  Updated: 2026-10-28T20:11:36Z
   Vendor: Lauv
   Product Type: T-Shirt
   Availability: Available
@@ -256,7 +256,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Logo Hoodie](https://shopus.lauvsongs.com/products/logo-hoodie): 80/20 cotton/recycled polyester hoodie in black
-  Updated: 2026-10-13T15:48:10Z
+  Updated: 2026-10-27T06:03:33Z
   Vendor: Lauv
   Product Type: Hoodie
   Availability: Available
@@ -297,7 +297,7 @@ your agent can transact everywhere.
   Updated: 2026-10-13T15:48:13Z
   Total Products: 8
 - [Apparel](https://shopus.lauvsongs.com/collections/apparel)
-  Updated: 2026-10-13T15:48:12Z
+  Updated: 2026-10-27T11:11:21Z
   Total Products: 10
 - [Accessories](https://shopus.lauvsongs.com/collections/accessories)
   Updated: 2026-10-13T15:48:13Z
@@ -309,7 +309,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:19:36Z
   Total Products: 0
 - [All](https://shopus.lauvsongs.com/collections/all)
-  Updated: 2026-10-13T15:48:13Z
+  Updated: 2026-10-27T11:11:21Z
   Total Products: 13
 - [First Heartbreak](https://shopus.lauvsongs.com/collections/first-heartbreak)
   Updated: 2026-10-13T15:48:06Z
@@ -318,10 +318,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:19:37Z
   Total Products: 0
 - [New](https://shopus.lauvsongs.com/collections/new)
-  Updated: 2026-10-13T15:48:13Z
+  Updated: 2026-10-27T11:11:21Z
   Total Products: 16
 - [2026 Tour Merch](https://shopus.lauvsongs.com/collections/songs-i-couldnt-forget-collection)
-  Updated: 2026-10-13T15:48:13Z
+  Updated: 2026-10-27T11:11:21Z
   Total Products: 9
 
 ## Store Pages
