@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-08-24T11:32:05Z
 - Contact Email: support@carteluxventures.com
-- Updated At: 2026-10-23T00:32:29.941Z
+- Updated At: 2026-10-30T01:01:59.294Z
 
 ## Products
 
