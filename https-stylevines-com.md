@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-03T23:30:58Z
 - Contact Email: stylevinesfashion@gmail.com
-- Updated At: 2026-10-23T00:35:45.704Z
+- Updated At: 2026-10-30T01:16:58.953Z
 
 ## Products
 
@@ -303,50 +303,6 @@
   - [XL](https://stylevines.com/products/coq2-6-026-id-60483?variant=48963585867968)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60483.jpg?v=1791231583
-    Price: $18.50 USD
-- [By Design Open Cardigan Sweater for Everyday Ease](https://stylevines.com/products/coq2-6-1848bg-id-60476): Effortlessly style up with the By Design Open Cardigan Sweater. Its breathable fabric and printed design will elevate your everyday outfits.
-  Updated: 2026-10-14T13:32:17Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
-  - [S](https://stylevines.com/products/coq2-6-1848bg-id-60476?variant=48963585933504)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
-    Price: $18.50 USD
-  - [M](https://stylevines.com/products/coq2-6-1848bg-id-60476?variant=48963585966272)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
-    Price: $18.50 USD
-  - [L](https://stylevines.com/products/coq2-6-1848bg-id-60476?variant=48963585999040)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
-    Price: $18.50 USD
-  - [XL](https://stylevines.com/products/coq2-6-1848bg-id-60476?variant=48963586031808)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60476.jpg?v=1791231600
-    Price: $18.50 USD
-- [By Design Pull Over Sweater for Cozy Charm](https://stylevines.com/products/coq2-6-1315fl-id-60482): Embrace comfort with the By Design Pull Over Sweater. Its feminine floral design and lightweight knit make it a cozy favorite for any season.
-  Updated: 2026-10-21T12:23:42Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
-  - [S](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586261184)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
-    Price: $18.50 USD
-  - [M](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586293952)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
-    Price: $18.50 USD
-  - [L](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586326720)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
-    Price: $18.50 USD
-  - [XL](https://stylevines.com/products/coq2-6-1315fl-id-60482?variant=48963586359488)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60482.jpg?v=1791231618
     Price: $18.50 USD
 - [Paisley Pattern Fringe Poncho for Bold Style](https://stylevines.com/products/wh2hda-ms0319-id-wh2250535): Make a statement with our Paisley Pattern Fringe Poncho. Its vibrant print and cozy design are perfect for layering—get yours today!
   Updated: 2026-10-05T20:21:40Z
@@ -651,7 +607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60154.jpg?v=1791232170
     Price: $51.40 USD
 - [High Rise Colored Western Barrel Jeans for Unique Style](https://stylevines.com/products/sai2-14-p8265-id-60144): Stand out in our high-rise colored western barrel jeans. Modern shape with vibrant prints for a fresh take on western fashion. Shop today!
-  Updated: 2026-10-05T20:31:12Z
+  Updated: 2026-10-29T10:06:56Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -665,7 +621,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60144.jpg?v=1791232214
     Price: $51.80 USD
   - [L](https://stylevines.com/products/sai2-14-p8265-id-60144?variant=48966497534144)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60144.jpg?v=1791232214
     Price: $51.80 USD
   - [XL](https://stylevines.com/products/sai2-14-p8265-id-60144?variant=48966497566912)
@@ -757,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60119_8154c46c-ec88-433d-af60-1d19e25b5f06.jpg?v=1791232344
     Price: $55.40 USD
 - [Distressed Denim Jeans with Raw Hem and 5 Pockets](https://stylevines.com/products/umg2-32-j4097-id-55135): Upgrade your casual style with our distressed denim jeans. Featuring a raw hem and multiple pockets, they balance fashion and function effortlessly!
-  Updated: 2026-10-05T20:34:37Z
+  Updated: 2026-10-23T18:18:01Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -783,7 +739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC55135.jpg?v=1791232453
     Price: $15.40 USD
 - [Panel Straight Cut Denim Jeans with Pockets](https://stylevines.com/products/umg2-j4068-id-54234c): Step out in style with our panel straight cut denim jeans. Designed for comfort and a flattering fit, they’re perfect for everyday wear. Get yours now!
-  Updated: 2026-10-05T20:34:47Z
+  Updated: 2026-10-27T09:12:57Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -809,7 +765,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234C.jpg?v=1791232481
     Price: $13.80 USD
 - [Panel Straight Cut Denim Jeans with Pockets for Trendy Wear](https://stylevines.com/products/umg2-j4068-id-54234b): Enhance your wardrobe with our stylish panel straight cut jeans. Comfortable and practical with pockets, they’re ideal for any outfit. Shop today!
-  Updated: 2026-10-14T13:30:39Z
+  Updated: 2026-10-27T09:12:51Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -827,7 +783,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234B.jpg?v=1791232491
     Price: $13.80 USD
   - [7](https://stylevines.com/products/umg2-j4068-id-54234b?variant=48966501138624)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234B.jpg?v=1791232491
     Price: $13.80 USD
   - [9](https://stylevines.com/products/umg2-j4068-id-54234b?variant=48966501171392)
@@ -835,7 +791,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234B.jpg?v=1791232491
     Price: $13.80 USD
 - [Versatile Panel Straight Cut Denim Jeans with Pockets](https://stylevines.com/products/umg2-j4068-id-54234a): Discover comfort and style with our panel straight cut denim jeans. Perfectly tailored and pocketed for everyday versatility. Explore your style now!
-  Updated: 2026-10-05T20:35:12Z
+  Updated: 2026-10-28T09:15:21Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -849,7 +805,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234A.jpg?v=1791232501
     Price: $13.80 USD
   - [5](https://stylevines.com/products/umg2-j4068-id-54234a?variant=48966502219968)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54234A.jpg?v=1791232501
     Price: $13.80 USD
   - [7](https://stylevines.com/products/umg2-j4068-id-54234a?variant=48966502252736)
@@ -968,24 +924,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC51977B.jpg?v=1791232738
     Price: $19.80 USD
-- [Animal Skin Vinyl Ankle Pants for Bold Style](https://stylevines.com/products/car2-24-9549pk_13-id-56112b): Make a statement with our fierce animal skin vinyl pants. Stylish and edgy, these are perfect for showcasing your unique fashion sense!
-  Updated: 2026-10-05T20:39:04Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC56112B.jpg?v=1791232743
-  - [S](https://stylevines.com/products/car2-24-9549pk_13-id-56112b?variant=48966517096640)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC56112B.jpg?v=1791232743
-    Price: $14.40 USD
-  - [M](https://stylevines.com/products/car2-24-9549pk_13-id-56112b?variant=48966517129408)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC56112B.jpg?v=1791232743
-    Price: $14.40 USD
-  - [L](https://stylevines.com/products/car2-24-9549pk_13-id-56112b?variant=48966517162176)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC56112B.jpg?v=1791232743
-    Price: $14.40 USD
 - [Side Slit Detail Wide Leg Pants for Effortless Style](https://stylevines.com/products/car2-8147pw-id-40268): Elevate your wardrobe with our chic Side Slit Detail Wide Leg Pants. Enjoy style and comfort with every wear. Shop now!
   Updated: 2026-10-05T20:39:19Z
   Vendor: Style Vines
@@ -1339,7 +1277,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252557.jpg?v=1791233075
     Price: $15.00 USD
 - [Ultra Soft Jegging Jeans for All-Day Comfort](https://stylevines.com/products/gla2-6-gp506-id-59672): Enjoy all-day wear with our Ultra Soft Jegging Jeans. Combines comfort and style seamlessly. Try them today for a perfect fit!
-  Updated: 2026-10-05T20:46:03Z
+  Updated: 2026-10-23T18:17:46Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -1573,24 +1511,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159D.jpg?v=1791233537
     Price: $15.40 USD
-- [Plaid Buttoned Shacket Coat - Bold & Fashionable](https://stylevines.com/products/iri2-6-hmj20973a-id-59112): Embrace style with our Plaid Buttoned Shacket Coat. Warm and trendy, this eye-catching piece is perfect for any casual outing. Get yours now!
-  Updated: 2026-10-05T20:53:10Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59112.jpg?v=1791233566
-  - [S](https://stylevines.com/products/iri2-6-hmj20973a-id-59112?variant=48966539903168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59112.jpg?v=1791233566
-    Price: $15.40 USD
-  - [M](https://stylevines.com/products/iri2-6-hmj20973a-id-59112?variant=48966539935936)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59112.jpg?v=1791233566
-    Price: $15.40 USD
-  - [L](https://stylevines.com/products/iri2-6-hmj20973a-id-59112?variant=48966539968704)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59112.jpg?v=1791233566
-    Price: $15.40 USD
 - [Solid Woven Blazer Jacket - Elegant Versatility](https://stylevines.com/products/pro2-njc0406-id-53081b): Discover our Solid Woven Blazer Jacket for a timeless look. Effortlessly chic, this piece elevates any ensemble. Shop the sophistication today!
   Updated: 2026-10-05T20:53:27Z
   Vendor: Style Vines
@@ -1736,7 +1656,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60640.jpg?v=1791234839
     Price: $78.00 USD
 - [Passion Bloom Ruched Dress for Bold Elegance](https://stylevines.com/products/dio2-6-imd70653_007-id-60631a): Make a statement in the Passion Bloom Ruched Dress, featuring a figure-enhancing design. Elevate your style with a beautiful twist.
-  Updated: 2026-10-05T21:14:41Z
+  Updated: 2026-10-29T10:07:17Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
@@ -3044,13 +2964,13 @@
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60163B.jpg?v=1791236517
     Price: $41.40 USD
 - [Washed Poly Silk Asymmetrical Drawstring Top - Style Vines](https://stylevines.com/products/tyc2-6-t-9100-id-60207a): Product Description:Contemporary and polished, the Washed Poly Silk Asymmetrical Drawstring Top offers a sleek take on everyday dressing. Crafted from soft
-  Updated: 2026-10-08T03:36:24Z
+  Updated: 2026-10-29T10:07:03Z
   Vendor: Style Vines
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60207A.jpg?v=1791236541
   - [S](https://stylevines.com/products/tyc2-6-t-9100-id-60207a?variant=48966616711360)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60207A.jpg?v=1791236541
     Price: $37.80 USD
   - [M](https://stylevines.com/products/tyc2-6-t-9100-id-60207a?variant=48966616744128)
@@ -3133,24 +3053,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60163.jpg?v=1791236617
     Price: $41.40 USD
-- [Off The Shoulder Crisscross Ribbed Top – Stylish & Versatile](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058): Embrace modern femininity with the Off The Shoulder Crisscross Top. Enjoy comfort and style, making it a wardrobe essential. Discover your new favorite top.
-  Updated: 2026-10-08T12:19:42Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
-  - [S](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058?variant=48966618775744)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
-    Price: $14.40 USD
-  - [M](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058?variant=48966618808512)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
-    Price: $14.40 USD
-  - [L](https://stylevines.com/products/acg2-6-acgla20259161711-id-60058?variant=48966618841280)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC60058.jpg?v=1791236635
-    Price: $14.40 USD
 - [Essential Short Sleeve Round Neck T Shirt for Everyday Style](https://stylevines.com/products/wh2cla-bt5564-id-wh200249549): The perfect layering piece, this Short Sleeve T-Shirt offers comfort and a clean look. Dress it up or keep it casual, it's an ultimate wardrobe staple.
   Updated: 2026-10-05T21:46:01Z
   Vendor: Style Vines
@@ -3367,24 +3269,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH200249559B.jpg?v=1791236863
     Price: $17.00 USD
-- [Long Sleeve Linen Blend Shirt for Comfort & Style](https://stylevines.com/products/act2-6-t14227-id-59320): Our Long Sleeve Linen Blend Shirt offers lightweight comfort and sophistication. Ideal for layering—explore this versatile piece today!
-  Updated: 2026-10-05T21:54:47Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59320.jpg?v=1791237263
-  - [S](https://stylevines.com/products/act2-6-t14227-id-59320?variant=48966627918016)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59320.jpg?v=1791237263
-    Price: $16.00 USD
-  - [M](https://stylevines.com/products/act2-6-t14227-id-59320?variant=48966627950784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59320.jpg?v=1791237263
-    Price: $16.00 USD
-  - [L](https://stylevines.com/products/act2-6-t14227-id-59320?variant=48966627983552)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59320.jpg?v=1791237263
-    Price: $16.00 USD
 - [Lightweight Long Sleeve Linen Blend Shirt for Everyday](https://stylevines.com/products/act2-6-t14227-id-59320b): The Long Sleeve Linen Blend Shirt is soft and breathable, perfect for any season. Discover your new favorite shirt and shop now!
   Updated: 2026-10-05T21:55:16Z
   Vendor: Style Vines
@@ -3863,7 +3747,110 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2250528.jpg?v=1791237951
   Price: $10.00 USD
-[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU3MzI2NTI4LCJsYXN0X3ZhbHVlIjoiODcyNjk1NzMyNjUyOCJ9)
+- [Straight Knit Gloves for Warmth and Comfort](https://stylevines.com/products/wh2hda-ygg220124-id-wh2251274): Stay cozy with our Straight Knit Gloves. Their classic design ensures versatile style and comfort. Perfect for cooler days, grab yours now!
+  Updated: 2026-10-05T22:05:59Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251274.jpg?v=1791237958
+  Price: $17.00 USD
+- [Light Cotton Plaid Gloves for Stylish Warmth](https://stylevines.com/products/wh2hda-bgt120169-id-wh2251326): Elevate your winter outfits with our Light Cotton Plaid Gloves. Enjoy breathable comfort and trendy design. Shop now to stay stylish!
+  Updated: 2026-10-05T22:06:21Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251326.jpg?v=1791237963
+  - [Blue](https://stylevines.com/products/wh2hda-bgt120169-id-wh2251326?variant=48966895993024)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251326.jpg?v=1791237963
+    Price: $15.00 USD
+  - [Ivory](https://stylevines.com/products/wh2hda-bgt120169-id-wh2251326?variant=48966896025792)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251326A.jpg?v=1791237969
+    Price: $15.00 USD
+  - [Pink](https://stylevines.com/products/wh2hda-bgt120169-id-wh2251326?variant=48966896058560)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251326B.jpg?v=1791237975
+    Price: $15.00 USD
+- [Cotton Plaid Gloves for Classic Winter Style](https://stylevines.com/products/wh2hda-bgt120165-id-wh2251327): Stay warm and fashionable with our Cotton Plaid Gloves. Their timeless design adds charm to any outfit. Discover the comfort today!
+  Updated: 2026-10-05T22:06:38Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251327.jpg?v=1791237986
+  Price: $15.00 USD
+- [Soft Fur Plaid Gloves for Cozy Elegance](https://stylevines.com/products/wh2hda-bgt120025-id-wh2251328): Embrace winter with our Soft Fur Plaid Gloves. Their plush design provides warmth and sophistication. Elevate your accessories collection!
+  Updated: 2026-10-05T22:06:44Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251328.jpg?v=1791238003
+  Price: $15.00 USD
+- [Plain Fingerless Gloves for Practical Comfort](https://stylevines.com/products/wh2hda-sbg2753-id-wh2251329): Our Plain Fingerless Gloves offer warmth without sacrificing movement. Ideal for casual outfits, they’re a must-have for versatile style!
+  Updated: 2026-10-05T22:06:57Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251329.jpg?v=1791238010
+  Price: $13.00 USD
+- [Leopard Print Mittens for Fashionable Warmth](https://stylevines.com/products/wh2hda-bgm120118-id-wh2251890): Show off your style with our Leopard Print Mittens. They combine cozy comfort with eye-catching appeal. Complete your winter wardrobe today!
+  Updated: 2026-10-05T22:07:33Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251890.jpg?v=1791238023
+  - [Black](https://stylevines.com/products/wh2hda-bgm120118-id-wh2251890?variant=48966896713920)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251890.jpg?v=1791238023
+    Price: $20.50 USD
+  - [Camel](https://stylevines.com/products/wh2hda-bgm120118-id-wh2251890?variant=48966896746688)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251890A.jpg?v=1791238028
+    Price: $20.50 USD
+  - [Ivory](https://stylevines.com/products/wh2hda-bgm120118-id-wh2251890?variant=48966896779456)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251890E.jpg?v=1791238052
+    Price: $20.50 USD
+  - [Pink](https://stylevines.com/products/wh2hda-bgm120118-id-wh2251890?variant=48966896812224)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251890D.jpg?v=1791238046
+    Price: $20.50 USD
+- [Houndstooth Gloves for Timeless Style](https://stylevines.com/products/wh2hda-bgt120167-id-wh2251891): Enhance your winter look with our classic Houndstooth Gloves. They offer sophistication and comfort for everyday wear. Explore your style options!
+  Updated: 2026-10-05T22:07:58Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251891.jpg?v=1791238059
+  - [Burgundy](https://stylevines.com/products/wh2hda-bgt120167-id-wh2251891?variant=48966896877760)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251891.jpg?v=1791238059
+    Price: $18.00 USD
+  - [Gray](https://stylevines.com/products/wh2hda-bgt120167-id-wh2251891?variant=48966896910528)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251891C.jpg?v=1791238077
+    Price: $18.00 USD
+- [Knitted Sleeve Gloves for Warmth and Versatility](https://stylevines.com/products/wh2hda-eagl3540-id-wh2251908): Stay stylish and warm with our Knitted Sleeve Gloves. Perfect for colder weather, they pair well with various outfits. Get yours today!
+  Updated: 2026-10-05T22:08:34Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251908.jpg?v=1791238083
+  - [Pink](https://stylevines.com/products/wh2hda-eagl3540-id-wh2251908?variant=48966896976064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251908.jpg?v=1791238083
+    Price: $16.00 USD
+  - [Taupe](https://stylevines.com/products/wh2hda-eagl3540-id-wh2251908?variant=48966897008832)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251908D.jpg?v=1791238107
+    Price: $16.00 USD
+- [Striped Plaid Winter Gloves for Timeless Charm](https://stylevines.com/products/wh2hda-egl10037-id-wh2251912): Enjoy the Striped Plaid Winter Gloves that blend style and comfort. Perfect for cold days, they match well with your winter essentials!
+  Updated: 2026-10-05T22:09:11Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251912.jpg?v=1791238119
+  Price: $16.00 USD
+[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU3NzUyNTEyLCJsYXN0X3ZhbHVlIjoiODcyNjk1Nzc1MjUxMiJ9)
 
 ## Collections
 
@@ -3877,8 +3864,8 @@
   Updated: 2026-09-23T00:38:00Z
   Total Products: 11
 - [Dresses](https://stylevines.com/collections/dresses): Shop Style Vines' curated dresses collection — fluid midis, wrap styles, and minimalist silhouettes for every occasion. Elevated fashion, effortlessly worn.
-  Updated: 2026-09-23T00:37:29Z
-  Total Products: 69
+  Updated: 2026-10-27T14:10:25Z
+  Total Products: 70
 - [Knit Wear](https://stylevines.com/collections/knite-wear): Explore Style Vines' knitwear collection — sumptuous knit sweaters, cardigans, and co-ords in a warm, minimalist palette. Elevated comfort for every season.
   Updated: 2026-10-03T14:43:32Z
   Total Products: 34
@@ -4005,6 +3992,15 @@
     Author: Style Vines
   - [FAQ Everything You Need to Know About Ethical Fashion](https://stylevines.com/blogs/news/faq-everything-you-need-to-know-about-ethical-fashion): FAQ Everything You Need to Know About Ethical Fashion
     Updated: 2026-10-21T09:01:21Z
+    Author: Style Vines
+  - [A Complete Comparison of Vintage vs. Modern Fashion Styles](https://stylevines.com/blogs/news/a-complete-comparison-of-vintage-vs-modern-fashion-styles): A Complete Comparison of Vintage vs. Modern Fashion Styles
+    Updated: 2026-10-24T09:00:50Z
+    Author: Style Vines
+  - [Unveiling Fashion's Hidden Secrets to Timeless Style](https://stylevines.com/blogs/news/unveiling-fashions-hidden-secrets-to-timeless-style): Unveiling Fashion's Hidden Secrets to Timeless Style
+    Updated: 2026-10-26T09:01:06Z
+    Author: Style Vines
+  - [Guide to Effortless Chic for Every Season](https://stylevines.com/blogs/news/guide-to-effortless-chic-for-every-season): Guide to Effortless Chic for Every Season
+    Updated: 2026-10-28T09:01:21Z
     Author: Style Vines
 
 ## Store Pages
