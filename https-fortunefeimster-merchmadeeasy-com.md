@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-09-27T20:59:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:54:13.755Z
+- Updated At: 2026-10-30T01:17:23.960Z
 
 ## Products
 
@@ -588,7 +588,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Lesbian Swimsuit Tank - Navy](https://fortunefeimster.merchmadeeasy.com/products/lesbian-swimsuit-tank-navy): 100% cotton sleeveless t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 23 1/2 2XL 32 25 3XL 32 1/2 27
-  Updated: 2026-10-10T17:55:36Z
+  Updated: 2026-10-23T18:26:46Z
   Vendor: Fortune Feimster
   Product Type: T-Shirt
   Availability: Available
@@ -615,16 +615,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://fortunefeimster.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 28
 - [Apparel](https://fortunefeimster.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 20
 - [Accessories](https://fortunefeimster.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-22T11:10:47Z
   Total Products: 18
 - [All](https://fortunefeimster.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 38
 - [Vintage Merch](https://fortunefeimster.merchmadeeasy.com/collections/old-merch)
   Updated: 2026-10-22T11:10:47Z
@@ -633,16 +633,16 @@ your agent can transact everywhere.
   Updated: 2026-10-11T11:07:53Z
   Total Products: 2
 - [Tees & Tanks](https://fortunefeimster.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 16
 - [Ice Cream Collection](https://fortunefeimster.merchmadeeasy.com/collections/ice-cream-collection)
   Updated: 2026-10-07T11:08:34Z
   Total Products: 5
 - [$40](https://fortunefeimster.merchmadeeasy.com/collections/40)
-  Updated: 2026-10-21T11:09:44Z
+  Updated: 2026-10-23T11:12:34Z
   Total Products: 4
 - [$30](https://fortunefeimster.merchmadeeasy.com/collections/30)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-23T11:12:34Z
   Total Products: 7
 - [$20](https://fortunefeimster.merchmadeeasy.com/collections/20)
   Updated: 2026-09-15T11:07:48Z
@@ -657,13 +657,13 @@ your agent can transact everywhere.
   Updated: 2026-07-13T17:38:11Z
   Total Products: 0
 - [Takin' Care of Biscuits](https://fortunefeimster.merchmadeeasy.com/collections/takin-care-of-biscuits)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-23T14:09:03Z
   Total Products: 7
 - [New Arrivals](https://fortunefeimster.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 38
 - [Best Sellers](https://fortunefeimster.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-22T11:10:47Z
+  Updated: 2026-10-24T11:08:05Z
   Total Products: 38
 - [$5 Treats](https://fortunefeimster.merchmadeeasy.com/collections/5-bin)
   Updated: 2026-10-06T19:40:31Z
