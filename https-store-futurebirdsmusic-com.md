@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-29T15:35:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:46:45.918Z
+- Updated At: 2026-10-30T01:03:23.798Z
 
 ## Products
 
@@ -105,7 +105,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Futurebirds x Howler Bros Terry Polo](https://store.futurebirdsmusic.com/products/futurebirds-x-howler-bros-terry-polo): Blue terry cloth polo shirt with rainbow embroidered on the front right pocket.
-  Updated: 2026-10-16T17:29:56Z
+  Updated: 2026-10-23T11:53:26Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -206,7 +206,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBIRDHEADKEYCHAIN.png?v=1748885676
   Price: $5.00 USD
 - [Mystery Bin (RESTOCKED!)](https://store.futurebirdsmusic.com/products/mystery-bin): $15 Mystery Bin! All items in this bin are t-shirts of a $35 value. All you need to do is pick your size! FINAL 
-  Updated: 2026-10-18T19:37:26Z
+  Updated: 2026-10-24T17:22:53Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -366,28 +366,28 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBLACKDIAMON4POSTER.png?v=1773261687
   Price: $10.00 USD
 - [Trucker Hat](https://store.futurebirdsmusic.com/products/trucker-hat): White Futurebirds Trucker Hat with black rope and snap closure. One size fits most
-  Updated: 2026-10-05T13:04:33Z
+  Updated: 2026-10-28T16:32:46Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSWHITETRUCKER.png?v=1775679240
   Price: $35.00 USD
 - [Logo Tote](https://store.futurebirdsmusic.com/products/logo-tote): Futurebirds Logo Tote with front print only in shade natural / red.
-  Updated: 2026-10-05T13:04:33Z
+  Updated: 2026-10-28T16:49:48Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSLOGOTOTE.png?v=1775679411
   Price: $15.00 USD
 - [Carabiner Bottle Opener](https://store.futurebirdsmusic.com/products/carabiner-bottle-opener): Red Carabiner Bottle Opener!
-  Updated: 2026-10-05T13:04:34Z
+  Updated: 2026-10-28T16:49:47Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBOTTLEOPENER.png?v=1775679506
   Price: $5.00 USD
 - [Sea Bass Tee](https://store.futurebirdsmusic.com/products/sea-bass-tee): Futurebirds Sea Bass Tee in emerald gree with front and back print.
-  Updated: 2026-10-05T13:04:34Z
+  Updated: 2026-10-28T16:30:08Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -396,16 +396,16 @@
     Availability: Available
     Price: $40.00 USD
   - [M](https://store.futurebirdsmusic.com/products/sea-bass-tee?variant=47434677485717)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [L](https://store.futurebirdsmusic.com/products/sea-bass-tee?variant=47434677518485)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [XL](https://store.futurebirdsmusic.com/products/sea-bass-tee?variant=47434677551253)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [2XL](https://store.futurebirdsmusic.com/products/sea-bass-tee?variant=47434677584021)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
 - [Palm Tree Tee](https://store.futurebirdsmusic.com/products/palm-tree-tee): Futurebirds Palm Tree Tee in ivory with front print only.
   Updated: 2026-10-05T13:04:34Z
@@ -464,7 +464,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Map Tee](https://store.futurebirdsmusic.com/products/map-tee): Futurebirds Far Out Country Map Tee in ivory with front and back print. 100% Cotton
-  Updated: 2026-10-18T14:26:19Z
+  Updated: 2026-10-28T16:30:08Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -485,7 +485,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Logo Crewneck](https://store.futurebirdsmusic.com/products/logo-crewneck): Futurebirds Logo Crewneck in forest green with front print only.
-  Updated: 2026-10-05T13:04:37Z
+  Updated: 2026-10-28T16:41:07Z
   Vendor: Futurebirds Merch
   Product Type: Apparel
   Availability: Available
@@ -509,28 +509,28 @@
 ## Collections
 
 - [Home page](https://store.futurebirdsmusic.com/collections/frontpage)
-  Updated: 2026-10-21T21:16:01Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 58
 - [Apparel](https://store.futurebirdsmusic.com/collections/apparel)
-  Updated: 2026-10-21T21:16:01Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 30
 - [Accessories](https://store.futurebirdsmusic.com/collections/accessories)
   Updated: 2026-10-20T11:13:44Z
   Total Products: 36
 - [All](https://store.futurebirdsmusic.com/collections/all)
-  Updated: 2026-10-20T11:13:44Z
-  Total Products: 39
+  Updated: 2026-10-28T16:50:24Z
+  Total Products: 42
 - [Music](https://store.futurebirdsmusic.com/collections/music)
   Updated: 2026-10-21T21:14:06Z
   Total Products: 5
 - [Summer Collection](https://store.futurebirdsmusic.com/collections/summer-collection)
-  Updated: 2026-10-19T11:13:44Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 12
 - [Fall Collection](https://store.futurebirdsmusic.com/collections/fall-collection)
   Updated: 2026-10-21T21:16:01Z
   Total Products: 5
 - [Black Friday ](https://store.futurebirdsmusic.com/collections/black-friday-)
-  Updated: 2026-10-21T21:14:06Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 29
 - [Hats](https://store.futurebirdsmusic.com/collections/hats)
   Updated: 2026-10-12T11:16:25Z
@@ -548,10 +548,10 @@
   Updated: 2026-09-19T11:12:26Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://store.futurebirdsmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-10-21T21:16:01Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 71
 - [Summer Kickoff](https://store.futurebirdsmusic.com/collections/summer-kickoff)
-  Updated: 2026-10-14T11:16:43Z
+  Updated: 2026-10-24T11:19:55Z
   Total Products: 16
 - [Far Out Country](https://store.futurebirdsmusic.com/collections/far-out-country)
   Updated: 2026-10-19T11:13:44Z
