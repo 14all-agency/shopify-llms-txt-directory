@@ -9,12 +9,12 @@
 - Created At: 2023-02-25T10:04:29Z
 - Contact Email: valentin.nittbaur@unocconi.com
 - Address: Römersteinweg 21, 70794 Filderstadt
-- Updated At: 2026-10-23T00:34:28.310Z
+- Updated At: 2026-10-30T01:08:23.760Z
 
 ## Products
 
-- [Duschrinne mit Wärmetauscher Joulia Inline 3-Rohr](https://unocconi.com/products/joulia-inline-3-rohr): Die Joulia Inline 3-Rohr Duschrinne erreicht bis zu 37 % Wärmerückgewinnung. Hochwertig verarbeitet, versicherter Versand – jetzt nachhaltig Duschen! 🚿♻️
-  Updated: 2026-09-28T16:06:42Z
+- [Duschrinne Joulia 3-Rohr mit Wärmetauscher (37 %)](https://unocconi.com/products/joulia-inline-3-rohr): Duschrinne mit Wärmetauscher Joulia 3-Rohr: 37 % Wärmerückgewinnung beim Duschen bei nur 89 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Zuschuss.
+  Updated: 2026-10-27T21:11:39Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -67,29 +67,29 @@
   - [raumseitige Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-3-rohr?variant=49757039558984)
     Availability: Available
     Price: 2.543,00 € EUR
-- [Duschrohr CF 170 cm (63% Wirkungsgrad)](https://unocconi.com/products/duschrohr-counter-flow-170cm): Entdecken Sie den Duschrohr-Wärmetauscher kurz (170cm) von Unocconi und sparen Sie 63% ihrer Duschenergie und Geld. Ideal für jedes Bad!
-  Updated: 2026-09-28T10:50:38Z
+- [Duschrohr mit Wärmetauscher CF 170 cm (63 %)](https://unocconi.com/products/duschrohr-counter-flow-170cm): Duschrohr mit Wärmetauscher Counter Flow 170 cm: 63 % Wärmerückgewinnung beim Duschen. Kupfer, 10 Jahre Garantie, inkl. Montage-Set, Lieferung in 2–3 Werktagen.
+  Updated: 2026-10-27T22:23:37Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_170cm.png?v=1772030001
   Price: 882,00 € EUR
-- [Duschrohr CF 210 cm (69% Wirkungsgrad)](https://unocconi.com/products/duschrohr-counter-flow-210cm): Entdecken Sie den Duschrohr-Wärmetauscher lang (210cm) von Unocconi und sparen Sie 69% ihrer Duschenergie und Geld. Ideal für jedes Bad!
-  Updated: 2026-09-07T11:40:30Z
+- [Duschrohr mit Wärmetauscher CF 210 cm (69 %)](https://unocconi.com/products/duschrohr-counter-flow-210cm): Duschrohr mit Wärmetauscher Counter Flow 210 cm: 69 % Wärmerückgewinnung beim Duschen. Kupfer, 10 Jahre Garantie, inkl. Montage-Set, Lieferung in 2–3 Werktagen.
+  Updated: 2026-10-27T21:11:39Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_210cm.png?v=1772030039
   Price: 930,00 € EUR
-- [Duschrohr 210 cm HF (53% Wirkungsgrad)](https://unocconi.com/products/duschrohr-counter-flow-hf): Entdecken Sie den Duschrohr-Wärmetauscher HF (210cm) von Unocconi und sparen Sie 53% ihrer Duschenergie und Geld. Ideal für jedes Bad!
-  Updated: 2026-09-07T11:40:53Z
+- [Duschrohr mit Wärmetauscher CF 210 cm HF (53 %)](https://unocconi.com/products/duschrohr-counter-flow-hf): Duschrohr mit Wärmetauscher Counter Flow 210 cm HF: 53 % Wärmerückgewinnung beim Duschen, ideal für Regenduschen mit hohem Durchfluss. 10 Jahre Garantie.
+  Updated: 2026-10-27T21:11:40Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0726/4377/2735/files/Unocconi_Duschrohr_210cm_HF.png?v=1772030064
   Price: 1.088,00 € EUR
-- [Duschrinne Joulia 10-Rohr (60% Wirkungsgrad)](https://unocconi.com/products/joulia-inline-10-rohr): Die Joulia Inline 10-Rohr Duschrinne erzielt bis zu 60% Wärmerückgewinnung – für maximale Energieeinsparung. Hochwertig, nachhaltig & mit versichertem Versand🚿
-  Updated: 2026-09-07T11:48:04Z
+- [Duschrinne Joulia 10-Rohr mit Wärmetauscher (60 %)](https://unocconi.com/products/joulia-inline-10-rohr): Duschrinne mit Wärmetauscher Joulia Twinline 10-Rohr: 60 % Wärmerückgewinnung beim Duschen – unser stärkstes Modell. DVGW-zertifiziert, 5 Jahre Garantie.
+  Updated: 2026-10-27T21:11:40Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -106,8 +106,8 @@
   - [raumseitige Montage / lang (917mm)](https://unocconi.com/products/joulia-inline-10-rohr?variant=49829021024584)
     Availability: Available
     Price: 4.040,00 € EUR
-- [Duschrinne Joulia 6-Rohr (53% Wirkungsgrad)](https://unocconi.com/products/joulia-inline-6-rohr): Die Joulia® Inline 6-Rohr Duschrinne erreicht bis zu 54 % Wärmerückgewinnung für höchste Energieeffizienz. Nachhaltig, hochwertig & mit versichertem Versand!🚿
-  Updated: 2026-09-07T11:44:31Z
+- [Duschrinne Joulia 6-Rohr mit Wärmetauscher (53 %)](https://unocconi.com/products/joulia-inline-6-rohr): Duschrinne mit Wärmetauscher Joulia Twinline 6-Rohr: 53 % Wärmerückgewinnung beim Duschen bei reduzierter Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie.
+  Updated: 2026-10-27T21:11:40Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -124,8 +124,8 @@
   - [raumseitig Montage / lang (917 mm)](https://unocconi.com/products/joulia-inline-6-rohr?variant=49829021778248)
     Availability: Available
     Price: 3.707,00 € EUR
-- [Duschrinne Joulia 5-Rohr (49% Wirkungsgrad)](https://unocconi.com/products/joulia-inline-5-rohr): Die Joulia® Inline 5-Rohr Duschrinne ermöglicht bis zu 49 % Wärmerückgewinnung für maximale Energieeffizienz. Hochwertig, nachhaltig & versicherter Versand! 🚿
-  Updated: 2026-09-28T16:09:35Z
+- [Duschrinne Joulia 5-Rohr mit Wärmetauscher (49 %)](https://unocconi.com/products/joulia-inline-5-rohr): Duschrinne mit Wärmetauscher Joulia 5-Rohr: 49 % Wärmerückgewinnung beim Duschen bei 120 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Zuschuss.
+  Updated: 2026-10-27T21:11:40Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -178,8 +178,8 @@
   - [raumseitig Montage / matte Abdeckung / ohne Turbulatoren](https://unocconi.com/products/joulia-inline-5-rohr?variant=49829040718152)
     Availability: Available
     Price: 2.960,00 € EUR
-- [Duschrinne mit Wärmetauscher Joulia 3-Rohr für exklusive Bodenbeläge](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag): Die Joulia Inline 3-Rohr Duschrinne erreicht bis zu 37 % Wärmerückgewinnung. Auch erhältlich mit exklusiven Bodenbelägen für Fein- und Naturstein.🚿♻️
-  Updated: 2026-09-28T16:11:58Z
+- [Duschrinne 3-Rohr mit Wärmetauscher für Naturstein](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag): Duschrinne mit Wärmetauscher Joulia 3-Rohr für exklusive Beläge aus Fein- und Naturstein: 37 % Wärmerückgewinnung beim Duschen, 89 mm Einbautiefe, DVGW.
+  Updated: 2026-10-27T21:11:41Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -190,8 +190,8 @@
   - [raumseitige Montage / ohne Turbulatoren](https://unocconi.com/products/duschrinne-joulia-3-rohr-mit-exklusivem-bodenbelag?variant=51490616967496)
     Availability: Available
     Price: 2.815,00 € EUR
-- [Duschrinne mit Wärmetauscher Joulia 5-Rohr für exklusive Bodenbeläge](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag): Die Joulia Inline 5-Rohr Duschrinne erreicht bis zu 49 % Wärmerückgewinnung. Auch erhältlich mit exklusiven Bodenbelägen für Fein- und Naturstein.🚿♻️
-  Updated: 2026-09-28T16:11:10Z
+- [Duschrinne 5-Rohr mit Wärmetauscher für Naturstein](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag): Duschrinne mit Wärmetauscher Joulia 5-Rohr für exklusive Beläge aus Fein- und Naturstein: 49 % Wärmerückgewinnung beim Duschen, 120 mm Einbautiefe, DVGW.
+  Updated: 2026-10-27T21:11:41Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -202,8 +202,8 @@
   - [raumseitige Montage / ohne Turbulatoren](https://unocconi.com/products/duschrinne-joulia-5-rohr-mit-exklusivem-bodenbelag?variant=51490658419016)
     Availability: Available
     Price: 3.474,00 € EUR
-- [Unocconi Duschplatte - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-original): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 30 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-10-14T09:43:45Z
+- [Unocconi Duschplatte Original – Wärmetauscher nachrüsten](https://unocconi.com/products/duschplatte-original): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 40 % Energie beim Duschen sparen, in 30 Minuten ohne Handwerker montiert – auch zur Miete. 5 J. Garantie.
+  Updated: 2026-10-27T21:11:41Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -220,8 +220,8 @@
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-original?variant=52862517248328)
     Availability: Available
     Price: 499,00 € EUR
-- [Unocconi Duschplatte Pure - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-pure): Bis zu 40% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 10 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-10-18T16:09:03Z
+- [Unocconi Duschplatte Pure – Wärmetauscher nachrüsten](https://unocconi.com/products/duschplatte-pure): Duschplatte mit Wärmetauscher zum Nachrüsten: bis zu 40 % Energie beim Duschen sparen, ab 349 € ohne Handwerker montiert – auch zur Miete. 5 Jahre Garantie.
+  Updated: 2026-10-27T21:11:42Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -239,8 +239,8 @@
   - [140 cm / Montageset & Reinigungszubehör](https://unocconi.com/products/duschplatte-pure?variant=53909184020808)
     Availability: Available
     Price: 349,00 € EUR
-- [Unocconi Duschplatten - Wärmetauscher zum Nachrüsten](https://unocconi.com/products/duschplatte-uebersicht): 37,6% Energiekosten beim Duschen sparen – ganz ohne Handwerker. Die Unocconi Duschplatte in unter 30 Min. nachgerüstet. Auch für Mietwohnungen.
-  Updated: 2026-10-18T16:19:33Z
+- [Unocconi Duschplatten im Vergleich – Original & Pure](https://unocconi.com/products/duschplatte-uebersicht): Duschplatte mit Wärmetauscher im Vergleich: Original mit Bambus oder Pure aus Edelstahl. Bis zu 40 % Energie beim Duschen sparen, ab 349 €, ohne Handwerker.
+  Updated: 2026-10-27T21:11:42Z
   Vendor: Unocconi
   Product Type: 
   Availability: Available
@@ -280,269 +280,261 @@
 
 ## Collections
 
-- [Duschrinnen mit Wärmetauscher](https://unocconi.com/collections/shop-duschrinnen-mit-warmetauscher): Entdecken Sie unsere Duschrinnen mit Wärmetauscher: Effiziente Wärmerückgewinnung für nachhaltiges Duschen und reduzierte Energiekosten. Jetzt mehr erfahren
-  Updated: 2026-09-07T12:22:55Z
+- [Duschrinnen mit Wärmetauscher](https://unocconi.com/collections/shop-duschrinnen-mit-warmetauscher): Duschrinnen mit Wärmetauscher im Unocconi Shop: Joulia 3- bis 10-Rohr mit 37–60 % Wärmerückgewinnung beim Duschen. DVGW-zertifiziert, Swiss Made, 5 J. Garantie.
+  Updated: 2026-10-27T21:12:18Z
   Total Products: 6
-- [Duschrohre mit Wärmetauscher](https://unocconi.com/collections/shop-fallrohr-mit-warmetauscher): Energie sparen beim Duschen! Unsere Fallrohr-Wärmetauscher nutzen Abwasserwärme, um Ihr Duschwasser effizient vorzuwärmen. Jetzt entdecken & nachhaltig sparen!
-  Updated: 2026-09-29T11:12:40Z
+- [Duschrohre mit Wärmetauscher](https://unocconi.com/collections/shop-fallrohr-mit-warmetauscher): Duschrohre mit Wärmetauscher im Unocconi Shop: Counter Flow 170 cm, 210 cm und 210 cm HF mit 53–69 % Wärmerückgewinnung beim Duschen. 10 Jahre Garantie.
+  Updated: 2026-10-27T21:12:18Z
   Total Products: 3
-- [Alle Produkte](https://unocconi.com/collections/shop): Finden Sie die besten Duschrinnen und Duschrohre mit Wärmetauscher in unserem Shop. Hochwertige Produkte für mehr Energieeffizienz – jetzt entdecken!
-  Updated: 2026-09-29T11:12:40Z
+- [Alle Produkte](https://unocconi.com/collections/shop): Alle Produkte zur Wärmerückgewinnung beim Duschen: Duschrinnen, Duschrohre und Duschplatten mit Wärmetauscher. Bis zu 69 % Energie sparen, bis 10 J. Garantie.
+  Updated: 2026-10-28T19:41:46Z
   Total Products: 10
-- [Duschrinne 5-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-joulia-5-rohr)
-  Updated: 2026-09-07T12:22:55Z
+- [Duschrinne 5-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-joulia-5-rohr): Duschrinne 5-Rohr mit integriertem Wärmetauscher: 49 % Wärmerückgewinnung beim Duschen bei 120 mm Einbautiefe. DVGW-zertifiziert, 5 Jahre Garantie, 20 % Bonus.
+  Updated: 2026-10-27T21:12:18Z
   Total Products: 2
-- [Duschrinne 3-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-3-rohr-mit-warmetauscher)
-  Updated: 2026-09-07T11:58:25Z
+- [Duschrinne 3-Rohr mit Wärmetauscher](https://unocconi.com/collections/duschrinne-3-rohr-mit-warmetauscher): Duschrinne 3-Rohr mit integriertem Wärmetauscher: 37 % Wärmerückgewinnung beim Duschen bei nur 89 mm Einbautiefe. DVGW-zertifiziert, 5 J. Garantie, 20 % Bonus.
+  Updated: 2026-10-27T21:12:18Z
   Total Products: 2
-- [Duschplatten mit Wärmetauscher](https://unocconi.com/collections/duschplatten-mit-warmetauscher)
-  Updated: 2026-10-14T11:20:15Z
+- [Duschplatten mit Wärmetauscher](https://unocconi.com/collections/duschplatten-mit-warmetauscher): Duschplatten mit Wärmetauscher kaufen: Wärmerückgewinnung beim Duschen in 30 Minuten nachrüsten – ohne Handwerker, auch zur Miete. Ab 349 €, 5 Jahre Garantie.
+  Updated: 2026-10-27T21:12:18Z
   Total Products: 3
 
 ## Blogs
 
 - [Blog - Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen)
-  - [Wärmewende im Hotel - jeder Beitrag zählt, darum Wärmerückgewinnung auch beim Duschen 🚿.](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmewende-im-hotel-jeder-beitrag-zahlt-darum-warmeruckgewinnung-auch-beim-duschen-🚿)
-    Updated: 2025-02-28T18:56:53Z
+  - [Wärmerückgewinnung im Hotel – Wärmewende beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmewende-im-hotel-jeder-beitrag-zahlt-darum-warmeruckgewinnung-auch-beim-duschen-🚿): Wärmerückgewinnung im Hotel – Wärmewende beim Duschen
+    Updated: 2026-10-27T21:15:30Z
     Author: Valentin Nittbaur
-  - [Steigende CO2-Preise in der EU](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/steigende-co2-preise-in-der-eu): Steigende CO2-Preise in der EU
-    Updated: 2025-07-10T15:57:52Z
+  - [Steigende CO₂-Preise in der EU: Effizienz zählt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/steigende-co2-preise-in-der-eu): Steigende CO₂-Preise in der EU: Effizienz zählt
+    Updated: 2026-10-27T21:15:30Z
     Author: Steffen Nittbaur
-  - [Kreislauffähigkeit von Kupfer und Edelstahl: Nachhaltigkeit im Sanitärbereich neu gedacht](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kreislauffahigkeit-von-kupfer-und-edelstahl-nachhaltigkeit-im-sanitarbereich-neu-gedacht)
-    Updated: 2025-07-10T17:03:07Z
+  - [Kreislauffähigkeit von Kupfer und Edelstahl im Bad](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kreislauffahigkeit-von-kupfer-und-edelstahl-nachhaltigkeit-im-sanitarbereich-neu-gedacht): Kreislauffähigkeit von Kupfer und Edelstahl im Bad
+    Updated: 2026-10-27T21:15:30Z
     Author: Steffen Nittbaur
-  - [Investieren mit Weitblick: Für eine lebenswerte Zukunft unserer Enkel](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/investieren-mit-weitblick-fur-eine-lebenswerte-zukunft-unserer-enkel)
-    Updated: 2025-07-10T17:05:49Z
+  - [Investieren mit Weitblick: nachhaltig entscheiden](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/investieren-mit-weitblick-fur-eine-lebenswerte-zukunft-unserer-enkel): Investieren mit Weitblick: nachhaltig entscheiden
+    Updated: 2026-10-27T21:15:30Z
     Author: Steffen Nittbaur
-  - [Wie funktioniert Wärmerückgewinnung beim Duschen? – Das Prinzip einfach erklärt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-funktioniert-warmeruckgewinnung-beim-duschen-das-prinzip-einfach-erklart-nbsp)
-    Updated: 2025-07-14T13:23:32Z
+  - [Wie funktioniert Wärmerückgewinnung beim Duschen?](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-funktioniert-warmeruckgewinnung-beim-duschen-das-prinzip-einfach-erklart-nbsp): Wie funktioniert Wärmerückgewinnung beim Duschen?
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-beim-duschen)
-    Updated: 2025-07-18T11:52:39Z
+  - [Wärmerückgewinnung beim Duschen: Technik und Nutzen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-beim-duschen): Wärmerückgewinnung beim Duschen: Technik und Nutzen
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
   - [Förderung der Duschwasser-Wärmerückgewinnung (DWRG)](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/forderung-der-duschwasser-warmeruckgewinnung): Förderung der Duschwasser-Wärmerückgewinnung (DWRG)
-    Updated: 2025-07-23T08:41:20Z
+    Updated: 2026-10-27T21:16:03Z
     Author: Steffen Nittbaur
-  - [Energieberater Hendrik Planz aus Kerpen: So wichtig ist Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberater-hendrik-planz-aus-kerpen-so-wichtig-ist-warmeruckgewinnung-beim-duschen): <p class="p1">Energieberater Hendrik Planz zeigt, wie Wärmerückgewinnung beim Duschen hilft, Energieverluste zu reduzieren – einfach, wirtschaftlich und ohne Komfortverlust.</p>
-    Updated: 2025-08-04T16:51:31Z
+  - [Energieberater Planz: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberater-hendrik-planz-aus-kerpen-so-wichtig-ist-warmeruckgewinnung-beim-duschen): Energieberater Planz: Wärmerückgewinnung beim Duschen
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Endlich mal was Gutes 😊 – Wie das Good News Magazin Hoffnung macht und über Wärmerückgewinnung berichtet](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/endlich-mal-was-gutes-😊-wie-das-good-news-magazin-hoffnung-macht-und-uber-warmeruckgewinnung-berichtet)
-    Updated: 2025-10-15T11:17:46Z
+  - [Wärmerückgewinnung beim Duschen im Good News Magazin](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/endlich-mal-was-gutes-😊-wie-das-good-news-magazin-hoffnung-macht-und-uber-warmeruckgewinnung-berichtet): Wärmerückgewinnung beim Duschen im Good News Magazin
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [🚿 Duschwasser-Wärmerückgewinnung jetzt auch in der Software von Hottgenroth integriert🚿](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/duschwasser-warmeruckgewinnung-jetzt-auch-in-der-software-von-hottgenroth-integriert)
-    Updated: 2025-11-23T14:42:15Z
+  - [Duschwasser-Wärmerückgewinnung bei Hottgenroth](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/duschwasser-warmeruckgewinnung-jetzt-auch-in-der-software-von-hottgenroth-integriert): Duschwasser-Wärmerückgewinnung bei Hottgenroth
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Kleine Maßnahme, großer Effekt: Duschwasser-Wärmerückgewinnung clever einsetzen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kleine-massnahme-grosser-effekt-duschwasser-warmeruckgewinnung-clever-einsetzen)
-    Updated: 2025-11-23T14:38:00Z
+  - [Duschwasser-Wärmerückgewinnung als Zusatzmaßnahme](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/kleine-massnahme-grosser-effekt-duschwasser-warmeruckgewinnung-clever-einsetzen): Duschwasser-Wärmerückgewinnung als Zusatzmaßnahme
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Neue Förderchancen für die Duschwasser-Wärmerückgewinnung – Unocconi](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/neue-forderchancen-fur-die-duschwasser-warmeruckgewinnung-unocconi-stellt-losungen-fur-neubau-und-sanierung-vor): Neue Förderchancen für die Duschwasser-Wärmerückgewinnung – Unocconi
-    Updated: 2025-12-09T10:30:40Z
+  - [Neue Förderchancen für Duschwasser-Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/neue-forderchancen-fur-die-duschwasser-warmeruckgewinnung-unocconi-stellt-losungen-fur-neubau-und-sanierung-vor): Neue Förderchancen für Duschwasser-Wärmerückgewinnung
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Im Gespräch mit Ewald Schäfer: Ungenutzte Energie sichtbar machen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberatung-ewald-schafer-warmeruckgewinnung-beim-duschen)
-    Updated: 2026-02-12T12:09:28Z
+  - [Ewald Schäfer: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberatung-ewald-schafer-warmeruckgewinnung-beim-duschen): Ewald Schäfer: Wärmerückgewinnung beim Duschen
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Energieeffizienz, QNG & Wärmerückgewinnung: Das on. ingenieurbüro im Interview](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieeffizienz-qng-waermerueckgewinnung-das-on-ingenieurbuero-im-interview)
-    Updated: 2026-03-31T12:11:24Z
+  - [Wärmerückgewinnung & QNG: on. ingenieurbüro](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieeffizienz-qng-waermerueckgewinnung-das-on-ingenieurbuero-im-interview): Wärmerückgewinnung & QNG: on. ingenieurbüro
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [UNOCCONI jetzt bei p!kster￼ erhältlich: Wärmerückgewinnung beim Duschen wird im SHK-Markt immer relevanter](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/pikster)
-    Updated: 2026-05-13T08:39:44Z
+  - [Unocconi bei p!kster: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/pikster): Unocconi bei p!kster: Wärmerückgewinnung beim Duschen
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Dein Energiewerk GmbH | Energieberatung, Sanierungsfahrplan & Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/dein-energiewerk-gmbh): Dein Energiewerk GmbH | Energieberatung, Sanierungsfahrplan & Wärmerückgewinnung
-    Updated: 2026-06-15T17:07:11Z
+  - [Dein Energiewerk GmbH: Energieberatung und Sanierung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/dein-energiewerk-gmbh): Dein Energiewerk GmbH: Energieberatung und Sanierung
+    Updated: 2026-10-27T21:16:03Z
     Author: Valentin Nittbaur
-  - [Wie viel kostet Duschen wirklich? Warmwasserkosten & Spartipps 2026](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-viel-kostet-duschen-wirklich-die-versteckten-kosten-einer-t-glichen-dusche-im-jahr-2026): Wie viel kostet Duschen wirklich? Warmwasserkosten & Spartipps 2026
-    Updated: 2026-06-16T08:52:52Z
+  - [Was kostet Duschen wirklich? Warmwasserkosten 2026](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/wie-viel-kostet-duschen-wirklich-die-versteckten-kosten-einer-t-glichen-dusche-im-jahr-2026): Was kostet Duschen wirklich? Warmwasserkosten 2026
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Wärmerückgewinnung in der SHK-Branche: Chancen für Installationsbetriebe](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-in-der-shk-branche-chancen-fur-installationsbetriebe): <p class="p1">Während Wärmepumpen und Photovoltaik längst etabliert sind, entwickelt sich die Wärmerückgewinnung aus Duschwasser zu einem spannenden Zukunftsthema im SHK-Handwerk. Warum immer mehr Bauherren und Sanierer nach dieser Technologie fragen, welche Vorteile sie bietet und wie Installationsbetriebe davon profitieren können, erfahren Sie in diesem Beitrag.</p>
-    Updated: 2026-06-17T15:24:32Z
+  - [Wärmerückgewinnung in der SHK-Branche: Chancen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/warmeruckgewinnung-in-der-shk-branche-chancen-fur-installationsbetriebe): Wärmerückgewinnung in der SHK-Branche: Chancen
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Die perfekte Ergänzung zum Durchlauferhitzer: Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/die-perfekte-ergaenzung-zum-durchlauferhitzer-waermerueckgewinnung-beim-duschen): <p class="p1">Ein Duschsystem zur Wärmerückgewinnung ist die ideale Ergänzung zu einem Durchlauferhitzer. Es nutzt die Wärme des Duschabwassers, um das kalte Frischwasser bereits vor dem Durchlauferhitzer vorzuwärmen. Dadurch muss dieser deutlich weniger Energie aufbringen, um die gewünschte Duschtemperatur zu erreichen. Das Ergebnis sind geringere Energiekosten, eine höhere Effizienz und mehr Nachhaltigkeit, ohne dass auf Komfort verzichtet werden muss.</p>
-    Updated: 2026-06-24T16:12:24Z
+  - [Durchlauferhitzer mit Wärmerückgewinnung ergänzen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/die-perfekte-ergaenzung-zum-durchlauferhitzer-waermerueckgewinnung-beim-duschen): Durchlauferhitzer mit Wärmerückgewinnung ergänzen
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Energieeffiziente Badsanierung Stuttgart mit Walz Badmanufaktur](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/walz-badmanufaktur): Energieeffiziente Badsanierung Stuttgart mit Walz Badmanufaktur
-    Updated: 2026-07-01T20:19:13Z
+  - [Badsanierung Stuttgart: Walz Badmanufaktur & Unocconi](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/walz-badmanufaktur): Badsanierung Stuttgart: Walz Badmanufaktur & Unocconi
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Wärmerückgewinnung beim Duschen: Einfach erklärt und warum es sich lohnt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/einfach-erklaert): <p class="p1">Beim Duschen fließt täglich wertvolle Wärme ungenutzt in den Abfluss – dabei lässt sich diese Energie ganz einfach zurückgewinnen. In diesem Artikel erfahren Sie verständlich erklärt, wie die Wärmerückgewinnung aus Duschwasser funktioniert, welche Einsparpotenziale sie bietet und warum sie sowohl im Neubau als auch bei einer Badsanierung eine nachhaltige und wirtschaftliche Lösung ist. Entdecken Sie, wie Sie Energiekosten senken, CO₂-Emissionen reduzieren und gleichzeitig den gewohnten Duschkomfort beibehalten können.</p>
-    Updated: 2026-07-03T18:28:44Z
+  - [Wärmerückgewinnung beim Duschen: einfach erklärt](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/einfach-erklaert): Wärmerückgewinnung beim Duschen: einfach erklärt
+    Updated: 2026-10-27T21:16:30Z
     Author: Steffen Nittbaur
-  - [Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung beim Duschen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/schmidt-bad-heizung-gmbh): Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung beim Duschen
-    Updated: 2026-07-07T09:07:58Z
+  - [Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/schmidt-bad-heizung-gmbh): Schmidt-Bad-Heizung GmbH setzt auf Wärmerückgewinnung
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Wärmerückgewinnung beim Duschen in der SHK-Branche: Chancen für Installationsbetriebe](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/chancen-fur-installationsbetriebe): Wärmerückgewinnung beim Duschen in der SHK-Branche: Chancen für Installationsbetriebe
-    Updated: 2026-07-09T15:36:59Z
+  - [Wärmerückgewinnung beim Duschen: Chancen für SHK](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/chancen-fur-installationsbetriebe): Wärmerückgewinnung beim Duschen: Chancen für SHK
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Wärmerückgewinnung beim Duschen: Einfach nachrüsten und ab der ersten Dusche sparen](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/waermerueckgewinnung-beim-duschen-einfach-nachruesten-und-ab-der-ersten-dusche-sparen)
-    Updated: 2026-09-02T14:42:47Z
+  - [Wärmerückgewinnung beim Duschen einfach nachrüsten](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/waermerueckgewinnung-beim-duschen-einfach-nachruesten-und-ab-der-ersten-dusche-sparen): Wärmerückgewinnung beim Duschen einfach nachrüsten
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
-  - [Referenzprojekt Wärmerückgewinnung beim Duschen: Hotel Terrace Engelberg](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/referenzprojekt-waermerueckgewinnung-beim-duschen-hotel-terrace-engelberg)
-    Updated: 2026-10-09T21:35:04Z
+  - [Referenz Hotel Terrace Engelberg – Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/referenzprojekt-waermerueckgewinnung-beim-duschen-hotel-terrace-engelberg): Referenz Hotel Terrace Engelberg – Wärmerückgewinnung
+    Updated: 2026-10-27T21:16:30Z
     Author: Valentin Nittbaur
+  - [Duschwasser-Wärmerückgewinnung: Leitfaden mit Fakten](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/duschwasser-waermerueckgewinnung-leitfaden): Duschwasser-Wärmerückgewinnung: Leitfaden mit Fakten
+    Updated: 2026-10-27T21:16:30Z
+    Author: Steffen Nittbaur
+    Tags: Duschwasser-Wärmerückgewinnung, Grundlagen, Leitfaden
+  - [Partnernetzwerk für Duschwasser-Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/partnernetzwerk-wie-es-funktioniert): Partnernetzwerk für Duschwasser-Wärmerückgewinnung
+    Updated: 2026-10-29T08:01:02Z
+    Author: Valentin Nittbaur
+    Tags: Beratung, Partnernetzwerk, unocconi
+  - [Energieberater und Duschwasser-Wärmerückgewinnung](https://unocconi.com/blogs/blog-warmeruckgewinnung-beim-duschen/energieberater-im-netzwerk): Energieberater und Duschwasser-Wärmerückgewinnung
+    Updated: 2026-10-29T08:00:44Z
+    Author: Valentin Nittbaur
+    Tags: Energieberater, Partnernetzwerk, Planung
 
 ## Store Pages
 
-- [Impressum - Unocconi GmbH](https://unocconi.com/pages/impressum-unocconi-gmbh): 
-  Updated: 2025-01-23T21:49:13Z
-- [Datenschutz - So schützen wir Ihre persönlichen Informationen](https://unocconi.com/pages/datenschutz): 1. Allgemeine Hinweise und Grundsätze der DatenverarbeitungWir freuen uns, dass Sie unsere Webseite besuchen. Der Schutz Ihrer Privatsphäre und der...
-  Updated: 2025-03-02T16:19:30Z
-- [Versandbedingungen - Unocconi GmbH](https://unocconi.com/pages/versandbedingungen-unocconi-gmbh): Wir bieten Ihnen einen zuverlässigen und versicherten Versandservice mit DHL für Ihre Bestellungen an. Unsere Produkte werden sorgfältig verpackt u...
-  Updated: 2025-01-23T22:01:53Z
-- [Kontakt - Unocconi GmbH](https://unocconi.com/pages/kontakt-unocconi-gmbh): 
-  Updated: 2026-06-10T13:28:55Z
-- [Zertifikate & Downloads - Duschrinnen mit integriertem Wärmetauscher](https://unocconi.com/pages/zertifikate-und-downloads-duschrinnen-mit-integriertem-waermetauscher): 
-  Updated: 2025-02-02T19:51:35Z
-- [Reinigung & Montage - Duschrinnen mit Wärmetauscher](https://unocconi.com/pages/reinigung-und-montage-duschrinnen-mit-waermetauscher): 
-  Updated: 2025-01-23T22:59:37Z
-- [Q&A - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/fragen-und-antworten): 
-  Updated: 2025-01-24T17:45:50Z
-- [Energie- und Kosteneinsparung berechnen - Wärmerückgewinnung Dusche](https://unocconi.com/pages/einsparung): 
-  Updated: 2025-01-24T21:07:34Z
-- [Presse-Kit - Unocconi GmbH](https://unocconi.com/pages/presse-kit-unocconi-gmbh): 
-  Updated: 2025-01-23T22:17:40Z
-- [Presseartikel - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/presseartikel-unocconi-gmbh): 
-  Updated: 2025-01-24T19:19:14Z
-- [Duschrinne Joulia Inline 3-Rohr mit Wärmetauscher](https://unocconi.com/pages/joulia-inline-3-rohr-duschrinne-mit-integriertem-waermetauscher): 
-  Updated: 2025-11-01T11:30:17Z
-- [Duschrinne mit Wärmetauscher - Joulia Twinline 5-Rohr](https://unocconi.com/pages/joulia-inline-5-rohr-duschrinne-mit-integriertem-waermetauscher): 
-  Updated: 2025-01-24T19:04:54Z
-- [Duschrinne mit Wärmetauscher - Joulia Twinline 6-Rohr](https://unocconi.com/pages/joulia-twinline-6-rohr-duschrinne-mit-waermetauscher): 
-  Updated: 2025-01-24T19:03:34Z
-- [Duschrinne mit Wärmetauscher - Joulia Twinline 10-Rohr](https://unocconi.com/pages/joulia-twinline-10-rohr-duschrinne-mit-integriertem-waermetauscher): 
-  Updated: 2025-01-24T19:02:16Z
-- [Kein Legionellen-Risiko:](https://unocconi.com/pages/kein-erhohtes-legionellen-risiko): Legionellen vermehren sich bis zu potenziell gefährlichen Konzentrationen bei Temperaturen zwischen 25 und 50 °C, falls ein Biofilm vorhanden ist u...
-  Updated: 2024-01-21T11:30:25Z
-- [Förderung - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/foerderung-waermerueckgewinnung-beim-duschen): 
-  Updated: 2025-01-24T17:51:50Z
-- [Über uns - Unocconi GmbH](https://unocconi.com/pages/ueber-uns-unocconi-gmbh): 
-  Updated: 2025-01-23T22:55:22Z
-- [AGBs Unocconi - Unsere rechtlichen Hinweise im Überblick](https://unocconi.com/pages/agb): 
-  Updated: 2025-08-18T13:03:29Z
-- [Übersicht - Duschrinnen mit integriertem Wärmetauscher](https://unocconi.com/pages/duschrinnen-ubersicht): 
-  Updated: 2025-03-03T09:02:26Z
-- [Übersicht - Effiziente Duschrohre mit integriertem Wärmetauscher](https://unocconi.com/pages/duschrohr-ubersicht): 
-  Updated: 2025-03-01T10:11:42Z
-- [Duschrohr-Wärmetauscher kurz (170cm)](https://unocconi.com/pages/duschrohr-waermetauscher-170cm): 
-  Updated: 2025-02-07T10:20:04Z
-- [Duschrohr-Wärmetauscher lang (210cm)](https://unocconi.com/pages/duschrohr-waermetauscher-210cm): 
-  Updated: 2025-01-23T22:45:39Z
-- [Duschrohr-Wärmetauscher HF (210cm)](https://unocconi.com/pages/duschrohr-waermetauscher-hf): 
-  Updated: 2025-01-23T22:45:21Z
-- [Montage - Counter Flow Duschrohr mit Wärmetauscher](https://unocconi.com/pages/montage-duschrohr-warmetauscher): 
-  Updated: 2025-01-24T21:17:42Z
-- [Fallrohr-Wärmetauscher - Zertifikate & Downloads](https://unocconi.com/pages/fallrohr-waermetauscher-zertifikate-downloads): 
-  Updated: 2025-01-23T22:51:58Z
-- [Übersicht - Duschrinnen mit integriertem Wärmetauscher](https://unocconi.com/pages/duschrinne-ubersicht): 
-  Updated: 2025-03-03T08:59:32Z
-- [Unocconi Blog - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/unocconi-blog): 
-  Updated: 2025-01-24T20:29:13Z
-- [Finden Sie jetzt einen passenden Unocconi-Partner in Ihrer Nähe!](https://unocconi.com/pages/unocconi-partner): Loading store locator from Stockist store locator...
-  Updated: 2025-03-02T21:01:38Z
-- [Wir finden den perfekten Partner für Sie - Wärmerückgewinnung Dusche](https://unocconi.com/pages/unocconi-partner-finden): 
-  Updated: 2025-01-24T20:23:32Z
-- [Kooperationspartner werden](https://unocconi.com/pages/kooperationspartner-werden): 
-  Updated: 2025-01-23T22:05:02Z
-- [Haustechnik Siegfried Eisenhard - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-siegfried-eisenhard): 
-  Updated: 2025-12-28T20:19:04Z
-- [Badplanung Mandy Reif - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-badplanung-mandy-reif): 
-  Updated: 2025-12-28T20:33:52Z
-- [Angebot](https://unocconi.com/pages/angebot)
-  Updated: 2025-01-25T22:55:10Z
-- [Koch-Bautechnik Energieberatung- Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-koch-bautechnik-energieberatung): 
-  Updated: 2025-12-28T20:21:18Z
-- [ISH](https://unocconi.com/pages/ish)
-  Updated: 2025-02-06T16:10:20Z
-- [Shop - Counter Flow® Duschrohr mit Wärmetauscher](https://unocconi.com/pages/shop-counter-flow®-duschrohr-mit-warmetauscher)
-  Updated: 2025-02-10T17:09:59Z
-- [Shop - Joulia Duschrinnen mit Wärmetauscher](https://unocconi.com/pages/shop-joulia-duschrinnen-mit-warmetauscher)
-  Updated: 2025-02-11T14:23:37Z
-- [e0 Energiekonzepte GmbH - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-e0-energiekonzepte): 
-  Updated: 2025-12-29T12:10:06Z
-- [Götz Haustechnik - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-goetz-haustechnik): 
-  Updated: 2025-12-28T19:45:59Z
-- [Energieberatung BeneFit - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-energieberatung-benefit): 
-  Updated: 2025-12-29T11:36:53Z
-- [Stadler Heizung-Sanitär - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-stadler-heizung-sanitar): 
-  Updated: 2025-12-29T08:46:35Z
-- [Rechner](https://unocconi.com/pages/rechner)
-  Updated: 2025-03-10T14:39:35Z
-- [+++ Partner - Ewald Schäfer](https://unocconi.com/pages/partner-ewald-schafer): 
-  Updated: 2025-12-28T19:35:04Z
-- [Schmidt-Bad-Heizung GmbH - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-schmidt-bad-heizung): 
-  Updated: 2025-12-29T11:27:31Z
-- [Dein Energiewerk GmbH - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-dein-energiewerk): 
-  Updated: 2025-12-28T19:18:40Z
-- [Heinen-Energy - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-heinen-energy): 
-  Updated: 2025-12-28T19:58:13Z
-- [Energieberatung Planz - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-energieberatung-planz): 
-  Updated: 2025-12-28T19:16:08Z
-- [Partner werden](https://unocconi.com/pages/partner-werden)
-  Updated: 2025-08-21T17:11:38Z
-- [APPI Privacy Policy](https://unocconi.com/pages/appi-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-08-28T11:44:36Z
-- [LGPD Privacy Policy](https://unocconi.com/pages/lgpd-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-08-28T11:44:36Z
-- [PIPEDA Privacy Policy](https://unocconi.com/pages/pipeda-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-08-28T11:44:36Z
-- [GDPR Privacy Policy](https://unocconi.com/pages/gdpr-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-08-28T11:44:36Z
-- [CCPA Privacy Policy](https://unocconi.com/pages/ccpa-privacy-policy): .Avada-RequestButton { width: fit-content; cursor: pointer; color: blue; } /* Popup styles */ .Avada-Popup { display: none; width: 420px; position:...
-  Updated: 2025-08-28T11:44:36Z
-- [BEG Förderung - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/beg-foerderung): 
-  Updated: 2025-11-04T17:49:01Z
-- [IGETEC Energie- und Umwelttechnik  - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-igetec): 
-  Updated: 2025-12-28T18:50:30Z
-- [Walz Badmanufaktur - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-walz-badmanufaktur): 
-  Updated: 2025-12-28T19:01:20Z
-- [Energieberatung Christensen - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-energieberatung-christensen): 
-  Updated: 2025-12-28T18:41:23Z
-- [on. ingenieurbüro GmbH  - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-on-ingenieurbuero-gmbh): 
-  Updated: 2025-12-28T18:57:57Z
-- [Der Haustechniker  - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-der-haustechniker): 
-  Updated: 2025-12-28T18:53:48Z
-- [Thermaschick - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-thermaschick): 
-  Updated: 2025-12-28T18:59:34Z
-- [Messe-Kalender](https://unocconi.com/pages/messe-kalender)
-  Updated: 2025-10-24T18:42:47Z
-- [B2B-Shop Registrierung](https://unocconi.com/pages/b2b-shop-registrierung): 
-  Updated: 2025-11-11T08:25:23Z
-- [Energieberatung Göhl - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-energieberatung-goehl): 
-  Updated: 2025-12-28T19:07:59Z
-- [Frequently Asked Questions](https://unocconi.com/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
-  Updated: 2025-11-29T12:37:38Z
-- [Ausschreibungs-Texte](https://unocconi.com/pages/ausschreibungs-texte)
-  Updated: 2025-12-02T21:45:18Z
-- [Traschütz GmbH - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-traschuetz): 
-  Updated: 2026-02-17T15:24:51Z
-- [Referenzen - Duschwasser Wärmerückgewinnung](https://unocconi.com/pages/referenzen): 
-  Updated: 2026-04-14T13:24:10Z
-- [Beckenbach GmbH & Co. KG - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-beckenbach): 
-  Updated: 2026-05-12T17:46:29Z
-- [Energieberatung Keseberg  - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-energieberatung-keseberg): 
-  Updated: 2026-05-22T09:44:20Z
-- [Kostenlose Prüfung Ihrer Einbausituation](https://unocconi.com/pages/kostenlose-prufung-ihrer-einbausituation)
-  Updated: 2026-07-11T10:11:26Z
-- [Unocconi Duschplatte - Wärmetauscher für die Dusche](https://unocconi.com/pages/unocconi-duschplatte-warmetauscher-fuer-die-dusche): 
-  Updated: 2026-07-28T09:11:15Z
-- [Montage - Unocconi Duschplatte mit Wärmetauscher](https://unocconi.com/pages/montage-unocconi-duschplatte-mit-waermetauscher): 
-  Updated: 2026-07-28T09:16:13Z
-- [Shop - Duschplatten mit Wärmetauscher](https://unocconi.com/pages/shop-duschplatten-mit-waermetauscher): 
-  Updated: 2026-07-28T09:56:55Z
-- [Ingenieurbüro Schmidt  - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/ingenieurbuero-schmidt): 
-  Updated: 2026-09-16T10:43:02Z
-- [KillerKonzept Energieberatung - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-killerkonzept-energieberatung): 
-  Updated: 2026-09-21T08:46:02Z
-- [MEF MyEnergy.Farm Energieberatung - Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-mef-myenergy-farm-gmbh): 
-  Updated: 2026-09-24T15:00:50Z
+- [Impressum – Unocconi GmbH](https://unocconi.com/pages/impressum-unocconi-gmbh): 
+  Updated: 2026-10-27T21:12:51Z
+- [Datenschutzerklärung – Unocconi GmbH](https://unocconi.com/pages/datenschutz): 1. Allgemeine Hinweise und Grundsätze der DatenverarbeitungWir freuen uns, dass Sie unsere Webseite besuchen. Der Schutz Ihrer Privatsphäre und der...
+  Updated: 2026-10-27T21:12:51Z
+- [Versandbedingungen – Unocconi GmbH](https://unocconi.com/pages/versandbedingungen-unocconi-gmbh): Wir bieten Ihnen einen zuverlässigen und versicherten Versandservice mit DHL für Ihre Bestellungen an. Unsere Produkte werden sorgfältig verpackt u...
+  Updated: 2026-10-27T21:12:51Z
+- [Kontakt – Unocconi GmbH](https://unocconi.com/pages/kontakt-unocconi-gmbh): 
+  Updated: 2026-10-27T21:12:51Z
+- [Zertifikate & Downloads – Duschrinne Wärmetauscher](https://unocconi.com/pages/zertifikate-und-downloads-duschrinnen-mit-integriertem-waermetauscher): 
+  Updated: 2026-10-27T21:12:51Z
+- [Montage & Reinigung – Duschrinne mit Wärmetauscher](https://unocconi.com/pages/reinigung-und-montage-duschrinnen-mit-waermetauscher): 
+  Updated: 2026-10-27T21:12:51Z
+- [FAQ – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/fragen-und-antworten): 
+  Updated: 2026-10-27T21:12:51Z
+- [Presse-Kit – Unocconi GmbH](https://unocconi.com/pages/presse-kit-unocconi-gmbh): 
+  Updated: 2026-10-27T21:12:51Z
+- [Presseartikel – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/presseartikel-unocconi-gmbh): 
+  Updated: 2026-10-27T21:12:51Z
+- [Duschrinne Inline 3-Rohr mit Wärmetauscher | 89 mm](https://unocconi.com/pages/joulia-inline-3-rohr-duschrinne-mit-integriertem-waermetauscher): 
+  Updated: 2026-10-27T21:12:51Z
+- [Duschrinne Inline 5-Rohr mit Wärmetauscher | 49 %](https://unocconi.com/pages/joulia-inline-5-rohr-duschrinne-mit-integriertem-waermetauscher): 
+  Updated: 2026-10-27T21:12:51Z
+- [Duschrinne Twinline 6-Rohr mit Wärmetauscher | 53 %](https://unocconi.com/pages/joulia-twinline-6-rohr-duschrinne-mit-waermetauscher): 
+  Updated: 2026-10-27T21:12:51Z
+- [Duschrinne Twinline 10-Rohr mit Wärmetauscher | 60 %](https://unocconi.com/pages/joulia-twinline-10-rohr-duschrinne-mit-integriertem-waermetauscher): 
+  Updated: 2026-10-27T21:13:23Z
+- [Legionellen-Risiko bei Wärmerückgewinnung? Nein](https://unocconi.com/pages/kein-erhohtes-legionellen-risiko): Legionellen vermehren sich bis zu potenziell gefährlichen Konzentrationen bei Temperaturen zwischen 25 und 50 °C, falls ein Biofilm vorhanden ist u...
+  Updated: 2026-10-27T21:13:23Z
+- [Förderung – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/foerderung-waermerueckgewinnung-beim-duschen): 
+  Updated: 2026-10-27T21:13:23Z
+- [Über uns – Unocconi GmbH](https://unocconi.com/pages/ueber-uns-unocconi-gmbh): 
+  Updated: 2026-10-27T21:13:23Z
+- [AGB & Widerrufsrecht – Unocconi GmbH](https://unocconi.com/pages/agb): 
+  Updated: 2026-10-27T21:13:23Z
+- [Duschrohre mit Wärmetauscher im Überblick | 53–69 %](https://unocconi.com/pages/duschrohr-ubersicht): 
+  Updated: 2026-10-27T21:13:23Z
+- [Duschrohr mit Wärmetauscher 170 cm | 63 %](https://unocconi.com/pages/duschrohr-waermetauscher-170cm): 
+  Updated: 2026-10-27T21:13:23Z
+- [Duschrohr mit Wärmetauscher 210 cm | 69 %](https://unocconi.com/pages/duschrohr-waermetauscher-210cm): 
+  Updated: 2026-10-27T21:13:23Z
+- [Duschrohr mit Wärmetauscher 210 cm HF | High Flow](https://unocconi.com/pages/duschrohr-waermetauscher-hf): 
+  Updated: 2026-10-27T21:13:23Z
+- [Montage – Duschrohr mit Wärmetauscher](https://unocconi.com/pages/montage-duschrohr-warmetauscher): 
+  Updated: 2026-10-27T21:13:23Z
+- [Zertifikate & Downloads – Duschrohr mit Wärmetauscher](https://unocconi.com/pages/fallrohr-waermetauscher-zertifikate-downloads): 
+  Updated: 2026-10-27T21:13:23Z
+- [Duschrinnen mit Wärmetauscher im Überblick | 37–60 %](https://unocconi.com/pages/duschrinne-ubersicht): 
+  Updated: 2026-10-27T21:13:23Z
+- [Blog – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/unocconi-blog): 
+  Updated: 2026-10-27T21:13:54Z
+- [Unocconi Partner in Ihrer Nähe finden](https://unocconi.com/pages/unocconi-partner): Loading store locator from Stockist store locator...
+  Updated: 2026-10-27T21:13:54Z
+- [Wir finden Ihren Unocconi Partner](https://unocconi.com/pages/unocconi-partner-finden): 
+  Updated: 2026-10-27T21:13:54Z
+- [Kooperationspartner werden – Unocconi](https://unocconi.com/pages/kooperationspartner-werden): 
+  Updated: 2026-10-27T21:13:54Z
+- [Siegfried Eisenhard – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-siegfried-eisenhard): 
+  Updated: 2026-10-27T21:13:54Z
+- [Badplanung Mandy Reif – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-badplanung-mandy-reif): 
+  Updated: 2026-10-27T21:13:54Z
+- [Angebot anfragen – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/angebot): 
+  Updated: 2026-10-27T21:13:54Z
+- [Koch-Bautechnik Energieberatung – Wärmerückgewinnung](https://unocconi.com/pages/partner-koch-bautechnik-energieberatung): 
+  Updated: 2026-10-27T21:13:54Z
+- [Shop – Duschrohre mit Wärmetauscher kaufen](https://unocconi.com/pages/shop-counter-flow®-duschrohr-mit-warmetauscher): 
+  Updated: 2026-10-27T21:13:54Z
+- [Shop – Duschrinnen mit Wärmetauscher kaufen](https://unocconi.com/pages/shop-joulia-duschrinnen-mit-warmetauscher): 
+  Updated: 2026-10-27T21:13:54Z
+- [e0 Energiekonzepte – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-e0-energiekonzepte): 
+  Updated: 2026-10-27T21:13:54Z
+- [Götz Haustechnik – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-goetz-haustechnik): 
+  Updated: 2026-10-27T21:14:27Z
+- [Energieberatung BeneFit – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-energieberatung-benefit): 
+  Updated: 2026-10-27T21:14:27Z
+- [Stadler Heizung-Sanitär – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-stadler-heizung-sanitar): 
+  Updated: 2026-10-27T21:14:27Z
+- [Einsparrechner – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/rechner): 
+  Updated: 2026-10-27T21:14:27Z
+- [Energieberatung Ewald Schäfer – Wärmerückgewinnung](https://unocconi.com/pages/partner-ewald-schafer): 
+  Updated: 2026-10-27T21:14:27Z
+- [Dein Energiewerk GmbH – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-dein-energiewerk): 
+  Updated: 2026-10-27T21:14:27Z
+- [Heinen-Energy – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-heinen-energy): 
+  Updated: 2026-10-27T21:14:27Z
+- [Energieberatung Planz – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-energieberatung-planz): 
+  Updated: 2026-10-27T21:14:27Z
+- [Partner werden – B2B-Konditionen für Fachbetriebe](https://unocconi.com/pages/partner-werden): 
+  Updated: 2026-10-27T21:14:27Z
+- [BEG-Förderung – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/beg-foerderung): 
+  Updated: 2026-10-27T21:14:27Z
+- [IGETEC – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-igetec): 
+  Updated: 2026-10-27T21:14:27Z
+- [Walz Badmanufaktur – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-walz-badmanufaktur): 
+  Updated: 2026-10-27T21:14:58Z
+- [Energieberatung Christensen – Wärmerückgewinnung](https://unocconi.com/pages/partner-energieberatung-christensen): 
+  Updated: 2026-10-27T21:14:58Z
+- [on. ingenieurbüro GmbH – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-on-ingenieurbuero-gmbh): 
+  Updated: 2026-10-27T21:14:58Z
+- [Der Haustechniker – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-der-haustechniker): 
+  Updated: 2026-10-27T21:14:58Z
+- [Thermaschick – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-thermaschick): 
+  Updated: 2026-10-27T21:14:58Z
+- [Messe-Kalender – Unocconi live erleben](https://unocconi.com/pages/messe-kalender): 
+  Updated: 2026-10-27T21:14:58Z
+- [B2B-Shop Registrierung für Fachbetriebe](https://unocconi.com/pages/b2b-shop-registrierung): 
+  Updated: 2026-10-27T21:14:58Z
+- [Energieberatung Göhl – Wärmerückgewinnung Dusche](https://unocconi.com/pages/partner-energieberatung-goehl): 
+  Updated: 2026-10-27T21:14:58Z
+- [Ausschreibungstexte – Wärmetauscher für die Dusche](https://unocconi.com/pages/ausschreibungs-texte): 
+  Updated: 2026-10-27T21:14:58Z
+- [Traschütz GmbH – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-traschuetz): 
+  Updated: 2026-10-27T21:14:58Z
+- [Referenzen – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/referenzen): 
+  Updated: 2026-10-27T21:14:58Z
+- [Beckenbach – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-beckenbach): 
+  Updated: 2026-10-27T21:14:58Z
+- [Energieberatung Keseberg – Wärmerückgewinnung](https://unocconi.com/pages/partner-energieberatung-keseberg): 
+  Updated: 2026-10-27T21:15:30Z
+- [Kostenlose Prüfung Ihrer Einbausituation](https://unocconi.com/pages/kostenlose-prufung-ihrer-einbausituation): 
+  Updated: 2026-10-28T08:52:14Z
+- [Unocconi Duschplatte – Wärmetauscher für die Dusche](https://unocconi.com/pages/unocconi-duschplatte-warmetauscher-fuer-die-dusche): 
+  Updated: 2026-10-27T21:15:30Z
+- [Montage – Unocconi Duschplatte mit Wärmetauscher](https://unocconi.com/pages/montage-unocconi-duschplatte-mit-waermetauscher): 
+  Updated: 2026-10-27T21:15:30Z
+- [Shop – Duschplatten mit Wärmetauscher kaufen](https://unocconi.com/pages/shop-duschplatten-mit-waermetauscher): 
+  Updated: 2026-10-27T21:15:30Z
+- [Ingenieurbüro Schmidt – Wärmerückgewinnung Dusche](https://unocconi.com/pages/ingenieurbuero-schmidt): 
+  Updated: 2026-10-27T21:15:30Z
+- [KillerKonzept Energieberatung – Wärmerückgewinnung](https://unocconi.com/pages/partner-killerkonzept-energieberatung): 
+  Updated: 2026-10-27T21:15:30Z
+- [MEF MyEnergy.Farm – Wärmerückgewinnung beim Duschen](https://unocconi.com/pages/partner-mef-myenergy-farm-gmbh): 
+  Updated: 2026-10-27T21:15:30Z
 
 ## Policies
 
 - [Privacy Policy](https://unocconi.com/policies/privacy-policy)
-  Updated: 2023-06-28T18:06:04Z
+  Updated: 2026-10-24T21:01:57Z
 - [Shipping Policy](https://unocconi.com/policies/shipping-policy)
   Updated: 2023-06-30T15:23:32Z
 - [Refund Policy](https://unocconi.com/policies/refund-policy)
   Updated: 2026-10-21T19:11:25Z
 - [Terms of Service](https://unocconi.com/policies/terms-of-service)
-  Updated: 2026-10-21T19:09:16Z
+  Updated: 2026-10-26T16:18:32Z
 - [Contact Information](https://unocconi.com/policies/contact-information)
   Updated: 2026-10-21T19:12:48Z
 
