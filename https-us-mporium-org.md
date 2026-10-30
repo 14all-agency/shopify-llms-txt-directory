@@ -83,120 +83,120 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-01-31T15:52:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:44:54.328Z
+- Updated At: 2026-10-30T01:28:29.757Z
 
 ## Products
 
 - [House of Blues Vegas 2024 Event T-Shirt](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt): Morrissey Live in Las Vegas House of Blues Event T-Shirt with event dates on the back. 100% ringspun cotton. Unisex, semi-fitted t-shirt SIZE CHART(in inches): S M L XL XXL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-20T06:06:21Z
+  Updated: 2026-10-29T14:00:10Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_houseofblueseventtee_STACK_2048x2048_09b53911-2bcc-4a24-89b7-d2899b8e8728.webp?v=1738339151
   - [S](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315237236)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315270004)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315302772)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315335540)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315368308)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [3XL](https://us.mporium.org/products/house-of-blues-vegas-2024-event-t-shirt?variant=51779315401076)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $30.00 USD
 - [Yeh Yeh Yeh T-Shirt](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt): Black Tee with "Yeh, Yeh, Yeh, Morrissey.." photo 100% ringspun cotton. Unisex, semi-fitted t-shirt SIZE CHART(in inches): S M L XL XXL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-16T15:01:30Z
+  Updated: 2026-10-29T14:00:12Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_yehtee_FRONT_2048x2048_66608cd6-278a-4dc4-beb5-d75539c68572.webp?v=1738339253
   - [S](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51991812505972)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51991812538740)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51779349086580)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51779349119348)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51991812571508)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [3XL](https://us.mporium.org/products/yeh-yeh-yeh-t-shirt?variant=51991815848308)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
 - [Beethoven Was Deaf T-Shirt - Brown](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt): Dark Chocolate T-Shirt with original "Beethoven Was Deaf" Album Art 100% cotton SIZE CHART(in inches): S M L XL XXL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-05T13:04:35Z
+  Updated: 2026-10-29T14:00:11Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_beethovenwasdeaforiginaltee_FRONT_2048x2048_440f373b-3848-41e6-9137-f6870307762a.webp?v=1738339324
   - [S](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt?variant=51779315761524)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt?variant=51779315794292)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt?variant=51779315827060)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt?variant=51779315859828)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/beethoven-was-deaf-album-art-t-shirt?variant=51779315892596)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Beethoven Was Deaf Reissue T-Shirt - White](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt): White T-Shirt with Beethoven Was Deaf Reissue Album Art • 100% Ring Spun Cotton• Unisex• Semi-Fitted SIZE CHART(in inches): S M L XL XXL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-05T13:04:36Z
+  Updated: 2026-10-29T14:00:20Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_beethovenwasdeafreissuetee_FRONT_2048x2048_84bc7a50-72c4-4cf8-8bf4-928e62b5651f.webp?v=1738339392
   - [S](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt?variant=51989363130740)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt?variant=51989363163508)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt?variant=51989363196276)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt?variant=53059655860596)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/beethoven-was-deaf-reissue-t-shirt?variant=51989363261812)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Beethoven T-Shirt](https://us.mporium.org/products/beethoven-t-shirt): Black 100% Cotton T-Shirt with Morrissey bold text and portrait of Beethoven with "Beethoven Was Deaf" text • 100% Ring Spun Cotton• Unisex• Semi-Fitted SIZE CHART(in inches): S M L XL XXL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-19T16:50:36Z
+  Updated: 2026-10-30T01:13:05Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_beethoventee_FRONT_2048x2048_5ecd5efa-e73d-4aa8-8d15-777fc76f191e.webp?v=1738339468
   - [S](https://us.mporium.org/products/beethoven-t-shirt?variant=51989368865140)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/beethoven-t-shirt?variant=51989368897908)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/beethoven-t-shirt?variant=51989368930676)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/beethoven-t-shirt?variant=51989368963444)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Singing Face T-Shirt - Black](https://us.mporium.org/products/singing-face-black-t-shirt): 100% ringspun cotton t-shirt SIZE CHART (inches) S M L XL 2XL 3XL BODY LENGTH 28 29 1/4 30 1/4 31 1/4 32 1/4 33 1/2 CHEST WIDTH 18 20 22 24 26 28
-  Updated: 2026-10-16T15:01:30Z
+  Updated: 2026-10-29T14:00:13Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -217,28 +217,28 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Meat is Murder Tee - Military Green](https://us.mporium.org/products/meat-is-murder-military-green-tee): Semi-Fitted Fabric: 100% Ring Spun Cotton
-  Updated: 2026-10-05T13:04:37Z
+  Updated: 2026-10-29T14:00:15Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRISSEY_MIM_TEE_2048x2048_b31ddf89-a11c-4568-9299-0f08a8186801.webp?v=1738339564
   - [S](https://us.mporium.org/products/meat-is-murder-military-green-tee?variant=51979196334452)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/meat-is-murder-military-green-tee?variant=51979196367220)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/meat-is-murder-military-green-tee?variant=51979196399988)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/meat-is-murder-military-green-tee?variant=51979196432756)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/meat-is-murder-military-green-tee?variant=51979196465524)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Kicking T-Shirt - Black](https://us.mporium.org/products/black-kicking-t-shirt): Morrissey Kick photo printed on 100% cotton T-Shirt
-  Updated: 2026-10-22T13:04:07Z
+  Updated: 2026-10-29T14:00:14Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -274,22 +274,22 @@ your agent can transact everywhere.
     Availability: Available
     Price: $25.00 USD
 - [Pretty Petty Thieves Ringer Tee - Black/White](https://us.mporium.org/products/pretty-petty-thieves-ringer-tee-black-white): 100% cotton ringer tee
-  Updated: 2026-10-05T13:04:40Z
+  Updated: 2026-10-29T14:00:11Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRPrettyPettyTee.png?v=1738697288
   - [M](https://us.mporium.org/products/pretty-petty-thieves-ringer-tee-black-white?variant=51779345908084)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/pretty-petty-thieves-ringer-tee-black-white?variant=51779345940852)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/pretty-petty-thieves-ringer-tee-black-white?variant=51779346006388)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Mystery Tee](https://us.mporium.org/products/mystery-tee): Snag a Morrissey mystery tee for a discounted price! Please note: if you buy more than one t-shirt of the same size, you could receive two of the same shirt! T-shirts are 100% cotton
-  Updated: 2026-10-22T18:27:36Z
+  Updated: 2026-10-29T18:14:55Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -310,7 +310,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $15.00 USD
 - [Unlovable Tee - Natural](https://us.mporium.org/products/unlovable-tee-natural): Morrissey t-shirt featuring a front and back print 100% cotton t-shirt in Natural
-  Updated: 2026-10-05T13:04:43Z
+  Updated: 2026-10-29T14:00:13Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -329,7 +329,7 @@ your agent can transact everywhere.
     Price: $40.00 USD
   - [2XL](https://us.mporium.org/products/unlovable-tee-natural?variant=51784486093172)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Irish Blood Long Sleeve - Black](https://us.mporium.org/products/irish-blood-long-sleeve-black): Morrissey long sleeve t-shirt featuring a front and sleeve print 100% cotton t-shirt in Black
   Updated: 2026-10-05T13:04:44Z
   Vendor: Morrissey US
@@ -355,44 +355,44 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $60.00 USD
 - [Reach Out Tee - White](https://us.mporium.org/products/reach-out-tee-white): Morrissey t-shirt featuring a front print 100% cotton t-shirt in White
-  Updated: 2026-10-22T22:51:13Z
+  Updated: 2026-10-29T14:00:17Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/reach_white.png?v=1743112097
   - [S](https://us.mporium.org/products/reach-out-tee-white?variant=51989388165492)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/reach-out-tee-white?variant=51989388198260)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/reach-out-tee-white?variant=51989388231028)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/reach-out-tee-white?variant=51989388263796)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/reach-out-tee-white?variant=51989388296564)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Viva Morrissey Riot Fest Tee - Black](https://us.mporium.org/products/viva-morrissey-riot-fest-tee-black): Morrissey t-shirt featuring a front print 100% cotton t-shirt in Black
-  Updated: 2026-10-16T15:01:30Z
+  Updated: 2026-10-29T14:00:18Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/viva.png?v=1743112246
   - [S](https://us.mporium.org/products/viva-morrissey-riot-fest-tee-black?variant=51989389476212)
     Availability: Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/viva-morrissey-riot-fest-tee-black?variant=51989389508980)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/viva-morrissey-riot-fest-tee-black?variant=51989389574516)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/viva-morrissey-riot-fest-tee-black?variant=51989389607284)
     Availability: Not Available
-    Price: $25.00 USD
+    Price: $30.00 USD
 - [Flick Comb Hoodie - Black](https://us.mporium.org/products/flick-comb-hoodie-black): Black pullover hoodie featuring a Morrissey flick comb design on the front
   Updated: 2026-10-05T13:04:46Z
   Vendor: Morrissey US
@@ -409,7 +409,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $80.00 USD
 - [2022 Poster](https://us.mporium.org/products/2022-poster): 18x24" event poster
-  Updated: 2026-10-20T06:06:26Z
+  Updated: 2026-10-25T01:51:17Z
   Vendor: Morrissey US
   Product Type: Poster
   Availability: Available
@@ -434,7 +434,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [2025 Admat Tour Tee](https://us.mporium.org/products/2025-admat-tour-tee): 100% cotton t-shirt in Black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-05T13:04:50Z
+  Updated: 2026-10-29T14:00:19Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -442,7 +442,7 @@ your agent can transact everywhere.
   - [Spring 2025 Dates / S](https://us.mporium.org/products/2025-admat-tour-tee?variant=52092137931124)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/164590_1_301670_d.png?v=1746747619
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [Spring 2025 Dates / M](https://us.mporium.org/products/2025-admat-tour-tee?variant=52092137963892)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/164590_1_301670_d.png?v=1746747619
@@ -458,7 +458,7 @@ your agent can transact everywhere.
   - [Spring 2025 Dates / 2XL](https://us.mporium.org/products/2025-admat-tour-tee?variant=52092138062196)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/164590_1_301670_d.png?v=1746747619
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [Spring 2025 Dates / 3XL](https://us.mporium.org/products/2025-admat-tour-tee?variant=52092178039156)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/164590_1_301670_d.png?v=1746747619
@@ -482,37 +482,37 @@ your agent can transact everywhere.
   - [All 2025 Dates / 2XL](https://us.mporium.org/products/2025-admat-tour-tee?variant=53624057364852)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/165817_1_304444_d.png?v=1762290883
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [All 2025 Dates / 3XL](https://us.mporium.org/products/2025-admat-tour-tee?variant=53624057397620)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/165817_1_304444_d.png?v=1762290883
     Price: $40.00 USD
 - [Meat Is Murder XL Tee - Army Green](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green): 100% cotton t-shirt in Army Green Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-20T17:06:47Z
+  Updated: 2026-10-29T16:37:18Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_MIM_XL_Tee_Comp.png?v=1759255160
   - [S](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53867424350580)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53467370062196)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53467370094964)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53467370127732)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53467370160500)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [3XL](https://us.mporium.org/products/meat-is-murder-xl-tee-army-green?variant=53467378975092)
     Availability: Not Available
     Price: $40.00 USD
 - [Now Today Raglan - Black/White](https://us.mporium.org/products/now-today-raglan-black-white): 100% cotton raglan t-shirt in black/white
-  Updated: 2026-10-22T04:05:21Z
+  Updated: 2026-10-26T04:28:11Z
   Vendor: Morrissey US
   Product Type: Raglan
   Availability: Available
@@ -530,7 +530,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $50.00 USD
 - [Ambitious Outsider Tee - White](https://us.mporium.org/products/ambitious-outsider-tee-white): 100% cotton t-shirt in white
-  Updated: 2026-10-16T22:23:41Z
+  Updated: 2026-10-29T22:25:07Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -543,19 +543,19 @@ your agent can transact everywhere.
     Price: $40.00 USD
   - [2XL](https://us.mporium.org/products/ambitious-outsider-tee-white?variant=53517441761652)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Maurice Tee - Black](https://us.mporium.org/products/maurice-tee-black): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-05T13:04:54Z
+  Updated: 2026-10-29T21:40:36Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_0008_164592_1_301534_d.png?v=1762541627
   - [S](https://us.mporium.org/products/maurice-tee-black?variant=53637794693492)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/maurice-tee-black?variant=53767976059252)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/maurice-tee-black?variant=53767976092020)
     Availability: Not Available
     Price: $40.00 USD
@@ -580,143 +580,143 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_MUIAL_CD.png?v=1767987182
   Price: $14.98 USD
 - [Make-up is a Lie - Digital Download](https://us.mporium.org/products/make-up-is-a-lie-digital-download): Morrissey's 14th studio album, Make-up is a Lie, available as a digital download. If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Track Listing You're Right, It's Time Make-up is a Lie Notre-Dame Amazona Headache Boulevard Zoom Zoom the Little Boy The Night Pop Dropped Kerching Kerching Lester Bangs Many Icebergs Ago The Monsters of Pig Alley Release Date: March 6, 2026
-  Updated: 2026-10-05T13:04:56Z
+  Updated: 2026-10-29T15:01:53Z
   Vendor: Morrissey US
   Product Type: Digital Download
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_MUIAL_DD.png?v=1766429443
   Price: $9.98 USD
 - [Barbershop Tee - Brown](https://us.mporium.org/products/barbershop-tee-brown): 100% cotton t-shirt in brown Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-19T15:07:05Z
+  Updated: 2026-10-29T14:00:22Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_0001_166608_1_306371_d.png?v=1766439554
   - [S](https://us.mporium.org/products/barbershop-tee-brown?variant=53767979958644)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/barbershop-tee-brown?variant=53767979991412)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/barbershop-tee-brown?variant=53767980024180)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/barbershop-tee-brown?variant=53767980056948)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/barbershop-tee-brown?variant=53767980089716)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Floral Tee - Black](https://us.mporium.org/products/floral-tee-black): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-18T23:47:55Z
+  Updated: 2026-10-29T14:00:23Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_0002_166607_1_306370_d.png?v=1766439554
   - [S](https://us.mporium.org/products/floral-tee-black?variant=53768041333108)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/floral-tee-black?variant=53768041365876)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/floral-tee-black?variant=53768041398644)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/floral-tee-black?variant=53768041431412)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/floral-tee-black?variant=53768041464180)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Tracklist Tee](https://us.mporium.org/products/tracklist-tee): 100% cotton t-shirt in dark blue If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-17T01:13:51Z
+  Updated: 2026-10-29T18:59:16Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_Tracklist_Tee_Front.png?v=1767987116
   - [S](https://us.mporium.org/products/tracklist-tee?variant=53809914675572)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/tracklist-tee?variant=53809914708340)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/tracklist-tee?variant=53809914741108)
     Availability: Not Available
     Price: $40.00 USD
   - [XL](https://us.mporium.org/products/tracklist-tee?variant=53809914773876)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/tracklist-tee?variant=53809914806644)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Zoetrope Tee](https://us.mporium.org/products/zoetrope-tee): 100% cotton t-shirt in black If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-16T19:15:05Z
+  Updated: 2026-10-29T14:00:24Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_Zoe_Tee_Front.png?v=1767887377
   - [S](https://us.mporium.org/products/zoetrope-tee?variant=53809918411124)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/zoetrope-tee?variant=53809918443892)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/zoetrope-tee?variant=53809918476660)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/zoetrope-tee?variant=53809918509428)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/zoetrope-tee?variant=53809918542196)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Lipstick Tee](https://us.mporium.org/products/lipstick-tee): 100% cotton t-shirt in black If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-05T13:05:00Z
+  Updated: 2026-10-29T16:30:17Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_Makeup_Tee.png?v=1767987182
   - [S](https://us.mporium.org/products/lipstick-tee?variant=53816172314996)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/lipstick-tee?variant=53816172347764)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/lipstick-tee?variant=53816172380532)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/lipstick-tee?variant=53816172413300)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/lipstick-tee?variant=53816172446068)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Dollar Bill Tour Tee](https://us.mporium.org/products/dollar-bill-tour-tee): 100% cotton t-shirt in navy. Features a photo print on the front and tour dates on the back. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 30
-  Updated: 2026-10-21T19:50:38Z
+  Updated: 2026-10-29T22:25:07Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORR_0003_165815_1_304442_d.png?v=1769636046
   - [S](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865830941044)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865830973812)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865831006580)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865831039348)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865831072116)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [3XL](https://us.mporium.org/products/dollar-bill-tour-tee?variant=53865831203188)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
 - [Suedehead Crewneck](https://us.mporium.org/products/suedehead-crewneck): Cotton/polyester crewneck in black. Features Suedehead design on front. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-20T06:06:17Z
+  Updated: 2026-10-30T01:23:12Z
   Vendor: Morrissey US
   Product Type: Crewneck
   Availability: Available
@@ -737,28 +737,52 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [Cold Dead Hand Tee](https://us.mporium.org/products/cold-dead-hand-tee): 100% cotton t-shirt in black If you are shopping outside the US, please head to the UK/EU store to pre-order the album and merch. Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-05T13:05:02Z
+  Updated: 2026-10-29T14:00:26Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRColdDeadHandTee.png?v=1775746591
   - [S](https://us.mporium.org/products/cold-dead-hand-tee?variant=54329390793076)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [M](https://us.mporium.org/products/cold-dead-hand-tee?variant=54329390825844)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [L](https://us.mporium.org/products/cold-dead-hand-tee?variant=54329390858612)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [XL](https://us.mporium.org/products/cold-dead-hand-tee?variant=54329390891380)
     Availability: Available
-    Price: $40.00 USD
+    Price: $30.00 USD
   - [2XL](https://us.mporium.org/products/cold-dead-hand-tee?variant=54329390924148)
+    Availability: Available
+    Price: $30.00 USD
+- [Live in Concert Tour Tee](https://us.mporium.org/products/live-in-concert-tour-tee): 100% cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
+  Updated: 2026-10-29T17:30:59Z
+  Vendor: Morrissey US
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRconcertteefront.png?v=1785266415
+  - [S](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55040582517108)
+    Availability: Available
+    Price: $40.00 USD
+  - [M](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55040582549876)
+    Availability: Available
+    Price: $40.00 USD
+  - [L](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55040582582644)
+    Availability: Available
+    Price: $40.00 USD
+  - [XL](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55040582615412)
+    Availability: Available
+    Price: $40.00 USD
+  - [2XL](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55040582648180)
+    Availability: Available
+    Price: $40.00 USD
+  - [3XL](https://us.mporium.org/products/live-in-concert-tour-tee?variant=55069072458100)
     Availability: Available
     Price: $40.00 USD
 - [Many Icebergs Tee](https://us.mporium.org/products/many-icebergs-tee): 100% cotton t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-17T01:28:16Z
+  Updated: 2026-10-29T19:51:26Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -782,7 +806,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [The Queen Is Dead Tee](https://us.mporium.org/products/the-queen-is-dead-tee): 100% cotton t-shirt in forest green Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-22T01:46:21Z
+  Updated: 2026-10-29T22:23:06Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -806,7 +830,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Make-Up Is A Lie Combat Tee](https://us.mporium.org/products/make-up-is-a-lie-combat-tee): 90% ringspun cotton / 10% polyester t-shirt in sport grey Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-19T06:04:47Z
+  Updated: 2026-10-29T21:40:36Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
@@ -830,19 +854,19 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [I Am England Tee](https://us.mporium.org/products/i-am-england-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
-  Updated: 2026-10-17T20:27:05Z
+  Updated: 2026-10-23T20:36:02Z
   Vendor: Morrissey US
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRenglandtee.png?v=1785266415
   - [S](https://us.mporium.org/products/i-am-england-tee?variant=55041479704948)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [M](https://us.mporium.org/products/i-am-england-tee?variant=55041479737716)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [L](https://us.mporium.org/products/i-am-england-tee?variant=55041479770484)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [XL](https://us.mporium.org/products/i-am-england-tee?variant=55041479803252)
     Availability: Available
@@ -854,91 +878,139 @@ your agent can transact everywhere.
     Availability: Available
     Price: $40.00 USD
 - [Shoplifter Tote - Light Blue](https://us.mporium.org/products/shoplifter-tote-light-blue): Light blue cotton tote bag
-  Updated: 2026-10-21T16:18:36Z
+  Updated: 2026-10-30T01:24:15Z
   Vendor: Morrissey US
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRshoptote.png?v=1785266415
   Price: $25.00 USD
-- [Photo Magnet](https://us.mporium.org/products/photo-magnet): Acrylic refrigerator magnet
-  Updated: 2026-10-21T16:18:36Z
+- [Logo Hat - Forest Green](https://us.mporium.org/products/logo-hat-forest-green): Embroidered, 100% cotton twill hat with a mesh backing in forest green
+  Updated: 2026-10-29T16:10:56Z
   Vendor: Morrissey US
-  Product Type: Magnet
+  Product Type: Hat
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRmagnet.png?v=1785266415
-  Price: $10.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRpinklogohat.png?v=1785266415
+  Price: $35.00 USD
+- [November Spawned A Monster Tee](https://us.mporium.org/products/november-spawned-a-monster-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 1/4 20 L 30 1/4 22 XL 31 1/4 24 2XL 32 1/2 26
+  Updated: 2026-10-30T01:24:15Z
+  Vendor: Morrissey US
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRNovemberTee.png?v=1793129935
+  - [S](https://us.mporium.org/products/november-spawned-a-monster-tee?variant=56581635834228)
+    Availability: Available
+    Price: $40.00 USD
+  - [M](https://us.mporium.org/products/november-spawned-a-monster-tee?variant=56581635866996)
+    Availability: Available
+    Price: $40.00 USD
+  - [L](https://us.mporium.org/products/november-spawned-a-monster-tee?variant=56581635899764)
+    Availability: Available
+    Price: $40.00 USD
+  - [XL](https://us.mporium.org/products/november-spawned-a-monster-tee?variant=56581635932532)
+    Availability: Available
+    Price: $40.00 USD
+  - [2XL](https://us.mporium.org/products/november-spawned-a-monster-tee?variant=56581635965300)
+    Availability: Not Available
+    Price: $40.00 USD
+- [Sugar Skull Crewneck](https://us.mporium.org/products/sugar-skull-crewneck): 50% cotton, 50% polyester crewneck sweatshirt in black
+  Updated: 2026-10-29T23:17:36Z
+  Vendor: Morrissey US
+  Product Type: Crewneck
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0901/1688/2804/files/MORRSugarSkullCrewneck.png?v=1793129935
+  - [S](https://us.mporium.org/products/sugar-skull-crewneck?variant=56581660737908)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://us.mporium.org/products/sugar-skull-crewneck?variant=56581660770676)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://us.mporium.org/products/sugar-skull-crewneck?variant=56581660803444)
+    Availability: Available
+    Price: $60.00 USD
+  - [XL](https://us.mporium.org/products/sugar-skull-crewneck?variant=56581660836212)
+    Availability: Available
+    Price: $60.00 USD
+  - [2XL](https://us.mporium.org/products/sugar-skull-crewneck?variant=56581660868980)
+    Availability: Not Available
+    Price: $60.00 USD
 
 ## Collections
 
 - [Home page](https://us.mporium.org/collections/frontpage)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 93
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 95
 - [T-Shirts](https://us.mporium.org/collections/t-shirts)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 54
+  Updated: 2026-10-29T14:47:51Z
+  Total Products: 55
 - [Sweatshirts](https://us.mporium.org/collections/sweatshirts)
   Updated: 2026-07-22T15:09:34Z
   Total Products: 5
 - [Accessories](https://us.mporium.org/collections/accessories)
-  Updated: 2026-10-22T11:21:33Z
+  Updated: 2026-10-28T11:20:26Z
   Total Products: 25
 - [](https://us.mporium.org/collections/)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 28
+  Updated: 2026-10-29T14:01:11Z
+  Total Products: 46
 - [New](https://us.mporium.org/collections/new)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 57
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 59
 - [Apparel](https://us.mporium.org/collections/apparel)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 60
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 62
 - [Event Merch](https://us.mporium.org/collections/event-merch)
-  Updated: 2026-10-22T11:21:33Z
+  Updated: 2026-10-29T14:00:26Z
   Total Products: 26
 - [Music](https://us.mporium.org/collections/music)
-  Updated: 2026-10-19T11:23:29Z
+  Updated: 2026-10-27T19:27:55Z
   Total Products: 10
 - [North America 2025 Tour Merch](https://us.mporium.org/collections/north-america-2025-tour-merch)
-  Updated: 2026-10-21T11:24:16Z
+  Updated: 2026-10-29T14:00:22Z
   Total Products: 6
 - [Best Sellers](https://us.mporium.org/collections/best-sellers)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 98
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 100
 - [New Arrivals](https://us.mporium.org/collections/new-arrivals)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 98
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 100
 - [World Animal Day](https://us.mporium.org/collections/world-animal-day)
-  Updated: 2026-10-21T11:24:16Z
+  Updated: 2026-10-29T14:00:22Z
   Total Products: 3
 - [$10 & Under](https://us.mporium.org/collections/10)
-  Updated: 2026-10-22T11:21:33Z
+  Updated: 2026-10-23T11:24:19Z
   Total Products: 6
 - [$20](https://us.mporium.org/collections/20)
-  Updated: 2026-10-20T11:21:30Z
-  Total Products: 9
+  Updated: 2026-10-29T14:00:54Z
+  Total Products: 8
 - [$40](https://us.mporium.org/collections/40)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 34
+  Updated: 2026-10-29T14:47:51Z
+  Total Products: 23
 - [$20.25](https://us.mporium.org/collections/20-25)
   Updated: 2026-04-28T19:14:16Z
   Total Products: 0
 - [Make-up Is A Lie](https://us.mporium.org/collections/make-up-is-a-lie)
-  Updated: 2026-10-19T11:23:29Z
+  Updated: 2026-10-29T14:00:27Z
   Total Products: 16
 - [All](https://us.mporium.org/collections/all)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 98
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 100
 - [2026 Tour Merch](https://us.mporium.org/collections/2026-tour-merch)
-  Updated: 2026-10-22T11:21:33Z
-  Total Products: 19
+  Updated: 2026-10-29T14:47:52Z
+  Total Products: 21
 - [Make-up is a Lie Fan Packs](https://us.mporium.org/collections/make-up-is-a-lie-fan-packs)
   Updated: 2026-07-22T15:09:27Z
   Total Products: 3
 - [BOGO Tees](https://us.mporium.org/collections/bogo-tees)
-  Updated: 2026-10-22T11:21:33Z
+  Updated: 2026-10-29T14:00:26Z
   Total Products: 26
 - [Singles](https://us.mporium.org/collections/singles)
   Updated: 2026-10-19T11:23:29Z
   Total Products: 4
+- [$30 Tees](https://us.mporium.org/collections/30-tees)
+  Updated: 2026-10-29T14:01:11Z
+  Total Products: 28
+- [Dìa de los Muertos](https://us.mporium.org/collections/dia-de-los-muertos)
+  Updated: 2026-10-29T14:52:06Z
+  Total Products: 30
 
 ## Store Pages
 
