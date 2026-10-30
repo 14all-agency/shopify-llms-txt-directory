@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-10-23T00:45:26.083Z
+- Updated At: 2026-10-30T00:59:37.439Z
 
 ## Products
 
@@ -2278,14 +2278,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/dfef2855-cfc8-48c9-80a6-39a2e89ccea9.jpg?v=1698013924
   Price: $115.75 USD
-- [Zodiac Dragon Necklace Women's Sterling Silver Jewellery Set](https://surazy.com/products/hetian-jade-dragon-year-necklace-womens-sterling-silver): Elevate your style with our Zodiac Dragon Necklace Set: Illuminate your style with our Zodiac Dragon Necklace Women's Sterling Silver Jewellery Set. The intricately designed dragon pendant and matching earrings capture the essence of cosmic beauty, making this set a standout addition to your jewelry collection. Elevate your style with our exquisite Zodiac Dragon Necklace Women's Sterling Silver Jewelry Set. Crafted with precision and adorned with intricate dragon motifs, this stunning set combines elegance and mystique. Embrace the celestial allure of the zodiac, showcasing your unique personality with this finely detailed sterling silver ensemble. Unleash the power of individuality – wear the magic of the Zodiac Dragon with pride.  Process: Electroplating Color: S925 Hetian Jade Zodiac Dragon Necklace-Rose, S925 Hetian Jade Zodiac Dragon Bracelet-Rose and Dragon stud earrings-Rose Material: Silver Popular elements: Dragon Perimeter: 41cm (inclusive)-50cm (inclusive) Modeling: Animal / Zodiac Size: 39+5cm Packing list: Necklace + bracelet + stud earrings 2pcs * 1
-  Updated: 2026-07-10T13:38:59Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/97e0451a-e33f-41cd-8030-555b3cf4b833.jpg?v=1698014043
-  Price: $75.97 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTY0NjQ5MjY0LCJsYXN0X3ZhbHVlIjoiODc4NDk2NDY0OTI2NCJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTYzMTA5MTY4LCJsYXN0X3ZhbHVlIjoiODc4NDk2MzEwOTE2OCJ9)
 
 ## Collections
 
@@ -3069,6 +3062,15 @@
     Author: Surazy.com
   - [Exploring the Bold Elegance of Cutout Spaghetti Strap One-Piece Swimwear](https://surazy.com/blogs/news/exploring-the-bold-elegance-of-cutout-spaghetti-strap-one-piece-swimwear): Exploring the Bold Elegance of Cutout Spaghetti Strap One-Piece Swimwear
     Updated: 2026-10-21T00:30:46Z
+    Author: Surazy.com
+  - [Achieve Ultimate Confidence with Judy Blue Tummy Control Slim Jeans](https://surazy.com/blogs/news/achieve-ultimate-confidence-with-judy-blue-tummy-control-slim-jeans): Achieve Ultimate Confidence with Judy Blue Tummy Control Slim Jeans
+    Updated: 2026-10-24T00:07:57Z
+    Author: Surazy.com
+  - [Unlock Effortless Style with Judy Blue Full Size High Waist Distressed Straight Jeans](https://surazy.com/blogs/news/unlock-effortless-style-with-judy-blue-full-size-high-waist-distressed-straight-jeans): Unlock Effortless Style with Judy Blue Full Size High Waist Distressed Straight Jeans
+    Updated: 2026-10-26T00:51:22Z
+    Author: Surazy.com
+  - [Elevate Your Style with the Tied Printed Surplice Short Sleeve Dress This Season](https://surazy.com/blogs/news/elevate-your-style-with-the-tied-printed-surplice-short-sleeve-dress-this-season): Elevate Your Style with the Tied Printed Surplice Short Sleeve Dress This Season
+    Updated: 2026-10-28T00:45:57Z
     Author: Surazy.com
 
 ## Store Pages
