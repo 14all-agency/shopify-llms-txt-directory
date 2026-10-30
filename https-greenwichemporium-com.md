@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-03T21:41:59Z
 - Contact Email: contact@greenwich-emporium.com
-- Updated At: 2026-10-23T00:43:06.047Z
+- Updated At: 2026-10-30T01:21:18.146Z
 
 ## Products
 
@@ -1543,57 +1543,6 @@
   - [M](https://greenwichemporium.com/products/womens-sloth-leggings?variant=44417216479367)
     Availability: Available
     Price: $49.99 USD
-- [Leopard Patchwork Color Block Ribbed Long Sleeve Top](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top): 【Style】-- The design of Round Neck and makes this This Womens Colorblock Long Sleeve Tops even lazier, and it is also popular due to its casual style, which is loose and suitable for anyone.【Materia】-- This Round Neck T-Shirts for women Designed with 95%Polyester,5%Elastane fabric, it is elastic and very comfortable.Perfect for warm weather wearing alone or paired with a jacket, creating a relaxed and fashionable appearance while bringing a comfortable and casual wearing experience.【Occasion】-- This Tee for women Can be paired with jeans/sports pants/skirts/sneakers/sandals/hats to create a casual look. This T-shirt has a unique design and a comfortable fit, making it a must-have item in a fashionable and modern wardrobe.
-  Updated: 2026-09-08T16:05:36Z
-  Vendor: Peach Castor
-  Product Type: Tops & Blouses
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/data_aae5b918-b24c-4565-8c0d-10f371e82528.jpg?v=1775576214
-  - [S / Apricot](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082691207)
-    Availability: Available
-    Price: $24.99 USD
-  - [2XL / Rose](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082723975)
-    Availability: Available
-    Price: $24.99 USD
-  - [S / Blue](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082756743)
-    Availability: Available
-    Price: $24.99 USD
-  - [M / Blue](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082789511)
-    Availability: Available
-    Price: $24.99 USD
-  - [XL / Blue](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082822279)
-    Availability: Available
-    Price: $24.99 USD
-  - [XL / Rose](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082855047)
-    Availability: Available
-    Price: $24.99 USD
-  - [M / Rose](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082887815)
-    Availability: Available
-    Price: $24.99 USD
-  - [M / Apricot](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082920583)
-    Availability: Available
-    Price: $24.99 USD
-  - [L / Rose](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082953351)
-    Availability: Available
-    Price: $24.99 USD
-  - [2XL / Blue](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422082986119)
-    Availability: Available
-    Price: $24.99 USD
-  - [L / Blue](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422083018887)
-    Availability: Available
-    Price: $24.99 USD
-  - [S / Rose](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422083051655)
-    Availability: Available
-    Price: $24.99 USD
-  - [2XL / Apricot](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422083084423)
-    Availability: Available
-    Price: $24.99 USD
-  - [XL / Apricot](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422083117191)
-    Availability: Available
-    Price: $24.99 USD
-  - [L / Apricot](https://greenwichemporium.com/products/leopard-patchwork-color-block-ribbed-long-sleeve-top?variant=44422083149959)
-    Availability: Available
-    Price: $24.99 USD
 - [Paseo Tote](https://greenwichemporium.com/products/paseo-tote): Genuine leather Unlined interior Removable shoulder strap 14" L x 18" W x 5" D The Paseo Tote is made with smooth, warm caramel colored leather on the body, top closure, and straps for a cohesive style. Simple metallic details add a modern touch with high durability attachments that match the central button closure.
   Updated: 2026-09-09T03:56:39Z
   Vendor: Pink Lucy
@@ -2874,7 +2823,44 @@
   - [LARGE / KHAKI](https://greenwichemporium.com/products/asymmetric-self-belted-pockets-detailed-maxi-skirt-formal-casual?variant=45922435956871)
     Availability: Available
     Price: $20.88 USD
-[List Continued](https://greenwichemporium.com/a/llms-agent/llms.txt?shop=6quyks-mj.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODM3NTUxOTgwNjc5LCJsYXN0X3ZhbHVlIjoiODgzNzU1MTk4MDY3OSJ9)
+- [Checkered Elastic High Waist Stretch Bodycon Maxi Pencil Skirt](https://greenwichemporium.com/products/checkered-elastic-high-waist-stretch-bodycon-maxi-pencil-skirt): This maxi skirt has a high waist line and is perfect for any occasion. Beautifully made with a checkered pattern and features fringe details on the side for a trendy style. Feel confident in this bodycon skirt with the beautiful fringes on the side. This skirt is great for parties, weekend events & clubwear!Features: high waist, elastic waist, pencil long skirt, ankle length, tassel design on both sides of the skirt, adding to the fashion sense of the skirt. checkered, bodycon, elegant, sexy and fashionable. Wear: In spring and summer, you can wear a short jacket, shirt and high heels. Autumn and winter can be matched with sweaters, jackets and shoes. This skirt is definitely a fashionable dress. It is completely suitable for the four seasons of spring, summer, autumn and winter.Suitable for bar, night club, casual, home, shop, street, dating, dinner, holiday, vacation, beach, birthday, party, evening, banquet, special occasion, daily wear and other activities.
+  Updated: 2026-09-24T15:05:56Z
+  Vendor: Puce Juniper
+  Product Type: Skirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/data_4387d068-3f23-40c7-8dbf-dd4c27a1d096.jpg?v=1790175644
+  - [SMALL](https://greenwichemporium.com/products/checkered-elastic-high-waist-stretch-bodycon-maxi-pencil-skirt?variant=45922437562503)
+    Availability: Available
+    Price: $19.78 USD
+  - [LARGE](https://greenwichemporium.com/products/checkered-elastic-high-waist-stretch-bodycon-maxi-pencil-skirt?variant=45922437595271)
+    Availability: Available
+    Price: $19.78 USD
+  - [MEDIUM](https://greenwichemporium.com/products/checkered-elastic-high-waist-stretch-bodycon-maxi-pencil-skirt?variant=45922437628039)
+    Availability: Available
+    Price: $19.78 USD
+- [Ruffled Hem Printed Midi Skirt](https://greenwichemporium.com/products/ruffled-hem-printed-midi-skirt): Features: Ruffled Sheer: Opaque Body: Not lined Material composition: 75% polyester, 25% polyamide Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size US Length Waist S 4 34.6 25.2 M 6/8 35 26.8 L 10/12 35.4 29.1 XL 14 35.8 31.5
+  Updated: 2026-09-26T03:19:59Z
+  Vendor: Ruby Styx
+  Product Type: skirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/86ef654f-9e05-4c9c-950a-2b5b8939f2b7-Max.jpg?v=1790175664
+  - [M / Deep Red](https://greenwichemporium.com/products/ruffled-hem-printed-midi-skirt?variant=45922439528583)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/ad74d4a5-0275-4288-8d95-de5af4126084-Max.jpg?v=1790175666
+    Price: $28.85 USD
+  - [S / Deep Red](https://greenwichemporium.com/products/ruffled-hem-printed-midi-skirt?variant=45922439561351)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/ad74d4a5-0275-4288-8d95-de5af4126084-Max.jpg?v=1790175666
+    Price: $28.85 USD
+  - [XL / Deep Red](https://greenwichemporium.com/products/ruffled-hem-printed-midi-skirt?variant=45922439594119)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/ad74d4a5-0275-4288-8d95-de5af4126084-Max.jpg?v=1790175666
+    Price: $28.85 USD
+  - [L / Deep Red](https://greenwichemporium.com/products/ruffled-hem-printed-midi-skirt?variant=45922439626887)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0689/8765/0183/files/ad74d4a5-0275-4288-8d95-de5af4126084-Max.jpg?v=1790175666
+    Price: $28.85 USD
+[List Continued](https://greenwichemporium.com/a/llms-agent/llms.txt?shop=6quyks-mj.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODM3NTU0MDc3ODMxLCJsYXN0X3ZhbHVlIjoiODgzNzU1NDA3NzgzMSJ9)
 
 ## Collections
 
@@ -2960,10 +2946,10 @@
   Updated: 2026-09-23T15:05:38Z
   Total Products: 8
 - [Clothing](https://greenwichemporium.com/collections/clothing)
-  Updated: 2026-09-23T15:10:23Z
+  Updated: 2026-10-24T03:09:22Z
   Total Products: 20
 - [Shop All](https://greenwichemporium.com/collections/shop-all): Shop women's fashion and clothing at Greenwich Emporium. Discover dresses, jumpsuits, skirts, bags and stylish boho-inspired pieces for every occasion.
-  Updated: 2026-10-15T06:04:16Z
+  Updated: 2026-10-24T03:09:22Z
   Total Products: 132
 - [Dresses](https://greenwichemporium.com/collections/dresses): Explore trending dresses for women at Greenwich Emporium. Shop stylish maxi dresses, mini dresses, bodycon, and boho chic styles perfect for any occasion.
   Updated: 2026-09-23T14:31:10Z
