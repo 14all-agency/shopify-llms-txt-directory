@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2026-03-16T10:01:51Z
 - Contact Email: simoncardesigen25@gmail.com
-- Updated At: 2026-10-23T00:32:08.940Z
+- Updated At: 2026-10-30T01:07:05.373Z
 
 Social Media
 
@@ -279,7 +279,7 @@ Social Media
   Image: https://cdn.shopify.com/s/files/1/0761/0197/6216/files/P1_7280fd91-6d29-4730-aa11-dd6ddc8cacfb.jpg?v=1778056109
   Price: $363.00 USD
 - [Side Mirror Covers for Jeep Wrangler](https://trail-walk.com/products/side-mirror-covers): The IRURI Side Mirror Covers are engineered for the modern overlander who demands both protection and functionality. Constructed from premium CNC-machined alloy, these covers shield your mirrors from trail debris while providing a robust platform for your action camera setup. Military-Grade Build: Tested to MIL-SPEC-810H standards, ensuring they can handle vibrations, shocks, and harsh environments. Seamless Camera Integration: The top rail is designed specifically for standard action camera mounts, allowing you to capture high-quality footage without drilling into your vehicle. Safety First: Unlike generic covers, our design preserves the functionality of your factory turn signals, keeping you visible on the road. Aggressive Styling: The geometric, industrial design adds a layer of tactical aggression to your Jeep's exterior profile. Weather Resistant: Finished in a durable matte black powder coat that resists rust, fading, and corrosion.
-  Updated: 2026-10-21T04:38:28Z
+  Updated: 2026-10-24T05:30:56Z
   Vendor: TRAIL-WALK
   Product Type: 
   Availability: Available
