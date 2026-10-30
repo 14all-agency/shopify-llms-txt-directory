@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-12-09T13:41:33Z
 - Contact Email: info@folkmarketgems.com
-- Updated At: 2026-10-23T00:44:13.382Z
+- Updated At: 2026-10-30T01:08:48.658Z
 
 ## Products
 
@@ -1798,7 +1798,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.folkmarketgems.com/policies/privacy-policy)
-  Updated: 2024-12-21T08:44:52Z
+  Updated: 2026-10-29T16:47:07Z
 - [Shipping Policy](https://www.folkmarketgems.com/policies/shipping-policy)
   Updated: 2026-10-06T23:21:43Z
 - [Refund Policy](https://www.folkmarketgems.com/policies/refund-policy)
