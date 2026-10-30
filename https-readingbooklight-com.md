@@ -6,7 +6,7 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-10-23T00:44:22.087Z
+- Updated At: 2026-10-30T01:23:00.822Z
 
 ## Products
 
@@ -174,6 +174,10 @@
     Updated: 2026-10-23T00:00:04Z
     Author: ReadingBookLight Admin
     Tags: book light, eye strain reading, read longer, reading fatigue, reading stamina, reading tips
+  - [Reading Light vs Bedside Lamp: Which Is Better?](https://readingbooklight.com/blogs/reading-light-guide/reading-light-vs-bedside-lamp-which-is-better): Reading Light vs Bedside Lamp: Which Is Better?
+    Updated: 2026-10-30T00:00:03Z
+    Author: ReadingBookLight Admin
+    Tags: bedside lamp, book light, reading at night, reading light vs bedside lamp, sleep friendly lighting
 
 ## Store Pages
 
