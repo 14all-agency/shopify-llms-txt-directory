@@ -29,12 +29,12 @@ Kundservice: customerservice@gaitline.com
 - Timezone: Europe/Stockholm
 - Created At: 2022-09-16T10:15:55Z
 - Contact Email: customerservice@gaitline.com
-- Updated At: 2026-10-22T13:47:10.928Z
+- Updated At: 2026-10-30T00:52:41.836Z
 
 ## Products
 
 - [Track Knit - marinblå | Skor på nätet | GaitLine](https://gaitline.se/products/track-knit-navy-white): GaitLine Track Knit mörkblå: Idealiska för utflykter, jobb, aktiviteter och dagligt bruk. Unik SGL-teknologi ger bra dämpning och komfort på asfalt och betong. Köp nu
-  Updated: 2026-10-21T20:21:47Z
+  Updated: 2026-10-25T21:28:11Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -94,7 +94,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [Track Lthr - svart | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-black-black-black): GaitLine Track Lthr, svart: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla in alla
-  Updated: 2026-10-16T16:15:10Z
+  Updated: 2026-10-25T14:29:42Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -154,7 +154,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 099,00 kr SEK
 - [Track Knit - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/track-knit-black-white): GaitLine Track Knit skor, svart/vit: Idealiska för utflykter, jobb, aktiviteter och dagligt bruk. Unik SGL-teknologi ger bra dämpning och komfort på asfalt och betong. Köp nu
-  Updated: 2026-10-16T16:15:10Z
+  Updated: 2026-10-25T21:28:11Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -199,7 +199,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
   - [Black/White / 44.5](https://gaitline.se/products/track-knit-black-white?variant=42037430845616)
-    Availability: Available
+    Availability: Not Available
     Price: 1 999,00 kr SEK
   - [Black/White / 45](https://gaitline.se/products/track-knit-black-white?variant=42037430878384)
     Availability: Not Available
@@ -214,7 +214,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
 - [Track Lthr - vit | Skor på nätet | GaitLine | Skinnskor](https://gaitline.se/products/track-lthr-white-white-white): GaitLine Track Lthr, vit: Klassisk, elegant skinnsko med perfekt passform. Norsk SGL-teknologi för bra dämpning och stöd, idealisk för hårda underlag. Kolla in alla
-  Updated: 2026-10-20T20:12:36Z
+  Updated: 2026-10-29T10:32:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -316,7 +316,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 199,00 kr SEK
 - [Skor för breda fötter – Advance PRO | Gaitline](https://gaitline.se/products/advance-pro-black-white): Advance PRO är vår bredaste sneaker, med 4 mm extra utrymme i framfoten. Dämpning och stöd för dig som står och går hela dagen. Fri frakt över 1 500 kr.
-  Updated: 2026-10-15T12:56:07Z
+  Updated: 2026-10-26T13:41:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -376,7 +376,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
 - [Kikut TRX - mörkbrun/ | Vinterskor på nätet | GaitLine](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles): GaitLine Kikut TRX skor brun: marknadens mest bekväma vinterskor. Patenterad SGL-teknologi, varm isolering, mockaskinn och kraftig sula för grepp. Köp nu.
-  Updated: 2026-10-21T05:39:06Z
+  Updated: 2026-10-28T20:21:31Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -418,7 +418,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 499,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518467248)
-    Availability: Available
+    Availability: Not Available
     Price: 2 499,00 kr SEK
   - [DK Brown/Vanilla/Specles / 44.5](https://gaitline.se/products/kikut-trx-dk-brown-vanilla-specles?variant=42037518500016)
     Availability: Not Available
@@ -436,7 +436,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 499,00 kr SEK
 - [World Cup PRO - svart/vit | Skor på nätet | GaitLine](https://gaitline.se/products/world-cup-pro-black-white): GaitLine World Cup PRO skor - Svart/Vit: innovativ SGL-teknologi för topprestanda. Ignite PRO-material, lätt, andas, bra dämpning, idealisk för asfalt. Köp nu
-  Updated: 2026-10-22T07:37:17Z
+  Updated: 2026-10-26T10:30:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -601,7 +601,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 199,00 kr SEK
 - [Skor för breda fötter – Advance PRO | Gaitline](https://gaitline.se/products/advance-pro-black-black-black): Advance PRO är vår bredaste sneaker, med 4 mm extra utrymme i framfoten. Dämpning och stöd för dig som står och går hela dagen. Fri frakt över 1 500 kr.
-  Updated: 2026-10-19T15:17:40Z
+  Updated: 2026-10-29T08:10:16Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -664,7 +664,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 399,00 kr SEK
 - [World Cup PRO - Svart/Svart | Skor på nätet | GaitLine](https://gaitline.se/products/world-cup-pro-black-black-black): GaitLine World Cup PRO skor - Helsvart: innovativ SGL-teknologi för topprestanda. Ignite PRO-material, lätt, andas, bra dämpning, idealisk för asfalt. Köp nu
-  Updated: 2026-10-21T17:57:06Z
+  Updated: 2026-10-27T06:57:51Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -787,7 +787,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 099,00 kr SEK
 - [Flow SP Sandal - svart | Sandaler online | GaitLine](https://gaitline.se/products/flow-sp-sandal-black-black-black): GaitLine Flow SP Sandal i svart. Sulan har innovativ SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-10-21T18:40:37Z
+  Updated: 2026-10-25T20:16:47Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -826,7 +826,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [Lunar Lite - svart | Skor på nätet | GaitLine](https://gaitline.se/products/lunar-lite-black-black-black): GaitLine Lunar Lite - svart: vår lättaste och mest luftiga sko. Innovativ SGL-teknologi för topp prestanda. Material som andas, bra dämpning, perfekt för asfalt. Köp nu.
-  Updated: 2026-10-22T12:22:45Z
+  Updated: 2026-10-29T16:58:13Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -889,7 +889,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Haven LX Sandal - helsvart | Sandaler online | GaitLine](https://gaitline.se/products/haven-lx-sandal-black-black-black): GaitLine Haven LX Sandal i svart. Sulan har innovativ norsk SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-10-21T07:20:57Z
+  Updated: 2026-10-28T10:38:27Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -919,7 +919,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Advance Lite – helvit | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-white-white-white): Sneakern Advance Lite i vit från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr
-  Updated: 2026-10-16T10:22:47Z
+  Updated: 2026-10-23T08:12:46Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -982,7 +982,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-ebony-black-silver-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-08T10:28:27Z
+  Updated: 2026-10-28T13:47:15Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1045,7 +1045,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-white-white-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-22T09:57:07Z
+  Updated: 2026-10-26T08:27:05Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1108,7 +1108,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Flow SP Sandal - vit | Sandaler online | GaitLine](https://gaitline.se/products/flow-sp-sandal-white-white-lunar): GaitLine Flow SP Sandal i vit. Sulan har innovativ SGL-teknologi för topp prestanda. Sandal för både korta promenader och långa sträckor. Slitstarkt material. Köp nu
-  Updated: 2026-09-16T11:32:16Z
+  Updated: 2026-10-24T08:41:22Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -1315,7 +1315,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
 - [Advance Lite – Svart | Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-black-black-black): Sneakern Advance Lite i Svart från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-10-18T15:36:36Z
+  Updated: 2026-10-29T11:24:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1378,7 +1378,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
 - [Gravel Lite WP - Black/Black/Black](https://gaitline.se/products/gravel-lite-wp-black-black-black): Stad. Natur. Oavsett. Gravel Lite är utvecklad för dig som inte låter vädret bestämma. Vattentät, lätt och redo för allt – från stadens gator till grusvägar, från vardag till helg. Sensory Gaitline Technology™ håller kroppen i balans oavsett underlag. Du väljer inte mellan stil och funktion. Med Gaitline får du båda.
-  Updated: 2026-10-22T13:06:05Z
+  Updated: 2026-10-29T15:39:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1441,7 +1441,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 499,00 kr SEK
 - [Kikut Lite - DK Brown/Vanilla/Specles](https://gaitline.se/products/kikut-lite-dk-brown-vanilla-specles): Kikut Lite har en modern design med inspiration hämtad från den klassiska fjällstöveln. Överdelen är tillverkad i en vacker mocka. Insidan av skon är fodrad med ett lätt syntetmaterial med hög isolering så att du håller dig varm på fötterna. Tungan sys med extra flikar för att förhindra att vatten och snö kommer in i skon. Sulan har ett extra starkt mönster för bra grepp på hala och våta ytor. En fantastisk vinterstövel som passar lika bra i staden som i bergen. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: DK Brown/Vanilla/Speckles
-  Updated: 2026-10-22T06:38:56Z
+  Updated: 2026-10-29T19:03:52Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1504,7 +1504,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 799,00 kr SEK
 - [Silver Mid TRX 2.0 - Wheat/Wheat/Natural](https://gaitline.se/products/silver-mid-trx-2-0-wheat-wheat-natural): Silver Mid TRX är den ultimata vinterskon. Med sin ovandel i mjukt läder och ett fodrat innerskikt håller den dina fötter komfortabla och varma även i kallt väder. Yttersulan har uppgraderats med ett nytt mönster och en mjukare gummiblandning, som ger mycket bra grepp på alla typer av underlag - särskilt på våta, hårda ytor som till exempel gatsten och plattor. Trots att detta är en robust vintersko känns skon lätt och bekväm på foten. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Wheat/Wheat/Natural
-  Updated: 2026-10-22T08:42:06Z
+  Updated: 2026-10-28T11:41:06Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1567,7 +1567,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 599,00 kr SEK
 - [Tracer Lite WP - Urban Green/Bright Yellow/Black/Specles](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles): NYHET! Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Urban Green/Bright Yellow/Black/Speckles
-  Updated: 2026-10-19T21:59:46Z
+  Updated: 2026-10-24T09:24:41Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1579,7 +1579,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 799,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 37.5](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050395312)
-    Availability: Available
+    Availability: Not Available
     Price: 2 799,00 kr SEK
   - [Urban Green/Bright Yellow/Black/Specles / 38](https://gaitline.se/products/tracer-lite-wp-urban-green-bright-yellow-black-specles?variant=43828050428080)
     Availability: Not Available
@@ -1630,7 +1630,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 799,00 kr SEK
 - [Tracer Lite WP - Black/Black/Black](https://gaitline.se/products/tracer-lite-wp-black-black-black): Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Black/Black/Black
-  Updated: 2026-10-22T07:37:27Z
+  Updated: 2026-10-29T10:31:17Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1756,7 +1756,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
 - [World Cup PRO - White/White/White](https://gaitline.se/products/world-cup-pro-white-white-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: White/White/White
-  Updated: 2026-10-20T18:24:55Z
+  Updated: 2026-10-27T17:39:26Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -1819,21 +1819,21 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 399,00 kr SEK
 - [Eco Proofer Impregneringsspray](https://gaitline.se/products/eco-proofer-impregneringsspray): Springyard Eco Proofer är en effektiv impregneringsspray som ger långvarigt skydd mot vatten och smuts utan att påverka materialets andningsförmåga. Den vattenbaserade formuleringen är helt fri från PFAS och biologiskt nedbrytbar. Sprayen fungerar på de flesta material, inklusive läder, textil, mocka, nubuck och syntetiska material – även tekniska textilier som Tex-material. Eco Proofer är idealisk för skor, väskor, ytterplagg, barnvagnar och annan utrustning som behöver extra skydd mot väder och smuts. Den kan tryggt användas inomhus och hjälper till att underhålla och förlänga materialets vattenavvisande egenskaper.
-  Updated: 2026-10-21T20:48:49Z
+  Updated: 2026-10-28T20:21:35Z
   Vendor: Gaitline
   Product Type: Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/springyard_active_eco_proofer_1000x1000_ec0542e1-d054-43b2-9b46-a9eb20736ff8.jpg?v=1772631817
   Price: 199,00 kr SEK
 - [Cleaning Kit](https://gaitline.se/products/cleaning-kit): Cleaning Kit från Springyard är en praktisk allt-i-ett-lösning för effektiv skovård. Satsen innehåller en vattenbaserad och miljövänlig rengöringsgel som avlägsnar ingrodd smuts och ger skorna en fräsch doft, samtidigt som den förlänger livslängden. Den passar för alla typer av material och är helt PFAS-fri. Rengöringsborsten är tillverkad av 100% bok med fast syntetisk borst, perfekt för att hantera både ingrodd smuts och smutsiga sulor. Den slitstarka mikrofiberduken kan tvättas och har en praktisk ögla för enkel förvaring. Detta set ger dig allt du behöver för att hålla dina skor rena och fina, oavsett material. Perfekt för dig som vill ta hand om dina skor på ett skonsamt och effektivt sätt!
-  Updated: 2026-10-21T20:48:47Z
+  Updated: 2026-10-22T20:56:26Z
   Vendor: Gaitline
   Product Type: Cleaning
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/510301_springyard_active_cleaning_kit_0-1200x1200.jpg?v=1736419684
   Price: 189,00 kr SEK
 - [SportGrip Runsafe broddar](https://gaitline.se/products/sportgrip-runsafe-brodder): Springyard SportGrip är helfotsbroddar med 3M-reflex som ger dig extra säkerhet i mörkret, perfekt för både promenader och löpning på snö, is och dåligt vinterföre. Broddarna har  utbytbara dubbar i slitstarkt volframkarbid – fyra under framfoten och två under hälen – för att säkra bra grepp på hala underlag. Broddarna är tillverkade i slitstark naturgummi som ger en tät passform, och de sitter bra även vid intensiv användning, vilket gör dem idealiska för både långa promenader och snabba löprundor. SportGrip-broddarna är enkla att ta av och på, och passar de flesta skor. OBS: Observera att naturgummit kan färga av sig på ljusa skor, och vi rekommenderar att undvika användning på barmark för att minska slitage. Detta är det perfekta valet för dig som vill upprätthålla aktiviteten på vinterföre – oavsett om du går eller springer.
-  Updated: 2026-10-21T05:26:04Z
+  Updated: 2026-10-22T15:31:32Z
   Vendor: Springyard
   Product Type: Various
   Availability: Available
@@ -2031,7 +2031,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 299,00 kr SEK
 - [World Cup PRO - Black/Oyster/Vanilla](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Black/Oyster/Vanilla
-  Updated: 2026-10-16T16:15:23Z
+  Updated: 2026-10-29T21:11:15Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -2043,7 +2043,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 37.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185138987184)
-    Availability: Not Available
+    Availability: Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 38](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139019952)
     Availability: Available
@@ -2055,7 +2055,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 40](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139118256)
-    Availability: Available
+    Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 40.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139151024)
     Availability: Not Available
@@ -2079,7 +2079,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 45](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139380400)
-    Availability: Available
+    Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Black/Oyster/Vanilla / 45.5](https://gaitline.se/products/world-cup-pro-black-oyster-vanilla?variant=44185139413168)
     Availability: Not Available
@@ -2094,7 +2094,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
 - [World Cup PRO - Olive Oak/Vanilla/White](https://gaitline.se/products/world-cup-pro-olive-oak-vanilla-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Olive Oak/Vanilla/White
-  Updated: 2026-10-16T16:15:23Z
+  Updated: 2026-10-29T19:13:48Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -2220,7 +2220,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 199,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-black-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-21T12:57:36Z
+  Updated: 2026-10-29T06:27:16Z
   Vendor: Gaitline
   Product Type: Shoes
   Availability: Available
@@ -2511,7 +2511,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [Flow SP Sandal - Burnt Olive/Sage/Vanilla](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla): En perfekt sandal för vardagsbruk! Låt inte fel sko förstöra stadslivet, vardagspromenaden eller konsertupplevelsen. Denna passar alla som gillar den luftiga känslan en sandal ger, men vill ha stödet som en sko ger.Flow SP Sandal har en avancerad mellansula konstruerad på exakt samma sätt som alla Gaitline-skor. Materialet i sulan består av IGNITE-skum som är lätt och ger fantastisk stötdämpning. Fotbädden är speciellt utformad för att ge bra stöd för fotvalvet samtidigt som den gör att dina fötter sitter bra i sandalen. Remmarna är tillverkade av slitstarkt material för extra bekvämlighet.Denna sandalfavorit är gjord för att klara många timmar av aktivitet, både på asfalt, grus och strand! Färg: Burnt Olive/Sage/Vanilla
-  Updated: 2026-10-21T14:19:26Z
+  Updated: 2026-10-29T18:58:31Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -2520,13 +2520,13 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 37](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150161072)
-    Availability: Available
+    Availability: Not Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 38](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150193840)
     Availability: Not Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 39](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150226608)
-    Availability: Not Available
+    Availability: Available
     Price: 1 999,00 kr SEK
   - [Burnt Olive/Sage/Vanilla / 40](https://gaitline.se/products/flow-sp-sandal-burnt-olive-sage-vanilla?variant=44185150259376)
     Availability: Available
@@ -2580,7 +2580,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 1 999,00 kr SEK
 - [K8 LX Sandal - Black/Black/black](https://gaitline.se/products/kate-lx-sandal-black-black-black): Upptäck K8 LX, vår mest eleganta sandal, perfekt för sommarens äventyr. Den här sandalen erbjuder det bästa från två världar – luftig som en sandal, men med samma avancerade stöd som en Gaitline-sko. Den har en enkel och ren design samt en mellansula som garanterar komfort hela dagen. Smala läderremmar ger sandalen ett elegant uttryck, och tillsammans med vårt innovativa IGNITE-skum ger den fantastisk dämpning och energi för både korta och långa promenader. Den patenterade Sensory Gaitline Technology™ i sulan balanserar foten och kroppen optimalt, vilket är särskilt användbart på hårda och platta ytor. Fotbädden har extra fotvalvsstöd som ger stabilitet och passform. Materialvalet i sulan säkerställer lång livslängd, vilket betyder att du kan gå många extra mil med dessa. Perfekt för dagligt bruk eller som resesällskap. Färg: Black/Black/Black
-  Updated: 2026-10-21T18:34:13Z
+  Updated: 2026-10-27T11:55:36Z
   Vendor: Gaitline
   Product Type: Sandals
   Availability: Available
@@ -2658,21 +2658,21 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 1 999,00 kr SEK
 - [Shoe Wipes](https://gaitline.se/products/shoe-wipes): Smidig och effektiv skorengöring på språng! Våra praktiska rengöringsdukar från Springyard är perfekta för alla som vill hålla sina skor rena och fina, även när tiden är knapp. Individuellt förpackade med fräsch doft och i perfekt storlek – ett "måste" i både väskan och i bilen. Egenskaper: Tar bort smuts och fläckar från alla typer av skor - perfekt för vita sneakers och ljusa sandaler Enkel och snabb rengöring som ger synliga resultat på nolltid Tvåsidigt material: använd den mjuka sidan för vanlig rengöring och den mönstrade sidan för svåra fläckar Passar för både slätt läder och syntetiska material Vattenbaserad och miljövänlig PFAS-fri Klar att använda omedelbart - inget vatten eller extra produkter behövs Håll dina skor i toppskick var du än är! Varje förpackning innehåller 12 individuellt förpackade dukar som ger omedelbar rengöring och fräschhet.
-  Updated: 2026-10-18T18:12:07Z
+  Updated: 2026-10-23T21:33:36Z
   Vendor: Springyard
   Product Type: Various
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/Springyard-ShoeWipes-1200x1200.jpg?v=1741868361
   Price: 79,00 kr SEK
 - [Shoe Deo](https://gaitline.se/products/shoe-deo): Effektiv skodeodorant som håller skorna fräscha! Vår vattenbaserade skodeodorant från Springyard är utvecklad för att neutralisera dålig lukt i alla typer av skor. Den hygieniska formeln har en fräsch, ren doft som varar i upp till 24 timmar. Enkel att använda och praktisk i vardagen. Innehåller 99% naturliga ingredienser och kan tryggt användas inomhus. Egenskaper: Neutraliserar och förebygger dålig lukt effektivt Perfekt för alla typer av skor, sportutrustning, mössor, handskar och väskor Ger en fräsch, ren doft i upp till 24 timmar Vattenbaserad och miljövänlig Motverkar bakterietillväxt Användning: Lyft upp plösen och spraya direkt in i skon Låt torka helt innan du använder skorna Spraya regelbundet för bästa resultat
-  Updated: 2026-10-21T14:19:27Z
+  Updated: 2026-10-28T20:21:35Z
   Vendor: Springyard
   Product Type: Spray
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0626/9580/1008/files/ShoeDeo1-1200x1200.jpg?v=1741868362
   Price: 99,00 kr SEK
 - [Kikut Lite - DK Olive/Vanilla/Speckles](https://gaitline.se/products/kikut-lite-dk-olive-vanilla-speckles): Kikut Lite har en modern design med inspiration hämtad från den klassiska fjällstöveln. Överdelen är tillverkad i en vacker mocka. Insidan av skon är fodrad med ett lätt syntetmaterial med hög isolering så att du håller dig varm på fötterna. Tungan sys med extra flikar för att förhindra att vatten och snö kommer in i skon. Sulan har ett extra starkt mönster för bra grepp på hala och våta ytor. En fantastisk vinterstövel som passar lika bra i staden som i bergen. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: DK Olive/Vanilla/Speckles
-  Updated: 2026-10-18T10:10:07Z
+  Updated: 2026-10-24T15:27:15Z
   Vendor: Gaitline
   Product Type: Vintersko
   Availability: Available
@@ -2735,7 +2735,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 799,00 kr SEK
 - [Tracer Lite WP - Warm Sand/Falcon/Black/Speckles](https://gaitline.se/products/tracer-lite-wp-warm-sand-falcon-black-speckles): Tracer Lite har förbättrad yttersula för bra grepp. Tracer Lite har ett vattentätt membran som säkerställer att dina fötter håller sig torra i alla väderförhållanden. Ovandelen är gjord av ett slitstarkt Cordura mesh-material med extra PU-förstärkning i häl och tå. Mellansålen har vårt nya IGNITE sålskum som är lätt och ger fantastisk dämpning. Med ett specialdesignat yttersulsmönster och en mjukare gummiblandning ger det en unik greppförmåga även på krävande underlag i fjällen eller på våta hårda underlag i staden. Plösen och hälkappan har ett extra lager skum så att du inte känner tryck mot foten när du snörar på dig kängorna. Det medelhöga skaftet ger dig god stabilitet i fotleden oavsett vilket underlag du rör dig på. Tracer Lite WP är en perfekt höst- och vintersko som tål turer i terräng samtidigt som den trivs bra i urbana miljöer. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Farge: Warm Sand/Falcon/Black/Speckles
-  Updated: 2026-10-21T20:37:18Z
+  Updated: 2026-10-29T11:24:51Z
   Vendor: Gaitline
   Product Type: Vanntette sko
   Availability: Available
@@ -2798,7 +2798,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 799,00 kr SEK
 - [Advance Lite – beige| Lätt, luftig och stödjande sneaker | Gaitline](https://gaitline.se/products/advance-lite-nude-vanilla-white): Sneakern Advance Lite i beige från Gaitline är lätt, luftig och stilren. Sulan har patenterad norsk teknologi som balanserar foten och kroppen optimalt. Fri frakt över 1 500 kr.
-  Updated: 2026-10-12T07:23:46Z
+  Updated: 2026-10-23T20:57:27Z
   Vendor: Gaitline
   Product Type: Sneakers
   Availability: Available
@@ -2903,7 +2903,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 299,00 kr SEK
 - [Gravel Lite WP - Olive/Dried Herb/Black/Speckles](https://gaitline.se/products/gravel-lite-wp-olive-dried-herb-black-speckles): Gravel Lite WP 2.0 är den perfekta sneaker för urban hike! Denna 2.0-version har fått ny vaddering, ett förbättrat hälgrepp och nya invändiga material för ökad komfort. Dessa skor är designade för vardagens utmaningar, perfekta för jobb eller promenader i stan och naturen. Lätta, smidiga och självklart vattentäta för att klara alla slags väder. Den patenterade Sensory Gaitline Technology™ i sålen balanserar foten och kroppen optimalt, vilket är särskilt viktigt på hårda och jämna underlag. Mellansålen är fylld med IGNITE skum som ger enastående dämpning, respons och låg vikt. För att säkerställa bra passform och stabilitet är hälen och mellemfoten förstärkta med TPU. Materialvalet i sålen säkerställer lång livslängd, vilket betyder att du kan gå många extra mil på tur med dessa. Overdelen är tillverkad i ett slitstarkt rip-stop mesh-material med extra PU-forstärkning i hälen och tåpartiet. Detta för att bättre tåla naturens underlag. Gravel ger bra stabilitet till vrisset oavsett vilket underlag du rör dig på. Skon har grov yttersula med mönster, anti-slip-partier och en mjuk gummiblanding. Denna kombination ger gott grepp på alla typer av underlag. Skorna inkluderar extra snörebånd i annan färg för att matcha olika outfits. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Färg: Olive/Dried Herb/Black/Speckles
-  Updated: 2026-10-21T20:52:56Z
+  Updated: 2026-10-28T13:52:05Z
   Vendor: Gaitline
   Product Type: Vanntette sko
   Availability: Available
@@ -2966,7 +2966,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 499,00 kr SEK
 - [Gravel Lite WP - Moss Green/Deep Clay/Black/Speckles](https://gaitline.se/products/gravel-lite-wp-moss-green-deep-clay-black-speckles): Gravel Lite WP 2.0 är den perfekta sneaker för urban hike! Denna 2.0-version har fått ny vaddering, ett förbättrat hälgrepp och nya invändiga material för ökad komfort. Dessa skor är designade för vardagens utmaningar, perfekta för jobb eller promenader i stan och naturen. Lätta, smidiga och självklart vattentäta för att klara alla slags väder. Den patenterade Sensory Gaitline Technology™ i sålen balanserar foten och kroppen optimalt, vilket är särskilt viktigt på hårda och jämna underlag. Mellansålen är fylld med IGNITE skum som ger enastående dämpning, respons och låg vikt. För att säkerställa bra passform och stabilitet är hälen och mellemfoten förstärkta med TPU. Materialvalet i sålen säkerställer lång livslängd, vilket betyder att du kan gå många extra mil på tur med dessa. Overdelen är tillverkad i ett slitstarkt rip-stop mesh-material med extra PU-forstärkning i hälen och tåpartiet. Detta för att bättre tåla naturens underlag. Gravel ger bra stabilitet till vrisset oavsett vilket underlag du rör dig på. Skon har grov yttersula med mönster, anti-slip-partier och en mjuk gummiblanding. Denna kombination ger gott grepp på alla typer av underlag. Skorna inkluderar extra snörebånd i annan färg för att matcha olika outfits. Vi rekommenderar regelbunden impregnering av den här skon för att bibehålla dess vattenavvisande funktion. Farge: Moss Green/Deep Clay/Black/Speckles
-  Updated: 2026-10-21T20:06:37Z
+  Updated: 2026-10-29T14:24:36Z
   Vendor: Gaitline
   Product Type: Vanntette sko
   Availability: Available
@@ -3008,7 +3008,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 499,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-midnigt-blue-lunar-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-22T10:45:26Z
+  Updated: 2026-10-29T15:41:06Z
   Vendor: Gaitline
   Product Type: Sneakers
   Availability: Available
@@ -3071,7 +3071,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 199,00 kr SEK
 - [Gaitline Lunar Lite – Lättviktssneaker för vardagen](https://gaitline.se/products/lunar-lite-ebony-cement-white): Lunar Lite balanserar kroppen steg för steg, dag efter dag. Andningsbart mesh och Sensory Gaitline Technology™ för korta och långa distanser. Fri frakt över 1500 kr.
-  Updated: 2026-10-13T18:35:36Z
+  Updated: 2026-10-25T20:16:37Z
   Vendor: Gaitline
   Product Type: Sneakers
   Availability: Available
@@ -3134,7 +3134,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 199,00 kr SEK
 - [Gaitline Nova Lite – Klassisk sneaker i mocka](https://gaitline.se/products/nova-lite-olive-black-taupe-vanilla): Nova Lite i mocka och mesh med Sensory Gaitline Technology™. Retrostil för vardagen – utvecklad för dig som vill ha båda. Fri frakt över 1500 kr.
-  Updated: 2026-10-17T18:39:47Z
+  Updated: 2026-10-25T15:00:57Z
   Vendor: Gaitline
   Product Type: Sneakers
   Availability: Available
@@ -3197,7 +3197,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Available
     Price: 2 299,00 kr SEK
 - [World Cup PRO - Brown/Lt. Beige/Black/White](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white): World Cup PRO är vår topmodell med maximal respons och demping, perfekt för dig som står och går i timmar. Den är också idealisk för återhämtning och långa dagar, och är bland våra bredaste modeller för extra komfort. Den kombinerar slitstark kvalitet med överlägsen stötdämpning, tack vare vår patenterade SGL-teknologi och IGNITE PRO skum i mellansålen, som säkerställer låg vikt och lång hållbarhet. Häl och mellansula är förstärkta med TPU för god stabilitet, medan den ventilerande, 3D-strickade överlägget ger elasticitet och komfort. Designad för att tåla 12 timmar i rörelse är denna sko perfekt för idrottare, vårdpersonal, butikspersonal och andra som behöver pålitliga, stödjande skor för långa arbetspass. Färg: Brown/Lt. Beige/Black/White
-  Updated: 2026-10-16T18:22:26Z
+  Updated: 2026-10-28T20:15:15Z
   Vendor: Gaitline
   Product Type: Sneakers
   Availability: Available
@@ -3254,7 +3254,7 @@ Kundservice: customerservice@gaitline.com
     Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Brown/Lt. Beige/Black/White / 47](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638754992)
-    Availability: Available
+    Availability: Not Available
     Price: 2 399,00 kr SEK
   - [Brown/Lt. Beige/Black/White / 47.5](https://gaitline.se/products/world-cup-pro-brown-lt-beige-black-white?variant=44656638787760)
     Availability: Available
@@ -3267,13 +3267,13 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-07-19T22:00:16Z
   Total Products: 1
 - [OrderlyEmails - Recommended Products](https://gaitline.se/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 123
 - [Shop](https://gaitline.se/collections/shop)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 109
 - [Health & Lifestyle](https://gaitline.se/collections/health-lifestyle)
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 21
 - [Sport & Lifestyle](https://gaitline.se/collections/sport-lifestyle)
   Updated: 2026-07-20T11:27:22Z
@@ -3285,16 +3285,16 @@ Kundservice: customerservice@gaitline.com
   Updated: 2023-11-16T13:06:27Z
   Total Products: 0
 - [Dam](https://gaitline.se/collections/dam): I kategorin damskor hittar du alla skor, sneakers, sandaler och vinterskor i storlekarna 36-43.Alla Gaitline-skor är i princip unisex. Design, storlek och passform fungerar både för herr och dam.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 170
 - [Herr](https://gaitline.se/collections/herr): I kategorin herrskor hittar du alla skor, sneakers, sandaler och vinterskor i storlekarna 36-47.Alla Gaitline-skor är i princip unisex. Design, storlek och passform fungerar både för herr och dam.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 137
 - [Sandals](https://gaitline.se/collections/sandals)
   Updated: 2026-10-22T11:19:58Z
   Total Products: 14
 - [Fall/Winter](https://gaitline.se/collections/fall-winter)
-  Updated: 2026-10-20T11:17:08Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 68
 - [RouteTRX](https://gaitline.se/collections/routetrx): Route TRX från GaitLine är en robust och mångsidig vandringssko. Ovandelen är i slitstarkt nylon och vattenavvisande membran. Perfekt för grus, asfalt, skog och mark.
   Updated: 2026-07-20T11:27:22Z
@@ -3303,13 +3303,13 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-07-20T11:26:50Z
   Total Products: 2
 - [Nyheter](https://gaitline.se/collections/nyheter): I kategorin nyheter hittar du säsongens skor, sandaler och boots i storlek 36-47. Vi vill påpeka att alla Gaitline-skor i grunden är unisex. Design, storlek och passform fungerar över könen.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 19
 - [Vinterskor](https://gaitline.se/collections/vinterskor)
-  Updated: 2026-10-19T11:16:01Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 33
 - [Sko med Ignite Pro](https://gaitline.se/collections/ignite-pro)
-  Updated: 2026-10-18T11:16:45Z
+  Updated: 2026-10-26T11:20:59Z
   Total Products: 38
 - [BlackWeek20%](https://gaitline.se/collections/blackweek20)
   Updated: 2024-11-21T09:17:51Z
@@ -3339,16 +3339,16 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-08-14T15:20:45Z
   Total Products: 25
 - [Track Knit och Track Leather](https://gaitline.se/collections/track): GaitLine Track Knit och Track Leather skor: Dina vardagsskor, arbetsskor, utflyktsskor och stadsskor. Bra dämpning och patenterad SGL-teknologi för komfort. Perfekt på asfalt och betong. Kolla utbudet!
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 15
 - [Float 2.0](https://gaitline.se/collections/float-2-0): GaitLine Float 2.0: idrottsutövares favoritskor! Norskt patenterad SGL-teknologi, optimal dämpning och passform med TPU-stöd. Perfekt på hårda underlag. Se urvalet
   Updated: 2026-07-20T11:27:14Z
   Total Products: 14
 - [Advance PRO](https://gaitline.se/collections/advance-pro): Innovativa skor från GaitLine, med unik, norsk teknologi för optimal prestanda. Lätta, andas, perfekta på asfalt. IGNITE PRO skum för bra dämpning. Se utbudet!
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-26T11:20:59Z
   Total Products: 18
 - [World Cup PRO](https://gaitline.se/collections/world-cup-pro): Innovativa norska skor från GaitLine. SGL-teknologi för optimal passform & prestanda. IGNITE PRO ger bra dämpning och studs. Låg vikt och andas. Se sortimentet
-  Updated: 2026-10-18T11:16:45Z
+  Updated: 2026-10-26T11:20:59Z
   Total Products: 20
 - [Motion Retro](https://gaitline.se/collections/motion-retro): GaitLine Motion Retro: inspirerad av 90-talets sneakers! Mjukt mockaskinn, Patenterad SGL-teknologi, optimalt stöd och passform, stadsskor. Se alla
   Updated: 2026-07-20T11:27:11Z
@@ -3369,7 +3369,7 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-10-14T11:19:37Z
   Total Products: 9
 - [Sinober TRX](https://gaitline.se/collections/sinober-trx): GaitLine Sinober TRX skor: Mode möter funktion! Norskt, SGL-teknologi, premiumläder med gummiförstärkning, TRX-sula för stabilt grepp. Tål väder! Se utbudet
-  Updated: 2026-10-06T11:19:05Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 8
 - [Bounce](https://gaitline.se/collections/bounce): Bounce models
   Updated: 2026-07-20T11:26:50Z
@@ -3381,10 +3381,10 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-10-19T06:49:13Z
   Total Products: 9
 - [Everyday](https://gaitline.se/collections/everyday)
-  Updated: 2026-10-18T11:16:45Z
+  Updated: 2026-10-24T11:18:28Z
   Total Products: 30
 - [Leather](https://gaitline.se/collections/laderskor): Våra skinn-sneakers kännetecknas av förstklassig kvalitet. De är utrustade med SGL-teknologi för att göra stadsvandringar och arbete till en dröm. Skorna har en passform som känns bekväm direkt ur lådan, utan behov av inbrottstid. Mängden skum runt mellanfoten och hälen har ökats för att maximera komforten under hela dagen. Det italienska lädret är noggrant utvalt från de bästa och certifierade italienska leverantörerna. Utforska denna kollektion för en perfekt kombination av förstklassig komfort och tidlös stil.
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 16
 - [Tursko](https://gaitline.se/collections/hiking-trail): Route og Tracer designet for å holde føttene tørre og komfortable selv i våte og krevende omgivelser. Enten du er en dedikert turgåer, en ivrig stiutforsker eller en generell friluftsentusiast, kan du stole på at modellene Route og Tracer gir deg den nødvendige støtten, funksjonaliteten og komforten for alle dine utendørs eventyr. 2.0 versjonene har en ny gummi-såle for deg som krever bedre grep på våte og glatte underlag.
   Updated: 2026-10-19T06:49:13Z
@@ -3399,7 +3399,7 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-07-20T11:27:17Z
   Total Products: 13
 - [Arbetsskor](https://gaitline.se/collections/arbetsskor): Hur tar du hand om dina fötter under en hektisk arbetsdag? 8 av 10 kunder svarade att Gaitline hade en positiv effekt på deras fysiska hälsa och prestation i vardagen. Hitta dina nästa arbetsskor hos Gaitline. World Cup PRO är vår jobbfavorit! En mjuk och responsiv Ignite PRO mellansula, som gör skon lätt och bekväm hela dagen. Lunar Lite rekommenderas för dem som önskar en smidigare och mer luftig sneaker. Nova Lite är en klassisk favorit med designinspiration från 90-talet. Blandning av mocka och mesh-material ger fantastisk passform, stabilitet och god andningsförmåga. En gemensam nämnare för alla våra skor är att de har den unika SGL-teknologin som gör dem perfekta för hårda och platta underlag. Du kommer garanterat märka en skillnad!
-  Updated: 2026-10-18T11:16:45Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 17
 - [Vinterkängor för herr](https://gaitline.se/collections/vinterkangor-herr): Upptäck våra vinterskor för män från GaitLine i suede och slätt läder. Isolerade för att hålla dig varm och bekväm i kylan. Köp nu.
   Updated: 2026-10-19T06:49:13Z
@@ -3408,13 +3408,13 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-09-01T17:58:32Z
   Total Products: 15
 - [Alla produkter](https://gaitline.se/collections/alle-produkter)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 119
 - [Sneakers](https://gaitline.se/collections/sneakers)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 65
 - [Track Black Week 40%](https://gaitline.se/collections/track-black-week-40)
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 12
 - [Route TRX 1.0](https://gaitline.se/collections/route-trx-1-0)
   Updated: 2026-07-20T11:27:21Z
@@ -3450,28 +3450,28 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-08-07T15:08:44Z
   Total Products: 0
 - [Herr - nyheter](https://gaitline.se/collections/man-nyankomna)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 18
 - [Dam Nyheter](https://gaitline.se/collections/kvinnor-nyankomna)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 19
 - [Herr - vandringsskor](https://gaitline.se/collections/man-vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i blöta och krävande miljöer. Dessa är designade för vardagens utmaningar, perfekta för arbete eller promenader i stad och natur. Lätta, smidiga och naturligtvis vattentäta för att klara alla typer av väder.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 15
 - [Urban Hike](https://gaitline.se/collections/vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i våta och krävande miljöer. Oavsett om du är en hängiven vandrare, en ivrig stigutforskare eller en allmän friluftsentusiast, kan du lita på att modellerna ger dig det nödvändiga stödet, funktionaliteten och komforten för alla dina utomhusäventyr.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 23
 - [Dam | Hikingskor](https://gaitline.se/collections/kvinnor-vandringsskor): Vandringsskor från Gaitline designade för att hålla fötterna torra och bekväma även i blöta och krävande miljöer. Dessa är designade för vardagens utmaningar, perfekta för arbete eller promenader i stad och natur. Lätta, smidiga och naturligtvis vattentäta för att klara alla typer av väder.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 15
 - [Herr - Sneakers](https://gaitline.se/collections/herr-sneakers): Med innovativa sulor och andningsbara material är Gaitlines sneakers det perfekta valet för aktiva män. Alla våra sneakers är utformade för att ge optimal stöd precis där du behöver det, oavsett om du är på jobbet, storstadsresa eller har långa dagar på hårda underlag som asfalt och betong.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 72
 - [Dam | Sneakers](https://gaitline.se/collections/dam-sneakers): Med innovativa sulor och andningsbara material är Gaitline sneakers det perfekta valet för aktiva kvinnor.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 86
 - [Dam | Läderskor](https://gaitline.se/collections/dam-laderskor)
-  Updated: 2026-10-16T11:19:14Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 16
 - [Herr - Rea](https://gaitline.se/collections/herr-rea): Så här filtrerar du på din storlek: Välj önskad storlek Klicka på "Tillgänglighet" och välj "I lager" Nu visas alla modeller med din önskade storlek i lager Se nyheter här
   Updated: 2026-08-14T14:29:32Z
@@ -3486,19 +3486,19 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-10-22T11:19:58Z
   Total Products: 14
 - [Alle produkter uten salg](https://gaitline.se/collections/alle-produkter-uten-salg)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 161
 - [Lunar Lite](https://gaitline.se/collections/lunar-lite)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 13
 - [Advance Lite](https://gaitline.se/collections/advance-lite)
-  Updated: 2026-09-29T11:17:28Z
+  Updated: 2026-10-26T11:20:59Z
   Total Products: 12
 - [Fall/Winter](https://gaitline.se/collections/fall-winter-1)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 51
 - [Black Week 2024](https://gaitline.se/collections/black-week-2024)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 67
 - [Skovård](https://gaitline.se/collections/skovard): Gaitline erbjuder skovård från Springyard. Vi har impregneringsspray som skyddar mot väder och vind, robusta vinterbroddar som ger dig säkerhet på is, snö och svåra förhållanden, och ett mångsidigt rengöringsset som ser till att dina skor håller sig fräscha och fina!
   Updated: 2026-10-11T11:17:18Z
@@ -3510,13 +3510,13 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-06-26T09:09:49Z
   Total Products: 1
 - [SS25](https://gaitline.se/collections/ss25)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 27
 - [Nova Lite](https://gaitline.se/collections/nova-lite): Nova Lite är en mångsidig vardagssneaker för asfalt och hårda underlag, inspirerad av 2000-talets ikoniska retrostil. Ovandelen i mocka och andningsbar mesh ger ett uttryck som fungerar lika bra på jobbet som på fritiden, medan det lätta IGNITE-sulskummet ger god dämpning hela dagen.Med patenterad Sensory Gaitline Technology™ (SGL™) balanseras foten och kroppen, och förstärkningar i häl och mellanfot ger stabilitet – timme efter timme.Ett självklart val när du vill kombinera stil och komfort. Skorna levereras med extra skosnören i en annan färg, så att du enkelt kan matcha dem med din outfit.
   Updated: 2026-10-17T11:20:45Z
   Total Products: 9
 - [Bekväma skor](https://gaitline.se/collections/bekvama-skor): Den 17 maj firar Norge sin nationaldag med folkfester, barnparader och mycket firande över hela landet. Det är en dag då många norrmän klär sig i bunad - traditionella folkdräkter, och går i parad genom gatorna med norska flaggor. Skor och sandaler från Gaitline håller dig gående 12 timmar i sträck!
-  Updated: 2026-10-06T11:19:05Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 10
 - [Haven LX Sandal](https://gaitline.se/collections/haven-lx-sandal)
   Updated: 2026-10-22T11:19:58Z
@@ -3528,22 +3528,22 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-09-29T11:17:28Z
   Total Products: 7
 - [FW25](https://gaitline.se/collections/fw25)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 29
 - [Exclude from ads](https://gaitline.se/collections/exclude-from-ads)
-  Updated: 2026-10-19T11:16:01Z
+  Updated: 2026-10-25T11:16:39Z
   Total Products: 118
 - [FW25 til ads](https://gaitline.se/collections/fw25-til-ads)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-27T11:17:08Z
   Total Products: 12
 - [Gravel Lite](https://gaitline.se/collections/gravel-lite)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 8
 - [Tracer Lite](https://gaitline.se/collections/tracer-lite)
   Updated: 2026-10-19T11:16:01Z
   Total Products: 3
 - [Black Week 2025](https://gaitline.se/collections/black-week-2025)
-  Updated: 2026-10-19T06:49:12Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 46
 - [SS26](https://gaitline.se/collections/ss26)
   Updated: 2026-10-22T11:19:58Z
@@ -3552,32 +3552,32 @@ Kundservice: customerservice@gaitline.com
   Updated: 2026-10-19T11:16:01Z
   Total Products: 6
 - [Mid-Season  2026](https://gaitline.se/collections/mid-season--2026)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-27T11:17:08Z
   Total Products: 9
 - [SS26](https://gaitline.se/collections/ss26-1)
   Updated: 2026-10-22T11:19:58Z
   Total Products: 14
 - [Eclipse Elite](https://gaitline.se/collections/eclipse-elite): Byggd för dem som aldrig gör saker till hälften. Eclipse är vidareutvecklingen av vår bästsäljare Lunar Lite – samma läst, samma fördelar du litar på, men stramats åt i ett renare, mer sofistikerat uttryck. För utseendet spelar roll när du aldrig kopplar av. Designad för långa dagar på asfalt och betong, och klarar både korta och långa distanser med god ventilation för varma dagar. Med Sensory Gaitline Technology™ balanseras foten och kroppen på hårda och platta underlag. Förstärkningar i häl och mellanfot säkrar en stabil passform, medan materialvalet i sulan ger lång livslängd – byggd för att hålla jämna steg med ditt tempo. Där Lunar Lite är den trygga favoriten, är Eclipse ett statement. Ett naturligt val för jobbet, möten, resor och allt du ska hinna med däremellan – utan att kompromissa med vare sig funktion eller stil. Move smarter. Go further.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 4
 - [Full Price Products by Sales & Discounts](https://gaitline.se/collections/full-price-products-by-sales-discounts)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 161
 - [Vitt](https://gaitline.se/collections/vitt)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 9
 - [FW 26](https://gaitline.se/collections/fw-26)
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 19
 - [Höstskor för vandring och stad](https://gaitline.se/collections/hostskor-for-vandring-och-stad): Hitta höstskor för vandring och stad. Vattentäta vandringsskor och lätta sneakers med patenterat Gaitline SGL Technology som håller hela dagen. Utvecklad i Oslo.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 75
 - [Vattentäta skor](https://gaitline.se/collections/vattentata-skor): Vattentäta skor från Gaitline med PFAS-fritt membran och patenterad SGL-sula. Unisex, stl. 36–47,5. Håll fötterna torra utan att tumma på stödet.
-  Updated: 2026-10-22T11:19:58Z
+  Updated: 2026-10-29T11:15:30Z
   Total Products: 15
 - [Emils höstfavoriter](https://gaitline.se/collections/emils-hostfavoriter): Se de fyra skorna som Emil Gukild har på sig mellan träningspassen – från lätt stöd till vinterklara modeller med Arctic Grip. Hitta dina höstfavoriter.
-  Updated: 2026-10-22T11:19:58Z
-  Total Products: 33
+  Updated: 2026-10-29T11:15:30Z
+  Total Products: 17
 
 ## Blogs
 
