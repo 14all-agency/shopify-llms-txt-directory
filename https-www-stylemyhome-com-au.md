@@ -8,7 +8,7 @@
 - Contact Email: hello@stylemyhome.com.au
 - Contact Phone: 1300016131
 - Address: Style My Home PTY LTD, 596 Willoughby Road, Willoughby New South Wales 2068, Australia
-- Updated At: 2026-10-23T00:50:52.586Z
+- Updated At: 2026-10-30T01:25:50.284Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0515/8401/products/Delivery.StyleMyHome_9db10014-5013-4322-bcc8-fb3f08f6b6be.jpg?v=1571438623
     Price: $15.00 AUD
 - [Abigail Plain Top Upholstered Storage Box](https://www.stylemyhome.com.au/products/abigail-plain-top-upholstered-storage-box): This gorgeous blanket box not only looks divine, but will be a storage asset in any bedroom. Handcrafted from a solid timber frame and finished in the finest oatmeal linen, it will comfortably store your additional bedding or belongings.
-  Updated: 2026-10-21T21:04:36Z
+  Updated: 2026-10-27T13:10:23Z
   Vendor: SMHFactory2
   Product Type: Bench
   Availability: Available
@@ -89,12 +89,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/8401/products/Screenshot_2017-07-02_10.46.10.png?v=1724907499
   Price: $84.95 AUD
-- [Fiddle Leaf Fig Branch 49cm](https://www.stylemyhome.com.au/products/fiddle-leaf-fig-branch-49cm): Fiddle Leaf Fig bush. Approx 49cm long (14-15 leaves per branch).
-  Updated: 2026-10-02T05:27:06Z
-  Vendor: F21RS
-  Product Type: artificial plants
-  Availability: Available
-  Price: $14.95 AUD
 - [Hugo Deluxe Bedhead](https://www.stylemyhome.com.au/products/hugo-deluxe-bedhead): Our Hugo bedhead is a very popular style bedhead with a plain non tufted front. This is a great choice to suit Hamptons Style bedrooms. This bedhead will become a beautiful focal point of your bedroom.
   Updated: 2026-10-16T01:20:38Z
   Vendor: SMHFactory2
@@ -132,14 +126,14 @@
   Image: https://cdn.shopify.com/s/files/1/0515/8401/files/cor09_indigo_coral__88074.jpg?v=1709259609
   Price: $1,125.00 AUD
 - [Bobbin Linen And Oak Ottoman](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman): The bobbin (or Spindle) armchair originated in 17th century English design. Its no wonder that it is still a popular choice today. Firstly this is  to bring pattern or interest to any decor, particularly in rooms where the back of the armchair is visible. But above all the bobbin chair is extra comfortable with its down filled cushions.
-  Updated: 2026-10-21T01:44:26Z
+  Updated: 2026-10-30T01:07:14Z
   Vendor: SMHFactory2
   Product Type: Ottoman
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/files/DSC_4922.jpg?v=1789358152
+  Image: https://cdn.shopify.com/s/files/1/0515/8401/files/DSC_5517_1d4c1fb9-b28d-4ec1-9d08-8373bd25a920.jpg?v=1793322370
   - [Satin White / Duck Egg Blue](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=47436910133400)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0515/8401/files/DSC_9986-removebg-preview.png?v=1683167623
+    Image: https://cdn.shopify.com/s/files/1/0515/8401/products/DSC_9986.jpg?v=1680320859
     Price: $699.00 AUD
   - [Satin White / Oatmeal](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=45765360025752)
     Availability: Available
@@ -147,16 +141,18 @@
     Price: $699.00 AUD
   - [Satin White / Navy](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=45765360058520)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0515/8401/files/navy-removebg-preview.png?v=1683168418
+    Image: https://cdn.shopify.com/s/files/1/0515/8401/files/DSC_5517_1d4c1fb9-b28d-4ec1-9d08-8373bd25a920.jpg?v=1793322370
     Price: $699.00 AUD
   - [Satin White / Stripe Navy Blue](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=49210984923288)
     Availability: Available
     Price: $699.00 AUD
   - [Whitewash Oak / Duck Egg Blue](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=45765360091288)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0515/8401/files/IMG_0938.jpg?v=1786584075
     Price: $699.00 AUD
   - [Whitewash Oak / Oatmeal](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=45765360124056)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0515/8401/files/DSC_4922.jpg?v=1789358152
     Price: $699.00 AUD
   - [Whitewash Oak / Navy](https://www.stylemyhome.com.au/products/bobbin-linen-and-oak-ottoman?variant=45765360156824)
     Availability: Not Available
@@ -178,19 +174,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0515/8401/products/DSC_3788.jpg?v=1738472287
     Price: $199.00 AUD
-- [WHITE ORCHID CLUSTER IN WHITE POT WITH MOSS](https://www.stylemyhome.com.au/products/hydrangea-bud-foliage): Description Delivery Fees Customer Feedback Gorgeous decorative Hydrangea Bud Foliage that adds sophistication and grandeur to your home. This is an artificial product that does not require maintenance or watering.Colours: White Ceramic Base, White FlowersShipping: This product qualifies for decor shipping What our customers say about this product: "No more dead flowers on the phone - always look amazing" - Rita Below outlines our flat rate shipping for major city metros. Should you require shipping outside of these areas, please contact us for a no obligation quotation. It's no problem at all...everyone deserves beautiful furnishings. Decor Shipping One Person Delivery (5-24kg) Two Person Delivery (25-150kgs) Sydney Metro $15 $99 $100 Canberra Metro $15 $99 $150 Melbourne Metro $15 $99 $150 Brisbane Metro $15 $99 $150 Adelaide Metro $20 $109 $150 Hobart Metro $20 $229 $229 Perth Metro $25 $22 9 $229 Darwin Metro $25 $229 $229
-  Updated: 2026-10-02T05:27:06Z
-  Vendor: F21RS
-  Product Type: artificial plants
-  Availability: Available
-  Price: $10.00 AUD
-- [WHITE ORCHID CLUSTER IN WHITE POT WITH MOSS](https://www.stylemyhome.com.au/products/laurel-leaf-garland): Description Delivery Fees Customer Feedback Gorgeous decorative Laurel Leaf Garland that adds sophistication and grandeur to your home. This is an artificial product that does not require maintenance or watering.Colours: Lucious GreenShipping: This product qualifies for decor shipping What our customers say about this product: "No more dead flowers on the phone - always look amazing" - Rita Below outlines our flat rate shipping for major city metros. Should you require shipping outside of these areas, please contact us for a no obligation quotation. It's no problem at all...everyone deserves beautiful furnishings. Decor Shipping One Person Delivery (5-24kg) Two Person Delivery (25-150kgs) Sydney Metro $15 $99 $100 Canberra Metro $15 $99 $150 Melbourne Metro $15 $99 $150 Brisbane Metro $15 $99 $150 Adelaide Metro $20 $109 $150 Hobart Metro $20 $229 $229 Perth Metro $25 $22 9 $229 Darwin Metro $25 $229 $229
-  Updated: 2026-10-02T05:27:02Z
-  Vendor: F21RS
-  Product Type: artificial plants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/IMG_2125_40771627-2e05-4111-877b-f8738ea591fc.JPG?v=1571438633
-  Price: $30.00 AUD
 - [White Orchid Plant In Glass Bowl](https://www.stylemyhome.com.au/products/white-orchid-plant-in-glass-bowl): Amazing nautical decor perfect for Beach, Hamptons, Bahamas & Coastal Contemporary Style Homes.
   Updated: 2026-10-02T05:27:06Z
   Vendor: F21RS
@@ -296,22 +279,6 @@
   - [Large](https://www.stylemyhome.com.au/products/motif-inlay-trinket-box-blue?variant=35700256270)
     Availability: Available
     Price: $229.00 AUD
-- [Silver Plated Lina Photo Frame](https://www.stylemyhome.com.au/products/silver-plated-lina-photo-frame): Silver plated photo frame.
-
-Size: 
-4" x 6"
-5" x 7"
-  Updated: 2026-10-02T05:27:07Z
-  Vendor: F21IR
-  Product Type: Photo Frame
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/Display_on_Hugo_no_studding_3.png?v=1571438639
-  - [4" x 6"](https://www.stylemyhome.com.au/products/silver-plated-lina-photo-frame?variant=36173979854)
-    Availability: Available
-    Price: $39.00 AUD
-  - [5" x 7"](https://www.stylemyhome.com.au/products/silver-plated-lina-photo-frame?variant=36173979918)
-    Availability: Available
-    Price: $45.00 AUD
 - [Hydrangea Stems - Large](https://www.stylemyhome.com.au/products/hydrangea-stems-large): Beautiful hydrangea stems. Blue - 50cm Dark Blue - 53cm
   Updated: 2026-10-02T05:28:34Z
   Vendor: F21RS
@@ -341,7 +308,7 @@ Size:
     Availability: Available
     Price: $17.95 AUD
 - [Exquisite Shell No 4 | Designer Boys Art](https://www.stylemyhome.com.au/products/indigo-exquisite-shell-no-4): Amazing Art Canvas ready to hang for Hamptons, Bahamas & Coastal Contemporary Style Homes.
-  Updated: 2026-10-02T05:28:19Z
+  Updated: 2026-10-27T13:09:40Z
   Vendor: D21BS
   Product Type: Framed Print
   Availability: Available
@@ -359,7 +326,7 @@ Size:
     Availability: Available
     Price: $1,749.00 AUD
 - [Exquisite Shell No 5 | Designer Boys Art](https://www.stylemyhome.com.au/products/indigo-exquisite-shell-no-5): This Indigo Exquisite Shell No 5 is a true work of art, capturing the beauty of a watercolour shell in stunning hand painted detail.
-  Updated: 2026-10-02T05:28:38Z
+  Updated: 2026-10-27T13:09:41Z
   Vendor: D21BS
   Product Type: Exquisite Shell
   Availability: Available
@@ -376,13 +343,6 @@ Size:
   - [Coastal / Blue / Extra Large](https://www.stylemyhome.com.au/products/indigo-exquisite-shell-no-5?variant=47436907774104)
     Availability: Available
     Price: $1,749.00 AUD
-- [Oriental Ginger Jar With White Orchid](https://www.stylemyhome.com.au/products/oriental-ginger-jar-with-white-orchid): Amazing nautical decor perfect for Beach, Hamptons, Bahamas & Coastal Contemporary Style Homes.
-  Updated: 2026-10-02T05:27:06Z
-  Vendor: F21LE
-  Product Type: artificial plants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/1_14ff09ab-f23b-4b2c-8470-9a0fe41beb26.png?v=1571438641
-  Price: $64.95 AUD
 - [Coral Bookend Set- White](https://www.stylemyhome.com.au/products/coral-bookend-set-white): These faux coral bookends are the perfect beginning and end to any book collection! Colour• White Material• PolyresinDimensions• 16cm W x 12cm D x 19.5cm H If you have any questions please call our team on 1300 016 131 or email us at hello@stylemyhome.com.au
   Updated: 2026-10-17T21:32:26Z
   Vendor: SMHDecor1
@@ -390,27 +350,8 @@ Size:
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/8401/products/6_33af554c-c321-4867-bde0-7127b4799522.png?v=1733302911
   Price: $99.00 AUD
-- [Coral Linen Cushion](https://www.stylemyhome.com.au/products/coral-linen-cushion): Beautiful cushion for Hamptons inspired homes.Size: 45x45cm
-  Updated: 2026-10-02T05:27:08Z
-  Vendor: P21A
-  Product Type: Cushion
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/coral_navy.png?v=1571438644
-  - [Navy](https://www.stylemyhome.com.au/products/coral-linen-cushion?variant=44251405390)
-    Availability: Available
-    Price: $69.00 AUD
-  - [Sand](https://www.stylemyhome.com.au/products/coral-linen-cushion?variant=44251485902)
-    Availability: Available
-    Price: $69.00 AUD
-- [Magnolia Leaf Garland](https://www.stylemyhome.com.au/products/magnolia-leaf-garland): Amazing nautical decor perfect for Beach, Hamptons, Bahamas & Coastal Contemporary Style Homes.
-  Updated: 2026-10-02T05:27:09Z
-  Vendor: F21RS
-  Product Type: artificial plants
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/Magnolia_Garland_Hamptons_Decor_from_Style_My_Home_Australia.png?v=1571438644
-  Price: $79.00 AUD
 - [Exquisite Shell No 3 | Designer Boys Art](https://www.stylemyhome.com.au/products/indigo-exquisite-shell-no-3): Amazing Art Canvas ready to hang for Hamptons, Bahamas & Coastal Contemporary Style Homes.
-  Updated: 2026-10-02T05:27:08Z
+  Updated: 2026-10-27T13:09:39Z
   Vendor: D21BS
   Product Type: Framed Print
   Availability: Available
@@ -428,14 +369,14 @@ Size:
     Availability: Available
     Price: $1,749.00 AUD
 - [Coral Motif No 1 | Designer Boys Art](https://www.stylemyhome.com.au/products/coral-motif-i-navy): Amazing Art Canvas ready to hang for Hamptons, Bahamas & Coastal Contemporary Style Homes.
-  Updated: 2026-10-02T05:28:26Z
+  Updated: 2026-10-27T13:09:09Z
   Vendor: D21BS
   Product Type: Framed Print
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/8401/products/2_4dc9b935-43f7-4ff5-a061-21e59897f420.png?v=1749879155
   Price: $1,529.00 AUD
 - [Madeline Linen Ottoman](https://www.stylemyhome.com.au/products/madeline-linen-ottoman): Description Customer Feedback Truly iconic design. This ottoman with matching arm chair features Scandinavian style with thick and luxurious linen upholstery.
-  Updated: 2026-10-11T20:10:35Z
+  Updated: 2026-10-27T13:10:39Z
   Vendor: SMHFactory2
   Product Type: Ottoman
   Availability: Available
@@ -497,7 +438,7 @@ Size:
     Availability: Available
     Price: $75.00 AUD
 - [Silver Plated Bamboo Frame](https://www.stylemyhome.com.au/products/silver-plated-bamboo-frame): Nickel/Mango Wood Yacht
-  Updated: 2026-10-02T05:28:34Z
+  Updated: 2026-10-28T01:22:26Z
   Vendor: F21IR
   Product Type: Art & Decor
   Availability: Available
@@ -512,7 +453,7 @@ Size:
     Availability: Available
     Price: $56.00 AUD
 - [Monet Stunning Violet Rug](https://www.stylemyhome.com.au/products/monet-stunning-violet-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. A statement of style, this collection features bold, contemporary designs. First hand-tufted, then carefully embossed by hand to enhance the design. Completely handcrafted, these rugs feature a easy care acrylic fiber to enhance your décor. FEATURES: Dense 6mm pile Modern design Hard wearing Easy to clean Soft Acrylic Pile Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-02T05:27:08Z
+  Updated: 2026-10-29T13:34:55Z
   Vendor: Rug Culture
   Product Type: Acrylic
   Availability: Available
@@ -530,7 +471,7 @@ Size:
     Availability: Available
     Price: $329.00 AUD
 - [Total Grip For Carpet Floors](https://www.stylemyhome.com.au/products/total-grip-for-carpet-floors): TOTAL GRIP is a reversible rug pad that may be used over Carpet floors. It provides a firm base to your rug and keeps it from slipping. Great for high traffic areas and under heavy furniture. TOTAL GRIP can be cut with scissors to any size or shape for unlimited uses around the home. FEATURES: Can be cut with scissors to any size or shape Rubber Mesh will not discolour or damage your floor underneath Makes Vacuuming easier by holding rug in place Extends life of rug by preventing buckling Please note: Allow for a slight variation of colours depending on monitor settings Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:25Z
+  Updated: 2026-10-29T13:35:08Z
   Vendor: Rug Culture
   Product Type: Grip Underlay
   Availability: Available
@@ -572,7 +513,7 @@ Size:
     Availability: Available
     Price: $449.00 AUD
 - [Round Jute Natural Rug Black](https://www.stylemyhome.com.au/products/round-jute-natural-rug-black): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The Collection of rugs are meticulously crafted by artisan rug makers of sustainably harvested jute, a fast-growing, renewable natural fibre. Hand-spun jute is braided, then woven to create a stunning contemporary rug for any look, whether it’s coastal chic or casual cool. This classic natural fibre rug is a must-have for an eco-friendly household. The handwoven rug creates a soft golden sheen that perfectly complements your contemporary decor. The strong fibres make this rug durable enough for high traffic areas. FEATURES: Natural fibre rug Made in India Hard wearing pile Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-21T13:35:23Z
+  Updated: 2026-10-26T13:36:28Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -590,7 +531,7 @@ Size:
     Availability: Not Available
     Price: $179.95 AUD
 - [Jute Natural Round Rug Bleached](https://www.stylemyhome.com.au/products/jute-natural-round-rug-bleached): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The Collection of rugs are meticulously crafted by artisan rug makers of sustainably harvested jute, a fast-growing, renewable natural fibre. Hand-spun jute is braided, then woven to create a stunning contemporary rug for any look, whether it’s coastal chic or casual cool. This classic natural fibre rug is a must-have for an eco-friendly household. The handwoven rug creates a soft golden sheen that perfectly complements your contemporary decor. The strong fibres make this rug durable enough for high traffic areas. FEATURES: Natural fibre rug Made in India Hard wearing pile Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:26Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -608,7 +549,7 @@ Size:
     Availability: Not Available
     Price: $399.00 AUD
 - [Jute Natural Round Rug Blue](https://www.stylemyhome.com.au/products/jute-natural-round-rug-blue): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The Collection of rugs are meticulously crafted by artisan rug makers of sustainably harvested jute, a fast-growing, renewable natural fibre. Hand-spun jute is braided, then woven to create a stunning contemporary rug for any look, whether it’s coastal chic or casual cool. This classic natural fibre rug is a must-have for an eco-friendly household. The handwoven rug creates a soft golden sheen that perfectly complements your contemporary decor. The strong fibres make this rug durable enough for high traffic areas. FEATURES: Natural fibre rug Made in India Hard wearing pile Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:27Z
+  Updated: 2026-10-29T13:35:01Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -620,13 +561,13 @@ Size:
     Availability: Available
     Price: $179.00 AUD
   - [150CMx150CM / Natural](https://www.stylemyhome.com.au/products/jute-natural-round-rug-blue?variant=1170759811096)
-    Availability: Available
+    Availability: Not Available
     Price: $299.00 AUD
   - [240CMx240CM / Natural](https://www.stylemyhome.com.au/products/jute-natural-round-rug-blue?variant=1170759974936)
     Availability: Available
     Price: $419.00 AUD
 - [Jute Natural Round Rug](https://www.stylemyhome.com.au/products/jute-natural-round-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The Collection of rugs are meticulously crafted by artisan rug makers of sustainably harvested jute, a fast-growing, renewable natural fibre. Hand-spun jute is braided, then woven to create a stunning contemporary rug for any look, whether it’s coastal chic or casual cool. This classic natural fibre rug is a must-have for an eco-friendly household. The handwoven rug creates a soft golden sheen that perfectly complements your contemporary decor. The strong fibres make this rug durable enough for high traffic areas. FEATURES: Natural fibre rug Made in India Hard wearing pile Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:25Z
+  Updated: 2026-10-29T13:35:01Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -644,7 +585,7 @@ Size:
     Availability: Not Available
     Price: $419.00 AUD
 - [Round Jute Natural Rug Charcoal](https://www.stylemyhome.com.au/products/round-jute-natural-rug-charcoal): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The Collection of rugs are meticulously crafted by artisan rug makers of sustainably harvested jute, a fast-growing, renewable natural fibre. Hand-spun jute is braided, then woven to create a stunning contemporary rug for any look, whether it’s coastal chic or casual cool. This classic natural fibre rug is a must-have for an eco-friendly household. The handwoven rug creates a soft golden sheen that perfectly complements your contemporary decor. The strong fibres make this rug durable enough for high traffic areas. Features: • Natural fibre rug • Made in India • Hard wearing pile • Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:44Z
+  Updated: 2026-10-28T13:34:58Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -692,7 +633,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Chunky Natural Fiber Barker Navy Rectangle Rug](https://www.stylemyhome.com.au/products/chunky-natural-fiber-barker-navy-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection of contemporary hand crafted rugs are made by skilled artisans in India from the best quality natural jute. The natural fibres lend easy style and casual elegance to your setting, with an organic feel that exudes luxury. Features: • 100% Jute • Natural fibre rug • Hand Loomed in India • Hard wearing pile • Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:33Z
+  Updated: 2026-10-27T13:35:06Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -707,7 +648,7 @@ Size:
     Availability: Available
     Price: $489.00 AUD
 - [Chunky Natural Fibre Barker Rectangle Rug](https://www.stylemyhome.com.au/products/chunky-natural-fibre-barker-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection of contemporary hand crafted rugs are made by skilled artisans in India from the best quality natural jute. The natural fibres lend easy style and casual elegance to your setting, with an organic feel that exudes luxury. Features: • 100% Jute • Natural fibre rug • Hand Loomed in India • Hard wearing pile • Reversible/Double-Sided Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:36Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -722,7 +663,7 @@ Size:
     Availability: Available
     Price: $489.00 AUD
 - [Chunky Natural Fiber Barker Bleach Rectangle Rug](https://www.stylemyhome.com.au/products/chunky-natural-fiber-barker-bleach-rug): This collection of contemporary hand crafted rugs are made by skilled artisans in India from the best quality natural jute. The natural fibres lend easy style and casual elegance to your setting, with an organic feel that exudes luxury.
-  Updated: 2026-10-20T13:35:34Z
+  Updated: 2026-10-28T13:35:07Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -737,7 +678,7 @@ Size:
     Availability: Not Available
     Price: $499.00 AUD
 - [Miss Daisy Jute Round Rug](https://www.stylemyhome.com.au/products/miss-daisy-jute-round-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Featured is a masterful blend of simple yet captivating design that doesn’t stray from the winning formula of past success. PU Leather creates a rug that people will take notice of and become a topic of conversation due to the unique stylings inspired by the latest in modern design. FEATURES: * Jute * Flatweave * Hand Braided * Made in India Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:33Z
+  Updated: 2026-10-28T13:34:56Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -755,14 +696,14 @@ Size:
     Availability: Available
     Price: $419.00 AUD
 - [Diva Bleached Natural Round Rug](https://www.stylemyhome.com.au/products/diva-bleached-natural-round-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Featured is a masterful blend of simple yet captivating design that doesn’t stray from the winning formula of past success. Jute + Sari Silk creates a rug that people will take notice of and become a topic of conversation due to the unique stylings inspired by the latest in modern design. FEATURES: * Jute + Sari Silk * Flatweave * Hand Braided * Made in India Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-19T13:35:06Z
+  Updated: 2026-10-26T13:36:38Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0515/8401/products/ATR-SHI-BLE.jpg?v=1571438684
   Price: $109.95 AUD
 - [Natural Daisy Jute Round Rug](https://www.stylemyhome.com.au/products/natural-daisy-jute-round-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Featured is a masterful blend of simple yet captivating design that doesn’t stray from the winning formula of past success. Jute creates a rug that people will take notice of and become a topic of conversation due to the unique stylings inspired by the latest in modern design. FEATURES: * Jute * Flatweave * Hand Braided * Made in India Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-21T13:36:03Z
+  Updated: 2026-10-29T13:35:03Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -771,7 +712,7 @@ Size:
     Availability: Available
     Price: $109.95 AUD
   - [150CMx150CM / Natural](https://www.stylemyhome.com.au/products/natural-daisy-jute-round-rug?variant=1172957462552)
-    Availability: Available
+    Availability: Not Available
     Price: $179.95 AUD
   - [200CMx200CM / Natural](https://www.stylemyhome.com.au/products/natural-daisy-jute-round-rug?variant=1172957495320)
     Availability: Available
@@ -780,7 +721,7 @@ Size:
     Availability: Available
     Price: $449.00 AUD
 - [Little Miss Daisy Jute Round Rug](https://www.stylemyhome.com.au/products/little-miss-daisy-jute-round-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Featured is a masterful blend of simple yet captivating design that doesn’t stray from the winning formula of past success. Jute creates a rug that people will take notice of and become a topic of conversation due to the unique stylings inspired by the latest in modern design. FEATURES: * Jute * Flatweave * Hand Braided * Made in India Please note: Allow for a slight variation of colours depending on monitor settings Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:38Z
+  Updated: 2026-10-26T13:36:41Z
   Vendor: Rug Culture
   Product Type: Jute
   Availability: Available
@@ -798,7 +739,7 @@ Size:
     Availability: Available
     Price: $109.95 AUD
 - [Carlos Felted Wool Rug Black Natural](https://www.stylemyhome.com.au/products/carlos-felted-wool-rug-black-natural): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This designer rug creates a first impression of lasting beauty inspired by the latest trends of scandinavian design. Not only are these stunning rugs beautifully constructed, they're designed to stay beautiful. Experience the exotic vibe of a nomadic lifestyle with these flat weave Kilims. Hand-knotted in India, the Skandinavian Collection boasts a variety of modern designs in pastel tones and tribal patterns in earthy tones. Breathe new life into any space with these works of art! FEATURES: • 100% Wool • Scandinavian Design • Flat weave construction • Hand Made in India • Double sided • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:15Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Wool
   Availability: Available
@@ -813,7 +754,7 @@ Size:
     Availability: Available
     Price: $425.00 AUD
 - [Carlos Felted Wool Rug Brown Natural](https://www.stylemyhome.com.au/products/carlos-felted-wool-rug-brown-natural): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This designer rug creates a first impression of lasting beauty inspired by the latest trends of scandinavian design. Not only are these stunning rugs beautifully constructed, they're designed to stay beautiful. Experience the exotic vibe of a nomadic lifestyle with these flat weave Kilims. Hand-knotted in India, the Skandinavian Collection boasts a variety of modern designs in pastel tones and tribal patterns in earthy tones. Breathe new life into any space with these works of art! FEATURES: • 100% Wool • Scandinavian Design • Flat weave construction • Hand Made in India • Double sided • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:18Z
+  Updated: 2026-10-29T13:35:06Z
   Vendor: Rug Culture
   Product Type: Wool
   Availability: Available
@@ -822,13 +763,13 @@ Size:
     Availability: Available
     Price: $669.00 AUD
   - [225CMX155CM](https://www.stylemyhome.com.au/products/carlos-felted-wool-rug-brown-natural?variant=1173063073816)
-    Availability: Not Available
+    Availability: Available
     Price: $499.00 AUD
   - [320CMX230CM](https://www.stylemyhome.com.au/products/carlos-felted-wool-rug-brown-natural?variant=1173063139352)
     Availability: Available
     Price: $949.00 AUD
 - [Carlos Felted Wool Rectangle Rug Grey Natural](https://www.stylemyhome.com.au/products/carlos-felted-wool-rectangle-rug-grey-natural): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This designer rug creates a first impression of lasting beauty inspired by the latest trends of scandinavian design. Not only are these stunning rugs beautifully constructed, they're designed to stay beautiful. Experience the exotic vibe of a nomadic lifestyle with these flat weave Kilims. Hand-knotted in India, the Skandinavian Collection boasts a variety of modern designs in pastel tones and tribal patterns in earthy tones. Breathe new life into any space with these works of art! FEATURES: • 100% Wool • Scandinavian Design • Flat weave construction • Hand Made in India • Double sided • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:33Z
+  Updated: 2026-10-29T13:35:07Z
   Vendor: Rug Culture
   Product Type: Wool
   Availability: Available
@@ -879,7 +820,7 @@ Size:
     Availability: Not Available
     Price: $429.00 AUD
 - [Madras Blue Flat Weave Rug](https://www.stylemyhome.com.au/products/madras-blue-flat-weave-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The designer rug creates a first impression of lasting beauty inspired by the latest trends of scandinavian design. Not only are these stunning rugs beautifully constructed, they're designed to stay beautiful. Experience the exotic vibe of a nomadic lifestyle with these flat weave Kilims. Handmade in India, the Skandinavian Collection boasts a variety of modern designs in pastel tones and tribal patterns in earthy tones. Breathe new life into any space with these works of art! Features: • 100% Wool • Scandinavian Design • Flat weave construction • Hand Made in India • Double sided • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:17Z
+  Updated: 2026-10-29T13:35:00Z
   Vendor: Rug Culture
   Product Type: Wool
   Availability: Available
@@ -894,7 +835,7 @@ Size:
     Availability: Available
     Price: $249.00 AUD
 - [Madras Natural Flat Weave Rug](https://www.stylemyhome.com.au/products/madras-natural-flat-weave-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. The designer rug creates a first impression of lasting beauty inspired by the latest trends of scandinavian design. Not only are these stunning rugs beautifully constructed, they're designed to stay beautiful. Experience the exotic vibe of a nomadic lifestyle with these flat weave Kilims. Handmade in India, the Skandinavian Collection boasts a variety of modern designs in pastel tones and tribal patterns in earthy tones. Breathe new life into any space with these works of art! Features: • 100% Wool • Scandinavian Design • Flat weave construction • Hand Made in India • Double sided • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:26Z
+  Updated: 2026-10-29T13:35:06Z
   Vendor: Rug Culture
   Product Type: Wool
   Availability: Available
@@ -1011,7 +952,7 @@ Size:
     Availability: Not Available
     Price: $429.00 AUD
 - [Mist White Transitional Rectangle Rug](https://www.stylemyhome.com.au/products/mist-white-transitional-rug): Transform your home with a timeless rug. A fade-inspired, power loomed, and rich in style. A must-have for modern Australian homes.
-  Updated: 2026-10-20T13:36:38Z
+  Updated: 2026-10-28T13:34:57Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1032,7 +973,7 @@ Size:
     Availability: Available
     Price: $229.00 AUD
 - [Estella Charcoal Transitional Rug](https://www.stylemyhome.com.au/products/estella-charcoal-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not squared. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:26Z
+  Updated: 2026-10-27T13:35:01Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1104,7 +1045,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Oasis Navy Transitional Rug](https://www.stylemyhome.com.au/products/oasis-navy-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not square. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:36Z
+  Updated: 2026-10-29T13:35:07Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1140,7 +1081,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Shine Silver Transitional Rectangle Rug](https://www.stylemyhome.com.au/products/shine-silver-transitional-rug): Shine Silver rug features Turkish craftsmanship, ornate faded design & durable polypropylene. An elegant, cultural centerpiece for any space.
-  Updated: 2026-10-19T13:35:08Z
+  Updated: 2026-10-26T06:59:10Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1158,7 +1099,7 @@ Size:
     Availability: Available
     Price: $749.00 AUD
 - [Muse Blue Transitional Rug](https://www.stylemyhome.com.au/products/muse-blue-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 l 240 x 240 are circular not squared. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:29Z
+  Updated: 2026-10-28T13:34:56Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1194,7 +1135,7 @@ Size:
     Availability: Available
     Price: $219.00 AUD
 - [Scape Charcoal Transitional Rug](https://www.stylemyhome.com.au/products/scape-charcoal-transitional-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile• Style: Transitional • Weave: Power-Loomed• Material: Polypropylene • Easy to clean• Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. 150CM x 150CM, 200CM x 200CM & 240CM x 240CM are round rugs. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:28Z
+  Updated: 2026-10-29T13:35:05Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1230,7 +1171,7 @@ Size:
     Availability: Available
     Price: $229.00 AUD
 - [Contrast Navy Transitional Rectangle Rug](https://www.stylemyhome.com.au/products/contrast-navy-transitional-rug): Elegant fade-style rug blending modern & classic design. Durable, power loomed, 10mm pile. It is available in round, runner & rectangle shapes.
-  Updated: 2026-10-23T00:06:49Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1284,7 +1225,7 @@ Size:
     Availability: Available
     Price: $749.00 AUD
 - [Frost Blue Transitional Rectangle Rug](https://www.stylemyhome.com.au/products/frost-blue-transitional-rug): Transform your home with a timeless rug. A fade-inspired, power loomed, and rich in style. A must-have for modern Australian homes.
-  Updated: 2026-10-22T13:35:38Z
+  Updated: 2026-10-28T13:35:06Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1302,7 +1243,7 @@ Size:
     Availability: Available
     Price: $749.00 AUD
 - [Homage Grey Transitional Rug](https://www.stylemyhome.com.au/products/homage-grey-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not squared. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-19T13:35:09Z
+  Updated: 2026-10-29T13:35:03Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1338,7 +1279,7 @@ Size:
     Availability: Available
     Price: $219.00 AUD
 - [Remy Silver Transitional Rug](https://www.stylemyhome.com.au/products/remy-silver-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not squared. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-13T13:37:00Z
+  Updated: 2026-10-26T13:36:33Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1417,7 +1358,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Silver Flower Transitional Rug](https://www.stylemyhome.com.au/products/silver-flower-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not square. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-19T13:34:57Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1456,7 +1397,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Winter White Transitional Rectangle  Rug](https://www.stylemyhome.com.au/products/winter-white-transitional-rug): Transform your home with a timeless rug. A fade-inspired, power loomed, and rich in style. A must-have for modern Australian homes.
-  Updated: 2026-10-22T13:35:26Z
+  Updated: 2026-10-27T13:35:07Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1478,7 +1419,7 @@ Size:
     Image: https://cdn.shopify.com/s/files/1/0515/8401/products/EVO-261-WHI.jpg?v=1571438695
     Price: $799.00 AUD
 - [Diamond Grey Transitional Rug](https://www.stylemyhome.com.au/products/diamond-grey-transitional-rug): PLEASE NOTE RUG SIZES: 150 x 150 I 200 x 200 I 240 x 240 are circular not squared. IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. This collection, aptly named for it's ability to draw out a range of emotion from the viewer with a blend of modern and traditional that also takes from the trending 'fade' style we have started to see as of late. An amazing piece of design that effectively captures the latest Australian transitional trends. Long lasting, power loomed, made in Turkey and 10mm pile with an array of shapes and sizes - being available in rectangular, runner and even round ranges- this rug is timeless in more ways than one. Features: • Dense: 10mm pile • Style: Transitional • Weave: Power-Loomed • Material: Polypropylene • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-21T13:35:36Z
+  Updated: 2026-10-29T13:35:01Z
   Vendor: Rug Culture
   Product Type: Polypropylene
   Availability: Available
@@ -1550,7 +1491,7 @@ Size:
     Availability: Not Available
     Price: $229.00 AUD
 - [Black Cotton Rayon Rug](https://www.stylemyhome.com.au/products/black-cotton-rayon-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Comprised of 65% Rayon and 35% Cotton, luxury radiates from this collection and is quite simply the perfect solution for customers wanting softness and style in their space. Cotton fibre gives a soft, light feel underfoot and is a natural choice. Rayon is created from regenerated plant material that has the quality of pure silk and is anti-static. This material blend is comfortable and cool - a great choice for comfort in warm weather. A 9mm cut loop pile completes this rug and adds the benefit of texture to balance the exquisite softness of this collection. Features: • 65% Rayon and 35% Cotton • 9mm Pile Height • Stunning Modern Design • Hand Loomed • Made in India • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-19T13:35:08Z
+  Updated: 2026-10-29T13:35:02Z
   Vendor: Rug Culture
   Product Type: Cotton Rayon
   Availability: Available
@@ -1568,7 +1509,7 @@ Size:
     Availability: Not Available
     Price: $970.00 AUD
 - [Indigo Cotton Rayon Rectangle Rug](https://www.stylemyhome.com.au/products/indigo-cotton-rayon-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Comprised of 65% Rayon and 35% Cotton, luxury radiates from this collection and is quite simply the perfect solution for customers wanting softness and style in their space. Cotton fibre gives a soft, light feel underfoot and is a natural choice. Rayon is created from regenerated plant material that has the quality of pure silk and is anti-static. This material blend is comfortable and cool - a great choice for comfort in warm weather. A 9mm cut loop pile completes this rug and adds the benefit of texture to balance the exquisite softness of this collection. Features: • 65% Rayon and 35% Cotton • 9mm Pile Height • Stunning Modern Design • Hand Loomed • Made in India • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-20T13:35:30Z
+  Updated: 2026-10-29T13:35:06Z
   Vendor: Rug Culture
   Product Type: Cotton Rayon
   Availability: Available
@@ -1585,24 +1526,6 @@ Size:
   - [400CMx300CM / Blue](https://www.stylemyhome.com.au/products/indigo-cotton-rayon-rectangle-rug?variant=42464046940312)
     Availability: Available
     Price: $919.00 AUD
-- [Stone Cotton Rayon Rectangle Rug](https://www.stylemyhome.com.au/products/stone-cotton-rayon-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Comprised of 65% Rayon and 35% Cotton, luxury radiates from this collection and is quite simply the perfect solution for customers wanting softness and style in their space. Cotton fibre gives a soft, light feel underfoot and is a natural choice. Rayon is created from regenerated plant material that has the quality of pure silk and is anti-static. This material blend is comfortable and cool - a great choice for comfort in warm weather. A 9mm cut loop pile completes this rug and adds the benefit of texture to balance the exquisite softness of this collection. Features: • 65% Rayon and 35% Cotton • 9mm Pile Height • Stunning Modern Design • Hand Loomed • Made in India • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
-  Updated: 2026-10-22T13:35:27Z
-  Vendor: Rug Culture
-  Product Type: Cotton Rayon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/ALU-STONE.jpg?v=1758239489
-  - [225CMx155CM / Natural](https://www.stylemyhome.com.au/products/stone-cotton-rayon-rectangle-rug?variant=47436900630680)
-    Availability: Not Available
-    Price: $279.00 AUD
-  - [280CMx190CM / Natural](https://www.stylemyhome.com.au/products/stone-cotton-rayon-rectangle-rug?variant=47436900663448)
-    Availability: Not Available
-    Price: $399.00 AUD
-  - [320CMx230CM / Natural](https://www.stylemyhome.com.au/products/stone-cotton-rayon-rectangle-rug?variant=47436900696216)
-    Availability: Not Available
-    Price: $549.00 AUD
-  - [400CMx300CM / Natural](https://www.stylemyhome.com.au/products/stone-cotton-rayon-rectangle-rug?variant=42464047890584)
-    Availability: Available
-    Price: $970.00 AUD
 - [Whisper Diamond Grey Rug](https://www.stylemyhome.com.au/products/whisper-diamond-grey-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Powerloomed for precision and durability, this rug is also tip sheared by hand to give a distressed finish that recreates the look of an authentic, vintage Persian rug that has been stonewashed and overdyed for a modern look - at a fraction of the cost! The distressed cotton fibre gives a light feel underfoot and is a natural addition. A low 6MM pile fits easily under doors and reduces any trip hazard - use a rug pad underneath for extra comfort and safety. This rug is also durable and easy care - a perfect choice for easy style in busy homes. Features: • 50% Polypropylene, 50% Cotton • Made in Turkey • 6mm Pile Height • Gorgeous Designs • Easy to vacuum Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
   Updated: 2026-10-15T06:35:27Z
   Vendor: Rug Culture
@@ -1723,37 +1646,112 @@ Size:
   - [400CMx300CM / Blue](https://www.stylemyhome.com.au/products/wind-stunning-designer-rectangle-rug-blue?variant=1177295552536)
     Availability: Available
     Price: $1,590.00 AUD
-[List Continued](https://www.stylemyhome.com.au/a/llms-agent/llms.txt?shop=stylemyhome.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTgzNTQ3MDY0NTYsImxhc3RfdmFsdWUiOiIxMTgzNTQ3MDY0NTYifQ%3D%3D)
+- [Esquire Vine Traditional Cream Rectangle Rug](https://www.stylemyhome.com.au/products/esquire-vine-traditional-cream-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Each piece within the Esquire range brings a unique and distinctive design that takes advantage of the creative use of fading techniques and chenille/polypropylene based construction. Made in Turkey on a 4mm pile to give it that thin and authentic traditional look! Features: • 4mm pile • Polypropylene & Chenille • Beautiful Traditional Design • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
+  Updated: 2026-10-02T05:27:08Z
+  Vendor: Rug Culture
+  Product Type: Polypropylene
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/PVD-830-CRE.jpg?v=1758160189
+  - [230X160cm](https://www.stylemyhome.com.au/products/esquire-vine-traditional-cream-rectangle-rug?variant=1177386713112)
+    Availability: Available
+    Price: $279.00 AUD
+  - [290X200cm](https://www.stylemyhome.com.au/products/esquire-vine-traditional-cream-rectangle-rug?variant=1177386745880)
+    Availability: Not Available
+    Price: $429.00 AUD
+  - [330X240cm](https://www.stylemyhome.com.au/products/esquire-vine-traditional-cream-rectangle-rug?variant=1177386778648)
+    Availability: Not Available
+    Price: $549.00 AUD
+  - [400X300cm](https://www.stylemyhome.com.au/products/esquire-vine-traditional-cream-rectangle-rug?variant=1177386811416)
+    Availability: Not Available
+    Price: $990.00 AUD
+- [Esquire Rim Traditional Beige Rectangle Rug](https://www.stylemyhome.com.au/products/esquire-rim-traditional-beige-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Each piece within the Esquire range brings a unique and distinctive design that takes advantage of the creative use of fading techniques and chenille/polypropylene based construction. Made in Turkey on a 4mm pile to give it that thin and authentic traditional look! Features: • 4mm pile • Polypropylene & Chenille • Beautiful Traditional Design • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
+  Updated: 2026-10-08T13:35:00Z
+  Vendor: Rug Culture
+  Product Type: Modern
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/PVD-832-BEI.jpg?v=1758160090
+  - [230X160cm](https://www.stylemyhome.com.au/products/esquire-rim-traditional-beige-rectangle-rug?variant=1177390350360)
+    Availability: Not Available
+    Price: $199.00 AUD
+  - [290X200cm](https://www.stylemyhome.com.au/products/esquire-rim-traditional-beige-rectangle-rug?variant=1177390415896)
+    Availability: Available
+    Price: $299.00 AUD
+  - [330X240cm](https://www.stylemyhome.com.au/products/esquire-rim-traditional-beige-rectangle-rug?variant=1177390448664)
+    Availability: Not Available
+    Price: $399.00 AUD
+  - [400X300cm](https://www.stylemyhome.com.au/products/esquire-rim-traditional-beige-rectangle-rug?variant=1177390514200)
+    Availability: Not Available
+    Price: $769.00 AUD
+- [Esquire Segments Traditional Blue Rectangle Rug](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Each piece within the Esquire range brings a unique and distinctive design that takes advantage of the creative use of fading techniques and chenille/polypropylene based construction. Made in Turkey on a 4mm pile to give it that thin and authentic traditional look! Features: • 4mm pile • Polypropylene & Chenille • Beautiful Traditional Design • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings.Colour may appear different on different monitor and phone settings. Click here for full 'Rug Terms and Conditions'.
+  Updated: 2026-10-02T05:28:37Z
+  Vendor: Rug Culture
+  Product Type: Polypropylene
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/PVD-833-BLU.jpg?v=1594430721
+  - [230CMx160CM / Blue](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug?variant=47436900237464)
+    Availability: Not Available
+    Price: $279.00 AUD
+  - [290CMx200CM / Blue](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug?variant=47436900270232)
+    Availability: Not Available
+    Price: $429.00 AUD
+  - [300CMx80CM / Blue](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug?variant=35179969806488)
+    Availability: Available
+    Price: $189.95 AUD
+  - [330CMx240CM / Blue](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug?variant=47436900303000)
+    Availability: Not Available
+    Price: $549.00 AUD
+  - [400CMx300CM / Blue](https://www.stylemyhome.com.au/products/esquire-segments-traditional-blue-rectangle-rug?variant=47436900335768)
+    Availability: Not Available
+    Price: $990.00 AUD
+- [Esquire Central Traditional Beige Rectangle Rug](https://www.stylemyhome.com.au/products/esquire-central-traditional-beige-rectangle-rug): IMPORTANT TIP: We recommend that an anti-slip pad such as Supa Rug Grip is used underneath rugs to prevent slippage between the rug and the surface it is placed on. Please Note: This item cannot be delivered to a PO Box, only to a street address. Each piece within the Esquire range brings a unique and distinctive design that takes advantage of the creative use of fading techniques and chenille/polypropylene based construction. Made in Turkey on a 4mm pile to give it that thin and authentic traditional look! Features: • 4mm pile • Polypropylene & Chenille • Beautiful Traditional Design • Easy to clean • Made in Turkey Please note: Allow for a slight variation of colours depending on monitor settings. Click here for full 'Rug Terms and Conditions'.
+  Updated: 2026-10-27T13:34:59Z
+  Vendor: Rug Culture
+  Product Type: Polypropylene
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0515/8401/products/PVD-834-BEI.jpg?v=1646797941
+  - [230CMx160CM / Natural](https://www.stylemyhome.com.au/products/esquire-central-traditional-beige-rectangle-rug?variant=1177402376216)
+    Availability: Available
+    Price: $279.00 AUD
+  - [290CMx200CM / Natural](https://www.stylemyhome.com.au/products/esquire-central-traditional-beige-rectangle-rug?variant=1177402408984)
+    Availability: Not Available
+    Price: $429.00 AUD
+  - [330CMx240CM / Natural](https://www.stylemyhome.com.au/products/esquire-central-traditional-beige-rectangle-rug?variant=1177402441752)
+    Availability: Not Available
+    Price: $549.00 AUD
+  - [400CMx300CM / Natural](https://www.stylemyhome.com.au/products/esquire-central-traditional-beige-rectangle-rug?variant=1177402474520)
+    Availability: Not Available
+    Price: $990.00 AUD
+[List Continued](https://www.stylemyhome.com.au/a/llms-agent/llms.txt?shop=stylemyhome.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTgzNzAzNjk1NjAsImxhc3RfdmFsdWUiOiIxMTgzNzAzNjk1NjAifQ%3D%3D)
 
 ## Collections
 
 - [Frontpage](https://www.stylemyhome.com.au/collections/frontpage): Frontpage. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 709
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 669
 - [Hamptons Office Furniture](https://www.stylemyhome.com.au/collections/office): Create the perfect place to create and think with our classic and sturdy Hamptons-style desks. We offer a classic range in several sizes and finishes that will suit a wide range of office spaces and homes.
-  Updated: 2026-10-21T20:43:03Z
+  Updated: 2026-10-26T09:23:22Z
   Total Products: 16
 - [Hamptons Dining Furniture](https://www.stylemyhome.com.au/collections/hamptons-dining-room-furniture): Bring your dream Hamptons dining room to life with Style My Home. Shop elegant yet relaxed Hamptons dining furniture to wine, dine, and entertain in style.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 79
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 76
 - [Living](https://www.stylemyhome.com.au/collections/living-room-furniture): Create a timeless and sophisticated living space with our Hamptons Living Room Furniture Range. Explore and shop our curated selection of lounges, armchairs and coffee and side tables that add the perfect finishing touch.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 183
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 174
 - [Hamptons Bedroom Furniture](https://www.stylemyhome.com.au/collections/hamptons-bedroom-furniture): Coastal Hamptons Bedroom: Transform your bedroom into a coastal oasis with our 100% linen bedheads and timeless furniture. Shop our range now!
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 103
+  Updated: 2026-10-29T04:07:11Z
+  Total Products: 102
 - [Hamptons Decor Accessories](https://www.stylemyhome.com.au/collections/hamptons-decor): Elevate your living space with the timeless charm of Hamptons Decor. Our curated collection invites you to transform your home into a haven of coastal elegance. Shop our collection of coastal Hamptons photo frames, rectangular and circular trays, linen bedding, mirrors, baskets and more!
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 560
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 523
 - [Hamptons Lighting](https://www.stylemyhome.com.au/collections/hamptons-lighting): Create a bright and welcoming ambience with Hamptons lighting. Whether you need a table lamp for your living room, study lamp for your desk or pendant lights in your kitchen, look no further.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 30
+  Updated: 2026-10-28T11:00:28Z
+  Total Products: 27
 - [Hamptons Bed Frames](https://www.stylemyhome.com.au/collections/beds): Shop our beautiful range of Hamptons bed frames, made from 100% linen. Our bedframe range focuses on classic and comfortable designs that will never date in soothing seascape colours, perfect for creating a calming oasis to rest.
-  Updated: 2026-10-17T02:20:54Z
-  Total Products: 12
+  Updated: 2026-10-29T04:07:11Z
+  Total Products: 11
 - [Hamptons Bedside Tables](https://www.stylemyhome.com.au/collections/hamptons-bedside-tables): Hamptons Bedside Tables – Classic, Timeless & Versatile At Style My Home, our collection of Hamptons bedside tables brings together timeless style, thoughtful design, and everyday practicality. While we are renowned for our Hamptons-inspired aesthetic, our furniture is crafted with classic transitional features that make it equally at home in modern, farmhouse, and French provincial interiors. This versatility ensures that each piece will remain a stylish addition to your bedroom for years to come. We understand that every bedroom is different, which is why our bedside tables are available in a range of sizes and drawer configurations to suit your storage needs. From small bedsides for compact spaces through to larger designs with generous storage, each piece is thoughtfully proportioned and slightly taller than most retailers at 65–70cm — the perfect height for today’s higher ensembles and bedheads. Choose from two beautiful finishes: a crisp satin white in birch wood, easy to clean and effortlessly fresh, or a warm whitewashed American oak, adding depth and coastal charm. Whichever you prefer, our Hamptons bedside tables are designed with enduring elegance and functionality in mind, making them the perfect finishing touch for your bedroom. When selecting the perfect bedside tables for your space you will need to consider 4 factors: size, how much storage is required, material, style and finish. Read more about our tips to selecting the perfect bedside table on our blog here. What makes our bedside tables unique? Read about it here.
-  Updated: 2026-10-20T11:00:24Z
-  Total Products: 35
+  Updated: 2026-10-28T04:10:55Z
+  Total Products: 34
 - [Hamptons Bedroom Blanket Boxes](https://www.stylemyhome.com.au/collections/hamptons-bedroom-blanket-boxes): Shop 100% linen Hamptons blanket boxes for stylish bedroom storage. Visit our Sydney, Brisbane & Gold Coast showrooms or order online at Style My Home.
   Updated: 2026-10-16T11:00:40Z
   Total Products: 5
@@ -1767,255 +1765,255 @@ Size:
   Updated: 2026-06-03T17:06:05Z
   Total Products: 1
 - [Hamptons Wall Art](https://www.stylemyhome.com.au/collections/wall-art): Hamptons Wall Art: Add personality to your home with serene Hamptons-style canvases, showcasing seascapes, botanicals, florals, and nautical themes.
-  Updated: 2026-10-22T05:52:06Z
-  Total Products: 331
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 321
 - [Hamptons Homewares](https://www.stylemyhome.com.au/collections/hamptons-homewares): Hamptons Homewares: Complete your home with stunning Hamptons decor! Choose from sculptures, ceramics, trays, bookends, cushions, and more.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 502
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 491
 - [Hamptons Outdoor Seating](https://www.stylemyhome.com.au/collections/outdoor-seating): Discover elegant and comfortable Hamptons outdoor seating solutions. Spruce up your verandah, pool, garden or sunroom with Hamptons outdoor chairs, tables and more.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 30
+  Updated: 2026-10-25T03:10:01Z
+  Total Products: 29
 - [Hamptons Dining Tables](https://www.stylemyhome.com.au/collections/hamptons-dining-tables): Entertain in style with our handcrafted Hamptons dining tables, made from quality materials and sealed for stress-free, stain-free dining.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 14
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 12
 - [Hamptons Dining Chairs](https://www.stylemyhome.com.au/collections/hamptons-dining-chairs): Enhance your dining space with our Hamptons chairs – timeless, elegant, and durable. Select oak, linen, or white finishes for style and exceptional comfort.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 22
 - [Hamptons Entertainment Units](https://www.stylemyhome.com.au/collections/entertainment-units): Complete your coastal living room with a Hamptons style TV unit. Choose a Hamptons style entertainment unit in an oak or white finish. Shop now are large range of options today, even including full wall cabinets.
-  Updated: 2026-10-20T11:00:25Z
-  Total Products: 13
+  Updated: 2026-10-26T06:25:49Z
+  Total Products: 14
 - [Hamptons Coffee Tables](https://www.stylemyhome.com.au/collections/living-room-coffee-tables): Elevate your living room with a beautiful coastal coffee table. Choose your favourite Hamptons style coffee table in your preferred finish and shape.
   Updated: 2026-10-22T11:01:01Z
   Total Products: 23
 - [Hamptons Living Room Side Tables](https://www.stylemyhome.com.au/collections/living-room-side-tables): Add the missing piece to your coastal-inspired interior puzzle with a Hamptons style side table that combines aesthetics with functionality. Shop the range now.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 24
+  Updated: 2026-10-28T11:00:28Z
+  Total Products: 23
 - [Hamptons Storage Solutions](https://www.stylemyhome.com.au/collections/hamptons-living-room-storage): Discover our range of Hamptons Living room storage solutions from cabinets to sideboards and everything in between. Shop quality made furniture from Style My Home.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 60
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 55
 - [Hamptons Display Cabinets](https://www.stylemyhome.com.au/collections/display-cabinets): Elegance and functionality come together in our Hamptons style display cabinets. Elevate your space and showcase your most cherished items in style. Shop now.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 17
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 13
 - [Hamptons Armchairs & Occasional Chairs](https://www.stylemyhome.com.au/collections/hamptons-armchairs-occasional-chairs): Relax in style in one of our beautiful Hamptons armchairs, made from 100% linen. Our armchair range focuses on classic and comfortable designs that will never date in soothing seascape colours, perfect for creating a calming oasis.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 14
 - [Hamptons Office Chairs](https://www.stylemyhome.com.au/collections/office-chairs): Create an environment you want to work. Our Hamptons style office chairs are designed with comfort and style in mind. Discover our collection available in a variety of designs and finishes.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-24T11:00:30Z
   Total Products: 9
 - [Hamptons Office Desks](https://www.stylemyhome.com.au/collections/hamptons-office-desks): Create a sophisticated, coastal-inspired study area with a Hamptons style desk from our collection. Pick among a beautiful array of designs, sizes and finishes. Shop now.
-  Updated: 2026-10-11T22:15:34Z
+  Updated: 2026-10-26T09:23:22Z
   Total Products: 10
 - [Hamptons Kitchen Stools](https://www.stylemyhome.com.au/collections/kitchen-stools): Discover Hamptons kitchen stools in linen, rattan, or leather. Classic, versatile designs for coastal, transitional, modern, and French provincial homes.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-23T13:56:53Z
   Total Products: 9
 - [Hamptons Cushions](https://www.stylemyhome.com.au/collections/cushions): Luxury Hamptons Cushions: Complement your coastal bedroom or living room with our luxury Hamptons cushions, available for delivery Australia-wide.
-  Updated: 2026-10-21T21:00:14Z
-  Total Products: 82
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 89
 - [Hamptons Decor Candles](https://www.stylemyhome.com.au/collections/candles): Candles & Diffusers. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 8
+  Updated: 2026-10-25T03:46:22Z
+  Total Products: 5
 - [Custom Framed Artwork](https://www.stylemyhome.com.au/collections/hamptons-artwork-framed): Designer Boys Framed Artwork Collection Elevate your home with our Designer Boys Framed Artwork collection – a curated range of premium, customisable, made-to-order artwork designed to bring personality to every space. From coastal wall art and Hamptons style artwork to abstract prints, landscape photography and classic still life pieces, this collection features a variety of subjects to suit timeless, family homes. Each piece is professionally framed and made to order, allowing you to select the size and frame finish that best complements your interior style. Whether you’re styling a living room, creating a calming bedroom retreat or refreshing a hallway, the Designer Boys framed wall art will be a hero piece of the room. Please note, as each piece is custom made to order, production and dispatch will take approximately 7–14 business days. As these artworks are created specifically for you, they are not eligible for refund or exchange.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 223
+  Updated: 2026-10-25T03:46:53Z
+  Total Products: 211
 - [Hamptons Artwork](https://www.stylemyhome.com.au/collections/hamptons-artwork): Artwork - Canvas. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 398
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 383
 - [Hamptons Console Tables](https://www.stylemyhome.com.au/collections/hamptons-consoles): Shop console tables in timeless Hamptons style. Perfect for hallways and entryways, with elegant designs and practical storage. Australia-wide delivery.
-  Updated: 2026-10-21T20:43:03Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 28
 - [Hamptons Tablewares](https://www.stylemyhome.com.au/collections/tableware): Complete your table setting with our range of luxurious Hamptons tableware products. Discover coasters, placemats, and other dining essentials at Style My Home.
-  Updated: 2026-10-17T11:01:07Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 11
 - [Clocks](https://www.stylemyhome.com.au/collections/clocks): Shop our stylish collection of clocks at Style My Home. Discover elegant designs for every room, from modern to classic, all crafted to elevate your home decor
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 19
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 17
 - [Hamptons Mirrors](https://www.stylemyhome.com.au/collections/mirrors): A Hamptons style wall mirror can add a brighter, open feel to your home and make your space feel bigger. Shop our range of Hamptons mirrors now.
-  Updated: 2026-10-21T20:28:27Z
-  Total Products: 36
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 35
 - [Hamptons Decor Baskets](https://www.stylemyhome.com.au/collections/baskets): Staying organised has never looked so good - our wicker baskets will contain the clutter while adding a coastal touch to your decor. Buy Hamptons storage baskets.
-  Updated: 2026-10-20T00:47:23Z
-  Total Products: 12
+  Updated: 2026-10-25T03:46:00Z
+  Total Products: 11
 - [Fabric Samples](https://www.stylemyhome.com.au/collections/fabric-samples): Explore our Fabric Samples collection at Style My Home. Order samples to find the perfect texture and color for your next home decor project, with no commitment required
-  Updated: 2026-10-19T11:00:32Z
+  Updated: 2026-10-28T11:00:28Z
   Total Products: 3
 - [Hamptons Artificial Plants & Flowers](https://www.stylemyhome.com.au/collections/artificial-plants-flowers): Transform your living space with Hamptons artificial plants and flowers. Our quality, lifelike arrangements are the perfect alternative to real plants. Order now.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 107
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 80
 - [Hamptons Indoor & Outdoor Rugs](https://www.stylemyhome.com.au/collections/indoor-outdoor-rugs): Shop Hamptons-inspired indoor & outdoor rugs in a range of styles & sizes. Durable, easy to clean & perfect for busy families. Flat $69 delivery Australia-wide.
-  Updated: 2026-10-12T11:01:22Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 25
 - [SMH Furniture](https://www.stylemyhome.com.au/collections/smh-furniture): SMH Furniture. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 350
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 338
 - [Plantation Hamptons](https://www.stylemyhome.com.au/collections/plantation-hamptons): Discover the Plantation Hamptons collection at Style My Home. Shop elegant, coastal-inspired furniture and decor to create a stylish and serene Hamptons look in your home
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 48
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 49
 - [Hamptons Bed Frames](https://www.stylemyhome.com.au/collections/bed-frame): Transform your bedroom into a sanctuary with a Hamptons style bed frame. Discover our 100% linen slipcover bedframes in a range of coastal inspired colours.
-  Updated: 2026-10-17T02:20:54Z
-  Total Products: 12
+  Updated: 2026-10-29T04:07:11Z
+  Total Products: 11
 - [Hamptons Pendant Lights](https://www.stylemyhome.com.au/collections/pendant-lights): Discover our collection of Hamptons pendant lights. Create a light and airy ambience with beautiful Hamptons style pendants. Shop now.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 21
+  Updated: 2026-10-28T11:00:28Z
+  Total Products: 18
 - [Hamptons Outdoor Lights](https://www.stylemyhome.com.au/collections/outdoor-lights): Add a new dimension to the exterior with coastal outdoor lights that beautifully meld with the Hmapsonts aestheic design. Shop our Hamptons outdoor wall lights now.
   Updated: 2026-06-03T17:12:25Z
   Total Products: 1
 - [Hamptons Table Lamps](https://www.stylemyhome.com.au/collections/table-lamps): Illuminate your space with Hamptons-style table lamps. Our selection of table lamps includes hand-painted ceramic, glass, marble or even timber coastal lamp designs. Browse our range today.
-  Updated: 2026-10-19T11:00:32Z
-  Total Products: 46
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 45
 - [Hamptons Floor Lamps](https://www.stylemyhome.com.au/collections/floor-lamps): Create the perfect ambience with a Hamptons-style floor lamp that matches your home's aesthetic. Get a coastal floor lamp for a touch of sophisticated luxury.
   Updated: 2026-10-17T11:01:07Z
   Total Products: 6
 - [Hamptons Bookends](https://www.stylemyhome.com.au/collections/bookends): Discover our collection of Hamptons-style bookends and add a touch of coastal elegance to your home decor. It also include our new book display mother of pearl unit. Explore an array of designs and order now at Style My Home.
-  Updated: 2026-10-18T11:00:40Z
+  Updated: 2026-10-23T02:50:23Z
   Total Products: 10
 - [Hamptons Bedheads](https://www.stylemyhome.com.au/collections/hamptons-bedheads): Shop our beautiful range of handcrafted Hamptons bedheads to give your bedroom the finishing touch for a luxury aesthetic. Our bedheads are only made from premium 100% linen and are heights for maximum impact. Order a coastal bedhead from our range for an added touch of effortless elegance.
-  Updated: 2026-10-20T11:00:25Z
-  Total Products: 16
+  Updated: 2026-10-26T11:00:43Z
+  Total Products: 15
 - [Hamptons Decor Sculptures](https://www.stylemyhome.com.au/collections/sculptures): From farmhouse statues to coastal statues, our collection includes meticulously crafted pieces that exude quaint charm and seaside elegance. Decorate now.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 73
 - [Indoor cushion](https://www.stylemyhome.com.au/collections/indoor-cushion)
-  Updated: 2026-10-21T21:00:14Z
-  Total Products: 44
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 42
 - [PRE ORDER ITEMS - Coming Soon](https://www.stylemyhome.com.au/collections/pre-order-items-coming-soon): Keep up to date with our newest products!You can pre-order any of these beautiful products and save and we will notify you as soon as it reaches our warehouse to be picked up or delivered. Please note that timeframes are current but delays may occur.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 126
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 124
 - [[Low stock products] Furniture Products](https://www.stylemyhome.com.au/collections/low-stock-products-all-products)
-  Updated: 2026-10-21T20:25:05Z
-  Total Products: 440
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 417
 - [Modern](https://www.stylemyhome.com.au/collections/modern): Shop the Modern collection at Style My Home. Explore sleek, contemporary furniture and decor pieces designed to bring a fresh, stylish touch to any space.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 205
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 212
 - [Hamptons Inspired Rugs](https://www.stylemyhome.com.au/collections/hamptons-inspired-rugs): Shop our affordable, durable and easy-to-clean Hamptons rugs Australia wide. Add a layer of style and warmth with Hamptons-style rugs in signature neutrals and shades of blue.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 298
+  Updated: 2026-10-29T13:34:38Z
+  Total Products: 305
 - [All SMH Products](https://www.stylemyhome.com.au/collections/all-smh-products): All SMH Products. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 2815
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 2696
 - [Hamptons Decor Photo Frames](https://www.stylemyhome.com.au/collections/photo-frames): Capture your memories in gorgeous Hamptons decor photo frames. Browse our unique range of silver and mother of pearl frames and take your pick. We'll deliver your Hamptons style photo frames Australia wide.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 32
+  Updated: 2026-10-28T11:00:28Z
+  Total Products: 28
 - [Artwork Framed](https://www.stylemyhome.com.au/collections/artwork-framed): Browse our curated collection of framed artwork at Style My Home. Find stunning pieces to elevate your walls with modern, classic, and timeless designs.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 170
+  Updated: 2026-10-25T03:46:53Z
+  Total Products: 162
 - [Rugs for Kids](https://www.stylemyhome.com.au/collections/hamptons-inspired-rugs-for-kids): Our beautiful Hamptons inspired rugs are available in a wide range of patterns, styles and sizes. Please note our rugs are ordered in and take approximately 1-2 weeks to arrive if in stock.They are not available for immediate collection from our stores.Call our team if you have any questions. 1300 016 131
   Updated: 2026-06-03T17:28:30Z
   Total Products: 2
 - [New Canvas Artwork Collection](https://www.stylemyhome.com.au/collections/new-canvas-artwork-collection): New Canvas Artwork Collection. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 175
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 172
 - [Cabinets](https://www.stylemyhome.com.au/collections/hamptons-cabinets): Cabinets. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 17
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 14
 - [Hamptons Lounge Sofas](https://www.stylemyhome.com.au/collections/living-room-lounge-sofas): Relax in style in one of our beautiful Hamptons lounges, made from 100% linen. Our high quality lounge range focuses on classic and comfortable designs that will never date.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 15
+  Updated: 2026-10-27T07:24:32Z
+  Total Products: 14
 - [Pots and Planters](https://www.stylemyhome.com.au/collections/pots-and-planters): Discover our Hamptons-inspired pots and planter boxes, crafted from lightweight, weatherproof materials like PVC, fibreclay, and fireclay. Perfect for coastal style gardens, alfresco areas, and welcoming entrances.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 16
 - [Temple and Ginger Jars](https://www.stylemyhome.com.au/collections/temple-and-ginger-jars)
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 60
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 58
 - [Hamptons Jute Rugs](https://www.stylemyhome.com.au/collections/jute-rugs): Our Hamptons jute rug collection is the perfect blend of natural fibres and timeless style. Hard-wearing and easy-to-clean - a great option for busy households.
-  Updated: 2026-10-14T05:17:40Z
-  Total Products: 35
+  Updated: 2026-10-29T13:34:38Z
+  Total Products: 34
 - [](https://www.stylemyhome.com.au/collections/salesalesale): We are overstocked on some items or need to clear the last ones of other products to make room in our warehouse! 
 No subsidised interstate shipping to QLD. Contact o
-  Updated: 2026-10-22T05:45:27Z
-  Total Products: 51
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 49
 - [ - EX FLOOR STOCK (BRISBANE STORE)](https://www.stylemyhome.com.au/collections/imperfect-floor-stock-brisbane): These items are available for pick up in Brisbane only.Delivery in Brisbane can be arranged for a fee.
-  Updated: 2026-10-21T22:52:48Z
-  Total Products: 56
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 57
 - [Back In Stock](https://www.stylemyhome.com.au/collections/back-in-stock-1)
-  Updated: 2026-10-17T11:01:07Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 9
 - [50% OFF](https://www.stylemyhome.com.au/collections/50-off): PLEASE NOTE THAT MANY OF THESE  PRODUCTS ARE ONLY AVAILABLE TO VIEW ONLINE AT THESE  PRICES. STOCK IS EXTREMELY LIMITED AND HEAVILY DISCOUNTED. NO RETURNS. Transfer fees to Queensland are not subsidised. Please contact our Brisbane team on (07) 3666 0324 for a freight estimate from our Sydney warehouse to our Brisbane or Noosa store.Click here to view our  Terms and Conditions.
   Updated: 2026-10-11T20:11:47Z
   Total Products: 3
 - [Plantation Range](https://www.stylemyhome.com.au/collections/plantation): Discover our exquisite range of high quality Hamptons furniture featuring the charming louvre door! This range features bedside tables, sideboards, entertainment units and buffet tables.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 7
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 6
 - [Hamptons Round Dining Tables](https://www.stylemyhome.com.au/collections/round-dining-tables): We love a round Hamptons dining table for smaller spaces, square shaped rooms, or even entrance ways. They exude effortless, coastal elegance and a perfect choices to enjoy conversation and meals. Shop our wide round dining tables made in resilient finishes.
-  Updated: 2026-10-20T11:00:25Z
-  Total Products: 5
+  Updated: 2026-10-25T02:40:45Z
+  Total Products: 4
 - [Hamptons Rectangle Dining Tables](https://www.stylemyhome.com.au/collections/rectangle-dining-tables): Explore our exquisite range of Hamptons rectangular dining tables. Crafted from solid American Oak, our tables prioritize lifestyle, elegance, and durability.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 7
+  Updated: 2026-10-26T11:00:43Z
+  Total Products: 6
 - [Hamptons Study Lamps](https://www.stylemyhome.com.au/collections/study-lamp): Create a serene and productive atmosphere in your home office with our stylish study lamps. Browse an array of Hamptons table lamps and order your favourite one at Style My Home.
   Updated: 2026-06-24T00:25:27Z
   Total Products: 2
 - [Seascape Handpainted Canvas Collection](https://www.stylemyhome.com.au/collections/oceanscapeartcollection): Hamptons wall art collection showcasing blues and whites of the ocean and sea.  Wall art is perfect for Hamptons, Nautical and Coastal Homes in Australia.
-  Updated: 2026-10-22T05:51:04Z
-  Total Products: 92
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 91
 - [HAMPTONS RUGS](https://www.stylemyhome.com.au/collections/hamptons-rugs): Our beautiful Hamptons inspired rugs are available in a wide range of patterns, styles and sizes.They are affordable, durable, easy to clean which makes them a great option for busy families. Please note our rugs are ordered in and take approximately 1-2 weeks to arrive if in stock. They are not available for immediate collection from our stores.We have a beautiful selection of rugs on display in our showrooms however not all designs are available to view in our stores. Any rugs not in our stores are available to view online. Special Return Conditions when Ordering a RUG:Unfortunately we do not accept exchanges or returns for any of our rug range. Should the rug you have ordered not work in your space, we can offer a 85% refund and charge a 15% restocking fee. If you can drop off at our store, there will be no delivery charges. Should you need to send it back to our store, pick up will be $40 which will come from the balance of your order.Call our team if you have any questions. 1300 016 131
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 104
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 111
 - [All Rugs](https://www.stylemyhome.com.au/collections/rugs): Shop rugs online in Australia. Affordable, durable & easy-to-clean Hamptons-inspired rugs in a wide range of styles, patterns and sizes. Flat $69 delivery.
-  Updated: 2026-10-22T13:36:08Z
-  Total Products: 327
+  Updated: 2026-10-29T13:35:38Z
+  Total Products: 324
 - [Outdoor Cushions](https://www.stylemyhome.com.au/collections/outdoor-cushions): Shop outdoor cushions at Style My Home, soft coastal layers for sofa and bed. Free delivery across Australia & New Zealand. Browse the collection today.
-  Updated: 2026-10-22T07:08:31Z
-  Total Products: 1
+  Updated: 2026-10-25T03:23:16Z
+  Total Products: 0
 - [Design & Styling Services](https://www.stylemyhome.com.au/collections/design-styling-services): As mothers, business-women and wives we understand that our customers have to juggle multiple projects and simply don't have the time to stroll from store to store finding the perfect piece. Instead, Style My Home can help find those perfect furnishings that will make your HAMPTONS space a real home, not a showroom. We can help you as much or as little as you prefer, so we have a package that suits everyone's budget. We even offer remote e-styling help for our customers. Please get in touch to tell us a bit about your project, where you are located and what you ideally would love us to help with. One of our friendly stylists will get in touch to help curate a truely personalised scheme for you that meets your budget.Don't worry - we understand all about budget too! Australia (except QLD)Call 1300 016 131, press 1 and ask to speak with Selena or email your contact information to stylist@stylemyhome.com.au QueenslandCall 1300 016 131, press 2 and ask to speak with Samantha or email your contact information to stylingqld@stylemyhome.com.au
   Updated: 2025-07-07T20:34:36Z
   Total Products: 0
 - [South Beach Range](https://www.stylemyhome.com.au/collections/south-beach-collection): Our South Beach range is a customer favourite that has stood the test of time. The defining design element of this range is the signature cross detail on the sides—a subtle nod to the architectural details often seen in Hamptons-style homes and classic beach houses. With its clean and classic profile, this range is a safe choice for a wide range of homes. Customers love the practical storage it provides. Currently the range includes 2 consoles, a desk and a coffee table. Read more about our South Beach range here. https://www.stylemyhome.com.au/a/blog/south-beach-range-spotlight
-  Updated: 2026-10-17T11:01:07Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 6
 - [North Harbour Collection](https://www.stylemyhome.com.au/collections/north-harbour-collection): Explore the North Harbour Collection at Style My Home. Discover sophisticated, coastal-inspired furniture and decor that brings timeless elegance and serenity to your space
   Updated: 2025-07-18T12:37:18Z
   Total Products: 0
 - [Best Sellers & In Stock](https://www.stylemyhome.com.au/collections/best-sellers-in-stock): Shop our Best Sellers in Stock at Style My Home. Discover the most popular and in-demand furniture and decor, ready for quick delivery to elevate your space
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 58
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 55
 - [Hamptons Wool Rugs](https://www.stylemyhome.com.au/collections/wool-rugs): Shop wool rugs at Style My Home, natural texture underfoot to ground your space. Free delivery across Australia & New Zealand. Browse the collection today.
-  Updated: 2026-10-22T07:08:09Z
+  Updated: 2026-10-24T11:00:30Z
   Total Products: 24
 - [Hamptons Decor Trinket Boxes](https://www.stylemyhome.com.au/collections/trinket-boxes): Shop trinket boxes at Style My Home, a pretty home for jewellery and keepsakes. Free delivery across Australia & New Zealand. Browse the collection today.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 31
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 30
 - [Hamptons Styling Services](https://www.stylemyhome.com.au/collections/hamptons-styling-services): We offer a personalised in-house furniture selection and styling service. It is an easy stress-free experience with expert advice helping you create your dream Hamptons home from selecting furniture to rugs and everything in between.
   Updated: 2026-06-03T18:15:26Z
   Total Products: 5
 - [Hamptons Trays](https://www.stylemyhome.com.au/collections/trays): Our Hamptons-style tray designs are perfect for serving drinks in style or adding decor to your seaside-inspired home. Browse coastal trays and order now.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 55
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 54
 - [Top must have pieces for your Hamptons home!](https://www.stylemyhome.com.au/collections/best-sellers)
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 7
+  Updated: 2026-10-25T03:19:44Z
+  Total Products: 6
 - [instock](https://www.stylemyhome.com.au/collections/instock): instock. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 760
+  Updated: 2026-10-30T01:07:58Z
+  Total Products: 756
 - [Lamps - NEW](https://www.stylemyhome.com.au/collections/lamps-new): Lamps - NEW. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-19T11:00:32Z
-  Total Products: 43
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 42
 - [Full Outdoor Furniture](https://www.stylemyhome.com.au/collections/full-outdoor-furniture): Full Outdoor Furniture. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 25
+  Updated: 2026-10-25T03:10:01Z
+  Total Products: 24
 - [Country Style Outdoor Furniture](https://www.stylemyhome.com.au/collections/hamptons-outdoor-furniture): Delivering Hamptons outdoor furniture Australia wide. Extend your living space with Hamptons-style outdoor furniture that's elegant, comfortable and durable.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 46
+  Updated: 2026-10-25T03:10:01Z
+  Total Products: 45
 - [Hamptons Ceramic Ginger Jars](https://www.stylemyhome.com.au/collections/handmade-ceramic-ginger-jars): Hamptons ceramic ginger jars are some of our most coveted pieces of decor that help complete coastal-inspired interiors. Explore the carefully curated handmade collection now.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 65
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 63
 - [Bamboo Nickel Mirrored Furniture](https://www.stylemyhome.com.au/collections/bamboo-nickel-mirrored-furniture): Our Bamboo metal furniture is a stunning choice with the beautiful nickel moulding and mirrored top.
   Updated: 2026-10-17T21:33:55Z
   Total Products: 5
 - [Hamptons Ceramic Handmade](https://www.stylemyhome.com.au/collections/ceramic-handmade): Discover the beauty of handmade ceramics with our Hamptons ceramic collection. Available in different shapes, sizes and designs. Browse and order at Style My Home.
-  Updated: 2026-10-17T11:01:07Z
-  Total Products: 26
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 24
 - [Hamptons Ceramic Stools](https://www.stylemyhome.com.au/collections/handmade-ceramic-stools): Shop ceramic stools at Style My Home, relaxed coastal seating for your kitchen bench. Free delivery across Australia & New Zealand.
-  Updated: 2026-10-22T07:08:15Z
-  Total Products: 8
+  Updated: 2026-10-25T03:21:36Z
+  Total Products: 7
 - [New Arrivals](https://www.stylemyhome.com.au/collections/new-arrivals): Decorate your home with Hamptons new arrivals! Brand new furniture and homewares.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 180
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 192
 - [SMH Ginger Jars and Stools](https://www.stylemyhome.com.au/collections/sagharbor-handmade-ginger-jars): A premium range of handmade and handpainted Hamptons inspired ginger jars and stools. Discover the difference in quality.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 44
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 42
 - [Hand made and Hand Painted Ceramics](https://www.stylemyhome.com.au/collections/sagharbor-ceramics-1): Hand made and Hand Painted Ceramics. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T20:22:15Z
-  Total Products: 105
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 102
 - [Overstocked Items](https://www.stylemyhome.com.au/collections/overstocked-items): Shop Overstocked Items at Style My Home. Grab great deals on furniture and decor with exclusive discounts on excess stock. Limited quantities available—hurry before they’re gone!
   Updated: 2026-10-11T20:15:54Z
   Total Products: 11
@@ -2029,17 +2027,17 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-06-03T20:30:45Z
   Total Products: 5
 - [Brass Ornaments](https://www.stylemyhome.com.au/collections/brass-ornament)
-  Updated: 2026-10-18T11:00:40Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 9
 - [Hamptons Books](https://www.stylemyhome.com.au/collections/books): Complete your Hamptons-style home with our curated collection of coffee table books. Explore coastal-inspired books and order now.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 40
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 37
 - [New Manhattan Rug Collection](https://www.stylemyhome.com.au/collections/new-manhattan-rug-collection): Shop the New Manhattan Rug Collection at Style My Home. Discover luxurious, contemporary rugs designed to add warmth and style to any room with unique patterns and high-quality materials.
-  Updated: 2026-10-16T11:00:39Z
+  Updated: 2026-10-28T11:00:28Z
   Total Products: 29
 - [Buy a bedside table and get a table lamp half price](https://www.stylemyhome.com.au/collections/buy-a-selected-bedside-table-and-get-a-lamp-half-price): Shop our exclusive offer: Buy a selected bedside table and get a lamp at half price! Upgrade your bedroom with stylish furniture and lighting at unbeatable prices.
-  Updated: 2026-10-11T20:11:01Z
-  Total Products: 5
+  Updated: 2026-10-25T03:51:06Z
+  Total Products: 4
 - [Hamptons Spend and Save](https://www.stylemyhome.com.au/collections/hamptons-spend-and-save): Enjoy exclusive savings with our Hamptons Spend and Save offer. Shop luxurious Hamptons-inspired furniture and decor, and save more when you spend on select items
   Updated: 2025-07-18T12:43:11Z
   Total Products: 0
@@ -2047,58 +2045,58 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-17T21:33:55Z
   Total Products: 2
 - [Lockdown rug](https://www.stylemyhome.com.au/collections/lockdown-rug): Please read full LOCK DOWN  Terms and Conditions prior to ordering.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 463
+  Updated: 2026-10-29T13:34:38Z
+  Total Products: 470
 - [Outdoor ](https://www.stylemyhome.com.au/collections/outdoor-): Shop the Outdoor  at Style My Home. Find great deals on outdoor furniture, cushions, and decor to transform your patio or garden into a stylish retreat.
-  Updated: 2026-06-03T21:08:06Z
-  Total Products: 1
+  Updated: 2026-10-25T03:10:01Z
+  Total Products: 0
 - [Hamptons Rug Super Special](https://www.stylemyhome.com.au/collections/rug-super-special): Rug up with a further 15% OFF selected beautiful rug designs below.Rugs take approx. 2 weeks to arrive.  automatically applies at checkout. Ends Monday 3rd May 2021, 11:59pm.
-  Updated: 2026-10-17T22:38:06Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 24
 - [Hamptons Outdoor PVC Planter Boxes](https://www.stylemyhome.com.au/collections/pvc-planter-boxes): Elevate your outdoor living experience with our versatile Hamptons outdoor planter box. Whether you want to enhance your alfresco area, welcome guests at the front door, or add charm to your front garden or deck, this planter box is the perfect addition.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 4
 - [Hamptons Decor Vases](https://www.stylemyhome.com.au/collections/vases): A Hamptons style vase will look beautiful on any shelf, kitchen, bookcase or side table in your Hamptons-inspired home. Shop the collection now.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 14
 - [Wall Art and Mirrors](https://www.stylemyhome.com.au/collections/wall-art-and-mirrors): Wall Art and Mirrors. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T20:28:27Z
-  Total Products: 60
+  Updated: 2026-10-25T03:54:01Z
+  Total Products: 56
 - [Hamptons Rayon Rugs](https://www.stylemyhome.com.au/collections/rayon-rugs): Our Hamptons rayon rug collection is crafted with the finest materials for a truly opulent feel. Order now and bring a sense of timeless style to your home.
-  Updated: 2026-10-19T13:34:59Z
+  Updated: 2026-10-24T06:05:01Z
   Total Products: 15
 - [New Decor](https://www.stylemyhome.com.au/collections/new-decor): New Decor. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 38
 - [Hamptons Small Artwork](https://www.stylemyhome.com.au/collections/hamptons-decorative-canvas): Transform a smaller wall or shelf in your home with our stunning Hamptons small artwork collection. These pieces are not only affordable but also incredibly easy to hang, making redecorating a breeze.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 29
+  Updated: 2026-10-25T03:02:14Z
+  Total Products: 28
 - [EOFY 15% OFF - IN STOCK DECOR](https://www.stylemyhome.com.au/collections/eofy-15-off-decor): 15% OFF IN STOCK DECOR • 15% OFF IN STOCK RUGS • 20% OFF SELECTED LAMPS 30% OFF SELECTED MIRRORS & ART CANVASES • 50% OFF SELECTED MIRRORS & ART CANVASES 15% OFF SELECTED FURNITURE • 20% OFF SELECTED FURNITURE • 30% OFF SELECTED FURNITURE 40% OFF SELECTED FURNITURE • 50% OFF SELECTED FURNITURE
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 283
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 268
 - [EOFY - 50% OFF SELECTED MIRRORS AND ART CANVASES](https://www.stylemyhome.com.au/collections/eofy-50-off-in-stock-mirrors-and-art-canvases): 15% OFF IN STOCK DECOR • 15% OFF IN STOCK RUGS • 20% OFF SELECTED LAMPS 30% OFF SELECTED MIRRORS & ART CANVASES • 50% OFF SELECTED MIRRORS & ART CANVASES 15% OFF SELECTED FURNITURE • 20% OFF SELECTED FURNITURE • 30% OFF SELECTED FURNITURE 40% OFF SELECTED FURNITURE • 50% OFF SELECTED FURNITURE
   Updated: 2026-10-17T11:01:07Z
   Total Products: 8
 - [EOFY - 30% OFF SELECTED MIRRORS AND ART CANVASES](https://www.stylemyhome.com.au/collections/eofy-30-off-mirrors-and-art-canvases): 15% OFF IN STOCK DECOR • 15% OFF IN STOCK RUGS • 20% OFF SELECTED LAMPS 30% OFF SELECTED MIRRORS & ART CANVASES • 50% OFF SELECTED MIRRORS & ART CANVASES 15% OFF SELECTED FURNITURE • 20% OFF SELECTED FURNITURE • 30% OFF SELECTED FURNITURE 40% OFF SELECTED FURNITURE • 50% OFF SELECTED FURNITURE
-  Updated: 2026-10-22T05:52:06Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 23
 - [Last Chance Canvases](https://www.stylemyhome.com.au/collections/last-chance-canvases): Last of the bunch, buy now or never at an amazing ! Several canvases drastically reduced. Others are best sellers but we are making space on our warehouse racks for new stock! Discounts vary by item.
-  Updated: 2026-10-11T20:12:01Z
-  Total Products: 16
+  Updated: 2026-10-25T03:16:06Z
+  Total Products: 14
 - [Hamptons Farmhouse Cushions](https://www.stylemyhome.com.au/collections/farmhouse-cushion): Discover the perfect blend of rustic charm and comfort with our Hamptons farmhouse cushion collection. Order now and enhance your living space with timeless beauty.
   Updated: 2026-04-30T09:24:30Z
   Total Products: 0
 - [Ottomans and Bench Seats](https://www.stylemyhome.com.au/collections/ottomans-and-bench-seats): Shop stylish ottomans and bench seats at Style My Home. Discover functional and chic seating solutions that add comfort and elegance to any room.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-27T13:11:13Z
   Total Products: 24
 - [Carver Dining Chairs](https://www.stylemyhome.com.au/collections/carver-dining-chairs): Elevate your dining experience with our Hamptons Carver Dining chair. These dining chairs with arms offer the ultimate in comfort and style. Best known for their placement at the ends of rectangular dining tables or encircling a large round table, they bring an air of sophistication to your dining space.
   Updated: 2026-06-03T21:48:19Z
   Total Products: 1
 - [Armchairs](https://www.stylemyhome.com.au/collections/armchairs)
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 13
 - [Outdoor Armchairs](https://www.stylemyhome.com.au/collections/outdoor-occasional-chairs): Shop outdoor armchairs perfect for patios, gardens and poolside spaces. Discover durable, stylish designs for relaxed outdoor living. Australia-wide delivery.
-  Updated: 2026-10-17T11:01:07Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 4
 - [Hamptons Outdoor Side Tables](https://www.stylemyhome.com.au/collections/outdoor-side-tables): Discover our exquisite Hamptons outdoor side table collection. Add elegance to your outdoor space with our high-quality and stylish options. Order now at Style My Home.
   Updated: 2026-10-17T11:01:07Z
@@ -2116,25 +2114,25 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-21T20:28:27Z
   Total Products: 1
 - [Hamptons Small Bedside Tables](https://www.stylemyhome.com.au/collections/hamptons-small-bedside-tables): Shop small bedside tables at Style My Home, the perfect bedside companion for compact rooms. Free delivery across Australia & New Zealand.
-  Updated: 2026-10-22T07:09:37Z
-  Total Products: 9
+  Updated: 2026-10-28T04:09:46Z
+  Total Products: 10
 - [Hamptons Medium Bedside Tables](https://www.stylemyhome.com.au/collections/hamptons-medium-bedside-tables): Discover our carefully handpicked Coastal and Hamptons medium bedside tables that offer functional storage and elegance to perfectly complement your home. Shop now.
-  Updated: 2026-10-19T11:00:32Z
-  Total Products: 20
+  Updated: 2026-10-26T11:00:43Z
+  Total Products: 19
 - [Hamptons Large Bedside Tables](https://www.stylemyhome.com.au/collections/hamptons-large-bedside-tables): Complete your coastal bedroom with a meticulously crafted Hamptons large bedside tables. Order a Hamptons wide bedside table, perfect for adding storage and style.
-  Updated: 2026-10-17T22:39:38Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 9
 - [15% OFF Selected Rug Designs](https://www.stylemyhome.com.au/collections/15-off-selected-rug-designs): Save 15% on selected rug designs at Style My Home. Shop beautiful, high-quality rugs that bring style and comfort to your space at an unbeatable price.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 57
 - [End of Bed Stoage](https://www.stylemyhome.com.au/collections/end-of-bed-stoage): Shop Hamptons blanket boxes, the perfect end of bed storage solutions that embodies functionality and style. High Quality furniture made to last.
   Updated: 2026-10-16T11:00:40Z
   Total Products: 5
 - [Hamptons Bedroom Bench Seats](https://www.stylemyhome.com.au/collections/bedroom-bench-seats): Hamptons bedroom bench seats to use at the end of your bed or just about anywhere in the house. These versatile pieces come in several shapes and sizes and can provide the finishing touch or cosy place to sit on or put your feet up. Update your decor with a comfortable linen upholstered bench today.
-  Updated: 2026-10-16T11:00:39Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 10
 - [Hamptons Upholstered Bedheads](https://www.stylemyhome.com.au/collections/hamptons-upholstered-bedheads): Shop our beautiful range of handcrafted Hamptons bedheads to give your bedroom the finishing touch for a luxury aesthetic. Our bedheads are only made from premium 100% linen and are heights for maximum impact. Order a coastal bedhead from our range for an added touch of effortless elegance.
-  Updated: 2026-10-20T11:00:25Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 17
 - [Hamptons Wardrobes](https://www.stylemyhome.com.au/collections/hamptons-wardrobes): Our Hamptons wardrobes are a stunning, coastal-inspired storage solution, perfect for those who find beauty in simplicity. Discover our latest wardrobes online.
   Updated: 2026-10-13T05:31:49Z
@@ -2149,16 +2147,16 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-22T07:09:41Z
   Total Products: 2
 - [Hamptons Round Side Tables](https://www.stylemyhome.com.au/collections/round-side-tables): Add Hamptons charm to your living room with our collection of high quality round side tables. Find the perfect design at Style My Home and order today.
-  Updated: 2026-10-18T11:00:40Z
+  Updated: 2026-10-28T11:00:28Z
   Total Products: 16
 - [Hamptons Square Side Tables](https://www.stylemyhome.com.au/collections/square-side-tables): Shop square side tables at Style My Home, the perfect finishing touch beside sofa or bed. Free delivery across Australia & New Zealand.
   Updated: 2026-10-22T11:01:01Z
   Total Products: 4
 - [Hamptons Console Tables](https://www.stylemyhome.com.au/collections/hamptons-console-tables)
-  Updated: 2026-10-21T20:43:03Z
-  Total Products: 36
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 35
 - [Hamptons Buffets](https://www.stylemyhome.com.au/collections/buffets): We have a wide range of classic Hamptons style buffets to suit your storage needs. Elevate your space with a beautiful Hamptons buffet. Shop now.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 15
 - [Hamptons Sideboards](https://www.stylemyhome.com.au/collections/sideboards): A Hamptons style sideboard is a beautiful and practical storage solution that effortlessly complements coastal-inspired interiors. Order a Hamptons sideboard online.
   Updated: 2026-04-30T09:24:31Z
@@ -2167,88 +2165,88 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-17T11:01:07Z
   Total Products: 5
 - [Hamptons Three Seater Lounge Sofas](https://www.stylemyhome.com.au/collections/three-seater-lounge-sofas): Make your living room even more inviting with a relaxed yet elegant Hamptons style 3 seater sofa. Shop linen three seater sofas inspired by coastal living.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-27T07:24:32Z
   Total Products: 7
 - [Hamptons Small Entertainment Units](https://www.stylemyhome.com.au/collections/small-entertainment-units): Introduce sophistication to your Hamptons living room with our Hamptons small TV units. Browse an array of coastal TV units and refrsh your space. Shop now.
   Updated: 2024-11-18T00:25:47Z
   Total Products: 0
 - [Hamptons Full Wall Entertainment Units](https://www.stylemyhome.com.au/collections/full-wall-entertainment-units): Achieve the look of built-in cabinetry for a fraction of the cost with our Hamptons full wall entertainment unit. Browse an array of designs and order now at Style My Home.
-  Updated: 2026-10-12T03:45:59Z
+  Updated: 2026-10-25T05:23:52Z
   Total Products: 3
 - [Hamptons Large Entertainment Units](https://www.stylemyhome.com.au/collections/large-entertainment-units): Shop large entertainment units at Style My Home, a considered home for your media and storage. Free delivery across Australia & New Zealand.
-  Updated: 2026-10-22T07:09:03Z
-  Total Products: 5
+  Updated: 2026-10-26T06:26:26Z
+  Total Products: 4
 - [Hamptons Bookcases](https://www.stylemyhome.com.au/collections/bookcases): Create a Hamptons style library to showcase your favourite reads. Discover beautiful coastal style bookcases that seamlessly blend aesthetics with functionality.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 15
+  Updated: 2026-10-29T22:24:37Z
+  Total Products: 11
 - [Hamptons Glass Display Cabinets](https://www.stylemyhome.com.au/collections/glass-display-cabinets): Discover the timeless elegance of our Hamptons coastal glass display cabinets. Available in multiple designs and sizes. Shop today.
-  Updated: 2026-10-17T22:12:39Z
-  Total Products: 16
+  Updated: 2026-10-25T05:02:43Z
+  Total Products: 14
 - [Hamptons Ottomans](https://www.stylemyhome.com.au/collections/hamptons-ottomans-and-foot-rests): Our Hamptons ottomans comes in all shapes and sizes and are a functional piece for many areas in your home including your lounge room, bedroom, dressing table or walk in wardrobe. Shop linen coastal-inspired ottomans in a range of styles.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-27T13:11:13Z
   Total Products: 15
 - [Hamptons Backless Kitchen Stools](https://www.stylemyhome.com.au/collections/backless-kitchen-stools): Kitchens are the heart of the home, our collection of Hamptons Kitchen Backless Stools are comfortable and stylish. Browse our range today!
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 3
 - [Hamptons Kitchen Stools With Backs](https://www.stylemyhome.com.au/collections/kitchen-stools-with-backs): Our collection of Hamptons kitchen stools with backs are comfortable, stylish and the perfect addition when socialising indoors. Discover the range today
   Updated: 2026-10-17T11:01:07Z
   Total Products: 5
 - [Hamptons Dining Chairs With Fabric Seats](https://www.stylemyhome.com.au/collections/dining-chairs-with-fabric-seat): Combine style and comfort seamlessly with our Hamptons dining chairs with our 100% linen seats. Explore our range of soothing colours and designs today.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 10
 - [Hamptons Dining Chairs With Rattan Seats](https://www.stylemyhome.com.au/collections/dining-chairs-with-rattan-seat): Elevate your dining space with family-friendly Hamptons chairs. Durable rattan seats are easy to clean, with white or oak frames for timeless style.
   Updated: 2026-09-29T11:00:41Z
   Total Products: 2
 - [Silver or Gold Tray](https://www.stylemyhome.com.au/collections/silver-or-gold-tray)
-  Updated: 2026-10-20T11:00:25Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 2
 - [Affordable Hamptons Flatpack Furniture](https://www.stylemyhome.com.au/collections/affordable-hamptons-flatpack-furniture): Get the Hamptons look for less! By popular request, we have designed a stunning yet affordable Hamptons range.
-  Updated: 2026-10-20T11:00:25Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 2
 - [Spring Decor Collection](https://www.stylemyhome.com.au/collections/spring-decor-collection): Spring Decor Collection. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 185
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 182
 - [Warehouse-60% off](https://www.stylemyhome.com.au/collections/warehouse-60-off): Shop the Warehouse  at Style My Home and save up to 60% on selected furniture and decor. Don't miss out on incredible deals to transform your space!
   Updated: 2026-04-30T09:24:32Z
   Total Products: 0
 - [Gift Ideas Under $100](https://www.stylemyhome.com.au/collections/gift-ideas-under-100): Gift Ideas Under $100. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 160
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 156
 - [Gift ideas Under $200 - not in use](https://www.stylemyhome.com.au/collections/gift-ideas-under-200): Gift ideas Under $200. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 37
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 35
 - [Christmas Shopping](https://www.stylemyhome.com.au/collections/christmas-shopping): Christmas Shopping. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 303
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 296
 - [Hamptons vases or vessels](https://www.stylemyhome.com.au/collections/vessels): Vessels. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 14
 - [Black Friday Furniture ](https://www.stylemyhome.com.au/collections/black-friday-furniture)
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 104
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 105
 - [15% OFF Selected Cushions](https://www.stylemyhome.com.au/collections/15-off-selected-cushions): Enjoy 15% off selected cushions at Style My Home. Shop stylish and comfortable cushions to add color, texture, and personality to your home decor.
-  Updated: 2026-10-21T21:00:14Z
-  Total Products: 33
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 32
 - [Gift Ideas Under $200](https://www.stylemyhome.com.au/collections/christmas-gifts-under-200): Gift Ideas Under $200. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 61
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 60
 - [Back to School 2022](https://www.stylemyhome.com.au/collections/back-to-school-2022)
-  Updated: 2026-10-21T20:43:03Z
+  Updated: 2026-10-26T09:23:22Z
   Total Products: 12
 - [Handcrafted Marble Collection](https://www.stylemyhome.com.au/collections/handcrafted-marble-collection): Elevate your space with our handcrafted solid white marble decor collection, featuring bowls, bookends, sculptures, and vessels in stunning designs. Meticulously crafted in India, each piece is unique, showcasing the timeless elegance of marble. Embrace the natural variations that occur, adding to the individuality of your marble decor. Dive deeper into the beauty of marble with insights from our blog: https://www.stylemyhome.com.au/a/blog/the-beauty-of-marble
-  Updated: 2026-10-17T21:12:50Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 18
 - [Handcrafted Bone Inlay Collection](https://www.stylemyhome.com.au/collections/handcrafted-bone-inlay-collection): Shop the Handcrafted Bone Inlay Collection at Style My Home. Discover exquisite, artisanal pieces that bring elegance and timeless beauty to your home decor
-  Updated: 2026-10-12T11:01:22Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 21
 - [Adirondack Outdoor Furniture](https://www.stylemyhome.com.au/collections/adirondack-outdoor): Shop Adirondack chairs and outdoor timber lounge chairs with wide arms and relaxed comfort. Perfect for decks, patios and poolside spaces Australia-wide.
   Updated: 2026-10-16T11:00:39Z
   Total Products: 9
 - [New Canvas Range](https://www.stylemyhome.com.au/collections/new-canvas-range): Our new canvases have landed! This features some of our best sellers and lots of beautiful new designs...
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 92
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 93
 - [Bedheads and Benches](https://www.stylemyhome.com.au/collections/bedheads-and-benches): Explore our collection of bedheads and benches at Style My Home. Find stylish, functional pieces to elevate your bedroom and add comfort to your space.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T04:07:11Z
   Total Products: 25
 - [Hamptons Anti Slip Rug Underlays](https://www.stylemyhome.com.au/collections/rug-underlays): Prevent slips and falls with Hamptons rug underlays designed to keep your rugs in place and provide additional protection to your floors. Order now at Style My Home.
   Updated: 2026-10-07T11:00:44Z
@@ -2260,133 +2258,133 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-11T20:12:01Z
   Total Products: 4
 - [Doona set](https://www.stylemyhome.com.au/collections/doona-set): Our Threads by Style my home doona sets are made from linen cotton and are on their way.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-25T11:00:49Z
   Total Products: 6
 - [Hamptons Linen & Cotton Throws](https://www.stylemyhome.com.au/collections/hamptons-linen-cotton-throws): No coastal-inspired lounge room or bedroom is complete without a Hamptons throw. Snuggle up with a lightweight and soft Hamptons throw blanket. Shop now.
   Updated: 2026-10-17T11:01:07Z
   Total Products: 4
 - [Hamptons Threads Cushions](https://www.stylemyhome.com.au/collections/threads-cushion): Transform your bed or sofa with a Hamptons Threads cushion display. Explore our exclusive collection featuring an array of colours, patterns, and sizes. Shop now.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 36
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 35
 - [Napkin](https://www.stylemyhome.com.au/collections/throws-1)
   Updated: 2024-11-12T11:32:17Z
   Total Products: 0
 - [Hamptons Linen Bedding](https://www.stylemyhome.com.au/collections/hamptons-bedding): Our range of Hamptons bedding are made from the perfect blend of cotton and linen, making for the ultimate sleeping experience year round. Explore our coastal bedding sets online and select your favourite.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-25T11:00:49Z
   Total Products: 16
 - [Canvases Coming Soon](https://www.stylemyhome.com.au/collections/canvases-coming-soon): Our latest range of canvases are on their way! ETA is approx end of June.
-  Updated: 2026-10-22T05:52:06Z
+  Updated: 2026-10-29T06:26:14Z
   Total Products: 56
 - [EOFY  - Office](https://www.stylemyhome.com.au/collections/office-eofy-)
-  Updated: 2026-10-11T20:11:47Z
+  Updated: 2026-10-26T09:23:22Z
   Total Products: 4
 - [30% off or more furniture](https://www.stylemyhome.com.au/collections/heavily-discounted)
-  Updated: 2026-10-20T11:00:25Z
-  Total Products: 10
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 9
 - [Mother's day Edit](https://www.stylemyhome.com.au/collections/mothers-day-edit): Mother's day Edit. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 24
 - [Mother's Day Edit](https://www.stylemyhome.com.au/collections/mothers-day-edit-2022): Mother's Day Edit. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 187
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 175
 - [Hamptons Velvet Cushions](https://www.stylemyhome.com.au/collections/velvet-cushion): Discover the epitome of comfort with our exquisite Hamptons velvet cushion collection. Available in an array of colours and sizes. Order now and elevate your decor.
-  Updated: 2026-10-19T11:00:32Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 12
 - [Hamptons Abstract Canvases](https://www.stylemyhome.com.au/collections/abstract-canvases): Shop abstract canvas wall art in timeless Hamptons style. Discover coastal tones, textured finishes and modern designs to elevate your home. Australia-wide delivery.
-  Updated: 2026-10-22T05:51:04Z
+  Updated: 2026-10-30T01:17:48Z
   Total Products: 47
 - [Hamptons Nautical Canvases](https://www.stylemyhome.com.au/collections/nautical-canvases): Looking to elevate your decor? Our Hamptons nautical canvases add a calming and refined touch to any room.  Order now and transform your space with coastal elegance.
-  Updated: 2026-10-22T05:52:06Z
+  Updated: 2026-10-29T06:26:14Z
   Total Products: 18
 - [Countryside Canvases](https://www.stylemyhome.com.au/collections/countryside-canvases): Add a rustic touch to your walls with our  Hamptons countryside canvases. Create a cosy and inviting atmosphere, inspired by the tranquillity of rural life. Order now.
-  Updated: 2026-10-22T05:51:04Z
+  Updated: 2026-10-29T06:28:03Z
   Total Products: 20
 - [Hamptons Seascape Decorative Canvases](https://www.stylemyhome.com.au/collections/seascape-canvases): Infuse your space with coastal vibes and enjoy a touch of beachfront bliss with our Hamptons seascape canvases. Explore the collection now and take your pick.
-  Updated: 2026-10-22T05:51:04Z
-  Total Products: 44
+  Updated: 2026-10-29T06:26:54Z
+  Total Products: 43
 - [Hamptons Floral Canvases](https://www.stylemyhome.com.au/collections/floral-canvases): Shop floral canvas wall art in timeless Hamptons style. Discover hydrangeas, soft pastels and bold blooms to elevate your home. Australia-wide delivery.
-  Updated: 2026-10-22T05:50:29Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 28
 - [Sheet Set Collections](https://www.stylemyhome.com.au/collections/sheet-set-1): Sheet Set Collections. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
   Updated: 2026-10-11T20:12:01Z
   Total Products: 4
 - [Hamptons Linen & Cotton Quilt Cover Sets](https://www.stylemyhome.com.au/collections/linen-cotton-quilt-cover-sets): Our range of Hamptons quilt covers are made from the perfect blend of cotton and linen, making for the ultimate sleeping experience year round.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-25T11:00:49Z
   Total Products: 6
 - [Hamptons Small Console Tables](https://www.stylemyhome.com.au/collections/small-consoles): Shop small console tables perfect for narrow hallways and entryways. Discover stylish, space-saving designs with elegant finishes. Australia-wide delivery.
-  Updated: 2026-10-16T11:00:39Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 5
 - [Our Favourite Pet Friendly Rugs](https://www.stylemyhome.com.au/collections/our-favourite-pet-friendly-rugs): Browse our favourite pet-friendly rugs at Style My Home. Discover durable, stylish rugs that are both comfortable and practical for homes with pets
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 56
 - [Seascape Decorative Canvas](https://www.stylemyhome.com.au/collections/seascape-decorative-canvas): Seascape Decorative Canvas. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
   Updated: 2026-10-22T11:01:01Z
   Total Products: 17
 - [Countryside decorative canvases](https://www.stylemyhome.com.au/collections/countryside-decorative-canvases): Countryside decorative canvases. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 11
+  Updated: 2026-10-27T11:00:37Z
+  Total Products: 10
 - [Floral decorative canvase](https://www.stylemyhome.com.au/collections/floral-decorative-canvase): Floral decorative canvase. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 13
 - [Nautical decorative canvases](https://www.stylemyhome.com.au/collections/nautical-decorative-canvases): Nautical decorative canvases. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
   Updated: 2026-10-20T11:00:25Z
   Total Products: 9
 - [Decor and tray ](https://www.stylemyhome.com.au/collections/decor-and-tray-): Decor . Selected lines only. We are making space before we move warehouse. Discounts vary by item.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 28
 - [50% off decor](https://www.stylemyhome.com.au/collections/50-off-decor): Save 50% on select decor items at Style My Home. Shop stylish furniture, accessories, and decor at incredible prices while stocks last!
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 40
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 39
 - [EOFY Bedside](https://www.stylemyhome.com.au/collections/eofy-bedside): 15% off in stock bedsides
-  Updated: 2026-10-21T20:35:43Z
-  Total Products: 20
+  Updated: 2026-10-28T04:09:46Z
+  Total Products: 21
 - [EOFY Bedheads](https://www.stylemyhome.com.au/collections/eofy-bedheads): 15% off in stock bedheads
-  Updated: 2026-10-17T11:01:07Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 9
 - [EOFY End of Bed & Bench Seats](https://www.stylemyhome.com.au/collections/eofy-end-of-bed-bench-seats): 15% off in stock ottomans
-  Updated: 2026-10-16T11:00:40Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 4
 - [EOFY Occasional Chairs](https://www.stylemyhome.com.au/collections/eofy-occasional-chairs)
   Updated: 2026-10-11T20:14:18Z
   Total Products: 1
 - [EOFY Dining Tables](https://www.stylemyhome.com.au/collections/eofy-dining-tables): 15% off in stock dining tables
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 14
 - [EOFY Dining Chairs & Kitchen Stools](https://www.stylemyhome.com.au/collections/eofy-dining-chairs): 15% off in stock dining chairs
   Updated: 2026-10-22T11:01:01Z
   Total Products: 7
 - [EOFY Furniture 30% OFF Items](https://www.stylemyhome.com.au/collections/eofy-furniture-30-off-items)
-  Updated: 2026-10-20T11:00:25Z
-  Total Products: 10
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 9
 - [EOFY Linen](https://www.stylemyhome.com.au/collections/eofy-linen): EOFY Linen. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T11:00:31Z
-  Total Products: 36
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 35
 - [EOFY Lamp 30%](https://www.stylemyhome.com.au/collections/eofy-lamps): EOFY Lamps. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-16T11:00:39Z
-  Total Products: 24
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 23
 - [End of line decor](https://www.stylemyhome.com.au/collections/end-of-line-decor): End of Line Decor: Discover unique pieces in our End of Line Decor collection. Limited stock at discounted prices.​Style My Home
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 26
 - [End of Line Trays](https://www.stylemyhome.com.au/collections/end-of-line-trays): Explore our End of Line Trays collection at Style My Home. Shop discounted, high-quality trays to elevate your home’s functionality and style.
-  Updated: 2026-10-13T02:16:08Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 1
 - [EOFY 15% OFF Furniture](https://www.stylemyhome.com.au/collections/eofy-15-off-furniture): EOFY 15% OFF Furniture. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 77
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 78
 - [EOFY Ginger Jars](https://www.stylemyhome.com.au/collections/eofy-gnger-jars)
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 26
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 24
 - [EOFY Rattan](https://www.stylemyhome.com.au/collections/eofy-tray): EOFY Rattan. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 56
 - [EOFY Decor](https://www.stylemyhome.com.au/collections/eofy-decor): EOFY Decor. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 155
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 154
 - [EOFY Buffet](https://www.stylemyhome.com.au/collections/eofy-buffet)
   Updated: 2026-10-21T20:41:53Z
   Total Products: 7
 - [EOFY Consoles](https://www.stylemyhome.com.au/collections/eofy-consoles)
-  Updated: 2026-10-11T20:13:26Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 9
 - [EOFY Decorative](https://www.stylemyhome.com.au/collections/eofy-decorative): EOFY Decorative. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
   Updated: 2026-10-22T11:01:01Z
@@ -2395,31 +2393,31 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-11T20:13:25Z
   Total Products: 3
 - [Lamp 30% off](https://www.stylemyhome.com.au/collections/lamp-30-off): Lamp 30% off. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-16T11:00:39Z
-  Total Products: 24
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 23
 - [EOFY Ottomans](https://www.stylemyhome.com.au/collections/eofy-ottomans)
   Updated: 2026-10-16T11:00:39Z
   Total Products: 8
 - [EOFY Lamp](https://www.stylemyhome.com.au/collections/eofy-lamp): EOFY Lamp. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-16T11:00:39Z
-  Total Products: 32
+  Updated: 2026-10-27T11:00:37Z
+  Total Products: 31
 - [EOFY Outdoor](https://www.stylemyhome.com.au/collections/eofy-outdoor)
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 9
 - [15% off Cushions](https://www.stylemyhome.com.au/collections/15-off-cushions): Enjoy 15% off select cushions at Style My Home. Add comfort and color to your living space with our wide selection of stylish cushions
-  Updated: 2026-10-21T21:00:14Z
-  Total Products: 131
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 125
 - [EOFY canvas 30%](https://www.stylemyhome.com.au/collections/eofy-canvas-30): EOFY canvas 30%. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
   Updated: 2026-10-11T20:11:57Z
   Total Products: 13
 - [SMH ALL](https://www.stylemyhome.com.au/collections/smh-all): SMH ALL. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 2322
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 2222
 - [Hamptons Medium Console Tables](https://www.stylemyhome.com.au/collections/medium-consoles): Shop medium console tables in timeless Hamptons style. Ideal for hallways and entryways, offering the perfect balance of style and storage. Australia-wide delivery.
   Updated: 2026-10-21T20:43:03Z
   Total Products: 12
 - [Hamptons Large Console Tables](https://www.stylemyhome.com.au/collections/large-console): Blend coastal style and modern sophistication with our Hamptons large console tables. Explore our high quality range and shop today.
-  Updated: 2026-10-15T03:22:40Z
+  Updated: 2026-10-24T11:00:30Z
   Total Products: 9
 - [Hamptons Medium Entertainment Units](https://www.stylemyhome.com.au/collections/medium-entertainment-unit): Create a gorgeous focal point in your living space with our beautifully crafted coastal TV units. Explore stunning Hamptons-style entertainment units and order now.
   Updated: 2026-10-20T11:00:25Z
@@ -2431,53 +2429,53 @@ No subsidised interstate shipping to QLD. Contact o
   Updated: 2026-10-11T20:12:17Z
   Total Products: 5
 - [Our top spring must have items....](https://www.stylemyhome.com.au/collections/our-top-spring-must-have-items): Spring is here! Most of us love it when Spring finally arrives as we embrace the thought of the warmer entertaining season ahead.. For many of us it is also a time to rejuvenate our homes and do a Spring Clean. Here are some some of our top tips to embrace the Spring season in your home. Read our blog here. https://www.stylemyhome.com.au/a/blog/top-spring-must-haves
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-23T11:00:30Z
   Total Products: 34
 - [Hamptons Mother Of Pearl Trays](https://www.stylemyhome.com.au/collections/mother-of-pearl-trays): Add a touch style to your home with our gorgeous  handmade mother of pearl tray. Find the perfect design and colour for your home and order a mother of pearl tray now.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 16
 - [Hamptons Bone Trays](https://www.stylemyhome.com.au/collections/bone-tray): Adorn a table, mantel, or shelf with a beautifully handcrafted Hamptons bone tray from our collection. Explore now and take your pick. No two pieces are the same!
-  Updated: 2026-10-11T20:10:05Z
+  Updated: 2026-10-27T11:00:37Z
   Total Products: 8
 - [Hamptons Rattan Trays](https://www.stylemyhome.com.au/collections/rattan-tray): Serve refreshments in style or create a stunning centrepiece with our beautifully handcrafted rattan trays, available in a range of shapes, sizes, and colours. Shop now.
-  Updated: 2026-10-20T11:00:24Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 10
 - [Hamptons Marble Trays](https://www.stylemyhome.com.au/collections/marble-trays): Showcase your jewellery or enhance your coffee table or console with our Hamptons marble tray collection. Shop now and bring luxury and elegance to your interior.
   Updated: 2026-10-11T20:11:38Z
   Total Products: 3
 - [Hamptons Silver Trays](https://www.stylemyhome.com.au/collections/silver-tray): Elevate your coffee table, console or bookcase decor with an elegant Hamptons silver tray. Choose from an array of stunning designs online at Style My Home.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 7
 - [Rattan and Mother or Pearl Container](https://www.stylemyhome.com.au/collections/rattan-and-mother-or-pearl-container): We have a new container arriving October 2022.
-  Updated: 2026-10-20T11:00:24Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 20
 - [Spring Essentials](https://www.stylemyhome.com.au/collections/spring-essentials): Spring Essentials. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 216
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 215
 - [Hamptons Large Artworks](https://www.stylemyhome.com.au/collections/large-canvases): Discover our range of large hand painted Hamptons Artwork that is affordable and easy to hang. Choose from a variety of designs, shapes and sizes to suit your space.
-  Updated: 2026-10-22T05:52:06Z
-  Total Products: 64
+  Updated: 2026-10-30T01:17:48Z
+  Total Products: 65
 - [Regency Range](https://www.stylemyhome.com.au/collections/regency-collection): The Regency Range continues to be one of our most comprehensive collections, offering the coveted classic square moulding under the top profile. This is a classic and practical choice for every room, whether you're furnishing a bedroom, living space, or entryway, this range provides the perfect balance of beauty and function. Read more about what makes this range special in our blog https://www.stylemyhome.com.au/a/blog/regency-range-spotlight
   Updated: 2026-10-17T11:01:07Z
   Total Products: 15
 - [Elliot Range](https://www.stylemyhome.com.au/collections/elliot-collection): Decorate your home with quality Hamptons bedside tables. Our 'Elliot' bedside tables come in small, medium and large sizes and available in a range of finishes.
-  Updated: 2026-10-20T11:00:24Z
+  Updated: 2026-10-26T11:00:43Z
   Total Products: 6
 - [Dining chair with fabric seats](https://www.stylemyhome.com.au/collections/dining-chair-with-fabric-seats): Dining chair with fabric seats. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 10
 - [Gift Ideas under $50](https://www.stylemyhome.com.au/collections/gift-ideas-under-50): Gift Ideas under $50. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 70
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 68
 - [Gift Ideas under $150](https://www.stylemyhome.com.au/collections/gift-ideas-under-150): Ideas under $150. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-21T11:00:31Z
+  Updated: 2026-10-29T11:00:23Z
   Total Products: 45
 - [Black Friday Lighting & Homewares- 20% off](https://www.stylemyhome.com.au/collections/black-friday-decor): Black Friday Homewares. Need help styling your home? Our Hamptons stylists offer services which include home visits or virtual consultations.
-  Updated: 2026-10-22T11:01:01Z
-  Total Products: 180
+  Updated: 2026-10-29T11:00:23Z
+  Total Products: 179
 - [Black Friday Bedroom](https://www.stylemyhome.com.au/collections/black-friday-bedroom)
-  Updated: 2026-10-21T20:35:43Z
-  Total Products: 36
+  Updated: 2026-10-29T04:07:11Z
+  Total Products: 37
 
 ## Blogs
 
