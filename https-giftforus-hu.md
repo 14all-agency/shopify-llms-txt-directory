@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-03-06T08:40:55Z
 - Contact Email: info@myprintpix.hu
-- Updated At: 2026-10-23T00:35:24.089Z
+- Updated At: 2026-10-30T01:13:35.059Z
 
 ## Products
 
@@ -369,7 +369,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/68774c761ec91.webp?v=1752648882
     Price: 9990,00 Ft HUF
 - [Bakelit - személyre szabott ajndékok pároknak](https://giftforus.hu/products/bakelit-szemelyre-szabott-ajndekok-paroknak): Van egy dal, ami csak rólunk szól... és most már örökre látható is. 🎶❤️ A Bakelit egy egyedi, romantikus poszter, amely tökéletes Valentin-napi vagy évfordulós ajándék szerelmeseknek. A design egy bakelit lemezt formáz, ahol a lemez közepén a közös fotótok kap helyet, a kedvenc dalotok vagy saját dalszövegetek pedig spirál alakban öleli körbe azt. 🎵 Mitől lesz igazán személyes? Megadhatod a számotokra fontos dalszöveget – lehet ismert dal, vagy akár a saját történetetekből írt sorok A saját fotótokat elhelyezzük a lemez közepén – ott, ahol a szív dobban A háttér stílusát is kiválaszthatod 💘 Tökéletes ajándék: Valentin-napra meglepetésként Évfordulóra, amikor újra felidéznétek az első közös dalt Esküvőre vagy eljegyzésre egy emlékezetes meglepetésként Vagy csak úgy – mert a szeretet nem igényel külön alkalmat 🕒 1 munkanapos gyártás – gyorsan, gondoskodással🎨 Teljesen személyre szabható háttér, dalszöveg, kép📞 Kiemelt ügyfélszolgálat, ha segítség kell a tervezéshez✅ 100% elégedettségi garancia A ti dalotok, a ti pillanatotok – most már látható formában is örökre megmarad.Ajándékozz szívből, ritmusra, szerelemmel.
-  Updated: 2026-05-27T12:50:21Z
+  Updated: 2026-10-24T18:35:53Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -579,7 +579,7 @@
     Image: https://cdn.shopify.com/s/files/1/0903/6428/1205/files/6874cafe0c2bb_32228530-0de8-430c-93a6-0fe25c289403.webp?v=1763724425
     Price: 9990,00 Ft HUF
 - [Családi pillanatok - személyre szabott ajándékok](https://giftforus.hu/products/csaladi-pillanatok-szemelyre-szabott-ajandekok): Nevetés, szeretet, közös káosz – ez a ti történetetek képekben elmesélve. 🎨📸 A Családi pillanatok egy modern, rajzos stílusú fotókollázs, ahol a család legvidámabb, legéletszagúbb pillanatai kelnek életre egy lendületes, játékos poszteren. Itt nem a beállított képek a főszereplők, hanem azok a fotók, amelyek mögött igazán jó sztorik vannak. 🤹♀️ Mit adhatsz meg hozzá? Több kedvenc családi fotót, lehetőleg azokból, amikre mindig nevetve néztek vissza Egyedi, rajzosabb, vagányabb dizájn, ami igazán fiatalos hangulatot ad a képeknek Választható idézeteket a családi élet örömeiről, vagy megadhatsz egy teljesen saját szöveget is, ami csak rátok jellemző A poszter stílusa laza, színes, kreatív – a cél, hogy mosolyt csaljon az arcokra 🎁 Tökéletes ajándék: Szülőknek, nagyszülőknek, akik imádják a vicces családi pillanatokat Születésnapra vagy évfordulóra Vagy csak úgy, mert a nevetés is emlék, amit jó a falra tenni 🕒 1 munkanapos gyártás – gyors és gördülékeny🎨 Modern, rajzos dizájn, vidám hangulatban📸 Személyes fotók és idézetek, teljesen rátok szabva📞 Kiemelt ügyfélszolgálat – segítünk minden részletben✅ 100% elégedettségi garancia Nem kell tökéletesnek lenni – csak együtt nevetni.Örökítsd meg a legvidámabb családi pillanatokat ebben az egyedi kollázsban!
-  Updated: 2026-10-07T08:47:29Z
+  Updated: 2026-10-28T17:55:23Z
   Vendor: TeeInBlue
   Product Type: Customizer
   Availability: Available
@@ -2641,22 +2641,22 @@
 ## Collections
 
 - [Ajándékok nőknek](https://giftforus.hu/collections/ajandekok-noknek): Alkoss egyedi fényképes ajándékokat online, egyszerűen, gyorsan. Ajándékötletek édesanyáknak, barátnőnek, barátoknak, vagy lánytestvérnek. Ajándékok születésnapra, évfordulóra, karácsonyra, nőnapra, velantin napra, anyák napajára.
-  Updated: 2026-10-11T11:36:23Z
+  Updated: 2026-10-29T11:36:07Z
   Total Products: 29
 - [Ajándékok férfiaknak](https://giftforus.hu/collections/ajandekok-ferfiaknak): Alkoss egyedi fényképes ajándékokat online, egyszerűen, gyorsan. Ajándékötletek édeapáknak, nagypapának,férfiaknak, barátoknak, vagy testvérnek. Ajándékok születésnapra, névnapra, ballagásra, évfordulóra, karácsonyra.
-  Updated: 2026-10-14T11:58:00Z
+  Updated: 2026-10-29T11:36:07Z
   Total Products: 25
 - [Csaladnak](https://giftforus.hu/collections/csaladnak)
-  Updated: 2026-10-14T11:58:00Z
+  Updated: 2026-10-29T11:36:07Z
   Total Products: 23
 - [Párok](https://giftforus.hu/collections/parok)
-  Updated: 2026-10-22T11:45:48Z
+  Updated: 2026-10-25T11:32:09Z
   Total Products: 35
 - [Gyermekeknek](https://giftforus.hu/collections/gyermekeknek)
   Updated: 2026-10-14T11:58:00Z
   Total Products: 16
 - [Barátoknak](https://giftforus.hu/collections/baratoknak)
-  Updated: 2026-10-14T11:58:00Z
+  Updated: 2026-10-25T11:32:09Z
   Total Products: 12
 - [Esküvő](https://giftforus.hu/collections/eskuvo)
   Updated: 2026-09-18T11:38:40Z
@@ -2665,13 +2665,13 @@
   Updated: 2026-03-05T19:10:56Z
   Total Products: 4
 - [Újdonságok](https://giftforus.hu/collections/ujdonsagok)
-  Updated: 2026-10-06T11:37:28Z
+  Updated: 2026-10-25T11:32:09Z
   Total Products: 23
 - [Szezonális](https://giftforus.hu/collections/szezonalis)
   Updated: 2026-04-29T07:38:20Z
   Total Products: 8
 - [Képek - fotókollázsok](https://giftforus.hu/collections/kepek-fotokollazsok): Alkoss egyedi fotókollázsokat a család minden tagja számára.
-  Updated: 2026-10-22T11:45:48Z
+  Updated: 2026-10-29T11:36:07Z
   Total Products: 54
 - [Anyák napja](https://giftforus.hu/collections/anyak-napja): Egyedi, megszemélyesített ajándékok Anyák napjára.
   Updated: 2026-10-11T11:36:23Z
@@ -2680,10 +2680,10 @@
   Updated: 2026-10-14T11:58:00Z
   Total Products: 14
 - [Szülőknek, nagyszülőknek](https://giftforus.hu/collections/szuloknek-nagyszuloknek): Egyedi ajándékok szülőknek, nagyszülőknek.
-  Updated: 2026-10-07T11:44:09Z
+  Updated: 2026-10-29T11:36:07Z
   Total Products: 16
 - [Születésnap](https://giftforus.hu/collections/szuletesnapi-ajandekotletek)
-  Updated: 2026-10-14T11:58:00Z
+  Updated: 2026-10-25T11:32:09Z
   Total Products: 17
 - [Vászonképek](https://giftforus.hu/collections/vaszonkepek)
   Updated: 2026-09-23T11:38:35Z
@@ -2718,7 +2718,7 @@
 ## Policies
 
 - [Privacy Policy](https://giftforus.hu/policies/privacy-policy)
-  Updated: 2025-03-24T13:30:53Z
+  Updated: 2026-10-29T23:02:05Z
 - [Refund Policy](https://giftforus.hu/policies/refund-policy)
   Updated: 2025-07-24T10:15:25Z
 - [Terms of Service](https://giftforus.hu/policies/terms-of-service)
