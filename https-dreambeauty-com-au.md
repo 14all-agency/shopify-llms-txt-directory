@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2025-01-06T07:45:28Z
 - Contact Email: info@dreambeauty.com.au
-- Updated At: 2026-10-23T00:54:02.678Z
+- Updated At: 2026-10-31T00:22:47.338Z
 
 ## Products
 
@@ -1941,7 +1941,7 @@
 ## Policies
 
 - [Privacy Policy](https://dreambeauty.com.au/policies/privacy-policy)
-  Updated: 2025-01-06T07:45:33Z
+  Updated: 2026-10-30T04:17:13Z
 - [Shipping Policy](https://dreambeauty.com.au/policies/shipping-policy)
   Updated: 2025-01-23T04:30:35Z
 - [Refund Policy](https://dreambeauty.com.au/policies/refund-policy)
