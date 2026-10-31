@@ -6,7 +6,7 @@
 - Timezone: Asia/Taipei
 - Created At: 2020-05-06T12:41:58Z
 - Contact Email: evan5471@gmail.com
-- Updated At: 2026-10-23T00:53:55.190Z
+- Updated At: 2026-10-31T00:19:11.243Z
 
 ## Products
 
@@ -1176,7 +1176,7 @@
 ## Policies
 
 - [Privacy Policy](https://aprilmint.com/policies/privacy-policy)
-  Updated: 2025-02-14T23:26:39Z
+  Updated: 2026-10-29T20:26:42Z
 - [Shipping Policy](https://aprilmint.com/policies/shipping-policy)
   Updated: 2025-02-14T23:32:26Z
 - [Refund Policy](https://aprilmint.com/policies/refund-policy)
