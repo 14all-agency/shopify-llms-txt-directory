@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-10-23T01:15:16.013Z
+- Updated At: 2026-10-31T00:36:34.084Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -257,7 +257,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $80.00 USD
 - [Chergui](https://joeasdecants.com/products/chergui): Top Notes: Mid Notes: Tobacco Leaf, Honey, Iris, Rose Base Notes: Amber, Incense, Sandalwood, Musk, Hay
-  Updated: 2026-09-13T15:56:01Z
+  Updated: 2026-10-27T04:34:18Z
   Vendor: Serge Lutens
   Product Type: Chergui
   Availability: Available
@@ -512,19 +512,19 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $54.00 USD
 - [Lafayette St.](https://joeasdecants.com/products/lafayette-st): Top Notes: Bergamot, Flowers, Coriander Mid Notes: Apple, Ambroxan, Vanilla Base Notes: Tonka Bean, Woodsy Notes, Ambergris
-  Updated: 2026-09-13T15:56:23Z
+  Updated: 2026-10-30T20:45:06Z
   Vendor: Bond No 9
   Product Type: Lafayette St.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/LafayetteStreet.png?v=1767709023
   - [3ML](https://joeasdecants.com/products/lafayette-st?variant=62654640030067)
-    Availability: Not Available
+    Availability: Available
     Price: $21.00 USD
   - [5ML](https://joeasdecants.com/products/lafayette-st?variant=52482079555955)
     Availability: Available
     Price: $31.00 USD
   - [10ML](https://joeasdecants.com/products/lafayette-st?variant=62654640062835)
-    Availability: Not Available
+    Availability: Available
     Price: $57.00 USD
 - [Lyric Man](https://joeasdecants.com/products/lyric): Top Notes: Lime, Bergamot Mid Notes: Rose, Angelica, Ginger, Orange Blossom, Saffron, Nutmeg, Galbanum Base Notes: Musk, Incense, Pine Tree, Sandalwood, Vanilla
   Updated: 2026-09-13T15:56:25Z
@@ -841,34 +841,6 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/woods-symphony?variant=62273055490419)
     Availability: Available
     Price: $54.00 USD
-- [Aromafo - Twilight Grove](https://joeasdecants.com/products/twilight-grove-aromafo): Top Notes: Grapefruit, Lemon, Mint, Verbena Mid Notes: Rose Geranium, Ylang Ylang, Magnolia, Rose, Lavender, Lilac Base Notes: Sandalwood, Cedar, Amber, Patchouli, Myrrh, Vetiver, Musk
-  Updated: 2026-10-18T21:39:26Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Twilight Grove
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Twilight_Grove_Scene.png?v=1773707466
-  Price: $10.00 USD
-- [Aromafo - Linen Haze](https://joeasdecants.com/products/linen-haze-aromafo): Top Notes: Bergamot, Lemon, Neroli Mid Notes: Rose Geranium, Lavender, Magnolia Base Notes: Musk, Sandalwood, Vanilla
-  Updated: 2026-09-13T15:57:05Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Linen Haze
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Linen_Haze_Scene.png?v=1773707438
-  Price: $10.00 USD
-- [Aromafo - Fruits & Flowers](https://joeasdecants.com/products/fruits-flowers-aromafo): Top Notes: Bergamot, Lemon, Mango, Orange Blossom, Citrus Mid Notes: Ylang Ylang, Rose, Magnolia, Lilac, Rose Geranium, Tea Tree Base Notes: Musk, Myrrh, Frankincense, Amber, Cedar
-  Updated: 2026-10-18T21:39:25Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Fruits & Flowers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Fruits_Flowers_Scene.png?v=1773707411
-  Price: $10.00 USD
-- [Aromafo - Midnight Vanilla](https://joeasdecants.com/products/midnight-vanilla-aromafo): Top Notes: Bergamot, Mint, Neroli, Peppermint Mid Notes: Ylang, Ylang, Rose Geranium, Tunisian Rosemary, Tunisian Jasmine Base Notes: White Musk, Frankincense, Tonka Bean, Vanilla, Cedar, Sandalwood, Amber
-  Updated: 2026-10-18T21:39:26Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Midnight Vanilla
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Midnight_Vanilla_Scene.png?v=1773707452
-  Price: $10.00 USD
 - [Echt Kölnisch Wasser (Eau de Cologne)](https://joeasdecants.com/products/echt-kolnisch-wasser-eau-de-cologne): Top Notes: Bergamot, Lemon, Orange Mid Notes: Lavender, Rosemary Base Notes: Neroli, Petitgrain
   Updated: 2026-09-13T15:57:11Z
   Vendor: 4711
@@ -1124,41 +1096,6 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/mirto-di-panarea?variant=62273181811059)
     Availability: Available
     Price: $27.00 USD
-- [Aromafo - Vibrant Lagoon](https://joeasdecants.com/products/vibrant-lagoon-aromafo): Top Notes: Bergamot, Mint, Grapefruit, Lemon Mid Notes: Orange Blossom, Tunisian Jasmine, Ylang Ylang, Magnolia, Lilac, Rose Geranium, Rosemary Base Notes: Sandalwood, Musk, Frankincense, Vetiver, Cedar, Vanilla
-  Updated: 2026-09-13T15:57:42Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Vibrant Lagoon
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Vibrant_Lagoon_Scene.png?v=1773707479
-  Price: $10.00 USD
-- [Aromafo - Eucalyptus Veil](https://joeasdecants.com/products/eucalyptus-veil-aromafo): Top Notes: Bergamot, Eucalyptus, Orange Blossom, Lemon, Mint, Grapefruit Mid Notes: Rosemary, Rose Geranium, Magnolia, Ylang Ylang, Tunisian Jasmine Base Notes: Vanilla, Patchouli, Musk, Frankincense, Amber, Sandalwood, Cedar
-  Updated: 2026-09-13T15:57:45Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Eucalyptus Veil
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Eucalyptus_Veil_Scene.png?v=1773707380
-  Price: $10.00 USD
-- [Aromafo - Forest Mist](https://joeasdecants.com/products/forest-mist): Top Notes: Mint, Lemon Mid Notes: Rosemary, Eucalyptus, Tea Tree Base Notes: Cedar, Vetiver, Patchouli, Frankincense, Sandalwood, Myrrh
-  Updated: 2026-09-13T15:57:45Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Forest Mist
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Forest_Mist_Scene.png?v=1773707396
-  Price: $10.00 USD
-- [Aromafo - Lavender Gold](https://joeasdecants.com/products/lavender-gold): Top Notes: Bergamot, Lemon, Mango, Orange Blossom Mid Notes: Lavender, Magnolia, Ylang Ylang, Tunisian Jasmine, Rose Base Notes: Vanilla, Musk, Cedar, Sandalwood, Amber
-  Updated: 2026-09-13T15:57:45Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Lavender Gold
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Lavender_Gold_Scene.png?v=1773707425
-  Price: $10.00 USD
-- [Aromafo - Dawn's Essence](https://joeasdecants.com/products/dawns-essence): Top Notes: Bergamot, Mango, Lemon, Grapefruit Mid Notes: Rose Geranium Base Notes: Sandalwood, Amber, Musk, Vanilla, Frankincense
-  Updated: 2026-09-13T15:57:46Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Dawn's Essence
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Dawns_Essence_Scene.png?v=1773707364
-  Price: $10.00 USD
 - [Pegasus Exclusif](https://joeasdecants.com/products/pegasus-exclusif): Top Notes: Cardamom, Heliotrope, Pink Pepper, Bergamot Mid Notes: Bitter Almond, Lavender, Jasmine, Geranium Base Notes: Vanilla, Guaiac Wood, Agarwood (Oud), Sandalwood, Amber
   Updated: 2026-09-25T12:52:33Z
   Vendor: Parfums de Marly
@@ -2389,20 +2326,6 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/vetiver-parfum?variant=62373015650675)
     Availability: Available
     Price: $33.00 USD
-- [Aromafo - Bourbon Barreled Cologne](https://joeasdecants.com/products/aromafo-bourbon-barreled-cologne): Top Notes: Peppermint Mid Notes: Lavender, Rosemary, Geranium, Rosewood Base Notes: Musk, Cedarwood, Tonka Bean
-  Updated: 2026-09-13T16:00:15Z
-  Vendor: Aromafo
-  Product Type: Aromafo - Bourbon Barreled Cologne
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/AromafoBourbonBarreledCologne.png?v=1776280004
-  Price: $10.00 USD
-- [Aromafo - 2025 Winter Bundle](https://joeasdecants.com/products/aromafo-2025-christmas-bundle): Winter 2025 Signature Scent BundleWrap yourself in the warmth and wonder of the season with this limited-edition trio crafted to elevate every winter moment. The Winter 2025 Signature Scent Bundle brings together two beloved favorites—Twilight Grove and Midnight Vanilla—paired with the debut of an exclusive new release: Bourbon Barreled Cologne.
-  Updated: 2026-10-01T20:02:05Z
-  Vendor: Aromafo
-  Product Type: Aromafo - 2025 Winter Bundle
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/AromafoBourbonBarreledCologne.png?v=1776280004
-  Price: $30.00 USD
 - [Red Hoba](https://joeasdecants.com/products/red-hoba): Top Notes: Cardamom, Cinnamon, Bergamot Mid Notes: Patchouli, Incense, Orris, Jasmine Base Notes: Guaiac Wood, Cashmeran, Musk, Papyrus, Labdanum, Castoreum
   Updated: 2026-08-19T18:03:13Z
   Vendor: Xerjoff
@@ -2554,7 +2477,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $43.00 USD
 - [Monthly Gold Membership](https://joeasdecants.com/products/gold-membership_0): With Joe A.'s Gold Membership, you gain access to exclusive products, blogs, and information from Joe A. himself!
-  Updated: 2026-10-22T23:02:06Z
+  Updated: 2026-10-23T03:45:56Z
   Vendor: Joe A.'s Decants
   Product Type: Monthly Gold Membership
   Availability: Available
@@ -2591,7 +2514,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Available
     Price: $59.00 USD
 - [Unknown Pleasures](https://joeasdecants.com/products/unknown-pleasures): Top Notes: Lemon, Bergamot Mid Notes: Earl Grey Tea Base Notes: Honey, Tonka Bean, Caramel, Vanilla
-  Updated: 2026-09-13T16:00:25Z
+  Updated: 2026-10-27T04:32:42Z
   Vendor: Kerosene
   Product Type: Unknown Pleasures
   Availability: Available
@@ -2741,14 +2664,14 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $51.00 USD
 - [Black Phantom](https://joeasdecants.com/products/black-phantom): Top Notes: Rum Mid Notes: Dark Chocolate, Coffee, Almond, Heliotrope Base Notes: Caramel, Sugar Cane, Sandalwood, Vanilla, Tonka, Vetiver
-  Updated: 2026-09-13T16:00:41Z
+  Updated: 2026-10-27T22:17:21Z
   Vendor: By Kilian
   Product Type: Black Phantom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/BlackPhantom.png?v=1767895547
   - [3ML](https://joeasdecants.com/products/black-phantom?variant=62434289451379)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [5ML](https://joeasdecants.com/products/black-phantom?variant=62653810671987)
     Availability: Not Available
     Price: $45.00 USD
@@ -2786,7 +2709,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $56.00 USD
 - [Khamrah](https://joeasdecants.com/products/khamrah): Top Notes: Cinnamon, Nutmeg, Bergamot Mid Notes: Dates, Praline, Tuberose, Mahonial Base Notes: Vanilla, Tonka Bean, Amberwood, Myrrh, Benzoin, Akigalawood
-  Updated: 2026-09-13T16:00:50Z
+  Updated: 2026-10-27T04:32:41Z
   Vendor: Lattafa
   Product Type: Khamrah
   Availability: Available
@@ -2965,13 +2888,6 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/invictus-victory-elixir?variant=62654637670771)
     Availability: Not Available
     Price: $33.00 USD
-- [Aromafo - 2026 Spring Sample Kit](https://joeasdecants.com/products/aromafo-2026-spring-sample-kit)
-  Updated: 2026-10-01T20:02:05Z
-  Vendor: Aromafo
-  Product Type: Aromafo - 2026 Spring Sample Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Fruits_Flowers_New_df4b62ea-f7b9-4cad-ad30-7943a49a9d62.jpg?v=1763074424
-  Price: $30.00 USD
 - [Bianco Latte](https://joeasdecants.com/products/bianco-latte): Top Notes: Caramel Mid Notes: Coumarin, Honey Base Notes: Vanilla, White Musk
   Updated: 2026-09-13T16:01:15Z
   Vendor: Giardini di Toscana
@@ -3070,7 +2986,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [L'Instant pour Homme EDP](https://joeasdecants.com/products/linstant-pour-homme-edp): Top Notes: Star Anise, Bergamot, Elemi, Lemon, Pepper Mid Notes: Cacao Pod, Sandalwood, Smoke, Tea, Jasmine Base Notes: Patchouli
-  Updated: 2026-09-13T16:01:25Z
+  Updated: 2026-10-23T19:22:35Z
   Vendor: Guerlain
   Product Type: L'Instant pour Homme EDP
   Availability: Available
@@ -3189,54 +3105,183 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/choco-violette?variant=62653821911411)
     Availability: Not Available
     Price: $28.00 USD
-[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTI5ODE5ODk2MjU0NywibGFzdF92YWx1ZSI6IjE1Mjk4MTk4OTYyNTQ3In0%3D)
+- [Velvet Chocolate](https://joeasdecants.com/products/velvet-chocolate): Top Notes: Mid Notes: Chocolate Base Notes: Cacao, Vanilla, Tonka Bean
+  Updated: 2026-09-13T16:01:40Z
+  Vendor: Theodoros Kalotinis
+  Product Type: Velvet Chocolate
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8301.heic?v=1771704699
+  - [3ML](https://joeasdecants.com/products/velvet-chocolate?variant=62559576031603)
+    Availability: Available
+    Price: $11.00 USD
+  - [5ML](https://joeasdecants.com/products/velvet-chocolate?variant=62654682661235)
+    Availability: Not Available
+    Price: $13.00 USD
+  - [10ML](https://joeasdecants.com/products/velvet-chocolate?variant=62654682694003)
+    Availability: Not Available
+    Price: $21.00 USD
+- [Dipped in Chocolate](https://joeasdecants.com/products/dipped-in-chocolate): Top Notes: Cardamom Mid Notes: Chocolate, Waffle Base Notes: Vanilla, Benzoin, Sandalwood
+  Updated: 2026-09-13T16:01:41Z
+  Vendor: Imaginary Authors
+  Product Type: Dipped in Chocolate
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8300.heic?v=1771704799
+  - [3ML](https://joeasdecants.com/products/dipped-in-chocolate?variant=62559576260979)
+    Availability: Available
+    Price: $11.50 USD
+  - [5ML](https://joeasdecants.com/products/dipped-in-chocolate?variant=62653846094195)
+    Availability: Not Available
+    Price: $19.00 USD
+  - [10ML](https://joeasdecants.com/products/dipped-in-chocolate?variant=62653846126963)
+    Availability: Not Available
+    Price: $33.00 USD
+- [Double Attack](https://joeasdecants.com/products/double-attack): Top Notes: Bitter Orange, Pimento, Pink Pepper Mid Notes: Cinnamon, Agave, Geranium Base Notes: Dark Chocolate, Madagascar Vanilla, Sandalwood, Bourbon Vetiver
+  Updated: 2026-09-13T16:01:45Z
+  Vendor: Mind Games
+  Product Type: Double Attack
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8299.heic?v=1771704915
+  - [3ML](https://joeasdecants.com/products/double-attack?variant=62559577637235)
+    Availability: Available
+    Price: $19.00 USD
+  - [5ML](https://joeasdecants.com/products/double-attack?variant=62653846618483)
+    Availability: Not Available
+    Price: $27.00 USD
+  - [10ML](https://joeasdecants.com/products/double-attack?variant=62653846651251)
+    Availability: Not Available
+    Price: $49.00 USD
+- [Amour De Cacao](https://joeasdecants.com/products/amour-de-cacao): Top Notes: Orange Mid Notes: Cacao, Star Fruit Base Notes: Vanilla
+  Updated: 2026-09-13T16:01:50Z
+  Vendor: Comptoir Sud Pacifique
+  Product Type: Amour De Cacao
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8298.heic?v=1771705063
+  - [3ML](https://joeasdecants.com/products/amour-de-cacao?variant=62559579996531)
+    Availability: Available
+    Price: $7.50 USD
+  - [5ML](https://joeasdecants.com/products/amour-de-cacao?variant=62653791109491)
+    Availability: Not Available
+    Price: $15.00 USD
+  - [10ML](https://joeasdecants.com/products/amour-de-cacao?variant=62653791142259)
+    Availability: Not Available
+    Price: $25.00 USD
+- [Akro Dark](https://joeasdecants.com/products/akro-dark): Top Notes: Cinnamon Mid Notes: Dark Chocolate, Hazelnut Base Notes: Cacao, Vanilla
+  Updated: 2026-09-13T16:01:50Z
+  Vendor: Akro
+  Product Type: Akro Dark
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8297.heic?v=1771705213
+  - [3ML](https://joeasdecants.com/products/akro-dark?variant=62559580520819)
+    Availability: Available
+    Price: $10.00 USD
+  - [5ML](https://joeasdecants.com/products/akro-dark?variant=62653786095987)
+    Availability: Not Available
+    Price: $22.00 USD
+  - [10ML](https://joeasdecants.com/products/akro-dark?variant=62653786128755)
+    Availability: Not Available
+    Price: $39.00 USD
+- [Vanilla Niche Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/vanilla-niche-sample-set-3ml-gourmand-wars): Discover the art of vanilla with this curated Gourmand Wars sample set featuring eight exceptional niche fragrances in convenient 3ml bottles. Explore creamy, sophisticated scents from prestigious houses including Parfums de Marly, Initio Parfums Privés, BDK Parfums, and more. Each sample showcases vanilla's versatility—from gourmand sweetness to leather-infused elegance and woody depth. Perfect for fragrance enthusiasts seeking to compare premium vanilla interpretations without committing to full bottles. Experience the complexity and refinement that defines niche perfumery's most coveted vanilla creations.This set has 8 3ML fragrances including:1. Parfums de Marly Althair - 3ML2. Giardini di Toscana Bianco Latte - 3ML3. Initio Parfums Privés Absolute Aphrodisiac - 3ML4. BDK Parfums Vanille Leather - 3ML5. Goldfield & Banks Silky Woods - 3ML6. Scents of Wood Vanilla in Bourbon - 3ML7. Vertus Vanilla Oud -3ML8. Aromas de Salazar Vanilla Is My Love Language - 3ML
+  Updated: 2026-09-13T16:01:50Z
+  Vendor: Joe A.'s Decants
+  Product Type: Vanilla Niche Sample Set 3ML - Gourmand Wars
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3.png?v=1771899456
+  Price: $120.00 USD
+- [Vanilla Designer Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/vanilla-designer-sample-set-3ml-gourmand-wars): Discover the ultimate vanilla and gourmand experience with this curated 3ML sample collection featuring eight prestigious designer fragrances. Explore Tom Ford's iconic Tobacco Vanille, the sophisticated warmth of Mercedes-Benz Club Black, and Giorgio Armani's sensual Stronger with You Intensely. This set showcases the best in gourmand luxury, including YSL Babycat, Viktor & Rolf Spicebomb Extreme, Jean Paul Gaultier Le Male Elixir, Paco Rabanne Invictus Victory Elixir, and Azzaro The Most Wanted Parfum. Perfect for fragrance enthusiasts seeking to sample premium scents before committing to full bottles. Each 3ML decant offers exceptional value and the opportunity to find your signature scent among world-renowned designer houses.For clarification, this set includes: 1. Tom Ford Tobacco Vanille - 3ML2. Mercedes-Benz Club Black - 3ML3. Giorgio Armani Stronger with You Intensely - 3ML4. Yves Saint Laurent Babycat - 3ML5. Viktor & Rolf Spicebomb Extreme - 3ML6. Jean Paul Gaultier Le Male Elixir - 3ML7. Paco Rabanne Invictus Victory Elixir - 3ML8. Azzaro The Most Wanted Parfum - 3ML
+  Updated: 2026-09-13T16:01:50Z
+  Vendor: Joe A.'s Decants
+  Product Type: Vanilla Designer Sample Set 3ML - Gourmand Wars
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
+  Price: $60.00 USD
+- [Chocolate Designer Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/chocolate-designer-sample-set-3ml-gourmand-wars): Discover the art of chocolate through fragrance with our Gourmand Wars collection. This curated sample set features eight designer interpretations of cacao, each capturing a unique facet of chocolate's complexity. From Valentino Uomo's warm spice to Kayali's luxurious Chocolate Oud, Jo Malone's fresh Blue Agava & Cacao, and Carolina Herrera's bold Bad Boy Extreme—explore nutty, ambered, airy, and sweet expressions of this beloved note. Perfect for fragrance enthusiasts seeking to experience premium designer scents without commitment. All eight fragrances arrive in convenient 3ML bottles, ideal for travel or sampling before investing in full sizes.For clarification, this sample set comes with: 1. Valentino Uomo - 3ML2. Guerlain L'Instant EDP - 3ML3. Kayali Chocolate Oud - 3ML4. Jo Malone London Blue Agava & Cacao - 3ML5. Carolina Herrera Bad Boy Extreme - 3ML6. Zara Cocoa Bliss - 3ML7. Armaf Odyssey Dubai Chocolat - 3ML8. Al-Rehab Choco Musk EDP - 3ML
+  Updated: 2026-09-13T16:01:51Z
+  Vendor: Joe A.'s Decants
+  Product Type: Chocolate Designer Sample Set 3ML - Gourmand Wars
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
+  Price: $60.00 USD
+- [Chocolate Niche Sample Set 3ML - Gourmand Wars](https://joeasdecants.com/products/chocolate-niche-sample-set-3ml-gourmand-wars): Discover eight decadent chocolate fragrances in one curated collection. This Gourmand Wars sample set features premium niche brands including Montale Chocolate Greedy, By Kilian Black Phantom, Mancera Choco Violette, Theodoros Kalotinis Velvet Chocolate, Imaginary Authors Dipped in Chocolate, Mind Games Double Attack, Comptoir Sud Pacifique Amour de Cacao, and Akro Dark. Each 3ML bottle lets you explore rich, indulgent scents without committing to full sizes. Perfect for chocolate fragrance enthusiasts seeking variety and luxury in one expertly assembled set.For clarification, this sample set includes:1. Montale Chocolate Greedy - 3ML2. By Kilian Black Phantom - 3ML3. Mancera Choco Violette - 3ML4. Theodoros Kalotinis Velvet Chocolate - 3ML5. Imaginary Authors Dipped in Chocolate - 3ML6. Mind Games Double Attack - 3ML7. Comptoir Sud Pacifique Amour de Cacao - 3ML8. Akro Dark - 3ML
+  Updated: 2026-09-13T16:01:51Z
+  Vendor: Joe A.'s Decants
+  Product Type: Chocolate Niche Sample Set 3ML - Gourmand Wars
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/pomelli-image_3_e188c9b4-b282-478d-ab53-c0797e019577.png?v=1771899511
+  Price: $120.00 USD
+- [Aromafo - Ambre Crystal](https://joeasdecants.com/products/aromafo-ambre-crystal): Inspired by Baccarat, Aromafo's Ambre Crystal is bold, unflinching and designed to grab attention without compromise. This extrait features exotic notes of rich jasmine and saffron, combined with the warm tone of cedarwood and subtle ambergris. The result? A fragrance that's ideal for wearing for both work and play, with complex, multi-layered scents that adapt to your skin as day turns to night. Available in 10ML and 30ML sizes, Ambre Crystal is a strong, intoxicating fragrance that creates instant impact when you walk into a room. If you're looking for an extrait that delivers without compromise, this is the natural choice for you.
+  Updated: 2026-10-30T16:57:41Z
+  Vendor: Aromafo
+  Product Type: Aromafo - Ambre Crystal
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/Ambre_Crystal.jpg?v=1792156517
+  - [10ML](https://joeasdecants.com/products/aromafo-ambre-crystal?variant=62584771248499)
+    Availability: Available
+    Price: $25.00 USD
+  - [30ML](https://joeasdecants.com/products/aromafo-ambre-crystal?variant=62680816648563)
+    Availability: Available
+    Price: $70.00 USD
+- [Winter 2026 Starter Collection](https://joeasdecants.com/products/winter-2026-starter-collection-kit): Hey guys, Joe A. here with another one for ya’! Every winter the same question pops up: “What fragrances should a beginner start with without spending a fortune?” You don’t need niche bottles, luxury boutiques or a shelf that looks like a department store counter (guilty!). What you need is a small, smart rotation that covers the real situations in life. This $100 Winter Starter Collection for 2026 is built around four roles every guy runs into during the colder months: a versatile everyday scent, a relaxed casual fragrance, something safe for the office and one that steps it up a notch for date nights or formal occasions. There are four scents in this kit. Each comes in an individual 5ml bottle. The authentic bottles and the 5ml decant bottles are shown in the photo.
+  Updated: 2026-09-13T16:01:56Z
+  Vendor: Joe A.'s Decants
+  Product Type: Winter 2026 Starter Collection Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8538.heic?v=1772919706
+  Price: $25.00 USD
+- [Spring 2026 Starter Collection](https://joeasdecants.com/products/spring-2026-starter-collection-kit): Hey guys, Joe A. here with another one for ya'! Spring is that interesting transition season. Winter is fading out, the air starts warming up, but it’s not quite summer yet. That means fragrances that are too heavy can feel cloying, while fragrances that are too light might disappear before lunchtime. What you want is balance. This $100 Spring Starter Collection for 2026 is built around four roles every guy runs into as the weather warms up: a versatile everyday scent, a relaxed casual fragrance, something safe for the office and one that steps it up a notch for date nights or evening occasions. This kit comes with 4 fragrances. Each fragrances comes in a 5ml bottle. The authentic bottles and the 5ml decant bottles are shown in the photo.
+  Updated: 2026-09-13T16:01:56Z
+  Vendor: Joe A.'s Decants
+  Product Type: Spring 2026 Starter Collection Kit
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8539.heic?v=1772919705
+  Price: $20.00 USD
+[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMwODI5ODcxNTUwNywibGFzdF92YWx1ZSI6IjE1MzA4Mjk4NzE1NTA3In0%3D)
 
 ## Collections
 
 - [Aromafo Summer Collection](https://joeasdecants.com/collections/aromafo-summer-collection): This fragrance collection weaves together the vibrant freshness of citrus and lush fruits, the delicate elegance of florals, and the grounding warmth of woods and resins. From the sunlit brightness of bergamot, mango, and lemon to the soft bloom of magnolia, rose geranium, and ylang ylang, each scent captures a unique mood—whether it's the serene warmth of dawn, the crisp comfort of fresh linens, the radiant charm of blooming gardens, or the tranquil mystery of a tropical lagoon. With layers of musk, frankincense, vanilla, and sandalwood anchoring the collection, these scents offer a harmonious blend of energy, softness, and sophistication.
-  Updated: 2026-07-08T20:25:56Z
+  Updated: 2026-10-29T10:45:35Z
   Total Products: 4
 - [Summer](https://joeasdecants.com/collections/1)
-  Updated: 2026-08-21T11:18:00Z
+  Updated: 2026-10-29T10:45:35Z
   Total Products: 62
 - [Winter](https://joeasdecants.com/collections/winter)
-  Updated: 2026-08-21T11:18:00Z
+  Updated: 2026-10-29T11:14:13Z
   Total Products: 44
 - [Spring](https://joeasdecants.com/collections/spring)
-  Updated: 2026-08-21T11:18:00Z
+  Updated: 2026-10-29T10:45:35Z
   Total Products: 74
 - [Fall](https://joeasdecants.com/collections/fall)
-  Updated: 2026-08-21T11:18:00Z
+  Updated: 2026-10-29T11:14:13Z
   Total Products: 59
 - [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
-  Updated: 2026-10-21T11:21:17Z
+  Updated: 2026-10-30T16:57:31Z
   Total Products: 2266
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
-  Updated: 2026-08-21T11:18:00Z
+  Updated: 2026-10-29T10:45:33Z
   Total Products: 94
 - [The Gentleman](https://joeasdecants.com/collections/the-gentleman)
   Updated: 2026-08-21T11:18:00Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-10-18T11:19:54Z
+  Updated: 2026-10-29T11:14:13Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
-  Updated: 2026-10-18T11:19:54Z
+  Updated: 2026-10-29T10:45:35Z
   Total Products: 34
 - [The Supportive](https://joeasdecants.com/collections/the-supportive)
-  Updated: 2026-10-18T11:19:54Z
+  Updated: 2026-10-29T10:45:34Z
   Total Products: 21
 - [Aromafo Full Collection](https://joeasdecants.com/collections/aromafo-full-collection)
-  Updated: 2026-07-08T20:31:54Z
+  Updated: 2026-10-30T16:57:31Z
   Total Products: 11
 - [Featured Members Only](https://joeasdecants.com/collections/featured-members-only)
-  Updated: 2026-07-08T20:26:45Z
+  Updated: 2026-10-27T22:17:22Z
   Total Products: 95
 - [Fragrance Wars - The Booze Wars](https://joeasdecants.com/collections/boozy-fragrance-wars)
-  Updated: 2026-07-08T20:26:38Z
+  Updated: 2026-10-27T22:17:22Z
   Total Products: 32
 - [Fragrance Wars - The Gourmand Wars](https://joeasdecants.com/collections/fragrance-wars-the-gourmand-wars): Hey guys, Joe A. here with another one for ya'! We’ve battled tobacco. We’ve waged war in barbershops. We crowned a Booze Wars champion. Now it’s time for something sweeter… and far more dangerous!! Welcome to The Gourmand Wars: Vanilla vs Chocolate. Not fruit. Not woods. Not freshies. This is dessert ... at war !!! --- TEAM VANILLA Vanilla is comfort. Vanilla is seduction. Vanilla is warmth in the cold and confidence in the dark. But don’t mistake softness for weakness. On the Designer side, we’ve got power vanillas: spicy, tobacco-laced, amber-charged heavy hitters like Tom Ford Tobacco Vanille, Mercedes-Benz Club Black, and Giorgio Armani Stronger With You Intensely just to name a few... On the Niche side? Creamy, resinous, sensual masterpieces like Parfums de Marly Althair, Giardini di Toscana Bianco Latte, and Initio Parfums Privés Absolute Aphrodisiac just to name a few... Vanilla isn’t plain. Vanilla is versatile. Vanilla is a . --- TEAM CHOCOLATE Chocolate is darker. Richer. More indulgent. In the Designer division, we explore how houses interpret cacao, from nutty elegance in Valentino Uomo, to airy cacao in Jo Malone London Blue Agava & Cacao, to sweet musk comfort in Al-Rehab Choco Musk EDP, just to reveal a few contenders... But the Niche side? That’s where the gloves come off. We’re talking unapologetic chocolate domination: syrupy bombs like Montale Chocolate Greedy, bitter cacao like Akro Dark, boozy indulgence like By Kilian Black Phantom, and frosting-thick sweetness from Mancera Choco Violette just to name a few... This isn’t subtle. This is decadence done right! --- THE FORMAT 32 fragrances. 4 brackets. Designer vs Designer. Niche vs Niche. Single elimination. No mercy. No second chances. No “but it’s good for layering.” Only one note family walks away with the crown. I'LL BE ANNOUNCING THE BRACKETS IN FOLLOW UP POSTS! --- THE QUESTION Are you Team Vanilla: warmth, seduction, smooth confidence? Or are you Team Chocolate: indulgence, depth, unapologetic richness? This Valentine’s season, we’re not choosing roses. We’re choosing dessert. And only one will reign supreme. Brothers…The Gourmand Wars officially begin.
-  Updated: 2026-10-18T11:19:54Z
+  Updated: 2026-10-27T22:17:22Z
   Total Products: 32
 - [Gourmand Wars Sample Kits](https://joeasdecants.com/collections/gourmand-wars-sample-kits)
   Updated: 2026-07-08T20:26:46Z
@@ -3245,7 +3290,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-08-13T19:35:00Z
   Total Products: 4
 - [Aromafo Heritage Collection](https://joeasdecants.com/collections/aromafo-heritage-collection)
-  Updated: 2026-07-08T20:26:44Z
+  Updated: 2026-10-30T16:57:31Z
   Total Products: 1
 
 ## Blogs
@@ -3635,8 +3680,8 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2025-05-16T12:46:53Z
 - [Scent Match](https://joeasdecants.com/pages/scent-match)
   Updated: 2026-06-21T15:29:47Z
-- [Aromafo Home Page](https://joeasdecants.com/pages/aromafo-home-page): Aromafo is a modern fragrance house built for real people who want to smell incredible without the elitist attitude or expensive prices. At Aromafo...
-  Updated: 2026-06-12T19:29:06Z
+- [Ambre Crystal by Aromafo | Amber Fragrance from $15](https://joeasdecants.com/pages/aromafo-home-page): Aromafo is a modern fragrance house built for real people who want to smell incredible without the elitist attitude or expensive prices. At Aromafo...
+  Updated: 2026-10-28T18:23:43Z
 - [Our Blog](https://joeasdecants.com/pages/our-blog): Joe A's central hub for all blogs, blurbs and babblings! While some are free for everyone, most others will be available only through our Gold Memb...
   Updated: 2025-11-17T20:48:12Z
 - [About Us / FAQ](https://joeasdecants.com/pages/about-us)
@@ -3659,7 +3704,7 @@ This document provides a structured overview of our offerings, brand standards, 
 ## Policies
 
 - [Privacy Policy](https://joeasdecants.com/policies/privacy-policy)
-  Updated: 2025-05-28T02:47:22Z
+  Updated: 2026-10-30T04:54:49Z
 - [Shipping Policy](https://joeasdecants.com/policies/shipping-policy)
   Updated: 2025-05-28T02:51:51Z
 - [Refund Policy](https://joeasdecants.com/policies/refund-policy)
