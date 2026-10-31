@@ -6,7 +6,7 @@
 - Timezone: Europe/Vilnius
 - Created At: 2024-10-31T17:49:19Z
 - Contact Email: hello@ciatau.com
-- Updated At: 2026-10-23T01:07:05.018Z
+- Updated At: 2026-10-31T00:29:16.758Z
 
 ## Products
 
