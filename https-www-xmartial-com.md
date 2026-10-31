@@ -6,12 +6,12 @@
 - Timezone: Pacific/Honolulu
 - Created At: 2017-05-26T03:53:59Z
 - Contact Email: support@xmartial.com
-- Updated At: 2026-10-23T01:13:07.811Z
+- Updated At: 2026-10-31T00:36:22.947Z
 
 ## Products
 
 - [BJJ Rash Guard Hillbilly](https://www.xmartial.com/products/hillbilly-bjj-rash-guard): With the Hillbilly BJJ Rash Guard, you can show off your love for the outdoors and No Gi BJJ. This unique bjj rash guards design is sure to make you stand out on the mats.
-  Updated: 2026-10-22T14:11:06Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-hillbilly-rash-guard-45532662694052.jpg?v=1739783936
     Price: $49.95 USD
 - [BJJ Rash Guard Black Tuxedo Rank](https://www.xmartial.com/products/black-tuxedo-rank-bjj-rash-guard): Step onto the mats in style with our Black Tuxedo Rank BJJ Rash Guard. This sleek mens rash guard bjj is designed to elevate your performance and comfort during every no gi bjj training.
-  Updated: 2026-10-23T00:56:47Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -255,7 +255,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-black-tuxedo-bjj-rash-guard-43447142973604.jpg?v=1739535301
     Price: $55.00 USD
 - [Black BJJ Spats | Onyx No-Gi Compression Spats for Men](https://www.xmartial.com/products/onyx-bjj-spats): Shop Onyx BJJ Spats — premium no-gi compression spats built for Brazilian Jiu-Jitsu training. Durable, flexible, and competition-ready. Free shipping available.
-  Updated: 2026-10-23T00:25:08Z
+  Updated: 2026-10-30T20:25:41Z
   Vendor: XMARTIAL
   Product Type: Men - Spats
   Availability: Available
@@ -333,7 +333,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-onyx-bjj-spats-1141411790.jpg?v=1740733427
     Price: $65.00 USD
 - [BJJ Rash Guard Kanji Orange](https://www.xmartial.com/products/kanji-orange-bjj-rash-guard): Elevate your training with this Kanji Orange Rash Guard. Feel your power surge as you slip into this lightweight, high-performance anime rashguard. Perfect for No Gi BJJ and MMA.
-  Updated: 2026-10-22T14:11:07Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -379,90 +379,90 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-kanji-orange-bjj-rash-guard-1194670358.jpg?v=1758829880
     Price: $49.95 USD
 - [Lizard No Gi 2.0 Hybrid BJJ Shorts](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts): Level up your training in the Lizard No Gi Hybrid Shorts. With 2.0 velcro-less design, they provide superior comfort and flexibility for peak performance.
-  Updated: 2026-10-22T14:11:07Z
+  Updated: 2026-10-29T22:07:52Z
   Vendor: XMARTIAL
   Product Type: Men - Shorts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+  Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
   - [Lizard / Velcroless / 3XS (24)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46005721661604)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / 2XS (26)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46005721694372)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / XS (28)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398045860)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / S (30)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398111396)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / M (32)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398176932)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / L (34)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398242468)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / XL (36)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398308004)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / 2XL (38)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398373540)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / 3XL (40)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=42779398439076)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Velcroless / 4XL (42)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46040478744740)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615753380.png?v=1720406711
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/VelcrolessLeft.jpg?v=1793091048
     Price: $49.95 USD
   - [Lizard / Hybrid / 3XS (24)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46005721596068)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / 2XS (26)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46005721628836)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / XS (28)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=41584006856868)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / S (30)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=39419484799140)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / M (32)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=39419484831908)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / L (34)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=39419484897444)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / XL (36)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=39419485159588)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / 2XL (38)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=39419485257892)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / 3XL (40)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=41584006889636)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Lizard / Hybrid / 4XL (42)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46040478711972)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-shorts-35241615524004.png?v=1743773357
+    Image: https://cdn.shopify.com/s/files/1/2036/0199/files/XMMMA_Hybrid_Velcro-lessLeft.jpg?v=1793091030
     Price: $49.95 USD
   - [Plain / Velcroless / 3XS (24)](https://www.xmartial.com/products/lizard-no-gi-2-0-hybrid-bjj-shorts?variant=46022424133796)
     Availability: Available
@@ -545,7 +545,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-lizard-no-gi-2-0-hybrid-mma-shorts-35260532916388.png?v=1743773357
     Price: $49.95 USD
 - [Grappler Rank BJJ Spats on  l 1 Year Warranty](https://www.xmartial.com/products/grappler-rank-bjj-spats): Introducing our Grappler Rank BJJ Spats. The compression that are made to last and give you the best experience while wearing it. The perfect spats for MMA and jiu-jitsu usage, comfort and durability .
-  Updated: 2026-10-22T14:11:07Z
+  Updated: 2026-10-29T22:07:52Z
   Vendor: XMARTIAL
   Product Type: Men - Spats
   Availability: Available
@@ -731,7 +731,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-grappler-rank-bjj-spats-45454380728484.jpg?v=1726695040
     Price: $45.00 USD
 - [BJJ Rash Guard Panda Chair Shot](https://www.xmartial.com/products/panda-chair-shot-bjj-rash-guard): Channel your inner wrestling fan with Panda Chair Shot BJJ Rash Guard and elevate your BJJ game. This unique jiu jitsu rash guards design adds humor and nostalgia to your no gi training.
-  Updated: 2026-10-22T14:11:08Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -801,7 +801,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-panda-chair-shot-bjj-rash-guard-1195500511.jpg?v=1759222361
     Price: $55.00 USD
 - [XMARTIAL Gift Card](https://www.xmartial.com/products/xmartial-gift-card): Shopping for someone else but not sure what to give them? Running out of gift ideas? Here's a quick and easy way to make someone feel truly special. Whether it’s a birthday, Christmas or congratulatory gift you’re looking for, you no longer have to wrack your brains thinking of gift ideas. We got you covered. Get XMartial Gift Card and let your loved ones and friends have the freedom to choose what they want on the site.Gift cards will be sent digitally by email and contain instructions to redeem at checkout. Our gift cards have no additional processing fees.Give the gift of choice today.
-  Updated: 2026-10-22T14:11:08Z
+  Updated: 2026-10-30T05:43:52Z
   Vendor: XMARTIAL
   Product Type: Gift Card
   Availability: Available
@@ -843,14 +843,14 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-xmartial-gift-card-45690739097764.png?v=1727213809
     Price: $500.00 USD
 - [Adjustable L/R Shoulder Support](https://www.xmartial.com/products/adjustable-left-right-shoulder-support): Relieve shoulder pain with the Adjustable L/R Shoulder Support. Speed up recovery and protect your shoulders during BJJ training. Get relief and support now!
-  Updated: 2026-10-22T14:11:08Z
+  Updated: 2026-10-25T19:13:26Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-adjustable-l-r-shoulder-support-2417709580347.jpg?v=1679350727
   Price: $19.95 USD
 - [Wrestling Knee Pads Leg Sleeve](https://www.xmartial.com/products/leg-sleeve-wrestling-knee-pads): This Leg Sleeve Wrestling Knee Pads are much more ergonomic alternative to independent knee pads.
-  Updated: 2026-10-22T14:11:08Z
+  Updated: 2026-10-31T00:22:45Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
@@ -1056,7 +1056,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-leg-sleeve-knee-pad-30459409367204.png?v=1679507666
     Price: $29.95 USD
 - [Black BJJ Rash Guard | Premium Black No-Gi Compression Guard](https://www.xmartial.com/products/premium-black-rash-guard): The BLACK PREMIUM RASH GUARD features a sleek black clean design suited for any belt rank. This MMA & BJJ rash guard is designed for high-performance training & competition. This compression shirt good for water sports and gym workout.
-  Updated: 2026-10-23T00:18:26Z
+  Updated: 2026-10-30T00:32:56Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -1262,7 +1262,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-premium-black-bjj-rash-guard-1235029076.jpg?v=1777625590
     Price: $99.95 USD
 - [Premium Black BJJ Spats](https://www.xmartial.com/products/premium-black-bjj-spats): The Premium Black BJJ Spats are a must-have for any dedicated athlete. These compression pants are specifically designed with high-quality material. The prestige pitch-black color allows these compression pants to work well with any training gear and will not fade due to long wear. Great as MMA and BJJ spats, and workout compression pants for men.
-  Updated: 2026-10-22T14:11:09Z
+  Updated: 2026-10-29T22:07:50Z
   Vendor: XMARTIAL
   Product Type: Men - Spats
   Availability: Available
@@ -1376,7 +1376,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-premium-black-bjj-spats-1186436896.jpg?v=1755777986
     Price: $129.95 USD
 - [BJJ Rash Guard Shredded Panda](https://www.xmartial.com/products/shredded-panda-bjj-rash-guard): With Shredded Panda BJJ Rash Guard you can elevate your training with this cool rashguard. Perfect for no gi bjj & other high-intensity workouts. Available in long and short sleeve.
-  Updated: 2026-10-22T20:00:11Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -1422,7 +1422,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-shredded-panda-bjj-rash-guard-45220999266468.jpg?v=1742471558
     Price: $55.00 USD
 - [Eva MMA Mouth Guard](https://www.xmartial.com/products/eva-mouth-guard): Get maximum protection with our Eva Mouth Guard! This best- product is more than just a piece of protective gear. It provides solid protection for your teeth and gums. The Eva Mouth Guard is very easy to use. Grapplers and athletes love this mouthguard because of its cool design, and the maximum protection it provides. Features & Benefits: Maximum protection for your teeth and gums Made from high-quality silicone materials Maximum airflow Comfortable & easy to use Size: 63x47x3mm or 65x50x19mm
-  Updated: 2026-10-22T14:11:10Z
+  Updated: 2026-10-26T00:07:25Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
@@ -1436,7 +1436,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-eva-mouth-guard-34268240674980.png?v=1679348565
     Price: $25.00 USD
 - [All Sports Mouth Guard](https://www.xmartial.com/products/all-sports-mouth-guard): Protect yourself with the All Sports Mouth Guard. This best- product features a gel frame that ensures a secure and perfect fit to your jaw. The All Sports Mouth Guard features a modern design that provides you with unrestricted airflow while offering maximum protection. Customers love this awesome product because it's very soft and flexible. It is one of the most durable options out there. Features & Benefits: Size: 6.5*5.5cm Made from high-quality silicone materials Unrestricted airflow Maximum comfort & protection
-  Updated: 2026-10-22T14:11:10Z
+  Updated: 2026-10-25T19:14:05Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
@@ -1450,7 +1450,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-all-sports-mouth-guard-30392794939556.jpg?v=1679500110
     Price: $19.95 USD
 - [BJJ Rash Guard Red Viking](https://www.xmartial.com/products/red-viking-bjj-rash-guard): Channel your inner Viking warrior with Red Viking BJJ Rash Guard. This design features a fearsome Viking, perfect for those who embrace the spirit of the North
-  Updated: 2026-10-22T14:11:10Z
+  Updated: 2026-10-30T20:01:05Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -1475,7 +1475,7 @@
     Availability: Available
     Price: $49.95 USD
 - [Silicone Finger Gripper](https://www.xmartial.com/products/silicone-finger-gripper): Regain hand strength with Silicone Finger Gripper. Ideal for rehab and grip exercises, it enhances hand and wrist muscles for improved strength and endurance.
-  Updated: 2026-10-22T14:11:10Z
+  Updated: 2026-10-30T07:26:15Z
   Vendor: XMARTIAL
   Product Type: Home Workout Equipment
   Availability: Available
@@ -1493,7 +1493,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-silicone-finger-gripper-30385525457060.jpg?v=1679493984
     Price: $19.95 USD
 - [BJJ Rash Guard Game of Chokes](https://www.xmartial.com/products/game-of-chokes-bjj-rash-guard): Embrace the thrill of the submission! Featuring Game of Chokes BJJ Rash Guard a signature jiu-jitsu catchphrase, this rash guard is sure to intimidate your opponents.
-  Updated: 2026-10-22T14:11:11Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -1547,7 +1547,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-game-of-chokes-bjj-rash-guard-35461786435748.jpg?v=1758829440
     Price: $54.95 USD
 - [Women’s BJJ Rash Guard Game of Chokes](https://www.xmartial.com/products/game-of-chokes-womens-bjj-rash-guard): Enter the arena & claim your crown with the Game of Chokes Women's BJJ Rash Guard! This women's jiu jitsu rash guard isn't just apparel, it's your battle armor.
-  Updated: 2026-10-22T14:11:11Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Women - Rash Guards
   Availability: Available
@@ -1585,7 +1585,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-game-of-chokes-women-s-bjj-rash-guard-35017062383780.jpg?v=1743149825
     Price: $49.95 USD
 - [BJJ Rash Guard Kimeowra](https://www.xmartial.com/products/kimeowra-bjj-rash-guard): Unleash your inner feline with Kimeowra BJJ Rash Guard! Featuring two fierce felines locked in a classic kimura, it's one of the funny BJJ rash guards on the market.
-  Updated: 2026-10-22T16:15:26Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -1655,21 +1655,21 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-kimeowra-bjj-rash-guard-1195487850.jpg?v=1759219711
     Price: $49.95 USD
 - [Bar Handles Pull-Up Grip](https://www.xmartial.com/products/bar-handles-pull-up-grip): Increase your forearm muscle and grip strength with our best- Bar Handles Pull-Up Grip. It's the perfect tool for grip strength training for your BJJ matches, mountain climbing training, and more. The Bar Handles Pull-Up Grip enhances endurance and promotes explosive power. You'll get maximum results with a shorter training time. Features and Benefits: Made from premium quality nylon and TPE materials Specially designed radian with non-slip texture and elastic TPE material that provides maximum grip. Ergonomic tendons that are efficient for training. Includes 1 Pair Fitness Handle and 1 Storage Bag for portability
-  Updated: 2026-10-22T14:11:12Z
+  Updated: 2026-10-28T09:21:10Z
   Vendor: XMARTIAL
   Product Type: Home Workout Equipment
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-bar-handles-pull-up-grip-29913199378596.jpg?v=1679326420
   Price: $45.00 USD
 - [Abdominal Sit-Up Pad](https://www.xmartial.com/products/abdominal-sit-up-pad): Abdominal Sit-Up Pad is designed to offer you a full range of motion while you do your sit-ups. It does so by targeting the entire abdominal area and allowing your abs to get a full stretch in the bottom portion and a proper contraction at the top. It provides you with ideal lower back support so that sit-ups are now painless and easier. Features and Benefits: Item size: 37*30.5*7CM Item weight: 550g Color: Black Great lower back support and help to remove all the strain Lightweight and easy to carry so you can take it anywhere Ideal to work out a full range of motion targeting the entire abdominal, back, and oblique's muscle group during crunches, leg lifts & sit-ups and provide stability & constant tension
-  Updated: 2026-10-22T14:11:12Z
+  Updated: 2026-10-28T09:21:12Z
   Vendor: XMARTIAL
   Product Type: Home Workout Equipment
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-abdominal-sit-up-pad-29913165136036.jpg?v=1679395712
   Price: $39.95 USD
 - [Posture Corrector Brace](https://www.xmartial.com/products/posture-corrector-brace): Bring back the lightness to your steps with the Posture Corrector Brace! Our best- Posture Corrector Brace provides support for your back. It promotes good posture by pulling your back muscles into their natural position. This amazing product conditions your back muscles and bones upright. The end result is a boost in your energy levels, proper posture, better breathing, and reduces injuries from physical activities. You can wear it during training, wear it to work, and even when you're working out! The breathable fabric makes it easy and comfortable to wear all day! Features and Benefits: Breathable non-slip fabric Easy and comfortable wear Highly-adjustable to your body size Made from high-quality materials Better posture Reduces the risks of injuries Boosts energy levels Better breathing Available in two types: SIZE CHART:
-  Updated: 2026-10-22T14:11:12Z
+  Updated: 2026-10-27T01:21:57Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
@@ -1715,7 +1715,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-posture-corrector-brace-30324103970980.jpg?v=1679498861
     Price: $35.00 USD
 - [Women's BJJ Rash Guard Kimeowra](https://www.xmartial.com/products/kimeowra-womens-bjj-rash-guard): Our Kimeowra Women's BJJ Rash Guard is inspired by the legendary double-joint arm lock, the perfect choice for women's jiu jitsu enthusiasts to their no gi bjj.
-  Updated: 2026-10-22T14:11:13Z
+  Updated: 2026-10-29T22:07:50Z
   Vendor: XMARTIAL
   Product Type: Women - Rash Guards
   Availability: Available
@@ -1769,14 +1769,14 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-kimeowra-women-s-bjj-rash-guard-1195487844.jpg?v=1759219596
     Price: $49.95 USD
 - [XMARTIAL BJJ Training Bag](https://www.xmartial.com/products/xmartial-training-bag): XMartial BJJ Training Bag: Elevate your gear game with convenience and style. Perfect for all Jiu-Jitsu levels. Compact, organized and a free mesh bag included.
-  Updated: 2026-10-22T14:11:13Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Free Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-xmartial-bjj-training-bag-45937756209316.png?v=1727210558
   Price: $49.95 USD
 - [Boxing Gloves Necklace](https://www.xmartial.com/products/boxing-gloves-necklace): Are you looking for the best accessory to give as a gift? The Boxing Gloves Necklace is a great option! It's made from high-quality materials that are designed for long-lasting wear. It's hypoallergenic, non-irritating, and perfect for sensitive skin. The materials used for the Boxing Gloves Necklace is designed to hold up well against moisture and heat. This piece is finished with a Shine Metal polish which brings out all the intricate details of the design. Features: Made from high-quality hypoallergenic materials. Pendant Size: 2.3*1.2cm Size1: 2.3*1.2cm for small one Size2: 2.8*1.3cm for big one Resistant to rust, oxidation, and discoloration Durable and scratch-resistant Perfect Martial Arts Gift for Karate, Judo, MMA, Taekwondo, or jiu jitsu student!
-  Updated: 2026-10-22T14:11:13Z
+  Updated: 2026-10-25T19:14:26Z
   Vendor: XMARTIAL
   Product Type: Accessories
   Availability: Available
@@ -1790,14 +1790,14 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-boxing-gloves-necklace-18193223614628.jpg?v=1679351975
     Price: $15.00 USD
 - [2 Pcs Training Boxing Mitts](https://www.xmartial.com/products/2-pcs-training-boxing-mitts): 2 Pcs Training Boxing Mitts will sharpen your skills and help you beat your opponent to the punch. Our best- 2 Pcs Training Boxing Mitts feature constructed focus pads that are tough, durable, and can withstand the heaviest of strikes! FEATURES: Made from premium quality PU & foam materials Includes 2 pieces kick pad per package Dense foam padding for maximum protection and shock absorption Lightweight and provides maximum comfort Contrast Stitching
-  Updated: 2026-10-22T14:11:14Z
+  Updated: 2026-10-25T19:14:30Z
   Vendor: XMARTIAL
   Product Type: Training & Coaching
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-2-pcs-training-muay-thai-pads-30460687253668.png?v=1679507324
   Price: $35.00 USD
 - [Fitness Sweat Sauna Suit](https://www.xmartial.com/products/fitness-sweat-sauna-suit): Fitness Sweat Sauna Suit is designed with hot silver radiation sweating technology, combined with lightweight fabric, that allows heat to be effectively reflected and with the same amount of exercise this sweatsuit accelerates sweating in a short time. FEATURES AND BENEFITS: Made with high-quality broadcloth polyester material Waterproof, sweat proof and windproof Reflecting and retaining body heat Close cuff design more effective to lock the heat. Hooded and reflective design Water proof zipper and pockets design can provide more convenience when exercising. Comfortable and stylish design will make you love exercise and the feeling of sweating. Fit for many occasions. SIZE CHART:
-  Updated: 2026-10-22T14:11:14Z
+  Updated: 2026-10-29T22:07:52Z
   Vendor: XMARTIAL
   Product Type: Gym Wear
   Availability: Available
@@ -1883,7 +1883,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-fitness-sweat-suit-30376325546148.jpg?v=1679496881
     Price: $75.00 USD
 - [Beast Workout Sleeveless Hoodie](https://www.xmartial.com/products/beast-workout-sleeveless-hoodie): Unleash the beast with the Beast Workout Sleeveless Hoodie. Lightweight, breathable, and built for high-intensity training. Get yours now and crush every session!
-  Updated: 2026-10-22T14:11:14Z
+  Updated: 2026-10-28T09:21:07Z
   Vendor: XMARTIAL
   Product Type: Gym Wear
   Availability: Available
@@ -2011,7 +2011,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-war-premium-bjj-spats-29926259556516.jpg?v=1679356486
     Price: $39.95 USD
 - [BJJ Rash Guard Grappler Rank](https://www.xmartial.com/products/grappler-rank-bjj-rash-guard): Elevate your grappling game with our unique Grappler Rank BJJ Rash Guards! Designed for grappling enthusiasts, these bjj rash guards offer the perfect blend of style & performance.
-  Updated: 2026-10-22T14:11:15Z
+  Updated: 2026-10-29T22:07:51Z
   Vendor: XMARTIAL
   Product Type: Men - Rash Guards
   Availability: Available
@@ -2217,7 +2217,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/files/xmartial-grappler-rank-bjj-rash-guard-1259549823.jpg?v=1790067172
     Price: $55.00 USD
 - [Heavy Carry Weighted Vest](https://www.xmartial.com/products/heavy-carry-weighted-vest): If you're looking for the best wearable weights for your BJJ training and workout sessions, you've found it. The Heavy Carry Weighted Vest is designed to train you for competitions. It adds more to every training and workout session. The Heavy Carry Weight BBJ Vest also provides protection from punches, kicks, and knee strikes. The sand weight is adjustable so you can gradually increase it. It is made from a high-density material that makes it comfortable to wear. Features and Benefits: Made from high-density durable thickening oxford fabric Designed with widening shoulder, with padded shoulders to reduce the stress on the shoulders and make them more comfortable Highly flexible compressed sponge interlining, for protection and shock absorption Ideal equipment for physical fitness, losing weight, and exercising agile
-  Updated: 2026-10-22T14:11:15Z
+  Updated: 2026-10-25T19:15:02Z
   Vendor: XMARTIAL
   Product Type: Home Workout Equipment
   Availability: Available
@@ -2231,7 +2231,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-heavy-carry-weight-bjj-vest-32167692271780.png?v=1679371228
     Price: $49.95 USD
 - [Wall Punching Muay Thai Pad](https://www.xmartial.com/products/wall-punching-muay-thai-pad): Wall Punching Muay Thai Pad is a distinctive wall boxing target made of durable, high-quality finely faux leather and PE foam. Easy to install, does not occupy much space, and can be fixed in any place. With a thickened center and high-density foam, it is perfect for boxing training, and taekwondo practice. Features and Benefits: Durable and Lightweight: Made of finely faux leather and PE foam, taekwondo pads can withstand strong punches and kicks. Great for daily training and easy transportation. Padded Protection: The Wall Punch Pad can ensure full protection and shock absorption with dense foam padding and is suitable for gym training, also good for home use which can improve your health. The sewing is solid and durable, withstands a long time of use, you can use it to release pressure. ERGONOMIC DESIGN: Easy to install with holes for fixing on the wall, the surface is sleek and easy to clean, practical to use. Available in two sizes: Medium: 30x30x10cm Large: 40x40x10cm
-  Updated: 2026-10-22T14:11:15Z
+  Updated: 2026-10-25T19:15:06Z
   Vendor: XMARTIAL
   Product Type: Training & Coaching
   Availability: Available
@@ -2253,14 +2253,14 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-wall-punching-muay-thai-pad-30384178921636.jpg?v=1679494356
     Price: $35.00 USD
 - [Shoulder Brace BJJ Pad](https://www.xmartial.com/products/shoulder-brace-bjj-pad): The Shoulder Brace BJJ Pad is a sling-like device designed to support and strengthen your shoulder. Shoulder braces are not for day-to-day use, but rather for individuals who have experienced a shoulder injury. This shoulder brace can be used to recover your shoulder quickly and avoid further damage. Unlike a basic sling, shoulder braces provide stronger, more reliable support. Features & Benefits: The shoulder brace is made from neoprene with incredible breathability benefits. It can be fully adjusted to vary the amount of tension required to suit the user. It allows for dual adjustment of both the upper arm and main strap. It includes compartmental space for cold or hot packs. Moisture control technology helps to keep you cool The shoulder support strap has an ergonomic design, easy-to-wear support, and perfectly covers your shoulder with gentle compression. Well-made shoulder brace that provides protection against tensions, sprains, dislocated shoulders, or unstable shoulders of any kind and is well-suited for badminton, basketball, weightlifting, tennis, and volleyball sports injuries.
-  Updated: 2026-10-22T14:11:16Z
+  Updated: 2026-10-25T19:15:06Z
   Vendor: XMARTIAL
   Product Type: Protectives
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-shoulder-brace-bjj-pad-29956713054372.jpg?v=1746091603
   Price: $19.95 USD
 - [Hillbilly Compression Shorts on  up to 60% Off](https://www.xmartial.com/products/hillbilly-vale-tudo-shorts): Let your inner fighter be released with our Hillbilly Compression Shorts. Made to give you comfort and strength, this bad boys are a must to have for your MMA and Jiu-jitsu needs.
-  Updated: 2026-10-22T14:11:16Z
+  Updated: 2026-10-25T19:15:07Z
   Vendor: XMARTIAL
   Product Type: Men - Shorts
   Availability: Available
@@ -2298,7 +2298,7 @@
     Image: https://cdn.shopify.com/s/files/1/2036/0199/products/xmartial-hillbilly-bjj-mma-vale-tudo-shorts-35345636032676.jpg?v=1723732120
     Price: $49.95 USD
 - [3 Level Power Resistance Bands](https://www.xmartial.com/products/3-level-power-resistance-bands): In BJJ, mobility and flexibility are important factors. This is why training with our 3-Level Power Resistance Bands are a must for every workout. These best- resistance bands add extra tension to your workout. Each band has its own resistance levels so you can upgrade resistance as you go. Our 3-Level Power Resistance Bands are the perfect addition to your workout drills and sets. You'll notice the difference in your performance on the mat. FEATURES AND BENEFITS: Made from a mixture of high-quality Polyester and latex silk that are soft, hypoallergenic, and won't slide up and down while you workout The bands feature soft-knitted surfaces that won't irritate or rub against your skin. Comes with a carry bag so you can take these bands with you anywhere Elastic, durable, and abrasion-resistant. You can use them repeatedly every day without wearing them down The perfect BJJ equipment to help you get tight and toned Helps boost your metabolic rate Comes in different colors and resistance levels. NOTE: Shipping for this item is limited to countries outside the USA.
-  Updated: 2026-10-22T14:11:17Z
+  Updated: 2026-10-28T09:21:08Z
   Vendor: XMARTIAL
   Product Type: Home Workout Equipment
   Availability: Available
@@ -2320,154 +2320,154 @@
 ## Collections
 
 - [Shop BJJ Rash Guards](https://www.xmartial.com/collections/rash-guards): Shop BJJ rash guards trusted by 100K+ grapplers. Anti-slip compression, Bold designs built for No-Gi, ranked, and competition training. Free returns. Train harder—roll in style.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 422
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 428
 - [BJJ Spats](https://www.xmartial.com/collections/spats): Shop 70+ BJJ spats for men, women & kids. Antimicrobial, sweat-wicking grappling tights built for No-Gi, MMA & grappling. From $29.95 at XMartial.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 114
 - [Shop Women's BJJ Rash Guards](https://www.xmartial.com/collections/women): Shop women’s BJJ rash guards built for no-gi training and MMA. Lightweight, durable, and athlete-tested gear trusted by 100K+ grapplers worldwide.
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 82
 - [Accessories](https://www.xmartial.com/collections/accessories): Look your best with our top rated and unique accessories on  up to 60% OFF while supply lasts. Buy now and save!
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 27
 - [New Drops](https://www.xmartial.com/collections/new-arrival): Get your top quality NoGi BJJ apparel from rash guards, spats, shorts, t-shirts and more. Shop now and save up to 55% on all BJJ gear.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 379
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 394
 - [Kids](https://www.xmartial.com/collections/kids): Buy your top quality NoGi BJJ gear for Kids today. From rash guards, spats, shorts, t-shirts, recovery equipment​ and more. Shop and Save Big on all BJJ gear.
-  Updated: 2026-10-21T11:03:03Z
-  Total Products: 258
+  Updated: 2026-10-29T11:01:25Z
+  Total Products: 259
 - [Men](https://www.xmartial.com/collections/men): Look your best on the mat with our top rated and unique BJJ & MMA gear for men. Shop your favorite rash guard, shorts, t-shirts and more. Buy and save NOW!
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 1642
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 1657
 - [Muay Thai Shorts](https://www.xmartial.com/collections/muay-thai-shorts): Shop authentic Muay Thai shorts crafted for power, flexibility, and Thai heritage. Lightweight, fighter-tested, and trusted by top gyms worldwide.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 162
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 163
 - [Muay Thai Gloves](https://www.xmartial.com/collections/muay-thai-gloves): Get the ultimate Muay Thai gloves. Perfect for fighters of all skill levels with style while performing at your best. Buy and Save Now!
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 21
 - [Sparring Gear](https://www.xmartial.com/collections/sparring-gear): Buy your sparring gear for Muay Thai, Boxing, and BJJ for up to 60% off. We offer the best protective gear made of the finest materials, as well as gloves and pads. Customer satisfaction .
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 89
 - [Muay Thai](https://www.xmartial.com/collections/muay-thai): Save up to 60% now on Muay Thai Gear XMartial has got you covered. With our durable and comfortable equipment, you can train safely with confidence. Shop now!
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 358
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 359
 - [Protectives](https://www.xmartial.com/collections/protectives): Train like a pro with XMartial's advanced protective gear. Our gear is designed to keep you safe & help you perform your best. Check out our collections today!
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 88
 - [Custom Gear](https://www.xmartial.com/collections/custom-gear): Buy custom BJJ rash guards, custom MMA shorts, and custom gloves from the home of MMA gear premier brand. We offer wholesale prices for large quantities. Contact us today for quotation.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 17
 - [Newest Products](https://www.xmartial.com/collections/newest-products): Browse XMartial's Newest collection of BJJ Rash Guards, BJJ Gear and MMA Shorts, Muay Thai Shorts and Gloves at up to 60% Sales today.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 2629
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 2646
 - [Training Equipment](https://www.xmartial.com/collections/training-equipment): XMartial's premium BJJ and Muay thai training equipment. From gloves to mats, elevate your performance and dominate the competition.
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 227
 - [BJJ Shorts](https://www.xmartial.com/collections/shorts): Shop premium BJJ shorts engineered for no-gi grappling and MMA. Lightweight, durable, and athlete-tested for speed, mobility, and maximum comfort.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 297
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 304
 - [BJJ Gear](https://www.xmartial.com/collections/bjj): We offer you all you need for No-Gi BJJ and grappling, including BJJ rash guards, spats, and BJJ shorts. 100% customer satisfaction or you’ll get your money back. Top-quality BJJ equipment with the most unique designs on the market.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 1227
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 1242
 - [Muay Thai Gear](https://www.xmartial.com/collections/muay-thai-gear): XMARTIAL offers the best of Muay Thai Shorts and Muay Thai Gloves at up to 60% . With one year warranty and 100% money back guarantee, you can shop confidently. Check out our Muay Thai ropes collection as well as Muay Thai training equipments to optimize your training sessions.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 218
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 219
 - [Muay Thai Shin Guards](https://www.xmartial.com/collections/muay-thai-shin-guards): Buy now online MMA and Muay Thai Shin Guards, and save up to 60% off the price. One year warranty for all Martial Arts Shin Guards in different sizes and designs for men, women, and kids.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 14
 - [Muay Thai Bundles (Best Deals)](https://www.xmartial.com/collections/muay-thai-bundles): Buy Muay Thai Bundles from #1 Rated Fight Shop in North America. Offering some of the best design and quality Men and Women Muay Thai collection of Shorts, Gloves and protectives at up to 60% Sales today
   Updated: 2026-10-15T03:51:13Z
   Total Products: 10
 - [Boxing Mouth Guard](https://www.xmartial.com/collections/boxing-mouth-guard): Protect yourself with our Boxing Mouth Guards. Prevents brain damage, cuts, and broken teeth. Best mouth guards for boxing, Muay Thai, Striking, and BJJ. Buy now and get a 1-year warranty.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 10
 - [Muay Thai Pads](https://www.xmartial.com/collections/muay-thai-pads): Buy your Muay Thai Pads now and enjoy our limited discounts. We offer the best Muay Thai Pads on the market for amazing prices. All Pads come with a one-year warranty, and 100% customer satisfaction.
   Updated: 2026-10-20T11:01:14Z
   Total Products: 8
 - [Streetwear](https://www.xmartial.com/collections/streetwear): Buy Streetwear and Lifestyle clothing from the Best MMA brand in North America. Buy best of class T shirts, Hoodies, Shoes and Pants up to 60% Sales today.
-  Updated: 2026-10-22T11:03:29Z
-  Total Products: 537
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 539
 - [Gloves](https://www.xmartial.com/collections/gloves): XMARTIAL MMA Gloves is design for MMA sparring and Grappling. Our gloves is made for performance and style to help you get the best out of your training sessions. Our MMA Gloves are on  Today
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 22
 - [All Products](https://www.xmartial.com/collections/all-products): Browse the collection of all XMartial BJJ Rash Guards, BJJ Gear and MMA Shorts, Muay Thai Shorts and Gloves at up to 60% Sales today.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 1480
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 1494
 - [Spats Shorts](https://www.xmartial.com/collections/spats-shorts): XMartial Spat Shorts are a game-changer for serious BJJ and MMA athletes. Experience unparalleled comfort, support amazing designs during your workouts.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 88
 - [BJJ Gi](https://www.xmartial.com/collections/bjj-gi): Shop high-quality BJJ Gi at XMartial – up to 60% OFF! Designed for peak performance, comfort & durability. Trusted by top BJJ and MMA athletes worldwide. Find your perfect fit today.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 10
 - [Gym Wear](https://www.xmartial.com/collections/gym-wear): Train in style with XMartial's trendy gym wear. Our collection is designed to make you feel confident and comfortable during your workouts. Shop now and unleash your potential.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-27T11:01:39Z
   Total Products: 142
 - [Less than $35](https://www.xmartial.com/collections/less-than-35): Shop on  XMartial Fight Gear under $35. Find high-quality martial arts gear, clothing, and accessories. Limited-time offer. Buy now and save!
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 56
 - [Strength and Conditioning](https://www.xmartial.com/collections/strength-and-conditioning): XMartial's strength and conditioning gear helps you train harder and smarter. Find quality equipment for any workout. Shop now and reach your fitness goals!
-  Updated: 2026-10-15T11:01:26Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 73
 - [Training & Coaching](https://www.xmartial.com/collections/training-coaching)
-  Updated: 2026-10-20T11:01:14Z
+  Updated: 2026-10-27T17:11:48Z
   Total Products: 25
 - [XMARTIAL](https://www.xmartial.com/collections/xmartial)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 82
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 83
 - [Jiu Jitsu Shirts & Hoodies](https://www.xmartial.com/collections/jiu-jitsu-shirts-hoodies): Buy Best Jiu Jitsu Shirts & Hoodies collection made from high quality materials for maximum comfort & durability. Shop with XMartial and Save Big Today with 1 year Warranty!
-  Updated: 2026-10-21T11:03:03Z
-  Total Products: 192
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 194
 - [Muay Thai Shirts & Hoodies](https://www.xmartial.com/collections/muay-thai-shirts-hoodies): Buy Best Muay Thai Shirts & Hoodies collection made from high quality materials for maximum comfort & durability. Shop and Save Big Today with 1 year Warranty!
-  Updated: 2026-10-16T11:01:34Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 78
 - [XMartial Drip and Streetwear](https://www.xmartial.com/collections/xmartial-drip): Make a statement with XMartial's stylish and comfortable streetwear. XMartial Drip collections features standout designs for the martial arts enthusiasts. Shop Now!
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-24T11:01:30Z
   Total Products: 164
 - [Halloween](https://www.xmartial.com/collections/halloween)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 39
 - [Gift Package](https://www.xmartial.com/collections/gift-package)
   Updated: 2026-07-10T13:12:56Z
   Total Products: 0
 - [Holiday](https://www.xmartial.com/collections/holiday)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 90
 - [Footwear](https://www.xmartial.com/collections/footwear)
   Updated: 2026-09-09T07:46:25Z
   Total Products: 40
 - [MMA Shorts](https://www.xmartial.com/collections/mma-shorts): MMA shorts designed for ultimate performance. Browse our range of durable and stylish Fight shorts NOW! XMartial is rated best brand by top MMA & BJJ athletes.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 380
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 381
 - [BJJ Ranked](https://www.xmartial.com/collections/bjj-ranked)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 115
 - [MMA](https://www.xmartial.com/collections/mma): Save up to 60% and take your MMA training to new heights with the best XMartial's MMA gear. Our gear is designed for maximum comfort and protection to help you perform at your best!
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 1641
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 1657
 - [Limitless](https://www.xmartial.com/collections/limitless)
-  Updated: 2026-10-14T11:01:32Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 15
 - [Bags](https://www.xmartial.com/collections/bags)
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 18
 - [Pre ](https://www.xmartial.com/collections/pre-)
   Updated: 2026-10-22T11:03:30Z
   Total Products: 1
 - [Instructionals](https://www.xmartial.com/collections/programs)
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 18
 - [Animal & Camo Print](https://www.xmartial.com/collections/animal-camo-print)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 199
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 200
 - [Collaborations](https://www.xmartial.com/collections/collaborations)
-  Updated: 2026-10-20T11:01:14Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 69
 - [Black Friday BJJ Gear Deals — 2025](https://www.xmartial.com/collections/black-friday-bjj-gear-deals): Shop the biggest Black Friday BJJ  of 2025. Premium rash guards, no-gi shorts, spats, and exclusive drops. Limited stock, global shipping.
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 41
 - [](https://www.xmartial.com/collections/)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 24
 - [Valentines](https://www.xmartial.com/collections/valentines)
   Updated: 2026-07-10T13:12:57Z
@@ -2476,19 +2476,19 @@
   Updated: 2026-07-10T13:24:41Z
   Total Products: 2
 - [Wrestling Singlets](https://www.xmartial.com/collections/wrestling-singlets): Shop premium wrestling singlets for NFHS, NCAA & UWW competition. Four-way stretch, flatlock seams, moisture-wicking. Custom team singlets available
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 59
 - [Mandatory Fees](https://www.xmartial.com/collections/mandatory-fees)
   Updated: 2026-07-10T13:12:57Z
   Total Products: 0
 - [BLACK-BELT CHAD 'THE DAD' MYERS](https://www.xmartial.com/collections/black-belt-chad-the-dad-myers)
-  Updated: 2026-10-19T11:01:32Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 5
 - [Flow State Cobrand](https://www.xmartial.com/collections/flow-state-cobrand)
   Updated: 2026-10-12T05:08:55Z
   Total Products: 2
 - [XMartial Fight Kit](https://www.xmartial.com/collections/xmartial-fight-kit)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 138
 - [BJJ After 40](https://www.xmartial.com/collections/bjj-after-40)
   Updated: 2026-09-24T11:01:22Z
@@ -2497,7 +2497,7 @@
   Updated: 2026-10-08T08:15:35Z
   Total Products: 7
 - [Anime](https://www.xmartial.com/collections/anime): Anime BJJ on  from the home of No Gi BJJ Gear. Combine your passion for martial arts and anime with our stylish and high-performance anime rash guards and anime shorts. Dominate the mats in style!
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 34
 - [Anime Streetwear](https://www.xmartial.com/collections/anime-streetwear)
   Updated: 2026-09-05T11:01:23Z
@@ -2506,25 +2506,25 @@
   Updated: 2026-10-08T11:01:33Z
   Total Products: 19
 - [Men BJJ Rash Guards](https://www.xmartial.com/collections/men-bjj-rash-guard): Grab premium-quality men's Jiu Jitsu rash guards at unbeatable prices. Shop now and elevate your game with XMartial Men BJJ Rash Guard!
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 270
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 276
 - [Kids BJJ Rash Guards](https://www.xmartial.com/collections/kids-bjj-rash-guard): Shop top-rated kids BJJ rash guards and save up to 60%! Explore kids Jiu Jitsu rash guards from the home of #1 rated BJJ gear.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 66
 - [Ranked BJJ Rash Guard](https://www.xmartial.com/collections/ranked-bjj-rash-guard)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 44
 - [Men Wrestling Singlets](https://www.xmartial.com/collections/men-wrestling-singlets): Dominate the Mat with Men's Wrestling Singlets. Step onto the mat with confidence in our top-quality mens wrestling singlets. Read More Designed for unbeatable comfort and durability, these singlets ensure peak performance at every level. Whether you're wrestling at the gym or competing on the big stage, our collection offers the perfect fit to keep you focused on winning. Upgrade your gear and experience the difference today! .collapsible { background-color: #f6f6f8; color: #000000; cursor: pointer; padding: 18px; width: 120px; border: none; text-align: center; outline: none; font-size: 15px; } .content { padding: 0 18px; display: none; overflow: hidden; text-align: left; background-color: #000000; color: #ffffff; } var coll = document.getElementsByClassName("collapsible"); var i; for (i = 0; i < coll.length; i++) { coll[i].addEventListener("click", function() { this.classList.toggle("active"); var content = this.nextElementSibling; if (content.style.display === "block") { content.style.display = "none"; } else { content.style.display = "block"; } }); }
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 26
 - [Youth Wrestling Singlets](https://www.xmartial.com/collections/youth-wrestling-singlets): Gear Up Young Champs with XMartial. Youth wrestling singlets are more than just gear Read More They’re the first step in building confidence and skills on the mat. Designed for durability, comfort, and style, our youth wrestling singlets provide a perfect fit for every young athlete. Whether it’s for practice or competition, give them the edge they need to perform their best. Explore our collection of wrestling singlets today and help them wrestle like a pro!
   Updated: 2026-09-23T11:01:14Z
   Total Products: 14
 - [Women's Wrestling Singlets](https://www.xmartial.com/collections/womens-wrestling-singlets): Elevate Your Game with Women’s Wrestling Singlets. Take on the mat in style and comfort with our premium womens wrestling singlets. Read More Engineered for performance, these singlets are designed to fit and move flawlessly, giving you the edge you need. Whether you’re competing or training, our singlets collection guarantees durability and confidence. Gear up today and make every match your best yet! .collapsible { background-color: #f6f6f8; color: #000000; cursor: pointer; padding: 18px; width: 120px; border: none; text-align: center; outline: none; font-size: 15px; } .content { padding: 0 18px; display: none; overflow: hidden; text-align: left; background-color: #000000; color: #ffffff; } var coll = document.getElementsByClassName("collapsible"); var i; for (i = 0; i < coll.length; i++) { coll[i].addEventListener("click", function() { this.classList.toggle("active"); var content = this.nextElementSibling; if (content.style.display === "block") { content.style.display = "none"; } else { content.style.display = "block"; } }); }
-  Updated: 2026-10-10T11:01:33Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 19
 - [Anime Rash Guards](https://www.xmartial.com/collections/anime-rash-guards): Premium Anime Rash Guards for BJJ Unleash your inner fighter with anime rash guards that bring manga energy to the mats. Whether you’re into heroic takedowns or villain-level escapes, XMartial’s rashguard BJJ anime collection is made for grapplers who roll with style. Each design channels high-intensity visuals and Jiu Jitsu-ready functions, so you can train like a beast while repping your favorite anime themes. Our rash guards don’t just turn heads—they survive sweat, scrambles, and sparring like champs. Main Features: Moisture-wicking fabric to keep you cool & dry High-density flat-lock stitching for clean durability Four-needle seams for maximum strength Gel panel at the waist for grip and comfort Compression fit designed for movement, support, and flair Original anime-inspired prints you won’t find anywhere else
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 6
 - [Christmas Rash Guard](https://www.xmartial.com/collections/christmas-rash-guards): Get into the holiday spirit with Christmas rash guard. Our unique designs combine the joy of the season with the thrill of martial arts.
   Updated: 2026-07-10T13:12:59Z
@@ -2533,40 +2533,40 @@
   Updated: 2026-07-10T13:12:59Z
   Total Products: 0
 - [Jiu Jitsu Hoodie](https://www.xmartial.com/collections/jiu-jitsu-hoodie): Shop premium jiu jitsu hoodies with 1-year warranty. BJJ hoodies built for grapplers — zip-up and pullover styles. Custom team designs available.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 65
 - [Muay Thai Hoodies](https://www.xmartial.com/collections/muay-thai-hoodie): Shop premium Muay Thai hoodies with 1-year warranty. Traditional Thai motifs, modern cuts. Zip-up and pullover styles.
-  Updated: 2026-10-15T11:01:26Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 49
 - [Jiu Jitsu Shirts](https://www.xmartial.com/collections/jiu-jitsu-shirts): Shop BJJ shirts & jiu jitsu t-shirts for grapplers. Funny designs, classic prints, premium cotton. Custom team shirts available.
-  Updated: 2026-10-20T07:57:51Z
-  Total Products: 127
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 129
 - [Black Compression Shirts](https://www.xmartial.com/collections/black-compression-shirt): Our black compression shirts are crafted for serious athletes—whether you’re crushing a sparring session, pushing limits in the gym, or rolling into a BJJ match. Power through every workout with gear that moves with you. Designed for peak performance, this collection balances muscle support with breathable comfort so you can focus on what matters: training harder and recovering smarter. Upgrade your rash guards and experience the ultimate in compression technology with XMartial today! Main Features: Moisture-wicking fabric to keep cool & dry High density flat-lock stitching Four needle stitching for maximum strength Gel panel for extra grip and comfort
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 95
 - [Muay Thai Shirts](https://www.xmartial.com/collections/muay-thai-shirts): Gear up with XMartial Muay Thai shirts and dominate every training session! Crafted from premium, breathable fabrics, these shirts ensure maximum comfort and flexibility, allowing you to move freely and strike with power.
-  Updated: 2026-10-20T07:57:44Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 94
 - [Recovery Tools](https://www.xmartial.com/collections/recovery-tools)
   Updated: 2026-07-10T13:23:31Z
   Total Products: 30
 - [All Women](https://www.xmartial.com/collections/all-women)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 370
 - [Muay Thai Headgear](https://www.xmartial.com/collections/muay-thai-headgear): Protect your crown with XMartial Muay Thai headgear! Read More Engineered for warriors who demand both safety and style, our headgear offers unparalleled protection without sacrificing comfort. Crafted from high-quality, lightweight materials, Muay Thai headgear ensures maximum cushioning and visibility, allowing you to train and compete with confidence. Pair it with our premium Muay Thai gloves and shin guards for full-body protection that keeps you ready for every kick, punch, and round in the ring. Train smart, stay safe, and dominate with XMartial!
   Updated: 2026-09-23T11:01:15Z
   Total Products: 6
 - [Muay Thai Handwraps](https://www.xmartial.com/collections/muay-thai-handwraps): XMartial Muay Thai hand wraps offer superior support and durability for every strike. Read More Crafted from premium materials, these wraps ensure your hands stay secure and comfortable during intense training sessions or fierce competitions. Whether you're a beginner or a seasoned fighter, XMartial Muay Thai hand wraps provide the perfect balance of flexibility and strength. Gear up with XMartial Muay Thai Gloves and Hand Wraps to protect your fists like a true champion!
-  Updated: 2026-10-19T11:01:32Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 6
 - [MMA Sparring Gloves](https://www.xmartial.com/collections/mma-sparring-gloves): Dominate Every Round with XMartial MMA Sparring Gloves! Read More Engineered for champions, our MMA sparring gloves deliver unmatched protection and performance. Crafted from premium, durable materials, these gloves offer superior wrist support and optimal padding to safeguard your strikes and blocks. Complete your protection with our MMA mouthguard, designed to shield your teeth and jaw during intense training or high-stakes matches. Whether you’re training for the next big fight or honing your skills on the mats, XMartial’s gear ensures you stay safe and focused on unleashing your full potential!
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 19
 - [MMA Shin Guards](https://www.xmartial.com/collections/mma-shin-guards): Our MMA shin guards are built for fighters who need superior protection without sacrificing movement. Crafted from lightweight, high-quality materials, each shin guard MMA design offers exceptional durability and flexibility, allowing you to push through the most intense sparring and training sessions. Whether you’re drilling takedowns, throwing leg kicks, or defending against them, these shin guards for MMA keep you protected from every impact. Main Features: Reinforced padding for maximum shock absorption Lightweight build for speed and agility Adjustable straps for a secure, custom fit Breathable inner lining for comfort during long sessions Available in  and kids MMA shin guards
   Updated: 2026-09-08T11:01:44Z
   Total Products: 14
 - [MMA Mouth Guard](https://www.xmartial.com/collections/mma-mouth-guard): Guard Your Victory with XMartial MMA Mouth Guards! Read More Whether you're stepping into the cage or training on the mats, our MMA mouth guard is essential for every fighter. Crafted from premium, BPA-free materials, these mouth guards offer superior protection and comfort, ensuring you stay focused and fearless during every strike. Pair it with our MMA headgear for complete safety, shielding both your head and smile from impact while maintaining visibility and comfort. Designed for durability and a perfect fit, XMartial MMA mouth guards and MMA headgear help prevent injuries without compromising your performance. Elevate your combat gear with XMartial and fight with confidence, knowing your smile—and your head—are as protected as your skills!
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 10
 - [MMA Shirts](https://www.xmartial.com/collections/mma-shirts): Fight in Style with XMartial MMA Shirts!. Read More Whether you’re gearing up for a high-octane sparring session or showcasing your passion outside the cage, our MMA shirts deliver both performance and flair. Crafted from premium, breathable fabrics, these shirts ensure maximum comfort and durability, allowing you to train hard and look fierce. Pair your shirt with a rash guard for enhanced protection and style during intense training sessions. With bold designs that reflect the warrior spirit, XMartial MMA shirts are perfect for fighters who demand excellence in every aspect. Elevate your wardrobe and dominate both your workouts and your style game with XMartial today!
   Updated: 2026-08-20T11:01:29Z
@@ -2578,7 +2578,7 @@
   Updated: 2026-09-23T11:01:15Z
   Total Products: 6
 - [MMA Boxing Gloves](https://www.xmartial.com/collections/mma-boxing-gloves)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 21
 - [Grappling Dummy](https://www.xmartial.com/collections/grappling-dummy): Elevate your skills with our versatile grappling dummy, perfect for practicing submissions, throws, and transitions.
   Updated: 2026-10-15T11:01:26Z
@@ -2587,16 +2587,16 @@
   Updated: 2026-09-26T11:01:32Z
   Total Products: 11
 - [MMA Knee Pads](https://www.xmartial.com/collections/mma-knee-pads): XMartial MMA knee pads provide unmatched protection and support. Read More Crafted from high-performance materials, these pads ensure durability and flexibility, allowing you to train harder and longer without discomfort. Pair them with MMA shorts for a complete training setup that combines comfort, style, and functionality. Designed for fighters who demand excellence, XMartial MMA knee pads blend superior craftsmanship with sleek, warrior-inspired aesthetics. Elevate your training gear and safeguard your knees with the best in the game. Train smart, fight strong, and conquer every session with XMartial by your side!
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-28T11:01:26Z
   Total Products: 20
 - [MMA Rash Guard](https://www.xmartial.com/collections/mma-rash-guard): Our MMA rash guards are built for fighters who demand performance, protection, and style. Each piece is crafted to guard against mat burn, keep muscles warm, and move with your body through every roll, strike, and scramble. Whether you’re in training camp, competing, or just working technique, an MMA rash guard from XMartial gives you the confidence to train harder and fight smarter. Main Features: Compression fit to improve circulation and recovery Breathable, quick-dry fabric to keep you cool under pressure Reinforced stitching for durability during intense rolls Smooth, anti-chafe seams for all-day comfort Striking XMartial graphics to help you stand out on the mats
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 422
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 428
 - [MMA Hoodie](https://www.xmartial.com/collections/mma-hoodie)
   Updated: 2026-07-10T13:13:00Z
   Total Products: 0
 - [Casually Dangerous](https://www.xmartial.com/collections/casually-dangerous)
-  Updated: 2026-07-10T15:26:33Z
+  Updated: 2026-10-27T11:01:39Z
   Total Products: 8
 - [Daily Wear](https://www.xmartial.com/collections/daily-wear)
   Updated: 2026-07-10T13:13:00Z
@@ -2614,7 +2614,7 @@
   Updated: 2026-07-10T13:13:01Z
   Total Products: 3
 - [Wrestling Knee Pads](https://www.xmartial.com/collections/wrestling-knee-pads): Shop wrestling knee pads for training and competition. Shock-absorbing padding, breathable fabric, NFHS/NCAA legal.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-28T11:01:26Z
   Total Products: 18
 - [Muay Thai Gloves and Shin Guards](https://www.xmartial.com/collections/muay-thai-gloves-and-shin-guards): Gear up like a champion with XMartial Muay Thai gloves and Shin guards! Whether you're training for your first bout or perfecting your technique, our gloves, shin guards, and headgear are designed to provide superior protection and unmatched performance. Crafted from premium materials, they ensure durability, comfort, and flexibility, allowing you to strike, block, and defend with confidence. Embrace the warrior spirit with XMartial—where quality meets excellence. Equip yourself with the best Muay Thai gear bundle, featuring gloves and shin guards, and complete your setup with our Muay Thai headgear for full-body protection. Dominate every session with XMartial's top-tier Muay Thai gear!
   Updated: 2026-10-15T03:51:13Z
@@ -2623,7 +2623,7 @@
   Updated: 2026-07-10T13:13:01Z
   Total Products: 33
 - [Women's Spats Shorts](https://www.xmartial.com/collections/womens-spats-shorts): Unleash Your Potential with Women’s Spats Shorts Read More Stay confident and comfortable with premium women’s spats shorts. Designed for performance and style, these women’s compression shorts provide unmatched flexibility and support for training, grappling, or any active lifestyle. Whether you’re pushing limits in the gym or dominating the mat, these spats shorts have got you covered. Shop now for the ultimate fit and function! .collapsible1 { background-color: #f6f6f8; color: #000000; cursor: pointer; padding: 18px; width: 120px; border: none; text-align: center; outline: none; font-size: 15px; } .content { padding: 0 18px; display: none; overflow: hidden; text-align: left; background-color: #000000; color: #ffffff; } var coll = document.getElementsByClassName("collapsible1"); var i; for (i = 0; i < coll.length; i++) { coll[i].addEventListener("click", function() { this.classList.toggle("active"); var content = this.nextElementSibling; if (content.style.display === "block") { content.style.display = "none"; } else { content.style.display = "block"; } }); }
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 60
 - [Muay Thai Cup](https://www.xmartial.com/collections/muay-thai-cup): Enter the XMartial Muay Thai Cup—your new secret  for ultimate protection and peace of mind. Read More Crafted from high-impact, lightweight materials, our cups offer unparalleled durability without sacrificing mobility. Whether you’re sparring in the gym or competing in the ring, the Muay Thai Cup ensures you stay protected and focused on your game. Designed with the fighter’s anatomy in mind, it provides a snug, comfortable fit that moves seamlessly with every strike. Say goodbye to gear mishaps and hello to confident, uninterrupted training sessions. Equip yourself with XMartial Muay Thai Cup and train with your Muay Thai Shorts like the warrior you are—safe, secure, and unstoppable!
   Updated: 2026-09-26T11:01:32Z
@@ -2635,40 +2635,40 @@
   Updated: 2026-10-15T11:01:26Z
   Total Products: 8
 - [Exclusive Handpicked Items – Buy More, Save More!](https://www.xmartial.com/collections/blowout-): Use code B10 for 10% off 1 item, or B20 for 20% off when you buy 2 or more. Don’t miss out on these limited-time savings!
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 18
 - [Compression Shirts](https://www.xmartial.com/collections/compression-shirts): Our compression shirts are designed for strength, speed, and recovery. Level up your gear with our high-performance gear. Whether you’re crushing a heavy set, sprinting laps, or sparring on the mat, these compression shirts move with you—offering muscle support, improved circulation, and total comfort. Made to feel like a second skin, each shirt helps regulate body temperature so you stay focused and dry through every rep. Pair it with our high-quality compression shorts to experience the ultimate blend of style, durability, and functionality. Main Features: Moisture-wicking fabric to keep cool & dry High-density flat-lock stitching for durability Four-needle stitching for maximum strength Gel panel for extra grip and comfort
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 157
 - [White Compression Shirt](https://www.xmartial.com/collections/white-compression-shirt): Looking for a versatile performance layer? Our white compression shirt is your answer. Read More Perfect for workouts, layering, or even casual wear, this compression white shirt offers superior comfort and support. The clean, classic white design looks great on everyone. Experience the difference a quality white compression shirt makes. Shop now! Feel the difference. Pair your gear with our spats for the ultimate blend of style, support, and performance.
-  Updated: 2026-09-24T11:01:22Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 15
 - [Compression Shirt Women](https://www.xmartial.com/collections/compression-shirt-women): Elevate your workouts with our high-performance compression shirt women. Designed for optimal support and comfort, these shirts enhance your performance and aid in recovery.
   Updated: 2026-09-11T11:01:21Z
   Total Products: 32
 - [Long sleeve Compression Shirt](https://www.xmartial.com/collections/long-sleeve-compression-shirt): Maximize your performance and comfort with our premium long sleeve compression shirt. Perfect for layering or wearing on its own, this shirt provides support and flexibility for any activity.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 77
 - [Tops](https://www.xmartial.com/collections/tops)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 543
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 549
 - [Bottoms](https://www.xmartial.com/collections/bottoms)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 321
 - [Boxing Shorts](https://www.xmartial.com/collections/boxing-shorts)
   Updated: 2026-07-10T13:13:02Z
   Total Products: 0
 - [Camo Shorts](https://www.xmartial.com/collections/camo-shorts): Embrace the active lifestyle with our stylish and comfortable camo shorts. Read More Perfect for any adventure, our camouflage shorts offer a rugged look and a comfortable fit. Whether you're training, working out, or just hanging out, our camo shorts are the perfect choice.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 56
 - [Camo Sweat Shorts](https://www.xmartial.com/collections/camo-sweat-shorts): Make a statement on and off the mats with XMartial’s camo sweat shorts—your new go-to for training, lounging, or leveling up your casual fits.
   Updated: 2026-07-10T15:26:28Z
   Total Products: 12
 - [Camo Shorts Men](https://www.xmartial.com/collections/camo-shorts-men)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 31
 - [Camo Shorts Women](https://www.xmartial.com/collections/camo-shorts-women)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-24T11:01:30Z
   Total Products: 15
 - [Men's Hoochie Daddy Shorts](https://www.xmartial.com/collections/hoochie-daddy-shorts): Premium hoochie daddy shorts in 38+ styles. Athletic 2.5"-5" inseam, breathable fabric for training & streetwear. Free shipping over $50.
   Updated: 2026-10-22T11:03:29Z
@@ -2677,10 +2677,10 @@
   Updated: 2026-08-03T11:01:33Z
   Total Products: 23
 - [Wrestling Mouthguard](https://www.xmartial.com/collections/wrestling-mouthguard): At XMartial, we understand that a wrestling mouthguard is essential for every grappler's safety. Read More Our mouthguards are designed to provide superior protection and comfort, allowing you to focus on your performance without distraction. Crafted from high-quality materials, they ensure a secure fit and durability, making them a reliable choice for both training and competition. Elevate your wrestling gear with XMartial's mouthguards, where safety meets style. Pair them with our premium wrestling headgear for complete protection on the mat. Join the community of athletes who trust XMartial for their combat sport needs. Don't compromise on protection—choose XMartial and wrestle with confidence.
-  Updated: 2026-10-21T11:03:03Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 10
 - [Camo Hoodie](https://www.xmartial.com/collections/camo-hoodie): Stay stylish and cozy with our premium camo hoodie collection. Read More Perfect for any season, these camouflage hoodies combine bold design with unmatched comfort. Whether you need a lightweight layer like our light camo hoodie or a standout camouflage hoodie for cooler days, we’ve got you covered. Pair them with our camo shorts for the ultimate rugged and stylish look. Elevate your streetwear game and grab your favorite today—crafted to fit your lifestyle with rugged charm and everyday versatility. .collapsible { background-color: #f6f6f8; color: #000000; cursor: pointer; padding: 18px; width: 120px; border: none; text-align: left; outline: none; font-size: 15px; } .content { padding: 0 18px; display: none; overflow: hidden; text-align: left; background-color: #000000; color: #ffffff; } var coll = document.getElementsByClassName("collapsible"); for (var i = 0; i < coll.length; i++) { coll[i].addEventListener("click", function() { this.classList.toggle("active"); var content = this.nextElementSibling; if (content.style.display === "block") { content.style.display = "none"; this.textContent = "Read More"; } else { content.style.display = "block"; this.textContent = "Read Less"; } }); }
-  Updated: 2026-07-10T15:26:46Z
+  Updated: 2026-10-25T11:02:03Z
   Total Products: 16
 - [Camo Hoodie Men's](https://www.xmartial.com/collections/camo-hoodie-mens)
   Updated: 2026-07-10T13:13:03Z
@@ -2689,7 +2689,7 @@
   Updated: 2026-07-10T13:13:03Z
   Total Products: 0
 - [Camouflage Shorts](https://www.xmartial.com/collections/camouflage-shorts)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 56
 - [Camo Cargo Pants](https://www.xmartial.com/collections/camo-cargo-pants)
   Updated: 2026-07-10T13:13:04Z
@@ -2743,16 +2743,16 @@
   Updated: 2026-08-26T11:01:48Z
   Total Products: 9
 - [Streetwear Tops](https://www.xmartial.com/collections/streetwear-tops)
-  Updated: 2026-09-11T11:01:21Z
+  Updated: 2026-10-25T11:02:03Z
   Total Products: 48
 - [Joggers / Sweatpants](https://www.xmartial.com/collections/joggers-sweatpants)
   Updated: 2026-10-11T11:02:03Z
   Total Products: 12
 - [all](https://www.xmartial.com/collections/all)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 2627
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 2644
 - [BJJ Rash Guard & Shorts Set](https://www.xmartial.com/collections/bjj-rash-guard-shorts-set)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 156
 - [Saunas](https://www.xmartial.com/collections/saunas): Discover XMartial’s sauna collection designed for faster recovery, improved endurance, and deep muscle relaxation. Train hard—recover smarter with infrared and steam saunas.
   Updated: 2026-07-10T13:13:10Z
@@ -2761,7 +2761,7 @@
   Updated: 2026-07-10T13:13:10Z
   Total Products: 10
 - [Camo](https://www.xmartial.com/collections/camo)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 85
 - [Wrestling Bundles](https://www.xmartial.com/collections/wrestling-bundles)
   Updated: 2026-10-15T03:51:29Z
@@ -2770,25 +2770,22 @@
   Updated: 2026-10-07T11:01:20Z
   Total Products: 12
 - [XMartial Special ](https://www.xmartial.com/collections/xmartial-special-)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:14Z
   Total Products: 14
 - [BJJ Rash Guards](https://www.xmartial.com/collections/bjj-rashguards)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 422
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 428
 - [Shop XMartial Fight Team](https://www.xmartial.com/collections/xmartial-fight-team)
-  Updated: 2026-10-22T11:03:30Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 133
 - [Black Friday Muay Thai Deals 2025](https://www.xmartial.com/collections/black-friday-muay-thai-deals): Shop the biggest Black Friday Muay Thai  of 2025. Premium Thai shorts, gloves, apparel, and limited-edition drops. Global shipping, limited stock.
   Updated: 2026-07-10T13:13:10Z
   Total Products: 0
 - [Black Friday Muay Thai Gear Deals — 2025](https://www.xmartial.com/collections/black-friday-muay-thai-gear-deals): The biggest Muay Thai  of the year is here. The XMartial Black Friday Muay Thai  2025 brings knockout discounts on our best- Muay Thai shorts, shirts, shin guards, and premium fight gear. Whether you’re a beginner stepping into your first class, a seasoned nak muay sharpening your weapons, or a coach gearing up your students — this is the moment to upgrade your kit at the lowest prices of the entire year. Our Black Friday collection features fan-favorite Muay Thai shorts, new limited-edition drops, retro-inspired designs, and pro-level performance gear trusted by strikers around the world. With over 100,000 customers across 50+ countries, XMartial has become the go-to brand for Muay Thai athletes who demand style, durability, and real fight-tested comfort.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 257
-- [Shop Muay Thai Shorts](https://www.xmartial.com/collections/muaythai-shorts): Shop authentic Muay Thai shorts crafted for power, flexibility, and Thai heritage. Lightweight, fighter-tested, and trusted by top gyms worldwide.
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 162
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 258
 - [XMARTIAL MUAY THAI](https://www.xmartial.com/collections/xmartial-muay-thai)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 51
 - [10th Planet Phoenix](https://www.xmartial.com/collections/10th-planet-phoenix)
   Updated: 2026-10-14T11:01:32Z
@@ -2803,16 +2800,16 @@
   Updated: 2026-09-18T11:05:29Z
   Total Products: 2
 - [Best Sellers](https://www.xmartial.com/collections/best-sellers)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 629
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 635
 - [Women's Muay Thai Shorts](https://www.xmartial.com/collections/womens-muay-thai-shorts)
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-28T11:01:26Z
   Total Products: 55
 - [Jiu Jitsu Bundles](https://www.xmartial.com/collections/jiu-jitsu-bundles)
   Updated: 2026-10-21T17:04:55Z
   Total Products: 3
 - [Muay Thai Shirts](https://www.xmartial.com/collections/muay-thai-shirts-1): Shop authentic Muay Thai shirts and jerseys for training, competition, and everyday wear. Traditional Thai designs, breathable fabrics, sizes for all.
-  Updated: 2026-10-19T11:01:31Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 39
 - [Muay Thai Kits](https://www.xmartial.com/collections/muay-thai-kits)
   Updated: 2026-10-15T03:51:13Z
@@ -2830,10 +2827,10 @@
   Updated: 2026-08-31T10:19:30Z
   Total Products: 4
 - [Men Jiu Jitsu](https://www.xmartial.com/collections/men-jiu-jitsu)
-  Updated: 2026-10-22T11:03:30Z
-  Total Products: 1287
+  Updated: 2026-10-30T11:01:14Z
+  Total Products: 1299
 - [Best Deals](https://www.xmartial.com/collections/best-deals)
-  Updated: 2026-10-21T17:04:55Z
+  Updated: 2026-10-28T11:01:26Z
   Total Products: 9
 - [Crime Time](https://www.xmartial.com/collections/crime-time)
   Updated: 2026-08-28T03:49:09Z
@@ -2845,10 +2842,10 @@
   Updated: 2026-10-08T07:15:36Z
   Total Products: 1
 - [Women's BJJ Spats](https://www.xmartial.com/collections/womens-bjj-spats): Women's BJJ spats built for No-Gi training. Antimicrobial, sweat-wicking compression tights in 30+ designs from $35.95. Shop XMartial.
-  Updated: 2026-10-22T11:03:29Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 58
 - [Grindstone Jiu Jitsu Training Center](https://www.xmartial.com/collections/grindstone-jiu-jitsu-training-center)
-  Updated: 2026-09-04T07:36:25Z
+  Updated: 2026-10-30T11:01:13Z
   Total Products: 4
 - [Roll Club Jiu Jitsu](https://www.xmartial.com/collections/roll-club-jiu-jitsu)
   Updated: 2026-10-14T11:01:32Z
