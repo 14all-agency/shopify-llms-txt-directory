@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-09-08T14:30:33Z
 - Contact Email: info@splasharts.in
-- Updated At: 2026-10-23T00:50:51.739Z
+- Updated At: 2026-10-31T00:16:59.761Z
 
 ## Products
 
@@ -256,98 +256,98 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/splash-diy-christmas-plantable-ornament-santa-figurine-coloring-kit-445.webp?v=1779700383
   Price: ₹299.00 INR
 - [Leaf Ganesha Wooden Effect Nameplate Home Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate): The Leaf Ganesha Wooden Effect Nameplate features durable MDF marine wood construction. This customized door plaque displays family names and house numbers.
-  Updated: 2026-07-29T05:40:31Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/leaf-ganesha-wooden-effect-nameplate-925.webp?v=1785303598
   Price: ₹2,199.00 INR
 - [Ganesha Wooden Effect Nameplate Spiritual Door Decor](https://splasharts.in/products/ganesha-wooden-effect-nameplate-copy): The Ganesha Wooden Effect Nameplate features premium MDF marine wood construction. This entrance accessory provides durability and a wood appearance for homes.
-  Updated: 2026-10-19T06:45:30Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/ganesha-wooden-effect-nameplate-606.webp?v=1779700423
   Price: ₹2,099.00 INR
 - [Lotus Nameplate Elegant Floral Entrance Decor](https://splasharts.in/products/lotus-nameplate): The SplashArts Lotus Nameplate features MDF marine wood construction and Vastu principles. This door plate provides durability plus symbols of purity and harmony.
-  Updated: 2026-08-17T11:05:23Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lotus-nameplate-903.webp?v=1785327854
   Price: ₹2,299.00 INR
 - [Elegant Peacock Nameplate for Sophisticated Entrances](https://splasharts.in/products/peacock-nameplate-1): The Peacock Nameplate features a majestic motif on high-quality MDF marine wood. This personalized door accessory provides a durable finish for home entrances.
-  Updated: 2026-07-10T12:12:40Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-nameplate-593.webp?v=1779700473
   Price: ₹3,899.00 INR
 - [Divine Ganesha Nameplate for Home Entrance Decor](https://splasharts.in/products/divine-ganesha-nameplate): The Divine Ganesha Nameplate features MDF marine wood construction for durability. This entrance accessory displays spiritual symbols to represent enlightenment.
-  Updated: 2026-09-12T06:17:25Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-nameplate-984.webp?v=1779700545
   Price: ₹1,999.00 INR
 - [Tree of Life Nameplate for Home Entrance Decor](https://splasharts.in/products/tree-of-life-nameplate): The Tree of Life Nameplate features MDF marine wood construction for home entrances. This Vastu item symbolizes harmony and prosperity with a durable finish.
-  Updated: 2026-08-17T11:06:13Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-of-life-nameplate-237.webp?v=1785327651
   Price: ₹2,299.00 INR
 - [Pichawai Nameplate Traditional Indian Door Decor](https://splasharts.in/products/pichawai-nameplate): The Pichawai Nameplate features traditional Indian motifs and contemporary design. This door accessory reflects identity and brings positive energy to home facades.
-  Updated: 2026-08-17T10:58:57Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/pichawai-nameplate-360.webp?v=1779700682
   Price: ₹3,799.00 INR
 - [Classic Brown Nameplate](https://splasharts.in/products/classic-brown-nameplate): Make your entrance truly yours with our handcrafted personalized wooden nameplate.
-  Updated: 2026-10-07T01:57:30Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/d44c204ae51df5e4ed3564b4fa9238c5.png?v=1790847835
   Price: ₹2,599.00 INR
 - [Love in the Air Nameplate for Elegant Office Doors](https://splasharts.in/products/love-in-the-air-nameplate): The Love in the Air Nameplate features premium canvas board construction for home entrances and interiors. This product provides door identification and decor.
-  Updated: 2026-07-29T12:46:05Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-in-the-air-nameplate-468.webp?v=1779700750
   Price: ₹2,499.00 INR
 - [Love Birds Nameplate for Office Door Decor SplashArts](https://splasharts.in/products/love-birds-nameplate): The Love Birds Nameplate features a canvas board measuring 17.3cm by 53cm. This customized door sign includes a bird motif and weighs little for easy installation.
-  Updated: 2026-08-17T10:54:26Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-birds-nameplate-749.webp?v=1779700878
   Price: ₹2,499.00 INR
 - [Tree Branch Nameplate Personalized Nature Door Decor](https://splasharts.in/products/tree-branch-nameplate): The Tree Branch Nameplate features 8mm MDF Marine Wood for durability. This personalized door decor identifies homes using nature themes and rustic attributes.
-  Updated: 2026-08-17T11:04:52Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/tree-branch-nameplate-726.webp?v=1779700937
   Price: ₹2,299.00 INR
 - [Kalash Nameplate Vastu Door Decor for Prosperity](https://splasharts.in/products/kalash-nameplate): The Kalash Nameplate features 8mm MDF Marine Wood construction. This personalized door sign incorporates Vastu symbols for abundance and prosperity at home entrances.
-  Updated: 2026-08-17T11:04:26Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/kalash-nameplate-131.webp?v=1779700975
   Price: ₹2,299.00 INR
 - [Floral Nameplate with Vibrant Botanical Designs](https://splasharts.in/products/floral-nameplate): Floral Nameplate features floral motifs on 8mm MDF Marine Wood. This door nameplate provides durability and nature themes for home entrances and office decor.
-  Updated: 2026-08-17T11:03:27Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-nameplate-462.webp?v=1779701043
   Price: ₹2,299.00 INR
 - [Welcome Ganesha Nameplate Spiritual Door Decor Entrance](https://splasharts.in/products/welcome-ganesha-nameplate): The Welcome Ganesha Nameplate features a Lord Ganesha depiction on a door name plate. This item provides spiritual symbolism and prosperity for home entrances.
-  Updated: 2026-08-17T11:02:44Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -426,14 +426,14 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cars-kids-nameplate-289.webp?v=1779701238
   Price: ₹999.00 INR
 - [Divine Ganesha Blessing Nameplate for Home Entrance](https://splasharts.in/products/divine-ganesha-blessing-nameplate): The Divine Ganesha Blessing Nameplate features Lord Ganesha symbols for prosperity. This door accessory uses durable materials to enhance home entrance spaces.
-  Updated: 2026-07-29T12:32:15Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-ganesha-blessing-nameplate-592.webp?v=1779701354
   Price: ₹2,699.00 INR
 - [Handcrafted Wooden Bark Nameplate for Office Doors](https://splasharts.in/products/wooden-bark-nameplate): The Handcrafted Wooden Bark Nameplate features MDF Marine Wood and a hut design. This nameplate displays family names and house numbers on home entrance doors.
-  Updated: 2026-10-19T06:45:30Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -455,105 +455,105 @@
     Availability: Available
     Price: ₹200.00 INR
 - [Sweet Home Nameplate Decorative Door Decor Welcome Sign](https://splasharts.in/products/sweet-home-nameplate): Elevate your home's charm with our customizable Sweet Home Nameplate, a perfect symbol of love and togetherness.
-  Updated: 2026-07-29T12:52:36Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sweet-home-nameplate-667.webp?v=1779701458
   Price: ₹2,299.00 INR
 - [Blossom Nameplate Elegant Floral Office Door Decor](https://splasharts.in/products/blossom-nameplate): Enhance your home with the Blossom Nameplate, featuring customizable love birds design, perfect for celebrating love and togetherness.
-  Updated: 2026-08-17T11:01:09Z
+  Updated: 2026-10-23T07:01:03Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-nameplate-867.webp?v=1779701497
   Price: ₹1,999.00 INR
 - [Royal Charm Nameplate Elegant Office Door Decor](https://splasharts.in/products/royal-charm): Discover the Moonshine Love Nameplate, a romantic canvas piece perfect for celebrating love with customizable designs.
-  Updated: 2026-10-07T06:30:07Z
+  Updated: 2026-10-23T07:01:01Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-charm-nameplate-981.webp?v=1779701561
   Price: ₹1,999.00 INR
 - [Sunflower Blossom Nameplate Premium Wood Office Decor](https://splasharts.in/products/sunflower-blossom-nameplate): Brighten your home with our customizable Sunflower Blossom Nameplate, perfect for adding a cheerful touch to any space.
-  Updated: 2026-08-17T10:59:50Z
+  Updated: 2026-10-23T07:01:01Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunflower-blossom-nameplate-963.webp?v=1779701602
   Price: ₹1,999.00 INR
 - [Royal Touch Nameplate Luxury Office Door Decor SplashArts](https://splasharts.in/products/royal-touch-nameplate): Enhance your entrance with the Royal Touch Nameplate, a customizable MDF masterpiece that radiates elegance and charm.
-  Updated: 2026-08-17T10:59:22Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royal-touch-nameplate-182.webp?v=1779701649
   Price: ₹1,999.00 INR
 - [Personalized Blossom Wood Nameplate for Elegant Doors](https://splasharts.in/products/blossom-on-wood-nameplate): Elevate your entrance with the Blossom on Wood Nameplate, a personalized, durable, and elegantly designed home décor piece.
-  Updated: 2026-08-17T11:08:29Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/blossom-on-wood-nameplate-680.webp?v=1779701685
   Price: ₹1,999.00 INR
 - [Sunrise Boho Style Nameplate Modern Office Door Decor](https://splasharts.in/products/sunrise-boho-style-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-08-17T10:58:28Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/sunrise-boho-style-nameplate-505.webp?v=1779701778
   Price: ₹1,999.00 INR
 - [Peacock Feather Nameplate for Luxury Office Entrances](https://splasharts.in/products/peacock-feather-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-08-17T11:06:59Z
+  Updated: 2026-10-23T07:01:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/peacock-feather-nameplate-625.webp?v=1779701821
   Price: ₹2,299.00 INR
 - [Natural Wood Finish Nameplate Elegant Office Decor](https://splasharts.in/products/natural-wood-finish-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-08-29T17:59:15Z
+  Updated: 2026-10-23T07:01:01Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/natural-wood-finish-nameplate-799.webp?v=1779701860
   Price: ₹1,999.00 INR
 - [Rustic Brick Wall Nameplate Office Door Sign Decor](https://splasharts.in/products/brick-wall-nameplate): Enhance your home with the Green Ganesha Nameplate—personalized, elegant, and perfect for any entrance!
-  Updated: 2026-08-17T10:56:49Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/brick-wall-nameplate-330.webp?v=1779701910
   Price: ₹1,899.00 INR
 - [Buddha Blessing Nameplate Serene Spiritual Door Decor](https://splasharts.in/products/buddha-blessing-nameplate): Discover serenity with the Buddha Blessing Nameplate, a beautifully crafted symbol of peace and positivity for your home or office decor.
-  Updated: 2026-08-17T10:56:11Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/buddha-blessing-nameplate-469.webp?v=1779701961
   Price: ₹1,899.00 INR
 - [Lippan Mud Mirror Nameplate Traditional Kutch Decor](https://splasharts.in/products/mud-mirror-work-nameplate): Discover the elegance of the Mud Mirror Work Nameplate, a handcrafted piece that adds charm and personalization to your home’s entrance.
-  Updated: 2026-08-17T10:49:29Z
+  Updated: 2026-10-23T07:01:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/lippan-art-mud-mirror-work-nameplate-632.webp?v=1779702010
   Price: ₹2,999.00 INR
 - [Floral Blue Nameplate Elegant Door Decor for Home](https://splasharts.in/products/floral-blue-nameplate): Discover the Floral Blue Nameplate, a stylish and personalized decor piece to elevate your home with vibrant colors and a boho flair!
-  Updated: 2026-08-17T10:55:39Z
+  Updated: 2026-10-23T07:01:58Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/floral-blue-nameplate-531.webp?v=1779702055
   Price: ₹1,899.00 INR
 - [Personalized Family Surname Door Nameplate SplashArts](https://splasharts.in/products/family-surname-nameplate): Add a personal touch to your home with our Family Surname Nameplate, crafted for elegance and durability—perfect for welcoming guests!
-  Updated: 2026-08-17T11:07:28Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/family-surname-nameplate-197.webp?v=1779702136
   Price: ₹1,999.00 INR
 - [Classy Brown Nameplate Elegant Office Door Decor](https://splasharts.in/products/classy-brown-nameplate): Enhance your home’s charm with our Classy Brown Nameplate, a personalized and elegant addition that welcomes guests with style.
-  Updated: 2026-10-19T06:45:30Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -966,63 +966,63 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/frosty-flotilla-yacht-painting-hand-painted-seascape-artwork-luxury-665.webp?v=1779702726
   Price: ₹2,999.00 INR
 - [Bird on Branch Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/bird-on-branch-nameplate): Add a touch of nature to your home with the Bird on Branch Nameplate. A personalized wooden name plate featuring a charming bird design, handcrafted to create a warm and elegant entrance décor.
-  Updated: 2026-08-17T10:54:01Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/bird-on-branch-nameplate-personalized-wooden-name-plate-for-home-640.webp?v=1779702735
   Price: ₹1,899.00 INR
 - [Divine Grace Cross Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/divine-grace-cross-nameplate): Bring faith and elegance to your home with the Divine Grace Cross Nameplate. A personalized wooden name plate featuring a beautiful cross design, handcrafted to add a spiritual and graceful touch to your entrance.
-  Updated: 2026-07-10T12:12:52Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/divine-grace-cross-nameplate-personalized-wooden-name-plate-977.webp?v=1779702797
   Price: ₹1,599.00 INR
 - [Personalized Om Wooden Nameplate for Home Entrance](https://splasharts.in/products/om-nameplate-personalized): Enhance your home entrance with the Om Nameplate – a personalized wooden name plate featuring a sacred Om symbol. Handcrafted design perfect for adding peace, positivity, and elegance to your home décor.
-  Updated: 2026-08-17T10:57:59Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/om-nameplate-personalized-wooden-name-plate-for-home-entrance-414.webp?v=1779702829
   Price: ₹1,899.00 INR
 - [Cozy Hut Nameplate | Personalized Wooden Name Plate for Home Entrance](https://splasharts.in/products/cozy-hut-nameplate): Shop Cozy Hut Nameplate – a personalized wooden name plate for home entrance. Handcrafted with premium finish, perfect for adding a warm, cozy and stylish touch to your front door décor.
-  Updated: 2026-07-10T12:12:52Z
+  Updated: 2026-10-23T07:01:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/cozy-hut-nameplate-personalized-wooden-name-plate-for-home-entrance-283.webp?v=1779702859
   Price: ₹1,599.00 INR
 - [Nanak’s Grace Nameplate | Personalized Wooden Name Plate for Home](https://splasharts.in/products/nanak-s-grace-nameplate): Bring blessings and elegance to your home with the Nanak’s Grace Nameplate. A handcrafted personalized wooden name plate inspired by Sikh spirituality, perfect for a peaceful and divine entrance.
-  Updated: 2026-08-17T10:50:29Z
+  Updated: 2026-10-23T07:01:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/nanaks-grace-nameplate-handcrafted-personalized-wooden-name-plate-736.webp?v=1779702891
   Price: ₹1,899.00 INR
 - [Love Nest Wooden Nameplate Handcrafted Heart Decor](https://splasharts.in/products/love-nest-nameplate): Buy Love Nest Nameplate online. Personalized couple name plate for home entrance, perfect for newlyweds, housewarming gifts, and romantic home décor.
-  Updated: 2026-08-17T10:50:07Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/love-nest-nameplate-handcrafted-personalized-wooden-name-plate-154.webp?v=1779702920
   Price: ₹1,899.00 INR
 - [Royale Luxe Handcrafted Personalized Wooden Home Sign](https://splasharts.in/products/royale-luxe-nameplate-handcrafted-personalized): Royale Luxe Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-07-10T12:12:53Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/royale-luxe-nameplate-handcrafted-personalized-wooden-for-home-984.webp?v=1779703007
   Price: ₹2,299.00 INR
 - [Elegance Edge Nameplate | Handcrafted Personalized Nameplate for Home](https://splasharts.in/products/elegance-edge-nameplate): Add a personal touch to your entrance with this handcrafted wooden nameplate. Customizable with your name, perfect for home décor, gifting, and housewarming. Durable, stylish, and easy to install.
-  Updated: 2026-10-19T06:45:30Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/elegance-edge-nameplate-handcrafted-personalized-wooden-for-home-563.webp?v=1779703031
   Price: ₹1,999.00 INR
 - [Welcome Home Nameplate  | Handcrafted Personalized Nameplate for Home](https://splasharts.in/products/welcome-home-nameplate): Add a personal touch to your entrance with this handcrafted wooden nameplate. Customizable with your name, perfect for home decor, gifting, and housewarming. Durable, stylish, and easy to install.
-  Updated: 2026-08-17T10:52:14Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -1050,7 +1050,7 @@
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/minecraft-photo-frame-diy-kit-for-kids-paint-your-own-pixel-splash-541.webp?v=1779703153
   Price: ₹599.00 INR
 - [3 Layer Rainbow Photo Frame Fridge Magnet DIY Kit for Kids](https://splasharts.in/products/rainbow-photo-frame-fridge-magnet-diy-kit): 3 layer rainbow photo frame fridge magnet DIY kit for kids. Paint your own colorful magnet, perfect for birthday return gifts, party favors & creative fun.
-  Updated: 2026-10-21T11:08:46Z
+  Updated: 2026-10-29T07:34:53Z
   Vendor: splashdiy
   Product Type: photoframe
   Availability: Available
@@ -1756,7 +1756,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/holi-fridge-magnet-diy-kit-for-kids-paint-your-own-festival-craft-277.jpg?v=1779697892
     Price: ₹599.00 INR
 - [Theme Personalised Fridge Magnet DIY Kit |Paint Your Own Magnet](https://splasharts.in/products/name-fridge-magnet-diy-kit): Personalized fridge magnet in themes like Unicorn, Spiderman, Roblox, Peppa Pig, Minion, Teddy, Mermaid, Fairy, Ronaldo & Rumi. Perfect birthday return gift.
-  Updated: 2026-10-21T10:40:41Z
+  Updated: 2026-10-30T10:37:46Z
   Vendor: SplashArts
   Product Type: returngift, nameboard, fridge magnet
   Availability: Available
@@ -2643,7 +2643,7 @@
     Availability: Available
     Price: ₹1,899.00 INR
 - [Kpop Demon Hunter Nameboard DIY Kit | Personalized Paint Your Own Kit](https://splasharts.in/products/nameboard-diy-kit-for-kids-personalized-paint-your-own-name-board): Kpop Demon Hunter Nameplate DIY Kit for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-10-21T15:37:17Z
+  Updated: 2026-10-27T09:10:56Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -2741,7 +2741,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-07-23_at_5.09.46_PM_6.webp?v=1784883063
     Price: ₹199.00 INR
 - [Floral Royal Nameplate Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/floral-royal-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Floral Royal Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-05T12:53:22Z
+  Updated: 2026-10-29T17:51:35Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2756,7 +2756,7 @@
     Availability: Available
     Price: ₹2,799.00 INR
 - [Classic Lotus Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/classic-lotus-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance): Classic Lotus Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-20T15:26:47Z
+  Updated: 2026-10-23T07:01:56Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2768,7 +2768,7 @@
     Availability: Available
     Price: ₹2,499.00 INR
 - [Lotus Pond Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/lotus-pond-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-1): Lotus Pond Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-29T06:00:26Z
+  Updated: 2026-10-23T07:02:00Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2780,7 +2780,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/classic-lotus-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-06T12:44:28Z
+  Updated: 2026-10-29T22:49:47Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2792,7 +2792,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/blooming-roses-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-23T07:25:07Z
+  Updated: 2026-10-28T04:22:05Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2804,7 +2804,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [Blooming Roses Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/berry-floral-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy-copy-copy): Blooming Roses Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-09-19T12:01:47Z
+  Updated: 2026-10-30T19:59:02Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2816,7 +2816,7 @@
     Availability: Available
     Price: ₹2,599.00 INR
 - [My Sweet Home Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/my-sweet-home-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): My Sweet Home Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-08-19T10:07:51Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2829,7 +2829,7 @@
   Availability: Available
   Price: ₹0.00 INR
 - [Tulip Elegance  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/tulips-elegance-nameplate-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-18T06:03:26Z
+  Updated: 2026-10-23T07:01:57Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -2841,7 +2841,7 @@
     Availability: Available
     Price: ₹2,699.00 INR
 - [Kids Nameboard DIY Kit in box packing | Personalized Paint Your Own Kit](https://splasharts.in/products/personalized-kids-nameboard-diy-kit-box-packing-paint-your-own-name-board-birthday-return-gifts): Kids Nameplate DIY Kit in box packing for kids. Create a personalized paint-your-own name board with colors and tools perfect for return gifts.
-  Updated: 2026-10-21T11:08:46Z
+  Updated: 2026-10-30T03:38:15Z
   Vendor: SplashArts
   Product Type: returngift, nameboard
   Availability: Available
@@ -3007,7 +3007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-09-24_at_3.30.43_PM.webp?v=1790244113
     Price: ₹260.00 INR
 - [Elegance of Lotus  Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/lotus-elegance-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance): Tulip Elegance Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-12T07:53:47Z
+  Updated: 2026-10-23T07:01:58Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3037,28 +3037,28 @@
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/Elegance_of_Lotus_550a669d-9373-4e90-8df2-3bc35bd9af72.jpg?v=1791291632
     Price: ₹2,799.00 INR
 - [Wooden Panel with Ganesha Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/wooden-panel-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Wooden Panel with Ganesha Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-07T01:36:11Z
+  Updated: 2026-10-23T07:01:59Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/woodenpanel_ganesha_nameplate.png?v=1791293817
   Price: ₹2,199.00 INR
 - [Walnut Royale Nameplate I Handcrafted Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/walnut-royale-nameplate): Make your entrance truly yours with our handcrafted personalized wooden nameplate.
-  Updated: 2026-10-08T14:18:40Z
+  Updated: 2026-10-23T07:02:00Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/Walnut_Royale_Nameplate.jpg?v=1791294294
   Price: ₹2,799.00 INR
 - [Rosewood Elegance Nameplate I Handcrafted Personalized Wooden Nameplate for Home Entrance](https://splasharts.in/products/rosewood-elegance-nameplate): Make your entrance truly yours with our handcrafted personalized wooden nameplate.
-  Updated: 2026-10-07T01:55:21Z
+  Updated: 2026-10-23T07:02:01Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/a96a5a23-18d6-4dc0-b6c9-326c23f5116e.png?v=1791294955
   Price: ₹2,799.00 INR
 - [Lotus Pond Nameplate Personalized Wooden Nameplate for Home](https://splasharts.in/products/royal-haven-nameplate-i-handcrafted-personalized-wooden-nameplate-for-home-entrance-copy): Lotus Pond Nameplate is a personalized wooden nameplate designed to add a warm, majestic touch to your home entrance.
-  Updated: 2026-10-07T04:01:47Z
+  Updated: 2026-10-23T07:02:00Z
   Vendor: splasharts
   Product Type: nameplate
   Availability: Available
@@ -3086,7 +3086,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0682/8690/6525/files/WhatsApp_Image_2026-03-23_at_3.40.46_PM.jpg?v=1791529219
     Price: ₹299.00 INR
-[List Continued](https://splasharts.in/a/llms-agent/llms.txt?shop=6d71a8-cf.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQwNTI4OTUzNzY0OSwibGFzdF92YWx1ZSI6IjE1NDA1Mjg5NTM3NjQ5In0%3D)
+[List Continued](https://splasharts.in/a/llms-agent/llms.txt?shop=6d71a8-cf.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQwNTI4OTUzNzY0OSwibGFzdF92YWx1ZSI6IjIwMjYtMTAtMDkgMDY6NTA6MjIuMDAwMDAwIn0%3D)
 
 ## Collections
 
@@ -3094,7 +3094,7 @@
   Updated: 2026-08-11T11:10:42Z
   Total Products: 12
 - [Fridge Magnets and Key Chain DIY Kit](https://splasharts.in/collections/fridge-magnets): SplashArts offers Splash DIY kits for fridge magnets and keychains. The collection includes animal themes, nameboards, tote painting, coasters, and photo frames.
-  Updated: 2026-10-18T11:18:28Z
+  Updated: 2026-10-30T11:16:19Z
   Total Products: 35
 - [Bookmarks Making DIY Kit](https://splasharts.in/collections/bookmarks): SplashArts offers the Butterfly Bookmark DIY Kit featuring paintable wooden bookmarks. This Splash DIY collection includes creative art and craft activities for kids.
   Updated: 2026-07-28T09:39:13Z
@@ -3103,19 +3103,19 @@
   Updated: 2026-07-28T09:39:13Z
   Total Products: 3
 - [Kids Nameboard DIY kit](https://splasharts.in/collections/diy-kids-nameboard): SplashArts offers personalized SPLASH DIY nameboard kits for kids featuring themes like Aeroplane and Aqua World alongside tote painting and fridge magnet sets.
-  Updated: 2026-10-22T11:24:01Z
+  Updated: 2026-10-27T11:17:20Z
   Total Products: 24
 - [NAMEPLATES](https://splasharts.in/collections/house-nameplates): SplashArts offers handcrafted personalized wooden nameplates for home entrances including the Royale Luxe, Elegance Edge, Love Nest, and Nanaks Grace collections.
-  Updated: 2026-10-14T11:31:49Z
+  Updated: 2026-10-30T11:16:19Z
   Total Products: 61
 - [DIY KIT](https://splasharts.in/collections/diy-kits): SplashArts offers Splash DIY kits for fridge magnets, nameboards, tote painting, coasters, and bookmarks. This collection features themed and festival gift sets.
-  Updated: 2026-10-22T11:24:01Z
+  Updated: 2026-10-30T11:16:19Z
   Total Products: 95
 - [Tote Painting DIY Kit](https://splasharts.in/collections/block-painting-diy-kit): SplashArts offers a diverse collection of Tote Painting DIY Kits and themed sets including Squid Game designs, Bird and Bee block painting, and fridge magnets.
   Updated: 2026-10-09T07:01:22Z
   Total Products: 9
 - [Photo Frame DIY kit](https://splasharts.in/collections/photo-frame-diy-kit): SplashArts offers Splash DIY photo frame kits for kids featuring unicorn and space themes along with fridge magnets, keychains, and tote painting craft sets.
-  Updated: 2026-09-26T11:18:22Z
+  Updated: 2026-10-29T11:15:34Z
   Total Products: 10
 - [PAINTINGS](https://splasharts.in/collections/paintings-1): SplashArts offers original textured paintings including urban skylines, seascapes, cosmic abstracts, waves, butterflies, birds, florals, and golden sail artworks.
   Updated: 2026-07-28T09:39:13Z
@@ -3127,7 +3127,7 @@
   Updated: 2026-09-09T06:10:22Z
   Total Products: 19
 - [Best Sellers DIY](https://splasharts.in/collections/best-sellers-diy): SplashArts offers best  DIY kits including fridge magnets, nameboards, tote painting, coasters, and festive rangoli designs from the Splash DIY brand.
-  Updated: 2026-10-22T11:24:01Z
+  Updated: 2026-10-30T11:16:19Z
   Total Products: 18
 - [Clock DIY Kit](https://splasharts.in/collections/clock)
   Updated: 2026-09-04T11:10:13Z
@@ -3136,7 +3136,7 @@
   Updated: 2026-09-09T05:49:55Z
   Total Products: 6
 - [Return Gifts](https://splasharts.in/collections/return-gifts)
-  Updated: 2026-10-22T11:24:01Z
+  Updated: 2026-10-30T11:16:19Z
   Total Products: 8
 
 ## Blogs
