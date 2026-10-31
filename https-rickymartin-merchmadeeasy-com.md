@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-07-28T20:31:13Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-24T00:33:02.439Z
+- Updated At: 2026-10-31T01:00:03.035Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/9039/3342/files/RMPHOTOBOOK-3.png?v=1772644663
   Price: $30.00 USD
 - [Sinfónico Hoodie](https://rickymartin.merchmadeeasy.com/products/sinfonico-hoodie): Ricky Martin Sinfónico Hoodie in black with front and back print.
-  Updated: 2026-10-19T22:48:57Z
+  Updated: 2026-10-28T05:17:46Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -92,7 +92,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Livin' La Vida Crop Hoodie](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie): Livin' La Vida Crop Hoodie in white with front print only.
-  Updated: 2026-10-05T13:05:07Z
+  Updated: 2026-10-28T21:01:09Z
   Vendor: Ricky Martin Merch
   Product Type: Apparel
   Availability: Available
@@ -102,6 +102,9 @@
     Price: $60.00 USD
   - [L](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie?variant=47810449080574)
     Availability: Available
+    Price: $60.00 USD
+  - [XL](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie?variant=67887505506558)
+    Availability: Not Available
     Price: $60.00 USD
   - [2XL](https://rickymartin.merchmadeeasy.com/products/livin-la-vida-crop-hoodie?variant=47810456027390)
     Availability: Available
@@ -153,16 +156,16 @@
 ## Collections
 
 - [Home page](https://rickymartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-23T11:21:00Z
+  Updated: 2026-10-30T11:18:33Z
   Total Products: 13
 - [Apparel](https://rickymartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-23T11:21:00Z
+  Updated: 2026-10-30T11:18:33Z
   Total Products: 7
 - [Accessories](https://rickymartin.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-17T11:27:20Z
   Total Products: 4
 - [All](https://rickymartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-23T11:21:00Z
+  Updated: 2026-10-30T11:18:33Z
   Total Products: 11
 
 ## Store Pages
