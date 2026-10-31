@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-10-23T01:23:20.174Z
+- Updated At: 2026-10-31T00:51:17.708Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -20,7 +20,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/bowl_6c6a3f8c-62a7-423a-a462-f1c838b1da25.webp?v=1763906600
   Price: $16.85 USD
 - [Retro 70's Corelle Lot - Indian Summer](https://b0cegj-qy.myshopify.com/products/retro-70s-corelle-lot-indian-summer): Shop our Retro 70's Corelle Lot featuring 2 Saucers and 1 Dinner Plate in the beautiful Indian Summer pattern. Perfect for collectors and vintage lovers.
-  Updated: 2026-09-15T22:11:39Z
+  Updated: 2026-10-24T13:54:31Z
   Vendor: Grammy Shell
   Product Type: dinner plate set
   Availability: Available
@@ -41,7 +41,7 @@ Grammy Shell's Shed -Perfictly Imperfict Finds
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/wheat.webp?v=1763908353
   Price: $10.00 USD
 - [Carlton Japan 481 Corsage Saucer Plate](https://b0cegj-qy.myshopify.com/products/carlton-japan-saucer-plate-481-corsage): Shop the Carlton Japan Saucer Plate 481 Corsage, featuring an elegant floral design perfect for tea, coffee, and desserts. Durable and easy to care for.
-  Updated: 2026-10-22T10:44:57Z
+  Updated: 2026-10-24T14:50:40Z
   Vendor: Grammy Shell
   Product Type: saucer
   Availability: Available
@@ -101,14 +101,14 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/christmas3.webp?v=1762720231
   Price: $18.95 USD
 - [Victorian Christmas Angels Collector Plate 2360B - Vintage Holiday Decor](https://b0cegj-qy.myshopify.com/products/angels-christmas-plate-victorian-collectible-2360b): Vintage Victorian Christmas Angels collector plate 2360B. Charming holiday decor featuring delicate angel imagery. Perfect for collectors and festive displays.
-  Updated: 2026-09-16T01:10:31Z
+  Updated: 2026-10-24T00:51:36Z
   Vendor: Grammy Shell
   Product Type: collector plate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/angel.webp?v=1754787524
   Price: $18.49 USD
 - [Vintage Milk Glass Candy Dishes Set of 2 Grape Design Pedestal](https://b0cegj-qy.myshopify.com/products/vintage-peddistool-milk-glass-candy-dishes): "Vintage milk glass candy dishes set with charming grape design. Set of 2 pre-owned pieces, perfect for collectors or home decor. Classic retro style."
-  Updated: 2026-09-15T23:49:40Z
+  Updated: 2026-10-24T15:38:35Z
   Vendor: Grammy Shell
   Product Type: Peddistool candy dishes
   Availability: Available
@@ -143,7 +143,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/candle.webp?v=1754783285
   Price: $15.45 USD
 - [Vintage Pewter Victorian Footed Teapot - Elegant and Functional](https://b0cegj-qy.myshopify.com/products/vintage-pewter-victorian-footed-teapot): Explore the Vintage Pewter Victorian Footed Teapot. Perfect for collectors and tea lovers, this elegant piece combines traditional charm with practical features.
-  Updated: 2026-09-15T20:42:40Z
+  Updated: 2026-10-24T15:35:20Z
   Vendor: Grammy Shell
   Product Type: vintage Tea pot
   Availability: Available
@@ -178,7 +178,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/0twmaZOpEIjdmtUPjPX18Qs_3_gps_generated.png?v=1764158023
   Price: $23.00 USD
 - [Vintage Kutani Japanese Hand Painted Tea Set](https://b0cegj-qy.myshopify.com/products/vintage-kutani-japanese-china-tea-set): Shop the Vintage Kutani Japanese Hand Painted Tea Set, featuring a tea cup, saucer, and two plates. Perfect for collectors and tea lovers.
-  Updated: 2026-09-15T22:59:06Z
+  Updated: 2026-10-24T15:26:42Z
   Vendor: Grammy Shell
   Product Type: tea cup& saucer
   Availability: Available
@@ -198,8 +198,8 @@ A timeless addition to your vintage  china collection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/plat.webp?v=1757910610
   Price: $35.99 USD
-- [Vintage Noritake China Serving Platter Floral Pattern](https://b0cegj-qy.myshopify.com/products/snowman-christmas-bowl-set): Shop our Snowman Christmas Bowl Set, featuring delightful snowflakes and a whimsical snowman design. Perfect for serving festive treats this holiday season.
-  Updated: 2026-09-16T00:09:08Z
+- [Snowman Christmas Bowl Set](https://b0cegj-qy.myshopify.com/products/snowman-christmas-bowl-set): Shop our Snowman Christmas Bowl Set, featuring delightful snowflakes and a whimsical snowman design. Perfect for serving festive treats this holiday season.
+  Updated: 2026-10-24T01:43:49Z
   Vendor: Grammy Shell
   Product Type: Cereal bowls
   Availability: Available
@@ -234,7 +234,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_d9a7a567-1a3b-4b2a-b844-d07affa9d5d1.jpg?v=1763150244
   Price: $25.00 USD
 - [Bella Ceramica Vintage Pitcher | Hand Painted Nautical Design](https://b0cegj-qy.myshopify.com/products/bella-ceramica-vintage-pitcher-nautical-design-hand-painted): Shop the Bella Ceramica vintage hand-painted pitcher with nautical design. Timeless ceramic art perfect for serving or display. Ideal for collectors.
-  Updated: 2026-09-16T00:09:04Z
+  Updated: 2026-10-24T15:47:16Z
   Vendor: Grammy Shell
   Product Type: pitcher
   Availability: Available
@@ -254,8 +254,8 @@ A timeless addition to your vintage  china collection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/coffee_7c0e6c1a-01f5-4896-8690-64782003a22e.webp?v=1757771026
   Price: $19.45 USD
-- [Vng Hand Made Pottery Pitcher - Authentic Sri Lankan Art](https://b0cegj-qy.myshopify.com/products/vng-hand-made-pottery-pitcher-sri-lanka-2000): Shop the Vng Hand Made Pottery Pitcher, an authentic piece from Sri Lanka, crafted in 2000. Unique, hand-painted, and perfect for any collection.
-  Updated: 2026-09-15T21:53:16Z
+- [Vng Hand Made Pottery Pitcher - Sri Lanka](https://b0cegj-qy.myshopify.com/products/vng-handmade-pottery-pitcher-sri-lanka-2000): Shop the Vng Hand Made Pottery Pitcher, an authentic piece from Sri Lanka, crafted in 2000. Unique, hand-painted, and perfect for any collection.
+  Updated: 2026-10-24T14:46:51Z
   Vendor: Grammy Shell
   Product Type: pitcher
   Availability: Available
@@ -276,7 +276,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_d7038d39-30df-4eb3-a18f-b32fef380e69.jpg?v=1757767324
   Price: $18.45 USD
 - [Vintage Avon Creamer | Sweet Country Harvest Retired Collection Mini Pitcher](https://b0cegj-qy.myshopify.com/products/avon-vtg-creamer-sweet-country-harvest-retired-collection-minni-pitcher): Shop the vintage Avon Sweet Country Harvest creamer from the retired collection. Charming fruit design mini pitcher, perfect for collectors and home decor.
-  Updated: 2026-09-15T23:23:43Z
+  Updated: 2026-10-24T14:00:31Z
   Vendor: Grammy Shell
   Product Type: creamer
   Availability: Available
@@ -297,7 +297,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/creamer.webp?v=1755828009
   Price: $8.35 USD
 - [Vintage Laura Ashley Grapefields Dinner Plates Set of 2 | Collectible Ceramic](https://b0cegj-qy.myshopify.com/products/vintage-laura-ashley-lifestyles-dinner-plates-lot-of-2-grapefields): Shop this stunning lot of 2 Vintage Laura Ashley LIFESTILES Dinner Plates in the "Grapefields" pattern. Perfect for collectors and everyday use.
-  Updated: 2026-09-16T05:01:31Z
+  Updated: 2026-10-24T15:20:32Z
   Vendor: Grammy Shell
   Product Type: Dinner plate
   Availability: Available
@@ -311,7 +311,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/s-l1600_2130c106-e6d3-4f80-95de-8109fb2a3d81.webp?v=1755732077
   Price: $12.58 USD
 - [Crazy Cracking Plates - Award Winning Set of 3](https://b0cegj-qy.myshopify.com/products/designs-by-rosanna-crazy-cracking-plates-lot-of-3): Discover the Designs By ROSANNA Crazy Cracking Plates. This award-winning set of 3 combines art and functionality for your dining experience.
-  Updated: 2026-09-15T22:42:09Z
+  Updated: 2026-10-24T14:15:56Z
   Vendor: Grammy Shell
   Product Type: Dinner plates
   Availability: Available
@@ -332,7 +332,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/plate_523b5e95-9172-4084-affa-26ee3acdd808.webp?v=1755472050
   Price: $21.99 USD
 - [Vntg Brown Drip Glaze Coffee Cups & Saucers - Pfaltzgraff](https://b0cegj-qy.myshopify.com/products/vntg-brown-drip-glaze-coffee-cups-saucers-usa-pfaltzgraff-ovenproof): Discover vintage charm with our Vntg Brown Drip Glaze Coffee Cups & Saucers. Made in the USA, these ovenproof pieces bring style and functionality to every coffee moment.
-  Updated: 2026-09-15T22:57:50Z
+  Updated: 2026-10-24T14:11:58Z
   Vendor: Grammy Shell
   Product Type: Cups and saucers
   Availability: Available
@@ -345,13 +345,6 @@ A timeless addition to your vintage  china collection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/snow.webp?v=1755470502
   Price: $25.00 USD
-- [Vtg 1989 Porcelain Trivet Wood Frame - Cheetah Design](https://b0cegj-qy.myshopify.com/products/vintage-1989-porcelain-trivet-wood-frame-cheetah): Shop our vintage 1989 porcelain trivet with a beautiful cheetah design after a parrot by Pelzman. Perfect for decor and functionality.
-  Updated: 2026-09-16T05:58:42Z
-  Vendor: Grammy Shell
-  Product Type: trivit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/trivit_e82920a6-4422-497a-b398-74f50b5e9b03.webp?v=1755469694
-  Price: $18.45 USD
 - [Burgundy Red Japanese Coffee Cups - Set of 2](https://b0cegj-qy.myshopify.com/products/burgundy-red-japanese-coffee-cups): Shop our Lot of 2 Burgundy Red Japanese Style Coffee Cups featuring elegant gold designs. Perfect for coffee lovers and a great gift idea.
   Updated: 2026-09-15T22:57:48Z
   Vendor: Grammy Shell
@@ -528,7 +521,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/egypt.webp?v=1754537360
   Price: $19.00 USD
 - [Vancasso Blue Aqua Coffee Cups Set of 2 | Ceramic Stoneware Mugs](https://b0cegj-qy.myshopify.com/products/antique-design-stoneware-set-of-2-aqua-blue-coffee-cups): Vancasso blue aqua ceramic coffee cups set of 2. Stoneware mugs with rustic glaze finish. Microwave and dishwasher safe. Pre-owned, excellent condition.
-  Updated: 2026-09-15T21:19:26Z
+  Updated: 2026-10-24T15:50:21Z
   Vendor: Grammy Shell
   Product Type: coffee cups
   Availability: Available
@@ -605,7 +598,7 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_b7258b47-6616-4934-b582-7cdae61083ec.jpg?v=1757107943
   Price: $12.00 USD
 - [9"Candle Holder with Shade |Blue Pink Butterfly Theme](https://b0cegj-qy.myshopify.com/products/9-candle-holder-stand-and-shade-blue-and-pink-with-butterfly-theme): 9" candle holder with shade featuring blue and pink butterfly theme. Elegant ceramic home decor with intricate detailing. Perfect statement piece.
-  Updated: 2026-09-15T23:26:42Z
+  Updated: 2026-10-24T14:29:28Z
   Vendor: Grammy Shell
   Product Type: candle holder
   Availability: Available
@@ -626,34 +619,27 @@ A timeless addition to your vintage  china collection
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_095ab639-aba6-4830-b71c-7d13859f69f3.jpg?v=1760290152
   Price: $18.99 USD
 - [Signature Collection Queen Anne Tea Cups & Saucers Set of 3 | Vintage Japan](https://b0cegj-qy.myshopify.com/products/signature-collection-queen-anne-3-tea-cups-saucers-set-vtg-japan): Vintage Signature Collection Queen Anne tea cups and saucers set of 3. Made in Japan. Elegant floral fine china. Pre-owned, excellent condition.
-  Updated: 2026-09-15T23:43:32Z
+  Updated: 2026-10-24T15:31:07Z
   Vendor: Grammy Shell
   Product Type: Tea Cups and Saucers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/rn-image_picker_lib_temp_bf43faab-57c4-4a3d-a0db-be22dd8dc2a1.jpg?v=1768963152
   Price: $23.45 USD
-- [Christmas Plate victorian memories/collector deco plate/ santa And Children](https://b0cegj-qy.myshopify.com/products/christmas-plate-victorian-memories-collector-deco-plate-santa-and-children): A charming Victorian-era Christmas plate celebrating the nostalgia of Father Christmas and children in festive celebration. Hand-painted details and period-appropriate imagery make this a treasured addition to any collector's seasonal display or holiday table setting. Ideal for those who appreciate authentic vintage Yuletide memorabilia and timeless decorative charm.
-  Updated: 2026-10-20T11:15:21Z
-  Vendor: Grammy Shell
-  Product Type: collector plate
-  Availability: Not Available
-  Image: https://cdn.shopify.com/s/files/1/0691/6702/2234/files/christmasplate.jpg?v=1792437939
-  Price: $18.00 USD
 
 ## Collections
 
 - [Fine China  (hand painted ) multiple designs](https://b0cegj-qy.myshopify.com/collections/fine-china-hand-painted): Pre-loved original pieces Aulthentic back stamps Excellent condition
-  Updated: 2026-10-22T11:17:19Z
+  Updated: 2026-10-24T03:31:05Z
   Total Products: 14
 - [PLATTERS](https://b0cegj-qy.myshopify.com/collections/platters): Elegant platters & cake stands -to present your beautiful baking and scrumptious meals for your family and friends
-  Updated: 2026-10-19T00:59:21Z
-  Total Products: 10
+  Updated: 2026-10-24T03:41:20Z
+  Total Products: 8
 - [Extraordinary selection of Pitchers & Tea pots](https://b0cegj-qy.myshopify.com/collections/extraordinary-selection-of-pitchers-glass-pottery)
-  Updated: 2026-10-19T01:01:38Z
+  Updated: 2026-10-24T03:47:13Z
   Total Products: 9
 - [Special Finds](https://b0cegj-qy.myshopify.com/collections/special-finds): Special Items that I think should be in thier own category .
-  Updated: 2026-09-30T17:14:26Z
-  Total Products: 11
+  Updated: 2026-10-24T03:50:18Z
+  Total Products: 12
 - [Noritake Fine China](https://b0cegj-qy.myshopify.com/collections/noritake-fine-china): Shop authentic vintage Noritake fine china from Japan. Collectible plates, saucers, serving pieces & more. Quality vintage dinnerware at Grammy Shell's Shed.
   Updated: 2026-09-15T03:15:47Z
   Total Products: 3
@@ -661,8 +647,8 @@ A timeless addition to your vintage  china collection
   Updated: 2026-08-31T19:28:55Z
   Total Products: 0
 - [Vintage Christmas Decore](https://b0cegj-qy.myshopify.com/collections/vintage-christmas-decore): These are some of the vintage Christmas items I have found through out the year . They are some of the most unique pieces I can post for you. Along with some that we all have had at one time in our lives .
-  Updated: 2026-10-19T20:05:43Z
-  Total Products: 6
+  Updated: 2026-10-24T01:31:32Z
+  Total Products: 5
 
 ## Blogs
 
