@@ -6,12 +6,12 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-26T21:00:36Z
 - Contact Email: info@lenssepeti.net
-- Updated At: 2026-10-23T01:11:51.578Z
+- Updated At: 2026-10-31T00:30:22.970Z
 
 ## Products
 
 - [SofLens for Astigmatism (SofLens 66 Toric)](https://lenssepeti.net/products/soflens-for-astigmatism-soflens-66-toric-1): {"@context":"https://schema.org/","@type":"Product","name":"SofLens for Astigmatism (SofLens 66 Toric)","brand":{"@type":"Brand","name":"Bausch & Lomb"},"description":"Bausch & Lomb SofLens Toric, %66 su, aylık astigmat lensi.","sku":"122-SOFLENS-ASTIGMATISM","category":"Kontakt Lens","offers":{"@type":"Offer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"lenssepeti.net"}}} *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --accent: #01579B; --pale: #E1F5FE; --bg: #F0FAFF; --border: #81D4FA; --text-dark: #0a2a3a; --text-body: #1a3a50; --text-mid: #1a3a50; } body { font-family: 'Nunito','Segoe UI',Arial,sans-serif; background: var(--bg); color: var(--text-dark); line-height:1.8; font-size:17px; } .wrap { max-width:900px; margin:0 auto; padding:36px 24px 90px; } .hero { background:#fff; border-radius:22px; padding:50px 56px; display:flex; align-items:center; position:relative; overflow:hidden; margin-bottom:36px; box-shadow:0 8px 40px rgba(0,0,0,.10); } .hero::before { content:''; position:absolute; left:0; top:0; bottom:0; width:7px; background:linear-gradient(180deg,var(--accent) 0%,#81D4FA 100%); border-radius:22px 0 0 22px; } .hero::after { content:''; position:absolute; right:-80px; bottom:-80px; width:340px; height:340px; border-radius:50%; background:radial-gradient(circle,var(--pale) 0%,transparent 65%); pointer-events:none; } .hero-text { flex:1; padding-right:0; position:relative; z-index:1; } .hero-brand { font-size:11px; font-weight:900; letter-spacing:.22em; text-transform:uppercase; color:var(--accent); margin-bottom:10px; } .hero-text h1 { font-size:2.4rem; font-weight:900; color:var(--text-dark); line-height:1.06; margin-bottom:10px; } .hero-badge { display:inline-block; background:var(--accent); color:#fff; border-radius:5px; padding:3px 13px; font-size:12px; font-weight:900; letter-spacing:.07em; margin-bottom:18px; } .hero-desc { font-size:1rem; color:var(--text-mid); font-weight:700; line-height:1.65; margin-bottom:28px; max-width:380px; } .hero-meta { display:flex; flex-wrap:wrap; gap:10px; } .hero-meta-box { display:flex; flex-direction:column; align-items:center; background:var(--pale); border:1.5px solid var(--border); border-radius:12px; padding:11px 18px; min-width:76px; } .hero-meta-val { font-size:1.15rem; font-weight:900; color:var(--accent); line-height:1; } .hero-meta-lbl { font-size:10px; font-weight:800; color:var(--text-mid); text-transform:uppercase; letter-spacing:.05em; margin-top:4px; } .badges { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:32px; } .badge { background:var(--pale); color:var(--text-dark); border:1.5px solid var(--border); border-radius:30px; padding:7px 18px; font-size:14px; font-weight:800; } .badge.gold { background:#FFF8E1; color:#5D4037; border-color:#FFE082; } p { font-size:17px; color:var(--text-body); margin-bottom:18px; line-height:1.85; } strong { color:var(--text-dark); font-weight:800; } h2 { font-size:1.3rem; font-weight:900; color:var(--text-dark); margin:42px 0 14px; padding-left:16px; border-left:5px solid var(--accent); } table { width:100%; border-collapse:collapse; margin:14px 0 28px; font-size:16px; border-radius:14px; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.08); } th { background:var(--accent); color:#fff; padding:13px 18px; text-align:left; font-weight:800; font-size:15px; } td { padding:12px 18px; border-bottom:1px solid var(--border); color:var(--text-body); font-size:16px; font-weight:600; } tr:last-child td { border-bottom:none; } tr:nth-child(even) td { background:var(--pale); } .tip-box { background:var(--pale); border-left:5px solid var(--accent); border-radius:0 12px 12px 0; padding:16px 22px; margin:20px 0; } .tip-box p { margin:0; font-size:16px; color:var(--text-dark); font-weight:700; } ul { margin:8px 0 20px 28px; } li { margin-bottom:10px; font-size:17px; color:var(--text-body); font-weight:600; } .faq-item { border:1.5px solid var(--border); border-radius:12px; margin-bottom:12px; padding:17px 20px; background:#fff; transition:border-color .2s; } .faq-item:hover { border-color:var(--accent); } .faq-q { color:var(--text-dark); display:block; margin-bottom:7px; font-size:17px; font-weight:800; } .faq-a { margin:0; font-size:16px; color:var(--text-body); font-weight:600; } .tags { margin-top:44px; padding-top:22px; border-top:1.5px solid var(--border); display:flex; flex-wrap:wrap; gap:9px; } .tag { background:#fff; color:var(--text-dark); border:1.5px solid var(--border); border-radius:8px; padding:6px 14px; font-size:14px; font-weight:700; text-decoration:none; transition:background .15s; } .tag:hover { background:var(--pale); } .note { font-size:14px; color:var(--text-mid); margin-top:20px; padding-top:16px; border-top:1px solid var(--border); font-weight:600; } @media(max-width:640px) { .hero { flex-direction:column; padding:36px 28px 36px 36px; } .hero-text { padding-right:0; } .hero-text h1 { font-size:1.8rem; } } Bausch + Lomb SofLens · lenssepeti.net SofLens for Astigmatism ▲ Aylık · Toric · %59 Su Toric optik ve %59 su içeriğiyle astigmat kullanıcılar için aylık ince konfor. AylıkKullanım 6Lens/Kutu ToricAstigmat %59Su Aylık (30 gün) BC 8.6 mm Çap 14.5 mm Su %66 6 Lens SofLens for Astigmatism (SofLens 66 Toric), lenssepeti.net'in en çok tercih edilen kontakt lens ürünleri arasında özel bir yere sahiptir. Göz sağlığını ön planda tutan modern bir formülasyonla üretilen SofLens for Astigmatism (SofLens 66 Toric); yüksek oksijen geçirgenliği, üstün nem tutma kapasitesi ve olağanüstü konfor performansıyla lens deneyiminizi tamamen farklı bir boyuta taşır. lenssepeti.net'te SofLens for Astigmatism (SofLens 66 Toric)'yi orijinal ambalajında, son kullanma tarihi kontrollü ve güvenli ödeme seçenekleriyle kolayca sipariş edebilirsiniz. SofLens for Astigmatism (SofLens 66 Toric), dünyaca tanınan bir üretici tarafından titiz kalite kontrol süreçleri ve klinik çalışmalar eşliğinde geliştirilmiştir. Aylık kullanıma uygun olan SofLens for Astigmatism (SofLens 66 Toric); farklı yaşam tarzlarına ve göz anatomilerine göre optimize edilmiş parametrelerle sunulmaktadır. Sabah ilk takıldığı andan gece çıkarıldığı ana dek SofLens for Astigmatism (SofLens 66 Toric)'nin sağladığı konfor, kullanıcı memnuniyeti anketlerinde sürekli olarak en yüksek puanı alan özellikler arasında yer almaktadır. lenssepeti.net olarak SofLens for Astigmatism (SofLens 66 Toric)'yi her zaman en güncel stoktan ve orijinal fiyatlarla sunmaktayız. Uzun çalışma saatleri, ekran başında geçirilen yoğun tempolar veya dış ortamda sürdürülen aktif bir yaşam tarzı; göz nemini ve lens konforunu olumsuz etkileyebilir. SofLens for Astigmatism (SofLens 66 Toric), bu zorlu koşullara karşı dayanıklı bir yapıya sahip olup gün boyunca gözlerinizin nemliliğini ve lens oturumunu korur. lenssepeti.net'te SofLens for Astigmatism (SofLens 66 Toric)'yi inceleyin, teknik özelliklerini değerlendirin ve sizi en uygun parametreyle sipariş verin; siparişiniz güvenli paketlenerek hızla kapınıza ulaşır. Teknik Özellikler Özellik Değer Materyal Alphafilcon A (Hidrojel) Su İçeriği %66 Baz Eğri (BC) 8.6 mm Çap (Diameter) 14.5 mm Oksijen Geçirgenliği (Dk/t) 32 UV Koruması Yok Güç Aralığı -9.00 ile +4.00 D Kullanım Tipi Aylık (30 gün) Paket İçeriği 6 Lens Üretici Bausch & Lomb SofLens for Astigmatism (SofLens 66 Toric) Hakkında Detaylı Bilgi SofLens for Astigmatism (SofLens 66 Toric)'nin teknik parametreleri, modern göz biliminin gerektirdiği tüm standartları karşılayacak şekilde tasarlanmıştır. Lensin baz eğrisi (BC) ve çap değerleri, geniş bir göz anatomisi yelpazesine uyum sağlayacak biçimde belirlenmiştir. Özellikle oksijen geçirgenliği (Dk/t) değeri, lens altında biriken karbondioksiti dışarı atarak korneayı sağlıklı tutan en kritik parametrelerden biridir; SofLens for Astigmatism (SofLens 66 Toric) bu değer açısından sektör ortalamalarının üzerinde bir performans sunar. Materyal seçimi, SofLens for Astigmatism (SofLens 66 Toric)'nin konfor ve güvenlik dengesini belirleyen temel etkendir. Lensteki su içeriği oranı, gözyaşı tabakasıyla uyum açısından kritik önem taşır; çok yüksek su içeriği gözyaşından su çekerek kurumaya yol açarken çok düşük su içeriği konfor hissini azaltabilir. SofLens for Astigmatism (SofLens 66 Toric)'nin su içeriği bu denge gözetilerek optimize edilmiştir. UV koruması bulunduğu durumlarda SofLens for Astigmatism (SofLens 66 Toric); güneşin zararlı UVA ve UVB ışınlarına karşı ek bir koruma katmanı oluşturur; ancak bu, gözlük veya güneş gözlüğünün yerini tutmaz. SofLens for Astigmatism (SofLens 66 Toric)'nin güç aralığı, hafif miyopiden yüksek miyopiye ve hipermetropi değerlerine kadar uzanan geniş bir spektrumu kapsar. Bu durum, SofLens for Astigmatism (SofLens 66 Toric)'yi farklı göz numarasına sahip kullanıcılar için uygun kılar. lenssepeti.net olarak SofLens for Astigmatism (SofLens 66 Toric)'yi tüm mevcut parametrelerde stok tutmakta ve siparişlerinizi en kısa sürede karşılamaktayız. Hangi numarayı kullandığınızdan emin değilseniz, göz doktorunuzdan alacağınız güncel bir reçete ile lenssepeti.net'e başvurabilirsiniz. SofLens for Astigmatism (SofLens 66 Toric), üretim sürecinde uygulanan kapsamlı kalite testleri sayesinde tutarlı bir optik netlik sunar. Lens merkezleme kapasitesi, gün içinde farklı bakış açılarında ve göz hareketlerinde keskin görüntü sağlanmasını mümkün kılar. SofLens for Astigmatism (SofLens 66 Toric) kullanıcıları, özellikle ekran başında uzun süre çalışma, araba kullanma ve spor gibi yoğun göz gerektiren aktivitelerde konfor ve netlik açısından üstün bir deneyim yaşadıklarını bildirmektedir. lenssepeti.net, SofLens for Astigmatism (SofLens 66 Toric)'yi orijinal blister paketinde ve son kullanma tarihi kontrollü olarak sunmaktadır. SofLens for Astigmatism (SofLens 66 Toric) Kullanım Talimatları SofLens for Astigmatism (SofLens 66 Toric)'yi takmadan önce ellerinizi sabun ve suyla iyice yıkayın, ovmayı ihmal etmeyin ve tiftiksiz bir havluyla kurulayın. Lens kutusundan SofLens for Astigmatism (SofLens 66 Toric)'yi çıkarmadan önce içindeki eski bakım solüsyonunu dökün; taze solüsyon kullanmak, lensin temizliğini ve konforunu korur. Lensi parmağınıza alın, yönünü kontrol edin ve herhangi bir yırtık, renk değişikliği veya deformasyon olup olmadığını inceleyin; sorunlu bir lensle gözünüze zarar vermeyin. Lensi takmak için başparmağınız ve orta parmağınızla göz kapağını açın, SofLens for Astigmatism (SofLens 66 Toric)'yi işaret parmağınızın ucuyla kornea üzerine getirin ve yavaşça bırakın. Göz kapağınızı serbest bırakıp birkaç kez göz kırparak lensin oturumunu kontrol edin. Bulanık görüntü veya yabancı cisim hissi yaşarsanız lensi çıkarıp yeniden temizleyin ve takın; sorun devam ederse kullanmayı bırakıp göz doktoruna başvurun. Her gece uyumadan önce SofLens for Astigmatism (SofLens 66 Toric)'yi çıkarın; göz doktorunuz özellikle belirtmedikçe uyku sırasında lens kullanmayın. Lensi çıkardıktan sonra çok amaçlı lens solüsyonuyla en az 5 saniye boyunca her iki yüzeyini ovalayarak temizleyin, ardından taze solüsyonla durulayın ve lens kutusuna taze solüsyonla dolu olarak yerleştirin. Ovma adımı, solüsyonun "no rub" ibaresi taşıdığı durumlarda bile kesinlikle önerilir; çünkü mekanik temizlik, mikrobik kontaminasyonu büyük ölçüde azaltır. SofLens for Astigmatism (SofLens 66 Toric)'yi her ay yenileyin; üretici tarafından belirlenen değişim takvimini aşmayın, çünkü kullanım süresi dolan lensler protein birikintisi, göz enfeksiyonu ve konfor kaybı riskini artırır. Yeni bir paketi açtığınızda tarihi not alın ve takvimi takip edin. lenssepeti.net'ten otomatik yenileme seçeneğiyle her ay SofLens for Astigmatism (SofLens 66 Toric) siparişi verebilir, lojistik süreçle uğraşmadan her zaman taze lensinizin hazır olmasını sağlayabilirsiniz. Lens kutunuzu her gün taze solüsyonla doldurun; eski solüsyona solüsyon eklemeyin, her seferinde tamamen boşaltıp yenileyin. Lens kutusunu haftada bir kez çok amaçlı solüsyonla yıkayın ve ters çevirerek kâğıt havlu üzerinde kurumaya bırakın; hiçbir zaman musluk suyu veya tükürükle temizlemeyin. Lens kutusunu 1-3 ayda bir değiştirin; lenssepeti.net'te aksesuarlar bölümünden uygun fiyatlı lens kutuları bulabilirsiniz. Yüzme, banyo veya sauna sırasında SofLens for Astigmatism (SofLens 66 Toric)'yi çıkarın; suyla temas lenste mikroorganizma riskini artırır. Kimler İçin Uygundur? SofLens for Astigmatism (SofLens 66 Toric), astigmat teşhisi almış kullanıcılar için özel olarak tasarlanmıştır. Astigmat, korneanın ya da lensin küre yerine daha çok rugby topu biçiminde olmasından kaynaklanan ve cisimler keskin odaklanmakta güçlük çeken bir kırma kusuru türüdür. Standart sferik lensler astigmat gözüne yeterli görüş düzeltmesi sağlayamazken toric tasarımlı SofLens for Astigmatism (SofLens 66 Toric); gözün yatay ve dikey eksenini ayrı ayrı düzelterek net ve kararlı bir görüntü sunar. SofLens for Astigmatism (SofLens 66 Toric)'nin stabilizasyon teknolojisi, lensin gözde dönmesini önleyerek astigmat düzeltmesini her bakış açısında sabit tutar. Bu özellik, özellikle hızlı göz hareketlerinin gerektiği spor, araba kullanma ve ekran çalışması gibi aktivitelerde son derece kritiktir. Astigmat değerinizi ve eksenini bilmek için güncel bir göz muayenesi ve reçete gerekmektedir; lenssepeti.net'te sipariş verirken Sfer (SPH), Silindir (CYL) ve Eksen (AXIS) değerlerinizi doğru girdiğinizden emin olun. Neden lenssepeti.net'ten Satın Almalısınız? lenssepeti.net, Türkiye'nin güvenilir online kontakt lens ve göz bakım ürünleri platformu olarak binlerce kullanıcının tercihi olmaya devam etmektedir. SofLens for Astigmatism (SofLens 66 Toric)'yi lenssepeti.net'ten satın aldığınızda; orijinallik garantisi, son kullanma tarihi kontrolü, güvenli paketleme ve hızlı kargo avantajlarının tamamından eşzamanlı olarak yararlanırsınız. Platformumuzda yalnızca yetkili distribütörlerden temin edilen orijinal ürünler yer almaktadır; taklit veya bayat ürün riski sıfırdır. lenssepeti.net'in 7/24 aktif müşteri destek ekibi, SofLens for Astigmatism (SofLens 66 Toric) hakkında merak ettiğiniz her konuda yardımcı olmaya hazırdır; parametre seçimi, stok durumu, kampanya bilgileri ve iade süreçleri dahil tüm konularda yanınızdayız. Kredi kartı, banka kartı ve kapıda ödeme seçenekleriyle güvenli alışveriş yapabilirsiniz. Belirli bir sipariş tutarının üzerindeki alışverişlerde kargo ücretsizdir; toplu sipariş avantajlarından yararlanmak için lenssepeti.net'in kampanya sayfasını düzenli takip edin. lenssepeti.net'te SofLens for Astigmatism (SofLens 66 Toric)'yi sipariş ettikten sonra siparişinizin her aşamasını anlık takip edebilir, kargo firmasının sistemi üzerinden teslim durumunu izleyebilirsiniz. Herhangi bir sorunla karşılaşmanız halinde iade ve değişim politikamız çerçevesinde çözüme kavuşturulur. Düzenli SofLens for Astigmatism (SofLens 66 Toric) kullanıcıları için lenssepeti.net'in abonelik sistemi; her dönem otomatik sipariş olanağı sunarak hem zaman kazandırır hem de stok tükenmesi kaygısını ortadan kaldırır. Sıkça Sorulan Sorular SofLens for Astigmatism (SofLens 66 Toric)'i nasıl saklamalıyım? SofLens for Astigmatism (SofLens 66 Toric)'i her kullanım sonrası çok amaçlı lens solüsyonuyla temizleyip lens kutusunda saklayın. SofLens for Astigmatism (SofLens 66 Toric)'i nereden satın alabilirim? SofLens for Astigmatism (SofLens 66 Toric)'i lenssepeti.net'te orijinal fiyatlarla, güvenli ödeme seçenekleriyle satın alabilirsiniz. SofLens for Astigmatism (SofLens 66 Toric)'in paketi ne kadar sürer? SofLens for Astigmatism (SofLens 66 Toric)'in 6 Lens içeren paketi, tek göz için yaklaşık 1 ay. SofLens for Astigmatism (SofLens 66 Toric) astigmat için uygun mudur? SofLens for Astigmatism (SofLens 66 Toric) özellikle astigmat kullanıcıları için tasarlanmış bir toric lenstir; CYL ve AXIS değerlerinizle sipariş verebilirsiniz. SofLens for Astigmatism (SofLens 66 Toric) ile yüzebilir miyim? Hayır; yüzme, deniz veya banyo sırasında tüm kontakt lensler çıkarılmalıdır. Su teması enfeksiyon riskini artırır. SofLens for Astigmatism (SofLens 66 Toric)'nin fiyatı nedir? Güncel fiyat bilgisi için lenssepeti.net'teki SofLens for Astigmatism (SofLens 66 Toric) ürün sayfasını ziyaret edin; kampanya ve indirimlerden haberdar olmak için bültene abone olun. SofLens for Astigmatism (SofLens 66 Toric)'yi lenssepeti.net'te nasıl sipariş verebilirim? Ürün sayfasında BC, çap ve numaranızı seçin; sepete ekleyip güvenli ödeme adımlarını tamamlayın. Siparişiniz hızla kargoya verilir. SofLens for Astigmatism (SofLens 66 Toric) uyku sırasında kullanılabilir mi? Göz doktorunuz özellikle belirtmedikçe uyku sırasında lens kullanmayın; bu durum enfeksiyon ve kornea hasarı riskini ciddi ölçüde artırır. SofLens for Astigmatism (SofLens 66 Toric) — CYL ve AXIS Parametreleri Astigmat lensleri siparişinde doğru Silindir (CYL) ve Eksen (AXIS) değerlerini girmek son derece kritiktir. Bu değerler göz doktorunuzun düzenlediği reçetede yer alır; reçete olmaksızın astigmat lensi sipariş verilmesi önerilmez. Mevcut Silindir (CYL) Değerleri SofLens for Astigmatism (SofLens 66 Toric) için mevcut CYL seçenekleri: -0.75 D -1.25 D -1.75 D -2.25 D CYL değeriniz yukarıdaki seçeneklerde yoksa göz doktorunuz en yakın uygun değere yönlendirme yapacaktır. Bazı üreticiler özel üretim (custom) parametreler sunabilir; bu durum için lenssepeti.net müşteri destek hattına başvurabilirsiniz. Mevcut Eksen (AXIS) Değerleri SofLens for Astigmatism (SofLens 66 Toric) için mevcut eksen aralığı: 10°'dan 180°'ye kadar 10°'luk adımlarla. Eksen değeri 1° ile 180° arasında değişir; doğru eksen değeri, astigmatın reçetede belirtilen yönüne göre seçilir. Yanlış eksen, görüntü bulanıklığına ve baş ağrısına neden olabilir. Sferik Güç (SPH) Aralığı SofLens for Astigmatism (SofLens 66 Toric) için sferik güç aralığı: -9.00 ile +4.00 D. Eksi (–) değerler miyopi (uzağı görememe), artı (+) değerler hipermetropi (yakını görememe) düzeltmesi içindir. Reçete Okuma Rehberi: Reçetenizde "CYL" veya "Cyl" ibaresi silindir gücünü, "AXIS" veya "Ax" ibaresi ekseni gösterir. Bazı reçetelerde CYL değeri negatif (-), bazılarında pozitif (+) yazılabilir; lenssepeti.net siparişinde reçetenizdeki değeri olduğu gibi girin. Stabilizasyon Teknolojisi SofLens® for Astigmatism, Bausch + Lomb'un AutoAlignDesign™ teknolojisini kullanır. Bu teknik, lensin kenar profilini asimetrik olarak şekillendirerek göz kapağı kapandığında lense doğal bir hizalama kuvveti uygular ve silindir eksenini tutarlı biçimde korur. Astigmat Lensi Kullanımında Dikkat Edilmesi Gerekenler Toric lensler, gözde belirli bir yönde sabit duracak şekilde tasarlanmıştır. Lens, göz üzerinde doğru konuma oturması için kısa bir adaptasyon süresi gerektirir (genellikle 1–2 dakika). İlk kullanımlarda hafif bir dönme hissi normaldir; ancak bu his sürekli devam ederse göz doktorunuza başvurun. SofLens for Astigmatism (SofLens 66 Toric)'yi lenssepeti.net'te sipariş ederken SPH, CYL ve AXIS değerlerinizi eksiksiz ve doğru girmeniz önem taşır; hatalı parametre girişi görüş sorununa neden olabilir. soflens for astigmatism (soflens 66 toric) soflens for astigmatism (soflens 66 toric) fiyat soflens for astigmatism (soflens 66 toric) satın al bausch & lomb lens aylık (30 gün) lens lenssepeti soflens alphafilcon lens kontakt lens lenssepeti.net bc 8.6 mm lens çap 14.5 mm lens soflens for astigmatism (soflens 66 toric) yorumları soflens for astigmatism (soflens 66 toric) özellikleri soflens for astigmatism (soflens 66 toric) kullanım kontakt lens satın al lenssepeti.net güvenilir mi orijinal kontakt lens lens fiyatları hızlı kargo lens astigmat lensi toric lens astigmatlı lens fiyat Bu ürün sayfası lenssepeti.net tarafından hazırlanmıştır. Bausch & Lomb markası ve ilgili ticari markalar sahiplerine aittir.
-  Updated: 2026-10-15T13:10:30Z
+  Updated: 2026-10-30T12:53:37Z
   Vendor: Bausch + Lomb
   Product Type: Astigmatlı Toric Lensler
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: ₺2.199,00 TRY
 - [Purevision 2 HD](https://lenssepeti.net/products/purevision-2-hd): {"@context":"https://schema.org/","@type":"Product","name":"PureVision 2 HD","brand":{"@type":"Brand","name":"Bausch & Lomb"},"description":"Bausch+Lomb PureVision 2 HD, 130 Dk/t oksijen geçirgenliği, HD optik tasarım, aylık silikon hidrojel lens.","sku":"119-PUREVISION2-HD","category":"Kontakt Lens","offers":{"@type":"Offer","availability":"https://schema.org/InStock","seller":{"@type":"Organization","name":"lenssepeti.net"}}} *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; } :root { --teal: #00B4C8; --blue: #0058A0; --blue2: #1A75BB; --pale: #E0F7FA; --bg: #EEF9FC; --border: #80D8EA; --text-dark: #001830; --text-body: #082040; --text-mid: #1A3858; } body { font-family: 'Nunito','Segoe UI',Arial,sans-serif; background: var(--bg); color: var(--text-dark); line-height:1.8; font-size:17px; } .wrap { max-width:900px; margin:0 auto; padding:36px 24px 90px; } /* HERO — kutunun turkuaz gradient arka planı */ .hero { border-radius: 22px; padding: 0; display: flex; flex-direction: column; position: relative; overflow: hidden; margin-bottom: 36px; box-shadow: 0 8px 40px rgba(0,0,0,.15); background: linear-gradient(135deg, #3DD6E8 0%, #00A8C0 35%, #0070B8 75%, #004E90 100%); } /* Beyaz dalga efekti — kutudaki gibi */ .hero::after { content: ''; position: absolute; right: -40px; top: -60px; width: 420px; height: 420px; border-radius: 50%; background: radial-gradient(circle, rgba(255,255,255,.25) 0%, rgba(255,255,255,.08) 50%, transparent 68%); pointer-events: none; } .hero::before { content: ''; position: absolute; left: -30px; bottom: -50px; width: 260px; height: 260px; border-radius: 50%; background: radial-gradient(circle, rgba(255,255,255,.15) 0%, transparent 65%); pointer-events: none; } .hero-body { padding: 34px 48px 38px; display: flex; align-items: center; position: relative; z-index: 1; } .hero-divider { width: 1px; background: linear-gradient(180deg, transparent, rgba(255,255,255,.50) 25%, rgba(255,255,255,.50) 75%, transparent); margin: 0 36px; flex-shrink: 0; align-self: stretch; } /* SOL: BAUSCH+LOMB + PureVision®2 tipografisi */ .hero-left { display:flex; flex-direction:column; justify-content:center; flex:0 0 auto; } .hero-bl { font-size:11px; font-weight:900; letter-spacing:.22em; text-transform:uppercase; color:rgba(255,255,255,.85); margin-bottom:10px; } .hero-pv-row { display:flex; align-items:baseline; gap:4px; margin-bottom:0; } .hero-pure { font-size:2.6rem; font-weight:900; line-height:1; color:#fff; text-shadow:0 2px 8px rgba(0,0,0,.20); } .hero-vision { font-size:2.6rem; font-weight:900; line-height:1; color:rgba(255,255,255,.88); text-shadow:0 2px 8px rgba(0,0,0,.20); } .hero-vision sup{ font-size:.28em; vertical-align:super; color:rgba(255,255,255,.75); } .hero-vision-2 { font-size:2.6rem; font-weight:900; line-height:1; color:rgba(210,240,255,.90); text-shadow:0 2px 10px rgba(0,0,0,.25); } .hero-sub { font-size:.78rem; font-weight:700; color:rgba(255,255,255,.65); font-style:italic; margin-top:6px; margin-bottom:10px; } .hero-brand-tag { font-size:10px; font-weight:800; letter-spacing:.14em; text-transform:uppercase; color:rgba(255,255,255,.65); } /* SAĞ */ .hero-right { display:flex; flex-direction:column; justify-content:center; flex:1; gap:10px; } .hero-rozet { display: inline-flex; align-items: center; gap:9px; background: rgba(255,255,255,.18); border: 1.5px solid rgba(255,255,255,.40); border-radius: 8px; padding: 7px 14px; width: fit-content; backdrop-filter: blur(4px); } .hero-rozet-main { font-size:1.6rem; font-weight:900; color:#fff; letter-spacing:.04em; line-height:1; } .hero-rozet-text { display:flex; flex-direction:column; } .hero-rozet-title { font-size:9px; font-weight:900; letter-spacing:.10em; text-transform:uppercase; color:rgba(255,255,255,.95); } .hero-rozet-sub { font-size:8px; font-weight:800; letter-spacing:.06em; color:rgba(255,255,255,.75); } .hero-smart { font-size:1.0rem; font-weight:900; color:#fff; } .hero-slogan { font-size:.85rem; font-weight:700; color:rgba(255,255,255,.88); line-height:1.5; } .hero-mat { font-size:.78rem; font-weight:700; color:rgba(255,255,255,.68); font-style:italic; } .hero-meta { display:flex; flex-wrap:wrap; gap:8px; margin-top:4px; } .hero-meta-box { display:flex; flex-direction:column; align-items:center; background:rgba(255,255,255,.18); border:1.5px solid rgba(255,255,255,.35); border-radius:12px; padding:9px 13px; min-width:62px; backdrop-filter:blur(4px); } .hero-meta-val { font-size:.90rem; font-weight:900; color:#fff; line-height:1; } .hero-meta-lbl { font-size:10px; font-weight:800; color:rgba(255,255,255,.80); text-transform:uppercase; letter-spacing:.05em; margin-top:3px; } .badges { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:32px; } .badge { background:var(--pale); color:var(--text-dark); border:1.5px solid var(--border); border-radius:30px; padding:7px 18px; font-size:14px; font-weight:800; } .badge.teal { background:#E0F7FA; color:#004D60; border-color:#80D8EA; } p { font-size:17px; color:var(--text-body); margin-bottom:18px; line-height:1.85; } strong { color:var(--text-dark); font-weight:800; } h2 { font-size:1.3rem; font-weight:900; color:var(--text-dark); margin:42px 0 14px; padding-left:16px; border-left:5px solid var(--teal); } h3 { font-size:1.05rem; font-weight:900; color:var(--text-dark); margin:24px 0 10px; } table { width:100%; border-collapse:collapse; margin:14px 0 28px; font-size:16px; border-radius:14px; overflow:hidden; box-shadow:0 2px 14px rgba(0,0,0,.08); } th { background:var(--blue); color:#fff; padding:13px 18px; text-align:left; font-weight:800; font-size:15px; } td { padding:12px 18px; border-bottom:1px solid var(--border); color:var(--text-body); font-size:16px; font-weight:600; } tr:last-child td { border-bottom:none; } tr:nth-child(even) td { background:var(--pale); } .tip-box { background:var(--pale); border-left:5px solid var(--teal); border-radius:0 12px 12px 0; padding:16px 22px; margin:20px 0; } .tip-box p { margin:0; font-size:16px; color:var(--text-dark); font-weight:700; } ul { margin:8px 0 20px 28px; } li { margin-bottom:10px; font-size:17px; color:var(--text-body); font-weight:600; } .faq-item { border:1.5px solid var(--border); border-radius:12px; margin-bottom:12px; padding:17px 20px; background:#fff; transition:border-color .2s; } .faq-item:hover { border-color:var(--teal); } .faq-q { color:var(--text-dark); display:block; margin-bottom:7px; font-size:17px; font-weight:800; } .faq-a { margin:0; font-size:16px; color:var(--text-body); font-weight:600; } .tags { margin-top:44px; padding-top:22px; border-top:1.5px solid var(--border); display:flex; flex-wrap:wrap; gap:9px; } .tag { background:#fff; color:var(--text-dark); border:1.5px solid var(--border); border-radius:8px; padding:6px 14px; font-size:14px; font-weight:700; text-decoration:none; transition:background .15s; } .tag:hover { background:var(--pale); } .note { font-size:14px; color:var(--text-mid); margin-top:20px; padding-top:16px; border-top:1px solid var(--border); font-weight:600; } @media(max-width:640px) { .hero-body { flex-direction:column; padding:28px 22px; } .hero-divider { width:100%; height:1px; margin:20px 0; } .hero-pure, .hero-vision { font-size:2rem; } .hero-vision-2 { font-size:3rem; } } Bausch + Lomb · lenssepeti.net PureVision®2 (balafilcon A) monthly silicone hydrogel lenses HD High Definition Optik AutoAlign Design™ · 130 Dk/t O₂ AutoAlign Design™ · HD Optik Netlik Yüksek oksijen geçirgenliği — aylıkkonfor ve keskin HD görüş balafilcon A · 3 / 6 silicone hydrogel contact lenses %36Su 130Dk/t O₂ BC 8.6mm 14.0Çap (mm) 3/6Lens Aylık (30 Gün) BC 8.6 mm Çap 14.0 mm Su %36 HD Optik 6 Lens PureVision 2 HD, lenssepeti.net'in en çok tercih edilen aylık kontakt lens ürünleri arasında özel bir yere sahiptir. Bausch+Lomb'un yenilikçi HD optik tasarımı ve AutoAlign Design™ teknolojisiyle üretilen PureVision 2 HD; 130 Dk/t ile son derece yüksek oksijen geçirgenliği, üstün konfor ve olağanüstü görüş keskinliğiyle aylık lens deneyiminizi tamamen farklı bir boyuta taşır. lenssepeti.net'te PureVision 2 HD'yi orijinal ambalajında, son kullanma tarihi kontrollü ve güvenli ödeme seçenekleriyle kolayca sipariş edebilirsiniz. PureVision 2 HD, dünyaca tanınan Bausch+Lomb tarafından titiz kalite kontrol süreçleri ve klinik çalışmalar eşliğinde geliştirilmiştir. Aylık kullanıma uygun olan PureVision 2 HD; farklı yaşam tarzlarına ve göz anatomilerine göre optimize edilmiş parametrelerle sunulmaktadır. Sabah ilk takıldığı andan gece çıkarıldığı ana dek PureVision 2 HD'nin sağladığı konfor ve HD netlik, kullanıcı memnuniyeti anketlerinde sürekli olarak en yüksek puanı alan özellikler arasında yer almaktadır. Uzun çalışma saatleri, ekran başında geçirilen yoğun tempolar veya dış ortamda sürdürülen aktif bir yaşam tarzı; göz nemini ve lens konforunu olumsuz etkileyebilir. PureVision 2 HD, yüksek oksijen geçirgenliği sayesinde bu zorlu koşullara karşı dayanıklı bir yapıya sahip olup gün boyunca korneayı nefes alır halde tutar. Teknik Özellikler Özellik Değer Materyal Balafilcon A (Silikon Hidrojel) Su İçeriği %36 Baz Eğri (BC) 8.6 mm Çap (Diameter) 14.0 mm Oksijen Geçirgenliği (Dk/t) 130 UV Koruması Yok Güç Aralığı -12.00 ile +8.00 D Kullanım Tipi Aylık (30 Gün) Paket İçeriği 6 Lens Üretici Bausch + Lomb PureVision 2 HD Hakkında Detaylı Bilgi PureVision 2 HD'nin en belirgin özelliği 130 Dk/t oksijen geçirgenliğidir; bu değer sektörün en yüksek silikon hidrojel performanslarından birini temsil eder. Balafilcon A materyali, korneaya yeterli oksijen ulaşmasını sağlayarak uzun süreli kullanımda göz sağlığını korur. HD (High Definition) optik tasarım, özellikle gece görüşünde ve düşük ışık koşullarında belirgin biçimde daha keskin ve net görüntü sunar. AutoAlign Design™ teknolojisi, lensin göz yüzeyinde kendiliğinden doğru konuma oturmasını sağlayarak gün içindeki farklı bakış açılarında kararlı ve tutarlı bir optik performans sunar. PureVision 2 HD'nin %36 su içeriği, silikon hidrojel sınıfı için optimum nem dengesini korurken yüksek oksijen geçirgenliğiyle desteklenerek uzun kullanım saatlerinde konfor sağlar. PureVision 2 HD'nin geniş güç aralığı (-12.00 ile +8.00 D), hafif miyopiden yüksek miyopiye ve hipermetropi değerlerine kadar geniş bir spektrumu kapsar. lenssepeti.net olarak PureVision 2 HD'yi tüm mevcut parametrelerde stok tutmakta ve siparişlerinizi en kısa sürede karşılamaktayız. PureVision 2 HD, üretim sürecinde uygulanan kapsamlı kalite testleri sayesinde tutarlı bir optik netlik sunar. lenssepeti.net, PureVision 2 HD'yi orijinal blister paketinde ve son kullanma tarihi kontrollü olarak sunmaktadır. PureVision 2 HD Kullanım Talimatları PureVision 2 HD'yi takmadan önce ellerinizi sabun ve suyla iyice yıkayın, ovmayı ihmal etmeyin ve tiftiksiz bir havluyla kurulayın. Lens kutusundan PureVision 2 HD'yi çıkarmadan önce içindeki eski bakım solüsyonunu tamamen dökün; taze solüsyon kullanmak lensin temizliğini ve konforunu korur. Lensi takmak için başparmağınız ve orta parmağınızla göz kapağını açın, PureVision 2 HD'yi işaret parmağınızın ucuyla kornea üzerine getirin ve yavaşça bırakın. Birkaç kez göz kırparak lensin oturumunu kontrol edin. Bulanık görüntü veya yabancı cisim hissi yaşarsanız lensi çıkarıp yeniden temizleyip takın. Her gece uyumadan önce PureVision 2 HD'yi çıkarın. Lensi çıkardıktan sonra çok amaçlı lens solüsyonuyla en az 5 saniye her iki yüzeyini ovalayarak temizleyin, durulayın ve lens kutusuna taze solüsyonla dolu olarak yerleştirin. Ovma adımını "no rub" ibareli solüsyonlarda bile atlamamanızı öneririz. PureVision 2 HD'yi her ay yenileyin. Lens kutunuzu her gün taze solüsyonla doldurun; 1-3 ayda bir kutuyu yenileyin. Yüzme, banyo veya sauna sırasında PureVision 2 HD'yi çıkarın; suyla temas enfeksiyon riskini artırır. Kimler İçin Uygundur? PureVision 2 HD, özellikle görüş keskinliğini ön planda tutan, gece veya düşük ışık koşullarında sık çalışan ya da araba kullanan ve aylık lens konforundan taviz vermek istemeyen kullanıcılar için ideal bir seçenektir. HD optik tasarım ve 130 Dk/t oksijen geçirgenliğinin kombinasyonu, hem performans hem sağlık açısından üst düzey bir aylık deneyim sunar. Aktif spor yapanlar, yoğun ekran kullanıcıları, seyahat tutkunları ve uzun çalışma saatlerinde aylık lens kullananlar için PureVision 2 HD; güvenilir ve kanıtlanmış bir çözümdür. Göz doktorunuzun onayladığı parametreleri seçerek lenssepeti.net'ten kolayca sipariş verin. Neden lenssepeti.net'ten Satın Almalısınız? lenssepeti.net, Türkiye'nin güvenilir online kontakt lens ve göz bakım ürünleri platformu olarak binlerce kullanıcının tercihi olmaya devam etmektedir. PureVision 2 HD'yi lenssepeti.net'ten satın aldığınızda; orijinallik garantisi, son kullanma tarihi kontrolü, güvenli paketleme ve hızlı kargo avantajlarının tamamından eşzamanlı olarak yararlanırsınız. lenssepeti.net'in 7/24 aktif müşteri destek ekibi, parametre seçimi, stok durumu ve iade süreçleri dahil tüm konularda yanınızdadır. Kredi kartı, banka kartı ve kapıda ödeme seçenekleriyle güvenli alışveriş yapabilirsiniz. Belirli sipariş tutarının üzerinde kargo ücretsizdir. Sıkça Sorulan Sorular PureVision 2 HD'yi nasıl saklamalıyım? Her kullanım sonrası çok amaçlı lens solüsyonuyla ovarak temizleyin, durulayın ve taze solüsyon dolu lens kutusunda saklayın. HD optik tasarım ne anlama geliyor? HD (High Definition) optik tasarım; özellikle gece görüşünde ve düşük ışık koşullarında daha keskin, halo ve glare azaltılmış görüntü sunan özel bir lens geometrisidir. PureVision 2 HD'yi nereden satın alabilirim? lenssepeti.net'te orijinal fiyatlarla, güvenli ödeme seçenekleriyle satın alabilirsiniz. PureVision 2 HD'nin paketi ne kadar sürer? 3 lens içeren paket tek göz için yaklaşık 3 ay, 6 lens içeren paket yaklaşık 6 ay sürer. PureVision 2 HD astigmat için uygun mudur? Standart sferik versiyon astigmat düzeltmesi yapmaz; astigmat için göz doktorunuza danışın. PureVision 2 HD ile yüzebilir miyim? Hayır; yüzme, deniz veya banyo sırasında tüm kontakt lensler çıkarılmalıdır. Su teması enfeksiyon riskini artırır. Uyku sırasında kullanılabilir mi? Göz doktorunuz özellikle belirtmedikçe uyku sırasında lens kullanmayın; enfeksiyon ve kornea hasarı riskini ciddi ölçüde artırır. PureVision 2 HD'nin fiyatı nedir? Güncel fiyat için lenssepeti.net'teki ürün sayfasını ziyaret edin; kampanya ve indirimlerden haberdar olmak için bültene abone olun. purevision 2 hd purevision 2 hd fiyat purevision 2 hd satın al bausch lomb lens aylık lens lenssepeti purevision balafilcon lens hd optik lens kontakt lens lenssepeti.net bc 8.6 mm lens çap 14.0 mm lens purevision 2 hd yorumları purevision 2 hd özellikleri yüksek oksijen lens kontakt lens satın al lenssepeti.net güvenilir mi orijinal kontakt lens hızlı kargo lens gece görüş lensi Bu ürün sayfası lenssepeti.net tarafından hazırlanmıştır. Bausch+Lomb markası ve ilgili ticari markalar sahiplerine aittir.
-  Updated: 2026-10-22T21:33:15Z
+  Updated: 2026-10-29T18:15:03Z
   Vendor: Bausch + Lomb
   Product Type: Şeffaf Lensler
   Availability: Available
@@ -83,7 +83,7 @@
     Availability: Available
     Price: ₺1.299,00 TRY
 - [Purevision 2 HD for Astigmatism Toric](https://lenssepeti.net/products/purevision-2-hd-for-astigmatism-toric)
-  Updated: 2026-10-22T17:35:27Z
+  Updated: 2026-10-23T10:57:06Z
   Vendor: Bausch + Lomb
   Product Type: Astigmatlı Toric Lensler
   Availability: Available
@@ -256,49 +256,49 @@
 ## Collections
 
 - [Solüsyonlar](https://lenssepeti.net/collections/solusyonlar)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 15
 - [İndirimli Lensler](https://lenssepeti.net/collections/i̇ndirimli-lensler)
-  Updated: 2026-10-13T11:16:31Z
+  Updated: 2026-10-24T11:18:36Z
   Total Products: 66
 - [Solotica](https://lenssepeti.net/collections/solotica)
   Updated: 2026-06-04T01:27:35Z
   Total Products: 6
 - [Bausch & Lomb](https://lenssepeti.net/collections/bausch-lomb)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 24
 - [Elegance](https://lenssepeti.net/collections/elegance)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 32
 - [Biofinity](https://lenssepeti.net/collections/biofinity)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 9
 - [Air Optix](https://lenssepeti.net/collections/air-optix)
-  Updated: 2026-10-20T11:16:42Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 17
 - [Acuvue](https://lenssepeti.net/collections/acuvue)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 26
 - [Renkli Lensler](https://lenssepeti.net/collections/renkli-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 52
 - [Multifocal Lensler](https://lenssepeti.net/collections/multifocal-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 11
 - [Astigmatlı Toric Lensler](https://lenssepeti.net/collections/astigmatli-toric-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 29
 - [Aylık Lensler](https://lenssepeti.net/collections/aylik-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 117
 - [2 Haftalık Lensler](https://lenssepeti.net/collections/2-haftalik-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 12
 - [Günlük Lensler](https://lenssepeti.net/collections/gunluk-lensler)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 34
 - [Kampanyalar](https://lenssepeti.net/collections/kampanyalar)
-  Updated: 2026-10-17T11:22:15Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 6
 - [Hediye](https://lenssepeti.net/collections/hediye)
   Updated: 2026-06-04T01:27:49Z
@@ -307,13 +307,13 @@
   Updated: 2026-08-30T01:01:16Z
   Total Products: 3
 - [Acuvue Oasys](https://lenssepeti.net/collections/acuvue-oasys)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 16
 - [Air Optix Colors](https://lenssepeti.net/collections/air-optix-1)
-  Updated: 2026-10-20T11:16:42Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 4
 - [Alcon](https://lenssepeti.net/collections/alcon)
-  Updated: 2026-10-20T11:16:42Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 29
 - [Aqua Fresh](https://lenssepeti.net/collections/aqua-fresh)
   Updated: 2026-10-22T11:18:08Z
@@ -325,28 +325,28 @@
   Updated: 2026-08-30T01:01:16Z
   Total Products: 3
 - [Bausch + Lomb](https://lenssepeti.net/collections/bausch-lomb-1)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 30
 - [Ultra](https://lenssepeti.net/collections/ultra)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 8
 - [Biofinity](https://lenssepeti.net/collections/biofinity-1)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 9
 - [Biomedics](https://lenssepeti.net/collections/biomedics)
   Updated: 2026-10-16T11:18:00Z
   Total Products: 1
 - [Biotrue](https://lenssepeti.net/collections/bi̇otrue)
-  Updated: 2026-10-20T11:16:42Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 5
 - [Dailies](https://lenssepeti.net/collections/cooper-vision)
   Updated: 2026-10-13T11:16:31Z
   Total Products: 5
 - [Desio](https://lenssepeti.net/collections/desio)
-  Updated: 2026-10-22T07:16:12Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 21
 - [Attitude Quarterly](https://lenssepeti.net/collections/attitude-quarterly)
-  Updated: 2026-10-22T07:11:37Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 7
 - [Sensual Beauty](https://lenssepeti.net/collections/sensual-beauty)
   Updated: 2026-04-20T21:49:13Z
@@ -355,13 +355,13 @@
   Updated: 2026-10-12T11:19:13Z
   Total Products: 2
 - [Elegance 55 UV](https://lenssepeti.net/collections/elegance-55-uv)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 3
 - [Elegance Comfort](https://lenssepeti.net/collections/elegance-comfort)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 7
 - [Freshcolors](https://lenssepeti.net/collections/elit)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 11
 - [Freshlook](https://lenssepeti.net/collections/freshlook)
   Updated: 2026-10-12T11:19:13Z
@@ -388,7 +388,7 @@
   Updated: 2026-10-05T11:14:57Z
   Total Products: 6
 - [Purevision](https://lenssepeti.net/collections/purevision)
-  Updated: 2026-10-02T06:48:32Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 7
 - [Renu](https://lenssepeti.net/collections/renu)
   Updated: 2026-08-30T01:01:16Z
@@ -397,7 +397,7 @@
   Updated: 2026-10-16T11:18:00Z
   Total Products: 6
 - [Soft Colors](https://lenssepeti.net/collections/soft-colors)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 6
 - [Solotica](https://lenssepeti.net/collections/solotica-1)
   Updated: 2026-04-20T21:49:13Z
@@ -415,7 +415,7 @@
   Updated: 2026-10-21T11:19:05Z
   Total Products: 6
 - [Multifocal Lens](https://lenssepeti.net/collections/multifocal-lens)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 11
 - [Lens Medikal](https://lenssepeti.net/collections/lens-medikal)
   Updated: 2026-04-20T21:49:14Z
@@ -433,19 +433,19 @@
   Updated: 2026-04-20T21:49:14Z
   Total Products: 2
 - [Attitude](https://lenssepeti.net/collections/attitude)
-  Updated: 2026-10-22T07:11:37Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 11
 - [Coffee Collection](https://lenssepeti.net/collections/coffee-collection)
   Updated: 2026-10-22T07:16:12Z
   Total Products: 3
 - [Sensual Beauty](https://lenssepeti.net/collections/sensual-beauty-1)
-  Updated: 2026-10-22T07:16:12Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 3
 - [Timeless Collection](https://lenssepeti.net/collections/timeless-collection)
-  Updated: 2026-10-22T07:16:11Z
+  Updated: 2026-10-29T11:15:36Z
   Total Products: 2
 - [Two Shades Of Grey](https://lenssepeti.net/collections/two-shades-of-grey)
-  Updated: 2026-10-22T07:16:11Z
+  Updated: 2026-10-25T20:32:00Z
   Total Products: 2
 - [El Amore](https://lenssepeti.net/collections/el-amore)
   Updated: 2026-04-20T21:49:14Z
@@ -466,10 +466,10 @@
   Updated: 2026-04-20T21:49:15Z
   Total Products: 2
 - [Astigmatlı  Toric Renkli Lens](https://lenssepeti.net/collections/astigmatli-toric-renkli-lens)
-  Updated: 2026-10-22T07:11:37Z
+  Updated: 2026-10-25T20:32:00Z
   Total Products: 5
 - [Astigmatlı Toric Lensler](https://lenssepeti.net/collections/astigmatli-toric-lensler-1)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 38
 - [İndirimli 2 li Kampanya](https://lenssepeti.net/collections/i̇ndirimli-2-li-kampanya)
   Updated: 2026-04-20T21:49:15Z
@@ -478,10 +478,10 @@
   Updated: 2026-04-20T21:49:15Z
   Total Products: 17
 - [Multifocal Lensler](https://lenssepeti.net/collections/multifocal-lensler-1)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 11
 - [KDV %10](https://lenssepeti.net/collections/kdv-11)
-  Updated: 2026-10-22T11:18:08Z
+  Updated: 2026-10-30T11:14:45Z
   Total Products: 157
 
 ## Blogs
@@ -699,6 +699,18 @@
     Author: Admin
   - [Presbiyopi Lens Alternatifleri Nasıl Seçilir?](https://lenssepeti.net/blogs/news/presbiyopi-lens-alternatifleri): Presbiyopi Lens Alternatifleri Nasıl Seçilir?
     Updated: 2026-10-21T03:24:11Z
+    Author: Admin
+  - [Torik Lens Kimler Kullanabilir? Astigmat İçin Seçim](https://lenssepeti.net/blogs/news/torik-lens-kimler-kullanabilir): Torik Lens Kimler Kullanabilir? Astigmat İçin Seçim
+    Updated: 2026-10-23T03:25:13Z
+    Author: Admin
+  - [Kontakt Lens Duşta Kullanılır mı? Net Yanıt](https://lenssepeti.net/blogs/news/kontakt-lens-dusta-kullanilir-mi): Kontakt Lens Duşta Kullanılır mı? Net Yanıt
+    Updated: 2026-10-25T03:24:10Z
+    Author: Admin
+  - [Multifocal Lense Alışma Yöntemleri Nelerdir?](https://lenssepeti.net/blogs/news/multifocal-lense-alisma-yontemleri): Multifocal Lense Alışma Yöntemleri Nelerdir?
+    Updated: 2026-10-27T03:33:18Z
+    Author: Admin
+  - [Alerjide Lens Seçiminde Konfor İçin 7 Kural](https://lenssepeti.net/blogs/news/alerjide-lens-secimi): Alerjide Lens Seçiminde Konfor İçin 7 Kural
+    Updated: 2026-10-29T03:34:38Z
     Author: Admin
 
 ## Store Pages
