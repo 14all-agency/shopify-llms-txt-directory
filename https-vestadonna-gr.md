@@ -6,7 +6,7 @@
 - Timezone: Europe/Athens
 - Created At: 2020-11-26T19:15:11Z
 - Contact Email: vestadonna.gr@gmail.com
-- Updated At: 2026-10-23T01:26:43.606Z
+- Updated At: 2026-10-31T00:47:18.079Z
 
 Η Vesta Donna είναι ελληνική boutique γυναικείας μόδας με έμφαση στο σύγχρονο, θηλυκό και ποιοτικό στυλ.
 Το κατάστημα απευθύνεται σε γυναίκες που αναζητούν επιλεγμένα ρούχα, παπούτσια και αξεσουάρ
@@ -3357,11 +3357,11 @@ Metafields
 ## Collections
 
 - [Νέες Παραλαβές](https://vestadonna.gr/collections/νέες-παραλαβές): Ανακαλύψτε όλες τις νέες αφίξεις, τις τελευταίες τάσεις, τα καλύτερα κομμάτια που επιλέξαμε για εσάς!
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 521
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 540
 - [Ενδύματα](https://vestadonna.gr/collections/ενδύματα)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1256
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1275
 - [Υποδήματα](https://vestadonna.gr/collections/υποδήματα)
   Updated: 2026-10-13T13:44:59Z
   Total Products: 52
@@ -3369,14 +3369,14 @@ Metafields
   Updated: 2026-10-16T09:07:03Z
   Total Products: 8
 - [Peace and Chaos](https://vestadonna.gr/collections/peace-and-chaos)
-  Updated: 2026-10-22T13:25:39Z
-  Total Products: 188
+  Updated: 2026-10-30T11:05:51Z
+  Total Products: 187
 - [Dolce Domenica](https://vestadonna.gr/collections/dolce-domenica)
   Updated: 2023-05-27T22:11:46Z
   Total Products: 0
 - [Nema](https://vestadonna.gr/collections/nema)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 159
+  Updated: 2026-10-26T13:05:32Z
+  Total Products: 158
 - [Tailor Made](https://vestadonna.gr/collections/tailor-made)
   Updated: 2026-05-22T13:43:41Z
   Total Products: 1
@@ -3384,41 +3384,41 @@ Metafields
   Updated: 2024-01-10T14:41:40Z
   Total Products: 0
 - [Φορέματα](https://vestadonna.gr/collections/φορέματα)
-  Updated: 2026-10-22T14:28:58Z
+  Updated: 2026-10-26T13:15:10Z
   Total Products: 211
 - [Τοπ](https://vestadonna.gr/collections/τοπ-μπλούζες)
-  Updated: 2026-10-22T14:23:12Z
-  Total Products: 401
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 407
 - [Πλεκτά](https://vestadonna.gr/collections/πλεκτά)
   Updated: 2026-10-13T13:51:35Z
   Total Products: 15
 - [Κολάν](https://vestadonna.gr/collections/κολάν)
-  Updated: 2026-10-05T11:06:45Z
+  Updated: 2026-10-23T15:27:39Z
   Total Products: 7
 - [Φούτερ Μπλούζες](https://vestadonna.gr/collections/φούτερ-φόρμες)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 15
+  Updated: 2026-10-30T15:44:53Z
+  Total Products: 16
 - [Ολόσωμες φόρμες](https://vestadonna.gr/collections/ολόσωμες-φόρμες)
   Updated: 2026-10-13T13:56:29Z
   Total Products: 31
 - [Brands](https://vestadonna.gr/collections/brands)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1432
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1455
 - [Ζώνες](https://vestadonna.gr/collections/zwnes)
-  Updated: 2026-10-16T09:07:02Z
+  Updated: 2026-10-30T11:05:51Z
   Total Products: 13
 - [Gift Card](https://vestadonna.gr/collections/gift-card): Αγοράστε μία δωροκάρτα στο ποσό που επιθυμείτε και χαρίστε την στα αγαπημένα σας πρόσωπα. Εμείς μπορούμε να τη στείλουμε στη διεύθυνση που θα μας υποδείξετε.
   Updated: 2026-05-22T13:43:35Z
   Total Products: 3
 - [Παντελόνια Υφασμάτινα](https://vestadonna.gr/collections/παντελόνια-υφασμάτινα)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 295
+  Updated: 2026-10-30T13:36:09Z
+  Total Products: 296
 - [Παντελόνια Jeans](https://vestadonna.gr/collections/παντελόνια-jeans)
-  Updated: 2026-10-21T19:13:48Z
-  Total Products: 66
+  Updated: 2026-10-30T15:44:52Z
+  Total Products: 70
 - [Shorts](https://vestadonna.gr/collections/παντελόνια-σορτς)
-  Updated: 2026-10-22T14:23:11Z
-  Total Products: 45
+  Updated: 2026-10-30T15:44:52Z
+  Total Products: 47
 - [Πλεκτά Πουλόβερ](https://vestadonna.gr/collections/πλεκτά-πουλόβερ)
   Updated: 2026-10-13T13:51:35Z
   Total Products: 4
@@ -3435,7 +3435,7 @@ Metafields
   Updated: 2026-09-04T12:30:45Z
   Total Products: 15
 - [Beach Wear Κιμονό](https://vestadonna.gr/collections/beach-wear-κιμονό)
-  Updated: 2026-10-13T13:52:28Z
+  Updated: 2026-10-26T13:15:08Z
   Total Products: 3
 - [Beach Wear Πετσέτες](https://vestadonna.gr/collections/beach-wear-πετσέτες)
   Updated: 2026-05-22T13:44:04Z
@@ -3444,23 +3444,23 @@ Metafields
   Updated: 2026-10-13T13:34:00Z
   Total Products: 1
 - [Cozy Wear](https://vestadonna.gr/collections/cozy-wear)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 50
+  Updated: 2026-10-30T15:44:53Z
+  Total Products: 52
 - [Cozy Wear Παντελόνια](https://vestadonna.gr/collections/cozy-wear-παντελόνια)
   Updated: 2026-10-20T17:21:17Z
   Total Products: 14
 - [Cozy Wear Σετ](https://vestadonna.gr/collections/cozy-wear-σετ)
-  Updated: 2026-10-22T06:42:06Z
-  Total Products: 27
+  Updated: 2026-10-30T15:44:53Z
+  Total Products: 28
 - [Cozy Wear Φορέματα](https://vestadonna.gr/collections/cozy-wear-φορέματα)
   Updated: 2026-09-17T13:31:04Z
   Total Products: 4
 - [Παντελόνια](https://vestadonna.gr/collections/παντελόνια-1)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 437
+  Updated: 2026-10-30T15:44:52Z
+  Total Products: 441
 - [Πανωφόρια](https://vestadonna.gr/collections/πανωφόρια-1)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 207
+  Updated: 2026-10-30T15:44:54Z
+  Total Products: 214
 - [Πλεκτά Σετ](https://vestadonna.gr/collections/σετ-1)
   Updated: 2026-05-22T13:43:41Z
   Total Products: 1
@@ -3480,13 +3480,13 @@ Metafields
   Updated: 2026-07-06T19:42:25Z
   Total Products: 2
 - [Παλτό](https://vestadonna.gr/collections/παλτό)
-  Updated: 2026-10-17T11:07:56Z
-  Total Products: 23
+  Updated: 2026-10-23T15:27:38Z
+  Total Products: 25
 - [Σακάκια](https://vestadonna.gr/collections/σακάκια)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 75
+  Updated: 2026-10-30T13:36:22Z
+  Total Products: 77
 - [Κιμονό](https://vestadonna.gr/collections/κιμονό)
-  Updated: 2026-10-16T12:03:33Z
+  Updated: 2026-10-26T13:15:09Z
   Total Products: 16
 - [T-Shirts](https://vestadonna.gr/collections/t-shirts)
   Updated: 2026-10-13T13:48:11Z
@@ -3495,41 +3495,41 @@ Metafields
   Updated: 2026-09-04T12:30:45Z
   Total Products: 9
 - [Πουκάμισα](https://vestadonna.gr/collections/πουκάμισα-1)
-  Updated: 2026-10-22T14:09:26Z
-  Total Products: 149
+  Updated: 2026-10-27T11:43:01Z
+  Total Products: 150
 - [Μπλούζες](https://vestadonna.gr/collections/μπλούζες)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 270
+  Updated: 2026-10-30T15:44:57Z
+  Total Products: 274
 - [Φούστες Mini](https://vestadonna.gr/collections/φούστες-mini-1)
-  Updated: 2026-10-22T14:28:56Z
+  Updated: 2026-10-23T15:25:01Z
   Total Products: 19
 - [Φούστες Midi](https://vestadonna.gr/collections/φούστες-midi-1)
-  Updated: 2026-10-22T14:14:15Z
-  Total Products: 38
+  Updated: 2026-10-30T15:44:56Z
+  Total Products: 40
 - [Φούστες Maxi](https://vestadonna.gr/collections/φούστες-maxi-1)
-  Updated: 2026-10-22T14:12:50Z
-  Total Products: 26
+  Updated: 2026-10-30T15:44:56Z
+  Total Products: 28
 - [Φορέματα Mini](https://vestadonna.gr/collections/φορέματα-mini-1)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 73
+  Updated: 2026-10-26T13:15:10Z
+  Total Products: 72
 - [Φορέματα Midi](https://vestadonna.gr/collections/φορέματα-midi-1)
-  Updated: 2026-10-22T13:34:38Z
-  Total Products: 77
+  Updated: 2026-10-23T15:43:38Z
+  Total Products: 78
 - [Φορέματα Maxi](https://vestadonna.gr/collections/φορέματα-maxi-1)
-  Updated: 2026-10-22T13:38:45Z
-  Total Products: 128
+  Updated: 2026-10-30T15:44:57Z
+  Total Products: 130
 - [Φούστες](https://vestadonna.gr/collections/φούστες-1)
-  Updated: 2026-10-22T14:28:56Z
-  Total Products: 47
+  Updated: 2026-10-30T15:44:56Z
+  Total Products: 49
 - [Μπουφάν](https://vestadonna.gr/collections/μπουφάν-1)
-  Updated: 2026-10-14T18:40:30Z
-  Total Products: 18
+  Updated: 2026-10-30T15:44:54Z
+  Total Products: 19
 - [Jackets](https://vestadonna.gr/collections/jackets)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 93
+  Updated: 2026-10-30T15:44:54Z
+  Total Products: 98
 - [Αμάνικα](https://vestadonna.gr/collections/αμάνικα)
-  Updated: 2026-10-22T14:23:12Z
-  Total Products: 25
+  Updated: 2026-10-30T15:44:55Z
+  Total Products: 26
 - [Φούτερ Παντελόνια](https://vestadonna.gr/collections/φούτερ-παντελόνια)
   Updated: 2026-10-16T17:39:04Z
   Total Products: 6
@@ -3543,7 +3543,7 @@ Metafields
   Updated: 2026-10-13T13:44:59Z
   Total Products: 1
 - [Αξεσουάρ](https://vestadonna.gr/collections/αξεσουάρ-1)
-  Updated: 2026-10-22T12:22:38Z
+  Updated: 2026-10-23T07:27:38Z
   Total Products: 117
 - [Κολιέ](https://vestadonna.gr/collections/κολιέ): Χειροποίητα κολιέ από προσεγμένα υλικά φτιαγμένα με αγάπη.
   Updated: 2026-10-13T13:43:57Z
@@ -3561,26 +3561,26 @@ Metafields
   Updated: 2025-09-20T20:45:03Z
   Total Products: 0
 - [Moutaki](https://vestadonna.gr/collections/moutaki)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 385
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 395
 - [Diluv](https://vestadonna.gr/collections/dilov)
   Updated: 2026-10-13T13:54:26Z
   Total Products: 10
 - [Sales](https://vestadonna.gr/collections/sales)
-  Updated: 2026-10-22T12:35:47Z
+  Updated: 2026-10-27T11:17:50Z
   Total Products: 860
 - [Παντελόνες](https://vestadonna.gr/collections/παντελόνες)
-  Updated: 2026-10-22T11:34:10Z
-  Total Products: 82
+  Updated: 2026-10-26T13:15:11Z
+  Total Products: 81
 - [Vesta Donna](https://vestadonna.gr/collections/vesta-donna)
   Updated: 2026-10-13T13:58:09Z
   Total Products: 93
 - [AVADA Email Marketing - Best Sellers](https://vestadonna.gr/collections/avada-email-marketing-best-sellers)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1450
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1469
 - [AVADA Email Marketing - Newest Products](https://vestadonna.gr/collections/avada-email-marketing-newest-products)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1450
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1469
 - [Greek Archaic Kori](https://vestadonna.gr/collections/greek-archaic-kori)
   Updated: 2026-05-22T13:43:45Z
   Total Products: 1
@@ -3591,17 +3591,14 @@ Metafields
   Updated: 2026-10-06T10:52:55Z
   Total Products: 21
 - [Σετ - Σύνολα](https://vestadonna.gr/collections/σετ-συνολα)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 331
-- [SORENA](https://vestadonna.gr/collections/sorena)
-  Updated: 2026-09-08T11:09:14Z
-  Total Products: 1
+  Updated: 2026-10-30T15:44:53Z
+  Total Products: 335
 - [Never on Sunday](https://vestadonna.gr/collections/never-on-sunday)
-  Updated: 2026-10-21T13:45:25Z
+  Updated: 2026-10-25T11:03:43Z
   Total Products: 34
 - [Innocent](https://vestadonna.gr/collections/innocent)
-  Updated: 2026-10-22T12:35:47Z
-  Total Products: 211
+  Updated: 2026-10-30T13:36:22Z
+  Total Products: 216
 - [URBANCODE](https://vestadonna.gr/collections/urbancode-vegancode)
   Updated: 2026-05-24T20:32:43Z
   Total Products: 6
@@ -3609,25 +3606,25 @@ Metafields
   Updated: 2026-08-03T13:08:02Z
   Total Products: 12
 - [Μαντήλες](https://vestadonna.gr/collections/μαντήλες)
-  Updated: 2026-10-22T12:22:38Z
+  Updated: 2026-10-23T07:27:38Z
   Total Products: 6
 - [Σαμπό](https://vestadonna.gr/collections/σαμπό): Vesta Donna - Fashion Boutique. Δωρεάν μεταφορικά για παραγγελίες άνω των 80 ευρώ.
   Updated: 2026-10-13T13:28:28Z
   Total Products: 1
 - [Please](https://vestadonna.gr/collections/please)
-  Updated: 2026-10-22T06:43:23Z
-  Total Products: 83
+  Updated: 2026-10-30T15:44:55Z
+  Total Products: 92
 - [Μάσκες ύπνου](https://vestadonna.gr/collections/μάσκες-ύπνου)
   Updated: 2026-05-22T13:43:50Z
   Total Products: 1
 - [Resortwear](https://vestadonna.gr/collections/resort-wear)
-  Updated: 2026-10-13T13:53:05Z
+  Updated: 2026-10-26T13:15:08Z
   Total Products: 62
 - [Beachwear Παρεό](https://vestadonna.gr/collections/beachwear-παρεό)
   Updated: 2026-09-04T12:30:41Z
   Total Products: 1
 - [Ayios](https://vestadonna.gr/collections/ayios-athens)
-  Updated: 2026-10-21T12:24:05Z
+  Updated: 2026-10-30T14:09:02Z
   Total Products: 28
 - [Scrunchies](https://vestadonna.gr/collections/scrunchies)
   Updated: 2026-09-04T12:38:14Z
@@ -3645,11 +3642,11 @@ Metafields
   Updated: 2024-10-09T15:08:18Z
   Total Products: 0
 - [Best  Products](https://vestadonna.gr/collections/best--products)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1453
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1472
 - [Newest Products](https://vestadonna.gr/collections/newest-products)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1453
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1472
 - [DROP 1](https://vestadonna.gr/collections/drop-1)
   Updated: 2026-06-23T18:06:03Z
   Total Products: 0
@@ -3669,10 +3666,10 @@ Metafields
   Updated: 2026-10-13T13:52:28Z
   Total Products: 35
 - [PEACE & CHAOS SALES](https://vestadonna.gr/collections/p-c-sales)
-  Updated: 2026-10-22T12:23:26Z
+  Updated: 2026-10-23T07:27:38Z
   Total Products: 97
 - [MOUTAKI SALES](https://vestadonna.gr/collections/moutaki-sales)
-  Updated: 2026-10-14T18:40:30Z
+  Updated: 2026-10-27T11:17:50Z
   Total Products: 277
 - [NEMA SALES](https://vestadonna.gr/collections/nema-sales)
   Updated: 2026-10-20T11:04:56Z
@@ -3681,7 +3678,7 @@ Metafields
   Updated: 2026-10-22T12:35:47Z
   Total Products: 149
 - [NEVER ON SUNDAY SALES](https://vestadonna.gr/collections/neveronsunday-sales)
-  Updated: 2026-09-17T15:05:25Z
+  Updated: 2026-10-25T11:03:43Z
   Total Products: 24
 - [MILLA SALES](https://vestadonna.gr/collections/milla-sales)
   Updated: 2026-10-16T17:39:04Z
@@ -3690,35 +3687,35 @@ Metafields
   Updated: 2026-08-03T13:08:02Z
   Total Products: 12
 - [vesta10](https://vestadonna.gr/collections/vesta10)
-  Updated: 2026-10-21T12:24:05Z
+  Updated: 2026-10-30T14:09:02Z
   Total Products: 28
 - [Green](https://vestadonna.gr/collections/green)
   Updated: 2026-05-22T13:44:43Z
   Total Products: 8
 - [Everything](https://vestadonna.gr/collections/everything)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 1450
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 1469
 - [Πανωφόρια](https://vestadonna.gr/collections/πανωφόρια)
-  Updated: 2026-10-22T14:23:13Z
+  Updated: 2026-10-25T11:03:43Z
   Total Products: 70
 - [Summer Offers -50%](https://vestadonna.gr/collections/summer-offers-50): Στα προϊόντα της κατηγορίας δεν πραγματοποιούνται Αλλαγές και Επιστροφές.
   Updated: 2026-10-13T13:45:01Z
   Total Products: 50
 - [Πανωφόρι](https://vestadonna.gr/collections/πανωφόρια-2)
-  Updated: 2026-10-22T12:35:47Z
+  Updated: 2026-10-26T13:15:09Z
   Total Products: 72
 - [Φορέματα](https://vestadonna.gr/collections/φορέματα-1)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 177
+  Updated: 2026-10-30T15:44:57Z
+  Total Products: 178
 - [Τοπ](https://vestadonna.gr/collections/τοπ)
-  Updated: 2026-10-22T14:28:58Z
-  Total Products: 261
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 265
 - [Φούστες](https://vestadonna.gr/collections/φούστες)
-  Updated: 2026-10-22T14:28:56Z
-  Total Products: 51
+  Updated: 2026-10-30T15:44:56Z
+  Total Products: 53
 - [Παντελόνια](https://vestadonna.gr/collections/παντελόνια)
-  Updated: 2026-10-22T14:23:13Z
-  Total Products: 344
+  Updated: 2026-10-30T15:44:52Z
+  Total Products: 348
 - [Ολόσωμες Φόρμες](https://vestadonna.gr/collections/ολόσωμες-φόρμες-1)
   Updated: 2026-10-13T13:56:29Z
   Total Products: 26
@@ -3726,10 +3723,10 @@ Metafields
   Updated: 2026-10-13T13:44:59Z
   Total Products: 27
 - [Beachwear](https://vestadonna.gr/collections/beachwear)
-  Updated: 2026-10-13T13:42:30Z
+  Updated: 2026-10-26T13:15:08Z
   Total Products: 17
 - [Αξεσουάρ](https://vestadonna.gr/collections/accessories)
-  Updated: 2026-10-16T09:07:02Z
+  Updated: 2026-10-30T11:05:51Z
   Total Products: 115
 - [White](https://vestadonna.gr/collections/white)
   Updated: 2026-10-13T13:43:54Z
@@ -3756,26 +3753,26 @@ Metafields
   Updated: 2026-09-17T13:31:04Z
   Total Products: 22
 - [Eirianna](https://vestadonna.gr/collections/eirianna)
-  Updated: 2026-10-13T13:42:27Z
+  Updated: 2026-10-26T13:15:11Z
   Total Products: 14
 - [Festive Wear](https://vestadonna.gr/collections/festive-wear)
-  Updated: 2026-05-24T20:21:56Z
+  Updated: 2026-10-26T13:15:11Z
   Total Products: 16
-- [Winter Offers](https://vestadonna.gr/collections/winter-offers)
-  Updated: 2026-10-20T11:04:56Z
+- [Winter Offers | Έως -60%](https://vestadonna.gr/collections/winter-offers): Σε αυτή την κατηγορία προϊόντων δεν πραγματοποιούνται αλλαγές ή επιστροφές.
+  Updated: 2026-10-26T13:38:33Z
   Total Products: 76
 - [Summer Offers | Έως -60%](https://vestadonna.gr/collections/summer-offers): Σε αυτή την κατηγορία προϊόντων δεν πραγματοποιούνται αλλαγές ή επιστροφές.
-  Updated: 2026-10-13T13:45:01Z
-  Total Products: 150
+  Updated: 2026-10-26T13:15:54Z
+  Total Products: 159
 - [Offers 50-60%](https://vestadonna.gr/collections/offers-50-60)
   Updated: 2026-09-04T13:05:19Z
   Total Products: 33
 - [Newsletter Sales 10](https://vestadonna.gr/collections/newsletter-sales-10)
-  Updated: 2026-10-22T15:55:46Z
-  Total Products: 561
+  Updated: 2026-10-30T15:46:05Z
+  Total Products: 579
 - [Special Occasions](https://vestadonna.gr/collections/special-occasions)
-  Updated: 2026-10-21T11:29:00Z
-  Total Products: 225
+  Updated: 2026-10-26T13:15:09Z
+  Total Products: 232
 - [Teem](https://vestadonna.gr/collections/teem)
   Updated: 2026-10-13T13:56:29Z
   Total Products: 29
@@ -3792,11 +3789,11 @@ Metafields
   Updated: 2026-09-18T15:11:17Z
   Total Products: 8
 - [](https://vestadonna.gr/collections/)
-  Updated: 2026-10-22T06:43:23Z
+  Updated: 2026-10-27T11:17:50Z
   Total Products: 523
 - [Wellness](https://vestadonna.gr/collections/wellness)
-  Updated: 2026-10-16T09:07:03Z
-  Total Products: 20
+  Updated: 2026-10-26T12:12:54Z
+  Total Products: 18
 
 ## Blogs
 
