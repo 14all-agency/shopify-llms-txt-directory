@@ -6,19 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2018-06-06T20:51:49Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:57:54.253Z
+- Updated At: 2026-10-31T00:22:09.784Z
 
 ## Products
 
-- [DCM Patch Hat](https://shop.rileygreenmusic.com/products/damn-country-music-hat): Damn Country Music two toned patch hat. Adjustable sizing / Snapback closure
-  Updated: 2026-10-19T16:51:37Z
-  Vendor: Riley Green
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RG-DCM-TWO-TONED-HAT-2024.png?v=1731429450
-  Price: $20.00 USD
 - [Duck Club Carhartt Hoodie](https://shop.rileygreenmusic.com/products/duck-club-carhartt-hoodie): Duck Club Carhartt Hoodie with front print. 100% Cotton / Carhartt Midweight Hoodie
-  Updated: 2026-10-14T02:49:46Z
+  Updated: 2026-10-29T18:30:46Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -42,35 +35,35 @@
     Availability: Available
     Price: $80.00 USD
 - [Riley Green | Dont Mind If I Do (Deluxe) - Dark Green Vinyl](https://shop.rileygreenmusic.com/products/dont-mind-if-i-do-deluxe-vinyl): The Deluxe Edition of Riley Green's latest studio album, Dont Mind If I Do, is now available on dark green vinyl. Tracklist: That’s A Mistake Change My Mind Reel Problems (featuring Luke Bryan) Turnin’ Dirt Jesus Saves Too Early To Drink Pick A Place Way Out Here Waitin’ All Day Chip Off The Ol’ Block Alcohall of Fame Rather Be Good Morning From Mexico Torn Damn Good Day To Leave Looking Back On This Don’t Mind If I Do (featuring Ella Langley) Worst Way Make It Rain Cowboy As It Gets (featuring Randy Houser) I Just Need You (featuring Hannah McFarland) What Am I Supposed To Do Now  They’re Biting One To Willie
-  Updated: 2026-10-16T02:51:25Z
+  Updated: 2026-10-28T22:08:47Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGDELUXEVINYL.png?v=1762794975
   Price: $40.00 USD
 - [Green's Grocery Hat | Riley Green Official Online Store](https://shop.rileygreenmusic.com/products/greens-grocery-hat): Green's Grocery Hat cotton surf cap in khaki with puff embroidery. Plastic snapback / one size fits all 100% cotton
-  Updated: 2026-10-20T03:42:08Z
+  Updated: 2026-10-30T20:20:39Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGGREEN_SGROCERYHAT.png?v=1755703979
   Price: $30.00 USD
 - [Riley Green | Official Online Store | Jesus Saves Hat](https://shop.rileygreenmusic.com/products/jesus-saves-hat): Riley Green Jesus Saves Hat in black / natural. Adjustable sizing / Snap back closure
-  Updated: 2026-10-20T20:38:47Z
+  Updated: 2026-10-29T18:15:26Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGJESUSSAVESHAT-2_84810957-cb34-4291-b76e-424133eec8d3.png?v=1756306720
   Price: $40.00 USD
 - [Green's Hat | Riley Green Official Online Store](https://shop.rileygreenmusic.com/products/greens-hat): Custom Two Tone Green's Hat by 47 Brand
-  Updated: 2026-10-22T03:16:53Z
+  Updated: 2026-10-30T20:20:36Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGGREEN_SHAT-TWOTONE-3.png?v=1765208617
   Price: $50.00 USD
 - [Buck Around Carhartt Long Sleeve](https://shop.rileygreenmusic.com/products/buck-around-carhartt-long-sleeve): Buck Around Carhartt Long Sleeve with Carhartt tag on front pockets and exclusive RG Alabama Buck design on the back. 100% cotton jersey
-  Updated: 2026-10-19T17:49:15Z
+  Updated: 2026-10-23T22:45:37Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -101,7 +94,7 @@
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGCAMOPATCHHAT.png?v=1761161170
   Price: $40.00 USD
 - [Taxidermy Hoodie](https://shop.rileygreenmusic.com/products/taxidermy-hoodie): Taxidermy Hoodie in Army Green with front and back print. 80% Cotton, 20% Recycled Polyester / Classic Mid-Weight Hoodie
-  Updated: 2026-10-22T14:32:31Z
+  Updated: 2026-10-30T17:53:15Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -125,28 +118,21 @@
     Availability: Available
     Price: $65.00 USD
 - [Taxidermy Patch Hat](https://shop.rileygreenmusic.com/products/taxidermy-hat-camo): Taxidermy Hat in Camo with patch on the front. Camo print may vary. Adjustable sizing / Snap back closure
-  Updated: 2026-10-22T21:15:08Z
+  Updated: 2026-10-31T00:18:15Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RG_TAXIDERMY_HAT_CAMO_2.png?v=1785858582
   Price: $40.00 USD
-- [Riley Green | Official Online Store | Jesus Saves Hat](https://shop.rileygreenmusic.com/products/two-tone-hat): Riley Green Two Tone Hat in black / walnut with embroidery on the front. Adjustable sizing / Snap back closure
-  Updated: 2026-10-22T00:23:17Z
-  Vendor: Riley Green
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGHAT.png?v=1769703648
-  Price: $30.00 USD
 - [RG Temporary Tattoos](https://shop.rileygreenmusic.com/products/rg-temporary-tattoo-sheet): One sheet includes 4 temporary tattoos. 5 x 7 in sheet
-  Updated: 2026-10-20T12:03:46Z
+  Updated: 2026-10-28T21:36:36Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTEMPTATTOOS.png?v=1769703906
   Price: $10.00 USD
 - [Duckman Carhartt Button Down](https://shop.rileygreenmusic.com/products/rodeo-carhartt-button-down): Rodeo Carhartt Button Down in Dark Khaki with duck lasso's embroidered on both chests. Button-down collar Two chest pockets with button closures Carhartt label sewn on left chest pocket Carhartt-strong, triple-stitched main seams Two-button adjustable cuffs Relaxed fit
-  Updated: 2026-10-18T12:19:06Z
+  Updated: 2026-10-30T16:36:10Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -155,10 +141,10 @@
     Availability: Available
     Price: $120.00 USD
   - [MEDIUM](https://shop.rileygreenmusic.com/products/rodeo-carhartt-button-down?variant=43123336740982)
-    Availability: Not Available
+    Availability: Available
     Price: $120.00 USD
   - [LARGE](https://shop.rileygreenmusic.com/products/rodeo-carhartt-button-down?variant=43123336773750)
-    Availability: Not Available
+    Availability: Available
     Price: $120.00 USD
   - [X-LARGE](https://shop.rileygreenmusic.com/products/rodeo-carhartt-button-down?variant=43123336806518)
     Availability: Available
@@ -170,7 +156,7 @@
     Availability: Available
     Price: $120.00 USD
 - [Realtree Camo Tee](https://shop.rileygreenmusic.com/products/realtree-camo-tee): Riley Green's 2026 Realtree Camo Tee in "Advantage Classic." Front print only. Realtree M114 Tri Blend in APX 50% Polyester, 25% Cotton, and 25% Rayon
-  Updated: 2026-10-22T12:52:27Z
+  Updated: 2026-10-30T05:41:52Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -208,14 +194,14 @@
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGGOLFVISOR.png?v=1775075112
   Price: $40.00 USD
 - [RG Mustache Set](https://shop.rileygreenmusic.com/products/rg-mustache-set): 3 pack of Riley Green mustaches!
-  Updated: 2026-10-21T02:23:03Z
+  Updated: 2026-10-24T21:18:41Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGMUSTACHESET.png?v=1776096088
   Price: $15.00 USD
 - [Cowboy As It Gets Tour Tee](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-tour-tee): Cowboy As It Gets Tour Tee in shade "Pepper" with front and back print. 100% Cotton / Comfort Colors Tee
-  Updated: 2026-10-22T20:18:36Z
+  Updated: 2026-10-29T00:28:27Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -239,13 +225,13 @@
     Availability: Available
     Price: $40.00 USD
 - [Cowboy Photo Tour Tee](https://shop.rileygreenmusic.com/products/photo-tour-tee-1): Cowboy As It Gets Photo Tour Tee in shade "Graphite" with front and back print. 100% Cotton / Comfort Colors Tee
-  Updated: 2026-10-19T06:22:26Z
+  Updated: 2026-10-30T13:55:26Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGCAIGPHOTOTOURTEE.png?v=1776096654
   - [SMALL](https://shop.rileygreenmusic.com/products/photo-tour-tee-1?variant=43284922237046)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [MEDIUM](https://shop.rileygreenmusic.com/products/photo-tour-tee-1?variant=43284922269814)
     Availability: Available
@@ -266,7 +252,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Duckman Country Photo Tee](https://shop.rileygreenmusic.com/products/duckman-country-photo-tee): Duckman Country Photo Tee in shade "Pepper" with front and back print. 100% Cotton / Comfort Colors Tee
-  Updated: 2026-10-19T01:42:55Z
+  Updated: 2026-10-28T19:15:06Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -290,7 +276,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Way Out Here Tee](https://shop.rileygreenmusic.com/products/way-out-here-tee): Riley Green Way Out Here Tee in shade "Vintage Arctic" with front and back print. 100% Cotton / Lane Seven Tee
-  Updated: 2026-10-22T03:16:57Z
+  Updated: 2026-10-27T20:18:06Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -305,7 +291,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [X-LARGE](https://shop.rileygreenmusic.com/products/way-out-here-tee?variant=43284926955638)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2X-LARGE](https://shop.rileygreenmusic.com/products/way-out-here-tee?variant=43284926988406)
     Availability: Available
@@ -314,7 +300,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Cowboy As It Gets Raglan](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-raglan): Cowboy As It Gets Raglan Tee in two-tone shade "Vintage White / Navy" with front print only. 100% Cotton / Tultex Raglan Tee
-  Updated: 2026-10-19T00:03:28Z
+  Updated: 2026-10-30T16:20:07Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -323,13 +309,13 @@
     Availability: Available
     Price: $40.00 USD
   - [MEDIUM](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-raglan?variant=43284929183862)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [LARGE](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-raglan?variant=43284929216630)
     Availability: Not Available
     Price: $40.00 USD
   - [X-LARGE](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-raglan?variant=43284929249398)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [2X-LARGE](https://shop.rileygreenmusic.com/products/cowboy-as-it-gets-raglan?variant=43284929282166)
     Availability: Not Available
@@ -338,7 +324,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Cowboy Hoodie](https://shop.rileygreenmusic.com/products/cowboy-hoodie): Cowboy As It Gets Tour Hoodie in shade "Heather Grey" with front, back, and sleeve print. 100% Cotton / Carhartt Midweight Hoodie
-  Updated: 2026-10-21T01:26:17Z
+  Updated: 2026-10-30T16:26:03Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -362,7 +348,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Duck Club Camo Tee](https://shop.rileygreenmusic.com/products/duck-club-camo-tee): Duck Club Camo Tee in Realtree Original Camo with front print and back print. OGRealtree Tri Blend 50% Polyester, 25% Cotton, and 25% Rayon
-  Updated: 2026-10-22T23:14:37Z
+  Updated: 2026-10-30T16:51:16Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -386,49 +372,42 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Riley Green | That's Just Me -  Standard Black Vinyl](https://shop.rileygreenmusic.com/products/thats-just-me-vinyl): That's Just Me - Standard Black Double Vinyl On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-22T23:31:08Z
+  Updated: 2026-10-30T05:00:06Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMSTANDARDVINYL.png?v=1782328635
   Price: $34.99 USD
 - [Riley Green | That's Just Me - Standard CD](https://shop.rileygreenmusic.com/products/thats-just-me-cd): That's Just Me - Standard CD On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-21T18:43:26Z
+  Updated: 2026-10-30T22:22:32Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMSTANDARDCD.png?v=1782329625
   Price: $14.99 USD
-- [Riley Green | That's Just Me - Duckman Edition Camo Vinyl](https://shop.rileygreenmusic.com/products/thats-just-me-duckman-edition-camo-vinyl): Exclusive package design includes alternate themed cover and exclusive images from Riley’s personal photo collection of hunting trips on a gatefold jacket. 2 LP Camo vinyl. On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-21T21:54:58Z
-  Vendor: Riley Green
-  Product Type: Music
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMDUCKMANVINYL.png?v=1782329138
-  Price: $39.99 USD
 - [Riley Green | That's Just Me - Friday Night Lights Edition Window Pane Vinyl](https://shop.rileygreenmusic.com/products/thats-just-me-friday-night-lights-edition-window-pane-vinyl): Exclusive package design includes alternate themed cover and exclusive images from Riley’s personal photo collection of his favorite sports memories on a gatefold jacket. 2 LP Clear vinyl. On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-21T19:00:37Z
+  Updated: 2026-10-30T21:21:56Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMFNLVINYL-3.png?v=1782397469
   Price: $39.99 USD
 - [Riley Green | That's Just Me - Back 40 Edition Forest Green Vinyl](https://shop.rileygreenmusic.com/products/thats-just-me-back-40-edition-forest-green-vinyl): Exclusive package design includes alternate themed cover and exclusive images from Riley’s personal photo collection on a gatefold jacket. 2 LP Forest Green vinyl. This item is a pre-order that will ship early November. On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-22T02:45:23Z
+  Updated: 2026-10-30T23:31:21Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMBACK40VINYL.png?v=1782329471
   Price: $39.99 USD
 - [Riley Green | That's Just Me - White 8 Track Tape](https://shop.rileygreenmusic.com/products/thats-just-me-8-track): Riley Green's upcoming album That's Just Me on 8 Track Tape On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-10-05T13:01:41Z
+  Updated: 2026-10-24T02:40:07Z
   Vendor: Riley Green
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTJMWHITE8TRACK.png?v=1782397394
   Price: $55.98 USD
 - [Cowboy Photo Tee](https://shop.rileygreenmusic.com/products/grid-photo-tee): Cowboy As It Gets Grid Photo Tee in shade "Pepper" with front print only. 100% Cotton / Comfort Colors Tee
-  Updated: 2026-10-22T12:52:27Z
+  Updated: 2026-10-28T21:19:46Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -451,15 +430,8 @@
   - [3X-LARGE](https://shop.rileygreenmusic.com/products/grid-photo-tee?variant=43803491532918)
     Availability: Available
     Price: $40.00 USD
-- [Riley Green | That's Just Me - TalkShopLive Vinyl [SIGNED]](https://shop.rileygreenmusic.com/products/thats-just-me-talkshoplive-vinyl-signed): That's Just Me - TalkShopLive Vinyl [SIGNED] This item is a pre-order that will ship upon release on September 18, 2026. On his new album That’s Just Me, Riley Green explores everything from fleeting love and lingering heartbreak to beachy escapism and country pride in his plainspoken, lived-in style. Over 19 tracks produced by Dann Huff and co-produced by Riley himself, Green proves that he is both a CMA and ACM Award-winning Country Music superstar and a God-fearing country boy. Riley Green will never set aside his love for Country Music. He’s evolved into a headlining artist, one who sells out arena tours and anchors festivals, and he’s excited to forge an even stronger bond with his audience - simply by being himself. “Seeing people who are excited to come to your show and buying the tickets and singing the songs back to you, there’s nothing like that. The most meaningful thing you can do as an artist is write a song that people connect with,” Green says. “And I’ve done that by being true to myself. It’s just who I am.”
-  Updated: 2026-09-14T14:37:08Z
-  Vendor: Riley Green
-  Product Type: Music
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGTSLVINYL.png?v=1788457695
-  Price: $44.99 USD
 - [Riley Green That's Just Me Tracklist Tee Cotton](https://shop.rileygreenmusic.com/products/tracklist-tee): LIMITED EDITION That's Just Me Tracklist Tee in shade pepper with front and back print. 100% Cotton
-  Updated: 2026-10-22T00:23:15Z
+  Updated: 2026-10-30T21:56:30Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -474,7 +446,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [X-LARGE](https://shop.rileygreenmusic.com/products/tracklist-tee?variant=44201187704950)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2X-LARGE](https://shop.rileygreenmusic.com/products/tracklist-tee?variant=44201187737718)
     Availability: Not Available
@@ -483,14 +455,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Green's Hat | Riley Green Official Online Store](https://shop.rileygreenmusic.com/products/greens-hat-white): Custom Two Tone Green's Hat by 47 Brand
-  Updated: 2026-10-20T02:22:51Z
+  Updated: 2026-10-30T00:11:56Z
   Vendor: Riley Green
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGGREEN_SHAT-WHITE-2.png?v=1765208617
   Price: $50.00 USD
 - [Riley Green | Buck Around and Find Out Tee Cotton](https://shop.rileygreenmusic.com/products/buck-around-tee): Riley Green Buck Around Tee in pepper with front and back print. 100% Cotton / Comfort Colors Tee
-  Updated: 2026-10-22T18:02:44Z
+  Updated: 2026-10-30T20:53:16Z
   Vendor: Riley Green
   Product Type: Apparel & Accessories
   Availability: Available
@@ -513,56 +485,80 @@
   - [3X-LARGE](https://shop.rileygreenmusic.com/products/buck-around-tee?variant=44239648161910)
     Availability: Available
     Price: $30.00 USD
+- [Riley Green | Halloween Limited Edition Mystery Tee](https://shop.rileygreenmusic.com/products/halloween-mystery-tee): LIMITED EDITION, never before seen, Riley Green Mystery Tee with front and back print. 100% Cotton / Comfort Colors Tee
+  Updated: 2026-10-30T22:51:50Z
+  Vendor: Riley Green
+  Product Type: Apparel & Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0044/2007/5638/files/RGMYSTERYTEE.jpg?v=1751312635
+  - [SMALL](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952693878)
+    Availability: Available
+    Price: $40.00 USD
+  - [MEDIUM](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952726646)
+    Availability: Available
+    Price: $40.00 USD
+  - [LARGE](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952759414)
+    Availability: Available
+    Price: $40.00 USD
+  - [X-LARGE](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952792182)
+    Availability: Available
+    Price: $40.00 USD
+  - [2X-LARGE](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952824950)
+    Availability: Available
+    Price: $40.00 USD
+  - [3X-LARGE](https://shop.rileygreenmusic.com/products/halloween-mystery-tee?variant=49102952857718)
+    Availability: Available
+    Price: $40.00 USD
 
 ## Collections
 
 - [Apparel](https://shop.rileygreenmusic.com/collections/apparel)
-  Updated: 2026-10-22T14:52:14Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 130
 - [Accessories](https://shop.rileygreenmusic.com/collections/accessories)
-  Updated: 2026-10-21T21:55:37Z
+  Updated: 2026-10-29T11:07:49Z
   Total Products: 55
 - [All Products](https://shop.rileygreenmusic.com/collections/all-products)
-  Updated: 2026-10-22T14:52:14Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 336
 - [Hats](https://shop.rileygreenmusic.com/collections/hats)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 41
 - [Music](https://shop.rileygreenmusic.com/collections/music)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-29T15:37:53Z
   Total Products: 22
 - [LAST CHANCE ITEMS](https://shop.rileygreenmusic.com/collections/lastchancecollection)
-  Updated: 2026-10-22T14:51:01Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 131
 - [OUTERWEAR](https://shop.rileygreenmusic.com/collections/outerwear)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 26
 - [Tees](https://shop.rileygreenmusic.com/collections/tees)
-  Updated: 2026-10-22T14:52:14Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 98
 - [Favorites](https://shop.rileygreenmusic.com/collections/favorties)
   Updated: 2026-08-19T15:59:47Z
   Total Products: 16
 - [RESTOCKS](https://shop.rileygreenmusic.com/collections/restocks)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 5
 - [Best Sellers](https://shop.rileygreenmusic.com/collections/best-sellers): Shop the official online store of country music singer, Riley Green. Browse best sellers including tees, hoodies, accessories and more!
-  Updated: 2026-10-22T14:51:01Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 30
 - [Damn Country Music Tour Collection](https://shop.rileygreenmusic.com/collections/damn-country-music-tour-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 17
 - [UPSELL](https://shop.rileygreenmusic.com/collections/upsell)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 19
 - [NEW ARRIVALS](https://shop.rileygreenmusic.com/collections/new-collection)
   Updated: 2026-10-22T11:08:49Z
   Total Products: 2
 - [ALL BUT MUSIC](https://shop.rileygreenmusic.com/collections/all-but-music)
-  Updated: 2026-10-22T14:52:14Z
-  Total Products: 346
+  Updated: 2026-10-30T11:07:09Z
+  Total Products: 344
 - [Green's by Riley Green](https://shop.rileygreenmusic.com/collections/greens-by-riley-green)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 8
 - [LIMITED EDITION SIGNED GUITARS](https://shop.rileygreenmusic.com/collections/limited-edition-signed-guitars)
   Updated: 2026-10-09T15:32:13Z
@@ -571,37 +567,37 @@
   Updated: 2026-08-19T15:59:47Z
   Total Products: 3
 - [2026 Taxidermy Collection](https://shop.rileygreenmusic.com/collections/2026-taxidermy-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 2
 - [Duck Season](https://shop.rileygreenmusic.com/collections/duck-season)
-  Updated: 2026-10-14T11:10:01Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 5
 - [Green Collection](https://shop.rileygreenmusic.com/collections/green-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 10
 - [Camo Collection](https://shop.rileygreenmusic.com/collections/camo-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 5
 - [Golf Collection](https://shop.rileygreenmusic.com/collections/golf-collection)
   Updated: 2026-10-08T11:09:05Z
   Total Products: 3
 - [Cowboy As It Gets Tour Collection](https://shop.rileygreenmusic.com/collections/cowboy-as-it-gets-tour-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 21
 - [Official Store Exclusives](https://shop.rileygreenmusic.com/collections/official-store-exclusives)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 17
 - [Back Forty Duck Club](https://shop.rileygreenmusic.com/collections/secret-vip-link)
   Updated: 2026-05-20T19:22:56Z
   Total Products: 0
 - [That's Just Me Collection](https://shop.rileygreenmusic.com/collections/thats-just-me-collection)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 17
 - [LABOR DAY](https://shop.rileygreenmusic.com/collections/labor-day)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 34
 - [30% OFF SELECT ITEMS](https://shop.rileygreenmusic.com/collections/30-off-select-items)
-  Updated: 2026-10-22T11:08:49Z
+  Updated: 2026-10-30T11:07:09Z
   Total Products: 19
 - [Third Saturday Gear](https://shop.rileygreenmusic.com/collections/alabama-vs-tennessee-collection)
   Updated: 2026-10-21T21:54:39Z
