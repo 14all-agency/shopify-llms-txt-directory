@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-01-22T11:54:44Z
 - Contact Email: shop@fisiomnia.it
-- Updated At: 2026-10-23T01:05:54.501Z
+- Updated At: 2026-10-31T00:26:16.209Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/Fisiomnia-Olio-di-Mandorle-Dolci-Puro.webp?v=1769517090
   Price: 29,00 € EUR
 - [Scrub Asiatico cellulite e ritenzione idrica](https://fisiomnia.it/products/scrub-asiatico-cellulite-e-ritenzione-idrica): Formato: 500 ml Uno straordinario trattamento esfoliante a base di  dell’Himalaya e  Marino, arricchito con preziosi oli essenziali di Bergamotto e Menta. I benefici sulla tua pelle: Rinnovo Cellulare: L'azione meccanica del  rimuove le impurità e stimola la rigenerazione della pelle. Azione Lenitiva: Gli oli essenziali rinfrescano e calmano i tessuti. Risultato Immediato: Pelle liscia, morbida e tonica già dalla prima applicazione.
-  Updated: 2026-10-19T09:26:31Z
+  Updated: 2026-10-28T14:42:26Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -68,7 +68,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2023.11.02-Fisiomnia_Kit_Drenami_6_Bende_01.webp?v=1770728360
   Price: 108,00 € EUR
 - [Kit Cellulite + Garcinia Bomb - Trattamento Intensivo contro Grasso e Cellulite](https://fisiomnia.it/products/kit-cellulite-garcinia-bomb-br-trattamento-intensivo-contro-grasso-e-cellulite): Il Kit Trattamento Urto contiene: 1 Siero Anticellulite (50 ml) 1 Crema Anticellulite Formula Potenziata (250 ml) - Limited Edition 1 Crema Garcinia BOMB! (250 ml) Il protocollo definitivo contro Adiposità Localizzata e "Culotte de Cheval". Questo kit combina l'azione stimolante della Fosfatidilcolina con la potenza brucia-grassi della Garcinia Cambogia. Grazie all'Acido Idrossicitrico (HCA), il trattamento blocca lo stoccaggio dei lipidi e riduce fino al 25% la biosintesi dei grassi corporei. Perché i risultati sono così rapidi: Azione Lipolitica: La Garcinia accelera il metabolismo, bruciando i grassi già stoccati nei tessuti. Miglioramento Microcircolo: Siero e Crema lavorano in sinergia per levigare la pelle a buccia d'arancia. Efficacia Testata: Primi risultati visibili in soli 7-10 giorni di utilizzo combinato. Consiglio d'uso: Si applica su tutto il corpo per accelerare il dimagrimento e mantenere i risultati nel tempo.
-  Updated: 2026-10-19T09:26:30Z
+  Updated: 2026-10-23T14:31:37Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -110,7 +110,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2023.11.02-Fisiomnia_Kit_Viso_Albachiara_01.webp?v=1770728910
   Price: 88,00 € EUR
 - [Crema Viso Albachiara vitamina A-E-C e acido jaluronico](https://fisiomnia.it/products/crema-viso-albachiara-vitamina-a-e-c-e-acido-jaluronico): Formato: 100 ml — Scudo Urbano & Anti-Age La **Crema Viso Albachiara** non è una semplice idratante, ma una formulazione tecnologicamente avanzata pensata per chi vive la dinamicità della città. Grazie a una miscela equilibrata di Vitamine A, E e C, protegge attivamente il tuo viso ogni giorno. Le sue azioni chiave: Protezione Anti-Smog: Crea una barriera invisibile contro le particelle inquinanti dello smog urbano. Difesa dal Foto-Invecchiamento: Agisce come uno scudo contro i danni causati dai radicali liberi e dall'esposizione quotidiana. Rinnovo Quotidiano: Una texture setosa che lascia la pelle rinnovata, protetta e profondamente idratata. Risultato: Un viso protetto e luminoso, protetto dalle aggressioni esterne. PAO: 12M.
-  Updated: 2026-10-19T09:26:35Z
+  Updated: 2026-10-23T17:32:07Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -124,7 +124,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2024.12.04-Fisiomnia_Kit_Gravidanza.webp?v=1770728453
   Price: 126,90 € EUR
 - [Crema Garcinia Bomb formula potenziata trattamento del grasso localizzato](https://fisiomnia.it/products/crema-garcinia-bomb-formula-potenziata-trattamento-del-grasso-localizzato): Formato: 250 ml — Formula Potenziata Un vero e proprio Trattamento Urto progettato per colpire le adiposità localizzate e le zone critiche come le culotte de cheval. La sua forza risiede nell'estratto di Garcinia Cambogia, un potente acceleratore metabolico naturale. La scienza dietro il risultato: Blocca i Grassi: L'acido idrossicitrico (HCA) inibisce lo stoccaggio dei lipidi, riducendo fino al 25% la biosintesi dei grassi corporei. Effetto Brucia-Grassi: Incrementa il metabolismo cutaneo, aiutando il corpo a smaltire più rapidamente i grassi già accumulati. Azione Snellente: Accelera il processo di dimagrimento e aiuta a mantenere i risultati nel tempo. Applicazione: Può essere utilizzata su tutto il corpo. Ideale per chi cerca un'azione d'urto localizzata e profonda.
-  Updated: 2026-10-19T09:26:35Z
+  Updated: 2026-10-30T07:49:06Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -180,7 +180,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/FisiomniaAuracremavisopelligrasse1_530d02d7-0677-4479-9133-3362c3eeec85.jpg?v=1770723777
   Price: 19,50 € EUR
 - [Calliope Contorno Occhi  idratante e botox like riempimento immediato](https://fisiomnia.it/products/calliope-contorno-occhi-idratante-e-botox-like-riempimento-immediato): Quantità: 1 x 15 ml Contorno occhi e labbra, adatto a pelli giovani e mature. Idrata in profondità e grazie all’Attivo Puro a base di peptidi botox agisce in modo efficace su rughe anche profonde, aumenta il metabolismo cellulare e rimpolpa.
-  Updated: 2026-10-19T09:26:35Z
+  Updated: 2026-10-23T17:32:02Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -336,7 +336,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/Kit_Garcinia_Bomg_3_818c7d84-c834-4a65-acd6-e6d762e763aa.webp?v=1770728425
   Price: 104,70 € EUR
 - [Crema Cellulite Fosfatidilcolina Formula Potenziata](https://fisiomnia.it/products/crema-cellulite-fosfatidilcolina-formula-potenziata): Quantità: 1 x 250 ml Un principio attivo leggendario: la Fosfatidilcolina. Contenuta nella membrana plasmatica, è uno sciogli grassi naturale che favorisce l’eliminazione e la conversione del grasso in energia. Utilizzata nel trattamento della cellulite con risultati sorprendenti, permette di raggiungere risultati visibili in poche applicazioni grazie alla sinergia con pregiati estratti vegetali. Caratteristiche principali: NON CONTIENE IODIO. Azione mirata contro gli inestetismi della cellulite. Per un lato B a prova di camerini!
-  Updated: 2026-10-19T09:26:40Z
+  Updated: 2026-10-28T14:42:23Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -371,7 +371,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/Sunny_Safe_Kit_1800.jpg?v=1770734805
   Price: 29,99 € EUR
 - [Libro Mangia che sei a dieta - dottoressa Alessia Aprea](https://fisiomnia.it/products/libro-mangia-che-sei-a-dieta-dottoressa-alessia-aprea): La Different Diet non è solo un metodo, ma una vera e propria rivoluzione del concetto di dieta. Quando il corpo percepisce un deficit calorico significativo e la mente subisce lo stress di un regime alimentare ferreo, non sempre si ottengono i risultati sperati.La Different Diet, invece, consente a chi si avvicina al suo metodo di non sentire la fame, ma piuttosto di combatterla mangiando e sentirsi sazi. Non a caso anche il simbolo della farfalla rappresenta una metamorfosi e il raggiungimento dell’obiettivo stabilito in precedenza.Da bruco a bozzo a farfalla libera e leggera, è proprio in quest’ottica che la Dottoressa Alessia Aprea vede il suo concetto di dieta, o meglio di dieta differente. Nel corso degli anni, sempre più persone hanno abbracciato questo regime alimentare, grazie anche alla sua semplicità e ai suoi benefici.Chi sceglie Different, sceglie il gusto. La dottoressa Alessia Aprea è una biologa nutrizionista, classe 1992, iscritta all’Ordine Nazionale dei Biologi, che accoglie pazienti da tutta Italia nei suoi tre studi.Grazie al suo famoso metodo di Dimagrimento Different Diet, è la dottoressa più conosciuta del web. Dai social alla TV, fino ai giornali, tutti parlano di lei.Alessia viene apprezzata dai suoi pazienti non solo per il metodo di dimagrimento, ma soprattutto per la forza e l’energia che riesce a trasmettere. In molti la definiscono una Super Dottoressa. Alessia, però, è una donna normalissima, con desideri comuni, con i piedi sempre saldi e con gli occhi rivolti al futuro e ai grandi progetti che desidera portare avanti.
-  Updated: 2026-10-20T15:39:41Z
+  Updated: 2026-10-23T08:32:26Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -435,14 +435,14 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/FisiomniaKitMammola1.webp?v=1770728576
   Price: 99,90 € EUR
 - [Spazzola Dry Brushing spazzolatura a secco](https://fisiomnia.it/products/spazzola-dry-brushing-spazzolatura-a-secco): Quantità: 1 Spazzola corpo Spazzolatura a secco: un rituale antico per la tua bellezza. Spazzola con setole in fibra vegetale per il dry body brushing, un metodo antichissimo che stimola la circolazione linfatica e il microcircolo. Benefici e caratteristiche: Azione Detox: Favorisce l’eliminazione di cellulite e ritenzione idrica. Pelle Rigenerata: Dona elasticità e morbidezza alla pelle stimolando il rinnovamento cellulare. Design Ergonomico: Realizzata con un'impugnatura comoda e cordino per una presa perfetta durante l'uso.
-  Updated: 2026-10-19T09:26:40Z
+  Updated: 2026-10-27T09:16:42Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2023.11.02-Fisiomnia_Spazzola_Dry_Bushing01.webp?v=1770734687
   Price: 29,90 € EUR
 - [Slim Kit azione urto modellante e drenante crema e panta-slim short](https://fisiomnia.it/products/slim-kit-azione-urto-modellante-e-drenante-crema-e-panta-slim-short): Il Kit contiene: 1 Slim Cream + 1 Panta Slim SLIM KIT: Modella e drena senza fatica, giorno e notte. Lo Slim Kit è studiato per le donne che desiderano combattere cellulite e ritenzione su cosce, glutei e fianchi, ottimizzando i tempi. L'azione combinata della crema e del pantaloncino crea un "effetto sigillo" che prolunga il rilascio degli attivi. Trattamento Doppia Azione: NIGHT: Indossalo mentre dormi per un trattamento urto rimodellante e drenante. DAY: Indossalo sotto i vestiti per sentirti più comoda e rimodellare il corpo durante le tue attività quotidiane. Perché è efficace: Panta Slim: Non stringe e non comprime; si adatta alle forme del corpo ed è invisibile sotto gli abiti. Sinergia Perfetta: Il pantaloncino potenzia l'efficacia della Slim Cream, garantendo risultati visibili. Riscopri una nuova te con questo trattamento innovativo. Preparati a ottenere un corpo da urlo!
-  Updated: 2026-10-20T08:15:45Z
+  Updated: 2026-10-27T09:16:47Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -454,7 +454,7 @@
     Availability: Available
     Price: 79,00 € EUR
 - [Slim Cream Crema Corpo Modellante e Drenante](https://fisiomnia.it/products/slim-cream-crema-corpo-modellante-e-drenante): Quantità: 1 x 250 ml Slim Cream: Modella la tua silhouette con risultati visibili. Una crema corpo dalla texture fresca e avvolgente, studiata per chi desidera rimodellare le forme e migliorare la compattezza della pelle in tempi brevi. Tecnologia e Natura per il tuo corpo: Regu-Slim: Complesso multifunzionale brevettato che accelera il naturale meccanismo di riduzione dei grassi sottocutanei, rendendo la pelle più liscia e rassodata. Sali del Mar Morto: Ricchi di minerali essenziali, svolgono una potente azione drenante contro la ritenzione idrica. Azione 3-in-1: Snellente, rimodellante e levigante per una pelle ogni giorno più tonica.
-  Updated: 2026-10-19T09:26:40Z
+  Updated: 2026-10-28T14:42:25Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -531,14 +531,14 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2025.01.23-Fisiomnia_Set_Crema_Mani.webp?v=1770724711
   Price: 15,00 € EUR
 - [Dren-Up  Drena, Detossina e Depura](https://fisiomnia.it/products/dren-up-drena-detossina-e-depura): Quantità: 1 x 500 ml DREN-UP: L'alleato naturale per drenare, depurare e tonificare. DREN-UP è un integratore alimentare avanzato a base di estratti vegetali selezionati per agire in sinergia contro ritenzione idrica, gonfiore e pesantezza. Perché scegliere DREN-UP: Ananas: Notevoli proprietà diuretiche e drenanti per eliminare i liquidi in eccesso. Mirtillo Nero: Migliora attivamente la funzionalità del microcircolo. Tè Verde: Potente azione antiossidante e detossinante per depurare l'organismo. Centella: Riduce l'infiammazione e il gonfiore, stimolando il collagene per una pelle più tonica e compatta. Qualità e Sicurezza: Senza Glutine. Naturalmente privo di Lattosio. Adatto ai vegetariani. L'immagine è realizzata a solo scopo illustrativo.QUANTITATIVI PER DOSE GIORNALIERA CONSIGLIATA Ingredienti Dose max (50 ml) Ananas ES tit. 0,1%di cui bromelina 75 mg0,075 mg Mirtillo nero ES tit. 1%di cui antocianine 75 mg0,75 mg Tè verde ES tit. 95%di cui polifenoli 75 mg71,25 mg Centella ES tit. 2%di cui asiaticoside 25 mg0,5 mg
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-29T18:24:25Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2024.07.05-Fisiomnia_Dren-Up_1.webp?v=1770725209
   Price: 29,90 € EUR
 - [Garcinia Colada  Bruciagrassi e Spezza Fame](https://fisiomnia.it/products/garcinia-colada-bruciagrassi-e-spezza-fame): Quantità: 1 x 500 ml FORMULA FORTE: Supporto completo per il metabolismo e il controllo del peso. Un integratore alimentare avanzato a base di Garcinia, Tè Verde e Orthosiphon, formulato per chi desidera un supporto concreto nel percorso di perdita di peso e nel drenaggio dei liquidi. Perché è efficace: Garcinia: Aiuta il metabolismo dei lipidi e favorisce il controllo del senso di fame e della sazietà. Orthosiphon & Tè Verde: Lavorano in sinergia per favorire il drenaggio dei liquidi corporei e la funzionalità delle vie urinarie. Azione Urto: Formula forte studiata per supportare la perdita di peso in modo naturale ed efficace. Qualità e Sicurezza: Senza Glutine. Naturalmente privo di Lattosio. Adatto ai vegetariani. Quantitativi per dose giornaliera consigliata Ingredienti Dose max (60 ml) Garcinia ES tit. 60%di cui acido idrossicitrico 600 mg360 mg Orthosiphon ES tit. 0,1%di cui sinensetina 300 mg0,3 mg Tè verde ES tit. 95%di cui polifenoli 300 mg285 mg L'immagine è realizzata a solo scopo illustrativo.
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-30T07:49:08Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -622,7 +622,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2024.04.15-Fisiomnia_Crema_Corpo_Rassodante_100ml_06.webp?v=1770724623
   Price: 19,90 € EUR
 - [Kit T-Modella Trattamento Urto Addome e Fianchi](https://fisiomnia.it/products/kit-t-modella-trattamento-urto-addome-e-fianchi): Contenuto del Kit: 1 Fascia T-Modella 1 Spray T-Modella 1 Crema Gel T-Modella KIT T-MODELLA: Il trattamento urto per Fianchi e Addome. Se il tuo punto critico è la zona addominale, T-Modella è la soluzione che cercavi. Un trattamento innovativo da indossare, progettato per modellare il grasso più ostinato mentre svolgi le tue attività quotidiane o fai sport. Il Protocollo Giorno & Notte: Giorno: Indossa la Fascia T-Modella dopo aver applicato lo Spray T-Modella. L'azione del cosmetotessile agisce direttamente sul punto vita e sui fianchi, garantendo risultati rapidi anche sotto l'abbigliamento. Notte: Dopo aver tolto la fascia, applica la Crema Gel T-Modella. Grazie al Sacran (alga giapponese drenante) e al Nocturshape™, contrasta l'accumulo fisiologico di grassi durante il sonno, compattando i tessuti. TABELLA DI RIFERIMENTO TAGLIE Misura Kit T-Modella Circonferenza punto vita S/M 68-89 cm L/XL 90-120 cm XXL 121-165 cm
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-29T18:20:59Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -691,7 +691,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/BracciaAntiGravityKit1_7ec31a0e-cd49-43e9-ba16-3862eb8600c0.webp?v=1770724259
   Price: 69,90 € EUR
 - [Lips on fire Burrocacao idratante e volumizzante](https://fisiomnia.it/products/lips-on-fire-burrocacao-idratante-e-volumizzante): Contenuto: 1 Lips on Fire LIPS ON FIRE: Il trattamento curativo, idratante e volumizzante. Non un semplice burrocacao, ma una formula esclusiva progettata per offrire un trattamento intensivo alle tue labbra. Lips on Fire nutre in profondità e dona volume senza ricorrere a sostanze irritanti: tutta l'efficacia di un volumizzante con il comfort di un balsamo nutriente. Perché è un trattamento d'eccellenza: Azione Volumizzante Delicata: Rimpolpa e leviga le labbra in modo naturale. Non pizzica, rendendo l'applicazione piacevole in ogni momento. Idratazione Profonda: L'Acido Ialuronico e l'Aloe Vera garantiscono un'idratazione prolungata, contrastando secchezza e screpolature. Nutrimento Intensivo: Arricchito con Burro di Karitè purissimo per ripristinare la barriera idrolipidica e donare morbidezza immediata. Formula Pure: Privo di sostanze chimiche aggressive e fragranze artificiali, ideale anche per le pelli più sensibili. Consigli d'uso: Perfetto da portare sempre con te per una protezione quotidiana contro le aggressioni ambientali. Può essere utilizzato anche come trattamento d'urto notturno per svegliarsi con labbra rigenerate e rimpolpate.
-  Updated: 2026-09-15T12:36:51Z
+  Updated: 2026-10-28T14:42:25Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -712,12 +712,12 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2025.01.03-Kit_Crema_Mani_Vaniglia_e_Acqua_Profumata_Fresia.webp?v=1770728299
   Price: 11,90 € EUR
 - [Kit Contorno Occhi Calliope e 3 Illumina Mask](https://fisiomnia.it/products/kit-contorno-occhi-calliope-e-3-illumina-mask): Contenuto del Kit Natalizio: 1 Calliope Contorno Occhi Roll-on 3 Illumina Mask (Patch contorno occhi) Kit Sguardo Illuminato: il trattamento urto per occhi riposati e radiosi. Un regalo perfetto per Natale, studiato appositamente per rivitalizzare la zona più delicata del viso. Questo kit combina un trattamento quotidiano liftante a un'azione d'urto illuminante, eliminando i segni della stanchezza e dello stress. Cosa rende unico questo kit: Calliope Contorno Occhi: Grazie ai peptidi botox-like, combatte i segni del tempo riducendo rughe, borse e occhiaie. L'applicatore con microsfere metalliche effettua un massaggio drenante che leviga istantaneamente la pelle. 3 Illumina Mask: Patch idratanti pronti all'uso che donano una sferzata di freschezza immediata. Ideali per decongestionare lo sguardo prima di una serata speciale o per recuperare dopo una notte breve. Risultato Professionale: Uno sguardo visibilmente più giovane, luminoso e riposato, adatto sia a pelli giovani che mature. Regala la luce di uno sguardo perfetto. Il segreto di bellezza da scartare sotto l'albero! Edizione Limitata.
-  Updated: 2026-10-22T10:00:48Z
+  Updated: 2026-10-27T11:56:36Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2024.11.26_Kit_Calliope_Contorni_Occhi_e_Illumina_Mask.webp?v=1770727747
-  Price: 13,90 € EUR
+  Price: 33,00 € EUR
 - [Kit Lips on Fire e Crema mani Fragola](https://fisiomnia.it/products/kit-lips-on-fire-e-crema-mani-fragola): Contenuto del Set Natalizio: 1 Lips on Fire (Burrocacao volumizzante e curativo) 1 Crema Mani alla Fragola (Idratazione profonda) Set Labbra & Mani: il duo perfetto per splendere durante le feste. Rendi questo Natale indimenticabile con un'idea regalo dedicata a chi ama i dettagli di bellezza. Questo set combina protezione, nutrimento e un tocco di volume, ideale per affrontare il freddo invernale con labbra e mani sempre al top. I segreti di bellezza del kit: Lips on Fire: Molto più di un burrocacao. Arricchito con Acido Ialuronico e Burro di Karitè, idrata intensamente e dona un volume naturale alle labbra senza pizzicare. Perfetto anche come trattamento curativo notturno. Crema Mani alla Fragola: Una texture vellutata che si assorbe rapidamente, lasciando la pelle morbida e profumata con le note dolci e golose della fragola matura. Regalo Ideale: Una combinazione pratica, elegante e profumatissima, pronta per essere scartata e amata. Coccola chi ami (o te stessa) con un rituale di bellezza completo e profumato. Edizione Limitata!
   Updated: 2026-09-15T12:36:50Z
   Vendor: Fisiomnia
@@ -747,7 +747,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2025.01.03-Fisiomnia_Crema_Piedi_Urea.webp?v=1770724406
   Price: 19,90 € EUR
 - [Panta Slim Long modellante e drenante](https://fisiomnia.it/products/panta-slim-long-modellante-e-drenante): Contenuto: 1 Panta Slim Long PANTA SLIM LONG: Indossa il tuo trattamento modellante. Potenzia l’azione modellante e drenante della tua Slim Cream con il nostro Panta Slim Long. Progettato per chi desidera un trattamento completo che agisca su cosce, glutei e fianchi, garantendo risultati visibili e un comfort assoluto. Perché è indispensabile: Azione Sigillante: Indossato sopra la crema, ne impedisce l'evaporazione, consentendo un maggiore rilascio degli attivi e prolungandone l'effetto nel tempo. Comfort Totale: Lunghezza intera fino alle caviglie. Comodo e leggero, si adatta perfettamente alle forme del corpo senza stringere o causare fastidi sotto l’abbigliamento. Qualità Superiore: Realizzato con 100% Filato Italiano, garantendo resistenza, traspirabilità e una vestibilità impeccabile. La soluzione ideale per trasformare la tua routine snellente in un trattamento professionale da indossare tutto il giorno.
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-26T22:23:46Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -815,7 +815,7 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2026.01.13_fisiomnia_kit_cellulite_grasso_trattamento_urto_completo.webp?v=1770726059
   Price: 134,73 € EUR
 - [LipoCare Cream](https://fisiomnia.it/products/lipocare-cream): Contenuto: 1 Lipocare Cream (250 ml) Lipocare Cream: il trattamento specialistico per il benessere delle tue gambe. Scopri la soluzione definitiva per gambe gonfie, pesanti e dolenti. Lipocare Cream è una formula avanzata studiata specificamente per chi soffre di Lipedema, Sindrome delle Gambe Senza Riposo o fragilità capillare. Un vero alleato quotidiano per restituire leggerezza e comfort al tuo corpo. Le 3 azioni chiave di Lipocare: Azione Drenante e Vaso-protettiva: Grazie agli estratti di Rusco, Centella e Ippocastano, svolge un’efficace funzione anti-edemigena, riducendo visibilmente il gonfiore e la comparsa di lividi. Sollievo Anti-infiammatorio: La presenza di Arnica e Artiglio del Diavolo lenisce il dolore e riduce la formazione di ecchimosi, donando un sollievo immediato alle zone tese e dolenti. Idratazione e Comfort: Vitamina E e Allantoina lavorano in sinergia per mantenere la pelle elastica, idratata e ridurre la fastidiosa sensazione di tensione cutanea. Curare le tue gambe non è mai stato così semplice. Scegli Lipocare per un corpo libero da pesi e tensioni!
-  Updated: 2026-10-22T07:39:03Z
+  Updated: 2026-10-26T20:36:55Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -902,14 +902,14 @@
     Availability: Available
     Price: 39,90 € EUR
 - [Pink Perfection Crema Viso agli Esosomi](https://fisiomnia.it/products/pink-perfection-crema-viso-agli-esosomi): Quantità: 1 Pink Perfection Crema Viso Agli Esosomi (50ml) Il segreto per una pelle rigenerata, luminosa e senza tempo Pink Perfection è la crema viso perfetta per un trattamento di nuova generazione, studiato per rispondere in modo mirato alle esigenze della pelle che necessita idratazione profonda, elasticità e protezione dai segni del tempo. La sua formula innovativa combina: - Esosomi di Centella Asiatica, microsfere intelligenti di nuova frontiera biotecnologica, capaci di stimolare i naturali processi di rigenerazione cellulare e promuovere la sintesi di collagene ed elastina. - Estratti marini, ricchi di minerali e oligoelementi, che rivitalizzano i tessuti cutanei donando freschezza e luminosità. - Acido Ialuronico a basso peso molecolare, in grado di penetrare negli strati più profondi della pelle per un’idratazione immediata e duratura con effetto filler naturale. Grazie a un sistema avanzato gli attivi vengono assorbiti in modo ottimale, assicurando massima efficacia e risultati visibili giorno dopo giorno. La texture, morbida e setosa, si fonde sulla pelle lasciandola subito più liscia, tonica e compatta, senza ungere. Con l’uso costante, la crema aiuta a ridurre la visibilità delle linee sottili, a contrastare lo stress ossidativo e a restituire al viso un aspetto più giovane, fresco e radioso. Indicata per: pelli normali, secche o stressate, ideale come trattamento anti-età quotidiano o come booster di vitalità nei momenti di affaticamento cutaneo.
-  Updated: 2026-10-20T08:15:42Z
+  Updated: 2026-10-30T17:13:17Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/2026.01.13_fisiomnia_pink_crema_viso7.webp?v=1770734180
   Price: 34,30 € EUR
 - [PinkSkin Caps  Siero Concentrato agli Esosomi – Night Repair](https://fisiomnia.it/products/pinkskin-caps-siero-concentrato-agli-esosomi-night-repair): Quantità: 1 Pink Skin Caps (10 capsule per confezione) Il segreto per una pelle rigenerata, luminosa e senza tempo Scopri il segreto per una pelle visibilmente più giovane e rigenerata ogni mattina con il nostro Siero Concentrato agli Esosomi in capsule. Ogni singola dose di questo trattamento è un concentrato di attivi potenti pensato per risvegliare la tua pelle e ridarle luminosità e vitalità durante la notte. La vera innovazione risiede nell’inclusione degli Esosomi di nuova generazione, veri e propri messaggeri cellulari che potenziano l’efficacia degli attivi, ottimizzando la loro penetrazione nei livelli più profondi della pelle. Questi piccoli vettori, derivati da cellule naturalmente presenti nel corpo sono in grado di trasferire segnali vitali alle cellule, stimolando la rigenerazione e migliorando il processo di riparazione notturna. La Vitamina A, noto alleato anti-età, favorisce il rinnovo cellulare, riducendo visibilmente rughe e imperfezioni. La Vitamina E, con le sue proprietà antiossidanti, aiuta a proteggere la pelle dai danni causati dai radicali liberi, mentre le Ceramidi rinforzano la barriera cutanea, prevenendo la disidratazione e migliorando la texture complessiva della pelle. La texture setosa e avvolgente del siero si fonde delicatamente con la pelle, regalando una sensazione di comfort immediato e un’efficace azione levigante. Al risveglio, la pelle appare più liscia, tonica e visibilmente più sana, con un aspetto radioso e rinnovato. Per un trattamento completo e altamente efficace e performante consigliamo l’abbinamento a Pink Perfection Crema e Siero Viso agli Esosomi per un’azione ancora più intensa e un risultato globale sorprendente. La combinazione di questi prodotti garantirà una pelle visibilmente più giovane e una routine di bellezza che agisce in sinergia durante le ore notturne.
-  Updated: 2026-10-20T08:15:41Z
+  Updated: 2026-10-30T17:13:17Z
   Vendor: Fisiomnia
   Product Type: 
   Availability: Available
@@ -1027,14 +1027,14 @@
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/linfolipase-frontale.png?v=1790598522
   Price: 34,00 € EUR
 - [Snellip+ oro bustine](https://fisiomnia.it/products/snellip-oro-bustine): Formato: 30 bustine orosolubiliUn supporto mirato in bustine orosolubili pensata per chi vuole prendersi cura delle proprie gambe e accompagnare percorsi dedicati a microcircolo, pesantezza, gonfiore e inestetismi, con un’integrazione quotidiana. Inserito anche all’interno di percorsi integrativi dedicati al benessere della gambe in presenza Lipedema e Linfedema, come supporto nutrizionale all’interno di percorsi più ampi.Informazioni NutrizionaliBromelina 500 mg, Boswelia 500 mg, Ribes Nero 200 mg, Resveratrolo 25 mg, Zinco 10 mg
-  Updated: 2026-10-22T12:31:04Z
+  Updated: 2026-10-30T08:10:15Z
   Vendor: Yeho Pharma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1003/9194/4532/files/snellip-frontale.png?v=1790598529
   Price: 42,00 € EUR
 - [Leggings massaggianti a compressione graduata 15mm/hg](https://fisiomnia.it/products/leggings-massaggianti): Linea di leggings massaggianti a compressione graduata I leggings massaggianti medi a compressione graduata, sfruttano il filato a onde per ottenere un effetto modellante prolungato durante tutta la giornata. Filato a onde modellante Ideale per pazienti fisicamente attivi Cucitura ribaltata alla caviglia (niente effetto laccio) Leggings trasparenti Questi leggings sono realizzati in un tessuto leggero e trasparente, che richiede particolare delicatezza durante l'utilizzo. Si consiglia di indossarli con cura, prestando attenzione soprattutto in presenza di unghie lunghe o appuntite, che potrebbero impigliarsi nel tessuto e provocare strappi o rotture, in particolare nella zona del cavallo. Per preservarne l'integrità e la durata nel tempo, si raccomanda di evitare trazioni eccessive durante la vestizione.
-  Updated: 2026-10-22T09:03:59Z
+  Updated: 2026-10-28T16:23:26Z
   Vendor: Fisiomnia Beauty
   Product Type: 
   Availability: Available
@@ -1055,7 +1055,7 @@
     Availability: Available
     Price: 50,00 € EUR
 - [Leggings liscio a compressione graduata 18mm/hg](https://fisiomnia.it/products/leggings-a-compressione-graduata): Linea di Leggings a compressione graduata La linea leggings offre due gradi di compressione, è ideale per pazienti attivi e si presta ad un utilizzo prolungato.Realizzata per la prevenzione dei disturbi degli arti inferiori. Ideale per pazienti fisicamente attivi Cucitura ribaltata alla caviglia (niente effetto laccio) Comfort prolungato Leggings trasparenti Questi leggings sono realizzati in un tessuto leggero e trasparente, che richiede particolare delicatezza durante l'utilizzo. Si consiglia di indossarli con cura, prestando attenzione soprattutto in presenza di unghie lunghe o appuntite, che potrebbero impigliarsi nel tessuto e provocare strappi o rotture, in particolare nella zona del cavallo. Per preservarne l'integrità e la durata nel tempo, si raccomanda di evitare trazioni eccessive durante la vestizione.
-  Updated: 2026-10-21T11:45:03Z
+  Updated: 2026-10-26T22:23:42Z
   Vendor: Fisiomnia Beauty
   Product Type: 
   Availability: Available
@@ -1072,33 +1072,33 @@
   - [V](https://fisiomnia.it/products/leggings-a-compressione-graduata?variant=57582641906004)
     Availability: Available
     Price: 35,00 € EUR
-[List Continued](https://fisiomnia.it/a/llms-agent/llms.txt?shop=fisiomnia.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg3MTg5NjA5MzAxMiwibGFzdF92YWx1ZSI6IjE1ODcxODk2MDkzMDEyIn0%3D)
+[List Continued](https://fisiomnia.it/a/llms-agent/llms.txt?shop=fisiomnia.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTg3MTg5NjA5MzAxMiwibGFzdF92YWx1ZSI6IjIwMjYtMTAtMTMgMTM6MDg6NTguMDAwMDAwIn0%3D)
 
 ## Collections
 
 - [Linea Corpo - Accessori](https://fisiomnia.it/collections/linea-corpo-accessori)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 7
 - [Linea Corpo - Bende](https://fisiomnia.it/collections/linea-corpo-bende)
   Updated: 2026-10-18T11:23:57Z
   Total Products: 4
 - [Linea Corpo - Braccia](https://fisiomnia.it/collections/linea-corpo-braccia)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 11
 - [Linea Corpo - Cellulite e Ritenzione Idrica](https://fisiomnia.it/collections/linea-corpo-cellulite-e-ritenzione-idrica)
-  Updated: 2026-10-20T08:15:46Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 35
 - [Linea Corpo - Garcinia](https://fisiomnia.it/collections/linea-corpo-garcinia)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 7
 - [Linea Corpo - Gravidanza](https://fisiomnia.it/collections/linea-corpo-gravidanza)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 17
 - [Linea Corpo - Rassodante](https://fisiomnia.it/collections/linea-corpo-rassodante)
-  Updated: 2026-10-20T08:15:43Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 12
 - [Linea Corpo - Smagliature](https://fisiomnia.it/collections/linea-corpo-smagliature)
-  Updated: 2026-10-18T11:23:57Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 6
 - [Linea Viso - Esosomi](https://fisiomnia.it/collections/linea-viso-esosomi)
   Updated: 2026-10-20T08:15:44Z
@@ -1110,7 +1110,7 @@
   Updated: 2026-10-20T08:15:47Z
   Total Products: 5
 - [Lipedema](https://fisiomnia.it/collections/lipedema)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 16
 - [Solari](https://fisiomnia.it/collections/solari)
   Updated: 2026-10-20T08:15:47Z
@@ -1122,7 +1122,7 @@
   Updated: 2026-09-28T11:29:13Z
   Total Products: 3
 - [Idea Regalo](https://fisiomnia.it/collections/idea-regalo-1)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 51
 - [Idea Regalo - Calza](https://fisiomnia.it/collections/calza)
   Updated: 2026-09-15T12:44:54Z
@@ -1131,19 +1131,19 @@
   Updated: 2026-04-07T12:47:32Z
   Total Products: 6
 - [Libri](https://fisiomnia.it/collections/libri)
-  Updated: 2026-10-21T11:30:16Z
+  Updated: 2026-10-23T11:31:07Z
   Total Products: 1
 - [Linea Aura](https://fisiomnia.it/collections/linea-aura)
   Updated: 2026-09-15T12:46:45Z
   Total Products: 6
 - [Linea Corpo](https://fisiomnia.it/collections/linea-corpo)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 88
 - [Linea Corpo - Capillari Fragili](https://fisiomnia.it/collections/linea-corpo-capillari-fragili)
   Updated: 2026-10-20T08:15:47Z
   Total Products: 3
 - [Linea Corpo - Crema Corpo Rassodante](https://fisiomnia.it/collections/linea-corpo-crema-corpo-rassodante)
-  Updated: 2026-10-14T11:47:51Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 2
 - [Linea Corpo - Leggerezza, Idratazione e Feschezza](https://fisiomnia.it/collections/linea-corpo-leggerezza-idratazione-e-feschezza)
   Updated: 2026-10-20T08:15:47Z
@@ -1155,46 +1155,46 @@
   Updated: 2026-09-15T12:36:54Z
   Total Products: 1
 - [Linea Corpo - Addome e Cosce](https://fisiomnia.it/collections/linea-corpo-addome-e-cosce)
-  Updated: 2026-10-20T08:15:45Z
+  Updated: 2026-10-27T11:44:20Z
   Total Products: 2
 - [Linea Corpo - Cellulite](https://fisiomnia.it/collections/linea-corpo-cellulite)
-  Updated: 2026-10-13T11:31:06Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 8
 - [Linea Corpo - Cellulite e Grasso Localizzato](https://fisiomnia.it/collections/linea-corpo-cellulite-e-grasso-localizzato)
   Updated: 2026-10-20T08:15:43Z
   Total Products: 3
 - [Linea Corpo - Creme](https://fisiomnia.it/collections/linea-corpo-creme)
-  Updated: 2026-10-14T11:47:51Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 11
 - [Linea Corpo - Drenante](https://fisiomnia.it/collections/linea-corpo-drenante)
-  Updated: 2026-10-20T08:15:46Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 17
 - [Linea Corpo - Gambe Gonfie](https://fisiomnia.it/collections/linea-corpo-gambe-gonfie)
-  Updated: 2026-10-20T08:15:47Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 7
 - [Linea Corpo - Gambe Pesanti](https://fisiomnia.it/collections/linea-corpo-gambe-pesanti-1)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-27T11:44:20Z
   Total Products: 12
 - [Linea Corpo - Gel](https://fisiomnia.it/collections/linea-corpo-gel)
   Updated: 2026-10-20T08:15:47Z
   Total Products: 3
 - [Linea Corpo - Grasso](https://fisiomnia.it/collections/linea-corpo-grasso)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 10
 - [Linea Corpo - Idratazione](https://fisiomnia.it/collections/linea-corpo-idratazione)
-  Updated: 2026-10-13T07:34:39Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 4
 - [Linea Corpo - Integratori](https://fisiomnia.it/collections/linea-corpo-integratori-1)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 6
 - [Linea Corpo - Kit](https://fisiomnia.it/collections/linea-corpo-kit)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 43
 - [Linea Corpo - Piedi](https://fisiomnia.it/collections/linea-corpo-piedi)
   Updated: 2026-10-13T11:31:06Z
   Total Products: 3
 - [Linea Corpo - Scrub](https://fisiomnia.it/collections/linea-corpo-scrub)
-  Updated: 2026-10-20T08:15:46Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 6
 - [Linea Corpo - Sieri](https://fisiomnia.it/collections/linea-corpo-sieri)
   Updated: 2026-10-18T11:23:57Z
@@ -1209,25 +1209,25 @@
   Updated: 2026-10-20T08:15:47Z
   Total Products: 3
 - [Linea Viso](https://fisiomnia.it/collections/linea-viso)
-  Updated: 2026-10-22T09:52:39Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 58
 - [Linea Viso - Albachiara](https://fisiomnia.it/collections/linea-viso-albachiara)
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 4
 - [Linea Viso - Anti Età](https://fisiomnia.it/collections/linea-viso-anti-eta)
-  Updated: 2026-10-20T08:15:45Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 10
 - [Linea Viso - Contorno Occhi](https://fisiomnia.it/collections/linea-viso-contorno-occhi)
-  Updated: 2026-10-22T09:52:39Z
+  Updated: 2026-10-27T11:56:37Z
   Total Products: 3
 - [Linea Viso - Creme](https://fisiomnia.it/collections/linea-viso-creme)
-  Updated: 2026-10-20T08:15:43Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 8
 - [Linea Viso - Detergenti](https://fisiomnia.it/collections/linea-viso-detergenti)
   Updated: 2026-09-15T12:45:00Z
   Total Products: 9
 - [Linea Viso - Kit](https://fisiomnia.it/collections/linea-viso-kit)
-  Updated: 2026-10-22T09:52:39Z
+  Updated: 2026-10-27T11:56:37Z
   Total Products: 24
 - [Linea Viso - Labbra](https://fisiomnia.it/collections/linea-viso-labbra)
   Updated: 2026-10-20T08:15:43Z
@@ -1242,16 +1242,16 @@
   Updated: 2026-10-20T08:15:43Z
   Total Products: 12
 - [Linea Viso - Pelle Giovane](https://fisiomnia.it/collections/linea-viso-pelle-giovane-1)
-  Updated: 2026-10-20T08:15:43Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 16
 - [Linea Viso - Pelle Grassa](https://fisiomnia.it/collections/linea-viso-pelle-grassa-1)
-  Updated: 2026-10-20T08:15:43Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 15
 - [Linea Viso - Pelle Matura](https://fisiomnia.it/collections/linea-viso-pelle-matura-1)
-  Updated: 2026-10-20T08:15:44Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 21
 - [Linea Viso - Pelle Secca](https://fisiomnia.it/collections/linea-viso-pelle-secca-1)
-  Updated: 2026-10-20T08:15:43Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 17
 - [Linea Viso - Scrub](https://fisiomnia.it/collections/linea-viso-scrub)
   Updated: 2026-09-28T11:29:13Z
@@ -1260,7 +1260,7 @@
   Updated: 2026-10-20T08:15:44Z
   Total Products: 7
 - [Modella Corpo](https://fisiomnia.it/collections/modella-corpo)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 4
 - [Modella Viso](https://fisiomnia.it/collections/modella-viso)
   Updated: 2026-10-20T08:15:44Z
@@ -1269,7 +1269,7 @@
   Updated: 2026-10-20T08:15:47Z
   Total Products: 11
 - [Protocollo Pelle Secca](https://fisiomnia.it/collections/protocollo-pelle-secca)
-  Updated: 2026-10-13T07:34:39Z
+  Updated: 2026-10-24T11:24:52Z
   Total Products: 3
 - [Rinnovo Pelle Primavera](https://fisiomnia.it/collections/rinnovo-pelle-primavera)
   Updated: 2026-09-15T12:44:57Z
@@ -1278,40 +1278,40 @@
   Updated: 2026-10-20T08:15:44Z
   Total Products: 9
 - [Cosmetici](https://fisiomnia.it/collections/cosmetici)
-  Updated: 2026-10-22T09:52:39Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 135
 - [NO SCONTO](https://fisiomnia.it/collections/no-sconto)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 17
 - [Addome hotspot](https://fisiomnia.it/collections/addome-hotspot)
-  Updated: 2026-10-20T11:28:16Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 26
 - [Fragranze](https://fisiomnia.it/collections/fragranze)
   Updated: 2026-09-15T12:44:57Z
   Total Products: 3
 - [Abbigliamento Cosmetico](https://fisiomnia.it/collections/abbigliamento-cosmetico)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 6
 - [TUTTI I PRODOTTI](https://fisiomnia.it/collections/tutti-i-prodotti)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 152
 - [tutti tranne libro](https://fisiomnia.it/collections/tutti-tranne-libro)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 67
 - [prodotti non in offerta](https://fisiomnia.it/collections/30-di-sconto)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 36
 - [LISTINO](https://fisiomnia.it/collections/prodotti-in-offerta-che-diventano-di-listino): questi sono prodotti che quando ci sono alcune offerte tipo (3x2, o omaggio) diventano prodotti con prezzo di listino
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 22
 - [tutti i prodotti tranne il libro](https://fisiomnia.it/collections/tutti-i-prodotti-tranne-il-libro)
-  Updated: 2026-10-22T12:59:36Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 141
 - [prodotti al 50% di sconto](https://fisiomnia.it/collections/prodotti-al-50-di-sconto)
   Updated: 2026-10-20T08:15:47Z
   Total Products: 13
 - [PRODOTTI SCONTATI](https://fisiomnia.it/collections/prodotti-scontati)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 112
 - [Fanghi Gel Corpo Drenanti e Rassodanti](https://fisiomnia.it/collections/fanghi-exobomb)
   Updated: 2026-10-13T11:31:06Z
@@ -1320,29 +1320,41 @@
   Updated: 2026-10-13T11:31:06Z
   Total Products: 2
 - [PRODOTTI GARCINIA NON IN OFFERTA](https://fisiomnia.it/collections/prodotti-garcinia-non-in-offerta)
-  Updated: 2026-10-13T11:31:06Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 4
 - [prodotti per la promo 2x1](https://fisiomnia.it/collections/prodotto-per-la-2x1)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 24
 - [PRODOTTI AL 50% ESTIVI](https://fisiomnia.it/collections/prodotti-crio)
   Updated: 2026-10-13T11:31:06Z
   Total Products: 6
 - [Prodotti in Evidenza](https://fisiomnia.it/collections/prodotti-in-evidenza)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 3
 - [Gli indispensabili d’inverno](https://fisiomnia.it/collections/gli-indispensabili-d-inverno)
-  Updated: 2026-10-13T07:34:39Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 6
 - [Calze Compressive](https://fisiomnia.it/collections/calze-compressive)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 2
 - [TUTTI ESCUSI PRODOTTI X PUNTI FEDELTA](https://fisiomnia.it/collections/tutti-escusi-prodotti-x-punti-fedelta)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-30T11:34:05Z
   Total Products: 136
 - [Leggings Compressivi](https://fisiomnia.it/collections/leggings-compressivi)
-  Updated: 2026-10-22T11:35:11Z
+  Updated: 2026-10-29T11:33:24Z
   Total Products: 2
+- [Pink Collection](https://fisiomnia.it/collections/pink-collection)
+  Updated: 2026-10-27T07:36:28Z
+  Total Products: 2
+- [prodotti viso al 50% di sconto per cyber monday](https://fisiomnia.it/collections/prodotti-viso-al-50-di-sconto-per-cyber-monday)
+  Updated: 2026-10-29T11:33:24Z
+  Total Products: 51
+- [prodotti corpo 50% di sconto per il cyber monday](https://fisiomnia.it/collections/prodotti-corpo-50-di-sconto-per-il-cyber-monday)
+  Updated: 2026-10-29T11:33:24Z
+  Total Products: 12
+- [tutti i prodotti tranne il libro leggins e integratori no fisiomnia](https://fisiomnia.it/collections/tutti-i-prodotti-tranne-il-libro-copia)
+  Updated: 2026-10-30T11:34:05Z
+  Total Products: 135
 
 ## Blogs
 
