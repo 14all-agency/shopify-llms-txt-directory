@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-08-11T07:36:26Z
 - Contact Email: info@annizon.com
-- Updated At: 2026-10-23T00:52:28.582Z
+- Updated At: 2026-10-31T00:20:03.402Z
 
 ## Products
 
@@ -2145,293 +2145,267 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1809406130.jpg?v=1628670167
     Price: $7.60 USD
-- [Deer Figurines Resin Sculpture - Annizon.com](https://annizon.com/products/figurines-resin-sculpture): Regional Feature: EuropeTheme: AnimalMaterial: Resindeer statue: deer decorationfigurine deer: deer lady 2 piecesdecorations for home decoration: deer sculpture statue nordicstatues for decoration: home decordeers sculpture: Tabletop deersculpture modern art: deer epoxy resindeer figurine: deer statues - Annizon.com
-  Updated: 2026-10-17T20:11:12Z
-  Vendor: Wanderlust Decors
-  Product Type: Home Decor
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426391.jpg?v=1631702749
-  - [Black](https://annizon.com/products/figurines-resin-sculpture?variant=40770090500255)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426403.jpg?v=1628670163
-    Price: $59.52 USD
-  - [White](https://annizon.com/products/figurines-resin-sculpture?variant=40770090598559)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426400.jpg?v=1628670163
-    Price: $59.52 USD
-  - [black and white](https://annizon.com/products/figurines-resin-sculpture?variant=40770090664095)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426401.jpg?v=1628670163
-    Price: $59.52 USD
-  - [Blue](https://annizon.com/products/figurines-resin-sculpture?variant=40770090729631)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426402.jpg?v=1628670162
-    Price: $59.52 USD
-  - [Gold](https://annizon.com/products/figurines-resin-sculpture?variant=40770090827935)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1807426399.jpg?v=1628670162
-    Price: $59.52 USD
-[List Continued](https://annizon.com/a/llms-agent/llms.txt?shop=wanderlust-decors.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MDAzNjk5NTExNDU1LCJsYXN0X3ZhbHVlIjoiNzAwMzY5OTUxMTQ1NSJ9)
+[List Continued](https://annizon.com/a/llms-agent/llms.txt?shop=wanderlust-decors.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MDAzNjk5NDc4Njg3LCJsYXN0X3ZhbHVlIjoiNzAwMzY5OTQ3ODY4NyJ9)
 
 ## Collections
 
 - [Home page](https://annizon.com/collections/frontpage): Refined home decor, rugs, bedding, sofa covers and organizers. Renter-friendly finds to make small spaces feel like home.
-  Updated: 2026-10-17T22:20:47Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 41
 - [Clocks](https://annizon.com/collections/clocks): Decorative wall clocks for living rooms, bedrooms and offices. Large 3D DIY clocks with quiet quartz movement.
-  Updated: 2026-09-30T21:23:18Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 15
 - [Home Decor](https://annizon.com/collections/home-decors): Refined home decor for living rooms, bedrooms and entryways. Wall art, pillow covers, vases and statement pieces.
-  Updated: 2026-10-17T23:05:09Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 40
 - [Home Organization](https://annizon.com/collections/home-organization): Renter-friendly home organization: storage boxes, fridge organizers, hanging storage and clever holders. No drilling needed.
-  Updated: 2026-09-30T21:22:53Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 13
 - [Home Textiles](https://annizon.com/collections/home-textiles): Bedding sets, duvet covers, throw pillows and plush rugs. Soft furnishings that transform bedrooms and living rooms.
-  Updated: 2026-09-30T21:44:59Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 10
 - [Household Merchandises](https://annizon.com/collections/household-merchandises): - Annizon.com
-  Updated: 2026-09-30T21:02:23Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 20
 - [Lights](https://annizon.com/collections/light): Modern lighting for every room: LED wall sconces, bedside lights, makeup mirrors with lights. Warm up small spaces affordably.
-  Updated: 2026-10-17T22:21:19Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 19
 - [Dinnerware](https://annizon.com/collections/dinnerware): Elegant dinnerware and flatware sets for everyday meals. Stainless steel cutlery and practical pieces for kitchens and dorms.
-  Updated: 2026-09-30T21:23:10Z
+  Updated: 2026-10-28T19:37:15Z
   Total Products: 5
 - [Gift Cards](https://annizon.com/collections/gift-cards): - Annizon.com
-  Updated: 2026-09-26T21:37:59Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 1
 - [Baby and Kids](https://annizon.com/collections/baby-and-kids): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 0
 - [Essentials](https://annizon.com/collections/essentials): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 10
 - [What's New](https://annizon.com/collections/newest): - Annizon.com
-  Updated: 2026-10-17T23:32:03Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 150
 - [Bath & Beauty](https://annizon.com/collections/bath-beauty): Bath and beauty finds: quick-dry towel sets, lighted makeup mirrors and bathroom organizers. 16 towel colors.
-  Updated: 2026-10-17T22:21:28Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 4
 - [Kids & Babies](https://annizon.com/collections/kids-and-babies): - Annizon.com
-  Updated: 2026-10-17T22:55:53Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 526
 - [View All New Items](https://annizon.com/collections/all-new-items): - Annizon.com
-  Updated: 2026-10-17T22:54:02Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 116
 - [Seasonal Collections](https://annizon.com/collections/holidays): - Annizon.com
-  Updated: 2026-10-17T22:54:19Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 58
 - [Furniture](https://annizon.com/collections/furniture): Furniture for bedrooms, living rooms and small spaces. Space-saving pieces and sofa covers that refresh old couches affordably.
-  Updated: 2026-10-17T22:54:16Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 17
 - [Rugs](https://annizon.com/collections/rugs): Soft area rugs: shaggy long-pile, thick plush anti-slip and decorative styles. Anchor your living room or bedroom affordably.
-  Updated: 2026-09-30T21:44:13Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 33
 - [Annizon Food](https://annizon.com/collections/annizon-food): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 13
 - [Wall Art](https://annizon.com/collections/wall-art): Wall art for living rooms, bedrooms and offices. Abstract, nature and statement pieces – personality without paint or nails.
-  Updated: 2026-10-17T23:04:55Z
+  Updated: 2026-10-28T19:37:16Z
   Total Products: 23
 - [Tables](https://annizon.com/collections/tables): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 12
 - [Furniture Sets](https://annizon.com/collections/whole-sets): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 2
 - [Kitchen](https://annizon.com/collections/kitchen): Kitchen essentials, organizers, dinnerware and flatware. Fridge covers, condiment organizers and practical tools for everyday cooking.
-  Updated: 2026-10-17T22:55:14Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 56
 - [Mugs](https://annizon.com/collections/mugs): - Annizon.com
-  Updated: 2026-09-26T21:38:00Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 10
 - [Gift Ideas (Arrives before Christmas)](https://annizon.com/collections/gift-ideas-arrives-before-christmas): Cozy Christmas gifts – rugs, bedding, ornaments and home accents. Order early for holiday delivery.
-  Updated: 2026-09-30T21:23:16Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 7
 - [Bathroom](https://annizon.com/collections/bathroom): Bathroom storage, organizers and quick-dry towels. Small-bathroom solutions that keep counters clear and clutter-free.
-  Updated: 2026-10-17T22:55:48Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 34
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [Candles](https://annizon.com/collections/candles): Candles and candle holders for a cozy home. Warm light and scent – the simplest way to make any room feel inviting.
-  Updated: 2026-09-30T21:23:20Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 3
 - [Tobi Collection](https://annizon.com/collections/tobi-collection): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 72554
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 72748
 - [Wood](https://annizon.com/collections/wood): - Annizon.com
-  Updated: 2026-09-26T21:38:01Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 2
 - [Wall Lights](https://annizon.com/collections/wall-lights): - Annizon.com
-  Updated: 2026-10-17T22:20:47Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 13
 - [Ceiling Lights](https://annizon.com/collections/celling-lights): Shop ceiling lights, pendant lights and modern ceiling fixtures for bedrooms, kitchens, dining rooms and living spaces.
-  Updated: 2026-09-26T21:38:01Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 35
 - [Floor Lights](https://annizon.com/collections/floor-lights): - Annizon.com
-  Updated: 2026-09-26T21:38:01Z
+  Updated: 2026-10-28T19:37:17Z
   Total Products: 3
 - [Table Lights](https://annizon.com/collections/table-lights): - Annizon.com
-  Updated: 2026-10-17T22:21:11Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 9
 - [Chandeliers](https://annizon.com/collections/chandeliers): - Annizon.com
-  Updated: 2026-09-26T21:38:01Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 2
 - [All Lighting](https://annizon.com/collections/see-all): - Annizon.com
-  Updated: 2026-10-17T22:54:16Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 59
 - [Light Collection](https://annizon.com/collections/light-collection): - Annizon.com
-  Updated: 2026-10-17T22:21:11Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 15
 - [Nature](https://annizon.com/collections/nature): - Annizon.com
-  Updated: 2026-10-17T22:54:59Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 3
 - [Animals](https://annizon.com/collections/animals): - Annizon.com
-  Updated: 2026-09-26T21:38:01Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 1
 - [Abstract](https://annizon.com/collections/abstract): - Annizon.com
-  Updated: 2026-10-17T23:04:55Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 13
 - [Culture](https://annizon.com/collections/culture): - Annizon.com
-  Updated: 2026-10-17T22:54:59Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 3
 - [3D Wall Art](https://annizon.com/collections/3d-art): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 0
 - [Under the Water](https://annizon.com/collections/under-the-water): - Annizon.com
-  Updated: 2026-10-17T22:54:51Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 1
 - [Framed](https://annizon.com/collections/framed): - Annizon.com
-  Updated: 2026-10-17T22:55:11Z
+  Updated: 2026-10-28T19:37:18Z
   Total Products: 1
 - [Best  Products](https://annizon.com/collections/best--products): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 72713
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 72907
 - [Newest Products](https://annizon.com/collections/newest-products): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 72713
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 72907
 - [Bedding](https://annizon.com/collections/bedding): - Annizon.com
-  Updated: 2026-10-17T23:05:23Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 9
 - [Wallpaper](https://annizon.com/collections/wallpaper): - Annizon.com
-  Updated: 2026-10-17T22:55:39Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 4
 - [Wall Decor](https://annizon.com/collections/wall-deocr): - Annizon.com
-  Updated: 2026-10-17T22:55:39Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 13
 - [Chairs](https://annizon.com/collections/chairs): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 1
 - [Outdoor](https://annizon.com/collections/outdoor): - Annizon.com
-  Updated: 2026-10-17T22:55:50Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 10
 - [Living Room](https://annizon.com/collections/living-room): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 17
 - [Bedroom](https://annizon.com/collections/bedroom): - Annizon.com
-  Updated: 2026-10-17T22:55:43Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 8
 - [Rooms](https://annizon.com/collections/rooms): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 0
 - [Bed Frames](https://annizon.com/collections/bed-frames): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 3
 - [Couch](https://annizon.com/collections/couch): - Annizon.com
-  Updated: 2026-09-26T21:38:02Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 0
 - [Side Tables](https://annizon.com/collections/side-tables): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 3
 - [Home Office](https://annizon.com/collections/home-office): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:19Z
   Total Products: 17
 - [Shoes](https://annizon.com/collections/shoes): - Annizon.com
-  Updated: 2026-10-17T23:54:28Z
-  Total Products: 587
+  Updated: 2026-10-28T19:37:20Z
+  Total Products: 677
 - [Most Popular](https://annizon.com/collections/most-popular): - Annizon.com
-  Updated: 2026-10-17T23:33:50Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 28
 - [Gadgets](https://annizon.com/collections/gedgets): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 3
 - [Pets](https://annizon.com/collections/pets): - Annizon.com
-  Updated: 2026-10-17T23:49:49Z
-  Total Products: 185
+  Updated: 2026-10-28T19:37:20Z
+  Total Products: 289
 - [Health & Beauty](https://annizon.com/collections/health-beauty): - Annizon.com
-  Updated: 2026-10-17T22:55:56Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 72
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-1): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [Baby Girl](https://annizon.com/collections/baby-girl): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 40
 - [Baby Boy](https://annizon.com/collections/baby-boy): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 12
 - [Women](https://annizon.com/collections/women): - Annizon.com
-  Updated: 2026-10-17T23:42:26Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 1222
 - [Men](https://annizon.com/collections/men): - Annizon.com
-  Updated: 2026-10-17T23:42:06Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 442
 - [Digital Products](https://annizon.com/collections/digital-products): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
+  Updated: 2026-10-30T11:09:56Z
   Total Products: 6
 - [Affirmation](https://annizon.com/collections/affirmation): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:20Z
   Total Products: 5
 - [Notebooks](https://annizon.com/collections/notebooks): - Annizon.com
-  Updated: 2026-09-26T21:38:03Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 8
 - [Ship to US Only](https://annizon.com/collections/ship-to-us-only): - Annizon.com
-  Updated: 2026-10-17T23:36:30Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 1854
 - [Digital Art](https://annizon.com/collections/digital-art): - Annizon.com
-  Updated: 2026-09-26T21:38:04Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 1
 - [Trending](https://annizon.com/collections/trending): - Annizon.com
-  Updated: 2026-10-17T23:31:53Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 47
 - [AVADA Email Marketing - Newest Products](https://annizon.com/collections/avada-email-marketing-newest-products): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [AVADA Email Marketing - Best Sellers](https://annizon.com/collections/avada-email-marketing-best-sellers): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [tinyEinstein_best_selling](https://annizon.com/collections/tinyeinstein_best_selling): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [tinyEinstein_new_arrival](https://annizon.com/collections/tinyeinstein_new_arrival): - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [Home & Kitchen](https://annizon.com/collections/home-kitchen): - Annizon.com
-  Updated: 2026-09-26T21:38:04Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 2
 - [Annizon Made Me Buy It!](https://annizon.com/collections/amazon-must-have): - Annizon.com
-  Updated: 2026-09-26T21:38:04Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 1
 - [Rings](https://annizon.com/collections/rings): - Annizon.com
-  Updated: 2026-10-17T23:41:30Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 616
 - [Sunglasses](https://annizon.com/collections/sunglasses): - Annizon.com
-  Updated: 2026-10-17T23:39:03Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 53
 - [Cups](https://annizon.com/collections/cups): - Annizon.com
-  Updated: 2026-09-26T21:38:04Z
+  Updated: 2026-10-28T19:37:21Z
   Total Products: 2
 - [Bags](https://annizon.com/collections/bags): - Annizon.com
-  Updated: 2026-10-17T23:50:28Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 778
 - [Jewelry](https://annizon.com/collections/jewelry): - Annizon.com
-  Updated: 2026-09-26T21:38:04Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 149
 - [Books](https://annizon.com/collections/books): - Annizon.com
-  Updated: 2026-10-17T23:49:34Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 401
 - [Sport](https://annizon.com/collections/sport): - Annizon.com
   Updated: 2026-09-22T11:11:12Z
@@ -2440,37 +2414,37 @@
   Updated: 2026-07-22T05:51:34Z
   Total Products: 1
 - [Water Bottles](https://annizon.com/collections/water-bottles): - Annizon.com
-  Updated: 2026-09-26T21:38:05Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 45
 - [Masks](https://annizon.com/collections/masks): - Annizon.com
-  Updated: 2026-09-26T21:38:05Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 12
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-2): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-22T11:12:33Z
-  Total Products: 63940
+  Updated: 2026-10-30T11:09:56Z
+  Total Products: 64128
 - [Electronics](https://annizon.com/collections/electronics): - Annizon.com
-  Updated: 2026-10-17T23:31:57Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 38
 - [Swimsuits](https://annizon.com/collections/swimsuits): - Annizon.com
-  Updated: 2026-10-17T23:37:41Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 96
 - [Towels](https://annizon.com/collections/towels): - Annizon.com
-  Updated: 2026-09-30T21:01:44Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 37
 - [Car Accessories](https://annizon.com/collections/car-accessories): - Annizon.com
-  Updated: 2026-10-17T23:34:05Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 64
 - [Halloween Decor & Costumes](https://annizon.com/collections/halloween-decor-costumes): Halloween costumes, spooky-chic hoodies, glowing party lights, and easy Halloween party decorations. Last-minute kids' costumes and quick party decor that ships fast. - Annizon.com
-  Updated: 2026-09-30T22:32:33Z
+  Updated: 2026-10-29T20:11:44Z
   Total Products: 7
 - [Dresses](https://annizon.com/collections/womens-dresses): Timeless women's dresses for every occasion — trending leopard print, refined halter minis, and flowing chiffon maxis for fall weddings. Sizes S to XXL.
-  Updated: 2026-10-17T23:54:17Z
+  Updated: 2026-10-29T20:14:26Z
   Total Products: 146
 - [Kids' Dresses](https://annizon.com/collections/kids-dresses): Lovely dresses for girls and babies — frilly summer dresses, Christmas tutu dresses, and lace party dresses for holidays, birthdays, and photographs.
-  Updated: 2026-09-30T21:53:48Z
+  Updated: 2026-10-28T19:37:22Z
   Total Products: 4
 - [AI Employee System — Start Here](https://annizon.com/collections/ai-employee-system-start-here): The focus of annizon.com. Two offers only: start with the $29 playbook that shows the system, or hire us to install it for you for $2,000. Digital and service only — no physical shipping, no inventory risk.1. $29 Playbook — Hire an AI That Will Make You Money While You Sleep (34-page PDF, delivered by email automatically)2. $2,000 Done-For-You Setup — We install the same system on your Shopify store. Call (833) 999-3187 after checkout. - Annizon.com
-  Updated: 2026-10-13T19:34:28Z
+  Updated: 2026-10-28T19:37:23Z
   Total Products: 2
 
 ## Blogs
@@ -3137,6 +3111,15 @@
   - [Transform Your Bathroom Experience with Luxurious Hotel-Quality Towels Impossible to Resist](https://annizon.com/blogs/news/transform-your-bathroom-experience-with-luxurious-hotel-quality-towels-impossible-to-resist): Transform Your Bathroom Experience with Luxurious Hotel-Quality Towels Impossible to Resist
     Updated: 2026-10-23T00:24:31Z
     Author: annizon.com
+  - [Recent Advances in Biomaterials and Their Impact on Modern Dentistry](https://annizon.com/blogs/news/recent-advances-in-biomaterials-and-their-impact-on-modern-dentistry): Recent Advances in Biomaterials and Their Impact on Modern Dentistry
+    Updated: 2026-10-24T00:42:20Z
+    Author: annizon.com
+  - [Maxi Dress Magic Elevate Your Wardrobe with a Plaid Long-Sleeve Slim-Fit Design](https://annizon.com/blogs/news/maxi-dress-magic-elevate-your-wardrobe-with-a-plaid-long-sleeve-slim-fit-design): Maxi Dress Magic Elevate Your Wardrobe with a Plaid Long-Sleeve Slim-Fit Design
+    Updated: 2026-10-25T00:29:13Z
+    Author: annizon.com
+  - [Effortless Layering Made Easy With an Open Front Striped Cardigan: Tips and Tricks](https://annizon.com/blogs/news/effortless-layering-made-easy-with-an-open-front-striped-cardigan-tips-and-tricks): Effortless Layering Made Easy With an Open Front Striped Cardigan: Tips and Tricks
+    Updated: 2026-10-30T00:22:17Z
+    Author: annizon.com
 
 ## Store Pages
 
@@ -3194,7 +3177,7 @@
 ## Policies
 
 - [Privacy Policy](https://annizon.com/policies/privacy-policy)
-  Updated: 2026-01-01T20:04:02Z
+  Updated: 2026-10-29T16:42:13Z
 - [Shipping Policy](https://annizon.com/policies/shipping-policy)
   Updated: 2022-02-17T02:44:44Z
 - [Refund Policy](https://annizon.com/policies/refund-policy)
