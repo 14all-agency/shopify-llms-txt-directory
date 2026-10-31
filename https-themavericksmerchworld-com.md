@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2016-10-12T16:47:16Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:54:34.025Z
+- Updated At: 2026-10-31T00:16:37.728Z
 
 ## Products
 
@@ -67,21 +67,21 @@
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/play-the-hits-cd-554.webp?v=1749856083
   Price: $14.98 USD
 - [Play The Hits - Digital Download - The Mavericks](https://themavericksmerchworld.com/products/play-the-hits): Discover the timeless sound of The Mavericks with Play The Hits - Digital Download, featuring a diverse collection celebrating their 30-year storied career.
-  Updated: 2026-10-05T13:06:44Z
+  Updated: 2026-10-24T16:13:38Z
   Vendor: Single Music
   Product Type: Digital Album
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/play-the-hits-digital-download-album-735.webp?v=1749856164
   Price: $11.99 USD
 - [En Español - Digital Download - The Mavericks](https://themavericksmerchworld.com/products/en-espanol): Discover En Español, the first Spanish-language album from The Mavericks, now available as a high-res digital download featuring popular tracks like Poder Vivir.
-  Updated: 2026-10-05T13:06:47Z
+  Updated: 2026-10-24T16:13:43Z
   Vendor: Single Music
   Product Type: Digital Album
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/en-espanol-digital-download-album-789.webp?v=1749856230
   Price: $11.99 USD
 - [En Español CD - The Mavericks Official Store](https://themavericksmerchworld.com/products/en-espanol-cd): Get the The Mavericks' #1 Billboard Latin Album 'En Español' on CD, featuring 'Poder Vivir', 'Recuerdos', 'La Sitiera', and more! All lyrics are printed in both English and Spanish in the CD booklet, so you can sing along wherever you are! “This is the record I’ve been wanting the Mavericks to make for a very long time. I’m a first generation Cuban-American, and some of these songs are songs my family would play and sing on weekends at family parties and get-togethers. But it’s not all nostalgia either. There are plenty of new original songs that put this record squarely in the moment for us...”&nbsp;- Raul Malo&nbsp; En Español 1. La Sitiera 2. Recuerdos 3. No Vale la Pena 4. Poder Vivir 5. Sombras Nada&nbsp;Más 6. Mujer 7.&nbsp;Me Olvidé de Vivir 8. Pensando en Ti 9.&nbsp;Sabor a Mí 10. Suspiro Azul 11. Cuando me Enamoro 12.&nbsp;Me Voy a Pinar del Río
-  Updated: 2026-10-16T01:21:46Z
+  Updated: 2026-10-26T22:53:33Z
   Vendor: The Mavericks Official Merchandise
   Product Type: CD
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/en-espanol-vinyl-635.webp?v=1749856242
   Price: $35.00 USD
 - [2024 The Mavericks Classic Rainbow Tie Dye Shirt](https://themavericksmerchworld.com/products/classic-rainbow-tie-dye-shirt): Stand out with our Classic Rainbow Tie Dye Shirt featuring a vibrant Mavericks Ray Skull design. Limited quantities available while supplies last.
-  Updated: 2026-10-05T13:06:53Z
+  Updated: 2026-10-26T05:56:36Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -116,7 +116,7 @@
     Availability: Available
     Price: $44.00 USD
 - [2024 The Mavericks Flower Skull Raglan](https://themavericksmerchworld.com/products/royal-blue-3-4-sleeve-flower-skull-shirt): Discover the Flower Skull Raglan, a white 100% cotton shirt with Royal Blue sleeves featuring vibrant artwork by Nick Farrow. Limited quantities available.
-  Updated: 2026-10-05T13:06:53Z
+  Updated: 2026-10-27T09:38:06Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -137,14 +137,14 @@
     Availability: Available
     Price: $44.00 USD
 - [The Mavericks Holographic Mavericks ‘En Espanol’ Sticker](https://themavericksmerchworld.com/products/holographic-mavericks-en-espanol-sticker): Show off your team spirit with the Holographic Mavericks En Español Sticker, featuring vibrant Catrina artwork on a stunning holographic backing.
-  Updated: 2026-10-07T16:40:56Z
+  Updated: 2026-10-25T14:39:23Z
   Vendor: The Mavericks Official Merchandise
   Product Type: STICKER
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/MavsStickers_5_46818e28-c9ea-4dcc-806c-6de59e272fc4.png?v=1768320209
   Price: $6.00 USD
 - ['Radio Tower' Tee - The Mavericks Official Store](https://themavericksmerchworld.com/products/the-mavericks-radio-tower-shirt): Discover the Radio Tower Tee, a stylish short sleeve T-shirt featuring The Mavericks' iconic Radio Tower design in sleek black for effortless everyday wear.
-  Updated: 2026-10-15T02:42:07Z
+  Updated: 2026-10-28T19:26:56Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -313,7 +313,7 @@
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/moon-stars-cd-663.webp?v=1749925176
   Price: $20.00 USD
 - [2024 The Mavericks Moon & Stars (Digital Download)](https://themavericksmerchworld.com/products/moon-stars-1): Pre-order the Moon & Stars digital download, featuring tracks like The Years Will Not Be Kind and collaborations with Nicole Atkins and Sierra Ferrell.
-  Updated: 2026-10-05T13:07:03Z
+  Updated: 2026-10-24T16:13:39Z
   Vendor: Single Music
   Product Type: Digital Album
   Availability: Available
@@ -549,7 +549,7 @@
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/2024CAYAMOCRUISEPOSTER_6df810a4-2441-4cea-9cd1-b21d1586f894.png?v=1767720714
   Price: $35.00 USD
 - [2025 The Mavericks Mono (In Stereo) Vinyl - Bullhorn Red](https://themavericksmerchworld.com/products/music-for-all-occasions-95-promo-cut-corner): The Mavericks Official Store offers the autographed mono vinyl in bullhorn red, celebrating the 10th anniversary edition available for pre-order with end of July shipping.
-  Updated: 2026-10-05T13:07:17Z
+  Updated: 2026-10-28T16:16:43Z
   Vendor: The Mavericks Official Merchandise
   Product Type: VINYL
   Availability: Available
@@ -594,7 +594,7 @@
     Availability: Available
     Price: $35.00 USD
 - [The Music Lives On Tee](https://themavericksmerchworld.com/products/music-lives-on-tee): Short-sleeve tee in vintage stone featuring The Music Lives On across the front. 100% cotton tee Unisex
-  Updated: 2026-10-15T00:25:02Z
+  Updated: 2026-10-23T13:10:56Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -732,7 +732,7 @@
 - [Autographed Mavericks x Logan Schmitt Lensic PAC](https://themavericksmerchworld.com/products/mavericks-x-logan-schmitt-lensic-pac-poster): In celebration of our Dec. 6th & 7th 2-night stand at Santa Fe, NM's Lensic Performing Arts Center, this gorgeous 18"x24" in. piece from illustrator Logan Schmitt is a 5 color screenprint, printed on Colorplan paper! 🦌
 
 Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale McFadden and hand signed and numbered by the artist Logan Schmitt.
-  Updated: 2026-10-15T02:42:02Z
+  Updated: 2026-10-26T18:22:46Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Poster
   Availability: Available
@@ -774,7 +774,7 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/MysticLake_Square.jpg?v=1785262244
   Price: $25.00 USD
 - [The Music Lives On Raglan](https://themavericksmerchworld.com/products/the-music-lives-on-raglan): Black and red raglan tee featuring The Music Lives On across the front 100% cotton tee Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-16T19:37:26Z
+  Updated: 2026-10-30T13:48:06Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Apparel
   Availability: Available
@@ -795,7 +795,7 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
     Availability: Available
     Price: $40.00 USD
 - [Autographed Charleston, SC Show Poster - August 1, 2026](https://themavericksmerchworld.com/products/autographed-charleston-sc-show-poster-august-1-2026): Original art design by Nick Farrow (Farrow Studios). 300 gsm weight, 100% cotton rag, archival, acid-free paper. Approx 18 x 24 inches. All prints are hand-signed by the designer, Nick Farrow and autographed by The Mavericks’ Paul Deakin, Eddie Perez, Jerry Dale McFadden, & Robert Reynolds. From the artist: • Historic city of Charleston has functioned as a vital trade and maritime hub since 1670 and is major shipping hub for commercial and cruise lines traveling to the Caribbean - hence the cruise ship and palm trees. • The loud speakers symbolize a musical show - energy and excitement. • The girl acts as a symbol of good fortune, safe travels and has lilies in her hair (Raul's favorite flower) • Below the girl is a lotus flower which symbolizes purity, enlightenment, and spiritual awakening. We have use this image over the years for the 30 years artwork. i have included a music clef signifying a music act. • As with all the Mavericks & friends artwork to date, I have included the brand stars. • Raul nuggets - 1965 his birth year are the roman numerals on the front of the ship. When I designed the first solo poster for Raul, I included the words AMOR • LIBERTAD • UNIDAD. My idea as representing Raul's core values. The poster was Cuban themed hence using Spanish. The English translation - LOVE • LIBERTY • UNITY. • '& FRIENDS' lettering is steam from the ships funnel.
-  Updated: 2026-10-09T19:22:43Z
+  Updated: 2026-10-25T14:39:34Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Poster
   Availability: Available
@@ -809,7 +809,7 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Image: https://cdn.shopify.com/s/files/1/1541/9075/files/KnoxvilleTN26_Square.jpg?v=1786138349
   Price: $25.00 USD
 - [Autographed Dallas, TX Show Poster - August 8, 2026](https://themavericksmerchworld.com/products/autographed-dallas-tx-show-poster-august-8-2026): Original art design by Nick Farrow (Farrow Studios). 300 gsm weight, 100% cotton rag, archival, acid-free paper. Approx 18 x 24 inches. All prints are hand-signed by the designer, Nick Farrow and autographed by The Mavericks’ Paul Deakin, Eddie Perez, Jerry Dale McFadden, & Robert Reynolds. From the artist: • The Dallas MAJESTIC building behind the horse and rider with the famous sign. • '& FRIENDS' is written in the smoke from the joint. • The Mavericks & Friends brand stars in the border • The rider wears a waistcoat (vest) with Raul's obligatory roses. • To keep this as another 'mini' series, The lettering is the same as the ACL poster design.
-  Updated: 2026-10-05T13:07:35Z
+  Updated: 2026-10-26T16:54:15Z
   Vendor: The Mavericks Official Merchandise
   Product Type: Poster
   Availability: Available
@@ -882,7 +882,7 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
 ## Collections
 
 - [MUSIC](https://themavericksmerchworld.com/collections/music): Get timeless records from the Mavericks on your choice of CD, vinyl, digital download & more.
-  Updated: 2026-10-19T19:51:29Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 58
 - [HATS](https://themavericksmerchworld.com/collections/hats): Discover a stylish range of hats at The Mavericks Official Store, perfect for fans and fashion enthusiasts alike.
   Updated: 2026-10-07T18:10:55Z
@@ -891,13 +891,13 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Updated: 2026-08-10T14:38:04Z
   Total Products: 0
 - [Digital Albums](https://themavericksmerchworld.com/collections/digital-albums): Discover the curated collection of Digital Albums at The Mavericks Official Store, featuring must-have music from the iconic band.
-  Updated: 2026-10-07T18:10:53Z
+  Updated: 2026-10-25T11:05:23Z
   Total Products: 8
 - [Digital Tracks](https://themavericksmerchworld.com/collections/digital-tracks): The Mavericks Official Store offers a digital tracks collection featuring classic songs like Swingin, Blame It On Your Heart, and Blue Eyes Crying In The Rain.
   Updated: 2026-10-08T15:04:50Z
   Total Products: 90
 - [All](https://themavericksmerchworld.com/collections/all): Discover the full range of Mavericks merchandise at the official store. Explore unique apparel and collectibles from your favorite team today.
-  Updated: 2026-10-22T20:23:11Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 372
 - [Swingin' - Digital Single](https://themavericksmerchworld.com/collections/swingin-digital-single): The Mavericks Official Store features the Swingin digital single collection, showcasing the latest music release in a convenient digital format for fans.
   Updated: 2026-07-08T20:20:28Z
@@ -924,7 +924,7 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Updated: 2026-08-10T14:38:01Z
   Total Products: 0
 - [](https://themavericksmerchworld.com/collections/): All the best deals from the Mavericks Merch World!
-  Updated: 2026-10-22T20:23:11Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 75
 - [Quarantunes Vol. 1](https://themavericksmerchworld.com/collections/quarantunes-vol-1): The Mavericks Official Store offers Quarantunes Vol. 1 featuring timeless classics like Love, Spanish Eyes, My Way, and more in this curated music collection.
   Updated: 2026-07-21T14:22:46Z
@@ -942,19 +942,19 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Updated: 2026-07-08T20:20:29Z
   Total Products: 0
 - [APPAREL](https://themavericksmerchworld.com/collections/apparel): Discover the latest in stylish apparel at the Mavericks Official Store. Explore our unique collection that combines comfort with a modern edge.
-  Updated: 2026-10-22T11:02:14Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 32
 - [HATS](https://themavericksmerchworld.com/collections/hats-1): The Mavericks Official Store offers a collection of logo beanies featuring stacked logo designs in forest green and navy for stylish headwear options.
   Updated: 2026-10-07T18:10:55Z
   Total Products: 3
 - [CD](https://themavericksmerchworld.com/collections/cd): Explore The Mavericks Official Store collection of CDs including Moon & Stars, Raul Malo Say Less, All Night Live Vol 1, and more with authentic Maverick sounds.
-  Updated: 2026-10-16T11:01:58Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 17
 - [VINYL](https://themavericksmerchworld.com/collections/vinyl): Explore VINYL at The Mavericks Official Store, featuring a curated collection of the band's music on vinyl for true fans and collectors alike.
   Updated: 2026-10-19T19:51:29Z
   Total Products: 30
 - [POSTERS](https://themavericksmerchworld.com/collections/posters): Discover a unique collection of posters at The Mavericks Official Store, showcasing stunning artwork that celebrates the spirit of the Mavericks.
-  Updated: 2026-10-16T11:01:57Z
+  Updated: 2026-10-28T16:23:31Z
   Total Products: 22
 - [Moon & Stars](https://themavericksmerchworld.com/collections/moon-stars): Discover unique designs from the Moon & Stars collection at The Mavericks Official Store.
   Updated: 2026-10-07T18:10:55Z
@@ -963,38 +963,44 @@ Each poster is autographed by Raul Malo, Paul Deakin, Eddie Perez & Jerry Dale M
   Updated: 2026-10-07T18:10:55Z
   Total Products: 15
 - [Moon & Stars Music Collection](https://themavericksmerchworld.com/collections/moon-stars-music-collection): The Mavericks Official Store presents the Moon & Stars Music Collection featuring vinyl, CDs, digital downloads, posters, stickers, accessories, and merchandise inspired by stars music.
-  Updated: 2026-10-16T11:01:58Z
+  Updated: 2026-10-25T11:05:23Z
   Total Products: 14
 - [ACCESSORIES](https://themavericksmerchworld.com/collections/accessories-1): The Mavericks Official Store offers unique accessories including rose skull soda glasses, skull socks, beanies, tumblers, jewelry, and other exclusive items.
-  Updated: 2026-10-16T11:01:57Z
+  Updated: 2026-10-26T11:02:06Z
   Total Products: 40
 - [Moon & Stars](https://themavericksmerchworld.com/collections/moon-stars-2): The Mavericks Official Store offers the Moon & Stars collection featuring tour posters, apparel, stickers, and smoking accessories inspired by The Mavericks.
   Updated: 2026-10-07T18:10:55Z
   Total Products: 18
 - [MAVERICKS OFFICIAL MERCHANDISE](https://themavericksmerchworld.com/collections/mavericks-official-merchandise): The Mavericks Official Store offers exclusive merchandise including autographed posters, tie dye skull apparel, and limited-edition world tour posters.
-  Updated: 2026-10-22T20:23:11Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 187
 - [Our Favorites](https://themavericksmerchworld.com/collections/our-favorites)
-  Updated: 2026-10-22T11:02:14Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 42
 - [EasyGift All Products](https://themavericksmerchworld.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-22T20:23:11Z
+  Updated: 2026-10-29T11:01:25Z
   Total Products: 462
 - [2025 Tour Merch](https://themavericksmerchworld.com/collections/2025-tour-merch)
-  Updated: 2026-10-13T11:01:54Z
+  Updated: 2026-10-26T21:40:42Z
   Total Products: 35
 - [New Arrivals](https://themavericksmerchworld.com/collections/new-arrivals)
-  Updated: 2026-10-22T11:02:14Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 25
 - [4th of July ](https://themavericksmerchworld.com/collections/4th-of-july-)
-  Updated: 2026-10-22T11:02:14Z
+  Updated: 2026-10-26T21:40:42Z
   Total Products: 53
 - [Poster ](https://themavericksmerchworld.com/collections/poster-)
-  Updated: 2026-10-16T11:01:57Z
+  Updated: 2026-10-27T11:01:35Z
   Total Products: 11
 - [$25 Vinyl](https://themavericksmerchworld.com/collections/25-vinyl)
   Updated: 2026-10-19T19:52:04Z
   Total Products: 9
+- [Black Friday ](https://themavericksmerchworld.com/collections/black-friday)
+  Updated: 2026-10-28T16:23:31Z
+  Total Products: 74
+- [Stocking Stuffers](https://themavericksmerchworld.com/collections/stocking-stuffers)
+  Updated: 2026-10-28T16:31:23Z
+  Total Products: 104
 
 ## Store Pages
 
