@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-25T17:57:36Z
 - Contact Email: psycous2@gmail.com
-- Updated At: 2026-10-23T01:07:25.293Z
+- Updated At: 2026-10-31T00:25:58.601Z
 
 ## Products
 
@@ -975,7 +975,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ninjapod_12636374_f_G200_51_f.jpg?v=1776483223
     Price: $17.90 USD
 - [Metallic Souls Brushed Twill Cap | Cyberpunk Hat](https://metallicsouls.myshopify.com/products/metal-hat-2): Structured brushed-twill baseball cap with the Metallic Souls emblem. Adjustable strap and curved brim for an everyday cyberpunk streetwear look.
-  Updated: 2026-10-18T16:37:52Z
+  Updated: 2026-10-29T00:39:16Z
   Vendor: LIVING METAL
   Product Type: Accessories
   Availability: Available
@@ -2911,7 +2911,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/aee68bec-a324-4782-9f14-1dce3f44fd87.webp?v=1780787986
     Price: $32.94 USD
 - [Living Metal Oni Bull Framed Poster | Dark Fantasy Art](https://metallicsouls.myshopify.com/products/wall-art): Wooden-framed wall art poster of the Living Metal Oni Bull in bold dark-fantasy style. Museum-grade archival print, ready to hang.
-  Updated: 2026-10-22T11:02:36Z
+  Updated: 2026-10-27T11:17:48Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -3455,7 +3455,7 @@
 ## Policies
 
 - [Privacy Policy](https://metallicsouls.myshopify.com/policies/privacy-policy)
-  Updated: 2024-12-25T17:57:44Z
+  Updated: 2026-10-29T23:25:58Z
 - [Refund Policy](https://metallicsouls.myshopify.com/policies/refund-policy)
   Updated: 2025-01-02T18:39:10Z
 - [Terms of Service](https://metallicsouls.myshopify.com/policies/terms-of-service)
