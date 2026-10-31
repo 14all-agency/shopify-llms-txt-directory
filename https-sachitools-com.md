@@ -6,7 +6,7 @@
 - Timezone: Asia/Bangkok
 - Created At: 2024-01-25T07:19:15Z
 - Contact Email: sales@sachitools.com
-- Updated At: 2026-10-23T00:52:02.223Z
+- Updated At: 2026-10-31T00:19:39.699Z
 
 Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of professional gemological instruments and lapidary equipment, serving jewelers, gemologists, diamond graders, and lapidary professionals worldwide. Our catalog covers diamond and gem testers, synthetic/lab-grown diamond screeners, gemological microscopes, jeweler's loupes and magnifiers, precision tweezers and hand tools, measuring gauges, weighing scales, inspection lamps, gem lapidary machines and polishing supplies, and jewelry packaging and display. All prices are listed in Thai Baht (THB) and we ship worldwide, including the USA, Europe, and across Thailand. For expert guidance, see our buying guides linked below.
 
@@ -82,7 +82,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T09:22:08Z
   Price: ฿50.00 THB — ฿130.00 THB
 - [Gem Display Boxes (A20) - Slide Lock](https://sachitools.com/products/gem-display-boxes-a20-slide-lock): A20 slide-lock gem display boxes with reversible white or black cushion, small to large sizes - a trade standard for presenting stones. Ships worldwide.
-  Updated: 2026-10-12T07:31:07Z
+  Updated: 2026-10-30T04:04:57Z
   Price: ฿130.00 THB — ฿425.00 THB
 - [Gemax Metal Box LOGO Bar](https://sachitools.com/products/gemax-metal-box-logo-bar): Gemax slide-lock metal gem box with glass top, reversible cushion and a logo bar for printing your branding. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T09:22:12Z
@@ -91,7 +91,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-13T01:05:08Z
   Price: ฿195.00 THB — ฿375.00 THB
 - [Sachi Diamond Polishing Powder (For Gemstones)](https://sachitools.com/products/sachi-diamond-powder): Sachi synthetic diamond polishing powder graded to strict particle standards for jewellery polishing, 10 cts a bottle. Trade quality from Sachi Tools, Bangkok.
-  Updated: 2026-10-16T13:00:26Z
+  Updated: 2026-10-26T08:53:52Z
   Price: ฿100.00 THB
 - [Sachi Diamond Powder Pre Polish](https://sachitools.com/products/sachi-pre-polish-diamond-powder): Sachi pre-polish synthetic diamond powder for surface preparation on granite, marble and lapidary gems, 10 cts a bottle. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T09:22:48Z
@@ -148,7 +148,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T09:22:47Z
   Price: ฿11,950.00 THB
 - [Sachi Diamond Wheel](https://sachitools.com/products/sachi-diamond-wheel): Sachi electroplated diamond wheels, balanced to cut vibration at speed and made for all types of lapidary machines. Genuine stock, ships worldwide from Bangkok.
-  Updated: 2026-10-12T09:22:47Z
+  Updated: 2026-10-30T11:30:26Z
   Price: ฿650.00 THB
 - [Aluminium Oxide Polishing Powder](https://sachitools.com/products/aluminium-oxide-polishing-powder): Aluminium oxide loose powder for lapping and sharpening stones, supplied in 500 gram bottles or pouches. Trade quality from Sachi Tools, Bangkok.
   Updated: 2026-10-12T09:22:47Z
@@ -156,9 +156,6 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
 - [Cerium Oxide Polishing Powder](https://sachitools.com/products/cerium-oxide-polishing-powder): Cerium oxide polishing powder in a 1 kg pack, the final polish lapidaries use on gemstone and glass surfaces. Genuine stock, ships worldwide from Bangkok.
   Updated: 2026-10-12T10:03:27Z
   Price: ฿690.00 THB
-- [Tin Oxide Polishing Powder](https://sachitools.com/products/tin-oxide-polishing-powder): Tin oxide polishing powder that buffs out scratches and restores lustre on granite, marble and lapidary gems, 500g. Ships worldwide from Sachi Tools.
-  Updated: 2026-10-12T09:22:47Z
-  Price: ฿350.00 THB
 - [Presidium Diamond Mate-A Tester](https://sachitools.com/products/presidium-diamond-mate-a-tester): Presidium Diamond Mate-A, a pocket tester that verifies diamonds by thermal properties with a retractable probe tip. Ships worldwide from Bangkok.
   Updated: 2026-10-12T09:22:46Z
   Price: ฿4,750.00 THB
@@ -232,7 +229,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T09:24:02Z
   Price: ฿750.00 THB
 - [Gemax Chelsea Filter](https://sachitools.com/products/gemax-chelsea-filter): Gemax Chelsea colour filter with correct chromium response for separating emerald, ruby and garnet from paste. Trade quality from Sachi Tools, Bangkok.
-  Updated: 2026-10-12T09:24:00Z
+  Updated: 2026-10-24T10:40:58Z
   Price: ฿650.00 THB
 - [Gemax Ruby Filter](https://sachitools.com/products/gemax-ruby-filter): Gemax ruby filter for quickly separating ruby, spinel, tourmaline and garnet from lookalike red stones by eye. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T09:24:01Z
@@ -280,7 +277,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-16T10:45:17Z
   Price: ฿1,450.00 THB
 - [Gemax Eco-Gem Gemstone Refractometer](https://sachitools.com/products/gemax-eco-gem-refractometer): Precise gemstone ID starts here! The Gemax Eco-Gem Refractometer offers professional RI measurements for diamonds & colored stones. Fast shipping to USA & Thailand. Shop Sachi Tools!
-  Updated: 2026-10-18T12:53:47Z
+  Updated: 2026-10-24T10:40:53Z
   Price: ฿9,480.00 THB
 - [Gem Refractometer Economical (CN)](https://sachitools.com/products/gem-refractometer-economical-cn): Economical gem refractometer using total internal reflection, with hard glass test table and clear shadow edge. Trade quality from Sachi Tools, Bangkok.
   Updated: 2026-10-12T09:24:02Z
@@ -292,7 +289,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-16T10:45:17Z
   Price: ฿950.00 THB
 - [Gem Master R. I. Liquid 1.81](https://sachitools.com/products/gem-master-r-i-liquid-1-81): Gem-Master 1.81 refractive index liquid, 10 grams in a protective stopper bottle that prevents spills in the lab. Trade quality from Sachi Tools, Bangkok.
-  Updated: 2026-10-18T12:53:47Z
+  Updated: 2026-10-24T10:40:57Z
   Price: ฿2,950.00 THB
 - [Immersion & Specific Gravity Liquid (RI 1.765 / SG 3.32) - Large](https://sachitools.com/products/immersion-sg-liq-1-765-l): Immersion and specific gravity liquid, RI 1.765 and SG 3.32, large bottle of methylene iodide for gem testing. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T10:03:28Z
@@ -387,6 +384,9 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
 - [Adapter for 18650 3.7V Battery](https://sachitools.com/products/adapters-for-18650-3-7v-battery): Compact charger adapter made for 18650 3.7V lithium-ion batteries, safe and efficient at home or while travelling. Trade quality from Sachi Tools, Bangkok.
   Updated: 2026-10-12T09:25:12Z
   Price: ฿250.00 THB
+- [Gemax iLED Base Light](https://sachitools.com/products/gemax-iled-base-light): Versatile white LED base light on two AAA batteries, pocket sized for the folding Polari-Loupe and dichroscope. Ships worldwide from Sachi Tools.
+  Updated: 2026-10-29T04:45:08Z
+  Price: ฿695.00 THB
 - [LED Light Pad - A4 (Small)](https://sachitools.com/products/led-light-pad-a4-small): Slim A4 LED light pad with a 31x21cm working area and diffuse, even light for tracing jewellery designs and art. Genuine stock, ships worldwide from Bangkok.
   Updated: 2026-10-12T10:03:26Z
   Price: ฿1,000.00 THB
@@ -466,7 +466,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T09:29:56Z
   Price: ฿750.00 THB
 - [B&L Hasting Loupe 20X](https://sachitools.com/products/b-l-hasting-loupe-20x): B&L Hasting loupe with 20X magnification and 12mm lens for the finest detail in diamonds, gemstones, coins and stamps. Ships worldwide from Sachi Tools.
-  Updated: 2026-10-12T09:29:57Z
+  Updated: 2026-10-24T10:40:53Z
   Price: ฿850.00 THB
 - [Rubber Grip Satin 20.5mm 10X](https://sachitools.com/products/rubber-grip-satin-20-5mm-10x): Satin finish 10X loupe with rubber grip and wide 20.5mm lens for comfortable inspection of diamonds and gemstones. Genuine stock, ships worldwide from Bangkok.
   Updated: 2026-10-12T09:29:56Z
@@ -487,7 +487,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T09:29:56Z
   Price: ฿1,950.00 THB
 - [Optivisor USA DA-5](https://sachitools.com/products/optivisor-usa-da-5): Optivisor DA-5 headband magnifier with precision bevel-edged glass lens and pivot for jewellery detail work. Genuine stock, ships worldwide from Bangkok.
-  Updated: 2026-10-12T09:29:56Z
+  Updated: 2026-10-28T02:55:26Z
   Price: ฿1,950.00 THB
 - [Optivisor USA DA-7](https://sachitools.com/products/optivisor-usa-da-7): Optivisor DA-7 headband magnifier with bevel-edged glass lens, detachable band and pivot for hands-free detail work. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T09:29:57Z
@@ -534,9 +534,6 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
 - [Sawing Machine - Mini (Red)](https://sachitools.com/products/sawing-machine-mini-red): Mini single-blade sawing machine for slicing and cutting rough gemstones, compact enough for small workshops. Genuine stock, ships worldwide from Bangkok.
   Updated: 2026-10-12T09:31:19Z
   Price: ฿5,775.00 THB
-- [Hand Operated Wheel Grinder (TH)](https://sachitools.com/products/hand-operated-wheel-grinder-th): Compact hand-operated grinder for wheel-shaped laps, portable for polishing stones, metal and wood, in multiple grits. Ships worldwide from Bangkok.
-  Updated: 2026-10-12T09:31:22Z
-  Price: ฿1,850.00 THB
 - [Currency Counter HL-100 (Large)](https://sachitools.com/products/currency-counter-hl-100-large): Henry HL-100 automatic money counter with two UV sensors and a magnetic sensor, with batching, for most currencies. Ships worldwide from Sachi Tools.
   Updated: 2026-10-12T09:31:19Z
   Price: ฿3,875.00 THB
@@ -596,16 +593,16 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-06-15T12:43:49Z
   Total Products: 1
 - [Essentials](https://sachitools.com/collections/gemology-tools-loupes-tweezers): Buy professional gemology tools: 10x triplet loupes (Zeiss, Belomo), diamond tweezers, sorting pads, and scoops. High-quality jewelry inspection gear shipping to USA.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 288
 - [Loupes/Magnifiers](https://sachitools.com/collections/loupes-magnifiers): Shop jeweler's loupes and magnifiers from 10x triplets to headband visors, including Zeiss and Belomo optics. Genuine stock, shipped worldwide from Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 74
 - [Economical Range - Loupes](https://sachitools.com/collections/economical-range-loupes): Budget-friendly 10x jeweler's loupes that still earn their place at the counter. Honest optics for students and daily checks. Ships worldwide from Bangkok.
   Updated: 2026-10-12T12:42:58Z
   Total Products: 11
 - [Mid Range - Loupes](https://sachitools.com/collections/mid-range-loupes): Mid-range jeweler's loupes balancing optics and price: triplet lenses for grading, buying trips and bench work. Ships worldwide from Sachi Tools, Bangkok.
-  Updated: 2026-10-12T12:43:15Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 15
 - [Premium Range - Loupes](https://sachitools.com/collections/premium-range-loupes): Premium jeweler's loupes including Zeiss and Belomo triplets: the optics professionals grade with all day. Genuine stock, ships worldwide from Bangkok.
   Updated: 2026-10-17T11:23:35Z
@@ -614,16 +611,16 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-08-31T06:22:15Z
   Total Products: 13
 - [Tweezers](https://sachitools.com/collections/tweezers): Precision diamond and gemstone tweezers in stainless steel, from fine points to locking designs. Trusted by sorters and graders worldwide.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 14
 - [Economical Range - Tweezers](https://sachitools.com/collections/economical-range-tweezers): Economical diamond tweezers for sorting and handling stones: reliable grip and spring tension at entry prices. Ships worldwide from Sachi Tools, Bangkok.
   Updated: 2026-10-12T12:42:59Z
   Total Products: 3
 - [Mid Range - Tweezers](https://sachitools.com/collections/mid-range-tweezers): Mid-range diamond tweezers with precision tips and balanced tension for daily sorting, grading and setting work. Ships worldwide from Bangkok.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 5
 - [Premium Range - Tweezers](https://sachitools.com/collections/premium-range-tweezers): Premium diamond tweezers for professionals: precision-milled tips and consistent tension for melee and fine stones. Genuine stock, ships from Bangkok.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 8
 - [Diamond Sieves](https://sachitools.com/collections/diamond-sieves): Professional diamond sieves, loose plates and stands for fast, accurate melee sizing. Full plate ranges in stock in Bangkok, shipped worldwide.
   Updated: 2026-08-01T13:14:32Z
@@ -677,16 +674,16 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-09-27T11:16:03Z
   Total Products: 6
 - [Gemological Instruments & Kits](https://sachitools.com/collections/gemological-instruments-kits): Shop complete gemological kits, refractometers, spectroscopes, and testing instruments. Trusted by gem labs & jewelers in USA, Europe & Thailand.
-  Updated: 2026-10-19T11:22:17Z
-  Total Products: 101
+  Updated: 2026-10-29T11:12:35Z
+  Total Products: 102
 - [Diamond Master CZ Sets](https://sachitools.com/collections/diamond-master-cz-sets): Diamond master sets and CZ comparison stones for accurate colour grading and size estimation. Trusted by graders and labs worldwide.
-  Updated: 2026-10-18T11:17:33Z
+  Updated: 2026-10-27T09:34:32Z
   Total Products: 32
 - [Gem Identification Tools](https://sachitools.com/collections/gem-identification-tools): Gem identification tools: refractometers, polariscopes, dichroscopes, spectroscopes and filters for accurate ID. Ships worldwide from Bangkok.
-  Updated: 2026-10-19T11:22:17Z
-  Total Products: 40
+  Updated: 2026-10-29T11:12:35Z
+  Total Products: 41
 - [Gemological Kits](https://sachitools.com/collections/gemological-kits): Complete gemological kits combining the core instruments students and labs need to identify gems. Ships worldwide from Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-24T11:17:34Z
   Total Products: 8
 - [Gemological Books](https://sachitools.com/collections/gemological-books): Gemology books and references for students, graders and collectors. In stock at Sachi Gems & Tools, Bangkok.
   Updated: 2026-08-31T06:22:15Z
@@ -707,7 +704,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-11T11:17:06Z
   Total Products: 52
 - [Lamps & Lightings](https://sachitools.com/collections/jewelry-inspection-led-lamps-lighting): Shop high-quality LED lamps and lighting systems for gemstone inspection, jewelry work & precision tasks. Ships globally to USA, Europe & Thailand.
-  Updated: 2026-10-18T11:17:33Z
+  Updated: 2026-10-29T11:12:35Z
   Total Products: 75
 - [Photography Light Box](https://sachitools.com/collections/photography-light-box): Photography light boxes for clean, colour-accurate jewellery and gemstone product shots. Ships worldwide from Bangkok.
   Updated: 2026-10-18T11:17:33Z
@@ -716,7 +713,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-14T11:28:13Z
   Total Products: 20
 - [Gem Torches & Penlights](https://sachitools.com/collections/gem-torches-penlights): Gem torches and penlights for checking transparency, colour and inclusions on the go. Ships worldwide from Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-29T11:12:35Z
   Total Products: 16
 - [UV Lights](https://sachitools.com/collections/uv-lights): UV lamps and torches for fluorescence checks on diamonds and gemstones, longwave and shortwave. Ships worldwide from Bangkok.
   Updated: 2026-10-17T11:23:35Z
@@ -728,7 +725,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-08-31T06:22:49Z
   Total Products: 8
 - [Weighing Scales](https://sachitools.com/collections/weighing-scales-jewelry-gemstone): Shop digital weighing scales designed for jewelry and gemstone accuracy. Ideal for labs, retailers, and artisans. Ships to USA, Europe & Thailand.
-  Updated: 2026-10-14T11:28:13Z
+  Updated: 2026-10-28T03:42:12Z
   Total Products: 68
 - [Portable/Pocket Scales](https://sachitools.com/collections/portable-pocket-scales): Portable pocket scales for carat and gram weighing on buying trips and at trade shows. Ships worldwide from Bangkok.
   Updated: 2026-10-14T11:28:13Z
@@ -740,13 +737,13 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-12T11:18:57Z
   Total Products: 17
 - [Diamond & Jewelry Scales](https://sachitools.com/collections/diamond-jewelry-scales): Digital diamond and jewellery scales from pocket to lab bench, with carat and gram modes. Trusted by jewellers since 2001.
-  Updated: 2026-10-12T11:18:57Z
+  Updated: 2026-10-28T03:42:12Z
   Total Products: 43
 - [Diamond / Gemstone Scales](https://sachitools.com/collections/diamond-gemstone-scales-1): Precision lab-grade scales for diamonds and gems: fine readability and stable readings for certification work. Genuine stock, ships from Bangkok.
   Updated: 2026-10-12T09:48:20Z
   Total Products: 15
 - [Gold & Silver Scales](https://sachitools.com/collections/gold-silver-scales-1): Bench scales for gold and silver with high capacity and fine readability for the bullion and jewellery trade. Ships worldwide from Bangkok.
-  Updated: 2026-08-31T06:22:50Z
+  Updated: 2026-10-28T03:42:12Z
   Total Products: 20
 - [Scale's Accessories](https://sachitools.com/collections/scales-accessories): Weighing accessories: calibration weights, scoops, pans and draft shields for precision scales. Ships worldwide from Bangkok.
   Updated: 2026-10-12T11:18:57Z
@@ -761,16 +758,16 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-20T11:16:46Z
   Total Products: 13
 - [Packaging & Displays](https://sachitools.com/collections/jewelry-packaging-display-boxes-pouches-trays): Explore premium jewelry packaging, display stands, boxes, pouches & trays for professional presentation. Ships to USA, Europe & Thailand. Shop online now.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-27T11:14:27Z
   Total Products: 213
 - [Display Boxes - Gems & Diamonds](https://sachitools.com/collections/display-boxes-gems-diamonds): Browse gem and diamond display boxes for professional presentation and storage. Perfect for jewelers, gemologists & retailers. Ships to USA, Europe & Thailand.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-27T11:14:27Z
   Total Products: 140
 - [Diamond Boxes](https://sachitools.com/collections/diamond-boxes): Diamond display and storage boxes that protect stones and present them at their best. Ships worldwide from Bangkok.
-  Updated: 2026-10-16T11:22:24Z
+  Updated: 2026-10-27T11:14:27Z
   Total Products: 19
 - [Gem Boxes](https://sachitools.com/collections/gem-boxes): Gem boxes in plastic, metal and membrane styles for storing and presenting stones. Full size runs in stock, shipped worldwide from Bangkok.
-  Updated: 2026-10-19T11:22:17Z
+  Updated: 2026-10-27T11:14:27Z
   Total Products: 112
 - [Storage Boxes](https://sachitools.com/collections/storage-boxes): Secure storage boxes for organising gemstones, diamonds and parcels in the office or safe. Ships worldwide from Bangkok.
   Updated: 2026-10-02T11:21:16Z
@@ -800,13 +797,13 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-08-31T06:23:21Z
   Total Products: 1
 - [Gem Lapidary Machines & Supplies](https://sachitools.com/collections/gem-lapidary-machines-cutting-polishing-supplies): Explore premium gem lapidary machines, cutting tools, polishing supplies & accessories. Perfect for jewelers & lapidary pros in the USA, Europe & Thailand.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-26T11:15:10Z
   Total Products: 76
 - [Diamond Polishing Powder](https://sachitools.com/collections/diamond-polishing-powder): Natural diamond polishing powder in graded micron sizes for cutting and polishing. Ships worldwide from Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-26T11:15:10Z
   Total Products: 11
 - [Synthetic Diamond Polishing Powder](https://sachitools.com/collections/synthetic-diamond-polishing-powder): Synthetic diamond polishing powder in consistent micron grades for lapidary work. In stock at Sachi Gems & Tools, Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-26T11:15:10Z
   Total Products: 6
 - [Other Polishing Media](https://sachitools.com/collections/other-polishing-media): Alternative polishing media including oxides and compounds for gems and jewellery. Ships worldwide from Bangkok.
   Updated: 2026-08-31T06:23:21Z
@@ -815,10 +812,10 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-08-31T06:23:21Z
   Total Products: 10
 - [Grinding & Polishing Laps](https://sachitools.com/collections/grinding-polishing-laps): Grinding and polishing laps for faceting machines, from coarse grits to pre-polish and final finish. Ships worldwide from Bangkok.
-  Updated: 2026-10-07T11:17:38Z
+  Updated: 2026-10-23T11:18:15Z
   Total Products: 29
 - [Topper / Flat Laps](https://sachitools.com/collections/topper-flat-laps): Topper and flat laps for lapidary grinding and smoothing. Genuine trade quality from Sachi, Bangkok.
-  Updated: 2026-10-07T11:17:38Z
+  Updated: 2026-10-23T11:18:15Z
   Total Products: 2
 - [Heavy Base Steel Laps](https://sachitools.com/collections/heavy-base-steel-laps): Heavy base steel laps that run true for accurate faceting. Ships worldwide from Bangkok.
   Updated: 2026-08-31T06:23:21Z
@@ -866,7 +863,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
   Updated: 2026-10-17T11:23:35Z
   Total Products: 1
 - [packaging](https://sachitools.com/collections/packaging): Jewellery packaging essentials: boxes, trays, pouches and display supplies for shops and traders. Ships worldwide from Bangkok.
-  Updated: 2026-10-17T11:23:35Z
+  Updated: 2026-10-27T11:14:27Z
   Total Products: 146
 - [Feature Products](https://sachitools.com/collections/feature-products): Featured gemological tools and jewellery equipment picked by the Sachi team. Ships worldwide from Bangkok.
   Updated: 2026-10-11T11:17:06Z
@@ -953,7 +950,7 @@ Sachi Gems & Tools Co. Ltd. is a Bangkok-based specialist supplier of profession
 ## Policies
 
 - [Privacy Policy](https://sachitools.com/policies/privacy-policy)
-  Updated: 2025-07-17T15:41:31Z
+  Updated: 2026-10-29T17:02:56Z
 - [Shipping Policy](https://sachitools.com/policies/shipping-policy)
   Updated: 2026-07-01T12:29:01Z
 - [Refund Policy](https://sachitools.com/policies/refund-policy)
