@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-21T15:47:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:51:37.365Z
+- Updated At: 2026-10-31T00:15:49.891Z
 
 ## Products
 
@@ -101,7 +101,7 @@
     Availability: Not Available
     Price: $80.00 USD
 - [Collegiate Sweatpants](https://shop.ernestofficial.com/products/collegiate-sweatpants): Grey unisex sweatpants Collegiate inspired graphics on the pant legs 80/20 Cotton/Polyester
-  Updated: 2026-10-05T13:05:29Z
+  Updated: 2026-10-28T10:27:06Z
   Vendor: ERNEST Official Store
   Product Type: Sweatpants
   Availability: Available
@@ -122,7 +122,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Collegiate Hoodie](https://shop.ernestofficial.com/products/collegiate-hoodie): Grey unisex hoodie Collegiate inspired graphics on the front and back 80/20 Cotton/Polyester
-  Updated: 2026-10-05T13:05:30Z
+  Updated: 2026-10-28T10:27:02Z
   Vendor: ERNEST Official Store
   Product Type: Hoodie
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Cadillac Flowers Tee](https://shop.ernestofficial.com/products/cadillac-flowers-tee): Black unisex tee Cadillac with roses graphic on the front 100% Cotton
-  Updated: 2026-10-05T14:01:10Z
+  Updated: 2026-10-25T00:27:54Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -353,7 +353,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Vintage Photo Flowers Tee](https://shop.ernestofficial.com/products/vintage-photo-flowers-tee): Black unisex tee Vintage inspired photo with roses graphic on the front 100% Cotton
-  Updated: 2026-10-05T14:01:13Z
+  Updated: 2026-10-28T10:27:04Z
   Vendor: ERNEST Official Store
   Product Type: T-Shirt
   Availability: Available
@@ -820,6 +820,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Ern-Sticker.png?v=1773768269
   Price: $5.00 USD
+- [Stars for Second Harvest Hat](https://shop.ernestofficial.com/products/stars-for-second-harvest-hat)
+  Updated: 2026-10-28T20:17:28Z
+  Vendor: ERNEST Official Store
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Ernest-Hat-Second-Harvest.png?v=1773768267
+  Price: $35.00 USD
 - [Brown Ernest Logo Hat](https://shop.ernestofficial.com/products/brown-logo-hat): Embroidered Ernest logo on the front of a brown hat
   Updated: 2026-10-05T14:01:30Z
   Vendor: ERNEST Official Store
@@ -842,7 +849,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/Deep-Blue-Vinyl_1b275325-9b0f-40bb-957e-9b5a2bbf4df0.png?v=1774626970
   Price: $39.98 USD
 - [Deep Blue Vinyl (Signed)](https://shop.ernestofficial.com/products/deep-blue-vinyl-signed): Triple threat talent ERNEST will release his new album Deep Blue on May 1. The 13-song collection continues to mix his country sensibilities with a coastal feel. Produced by ERNEST and Jacob Durrett the album features previously released single “Lorelei,” which Billboard named “a worthy inclusion to country music’s history of balmy, tropical-infused tracks,” and “Boat Named After You.” Deep Blue also includes a previously unreleased demo by Toby Keith, “End of The Night,” which ERNEST first recorded for Apple Music’s ‘Lost & Found’ series in October of 2025. Deep Blue by Ernest on Dark Water 2LP vinyl Inner sleeve SIGNED by Ernest Gatefold jacket Tracklist 1 Lorelei2 Edge Of The U.S.A. 3 What’s A Little Rain 4 Lucky 5 Quit While We’re Behind6 Somewhere In The Caribbean7 End Of The Night 8 Waste A Day 9 Deep Blue 10 If I’m Not Careful 11 Same Moon 12 Boat Named After You 13 Time Is A Thief (feat. Lukas Nelson)
-  Updated: 2026-10-17T19:54:07Z
+  Updated: 2026-10-30T11:52:06Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
@@ -876,31 +883,31 @@
 ## Collections
 
 - [Home page](https://shop.ernestofficial.com/collections/frontpage)
-  Updated: 2026-10-01T11:27:15Z
+  Updated: 2026-10-28T11:21:10Z
   Total Products: 12
 - [Apparel](https://shop.ernestofficial.com/collections/apparel)
-  Updated: 2026-10-22T11:28:00Z
+  Updated: 2026-10-28T11:21:10Z
   Total Products: 38
 - [Accessories](https://shop.ernestofficial.com/collections/accessories)
-  Updated: 2026-10-14T18:27:26Z
+  Updated: 2026-10-28T20:17:29Z
   Total Products: 12
 - [Hats](https://shop.ernestofficial.com/collections/hats)
-  Updated: 2026-10-14T18:27:26Z
+  Updated: 2026-10-28T20:17:29Z
   Total Products: 11
 - [Music](https://shop.ernestofficial.com/collections/music)
-  Updated: 2026-10-18T11:24:44Z
+  Updated: 2026-10-30T11:22:27Z
   Total Products: 7
 - [All](https://shop.ernestofficial.com/collections/all)
-  Updated: 2026-10-22T11:28:00Z
+  Updated: 2026-10-30T11:22:27Z
   Total Products: 63
 - [Live From The South Tour](https://shop.ernestofficial.com/collections/live-from-the-south-tour)
   Updated: 2026-10-12T11:25:14Z
   Total Products: 7
 - [Deep Blue](https://shop.ernestofficial.com/collections/deep-blue)
-  Updated: 2026-10-18T11:24:44Z
+  Updated: 2026-10-30T11:22:27Z
   Total Products: 8
 - [Summer ](https://shop.ernestofficial.com/collections/summer-)
-  Updated: 2026-10-22T11:28:00Z
+  Updated: 2026-10-28T20:17:29Z
   Total Products: 38
 
 ## Store Pages
