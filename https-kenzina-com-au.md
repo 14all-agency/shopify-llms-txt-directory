@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2019-06-21T02:44:44Z
 - Contact Email: info@kenzina.com.au
-- Updated At: 2026-10-23T00:58:03.780Z
+- Updated At: 2026-10-31T00:19:20.660Z
 
 ## Products
 
@@ -18,56 +18,56 @@
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/iVNMe34tazGKpEFC4RLfT_Xwx98Wqh.png?v=1772059127
   Price: $99.00 AUD
 - [Shop Bunny Headband Online in Australia](https://kenzina.com.au/products/bunny-headband): Check out our cute new bunny headband collection, which is ideal for keeping your hair out of your face and eyes as you wash your face or apply masks. 100% cruelty-free. Place your order right now!
-  Updated: 2026-10-17T12:11:26Z
+  Updated: 2026-10-30T01:05:36Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/Untitled_design_2_07bfd7e9-e325-4736-8cc3-82707d4f45a7.png?v=1754428854
   Price: $8.00 AUD
 - [Hydrating Lip Masks, 20 Sets | Kenzina Australia](https://kenzina.com.au/products/hydration-boosting-lip-masks-20-sets): Pink gel lip masks with hyaluronic acid and vegan collagen that leave lips feeling soft, smooth and hydrated. Vegan, 20 sets per pack, from Kenzina.
-  Updated: 2026-10-18T18:49:58Z
+  Updated: 2026-10-30T09:42:06Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/45.png?v=1754428854
   Price: $55.00 AUD
 - [Kenzina Rejuvenating Eye Masks – 30 Pairs | Vegan & Anti-Wrinkle](https://kenzina.com.au/products/kenzina-rejuvenating-eye-masks-30-pairs): Hydrate, brighten and depuff with Kenzina's vegan under-eye masks. Vegan collagen, peptides and hyaluronic acid for smoother, fresher-looking eyes. 30 pairs.
-  Updated: 2026-10-23T00:34:31Z
+  Updated: 2026-10-27T18:37:15Z
   Vendor: Kenzina
   Product Type: beauty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/5Am2mlTnbEu5KFHM5KTLX_zCvvSZJv.png?v=1772156115
   Price: $55.00 AUD
 - [Lip Ice Pack, Reusable Cooling Gel | Kenzina](https://kenzina.com.au/products/kenzina-lip-ice-pack): A reusable gel ice pack shaped to fit the lips. Chill it in the freezer and hold it in place for a cool, comforting feel. From Kenzina, an Australian brand.
-  Updated: 2026-10-19T06:55:38Z
+  Updated: 2026-10-30T02:22:01Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/35.png?v=1754428854
   Price: $12.00 AUD
 - [Ice Face Mask, Reusable Hot & Cold | Kenzina Fire & Ice](https://kenzina.com.au/products/kenzina-fire-ice-mask): A reusable gel face mask. Chill it in the freezer for a cool, refreshing mask, or warm it for a cosy one. From Kenzina, an Australian skincare brand.
-  Updated: 2026-10-18T18:42:21Z
+  Updated: 2026-10-28T09:36:57Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/32.png?v=1754428854
   Price: $35.00 AUD
 - [Mini Tote Bag](https://kenzina.com.au/products/mini-tote-bag): It is time to ditch the plastic! Kenzina mini tote bags are designed by Zarina owner of Kenzina and printed on organic cotton. This beautiful Tote Bag is the perfect everyday go-to bag for running errands while looking effortlessly cool. A perfect gift for a fellow plant lover and great to use as a gym or beach bag. Carry around all your favourite things in our pretty tote bags, the possibilities and uses are endless! Details Light weight, 100% organic cotton fabric Measures 35cm x 25cm
-  Updated: 2026-08-28T18:53:49Z
+  Updated: 2026-10-30T02:20:58Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/54.png?v=1754428854
   Price: $7.50 AUD
 - [Double-headed Silicone & Facial Brush Applicator](https://kenzina.com.au/products/double-headed-silicone-facial-brush-applicator): No more messy fingers! Kenzina Double-Headed Silicone & Brush Applicator is a two in one tool that helps you to get a precise and targeted application. Use the silicone end to distribute product and also as a perfect scoop for the AHA/BHA Exfoliating Cream. Use the brush end to apply the Hydra-Lift Brightening Cream Mask.Try it on your skin tonight and say hello to soft, glowing skin tomorrow!For the ultimate masking experience use with Kenzina Hydra-Lift Brightening Cream Mask and AHA/BHA Exfoliating Cream. - Features real timber handle, silicone shape end, and soft brush end - Wash after use and store in a clean, dry place
-  Updated: 2026-10-17T12:11:31Z
+  Updated: 2026-10-30T00:50:58Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/Untitled_design_4_6b6f8393-4df3-4c8b-a433-0e94a57b36c4.png?v=1754428854
   Price: $12.00 AUD
 - [Pick-Me-Up Biodegradable Collagen Eye  Masks](https://kenzina.com.au/products/biodegradable-collagen-eye--masks): Kenzina Pick-Me-Up Biodegradable Collagen Eye  offers a rejuvenating solution enriched with collagen, hyaluronic acid, cucumber extract, and caffeine. These eye treatments are designed to revitalize tired eyes, reduce puffiness, and replenish the skin's moisture. Worlds first 100% biodegradable eye masks in 100% biodegradable packaging!
-  Updated: 2026-10-17T12:11:32Z
+  Updated: 2026-10-30T00:54:35Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/products/KenzinaPick-Me-UpImage4.jpg?v=1679706300
     Price: $60.00 AUD
 - [Oversized Pink Gift Bag: Ultimate Statement Edition](https://kenzina.com.au/products/oversized-pink-gift-bag-ultimate-statement-edition): Turn heads and make an unforgettable impression with our Extra-Large Pink Gift Bag, measuring an impressive 120cm x 80cm. Made from durable, high-quality PP woven material, this stylish bag is designed to hold even the biggest gifts with ease, while adding a luxurious, eye-catching touch to any occasion. Perfect for Christmas, birthdays, or any special celebration, this bag is as practical as it is bold—its sturdy construction ensures it can handle heavier items, while its vibrant pink colour makes it a standout choice for anyone who loves a bit of glam. Skip the hassle of traditional wrapping and let this extra-large bag deliver a stunning surprise,  to impress!size 12cmx80cmcomes packed flat The product comes packed flat to save on shipping space.
-  Updated: 2026-08-28T18:53:50Z
+  Updated: 2026-10-30T00:35:27Z
   Vendor: Kenzina
   Product Type: 
   Availability: Available
@@ -94,29 +94,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/icon_bag_kenzina.gif?v=1742896914
   Price: $99.00 AUD
+- [Brightening & Depuffing Eye Masks: Vitamin C & Kakadu Plum | Kenzina](https://kenzina.com.au/products/brightening-depuffing): Morning hydrogel eye masks with vitamin C, caffeine and Kakadu Plum for brighter, less puffy-looking eyes. Fragrance-free. 30 pairs. Free AU shipping.
+  Updated: 2026-10-30T09:41:57Z
+  Vendor: Kenzina
+  Product Type: beauty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/am-hero.jpg?v=1791313120
+  Price: $55.00 AUD
+- [Age Defying Collagen Boost Eye Masks: Bakuchiol & Peptides | Kenzina](https://kenzina.com.au/products/collagen-boost): Evening hydrogel eye masks with bakuchiol, three peptides and vegan collagen for smoother, firmer-looking eyes. Fragrance-free. 30 pairs. Free AU shipping.
+  Updated: 2026-10-30T09:41:59Z
+  Vendor: Kenzina
+  Product Type: beauty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/pm-hero.jpg?v=1791313121
+  Price: $55.00 AUD
+- [AM + PM Eye Ritual: Brightening & Collagen Boost Eye Masks | Kenzina](https://kenzina.com.au/products/am-pm-eye-ritual): Both new Kenzina eye masks: Brightening & Depuffing for mornings, Collagen Boost for evenings. 60 pairs, $99 ($110 separately). Free AU shipping.
+  Updated: 2026-10-30T09:42:06Z
+  Vendor: Kenzina
+  Product Type: beauty
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0252/6475/0652/files/ritual-hero.jpg?v=1791313121
+  Price: $99.00 AUD
 
 ## Collections
 
 - [Bundles](https://kenzina.com.au/collections/kenzina-bundles)
-  Updated: 2026-10-10T11:06:34Z
+  Updated: 2026-10-27T21:24:29Z
   Total Products: 23
 - [Kenzina](https://kenzina.com.au/collections/kenzina)
-  Updated: 2026-10-21T11:06:20Z
+  Updated: 2026-10-30T11:04:17Z
   Total Products: 22
 - [Best sellers](https://kenzina.com.au/collections/best-sellers)
-  Updated: 2026-10-19T11:04:20Z
+  Updated: 2026-10-30T11:04:17Z
   Total Products: 14
 - [Orderly Emails - Recommended Products](https://kenzina.com.au/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-10-21T11:06:20Z
+  Updated: 2026-10-30T11:04:17Z
   Total Products: 54
 - [Eye Masks](https://kenzina.com.au/collections/eye-masks): Kenzina hydrogel under-eye masks: Brightening & Depuffing (AM), Age Defying Collagen Boost (PM) and the Original. 30 pairs per jar, free shipping Australia-wide.
-  Updated: 2026-10-21T11:06:20Z
+  Updated: 2026-10-30T11:04:17Z
   Total Products: 5
 - [Sets & Gifts](https://kenzina.com.au/collections/sets-gifts): Kenzina eye and lip mask sets, gift bags and accessories. Free shipping Australia-wide.
-  Updated: 2026-10-13T11:04:50Z
+  Updated: 2026-10-28T11:04:36Z
   Total Products: 9
 - [GWP qualifying (eye masks) - internal](https://kenzina.com.au/collections/gwp-qualifying): Internal: products that count toward the free-gift thresholds (EARLYACCESS, BF/CM). Used by the theme GWP block and the Shopify gift discounts. Not published.
-  Updated: 2026-10-21T11:06:20Z
+  Updated: 2026-10-30T11:04:17Z
   Total Products: 5
 
 ## Blogs
@@ -257,6 +278,8 @@
   Updated: 2022-07-19T11:12:48Z
 - [Beauty Bar Hotels](https://kenzina.com.au/pages/beauty-bar-hotels): As a skincare brand on a sustainability mission, Kenzina exists to create professional, Australian-based, ethically made skincare products in susta...
   Updated: 2024-10-05T22:46:40Z
+- [Purple or Pink? Find your new Kenzina eye mask](https://kenzina.com.au/pages/purple-or-pink): Two new Kenzina eye masks: Brightening & Depuffing (pink, for mornings) and Age Defying Collagen Boost (purple, for evenings). Find your match.
+  Updated: 2026-10-26T18:11:46Z
 
 ## Policies
 
