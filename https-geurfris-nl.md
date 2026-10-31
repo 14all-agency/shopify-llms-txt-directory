@@ -6,12 +6,12 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2024-12-12T19:05:59Z
 - Contact Email: info@geurfris.nl
-- Updated At: 2026-10-23T01:04:33.566Z
+- Updated At: 2026-10-31T00:18:28.344Z
 
 ## Products
 
 - [Stopcontact geurverspreider voor ontspanning thuis](https://geurfris.nl/products/elektrische-stopcontact-geurverspreider): Ontdek deze stopcontact geurverspreider met ontspannende geur. Eenvoudig in gebruik, compact en ideaal voor een frisse, rustgevende sfeer thuis.
-  Updated: 2026-10-11T07:17:51Z
+  Updated: 2026-10-25T08:56:34Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Geurstokjes_Verpakking_61f33709-f528-442c-ab1d-4cd048389478.jpg?v=1782786936
   Price: € 29,95 EUR
 - [Dierengeur verwijderaar Navulling - Frisse Sfeer | Neutrale Geuren](https://geurfris.nl/products/dierengeur-verwijderaar-navulling): Effectieve dierengeur verwijderaar navulling. Geniet van een frisse sfeer tenminste 30 dagen. Geschikt voor Ambielectric Plus geurverspreiders.
-  Updated: 2026-10-21T19:50:26Z
+  Updated: 2026-10-28T20:55:26Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/dierengeur-neutraliseren-2.webp?v=1788943599
   Price: € 29,95 EUR
 - [Dierengeur Neutraliseren Starterset | Langdurig Fris](https://geurfris.nl/products/dierengeur-neutraliseren): Dierengeur Neutraliseren? Neutraliseer huisdierengeur met de Citrusgeur Starterset. Verwijdert effectief ongewenste dierenluchtjes met langdurige werking.
-  Updated: 2026-10-18T22:45:30Z
+  Updated: 2026-10-24T09:16:46Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/ambielectric-grijs.webp?v=1782786623
   Price: € 59,95 EUR
 - [Ambielectric Plus Diffuser Wit voor stijlvol aroma](https://geurfris.nl/products/ambielectric-plus-diffuser-wit): Ontdek de Ambielectric Plus Diffuser Wit: een elegante geurverspreider voor een frisse sfeer, subtiele aromaverdeling en modern gebruiksgemak.
-  Updated: 2026-10-22T18:01:36Z
+  Updated: 2026-10-27T15:40:36Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/aire-limpio-sfeer.webp?v=1788106736
   Price: € 29,95 EUR
 - [Kokos huisparfum voor een warme tropische sfeer - Ambielectric Plus](https://geurfris.nl/products/kokos-huisparfum): Ontdek kokos huisparfum voor een frisse, warme en tropische geur in huis. Ideaal voor woonkamer, slaapkamer en badkamer.
-  Updated: 2026-10-15T03:55:25Z
+  Updated: 2026-10-23T15:40:26Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/rood_fruit.jpg?v=1782786660
   Price: € 29,95 EUR
 - [Huisparfum appel: Ambielectric Plus Manzana - Ambielectric](https://geurfris.nl/products/huisparfum-appel): Ontdek huisparfum appel Ambielectric Plus - Manzana. Een frisse, zoete geur die je huis een schoon, fruitig en uitnodigend gevoel geeft.
-  Updated: 2026-10-01T22:25:00Z
+  Updated: 2026-10-24T06:55:00Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -158,14 +158,14 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/dierengeur-verwijderaar-citrus-2.webp?v=1788943601
   Price: € 29,95 EUR
 - [Geurverwijderaar voor huisdieren | Effectief & vrijwel geurloos](https://geurfris.nl/products/geurverwijderaar_voor_huisdieren): Kies deze geurverwijderaar voor huisdieren starterset voor een fris huis zonder nare dierengeuren. Effectief, handig en eenvoudig in gebruik.
-  Updated: 2026-10-22T11:44:26Z
+  Updated: 2026-10-28T20:55:27Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/dierengeur-neutraliseren-2.webp?v=1788943599
   Price: € 59,95 EUR
 - [Geurverspreider Ambielectric Diffuser voor Elke Ruimte](https://geurfris.nl/products/geurverspreider): Ontdek de geurverspreider Ambielectric Diffuser: stijlvol, krachtig en geschikt voor elke ruimte. Voor een frisse, aangename sfeer thuis.
-  Updated: 2026-10-15T18:57:03Z
+  Updated: 2026-10-25T08:56:34Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -179,21 +179,21 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/sfeer-citronella-star.webp?v=1788943620
   Price: € 19,95 EUR
 - [Nare geuren verwijderen met Star Magic Navulling - Ambielectric](https://geurfris.nl/products/nare-geuren-verwijderen): Verwijder nare geuren eenvoudig met Ambielectric Navulling Star Magic. Frisse geur, langdurige werking en ideaal voor een aangename ruimte.
-  Updated: 2026-10-12T22:47:10Z
+  Updated: 2026-10-25T08:56:34Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/Magic-sfeer-star.webp?v=1791802041
   Price: € 19,95 EUR
 - [Geurverwijderaar Navulling Ambielectric Plus - Tegen ongewenste geuren](https://geurfris.nl/products/geurverwijderaar): Ontdek de geurverwijderaar navulling Ambielectric Plus: natuurlijk, effectief en langdurig tegen ongewenste geuren in huis.
-  Updated: 2026-10-20T17:02:21Z
+  Updated: 2026-10-27T15:40:26Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/MAGIC-SFEER.webp?v=1788943625
   Price: € 29,95 EUR
 - [Elektrische geurverwijderaar voor vieze geuren - Ambielectric Plus](https://geurfris.nl/products/elektrische-geurverwijderaar-vieze-geuren): Ontdek de Ambielectric Magic Kit: een elektrische geurverwijderaar voor vieze geuren die zorgt voor frisse lucht, comfort en gemak in huis.
-  Updated: 2026-10-21T12:05:25Z
+  Updated: 2026-10-27T15:40:35Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/blue-sfeer-2.webp?v=1788943629
   Price: € 59,95 EUR
 - [Geurverwijderaar Kit - Stopcontact - Star Neutralizer | Compact Design](https://geurfris.nl/products/geurverwijderaar-stopcontact): Ontdek de stopcontact geurverwijderaar kit met Magic Neutralizer. Compact en stijlvol, effectief tegen ongewenste geuren tot 200 m³. Plug & play gemak zonder sprays.
-  Updated: 2026-10-12T10:48:29Z
+  Updated: 2026-10-25T08:56:34Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/white-tea-sfeer.webp?v=1788943694
   Price: € 29,95 EUR
 - [Ontspannende huisparfum? Navulling voor Ambielectric Star - SPA](https://geurfris.nl/products/ontspannende-huisparfum): Ervaar rust en klasse met de ontspannende huisparfum van Ambielectric. Fris, bloemig en ontspannend aroma, ideaal voor salons tot thuis. Eenvoudig te vervangen.
-  Updated: 2026-10-15T18:58:28Z
+  Updated: 2026-10-25T08:56:34Z
   Vendor: Ambielectric
   Product Type: 
   Availability: Available
@@ -430,6 +430,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/sfeer-muggenstop.webp?v=1788943714
   Price: € 59,95 EUR
+- [GeurFris herbruikbare shopper | Naturelkleur, lange hengsels](https://geurfris.nl/products/geurfris-shopper): Ontdek de herbruikbare shopper GeurFris met jute onderzijde en lange hengsels. Perfect voor boodschappen en onderweg, altijd stijlvol en praktisch.
+  Updated: 2026-10-25T20:56:39Z
+  Vendor: GeurFris.nl
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0905/8841/4299/files/GeurFrisTas_84732c09-814e-4448-bd4a-bc89bbfc87cf.webp?v=1792918616
+  Price: € 7,50 EUR
 
 ## Collections
 
@@ -443,37 +450,37 @@
   Updated: 2026-10-20T06:34:20Z
   Total Products: 5
 - [Elektrische geurdiffuser: Ambielectric Star – Krachtige Geurverspreiding tot 200m³](https://geurfris.nl/collections/elektrische-geurdiffuser): Ontdek de elektrische geurdiffuser Ambielectric Star: krachtige geurverspreiding tot 200m³ voor een frisse, luxe sfeer in elke ruimte.
-  Updated: 2026-10-02T11:38:50Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 13
 - [Elektrische geurdiffuser: Ambielectric Plus – Krachtige Geurverspreiding tot 400 m³](https://geurfris.nl/collections/elektrische-geurdiffuser-1): Elektrische geurdiffuser Ambielectric Plus verspreidt geur krachtig tot 400 m³. Ideaal voor een frisse, professionele geurbeleving.
-  Updated: 2026-10-04T11:17:46Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 18
 - [Navullingen voor Huisparfums | Ontdek Onze Professionele Geuren | Creëer de Perfecte Sfeer](https://geurfris.nl/collections/navullingen-huisparfums): Ontdek navullingen voor huisparfums met verfijnde geuren, langdurige frisheid en een stijlvolle sfeer voor elke ruimte in huis.
-  Updated: 2026-10-17T11:24:25Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 23
 - [Complete geurverspreider kits – Alles-in-één voor een frisse start](https://geurfris.nl/collections/complete-kits): Ontdek de complete kits van GeurFris met Ambielectric diffuser en navulling. Direct klaar voor gebruik voor geurverwijdering of een luxe geurbeleving.
-  Updated: 2026-10-20T11:20:10Z
+  Updated: 2026-10-26T11:20:48Z
   Total Products: 10
 - [Ontspannende geuren: Een oase van rust voor lichaam en geest](https://geurfris.nl/collections/ontspannende-geuren): Ontspannende geuren helpen je lichaam en geest tot rust te brengen. Ontdek hoe je met sfeer, verzorging en eenvoud meer balans ervaart.
   Updated: 2026-10-17T11:24:25Z
   Total Products: 26
 - [Huisdierengeur Verwijderaars–Fris Huis Tegen Hondengeuren of Kattengeuren](https://geurfris.nl/collections/dierengeur-verwijderaar): Dierengeur verwijderaar tegen hondengeur en kattengeur – pakt hardnekkige geurtjes écht aan, blijft langdurig werken en houdt je huis fris en aangenaam
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 4
 - [Ambielectric Plus Navullingen – Duurzaam en langdurig genieten van geur](https://geurfris.nl/collections/amibielectric-plus-navullingen): Bestel Ambielectric Plus navullingen voor geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking. Geschikt voor ruimtes tot 400 m³.
-  Updated: 2026-10-17T11:24:25Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 37
 - [Diffusers](https://geurfris.nl/collections/elektrische-geurdiffusers): Ontdek de elektrische geurdiffusers van Ambielectric. Kies de diffuser die past bij jouw ruimte en combineer deze met een geurverwijderaar of luxe huisparfum.
   Updated: 2026-10-01T22:24:58Z
   Total Products: 2
 - [Ambielectric Navullingen – Altijd een Frisse Sfeer in Huis](https://geurfris.nl/collections/navullingen): Bestel Ambielectric Plus en Star navullingen. Kies uit geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking en eenvoudig te vervangen.
-  Updated: 2026-10-17T11:24:25Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 42
 - [Vanilla huisparfum: Een romige vanillegeur met fruitige gourmand-tonen en een zachte, warme basis](https://geurfris.nl/collections/huisparfum-vanille): Ontdek Vanille huisparfum van Ambielectric. Een warme gourmand-geur met romige vanille, fruitige accenten en een zachte fougèrebasis voor een luxe geurbeleving.
   Updated: 2026-10-20T06:34:20Z
   Total Products: 2
 - [Huisparfum Manzana: Een frisse appelgeur met citrus en een zachte perzikbasis](https://geurfris.nl/collections/huisparfum-appel): Ontdek Appel huisparfum van Ambielectric. Een frisse geur met citroen, appel, waterfruiten en zachte perzik voor een natuurlijke en langdurige geurbeleving.
-  Updated: 2026-10-01T22:24:58Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 1
 - [Aire Limpio: Een frisse ozonische geur met mariene accenten en warme houtnoten](https://geurfris.nl/collections/huisparfum-aire-limpio): Ontdek Aire Limpio huisparfum van Ambielectric. Een frisse geur met ozonische, mariene en fruitige noten, verfijnd met hout en specerijen voor een schone en lux
   Updated: 2026-10-01T22:24:58Z
@@ -497,7 +504,7 @@
   Updated: 2026-10-01T22:24:58Z
   Total Products: 2
 - [Tabac Neutral: Neutraliseert rookgeur en laat een frisse, luxe geur achter](https://geurfris.nl/collections/rookgeur-neutraliseren-tabac-neutral): Verwijder hardnekkige rookgeur met Tabac Neutral van Ambielectric. Neutraliseert rooklucht en verspreidt een frisse, luxe geur die minimaal 30 dagen aanhoudt.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 4
 - [Frutos Rojos huisparfum: Een sappige fruitgeur met rode vruchten, tropische accenten en zachte vanille](https://geurfris.nl/collections/huisparfum-rode-vruchten): Ontdek Frutos Rojos huisparfum van Ambielectric. Een fruitige geur met aardbei, framboos, ananas, kokos, vanille en perzik voor een frisse en zomerse sfeer.
   Updated: 2026-10-01T22:24:58Z
@@ -506,7 +513,7 @@
   Updated: 2026-10-01T22:24:58Z
   Total Products: 0
 - [Speciaal tegen dierengeuren](https://geurfris.nl/collections/speciaal-tegen-dierengeuren): Ontdek onze professionele oplossingen om hardnekkige dierengeuren snel en effectief te verwijderen. Onze geurdiffusers en navullingen neutraliseren  - GeurFris.nl
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 4
 - [CKO – Frisgroen, kruidig en vol karakter](https://geurfris.nl/collections/cko): CKO: frisgroen met citrus, bloemen en fougère. Afgerond met amber, musk en hout. Natuurlijk, karaktervol en elegant – een geur met persoonlijkheid.
   Updated: 2026-10-20T06:35:46Z
@@ -587,16 +594,16 @@
   Updated: 2026-10-01T22:24:59Z
   Total Products: 0
 - [Neutraliserende geuren – Weg met nare luchtjes, welkom frisse sfeer](https://geurfris.nl/collections/neutraliserende-geuren): Neutraliserende geuren helpen nare luchtjes snel weg te nemen en zorgen voor een frisse, aangename sfeer in huis, op kantoor of in elke ruimte.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 8
 - [Ambielectric navullingen voor Star diffuser – Compacte kracht voor kleinere ruimtes](https://geurfris.nl/collections/ambielectric-star-navullingen): Bestel Ambielectric Star navullingen voor geurverwijderaars en luxe huisparfums. Minimaal 30 dagen werking. Geschikt voor ruimtes tot 200 m³.
-  Updated: 2026-10-02T11:38:50Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 5
 - [AVADA - Best Sellers](https://geurfris.nl/collections/avada-best-sellers): - GeurFris.nl
-  Updated: 2026-10-20T11:20:10Z
-  Total Products: 78
+  Updated: 2026-10-26T11:20:48Z
+  Total Products: 79
 - [Geurmarketing is Geen Kostenpost, Maar een Directe ROI-Strategie. Verhoog Uw Verkoop tot 30%.](https://geurfris.nl/collections/geurmarketing): Ontdek hoe professionele geurmarketing uw omzet kan verhogen. Ervaar de kracht van Ambielectric en verleng de verblijfstijd door strategisch geurgebruik.
-  Updated: 2026-10-20T11:20:10Z
+  Updated: 2026-10-26T11:20:48Z
   Total Products: 4
 - [Frisse Geuren voor Thuis en Werk - GeurFris](https://geurfris.nl/collections/frisse-geuren): Ontdek frisse geuren voor thuis en werk! Frisse geuren voor schoon, luchtig gevoel. Ideaal voor elke ruimte en geurverspreiders.
   Updated: 2026-10-20T06:32:47Z
@@ -611,16 +618,16 @@
   Updated: 2026-10-20T06:32:47Z
   Total Products: 13
 - [Houtachtige en Warme Geuren voor Luxe en Comfort](https://geurfris.nl/collections/houtachtige-warme-geuren): Ontdek houtachtige en warme geuren die luxe, rust en comfort brengen. Ideaal voor een sfeervolle, elegante en gezellige uitstraling.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 9
 - [Guerrillamarketing proefplaatsing? Verwelkom je klanten en medewerkers met de juiste geurbeleving](https://geurfris.nl/collections/geurmarketing-proefplaatsing-zakelijk): Ontdek hoe geurmarketing proefplaatsing klanten en medewerkers verwelkomt met een passende geurbeleving die merk, sfeer en comfort versterkt.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 1
 - [Effectieve dierengeurverwijderaars voor een fris huishouden](https://geurfris.nl/collections/segment-dierengeur-verwijderaars): Ontdek effectieve dierengeurverwijderaars voor een fris huishouden. Verwijder hardnekkige geuren snel en houd je woning aangenaam schoon.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-24T11:18:32Z
   Total Products: 4
 - [Effectieve oplossingen voor rookgeur verwijderen](https://geurfris.nl/collections/rookgeur-verwijderen): Ontdek effectieve methodes om rookgeur verwijderen van textiel en stoffen. Verfris uw meubels en kleding vandaag nog met onze tips en producten.
-  Updated: 2026-10-15T11:20:48Z
+  Updated: 2026-10-23T11:41:23Z
   Total Products: 4
 - [Effectieve technieken om toiletgeur volledig te verwijderen](https://geurfris.nl/collections/toiletgeur-verwijderen): Houd je toilet langdurig fris met geurstokjes en elektrische diffusers van GeurFris. Kies uit luxe huisparfums of geurverwijderaars voor elke toiletruimte.
   Updated: 2026-10-20T06:35:46Z
@@ -629,11 +636,11 @@
   Updated: 2026-10-20T06:35:46Z
   Total Products: 8
 - [Geurverwijderaars voor bedrijfsruimtes - Altijd fris](https://geurfris.nl/collections/bedrijfsruimte-geurverwijderaars): Houd kantoren, winkels en andere bedrijfsruimtes langdurig fris. Ontdek geurverwijderaars en luxe huisparfums voor een professionele geurbeleving.
-  Updated: 2026-10-20T11:20:10Z
+  Updated: 2026-10-26T11:20:48Z
   Total Products: 5
 - [Complete geurverspreider Ambielectric Plus kits – Alles-in-één voor een frisse start](https://geurfris.nl/collections/complete-geurverspreider-ambielectric-plus): Creëer een fijne geurbeleving met complete geurverspreider kits. Bevat een hoogwaardige diffuser en navulling voor langdurig frisse resultaten.
-  Updated: 2026-10-20T11:20:10Z
-  Total Products: 8
+  Updated: 2026-10-26T11:20:48Z
+  Total Products: 9
 - [Complete geurverspreider kits voor kleinere ruimtes](https://geurfris.nl/collections/complete-geurverspreider-ambielectric-star-kits): Ontdek complete geurverspreider kits voor kleinere ruimtes. Inclusief hoogwaardige diffuser en navulling, creëer een langdurig frisse geurbeleving.
   Updated: 2026-10-19T19:14:55Z
   Total Products: 2
@@ -1326,11 +1333,11 @@
 ## Policies
 
 - [Privacy Policy](https://geurfris.nl/policies/privacy-policy)
-  Updated: 2024-12-12T19:06:04Z
+  Updated: 2026-10-30T23:11:45Z
 - [Refund Policy](https://geurfris.nl/policies/refund-policy)
   Updated: 2025-05-21T16:19:48Z
 - [Terms of Service](https://geurfris.nl/policies/terms-of-service)
-  Updated: 2026-02-26T21:02:16Z
+  Updated: 2026-10-30T12:32:37Z
 - [Contact Information](https://geurfris.nl/policies/contact-information)
   Updated: 2025-01-06T20:35:42Z
 
