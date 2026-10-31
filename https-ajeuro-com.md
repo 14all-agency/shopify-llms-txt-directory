@@ -6,7 +6,7 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2025-12-30T03:37:42Z
 - Contact Email: franceajluxe@gmail.com
-- Updated At: 2026-10-23T01:04:20.941Z
+- Updated At: 2026-10-31T00:27:02.674Z
 
 ## Products
 
@@ -577,7 +577,7 @@
 ## Policies
 
 - [Privacy Policy](https://ajeuro.com/policies/privacy-policy)
-  Updated: 2026-06-26T08:39:07Z
+  Updated: 2026-10-30T21:48:57Z
 
 ## Optional
 
