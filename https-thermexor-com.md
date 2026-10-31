@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-09-19T15:56:22Z
 - Contact Email: zhu261010@gmail.com
-- Updated At: 2026-10-24T00:46:34.052Z
+- Updated At: 2026-10-31T01:07:53.686Z
 
 ## Products
 
@@ -74,17 +74,19 @@
   Updated: 2026-09-22T14:25:15Z
 - [About Thermexor | Panoramic Roof Coating Kits](https://thermexor.com/pages/about): Keep the view. Rethink the heat. A panoramic roof brings light, space and a view of the sky into your car. On sunny days, the glass above you can a...
   Updated: 2026-10-07T11:49:27Z
+- [Trade Program for Installers & Distributors | Thermexor](https://thermexor.com/pages/trade): For installers, dealers, distributors and fleet buyers. Tell us about your business, market and expected order size to discuss Thermexor panoramic ...
+  Updated: 2026-10-27T16:27:21Z
 
 ## Policies
 
 - [Privacy Policy](https://thermexor.com/policies/privacy-policy)
-  Updated: 2026-09-19T16:39:44Z
+  Updated: 2026-10-27T16:04:50Z
 - [Shipping Policy](https://thermexor.com/policies/shipping-policy)
-  Updated: 2026-09-20T15:49:39Z
+  Updated: 2026-10-27T16:06:27Z
 - [Refund Policy](https://thermexor.com/policies/refund-policy)
-  Updated: 2026-09-20T15:47:10Z
+  Updated: 2026-10-27T16:00:57Z
 - [Terms of Service](https://thermexor.com/policies/terms-of-service)
-  Updated: 2026-09-20T15:39:20Z
+  Updated: 2026-10-27T16:05:17Z
 
 ## Optional
 
