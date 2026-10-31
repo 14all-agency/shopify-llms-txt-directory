@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-02-14T12:28:05Z
 - Contact Email: hello@norrska.com
-- Updated At: 2026-10-24T00:43:09.617Z
+- Updated At: 2026-10-31T00:55:32.250Z
 
 ## Products
 
 - [Halloween Witch Garland](https://www.norrska.com/products/halloween-witches-garland-indoor-halloween-decoration-51-inches-garland): This overly entertaining Halloween witches garland consists of five witches and one haunted house. This product comes as DIY garland.
-  Updated: 2026-10-23T20:47:13Z
+  Updated: 2026-10-30T13:57:02Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
@@ -67,28 +67,28 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-christmas-decor-glass-house-model-christmas-village-51862170075482.jpg?v=1752687056
   Price: £90.00 GBP
 - [Halloween Witch Figurines, Witches' Sabbath](https://www.norrska.com/products/halloween-witch-figurines-witches-sabbath): These modern and stylish Halloween witches decors will be your favourite piece of Halloween decoration this year.
-  Updated: 2026-10-23T21:30:09Z
+  Updated: 2026-10-30T20:22:06Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-halloween-decorations-default-title-halloween-witch-decoration-halloween-party-decor-unique-witch-figurines-51862170435930.jpg?v=1752687051
   Price: £19.95 GBP
 - [Black Gothic Cathedral](https://www.norrska.com/products/gothic-halloween-cathedral-dark-and-spooky-decoration-1): Product dimensions: Max Height: 37cm // 10.6 InchesMax Length: 20.5cm // 8 InchesDepth: 30cm // 11.8 Inches The Gothic Cathedral Halloween decoration will add a truly gothic feel to your space and will amaze the audience with its fascinating details! The Gothic Halloween decor is inspired by Gothic cathedrals, and will be the apple of your eye among your Halloween decorations this year! It's truly gothic, dark and creepy! Made in the UK Designed by architects. Crafted with premium paper. Black trees and other decorations are not included in this product. Black trees sold separately. The Gothic cathedral is shipped disassembled and is very easy to install. Instructions are included in the product. Make sure you have a lot of fun while setting up the product. You can install the product with your children and share this excitement. You will need glue during the product's assembly. Solvent-based glues are recommended during the assembly.
-  Updated: 2026-10-20T15:30:33Z
+  Updated: 2026-10-25T15:37:25Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-halloween-decorations-default-title-gothic-halloween-cathedral-gothic-halloween-decoration-dark-and-spooky-decoration-51862171025754.jpg?v=1753959918
   Price: £52.50 GBP
 - [Ghosts and Cemetery Halloween Scene, Spooky Halloween Decor](https://www.norrska.com/products/ghosts-and-cemetery-halloween-decor-1): Approximate dimensions: Width: 55 cm ≈ 21.65″Height: 15 cm ≈ 5.91″ Get ready to bring unforgettable excitement to your Halloween party or home decor with our enchanting spooky ghosts and cemetery Halloween scene. Taking inspiration from the most majestic cemeteries worldwide, we have designed this spooky Halloween decor to immerse you in a truly spooky atmosphere! Made in the UK Designed by paper artists. Made with premium German papers. -The Halloween decoration set includes 7 unique ghosts, two cemetery sections with tombstones, and a small chapel. To set it up, you will need glue to secure the tombstones and assemble the chapel. However, the installation process is very simple, and the included instruction manual will guide you every step of the way. We design all of our products with great care and produce them specifically for each order in our small atelier in Salford, UK. The real human stories and history are our greatest sources of inspiration, and we integrate the trace of historical events into the design of all our products. We use premium quality papers with the hope that they will be used for many years, contributing to a sustainable future. We work with the best paper companies in the world to ensure this quality. Additionally, we personalise the papers ourselves to make them special for us. Therefore, the paper used in our products is specially produced for Norrska.
-  Updated: 2026-10-23T12:46:12Z
+  Updated: 2026-10-30T13:57:01Z
   Vendor: Norrska
   Product Type: Halloween Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-halloween-decorations-default-title-halloween-decoration-indoor-halloween-party-decoration-paper-ghosts-and-cemetery-51862171550042.jpg?v=1754691846
   Price: £32.00 GBP
 - [Nordic-Inspired Modern Wall Decoration, Scandi Wall Decor](https://www.norrska.com/products/modern-wall-decoration-scandi-home-decor): Enhance your space with Nordic wall decor! This Nordic-inspired modern paper village adds Scandi charm & minimalist style to any home. Easy to assemble & style!
-  Updated: 2026-10-21T19:41:35Z
+  Updated: 2026-10-25T15:37:25Z
   Vendor: Norrska
   Product Type: Nordic Decorations
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-tower-christmas-decor-christmas-village-paper-christmas-decoration-51862173057370.jpg?v=1752687036
   Price: £90.00 GBP
 - [White Paper Trees - White Forest](https://www.norrska.com/products/white-christmas-tree-decor-all-white-christmas-tree-decoration): These beautifully crafted white Christmas tree decor will bring joy and elegance to your decoration scene. You can use the all white Christmas tree decoration as a main decoration object or even enhance your Christmas village scene. They are made of premium quality Italian paper to ensure a long lifespan. See the dimensions below: Large tree: 16x11cm Medium tree: 11x8cm Small tree: 8x6cm - 8 Trees set includes; 1 Large, 3 Medium and 4 Small size trees. - 16 Trees set includes; 2 Large, 6 Medium and 8 Small size trees. - 24 Trees set includes; 3 Large, 9 Medium and 12 Small size trees. - 32 Trees set includes; 4 Large, 12 Medium and 16 Small size trees.
-  Updated: 2026-10-18T20:45:26Z
+  Updated: 2026-10-26T16:35:47Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
@@ -152,12 +152,12 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-set-01-set-02-all-white-christmas-village-51862175252826.jpg?v=1752687025
   Price: £300.00 GBP
 - [Paper Celestial Garland - Whimsigoth Vintage Accent](https://www.norrska.com/products/paper-celestial-garland): Discover celestial garland decor featuring whimsical sun and moon ornaments. Perfect for Christmas or year-round vintage charm.
-  Updated: 2026-10-21T03:03:47Z
+  Updated: 2026-10-30T20:50:57Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/norrska-christmas-decorations-default-title-paper-celestial-garland-52753685479770.webp?v=1772288359
-  Price: £15.50 GBP
+  Price: £17.50 GBP
 - [Contemporary Architecture Wall Art – Limited Edition](https://www.norrska.com/products/modern-architecture-wall-art): Explore unique handmade architectural wall art models, inspired by Nordic design. Perfect addition to elevate your space!
   Updated: 2026-10-14T21:48:39Z
   Vendor: Norrska
@@ -208,20 +208,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/paper_mache_sheep_ornament_3.jpg?v=1756158264
   Price: £8.50 GBP
-- [Paper Mache Cat Ornament](https://www.norrska.com/products/paper-mache-cat-ornament): Paper mache cat ornament, carefully shaped, layered, and painted by skilled artisans in Jaipur India. These delightful creations bring a touch of joy and playfulness to any space. *Each piece comes in a boxed packaging. Please note that the box may have some dents.*Due to the handmade nature, there may be slight variations in the final finish and appearance. Size: W 8 x D 2.5 x H 6 cm
-  Updated: 2026-10-14T21:48:40Z
-  Vendor: Fog Linen Work
-  Product Type: Christmas Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/hanging_cat_ornament_2.jpg?v=1756157562
-  Price: £8.50 GBP
 - [Summer Paper Chain, 10 ft long, 3 meters](https://www.norrska.com/products/summer-paper-chain): Celebrate summer with this beautiful paper chain featuring summer breeze colours. Made from textured paper in yellow, orange, and turquoise, it will instantly brighten any corner of your home, making your space stand out! This paper chain is also perfect for party decor, creating eye-catching displays. Very simple to assemble: no glue required. Just connect the links using a pop-and-slot system, and you can take it apart whenever you wish. Contains 57 paper chains: 19 of each colour in this pack. Approx 3m/10ft long. Stylish packaging: The product comes in an attractively designed envelope, making it a proud gift! Made in England: Crafted in our Manchester atelier using high-quality textured art papers for top quality. Disclaimer: This product is not a toy and is intended for decoration only.
-  Updated: 2026-10-14T21:48:40Z
+  Updated: 2026-10-29T17:11:24Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/3af622e5-il_fullxfull.7074448107_na2c.jpg?v=1769615957
-  Price: £16.00 GBP
+  Price: £17.50 GBP
 - [Colorful Nordic Village](https://www.norrska.com/products/scandi-home-decor-colorful-nordic-village): A new colorful Nordic village is a must-have for joyful Scandinavian home decor. Crafted with tailored embossed premium British-made papers, it guarantees top quality. We are proud pioneers in paper craft decorations, now introducing a cheerful, Scandinavian-inspired Nordic village in vibrant new colours. Perfect for decorating any space and spreading happiness everywhere. Dimensions(L×H×D):House1: 12×22×7cm / 4.72×8.66×2.76inHouse2: 12×17.5×7cm / 4.72×6.89×2.76inHouse3: 11×17×7cm / 4.33×6.69×2.76inHouse4: 9×28×7cm / 3.54×11.02×2.76in The Nordic village arrives disassembled and is very easy to set up. An instruction guide will be included. Like all Norrska products, this Scandinavian decor comes in thoughtfully designed packaging, making it an excellent gift and a delightful experience. Made in England: This unique product is designed and made by us in our Manchester workshop using specially made papers. Disclaimer: This product is not a toy; it is for decoration only.
   Updated: 2026-10-18T20:45:30Z
   Vendor: Norrska
@@ -230,19 +223,19 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/1be9b587-il_fullxfull.7026602564_ltuq.jpg?v=1752710019
   Price: £150.00 GBP
 - [Christmas Paper Chain, 10 ft long, 3 meters](https://www.norrska.com/products/christmas-paper-chain): Celebrate Christmas with this beautiful paper chain featuring red and green colors. Made from textured paper in poppy red, apple green, and pine green, it will instantly brighten any corner of your home, making your space stand out! This paper chain is also perfect for Christmas party decor, creating eye-catching displays. Very simple to assemble: no glue required. Just connect the links using a pop-and-slot system, and you can take it apart whenever you wish. Contains 57 paper chains: 19 of each colour in this pack. Approx 3m/10ft long. Stylish packaging: The product comes in an attractively designed envelope, making it a proud gift! Made in England: Crafted in our Manchester atelier using high-quality textured art papers for top quality. Disclaimer: This product is not a toy and is intended for decoration only.
-  Updated: 2026-10-18T20:45:31Z
+  Updated: 2026-10-30T16:06:47Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/c6b9d45b-il_fullxfull.7026546126_npay.jpg?v=1762126282
-  Price: £16.00 GBP
+  Price: £17.50 GBP
 - [Pink and Blue Paper Chain, 10 ft long, 3 meters](https://www.norrska.com/products/pink-and-blue-paper-chain): Celebrate summer with this beautiful paper chain featuring pink and blue colors. Made from textured paper in turquoise, pink, and purple, it will instantly brighten any corner of your home, making your space stand out! This paper chain is also perfect for party decor, creating eye-catching displays. Very simple to assemble: no glue required. Just connect the links using a pop-and-slot system, and you can take it apart whenever you wish. Contains 57 paper chains: 19 of each colour in this pack. Approx 3m/10ft long. Stylish packaging: The product comes in an attractively designed envelope, making it a proud gift! Made in England: Crafted in our Manchester atelier using high-quality textured art papers for top quality. Disclaimer: This product is not a toy and is intended for decoration only.
-  Updated: 2026-10-18T20:45:36Z
+  Updated: 2026-10-29T17:11:24Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/81d3e0ef-il_fullxfull.7074490259_6yhh.jpg?v=1769615904
-  Price: £16.00 GBP
+  Price: £17.50 GBP
 - [PULL BOX COMPACT: Pink](https://www.norrska.com/products/pull-box-compact-pink): Dimensions: W105 × H240 × D345 (mm) Create a work environment that suits you. A file box that can be organised by colour A file box that blends in with your home or office interior.Demand is rapidly increasing due to the spread of telework, and this item is often introduced in magazines and other media. Unlike office furniture or inorganic resin file boxes, it blends easily with different materials, and the beautiful colours unique to paper can help you create an environment that suits you. They can be used for a long time and can be recycled Uses a reinforced micro flute. This is a sustainable file box that can be used for many years and is also recyclable. These storage items can be used both vertically and horizontally, and look beautiful whether you arrange them in different colours or in the same colour.
   Updated: 2026-10-14T21:48:41Z
   Vendor: Norrska
@@ -293,12 +286,12 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/earthy-brown-pedestal-bowl.jpg?v=1769615747
   Price: £35.00 GBP
 - [Earthy Tones Paper Chain Garland, 10 ft long, 3 meters](https://www.norrska.com/products/earthy-tones-paper-chain-garland-autumn-56276): Decorate your home with this stunning earthy tones paper chain garland in bordeaux, autumn yellow, and tangerine. Made from textured paper, it adds a cosy touch to any corner, making your space stand out! Perfect for any occasion, especially if earthy tones dominate your home decor, and it can become a permanent fixture in your home. -Easy setup: No glue needed- just connect the links with a click-and-slot mechanism, and disassemble whenever you like. - Contains 57 paper links: 19 of each colour. - Approximate length: 3 meters (118 inches). -Beautiful packaging: Comes in an attractive envelope, making it a great gift! -Made in England: Crafted in our Manchester studio with high-quality textured art papers for superior quality. Disclaimer: This product is not a toy and is intended for decorative use only.
-  Updated: 2026-10-14T21:48:43Z
+  Updated: 2026-10-29T17:11:24Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7070243760_3n6w.jpg?v=1753999611
-  Price: £16.00 GBP
+  Price: £17.50 GBP
 - [Modern Architecture Paper Model Set | Earthy](https://www.norrska.com/products/earthy-tones-nordic-village-modern-38838): Modern Architecture Paper Models | Set of Four Inspired by the quiet charm of Nordic village architecture, this set brings together warmth, simplicity, and sculptural form. Designed for contemporary interiors, it introduces a natural, earthy palette that softens a space while adding depth and character. Each piece is crafted from premium paper, selected for its strength, texture, and longevity. As pioneers in architectural paper art, we reinterpret Scandinavian village forms through a refined design lens—balancing minimal structure with seasonal tones that evoke a sense of calm and atmosphere. The papers used are derived from natural ingredients such as hops, malt, and pulp, reflecting our commitment to thoughtful material sourcing and sustainable production. Delivered flat-packed, each model is designed for intuitive assembly and includes a clear instruction guide, allowing the form to slowly reveal itself as part of the experience. Dimensions (L × H × D):House 1: 12 × 22 × 7 cm (4.72 × 8.66 × 2.76 in)House 2: 12 × 17.5 × 7 cm (4.72 × 6.89 × 2.76 in)House 3: 11 × 17 × 7 cm (4.33 × 6.69 × 2.76 in)House 4: 9 × 28 × 7 cm (3.54 × 11.02 × 2.76 in) Like all Norrska pieces, the set is presented in carefully considered packaging, designed to extend the experience beyond the object itself—making it suitable for gifting or collecting. Designed by our small architectural team and handcrafted in our Manchester studio, each piece reflects our ongoing exploration of paper as a contemporary architectural material. Please note: This product is intended for decorative use only and is not suitable as a toy.
   Updated: 2026-10-14T21:48:44Z
   Vendor: Norrska
@@ -376,13 +369,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7158759646_i9jn.jpg?v=1756821434
   Price: £10.00 GBP
-- [Hand Stamped Tree Patterned Gift Tags: Pack of Six, Christmas](https://www.norrska.com/products/hand-stamped-tree-patterned-gift-tags-90382): Each tree patterned gift tag is hand stamped, making each one unique! They add a special touch to your gift wrapping. Crafted from premium textured cardstock, these tags showcase high quality. This pack includes: - 6 tree stamped gift tags Each tag is: 7.4 cm x 10.5 cm - 2.91 x 4.13 inches
-  Updated: 2026-10-18T20:45:41Z
-  Vendor: Norrska
-  Product Type: Christmas Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7158740366_16g2.jpg?v=1756821476
-  Price: £8.00 GBP
 - [Hand Stamped Berry Gift Tags: Pack of Six, Christmas Gifting](https://www.norrska.com/products/hand-stamped-berry-gift-tags-pack-of-89180): Each berry patterned gift tag is hand stamped, making each one unique! They add a special touch to your gift wrapping. Crafted from premium textured cardstock, these tags showcase high quality. This pack includes: - 6 berry stamped gift tags Each tag is: 7.4 cm x 10.5 cm - 2.91 x 4.13 inches
   Updated: 2026-10-14T21:48:47Z
   Vendor: Norrska
@@ -452,12 +438,12 @@
     Availability: Available
     Price: £37.40 GBP
 - [Winter Christmas Scene, Christmas Village Holiday Decor](https://www.norrska.com/products/winter-christmas-scene-christmas-village-92345): Bring Holiday Magic to Your Home Add charm to your holiday decor with this enchanting winter Christmas scene. Designed with delightful details, it features children playing in the snow, a crescent moon surrounded by clouds, and a cozy Christmas village. This whimsical decoration is sure to become one of your favorite holiday accents year after year. Set Includes 4 Pieces: Clouds and mountain scene Crescent moon Christmas tree on a car Christmas village scene Dimensions (W x H): Christmas village scene: 68 × 15 cm (26.8" × 5.9") Crescent: 8 cm diameter (3.1") Clouds and mountain scene: 41 × 9 cm (16.1" × 3.5") Christmas tree on car: 13 × 7 cm (5.1" × 2.8") Please Note: Due to paper availability, the texture may vary between laid or grained finishes.
-  Updated: 2026-10-23T01:36:47Z
+  Updated: 2026-10-30T16:06:47Z
   Vendor: Norrska
   Product Type: Christmas Decorations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/il_fullxfull.7284755557_3dxj.jpg?v=1761680132
-  Price: £25.00 GBP
+  Price: £29.50 GBP
 - [Bag of 12 floating large pebble candles, Melon White](https://www.norrska.com/products/bag-of-12-floating-pebble-candles-melon-white): 5 x 2,5 cm Unique qualities of the Vance Kitira candles- Asthma and Allergy friendly candles-  clean candles - tested at SGS laboratory- Average sooting procent as low as 0,01%- Exceptionel long burn hours- Odorless and smokeless- Premium food grade paraffin - REACH - Hand poured- Through colored- Fine dyes from Germany- 100 % US cotton wicks from US- self-extingushing Vance Kitira Floating Candles – Handcrafted Elegance for Your Table SettingCreate a cozy and elegant atmosphere with beautiful floating candles from Vance Kitira. These candles are hand-poured using  food-grade paraffin, ensuring a clean and clear burn. The floating candles are designed to look like small pebbles – hence the name "pebbles." They float gracefully on water, spreading a warm, soft light – perfect for intimate moments and festive occasions. Decorate the water with flowers or other decorative items to create a truly beautiful experience, from romantic dinners to larger events. Features:• Handcrafted Quality: Each candle is carefully poured to ensure a consistent and beautiful finish.• Safe and Clean Burning: Made from  food-grade paraffin, burning cleanly without soot.• Versatile Use: Ideal for decoration in bowls, glasses, or water basins. Combine with flowers, stones, or other items for a personal and unique decoration. The candles can also be used standing on a flat surface or as an alternative to tealights in a glass without water. Delivered in Charming Gift Bags:The floating candles are delivered in beautiful, rustic bags with 12 candles, making them perfect as a gift or a decorative addition to your home. You can choose from 3 color variants: Melon White, Champagne/Taupe, and Sage/Ocean Mist.Are you aware that candles made from paraffin are cleaner than candles made from pure stearin?Vance Kitira Timber® Candles are poured from ‘premium food grade’ paraffin and produced with 100% cotton wicks. This is paraffin  for use in the food industry, fully refined and the cleanest paraffin on the market. A pure and clear paraffin which is completely cleansed for impurities and used in foods like cheese, chocolate and cake etc. The result is a incredible beautiful candle, with a unique warm glow.
   Updated: 2026-10-14T21:48:50Z
   Vendor: Norrska
@@ -904,7 +890,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/DSC05470_copy_low.jpg?v=1775929669
   Price: £50.00 GBP
 - [The Chatterbox, Limited Edition Linocut Print, 5x7in](https://www.norrska.com/products/the-chatterbox-limited-edition-linocut-print-5x7in): The Chatterbox She never stops talking—honestly! Once she gets going, she'll spin yarn after yarn, and, truth be told, she seems to know absolutely everything. She's the heart and soul of the neighbourhood, and you simply haven't got the heart to quieten her down. Besides, keeping up with her means you'll always be in the loop about everything happening on the street! Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. Half of the composition is printed on paper, while the laundry section is printed directly onto the mountboard, creating a distinctive layered effect. A hand-cut figure is carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 5 × 7 in / 12.7 × 17.8 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-10-14T21:49:02Z
+  Updated: 2026-10-27T01:07:26Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -925,7 +911,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/iipanaro-edt1-low-02.jpg?v=1784234664
   Price: £125.00 GBP
 - [II Panaro - 2, Limited Edition Linocut Print, 10x12in](https://www.norrska.com/products/ii-panaro-2-limited-edition-linocut-print-10x12in): Il Panaro - 02 Named after the collection itself, ’O Panaro captures one of the most endearing rituals of Mediterranean street life. From a sun-drenched window, a wicker basket is gently lowered on a string—a simple, timeless way to gather the day's necessities without ever stepping outside. It is more than just a practical habit; it is a beautiful dance between the balcony and the cobblestones, and a heartwarming reminder of the slow, connected rhythms of daily life. Behind the Craft This limited-edition print has been designed with the mountboard as an integral part of the artwork. A hand-cut figure and a wicker basket are carefully added to each print, bringing the scene to life and adding depth to the composition. This final detail transforms the artwork into a small visual story, inviting the viewer to imagine the everyday moments unfolding within the scene. Each print is signed by the artist and presented in a beautifully packaged box. Limited edition of 50 Print size: 10 × 12 in / 25.4 × 30.48 cm Frame: Off-white wooden frame included The frame is manufactured in the UK by our trusted partners. If you would prefer an alternative frame, please get in touch and we'll be happy to discuss the available options. 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-10-22T00:12:07Z
+  Updated: 2026-10-27T01:07:21Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -938,6 +924,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/the_morning_crust-low-03.jpg?v=1784235663
   Price: £135.00 GBP
+- [A Lovely Day - Limited Edition Paper Art](https://www.norrska.com/products/a-lovely-day-limited-edition-paper-art): A Lovely Day A beautiful day always begins with the rich aroma of fresh coffee, but it is made infinitely sweeter when shared with good friends and lively conversation. Inspired by the vibrant energy of Neapolitan streets, this artwork captures a charming slice of Mediterranean life. It invites you into a sun-drenched daily scene where people pause to savor the moment and enjoy the company of those they love. Behind the Craft This distinctive piece showcases Norrska’s signature expertise in transforming paper into intimate, storytelling dimensions of daily life. Every element is crafted using a blend of premium watercolor papers and exclusive custom-made sheets. The creation process is an exercise in patience and precision: Meticulous Hand-Assembly: Each scene is built layer by layer in a slow, intricate process. Hand-Cut Figures: Every human silhouette and architectural detail is individually cut and finished by hand. Architectural Depth: Bridging the gap between fine art and architectural modeling, this piece beautifully highlights the subtle, often unnoticed moments that make everyday life extraordinary. Display & Durability: To ensure lasting durability and structural integrity, the delicate paper layers are reinforced with a sturdy cardboard backing. The artwork is fully prepared for display and can be easily hung on your wall using nails or standard picture frames/hangers. Specifications Dimensions(Length x Height x Depth): 13.4 x 9.5 x2 in / 34 x 24 x 5 cm Edition: Limited Edition of 20 Authentication: Hand-signed by the artist 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
+  Updated: 2026-10-24T17:53:55Z
+  Vendor: Norrska
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/alovelyday-low-01.jpg?v=1784237455
+  Price: £390.00 GBP
 - [Balcony Whispers - Limited Edition Paper Art](https://www.norrska.com/products/balcony-whispers-limited-edition-paper-art): Balcony Whispers There’s a rumour sweeping through the streets... and those helping it along have absolutely no intention of keeping a low profile. There’s definitely something in the air, drifting from balcony to balcony... Architectural Inspiration This artwork serves as a love letter to classic Italian design, drawing rich inspiration from traditional Neapolitan architecture. Elegant neo-classical ornamentation and beautifully detailed classical shutters frame the unfolding story, bringing historic European charm to life. Behind the Craft This distinctive piece showcases Norrska’s signature expertise in transforming paper into intimate, storytelling dimensions of daily life. Every element is crafted using a blend of premium watercolor papers and exclusive custom-made sheets. The creation process is an exercise in patience and precision: Meticulous Hand-Assembly: Each scene is built layer by layer in a slow, intricate process. Hand-Cut Figures: Every human silhouette and architectural detail is individually cut and finished by hand. Architectural Depth: Bridging the gap between fine art and architectural modeling, this piece beautifully highlights the subtle, often unnoticed moments that make everyday life extraordinary. Display & Durability: To ensure lasting durability and structural integrity, the delicate paper layers are reinforced with a sturdy cardboard backing. The artwork is fully prepared for display and can be easily hung on your wall using nails or standard picture frames/hangers. Specifications Dimensions(Length x Height x Depth): 5.9 x 15.7 x 1.6 in / 15 x 40 x 4 cm Edition: Limited Edition of 20 Authentication: Hand-signed by the artist 'O Panaro Collection O’ Panaro is a Mediterranean way of collecting groceries by lowering a basket from the window. Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
   Updated: 2026-10-18T20:45:45Z
   Vendor: Norrska
@@ -1016,7 +1009,7 @@
   Image: https://cdn.shopify.com/s/files/1/0935/6561/6474/files/orange1low.jpg?v=1791387871
   Price: £270.00 GBP
 - [Circus in the Sky | Mantel Clock](https://www.norrska.com/products/circus-in-the-sky-mantel-clock): Circus in the Sky High above the clouds, somewhere between distant planets, a circus comes to life. The latest addition to our Celestial Wonders collection, Circus in the Sky imagines acrobats performing among the stars. Illuminated from within, the clock becomes a miniature theatre, where shimmering surfaces catch the light and suspended figures appear to defy gravity. At its heart is a skeleton quartz movement, its exposed clockwork bringing the familiar rhythm of a ticking clock into this otherworldly scene. Drawing on the character of traditional mechanical clocks, the design combines contemporary architectural forms with the nostalgic charm of circus illustration. An object to enjoy by day and illuminate after dark, it brings a little wonder to the passing hours. Technical Specifications Clock movement: Powered by an AAA battery Lighting: USB rechargeable Maximum height: Approximately 44 cm / 17.3 inches Base: 10 × 10 cm / 3.9 x 3.9 inches Behind the Craft Crafted from some of the world’s most extraordinary papers, Circus in the Sky reveals its character through shimmering textures, reflective surfaces and the changing light. We combine these exceptional papers with board and wood, using our own mixed-material techniques developed through years of working with paper and understanding its nature. Each piece is carefully constructed to achieve heirloom quality: made to last a lifetime, to be treasured and passed down. Hand-cut acrobat illustrations bring character and playful movement to this miniature theatre. Made to order in very limited quantities, each clock reflects the care, patience and imagination behind its creation.
-  Updated: 2026-10-24T00:00:51Z
+  Updated: 2026-10-24T11:18:54Z
   Vendor: Norrska
   Product Type: 
   Availability: Available
@@ -1027,49 +1020,49 @@
 ## Collections
 
 - [Christmas Decorations](https://www.norrska.com/collections/christmas-decorations): Create the perfect holiday atmosphere with modern, unique Christmas decorations from Norrska. Our collection helps you easily bring warmth and style to your home, making this season unforgettable. Let us help you design a space that feels just right for you.
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-30T18:09:33Z
   Total Products: 78
 - [Halloween Decorations](https://www.norrska.com/collections/halloween-decorations): Set the mood for a spooky season with Norrska’s unique Halloween decorations. Our collection makes it easy to transform your space into a haunted haven, blending style with fun. Let us help you create the perfect atmosphere for a memorable Halloween.
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-30T18:09:33Z
   Total Products: 13
 - [Nordic Collection](https://www.norrska.com/collections/nordic-decorations): Transform your home with timeless style using Norrska’s Nordic decorations. Our collection brings simplicity, elegance, and warmth to your space, helping you create a cozy, modern atmosphere. Let us help you design a home that feels both inviting and unique.
-  Updated: 2026-10-18T11:22:08Z
+  Updated: 2026-10-26T11:36:19Z
   Total Products: 12
 - [Best Sellers](https://www.norrska.com/collections/best-sellers): Shop our best-sellers: unique, handmade decor loved by our customers. Thoughtfully designed, beautifully crafted.
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-30T18:09:33Z
   Total Products: 57
 - [](https://www.norrska.com/collections/)
-  Updated: 2026-10-21T11:26:11Z
+  Updated: 2026-10-28T11:24:39Z
   Total Products: 2
 - [Homeware](https://www.norrska.com/collections/homeware): Enhance your everyday spaces with simplicity and purpose. Our Homeware collection includes thoughtfully crafted paper trays, boxes, and organizers designed for modern, minimalist living. Each piece combines refined aesthetics with functional design, crafted from high-quality materials that are both lightweight and durable, and sustainably produced.
-  Updated: 2026-10-18T11:22:08Z
+  Updated: 2026-10-29T17:11:25Z
   Total Products: 44
 - [Organisers & Storage Boxes](https://www.norrska.com/collections/organisers-storage-boxes): Keep your space tidy with our eco-friendly Organisers and Storage Boxes, crafted from durable, recyclable paper materials. Designed with a minimalist Nordic aesthetic, these stylish storage solutions are perfect for desks, shelves, and drawers in both home and office settings. Whether you're sorting stationery, documents, or small household items, our paper-based organisers combine form and function for clutter-free living. Made in England using sustainable practices, they're the ideal choice for conscious, modern living.
   Updated: 2026-10-14T21:48:34Z
   Total Products: 12
 - [Christmas Trees](https://www.norrska.com/collections/christmas-trees): Tabletop Christmas Tree Decorations: Festive Flair for Any Space Transform your home into a winter wonderland with our delightful collection of tabletop Christmas tree decorations. Perfect for adding festive cheer to smaller spaces, offices, dorm rooms, or as an extra touch of holiday magic in any room, these charming ornaments are designed to adorn your miniature tree with style.
-  Updated: 2026-10-19T11:26:11Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 15
 - [Christmas Villages](https://www.norrska.com/collections/christmas-villages): Crafting the World's Most Fascinating and Magical Christmas Villages Step into a world of enchanting holiday wonder with Norrska, where architectural precision meets festive imagination. Renowned for their exquisite handcrafted paper creations, Norrska brings a unique blend of Nordic design and global inspiration to your Christmas celebrations, creating decorations that are truly fascinating and magical.
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-26T12:57:25Z
   Total Products: 29
 - [Christmas Ornaments](https://www.norrska.com/collections/christmas-ornaments): Bring a touch of artisanal charm and unique character to your holiday display with our exquisite paper mache ornaments. Our paper mache ornaments are more than just baubles; they are miniature works of art that add warmth and personality to any Christmas tree, garland, or festive arrangement. Eco-friendly and beautifully tactile, these ornaments are a testament to the beauty of handmade craftsmanship, promising to become cherished heirlooms for years to come.
-  Updated: 2026-10-21T11:26:11Z
+  Updated: 2026-10-30T18:09:33Z
   Total Products: 22
 - [Vases & Bowls](https://www.norrska.com/collections/vases-bowls): Vases & Bowls: Elevate Your Every Day Curated by architects to elevate your space, with carefully chosen sustainable materials and craftsmanship. Explore our beautiful selection of vases and bowls, ideal for completing any room. Whether as elegant centrepieces or charming decorative accents, discover the perfect piece to display your favourite flowers or stand alone as a style statement. Find unique textures, colours, and shapes crafted to suit every interior.
   Updated: 2026-10-14T21:48:34Z
   Total Products: 18
 - [Paper Chains](https://www.norrska.com/collections/paper-chains): Paper chain garlands are sustainable, endlessly versatile and perfect for wrapping trees, draping mantels, or brightening kids’ rooms with festive cheer.
-  Updated: 2026-10-16T23:30:50Z
+  Updated: 2026-10-29T17:11:25Z
   Total Products: 5
 - [Gift Packs](https://www.norrska.com/collections/gift-packs)
   Updated: 2026-10-14T21:48:35Z
   Total Products: 1
 - [New Arrivals](https://www.norrska.com/collections/new-arrivals)
-  Updated: 2026-10-15T11:25:45Z
+  Updated: 2026-10-29T17:11:25Z
   Total Products: 68
 - [Halloween / Autumn 2025](https://www.norrska.com/collections/halloween-autumn-2025): Celebrate the magic of the season with our Halloween & Autumn 2025 Collection! From spooky décor to cosy fall accents, each piece brings charm, warmth, and festive fun to your home
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-30T11:26:41Z
   Total Products: 21
 - [Greeting Cards](https://www.norrska.com/collections/christmas-cards-stationery)
   Updated: 2026-10-18T22:06:41Z
@@ -1078,25 +1071,25 @@
   Updated: 2026-10-18T11:22:08Z
   Total Products: 6
 - [Recommended Products](https://www.norrska.com/collections/recommended-products)
-  Updated: 2026-10-18T22:06:41Z
+  Updated: 2026-10-29T17:11:25Z
   Total Products: 4
 - [White Wonderland](https://www.norrska.com/collections/white-wonderland): Experience the breathtaking white elegance of Norrska's all-white Christmas collection. This exquisite lineup allows you to craft a stunningly pure white Christmas scene, featuring architect-designed Christmas villages that bring a touch of sophistication to your decor. Each village is meticulously crafted to showcase intricate details, creating a picturesque winter wonderland. Complement your display with our specially curated Christmas collection to enhance the serene beauty of a white holiday ambience.
-  Updated: 2026-10-23T11:24:16Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 22
 - [Red Christmas](https://www.norrska.com/collections/red-christmas): Explore our enchanting collection of cherry red Christmas villages that beautifully blend timeless tradition with contemporary design. Inspired by the classic essence of a red Christmas, each piece captures the warm, nostalgic spirit of the holiday season while incorporating modern aesthetics and craftsmanship. If you cherish the charm of traditional red decorations, this curated collection is perfect for you, offering a vibrant and festive twist to your holiday decor. Embrace the joy of the season with these stunning pieces that evoke cherished memories and bring a touch of elegance to your Christmas celebrations.
   Updated: 2026-10-19T11:26:11Z
   Total Products: 21
 - [Holly Jolly](https://www.norrska.com/collections/holly-jolly): Experience a Holly Jolly Christmas like never before! This specially curated collection is designed for those seeking the ultimate festive spirit. Packed with vibrant and playful items that evoke joy and inspiration, it captures the essence of youth and enthusiasm. Expect a delightful mix of quirky decorations, cheerful gifts, and uplifting holiday décor that will add a fun twist to your celebrations! Embrace the magic of the season with everything you need to create unforgettable holiday memories.
-  Updated: 2026-10-21T11:26:11Z
+  Updated: 2026-10-30T18:09:33Z
   Total Products: 28
 - [Nordic Grey](https://www.norrska.com/collections/nordic-grey): Discover Norrska's enchanting classic Nordic Grey Christmas villages, where the beauty of winter comes to life. Each village showcases a harmonious blend of elegant white structures and soft grey accents, creating a tranquil and balanced aesthetic that captures the essence of Nordic design. As you wander through these charming landscapes, you'll be mesmerized by the intricate details of the architecture, the twinkling lights adorning the rooftops, and the gentle contrast between the pure snow and the muted tones of the buildings. Experience the magic of the season as you immerse yourself in this picturesque retreat, perfect for celebrating the festivities in style.
-  Updated: 2026-10-19T11:26:11Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 37
 - [Stationery](https://www.norrska.com/collections/stationery): Stationery items, notebooks, travel journals and cards.
   Updated: 2026-10-18T22:06:41Z
   Total Products: 31
 - [Winter 2025](https://www.norrska.com/collections/winter-2025)
-  Updated: 2026-10-18T11:22:08Z
+  Updated: 2026-10-26T11:36:19Z
   Total Products: 17
 - [Wall Decor](https://www.norrska.com/collections/wall-decor)
   Updated: 2026-10-14T21:48:35Z
@@ -1108,31 +1101,31 @@
   Updated: 2026-10-18T22:06:41Z
   Total Products: 33
 - [Handmade Collectibles](https://www.norrska.com/collections/handmade-collectibles): Discover Norrska's Handcrafted Limited Edition Collection Each piece in this collection represents the culmination of Norrska's mastery in paper craft and mixed-medium artistry — a rare fusion of technical precision and creative vision honed over years of dedicated practice. Every work is hand-signed by the artist and individually numbered, marking its place within a strictly limited production run. This is more than a signature of authenticity; it's a guarantee of exclusivity. Once the edition sells out, it will never be reproduced. Owning a piece from this collection means owning a fragment of artistic heritage: an original, tangible work created by hand, not mass-produced. As with any limited edition from an established artist, these pieces carry the potential to appreciate in value over time, making them as much an  as they are a statement of taste. For collectors and connoisseurs alike, this is an opportunity to acquire something genuinely rare, a piece that tells a story, carries a signature, and holds its place in a finite, numbered legacy.
-  Updated: 2026-10-22T11:24:55Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 14
 - [The Bloom Series](https://www.norrska.com/collections/spring-summer-2026): The Bloom Series features a botanical twist, ranging from wildflower patterns to heritage spring floral designs, alongside our signature architect-designed models. Crafted from premium watercolour paper, each house boasts delicate, floral-patterned roofs and our innovative no-glue assembly.
   Updated: 2026-10-14T21:48:35Z
   Total Products: 14
 - [Kids Room](https://www.norrska.com/collections/kids-room): Discover Norrska’s Kids Room Collection. Each piece is thoughtfully curated to inspire little dreamers and spark their imagination. Inspired by timeless tales, the collection brings colour, joy, and a touch of magic into their world.
-  Updated: 2026-10-15T11:25:45Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 8
 - [Architect's Sketchbook](https://www.norrska.com/collections/architects-sketchbook)
   Updated: 2026-10-14T21:48:36Z
   Total Products: 8
 - [Latest Designs](https://www.norrska.com/collections/latest-designs): Fresh from our studio - discover Norrska's newest architect-designed paper decorations. Each piece is handcrafted in England using premium sustainable materials, bringing contemporary Nordic charm to your home.
-  Updated: 2026-10-23T23:53:48Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 38
 - [Architectural Forms](https://www.norrska.com/collections/architectural-forms): Designed by architects and crafted from the world's finest and most innovative papers, Norrska's collection offers a unique tactile experience unlike any other material. Discover a world where timeless craftsmanship, sustainability, and contemporary design come together.
-  Updated: 2026-10-22T11:24:55Z
-  Total Products: 28
+  Updated: 2026-10-27T11:28:39Z
+  Total Products: 29
 - ['O Panaro](https://www.norrska.com/collections/o-panaro): Inspired by Neapolitan architecture, from the neighbourhoods of the Quartieri Spagnoli to the Centro Storico, where the culture of 'o panaro is a huge part of daily life. While no one knows exactly where the tradition started, it's thought to have roots in Roman times as a clever solution to multi-story apartment living. Put simply, by lowering a wicker basket on a rope from your balcony, you can grab your groceries or daily essentials without ever stepping foot outside. It’s incredibly practical, especially for the elderly or anyone with limited mobility.The 'o panaro (Neapolitan for a wicker basket) isn’t just found in Naples, though. You can spot this exact same basket lowering custom right across the Mediterranean—from Italy and Malta to Greece, Turkey, and all the way over to Egypt, especially in Cairo.
-  Updated: 2026-10-22T11:24:55Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 9
 - [The Aqueduct](https://www.norrska.com/collections/the-aqueduct): The Aqueduct Vase Series Inspired by Roman architecture, this new vase collection is designed to elevate dry flowers in an upright, sculptural form. Crafted from a blend of wood and natural pulp, each piece carries a subtle, beautiful wood fragrance that gently fills the room with a fresh, calming scent.
   Updated: 2026-10-14T21:48:36Z
   Total Products: 4
 - [Architecture Collection](https://www.norrska.com/collections/architecture-collection)
-  Updated: 2026-10-23T23:53:48Z
+  Updated: 2026-10-27T11:28:39Z
   Total Products: 48
 - [New York, New York](https://www.norrska.com/collections/new-york-new-york-1): Inspired by New York’s iconic skyline after dark, the New York Lanterns are available in two distinct colourways, each capturing a different side of the city. Rooftop is built around deep navy and darker tones, with subtly shimmering papers that reflect the atmosphere of the city at night. Jazz Club takes a warmer direction, combining rich oranges and greens to evoke the intimate, inviting mood of New York’s jazz clubs and their late-night melodies. Two palettes, two different characters of New York.
   Updated: 2026-10-14T21:48:36Z
@@ -1196,9 +1189,9 @@ The post Spell...</p>
 - [Privacy Policy](https://www.norrska.com/policies/privacy-policy)
   Updated: 2025-07-24T17:21:51Z
 - [Shipping Policy](https://www.norrska.com/policies/shipping-policy)
-  Updated: 2026-10-22T23:50:54Z
+  Updated: 2026-10-24T16:05:59Z
 - [Refund Policy](https://www.norrska.com/policies/refund-policy)
-  Updated: 2026-06-09T18:34:37Z
+  Updated: 2026-10-28T01:56:20Z
 - [Terms of Service](https://www.norrska.com/policies/terms-of-service)
   Updated: 2025-03-02T22:17:34Z
 - [Contact Information](https://www.norrska.com/policies/contact-information)
