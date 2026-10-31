@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-12-04T08:40:28Z
 - Contact Email: info@yourcustomkeyboard.com
-- Updated At: 2026-10-23T00:58:39.462Z
+- Updated At: 2026-10-31T00:18:42.868Z
 
 ## Products
 
@@ -142,8 +142,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/FullSizeRender.jpg?v=1790101263
   Price: € 40,00 EUR
-- [gold black marble keyboard set](https://yourcustomkeyboard.com/products/gold-black-marble-keyboard-set): Een compact 65%-toetsenbord met keycaps in zwart marmer met gouden adering. Elke toets ziet er net iets anders uit, dus je bureau krijgt een luxe, eigenzinnige look. De GMK67 heeft 67 toetsen en losse pijltjestoetsen. Je houdt dus de belangrijkste toetsen en hebt toch meer ruimte voor je muis.
-  Updated: 2026-10-01T06:31:48Z
+- [Gold Black Marble Keyboard Set – 65% Compact GMK67 Bundel](https://yourcustomkeyboard.com/products/gold-black-marble-keyboard-set): Ontdek de Gold Black Marble Keyboard Set van Your Custom Keyboard. Luxe 65%-toetsenbord met goudaderring en unieke keycaps; 67 toetsen, losse pijltjestoetsen, compacte bureau-ruimte en stijlvolle, eigenzinnige look.
+  Updated: 2026-10-26T16:00:56Z
   Vendor: your custom keyboard
   Product Type: Bundel
   Availability: Available
@@ -173,8 +173,8 @@
   Updated: 2026-09-30T18:31:46Z
   Total Products: 11
 - [Kant-en-klare Builds](https://yourcustomkeyboard.com/collections/kant-en-klare-builds): Geen zin om zelf switches en keycaps uit te zoeken? Kies een van onze kant-en-klare builds — wij hebben de beste combinatie al voor je samengesteld en gebouwd. - Your custom keyboard
-  Updated: 2026-09-30T18:31:46Z
-  Total Products: 10
+  Updated: 2026-10-26T16:07:26Z
+  Total Products: 2
 
 ## Blogs
 
@@ -358,6 +358,18 @@
     Updated: 2026-10-23T00:06:37Z
     Author: your custom keyboard
     Tags: aangepaste gaming toetsenborden, custom keyboard, games, gaming, gaming precisie verbeteren, gaming setup, mechanisch toetsenbord, precisie, toetsenbord instellen, toetsenborden
+  - [Een complete gaming setup met onmisbare custom keyboards](https://yourcustomkeyboard.com/blogs/nieuws/een-complete-gaming-setup-met-onmisbare-custom-keyboards): Een complete gaming setup met onmisbare custom keyboards
+    Updated: 2026-10-24T00:29:24Z
+    Author: your custom keyboard
+    Tags: beste toetsenborden voor gamers, custom, custom keyboard, games, gaming, gaming accessoires, gaming setup, mechanisch toetsenbord, mechanische toetsenborden, optimale gaming set-up, toetsenbord
+  - [Mechanisch toetsenbord: Maximale prestaties voor serieuze gamers](https://yourcustomkeyboard.com/blogs/nieuws/mechanisch-toetsenbord-maximale-prestaties-voor-serieuze-gamers): Mechanisch toetsenbord: Maximale prestaties voor serieuze gamers
+    Updated: 2026-10-28T00:04:07Z
+    Author: your custom keyboard
+    Tags: custom keyboard, games, gaming, gaming pc accessoires, gaming setup, gaming toetsenborden, mechanisch toetsenbord, optimale gaming ervaring, setup, speciale switches, toetsenbord
+  - [Waarom custom keyboards een must zijn voor topprestaties in e-sports](https://yourcustomkeyboard.com/blogs/nieuws/waarom-custom-keyboards-een-must-zijn-voor-topprestaties-in-e-sports): Waarom custom keyboards een must zijn voor topprestaties in e-sports
+    Updated: 2026-10-30T00:06:26Z
+    Author: your custom keyboard
+    Tags: custom keyboard, custom toetsenborden, e-sports, games, gaming, gaming prestaties, gaming setup, hoogwaardige gaming toetsenborden, maatwerk toetsenborden, mechanisch toetsenbord, toetsenborden
 
 ## Store Pages
 
