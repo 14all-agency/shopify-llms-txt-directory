@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-20T04:18:55Z
 - Contact Email: gfeed.app@gmail.com
-- Updated At: 2026-10-23T00:55:49.162Z
+- Updated At: 2026-10-31T00:24:23.188Z
 
 ## Products
 
@@ -135,7 +135,7 @@
   Updated: 2026-10-11T06:13:58Z
   Total Products: 3
 - [Sales off](https://go-pro-01-1rbghkq1.myshopify.com/collections/sales-off): Sales off
-  Updated: 2026-10-11T06:13:58Z
+  Updated: 2026-10-23T11:21:34Z
   Total Products: 5
 
 ## Blogs
