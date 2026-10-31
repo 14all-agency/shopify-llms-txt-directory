@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-09-05T01:22:31Z
 - Contact Email: usaautopartsdirect@gmail.com
-- Updated At: 2026-10-24T00:29:59.439Z
+- Updated At: 2026-10-31T01:05:35.225Z
 
 ## Products
 
@@ -1046,7 +1046,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_9adb4476-08a7-483b-9e5f-3137cd72abcf.webp?v=1788996740
   Price: $60.00 USD
 - [Radiator Fan Thermo Switch for EXC, XC, SX - KTM 125-530 (2000–2023)](https://usaautopartsdirect.com/products/radiator-fan-thermo-switch-for-ktm-125-530-exc-exc-f-xc-xcf-xc-f-xcw-sx-sxf-20002023-254664000978): Radiator Fan Thermo Switch for EXC, XC, SX - KTM 125-530 (2000–2023). Supplied product details follow. Specifications and fitment Includes: - Radiator Fan Thermo Switch Fits Models: - KTM 125 EXC, 125 EXC-F, 250 EXC, 250 EXC-F, 300 EXC, 350 XC, 350 XCF, 450 XC-F, 500 EXC, 500 EXC-F, 450 SX, 450 SX-F Model Years: - 2000–2023 Submodels: - Common trims include EXC, EXC-F, XC, XCF, XC-F, SX, SX-F - Chassis codes may vary by model year Engine Options: - Common engine sizes include 125cc, 250cc, 300cc, 350cc, 450cc, 500cc - Engine codes may vary by specific model Description: This Radiator Fan Thermo Switch is designed for various KTM off-road motorcycles, ensuring optimal engine cooling by activating the radiator fan at the correct temperature. It is a direct replacement part that maintains the performance and reliability of your bike. Features: - Direct fit for multiple KTM models from 2000 to 2023 - Ensures efficient engine cooling - Durable construction for long-lasting performance - Easy installation with no modifications required Part Number: Check fitment before purchase
-  Updated: 2026-09-17T20:29:54Z
+  Updated: 2026-10-29T05:16:37Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1255,14 +1255,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_f21653de-17c5-4b00-81ab-40aab1c1177f.webp?v=1788996749
   Price: $3,355.00 USD
-- [Cargo Liner Rear Trunk Mat for Fiat Freemont, Dodge Journey 2009-2019](https://usaautopartsdirect.com/products/rear-boot-cargo-liner-trunk-mat-for-dodge-journey-fiat-freemont-20092019-327236277310): Cargo Liner Rear Trunk Mat for Fiat Freemont, Dodge Journey 2009-2019. Supplied product details follow. Specifications and fitment Includes: - Rear Boot Cargo Liner Trunk Mat Fits Models: - Dodge Journey - Fiat Freemont Model Years: - 2009–2019 Submodels: - Common trims include SE, SXT, R/T, Crossroad, and GT for Dodge Journey; Lounge and Trekking for Fiat Freemont. Chassis codes include JC for Dodge Journey. Engine Options: - Common engine sizes include 2.4L I4 (ED24), 3.6L V6 (Pentastar), and 2.0L MultiJet Diesel (for Fiat Freemont). Description: This Rear Boot Cargo Liner Trunk Mat is designed to fit perfectly in the trunk of your Dodge Journey or Fiat Freemont, providing protection against spills, dirt, and wear. Its durable construction ensures longevity while maintaining a sleek appearance. Features: - Custom fit for Dodge Journey and Fiat Freemont - Protects trunk area from dirt and spills - Easy to clean and maintain - Durable material for long-lasting use - Non-slip surface for added safety
-  Updated: 2026-09-17T20:30:03Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_b46fbe62-f4f8-4f1e-aec4-bdf9a1d03187.webp?v=1788996750
-  Price: $85.00 USD
-[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MTAxNTI4LCJsYXN0X3ZhbHVlIjoiODk3MzMzNTEwMTUyOCJ9)
+[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MDY4NzYwLCJsYXN0X3ZhbHVlIjoiODk3MzMzNTA2ODc2MCJ9)
 
 ## Collections
 
@@ -1270,8 +1263,8 @@
   Updated: 2026-10-02T02:32:46Z
   Total Products: 0
 - [master](https://usaautopartsdirect.com/collections/master)
-  Updated: 2026-10-23T11:28:16Z
-  Total Products: 1859564
+  Updated: 2026-10-31T00:57:09Z
+  Total Products: 1859556
 
 ## Blogs
 
@@ -1365,6 +1358,15 @@
   - [An Editorial Perspective on the Evolution of Auto Accessories and Parts](https://usaautopartsdirect.com/blogs/news/an-editorial-perspective-on-the-evolution-of-auto-accessories-and-parts): An Editorial Perspective on the Evolution of Auto Accessories and Parts
     Updated: 2026-10-23T00:03:55Z
     Author: USA Auto Parts Direct
+  - [Exploring Trending Auto Accessories: What Sets the Modern Vehicle Apart](https://usaautopartsdirect.com/blogs/news/exploring-trending-auto-accessories-what-sets-the-modern-vehicle-apart): Exploring Trending Auto Accessories: What Sets the Modern Vehicle Apart
+    Updated: 2026-10-25T00:08:16Z
+    Author: USA Auto Parts Direct
+  - [A Tutorial on Installing Aftermarket Auto Parts with Ease](https://usaautopartsdirect.com/blogs/news/a-tutorial-on-installing-aftermarket-auto-parts-with-ease): A Tutorial on Installing Aftermarket Auto Parts with Ease
+    Updated: 2026-10-26T01:08:49Z
+    Author: USA Auto Parts Direct
+  - [Top 5 Aftermarket Auto Parts that Elevate Your Vehicle Performance](https://usaautopartsdirect.com/blogs/news/top-5-aftermarket-auto-parts-that-elevate-your-vehicle-performance): Top 5 Aftermarket Auto Parts that Elevate Your Vehicle Performance
+    Updated: 2026-10-30T00:04:09Z
+    Author: USA Auto Parts Direct
 
 ## Store Pages
 
@@ -1380,7 +1382,7 @@
 ## Policies
 
 - [Privacy Policy](https://usaautopartsdirect.com/policies/privacy-policy)
-  Updated: 2026-09-05T01:22:34Z
+  Updated: 2026-10-28T22:11:12Z
 - [Shipping Policy](https://usaautopartsdirect.com/policies/shipping-policy)
   Updated: 2026-09-24T10:25:51Z
 - [Refund Policy](https://usaautopartsdirect.com/policies/refund-policy)
