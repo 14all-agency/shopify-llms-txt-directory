@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2022-10-23T14:51:10Z
 - Contact Email: info@levarneilsonjewelry.com
-- Updated At: 2026-10-23T01:05:51.634Z
+- Updated At: 2026-10-31T00:33:36.145Z
 
 ## Products
 
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fdb7b696a8a9420a8327cc5c9efc483c-Max.webp?v=1779724625
     Price: $869.85 USD
 - [Light and luxurious four-leaf clover hollowed out diamond-set high-end gift box necklace for your lover](https://levarjewelry.com/products/light-and-luxurious-four-leaf-clover-hollowed-out-diamond-set-high-end-gift-box-necklace-for-your-lover): This light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace is a unique and romantic gift, suitable for your loved ones. Its design is inspired by the lucky four-leaf clover, which symbolizes good luck and happiness.The pendant of the necklace is designed with a hollow four-leaf clover, which is exquisite and chic. Each leaf is inlaid with shining diamonds, exuding a charming light, giving people a noble and elegant feeling. The shape of the four-leaf clover symbolizes luck and a bright future, letting your lover feel your deep affection.The chain is made of high-quality material, carefully treated and polished to ensure a comfortable wearing experience. The length of the chain is moderate, suitable for wearing on various occasions, allowing your lover to show her charm and elegance at all times.This necklace also comes with an exquisite gift box, with a high-end and exquisite appearance, and a delicate and soft interior, which provides perfect protection for this precious jewelry. Whether it is a birthday gift, Valentine's Day gift or other special anniversaries, this gift box will bring more surprises and touches to your lover.The light and luxurious four-leaf clover hollowed out diamond-encrusted high-end gift box necklace for her lover will become one of her precious collections. It not only represents your deep love and cherishment for her, but also symbolizes your bright future and happy time together.
-  Updated: 2026-10-21T12:46:30Z
+  Updated: 2026-10-29T07:45:27Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -39,7 +39,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/3274cea6-23ee-4984-8f42-7c7ebae3dbdc.jpg?v=1783161502
     Price: $47.30 USD
 - [Four-Leaf Clover Diamond Necklace in Gift Box | Le'Var Neilson](https://levarjewelry.com/products/exquisite-and-fashionable-four-leaf-clover-hollow-out-diamond-high-end-gift-box-necklace): Exquisite four-leaf clover hollow diamond necklace presented in a luxury gift box. Elegant sterling silver design for the modern woman.
-  Updated: 2026-10-21T12:46:28Z
+  Updated: 2026-10-29T07:45:28Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -117,7 +117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/716db626-2333-4e0d-a2b7-c4ef9673b05e.jpg?v=1783161526
     Price: $57.00 USD
 - [Cuban chain with diamond design exquisite fashion bracelet](https://levarjewelry.com/products/cuban-chain-with-diamond-design-exquisite-fashion-bracelet): This bracelet adopts a Cuban chain structure with diamond inlay design, presenting a unique style of exquisiteness and fashion. The chain links are full and stylish, the details are polished, and the overall shape is gorgeous but not ostentatious, suitable for wearers who pursue texture and fashion.0.8cm/0.31inMaterial: S925 Silver; DiamondDesign highlights:Cuban chain structure: The chain links are tight, and the lines are smooth, showing a strong and neat masculine temperament.Diamond decoration: The diamond design with partial embellishment enhances the overall refinement, enhances the visual level, and the details are more attentive.Fashion texture: Full luster, comfortable to wear, suitable for a variety of dressing styles, whether it is daily or occasional style, it can be easily controlled.Summary:This bracelet cleverly combines exquisite diamond inlay with tough structure, which not only retains the power of metal, but also adds fashionable light. It is an ideal choice to show taste and personality.
-  Updated: 2026-10-21T07:50:31Z
+  Updated: 2026-10-30T21:53:48Z
   Vendor: Le'Var
   Product Type: Bracelets
   Availability: Available
@@ -209,7 +209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/93f4bc14-17cd-4d79-8545-266602b7bb14.jpg?v=1783161576
     Price: $69.00 USD
 - [Moissanite Sunflower Ring in S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/light-luxury-s925-sterling-silver-moissanite-sunflower-ring): Material: S925 Sterling Silver, MoissaniteSize: 5US 6US 7US 8US 9USWeight: 5gThis lightweight luxury S925 sterling silver moissanite sunflower ring is inspired by blooming sunflowers, cleverly combining dazzling moissanite with an elegant floral design. It symbolizes warmth, hope, and love, with an overall exquisite and radiant appearance, full of sophisticated romance.Design Highlights:💎 S925 Sterling Silver Material · Lightweight Luxury TextureMade of selected S925 sterling silver, the silver luster is clear and delicate, comfortable and skin-friendly to wear, and resistant to fading, showcasing a clean and high-end lightweight luxury style.✨ Moissanite Sunflower DesignThe main stone uses high-quality moissanite with brilliant fire and sparkle, surrounded by a petal-shaped setting design, like a blooming sunflower, reflecting light in layers, dazzling and eye-catching.🌸 Full of Symbolic MeaningThe sunflower symbolizes sunshine, hope, and unwavering love. Wearing it on your finger not only shines beautifully but also carries wonderful blessings and positive energy.🌟 Exquisite Three-Dimensional CraftsmanshipThe ring face has clear layers, the petals are three-dimensional and full, and the overall proportion is harmonious, making the diamond appear large without being ostentatious, combining elegance and presence.👗 Versatile and ElegantWhether for daily wear, dates, parties, or important occasions, it can easily become a highlight on your finger. It's elegant when worn alone and equally stunning when stacked with other rings.🎁 Suitable for Gifting or Personal UseRomantic and meaningful, it's perfect as a sophisticated gift for birthdays, anniversaries, proposals, or as a treat for yourself.This lightweight luxury S925 sterling silver moissanite sunflower ring interprets sophisticated romance with its dazzling brilliance and floral beauty, making every wear as radiant and captivating as sunshine.
-  Updated: 2026-10-21T14:47:36Z
+  Updated: 2026-10-29T09:53:35Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -294,7 +294,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/9579efc8-4c06-4402-b3c0-943414df927d.jpg?v=1783161579
     Price: $56.70 USD
 - [18K Gold Double-Layer Serpentine Zircon Necklace | Le'Var Neilson](https://levarjewelry.com/products/18k-gold-double-layer-serpentine-zircon-necklace): Shop the 18K Gold Double-Layer Serpentine Zircon Necklace at Le'Var Neilson. Cubic zirconia accents, titanium steel, skin-friendly. Free shipping available.
-  Updated: 2026-10-21T14:47:37Z
+  Updated: 2026-10-29T09:53:31Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -324,7 +324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/fb986cb6-b3ec-4b46-94bd-7b21a457495b.jpg?v=1783161592
     Price: $113.40 USD
 - [Twisted Elegance Moissanite Ring | S925 Sterling Silver | Le'Var Neilson](https://levarjewelry.com/products/s925-sterling-silver-moissanite-micro-set-twisted-band-square-four-prong-diamond-ring): Shop the Twisted Elegance Moissanite Ring, crafted from S925 sterling silver with a chic twisted band. Perfect for any occasion, it exudes elegance and luxury.
-  Updated: 2026-10-21T14:47:38Z
+  Updated: 2026-10-29T09:53:28Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -534,7 +534,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/87d26c32-a54e-41f8-8332-370216f4d862-Max-Origin.webp?v=1777319586
   Price: $89.55 USD
 - [3 Carat Moissanite Ring | 925 Sterling Silver | Le'Var](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring): Shop our 3 carat moissanite ring in 925 sterling silver. Sizes 4.5–10. Diamond brilliance at a fraction of the cost. Certificate included. Free shipping over $75.
-  Updated: 2026-10-09T01:21:07Z
+  Updated: 2026-10-30T06:24:01Z
   Vendor: Le'Var
   Product Type: Rings
   Availability: Available
@@ -572,7 +572,7 @@
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
   - [Silver / 10](https://levarjewelry.com/products/3-carat-moissanite-925-sterling-silver-ring?variant=51676119171393)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/cb6d121e-5992-40a8-9891-c2250c0296da-Max-Origin.webp?v=1777319628
     Price: $219.30 USD
 - [1 Carat Moissanite 925 Sterling Silver Ring](https://levarjewelry.com/products/1-carat-moissanite-925-sterling-silver-ring-1): Pieces:1-piece Includes: A matching box. Moissanite jewelry over 0.3 carats includes a certificate of stone properties. Limited warranty included; please contact us for any issues related to your purchase. Adjustable: Adjustable Material: 925 sterling silver, Moissanite Carat weight:1ct Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry, producing silver chloride and copper sulfide, which can cause the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Actual Width One Size 0.6
@@ -582,13 +582,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/2eaa92c1-276e-4985-832c-016e28238404-Max-Origin.webp?v=1777319670
   Price: $64.89 USD
-- [999 Sterling Silver Flower Stud Earrings](https://levarjewelry.com/products/999-sterling-silver-flower-stud-earrings): Pieces:1-pair Material: 999 sterling silver Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements in inches) & Size Conversion Size Actual Length One Size 0.4
-  Updated: 2026-08-10T01:01:37Z
-  Vendor: Le'Var
-  Product Type: Rings
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/8a5e6db9-d6e4-4a13-b58e-bc83cb80fca3-Max-Origin.webp?v=1777319734
-  Price: $27.60 USD
 - [925 Sterling Silver Zircon Pendant Necklace](https://levarjewelry.com/products/925-sterling-silver-zircon-pendant-necklace-1): Pieces:1-piece Includes: A matching box. Material: 925 sterling silver, Zircon Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 15.7
   Updated: 2026-07-21T11:41:12Z
   Vendor: Le'Var
@@ -636,7 +629,7 @@
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/1a29cd90-7a21-45da-ac01-9d25feafa06c-Max-Origin.webp?v=1777319847
   Price: $81.12 USD
 - [Layered Snake Chain Y Necklace](https://levarjewelry.com/products/layered-snake-chain-y-necklace): Pieces:1-piece Material: Alloy Care instructions: Avoid wearing during exercise, as sweat will react with the jewelry to produce silver chloride and copper sulfide, which causes the jewelry to deteriorate and corrode over time. Imported Product Measurements (Measurements by inches) & Size Conversion Size Chain length One Size 47.2
-  Updated: 2026-09-13T16:04:56Z
+  Updated: 2026-10-25T04:35:50Z
   Vendor: Le'Var
   Product Type: Necklaces
   Availability: Available
@@ -747,13 +740,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/dfb5ad5c-2ee5-48c4-89e2-573880c2380e-Max-Origin.webp?v=1777320229
   Price: $37.49 USD
-- [Women Guardian Angel 925 Sterling Silver Necklace](https://levarjewelry.com/products/women-guardian-angel-925-sterling-silver-necklace): Pendant Size: 28mm * 14mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: Rhodium Chain Length: 400mm + 40mm Adjustable Total Weight: 5.96g
-  Updated: 2026-07-21T11:41:28Z
-  Vendor: Le'Var
-  Product Type: Necklaces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0666/1518/1633/files/605824411254_4.jpg?v=1777967054
-  Price: $64.24 USD
 - [Women Crescent Moon 925 Sterling Silver Necklace](https://levarjewelry.com/products/women-crescent-moon-925-sterling-silver-necklace): Pendant Size: 13.5mm * 15.5mm Metal Material: Solid 925 Sterling Silver Metal Electroplating: 18K Yellow Gold/Rhodium Chain Length: 380mm + 40mm Adjustable Total Weight: 2.55g
   Updated: 2026-07-21T11:41:32Z
   Vendor: Le'Var
@@ -2510,84 +2496,87 @@
 
 ## Collections
 
-- [New Arrivals](https://levarjewelry.com/collections/new-arrivals): Shop the latest jewelry arrivals at Le'Var Neilson. New moissanite, diamond, and gemstone pieces added regularly.
-  Updated: 2026-10-21T07:19:23Z
+- [New Arrivals](https://levarjewelry.com/collections/new-arrivals): Discover Le'Var's new jewelry arrivals for personal style and thoughtful gifts. Explore the selection and find your next signature piece.
+  Updated: 2026-10-23T08:03:39Z
   Total Products: 7
-- [Necklaces](https://levarjewelry.com/collections/necklaces): Shop moissanite and sterling silver necklaces at Le'Var Neilson. Delicate chains, bold pendants, and projection necklaces. Free shipping available.
-  Updated: 2026-10-22T17:20:30Z
-  Total Products: 91
-- [Rings](https://levarjewelry.com/collections/rings): Shop moissanite and sterling silver rings at Le'Var Neilson. Solitaires, stacking rings, bypass styles & more for women and men. Free shipping available.
-  Updated: 2026-10-21T07:42:32Z
-  Total Products: 114
-- [Bridal & Engagement Jewelry](https://levarjewelry.com/collections/bridal-engagement-jewelry): Shop moissanite bridal and engagement jewelry at Le'Var Neilson. Engagement rings, wedding bands, and bridal sets in 925 sterling silver. Free shipping.
-  Updated: 2026-10-21T07:43:08Z
-  Total Products: 23
-- [Earrings](https://levarjewelry.com/collections/earrings): Shop moissanite and sterling silver earrings at Le'Var Neilson. Studs, hoops, drop earrings and more. Everyday luxury for every occasion. Free shipping available.
-  Updated: 2026-09-20T06:57:38Z
+- [Necklaces](https://levarjewelry.com/collections/necklaces): Discover necklaces for men and women at Le'Var Neilson. Find your signature piece, refine your everyday look, or choose a meaningful gift.
+  Updated: 2026-10-23T07:44:57Z
+  Total Products: 265
+- [Rings](https://levarjewelry.com/collections/rings): Explore rings for men and women at Le'Var Neilson. Express your personal style, celebrate a connection, or find a meaningful gift.
+  Updated: 2026-10-30T10:20:12Z
+  Total Products: 113
+- [Bridal & Engagement Jewelry](https://levarjewelry.com/collections/bridal-engagement-jewelry): Explore bridal and engagement jewelry at Le'Var Neilson. Celebrate your commitment, honor your connection, and find a piece for your next chapter.
+  Updated: 2026-10-23T07:49:09Z
+  Total Products: 24
+- [Earrings](https://levarjewelry.com/collections/earrings): Explore earrings for men and women at Le'Var Neilson. Find your everyday finishing touch, express your personal style, or choose a meaningful gift.
+  Updated: 2026-10-23T07:46:34Z
   Total Products: 27
 - [Gift Cards](https://levarjewelry.com/collections/gift-cards): Give the gift of fine moissanite jewelry with a Le'Var Neilson Gift Card. Redeemable on any piece, delivered instantly, and never expires.
   Updated: 2026-08-16T07:44:26Z
   Total Products: 0
-- [Bracelets](https://levarjewelry.com/collections/bracelets-smart): Shop fine bracelets at Le'Var Neilson. Moissanite, diamond, and gemstone designs in gold and silver for everyday luxury.
-  Updated: 2026-09-29T10:08:02Z
+- [Bracelets](https://levarjewelry.com/collections/bracelets-smart): Explore bracelets at Le'Var. Find your signature finishing touch, build a personal stack, or choose a meaningful gift.
+  Updated: 2026-10-24T11:04:38Z
   Total Products: 74
-- [Women's Bracelets](https://levarjewelry.com/collections/womens-bracelets-smart): Shop Le'Var Neilson's women's moissanite bracelets — tennis, bangle & layering styles in rose gold, white gold & silver. Timeless elegance awaits.
-  Updated: 2026-08-24T22:44:21Z
+- [Women's Bracelets](https://levarjewelry.com/collections/womens-bracelets-smart): Explore women’s bracelets at Le’Var. Find your everyday finishing touch, build a personal stack, or choose a meaningful gift.
+  Updated: 2026-10-23T07:40:53Z
   Total Products: 16
-- [Photo Projection Jewelry](https://levarjewelry.com/collections/photo-projection-jewelry): Shop Le'Var photo projection jewelry. Upload your photo and wear it forever in a stunning ring or necklace. Perfect personalized gift for any occasion.
-  Updated: 2026-09-04T12:02:11Z
+- [Photo Projection Jewelry](https://levarjewelry.com/collections/photo-projection-jewelry): Explore Le'Var photo projection jewelry for meaningful gifts inspired by cherished memories. See each piece for customization and photo-submission details.
+  Updated: 2026-10-23T07:57:12Z
   Total Products: 71
-- [Projection Necklaces](https://levarjewelry.com/collections/projection-necklaces): Shop Le'Var's projection necklaces — unique jewelry with a hidden photo or message inside. Perfect gifts for her. Free shipping available.
-  Updated: 2026-09-04T11:57:47Z
+- [Projection Necklaces](https://levarjewelry.com/collections/projection-necklaces): Explore Le'Var projection necklaces for meaningful gifts and personal style. See each necklace for projection, customization, and viewing details.
+  Updated: 2026-10-23T07:58:02Z
   Total Products: 42
-- [Projection Bracelets](https://levarjewelry.com/collections/projection-bracelets): Shop Le'Var's projection bracelets — elegant bracelets with a hidden photo or message inside. Unique jewelry gifts for her.
-  Updated: 2026-09-04T12:02:11Z
+- [Projection Bracelets](https://levarjewelry.com/collections/projection-bracelets): Explore Le'Var projection bracelets for meaningful gifts and personal style. See each bracelet for customization, sizing, and viewing instructions.
+  Updated: 2026-10-23T07:59:40Z
   Total Products: 21
-- [Projection Rings](https://levarjewelry.com/collections/projection-rings): Shop Le'Var's projection rings — stunning rings with a hidden photo or message inside. Unique, personal jewelry gifts for her.
-  Updated: 2026-08-16T07:44:26Z
+- [Projection Rings](https://levarjewelry.com/collections/projection-rings): Explore Le'Var projection rings for meaningful gifts and personal style. See each ring for customization, sizing, materials, and viewing instructions.
+  Updated: 2026-10-23T08:00:57Z
   Total Products: 3
 - [Moissanite Gift Sets](https://levarjewelry.com/collections/moissanite-gift-sets): Shop curated moissanite gift sets at Le'Var Neilson. Rings, necklaces & earrings bundled for the perfect luxury jewelry gift.
   Updated: 2026-09-21T10:35:44Z
   Total Products: 0
 - [Moissanite Bridal Sets](https://levarjewelry.com/collections/moissanite-bridal-sets): Shop moissanite bridal jewelry sets at Le'Var Neilson. Curated rings, earrings & necklace pairings for your wedding day.
-  Updated: 2026-10-21T07:43:08Z
-  Total Products: 22
+  Updated: 2026-10-23T07:03:01Z
+  Total Products: 12
 - [Moissanite Everyday Stack](https://levarjewelry.com/collections/moissanite-everyday-stack): Shop moissanite everyday stack jewelry at Le'Var Neilson. Mix & match rings, bracelets, and necklaces for effortless daily luxury.
-  Updated: 2026-08-28T01:28:10Z
+  Updated: 2026-10-23T07:15:11Z
   Total Products: 15
 - [Men's Necklaces](https://levarjewelry.com/collections/mens-necklaces): Shop premium men's necklaces at Le'Var — Cuban link chains, cross pendants, dragon designs & more. Bold jewelry for men who lead.
-  Updated: 2026-08-28T20:09:32Z
-  Total Products: 30
+  Updated: 2026-10-23T07:39:18Z
+  Total Products: 35
 - [Men's Bracelets](https://levarjewelry.com/collections/mens-bracelets): Shop premium men's bracelets at Le'Var — Cuban link, dragon bone, snake bone & punk styles. Bold wrist jewelry for men who lead.
-  Updated: 2026-08-28T20:04:49Z
+  Updated: 2026-10-24T11:04:38Z
   Total Products: 13
 - [Men's Earrings](https://levarjewelry.com/collections/mens-earrings): Shop premium men's earrings at Le'Var — moissanite studs and sterling silver designs. Unisex styles, diamond-rivaling brilliance.
-  Updated: 2026-09-20T06:57:38Z
+  Updated: 2026-10-23T07:09:47Z
   Total Products: 6
 - [Women's Earrings](https://levarjewelry.com/collections/womens-earrings): Shop premium women's earrings at Le'Var — moissanite studs, drop earrings, hoops & custom designs in 925 sterling silver.
-  Updated: 2026-09-20T06:57:38Z
-  Total Products: 15
-- [Personalized Jewelry](https://levarjewelry.com/collections/personalized-jewelry): Shop personalized jewelry at Le'Var — custom name earrings, engraved pieces & photo projection jewelry. Unique gifts in sterling silver & gold.
-  Updated: 2026-09-10T03:48:03Z
+  Updated: 2026-10-23T07:35:24Z
+  Total Products: 9
+- [Personalized Jewelry](https://levarjewelry.com/collections/personalized-jewelry): Explore personalized jewelry at Le'Var Neilson. Celebrate your story or choose a meaningful gift. See each piece for available customization options.
+  Updated: 2026-10-23T07:50:27Z
   Total Products: 197
 - [Women's Necklaces](https://levarjewelry.com/collections/womens-necklaces): Shop premium women's necklaces at Le'Var — moissanite pendants, diamond-cut chains & personalized pieces in sterling silver and gold.
-  Updated: 2026-10-21T07:49:59Z
-  Total Products: 51
-- [Birthstone Jewelry](https://levarjewelry.com/collections/birthstone-jewelry): Shop birthstone rings, necklaces, earrings & bracelets in 925 sterling silver. Perfect gifts for birthdays & Mother's Day. Free shipping available.
-  Updated: 2026-09-10T03:48:03Z
+  Updated: 2026-10-23T07:29:18Z
+  Total Products: 52
+- [Birthstone Jewelry](https://levarjewelry.com/collections/birthstone-jewelry): Explore birthstone jewelry at Le'Var for meaningful birthday gifts and personal style. See each piece for stone details, materials, and available options.
+  Updated: 2026-10-23T07:52:41Z
   Total Products: 20
-- [Anklets](https://levarjewelry.com/collections/anklets): Shop Le'Var's anklet collection — 18K gold & sterling silver designs. Bold tassel, layered, and minimalist styles. Gift-ready.
-  Updated: 2026-08-16T07:44:27Z
+- [Anklets](https://levarjewelry.com/collections/anklets): Explore Le'Var anklets and ankle bracelets for a personal finishing touch or thoughtful gift. See each piece for materials, sizing, and care details.
+  Updated: 2026-10-23T07:56:18Z
   Total Products: 4
 - [Men's Rings](https://levarjewelry.com/collections/mens-rings): Explore Le'Var men's rings, from sterling silver and moissanite designs to bold everyday styles made to stand apart.
   Updated: 2026-10-21T06:52:31Z
   Total Products: 0
 - [Women's Rings](https://levarjewelry.com/collections/womens-rings): Explore Le'Var women's rings, from sterling silver and moissanite designs to refined everyday styles made to stand apart.
-  Updated: 2026-10-21T07:43:09Z
-  Total Products: 31
+  Updated: 2026-10-23T06:53:54Z
+  Total Products: 32
 - [Jewelry Sets](https://levarjewelry.com/collections/jewelry-sets): Shop coordinated jewelry sets from Le’Var, featuring polished finishes, symbolic details, and gift-worthy styles for effortless everyday elegance.
   Updated: 2026-09-29T10:22:30Z
   Total Products: 7
+- [The Grand Occasion Collection by Le’Var](https://levarjewelry.com/collections/grand-occasion): Discover The Grand Occasion Collection by Le’Var. Statement jewelry for wedding celebrations, black-tie evenings, and unforgettable entrances.
+  Updated: 2026-10-23T08:55:39Z
+  Total Products: 0
 
 ## Blogs
 
@@ -2662,6 +2651,9 @@
   - [The Cultural Significance of Gemstones in Different Traditions](https://levarjewelry.com/blogs/news/the-cultural-significance-of-gemstones-in-different-traditions): The Cultural Significance of Gemstones in Different Traditions
     Updated: 2026-10-18T00:03:38Z
     Author: Le'Var Neilson Jewelry
+  - [How to Set and Secure Gemstones in Jewelry Making](https://levarjewelry.com/blogs/news/how-to-set-and-secure-gemstones-in-jewelry-making): How to Set and Secure Gemstones in Jewelry Making
+    Updated: 2026-10-25T00:04:05Z
+    Author: Le'Var Neilson Jewelry
 
 ## Store Pages
 
@@ -2703,7 +2695,7 @@
 ## Policies
 
 - [Privacy Policy](https://levarjewelry.com/policies/privacy-policy)
-  Updated: 2025-08-22T07:21:34Z
+  Updated: 2026-10-29T16:41:15Z
 - [Shipping Policy](https://levarjewelry.com/policies/shipping-policy)
   Updated: 2026-07-05T01:48:30Z
 - [Refund Policy](https://levarjewelry.com/policies/refund-policy)
