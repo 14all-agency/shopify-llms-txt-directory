@@ -6,14 +6,14 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-10-23T00:59:54.429Z
+- Updated At: 2026-10-31T00:29:22.742Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
 ## Products
 
-- [Organic Early Harvest EVOO - Relish & Smooth | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth):  organic early-harvest extra virgin olive oil from Troy. Lab- 440 mg/kg polyphenols, cold-pressed with gentle, silky, rounded notes.
-  Updated: 2026-10-07T20:49:23Z
+- [Organic Cold-Pressed Extra Virgin Olive Oil, Relish & Smooth | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth):  organic early-harvest extra virgin olive oil from Troy. Lab- 440 mg/kg polyphenols, cold-pressed with gentle, silky, rounded notes.
+  Updated: 2026-10-30T21:01:06Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -90,8 +90,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $298.35 USD
-- [Organic Early Harvest EVOO - Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
-  Updated: 2026-10-21T09:11:06Z
+- [Organic Cold-Pressed Extra Virgin Olive Oil, Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
+  Updated: 2026-10-30T21:01:51Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -168,8 +168,8 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $331.50 USD
-- [Fruity & Full-Bodied EVOO (840 mg/kg) | Juicy Olive ASK FARMS](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early August EVOO. 840 mg/kg polyphenols, ≤0.20% FFA. Bold, peppery oleocanthal finish. Cold pressed <22°C within 2 hours. Fast US shipping.
-  Updated: 2026-10-16T08:45:09Z
+- [Organic Cold-Pressed Extra Virgin Olive Oil, Fruity & Full-Bodied | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early August EVOO. 840 mg/kg polyphenols, ≤0.20% FFA. Bold, peppery oleocanthal finish. Cold pressed <22°C within 2 hours. Fast US shipping.
+  Updated: 2026-10-30T20:59:47Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -256,22 +256,22 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-09-04T09:30:58Z
   Total Products: 74
 - [Main Products](https://juicyolive.com/collections/main-products): Shop single-estate organic extra virgin olive oils from Turkey. Lab-tested up to 840 mg/kg polyphenols across 3 profiles: Fruity, Mild, and Smooth. Free shipping.
-  Updated: 2026-10-21T11:09:55Z
+  Updated: 2026-10-30T11:09:47Z
   Total Products: 18
 
 ## Blogs
 
 - [Premium Olive Oil Blog | Gourmet Recipes & Expert Guides](https://juicyolive.com/blogs/article): Explore our premium olive oil blog for gourmet recipes, health benefits, and harvesting secrets. Elevate your culinary skills and shop our collection today!
-  - [Seabass Plate](https://juicyolive.com/blogs/article/seabass-plate): <span data-mce-fragment="1">Experience the exquisite flavors of the sea with our Sea Bass Plate. Succulent sea bass fillet, grilled to perfection and complemented by the freshness of cherry tomatoes and asparagus, all brought together with the pure goodness of 'Juicy Olive Squeezed' Organic Early Harvest Extra Virgin Olive Oil. A drizzle of lime juice and a pinch of seasoning complete this delightful dish. Dive into a culinary adventure with every bite!</span>
-    Updated: 2026-08-31T08:26:14Z
+  - [Seabass Plate](https://juicyolive.com/blogs/article/seabass-plate): <p><meta charset="utf-8">A sea bass plate finished with early-harvest extra virgin olive oil.</p>
+    Updated: 2026-10-27T09:54:09Z
     Author: Reza Malekan
     Tags: RECIPES
-  - [Hummus](https://juicyolive.com/blogs/article/hummus): <span data-mce-fragment="1">Indulge in the velvety delight of homemade Hummus, a classic Middle Eastern dip that's irresistibly smooth and flavorful. Our recipe combines the wholesome goodness of chickpeas, the nutty richness of tahini, a burst of fresh lemon juice, and the exquisite touch of 'Juicy Olive Squeezed' Organic Early Harvest Extra Virgin Olive Oil. This creamy blend is garnished with a drizzle of olive oil, sumac, and chili flakes for an extra kick. Perfect for dipping warm pita or lavash bread, this Hummus is a true culinary masterpiece.</span>
-    Updated: 2026-08-31T08:26:18Z
+  - [Hummus](https://juicyolive.com/blogs/article/hummus): <p><meta charset="utf-8">Hummus finished with early-harvest extra virgin olive oil.</p>
+    Updated: 2026-10-27T09:54:33Z
     Author: Reza Malekan
     Tags: RECIPES
-  - [Mediterranean Salad](https://juicyolive.com/blogs/article/mediterranean-salad): <span data-mce-fragment="1">Indulge in the flavors of the Mediterranean with a fresh salad featuring cherry tomatoes, mesclun, avocado, and a zesty dressing made with 'Juicy Olive Squeezed' Organic Early Harvest Extra Virgin Olive Oil. This vibrant dish is a delightful blend of colors, textures, and tastes—a true taste of the Mediterranean!</span>
-    Updated: 2026-08-31T08:26:23Z
+  - [Mediterranean Salad](https://juicyolive.com/blogs/article/mediterranean-salad): <p><span>Indulge in the flavors of the Mediterranean with a fresh salad featuring cherry tomatoes, mesclun, avocado, and a zesty dressing made with 'Juicy Olive Squeezed' Organic Early Harvest Extra Virgin Olive Oil. This vibrant dish is a delightful blend of colors, textures, and tastes—a true taste of the Mediterranean!</span></p>
+    Updated: 2026-10-27T09:55:03Z
     Author: Reza Malekan
     Tags: RECIPES
   - [How to Choose & Buy Top-Quality EVOO: 5 Expert Tips](https://juicyolive.com/blogs/article/5-pro-tips-on-how-to-buy-and-choose-the-top-quality-extra-virgin-olive-oil): How to Choose & Buy Top-Quality EVOO: 5 Expert Tips
@@ -279,33 +279,33 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Author: Houman Hosseini
     Tags: EDUCATION, LIFESTYLE
   - [How to Taste Olive Oil: Step-by-Step EVOO Tasting Guide | Juicy Olive](https://juicyolive.com/blogs/article/how-to-taste-extra-virgin-olive-oil): How to Taste Olive Oil: Step-by-Step EVOO Tasting Guide | Juicy Olive
-    Updated: 2026-10-22T20:58:44Z
+    Updated: 2026-10-23T09:35:00Z
     Author: Houman Hosseini
-  - [Gift of Health and Taste: Why Extra Virgin Olive Oil Makes an Exceptional Choice for Special Days](https://juicyolive.com/blogs/article/gift-of-health-and-taste-why-extra-virgin-olive-oil-makes-an-exceptional-choice-for-special-days)
-    Updated: 2026-10-20T05:38:39Z
+  - [Why Extra Virgin Olive Oil Makes a Good Gift](https://juicyolive.com/blogs/article/gift-of-health-and-taste-why-extra-virgin-olive-oil-makes-an-exceptional-choice-for-special-days): <p><meta charset="utf-8">Why a bottle of extra virgin olive oil works for a birthday, a holiday, or a thank-you.</p>
+    Updated: 2026-10-27T10:28:53Z
     Author: Merve Hossaini
     Tags: LIFESTYLE
   - [Early Harvest Olive Oil: What Changes in the Bottle](https://juicyolive.com/blogs/article/benefits-of-early-harvest-cold-pressed-extra-virgin-olive-oil)
     Updated: 2026-10-19T06:25:19Z
     Author: Merve Hossaini
     Tags: EDUCATION
-  - [Myths and Facts About Extra Virgin Olive Oil-Separating Fiction From Reality](https://juicyolive.com/blogs/article/myths-and-facts-about-extra-virgin-olive-oil-separating-fiction-from-reality)
-    Updated: 2026-10-13T17:03:48Z
+  - [Myths and Facts About Extra Virgin Olive Oil](https://juicyolive.com/blogs/article/myths-and-facts-about-extra-virgin-olive-oil-separating-fiction-from-reality)
+    Updated: 2026-10-27T09:56:46Z
     Author: Merve Hossaini
     Tags: EDUCATION
-  - [Discover the Secrets of Olive oil - History, Health and Purity](https://juicyolive.com/blogs/article/discover-the-secrets-of-olive-oil-history-health-and-purity)
-    Updated: 2026-10-13T17:04:30Z
+  - [A Short History of Olive Oil](https://juicyolive.com/blogs/article/discover-the-secrets-of-olive-oil-history-health-and-purity): <p><meta charset="utf-8">In today's kitchens, olive oil remains a cornerstone, from everyday cooking to finishing. Production ranges from large modern mills to small family estates that keep traditional care alongside modern quality control.</p>
+    Updated: 2026-10-27T09:57:32Z
     Author: Merve Hossaini
     Tags: EDUCATION
   - [Types of Olive Oil: Refined vs Pomace vs Extra Virgin](https://juicyolive.com/blogs/article/the-5-types-of-olive-oil-how-to-avoid-buying-the-wrong-one): Types of Olive Oil: Refined vs Pomace vs Extra Virgin
     Updated: 2026-10-20T05:35:49Z
     Author: Merve Hossaini
-  - [Pomegranate-Glazed Roasted Cauliflower](https://juicyolive.com/blogs/article/pomegranate-glazed-roasted-cauliflower)
-    Updated: 2026-09-14T07:13:18Z
+  - [Pomegranate-Glazed Roasted Cauliflower](https://juicyolive.com/blogs/article/pomegranate-glazed-roasted-cauliflower): <p><meta charset="utf-8"><meta charset="utf-8">Roasted cauliflower with pomegranate and early-harvest extra virgin olive oil.<br></p>
+    Updated: 2026-10-27T09:55:49Z
     Author: Merve Hossaini
     Tags: RECIPES
   - [Premium Turkish Extra Virgin Olive Oil from Troy Region](https://juicyolive.com/blogs/article/why-harvest-to-extraction-time-matters): Premium Turkish Extra Virgin Olive Oil from Troy Region
-    Updated: 2026-10-19T02:47:47Z
+    Updated: 2026-10-27T10:00:47Z
     Author: Merve Hossaini
     Tags: EDUCATION, Olive Oil Benefits
   - [Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive](https://juicyolive.com/blogs/article/polyphenol-olive-oil-guide): Olive Oil Polyphenols: 840, 620 & 440 mg/kg Explained | Juicy Olive
@@ -335,14 +335,21 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [Best Olive Oil: Why the Producer Matters More Than the Country](https://juicyolive.com/blogs/article/best-olive-oil-producer-vs-country-of-origin): <p><meta charset="utf-8"><span>Searching for the </span><strong><span>best olive oil</span></strong><span>? This guide explains why producer knowledge, harvest timing, milling, storage, laboratory results, and traceability matter more than whether a bottle is Italian, Greek, Spanish, Turkish, or American. Learn how to compare olive oil brands and choose a fine </span><strong><span>extra virgin olive oil</span></strong><span> with confidence.</span></p>
     Updated: 2026-10-22T08:36:24Z
     Author: Houman Hosseini
-  - [Premium EVOO: 6 Signs of Exceptional Quality | Juicy Olive](https://juicyolive.com/blogs/article/what-makes-premium-extra-virgin-olive-oil-truly-exceptiona): Premium EVOO: 6 Signs of Exceptional Quality | Juicy Olive
-    Updated: 2026-10-22T20:58:38Z
+  - [What Makes Premium Extra Virgin Olive Oil](https://juicyolive.com/blogs/article/what-makes-premium-extra-virgin-olive-oil): What Makes Premium Extra Virgin Olive Oil
+    Updated: 2026-10-23T08:24:31Z
     Author: Houman Hosseini
+    Tags: EDUCATION
   - [Oleocanthal Olive Oil: Taste vs. Total Polyphenols | Juicy Olive](https://juicyolive.com/blogs/article/oleocanthal-olive-oil-taste-vs-total-polyphenols): Oleocanthal Olive Oil: Taste vs. Total Polyphenols | Juicy Olive
-    Updated: 2026-10-22T20:58:55Z
+    Updated: 2026-10-27T11:14:41Z
     Author: Houman Hosseini
   - [Premium Olive Oil Gifts: Who They’re Perfect For | Juicy Olive](https://juicyolive.com/blogs/article/premium-olive-oil-gift-guide): Premium Olive Oil Gifts: Who They’re Perfect For | Juicy Olive
-    Updated: 2026-10-22T21:34:12Z
+    Updated: 2026-10-29T20:58:01Z
+    Author: Houman Hosseini
+  - [What Is Refined Olive Oil? Refined vs. Extra Virgin | Juicy Olive](https://juicyolive.com/blogs/article/what-is-refined-olive-oil): What Is Refined Olive Oil? Refined vs. Extra Virgin | Juicy Olive
+    Updated: 2026-10-28T15:56:08Z
+    Author: Houman Hosseini
+  - [Early Harvest vs Late Harvest Olive Oil | Juicy Olive](https://juicyolive.com/blogs/article/early-harvest-vs-later-harvest-olive-oil): Early Harvest vs Late Harvest Olive Oil | Juicy Olive
+    Updated: 2026-10-30T14:11:37Z
     Author: Houman Hosseini
 
 ## Store Pages
@@ -381,8 +388,6 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-08-31T09:47:51Z
 - [Single-Estate Organic Olive Oil](https://juicyolive.com/pages/single-estate-organic-olive-oil): 
   Updated: 2026-09-03T08:59:09Z
-- [Türkiye Mağazamız Yenileniyor | Juicy Olive](https://juicyolive.com/pages/turkiye-magazamiz-yenileniyor): Türkiye mağazamız yenileniyor.Çok yakında juicyolive.com.tr’de yeniden buluşuyoruz.
-  Updated: 2026-09-08T13:01:42Z
 - [Our Team](https://juicyolive.com/pages/about-our-team): .jo-team-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-heade...
   Updated: 2026-10-07T09:43:28Z
 - [High-Polyphenol Olive Oil USA: Buy Online](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
