@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-10-23T00:52:11.850Z
+- Updated At: 2026-10-31T00:19:31.427Z
 
 ## Products
 
 - [Anti Inflammatory Supplements to Support Your Body’s Natural Balance](https://allovedaai.com/products/alloveda-ai-capsules): Discover Alloveda AI Ayurvedic anti-inflammatory supplement formulated with powerful herbs to support inflammation balance, immunity, and overall wellness naturally.
-  Updated: 2026-08-28T20:05:53Z
+  Updated: 2026-10-28T20:56:16Z
   Vendor: Alloveda
   Product Type: 
   Availability: Available
@@ -21,8 +21,8 @@
 ## Collections
 
 - [Home page](https://allovedaai.com/collections/frontpage)
-  Updated: 2026-08-27T11:21:12Z
-  Total Products: 2
+  Updated: 2026-10-29T13:40:03Z
+  Total Products: 3
 
 ## Blogs
 
@@ -195,7 +195,7 @@
 ## Policies
 
 - [Privacy Policy](https://allovedaai.com/policies/privacy-policy)
-  Updated: 2025-07-21T05:22:11Z
+  Updated: 2026-10-30T06:10:02Z
 - [Shipping Policy](https://allovedaai.com/policies/shipping-policy)
   Updated: 2025-11-28T06:08:38Z
 - [Refund Policy](https://allovedaai.com/policies/refund-policy)
