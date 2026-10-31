@@ -6,12 +6,12 @@
 - Timezone: Asia/Shanghai
 - Created At: 2025-11-10T10:11:19Z
 - Contact Email: support@jellyaora.com
-- Updated At: 2026-10-23T01:05:10.383Z
+- Updated At: 2026-10-31T00:28:49.662Z
 
 ## Products
 
 - [Classic Grey Fleece BK Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-grey-fluff-bk-bag-medium): Grey fleece Birkin-style plush handbag in 7" and 9.8". Structured shape, ultra-soft finish. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-15T04:24:41Z
+  Updated: 2026-10-29T21:15:06Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -24,7 +24,7 @@
     Availability: Available
     Price: $85.99 USD
 - [Classic Pink Fleece Kelly Bag 8.6-inch](https://www.jellyaora.com/products/classic-praline-fluff-clarette-bag-medium): Soft fleece Kelly-style plush bag, 8.6 inch, in 5 colors with eco-leather trim. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-17T07:32:47Z
+  Updated: 2026-10-30T19:07:53Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -54,7 +54,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/jellycat_birkin_straw_Kelly_Bag_8_2.webp?v=1788177279
     Price: $115.99 USD
 - [Classic Brown Fleece Jelly Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-brown-fluff-bk-bag-medium): Classic brown plush jellycat birkin-style bag, 7" & 9.8". Holds all daily essentials. From $85.99. Free shipping $80+, Worldwide shipping, 30-day free returns.
-  Updated: 2026-10-22T01:35:41Z
+  Updated: 2026-10-30T23:02:47Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -88,7 +88,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/Beach_Straw_jellycat_Birkin_Bag_9_1.webp?v=1787892901
   Price: $125.99 USD
 - [Classic Black Fleece BK Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-black-fleece-bk-bag-medium): Black fleece Birkin-style plush handbag in 7" and 9.8". Timeless everyday shape. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-21T17:24:23Z
+  Updated: 2026-10-24T01:54:48Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -100,7 +100,7 @@
     Availability: Available
     Price: $85.99 USD
 - [Classic Snowdrop Fleece BK Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-snowdrop-fleece-bk-bag-medium): Snowdrop white fleece plush handbag in 7" and 9.8". Light, soft, and structured. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-22T11:14:27Z
+  Updated: 2026-10-27T21:40:16Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -110,9 +110,9 @@
     Price: $105.99 USD
   - [7-inch](https://www.jellyaora.com/products/classic-snowdrop-fleece-bk-bag-medium?variant=48348553216223)
     Availability: Available
-    Price: $105.99 USD
+    Price: $85.99 USD
 - [Classic Tote Pink BK Jelly Bag 7/9.8-inch](https://www.jellyaora.com/products/classic-tote-pink-fleece-bk-bag-medium): Soft pink plush BK tote bag in 7" & 9.8". Compact, charming, go-everywhere style. From $85.99. Free ship $80+, Worldwide shipping, 30-day returns.
-  Updated: 2026-10-22T14:56:15Z
+  Updated: 2026-10-30T17:26:04Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -126,7 +126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-tote-pink-bk-jelly-bag-798-inch-1009490.webp?v=1783564988
     Price: $105.99 USD
 - [Chocolat Fleece Birkin Bag 7" & 9.8" – Plush Luxury | Jellyaora](https://www.jellyaora.com/products/classic-chocolat-fleece-bk-bag-medium-small): Rich chocolat fleece Birkin-style plush bag in 7" and 9.8". Warm neutral tone. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-09T06:07:32Z
+  Updated: 2026-10-29T10:11:16Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -152,7 +152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-cloud-blue-fleece-jelly-bag-98-inch-6260020.png?v=1778914328
   Price: $135.99 USD
 - [Amethyst Fleece Jelly Bag 7" & 9.8" – Purple Plush | Jellyaora](https://www.jellyaora.com/products/classic-amethyst-fleece-bk-bag-medium): Amethyst purple fleece plush jelly bag in 7" and 9.8". Rich color, soft touch. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-16T15:30:37Z
+  Updated: 2026-10-29T17:47:16Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -164,7 +164,7 @@
     Availability: Available
     Price: $95.99 USD
 - [Lemon Jellycat Birkin Bag 7" & 9.8" – Fun Plush | Jellyaora](https://www.jellyaora.com/products/classic-lemon-jelly-bag): Lemon yellow plush Birkin-style handbag in 7" and 9.8". Bright, cheerful, and soft. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-22T16:39:10Z
+  Updated: 2026-10-25T12:20:30Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -176,14 +176,14 @@
     Availability: Available
     Price: $105.99 USD
 - [Evergreen Fluff Jelly Bag 9.8" – Forest Green Plush | Jellyaora](https://www.jellyaora.com/products/classic-evergreen-fluff-bk-jelly-bag): Evergreen fluffy plush jelly handbag, 9.8 inch. Deep forest green, cozy texture. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-19T19:38:06Z
+  Updated: 2026-10-24T01:54:47Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/jellycatbirkinbagClassicEvergreenFluffJellyBag9_2.jpg?v=1788939703
   Price: $115.99 USD
 - [Bright Orange Jelly Bag 7" & 9.8" – Bold Plush | Jellyaora](https://www.jellyaora.com/products/classic-bright-orange-jelly-bag-7-9-8-inch): Bright orange plush jellycat birkin handbag in 7" and 9.8". Bold statement color, soft feel. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-22T11:14:21Z
+  Updated: 2026-10-26T08:13:06Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -197,7 +197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-bright-orange-jelly-bag-798-inch-8540699.jpg?v=1783647864
     Price: $105.99 USD
 - [Garnet Jelly Birkin Bag 7" & 9.8" – Deep Red Plush | Jellyaora](https://www.jellyaora.com/products/classic-garnet-jelly-bk-bag-7-9-8-inch): Garnet red plush Birkin-style handbag in 7" and 9.8". Deep jewel tone, plush finish. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-22T11:14:22Z
+  Updated: 2026-10-26T15:39:40Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -209,7 +209,7 @@
     Availability: Not Available
     Price: $115.99 USD
 - [Aqua Mist Jellycat Birkin Bag 7" & 9.8" – Plush | Jellyaora](https://www.jellyaora.com/products/classic-aqua-mist-bk-jelly-bag-7-9-8-inch): Aqua mist blue plush Birkin-style bag in 7" and 9.8". Fresh pastel, soft texture. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-20T23:20:43Z
+  Updated: 2026-10-24T01:54:45Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -223,7 +223,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-aqua-mist-jellycat-birkin-bag-798-inch-8870587.jpg?v=1783730783
     Price: $105.99 USD
 - [Blue Jelly Birkin Bag 7" & 9.8" – Classic Plush | Jellyaora](https://www.jellyaora.com/products/classic-blue-bk-jelly-bag-7-9-8-inch): Classic blue plush Birkin-style jelly bag in 7" and 9.8". Everyday color, soft build. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-18T17:19:37Z
+  Updated: 2026-10-26T08:54:41Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -243,7 +243,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/Mocha_Pop_Jellycat_birkin_Bag_9_1.webp?v=1787892612
   Price: $115.99 USD
 - [Cocoa Brown Fleece Jelly Bag 8.6" – Rich Plush | Jellyaora](https://www.jellyaora.com/products/classic-cocoa-brown-fleece-jelly-bag-8-6-inch): Cocoa brown fleece plush jelly handbag, 8.6 inch. Compact size, structured shape. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-09T06:07:24Z
+  Updated: 2026-10-30T18:36:08Z
   Vendor: jellyaora
   Product Type: 
   Availability: Available
@@ -269,14 +269,14 @@
     Availability: Available
     Price: $235.99 USD
 - [Christmas Tree Kelly Bag 8.6" – Festive Plush | Jellyaora](https://www.jellyaora.com/products/classic-christmas-tree-bk-jelly-bag): Christmas tree print plush Kelly-style bag, 8.6 inch. Festive holiday accessory. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-19T17:18:46Z
+  Updated: 2026-10-30T19:51:35Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-christmas-tree-kelly-bag-86-inch-8338968.jpg?v=1778914276
   Price: $135.99 USD
 - [Fantasy Kelly Bag 8.6" – Dreamy Plush Designer | Jellyaora](https://www.jellyaora.com/products/classic-fantasy-bk-jelly-bag): Fantasy print plush Kelly-style handbag, 8.6 inch. Dreamy pattern, soft texture. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-30T16:47:49Z
+  Updated: 2026-10-30T22:00:57Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -297,14 +297,14 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/classic-khaki-denim-kelly-bag-86-inch-9097386.jpg?v=1778914276
   Price: $125.99 USD
 - [Blue Fluff Mini Lindy Bag 7.5" – Soft Plush | Jellyaora](https://www.jellyaora.com/products/blue-fluff-mini-lindy-bag-7-5-inch): Blue fluffy plush mini Lindy-style handbag, 7.5 inch. Compact and ultra-soft. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:01:45Z
+  Updated: 2026-10-30T18:38:14Z
   Vendor: Jellyaora
   Product Type: Lindy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/blue-fluff-mini-lindy-bag-75-inch-1131828.jpg?v=1778914272
   Price: $195.99 USD
 - [Bartholomew Bear Mini Lindy Bag 7.5" – Cozy Plush | Jellyaora](https://www.jellyaora.com/products/barca-cubs-mini-lindy-bag-7-5-inch): Teddy bear plush mini Lindy-style handbag, 7.5 inch. Cuddly design, real function. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-19T03:06:36Z
+  Updated: 2026-10-29T09:20:46Z
   Vendor: Jellyaora
   Product Type: Lindy
   Availability: Available
@@ -323,7 +323,7 @@
     Availability: Available
     Price: $208.99 USD
 - [Hawaiian Blue Garden Tote Bag- Lightweight Everyday Bag | Jellyaora](https://www.jellyaora.com/products/hawaiian-blue-garden-totes-bag): Hawaiian blue print woven garden tote in S and L. Tropical style for sunny days. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-02T06:57:15Z
+  Updated: 2026-10-30T19:46:26Z
   Vendor: Jellyaora
   Product Type: Garden Totes
   Availability: Available
@@ -335,7 +335,7 @@
     Availability: Available
     Price: $208.99 USD
 - [Disco Ball Jelly Birkin Bag 9.8" – Sparkle Plush | Jellyaora](https://www.jellyaora.com/products/classic-disco-ball-bk-jelly-bag-9-8-inch): Disco ball sequin jelly Birkin-style bag, 9.8 inch. Sparkling party statement. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-04T08:17:36Z
+  Updated: 2026-10-30T15:13:02Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -349,21 +349,21 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/pink-fluff-mini-lindy-bag-75-inch-9551132.jpg?v=1778914271
   Price: $195.99 USD
 - [Green Fluff Mini Lindy Bag 7.5" – Fresh Plush | Jellyaora](https://www.jellyaora.com/products/green-fluff-mini-lindy-bag-7-5-inch): Green fluffy plush mini Lindy-style handbag, 7.5 inch. Fresh tone, cozy texture. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:21:30Z
+  Updated: 2026-10-30T18:36:06Z
   Vendor: Jellyaora
   Product Type: Lindy
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/green-fluff-mini-lindy-bag-75-inch-8265195.jpg?v=1778914268
   Price: $195.99 USD
 - [Black Evening Clutch Bag – Women's Party Crossbody | Jellyaora](https://www.jellyaora.com/products/classic-black-chain-crossbody-evening-bags-for-women-party-clutch): Black chain crossbody evening clutch for women. Party-ready with detachable chain. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-09T06:07:20Z
+  Updated: 2026-10-30T19:02:52Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/black-evening-bags-for-women-party-clutch-2793036.jpg?v=1778914269
   Price: $105.99 USD
 - [Red Evening Clutch Bag – Women's Party Crossbody | Jellyaora](https://www.jellyaora.com/products/classic-red-chain-crossbody-evening-bags-for-women-party-clutch): Red chain crossbody evening clutch for women. Bold party tone, detachable chain. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-09T06:07:20Z
+  Updated: 2026-10-30T20:01:25Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -384,7 +384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/starlume-fluff-mini-lindy-bag-75-inch-1032042.jpg?v=1778914269
   Price: $195.99 USD
 - [Little Miss Fortune BK Bag 9.8" – Viral & Unique Design | Jellyaora](https://www.jellyaora.com/products/little-miss-fortune-bk-jelly-bag-9-8-inch): Little Miss Fortune Jellycat birkin-style handbag, 9.8 inch. The cutest bag online that everyone stops to ask about.Free shipping $80+,  30-day returns.
-  Updated: 2026-09-13T12:55:22Z
+  Updated: 2026-10-24T02:52:14Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -396,7 +396,7 @@
     Availability: Not Available
     Price: $135.99 USD
 - [Tangerine Custard BK Bag – Most gifted bag this season | Jellyaora](https://www.jellyaora.com/products/classic-tangerine-leather-bk-bag): Tangerine orange Jellycat Birkin-style  handbag with leather-look trim accents. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-15T04:23:16Z
+  Updated: 2026-10-26T08:54:32Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -422,7 +422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/jellcat_birkin_Classic_strawberry_Leather_BK_Bag_1.webp?v=1788576679
     Price: $155.99 USD
 - [Chocolate Leather Birkin Bag 7" & 9.8" – Rich | Jellyaora](https://www.jellyaora.com/products/classic-chocolate-leather-bk-bag): Chocolate brown faux leather Birkin-style handbag. Rich neutral, everyday shape. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-15T04:23:16Z
+  Updated: 2026-10-30T22:01:01Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -482,7 +482,7 @@
     Availability: Available
     Price: $208.99 USD
 - [Starry Sky Denim Mini Lindy Bag 7.5" – Dreamy | Jellyaora](https://www.jellyaora.com/products/starry-sky-denim-mini-lindy-bag-7-5-inch): Starry sky print denim mini Lindy-style bag, 7.5 inch. Dreamy denim, compact. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-09T06:07:18Z
+  Updated: 2026-10-30T20:01:24Z
   Vendor: Jellyaora
   Product Type: Lindy
   Availability: Available
@@ -501,7 +501,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Red Roses Tweed Hobo Bag S & L – Floral Fashion | Jellyaora](https://www.jellyaora.com/products/red-roses-hobo-bag): Red roses tweed hobo shoulder bag in S and L. Floral pattern, relaxed silhouette. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:45:21Z
+  Updated: 2026-10-30T19:51:42Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -513,7 +513,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Retro Green Tweed Hobo Bag S & L – Vintage | Jellyaora](https://www.jellyaora.com/products/retro-green-hobo-bag): Retro green tweed hobo shoulder bag in S and L. Vintage tone, slouchy carry. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:54:11Z
+  Updated: 2026-10-30T19:55:17Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Cherry Purple Tweed Hobo Bag S & L – Bold | Jellyaora](https://www.jellyaora.com/products/cherry-tweed-hobo-bag): Cherry purple tweed hobo shoulder bag in S and L. Bold tone, vintage-chic weave. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:15:52Z
+  Updated: 2026-10-30T18:38:24Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -537,7 +537,7 @@
     Availability: Not Available
     Price: $228.99 USD
 - [Khaki Tweed Hobo Bag S & L – Casual Chic | Jellyaora](https://www.jellyaora.com/products/khaki-hobo-bag): Khaki tweed hobo shoulder bag in S and L. Neutral tone, relaxed everyday shape. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:14:36Z
+  Updated: 2026-10-30T19:51:46Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -549,7 +549,7 @@
     Availability: Available
     Price: $228.99 USD
 - [Starry Sky Denim Hobo Bag S & L – Dreamy Denim | Jellyaora](https://www.jellyaora.com/products/starry-sky-denim-hobo-bag): Starry sky print denim hobo shoulder bag in S and L. Dreamy print, boho shape. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T18:47:28Z
+  Updated: 2026-10-30T18:38:27Z
   Vendor: Jellyaora
   Product Type: Hobo Bag
   Availability: Available
@@ -568,14 +568,14 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/pink-hawaiian-straw-birkin-bag-98-inch-3210025.jpg?v=1780333466
   Price: $205.99 USD
 - [Pink Hawaiian Straw Garden Tote 9" – Summer | Jellyaora](https://www.jellyaora.com/products/pink-hawaiian-straw-garden-totes): Pink Hawaiian print woven straw garden tote, 9 inch. Lightweight and vacation-ready. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-09-01T19:11:46Z
+  Updated: 2026-10-30T19:01:49Z
   Vendor: Jellyaora
   Product Type: Garden Totes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/pink-hawaiian-straw-garden-totes-9-inch-5184235.jpg?v=1780333464
   Price: $205.99 USD
 - [Pink Hawaiian Straw Kelly Bag 8.6" – Tropical | Jellyaora](https://www.jellyaora.com/products/pink-hawaiian-straw-kelly-bag-8-6-inch): Pink Hawaiian print woven straw Kelly-style bag, 8.6 inch. Summer woven elegance. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-15T17:31:58Z
+  Updated: 2026-10-26T21:05:30Z
   Vendor: Jellyaora
   Product Type: Kelly Bag
   Availability: Available
@@ -596,7 +596,7 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/Black_Fleece_Kelly_Bag_8.6-inch_-_jellyaora_2.jpg?v=1788173607
   Price: $115.99 USD
 - [Praline Fleece Kelly Bag 8.6" – Warm Plush Style | Jellyaora](https://www.jellyaora.com/products/classic-praline-fleece-kelly-bag-8-6-inch): Praline brown fleece Kelly-style plush handbag, 8.6 inch, with eco-leather trim. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-13T21:54:24Z
+  Updated: 2026-10-30T19:07:54Z
   Vendor: Jellyaora
   Product Type: Kelly Bag
   Availability: Available
@@ -743,14 +743,14 @@
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/jellcatbirkinClassicPeachCustardBKBag_1.webp?v=1788579477
   Price: $155.99 USD
 - [Black Polka Dot BK Bag – 6,800+ Women Can't Put It Down | Jellyaora](https://www.jellyaora.com/products/classic-black-polka-dot-bk-bag): Black patent BK-style plush handbag with white polka dots and silver hardware. Free shipping $80+, worldwide delivery, 30-day returns.
-  Updated: 2026-10-15T04:20:59Z
+  Updated: 2026-10-23T15:20:26Z
   Vendor: Jellyaora
   Product Type: Birkin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/jellycatbirkinClassicBlackPolkaDotBKBag_2.jpg?v=1788940344
   Price: $135.99 USD
 - [Gift Box Add-On – A Little Extra Love 🎁](https://www.jellyaora.com/products/gift-box-add-on-a-little-extra-love-🎁): A little extra love, beautifully wrapped. 🎀 Giving a Jellyaora bag as a gift? Make it even more special with our gift box. Thoughtfully packaged with delicate wrapping, soft paper filling, and a sweet finishing touch. Because sometimes, the packaging is part of the surprise. Perfect for birthdays, holidays, anniversaries, or simply making someone's day. What's Included: Gift box with decorative paper filling Ribbon wrapping A little gift card for a personal touch Please Note: This is a gift packaging add-on only. Bags are sold separately.
-  Updated: 2026-10-22T23:00:19Z
+  Updated: 2026-10-30T15:13:03Z
   Vendor: Jellyaora
   Product Type: 
   Availability: Available
@@ -791,56 +791,70 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/ClassicOliveLeatherBKBag_1.jpg?v=1792485696
   Price: $135.99 USD
+- [Navy Plaid Plush Smiley Bag, 7 & 9.8 Inch | Jellyaora](https://www.jellyaora.com/products/classic-otter-pattern-plush-bag-7-9-8-inches): Meet Jellyaora's navy and beige plaid plush bag with a smiley face, brown handles and plush feet. Choose 7-inch or 9.8-inch for cozy everyday style and gifting.
+  Updated: 2026-10-30T16:25:37Z
+  Vendor: Jellyaora
+  Product Type: Birkin
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/ClassicOtter-PatternPlushBag_79.8inches_6.jpg?v=1793244484
+  - [7-inch](https://www.jellyaora.com/products/classic-otter-pattern-plush-bag-7-9-8-inches?variant=68333072023775)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/ClassicOtter-PatternPlushBag_79.8inches_3.jpg?v=1793244484
+    Price: $125.00 USD
+  - [9.8-inch](https://www.jellyaora.com/products/classic-otter-pattern-plush-bag-7-9-8-inches?variant=68333072056543)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0782/2157/4367/files/ClassicOtter-PatternPlushBag_79.8inches_6.jpg?v=1793244484
+    Price: $155.00 USD
 
 ## Collections
 
 - [BAGS](https://www.jellyaora.com/collections/bags): Shop Jellyaora jellycat bags and plush handbags in soft fleece, denim and playful statement styles. Discover BK, Kelly, Lindy, tote and mini Jellykin bags made to be carried, collected and loved.
-  Updated: 2026-10-22T11:24:26Z
-  Total Products: 65
+  Updated: 2026-10-30T11:19:42Z
+  Total Products: 66
 - [AVADA - Best Sellers](https://www.jellyaora.com/collections/avada-best-sellers)
-  Updated: 2026-10-22T11:24:26Z
-  Total Products: 84
+  Updated: 2026-10-30T11:19:42Z
+  Total Products: 85
 - [Best Sellers](https://www.jellyaora.com/collections/best-sellers): Jellyaora's best- jellycat birkin bags — rated 4.8/5 by 2,478+ collectors. BK, Kelly & Lindy styles from $85.99. Free shipping $80+, 30-day returns.
-  Updated: 2026-10-22T11:24:26Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 21
 - [BK Jelly Bags](https://www.jellyaora.com/collections/bk-plush-bags): Shop Jellycat Birkin Bags — Birkin-inspired ultra-soft plush Jellykin in 7-inch and 9.8-inch. 15+ colors from $85.99. Free US shipping on eligible orders.
-  Updated: 2026-10-22T11:24:26Z
-  Total Products: 30
+  Updated: 2026-10-30T11:19:42Z
+  Total Products: 31
 - [Kelly Bags](https://www.jellyaora.com/collections/kelly-plush-bags): Shop Jellyaora Kelly Bags — 8.6-inch plush bags in fleece, denim, and seasonal prints. Soft, structured, and iconic. Ships in 3–7 business days.
-  Updated: 2026-10-22T11:24:26Z
+  Updated: 2026-10-28T11:19:09Z
   Total Products: 14
 - [Lindy Bags](https://www.jellyaora.com/collections/lindy-plush-bags): Shop Jellyaora Lindy Bags — 7.5-inch mini plush bags with double-handle silhouette. Collectible fluff bags, ultra-soft fleece. Ships in 3–7 business days.
-  Updated: 2026-09-19T11:22:43Z
+  Updated: 2026-10-29T11:19:38Z
   Total Products: 8
 - [Cute Special Bags](https://www.jellyaora.com/collections/cute-special-bags): Shop Jellyaora Cute Special Bags — limited-edition novelty bags including Disco Ball, Starlume, and seasonal drops. Collectible styles that  out fast.
-  Updated: 2026-10-22T11:24:26Z
+  Updated: 2026-10-24T11:23:07Z
   Total Products: 10
 - [New Arrivals](https://www.jellyaora.com/collections/new-arrivals): Shop Jellyaora New Arrivals — the latest plush bag styles, fresh colorways, and limited-edition drops. Updated regularly. Ships in 3–7 business days.
-  Updated: 2026-10-20T11:21:04Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 27
 - [Garden Tote Bags](https://www.jellyaora.com/collections/garden-tote-bags): Shop Jellyaora Garden Tote Bags — woven floral totes in Small and Large. Botanical prints, relaxed silhouette, perfect for summer. From $225.99 USD.
-  Updated: 2026-10-13T11:22:35Z
+  Updated: 2026-10-23T11:24:15Z
   Total Products: 15
 - [Summer Best Sellers](https://www.jellyaora.com/collections/summer-best-seller): Shop lightweight jelly birkin bags built for summer — beach days, festivals, and vacation looks in candy pastels. Free shipping over $80.
-  Updated: 2026-10-21T11:23:37Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 10
 - [Hobo Bags](https://www.jellyaora.com/collections/hobo-bags): Shop Jellyaora Hobo Bags — soft slouchy plush bags with relaxed silhouette. Spacious, effortless style for everyday carry. Ships in 3–7 business days.
-  Updated: 2026-07-08T20:27:19Z
+  Updated: 2026-10-26T11:24:34Z
   Total Products: 6
 - [Soft & Snuggly](https://www.jellyaora.com/collections/plush-fluffy-handbags): Meet your new cozy favorite. Shop plush handbags, fluffy purses and soft statement bags made to bring a little joy to your everyday outfits.
-  Updated: 2026-10-22T11:24:26Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 11
 - [Cute & Chic](https://www.jellyaora.com/collections/cute-mini-handbags-purses): Discover cute handbags with a polished twist. Explore mini purses, structured styles and playful bags for everyday outfits and special plans.
-  Updated: 2026-10-20T11:21:04Z
+  Updated: 2026-10-29T11:19:38Z
   Total Products: 17
 - [Laid-Back & Easy](https://www.jellyaora.com/collections/casual-tote-shoulder-bags): Find your easy everyday bag. Explore denim totes, relaxed shoulder bags and versatile handbags for coffee runs, travel days and casual outfits.
-  Updated: 2026-10-13T11:22:35Z
+  Updated: 2026-10-26T11:24:34Z
   Total Products: 17
 - [Bold & Playful](https://www.jellyaora.com/collections/unique-statement-bags): Stand out your way with playful handbags, bold colors and unexpected shapes. Shop unique statement bags, novelty purses and eye-catching styles.
-  Updated: 2026-10-18T11:21:35Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 6
 - [Gifts to Make Her Smile](https://www.jellyaora.com/collections/handbag-gifts-for-her): Looking for a gift she'll love? Explore cute handbags, plush purses and unique bags for birthdays, holidays and thoughtful just-because surprises.
-  Updated: 2026-10-22T11:24:26Z
+  Updated: 2026-10-30T11:19:42Z
   Total Products: 12
 
 ## Blogs
@@ -912,7 +926,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.jellyaora.com/policies/privacy-policy)
-  Updated: 2025-11-10T10:30:35Z
+  Updated: 2026-10-31T00:11:06Z
 - [Shipping Policy](https://www.jellyaora.com/policies/shipping-policy)
   Updated: 2025-11-13T07:26:21Z
 - [Refund Policy](https://www.jellyaora.com/policies/refund-policy)
