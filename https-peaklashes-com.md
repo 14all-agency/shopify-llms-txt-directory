@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-11-06T13:44:58Z
 - Contact Email: info@peaklashes.com
-- Updated At: 2026-10-23T00:56:44.417Z
+- Updated At: 2026-10-31T00:20:31.421Z
 
 ## Products
 
@@ -324,14 +324,14 @@
     Availability: Available
     Price: $28.29 USD
 - [Wash and Wink - Eyelash Shampoo + Conditioner](https://peaklashes.com/products/wash-and-wink-eyelash-shampoo-conditioner-1): New Formula now with Conditioner and Foaming, GladGirl® Wash and Wink™ is a specially formulated, botanically infused oil-free cleanser designed to clean and condition your eyelashes. Super gentle, the cleanser is safe for daily use around the eye area, including on lashes with or without extensions. Hydrolyzed silk proteins ensure superior conditioning. Keep your lashes clean and healthy without irritating, harming, or reducing eyelash extension bonds. GladGirl® Wash and Wink™ are the perfect aftercare solution to help your customers maintain their beautiful new lashes.
-  Updated: 2026-10-20T23:01:06Z
+  Updated: 2026-10-30T16:49:57Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Wash_and_Wink_-_Eyelash_Shampoo_Conditioner_3a84b4e8-8e09-42c7-8f4c-29d5c357e3be.jpg?v=1783457057
   Price: $22.99 USD
 - [Lashe EnMasse Mascara for Eyelash Extensions](https://peaklashes.com/products/lashe-enmasse-mascara-for-eyelash-extensions-1): Made in the U.S.A, the GladGirl® Lashe En Masse Mascara has arrived to coat and protect your lashes with love. Specially formulated for use on eyelash extensions or without, the dual-brush wand is perfect for achieving different lash looks. The oil-free formula offers a great coverage with a smooth, smudge-less finish. Wave our dual wand and make mascara magic!
-  Updated: 2026-10-20T21:02:17Z
+  Updated: 2026-10-29T16:29:16Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -352,7 +352,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---For-Your-Lashes-Only.jpg?v=1783457056
   Price: $8.99 USD
 - [3D Contoured Black Satin Eyelash Extension Sleep Mask](https://peaklashes.com/products/3d-contoured-black-satin-eyelash-extension-sleep-mask-1): Soft, breathable, light weight material with deep contoured mold our 3D sleep masks are designed to protect eyelash extensions up to 20mm in length while offering a deeper sleep with complete light blocking technology. These super smooth and soft masks are ideal for bed, long-haul flights, hotel stays, car rides, or to just get away from it all during mediation. Equipped with an elastic Velcro band to ensure the perfect fit, the satin masks are great gifts for clients or as a super cute party favor for bridal or bachelorette parties. Your eyes deserve as much pampering as the rest of you, so slide the 3D Contoured Glad Lash Satin Sleep Mask over those lashes and get comfortable.
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-28T03:22:17Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -366,7 +366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/febuary-false-lash.jpg?v=1783457057
   Price: $8.99 USD
 - [3D Contoured Pink Satin Eyelash Extension Sleep Mask](https://peaklashes.com/products/3d-contoured-pink-satin-eyelash-extension-sleep-mask-1): Soft, breathable, light weight material with deep contoured mold our 3D sleep masks are designed to protect eyelash extensions up to 20mm in length while offering a deeper sleep with complete light blocking technology. These super smooth and soft masks are ideal for bed, long-haul flights, hotel stays, car rides, or to just get away from it all during mediation. Equipped with an elastic Velcro band to ensure the perfect fit, the satin masks are great gifts for clients or as a super cute party favor for bridal or bachelorette parties. Your eyes deserve as much pampering as the rest of you, so slide the 3D Contoured Glad Lash Satin Sleep Mask over those lashes and get comfortable.
-  Updated: 2026-10-19T19:23:55Z
+  Updated: 2026-10-29T13:37:16Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -380,7 +380,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/December-false-lashes_0d2258e8-99b4-40cd-b091-db962087c33e.jpg?v=1783457057
   Price: $8.99 USD
 - [Blending Crease Eyeshadow Brush](https://peaklashes.com/products/blending-crease-eyeshadow-brush): Blend your eyeshadow flawlessly and with minimal effort using the Blending Crease Eyeshadow Brush by GladGirl®. The narrow, tapered head of this crease brush is designed to work in the crease of the eye as well as on the upper and lower lash line for flawless, precise makeup application. It allows for depositing delicate, buildable color for an eye-catching look, that’ll have every head turning, and every make-up lover asking what your secrets are! Shhh - keep those blending skills top secret with GladGirl® Blending Crease Eyeshadow Brush.
-  Updated: 2026-10-17T22:26:12Z
+  Updated: 2026-10-27T08:10:39Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -394,7 +394,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---June.jpg?v=1783457057
   Price: $8.99 USD
 - [Flat Eyeshadow Brush](https://peaklashes.com/products/flat-eyeshadow-brush): The Best Flat Eyeshadow Brush for Precise Packing and All-Over Color Create endless eyeshadow looks with the flick of a wrist using the GladGirl® Flat Eyeshadow Brush. Designed for ultimate versatility, this go-to tool works seamlessly with both wet and dry formulas, making it the only flat shader brush you’ll ever need in your kit. Whether you are looking for a sheer wash of color or an intensely dramatic finish, the high-quality nylon bristles pick up the perfect amount of product for every application. This multi-functional eyeshadow packing brush is essential for building pigment intensity directly on the lid. Because of its shape and density, it also serves as a professional-grade shading brush for eyes, making it equally effective for all-over color, detailed shading, and targeted highlighting. If you’ve been searching for the best flat eyeshadow brush to act as your primary eyeshadow lid brush, this is it. Pro Tip: Want to really make a pigment pop? Simply dampen the brush before dipping into your favorite colors for a foiled, high-impact finish.
-  Updated: 2026-10-17T22:26:12Z
+  Updated: 2026-10-27T08:10:43Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -408,7 +408,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---Accent.jpg?v=1783457057
   Price: $5.99 USD
 - [Lash Lock® Latex Free Falsie and DIY Lash Glue](https://peaklashes.com/products/lash-lock®-latex-free-falsie-and-diy-lash-glue-1): When you want Strip or Flare Lashes, GladGirl® Lash Lock® Latex Free Adhesive, available in black and clear, will keep those lashes in place while you’re on the go! Waterproof and sweat-resistant, Lash Lock® is latex-free and offers an impressive 24-hour hold for even the most active of lash lovers. Equipped with a convenient brush-on applicator for a no-mess application, the black and clear eyelash glue is flexible for comfort and non-irritating. Low fume and safe for contact lens wearers as well as those with sensitive and dry eyes. Lash Lock® is also super easy to remove with absolutely no remover needed! Perfect for creating the look you crave. Seal that lash look with ease. Lock those lashes and go! *Clear glue starts white and dries clear.
-  Updated: 2026-10-20T21:08:06Z
+  Updated: 2026-10-28T07:06:37Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -443,7 +443,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---April.jpg?v=1783457057
   Price: $8.99 USD
 - [GladGirl False Lash Kit - Strip Bare](https://peaklashes.com/products/gladgirl-false-lash-kit-strip-bare): For those eyes needing a delicate and light lift give them a rise with our patented sunburst effect. Constructed on an invisible barely there band these lashes alternate in clusters from 7mm lengths (B Curl) to 14mm lengths (C Curl). Includes: GladGirl® Strip & Flare Lash Glue Lash Lock® (*This adhesive contains latex so be sure to check for latex sensitivity before use*) Plastic applicator Packaging: 5 GladGirl® box styles available - shipped randomly.
-  Updated: 2026-10-17T22:26:09Z
+  Updated: 2026-10-23T05:46:47Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -527,7 +527,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---From-Russia-with-Lashes.jpg?v=1783457057
   Price: $8.99 USD
 - [GladGirl Liquid Eyeliner](https://peaklashes.com/products/gladgirl-liquid-eyeliner-1): GladGirl Liquid Eyeliner - Chocolate, Ebony, Espresso, Blue For a precisely defined line, use the fast-drying, water and smudge-proof Liquid Liner by GladGirl® available in Chocolate, Ebony, Espresso and Midnight Blue liquid eyeliner. Now with a new look, our eyeliner is formulated for use with eyelash extensions, the liners offer a wider felt tip for a boldly accurate application. The precision felt tip (0.4 mm) glides on effortlessly leaving long lasting color that won't spread into your lashes or lid. *This liquid eyeliner is waterproof
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-27T08:10:45Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -549,7 +549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/MidnightBlueLiquidLinerwithcopy_76ce8af2-1976-4ec9-92a4-017ded3188d9.jpg?v=1783457064
     Price: $6.99 USD
 - [ Lashes - Red](https://peaklashes.com/products/-lashes-red-1): These color lash trays are offered in lengths: short and medium. These lashes can be bonded with GladGirl® Latex Free Strip Lash Glue for a 7-10 day hold or any of our 5 Star Series Adhesives for an approximate 1-2 week hold. Application is speedy and the more you buy, the more you save per tray. For a more natural look, combine lengths with under, shorts and mediums. Lash out like a star!
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-23T05:28:40Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -563,7 +563,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/flare_medium_red_1_173fc474-4632-4f96-8fc7-f28a945d6b8f.jpg?v=1783457064
     Price: $10.99 USD
 - [ Lashes - Purple](https://peaklashes.com/products/-lashes-purple-1): These color lash trays are offered in lengths: short and medium. These lashes can be bonded with GladGirl® Latex Free Strip Lash Glue for a 7-10 day hold or any of our 5 Star Series Adhesives for an approximate 1-2 week hold. Application is speedy and the more you buy, the more you save per tray. For a more natural look, combine lengths with under, shorts and mediums. Lash out like a star!
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-24T15:46:46Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -577,7 +577,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/flare_medium_purple_1_1812a135-3d87-462a-931e-3336e0306bd4.jpg?v=1783457064
     Price: $10.99 USD
 - [GladGirl Be Eye Beautiful - Retractable Eyeliner Pencil](https://peaklashes.com/products/gladgirl-be-eye-beautiful-retractable-eyeliner-pencil-1): Elevate Your Look with the Best Retractable Eyeliner for Extensions Introducing the Be Eye Beautiful Retractable Eyeliner Pencil, meticulously crafted to deliver the precision of a liquid liner with the ease of a gel retractable eyeliner pencil. This high-performance formula glides on effortlessly, providing rich, high-pigment color that defines your eyes with professional-grade accuracy. Whether you are looking for a retractable eyeliner for the waterline or a bold, sultry cat-eye, our slim-tip design allows for versatile application. Specifically formulated to be 100% compatible with eyelash extensions, this waterproof retractable eyeliner ensures your look stays locked in without compromising your lash adhesive. Embrace your inner GladGirl® or GladGuy and experience a smudge-proof eyeliner pencil that keeps up with your busiest days. Waterproof Gel Retractable Eyeliner Pencil Key Features: Precision Gel Formula: The ultra-fine tip of this gel retractable eyeliner pencil allows for meticulous control, enabling both subtle tight-lining and dramatic wings. Safe for Waterline: Designed for comfort and longevity, it is the perfect retractable eyeliner for the waterline, staying vibrant without irritating sensitive eyes. Smudge-Proof & Waterproof: Our waterproof retractable eyeliner formula is engineered to withstand sweat, humidity, and tears. Enjoy a smudge-proof eyeliner pencil that won’t fade or crease from morning to night. Extension-Friendly & Oil-Free: Unlike many liners that break down lash glue, our formula is specially designed to maintain the integrity of your eyelash extensions. Hassle-Free Removal: While it is the best retractable eyeliner for long-wear, it can be gently removed with standard extension-safe makeup removers, keeping your nightly routine quick and easy. How to Use the Best Retractable Eyeliner Pencil: Prepare: Ensure your eyelids are clean and free from excess oils. Apply: Starting from the inner corner, use the fine tip to draw a line along your upper lash line. For a "tightlined" look, apply the retractable eyeliner to the waterline to make your lashes appear even fuller. Blend: For a soft, smoky effect, gently smudge the line immediately after application before the waterproof formula sets. Remove: At the end of the day, use an oil-free makeup remover to gently cleanse the area without rubbing your eyelash extensions. Why choose Be Eye Beautiful? When searching for the best retractable eyeliner, you need a product that offers both durability and safety. Our unique formula provides the creamy "glide" of a gel with the stay-put power of a professional waterproof liner.
-  Updated: 2026-10-19T16:32:28Z
+  Updated: 2026-10-27T19:58:56Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -602,7 +602,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl_False_Lashes_Bundle_-_November-Lashes.jpg?v=1783457064
   Price: $8.99 USD
 - [Knot Free Cluster Lashes](https://peaklashes.com/products/knot-free-cluster-lashes-1): Introducing GladGirl® Knot Free Flare Cluster Lashes – the perfect choice for both DIY beauty enthusiasts and professional makeup artists. With a legacy of crafting exceptional lashes since the 1980s, our unique design stands out in the beauty industry. Made from the highest quality synthetic fibers, these cluster lashes offer a stunning, natural look that enhances any eye with their extreme flare and curl. Ideal for special events or everyday wear, GladGirl® Knot Free Flare Cluster Lashes can be easily applied at home or by a professional. For a quick DIY application, use our GladGirl® Lash Lock Glue, available with or without latex, for a secure hold lasting 7-10 days. For a longer-lasting effect, our GladGirl® 5 Star Pro Sensitive Adhesive provides a hold of up to 1-2 weeks. Whether you're prepping for a big event or offering lash services to your clients, these cluster lashes deliver maximum impact and satisfaction. Elevate your lash game with GladGirl® Knot Free Flare Cluster Lashes – the top choice for achieving full, luscious eyelashes. Shop now and experience the GladGirl® difference.
-  Updated: 2026-10-20T23:54:17Z
+  Updated: 2026-10-28T17:30:06Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -640,7 +640,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Mixed-Length-Knot-Free-14-Hair-cropped_75dec801-07e8-4f59-ba09-a75ac2a2f7b9.jpg?v=1783457065
     Price: $10.99 USD
 - [GladGirl False Lash Kit - Top Model](https://peaklashes.com/products/gladgirl-false-lash-kit-top-model): The runway waits! Get a top model look with these striking lashes. Evenly placed cluster groups of lashes on an invisible band offer longer lashes on the outer corner to shorter lashes on the inner corners, creating a truly dazzling look. This style comes in short (10-12mm), medium (12-14mm), and long (14-16mm). Includes: GladGirl® Strip & Flare Lash Glue Lash Lock® (*This adhesive contains latex, so be sure to check for latex sensitivity before use*) Plastic applicator Packaging: 5 GladGirl® box styles available - shipped randomly.
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-23T05:56:36Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -708,7 +708,7 @@
     Availability: Available
     Price: $10.99 USD
 - [GladGirl Waterproof Gel Eyeliner](https://peaklashes.com/products/gladgirl-eyeliner-1): Best Waterproof Gel Eyeliner for Winged & Cat Eye Looks Elevate your makeup artistry with GladGirl®—widely recognized as the Best Eyeliner choice for lash extension enthusiasts and professional stylists alike. Our newly redesigned Gel Eyeliner provides a high-pigment, creamy application that enhances your natural beauty without breaking your wallet. Designed for ultimate versatility, this retractable pencil allows you to achieve a flawless, sharp Winged Eyeliner or a bold, sultry Cat Eye Eyeliner with the same crisp definition and precision you’d expect from a high-end Liquid Eyeliner. Because it is a true Waterproof Eyeliner, it offers all-day resilience against smudging, sweat, and fading, ensuring your look stays locked in from morning to night. It is the ultimate professional tool for Tightlining Eyeliner applications, safely defining the waterline while remaining 100% oil-free and extension-safe. Whether you prefer a dramatic, classic black or a softer, more natural Brown Eyeliner for everyday wear, our formula delivers effortless glide and stay-put power. At GladGirl®, we believe in beauty without compromise. Our updated formula is proudly Vegan and Not Tested on Animals, making it a guilt-free staple for your vanity. Each pencil comes in premium retail-ready packaging, making it perfect for salons or personal kits. Format: Professional Gel Retractable Pencil Key Benefit: Eyelash Extension Friendly & Smudge-Proof Ethical Standard: 100% Vegan & Cruelty-Free
-  Updated: 2026-10-17T22:26:13Z
+  Updated: 2026-10-29T16:29:15Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -722,7 +722,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/EbonyLiquidLinerwithcopy_928e86e2-fb99-4c9b-a88e-9a5eab8b1e8b.jpg?v=1783457068
     Price: $18.99 USD
 - [GladGirl 3D False Lash Kit - Gigi](https://peaklashes.com/products/gladgirl-3d-false-lash-kit-gigi): 3D Multi-layered false lashes create a dramatic, full and natural look. Gigi false lashes create that multi-dimensional natural look that are extremely fluffy and light. These beautiful lashes will frame the face for most eye shapes. Band length can be trimmed for a custom fit. Made with Synthetic Silk and reusable up to 15x if properly cared for. Kit includes plastic applicator and GladGirl® Strip & Flare Lash Glue Lash Lock® (*This adhesive contains latex so be sure to check for latex sensitivity before use*) Packaging: 5 GladGirl® box styles available - shipped randomly.
-  Updated: 2026-10-17T22:26:13Z
+  Updated: 2026-10-26T19:01:56Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -771,7 +771,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-False-Lash-Kit---August.jpg?v=1783457072
   Price: $8.99 USD
 - [GladGirl Liquid Liner - Fine Brush Tip](https://peaklashes.com/products/gladgirl-liquid-liner-fine-brush-tip-1): Fine Brush Tip Eyeliner For Natural Beauty Introducing the newly designed GladGirl® Liquid Eyeliner with a fine brush tip, meticulously crafted to deliver precise, defined lines that enhance your eyes' natural beauty. This fast-drying, water- and smudge-proof formula ensures your look remains flawless throughout the day, resisting smudging and fading even in humid conditions. Specifically formulated for use with eyelash extensions, this eyeliner's fine brush tip allows for accurate application, enabling you to create delicate, finely drawn lines effortlessly. The smooth-gliding brush deposits long-lasting color that stays in place, without spreading onto your lashes or lids, ensuring a clean and polished finish. Fine Brush Tip Liner Key Features: Precision Application: The ultra-fine brush tip enables meticulous control, allowing for both subtle and bold lines to suit any makeup style. Extension-Friendly Formula: Specially designed to be compatible with eyelash extensions, this eyeliner ensures no interference with the adhesive bond, maintaining the integrity of your extensions. Long-Lasting Wear: Enjoy all-day confidence with a formula that withstands daily activities, keeping your eyeliner intact from morning to night. Easy Removal: Despite its long-lasting properties, this eyeliner can be gently removed with standard makeup removers, making your nightly routine hassle-free. How to Use Our Liquid Eyeliner: Prepare: Ensure your eyelids are clean and free from oils or makeup residue. Apply: Starting from the inner corner of your eye, use the fine brush tip to draw a line along your upper lash line, adjusting thickness as desired. Dry: Allow a few seconds for the eyeliner to dry completely before opening your eyes fully to prevent any transfer. Remove: At the end of the day, gently remove the eyeliner using a suitable makeup remover, taking care to avoid rubbing your eyelash extensions. Elevate your eye makeup routine with the GladGirl® Liquid Eyeliner, the perfect tool for achieving precise, long-lasting lines that complement your eyelash extensions and enhance your overall look.
-  Updated: 2026-10-17T22:26:09Z
+  Updated: 2026-10-27T08:10:37Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -799,7 +799,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/MainWispyDollEyeMinuteLashA1137.jpg?v=1783457120
   Price: $8.99 USD
 - [ Lashes - Black](https://peaklashes.com/products/-lashes-black-1): Introducing GladGirl®  Lashes – the perfect choice for both DIY beauty enthusiasts and professional makeup artists. With a legacy of crafting exceptional lashes since the 1980s, our unique design stands out in the beauty industry. Made from the highest quality synthetic fibers, these cluster lashes offer a stunning, natural look that enhances any eye with their extreme flare and curl. Ideal for special events or everyday wear, GladGirl®  Lashes can be easily applied at home or by a professional. Featuring clusters with knots, they provide added durability and ease of application. For a quick DIY application, use our GladGirl® Lash Lock Glue, available with or without latex, for a secure hold lasting 7-10 days. Whether you're prepping for a big event or offering lash services to your clients, these cluster lashes deliver maximum impact and satisfaction. Elevate your lash game with GladGirl®  Lashes – the top choice for achieving full, luscious eyelashes. Shop now and experience the GladGirl® difference. Lash out like a star!
-  Updated: 2026-10-18T16:32:38Z
+  Updated: 2026-10-28T01:18:15Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -836,7 +836,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/a3302_2--Flare-Lashes-Ultra-Medium_eb1ca7f0-ef2f-4be4-9f41-9c2731d856c8.jpg?v=1783457121
     Price: $10.99 USD
 - [GLADGIRL 5D FALSE LASH KIT - Betty](https://peaklashes.com/products/gladgirl-5d-false-lash-kit-betty-1): GladGirl brings you the new Drama Queen Falsies Collection with 5 new looks in 5D Extra Long for the pin-up girl in you. Betty Lash Length : 10-25MMTalk about major wispy envy and LENGTH! You get the best of both worlds when it comes to texture, style, spunk and bewitching aspect. Not too short, not too long but just right. Compliment the perfect sharp cat eye look with the Betty by GladGirl. Vegan, reusable up to 20x these handcrafted lash lovelies use the newest innovative fiber for a softer and fluffier real mink look. The lash band is made of the finest superior quality cotton for a comfortable fit each and every time. Includes: GladGirl® Strip & Flare Lash Glue Lash Lock® (*This adhesive contains latex so be sure to check for latex sensitivity before use*) Plastic applicator Packaging: 5 GladGirl® box styles available - shipped randomly. Love Your Lashes.
-  Updated: 2026-10-19T08:52:36Z
+  Updated: 2026-10-25T23:32:16Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
@@ -850,7 +850,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Glam_Goddess_MinuteLash.jpg?v=1783457121
   Price: $8.99 USD
 - [Lash Lock® False & Flare Lash Glue](https://peaklashes.com/products/lash-lock®-false-flare-lash-glue-1): Your Falsies and DIY Cluster lashes will flip over our GladGirl Lash Lock® Eyelash Adhesive! Created with DIY Lash Lovers in mind, this glue will extend the life of your lashes. Instead of a 1 or 2 day lash last, Lash Lock® strip lash glue offers a perfect hold for 3 to 5 days, depending on application skill level. This adhesive comes in both Black and Clear, making it perfect for just about any lash enthusiast. Lashes can be easily removed at any time with our iMake-Up Remover Wipes., ensuring there is no tugging or damage from leftover glue. Lash Lock® glue can be used by both professionals and non-professionals. Create a new experience with Strips and Flares; lock on those lashes! NEW LOOK + SAME FORMULA!! .25 OZ Black and Clear Color Available 3-5 day hold (results may vary) Easy and Quick Application Great for falsies and DIY cluster lashes
-  Updated: 2026-10-21T20:42:21Z
+  Updated: 2026-10-28T15:27:16Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -871,7 +871,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Sadie-false-lash_46d00be8-21d5-4b69-b0d4-71a573f4f6a1.jpg?v=1783457121
   Price: $8.99 USD
 - [Wipe and Wink - Makeup Remover Formulated for Eyelash Extensions](https://peaklashes.com/products/wipe-and-wink-makeup-remover-formulated-for-eyelash-extensions-1): Introducing Wipe and Wink - Makeup Remover, the ultimate solution for lash professionals and makeup lovers alike. Formulated specifically for use with eyelash extensions, this botanically infused makeup remover is a game-changer. Say goodbye to stubborn makeup without worrying about damaging your lashes. Designed with the needs of lash artists in mind, Wipe and Wink easily wipes away makeup without leaving any oily residue. Its gentle yet effective formula ensures a clean canvas for your lash application, allowing you to create stunning looks with ease. Safe for daily use, this professional-grade makeup remover will become an essential part of your beauty routine. Experience the power of Wipe and Wink - Makeup Remover and unlock a world of possibilities for your lashes. Directions for Use: For best results, spray makeup remover onto a lint-free cotton pad or wipe. With closed eyes, gently wipe in a circular motion around the face and eye area. Follow with a gentle water rinse.
-  Updated: 2026-10-17T22:26:08Z
+  Updated: 2026-10-29T18:57:26Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -885,7 +885,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/pearl-false-lash_024e5a01-cab8-4731-96ef-07cb59090a57.jpg?v=1783457121
   Price: $8.99 USD
 - [Gentle Facial Cleansing Gel For All Skin Types](https://peaklashes.com/products/gentle-facial-cleansing-gel-for-all-skin-types): Developed to deliver a luxurious “clean beauty” cleansing experience for all skin types, GladGirl Cleansing Gel is a must-have for your daily routine. Loaded with everything your skin craves for nourishment, this sulfate-free formula is packed with Hyaluronic Acid, Aloe Vera, and Vitamin E. Offering a fresh lime and lychee scent and gently dissolves away dead skin cells, makeup, and dirt, the cleanser effectively moisturizes and balances leaving skin soft and invigorated. Directions: Dispense a small amount to damp hands, and gently massage into face and neck for 30 seconds. Rinse and pat dry. Use twice daily in the morning and evening. Our sulfate-free cleanser means your skin is getting everything it needs free from harsh chemicals, additives, and detergents. Key benefits of a sulfate-free formula: Suitable for all skin types Formulated with vegan and natural ingredients for a gentle yet effective cleanse. Sulfate-free formula means your skin is getting everything it needs free from harsh chemicals, additives, and detergents. Formulated for all skin types to deliver a refreshing cleanse and a revitalized, radiant feel. Infused with Hyaluronic Acid, Aloe Vera, and Vitamin E to nourish the skin and awaken the senses with a clean, revitalizing lime and lychee scent. PETA  cruelty-free and recycled  plastic neutral, ensuring a commitment to ethical and sustainable practices. Founded and majority woman-owned small business in Los Angeles, with a focus on quality and attention to detail for 40+ years and counting. Protects the barrier of the skin and promotes collagen production. Won’t strip skin’s natural oils while fighting acne. Hyaluronic acid (HA) is a naturally occurring glycosaminoglycan which is found throughout the body's connective tissue helping aid overall wellness. In recent years we’ve learned that HA can minimize joint pain, reduce the effects of acid reflux, accelerate wound healing by controlling inflammation, and can even ease dry eyes. This mighty ingredient is also vital for skin health as it locks in moisture, diminishing lines and wrinkles while promoting skin elasticity and boosting collagen production. For those addressing current breakouts or scarring from previous bouts of acne, hyaluronic acid has been proven to reduce topical inflammation and diminish the effects of scarring. Gentle Facial Cleansing Gel For All Skin Types With Natural Botanical Extracts Be Skin Beautiful 8.45oz - 250ml Formulated, Developed, and Manufactured in the USA
-  Updated: 2026-10-17T22:26:06Z
+  Updated: 2026-10-24T20:18:52Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -898,7 +898,7 @@
     Availability: Available
     Price: $3.99 USD
 - [Eyelash Extension GladGirl Glitter](https://peaklashes.com/products/eyelash-extension-gladgirl-glitter-1): Bring on the bling your way with the new GladGirl Glitter. Specifically formulated to be used with eyelash extensions, the glitter is Cosmetic Grade, meaning it meets FDA guidelines and is safe to be used on the skin. The perfect way to reflect your vibe, style, and flare. GladGirl Glitter is ready to help you and your clients make the most of any moment, day or night. Sparkle On, Lash Lovers! Best Eyelash Glitter *Please note: Glitter lashes are typically used to accent a look and are not done as a full set. The cosmetic-grade glitter used to make these beautiful lashes will shed (fall out) slightly during the application process when handling the lashes, and shed over time depending on how hard your client is on their lashes or environmental conditions. After shedding is complete, your client will be left with beautiful extensions. As with any makeup applied to the eyes, including glitter, irritation may occur if the makeup or glitter enters the eyes. Rinse with water or saline if irritation occurs. Consult with a physician if necessary. **Fill Weight: 2g
-  Updated: 2026-10-17T22:26:16Z
+  Updated: 2026-10-29T00:54:52Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -982,7 +982,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Main-CatEye-Hybrid.jpg?v=1783457121
   Price: $8.99 USD
 - [Lash Lock Bond and Seal - Professional Adhesive | Latex Free | Waterproof](https://peaklashes.com/products/lash-lock-bond-and-seal-professional-adhesive-latex-free-waterproof-1): GladGirl® Lash Lock© Bond & Seal is your secret to salon-style lashes at home with the ultimate 2-in-1 system, designed with our decades of experience in professional eyelash extensions to give you up to 10 days of flawless, salon-style wear—at home. The Bond locks your lash clusters in place with a strong yet flexible hold, while the Seal removes stickiness and extends longevity. Waterproof, latex-free, and perfect for that pro-level lash extension look—without the salon visit! Lock in your lashes. Love your look. 💕 For cluster lashes, start with clean, dry lashes, ensuring there's no oil or residue that could affect adhesion. First take the side with mascara wand applicator BOND and gently swipe a thin layer of glue along the base of your natural lashes, focusing on the areas where you’ll place the clusters. Let the glue set for about 30 seconds until it becomes tacky—this ensures a strong, long-lasting hold. Using tweezers, carefully pick up each cluster lash and place it underneath or on top of your natural lashes, right where you applied the glue. Gently press them into place for a seamless, natural-looking finish. For the final step, apply the side labeled SEAL to help lock in the look and remove any stickiness. To maximize wear, avoid getting your lashes wet for at least 24 hours after application. For strip lashes, begin by measuring the strip lashes against your eyelid, and trim any excess length if needed. Apply a thin layer of glue along the lash band. Cover the entire band evenly. Follow the remaining steps for clusters. When you're ready to remove them, be sure to use our remover The Breakup to keep your natural lashes healthy and happy. Pro Tips: To get the best results, remember to use a light hand with the glue—less is more! Applying in thin layers gives a stronger, cleaner hold, and avoiding water or oil-based products near your lashes will help extend their wear. Consider options like applying lashes under the lash line or stacking them for a captivating effect. If you tend to have oily lids, a light dusting of setting powder can help with adhesion.
-  Updated: 2026-10-20T16:54:08Z
+  Updated: 2026-10-30T23:07:26Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1010,7 +1010,7 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/MainDollEyeVolumeMinuteLashA1195.jpg?v=1783457121
   Price: $8.99 USD
 - [Lash & Brow Setting Gel](https://peaklashes.com/products/lash-brow-setting-gel-1): Nourish & Set your Brows and Lashes with the GladGirl Lash & Brow Setting Gel Made with Keratin and Natural Botanical Extracts, this setting gel will create a wet lash and brow look. Brush your brows in place for a sleek, laminated brow style, and swipe the gel on your natural lashes or eyelash extensions to create definition. Go bare with the gel alone for a natural wet lash look, or add a coat of mascara or brow pencil for more drama. This setting gel does double duty on brows & lashes, while nourishing your brows and lashes with keratin and natural botanical extracts.
-  Updated: 2026-10-21T22:42:44Z
+  Updated: 2026-10-24T11:03:08Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1029,14 +1029,14 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Natural-Beauty_GL-Boxes.jpg?v=1783457122
   Price: $8.99 USD
 - [Cat Eye Volume MinuteLash](https://peaklashes.com/products/cat-eye-volume-minutelash): GladGirl MinuteLash is a new, easy way to achieve that professional lash look on your own. These hybrid lashes combine the best of flare and strip lashes. Easy to apply, these revolutionary lashes will have you lash-ready in a Minute. Get a Cat Eye Volume look when you're craving that eyelash extension look between full sets or when you just need a quick change. Each MinuteLash is split into 4 or 5 different sections per eye. This makes for an easy hold in your hand with the applicator and a breeze to apply to your natural lash line. You can customize your look using different sections. Try all the sections at once, or simplify your look with less. Curl: DD Curl Length: Inner Corner 9mm | Middle 10-14mm | Outer Corner 15mm Thickness: 0.05mm 5 Sections Black Band These vegan handcrafted lash lovelies use the newest innovative fiber for a softer and fluffier real mink look. The lash band is made of the finest, superior quality cotton for a comfortable fit every time. Includes: GladGirl® Strip & Flare Lash Glue Lash Lock® (*This adhesive contains latex, so be sure to check for latex sensitivity before use*) Plastic applicator Packaging: 5 GladGirl® box styles available - shipped randomly. Love your Lashes!
-  Updated: 2026-10-17T22:26:09Z
+  Updated: 2026-10-30T23:07:26Z
   Vendor: GladGirl
   Product Type: Eyelashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/MainCatEyeVolumeMinuteLashA1196.jpg?v=1783457121
   Price: $8.99 USD
 - [Lash Lock® Coating Sealant For Eyelash Extensions and DIY Lashes](https://peaklashes.com/products/lash-lock®-coating-sealant-for-eyelash-extensions-and-diy-lashes-1): What is the best sealant for eyelash extensions? The key to your longer lasting lash look has arrived - the best sealant for lash extensions, Glad Girl Lash Lock® Coating Sealant for Eyelash Extensions and DIY Lashes by GladGirl. Specifically formulated the best lash sealant for use on eyelash extensions and DIY lash clusters, this lash sealant helps to prolong the life of your lashes. Lash Lock® creates a seal around the lashes protecting against sweat, dirt, water, as well as other environmental irritants that may break down the lash adhesive. Offered in both black and clear, the lash sealant glides on with glossy ease, enhancing the overall look of your eyelash extensions and DIY Lash Clusters. Cruelty-free, oil-free and vegan, Lash Lock® is the eyelash extension and DIY sealer for all of your after-care needs. Lock up your Lashes with Love! A professional coating sealant for eyelash extensions that is used globally. Made in the USA
-  Updated: 2026-10-22T22:12:13Z
+  Updated: 2026-10-29T16:47:23Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1050,7 +1050,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GladGirl-Lash-Lock-Clear-Sealant-Eyelash-Extensions_7fadbfd1-bc6a-4966-8735-3e8406103a52.png?v=1783457122
     Price: $31.99 USD
 - [The Breakup DIY Lash Glue Remover - with Natural Botanical Extracts](https://peaklashes.com/products/the-breakup-diy-lash-glue-remover-with-natural-botanical-extracts-1): GladGirl® The Breakup – DIY Lash Glue Remover with natural botanical extracts is how you break up with your DIY lashes—on your terms! The Breakup is your gentle, no-fuss way to remove GladGirl® Lash Lock Bond & Seal without damaging your natural lashes. Our liquid formula glides on just like mascara with a precision brush applicator—no cotton, no wipes, no mess! Simply apply, let it work its magic, and rinse with water. Effortless Removal – No tugging, no damage Mess-Free Gel Formula – No drips, no cotton needed Water Rinse-Off – Easy, clean, and gentle on lashes Out with the old, in with the new—because every lash love story deserves a fresh start! To Remove Lash Clusters: Apply The Breakup generously to your lash clusters, coating both on top and underneath. Let it sit for 30 seconds to break down the bond. Gently remove the lashes using the wand or your fingers—no tugging needed! To Clean Your Natural Lashes: Apply The Breakup directly to your natural lashes to dissolve any Bond & Seal residue. Wait 30 seconds for it to soak in. Rinse with water and repeat if needed until your lashes are completely clean. Pro Tip: Take your time—your natural lashes will thank you! *Not for use with professional eyelash extensions.
-  Updated: 2026-10-22T01:27:23Z
+  Updated: 2026-10-30T19:37:16Z
   Vendor: GladGirl
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1071,77 +1071,70 @@
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/QwBh4h05u7QkgWWN_97c11f75-8c99-4326-8332-44a7128f9f81.webp?v=1783459369
   Price: $52.99 USD
 - [Written in the Stars | Sparkling Brow Gel](https://peaklashes.com/products/written-in-the-stars-sparkling-brow-gel): Create celestial looks with this lightweight sparkling brow gel that adds a glimmering sparkle effect while holding the shape of your brows exactly as you set. Perfect for a festive touch or buildable glam, this gel formula allows you to be in control of the intensity without worrying about glitter fallout.
-  Updated: 2026-10-22T21:14:58Z
+  Updated: 2026-10-30T22:21:45Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Written_in_the_Stars_Sparkling_Brow_Gel.webp?v=1785541400
   Price: $21.00 USD
 - [Everlasting Waterproof Liquid Liner - Brown](https://peaklashes.com/products/everlasting-waterproof-liquid-liner-brown-1): This liquid liner is waterproof and may be used to create any desired eye look. The formula lasts all day and is very easy to apply, making it ideal for creating looks ranging from natural to dramatic. The included how-to guide is perfect for both novices and seasoned veterans.
-  Updated: 2026-10-22T21:18:31Z
+  Updated: 2026-10-23T13:58:27Z
   Vendor: Profusion Cosmetics
   Product Type: Eyes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Everlasting_Waterproof_Liquid_Liner_-_Brown.webp?v=1785541293
   Price: $25.00 USD
 - [Superbloom | 3D Faux Mink Lashes](https://peaklashes.com/products/superbloom-3d-faux-mink-lashes-1): Just like the butterflies during a superbloom, you'll be getting your flutter on! This duo-set of faux mink lashes are universally flattering and the perfect balance for any day-to-night look. Lash adhesive not included.
-  Updated: 2026-10-22T21:18:05Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Superbloom_3D_Faux_Mink_Lashes.webp?v=1785541228
   Price: $22.00 USD
 - [It's a Vibe | Mainstage 23-Shade Palette](https://peaklashes.com/products/its-a-vibe-mainstage-23-shade-palette-1): Turn the volume up to 11 with the limited edition Mainstage 23-Shade Palette! Everything you need for an ultra-pigmented, colorful, and fun festival look included multi-tone ombres and glitter toppers awaits you in this bold collection. With 23 shades in a variety of finishes, you’ll be ready to get creative this summer season! • 23-Shade multi-finish palette• Richly saturated, silky smooth and blendable formula• An array of statement-making colorful hues• Vegan & Cruelty-Free
-  Updated: 2026-10-17T22:26:10Z
+  Updated: 2026-10-27T19:39:46Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/It_s_a_Vibe_Mainstage_23-Shade_Palette.webp?v=1785541144
   Price: $43.00 USD
 - [Sweet Holiday | 6-pc Face & Eye Brush Vault](https://peaklashes.com/products/sweet-holiday-6-pc-face-eye-brush-vault): You can’t bake up something sweet without the right tools! This limited-edition holiday brush set includes 6 brushes for eyes and face. This collection also makes the perfect gift for anyone exploring their creative side!
-  Updated: 2026-10-22T21:14:56Z
+  Updated: 2026-10-29T03:51:16Z
   Vendor: Profusion Cosmetics
   Product Type: Makeup Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Sweet_Holiday_6-pc_Face_Eye_Brush_Vault.webp?v=1785541044
   Price: $34.00 USD
-- [21 -Shade Palette - Dreamscape](https://peaklashes.com/products/21-shade-palette-dreamscape-1): Discover galaxies of color with the 21 Shade Palette - Dreamscape! Our cosmic collection of multi-finish eyeshadows will take you to a dreamworld of radiance and unimaginable beauty. With ultra-pigmented, blendable hues to mix and match, create looks that will have everyone seeing stars. Plus, with the free Pro Series brush, you'll have all the tools you need for a stunning sky-high style — all in one package!
-  Updated: 2026-10-22T21:15:21Z
-  Vendor: Profusion Cosmetics
-  Product Type: Eyes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/21_-Shade_Palette_-_Dreamscape.webp?v=1785540966
-  Price: $33.00 USD
 - [Festival 35-Shade Palette](https://peaklashes.com/products/festival-35-shade-palette-1): There are 35 reasons why you'll be crushin over the Festival Eyeshadow Palette. This multi-finish and richly saturated fusion of rockin berries to electrifying blues will instantly amplify any look. Create the hottest statement-making looks by playing it soft or wearing it loud!
-  Updated: 2026-10-22T21:17:15Z
+  Updated: 2026-10-28T22:46:15Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Festival_35-Shade_Palette.webp?v=1785540887
   Price: $43.00 USD
 - [Superbloom | Harvest 20-Shade Palette](https://peaklashes.com/products/superbloom-harvest-20-shade-palette-1): Let your creativity blossom with the Limited Edition Harvest 20-shade multi-finish palette. The blendable and buildable array of warm earthy hues will allow you to create the most blooming day to night looks, and with a pigmentation as beautiful as a floral forest! Universally flattering and perfect for everyone from beginners to pros.
-  Updated: 2026-10-22T21:18:43Z
+  Updated: 2026-10-29T23:14:47Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/multi-finish_palette.webp?v=1785540529
   Price: $33.00 USD
 - [Metachrome | Meta Lashes 5PC Magnetic Lashes](https://peaklashes.com/products/metachrome-meta-lashes-5pc-magnetic-lashes-1): Take your look to the next realm with this 4 pair magnetic lash set. These lightweight and flexible wispies are comfortable to wear and easy to apply with the invisible magnetic band and quick-dry, hyper pigmented chrome eyeliner. Perfect for everyone from beginners to pros. Highlights • 4-Pair Magnetic Lashes• Lightweight flexible band• Quick-dry, hyper pigmented chrome eyeliner• Perfect for all day wear• Cruelty Free
-  Updated: 2026-10-22T21:15:11Z
+  Updated: 2026-10-24T22:02:26Z
   Vendor: Profusion Cosmetics
   Product Type: Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Meta_Lashes_5PC_Magnetic_Lashes.webp?v=1785540410
   Price: $33.00 USD
 - [It's a Vibe | Feel the Beat 4-pc Face & Eye Brush Set](https://peaklashes.com/products/its-a-vibe-feel-the-beat-4-pc-face-eye-brush-set-1): Turn the volume up on your brush game with our limited edition Feel the Beat 4-pc Face & Eye Brush Set! These brushes are made with high-quality vegan fibers and feature unique confetti-infused handles, adding a bit of sparkle – with an extra surprise for the music-lovers! Take this set with you on your next festival-vibe destination and get your rock on. Let's vibe! • Optimized for Artist or Self-Application• Suitable for powder, cream, and liquid formulas• Easy to clean• Vegan & Cruelty-Free
-  Updated: 2026-10-22T21:17:07Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Makeup Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Feel_the_Beat_4-pc_Face_Eye_Brush_Set.webp?v=1785540314
   Price: $33.00 USD
 - [Iconic 3D Faux Mink Lashes](https://peaklashes.com/products/iconic-3d-faux-mink-lashes-1): Lashes faux days. Instantly elevate any look with the Iconic 3D Faux Mink Lash Set, a curated collection of 5 hand-crafted, cruelty-free lash styles designed to match every mood and moment. From soft, natural wispies to bold, voluminous drama, this set has your lash game covered.Each lash features ultra-soft faux mink fibers and an invisible, flexible cotton band that hugs the lash line for all-day comfort. Whether you're getting ready for coffee runs or full-glam nights out, these lashes stay lightweight and secure from start to finish.The quick-dry adhesive makes application fast and beginner-friendly, while the included how-to guide ensures effortless results, even if you're brand new to lashes. Each set comes with a helpful how-to guide to get you started. Set Includes:• 5 pairs of 3D faux mink lashes in a mix of natural and dramatic styles• Quick-dry lash adhesive for mess-free application• How-to guide for seamless lash placement Lash Styles:• Blow Them Away: Natural wispies for a soft, fluttery effect• Oh, Darling: Light and lengthening, perfect for daytime glam• Oh My Lashes: Full-bodied volume for major impact• Big Tease: Boldest wispies for that extra drama
-  Updated: 2026-10-22T21:13:57Z
+  Updated: 2026-10-30T16:16:41Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1151,7 +1144,7 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/5_hand-crafted_cruelty-free_lash_style.png?v=1785540186
     Price: $32.00 USD
   - [Big Tease](https://peaklashes.com/products/iconic-3d-faux-mink-lashes-1?variant=50147980312815)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/z3INBB3A_971581f4-d9be-4061-932d-2c6ffb96230d.png?v=1783519440
     Price: $32.00 USD
   - [Oh My Lashes](https://peaklashes.com/products/iconic-3d-faux-mink-lashes-1?variant=50147980345583)
@@ -1163,14 +1156,14 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/gNDxBU-w_d72d5fc6-1c2a-486a-9fdf-4aa9a1b2813f.png?v=1783519438
     Price: $32.00 USD
 - [42-Shade Kaleidoscope Palette](https://peaklashes.com/products/42-shade-kaleidoscope-palette): Unleash your creative power to its full potential with our multi-finish 42-Shade Kaleidoscope Palette. This palette's versatility isn't only expressed through the wide range of high-pigment colors. The vivid prismatic spectrum includes face and eye shades in a wide array of different finishes from matte, satin, shimmer, glitter, and even our newest h42-shadeigh-pigment jelly shadow finish. With everything from bronzy face powders to bright pops of color, you can achieve anything from an everyday soft glam, high-glitz glamour look or an editorial-inspired wet makeup masterpiece! These high-pigment, pro-quality shades are suitable for all skin tones, allowing anyone the ability to become a Pro! NEW! Jelly Shadow Shades: Latch, Echoes, Irreplaceable, Deceiver and Intention 4 Face Powders: Comfy, Tart, Russet, Changes 6 Face + Body Glitters: Extravaganza, Stardust, Euphoria, Sunburst, Captivating, OMG Warnings: Discontinue use if signs of rash or irritation appear. Avoid swallowing. If irritation persists, consult your physician immediately.
-  Updated: 2026-10-22T21:17:22Z
+  Updated: 2026-10-29T22:34:35Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/42-Shade_Kaleidoscope_Palette.jpg?v=1785539661
   Price: $39.00 USD
 - [Essentials 10-Shade Palette](https://peaklashes.com/products/essentials-10-shade-palettes-1): Elevate your makeup routine with this versatile 10-Shade Eyeshadow Palette, designed to take you effortlessly from soft, everyday looks to bold, statement glam. Featuring a thoughtfully curated mix of tones and finishes, this palette offers endless creativity for every mood, moment, and occasion. The richly pigmented, blendable formula delivers smooth application and long-lasting color, making it perfect for beginners and pros alike. Whether you’re creating subtle definition or dramatic intensity, each shade layers beautifully for customizable looks that last all day. Infused with skin-loving Vitamins A & E, this nourishing formula ensures comfortable wear while maintaining vibrant payoff. Key Features • Limitless Creativity – A curated range of shades designed to transition seamlessly from day to night• Smooth & Nourishing – Enriched with Vitamins A & E for hydration and a buttery, blendable finish• Mix & Match Finishes – Includes a combination of matte, satin, and shimmer shades• All-Day Wear – High-impact pigment that resists creasing and fading• Clean Beauty – Talc-free, paraben-free, and made with skin-friendly ingredients• Beauty with a Conscience – Vegan, cruelty-free, and 70% recyclable packaging
-  Updated: 2026-10-22T23:12:58Z
+  Updated: 2026-10-30T22:51:02Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1220,28 +1213,28 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/SHIMMERSCLOSED_52e45b65-f038-41fb-876f-16279ff72490.webp?v=1783519439
     Price: $25.00 USD
 - [Nick '90s | Handheld Mirror](https://peaklashes.com/products/nick-90s-handheld-mirror): The 90s are back and bringing the whole crew with them. This Nick 90s handheld mirror features your favorite classic characters, throwback-inspired details, and a collectible Reptar card charm that’s almost too cute to handle. Lightweight and easy to carry, it’s made for quick mirror checks, getting ready with your besties, and bringing a little cartoon chaos wherever you go. Ready For The Close-Up • Mirror Check Ready – Clear reflection for everyday touch-ups and quick checks.• Straight Outta Nick 90s – Packed with iconic characters and colorful throwback energy.• Carry It Everywhere – Lightweight and easy to hold for quick on-the-go use.• Sparkle Included – Finished with translucent glitter details for extra fun.• Tiny But Legendary – Features a collectible Reptar card charm inspired by the ultimate 90s snack icon.• Ready To Roll – Easy to store, display, or bring along wherever the day takes you.
-  Updated: 2026-10-17T22:26:15Z
+  Updated: 2026-10-27T18:14:16Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Nick_90s_Handheld_Mirror.png?v=1785539277
   Price: $33.00 USD
 - [Petal Perfect | Blossom Beauty Sponge Set](https://peaklashes.com/products/petal-perfect-blossom-beauty-sponge-set-1): Embrace the beauty of spring with our Blossom Beauty Sponge Set! These curated sponges are versatile and work well with powder, cream, and liquid formulas. Whether you prefer to use them wet or dry, you'll love the smooth application they provide with every swipe. And when it's cleaning time, no worries – these sponges clean up like a dream, leaving you more time to stop and smell the flowers this spring.• Curated sponges• Works well with powder, cream, and liquid formulas• Can be used wet or dry• Smooth application with every swipe• Easy to clean Product Dimension: 7x7 Product Weight: 0.08 lbs
-  Updated: 2026-10-22T22:13:27Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Face
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Blossom_Beauty_Sponge_Set.png?v=1785539199
   Price: $33.00 USD
 - [Starlet Eyes 5 PC Palette & Brush Set](https://peaklashes.com/products/starlet-eyes-5-pc-palette-brush-set-1): Kick off the New Year with eyes that shine brighter than the countdown clock! The Starlet Eyes 5 PC Palette & Brush Set is your perfect companion for creating dazzling eye looks that transition effortlessly from day to night. This set includes 18 stunning shades and 4 essential brushes, giving you everything you need for a flawless, long-lasting eye look. Whether you’re going for a sultry smoky eye, a fun glitter bomb, or a soft shimmer for brunch, this palette has it all! Highlights: •Highly Pigmented, Buildable Shades: These eyeshadows deliver rich color with every swipe, but you can layer and build them for a bolder, more intense look.•Long-Lasting Wear: Say goodbye to smudging or fading! These shadows stay vibrant and flawless for hours, keeping you looking fresh from morning coffee to midnight toasts.•Synthetic Bristles for Seamless Blending: The included brushes are made with synthetic bristles, making them gentle on the skin and perfect for blending shadows effortlessly, creating that smooth, professional finish every time.• Perfect for Day-to-Night Looks: Whether you're heading to brunch or ringing in the New Year, this palette is perfect for creating a look that takes you from casual to glam in no time.• Non-comedogenic• Vegan & Cruelty-Free Formulated without:• Talc• BHA• Petrolatum• Phthalates• Sulfate• Triclosan• Aluminum• Lead• Gluten• Synthetic Fragrance
-  Updated: 2026-10-22T21:17:12Z
+  Updated: 2026-10-26T01:14:55Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/5_PC_Palette_Brush_Set.png?v=1785539111
   Price: $35.00 USD
 - [Artistry 21-Shade Palette](https://peaklashes.com/products/artistry-21-shade-palette): Embrace the Enchantment of the Artistry 21 Shade Palettes. Now in brand new, sustainable, and fully recyclable packaging, this palette brings the same magical hues you love—soft pinks, dreamy purples, deep blues, and sultry tones—into a more eco-friendly form. Whether you’re channeling the soft glow of sunset or crafting a bold, after-dark look, these velvety-smooth, richly pigmented shades deliver stunning, long-lasting color. Infused with Vitamins A & E, these shades not only nourish your skin but also offer smooth blendability and buildable intensity. No talc, no parabens—just pure, skin-loving color in every swipe. The crease-free, long-wearing formula ensures your look stays flawless all day.Made with 70% recyclable material, this palette offers a more eco-conscious way to indulge in beauty. Non-Comedogenic, Vegan, and Cruelty-Free, it’s the perfect combination of skin-friendly color and sustainable beauty. 🤎 Artistry in Every Swipe: • Limitless Creativity – A curated range of shades that transition seamlessly from day to night.• Silky & Skin-Loving – Infused with Vitamins A & E, this formula hydrates and protects while giving a buttery-smooth finish.• Multi-Finish Perfection – A mix of matte, shimmer, satin, and metallic shades.• Stay-All-Day Power – Highly pigmented and long-wearing, ensuring vibrant color that won’t fade or crease.• Clean Beauty – Talc-free, paraben-free, and made with clean, high-quality ingredients for a beauty routine you can feel good about.• Beauty with a Conscience – Crafted with Vegan, Cruelty-free formulas and 70% Recyclable packaging for a cleaner and sustainable beauty choice.
-  Updated: 2026-10-22T21:16:23Z
+  Updated: 2026-10-26T23:08:16Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1263,63 +1256,63 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GNnqG7Bw_2e58b6dd-ea86-452e-afb1-56b0e064b154.png?v=1783519447
     Price: $33.00 USD
 - [Crimson Brush Vault – 6-Piece Brush Set](https://peaklashes.com/products/crimson-brush-vault-6-piece-brush-set-1): A premium brush set designed for effortless application of your favorite holiday looks.. Perfect for gifting or adding festive sparkle to your holiday celebrations. Perfect for gifting or creating unforgettable holiday looks, this product is designed to add a touch of magic to your celebrations. Whether for a party, cozy night in, or as a stocking stuffer, it brings festive joy and sparkle to your holiday season. **How to use: ** Use each brush for a specific task, from foundation to blending, for a professional finish.
-  Updated: 2026-10-22T21:16:18Z
+  Updated: 2026-10-30T21:30:16Z
   Vendor: Profusion Cosmetics
   Product Type: Makeup Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/6-Piece_Brush_Set.png?v=1785538822
   Price: $49.00 USD
 - [Petal Perfect | Garden Glamour 5 Pairs Faux Mink Lash Set](https://peaklashes.com/products/petal-perfect-garden-glamour-5-pairs-faux-mink-lash-set-1): Whether you're weeding the garden or sipping rosé at a spring picnic, Garden Glamour's 5 Pair Faux Mink Lash Set has got you covered. This curated collection of faux mink lash styles is perfect for all-day wear, thanks to their lightweight flexible band. Made with inclusivity in mind, these vegan and cruelty-free lashes are a spring must-have for any beauty enthusiast.• Curated faux mink lash styles• Lightweight flexible band• Perfect for all day wear• Vegan & Cruelty-Free• Made from 70% recyclable material Product Dimension: 4.2"x 7" Product Weight: 0.08lbs
-  Updated: 2026-10-22T21:15:47Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Garden_Glamour_5_Pairs_Faux_Mink_Lash_Set.png?v=1785538740
   Price: $30.00 USD
 - [TMNT |  24-Shade Palette](https://peaklashes.com/products/tmnt-24-shade-palette-1): Experience the Turtle Power like never before with the Teenage Mutant Ninja Turtles 24-Shade Palette! Each shade in this radical palette allows you to create a variety of bold looks that would make even Shredder do a double-take. Infused with Vitamin A & E, this palette is not only vegan and cruelty-free, but it also packs a punch with its talc and paraben-free formula. Channel your favorite Turtle's ‘tude with shades inspired by the fearless Leonardo, the party-loving Michelangelo, the brainy Donatello, and the tough Raphael. Get ready to shell out some serious style! • Richly pigmented with minimal fallout• Universally-flattering hues in matte, satin, shimmer, and metallic finishes• Long-wearing, talc-free powder formula• Infused with Vitamin A & E• Non-Comedogenic Formula• Vegan & Cruelty-Free
-  Updated: 2026-10-22T23:23:47Z
+  Updated: 2026-10-30T03:03:41Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/24-Shade_Palette.png?v=1785538661
   Price: $45.00 USD
 - [Frosted Snow Sparkle | Festive Blend Makeup Sponge Duo](https://peaklashes.com/products/frosted-snow-sparkle-festive-blend-makeup-sponge-duo): Enhance your makeup routine with this Frosted Snow Sparkle Makeup Sponge Duo! These versatile sponges are perfect for achieving a flawless look. Made with vegan and cruelty-free materials, they blend powders, creams, and liquid formulas effortlessly, delivering a smooth application with every swipe. These sponges are a must-have for any makeup enthusiast on your list.
-  Updated: 2026-10-22T21:15:34Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Festive_Blend_Makeup_Sponge_Duo.png?v=1785538538
   Price: $24.00 USD
 - [Brush Crush 8 PC Brush & Sponge Set](https://peaklashes.com/products/brush-crush-8-pc-brush-sponge-set): Get ready to crush your makeup game! The Brush Crush 8 PC Face, Eye Brush & Blending Sponge Set is everything you need to create a perfectly blended, seamless look. Whether you’re sculpting your face, blending out shadow, or applying foundation, this complete set has the tools to help you achieve a flawless finish every time. From powders to liquids, creams to mousses—this set has got you covered, making application easy, precise, and effortless. Highlights: • Cruelty-Free and Vegan• Synthetic Brush Bristles• Smooth, latex-free foam material• Suitable for powder, cream, or liquid formulas• Use damp or dry to achieve seamless finish• Gentle on all skin types• MUA 
-  Updated: 2026-10-22T21:17:12Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Makeup Brushes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Brush_Crush_8_PC_Brush_Sponge_Set.png?v=1785538456
   Price: $43.00 USD
 - [Frosted Snow Sparkle | Snow Angel Eyeshadow](https://peaklashes.com/products/frosted-snow-sparkle-snow-angel-eyeshadow-1): Transform your holiday look with this Frosted Snow Sparkle Shadow Quad! This vegan and cruelty-free palette is a must-have for any festive eye look. The four bendable and buildable shadows give you endless possibilities to create stunning and unique makeup looks. Whether you're going for a subtle shimmer or a bold statement, these shadows are perfect for all occasions. Get ready to dazzle and shine this season!Available in 2 colorways.
-  Updated: 2026-10-22T21:15:35Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Snow_Angel_Eyeshadow.png?v=1785538269
   Price: $26.00 USD
 - [Matcha Break 10-Shade Palette & Brush](https://peaklashes.com/products/matcha-break-10-shade-palette-brush-1): Take a break, sip your matcha, and blend your way to perfection with the Matcha Break 10-Shade Palette & Brush! Inspired by the soothing tones of your favorite green latte, this paraben-free, talc-free palette is packed with 10 ultra-blendable, velvety shades ranging from soft matcha latte hues to rich, earthy tones. Whether you’re craving a creamy neutral look or a bold green moment, this palette is your go-to for endless matcha-infused creativity. Paired with a pro-level blending brush and packaged in recyclable materials, this palette makes sure your makeup is as fresh as your morning matcha—without the guilt. 🍵✨ Your Daily Dose of Matcha Magic: 🍵 10 blendable shades inspired by matcha, from creamy neutrals to rich greens 🍵 Silky, buildable formula that blends like a dream 🍵 Paraben-free & talc-free for clean, worry-free wear 🍵 Eco-friendly packaging so you can glow guilt-free 🍵 Includes a pro-level brush for effortless application
-  Updated: 2026-10-22T21:18:39Z
+  Updated: 2026-10-24T04:58:31Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Matcha_Break_10-Shade_Palette_Brush.png?v=1785538171
   Price: $30.00 USD
 - [21-Shade Palette - Adventurous](https://peaklashes.com/products/21-shade-palette-adventurous-1): Explore your creativity and embark on an unforgettable journey with this 21-Shade Palette - Adventurous! It's loaded with richly pigmented, blendable, earthy-toned shades that'll let you go from day to night effortlessly. Perfect for beginners and pros alike - plus, it comes with a Pro Series brush for extra adventure-seeking! Ready, set, explore!
-  Updated: 2026-10-22T21:15:21Z
+  Updated: 2026-10-28T23:33:15Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/21-Shade_Palette_-_Adventurous.webp?v=1785538072
   Price: $33.00 USD
 - [Mini Essentials 5-Shade Palette](https://peaklashes.com/products/mini-essentials-5-shade-palette-1): Unleash your creativity with our Mini Essential 5 Shade Palettes! Whether you're feeling cozy, smitten, or nautical, you can mix and match to create your personal moodboard with universally flattering matte, satin, and mousse shadow finishes. Our shadows glide on with a velvety smooth application that is super blendable and buildable, making it easy to create your desired look. The richly pigmented, crease-free, and long-wearing formula ensures that your look stays put throughout the day. Infused with Vitamin A & E, our sustainable packaging is made from 100% recyclable PET material, making it eco-friendly and fully recyclable. Take your look to the next level with our Non-Comedogenic, Vegan, Gluten-Free, and Cruelty-Free formula, free from harmful ingredients like talc and parabens. Perfectly sized for your travel adventures and busy on-the-go lifestyles, each palette includes a complete step-by-step guide, enabling you to effortlessly transition from day to night looks. HIGHLIGHTS:Infused with Vitamin A & E – These powerful antioxidants help nourish and protect the delicate skin around your eyes, ensuring that your makeup not only looks great but also provides a boost of skincare benefits. Richly Pigmented and Crease-Free Formula – Don't let the compact size fool you – the Mini Essentials palette packs a punch when it comes to pigmentation. Each shade is richly pigmented to deliver vibrant color payoff with just one swipe and ensures that your eye look stays put all day long, without any unsightly creasing or fading. Step-by-Step Guide Included - Whether you're a beginner or pro, a step-by-step guide is included with each palette to help make the most of your palette and experiment with different color combinations from a subtle, everyday eye or a dramatic, smokey effect. Sustainable and Eco-Friendly Packaging - The Mini Essentials 5 Shade Palette is housed in sustainable packaging made from 100% recyclable PET material. This eco-friendly packaging is fully recyclable, so you can feel good about reducing your carbon footprint.
-  Updated: 2026-10-21T23:47:07Z
+  Updated: 2026-10-30T23:15:16Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1349,70 +1342,70 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/3E101F_Front_Open_a508fa63-648a-474e-b756-3eb8530ca13e.png?v=1783519452
     Price: $25.00 USD
 - [Frosted Snow Sparkle | 19 PC Beauty Box](https://peaklashes.com/products/frosted-snow-sparkle-19-pc-beauty-box-1): Get ready to shine this winter with this Frosted Snow Sparkle 12 PC Beauty Box! This collection features all your beauty must-haves and are all cruelty-free! Unleash your inner artist with our multi-finish shadow palette, allowing you to create endless eye-catching looks. The bendable face palette is the perfect companion, delivering a flawless complexion with its contour, highlight, and blush shades. The shimmer lip gloss is here to make your lips pop with a gorgeous luminosity. Keep your skin feeling fresh and hydrated all day long with the hydrating facial spray, providing that much-needed winter boost. And to pamper your lips, the sugar lip mask will leave them irresistibly soft and kissable. Illuminate the season with this Frosted Snow Sparkle Beauty Box, because cruelty-free beauty is the ultimate joy. What's included:- 1 Pc Gorgeous Travel Bag- 3 Pc Makeup Brushes- 1 Pc Eyeliner Pencil- 8 Shade Palette- 3 Shade Face Palette- 2 Pc Lip Mask- 1 Pc Lip Gloss- 1 Pc Face Mist
-  Updated: 2026-10-22T21:15:40Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/19_PC_Beauty_Box.png?v=1785537812
   Price: $62.00 USD
 - [Frosted Snow Sparkle | 52 Shade Face & Eye Palette](https://peaklashes.com/products/frosted-snow-sparkle-52-shade-face-eye-palette-1): Get ready to be mesmerized by this Frosted Snow Sparkle 52 Shade Face & Eye Palette! This versatile palette is packed with cruelty-free multi-finish shadows that will take your eye makeup game to the next level. Whether you prefer a soft and subtle daytime look or a bold and glamorous evening transformation, this palette has got you covered. The blendable and buildable blushes provide a natural flush, while the illuminating highlighter gives you an ethereal radiance. Embrace the magic of this all-in-one palette and create endless stunning looks.
-  Updated: 2026-10-22T21:15:40Z
+  Updated: 2026-10-30T16:09:22Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/52_Shade_Face_Eye_Palette.png?v=1785537738
   Price: $38.99 USD
 - [GLAMOUR EYES - 3 PC EYE SET](https://peaklashes.com/products/glamour-eyes-3-pc-eye-set-1): Time to sparkle, shine, and elevate your eye game! The Glamour Eyes 3 PC Eye Set is your perfect party companion. Whether you're toasting with friends or dancing the night away, this versatile set will help you create stunning eye looks from day to night—effortlessly! Included: ☾ 6 Shade Eyeshadow Palette☾ Liquid Eyeliner☾ False Lashes & Adhesive Highlights: •Complete Eye Look in One Set: Shadows, liner, lashes—everything you need to create the perfect eye look is in one convenient set. You’re ready to go from day to night in a flash!•Long-Lasting & Smudge-Proof: No need to worry about touch-ups—this set will stay in place all day and night. From the first sip of champagne to the final countdown, you’ll look flawless.•Effortless Glam: Perfect for both makeup pros and beginners! The set is designed to make your eye look stunning with minimal effort and maximum impact.• Non-comedogenic• Vegan & Cruelty-Free Formulated without:•Paraben•Talc•Gluten•BHA•Petrolatum• Paraffin• Phthalates• Sulfates•Aluminum•Lead•Synthetic Fragrance
-  Updated: 2026-10-22T21:18:07Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/GLAMOUR_EYES_-_3_PC_EYE_SET.png?v=1785537639
   Price: $37.00 USD
 - [It's a Vibe | Admit One 3-Shade Blush Palette](https://peaklashes.com/products/its-a-vibe-admit-one-3-shade-blush-palette-1): Get instant VIP status with the Admit One 3-Shade Blush Palette! This universally flattering palette is the perfect party favor for festival season. Three buildable matte powder shades allow you to get your perfect finish, whether it’s for getting concert-ready or finishing an everyday natural flush. This palette will have you feeling like a star! • 3-Shade, Blush Powder Palette• Flattering matte and shimmer finishes • Helpful how-to guide included• Vegan & Cruelty free
-  Updated: 2026-10-22T21:17:36Z
+  Updated: 2026-10-30T17:09:03Z
   Vendor: Profusion Cosmetics
   Product Type: Blushes & Bronzers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Admit_One_3-Shade_Blush_Palette.webp?v=1785537559
   Price: $26.00 USD
 - [Frosted Snow Sparkle | Festive Brows Defining Kit](https://peaklashes.com/products/frosted-snow-sparkle-festive-brows-defining-kit): Create stunning holiday brows effortlessly with the Frosted Snow Sparkle Festive Brows. This cruelty-free and vegan eyebrow kit is a must-have for all brow enthusiasts. With a versatile eyebrow palettes featuring an array of shades, you can easily find the perfect match for your hair color. The included clear brow gel helps tame hairs, while the angled brow brush ensures precise and flawless application. This kit even includes a set of tweezers, making it a complete package for shaping and defining your brows. Get ready to sparkle and shine with envy-worthy brows this festive season!
-  Updated: 2026-10-22T21:15:38Z
+  Updated: 2026-10-27T18:49:14Z
   Vendor: Profusion Cosmetics
   Product Type: Eyebrows
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Festive_Brows_Defining_Kit.png?v=1785537477
   Price: $43.00 USD
 - [Desert Sage | 25-Shade Palette](https://peaklashes.com/products/desert-sage-25-shade-palette): Let your imagination take you on a desert adventure with the limited edition Desert Sage 25-shade palette. The multi-finish array of pigmented earthy-toned and blooming colorful hues are perfect for creating su-cute-lent day-to-night looks. Our blendable and buildable formulas are universally flattering and perfect for everyone from beginners to pros.
-  Updated: 2026-10-22T21:14:33Z
+  Updated: 2026-10-30T12:33:45Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Sage_25-Shade_Palette.webp?v=1785537385
   Price: $36.00 USD
 - [Empowered Butterfly | Free Spirit 25-Shade Palette](https://peaklashes.com/products/empowered-butterfly-free-spirit-25-shade-palette-1): Embrace your inner free spirit with this 25 shade multi-finish palette. The blendable and buildable array of fluorescent hues will allow you to create infinite looks - freeing your imagination to express itself to the fullest. Universally flattering and perfect for everyone from beginners to pros. Highlights • 25 shade multi-finish palette• Richly pigmented and blendable hues• Universally Flattering
-  Updated: 2026-10-22T21:15:15Z
+  Updated: 2026-10-28T15:35:23Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/FPE00005_dff5ad0f-a38c-4709-ac79-0e6df68b3748.webp?v=1783519450
   Price: $36.99 USD
 - [Empowered Butterfly | Mystical Butterfly Face Stickers](https://peaklashes.com/products/empowered-butterfly-mystical-butterfly-face-stickers-1): Create a transformative look with these Mystical Butterfly face stickers. Any look is complete with these self-adhesive beauties - just peel and stick to add some flare as sweet as a butterfly! Perfect for everyone from beginners to pros.
-  Updated: 2026-10-22T21:15:12Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Mystical_Butterfly_Face_Stickers.webp?v=1785537171
   Price: $20.00 USD
 - [Superbloom | Ethereal 20-Shade Palette](https://peaklashes.com/products/superbloom-ethereal-20-shade-palette-1): Let your creativity blossom with the Limited Edition Ethereal 20-shade multi-finish palette. The blendable and buildable array of cool floral hues will allow you to create the most blooming day to night looks, and with a pigmentation as beautiful as a floral field! Universally flattering and perfect for everyone from beginners to pros.
-  Updated: 2026-10-20T19:39:12Z
+  Updated: 2026-10-26T05:38:38Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Ethereal_20-Shade_Palette.webp?v=1785537047
   Price: $33.00 USD
 - [Blooming Beauty 5-Shade palette](https://peaklashes.com/products/blooming-beauty-5-shade-palette-1): Explore your artistic potential with these five highly pigmented paints. This carefully selected palette takes you on a picturesque tour through a wide variety of colors with different finishes, so you can create stunning styles for both day and night.Flattering to everybody and suitable for both novices and experts.
-  Updated: 2026-10-22T04:31:47Z
+  Updated: 2026-10-30T22:50:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1442,42 +1435,42 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/2E101L_9e8c9c14-a0c8-4b04-931a-d08ba8f2e489.webp?v=1783519452
     Price: $25.00 USD
 - [It's a Vibe | Lash Fest 4-Pair Lash Set](https://peaklashes.com/products/its-a-vibe-lash-fest-4-pair-lash-set-1): Dare to rock the Vibe! Express your inner emo, rocker, boho, or electric feels with this 4-pair Lash Fest Lash Set. Pop these music-themed lashes on, and you're ready to vibe all night no matter the festival, concert, or summer soiree! • Each set includes 5 pairs of professional faux mink lashes• Hand-made and cruelty-free.• Thin, lightweight band to ensure comfort and flexibility.• Quick-dry lash adhesive for easy application.• Helpful how-to guide included
-  Updated: 2026-10-22T21:18:06Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Lash_Fest_4-Pair_Lash_Set.webp?v=1785536648
   Price: $33.00 USD
 - [Sculpt & Glow Contour & Highlight Palette](https://peaklashes.com/products/sculpt-glow-1): Define and illuminate your appearance with highlight and contour makeup! Accentuate your features quickly and easily with this pro makeup palette. Features luminizing highlight powders and smooth matte contour shades. Available in two different colorways to suit a variety of skin tones. Includes a Pro Series brush for masterful application. Creating the defined, glowing look you want has never been easier! The Sculpt & Glow highlight and contour makeup palette from Profusion Cosmetics features nine shades that complement virtually every skin tone. The highlighter shades help you achieve a glow-from-within radiance, and the ultra-blendable contour shades enable you to define your favorite features quickly and easily. Are you ready to create a beautiful flawless complexion? If so, order this highlight and contour makeup from Profusion Cosmetics online today!Goldstone A range of captivating shades from peachy to gold highlighters and medium to deep contour powders.Includes: 1 Sculpt & Glow contour and highlight palette 9 unique shades available in two colorways 1 Pro Series brush
-  Updated: 2026-10-22T21:13:48Z
+  Updated: 2026-10-29T03:56:36Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Sculpt_Glow_Contour_Highlight_Palette.jpg?v=1785536536
   Price: $27.00 USD
 - [42-Shade Moonstone Palette](https://peaklashes.com/products/42-shade-moonstone-palette): Unleash your creative power to its full potential with this multi-finish 42-shade Moonstone Palette. This palette's versatility isn't only expressed through the curated range of high-pigment colors but with the wide array of different finishes, including matte, satin, shimmer, metallic, and pressed glitter. With the ultimate spectrum of go-to neutral hues, you can achieve anything from an everyday soft glam, high-glitz glamour look or an editorial-inspired wet makeup masterpiece! These high-pigment, pro-quality shades are suitable for all skin tones, allowing anyone the ability to become a Pro! Warnings: Discontinue use if signs of rash or irritation appear. Avoid swallowing. If irritation persists, consult your physician immediately.
-  Updated: 2026-10-22T21:17:24Z
+  Updated: 2026-10-30T00:10:42Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/42-Shade_Moonstone_Palette.webp?v=1785536438
   Price: $39.00 USD
 - [Royals Palette](https://peaklashes.com/products/royals-palette-1): Create beautiful, vibrant eye looks with this versatile eyeshadow palette! Features a variety of shades that are ideal for all skin tones. Versatile powder blends seamlessly onto the skin. Includes rich pigments and multiple finishes to create custom looks. Long-lasting shades provide all-day wear. Are you searching for a combination of rich, vibrant eyeshadows that last from sunup to sundown? High-quality cosmetics don't have to cost a fortune, and this versatile eyeshadow kit is proof of that. Introducing our Royals Palette, a 10-shade, multi-finish eyeshadow palette that features incredibly rich, show-stopping shades that you are sure to love. Define your eyes in ways you never imagined the possibilities are endless! Purchase this and other eyeshadow palettes from Profusion Cosmetics online today!Royals Rich, vibrant hues and pops of primary colors including deep jewel tones.Includes: 1 Royals Palette eyeshadow kit 10 multi-finish shades
-  Updated: 2026-10-17T22:26:11Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Royals_Palette.webp?v=1785536336
   Price: $25.61 USD
 - [Mirage - 35 Richly-Saturated Pigment Palette](https://peaklashes.com/products/mirage-1): The heat wave lives on in the velvety smooth and multi-finish Mirage Palette. 35 richly-saturated pigments range from a horizon of neutrals and warm toned browns to a blazing array of amber and maroon hues. Create captivating eye looks by capturing the illusion of the desert from dusk to dawn.
-  Updated: 2026-10-22T21:17:21Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Mirage_-_35_Richly-Saturated_Pigment_Palette.webp?v=1785453174
   Price: $43.00 USD
 - [Empowered Butterfly | Dazzling Wings Liquid Shimmer Eyeliner](https://peaklashes.com/products/empowered-butterfly-dazzling-wings-liquid-shimmer-eyeliner-1): Create the most dazzling wings with this liquid shimmer eyeliner duo. The easy-glide formula and array of glitter shades will instantly bring a dazzling impact to any day-to-night look. Start by lining the upper lash line and slowly build the thickness of the eyeliner to complement your eye shape. Layer on for a more dazzling finish. Highlights • Quick-dry, sparkling liquid eyeliner• Waterproof, richly pigmented and smudge-proof• Flexible brush for easy and precise application• Vegan & Cruelty-Free
-  Updated: 2026-10-22T21:15:12Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1491,14 +1484,14 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/ELR00007_7238101b-63e0-4d22-bfd2-b81cef02e4dc.webp?v=1783519824
     Price: $25.00 USD
 - [Lash Out Loud | Lengthening & Curling Mascara - Black](https://peaklashes.com/products/lash-out-loud-lengthening-curling-mascara-black-1): Lifted, lengthened, and effortlessly eye-catching. Lash Out Loud Lengthening & Curling Mascara was designed to create fuller-looking lashes with soft separation and lasting curl. The lightweight waterproof formula glides on smoothly while the curated applicator evenly coats lashes from root to tip for buildable definition without stiffness or clumping. Infused with Castor Oil and Vitamin E, this nourishing formula keeps lashes feeling soft and comfortable throughout wear.Created for lashes that stay soft, lifted, and defined while feeling as good as they look. Lash Details That Matter:• Long-Wearing & Waterproof – Made to stay put without smudging, flaking, or fading throughout wear.• Curated Applicator – Helps evenly coat, separate, and define every lash with ease.• Length + Curl Effect – Delivers lifted, lengthened lashes with an eye-opening finish.• Nourishing Lightweight Formula – Comfortable, buildable wear without stiffness or crunchiness.• Infused With Castor Oil & Vitamin E – Helps lashes feel soft, conditioned, and healthy-looking.• Paraben Free – Made for an everyday routine you can feel good about.• Beauty With A Conscience – Vegan and cruelty-free.
-  Updated: 2026-10-22T21:18:29Z
+  Updated: 2026-10-29T03:14:29Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Lash_Out_Loud_Lengthening_Curling_Mascara_-_Black.png?v=1785452931
   Price: $23.99 USD
 - [Eye Define Eyeliner Duo](https://peaklashes.com/products/eye-define-eyeliner-duo-1): Line, glide and go with this Eye Define Collection. Each set includes a long-lasting liquid eyeliner pen and a creamy, waterproof eyeliner pencil. Draw the perfect line while creating a range of looks from subtle and natural to bold and dramatic. Helpful how-to guide included. Available in three colorways.
-  Updated: 2026-10-22T21:18:28Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1512,14 +1505,14 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/7260-Ccopy2_84fb5551-3a39-4b6f-9085-0574b10b921f.webp?v=1783519824
     Price: $26.00 USD
 - [Ultra Violet Palette](https://peaklashes.com/products/ultra-violet-palette-1): Add a pop of color to your look with this Ultraviolet palette, The multi-finish and richly pigmented shades range from a spectrum of lilac and lavender to violet hues that are perfect for creating looks that are out of this world.
-  Updated: 2026-10-22T21:14:21Z
+  Updated: 2026-10-24T12:29:12Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Ultra_Violet_Palette.webp?v=1785452644
   Price: $22.00 USD
 - [Blooming Hues 5 shade palette](https://peaklashes.com/products/blooming-hues-5-shade-palette): Elevate your festival party look with our eye shadow palettes, perfect for summer! With a range of bright and shiny colors to choose from, our palettes are designed to help you create stunning and vibrant looks that turn heads. Whether you're going for a bold and glittery eye or a more subtle, dewy look, our eye shadow palettes offer a variety of shades to suit any style. So get ready to shine this summer with our eye shadow palettes, and take your festival party look to the next level with bright, beautiful colors that last all day!
-  Updated: 2026-10-19T15:29:43Z
+  Updated: 2026-10-30T13:48:35Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1549,28 +1542,28 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/bloominghues_poppy.jpg?v=1783519825
     Price: $24.00 USD
 - [Thai Tea Boba Blender](https://peaklashes.com/products/thai-tea-boba-blender): Sip, tap, blend. The Thai Tea Boba Blender Makeup Sponge is your go-to for smooth, milky-soft blending with zero streaks. Inspired by creamy Thai tea and chewy boba pearls, this plush sponge melts makeup into skin for a seamless, just-steeped finish that looks naturally smooth and perfectly mixed every time. The Sweet Perks: • Latex-free and gentle on all skin types • Blends cream, liquid, and powder formulas with ease • Soft, bouncy texture for smooth, streak-free results • Vegan and cruelty-free
-  Updated: 2026-10-22T21:18:42Z
+  Updated: 2026-10-28T04:26:38Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Thai_Tea_Boba_Blender.png?v=1785452278
   Price: $26.00 USD
 - [Blending Essentials Makeup Sponge & Puff Set](https://peaklashes.com/products/blending-essentials-makeup-sponge-puff-set): A fresh take on your blending favorites. Meet your go-to sponges, now with a glow-up-and even better with the addition of a Medium and Small Puff! The Blending Essentials Set brings the same smooth, pro-loved performance you know and love, now packaged with a sleek reusable bag to keep your tools clean, organized, and ready to blend anywhere. Whether you're working with liquid, powder, or cream formulas, each piece glides effortlessly for soft, even coverage every time, wet or dry. Perks Worth Blending For: • Smooth Application Every Swipe - Soft, seamless coverage every time • Vegan & Cruelty-Free - Kind to skin and conscious beauty • Versatile - Works with liquid, cream, and powder formulas • Use Wet or Dry - Your choice for soft, buildable coverage • Travel-Ready - Comes with a reusable bag for easy storage
-  Updated: 2026-10-22T21:17:16Z
+  Updated: 2026-10-29T02:03:28Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Blending_Essentials_Makeup_Sponge_Puff_Set.png?v=1785452057
   Price: $29.00 USD
 - [Matcha Love 2 Pair Lashes & Glue](https://peaklashes.com/products/matcha-love-2-pair-lashes-glue-1): Your lashes deserve a matcha moment! The Matcha Love 2 Pair Lashes & Glue set features two pairs of handcrafted faux mink lashes designed for effortless volume, lift, and comfort. Made with handcrafted faux mink fibers, these lightweight, flexible lashes sit comfortably all day with an invisible band that blends seamlessly. Pair them with the quick-dry lash adhesive liner for mess-free, all-day hold—no waiting, no sticky glue disasters. Plus, these vegan, cruelty-free lashes come in recyclable packaging, so your look stays stunning while keeping it green. Because your beauty routine should be as effortless as your morning matcha! 💚✨ Why You’ll Matcha Love It: 💚 Faux mink, handmade lashes—lightweight, comfortable, and oh-so-soft 💚 Flexible invisible band—for a seamless, natural blend 💚 Wispy, voluminous style—for that lifted, fluttery effect 💚 Quick-dry lash adhesive liner—zero mess, just easy application 💚 Vegan & cruelty-free—beauty without compromise 💚 Recyclable packaging—for a lash set that’s as eco-friendly as it is stunning
-  Updated: 2026-10-22T21:18:08Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Matcha_Love_2_Pair_Lashes_Glue.png?v=1785451130
   Price: $22.00 USD
 - [Iconic 3D Faux Mink Lashes](https://peaklashes.com/products/iconic-3d-faux-mink-lashes-2): Your lashes, upgraded. Soft, hand-crafted faux mink fibers give lightweight flutter that keeps up with your day-to-night routine. From subtle, natural wispies to bold, buildable volume, this Iconic 3D Faux Mink Lash Kit has your lash game covered. Flexible cotton bands hug your lash line for all-day comfort, while quick-dry adhesive and a step-by-step guide make application effortless, even for first-timers. The reusable case keeps your wispies neat and ready for whatever comes next, so you can grab, go, and repeat. Perfect for beginners, pros, and anyone who wants a little lift without extra effort. What’s in your Kit: • Band Options – 12MM flexible invisible band & 10MM lightweight cotton band • Quick-Dry Adhesive – Mess-free application • Step-by-Step Guide – For easy, flawless placement • Reusable Case – Keep your lashes neat and ready Lash Kit Features: • Handmade Faux Mink – Soft, lightweight fibers • Quick & Easy – Adhesive and guide simplify your routine • All-Day Comfort – Flexible bands that move with you • Sustainable Packaging – Reusable and stylish • Beauty with a Conscience – Vegan & cruelty-free
-  Updated: 2026-10-22T21:18:13Z
+  Updated: 2026-10-29T02:03:28Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1584,63 +1577,63 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/3D_Faux_Mink_Lashes.png?v=1785451096
     Price: $29.99 USD
 - [Face Essentials 3PC Face Brush Set](https://peaklashes.com/products/face-essentials-3pc-face-brush-set): A fresh look for your face routine favorites. Meet your go-to face brushes, now with a glow-up. The Artistry Face Essentials Brush Set brings the same ultra-soft, pro-loved performance you know and love, now updated with sleek transparent handles and a new reusable bag to take your routine anywhere. Designed for smooth blending and total control, each brush features soft, gentle synthetic bristles and a carefully curated ergonomic handle that feels just right in your hand. From base to set, this trio makes face makeup easier, faster, and effortlessly seamless Meet the Face Essentials: • FD1 Buffing Foundation Brush – Buffs liquid and cream formulas into a smooth, even base • PD8 Round Tapered Powder Brush – Sweeps on powder and softly sculpts with ease • PD5 Flat Setting Powder Brush – Locks in makeup with targeted precision • Reusable Brush Bag – Keeps your brushes protected, organized, and ready to go Brushes Worth Reaching For: • Same loved quality with a fresh, modern look • Soft and gentle synthetic bristles • Curated ergonomic handles for precise application • Comfortable grip for total control • Easy to clean and built to last • Reusable Brush Bag • Vegan and cruelty-free
-  Updated: 2026-10-22T21:17:14Z
+  Updated: 2026-10-29T02:03:28Z
   Vendor: Profusion Cosmetics
   Product Type: Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Face_Essentials_3PC_Face_Brush_Set.png?v=1785450817
   Price: $39.99 USD
 - [Essential 10 Shade Palette - Whimiscal](https://peaklashes.com/products/essential-10-shade-palette-whimiscal-1): A little dreamy, a little playful, and full of color magic. The Whimsical 10 Shade Palette was made to spark your creativity. Featuring a mix of soft mattes, glowing satins, and eye-catching shimmers, this whimsical color story lets you create everything from effortless everyday looks to bold statement moments. The buttery formula glides on smoothly with rich payoff and blends seamlessly while Vitamins A & E help keep lids feeling soft and comfortable all day long. Designed for layering, mixing, and experimenting, each shade brings a fun pop of personality to your routine. The Whimsy Details: • Limitless Creativity – Curated shades that effortlessly take you from day to night. • Smooth & Nourishing – Infused with Vitamins A & E for hydration and a buttery finish. • Mix & Match Finishes – Includes matte, satin, and shimmer shades. • All-Day Wear – High-impact pigment that lasts without creasing or fading. • Clean Beauty – Talc-free, paraben-free, and made with skin-friendly ingredients. • Beauty with a Conscience – Vegan, cruelty-free, and 70% recyclable for a cleaner routine.
-  Updated: 2026-10-21T01:33:36Z
+  Updated: 2026-10-30T22:10:03Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Essential_10_Shade_Palette_-_Whimiscal.webp?v=1785450730
   Price: $25.00 USD
 - [Artistry 21 Shade Palette - Smoky Rose](https://peaklashes.com/products/artistry-21-shade-palette-smoky-rose-1): Soft romance meets smoky allure in the Smoky Rose 21 Shade Palette. Featuring a curated mix of velvety mattes, luminous shimmers, and silky metallics, this dreamy color story blends delicate rosy tones with moody neutrals for looks that feel effortlessly captivating. From airy washes of color to diffused smoky eyes, each shade was designed to layer, blend, and build seamlessly with rich payoff and a soft-focus finish. Infused with Vitamins A & E, the buttery formula glides on smoothly while helping lids feel soft and comfortable throughout wear. Whether you’re creating softly defined looks or something a little more after dark, Smoky Rose leaves behind the perfect touch of mystery. Everything To Love • Limitless Creativity – A curated range of shades that transition seamlessly from day to night. • Silky & Skin-Loving – Infused with Vitamins A & E, this formula hydrates and protects while giving a buttery-smooth finish. • Multi-Finish Perfection – A mix of matte, shimmer, satin, and metallic shades. • Stay-All-Day Power – Highly pigmented and long-wearing, ensuring vibrant color that won’t fade or crease. • Clean Beauty – Talc-free, paraben-free, and made with clean, high-quality ingredients for a beauty routine you can feel good about. • Beauty with a Conscience – Crafted with Vegan, Cruelty-free formulas and 70% Recyclable packaging for a cleaner and sustainable beauty choice.
-  Updated: 2026-10-22T16:31:23Z
+  Updated: 2026-10-23T11:01:44Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Artistry_21_Shade_Palette.webp?v=1785450544
   Price: $33.00 USD
 - [Empowered Butterfly | Flutter Lashes 4 pair Lash Set](https://peaklashes.com/products/empowered-butterfly-flutter-lashes-4-pair-lash-set-1): Flutter through the night with these Flutter Lashes 4-pair Lash Set! Show off a unique twinkle with the glitter lash pairs and slay the night with the lavish purple pair. The lightweight, cruelty-free wispies make them comfortable enough to wear all night. Make sure everyone knows your look isn't one to flutter by! Highlights • 4 Pair Faux Lashes• Lightweight flexible band• Perfect for all day wear• Vegan & Cruelty-Free
-  Updated: 2026-10-22T21:15:15Z
+  Updated: 2026-10-27T21:14:44Z
   Vendor: Profusion Cosmetics
   Product Type: Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Flutter_Lashes_4_pair_Lash_Set.webp?v=1785450446
   Price: $29.00 USD
 - [Minimalist 35 Shade Palette](https://peaklashes.com/products/minimalist-35-shade-palette-1): The "perfect nudes" do exist in this 35-shade Minimalist Palette. The blendable and buildable array of modern nude hues in soft mattes and richly saturated shimmer and glitter finishes will instantly take your look from natural to chic and everything in between. Suitable for all skin tones and perfect for everyone from beginners to pros. Warnings: Discontinue use if signs of rash or irritation appear. Avoid swallowing. If irritation persists, consult your physician immediately.
-  Updated: 2026-10-22T21:17:24Z
+  Updated: 2026-10-30T18:05:43Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/35_Shade_Palette.webp?v=1785450372
   Price: $43.00 USD
 - [Grunge Era-Mascara Duo](https://peaklashes.com/products/grunge-era-mascara-duo-1): Step into the shadows with the Grunge Era Mascara Duo, a double-ended elixir designed to awaken your darkest desires for bold, voluminous lashes. Whether you seek a subtle lift or a dramatic, otherworldly gaze, this duo empowers you to customize your lash look for every mood. Smudge-proof and long-lasting, it allows your lashes to defy the laws of gravity and time, lingering long after the sun sets. Why You'll Love It: Dual Realm Design: Two mascara wands—Nocturnal Blackand Purple Riot. One for lift, one for drama—ensuring your lashes enchant from every angle. Spellbinding Volume: Lashes appear thicker, darker, and more voluminous with every coat. Shadowproof Formula: Resistant to smudging, ensuring your gaze stays smoldering and untouchable all day long. Endless Midnight: Long-wearing formula that lasts through the witching hour and beyond. Dimensions: 1" (W) X 5.625" (H)
-  Updated: 2026-10-22T21:18:31Z
+  Updated: 2026-10-28T15:37:39Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Grunge_Era-Mascara_Duo.png?v=1785450261
   Price: $25.99 USD
 - [Crimson Mini Brushes – 5-Piece Mini Brush Set](https://peaklashes.com/products/crimson-mini-brushes-5-piece-mini-brush-set): A travel-friendly set of brushes to create flawless makeup looks wherever you go. Perfect for gifting or adding festive sparkle to your holiday celebrations. Perfect for holiday gifting! Perfect for gifting or creating unforgettable holiday looks, this product is designed to add a touch of magic to your celebrations. Whether for a party, cozy night in, or as a stocking stuffer, it brings festive joy and sparkle to your holiday season. **How to use:** Use each brush for precise application of foundation, eyeshadow, and blush.
-  Updated: 2026-10-22T21:16:17Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/5-Piece_Mini_Brush_Set.png?v=1785450133
   Price: $25.00 USD
 - [Nick '90s | 18 Shade Palette](https://peaklashes.com/products/nick-90s-18-shade-palette-1): Cue the theme song. This 18-shade palette is a full-color rewind to the bold, fearless energy of Nick in the '90s. Inspired by iconic characters from Rugrats, Rocko's Modern Life, CatDog, Hey Arnold! and Rocket Power, each shade brings big personality, loud color, and playful nostalgia. From electric blues and playful pinks to sunny oranges, slime greens, trippy pops, and everyday nudes. No Reruns. Just hits.The Lineup• Color On Full Blast – A playful mix of matte, shimmer, metallic, and glitter finishes.• Soft But Loud – Richly pigmented powders with a smooth feel.• Made To Remix – Blend and layer shades for endless throwback looks.• Vitamin Boosted – Infused with Vitamins A & E.• Feel-Good Formula – Talc-free and paraben-free.• Good Energy Only – Vegan and cruelty-free formulas.
-  Updated: 2026-10-22T21:18:27Z
+  Updated: 2026-10-26T20:49:12Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Nick_90s_18_Shade_Palette.png?v=1785450003
   Price: $36.00 USD
 - [Pro Artistry 35 Shade Palettes](https://peaklashes.com/products/pro-artistry-35-shade-palettes-1): Inspired by every mood and moment, this 35-shade multi-finish eyeshadow palette brings together warmth, depth, and playful color in one versatile collection. From cozy toasted neutrals and creamy browns to cool smoky charcoals and misty pinks, each shade captures the feeling of soft mornings, golden hour glow, and quiet moments of comfort. Ultra-soft powders infused with Vitamin E glide smoothly across the lids, blending seamlessly and building from sheer washes of color to rich, dimensional depth for effortless everyday looks. The palette then shifts into bolder expression with vibrant berries, electrifying blues, and shadowed metallics that channel late-night city lights and festival energy. These richly pigmented shades layer with ease, allowing you to create subtle statements or fearless, spotlight-ready eyes. Whether you’re embracing calm, mystery, or vibrant creativity, every shade melts together to deliver smooth blending, luminous color, and looks that feel uniquely you. ✨ Palette Features: • Versatile Color Story – Shades that move from soft everyday tones to bold, expressive looks, ranging from cozy warm neutrals and cool smoky hues to vibrant, festival-ready color.• Silky & Skin-Loving – Infused with Vitamin E for smooth application and comfortable wear on the lids.• Multi-Finish Hues – A curated mix of matte, satin, shimmer, and metallic shades designed for effortless layering and dimension.• All-Day Wear – Highly pigmented formulas that stay vibrant without fading or creasing.• Beauty with a Conscience – Vegan, cruelty-free, and made with recyclable materials.
-  Updated: 2026-10-22T16:31:30Z
+  Updated: 2026-10-30T01:53:45Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
@@ -1658,28 +1651,28 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/2905-2AR_Closed_d9a3dfbe-1161-4e72-8d45-0c9240b244ad.png?v=1783519835
     Price: $43.00 USD
 - [Eye Essentials 3PC Eye Brush Set](https://peaklashes.com/products/eye-essentials-3pc-eye-brush-set): A fresh look for your face routine favorites. Meet your go-to eye brushes, now with a glow-up. The Artistry Eye Essentials 3-Piece Eye Brush Set brings the same ultra-soft, pro-loved performance you know and love. Now updated with sleek transparent handles and a new reusable bag to keep your eye looks sharp wherever you go. Designed for smooth shadow application, seamless blending, and clean definition, this trio gives you the control and versatility to take any look from soft daytime eyes to bold, detailed evening vibes. Each brush features soft, gentle synthetic bristles and a curated ergonomic handle for balanced comfort and effortless precision, whether you’re working with powder, cream, or liquid formulas. Meet the Eye Essentials: • ES6 Small Pointed Eyeshadow Brush – Perfect for detailed crease work and outer-corner definition • ES2 Firm Blending Eyeshadow Brush – Blends shadows smoothly with control and soft transitions • ES7 Flat Precise Eyeshadow Brush – Packs on pigment and defines the lash line with precision Brushes Worth Reaching For: • Same loved quality with a fresh, modern look • Soft and gentle synthetic bristles • Curated ergonomic handles for precise application • Comfortable grip for total control • Easy to clean and built to last • Reusable Brush Bag • Vegan and cruelty-free
-  Updated: 2026-10-22T21:17:14Z
+  Updated: 2026-10-28T20:02:23Z
   Vendor: Profusion Cosmetics
   Product Type: Brush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Eye_Essentials_3PC_Eye_Brush_Set.png?v=1785449713
   Price: $33.00 USD
 - [Written in the Stars | Starry Eyes 18-shade Palette](https://peaklashes.com/products/written-in-the-stars-starry-eyes-18-shade-palette-1): Create astronomical looks with this multi-finish 18-shade Starry Eyed Palette, with ultra-soft blending brush included. This palette features 15 shades ranging from matte and shimmer finishes that are highly pigmented and blend-able plus 3-star shaped pressed glitters. ♥ 15 Eyeshadows in a Variety of Finishes♥ 3 Pressed Glitters♥ 1 Eyeshadow Brush
-  Updated: 2026-10-22T21:15:00Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Cosmetics
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/multi-finish_18-shade_Starry_Eyed_Palette.webp?v=1785449597
   Price: $40.00 USD
 - [Sweet Holiday | Candy Canes 9-Shade Palette](https://peaklashes.com/products/sweet-holiday-candy-canes-9-shade-palette-1): Sugar and spice and all things nice! Each limited-edition Sweet Holiday palette includes 9-shades in a variety of finishes inspired by the most beloved holiday treats. Collect all four palettes or gift them to someone sweet!
-  Updated: 2026-10-22T21:14:54Z
+  Updated: 2026-10-30T09:17:36Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Candy_Canes_9-Shade_Palette.webp?v=1785449482
   Price: $25.00 USD
 - [Artistry On-The-Go](https://peaklashes.com/products/artistry-on-the-go-1): Busy mornings and early commutes are no match for Artistry On-The-Go! Our curated sets, including city-chic neutrals, wild, earthy tones, and bright tropical hues, offer a variety of options for every mood and occasion. The travel-friendly, reusable makeup case is the perfect companion for your busy lifestyle, and all our products are vegan & cruelty-free. Our plastic-free, talc-free, and paraben-free products offer a smooth application with every swipe, and our value set includes a 9-shade eye palette, 6-shade face palette, 2 eyeshadow brushes, 1 face brush, 1 shadow primer, and 1 face primer. Infused with hyaluronic acid and vitamin E, our products are free from BHA, phthalates, sulfate, talc, triclosan, lead, and are non-comedogenic. Made from recyclable material, our value set is the perfect addition to your makeup collection. Unleash your inner artistry wherever you go! Versatility: From subtle everyday looks to bold statement styles, these sets offer a range of options to suit your mood and occasion.Curated Sets for Every Style: • In The City: Chic neutrals that effortlessly blend into the city life.• In The Wild: Earthy tones for a wild and adventurous style.• In The Tropics: Bright hues to transport you to the tropics. • In The Cosmos: Celestial pinks, mauves, and purples for a radiant day-to-night glow. • Skin-Loving Ingredients: Our Artistry On-The-Go sets are packed with two amazing ingredients that work wonders for your skin. Hyaluronic acid locks in moisture, while vitamin E gives antioxidant protection. This non-comedogenic formula is safe for all skin types, including sensitive skin, and won't clog pores or cause breakouts.• Travel-friendly: Lightweight and compact, these sets are easy to pack in your bag without taking up too much space.• Perfectly Priced: Our Value Set offers a range of products at an affordable price, so you can indulge in quality makeup without breaking the bank.• Vegan & Cruelty-Free: Our products are never tested on animals and are free of any animal-derived ingredients.• Sustainable and environmentally friendly: We are committed to reducing our environmental impact by using sustainable packaging.
-  Updated: 2026-10-22T21:15:52Z
+  Updated: 2026-10-29T00:45:56Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1701,56 +1694,56 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/6_AA-xtf_11a03b59-fb3b-4389-a517-6cc5c2a23241.jpg?v=1783519836
     Price: $42.00 USD
 - [Frosted Snow Sparkle | 7 PC Makeup Brush & Cleaning Mat Set](https://peaklashes.com/products/frosted-snow-sparkle-7-pc-makeup-brush-cleaning-mat-set): Get ready to achieve a flawless makeup look with this Frosted Snow Sparkle 7 PC Makeup Brush & Cleaning Mat Set. Each brush is carefully curated with high-quality synthetic bristles that are not only vegan and cruelty-free but also ensure a smooth, even application. Whether you're a professional MUA or an aspiring makeup enthusiast, these brushes will help you create stunning looks effortlessly. This set also includes a brush cleaning mat to keep your brushes in pristine condition.
-  Updated: 2026-10-22T21:15:39Z
+  Updated: 2026-10-25T04:11:56Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/7_PC_Makeup_Brush_Cleaning_Mat_Set.jpg?v=1785448776
   Price: $39.99 USD
 - [Casper & Hot Stuff 24 Shade Palette](https://peaklashes.com/products/casper-hot-stuff-24-shade-palette-1): Step into a realm of limitless creativity where Casper’s playful spirit meets Hot Stuff’s sizzling energy! This dynamic duo showcases multi-finish eyeshadows that effortlessly blend ghostly pastels with fiery pops of color, allowing you to create captivating day-to-night looks with velvety soft mattes and dreamy pearlescent shimmers. Whether you’re channeling Casper’s cheeky side for a flirty day look or cranking up the heat with Hot Stuff’s daring hues for a night out, this palette has all the shades you need. Infused with Vitamin A and E, talc- and paraben-free, these buttery powders glide on like a dream, delivering stunning, long-lasting color payoff. Experience long-wearing, buildable, and blendable shades that empower you to unleash your inner artist and express your unique style! 💕 🔥👻 The Best of Both Worlds Multi-Finish Magic: From soft mattes to dreamy pearlescent shimmers, these eyeshadows let you create endless looks. Velvety Smooth & Long-Wearing: These buttery shades glide on like a dream, blending seamlessly and staying vibrant all day or night. Nourishing Formula: Infused with Vitamin A & E, these shadows keep your lids soft and radiant. No Harsh Ingredients: Made without talc and parabens, this palette is pure goodness in every swipe. Crafted with Care: 100% vegan and cruelty-free, with eco-friendly packaging (75% recyclable).
-  Updated: 2026-10-22T21:16:22Z
+  Updated: 2026-10-30T20:28:55Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Hot_Stuff_24_Shade_Palette.png?v=1785448704
   Price: $26.99 USD
 - [Frosted Snow Sparkle | 4 Pair Luxe False Lash Set](https://peaklashes.com/products/frosted-snow-sparkle-4-pair-luxe-false-lash-set-1): Get ready to dazzle this holiday season with our Frosted Snow Sparkle Luxe False Lash! This 4 pair faux mink lash set is not only vegan and cruelty-free, but also crafted to perfection. The lightweight lashes provide comfortable wear all day or night, while the clear eyelash adhesive ensures they stay in place without any mess. Whether you're going for a classic Christmas or a New Year's Eve look, this set has got you covered.
-  Updated: 2026-10-22T21:15:38Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/4_Pair_Luxe_False_Lash_Set.png?v=1785444558
   Price: $30.00 USD
 - [Frosted Snow Sparkle | Icicle Eyeshadow](https://peaklashes.com/products/frosted-snow-sparkle-icicle-eyeshadow-1): Transform your holiday look with this Frosted Snow Sparkle Shadow Quad! This vegan and cruelty-free palette is a must-have for any festive eye look. The four bendable and buildable shadows give you endless possibilities to create stunning and unique makeup looks. Whether you're going for a subtle shimmer or a bold statement, these shadows are perfect for all occasions. Get ready to dazzle and shine this season!
-  Updated: 2026-10-22T21:15:36Z
+  Updated: 2026-10-29T02:03:27Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Frosted_Snow_Sparkle_Icicle_Eyeshadow.png?v=1785444495
   Price: $27.36 USD
 - [Euphoric Glam | Starlight Face Palette](https://peaklashes.com/products/euphoric-glam-starlight-face-palette): Get ready to shade and glow, wherever you go with this 6 shade Starlight Palette. The buildable and blendable contour shades are perfect to chisel and define your natural features, while the richly pigmented blush and highlighters enhance a perfect lit-from-within complexion. Universally flattering and perfect for everyone from beginners to pros.
-  Updated: 2026-10-22T21:14:31Z
+  Updated: 2026-10-24T19:02:31Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Euphoric_Glam_Starlight_Face_Palette.webp?v=1785444376
   Price: $22.35 USD
 - [Artistry Essentials | 10 PC Beauty Kit](https://peaklashes.com/products/artistry-essentials-10-pc-beauty-kit): Your full-face routine, made simple. The Artistry Essentials 9 Shade Beauty Kit + Cosmetic Bag is designed for everyday makeup that feels easy, refined, and effortless with just the right amount of main character energy. This all-in-one beauty set includes everything you need to prime, define, blend, blush, and set your look. Inside, you’ll find a shadow quad with richly pigmented multi-finish shades, shadow primer, liquid eyeliner, liquid blush, volumizing mascara, setting spray, one face brush, two eye brushes, and a cosmetic bag to keep your beauty essentials together. Soft, buildable formulas let you create natural definition or layer for more dimension. From everyday routines to last-minute plans, this kit makes getting ready feel seamless. Your New Everyday Beauty Essential • Full-face routine – Everything you need for everyday makeup in one ready-to-go kit • Buildable formulas – Easy-to-layer textures let you go soft or add more dimension • Rich color payoff – Multi-finish shadows deliver pigmented color for day-to-night looks • Skin-loving feel – Comfortable formulas infused with skin-loving ingredients for everyday wear • Tools included – Face and eye brushes for easy blending, defining, and finishing • On-the-go ready – Cosmetic bag keeps your essentials organized at home or while traveling • Clean beauty details – Talc-free, paraben-free, vegan, and cruelty-free formulas
-  Updated: 2026-10-22T21:17:56Z
+  Updated: 2026-10-26T23:08:11Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Artistry_Essentials_10_PC_Beauty_Kit.png?v=1785444200
   Price: $48.99 USD
 - [Monster Bash | Chrome Monster Gel Liner Set](https://peaklashes.com/products/monster-bash-chrome-monster-gel-liner-set): Bring your look to life with the Chrome Monster Chrome Gel Liner Set. These high-voltage gel liners deliver intense pigment and a metallic finish that’s perfect for spooky nights or electrifying looks. Whether you’re drawing a precise line or smudging for sultry, shadowy vibes, they glide on smoothly and stay put. Add a pop of shocking pigment and electric shine for eyes that spark all night. Monster-Worthy Perks:• Long-Lasting Voltage: Keeps your look electrified from dusk till dawn• Shockingly Smooth: Glides like a bolt of lightning for precise or smudged looks• Bolt of Nourishment: Enriched with Vitamin E• Spooky Kindness: Vegan & cruelty-free
-  Updated: 2026-10-22T21:18:45Z
+  Updated: 2026-10-30T20:28:46Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Monster_Bash_Chrome_Monster_Gel_Liner_Set.png?v=1785444147
   Price: $27.99 USD
 - [I 🖤 Boba | So Jelly Face & Body Glitter](https://peaklashes.com/products/i-boba-so-jelly-face-body-glitter): Shine on all summer long with our multi-purpose face and body glitter. Add it to your cheekbones for a sparkly glow or apply along your collar bones for an unbeliebubble sparkle! This light-weight formula builds up nicely for those days when you need some extra glow and stays in place all day and night, so no need to worry about re-applying throughout the day. Available in two color ways.
-  Updated: 2026-10-22T22:47:38Z
+  Updated: 2026-10-27T23:19:39Z
   Vendor: Profusion Cosmetics
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1764,14 +1757,14 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/BG005_componentcopy.webp?v=1783520019
     Price: $22.99 USD
 - [Metachrome | Technoliners 3pc DuoChrome Liner Set](https://peaklashes.com/products/metachrome-technoliners-3pc-duochrome-liner-set-1): Discover a realm of color shifting possibilities with this Techno Liner set. The easy glide and long-wearing gel formula will allow you to draw precise lines, while the hyper pigmented and shade shifting hues will instantly transform your day to night look. Designed for all skin tones. Highlights • Longwearing and easy glide formula• Hyper pigmented and shade shifting formula• Perfect for any day to night looks• Universally flattering• Cruelty Free
-  Updated: 2026-10-22T21:18:30Z
+  Updated: 2026-10-29T02:03:26Z
   Vendor: Profusion Cosmetics
   Product Type: Eyes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/ELN024_Component_38cb1ea4-2b50-4b43-8aba-5d769204bb75.webp?v=1783520019
   Price: $34.92 USD
 - [I 🖤 Boba | Milk Tea 6-Shade Palette](https://peaklashes.com/products/i-boba-milk-tea-6-shade-palette-1): Order up! Your ideal boba tea collection is ready for pick-up. This taro-iffic 6-shade eyeshadow palette is inspired by our favorite boba tea flavors! Each palette features a lineup of brew-tea-ful matte, shimmer, and metallic shades. Available in four tea-rrific colorways.
-  Updated: 2026-10-22T21:18:35Z
+  Updated: 2026-10-30T20:37:38Z
   Vendor: Profusion Cosmetics
   Product Type: Eyes
   Availability: Available
@@ -1793,14 +1786,14 @@
     Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/FPA009_Opencopy_7cfbb9a1-72be-4ba4-a8c2-ab71098ca1ad.webp?v=1783520020
     Price: $28.00 USD
 - [Day Dream](https://peaklashes.com/products/day-dream-1): Day Dream is fluffy 'n soft! Her clustered pattern offers the perfect amount of airiness, making her the perfect day OR nighttime lash (we love a diverse queen!) 100% vegan and cruelty-free. Uses: Up to 15 wears Material: 3D Faux Mink Length: 5-16mm Effect: Wispy, soft-focus Shape: Flare Volume: Light Cherry Gllaze is sold separately.
-  Updated: 2026-10-19T22:54:38Z
+  Updated: 2026-10-29T09:35:06Z
   Vendor: Pink Purée
   Product Type: Faux Mink Lashes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0608/1717/8863/files/Day_Dream_Featherweight_Strip_Lashes_9b095ee7-1440-4432-b9fc-d1bfd7ca637a.png?v=1783524551
   Price: $23.00 USD
 - [Lash Assistant](https://peaklashes.com/products/lash-assistant-1): Lash Assistant is the ultimate tool for a lash beginner! This little lash helper helps you get the perfect application every time! The ergonomic shape allows you to easily grab your lash and place it exactly where you want it. Features: 4" Base: for better grasp and easier control Precision Tip: for full control of lash placement Instructions: Carefully remove lashes from the lash tray. Apply a thin layer of Cherry Glaze to the top of the lash band. Wait 30 seconds, or until the glue becomes tacky (it will start to turn clear.) Tilt your head back and look down into a mirror to easily see the natural lash line. Apply lashes using your Lash Assistant.
-  Updated: 2026-10-17T22:26:14Z
+  Updated: 2026-10-28T19:00:21Z
   Vendor: Pink Purée
   Product Type: Beauty & Personal Care
   Availability: Available
@@ -1811,23 +1804,23 @@
 ## Collections
 
 - [Mascara](https://peaklashes.com/collections/mascara): Shop premium mascaras at Peak Lashes™. Volumizing, lengthening & waterproof formulas for bold, defined lashes. Long-lasting wear for every look.
-  Updated: 2026-10-22T23:55:21Z
+  Updated: 2026-10-23T20:23:59Z
   Total Products: 147
 - [Eyelashes](https://peaklashes.com/collections/eyelashes): Shop 250+ premium false eyelashes at Peak Lashes™. Wispy, full volume & bridal lash styles. Faux silk strips for every look. Free shipping available.
-  Updated: 2026-10-18T01:11:55Z
-  Total Products: 266
+  Updated: 2026-10-23T01:21:56Z
+  Total Products: 267
 - [Eyelash Accessories](https://peaklashes.com/collections/accessories): Shop lash glue, applicators & eyelash accessories at Peak Lashes™. Everything you need for a flawless false lash application. Premium tools, lasting hold.
-  Updated: 2026-10-22T23:36:19Z
-  Total Products: 86
+  Updated: 2026-10-27T16:38:29Z
+  Total Products: 88
 - [Eyeshadows](https://peaklashes.com/collections/eyeshadows): Shop highly pigmented, long-lasting eyeshadows at Peak Lashes™. Matte, shimmer & glitter finishes safe for sensitive eyes. Pair with your favourite lashes.
-  Updated: 2026-10-18T01:29:43Z
-  Total Products: 305
+  Updated: 2026-10-23T18:08:31Z
+  Total Products: 306
 - [Lip Care](https://peaklashes.com/collections/lip-care): Shop premium lip care at Peak Lashes™. Hydrating balms, glosses & nourishing lip treatments for soft, healthy lips. Complete your beauty routine.
-  Updated: 2026-10-23T00:45:02Z
-  Total Products: 183
+  Updated: 2026-10-23T18:20:18Z
+  Total Products: 189
 - [Beauty Care](https://peaklashes.com/collections/beauty-care): Shop beauty care essentials at Peak Lashes™. Premium skincare, makeup tools & beauty must-haves to elevate your daily routine. Luxury beauty, delivered.
-  Updated: 2026-10-17T19:52:51Z
-  Total Products: 200
+  Updated: 2026-10-23T01:23:09Z
+  Total Products: 201
 - [Gift Cards](https://peaklashes.com/collections/gift-cards): Give the freedom to choose with Peak Lashes™ digital gift cards. Shop $15, $25, $50, and $100 amounts for birthdays, thank-yous, and everyday gifting.
   Updated: 2026-10-14T23:39:52Z
   Total Products: 1
@@ -1937,6 +1930,11 @@
     Updated: 2026-09-07T18:14:06Z
     Author: Peak Lashes™
     Tags: #beautytips, #Bestlashesforbeginners #Bestfalseeyelashes #Falseeyelashesonline #Lashworld #Lashlovers #eyelashetrends #eyelashetips #lashcare #Healthylashes #professionalgradedquality  #AHistoricalLookatEyelashTrendsThroughtheAges
+- [Is Lash Tinting Right for You? A Comparison](https://peaklashes.com/blogs/is-lash-tinting-right-for-you-a-comparison)
+  - [Is Lash Tinting Right for You? A Comparison](https://peaklashes.com/blogs/is-lash-tinting-right-for-you-a-comparison/is-lash-tinting-right-for-you-a-comparison): Is Lash Tinting Right for You? A Comparison
+    Updated: 2026-10-29T01:04:16Z
+    Author: Peak Lashes™
+    Tags: #Bestlashesforbeginners #Bestfalseeyelashes #Falseeyelashesonline #Lashworld #Lashlovers #eyelashetrends #eyelashetips #lashcare #Healthylashes #professionalgradedquality  #AHistoricalLookatEyelashTrendsThroughtheAges
 
 ## Store Pages
 
@@ -1958,7 +1956,7 @@
 ## Policies
 
 - [Privacy Policy](https://peaklashes.com/policies/privacy-policy)
-  Updated: 2025-06-14T18:34:32Z
+  Updated: 2026-10-29T01:12:52Z
 - [Shipping Policy](https://peaklashes.com/policies/shipping-policy)
   Updated: 2026-07-02T14:15:59Z
 - [Refund Policy](https://peaklashes.com/policies/refund-policy)
