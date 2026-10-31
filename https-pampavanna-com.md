@@ -6,40 +6,40 @@
 - Timezone: America/Chicago
 - Created At: 2025-08-07T02:57:28Z
 - Contact Email: contact@pampavanna.com
-- Updated At: 2026-10-23T01:11:41.412Z
+- Updated At: 2026-10-31T00:31:58.782Z
 
 ## Products
 
 - [No-Drill Magnetic Knife Holder 16" - 304 Stainless | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-16in-stainless-steel-silver): 16-inch magnetic knife holder in 304 stainless steel. Mounts with no drilling (3M adhesive), screws, or fridge magnet. Rust-resistant. Free US shipping.
-  Updated: 2026-10-22T07:05:29Z
+  Updated: 2026-10-31T00:05:22Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_04_55_12_PM.png?v=1777079809
   Price: $34.99 USD
 - [Black Magnetic Knife Holder 16" - No Drill Mount | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-black-16in): Black 16-inch magnetic knife holder. No-drill 3M adhesive, screw, or fridge mount. 304 stainless steel, rust-resistant. Free US shipping.
-  Updated: 2026-10-21T09:05:28Z
+  Updated: 2026-10-30T20:05:27Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_05_14_29_PM.png?v=1777080338
   Price: $34.99 USD
 - [Gunmetal Magnetic Knife Holder 16" - Exclusive | Pampavanna](https://pampavanna.com/products/gunmetal-magnetic-knife-holder-16in-stainless-steel): Exclusive Gunmetal 16-inch magnetic knife holder. No-drill mount, 304 stainless steel, rust-resistant. Free US shipping from Texas.
-  Updated: 2026-10-22T23:05:29Z
+  Updated: 2026-10-30T23:05:26Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_Apr_22_2026_05_26_55_PM.png?v=1777080295
   Price: $34.99 USD
 - [Teak End Grain Cutting Board - Premium | Pampavanna](https://pampavanna.com/products/pampavanna-teak-wood-cutting-board-premium-kitchen-board): Premium teak end grain cutting board. Durable, knife-friendly, beautiful. Free US shipping.
-  Updated: 2026-10-09T02:55:44Z
+  Updated: 2026-10-28T02:57:42Z
   Vendor: Pampavanna
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0627/7568/9291/files/ChatGPT_Image_May_17_2026_05_35_23_PM.png?v=1779057353
   Price: $99.99 USD
 - [Knife Holder + Teak Board Bundle - Save $15 | Pampavanna](https://pampavanna.com/products/magnetic-knife-holder-teak-board-bundle): Bundle and save $15: 16-inch magnetic knife holder (Silver, Black, or Gunmetal) + teak end grain cutting board. Free US shipping.
-  Updated: 2026-10-09T02:55:51Z
+  Updated: 2026-10-30T02:11:54Z
   Vendor: Pampavanna
   Product Type: Bundle
   Availability: Available
@@ -101,7 +101,7 @@
 ## Policies
 
 - [Privacy Policy](https://pampavanna.com/policies/privacy-policy)
-  Updated: 2025-08-07T02:57:40Z
+  Updated: 2026-10-30T09:00:12Z
 - [Shipping Policy](https://pampavanna.com/policies/shipping-policy)
   Updated: 2025-08-18T18:01:35Z
 - [Refund Policy](https://pampavanna.com/policies/refund-policy)
