@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-10-23T01:15:47.230Z
+- Updated At: 2026-10-31T00:40:07.885Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -39,14 +39,14 @@ We are committed to providing accurate product information, clean ingredient sta
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
 - [99% Organic Aloe Vera Gel Refill, 64.2 oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64-2oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
-  Updated: 2026-10-23T00:23:50Z
+  Updated: 2026-10-30T19:59:31Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
 - [100% Organic Castile Soap, Unscented 64oz with Pump | NaturSense](https://natur-sense.com/products/organic-castile-soap-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 64oz with pump.
-  Updated: 2026-10-23T00:17:27Z
+  Updated: 2026-10-31T00:11:07Z
   Vendor: NaturSense
   Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
@@ -56,16 +56,16 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-10-22T11:10:11Z
+  Updated: 2026-10-30T11:06:36Z
   Total Products: 5
 - [Shop All NaturSense Products](https://natur-sense.com/collections/all): Shop all NaturSense products: 99% organic aloe vera gel and pure Castile soap. Unscented, cruelty-free and made by a family-owned company.
-  Updated: 2026-10-22T11:10:11Z
+  Updated: 2026-10-30T11:06:36Z
   Total Products: 7
 - [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products): 99% organic, cold-pressed aloe vera gel that soothes sunburn, hydrates skin, and conditions hair. Aloin-free, no sticky residue, made in the USA.
-  Updated: 2026-10-20T11:07:13Z
+  Updated: 2026-10-25T11:08:24Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
-  Updated: 2026-10-22T11:10:11Z
+  Updated: 2026-10-30T11:06:36Z
   Total Products: 2
 - [Methylene Blue Products](https://natur-sense.com/collections/methylene-blue-products)
   Updated: 2026-08-24T22:25:26Z
@@ -173,6 +173,10 @@ We are committed to providing accurate product information, clean ingredient sta
     Updated: 2026-10-19T04:00:03Z
     Author: Maida Candler
     Tags: aloe vera gel, clean beauty, fragrance-free, gentle skincare, sensitive skin, skincare ingredients
+  - [How to Use Aloe Vera Gel on Curly Hair](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-curly-hair): <p>How to use aloe vera gel on curly hair — leave-in vs. rinse-out, the scrunch method, and second-day refreshing — for soft, defined curls.</p>
+    Updated: 2026-10-26T04:00:07Z
+    Author: Maida Candler
+    Tags: aloe vera gel, curly hair, hair care, leave-in, natural hair, styling
 
 ## Store Pages
 
@@ -186,6 +190,8 @@ We are committed to providing accurate product information, clean ingredient sta
   Updated: 2026-10-12T19:04:16Z
 - [Accessibility](https://natur-sense.com/pages/accessibility): NaturSense Accessibility Statement Updated: October 2023. General NaturSense strives to ensure that its services are accessible to people with disa...
   Updated: 2023-10-16T19:17:39Z
+- [Press](https://natur-sense.com/pages/press)
+  Updated: 2026-10-27T17:57:20Z
 
 ## Policies
 
