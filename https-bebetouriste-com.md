@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-10-23T01:20:25.435Z
+- Updated At: 2026-10-31T00:46:07.023Z
 
 ## Products
 
@@ -1209,7 +1209,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/canard3.jpg?v=1780932514
     Price: 45,00 € EUR
 - [Poussette 4 en 1 - BabyStroller™](https://bebetouriste.com/products/poussette-4-en-1-babystroller): 🛒 Découvrez notre poussette 4 en 1 ultra-légère ! Transformez vos sorties avec bébé grâce à ce système convertible de la naissance à 3 ans. Commandez maintenant !
-  Updated: 2026-10-22T17:33:44Z
+  Updated: 2026-10-23T05:33:28Z
   Vendor: Bébé Touriste
   Product Type: dsers
   Availability: Available
@@ -2758,7 +2758,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/langer-7.jpg?v=1783378980
     Price: 38,50 € EUR
-[List Continued](https://bebetouriste.com/a/llms-agent/llms.txt?shop=750a41-4e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDI3MTcyMzcyNTM3LCJsYXN0X3ZhbHVlIjoiODAyNzE3MjM3MjUzNyJ9)
+[List Continued](https://bebetouriste.com/a/llms-agent/llms.txt?shop=750a41-4e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDI3MTcyMzcyNTM3LCJsYXN0X3ZhbHVlIjoiMjAyNS0wOS0yMSAxNToxNDowNS4wMDAwMDAifQ%3D%3D)
 
 ## Collections
 
@@ -2777,9 +2777,9 @@
 - [PORTE BEBE](https://bebetouriste.com/collections/porte-bebe): Découvrez tout sur le porte bebe! Du modèle vélo à l'ergonomique, trouvez le porte-bébé idéal pour votre enfant. Guide expert pour choisir le meilleur produit.
   Updated: 2026-07-08T01:20:39Z
   Total Products: 26
-- [CHANCELIÈRE POUSSETTE](https://bebetouriste.com/collections/chanceliere-poussette): Notre sélection de chancelières poussette offre des modèles universels, pratiques et confortables, adaptés à toutes les poussettes pour conforter votre petit.
-  Updated: 2026-09-05T03:27:52Z
-  Total Products: 35
+- [CHANCELIÈRE BÉBÉ](https://bebetouriste.com/collections/chanceliere-bebe): Notre sélection de chancelières bébé offre des modèles universels, pratiques et confortables, adaptés à toutes les poussettes pour conforter votre petit.
+  Updated: 2026-10-26T20:44:29Z
+  Total Products: 36
 - [NID D'ANGE](https://bebetouriste.com/collections/nids-dange): 👶 Découvrez nos nids d'ange, cocons douillets pour garder bébé au chaud en balade. Pratiques pour poussettes et sièges auto. Commandez le vôtre !
   Updated: 2026-08-05T11:12:55Z
   Total Products: 15
@@ -2897,8 +2897,8 @@
 - [LIT MOUSTIQUAIRE BEBE](https://bebetouriste.com/collections/lit-moustiquaire-bebe): Découvrez la sélection de lits moustiquaires bébé pour des nuits calmes. Protection optimale contre les insectes, modèles portables et lits de voyage légères.
   Updated: 2026-09-20T03:08:58Z
   Total Products: 5
-- [LIT CODODO](https://bebetouriste.com/collections/lit-cododo): Découvrez le lit cododo, cododo de voyage, le lit bébé pour camping. Pratiques, sécurisés et confortables, ils accompagnent bébé à la maison et en déplacement.
-  Updated: 2026-09-20T02:36:08Z
+- [CODODO](https://bebetouriste.com/collections/cododo): Découvrez le lit cododo, cododo de voyage, le lit bébé pour camping. Pratiques, sécurisés et confortables, ils accompagnent bébé à la maison et en déplacement.
+  Updated: 2026-10-26T21:32:31Z
   Total Products: 5
 - [SAC A LANGER LIT](https://bebetouriste.com/collections/sac-a-langer-lit): `Sac à langer lit 2-en-1 : transformez votre sac en lit bébé en secondes ! Pratique, léger et sécurisé pour voyager sereinement avec votre enfant.`
   Updated: 2026-09-21T21:38:40Z
