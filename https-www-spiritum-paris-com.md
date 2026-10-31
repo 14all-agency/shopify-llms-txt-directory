@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2022-04-11T17:58:45Z
 - Contact Email: contact@spiritumparis.com
-- Updated At: 2026-10-23T01:11:34.729Z
+- Updated At: 2026-10-31T00:28:25.009Z
 
 ## Products
 
