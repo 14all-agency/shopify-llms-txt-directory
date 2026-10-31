@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-10-23T01:22:02.766Z
+- Updated At: 2026-10-31T00:45:35.601Z
 
 ## Products
 
@@ -42,7 +42,7 @@
     Availability: Available
     Price: $25.99 USD
 - [Jigsimur Herbal Drink 750ml, Aloe Ferox | Nexxtmart](https://nexxtmart.com/products/jigsimur-natural-herbal-drink): Buy Jigsimur herbal drink, made from Aloe ferox harvested in South Africa's Western Cape. 750ml bottle, shipped across the United States.
-  Updated: 2026-10-20T17:09:55Z
+  Updated: 2026-10-30T17:27:46Z
   Vendor: Jigsimur
   Product Type: 
   Availability: Available
@@ -83,7 +83,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/cerelac.png?v=1758922661
   Price: $29.99 USD
 - [Ayoola Poundo Yam 2lb & 4lb, Instant Pounded Yam | Nexxtmart](https://nexxtmart.com/products/ayoola-poundo-yam-flour): Buy Ayoola poundo yam flour, instant pounded yam in four minutes. Includes how to turn it smooth. Shipped across the United States.
-  Updated: 2026-09-16T10:04:38Z
+  Updated: 2026-10-26T04:58:26Z
   Vendor: Ayoola
   Product Type: 
   Availability: Available
@@ -203,7 +203,7 @@
     Availability: Available
     Price: $37.99 USD
 - [White Garri / Gari 2lb-20lb, Cassava Flakes for Eba | Nexxtmart](https://nexxtmart.com/products/white-garri): Buy white garri online. Nigerian cassava flakes for eba or for drinking. 2lb, 4lb, 8lb and 20lb. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-10-26T04:58:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -228,20 +228,20 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/cowbell-chocolate.png?v=1758922708
   Price: $13.99 USD
 - [Honeywell Semolina 1kg-5kg, Nigerian Semo Flour | Nexxtmart](https://nexxtmart.com/products/honeywell-semolina): Buy Honeywell semolina flour for semo. Includes how to turn it smooth. 1kg, 2kg and 5kg. Shipped across the United States.
-  Updated: 2026-09-16T10:04:42Z
+  Updated: 2026-10-30T17:25:56Z
   Vendor: Honeywell
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Honeywell_Semolina.png?v=1758922712
   - [1kg](https://nexxtmart.com/products/honeywell-semolina?variant=45830060048436)
     Availability: Available
-    Price: $11.75 USD
+    Price: $13.75 USD
   - [2kg](https://nexxtmart.com/products/honeywell-semolina?variant=45830060081204)
     Availability: Available
-    Price: $17.99 USD
+    Price: $19.99 USD
   - [5kg](https://nexxtmart.com/products/honeywell-semolina?variant=45830060113972)
     Availability: Available
-    Price: $49.99 USD
+    Price: $51.99 USD
 - [Alomo Bitters 750ml, Ghanaian Herbal Spirit | Nexxtmart](https://nexxtmart.com/products/alomo-bitters-herbal-extract-drink): Buy Alomo Bitters 750ml, the Ghanaian herbal spirit made from African roots and herbs. Shipped across the US. Ages 21 and over.
   Updated: 2026-09-29T21:40:46Z
   Vendor: Alomo
@@ -381,7 +381,7 @@
     Availability: Available
     Price: $199.99 USD
 - [Beloxxi Cream Crackers, Pack of 6 & Box of 48 | Nexxtmart](https://nexxtmart.com/products/beloxxi-cream-crackers): Beloxxi Cream Crackers The pale blue and white pack that turns up at every Nigerian gathering, in every hospital bag, and in the boot of every long journey. Light, crisp, faintly sweet cream crackers. Not exciting on paper, and yet somehow the single most reliably present biscuit in Nigerian life. How they get eaten With tea, in the morning, dunked until they nearly collapse. With Milo or Peak, by children who have been told to have something before school. Handed out at naming ceremonies and church, alongside a bottle of malt. In hospital, because they are the one thing everybody can manage. Straight from the pack on a long drive. Product details Brand: Beloxxi Sizes: Pack of 6 (40g each), box of 48 Contains: Wheat. May contain milk and soy. Storage: Cool, dry cupboard. Seal after opening or they soften. Shipped from Nexxtmart to anywhere in the United States. The box of 48 is what people order for parties, churches and care packages home. Allergen: contains wheat. May contain milk and soy.
-  Updated: 2026-09-16T10:04:49Z
+  Updated: 2026-10-30T17:25:55Z
   Vendor: Beloxxi
   Product Type: 
   Availability: Available
@@ -393,14 +393,14 @@
     Availability: Available
     Price: $39.99 USD
 - [Ewedu 6.8oz, Dried Jute Leaves for Ewedu Soup | Nexxtmart](https://nexxtmart.com/products/ewedu-jute-leaves): Buy dried ewedu jute leaves 6.8oz for Yoruba ewedu soup. Includes how to beat it and keep the colour bright. Shipped across the United States.
-  Updated: 2026-09-15T22:37:15Z
+  Updated: 2026-10-30T17:25:56Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ewedu_Jute_Leaves.png?v=1758922754
-  Price: $14.99 USD
+  Price: $17.99 USD
 - [Pure Bliss Milk Cream Wafers, 5 & 12 Packs | Nexxtmart](https://nexxtmart.com/products/pure-bliss-wafer-biscuit): Buy Pure Bliss milk cream wafer biscuits, packs of 5 or 12. Shipped across the United States.
-  Updated: 2026-09-16T10:04:51Z
+  Updated: 2026-10-30T17:25:56Z
   Vendor: Pure Bliss
   Product Type: 
   Availability: Available
@@ -431,7 +431,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/10.png?v=1758922765
   Price: $7.55 USD
 - [Golden Morn Cereal 600g-900g & Box of 6 | Nexxtmart](https://nexxtmart.com/products/golden-morn-cereal): Buy Golden Morn maize breakfast cereal, 600g, 900g or a box of six. The Nigerian breakfast staple. Shipped across the United States.
-  Updated: 2026-09-16T10:04:56Z
+  Updated: 2026-10-26T04:58:26Z
   Vendor: Nestlé
   Product Type: 
   Availability: Available
@@ -471,7 +471,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Blue Band Margarine 250g & 450g, Original & Low Fat | Nexxtmart](https://nexxtmart.com/products/blue-band-margarine): Buy Blue Band margarine, the Nigerian breakfast spread for bread, rice and baking. Original and Low Fat, 250g and 450g. Shipped across the US.
-  Updated: 2026-09-22T16:51:55Z
+  Updated: 2026-10-26T04:58:25Z
   Vendor: Blue Band
   Product Type: 
   Availability: Available
@@ -523,26 +523,26 @@
     Availability: Available
     Price: $20.99 USD
 - [Peak Milk Powder 360g-2.5kg, Full Cream Tin & Sachet | Nexxtmart](https://nexxtmart.com/products/peak-milk-powder): Buy Peak full cream milk powder in sachets and tins, 360g to 2.5kg. The Nigerian tea staple. Shipped across the United States.
-  Updated: 2026-09-16T10:04:55Z
+  Updated: 2026-10-26T14:49:47Z
   Vendor: Peak
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Peak_Milk_Powder_Tin_2500g.png?v=1758922807
   - [400g TIN](https://nexxtmart.com/products/peak-milk-powder?variant=45833505669172)
     Availability: Available
-    Price: $13.20 USD
+    Price: $14.20 USD
   - [900g TIN](https://nexxtmart.com/products/peak-milk-powder?variant=45833505701940)
     Availability: Available
-    Price: $19.99 USD
+    Price: $21.99 USD
   - [2500g TIN](https://nexxtmart.com/products/peak-milk-powder?variant=45833505734708)
     Availability: Available
-    Price: $55.19 USD
+    Price: $57.19 USD
   - [360g SACHET](https://nexxtmart.com/products/peak-milk-powder?variant=45833505767476)
     Availability: Available
-    Price: $12.10 USD
+    Price: $17.10 USD
   - [800g SACHET](https://nexxtmart.com/products/peak-milk-powder?variant=45833505800244)
     Availability: Available
-    Price: $19.99 USD
+    Price: $21.99 USD
 - [Gino Pepper & Onion Tomato Mix, Roll of 5 Sachets | Nexxtmart](https://nexxtmart.com/products/gino-pepper-onion-tomato-seasoning-mix): Buy Gino pepper and onion tomato mix sachets for stew and jollof. Roll of 5, 0.85lb. Shipped across the United States.
   Updated: 2026-10-18T19:08:30Z
   Vendor: Gino
@@ -588,13 +588,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Chivita_exotic.png?v=1758922825
   Price: $9.20 USD
-- [Miksi Instant Dairy Creamer 320g Sachet | Nexxtmart](https://nexxtmart.com/products/miksi-milk-instant-dairy-creamer): Buy Miksi instant dairy creamer 320g for tea, coffee, pap and Milo. Shipped across the United States.
-  Updated: 2026-09-16T10:05:01Z
-  Vendor: Miksi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/miksi.png?v=1758922825
-  Price: $11.99 USD
 - [Nutri Milk 500ml x2, Apple, Pineapple, Orange & Peach | Nexxtmart](https://nexxtmart.com/products/nutri-milk): Buy Nutri Milk fruit and milk drink, 2 x 500ml bottles in apple, pineapple, orange or peach. Shipped across the United States.
   Updated: 2026-09-22T16:46:17Z
   Vendor: Nutri Milk
@@ -765,13 +758,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Uda_Negro_Pepper_Grains_of_Selim.png?v=1758922873
   Price: $4.78 USD
-- [Dried Tatashe 2oz, Nigerian Red Bell Pepper Ground | Nexxtmart](https://nexxtmart.com/products/dried-peppers-tatashe-red-bell): Buy dried tatashe, ground Nigerian red bell pepper. Colour and body for jollof and stew without the heat. Shipped across the United States.
-  Updated: 2026-09-15T22:37:19Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Dried_Tatashe_Red_Bell_Pepper.png?v=1758922876
-  Price: $9.99 USD
 - [Unripe Plantain Chips, Crunchy Sweet & Spicy Snack | Nexxtmart](https://nexxtmart.com/products/sweet-and-spicy-unripe-plantain-chips): Buy crunchy unripe plantain chips, sweet and spicy. The savoury Nigerian snack. Shipped across the United States.
   Updated: 2026-09-15T22:37:17Z
   Vendor: Nexxtmart LLC
@@ -1189,18 +1175,6 @@
   - [50 packs](https://nexxtmart.com/products/titus-sardines-125g?variant=47093240594484)
     Availability: Available
     Price: $325.99 USD
-- [Hollandia Evaporated Milk, Single & Box of 24 | Nexxtmart](https://nexxtmart.com/products/hollandia-milk-evaporated): Buy Hollandia evaporated milk for Nigerian tea, custard, pap and Milo. Single packs or a box of 24. Shipped across the US.
-  Updated: 2026-09-28T14:21:18Z
-  Vendor: Hollandia
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Hollandia_Full_Cream_Evaporated_Milk.png?v=1758922948
-  - [1 pack](https://nexxtmart.com/products/hollandia-milk-evaporated?variant=45893602934836)
-    Availability: Available
-    Price: $4.99 USD
-  - [1 Box of 24 Packs](https://nexxtmart.com/products/hollandia-milk-evaporated?variant=46930578374708)
-    Availability: Available
-    Price: $50.99 USD
 - [Raw Buckwheat Honey 12oz & 1.1lb, Unfiltered | Nexxtmart](https://nexxtmart.com/products/pure-raw-honey-buckwheat): Buy raw unfiltered buckwheat honey, dark and malty. 12oz and 1.1lb. Shipped across the United States.
   Updated: 2026-09-15T22:37:50Z
   Vendor: Nexxtmart LLC
@@ -1213,24 +1187,6 @@
   - [1.1LBS](https://nexxtmart.com/products/pure-raw-honey-buckwheat?variant=45893611028532)
     Availability: Available
     Price: $18.99 USD
-- [Viju Chocolate Milk Drink 500g, Packs of 1 to 12 | Nexxtmart](https://nexxtmart.com/products/viju-milk-drink-chocolate-flavor-500g): Buy Viju chocolate milk drink 500g, single packs or a box of 12. Shipped across the United States.
-  Updated: 2026-09-22T16:52:46Z
-  Vendor: Viju
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Viju_Milk_Drink_chocolate.png?v=1758922949
-  - [Chocolate Flavor 1 Pack](https://nexxtmart.com/products/viju-milk-drink-chocolate-flavor-500g?variant=45893687279668)
-    Availability: Available
-    Price: $4.99 USD
-  - [Chocolate Flavor 3 Packs](https://nexxtmart.com/products/viju-milk-drink-chocolate-flavor-500g?variant=45893687312436)
-    Availability: Available
-    Price: $14.99 USD
-  - [Chocolate Flavor 6 Packs](https://nexxtmart.com/products/viju-milk-drink-chocolate-flavor-500g?variant=45893687345204)
-    Availability: Available
-    Price: $32.99 USD
-  - [Chocolate Flavor 1 Box (12 Packs)](https://nexxtmart.com/products/viju-milk-drink-chocolate-flavor-500g?variant=45893687377972)
-    Availability: Available
-    Price: $64.54 USD
 - [Oxford Cabin Biscuits, 1 & 2 Packs | Nexxtmart](https://nexxtmart.com/products/oxford-cabin-biscuits): Buy Oxford cabin biscuits, the classic hard Nigerian biscuit for tea and groundnuts. Shipped across the United States.
   Updated: 2026-09-16T10:05:08Z
   Vendor: Oxford
@@ -1243,21 +1199,6 @@
   - [2 Packs](https://nexxtmart.com/products/oxford-cabin-biscuits?variant=45893716508724)
     Availability: Available
     Price: $13.85 USD
-- [Jollof Rice Seasoning 3.8oz-10.15oz, Spice Blend | Nexxtmart](https://nexxtmart.com/products/jollof-rice-seasoning): Buy jollof rice seasoning, blended for Nigerian jollof. Includes the full method. 3.8oz to 10.15oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Jollof_Rice_Seasoning.png?v=1758922959
-  - [3.8oz](https://nexxtmart.com/products/jollof-rice-seasoning?variant=45893721817140)
-    Availability: Available
-    Price: $5.99 USD
-  - [7oz](https://nexxtmart.com/products/jollof-rice-seasoning?variant=45893721849908)
-    Availability: Available
-    Price: $8.99 USD
-  - [10.15oz](https://nexxtmart.com/products/jollof-rice-seasoning?variant=45893721882676)
-    Availability: Available
-    Price: $13.99 USD
 - [Red Palm Oil 16oz-65oz, Unrefined for Cooking | Nexxtmart](https://nexxtmart.com/products/palm-oil-100-pure-organic): Buy unrefined red palm oil 16oz, 32oz or 65oz for egusi, banga, ofada and abacha. Includes how to bleach it. Shipped across the US.
   Updated: 2026-09-15T22:37:47Z
   Vendor: Nexxtmart LLC
@@ -1273,13 +1214,6 @@
   - [65oz](https://nexxtmart.com/products/palm-oil-100-pure-organic?variant=45893728600116)
     Availability: Available
     Price: $29.99 USD
-- [Stockfish Cutlet 1lb, Cut Okporoko Dried Cod Pieces | Nexxtmart](https://nexxtmart.com/products/nexxtmart-stockfish-cutlet): Buy stockfish cutlet, 12 to 15 cut pieces per pound. The middle option between whole stockfish and bites. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Stockfish_Cutlet.png?v=1758922961
-  Price: $35.99 USD
 - [Malta Guinness Cans, 3 to Box of 24 Non-Alcoholic | Nexxtmart](https://nexxtmart.com/products/malta-guinness-non-alcoholic-drink): Buy Malta Guinness non-alcoholic malt drink in cans. Packs of 3, 6, 12 or a box of 24. Shipped across the United States.
   Updated: 2026-09-16T10:05:08Z
   Vendor: Malta Guinness
@@ -1298,36 +1232,6 @@
   - [1 Box of 24 Cans](https://nexxtmart.com/products/malta-guinness-non-alcoholic-drink?variant=45893776244788)
     Availability: Available
     Price: $69.99 USD
-- [Maltina Malt Drink, 3 to 12 Bottles Non-Alcoholic | Nexxtmart](https://nexxtmart.com/products/maltina-non-alcoholic-malt-drink-plastic-bottle-drink): Buy Maltina non-alcoholic malt drink, 3, 6 or a box of 12 bottles. The Nigerian party staple. Shipped across the United States.
-  Updated: 2026-09-16T10:05:09Z
-  Vendor: Maltina
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Maltina_Non_Alcoholic_Malt_Plastic_bottle_Drink.png?v=1758922964
-  - [3 Bottles](https://nexxtmart.com/products/maltina-non-alcoholic-malt-drink-plastic-bottle-drink?variant=45893784567860)
-    Availability: Available
-    Price: $5.99 USD
-  - [6 Bottles](https://nexxtmart.com/products/maltina-non-alcoholic-malt-drink-plastic-bottle-drink?variant=45893784600628)
-    Availability: Available
-    Price: $13.99 USD
-  - [Pack of 12 (box)](https://nexxtmart.com/products/maltina-non-alcoholic-malt-drink-plastic-bottle-drink?variant=45893784633396)
-    Availability: Available
-    Price: $27.01 USD
-- [La Casera Apple Drink 35cl, 3 to 12 Bottles | Nexxtmart](https://nexxtmart.com/products/la-casera-apple-drink-35cl): Buy La Casera sparkling apple drink 35cl, the Nigerian party favourite. Packs of 3, 6 or 12. Shipped across the United States.
-  Updated: 2026-09-16T10:05:10Z
-  Vendor: La Casera
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/La_Casera_Apple_Drink_35CL.png?v=1758922966
-  - [Pack of 3 Bottles](https://nexxtmart.com/products/la-casera-apple-drink-35cl?variant=45895081164852)
-    Availability: Available
-    Price: $10.08 USD
-  - [Pack of 6 Bottles](https://nexxtmart.com/products/la-casera-apple-drink-35cl?variant=45895081197620)
-    Availability: Available
-    Price: $20.99 USD
-  - [1 Box (12 Bottles)](https://nexxtmart.com/products/la-casera-apple-drink-35cl?variant=45895081230388)
-    Availability: Available
-    Price: $39.97 USD
 - [Ogiri Okpeyi 3.2oz, Fermented Seed Condiment | Nexxtmart](https://nexxtmart.com/products/ogiri-okpeyi): Buy ogiri okpeyi 3.2oz, also called okpehe, for bitterleaf, egusi, oha and nsala soups. Shipped across the United States.
   Updated: 2026-09-15T22:37:50Z
   Vendor: Nexxtmart LLC
@@ -1335,20 +1239,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ogiri_Okpeyi.png?v=1758922968
   Price: $8.00 USD
-- [Peak Yoghurt 1L, Plain Sweetened & Strawberry | Nexxtmart](https://nexxtmart.com/products/peak-yoghurt): Buy Peak drinking yoghurt 1 litre in plain or strawberry. Best cold, with chin chin. Shipped across the United States.
-  Updated: 2026-09-16T10:05:10Z
-  Vendor: Peak
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/PEAK_YOGHURT.png?v=1758922969
-  - [Plain Sweetened 1LT](https://nexxtmart.com/products/peak-yoghurt?variant=45895170392116)
-    Availability: Available
-    Price: $9.10 USD
-  - [Strawberry Flavor 1LT](https://nexxtmart.com/products/peak-yoghurt?variant=45895170424884)
-    Availability: Available
-    Price: $9.10 USD
 - [Iru 8oz, Fermented Locust Beans / Dawadawa | Nexxtmart](https://nexxtmart.com/products/locust-beans-fresh-and-fermented-iru): Buy iru 8oz, fermented African locust beans, also called dawadawa. Essential for efo riro, ewedu and ofada sauce. Shipped across the US.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-10-26T04:58:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1373,13 +1265,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Akanwu_Potash_Whole.png?v=1758922977
   Price: $8.99 USD
-- [Akanwu Powder 6oz, Kaun / Kanwa Edible Potash | Nexxtmart](https://nexxtmart.com/products/akanwu-edible-potash-limestone): Buy ground akanwu, also called kaun and kanwa. Emulsifies palm oil for abacha and nkwobi, softens ukwa and beans. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Akanwu_Potash_Limestone.png?v=1758922979
-  Price: $8.99 USD
 - [Ogiri Igbo 6.15oz, Fermented Seed Seasoning | Nexxtmart](https://nexxtmart.com/products/ogiri-igbo-sesame-seeds): Buy ogiri Igbo 6.15oz, the fermented seed seasoning for bitterleaf, egusi, oha and ora soup. Shipped across the United States.
   Updated: 2026-09-15T22:37:47Z
   Vendor: Nexxtmart LLC
@@ -1387,13 +1272,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ogiri_Igbo.png?v=1758922982
   Price: $8.00 USD
-- [Ofada Rice 3lb, Unpolished Nigerian Brown Rice | Nexxtmart](https://nexxtmart.com/products/ofada-rice-unrefined-unprocessed-and-unpolished): Ofada Rice Short, stubby, uneven grains with a brownish cast, grown in south-western Nigeria and left unpolished. It does not look like the rice in the supermarket and it is not trying to. Named after the town of Ofada in Ogun State, though today the name covers a whole family of local unpolished rice varieties. The smell Be ready for it. Ofada has a distinctive earthy, almost funky aroma while cooking that catches people off guard the first time. It is completely normal. It is the smell of rice that has not been stripped and polished, and for anybody who grew up on it, it is the smell of Sunday. How to cook it Rinse several times until the water runs mostly clear. Unpolished rice carries more chaff. Parboil for about ten minutes, then drain and rinse again. This tames the aroma and shortens the final cook. Return to the pot with fresh water, roughly two parts water to one part rice. Cook until tender. It takes longer than white rice and stays chewier. That is correct. What to serve with it Ayamase, the green pepper stew, is the classic pairing. Otherwise ofada sauce with locust beans, boiled eggs and assorted meat, traditionally served in a fresh leaf wrap. Product details Also known as: ofada, ofada rice, local rice, brown rice Type: Unpolished whole grain Size: 3lb bag Origin: South-western Nigeria Storage: Airtight, cool and dry. Shipped from Nexxtmart to anywhere in the United States.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ofada_rice_unrefined.png?v=1758922984
-  Price: $12.99 USD
 - [Dried Prawns (Oporo) 8oz & 1.3lb, Smoked | Nexxtmart](https://nexxtmart.com/products/dried-prawns): Buy whole dried smoked prawns, oporo, for egusi, okra, native soup and jollof. Sweeter and firmer than crayfish. Shipped across the US.
   Updated: 2026-09-15T22:37:47Z
   Vendor: Nexxtmart LLC
@@ -1406,18 +1284,6 @@
   - [1 Bucket 1.3LB(600g)](https://nexxtmart.com/products/dried-prawns?variant=45896732246068)
     Availability: Available
     Price: $59.99 USD
-- [Stockfish Bites 1lb & 3.4lb, Boned Dried Cod Pieces | Nexxtmart](https://nexxtmart.com/products/stockfish-bites-flakes): Buy boned stockfish bites, ready for the pot with no deboning. For egusi, ogbono, oha and afang. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Stockfish_Bites.png?v=1758922987
-  - [1LB](https://nexxtmart.com/products/stockfish-bites-flakes?variant=45896772223028)
-    Availability: Available
-    Price: $27.99 USD
-  - [Full Custard Bucket Size (3.4LB)](https://nexxtmart.com/products/stockfish-bites-flakes?variant=45896772255796)
-    Availability: Available
-    Price: $90.99 USD
 - [Stockfish Heads with Ears 1.5lb, Dried Cod Heads | Nexxtmart](https://nexxtmart.com/products/stockfish-cod-heads-with-ears): Buy dried Norwegian stockfish heads with ears, 3 pieces 1.5lb. Traditional for ofe nsala and long-simmered soups. Shipped across the US.
   Updated: 2026-09-15T22:37:47Z
   Vendor: Nexxtmart LLC
@@ -1437,33 +1303,6 @@
   - [1 Box (50 Packs)](https://nexxtmart.com/products/de-rica-tomato-paste?variant=45896894545972)
     Availability: Available
     Price: $69.99 USD
-- [Rubbed Sage 2oz-8oz, Dried Sage Leaves | Nexxtmart](https://nexxtmart.com/products/organic-rubbed-sage): Buy rubbed dried sage for stuffing, roast chicken, sausage and butter sauces. 2oz, 4oz and 8oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sage_Rubbed.png?v=1758922996
-  - [2oz](https://nexxtmart.com/products/organic-rubbed-sage?variant=45896937668660)
-    Availability: Available
-    Price: $5.50 USD
-  - [4oz](https://nexxtmart.com/products/organic-rubbed-sage?variant=45896937701428)
-    Availability: Available
-    Price: $7.99 USD
-  - [8oz](https://nexxtmart.com/products/organic-rubbed-sage?variant=45896937734196)
-    Availability: Available
-    Price: $11.99 USD
-- [Tomato Powder 8oz & 16oz, Dehydrated Tomato Seasoning | Nexxtmart](https://nexxtmart.com/products/tomato-powder): Buy dehydrated tomato powder for jollof, stew and rubs. Colour and depth without adding water. 8oz and 16oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:50Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Tomato_Powder.png?v=1758922997
-  - [8oz](https://nexxtmart.com/products/tomato-powder?variant=45896939864116)
-    Availability: Available
-    Price: $8.50 USD
-  - [16oz](https://nexxtmart.com/products/tomato-powder?variant=45896939896884)
-    Availability: Available
-    Price: $12.99 USD
 - [Ground White Pepper 8oz-3lb | Nexxtmart](https://nexxtmart.com/products/white-pepper): Buy ground white pepper for ofe nsala, pepper soup and pale sauces. 8oz, 16oz and 3lb. Shipped across the United States.
   Updated: 2026-09-15T22:37:50Z
   Vendor: Nexxtmart LLC
@@ -1479,13 +1318,6 @@
   - [3lb](https://nexxtmart.com/products/white-pepper?variant=45896956870708)
     Availability: Available
     Price: $40.30 USD
-- [Dried Bonga Fish (Shawa) 15 Pieces, Smoked | Nexxtmart](https://nexxtmart.com/products/dried-bonga-smoked-fish): Buy dried bonga fish, shawa, smoked West African fish for efo riro, egusi, ewedu and porridge. Shipped across the United States.
-  Updated: 2026-09-15T22:37:47Z
-  Vendor: Nexxtmart LLC
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Dried_Bonga_Fish.png?v=1758923000
-  Price: $17.99 USD
 - [Long Grain Parboiled Rice 25lb & 50lb Bags | Nexxtmart](https://nexxtmart.com/products/white-parboiled-rice): Buy long grain parboiled rice in 25lb and 50lb bags. Includes how to parboil properly for jollof. Shipped across the United States.
   Updated: 2026-09-15T22:37:48Z
   Vendor: Nexxtmart LLC
@@ -1566,21 +1398,14 @@
     Availability: Available
     Price: $14.99 USD
 - [Funbact-A Cream 30g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/antifungal-cream-funbact-a): Funbact-A cream 30g, imported. Contains betamethasone, a -only corticosteroid in the US. Read the safety information before buying.
-  Updated: 2026-10-14T02:50:17Z
+  Updated: 2026-10-26T04:58:26Z
   Vendor: Funbact-A
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Funbact-A_Triple_Action_Cream.png?v=1758923014
   Price: $8.99 USD
-- [Enchanteur Perfumed Talcum Powder, Body Powder | Nexxtmart](https://nexxtmart.com/products/fragrance-powder): Buy Enchanteur perfumed talcum powder, the light floral body powder. Shipped across the United States.
-  Updated: 2026-09-22T16:47:32Z
-  Vendor: Enchanteur
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Enchanteur_Charming_Perfumed_Talc.png?v=1758923015
-  Price: $12.99 USD
 - [Egusi Soup Starter Box, Complete Kit with Garri or Poundo | Nexxtmart](https://nexxtmart.com/products/nexxtmart-starter-box-african-cuisine-grocery): Buy the Nexxtmart egusi soup starter box, everything for a pot of egusi plus your swallow. Choose garri or poundo. Shipped across the US.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-10-28T20:09:37Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1669,52 +1494,52 @@
 ## Collections
 
 - [Food Stuffs](https://nexxtmart.com/collections/food-stuffs): Stock up on high-quality foodstuffs at Nexxtmart! From pantry staples like rice, pasta, and flour to  - Nexxtmart
-  Updated: 2026-09-26T11:10:51Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 64
 - [New Arrivals](https://nexxtmart.com/collections/new-arrivals): Stay ahead with Nexxtmart’s New Arrivals! Discover the latest and freshest products, from pantry  - Nexxtmart
-  Updated: 2026-09-15T22:05:13Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 27
 - [Featured Items](https://nexxtmart.com/collections/featured-items): Discover Nexxtmart’s Featured Items – a handpicked selection of top-quality products chosen just for  - Nexxtmart
-  Updated: 2026-10-22T16:35:55Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 145
 - [Best Sellers](https://nexxtmart.com/collections/best-sellers): Shop Nexxtmart’s Best Sellers – the most popular and highly rated products loved by our customers!  - Nexxtmart
-  Updated: 2026-10-21T11:11:53Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 57
 - [cooking oil](https://nexxtmart.com/collections/cooking-oil): Discover high-quality cooking oils at Nexxtmart. From healthy vegetable oils to rich palm and  - Nexxtmart
   Updated: 2026-09-15T22:05:03Z
   Total Products: 1
 - [Baby](https://nexxtmart.com/collections/baby): Give your little one the best with Nexxtmart’s Baby collection. From nutritious baby food and gentle  - Nexxtmart
-  Updated: 2026-09-27T11:10:56Z
+  Updated: 2026-10-26T15:10:04Z
   Total Products: 4
 - [Spices](https://nexxtmart.com/collections/spices): Discover Nexxtmart Spices for Every Kitchen Spices are the heart of every dish, adding depth, aroma,  - Nexxtmart
-  Updated: 2026-09-15T22:05:08Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 46
 - [Drinks](https://nexxtmart.com/collections/drinks): Refreshing Drinks for Every Occasion Drinks bring people together, whether it’s a chilled soda on a  - Nexxtmart
-  Updated: 2026-10-22T16:35:55Z
+  Updated: 2026-10-26T15:09:42Z
   Total Products: 18
 - [Condiments](https://nexxtmart.com/collections/condiments): Elevate your cooking with Nexxtmart’s premium selection of condiments. From rich sauces and  - Nexxtmart
-  Updated: 2026-10-16T15:25:34Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 44
 - [Health and Beauty](https://nexxtmart.com/collections/health-and-beauty): Nourish Your Body Inside and Out Your health and beauty routine deserves the best. At Nexxtmart, our  - Nexxtmart
-  Updated: 2026-10-22T11:13:42Z
+  Updated: 2026-10-26T15:03:36Z
   Total Products: 4
 - [Fruits & Vegetables](https://nexxtmart.com/collections/fruits-vegetables): Fresh Fruits &amp; Vegetables for a Healthy Lifestyle At Nexxtmart, we bring you the finest  - Nexxtmart
-  Updated: 2026-09-15T22:05:08Z
+  Updated: 2026-10-26T14:53:19Z
   Total Products: 6
 - [Grains & Legumes](https://nexxtmart.com/collections/grains-legumes): - Nexxtmart
   Updated: 2026-09-26T11:10:51Z
   Total Products: 10
 - [Best  Products](https://nexxtmart.com/collections/best--products): Discover the best  products that everyone is talking about. These products trend due to quality, popularity, and consumer demand. Explore top picks and trends now!
-  Updated: 2026-10-05T11:13:24Z
+  Updated: 2026-10-26T15:07:29Z
   Total Products: 18
 - [Digital Goods VAT Tax](https://nexxtmart.com/collections/digital-goods-vat-tax): - Nexxtmart
   Updated: 2025-09-26T22:02:18Z
   Total Products: 0
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-22T16:35:55Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 108
 - [Recommended Products (Wiz Email)](https://nexxtmart.com/collections/recommended-products-wiz-email-1): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-22T16:35:55Z
+  Updated: 2026-10-29T11:11:54Z
   Total Products: 108
 
 ## Blogs
