@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-04T23:01:09Z
 - Contact Email: jeremymcanally@gmail.com
-- Updated At: 2026-10-23T01:01:21.955Z
+- Updated At: 2026-10-31T00:24:46.746Z
 
 ## Products
 
@@ -79,7 +79,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/all-over-print-womens-rash-guard-white-front-6a2242ad26161.png?v=1780630199
     Price: $50.00 USD
 - [Dancing Corpse Tee](https://sweatygambeson.com/products/dancing-corpse-tee): Pseudo-Hans Döbringer may have mocked flamboyant fencing instructors as Leichmeisters (a play on dance/corpse masters), but we all know the core of all fencing is to be fancy. This is the heaviest, boxiest tee we have, built to outlive its wearer (low bar, given the artwork).
-  Updated: 2026-09-28T17:48:33Z
+  Updated: 2026-10-26T18:33:08Z
   Vendor: The Sweaty Gambeson
   Product Type: 
   Availability: Available
@@ -113,7 +113,7 @@
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/mens-box-tee-vintage-black-back-6a28bac7d2d1a.png?v=1781054180
     Price: $35.00 USD
   - [Parchment / S](https://sweatygambeson.com/products/dancing-corpse-tee?variant=44213976334424)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0730/8604/2200/files/mens-box-tee-vintage-white-back-6a28bb83d8ccc.png?v=1781054352
     Price: $28.00 USD
   - [Parchment / M](https://sweatygambeson.com/products/dancing-corpse-tee?variant=44213976367192)
