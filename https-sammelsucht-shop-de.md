@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-10-23T01:07:45.592Z
+- Updated At: 2026-10-31T00:28:44.178Z
 
 ## Products
 
@@ -45,7 +45,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57.png?v=1779371683
   Price: 4,00 € EUR
 - [Ambidiffel PFL 107 Fatale Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/ambidiffel-pfl-107-fatale-flammen-pokemon-karte-deutsch-near-mint): Ambidiffel PFL 107 Fatale Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-17T22:59:26Z
+  Updated: 2026-10-30T08:01:57Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -58,6 +58,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_b63d26ab-d683-45cf-9d88-e917379ec657.jpg?v=1779371691
   Price: 4,99 € EUR
+- [Altaria ex PAR 232 Paradoxrift kaufen | Sammelsucht](https://sammelsucht-shop.de/products/altaria-ex-par-232-paradoxrift-pokemon-karte-deutsch-near-mint): Altaria ex PAR 232 Paradoxrift (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-30T22:51:42Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_12a0539d-dcf5-40b9-b728-802cd0ed65f3.jpg?v=1779371702
+  Price: 2,99 € EUR
 - [Aquapolis Evoli Deutsch PSA9 POP kaufen | Sammelsucht](https://sammelsucht-shop.de/products/aquapolis-evoli-deutsch-psa9-pop-3): Aquapolis Evoli Deutsch PSA9 POP – zertifiziert & bewertet, jetzt bei Sammelsucht sichern! Geprüfter Versand aus Deutschland.
   Updated: 2026-09-24T06:29:11Z
   Vendor: Sammelsucht
@@ -72,6 +79,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_06459b38-e218-431c-92ed-72271b62b10d.jpg?v=1779371724
   Price: 9,99 € EUR
+- [Beatori ex SFA 038 Nebel der Sagen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/beatori-ex-sfa-038-nebel-der-sagen-pokemon-karte-deutsch-near-mint): Beatori ex SFA 038 Nebel der Sagen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-30T22:51:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_2bcb9f28-2c12-4e7c-87f4-1b82ad6cc149.jpg?v=1779371726
+  Price: 4,49 € EUR
 - [Bauz MEP 043 MEP Black Star Promos kaufen | Sammelsucht](https://sammelsucht-shop.de/products/bauz-mep-043-mep-black-star-promos-pokemon-karte-deutsch-near-mint): Bauz MEP 043 MEP Black Star Promos (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:29:12Z
   Vendor: Sammelsucht
@@ -80,7 +94,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_287fd934-68cc-44b7-b3b6-eda26342e66b.jpg?v=1779371733
   Price: 13,49 € EUR
 - [Anissa PAR 243 Paradoxrift kaufen | Sammelsucht](https://sammelsucht-shop.de/products/anissa-par-243-paradoxrift-pokemon-karte-deutsch-near-mint): Anissa PAR 243 Paradoxrift (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-18T15:04:57Z
+  Updated: 2026-10-30T22:51:47Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -100,6 +114,20 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_0fd27ed5-9fe3-41e3-bf2a-412915e65a07.jpg?v=1779371745
   Price: 2,49 € EUR
+- [Agiluza ex JTG 043 Reisegefährten kaufen | Sammelsucht](https://sammelsucht-shop.de/products/agiluza-ex-jtg-043-reisegefahrten-pokemon-karte-deutsch-near-mint): Agiluza ex JTG 043 Reisegefährten (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-30T22:51:46Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a85c80b3-1385-41d3-aa6d-8dc0877d100e.jpg?v=1779371748
+  Price: 1,49 € EUR
+- [Banette ex SVI 088 Karmesin und Purpur kaufen | Sammelsucht](https://sammelsucht-shop.de/products/banette-ex-svi-088-karmesin-und-purpur-pokemon-karte-deutsch-near-mint): Banette ex SVI 088 Karmesin und Purpur (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-30T22:50:47Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_1110b985-19f7-4bfb-bea9-50a7f9ce24ec.jpg?v=1779371754
+  Price: 1,99 € EUR
 - [Barschuft WHT 108 Weiße Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/barschuft-wht-108-weisse-flammen-pokemon-karte-deutsch-near-mint): Barschuft WHT 108 Weiße Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:29:14Z
   Vendor: Sammelsucht
@@ -478,7 +506,7 @@
   Availability: Available
   Price: 4,99 € EUR
 - [Jugong 097/094 Illustration Rare Fatale Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/jugong-097-094-illustration-rare-fatale-flammen-de-nm-pokemon): Jugong 097/094 Illustration Rare Fatale Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-10-12T23:01:14Z
+  Updated: 2026-10-23T21:26:55Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -575,13 +603,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e820826a-75f7-481f-b92c-f3daa62ee6cf.jpg?v=1779992562
   Price: 9,99 € EUR
-- [Frida SIT 189 Silberne Sturmwinde kaufen | Sammelsucht](https://sammelsucht-shop.de/products/frida-sit-189-silberne-sturmwinde-pokemon-karte-deutsch-near-mint): Frida SIT 189 Silberne Sturmwinde (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:33:48Z
-  Vendor: Sammelsucht
-  Product Type: Sammelkarte
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a1e1be92-332b-4d3b-afa0-0be5495046f1.jpg?v=1779992571
-  Price: 9,99 € EUR
 - [Sanaconda V FST 252 Fusionsangriff kaufen | Sammelsucht](https://sammelsucht-shop.de/products/sanaconda-v-fst-252-fusionsangriff-pokemon-karte-deutsch-near-mint): Sanaconda V FST 252 Fusionsangriff (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:33:49Z
   Vendor: Sammelsucht
@@ -659,13 +680,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_432a6ee0-274b-4573-bf33-a4777b2a46dd.jpg?v=1779992631
   Price: 9,99 € EUR
-- [Mega Kangama ex 164/132 Ultra Rare Mega-Entwicklung kaufen | Sammelsucht](https://sammelsucht-shop.de/products/mega-kangama-ex-164-132-ultra-rare-mega-entwicklung-de-nm-pokemon): Mega Kangama ex 164/132 Ultra Rare Mega-Entwicklung (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:33:54Z
-  Vendor: Sammelsucht
-  Product Type: Sammelkarte
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_eb94ce6b-80e5-4e80-b83d-db3ccabcc1a4.jpg?v=1779992632
-  Price: 6,75 € EUR
 - [Paldea-Felino 102/094 Illustration Rare Fatale Flammen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/paldea-felino-102-094-illustration-rare-fatale-flammen-de-nm-pokemon): Paldea-Felino 102/094 Illustration Rare Fatale Flammen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:33:54Z
   Vendor: Sammelsucht
