@@ -8,26 +8,26 @@
 - Timezone: Europe/London
 - Created At: 2026-02-03T19:02:43Z
 - Contact Email: hello@wearemuva.com
-- Updated At: 2026-10-23T00:55:39.157Z
+- Updated At: 2026-10-31T00:17:08.903Z
 
 ## Products
 
 - [Sleep Cheat Night Cream for Soft, Fresh-Looking Skin](https://wearemuva.com/products/sleep-cheat-night-cream): Wake up to softer, more hydrated skin. Shop Sleep Cheat Night Cream — curated by MUVA for deep overnight nourishment and a complexion that feels renewed.
-  Updated: 2026-10-22T21:43:25Z
+  Updated: 2026-10-30T19:45:31Z
   Vendor: SKN TO SKN
   Product Type: Moisturiser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/sleep-cheat-night-cream_d2b242db-5a24-4269-907a-03beac8d1cd4.jpg?v=1777299881
   Price: £30.00 GBP
 - [Multi-Tasking Face Serum for Hydration and Skin Support](https://wearemuva.com/products/multi-tasking-face-serum): One serum, multiple benefits. Shop the multi-tasking face serum for hydration, refined texture, and skin that visibly glows.
-  Updated: 2026-10-22T19:20:12Z
+  Updated: 2026-10-30T19:45:27Z
   Vendor: SKN TO SKN
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Untitled_design-12.png?v=1777299887
   Price: £35.00 GBP
 - [Glow & Go SPF 30 Moisturiser for Daily Sun Protection](https://wearemuva.com/products/glow-go-daily-moisturiser-with-mineral-spf-30): Hydration and sun protection in one. Shop Glow & Go SPF 30 moisturiser. A lightweight, glowing finish you'll actually want to wear every day.
-  Updated: 2026-10-22T08:34:01Z
+  Updated: 2026-10-30T19:45:27Z
   Vendor: SKN TO SKN
   Product Type: Moisturiser
   Availability: Available
@@ -39,14 +39,14 @@
     Availability: Available
     Price: £30.00 GBP
 - [Balancing Act Gel to Oil Cleanser for Fresh Skin](https://wearemuva.com/products/balancing-act-gel-to-oil-cleanser): Makeup, impurities, the day - all of it gone. Shop Balancing Act gel-to-oil cleanser for a thorough, skin-kind cleanse that leaves you balanced.
-  Updated: 2026-10-22T19:19:56Z
+  Updated: 2026-10-30T20:59:32Z
   Vendor: SKN TO SKN
   Product Type: Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/balancing-act-gel-to-oil-cleanser-independent.jpg?v=1777299885
   Price: £29.00 GBP
 - [Buy Flow Freedom Period Underwear for All-Day Ease](https://wearemuva.com/products/flow-freedom-period-underwear): Meet Flow Freedom — period underwear built for reliable leak protection and all-day comfort. Find your fit, curated by MUVA.
-  Updated: 2026-10-21T14:08:01Z
+  Updated: 2026-10-28T01:46:45Z
   Vendor: Ruby Cup
   Product Type: Underwear
   Availability: Available
@@ -180,7 +180,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Ruby_Cup_flow_freedom_period_underwear_dusty_rose.jpg?v=1777300478
     Price: £24.95 GBP
 - [Ruby Cup Steriliser for Menstrual Cup Care | MUVA](https://wearemuva.com/products/ruby-steriliser): Keep your Ruby Cup clean and ready. The Ruby Steriliser makes menstrual cup hygiene simple, effective, and built into your routine.
-  Updated: 2026-10-22T14:18:33Z
+  Updated: 2026-10-28T12:24:56Z
   Vendor: Ruby Cup
   Product Type: Accessory
   Availability: Available
@@ -206,13 +206,13 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/PURPLE.jpg?v=1777300499
     Price: £13.95 GBP
 - [Period Underwear for Leak Protection and Everyday Comfort](https://wearemuva.com/products/fearless-period-underwear): Meet Fearless — period underwear designed for light flow days, leak-free comfort, and the confidence to get on with it. Curated by MUVA.
-  Updated: 2026-10-22T21:17:05Z
+  Updated: 2026-10-28T12:24:16Z
   Vendor: Ruby Cup
   Product Type: Underwear
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/5_41f76b89-46b2-46a8-9fa0-72770199e0b9.jpg?v=1777300498
   - [Lilac / XS](https://wearemuva.com/products/fearless-period-underwear?variant=57140511015243)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/5_41f76b89-46b2-46a8-9fa0-72770199e0b9.jpg?v=1777300498
     Price: £18.95 GBP
   - [Lilac / S](https://wearemuva.com/products/fearless-period-underwear?variant=57140511048011)
@@ -308,7 +308,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_5e1573b7-302d-44ef-87e7-9d4c7979f856.jpg?v=1777300499
     Price: £18.95 GBP
 - [Train Pelvic Muscles Easily with Ruby Kegel Trainer](https://wearemuva.com/products/ruby-kegel-trainer): Train pelvic muscles with a discreet kegel trainer designed for targeted workouts and better control. Feel the difference over time.
-  Updated: 2026-10-22T01:26:27Z
+  Updated: 2026-10-28T12:24:51Z
   Vendor: Ruby Cup
   Product Type: Kegel Trainer
   Availability: Available
@@ -322,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/PurpleKegelVertical_75042bbe-563f-4faa-b351-1f2987622fef.jpg?v=1777300498
     Price: £12.95 GBP
 - [Ruby Cup Menstrual Cup for Comfortable Period Care](https://wearemuva.com/products/ruby-cup-menstrual-cup): The Ruby Cup — a reusable menstrual cup designed for a secure, comfortable fit. Make the switch to period care that works for you and the planet.
-  Updated: 2026-10-22T21:16:56Z
+  Updated: 2026-10-30T17:17:16Z
   Vendor: Ruby Cup
   Product Type: Menstrual Cup
   Availability: Available
@@ -368,91 +368,91 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/15_25186c61-adf8-49c7-99d0-d7a96bdcbd25.jpg?v=1777300503
     Price: £25.95 GBP
 - [Fushi's Gut Detox Bundle for Digestive Balance & Wellness | MUVA](https://wearemuva.com/products/gut-detox-bundle): Reset from the inside out. Shop the Gut Detox Bundle with targeted ingredients to support digestive balance and internal cleansing.
-  Updated: 2026-10-22T07:23:56Z
+  Updated: 2026-10-31T00:02:56Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/triphala_aloe_milk.webp?v=1780880287
   Price: £58.00 GBP
 - [Organic Shea Butter 200g for Soft Nourished Skin](https://wearemuva.com/products/organic-shea-butter-200g): Pure, rich, and deeply nourishing. Shop organic shea butter 200g — a skin and hair essential curated by MUVA for lasting moisture and softness.
-  Updated: 2026-10-22T22:15:45Z
+  Updated: 2026-10-31T00:16:56Z
   Vendor: Fushi Wellbeing
   Product Type: Shea Butter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/shea_butter_45c246e3-9796-45ce-9191-ef6bb85943fc.webp?v=1780880345
   Price: £21.00 GBP
 - [Adaptogen Energy Blend for Daily Energy and Wellbeing](https://wearemuva.com/products/adaptogen-energy-blend): Discover an adaptogen energy blend designed to support everyday energy, focus, and overall wellbeing. A simple addition to your daily wellness routine.
-  Updated: 2026-10-20T10:40:06Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/adaptogen_energy_1bf4abe6-55ae-4cf5-be25-c4bec7fcf044.webp?v=1780880469
   Price: £28.00 GBP
 - [Really Good Muscle & Joints Oil 100ml](https://wearemuva.com/products/really-good-muscle-joints-oil-100ml): Really Good Muscle & Joints Oil 100 ml blends warming Ayurvedic herbs to ease sore muscles and stiff joints after workouts.
-  Updated: 2026-10-22T16:00:25Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgmjo_9c425017-ad54-4cd3-86d9-e15b81c9af3e.webp?v=1780880357
   Price: £29.00 GBP
 - [Mother & Baby Set for Daily Wellness Support | MUVA](https://wearemuva.com/products/mother-baby-set): Everything you need, thoughtfully paired. Shop mother and baby set for the wellbeing of both of you — from newborn days and beyond.
-  Updated: 2026-10-22T12:17:11Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/mother_baby_set_8d7fa187-dd51-46f0-955c-692b4a0606d0.webp?v=1777300778
   Price: £74.00 GBP
 - [Fushi Turmeric C3 & Bioperine Extract Capsules | MUVA](https://wearemuva.com/products/turmeric-c3-bioperine-extract): High-absorption turmeric, done properly. Shop Fushi Turmeric C3 & Bioperine Extract capsules — for daily anti-inflammatory support and lasting wellness.
-  Updated: 2026-10-22T04:12:13Z
+  Updated: 2026-10-31T00:02:45Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/turmeric_blend_2afc66f9-03f9-4868-8e01-0d8aecf7baba.webp?v=1780880370
   Price: £30.00 GBP
 - [Fushi Really Good Muscle & Joints Oil 10ml | MUVA](https://wearemuva.com/products/really-good-muscle-joints-oil-10ml): Really Good Muscle & Joints Oil 10 ml blends 23 Ayurvedic herbs to ease sore muscles and stiff joints after workouts and daily recovery.
-  Updated: 2026-10-22T07:44:53Z
+  Updated: 2026-10-30T23:59:56Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgmjo_9a237b70-d6d3-4625-9693-c34f1a9e8aec.webp?v=1780880383
   Price: £5.00 GBP
 - [Organic Castor Oil 30ml for Stronger Hair & Skin](https://wearemuva.com/products/organic-castor-oil-30ml): Nourish hair and skin with organic castor oil 30ml. Supports fuller-looking hair and smoother skin with a pure formula. Add it to your routine today.
-  Updated: 2026-10-22T17:01:56Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/castor_d2950557-5a41-40f3-a9f3-f2e8ed5639e7.webp?v=1780880396
   Price: £8.00 GBP
 - [Really Good Vitamin E Oil 50ml for Skin Nourishment](https://wearemuva.com/products/really-good-vitamin-e-oil-50ml): Nourish skin with vitamin E oil in a 50ml bottle. Helps maintain a smooth, radiant appearance for lasting care. Suitable for daily skin care & skin concerns.
-  Updated: 2026-10-22T22:15:56Z
+  Updated: 2026-10-31T00:02:52Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/vitamin_e_3c45907f-33d5-46e2-8db7-1ab1fbcbe0d1.webp?v=1780880455
   Price: £29.00 GBP
 - [Really Good Stretch Mark Oil 100ml](https://wearemuva.com/products/really-good-stretch-mark-oil-100ml): Nourishing, fast-absorbing, and made with intention. Shop Really Good Stretch Mark Oil 100ml — curated by MUVA for skin that's stretching and shifting.
-  Updated: 2026-10-22T07:00:22Z
+  Updated: 2026-10-31T00:02:41Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgsmo_54799be9-094f-4edd-8a57-0007f1ab2683.webp?v=1780880409
   Price: £30.00 GBP
 - [Really Good Cellulite Oil 100ml for Soft and Even Skin](https://wearemuva.com/products/really-good-cellulite-oil-100ml): Discover a cellulite oil formulated to support skin care routines and promote smoother-looking skin through regular use.
-  Updated: 2026-10-22T06:15:56Z
+  Updated: 2026-10-31T00:02:56Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgco_d5af4103-4696-40eb-b92a-c6eaf9d920cf.webp?v=1780880435
   Price: £30.00 GBP
 - [Ashwagandha with Vegan MCT Extract for Daily Wellness](https://wearemuva.com/products/ashwagandha-with-vegan-mct-extract): Enhance Calm, focus and balance. Ashwagandha with vegan MCT extract, for daily stress support and a steadier sense of wellbeing.
-  Updated: 2026-10-22T14:47:46Z
+  Updated: 2026-10-30T23:59:34Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ashwagandha_blend.webp?v=1777300779
   Price: £25.00 GBP
 - [Magnesium Complex for Better Sleep & Muscle Support](https://wearemuva.com/products/magnesium-complex-bisglycinate-taurate): The mineral your body keeps asking for. Shop Magnesium Complex — to support restful sleep, a calmer mind, and everyday muscle function.
-  Updated: 2026-10-21T04:10:41Z
+  Updated: 2026-10-30T04:09:36Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/meno-blend-452241.jpg?v=1777550461
   Price: £29.99 GBP
 - [Multi Nutrient System for Daily Wellness Support](https://wearemuva.com/products/trinity-multi-nutrient-system): Everything your body needs, in one system. Shop Trinity Multi Nutrient System — curated by MUVA for essential vitamins, minerals, and balanced daily nutrition.
-  Updated: 2026-10-22T04:08:13Z
+  Updated: 2026-10-30T15:26:35Z
   Vendor: Arbor Vitamins
   Product Type: Nutritional Supplement
   Availability: Available
@@ -612,7 +612,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/45.jpg?v=1777971201
     Price: £17.00 GBP
 - [Clipless Leakproof Nursing Bra With Smooth Fit Support](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra): No clips, no fuss. Shop the clipless leakproof nursing bra curated by MUVA for smooth, secure support through every feed.
-  Updated: 2026-10-22T21:35:15Z
+  Updated: 2026-10-30T23:08:06Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -670,7 +670,7 @@
     Availability: Available
     Price: £38.00 GBP
   - [XL / Black](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra?variant=57218346549579)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/17.jpg?v=1777971201
     Price: £38.00 GBP
   - [XL / Beige](https://wearemuva.com/products/clipless-comfort-leakproof-nursing-bra?variant=57218346516811)
@@ -678,7 +678,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/21.jpg?v=1777971200
     Price: £38.00 GBP
 - [Leakproof Nursing Bra for Easy Feeding & Daily Comfort](https://wearemuva.com/products/lesh-freeflo-2-0-leakproof-nursing-bra): Feeding-ready, leak-managed, and comfortable all day. Shop the Lesh Freeflo 2.0 leakproof nursing bra — curated by MUVA for new mothers who need both function and ease.
-  Updated: 2026-10-23T00:13:20Z
+  Updated: 2026-10-30T19:01:37Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -748,7 +748,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/31.jpg?v=1777971206
     Price: £39.00 GBP
 - [Anywear Leakproof Nursing Bra for Busy Mums On Go](https://wearemuva.com/products/anywear-leakproof-nursing-bra): From school run to sofa, the Anywear leakproof nursing bra moves with you. Curated by MUVA for feeding mothers who need support that keeps up.
-  Updated: 2026-10-22T21:35:15Z
+  Updated: 2026-10-30T10:21:21Z
   Vendor: Lesh
   Product Type: 
   Availability: Available
@@ -824,84 +824,84 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Health_Club_Web_Assets_Lemon_Stick_Lemons.png?v=1778513826
   Price: £34.99 GBP
 - [Intimate Wipes - Aloe Vera & Chamomile](https://wearemuva.com/products/intimate-wipes-aloe-vera-chamomile): You've got back-to-back meetings, a gym session at 6, and dinner after. NILA M. is the 30-second reset that keeps you feeling like you — fresh, confident, and ready for whatever's next. 10 individually wrapped wipes, made for your bag and your life.
-  Updated: 2026-10-20T20:36:27Z
+  Updated: 2026-10-30T09:01:12Z
   Vendor: Nila M.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Namnlos_design_33_copy.png?v=1782297772
   Price: £8.95 GBP
 - [Organic Argan Oil 100ml](https://wearemuva.com/products/organic-argan-oil-100ml): A single-ingredient, cold-pressed argan oil that works across skin, hair, scalp and nails — relevant at every hormonal stage, from the dryness that can accompany cycle fluctuations to the skin and hair changes of pregnancy, postpartum and menopause.
-  Updated: 2026-10-21T16:16:32Z
+  Updated: 2026-10-31T00:03:06Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/argan.webp?v=1779799216
   Price: £35.00 GBP
 - [Organic Jojoba Oil 100ml](https://wearemuva.com/products/organic-jojoba-oil-100ml): 100% Pure & Organic Fresh-Pressed® Jojoba Oil. Jojoba closely mimics the skin's natural sebum — making it one of the most effective and hormonally compatible skin and scalp options across all stages of a woman's life.
-  Updated: 2026-10-22T22:30:55Z
+  Updated: 2026-10-31T00:07:37Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/jojoba_76c5e428-6588-4843-bedb-b51a5922af8c.webp?v=1779799215
   Price: £21.00 GBP
 - [Organic Rosehip Oil 100ml](https://wearemuva.com/products/organic-rosehip-oil-100ml): A Vitamin A-rich oil with a direct relevance to hormonally-driven skin changes — pigmentation, scarring, barrier disruption and accelerated ageing — making it one of the more targeted oils in the range.
-  Updated: 2026-10-22T13:00:26Z
+  Updated: 2026-10-31T00:08:21Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rosehip_c5f27e89-a7b1-429e-a3d2-44560ef6153a.webp?v=1779799215
   Price: £27.00 GBP
 - [Fushi Organic Sweet Almond Oil 100ml](https://wearemuva.com/products/organic-sweet-almond-oil-100ml): A do-it-all oil made from 100% pure, organic almonds — cold-pressed and Fresh-Pressed® to lock in freshness and nutrients. Lightweight and fast-absorbing
-  Updated: 2026-10-22T17:22:42Z
+  Updated: 2026-10-31T00:16:56Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/sweet_almond.webp?v=1779799220
   Price: £14.00 GBP
 - [Holiday Ritual Kit](https://wearemuva.com/products/holiday-ritual-kit): Holiday Ritual Kit to elevate your skin's radiance and nurture smoothness for a perfect summer look.
-  Updated: 2026-10-22T06:16:26Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/holiday_ritual_kit.webp?v=1779799221
   Price: £68.00 GBP
 - [Really Good Hair Oil 100ml](https://wearemuva.com/products/really-good-hair-oil-100ml): An Ayurvedic-rooted  oil that directly addresses the hair thinning, breakage and scalp disruption that are among the most common — and least discussed — effects of hormonal change across postpartum, perimenopause and menopause.
-  Updated: 2026-10-22T08:30:17Z
+  Updated: 2026-10-31T00:03:06Z
   Vendor: Fushi Wellbeing
   Product Type: Hair Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/rgho.webp?v=1779799220
   Price: £32.00 GBP
 - [The Cycle-Syncing Collection | 5-Cycle Journey](https://wearemuva.com/products/the-cycle-syncing-collection-5-cycle-journey): For women who want cycle support built into daily life — not a short-term fix but a sustained, phase-specific practice across five months. The same four full-size phase blends as the 2-Cycle Ritual, scaled for a full five cycles: 150–175 cups across The Reset, The Rising, The Glow, and The Hold. Twenty-six whole-leaf herbs delivered as loose-leaf tea — a format that allows for gradual, gentle absorption rather than concentrated supplementation — working with your body's existing hormonal rhythm whether your cycle runs 21 or 35 days.
-  Updated: 2026-10-20T10:40:07Z
+  Updated: 2026-10-30T22:27:05Z
   Vendor: Pour Some More
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Traditionally_used_to_soothe_monthly_cramps-5.png?v=1779804361
   Price: £48.95 GBP
 - [Cycle-Syncing Tea Collection | 2-Cycle Ritual](https://wearemuva.com/products/cycle-syncing-tea-collection-2-cycle-ritual): The complete cycle-syncing kit for women ready to make phase-based botanical support a consistent practice. All four phase blends in full-size pouches: The Reset for menstruation, The Rising for the follicular phase, The Glow for ovulation, and The Hold for the luteal phase. Twenty-six whole-leaf herbs across the collection address the full spectrum of cycle symptoms — cramping, bloating, mood fluctuation, energy dips, and hormonal skin changes — each ingredient matched to the phase where it's most relevant.
-  Updated: 2026-10-20T10:40:07Z
+  Updated: 2026-10-30T09:50:29Z
   Vendor: Pour Some More
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Traditionally_used_to_soothe_monthly_cramps-6.png?v=1779804361
   Price: £28.95 GBP
 - [Fushi Organic Castor Oil – Cold Fresh-Pressed Multi-Use Oil 250ml](https://wearemuva.com/products/organic-castor-oil-250ml): A 100% pure, organic castor oil, Cold Fresh-Pressed® for freshness and traditionally used across hair, brow, lash and skin routines.
-  Updated: 2026-10-22T22:00:12Z
+  Updated: 2026-10-31T00:02:35Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/castor_2.webp?v=1783957387
   Price: £12.00 GBP
 - [Zeus Hydrogel Pads – 30 Pack Snoring Device Refills](https://wearemuva.com/products/1-month-supply-hydrogel): -grade replacement Hydrogel Pads for the Zeus anti-snoring device, ensuring consistent skin contact and stimulation delivery night after night.
-  Updated: 2026-10-22T12:35:04Z
+  Updated: 2026-10-30T21:01:42Z
   Vendor: Zeus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SHOPIFY_PRODUCT_IMAGES_8.png?v=1784055870
   Price: £30.00 GBP
 - [Zeus Anti-Snoring TENS Device – Tongue & Throat Support](https://wearemuva.com/products/zeus): A clinically developed, non-invasive snoring solution using gentle TENS stimulation to support the tongue and throat muscles during sleep
-  Updated: 2026-10-22T23:44:23Z
+  Updated: 2026-10-30T23:48:25Z
   Vendor: Zeus
   Product Type: 
   Availability: Available
@@ -915,21 +915,21 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_2b8cb736-fee2-40c3-a1ef-6bb4bb3885cd.jpg?v=1784890205
   Price: £22.00 GBP
 - [The  Digestive Herbal Blend](https://wearemuva.com/products/the-digestive-herbal-blend): Botanicals traditionally used to support digestion, post-meal comfort, and ease bloating. Built around holy basil — revered in Ayurvedic tradition for digestive comfort and a sense of calm — with cinnamon and fennel long used to ease trapped wind. Plastic-free teabags. All-natural and vegan. Made in the UK.
-  Updated: 2026-10-20T10:40:03Z
+  Updated: 2026-10-24T09:29:40Z
   Vendor: The Sabi
   Product Type: Digestive Herbata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/DIGESTIVEWEBSITE_1600x1600px.jpg?v=1784890205
   Price: £22.00 GBP
 - [Prebiotic Moisturiser](https://wearemuva.com/products/prebiotic-moisturiser): Skin that feels dry one minute and thirsty the next. This butter-soft cream works with dermal prebiotics to feed your skin's microbiome, restoring what stripped-back routines and harsh environments take out. Fast-absorbing, with a soft matte blur on texture and a glow that holds all day. For face and body.
-  Updated: 2026-10-20T10:40:06Z
+  Updated: 2026-10-25T14:54:52Z
   Vendor: The Sabi
   Product Type: Body Moisturiser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/MOISTURISERWEBSITE.jpg?v=1784890205
   Price: £38.50 GBP
 - [The Breastfeeding Herbal Blend](https://wearemuva.com/products/the-breastfeeding-herbal-blend): A high-dose, whole-leaf herbal blend of fennel, moringa, oat straw and nettle, formulated to support milk flow throughout breastfeeding. Formulated and reviewed by an OB-GYN, nutritionist, master herbalist and microbiologist — because taste matters as much as function. Delicious hot or iced.
-  Updated: 2026-10-22T09:10:51Z
+  Updated: 2026-10-30T16:47:36Z
   Vendor: The Sabi
   Product Type: Breastfeeding Herbata
   Availability: Available
@@ -943,14 +943,14 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_1b487c9c-bfb6-4034-b179-1b9590c7314d.jpg?v=1784890205
   Price: £40.00 GBP
 - [Mama Recover Postpartum Herbal Blend](https://wearemuva.com/products/mama-recover-postpartum-herbal-blend): A high-dose, whole-leaf herbal blend formulated for the fourth trimester and beyond, drawing on botanicals traditionally used to ease recovery, restore balance and support new mothers through early motherhood. Formulated with an OB-GYN, nutritionist, master herbalist and microbiologist — because postpartum care deserves the same rigour as the nine months before it. Plastic-free teabags. All-natural and vegan. Made in the UK.
-  Updated: 2026-10-20T13:17:36Z
+  Updated: 2026-10-27T17:47:25Z
   Vendor: The Sabi
   Product Type: Mama Recover Herbata
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_98a384dd-2ffa-46dc-8d1a-79f81d93411e.jpg?v=1784890205
   Price: £22.00 GBP
 - [DAME Reusable Period Pads – Organic Cotton, 4 Sizes](https://wearemuva.com/products/reusable-period-pads): DAME Reusable Period Pads offer soft, thin, five-layer protection you can wash and wear again. Five-layer construction wicks moisture, locks in liquid and prevents odour Available in four sizes — Mini, Liner, Regular and Night — for every flow Organic cotton top layer sits gently against skin Wearable comfortably for 6–8 hours Vegan, hypoallergenic and reusable — a sustainable swap for disposables
-  Updated: 2026-10-21T23:07:12Z
+  Updated: 2026-10-29T23:14:17Z
   Vendor: DAME
   Product Type: Pads
   Availability: Available
@@ -972,7 +972,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/DAME_Super_Night_Period_Pad.jpg?v=1785771367
     Price: £12.99 GBP
 - [DAME Period Cup – Reusable, -Grade, 2 Sizes](https://wearemuva.com/products/dame-period-cup™): The DAME Period Cup is a reusable, -grade cup designed for comfort — and it's the only cup that doesn't need boiling to clean. Made from -grade TPE, free from silicone and latex Self-sanitising material resists 99.9% of bacteria and viruses Wearable for up to 12 hours, holds over 3x more than a regular tampon Available in two sizes to suit different needs Reusable for years — a lower-waste alternative to single-use period products
-  Updated: 2026-10-22T15:53:23Z
+  Updated: 2026-10-30T10:12:06Z
   Vendor: DAME
   Product Type: Cup
   Availability: Available
@@ -984,7 +984,7 @@
     Availability: Available
     Price: £27.99 GBP
 - [DAME Thong Period Pant – Organic Cotton, Light Absorbency](https://wearemuva.com/products/thong-period-pant): The DAME Thong Period Pant is a barely-there thong built for spotting, light leaks and just-in-case days. Soft organic cotton with a wide-stretch waistband Odour control technology keeps things fresh Wicks moisture away and locks it in for up to 8 hours Sleek, seamless cut — invisible under fitted clothing Works alone on light days, or as backup with a tampon, cup or pad
-  Updated: 2026-10-22T14:22:48Z
+  Updated: 2026-10-27T17:04:45Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1014,7 +1014,7 @@
     Availability: Available
     Price: £16.99 GBP
 - [DAME High Waist Night Period Pant – Heavy Absorbency](https://wearemuva.com/products/night-period-pant): The DAME High Waist Night Period Pant is built for the heaviest days and most secure nights. Absorbs the equivalent of 5 tampons or pads in one wear High-rise, full-coverage fit with added absorbency up the back Odour control technology keeps things fresh through the night Soft organic cotton, gentle against skin Suitable for very heavy periods
-  Updated: 2026-10-22T21:18:26Z
+  Updated: 2026-10-30T17:20:27Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1029,7 +1029,7 @@
     Availability: Available
     Price: £22.99 GBP
   - [UK 12](https://wearemuva.com/products/night-period-pant?variant=58024360116555)
-    Availability: Available
+    Availability: Not Available
     Price: £22.99 GBP
   - [UK 14](https://wearemuva.com/products/night-period-pant?variant=58024360149323)
     Availability: Available
@@ -1044,7 +1044,7 @@
     Availability: Available
     Price: £22.99 GBP
 - [DAME Teen Period Pants – Organic Cotton, Bikini Fit](https://wearemuva.com/products/teen-period-pants): DAME Teen Period Pants look and feel like normal underwear, with built-in protection for school, sport and everyday confidence. Soft, stretchy organic cotton with hidden absorbent layers Absorbs the equivalent of 3–4 tampons or pads per wear Leak protection for up to 8 hours — ideal for a full school day Odour control keeps things fresh through lessons and activities Comfortable, discreet fit — perfect for a first period and every one after
-  Updated: 2026-10-22T21:48:15Z
+  Updated: 2026-10-28T11:34:51Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1065,7 +1065,7 @@
     Availability: Available
     Price: £19.99 GBP
 - [DAME Organic Cotton Tampons Value Pack – 3 Absorbencies](https://wearemuva.com/products/organic-tampons-value-pack): DAME Organic Cotton Tampons are made from 100%  organic cotton — nothing else. 100%  organic cotton, with sideways expansion for reliable protection Free from plastic, bleach, synthetic materials, dyes and pesticides Hypoallergenic and pH neutral — gentle even on sensitive skin Fully biodegradable, including the plant-based cellulose wrapper Available in three absorbencies: Regular, Super, Super Plus
-  Updated: 2026-10-22T19:18:18Z
+  Updated: 2026-10-30T12:10:07Z
   Vendor: DAME
   Product Type: Tampons
   Availability: Available
@@ -1083,7 +1083,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/DAME-Tampons-Super_Plus-56-assembly-stone_48067697-51df-491f-9805-450265310b71.jpg?v=1785771368
     Price: £14.99 GBP
 - [DAME Bikini Period Pant – Organic Cotton, Medium Absorbency](https://wearemuva.com/products/bikini-period-pant): The DAME Bikini Period Pant fits just like your favourite underwear — soft, breathable, and built to keep you moving without worrying about leaks. High-rise brief with full coverage and a smooth, flattering fit Absorbs the equivalent of 3–4 tampons or pads per wear Fast-wicking layers keep you feeling dry for up to 8 hours Odour control technology keeps things fresh throughout the day Soft organic cotton, gentle against skin
-  Updated: 2026-10-22T21:09:01Z
+  Updated: 2026-10-28T20:48:26Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1110,7 +1110,7 @@
     Availability: Available
     Price: £19.99 GBP
 - [DAME High Waist Period Pants – Organic Cotton, No VPL](https://wearemuva.com/products/high-waist-period-pant): DAME High Waist Period Pants offer a secure, high-rise fit with no visible panty line — protection that stays out of sight and out of mind. · High-rise brief with full coverage and a smooth, flattering fit · Absorbs the equivalent of 3 tampons or pads per wear · Fast-wicking layers keep you feeling dry for up to 8 hours · Odour control technology keeps things fresh throughout the day Soft organic cotton, gentle against skin
-  Updated: 2026-10-22T22:16:05Z
+  Updated: 2026-10-29T00:35:25Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1140,7 +1140,7 @@
     Availability: Available
     Price: £21.99 GBP
 - [DAME Shortie Period Pants – Organic Cotton, High Waist](https://wearemuva.com/products/shortie-period-pant): DAME Shortie Period Pants offer thigh-length coverage with a high waistband — comfortable, supportive protection for medium flow days. Thigh-length shortie cut with a high waistband for comfort and support Absorbs the equivalent of medium flow, or works as backup with a tampon or cup Fast-wicking layers keep you feeling dry for up to 8 hours Odour control technology keeps things fresh throughout the day Soft organic cotton, gentle against skin Soft and super absorbent organic cotton shortie with odour control technology for medium flow period protection and as backup to your tampon or cup.
-  Updated: 2026-10-20T20:01:16Z
+  Updated: 2026-10-28T15:35:51Z
   Vendor: DAME
   Product Type: Pants
   Availability: Available
@@ -1155,7 +1155,7 @@
     Availability: Available
     Price: £20.99 GBP
   - [UK 12](https://wearemuva.com/products/shortie-period-pant?variant=58024360968523)
-    Availability: Available
+    Availability: Not Available
     Price: £20.99 GBP
   - [UK 14](https://wearemuva.com/products/shortie-period-pant?variant=58024361001291)
     Availability: Available
@@ -1170,70 +1170,82 @@
     Availability: Available
     Price: £20.99 GBP
 - [Fushi Hair Boosting Trio – Ayurvedic Shampoo, Oil & Conditioner](https://wearemuva.com/products/hair-boosting-trio): The Fushi Hair Boosting Trio brings together a stimulating shampoo, conditioner and  oil, rooted in Ayurvedic tradition. Really Good Hair Oil blends five nourishing oils with Brahmi (Bacopa monnieri) and Neem (Azadirachta indica) Stimulator Shampoo and Conditioner, infused with Bhringaraj (Eclipta prostrata), Aritha and Baobab  organic, SLS and paraben-free, vegan and cruelty-free Cold-pressed oils and fresh-ground herbs, hand-blended in London Traditionally used to support scalp health, hair strength and shine
-  Updated: 2026-10-22T14:47:31Z
+  Updated: 2026-10-31T00:02:56Z
   Vendor: Fushi Wellbeing
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/hair_boosting_trio.webp?v=1786113162
   Price: £54.60 GBP
 - [Fushi Organic Evening Primrose Oil 100ml – Cold-Pressed](https://wearemuva.com/products/organic-evening-primrose-oil-100ml): Fushi Organic Evening Primrose Oil is a cold-pressed, unrefined oil traditionally used to support women's wellbeing. Cold-pressed and unrefined, minimum 9% GLA (gamma-linolenic acid) Traditionally used to support women's hormonal and skin health 100% pure Evening Primrose Oil — nothing else added Can be taken internally or used topically on dry, itchy skin  organic by the Soil Association
-  Updated: 2026-10-22T20:00:47Z
+  Updated: 2026-10-30T23:59:41Z
   Vendor: Fushi Wellbeing
   Product Type: Health Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/evening_primrose.webp?v=1786113162
   Price: £23.00 GBP
 - [Organic Bamboo Liners](https://wearemuva.com/products/organic-bamboo-liners): For the light days that don't need a full pad — spotting, discharge, or the days your flow is barely there. Grace & Green's pack of 24 bamboo liners are thin enough to forget you're wearing them, breathable enough not to mind that you are.
-  Updated: 2026-10-22T23:37:32Z
+  Updated: 2026-10-30T23:32:26Z
   Vendor: Grace & Green
   Product Type: Liners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_bd8bd68b-5af5-46f3-9d3f-b032355c83f3.png?v=1787050191
   Price: £3.00 GBP
 - [Organic Bamboo Period Pads - Medium Flow (10 Pack)](https://wearemuva.com/products/organic-bamboo-period-pads): Soft, breathable and made with organic bamboo, these winged pads from Grace & Green offer comfortable, leak-conscious protection for medium flow days — without the chlorine, synthetic fragrance or plastic-heavy build of conventional pads.
-  Updated: 2026-10-22T23:37:35Z
+  Updated: 2026-10-30T23:21:06Z
   Vendor: Grace & Green
   Product Type: Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/MediumPad1_15c910e5-0a77-4fc0-9799-8899f593f712.jpg?v=1787050190
   Price: £3.00 GBP
 - [First Period Starter Kit](https://wearemuva.com/products/first-period-starter-kit): A first period, handled with care. Grace & Green's Starter Kit brings together everything a young person needs for their first period. Pads, liners, guidance, all in one considered kit. Organic bamboo liners and pads for day and night. A First Period Booklet that explains what's happening, in plain, reassuring terms. Soft. Breathable. Kind to sensitive skin. Made with the body, and the planet, in mind.
-  Updated: 2026-10-21T14:04:21Z
+  Updated: 2026-10-30T00:42:36Z
   Vendor: Grace & Green
   Product Type: Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/firstperiodkit_highwaistedboxersbriefs.png?v=1787050191
   Price: £8.99 GBP
 - [Try G&G Non-applicator Bundle](https://wearemuva.com/products/try-g-g-non-applicator-bundle): New to Grace & Green and organic period care products? This starter bundle brings together their most-loved essentials with everything you need to move through your whole cycle with comfort and confidence. Includes: Organic Bamboo Liners Organic Bamboo Period Pads – Medium/Day Organic Bamboo Period Pads – Heavy/Night Organic Cotton Non-Applicator Tampons – Regular Organic Cotton Non-Applicator Tampons – Super Free from chlorine bleach and synthetic fragrances, and made with organic, breathable materials designed to work with your body, not against it.
-  Updated: 2026-10-22T23:38:01Z
+  Updated: 2026-10-30T14:38:23Z
   Vendor: Grace & Green
   Product Type: Applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/TryGrace_GreenNon-ApplicatorTampons_1.png?v=1787050191
   Price: £13.00 GBP
+- [Reusable Menstrual Cup & Sterilising Pod](https://wearemuva.com/products/reusable-menstrual-cup-sterilising-pod): A reusable menstrual cup built for real life. Smooth-coated for comfort, holding the equivalent of four tampons, worn for up to 12 hours — day or night. Paired with our compact steriliser pod, this bundle takes the guesswork out of going reusable. Everything you need to wear it, clean it, and start again. Simple. Reusable alternative to single-use tampons and pads High-capacity, long-wear design — up to 12 hours Smooth coating for comfortable, secure wear Bundled steriliser pod for effortless cleaning Available in Size A and Size B Size A is designed for newer cup users and those who have not given birth vaginally. Size B is suited to those with a heavy flow, experienced cup users, and those who have given birth vaginally
+  Updated: 2026-10-30T14:37:50Z
+  Vendor: Grace & Green
+  Product Type: Cups
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Menstrualcup_pod.png?v=1787050191
+  - [Size A](https://wearemuva.com/products/reusable-menstrual-cup-sterilising-pod?variant=58168965726539)
+    Availability: Available
+    Price: £18.50 GBP
+  - [Size B](https://wearemuva.com/products/reusable-menstrual-cup-sterilising-pod?variant=58168965759307)
+    Availability: Available
+    Price: £18.50 GBP
 - [Grace & Green Medium flow, non-applicator tampon bundle](https://wearemuva.com/products/medium-flow-non-applicator-tampon-bundle): A medium flow bundle for days when you want cover that just works. The bundle pairs Regular absorbency organic cotton non-applicator tampons with organic bamboo Day pads.
-  Updated: 2026-10-22T23:38:05Z
+  Updated: 2026-10-30T00:12:46Z
   Vendor: Grace & Green
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/TryGrace_GreenRegular.png?v=1787050191
   Price: £5.45 GBP
 - [Heavy flow, non-applicator tampon bundle](https://wearemuva.com/products/heavy-flow-non-applicator-tampon-bundle): Heavy flow, handled properly. Grace & Green's bundle provides cover for the day and overnight, without compromise.
-  Updated: 2026-10-22T23:38:15Z
+  Updated: 2026-10-30T00:12:46Z
   Vendor: Grace & Green
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/TryGrace_Greenheavy_1.png?v=1787050191
   Price: £5.50 GBP
 - [Try G&G Applicator Bundle](https://wearemuva.com/products/try-g-g-applicator-bundle): New to Grace & Green? This starter bundle brings together their bestselling period essentials in one box — liners, pads and applicator tampons, all crafted from organic bamboo and organic cotton. It's the easiest way to try the full range before committing to your go-to products, with nothing synthetic and nothing added.
-  Updated: 2026-10-22T23:38:05Z
+  Updated: 2026-10-30T14:38:30Z
   Vendor: Grace & Green
   Product Type: Applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Try_Grace_Green_Applicator_Tampons_1.png?v=1787050191
   Price: £13.00 GBP
 - [Grace & Green Period Shorts - 3 Pack](https://wearemuva.com/products/period-shorts-3-pack): Soft where it counts, protective where it matters. Made by Grace & Green from breathable bamboo, these high-waisted boxer shorts are built for real period days — comfortable enough to forget you're wearing them, reliable enough that you don't have to think twice. High-waisted, breathable bamboo fabric Leak-proof core layer built in Comes as a set of 3, so you're always covered Reusable and machine washable — no waste, no fuss
-  Updated: 2026-10-22T23:38:21Z
+  Updated: 2026-10-30T10:22:36Z
   Vendor: Grace & Green
   Product Type: 
   Availability: Available
@@ -1269,7 +1281,7 @@
     Availability: Available
     Price: £45.00 GBP
 - [Grace & Green High Waist Period Briefs - 3 Pack](https://wearemuva.com/products/high-waist-period-briefs-3-pack): Softness that shows up when you need it. Grace & Green's high-waist briefs are cut from breathable bamboo, built to hold your flow without holding you back
-  Updated: 2026-10-22T14:02:20Z
+  Updated: 2026-10-30T14:37:52Z
   Vendor: Grace & Green
   Product Type: 
   Availability: Available
@@ -1329,63 +1341,63 @@
     Availability: Not Available
     Price: £45.00 GBP
 - [Organic Cotton Non-applicator Tampons](https://wearemuva.com/products/organic-cotton-non-applicator-tampons): Grace & Green - 100% organic cotton, nothing else. No synthetic dyes, no fragrance, no compromise.  A box of 18, regular flow.
-  Updated: 2026-10-22T20:11:26Z
+  Updated: 2026-10-30T23:32:26Z
   Vendor: Grace & Green
   Product Type: Non-applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RegNonApp1.jpg?v=1787050192
   Price: £3.85 GBP
 - [Organic Cotton Non-Applicator Tampons for Periods](https://wearemuva.com/products/organic-cotton-non-applicator-tampons-1): 100% organic cotton, nothing else. No synthetic dyes, no fragrance, no compromise.
-  Updated: 2026-10-23T00:10:05Z
+  Updated: 2026-10-30T11:27:06Z
   Vendor: Grace & Green
   Product Type: Non-applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SuperNonApp1_6b4a31c0-9dfd-4030-961b-c721af95befb.jpg?v=1787050192
   Price: £3.90 GBP
 - [Bladder Protection Pads Bundle](https://wearemuva.com/products/bladder-protection-pads-bundle): For everyday leaks and light incontinence — pads built to keep you feeling secure, not self-conscious. Ultra-absorbent core locks in moisture fast 3D leak barrier plus a charcoal layer to help control odour, without added fragrance Wings for a snug, no-shift fit Soft organic bamboo topsheet, gentle on sensitive skin Moderate absorbency, for light bladder leak protection up to 330ml Bundle includes 3 boxes of moderate absorbency pads.
-  Updated: 2026-10-22T14:32:37Z
+  Updated: 2026-10-30T09:51:58Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/GG_BLAD_FEM_MOD_x_3_WEB.png?v=1787050192
   Price: £8.50 GBP
 - [Grace & Green Organic Cotton Applicator Tampons- Super](https://wearemuva.com/products/organic-cotton-applicator-tampons): Total confidence, every cycle. Grace & Green's applicator tampons are made with organic cotton and free from synthetic dyes and fragrances — designed for every body, with minimal impact on the planet. A biodegradable cardboard applicator provides smooth, easy insertion. Organic cotton, free from chlorine bleach, pesticides, and fragrance Biodegradable cardboard applicator Individually wrapped in recyclable paper Available in Regular and Super absorbency 8-groove design for a comfortable, secure fit
-  Updated: 2026-10-22T23:37:32Z
+  Updated: 2026-10-30T21:58:06Z
   Vendor: Grace & Green
   Product Type: Applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/4_fb4df7e8-e68d-443b-a189-46458a2355a8.png?v=1787050192
   Price: £4.59 GBP
 - [Grace & Green Organic Bamboo Period Pads with Wings](https://wearemuva.com/products/organic-bamboo-period-pads-1): Made with organic bamboo, Grace & Green's super soft pads with wings combine comfort with reliable, leak-conscious protection. Free from chlorine bleach and synthetic fragrances, and Oeko-Tex® , they come wrapped in biodegradable packaging — designed with care for your body and the planet. Oeko-Tex®  organic bamboo topsheet Wings for a secure, no-shift fit Fragrance-free and free from chlorine bleach Wrapped in TÜV Austria- biodegradable plant starch Available in Medium and Heavy absorbency
-  Updated: 2026-10-23T00:10:05Z
+  Updated: 2026-10-30T23:21:05Z
   Vendor: Grace & Green
   Product Type: Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/HeavyPad1.jpg?v=1787050191
   Price: £3.00 GBP
 - [Grace & Green Organic Cotton Applicator Tampons- Regular](https://wearemuva.com/products/organic-cotton-applicator-tampons-1): Total confidence, every cycle. Grace & Green's applicator tampons are made with organic cotton and free from synthetic dyes and fragrances — designed for every body, with minimal impact on the planet. A biodegradable cardboard applicator provides smooth, easy insertion. · Organic cotton, free from chlorine bleach, pesticides, and fragrance · Biodegradable cardboard applicator · Individually wrapped in recyclable paper · Available in Regular and Super absorbency · 8-groove design for a comfortable, secure fit
-  Updated: 2026-10-22T23:37:32Z
+  Updated: 2026-10-30T23:32:26Z
   Vendor: Grace & Green
   Product Type: Applicator Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/3_baafdf2f-26ef-4106-bdfd-edb4a78a7c66.png?v=1787050192
   Price: £4.49 GBP
 - [Grace & Green Bladder Liners Light – 3 Box Bundle](https://wearemuva.com/products/bladder-protection-liners-bundle): Stock up for everyday light bladder leaks. This bundle brings together three boxes of Grace & Green's Light liners (36 liners total), for small everyday leaks up to 50ml, with a charcoal core to help manage odour naturally. 3 boxes, 36 liners total Ultra-thin, breathable design Charcoal core for natural odour control Fragrance-free and gentle on sensitive skin Wrapped in compostable packaging
-  Updated: 2026-10-22T14:32:39Z
+  Updated: 2026-10-30T09:31:04Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/GG_BLAD_FEM_LIGHT_x_3_WEB.png?v=1787050192
   Price: £7.00 GBP
 - [Grace & Green Organic Bladder Protection Liners – Light](https://wearemuva.com/products/bladder-protection-liners): For everyday, light bladder leaks up to 50ml. Grace & Green's bladder liners offer breathable comfort and reliable protection, with a charcoal core to help manage odour naturally. Ultra-thin, breathable design Charcoal core for natural odour control Fragrance-free and gentle on sensitive skin Wrapped in compostable packaging Ideal for everyday leaks related to postpartum recovery, menopause, UTIs, or a weakened pelvic floor
-  Updated: 2026-10-22T14:32:24Z
+  Updated: 2026-10-30T21:58:06Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/FemaleRangeHighRes6.png?v=1787050192
   Price: £2.50 GBP
 - [Grace & Green Reusable Menstrual Cup, Sizes A & B](https://wearemuva.com/products/reusable-menstrual-cup): A sustainable, reusable alternative to single-use tampons and pads. Grace & Green's menstrual cup holds up to four tampons' worth of flow and can be worn for up to 12 hours, including overnight. Made from 100% BPA-free -grade silicone Smooth coating for comfortable insertion Up to 12 hours of leak-free wear Reusable for up to 10 years with proper care Available in two sizes and two colourways
-  Updated: 2026-10-22T23:38:15Z
+  Updated: 2026-10-30T14:37:55Z
   Vendor: Grace & Green
   Product Type: Cups
   Availability: Available
@@ -1405,98 +1417,98 @@
     Availability: Available
     Price: £15.00 GBP
 - [Grace & Green Heavy Flow Applicator Tampon & Pad Bundle](https://wearemuva.com/products/heavy-flow-applicator-tampon-bundle): A bundle built for heavier flow days. Pairs Grace & Green's organic cotton applicator tampons (Super) with organic bamboo Heavy/Night pads, so you're covered day and night. This bundle includes: Organic Bamboo Period Pads — Heavy/Night Organic Cotton Applicator Tampons — Super Grace & Green products are free from chlorine bleach and synthetic fragrances, designed to be better for your body, and better for the planet. Pads are Oeko-Tex®  and wrapped in biodegradable packaging; tampons come with a biodegradable cardboard applicator for smooth, easy insertion.
-  Updated: 2026-10-22T23:38:28Z
+  Updated: 2026-10-30T14:38:27Z
   Vendor: Grace & Green
   Product Type: Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/TryGrace_Greenheavy_2.png?v=1787050192
   Price: £5.50 GBP
 - [Grace & Green Postpartum Leaky Kit – Fourth Trimester Set](https://wearemuva.com/products/the-leaky-kit): The fourth trimester is leaky — from all body parts. This kit brings together everything Grace & Green thinks you'll actually need for post-birth bleeding, bladder leaks, and breastfeeding, in one considered bundle. The kit includes: · 1 box Period Liners · 1 box Period Pads — Medium/Day · 1 box Period Pads — Heavy/Overnight · 1 box Bladder Protection Liners · 1 box Bladder Protection Pads — Moderate · 1 box Bladder Protection Pads — Plus · 1 box Reusable Nursing Pads · 1 YOKU Natural Deodorant (Sicilian Bergamot) Every disposable product is fragrance-free, made with organic bamboo and cotton, and wrapped in compostable packaging. A pack of Period Pants or Boxers can be added at checkout for extra comfort on heavier days.
-  Updated: 2026-10-20T10:40:07Z
+  Updated: 2026-10-24T14:22:16Z
   Vendor: Grace & Green
   Product Type: Liners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ChatGPT_Image_Jun_17_2026_02_44_10_PM.png?v=1787050192
   Price: £29.99 GBP
 - [Grace & Green Medium Flow Applicator Tampon & Pad Bundle](https://wearemuva.com/products/medium-flow-applicator-bundle): A bundle built for medium flow days. Pairs Grace & Green's organic cotton applicator tampons (Regular) with organic bamboo Medium/Day pads, so you're covered whichever protection you reach for. This bundle includes: Organic Bamboo Period Pads — Medium/Day Organic Cotton Applicator Tampons — Regular Grace & Green products are free from chlorine bleach and synthetic fragrances, designed to be better for your body, and better for the planet. Pads are Oeko-Tex®  and wrapped in biodegradable packaging; tampons come with a biodegradable cardboard applicator for smooth, easy insertion.
-  Updated: 2026-10-22T23:38:27Z
+  Updated: 2026-10-30T14:38:30Z
   Vendor: Grace & Green
   Product Type: Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/TryGrace_GreenRegular_2.png?v=1787050192
   Price: £5.45 GBP
 - [Grace & Green Organic Bladder Pads Plus – 4 Box Bundle](https://wearemuva.com/products/bladder-protection-pads-bundle-1): Stock up and stay covered. This bundle brings together four boxes of Grace & Green's Plus absorbency pads (32 pads total), for light to medium bladder leaks up to 400ml — with a 3D leak barrier and charcoal core to lock in moisture and help manage odour, naturally. 4 boxes, 32 pads total Ultra-absorbent, with a secure wing fit Charcoal core for natural odour control Fragrance-free and gentle on sensitive skin Wrapped in compostable packaging
-  Updated: 2026-10-22T15:37:34Z
+  Updated: 2026-10-30T21:32:16Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/GG_BLAD_FEM_PLUS_x_4_WEB.png?v=1787050192
   Price: £11.00 GBP
 - [Grace & Green Organic Bamboo Reusable Breast Pads](https://wearemuva.com/products/reusable-breast-pads): Reliable, reusable protection for breast milk leaks — from early pregnancy through breastfeeding. Grace & Green's breast pads are made from luxuriously soft organic bamboo, designed for delicate skin and safe for you and your baby. Reusable — wash and wear again and again Soft, breathable organic bamboo topsheet Free from synthetic dyes, fragrances, and chlorine bleach Slim anti-leak barrier to protect clothing Suitable from early pregnancy through breastfeeding
-  Updated: 2026-10-20T23:18:31Z
+  Updated: 2026-10-30T19:54:17Z
   Vendor: Grace & Green
   Product Type: Liners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/BreastPads1.png?v=1787050193
   Price: £6.00 GBP
 - [Grace & Green Organic Bladder Protection Pads – Plus](https://wearemuva.com/products/bladder-protection-pads): For light to medium bladder leaks, up to 400ml. Grace & Green's Plus pads combine a 3D leak barrier with a charcoal core to lock in moisture and help manage odour, naturally. Ultra-absorbent, with a secure wing fit Charcoal core for natural odour control Fragrance-free and gentle on sensitive skin Wrapped in compostable packaging Ideal for postpartum recovery, menopause, UTIs, or a weakened pelvic floor
-  Updated: 2026-10-22T15:37:31Z
+  Updated: 2026-10-30T21:00:03Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Plus-Pads-High_Res-4-min.png?v=1787050192
   Price: £3.00 GBP
 - [Grace & Green Organic Bladder Protection Pads – Moderate](https://wearemuva.com/products/bladder-protection-pads-1): Light bladder leaks, handled with care. Grace & Green's Moderate pads offer light bladder leak protection up to 330ml, with a 3D leak barrier and charcoal core to lock in moisture and help manage odour, naturally. Ultra-absorbent, with a secure wing fit Charcoal core for natural odour control Fragrance-free and gentle on sensitive skin Wrapped in compostable packaging Ideal for postpartum recovery, menopause, UTIs, or a weakened pelvic floor
-  Updated: 2026-10-22T14:32:39Z
+  Updated: 2026-10-30T18:18:56Z
   Vendor: Grace & Green
   Product Type: Bladder Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Moderate-Pads-High_Res-5-min.png?v=1787050193
   Price: £3.00 GBP
 - [Fushi Stimulator Herbal Conditioner, Ayurvedic Hair Volumiser](https://wearemuva.com/products/stimulator-herbal-conditioner-230ml): A volumising Ayurvedic conditioner formulated with Fushi's Fresh-Ground® herbs to replenish and revitalise hair from root to tip. Bay Leaf and Rosemary bring a stimulating quality to the blend, Baobab Oil helps guard against dryness, and Bhringraj — a herb long used in Ayurveda for hair condition and shine — is triple-infused into the formula. Naturally fragranced with citrus and bergamot essential oils. Suited to thinning, limp, or tired hair Free from SLS, parabens, gluten, palm oil, and alcohol Vegan and cruelty-free 84% organic, 98% natural origin ingredients
-  Updated: 2026-10-22T14:47:32Z
+  Updated: 2026-10-31T00:02:47Z
   Vendor: Fushi Wellbeing
   Product Type: conditioner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/stimulator_condit..webp?v=1787150654
   Price: £23.00 GBP
 - [Fushi Stimulator Herbal Shampoo, Ayurvedic Hair Volumiser](https://wearemuva.com/products/stimulator-herbal-shampoo-230ml): An Ayurvedic-inspired shampoo formulated with Fushi's Fresh-Ground® herbs to help replenish and volumise hair that's feeling thin, limp, or tired. Bay Leaf and Rosemary bring a stimulating quality to the blend, Baobab Oil helps guard against dryness, and Bhringraj — a herb long used in Ayurveda for hair condition and shine — is triple-infused into the formula. Naturally fragranced with citrus and bergamot essential oils. Suited to thinning, limp, or tired hair Free from SLS, parabens, gluten, palm oil, and alcohol Vegan and cruelty-free 72% organic, 98% natural origin ingredients
-  Updated: 2026-10-22T14:47:36Z
+  Updated: 2026-10-31T00:02:55Z
   Vendor: Fushi Wellbeing
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/stimulator_shampoo.webp?v=1787150654
   Price: £23.00 GBP
 - [Fushi Scalp Soother Herbal Shampoo, Calming Ayurvedic Wash](https://wearemuva.com/products/scalp-soother-herbal-shampoo-230ml): A nourishing Ayurvedic shampoo formulated with Fushi's Fresh-Ground® herbs to soothe an irritated scalp and replenish hair from root to tip. Chickweed and Red Clover bring a calming quality to the blend, gentle Aritha soap nut refreshes the hair, and Sea Buckthorn helps nourish hair strands. Naturally fragranced with bergamot, geranium, and jasmine. Suited to flaky, irritated scalps, itchy skin, and dry hair Free from SLS, parabens, gluten, palm oil, and alcohol Vegan and cruelty-free 73% organic, 98% natural origin ingredients
-  Updated: 2026-10-22T11:06:26Z
+  Updated: 2026-10-30T23:59:42Z
   Vendor: Fushi Wellbeing
   Product Type: Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/scalp_shampoo.webp?v=1787150659
   Price: £23.00 GBP
 - [Fushi Organic Calendula Oil, Soothing Skin Oil 100ml](https://wearemuva.com/products/organic-calendula-oil-100ml): A single-ingredient oil, made by infusing organic Calendula flowers into pure Sweet Almond Oil. Traditionally used to soothe and calm skin that's feeling dry, irritated, or sensitive, it's gentle enough for all skin types — including baby skin. Organic Calendula flowers infused in organic Sweet Almond Oil Suited to dry, irritated, or sensitive skin Gentle enough for baby skin Free from chemicals, preservatives, fragrances, and additives
-  Updated: 2026-10-22T12:17:06Z
+  Updated: 2026-10-31T00:03:06Z
   Vendor: Fushi Wellbeing
   Product Type: Beauty Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/calendula.webp?v=1787150659
   Price: £23.00 GBP
 - [Fushi MenoHarmony](https://wearemuva.com/products/menoharmony): A considered Ayurvedic blend for the menopause transition, MenoHarmony brings together six freshly-ground botanicals and vitamin B6 in a single daily capsule. One box provides a 30-day supply.
-  Updated: 2026-10-22T21:00:16Z
+  Updated: 2026-10-31T00:02:41Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/menoharmony_ca0d7991-15b2-4f19-a5c8-a11ca7febb73.webp?v=1787150707
   Price: £28.00 GBP
 - [Fushi Monthly Harmony](https://wearemuva.com/products/monthly-harmony): A gentle, cycle-focused blend from Fushi's Ayurvedic-rooted formulation lab. Agnus Castus, Dong Quai and Saw Palmetto are Fresh-Ground® in small batches at Fushi's London workshop, then paired with Vitamin B6 and Magnesium for everyday hormonal and energy support. 60 capsules, a 30-day supply.
-  Updated: 2026-10-21T16:50:31Z
+  Updated: 2026-10-31T00:00:02Z
   Vendor: Fushi Wellbeing
   Product Type: Herbal Blend
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/monthly_harmony.webp?v=1787150707
   Price: £28.00 GBP
 - [NIXI Body Carla Cream Light Leakproof Period Pants](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-light): Reusable, leakproof knickers designed for light periods, bladder leaks, and everything in between. The high-leg cut and seamless waistband give a smooth, VPL-free fit under clothing, while a four-layer absorbent gusset takes care of light flow days, spotting, discharge, or the odd bladder leak — no pad or liner needed. Holds up to 10ml (the equivalent of 2 tampons) Seamless waistband, comfortable even with scars or stomas Washable and reusable £1 from every pair goes to The Endometriosis Foundation Available in UK sizes 6–20
-  Updated: 2026-10-22T20:11:49Z
+  Updated: 2026-10-28T19:07:56Z
   Vendor: NIXI Body
   Product Type: Light Absorbency
   Availability: Available
@@ -1574,7 +1586,7 @@
     Availability: Available
     Price: £115.00 GBP
 - [NIXI Body Carla Cream Heavy Leakproof Period Pants](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy): Reusable, leakproof knickers built for heavier periods and bladder leaks. The high-leg cut and seamless waistband give a smooth, VPL-free fit under clothing, while a four-layer absorbent gusset offers next-level anti-leak protection — no pad, tampon, or extra liner needed. Holds up to 20ml (the equivalent of 4 tampons) Seamless waistband, comfortable even with scars or stomas Washable and reusable £1 from every pair goes to The Endometriosis Foundation Available in UK sizes 6–20.
-  Updated: 2026-10-22T20:11:47Z
+  Updated: 2026-10-29T22:18:15Z
   Vendor: NIXI Body
   Product Type: Heavy Absorbency
   Availability: Available
@@ -1583,7 +1595,7 @@
     Availability: Available
     Price: £23.00 GBP
   - [8 / Single](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349307723)
-    Availability: Not Available
+    Availability: Available
     Price: £23.00 GBP
   - [10 / Single](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349340491)
     Availability: Available
@@ -1607,7 +1619,7 @@
     Availability: Available
     Price: £69.00 GBP
   - [8 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349569867)
-    Availability: Not Available
+    Availability: Available
     Price: £69.00 GBP
   - [10 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349602635)
     Availability: Not Available
@@ -1616,7 +1628,7 @@
     Availability: Available
     Price: £69.00 GBP
   - [14 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349668171)
-    Availability: Available
+    Availability: Not Available
     Price: £69.00 GBP
   - [16 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-cream-leakproof-knicker-heavy?variant=58323349700939)
     Availability: Available
@@ -1652,7 +1664,7 @@
     Availability: Available
     Price: £115.00 GBP
 - [NIXI Body Sarah Leakproof Period & Bladder Knickers](https://wearemuva.com/products/the-sarah-leakproof-knicker): Reusable, leakproof knickers with a low-cut, VPL-free design built to disappear under gym leggings and activewear. A four-layer absorbent gusset handles light period flow, spotting, discharge, or light bladder leaks, so there's no need for a pad, tampon, or extra liner — during workouts or everyday wear. Holds up to 10ml (the equivalent of 1–2 tampons) Low-cut, VPL-free design, invisible under activewear Washable and reusable Available in UK sizes 6–16, in black.
-  Updated: 2026-10-22T20:13:49Z
+  Updated: 2026-10-29T18:37:26Z
   Vendor: NIXI Body
   Product Type: Light Absorbency
   Availability: Available
@@ -1724,7 +1736,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/10_903dadce-1f24-40f7-9178-5ab8efebb93e.png?v=1788261966
     Price: £90.00 GBP
 - [NIXI Body Gracie Leakproof Period Thong](https://wearemuva.com/products/the-gracie-leakproof-thong): NIXI's most discreet style — a leakproof thong with zero VPL under any outfit. A four-layer absorbent gusset takes care of light period flow, spotting, discharge, or light bladder leaks, and can be worn instead of, or alongside, a pad or tampon for extra reassurance during workouts or everyday wear. Holds up to 10ml (the equivalent of 1–2 tampons) Thong cut, designed to be invisible under gym leggings and activewear Washable and reusable Available in UK sizes 6–18, in black.
-  Updated: 2026-10-22T21:52:15Z
+  Updated: 2026-10-30T19:51:07Z
   Vendor: NIXI Body
   Product Type: Light Absorbency
   Availability: Available
@@ -1744,7 +1756,7 @@
     Availability: Available
     Price: £18.00 GBP
   - [8 / Black / 3 Pack Save 15%](https://wearemuva.com/products/the-gracie-leakproof-thong?variant=58323350880587)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/3_f42b3078-4a1d-49b4-b059-bfd7ecb79b98.png?v=1788261966
     Price: £54.00 GBP
   - [8 / Black / 5 Pack Save 20%](https://wearemuva.com/products/the-gracie-leakproof-thong?variant=58323350913355)
@@ -1807,7 +1819,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/4_06ce5ca7-ef5d-460b-85a5-fb944fea9d89.png?v=1788261966
     Price: £90.00 GBP
 - [NIXI Body Zoe Leakproof Period Swim Bikini Bottoms](https://wearemuva.com/products/the-zoe-leakproof-bikini): All the leakproof protection of NIXI's underwear range, built into a waterproof bikini bottom for the pool, beach, spa, or a surf lesson. The absorbent gusset handles medium period flow or bladder leaks, while a waterproof outer keeps things fully leakproof in or out of the water. Two ways to wear it — tie the sides up for a higher leg, or leave them down for a high-waisted short style. Holds up to 15ml (the equivalent of 3 tampons) Waterproof inside and out Two-way tie styling for a customisable fit Washable and reusable
-  Updated: 2026-10-21T09:55:15Z
+  Updated: 2026-10-29T21:44:01Z
   Vendor: NIXI Body
   Product Type: Medium Absorbency
   Availability: Available
@@ -1876,7 +1888,7 @@
     Availability: Available
     Price: £150.00 GBP
 - [NIXI Body Susie Mid-Rise Leakproof Period Pants](https://wearemuva.com/products/the-susie-black-leakproof-knicker): A mid-rise, VPL-free style built for medium period flow and bladder leaks, with a comfortable waistband that stays invisible under gym leggings and activewear. A four-layer absorbent gusset can be worn instead of, or alongside, a pad or tampon — a popular choice among runners and anyone who wants reliable, all-round protection. Holds up to 15ml (the equivalent of 2–3 tampons) Mid-rise, VPL-free design Washable and reusable Available in sizes from Age 9–10 through to UK 4XL/20
-  Updated: 2026-10-22T21:51:21Z
+  Updated: 2026-10-30T19:51:02Z
   Vendor: NIXI Body
   Product Type: Medium Absorbency
   Availability: Available
@@ -1951,7 +1963,7 @@
     Availability: Available
     Price: £18.00 GBP
   - [L 12 / 3 Pack Save 15%](https://wearemuva.com/products/the-susie-black-leakproof-knicker?variant=58323354321227)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/1_e101a8f1-ba8d-433b-9db4-34add2479710.png?v=1788261967
     Price: £54.00 GBP
   - [L 12 / 5 Pack Save 20%](https://wearemuva.com/products/the-susie-black-leakproof-knicker?variant=58323354353995)
@@ -2003,7 +2015,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/2_4ae3b8be-d947-4024-ad61-9ea22d624422.png?v=1788261967
     Price: £90.00 GBP
 - [NIXI Body Susie Cream Mid-Rise Leakproof Knickers](https://wearemuva.com/products/the-susie-cream-leakproof-knicker): The same VPL-free, mid-rise fit as the Susie, with one difference: a white/cream gusset. That makes it easier to see and understand your flow — useful for light bladder leaks, or for anyone getting to know their period patterns. A four-layer absorbent gusset can be worn instead of, or alongside, a pad or tampon, and stays invisible under gym leggings and activewear. Holds up to 15ml (the equivalent of 2–3 tampons) White/cream gusset for easier flow tracking Mid-rise, VPL-free design Washable and reusable Available in UK sizes 8–20.
-  Updated: 2026-10-21T13:27:43Z
+  Updated: 2026-10-29T18:37:36Z
   Vendor: NIXI Body
   Product Type: Medium Absorbency
   Availability: Available
@@ -2086,7 +2098,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/10_ac128775-d62f-439a-80ff-079ff5ba29c7.png?v=1788261967
     Price: £90.00 GBP
 - [NIXI Body Polly Heavy Flow Leakproof Knickers](https://wearemuva.com/products/the-polly-leakproof-knicker): Meet the NIXI Body Polly high-waist leakproof knickers, designed for heavy flow and bladder leaks with 25ml absorbency and reusable overnight protection.
-  Updated: 2026-10-22T20:24:05Z
+  Updated: 2026-10-29T17:00:30Z
   Vendor: NIXI Body
   Product Type: Heavy Absorbency
   Availability: Available
@@ -2095,7 +2107,7 @@
     Availability: Available
     Price: £22.00 GBP
   - [8 / Black / 3 Pack Save 15%](https://wearemuva.com/products/the-polly-leakproof-knicker?variant=58323352846667)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/6_d1b28faf-7a64-4fe1-abec-48bcb6ba2d34.png?v=1788261966
     Price: £66.00 GBP
   - [8 / Black / 5 Pack Save 20%](https://wearemuva.com/products/the-polly-leakproof-knicker?variant=58323352879435)
@@ -2143,7 +2155,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/6_d1b28faf-7a64-4fe1-abec-48bcb6ba2d34.png?v=1788261966
     Price: £66.00 GBP
   - [16 / Black / 5 Pack Save 20%](https://wearemuva.com/products/the-polly-leakproof-knicker?variant=58323353272651)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/7_98833a60-2219-44a0-9d94-8d1c185f540e.png?v=1788261966
     Price: £110.00 GBP
   - [18 / Black / Single](https://wearemuva.com/products/the-polly-leakproof-knicker?variant=58323353305419)
@@ -2191,7 +2203,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/7_98833a60-2219-44a0-9d94-8d1c185f540e.png?v=1788261966
     Price: £110.00 GBP
 - [NIXI Body Polly Leakproof Knickers for Heavy Flow](https://wearemuva.com/products/the-coni-black-leakproof-knicker): Shop NIXI Body Polly black leakproof knickers for heavy periods and bladder leaks. High-waisted, reusable and washable with up to 25ml absorbency.
-  Updated: 2026-10-22T14:33:43Z
+  Updated: 2026-10-30T15:51:36Z
   Vendor: NIXI Body
   Product Type: Light Absorbency
   Availability: Available
@@ -2233,7 +2245,7 @@
     Availability: Available
     Price: £22.00 GBP
   - [14 / Black / 3 Pack Save 15%](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355107659)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/6_f46edbae-e978-4faa-8629-0ba020096905.png?v=1788261966
     Price: £66.00 GBP
   - [14 / Black / 5 Pack Save 20%](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355140427)
@@ -2241,14 +2253,14 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/9_675a01d4-a015-4923-b402-04f3a5e42c1d.png?v=1788261966
     Price: £110.00 GBP
   - [16 / Black / Single](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355173195)
-    Availability: Not Available
+    Availability: Available
     Price: £22.00 GBP
   - [16 / Black / 3 Pack Save 15%](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355205963)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/6_f46edbae-e978-4faa-8629-0ba020096905.png?v=1788261966
     Price: £66.00 GBP
   - [16 / Black / 5 Pack Save 20%](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355238731)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/9_675a01d4-a015-4923-b402-04f3a5e42c1d.png?v=1788261966
     Price: £110.00 GBP
   - [18 / Black / Single](https://wearemuva.com/products/the-coni-black-leakproof-knicker?variant=58323355271499)
@@ -2329,7 +2341,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/9_675a01d4-a015-4923-b402-04f3a5e42c1d.png?v=1788261966
     Price: £110.00 GBP
 - [NIXI Body Carla Black High-Leg Leakproof Knickers](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy): The original Carla — a high-leg, VPL-free style built for heavier periods and light bladder leaks, with a seamless waistband designed for comfort even with scars or stomas. A four-layer absorbent gusset gives next-level anti-leak protection, and can replace pads or tampons for periods, discharge, or sweat during exercise. Holds up to 20ml (the equivalent of 4 tampons) Seamless waistband, comfortable even with scars or stomas Washable and reusable £1 from every pair goes to The Endometriosis Foundation Available in UK sizes 6–20, in black.
-  Updated: 2026-10-22T19:50:28Z
+  Updated: 2026-10-30T21:24:56Z
   Vendor: NIXI Body
   Product Type: Heavy Absorbency
   Availability: Available
@@ -2346,7 +2358,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/11_70e7d2ed-c97a-4b51-976b-09cbfb166eac.png?v=1788261967
     Price: £115.00 GBP
   - [8 / Single](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356057931)
-    Availability: Not Available
+    Availability: Available
     Price: £23.00 GBP
   - [8 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356090699)
     Availability: Available
@@ -2357,14 +2369,14 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/11_70e7d2ed-c97a-4b51-976b-09cbfb166eac.png?v=1788261967
     Price: £115.00 GBP
   - [10 / Single](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356156235)
-    Availability: Not Available
+    Availability: Available
     Price: £23.00 GBP
   - [10 / 3 Pack Save 15%](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356189003)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/5_8a45830a-9326-4c57-a4d4-19900e94cc86.png?v=1788261967
     Price: £69.00 GBP
   - [10 / 5 Pack Save 20%](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356221771)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/11_70e7d2ed-c97a-4b51-976b-09cbfb166eac.png?v=1788261967
     Price: £115.00 GBP
   - [12 / Single](https://wearemuva.com/products/the-carla-black-leakproof-knicker-heavy?variant=58323356254539)
@@ -2423,7 +2435,7 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/11_70e7d2ed-c97a-4b51-976b-09cbfb166eac.png?v=1788261967
     Price: £115.00 GBP
 - [NIXI Body Coni Cream High-Waist Leakproof Knickers](https://wearemuva.com/products/the-coni-cream-leakproof-knicker): A super high-waist, VPL-free style with a light cream gusset — ideal for medium period flow, light bladder leaks, or the lighter days at the start or end of a period. A four-layer absorbent gusset can replace a pad or tampon entirely, and the seamless design stays invisible under gym leggings and activewear. Holds up to 15ml (the equivalent of 3 tampons) Cream gusset, well suited to lighter flow days or spotting Super high-waist, VPL-free design Washable and reusable Available in UK sizes 8–24, in cream
-  Updated: 2026-10-21T13:27:49Z
+  Updated: 2026-10-30T06:02:06Z
   Vendor: NIXI Body
   Product Type: Medium Absorbency
   Availability: Available
@@ -2510,35 +2522,35 @@
     Availability: Available
     Price: £110.00 GBP
 - [Fushi Organic Black Seed Oil 250ml](https://wearemuva.com/products/organic-black-seed-oil-250ml): Fushi's Organic Black Seed Oil is a fresh-pressed, food-grade oil made from 100% pure Nigella sativa seeds, sourced from Turkey and cold-pressed to preserve its natural antioxidants and Omega 3, 6 & 9 content. Left unrefined with no additives, it's a versatile oil with roots in traditional Ayurvedic wellness — taken internally or applied topically.  organic by the Soil Association and hand-blended in Fushi's London workshop. Pregnant or breastfeeding women, anyone with a bleeding disorder or low blood pressure, or anyone with an upcoming surgery should avoid this product. Not recommended for children. Anyone with existing health conditions or taking medication should speak to a doctor before use, and should check the full ingredient list for potential allergens.
-  Updated: 2026-10-22T14:31:45Z
+  Updated: 2026-10-31T00:07:51Z
   Vendor: Fushi Wellbeing
   Product Type: Health Oil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/Packshot_Save_the_Children_Aug2025.jpg?v=1788515706
   Price: £28.00 GBP
 - [Fushi Organic Ashwagandha – 60 Capsules Adaptogen](https://wearemuva.com/products/organic-ashwagandha): A 100% pure, organic Ashwagandha supplement, traditionally used in Ayurveda as an adaptogen to support the body's response to stress. 100% pure, organic Fresh-Ground® Ashwagandha root 340mg of herb per capsule, 60 capsules per pack Free from fillers, binders, wheat, lactose and preservatives  organic
-  Updated: 2026-10-22T22:04:42Z
+  Updated: 2026-10-31T00:02:42Z
   Vendor: Fushi Wellbeing
   Product Type: Single Herb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ashwagandha_a161b28a-6695-4bb5-902f-280e2967b55c.webp?v=1788515705
   Price: £17.00 GBP
 - [Bloom & Blossom - ONE HOT MAMA _ Revitalising face & body mist](https://wearemuva.com/products/bloom-and-blossom-one-hot-mama-revitalising-face-body-mist): A cooling, 4-in-1 face and body mist designed for pregnancy, postpartum and hormonal changes. Formulated with gotu kola, horsetail leaf, aloe vera and lime essential oil, this mist is designed to hydrate, cool and support skin through hot flushes, sleepless nights or general fatigue — suited to hospital bag, changing bag or bedside use.
-  Updated: 2026-10-22T13:45:09Z
+  Updated: 2026-10-28T12:47:35Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/OneHotMamabottle.jpg?v=1788962628
   Price: £18.00 GBP
 - [Bloom & Blossom - SKIN TO SKIN _ Bump to baby massage oil](https://wearemuva.com/products/bloom-and-blossom-skin-to-skin-bump-to-baby-massage-oil): A naturally derived massage oil designed for use across pregnancy, postpartum and with newborns Formulated with batana oil, squalane and arnica, alongside chamomile and lavender, this massage oil is designed to hydrate and soothe skin — suited to bump massage during pregnancy, postnatal recovery, or skin-to-skin bonding with baby.
-  Updated: 2026-10-22T14:11:02Z
+  Updated: 2026-10-27T21:33:56Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SkintoSkinbottlev2.jpg?v=1788962628
   Price: £18.00 GBP
 - [Pregnancy & New Mum Gift Set | Bloom & Blossom Care](https://wearemuva.com/products/bloom-and-blossom-youve-got-this-mama-pregnancy-new-mum-gift-set): A three-piece pregnancy gift set targeting stretch, swelling and dryness. The perfect baby shower gift. This set brings together three travel/deluxe-size products aimed at the main skin changes of pregnancy: a stretch mark cream, a cooling leg and foot spray, and a multi-tasking balm suited to both bump and baby. Most people buy for the baby. This is for her. This pregnancy and new mum gift set includes... And Stretch... Stretch mark cream 40ml - A rich, fast-absorbing stretch mark cream Legs Up Mama, Instant revive leg & foot spray 40ml - An instant cooling leg and foot spray that works on contact. Skin Kind, Bump & baby balm 25ml - A gentle multi-tasking balm for the dry, sensitive and delicate skin that comes with pregnancy.
-  Updated: 2026-10-22T22:57:16Z
+  Updated: 2026-10-30T20:13:06Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
@@ -2552,7 +2564,7 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/AllNightLongBottle.jpg?v=1788962633
   Price: £20.00 GBP
 - [Bloom & Blossom Multi-Tasking Balm – Shea Butter 25ml](https://wearemuva.com/products/bloom-and-blossom-wonder-worker-multi-tasking-balm): A travel-size, multi-purpose balm formulated with shea butter, vitamin E and lanolin to moisturise and soothe extremely dry areas of skin, from lips to cuticles. Multi-use balm for lips, cuticles, elbows, heels and other dry areas Shea butter and lanolin for intensive moisture Vitamin E to help protect skin from environmental exposure 25ml travel size, made in the UK and cruelty-free
-  Updated: 2026-10-20T10:40:07Z
+  Updated: 2026-10-29T12:01:16Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
@@ -2566,7 +2578,7 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/LegsEleven-Bottle.jpg?v=1788962633
   Price: £32.00 GBP
 - [Bloom & Blossom Nourishing Lip Balm – Lanolin & Coconut Oil](https://wearemuva.com/products/lip-service-_-nourishing-lip-balm): A naturally derived lip balm formulated with lanolin, coconut oil, passionflower oil and glycerin to support dry, chapped or dehydrated lips. 100% naturally derived ingredients Pharmaceutical-grade lanolin as the hero ingredient Suited to daily use, alone or under lipstick Made in the UK and cruelty-free
-  Updated: 2026-10-21T17:05:15Z
+  Updated: 2026-10-30T23:29:06Z
   Vendor: Bloom and Blossom
   Product Type: Balm
   Availability: Available
@@ -2580,70 +2592,70 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/GetDrenchedBottle.jpg?v=1788962634
   Price: £29.00 GBP
 - [Bloom & Blossom - SMOOTH MOVES _ Stretch mark oil](https://wearemuva.com/products/bloom-and-blossom-smooth-moves-stretch-mark-oil): A naturally derived body oil formulated to help improve the appearance and texture of stretch marks. Formulated with argan oil, sweet almond oil and apricot kernel oil, this body oil is designed to hydrate and support skin elasticity — suited to hips, thighs and the bump during pregnancy, or stretch mark-prone areas generally.
-  Updated: 2026-10-22T12:44:56Z
+  Updated: 2026-10-29T09:49:46Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/SmoothMovesbottle.jpg?v=1788962633
   Price: £26.00 GBP
 - [Bloom & Blossom - READY TO POP _ Pregnancy luxe gift set](https://wearemuva.com/products/bloom-and-blossom-ready-to-pop-pregnancy-luxe-gift-set): A four-piece pregnancy and new-mum gift set covering stretch marks, hydration, and everyday skin support. This set brings together four full-size Bloom & Blossom body care products aimed at common pregnancy-related skin changes — dryness, stretching and sensitivity — packaged in a reusable bag with a gift tag. This pregnancy luxe gift set is worth £84 (saving of £24) and includes: Smooth Moves, Stretch mark oil One Hot Mama, Revitalising face & body mist Wonder Worker, Multi-tasking balm Mission Moisture, Nourishing body cream
-  Updated: 2026-10-21T16:44:46Z
+  Updated: 2026-10-27T09:11:56Z
   Vendor: Bloom and Blossom
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ReadytoPopWeb.jpg?v=1788962634
   Price: £60.00 GBP
 - [Bloom & Blossom - AND STRETCH... _ Stretch mark cream](https://wearemuva.com/products/bloom-and-blossom-and-stretch-stretch-mark-cream): A rich, hydrating body cream formulated to help improve the appearance of stretch marks. Formulated with horsetail leaf extract, chlorella extract and organic shea butter, this 99% naturally derived cream is designed to support skin elasticity and hydration — suited to use during pregnancy or for stretch marks from any cause.
-  Updated: 2026-10-22T18:15:37Z
+  Updated: 2026-10-29T09:49:46Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/AndStretchbottle.jpg?v=1788962633
   Price: £26.00 GBP
 - [Bloom & Blossom - COOL & CALM _ The menopause edit](https://wearemuva.com/products/bloom-and-blossom-cool-calm-menopause-care-set): A three-piece menopause skincare edit for hydration, cooling and sleep support. This set brings together three mini formats aimed at common menopause symptoms: a multi-tasking balm for dry, dehydrated skin (hands, feet, lips, heels), a leg and foot spray to help cool and refresh, and a pillow mist designed to support relaxation before sleep. It includes: Wonder Worker (25ml), Multi-tasking balm Spritzy Toes (40ml), Revitalising leg & foot spray All Night Long (40ml), Calming sleep spray
-  Updated: 2026-10-20T10:40:07Z
+  Updated: 2026-10-26T15:07:52Z
   Vendor: Bloom and Blossom
   Product Type: Gift Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/CoolandCalmBox.jpg?v=1788962634
   Price: £26.00 GBP
 - [Bloom & Blossom - BOOTY GAINS _ Bum, hips & stomach firming cream](https://wearemuva.com/products/bloom-and-blossom-booty-gains-bum-hips-stomach-firming-cream): A firming, hydrating body cream for the bum, hips, stomach and thighs. Formulated with guaraná extract, caffeine and cupuaçu butter, this cream is designed to support skin elasticity, stimulate micro-circulation and lock in moisture, leaving skin looking smoother and more contoured over time.
-  Updated: 2026-10-20T10:40:10Z
+  Updated: 2026-10-29T09:49:42Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/BootyGainsTub.jpg?v=1788962633
   Price: £32.00 GBP
 - [Bloom & Blossom - MISSION MOISTURE _ Nourishing body cream](https://wearemuva.com/products/bloom-and-blossom-mission-moisture-nourishing-body-cream): A non-greasy, fast-absorbing body cream for supple, hydrated skin all over. A 97% naturally derived formula blended with mandarin, ylang ylang, amber and musk, designed to sink in easily without residue while supporting soft, comfortable skin.
-  Updated: 2026-10-20T10:40:03Z
+  Updated: 2026-10-28T05:11:22Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/MissionMoistureWeb.jpg?v=1788962634
   Price: £24.00 GBP
 - [Bloom & Blossom - LEG THERAPY _ Cooling leg serum](https://wearemuva.com/products/bloom-and-blossom-legs-thearpy-cooling-leg-serum): A lightweight, fast-absorbing cooling serum for legs that carry the weight of pregnancy, postpartum recovery, or simply a long day. Formulated with peppermint leaf oil, aloe vera leaf juice and algin (a seaweed-derived moisturiser), this leg serum is designed to cool, soothe and hydrate tired, heavy or swollen legs, ankles and feet. It's built for daily use — particularly when puffiness or heaviness sets in during pregnancy or the postpartum period.
-  Updated: 2026-10-22T12:44:46Z
+  Updated: 2026-10-30T17:47:46Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/LegTherapybottle_4c25e543-15f2-4edb-850c-e4af0b7ebad3.jpg?v=1788962634
   Price: £22.00 GBP
 - [Bloom & Blossom Ultimate Unwind – 4 Piece Gift Set](https://wearemuva.com/products/ultimate-unwind-_-the-relaxing-self-care-gift-set): A four-piece full-size gift set combining Bloom & Blossom's body, hand and lip care bestsellers, designed to support an everyday self-care routine. Includes body cream, hand cream, lip balm and multi-tasking balm, all full-size Naturally derived formulations across all four products Suited to gifting or personal use Made in the UK and cruelty-free
-  Updated: 2026-10-21T08:49:02Z
+  Updated: 2026-10-30T13:38:10Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/UltimateUnwindGiftSet.jpg?v=1788962635
   Price: £30.00 GBP
 - [Bloom & Blossom - STELLAR GLOW Nourishing body oil](https://wearemuva.com/products/bloom-and-blossom-stellar-glow-nourishing-body-oil): A nourishing body oil that hydrates, replenishes and leaves skin soft and supple. Formulated with batana oil to help reinforce the skin barrier, squalane to support elasticity, and arnica to calm hard-working skin. Chamomile and lavender round out the blend with a calming scent, making it suited to daily use or post-shower application.
-  Updated: 2026-10-20T10:40:09Z
+  Updated: 2026-10-29T09:59:56Z
   Vendor: Bloom and Blossom
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/StellarGlowWeb.jpg?v=1788962640
   Price: £26.00 GBP
 - [Mooncup Original Menstrual Cup Sizes A & B | MUVA](https://wearemuva.com/products/the-mooncup-original-menstrual-cup): The Mooncup Original: a reusable menstrual cup in  grade silicone. Holds around 29ml, lasts for years. Sizes A and B. Shop reusable period care at MUVA.
-  Updated: 2026-10-22T19:56:26Z
+  Updated: 2026-10-30T23:46:47Z
   Vendor: Mooncup
   Product Type: 
   Availability: Available
@@ -2657,14 +2669,14 @@
     Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_CUP_NORMAL__SizeB_FOP.png?v=1790168223
     Price: £23.50 GBP
 - [Mooncup Cleaning Pot](https://wearemuva.com/products/mooncup-cleaning-pot): Designed to fit all Mooncup sizes, the collapsible cleaning pot is made from soft,  grade silicone. It can be used three ways: In the microwave With sterilising solution With water to rinse and go
-  Updated: 2026-10-22T15:01:03Z
+  Updated: 2026-10-30T23:46:46Z
   Vendor: Mooncup
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_CLEANINGPOT_NORMAL_MOOM-CPOT_FOP.png?v=1790168223
   Price: £10.50 GBP
 - [Mooncup Beginner Menstrual Cup](https://wearemuva.com/products/the-mooncup-beginner-menstrual-cup): The Mooncup Beginner: a soft, flexible menstrual cup in  grade silicone with an easy-grip pull. Sizes A, B and Teen. Shop reusable period care at MUVA.
-  Updated: 2026-10-22T09:09:48Z
+  Updated: 2026-10-28T19:48:27Z
   Vendor: Mooncup
   Product Type: 
   Availability: Available
@@ -2679,35 +2691,35 @@
     Availability: Available
     Price: £23.50 GBP
 - [Mooncup Panty Liners](https://wearemuva.com/products/panty-liners): Mooncup ultra-thin panty liners with an organic cotton topsheet. No fragrance, dyes or petroleum plastics. 25 per pack. Shop everyday period care at MUVA
-  Updated: 2026-10-22T23:46:52Z
+  Updated: 2026-10-30T14:02:55Z
   Vendor: Mooncup
   Product Type: Liners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_LINERS_NORMAL_LIN25S_FOP.png?v=1790168223
   Price: £2.50 GBP
 - [Mooncup Pocket Pack - 3 x Pads with Wings](https://wearemuva.com/products/pocket-pack-3-x-pads-with-wings): Three absorbencies. One of each. Find your fit. This is a pocket-sized trial of Mooncup's winged pads. Each pad has an organic cotton topsheet over an FSC- cellulose core, with no SAPs, fragrance, dyes or petroleum plastics. It's small enough for your bag, and the easiest way to find out which absorbency suits your cycle. Includes 1 × Medium/Day, 1 × Heavy/Night and 1 × Maxi/Night+.
-  Updated: 2026-10-22T09:09:48Z
+  Updated: 2026-10-29T10:15:36Z
   Vendor: Mooncup
   Product Type: Pads
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_PocketPack.png?v=1790168223
   Price: £1.00 GBP
 - [Mooncup Applicator Tampons (Regular)](https://wearemuva.com/products/mooncup-applicator-tampons-regular): Mooncup Regular tampons in 100% GOTS- organic cotton with a cardboard applicator. No synthetic fibres, fragrance or plastic. Shop period care at MUVA.
-  Updated: 2026-10-22T19:50:26Z
+  Updated: 2026-10-30T14:02:55Z
   Vendor: Mooncup
   Product Type: Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_TAMPONS_APPLICATOR_NORMAL_APPREG16_FOP_NEWRoundal_d5a405d8-f5e8-485d-8f8d-24b46123aed0.png?v=1790168223
   Price: £3.50 GBP
 - [Mooncup Applicator Tampons (Super)](https://wearemuva.com/products/new-applicator-tampons-super): Mooncup applicator tampons in 100% GOTS- organic cotton, Regular and Super. Cardboard applicator, no synthetic fibres or fragrance. Shop at MUVA
-  Updated: 2026-10-22T19:50:22Z
+  Updated: 2026-10-29T16:30:37Z
   Vendor: Mooncup
   Product Type: Tampons
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/RENDERS_TAMPONS_APPLICATOR_NORMAL_APPSUP16_FOP_NEWRoundal.jpg?v=1790168223
   Price: £3.50 GBP
 - [Mooncup Period Pants - High Waist](https://wearemuva.com/products/period-pants-high-waist): Mooncup high waist period pants hold up to 10 tampons' worth, with an organic cotton top layer. PFAS-free, reusable for 100 washes. Shop period care at MUVA
-  Updated: 2026-10-22T09:09:48Z
+  Updated: 2026-10-29T13:26:16Z
   Vendor: Mooncup
   Product Type: 
   Availability: Available
@@ -2752,7 +2764,7 @@
     Availability: Not Available
     Price: £17.95 GBP
 - [Period Pants - Low Waist](https://wearemuva.com/products/period-pants-low-waist): Mooncup low waist period pants with an organic cotton top layer, holding up to 10 tampons' worth. PFAS-free and reusable for 100 washes. Shop at MUVA.
-  Updated: 2026-10-22T09:09:48Z
+  Updated: 2026-10-30T12:38:45Z
   Vendor: Mooncup
   Product Type: 
   Availability: Available
@@ -2797,7 +2809,7 @@
     Availability: Not Available
     Price: £17.95 GBP
 - [Mooncup Non-Applicator Tampons](https://wearemuva.com/products/non-applicator-tampons): Mooncup non-applicator tampons in 100% GOTS- organic cotton. No synthetic fibres, fragrance or plastic. Light, Medium and Heavy. Shop at MUVA.
-  Updated: 2026-10-22T11:28:05Z
+  Updated: 2026-10-30T07:46:42Z
   Vendor: Mooncup
   Product Type: Tampons
   Availability: Available
@@ -2822,7 +2834,7 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ML_Creatine_1.jpg?v=1790342952
   Price: £28.00 GBP
 - [Meteron Labs Liposomal Vitamin D3 & K2 – 60ml Liquid](https://wearemuva.com/products/liposomal-vitamin-d3-k2-liquid-bone-immune-health-60ml): A vegan liposomal liquid combining high-strength vitamin D3 (4,000 IU) and vitamin K2, designed for enhanced absorption to support immune function and bone health. Liposomal delivery for improved absorption and stability High-strength vitamin D3 (4,000 IU / 100µg) plus vitamin K2 Convenient liquid format — 1ml daily serving Cherry and vanilla flavoured, vegan, 60ml bottle (60 servings)
-  Updated: 2026-10-20T10:40:04Z
+  Updated: 2026-10-24T17:54:54Z
   Vendor: Meteron Labs
   Product Type: Nutritional Supplement
   Availability: Available
@@ -2836,21 +2848,21 @@
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ML_Gloutathione_1.jpg?v=1790342958
   Price: £59.99 GBP
 - [Meteron Labs Liposomal Vitamin C & Quercetin – 150ml](https://wearemuva.com/products/liposomal-vitamin-c-quercetin-monohydrate-immune-support-150ml): A vegan liposomal liquid combining vitamin C and quercetin, designed for enhanced absorption to support immune function, reduce tiredness and fatigue, and support healthy skin through collagen formation. Liposomal delivery for improved absorption and stability Vitamin C (500mg) plus quercetin (150mg) per serving Lemon-flavoured liquid, 5ml daily serving 150ml bottle, 30 servings, vegan
-  Updated: 2026-10-20T10:40:03Z
+  Updated: 2026-10-24T18:52:45Z
   Vendor: Meteron Labs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/ML_Vit_C_1.jpg?v=1790342957
   Price: £35.00 GBP
 - [Period Harmony - Monthly Soothers](https://wearemuva.com/products/monthly-soothers): A slim, flexible patch that delivers up to 12 hours of cooling sensation during your period, worn discreetly under clothing
-  Updated: 2026-10-22T12:35:39Z
+  Updated: 2026-10-30T12:12:33Z
   Vendor: Period Harmony
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/5336/4555/files/8_d5a72658-4478-46e3-988a-7f3d2c07974e.png?v=1790598733
   Price: £7.99 GBP
 - [Dizzy - Daily Flow](https://wearemuva.com/products/daily-flow): Creatine, electrolytes and a targeted vitamin blend in one daily scoop — designed for women who want their routine to do more without adding more steps. Each serving delivers 3.5g creatine monohydrate alongside magnesium, calcium, potassium and sodium, plus vitamin C, B2, B3, B5 and 500mcg biotin. Lion's Mane and Siberian ginseng complete the formula. Mix 7.5g (1.5 tsp) into 400ml cold water. Berry Lemonade flavour, 30 servings.
-  Updated: 2026-10-22T20:40:13Z
+  Updated: 2026-10-30T04:08:31Z
   Vendor: DIZZY
   Product Type: supplement
   Availability: Available
@@ -2861,25 +2873,25 @@
 ## Collections
 
 - [Menopause Products](https://wearemuva.com/collections/menopause): Effective menopause products made to support mood, sleep, and daily comfort during hormonal changes. Feel better every day.
-  Updated: 2026-10-10T11:24:38Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 34
 - [Pregnancy Products](https://wearemuva.com/collections/pregnancy): Find the best pregnancy products for comfort, support, and daily essentials made for every stage of motherhood. Feel confident in your choices.
-  Updated: 2026-09-19T11:46:52Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 26
 - [SKN TO SKN](https://wearemuva.com/collections/skn-to-skn): SKN TO SKN was created with a clear purpose: to support mothers with skincare solutions designed specifically for the unique needs of pregnancy. The brand is built on a foundation of safety, education, transparency, and effectiveness. Each product is developed with science-backed formulations, ensuring high standards of quality while prioritising the well-being of both mother and baby. Understanding that pregnancy brings significant changes to the skin, SKN TO SKN focuses on delivering targeted solutions that are gentle, reliable, and results-driven. Clear ingredient choices and honest communication remain central to the brand, allowing customers to feel informed and confident in their skincare decisions. SKN TO SKN is dedicated to providing products that help mothers feel supported, comfortable, and confident throughout every stage of their journey.
-  Updated: 2026-07-07T11:34:52Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 4
 - [Period Care Products](https://wearemuva.com/collections/period): Buy selected period products, chosen for all-day comfort, reliable protection, and daily ease. Find what works for you!
-  Updated: 2026-10-16T11:28:48Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 70
 - [Wellbeing Products](https://wearemuva.com/collections/wellbeing): Explore the best collagen supplements for women along with premium wellbeing products. Shop women's supplements designed for daily wellness, balance, and vitality.
-  Updated: 2026-10-12T09:45:51Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 44
 - [Skin & Body](https://wearemuva.com/collections/pregnancy-skin-body): Your skin changes — your routine should too. Shop pregnancy-safe skincare curated by MUVA for stretch care, hydration, and your changing body.
-  Updated: 2026-09-25T12:16:04Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 19
 - [Postpartum Physical Recovery](https://wearemuva.com/collections/postpartum-physical-recovery): Shop postpartum recovery products curated by MUVA to support your healing, comfort, and recovery after birth.
-  Updated: 2026-09-25T12:25:03Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 27
 - [Nutrition](https://wearemuva.com/collections/pregnancy-nutrition): From preconception to postpartum, shop pregnancy supplements curated by MUVA to support you and your baby through every trimester.
   Updated: 2026-07-16T11:36:41Z
@@ -2906,13 +2918,13 @@
   Updated: 2026-06-30T08:20:32Z
   Total Products: 0
 - [First Trimester](https://wearemuva.com/collections/first-trimester): Support your first trimester with curated pregnancy essentials, soothing care and thoughtful must haves made for early motherhood. Get yours today online.
-  Updated: 2026-08-02T09:01:07Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 8
 - [Second Trimester](https://wearemuva.com/collections/second-trimester): Second trimester essentials from MUVA, with pregnancy skincare, sleep aids and maternity favourites chosen for this stage of motherhood and wellbeing.
-  Updated: 2026-08-02T09:01:07Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 8
 - [Third Trimester](https://wearemuva.com/collections/third-trimester): Third trimester essentials from MUVA include pregnancy skincare, sleep and body care picks chosen for late pregnancy and labour preparation and birth prep.
-  Updated: 2026-09-10T13:54:59Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 11
 - [Fushi Wellbeing](https://wearemuva.com/collections/fushi-wellbeing): Fushi Wellbeing products feature premium supplements, oils and skincare crafted with fresh, organic ingredients for daily wellness and wellness routines.
   Updated: 2026-09-25T12:58:16Z
@@ -2945,7 +2957,7 @@
   Updated: 2026-07-29T11:37:15Z
   Total Products: 4
 - [Pads, Tampons, Cups](https://wearemuva.com/collections/pads-tampons-cups): Soft, trusted, and better for your body. Shop organic tampons curated by MUVA for comfortable, reliable period protection.
-  Updated: 2026-10-16T11:28:48Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 32
 - [Period Underwear](https://wearemuva.com/collections/period-underwear): Leak-proof, comfortable, and made to move with you. Shop period underwear curated by MUVA for every flow and every day.
   Updated: 2026-10-16T11:28:48Z
@@ -2987,7 +2999,7 @@
   Updated: 2026-09-25T11:56:42Z
   Total Products: 1
 - [Skin & Hair Changes](https://wearemuva.com/collections/menopause-skin-hair-changes): Hair thinning, skin shifting — menopause changes more than you expect. Shop products curated by MUVA to support your hair and skin through every stage.
-  Updated: 2026-08-22T12:02:22Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 13
 - [Perimenopause](https://wearemuva.com/collections/perimenopause): Perimenopause doesn't come with a manual. Shop products curated by MUVA to support mood, sleep, and hormonal shifts — whatever stage you're at.
   Updated: 2026-09-27T00:58:29Z
@@ -3062,10 +3074,10 @@
   Updated: 2026-10-12T09:45:51Z
   Total Products: 3
 - [The Sabi](https://wearemuva.com/collections/the-sabi): The Sabi collection features thoughtfully selected essentials from MUVA, offering a considered range of everyday choices for women across different stages of life.
-  Updated: 2026-10-06T05:27:41Z
+  Updated: 2026-10-26T11:31:28Z
   Total Products: 6
 - [Grace & Green](https://wearemuva.com/collections/grace-green): Browse the Grace & Green collection at MUVA for selected essentials from a trusted brand, with convenient choices for different stages and routines alike.
-  Updated: 2026-10-06T05:24:42Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 24
 - [BellaMoon](https://wearemuva.com/collections/bellamoon): Shop BellaMoon at MUVA for women’s health and wellbeing essentials, thoughtfully selected to support comfort, care and confidence through every stage of life.
   Updated: 2026-10-06T05:24:13Z
@@ -3077,7 +3089,7 @@
   Updated: 2026-10-16T11:28:48Z
   Total Products: 11
 - [Bloom & Blossom](https://wearemuva.com/collections/bloom-blossom)
-  Updated: 2026-09-25T12:16:03Z
+  Updated: 2026-10-29T11:25:59Z
   Total Products: 18
 - [Mooncup](https://wearemuva.com/collections/mooncup): Shop the Mooncup collection at MUVA for a considered range of period care essentials, bringing trusted choices together in one convenient place.
   Updated: 2026-10-08T15:37:58Z
@@ -3151,6 +3163,9 @@
     Tags: Wellbeing, Wellness Essentials
   - [Postpartum Care Essentials for New Moms | MUVA](https://wearemuva.com/blogs/muva-source/postpartum-recovery-essentials-for-the-first-weeks-at-home): Postpartum Care Essentials for New Moms | MUVA
     Updated: 2026-10-16T09:37:26Z
+    Author: SEO Marketers
+  - [Getting Ready for Menopause: Symptoms, Skin & Basics](https://wearemuva.com/blogs/muva-source/preparing-for-menopause-what-to-know): Getting Ready for Menopause: Symptoms, Skin & Basics
+    Updated: 2026-10-23T11:07:18Z
     Author: SEO Marketers
 
 ## Store Pages
