@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-01-10T16:02:05Z
 - Contact Email: Contact@lloydysworld.co.uk
-- Updated At: 2026-10-23T01:10:33.210Z
+- Updated At: 2026-10-31T00:31:56.497Z
 
 ## Products
 
@@ -144,11 +144,11 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_212221.jpg?v=1778623187
   Price: £9.99 GBP
 - [Nike Women's Dri-FIT Racerback Running T-Shirt - Grey UK S](https://www.lloydysworld.com/products/women-s-nike-grey-dri-fit-t-shirt-sports-top-size-s-excellent-condition): Shop this Nike Women's Dri-FIT running t-shirt in grey. Features a slim racerback design for mobility and moisture-wicking fabric. Get yours for training today!
-  Updated: 2026-08-13T20:48:30Z
+  Updated: 2026-10-30T23:33:00Z
   Vendor: Nike
   Product Type: Women's T-Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_be1f68d0-bdc8-460b-90ef-5b4bda1a183e.jpg?v=1773309819
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_fbe74a69-010d-4f25-9acb-c4d52878ce0a.png?v=1793359949
   Price: £8.99 GBP
 - [Levi's Men's T-Shirts Preloved](https://www.lloydysworld.com/products/levis-black-t-shirt-big-logo-regular-short-sleeve-mens-small): Preloved Men's T-Shirts by Levi's. Quality checked. Fast UK dispatch.
   Updated: 2026-10-05T07:06:31Z
@@ -325,13 +325,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_211356.jpg?v=1778622615
   Price: £7.99 GBP
-- [Donnay Men's T-Shirts Preloved](https://www.lloydysworld.com/products/dannay-mens-v-neck-t-shirt-soft-cotton-uk-xl-blue-casual-tee): Preloved Men's T-Shirts by Donnay. Quality checked. Fast UK dispatch.
-  Updated: 2026-10-05T07:06:46Z
-  Vendor: Donnay
-  Product Type: Men's T-Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_e55764aa-07bc-4589-8fb0-cfb42fe1f56f.png?v=1778566976
-  Price: £4.00 GBP
 - [Reebok Men's T-Shirts Preloved](https://www.lloydysworld.com/products/reebok-mens-gym-t-shirt-blue-size-l-athletic-sports-top-lightweight): Preloved Men's T-Shirts by Reebok. Quality checked. Fast UK dispatch.
   Updated: 2026-10-05T07:06:46Z
   Vendor: Reebok
@@ -347,11 +340,11 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_9eff826d-688e-4293-9717-f97ecd847951.png?v=1774724864
   Price: £4.99 GBP
 - [Primark Women's T-Shirts Preloved](https://www.lloydysworld.com/products/primark-disney-stitch-white-t-shirt-s-uk10-12-regular-fit-graphic-tee): Preloved Women's T-Shirts by Primark. Quality checked. Fast UK dispatch.
-  Updated: 2026-10-05T07:06:48Z
+  Updated: 2026-10-30T11:50:18Z
   Vendor: Primark
   Product Type: Women's T-Shirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_215209.jpg?v=1778649190
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_d999b8b2-a1ca-4a3e-9c7b-65185dc0c8af.png?v=1793317789
   Price: £8.00 GBP
 - [Blue Men's Satin Long Sleeve Shirt with Contrast Trim - 4XL](https://www.lloydysworld.com/products/unbranded-mens-shirt-long-sleeve-contrast-trim-blue-size-4xl-casual-button-up): Upgrade your wardrobe with this blue men's satin long sleeve shirt. Features contrast trim and a comfortable 4XL fit. Shop this refined, machine-washable style.
   Updated: 2026-08-13T20:49:19Z
@@ -438,11 +431,11 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_174444.jpg?v=1778605475
   Price: £5.00 GBP
 - [H&M Women's Trousers Preloved](https://www.lloydysworld.com/products/h-m-women-s-trousers-jogger-linen-blend-wide-leg-orange-uk-2xl): Preloved Women's Trousers by H&M. Quality checked. Fast UK dispatch.
-  Updated: 2026-10-05T07:06:59Z
+  Updated: 2026-10-25T05:39:49Z
   Vendor: H&M
   Product Type: Women's Trousers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_481a842e-6e2f-4a9b-827e-e109874f3545.png?v=1775236327
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/57_481a842e-6e2f-4a9b-827e-e109874f3545.png?v=1792845007
   Price: £5.99 GBP
 - [TU Blue / White Women's T-Shirts UK 16 Preloved](https://www.lloydysworld.com/products/tu-womens-t-shirt-blue-white-striped-cotton-jersey-short-sleeve-top-uk14): Preloved Women's T-Shirts by TU. Size UK 16, Blue / White, Cotton. Regular fit. Quality checked. Fast UK dispatch.
   Updated: 2026-10-05T07:07:02Z
@@ -515,7 +508,7 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260512_210505.jpg?v=1778622175
   Price: £9.99 GBP
 - [Lloydysworld Navy Cotton Essential Unisex Clothing Parcel](https://www.lloydysworld.com/products/buy-essential-clothing-parcel): Shop the Lloydysworld Unisex Essential Clothing Parcel in Navy. Premium cotton, UK 12 M fit. Support humanitarian aid with every purchase. Buy yours online today!
-  Updated: 2026-08-13T20:49:54Z
+  Updated: 2026-10-25T22:38:26Z
   Vendor: lloydysworld
   Product Type: Clothing Parcel
   Availability: Available
@@ -655,11 +648,11 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260507_194840.jpg?v=1778796503
   Price: £8.00 GBP
 - [Zara Grey Knit Stretch Pullover Women's Size S Elastane Long Sleeve Preloved](https://www.lloydysworld.com/products/zara-grey-knit-top-stretch-elastane-pullover-womens-s): Preloved Zara women's grey knit stretch pullover. Size UK S, elastane blend, long sleeve, round neck, soft-touch. Made in Turkey. Quality checked by LloydysWorld. Fast UK dispatch.
-  Updated: 2026-08-13T20:50:22Z
+  Updated: 2026-10-30T02:02:57Z
   Vendor: Zara
   Product Type: Women's Tops
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20260507_195405_006_beb58568-a9b0-42f5-9eea-900dd1723d61.jpg?v=1778798996
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_04309ca4-8c7c-4937-aaa6-fa37f4b606ce.png?v=1793282555
   Price: £9.99 GBP
 - [Next Womens Black Midi Skirt UK 12 Polyester Viscose Preloved](https://www.lloydysworld.com/products/next-womens-black-skirt-uk12-srilanka-26in): Next women's black straight midi skirt, UK 12, 26in length, polyester viscose elastane, zip fastening. Made in Sri Lanka. Very good preloved condition.
   Updated: 2026-09-01T00:26:13Z
@@ -794,13 +787,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_9fbd0400-9a5e-4987-a6e2-249ef318e5d7.jpg?v=1779604664
   Price: £9.00 GBP
-- [New Look Womens Blue Cotton A-Line Skirt UK 26 Preloved](https://www.lloydysworld.com/products/new-look-womens-skirt-blue-100-percent-cotton-uk-26): New Look women's blue A-line skirt, size UK 26. 100% cotton woven, high rise, zip closure, long length. Preloved and quality checked by LloydysWorld.
-  Updated: 2026-09-24T18:05:51Z
-  Vendor: New Look
-  Product Type: Women's Skirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_f9d7ddd7-3e0a-43ff-9fd3-7e1d61d135b2.jpg?v=1779604689
-  Price: £9.99 GBP
 - [Shein Womens Black Sleeveless Blouse Off Shoulder UK S Preloved](https://www.lloydysworld.com/products/shein-womens-blouse-black-100-percent-polyester-uk-s): Shein women's black sleeveless blouse, size UK S. Chiffon polyester, off the shoulder, kimono sleeve style. Made in China. Preloved and quality checked by LloydysWorld.
   Updated: 2026-08-13T20:50:49Z
   Vendor: Shein
@@ -851,12 +837,12 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_51894143-aa7e-4e0e-addd-4f93269eaf22.jpg?v=1779656926
   Price: £5.00 GBP
 - [NEXT Pink Floral Fit & Flare Dress Women's Size 12 Viscose Preloved](https://www.lloydysworld.com/products/next-pink-floral-viscose-fit-and-flare-dress-uk-12-woven-summer-lightweight): Preloved NEXT women's pink floral fit & flare dress. Size UK 12, viscose woven, V-neck, sleeveless, knee length, summer. Quality checked by LloydysWorld. Fast UK dispatch.
-  Updated: 2026-10-21T09:10:16Z
+  Updated: 2026-10-30T21:54:30Z
   Vendor: NEXT
   Product Type: Women's Dresses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/s-l1600_3b3b17fa-8639-4d16-80fb-b1704d0a0d92.jpg?v=1779657004
-  Price: £7.99 GBP
+  Price: £5.99 GBP
 - [Nine Women's Dresses Preloved](https://www.lloydysworld.com/products/nine-west-womens-a-line-dress-red-leopard-print-polyester-uk-m): Preloved Women's Dresses by Nine. Size . Quality checked. Fast UK dispatch.
   Updated: 2026-08-13T20:51:00Z
   Vendor: Nine
@@ -985,11 +971,11 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_9a8f3413-46ed-4d90-babe-446c849df3de.jpg?v=1780338592
   Price: £18.00 GBP
 - [Red Tartan Pleated Kilt Skirt Women's Size 30 Wool Preloved](https://www.lloydysworld.com/products/unbranded-womens-red-tartan-pleated-kilt-skirt-uk-30-twill-acrylic): Preloved women's red tartan pleated kilt skirt. Size UK 30, wool twill, buckle closure, short length. Quality checked by LloydysWorld. Fast UK dispatch.
-  Updated: 2026-10-20T21:10:12Z
+  Updated: 2026-10-30T00:35:15Z
   Vendor: Unbranded
   Product Type: Women's Skirts
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_06640546-6a37-4ab8-b3af-3d5426bce284.jpg?v=1780338601
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_ea27869b-31d4-4cbc-bf6d-eb77d03c0267.png?v=1793297415
   Price: £7.99 GBP
 - [Nautica Mens Blue Bermuda Shorts W36 Preloved](https://www.lloydysworld.com/products/nautica-mens-blue-cargo-bermuda-shorts-w36-100-percent-cotton-mid-rise): Preloved Nautica men's blue Bermuda shorts, W36, 100% cotton denim, mid rise, regular fit, 5-pocket. Quality checked. Fast UK dispatch.
   Updated: 2026-08-13T20:51:28Z
@@ -1257,8 +1243,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_f18d5a5e-6c48-4879-8e3b-2d04da090839.jpg?v=1788553445
   Price: £7.99 GBP
-- [Next Womens Jumper Blue Glitter Tight Knit V Neck Long Sleeve Mid weight UK 10](https://www.lloydysworld.com/products/next-womens-jumper-blue-glitter-tight-knit-v-neck-long-sleeve-mid-weight-uk-10): Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Overview This Next Women’s Blue Glitter V‑Neck Jumper in UK size 10 is a stylish and versatile autumn essential. Made from a soft polyester and viscose blend, it features a tight‑knit finish with subtle glitter accents that add a touch of sparkle. The midweight fabric makes it ideal for casual wear across the season, offering comfort and warmth without feeling heavy. Designed with a flattering V‑neckline, long sleeves, and an easy pullover style, this jumper delivers a modern, feminine look perfect for everyday outfits. Key Features Brand: Next UK Size: 10 Colour: Blue Pattern: Glitter accents Material: Polyester and viscose blend Fit: Regular Style: Jumper / pullover Neckline: V‑neck Sleeves: Long sleeves Knit Style: Tight‑knit Fabric Weight: Midweight Season: Autumn / all seasons Care: Machine washable Occasion: Casual, everyday wear Why It’s a Great Choice Subtle glitter adds a stylish touch Tight‑knit fabric for warmth and comfort Flattering V‑neck design Easy pullover style Perfect for autumn layering Condition Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear, and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
-  Updated: 2026-09-24T21:36:40Z
+- [Next Womens Jumper Blue Glitter Tight Knit V Neck Long Sleeve Mid weight UK 10](https://www.lloydysworld.com/products/next-womens-jumper-blue-glitter-tight-knit-v-neck-long-sleeve-mid-weight-uk-10): Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Overview This Next Women’s Blue Glitter V‑Neck Jumper in UK size 10 is a stylish and versatile autumn essential. Made from a soft polyester and viscose blend, it features a tight‑knit finish with subtle glitter accents that add a touch of sparkle. The midweight fabric makes it ideal for casual wear across the season, offering comfort and warmth without feeling heavy. Designed with a flattering V‑neckline, long sleeves, and an easy pullover style, this jumper delivers a modern, feminine look perfect for everyday outfits. Key Features Brand: Next UK Size: 10 Colour: Blue Pattern: Glitter accents Material: Polyester and viscose blend Fit: Regular Style: Jumper / pullover Neckline: V‑neck Sleeves: Long sleeves Knit Style: Tight‑knit Fabric Weight: Midweight Season: Autumn / all seasons Care: Machine washable Occasion: Casual, everyday wear Why It’s a Great Choice Subtle glitter adds a stylish touch Tight‑knit fabric for warmth and comfort Flattering V‑neck design Easy pullover style Perfect for autumn layering Condition Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear, and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
+  Updated: 2026-10-30T14:03:36Z
   Vendor: NEXT
   Product Type: Women's Jumper
   Availability: Available
@@ -1272,13 +1258,48 @@
   Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_70500ec1-acbd-4ff3-a711-a2dafda33a27.jpg?v=1788553474
   Price: £7.99 GBP
 - [Howick Mens Jumper Red Lambswool Tight Knit V Neck L Sleeve Lightweight UK L](https://www.lloydysworld.com/products/howick-mens-jumper-red-lambswool-tight-knit-v-neck-l-sleeve-lightweight-uk-l): Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Overview This Howick Men’s Red Lambswool V‑Neck Jumper in UK size L is a classic, warm and stylish winter essential. Made from 100% lambswool, it offers a soft, breathable and lightweight feel while still providing excellent warmth. The tight‑knit construction and long sleeves make it ideal for colder weather, while the bold red colour adds a timeless pop of style. Designed with a clean V‑neckline and a comfortable regular fit, this pullover jumper is perfect for casual everyday wear. Machine washable for easy care. Key Features Brand: Howick UK Size: L Colour: Red Pattern: Solid Material: 100% lambswool Fit: Regular Style: Jumper / pullover Neckline: V‑neck Sleeves: Long sleeves Knit Style: Tight‑knit Fabric Weight: Lightweight Season: Winter / all seasons Care: Machine washable Occasion: Casual, everyday wear Why It’s a Great Choice Soft, breathable lambswool Warm yet lightweight Classic V‑neck design Tight‑knit for durability and comfort Perfect winter wardrobe staple Condition Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear, and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
-  Updated: 2026-09-25T06:28:53Z
+  Updated: 2026-10-25T04:56:20Z
   Vendor: Howick Tailored
   Product Type: Men's Jumpers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_e14e96fc-5a39-4eb5-a64c-d3cf966eb987.jpg?v=1788553474
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_e14e96fc-5a39-4eb5-a64c-d3cf966eb987.jpg?v=1792867957
   Price: £9.99 GBP
-[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTEzNDUwNjMwMzgzMSwibGFzdF92YWx1ZSI6IjExMTM0NTA2MzAzODMxIn0%3D)
+- [Cotton Traders Blue Shirt Mens Regular Fit Long Sleeve Button Up UK M](https://www.lloydysworld.com/products/shirt): a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Overview This Cotton Traders Blue Shirt in UK M is a versatile casual wardrobe staple. Made from a comfortable cotton blend denim fabric, this long sleeve button-up shirt features a classic collared neckline, regular fit and timeless solid blue colour. Ideal for everyday wear throughout the cooler seasons, this casual shirt pairs effortlessly with jeans, chinos or shorts for a relaxed and comfortable look. The durable denim fabric and traditional button fastening make it a practical addition to any wardrobe. Key Features Brand: Cotton Traders Size: UK M Colour: Blue Type: Button-Up Shirt Material: Cotton Blend Fabric Type: Woven Fit: Regular Sleeve Length: Long Sleeve Neckline: Collared Collar Style: Point Collar Closure: Button Pattern: Solid Chest Size: 110 cm Occasion: Casual Season: Autumn Spring Features: Uninsulated Care: Machine Washable Country of Origin: China Why It's a Great Choice Classic shirt styling Comfortable regular fit Easy-to-wear casual design Versatile solid blue colour Durable cotton blend construction Ideal for layering throughout the year Condition Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
+  Updated: 2026-10-25T20:28:13Z
+  Vendor: Cotton Trader
+  Product Type: Men's Shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/20261023_105200.jpg_-_Edited.png?v=1792869304
+  Price: £14.00 GBP
+- [Next Black Polka Dot Jumper Womens UK 10 V Neck Knit Long Sleeve Casual](https://www.lloydysworld.com/products/next-black-polka-dot-jumper-womens-uk-10-v-neck-knit-long-sleeve-casual): Overview This Next Black Polka Dot Jumper in UK size 10 is a stylish and comfortable casual wardrobe staple. Crafted from soft cotton knit fabric, this jumper features a classic black colour with contrasting white polka dots, a flattering V-neckline and a comfortable regular fit. Perfect for everyday wear during the cooler months, this fine knit pullover offers lightweight warmth and easy styling. Made in Turkmenistan, it pairs effortlessly with jeans, skirts or trousers for a timeless casual look. Key Features Pattern: Polka Dot Knit Style: Tight-Knit Sleeve Length: Long Sleeve Neckline: Round Neck Occasion: Casual Size: 10 Garment Care: Machine Washable Sleeve Type: 3/4 Material: Cotton Fabric Type: Knit Accents: Polka Dot Colour: Black Vintage: No Fit: Regular Brand: NEXT Size Type: Regular Department: Women Type: Jumper Style: Pullover Features: Stretch Season: Autumn Country of Origin: Turkmenistan Personalise: No Why It's a Great Choice Classic black and white polka dot design Comfortable soft cotton knit fabric Flattering V-neck style Easy-to-wear regular fit Perfect for layering in cooler weather Versatile everyday wardrobe essential Condition Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
+  Updated: 2026-10-30T13:53:22Z
+  Vendor: NEXT
+  Product Type: Women's Jumper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_3c51ad90-1a32-434e-b329-d887d61ba73e.png?v=1793016186
+  Price: £7.99 GBP
+- [Marks Spencer Womens Fleece Jumper Blue Quarter Zip Mock Neck UK L](https://www.lloydysworld.com/products/jacket): a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Overview This Marks & Spencer Women's Blue Fleece Jumper in UK size L is a comfortable and practical layering piece ideal for casual everyday wear. Made from a soft polyester and viscose fleece fabric, it provides warmth without excessive weight, making it suitable for autumn, winter and cooler spring days. The jumper features a stylish mock neck with a practical quarter zip fastening, long sleeves and a comfortable regular fit. The soft fleece finish makes it ideal for relaxing at home, walking or everyday casual outfits. Key Features Brand: Marks & Spencer Size: UK L Size Type: Regular Colour: Blue Grey Department: Women Type: Jumper Style: Pullover Material: Polyester and Viscose Fabric Type: Fleece Fit: Regular Neckline: Mock Neck Sleeve Length: Long Sleeve Closure: Quarter Zip Features: 1/4 Zip Accents: Zip Season: Autumn Winter Spring Occasion: Casual Care: Machine Washable Country of Origin: Türkiye Vintage: No Personalise: No Why It's a Great Choice Soft fleece fabric for comfort Practical quarter zip fastening Warm yet lightweight feel Classic casual styling Ideal for layering during cooler weather Trusted Marks & Spencer quality Condition Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
+  Updated: 2026-10-30T13:51:57Z
+  Vendor: Marks & Spencer
+  Product Type: Women's Jumper
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_b855b3c1-bd13-404b-b29b-e7af912547af.png?v=1792955209
+  Price: £8.00 GBP
+- [Reiss Womens Wrap Blouse White V Neck Knit Long Sleeve Pullover UK 14](https://www.lloydysworld.com/products/reiss-womens-wrap-blouse-white-v-neck-knit-long-sleeve-button-casual-uk-14): Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Overview This Reiss Women's White Wrap Blouse in UK size 14 is a stylish and versatile wardrobe essential. Made from a comfortable elastane blend knit fabric, it offers a flattering regular fit with a soft stretch feel for all-day comfort. The elegant wrap style, V-neckline, and long sleeves create a timeless look suitable for casual wear throughout the year. The clean white colour makes it easy to pair with jeans, trousers, skirts, and tailored pieces for effortless styling. Key Features Brand: Reiss Size: UK 14 Size Type: Regular Department: Women Type: Blouse Style: Wrap Colour: White Pattern: Solid Material: Elastane Blend Fabric Type: Knit Fit: Regular Neckline: V-Neck Sleeve Length: Long Sleeve Sleeve Type: Long Sleeve Closure: Pullover Features: All Seasons Occasion: Casual Season: Spring and All Seasons Garment Care: Machine Washable Country of Origin: China Vintage: No Handmade: No Strap Type: Strapless Personalise: No Why It's a Great Choice Elegant wrap-style design Comfortable stretch knit fabric Flattering V-neckline Classic long-sleeve silhouette Versatile white colour Ideal for casual and smart-casual outfits Premium Reiss quality Condition Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Preloved and quality checked by LloydysWorld CIC. Clean, ready to wear and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day Pattern: Solid Sleeve Length: Long Sleeve Neckline: V-Neck Strap Type: Strapless Closure: Pullover Occasion: Casual Size: 14 Sleeve Type: Long Sleeve Material: Elastane Fabric Type: Knit Colour: White Vintage: No Brand: Reiss Fit: Regular Size Type: Regular Department: Women Type: Blouse Style: Wrap Features: All Seasons Season: Spring Handmade: No Country of Origin: China Personalise: No
+  Updated: 2026-10-30T12:11:31Z
+  Vendor: Reiss
+  Product Type: Women's Blouses
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/1_ebaaab76-b74f-4985-afaa-e72d2b4db0e7.png?v=1793359166
+  Price: £5.99 GBP
+- [Marks & Spencer Womens Jeggings Beige Cotton Stretch Denim M Rise 5 Pocket UK 10](https://www.lloydysworld.com/products/marks-spencer-womens-jeggings-beige-cotton-stretch-denim-m-rise-5-pocket-uk-10): Overview These Marks & Spencer Women’s Beige Stretch Jeggings in UK size 10 are a comfortable and versatile choice for everyday wear. Made from a cotton and elastane blend with a stretch denim construction they provide flexibility while maintaining a flattering denim look. The mid-rise waist and classic 5-pocket design combine comfort with practical everyday styling. A zip and button fastening completes the traditional jeans-inspired design. Key Features Pattern: No Pattern Closure: Button Fabric Wash: Medium Garment Care: Machine Washable Size: 10 Waist Size: 30 in Material: Cotton Fabric Type: Denim Colour: Beige Vintage: No Rise: Mid (8.5-10.5 in) Brand: Marks & Spencer Fit: Regular Size Type: Regular Department: Women Type: Jeans Pocket Type: 5-Pocket Design Inside Leg: 28 in Style: Jegging Features: Stretch Season: Spring Handmade: No Country of Origin: Egypt Personalise: No Why They’re a Great Choice Comfortable stretch denim Cotton blend for everyday wear Classic mid-rise design Practical 5-pocket styling Versatile neutral beige colour Easy to pair with casual tops and knitwear Condition Excellent preloved condition with no noticeable marks, stains, or damage. Clean, well-cared for, and shows minimal signs of wear. Preloved and quality checked by LloydysWorld CIC. Clean ready to wear and dispatched quickly from Southsea UK. Thank you for supporting LloydysWorld CIC Every purchase helps us provide clothing parcels and essential items to people in need across Portsmouth and Southsea Your support allows us to continue redistributing preloved clothing reducing waste and helping our community We appreciate you choosing to shop with us and backing the work we do every day
+  Updated: 2026-10-30T13:30:57Z
+  Vendor: Marks & Spencer
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0980/3671/1767/files/10_a3eb1a6b-b480-446c-89c3-e52ff9a13c65.jpg?v=1793366736
+  Price: £6.99 GBP
+[List Continued](https://www.lloydysworld.com/a/llms-agent/llms.txt?shop=a1fdky-yn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMTM0MzQ4OTYzMDU1MSwibGFzdF92YWx1ZSI6IjExMzQzNDg5NjMwNTUxIn0%3D)
 
 ## Collections
 
@@ -1292,11 +1313,11 @@
   Updated: 2026-08-13T10:34:22Z
   Total Products: 19
 - [Men's T-Shirts](https://www.lloydysworld.com/collections/mens-t-shirts): Shop preloved men's t-shirts at lloydysworld. Casual, graphic and logo tees from top brands. UK sourced, inspected and affordably priced.
-  Updated: 2026-10-13T11:24:55Z
+  Updated: 2026-10-25T22:53:35Z
   Total Products: 23
 - [Men's Shirts](https://www.lloydysworld.com/collections/mens-shirts): Shop preloved men’s shirts at lloydysworld. Quality casual shirts, formal shirts and smart styles. Sustainably sourced, inspected and affordably priced.
-  Updated: 2026-07-17T18:47:20Z
-  Total Products: 5
+  Updated: 2026-10-25T20:28:14Z
+  Total Products: 6
 - [Men's Hoodies & Sweatshirts](https://www.lloydysworld.com/collections/mens-hoodies-sweatshirts): Shop preloved men’s hoodies and sweatshirts at lloydysworld. Quality casual hoodies pullovers and sportswear. UK sourced, inspected and affordably priced.
   Updated: 2026-07-25T20:30:27Z
   Total Products: 1
@@ -1338,17 +1359,17 @@ Updated regularly with new arrivals
 
 Why It’s a Great Choice  
 Choosing UK sourced preloved skirts reduces waste, saves money and supports sustainable fashion without compromising on quality.
-  Updated: 2026-10-20T21:10:13Z
+  Updated: 2026-10-25T22:53:53Z
   Total Products: 13
 - [Women's Blouses & Tops](https://www.lloydysworld.com/collections/womens-blouses-tops): Shop preloved women’s blouses and tops at lloydysworld. Casual, smart and everyday styles. UK sourced, inspected and affordably priced.
   Updated: 2026-09-29T12:47:44Z
   Total Products: 20
 - [Women's T-Shirts](https://www.lloydysworld.com/collections/womens-t-shirts): Shop preloved women’s T‑shirts at lloydysworld. Casual, graphic and everyday tops. UK sourced, inspected and affordably priced.
-  Updated: 2026-08-07T21:38:47Z
+  Updated: 2026-10-25T22:35:47Z
   Total Products: 16
 - [Women's Hoodies & Sweatshirts](https://www.lloydysworld.com/collections/womens-hoodies-sweatshirts): Shop preloved women’s hoodies and sweatshirts at lloydysworld. Casual and cosy layers. UK sourced, inspected and affordably priced.
-  Updated: 2026-07-17T18:09:40Z
-  Total Products: 2
+  Updated: 2026-10-30T01:59:05Z
+  Total Products: 4
 - [Women's Coats & Jackets](https://www.lloydysworld.com/collections/womens-coats-jackets): Shop preloved women’s coats and jackets at lloydysworld. Casual, smart and everyday outerwear. UK sourced, inspected and affordably priced.
   Updated: 2026-07-17T18:09:40Z
   Total Products: 1
@@ -1362,11 +1383,11 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-17T18:09:41Z
   Total Products: 0
 - [All Men's](https://www.lloydysworld.com/collections/all-mens): Shop preloved men's clothing at LloydysWorld. Sustainable fashion for men — quality second hand brands at fair prices.
-  Updated: 2026-10-20T11:47:07Z
-  Total Products: 85
+  Updated: 2026-10-25T22:53:35Z
+  Total Products: 86
 - [All Women's](https://www.lloydysworld.com/collections/all-womens): Browse preloved women's clothing at LloydysWorld. Sustainable fashion UK — designer and high street brands given a second life.
-  Updated: 2026-10-20T21:10:13Z
-  Total Products: 146
+  Updated: 2026-10-30T21:54:31Z
+  Total Products: 150
 - [All Kids](https://www.lloydysworld.com/collections/all-kids): Shop preloved kids clothing at LloydysWorld. Affordable, sustainable children's fashion — quality brands at honest prices.
   Updated: 2026-07-25T21:34:34Z
   Total Products: 7
@@ -1374,10 +1395,10 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-17T18:09:41Z
   Total Products: 0
 - [Bundle & Save](https://www.lloydysworld.com/collections/bundle-and-save): Buy more and save more at LloydysWorld. Bundle preloved clothing and save 10% — sustainable fashion UK at even better value.
-  Updated: 2026-10-13T11:24:55Z
+  Updated: 2026-10-25T22:53:35Z
   Total Products: 30
 - [Dresses](https://www.lloydysworld.com/collections/womens-dresses): Discover preloved women's dresses at LloydysWorld. Sustainable fashion UK — designer and high street dresses at fair prices.
-  Updated: 2026-10-20T21:10:12Z
+  Updated: 2026-10-30T21:54:31Z
   Total Products: 39
 - [Nike](https://www.lloydysworld.com/collections/nike): Shop preloved Nike clothing at LloydysWorld. Authentic preloved Nike pieces — sustainable fashion UK at fair prices.
   Updated: 2026-07-17T18:09:41Z
@@ -1398,8 +1419,8 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-28T21:20:28Z
   Total Products: 6
 - [Next](https://www.lloydysworld.com/collections/next): Shop preloved Next clothing at LloydysWorld. Authentic preloved Next pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-10-20T21:10:12Z
-  Total Products: 20
+  Updated: 2026-10-30T21:54:31Z
+  Total Products: 21
 - [Tommy Hilfiger](https://www.lloydysworld.com/collections/tommy-hilfiger): Shop preloved Tommy Hilfiger at LloydysWorld. Authentic preloved Tommy Hilfiger pieces — sustainable fashion UK at fair prices.
   Updated: 2026-07-17T18:09:41Z
   Total Products: 1
@@ -1428,7 +1449,7 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-17T18:09:41Z
   Total Products: 1
 - [Primark](https://www.lloydysworld.com/collections/primark): Shop preloved Primark clothing at LloydysWorld. Affordable preloved Primark pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-07-20T12:55:32Z
+  Updated: 2026-10-25T22:35:47Z
   Total Products: 1
 - [New Look](https://www.lloydysworld.com/collections/new-look): Shop preloved New Look clothing at LloydysWorld. Authentic preloved New Look pieces — sustainable fashion UK at fair prices.
   Updated: 2026-07-17T18:09:42Z
@@ -1449,8 +1470,8 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-17T18:09:42Z
   Total Products: 2
 - [Marks & Spencer](https://www.lloydysworld.com/collections/marks-and-spencer): Shop preloved Marks & Spencer clothing at LloydysWorld. Authentic preloved M&S pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-07-17T18:09:42Z
-  Total Products: 3
+  Updated: 2026-10-25T20:27:45Z
+  Total Products: 4
 - [French Connection](https://www.lloydysworld.com/collections/french-connection): Shop preloved French Connection at LloydysWorld. Authentic preloved French Connection pieces — sustainable fashion UK at fair prices.
   Updated: 2026-07-17T18:09:42Z
   Total Products: 1
@@ -1482,7 +1503,7 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-10-13T11:24:41Z
   Total Products: 3
 - [Donnay](https://www.lloydysworld.com/collections/donnay): Shop preloved Donnay clothing at LloydysWorld. Affordable preloved Donnay pieces — sustainable fashion UK at fair prices.
-  Updated: 2026-07-18T03:38:56Z
+  Updated: 2026-10-25T22:53:35Z
   Total Products: 1
 - [Jack & Jones](https://www.lloydysworld.com/collections/jack-and-jones): Shop preloved Jack & Jones at LloydysWorld. Authentic preloved Jack & Jones pieces — sustainable fashion UK at fair prices.
   Updated: 2026-10-13T11:24:55Z
@@ -1509,7 +1530,7 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-07-19T19:01:57Z
   Total Products: 7
 - [T shirts](https://www.lloydysworld.com/collections/buy-2-get-one-free-on-t-shirts): Shop our Buy 2 Get 1 Free preloved T-shirts at lloydysworld. Mix and match quality secondhand tees. Add 3 and save — sustainable fashion at its best.
-  Updated: 2026-10-13T11:24:55Z
+  Updated: 2026-10-25T22:53:35Z
   Total Products: 35
 - [Men's Polo Shirts](https://www.lloydysworld.com/collections/mens-polo-shirts): Shop our curated range of preloved men's polo shirts. Quality checked and fast dispatched by LloydysWorld.
   Updated: 2026-10-13T11:24:41Z
@@ -1536,17 +1557,17 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
   Updated: 2026-10-16T00:15:37Z
   Total Products: 13
 - [All Jumpers](https://www.lloydysworld.com/collections/all-jumpers): Shop preloved jumpers and sweatshirts at LloydysWorld CIC. Men's & women's styles in a range of sizes and fits. Quality secondhand knitwear supporting Portsmouth.
-  Updated: 2026-10-08T11:12:31Z
-  Total Products: 13
+  Updated: 2026-10-26T13:48:37Z
+  Total Products: 15
 - [All tops](https://www.lloydysworld.com/collections/all-tops): Shop preloved tops and t-shirts at LloydysWorld CIC. Men's & women's styles in a range of sizes and fits. Quality secondhand tops supporting Portsmouth communities.
-  Updated: 2026-10-13T11:24:55Z
+  Updated: 2026-10-25T22:53:35Z
   Total Products: 59
 - [Women’s Preloved Jumpers](https://www.lloydysworld.com/collections/women-s-preloved-jumpers): Discover preloved women’s jumpers for everyday comfort and easy layering. Find your next favourite knit and give clothing a second life, from lightweight styles for milder days to cosy jumpers for cooler weather.Every purchase supports LloydysWorld CIC, helping us provide clothing parcels and essential items to people in need across Portsmouth and Southsea.
-  Updated: 2026-10-08T11:16:54Z
-  Total Products: 7
+  Updated: 2026-10-26T13:48:37Z
+  Total Products: 9
 - [New In](https://www.lloydysworld.com/collections/new-in): Fresh on the rail at LloydysWorld. Explore our latest preloved menswear and womenswear, from everyday essentials to cosy layers and distinctive finds. Find something you love and give good clothing another chapter.Every purchase helps LloydysWorld CIC provide clothing parcels and essential items to people in need across Portsmouth and Southsea. Shop preloved, reduce waste and support your community.
-  Updated: 2026-10-22T20:01:25Z
-  Total Products: 180
+  Updated: 2026-10-30T21:54:31Z
+  Total Products: 183
 
 ## Blogs
 
@@ -1779,6 +1800,22 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
     Updated: 2026-10-18T11:00:46Z
     Author: lloydysworld CIC
     Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Rehabilitation Aid: Preloved Clothing and Stable Returns](https://www.lloydysworld.com/blogs/news/rehabilitation-aid-preloved-clothing-and-stable-returns): Rehabilitation Aid: Preloved Clothing and Stable Returns
+    Updated: 2026-10-23T11:00:43Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Day One Initiatives: Practical Essentials for Safe Community Integration](https://www.lloydysworld.com/blogs/news/day-one-initiatives-practical-essentials-for-safe-community-integration): Day One Initiatives: Practical Essentials for Safe Community Integration
+    Updated: 2026-10-24T11:03:58Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [Securing Futures with Sustainable Fashion Support After Release](https://www.lloydysworld.com/blogs/news/securing-futures-with-sustainable-fashion-support-after-release): Securing Futures with Sustainable Fashion Support After Release
+    Updated: 2026-10-25T11:00:55Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
+  - [How Preloved Clothing Offers Practical Support After Prison Release in Portsmouth](https://www.lloydysworld.com/blogs/news/how-preloved-clothing-offers-practical-support-after-prison-release-in-portsmouth): How Preloved Clothing Offers Practical Support After Prison Release in Portsmouth
+    Updated: 2026-10-30T11:00:56Z
+    Author: lloydysworld CIC
+    Tags: clothing parcel, community support, community support portsmouth, donation, help, practical support after prison, preloved, prison release support portsmouth, rehabilitation, reintegration, reuse, safe guarding communities, support, sustainable clothing
 
 ## Store Pages
 
@@ -1787,7 +1824,7 @@ Choosing UK sourced preloved skirts reduces waste, saves money and supports sust
 - [Support Our Mission — Sustainable Fashion & Community Impact | LloydysWorld](https://www.lloydysworld.com/pages/support-our-mission): Thank you for your generous donation. Because of you we can continue offering practical support to people who need it most. Your kindness helps us ...
   Updated: 2026-07-09T23:09:51Z
 - [Request a Free Prepaid Donation Bag — Donate Clothes | LloydysWorld](https://www.lloydysworld.com/pages/redeem-postage-label): Got clothes you no longer wear? Don't let them go to waste. Request a free prepaid donation bag from LloydysWorld and give your unwanted clothing a...
-  Updated: 2026-07-11T20:00:13Z
+  Updated: 2026-10-23T19:23:46Z
 - [Preloved Men's Clothing — All Collections | LloydysWorld Portsmouth](https://www.lloydysworld.com/pages/all-mens-collections): All Men's Preloved cloths
   Updated: 2026-05-18T06:44:28Z
 - [Preloved Women's Clothing — All Collections | LloydysWorld Portsmouth](https://www.lloydysworld.com/pages/all-womens-collections): All Preloved Women's Cloths
