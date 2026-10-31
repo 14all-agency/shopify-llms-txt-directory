@@ -10,7 +10,7 @@
 - Contact Email: info@theriscosmetics.com
 - Contact Phone: 081 1964 2765
 - Address: Via Leonardo Bianchi, 680131 Napoli NA
-- Updated At: 2026-10-23T01:06:47.006Z
+- Updated At: 2026-10-31T00:35:00.121Z
 
 ## Products
 
@@ -134,7 +134,7 @@
   Image: https://cdn.shopify.com/s/files/1/0976/2593/2122/files/PUISSANCE_jpg.jpg?v=1773160924
   Price: 57,20 € EUR
 - [Cera sopracciglia effetto laminato – Brow Wax | Theris](https://theriscosmetics.com/products/brow-wax-permanent-make-up): Cera sopracciglia effetto laminato con sorbitolo: modella i peli verso l'alto e li fissa a lungo per sopracciglia piene e ordinate, effetto soap brows.
-  Updated: 2026-10-22T12:36:47Z
+  Updated: 2026-10-29T13:00:46Z
   Vendor: Theris Cosmetics
   Product Type: Make-Up Sopracciglia
   Availability: Available
@@ -226,13 +226,13 @@
   Updated: 2026-10-12T10:19:02Z
   Total Products: 2
 - [All Products (ChatGPT-AI Product Description)](https://theriscosmetics.com/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-10-22T11:29:05Z
+  Updated: 2026-10-30T11:29:54Z
   Total Products: 25
 - [Best seller](https://theriscosmetics.com/collections/best-seller): I prodotti Theris più acquistati: il tonico Amoré, la crema notte Puissance, l'acqua micellare Éclat e il gel sopracciglia trasparente Brow Gel.
   Updated: 2026-10-17T15:06:59Z
   Total Products: 4
 - [Prodotti per sopracciglia](https://theriscosmetics.com/collections/make-up): Gel sopracciglia trasparente e cera fissante effetto laminato per sopracciglia ordinate, piene e definite tutto il giorno, senza residui visibili.
-  Updated: 2026-10-22T11:29:05Z
+  Updated: 2026-10-30T11:29:54Z
   Total Products: 2
 - [Kit skincare viso](https://theriscosmetics.com/collections/bundle): Kit skincare viso con routine complete già abbinate per detersione, idratazione, anti-age e pelle impura: prodotti Theris pensati per lavorare insieme.
   Updated: 2026-10-12T10:19:01Z
