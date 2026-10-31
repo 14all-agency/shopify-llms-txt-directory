@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-10-23T00:53:46.138Z
+- Updated At: 2026-10-31T00:17:48.863Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,7 +33,7 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare for healthy skin, with 8-hour moisturization and antioxidant protection. In a beautiful gift box. 100% biodegradable packaging
-  Updated: 2026-10-22T04:30:09Z
+  Updated: 2026-10-30T23:01:23Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -47,14 +47,14 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
   Price: kr 549.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-10-22T04:30:06Z
+  Updated: 2026-10-30T20:14:55Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-strengthening_serum-30ml-grey-background.jpg?v=1776617996
   Price: kr 625.00 DKK
 - [Clarifying Cleanser and Exfoliator – 2-in-1 for all skin types | Bioli](https://bioliskincare.com/products/clarifying-cleanser-and-exfoliator): A velvety 2-in-1 gel cleanser that gently cleanses and moisturizes. When left on the skin for longer, it also exfoliates. Leaves skin clean, soft and refreshed. 100% biodegradable packaging.
-  Updated: 2026-10-22T04:30:10Z
+  Updated: 2026-10-30T23:01:39Z
   Vendor: Bioli
   Product Type: Cleanser
   Availability: Available
@@ -96,7 +96,7 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Cleanser_DayCream.png?v=1780747040
   Price: kr 774.00 DKK
 - [Skincare Trio Set – Cleanser & Day Cream | Bioli](https://bioliskincare.com/products/serum-day-cream): Mindful skincare gift set with serum and day cream. Fragrance-free, allergy- and gentle on sensitive skin. Save 10% on Routine Sets.
-  Updated: 2026-10-16T13:34:26Z
+  Updated: 2026-10-24T08:52:25Z
   Vendor: Bioli
   Product Type: Bundle
   Availability: Available
@@ -130,10 +130,10 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-10-22T07:56:15Z
   Total Products: 4
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-10-22T11:07:16Z
+  Updated: 2026-10-30T11:09:56Z
   Total Products: 3
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
-  Updated: 2026-10-22T07:55:56Z
+  Updated: 2026-10-24T11:06:07Z
   Total Products: 4
 
 ## Blogs
@@ -302,8 +302,8 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2025-04-21T14:26:14Z
     Author: Nina Wiberg Møller
     Tags: Announcement
-  - [It's here–100% bioactive, biodegradable, and bioconscious skincare](https://bioliskincare.com/blogs/media/its-here-100-bioactive-biodegradable-and-bioconscious-skincare): <p><strong><meta charset="utf-8"></strong><em>Copenhagen, 2025. Bioli–the new Danish biotech skincare brand–is thrilled to announce its official launch. Bioli brings a new approach to skincare, leveraging the power of bioactive enzyme technology to deliver skincare that’s mild yet effective and more sustainable.</em></p>
-    Updated: 2025-10-20T09:29:09Z
+  - [It's here – 100% bioactive, biodegradable, and bioconscious skincare](https://bioliskincare.com/blogs/media/its-here-100-bioactive-biodegradable-and-bioconscious-skincare): <p><strong><meta charset="utf-8"></strong><em>Copenhagen, 2025. Bioli–the new Danish biotech skincare brand–is thrilled to announce its official launch. Bioli brings a new approach to skincare, leveraging the power of bioactive enzyme technology to deliver skincare that’s mild yet effective and more sustainable.</em></p>
+    Updated: 2026-10-25T12:34:37Z
     Author: Nina Wiberg Møller
     Tags: Press release
   - [Bioli joins DI Bio to drive biosolutions in skincare](https://bioliskincare.com/blogs/media/bioli-joins-di-bio-to-drive-biosolutions-in-skincare): <p><meta charset="utf-8"><em><strong>Copenhagen, November 2024 -</strong><strong> </strong>Bioli becomes member of DI Bio, dedicated to promoting biological climate solutions, featured alongside prominent players in the Danish biosolutions space.</em></p>
@@ -314,21 +314,19 @@ https://bioliskincare.com/blogs/bionotes
     Updated: 2025-04-21T14:27:06Z
     Author: Nina Wiberg Møller
     Tags: Announcement
-  - [100% bioaktiv, bionedbrydelig, biobevidst hudpleje](https://bioliskincare.com/blogs/media/100-bioaktiv-bionedbrydelig-biobevidst-hudpleje): <p><meta charset="utf-8"><em>Bioli–det nye danske biotek-hudplejemærke–annoncerer nu sin officielle lancering. Baseret på bioaktiv enzymteknologi introducerer Bioli en ny tilgang med hudpleje, der er mildt men effektivt og mere bæredygtigt.</em></p>
-    Updated: 2025-09-04T17:30:25Z
-    Author: Nina Wiberg Møller
-    Tags: Announcement
   - [Bioli collaborates with Cellugy on ingredient for sustainable skincare](https://bioliskincare.com/blogs/media/bioli-collaborates-with-cellugy-on-ingredient-for-sustainable-skincare): <div style="text-align: left;"><em><strong>Copenhagen, October 2024 -</strong> <meta charset="utf-8">Danish biotech skincare company Bioli ApS is pleased to announce a collaboration with Cellugy ApS to integrate their newly developed cellulose-based rheology modifier into Bioli's upcoming skincare products, enhancing sustainability without compromising quality.</em></div>
 <div style="text-align: left;"><br></div>
     Updated: 2025-04-21T14:25:11Z
     Author: Nina Wiberg Møller
     Tags: Announcement
   - [Bioli partners with The National Gallery of Denmark (SMK)](https://bioliskincare.com/blogs/media/bioli-partners-with-the-national-gallery-of-denmark-smk): <p class="MsoNormal"><i><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Arial',sans-serif; mso-ansi-language: EN-US;">Copenhagen, June 12, 2025 — Bioli, the Danish biotech skincare brand launched earlier this year, is pleased to announce a new retail partnership with T<a href="https://leahmaria.dk/product/moisturizing-protecting-day-cream-50ml/" target="_blank" rel="noopener">he National Gallery of Denmark (SMK)</a>. Available now, Bioli’s Moisturizing and Protecting Day Cream is featured at the SMK Shop.</span></i></p>
-    Updated: 2025-09-04T17:30:45Z
+    Updated: 2026-10-25T09:47:15Z
     Author: Nina Wiberg Rosenquist
-  - [Bioli Featured on Thrive Century’s Green List – The #1 Platform for Conscious Living](https://bioliskincare.com/blogs/media/discover-thrive-century-1-platform-for-conscious-living): <p><meta charset="utf-8"><i><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Arial',sans-serif; mso-ansi-language: EN-US;">Copenhagen, June 12, 2025 – <meta charset="utf-8">We’re excited to share that <strong data-start="321" data-end="330">Bioli</strong> has been officially featured on <strong data-start="363" data-end="381">Thrive Century</strong>, the leading platform for conscious living, sustainability, and wellness.</span></i></p>
-    Updated: 2025-09-04T17:31:05Z
+    Tags: Press release
+  - [Bioli featured on Thrive Century’s Green List – The #1 platform for conscious living](https://bioliskincare.com/blogs/media/discover-thrive-century-1-platform-for-conscious-living): <p><meta charset="utf-8"><i><span lang="EN-US" style="font-size: 10.0pt; font-family: 'Arial',sans-serif; mso-ansi-language: EN-US;">Copenhagen, June 12, 2025 – <meta charset="utf-8">We’re excited to share that <strong data-start="321" data-end="330">Bioli</strong> has been officially featured on <strong data-start="363" data-end="381">Thrive Century</strong>, the leading platform for conscious living, sustainability, and wellness.</span></i></p>
+    Updated: 2026-10-25T09:46:57Z
     Author: Nina Wiberg Rosenquist
+    Tags: Announcement
   - [Bioli expands into pharmacy with launch on Webapoteket.dk](https://bioliskincare.com/blogs/media/bioli-expands-into-pharmacy-with-launch-on-webapoteket): <p>Copenhagen, April 13, 2026 – Danish biotech skincare brand Bioli is expanding into pharmacy retail with its launch on Webapoteket, Denmark’s leading online pharmacy. With Webapoteket, Bioli establishes a direct route into a channel where consumers actively seek gentle, effective skincare they can trust.</p>
     Updated: 2026-04-14T06:03:09Z
     Author: Nina Wiberg Rosenquist
@@ -338,8 +336,13 @@ https://bioliskincare.com/blogs/bionotes
     Author: Nina Wiberg Rosenquist
     Tags: Press release
   - [Bioli nominated for an ELLE Award 2026](https://bioliskincare.com/blogs/media/bioli-nominated-for-elle-award-2026): <p>Copenhagen, Denmark, September 2026 – Danish biotech skincare brand Bioli has been nominated for an ELLE Award 2026 in the category "Årets skønhedspris" (Beauty Award of the Year) as one of four nominees.<br><br>In its nomination, ELLE asks: <meta charset="utf-8"><em>“Can biotechnology help shape the future of skincare? Danish brand Bioli offers a compelling answer.”</em> <meta charset="utf-8"><span>ELLE highlights Bioli as an ambitious Danish approach to skincare – one that explores how innovation, effective skincare and a lower environmental impact can go hand in hand.</span></p>
-    Updated: 2026-09-21T11:49:03Z
+    Updated: 2026-10-25T09:46:05Z
     Author: Nina Wiberg Rosenquist
+    Tags: Announcement
+  - [New skincare packaging collection points across the world](https://bioliskincare.com/blogs/media/new-skincare-packaging-collection-points-across-the-world): <p><meta charset="utf-8">The beauty industry’s ugly side is getting prettier. New collection initiatives are creating more opportunities to dispose of eligible skincare packaging and raising awareness of alternative materials.</p>
+    Updated: 2026-10-25T09:45:49Z
+    Author: Nina Wiberg Rosenquist
+    Tags: Announcement
 
 ## Store Pages
 
@@ -403,11 +406,13 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-10-19T14:11:35Z
 - [Insights](https://bioliskincare.com/pages/insights): We believe transparency and knowledge are essential to making informed choices. By sharing insights, we aim to make complex topics easier to unders...
   Updated: 2026-10-22T18:24:17Z
+- [Meet the authors behind Bioli's insights | Bioli](https://bioliskincare.com/pages/the-authors-behind-biolis-insights): Behind the articles, skincare guides and educational content on Bioli’s website is a team bringing together expertise in biotechnology, scientific ...
+  Updated: 2026-10-23T11:10:02Z
 
 ## Policies
 
 - [Privacy Policy](https://bioliskincare.com/policies/privacy-policy)
-  Updated: 2025-01-21T18:14:09Z
+  Updated: 2026-10-29T16:47:05Z
 - [Shipping Policy](https://bioliskincare.com/policies/shipping-policy)
   Updated: 2025-11-13T07:15:11Z
 - [Refund Policy](https://bioliskincare.com/policies/refund-policy)
