@@ -8,7 +8,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-01-17T18:18:40Z
 - Contact Email: contact@cryptomaniaclothing.com
-- Updated At: 2026-10-23T01:08:14.756Z
+- Updated At: 2026-10-31T00:24:14.782Z
 
 ## Products
 
@@ -2669,7 +2669,7 @@
   Updated: 2026-06-22T14:13:17Z
   Total Products: 0
 - [ Clothing — Premium Bitcoin, Ethereum & Web3 Apparel](https://www.cryptomaniaclothing.com/collections/-clothing): The complete  clothing store — Bitcoin hoodies, Ethereum tees, Solana streetwear and Web3 accessories for traders and HODLers. Ships worldwide.
-  Updated: 2026-10-14T11:49:30Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 1655
 - [New Arrivals — Latest  Clothing & Blockchain Streetwear](https://www.cryptomaniaclothing.com/collections/new-arrivals): The latest  clothing drops — new Bitcoin hoodies, Ethereum tees, Solana streetwear and Web3 designs added regularly Ships to US, EU and UAE.
   Updated: 2026-10-14T11:49:30Z
@@ -2681,7 +2681,7 @@
   Updated: 2026-06-30T08:53:26Z
   Total Products: 66
 - [Solana Clothing — SOL Apparel for the Fast Blockchain Community](https://www.cryptomaniaclothing.com/collections/solana-clothing): Solana clothing for the SOL community — SOL hoodies, t-shirts, caps, beanies and mugs in fast modern design. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-07T10:31:36Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 125
 - [XRP Clothing — Ripple-Inspired Apparel for the XRP Community](https://www.cryptomaniaclothing.com/collections/xrp-clothing): XRP clothing for the Ripple community — XRP hoodies, t-shirts and accessories in clean minimal Ripple-inspired design Fast worldwide tracked delivery.
   Updated: 2026-10-07T10:32:01Z
@@ -2705,7 +2705,7 @@
   Updated: 2026-10-07T10:32:50Z
   Total Products: 143
 - [Shop by Coin — Bitcoin, Ethereum, Solana, XRP & Altcoin Apparel](https://www.cryptomaniaclothing.com/collections/-coins): Find  apparel by your coin — Bitcoin, Ethereum, Solana, XRP, Cardano, Dogecoin and 16+ blockchain communities Fast worldwide tracked delivery.
-  Updated: 2026-10-14T11:49:30Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 1445
 - [Oversized  T-Shirts — Heavyweight Web3 Streetwear Tees](https://www.cryptomaniaclothing.com/collections/oversized--tshirts): Oversized  t-shirts — heavyweight Web3 streetwear tees in Bitcoin, Ethereum and blockchain designs. Relaxed fit Fast worldwide tracked delivery.
   Updated: 2026-06-30T08:51:19Z
@@ -2714,7 +2714,7 @@
   Updated: 2026-10-14T11:49:30Z
   Total Products: 548
 - [ Hoodies — Premium Bitcoin, Ethereum & Web3 Streetwear](https://www.cryptomaniaclothing.com/collections/-hoodies):  hoodies in Bitcoin, Ethereum, Solana and Web3 designs — heavyweight cotton for traders and HODLers. Gift-ready Fast worldwide tracked delivery.
-  Updated: 2026-10-07T10:32:52Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 453
 - [ Beanies — Premium Winter Hats for BTC & Web3 Fans](https://www.cryptomaniaclothing.com/collections/-beanies):  beanies in Bitcoin, Ethereum, Solana and Web3 designs — warm knit winter hats for cold-weather blockchain culture Ships to US, EU and UAE.
   Updated: 2026-06-30T08:48:24Z
@@ -2726,16 +2726,16 @@
   Updated: 2026-10-06T07:08:11Z
   Total Products: 346
 - [Best Sellers — Most Popular  Clothing & Bitcoin Apparel](https://www.cryptomaniaclothing.com/collections/best-sellers): Cryptomania's most popular  clothing — Bitcoin hoodies, Ethereum tees and Web3 streetwear trusted by traders and HODLers. Ships fast Ships globally.
-  Updated: 2026-09-24T11:24:12Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 55
 - [Exclusive  Drops — Limited-Edition Blockchain Streetwear](https://www.cryptomaniaclothing.com/collections/exclusive--drops): Limited-edition  drops at Cryptomania — rare Bitcoin hoodies, Ethereum streetwear and Web3 apparel for collectors Fast worldwide tracked delivery.
   Updated: 2026-06-30T08:53:26Z
   Total Products: 22
 - [ Gifts — Best Bitcoin & Web3 Gift Ideas for Every Budget](https://www.cryptomaniaclothing.com/collections/-gifts): The best  gifts — Bitcoin hoodies,  mugs, Ethereum tees and Web3 accessories for traders and HODLers. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-14T11:49:30Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 567
 - [Shop by Product —  Hoodies, T-Shirts, Mugs & Accessories](https://www.cryptomaniaclothing.com/collections/-products): Shop  clothing by product — hoodies, t-shirts, sweatshirts, caps, beanies, mugs and lifestyle accessories. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-14T11:49:30Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 1102
 - [Shop by Theme — Bitcoin Culture,  Identity & Web3 Apparel](https://www.cryptomaniaclothing.com/collections/-themes): Shop  clothing by theme — HODL, Bull Market, Bear Market Survivor, Traders, Web3 Culture, Viral Quotes and Degens Fast worldwide tracked delivery.
   Updated: 2026-10-14T11:49:30Z
@@ -2765,7 +2765,7 @@
   Updated: 2026-09-24T11:24:12Z
   Total Products: 9
 - [Altcoin Clothing — Premium Apparel for Every  Community](https://www.cryptomaniaclothing.com/collections/altcoin-clothing): Altcoin clothing for every blockchain — Solana, XRP, Cardano, AVAX, Chainlink, Dogecoin, SHIB and 16+ coins. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-05T18:48:00Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 479
 - [ Gifts Under €10 — Affordable Blockchain Accessories & Stickers](https://www.cryptomaniaclothing.com/collections/gifts-under-10):  gifts under €10 — affordable Bitcoin stickers, blockchain accessories and small gifts for  fans. Ships worldwide. Ships to US, EU and UAE.
   Updated: 2026-06-09T13:29:52Z
@@ -2777,7 +2777,7 @@
   Updated: 2026-10-14T11:49:30Z
   Total Products: 794
 - [ Gifts Under €100 - Bitcoin Hoodies & Web3 Gift Sets](https://www.cryptomaniaclothing.com/collections/gifts-under-100):  gifts under €100 — heavyweight Bitcoin hoodies, Ethereum sweatshirts and premium Web3 apparel for HODLers. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-07T10:32:52Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 521
 - [Degens & Meme Coins —  Streetwear for the Degen Community](https://www.cryptomaniaclothing.com/collections/degens-meme-coins): Degen and meme coin clothing — DOGE, SHIB, BONK and viral meme coin streetwear for the degen community. Ships worldwide. Ships to US, EU and UAE.
   Updated: 2026-10-07T10:32:49Z
@@ -2876,7 +2876,7 @@
   Updated: 2026-05-26T10:09:00Z
   Total Products: 0
 - [Classic  Hoodies — Bitcoin, Ethereum & Solana Streetwear](https://www.cryptomaniaclothing.com/collections/classic--hoodies): Classic  hoodies — Bitcoin, Ethereum and Solana pullover designs in clean minimal style. Foundation of every  wardrobe. Ships worldwide.
-  Updated: 2026-10-07T10:32:52Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 440
 - [Zip-Up  Hoodies — Premium Bitcoin & Ethereum Zip Streetwear](https://www.cryptomaniaclothing.com/collections/zip--hoodies): Zip-up  hoodies — Bitcoin and Ethereum full-zip streetwear for traders, HODLers and Web3 enthusiasts who want versatile layering. Ships worldwide.
   Updated: 2026-06-30T08:52:27Z
@@ -3041,7 +3041,7 @@
   Updated: 2026-08-19T11:29:36Z
   Total Products: 13
 - [Solana Hoodies — Premium SOL Streetwear for the Web3 Community](https://www.cryptomaniaclothing.com/collections/solana-hoodies): Solana hoodies — heavyweight SOL streetwear for Solana holders, DeFi traders and Web3 community members. Ships worldwide. Ships to US, EU and UAE.
-  Updated: 2026-10-07T10:31:36Z
+  Updated: 2026-10-26T11:25:37Z
   Total Products: 60
 - [Solana Sweatshirts — Premium SOL Crewneck Apparel](https://www.cryptomaniaclothing.com/collections/solana-sweatshirts-crewnecks): Solana sweatshirts and crewnecks — heavyweight SOL apparel for Solana holders, DeFi traders and Web3 fans. Ships worldwide. Ships to US, EU and UAE.
   Updated: 2026-06-30T08:50:28Z
