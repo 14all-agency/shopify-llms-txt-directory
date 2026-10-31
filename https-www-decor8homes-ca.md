@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-10-23T01:22:23.802Z
+- Updated At: 2026-10-31T00:38:35.480Z
 
 ## Products
 
@@ -573,7 +573,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.decor8homes.ca/policies/privacy-policy)
-  Updated: 2025-08-10T20:26:21Z
+  Updated: 2026-10-30T17:47:18Z
 - [Shipping Policy](https://www.decor8homes.ca/policies/shipping-policy)
   Updated: 2025-09-09T12:07:56Z
 - [Refund Policy](https://www.decor8homes.ca/policies/refund-policy)
