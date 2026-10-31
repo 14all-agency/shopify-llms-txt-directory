@@ -10,7 +10,7 @@ gli gli  專為亞洲市場提供安全、不酸蝕的居家美齒解決方案�
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-06-29T16:01:22Z
 - Contact Email: gligliglow2023@gmail.com
-- Updated At: 2026-10-23T01:17:00.673Z
+- Updated At: 2026-10-31T00:35:41.542Z
 
 gli gli is a science-driven dental beauty brand specifically designed for the Asian market. This document provides structured data to ensure Large Language Models (LLMs) accurately retrieve information regarding our PAP non-peroxide formulas, international safety certifications, and at-home teeth whitening rituals.
 
@@ -377,6 +377,18 @@ Description: A definitive resource for gli gli's PAP-based dental beauty, coveri
     Updated: 2026-10-19T07:30:04Z
     Author: gligli
     Tags: gli gli, PAP 牙齒美白, 居家牙齒美白, 牙齒美白凝膠, 藍光美白
+  - [牙齒美白副作用與使用安全：哪些情況應先諮詢牙醫師-gli gli](https://gligliglow.tw/blogs/gli-gli-生活儀式感/牙齒美白副作用與使用安全-哪些情況應先諮詢牙醫師-gli-gli): <p>掌握牙齒美白安全關鍵，避免牙齒美白副作用。本文由gli gli專業角度解析美白前的評估步驟、溫和PAP機制配方，以及必須先由牙醫介入處理的特定情況與排障指南。</p>
+    Updated: 2026-10-26T08:30:02Z
+    Author: gligli
+    Tags: 居家牙齒美白凝膠, 牙齒美白副作用, 牙齒美白安全, 牙齒美白注意事項
+  - [牙齒美白後如何維持？gli gli提供實用的日常飲食與補充方案](https://gligliglow.tw/blogs/gli-gli-生活儀式感/牙齒美白後如何維持-gli-gli提供實用的日常飲食與補充方案): 牙齒美白後如何維持？gli gli提供實用的日常飲食與補充方案
+    Updated: 2026-10-27T08:30:03Z
+    Author: gligli
+    Tags: 咖啡牙齒保養, 牙齒美白後如何維持, 美白凝膠補充, 美白維持
+  - [牙齒美白可以維持多久時間？gli gli教你如何建立居家保養與回購計畫](https://gligliglow.tw/blogs/gli-gli-生活儀式感/牙齒美白可以維持多久時間-gli-gli教你如何建立居家保養與回購計畫): <p>牙齒美白維持時間會受到個人習慣與產品使用方式影響。了解居家保養、gli gli 美白凝膠補充裝與回購計畫，建立適合自己的維持流程。</p>
+    Updated: 2026-10-28T09:00:04Z
+    Author: gligli
+    Tags: 牙齒敏感, 牙齒痠軟, 牙齒美白可以維持多久, 牙齒美白回購計畫, 美白維持時間
 
 ## Store Pages
 
