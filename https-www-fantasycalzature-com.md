@@ -6,40 +6,10 @@
 - Timezone: Europe/Rome
 - Created At: 2023-12-01T15:50:56Z
 - Contact Email: servizioclienti@fantasycalzature.com
-- Updated At: 2026-10-23T01:10:16.889Z
+- Updated At: 2026-10-31T00:31:30.163Z
 
 ## Products
 
-- [1014934 Pantofola BIRKENSTOCK](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock): Pantofola Zerman Rivet in feltrosottopiede imbottito in pellefondo gomma
-  Updated: 2026-10-10T15:30:22Z
-  Vendor: BIRKENSTOCK
-  Product Type: Scarpe
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-  - [39 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781382409)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
-  - [40 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781415177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
-  - [41 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781447945)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
-  - [36 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781480713)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
-  - [37 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781513481)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
-  - [38 / Grigio](https://www.fantasycalzature.com/products/1014934-scarpe-birkenstock?variant=44795781546249)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/products/plbFbvDa1xgwgFYwvWpGB5IlLNxDRaqXimg_2D_0001_80ceb628-7746-48d4-92ef-19406711a875.jpg?v=1711534609
-    Price: 80,00 € EUR
 - [0129443 Sandalo BIRKENSTOCK](https://www.fantasycalzature.com/products/0129443-scarpe-birkenstock): Sandalo Arizona in EvaPlantare BIRKENSTOCK anatomico in EVATomaia/Sottopiede/Suola: EVA in un solo pezzoDettagli: impermeabile, lavabile, ultraleggero
   Updated: 2026-10-10T15:30:20Z
   Vendor: BIRKENSTOCK
@@ -1021,7 +991,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/files/8LMejmSgsV0kow4himg_2D_0001.jpg?v=1754985823
     Price: 54,00 € EUR
 - [CLW355500 Stivali CULT - Stivali New Rock 3555](https://www.fantasycalzature.com/products/clw355500-stivali-cult): CLW355500 Stivali CULT in ecopelle elasticizzata, comodi e stilosi. Scopri di più su questi stivali audaci e alla moda!
-  Updated: 2026-10-15T09:50:55Z
+  Updated: 2026-10-23T16:51:47Z
   Vendor: CULT
   Product Type: Scarpe
   Availability: Available
@@ -1035,7 +1005,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/files/35nGXCc8mXghF71Limg_2D_0001.jpg?v=1758123389
     Price: 149,00 € EUR
   - [Nero / 37](https://www.fantasycalzature.com/products/clw355500-stivali-cult?variant=56148658880777)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/files/35nGXCc8mXghF71Limg_2D_0001.jpg?v=1758123389
     Price: 149,00 € EUR
   - [Nero / 38](https://www.fantasycalzature.com/products/clw355500-stivali-cult?variant=56148658848009)
@@ -1181,7 +1151,7 @@
     Image: https://cdn.shopify.com/s/files/1/0710/1877/4793/files/LVhzx2Nux7aEtFEO4425_2520cuoio_001.jpg?v=1774259665
     Price: 39,00 € EUR
 - [BYPS60A234 Portafoglio BY Byblos](https://www.fantasycalzature.com/products/byps60a234-portafoglio-by-byblos): Portafoglio Pisa in ecopellechiusura con doppia cernieradimensioni 16x10x4 cm Il Portafoglio Pisa è il tuo nuovo alleato di stile! Realizzato in ecopelle sostenibile, offre una pratica doppia cerniera per tenere tutto organizzato e al sicuro. Perfetto per chi è sempre in movimento, le sue dimensioni ridotte (16x10x4 cm) lo rendono il compagno ideale da portare ovunque. Che tu stia correndo agli appuntamenti o semplicemente vivendo la tua giornata, questo portafoglio unisce funzionalità e design con un tocco di divertimento. Scegli l'accessorio che parla il tuo linguaggio!
-  Updated: 2026-10-16T15:39:57Z
+  Updated: 2026-10-28T12:49:26Z
   Vendor: BY Byblos
   Product Type: Accessori
   Availability: Available
@@ -2986,6 +2956,18 @@
     Updated: 2026-10-20T00:09:39Z
     Author: Fantasy
     Tags: abbinare scarpe al proprio segno, calzature, moda, oroscopo calzature, scarpe, scarpe donna, scarpe giuste, scarpe uomo, segni zodiacali, stile per segno zodiacale
+  - [Scelta delle Calzature Perfette per Ogni Occasione: Consigli per Scarpe Uomo e Donna](https://www.fantasycalzature.com/blogs/calzature/scelta-delle-calzature-perfette-per-ogni-occasione-consigli-per-scarpe-uomo-e-donna): Scelta delle Calzature Perfette per Ogni Occasione: Consigli per Scarpe Uomo e Donna
+    Updated: 2026-10-24T00:06:18Z
+    Author: Fantasy
+    Tags: calzature, calzature per occasioni speciali, consigli calzature, moda, scarpe, scarpe donna, scarpe uomo, sceglie scarpe
+  - [Scoprire le Tendenze Attuali nelle Calzature: Cosa Indossare](https://www.fantasycalzature.com/blogs/calzature/scoprire-le-tendenze-attuali-nelle-calzature-cosa-indossare): Scoprire le Tendenze Attuali nelle Calzature: Cosa Indossare
+    Updated: 2026-10-27T00:09:32Z
+    Author: Fantasy
+    Tags: calzature, guida alle calzature, indossare calzature, moda, nuove tendenze scarpe, scarpe, scarpe donna, scarpe uomo, stili di scarpe, tendenze calzature
+  - [Acquisto delle Scarpe Giuste: Errori Comuni e Come Evitarli](https://www.fantasycalzature.com/blogs/calzature/acquisto-delle-scarpe-giuste-errori-comuni-e-come-evitarli): Acquisto delle Scarpe Giuste: Errori Comuni e Come Evitarli
+    Updated: 2026-10-31T00:06:02Z
+    Author: Fantasy
+    Tags: acquisto scarpe, calzature, consigli su calzature, errori acquisto, moda, scarpe, scarpe donna, scarpe giuste, scarpe uomo, scegliere scarpe giuste
 - [Accessori Moda](https://www.fantasycalzature.com/blogs/accessori-moda): Esplora le ultime tendenze in fatto di accessori moda: borse, cinture, gioielli e molto altro. Consigli di stile e guide all'acquisto dal team di Fantasy Calzature e Accessori.
   - [Borse alla moda per ogni occasione: scopri gli stili più trendy](https://www.fantasycalzature.com/blogs/accessori-moda/borse-moda-ogni-occasione-stili-trendy): Borse alla moda per ogni occasione: scopri gli stili più trendy
     Updated: 2026-07-01T08:37:05Z
@@ -3091,6 +3073,10 @@
     Updated: 2026-10-22T00:04:45Z
     Author: Fantasy
     Tags: accessori, accessori moda 2026, borse, borse alla moda, migliori borse per outfit, moda, occhiali, stili unici, tendenze accessori
+  - [Eleganza Semplificata: Scegliere Borse e Occhiali Senza Errori](https://www.fantasycalzature.com/blogs/accessori-moda/eleganza-semplificata-scegliere-borse-e-occhiali-senza-errori): Eleganza Semplificata: Scegliere Borse e Occhiali Senza Errori
+    Updated: 2026-10-29T00:04:56Z
+    Author: Fantasy
+    Tags: accessori, borse, combinare accessori moda, guida borse occhiali, moda eleganza, occhiali, occhiali perfetti, scegliere accessori
 
 ## Store Pages
 
@@ -3138,6 +3124,10 @@
   Updated: 2026-04-30T11:50:00Z
 - [DIritto di recesso](https://www.fantasycalzature.com/pages/diritto-di-recesso)
   Updated: 2026-06-15T10:45:37Z
+- [Moda Uomo: Scarpe, Borse e Accessori | Fantasy Calzature](https://www.fantasycalzature.com/pages/uomo): 
+  Updated: 2026-10-26T10:08:59Z
+- [Moda Donna: Scarpe, Borse e Accessori | Fantasy Calzature  Copia](https://www.fantasycalzature.com/pages/donna): 
+  Updated: 2026-10-26T11:14:21Z
 
 ## Policies
 
