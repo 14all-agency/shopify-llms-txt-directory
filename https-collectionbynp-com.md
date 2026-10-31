@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-10-23T01:20:11.680Z
+- Updated At: 2026-10-31T00:38:24.456Z
 
 ## Products
 
@@ -513,6 +513,24 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/carmilla5.jpg?v=1789153862
   Price: $355.00 USD
+- [Coffin Hoop Earrings](https://collectionbynp.com/products/coffin-hoop-earrings): Designed for the alternative souls, these earrings combine sleek stainless steel hoops with a dangling coffin shaped charm. Whether you're channeling witchy vibes or your everyday dark aesthetic, these earrings are made to stand out. Choose Your Poison: 3 Coffin Shaped Charm Options Black Skull: black colored twist hoop with black textured skull charm. Black Cross: stainless steel hoop with a cross textured charm. Red Cross: stainless steel hoop with a bold pop of crimson charm. Why You'll Love Them: Stainless steel hoop earrings Coffin shaped dangling charm Three unique charm designs to suit your style Hoop design makes them plug friendly Perfect for goth, punk, emo, metal, and alternative aesthetics Whether you're heading to a gig, dressing up your everyday outfit, or adding another piece to your spooky jewelry collection, these coffin hoops bring just the right amount of dark energy.
+  Updated: 2026-10-24T15:19:47Z
+  Vendor: Percacciolo Collection
+  Product Type: Earrings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BlackSkull1.jpg?v=1792088901
+  - [Black Skull](https://collectionbynp.com/products/coffin-hoop-earrings?variant=46386893193450)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BlackSkull3.jpg?v=1792088901
+    Price: $20.00 USD
+  - [Black Cross](https://collectionbynp.com/products/coffin-hoop-earrings?variant=46386893226218)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/BlackCross3.jpg?v=1792088901
+    Price: $20.00 USD
+  - [Red Cross](https://collectionbynp.com/products/coffin-hoop-earrings?variant=46386893258986)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/RedCross2.jpg?v=1792088901
+    Price: $20.00 USD
 - [Spiked Cross Earrings](https://collectionbynp.com/products/spiked-cross-earrings): Make a statement with the new Spiked Cross Earrings. Featuring decorative metal cross charms accented with sparkling rhinestones, repurposed chains and bold black metal spikes. These earrings bring a striking edge to your alternative style. The dangling chains featured on each earring have been rescued from a broken necklace; given a new life in this one of a kind design. Rather than letting beautiful materials go to waste, I love incorporating repurposed chains and beads into my collections, creating jewelry that celebrates individuality and a more thoughtful approach to adornment. DETAILS Decorative metal cross charms with rhinestone accents Repurposed chains salvaged from a broken necklace Stamped 925 sterling silver hooks for silver and charcoal colors Black metal spike accents for an edgy finish About 3.25" long Incorporates reclaimed materials as part of a creative upcycling practice Three colors to choose from: Silver (with black rhinestones) Charcoal (dark grey cross with silver rhinestones) Black (with silver rhinestones) A LITTLE MORE MEANING I believe beautiful materials deserve more than one life. Throughout my collections, I look for opportunities to reuse and repurpose beads, chains, fabrics, and more. Transforming overlooked pieces into something new.
   Updated: 2026-10-19T14:45:22Z
   Vendor: Percacciolo Collection
