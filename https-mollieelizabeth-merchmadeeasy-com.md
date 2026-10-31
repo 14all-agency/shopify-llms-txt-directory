@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-09T15:21:34Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:52:56.191Z
+- Updated At: 2026-10-31T00:18:03.704Z
 
 ## Products
 
 - [Dirty Blonde EP](https://mollieelizabeth.merchmadeeasy.com/products/dirty-blonde-ep): Mollie Elizabeth's debut EP, Dirty Blonde on Transparent Sky Blue 10" Vinyl
-  Updated: 2026-10-22T21:58:46Z
+  Updated: 2026-10-30T15:12:57Z
   Vendor: Mollie Elizabeth
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MOLLIEELIZABETHVINYL.png?v=1748527481
   Price: $16.00 USD
 - [Arrow Tee](https://mollieelizabeth.merchmadeeasy.com/products/arrow-tee): How could you do it to me? 100% cotton tee in Natural Unisex
-  Updated: 2026-10-10T06:22:47Z
+  Updated: 2026-10-30T15:12:56Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Run Rabbit Tee](https://mollieelizabeth.merchmadeeasy.com/products/run-rabbit-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-10-22T06:43:47Z
+  Updated: 2026-10-30T19:12:36Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -60,14 +60,14 @@
     Availability: Available
     Price: $30.00 USD
 - [Puppet Show Tote](https://mollieelizabeth.merchmadeeasy.com/products/puppet-show-tote): I'll stitch you, stuff you, crush you Light pink canvas tote bag Portrait of a doll in a pink dress inside an oval frame with 'Mollie Elizabeth' text Artwork by @lavender_seance
-  Updated: 2026-10-22T18:13:15Z
+  Updated: 2026-10-30T16:57:02Z
   Vendor: Mollie Elizabeth
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/ME_Puppet_Show_Tote_Revised.png?v=1785861419
   Price: $20.00 USD
 - [Bang Bang Baby Tee](https://mollieelizabeth.merchmadeeasy.com/products/barely-hanging-baby-tee): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-10-22T06:43:46Z
+  Updated: 2026-10-31T00:05:06Z
   Vendor: Mollie Elizabeth
   Product Type: T-Shirt
   Availability: Available
@@ -85,14 +85,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Mollie Elizabeth Hand Fan](https://mollieelizabeth.merchmadeeasy.com/products/logo-hand-fan): please note: this is a pre-order item. orders containing this item will ship in 3-4 weeks. folding hand fan with wooden handle features a mollie elizabeth logo design
-  Updated: 2026-10-18T02:40:37Z
+  Updated: 2026-10-30T01:34:52Z
   Vendor: Mollie Elizabeth
   Product Type: Fan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/MELIZLogoHandFan.png?v=1790885641
   Price: $15.00 USD
 - [People Pleaser Crewneck](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck): run rabbit run rabid 100% cotton tee in light blue Unisex
-  Updated: 2026-10-22T18:49:42Z
+  Updated: 2026-10-30T01:34:44Z
   Vendor: Mollie Elizabeth
   Product Type: Crewneck
   Availability: Available
@@ -115,30 +115,51 @@
   - [3XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-crewneck?variant=67021395165555)
     Availability: Not Available
     Price: $50.00 USD
+- [People Pleaser Tee](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee): 100% cotton tee in natural illustrative drawings inspired by the People Pleaser EP on the front unisex
+  Updated: 2026-10-30T23:01:46Z
+  Vendor: Mollie Elizabeth
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0923/3845/4899/files/ME_EP_Tee.png?v=1792180342
+  - [S](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590348659)
+    Availability: Available
+    Price: $30.00 USD
+  - [M](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590381427)
+    Availability: Available
+    Price: $30.00 USD
+  - [L](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590414195)
+    Availability: Available
+    Price: $30.00 USD
+  - [XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590446963)
+    Availability: Available
+    Price: $30.00 USD
+  - [2XL](https://mollieelizabeth.merchmadeeasy.com/products/people-pleaser-tee?variant=67136590479731)
+    Availability: Available
+    Price: $30.00 USD
 
 ## Collections
 
 - [Home page](https://mollieelizabeth.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-22T11:24:06Z
-  Total Products: 7
+  Updated: 2026-10-30T14:00:03Z
+  Total Products: 8
 - [Apparel](https://mollieelizabeth.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T11:24:06Z
+  Updated: 2026-10-30T14:00:03Z
   Total Products: 5
 - [Accessories](https://mollieelizabeth.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-18T11:21:25Z
+  Updated: 2026-10-30T11:14:46Z
   Total Products: 2
 - [Hats](https://mollieelizabeth.merchmadeeasy.com/collections/hats)
   Updated: 2026-08-03T18:16:02Z
   Total Products: 0
 - [Music](https://mollieelizabeth.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-21T11:22:47Z
+  Updated: 2026-10-30T11:14:46Z
   Total Products: 1
 - [All](https://mollieelizabeth.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:24:06Z
+  Updated: 2026-10-30T14:00:03Z
   Total Products: 8
 - [People Pleaser](https://mollieelizabeth.merchmadeeasy.com/collections/people-pleaser)
-  Updated: 2026-10-22T11:24:06Z
-  Total Products: 5
+  Updated: 2026-10-30T14:02:16Z
+  Total Products: 6
 
 ## Store Pages
 
