@@ -6,96 +6,96 @@
 - Timezone: America/Chicago
 - Created At: 2019-02-18T18:16:29Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:53:46.544Z
+- Updated At: 2026-10-31T00:16:10.930Z
 
 ## Products
 
 - [At Christmas - CD](https://saraevansstore.merchmadeeasy.com/products/at-christmas-cd): Tracklist: At Christmas Have Yourself a Merry Little Christmas The Twelve Days of Christmas Silent Night Winter Wonderland O Holy Night Run Rudolph Run I’ll Be Home for Christmas Go Tell It on the Mountain O Come All Ye Faithful
-  Updated: 2026-10-18T14:42:38Z
+  Updated: 2026-10-29T21:46:53Z
   Vendor: Sara Evans Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/At_Christmas_CD.png?v=1550856422
   Price: $10.00 USD
 - [Greatest Hits - CD](https://saraevansstore.merchmadeeasy.com/products/greatest-hits-cd): Tracklist: As If Born To Fly I Could Not Ask For More Perfect Cheatin' Suds In The Bucket Saints & Angels You'll Always Be My Baby I Keep Looking No Place That Far A Real Fine Place to Start Love You With All My Heart Pray for You Some Things Never Change
-  Updated: 2026-10-05T13:02:50Z
+  Updated: 2026-10-28T19:09:02Z
   Vendor: SaraEvans
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Sara_Evans_Greatest_Hits_CD.png?v=1550856554
   Price: $10.00 USD
 - [Words - CD](https://saraevansstore.merchmadeeasy.com/products/words-audio-cd): Tracklist: Long Way Down Marquee Sign Diving in Deep All the Love You Left Me Like the Way You Love Me Rain and Fire Night Light I Need a River I Don't Trust Myself Make Room at the Bottom Words I Want You Letting You Go A Little Bit Stronger (Acoustic)
-  Updated: 2026-10-05T13:02:51Z
+  Updated: 2026-10-28T19:09:03Z
   Vendor: SaraEvans
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/CDWORDS.png?v=1752868898
   Price: $9.98 USD
 - [Hair Back Photo Navy Tee](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee): 100% Cotton
-  Updated: 2026-10-05T13:02:51Z
+  Updated: 2026-10-28T19:09:03Z
   Vendor: SaraEvans
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Navy_Blue_Photo_Tee_c36d95d1-3fde-4d63-8cee-085bae7c0cab.png?v=1550856658
   - [S](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015576130)
     Availability: Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [M](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015608898)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [L](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015641666)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [XL](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015674434)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [XXL](https://saraevansstore.merchmadeeasy.com/products/hair-back-photo-navy-tee?variant=14434015707202)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
 - [Live Country Music Tee](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee): White Unisex Softstyle Tee
-  Updated: 2026-10-05T13:02:52Z
+  Updated: 2026-10-28T19:09:03Z
   Vendor: SaraEvans
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/Live_Country_Tee.png?v=1550856750
   - [S](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016100418)
     Availability: Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [M](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016133186)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [L](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016165954)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [XL](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016198722)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
   - [XXL](https://saraevansstore.merchmadeeasy.com/products/live-country-music-unisex-tee?variant=14434016231490)
     Availability: Not Available
-    Price: $10.00 USD
+    Price: $12.00 USD
 - [Copy That - CD](https://saraevansstore.merchmadeeasy.com/products/copy-that-cd): Copy That - The 13-song collection, spanning six decades, finds Evans putting her distinctive creative stamp on some of the most iconic songs in country and pop music, songs that have inspired her life and career, as well as shining a spotlight on some little-known gems.
-  Updated: 2026-10-05T13:02:53Z
+  Updated: 2026-10-28T19:09:04Z
   Vendor: Sara Evans Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/SECopyThatCDWEB.png?v=1584557246
   Price: $10.00 USD
 - [Born To Fly - Hardback [SIGNED]](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-book): Sara Evans—a Billboard, ACM, and CMA Award–winning country music star who’s been named one of People’s “50 Most Beautiful People” and competed on ABC’s Dancing with the Stars—has been inspiring fans throughout her successful music career.In this powerful, personal, and often humorous book, Sara opens up and shares stories from her career, describing what it’s like living in the spotlight and how her faith keeps her strong. She writes about overcoming life’s most challenging experiences, from a childhood accident that nearly took her life, to the loss she experienced when her parents divorced, and from her own painful and very public divorce, to finding incredible love when she least expected it with former pro quarterback-turned-sportscaster Jay Barker. Now, after over a decade of marriage, Sara and Jay’s blended family of nine is thriving, filling her life with focus and meaning.As she weaves the narrative of her life, Sara candidly reveals the things that are most important to her and her family now, her favorite tips about staying true to herself and her faith, knowing when to ask for help, abandoning perfectionism, and the importance of a strong support group of friends and family. Fans old and new will enjoy this inspiring, heartfelt book.
-  Updated: 2026-10-21T21:49:57Z
+  Updated: 2026-10-28T19:09:04Z
   Vendor: SaraEvans
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/products/saraevansautographedbook.png?v=1680645354
   Price: $45.00 USD
 - [Beige Beanie](https://saraevansstore.merchmadeeasy.com/products/beige-beanie): Beige knit beanie with Sara Evans patch!
-  Updated: 2026-10-16T14:37:36Z
+  Updated: 2026-10-28T19:09:04Z
   Vendor: SaraEvans
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/saraevansbeigebeanie.png?v=1684985922
   Price: $15.00 USD
 - [Born To Fly Tee](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-tee): Born to fly tee in ivory! Front and back print 100% Cotton
-  Updated: 2026-10-05T13:02:56Z
+  Updated: 2026-10-28T19:09:05Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -115,22 +115,46 @@
   - [XXL](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-tee?variant=43391039471771)
     Availability: Available
     Price: $35.00 USD
+- [Stronger Lyric Tee](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee): A little bit stronger tee in charcoal! Front and back print 100% Cotton
+  Updated: 2026-10-28T19:09:05Z
+  Vendor: Sara Evans Store
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/alittlebitstrongerfront.png?v=1771955540
+  - [S](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=43391041405083)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=43391041437851)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=43391041470619)
+    Availability: Not Available
+    Price: $35.00 USD
+  - [XL](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=43391041503387)
+    Availability: Available
+    Price: $35.00 USD
+  - [XXL](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=43391041536155)
+    Availability: Not Available
+    Price: $35.00 USD
+  - [XXXL](https://saraevansstore.merchmadeeasy.com/products/a-little-bit-stronger-tee?variant=45216369836187)
+    Availability: Not Available
+    Price: $35.00 USD
 - [Perfect Trucker Hat](https://saraevansstore.merchmadeeasy.com/products/perfect-trucker-hat): Perfect trucker hat in orange! Snap back closure with adjustable sizing
-  Updated: 2026-10-05T13:02:58Z
+  Updated: 2026-10-28T19:09:05Z
   Vendor: SaraEvans
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/perfecttrucker.png?v=1775074793
   Price: $25.00 USD
 - [Perfect Tumbler](https://saraevansstore.merchmadeeasy.com/products/stronger-tumbler): Perfect tumbler in orange! 17oz tumbler *Hand wash recommended, do not microwave
-  Updated: 2026-10-05T13:02:59Z
+  Updated: 2026-10-28T19:09:05Z
   Vendor: SaraEvans
   Product Type: Tumbler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/perfecttumbler.png?v=1684984028
   Price: $25.00 USD
 - [Still Restless Tee](https://saraevansstore.merchmadeeasy.com/products/still-restless-tee): Still Restless exclusive tee! 100% Cotton
-  Updated: 2026-10-05T13:02:59Z
+  Updated: 2026-10-28T19:09:06Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -151,7 +175,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [[Fan Club] Collegiate Tee](https://saraevansstore.merchmadeeasy.com/products/fan-club-collegiate-tee): Fan Club exclusive-- Sara Evans Collegiate Tee! 100% Cotton
-  Updated: 2026-10-05T13:03:00Z
+  Updated: 2026-10-28T19:11:43Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -172,7 +196,7 @@
     Availability: Available
     Price: $25.00 USD
 - [[Fan Club] Symbols Tee](https://saraevansstore.merchmadeeasy.com/products/fan-club-symbols-tee): Fan Club exclusive-- Sara Evans Symbols Tee! 100% Cotton
-  Updated: 2026-10-05T13:03:01Z
+  Updated: 2026-10-28T19:11:43Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -193,35 +217,35 @@
     Availability: Available
     Price: $25.00 USD
 - [[Fan Club] Roses Tote](https://saraevansstore.merchmadeeasy.com/products/fan-club-roses-tote): Fan Club exclusive-- Sara Evans canvas roses tote!
-  Updated: 2026-10-16T14:37:36Z
+  Updated: 2026-10-28T19:11:43Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/rosestote.png?v=1699285266
   Price: $10.00 USD
 - [[Fan Club] Enamel Pin](https://saraevansstore.merchmadeeasy.com/products/fan-club-enamel-pin): Fan Club exclusive-- Sara Evans enamel pin!
-  Updated: 2026-10-16T14:42:57Z
+  Updated: 2026-10-28T19:11:44Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/enamelpin.png?v=1699285424
   Price: $5.00 USD
 - [[Fan Club] Stronger Pennant](https://saraevansstore.merchmadeeasy.com/products/fan-club-stronger-pennant): Fan Club exclusive-- Sara Evans stronger pennant!
-  Updated: 2026-10-05T13:03:03Z
+  Updated: 2026-10-28T19:11:44Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEFlag.png?v=1699285501
   Price: $10.00 USD
 - [[Fan Club] Laminate](https://saraevansstore.merchmadeeasy.com/products/fan-club-laminate): The official Fan Club laminate is here!
-  Updated: 2026-10-16T14:42:57Z
+  Updated: 2026-10-28T19:11:44Z
   Vendor: Sara Evans Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEFANCLUBLAMINATE.png?v=1708370155
   Price: $5.00 USD
 - [2023 Tour Tee](https://saraevansstore.merchmadeeasy.com/products/2023-christmas-tee): 2023 Christmas tour tee Front and back print 100% Cotton
-  Updated: 2026-10-05T13:03:04Z
+  Updated: 2026-10-28T19:09:08Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -242,7 +266,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Christmas Tour Hoodie](https://saraevansstore.merchmadeeasy.com/products/christmas-tour-hoodie): 2023 Christmas tour hoodie! Front and back print 100% Cotton
-  Updated: 2026-10-05T13:03:05Z
+  Updated: 2026-10-28T19:09:08Z
   Vendor: Sara Evans Store
   Product Type: Hoodie
   Availability: Available
@@ -263,7 +287,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Love and Laughter Crewneck](https://saraevansstore.merchmadeeasy.com/products/love-and-laughter-crewneck): Love and laughter Christmas crewneck! Front and back print 100% Cotton
-  Updated: 2026-10-05T13:03:06Z
+  Updated: 2026-10-28T19:09:09Z
   Vendor: Sara Evans Store
   Product Type: Sweatshirt
   Availability: Available
@@ -284,48 +308,48 @@
     Availability: Available
     Price: $45.00 USD
 - [Unbroke - Signed CD](https://saraevansstore.merchmadeeasy.com/products/unbroke-signed-cd): The new Sara Evans studio album Unbroke is now available as a SIGNED CD! Tracklist: Pride 21 Days Mask Cleaning Our Your Closet Heartless Downfall I Wanna Be Wrong Sorry Now Better Than This Unbroke Gypsy Ways
-  Updated: 2026-10-05T13:03:06Z
+  Updated: 2026-10-28T19:09:09Z
   Vendor: Sara Evans Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-UNBROKE-CD-SIGNED.png?v=1710964229
   Price: $25.00 USD
 - [Unbroke - CD](https://saraevansstore.merchmadeeasy.com/products/unbroke-cd): The new Sara Evans studio album Unbroke is now available as a CD! Tracklist: Pride 21 Days Mask Cleaning Our Your Closet Heartless Downfall I Wanna Be Wrong Sorry Now Better Than This Unbroke Gypsy Ways
-  Updated: 2026-10-05T13:03:07Z
+  Updated: 2026-10-28T19:09:09Z
   Vendor: Sara Evans Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-UNBROKE-CD-UNSIGNED.png?v=1710964250
   Price: $15.00 USD
 - [Unbroke - Vinyl](https://saraevansstore.merchmadeeasy.com/products/unbroke-vinyl): The new Sara Evans studio album Unbroke is now available on vinyl! Tracklist: Pride 21 Days Mask Cleaning Our Your Closet Heartless Downfall I Wanna Be Wrong Sorry Now Better Than This Unbroke Gypsy Ways
-  Updated: 2026-10-05T13:03:08Z
+  Updated: 2026-10-28T19:09:09Z
   Vendor: Sara Evans Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-UNBROKE-VINYL-UNSIGNED.png?v=1710964334
   Price: $30.00 USD
 - [Photo Tote](https://saraevansstore.merchmadeeasy.com/products/photo-tote): 10 x 11 in canvas tote! One sided print
-  Updated: 2026-10-05T13:03:08Z
+  Updated: 2026-10-28T19:09:10Z
   Vendor: SaraEvans
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-TOTE-BAG-BLACK.png?v=1714404379
   Price: $15.00 USD
 - [Sara Evans Print](https://saraevansstore.merchmadeeasy.com/products/sara-evans-print): The new Sara Evans photo print! 8 x 10 inches
-  Updated: 2026-10-05T13:03:10Z
+  Updated: 2026-10-28T19:09:10Z
   Vendor: Sara Evans Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-PHOTO-PRINT.png?v=1718902703
   Price: $10.00 USD
 - [Suds In The Bucket Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-tee-1): Suds In The Bucket Tee with front and back print! 100% Cotton
-  Updated: 2026-10-05T13:03:10Z
+  Updated: 2026-10-28T19:09:10Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-SUDS-TEE-FRONT-2024-BLUE.png?v=1771955506
   - [S](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-tee-1?variant=45129684385947)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-tee-1?variant=45129684418715)
     Availability: Not Available
@@ -343,70 +367,70 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Pink Lemonade Koozie](https://saraevansstore.merchmadeeasy.com/products/unbroke-tour-poster-copy): The new Pink Lemonade Koozie! 12 oz skinny koozie
-  Updated: 2026-10-05T13:03:11Z
+  Updated: 2026-10-28T19:09:11Z
   Vendor: Sara Evans Store
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-PINK-LEMONADE-KOOZIE.png?v=1718995870
   Price: $6.00 USD
 - [Born To Fly - Paperback](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-paperback): Country music star Sara Evans’s “humble but incredible life story” (Publishers Weekly) about her rise to stardom, her roundabout path to love, and how her faith brings daily joy no matter the circumstances is an inspiring and “warm, approachable read” (Booklist).Sara Evans—a Billboard, ACM, and CMA Award–winning country music star who’s been named one of People’s “50 Most Beautiful People” and competed on ABC’s Dancing with the Stars—has been inspiring fans throughout her successful music career.In this powerful, personal, and often humorous book, Sara opens up and shares stories from her professional and personal life, describing what it’s like living in the spotlight and how her faith keeps her strong. She writes about overcoming life’s most challenging experiences, from a childhood accident that nearly took her life, to the loss she experienced when her parents divorced, and from her own painful and very public divorce, to finding incredible love when she least expected it with former pro-quarterback-turned-sportscaster Jay Barker. Now, after over a decade of marriage, Sara and Jay’s blended family of nine is thriving, filling her life with focus and meaning.As she weaves the narrative of her life, Sara candidly reveals the things that are most important to her and her family now, her favorite tips about staying true to herself and her faith, knowing when to ask for help, abandoning perfectionism, and the importance of a strong support group of friends and family. “She was ‘born to fly’ and you will fly too as you read each page” (Joe Galante, former president of RCA Records).
-  Updated: 2026-10-05T13:03:12Z
+  Updated: 2026-10-28T19:09:11Z
   Vendor: SaraEvans
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-BORN-TO-FLY-PAPERBACK.png?v=1725467834
   Price: $18.99 USD
 - [Born To Fly - Paperback [with signed bookplate]](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-paperback-with-signed-bookplate): Country music star Sara Evans’s “humble but incredible life story” (Publishers Weekly) about her rise to stardom, her roundabout path to love, and how her faith brings daily joy no matter the circumstances is an inspiring and “warm, approachable read” (Booklist).Sara Evans—a Billboard, ACM, and CMA Award–winning country music star who’s been named one of People’s “50 Most Beautiful People” and competed on ABC’s Dancing with the Stars—has been inspiring fans throughout her successful music career.In this powerful, personal, and often humorous book, Sara opens up and shares stories from her professional and personal life, describing what it’s like living in the spotlight and how her faith keeps her strong. She writes about overcoming life’s most challenging experiences, from a childhood accident that nearly took her life, to the loss she experienced when her parents divorced, and from her own painful and very public divorce, to finding incredible love when she least expected it with former pro-quarterback-turned-sportscaster Jay Barker. Now, after over a decade of marriage, Sara and Jay’s blended family of nine is thriving, filling her life with focus and meaning.As she weaves the narrative of her life, Sara candidly reveals the things that are most important to her and her family now, her favorite tips about staying true to herself and her faith, knowing when to ask for help, abandoning perfectionism, and the importance of a strong support group of friends and family. “She was ‘born to fly’ and you will fly too as you read each page” (Joe Galante, former president of RCA Records).
-  Updated: 2026-10-05T13:03:12Z
+  Updated: 2026-10-28T19:09:11Z
   Vendor: SaraEvans
   Product Type: Book
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-BORN-TO-FLY-PAPERBACK-SIGNED.png?v=1725467999
   Price: $25.00 USD
 - [Logo Koozie](https://saraevansstore.merchmadeeasy.com/products/black-colors-name-koozie): Sara Evans Logo Koozie
-  Updated: 2026-10-05T13:03:14Z
+  Updated: 2026-10-28T19:09:11Z
   Vendor: Sara Evans Store
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/Sara_Evans_Koozie.png?v=1789137995
   Price: $5.00 USD
 - [Colors Name Tote](https://saraevansstore.merchmadeeasy.com/products/black-colors-name-tote): Colors name tote on black canvas.
-  Updated: 2026-10-05T13:03:14Z
+  Updated: 2026-10-28T19:09:12Z
   Vendor: Sara Evans Store
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-COLORS-TOTE-IN-BLACK.png?v=1742482333
   Price: $10.00 USD
 - [Words Journal](https://saraevansstore.merchmadeeasy.com/products/words-journal): Words Journal with photo on the front. Lined pages.
-  Updated: 2026-10-05T13:03:15Z
+  Updated: 2026-10-28T19:09:12Z
   Vendor: Sara Evans Store
   Product Type: Journal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SE-JOURNAL.png?v=1742482231
   Price: $10.00 USD
 - [Words Vinyl](https://saraevansstore.merchmadeeasy.com/products/words-vinyl): Tracklist: Long Way Down Marquee Sign Diving in Deep All the Love You Left Me Like the Way You Love Me Rain and Fire Night Light I Need a River I Don't Trust Myself Make Room at the Bottom Words I Want You Letting You Go A Little Bit Stronger (Acoustic)
-  Updated: 2026-10-05T13:03:15Z
+  Updated: 2026-10-28T19:09:12Z
   Vendor: Sara Evans Store
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/SEWORDSVINYLPNG.png?v=1745940225
   Price: $25.00 USD
 - [Saints & Angels - Saints](https://saraevansstore.merchmadeeasy.com/products/saints-angels-saints): Be the first to grab tickets with presale access Stay in the know with insider updates straight from Sara Go behind the scenes with exclusive content and past performances Join the community and engage with BTS moments
-  Updated: 2026-10-08T20:10:17Z
+  Updated: 2026-10-28T19:11:26Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/artworka6d9064a-9bd3-4ed1-b3db-50753876e982.png?v=1738866776
   Price: $25.00 USD
 - [Saints & Angels - Angels](https://saraevansstore.merchmadeeasy.com/products/saints-angels-angels): Includes everything from Saints, plus: Exclusive fan merch designed just for Angels One fan chosen each month for (2) tickets and M&Gs to a show of your choice Save 10% on official Sara Evans merch
-  Updated: 2026-10-15T16:50:17Z
+  Updated: 2026-10-28T19:11:55Z
   Vendor: Sara Evans Store
   Product Type: Membership
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/artwork29cdc602-3848-4962-94b0-bf773abf1391.png?v=1738866815
   Price: $45.00 USD
 - [Born To Fly Hoodie | Official Sara Evans Merch](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-hoodie): Born To Fly Hoodie in grey with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:03:17Z
+  Updated: 2026-10-28T19:09:13Z
   Vendor: Sara Evans Store
   Product Type: Hoodie
   Availability: Available
@@ -427,14 +451,14 @@
     Availability: Available
     Price: $60.00 USD
 - [Words - CD (Signed)](https://saraevansstore.merchmadeeasy.com/products/words-cd-signed): Tracklist: Long Way Down Marquee Sign Diving in Deep All the Love You Left Me Like the Way You Love Me Rain and Fire Night Light I Need a River I Don't Trust Myself Make Room at the Bottom Words I Want You Letting You Go A Little Bit Stronger (Acoustic)
-  Updated: 2026-10-05T13:03:18Z
+  Updated: 2026-10-28T19:09:13Z
   Vendor: SaraEvans
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/WordsCD.png?v=1752261621
   Price: $12.98 USD
 - [2025 Tour Photo Tee](https://saraevansstore.merchmadeeasy.com/products/2025-tour-photo-tee): Sara Evans Photo tour tee with 2025 cities on the back 100% Cotton Unisex
-  Updated: 2026-10-05T13:03:20Z
+  Updated: 2026-10-28T19:09:14Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -458,7 +482,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Stronger Horse Tee](https://saraevansstore.merchmadeeasy.com/products/stronger-horse-tee): Horses graphic on the front with Sara Evans and Stronger text 100% combed tee in Espresso Unisex tee
-  Updated: 2026-10-22T15:13:15Z
+  Updated: 2026-10-28T19:09:14Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -482,7 +506,7 @@
     Availability: Available
     Price: $35.00 USD
 - [We Got The Beat Tour Tee](https://saraevansstore.merchmadeeasy.com/products/orange-suds-in-the-bucket-tee-copy): Sara Evans graphic on the front We Got The Beat tour cities on the back Unisex tee in charcoal 100% Cotton
-  Updated: 2026-10-18T18:57:03Z
+  Updated: 2026-10-28T19:09:14Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -506,7 +530,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hit Songs Tee](https://saraevansstore.merchmadeeasy.com/products/hits-tee): Sara Evans graphic on the front Sara's hit songs on the back Unisex tee in graphite 100% Cotton
-  Updated: 2026-10-05T13:03:22Z
+  Updated: 2026-10-28T19:09:14Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -530,7 +554,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Suds in the Bucket Sketch Tee](https://saraevansstore.merchmadeeasy.com/products/suds-in-the-bucket-sketch-tee): Sara Evans graphic on the front Suds in the Bucket title and sketch graphics on the back Unisex tee in Ivory 100% Cotton
-  Updated: 2026-10-05T13:03:23Z
+  Updated: 2026-10-28T19:09:15Z
   Vendor: Sara Evans Store
   Product Type: T-Shirt
   Availability: Available
@@ -554,7 +578,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Born to Fly Zip Hoodie](https://saraevansstore.merchmadeeasy.com/products/born-to-fly-zip-hoodie): Born to Fly graphic on the front and back in red screen print Zip up hoodie in grey Unisex 80/20 cotton/polyester
-  Updated: 2026-10-22T15:13:15Z
+  Updated: 2026-10-28T19:09:15Z
   Vendor: Sara Evans Store
   Product Type: Hoodie
   Availability: Available
@@ -578,14 +602,14 @@
     Availability: Available
     Price: $65.00 USD
 - [Stronger Koozie](https://saraevansstore.merchmadeeasy.com/products/stronger-koozie): I like it a little bit stronger koozie fits standard size cans
-  Updated: 2026-10-22T15:13:26Z
+  Updated: 2026-10-28T19:09:15Z
   Vendor: Sara Evans Store
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0078/8837/1778/files/Stronger-Koozie.png?v=1775065354
   Price: $5.00 USD
 - [Olive Dad Hat](https://saraevansstore.merchmadeeasy.com/products/logo-dad-hat): Embroidered dad hat with Sara Evans logo Snap back closure with adjustable sizing
-  Updated: 2026-10-05T13:03:25Z
+  Updated: 2026-10-28T19:09:16Z
   Vendor: Sara Evans Store
   Product Type: Hat
   Availability: Available
@@ -598,19 +622,19 @@
   Updated: 2026-10-22T11:02:58Z
   Total Products: 65
 - [Apparel](https://saraevansstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T21:47:48Z
+  Updated: 2026-10-28T19:08:29Z
   Total Products: 56
 - [Music](https://saraevansstore.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-19T11:02:49Z
-  Total Products: 18
+  Updated: 2026-10-30T11:02:34Z
+  Total Products: 21
 - [Last Chance](https://saraevansstore.merchmadeeasy.com/collections/on-)
-  Updated: 2026-10-22T21:47:48Z
+  Updated: 2026-10-26T15:39:56Z
   Total Products: 40
 - [Fan Club Exclusives](https://saraevansstore.merchmadeeasy.com/collections/fan-club-exclusives)
   Updated: 2026-08-13T11:01:55Z
   Total Products: 6
 - [Unbroke Collection](https://saraevansstore.merchmadeeasy.com/collections/unbroke-collection)
-  Updated: 2026-10-12T17:16:09Z
+  Updated: 2026-10-29T11:02:39Z
   Total Products: 12
 - [Last Call On Tour Merch Collection](https://saraevansstore.merchmadeeasy.com/collections/eoy-)
   Updated: 2026-09-07T11:02:42Z
@@ -619,28 +643,25 @@
   Updated: 2026-07-08T20:12:23Z
   Total Products: 9
 - [ALL](https://saraevansstore.merchmadeeasy.com/collections/all): Shop all merchandise from the Official Sara Evans store!
-  Updated: 2026-10-22T11:02:58Z
+  Updated: 2026-10-30T11:02:34Z
   Total Products: 58
 - [](https://saraevansstore.merchmadeeasy.com/collections/)
-  Updated: 2026-10-19T11:02:49Z
-  Total Products: 15
-- [Under $10](https://saraevansstore.merchmadeeasy.com/collections/under-10)
-  Updated: 2026-10-19T11:02:49Z
+  Updated: 2026-10-30T11:02:34Z
   Total Products: 15
 - [The Lake Day](https://saraevansstore.merchmadeeasy.com/collections/the-lake-day)
-  Updated: 2026-10-22T11:02:58Z
+  Updated: 2026-10-26T15:39:56Z
   Total Products: 14
 - [Cozy Collection](https://saraevansstore.merchmadeeasy.com/collections/cozy-collection)
-  Updated: 2026-09-04T11:02:58Z
+  Updated: 2026-10-26T15:39:56Z
   Total Products: 15
 - [Lyric Collection](https://saraevansstore.merchmadeeasy.com/collections/lyric-collection)
-  Updated: 2026-10-19T11:02:49Z
+  Updated: 2026-10-28T19:08:29Z
   Total Products: 20
 - [Unbroke Music](https://saraevansstore.merchmadeeasy.com/collections/unbroke-music)
-  Updated: 2026-09-28T11:03:01Z
+  Updated: 2026-10-29T11:02:39Z
   Total Products: 7
 - [BEST SELLERS](https://saraevansstore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-19T11:02:49Z
+  Updated: 2026-10-29T11:02:39Z
   Total Products: 16
 - [Words Anniversary](https://saraevansstore.merchmadeeasy.com/collections/words-anniversary)
   Updated: 2026-08-29T11:02:43Z
@@ -649,25 +670,16 @@
   Updated: 2026-10-22T11:02:58Z
   Total Products: 15
 - [Restless Anniversary](https://saraevansstore.merchmadeeasy.com/collections/restless)
-  Updated: 2026-10-22T21:47:48Z
+  Updated: 2026-10-28T19:08:29Z
   Total Products: 65
-- [$10](https://saraevansstore.merchmadeeasy.com/collections/10): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-08-10T11:02:36Z
-  Total Products: 10
-- [$5 and Under](https://saraevansstore.merchmadeeasy.com/collections/5-and-under): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-09-26T11:02:41Z
-  Total Products: 32
-- [$15 and up](https://saraevansstore.merchmadeeasy.com/collections/15-and-up): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-10-22T11:02:58Z
-  Total Products: 82
 - [Sticker ](https://saraevansstore.merchmadeeasy.com/collections/sticker-): Due to high volume of orders, sticker  products may take up to a week to ship.
-  Updated: 2026-10-22T21:47:48Z
+  Updated: 2026-10-30T11:02:34Z
   Total Products: 157
 - [Born To Fly](https://saraevansstore.merchmadeeasy.com/collections/born-to-fly)
   Updated: 2026-10-22T11:02:58Z
   Total Products: 11
 - [](https://saraevansstore.merchmadeeasy.com/collections/-1)
-  Updated: 2026-09-04T11:02:58Z
+  Updated: 2026-10-26T15:39:56Z
   Total Products: 21
 - [We Got The Beat Tour](https://saraevansstore.merchmadeeasy.com/collections/we-got-the-beat-tour)
   Updated: 2026-10-19T11:02:49Z
@@ -676,8 +688,14 @@
   Updated: 2026-10-22T11:02:58Z
   Total Products: 15
 - [Summer Picks](https://saraevansstore.merchmadeeasy.com/collections/summer-picks)
-  Updated: 2026-10-22T11:02:58Z
+  Updated: 2026-10-29T11:02:39Z
   Total Products: 11
+- [Stocking Stuffers](https://saraevansstore.merchmadeeasy.com/collections/stocking-stuffers)
+  Updated: 2026-10-30T11:02:34Z
+  Total Products: 16
+- [Black Friday ](https://saraevansstore.merchmadeeasy.com/collections/black-friday-)
+  Updated: 2026-10-30T11:02:34Z
+  Total Products: 39
 
 ## Blogs
 
