@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-10-23T01:16:04.830Z
+- Updated At: 2026-10-31T00:35:55.226Z
 
 Welcome to Beavida
 
@@ -75,7 +75,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
   Image: https://cdn.shopify.com/s/files/1/0974/9931/6556/files/love-is-in-the-air-front.jpg?v=1780576667
   Price: €20.95 EUR
 - [Urinary Tea 💧| Bless the Bladder | Beavida](https://beavida.com/products/bless-the-bladder): Going to the loo all the time isn’t fun. Beavida’s Urinary tea Bless the Bladder contains nettle & dandelion when the UT gods are too bossy.
-  Updated: 2026-09-19T20:37:23Z
+  Updated: 2026-10-28T14:21:16Z
   Vendor: Beavida
   Product Type: Tea
   Availability: Available
@@ -184,7 +184,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
 ## Collections
 
 - [New Products](https://beavida.com/collections/new): Our new products ➤ See what's trending in the world of women wellness. No matter what, we've got you covered. It might be exactly what you were waiting for!
-  Updated: 2026-09-11T13:27:53Z
+  Updated: 2026-10-29T11:28:00Z
   Total Products: 10
 - [Bloody Brilliant](https://beavida.com/collections/bloody-brilliant): Menstrual pain keeping you up at night? Beavida’s menstruation teas might bring relief. Join the Bloody Brilliant club to find out more.
   Updated: 2026-09-11T12:38:57Z
@@ -196,7 +196,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
   Updated: 2026-09-11T11:57:50Z
   Total Products: 2
 - [Wellness Warrior](https://beavida.com/collections/wellness-warrior): Our health teas for women can support you with a variety of issues. Check out the herbal teas by Beavida to find your perfect blend.
-  Updated: 2026-09-11T13:27:53Z
+  Updated: 2026-10-29T11:28:00Z
   Total Products: 2
 - [Baby Bloom](https://beavida.com/collections/baby-bloom): The best fertility tea supports your reproductive health in a holistic way. Beavida’s herbal teas for fertility are made for a variety of women.
   Updated: 2026-09-11T13:02:40Z
@@ -205,7 +205,7 @@ We encourage responsible use of this information, ensuring that any outputs gene
   Updated: 2026-09-11T11:15:44Z
   Total Products: 7
 - [Tea](https://beavida.com/collections/tea): Our herbal tea for women is specifically designed with you in mind. At every stage of your life, our loose leaf women's tea blends are here to support you.
-  Updated: 2026-09-11T13:27:53Z
+  Updated: 2026-10-29T11:28:00Z
   Total Products: 11
 - [Courses](https://beavida.com/collections/courses): Holistic online courses for women’s mind & body: reduce stress, boost resilience, learn to love yourself, ease discomfort, and thrive at every stage of life.
   Updated: 2026-09-11T11:15:44Z
