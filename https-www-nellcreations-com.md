@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-10-23T01:09:31.708Z
+- Updated At: 2026-10-31T00:31:00.063Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-desalterant-avril-visage-elegante-bouteille-verre-transparente-554.webp?v=1780330877
   Price: 9,00 € EUR
 - [Sérum lissant Avril bio aux ingrédients naturels](https://www.nellcreations.com/products/serum-lissant-30ml-certifie-bio): Le sérum lissant Avril certifié bio contient des actifs naturels pour le visage. Ce soin atténue les cernes et les poches tout en lissant les traits de la peau.
-  Updated: 2026-10-14T09:44:24Z
+  Updated: 2026-10-30T15:08:25Z
   Vendor: Nellcréations
   Product Type: sérum visage lissant
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-thermo-amincissant-nellcreations-soin-corps-bouteille-cylindrique-450.webp?v=1780331137
   Price: 21,00 € EUR
 - [Bouquet parfumé nuage de coton diffuseur fleur](https://www.nellcreations.com/products/bouquet-parfume-nuage-de-coton): Ce diffuseur de parfum Nellcréations imprègne des tiges de rotin pour libérer une senteur de fleur de coton. Ce flacon assure une diffusion constante et durable.
-  Updated: 2026-10-18T23:00:40Z
+  Updated: 2026-10-27T13:58:46Z
   Vendor: Nellcréations
   Product Type: Diffuseur de parfum
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/parfum-dambiance-nuage-de-coton-nellcreations-flacon-verre-346.webp?v=1780331163
   Price: 15,00 € EUR
 - [Draineur minceur thé pêche élimination naturelle](https://www.nellcreations.com/products/draineur-elimination-arome-the-peche): Ce draineur aux dix extraits de plantes et arôme thé pêche favorise l'élimination de l'eau. Le thé de java et le fenouil soutiennent les fonctions urinaires.
-  Updated: 2026-10-18T22:43:25Z
+  Updated: 2026-10-27T10:07:58Z
   Vendor: Nellcréations
   Product Type: Complément alimentaire
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/boucles-doreilles-poussiere-de-fee-nellcreations-doreilles-resine-778.webp?v=1780330689
   Price: 16,00 € EUR
 - [Pack Minceur aux trois soins cosmétiques raffermissants](https://www.nellcreations.com/products/pack-minceur): Le Pack Minceur Nellcréations contient trois soins ciblés. Le gel raffermissant tonifie la peau. Le thermo amincissant brûle les graisses. Le draineur évacue l'eau.
-  Updated: 2026-10-14T09:40:14Z
+  Updated: 2026-10-27T10:08:08Z
   Vendor: Nellcréations
   Product Type: 
   Availability: Available
@@ -206,25 +206,25 @@
   Updated: 2026-07-21T09:31:26Z
   Total Products: 2
 - [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-10-14T11:31:23Z
+  Updated: 2026-10-24T11:18:41Z
   Total Products: 16
 - [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
-  Updated: 2026-07-21T22:13:31Z
+  Updated: 2026-10-28T11:34:24Z
   Total Products: 3
 - [Nellcréations - Gamme minceur et corps](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
-  Updated: 2026-10-14T09:25:08Z
+  Updated: 2026-10-27T11:39:30Z
   Total Products: 6
 - [Bijoux](https://www.nellcreations.com/collections/nouveaute-chez-nellcreations): Nellcréations propose une collection de bijoux artisanaux incluant des colliers et boucles d’oreilles aux thèmes floraux comme Rosa Rouge ou Jardin Éternel Bleu.
   Updated: 2026-07-21T22:13:35Z
   Total Products: 7
 - [Nellcréations](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
-  Updated: 2026-10-14T09:25:08Z
+  Updated: 2026-10-28T11:34:24Z
   Total Products: 8
 - [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-10-14T11:31:23Z
+  Updated: 2026-10-28T11:34:24Z
   Total Products: 10
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-14T11:31:23Z
+  Updated: 2026-10-28T11:34:24Z
   Total Products: 39
 
 ## Blogs
