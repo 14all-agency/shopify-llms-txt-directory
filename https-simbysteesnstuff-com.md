@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-27T19:41:54Z
 - Contact Email: simbysteesnstuff@gmail.com
-- Updated At: 2026-10-23T01:22:02.532Z
+- Updated At: 2026-10-31T00:46:37.856Z
 
 ## Products
 
@@ -2069,12 +2069,91 @@ Running late? At least you’ll look good doing it.
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/My_Ducks_May-Not_Be_In_A-Row_But_on_sportgray.png?v=1777054741
   Price: $21.99 USD
 - [Easily Distracted by Peckers Funny Chicken Graphic T-Shirt](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt): Easily Distracted by Peckers funny chicken design featuring multiple roosters and hens. Perfect gift for backyard chicken owners and farm humor lovers.
-  Updated: 2026-09-20T15:00:16Z
+  Updated: 2026-10-26T20:52:38Z
   Vendor: SimbysTeesNStuff
   Product Type: T-Shirts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
-  Price: $25.99 USD
+  - [White / S](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819778879)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_White.png?v=1778510249
+    Price: $24.99 USD
+  - [White / M](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819811647)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_White.png?v=1778510249
+    Price: $24.99 USD
+  - [White / L](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819844415)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_White.png?v=1778510249
+    Price: $24.99 USD
+  - [White / XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819877183)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_White.png?v=1778510249
+    Price: $24.99 USD
+  - [White / 2XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819909951)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_White.png?v=1778510249
+    Price: $24.99 USD
+  - [Blossom / S](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819942719)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
+    Price: $24.99 USD
+  - [Blossom / M](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870819975487)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
+    Price: $24.99 USD
+  - [Blossom / L](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820008255)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
+    Price: $24.99 USD
+  - [Blossom / XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820041023)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
+    Price: $24.99 USD
+  - [Blossom / 2XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820073791)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_blossom_38ca0f0b-39ab-460e-94c6-b9924db4777c.png?v=1778510262
+    Price: $24.99 USD
+  - [Blue Jean / S](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820106559)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_bluejean.png?v=1778510259
+    Price: $24.99 USD
+  - [Blue Jean / M](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820139327)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_bluejean.png?v=1778510259
+    Price: $24.99 USD
+  - [Blue Jean / L](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820172095)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_bluejean.png?v=1778510259
+    Price: $24.99 USD
+  - [Blue Jean / XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820204863)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_bluejean.png?v=1778510259
+    Price: $24.99 USD
+  - [Blue Jean / 2XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820237631)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_bluejean.png?v=1778510259
+    Price: $24.99 USD
+  - [Ivory / S](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820270399)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_Ivory.png?v=1778510253
+    Price: $24.99 USD
+  - [Ivory / M](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820303167)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_Ivory.png?v=1778510253
+    Price: $24.99 USD
+  - [Ivory / L](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820335935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_Ivory.png?v=1778510253
+    Price: $24.99 USD
+  - [Ivory / XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820368703)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_Ivory.png?v=1778510253
+    Price: $24.99 USD
+  - [Ivory / 2XL](https://simbysteesnstuff.com/products/easily-distracted-by-peckers-graphic-t-shirt?variant=67870820401471)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0939/0460/1407/files/Easily_Distracted_By_Peckers_Graphic_T-Shirt_on_Ivory.png?v=1778510253
+    Price: $24.99 USD
 [List Continued](https://simbysteesnstuff.com/a/llms-agent/llms.txt?shop=fs1bpt-iy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDI2NTU3NjM3NDU5MSwibGFzdF92YWx1ZSI6IjEwMjY1NTc2Mzc0NTkxIn0%3D)
 
 ## Collections
@@ -2083,17 +2162,17 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-10-11T14:33:32Z
   Total Products: 17
 - [Women’s Collection of Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/women): Shop bold and trendy women’s graphic t-shirts and sweatshirts. Soft, stylish, and made to express your mood—find your new favorite graphic top today.
-  Updated: 2026-10-22T21:27:47Z
-  Total Products: 415
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 421
 - [Men’s Graphic Tees, T-Shirts & Sweatshirts – Built for Self-Expression](https://simbysteesnstuff.com/collections/men): Shop men’s graphic tees, t-shirts, and sweatshirts designed for bold style and everyday comfort. Streetwear-inspired pieces made for self-expression.
-  Updated: 2026-10-19T13:41:21Z
-  Total Products: 125
+  Updated: 2026-10-27T23:28:30Z
+  Total Products: 126
 - [Sarcastic Graphic T-Shirts — Bold, Witty & Funny Styles](https://simbysteesnstuff.com/collections/quotes-sayings): Shop sarcastic graphic tees with passive-aggressive quotes, funny humor, and brutally honest sayings made for bold personalities who stand out.
   Updated: 2026-10-21T22:00:08Z
   Total Products: 65
 - [Holiday Graphic T-Shirts & Sweatshirts Collection](https://simbysteesnstuff.com/collections/holidays): Shop holiday graphic t-shirts and sweatshirts for Christmas, Halloween, Easter, Thanksgiving, and more. Festive styles for every season.
-  Updated: 2026-10-20T22:02:47Z
-  Total Products: 227
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 228
 - [Shop By Theme](https://simbysteesnstuff.com/collections/shop-by-theme): Browse graphic tees and sweatshirts organized by theme. Find the perfect design for your style at Simby's Tees N Stuff.
   Updated: 2026-10-06T21:55:30Z
   Total Products: 1
@@ -2101,11 +2180,11 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-08-15T20:20:22Z
   Total Products: 2
 - [Graphic T-Shirts & Sweatshirts for Adults — Attitude & Humor](https://simbysteesnstuff.com/collections/adults-only): Shop Adults Only graphic tees and sweatshirts with bold humor, edgy attitude, and unapologetic designs made for adults who love to stand out.
-  Updated: 2026-10-22T21:45:24Z
-  Total Products: 69
+  Updated: 2026-10-27T23:45:00Z
+  Total Products: 70
 - [Witchy Vibes Collection of Graphic Apparel](https://simbysteesnstuff.com/collections/witchy-vibes): Channel your inner magic with our Witchy Vibes Collection of t-shirts— where mystical meets modern. Whether you're into moon phases, tarot cards or crystals .
-  Updated: 2026-10-22T22:00:56Z
-  Total Products: 16
+  Updated: 2026-10-23T22:30:56Z
+  Total Products: 19
 - [4/20 Graphic T-Shirts & High Vibes Sweatshirts](https://simbysteesnstuff.com/collections/4-20-): Shop 4/20 graphic tees and sweatshirts designed for the chill, the bold, and the unapologetically elevated. Funny -inspired styles for every mood.
   Updated: 2026-09-18T21:52:26Z
   Total Products: 2
@@ -2119,8 +2198,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-10-19T15:19:56Z
   Total Products: 65
 - [New Releases - T-Shirts, Sweatshirts & More](https://simbysteesnstuff.com/collections/new-releases): Shop our latest new releases featuring fresh graphic tees, sweatshirts, tumblers, mugs, and wind spinners with trendy designs and bold style.
-  Updated: 2026-10-22T22:00:56Z
-  Total Products: 461
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 249
 - [Tester Tees & Tumblers  – One-of-a-Kind Samples](https://simbysteesnstuff.com/collections/ready-to-ship-ts): Unique tester shirts featuring sample prints and one-off designs. Ready to ship with possible minor imperfections noted in listing.
   Updated: 2026-07-27T12:25:13Z
   Total Products: 5
@@ -2134,8 +2213,8 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-09-04T14:12:44Z
   Total Products: 9
 - [Christmas T-Shirts & Cozy Sweatshirts Collection](https://simbysteesnstuff.com/collections/christmas): Shop our Christmas Collection of graphic t-shirts & cozy sweatshirts! Perfect for holiday parties, gifts & festive cheer. Available for men, women & kids.
-  Updated: 2026-10-19T15:20:44Z
-  Total Products: 160
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 161
 - [Awareness Collection of Graphic Apparel](https://simbysteesnstuff.com/collections/awareness): Shop awareness graphic tees and sweatshirts supporting cancer, mental health, suicide prevention, and more. Wear your support and inspire change.
   Updated: 2026-10-11T14:22:58Z
   Total Products: 12
@@ -2149,16 +2228,16 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-10-22T21:45:24Z
   Total Products: 39
 - [Shop All](https://simbysteesnstuff.com/collections/front-page): Simby's Tees N Stuff is your ultimate destination for cool graphic tees, sweatshirts & accessories. Bold prints, clever sayings & quality styles that stand out.
-  Updated: 2026-10-22T22:00:56Z
-  Total Products: 587
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 597
 - [Wind Spinners](https://simbysteesnstuff.com/collections/wind-spinners): Bring your outdoor space to life with our beautifully crafted 10" wind spinners, designed to add movement, color, and personality to any garden, patio, or porch. Made from durable stainless steel, these decorative spinners are built to withstand the elements while creating a mesmerizing display as they catch the breeze and sunlight. Each wind spinner features vibrant artwork and intricate designs that reflect light beautifully, creating a stunning visual effect from every angle. Whether you're decorating your backyard, flower beds, front porch, or gifting one to someone who loves unique outdoor décor, these spinners make the perfect statement piece. Easy to hang and designed for lasting beauty, our stainless steel wind spinners are a simple way to add charm and character to your outdoor décor. Perfect for year-round display, they make thoughtful gifts for birthdays, holidays, housewarmings, or anyone who enjoys adding a little magic and motion to their space.
   Updated: 2026-09-04T14:12:44Z
   Total Products: 1
 - [Animal Collection of Graphic T-Shirts & Sweatshirts](https://simbysteesnstuff.com/collections/animals-graphic-apparel): Shop animal graphic t-shirts and cozy sweatshirts featuring dogs, cats, cows, chickens & more. Soft, fun designs for pet lovers & farm fans!
-  Updated: 2026-10-22T22:00:56Z
-  Total Products: 256
+  Updated: 2026-10-30T23:10:35Z
+  Total Products: 264
 - [Thanksgiving Graphic Tees & Cozy Sweatshirt Collection](https://simbysteesnstuff.com/collections/thanksgiving-themed-apparel): Shop festive Thanksgiving shirts, fall graphic tees & cozy sweatshirts. Perfect for family gatherings, Friendsgiving, or gifting this holiday season!
-  Updated: 2026-10-20T22:02:47Z
+  Updated: 2026-10-27T11:23:35Z
   Total Products: 13
 - [St. Patrick's Day T-Shirt and Sweatshirt Collection](https://simbysteesnstuff.com/collections/st-patricks-day): Shop St. Patrick's Day graphic tees and sweatshirts with fun, festive designs. Celebrate in style with bold green looks from Simby's Tees N Stuff.
   Updated: 2026-10-11T14:29:25Z
@@ -2194,7 +2273,7 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-10-05T11:17:20Z
   Total Products: 8
 - [Highland Cow Collection T-Shirts &  More](https://simbysteesnstuff.com/collections/highland-cow-collection-t-shirts-more): Shop Highland cow graphic tees for kids & adults. Soft, cute farm animal designs pressed to order. Find your moo-worthy style at SimbysTeesNStuff.
-  Updated: 2026-10-13T12:36:48Z
+  Updated: 2026-10-26T11:23:40Z
   Total Products: 82
 - [Toddler Graphic T-Shirts & Sweatshirts Collection](https://simbysteesnstuff.com/collections/toddler-graphic-t-shirts-sweatshirts-collection): Shop toddler graphic tees & sweatshirts with playful, colorful designs. Pressed to order on soft, comfy blanks. Perfect for gifting or everyday wear.
   Updated: 2026-10-13T12:38:06Z
@@ -2218,11 +2297,11 @@ Running late? At least you’ll look good doing it.
   Updated: 2026-10-16T14:46:03Z
   Total Products: 30
 - [Cat Collection](https://simbysteesnstuff.com/collections/cat-collection): Shop cat graphic tees with watercolor cats, vintage florals, cottagecore charm, and playful sayings. Find your favorite or a gift for a cat lover.
-  Updated: 2026-10-22T22:00:56Z
-  Total Products: 29
+  Updated: 2026-10-23T22:30:56Z
+  Total Products: 32
 - [Decorative Kitchen Towels](https://simbysteesnstuff.com/collections/decorative-kitchen-towels): Shop decorative kitchen towels with sourdough humor, cozy winter designs, and festive cocktail recipes. Find charming accents and thoughtful gifts.
-  Updated: 2026-10-22T11:43:02Z
-  Total Products: 7
+  Updated: 2026-10-29T12:52:35Z
+  Total Products: 9
 
 ## Blogs
 
@@ -2295,7 +2374,7 @@ Running late? At least you’ll look good doing it.
 ## Policies
 
 - [Privacy Policy](https://simbysteesnstuff.com/policies/privacy-policy)
-  Updated: 2025-04-27T19:42:05Z
+  Updated: 2026-10-30T08:54:32Z
 - [Shipping Policy](https://simbysteesnstuff.com/policies/shipping-policy)
   Updated: 2026-08-01T22:19:35Z
 - [Refund Policy](https://simbysteesnstuff.com/policies/refund-policy)
