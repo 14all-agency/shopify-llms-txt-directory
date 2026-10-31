@@ -8,23 +8,23 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2024-11-13T07:18:54Z
 - Contact Email: sales@hqickey.com
-- Updated At: 2026-10-23T01:23:08.544Z
+- Updated At: 2026-10-31T00:50:51.376Z
 
 Shop original electronic components, integrated circuits & semiconductors at HQICKEY. 100% authentic parts, support small batch orders, quick global delivery from US/Singapore warehouses. Buy ICs, FPGAs, AI chips online - fast shipping & low MOQ!
 
 ## Collections
 
 - [FPGAs - Field Programmable Gate Array ICs for High-Speed Processing](https://hqickey.com/collections/fpgas-field-programmable-gate-array): High-reliability FPGAs for aerospace, automotive, telecom & industrial applications. Reconfigurable ICs for real-time control, data processing & hardware customization.
-  Updated: 2026-10-21T10:39:46Z
+  Updated: 2026-10-27T01:59:10Z
   Total Products: 23139
 - [Microcontrollers (MCU) – How to Choose the Right IC](https://hqickey.com/collections/microcontrollers): Browse microcontrollers for embedded systems, IoT, industrial control and battery devices. Compare MCU types and choose the right chip for your project.
-  Updated: 2026-10-20T12:00:42Z
+  Updated: 2026-10-23T09:39:35Z
   Total Products: 28872
 - [Microprocessors - High-Performance CPU ICs for Industrial & Embedded Systems](https://hqickey.com/collections/microprocessors): Industrial-grade microprocessors with external memory architecture for multi-tasking OS support. Compare MPU vs MCU designs for aerospace, automotive & computing applications.
-  Updated: 2026-10-17T03:32:44Z
+  Updated: 2026-10-26T13:23:12Z
   Total Products: 5622
 - [System On Chip (SoC) - Integrated Circuits for Embedded Systems](https://hqickey.com/collections/system-on-chip-soc): Explore high-performance System-on-Chip (SoC) solutions combining microprocessors, FPGA co-processors & graphics controllers for AI acceleration, edge computing, and embedded applications.
-  Updated: 2026-10-10T01:59:43Z
+  Updated: 2026-10-30T00:16:14Z
   Total Products: 5411
 - [CPLDs (Complex Programmable Logic Devices) - Industrial Control & Embedded Systems](https://hqickey.com/collections/cplds-complex-programmable-logic-devices): Shop high-reliability CPLDs for industrial control, automotive & embedded systems. Non-volatile configuration, instant boot, low power. Aerospace-grade quality from trusted manufacturers.
   Updated: 2026-07-13T12:01:37Z
@@ -51,7 +51,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-20T06:49:17Z
   Total Products: 1450
 - [High-Reliability Controllers & Protocol Bridge ICs](https://hqickey.com/collections/controllers): Premium controllers and protocol bridge ICs for aerospace, automotive, industrial, and  applications. Multi-interface I2C/UART/SPI/USB/Ethernet converters for IoT connectivity.
-  Updated: 2026-10-20T08:07:04Z
+  Updated: 2026-10-30T11:19:02Z
   Total Products: 3245
 - [Direct Digital Synthesis (DDS) ICs - High-Precision Frequency Generation](https://hqickey.com/collections/direct-digital-synthesis-dds): Premium DDS ICs with 14-bit resolution for 1GHz-3GHz frequency generation. High-reliability direct digital synthesis solutions for aerospace, radar & wireless systems.
   Updated: 2026-08-07T05:30:51Z
@@ -78,7 +78,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:26:34Z
   Total Products: 1086
 - [Modem ICs & Communication Modules - High-Reliability Signal Processing](https://hqickey.com/collections/modems-ics-and-modules): High-reliability modem ICs supporting 15+ protocols (V.22, V.32, Bell 103/212A) with baud rates to 200k. Engineered for aerospace, industrial & telecom applications.
-  Updated: 2026-07-11T15:51:26Z
+  Updated: 2026-10-23T13:31:57Z
   Total Products: 301
 - [Terminal Block Interface Modules – High-Density Signal Distribution](https://hqickey.com/collections/modules): Shop terminal block interface modules for seamless high-density to low-density signal conversion. Ideal for aerospace, automotive, industrial &  applications.
   Updated: 2026-08-11T11:18:49Z
@@ -87,7 +87,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-08-31T13:03:50Z
   Total Products: 1273
 - [Capacitive Touch Sensor ICs](https://hqickey.com/collections/sensor-capacitive-touch): Premium capacitive touch interface ICs for seamless MCU integration. Precision AFE, digital protocols, low-power operation for industrial,  & automotive HMI.
-  Updated: 2026-07-11T15:43:33Z
+  Updated: 2026-10-25T09:03:03Z
   Total Products: 466
 - [Serializer & Deserializer ICs (SerDes)](https://hqickey.com/collections/serializers-deserializers): High-performance SerDes ICs for aerospace, automotive,  imaging & industrial systems. Minimize cabling complexity with robust parallel-to-serial data conversion at elevated symbol rates.
   Updated: 2026-07-13T12:26:44Z
@@ -132,16 +132,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-08-22T05:33:01Z
   Total Products: 2039
 - [ADCs/DACs - Special Purpose Converters](https://hqickey.com/collections/adcs-dacs-special-purpose): Specialized ADCs & DACs for ultrasound imaging, automotive radar & industrial systems. Integrated low-noise amplifiers, galvanic isolation & display drivers. Authorized distributor.
-  Updated: 2026-10-08T10:57:42Z
-  Total Products: 2640
+  Updated: 2026-10-26T14:31:15Z
+  Total Products: 2623
 - [Analog Front-End ICs (AFE) - Precision Signal Conditioning Solutions](https://hqickey.com/collections/analog-front-end-afe): High-precision AFE ICs with 8-42 bit resolution, 1-256 channels for industrial sensors, automotive BMS,  devices & IoT. Integrated PGA, filters & ADC/DAC solutions.
   Updated: 2026-09-30T05:19:56Z
   Total Products: 770
 - [Analog-to-Digital Converters (ADC) - High-Speed Data Conversion ICs](https://hqickey.com/collections/analog-to-digital-converters-adc): High-performance ADCs for automotive LiDAR,  imaging & industrial sensors. SAR, Sigma-Delta & pipelined architectures with ultra-low noise, multi-channel inputs & kSPS-GSPS sampling.
-  Updated: 2026-10-20T07:50:10Z
+  Updated: 2026-10-24T09:50:18Z
   Total Products: 5743
 - [Digital Potentiometers - Precision Electronic Control ICs](https://hqickey.com/collections/digital-potentiometers): Shop HQICKEY digital potentiometers for precision resistance control. SPI/I2C programmable digipots for audio, industrial,  & automotive applications. Expert support.
-  Updated: 2026-09-20T14:44:05Z
+  Updated: 2026-10-24T09:52:50Z
   Total Products: 4154
 - [High-Resolution Digital to Analog Converters (DAC)](https://hqickey.com/collections/digital-to-analog-converters-dac): Shop high-resolution DACs for aerospace, automotive, industrial &  applications. 8-bit to 32-bit precision, fast settling, low power. Expert support available.
   Updated: 2026-10-04T08:13:21Z
@@ -153,7 +153,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-10-02T09:37:36Z
   Total Products: 2488
 - [Precision Instrumentation & Operational Amplifiers](https://hqickey.com/collections/instrumentation-op-amps-buffer-amps): Shop precision instrumentation amplifiers, zero-drift op amps & current feedback ICs. Ultra-low noise, high CMRR for , industrial & test equipment. Expert support.
-  Updated: 2026-10-22T02:29:18Z
+  Updated: 2026-10-24T12:14:21Z
   Total Products: 28156
 - [Special Purpose & Application-Specific Amplifiers](https://hqickey.com/collections/special-purpose-amplifiers): Shop special purpose linear amplifiers with integrated voltage references, comparators & filters. Application-specific ICs for photodiode, transimpedance & RMS conversion.
   Updated: 2026-09-19T05:22:59Z
@@ -183,10 +183,10 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-12T03:13:48Z
   Total Products: 2786
 - [Flip-Flop ICs - D, SR, JK & T Type Digital Logic Circuits](https://hqickey.com/collections/flip-flops): High-performance flip-flop ICs for edge-triggered logic, data storage & clock synchronization. D, SR, JK, T types with fast switching speeds for digital systems.
-  Updated: 2026-10-16T12:39:04Z
+  Updated: 2026-10-23T09:00:02Z
   Total Products: 5446
 - [Gates and Inverters](https://hqickey.com/collections/gates-and-inverters): Premium logic gates and inverters for aerospace, automotive, and industrial applications. Fast Boolean operations, multiple logic families, RoHS compliant. Expert support available.
-  Updated: 2026-10-21T03:02:20Z
+  Updated: 2026-10-24T12:00:40Z
   Total Products: 13212
 - [Configurable Multi-Function Logic Gates & Inverters](https://hqickey.com/collections/gates-and-inverters-multi-function-configurable): Shop configurable multi-function logic gates with programmable AND, NAND, OR, NOR, XOR operations. Flexible input selection, unused input management. For adaptive digital design.
   Updated: 2026-07-13T12:31:06Z
@@ -222,17 +222,17 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:32:50Z
   Total Products: 244
 - [Memory Semiconductor Devices - EEPROM, Flash, DRAM & SRAM Solutions](https://hqickey.com/collections/memory): High-reliability memory semiconductors including EEPROM, Flash, DRAM & SRAM. 64b-6Tb capacity with I2C, SPI, Parallel interfaces for aerospace, automotive & industrial applications.
-  Updated: 2026-10-20T02:56:32Z
+  Updated: 2026-10-26T21:03:34Z
   Total Products: 54444
 - [Specialized ICs - Application-Specific Integrated Circuits for Industrial Systems](https://hqickey.com/collections/specialized-ics): Shop application-specific ICs (ASICs) for addressable switches, authentication, audio/video control, clock generation. Industrial-grade, long lifecycle, AEC-Q100 .
-  Updated: 2026-10-22T02:17:51Z
+  Updated: 2026-10-30T00:12:58Z
   Total Products: 2630
 - [FPGAs with Microcontrollers - Configurable Logic & ARM Cores](https://hqickey.com/collections/fpgas-field-programmable-gate-array-with-microcontrollers): High-reliability FPGAs with integrated microcontrollers featuring ARM9 and AVR cores, configurable logic blocks, and programmable interconnects for aerospace, automotive, and industrial applications.
   Updated: 2026-08-01T11:10:00Z
   Total Products: 61
 - [AC DC Converters & Offline Switchers - High-Reliability Power Solutions](https://hqickey.com/collections/ac-dc-converters-offline-switchers): High-reliability AC to DC converters and offline switchers for aerospace, automotive, industrial &  applications. Precision control, isolation, and SMPS integration.
-  Updated: 2026-09-24T01:10:42Z
-  Total Products: 4383
+  Updated: 2026-10-26T13:05:37Z
+  Total Products: 2245
 - [Battery Charger ICs & PMICs - Multi-Cell Charging Solutions](https://hqickey.com/collections/battery-chargers): High-reliability battery charger ICs and PMICs for aerospace, automotive, and industrial applications. Multi-chemistry support, precision regulation, and integrated safety features.
   Updated: 2026-10-22T02:19:13Z
   Total Products: 1370
@@ -255,7 +255,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:38:07Z
   Total Products: 1324
 - [Gate Driver ICs - FET & IGBT Power Conversion Solutions](https://hqickey.com/collections/gate-drivers): High-reliability gate driver ICs for MOSFETs and IGBTs. Integrated isolation, fast switching, bootstrap functionality. Ideal for motor drives, inverters, and power supplies in aerospace, automotive & industrial applications.
-  Updated: 2026-10-13T05:33:35Z
+  Updated: 2026-10-23T08:01:36Z
   Total Products: 6010
 - [Hot Swap Controllers - PMIC In-Circuit Protection ICs](https://hqickey.com/collections/hot-swap-controllers): Authentic Hot Swap Controller ICs for safe live power insertion/removal. Multi-channel, auto-retry, fault protection. Ideal for servers, networking, industrial systems. Fast shipping.
   Updated: 2026-10-04T09:59:28Z
@@ -264,7 +264,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-10-22T03:22:49Z
   Total Products: 413
 - [LED Drivers](https://hqickey.com/collections/led-drivers): Premium LED Driver PMICs for aerospace, automotive, and industrial applications. Precision current regulation, advanced dimming, thermal protection. High-reliability components.
-  Updated: 2026-10-04T11:39:09Z
+  Updated: 2026-10-25T08:58:32Z
   Total Products: 6827
 - [Non-LED Lighting Control ICs - Fluorescent, HID & Electroluminescent Ballast Controllers](https://hqickey.com/collections/lighting-ballast-controllers): Premium non-LED lighting control ICs for fluorescent, HID, and electroluminescent applications. High-reliability ballast controllers with precision regulation, dimming control, and protection features for industrial and commercial lighting systems.
   Updated: 2026-09-26T08:58:16Z
@@ -306,8 +306,8 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T00:16:11Z
   Total Products: 127
 - [DC-DC Switching Regulators - High-Efficiency Voltage Conversion ICs](https://hqickey.com/collections/voltage-regulators-dc-dc-switching-regulators): Shop integrated DC-DC switching regulator PMICs for precise voltage stabilization & conversion. Automotive-grade, industrial-temp options for aerospace,  & embedded systems.
-  Updated: 2026-10-21T10:54:58Z
-  Total Products: 35023
+  Updated: 2026-10-24T17:33:41Z
+  Total Products: 7413
 - [Hybrid Voltage Regulators - Linear & Switching DC-DC Converters](https://hqickey.com/collections/voltage-regulators-linear-switching): Premium hybrid voltage regulators combining switch-mode efficiency with linear precision. Ideal for industrial, automotive,  & telecom applications. Expert support available.
   Updated: 2026-09-13T12:09:04Z
   Total Products: 1352
@@ -315,7 +315,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:47:51Z
   Total Products: 283
 - [Linear Voltage Regulators & LDO Regulators - Low-Noise Power Solutions](https://hqickey.com/collections/voltage-regulators-linear-low-drop-out-ldo-regulators): High-performance linear voltage regulators & LDO regulators for , telecom & industrial applications. Low-noise, stable output, wide voltage range. Shop precision power solutions.
-  Updated: 2026-10-20T02:25:59Z
+  Updated: 2026-10-23T06:02:05Z
   Total Products: 19796
 - [Voltage Reference](https://hqickey.com/collections/voltage-reference-1): Premium voltage reference ICs for measurement, calibration & control systems. Ultra-low drift, high accuracy, industrial & automotive grades. Expert technical support available.
   Updated: 2026-10-08T23:32:25Z
@@ -327,17 +327,17 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-08-18T10:31:11Z
   Total Products: 37
 - [NXP Semiconductors](https://hqickey.com/collections/nxp-usa-inc): Premium NXP semiconductor components: automotive ADAS, industrial MCUs, NFC secure elements, 5G RF power. Full specs, traceability, long lifecycle support.
-  Updated: 2026-10-20T12:12:30Z
+  Updated: 2026-10-26T12:27:21Z
   Total Products: 21808
 - [Microchip Technology ICs - Atmel, Microsemi, Micrel & SST Components](https://hqickey.com/collections/microchip-technology): Authorized Microchip Technology distributor. Atmel MCUs, Microsemi FPGAs, Micrel power ICs, SMSC controllers, SST memory. RoHS compliant, full traceability, global shipping.
-  Updated: 2026-10-20T11:57:25Z
+  Updated: 2026-10-30T11:19:02Z
   Total Products: 63490
 - [Renesas Semiconductors - IDT, Celeno & Renesas Electronics ICs](https://hqickey.com/collections/renesas): Premium Renesas semiconductors including IDT, Celeno & Renesas Electronics components. CPLDs, FPGAs, microcontrollers, memory & timing ICs with full traceability.
-  Updated: 2026-10-22T02:19:13Z
+  Updated: 2026-10-26T12:50:20Z
   Total Products: 54214
 - [Infineon Technologies, Cypress Semiconductor & International Rectifier Components](https://hqickey.com/collections/infineon-technologies): Authorized distributor of Infineon Technologies, Cypress Semiconductor Corp, and International Rectifier components. Full traceability, RoHS/REACH compliant power ICs, FPGAs, and memory solutions.
-  Updated: 2026-10-21T08:23:08Z
-  Total Products: 26038
+  Updated: 2026-10-26T12:42:07Z
+  Total Products: 26036
 - [Cypress Semiconductor Corp - Infineon Memory ICs, PSoC & Power Management](https://hqickey.com/collections/cypress-semiconductor-corp): Authorized distributor of Cypress Semiconductor Corp (Infineon) memory ICs, PSoC microcontrollers, USB controllers & power management solutions. RoHS compliant, full traceability.
   Updated: 2026-10-20T09:54:41Z
   Total Products: 3717
@@ -351,22 +351,22 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-10-03T10:40:28Z
   Total Products: 310
 - [Micrel Inc. Power Management ICs & Voltage Regulators - High-Reliability Solutions](https://hqickey.com/collections/micrel-inc): Authorized Micrel Inc. distributor offering LDO regulators, power management ICs & analog components. Full traceability, RoHS compliance, long lifecycle support for industrial applications.
-  Updated: 2026-10-11T05:01:47Z
+  Updated: 2026-10-24T07:03:47Z
   Total Products: 605
 - [Atmel Microcontrollers & Secure Authentication ICs](https://hqickey.com/collections/atmel): Shop authentic Atmel AVR microcontrollers, CryptoAuthentication ICs & secure memory. Authorized distributor with full traceability, RoHS compliance & design support for embedded systems.
-  Updated: 2026-10-20T09:21:54Z
+  Updated: 2026-10-23T08:37:44Z
   Total Products: 339
 - [Microsemi Corporation FPGAs, Power Management ICs & Timing Solutions](https://hqickey.com/collections/microsemi-corporation): Authorized Microsemi Corporation distributor offering FPGAs, power management ICs, timing solutions & analog components. Full traceability, MIL-STD compliance, long lifecycle support.
-  Updated: 2026-10-11T03:16:50Z
+  Updated: 2026-10-24T08:05:11Z
   Total Products: 1383
 - [STMicroelectronics Components - Authorized Distributor | HQICKEY](https://hqickey.com/collections/stmicroelectronics): Authorized distributor of STMicroelectronics components. Full traceability, RoHS/REACH compliant. Power management ICs, EEPROMs, automotive-grade semiconductors in stock.
-  Updated: 2026-10-21T02:58:04Z
+  Updated: 2026-10-30T11:19:02Z
   Total Products: 16511
 - [ONSEMI, Qorvo, Fairchild & Catalyst Semiconductors - Authorized Stock](https://hqickey.com/collections/onsemi): Authorized distributor of ONSEMI, Qorvo, Fairchild, Catalyst & AMI semiconductors. Full traceability, RoHS/REACH compliant. Power ICs, RF components, memory solutions in stock.
-  Updated: 2026-10-22T02:25:21Z
+  Updated: 2026-10-26T13:04:08Z
   Total Products: 31908
 - [VISHAY Components - Semiconductor, Opto, Passive & Power Solutions](https://hqickey.com/collections/vishay): Authorized VISHAY distributor offering Semiconductor Opto Division, Vitramon, Sprague, Siliconix & Sfernice components. Full traceability, RoHS compliance & lifecycle support.
-  Updated: 2026-10-03T12:48:27Z
+  Updated: 2026-10-24T09:12:57Z
   Total Products: 1383
 - [Vishay Semiconductor Opto Division - Optocouplers, Photodiodes & IR Components](https://hqickey.com/collections/vishay-semiconductor-opto-division): Authorized distributor of Vishay Semiconductor Opto Division optocouplers, photodiodes, IR emitters & optical sensors. Full traceability, RoHS compliance & long lifecycle support.
   Updated: 2026-07-13T12:28:40Z
@@ -378,7 +378,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-16T15:06:42Z
   Total Products: 1
 - [Vishay Siliconix Power Management ICs & MOSFETs](https://hqickey.com/collections/vishay-siliconix): Shop authentic Vishay Siliconix power management ICs, MOSFETs & analog switches. Authorized distributor with full traceability, RoHS compliance & global shipping.
-  Updated: 2026-10-03T12:48:27Z
+  Updated: 2026-10-24T09:12:57Z
   Total Products: 1375
 - [Vishay Sfernice Components - Precision Resistors & Sensors](https://hqickey.com/collections/vishay-sfernice): Authorized distributor of Vishay Sfernice precision resistors, sensors, and high-reliability components. Full traceability, RoHS/REACH compliant. Shop genuine Vishay Sfernice products.
   Updated: 2026-09-16T15:04:33Z
@@ -387,7 +387,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T05:59:36Z
   Total Products: 1
 - [3PEAK Integrated Circuits - Power Management ICs, Audio Amplifiers & Analog Solutions](https://hqickey.com/collections/3peak): Authorized 3PEAK distributor offering power management ICs, Class-D audio amplifiers, ADCs & analog solutions. RoHS compliant, full traceability, global shipping. Shop now at HQICKEY.
-  Updated: 2026-10-12T10:12:02Z
+  Updated: 2026-10-26T12:29:00Z
   Total Products: 881
 - [4D Systems Pty Ltd - Display Modules & Embedded Solutions | HQICKEY](https://hqickey.com/collections/4d-systems-pty-ltd): Authorized distributor of 4D Systems Pty Ltd intelligent display modules, touch screens, and embedded graphics solutions. RoHS compliant, long lifecycle support. Global shipping available.
   Updated: 2026-07-11T07:23:18Z
@@ -396,7 +396,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T21:59:30Z
   Total Products: 2
 - [ABLIC Inc Semiconductor Components - High-Reliability ICs](https://hqickey.com/collections/ablic-inc): Authorized ABLIC Inc distributor. High-reliability voltage detectors, power management ICs, RTCs & sensor interfaces. Full traceability, RoHS compliant, long lifecycle.
-  Updated: 2026-10-20T08:25:29Z
+  Updated: 2026-10-24T09:13:59Z
   Total Products: 18847
 - [Abracon LLC Components - Crystals, Oscillators & Timing Solutions](https://hqickey.com/collections/abracon-llc): Shop authentic Abracon LLC crystals, oscillators, and timing components. RoHS compliant, full traceability, long lifecycle support. Authorized distributor.
   Updated: 2026-09-18T04:41:20Z
@@ -432,16 +432,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T16:00:02Z
   Total Products: 2
 - [Allegro MicroSystems Sensors & Power ICs](https://hqickey.com/collections/allegro-microsystems): Shop authentic Allegro MicroSystems Hall-effect sensors, current sensors, and motor drivers. AEC-Q100 qualified, RoHS compliant. Authorized distributor with full traceability.
-  Updated: 2026-10-08T10:37:37Z
+  Updated: 2026-10-23T13:31:14Z
   Total Products: 797
 - [Alliance Memory DRAM, SRAM & Flash Memory Solutions](https://hqickey.com/collections/alliance-memory-inc): Authorized Alliance Memory distributor offering DRAM, SRAM, Flash ICs for industrial, automotive,  applications. Long lifecycle, RoHS compliant, full traceability.
-  Updated: 2026-09-16T21:07:53Z
+  Updated: 2026-10-26T00:47:08Z
   Total Products: 1628
 - [Alpha & Omega Semiconductor Inc. - High-Performance Power Management ICs & MOSFETs](https://hqickey.com/collections/alpha-omega-semiconductor-inc): Authorized distributor of Alpha & Omega Semiconductor power management ICs, MOSFETs, IGBTs. RoHS compliant, full traceability, long lifecycle support for industrial applications.
-  Updated: 2026-10-16T12:11:48Z
+  Updated: 2026-10-24T12:20:46Z
   Total Products: 582
 - [Altera FPGAs & Programmable Logic Devices](https://hqickey.com/collections/altera): Authorized Altera FPGA & CPLD distributor. Genuine programmable logic devices with full traceability, RoHS compliance & long lifecycle support for critical applications.
-  Updated: 2026-10-20T07:32:20Z
+  Updated: 2026-10-27T01:59:10Z
   Total Products: 14352
 - [Amazing Semiconductor Components - High-Performance ICs & Power Management Solutions](https://hqickey.com/collections/amazing): Shop authentic Amazing semiconductor components, power management ICs, and precision analog devices. Authorized distributor with full traceability, RoHS compliance, and expert support.
   Updated: 2026-09-17T12:43:10Z
@@ -450,7 +450,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T18:20:08Z
   Total Products: 22
 - [AMD Semiconductor Components - High-Performance ICs & FPGAs](https://hqickey.com/collections/amd): Authorized AMD semiconductor distributor. High-reliability ICs, FPGAs, memory, data converters with full traceability, RoHS compliance & long lifecycle support.
-  Updated: 2026-10-10T01:59:43Z
+  Updated: 2026-10-30T00:16:14Z
   Total Products: 6489
 - [American Bright Optoelectronics Corporation - LED Components & Displays](https://hqickey.com/collections/american-bright-optoelectronics-corporation): Authorized distributor of American Bright Optoelectronics LED components, displays, and optoelectronic solutions. Full traceability, RoHS/REACH compliant. Global shipping available.
   Updated: 2026-09-30T07:44:43Z
@@ -471,7 +471,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T22:05:08Z
   Total Products: 2
 - [ams-OSRAM USA INC. High-Reliability Semiconductor Components](https://hqickey.com/collections/ams-osram-usa-inc): Shop authentic ams-OSRAM USA INC. optoelectronics, sensors & power ICs. Authorized distributor with full traceability, RoHS compliance & long lifecycle support.
-  Updated: 2026-10-10T12:25:03Z
+  Updated: 2026-10-23T13:29:02Z
   Total Products: 1003
 - [Amulet Technologies LLC - Intelligent Graphic Display Controllers & LCD Solutions](https://hqickey.com/collections/amulet-technologies-llc): Buy Amulet Technologies LLC graphic display controllers & LCD solutions. Authorized distributor offering intelligent HMI controllers, touch displays, industrial-grade components with full traceability & technical support.
   Updated: 2026-07-13T11:57:08Z
@@ -480,16 +480,16 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-19T08:56:42Z
   Total Products: 27
 - [Analog Devices Inc. High-Performance Analog & Mixed-Signal ICs](https://hqickey.com/collections/analog-devices-inc): Authorized distributor of Analog Devices Inc. high-performance analog, mixed-signal ICs. ADCs, DACs, amplifiers, power management. RoHS compliant, full traceability, global shipping.
-  Updated: 2026-10-22T02:27:11Z
+  Updated: 2026-10-26T14:30:12Z
   Total Products: 50768
 - [Analog Devices Inc./Maxim Integrated - High-Reliability Semiconductor Components](https://hqickey.com/collections/analog-devices-inc-maxim-integrated): Shop authentic Analog Devices Inc./Maxim Integrated semiconductors: ADCs, DACs, power management ICs, amplifiers. Full traceability, RoHS compliance, global shipping. Authorized distributor.
-  Updated: 2026-10-20T12:19:20Z
-  Total Products: 37539
+  Updated: 2026-10-26T12:57:04Z
+  Total Products: 37540
 - [Analog Technologies](https://hqickey.com/collections/analog-technologies): Authorized distributor of Analog Technologies precision analog ICs, laser drivers, and power management solutions. Full traceability, long lifecycle support, RoHS/REACH compliant.
-  Updated: 2026-09-19T07:56:59Z
+  Updated: 2026-10-23T13:17:20Z
   Total Products: 13
 - [Analog Technologies, Inc. - High-Reliability Semiconductor Components](https://hqickey.com/collections/analog-technologies-inc): Shop authentic Analog Technologies, Inc. semiconductors from authorized distributor HQICKEY. High-reliability analog ICs, data converters & power management with full traceability.
-  Updated: 2026-10-20T08:24:08Z
+  Updated: 2026-10-23T13:31:31Z
   Total Products: 23
 - [AnDAPT, Inc. Power Management ICs & Adaptive PMICs](https://hqickey.com/collections/andapt-inc): Shop authentic AnDAPT, Inc. adaptive power management ICs (PMICs) with full traceability. Authorized distributor offering RoHS-compliant solutions for industrial, automotive & computing applications.
   Updated: 2026-07-13T04:46:58Z
@@ -510,13 +510,13 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:21:23Z
   Total Products: 20
 - [ARK Semiconductor Components - High-Reliability ICs & Power Management Solutions](https://hqickey.com/collections/ark-semiconductor): Authorized ARK Semiconductor distributor offering high-reliability ICs, power management solutions, and memory components with full traceability, RoHS/REACH compliance, and global shipping.
-  Updated: 2026-07-13T04:39:24Z
+  Updated: 2026-10-23T13:31:35Z
   Total Products: 1
 - [ARTERY Microcontrollers & ARM Cortex-M MCUs](https://hqickey.com/collections/artery): Authorized ARTERY microcontroller distributor. High-performance ARM Cortex-M4 MCUs for industrial, automotive & IoT. RoHS compliant, full traceability, global shipping.
   Updated: 2026-07-11T10:32:20Z
   Total Products: 1
 - [Asahi Kasei Microdevices/AKM - High-Performance Sensor & Data Converter ICs](https://hqickey.com/collections/asahi-kasei-microdevices-akm): Authorized distributor of Asahi Kasei Microdevices (AKM) high-performance ADCs, DACs, magnetic sensors, and audio ICs. 100% genuine, RoHS compliant, long lifecycle support.
-  Updated: 2026-10-01T07:51:23Z
+  Updated: 2026-10-26T14:30:13Z
   Total Products: 445
 - [Assmann WSW Components - High-Reliability Connectors & Interconnect Solutions](https://hqickey.com/collections/assmann-wsw-components): Authorized distributor of Assmann WSW Components. Premium connectors, cable assemblies & interconnect solutions. RoHS-compliant, long lifecycle support. Global shipping available.
   Updated: 2026-07-13T11:59:45Z
@@ -528,13 +528,13 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T09:14:04Z
   Total Products: 1
 - [Atmel Microcontrollers & Memory ICs - Authorized Distributor](https://hqickey.com/collections/atmel-1): Shop authentic Atmel microcontrollers, memory ICs, and secure authentication solutions. Authorized distributor with full traceability, RoHS compliance, and lifecycle support.
-  Updated: 2026-10-20T09:21:54Z
+  Updated: 2026-10-23T08:37:44Z
   Total Products: 339
 - [ATP Electronics, Inc. - Industrial-Grade Memory & Storage Solutions](https://hqickey.com/collections/atp-electronics-inc): Authorized ATP Electronics distributor offering industrial-grade DRAM, NAND flash, and embedded memory solutions. Extended lifecycles, full traceability, RoHS/REACH compliant. Expert support available.
   Updated: 2026-09-16T13:25:43Z
   Total Products: 48
 - [Austria Micro Systems - High-Reliability Semiconductor Components](https://hqickey.com/collections/austria-micro): Authorized Austria Micro distributor. Premium analog semiconductors, voltage regulators, power management ICs. RoHS compliant, long lifecycle, full traceability. Expert support.
-  Updated: 2026-09-14T16:11:32Z
+  Updated: 2026-10-23T13:31:07Z
   Total Products: 3
 - [Availink Satellite Demodulator ICs & Digital TV Solutions](https://hqickey.com/collections/availink): Premium Availink satellite demodulator ICs and digital TV solutions. DVB-S/S2/S2X compliant chipsets for broadcast, IPTV & satellite communication. Authorized distributor with full traceability.
   Updated: 2026-07-12T19:10:49Z
@@ -576,7 +576,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-16T14:55:22Z
   Total Products: 1
 - [Burr Brown Precision Analog ICs & Audio Converters](https://hqickey.com/collections/burr-brown): Authorized Burr Brown distributor offering precision analog ICs, audio ADCs/DACs, op-amps & signal conditioning solutions. Full traceability, long lifecycle support for aerospace,  & industrial applications.
-  Updated: 2026-10-11T10:19:25Z
+  Updated: 2026-10-24T09:44:13Z
   Total Products: 259
 - [BYTe Semiconductor Flash Memory - Serial NOR, NAND & Embedded Memory ICs](https://hqickey.com/collections/byte-semiconductor): Authorized BYTe Semiconductor distributor: Serial NOR Flash, NAND Flash & embedded memory ICs. Automotive-grade AEC-Q100, -40°C to +125°C, 512Kb-1Gb+. RoHS compliant. Full traceability & technical support.
   Updated: 2026-09-16T09:49:36Z
@@ -606,7 +606,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-12T18:31:32Z
   Total Products: 1
 - [Cirrus Logic Inc. - Premium Audio & Precision Analog ICs | HQICKEY](https://hqickey.com/collections/cirrus-logic-inc): Shop authentic Cirrus Logic Inc. audio codecs, delta-sigma modulators & precision analog ICs. Authorized distributor with full traceability, RoHS compliance & long lifecycle support.
-  Updated: 2026-10-20T08:26:07Z
+  Updated: 2026-10-26T14:30:24Z
   Total Products: 1263
 - [CML Micro Semiconductor Components - High-Reliability RF & Data Communication ICs](https://hqickey.com/collections/cml-micro): Authorized CML Micro distributor offering high-reliability RF transceivers, modem ICs, and data communication components for aerospace, telecom, and industrial applications.
   Updated: 2026-08-06T05:34:16Z
@@ -666,10 +666,10 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-10-03T09:49:00Z
   Total Products: 257
 - [Diodes Incorporated - High-Reliability Semiconductor Components](https://hqickey.com/collections/diodes-incorporated): Shop authorized Diodes Incorporated semiconductors at HQICKEY. High-reliability ICs, MOSFETs, and analog components for aerospace, automotive, industrial applications.
-  Updated: 2026-10-20T02:14:50Z
+  Updated: 2026-10-26T12:35:30Z
   Total Products: 9831
 - [Dioo Microcircuits Co., Ltd. - Premium Semiconductor Components](https://hqickey.com/collections/dioo-microcircuits-co-ltd): Explore Dioo Microcircuits Co., Ltd. high-reliability semiconductor components including FPGA, memory, and analog ICs for aerospace, automotive, and industrial applications.
-  Updated: 2026-10-10T14:08:32Z
+  Updated: 2026-10-23T13:15:16Z
   Total Products: 20
 - [Diotec Semiconductor Components - High-Reliability Diodes & Rectifiers](https://hqickey.com/collections/diotec-semiconductor): Shop authentic Diotec Semiconductor components: high-reliability diodes, rectifiers, Zener & Schottky diodes. Aerospace-grade quality, full traceability, RoHS compliant. Expert support at HQICKEY.
   Updated: 2026-10-10T15:20:55Z
@@ -687,10 +687,10 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-11T18:17:46Z
   Total Products: 4
 - [Efinix, Inc. FPGAs & Programmable Logic - High-Performance Solutions](https://hqickey.com/collections/efinix-inc): Discover Efinix, Inc. FPGAs including Trion and Titanium series. High-performance programmable logic for aerospace, automotive, industrial applications.
-  Updated: 2026-10-20T04:58:35Z
+  Updated: 2026-10-24T12:10:14Z
   Total Products: 445
 - [Elantec Semiconductor Components - High-Speed Analog ICs](https://hqickey.com/collections/elantec): Authorized Elantec distributor offering high-speed operational amplifiers, video amplifiers & analog ICs for aerospace, telecom & industrial applications. Full traceability & compliance.
-  Updated: 2026-10-05T13:42:43Z
+  Updated: 2026-10-23T13:12:52Z
   Total Products: 194
 - [Electronic Prototypes - High-Reliability Semiconductor Components](https://hqickey.com/collections/electronic-prototypes): Explore Electronic Prototypes high-reliability FPGA, memory, and analog ICs for aerospace, automotive, industrial applications. Authorized distributor with full traceability.
   Updated: 2026-07-11T15:53:29Z
@@ -720,7 +720,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-20T09:31:55Z
   Total Products: 2
 - [ETEK MICROELECTRONICS - Premium Semiconductor Components](https://hqickey.com/collections/etek-microelectronics): Discover ETEK MICROELECTRONICS premium semiconductor components for aerospace, automotive, industrial applications. Full traceability, long lifecycle support.
-  Updated: 2026-10-10T14:10:40Z
+  Updated: 2026-10-23T13:15:15Z
   Total Products: 302
 - [Etron Technology, Inc. - Premium Semiconductor Solutions](https://hqickey.com/collections/etron-technology-inc): Shop authentic Etron Technology semiconductor solutions including DRAM, SRAM, and logic ICs. Long lifecycle availability, full traceability, RoHS compliant. Authorized distributor.
   Updated: 2026-09-16T13:23:51Z
@@ -729,7 +729,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-16T18:16:15Z
   Total Products: 414
 - [EVVO Programmable Logic Components & Semiconductors](https://hqickey.com/collections/evvo): Premium EVVO programmable logic components and semiconductors for aerospace, automotive, industrial,  applications. Long lifecycle, full traceability, RoHS compliant.
-  Updated: 2026-10-10T15:11:43Z
+  Updated: 2026-10-24T17:01:33Z
   Total Products: 101
 - [Exar Semiconductor Components - High-Performance ICs & Logic Devices](https://hqickey.com/collections/exar): Shop authentic Exar semiconductor components including power management ICs, interface solutions, and programmable logic devices. Full traceability, long lifecycle availability.
   Updated: 2026-07-11T15:33:32Z
@@ -738,7 +738,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-07-13T12:21:39Z
   Total Products: 12
 - [Fairchild Semiconductor Power & Analog Solutions](https://hqickey.com/collections/fairchild-semiconductor): Premium Fairchild Semiconductor power management solutions including MOSFETs, IGBTs, voltage regulators & analog ICs for aerospace, automotive & industrial applications.
-  Updated: 2026-10-20T07:20:15Z
+  Updated: 2026-10-26T13:01:27Z
   Total Products: 2740
 - [Fairchild/ON Semiconductor Components](https://hqickey.com/collections/fairchild-on-semiconductor): Shop genuine Fairchild/ON Semiconductor components with full traceability. Authorized distributor offering semiconductors for aerospace, automotive, industrial applications.
   Updated: 2026-09-20T08:11:08Z
@@ -750,7 +750,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
   Updated: 2026-09-16T13:25:57Z
   Total Products: 74
 - [Flip Electronics Industrial Components](https://hqickey.com/collections/flip-electronics): Premium Flip Electronics components for aerospace, automotive, , and industrial applications. High-reliability, long lifecycle, full traceability, RoHS compliant.
-  Updated: 2026-10-03T10:33:34Z
+  Updated: 2026-10-30T00:12:58Z
   Total Products: 148
 - [Forlinx Embedded Systems & Development Boards](https://hqickey.com/collections/forlinx-embedded): Premium Forlinx Embedded ARM boards, FPGA solutions & industrial SoMs. Long lifecycle, full traceability, aerospace-grade quality. Expert support available.
   Updated: 2026-07-22T11:48:03Z
@@ -921,7 +921,7 @@ Shop original electronic components, integrated circuits & semiconductors at HQI
 ## Policies
 
 - [Privacy Policy](https://hqickey.com/policies/privacy-policy)
-  Updated: 2026-01-08T15:00:21Z
+  Updated: 2026-10-30T02:24:58Z
 - [Shipping Policy](https://hqickey.com/policies/shipping-policy)
   Updated: 2026-01-08T14:58:45Z
 - [Refund Policy](https://hqickey.com/policies/refund-policy)
