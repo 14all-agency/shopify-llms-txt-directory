@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-10-23T00:56:57.873Z
+- Updated At: 2026-10-31T00:19:30.247Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -291,7 +291,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/654adec2-c5bd-4f69-9eb1-e046755d28b4.jpg?v=1781893857
     Price: 14,99 € EUR
 - [Genouillère Articulée avec Renforts Latéraux - Maintien Rotule](https://novaplusstor.com/products/genouillere-articulee-avec-renforts-lateraux-maintien-rotule): Dimensions : 15,5 x 31 x 21 cm
-  Updated: 2026-08-26T20:17:47Z
+  Updated: 2026-10-30T05:48:23Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
