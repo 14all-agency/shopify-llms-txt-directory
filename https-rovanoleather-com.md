@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-02T13:28:30Z
 - Contact Email: officialrovano@gmail.com
-- Updated At: 2026-10-23T01:04:58.243Z
+- Updated At: 2026-10-31T00:26:53.286Z
 
 ## Products
 
@@ -597,106 +597,106 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/RedMotorcycleSheepLeatherJacket7.webp?v=1784316012
     Price: $239.99 USD
 - [Taglio Slim fit Sheepskin Leather Blazer For Women | Rovano](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer): Taglio Cropped Sheepskin Leather Blazer in luxury purple, wine red, and Dark Green, with a notched lapel and practical pockets; slim-fit tailored design. Free shipping worldwide.
-  Updated: 2026-10-14T21:51:13Z
+  Updated: 2026-10-26T11:54:01Z
   Vendor: Rovano
   Product Type: Leather Blazer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
-  - [XS / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=53321926869286)
+  - [XS / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082348326)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
   - [XS / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082315558)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
     Price: $219.99 USD
-  - [XS / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082348326)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
-    Price: $219.99 USD
-  - [S / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082381094)
+  - [XS / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=53321926869286)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [S / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082413862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
     Price: $219.99 USD
   - [S / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082446630)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [M / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082479398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [M / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082512166)
+  - [S / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082413862)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [S / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082381094)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
   - [M / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082544934)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [L / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082577702)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [L / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082610470)
+  - [M / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082512166)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [M / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082479398)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
   - [L / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082643238)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082676006)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082708774)
+  - [L / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082610470)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [L / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082577702)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
   - [XL / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082741542)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [2XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082774310)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [2XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082807078)
+  - [XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082708774)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082676006)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
   - [2XL / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082839846)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [3XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082872614)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
-    Price: $219.99 USD
-  - [3XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082905382)
+  - [2XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082807078)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [2XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082774310)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
   - [3XL / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082938150)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
-  - [4XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082970918)
+  - [3XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082905382)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
+    Price: $219.99 USD
+  - [3XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082872614)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
+    Price: $219.99 USD
+  - [4XL / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092083036454)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
     Price: $219.99 USD
   - [4XL / Sheepskin Leather / Luxury Purple](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092083003686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer5.webp?v=1784301127
     Price: $219.99 USD
-  - [4XL / Sheepskin Leather / Wine Red](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092083036454)
+  - [4XL / Sheepskin Leather / Dark Green](https://rovanoleather.com/products/taglio-slim-fit-sheepskin-leather-blazer?variant=54092082970918)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer2.webp?v=1784301127
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenCroppedSheepskinLeatherBlazer9.webp?v=1784301127
     Price: $219.99 USD
 - [Verdia Olive Green Cropped Leather Jacket For Women | Rovano](https://rovanoleather.com/products/verdia-olive-green-cropped-leather-jacket): Verdia Olive Green Cropped Leather Jacket: faux leather cropped jacket with a stand collar and a versatile olive green finish, with a clean and minimal look. Free shipping worldwide.
   Updated: 2026-10-19T17:16:50Z
@@ -1189,40 +1189,40 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/WomenBlackVintageMotorcycleOversizedLeatherJacket1.webp?v=1784303857
     Price: $199.99 USD
 - [Torino Distressed Dark Brown Leather Vest For Men | Rovano](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest): Shop the Torino Distressed Dark Brown Leather Vest, a cowhide waistcoat with a five-button front and a vintage, distressed dark brown finish. Free shipping worldwide.
-  Updated: 2026-10-14T03:00:53Z
+  Updated: 2026-10-28T20:56:37Z
   Vendor: Rovano
   Product Type: Leather Vest
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
-  - [XS / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336526881062)
+  - [XS / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336526881062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [S / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336526913830)
+  - [S / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529241894)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [M / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336526946598)
+  - [M / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529274662)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [L / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336526979366)
+  - [L / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529307430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [XL / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336527012134)
+  - [XL / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529340198)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [2XL / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336527044902)
+  - [2XL / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529372966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [3XL / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53336527077670)
+  - [3XL / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529405734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
-  - [4XL / Cowhide Leather / Black](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=53791845974310)
+  - [4XL / Cowhide Leather / Distressed Brown](https://rovanoleather.com/products/torino-distressed-vintage-dark-brown-cowhide-leather-vest?variant=54225529438502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Men_s_Leather_Vest.webp?v=1784727362
     Price: $169.99 USD
@@ -1583,74 +1583,58 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Marchesa_Cognac_Brown_Suede_Leather_Jacket.webp?v=1784650626
     Price: $194.99 USD
 - [Caramé Cafe Racer Cognac Brown Leather Jacket For Men | Rovano](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket): Caramé Cafe Racer Cognac Brown Leather Jacket. Genuine Cowhide & Sheepskin Options, UMZ Zipper, Viscose Lining. Classic café racer styling. Free shipping worldwide.
-  Updated: 2026-10-19T21:06:37Z
+  Updated: 2026-10-26T11:28:58Z
   Vendor: Rovano
   Product Type: Cafe Racer Leather Jackets
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
+  Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/CarameCafeRacerCognacBrownLeatherJacket.webp?v=1792755289
   - [XS / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428711227686)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [XS / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728398118)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [S / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428727939366)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [S / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728430886)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [M / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428727972134)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [M / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728463654)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [L / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728004902)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [L / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728496422)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [XL / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728037670)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [XL / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728529190)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [2XL / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728070438)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [2XL / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728561958)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [3XL / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728103206)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [3XL / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53428728594726)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $219.99 USD
   - [4XL / Cowhide Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53781527920934)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
   - [4XL / Sheepskin Leather / Cognac Brown](https://rovanoleather.com/products/carame-cafe-racer-cognac-brown-leather-jacket?variant=53781527953702)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Caram_Cafe_Racer_Cognac_Brown_Leather_Jacket.webp?v=1784649957
     Price: $229.99 USD
 - [Blu Marino Cafe Racer Slim Fit Blue Leather Jacket For Men | Rovano](https://rovanoleather.com/products/blu-marino-cafe-racer-slim-fit-blue-leather-jacket): Blu Marino Cafe Racer Slim Fit Blue Leather Jacket. Genuine Cowhide, Sheepskin & Faux Leather Options, UMZ Zipper, Viscose Lining. Café racer design. Free shipping worldwide.
   Updated: 2026-10-19T21:06:33Z
@@ -1755,7 +1739,7 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Blu_Marino_Cafe_Racer_Slim_Fit_Blue_Leather_Jacket.webp?v=1784648992
     Price: $229.99 USD
 - [Ebano Black Cafe Racer Leather Jacket For Men | Rovano](https://rovanoleather.com/products/ebano-black-cafe-racer-leather-jacket): Ebano Black Cafe Racer Leather Jacket For Men. Genuine Cowhide, Sheepskin & Faux Leather Options, UMZ Zipper, café racer design. Viscose Lining. Free shipping worldwide.
-  Updated: 2026-10-22T18:13:42Z
+  Updated: 2026-10-23T12:12:14Z
   Vendor: Rovano
   Product Type: Cafe Racer Leather Jackets
   Availability: Available
@@ -1844,6 +1828,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Ebano_Black_Quilted_Cafe_Racer_Leather_Jacket.webp?v=1784648070
     Price: $194.99 USD
+  - [4XL / Black / Cowhide Leather](https://rovanoleather.com/products/ebano-black-cafe-racer-leather-jacket?variant=54185546088742)
+    Availability: Available
+    Price: $229.99 USD
+  - [4XL / Black / Sheepskin Leather](https://rovanoleather.com/products/ebano-black-cafe-racer-leather-jacket?variant=54185546121510)
+    Availability: Available
+    Price: $229.99 USD
+  - [4XL / Black / Faux leather](https://rovanoleather.com/products/ebano-black-cafe-racer-leather-jacket?variant=54185546154278)
+    Availability: Available
+    Price: $229.99 USD
 - [Cooper Black Varsity Leather Jacket For Men | Rovano](https://rovanoleather.com/products/cooper-black-varsity-leather-jacket): Cooper Black Varsity Leather Jacket For Men. Genuine Cowhide, Sheepskin & Faux Leather Options, UMZ Zipper, Viscose Lining. Varsity design, bomber look. Free shipping worldwide.
   Updated: 2026-10-14T02:04:44Z
   Vendor: Rovano
@@ -2127,7 +2120,7 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Delight_Black_Slim_Fit_Bomber_Leather_Jacket.webp?v=1784646148
     Price: $179.99 USD
 - [Ridge Tan Brown Varsity Leather Jacket For Men | Rovano](https://rovanoleather.com/products/ridge-tan-brown-varsity-leather-jacket): Ridge tan brown varsity leather jacket for men. Cowhide, sheepskin & faux leather options, UMZ zipper, viscose lining. Bomber design, varsity design. Free Shipping Worldwide.
-  Updated: 2026-10-14T01:51:53Z
+  Updated: 2026-10-29T11:25:49Z
   Vendor: Rovano
   Product Type: Bomber Leather Jackets
   Availability: Available
@@ -2217,7 +2210,7 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Ridge_Tan_Brown_Varsity_Leather_Jacket.webp?v=1784644686
     Price: $199.99 USD
 - [Whiskey Brown Varsity Leather Jacket For Men | Rovano](https://rovanoleather.com/products/whiskey-brown-varsity-leather-jacket): Whiskey Brown Varsity Leather Jacket For Men. Genuine Cowhide, Sheepskin & Faux Leather Options, UMZ Zipper, Viscose Lining. Shop Now For Everyday Collegiate Style.
-  Updated: 2026-10-14T01:49:09Z
+  Updated: 2026-10-28T08:22:22Z
   Vendor: Rovano
   Product Type: Varsity Leather Jacket
   Availability: Available
@@ -2307,7 +2300,7 @@
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Whiskey_Brown_Varsity_Leather_Jacket.webp?v=1784644464
     Price: $209.99 USD
 - [Nappa Black Varsity Leather Jacket For Men | Rovano](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket): Nappa Black Varsity Leather Jacket For Men. Genuine Cowhide, Sheepskin & Faux Leather Options, UMZ Zipper, Bomber design, varsity design. Viscose Lining. Free shipping worldwide.
-  Updated: 2026-10-14T01:24:22Z
+  Updated: 2026-10-29T11:25:58Z
   Vendor: Rovano
   Product Type: Varsity Leather Jacket
   Availability: Available
@@ -2320,19 +2313,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
-  - [XS / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446973882662)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
   - [S / Faux leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446973915430)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
   - [S / Sheepskin Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446973948198)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
-  - [S / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446973980966)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
@@ -2344,19 +2329,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
-  - [M / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974079270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
   - [L / Faux leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974112038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
   - [L / Sheepskin Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974144806)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
-  - [L / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974177574)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
@@ -2368,19 +2345,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
-  - [XL / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974275878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
   - [2XL / Faux leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974308646)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
   - [2XL / Sheepskin Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974341414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
-  - [2XL / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974374182)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
@@ -2392,19 +2361,11 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
-  - [3XL / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=53446974472486)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
   - [4XL / Faux leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=54081921548582)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
   - [4XL / Sheepskin Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=54081921581350)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
-    Price: $189.99 USD
-  - [4XL / Cowhide Leather / Black](https://rovanoleather.com/products/mens-nappa-black-varsity-leather-jacket?variant=54081921614118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Nappa_Black_Varsity_Leather_Jacket.webp?v=1784643847
     Price: $189.99 USD
@@ -3014,57 +2975,127 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Roxy_Motorcycle_Red_Leather_Jacket.webp?v=1784629996
     Price: $239.99 USD
-[List Continued](https://rovanoleather.com/a/llms-agent/llms.txt?shop=premiumleatherjackets.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYzMTc4OTYwOTI1NCwibGFzdF92YWx1ZSI6IjEwNjMxNzg5NjA5MjU0In0%3D)
+- [Freya Moto Brown Slim Fit Leather Vest For Women | Rovano](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest): Shop the Freya Moto Brown Slim Fit Leather Vest. Available In Cowhide Or Faux Leather, with a zipper front and soft lining. Free Shipping Worldwide.
+  Updated: 2026-10-14T00:06:20Z
+  Vendor: Rovano
+  Product Type: Leather Vest
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+  - [XS / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467681718566)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [XS / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685388582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [S / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685421350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [S / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685454118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [M / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685486886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [M / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685519654)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [L / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685552422)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [L / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685585190)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [XL / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685617958)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [XL / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685650726)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [2XL / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685683494)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [2XL / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685716262)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [3XL / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685749030)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [3XL / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=53467685781798)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $179.99 USD
+  - [4XL / Cowhide Leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=54044113666342)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+  - [4XL / Faux leather / Brown](https://rovanoleather.com/products/freya-moto-brown-slim-fit-leather-vest?variant=54044113699110)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1010/1791/1590/files/Freya_Biker_Brown_Leather_Vest.webp?v=1784629784
+    Price: $199.99 USD
+[List Continued](https://rovanoleather.com/a/llms-agent/llms.txt?shop=premiumleatherjackets.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYzMTgxMDcxMTg0NiwibGFzdF92YWx1ZSI6IjEwNjMxODEwNzExODQ2In0%3D)
 
 ## Collections
 
 - [Home page](https://rovanoleather.com/collections/frontpage): Discover Rovano premium leather jackets for men and women — biker, bomber, hooded, suede, and blazer styles. 14-day returns & exchanges.
-  Updated: 2026-10-19T17:28:03Z
+  Updated: 2026-10-23T13:11:11Z
   Total Products: 38
 - [New Arrival](https://rovanoleather.com/collections/new-arrival): Shop Rovano New Arrival — latest leather jackets and outerwear in genuine leather and suede. New styles, limited runs, free shipping & 14-day returns.
   Updated: 2026-10-14T09:52:01Z
   Total Products: 66
 - [Women](https://rovanoleather.com/collections/women): Shop Rovano women’s outerwear — leather biker jackets, blazers, suede, shearling, puffers, and more. Premium styles with 14-day returns and exchanges.
-  Updated: 2026-10-19T17:28:03Z
+  Updated: 2026-10-29T11:12:38Z
   Total Products: 107
 - [Men](https://rovanoleather.com/collections/men-s-leather-jackets): Upgrade your wardrobe with Rovano Men’s Outerwear: moto biker jackets, tailored leather jackets, suede, puffer coats, and vintage distressed pieces. and a 14-day return policy.
-  Updated: 2026-10-14T12:21:23Z
+  Updated: 2026-10-28T08:56:30Z
   Total Products: 99
 - [Men's Biker Leather Jackets](https://rovanoleather.com/collections/mens-biker-jackets): Shop Rovano men's biker leather jackets — 100% genuine leather, asymmetric zip, premium hardware, and a 14-day return & exchange policy
-  Updated: 2026-10-20T14:16:30Z
+  Updated: 2026-10-23T13:32:47Z
   Total Products: 22
 - [Men's Bomber Leather Jackets](https://rovanoleather.com/collections/mens-bomber-leather-jackets): Trending 2026: Rovano men's bomber leather jackets. Classic silhouette, premium leather, weather-ready designs. Shop now.
   Updated: 2026-10-21T11:11:11Z
   Total Products: 13
 - [Men's Hooded Leather Jackets](https://rovanoleather.com/collections/mens-hooded-jackets): Shop Rovano men's hooded leather jackets, 100% genuine leather, integrated hoods, insulated options. Free shipping & 14-day returns.
-  Updated: 2026-10-21T11:11:11Z
+  Updated: 2026-10-23T13:47:20Z
   Total Products: 14
 - [Men's Leather Jackets](https://rovanoleather.com/collections/mens-leather-jackets): Rovano Men's Leather Jackets: Shop black, cognac & brown leather jackets. 100% genuine leather options, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-14T11:08:43Z
+  Updated: 2026-10-23T14:10:49Z
   Total Products: 69
 - [Men's Leather Coats](https://rovanoleather.com/collections/mens-leather-coats): Rovano Men's Leather Coats — shop longline, mid-length & belted leather coats. 100% genuine leather options, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-20T14:13:13Z
+  Updated: 2026-10-23T14:01:44Z
   Total Products: 6
 - [Men's Leather Vests](https://rovanoleather.com/collections/mens-vests): Shop Rovano men's leather vests, premium genuine leather, tailored fit, versatile layering. Free shipping and a 14-day return & exchange policy.
-  Updated: 2026-10-21T09:25:56Z
+  Updated: 2026-10-28T08:56:30Z
   Total Products: 7
 - [Men's Leather Blazers](https://rovanoleather.com/collections/mens-blazers): Rovano Men's Leather Blazers, shop tailored leather blazers in black, brown & navy. 100% genuine leather, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-11T14:54:31Z
+  Updated: 2026-10-23T13:52:15Z
   Total Products: 9
 - [Best Sellers](https://rovanoleather.com/collections/best-sellers): Shop Rovano Best Sellers — top-rated leather jackets and outerwear. 100% genuine leather/suede, proven fit, free shipping & 14-day guarantee.
-  Updated: 2026-10-14T09:52:01Z
+  Updated: 2026-10-29T11:14:45Z
   Total Products: 20
 - [Women's Leather Jackets](https://rovanoleather.com/collections/womens-leather-jackets): Rovano Women's Leather Jackets — shop premium women's leather jackets in black, tan. 100% genuine leather options, free shipping & easy returns.
-  Updated: 2026-10-19T17:28:03Z
+  Updated: 2026-10-28T10:31:41Z
   Total Products: 72
 - [Women's Shearling Leather Jackets](https://rovanoleather.com/collections/womens-shearling-jackets): Rovano Women Shearling Leather Jackets — shop aviator, cropped & long shearling coats. 100% leather exteriors, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-13T14:44:47Z
+  Updated: 2026-10-26T10:57:55Z
   Total Products: 7
 - [Women's Hooded Leather Jackets](https://rovanoleather.com/collections/womens-hooded-leather-jackets): Trending 2026: Rovano women's hooded leather jackets. Premium genuine leather, weather-ready hoods, versatile styles. Shop now.
-  Updated: 2026-10-09T11:52:01Z
+  Updated: 2026-10-26T11:10:17Z
   Total Products: 8
 - [Women's Suede Leather Jackets](https://rovanoleather.com/collections/womens-suede-leather-jackets): Shop Rovano women's suede leather jackets — 100% genuine suede, soft hand, tailored fits. Free shipping & 14-day quality guarantee.
-  Updated: 2026-10-08T11:36:10Z
+  Updated: 2026-10-23T15:05:03Z
   Total Products: 10
 - [Women's Bomber Leather Jackets](https://rovanoleather.com/collections/womens-bomber-leather-jackets): Rovano Women's Bomber Leather Jackets — shop black, olive & tan bombers. 100% genuine leather options, ribbed trims, free worldwide shipping & 14-day returns.
   Updated: 2026-10-21T09:22:45Z
@@ -3073,61 +3104,61 @@
   Updated: 2026-10-20T14:20:50Z
   Total Products: 17
 - [Women's Leather Vests](https://rovanoleather.com/collections/womens-leather-vests): Rovano Women Leather Vests, shop cropped, structured & longline vests. 100% genuine leather options, tailored fits, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-13T12:10:56Z
+  Updated: 2026-10-26T11:01:27Z
   Total Products: 7
 - [Women's Leather Blazers](https://rovanoleather.com/collections/womens-leather-blazers): Shop premium women's leather blazers at Rovano Leather: genuine full-grain and faux leather blazers for women, with timeless designs and free worldwide shipping.
   Updated: 2026-10-21T09:32:45Z
   Total Products: 12
 - [Men's Brown Leather Jacket](https://rovanoleather.com/collections/mens-brown-leather-jacket): Rovano Men's Brown Leather Jackets, shop cognac, chestnut & espresso shades. 100% genuine brown leather options, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-12T13:43:03Z
+  Updated: 2026-10-23T13:37:03Z
   Total Products: 16
 - [Women's Brown Leather Jacket](https://rovanoleather.com/collections/womens-brown-leather-jacket): Rovano Women's Brown Leather Jackets, shop cognac, chestnut, and espresso shades. 100% genuine brown leather options, free worldwide shipping & 14-day returns.
-  Updated: 2026-10-14T10:47:21Z
+  Updated: 2026-10-23T15:12:42Z
   Total Products: 12
 - [Women's Cropped Leather Jackets](https://rovanoleather.com/collections/women-s-cropped-leather-jackets): Shop Rovano women’s cropped leather jackets in genuine leather. Discover waist-length styles with premium cuts, quality hardware, and versatile modern fits.
-  Updated: 2026-10-20T14:02:45Z
+  Updated: 2026-10-28T10:31:41Z
   Total Products: 16
 - [Women's Distressed Leather Jackets](https://rovanoleather.com/collections/womens-distressed-leather-jackets): Shop Rovano women’s distressed leather jackets in faux & genuine leather. Explore vintage-inspired styles with premium cuts, rugged texture, and modern fits.
-  Updated: 2026-10-13T14:44:47Z
+  Updated: 2026-10-26T10:52:49Z
   Total Products: 7
 - [Men's Quilted Leather Jackets](https://rovanoleather.com/collections/mens-quilted-leather-jackets): Shop Rovano men’s quilted leather jackets in genuine leather. Explore padded styles with premium cuts, durable stitching, warm linings, and modern fits.
-  Updated: 2026-10-01T09:23:13Z
+  Updated: 2026-10-23T14:52:03Z
   Total Products: 6
 - [Women's Quilted Leather Jackets](https://rovanoleather.com/collections/womens-quilted-leather-jackets): Shop Rovano women’s quilted leather jackets in genuine leather. Explore padded styles with premium cuts, warm linings, durable stitching, and modern fits.
   Updated: 2026-10-20T14:19:11Z
   Total Products: 9
 - [Men's Varsity Leather Jackets](https://rovanoleather.com/collections/mens-varsity-leather-jackets): Shop Rovano men’s varsity leather jackets in genuine leather. Explore letterman styles with ribbed trims, snap closures, premium cuts, and modern fits.
-  Updated: 2026-10-07T14:04:13Z
+  Updated: 2026-10-29T11:08:49Z
   Total Products: 9
 - [Men's Cafe Racer Leather Jackets](https://rovanoleather.com/collections/mens-cafe-racer-leather-jackets): Shop Rovano men’s cafe racer leather jackets in genuine leather. Explore sleek moto styles with stand collars, premium cuts, durable zippers, and modern fits.
-  Updated: 2026-10-14T11:08:43Z
+  Updated: 2026-10-23T13:40:22Z
   Total Products: 16
 - [Men's Puffer Jackets](https://rovanoleather.com/collections/mens-puffer-jackets): Shop Rovano men’s puffer jackets for insulated warmth and modern style. Explore padded winter jackets with quilted channels, durable shells, and comfortable fits.
-  Updated: 2026-10-13T10:13:35Z
+  Updated: 2026-10-23T14:48:07Z
   Total Products: 5
 - [Gifts For Him](https://rovanoleather.com/collections/gifts-for-him): Shop premium leather gifts for him at Rovano, from men’s leather jackets to timeless outerwear for birthdays, anniversaries, and more. Enjoy free shipping worldwide.
-  Updated: 2026-10-21T11:11:11Z
-  Total Products: 28
+  Updated: 2026-10-28T08:20:20Z
+  Total Products: 29
 - [Gifts For Her](https://rovanoleather.com/collections/gifts-for-her): Shop premium leather gifts for her at Rovano, from women’s leather jackets and coats to timeless outerwear for birthdays, anniversaries, and more. Enjoy free shipping worldwide.
-  Updated: 2026-10-19T17:28:03Z
+  Updated: 2026-10-23T13:08:02Z
   Total Products: 30
 - [Pelle & Maestria](https://rovanoleather.com/collections/pelle-maestria): Pelle & Maestria by Rovano Leather, minimalist luxury in precision-crafted leather. Subtle power, rich texture, and unmistakable distinction for the discerning.
-  Updated: 2026-10-14T10:47:21Z
+  Updated: 2026-10-23T15:00:27Z
   Total Products: 70
 - [Artigiano Urbano](https://rovanoleather.com/collections/artigiano-urbano): Artigiano Urbano by Rovano Leather — urban luxury in precision-crafted leather. Sharp silhouettes, rich texture, and effortless authority for the modern mover.
-  Updated: 2026-10-21T11:11:11Z
+  Updated: 2026-10-28T10:31:41Z
   Total Products: 69
 - [Women's Cafe Racer Leather Jacket](https://rovanoleather.com/collections/womens-cafe-racer-leather-jacket): Shop Rovano women's cafe racer leather jackets in genuine leather. Explore padded styles with premium cuts, durable stitching, warm linings, and modern fits.
-  Updated: 2026-10-19T17:28:03Z
+  Updated: 2026-10-26T10:41:09Z
   Total Products: 7
 - [Women's Puffer Leather Jackets](https://rovanoleather.com/collections/womens-puffer-leather-jackets): Shop Rovano women's puffer leather jackets crafted for warmth, comfort, and elevated style. Discover premium leather designs with free shipping worldwide.
   Updated: 2026-10-09T11:52:01Z
   Total Products: 5
 - [Women's Leather Coats](https://rovanoleather.com/collections/womens-leather-coats): Shop Rovano women's leather coats crafted for timeless elegance, warmth and refined layering. Explore premium leather styles with free shipping worldwide.
-  Updated: 2026-10-10T14:08:12Z
+  Updated: 2026-10-26T11:06:06Z
   Total Products: 7
 - [Men's Distressed Leather Jackets](https://rovanoleather.com/collections/mens-distressed-leather-jackets): Shop Rovano men's distressed leather jackets crafted in premium leather with rugged vintage character, timeless style and free shipping worldwide.
-  Updated: 2026-10-08T13:45:44Z
+  Updated: 2026-10-23T13:43:00Z
   Total Products: 9
 - [Men's Shearling Leather Jackets](https://rovanoleather.com/collections/mens-shearling-leather-jackets-for-winter): Discover Rovano men's shearling leather jackets crafted for warmth, rugged character, and refined winter style. Shop premium designs with free shipping worldwide.
   Updated: 2026-10-02T12:25:52Z
@@ -3148,7 +3179,7 @@
     Author: Rovano Leather
     Tags: Casual to Statement Style, Genuine Leather Jackets, How to Style a Leather Jacket, Leather Jacket Care, Leather Jacket Fashion, Leather Jacket Fit, Leather Jacket Layering, Leather Jacket Outfit Ideas, Leather Jacket Styling, Luxury Leather Jackets, Men's Leather Jackets, Minimalist Fashion, Premium Leather Jackets, Rovano Leather, Smart Casual Outfits, Timeless Fashion, Women's Leather Jackets
   - [Quiet Luxury Leather 2026: Minimalist Jackets Guide | Rovano](https://rovanoleather.com/blogs/news/quiet-luxury-leather-2026-minimalist-jackets-guide-rovano-leather): Quiet Luxury Leather 2026: Minimalist Jackets Guide | Rovano
-    Updated: 2026-10-15T12:55:08Z
+    Updated: 2026-10-26T13:12:09Z
     Author: Rovano Leather
     Tags: Buy Less Buy Better, Classic Leather Jackets, Genuine Leather Jackets, Leather Jacket Care, Leather Jacket Styling, Luxury Leather Jackets, Men's Leather Jackets, Minimalist Fashion, Minimalist Leather Jackets, Premium Leather Jackets, Quiet Luxury 2026, Quiet Luxury Fashion, Quiet Luxury Leather, Rovano Leather, Stealth Wealth Fashion, Timeless Leather Jackets, Timeless Wardrobe
 
