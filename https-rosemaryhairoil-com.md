@@ -6,26 +6,26 @@
 - Timezone: Europe/London
 - Created At: 2025-06-05T12:03:54Z
 - Contact Email: customerservice@rosemaryhairoil.com
-- Updated At: 2026-10-23T00:58:53.734Z
+- Updated At: 2026-10-31T00:25:20.017Z
 
 ## Products
 
 - [Hair Honey Pro-Keratin Growth Shampoo (SLS-free)](https://rosemaryhairoil.com/products/hair-honey-pro-keratin-growth-shampoo): Nourish and strengthen dry hair with Hair Honey Pro-Keratin Growth Shampoo. Infused with honey, argan oil, and sweet almond oil, this SLS-free, natural formula hydrates, softens, and promotes healthy hair growth. Perfect for dry and damaged hair. Shop now!
-  Updated: 2026-10-19T00:13:26Z
+  Updated: 2026-10-30T12:51:21Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: SHAMPOO
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/HairHoneyShampooShopifyProdutcs1024x1024px_1.png?v=1787845194
   Price: £17.99 GBP
 - [Award-Winning Rosemary Hair Oil | Best Hair Growth Oil 2026](https://rosemaryhairoil.com/products/rosemary-hair-oil-intense-growth-syrup): Shop Rosemary Hair Oil Intense Growth Syrup 100ml, named Best Hair Growth Oil by Marie Claire UK 2026. A scalp-first rosemary oil ritual for fuller-looking, healthier-feeling hair. Shop now.
-  Updated: 2026-10-22T22:01:27Z
+  Updated: 2026-10-30T09:00:36Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: NATURAL HAIR OIL
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/email_additional_images_1_cb2397c7-ffbc-4bb4-89c4-30bc11d03329.png?v=1779378924
   Price: £34.99 GBP
 - [Argan Almond Bond Boost+ Hair Oil – Natural Repair & Hair Growth](https://rosemaryhairoil.com/products/argan-almond-bond-boost-hair-oil): Repair and strengthen dry, damaged hair with Argan Almond Bond Boost+ Hair Oil. Infused with natural oils like Argan, Almond, and Coconut, this ultra-conditioning formula penetrates deep into the hair shaft, reinforcing bonds, reducing breakage, and promoting healthy hair growth. Shop now!
-  Updated: 2026-10-19T00:09:01Z
+  Updated: 2026-10-30T09:43:36Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: NATURAL HAIR OIL
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/V1-Castor-Camilla-100.jpg?v=1779282986
   Price: £32.99 GBP
 - [Hair Honey Pro-Keratin Growth Conditioner 200ml](https://rosemaryhairoil.com/products/hair-honey-pro-keratin-growth-conditioner): Deeply hydrate and strengthen dry, damaged hair with Hair Honey Pro-Keratin Conditioner. 96% natural, keratin-rich formula for growth and shine.
-  Updated: 2026-10-19T00:09:01Z
+  Updated: 2026-10-30T12:51:26Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: CONDITIONER
   Availability: Available
@@ -53,28 +53,28 @@
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/HairRoseHydratingParfumShopifyProducts1024x1024px_2.png?v=1787846290
   Price: £14.99 GBP
 - [RHOCo. HairHalo | Pure Silk Bonnet](https://rosemaryhairoil.com/products/silk-hair-bonnet): Introducing our luxurious 100% Pure Mulberry Silk Hair Bonnet.The perfect accessory for maintaining healthy and beautiful hair. Made from the finest quality silk, this bonnet is designed to protect your hair while you sleep, reducing frizz, breakage, and tangles. Its smooth and soft texture also helps to retain moisture, leaving your hair feeling silky and smooth. Crafted from pure mulberry silk, this hair bonnet is hypoallergenic and gentle on all hair types, making it suitable for those with sensitive skin or allergies. Its elastic band ensures a secure and comfortable fit, while the generous size accommodates all hair lengths and styles. Whether you have curly, straight, or textured hair, this bonnet will help to preserve your hairstyle and keep it looking fresh. Not only is this hair bonnet functional, but it also adds a touch of elegance to your bedtime routine. Its sleek and classic design is perfect for those who appreciate both style and practicality. Plus, it comes in a beautiful shade of rosemary green, adding a pop of colour to your sleepwear collection.  in the best for your hair with our 100% Pure Mulberry Silk Hair Bonnet. Say goodbye to bad hair days and hello to healthy, shiny, and manageable hair. Order now and experience the difference for yourself!
-  Updated: 2026-10-21T22:24:41Z
+  Updated: 2026-10-30T00:52:20Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/HairHalo_03.jpg?v=1766408265
   Price: £25.00 GBP
 - [Scalp Soothe Essential Brush Set | Eco-Friendly Hair Tools](https://rosemaryhairoil.com/products/scalp-soothe-essential-brush-set): Detangle, style & soothe your scalp with this 3-piece eco-friendly brush set. Includes a comb, detangling brush & silicone scalp massager. For all hair types.
-  Updated: 2026-10-21T22:24:45Z
+  Updated: 2026-10-28T08:54:20Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Tools-set-02.jpg?v=1766408675
   Price: £25.00 GBP
 - [Rosemary VitaGrow Gummies Hair Supplement](https://rosemaryhairoil.com/products/rosemary-vitagrow-gummies-the-growth-boosting-supplement-for-your-hair): Boost your hair's natural growth with Rosemary VitaGrow Gummies. Packed with rosemary extract, biotin, and AnaGain® for stronger, fuller, and healthier hair. Vegan, sugar-free, and deliciously sweet!
-  Updated: 2026-10-20T19:59:55Z
+  Updated: 2026-10-30T10:01:42Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: GUMMIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Shopify-Gummies-01_deb16d46-0208-49d6-80d9-388f64c38daa.jpg?v=1768560275
   Price: £32.99 GBP
 - [Scalp Soothe Essential Massager | Silicone Scalp Brush](https://rosemaryhairoil.com/products/scalp-soothe-essential-massager): Stimulate hair growth and relax with our waterproof silicone scalp massager. Ideal for all hair types, it enhances circulation and promotes a healthy scalp.
-  Updated: 2026-10-08T21:46:05Z
+  Updated: 2026-10-26T21:16:11Z
   Vendor: Rosemary Hair Oil Co.
   Product Type: ACCESSORIES
   Availability: Available
@@ -95,49 +95,49 @@
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Scalp_Soothe_Essential_Detangling_Brush_Shopify_Products_1024x1024px_1.png?v=1787328302
   Price: £10.00 GBP
 - [Complete Scalp System](https://rosemaryhairoil.com/products/hair-growth-starter-kit-save-23): Calm, Stimulate & Protect - Your 360° Scalp Therapy The Complete Scalp System pairs our nutrient-dense Castor & Camellia Root Renewal Hair Oil with a frizz-fighting silk bonnet and an invigorating Scalp Soothe Brush Set. Used together, they lift buildup, nourish follicles and shield strands overnight, laying the perfect foundation for a healthier scalp. Consistent scalp massage, targeted plant oils and friction-free sleep work in harmony to unlock your hair’s full growth potential—no sulfates, silicones or cruelty involved. What’s Inside This Set: Castor Camellia Root Renewal Hair Oil 100ml RHOCo. HairHalo | Pure Silk Bonnet Scalp Soothe Essential Brush Set Healthy Scalp, Healthy Hair
-  Updated: 2026-10-21T22:25:06Z
+  Updated: 2026-10-30T00:52:26Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Complete_Scalp_System-Shopify_Products_1024x1024px_657eefec-dfb3-4928-a8aa-6847c3313171.jpg?v=1766408675
   Price: £82.99 GBP
 - [90‑Day Growth Power Pack | 3-Month Hair Growth Kit](https://rosemaryhairoil.com/products/90-day-growth-trio-system): Complete 90-day system with Rosemary Hair Growth oil, Keratin shampoo and conditioner + biotin VitaGrow gummies for visibly longer, stronger hair.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T12:51:31Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/90_Day-Growth-Power-Pack-Shopify_Products_1024x1024px_1.jpg?v=1768560551
   Price: £136.95 GBP
 - [Rosemary Hair Oil Company I 90‑Day Luxe Growth Vault](https://rosemaryhairoil.com/products/90-day-luxe-growth-vault): Your 12-Week Ritual for Fuller, Stronger Hair Unlock your healthiest hair in just three months with our complete, clinically-inspired growth system. Powered by plant-derived actives, salon-grade proteins and the sensorial luxury RHOCo. is known for, so you see real results without compromising on clean, cruelty-free standards. What’s Inside This Set: Rosemary Hair Oil Intense Growth Syrup 100ml - Award Winner for Best Hair Growth Oil Hair Honey Pro-Keratin Growth Shampoo 200ml Hair Honey Pro-Keratin Growth Conditioner 200ml Scalp Soothe Essential Massager RHOCo. HairHalo Pure Silk Bonnet x2 Rosemary VitaGrow x60 Gummies Hair Rosé Hydrating Parfum 200ml Grow with Confidence Thousands have already unlocked measurable length and density in just 90 days, now it’s your turn.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T12:51:37Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/90_DayLuxeGrowthVault-ShopifyProdutcs1024x1024px_1.jpg?v=1768560486
   Price: £186.94 GBP
 - [Oil Night Long Set | Triple Overnight Hair Growth Oils](https://rosemaryhairoil.com/products/oil-night-long-set): While you sleep, our trio of clean, cruelty-free oils Rosemary, Castor & Camellia, and Argan & Almond works overtime to stimulate growth, repair bonds, and lock in lasting shine.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T09:00:47Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Oil-Night-Long-Shopify_Products_1024x1024px.jpg?v=1754312764
   Price: £100.97 GBP
 - [Strength & Length System | Healthy Hair & Scalp](https://rosemaryhairoil.com/products/strength-length-system): Support healthy hair with the Strength & Length System. Includes a five-step bundle with rosemary & argan oils plus keratin-infused shampoo & conditioner, everything you need for visibly stronger, longer hair.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T12:51:31Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Strength_Length_System-Shopify_Products_1024x1024px.png?v=1754311477
   Price: £128.96 GBP
 - [Inside-Out Hair Growth Duo](https://rosemaryhairoil.com/products/inside-out-duo): Two-step system, Rosemary Hair Oil Intense Growth Syrup+ biotin-rich VitaGrow Rosemary gummies, for visibly thicker, longer hair in 8-12 weeks. Clean, vegan and dermatologically reviewed.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T10:01:52Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/Inside-OutHairGrowthDuo-ShopifyProducts1024x1024px_1.jpg?v=1768560269
   Price: £67.98 GBP
 - [Starter Discovery Kit | Healthy, Fuller Hair](https://rosemaryhairoil.com/products/starter-discovery-kit): Boost your hair growth with our Starter Hair Growth Discovery Kit, featuring Rosemary Hair Oil, Scalp Soothe Essential Massager , and Silk Hair Bonnet. Achieve healthier, thicker hair with this complete care routine.
-  Updated: 2026-10-22T22:01:36Z
+  Updated: 2026-10-30T09:00:47Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0956/1790/9001/files/90_DayLuxeGrowthVault-ShopifyProdutcs1024x1024px.jpg?v=1771417256
   Price: £153.95 GBP
 - [Hair Honey Pro-Keratin Growth Shampoo & Conditioner Duo](https://rosemaryhairoil.com/products/hair-honey-pro-keratin-shampoo-conditioner-duo): Shop the Hair Honey Pro-Keratin Growth Shampoo & Conditioner Duo. A strengthening wash-day routine for softer, healthier and stronger-looking hair.
-  Updated: 2026-10-17T06:43:46Z
+  Updated: 2026-10-30T12:51:36Z
   Vendor: Rosemary Hair Oil Company
   Product Type: 
   Availability: Available
@@ -164,25 +164,25 @@
   Updated: 2026-08-07T12:29:43Z
   Total Products: 8
 - [New Arrivals](https://rosemaryhairoil.com/collections/new-arrivals): Shop the latest hair care arrivals. Discover new hair growth products, botanical formulas and premium essentials for healthier-looking hair.
-  Updated: 2026-10-17T11:30:02Z
+  Updated: 2026-10-29T11:30:01Z
   Total Products: 3
 - [Tools & Accessories](https://rosemaryhairoil.com/collections/hair-tools-accessories): Shop hair tools and accessories designed to protect hair, support scalp care and enhance your hair care routine. Discover scalp massagers, brushes and more.
-  Updated: 2026-10-22T11:28:07Z
+  Updated: 2026-10-30T11:28:51Z
   Total Products: 5
 - [Hair Growth Supplements](https://rosemaryhairoil.com/collections/hair-growth-supplements): Discover premium hair growth supplements formulated to support stronger, healthier-looking hair from within. Shop vegan hair growth gummies today!
-  Updated: 2026-10-21T11:31:28Z
+  Updated: 2026-10-30T11:28:51Z
   Total Products: 1
 - [Shampoos & Conditioners](https://rosemaryhairoil.com/collections/shampoos-conditioners): Discover sulphate-free shampoo and conditioner formulated to cleanse, nourish and strengthen hair while supporting a healthy scalp. Shop premium hair care today
-  Updated: 2026-10-17T11:30:02Z
+  Updated: 2026-10-29T11:30:01Z
   Total Products: 3
 - [Best Sellers](https://rosemaryhairoil.com/collections/best--hair-care): Shop our best- hair care products, including award-winning hair oils, shampoos, conditioners and hair growth essentials loved by thousands of customers.
-  Updated: 2026-10-22T11:28:07Z
+  Updated: 2026-10-30T11:28:51Z
   Total Products: 8
 - [Natural Hair Oils](https://rosemaryhairoil.com/collections/natural-hair-oils): Discover natural rosemary, castor and argan oils that nourish the scalp, strengthen hair and support healthier-looking growth.
-  Updated: 2026-10-22T11:28:07Z
+  Updated: 2026-10-30T11:28:51Z
   Total Products: 3
 - [All Hair Care Products](https://rosemaryhairoil.com/collections/all-hair-care-products): Discover premium hair and scalp care at Rosemary Hair Oil Co. Shop natural hair oils, shampoos, supplements and accessories for healthier-looking hair.
-  Updated: 2026-10-22T11:28:07Z
+  Updated: 2026-10-30T11:28:51Z
   Total Products: 21
 
 ## Blogs
