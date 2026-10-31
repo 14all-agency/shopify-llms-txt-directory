@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-05T07:31:59Z
 - Contact Email: stevemar@stevestonmarine.com
-- Updated At: 2026-10-23T00:59:04.073Z
+- Updated At: 2026-10-31T00:18:54.181Z
 
 ## Products
 
@@ -186,11 +186,11 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/7539.jpg?v=1777117569
   Price: $37.44 CAD
 - [Scepter Primer Bulb 3 8 Inch | Steveston Marine](https://www.stevestonmarine.com/products/scepter-primer-bulb-3-8-inch): Shop Scepter Primer Bulb 3 8 Inch at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:15Z
+  Updated: 2026-10-30T16:04:09Z
   Vendor: Scepter
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scepter-primer-bulb-3-8-inch-44428.jpg?v=1777117569
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/ScepterPrimerBulb38Inch.jpg?v=1793376213
   Price: $17.18 CAD
 - [Scepter Fitting Fuel Merc Eng Clip 3 8 | Steveston Marine](https://www.stevestonmarine.com/products/scepter-fitting-fuel-merc-eng-clip-3-8): Shop Scepter Fitting Fuel Merc Eng Clip 3 8 at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
   Updated: 2026-10-06T21:13:15Z
@@ -578,18 +578,18 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-rod-holder-powerlock-white-44278.jpg?v=1777117600
   Price: $26.57 CAD
 - [Scotty Bolt 6In Downrigger Mounting | Steveston Marine](https://www.stevestonmarine.com/products/scotty-bolt-6in-downrigger-mounting): Shop Scotty Bolt 6In Downrigger Mounting at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:28Z
+  Updated: 2026-10-30T16:05:02Z
   Vendor: Scotty
   Product Type: MAP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-bolt-6in-downrigger-mounting-44256.jpg?v=1777117601
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/ScottyBolt6InDownriggerMounting.jpg?v=1793376284
   Price: $11.38 CAD
 - [scotty-drive-belt-set-depthpower | Steveston Marine](https://www.stevestonmarine.com/products/scotty-drive-belt-set-depthpower): Shop scotty-drive-belt-set-depthpower at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:28Z
+  Updated: 2026-10-30T16:19:28Z
   Vendor: Scotty
   Product Type: MAP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-drive-belt-set-depthpower-44254.jpg?v=1777117600
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-drive-belt-set-depthpower-44254.jpg?v=1793377167
   Price: $35.05 CAD
 - [Scotty Manual Strongarm Downrigger - 30inch | Steveston Marine](https://www.stevestonmarine.com/products/scotty-manual-strongarm-downrigger-30inch): Shop Scotty Manual Strongarm Downrigger - 30inch at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
   Updated: 2026-10-06T21:13:29Z
@@ -634,18 +634,18 @@
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-mounting-knobs-for-1026-2-pk-44238.jpg?v=1777117603
   Price: $13.59 CAD
 - [Scotty Terminal Snap Swivels | Steveston Marine](https://www.stevestonmarine.com/products/scotty-terminal-snap-swivels): Shop Scotty Terminal Snap Swivels at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:30Z
+  Updated: 2026-10-30T16:19:59Z
   Vendor: Scotty
   Product Type: MAP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-terminal-snap-swivels-44231.jpg?v=1777117603
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/ScottyTerminalSnapSwivels.jpg?v=1793377152
   Price: $9.34 CAD
 - [Scotty Stopper Beads (6/Pk) | Steveston Marine](https://www.stevestonmarine.com/products/scotty-stopper-beads-6-pk): Shop Scotty Stopper Beads (6/Pk) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
-  Updated: 2026-10-06T21:13:30Z
+  Updated: 2026-10-30T16:17:57Z
   Vendor: Scotty
   Product Type: MAP
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/scotty-stopper-beads-6-pk-44230.jpg?v=1777117603
+  Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/ScottyStopperBeads.jpg?v=1793377067
   Price: $5.09 CAD
 - [Scotty Release Clip Locators (10 Pk) | Steveston Marine](https://www.stevestonmarine.com/products/scotty-release-clip-locators-10-pk): Shop Scotty Release Clip Locators (10 Pk) at Steveston Marine. Quality marine products, boating supplies, fishing gear and accessories with reliable service across Canada.
   Updated: 2026-10-06T21:13:30Z
@@ -1760,16 +1760,16 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/6495/0501/files/starbrite-liq-electric-tape-white-4-oz-43393.jpg?v=1777117742
   Price: $17.83 CAD
-[List Continued](https://www.stevestonmarine.com/a/llms-agent/llms.txt?shop=002zcd-xr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjA5NzM0MTM2MDM3LCJsYXN0X3ZhbHVlIjoiOTIwOTczNDEzNjAzNyJ9)
+[List Continued](https://www.stevestonmarine.com/a/llms-agent/llms.txt?shop=002zcd-xr.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MjA5NzM0MTM2MDM3LCJsYXN0X3ZhbHVlIjoiMjAyNS0wNy0wOCAyMzozOToyMC4wMDAwMDAifQ%3D%3D)
 
 ## Collections
 
 - [Best  Products](https://www.stevestonmarine.com/collections/best--products): Shop our most popular marine gear PFDs, VHF radios, BBQs & foul weather wear from Mustang, Garmin, Grundens & more. Trusted by boaters since 1941.
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-24T11:22:29Z
   Total Products: 53
 - [Newest Products](https://www.stevestonmarine.com/collections/newest-products): Browse the newest marine products at Steveston Marine — fresh arrivals across boats, electronics, hardware & fishing gear. Ships Canada-wide.
-  Updated: 2026-10-22T11:25:50Z
-  Total Products: 44038
+  Updated: 2026-10-31T00:17:13Z
+  Total Products: 43638
 - [Coolers](https://www.stevestonmarine.com/collections/coolers): Shop Igloo Cooler and Coleman Cooler, mounting kits at Steveston Marine.Trusted performance for fishing, cruising, and marine use.
   Updated: 2026-09-25T20:06:53Z
   Total Products: 7
@@ -1786,16 +1786,16 @@
   Updated: 2026-09-26T14:28:38Z
   Total Products: 13
 - [BBQ Mounts and Parts](https://www.stevestonmarine.com/collections/bbq-mounts-and-parts): Shop Marine Barbecue Mounts, Magma grill mounts, boat BBQ grill mounts, and genuine Magma & Dickinson BBQ parts at Steveston Marine. Top Quality marine hardware.
-  Updated: 2026-10-21T11:23:39Z
+  Updated: 2026-10-24T11:22:29Z
   Total Products: 229
 - [Cabin Heaters](https://www.stevestonmarine.com/collections/cabin-heaters): Shop Dickinson Heater, Propane Heaters  & Webasto Heaters from Electric Boat Heaters, including Dickinson Newport. Reliable marine heating at Steveston Marine.
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 119
 - [Boat Generators](https://www.stevestonmarine.com/collections/boat-generators): Shop Firman generators at Steveston Marine. Endurance, inverter, dual fuel & tri fuel generators—reliable power for marine, RV, camping & backup needs.
   Updated: 2026-10-12T11:24:13Z
   Total Products: 22
 - [Refrigirators](https://www.stevestonmarine.com/collections/refrigirators): Shop Dometic Fridges and Vitrifrigo fridges and Nova Kool refrigerators at Steveston Marine. Trusted marine and RV cooling solutions in Canada.
-  Updated: 2026-10-09T17:16:54Z
+  Updated: 2026-10-30T11:18:30Z
   Total Products: 104
 - [Stoves and Cooktops](https://www.stevestonmarine.com/collections/stoves-and-cooktops): Shop Dickinson Stoves, Force 10, diesel & gimballed stoves at Steveston Marine. Buy Online stainless steel stove pipe and marine heating solutions in Canada.
   Updated: 2026-10-14T01:32:58Z
@@ -1807,7 +1807,7 @@
   Updated: 2026-10-10T11:22:54Z
   Total Products: 237
 - [All Boat Covers](https://www.stevestonmarine.com/collections/all-boat-covers): Buy Online quality boat covers from Attwood, Lalizas, and Walker Bay. Durable mooring and storage covers designed for protection and long-lasting marine use.
-  Updated: 2026-10-18T11:21:23Z
+  Updated: 2026-10-27T14:40:03Z
   Total Products: 236
 - [Boat Cover Supports](https://www.stevestonmarine.com/collections/boat-cover-supports): Shop boat cover supports, Attwood, Carver & Taylor boat covers, plus SeaDog rail mount bow sockets. Durable marine-grade protection for boats.
   Updated: 2026-09-25T19:13:46Z
@@ -1837,7 +1837,7 @@
   Updated: 2026-10-05T11:20:48Z
   Total Products: 36
 - [Battery And Wire Hardware](https://www.stevestonmarine.com/collections/battery-and-wire-hardware): Buy Online Ancor battery cable, Attwood battery, Cobra wire & Cole Hersee. Find the best marine battery and 12V deep cycle boat battery at Steveston Marine.
-  Updated: 2026-10-19T11:20:52Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 682
 - [Battery Meters and Gauges](https://www.stevestonmarine.com/collections/battery-meters-and-gauges): Buy Online Victron, Blue Sea, BEP, Xantrex & more battery meters at Steveston Marine. Monitor boat battery performance with trusted marine brands.
   Updated: 2026-10-14T11:28:03Z
@@ -1942,10 +1942,10 @@
   Updated: 2026-10-14T01:32:24Z
   Total Products: 65
 - [What is the best marine battery charger for your boat?](https://www.stevestonmarine.com/collections/battery-chargers): Shop 200+ marine battery chargers for boats & RVs. Victron, Xantrex, Promariner & more. 12V, 24V, multi-bank & waterproof options. Free shipping over $99 across Canada.
-  Updated: 2026-10-20T11:21:26Z
+  Updated: 2026-10-28T11:18:43Z
   Total Products: 200
 - [Inverter](https://www.stevestonmarine.com/collections/inverter): Buy Online Boat Inverters Samlex, Victron, Xantrex & Newmar Energy batteries and battery isolators at Steveston Marine.
-  Updated: 2026-10-14T11:28:03Z
+  Updated: 2026-10-27T11:28:28Z
   Total Products: 156
 - [Isolators and Relays](https://www.stevestonmarine.com/collections/isolators-and-relays): Buy Online Blue Sea Systems relays, Cole Hersee isolators, Newmar integrators, ProMariner and SurePower battery isolators at Steveston Marine.
   Updated: 2026-09-26T14:23:23Z
@@ -1954,19 +1954,19 @@
   Updated: 2026-09-26T13:50:49Z
   Total Products: 43
 - [15Amp and 20Amp Products](https://www.stevestonmarine.com/collections/15amp-and-20amp-products): Buy Online Marinco 15Amp and 20Amp marine power inlets at Steveston Marine. Durable, weather-resistant shore power solutions for safe boating.
-  Updated: 2026-09-25T19:51:18Z
+  Updated: 2026-10-24T11:22:29Z
   Total Products: 7
 - [30Amp Products](https://www.stevestonmarine.com/collections/30amp-products): Buy Marinco 30 amp plug, Marinco 30 amp inlet & Furrion 30 amp inlet at Steveston Marine. Reliable shore power solutions for safe boating connections.
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 15
 - [50Amp Products](https://www.stevestonmarine.com/collections/50amp-products): Buy Smart Plug and Marinco male plug products at Steveston Marine. Reliable shore power connectors built for safety, durability, and marine use.
-  Updated: 2026-10-06T11:24:05Z
+  Updated: 2026-10-26T11:25:33Z
   Total Products: 22
 - [Phone and TV Products](https://www.stevestonmarine.com/collections/phone-and-tv-products): Buy Online Marinco TV products and Marinco phone solutions at Steveston Marine. Reliable marine communication and entertainment accessories for boats.
   Updated: 2026-09-04T17:43:05Z
   Total Products: 0
 - [Shore Power Adapters](https://www.stevestonmarine.com/collections/shore-power-adapters): Buy Online 50 amp and 30 amp shore power cords, Marinco shore power, and shore power adapters at Steveston Marine. Reliable power solutions for your boat.
-  Updated: 2026-09-30T11:22:37Z
+  Updated: 2026-10-26T11:25:33Z
   Total Products: 32
 - [Shorepower Accessories](https://www.stevestonmarine.com/collections/shorepower-accessories): Shop shore power accessories, dock power pedestal solutions, and durable shore power cords at Steveston Marine for safe, reliable dockside power.
   Updated: 2026-09-30T11:22:37Z
@@ -2017,7 +2017,7 @@
   Updated: 2026-09-26T13:55:26Z
   Total Products: 70
 - [Deck and Floodlights](https://www.stevestonmarine.com/collections/deck-and-floodlights): Buy Online Deck Flood Lights for boats. High-performance seadog led and boat flood lights built for durability and bright marine use.
-  Updated: 2026-10-14T01:33:24Z
+  Updated: 2026-10-27T11:28:28Z
   Total Products: 313
 - [Engine Room Lights](https://www.stevestonmarine.com/collections/engine-room-lights): Steveston Marine & Hardware has Engine Room Lights from Seamaster Lights! Shop in one of our stores located in Vancouver or Langley. Order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-09-04T17:43:06Z
@@ -2077,7 +2077,7 @@
   Updated: 2026-10-13T17:43:22Z
   Total Products: 69
 - [Fuses](https://www.stevestonmarine.com/collections/fuses): Buy Online marine fuse and boat fuse from Ancor, Cole Hersee, SEADOG, Sierra, Vetus, Victron & Sleipner. Reliable protection for marine electrical systems.
-  Updated: 2026-10-08T23:59:18Z
+  Updated: 2026-10-25T11:27:12Z
   Total Products: 104
 - [Heat Shrink Tubing and Connectors](https://www.stevestonmarine.com/collections/heat-shrink-tubing-and-connectors): Buy Online marine heat shrink tubing, heat shrink connectors & Ancor heat shrink tubing. Waterproof, durable wiring protection at Steveston Marine.
   Updated: 2026-09-25T20:06:38Z
@@ -2125,7 +2125,7 @@
   Updated: 2026-10-17T11:28:06Z
   Total Products: 22
 - [Whistles](https://www.stevestonmarine.com/collections/whistles): Steveston Marine & Hardware has a large assortment of Whistles to help keep everyone around you alert at all times. We have whistles from Scotty, safety whistles from Seachoice, life jacket whistles from SEADOG, and many more!
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-23T11:24:54Z
   Total Products: 39
 - [Marine Atlas](https://www.stevestonmarine.com/collections/marine-atlas): Discover a range of nautical charts and marine atlas navigation guides at Steveston Marine. We provide top-notch boating references.
   Updated: 2026-09-04T17:43:08Z
@@ -2134,7 +2134,7 @@
   Updated: 2026-09-04T17:43:08Z
   Total Products: 4
 - [Paper Charts](https://www.stevestonmarine.com/collections/paper-charts): Steveston Marine & Hardware has Paper Charts available for ! We have a variety of charts from Canadian Hydro Graphics. Contact us if you have any questions about paper charts.
-  Updated: 2026-10-13T17:47:00Z
+  Updated: 2026-10-30T11:18:30Z
   Total Products: 159
 - [WaterProof Charts](https://www.stevestonmarine.com/collections/waterproof-charts): Steveston Marine & Hardware has Water Proof Charts from Canadian Hydrographic Services available for you! We have a large selection of charts from various locations for you! You can find these products in one of our stores located in Vancouver, Richmond, or Langley!
   Updated: 2026-09-04T17:43:08Z
@@ -2182,16 +2182,16 @@
   Updated: 2026-10-16T11:28:27Z
   Total Products: 220
 - [Sailboat Hardware](https://www.stevestonmarine.com/collections/sailboat-hardware): Buy Online sailboat hardware and Harken sailboat hardware at Steveston Marine. Shop high-quality marine parts, fast shipping & great prices today
-  Updated: 2026-10-08T11:25:07Z
+  Updated: 2026-10-24T11:22:29Z
   Total Products: 407
 - [Sailboat Steering Parts](https://www.stevestonmarine.com/collections/sailboat-steering-parts): Buy Online sailboat steering wheels, autopilot wheel systems & Edson pedestals at Steveston Marine. Buy premium boat steering wheels online today.
-  Updated: 2026-09-26T14:21:47Z
+  Updated: 2026-10-27T11:28:28Z
   Total Products: 90
 - [Sailing Rope](https://www.stevestonmarine.com/collections/sailing-rope): Buy Online sailing rope for  at Steveston Marine. Buy premium sailboat halyards and sheets with top performance, durability, and fast shipping in Canada.
   Updated: 2026-10-22T11:25:50Z
   Total Products: 39
 - [Rigging Knives and Marlin Spikes](https://www.stevestonmarine.com/collections/rigging-knives-and-marlin-spikes): Shop Online rigging knives & marlin spikes at Steveston Marine. Durable, reliable tools for boating—shop now for top marine gear.
-  Updated: 2026-09-30T11:22:37Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 30
 - [Rope Splicing Tools](https://www.stevestonmarine.com/collections/rope-splicing-tools): Shop Online rope splicing tools and kits at Steveston Marine. Buy high-quality gear for strong, secure rope work—perfect for marine and boating needs.
   Updated: 2026-09-04T17:43:10Z
@@ -2209,7 +2209,7 @@
   Updated: 2026-10-02T11:22:32Z
   Total Products: 1345
 - [Anodes](https://www.stevestonmarine.com/collections/anodes): Find reliable Anodes marine equipment, parts, and accessories at Steveston Marine. We offer trusted products, fast Canadian shipping, and support for boat owners looking for dependable Anodes solutions. Browse our selection for quality gear built for the water.
-  Updated: 2026-10-21T11:23:39Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 747
 - [Adhesive Cleaner and Remover](https://www.stevestonmarine.com/collections/adhesive-cleaner-and-remover): Easily remove sticky residue, glue, and sealants with our Adhesive Cleaners and Removers. Perfect for boat maintenance and surface prep.
   Updated: 2026-09-25T20:34:00Z
@@ -2284,7 +2284,7 @@
   Updated: 2026-10-22T11:25:50Z
   Total Products: 22
 - [Epoxy Resin](https://www.stevestonmarine.com/collections/epoxy-resin): Steveston Marine & Hardware has a large selection of Epoxy Resin for you! We have a variety of products from Epifanes, Interlux, System Three, and many more. Shop in one of our stores located in Vancouver or Langley! Order online and receive FREE SHIPPING on orders over $120! (Some exceptions may apply)
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 149
 - [Fillers](https://www.stevestonmarine.com/collections/fillers): Shop marine body fillers and epoxy fillers at Steveston Marine. 3M Marine premium and lightweight fillers, Interlux Watertite and West System graphite powder. Ships Canada-wide.
   Updated: 2026-10-14T11:28:03Z
@@ -2341,7 +2341,7 @@
   Updated: 2026-09-27T11:26:40Z
   Total Products: 23
 - [ Deals - Limited Quantities Available](https://www.stevestonmarine.com/collections/): Check back often for great deals on Marine Electronics, Marine Hardware, Fishing Gear, and many other boating gadgets. These items are limited in stock, so act fast! Steveston Marine & Hardware has the best boating deals in Canada! You can find these products in one of our stores located in Vancouver !
-  Updated: 2026-10-22T11:25:50Z
+  Updated: 2026-10-29T11:18:27Z
   Total Products: 64
 - [AIS Receivers and Transponders](https://www.stevestonmarine.com/collections/ais-receivers-and-transponders): Buy Online AIS receivers, marine AIS transponders & Raymarine AIS transceivers for safer navigation. Improve vessel tracking & collision avoidance today.
   Updated: 2026-10-06T11:24:05Z
@@ -2359,7 +2359,7 @@
   Updated: 2026-09-25T20:32:46Z
   Total Products: 1
 - [Boat Autopilots & Marine Autopilot Systems](https://www.stevestonmarine.com/collections/autopilots): Shop boat autopilots & marine autopilot systems from Garmin, Raymarine & Simrad. Hydraulic & mechanical options for powerboats, sailboats & outboards. NMEA 2000 ready. Free shipping over $99 Canada.
-  Updated: 2026-10-13T17:44:38Z
+  Updated: 2026-10-30T11:18:30Z
   Total Products: 158
 - [VHF Antennas](https://www.stevestonmarine.com/collections/vhf-antennas): Buy Online VHF antennas, boat VHF antennas & marine VHF antennas at Steveston Marine. Reliable range, durable build & fast Canadian shipping.
   Updated: 2026-09-25T21:30:44Z
@@ -2383,7 +2383,7 @@
   Updated: 2026-09-17T11:22:20Z
   Total Products: 7
 - [Transducers and Mounts](https://www.stevestonmarine.com/collections/transducers-and-mounts): Shop online boat transducers and marine mounts for reliable sonar performance. Durable, easy-install solutions for every boating setup at Steveston Marine.
-  Updated: 2026-10-13T17:46:55Z
+  Updated: 2026-10-27T11:28:28Z
   Total Products: 316
 - [Fishfinders](https://www.stevestonmarine.com/collections/fishfinders): Looking for the ultimate fishing system? Steveston Marine & Hardware has a great selection of digital depth sounders and fish finders to suit every angler’s needs. If you just want to know the depth, we carry reliable basic models. But if you’re ready to take your fishing game to the next level, explore our advanced options from trusted brands like Lowrance, Humminbird, Raymarine, and Garmin. Our selection includes the latest technology such as CHIRP, Side Imaging, Down Imaging, Forward Scan, and Downscan — everything you need for the ultimate fishing experience. Did you know you can even control your Cannon downriggers directly from your fish finder? Discover all the possibilities at Steveston Marine & Hardware.
   Updated: 2026-10-13T11:22:24Z
@@ -2401,7 +2401,7 @@
   Updated: 2026-10-05T00:58:43Z
   Total Products: 89
 - [NMEA Network](https://www.stevestonmarine.com/collections/nmea-network): Shop Garmin, Maretron & Ancor NMEA network cables, connectors and marine networking systems for reliable onboard data communication and integration.
-  Updated: 2026-10-06T11:24:05Z
+  Updated: 2026-10-29T23:33:43Z
   Total Products: 163
 - [Radar](https://www.stevestonmarine.com/collections/radar): Buy Online boat radar systems including Raymarine Quantum radar and Garmin marine radar. Reliable navigation, clear target tracking & safety at sea.
   Updated: 2026-10-20T11:21:26Z
@@ -2425,7 +2425,7 @@
   Updated: 2026-10-21T11:23:39Z
   Total Products: 50
 - [VHF Radios - Handheld](https://www.stevestonmarine.com/collections/vhf-radios-handheld): Shop online VHF radios handheld and handheld marine radio for boating safety. Waterproof, floating & reliable models at Steveston Marine.
-  Updated: 2026-10-17T11:28:06Z
+  Updated: 2026-10-26T11:25:33Z
   Total Products: 13
 - [Wifi Products](https://www.stevestonmarine.com/collections/wifi-products): Buy Online marine WiFi booster, marine WiFi router & best marine WiFi antenna. Improve boat internet range and signal strength with reliable marine internet boosters.
   Updated: 2026-09-04T17:43:15Z
@@ -2494,7 +2494,7 @@
   Updated: 2026-09-25T20:53:54Z
   Total Products: 2
 - [Livewell - Aerator Heads, Fittings, Connectors](https://www.stevestonmarine.com/collections/livewell-aerator-heads-fittings-connectors): Buy Online livewell aerator pumps, Attwood aerator pumps, and Shurflo livewell pumps at Steveston Marine. Keep bait fresh with reliable livewell pumps.
-  Updated: 2026-09-25T20:01:10Z
+  Updated: 2026-10-25T00:58:58Z
   Total Products: 41
 - [Livewell - Aerator Pumps](https://www.stevestonmarine.com/collections/livewell-aerator-pumps): Steveston Marine & Hardware has Aerator Pumps for you! We have a large selection of pumps from ITT Jabsco, Flojet, Rule, and Attwood. Shop in one of our stores located in Vancouver or Langley! Or order online and receive FREE SHIPPING on orders over $99! (Some exceptions may apply)
   Updated: 2026-09-25T21:14:21Z
@@ -2563,6 +2563,12 @@
   - [Marine Supplies in Vancouver and Boat Parts Across British Columbia](https://www.stevestonmarine.com/blogs/news/marine-supplies-in-vancouver-and-boat-parts-across-british-columbia)
     Updated: 2026-09-26T10:02:26Z
     Author: CTO Amit Gupta
+  - [How to Set Crab Traps in BC: A Beginner's Step-by-Step Guide](https://www.stevestonmarine.com/blogs/news/how-to-set-crab-traps-in-bc-a-beginners-step-by-step-guide)
+    Updated: 2026-10-28T04:34:22Z
+    Author: CTO Amit Gupta
+  - [Best Bait for Crab Traps (and What Doesn't Work)](https://www.stevestonmarine.com/blogs/news/best-bait-for-crab-traps-and-what-doesnt-work)
+    Updated: 2026-10-28T04:40:06Z
+    Author: CTO Amit Gupta
 - [Best Grundens Rain Gear in Canada](https://www.stevestonmarine.com/blogs/best-grundens-rain-gear-in-canada)
   - [Best Grundens Rain Gear in Canada](https://www.stevestonmarine.com/blogs/best-grundens-rain-gear-in-canada/best-grundens-rain-gear-in-canada)
     Updated: 2026-04-30T05:12:07Z
@@ -2624,7 +2630,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.stevestonmarine.com/policies/privacy-policy)
-  Updated: 2025-06-05T07:32:09Z
+  Updated: 2026-10-30T14:32:18Z
 - [Shipping Policy](https://www.stevestonmarine.com/policies/shipping-policy)
   Updated: 2025-12-25T06:09:36Z
 - [Refund Policy](https://www.stevestonmarine.com/policies/refund-policy)
