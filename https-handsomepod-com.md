@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-10-04T15:04:02Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T01:06:35.628Z
+- Updated At: 2026-10-31T00:27:49.211Z
 
 ## Products
 
 - [Handsome Tote](https://handsomepod.com/products/handsome-tote): 100% cotton tote bag in black
-  Updated: 2026-10-21T04:53:27Z
+  Updated: 2026-10-28T13:50:26Z
   Vendor: Handsome Podcast
   Product Type: Tote
   Availability: Available
@@ -42,28 +42,28 @@
     Availability: Available
     Price: $60.00 USD
 - [Lil Cowboy Hat](https://handsomepod.com/products/lil-cowboy-hat): 100% cotton twill, low profile hat in brown
-  Updated: 2026-10-22T14:16:15Z
+  Updated: 2026-10-27T16:40:54Z
   Vendor: Handsome Podcast
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMlilcowboyhatfront.png?v=1704395616
   Price: $30.00 USD
 - [Keep It Handsome Trucker Hat](https://handsomepod.com/products/keep-it-handsome-trucker-hat): 5-panel, mid-profile mesh back trucker hat in white/black
-  Updated: 2026-10-20T14:21:04Z
+  Updated: 2026-10-27T19:44:45Z
   Vendor: Handsome Podcast
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMTruckerHat.png?v=1714162835
   Price: $30.00 USD
 - [Fortune Sticker](https://handsomepod.com/products/fortune-sticker): Happy Birthday Fortune! Sticker only available as a free gift with purchase! 3.5" inch tall vinyl sticker
-  Updated: 2026-10-22T23:02:07Z
+  Updated: 2026-10-30T20:53:16Z
   Vendor: Handsome Podcast
   Product Type: Stickers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSMFortuneSticker.png?v=1719847565
   Price: $4.00 USD
 - [Keep It Handsome Mug](https://handsomepod.com/products/keep-it-handsome-mug): 14oz ceramic mug, printed on both sides Dishwasher-safe but hand-wash recommended
-  Updated: 2026-10-20T18:46:07Z
+  Updated: 2026-10-30T20:53:15Z
   Vendor: Handsome Podcast
   Product Type: Drinkware
   Availability: Available
@@ -94,7 +94,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Keep It Handsome Hoodie](https://handsomepod.com/products/keep-it-handsome-hoodie): May take up to one week to ship 50/50 cotton/poly fleece hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-10-23T00:10:46Z
+  Updated: 2026-10-30T01:43:36Z
   Vendor: Handsome Podcast
   Product Type: Hoodie
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Keep It Handsome Sweatpants](https://handsomepod.com/products/keep-it-handsome-sweatpants): 50/50 cotton/poly fleece sweatpants in black Size Chart Size Inseam (in) Waist (Laid Flat) S 29 3/4 13 3/4 M 30 15 1/4 L 30 1/4 16 3/4 XL 30 1/2 18 1/4 2XL 30 1/2 19 1/4 3XL 30 3/4 21 1/4
-  Updated: 2026-10-21T00:59:06Z
+  Updated: 2026-10-27T15:54:16Z
   Vendor: Handsome Podcast
   Product Type: Sweatpants
   Availability: Available
@@ -196,13 +196,13 @@
     Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HNSM_Pahnties_2-Pack.png?v=1738865531
     Price: $35.00 USD
 - [Metal Tee](https://handsomepod.com/products/metal-tee): No one rocks harder than Tig, Fortune, and Mae 🤘 100% cotton t-shirt in Mineral Black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-21T23:54:46Z
+  Updated: 2026-10-29T15:45:35Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/164565_2_301383_d.png?v=1743783035
   - [S](https://handsomepod.com/products/metal-tee?variant=42613234040934)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [M](https://handsomepod.com/products/metal-tee?variant=42613234073702)
     Availability: Not Available
@@ -220,7 +220,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Handsome Ringer Tee](https://handsomepod.com/products/handsome-ringer-tee): 100% cotton ringer t-shirt in White with Navy Blue sleeve details Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-06T03:43:27Z
+  Updated: 2026-10-28T00:15:37Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -244,7 +244,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Lil Cowboy Zip Hoodie](https://handsomepod.com/products/lil-cowboy-zip-hoodie): 50/50 cotton/poly fleece zip-up hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-10-20T14:21:08Z
+  Updated: 2026-10-28T18:06:03Z
   Vendor: Handsome Podcast
   Product Type: Hoodie
   Availability: Available
@@ -268,7 +268,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Yeah Ghost Crewneck](https://handsomepod.com/products/yeah-ghost-crewneck): 50/50 cotton/poly fleece hoodie in black Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/8 M 29 22 35 1/8 L 30 24 36 1/8 XL 31 26 37 1/8 2XL 32 28 37 5/8 3XL 33 30 38 1/8
-  Updated: 2026-10-20T14:21:09Z
+  Updated: 2026-10-29T05:47:18Z
   Vendor: Handsome Podcast
   Product Type: Crewneck
   Availability: Available
@@ -292,7 +292,7 @@
     Availability: Available
     Price: $65.00 USD
 - [Names Tee](https://handsomepod.com/products/names-tee): 100% ringspun cotton t-shirt in black
-  Updated: 2026-10-20T18:59:26Z
+  Updated: 2026-10-30T16:04:46Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -316,14 +316,14 @@
     Availability: Available
     Price: $35.00 USD
 - [Put That on the List Notepad](https://handsomepod.com/products/put-it-on-the-list-notepad): 3x9" notepad with 50 sheets of paper
-  Updated: 2026-10-22T23:02:07Z
+  Updated: 2026-10-29T20:15:07Z
   Vendor: Handsome Podcast
   Product Type: Stationery
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Notepad.png?v=1762203674
   Price: $12.00 USD
 - [Peanut Butter B*tch Tee](https://handsomepod.com/products/peanut-butter-b-tch-tee): 100% ringspun cotton t-shirt in black
-  Updated: 2026-10-22T23:02:07Z
+  Updated: 2026-10-30T19:18:46Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -347,7 +347,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Cheese In My Pocket Tee](https://handsomepod.com/products/cheese-in-my-pocket-tee): 100% ringspun cotton t-shirt in black with a front breast pocket (perfect for holding cheese)
-  Updated: 2026-10-20T03:43:58Z
+  Updated: 2026-10-27T13:41:57Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -362,7 +362,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [XL](https://handsomepod.com/products/cheese-in-my-pocket-tee?variant=44843895849062)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://handsomepod.com/products/cheese-in-my-pocket-tee?variant=44843895881830)
     Availability: Available
@@ -371,7 +371,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Keep It Handsome Tie Dye Tee](https://handsomepod.com/products/keep-it-handsome-tie-dye-tee): 100% cotton, heavyweight pre-shrunk t-shirt in rainbow tie dye
-  Updated: 2026-10-12T21:25:28Z
+  Updated: 2026-10-29T23:05:26Z
   Vendor: Handsome Podcast
   Product Type: T-Shirt
   Availability: Available
@@ -395,7 +395,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Handsome Muscle Tank](https://handsomepod.com/products/handsome-muscle-tank): 100% heavyweight cotton muscle tank in faded black
-  Updated: 2026-10-05T13:03:45Z
+  Updated: 2026-10-28T00:15:32Z
   Vendor: Handsome Podcast
   Product Type: Tank Top
   Availability: Available
@@ -426,62 +426,131 @@
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Upside_Hat.png?v=1779459974
   Price: $40.00 USD
 - [Handsome Rainbow Bandana](https://handsomepod.com/products/handsome-rainbow-bandana): 22x22" cotton bandana with a rainbow gradient
-  Updated: 2026-10-21T00:59:08Z
+  Updated: 2026-10-27T15:49:36Z
   Vendor: Handsome Podcast
   Product Type: Bandana
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Bandana.png?v=1779459974
   Price: $25.00 USD
+- [Conversation Cards](https://handsomepod.com/products/conversation-cards): WELCOME TO THE CONVERSATION You’ve heard Handsome Podcast hosts Tig Notaro, Fortune Feimster, and Mae Martin attempt to answer these questions from friends together each week — sharing stories, opinions, tangents, and nonsense along the way. Now it’s your turn to weigh in. What would you say? Pick a question, give it your best answer, and see where the conversation takes you. There are no wrong answers. Pack of 100 conversation cards – 1 intro card + 99 questions to get the conversation started with a loved one.
+  Updated: 2026-10-30T20:53:16Z
+  Vendor: Handsome Podcast
+  Product Type: Game
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/2A2A6743.jpg?v=1793048379
+  Price: $35.00 USD
+- [Gam Cam Tee](https://handsomepod.com/products/gam-cam-tee): 100% ringspun cotton t-shirt in dark chocolate
+  Updated: 2026-10-30T15:31:45Z
+  Vendor: Handsome Podcast
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Gam_Cam_grn.png?v=1793048920
+  - [S](https://handsomepod.com/products/gam-cam-tee?variant=67699568672870)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://handsomepod.com/products/gam-cam-tee?variant=67699568705638)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://handsomepod.com/products/gam-cam-tee?variant=67699568738406)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://handsomepod.com/products/gam-cam-tee?variant=67699568771174)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://handsomepod.com/products/gam-cam-tee?variant=67699568803942)
+    Availability: Available
+    Price: $35.00 USD
+  - [3XL](https://handsomepod.com/products/gam-cam-tee?variant=67699568836710)
+    Availability: Available
+    Price: $35.00 USD
+- [Ascent Hoodie](https://handsomepod.com/products/ascent-hoodie): 50/50 cotton/poly fleece hooded sweatshirt in dark green
+  Updated: 2026-10-27T12:57:21Z
+  Vendor: Handsome Podcast
+  Product Type: Hoodie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/HDSM_Ascent_Hoodie_grn.png?v=1793048920
+  - [S](https://handsomepod.com/products/ascent-hoodie?variant=67699591544934)
+    Availability: Available
+    Price: $70.00 USD
+  - [M](https://handsomepod.com/products/ascent-hoodie?variant=67699591577702)
+    Availability: Available
+    Price: $70.00 USD
+  - [L](https://handsomepod.com/products/ascent-hoodie?variant=67699591610470)
+    Availability: Available
+    Price: $70.00 USD
+  - [XL](https://handsomepod.com/products/ascent-hoodie?variant=67699591643238)
+    Availability: Available
+    Price: $70.00 USD
+  - [2XL](https://handsomepod.com/products/ascent-hoodie?variant=67699591676006)
+    Availability: Available
+    Price: $70.00 USD
+  - [3XL](https://handsomepod.com/products/ascent-hoodie?variant=67699591708774)
+    Availability: Available
+    Price: $70.00 USD
+- [Peanut Butter B*tch Ornament](https://handsomepod.com/products/peanut-butter-b-tch-ornament): Clear acrylic ornament featuring peanut butter design, hung with silver ribbon
+  Updated: 2026-10-30T23:43:05Z
+  Vendor: Handsome Podcast
+  Product Type: Ornament
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/2A2A6733-Edit.png?v=1793048490
+  Price: $15.00 USD
+- [Pineapple Apart Ornament](https://handsomepod.com/products/pineapple-apart-ornament): Clear acrylic ornament featuring pineapple apart design, hung with silver ribbon
+  Updated: 2026-10-30T23:43:05Z
+  Vendor: Handsome Podcast
+  Product Type: Ornament
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0555/6469/7702/files/2A2A6719-Edit.png?v=1793048520
+  Price: $15.00 USD
 
 ## Collections
 
 - [Home Page](https://handsomepod.com/collections/frontpage)
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 46
 - [Apparel](https://handsomepod.com/collections/apparel)
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 26
 - [Accessories](https://handsomepod.com/collections/accessories)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 23
 - [All](https://handsomepod.com/collections/all)
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 52
 - [New](https://handsomepod.com/collections/new)
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 3
 - [Best Sellers](https://handsomepod.com/collections/best-sellers)
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 52
 - [Pride](https://handsomepod.com/collections/pride-2024)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 5
 - [Handsome Coffee Collection](https://handsomepod.com/collections/handsome-coffee-collection)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 2
 - [More For You](https://handsomepod.com/collections/more-for-you)
   Updated: 2026-10-06T17:38:01Z
   Total Products: 1
 - [Pride Outfit Ideas](https://handsomepod.com/collections/pride-outfit-ideas)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-28T11:11:11Z
   Total Products: 10
 - [EasyGift All Products](https://handsomepod.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-22T11:19:02Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 53
 - [Handsome Halloween](https://handsomepod.com/collections/handsome-halloween)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-29T11:12:08Z
   Total Products: 3
 - [Sample ](https://handsomepod.com/collections/sample)
-  Updated: 2026-10-21T11:13:16Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 7
 - [Party Kisser](https://handsomepod.com/collections/party-kisser)
-  Updated: 2026-10-20T11:13:25Z
+  Updated: 2026-10-28T11:11:11Z
   Total Products: 3
 - [](https://handsomepod.com/collections/)
-  Updated: 2026-10-21T11:13:16Z
-  Total Products: 7
+  Updated: 2026-10-30T11:12:53Z
+  Total Products: 6
 - [Holiday Collection](https://handsomepod.com/collections/holiday-collection)
-  Updated: 2026-10-20T21:43:03Z
+  Updated: 2026-10-30T11:12:53Z
   Total Products: 5
 
 ## Store Pages
