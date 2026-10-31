@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-10-23T01:18:44.855Z
+- Updated At: 2026-10-31T00:38:25.143Z
 
 Crafted Cocktail Toppers is a premium provider of custom edible drink toppers designed for weddings, corporate events, and luxury celebrations. Our toppers can be personalized with logos, photos, monograms, and themed designs to elevate cocktails and create memorable drink experiences.
 
@@ -15,7 +15,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Products
 
 - [Personalized Edible Monogram Drink Toppers - Custom Cocktail Garnishe](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
-  Updated: 2026-10-22T17:46:38Z
+  Updated: 2026-10-31T00:01:16Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Edible Drink Toppers
   Availability: Available
@@ -957,7 +957,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $101.98 USD
 - [Personalized Acrylic Cocktail Stirrers | Custom Drink Decor](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-09-09T14:32:06Z
+  Updated: 2026-10-28T18:18:03Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -965,203 +965,203 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   - [100pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330242118)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330274886)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330307654)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330340422)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329455686)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329488454)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs Black / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329521222)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs Black / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329553990)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330504262)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330537030)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330569798)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330602566)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329652294)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329685062)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs White / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330176582)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs White / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330209350)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329717830)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329750598)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329783366)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329816134)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330373190)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330405958)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs Clear / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330438726)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs Clear / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330471494)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329979974)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330012742)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330045510)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330078278)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329586758)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329619526)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs Gold Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330111046)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs Gold Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388330143814)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331552838)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331585606)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331618374)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331651142)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331159622)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331192390)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs Sliver Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331225158)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs Sliver Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331257926)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331290694)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331323462)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
   - [50pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331356230)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $33.98 USD
+    Price: $47.98 USD
   - [50pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331388998)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $41.98 USD
+    Price: $55.98 USD
   - [30pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329848902)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $25.98 USD
+    Price: $37.98 USD
   - [30pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329881670)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $28.98 USD
+    Price: $41.98 USD
   - [10pcs Rose Mirror / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329914438)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $15.98 USD
+    Price: $25.98 USD
   - [10pcs Rose Mirror / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388329947206)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $17.98 USD
+    Price: $28.98 USD
   - [100pcs Magenta / 15cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331028550)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $54.98 USD
+    Price: $72.98 USD
   - [100pcs Magenta / 18cm](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor?variant=44388331061318)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0657/8484/0262/files/Product_stirrers.png?v=1766967181
-    Price: $69.98 USD
+    Price: $89.98 USD
 - [Personalized Acrylic Drink Tags (20–100pcs) | Crafted Cocktail Toppers](https://craftedcocktailtoppers.com/products/20-50-100pcs-custom-drink-tags-acrylic-wine-charms-place-cards): Shop personalized acrylic drink tags that double as wine charms and place cards. Elegant, custom engraved details for weddings, events, and elevated hosting.
   Updated: 2026-09-19T01:42:04Z
   Vendor: Crafted Cocktail Toppers
@@ -2045,7 +2045,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-10-22T11:21:05Z
+  Updated: 2026-10-30T11:15:17Z
   Total Products: 3
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-07-08T20:15:22Z
@@ -2054,10 +2054,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2026-09-04T20:48:32Z
   Total Products: 5
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers): Shop premium edible cocktail toppers that wow guests at weddings, bachelorettes, birthdays, and corporate events. Customizable designs that sit beautifully on any drink.
-  Updated: 2026-10-22T11:21:05Z
+  Updated: 2026-10-30T11:15:17Z
   Total Products: 10
 - [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-10-21T11:16:46Z
+  Updated: 2026-10-28T18:18:04Z
   Total Products: 5
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins): Elevate your bar cart and event tables with premium cocktail napkins. Perfect for weddings, showers, and celebrations — pair seamlessly with our edible drink toppers.
   Updated: 2026-10-15T19:48:41Z
@@ -2069,10 +2069,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2026-07-08T20:15:22Z
   Total Products: 0
 - [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations-1)
-  Updated: 2026-09-07T19:47:57Z
+  Updated: 2026-10-23T11:21:15Z
   Total Products: 4
 - [Cocktail Accessories](https://craftedcocktailtoppers.com/collections/cocktail-accessories): Personalized cocktail accessories for weddings, corporate events, restaurants, bars, hotels, and brand activations. Shop custom acrylic stirrers and drink accessories.
-  Updated: 2026-10-21T11:16:46Z
+  Updated: 2026-10-28T18:18:04Z
   Total Products: 5
 
 ## Blogs
