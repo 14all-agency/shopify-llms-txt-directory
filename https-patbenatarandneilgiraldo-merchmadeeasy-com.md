@@ -6,18 +6,18 @@
 - Timezone: America/Chicago
 - Created At: 2022-05-04T17:05:02Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:49:19.604Z
+- Updated At: 2026-10-31T00:17:52.499Z
 
 ## Products
 
 - [1979-2022 Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-and-neil-1979-2022-tee): 100% ringspun combed cotton Mineral washed for vintage look Preshrunk to minimize shrinkage
-  Updated: 2026-10-19T14:36:28Z
+  Updated: 2026-10-30T14:22:50Z
   Vendor: Pat Benatar and Neil Giraldo - Vintage
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/PBNG19792022Tee.png?v=1733845730
   - [Small](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-and-neil-1979-2022-tee?variant=42309676892309)
-    Availability: Not Available
+    Availability: Available
     Price: $25.00 USD
   - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/pat-and-neil-1979-2022-tee?variant=42309676957845)
     Availability: Not Available
@@ -197,7 +197,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Mineral Wash Wings Tour Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/mineral-wash-wings-tee): Pre-shrunk 100% heavyweight cotton
-  Updated: 2026-10-20T02:33:18Z
+  Updated: 2026-10-28T13:54:41Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -206,7 +206,7 @@
     Availability: Available
     Price: $25.00 USD
   - [Medium](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/mineral-wash-wings-tee?variant=43546059669653)
-    Availability: Not Available
+    Availability: Available
     Price: $25.00 USD
   - [Large](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/mineral-wash-wings-tee?variant=43546059702421)
     Availability: Not Available
@@ -307,7 +307,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Red Stripes Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-red-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:30:03Z
+  Updated: 2026-10-30T16:30:06Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -334,7 +334,7 @@
     Availability: Not Available
     Price: $25.00 USD
   - [X-Large / No dates](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-red-tee?variant=47713174257813)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [2X-Large / 2025 tour dates](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/spring-2025-tour-red-tee?variant=45915030487189)
     Availability: Not Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0616/8399/0677/files/Mockup_0002s_0000_PBNG-Rose-Bandana.png?v=1783017801
   Price: $15.00 USD
 - [White Vintage Photo Tee](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/white-vintage-photo-tee): The official Pat Benatar and Neil Giraldo spring 2025 tour merchandise is online now! Shop while supplies last.
-  Updated: 2026-10-20T02:29:33Z
+  Updated: 2026-10-30T14:22:27Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: T-Shirt
   Availability: Available
@@ -500,7 +500,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Benatar Giraldo Tote Bag](https://patbenatarandneilgiraldo.merchmadeeasy.com/products/benatar-giraldo-tote-bag-1): Benatar Giraldo graphic on the front 100% cotton tote
-  Updated: 2026-10-05T13:02:43Z
+  Updated: 2026-10-30T14:29:16Z
   Vendor: Pat Benatar and Neil Giraldo
   Product Type: Bag
   Availability: Available
