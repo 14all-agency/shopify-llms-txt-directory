@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-10-23T00:52:22.763Z
+- Updated At: 2026-10-31T00:19:05.747Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -291,6 +291,18 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-10-22T09:01:00Z
     Author: The Wifey Collection
     Tags: chic modesty, elegance, fashion, modern modest outfits, modest, modest clothing, modest style tips, understated beauty
+  - [Legacy of Artistry: Exploring the Heritage Behind Modest Creations](https://thewifeycollection.ca/blogs/news/legacy-of-artistry-exploring-the-heritage-behind-modest-creations): Legacy of Artistry: Exploring the Heritage Behind Modest Creations
+    Updated: 2026-10-24T09:01:04Z
+    Author: The Wifey Collection
+    Tags: artisan craftsmanship, cultural clothing, exploring modest designs, fashion, heritage, history of modest fashion, modest, modest wear
+  - [Art Beyond Words: The Quiet Symphony in Handmade Modest Fashion](https://thewifeycollection.ca/blogs/news/art-beyond-words-the-quiet-symphony-in-handmade-modest-fashion): Art Beyond Words: The Quiet Symphony in Handmade Modest Fashion
+    Updated: 2026-10-27T09:00:50Z
+    Author: The Wifey Collection
+    Tags: artisan designs, express your style, fashion, handmade, modest, modest clothing, stylish modesty, sustainable modest fashion
+  - [The Gentle Revival: Tracking the Evolution of Modesty through Design](https://thewifeycollection.ca/blogs/news/the-gentle-revival-tracking-the-evolution-of-modesty-through-design): The Gentle Revival: Tracking the Evolution of Modesty through Design
+    Updated: 2026-10-29T09:01:30Z
+    Author: The Wifey Collection
+    Tags: clothing design, evolution of modest fashion, fashion, fashion trends, modern modesty, modest, modest clothing for women, modest style
 
 ## Store Pages
 
@@ -304,7 +316,7 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
 ## Policies
 
 - [Privacy Policy](https://thewifeycollection.ca/policies/privacy-policy)
-  Updated: 2025-04-03T22:33:33Z
+  Updated: 2026-10-29T16:56:43Z
 - [Shipping Policy](https://thewifeycollection.ca/policies/shipping-policy)
   Updated: 2020-05-01T00:44:43Z
 - [Refund Policy](https://thewifeycollection.ca/policies/refund-policy)
