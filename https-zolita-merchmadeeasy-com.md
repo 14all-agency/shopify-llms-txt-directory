@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-04-12T17:27:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:59:30.174Z
+- Updated At: 2026-10-31T00:21:20.311Z
 
 ## Products
 
@@ -137,7 +137,7 @@
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_GIG_Signed.png?v=1762805242
   Price: $25.00 USD
 - [Scissors Tank](https://zolita.merchmadeeasy.com/products/scissors-tank): 52% Airlume combed and ring-spun cotton, 48% polyester ribbed tank top Size Fits Sizes S 2-4 M 6-8 L 8-10 XL 10-14 2XL 14-18
-  Updated: 2026-10-12T18:56:33Z
+  Updated: 2026-10-29T04:14:05Z
   Vendor: Zolita
   Product Type: Tank
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Gay Ass Shorts - Black](https://zolita.merchmadeeasy.com/products/gay-ass-shorts): Please note: these shorts will ship in approximately 2 weeks 100% cotton booty shorts Size Relaxed Waist (in) Inseam (in) Outseam (in) S 12 3/4 2 1/2 6 1/2 M 13 1/4 2 3/4 7 L 13 3/4 3 1/4 7 1/4 XL 14 1/4 3 3/4 7 3/4 2XL 14 3/4 4 1/4 8
-  Updated: 2026-10-17T02:56:30Z
+  Updated: 2026-10-28T04:11:35Z
   Vendor: Zolita
   Product Type: Shorts
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZolitaVinyl.png?v=1713456968
   Price: $27.00 USD
 - [Falling Out / Falling In - SIGNED CD](https://zolita.merchmadeeasy.com/products/falling-out-falling-in-signed-cd): Zolita's 2023 EP, hand-signed by Zolita! Track Listing 20 Questions Drunk with Your Exes Crazy Ex Ruin My Life Ashley For the Both of Us Release Date: February 10, 2023
-  Updated: 2026-10-15T02:22:46Z
+  Updated: 2026-10-30T20:58:21Z
   Vendor: Zolita
   Product Type: CD
   Availability: Available
@@ -359,6 +359,30 @@
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-ass-shorts-red?variant=51964154904860)
     Availability: Not Available
     Price: $30.00 USD
+- [Kitty Kisser Tee](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee): 100% ringspun cotton heavyweight t-shirt in washed black Size Body Length (in) Chest Width (Laid Flat) S 27 3/4 19 3/4 M 28 3/4 20 3/4 L 29 3/4 22 3/4 XL 30 3/4 24 3/4 2XL 31 3/4 26 3/4 3XL 32 3/4 28 3/4
+  Updated: 2026-10-29T17:05:27Z
+  Vendor: Zolita
+  Product Type: Tee
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_KK_Tee.png?v=1759342579
+  - [S](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906357020)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [M](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906389788)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [L](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906422556)
+    Availability: Available
+    Price: $40.00 USD
+  - [XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906455324)
+    Availability: Available
+    Price: $40.00 USD
+  - [2XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084906488092)
+    Availability: Available
+    Price: $40.00 USD
+  - [3XL](https://zolita.merchmadeeasy.com/products/kitty-kisser-tee?variant=53084934373660)
+    Availability: Not Available
+    Price: $40.00 USD
 - [Hell's Belles Shorts](https://zolita.merchmadeeasy.com/products/hells-belles-shorts): 100% cotton gym shorts with elastic foldable waistband Size Waist (in) Inseam (in) S 25 1/2 2 1/2 M 27 1/2 2 1/2 L 29 1/2 2 1/2 XL 31 1/2 2 1/2 2XL 32 1/2 2 1/2
   Updated: 2026-10-05T13:04:07Z
   Vendor: Zolita
@@ -402,35 +426,35 @@
     Availability: Available
     Price: $40.00 USD
 - [Hell's Belles - Clear Vinyl (SIGNED)](https://zolita.merchmadeeasy.com/products/hells-belles-clear-vinyl-signed): This is a pre-order item - the vinyl will not ship until October 2026. Zolita’s third album Hell’s Belles on 12” 140 gram clear vinyl with single pocket jacket and printed insert. Hand-signed by Zolita Track Listing 1. Hell’s Belles2. Miss Misunderstood3. Everybody’s Lover4. Best Ex of Your Life5. Belle’s HELL (Interlude)6. HARDCORE7. VOODOO DOLL8. DOPPELBANGER9. FINAL FANTASY
-  Updated: 2026-10-16T02:38:57Z
+  Updated: 2026-10-29T04:14:05Z
   Vendor: Zolita
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Hell_s_Belles_Vinyl_Signed.png?v=1787257269
   Price: $30.00 USD
 - [Gay Cult Tee](https://zolita.merchmadeeasy.com/products/gay-cult-tee): Zolita Gay Cult Tee made of 100% ring-spun USA premium cotton in Black
-  Updated: 2026-10-16T02:38:51Z
+  Updated: 2026-10-30T18:55:15Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOLGayCultTee.png?v=1787257346
   - [S](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995293468)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995326236)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995359004)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995391772)
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/gay-cult-tee?variant=54452995424540)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
 - [Hardcore Ribbed Tank](https://zolita.merchmadeeasy.com/products/hardcore-tank-top): Hardcore Tank Top that is 95% combed ring-spun cotton with 5% Spandex in Black
-  Updated: 2026-10-23T00:00:11Z
+  Updated: 2026-10-30T18:20:34Z
   Vendor: Zolita
   Product Type: Tank
   Availability: Available
@@ -451,28 +475,28 @@
     Availability: Available
     Price: $30.00 USD
 - [Hell's Belles SIGNED Vinyl + T-Shirt Bundle](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle): This is a pre-order item - the vinyl will not ship until October 2026. Zolita’s third album Hell’s Belles on 12” 140 gram clear vinyl with single pocket jacket and printed insert. Hand-signed by Zolita This bundle includes a Gay Cult Tee. Track Listing 1. Hell’s Belles2. Miss Misunderstood3. Everybody’s Lover4. Best Ex of Your Life5. Belle’s HELL (Interlude)6. HARDCORE7. VOODOO DOLL8. DOPPELBANGER9. FINAL FANTASY
-  Updated: 2026-10-16T02:39:08Z
+  Updated: 2026-10-30T18:55:25Z
   Vendor: Zolita
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0866/3875/6124/files/ZOL_Hell_s_Belles_Bundle.png?v=1787338441
   - [S](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247840028)
-    Availability: Not Available
+    Availability: Available
     Price: $60.00 USD
   - [M](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247872796)
-    Availability: Not Available
+    Availability: Available
     Price: $60.00 USD
   - [L](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247905564)
-    Availability: Not Available
+    Availability: Available
     Price: $60.00 USD
   - [XL](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247938332)
     Availability: Available
     Price: $60.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-signed-vinyl-t-shirt-bundle?variant=54458247971100)
-    Availability: Not Available
+    Availability: Available
     Price: $60.00 USD
 - [Hell's Belles Tour Tee](https://zolita.merchmadeeasy.com/products/hells-belles-tour-tee): Zolita Gay Cult Tee made of 100% ring-spun USA premium cotton in Black
-  Updated: 2026-10-17T02:56:27Z
+  Updated: 2026-10-30T03:07:06Z
   Vendor: Zolita
   Product Type: Tee
   Availability: Available
@@ -490,10 +514,10 @@
     Availability: Available
     Price: $40.00 USD
   - [2XL](https://zolita.merchmadeeasy.com/products/hells-belles-tour-tee?variant=54631939080476)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
-- [Cult Leader Hat](https://zolita.merchmadeeasy.com/products/cult-leader-hat): Please note: this is a pre-order item. Orders containing this item will ship in 4-6 weeks Mineral wash dad hat
-  Updated: 2026-10-05T13:04:11Z
+- [Cult Leader Hat](https://zolita.merchmadeeasy.com/products/cult-leader-hat): Mineral wash dad hat
+  Updated: 2026-10-30T03:10:25Z
   Vendor: Zolita
   Product Type: Hat
   Availability: Available
@@ -503,31 +527,31 @@
 ## Collections
 
 - [Home page](https://zolita.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 37
 - [Apparel](https://zolita.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 33
 - [Accessories](https://zolita.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-16T11:17:14Z
-  Total Products: 6
+  Updated: 2026-10-29T15:01:43Z
+  Total Products: 7
 - [Music](https://zolita.merchmadeeasy.com/collections/media)
-  Updated: 2026-10-16T11:17:14Z
+  Updated: 2026-10-29T11:12:12Z
   Total Products: 11
 - [Hats](https://zolita.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-12T15:27:17Z
-  Total Products: 1
+  Updated: 2026-10-29T15:01:43Z
+  Total Products: 2
 - [All](https://zolita.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 50
 - [Queen of Hearts](https://zolita.merchmadeeasy.com/collections/queen-of-hearts)
   Updated: 2026-10-13T00:24:05Z
   Total Products: 9
 - [Queen of Hearts Merch](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-merch)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T11:12:12Z
   Total Products: 11
 - [Old Favorites](https://zolita.merchmadeeasy.com/collections/old-favorites)
-  Updated: 2026-10-17T11:21:53Z
+  Updated: 2026-10-29T11:12:12Z
   Total Products: 15
 - [Cult of Girls Collection](https://zolita.merchmadeeasy.com/collections/cult-of-girls-collection)
   Updated: 2026-10-15T11:19:06Z
@@ -536,40 +560,40 @@
   Updated: 2026-10-02T19:52:06Z
   Total Products: 1
 - [Queen of Hearts Tour](https://zolita.merchmadeeasy.com/collections/queen-of-hearts-tour)
-  Updated: 2026-10-17T11:21:53Z
+  Updated: 2026-10-29T11:12:12Z
   Total Products: 12
 - [Gay Ass Collection](https://zolita.merchmadeeasy.com/collections/gay-ass-collection)
-  Updated: 2026-10-17T11:21:53Z
+  Updated: 2026-10-28T11:12:39Z
   Total Products: 8
 - [$20.24](https://zolita.merchmadeeasy.com/collections/20-24)
   Updated: 2026-08-05T18:57:59Z
   Total Products: 0
 - [EasyGift All Products](https://zolita.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 52
 - [New](https://zolita.merchmadeeasy.com/collections/new)
-  Updated: 2026-10-02T19:52:07Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 5
 - [New Arrivals](https://zolita.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 52
 - [Best Sellers](https://zolita.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 52
 - [](https://zolita.merchmadeeasy.com/collections/)
-  Updated: 2026-10-17T11:21:53Z
+  Updated: 2026-10-29T11:12:12Z
   Total Products: 11
 - [Tees & Tanks](https://zolita.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-19T11:17:38Z
+  Updated: 2026-10-29T17:02:45Z
   Total Products: 24
 - [I <3 GIRLS](https://zolita.merchmadeeasy.com/collections/i-3-girls)
   Updated: 2026-08-05T18:57:59Z
   Total Products: 2
 - [Hell's Belles](https://zolita.merchmadeeasy.com/collections/hells-belles)
-  Updated: 2026-10-17T11:21:53Z
-  Total Products: 6
+  Updated: 2026-10-29T17:06:01Z
+  Total Products: 9
 - [Hell's Belles Tour](https://zolita.merchmadeeasy.com/collections/hells-belles-tour)
-  Updated: 2026-10-17T11:21:53Z
+  Updated: 2026-10-28T11:12:39Z
   Total Products: 6
 
 ## Store Pages
