@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-04T18:48:03Z
 - Contact Email: kunwarjadaorganics@gmail.com
-- Updated At: 2026-10-23T00:56:19.401Z
+- Updated At: 2026-10-31T00:19:12.919Z
 
 # Kodand Honey
 
@@ -82,7 +82,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.43_1.jpg?v=1791530942
     Price: ₹285.00 INR
 - [Pure Raw Tulsi Honey 1 kg - Unleash Natural Wellness Daily](https://iamkodand.in/products/tulsi-honey-1kg-pure-natural-honey-for-immunity-cold-relief-kodand): Elevate your health with Pure Raw Tulsi Honey 1 kg. Enjoy its unique flavor while benefiting from its natural wellness properties. Discover pure goodness today!
-  Updated: 2026-10-22T16:31:42Z
+  Updated: 2026-10-23T08:35:07Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Tulsi Honey
   Availability: Available
@@ -100,7 +100,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.43_2.jpg?v=1791530941
     Price: ₹275.00 INR
 - [HONEY - KODAND Wild Forest Honey 1 kg | Pure & Raw](https://iamkodand.in/products/wild-forest-honey-1kg-pure-raw-honey-with-strong-immunity-benefits-kodand): Indulge in KODAND Wild Forest Honey, a 100% pure multifloral honey packed with natural sweetness and health benefits. Perfect for wellness and culinary uses.
-  Updated: 2026-10-13T04:22:38Z
+  Updated: 2026-10-26T19:27:35Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Wild Forest Honey
   Availability: Available
@@ -136,7 +136,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Image: https://cdn.shopify.com/s/files/1/0965/6451/1036/files/WhatsApp_Image_2026-10-08_at_11.35.42_2.jpg?v=1791530941
     Price: ₹285.00 INR
 - [Honey for Health: Pure Raw Multiflora Honey - 1kg of Sweetness](https://iamkodand.in/products/multiflora-honey-1kg-pure-natural-honey-for-daily-use-kodand): Pure Raw Multiflora Honey: Nature's Sweetness for Your WellbeingEmbrace the delightful taste of Pure Raw Multiflora Honey and elevate your everyday meals with
-  Updated: 2026-10-13T04:22:38Z
+  Updated: 2026-10-26T08:38:57Z
   Vendor: KODAND® | Pure. Natural. Ethical. All Rights Reserved.
   Product Type: Multiflora Honey
   Availability: Available
@@ -205,7 +205,7 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Updated: 2026-09-29T09:00:29Z
   Total Products: 0
 - [Best seller](https://iamkodand.in/collections/best-seller): - KODAND® | Pure. Natural. Ethical. All Rights Reserved.
-  Updated: 2026-10-21T11:28:44Z
+  Updated: 2026-10-28T11:47:18Z
   Total Products: 8
 
 ## Blogs
@@ -543,6 +543,14 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
     Updated: 2026-10-21T12:01:45Z
     Author: Kodand Honey Team
     Tags: benefits of jamun honey, digestion benefits, health, honey, honey benefits, indian honey, jamun, jamun honey, kodand honey, natural honey, organic honey, pure honey, raw honey, raw honey for digestion, raw jamun
+  - [Pure Kodand Honey: Perfect Gifting Ideas for Raksha Bandhan](https://iamkodand.in/blogs/news/pure-kodand-honey-perfect-gifting-ideas-for-raksha-bandhan): Pure Kodand Honey: Perfect Gifting Ideas for Raksha Bandhan
+    Updated: 2026-10-27T12:00:32Z
+    Author: Kodand Honey Team
+    Tags: antioxidant properties, benefits, best honey for gifting, health benefits, honey, honey benefits, indian honey, jamun, jamun honey, kodand honey, natural honey, natural sweetener, pure honey, raw honey, traditional raksha bandhan gifts
+  - [Boost Immunity This Monsoon with Pure Jamun Honey Benefits](https://iamkodand.in/blogs/news/boost-immunity-this-monsoon-with-pure-jamun-honey-benefits): Boost Immunity This Monsoon with Pure Jamun Honey Benefits
+    Updated: 2026-10-28T12:01:19Z
+    Author: Kodand Honey Team
+    Tags: antioxidant properties, boost immunity with honey, health benefits, honey, honey benefits, immunity, indian honey, jamun, jamun honey, jamun honey benefits for immunity, kodand honey, natural honey, natural sweetener, pure honey, raw honey
 - [Benefits of Raw Honey – Why KODAND Raw Honey is a Daily Superfood](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood)
   - [Honey: Your Complete Guide to Pure, Raw & Natural Honey](https://iamkodand.in/blogs/benefits-of-raw-honey-why-kodand-raw-honey-is-a-daily-superfood/honey-the-ultimate-guide-to-pure-raw-natural-honey-benefits-uses-buying-guide): Honey: Your Complete Guide to Pure, Raw & Natural Honey
     Updated: 2026-08-19T11:23:29Z
@@ -1016,6 +1024,8 @@ Welcome to the official knowledge file for Kodand Honey. We are an Indian premiu
   Updated: 2026-08-18T15:29:05Z
 - [Honey  Dashboard: Boost Your Revenue Today](https://iamkodand.in/pages/): Transform Your  Marketing with HoneyYour journey to becoming a top-performing  starts here! With our Honey  Dashboard, y...
   Updated: 2026-08-18T15:29:19Z
+- [Diwali Gift](https://iamkodand.in/pages/diwali-gift)
+  Updated: 2026-10-26T13:12:08Z
 
 ## Policies
 
