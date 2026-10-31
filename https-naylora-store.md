@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-10-24T00:49:55.227Z
+- Updated At: 2026-10-31T01:12:51.861Z
 
 ## Products
 
@@ -106,18 +106,12 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_10_2026_07_29_46_AM_f8a85adf-7005-49b2-9d12-7c41500cc967.png?v=1788993089
   Price: $59.99 USD
 - [Rootiva™ Rosemary Rice Water Hair Growth Spray](https://naylora.store/products/rosemary-rice-water-hair-spray): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
-  Updated: 2026-10-19T16:28:15Z
+  Updated: 2026-10-30T19:44:21Z
   Vendor: Digi Collex
   Product Type: 1 Hair Growth Cap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_14_2026_06_22_01_PM.png?v=1789374154
-  - [100ml](https://naylora.store/products/rosemary-rice-water-hair-spray?variant=53936975446299)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/995be626-364a-40b9-80e5-0d7a712e0dc8.jpg?v=1789293154
-    Price: $15.00 USD
-  - [200ml](https://naylora.store/products/rosemary-rice-water-hair-spray?variant=53936975479067)
-    Availability: Available
-    Price: $20.00 USD
+  Price: $15.00 USD
 - [Matte Translucent iPhone Stand Cover](https://naylora.store/products/matte-translucent-case-for-iphone-18-pro-pro-max-for-magsafe-charge-anti-fingerprint-stand-holder-cover): SPECIFICATIONS Design: Transparent Features: Anti-Fingerprint,Anti-Scratch,With Holder,WIth Kickstand,Matte / Anti-Glare High-concerned chemical: none Main Material: Pc + tpu Origin: Mainland China Type: FULL COVERAGE semi_Choice: yes
   Updated: 2026-09-18T22:31:39Z
   Vendor: DIGICOLLEX
@@ -441,20 +435,6 @@
   - [No Ring Stand 4 / iPhone 16 Pro Max](https://naylora.store/products/iphone-18-17-pro-max-airbag-drop-protection-case?variant=53953971061019)
     Availability: Available
     Price: $39.99 USD
-- [Wrapora™ 3-in-1 Kitchen Wrap Dispenser](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter): Product information: Material: ABS Color: gray, bamboo pattern Style: modern and simple Specification: no film Size: 372x138x82mm Packing list: Cutter X1PCS
-  Updated: 2026-09-20T20:50:47Z
-  Vendor: Digi Collex
-  Product Type: kitchen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_07_PM_6.png?v=1789795636
-  - [Bamboo pattern / No film](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter?variant=53987775119643)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_04_12_44_PM_2.png?v=1789798415
-    Price: $39.99 USD
-  - [Grey / No film](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter?variant=53987775152411)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_04_PM_1.png?v=1789795328
-    Price: $39.99 USD
 - [Ergonomic Cervical Memory Foam Pillow](https://naylora.store/products/hot--slow-rebound-memory-pillow): Product information: Product dimensions: 60*40*12 cm Manufacturing process: Foaming process Material: Memory foam Filler: Polyurethane Packing list: Pillow*1 Product Image:
   Updated: 2026-09-28T21:29:48Z
   Vendor: Digi Collex
@@ -474,7 +454,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_27_2026_02_01_15_PM.png?v=1790481695
     Price: $34.99 USD
 - [Reliva™ Easy-Zip Compression Socks](https://naylora.store/products/mens-and-womens-sports-zipper-elastic-socks): Product information: Pattern: solid color Color: gray, skin color, black, copper skin color, Copper Black, butterfly, stripes Length of socks: Middle calf Size: S/M,L/XL,XXL Thickness: medium Fabric name: Nylon Yarn Main fabric composition: Nylon Inventory Type: entire transaction Function: breathable, shaping, sweat absorption, anti-friction Suitable season: summer, winter, spring, autumn Style: Sports Craft: Jacquard Packing list: Socks*1(Pair) Product Image: Actual Product Photo
-  Updated: 2026-10-21T20:33:32Z
+  Updated: 2026-10-30T21:30:46Z
   Vendor: naylora
   Product Type: zip socks
   Availability: Available
@@ -567,22 +547,54 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_16_2026_07_55_50_PM-1_a0451b84-a90e-46ae-a240-b7fe71d8c8a6.png?v=1792142551
     Price: $79.99 USD
-- [Chopiva™ 6-in-1 Vegetable Chopper & Salad Spinner](https://naylora.store/products/multifunctional-vegetable-cutter-and-drain-basket): Overview Multifunctional Design - Combines shredding, slicing, grinding, draining, and storage in one device Manual Rotation - Effortless operation with a hand-crank mechanism for efficient dehydration Compact Efficiency - Space-saving design ideal for kitchens with limited counter space Durable Material - Constructed with 304 stainless steel for longevity and hygiene Versatile Use - Handles fruits, vegetables, and salads with multiple blade attachments Specifications Product Dimensions: 24.5*24.5*18.5 cm Material: 304 stainless steel Color Options: Milky white, Fresh green, Transparent variants Functions: Shredding, slicing, grinding, draining, storage Included Attachments: Six interchangeable blades, cutting board (depending on variant) Packing List multifunctional vegetable cutter*1 six blade heads*1 set cutting board*1 (for specific variants) {"styleType":"offer-type-1","items":"970575975873,971284780350,974128309049,972267317483,989524406699,984171583531","usemap":"_sdmap_18"}
-  Updated: 2026-10-22T19:58:55Z
+- [Cozyva™ Heated Wearable Blanket](https://naylora.store/products/electric-heated-wearable-blanket-shawl-controller-with-smart-temperature-control): Product information: Heating method: Heating wire Power supply: AC Color: Pink Rated power: 110V Battery life: 1–2 hours Fabric material: Flannel Rated voltage: 110V Packing list: Electric blanket*1 Product Image:
+  Updated: 2026-10-27T21:53:54Z
   Vendor: naylora
-  Product Type: Vegetable Cutter
+  Product Type: general
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/108f5521-b067-497a-ae30-7c71d11221fe.jpg?v=1792469143
-  Price: $47.99 USD
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_25_2026_06_46_56_PM-3.png?v=1792914533
+  - [Pink / 52x72inch / AU](https://naylora.store/products/electric-heated-wearable-blanket-shawl-controller-with-smart-temperature-control?variant=54373094064411)
+    Availability: Available
+    Price: $98.99 USD
+  - [Pink / 52x72inch / EU](https://naylora.store/products/electric-heated-wearable-blanket-shawl-controller-with-smart-temperature-control?variant=54373094097179)
+    Availability: Available
+    Price: $98.99 USD
+  - [Pink / 52x72inch / UK](https://naylora.store/products/electric-heated-wearable-blanket-shawl-controller-with-smart-temperature-control?variant=54373094129947)
+    Availability: Available
+    Price: $98.99 USD
+  - [Pink / 52x72inch / US](https://naylora.store/products/electric-heated-wearable-blanket-shawl-controller-with-smart-temperature-control?variant=54373094162715)
+    Availability: Available
+    Price: $98.99 USD
+- [Travora™ 4-in-1 Travel Toiletry Dispenser](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion): Overview: 1. [4-in-1 Travel Set] This innovative 4-in-1 travel dispenser offers travel convenience. Its compact design cleverly houses four independent refillable bottles, perfectly suited for your cleanser, shower gel, lotion, and makeup remover, making your travel grooming routine easy and convenient. 2. Leak-proof design: The bottle features a safety screw cap and a foldable pump head, providing double-seal protection to effectively prevent leaks and accidental spills. Travel with peace of mind; your toiletries are safely stored and won't soil your luggage. 3. This tranquil green travel dispenser is made from select premium plastic for durability. Measuring approximately 16.5 cm (6.5 inches) high and 5.5 cm (2.2 inches) wide, it's easy to carry and ideal for travel. 4. Easy filling, moderate capacity. Each individual inner bottle holds 30 ml, meeting the carry-on liquid capacity limits of most airlines. The wide opening and easy disassembly design allow you to quickly and easily refill your bottles without any hassle. 5. Compact and portable, with included label stickers. This travel travel bottle features a stylish and compact design, taking up minimal space in your suitcase or handbag. It's the perfect companion for business trips, vacations, camping, or fitness. Each set also includes a label sticker for easy identification of the contents of each bottle. Product information: Specifications: Green (English sticker), Gray (English sticker), Green and Gray (English sticker) Material: Plastic Capacity: 600 Packing list: Dispensing Bottle*1/*2 Product Image:
+  Updated: 2026-10-30T21:30:47Z
+  Vendor: Digi Collex
+  Product Type: 1 Hair Growth Cap
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_08_08_52_AM-1.png?v=1793343753
+  - [Gray / Sticker English Version](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion?variant=54456618615067)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_05_20_19_PM-1.png?v=1793341259
+    Price: $22.00 USD
+  - [Green / Sticker English Version](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion?variant=54456618647835)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_05_20_21_PM-2_ac2d3241-b607-4d35-83f1-c2f045eb7681.png?v=1793341278
+    Price: $22.00 USD
+- [Water rice](https://naylora.store/products/water-rice): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
+  Updated: 2026-10-30T21:58:46Z
+  Vendor: Digi Collex
+  Product Type: 1 Hair Growth Cap
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_14_2026_06_22_01_PM.png?v=1789374154
+  Price: $15.00 USD
 
 ## Collections
 
 - [Home page](https://naylora.store/collections/frontpage)
-  Updated: 2026-10-14T07:56:55Z
-  Total Products: 12
+  Updated: 2026-10-30T21:58:37Z
+  Total Products: 15
 - [Quality Products](https://naylora.store/collections/quality-products)
-  Updated: 2026-10-20T07:51:53Z
-  Total Products: 4
+  Updated: 2026-10-30T21:58:37Z
+  Total Products: 5
 - [Must Buy](https://naylora.store/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
   Total Products: 0
@@ -617,8 +629,8 @@
   Updated: 2026-10-14T07:56:59Z
   Total Products: 0
 - [Trending Now](https://naylora.store/collections/best-seller)
-  Updated: 2026-10-22T08:00:34Z
-  Total Products: 14
+  Updated: 2026-10-30T21:58:37Z
+  Total Products: 21
 - [SwiftChop™ Vegetable Chopper](https://naylora.store/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
   Total Products: 1
