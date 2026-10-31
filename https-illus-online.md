@@ -6,7 +6,7 @@
 - Timezone: Asia/Hong_Kong
 - Created At: 2025-10-26T14:52:41Z
 - Contact Email: illus.online@outlook.com
-- Updated At: 2026-10-23T01:12:08.723Z
+- Updated At: 2026-10-31T00:32:45.838Z
 
 ## Collections
 
@@ -34,7 +34,7 @@
 ## Policies
 
 - [Privacy Policy](https://illus.online/policies/privacy-policy)
-  Updated: 2025-10-26T14:52:48Z
+  Updated: 2026-10-30T09:35:50Z
 - [Shipping Policy](https://illus.online/policies/shipping-policy)
   Updated: 2025-11-25T15:13:29Z
 - [Refund Policy](https://illus.online/policies/refund-policy)
