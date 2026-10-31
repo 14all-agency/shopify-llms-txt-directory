@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-10-23T00:58:33.509Z
+- Updated At: 2026-10-31T00:23:51.031Z
 
 ## Products
 
@@ -59,13 +59,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-6ct-5050042.png?v=1783452287
   Price: $8.99 USD
-- [Back Pain Patches for Fast Relief and Comfort](https://www.koreanotc.com/products/antiphlamine-double-power-pain-relief-patch-6ct-copy): Find back pain patches designed to help ease soreness, support comfort, and provide targeted relief with Antiphlamine Double Strength Pain Relief Patch 30 ct.
-  Updated: 2026-09-10T15:06:28Z
-  Vendor: Yuhan Pharm
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0810/3051/2899/files/antiphlamine-double-power-pain-relief-patch-30-ct-7135096.png?v=1783452379
-  Price: $39.95 USD
 - [Sensitive Skin Mist for Daily Barrier Care](https://www.koreanotc.com/products/aestura-atobarrier365-cream-mist): AESTURA Atobarrier 365 Cream Mist is a sensitive skin mist that hydrates, soothes, and supports a healthy barrier for daily comfort.
   Updated: 2026-10-19T19:46:02Z
   Vendor: AESTURA
@@ -127,7 +120,7 @@ This is the strongest direction because the current formula specifically emphasi
   Updated: 2026-09-28T11:22:36Z
   Total Products: 2
 - [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop Korean skincare products designed to hydrate, brighten, and support healthy skin with gentle formulas and daily essentials for every routine.
-  Updated: 2026-10-06T11:21:51Z
+  Updated: 2026-10-24T11:24:10Z
   Total Products: 15
 - [Cleansers](https://www.koreanotc.com/collections/cleansers): Discover Korean cleansers that remove dirt, oil, and makeup while keeping skin soft, calm, and refreshed for daily cleansing.
   Updated: 2026-10-02T11:22:03Z
@@ -142,7 +135,7 @@ This is the strongest direction because the current formula specifically emphasi
   Updated: 2026-08-07T18:55:52Z
   Total Products: 1
 - [Pain Relief](https://www.koreanotc.com/collections/pain-relief): Discover pain relief patches for targeted, long-lasting comfort. Learn how they work, where to use them, and why they’re a simple pain relief option.
-  Updated: 2026-08-10T11:27:27Z
+  Updated: 2026-10-24T11:24:10Z
   Total Products: 2
 - [Sunscreens](https://www.koreanotc.com/collections/sunscreens): Discover Korean sunscreen for lightweight, broad-spectrum UV protection, skin-friendly formulas, and daily comfort for all skin types.
   Updated: 2026-08-07T18:55:53Z
