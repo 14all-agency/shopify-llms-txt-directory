@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-23T08:50:54Z
 - Contact Email: contact@aurorejewels.fr
-- Updated At: 2026-10-23T01:03:49.363Z
+- Updated At: 2026-10-31T00:33:28.880Z
 
 Aurorejewels is a premium French jewelry stainless steel elegant rings, 
 necklaces, bracelets and earrings for women. Specializing in fine, 
