@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-04-21T18:24:19Z
 - Contact Email: Jewelryluxeus@gmail.com
-- Updated At: 2026-10-23T01:05:41.248Z
+- Updated At: 2026-10-31T00:25:31.807Z
 
 ## Products
 
@@ -131,7 +131,7 @@
     Availability: Available
     Price: $74.95 USD
 - [Angel Wings Heart Necklace – Elegant Pendant Jewelry](https://jewelryluxeus.shop/products/graphic-heart-necklace-angel-wings): Wear your angel close with this personalized angel wings heart necklace. Custom engraving, silver or gold. A meaningful memorial gift. Shop now!
-  Updated: 2026-10-19T00:14:46Z
+  Updated: 2026-10-25T05:55:35Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
@@ -2579,8 +2579,8 @@
   Updated: 2026-10-21T18:50:58Z
   Total Products: 91
 - [Necklaces](https://jewelryluxeus.shop/collections/necklace): Shop personalized necklaces in sterling silver, gold, and rose gold. Memorial pendants, name necklaces, and custom engravings — meaningful jewelry for every moment.
-  Updated: 2026-10-13T07:13:00Z
-  Total Products: 241
+  Updated: 2026-10-25T11:18:13Z
+  Total Products: 243
 - [Rings](https://jewelryluxeus.shop/collections/ring): Shop personalized and memorial rings in gold, silver, and platinum. Engravable bands, gemstone rings, and custom designs for every meaningful occasion.
   Updated: 2026-10-07T08:54:02Z
   Total Products: 2
@@ -2588,8 +2588,8 @@
   Updated: 2026-10-07T08:54:02Z
   Total Products: 7
 - [Custom Gifts](https://jewelryluxeus.shop/collections/custom-gifts): Find the perfect personalized gift — engraved jewelry, memorial keepsakes, and custom pieces for birthdays, anniversaries, and remembrance. Ships ready to gift.
-  Updated: 2026-10-16T15:34:28Z
-  Total Products: 329
+  Updated: 2026-10-23T09:37:32Z
+  Total Products: 330
 - [Keychains](https://jewelryluxeus.shop/collections/keychains): Shop personalized engraved keychains — custom names, dates, and messages. Meaningful memorial keepsakes and unique gifts for every occasion.
   Updated: 2026-10-13T06:49:28Z
   Total Products: 16
@@ -2600,14 +2600,14 @@
   Updated: 2026-10-07T11:29:39Z
   Total Products: 10
 - [All Products](https://jewelryluxeus.shop/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront. - JewelryLuxeUS.Shop
-  Updated: 2026-10-21T18:51:30Z
-  Total Products: 1062
+  Updated: 2026-10-25T11:18:13Z
+  Total Products: 1064
 - [Candles](https://jewelryluxeus.shop/collections/candles): Shop hand-poured soy candles in calming and uplifting scents. Meaningful memorial gifts and luxury home accessories — perfect for gifting or personal comfort.
   Updated: 2026-10-07T11:29:21Z
   Total Products: 29
 - [A Piece of Them, Always With You](https://jewelryluxeus.shop/collections/memorial-jewelry): Shop memorial jewelry and personalized remembrance keepsakes — engraved necklaces, rings, and gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-10-15T07:04:07Z
-  Total Products: 158
+  Updated: 2026-10-25T11:18:13Z
+  Total Products: 160
 - [Christmas](https://jewelryluxeus.shop/collections/seasonal-and-holiday): Shop personalized Christmas gifts — custom jewelry, memorial keepsakes, and engraved pieces. Meaningful holiday gifts for the people you love most.
   Updated: 2026-10-21T18:51:30Z
   Total Products: 363
@@ -2618,7 +2618,7 @@
   Updated: 2026-10-07T08:54:03Z
   Total Products: 2
 - [Plates](https://jewelryluxeus.shop/collections/jewelry-dish): Wedding Plates, Christmas plates, Anniversary Plates
-  Updated: 2026-10-07T11:29:37Z
+  Updated: 2026-10-25T11:18:13Z
   Total Products: 105
 - [Wedding & Anniversary Gifts](https://jewelryluxeus.shop/collections/wedding-anniversary): Discover the epitome of elegance and timeless romance with our exclusive Wedding and Anniversary Collection. Meticulously curated to celebrate the most cherished milestones, this collection embodies sophistication and grace, offering a stunning array of pieces designed to commemorate love's most beautiful moments. Our Wedding Collection features an exquisite selection of bridal jewelry, including luminous diamond necklaces, delicately crafted earrings, and statement bracelets that perfectly complement the radiance of a bride's special day. Each piece is thoughtfully designed to capture the essence of true love, ensuring that every bride feels extraordinary as she walks down the aisle. Our collection also offers a range of elegant accessories for the groom, from classic cufflinks to sophisticated tie clips, each piece crafted to add a touch of refinement to his wedding attire. Celebrate enduring love with our Anniversary Collection, where every piece tells a story of commitment and devotion. From intricately designed rings symbolizing everlasting bonds to elegant pendants and bracelets that mark years of cherished memories, this collection is a testament to love that grows stronger with each passing year. Choose from an array of precious metals and gemstones, each expertly crafted to honor the unique journey of every couple. Whether you are planning a wedding or celebrating an anniversary, our collection offers timeless pieces that will be treasured for a lifetime. Embrace the beauty of love with our Wedding and Anniversary Collection, where every piece is a testament to the elegance and enduring nature of true romance. - JewelryLuxeUS.Shop
   Updated: 2026-10-07T11:30:25Z
@@ -2627,20 +2627,20 @@
   Updated: 2026-10-07T08:54:03Z
   Total Products: 42
 - [Memorial Gifts](https://jewelryluxeus.shop/collections/memorial-gifts): Shop personalized memorial gifts — engraved jewelry, remembrance keepsakes, and sympathy gifts to honor a loved one. Meaningful pieces crafted with care.
-  Updated: 2026-10-15T07:04:07Z
-  Total Products: 113
+  Updated: 2026-10-25T11:18:13Z
+  Total Products: 115
 - [Home Decor](https://jewelryluxeus.shop/collections/home-decor)
   Updated: 2026-10-07T11:29:30Z
   Total Products: 215
 - [Kitchen](https://jewelryluxeus.shop/collections/kitchen)
-  Updated: 2026-10-16T15:35:07Z
+  Updated: 2026-10-25T11:18:13Z
   Total Products: 426
 - [Wall Art](https://jewelryluxeus.shop/collections/wall-art)
   Updated: 2026-10-21T18:51:30Z
   Total Products: 107
 - [Jewelry](https://jewelryluxeus.shop/collections/jewelry)
-  Updated: 2026-10-13T07:13:00Z
-  Total Products: 281
+  Updated: 2026-10-25T11:18:13Z
+  Total Products: 283
 - [Napkins, Towels, Table Runners](https://jewelryluxeus.shop/collections/napkins)
   Updated: 2026-10-07T11:30:10Z
   Total Products: 90
