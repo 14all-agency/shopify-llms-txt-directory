@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-04-07T04:56:42Z
 - Contact Email: rpulsifer@-crafted.com
-- Updated At: 2026-10-23T00:59:47.962Z
+- Updated At: 2026-10-31T00:28:33.002Z
 
 ## Collections
 
@@ -102,7 +102,7 @@
 ## Policies
 
 - [Privacy Policy](https://-crafted.com/policies/privacy-policy)
-  Updated: 2025-04-07T04:56:49Z
+  Updated: 2026-10-30T12:10:59Z
 
 ## Optional
 
