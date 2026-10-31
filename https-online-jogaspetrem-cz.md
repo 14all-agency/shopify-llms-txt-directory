@@ -6,7 +6,7 @@
 - Timezone: Europe/Prague
 - Created At: 2026-05-19T16:44:51Z
 - Contact Email: jogaspetrem@gmail.com
-- Updated At: 2026-10-23T00:53:06.153Z
+- Updated At: 2026-10-31T00:19:43.927Z
 
 Testosterone Yoga Therapy by Dinah Rodrigues is an online course for men 40+ who want to naturally boost testosterone levels through hormonal yoga. The program includes 6 video lessons guiding men from warm-up exercises to the full system. No prior yoga experience needed. Sessions take 22-35 minutes. Results felt within weeks of regular practice. 100% satisfaction guarantee with full refund if not satisfied.
 
@@ -14,7 +14,7 @@ Testosterone Yoga Therapy by Dinah Rodrigues is an online course for men 40+ who
 ## Products
 
 - [Testosteron yoga terapie podle Dinah Rodrigues](https://online.jogaspetrem.cz/products/hormonalni-jogova-terapie-pro-muze-podle-dinah-rodrigues): Kompletní online kurz Hormonální jógové terapie pro muže podle metody vytvořené Dinah Rodrigues. 📹 Zkušenost Tomáše (advokát) po 30 dnech cvičení: Podívejte se na video výše. 6 lekcí, které vás krok za krokem provedou celým systémem – od zahřívacích cvičení až po samotnou sestavu. Přirozená cesta k podpoře zdravé hladiny testosteronu, vitality a celkové pohody.
-  Updated: 2026-10-18T15:45:16Z
+  Updated: 2026-10-26T06:08:46Z
   Vendor: Můj obchod
   Product Type: 
   Availability: Available
