@@ -43,7 +43,7 @@ The website includes an interactive jewelry builder that helps customers preview
 - Contact Email: emeloul@aol.com
 - Contact Phone: (800)709-9445
 - Address: Central Diamond Center, 818 South Central Expressway, Suite 1 Richardson, Texas 75080, USA
-- Updated At: 2026-10-23T01:02:54.055Z
+- Updated At: 2026-10-31T00:30:44.478Z
 
 # Mama’s Ring
 
@@ -163,7 +163,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T04:05:06Z
   Price: $150.00 USD
 - [Oval Rope Mothers Birthstone Ring – 1 to 12 Stones | CDC Jewelry](https://mamasring.com/products/nana-jewels-oval-rope-mothers-ring-1-to-12-birthstones-in-sterling-silver-10k-or-14k-gold): Elegant oval rope-style mothers ring with 1–12 simulated birthstones in silver, 10K, or 14K gold. A meaningful personalized gift for women.
-  Updated: 2026-10-18T20:15:41Z
+  Updated: 2026-10-30T09:12:55Z
   Price: $109.95 USD
 - [Tree of Life Mothers Birthstone Necklace - Up to 12 Stones | CDC](https://mamasring.com/products/nana-jewels-tree-of-life-mothers-pendant-1-12-stones-with-a-1mm-22-adj-box-chain-in-sterling-silver-solid-10k-or-14k-gold): Celebrate family with a Tree of Life necklace featuring up to 12 birthstones in Silver, 10K, or 14K Gold. A timeless gift for mothers.
   Updated: 2026-10-18T20:15:42Z
@@ -220,7 +220,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:15:48Z
   Price: $79.95 USD
 - [Princess Mothers Ring with 1–6 Birthstones in Silver or Gold](https://mamasring.com/products/nana-jewels-princess-mothers-ring-with-1-to-6-birthstones-in-sterling-silver-10k-or-14k-white-yellow-or-rose-gold): Elegant Princess Mothers Ring with 1 to 6 simulated birthstones. Choose Sterling Silver, 10K, or 14K Gold for a meaningful gift.
-  Updated: 2026-10-18T20:15:52Z
+  Updated: 2026-10-30T11:21:11Z
   Price: $79.95 USD
 - [Lucita Mothers Ring with 1–6 Simulated Birthstones – Silver or Gold](https://mamasring.com/products/nana-jewels-lucita-mothers-ring-with-1-to-6-birthstones-in-sterling-silver-10k-or-14k-white-yellow-or-rose-gold): Custom Lucita Mothers Ring with 1 to 6 simulated birthstones in sterling silver, 10K or 14K gold. A perfect personalized gift of love.
   Updated: 2026-10-18T20:15:51Z
@@ -469,8 +469,8 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-08T10:11:26Z
   Price: $79.95 USD
 - [Mom & Me Birthstone Heart Necklace in Sterling Silver with Zirconia](https://mamasring.com/products/sterling-silver-mom-me-birthstones-pendant-necklace): Celebrate love with a Mom & Me heart necklace featuring simulated birthstones & Pure Brilliance Zirconia in sterling silver. Perfect gift choice.
-  Updated: 2026-10-08T10:11:26Z
-  Price: $119.95 USD
+  Updated: 2026-10-28T06:11:03Z
+  Price: $79.00 USD
 - [Princess Cut 2-Stone Couples Pendant with Zirconia & Birthstones](https://mamasring.com/products/princess-cut-couples-2-stone-pendant-necklace-w-pure-brilliance-zirconia-on-3-sides-simulated-birthstones): Elegant princess cut 2-stone couples pendant with Pure Brilliance Zirconia and simulated birthstones — perfect for a meaningful gift.
   Updated: 2026-10-08T10:11:26Z
   Price: $59.00 USD
@@ -481,7 +481,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:16:05Z
   Price: $109.95 USD — $116.95 USD
 - [14K Gold & Silver Simulated Diamond Stud Earrings | CZ .30ct to 8.00ct](https://mamasring.com/products/14k-solid-gold-post-sterling-silver-4-prong-pure-brilliance-zirconia-cz-stud-earrings-1-00ctw-8-00ctw): 14K Solid Gold Post & Silver Simulated Diamond Stud Earrings. Explore cubic zirconia earrings studs from .30ct to 8.00ct for brilliant sparkle and exceptional value.
-  Updated: 2026-10-18T20:16:06Z
+  Updated: 2026-10-30T22:06:33Z
   Price: $18.45 USD — $63.95 USD
 - [Central Diamond Center Chandelier Dancing Diamond Simulated stone Dangle Earrings for Women in Sterling Silver](https://mamasring.com/products/nana-sterling-silver-cz-dangle-dancing-diamond-chandelier-earrings): Sterling Silver Chandelier Earrings with Dancing Pure Brilliance CZ. 1.00ct look, Rhodium-plated, 96 stones total. Elegant sparkle for any occasion.
   Updated: 2026-10-18T20:16:06Z
@@ -490,7 +490,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:16:06Z
   Price: $54.95 USD
 - [14K Gold & Sterling Silver Asscher Cut Halo CZ Stud Earrings 0.8-4ct](https://mamasring.com/products/asscher-cut-halo-stud-earring-in-sterling-silver-pure-brilliance-zirconia-14k-solid-gold-double-notched-post): Elegant 14K gold posts with sterling silver Asscher cut halo CZ stud earrings. Available 0.80-4.00cttw cubic zirconia for sparkling style.
-  Updated: 2026-10-08T10:11:27Z
+  Updated: 2026-10-26T13:19:28Z
   Price: $54.95 USD — $66.95 USD
 - [Princess Halo Earrings with Pure Brilliance Zirconia in Sterling Silver](https://mamasring.com/products/princess-halo-earrings-w-pure-brilliance-zirconia-in-sterling-silver-mounting-hypoallergenic): Elegant princess halo earrings featuring Pure Brilliance Zirconia in sterling silver. Hypoallergenic and perfect for any occasion.
   Updated: 2026-10-18T20:16:06Z
@@ -505,7 +505,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-18T20:16:06Z
   Price: $129.00 USD — $199.00 USD
 - [Round Huggie Hoop Earrings in 925 Silver with Pure Brilliance Zirconia](https://mamasring.com/products/sterling-silver-signity-zirconia-round-hoop-earrings-baby-teen-women-men): Elegant unisex huggie hoops in solid 925 sterling silver with Pure Brilliance Zirconia. Perfect for women, men, and teens.
-  Updated: 2026-10-18T20:16:06Z
+  Updated: 2026-10-30T10:57:01Z
   Price: $19.95 USD
 - [Heart Dancing Gemstone Earrings in Sterling Silver with Zirconia](https://mamasring.com/products/heart-dancing-gemstone-earrings-in-sterling-silver-made-w-pure-brilliance-zirconia): Romantic heart earrings in sterling silver with Pure Brilliance Zirconia—sparkling movement for timeless charm.
   Updated: 2026-10-18T20:16:05Z
@@ -571,11 +571,8 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-21T05:19:26Z
   Price: $134.95 USD
 - [Halo Tower Mothers Necklace with 3–6 Birthstones in Silver or Gold](https://mamasring.com/products/nana-jewels-halo-tower-mothers-necklace-w-3-to-6-simulated-birthstones-in-silver-10k-or-14k-gold): Celebrate motherhood with a Halo Tower necklace featuring 3–6 simulated birthstones in silver or gold.
-  Updated: 2026-10-18T20:16:16Z
+  Updated: 2026-10-30T19:48:26Z
   Price: $99.95 USD
-- [Infinity Love Mother & Child Necklace with 1–5 Birthstones in Silver or Gold](https://mamasring.com/products/nana-jewels-infinity-love-mother-child-necklace-w-1-5-simulated-birthstones-in-silver-10k-or-14k-gold): Celebrate the bond of motherhood with this Infinity Love necklace featuring 1–5 simulated birthstones in silver, 10K, or 14K gold.
-  Updated: 2026-10-08T10:11:33Z
-  Price: $89.95 USD
 - [Key to Infinity Love Mother & Child Necklace w/ 1-7 Birthstones in Silver, 10K, or 14K Gold](https://mamasring.com/products/nana-jewels-key-to-infinity-love-mother-child-necklace-w-1-7-birthstones-in-silver-10k-or-14k-gold): Customize the Key to Infinity Love Mother & Child Necklace with 1-7 birthstones in Silver, 10K or 14K Gold. Perfect personalized gift for moms!
   Updated: 2026-10-18T20:16:16Z
   Price: $152.95 USD
@@ -643,10 +640,10 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-08T10:11:38Z
   Price: $24.95 USD
 - [14K Gold Post CZ Martini Stud Earrings | 1.0ct to 4.0ct Pure Brilliance](https://mamasring.com/products/nana-jewels-sterling-silver-round-martini-style-3-prongs-pure-brilliance-zirconia-stud-earrings-with-a-solid-14k-gold-post-1-50ctw-4-00ctw): Elegant 3 prong martini style stud earrings with Pure Brilliance CZ, 14K gold post & silver base.
-  Updated: 2026-10-18T20:16:21Z
+  Updated: 2026-10-26T21:46:42Z
   Price: $37.50 USD — $49.95 USD
 - [Princess Cut CZ Stud Earrings | 14K Gold Post | 1.50–4.00ctw Zirconia](https://mamasring.com/products/14k-gold-posts-sterling-silver-princess-cut-cz-stud-earrings-w-pure-brilliance-zirconia-1-50-4-00ctw): Shine with Pure Brilliance princess cut CZ studs, 14K gold posts & silver base. Available in 1.50–4.00ctw.
-  Updated: 2026-10-18T20:16:21Z
+  Updated: 2026-10-26T13:24:37Z
   Price: $39.95 USD — $58.95 USD
 - [NANA Jewels Cushion Cut CZ Stud Earrings – 14K Gold Post & Silver](https://mamasring.com/products/cushion-cut-simulated-diamond-stud-earrings-14k-solid-gold-post-sterling-silver-0-60ctw-4-00ctw-cz): Elegant cushion cut simulated diamond stud earrings by NANA Jewels, 14K solid gold post & sterling silver. 0.60–4.00ctw CZ sparkle for any occasion.
   Updated: 2026-10-18T20:16:25Z
@@ -809,13 +806,13 @@ The website includes interactive customization tools that allow customers to pre
 ## Collections
 
 - [Ring](https://mamasring.com/collections/ring)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 79
 - [Mothers Pendents](https://mamasring.com/collections/mothers-pendants)
   Updated: 2026-10-15T11:20:07Z
   Total Products: 6
 - [Fashion Pendents / Necklaces](https://mamasring.com/collections/fashion-pendants-necklaces)
-  Updated: 2026-10-15T11:20:07Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 67
 - [Stud Earrings](https://mamasring.com/collections/stud-earrings2)
   Updated: 2026-09-21T11:13:35Z
@@ -830,13 +827,13 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-06-06T10:57:49Z
   Total Products: 7
 - [All Products New](https://mamasring.com/collections/all-products-new)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:38:02Z
   Total Products: 6009
 - [Necklace](https://mamasring.com/collections/necklace)
-  Updated: 2026-10-15T11:20:07Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 67
 - [Pendent](https://mamasring.com/collections/pendent)
-  Updated: 2026-10-15T11:20:07Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 69
 - [Engagement Rings](https://mamasring.com/collections/ring-1)
   Updated: 2026-09-01T03:19:37Z
@@ -848,7 +845,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-10-14T11:20:16Z
   Total Products: 20
 - [Rings](https://mamasring.com/collections/rings-1)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 79
 - [Earrings](https://mamasring.com/collections/earrings2)
   Updated: 2026-09-21T11:13:35Z
@@ -881,7 +878,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T03:19:37Z
   Total Products: 34
 - [Birthstone Ring](https://mamasring.com/collections/birthstone-ring)
-  Updated: 2026-05-08T22:07:48Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 5
 - [Couples Birthstones Rings](https://mamasring.com/collections/couples-birthstones-rings)
   Updated: 2026-05-08T22:07:48Z
@@ -890,7 +887,7 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-05-23T13:31:46Z
   Total Products: 3
 - [Birthstone Necklaces](https://mamasring.com/collections/birthstone-necklaces)
-  Updated: 2026-09-01T03:19:22Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 8
 - [Cvd Lab Grown Diamonds](https://mamasring.com/collections/cvd-lab-grown-diamonds)
   Updated: 2026-09-01T03:19:04Z
@@ -920,28 +917,28 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-01T03:20:44Z
   Total Products: 14
 - [Necklace](https://mamasring.com/collections/necklace-1)
-  Updated: 2026-10-14T11:20:16Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 45
 - [Jewelry Boxes](https://mamasring.com/collections/jewelry-boxes)
   Updated: 2026-05-08T22:07:50Z
   Total Products: 1
 - [Mothers Day ](https://mamasring.com/collections/mothers-day-)
-  Updated: 2026-10-18T11:15:48Z
+  Updated: 2026-10-29T08:38:02Z
   Total Products: 451
 - [All Products](https://mamasring.com/collections/all-products)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 209
 - [No Returns](https://mamasring.com/collections/no-returns)
   Updated: 2026-10-22T11:17:12Z
   Total Products: 4174
 - [Personalized Family Jewelry](https://mamasring.com/collections/personalized-family-jewelry)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-28T06:11:04Z
   Total Products: 20
 - [New Christmas ](https://mamasring.com/collections/new-christmas-)
-  Updated: 2026-10-18T11:15:48Z
+  Updated: 2026-10-29T08:38:02Z
   Total Products: 205
 - [Birthstone Products](https://mamasring.com/collections/birthstone-products)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 33
 - [Round Cut  Product Collection](https://mamasring.com/collections/round-stones-product-collection)
   Updated: 2026-09-01T03:19:37Z
@@ -965,13 +962,13 @@ The website includes interactive customization tools that allow customers to pre
   Updated: 2026-09-21T11:13:35Z
   Total Products: 18
 - [$10 Off  Collection](https://mamasring.com/collections/mothers-day--2026)
-  Updated: 2026-10-22T11:17:12Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 63
 - [20% Off  Collection](https://mamasring.com/collections/20-off-collection)
   Updated: 2026-09-01T03:09:06Z
   Total Products: 10
 - [15% Off On Mother's Jewelry](https://mamasring.com/collections/mothers-day--1)
-  Updated: 2026-05-08T22:07:51Z
+  Updated: 2026-10-29T08:24:57Z
   Total Products: 20
 - [15% Off  Collection](https://mamasring.com/collections/20-off--collection-copy)
   Updated: 2026-10-14T11:20:16Z
@@ -1053,7 +1050,7 @@ The website includes interactive customization tools that allow customers to pre
 ## Policies
 
 - [Privacy Policy](https://mamasring.com/policies/privacy-policy)
-  Updated: 2024-08-30T08:30:52Z
+  Updated: 2026-10-29T18:21:36Z
 - [Shipping Policy](https://mamasring.com/policies/shipping-policy)
   Updated: 2025-09-09T03:56:24Z
 - [Refund Policy](https://mamasring.com/policies/refund-policy)
