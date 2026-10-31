@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-21T20:12:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:53:38.024Z
+- Updated At: 2026-10-31T00:17:06.072Z
 
 ## Products
 
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $35.00 USD
 - [ZOBODOBODO Tank](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank): ZOBODOBODO on a 100% cotton tank in black with Noula on the back neck
-  Updated: 2026-10-05T13:05:27Z
+  Updated: 2026-10-29T16:25:06Z
   Vendor: Naika
   Product Type: Tank
   Availability: Available
@@ -123,45 +123,38 @@
     Availability: Available
     Price: $65.00 USD
 - [ECLESIA Tour Poster](https://naikaofficial.merchmadeeasy.com/products/eclesia-tour-poster): Commemorate the ECLESIA tour with this vintage style poster of Naïka. 11x17 inches.
-  Updated: 2026-10-05T13:05:29Z
+  Updated: 2026-10-27T17:55:55Z
   Vendor: Naika
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Eclesia-Tour-Poster.png?v=1771537251
   Price: $15.00 USD
-- [Lost In Paradise EP Vinyl](https://naikaofficial.merchmadeeasy.com/products/lost-in-paradise-pt-1-vinyl): Original pressing of Naïka’s EP Lost In Paradise pressed on black vinyl Side A is Part I, Side B is Part II *These are vintage collector's items. Some of these have been opened and show minor wear and tear from travel and storage. TRACKLIST Vultures African Sun Big Steps On My Way Head in the Clouds Sauce For Gerard Ma Chérie Water Burn Slow
-  Updated: 2026-10-09T15:51:45Z
-  Vendor: Naika
-  Product Type: Vinyl
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika_0003_LIP-2-Regular.png?v=1781819086
-  Price: $75.00 USD
 
 ## Collections
 
 - [Home page](https://naikaofficial.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-21T11:19:30Z
+  Updated: 2026-10-29T11:17:18Z
   Total Products: 7
 - [Apparel](https://naikaofficial.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-21T11:19:30Z
+  Updated: 2026-10-30T11:15:56Z
   Total Products: 5
 - [Accessories](https://naikaofficial.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T15:49:40Z
+  Updated: 2026-10-28T11:16:09Z
   Total Products: 3
 - [Hats](https://naikaofficial.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-08T20:31:02Z
   Total Products: 0
 - [Music](https://naikaofficial.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-20T11:18:47Z
+  Updated: 2026-10-29T11:17:18Z
   Total Products: 5
 - [All](https://naikaofficial.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-21T11:19:30Z
+  Updated: 2026-10-30T11:15:56Z
   Total Products: 11
 - [ECLESIA](https://naikaofficial.merchmadeeasy.com/collections/eclesia)
-  Updated: 2026-10-21T11:19:30Z
+  Updated: 2026-10-30T11:15:56Z
   Total Products: 10
 - [Lost In Paradise](https://naikaofficial.merchmadeeasy.com/collections/lost-in-paradise)
-  Updated: 2026-10-09T15:51:45Z
+  Updated: 2026-10-29T11:17:18Z
   Total Products: 2
 
 ## Store Pages
