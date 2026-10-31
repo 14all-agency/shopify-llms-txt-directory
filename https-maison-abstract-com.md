@@ -10,7 +10,7 @@ The platform allows customers to browse different artist collections, explore fr
 - Timezone: Europe/London
 - Created At: 2025-10-25T13:47:11Z
 - Contact Email: info@maison-abstract.com
-- Updated At: 2026-10-23T01:11:03.032Z
+- Updated At: 2026-10-31T00:37:45.875Z
 
 ## Products
 
@@ -2073,7 +2073,7 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-02-15T01:47:12Z
   Total Products: 0
 - [Framed Matte Canvas](https://maison-abstract.com/collections/framed-matte-canvas): Discover our Framed Art Matte Canvas Collection — a curated selection of timeless and contemporary designs created to elevate any space. From classic masterpieces by renowned artists to modern abstract expressions, each canvas captures the beauty, emotion, and creativity of art in every detail. Printed on premium museum-quality paper, our art canvas bring gallery-worthy aesthetics into your home, office, or studio. Whether you prefer vibrant color, minimalist tones, or vintage charm, our collection offers styles to suit every taste and décor. Transform your walls into a personal gallery and celebrate your passion for art with every piece. - Maison Abstract
-  Updated: 2026-09-29T14:08:42Z
+  Updated: 2026-10-23T11:29:50Z
   Total Products: 229
 - [Henri Matisse](https://maison-abstract.com/collections/henri-matisse): Henri Matisse (1869–1954) was one of the most influential artists of the 20th century, celebrated for his bold colour, expressive simplicity and groundbreaking role in Fauvism. Throughout his career, Matisse sought to create art that conveyed joy, balance and emotional clarity. His paintings, drawings and cut-outs are instantly recognisable for their vibrant palettes, fluid lines and harmonious compositions. Matisse believed that art should offer comfort and beauty, a philosophy reflected across his lifelong body of work. Today, his creations continue to inspire modern interiors, making Matisse-themed wall art a timeless choice for collectors and design-focused homes. - Maison Abstract
   Updated: 2026-02-15T01:47:13Z
@@ -2286,7 +2286,7 @@ The platform allows customers to browse different artist collections, explore fr
   Updated: 2026-09-29T14:08:45Z
   Total Products: 55
 - [Framed-Canvas-Abstracts](https://maison-abstract.com/collections/framed-canvas-abstract): - Maison Abstract
-  Updated: 2026-09-29T14:08:46Z
+  Updated: 2026-10-23T11:29:50Z
   Total Products: 30
 - [Framed-Print-Animals](https://maison-abstract.com/collections/framed-print-animals): - Maison Abstract
   Updated: 2026-09-29T14:08:46Z
