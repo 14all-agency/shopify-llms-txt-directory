@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-08-17T22:51:07Z
 - Contact Email: assortment.shoppe@gmail.com
-- Updated At: 2026-10-24T00:37:35.576Z
+- Updated At: 2026-10-31T01:02:44.168Z
 
 ## Products
 
@@ -185,7 +185,7 @@
     Image: https://cdn.shopify.com/s/files/1/0599/1848/3541/files/0bfe2ec223a1f831d93c8d1ee6ceae2b.jpg?v=1781108597
     Price: $24.99 USD
 - [Booty Lifter Panties with Tummy Control | Curve Theory](https://shopcurvetheory.com/products/booty-lifter-panties-tummy-control): Sculpt and enhance your curves with Curve Theory Booty Lifter Panties. Tummy control shapewear underwear for everyday confidence. Sizes XS-3XL.
-  Updated: 2026-09-13T16:54:31Z
+  Updated: 2026-10-26T11:34:31Z
   Vendor: Curve Theory
   Product Type: Shapewear Underwear
   Availability: Available
@@ -1289,7 +1289,7 @@
   Updated: 2026-09-12T14:44:54Z
   Total Products: 8
 - [Best Sellers](https://shopcurvetheory.com/collections/best-sellers): Discover our most-loved shapewear and body-sculpting essentials. These customer favorites are designed to smooth, shape, and enhance your natural curves while providing all-day comfort and confidence
-  Updated: 2026-09-12T14:44:54Z
+  Updated: 2026-10-27T11:16:49Z
   Total Products: 13
 - [All Bodysuits](https://shopcurvetheory.com/collections/all-bodysuits): Shop sculpting bodysuits that smooth, lift, and shape your curves. Full-coverage and backless styles available at Curve Theory.
   Updated: 2026-09-12T14:44:54Z
@@ -1298,13 +1298,13 @@
   Updated: 2026-07-26T15:39:41Z
   Total Products: 3
 - [Shapewear Underwear](https://shopcurvetheory.com/collections/shapewear-underwear): Shop seamless shapewear underwear that smooths and enhances your curves. Invisible under clothing at Curve Theory.
-  Updated: 2026-07-21T23:58:19Z
+  Updated: 2026-10-27T11:16:49Z
   Total Products: 2
 - [Butt Lifters](https://shopcurvetheory.com/collections/butt-lifters): Shop butt lifter shapewear at Curve Theory. Enhancing bodysuits, shorts, and underwear designed to lift and shape.
   Updated: 2026-07-21T23:58:19Z
   Total Products: 4
 - [Tummy Control](https://shopcurvetheory.com/collections/tummy-control): Shop tummy control shapewear that flattens and smooths your midsection. All-day comfort and confidence at Curve Theory.
-  Updated: 2026-07-26T15:44:19Z
+  Updated: 2026-10-27T11:16:49Z
   Total Products: 10
 - [Activewear & Leggings](https://shopcurvetheory.com/collections/activewear-leggings): Shop high-waist activewear leggings with abdominal compression and sculpting support. Gym-ready styles at Curve Theory.
   Updated: 2026-09-12T14:44:31Z
@@ -1384,6 +1384,15 @@
   - [Shapewear Styling Tips for Special Occasions and Everyday Wear](https://shopcurvetheory.com/blogs/curve-theory-blog/shapewear-styling-tips-for-special-occasions-and-everyday-wear): Shapewear Styling Tips for Special Occasions and Everyday Wear
     Updated: 2026-10-21T19:00:26Z
     Author: CURVE THEORY
+  - [Comparing Shapewear Effectiveness on Tummy Control and Hourglass Shapes](https://shopcurvetheory.com/blogs/curve-theory-blog/comparing-shapewear-effectiveness-on-tummy-control-and-hourglass-shapes): Comparing Shapewear Effectiveness on Tummy Control and Hourglass Shapes
+    Updated: 2026-10-25T19:00:25Z
+    Author: CURVE THEORY
+  - [Exploring the Materials Behind Effective Shapewear](https://shopcurvetheory.com/blogs/curve-theory-blog/exploring-the-materials-behind-effective-shapewear): Exploring the Materials Behind Effective Shapewear
+    Updated: 2026-10-26T19:00:23Z
+    Author: CURVE THEORY
+  - [Shapewear for Athletes: Enhancing Performance and Recovery](https://shopcurvetheory.com/blogs/curve-theory-blog/shapewear-for-athletes-enhancing-performance-and-recovery): Shapewear for Athletes: Enhancing Performance and Recovery
+    Updated: 2026-10-28T19:00:28Z
+    Author: CURVE THEORY
 
 ## Store Pages
 
@@ -1409,7 +1418,7 @@
 ## Policies
 
 - [Privacy Policy](https://shopcurvetheory.com/policies/privacy-policy)
-  Updated: 2025-08-17T22:51:21Z
+  Updated: 2026-10-30T07:50:53Z
 - [Refund Policy](https://shopcurvetheory.com/policies/refund-policy)
   Updated: 2026-06-17T15:05:59Z
 - [Terms of Service](https://shopcurvetheory.com/policies/terms-of-service)
