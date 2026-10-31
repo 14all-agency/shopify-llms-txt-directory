@@ -6,7 +6,7 @@
 - Timezone: America/Merida
 - Created At: 2026-02-07T20:34:51Z
 - Contact Email: blacklionbotanicals@gmail.com
-- Updated At: 2026-10-23T01:16:09.338Z
+- Updated At: 2026-10-31T00:38:09.927Z
 
 ## Products
 
@@ -46,7 +46,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/image_1.png?v=1787625758
   Price: $8.88 USD
 - [Black Lion Botanicals E-Gift Card — Wellness Gift for Any Occasion](https://blacklionbotanicals.com/products/black-lion-botanicals-e-gift-card-a-gateway-to-wellness-🌿✨): Give the gift of healing with a Black Lion Botanicals e-gift card. Perfect for Reiki sessions, crystals, herbs & more. From $10 to $100.
-  Updated: 2026-08-29T01:49:37Z
+  Updated: 2026-10-30T20:16:19Z
   Vendor: Black Lion Botanicals
   Product Type: Gift Card
   Availability: Available
@@ -64,14 +64,14 @@
     Availability: Available
     Price: $100.00 USD
 - [Manifestation Creation Kit — Ritual Tools for Intention Setting | Black Lion Botanicals](https://blacklionbotanicals.com/products/manifestation-creation-kit): Manifest your dreams with our curated Manifestation Creation Kit. Crystals, herbs & ritual tools for powerful intention setting. $75 at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:37Z
+  Updated: 2026-10-30T22:16:28Z
   Vendor: Black Lion Botanicals
   Product Type: Spiritual Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/generate-a-photo-realistic-image-to-accompany-the-description-of-my-manifestation-creation-kit-it-should-include-a-lovely-boho-box-with-the-lid-open-and-a-few-items-inside-and-around.png?v=1787625764
   Price: $75.00 USD
 - [Sovereign Self Immersion — Premium Holistic Healing Program | Black Lion Botanicals](https://blacklionbotanicals.com/products/the-sovereign-self-immersion): Step into your power with The Sovereign Self Immersion. A premium, personalized healing experience combining Reiki, manifestation & energetic alignment. $2,000.
-  Updated: 2026-09-02T16:12:42Z
+  Updated: 2026-10-30T20:09:15Z
   Vendor: Black Lion Botanicals
   Product Type: Energy Healing
   Availability: Available
@@ -85,14 +85,14 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/generate-a-photo-realistic-picture-of-me-offering-energetic-distance-reiki-in-an-outdoor-wellness-retreat-space-in-merida-mexico-it-should-be-very-boho-luxurious-again-the-picture-sho.png?v=1787625766
   Price: $3,333.00 USD
 - [TE52 Trekk Travel Yoga Mat — Lightweight Non-Slip Mat | Black Lion Botanicals](https://blacklionbotanicals.com/products/te52-trekk-travel-yoga-mat): Practice anywhere with the TE52 Trekk Travel Yoga Mat. Lightweight, non-slip & built for the wandering yogi. Shop yoga gear at Black Lion Botanicals.
-  Updated: 2026-09-11T05:28:26Z
+  Updated: 2026-10-30T19:44:10Z
   Vendor: Yune Yoga
   Product Type: Yoga Mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/te52-trekk-travel-mat-excercise-fitness-health-hot-yoga-non-slip-towel-yeti-co-493.jpg?v=1787625559
   Price: $45.54 USD
 - [Moab Rocks Yoga Strap — Brown Stretching Strap with Metal Buckles | Black Lion Botanicals](https://blacklionbotanicals.com/products/moab-rocks-yoga-strap-brown-stretching-strap-w-metal-buckles-yune-yoga): Deepen your stretches with the Moab Rocks Yoga Strap by Yune Yoga. Durable brown strap with metal buckles for all levels. Shop at Black Lion Botanicals.
-  Updated: 2026-09-11T00:05:13Z
+  Updated: 2026-10-30T19:44:08Z
   Vendor: Yune Yoga
   Product Type: Yoga Strap
   Availability: Available
@@ -106,14 +106,14 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/mafdet1.jpg?v=1787625568
   Price: $30.99 USD
 - [Hatsumi Non-Slip Yoga Mat — Zen Minimalist Design with Premium Traction | Black Lion Botanicals](https://blacklionbotanicals.com/products/hatsumi-non-slip-yoga-mat-zen-minimalist-design-premium-traction-cushioned-comfort): Find your flow with the Hatsumi Yoga Mat. Zen minimalist design, premium non-slip traction & cushioned comfort for every practice. Shop Black Lion Botanicals.
-  Updated: 2026-09-11T01:19:32Z
+  Updated: 2026-10-30T20:14:28Z
   Vendor: Yune Yoga
   Product Type: Yoga Mat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/the-hatsumi-yoga-mat-cotton-excercise-fitness-product-health-yeti-co-764.jpg?v=1787625553
   Price: $45.54 USD
 - [Diamond Yoga Mat — Zero-Slip Grip with Cushy Comfort | Black Lion Botanicals](https://blacklionbotanicals.com/products/diamond-yoga-mat-shine-align-zero-slip-grip-cushy-comfort): Shine & align with the Diamond Yoga Mat. Zero-slip grip, plush cushioning & stunning design for your practice. Shop at Black Lion Botanicals.
-  Updated: 2026-09-11T05:48:11Z
+  Updated: 2026-10-30T19:14:04Z
   Vendor: Yune Yoga
   Product Type: Yoga Mat
   Availability: Available
@@ -127,14 +127,14 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/the-kumiko-yoga-mat-cotton-excercise-fitness-product-health-yeti-co-713.jpg?v=1787625547
   Price: $45.54 USD
 - [Black Cat Yoga Mat — Nine Lives, Zero Slips 3mm Non-Slip Mat | Black Lion Botanicals](https://blacklionbotanicals.com/products/nine-lives-zero-slips-black-cat-yoga-mat-3mm-yune-yoga): Practice with purr-fect grip on the Black Cat Yoga Mat. 3mm non-slip, lightweight & full of personality. Shop unique yoga mats at Black Lion Botanicals.
-  Updated: 2026-09-11T00:08:22Z
+  Updated: 2026-10-30T19:21:16Z
   Vendor: Yune Yoga
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/old-school-tattoo-yoga-mat-raven-and-roses.jpg?v=1787625583
   Price: $56.10 USD
 - [Herbal Bath Gift Box — Botanical Self-Care Gift Set | Black Lion Botanicals](https://blacklionbotanicals.com/products/herbal-bath-gift-box): Treat yourself or a loved one to our Herbal Bath Gift Box. Botanical herbs for a luxurious, healing soak. The perfect wellness gift from Black Lion Botanicals.
-  Updated: 2026-09-10T23:49:21Z
+  Updated: 2026-10-30T20:41:25Z
   Vendor: Herbalroseapothecary
   Product Type: Tea bath
   Availability: Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: $26.40 USD
 - [Linden Dried Herb — Calming Herbal Tea & Wellness Herb | Black Lion Botanicals](https://blacklionbotanicals.com/products/linden): Soothe your nervous system with Linden dried herb. A gentle, calming botanical perfect for herbal teas & wellness rituals. Shop at Black Lion Botanicals.
-  Updated: 2026-09-11T00:23:26Z
+  Updated: 2026-10-30T19:54:50Z
   Vendor: Herbalroseapothecary
   Product Type: dried herbs
   Availability: Available
@@ -196,7 +196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/linden1ozpic.jpg?v=1787625587
     Price: $7.88 USD
 - [Mullein Dried Herb — Respiratory Support Botanical | Black Lion Botanicals](https://blacklionbotanicals.com/products/mullein): Support your lungs naturally with Mullein dried herb. A traditional respiratory herb for teas & herbal remedies. Shop botanicals at Black Lion Botanicals.
-  Updated: 2026-09-11T00:36:34Z
+  Updated: 2026-10-30T20:16:45Z
   Vendor: Herbalroseapothecary
   Product Type: dried herbs
   Availability: Available
@@ -402,7 +402,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/nettle1ozpic.jpg?v=1787625648
     Price: $7.88 USD
 - [Earth Day Goddess Accent Mug — Floral Forest Illustration | Black Lion Botanicals](https://blacklionbotanicals.com/products/earth-day-goddess-accent-mug-floral-forest-illustration): Sip in style with our Earth Day Goddess Accent Mug. Beautiful floral forest illustration celebrating nature & the divine feminine. Shop Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:45Z
+  Updated: 2026-10-30T20:38:25Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -440,7 +440,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/13576044165760546124_2048.jpg?v=1787625655
     Price: $14.99 USD
 - [Earth Day Nature Goddess T-Shirt — Illustrated Eco Art Tee | Black Lion Botanicals](https://blacklionbotanicals.com/products/happy-earth-day-2024-nature-goddess-t-shirt-earth-day-illustration): Wear your love for the Earth with our Nature Goddess T-Shirt. Beautiful Earth Day illustration on a soft, wearable tee. Shop at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:45Z
+  Updated: 2026-10-30T19:28:45Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -484,7 +484,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/9379560118594439199_2048.jpg?v=1787625692
   Price: $20.99 USD
 - [Black Cat Eating Ramen Tee — Cute Anime Cat Noodle Bowl Shirt | Black Lion Botanicals](https://blacklionbotanicals.com/products/black-cat-eating-ramen-tee-cute-anime-cat-noodle-bowl-shirt): Wear your love for cats & ramen with this adorable anime-inspired tee. Soft, fun & perfect for cat lovers. Shop kawaii apparel at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:46Z
+  Updated: 2026-10-30T20:45:42Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -522,14 +522,14 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/3634118752398515769_2048.jpg?v=1787625695
     Price: $26.99 USD
 - [Black Cat Ramen Velveteen Plush Blanket — Kawaii Anime Neko | Black Lion Botanicals](https://blacklionbotanicals.com/products/black-cat-eating-ramen-velveteen-plush-blanket-kawaii-anime-neko-bowl): Snuggle up with our Kawaii Black Cat Ramen Velveteen Plush Blanket. Ultra-soft & adorably anime-inspired. Shop cozy gifts at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:46Z
+  Updated: 2026-10-30T19:53:41Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260416051728-1f139539-02bf-6ab0-ad01-66ae50935b97.png?v=1787625705
   Price: $41.99 USD
 - [Kawaii Black Cat Ramen Mug — Cute Anime Accent Coffee Mug | Black Lion Botanicals](https://blacklionbotanicals.com/products/kawaii-black-cat-ramen-mug-accent-coffee-mug): Start your morning with a smile using our Kawaii Black Cat Ramen Mug. Adorable anime-inspired accent mug for cat lovers. Shop at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:46Z
+  Updated: 2026-10-30T22:16:50Z
   Vendor: Printify
   Product Type: Mug
   Availability: Available
@@ -560,7 +560,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Cat Eating Ramen Journal — Ruled Lined Notebook for Cat Lovers | Black Lion Botanicals](https://blacklionbotanicals.com/products/cat-eating-ramen-journal-ruled-lined-notebook): Journal your thoughts in style with our Cat Eating Ramen Ruled Notebook. Adorable kawaii cat design for daily writing. Shop at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:47Z
+  Updated: 2026-10-30T19:47:28Z
   Vendor: Printify
   Product Type: Paper products
   Availability: Available
@@ -597,7 +597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/15482366966289886746_2048.jpg?v=1787625716
     Price: $27.99 USD
 - [Black Mermaid Illustration T-Shirt — 'No Mother Is Wasted' | Black Lion Botanicals](https://blacklionbotanicals.com/products/black-mermaid-illustration-t-shirt-no-mother-is-wasted): Celebrate the divine feminine with our Black Mermaid Illustration Tee. Bold, empowering art on a soft tee. Shop statement shirts at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:47Z
+  Updated: 2026-10-30T21:06:22Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -623,7 +623,7 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/17403110161417622848_2048.jpg?v=1787625721
     Price: $25.99 USD
 - [My Mother Is A Mermaid T-Shirt — Mermaid Mom Sea Theme Tee | Black Lion Botanicals](https://blacklionbotanicals.com/products/my-mother-is-a-mermaid-t-shirt-mermaid-mom-illustration-sea-theme): Honor your mermaid mom with our 'My Mother Is A Mermaid' T-Shirt. Beautiful sea-themed illustration for ocean lovers. Shop at Black Lion Botanicals.
-  Updated: 2026-08-29T01:49:47Z
+  Updated: 2026-10-30T19:21:23Z
   Vendor: Printify
   Product Type: T-Shirt
   Availability: Available
@@ -653,21 +653,21 @@
     Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260418183448-1f13b554-7bf4-6a12-bff7-3edf91b4a80e.png?v=1787625729
     Price: $27.99 USD
 - [Botanical Luxe Soy Candle 9oz | 12 Scents | Black Lion Botanicals](https://blacklionbotanicals.com/products/botanical-luxe-candle-black-lion-botanicals-9oz-scented-soy-candle): Elevate your space with our 9oz Botanical Luxe Soy Candle. 50-60 hour burn, 12 scent options, eco-friendly & vegan. Reusable glass jar. Made in the USA.
-  Updated: 2026-08-29T01:49:48Z
+  Updated: 2026-10-30T19:21:24Z
   Vendor: Printify
   Product Type: Home Decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260418195326-1f13b604-39be-6930-977e-5a3781bcee75.png?v=1787625736
   Price: $22.99 USD
 - [Sea Life Octopus Canvas Tote Bag | Ocean Illustration | Black Lion Botanicals](https://blacklionbotanicals.com/products/sea-life-octopus-merfolk-tote-bag-ocean-illustration-canvas-tote): Bold ocean-inspired canvas tote featuring mermaids, octopus & coral artwork. 12oz heavy cotton, reinforced handles. Perfect for beach, market & daily carry.
-  Updated: 2026-08-29T01:49:48Z
+  Updated: 2026-10-30T19:53:48Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/20260421042730-1f13d3a6-8eb9-652e-9e7d-0ee8a964aa93.png?v=1787625740
   Price: $20.99 USD
 - [Earth Mother Gaia Canvas Lunch Bag | Eco Tote | Black Lion Botanicals](https://blacklionbotanicals.com/products/earth-mother-gaia-canvas-lunch-bag-earth-day-eco-tote): Carry your midday ritual with purpose. Gaia-illustrated cotton canvas lunch bag with roll-top closure & shoulder strap. Durable, washable & earth-conscious.
-  Updated: 2026-08-29T01:49:48Z
+  Updated: 2026-10-30T19:44:41Z
   Vendor: Printify
   Product Type: Bags
   Availability: Available
@@ -711,7 +711,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/8424741410264442628_2048.jpg?v=1787625751
   Price: $20.99 USD
 - [Ceremonial Matcha Powder](https://blacklionbotanicals.com/products/ceremonial-matcha-powder): Pure, stone-ground ceremonial matcha from Kyoto. Smooth, umami-rich, and naturally energizing — perfect for daily wellness rituals, traditional preparation, or a creamy matcha latte.
-  Updated: 2026-09-02T14:33:31Z
+  Updated: 2026-10-30T19:54:05Z
   Vendor: Black Lion Botanicals
   Product Type: Coffee & Tea
   Availability: Available
@@ -732,7 +732,7 @@
   Image: https://cdn.shopify.com/s/files/1/0797/7907/0189/files/empathetic-listening-session.png?v=1787625771
   Price: $85.00 USD
 - [Energy Alignment Bundle | Black Lion Botanicals](https://blacklionbotanicals.com/products/energy-alignment-bundle): A private 1-on-1 bundle: Clarity Session, Distance Reiki, Manifestation Journal & $10 Gift Card. Only 1 slot open today. $150 (Value: $185).
-  Updated: 2026-08-31T15:20:41Z
+  Updated: 2026-10-30T19:40:17Z
   Vendor: Black Lion Botanicals
   Product Type: Service + Digital + Gift Card Bundle
   Availability: Available
@@ -1377,6 +1377,18 @@
     Updated: 2026-10-22T13:01:00Z
     Author: Black Lion Botanicals
     Tags: ancestral healing, distance reiki, distance reiki benefits, energy, energy healing for women, healing, holistic healing for women, manifestation coaching, nervous system healing, reiki, reiki practitioner online, spiritual connection, unlocking ancestral power
+  - [Resolving Common Energy Blocks with Holistic Distance Reiki for Women](https://blacklionbotanicals.com/blogs/news/resolving-common-energy-blocks-with-holistic-distance-reiki-for-women): Resolving Common Energy Blocks with Holistic Distance Reiki for Women
+    Updated: 2026-10-24T13:01:27Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, energy, energy blocks, energy healing for women, healing, holistic healing for women, holistic therapy, manifestation coaching, nervous system healing, overcoming energy obstacles in women, reiki, reiki practitioner online, spiritual well-being for women
+  - [Nervous System Healing Unveiled: Distance Reiki Benefits Explained](https://blacklionbotanicals.com/blogs/news/nervous-system-healing-unveiled-distance-reiki-benefits-explained): Nervous System Healing Unveiled: Distance Reiki Benefits Explained
+    Updated: 2026-10-27T13:01:28Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, distance reiki benefits, emotional balance techniques, energy, energy healing for women, healing, holistic healing for women, manifestation coaching, nervous system, nervous system healing, reiki, reiki practitioner online, stress relief
+  - [Distance Reiki: An Underrated Tool for Women's Holistic Healing Journeys.](https://blacklionbotanicals.com/blogs/news/distance-reiki-an-underrated-tool-for-womens-holistic-healing-journeys): Distance Reiki: An Underrated Tool for Women's Holistic Healing Journeys.
+    Updated: 2026-10-29T13:00:59Z
+    Author: Black Lion Botanicals
+    Tags: ancestral healing, distance reiki, emotional support for women, energy healing for women, healing, holistic healing, holistic healing for women, manifestation coaching, nervous system healing, reiki, reiki practitioner online, remote energy healing, wellness, women's health
 
 ## Store Pages
 
@@ -1398,7 +1410,7 @@
 ## Policies
 
 - [Privacy Policy](https://blacklionbotanicals.com/policies/privacy-policy)
-  Updated: 2026-02-07T20:34:58Z
+  Updated: 2026-10-29T01:37:43Z
 - [Shipping Policy](https://blacklionbotanicals.com/policies/shipping-policy)
   Updated: 2026-03-04T00:49:38Z
 - [Refund Policy](https://blacklionbotanicals.com/policies/refund-policy)
