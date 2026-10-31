@@ -6,12 +6,12 @@
 - Timezone: Europe/Budapest
 - Created At: 2025-01-01T16:12:33Z
 - Contact Email: mannavita@mannavita.com
-- Updated At: 2026-10-23T00:56:58.016Z
+- Updated At: 2026-10-31T00:18:11.622Z
 
 ## Products
 
 - [Mannavita Multi collagen powder • Unflavored • 450g](https://www.mannavita.com/products/multi-collagen-unflavored): Mannavita Multi Collagen Powder combines the strength of 5 types of collagen. It contains Type I, II, III, V, and X collagen. • It includes all important types of collagen in a hydrolyzed form, in proportions that our body can best utilize. • It ensures a daily intake of 15 grams (a large dose) of collagen. • Mix 1 serving with liquid using the scoop attached to the product, twice daily. 1 scoop contains 7.5 grams of collagen.
-  Updated: 2026-10-21T17:16:20Z
+  Updated: 2026-10-25T18:25:36Z
   Vendor: First available: May 2019
   Product Type: Collagen
   Availability: Available
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/imunex-algae-complex-1500-2.jpg?v=1754654269
   Price: €38.70 EUR
 - [Mannavita fresh pure royal jelly • 2.2% 10-HDA • 100g](https://www.mannavita.com/products/royal-jelly-pure-22-10hda-100): Mannavita Royal Jelly contains 2.2% 10-HDA, which is considered a high concentration. Royal jelly contains over 250 biologically active components. Fresh pure royal jelly is a true superfood. • Recommended daily intake: 0.5-2 grams in the morning on an empty stomach, approximately every 24 hours. Maximum daily dose: 4-5 grams. • Royal jelly is exclusively the food of the queen bee in the hive and one of the most complex and nourishing substances in nature.
-  Updated: 2026-10-18T21:24:22Z
+  Updated: 2026-10-27T11:32:52Z
   Vendor: First available: December 2010
   Product Type: Royal Jelly
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/colonum-capsules-1500.jpg?v=1754656884
   Price: €31.70 EUR
 - [Hyalura 600 mg hyaluronic acid + collagen capsules • 60 pcs.](https://www.mannavita.com/products/hyalura-hyaluronic-acid-complex): With Hyalura, you can effectively replenish Hyaluronic acid. • Take 2 capsules daily, during meals. • The absorption of hyaluronic acid is supported by the collagen, vitamin C, zinc, and biotin it contains. • Due to external environmental factors and aging, our Hyaluronic acid reserves drastically decrease over time. • Hyaluronic acid is responsible for maintaining the moisture and health of the hair, eyes, lips and gums.
-  Updated: 2026-10-18T21:24:29Z
+  Updated: 2026-10-29T13:29:50Z
   Vendor: First available: April 2022
   Product Type: Hyaluronic acid
   Availability: Available
@@ -102,7 +102,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/mannavita-royal-jelly-22-225-2.jpg?v=1754657015
   Price: €73.21 EUR
 - [Mannavita Premium Royal jelly • 2.5% 10-HDA • 100g](https://www.mannavita.com/products/royal-jelly-pure-25-10hda-100): Mannavita Premium royal jelly contains 2.5% 10-HDA content. It is in the same state as the bees created it in the hive. • Its effects are noticeable from the first use, with no need for weeks of waiting. • Fresh royal jelly contains over 250 biologically active components, all in bioactive forms, making them more easily absorbed by the body compared to synthetic supplements. • Recommended daily intake: 0.5-2 grams in the morning. Keep refrigerated at 0-5°C.
-  Updated: 2026-10-20T11:08:41Z
+  Updated: 2026-10-23T14:02:33Z
   Vendor: First available: December 2012
   Product Type: Royal Jelly
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/mannavita-royal-jelly-25-40.jpg?v=1754657092
   Price: €28.71 EUR
 - [Mannavita Blueberry 100% pure pressed juice • 500 ml](https://www.mannavita.com/products/blueberry-juice): The Mannavita 100% Blueberry juice is a direct juice made from Vaccinium myrtillus berries growing on the edges of forests. • Drink 30 ml daily. • Blueberries are both sweet and delicious while being low in calories and packed with micronutrients and antioxidants. • The product can be consumed continuously without interruptions. • The daily dose can be increased to as much as 100 ml per day. It is excellent for vision impairment and eye problems.
-  Updated: 2026-10-20T18:02:24Z
+  Updated: 2026-10-29T19:27:23Z
   Vendor: First available: March 2012
   Product Type: Blueberry
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/aronia-1200.jpg?v=1757530089
   Price: €19.21 EUR
 - [Mannavita Pomegranate 100% pure pressed juice • 1000 ml](https://www.mannavita.com/products/pomegranate-pure-juice): Mannavita Pomegranate Juice is rich in polyphenols, trace elements and vitamins. Drink 2 x 30 ml per day, either on its own or mixed with other drinks. You can increase the daily intake to up to 200 ml per day. • Pomegranate is rightly classified as a superfood: it contains a very high proportion of essential substances that are crucial for the body's healthy functioning. • Mannavita Pomegranate juice is made from pomegranates grown in Turkey.
-  Updated: 2026-10-18T21:24:32Z
+  Updated: 2026-10-30T06:22:41Z
   Vendor: First available: June 2012
   Product Type: Pomegranate
   Availability: Available
@@ -158,14 +158,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/cranberry-juice-1200.jpg?v=1757494089
   Price: €13.71 EUR
 - [Mannavita Sea buckthorn 100% pure pressed juice • 500 ml](https://www.mannavita.com/products/sea-buckthorn): The Mannavita sea buckthorn juice is a 100% beverage, made using a gentle process to preserve the unique active ingredients of sea buckthorn. • Drink 30 ml daily diluted with water or other beverages. • Sea buckthorn is a berry fruit rich in bioactive vitamin C, known for its immune-boosting properties. • No additional substances are added. • See what problems sea buckthorn juice is recommended for.
-  Updated: 2026-10-21T09:30:55Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: January 2013
   Product Type: Sea Buckthorn
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/sea-buckthorn-1200.jpg?v=1757492268
   Price: €13.71 EUR
 - [Mannavita Mangosteen 100% pure pressed purée • 500 ml](https://www.mannavita.com/products/mangosteen-puree): Mannavita Mangosteen pulp, a 100% puree-like drink, is produced using a gentle process to preserve its active ingredients. • The daily dose can be increased to as much as 100 ml per day. • Mangosteen is not only delicious but also rich in essential antioxidants, vitamins, and minerals for the body. • The product can be consumed continuously without interruptions. • No additives or preservatives are included, so after opening, it must be stored in the fridge and consumed within 2 weeks.
-  Updated: 2026-10-22T05:54:07Z
+  Updated: 2026-10-25T19:10:32Z
   Vendor: First available: September 2012
   Product Type: Mangosteen
   Availability: Available
@@ -221,14 +221,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/vitamin-c-capsules-1500.jpg?v=1754657598
   Price: €25.71 EUR
 - [HEPADEX liver-regenerating and liver health-improving complex • 60 capsules](https://www.mannavita.com/products/hepadex-liver-complex): Hepadex is a dietary supplement containing herbal extracts, choline, NAC, and ALA. • With the power of 15 natural plant-based active ingredients, it supports liver functions. It can be taken continuously without interruptions. • Take 2 capsules daily with plenty of water. • Main ingredients: Choline, Artichoke, Garlic, Burdock, Parsley, NAC, Beetroot, Licorice, ALA, Fennel seed, Turmeric, Ginger and Dandelion extract.
-  Updated: 2026-10-18T21:24:38Z
+  Updated: 2026-10-25T18:25:37Z
   Vendor: First available: July 2019
   Product Type: Choline
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/hepadex-1500.jpg?v=1754657624
   Price: €33.71 EUR
 - [ENZIMA+ digestive enzymes complex with Betain HCL • 90 capsules](https://www.mannavita.com/products/enzima-enzymes-complex): Enzima+ contains betaine HCl, digestive enzymes, and digestion-enhancing herbal extracts to support stomach function. • Take 3 capsules daily before or during meals. • It increases enzyme levels and production, leading to better food breakdown. • Active ingredients: Betaine HCL, Lipase, Alfalfa, Amylase, Apple cider vinegar, Curcumin, Chamomile, Fennel seed, Ginger, Bromelain, Papain. Digestive enzymes produced by the pancreas play a crucial role in the chemical process of food digestion.
-  Updated: 2026-10-18T21:24:40Z
+  Updated: 2026-10-26T04:14:46Z
   Vendor: First available: January 2019
   Product Type: Digestive enzymes
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/acv-capsules-1500.jpg?v=1754657664
   Price: €25.71 EUR
 - [Mannavita unfiltered Apple Cider Vinegar with double Fermentation • 500 ml](https://www.mannavita.com/products/unfiltered-apple-cider-vinegar): Naturally made apple cider vinegar with double fermentation. Does not contain any added substances. Mix 1 tablespoon (10 ml) of apple cider vinegar in a glass of water 1-3 times a day and drink before meals. It is GMO-free and unfiltered. • Mannavita Apple cider vinegar can be consumed continuously without interruptions. • Apple cider vinegar plays an important role in supporting digestion, as it stimulates stomach acid production.
-  Updated: 2026-10-18T21:24:45Z
+  Updated: 2026-10-30T14:25:36Z
   Vendor: First available: February 2021
   Product Type: Apple Cider Vinegar
   Availability: Available
@@ -290,8 +290,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/willow-1500.jpg?v=1750774549
   Price: €17.21 EUR
+- [Mannavita Colloidal Silver 20 PPM • 200 ml](https://www.mannavita.com/products/colloidal-silver): Mannavita Colloidal Silver is a genuine colloidal silver, which means that silver is present in the water in the form of metallic silver particles, not as silver ions. • It does not contain stabilizers, dyes, or binders. • Genuine colloidal silver contains nano-sized silver particles suspended in a high-purity aqueous medium. • Rinse and gargle with the measured amount using the provided measuring cup (approx. 5 ml) 3-4 times a day as a course of .
+  Updated: 2026-10-30T13:15:50Z
+  Vendor: First available: February 2021
+  Product Type: Colloidal Silver
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/colloidal-silver-1500.jpg?v=1754657813
+  Price: €20.71 EUR
 - [Mannavita Milk Thistle + Wheatgrass + Chlorella + Lucuma • 200 g](https://www.mannavita.com/products/detox-master): In the Mannavita Detox Master complex, we have combined nature’s 4 most powerful detoxifiers: milk thistle + wheatgrass + chlorella + lucuma. • Take 5 grams - 1 level tablespoon - once or twice a day after meals, mixed with water, fruits, lukewarm tea, protein drinks, kefir, yogurt, or muesli. • Its ingredients have a synergistic effect. The powder dissolves easily in liquids. It is made using a gentle process. The product is manufactured in Europe.
-  Updated: 2026-10-18T21:25:02Z
+  Updated: 2026-10-29T13:29:42Z
   Vendor: First available: November 2015
   Product Type: Milk Thistle
   Availability: Available
@@ -312,7 +319,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/royal-jelly-powder-60g.jpg?v=1754657905
   Price: €39.71 EUR
 - [Concentrated Royal Jelly POWDER with 6% 10-HDA content • 20 g](https://www.mannavita.com/products/royal-jelly-powder-20g): Mannavita Concentrated royal jelly powder with 6% 10-HDA content. • Take 1-2 grams per day, on an empty stomach. It can be mixed into non-hot drinks and foods. • The royal jelly powder can be taken similarly to traditional fresh pure royal jelly, using the attached measuring spoons. • Does not need to be refrigerated or stored in a fridge. • Easily mixed into drinks and smoothies. Dissolves well in coffee.
-  Updated: 2026-10-18T21:25:01Z
+  Updated: 2026-10-29T08:38:16Z
   Vendor: First available: March 2023
   Product Type: Royal Jelly
   Availability: Available
@@ -403,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/melora-mgo850-250g.jpg?v=1754658238
   Price: €127.21 EUR
 - [Mannavita Lip Balm with Hyaluronic Acid • Deep-nourishing • PEACH](https://www.mannavita.com/products/lip-balm-hyaluronic-acid-peach): Deep-nourishing Lip Balm with Hyaluronic acid, peach flavor, and natural ingredients. Helps and protects against lip dryness while nourishing and providing softness. • For long-term protection, it nourishes the lips with vitamins and antioxidants.  • Its main ingredients: Olive Oil, Macadamia Nut Oil, Cocoa, Ozokerite, Carnauba palm wax, Candelilla wax, Tree peony extract, Hyaluronic Acid, Vitamin E.
-  Updated: 2026-08-25T20:33:40Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: September 2024
   Product Type: Hyaluronic acid
   Availability: Available
@@ -430,8 +437,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/venoptim-healing-spray-1500.jpg?v=1754658339
   Price: €28.71 EUR
+- [VARICOREX spray • 100ml](https://www.mannavita.com/products/varicorex-healing-spray): Varicorex is a premium quality, 100% natural therapeutic spray designed to treat the cosmetic changes caused by varicose veins. • We recommend it for anyone who works standing up to help prevent varicose veins, as well as for those experiencing early-stage varicose veins or looking to treat existing varicose veins. • Directions: spray 3 times daily on the affected area and allow it to absorb. You can gently spread it with your fingers to aid faster absorption.
+  Updated: 2026-10-30T13:15:55Z
+  Vendor: First available: May 2019
+  Product Type: Medicinal herbs
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/varicorex-1500.jpg?v=1754658366
+  Price: €28.71 EUR
 - [MANNAFLEX spray • 100 ml](https://www.mannavita.com/products/mannaflex-healing-spray): Mannaflex helps reduce stiffness and pain in legs, arms and back. • Its main ingredients are Horse chestnut, Chamomile, Turmeric, Camphor, Menthol, Rosemary, Ginger, Thyme, Horseradish and Eucalyptus. • Mannaflex Healing spray is absorbed much faster and more effectively through the skin than traditional creams and balms. • Spray 3 times a day on the affected area and let it absorb. You may gently spread it with your fingers on the skin to promote even faster absorption.
-  Updated: 2026-10-21T03:35:10Z
+  Updated: 2026-10-28T06:08:25Z
   Vendor: First available: May 2019
   Product Type: Medicinal herbs
   Availability: Available
@@ -452,7 +466,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/colostrum-drink.jpg?v=1768403893
   Price: €41.71 EUR
 - [Mannavita dried Multifloral Bee pollen • 200 g](https://www.mannavita.com/products/dried-multifloral-bee-pollen-200g): Bee pollen is one of the most nutrient-dense natural superfoods, offering complex support for the human body • Eat 10-20 grams per day, alone or mixed with other foods. • To collect a single pollen pellet, a bee must visit more than 100 flowers. • Mannavita Multifloral Bee pollen contains a concentrated dose of all the essential substances that are often missing from our modern diet. • Mannavita bee pollen is collected by bees living in Eastern Europe. Our pollen is sustainably produced.
-  Updated: 2026-10-18T21:25:11Z
+  Updated: 2026-10-24T22:06:46Z
   Vendor: First available: July 2012
   Product Type: Bee Pollen
   Availability: Available
@@ -480,14 +494,14 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/apirax-bee-venom-cream.jpg?v=1754658433
   Price: €20.71 EUR
 - [Proctan cream for Hemorrhoids • 50 ml](https://www.mannavita.com/products/proctan-cream-for-hemorrhoids): Proctan hemorrhoid ointment combines the power of 13 plant-based ingredients that work synergistically to naturally reduce inflammation, support skin and vascular wall regeneration, and relieve unpleasant symptoms.
-  Updated: 2026-10-20T08:57:36Z
+  Updated: 2026-10-26T07:56:56Z
   Vendor: First available: March 2022
   Product Type: Medicinal herbs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/proctan-1200.jpg?v=1754655788
   Price: €13.71 EUR
 - [Mannavita Hungarian cold-pressed Rosehip seed oil • 40 ml](https://www.mannavita.com/products/cold-pressed-rosehip-seed-oil): Rosehip seed oil has an incredibly rich content of polyphenols and vitamins: it contains carotenoids, flavonoids, and phytosterols, which give it strong anti-inflammatory and skin-renewing properties.
-  Updated: 2026-08-13T15:31:07Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: July 2024
   Product Type: Rosehip
   Availability: Available
@@ -501,7 +515,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/wallnut-oil.jpg?v=1750776384
   Price: €14.71 EUR
 - [Mannavita cold-pressed Black Cumin seed oil • 100 ml](https://www.mannavita.com/products/cold-pressed-black-cumin-seed-oil): The black cumin oil primarily has immune-boosting, anti-inflammatory, and antioxidant properties. It may help relieve allergy symptoms, support the digestive system, respiratory tract, and skin.
-  Updated: 2026-10-20T08:57:20Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: April 2020
   Product Type: Black cumin
   Availability: Available
@@ -550,7 +564,7 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/grapeseed-oil.jpg?v=1750263437
   Price: €13.71 EUR
 - [Mannavita Hungarian cold-pressed Pumpkin seed oil • 250 ml](https://www.mannavita.com/products/cold-pressed-pumpkin-seed-oil): Mannavita pumpkin seed oil is a valuable, dark green oil made by cold pressing pumpkin seeds. Pumpkin seed oil is an excellent source of essential fatty acids – omega-6 and omega-9 – phytosterols, selenium, zinc, vitamin E, and carotenoids.
-  Updated: 2026-10-18T21:25:20Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: November 2018
   Product Type: Pumpkin seeds
   Availability: Available
@@ -816,35 +830,35 @@
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/mananita-main-1200x1200.jpg?v=1751033589
   Price: €8.71 EUR
 - [PROSTAX prostate complex • 60 capsules](https://www.mannavita.com/products/prostax-prostate-complex): Men can provide significant support to their hormonal system with regular use of Prostax. It may deliver excellent results in cases of prostatitis, prostate enlargement, low testosterone levels, urinary issues, and even hair loss.
-  Updated: 2026-10-18T21:25:39Z
+  Updated: 2026-10-30T15:41:41Z
   Vendor: First available: July 2025
   Product Type: Saw palmetto
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/prostax-capsule-1200.jpg?v=1773042892
   Price: €29.71 EUR
 - [ENDOQIN manpower forte • 90 capsules](https://www.mannavita.com/products/endoqin-manpower-forte): Regular use of Endoqin sustainably increases nitric oxide levels in men's bodies, stimulates testosterone production in the testes, improves blood flow around the genitals, boosts libido, and may trigger a stronger, more sustained erection response.
-  Updated: 2026-10-18T21:25:40Z
+  Updated: 2026-10-25T09:39:41Z
   Vendor: First available: July 2025
   Product Type: L-Arginine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/endoqin-1200.jpg?v=1773044931
   Price: €35.71 EUR
 - [Sambucol black elderberry syrup, Immuno Forte • 120 ml](https://www.mannavita.com/products/sambucol-black-elderberry-syrup-immuno-forte-120ml): The main active ingredient in Sambucol syrup is standardized black elderberry extract, rich in antioxidants and flavonoids. Regular intake shortens the duration of cold-related illnesses.
-  Updated: 2026-10-18T21:25:34Z
+  Updated: 2026-10-27T16:15:56Z
   Vendor: First available: February 2017
   Product Type: Black elderberry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/SAM-IF-CTN-BOTTLE-3D-WEB-1000x1000-2.png?v=1750776490
   Price: €15.71 EUR
 - [Sambucol black elderberry syrup, Children • 120 ml](https://www.mannavita.com/products/sambucol-black-elderberry-syrup-children-120ml): The specialty of Sambucol syrup lies in its standardized elderberry extract, ensuring consistent active ingredient content in every dose. This concentrated extract may help reduce the duration of colds and flu.
-  Updated: 2026-10-18T21:25:38Z
+  Updated: 2026-10-30T09:49:07Z
   Vendor: First available: February 2017
   Product Type: Black elderberry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/Sambucol-Kids-Liquid-120ml-Ages-3-12.png?v=1750776487
   Price: €15.71 EUR
 - [Sambucol black elderberry syrup, Sugar-free • 120 ml](https://www.mannavita.com/products/sambucol-black-elderberry-syrup-sugar-free-120-ml): Sambucol black elderberry syrup is one of the oldest dietary supplements. Since the early 1990s, it has helped millions prevent and quickly overcome winter illnesses such as colds, influenza, runny nose, and sore throat.
-  Updated: 2026-10-18T21:25:43Z
+  Updated: 2026-10-30T09:49:06Z
   Vendor: First available: September 2020
   Product Type: Black elderberry
   Availability: Available
@@ -871,13 +885,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/huminiqum-syrup.jpg?v=1750950140
   Price: €24.71 EUR
-- [Huminiqum capsule • 120 pcs](https://www.mannavita.com/products/huminiqum-capsule): Humic acid is a natural, high-molecular-weight organic compound formed by the decomposition of plant-based materials. Humic acid is capable of chelating electrolytes and trace minerals, holding them in a stable form.
-  Updated: 2026-10-21T14:12:07Z
-  Vendor: First available: July 2010
-  Product Type: Humic acid
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0910/8520/9945/files/huminiqum-capsules.jpg?v=1750950086
-  Price: €21.71 EUR
 - [FLAVIN7 Bioflavonoid complex • 7 x 100 ml](https://www.mannavita.com/products/flavin7): Flavin7 is a premium-quality polyphenol concentrate. It is an excellent choice for those who want to naturally support their immune system, blood circulation, liver function, or simply maintain their health and vitality in the long term.
   Updated: 2026-10-18T21:25:42Z
   Vendor: First available: June 2015
@@ -981,13 +988,13 @@
 ## Collections
 
 - [Home page](https://www.mannavita.com/collections/frontpage)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 24
 - [Royal Jelly](https://www.mannavita.com/collections/royal-jelly)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-29T11:21:27Z
   Total Products: 8
 - [Bee pollen, Bee bread](https://www.mannavita.com/collections/bee-pollen-bee-bread)
-  Updated: 2026-10-20T11:23:43Z
+  Updated: 2026-10-25T11:17:41Z
   Total Products: 8
 - [Manuka Honey](https://www.mannavita.com/collections/manuka-honey)
   Updated: 2026-10-20T05:31:47Z
@@ -996,7 +1003,7 @@
   Updated: 2026-10-17T11:25:04Z
   Total Products: 5
 - [Collagen, Hyaluronic acid](https://www.mannavita.com/collections/collagen-hyaluronic-acid)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 3
 - [Green Lipped Mussel](https://www.mannavita.com/collections/green-lipped-mussel)
   Updated: 2026-10-06T11:28:12Z
@@ -1005,19 +1012,19 @@
   Updated: 2026-10-04T11:22:08Z
   Total Products: 4
 - [Therapeutic Fruit Juices](https://www.mannavita.com/collections/therapeutic-fruit-juices)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 10
 - [Colloids](https://www.mannavita.com/collections/colloids)
-  Updated: 2026-10-20T11:23:43Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 3
 - [Cold-Pressed Oils](https://www.mannavita.com/collections/cold-pressed-oils)
-  Updated: 2026-10-20T08:58:48Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 10
 - [Syrups](https://www.mannavita.com/collections/syrups)
-  Updated: 2026-09-25T11:24:12Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 3
 - [Herbal Supplements](https://www.mannavita.com/collections/herbal-supplements)
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-26T11:28:37Z
   Total Products: 14
 - [Dietary Fibers, Psyllium](https://www.mannavita.com/collections/dietary-fibers-psyllium)
   Updated: 2026-10-08T11:26:24Z
@@ -1026,64 +1033,64 @@
   Updated: 2026-10-20T09:06:39Z
   Total Products: 39
 - [Plant Powders, Seeds](https://www.mannavita.com/collections/powders-ground-products)
-  Updated: 2026-10-19T11:22:40Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 12
 - [Ointments, Creams, Balm](https://www.mannavita.com/collections/ointments-creams-balm)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:24Z
   Total Products: 10
 - [Vitamins, Micronutrients](https://www.mannavita.com/collections/vitamins-micronutrients)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-26T06:18:28Z
   Total Products: 13
 - [Electrolytes, Minerals](https://www.mannavita.com/collections/elektrolytes-minerals)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 10
 - [ACV, Digestive Enzymes](https://www.mannavita.com/collections/acv-digestive-enzymes)
-  Updated: 2026-10-11T11:21:47Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 3
 - [Herbal teas, Herb Mixes](https://www.mannavita.com/collections/herbal-teas)
   Updated: 2026-10-08T06:01:38Z
   Total Products: 10
 - [Flavonoids, Polyphenols](https://www.mannavita.com/collections/flavonoids-polyphenols)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 15
 - [Colostrum](https://www.mannavita.com/collections/colostrum)
   Updated: 2026-08-07T11:24:25Z
   Total Products: 1
 - [Products of the Month](https://www.mannavita.com/collections/products-of-the-month)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 10
 - [Home page 2](https://www.mannavita.com/collections/home-page-2)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 24
 - [Home page 3](https://www.mannavita.com/collections/home-page-3)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:24Z
   Total Products: 19
 - [Home page 4](https://www.mannavita.com/collections/home-page-4)
-  Updated: 2026-10-20T08:57:23Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 27
 - [Best Sellers](https://www.mannavita.com/collections/best-sellers): Royal jelly, Cardio Balance, Multi Collagen, Imunex, ElektronyK+, Arthro4, Krill oil, Colonum, Hyalura, Ashwarax, Aronia, blue berry and pomegranate juice, Manuka honey.
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 27
 - [Honeys](https://www.mannavita.com/collections/honeys)
   Updated: 2026-10-20T11:23:43Z
   Total Products: 8
 - [Bee Products](https://www.mannavita.com/collections/bee-products)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-29T11:21:27Z
   Total Products: 45
 - [Collagen, Algae, Krill, Omega-3](https://www.mannavita.com/collections/collagen-algae-krill-omega-3)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-26T11:28:37Z
   Total Products: 14
 - [Juices, Colloids, Oils, Syrups](https://www.mannavita.com/collections/juices-colloids-oils-syrups)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 13
 - [Vitamins, Minerals, Polyphenols](https://www.mannavita.com/collections/vitamins-minerals-polyphenols)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 17
 - [Natural Supplements](https://www.mannavita.com/collections/supplements)
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 21
 - [Herbs, Yerba mate, Creams](https://www.mannavita.com/collections/herbs-yerba-mate-creams)
-  Updated: 2026-10-16T11:21:58Z
+  Updated: 2026-10-30T13:08:24Z
   Total Products: 8
 - [AVADA Email Marketing - Best Sellers](https://www.mannavita.com/collections/avada-email-marketing-best-sellers)
   Updated: 2026-07-31T12:05:18Z
@@ -1092,130 +1099,130 @@
   Updated: 2026-07-31T12:05:18Z
   Total Products: 2
 - [Cardiovascular Health](https://www.mannavita.com/collections/cardiovascular-system): High Blood pressure • Against LDL cholesterol oxidation • After a stroke
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Autoimmune Disease](https://www.mannavita.com/collections/autoimmune-disease)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Bladder Health](https://www.mannavita.com/collections/bladder-health)
   Updated: 2026-10-21T11:25:23Z
   Total Products: 10
 - [Bone Health, Bone strength](https://www.mannavita.com/collections/bone-health-bone-strength)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [Brain Health](https://www.mannavita.com/collections/brain-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [Colon Function Improvement](https://www.mannavita.com/collections/colon-function-improvement)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Common Cold, Flu](https://www.mannavita.com/collections/common-cold-flu)
-  Updated: 2026-10-20T11:23:43Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Conception, Getting pregnant](https://www.mannavita.com/collections/conception-getting-pregnant)
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-29T11:21:27Z
   Total Products: 11
 - [Cancer, Under Chemotherapy](https://www.mannavita.com/collections/cancer-under-chemotherapy)
-  Updated: 2026-10-16T11:21:58Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 12
 - [Detoxification](https://www.mannavita.com/collections/detoxification)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Digestive tract Infection](https://www.mannavita.com/collections/digestive-tract-infection)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Ekcema, Psoriasis](https://www.mannavita.com/collections/ekcema-psoriasis)
-  Updated: 2026-10-19T11:22:40Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Energy, Fatigue](https://www.mannavita.com/collections/energy-fatigue)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-28T11:23:32Z
   Total Products: 19
 - [Eyes, Vision](https://www.mannavita.com/collections/eyes-vision)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 11
 - [Galbladder and Bile](https://www.mannavita.com/collections/galbladder-and-bile)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Hair and Nails Health](https://www.mannavita.com/collections/hair-and-nails-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 13
 - [High Blood Pressure](https://www.mannavita.com/collections/high-blood-pressure)
   Updated: 2026-10-21T11:25:23Z
   Total Products: 16
 - [Hormone Balance](https://www.mannavita.com/collections/hormone-balance)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Immune strength](https://www.mannavita.com/collections/immune-strength)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:35Z
   Total Products: 17
 - [Inflammation reduction](https://www.mannavita.com/collections/inflammation-reduction)
   Updated: 2026-10-20T08:57:49Z
   Total Products: 18
 - [Insulin resistance: reduction](https://www.mannavita.com/collections/insulin-resistance-reduction)
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Joints, Cartilage, Arthritis](https://www.mannavita.com/collections/joints-cartilage-arthritis)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Kidney condition improvement](https://www.mannavita.com/collections/kidney-condition-improvement)
-  Updated: 2026-10-19T11:22:40Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 10
 - [Leaky Gut, Microbiome](https://www.mannavita.com/collections/leaky-gut-microbiome)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Liver Health, Fatty Liver](https://www.mannavita.com/collections/liver-health-fatty-liver)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 18
 - [Memory, Atention, Focus](https://www.mannavita.com/collections/memory-atention-focus)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-28T11:23:32Z
   Total Products: 16
 - [Men's Health](https://www.mannavita.com/collections/mens-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [Menopause](https://www.mannavita.com/collections/menopause)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [Mood, Depression](https://www.mannavita.com/collections/mood-depression)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 11
 - [Nerve Health](https://www.mannavita.com/collections/nerve-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-29T11:21:27Z
   Total Products: 16
 - [Nutritional Deficiencies](https://www.mannavita.com/collections/nutritional-deficiencies)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-28T11:23:32Z
   Total Products: 15
 - [Potency Enhancers](https://www.mannavita.com/collections/potency-enhancers)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-28T11:23:32Z
   Total Products: 11
 - [Reflux, Heartburn](https://www.mannavita.com/collections/reflux-heartburn)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Skin Care, Skin Health](https://www.mannavita.com/collections/skin-care-skin-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [Stomach Balance](https://www.mannavita.com/collections/stomach-balance)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Stress, Anxiety and Sleep](https://www.mannavita.com/collections/stress-anxiety-and-sleep)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Thyroid Balance](https://www.mannavita.com/collections/thyroid-balance)
-  Updated: 2026-10-21T11:25:23Z
+  Updated: 2026-10-28T11:23:32Z
   Total Products: 12
 - [Vessels, Veins, Circulation](https://www.mannavita.com/collections/veins-blood-circulation)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T13:08:24Z
   Total Products: 16
 - [Weight Loss, Fat Burning](https://www.mannavita.com/collections/weight-loss-fat-burning)
-  Updated: 2026-10-20T09:05:20Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 16
 - [Women's Health](https://www.mannavita.com/collections/womens-health)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-30T11:28:24Z
   Total Products: 17
 - [AVADA - Best Sellers](https://www.mannavita.com/collections/avada-best-sellers)
   Updated: 2026-07-31T12:05:18Z
   Total Products: 2
 - [Home page 5](https://www.mannavita.com/collections/home-page-5)
-  Updated: 2026-10-22T11:27:55Z
+  Updated: 2026-10-26T06:18:28Z
   Total Products: 25
 
 ## Blogs
@@ -1630,9 +1637,57 @@
     Author: Mannavita
     Tags: fatigue, increased stamina, muscle strength, strength, weakness
   - [The Role of Immunodeficiency in Recurring Colds](https://www.mannavita.com/blogs/healing/the-role-of-immunodeficiency): The Role of Immunodeficiency in Recurring Colds
-    Updated: 2026-10-15T04:19:32Z
+    Updated: 2026-10-29T17:40:51Z
     Author: Mannavita
     Tags: colds, immune strengthening, immunodeficiency, influenza, sore throats
+  - [Understanding Reflux and Heartburn Simple Solutions to Combat Digestive Discomfort](https://www.mannavita.com/blogs/healing/understanding-reflux-and-heartburn): Understanding Reflux and Heartburn Simple Solutions to Combat Digestive Discomfort
+    Updated: 2026-10-29T17:38:26Z
+    Author: Mannavita
+    Tags: apple cider vinegar, bloating, digestive enzymes, gas, heartburn, indigestion, reflux
+  - [Energize Your Day: Unlocking Health Benefits with Selecta Yerba Mate Tea with Guarana 500g](https://www.mannavita.com/blogs/healing/energize-your-day-unlocking-health-benefits-with-selecta-yerba-mate-tea-with-guarana-500g): Energize Your Day: Unlocking Health Benefits with Selecta Yerba Mate Tea with Guarana 500g
+    Updated: 2026-10-29T17:39:37Z
+    Author: Mannavita
+    Tags: antioxidants, guarana, health, Herbal Tea, mate tea, tea
+  - [Enhancing Male Virility: Natural Ways to Boost Testosterone and Libido](https://www.mannavita.com/blogs/healing/enhancing-male-virility): Enhancing Male Virility: Natural Ways to Boost Testosterone and Libido
+    Updated: 2026-10-29T17:39:59Z
+    Author: Mannavita
+    Tags: erection, impotence, libido, male virility, testosterone
+  - [Understanding Bladder Problems and Urination Issues,](https://www.mannavita.com/blogs/healing/understanding-bladder-problems): Understanding Bladder Problems and Urination Issues,
+    Updated: 2026-10-29T17:40:30Z
+    Author: Mannavita
+    Tags: e. coli infection, frequent urge to urinate, urinary tract infection, urination, urination problem
+  - [Effective Solutions for Managing Lower Back Pain and Joint Discomfort](https://www.mannavita.com/blogs/healing/effective-solutions): Effective Solutions for Managing Lower Back Pain and Joint Discomfort
+    Updated: 2026-10-29T17:41:10Z
+    Author: Mannavita
+    Tags: back pain, joint pain, knee pain, osteoarthritis, rheumatoid arthritis, shoulder pain
+  - [Boosting Your Health Naturally with Mannavita Vitamin C Complex 250 mg](https://www.mannavita.com/blogs/healing/boosting-your-health-naturally): Boosting Your Health Naturally with Mannavita Vitamin C Complex 250 mg
+    Updated: 2026-10-29T17:42:28Z
+    Author: Mannavita
+    Tags: antioxidants, ascorbic acid, health, Healthy Skin, vitamin-c
+  - [Apple Cider Vinegar for a Happier Gut Exploring Its Role in Combating Bloating and Indigestion](https://www.mannavita.com/blogs/healing/apple-cider-vinegar-for-a-happier-gut-exploring-its-role-in-combating-bloating-and-indigestion): Apple Cider Vinegar for a Happier Gut Exploring Its Role in Combating Bloating and Indigestion
+    Updated: 2026-10-29T17:42:42Z
+    Author: Mannavita
+    Tags: apple cider vinegar, bloating, digestive enzymes, gas, heartburn, indigestion, reflux
+  - [Unlocking Hawthorn Bee Pollen: Nature’s Pathway to Superior Health](https://www.mannavita.com/blogs/healing/unlocking-hawthorn-bee-pollen): Unlocking Hawthorn Bee Pollen: Nature’s Pathway to Superior Health
+    Updated: 2026-10-29T17:42:53Z
+    Author: Mannavita
+    Tags: antioxidants, b-vitamins, bee polen, hawhtorn, hawthorn bee polen, health, protein
+  - [Overcoming Impotence: Effective Strategies for a Healthy Erection](https://www.mannavita.com/blogs/healing/overcoming-impotence): Overcoming Impotence: Effective Strategies for a Healthy Erection
+    Updated: 2026-10-29T17:43:08Z
+    Author: Mannavita
+    Tags: erection, impotence, libido, male virility, testosterone
+  - [How Bladder Chill Can Affect Nighttime Urination](https://www.mannavita.com/blogs/healing/how-bladder-chill-can-affects): How Bladder Chill Can Affect Nighttime Urination
+    Updated: 2026-10-29T17:43:24Z
+    Author: Mannavita
+    Tags: Bladder Chill, e. coli infection, frequent urge to urinate, urinary tract infection, urination
+  - [Knee Pain Explained: Causes Preventive Measures and  Options](https://www.mannavita.com/blogs/healing/knee-pain-explained): Knee Pain Explained: Causes Preventive Measures and  Options
+    Updated: 2026-10-29T17:40:39Z
+    Author: Mannavita
+    Tags: back pain, joint pain, knee pain, osteoarthritis, rheumatoid arthritis, shoulder pain
+  - [Overcoming Nighttime Wakefulness: Tips for Achieving Deep Rest](https://www.mannavita.com/blogs/healing/overcoming-nighttime-wakefulness-tips): Overcoming Nighttime Wakefulness: Tips for Achieving Deep Rest
+    Updated: 2026-10-29T17:40:14Z
+    Author: Mannavita
+    Tags: insomnia, night time, nighttime wakefulness, rem sleep, rest
 
 ## Store Pages
 
