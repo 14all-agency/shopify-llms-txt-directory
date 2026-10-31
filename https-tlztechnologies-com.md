@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T13:50:08Z
 - Contact Email: sales@tlztechnologies.com
-- Updated At: 2026-10-23T01:08:50.639Z
+- Updated At: 2026-10-31T00:30:13.588Z
 
 ## Products
 
@@ -487,12 +487,12 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46512925.jpg?v=1792160580
   Price: $70.77 USD
 - [Intermec EasyCoder PC23d Direct Thermal Barcode Label Printer](https://tlztechnologies.com/products/intermec-easycoder-pc23d-direct-thermal-barcode-label-printer): Intermec EasyCoder PC23d Direct Thermal Barcode Label Printer Condition: New Package: Original Package Make: Intermec Type: Direct Thermal Printer Model: PC23d
-  Updated: 2026-08-28T19:37:51Z
+  Updated: 2026-10-23T14:26:09Z
   Vendor: Intermec
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51380568.jpg?v=1740473896
-  Price: $222.66 USD
+  Price: $135.67 USD
 - [AudioCodes FXO-G Voice Module Mediant 1000 4-Port M1K OMX-1-4FXO-LS-GS](https://tlztechnologies.com/products/audiocodes-fxo-g-mediant-1000-4-port-voice-module-m1k-omx-1-4fxo-ls-gs): AudioCodes FXO-G Voice Module Mediant 1000 4-Port M1K OMX-1-4FXO-LS-GS Condition: New Package: Brown Box Make: AudioCodes Model: FXO-G Part #: M1K OMX-1-4FXO-LS-GS
   Updated: 2026-08-28T19:37:52Z
   Vendor: AudioCodes
@@ -570,13 +570,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/51463037.jpg?v=1752655503
   Price: $20.64 USD
-- [Honeywell Hyperion 1300G Barcode Scanner USB Handheld 1300G-1](https://tlztechnologies.com/products/honeywell-hyperion-1300g-usb-handheld-barcode-scanner-1300g-1): Honeywell Hyperion 1300G USB Handheld Barcode Scanner 1300G-1 Condition: As Pictured Package: Original box Brand: Honeywell Type: Scanner Part #: 1300G-1
-  Updated: 2026-08-28T19:38:01Z
-  Vendor: Honeywell
-  Product Type: Barcode Scanner
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46510062.jpg?v=1752671342
-  Price: $32.67 USD
 - [Bluebird ET100-WNLH Rugged Touch Mobile Tablet Computer Win 10 10.1" WXGA](https://tlztechnologies.com/products/bluebird-et100-wnlh-rugged-mobile-tablet-computer-win-10-10-1-wxga-1280x800): Bluebird ET100-WNLH Rugged Touch Mobile Tablet Computer Win 10 10.1" WXGA Condition: New Item description: New (Open box) Other condition notes: Distressed box due to warehouse handling Make: BluebirdType: Rugged Mobile Tablet Computer Model #: ET100-WNLH
   Updated: 2026-10-13T21:45:07Z
   Vendor: Bluebird
@@ -711,7 +704,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/48353088.jpg?v=1711017425
   Price: $20.97 USD
 - [Universal Printer Cable for Computer 6ft USB A to B High Speed TID 60000467](https://tlztechnologies.com/products/usb-printer-cable-hi-speed-6ft-type-a-male-to-usb-type-b-male-tid-60000467): Universal Printer Cable for Computer 6ft USB A to B High Speed TID 60000467Condition: New Item description: New (Open box) Package: Original packageMake: TID Type: Printer CablePart #: 60000467
-  Updated: 2026-10-21T06:10:01Z
+  Updated: 2026-10-29T16:30:01Z
   Vendor: Universal
   Product Type: Printer Cable
   Availability: Available
@@ -900,7 +893,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/46961289.jpg?v=1691789062
   Price: $109.37 USD
 - [Honeywell PB21 PB22 Battery Printer AB27 7.4V 2.3Ah 318-030-004 Genuine OEM](https://tlztechnologies.com/products/honeywell-ab27-battery-genuine-oem-7-4v-2-3ah-318-030-004-pb21-pb22-printer): Honeywell PB21 PB22 Battery Printer AB27 7.4V 2.3Ah 318-030-004 Genuine OEMCondition: New Item description: New (Open box) Package: Brown BoxMake: Honeywell Type: Battery Model: AB27 Part #: 318-030-004 Compatibility: Honeywell PB21, PB22, PB31
-  Updated: 2026-08-28T19:38:47Z
+  Updated: 2026-10-28T22:52:51Z
   Vendor: Intermec
   Product Type: Battery
   Availability: Available
@@ -1109,13 +1102,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/53498397.jpg?v=1715260996
   Price: $7.52 USD
-- [Zebra VC80 Computer Adapter Bracket with U-Mount Bracket Genuine 8710-058001-30](https://tlztechnologies.com/products/zebra-vc80-computer-adapter-bracket-with-u-mount-bracket-genuine-8710-058001-30): Zebra VC80 Computer Adapter Bracket with U-Mount Bracket Genuine 8710-058001-30 Condition: New / Open box Package: Original package Make: ZebraType: Adapter BracketPart #: 8710-058001-30Compatibility: Zebra VH10, VC80, VC80x, VC8300
-  Updated: 2026-08-28T19:39:08Z
-  Vendor: Zebra
-  Product Type: Adapter Bracket
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/53515352.jpg?v=1763661277
-  Price: $98.26 USD
 - [Xtreme XPD1420HV Power Conversion Panel 12' Cord Basic PDU L5-20P Plug 90000045](https://tlztechnologies.com/products/xtreme-xpd1420hv-power-conversion-panel-12-cord-basic-pdu-l5-20p-plug-90000045): Xtreme XPD1420HV Power Conversion Panel 12' Cord Basic PDU L5-20P Plug 90000045 Condition: New Item description: New (Open box) Package: Original package Make: Xtreme Type: Power ConversionModel: XPD1420HVPart #: 90000045
   Updated: 2026-08-28T19:39:11Z
   Vendor: Xtreme
@@ -1172,13 +1158,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54172059.jpg?v=1750806350
   Price: $94.37 USD
-- [Zebra QLn220 Barcode Printer Mobile  Bluetooth WiFi QH2-AUCA0M00-HB](https://tlztechnologies.com/products/zebra-qln220-barcode-printer-mobile--bluetooth-wifi-qh2-auca0m00-hb): Zebra QLn220 Barcode Printer Thermal Mobile Label  Bluetooth WiFi QH2-AUCA0M00-HBCondition: As Pictured / Open Box ItemPackage: Original PackageMake: Zebra Type: Barcode PrinterModel: QLn220Part #: QH2-AUCA0M00-HBAccessories includedAC Adapter Power Supply
-  Updated: 2026-08-28T19:39:16Z
-  Vendor: Zebra
-  Product Type: Barcode Printer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54177204.jpg?v=1787055177
-  Price: $135.67 USD
 - [Poly EncorePro 310 Telephone Headset Call Centre USB-C On-Ear 760Q8AA](https://tlztechnologies.com/products/poly-encorepro-310-telephone-headset-call-centre-usb-c-on-ear-760q8aa): Poly EncorePro 310 Telephone Headset Call Centre USB-C On-Ear 760Q8AA Condition: As Pictured / Open box Package: Original package Make: PolyType: Telephone HeadsetModel: EncorePro 310 Part #: 760Q8AA
   Updated: 2026-08-28T19:39:16Z
   Vendor: Poly
@@ -1431,13 +1410,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/55799573.jpg?v=1729012252
   Price: $150.24 USD
-- [Hanwha Techwin PND-A6081RV Network IP Security Camera Dome AI IR WDR POE](https://tlztechnologies.com/products/hanwha-techwin-pnd-a6081rv-network-ip-security-camera-dome-ai-ir-wdr-poe): Hanwha Techwin PND-A6081RV Network IP Security Camera Dome AI IR WDR POECondition: New Make: Hanwha TechwinType: Network IP Security CameraModel: PND-A6081RV
-  Updated: 2026-08-28T19:39:39Z
-  Vendor: Hanwha Techwin
-  Product Type: Network IP Security Camera
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/55834847.jpg?v=1728554885
-  Price: $350.97 USD
 - [Unitech FC78 Barcode Scanner Desktop Presentation Area Imager FC78-2UCB00-SG](https://tlztechnologies.com/products/unitech-fc78-barcode-scanner-desktop-presentation-area-imager-fc78-2ucb00-sg): Unitech FC78 Barcode Scanner Desktop Presentation Area Imager FC78-2UCB00-SG Condition: NewPackage: Original packageMake: UnitechType: Barcode ScannerModel: FC78Part #: FC78-2UCB00-SG
   Updated: 2026-08-28T19:39:40Z
   Vendor: Unitech
@@ -1670,7 +1642,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56894107.jpg?v=1751906588
   Price: $40.28 USD
 - [Datacard 534000-010 Ribbon Cartridge KTT Black Yield Up to 750 Images OEM](https://tlztechnologies.com/products/datacard-sd160-ribbon-cartridge-ktt-black-yield-up-to-750-images-534000-003-oem): Datacard SD160 Ribbon Cartridge Kit KTT Black Yield Up to 750 Images 534000-010 GenuineCondition: NewItem description: New (Open box)Package: Original packageMake: Datacard Type: Ribbon Cartridge Part #: 534000-010Compatibility: DataCard SD160 SD260 SD360 SD460 Printer
-  Updated: 2026-09-23T00:49:14Z
+  Updated: 2026-10-24T13:28:11Z
   Vendor: Datacard SD160
   Product Type: Ribbon Cartridge
   Availability: Available
@@ -1719,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/55893500.jpg?v=1786019823
   Price: $82.64 USD
 - [Tannoy VMS 1 5" Woofer Versatile 2-Way Compact Monitor Speakers 4 Pack](https://tlztechnologies.com/products/tannoy-vms-1-5-woofer-versatile-2-way-compact-monitor-speakers-4-pack-1): Tannoy VMS 1 5" Woofer Versatile 2-Way Compact Monitor Speakers 4 Pack New Sealed PackageCondition: NewPackage: Original Sealed PackageMake: TannoyType: Monitor Speakers Size: 5"Model: VMS 1 Speakers ideal for:- Stereo and surround setups, - Home recording studios, - Audio and video production- Fixed-installation sound systems for restaurants and bars, theme parks, hotels, retail stores and houses of worship.
-  Updated: 2026-10-08T08:00:46Z
+  Updated: 2026-10-29T08:02:16Z
   Vendor: Tannoy
   Product Type: Monitor Speakers
   Availability: Available
@@ -1754,13 +1726,41 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56952923.jpg?v=1744884575
   Price: $30.64 USD
 - [Poly Polycom Edge B30 IP Phone Office PoE Speakerphone Desktop 2200-49825-025](https://tlztechnologies.com/products/poly-polycom-edge-b30-ip-phone-office-poe-speakerphone-desktop-2200-49825-025): Poly Polycom Edge B30 IP Phone Office PoE Speakerphone Desktop 2200-49825-025 Condition: New Item description: New (Open box)Package: Original PackageMake: Poly Type: IP PhoneModel: Poly Edge B30Part #: 2200-49825-025Accessories includedEthernet Cable
-  Updated: 2026-10-16T20:13:47Z
+  Updated: 2026-10-25T16:32:46Z
   Vendor: Poly
   Product Type: IP Phone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56958441.jpg?v=1790247428
   Price: $53.68 USD
-[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjU4NjM1MTk4NTEyLCJsYXN0X3ZhbHVlIjoiNzY1ODYzNTE5ODUxMiJ9)
+- [ID Tech TIC3237-633  Reader MagStripes & Barcodes 3 Track MSR](https://tlztechnologies.com/products/id-tech-tic3237-633-credit-card-reader-magstripes-barcodes-3-track-msr): ID Tech TIC3237-633  Reader MagStripes & Barcodes 3 Track MSR Condition: NewItem description: New (Open box)Package: Original PackageMake: ID Tech Type:  Reader Part #: TIC3237-633
+  Updated: 2026-08-28T19:40:04Z
+  Vendor: ID Tech
+  Product Type:  Reader
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56976829.jpg?v=1745426796
+  Price: $28.97 USD
+- [Entrust CR805 Ribbon ID Card Printer Full Color CMYP-KPI 513382-204 Genuine](https://tlztechnologies.com/products/entrust-cr805-ribbon-id-card-printer-full-color-cmyp-kpi-513382-204-genuine-1): Entrust CR805 Ribbon ID Card Printer Full Color CMYP-KPI 513382-204 GenuineCondition: New Item description: New (Open box) Package: Original packageMake: Entrust Type: Printer RibbonPart #: 513382-204Compatibility: Entrust CR805
+  Updated: 2026-10-26T18:33:55Z
+  Vendor: Entrust
+  Product Type: Printer Ribbon
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/55910825_69238528-bba7-47dd-bd48-f3a414f17c12.jpg?v=1745521425
+  Price: $85.45 USD
+- [Datacard Entrust CR805 DuraGard Laminate 1 MIL Clear Magnetic Stripe 514910-903](https://tlztechnologies.com/products/datacard-entrust-cr805-duragard-laminate-1-mil-clear-magnetic-stripe-514910-904): Datacard Entrust CR805 DuraGard Laminate 1 MIL Clear Magnetic Stripe 514910-903 Condition: As Pictured / Open box Package: Original package Make: Datacard Type: Laminate Part #: 514910-903Compatibility: Datacard Entrust CR805
+  Updated: 2026-10-21T00:18:36Z
+  Vendor: Datacard
+  Product Type: Laminate
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54177149_b206aed4-9ee6-4cd6-8258-290b35d31d13.jpg?v=1749714184
+  Price: $35.51 USD
+- [Honeywell Ribbons 2.36" x 299' ThermaMax TMX3202 13631636 Genuine OEM - 24 Rolls](https://tlztechnologies.com/products/honeywell-ribbons-2-36-x-299-thermamax-tmx3202-13631636-genuine-oem-24-rolls): Honeywell Ribbons 2.36" X 299' ThermaMax TMX3202 13631636 Genuine OEM - 24 RollsCondition: NewItem description: New (Open box)Package: Original packageMake: ZebraType: Ribbons Model: TMX3202 Package Quantity: 24 RollsPart #: 13631636
+  Updated: 2026-08-28T19:40:06Z
+  Vendor: Honeywell
+  Product Type: Ribbons
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56985396.jpg?v=1785240986
+  Price: $105.67 USD
+[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjY0Mjc0NzY3OTIwLCJsYXN0X3ZhbHVlIjoiNzY2NDI3NDc2NzkyMCJ9)
 
 ## Collections
 
@@ -1768,32 +1768,32 @@
   Updated: 2026-10-22T10:10:55Z
   Total Products: 61
 - [POS Systems & Scanners](https://tlztechnologies.com/collections/pos-systems-scanners): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco POS gear. Get authentic barcode scanners and point-of- systems at a fraction of the cost.
-  Updated: 2026-10-21T12:43:06Z
-  Total Products: 42
+  Updated: 2026-10-23T14:07:11Z
+  Total Products: 43
 - [Electronics & More](https://tlztechnologies.com/collections/electronics-more): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco electronics. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
   Updated: 2026-10-22T10:10:55Z
   Total Products: 34
 - [Networking Equipment, Servers & Storage](https://tlztechnologies.com/collections/networking-equipment-servers-storage): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic servers, storage, and networking gear at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-10-22T14:53:54Z
-  Total Products: 144
+  Updated: 2026-10-30T11:11:09Z
+  Total Products: 145
 - [Business Phones & Video Conferencing](https://tlztechnologies.com/collections/business-phones-video-conferencing): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco. Get authentic video conferencing and business phone systems at a fraction of the cost. Shop 50% Off!
   Updated: 2026-10-12T14:57:23Z
   Total Products: 13
 - [Industrial Printers & Print Supplies](https://tlztechnologies.com/collections/industrial-printers-print-supplies): Shop Zebra, Honeywell, Intermec, Cisco, Avaya & Polycom. Get authentic industrial printers and thermal supplies at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-10-22T14:31:24Z
+  Updated: 2026-10-23T14:26:10Z
   Total Products: 18
 - [Super Saver Deals](https://tlztechnologies.com/collections/): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco deals. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-10-22T21:58:31Z
+  Updated: 2026-10-30T12:17:18Z
   Total Products: 1143
 - [Security Systems](https://tlztechnologies.com/collections/security-systems): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco gear. Get authentic security systems and surveillance hardware at a fraction of the cost. Shop 50% Off!
   Updated: 2026-10-22T13:50:51Z
   Total Products: 9
 - [Best Sellers](https://tlztechnologies.com/collections/best-sellers): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco best sellers. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-10-22T22:00:57Z
-  Total Products: 867
+  Updated: 2026-10-30T12:22:11Z
+  Total Products: 877
 - [Zebra Technologies (expensive products)](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra, Honeywell, Intermec, Cisco & Polycom hardware. Get authentic Zebra mobile computers and printers at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-10-22T21:58:31Z
-  Total Products: 992
+  Updated: 2026-10-30T12:19:50Z
+  Total Products: 1006
 - [Security Systems (Copy)](https://tlztechnologies.com/collections/security-systems-copy)
   Updated: 2026-10-22T13:50:51Z
   Total Products: 9
@@ -2115,6 +2115,15 @@
     Author: Joe Muita
   - [The Competitive Edge: Unleashing Zebra's Hardware Strategies](https://tlztechnologies.com/blogs/news/the-competitive-edge-unleashing-zebras-hardware-strategies): The Competitive Edge: Unleashing Zebra's Hardware Strategies
     Updated: 2026-10-23T01:04:51Z
+    Author: Joe Muita
+  - [Honeywell's Approach to Enterprise Technology Efficiency](https://tlztechnologies.com/blogs/news/honeywells-approach-to-enterprise-technology-efficiency): Honeywell's Approach to Enterprise Technology Efficiency
+    Updated: 2026-10-26T01:07:18Z
+    Author: Joe Muita
+  - [Optimize Your IT Infrastructure Using Zebra Technologies](https://tlztechnologies.com/blogs/news/optimize-your-it-infrastructure-using-zebra-technologies): Optimize Your IT Infrastructure Using Zebra Technologies
+    Updated: 2026-10-28T01:04:25Z
+    Author: Joe Muita
+  - [Honeywell's Guide to Efficient Tech Solutions for Enterprises](https://tlztechnologies.com/blogs/news/honeywells-guide-to-efficient-tech-solutions-for-enterprises): Honeywell's Guide to Efficient Tech Solutions for Enterprises
+    Updated: 2026-10-30T00:51:36Z
     Author: Joe Muita
 
 ## Store Pages
