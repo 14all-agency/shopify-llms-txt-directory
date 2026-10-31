@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2025-09-26T23:24:45Z
 - Contact Email: contacto@nutrihub.mx
-- Updated At: 2026-10-23T01:08:41.454Z
+- Updated At: 2026-10-31T00:35:47.143Z
 
 NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo de fitness de alta calidad. Ofrecemos proteínas, pre-entrenos, aminoácidos, vitaminas, quemadores de grasa y equipo de gimnasio para atletas y personas activas en México. Todos nuestros productos cumplen con estándares de calidad internacionales y están disponibles con envío a toda la República Mexicana.
 
@@ -61,7 +61,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
     Image: https://cdn.shopify.com/s/files/1/0659/4841/8166/files/Mutant-Mass-Extreme-Gainer-12-lb-5-4-kg-Sabor-Vain-0_495e781e-3fb9-49bb-88c2-99fb20f9e213.jpg?v=1778623955
     Price: 904,50 $ MXN
 - [Falcon Performance Golden Vanilla 1.14 kg - 30 Servicios](https://nutrihub.mx/products/falcon-performance-birdman-proteina-vegetal-con-creatina-y-bcaas-sabor-vainilla-1-14-kg): Falcon Performance Proteína con Creatina y BCAAs – Golden Vanilla (1.14 kg) Falcon Performance de Birdman es una fórmula premium 100% de origen vegetal, diseñada para complementar la nutrición diaria de atletas y entusiastas de los entrenamientos de alto rendimiento. Combina una cuidada selección de fuentes proteicas vegetales con aminoácidos esenciales y extractos botánicos tradicionales, ofreciendo un perfil de macronutrientes limpio y equilibrado en un delicioso sabor a vainilla. Atributos Principales: Mezcla de Proteínas Vegetales: Aporta una combinación balanceada a base de chícharo, arroz y semilla de arándano para un óptimo valor nutricional diario. Enriquecida con Creatina y BCAAs: Cada porción incluye monohidrato de creatina de alta pureza y aminoácidos de cadena ramificada (L-Leucina, L-Isoleucina, L-Valina) ideales para integrar en planes de alimentación deportiva. Extractos Botánicos Tradicionales: Incorpora fitonutrientes naturales provenientes del extracto de cúrcuma y extracto de cereza tart, ingredientes altamente valorados en el estilo de vida activo. Mezcla de Enzimas: Cuenta con un complejo herbolario y enzimático diseñado para favorecer una cómoda asimilación y suavidad con el organismo en cada toma habitual. Fórmula Limpia y Sin Alérgenos: Producto completamente libre de lácteos, gluten y soya, endulzado con extractos naturales y sin azúcares añadidos. Especificaciones del Producto: Contenido: Hasta 31g de proteína vegetal por porción. Presentación: Envase de 1.14 kg (aproximadamente 27 servicios). Sabor: Golden Vanilla (Vainilla Dorada). Calidad: 100% vegetal, apto para un estilo de vida saludable y activo. Sugerencia de uso: Mezclar una porción (medida incluida) con 350ml de agua o tu leche vegetal preferida. Se recomienda consumir idealmente después de tu rutina de ejercicio físico o como parte de tus batidos diarios. Nota: Este producto es un suplemento alimenticio. Su consumo es responsabilidad de quien lo recomienda y de quien lo usa. No sustituye una dieta equilibrada.
-  Updated: 2026-10-19T12:29:26Z
+  Updated: 2026-10-26T05:55:26Z
   Vendor: Birdman
   Product Type: Proteína
   Availability: Available
@@ -308,7 +308,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Image: https://cdn.shopify.com/s/files/1/0659/4841/8166/files/aloe1.webp?v=1778705779
   Price: 365,00 $ MXN
 - [Trampolín Hexagonal con Barra de Estabilidad Ajustable](https://nutrihub.mx/products/trampolin-hexagonal-con-barra-de-estabilidad-ajustable): Olympo Fit – Trampolín Hexagonal Reforzado para Fitness El Trampolín Hexagonal de Olympo Fit es una herramienta de entrenamiento de alta resistencia diseñada para quienes buscan un ejercicio cardiovascular de bajo impacto pero de alta intensidad. Su estructura hexagonal única ofrece una superficie de salto más amplia y estable en comparación con los modelos circulares tradicionales, lo que permite realizar rutinas de rebounding con mayor seguridad y libertad de movimiento. Atributos Principales: Estructura Hexagonal Reforzada: Fabricado con un marco de acero de alta calidad que garantiza durabilidad y estabilidad superior durante saltos vigorosos. Sistema de Suspensión Silencioso: Utiliza cuerdas elásticas de alta resistencia en lugar de resortes metálicos, lo que proporciona un rebote más suave, protege las articulaciones y elimina los ruidos molestos. Barra de Estabilidad Ajustable: Incluye un manubrio acolchado con niveles de altura regulables, permitiendo que usuarios de diferentes estaturas mantengan el equilibrio y realicen ejercicios variados. Superficie de Salto Antiderrapante: La lona de salto está fabricada con materiales resistentes al desgaste y ofrece una tracción excelente para evitar resbalones durante la rutina. Diseño Compacto y Versátil: Su forma y tamaño lo hacen ideal para uso en interiores, gimnasios en casa o estudios de fitness, siendo fácil de mover y almacenar. Especificaciones del Producto: Forma: Hexagonal (Mayor estabilidad). Capacidad de Carga: Soporta hasta 120 kg (aproximadamente). Componentes: Incluye barra de soporte ajustable y protectores para las patas. Uso: Entrenamiento cardiovascular, drenaje linfático y fortalecimiento muscular. Beneficios del Entrenamiento: El uso constante de este trampolín ayuda a mejorar el equilibrio, la coordinación y la resistencia cardiovascular, quemando calorías de manera eficiente mientras se reduce hasta en un 80% el impacto en rodillas y tobillos.
-  Updated: 2026-10-19T12:29:31Z
+  Updated: 2026-10-23T15:23:56Z
   Vendor: Olympo Fit
   Product Type: Equipamiento
   Availability: Available
@@ -326,7 +326,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
     Image: https://cdn.shopify.com/s/files/1/0659/4841/8166/files/EsparalaAgenciaAduanalAsesoriaInternacionalenLogisticayTramitesAduanales_3.png?v=1778715970
     Price: 727,40 $ MXN
 - [Tapete de Ejercicio 10mm Grueso para Yoga y Pilates (Antiderrapante)](https://nutrihub.mx/products/tapete-de-ejercicio-10mm-grueso-para-yoga-y-pilates-antiderrapante): Olympo Fit – Tapete de Ejercicio Premium (10 mm) para Yoga y Pilates El Tapete de Ejercicio Olympo Fit está diseñado para ofrecer el máximo confort y soporte durante tus rutinas de entrenamiento. Con un grosor de 10 mm, este mat es la herramienta ideal para quienes buscan proteger sus articulaciones en superficies duras, permitiendo una práctica segura de yoga, pilates, estiramientos o ejercicios de piso. Su material de alta densidad combina durabilidad con una textura suave al tacto, elevando la experiencia de cada sesión. Atributos Principales: Grosor de 10 mm de Alta Densidad: Proporciona una amortiguación superior que reduce la presión en rodillas, codos y columna durante el ejercicio. Superficie Antiderrapante: Diseñado con una textura que garantiza un agarre firme al piso, evitando deslizamientos accidentales durante posturas exigentes. Material Resistente y Duradero: Fabricado para soportar el uso diario, manteniendo su forma y resistencia al desgaste con el paso del tiempo. Fácil de Limpiar: Su superficie es resistente a la humedad y al sudor, lo que permite una limpieza rápida y sencilla con un paño húmedo. Portátil y Ligero: Incluye una correa de transporte para que puedas llevarlo fácilmente al gimnasio, al estudio o utilizarlo en la comodidad de tu hogar. Especificaciones del Producto: Grosor: 10 mm (Extra acolchado). Uso Recomendado: Yoga, Pilates, Fitness, Estiramientos y Fisioterapia. Portabilidad: Incluye correa elástica de transporte. Marca: Olympo Fit. Beneficios Adicionales: Este mat es perfecto para usuarios de todos los niveles. Su acolchado adicional no solo brinda comodidad, sino que también ayuda a mantener el equilibrio en superficies irregulares, asegurando que tu única preocupación sea tu rendimiento.
-  Updated: 2026-10-19T12:29:29Z
+  Updated: 2026-10-23T15:23:56Z
   Vendor: Olympo Fit
   Product Type: Equipamiento
   Availability: Available
@@ -476,10 +476,10 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-10-07T11:19:51Z
   Total Products: 33
 - [Más vendidos](https://nutrihub.mx/collections/avada-best-sellers): Los más vendidos de NutriHub en un solo lugar.Descubra los suplementos con mayor preferencia de nuestros clientes, desde proteína y creatina hasta vitaminas y bienestar. Esta colección reúne productos destacados por su popularidad, disponibilidad y excelente aceptación. Si quiere una versión más breve: Explore los productos más vendidos de NutriHub.Aquí encontrará suplementos destacados por su popularidad entre nuestros clientes, incluyendo proteína, creatina, vitaminas y más.
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-24T11:26:46Z
   Total Products: 11
 - [Proteína](https://nutrihub.mx/collections/proteina): Compre proteína en NutriHub. Encuentre suplementos de proteína en distintas presentaciones, sabores y formatos para complementar su rutina diaria.
-  Updated: 2026-10-07T11:19:51Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 18
 - [Optimum Nutrition](https://nutrihub.mx/collections/optimum-nutrition): Compre productos Optimum Nutrition en NutriHub. Encuentre suplementos de esta marca en distintas presentaciones, sabores y formatos.
   Updated: 2026-08-27T22:16:35Z
@@ -491,7 +491,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-09-29T11:19:12Z
   Total Products: 3
 - [Ofertas](https://nutrihub.mx/collections/ofertas): Compre suplementos en oferta en NutriHub. Encuentre proteínas, creatinas, vitaminas y más con precios especiales por tiempo limitado.
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 75
 - [Whey](https://nutrihub.mx/collections/whey): Compre Whey Protein en NutriHub. Encuentre proteína de suero en distintas presentaciones, sabores y formatos para complementar su rutina diaria.
   Updated: 2026-10-07T11:19:51Z
@@ -524,7 +524,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-09-27T11:19:15Z
   Total Products: 26
 - [Vegetal](https://nutrihub.mx/collections/vegetal)
-  Updated: 2026-08-28T11:25:15Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 4
 - [MuscleTech](https://nutrihub.mx/collections/muscletech)
   Updated: 2026-08-27T22:16:39Z
@@ -623,28 +623,28 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-08-27T22:05:55Z
   Total Products: 4
 - [New products](https://nutrihub.mx/collections/new-collection)
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 78
 - [Best  products](https://nutrihub.mx/collections/best--collection)
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 78
 - [Cardio](https://nutrihub.mx/collections/cardio-1)
-  Updated: 2026-08-20T19:23:41Z
+  Updated: 2026-10-24T11:26:46Z
   Total Products: 3
 - [Equipo de Entrenamiento](https://nutrihub.mx/collections/equipamento)
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-24T11:26:46Z
   Total Products: 6
 - [Yoga & Pilates](https://nutrihub.mx/collections/yoga-pilates)
-  Updated: 2026-08-01T11:21:20Z
+  Updated: 2026-10-24T11:26:46Z
   Total Products: 1
 - [Fuerza](https://nutrihub.mx/collections/fuerza)
   Updated: 2026-10-21T11:20:39Z
   Total Products: 2
 - [Suplementos](https://nutrihub.mx/collections/suplementos)
-  Updated: 2026-09-27T11:19:15Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 56
 - [Deportivo](https://nutrihub.mx/collections/deportivo)
-  Updated: 2026-10-21T11:20:39Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 47
 - [Suplementos.](https://nutrihub.mx/collections/suplementosmenu)
   Updated: 2026-09-12T11:19:56Z
@@ -662,7 +662,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-08-20T19:24:58Z
   Total Products: 2
 - [Birdman](https://nutrihub.mx/collections/birdman)
-  Updated: 2026-08-28T11:25:15Z
+  Updated: 2026-10-26T11:20:07Z
   Total Products: 7
 - [B life](https://nutrihub.mx/collections/b-life)
   Updated: 2026-09-21T17:03:10Z
@@ -741,7 +741,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
 ## Policies
 
 - [Privacy Policy](https://nutrihub.mx/policies/privacy-policy)
-  Updated: 2025-09-26T23:24:55Z
+  Updated: 2026-10-30T17:58:56Z
 - [Shipping Policy](https://nutrihub.mx/policies/shipping-policy)
   Updated: 2026-03-19T22:58:29Z
 - [Refund Policy](https://nutrihub.mx/policies/refund-policy)
