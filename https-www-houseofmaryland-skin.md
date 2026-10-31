@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-04-11T11:58:19Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-10-23T01:06:44.078Z
+- Updated At: 2026-10-31T00:20:14.812Z
 
 ## Products
 
 - [Complete Ebon Ritual Skincare Set for Black & Brown Skin | House of Maryland](https://www.houseofmaryland.skin/products/ebon-collection): The full 6-step P.I.E. Ritual in one set. Botanically formulated for melanin-rich skin. Cleanse, exfoliate, hydrate, and glow — $65.
-  Updated: 2026-10-08T11:30:06Z
+  Updated: 2026-10-25T00:41:36Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
@@ -83,10 +83,10 @@
 ## Collections
 
 - [Luxurious Skincare for Melanated Beauty](https://www.houseofmaryland.skin/collections/luxury-skincare-melanated-skin): Premium Black-owned skincare for melanin-rich skin. Botanically formulated ritual products to nourish, hydrate, and illuminate Black and Brown skin.
-  Updated: 2026-10-08T11:30:06Z
+  Updated: 2026-10-25T11:30:20Z
   Total Products: 4
 - [The Ebon Collection](https://www.houseofmaryland.skin/collections/the-ebon-collection): Shop the complete Ebon Collection. Six botanically formulated products for melanin-rich skin. The P.I.E. Ritual — Protect, Infuse, Elevate.
-  Updated: 2026-10-08T11:30:06Z
+  Updated: 2026-10-25T11:30:20Z
   Total Products: 10
 - [Body Care Bundle](https://www.houseofmaryland.skin/collections/body-care-bundle): Four-step body ritual for Black and Brown skin. Cleanse, exfoliate, hydrate, and glow with botanical ingredients formulated for melanin-rich skin.
   Updated: 2026-10-08T11:30:06Z
@@ -95,7 +95,7 @@
   Updated: 2026-10-08T11:30:06Z
   Total Products: 2
 - [Gifts](https://www.houseofmaryland.skin/collections/gifts): Give the gift of ritual. Luxury skincare gift sets for melanin-rich skin. Botanically formulated bundles for Black and Brown skin. Shop House of Maryland.
-  Updated: 2026-10-08T11:30:06Z
+  Updated: 2026-10-25T11:30:20Z
   Total Products: 4
 - [Travel Bundle](https://www.houseofmaryland.skin/collections/travel-bundle): Shop the House of Maryland Travel Bundle. Ritual-ready skincare for melanated skin in travel-friendly sizes. Protect, infuse, and elevate anywhere.
   Updated: 2026-10-08T11:30:06Z
