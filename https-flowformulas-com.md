@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2017-11-25T02:23:40Z
 - Contact Email: Info@flowformulas.com
-- Updated At: 2026-10-23T01:03:58.754Z
+- Updated At: 2026-10-31T00:21:27.981Z
 
 ## Products
 
 - [Purist Water Bottles | Flow Formulas](https://flowformulas.com/products/water-bottle): Choose Flow Formulas Purist bottles in clear 22 oz, clear 26 oz or insulated 23 oz. MoFlow lids are leak-proof when closed.
-  Updated: 2026-10-20T01:19:06Z
+  Updated: 2026-10-30T15:44:57Z
   Vendor: Flow Formulas
   Product Type: Water Bottle
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-22OZ-BOTTLE-01.jpg?v=1688133258
     Price: $9.99 USD
 - [Recovery Drink Mix | Flow Formulas](https://flowformulas.com/products/recovery-drink-mix): Chocolate or Vanilla recovery drink powder with carbohydrates, pea protein, brown rice protein and tart cherries. Blend with water or nondairy milk.
-  Updated: 2026-10-22T23:38:27Z
+  Updated: 2026-10-30T15:44:58Z
   Vendor: Flow Formulas
   Product Type: Recovery Drink Mix
   Availability: Available
@@ -69,7 +69,7 @@
     Image: https://cdn.shopify.com/s/files/1/2581/8346/files/R90-OR-FRONT.png?v=1745945326
     Price: $5.99 USD
 - [Electrolyte Hydration Mix | Flow Formulas](https://flowformulas.com/products/electrolyte-replacement-mix): Choose Lemonade or Passion Fruit electrolyte drink powder. Mix one scoop with 12 ounces of water, stir and let dissolve for five minutes.
-  Updated: 2026-10-21T16:41:06Z
+  Updated: 2026-10-30T15:44:56Z
   Vendor: Flow Formulas
   Product Type: Electrolyte Drink Mix
   Availability: Available
@@ -114,7 +114,7 @@
     Availability: Available
     Price: $200.00 USD
 - [Carbohydrate Powder for Endurance Gels | Flow Formulas](https://flowformulas.com/products/endurance-gel-mix): Mix Flow carbohydrate powder into your own endurance gel. Customize thickness and calories in a reusable flask for cycling, running, training, and racing.
-  Updated: 2026-10-22T02:28:59Z
+  Updated: 2026-10-29T20:18:36Z
   Vendor: Flow Formulas
   Product Type: Endurance Gel Mix
   Availability: Available
@@ -128,7 +128,7 @@
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/EGM-FLAVORLESS-FRONT-2048.jpg?v=1693931469
     Price: $46.99 USD
 - [Reusable Gel Flask, 150 ml & 250 ml | Flow Formulas](https://flowformulas.com/products/reusable-gel-flask): Carry your Flow Formulas gel mix in a reusable flask with a bite valve lid. Choose 150 ml for up to two gels or 250 ml for up to four.
-  Updated: 2026-10-21T19:50:00Z
+  Updated: 2026-10-28T14:16:06Z
   Vendor: Flow Formulas
   Product Type: Reusable Gel Flask
   Availability: Available
@@ -142,7 +142,7 @@
     Image: https://cdn.shopify.com/s/files/1/2581/8346/products/FF-FLASK-LID-250ML-PREVIEW.jpg?v=1690828595
     Price: $8.99 USD
 - [Recovery Drink Mix, Single Serving | Flow Formulas](https://flowformulas.com/products/recovery-drink-mix-single-serving): Try Chocolate or Vanilla Recovery Drink Mix in a single-serving PLA pouch. A blend of carbohydrates, pea protein and brown rice protein.
-  Updated: 2026-10-18T12:23:47Z
+  Updated: 2026-10-24T15:22:57Z
   Vendor: Flow Formulas
   Product Type: Recovery Drink Mix
   Availability: Available
@@ -163,7 +163,7 @@
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/FFHeatherGreyHatSm.png?v=1715703323
   Price: $29.99 USD
 - [Endurance Chews Beta 2.0 | Flow Formulas](https://flowformulas.com/products/endurance-chews): Portable Endurance Chews with calories and electrolytes for training, racing and hiking. Five chews per package; choose your flavor.
-  Updated: 2026-10-22T14:15:24Z
+  Updated: 2026-10-30T15:44:29Z
   Vendor: Flow Formulas
   Product Type: Endurance Chews
   Availability: Available
@@ -188,7 +188,7 @@
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/NavyFFSocksBack.jpg?v=1735058106
   Price: $19.99 USD
 - [Carbohydrate Powder Endurance Drink Mix | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-1): Fuel long rides, runs, and races with Flow carbohydrate powder. A research-backed endurance drink mix with electrolytes in a 10-serving bag.
-  Updated: 2026-10-22T23:38:22Z
+  Updated: 2026-10-30T12:46:46Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
@@ -225,7 +225,7 @@
     Availability: Not Available
     Price: $32.99 USD
 - [Carbohydrate Powder 30-Serving Bulk Bag | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-new-bag-size-copy): Stock up on Flow carbohydrate powder in a 30-serving bulk bag. Endurance drink mix for cycling, running, and triathlon. Scoop sold separately.
-  Updated: 2026-10-22T22:08:07Z
+  Updated: 2026-10-30T12:37:06Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
@@ -240,7 +240,7 @@
     Availability: Available
     Price: $89.99 USD
 - [Flavorless Carbohydrate Powder & Sodium | Flow Formulas](https://flowformulas.com/products/high-low-sodium-endurance-mix-new-bag-size): Explore Flow flavorless carbohydrate powder with high and low sodium options. Use alone or blend with flavored endurance drink mixes for your fueling plan.
-  Updated: 2026-10-22T14:23:40Z
+  Updated: 2026-10-29T20:14:41Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
@@ -264,14 +264,14 @@
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/53CCLongHandleScoop.jpg?v=1745946455
   Price: $1.00 USD
 - [Dylan Johnson Carbohydrate Powder | Flow Formulas](https://flowformulas.com/products/dylan-johnson-special-edition): Fuel long rides with Dylan Johnson Special Edition carbohydrate powder. A flavorless endurance drink mix with carbs and sea salt, without citric acid.
-  Updated: 2026-10-22T02:29:30Z
+  Updated: 2026-10-28T18:57:17Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-DJ-SE-FRONT.jpg?v=1749654135
   Price: $32.99 USD
 - [Endurance & Recovery Nutrition Starter Pack | Flow Formulas](https://flowformulas.com/products/starter-pack): Explore Flow Formulas with a bundle of Endurance Drink Mix, Recovery Drink Mix and Endurance Chews. Choose your flavor combination.
-  Updated: 2026-10-22T23:38:38Z
+  Updated: 2026-10-30T15:45:10Z
   Vendor: Flow Formulas
   Product Type: Sports Nutrition Bundle
   Availability: Available
@@ -403,14 +403,14 @@
     Availability: Available
     Price: $78.48 USD
 - [Apple Cider Carbohydrate Powder | Flow Formulas](https://flowformulas.com/products/endurance-drink-mix-apple-cider-kerry-werner-special-edition-10-serving): Shop Kerry Werner Apple Cider carbohydrate powder from Flow Formulas. A 10-serving endurance drink mix you can prepare hot or cold for your next ride.
-  Updated: 2026-10-22T02:29:34Z
+  Updated: 2026-10-30T12:37:06Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2581/8346/files/EDM-6090-KW-APPLE-CIDER-FRONT.jpg?v=1760027851
   Price: $32.99 USD
 - [Caffeinated Carbohydrate Powder, 10 Servings | Flow Formulas](https://flowformulas.com/products/caffeinated-endurance-drink-mix-10-serving): Shop Flow caffeinated carbohydrate powder in a 10-serving bag. Endurance drink mix with sodium for cycling, running, triathlon, training, and racing.
-  Updated: 2026-10-22T02:29:39Z
+  Updated: 2026-10-29T20:14:46Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
@@ -422,7 +422,7 @@
     Availability: Available
     Price: $32.99 USD
 - [White Peach Carbohydrate Powder, Hillary Allen | Flow Formulas](https://flowformulas.com/products/hillary-allen-special-edition-bag-white-peach-edition): Discover Hillary Allen White Peach carbohydrate powder. Flow endurance drink mix in a 10-serving bag for long rides, trail runs, and mountain adventures.
-  Updated: 2026-10-22T23:38:28Z
+  Updated: 2026-10-29T14:07:46Z
   Vendor: Flow Formulas
   Product Type: Endurance Drink Mix
   Availability: Available
@@ -442,13 +442,13 @@
   Updated: 2026-08-20T18:06:24Z
   Total Products: 0
 - [Caffeinated](https://flowformulas.com/collections/caffeinated): - Flow Formulas
-  Updated: 2026-10-20T11:03:00Z
+  Updated: 2026-10-29T11:02:10Z
   Total Products: 1
 - [Large Bags](https://flowformulas.com/collections/large-bags): - Flow Formulas
   Updated: 2026-08-20T18:06:24Z
   Total Products: 0
 - [Caffeine-free](https://flowformulas.com/collections/caffeine-free): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 2
 - [This is a great drink that gives you enough electrolytes and fuel for short or long rides. -Greg Holick, Golden, CO](https://flowformulas.com/collections/this-is-a-great-drink-that-gives-you-enough-electrolytes-and-fuel-for-short-or-long-rides-greg-holick-golden-co): - Flow Formulas
   Updated: 2026-08-20T18:06:25Z
@@ -469,7 +469,7 @@
   Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Products](https://flowformulas.com/collections/all-products): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 26
 - [Individual Race Tubes](https://flowformulas.com/collections/individual-packets): - Flow Formulas
   Updated: 2026-10-22T11:03:15Z
@@ -484,92 +484,92 @@
   Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Gear](https://flowformulas.com/collections/gear): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-29T11:02:10Z
   Total Products: 10
 - [Blog](https://flowformulas.com/collections/blog): - Flow Formulas
   Updated: 2026-08-20T18:06:25Z
   Total Products: 0
 - [Collection for  codes](https://flowformulas.com/collections/collection-for--codes): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 27
 - [Endurance Drink Mix](https://flowformulas.com/collections/endurance-drink-mix): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 9
 - [Best  Products](https://flowformulas.com/collections/best--products): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 - [Newest Products](https://flowformulas.com/collections/newest-products): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 - [Endurance Gel Mix](https://flowformulas.com/collections/endurance-gel-mix): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 2
 - [Hydration Electrolyte Mix](https://flowformulas.com/collections/electrolyte-mix): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 1
 - [Recovery Drink Mix](https://flowformulas.com/collections/recovery-drink-mix): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-29T11:02:10Z
   Total Products: 2
 - [Digital Goods VAT Tax](https://flowformulas.com/collections/digital-goods-vat-tax): - Flow Formulas
   Updated: 2026-07-01T19:45:28Z
   Total Products: 0
 - [Endurance Chews](https://flowformulas.com/collections/endurance-chews): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 2
 - [All Products](https://flowformulas.com/collections/all): - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 - [Before Activity](https://flowformulas.com/collections/before-activity): Prepare for training with Flow Formulas hydration and fuel. Explore before-activity products, mixing directions and a repeatable preparation routine.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 8
 - [During Activity](https://flowformulas.com/collections/during-activity): Shop endurance fuel for long workouts and races. Compare Flow Formulas drink mixes, gel formats and hydration options for nutrition during activity.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 25
 - [After Activity](https://flowformulas.com/collections/after-activity): Shop post-workout recovery nutrition from Flow Formulas. Explore carbohydrate and plant-protein recovery mixes, hydration and product preparation guides.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 6
 - [Special Edition Nutrition](https://flowformulas.com/collections/special-edition-nutrition): - Flow Formulas
-  Updated: 2026-10-21T11:04:37Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 8
 - [Running](https://flowformulas.com/collections/running): Shop running nutrition for training miles and race day. Explore electrolyte hydration, drink mixes, gel fuel and recovery from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 35
 - [Swimming](https://flowformulas.com/collections/swimming): Shop swimming nutrition for pool and open-water training. Explore hydration, fuel for longer sessions and recovery drink mixes from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 27
 - [Trail Running](https://flowformulas.com/collections/trail-running): Shop trail running nutrition for climbs, long routes and ultra training. Find drink mixes, flask-ready gel fuel and recovery nutrition from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 35
 - [Cycling](https://flowformulas.com/collections/cycling): Shop cycling nutrition for road, gravel and long rides. Explore endurance drink mixes, hydration, gel fuel and post-ride recovery from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 35
 - [Mountain Biking](https://flowformulas.com/collections/mountain-biking): Shop mountain biking nutrition for climbs, singletrack and long laps. Explore hydration, endurance drink mix, gel fuel and recovery from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 25
 - [Hiking](https://flowformulas.com/collections/hiking): Shop hiking nutrition for long days outside. Explore electrolyte hydration, endurance drink mixes and portable gel fuel for your next route.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 25
 - [Skiing](https://flowformulas.com/collections/skiing): Shop skiing nutrition for Nordic sessions, touring and mountain days. Explore hydration, endurance drink mixes and recovery nutrition from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 27
 - [Triathlon](https://flowformulas.com/collections/triathlon): Shop triathlon nutrition for swim, bike and run training. Build your routine with hydration, endurance drink mix, gel fuel and recovery from Flow Formulas.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 27
 - [Flow+](https://flowformulas.com/collections/flow): Products that can be put on a regular subscription - Flow Formulas
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 15
 - [Endurance Nutrition](https://flowformulas.com/collections/endurance-nutrition): Shop endurance nutrition for long workouts and race day, including hydration, energy, chews, drink mix, and recovery support.
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 - [Sports Nutrition for Runners](https://flowformulas.com/collections/sports-nutrition-for-runners): Shop sports nutrition for runners, including hydration, endurance fuel, chews, and recovery support for training and race day.
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 - [Fitness](https://flowformulas.com/collections/fitness): Shop workout nutrition for gym sessions, conditioning and longer training. Explore Flow Formulas hydration, endurance fuel and recovery drink mixes.
-  Updated: 2026-10-22T11:03:15Z
+  Updated: 2026-10-30T11:02:41Z
   Total Products: 10
 - [Halloween ](https://flowformulas.com/collections/halloween-): Halloween SaleSave 20% sitewide October 9–18, 2026. Use code SPOOKY20 at checkout.The only monster is the bonk.
-  Updated: 2026-10-22T11:03:15Z
-  Total Products: 44
+  Updated: 2026-10-30T11:02:41Z
+  Total Products: 45
 
 ## Blogs
 
@@ -1349,6 +1349,8 @@
   Updated: 2026-06-12T14:07:15Z
 - [Flow+ | Stay Prepared. Stay Consistent.](https://flowformulas.com/pages/flow-plus): 
   Updated: 2026-09-30T22:29:49Z
+- [Project L — Coming Soon](https://flowformulas.com/pages/project-l): COMING SOONMeet Project L.Lemon Burst lactate nutrition. One formula, your choice: gel or drink mix.Limited first batch: 1,000 pouches · $34.99 · 6...
+  Updated: 2026-10-30T04:05:28Z
 
 ## Policies
 
