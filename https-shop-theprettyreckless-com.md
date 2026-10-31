@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-28T15:25:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T01:04:44.585Z
+- Updated At: 2026-10-31T00:24:32.044Z
 
 ## Products
 
 - [The Pretty Reckless Tee - Black](https://shop.theprettyreckless.com/products/bat-logo-tee): 100% cotton t-shirt in black
-  Updated: 2026-10-19T11:22:05Z
+  Updated: 2026-10-29T01:29:27Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Pretty Reckless Christmas Glass Ornament](https://shop.theprettyreckless.com/products/pretty-reckless-glass-christmas-ornament): Red glass Christmas ornament with festive print and a string to hang on your tree. Ornament is not shatter-proof so please handle with care!
-  Updated: 2026-10-21T03:56:07Z
+  Updated: 2026-10-29T03:17:06Z
   Vendor: The Pretty Reckless
   Product Type: Ornament
   Availability: Available
@@ -175,14 +175,14 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Cross Flip Lighter](https://shop.theprettyreckless.com/products/cross-flip-lighter): Everything you love will burn up in the light 🔥 Metal wick oil lighter with spring action flip top case. Snap shut to extinguish flame. Does not contain lighter fluid.
-  Updated: 2026-10-23T00:58:27Z
+  Updated: 2026-10-26T15:48:39Z
   Vendor: The Pretty Reckless
   Product Type: Flip Lighter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Cross_Lighter.png?v=1773165829
   Price: $15.00 USD
 - [Dear God Poster](https://shop.theprettyreckless.com/products/dear-god-poster): 11x17" poster
-  Updated: 2026-10-21T02:27:55Z
+  Updated: 2026-10-29T03:17:06Z
   Vendor: The Pretty Reckless
   Product Type: Poster
   Availability: Available
@@ -196,7 +196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Dear_God_Embroidered_Hat_Front.png?v=1773165830
   Price: $35.00 USD
 - [Logo Tee](https://shop.theprettyreckless.com/products/logo-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front
-  Updated: 2026-10-12T09:20:56Z
+  Updated: 2026-10-29T03:17:06Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -238,14 +238,14 @@
     Availability: Not Available
     Price: $75.00 USD
 - [Dear God - Exclusive Gold Vinyl](https://shop.theprettyreckless.com/products/dear-god-webstore-exclusive-gold-vinyl): The Pretty Reckless’ 5th studio album again provides the captivating vocals and high-powered musical prowess fans have loved for over a decade. In an emotional message to a higher power Dear God delivers raw candor and fearlessness. From the sinister “For I Am Death” to the vulnerable yet hopeful “When I Wake Up” listeners are sure to go on a rollercoaster of emotions. This edition is pressed on gold-colored vinyl and is exclusive to The Pretty Reckless' artist webstore and tour dates. Track Listing Life Evermore Pt. 2 For I Am Death When I Wake Up Love Me Dragonfire Dear God Life Evermore Pt. 3 About You Spell on You Rollercoaster of Life Eye of the Storm Devil in Disguise (Michelle's Song) Dark Days Life Evermore Pt. 1 Release Date: June 26, 2026
-  Updated: 2026-10-20T19:27:37Z
+  Updated: 2026-10-26T21:49:02Z
   Vendor: The Pretty Reckless
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPRDearGodVinyl1.png?v=1787258151
   Price: $35.00 USD
 - [Something Wrong Zip Hoodie](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie): 80% cotton, 20% recycled polyester full zip hoodie in black; made with 3-end fleece for a heavyweight construction. Features a lyric print on the front and a photo print on the back.
-  Updated: 2026-10-22T14:18:38Z
+  Updated: 2026-10-27T22:14:42Z
   Vendor: The Pretty Reckless
   Product Type: Zip Hoodie
   Availability: Available
@@ -254,7 +254,7 @@
     Availability: Available
     Price: $75.00 USD
   - [M](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie?variant=46325490843692)
-    Availability: Not Available
+    Availability: Available
     Price: $75.00 USD
   - [L](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie?variant=46325490876460)
     Availability: Not Available
@@ -266,10 +266,10 @@
     Availability: Not Available
     Price: $75.00 USD
   - [3XL](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie?variant=46325493530668)
-    Availability: Not Available
+    Availability: Available
     Price: $75.00 USD
 - [Dear God Live Tour Tee](https://shop.theprettyreckless.com/products/dear-god-live-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-10-21T06:32:26Z
+  Updated: 2026-10-29T06:27:16Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -293,7 +293,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dear God Portrait Tour Tee](https://shop.theprettyreckless.com/products/dear-god-portrait-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-10-21T06:32:16Z
+  Updated: 2026-10-30T10:43:59Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -317,7 +317,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dear God Cover Tee](https://shop.theprettyreckless.com/products/dear-god-cover-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in ivory; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front.
-  Updated: 2026-10-14T17:40:56Z
+  Updated: 2026-10-23T20:25:47Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Logo Keychain](https://shop.theprettyreckless.com/products/logo-keychain): Metal keychain in a silver color
-  Updated: 2026-10-21T06:32:16Z
+  Updated: 2026-10-26T15:48:37Z
   Vendor: The Pretty Reckless
   Product Type: Keychain
   Availability: Available
@@ -382,19 +382,19 @@
 ## Collections
 
 - [All Products](https://shop.theprettyreckless.com/collections/frontpage)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 42
 - [Apparel](https://shop.theprettyreckless.com/collections/apparel)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 27
 - [Accessories](https://shop.theprettyreckless.com/collections/accessories)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 12
 - [All](https://shop.theprettyreckless.com/collections/all)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 42
 - [Music](https://shop.theprettyreckless.com/collections/music)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-27T11:16:41Z
   Total Products: 3
 - [For I Am Death](https://shop.theprettyreckless.com/collections/for-i-am-death)
   Updated: 2026-08-17T11:19:02Z
@@ -403,16 +403,16 @@
   Updated: 2026-10-20T11:15:03Z
   Total Products: 9
 - [Pretty Reckless Christmas](https://shop.theprettyreckless.com/collections/pretty-reckless-christmas)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 7
 - [Tour Tees](https://shop.theprettyreckless.com/collections/tour-tees)
-  Updated: 2026-10-20T11:15:03Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 7
 - [Dear God](https://shop.theprettyreckless.com/collections/dear-god)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 16
 - [Dear God Tour Merch](https://shop.theprettyreckless.com/collections/dear-god-tour-merch)
-  Updated: 2026-10-21T11:19:02Z
+  Updated: 2026-10-29T11:15:42Z
   Total Products: 8
 
 ## Store Pages
