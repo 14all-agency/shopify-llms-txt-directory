@@ -6,7 +6,7 @@
 - Timezone: Africa/Casablanca
 - Created At: 2026-06-20T20:18:48Z
 - Contact Email: gelnext1@gmail.com
-- Updated At: 2026-10-24T00:59:59.345Z
+- Updated At: 2026-10-31T01:19:13.028Z
 
 ## Products
 
@@ -869,7 +869,7 @@
     Availability: Available
     Price: 25 000,00 FCFA XAF
 - [Birkenstock boston](https://gelnext.click/products/birkenstock-boston-3)
-  Updated: 2026-10-16T19:09:37Z
+  Updated: 2026-10-30T01:19:55Z
   Vendor: GelNext
   Product Type: 
   Availability: Available
@@ -2747,7 +2747,7 @@
   Updated: 2026-09-23T19:20:07Z
   Total Products: 5
 - [Birkenstock boston](https://gelnext.click/collections/birkenstock-boston): - GelNext
-  Updated: 2026-09-01T20:25:08Z
+  Updated: 2026-10-30T11:19:18Z
   Total Products: 6
 - [Icone tendance](https://gelnext.click/collections/nouvelle-tendance): - GelNext
   Updated: 2026-09-22T11:23:10Z
@@ -2768,10 +2768,10 @@
   Updated: 2026-09-28T11:19:59Z
   Total Products: 7
 - [Birkenstock](https://gelnext.click/collections/birkenstock): - GelNext
-  Updated: 2026-09-01T20:25:08Z
+  Updated: 2026-10-30T11:19:18Z
   Total Products: 10
 - [Adidas](https://gelnext.click/collections/adidas): - GelNext
-  Updated: 2026-09-28T11:19:59Z
+  Updated: 2026-10-24T11:26:41Z
   Total Products: 4
 - [Nike P-6000](https://gelnext.click/collections/nike-p-6000): - GelNext
   Updated: 2026-09-20T11:24:05Z
