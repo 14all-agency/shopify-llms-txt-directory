@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-10-23T01:00:39.767Z
+- Updated At: 2026-10-31T00:29:29.795Z
 
 ## Products
 
 - [HARROMAN 2-in-1 Face Wash & Shave Stick](https://www.harroman.com/products/harroman-2-in-1-face-wash-shave-stick): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-10-20T09:09:11Z
+  Updated: 2026-10-30T22:09:12Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-razor-5-blade-platinum-coated-shaver-for-precision-1202964.jpg?v=1766714890
   Price: $29.00 USD
 - [Harroman Nose Scissors](https://www.harroman.com/products/harroman-nose-scissors)
-  Updated: 2026-10-16T08:22:37Z
+  Updated: 2026-10-30T22:09:17Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
@@ -49,16 +49,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-10-20T11:19:28Z
+  Updated: 2026-10-30T11:18:12Z
   Total Products: 3
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-10-20T11:19:28Z
+  Updated: 2026-10-30T11:18:12Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-10-20T11:19:28Z
+  Updated: 2026-10-30T11:18:12Z
   Total Products: 5
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-10-20T11:19:28Z
+  Updated: 2026-10-30T11:18:12Z
   Total Products: 5
 
 ## Blogs
@@ -154,6 +154,21 @@
     Author: Harroman
   - [Mastering the Art of Grooming: Best Razor Men's Shaving Guide 2026](https://www.harroman.com/blogs/user-review-social-proof/razor-mens-mastering-grooming-harroman-razor-redefines): Mastering the Art of Grooming: Best Razor Men's Shaving Guide 2026
     Updated: 2026-10-21T17:36:58Z
+    Author: Harroman
+  - [Men's Razor Science: Why 5-Blade Platinum Tech Rules 2026 Travel](https://www.harroman.com/blogs/user-review-social-proof/mens-razor-science-behind-travel-shaving-kits): Men's Razor Science: Why 5-Blade Platinum Tech Rules 2026 Travel
+    Updated: 2026-10-24T18:33:13Z
+    Author: Harroman
+  - [Best Men's Razor 2026: Electric vs Manual Shaving Guide](https://www.harroman.com/blogs/user-review-social-proof/best-mens-razor-manual-vs-electric-razors-2026): Best Men's Razor 2026: Electric vs Manual Shaving Guide
+    Updated: 2026-10-25T18:36:36Z
+    Author: Harroman
+  - [Men's Best Razor Shaving Techniques for Every Age in 2026](https://www.harroman.com/blogs/user-review-social-proof/mens-best-razor-shaving-technique-guide-for-every): Men's Best Razor Shaving Techniques for Every Age in 2026
+    Updated: 2026-10-26T19:05:23Z
+    Author: Harroman
+  - [Razor Men's Guide: Why Your Blade Pulls and How to Fix It](https://www.harroman.com/blogs/user-review-social-proof/razor-mens-real-reason-your-razor-pulls): Razor Men's Guide: Why Your Blade Pulls and How to Fix It
+    Updated: 2026-10-27T19:48:09Z
+    Author: Harroman
+  - [How to Organize Your Men's Razor and Gear for a 2026 Shave](https://www.harroman.com/blogs/user-review-social-proof/mens-razor-step-by-step-organize-shaving): How to Organize Your Men's Razor and Gear for a 2026 Shave
+    Updated: 2026-10-28T20:10:57Z
     Author: Harroman
 - [Blog Post](https://www.harroman.com/blogs/blog-post)
   - [The Ultimate Guide to Shaving Sticks: Best Options for Beginners and](https://www.harroman.com/blogs/blog-post/the-ultimate-guide-to-shaving-sticks-best-options-for-beginners-and-how-to-use-them-right): The Ultimate Guide to Shaving Sticks: Best Options for Beginners and
@@ -815,6 +830,30 @@
     Author: harroman
   - [Shave Bar Secrets: Your 2026 Budget Shave Kit Checklist](https://www.harroman.com/blogs/blog-post/shave-bar-budget-shaving-setup-checklist-2026): Shave Bar Secrets: Your 2026 Budget Shave Kit Checklist
     Updated: 2026-10-21T17:37:25Z
+    Author: Harroman
+  - [5 Shaving Gift Set Items You Actually Need in 2026](https://www.harroman.com/blogs/blog-post/shave-stick-shaving-gift-set-essentials-2026): 5 Shaving Gift Set Items You Actually Need in 2026
+    Updated: 2026-10-23T18:12:46Z
+    Author: Harroman
+  - [7 Manual Shaving Habits: Why a Shave Bar Keeps Skin Clear in 2026](https://www.harroman.com/blogs/blog-post/shave-bar-manual-shaving-habits-clear-skin): 7 Manual Shaving Habits: Why a Shave Bar Keeps Skin Clear in 2026
+    Updated: 2026-10-25T18:37:01Z
+    Author: Harroman
+  - [Understanding the Functions and Types of Shave Bars for Beginners](https://www.harroman.com/blogs/blog-post/understanding-the-functions-and-types-of-shave-bars-for-beginners): Understanding the Functions and Types of Shave Bars for Beginners
+    Updated: 2026-10-26T19:05:25Z
+    Author: harroman
+  - [Mastering the Shave Stick: Master Barber Tips for 2026](https://www.harroman.com/blogs/blog-post/shave-stick-master-barber-secrets-2-in): Mastering the Shave Stick: Master Barber Tips for 2026
+    Updated: 2026-10-26T19:05:26Z
+    Author: Harroman
+  - [Achieving Smooth Results with the Right Razor and Shave Bar](https://www.harroman.com/blogs/blog-post/achieving-smooth-results-with-the-right-razor-and-shave-bar): Achieving Smooth Results with the Right Razor and Shave Bar
+    Updated: 2026-10-27T19:48:44Z
+    Author: harroman
+  - [Shave Bar and Razor Blade Selection: Faster 2026 Routine](https://www.harroman.com/blogs/blog-post/shave-bar-razor-blade-selection-shaving-routine): Shave Bar and Razor Blade Selection: Faster 2026 Routine
+    Updated: 2026-10-27T19:48:46Z
+    Author: Harroman
+  - [Challenges in Men’s Shaving and How a Shave Stick Can Help](https://www.harroman.com/blogs/blog-post/challenges-in-men-s-shaving-and-how-a-shave-stick-can-help): Challenges in Men’s Shaving and How a Shave Stick Can Help
+    Updated: 2026-10-28T20:12:09Z
+    Author: harroman
+  - [Shave Stick: The Best Leak-Proof Travel Storage Secret for 2026](https://www.harroman.com/blogs/blog-post/shave-stick-travel-storage-secret-leak-proof): Shave Stick: The Best Leak-Proof Travel Storage Secret for 2026
+    Updated: 2026-10-28T20:12:11Z
     Author: Harroman
 
 ## Store Pages
