@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2024-09-30T18:36:55Z
 - Contact Email: info@zananii.com
-- Updated At: 2026-10-23T01:18:34.216Z
+- Updated At: 2026-10-31T00:36:53.519Z
 
 ## Products
 
@@ -2409,7 +2409,7 @@
 ## Policies
 
 - [Privacy Policy](https://zananii.com/policies/privacy-policy)
-  Updated: 2024-09-30T18:37:03Z
+  Updated: 2026-10-29T20:11:01Z
 - [Shipping Policy](https://zananii.com/policies/shipping-policy)
   Updated: 2025-10-06T11:48:45Z
 - [Refund Policy](https://zananii.com/policies/refund-policy)
