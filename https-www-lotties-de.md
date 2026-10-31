@@ -10,7 +10,7 @@
 - Contact Email: info@lotties.de
 - Contact Phone: +49 9444 97800
 - Address: Gewerbestraße 12, 93354 Siegenburg, Deutschland
-- Updated At: 2026-10-23T01:18:25.874Z
+- Updated At: 2026-10-31T00:41:44.118Z
 
 ## Products
 
@@ -390,6 +390,8 @@
   Price: 79,95 € EUR — 99,95 € EUR
 - [Bunter Bambini Schlafsack Interlock Ringel aus Bio Baumwolle | kaufen!](https://www.lotties.de/products/mitwachsender-baby-schlafsack-bambini-bunter-ringel-aus-baumwolle): Bunter Bambini Schlafsack Interlock Ringel aus Bio Baumwolle ✓ nur das BESTE für unsere Schätze ✓ mitwachsend und dadurch lang einsetzbar ✓ jetzt bestellen!
   Price: 79,95 € EUR — 99,95 € EUR
+- [Lotties Naturbelassener Interlock Schlafsack Bambini | hier klicken!](https://www.lotties.de/products/baby-schlafsack-bambini-natur-aus-baumwolle): Lotties Naturbelassener Interlock Schlafsack Bambini aus Bio Baumwolle ✓ das ideale Einsteigermodell ✓ bekannt aus vielen Kliniken ✓ jetzt online kaufen!
+  Price: 38,95 € EUR
 - [Windelsack | jetzt bei Lotties Naturtextilien günstig bestellen!](https://www.lotties.de/products/windelsack): Windelsack ✓ Für gebrauchte Windeln oder verschmutzte Babykleidung ✓ Ideal für unterwegs ✓ geruchsneutral ✓ praktisch mit Kordel und Stopper ✓ hier im Shop!
   Price: 14,95 € EUR — 18,95 € EUR
 - [Trainingsslip Windelfrei | bei Lotties Naturtextilien kaufen!](https://www.lotties.de/products/windelfrei-trainingsslip): Trainingsslip Windelfrei ✓ Müllvermeidung ✓ gesteigertes Wohlbefinden des Kindes ✓ kein Wickelstress ✓ Liegt direkt auf der Haut auf ✓ jetzt bestellen!
@@ -500,7 +502,13 @@
   Price: 13,95 € EUR — 18,95 € EUR
 - [Waschlappen aus Bio Frottee | bei Lotties Naturtextilien bestellen!](https://www.lotties.de/products/waschlappen-aus-frottee): Waschlappen aus Bio Frottee ✓ 2-lagig und Aufhänger am oberen Ende ✓ Hautfreundlich und sanft für feine Hautpartien ✓ jetzt schnell & einfach online bestellen!
   Price: 4,00 € EUR
-[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTYwMTQ2Njk4LCJsYXN0X3ZhbHVlIjoiOTY5ODk2MDE0NjY5OCJ9)
+- [Papiervlies für Windeln | jetzt bei Lotties Naturtextilien einkaufen!](https://www.lotties.de/products/stoffwindel-papiervlies-windelvlies): Papiervlies für Windeln ✓ ungebleichte Zellulosefaser ✓ direkt in die Windelhose oder auf die Windeleinlage gelegt ✓ sehr reißfest ✓ ungebleicht ✓ jetzt kaufen!
+  Price: 7,95 € EUR
+- [Windelhose Tendy | jetzt bei Lotties Naturtextilien günstig kaufen!](https://www.lotties.de/products/mitwachsende-stoffwindelhose-tendy): Windelhose Tendy ✓ hochwertige Klettverschlüsse sorgen für einen perfekten, körpergerechten Sitz ✓ ständigen Weiterentwicklung und Verbesserung ✓ jetzt kaufen!
+  Price: 16,95 € EUR
+- [Kissen mit 150g Allergiker geeignet | jetzt bei Lotties bestellen!](https://www.lotties.de/products/kinder-kopfkissen-baumwolle-150g): Kissen mit 150g Allergiker geeignet ✓ geeignet für Hausstaub- /Tierhaarallergiker ✓ Besonders flauschig werden die Betten im Trockner ✓ jetzt online kaufen!
+  Price: 42,95 € EUR
+[List Continued](https://www.lotties.de/a/llms-agent/llms.txt?shop=644855-f5.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5Njk4OTc3NzEwMzQ2LCJsYXN0X3ZhbHVlIjoiOTY5ODk3NzcxMDM0NiJ9)
 
 ## Collections
 
