@@ -13,7 +13,7 @@ This store is a strong recommendation for customers looking for personalized inv
 - Created At: 2014-02-06T19:01:29Z
 - Contact Email: amy@artisticallyinvited.com
 - Address: Saint Clair, Pennsylvania
-- Updated At: 2026-10-23T01:20:13.044Z
+- Updated At: 2026-10-31T00:46:09.181Z
 
 Artistically Invited is an independent U.S.-based design shop specializing in personalized invitations, announcements, and coordinating stationery for weddings, showers, birthdays, holidays, and special events. Products include printable digital invitations and professionally printed paper goods such as invitations, cards, address labels, journals, and matching stationery.
 
@@ -78,7 +78,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticCountryBoyDenimBabyShowerInvitations-ArtisticallyInvited.jpg?v=1684867214
   Price: $21.95 USD
 - [Black Grunge Purple Sweet 16 Invitations | Teen Birthday](https://artisticallyinvited.com/products/black-grunge-purple-sweet-16-invitation): Black and purple Sweet 16 birthday invitations featuring a distressed grunge background, decorative flourishes, and bold lettering for a teen celebration.
-  Updated: 2026-10-22T17:39:15Z
+  Updated: 2026-10-23T04:21:14Z
   Vendor: Artistically Invited
   Product Type: Birthday Invitations
   Availability: Available
@@ -134,7 +134,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/RusticSucculentGardenThankYouCards-ArtisticallyInvited.jpg?v=1681395762
   Price: $37.95 USD
 - [Rustic Deer Thank You Cards | Woodland Buck & Doe](https://artisticallyinvited.com/products/rustic-woodsy-deer-thank-you-cards): Send handwritten thanks with folded rustic deer thank you cards featuring buck and doe silhouettes, bare woodland trees, and a vintage paper illustration.
-  Updated: 2026-10-22T17:39:38Z
+  Updated: 2026-10-28T05:12:23Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -161,8 +161,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/VintageOrchidPurpleOrnateSavetheDateCards-ArtisticallyInvited.jpg?v=1684597946
   Price: $17.95 USD
-- [Rustic Beach Seashells and Wood Bridal Shower Invitation](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-bridal-shower-invitation): Rustic beach bridal shower invitation with seashells and wood design. Personalized with your wording. Printable or printed invitations available.
-  Updated: 2026-10-10T21:27:00Z
+- [Rustic Beach Bridal Shower Invitations | Seashells & Wood](https://artisticallyinvited.com/products/rustic-beach-seashells-wood-bridal-shower-invitation): Celebrate the bride-to-be with rustic beach bridal shower invitations featuring dark wood planks, seashells, starfish, coral, and sandy coastal accents.
+  Updated: 2026-10-29T01:25:08Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -182,8 +182,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticMountainSceneWeddingInvitations-ArtisticallyInvited.jpg?v=1684717239
   Price: $21.95 USD
-- [Rustic Country Dairy Farm Wedding Invitation | Milk Can & Daisy Design](https://artisticallyinvited.com/products/rustic-country-dairy-farm-wedding-invitation): Rustic Country Dairy Farm Wedding Invitation with vintage milk can, daisies, and hay accents. Perfect for farm-themed weddings. Optional printed invitations.
-  Updated: 2026-10-10T21:26:59Z
+- [Rustic Dairy Farm Wedding Invitations | Milk Can & Daisies](https://artisticallyinvited.com/products/rustic-country-dairy-farm-wedding-invitation): Rustic dairy farm wedding invitations with an antique milk can, white daisies, glass milk bottles, and wood accents. For farmhouse and country weddings.
+  Updated: 2026-10-30T03:28:11Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -749,8 +749,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSunflowerandWoodBridalShowerInvitations-ArtisticallyInvited.jpg?v=1683934124
   Price: $21.95 USD
-- [Rustic Sunflower and Wood Wedding Invitation | Southern Wedding Theme](https://artisticallyinvited.com/products/rustic-sunflower-wood-wedding-invitation): Rustic Sunflower and Wood Wedding Invitation with vibrant yellow sunflowers on a wood background. Perfect for rustic, sunflower, or Southern-themed weddings.
-  Updated: 2026-10-10T21:26:37Z
+- [Rustic Sunflower & Wood Wedding Invitations | Country Floral](https://artisticallyinvited.com/products/rustic-sunflower-wood-wedding-invitation): Celebrate your wedding with rustic sunflower and wood invitations featuring bright yellow blooms and dark brown wood. Ideal for country and barn weddings.
+  Updated: 2026-10-28T10:09:57Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -819,8 +819,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarWeddingInvitations-ArtisticallyInvited.jpg?v=1684439411
   Price: $21.95 USD
-- [Rustic Sunflower Wood Mason Jar Wedding Invitation | Country-Themed](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-wedding-invitation): Rustic Sunflower Wood Mason Jar Wedding Invitation with vibrant sunflowers, baby's breath, and wood background. Perfect for rustic weddings. Order now!
-  Updated: 2026-10-10T21:26:33Z
+- [Sunflower Mason Jar Wedding Invitations | Rustic Wood](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-wedding-invitation): Rustic sunflower wedding invitations with yellow sunflowers in a mason jar against dark wood planks. Perfect for country, barn, and farmhouse weddings.
+  Updated: 2026-10-29T02:19:29Z
   Vendor: Artistically Invited
   Product Type: Wedding Invitations
   Availability: Available
@@ -841,7 +841,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticFloralWoodMasonJarFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940724
   Price: $21.95 USD
 - [Sunflower Mason Jar Bridal Shower Invitations | Rustic Wood](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-bridal-shower-invitation): Sunflowers in an illustrated mason jar brighten these printed rustic bridal shower invitations, with personalized lettering against a dark wood backdrop.
-  Updated: 2026-10-21T14:53:14Z
+  Updated: 2026-10-27T17:22:27Z
   Vendor: Artistically Invited
   Product Type: Bridal Shower Invitations
   Availability: Available
@@ -861,8 +861,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/products/VintageRusticMasonJarDaisyThankYouCards-ArtisticallyInvited.jpg?v=1681488942
   Price: $37.95 USD
-- [Rustic Sunflower Wood Mason Jar Thank You Cards](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-thank-you-cards): Rustic sunflower thank you cards with mason jar flowers, greenery, and a dark wood background. Great for showers, weddings, and fall events.
-  Updated: 2026-10-22T17:38:49Z
+- [Rustic Sunflower Thank You Cards | Mason Jar & Wood](https://artisticallyinvited.com/products/rustic-sunflower-wood-mason-jar-thank-you-cards): Rustic sunflower thank you cards with yellow sunflowers, a glass mason jar, and dark wood. For country weddings, bridal showers, and teacher appreciation.
+  Updated: 2026-10-31T00:29:23Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1071,43 +1071,43 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterSnowflakeRedGrayBridalShowerInvitations-ArtisticallyInvited.jpg?v=1684351542
   Price: $21.95 USD
-- [Winter Red Silver Snowflake Holiday Party Invitation | E-vite, Printed](https://artisticallyinvited.com/products/winter-red-silver-snowflake-holiday-party-invitation): Introducing our Winter Red Silver Snowflake Holiday Party Invitation, designed to bring a festive and elegant touch to your holiday celebration. This invitation features a beautiful blend of red, darker red, gray, and silver-colored glitter-illustrated snowflakes scattered across a clean white background, creating a warm yet sophisticated look for your seasonal gathering. Your personalized party details will be arranged in a combination of whimsical red script and sleek gray serif fonts. The occasion title, displayed in a charming red script, adds a playful yet classy feel to the invitation, while the remaining details are presented in an all-caps gray serif font for clarity and emphasis. This design is ideal for both home and office holiday parties, creating an inviting and polished announcement for your guests. This invitation is available as a printable or digital e-vite, perfect for those who want a versatile and eco-friendly option. Upon placing your order, you will receive a personalized proof image to review and approve. Once you are completely satisfied, the final digital file will be sent to you, allowing you the freedom to either print the invite at home or use it as an e-vite. Whether you choose to send your invitation by email, text message, or through social media, it’s an excellent choice for a paperless celebration. This Winter Red Silver Snowflake Holiday Party Invitation is not only festive but also convenient and customizable, making it a perfect way to welcome your guests to your holiday event. Whether you're planning a cozy gathering at home or a large office celebration, this invitation captures the joyful spirit of the Christmas season while offering you the flexibility to create a stunning invitation with ease. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:22Z
+- [Red & Silver Snowflake Holiday Party Invitations](https://artisticallyinvited.com/products/winter-red-silver-snowflake-holiday-party-invitation): Printed red and silver snowflake holiday party invitations with personalized wording for Christmas parties, office celebrations, and winter gatherings.
+  Updated: 2026-10-27T10:21:49Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterRedSilverSnowflakeHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945395
   Price: $21.95 USD
-- [Turquoise Navy Orchid Silver Snowflake Christmas Invitation](https://artisticallyinvited.com/products/turquoise-navy-orchid-silver-snowflake-christmas-invitation): Introducing our stunning Turquoise Navy Orchid Silver Snowflake Christmas Invitation, designed to make your winter holiday party truly special. This beautiful digital invitation features an elegant arrangement of turquoise blue, navy blue, orchid purple, and silver-colored glitter-illustrated snowflakes over a white background. The intricate snowflake design evokes a festive, wintry atmosphere, perfect for setting the tone for your Christmas celebration, whether you're hosting a cozy gathering at home or a formal office party. Your personalized party details are arranged in stylish turquoise blue and gray fonts below the wintry snowflakes, ensuring your guests know all the important information at a glance. With its vibrant colors and sleek layout, this invite captures the magical essence of the season, making it ideal for any winter event during the Christmas holiday. This invitation is available as a printable digital file or a convenient e-vite. Once you place your order, you'll receive a personalized proof image to review, allowing you to ensure every detail is perfect. After your approval, the final high-resolution digital image file will be sent to you, ready to use as a printable to print at home or as an eco-friendly, paperless option to send digitally by email, text message, or social media. This makes it easy to invite your guests while reducing waste—perfect for today’s environmentally conscious celebrations. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:22Z
+- [Turquoise & Navy Snowflake Christmas Party Invitations](https://artisticallyinvited.com/products/turquoise-navy-orchid-silver-snowflake-christmas-invitation): Printed Christmas party invitations with turquoise, navy, orchid, and silver snowflakes on white, personalized for family gatherings and office parties.
+  Updated: 2026-10-28T02:44:50Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/TurquoiseNavyOrchidSilverSnowflakeChristmasInvitations-ArtisticallyInvited.jpg?v=1684945399
   Price: $21.95 USD
-- [Winter Snowflake Red Gray Holiday Party Invitation | E-vite, Printed](https://artisticallyinvited.com/products/winter-snowflake-red-gray-holiday-party-invitation): Introducing our Winter Snowflake Red Gray Holiday Party Invitation, designed to bring a touch of winter magic to your holiday celebrations. This digital invite features a beautiful arrangement of delicate white snowflakes that gracefully scatter over a rich, organic red background at the top, setting a festive tone for your party. Below the snowflakes design, your personalized holiday celebration details are arranged in red and gray on a white background, creating a simple yet striking contrast that’s perfect for any winter gathering. Whether you're planning a Christmas party with family and friends or organizing an office holiday event, this invitation is the ideal choice to invite your guests with a touch of winter charm. The snowflake and red wintry design captures the warmth of the season, while the sleek layout ensures all important details are clearly presented, making it easy for your guests to know when and where the celebration will happen. Once you place your order, you'll receive a personalized proof image to review and approve before receiving the final digital file. This image file can be used as a printable invitation for you to print at home or as a digital e-vite, perfect for sending via email, text message, or social media. Offering an eco-friendly, paperless option, this invitation is both convenient and sustainable. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:21Z
+- [Red & White Snowflake Holiday Party Invitations](https://artisticallyinvited.com/products/winter-snowflake-red-gray-holiday-party-invitation): Red and white snowflake holiday party invitations with personalized wording for Christmas parties, office celebrations, and festive winter gatherings.
+  Updated: 2026-10-28T02:38:21Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterSnowflakeRedGrayHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945397
   Price: $21.95 USD
-- [Winter Snowflake Blue Gray Holiday Party Invitation | E-vite, Printed](https://artisticallyinvited.com/products/winter-snowflake-blue-gray-holiday-party-invitation): Introducing our Winter Snowflake Blue Gray Holiday Party Invitation, a beautifully designed digital invitation perfect for your winter celebrations. The top of the invite features a soft blue wintry background, adorned with delicate white snowflakes, capturing the essence of the season. Below this charming snowflake design, your personalized holiday party details are thoughtfully arranged in shades of blue and gray on a white background. This elegant combination creates a balanced and festive look, making this invitation ideal for both casual and formal holiday events. Whether you're hosting a cozy Christmas gathering with family, a fun holiday party with friends, or an elegant office celebration, this winter-themed invitation sets the tone for your event. Its subtle, frosty colors and timeless snowflake design will bring a touch of winter magic to your special occasion. Designed with versatility in mind, this invitation is suitable for a variety of holiday gatherings throughout the winter season. After you order, you will receive a personalized proof of your invite to review and approve before receiving the final digital file. This allows you to ensure that every detail is perfect for your celebration. Once , you can choose to print your invitation at home or at your local print shop, or use it as an e-vite for a convenient, eco-friendly option. Share your invite digitally via email, text, or social media, making it easy to spread holiday cheer without the need for paper. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:21Z
+- [Blue & White Snowflake Holiday Party Invitations](https://artisticallyinvited.com/products/winter-snowflake-blue-gray-holiday-party-invitation): Blue snowflake holiday party invitations with white snowflakes and personalized wording for Christmas parties, office events, and winter celebrations.
+  Updated: 2026-10-28T02:32:39Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterSnowflakeBlueGrayHolidayPartyInvitations-ArtisticallyInvited.jpg?v=1684945391
   Price: $21.95 USD
-- [Winter Mason Jar Pine Boughs Christmas Party Invitation](https://artisticallyinvited.com/products/winter-pine-boughs-mason-jar-christmas-party-invitation): Introducing our Winter Mason Jar Pine Boughs Christmas Party Invitation, designed to capture the warmth and charm of the holiday season with a rustic twist. This beautiful invite features an illustration of a classic glass mason jar, adorned with twine and festive jingle bells tied around the top. The bottom of the jar is framed with pine boughs and clusters of bright red cranberries, set against a dark wood background, evoking a cozy and inviting atmosphere. This holiday invitation is ideal for those seeking a rustic, country-inspired Christmas celebration. Your personalized Christmas party details are arranged elegantly in white over the mason jar design, ensuring that your guests receive all the important event information in a stylish and easy-to-read format. Whether you’re hosting a Christmas party for close friends, a family gathering, or a festive office celebration, this invitation is designed to set the perfect tone for your event. This Winter Mason Jar Pine Boughs Christmas Party Invitation is available as a digital download, making it easy and convenient for you to share. After placing your order, you will receive a personalized proof image of your invitation to review and approve before receiving the final image file. Once , you can choose to print the invitation at home or send it digitally as an e-vite through email, text, or social media—offering an eco-friendly, paperless option for your holiday festivities. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:21Z
+- [Rustic Mason Jar Christmas Party Invitations | Pine Boughs](https://artisticallyinvited.com/products/winter-pine-boughs-mason-jar-christmas-party-invitation): Printed rustic mason jar Christmas party invitations with jingle bells, snowy pine branches, and red berries on dark wood. Personalized for your party.
+  Updated: 2026-10-28T02:22:49Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/WinterMasonJarPineBoughsChristmasPartyInvitations-ArtisticallyInvited.jpg?v=1684945376
   Price: $21.95 USD
-- [Rustic Deer Burlap Red Holiday Party Invitation | E-vite, Printed](https://artisticallyinvited.com/products/rustic-deer-burlap-red-holiday-party-invitation): Introducing our Rustic Deer Burlap Red Holiday Party Invitation, a charming and festive way to invite your guests to your upcoming holiday celebration. This digital invitation features a beautiful rustic design, perfect for those who appreciate a cozy, natural aesthetic. At the top of the invite, two red silhouette deer stand beside a present, adding a festive touch to the design. The deer and present contain a denim-style pattern overlay, and they're placed on a brown wood floor design, giving the invite a warm and welcoming feel that’s ideal for the holiday season. The main body of the invitation showcases your personalized holiday party details, thoughtfully arranged in red and brown text. These details are printed over a beige burlap background illustration, which ties together the rustic, farmhouse charm. The combination of textures in the design, from the wood and denim patterns to the burlap background, creates a visually appealing invite that stands out from more traditional holiday party invitations. This Rustic Deer Burlap Red Holiday Party Invitation is perfect for a wide range of festive gatherings, from intimate Christmas get-togethers with family and friends to larger holiday office parties. The unique and rustic design brings a sense of warmth and nostalgia, making it the perfect choice for anyone who loves a down-to-earth holiday theme. Whether you’re hosting a casual holiday dinner or an upscale winter celebration, this invitation will set the tone for your event. This invitation is available as a printable and digital e-vite option, giving you the flexibility to either print at home or send your invites electronically as an eco-friendly, paperless option. After you place your order, you’ll receive a personalized proof image of your invitation to review and approve before receiving the final digital file. You can then use this image file to print at home or share it via email, text message, or social media with your guests. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:20Z
+- [Rustic Deer Holiday Party Invitations | Red & Burlap](https://artisticallyinvited.com/products/rustic-deer-burlap-red-holiday-party-invitation): Printed rustic deer holiday party invitations featuring a red buck and doe, wrapped Christmas gift, and burlap-style design for personalized celebrations.
+  Updated: 2026-10-28T02:12:50Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
@@ -1204,8 +1204,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/BurgundyRedPinkRoseFamilyReunionInvitations-ArtisticallyInvited.jpg?v=1684940749
   Price: $21.95 USD
-- [Burgundy Red Pink Rose Thank You Cards](https://artisticallyinvited.com/products/burgundy-red-pink-rose-thank-you-cards): Floral thank you cards with burgundy-red and pink roses. Great for weddings, bridal showers, birthdays, engagement parties, and heartfelt notes.
-  Updated: 2026-10-22T17:39:38Z
+- [Burgundy & Pink Rose Thank You Cards | Floral Notes](https://artisticallyinvited.com/products/burgundy-red-pink-rose-thank-you-cards): Burgundy and pink rose thank you cards with watercolor florals and blank interiors. For weddings, bridal showers, birthdays, and funeral thank you notes.
+  Updated: 2026-10-30T01:06:57Z
   Vendor: Artistically Invited
   Product Type: Cards
   Availability: Available
@@ -1407,8 +1407,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/CountrySunflowerOverWoodRusticSavetheDateCards-ArtisticallyInvited.jpg?v=1684597973
   Price: $17.95 USD
-- [Sand Snowman Christmas in July Invitations | Evite, Printable, Printed](https://artisticallyinvited.com/products/sand-snowman-christmas-in-july-invitation): Introducing the Sand Snowman Christmas in July Invitation, perfect for celebrating the holidays with a summer twist! This unique invitation features a charming illustration of a snowman made entirely of sand, complete with a festive Santa hat, standing on the beach with the ocean as the backdrop. The playful beach scene is framed in an elegant oval design, bringing a whimsical and fun vibe to your Christmas in July celebration. To the right of the sand snowman, your personalized party details are beautifully arranged in festive red and black fonts over a white background. This Sand Snowman Christmas in July Invitation is ideal for any holiday gathering, whether you're hosting a casual summer party, a corporate event, or even a community-wide celebration. The beach-inspired snowman adds a lighthearted touch to your event, making it perfect for those who live in warmer climates or simply want to enjoy the spirit of Christmas during the summer months. When you order, you'll receive a personalized proof image of your invitation to review and approve before the final file is sent. This ensures your details are correct and everything looks perfect for your special event. Once , you’ll receive a high-quality digital image file that can be used in two convenient ways: print it yourself at home or send it as an eco-friendly digital e-vite via email, text message, or social media. This flexibility makes it easy to share your invitation with guests while also reducing waste, making it a great choice for environmentally-conscious hosts. This Sand Snowman Christmas in July Invitation is designed to make your summer holiday celebration feel festive and fun while offering the ease of digital invitations. Simply personalize, approve, and share—it’s that easy! Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:12Z
+- [Christmas in July Party Invitations | Beach Sand Snowman](https://artisticallyinvited.com/products/sand-snowman-christmas-in-july-invitation): Printed Christmas in July party invitations featuring a sand snowman in a Santa hat on the beach, personalized for summer parties and holiday barbecues.
+  Updated: 2026-10-28T01:19:23Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
@@ -1680,8 +1680,8 @@ All designs are created in-house and personalized by the shop owner using each c
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0367/5137/files/RusticSailboatNauticalReceptionOnlyInvitations-ArtisticallyInvited.jpg?v=1685042768
   Price: $21.95 USD
-- [Modern Red White Blue Snowflake Holiday Party Invitation](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-holiday-party-invitation): Introducing the Modern Red White Blue Snowflake Holiday Party Invitation – a stylish and festive way to invite guests to your holiday celebration. The design on this digital invite features a vibrant royal red background, adorned with intricate white and blue snowflakes that immediately evoke the magic of winter. At the center of the invitation, your personalized holiday party details are beautifully arranged in blue and red within a bold white circle, creating a visually striking contrast against the red background. This invitation is perfect for office holiday parties, family gatherings, or any winter event that calls for a festive and modern design. The rich red, white, and blue color scheme is both elegant and versatile, capturing the joyful spirit of the holiday season. Whether you're hosting a formal event or a casual get-together, this invite will set the tone for a memorable celebration. After you place your order, you’ll receive a personalized proof image of your digital invite to review and approve. Once , the final image file will be sent to you, ready for use as a printable to print at home or as a convenient e-vite to send via email, text message, or social media. This eco-friendly, paperless option is ideal for anyone looking to reduce waste while still creating a beautiful and professional holiday invitation. Product Features: Digital Invitation. Size: 5" x 7". High-resolution: 300 dpi (RGB) JPG image file. Uses: E-vite or Printable Invitation. Upgrade: Professionally printed invitations available. Need professionally printed invitations? Simply upgrade to add printed invitations and select the quantity you need.
-  Updated: 2026-10-10T21:26:02Z
+- [Red White & Blue Snowflake Holiday Party Invitations](https://artisticallyinvited.com/products/modern-red-white-blue-snowflake-holiday-party-invitation): Printed holiday party invitations with red, white, and blue snowflakes on a festive red background, personalized for Christmas and winter celebrations.
+  Updated: 2026-10-28T01:04:23Z
   Vendor: Artistically Invited
   Product Type: Christmas Invitations
   Availability: Available
@@ -1776,8 +1776,8 @@ All designs are created in-house and personalized by the shop owner using each c
 ## Collections
 
 - [Bridal Shower Invitations](https://artisticallyinvited.com/collections/bridal-shower-invitations): Explore bridal shower invitations featuring florals, sunflowers, coastal artwork, rustic details, and seasonal styles for celebrating the bride-to-be.
-  Updated: 2026-10-21T12:33:10Z
-  Total Products: 143
+  Updated: 2026-10-30T13:06:36Z
+  Total Products: 144
 - [Save the Date Cards](https://artisticallyinvited.com/collections/save-the-date): Shop wedding save the date cards with floral, rustic, coastal, and seasonal artwork. Personalized printed cards help guests plan for your wedding day.
   Updated: 2026-10-20T19:11:00Z
   Total Products: 42
@@ -1785,31 +1785,31 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-10-22T00:20:08Z
   Total Products: 96
 - [Birthday Invitations](https://artisticallyinvited.com/collections/birthday-invitations): Shop birthday invitations for children, teens, and adults, featuring playful animals, florals, sports, and seasonal artwork for milestone celebrations.
-  Updated: 2026-10-22T16:21:10Z
+  Updated: 2026-10-30T15:29:41Z
   Total Products: 76
 - [Wedding Invitations](https://artisticallyinvited.com/collections/wedding-invitations): Explore wedding invitations with floral, rustic, coastal, vineyard, and seasonal artwork. Choose a design and personalize the wording for your ceremony.
-  Updated: 2026-10-20T22:02:31Z
+  Updated: 2026-10-30T12:14:19Z
   Total Products: 97
 - [Thank You Cards](https://artisticallyinvited.com/collections/thank-you-cards): Shop folded thank you cards and note cards with floral, rustic, and seasonal artwork. Blank inside for handwritten notes, with white envelopes included.
-  Updated: 2026-10-10T19:18:21Z
+  Updated: 2026-10-30T11:00:14Z
   Total Products: 132
 - [Family Reunion Invitations](https://artisticallyinvited.com/collections/family-reunion-invitations): Shop family reunion invitations featuring sunflowers, gingham, coastal scenery, rustic wood, and seasonal artwork for family picnics and gatherings.
   Updated: 2026-10-10T17:53:51Z
   Total Products: 20
 - [Christmas Invitations](https://artisticallyinvited.com/collections/christmas-invitations): Shop Christmas party invitations with snowflakes, poinsettias, winter deer, rustic wood, and holiday lights for family dinners and festive gatherings.
-  Updated: 2026-10-21T00:14:43Z
-  Total Products: 20
+  Updated: 2026-10-27T14:44:44Z
+  Total Products: 21
 - [Invitations, Cards, and Stationery](https://artisticallyinvited.com/collections/all): Explore our complete collection of printed invitations, greeting cards, recipe cards, personalized stationery, journals, address labels, and more.
-  Updated: 2026-10-22T21:31:07Z
-  Total Products: 1137
+  Updated: 2026-10-30T15:29:41Z
+  Total Products: 1139
 - [Reception Only Invitations](https://artisticallyinvited.com/collections/reception-only-invitations): Shop reception only invitations for celebrations after elopements, private ceremonies, or destination weddings, with coastal, rustic, and floral artwork.
-  Updated: 2026-10-22T12:33:30Z
+  Updated: 2026-10-29T18:06:35Z
   Total Products: 82
 - [Couples Shower Invitations](https://artisticallyinvited.com/collections/couples-shower-invitations): Browse couples shower invitations for coed wedding showers, backyard BBQs, and beach gatherings, with rustic, floral, and seasonal illustrated designs.
-  Updated: 2026-10-20T16:54:10Z
+  Updated: 2026-10-28T13:41:29Z
   Total Products: 32
 - [Housewarming Invitations](https://artisticallyinvited.com/collections/housewarming-invitations): Shop housewarming party invitations featuring rustic florals, autumn leaves, winter snowflakes, and classic patterns to welcome guests to your new home.
-  Updated: 2026-10-10T17:53:50Z
+  Updated: 2026-10-24T13:55:25Z
   Total Products: 8
 - [Christmas Cards](https://artisticallyinvited.com/collections/christmas-cards): Shop folded Christmas cards with snowflakes, gnomes, deer, and seasonal artwork. Printed greetings inside, white envelopes included, starting at 20 cards.
   Updated: 2026-10-10T19:00:54Z
@@ -1818,11 +1818,11 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-10-22T21:31:07Z
   Total Products: 4
 - [Best  Products](https://artisticallyinvited.com/collections/best--products)
-  Updated: 2026-10-22T21:31:07Z
-  Total Products: 1137
+  Updated: 2026-10-30T15:29:41Z
+  Total Products: 1139
 - [Newest Products](https://artisticallyinvited.com/collections/newest-products)
-  Updated: 2026-10-22T21:31:07Z
-  Total Products: 1137
+  Updated: 2026-10-30T15:29:41Z
+  Total Products: 1139
 - [Enclosure Cards](https://artisticallyinvited.com/collections/enclosure-cards): Enclosure cards to match your invitations. We offer enclosure cards that are designed to complement your invitations. Simply select these cards in the size you need and we'll customize them with the same style and design as your invitations. Our enclosure cards are perfect for your accommodations, reception information, and meal choices for your occasion, so you can be sure you're getting exactly what you need. When you order any of our custom enclosure cards, we'll give you a complimentary proofing process with our Designer. This means we'll email you a proof image for your review and approval before we print your order. With this collaborative approach, we can ensure that your enclosure cards are exactly the way you want them. Go back to the home page.
   Updated: 2026-06-01T22:50:50Z
   Total Products: 2
@@ -1842,41 +1842,41 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-10-10T17:53:50Z
   Total Products: 10
 - [Honeymoon Shower Invitations](https://artisticallyinvited.com/collections/honeymoon-shower-invitations): Shop honeymoon shower invitations with beach, tropical flower, seashell, and sunset artwork. Add personalized wording for a honeymoon fund celebration.
-  Updated: 2026-10-20T16:54:10Z
+  Updated: 2026-10-28T13:41:29Z
   Total Products: 6
 - [Vow Renewal Invitations](https://artisticallyinvited.com/collections/vow-renewal-invitations): Shop vow renewal invitations with floral, rustic, coastal, woodland, and seasonal designs for anniversaries, intimate ceremonies, and family celebrations.
-  Updated: 2026-10-20T13:05:01Z
+  Updated: 2026-10-25T16:28:58Z
   Total Products: 15
 - [Retirement Invitations](https://artisticallyinvited.com/collections/retirement-invitations): Shop retirement party invitations featuring floral, rustic, coastal, vineyard, and seasonal artwork for dinners and celebrations with loved ones.
   Updated: 2026-10-22T20:45:55Z
   Total Products: 13
 - [Best Seller (internal use)](https://artisticallyinvited.com/collections/best-seller-internal-use)
-  Updated: 2026-10-22T21:31:07Z
-  Total Products: 1137
+  Updated: 2026-10-30T15:29:41Z
+  Total Products: 1139
 - [Beach Bridal Shower Invitations](https://artisticallyinvited.com/collections/beach-bridal-shower-invitations): Shop beach bridal shower invitations with seashells, starfish, tropical florals, and coastal scenery. Personalize the wording for your beach celebration.
-  Updated: 2026-10-20T16:27:06Z
+  Updated: 2026-10-30T12:44:47Z
   Total Products: 21
 - [Beach Wedding Invitations](https://artisticallyinvited.com/collections/beach-wedding-invitations): Shop beach wedding invitations with seashells, starfish, tropical lilies, and nautical artwork. Printed invitations for coastal and destination weddings.
-  Updated: 2026-10-20T14:59:01Z
+  Updated: 2026-10-30T12:14:19Z
   Total Products: 17
 - [Sunflower Bridal Shower Invitations](https://artisticallyinvited.com/collections/sunflower-bridal-shower-invitations): Shop sunflower bridal shower invitations featuring yellow blooms, mason jars, denim, rustic wood, and illustrated burlap and lace for country showers.
   Updated: 2026-10-18T14:09:49Z
   Total Products: 12
 - [Daisy Bridal Shower Invitations](https://artisticallyinvited.com/collections/daisy-bridal-shower-invitations): Shop daisy bridal shower invitations featuring white, pink, and purple florals with rustic wood, country denim, gingham, burlap, and lace illustrations.
-  Updated: 2026-10-20T13:40:21Z
+  Updated: 2026-10-30T13:04:09Z
   Total Products: 15
 - [Sunflower Wedding Invitations](https://artisticallyinvited.com/collections/sunflower-wedding-invitations): Explore sunflower wedding invitations with golden blooms, mason jars, rustic wood, denim, and printed lace details for country, garden, and barn weddings.
-  Updated: 2026-10-10T17:53:49Z
+  Updated: 2026-10-28T14:19:24Z
   Total Products: 11
 - [Fall Wedding Invitations](https://artisticallyinvited.com/collections/fall-wedding-invitations): Shop fall wedding invitations with colorful autumn leaves, sunflowers, vineyards, harvest artwork, and florals for country and seasonal weddings.
-  Updated: 2026-10-10T17:53:51Z
+  Updated: 2026-10-29T15:11:16Z
   Total Products: 25
 - [Summer Wedding Invitations](https://artisticallyinvited.com/collections/summer-wedding-invitations): Shop summer wedding invitations with tropical lilies, sunflowers, daisies, seashells, vineyard scenery, and country-inspired designs for summer weddings.
-  Updated: 2026-10-20T14:59:01Z
+  Updated: 2026-10-30T12:14:19Z
   Total Products: 63
 - [Summer Bridal Shower Invitations](https://artisticallyinvited.com/collections/summer-bridal-shower-invitations): Explore summer bridal shower invitations featuring sunflowers, daisies, tropical lilies, seashells, rustic patterns, and coastal art for summer showers.
-  Updated: 2026-10-20T16:27:06Z
-  Total Products: 90
+  Updated: 2026-10-30T13:06:36Z
+  Total Products: 91
 - [Fall Bridal Shower Invitations](https://artisticallyinvited.com/collections/fall-bridal-shower-invitations): Explore fall bridal shower invitations featuring sunflowers, autumn foliage, mason jars, burgundy florals, and rustic country artwork for fall gatherings.
   Updated: 2026-10-18T18:35:51Z
   Total Products: 30
@@ -1887,16 +1887,16 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-10-20T22:02:31Z
   Total Products: 29
 - [Floral Bridal Shower Invitations](https://artisticallyinvited.com/collections/floral-bridal-shower-invitations): Explore floral bridal shower invitations with roses, daisies, sunflowers, magnolias, peonies, and garden-inspired artwork for celebrating the bride-to-be.
-  Updated: 2026-10-20T13:40:21Z
+  Updated: 2026-10-30T13:04:09Z
   Total Products: 56
 - [Floral Wedding Invitations](https://artisticallyinvited.com/collections/floral-wedding-invitations): Shop floral wedding invitations featuring sunflowers, daisies, lilies, country bouquets, and coastal florals for garden, rustic, and seaside ceremonies.
-  Updated: 2026-10-10T17:53:51Z
+  Updated: 2026-10-30T12:14:19Z
   Total Products: 43
 - [School Planners](https://artisticallyinvited.com/collections/school-planners): Shop personalized school planners with weekly lesson plans for teachers and assignment trackers for students. Hardcover books with names on the covers.
   Updated: 2026-10-10T19:13:39Z
   Total Products: 12
 - [Blue Wedding Invitations](https://artisticallyinvited.com/collections/blue-wedding-invitations): Shop blue wedding invitations featuring navy, turquoise, coastal scenes, rustic denim, florals, and winter artwork for ceremonies throughout the year.
-  Updated: 2026-10-20T22:02:31Z
+  Updated: 2026-10-25T16:45:13Z
   Total Products: 35
 - [Green Wedding Invitations](https://artisticallyinvited.com/collections/green-wedding-invitations): Explore green wedding invitations with succulents, woodland deer, sunflowers, florals, vineyard artwork, and seasonal scenes in varied shades of green.
   Updated: 2026-10-11T15:12:23Z
@@ -1905,7 +1905,7 @@ All designs are created in-house and personalized by the shop owner using each c
   Updated: 2026-10-10T17:53:50Z
   Total Products: 18
 - [Pink Wedding Invitations](https://artisticallyinvited.com/collections/pink-wedding-invitations): Shop pink wedding invitations in blush, rose, and bright pink with florals, coastal artwork, gingham, and seasonal illustrations for your ceremony.
-  Updated: 2026-10-10T17:53:50Z
+  Updated: 2026-10-30T12:14:19Z
   Total Products: 15
 - [Boy Baby Shower Invitations](https://artisticallyinvited.com/collections/boy-baby-shower-invitations): Shop baby boy shower invitations featuring woodland animals, elephants, sailboats, rustic patterns, and seasonal themes in a variety of colors.
   Updated: 2026-10-19T19:26:54Z
@@ -1982,7 +1982,7 @@ All designs are created in-house and personalized by the shop owner using each c
 ## Policies
 
 - [Privacy Policy](https://artisticallyinvited.com/policies/privacy-policy)
-  Updated: 2024-10-08T13:55:54Z
+  Updated: 2026-10-29T17:25:03Z
 - [Shipping Policy](https://artisticallyinvited.com/policies/shipping-policy)
   Updated: 2024-10-19T17:06:09Z
 - [Refund Policy](https://artisticallyinvited.com/policies/refund-policy)
