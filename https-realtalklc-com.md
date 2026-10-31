@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2026-02-24T14:46:32Z
 - Contact Email: info@realtalklc.com
-- Updated At: 2026-10-23T00:52:53.641Z
+- Updated At: 2026-10-31T00:20:00.362Z
 
 ## Products
 
@@ -2847,10 +2847,10 @@
   Updated: 2026-08-27T22:57:18Z
   Total Products: 11
 - [Funny Baby Shower Gifts Under €45](https://realtalklc.com/collections/funny-parenting-gifts-under-45): Hilarious parenting & baby shower gifts under €45 — witty tees, hoodies & mugs new parents will love. Free shipping across Europe.
-  Updated: 2026-09-07T14:01:48Z
+  Updated: 2026-10-27T11:45:06Z
   Total Products: 34
 - [Courses](https://realtalklc.com/collections/courses)
-  Updated: 2026-09-07T14:01:48Z
+  Updated: 2026-10-27T11:45:06Z
   Total Products: 1
 
 ## Store Pages
