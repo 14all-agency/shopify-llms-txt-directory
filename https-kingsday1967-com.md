@@ -8,7 +8,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2022-04-02T11:58:25Z
 - Contact Email: order@kingsday1967.com
-- Updated At: 2026-10-23T00:58:23.966Z
+- Updated At: 2026-10-31T00:28:25.817Z
 
 Kingsday 1967 is het premium Koningsdag kledingmerk van Nederland, opgericht in 2022. Wij ontwerpen exclusieve, eigen oranje streetwear voor Koningsdag (27 april) en voor het Nederlands elftal: T-shirts, hoodies, sweaters, longsleeves, bucket hats en accessoires. Geen standaard oranje feestkleding, maar unieke designs zoals Prins Pils, Prestige, Lion en Nassau.
 Goed om te weten:
@@ -2553,7 +2553,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/Kingsday_Original_1967_Longsleeve_Back_v2.png?v=1775051039
     Price: € 42,95 EUR
 - [Prins Pils Longsleeve | Kingsday 1967](https://kingsday1967.com/products/prins-pils-longsleeve): Prins Pils Longsleeve voor Koningsdag - het iconische design in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m², dikke stof. Gratis verzending.
-  Updated: 2026-10-22T18:10:53Z
+  Updated: 2026-10-30T18:29:14Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2619,7 +2619,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/dbc05e4f0ba44f4f6ab5533ba45cd407f0d59b26.png?v=1775908477
     Price: € 42,95 EUR
 - [Prestige Longsleeve - Vintage Streetwear | Kingsday 1967](https://kingsday1967.com/products/prestige-longsleeve): Prestige Longsleeve kopen voor Koningsdag? Premium vintage streetwear in zwart en wit met oranje opdruk. 100% biologisch katoen, 180 g/m². Gratis verzending.
-  Updated: 2026-10-22T18:10:53Z
+  Updated: 2026-10-30T18:29:14Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2665,7 +2665,7 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Image: https://cdn.shopify.com/s/files/1/0557/7038/2417/files/94c0982dbfd6c9595ed837cc1fb8fdfe74e25ebc.png?v=1775314063
     Price: € 42,95 EUR
 - [Anti Royal Royal Club Koningsdag Longsleeve | Kingsday 1967](https://kingsday1967.com/products/anti-royal-royal-club-longsleeve): Anti Royal Royal Club Longsleeve voor Koningsdag. Oranje, wit of zwart, 190 g/m² katoen, maten S t/m 2XL. Premium stof. Gratis verzending via PostNL.
-  Updated: 2026-10-22T18:10:53Z
+  Updated: 2026-10-30T18:29:14Z
   Vendor: Kingsday 1967
   Product Type: Longsleeve
   Availability: Available
@@ -2807,6 +2807,11 @@ Maatadvies: shirts vallen een halve maat kleiner uit. Bij twijfel een maat grote
     Updated: 2026-10-10T18:21:54Z
     Author: Bart Natics
     Tags: festivals, koningsdag festivals 2027, koningsdag kleding
+- [Nieuws](https://kingsday1967.com/blogs/nieuws)
+  - [Koningsdag in cijfers: 40 feiten over het grootste feest van het jaar](https://kingsday1967.com/blogs/nieuws/koningsdag-in-cijfers): <p>Hoeveel mensen vieren Koningsdag, hoe druk is Amsterdam en hoeveel afval blijft er liggen? De grootste Koningsdag-cijfers op een rij, met bron.</p>
+    Updated: 2026-10-29T20:10:51Z
+    Author: Bart Natics
+    Tags: koningsdag feiten, koningsdag in cijfers 2027, koningsdag kleding
 
 ## Store Pages
 
