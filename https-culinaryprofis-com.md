@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2024-01-30T09:21:20Z
 - Contact Email: info@culinaryprofis.com
-- Updated At: 2026-10-23T01:17:58.350Z
+- Updated At: 2026-10-31T00:37:47.718Z
 
 ## Products
 
@@ -963,7 +963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/essential-red_6a8bdd36-6c87-47b5-aa2d-5b344850a60f.png?v=1790814325
   Price: $749.95 USD
 - [Stand Mixer for Bread Dough - Black Chrome](https://culinaryprofis.com/products/ankarsrum-mixer-8): Prepare everything from artisan bread to cake batter with a Black Chrome stand mixer designed for powerful mixing and everyday kitchen versatility.
-  Updated: 2026-10-18T10:26:17Z
+  Updated: 2026-10-27T15:38:17Z
   Vendor: Ankarsrum
   Product Type: Stand Mixer
   Availability: Available
@@ -984,7 +984,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/essential-jubilee-silver_7c178124-0cf3-4605-ab93-c00c5c94e087.png?v=1790816140
   Price: $749.95 USD
 - [Premium Stand Mixer - Glossy White Style](https://culinaryprofis.com/products/ankarsrum-mixer-5): Upgrade your kitchen with a Glossy White stand mixer built for bread baking, pastry preparation, and versatile everyday food mixing with ease.
-  Updated: 2026-10-18T10:26:17Z
+  Updated: 2026-10-25T06:58:28Z
   Vendor: Ankarsrum
   Product Type: Stand Mixer
   Availability: Available
@@ -1082,7 +1082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/ankarsrum-bowl-with-cover-4996915.jpg?v=1774199769
   Price: $179.95 USD
 - [Ice Cream Maker Attachment - Homemade Frozen Treats](https://culinaryprofis.com/products/ankarsrum-ice-cream-maker): Make creamy homemade ice cream, frozen yogurt, and sorbet with an easy-to-use mixer attachment that delivers delicious frozen desserts at home.
-  Updated: 2026-09-13T03:46:02Z
+  Updated: 2026-10-27T15:38:25Z
   Vendor: Ankarsrum
   Product Type: Mixer Attachment
   Availability: Available
@@ -1614,292 +1614,312 @@
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/BakeMax-BMPME20-Floor-Model-3-Speed-20Qt.-Planetary-Mixer.webp?v=1783789621
   Price: $2,515.00 USD
 - [Sunmix EVO10 Spiral Mixer | 13 Qt Touchscreen Dough Mixer](https://culinaryprofis.com/products/sunmix-evo10-13qt-spiral-mixer): Sunmix EVO10 Italian spiral dough mixer, 22 lb capacity, touchscreen, infrared temp sensor, LED bowl. In stock in the USA, ships from Miami. 3 colors.
-  Updated: 2026-10-22T05:04:31Z
+  Updated: 2026-10-28T04:58:08Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo10-rosso-rubino.jpg?v=1787690742
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-evo10-13qt-spiral-mixer?variant=51616011485490)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo10-rosso-rubino.jpg?v=1787690742
     Price: $3,390.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-evo10-13qt-spiral-mixer?variant=51616152355122)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo10-nero-profondo.jpg?v=1787690742
     Price: $3,390.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-evo10-13qt-spiral-mixer?variant=51616152387890)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo10-bianco-puro.jpg?v=1787690741
     Price: $3,390.00 USD
 - [Sunmix EASY10 Spiral Mixer | 13 Qt Countertop Dough Mixer](https://culinaryprofis.com/products/sunmix-easy10-13qt-spiral-mixer): Italian-made Sunmix EASY10 spiral dough mixer, 22 lb dough capacity, variable 50–300 RPM, reverse rotation. In stock in the USA, ships from Miami. 3 colors.
-  Updated: 2026-10-22T10:06:56Z
+  Updated: 2026-10-28T04:58:10Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy10-rosso-rubino.jpg?v=1787690742
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-easy10-13qt-spiral-mixer?variant=51616014860594)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy10-bianco-puro.jpg?v=1787690742
     Price: $3,090.00 USD
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-easy10-13qt-spiral-mixer?variant=51616151994674)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy10-rosso-rubino.jpg?v=1787690742
     Price: $3,090.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-easy10-13qt-spiral-mixer?variant=51616152027442)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy10-nero-profondo.jpg?v=1787690742
     Price: $3,090.00 USD
 - [Sunmix EVO6 Spiral Mixer | 8.5 Qt Touchscreen Dough Mixer](https://culinaryprofis.com/products/sunmix-evo6-8-5qt-spiral-mixer): Sunmix EVO6 Italian spiral dough mixer, 13 lb capacity, touchscreen, infrared temp sensor, LED bowl. In stock in 3 colors, ships from Miami, FL.
-  Updated: 2026-10-22T10:02:34Z
+  Updated: 2026-10-28T16:48:03Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo6-rosso-rubino.jpg?v=1787690742
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-evo6-8-5qt-spiral-mixer?variant=51616021840178)
     Availability: Available
-    Price: $2,880.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo6-rosso-rubino.jpg?v=1787690742
+    Price: $3,080.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-evo6-8-5qt-spiral-mixer?variant=51616152256818)
     Availability: Available
-    Price: $2,880.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo6-nero-profondo.jpg?v=1787690742
+    Price: $3,080.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-evo6-8-5qt-spiral-mixer?variant=51616152289586)
     Availability: Available
-    Price: $2,880.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo6-bianco-puro.jpg?v=1787690742
+    Price: $3,080.00 USD
 - [Sunmix EASY6 Spiral Mixer | 8.5 Qt Countertop Dough Mixer](https://culinaryprofis.com/products/sunmix-easy6-8-5qt-spiral-mixer): Italian-made Sunmix EASY6 spiral dough mixer, 13 lb dough capacity, variable 50–300 RPM, reverse rotation. In stock in the USA, ships from Miami. 3 colors.
-  Updated: 2026-10-22T10:04:49Z
+  Updated: 2026-10-28T04:58:13Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy6-rosso-rubino.jpg?v=1787690742
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-easy6-8-5qt-spiral-mixer?variant=51616023150898)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy6-nero-profondo.jpg?v=1787690742
     Price: $2,480.00 USD
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-easy6-8-5qt-spiral-mixer?variant=51616152125746)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy6-rosso-rubino.jpg?v=1787690742
     Price: $2,480.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-easy6-8-5qt-spiral-mixer?variant=51616152158514)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy6-bianco-puro.jpg?v=1787690742
     Price: $2,480.00 USD
 - [Sunmix EASY15 Spiral Mixer | 19 Qt, 33 lb Dough, US Stock](https://culinaryprofis.com/products/sunmix-easy15-19qt-spiral-mixer): Italian Sunmix EASY15 spiral mixer. 33 lb dough, 19 qt bowl, 9 amps on a standard outlet. In stock in Florida, ships free this week. 3 colors.
-  Updated: 2026-10-22T10:09:05Z
+  Updated: 2026-10-30T19:18:18Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy15-rosso-rubino.jpg?v=1787690742
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-easy15-19qt-spiral-mixer?variant=51616249610546)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy15-rosso-rubino.jpg?v=1787690742
     Price: $3,390.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-easy15-19qt-spiral-mixer?variant=51616249643314)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy15-bianco-puro.jpg?v=1787690742
     Price: $3,390.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-easy15-19qt-spiral-mixer?variant=51616572440882)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy15-nero-profondo.jpg?v=1787690742
     Price: $3,390.00 USD
 - [Sunmix EVO15 Spiral Mixer | 19 Qt Touchscreen Dough Mixer](https://culinaryprofis.com/products/sunmix-evo15-19qt-spiral-mixer): Sunmix EVO15 Italian spiral dough mixer, 33 lb capacity, touchscreen with 20-recipe memory, infrared temp sensor, LED bowl. In stock in 3 colors, ships from Miami, FL.
-  Updated: 2026-10-22T05:07:25Z
+  Updated: 2026-10-30T19:18:16Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo15-nero-profondo.jpg?v=1787690742
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-evo15-19qt-spiral-mixer?variant=51616572604722)
     Availability: Not Available
-    Price: $3,690.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo15-nero-profondo.jpg?v=1787690742
+    Price: $3,850.00 USD
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-evo15-19qt-spiral-mixer?variant=51616250036530)
     Availability: Available
-    Price: $3,690.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo15-rosso-rubino.jpg?v=1787690742
+    Price: $3,850.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-evo15-19qt-spiral-mixer?variant=51616250069298)
     Availability: Available
-    Price: $3,690.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo15-bianco-puro.jpg?v=1787690742
+    Price: $3,850.00 USD
 - [Sunmix EASY20 Spiral Mixer | 26 Qt Dough Mixer, 220V](https://culinaryprofis.com/products/sunmix-easy20-26qt-spiral-mixer): Italian-made Sunmix EASY20 spiral dough mixer, 44 lb dough capacity, 1,100 W, variable 50–300 RPM, 220 V. In stock in the USA, ships from Miami. 3 colors.
-  Updated: 2026-10-22T05:29:42Z
+  Updated: 2026-10-29T05:06:56Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy20-rosso-rubino.jpg?v=1787690777
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-easy20-26qt-spiral-mixer?variant=51616250396978)
     Availability: Available
-    Price: $3,790.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy20-rosso-rubino.jpg?v=1787690777
+    Price: $3,990.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-easy20-26qt-spiral-mixer?variant=51616250429746)
-    Availability: Available
-    Price: $3,790.00 USD
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy20-bianco-puro.jpg?v=1787690777
+    Price: $3,990.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-easy20-26qt-spiral-mixer?variant=51616572735794)
     Availability: Not Available
-    Price: $3,790.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-easy20-nero-profondo.jpg?v=1787690777
+    Price: $3,990.00 USD
 - [Sunmix EVO20 Spiral Mixer | 26 Qt Touchscreen Dough Mixer, 220V](https://culinaryprofis.com/products/sunmix-evo20-26qt-spiral-mixer): Sunmix EVO20 Italian spiral dough mixer, 44 lb capacity, touchscreen with 20-recipe memory, infrared temp sensor, 220 V. In stock in the USA, ships from Miami.
-  Updated: 2026-10-19T23:13:58Z
+  Updated: 2026-10-29T05:06:56Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo20-rosso-rubino.png?v=1787690777
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-evo20-26qt-spiral-mixer?variant=51616250659122)
-    Availability: Available
-    Price: $4,290.00 USD
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo20-rosso-rubino.png?v=1787690777
+    Price: $4,590.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-evo20-26qt-spiral-mixer?variant=51616250691890)
     Availability: Available
-    Price: $4,290.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo20-bianco-puro.jpg?v=1787690777
+    Price: $4,590.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-evo20-26qt-spiral-mixer?variant=51616572965170)
     Availability: Available
-    Price: $4,290.00 USD
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-evo20-nero-profondo.jpg?v=1787690777
+    Price: $4,590.00 USD
 - [Sunmix MOON 300 Dough Rounder](https://culinaryprofis.com/products/sunmix-moon-300-dough-rounder): Sunmix MOON 300 automatic dough rounder. Dough balls from 1 oz (30 g) to 12 oz (350 g), four speeds, 120 V. Roughly 900 to 1,200 balls per hour. Made in Italy.
-  Updated: 2026-10-21T23:33:18Z
+  Updated: 2026-10-28T04:58:18Z
   Vendor: Sunmix
   Product Type: Dough Rounders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon300-rosso-rubino.jpg?v=1787690777
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-moon-300-dough-rounder?variant=51616594657586)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon300-rosso-rubino.jpg?v=1787690777
     Price: $4,880.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-moon-300-dough-rounder?variant=51616594690354)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon300-nero-profondo.jpg?v=1787690777
     Price: $4,880.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-moon-300-dough-rounder?variant=51616594723122)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon300-bianco-puro.jpg?v=1787690777
     Price: $4,880.00 USD
 - [Sunmix MOON 1000 Dough Rounder](https://culinaryprofis.com/products/sunmix-moon-1000-dough-rounder): Sunmix MOON 1000 automatic dough rounder. Dough balls from 1 oz (30 g) to 30 oz (850 g), pizza to bread loaves, four speeds, 120 V. Roughly 900 to 1,200 balls per hour. Made in Italy.
-  Updated: 2026-10-21T23:31:08Z
+  Updated: 2026-10-28T04:58:18Z
   Vendor: Sunmix
   Product Type: Dough Rounders
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon1000-rosso-rubino.jpg?v=1787690777
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-moon-1000-dough-rounder?variant=51616595050802)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon1000-rosso-rubino.jpg?v=1787690777
     Price: $5,880.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-moon-1000-dough-rounder?variant=51616595083570)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon-30-1000g-dough-rounderballer-434435_3d9e75f6-3678-482e-b7b9-12d071940e52.jpg?v=1793136615
     Price: $5,880.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-moon-1000-dough-rounder?variant=51616595116338)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-moon1000-bianco-puro.jpg?v=1787690777
     Price: $5,880.00 USD
 - [Sunmix NOVA 22 Dough Divider | 22 Pieces Per Cycle](https://culinaryprofis.com/products/sunmix-nova-22-dough-divider): Sunmix NOVA 22 Italian dough divider. 22 equal pieces per stroke, 1.7–10.5 oz each. Pairs with MOON rounders. In stock in the USA, ships from Miami, FL.
-  Updated: 2026-10-22T09:57:07Z
+  Updated: 2026-10-28T04:58:25Z
   Vendor: Sunmix
   Product Type: Dough Dividers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-rosso-rubino.jpg?v=1787690778
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-nova-22-dough-divider?variant=51616595476786)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-rosso-rubino.jpg?v=1787690778
     Price: $6,890.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-nova-22-dough-divider?variant=51616595509554)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-nero-profondo.jpg?v=1787690777
     Price: $6,890.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-nova-22-dough-divider?variant=51616595542322)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-bianco-puro.jpg?v=1787690778
     Price: $6,890.00 USD
 - [Sunmix NOVA 15 Dough Divider | 15 Pieces Per Cycle](https://culinaryprofis.com/products/sunmix-nova-15-dough-divider): Sunmix NOVA 15 Italian dough divider. 15 equal larger pieces per stroke. Pairs with MOON rounders for a full dough line. In stock, ships from Miami, FL.
-  Updated: 2026-10-22T09:50:29Z
+  Updated: 2026-10-28T04:58:24Z
   Vendor: Sunmix
   Product Type: Dough Dividers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-rosso-rubino_2c507739-ac38-4d1f-974f-9707fc51d8cb.jpg?v=1787690777
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-nova-15-dough-divider?variant=51616595640626)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-rosso-rubino_2c507739-ac38-4d1f-974f-9707fc51d8cb.jpg?v=1787690777
     Price: $6,890.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-nova-15-dough-divider?variant=51616595673394)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-nero-profondo_22c01f40-5eca-4c4e-81a2-f641cd3f577c.jpg?v=1787690778
     Price: $6,890.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-nova-15-dough-divider?variant=51616595706162)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-nova-bianco-puro_50055092-adfc-4636-8039-cff2950a9272.jpg?v=1787690777
     Price: $6,890.00 USD
-- [Sunmix SUN40 Top Line | 58 Qt Commercial Spiral Mixer](https://culinaryprofis.com/products/sunmix-sun40-top-line-60qt-spiral-mixer): Sunmix SUN40 Top Line Italian floor spiral mixer, 88 lb dough capacity, 58 Qt bowl, 220 V single phase. In stock in the USA, ships from Miami, FL.
-  Updated: 2026-10-22T10:04:35Z
-  Vendor: Sunmix
-  Product Type: Spiral Dough Mixers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-rosso-rubino.png?v=1787252206
-  - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-sun40-top-line-60qt-spiral-mixer?variant=51616597573938)
-    Availability: Available
-    Price: $6,790.00 USD
-  - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-sun40-top-line-60qt-spiral-mixer?variant=51616597606706)
-    Availability: Not Available
-    Price: $6,790.00 USD
-  - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-sun40-top-line-60qt-spiral-mixer?variant=51616597639474)
-    Availability: Not Available
-    Price: $6,790.00 USD
 - [Sunmix SUN50 Top Line | 70 Qt Commercial Spiral Mixer](https://culinaryprofis.com/products/sunmix-sun50-top-line-70qt-spiral-mixer): Sunmix SUN50 Top Line Italian floor spiral mixer, 110 lb dough capacity, 70 Qt bowl, 220 V single phase. US best-seller. In stock, ships from Miami, FL.
-  Updated: 2026-10-22T10:10:38Z
+  Updated: 2026-10-30T20:59:36Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-rosso-rubino_cf6d47ab-9ad0-4894-b0fa-27a81696d2a2.png?v=1787252212
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-sun50-top-line-70qt-spiral-mixer?variant=51616600949042)
-    Availability: Available
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-rosso-rubino_cf6d47ab-9ad0-4894-b0fa-27a81696d2a2.png?v=1787252212
     Price: $7,690.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-sun50-top-line-70qt-spiral-mixer?variant=51616600981810)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-nero-profondo_6b76a1fb-bb43-4861-b5be-c343a94ce33d.png?v=1787690810
     Price: $7,690.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-sun50-top-line-70qt-spiral-mixer?variant=51616601014578)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-bianco-puro_53c7dfde-6d1b-4061-a25f-b4925dfef59b.png?v=1787252212
     Price: $7,690.00 USD
 - [Sunmix SUN60 Top Line | 85 Qt Commercial Spiral Mixer](https://culinaryprofis.com/products/sunmix-sun60-top-line-85qt-spiral-mixer): Sunmix SUN60 Top Line Italian floor spiral mixer, 132 lb dough capacity, 85 Qt bowl, 208–220 V single phase. In stock in the USA, ships from Miami, FL.
-  Updated: 2026-10-22T10:15:31Z
+  Updated: 2026-10-28T04:58:24Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-rosso-rubino_5b173b3c-195a-47e1-aedd-10154683e100.png?v=1787252217
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-sun60-top-line-85qt-spiral-mixer?variant=51616601669938)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-rosso-rubino_5b173b3c-195a-47e1-aedd-10154683e100.png?v=1787252217
     Price: $8,890.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-sun60-top-line-85qt-spiral-mixer?variant=51616601702706)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-nero-profondo_f8c150ae-4172-4630-8f6b-120320bedf84.png?v=1787690809
     Price: $8,890.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-sun60-top-line-85qt-spiral-mixer?variant=51616601735474)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-topline-bianco-puro_57de107e-21a3-4393-98af-9f9705c4cedb.png?v=1787252217
     Price: $8,890.00 USD
-- [Sunmix SMART40 (58qt) Digital Spiral Mixer](https://culinaryprofis.com/products/sunmix-smart40-60qt-digital-spiral-mixer): Sunmix SMART40 Italian digital floor spiral mixer. 88 lbs (40 kg) of dough, 58 qt bowl, variable 50 to 300 RPM, touchscreen control, 220 V single phase. Made in Italy.
-  Updated: 2026-10-22T08:07:54Z
-  Vendor: Sunmix
-  Product Type: Spiral Dough Mixers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart40-rosso-rubino.jpg?v=1787690810
-  - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-smart40-60qt-digital-spiral-mixer?variant=51616602784050)
-    Availability: Not Available
-    Price: $7,890.00 USD
-  - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-smart40-60qt-digital-spiral-mixer?variant=51616602816818)
-    Availability: Available
-    Price: $7,890.00 USD
-  - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-smart40-60qt-digital-spiral-mixer?variant=51616602849586)
-    Availability: Not Available
-    Price: $7,890.00 USD
 - [Sunmix SMART50 (70qt) Digital Spiral Mixer](https://culinaryprofis.com/products/sunmix-smart50-70qt-digital-spiral-mixer): Sunmix SMART50 Italian digital floor spiral mixer. 110 lbs (50 kg) of dough, 70 qt bowl, variable 50 to 300 RPM, touchscreen control, 220 V single phase. Made in Italy.
-  Updated: 2026-10-22T03:29:56Z
+  Updated: 2026-10-28T03:59:38Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart50-rosso-rubino.jpg?v=1787690810
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-smart50-70qt-digital-spiral-mixer?variant=51616604160306)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart50-rosso-rubino.jpg?v=1787690810
     Price: $8,890.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-smart50-70qt-digital-spiral-mixer?variant=51616604193074)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart50-nero-profondo.jpg?v=1787690810
     Price: $8,890.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-smart50-70qt-digital-spiral-mixer?variant=51616604225842)
     Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart50-bianco-puro.jpg?v=1787690810
     Price: $8,890.00 USD
 - [Sunmix SMART60 (85qt) Digital Spiral Mixer](https://culinaryprofis.com/products/sunmix-smart60-85qt-digital-spiral-mixer): Sunmix SMART60 Italian digital floor spiral mixer. 132 lbs (60 kg) of dough, 85 qt bowl, variable 50 to 300 RPM, touchscreen control, 220 V single phase. Made in Italy.
-  Updated: 2026-10-22T08:35:44Z
+  Updated: 2026-10-28T04:58:32Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart60-rosso-rubino.jpg?v=1787690810
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-smart60-85qt-digital-spiral-mixer?variant=51619247980850)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart60-rosso-rubino.jpg?v=1787690810
     Price: $9,890.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-smart60-85qt-digital-spiral-mixer?variant=51619248013618)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart60-nero-profondo.jpg?v=1787690810
     Price: $9,890.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-smart60-85qt-digital-spiral-mixer?variant=51619248046386)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-smart60-bianco-puro.jpg?v=1787690810
     Price: $9,890.00 USD
 - [Sunmix QUEEN 60-2 (85qt) Industrial Spiral Mixer](https://culinaryprofis.com/products/sunmix-queen-60-2-ul-85qt-spiral-mixer): Sunmix QUEEN 60-2 UL industrial spiral mixer. 132 lbs of dough, 85 qt bowl, twin motors, touchscreen control. Made in Italy.
-  Updated: 2026-10-22T09:15:20Z
+  Updated: 2026-10-28T04:58:31Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-queen60-ruby-red.png?v=1788160448
   - [Ruby Red (Rosso Rubino)](https://culinaryprofis.com/products/sunmix-queen-60-2-ul-85qt-spiral-mixer?variant=51682385002802)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-queen60-ruby-red.png?v=1788160448
     Price: $13,690.00 USD
   - [Deep Black (Nero Profondo)](https://culinaryprofis.com/products/sunmix-queen-60-2-ul-85qt-spiral-mixer?variant=51682385756466)
     Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0858/7300/0754/files/sunmix-queen60ul-nero_29e65f69-f6d0-46ff-bea5-94daba8018d7.jpg?v=1788159651
     Price: $13,690.00 USD
   - [Pure White (Bianco Puro)](https://culinaryprofis.com/products/sunmix-queen-60-2-ul-85qt-spiral-mixer?variant=51682385789234)
     Availability: Available
     Price: $13,690.00 USD
 - [Sunmix QUEEN 80-2 (138qt) Industrial Spiral Mixer](https://culinaryprofis.com/products/sunmix-queen-80-2-138qt-spiral-mixer): Sunmix QUEEN 80-2 industrial spiral mixer. 176 lbs (80 kg) of dough, 138 qt bowl, twin motors, touchscreen control, rated from 50% hydration. Made in Italy.
-  Updated: 2026-10-22T09:21:16Z
+  Updated: 2026-10-28T04:58:32Z
   Vendor: Sunmix
   Product Type: Spiral Dough Mixers
   Availability: Available
@@ -1935,31 +1955,31 @@
   Updated: 2026-09-29T15:16:39Z
   Total Products: 80
 - [Ankarsrum](https://culinaryprofis.com/collections/ankarsrum-original-stand-mixers-accessories): Shop stand mixer attachments and accessories including pasta tools, mixers, bowls, and food prep essentials designed to expand your kitchen capabilities.
-  Updated: 2026-10-04T11:17:53Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 52
 - [Chef Favorites](https://culinaryprofis.com/collections/chef-favorites): Shop our curated Chef Favorites collection — top-rated commercial kitchen equipment trusted by culinary professionals. Free US shipping, no sales tax.
   Updated: 2026-08-26T07:22:19Z
   Total Products: 13
 - [PMax - Google Shopping New](https://culinaryprofis.com/collections/pmax-google-shopping): Fully optimized kitchen equipment from top brands. Shop Ankarsrum, FETCO, Whynter and Angel Juicers at CulinaryProfis.
-  Updated: 2026-10-01T00:58:31Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 118
 - [BakeMax](https://culinaryprofis.com/collections/bakemax): Shop BakeMax commercial kitchen equipment at CulinaryProfis. 160+ models including mixers, ovens, ranges, and more with lifetime OEM parts support.
   Updated: 2026-08-29T20:39:39Z
   Total Products: 112
 - [Best Sellers](https://culinaryprofis.com/collections/best-sellers): Discover our most loved products, chosen by customers who know quality. From powerful juicers and premium kitchen machines to efficient cooling and refrigeration solutions, these are the items our customers keep coming back to. Each product in this collection has earned its place through outstanding performance, reliability, and real customer reviews.
-  Updated: 2026-10-01T00:58:29Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 24
 - [Google Shopping Selected Products](https://culinaryprofis.com/collections/google-shopping-selected-products)
-  Updated: 2026-10-04T11:17:53Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 784
 - [Stand Mixers](https://culinaryprofis.com/collections/stand-mixers): Shop the Ankarsrum Original stand mixer in 15 colours. Swedish-built since 1940, 600W motor, 7-litre bowl, 7-year warranty. Authorized retailer.
-  Updated: 2026-10-01T00:58:31Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 29
 - [Planetary Mixers](https://culinaryprofis.com/collections/planetary-mixers): Commercial planetary mixers from Axis, BakeMax, Primo and Omcan. Countertop 7-quart through 120-quart floor models, with sizing guidance.
   Updated: 2026-09-15T11:08:44Z
   Total Products: 26
 - [Spiral Dough Mixers](https://culinaryprofis.com/collections/spiral-dough-mixers): Spiral dough mixers from Sirman, Primo, Omcan and BakeMax. Built for bread and pizza dough, with guidance on choosing the right batch capacity.
-  Updated: 2026-10-21T17:29:37Z
+  Updated: 2026-10-29T15:05:19Z
   Total Products: 43
 - [Meat Mixers & Grinders](https://culinaryprofis.com/collections/meat-mixers-grinders): Butcher-grade meat grinders and mixers from Pro-Cut and Sirman. Countertop to 7.5 HP mixer-grinders, with guidance on sizing and cleaning.
   Updated: 2026-09-29T15:16:34Z
@@ -1968,10 +1988,10 @@
   Updated: 2026-08-26T07:22:20Z
   Total Products: 6
 - [Dough Processing Equipment](https://culinaryprofis.com/collections/dough-processing-equipment): Commercial dough processing equipment from BakeMax, Omcan, Sirman, Axis and Ampto. Sheeters, dividers, rounders, presses and moulders explained.
-  Updated: 2026-10-19T07:33:04Z
-  Total Products: 47
+  Updated: 2026-10-27T21:27:53Z
+  Total Products: 48
 - [Mixer Attachments & Accessories](https://culinaryprofis.com/collections/mixer-attachments-accessories): Genuine Ankarsrum attachments — pasta rollers and cutters, grain mill, mincer, vegetable cutter, ice cream maker, beaters and bowls.
-  Updated: 2026-10-04T11:17:53Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 24
 - [Ceado](https://culinaryprofis.com/collections/ceado): Ceado has built bar and juice equipment in Italy since 1952 — commercial drink mixers, blenders and juicers engineered for the pace of real service. Bars, juice programs and cafes choose Ceado for quiet motors, precise speed control and construction that shrugs off all-day use. If your menu leans on shakes, smoothies or fresh juice, this is the machine behind the counter.
   Updated: 2026-08-26T07:22:20Z
@@ -1980,10 +2000,10 @@
   Updated: 2026-08-26T07:22:20Z
   Total Products: 10
 - [-eligible (MIX5 — excludes Ankarsrum)](https://culinaryprofis.com/collections/-eligible-mix5-excludes-ankarsrum): Utility collection powering the MIX5  scope. Automatically contains every product whose vendor is not Ankarsrum (MAP-restricted). Do not delete while MIX5 references it.
-  Updated: 2026-10-21T17:29:37Z
-  Total Products: 3940
+  Updated: 2026-10-29T15:05:19Z
+  Total Products: 3941
 - [Sunmix Spiral Mixers & Dough Equipment](https://culinaryprofis.com/collections/sunmix): The full Sunmix range of Italian spiral mixers, dough rounders and dividers. Authorized US dealer, machines in stock in Miami for fast delivery.
-  Updated: 2026-10-21T17:29:37Z
+  Updated: 2026-10-29T15:05:19Z
   Total Products: 24
 - [Meat Slicers](https://culinaryprofis.com/collections/meat-slicers): Commercial meat, cheese and bread slicers from the Italian makers we trust — Sirman, Omcan and Pro-Cut. From compact countertop slicers for delis and pizzerias to heavy-duty flywheel machines.
   Updated: 2026-09-29T15:16:38Z
@@ -1992,8 +2012,8 @@
   Updated: 2026-09-29T15:16:35Z
   Total Products: 15
 - [Dough Rounders & Dividers](https://culinaryprofis.com/collections/dough-rounders-dividers): Automatic and manual dough dividers and rounders — from the compact Sunmix MOON and NOVA to high-volume BakeMax and Omcan machines. Consistent dough balls without the hand work.
-  Updated: 2026-10-19T07:33:04Z
-  Total Products: 28
+  Updated: 2026-10-27T21:27:53Z
+  Total Products: 29
 - [Dough Sheeters & Presses](https://culinaryprofis.com/collections/dough-sheeters-presses): Dough sheeters and pizza dough presses for bakeries and pizzerias.
   Updated: 2026-08-29T17:36:04Z
   Total Products: 18
@@ -2010,10 +2030,10 @@
   Updated: 2026-08-29T17:36:05Z
   Total Products: 30
 - [Sunmix EASY Line Spiral Mixers](https://culinaryprofis.com/collections/sunmix-easy-line): All four Sunmix EASY countertop spiral mixers — EASY6, EASY10, EASY15 and EASY20. Italian-built, 50–300 RPM, reverse rotation. In US stock in Miami.
-  Updated: 2026-10-21T17:29:37Z
+  Updated: 2026-10-29T11:13:42Z
   Total Products: 4
 - [Sunmix EVO Line Digital Spiral Mixers](https://culinaryprofis.com/collections/sunmix-evo-line): Sunmix EVO6, EVO10, EVO15 and EVO20 countertop spiral mixers with touchscreen, 20-recipe memory and infrared dough temperature sensor. Made in Italy.
-  Updated: 2026-10-21T17:07:19Z
+  Updated: 2026-10-29T15:05:19Z
   Total Products: 4
 - [Sunmix Floor Spiral Mixers](https://culinaryprofis.com/collections/sunmix-floor-mixers): Sunmix floor spiral mixers for busy pizzerias — Top Line SUN40/50/60 and digital SMART40/50/60. 84 to 132 lbs of dough on single-phase 220V. Italian-built.
   Updated: 2026-10-13T19:30:05Z
@@ -2031,16 +2051,16 @@
   Updated: 2026-10-13T19:30:35Z
   Total Products: 3
 - [Google Feed - Mixers, Slicers and Dough Equipment](https://culinaryprofis.com/collections/google-shopping-mixers): Feed source for Google Shopping via Simprosys. Contains every ACTIVE product in the store: mixers, slicers, meat grinders, dough sheeters, dividers, rounders and moulders, plus attachments. Do not curate this by hand. If a product should not be advertised, set it to Draft in Shopify and it drops out of the feed on the next sync.
-  Updated: 2026-10-21T17:29:37Z
-  Total Products: 3260
+  Updated: 2026-10-29T15:05:19Z
+  Total Products: 3261
 - [ZZ DO NOT USE - abandoned feed test](https://culinaryprofis.com/collections/google-feed-all-active): Do not point any product feed at this collection. It was created in error on 10 Sep 2026 and matches every product in the store including drafts and archived items. Safe to delete.
   Updated: 2026-09-10T20:44:02Z
   Total Products: 0
 - [Ankarsrum accessories (10% with Essential Package)](https://culinaryprofis.com/collections/ankarsrum-accessories-essential-10): Internal: accessories eligible for the Build Your Assistent 10%  when bought together with an Ankarsrum Essential Package.
-  Updated: 2026-10-04T11:17:53Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 23
 - [Cakes, Cookies & Ice Cream](https://culinaryprofis.com/collections/ankarsrum-cakes-cookies-ice-cream): Accessories for desserts, pastries with chilled butter, and frozen treats.
-  Updated: 2026-10-04T11:17:53Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 5
 - [Pasta](https://culinaryprofis.com/collections/ankarsrum-pasta): Create fresh, homemade pasta with the Italian-made roller and cutters.
   Updated: 2026-09-30T18:36:41Z
@@ -2058,7 +2078,7 @@
   Updated: 2026-09-30T18:36:07Z
   Total Products: 2
 - [Ankarsrum Essential Package (machines)](https://culinaryprofis.com/collections/ankarsrum-essential-package-machines): Internal collection. Holds the 14 Ankarsrum Assistent Original Essential Package colours. Used as the trigger for the 10% accessory offer.
-  Updated: 2026-10-01T02:26:31Z
+  Updated: 2026-10-28T11:13:31Z
   Total Products: 27
 
 ## Blogs
@@ -2206,15 +2226,15 @@
   Updated: 2026-08-17T14:55:55Z
 - [About CulinaryProfis](https://culinaryprofis.com/pages/about): CulinaryProfis is a mixer specialist. Not a general restaurant-supply catalog that happens to stock mixers — a business that sells one category and...
   Updated: 2026-08-30T08:20:27Z
-- [Sunmix Spiral Mixers: Italian Dough Machines, US Stock](https://culinaryprofis.com/pages/sunmix-spiral-mixers-guide): SUNMIX: ITALIAN SPIRAL MIXERS, NOW IN THE USA New Generation Machines • Made in Italy • In Stock in Miami, FL Real Spiral Mixing, From Countertop t...
-  Updated: 2026-09-08T17:48:32Z
+- [Sunmix Spiral Mixers: Italian Dough Machines, US Stock](https://culinaryprofis.com/pages/sunmix-spiral-mixers-guide): Discover Sunmix Spiral Mixers Made in Italy • US parts support • Availability varies by model Real Spiral Mixing, From Countertop to Factory Sunmix...
+  Updated: 2026-10-27T19:52:12Z
 - [Downloads](https://culinaryprofis.com/pages/downloads): Official Sunmix instruction manuals and spare parts diagrams for the models we carry.Instruction Manuals Easy Line Evo Line Top Line Classic Line S...
   Updated: 2026-09-01T11:09:04Z
 
 ## Policies
 
 - [Privacy Policy](https://culinaryprofis.com/policies/privacy-policy)
-  Updated: 2025-08-21T11:18:42Z
+  Updated: 2026-10-30T07:19:31Z
 - [Shipping Policy](https://culinaryprofis.com/policies/shipping-policy)
   Updated: 2026-02-01T09:55:23Z
 - [Refund Policy](https://culinaryprofis.com/policies/refund-policy)
