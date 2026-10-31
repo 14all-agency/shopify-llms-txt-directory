@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-10-08T13:44:36Z
 - Contact Email: runwithfreedom1@gmail.com
-- Updated At: 2026-10-23T01:19:20.731Z
+- Updated At: 2026-10-31T00:48:14.263Z
 
 ## Products
 
 - [Challenger Running Hydration Vest + 500ml Flask | Run With Freedom®](https://runwithfreedom.com/products/challenger-running-vest): Running Vest with Water Bottle – Lightweight, Breathable Designed Reflective Hydration Vest with Pockets. 2-year guarantee. Perfect for UK marathon training.
-  Updated: 2026-10-21T14:51:06Z
+  Updated: 2026-10-30T08:38:06Z
   Vendor: Run With Freedom
   Product Type: Running Vest
   Availability: Available
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Run_With_Freedom_Digital_Gift_Card_60_e59d67e1-3c02-4c0c-b6d7-fcfd62e0a9c7.png?v=1789039511
     Price: £60.00 GBP
 - [Enertor Running Insoles | Shock Absorbing PX1 | Run With Freedom](https://runwithfreedom.com/products/running-insoles): Protect your joints and boost energy return with Enertor Running Insoles. Powered by PX1 technology to absorb impact and reduce injury risk. Shop now!
-  Updated: 2026-10-23T00:13:55Z
+  Updated: 2026-10-30T23:38:05Z
   Vendor: ENERTOR®
   Product Type: Insoles
   Availability: Available
@@ -75,7 +75,7 @@
     Availability: Available
     Price: £37.99 GBP
 - [Lollypop Socks](https://runwithfreedom.com/products/lollypop-socks): Lollypop Socks I mean ... who doesn't like a lollypop? What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-28T01:44:34Z
   Vendor: HEXXEE
   Product Type: Lollypop Socks
   Availability: Available
@@ -93,7 +93,7 @@
     Availability: Available
     Price: £13.99 GBP
 - ['Avocuddle' Socks](https://runwithfreedom.com/products/avocuddle-socks): Avocado Socks Bring it in people... lets avocuddle! For those out there that love their Avocados :) What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 25% Cotton and 5% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:04Z
+  Updated: 2026-10-28T01:44:34Z
   Vendor: HEXXEE
   Product Type: Avocado Socks
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Popping Candy Socks](https://runwithfreedom.com/products/popping-candy-socks): Popping Candy Socks Popping candy socks! Who doesn't like some candy! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-25T05:23:20Z
   Vendor: HEXXEE
   Product Type: Popping Candy Socks
   Availability: Available
@@ -129,7 +129,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Retro Gamer Socks](https://runwithfreedom.com/products/retro-gamer-socks): Retro Gaming Socks Do you like retro games? Well, these retro gaming socks are the socks for you. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:35Z
   Vendor: HEXXEE
   Product Type: Retro Gaming Socks
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Unicorn Tie Dyes](https://runwithfreedom.com/products/unicorn-tie-dyes): Unicorn Tie Dyes A pastel pink tie dye base with unicorns, ice cream and cupcakes. One for the girls! :) What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-11T22:34:51Z
+  Updated: 2026-10-28T01:44:35Z
   Vendor: HEXXEE
   Product Type: Unicorn Tie Dyes
   Availability: Available
@@ -165,7 +165,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Pineapple Icon Socks](https://runwithfreedom.com/products/pineapple-icon-socks): Pineapple Icon Socks Pineapples. Bright. Eye-catching... and who just doesn't love pineapple? What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Tried and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-12T11:34:27Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: Pineapple Icon Socks
   Availability: Available
@@ -183,7 +183,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Watermelons](https://runwithfreedom.com/products/watermelons): Watermelons Love watermelon? Well, we've got some socks for you. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-27T15:57:21Z
   Vendor: HEXXEE
   Product Type: Watermelon Socks
   Availability: Available
@@ -201,7 +201,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Tri Pattern Socks](https://runwithfreedom.com/products/tri-pattern-socks): Tri Pattern Socks These geometric designed Tri Pattern Socks can be a bold addition to your collection. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:09Z
+  Updated: 2026-10-30T22:32:15Z
   Vendor: HEXXEE
   Product Type: Tri Pattern Socks
   Availability: Available
@@ -287,7 +287,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/VioletTri-882382.jpg?v=1789039792
     Price: £13.99 GBP
 - [Smiley Socks](https://runwithfreedom.com/products/smiley-socks): Smiley Socks Smile People :) We've taken a classic smiley face...melted and dripped them across the socks to create a subtle but light-hearted design to put a smile on your face AND your socks. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:06Z
+  Updated: 2026-10-28T01:44:35Z
   Vendor: HEXXEE
   Product Type: Smiley Socks
   Availability: Available
@@ -373,7 +373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/MeltedSmlleyPurple-145893.jpg?v=1789039865
     Price: £13.99 GBP
 - [Girl Power](https://runwithfreedom.com/products/girl-power): Girl Power Who Run The World?! Girls. Multiple colourways are now available! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-19T09:20:18Z
+  Updated: 2026-10-30T08:30:42Z
   Vendor: HEXXEE
   Product Type: Girl Power Socks
   Availability: Available
@@ -507,7 +507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye2stripe-472195.png?v=1787775649
     Price: £13.99 GBP
 - [Tropical Vibes Socks](https://runwithfreedom.com/products/tropical-vibes-socks): Tropical Vibes Socks A Tropical print combining a geometric print and palm trees in a fresh colour combo. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-28T01:44:40Z
   Vendor: HEXXEE
   Product Type: Tropical Vibes Socks
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Haze](https://runwithfreedom.com/products/haze): Haze We love playing with textures and have some funky haze colours for you all. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-30T22:32:15Z
   Vendor: HEXXEE
   Product Type:  Socks
   Availability: Available
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GreyHaze-244852.jpg?v=1789040012
     Price: £13.99 GBP
 - ['Send It' Socks](https://runwithfreedom.com/products/send-it-socks): Send It Socks We gave them an update with some wild pop art and FRESH WHITE SEND IT socks! Check out the matching headband! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-21T18:32:21Z
+  Updated: 2026-10-30T08:30:35Z
   Vendor: HEXXEE
   Product Type: Send It Socks
   Availability: Available
@@ -777,7 +777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_7473069e-f4bb-42f1-a47c-da54d047f0b5-969763.jpg?v=1789040064
     Price: £13.99 GBP
 - [Tie Dye 2.0 Socks](https://runwithfreedom.com/products/tie-dye-2-0-socks): Tie Dye 2.0 Socks Tie Dyes couldn't be more 'in' this summer, so we've taken our most popular design and given you guys a load more colour variations to go with whatever summer vibe you're feeling! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-30T08:30:42Z
   Vendor: HEXXEE
   Product Type: Tie Dye 2.0 Socks
   Availability: Available
@@ -895,7 +895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Red_8c01e801-a88b-4ea6-ba76-5f32f62d1575-925601.jpg?v=1789040127
     Price: £13.99 GBP
 - [Graffiti Socks](https://runwithfreedom.com/products/graffiti-socks): Graffiti Socks Who else sees street art in cities around the world and thinks 'THATS SICK'? Well, we've taken that concept and tried to create an incredibly striking sock. Some FRESH colourways and definitely a way to make that sock game of yours even stronger! Fancy a headband? Check out our matching one here What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-22T20:10:14Z
+  Updated: 2026-10-30T08:30:35Z
   Vendor: HEXXEE
   Product Type: Graffiti Socks
   Availability: Available
@@ -965,7 +965,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BlackandGrey-197806.jpg?v=1789040202
     Price: £13.99 GBP
 - [Pug Life](https://runwithfreedom.com/products/pug-life): Pug Life Pugs & doughnuts, could it get any better? What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:06Z
+  Updated: 2026-10-28T01:44:37Z
   Vendor: HEXXEE
   Product Type: Pug Life Socks
   Availability: Available
@@ -983,7 +983,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Tribal](https://runwithfreedom.com/products/tribal): Tribal Feel like a true warrior with these Tribal socks. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:38Z
   Vendor: HEXXEE
   Product Type: Tribal
   Availability: Available
@@ -1037,7 +1037,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow_Blue-140192.png?v=1787775651
     Price: £13.99 GBP
 - [Surfing Unicorns](https://runwithfreedom.com/products/surfing-unicorns): Surfing Unicorns Socks Another design for those unicorn lovers. This time cutting waves! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:38Z
   Vendor: HEXXEE
   Product Type: Surfing Unicorns Socks
   Availability: Available
@@ -1055,7 +1055,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Stars and Stripes](https://runwithfreedom.com/products/stars-and-stripes): Stars and Stripes Neon stars and stripes to take you back to that 90s feeling. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-15T20:31:01Z
+  Updated: 2026-10-28T01:44:38Z
   Vendor: HEXXEE
   Product Type: Stars and Stripes
   Availability: Available
@@ -1073,7 +1073,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Banana Bananza](https://runwithfreedom.com/products/banana-bananza): Banana Bananza Love Bananas? Go Banana crazy with these Banana Bananza socks. Easy to wear pink tie-dye base for all your tie-dye lovers out there. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-10T14:35:31Z
+  Updated: 2026-10-27T15:58:14Z
   Vendor: HEXXEE
   Product Type: Banana Bananza
   Availability: Available
@@ -1091,7 +1091,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Beach Day Socks](https://runwithfreedom.com/products/beach-day-socks): Beach Day Socks A beach print sock with ALLLLL the essentials- to remind you of those happy days spent at the beach. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-10T21:25:10Z
+  Updated: 2026-10-28T01:44:38Z
   Vendor: HEXXEE
   Product Type: Beach Day Socks
   Availability: Available
@@ -1109,7 +1109,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Twinkle Stars](https://runwithfreedom.com/products/twinkle-stars): Twinkle Stars Another one of our subtle designs based on a white pair of socks with a super cute star design of varying sizes running throughout. Treat a pair to whoever's your little star! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: Twinkle Stars
   Availability: Available
@@ -1127,7 +1127,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Skulls](https://runwithfreedom.com/products/skulls): Skulls A simple black skull pattern. Adding a nice edge to your outfit :) What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hand drying HEXXEE socks.
-  Updated: 2026-10-10T07:00:56Z
+  Updated: 2026-10-28T01:44:38Z
   Vendor: HEXXEE
   Product Type: Skulls
   Availability: Available
@@ -1145,7 +1145,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Maze Socks](https://runwithfreedom.com/products/maze-socks): Maze Socks Follow the path with these fun and eye-catching maze socks! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:05Z
+  Updated: 2026-10-27T15:58:29Z
   Vendor: HEXXEE
   Product Type: Maze Socks
   Availability: Available
@@ -1163,7 +1163,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Valley of Men](https://runwithfreedom.com/products/valley-of-men): Valley of Men Deep white skulls on a grey tie-dye base. A subtle yet eye-catching design. Check out the matching headband! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hand drying HEXXEE socks.
-  Updated: 2026-10-06T10:24:14Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: Valley of Men
   Availability: Available
@@ -1181,7 +1181,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Mini Fizzer](https://runwithfreedom.com/products/mini-fizzer): Mini Fizzer Following on from a favourite design, our funky vibrant style embodied in these super comfy socks. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-21T14:19:11Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: Mini Fizzer
   Availability: Available
@@ -1251,7 +1251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow_795aa16e-ef9a-47ed-9c5c-1a1ff8f3538d-773156.jpg?v=1789040389
     Price: £13.99 GBP
 - [Kitty Cat Socks](https://runwithfreedom.com/products/kitty-cat-socks): Kitty Cat Socks For those that are cat lovers. Here's a Lil reminder you can wear to work of your furry Lil friend waiting for you at home :) What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-18T12:29:52Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: Kitty Cat Socks
   Availability: Available
@@ -1269,7 +1269,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Native Pattern](https://runwithfreedom.com/products/native-pattern): Native Pattern A vibrant native pattern to add a bit of colour to your style! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-15T14:14:24Z
+  Updated: 2026-10-30T08:30:37Z
   Vendor: HEXXEE
   Product Type: Native Pattern
   Availability: Available
@@ -1355,7 +1355,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_467f54ad-2bf5-408f-95ce-b68aa8eb1bed-505899.jpg?v=1789040457
     Price: £13.99 GBP
 - [High Voltage](https://runwithfreedom.com/products/high-voltage): High Voltage Crank up that sock game of yours with these High Voltage socks. An eye-catching design now in black on grey or blue. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:39Z
   Vendor: HEXXEE
   Product Type: High Voltage
   Availability: Available
@@ -1393,7 +1393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Skulls-801728.jpg?v=1789040484
     Price: £13.99 GBP
 - [Leopard Print](https://runwithfreedom.com/products/leopard-print): Leopard Print A pattern for those who really like to catch the eye. We've adapted and tweaked the print to make it our own and added some FUNKY colourways to go with it. - You can now buy a matching headband in our original leopard print here. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-20T14:16:28Z
+  Updated: 2026-10-30T08:30:35Z
   Vendor: HEXXEE
   Product Type: Leopard Print Socks
   Availability: Available
@@ -1575,7 +1575,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/LeopardwithWhiteBackground-308918.jpg?v=1789040593
     Price: £13.99 GBP
 - [Lollipop Hearts](https://runwithfreedom.com/products/lollipop-hearts): Lollipop Hearts A 2.0 version of our lollipop socks which were turned out to be very popular. Now you have some with heart-shaped top :) What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-28T01:44:41Z
   Vendor: HEXXEE
   Product Type: Lollipop Hearts
   Availability: Available
@@ -1593,7 +1593,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Pizza Glitch](https://runwithfreedom.com/products/pizza-glitch): Pizza Glitch A traditional pizza slice but given a Lil HEXXEE twist! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:09Z
+  Updated: 2026-10-28T01:44:40Z
   Vendor: HEXXEE
   Product Type: Pizza Glitch
   Availability: Available
@@ -1611,7 +1611,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Fresh Prince](https://runwithfreedom.com/products/fresh-prince): Fresh Prince Born and raised in these funky socks. Check out the matching headband! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-20T09:03:31Z
+  Updated: 2026-10-28T01:44:41Z
   Vendor: HEXXEE
   Product Type: Fresh Prince
   Availability: Available
@@ -1629,7 +1629,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Candy Floss Camo](https://runwithfreedom.com/products/candy-floss-camo): Candy Floss Camo A pair of Candy Floss camo socks. Spruce up your workout wardrobe with these unique camouflage socks. These are definitely an eye-catcher for those that like their colour combo's! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-30T08:30:36Z
   Vendor: HEXXEE
   Product Type: Baby Blue/Pink Camo Socks
   Availability: Available
@@ -1647,7 +1647,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Cheat Day Socks](https://runwithfreedom.com/products/cheat-day-socks): Cheat Day Socks For those that love to enjoy their days off training spent eating allllll the good stuff. Theres burgers and pizzas- What's not to love?! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-15T20:31:01Z
+  Updated: 2026-10-28T01:44:40Z
   Vendor: HEXXEE
   Product Type: Cheat Day Socks
   Availability: Available
@@ -1665,7 +1665,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Marble Socks](https://runwithfreedom.com/products/marble-socks): Marble Socks These marble socks are one you simply cannot leave out. Possibly one of our coolest designs yet... full of colour and will definitely ensure you have the best socks out of all your friends! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-22T11:40:02Z
+  Updated: 2026-10-30T22:32:15Z
   Vendor: HEXXEE
   Product Type: Marble Socks
   Availability: Available
@@ -1831,7 +1831,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/MarbleRed-623867.jpg?v=1789040786
     Price: £13.99 GBP
 - [Pizza Planets](https://runwithfreedom.com/products/pizza-planets): Pizza Planets If pizza is your world, then these ones are for you! We even have the matching headband to completely kill it in your workout. Check them out here. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:06Z
+  Updated: 2026-10-28T01:44:41Z
   Vendor: HEXXEE
   Product Type: Pizza Planets
   Availability: Available
@@ -1849,7 +1849,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Peanut Butter Lover](https://runwithfreedom.com/products/peanut-butter-lover): Peanut Butter Lover For all those that LOVEEEEE Peanut Butter. If you're one that eats it out the tub, or on toast... we've covered both bases! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-16T13:26:58Z
+  Updated: 2026-10-28T01:44:41Z
   Vendor: HEXXEE
   Product Type: Peanut Butter Lover
   Availability: Available
@@ -1867,7 +1867,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Panda Socks](https://runwithfreedom.com/products/panda-socks): Panda Socks That Monday Panda Face. Panda's on a light colour ferny base. CUUUUTE! Fancy a matching headband? We got you covered. Panda headbands available!! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-17T18:19:22Z
+  Updated: 2026-10-30T08:30:39Z
   Vendor: HEXXEE
   Product Type: Panda Socks
   Availability: Available
@@ -2001,7 +2001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Blue_90e58f72-5493-4092-b262-710902e8cbf8-583796.png?v=1787775659
     Price: £13.99 GBP
 - [Turtle Socks](https://runwithfreedom.com/products/turtle-socks): Turtle Socks Gimme some Finn, Noggin'...DUUUUUUDE! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-07T10:26:07Z
+  Updated: 2026-10-28T01:44:42Z
   Vendor: HEXXEE
   Product Type: Turtle Socks
   Availability: Available
@@ -2039,7 +2039,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/b3414e9f-aa54-411c-8da9-9bc1b2ef039e-517849.jpg?v=1789040900
     Price: £13.99 GBP
 - [Graffiti Animation](https://runwithfreedom.com/products/graffiti-animation): Graffiti Animation Certainly one for those that like a bold and eyecatching design. We've taken inspo from street art, played with some colours and made it our own. These 3 designs are a must-have for both casually AND in the gym. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-19T19:24:12Z
+  Updated: 2026-10-25T10:00:31Z
   Vendor: HEXXEE
   Product Type: Graffiti Socks
   Availability: Available
@@ -2093,7 +2093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BlueGraffiti-132667.jpg?v=1789040928
     Price: £13.99 GBP
 - [Team Silverback Socks](https://runwithfreedom.com/products/team-silverback-socks): Team Silverback Socks We've teamed up with Zack George to create these one of a kind, unique and custom made socks. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:12Z
+  Updated: 2026-10-28T01:44:45Z
   Vendor: HEXXEE
   Product Type: Team Silverback Socks
   Availability: Available
@@ -2195,7 +2195,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/2F17CE58-330A-483E-B3E8-D1FF3466E5FA-117137.jpg?v=1789041005
     Price: £13.99 GBP
 - [Giraffe Socks](https://runwithfreedom.com/products/giraffe-socks): Giraffe Socks Our long-necked friends... now you can have them on your SOCKS! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-14T11:04:01Z
+  Updated: 2026-10-28T01:44:43Z
   Vendor: HEXXEE
   Product Type: Giraffe Socks
   Availability: Available
@@ -2213,7 +2213,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Avocado 2.0](https://runwithfreedom.com/products/avocado-2-0): Avocado 2.0 Socks A 2.0 spin on our 'avocuddle' socks... but this time, with MORE avocado! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-20T16:22:42Z
+  Updated: 2026-10-28T01:44:43Z
   Vendor: HEXXEE
   Product Type: Avocado Socks
   Availability: Available
@@ -2231,7 +2231,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Intergalactic](https://runwithfreedom.com/products/intergalactic): Intergalactic A funky and fun pair of socks from out of this world. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:10Z
+  Updated: 2026-10-28T01:44:43Z
   Vendor: HEXXEE
   Product Type: Intergalactic Socks
   Availability: Available
@@ -2249,7 +2249,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Flamingo Socks](https://runwithfreedom.com/products/flamingo-socks): Flamingo Socks Embrace your inner Flamingo! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T15:17:11Z
+  Updated: 2026-10-28T01:44:44Z
   Vendor: HEXXEE
   Product Type: Flamingo Socks
   Availability: Available
@@ -2267,7 +2267,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [90's Baby](https://runwithfreedom.com/products/90s-baby): 90's Baby A retro 90's vibe combined with a light blue tie dye background. We're talkin' rollerskates, cassettes, floppy disks, polaroids etc etc. You get the picture! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-28T01:44:43Z
   Vendor: HEXXEE
   Product Type: 90's Baby
   Availability: Available
@@ -2285,7 +2285,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Biscuit Socks](https://runwithfreedom.com/products/biscuit-socks): Biscuit Socks One of peoples ALL time favourites... now on your socks! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:05Z
+  Updated: 2026-10-28T01:44:46Z
   Vendor: HEXXEE
   Product Type: Biscuit Socks
   Availability: Available
@@ -2303,7 +2303,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Pizza Spaceships](https://runwithfreedom.com/products/pizza-spaceships): Pizza Spaceships A lil creative twist to add a funky dimension to some pizza socks. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-28T01:44:43Z
   Vendor: HEXXEE
   Product Type: Pizza Spaceships
   Availability: Available
@@ -2321,7 +2321,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Tropical Funk](https://runwithfreedom.com/products/tropical-funk): Tropical Funk One of our most colourful designs yet, and one NOT to miss out on. Take ALL those summer vibes into winter! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-20T09:03:16Z
+  Updated: 2026-10-28T01:44:45Z
   Vendor: HEXXEE
   Product Type: Tropical Funk
   Availability: Available
@@ -2339,7 +2339,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Banana Socks](https://runwithfreedom.com/products/banana-socks): Banana Socks The most potassium-rich socks you'll ever own. A super cool design on premium socks to suit your wardrobe and gym gear. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-23T15:02:01Z
   Vendor: HEXXEE
   Product Type: Banana Socks
   Availability: Available
@@ -2357,7 +2357,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Space Cats](https://runwithfreedom.com/products/space-cats): Space Cat Socks Our galactic twist on our friendly feline friends in lil space suits! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-09T13:04:02Z
+  Updated: 2026-10-27T15:58:30Z
   Vendor: HEXXEE
   Product Type: Funky Feline Socks
   Availability: Available
@@ -2379,7 +2379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/FunkyFelineSocks-506751.jpg?v=1789041127
     Price: £13.99 GBP
 - [Tropical Pineapple](https://runwithfreedom.com/products/tropical-pineapple): Tropical Pineapple I like pina colada's but not getting caught in the rain! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Tried and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:07Z
+  Updated: 2026-10-27T15:59:00Z
   Vendor: HEXXEE
   Product Type: Tropical Pineapple
   Availability: Available
@@ -2397,7 +2397,7 @@
     Availability: Available
     Price: £13.99 GBP
 - [Tropical Palms](https://runwithfreedom.com/products/tropical-palms): Tropical Leaves Add some summer vibes to your style with these funky Tropical palms. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-06T06:01:08Z
+  Updated: 2026-10-28T01:44:46Z
   Vendor: HEXXEE
   Product Type: Tropical Palms
   Availability: Available
@@ -2419,22 +2419,22 @@
 ## Collections
 
 - [Recommended products (Seguno)](https://runwithfreedom.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-22T11:28:04Z
-  Total Products: 1356
+  Updated: 2026-10-30T11:26:09Z
+  Total Products: 1355
 - [All Products](https://runwithfreedom.com/collections/all-products): Shop Run With Freedom® premium running gear. Discover our bounce-free hydration vests, insoles, and gift cards. Free UK shipping & 2-Year Guarantee.
-  Updated: 2026-10-22T11:28:04Z
+  Updated: 2026-10-30T11:26:09Z
   Total Products: 893
 - [Enertor®](https://runwithfreedom.com/collections/enertor): Protect your joints and reduce pain with Enertor® insoles. Featuring advanced PX1 technology for maximum shock absorption and energy return. Shop now.
-  Updated: 2026-10-22T11:28:04Z
+  Updated: 2026-10-27T11:25:33Z
   Total Products: 3
 - [HEXXEE®](https://runwithfreedom.com/collections/hexxee): Upgrade your workout with HEXXEE® performance socks. Made in the UK with DriFIT technology, reinforced impact zones, and unapologetically bold designs.
-  Updated: 2026-10-19T11:25:11Z
+  Updated: 2026-10-26T11:31:52Z
   Total Products: 888
 - [Purendure](https://runwithfreedom.com/collections/purendure)
   Updated: 2026-09-15T08:52:11Z
   Total Products: 4
 - [Run With Freedom](https://runwithfreedom.com/collections/run-with-freedom): Premium hydration packs, technical vests, and training essentials engineered for endurance athletes. Explore the official Run With Freedom signature collection and find the exact tools you need to stay fueled, light, and focused on the road ahead.
-  Updated: 2026-10-15T11:26:55Z
+  Updated: 2026-10-30T11:26:09Z
   Total Products: 2
 - [KYMIRA Infrared Recovery Apparel](https://runwithfreedom.com/collections/kymira-infrared-recovery-apparel): Boost your recovery with KYMIRA infrared activewear at Run With Freedom. Shop clinically proven gear designed to accelerate muscle recovery for runners and triathletes.
   Updated: 2026-10-02T11:27:19Z
