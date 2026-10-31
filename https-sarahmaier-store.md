@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-10-23T01:17:22.853Z
+- Updated At: 2026-10-31T00:37:03.324Z
 
 ## Products
 
@@ -401,7 +401,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €435.00 EUR
 - [Lisbon 01 black | Women's shoes | Flat elegant black shoes](https://sarahmaier.store/products/lisbon-01-black): Discover the Lisbon Black Women's Shoes – flat, elegant, and perfect for any occasion. These versatile black shoes combine style and comfort effortlessly.
-  Updated: 2026-10-16T14:36:53Z
+  Updated: 2026-10-28T01:11:41Z
   Vendor: Sarah Maier
   Product Type: 
   Availability: Available
@@ -425,7 +425,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €270.00 EUR
 - [Lisbon 01 beige | Women's shoes | Flat leather beige shoes](https://sarahmaier.store/products/lisbon-01-beige): Style and elegance even on your busiest days! For women who need flat and comfortable shoes but do not abdicate of an elegant and glamorous style these are your per
-  Updated: 2026-10-16T14:36:53Z
+  Updated: 2026-10-28T01:11:41Z
   Vendor: Sarah Maier
   Product Type: 
   Availability: Available
@@ -558,7 +558,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
   Image: https://cdn.shopify.com/s/files/1/0510/3173/6470/files/139A6387.jpg?v=1712083660
   Price: €2,600.00 EUR
 - [AURIGA VERDANT - Green Laminated Leather Caged Mules](https://sarahmaier.store/products/auriga-green-sandals): Handcrafted in Italy using high-shine laminated leather, the Auriga Verdant mules feature a retro cage design and a comfortable block heel. We designed this green slip-on sandal to add a fresh, metallic pop to your wardrobe.
-  Updated: 2026-10-05T01:15:21Z
+  Updated: 2026-10-27T00:46:56Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -1139,7 +1139,7 @@ Italian size
 Heel measures approximately 110 mm
 Neutral patant-leather (calf)
 Classic and elegant
-  Updated: 2026-10-23T01:11:35Z
+  Updated: 2026-10-24T00:48:51Z
   Vendor: Sarah Maier
   Product Type: PUMPS
   Availability: Available
@@ -1169,7 +1169,7 @@ Classic and elegant
     Availability: Available
     Price: €450.00 EUR
 - [CUBANITA VERDE - Green Laminated Platform Sandals](https://sarahmaier.store/products/cubanita-sandals): Handcrafted in Italy from green laminated leather, the Cubanita Verde sandals feature a 110mm heel and 1.5-inch platform. We designed these bold platforms for vibrant style and confident height.
-  Updated: 2026-10-23T01:11:36Z
+  Updated: 2026-10-24T00:48:36Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
