@@ -10,7 +10,7 @@
 - Contact Email: info@thevitaminstore.ca
 - Contact Phone: 2042283321
 - Address: 91 Royal Crest Drive Winnipeg Manitoba R3P 2R1
-- Updated At: 2026-10-23T01:15:58.005Z
+- Updated At: 2026-10-31T00:38:08.239Z
 
 ## Products
 
@@ -1116,7 +1116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_e00afc34-f996-4a31-96c2-66d5b7be59cb.png?v=1744918798
   Price: $36.01 CAD
 - [Cyto-Matrix Fem-Matrix 120 Capsules](https://7591eb.myshopify.com/products/fem-matrix): Cyto-Matrix Fem-Matrix delivers botanical hormone balance support for women. 120 capsules. Shop Cyto-Matrix at The Vitamin Store.
-  Updated: 2026-09-30T21:51:46Z
+  Updated: 2026-10-23T15:05:26Z
   Vendor: Cyto-Matrix
   Product Type: 
   Availability: Available
@@ -1766,7 +1766,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_0ee4d39b-5457-4d54-a2c8-83dc4aea3674.png?v=1766010044
   Price: $29.10 CAD
 - [Cyto-Matrix Creatine - Powder 188g](https://7591eb.myshopify.com/products/cyto-matrix-creatine-powder): Cyto-Matrix Creatine delivers pure creatine monohydrate for strength, power and recovery. 188 g powder. Shop Cyto-Matrix at The Vitamin Store.
-  Updated: 2026-09-19T19:01:06Z
+  Updated: 2026-10-25T20:24:09Z
   Vendor: Cyto-Matrix
   Product Type: 
   Availability: Available
@@ -2028,7 +2028,7 @@
   Updated: 2026-09-22T23:07:53Z
   Total Products: 19
 - [Vitamins & Minerals](https://7591eb.myshopify.com/collections/vitamins-minerals): Vitamin and mineral supplements provide essential nutrients to support overall health. They typically include a blend of vitamins A, C, D, E, B-complex, and minerals like calcium, magnesium, and zinc. These supplements boost immune function, enhance energy, and fill dietary gaps, ensuring optimal nutrition and well-being.
-  Updated: 2026-10-10T11:19:13Z
+  Updated: 2026-10-23T11:18:56Z
   Total Products: 247
 - [Women's Health](https://7591eb.myshopify.com/collections/womens-health): Women's health supplements support overall wellness, hormonal balance, and reproductive health. They often include ingredients like folic acid, iron, calcium, and evening primrose oil. These supplements enhance energy, improve bone health, and support menstrual and menopausal health, making them ideal for women seeking comprehensive health and well-being.
   Updated: 2026-10-09T11:19:56Z
@@ -2064,7 +2064,7 @@
   Updated: 2026-09-30T11:17:33Z
   Total Products: 184
 - [Cyto-Matrix](https://7591eb.myshopify.com/collections/cyto-matrix): Shop Cyto-Matrix supplements at The Vitamin Store. Browse our high-quality selection of professional-grade vitamins, minerals, and natural health products designed to support your wellness journey. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-10-10T11:19:13Z
+  Updated: 2026-10-24T11:17:55Z
   Total Products: 153
 - [Orange Naturals](https://7591eb.myshopify.com/collections/orange-naturals): Shop the Orange Naturals collection at The Vitamin Store for high-quality, family-friendly supplements. Explore a wide range of vitamins, minerals, and natural remedies designed to support kids, women's wellness, and daily health. Free shipping on qualifying Canadian orders.
   Updated: 2026-06-10T17:25:48Z
@@ -2073,7 +2073,7 @@
   Updated: 2026-06-16T01:30:09Z
   Total Products: 4
 - [Health Topics](https://7591eb.myshopify.com/collections/health-topics): Explore a wide range of natural health topics and find the best supplements for your wellness journey at The Vitamin Store. From immune support to skin health, discover high-quality vitamins and minerals with free shipping on qualifying Canadian orders.
-  Updated: 2026-10-10T11:19:13Z
+  Updated: 2026-10-24T11:17:55Z
   Total Products: 982
 - [Acne](https://7591eb.myshopify.com/collections/acne): Shop natural acne treatments and supplements at The Vitamin Store. Discover effective, high-quality vitamins and skincare solutions to help clear your skin and promote a healthy complexion. Free shipping on qualifying Canadian orders.
   Updated: 2026-10-08T11:17:32Z
@@ -2160,7 +2160,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 26
 - [Iron Deficiency & Anemia](https://7591eb.myshopify.com/collections/iron-deficiency-anemia): Shop for high-quality iron supplements and vitamins for iron deficiency anemia at The Vitamin Store. Discover gentle, well-absorbed options like iron bisglycinate to boost energy and support red blood cell formation. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-10-04T11:18:37Z
+  Updated: 2026-10-23T11:18:56Z
   Total Products: 20
 - [Inflammation](https://7591eb.myshopify.com/collections/inflammation): Manage inflammation naturally with high-quality supplements from The Vitamin Store. Explore our curated collection of anti-inflammatory vitamins and herbal remedies designed to support joint health and overall wellness. Free shipping on qualifying Canadian orders.
   Updated: 2026-10-02T19:29:28Z
@@ -2178,7 +2178,7 @@
   Updated: 2026-09-22T23:07:21Z
   Total Products: 15
 - [Menopause & PMS](https://7591eb.myshopify.com/collections/menopause-pms): Shop natural menopause and PMS relief supplements at The Vitamin Store. Discover a wide selection of vitamins and herbal remedies designed to balance hormones and ease symptoms. Enjoy high-quality products and free shipping on qualifying Canadian orders.
-  Updated: 2026-10-01T11:19:05Z
+  Updated: 2026-10-24T11:17:55Z
   Total Products: 19
 - [Nausea](https://7591eb.myshopify.com/collections/nausea): Shop natural remedies for nausea at The Vitamin Store. Discover high-quality vitamins, ginger supplements, and digestive enzymes designed to provide relief and support digestive health. Free shipping on qualifying Canadian orders.
   Updated: 2026-09-22T23:09:21Z
@@ -2202,7 +2202,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 43
 - [Thyroid Disorders](https://7591eb.myshopify.com/collections/thyroid-disorders): Shop natural thyroid support supplements and vitamins at The Vitamin Store. Discover a wide selection of high-quality products to help regulate hormones, boost metabolism, and improve energy levels. Enjoy free shipping on qualifying Canadian orders.
-  Updated: 2026-10-09T11:19:56Z
+  Updated: 2026-10-23T11:18:56Z
   Total Products: 39
 - [Upset Stomach & IBD](https://7591eb.myshopify.com/collections/upset-stomach-ibd): Find relief for upset stomach and IBD with natural supplements at The Vitamin Store. Discover high-quality vitamins, enzymes, and probiotics designed to support digestive health and reduce inflammation. Enjoy free shipping on qualifying Canadian orders.
   Updated: 2026-10-10T11:19:13Z
@@ -2238,7 +2238,7 @@
   Updated: 2026-10-10T11:19:13Z
   Total Products: 71
 - [Health support](https://7591eb.myshopify.com/collections/health-support)
-  Updated: 2026-10-10T11:19:13Z
+  Updated: 2026-10-24T11:17:55Z
   Total Products: 940
 - [Magnesium & Vitamin D](https://7591eb.myshopify.com/collections/magnesium-vitamin-d)
   Updated: 2026-10-10T11:19:13Z
