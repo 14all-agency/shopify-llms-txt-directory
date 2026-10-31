@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2020-09-26T19:01:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:51:05.338Z
+- Updated At: 2026-10-31T00:16:01.537Z
 
 ## Products
 
 - [Leg Kick Pop Socket](https://shop.heatherontour.com/products/leg-kick-pop-socket): Leg Kick Pop Socket with adhesive. Helps you hold your phone when you're hammered!
-  Updated: 2026-10-05T13:04:23Z
+  Updated: 2026-10-26T17:04:59Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-LEG-KICK-POP-SOCKET.png?v=1734383651
   Price: $5.00 USD
 - [Absolutely Not Slides](https://shop.heatherontour.com/products/absolutely-not-slides): Absolutely Not rubber slides, slip on style with cheetah sole and black print on top of foot. Size Guide: Size Women's US Size Euro Size S 5/6 36 M 7/8 38 L 9/10 40 XL 11/12 42 2X 12/13 44
-  Updated: 2026-10-22T21:33:27Z
+  Updated: 2026-10-26T17:05:00Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
@@ -39,7 +39,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Arrivederci Crewneck](https://shop.heatherontour.com/products/arrivederci-crewneck): Arrivederci Crewneck in blue with front print. 100% Cotton
-  Updated: 2026-10-16T14:58:39Z
+  Updated: 2026-10-26T17:05:01Z
   Vendor: Heather McMahan
   Product Type: Sweatshirt
   Availability: Available
@@ -63,14 +63,14 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Absolutely Not Trucker Hat](https://shop.heatherontour.com/products/absolutely-not-trucker-hat): Absolutely Not Trucker Hat in camo with pink print. Adjustable sizing with snapback closure
-  Updated: 2026-10-09T00:13:18Z
+  Updated: 2026-10-26T17:05:01Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-ABSOLUTELY-NOT-TRUCKER.png?v=1774449116
   Price: $35.00 USD
 - [Bamboozled Tour Hoodie](https://shop.heatherontour.com/products/bamboozled-tour-hoodie): Bamboozled Tour Hoodie in black with front and back print. 80% Cotton, 20% Polyester / Heavy weight hoodie
-  Updated: 2026-10-16T14:58:39Z
+  Updated: 2026-10-26T17:05:02Z
   Vendor: Heather McMahan
   Product Type: Hoodie
   Availability: Available
@@ -94,7 +94,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Bamboozled Tour Tee](https://shop.heatherontour.com/products/bamboozled-tour-tee): Bamboozled Tour Tee in black with front and back print. 100% Cotton Unisex
-  Updated: 2026-10-05T13:04:27Z
+  Updated: 2026-10-26T17:05:02Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Bamboozled Face Tee | Official Heather McMahan Merch Store](https://shop.heatherontour.com/products/bamboozled-face-tee): Bamboozled Face Tee in faded cream with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:04:27Z
+  Updated: 2026-10-26T17:05:03Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -142,7 +142,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Heavenly Hogs Tee](https://shop.heatherontour.com/products/heavenly-hogs-tee): Heavenly Hogs Tee in ice blue with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:04:28Z
+  Updated: 2026-10-26T17:05:03Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -166,39 +166,39 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Ciao Bella Koozie](https://shop.heatherontour.com/products/ciao-bella-koozie): Ciao Bella Koozie in red with double sided print. Holds 12 oz. can
-  Updated: 2026-10-05T13:04:28Z
+  Updated: 2026-10-26T17:05:03Z
   Vendor: Heather McMahan
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HM-CIAO-BELLA-KOOZIE.png?v=1738691272
   Price: $5.00 USD
 - [Absolutely Not Tote](https://shop.heatherontour.com/products/absolutely-not-tote): Absolutely Not Tote in canvas with red print. Size: 14" W x 10" H x 5" D
-  Updated: 2026-10-07T14:53:36Z
+  Updated: 2026-10-26T17:05:04Z
   Vendor: Heather McMahan
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Heather-Tote.png?v=1772040694
   Price: $25.00 USD
 - [Captains Trucker Hat](https://shop.heatherontour.com/products/captains-trucker-hat): Take the cruise home with you in this Captains Trucker Hat! This classic black style goes with any outfit and the gold embellishments elevate your style.
-  Updated: 2026-10-05T13:04:30Z
+  Updated: 2026-10-26T17:05:04Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/CAPTAINSHAT.png?v=1743538112
   Price: $40.00 USD
 - [Absolutely Not Mask](https://shop.heatherontour.com/products/absolutely-not-eye-mask): Take the cruise home with you in this Captains Trucker Hat! This classic black style goes with any outfit and the gold embellishments elevate your style.
-  Updated: 2026-10-05T13:04:30Z
+  Updated: 2026-10-26T17:05:05Z
   Vendor: Heather McMahan
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMEyeMask2_4511f5db-eecb-4ed4-94d8-112444151610.png?v=1746476658
   Price: $15.00 USD
 - [Absolutely Knot Cruise Tee - Yellow](https://shop.heatherontour.com/products/cruise-tee-yellow): Missing the Absolutely Knot cruise? Order the tee in banana yellow as your keepsake! This tee sold out on the cruise, don't miss out again!
-  Updated: 2026-10-05T13:04:31Z
+  Updated: 2026-10-27T21:55:00Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMCruiseTeeYellow_2.png?v=1746032754
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMCruiseTeeYellow_2.png?v=1793034393
   - [S](https://shop.heatherontour.com/products/cruise-tee-yellow?variant=46731181326565)
     Availability: Available
     Price: $30.00 USD
@@ -218,11 +218,11 @@
     Availability: Available
     Price: $30.00 USD
 - [Absolutely Knot Cruise Tee - Green](https://shop.heatherontour.com/products/absolutely-knot-cruise-tee-green): Missing the Absolutely Knot cruise? Order the tee in island reef green as your keepsake!
-  Updated: 2026-10-05T13:04:32Z
+  Updated: 2026-10-27T21:26:14Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMCruiseTeeGreen_2.png?v=1746039465
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMCruiseTeeGreen_2.png?v=1793034375
   - [S](https://shop.heatherontour.com/products/absolutely-knot-cruise-tee-green?variant=46731422499045)
     Availability: Available
     Price: $30.00 USD
@@ -242,7 +242,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Tiramisu B!tch Bracelet](https://shop.heatherontour.com/products/tiramisu-bitch-bracelet): In collaboration with Tiny Words Project Tiramisu Bitch design S/M Fits up to 6.25’’ wrist comfortably M/L Fits up to 7’’ wrist comfortably
-  Updated: 2026-10-06T23:04:05Z
+  Updated: 2026-10-26T17:05:06Z
   Vendor: Heather McMahan
   Product Type: Bracelet
   Availability: Available
@@ -254,14 +254,14 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Rise & Relax Trucker Hat](https://shop.heatherontour.com/products/rise-relax-trucker-hat): Take the cruise home with you in this Captains Trucker Hat! This classic black style goes with any outfit and the gold embellishments elevate your style.
-  Updated: 2026-10-05T13:04:33Z
+  Updated: 2026-10-26T17:05:07Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HMHAT_6d6d5cda-0222-4cca-9801-4ca836071f33.png?v=1747171512
   Price: $25.00 USD
 - [Tiramisu Bitch Pocket Tee](https://shop.heatherontour.com/products/tiramisu-bitch-blue-tee): Tiramisu Bitch! IYKYK Garment-dyed for soft, lived-in feel Relaxed fit on a chambray comfort colors pocket tee 100% cotton Unisex
-  Updated: 2026-10-05T13:04:34Z
+  Updated: 2026-10-26T17:05:07Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -285,7 +285,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Ciao Bella Sage Sweatpants](https://shop.heatherontour.com/products/ciao-bella-sweatpants): Ciao Bella Baby Garment-washed for softness and unique sage color Classic, slim fit sweatpant. Size up for a looser look. Monochrome Ciao Bella screen print on the front Cotton/Poly fabric blend Size Inseam Waist Laid Flat S 29 3/4 26-27 M 29 3/4 28-29 L 30 1/4 30-31 XL 30 1/4 32-33 2XL 31 34-35
-  Updated: 2026-10-16T14:58:48Z
+  Updated: 2026-10-26T17:05:08Z
   Vendor: Heather McMahan
   Product Type: Sweatpant
   Availability: Available
@@ -306,7 +306,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Ciao Bella Cream Hoodie](https://shop.heatherontour.com/products/ciao-bella-crop-hoodie): Ciao Bella Baby Garment-washed for softness and unique cream color Boxy shape with a shorter length for a women's fit Ciao Bella illustrative graphic on the front
-  Updated: 2026-10-16T14:58:48Z
+  Updated: 2026-10-26T17:05:08Z
   Vendor: Heather McMahan
   Product Type: Hoodie
   Availability: Available
@@ -327,7 +327,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Ciao Bella Cream Shorts](https://shop.heatherontour.com/products/ciao-bella-shorts): Garment-washed for softness and unique cream color Classic women's fit with an elastic waistband Heather McMahan illustrative graphic on the front Cotton/Poly fabric blend Size Inseam Waist Laid Flat (+1 tolerance) S 3 26-27 M 3 1/4 28-29 L 3 1/2 30-31 XL 3 3/4 32-33 2XL 4 34-35
-  Updated: 2026-10-05T13:04:35Z
+  Updated: 2026-10-26T17:05:09Z
   Vendor: Heather McMahan
   Product Type: Hoodie
   Availability: Available
@@ -348,21 +348,21 @@
     Availability: Available
     Price: $35.00 USD
 - [Vacation Cig Hat](https://shop.heatherontour.com/products/vacation-cig-hat): Take the cruise home with you in this Captains Trucker Hat! This classic black style goes with any outfit and the gold embellishments elevate your style.
-  Updated: 2026-10-05T13:04:36Z
+  Updated: 2026-10-26T17:05:09Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/VacationCigHat.png?v=1751471167
   Price: $40.00 USD
 - [Chateau McMahan Keychain](https://shop.heatherontour.com/products/chateau-mcmahan-keychain): Welcome to Chateau McMahan Vintage motel style keychain 1.5" tall
-  Updated: 2026-10-05T13:04:37Z
+  Updated: 2026-10-26T17:05:10Z
   Vendor: Heather McMahan
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HeatherMcMahanKeychain_447a40a9-45cc-4d2d-bd49-f9e7fbd19dc4.png?v=1754505322
   Price: $5.00 USD
 - [Absolutely Not Crewneck](https://shop.heatherontour.com/products/absolutely-not-crewneck): Unisex crewneck in light grey with martini graphic Absolutely Not graphic with martini glasses on the front 50/50 cotton/polyester
-  Updated: 2026-10-05T13:04:38Z
+  Updated: 2026-10-26T17:05:10Z
   Vendor: Heather McMahan
   Product Type: Sweatshirt
   Availability: Available
@@ -386,18 +386,18 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Hotline Hat](https://shop.heatherontour.com/products/hotline-hat): Trucker Hat in maroon Absolutely Not production's number embroidered on the front Heather McMahan embroidered on the back Adjustable sizing with snapback closure
-  Updated: 2026-10-05T13:04:38Z
+  Updated: 2026-10-26T17:05:11Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Hotline-Hat.png?v=1762294777
   Price: $40.00 USD
 - [Gift Tag Sticker Sheets](https://shop.heatherontour.com/products/gift-tag-sticker-sheets): Set of 2 sticker pages 8x10" sheets
-  Updated: 2026-10-15T21:01:46Z
+  Updated: 2026-10-30T08:11:03Z
   Vendor: Heather McMahan
   Product Type: Stickers
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/StickerSheet.png?v=1762535041
+  Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Heather-Gift-Tags-Photoshoot.jpg?v=1793304644
   Price: $15.00 USD
 - [McMahan Can Hat](https://shop.heatherontour.com/products/mcmahan-can-hat): McMahan Can and She Will
 
@@ -406,14 +406,14 @@ Baseball Hat in black
 Embroidered patch on the front
 
 Adjustable closure
-  Updated: 2026-10-07T14:53:36Z
+  Updated: 2026-10-26T17:05:12Z
   Vendor: Heather McMahan
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Mockup_0012_HRMM-BALCP8-167357-2-13-R.png?v=1778768894
   Price: $40.00 USD
 - [A Special Night Tee](https://shop.heatherontour.com/products/a-special-night-tee): I had a special night with Heather McMahan Tee from the taping of Heather's special in Knoxville, Tn Garment-dyed for soft, lived-in feel Relaxed fit on a watermelon comfort colors pocket tee 100% cotton Unisex
-  Updated: 2026-10-05T13:04:40Z
+  Updated: 2026-10-26T17:05:12Z
   Vendor: Heather McMahan
   Product Type: T-Shirt
   Availability: Available
@@ -482,8 +482,8 @@ Adjustable closure
   Updated: 2026-09-28T18:57:15Z
   Total Products: 3
 - [Black Friday ](https://shop.heatherontour.com/collections/all-but-5-bin)
-  Updated: 2026-10-09T11:09:42Z
-  Total Products: 55
+  Updated: 2026-10-26T17:05:54Z
+  Total Products: 28
 - [$5 bin](https://shop.heatherontour.com/collections/5-bin)
   Updated: 2026-10-22T21:33:28Z
   Total Products: 14
