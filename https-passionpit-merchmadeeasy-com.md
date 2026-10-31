@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-23T00:58:42.203Z
+- Updated At: 2026-10-31T00:16:30.092Z
 
 ## Products
 
@@ -199,7 +199,7 @@ Unisex
 - [Smile Upon Me Tee](https://passionpit.merchmadeeasy.com/products/smile-tee): you'll always smile upon me and i'll smile upon you too
 100% cotton tee in Beige
 Unisex
-  Updated: 2026-10-09T21:27:06Z
+  Updated: 2026-10-30T19:32:54Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -220,7 +220,7 @@ Unisex
     Availability: Not Available
     Price: $35.00 USD
 - [Sleepyhead Hat](https://passionpit.merchmadeeasy.com/products/sleepyhead-hat): Sleepyhead embroidered in blue on the front Passion Pit embroidered on the back Tan baseball cap
-  Updated: 2026-10-09T21:28:11Z
+  Updated: 2026-10-30T19:32:57Z
   Vendor: Passion Pit
   Product Type: Hat
   Availability: Available
@@ -234,7 +234,7 @@ Unisex
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Mockup_0007_Passion-Pit-Tote.png?v=1778791414
   Price: $25.00 USD
 - [Sticker Pack](https://passionpit.merchmadeeasy.com/products/sticker-pack): Set of 5 stickers
-  Updated: 2026-10-09T21:28:45Z
+  Updated: 2026-10-30T19:32:56Z
   Vendor: Passion Pit
   Product Type: Stickers
   Availability: Available
