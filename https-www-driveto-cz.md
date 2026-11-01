@@ -89,7 +89,7 @@ Zprostředkováváme operativní leasing vozidel od všech značek a leasingový
 - Contact Email: info@driveto.cz
 - Contact Phone: +420790285631
 - Address: Jankovcova 1569/2c, Holešovice, 170 00 Praha 7
-- Updated At: 2026-10-25T00:29:00.267Z
+- Updated At: 2026-11-01T00:53:21.586Z
 
 ## Naše služby
 
@@ -426,7 +426,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 16 581,00 Kč CZK
 - [Nissan Qashqai N-CONNECTA 1.3 DIG-T MHEV 116 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/nissan-qashqai-n-connecta-1-3-dig-t-mhev-116kw-natural-95-automaticka-prevodovka): Nissan Qashqai je moderní SUV, které kombinuje odvážný design a pokročilé technologie. Uvnitř potěší moderně pojatý interiér, který si však zachovává intuitivní ovládání. Tento model je vybaven hybridním pohonem, který poskytuje solidní spotřebu a nadprůměrnou dynamiku. Nechybí ani automatická převodovka Xtronic, která zajišťuje hladkou a pohodlnou jízdu. Za zmínku také stojí široká škála bezpečnostních prvků a moderní technologie, které usnadňují každodenní používání. Tento vůz je ideální volbou pro ty, kteří hledají spolehlivé a komfortní SUV, se kterým jezdí primárně po městě a okolí. Delší trasu k moři sice také hravě zvládne, ale nebude tak úsporný, jako naftové vozy.
-  Updated: 2026-10-23T06:21:41Z
+  Updated: 2026-10-29T10:23:37Z
   Vendor: Nissan
   Product Type: Operativní leasing
   Availability: Available
@@ -501,11 +501,11 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Availability: Available
     Price: 10 647,00 Kč CZK
 - [Audi Q5 Sportback S line 2.0 TDI 150 kW Nafta 4x4 Automatická převodovka](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka): Model Q5 je středně velké SUV, které si oblíbili zákazníci, kteří chtějí dostatek prostoru pro posádku a zavazadla, ale zároveň nechtějí přehnaně velké vozidlo, se kterým je už složitější parkování či jízda na úzkých silnicích. Jedná se o zcela nový model, který byl představen na konci roku 2024. Přídomek Sportback značí svažující-se záď, což je v dnešní době velmi populární a dodává to sportovní nádech. Pod kapotou pracuje osvědčený naftový motor o výkonu 150 kW, který dodává vozu slušnou dynamiku, ale zároveň je úsporný. Kombinovaně není problém jezdit s lehkou nohou okolo 6 litrů. Milovníky hor také potěší vyhlášený pohon všech kol quattro, díky kterému vůz dokáže vyjet i pořádně zasněžené kopce, čemuž pomáhá solidní světlá výška. Podvozek vozu dodává skvělé jízdní vlastnosti - je komfortní, ale zároveň stabilní v zatáčkách. Tento kousek je navíc krásně vybavený - celková cena včetně příplatků šplhá k 1,9 milionu.
-  Updated: 2026-10-23T06:22:03Z
+  Updated: 2026-10-28T03:05:02Z
   Vendor: Audi
   Product Type: Operativní leasing
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Audi_Q5_Sportback_S_foto1.webp?v=1761618138
+  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Bila_Gletscher_Audi_Q5_Sportback_S_line.webp?v=1761618138
   - [10000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka?variant=65337615548765)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/Modra_Ultra_metaliza_Audi_Q5_Sportback_S_line.webp?v=1761618138
@@ -652,61 +652,40 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   - [30000 km / 36 měsíců / Modrá Ultra](https://www.driveto.cz/products/audi-q5-s-line-2-0-tdi-150kw-nafta-4x4-automaticka-prevodovka-2?variant=63993898467677)
     Availability: Not Available
     Price: 20 677,00 Kč CZK
-- [Toyota Corolla Cross Comfort 1.8 Hybrid 103kw e-CVT 103 kW Natural 95 Automatická převodovka](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1): Corolla Cross je odpověď na zvyšující se poptávku po středně velikých SUV. Jedná se o konkurenta například ke Škodě Karoq a v hierarchii Toyoty zaujímá místo mezi větší RAV4 a menším Yarisem Cross. Interiér působí velice sympaticky a většinu konkurentů kvalitou materiálů hravě strčí do kapsy. Na své si zde přijdou hlavně příznivci klasické koncepce interiéru, ve kterém převládají klasická tlačítka a kolečka. Někdo by mohl namítnout, že to působí archaicky, ale je mnoho lidí, kteří právě tuto koncepci preferují z důvodu snazšího ovládání. Pozitivní je rovněž prostor v kabině, kam se hravě poskládají čtyři vzrostlí cestující. Pohon vozu má na starost motor o objemu 1,8 litru, který je doplněn o elektromotor a akumulátor. Jde tedy o hybrid, který umí jet čistě na elektřinu a brzděním dobíjí baterii. Díky tomu zvládá po městě jezdit se spotřebou okolo 4 litrů. Corolla Cross je povedené SUV se skvělým podvozkem - jízda je opravdu komfortní, ale zároveň se neztratí ani v zatáčkách.
-  Updated: 2026-10-23T06:22:15Z
-  Vendor: Toyota
-  Product Type: Operativní leasing
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0884/6861/9613/files/toyota-corolla-cross-comfort-foto-1_6fabf702-3a74-4037-9b14-1aa1ff1d3418.webp?v=1771329925
-  - [10000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681667933)
-    Availability: Available
-    Price: 9 092,00 Kč CZK
-  - [15000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050728788317)
-    Availability: Available
-    Price: 9 264,00 Kč CZK
-  - [20000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681700701)
-    Availability: Available
-    Price: 9 429,00 Kč CZK
-  - [25000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050728821085)
-    Availability: Available
-    Price: 9 668,00 Kč CZK
-  - [30000 km / 36 měsíců / Bílá čistá](https://www.driveto.cz/products/toyota-corolla-cross-comfort-1-8-hybrid-103kw-e-cvt-103-kw-natural-95-automaticka-prevodovka-1?variant=58050681733469)
-    Availability: Available
-    Price: 9 895,00 Kč CZK
-[List Continued](https://www.driveto.cz/a/llms-agent/llms.txt?shop=driveto.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTUyNDE3Njc1NzA4NSwibGFzdF92YWx1ZSI6IjE1NTI0MTc2NzU3MDg1In0%3D)
+[List Continued](https://www.driveto.cz/a/llms-agent/llms.txt?shop=driveto.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ4NjU1Nzk0NjIwNSwibGFzdF92YWx1ZSI6IjE1NDg2NTU3OTQ2MjA1In0%3D)
 
 ## Collections
 
 - [Operativní leasing](https://www.driveto.cz/collections/operativni-leasing): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2026-10-24T18:00:29Z
-  Total Products: 262
+  Updated: 2026-11-01T00:00:28Z
+  Total Products: 258
 - [Elektromobily](https://www.driveto.cz/collections/elektromobily): Elektromobily na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-23T14:00:30Z
-  Total Products: 26
+  Updated: 2026-10-31T17:00:30Z
+  Total Products: 25
 - [Skladové vozy](https://www.driveto.cz/collections/skladove-vozy): Skladové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-24T18:00:33Z
+  Updated: 2026-10-31T23:00:27Z
   Total Products: 112
 - [Akční nabídky](https://www.driveto.cz/collections/akcni-nabidky): Akční nabídky na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-24T16:00:27Z
-  Total Products: 82
+  Updated: 2026-10-31T23:00:28Z
+  Total Products: 81
 - [Užitkové vozy](https://www.driveto.cz/collections/uzitkove-vozy): Užitkové vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-23T06:21:08Z
+  Updated: 2026-10-29T15:59:18Z
   Total Products: 1
 - [Osobní vozy](https://www.driveto.cz/collections/osobni-vozy): Osobní vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-24T18:00:28Z
-  Total Products: 290
+  Updated: 2026-10-31T23:00:29Z
+  Total Products: 288
 - [Plug-in vozy](https://www.driveto.cz/collections/plug-in): Plug-in vozy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-24T14:00:31Z
-  Total Products: 11
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 10
 - [Mild hybrid vozy](https://www.driveto.cz/collections/mild-hybrid): Mild hybridy na Operativní leasing pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
   Updated: 2026-10-23T06:21:09Z
   Total Products: 0
 - [Včetně zimních pneumatik](https://www.driveto.cz/collections/vcetne-zimnich-pneumatik): Operativní leasing se zimními pneumatikami pro firmy, podnikatele i soukromé osoby. Vyberte si nové auto a jednoduše jezděte.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T02:00:29Z
   Total Products: 7
 - [Operativní leasing Driveto](https://www.driveto.cz/collections/all): Operativní leasing od Driveto: nové auto bez starostí, bez akontace, s pojištěním a servisem v ceně. Pro firmy i jednotlivce. Vyberte si online!
-  Updated: 2026-10-24T18:00:32Z
-  Total Products: 290
+  Updated: 2026-11-01T00:00:29Z
+  Total Products: 288
 - [BLACK FRIDAY](https://www.driveto.cz/collections/black-friday): Využijte Black Friday na Driveto. Operativní leasing na auta skladem nebo s rychlou dostupností. Nejlepší nabídky roku bez starostí a jednoduše online.
   Updated: 2026-10-23T06:21:09Z
   Total Products: 0
@@ -717,86 +696,86 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-10-23T06:21:09Z
   Total Products: 0
 - [All Products (ChatGPT-AI Product Description)](https://www.driveto.cz/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 1047
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 1056
 - [Speciální nabídky](https://www.driveto.cz/collections/retence): Speciální nabídky od Driveto, neveřejné #nofollow #noindex
-  Updated: 2026-10-23T06:21:09Z
+  Updated: 2026-10-28T11:18:18Z
   Total Products: 4
 - [Dodávky na operativní leasing](https://www.driveto.cz/collections/operativni-leasing-dodavka): Dodávky a MPV na operativní leasing pro firmy, živnostníky i soukromé osoby. Bez akontace, pojištění a servis v jedné měsíční splátce. Vyberte si online.
-  Updated: 2026-10-23T06:21:09Z
+  Updated: 2026-10-30T11:12:41Z
   Total Products: 20
 - [Operativní leasing na rok (12 měsíců)](https://www.driveto.cz/collections/operativni-leasing-na-rok): Auto na operativní leasing na 12 měsíců bez akontace. Pojištění a servis máte v měsíční splátce, po roce auto jednoduše vrátíte. Vyberte si vůz online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 20
 - [Operativní leasing do 5 000 Kč měsíčně](https://www.driveto.cz/collections/operativni-leasing-do-5000): Auta na operativní leasing do 5 000 Kč měsíčně. Bez akontace, s pojištěním a servisem v ceně, pro firmy i soukromé osoby. Prohlédněte si aktuální nabídku.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 10
 - [Krátkodobý operativní leasing](https://www.driveto.cz/collections/kratkodoby-operativni-leasing): Krátkodobý operativní leasing na 9 měsíců, bez smlouvy na několik let. Nové auto bez akontace, pojištění a servis v měsíční splátce. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-29T16:01:07Z
   Total Products: 1
 - [Flexibilní operativní leasing](https://www.driveto.cz/collections/flexibilni-operativni-leasing): Flexibilní operativní leasing: auto na dobu, která vám vyhovuje, za jednu měsíční splátku. Bez akontace, pojištění a servis v ceně. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-30T11:12:41Z
   Total Products: 2
 - [SUV na operativní leasing](https://www.driveto.cz/collections/suv-na-operativni-leasing): Operativní leasing SUV pro rodinu i firmu. Nová SUV bez akontace, s pojištěním a servisem v měsíční splátce. Porovnejte modely a vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 157
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 153
 - [Toyota Hybrid na operativní leasing](https://www.driveto.cz/collections/toyota-hybrid-operativni-leasing): Hybridní Toyota na operativní leasing bez akontace. Úsporná Corolla, RAV4 a další modely s pojištěním a servisem v ceně. Vyberte si hybrid online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 16
 - [Full service operativní leasing](https://www.driveto.cz/collections/full-service-operativni-leasing): Operativní leasing včetně servisu: prohlídky a údržba v jedné měsíční splátce. Full service bez akontace pro firmy i jednotlivce. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 169
 - [Operativní leasing 4x4](https://www.driveto.cz/collections/operativni-leasing-4x4): Auta s pohonem 4x4 na operativní leasing. SUV i kombi s pohonem všech kol bez akontace, s pojištěním a servisem v ceně. Vyberte si vůz 4x4 online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 68
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 69
 - [Toyota Corolla Hybrid na operativní leasing](https://www.driveto.cz/collections/toyota-corolla-hybrid-operativni-leasing): Toyota Corolla Hybrid na operativní leasing bez akontace. Nízká spotřeba, pojištění a servis v jedné měsíční splátce. Vyberte si Corollu online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 3
 - [Operativní leasing s automatickou převodovkou](https://www.driveto.cz/collections/operativni-leasing-automaticka-prevodovka): Auta s automatickou převodovkou na operativní leasing. Bez akontace, s pojištěním a servisem v měsíční splátce, pro firmy i jednotlivce. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 226
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 223
 - [Operativní leasing Toyota: akční nabídky](https://www.driveto.cz/collections/operativni-leasing-toyota-akce): Aktuální akční nabídky operativního leasingu Toyota. Hybridní modely bez akontace, s pojištěním a servisem v ceně. Prohlédněte si akce a vyberte online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 2
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 1
 - [Operativní leasing s vysokým nájezdem](https://www.driveto.cz/collections/operativni-leasing-vysoky-najezd): Operativní leasing pro delší trasy s ročním nájezdem 50 000 km. Bez akontace, pojištění a servis v měsíční splátce. Vyberte si auto pro vysoký nájezd.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 28
 - [Elektromobily Škoda na operativní leasing](https://www.driveto.cz/collections/operativni-leasing-elektroauto-skoda): Elektromobil Škoda na operativní leasing bez akontace. Enyaq, Elroq či Epiq s pojištěním a servisem v jedné měsíční splátce. Vyberte si elektroauto online.
-  Updated: 2026-10-23T11:13:35Z
+  Updated: 2026-10-29T15:55:55Z
   Total Products: 10
 - [Operativní leasing s nájezdem 30 000 km ročně](https://www.driveto.cz/collections/operativni-leasing-30000-km): Auta na operativní leasing s ročním nájezdem 30 000 km. Bez akontace, s pojištěním a servisem v ceně, pro firmy i soukromé osoby. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 191
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 187
 - [Nejlevnější operativní leasing Toyota](https://www.driveto.cz/collections/nejlevnejsi-operativni-leasing-toyota): Nejlevnější Toyoty na operativní leasing seřazené od nejnižší splátky. Bez akontace, s pojištěním a servisem v ceně. Najděte si levnou Toyotu online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 34
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 33
 - [Kombi na operativní leasing](https://www.driveto.cz/collections/operativni-leasing-kombi): Rodinné kombi na operativní leasing s velkým kufrem. Bez akontace, pojištění a servis v jedné měsíční splátce. Vyberte si kombi pro rodinu i firmu online.
-  Updated: 2026-10-24T11:11:50Z
+  Updated: 2026-10-31T11:15:12Z
   Total Products: 42
 - [Operativní leasing do 8 000 Kč měsíčně](https://www.driveto.cz/collections/operativni-leasing-do-8000): Auta na operativní leasing do 8 000 Kč měsíčně. Bez akontace, s pojištěním a servisem v ceně, pro firmy i soukromé osoby. Prohlédněte si aktuální nabídku.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 97
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 95
 - [Operativní leasing aut se 7 místy](https://www.driveto.cz/collections/operativni-leasing-7-mist): Sedmimístná auta na operativní leasing pro velkou rodinu i firmu. Bez akontace, pojištění a servis v měsíční splátce. Vyberte si auto se 7 místy online.
-  Updated: 2026-10-23T11:13:35Z
-  Total Products: 18
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 17
 - [Operativní leasing na 24 měsíců](https://www.driveto.cz/collections/operativni-leasing-24-mesicu): Auto na operativní leasing na 24 měsíců bez akontace. Pojištění a servis v jedné měsíční splátce, po dvou letech přesednete do nového. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 35
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 34
 - [Operativní leasing s nájezdem 40 000 km ročně](https://www.driveto.cz/collections/operativni-leasing-40000-km-rocne): Auta na operativní leasing s ročním nájezdem 40 000 km pro časté cesty. Bez akontace, s pojištěním a servisem v ceně. Vyberte si vůz online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 75
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 74
 - [Městské auto na operák](https://www.driveto.cz/collections/mestske-auto-na-operak): Malé a úsporné auto do města na operativní leasing. Snadné parkování, bez akontace, pojištění a servis v měsíční splátce. Vyberte si městské auto online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 44
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 45
 - [Operativní leasing do 10 000 Kč měsíčně](https://www.driveto.cz/collections/operativni-leasing-do-10-tisic): Auta na operativní leasing do 10 000 Kč měsíčně. Bez akontace, s pojištěním a servisem v ceně, pro firmy i soukromé osoby. Prohlédněte si aktuální nabídku.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 135
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 130
 - [Operativní leasing bez servisu](https://www.driveto.cz/collections/operativni-leasing-bez-servisu): Operativní leasing bez servisu ve splátce pro ty, kdo si údržbu auta zajišťují sami. Bez akontace a s nižší měsíční splátkou. Vyberte si auto online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 72
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 70
 - [Operativní leasing s nájezdem 20 000 km ročně](https://www.driveto.cz/collections/operativni-leasing-20000-km): Auta na operativní leasing s ročním nájezdem 20 000 km. Bez akontace, s pojištěním a servisem v ceně, pro firmy i soukromé osoby. Vyberte si online.
-  Updated: 2026-10-24T11:11:50Z
-  Total Products: 233
+  Updated: 2026-10-31T11:15:12Z
+  Total Products: 229
 
 ## Blogs
 
@@ -1173,7 +1152,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Updated: 2025-12-04T07:30:25Z
     Author: Jakub Dvoracek
   - [120 hodin parkování na modrých zónách zdarma? Praha to zvažuje.](https://www.driveto.cz/blogs/clanky/120-hodin-parkovani-na-modrych-zonach-zdarma-praha-to-zvazuje): <p><span>Radní hlavního města se v nejbližší době budou zabývat návrhem, který by Pražanům umožnil využít 120 hodinový fond bezplatného parkování na modrých zónách.</span></p>
-    Updated: 2026-06-12T12:19:42Z
+    Updated: 2026-10-27T14:11:28Z
     Author: Jakub Dvoracek
   - [Driveto je třetí nejrychleji rostoucí firma ve střední Evropě.](https://www.driveto.cz/blogs/clanky/driveto-je-treti-nejrychleji-rostouci-firma-ve-stredni-evrope): <p><span>Vyhlášení letošních výsledků prestižního žebříčku Deloitte Fast 50 nám udělalo radost. Jsme třetí nejrychleji rostoucí firma ve střední Evropě a zároveň druhá nejrychleji rostoucí v České republice.</span></p>
     Updated: 2025-12-04T07:31:02Z
@@ -1868,260 +1847,260 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Author: Jakub Dvoracek
     Tags: Výběr auta
   - [2025 Jak nastartovat auto s vybitým klíčkem? A co když klíček ztratím?](https://www.driveto.cz/blogs/clanky/2025-jak-nastartovat-auto-s-vybitym-klickem-a-co-kdyz-klicek-ztratim): <p><meta charset="utf-8">Vybitý klíček už dnes nemusí znamenat konec cesty. Kromě nouzového startu můžete svůj vůz často odemknout a nastartovat přímo z mobilu. Aplikace výrobců jako Škoda, Volkswagen, Audi, Hyundai či BMW umožňují odemykání, zamykání i spuštění motoru na dálku. Stačí mít nainstalovanou aplikaci a být přihlášený ke svému vozu.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Rady pro řidiče
   - [Jak nastartovat auto s vybitou autobaterií? Rady pro startování, když baterie stávkuje](https://www.driveto.cz/blogs/clanky/jak-nastartovat-auto-s-vybitou-autobaterii-rady-pro-startovani-kdyz-baterie-stavkuje): <p><meta charset="utf-8"><span>Situace, kdy otočíte klíčkem a motor ani neškytne, je noční můra snad každého řidiče. Vybitá autobaterie dokáže překazit plány typicky v mrazivém ránu, kdy pospícháme do práce. Naštěstí existuje několik způsobů, jak auto s vybitou baterií oživit. Podíváme se na ověřené postupy krok za krokem i na chyby, kterým se vyhnout.</span></p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: autobaterie, baterie, jak nastartovat auto, starter, Údržba a péče
   - [5 důvodů, proč se operák vyplatí oproti nákupu vlastního vozu](https://www.driveto.cz/blogs/clanky/5-duvodu-proc-se-operak-vyplati-oproti-nakupu-vlastniho-vozu)
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, kdy se vyplati operativni leasing, leasing, operativni leasing, vyhody operativniho leasingu
   - [Operativní leasing pro firmy vs. pro živnostníky: jaký je rozdíl?](https://www.driveto.cz/blogs/clanky/operativn-leasing-pro-firmy-vs-pro-zivnostniky-jak-je-rozdil): <p><meta charset="utf-8">Zjistěte, jaké jsou rozdíly mezi operativním leasingem pro firmy a OSVČ. Výhody, podmínky a daňové aspekty přehledně na jednom místě.</p>
-    Updated: 2026-10-23T07:04:31Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: ak funguje operativní leasing pro podnikatele, leasing pro živnostníky podmínky, operativní leasing daňové výhody, operativní leasing podnikatelé zkušenosti, operativní leasing pro firmy, operativní leasing pro OSVČ, Pro firmy a OSVČ, rozdíl mezi firmou a živnostníkem u leasingu, výhody operativního leasingu pro firmy, výhody operativního leasingu pro OSVČ
   - [Hyundai i30 GO Czech: limitovaná edice s českou duší](https://www.driveto.cz/blogs/clanky/hyundai-i30-go-czech-limitovan-edice-s-ceskou-dusi): <p><meta charset="utf-8">Hyundai přišel s edicí, která potěší každého, kdo hledá dobře vybavený a praktický vůz za rozumnou cenu. <a href="https://www.driveto.cz/products/hyundai-i30-family-fl-1-0-t-gdi-74kw-natural-95-automaticka-prevodovka" title="i30 go czech"><strong data-start="458" data-end="474">i30 GO Czech</strong></a> je limitovaná série, která vznikla přímo pro náš trh - a protože se i30 vyrábí v Nošovicích, dá se říct, že má opravdu český základ.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: go czech, Hyuindai, i30 go czech, Výběr auta
   - [Nejčastější poplatky u operativního leasingu: na co si dát pozor](https://www.driveto.cz/blogs/clanky/nejcastejsi-poplatky-u-operativniho-leasingu-na-co-si-dat-pozor): <p><meta charset="utf-8">Operativní leasing si získává stále větší oblibu. Je pohodlný, nemusíte řešit pojištění, servis ani prodej vozu a každý měsíc platíte jen jednu jasně danou splátku. Přesto má mnoho zájemců obavy z možných <strong data-start="451" data-end="472">skrytých poplatků</strong>. Čeho se vyvarovat a na co si dát při sjednávání smlouvy pozor?</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák
   - [Je to drahé a nesmím do zahraničí aneb Nejčastější mýty o operativním leasingu](https://www.driveto.cz/blogs/clanky/je-to-drahe-a-nesmim-do-zahranici-aneb-nejcastejsi-myty-o-operativnim-leasingu): <p data-start="140" data-end="557"><strong data-start="140" data-end="191">Operativní leasing už dávno není jen pro firmy.</strong> Stále víc lidí v Česku objevuje jeho výhody - žádná akontace, jasné měsíční náklady a nové auto bez starostí. Přesto kolem něj koluje řada mýtů. Mnozí si myslí, že je drahý, složitý nebo že s autem nelze vycestovat do zahraničí. Pravda je ale přesně opačná - operativní leasing je dnes jednoduchý, výhodný a otevřený všem, kdo chtějí jezdit moderně a bez závazků.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, obavy operativni leasing, operativni leasing, operativni leasing myty
   - [Auta s nejnižší spotřebou: přehled modelů, které šetří vaši peněženku i planetu](https://www.driveto.cz/blogs/clanky/auta-s-nejnizsi-spotrebou-prehled-modelu-ktere-setri-vasi-penezenku-i-planetu)
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: auta s nejnižší spotřebou, auta s nízkou spotřebou, auto do města s malou spotřebou, auto s nejnižší spotřebou, levná auta s nízkou spotřebou, ojetá auta s nejnižší spotřebou, tabulka spotřeby aut, úsporná auta 2025, Výběr auta
   - [5 tipů, jak jezdit úsporně a šetřit palivo v praxi](https://www.driveto.cz/blogs/clanky/5-tipu-jak-jezdit-usporne-a-setrit-palivo-v-praxi): <p data-start="140" data-end="415">Ceny benzínu a nafty rostou a každá kapka se počítá. Dobrou zprávou ale je, že úspory nemusí nutně začínat u nádrže, ale u vašeho stylu jízdy. Správné návyky za volantem mohou snížit spotřebu paliva klidně o desítky procent – a to bez složitých triků nebo drahých investic.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Rady pro řidiče
   - [Počet najetých kilometrů: proč je důležitý a jak ho zjistit](https://www.driveto.cz/blogs/clanky/pocet-najetych-kilometru-proc-je-dulezity-a-jak-ho-zjistit): <p data-start="4370" data-end="4522">Zjistěte, jak zjistit skutečný počet najetých kilometrů, jak funguje kontrola tachometru a jak si správně nastavit roční nájezd u operativního leasingu.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, jak zjistit počet najetých kilometrů, kontrola tachometru, leasing dle počtu kilometrů, najeté kilometry, nastavení nájezdu km, průměrný nájezd km za rok, stočený tachomet
   - [Krátkodobý pronájem nebo operativní leasing: jaký je mezi nimi rozdíl a co se vyplatí](https://www.driveto.cz/blogs/clanky/kratkodoby-pronajem-nebo-operativni-leasing-jaky-je-mezi-nimi-rozdil-a-co-se-vyplati): <p><meta charset="utf-8">Potřebujete auto, ale nechcete ho vlastnit? Dnes už není nutné kupovat vůz za stovky tisíc. Díky možnostem, jako je <strong data-start="545" data-end="573">krátkodobý pronájem auta</strong> nebo <strong data-start="579" data-end="601">operativní leasing</strong>, si můžete vybrat řešení přesně podle svých potřeb.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: dlouhodobý leasing, dlouhodobý pronájem aut, flexibilní operativní leasing, Jak funguje operák, krátkodobý operativní leasing, krátkodobý pronájem auta, leasing vs pronájem, operativní leasing, pronájem auta na měsíc
   - [Co znamenají kontrolky v autě: přehled všech symbolů a jejich význam](https://www.driveto.cz/blogs/clanky/co-znamenaji-kontrolky-v-aute-prehled-vsech-symbolu-a-jejich-vyznam)
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: Údržba a péče
   - [Od kdy může mít dítě podsedák do auta a jaká jsou pravidla pro dětské autosedačky](https://www.driveto.cz/blogs/clanky/od-kdy-muze-mit-dite-podsedak-do-auta-a-jaka-jsou-pravidla-pro-detske-autosedacky)
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:44Z
     Author: Jakub Dvoracek
     Tags: dětská autosedačka, dětský podsedák do auta, do kdy musí mít dítě podsedák, kdy mohu použít podsedák do auta, kdy může dítě na podsedák, od kdy může mít dítě podsedák, podsedák do auta, podsedák do auta od kdy, Rady pro řidiče
   - [CUPRA Ateca: sportovní SUV s charakterem. A teď dostupná i v nabídce Driveto](https://www.driveto.cz/blogs/clanky/cupra-ateca-sportovni-suv-s-charakterem-a-ted-dostupna-i-v-nabidce-driveto): <p data-start="646" data-end="849">CUPRA Ateca 1.5 TSI přináší ideální kombinaci sportovního stylu, výkonu a praktičnosti. Nyní ji můžete mít na operativní leasing od 5 435 Kč bez DPH. Skladem a ihned k dispozici.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: Cupra Ateca, leasing, operativni leasing, Výběr auta
   - [Kdy a jak přezout pneumatiky: praktický přehled pro auta nejen na operák](https://www.driveto.cz/blogs/clanky/kdy-a-jak-prezout-pneumatiky-prakticky-prehled-pro-auta-nejen-na-operak): <p><meta charset="utf-8">Přezouvání pneumatik není jen sezónní nutnost, ale otázka bezpečí. Víte, <strong data-start="210" data-end="244">kdy přezout auto na zimní gumy</strong> a kdy se vrátit k letním? Povinnost zimních pneumatik platí od 1. listopadu, ale skutečné rozhodnutí by se mělo řídit teplotou, ne kalendářem. Podívejte se, jak správně načasovat přezutí – a proč se to vyplatí nejen u aut na operák, ale i u těch vlastních.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: Údržba a péče
   - [Povinná výbava auta 2025: Co musíte mít v autě podle zákona v ČR i v zahraničí](https://www.driveto.cz/blogs/clanky/povinna-vybava-auta-2025-co-musite-mit-v-aute-podle-zakona-v-cr-i-v-zahranici): <p><meta charset="utf-8">Povinná výbava auta 2025 přehledně: co musíte mít v autě v Česku, Rakousku, Německu, Slovensku a Polsku. Aktuální pravidla, srovnávací tabulky a tipy, jak se vyhnout pokutě.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: Rady pro řidiče
   - [Jak používat mlhovky: kdy, jak a proč je zapínat](https://www.driveto.cz/blogs/clanky/jak-pouzivat-mlhovky-kdy-jak-a-proc-je-zapinat): <p><meta charset="utf-8">Kdy zapnout mlhovky, jak poznat symboly na palubní desce a proč se zadní mlhovky nesmí používat ve městě. Praktický přehled pravidel a vyhlášek o používání mlhových světel.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: jak zapnout mlhovky, kdy zapnout mlhovky, mlhová světla, mlhovky, Rady pro řidiče, zadní mlhová světla, zadní mlhovky symbol
   - [Jak umýt auto v ruční myčce: správný postup krok za krokem](https://www.driveto.cz/blogs/clanky/jak-umyt-auto-v-rucni-mycce-spravny-postup-krok-za-krokem): <p class="p1">Jak umýt auto v samoobslužné myčce krok za krokem: pěna i první oplach odspodu nahoru, finální mytí a sušení shora dolů. Praktický návod pro dokonale čisté auto bez poškození laku.</p>
-    Updated: 2026-10-23T09:13:08Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: bezkontaktní myčka, jak umýt auto v myčce, myčka, ruční myčka, samoobslužná myčka, Údržba a péče
   - [Za jak dlouho vyprchá alkohol a kdy můžu řídit](https://www.driveto.cz/blogs/clanky/za-jak-dlouho-vyprcha-alkohol-a-kdy-muzu-ridit): <p class="p1">Za jak dlouho vyprchá alkohol a kdy můžete řídit? Přehledná tabulka podle typu piva, váhy a pohlaví. Jaká je tolerance alkoholu v sousedních zemích a proč pomůže jen čas.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: kdy můžu řídit, Rady pro řidiče, za jak dlouho vyprchá jedno pivo, za jak dlouho vyprchá malé pivo, za jak dlouho vyprchá pivo, za jak dlouho vyprchá pivo 12, za jak dlouho vyprchá velké pivo
   - [Jak jezdit s automatem v zimě: tipy, které vám ušetří starosti i pneumatiky](https://www.driveto.cz/blogs/clanky/jak-jezdit-s-automatem-v-zime-tipy-ktere-vam-usetri-starosti-i-pneumatiky): <p class="p1">Jak jezdit s automatem v zimě? Zimní režim SNOW, jemná práce s plynem, brzdění motorem i reakce na smyk. Kompletní návod, jak zvládnout jízdu s automatem na sněhu bezpečně a s přehledem.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: automat vs manuál, jak jezdit s automatem v zimě, jak řídit automat, jak se řídí automat, jízda na sněhu s automatem, jízda s automatem, přetáčivý smyk, Rady pro řidiče
   - [Jak na zamlžená okna v autě: Proč se mlží skla a jak je rychle odmlžit](https://www.driveto.cz/blogs/clanky/jak-na-zamlzena-okna-v-aute-proc-se-mlzi-skla-a-jak-je-rychle-odmlzit): <p data-start="5707" data-end="5887">Proč se mlží skla v autě a jak je rychle odmlžit? Kompletní návod od příčin až po dlouhodobé řešení. Vysvětlujeme, jak pracovat s ventilací, klimatizací i sprejem proti zamlžování.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: jak odmlžit auto, mlžení čelního skla, operativní leasing, Údržba a péče, zamlžování oken v autě
   - [Komu se vyplatí operativní leasing? Kompletní vysvětlení](https://www.driveto.cz/blogs/clanky/komu-se-vyplati-operativni-leasing-kompletni-vysvetleni): <p data-start="1600" data-end="1923">Operativní leasing je dnes jedním z nejpohodlnějších způsobů, jak mít nové auto bez starostí. Vysvětlujeme, jak funguje, komu se vyplatí a v čem může být výhodnější než koupě auta - zejména pokud nechcete platit akontaci, chcete předvídatelné náklady a preferujete možnost jezdit v lepším voze za dostupnou měsíční splátku.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, jak vybrat auto, koupě vs operativni leasing, operativní leasing, výhody operativního leasingu
   - [Co je to fleet management?](https://www.driveto.cz/blogs/clanky/co-je-to-fleet-management): <p data-start="297" data-end="741">Správa vozového parku - neboli fleet management - patří mezi klíčové oblasti každé firmy, která provozuje služební auta. Ať už jde o malé podnikání se dvěma vozy nebo velkou firmu s desítkami aut, efektivní fleet management rozhoduje o bezpečnosti řidičů, nákladech na provoz i spolehlivosti firemní mobility. V tomto článku vysvětlujeme, co to fleet management je, jak funguje a proč ho dnes stále více firem propojuje s operativním leasingem.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: fleet management, fleet manager, Pro firmy a OSVČ, vozový park
   - [Vrácení vozu z operativního leasingu: Jak to probíhá, na co si dát pozor a jak funguje odkup auta](https://www.driveto.cz/blogs/clanky/vraceni-vozu-z-operativniho-leasingu-jak-to-probiha-na-co-si-dat-pozor-a-jak-funguje-odkup-auta): <p data-start="426" data-end="788">Vrácení vozu z operativního leasingu je jednoduché, pokud víte, co očekávat. V článku vysvětlujeme, jak celý proces probíhá, co je potřeba před vrácením zkontrolovat, jak funguje odkup auta po operáku a jaké mohou být sankce za předčasné ukončení operativního leasingu. Součástí je i tabulka běžného a nadměrného opotřebení, aby vás při vrácení nic nepřekvapilo.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, poplatky při vrácení auta, vrácení auta po operáku, vrácení auta po operativním leasingu
   - [Malá auta s automatem: Kdy dávají smysl a jak vybrat to nejlepší](https://www.driveto.cz/blogs/clanky/mala-auta-s-automatem-kdy-davaji-smysl-a-jak-vybrat-to-nejlepsi): <p data-start="282" data-end="598">Malá auta s automatickou převodovkou jsou čím dál oblíbenější, zejména ve městě. Nabízejí snadné ovládání, nízkou spotřebu a pohodlí v kolonách. V článku se podíváme na to, kdy se malé auto s automatem vyplatí, jaké jsou jeho hlavní výhody a proč se tato kategorie často pojí s operativním leasingem neboli operákem.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:10:45Z
     Author: Jakub Dvoracek
     Tags: auto do města, automat, automat na operák, malé auto s automatem, Výběr auta
   - [Jak správně jezdit v jízdních pruzích: dopravní značky, pruhy na silnici a pruh pro pomalá vozidla](https://www.driveto.cz/blogs/clanky/jak-spravne-jezdit-v-jizdnich-pruzich-dopravni-znacky-pruhy-na-silnici-a-pruh-pro-pomala-vozidla): <p data-start="404" data-end="646">Jízdní pruhy na silnici mají jasná pravidla, která ale mnoho řidičů nedodržuje. Kdy musíte jet v pravém pruhu, co je pruh pro pomalá vozidla a jakou roli hrají dopravní značky? Přehledné vysvětlení, které pomůže jezdit plynuleji a bezpečněji.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: dopravní značky, jízda v jízdních pruzích, jízdní pruhy, Rady pro řidiče
   - [Na co si dát pozor při koupi ojetého auta](https://www.driveto.cz/blogs/clanky/na-co-si-dat-pozor-pri-koupi-ojeteho-auta): <p data-start="619" data-end="964">Koupě ojetého auta může ušetřit peníze, ale zároveň s sebou nese rizika, která se mohou rychle prodražit. V článku se dozvíte, na co si dát pozor při koupi auta, jak vybrat ojeté auto, kde ho bezpečně pořídit a jak celý proces zvládnout bez zbytečných chyb. Nechybí ani srovnání koupě ojetého vozu s operativním leasingem.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: koupě ojetého auta, ojetina vs operák, Rady pro řidiče
   - [Na co si dát pozor při koupi ojetého auta](https://www.driveto.cz/blogs/clanky/koupe-ojeteho-auta): <p data-start="312" data-end="565">Koupě ojetého vozu může ušetřit peníze, ale skrývá i řadu rizik. Zjistěte, na co si dát pozor při koupi ojetého auta, jak vybrat správný vůz, kde ojeté auto koupit a jak celý proces zvládnout bez zbytečných chyb.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: auto z bazaru, koupě ojetého auta, Rady pro řidiče
   - [Co je to operák a jak funguje operativní leasing v roce 2026](https://www.driveto.cz/blogs/clanky/operativn-leasing-v-roce-2026): <p data-start="172" data-end="453">Operativní leasing, často označovaný jako operák, je moderní způsob, jak jezdit autem bez nutnosti ho vlastnit. V článku se dozvíte, co je to operák, jak funguje operativní leasing v roce 2026, co obvykle obsahuje a pro koho se vyplatí. Nechybí ani přehledné srovnání s koupí auta.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operák, operativní leasing
   - [Je operativní leasing výhodný? Výhody a nevýhody](https://www.driveto.cz/blogs/clanky/vyhody-nevyhody-operativni-leasing): <p data-start="172" data-end="420">Je operativní leasing výhodný, nebo se vyplatí auto raději koupit? V článku se podíváme na výhody a nevýhody operativního leasingu, porovnáme ho s vlastnictvím auta a vysvětlíme, proč pokles hodnoty vozu může být vyšší než náklady na jeho pronájem.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, výhody a nevýhody operativního leasingu
   - [Operativní leasing nebo úvěr? Praktické srovnání dvou cest k autu](https://www.driveto.cz/blogs/clanky/operativni-leasing-nebo-uver): <p data-start="4808" data-end="5002">Operativní leasing nebo úvěr? Praktické srovnání dvou nejčastějších cest k autu z pohledu nákladů, flexibility a rizik. Zjistěte, kdy se vyplatí operativní leasing a kdy dává smysl auto na úvěr.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operák vs vlastnictví, operativni leasing, úvěr
   - [Rozdíl mezi operativním a finančním leasingem](https://www.driveto.cz/blogs/clanky/operativni-vs-financni-leasing): <p data-start="4943" data-end="5135">Jaký je rozdíl mezi operativním a finančním leasingem? Přehledné vysvětlení dvou typů leasingu, jejich principů, nákladů a situací, kdy dává smysl zvolit operativní nebo finanční leasing auta.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: finanční leasing, Jak funguje operák, operák, operativní leasing
   - [Kolik stojí operativní leasing a co ovlivňuje jeho cenu](https://www.driveto.cz/blogs/clanky/kolik-stoji-operativni-leasing): <p data-start="4447" data-end="4618">Kolik stojí operativní leasing a co všechno ovlivňuje jeho cenu? Přehledné vysvětlení nákladů operáku, faktorů, které formují měsíční splátku, a rozdílů oproti koupi auta.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: finance, Jak funguje operák, operák, operativní leasing
   - [Jak se počítá operativní leasing: výpočet splátky krok za krokem](https://www.driveto.cz/blogs/clanky/jak-se-pocita-operativni-leasing): <p data-start="987" data-end="1188">Jak se počítá operativní leasing a co má největší vliv na výši splátky? Přehledné vysvětlení výpočtu leasingu krok za krokem, faktorů, které hýbou cenou operáku, a tipů, jak nabídky správně porovnávat.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operák, operativní lesing, výpočet
   - [Co obsahuje operativní leasing a co je zahrnuto ve splátce](https://www.driveto.cz/blogs/clanky/co-obsahuje-splatka-operaku): <p data-start="166" data-end="383">Co obsahuje operativní leasing a jaké služby mohou být součástí měsíční splátky? Přehledně vysvětlujeme, co je zahrnuto v operativním leasingu, co záleží na zvolené nabídce a na které náklady je potřeba myslet zvlášť.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: co je součástí operativního leasingu, Jak funguje operák, operák, operativní leasing
   - [Kolik stojí provoz auta na operativní leasing](https://www.driveto.cz/blogs/clanky/kolik-stoji-provoz-auta-na-operak): <p data-start="170" data-end="367">Kolik stojí provoz auta na operativní leasing a jaké náklady je potřeba započítat? Praktický pohled na reálné měsíční náklady, služby ve splátce a ekonomiku operáku v porovnání s vlastnictvím auta.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák
   - [Jak ušetřit na operativním leasingu a nesnížit komfort](https://www.driveto.cz/blogs/clanky/jak-usetrit-na-operaku): <p data-start="4721" data-end="4905">Jak ušetřit na operativním leasingu bez ztráty komfortu? Praktické tipy, jak snížit splátku, nastavit nájezd kilometrů, vybrat správné služby a dosáhnout levného operativního leasingu.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, jak ušetřit, operák, operativní lesing
   - [Operativní leasing a pojištění: jak funguje a na co si dát pozor](https://www.driveto.cz/blogs/clanky/operativni-leasing-a-pojisteni): <p data-start="4570" data-end="4747">Operativní leasing s pojištěním nabízí jednoduché řešení povinného ručení a havarijního pojištění ve splátce. Vysvětlujeme, jak pojištění v operáku funguje a na co si dát pozor.</p>
-    Updated: 2026-10-23T09:13:09Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: hav, Jak funguje operák, pojištění, pojistka, pov
   - [Operativní leasing bez registru: je to vůbec možné?](https://www.driveto.cz/blogs/clanky/operativni-leasing-bez-registru-je-to-vubec-mozne): <p data-start="4165" data-end="4342">Operativní leasing bez registru je časté vyhledávání, ale realita je složitější. Vysvětlujeme, jak funguje schvalování, leasing bez nahlížení do registru a co je skutečně možné.</p>
-    Updated: 2026-10-23T09:13:10Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operák, operativní leasing
   - [Jak vrátit auto z operativního leasingu a na co si dát pozor](https://www.driveto.cz/blogs/clanky/jak-vratit-auto-z-operaku): <p data-start="4587" data-end="4754">Jak vrátit auto z operativního leasingu krok za krokem. Co se kontroluje, kdy vznikají poplatky při vrácení auta z operativního leasingu a jak se připravit bez stresu.</p>
-    Updated: 2026-10-23T09:13:10Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operativní leasing, vrácení auta
   - [Poplatky při vrácení auta z operativního leasingu: co se skutečně kontroluje](https://www.driveto.cz/blogs/clanky/poplatky-pri-vraceni-auta-z-operaku): <p data-start="4131" data-end="4304">Poplatky při vrácení auta z operativního leasingu nejsou automatické. Vysvětlujeme, co se stane při vrácení auta z operativního leasingu a jak probíhá kontrola auta leasing.</p>
-    Updated: 2026-10-23T09:13:10Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operativní leasing, vrácení auta po operáku, vrácení auta po operativním leasingu
   - [Jaké auto na operativní leasing vybrat podle životního stylu](https://www.driveto.cz/blogs/clanky/jak-vybrat-auto-na-operak): <p data-start="4669" data-end="4822">Jaké auto na operativní leasing vybrat podle životního stylu? Pomůžeme vám rozhodnout podle nájezdu kilometrů, rozpočtu, rodinných potřeb i typu provozu.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Výběr auta
   - [Nejlevnější auta na operativní leasing: jak vybrat chytře](https://www.driveto.cz/blogs/clanky/nejlevnejsi-operativni-leasing): <p data-start="4620" data-end="4765">Nejlevnější auta na operativní leasing nejsou jen o nízké splátce. Vysvětlujeme, jak vybrat levný operativní leasing chytře a na co si dát pozor.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: nejlevnější operák, nejlevnější operativní leasing, operativní leasing, Výběr auta
   - [Operativní leasing pro rodinu: jak vybrat praktické rodinné auto](https://www.driveto.cz/blogs/clanky/operativni-leasing-pro-rodinu): <p data-start="5401" data-end="5580">Operativní leasing pro rodinu může být praktickou cestou k bezpečnému a prostornému autu bez vysoké počáteční investice. Poradíme, jak vybrat rodinné auto podle potřeb domácnosti.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: auto pro rodinu, kombi, operativni leasing, operativni leasing pro rodinu, suv, Výběr auta
   - [Nejlevnější operativní leasing v Česku: jak ho najít a na co si dát pozor](https://www.driveto.cz/blogs/clanky/nejlevnejsi-operak): <p data-start="4823" data-end="4967">Jak najít nejlevnější operativní leasing v Česku? Vysvětlujeme, co ovlivňuje cenu leasingu, jak správně porovnávat nabídky a na co si dát pozor.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák
   - [Škoda Octavia na operativní leasing: proč je stále jednou z nejoblíbenějších voleb](https://www.driveto.cz/blogs/clanky/skoda-octavia-na-operativni-leasing): <p data-start="4888" data-end="5031">Škoda Octavia na operativní leasing patří mezi nejoblíbenější volby v Česku. Vysvětlujeme proč, pro koho se hodí a jak ovlivňuje cena leasingu.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Výběr auta
   - [Operativní leasing ojetého auta: jak funguje a kdy dává smysl](https://www.driveto.cz/blogs/clanky/operativni-leasing-ojeteho-auta): <p data-start="5307" data-end="5436">Operativní leasing ojetého auta může nabídnout nižší splátku než leasing nového vozu. Vysvětlujeme, jak funguje a kdy se vyplatí.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operativni leasing
   - [Operativní leasing zkušenosti: co říkají řidiči po několika letech používání](https://www.driveto.cz/blogs/clanky/operativni-leasing-zkusenost): <p data-start="5528" data-end="5654">Jaké jsou skutečné operativní leasing zkušenosti? Shrnutí výhod, nevýhod a reálného fungování operáku podle zkušeností řidičů.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák
   - [Povinná výbava auta 2026: co musíte mít v autě podle zákona](https://www.driveto.cz/blogs/clanky/povinna-vybava-2026): <p data-start="4196" data-end="4331">Povinná výbava auta 2026 v České republice - přehled toho, co musí být ve vozidle podle zákona a jaké vybavení se doporučuje mít navíc.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: Rady pro řidiče
   - [Jak nastartovat auto přes kabely: bezpečný postup krok za krokem](https://www.driveto.cz/blogs/clanky/jak-nastartovat-auto-pres-kabely): <p data-start="4827" data-end="4949">Jak nastartovat auto přes kabely krok za krokem. Bezpečný postup připojení startovacích kabelů a rady, na co si dát pozor.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:00Z
     Author: Jakub Dvoracek
     Tags: startovani pres kabely, Údržba a péče, vybita baterie
   - [Nejlepší auta do města: jak vybrat ideální městské auto](https://www.driveto.cz/blogs/clanky/nejlepsi-auta-do-mesta): <p data-start="4337" data-end="4475">Nejlepší auta do města podle velikosti, pohonu a praktičnosti. Poradíme, jak vybrat ideální městské auto a proč zvolit operativní leasing.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: auto do města, auto do města s malou spotřebou, operák, Výběr auta
   - [Jak dlouho vydrží autobaterie a kdy ji vyměnit](https://www.driveto.cz/blogs/clanky/jak-dlouho-vydrzi-autobaterie): <p data-start="4260" data-end="4394">Jak dlouho vydrží autobaterie a co ovlivňuje její životnost? Přehled příznaků, kdy baterii vyměnit a jak ji udržet co nejdéle funkční.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: autobaterie, startovani auta, Údržba a péče
   - [Operativní leasing bez akontace: jak funguje a proč je to standard](https://www.driveto.cz/blogs/clanky/operativni-leasing-bez-akontace): <p data-start="5512" data-end="5654">Operativní leasing bez akontace umožňuje jezdit novým autem bez počáteční investice. Vysvětlujeme, jak funguje a jak je to v praxi na Driveto.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: akontace, Jak funguje operák, koupě vs operativni leasing, operativní leasing
   - [Jak poznat špatnou spojku: příznaky, které nepřehlédnete](https://www.driveto.cz/blogs/clanky/jak-poznat-spatnou-spojku-priznaky-ktere-neprehlednete)
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: servis auta, spojka, Údržba a péče
   - [Jak zjistit historii ojetého auta: na co si dát pozor před koupí](https://www.driveto.cz/blogs/clanky/jak-zjistit-historii-ojeteho-auta): <p data-start="4325" data-end="4446">Jak zjistit historii ojetého auta pomocí VIN kódu a na co si dát pozor při kontrole kilometrů, nehod a servisní historie.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: ojetina vs operak, Rady pro řidiče
   - [Nejlepší rodinné SUV do 8 000 Kč: jak vybrat ideální auto pro rodinu](https://www.driveto.cz/blogs/clanky/nejlepsi-rodinne-suv-do-8-000-kc): <p data-start="4347" data-end="4461">Nejlepší rodinné SUV do 8 000 Kč měsíčně. Poradíme, jak vybrat ideální auto pro rodinu a ukážeme aktuální nabídku.</p>
-    Updated: 2026-10-23T07:04:27Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: operativni leasing, rodinne auto, suv, Výběr auta
   - [Jak probíhá schválení operativního leasingu krok za krokem](https://www.driveto.cz/blogs/clanky/jak-probiha-schvaleni-operativniho-leasingu): <p data-start="4719" data-end="4822">Jak probíhá schválení operativního leasingu krok za krokem. Přehled procesu, doby schválení a podmínek.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, schválení operáku, scoring
   - [Jak často měnit olej: kdy je správný čas na výměnu motorového oleje](https://www.driveto.cz/blogs/clanky/jak-casto-menit-olej): <p><meta charset="utf-8">Jak často měnit olej v autě a co ovlivňuje interval výměny. Praktický přehled pro delší životnost motoru.</p>
-    Updated: 2026-10-23T09:13:25Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: operák, Údržba a péče, údržba auta, výměna oleje
   - [Nejlepší auto pro začínající řidiče: jak vybrat první auto bez zbytečných chyb](https://www.driveto.cz/blogs/clanky/jak-vybrat-prvni-auto): <p><meta charset="utf-8">Nejlepší auto pro začínající řidiče - na co se zaměřit při výběru prvního auta a proč může být zajímavou alternativou i operativní leasing.</p>
-    Updated: 2026-10-23T07:04:27Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: jak vybrat auto, prvni auto, Výběr auta
   - [Co dělat, když píchnete pneumatiku: praktický postup krok za krokem](https://www.driveto.cz/blogs/clanky/jak-vymenit-pneu): <p><meta charset="utf-8">Co dělat, když píchnete pneumatiku? Praktický návod krok za krokem, jak bezpečně zastavit, vyřešit defekt a kdy raději zavolat asistenci.</p>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: Údržba a péče, výměna pneu
   - [Operativní leasing pro OSVČ: jak funguje a kdy se podnikatelům vyplatí](https://www.driveto.cz/blogs/clanky/operativni-leasing-pro-osvc): <p><meta charset="utf-8">Operativní leasing pro OSVČ - jak funguje, co potřebujete ke schválení a proč dnes podnikatelé často volí právě operák místo koupě auta.</p>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: operák pro osvč, operativní leasing OSVČ, operativní leasing v podnikání, Pro firmy a OSVČ, schválení operativního leasingu pro OSVČ
   - [Kompletní průvodce: Nejlevnější operativní leasing 2026 a jak ušetřit na rodinném SUV](https://www.driveto.cz/blogs/clanky/nejlevnejsi-oprativni-leasing-2026): <p data-start="87" data-end="360">Hledáte nejlevnější operativní leasing rodinného SUV pro rok 2026? Zjistěte, co opravdu ovlivňuje výši splátky, proč může být operativní leasing levnější než úvěr a jak vybrat rodinné SUV, které bude výhodné nejen na papíře, ale i v běžném provozu.</p>
 <p data-start="362" data-end="551" data-is-last-node="" data-is-only-node=""> </p>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, nejlevnejsi operak, nejlevnejsi operativni leasing
   - [Operativní leasing do 8 000 Kč a 10 000 Kč: jaké auto dnes můžete získat?](https://www.driveto.cz/blogs/clanky/operativni-leasing-do-8-000-kc-a-10-000-kc): <p data-start="5589" data-end="5763">Jaké auto můžete získat na operativní leasing do 8 000 Kč nebo do 10 000 Kč měsíčně? Podívejte se na aktuální možnosti, faktory ovlivňující splátku a nabídku vozů na Driveto.</p>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-30T08:55:58Z
     Author: Jakub Dvoracek
     Tags: operak do 10000, operak do 8000, Výběr auta
   - [Kolik stojí servis auta ročně? Kompletní přehled nákladů na údržbu vozu](https://www.driveto.cz/blogs/clanky/kolik-stoji-servis-auta-rocne): <p data-start="6033" data-end="6187">Kolik stojí servis auta ročně? Podívejte se na přehled běžných servisních nákladů, skrytých výdajů a zjistěte, proč může být servis dražší, než očekáváte.</p>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: servis, servisní náklady, Údržba a péče
   - [Koupit, nebo pronajmout? Operativní leasing ušetří desítky tisíc ročně](https://www.driveto.cz/blogs/clanky/koupit-nebo-pronajmout-operativni-leasing): <div class="qMYqUG_convSearchResultHighlightRoot">
@@ -2147,7 +2126,7 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
 </section>
 </div>
 </div>
-    Updated: 2026-10-23T09:13:26Z
+    Updated: 2026-10-27T14:11:11Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, operativní leasing, Škoda Kodiaq, srovnání leasing vs koupě
   - [Toyota C-HR na operativní leasing: stylové plug-in hybridní SUV, které se nebojí být jiné](https://www.driveto.cz/blogs/clanky/toyota-c-hr-na-operativni-leasing): <p data-start="8466" data-end="8696">Toyota C-HR patří mezi nejvýraznější plug-in hybridní SUV současnosti. Automobilový expert Jakub Urban hodnotí její design, jízdní vlastnosti, spotřebu i praktičnost a představuje aktuální nabídky na operativní leasing od Driveto.</p>
@@ -2216,6 +2195,11 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
     Updated: 2026-10-23T09:07:59Z
     Author: Jakub Dvoracek
     Tags: Jak funguje operák, Operativní leasing, Operativní leasing bez akontace, operativní leasing pro firmy, operativní leasing pro OSVČ, Podmínky operativního leasingu, Schválení operativního leasingu
+  - [Dlouhodobý pronájem auta vs. operativní leasing: Co se více vyplatí?](https://www.driveto.cz/blogs/clanky/dlouhodoby-pronajem-auta-vs-operativni-leasing-co-se-vice-vyplati): <p dir="ltr"><span>Dlouhodobý pronájem auta nebo operativní leasing? Porovnejte ceny, délku pronájmu, služby a výhody obou možností. Zjistěte, co se více vyplatí.</span></p>
+<p> </p>
+    Updated: 2026-10-30T14:31:19Z
+    Author: Jakub Dvoracek
+    Tags: Dlouhodobý pronájem auta, Dlouhodobý pronájem vozu, Jak funguje operák, Pro firmy a OSVČ
 
 ## Store Pages
 
@@ -2267,6 +2251,38 @@ Operativní leasing je forma financování vozidel, kde klient platí měsíčn�
   Updated: 2026-09-23T09:07:18Z
 - [Nabídka ušitá na míru](https://www.driveto.cz/pages/mojenabidka)
   Updated: 2026-09-09T12:33:56Z
+- [Operativní leasing hybrid: plný i plug-in hybrid | Driveto](https://www.driveto.cz/pages/operativni-leasing-hybrid): Operativní leasing hybrid: plný, plug-in i mild hybrid Hybrid na operativní leasing znamená nízkou spotřebu ve městě a jednu pevnou splátku bez ako...
+  Updated: 2026-10-27T01:53:32Z
+- [Dlouhodobý operativní leasing aut | Driveto.cz](https://www.driveto.cz/pages/dlouhodoby-leasing-aut): Dlouhodobý leasing aut: nové auto na 2 až 5 let za pevnou splátku Dlouhodobý leasing aut je pronájem nového auta na několik let za jednu měsíční sp...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing na 6 měsíců (půl roku) | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-na-6-mesicu): Operativní leasing na 6 měsíců: auto na půl roku Potřebujete auto jen na půl roku? Klasický operativní leasing se uzavírá na roky, ale i na kratší ...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing bez omezení km | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-bez-omezeni-km): Operativní leasing bez omezení kilometrů: jak to funguje Hledáte operativní leasing bez omezení km? Úplně neomezené kilometry leasingové společnost...
+  Updated: 2026-10-29T19:28:30Z
+- [Leasing pro začínající podnikatele | Driveto.cz](https://www.driveto.cz/pages/leasing-pro-zacinajici-podnikatele): Operativní leasing pro začínající podnikatele a nové firmy Na začátku podnikání se každá koruna počítá. Operativní leasing pro začínající podnikate...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing pro taxi | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-taxi): Operativní leasing pro taxi: na co si dát pozor Operativní leasing pro taxi je možný, ale neschvaluje ho každá leasingová společnost. Taxi najezdí ...
+  Updated: 2026-10-29T19:28:30Z
+- [Krátkodobý operativní leasing na 3 měsíce | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-na-3-mesice): Operativní leasing na 3 měsíce Potřebujete auto jen na tři měsíce? Třeba než vám dorazí nové, když je to vaše v opravně, nebo na krátký projekt. Op...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing luxusních vozů | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-luxusni-vozy): Operativní leasing luxusních vozů Luxusní auto ztrácí na hodnotě nejrychleji ze všech. Na operativní leasing to ale řešit nemusíte: ztrátu hodnoty ...
+  Updated: 2026-10-29T19:28:30Z
+- [Toyota Corolla kombi na operativní leasing | Driveto.cz](https://www.driveto.cz/pages/toyota-corolla-kombi-operativni-leasing): Toyota Corolla kombi (Touring Sports) na operativní leasing Toyota Corolla kombi, oficiálně Corolla Touring Sports, spojuje velký kufr s úsporným h...
+  Updated: 2026-10-29T19:31:16Z
+- [Operativní leasing do 3000 Kč měsíčně | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-do-3000): Operativní leasing do 3 000 Kč měsíčně: co je reálné Operativní leasing do 3 000 Kč měsíčně je sen mnoha řidičů. Nové auto s pojištěním a servisem ...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing aut pro menší firmu a živnostníky | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-pro-mensi-firmu): Operativní leasing pro menší firmu: od jednoho do deseti aut Menší firma nemá vlastního fleet manažera a o auta se často stará majitel. Operativní ...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing do 4000 Kč měsíčně | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-do-4000): Operativní leasing do 4 000 Kč: nejlevnější auta a co v ceně dostanete Kolem 4 000 Kč měsíčně začínají nejlevnější nová auta na operativní leasing....
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing na malé auto | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-na-male-auto): Operativní leasing na malé auto Malé auto na operativní leasing je nejlevnější cesta k novému autu. Snadno zaparkujete, ve městě má nízkou spotřebu...
+  Updated: 2026-10-29T19:28:30Z
+- [Operativní leasing pro dvě auta najednou | Driveto.cz](https://www.driveto.cz/pages/operativni-leasing-pro-dve-auta): Operativní leasing pro dvě auta Dvě auta do rodiny, dvě služební auta, nebo auto pro sebe a pro zaměstnance. Operativní leasing pro dvě auta funguj...
+  Updated: 2026-10-29T19:28:30Z
+- [Čínská auta na operativní leasing | Driveto.cz](https://www.driveto.cz/pages/cinska-auta-operativni-leasing): Čínská auta na operativní leasing Čínské značky jako MG, Chery nebo Leapmotor nabízejí bohatou výbavu za rozumnou cenu. Na operativní leasing je má...
+  Updated: 2026-10-29T19:28:30Z
+- [Autor Jakub Dvořáček](https://www.driveto.cz/pages/autor-jakub-dvoracek): Kdo je Jakub Dvořáček Jakub Dvořáček je od června 2025 Head of Marketing v Driveto a stará se o obsah našeho blogu. V digitálním marketingu a na so...
+  Updated: 2026-10-29T15:25:05Z
 
 ## Policies
 
