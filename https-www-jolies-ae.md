@@ -9,7 +9,7 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-10-25T12:46:09.706Z
+- Updated At: 2026-11-01T16:45:28.644Z
 
 ## Products
 
@@ -863,7 +863,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TOCOBO-Collagen-Brightening-Eye-Gel-Cream-30-ml-TOCOBO-JOLIE_S-131719610.jpg?v=1724967731
   Price: AED 100.00 AED
 - [SHISEIDO FINO Premium Touch Hair Mask 230 g | JOLIES UAE](https://www.jolies.ae/products/shiseido-fino-hair-mask): Shop SHISEIDO FINO Premium Touch Hair Mask 230 g, an intensive rinse-out conditioning mask for dry, damaged or frizz-prone hair.
-  Updated: 2026-10-25T11:30:21Z
+  Updated: 2026-10-25T23:24:14Z
   Vendor: SHISEIDO FINO
   Product Type: Hair Mask
   Availability: Available
@@ -2661,13 +2661,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Medicube-Collagen-Booster-Set-JOLIE_S-JOLIE_S-200517837.png?v=1749251170
   Price: AED 800.00 AED
-- [CAPIXY Intense Hair Tonic Spray 125ml | JOLIES UAE](https://www.jolies.ae/products/capixy-intense-hair-tonic-spray-125-ml): Shop CAPIXY Intense Hair Tonic Spray 125ml for convenient scalp and hair-care use within your regular routine.
-  Updated: 2026-10-18T16:43:05Z
-  Vendor: CAPIXY
-  Product Type: Hair Tonic
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Capixy-Intense-Tonic-Spray-125ml-JOLIE_S-JOLIE_S-201146468.webp?v=1750956447
-  Price: AED 220.00 AED
 - [EVA Skin Clinic Eye & Lip Makeup Remover | JOLIES UAE](https://www.jolies.ae/products/eva-skin-clinic-collagen-makeup-remover-for-eyes-lips): Shop EVA Skin Clinic Collagen Eyes & Lips Makeup Remover for gentle removal of eye and lip makeup.
   Updated: 2026-10-16T22:08:47Z
   Vendor: EVA
@@ -3032,14 +3025,21 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/X_Care-Professional-Hair-Straightener-230_oC-X-CARE-JOLIE_S-202113373.jpg?v=1753793697
   Price: AED 350.00 AED
-- [CAPIXY Lashes  Serum 10ml | JOLIES UAE](https://www.jolies.ae/products/capixy-lashes--serum-10ml): Shop CAPIXY Lashes  Serum 10ml for convenient cosmetic care of lashes and brows within your regular routine.
-  Updated: 2026-10-17T08:15:26Z
-  Vendor: CAPIXY
-  Product Type: Lash & Brow Serum
+- [EQQUALBERRY Purple Radiance Skincare Duo | JOLIES UAE](https://www.jolies.ae/products/purple-radiance-duo-youth-boosting-skincare-set): Shop the EQQUALBERRY Purple Radiance Duo for a coordinated routine focused on hydration and smoother, brighter-looking skin.
+  Updated: 2026-10-16T22:09:25Z
+  Vendor: EQQUALBERRY
+  Product Type: Anti-Aging Skin Care
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/CAPIXY-LASHES--SERUM-10ML-JOLIE_S-JOLIE_S-202397932.webp?v=1754929372
-  Price: AED 125.00 AED
-[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTkwNzk3Mjk1OTM3LCJsYXN0X3ZhbHVlIjoiOTk5MDc5NzI5NTkzNyJ9)
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Purple-Radiance-Duo-_-Youth-Boosting-Skincare-Set-JOLIE_S-JOLIE_S-202446896.jpg?v=1755199031
+  Price: AED 180.00 AED
+- [EQQUALBERRY Aqua Glow Hydration Duo | JOLIES UAE](https://www.jolies.ae/products/aqua-glow-duo-hydrate-plump-skincare-set): Shop the EQQUALBERRY Aqua Glow Duo for a coordinated routine focused on hydration and plumper, smoother-looking skin.
+  Updated: 2026-10-16T22:09:26Z
+  Vendor: EQQUALBERRY
+  Product Type: Skin Care Kits & Sets
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Aqua-Glow-Duo-_-Hydrate-_-Plump-Skincare-Set-JOLIE_S-JOLIE_S-202446942.jpg?v=1755199436
+  Price: AED 199.00 AED
+[List Continued](https://www.jolies.ae/a/llms-agent/llms.txt?shop=joliesuae.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5OTkyNzE2MDI2MTc3LCJsYXN0X3ZhbHVlIjoiOTk5MjcxNjAyNjE3NyJ9)
 
 ## Collections
 
@@ -3047,10 +3047,10 @@
   Updated: 2026-10-21T11:11:08Z
   Total Products: 30
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-24T11:09:39Z
+  Updated: 2026-10-30T11:09:15Z
   Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-10-21T11:11:08Z
+  Updated: 2026-10-30T11:09:15Z
   Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-10-03T12:14:35Z
@@ -3083,7 +3083,7 @@
   Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-10-24T11:09:39Z
+  Updated: 2026-10-30T11:09:15Z
   Total Products: 513
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
   Updated: 2026-10-21T11:11:08Z
