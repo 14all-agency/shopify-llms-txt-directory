@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-25T00:47:05.252Z
+- Updated At: 2026-11-01T00:54:05.866Z
 
 ## Products
 
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $35.00 USD
 - [The Chainsmokers Grid Long Sleeve Tee](https://store.thechainsmokers.com/products/copy-of-the-chainsmokers-grid-long-sleeve-tee): UnisexMade in U.S.A.Los Angeles Apparel6.5oz100% Cotton
-  Updated: 2026-10-11T22:29:13Z
+  Updated: 2026-10-29T02:50:32Z
   Vendor: The Chainsmokers
   Product Type: Apparel
   Availability: Available
@@ -389,7 +389,7 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSECHOHAT-2.png?v=1778253458
   Price: $35.00 USD
 - [Stamp Long Sleeve](https://store.thechainsmokers.com/products/stamp-long-sleeve): The Chainsmokers Stamp Long Sleeve in black with front and back print. 100% Cotton
-  Updated: 2026-10-05T13:01:59Z
+  Updated: 2026-10-27T01:53:33Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -434,7 +434,7 @@
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-10-20T19:06:04Z
+  Updated: 2026-10-29T11:03:00Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
   Updated: 2026-10-17T11:02:31Z
@@ -443,7 +443,7 @@
   Updated: 2026-10-17T11:02:31Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-10-20T19:06:04Z
+  Updated: 2026-10-29T11:03:00Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
   Updated: 2026-10-18T11:02:18Z
@@ -461,7 +461,7 @@
   Updated: 2026-10-20T19:06:04Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-10-20T19:06:04Z
+  Updated: 2026-10-29T11:03:00Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
   Updated: 2026-10-20T19:06:03Z
@@ -473,7 +473,7 @@
   Updated: 2026-09-02T11:02:54Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-10-20T19:06:04Z
+  Updated: 2026-10-27T11:01:47Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-10-15T11:03:19Z
@@ -485,7 +485,7 @@
   Updated: 2026-10-12T11:02:19Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-10-20T19:06:02Z
+  Updated: 2026-10-27T11:01:47Z
   Total Products: 3
 
 ## Store Pages
