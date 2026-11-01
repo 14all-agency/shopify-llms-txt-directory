@@ -6,12 +6,12 @@
 - Timezone: America/Puerto_Rico
 - Created At: 2024-12-03T23:42:43Z
 - Contact Email: carkoprllc@gmail.com
-- Updated At: 2026-10-25T00:45:42.503Z
+- Updated At: 2026-11-01T01:14:18.682Z
 
 ## Products
 
 - [Reset CARPRO Shampoo pH Neutro - Carko](https://carkollc.com/products/reset-car-wash): Shampoo concentrado de pH neutro con espuma y lubricación para lavar tu auto y mantener recubrimientos cerámicos. Disponible en Puerto Rico.
-  Updated: 2026-10-23T02:34:22Z
+  Updated: 2026-10-29T18:07:26Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -25,11 +25,11 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Reset_Carpro.webp?v=1790106248
     Price: $28.99 USD
   - [4L](https://carkollc.com/products/reset-car-wash?variant=47901257564390)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Reset_carpro_1a91a4f1-8e88-41d9-ae64-707c198f49f6.jpg?v=1790106292
     Price: $89.99 USD
 - [CARPRO ECH2O | Limpiador sin agua y quick detailer | Carko](https://carkollc.com/products/ech2o-empty-bottle): Lava sin agua y realza el brillo con CARPRO ECH2O, un limpiador versátil para quick detailer, ventanas, interior y lubricar la plastilina.
-  Updated: 2026-10-23T02:23:57Z
+  Updated: 2026-10-29T18:08:26Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -131,7 +131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/MultiX_Carpro.webp?v=1790106794
     Price: $31.99 USD
 - [CARPRO PERL Protector UV para Plástico y Cuero - Carko](https://carkollc.com/products/perl): Protector a base de agua para plásticos, gomas y cuero. Recupera el acabado, aporta protección UV e hidrofóbica y ayuda a conservar las superficies.
-  Updated: 2026-10-23T02:22:11Z
+  Updated: 2026-10-29T12:44:51Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -167,7 +167,7 @@
     Availability: Not Available
     Price: $34.99 USD
 - [CARPRO WheelX Limpiador Profesional para Aros - Carko](https://carkollc.com/products/wheelx-wheel-cleaner): Limpiador profesional de aros que elimina polvo de frenos, grasa y suciedad de carretera con acción rápida. Úsalo en superficies frías y enjuaga bien.
-  Updated: 2026-10-23T02:32:50Z
+  Updated: 2026-10-29T18:08:56Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: $94.99 USD
 - [EZ Detail Brush Big 18" Cepillo para Aros - Carko](https://carkollc.com/products/ez-detail-brush-big): Cepillo flexible de 18 pulgadas para limpiar aros, bahías de motor y áreas difíciles. Seguro para ruedas, resistente a químicos y fácil de enjuagar.
-  Updated: 2026-09-22T19:58:47Z
+  Updated: 2026-10-29T18:12:21Z
   Vendor: Carkopr
   Product Type: 
   Availability: Available
@@ -194,7 +194,7 @@
     Availability: Not Available
     Price: $34.99 USD
 - [GO EZ Detail Brush Cepillo para Aros 16" - Carko](https://carkollc.com/products/go-ez-detail-brush): Cepillo de 16 pulgadas para limpiar el interior de aros y rincones difíciles. Seguro para ruedas, resistente a limpiadores fuertes y fácil de enjuagar.
-  Updated: 2026-09-22T19:59:18Z
+  Updated: 2026-10-29T12:44:50Z
   Vendor: Carkopr
   Product Type: 
   Availability: Available
@@ -241,6 +241,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Skin_car_care.jpg?v=1778595678
   Price: $36.99 USD
+- [SkyBlu Perfume para Auto - Carko](https://carkollc.com/products/skysblu-car-perfume): Perfume SkyBlu para auto con botella de corcho colgante. Refresca el aroma del interior y úsalo siempre en posición vertical para evitar derrames.
+  Updated: 2026-10-29T18:12:47Z
+  Vendor: CARPRO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/skyblu.jpg?v=1778596928
+  Price: $13.99 USD
 - [CARPRO Fabric 2.0 Protector para Telas - Carko](https://carkollc.com/products/fabric-2-0): Protector hidrofóbico para asientos, alfombras y capotas de tela. Seca rápido, reduce el olor químico y ofrece hasta 12 meses de protección.
   Updated: 2026-10-23T01:43:50Z
   Vendor: CARPRO
@@ -315,7 +322,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/hydro-foam1L.jpg?v=1790182362
     Price: $37.99 USD
 - [Iron X Removedor de Hierro para Autos - Carko](https://carkollc.com/products/iron-x-iron-remover-500-ml-4l-1l): Iron X elimina partículas de hierro adheridas a la pintura y ayuda a proteger el acabado sin afectar los recubrimientos cerámicos. Puerto Rico
-  Updated: 2026-10-23T02:32:48Z
+  Updated: 2026-10-29T18:11:36Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -348,7 +355,7 @@
     Availability: Available
     Price: $44.99 USD
 - [Removedor de Polish y Aceites CARPRO Eraser - Carko LLC](https://carkollc.com/products/carpro-eraser-500ml): Elimina aceites, residuos de polish y polvo con CARPRO Eraser, ideal para preparar la pintura antes de aplicar ceras, selladores o recubrimientos.
-  Updated: 2026-10-23T02:23:57Z
+  Updated: 2026-10-29T18:11:03Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -503,13 +510,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/DabDaba.jpg?v=1790178926
   Price: $19.99 USD
-- [CARPRO Tire Swipe Applicator - Aplicador de Neumáticos](https://carkollc.com/products/tire-swipe-applicator): CARPRO Tire Swipe aplica dressing uniformemente con espuma densa, radio asimétrico y mango firme. Evita ensuciar manos y rines. Incluye 1 unidad. Puerto Rico
-  Updated: 2026-10-23T02:32:51Z
-  Vendor: CARPRO
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/tire_swipe.jpg?v=1779893029
-  Price: $2.99 USD
 - [CARPRO Wheel Covers 4PK - Protectores de Ruedas](https://carkollc.com/products/wheel-covers-4pk): CARPRO Wheel Covers 4PK protege tus ruedas del clima, polvo y químicos. Cubiertas impermeables para almacenamiento, hasta 22 pulgadas. Incluye 4. Puerto Rico
   Updated: 2026-10-23T02:32:53Z
   Vendor: CARPRO
@@ -518,13 +518,13 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/wheel_cover.jpg?v=1779892971
   Price: $54.99 USD
 - [CARPRO Dilute Bottle with Trigger - Botella Mezcladora](https://carkollc.com/products/dilute-w-trigger-500ml): CARPRO Dilute con gatillo mezcla concentrados de 1:1 a 1:30 con proporciones impresas, botella de 500 ml o 1 L y spray head resistente a químicos. Puerto Rico
-  Updated: 2026-10-23T02:36:07Z
+  Updated: 2026-10-29T12:44:46Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/dilute.jpg?v=1779889939
   - [Dilute 1L](https://carkollc.com/products/dilute-w-trigger-500ml?variant=45587227541734)
-    Availability: Available
+    Availability: Not Available
     Price: $7.99 USD
   - [Dilute 500ml](https://carkollc.com/products/dilute-w-trigger-500ml?variant=45587228328166)
     Availability: Available
@@ -551,7 +551,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/carpro_brush.jpg?v=1778596827
   Price: $13.99 USD
 - [CARPRO Detailing Brush Set - Cepillos para Auto](https://carkollc.com/products/carpro-detailing-brush-set): CARPRO Detailing Brush Set incluye 2 cepillos, uno de pelo de jabalí y otro suave sintético, para limpiar interiores, emblemas, ruedas y rejillas. Puerto Rico
-  Updated: 2026-10-23T02:36:06Z
+  Updated: 2026-10-29T12:44:45Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -565,7 +565,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/detailing_brush_xl.jpg?v=1779890274
   Price: $19.99 USD
 - [CQUARTZ DLUX - Coating para Plásticos y Ruedas](https://carkollc.com/products/cquartz-dlux-trim-wheel-coating-1): CQUARTZ DLUX protege y revitaliza plásticos, gomas, metales y ruedas hasta por 2 años, con resistencia al calor de 1000°F y protección UV. Puerto Rico
-  Updated: 2026-10-23T02:32:48Z
+  Updated: 2026-10-29T12:44:45Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -578,7 +578,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Dlux_carpro_100ml.jpg?v=1790108469
     Price: $119.99 USD
 - [CQUARTZ Leather 2.0 - Coating para Cuero](https://carkollc.com/products/cquartz-leather-2-0): CQUARTZ Leather 2.0 protege cuero tradicional y sintético contra manchas, transferencia de tinte, químicos y rayos UV por 1 a 2 años.
-  Updated: 2026-10-23T02:22:09Z
+  Updated: 2026-10-29T12:44:46Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -601,7 +601,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/CarPro-Cquartz-Lite.jpg?v=1790108381
   Price: $56.99 USD
 - [CQUARTZ SiC - Coating Cerámico para Auto](https://carkollc.com/products/cquartz-sic): CQUARTZ SiC ofrece coating cerámico de alto brillo y gran suavidad, con resistencia química de pH 2-13 y protección contra manchas minerales. Puerto Rico
-  Updated: 2026-10-22T11:57:58Z
+  Updated: 2026-10-28T16:08:06Z
   Vendor: Carkollc
   Product Type: 
   Availability: Available
@@ -690,7 +690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/glass_cut_pad.png?v=1790180147
   Price: $49.99 USD
 - [Sellador en Spray CARPRO Hydro2 Lite - Carko LLC](https://carkollc.com/products/hydro2-lite): Protege y realza el brillo con CARPRO Hydro2 Lite, sellador en spray que repele agua y suciedad. Se aplica después de cada lavado, sin curado.
-  Updated: 2026-10-23T02:23:56Z
+  Updated: 2026-10-29T12:44:50Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -795,7 +795,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/carpro-MFX_shampoo.jpg?v=1789907262
   Price: $21.99 USD
 - [CARPRO HydrO2 Concentrado - Sellador Hidrofóbico](https://carkollc.com/products/echo2-concentrado): CARPRO HydrO2 Concentrado crea brillo y protección hidrofóbica al rociar sobre superficies mojadas; diluye 6:1 o 10:1 para varios vehículos. Puerto Rico
-  Updated: 2026-10-23T02:34:17Z
+  Updated: 2026-10-29T12:44:50Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -991,7 +991,7 @@
     Availability: Available
     Price: $48.99 USD
 - [IronX LimeScale - Descontaminante 2 en 1](https://carkollc.com/products/ironx-limescale): IronX LimeScale elimina hierro y manchas minerales en un solo paso, dejando pintura, vidrio y ruedas listas para pulir o proteger. Puerto Rico
-  Updated: 2026-10-23T02:32:48Z
+  Updated: 2026-10-29T13:16:32Z
   Vendor: CARPRO
   Product Type: 
   Availability: Available
@@ -1000,7 +1000,7 @@
     Availability: Available
     Price: $22.99 USD
   - [1L](https://carkollc.com/products/ironx-limescale?variant=47379005276390)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/ironx_lime_1L.jpg?v=1790181554
     Price: $34.99 USD
 - [CQUARTZ Skin 50ml - Coating para PPF](https://carkollc.com/products/cquartz-skin): CQUARTZ Skin 50ml protege PPF, vinilo y acabados mate, satinados o brillantes con coating cerámico de 2+ años y repelencia UV, agua y suciedad. Puerto Rico
@@ -1011,7 +1011,7 @@
   Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Skin_kit.jpg?v=1790108761
   Price: $79.99 USD
 - [Hyper Clean STAK | Coating cerámico en Spray | Carko](https://carkollc.com/products/hyper-clean-stak-8oz236-5ml): Hyper Clean STAK es un coating cerámico en spray para pintura y PPF. Aumenta el brillo y la protección hidrofóbica de tu vehículo. Disponible en CARKO
-  Updated: 2026-10-23T02:26:13Z
+  Updated: 2026-10-28T16:08:02Z
   Vendor: Hyper Clean
   Product Type: 
   Availability: Available
@@ -1053,7 +1053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Revival_Wash_Wax_Boat_shampoo_gl.webp?v=1790182671
     Price: $85.99 USD
 - [Revival Rust Stain Remover | Removedor de óxido | CARKO](https://carkollc.com/products/revival-rust-stain-remover): Elimina manchas de óxido de embarcaciones con Revival Rust Stain Remover. Ideal para superficies marinas. Disponible en Puerto Rico en Carko LLC.
-  Updated: 2026-10-24T15:42:44Z
+  Updated: 2026-10-31T11:55:36Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1093,7 +1093,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Revival_mold_mildew_gl.webp?v=1790182787
     Price: $54.99 USD
 - [Revival Heavy Cut Compound| Removedor de oxidación|Carko](https://carkollc.com/products/revival-heavy-cut-compound): Revival Heavy Cut Compound para eliminar oxidación fuerte y restaurar gelcoat y fibra de vidrioen embarcaciones. Disponible en Carko Puerto Rico.
-  Updated: 2026-10-23T15:21:09Z
+  Updated: 2026-10-29T12:44:46Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1121,7 +1121,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/revival_medium_cut_compound.webp?v=1790182920
     Price: $174.99 USD
 - [Revival Polish & Protect | Pulimento para botes | CARKO](https://carkollc.com/products/revival-polish-protect): Revival Polish & Protect elimina oxidación ligera, swirls y marcas en embarcaciones. Pule, mejora el brillo y protege el gelcoat y la fibra de vidrio.
-  Updated: 2026-10-23T15:21:08Z
+  Updated: 2026-10-26T13:12:27Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1133,7 +1133,7 @@
     Availability: Available
     Price: $197.99 USD
 - [Revival Premium Boat Wax|cera para barcos|Carko Puerto Rico](https://carkollc.com/products/revival-premium-boat-wax): Revival Premium Boat Wax para proteger gelcoat, fibra de vidrio y superficies pintadas contra rayos UV, salitre y oxidación. Cera para botes en Puertro Rico.
-  Updated: 2026-10-23T16:35:26Z
+  Updated: 2026-10-26T13:12:31Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Revival_premium_Boat_Wax.webp?v=1790183011
     Price: $179.99 USD
 - [Revival Vinyl Guard | Protector de Vinilo Marino | Carko](https://carkollc.com/products/revival-vinyl-guard): Revival vinyl Guard protege el vinilo marino contra rayos UV, Humedad,suciedad y desgaste. ideal para asientos de barcos. Disponible en Carko Puerto Rico.
-  Updated: 2026-10-23T02:09:08Z
+  Updated: 2026-10-26T13:12:32Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1263,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0721/6719/4854/files/Scrubbing_sponge_2b35f0b7-5d79-4e83-8c87-f7569ccab897.jpg?v=1790183089
     Price: $9.99 USD
 - [Revival Compound Kit | Pulido de Barcos PR | Carko](https://carkollc.com/products/revival-compound-kit): Kit Revival para restaurar, pulir y proteger gelcoat marino. Incluye Heavy Duty, Medium Duty y Polish & Protect. Disponible en Puerto Rico.
-  Updated: 2026-10-23T15:21:21Z
+  Updated: 2026-10-29T12:44:55Z
   Vendor: Revival Marine Care
   Product Type: marine
   Availability: Available
@@ -1286,37 +1286,37 @@
 ## Collections
 
 - [LAVADO](https://carkollc.com/collections/lavado): Descubre la colección Lavado con los mejores productos CARPRO para tu auto en Puerto Rico. ¡Haz tu pedido online y disfruta un brillo profesional!
-  Updated: 2026-10-23T11:19:44Z
-  Total Products: 28
+  Updated: 2026-10-30T11:17:37Z
+  Total Products: 30
 - [AROS Y GOMAS](https://carkollc.com/collections/aros-y-gomas): La colección Aros y Gomas incluye limpiadores, abrillantadores, acondicionadores y cepillos para llantas y gomas. Envíos rápidos en todo Puerto Rico.
-  Updated: 2026-10-22T14:32:46Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 21
 - [INTERIOR](https://carkollc.com/collections/interior): Transforma el interior de tu auto con productos CARPRO de alta calidad. Limpia, protege y aromatiza con envíos rápidos en Puerto Rico. ¡Ordena hoy!
-  Updated: 2026-10-23T11:19:44Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 21
 - [EXTERIOR](https://carkollc.com/collections/exterior): Compra productos CARPRO para el cuidado exterior de tu vehículo: limpiadores, ceras y removedores de manchas. ¡Envíos rápidos en Puerto Rico! ¡Haz tu compra hoy
-  Updated: 2026-10-23T11:19:44Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 15
 - [PULIDO](https://carkollc.com/collections/pulido): Explora la colección Pulido con los mejores productos CARPRO para un acabado espejo. Compra online en Carkollc Puerto Rico y lleva tu brillo al máximo.
-  Updated: 2026-10-22T14:13:54Z
-  Total Products: 18
+  Updated: 2026-10-27T17:14:48Z
+  Total Products: 19
 - [ACCESORIOS](https://carkollc.com/collections/accesorios): Descubre en Accesorios todo lo que necesitas para detallar como un pro. Compra toallas, brochas y más CARPRO en Carkollc Puerto Rico. ¡Haz tu pedido hoy!
-  Updated: 2026-10-22T14:36:03Z
-  Total Products: 39
+  Updated: 2026-10-30T11:17:37Z
+  Total Products: 40
 - [CRISTALES](https://carkollc.com/collections/cristales): La colección Cristales incluye limpiadores, pulidores y recubrimientos CARPRO. Mejora la visibilidad y brillo de tu auto en Puerto Rico. ¡Compra online!
   Updated: 2026-10-23T11:19:44Z
   Total Products: 10
 - [RECUBRIMIENTO CERÁMICO](https://carkollc.com/collections/ceramic-coatings): Compra recubrimientos cerámicos CARPRO en Puerto Rico. Encuentra kits CQUARTZ y más en Carko, tu distribuidor local. ¡Haz tu pedido online!
-  Updated: 2026-10-23T11:19:44Z
-  Total Products: 20
+  Updated: 2026-10-30T11:17:37Z
+  Total Products: 21
 - [Revival Marine Care Puerto Rico | Productos para Embarcaciones](https://carkollc.com/collections/marino): Compra Revival Marine Care en Puerto Rico. Productos para limpieza, pulido y protección de embarcaciones. Disponibles en Carko LLC. Distribuidor oficial
-  Updated: 2026-10-24T11:20:16Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 18
 - [Hyper Clean Puerto Rico – Productos Profesionales de Detailing](https://carkollc.com/collections/hyper-clean): Productos Hyper Clean para productos de detailing en Puerto Rico: compuestos, limpiadores, shampoos y protectores de nivel profesional en Carko LLC.
-  Updated: 2026-10-22T14:37:12Z
+  Updated: 2026-10-29T11:17:08Z
   Total Products: 11
 - [CARPRO Puerto Rico | Productos para lavado, pulido, descontaminación y protección de vehículos.](https://carkollc.com/collections/carpro-puerto-rico-productos-profesionales-de-detailing): Compra productos CARPRO para lavado, pulido, protección, interior, cristales, aros y recubrimientos cerámicos. Detailing profesional en Puerto Rico.
-  Updated: 2026-10-23T11:19:44Z
+  Updated: 2026-10-31T11:55:37Z
   Total Products: 61
 
 ## Blogs
@@ -1354,6 +1354,10 @@
     Updated: 2026-10-24T16:02:08Z
     Author: Carko LLC Admin
     Tags: boat cleaning, boat maintenance, mildew stains, Mold removal
+  - [¿Dónde comprar CARPRO, REVIVAL MARINE y HYPER CLEAN en Puerto Rico?](https://carkollc.com/blogs/news/tiendas-autorizadas-para-la-venta-de-carpro-revival-marine-y-hyper-clean-en-puerto-rico): ¿Dónde comprar CARPRO, REVIVAL MARINE y HYPER CLEAN en Puerto Rico?
+    Updated: 2026-10-31T14:53:15Z
+    Author: Carko LLC Admin
+    Tags: Authorized retailers, CARPRO, HYPER CLEAN, Puerto Rico, REVIVAL MARINE
 
 ## Store Pages
 
@@ -1369,7 +1373,7 @@
 ## Policies
 
 - [Privacy Policy](https://carkollc.com/policies/privacy-policy)
-  Updated: 2024-12-03T23:42:50Z
+  Updated: 2026-10-29T22:15:05Z
 - [Shipping Policy](https://carkollc.com/policies/shipping-policy)
   Updated: 2024-12-11T08:16:07Z
 - [Refund Policy](https://carkollc.com/policies/refund-policy)
