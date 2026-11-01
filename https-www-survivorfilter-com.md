@@ -6,40 +6,26 @@
 - Timezone: America/New_York
 - Created At: 2015-01-08T17:18:42Z
 - Contact Email: support@survivorfilter.com
-- Updated At: 2026-10-24T00:58:29.460Z
+- Updated At: 2026-11-01T00:29:46.007Z
 
 ## Products
 
-- [Portable Water Filter Pump - Survivor Filter](https://www.survivorfilter.com/products/pro-series--metal-usa-tested-): The Survivor Filter Portable Water Filter Pump is the finest of its kind on the market. Checked for 0.01-micron protection against viruses, bacteria, proven.
-  Updated: 2026-10-24T00:56:11Z
-  Vendor: Survivor Filter
-  Product Type: Water Filters
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0741/5997/products/updated_l610_copy_no_shadow_copy.jpg?v=1626970168
-  Price: $77.95 USD
 - [Carbon Filter for Survivor Straw Filter](https://www.survivorfilter.com/products/carbon-filter-straw): Official Replacement Carbon Filter for Survivor Straw Filter. Filters can be reused for up to 1,000 liters
-  Updated: 2026-10-19T19:50:38Z
+  Updated: 2026-10-31T02:09:56Z
   Vendor: Survivor Filter
   Product Type: Straw and Squeeze Replacement Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/Mouthpiece2_7a4938ac-e15f-409e-ac10-cc6564d0158c.jpg?v=1552603735
   Price: $14.95 USD
 - [Ultra Filter for Survivor Straw Filter](https://www.survivorfilter.com/products/ultra-filter): Official Replacement Ultra Filter for Survivor Straw Filter. Filters down to an astonishing 0.05 Microns.
-  Updated: 2026-10-18T23:00:55Z
+  Updated: 2026-11-01T00:04:06Z
   Vendor: Survivor Filter
   Product Type: Straw and Squeeze Replacement Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/uf2_0335db82-353c-43af-a83e-4380dabe2f0d.jpg?v=1552603778
   Price: $16.95 USD
-- [Ultra Filter Replacement for Survivor Filter PRO and Electric PRO X](https://www.survivorfilter.com/products/ultra-membrane-filter): Survivor PRO Ultra Filter filters out 99.999% of viruses and staph. It's made from BPA Free ABS material and is easy to use.
-  Updated: 2026-10-24T00:10:59Z
-  Vendor: Survivor Filter
-  Product Type: PRO and PRO X Replacement Filters
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0741/5997/products/UF_front_8890e147-5ef6-4c58-9aaa-d6f7ed5b390c.jpg?v=1583943063
-  Price: $16.95 USD
 - [The Best Collapsible Bottle, SURVIVOR CANTEENS](https://www.survivorfilter.com/products/survivor-filter-collapsible-canteens-33-ounce-2-pack): Rated The Best Collapsible Bottle, Survivor Filter's Canteens are the perfect addition to any of our water filter systems. Pump water into the canteens from the Survivor Filter Pro or use our Survivor Filter straw as a Squeeze Kit.
-  Updated: 2026-10-23T23:41:46Z
+  Updated: 2026-11-01T00:26:37Z
   Vendor: Survivor Filter
   Product Type: Water Containers
   Availability: Available
@@ -56,29 +42,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0741/5997/files/L700X_2L_AMZ_ListingImage1a_8bef8353-40e6-41a0-95ea-035b59ac5903.jpg?v=1768979658
     Price: $24.95 USD
-- [Extra Pre-Filter Kit, Compatible with Electric and Survivor Filter Pro](https://www.survivorfilter.com/products/survivor-filter-pro-100-000-liter-cleanable-backwashable-pre-filter-upgrade-kit): Official Extra Pre-Filter Kit for the Survivor Filter PRO and Electric PRO X Filter Systems. Very long-lasting, non-oxidizing and reliable
-  Updated: 2026-10-24T00:57:08Z
-  Vendor: Survivor Filter
-  Product Type: PRO and PRO X Replacement Filters
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0741/5997/products/PT01_a24b9b2b-ccf2-484f-816c-a5bdc5eceb24.jpg?v=1626970634
-  Price: $12.95 USD
 - [Pre-Filter Replacement compatible with Electric PRO X](https://www.survivorfilter.com/products/pre-filter-survivor-filter-pro): Official Replacement Pre-Filter for the Survivor Filter PRO and Electric PRO X. Free shipping and returns.
-  Updated: 2026-10-24T00:09:06Z
+  Updated: 2026-10-31T23:09:56Z
   Vendor: Survivor Filter
   Product Type: PRO and PRO X Replacement Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/files/B01I274O6SSurvivorFilterExtraReplacementUltraFiltersforPROandPROXPortableWaterFilter-01_7cd62a05-5c1d-4092-ba3c-dc5ec68f9e75.jpg?v=1778682223
   Price: $16.95 USD
 - [Max Fluoride and all Tap Filter for your home](https://www.survivorfilter.com/products/max):  by the Water Quality Association, The Max, 2-Stage Fluoride, and Chlorine In-Line Home Filter remove 99.9% of chlorine and heavy metals.
-  Updated: 2026-10-23T15:12:45Z
+  Updated: 2026-10-30T23:12:12Z
   Vendor: Survivor Filter Home
   Product Type: Water Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/PT01_83524321-78f9-4939-a7c6-648cfe878cc9.jpg?v=1619909416
   Price: $200.00 USD
 - [Pure 10K - Replacement Chlorine Home Filter by Survivor Filter](https://www.survivorfilter.com/products/pure-replacement-filter): The USA-made, three-year home filters by survivor filter: Pure 10K - Replacement Chlorine Filter. The best on the market.
-  Updated: 2026-10-16T07:59:16Z
+  Updated: 2026-10-28T07:33:20Z
   Vendor: Survivor Filter Home
   Product Type: Water Filters
   Availability: Available
@@ -91,36 +70,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/PT01_4f4dd3ea-65c2-40c9-a1a6-e92ae747ab5e.jpg?v=1626969292
   Price: $100.00 USD
-- [2 in 1 Backup Filter Kit for Hiking and Camping](https://www.survivorfilter.com/products/survivor-filter-pro-x-manual-backup-kit): 2 in 1 backup kit. Switch your Electric PRO X to a manual pump filter for camping, travel, backpacking, and emergencies.
-  Updated: 2026-10-23T06:11:15Z
-  Vendor: Survivor Filter
-  Product Type: PRO and PRO X Replacement Filters
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0741/5997/products/20210517-01WEB.jpg?v=1628620930
-  Price: $55.99 USD
 - [SURVIVOR FILTER™ Active All Terrain Filtration Bottle & Carrier System](https://www.survivorfilter.com/products/active-all-terrain-bottle): Made In USA Active All Terrain Bottle Ionic Absorption Micro Filter Our innovative filtration formula brings together a proprietary combination of activated carbon and absorption to make your city and outdoor water found in lakes, rivers and streams safe to drink. Inside the Active Filter Tested independently in the USA: Taste & Odor Reduction: Metal, Chemical, and Medicinal Heavy Metals: Aluminum, Cadmium, Chromium, Copper, Lead, and Mercury Volatile Organic Compounds (VOC's): Household cleaning compounds, industrial wastes, insecticides Polychlorinated biphenyls (PCB's): Highly toxic industrial compounds Synthetic Organic Compounds (SOC's): Herbicides, pesticides, and other chemicals that come from agriculture, urban stormwater runoff, or industrial activities Asbestos: Concrete and cement compound found in municipal water, wastewater and stormwater systems Detergents DDT: Class 2 insecticide Trihalomethanes (THM's): by-product of chlorine disinfection Microplastics Inorganics: Trace metals, turbidity Radiological Contaminants Lifespan of Filter Municipal Tap Water: 100gal— 575 refills Raw, Untreated Water: 25gal— 145 refills Shelf Life: 50 years Measurements, Dimensions, and Specifications Flow Rate: 60 ounces per minute / 1.8 liter per minute Size: 9.5 x 3.5 x 3.5 inches Weight: 3.9oz. 110g Country of Manufacture: USA Product SKU#: W200 Replacement Filter SKU#: W200-F Materials & Certifications Safely drink without risking contamination with certification from independent third-party USA labs. Made from BPA-free Low-Density Polyethylene (LDPE) that leaves no after-taste or intake of any leaching toxin, each Active Filter is packaged in 100% Recycled Materials that use soy-based biodegradable ink that is fully recyclable and non-harmful to the environment. Tested to ANSI/NSF Standard 42&53 Packed & printed in Louisville, CO Packaging printed with soy-based inks Made with 100% recycled materials 95% of post consumer waste 100% recyclable packaging, naturally biodegradable & comfortable BPA/BPS Free Bottle & Lid 100% Made in the USA What's in the box 1x Active All Terrain Bottle, Nalgene 1x Active All Terrain Filter, 100-Gallon Capacity 1x Neoprene carrying case 1x 3ft Shoulder strap 1x 7ft Shoulder strap 1x User manual Cleaning the Active All Terrain
-  Updated: 2026-10-23T19:51:56Z
+  Updated: 2026-10-30T20:51:58Z
   Vendor: Survivor Filter
   Product Type: Water Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/SurvivorFilterW200ActiveAllTerrainListing1bcopy.jpg?v=1670338930
   Price: $49.95 USD
-- [Portable PRO Replacement Filter Kit](https://www.survivorfilter.com/products/pro-filter-kit-compatible-with-electric-pro-x): Order the best pro replacement filter kit. Our filters are the only ones tested to remove 99.9% of municipal tap water contaminants. Compatible with Electric PRO X.
-  Updated: 2026-10-21T13:56:16Z
-  Vendor: Survivor Filter
-  Product Type: Portable Water Filters & Purifiers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0741/5997/products/PRO-Filter-Kit-PT01.jpg?v=1638399134
-  Price: $49.99 USD
 - [Replacement Filter for Survivor Filter Active All Terrain Bottle](https://www.survivorfilter.com/products/active-replacement-filter-2-pack): The Active Replacement Filter can filter up to 100 gallons of water and removes 99.99% of chlorine, VOCs, chemicals, bacteria, parasites, unpleasant tastes, and odor. Made in USA water filter. We offer an unbeatable 100% Satisfaction Guarantee and Lifetime Warranty on all our products.
-  Updated: 2026-10-22T01:19:27Z
+  Updated: 2026-10-31T18:37:25Z
   Vendor: Survivor Filter
   Product Type: Portable Water Filters & Purifiers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/products/PT01_043574b2-042f-40f7-b5ed-0e17f9affac7.jpg?v=1664505188
   Price: $31.99 USD
 - [Survivor Filter Gravity Steel 2.25 Gallon Water Filtration System](https://www.survivorfilter.com/products/survivor-filter-gravity-ceramic-water-filter): Experience safe drinking anywhere with our Portable Gravity Filter. Ideal for outdoor adventures, camping, RVing, or off-the-grid living. Utilizing advanced ceramic filter tech, it eliminates bacteria, viruses, parasites, metals, and chemicals, while retaining essential minerals. Third-party tested, lifetime warranty.
-  Updated: 2026-10-23T02:58:46Z
+  Updated: 2026-10-31T22:29:26Z
   Vendor: Survivor Filter
   Product Type: Portable Water Filters & Purifiers
   Availability: Available
@@ -138,18 +103,18 @@
     Image: https://cdn.shopify.com/s/files/1/0741/5997/files/SF_Gravity_Water_Filter_Ceramic_Filter_-_3.jpg?v=1752236225
     Price: $79.95 USD
   - [Stand for Survivor Filter Gravity Water Filter (S100)](https://www.survivorfilter.com/products/survivor-filter-gravity-ceramic-water-filter?variant=41875768508503)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0741/5997/files/SF_Gravity_Water_Filter_Stand_-_1.jpg?v=1752236225
     Price: $49.95 USD
 - [SURVIVOR FILTER™ Americana Ultra Light Water Bottle Filtration System](https://www.survivorfilter.com/products/survivor-filter-americana-ultra-light-water-bottle-filtration-system): Americana Ultra Light Water Bottle Filter Ionic Absorption Micro Filter Our innovative filtration formula brings together a proprietary combination of activated carbon and absorption to make your city and outdoor water found in lakes, rivers and streams safe to drink. Inside the Active Filter Tested independently in the USA: Taste & Odor Reduction: Metal, Chemical, and Medicinal Heavy Metals: Aluminum, Cadmium, Chromium, Copper, Lead, and Mercury Volatile Organic Compounds (VOC's): Household cleaning compounds, industrial wastes, insecticides Polychlorinated biphenyls (PCB's): Highly toxic industrial compounds Synthetic Organic Compounds (SOC's): Herbicides, pesticides, and other chemicals that come from agriculture, urban stormwater runoff, or industrial activities Asbestos: Concrete and cement compound found in municipal water, wastewater and stormwater systems Detergents DDT: Class 2 insecticide Trihalomethanes (THM's): by-product of chlorine disinfection Microplastics Inorganics: Trace metals, turbidity Radiological Contaminants Lifespan of Filter Municipal Tap Water: 100gal— 575 refills Raw, Untreated Water: 25gal— 145 refills Shelf Life: 50 years Measurements, Dimensions, and Specifications Flow Rate: 60 ounces per minute / 1.8 liter per minute Size: 9.5 x 3.5 x 3.5 inches Weight: 3.9oz. 110g Country of Manufacture: USA Product SKU#: W200 Replacement Filter SKU#: W200-F Materials & Certifications Safely drink without risking contamination with certification from independent third-party USA labs. Made from BPA-free Low-Density Polyethylene (LDPE) that leaves no after-taste or intake of any leaching toxin, each Active Filter is packaged in 100% Recycled Materials that use soy-based biodegradable ink that is fully recyclable and non-harmful to the environment. Tested to ANSI/NSF Standard 42&53 Packed & printed in Louisville, CO Packaging printed with soy-based inks Made with 100% recycled materials 95% of post consumer waste 100% recyclable packaging, naturally biodegradable & comfortable BPA/BPS Free Bottle & Lid 100% Made in the USA What's in the box 1x Patriot Filter Bottle 1x Patriot Filter 1x Twist Cap & Handle Lid 1x User manual Cleaning the Americana Water Bottle Filter Always use the cleanest, clearest water whenever possible. Dirty water may prematurely clog the filter and greatly reduce the filter life expectancy. When filter is not used regularly, remove filter from the bottle and allow to air dry. Store filter dry when not use daily. Until first activated, filter can be stored indefinitely. Always remove filter before cleaning the bottle. Check our product manual page for more details.
-  Updated: 2026-10-23T03:27:45Z
+  Updated: 2026-11-01T00:16:26Z
   Vendor: Survivor Filter
   Product Type: Water Filters
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0741/5997/files/SurvivorFilterAmericana__Herocopy2.jpg?v=1773804998
   Price: $39.99 USD
 - [SURVIVOR FILTER™ Americana Ultra Light Water Bottle Bundle](https://www.survivorfilter.com/products/survivor-filter-americana-ultra-light-water-bottle-bundle): Americana Ultra Light Water Bottle Filter Ionic Absorption Micro Filter Our innovative filtration formula brings together a proprietary combination of activated carbon and absorption to make your city and outdoor water found in lakes, rivers and streams safe to drink. Inside the Active Filter Tested independently in the USA: Taste & Odor Reduction: Metal, Chemical, and Medicinal Heavy Metals: Aluminum, Cadmium, Chromium, Copper, Lead, and Mercury Volatile Organic Compounds (VOC's): Household cleaning compounds, industrial wastes, insecticides Polychlorinated biphenyls (PCB's): Highly toxic industrial compounds Synthetic Organic Compounds (SOC's): Herbicides, pesticides, and other chemicals that come from agriculture, urban stormwater runoff, or industrial activities Asbestos: Concrete and cement compound found in municipal water, wastewater and stormwater systems Detergents DDT: Class 2 insecticide Trihalomethanes (THM's): by-product of chlorine disinfection Microplastics Inorganics: Trace metals, turbidity Radiological Contaminants Lifespan of Filter Municipal Tap Water: 100gal— 575 refills Raw, Untreated Water: 25gal— 145 refills Shelf Life: 50 years Measurements, Dimensions, and Specifications Flow Rate: 60 ounces per minute / 1.8 liter per minute Size: 9.5 x 3.5 x 3.5 inches Weight: 3.9oz. 110g Country of Manufacture: USA Product SKU#: W200 Replacement Filter SKU#: W200-F Materials & Certifications Safely drink without risking contamination with certification from independent third-party USA labs. Made from BPA-free Low-Density Polyethylene (LDPE) that leaves no after-taste or intake of any leaching toxin, each Active Filter is packaged in 100% Recycled Materials that use soy-based biodegradable ink that is fully recyclable and non-harmful to the environment. Tested to ANSI/NSF Standard 42&53 Packed & printed in Louisville, CO Packaging printed with soy-based inks Made with 100% recycled materials 95% of post consumer waste 100% recyclable packaging, naturally biodegradable & comfortable BPA/BPS Free Bottle & Lid 100% Made in the USA What's in the box 1x Patriot Filter Bottle 3x Patriot Filter 1x Twist Cap & Handle Lid 1x User manual Cleaning the Americana Water Bottle Filter Always use the cleanest, clearest water whenever possible. Dirty water may prematurely clog the filter and greatly reduce the filter life expectancy. When filter is not used regularly, remove filter from the bottle and allow to air dry. Store filter dry when not use daily. Until first activated, filter can be stored indefinitely. Always remove filter before cleaning the bottle. Check our product manual page for more details.
-  Updated: 2026-10-23T03:27:59Z
+  Updated: 2026-11-01T00:16:36Z
   Vendor: Survivor Filter
   Product Type: Water Containers
   Availability: Available
@@ -159,82 +124,82 @@
 ## Collections
 
 - [Straw Filters](https://www.survivorfilter.com/collections/survivor-filter-straw-series): Explore our Straw Filters collection. These water filters are unbeaten. They are made in the USA, remove viruses, and are ideal for camping or hiking.
-  Updated: 2026-10-05T11:03:35Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 9
 - [Pro Pump &  Filters](https://www.survivorfilter.com/collections/survivor-filter-pro-series): Our Survivor Pump Filters provenly protect against any unwanted objects in water and improves taste. They are made from the highest quality material.
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 11
 - [Survivor Filter Straw Replacement Filters](https://www.survivorfilter.com/collections/replacement-filters)
-  Updated: 2026-10-05T11:03:35Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 6
 - [All Products](https://www.survivorfilter.com/collections/all): The Best Water Filter Products . Highly rated and made in the USA. Choose yours today and enjoy clean filtered water!
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 51
 - [Survivor Filter PRO and Electric PRO X Replacement Filters](https://www.survivorfilter.com/collections/survivor-filter-pro-replacement-filters): Survivor Filter PRO and Electric PRO X includes various filter such as Carbon Filter Replacement, Ultra Filter Replacement, and Extra Pre-Filter Kit. If you don't love your product or need to return it, simply contact us and we will take care of it.
-  Updated: 2026-10-22T11:04:45Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 5
 - [All Replacement Filters](https://www.survivorfilter.com/collections/survivor-filter-replacement-filters): Survivor Filter Straw Replacement Filters includes various products such as Straw Carbon Filter Replacement, Straw Ultra Filter, Straw Cotton Filter Pads Replacement (20 Pack), Water Filter + 2 Canteens. If you don't love your product or need to return it, simply contact us and we will take care of it.
-  Updated: 2026-10-22T11:04:45Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 20
 - [Personal Water Filters](https://www.survivorfilter.com/collections/personal-water-filters): Survivor Filter Personal Water Filters includes: Filtration Bottle, Portable Water Filter Pump, Electric Water Filter, and more. We offer 100% Satisfaction Guarantee.
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 21
 - [Water Containers](https://www.survivorfilter.com/collections/hydration-packs): Stay hydrated no matter where you are with our hydration packs. Our BPA-free canteens are easy to carry and ideal for camping, hiking, trekking, and fishing.
-  Updated: 2026-10-22T01:20:01Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 13
 - [Straw and Squeeze Replacement Filters](https://www.survivorfilter.com/collections/straw-and-squeeze-replacement-filters): Survivor Filter Straw and Squeeze Replacement Filters includes various filter straw such as Carbon Filter Replacement, Ultra Filter Replacement, Cotton Filter Pads Replacement (20 Pack). If you don't love your product or need to return it, simply contact us and we will take care of it.
-  Updated: 2026-10-05T11:03:35Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 6
 - [Pro X Electric Filter](https://www.survivorfilter.com/collections/pro-x): The Electric Survivor Filter uses the same filtering technology that you know and love from Survivor Filter PRO. It is simple to set up and provides clean water at a fast rate.
-  Updated: 2026-10-19T11:05:46Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 11
 - [Bottle Filters](https://www.survivorfilter.com/collections/water-bottle-replacement-filter): Get clean water in less than 30 seconds with our highly-rated filtration bottles. Tested to remove toxic chemicals, chlorine, heavy metals, lead, and more.
-  Updated: 2026-10-22T01:20:01Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 7
 - [Home Filters](https://www.survivorfilter.com/collections/home-filters): With our Made in USA Home Filter, purify water from any tap at your home. All of our filters are tested by and  by WQA.
-  Updated: 2026-10-21T11:07:13Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 12
 - [Home Replacement Filters](https://www.survivorfilter.com/collections/home-replacement-filters): Survivor Filter Home Replacement Filters are Made in USA and  by the Water Quality Association. They meet the highest industry water safety standards.
   Updated: 2026-10-02T11:04:06Z
   Total Products: 8
 - [Portable Water Filters](https://www.survivorfilter.com/collections/portable-water-filters): These portable water filters by Survivor Filter are small enough to pack in your backpack and powerful enough to last for years. All filter are tested to remove 99.999% of bacteria and protozoa from freshwater sources.
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 21
 - [Survivor GO Bag](https://www.survivorfilter.com/collections/survivor-go-bag)
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 22
 - [Bundled Kits & Offers](https://www.survivorfilter.com/collections/sales-offers)
-  Updated: 2026-10-22T11:04:45Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 22
 - [Subscribe and Save](https://www.survivorfilter.com/collections/subscribe-and-save): Once you purchase a water filter from us, we make it easy to maintain. Save 15% off when you add any replacement filter into your subscription. Learn more about our Subscribe & Save
   Updated: 2026-10-02T11:04:06Z
   Total Products: 6
 - [Portable Replacement Filters](https://www.survivorfilter.com/collections/portable-replacement-filters): Explore our portable replacement filters: Straw Ultra Replacement Filter, Survivor Filter PRO Extra Pre-Filter Kit and more
-  Updated: 2026-10-22T11:04:45Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 19
 - [Best Sellers](https://www.survivorfilter.com/collections/best-sellers): Discover the best Survivor Filter products in Best Sellers. Find the top 10 most popular items in Water Filters and Water Bottles.
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 23
 - [All items - partners](https://www.survivorfilter.com/collections/for-partners)
-  Updated: 2026-10-23T11:04:00Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 31
 - [american sales](https://www.survivorfilter.com/collections/american-sales): Get ready for camping, hiking, or other outdoor activities with our US-made water pumps, filters, bottles, and emergency kits. Explore the latest deals.
-  Updated: 2026-10-22T01:20:01Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 8
 - [Collapsible Canteens](https://www.survivorfilter.com/collections/canteens)
-  Updated: 2026-10-14T11:06:06Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 10
 - [Ultra Steel Gravity Water Filter](https://www.survivorfilter.com/collections/gravity-filter)
-  Updated: 2026-10-21T11:07:13Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 1
 - [Active All Terrain Made in USA](https://www.survivorfilter.com/collections/active-all-terrain)
-  Updated: 2026-10-22T01:20:01Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 5
 - [Squeeze Kit](https://www.survivorfilter.com/collections/squeeze-kit)
-  Updated: 2026-10-14T11:06:06Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 11
 - [Americana Ultra Light | Made in USA](https://www.survivorfilter.com/collections/americana-ultra-light-water-bottle-filtration-system)
-  Updated: 2026-10-22T01:20:01Z
+  Updated: 2026-10-31T11:05:44Z
   Total Products: 5
 
 ## Blogs
@@ -602,6 +567,10 @@
     Updated: 2026-08-22T17:38:38Z
     Author: Survivor Filter
     Tags: clean water, Community Resilience, Disaster Relief, Humanitarian, survival, survivor filter, Water Conservation
+  - [Protect What You Explore: Enjoy Nature, Leave It Better Than You Found It](https://www.survivorfilter.com/blogs/home/protect-what-you-explore-enjoy-nature-leave-it-better-than-you-found-it)
+    Updated: 2026-10-28T10:26:57Z
+    Author: Survivor Filter
+    Tags: Adventure Responsibly, Freshwater Conservation, Leave No Trace, Outdoor Adventure, Protect Our Planet, Protect What You Explore
   - [Exploring Innovative Technologies in Emergency Preparedness](https://www.survivorfilter.com/blogs/home/exploring-innovative-technologies-in-emergency-preparedness): Exploring Innovative Technologies in Emergency Preparedness
     Updated: 2026-08-14T01:52:19Z
     Author: Survivor Filter
