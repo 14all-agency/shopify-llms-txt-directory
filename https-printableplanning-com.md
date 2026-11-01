@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2015-09-24T16:58:17Z
 - Contact Email: support@printableplanning.com
-- Updated At: 2026-10-25T08:50:21.037Z
+- Updated At: 2026-11-01T08:51:43.190Z
 
 Printable Planning is an online shop offering digital, printable PDF forms and checklists created to help with everyday organization and life management. The store focuses on practical, functional printables such as meal planners, budgeting and finance logs, bill trackers, care and household records, and general planning tools. All products are digital downloads delivered after purchase. No physical items are sold or shipped.
 
@@ -393,7 +393,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/WebsiteUsernamesandPasswordsSheetOrganizer-PrintablePlanning.jpg?v=1686944903
   Price: $5.95 USD
 - [Daily Food and Nutrition Tracking Sheet - PDF](https://printableplanning.com/products/daily-food-content-tracking-sheet-printable): Printable daily food tracking sheet PDF for logging portions, calories, fat, sodium, carbs, sugar, protein, and daily nutrition totals.
-  Updated: 2026-09-15T21:17:18Z
+  Updated: 2026-10-30T00:04:26Z
   Vendor: Artistically Invited
   Product Type: Diet and Exercise
   Availability: Available
@@ -988,7 +988,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Image: https://cdn.shopify.com/s/files/1/1004/0126/files/ModernMonogramRedAddressLabels-onenvelope2-PrintablePlanning.jpg?v=1686234076
   Price: $5.95 USD
 - [Student Grade Sheet - Quarters or Trimesters - Printable](https://printableplanning.com/products/student-grade-sheet-quarters-or-trimesters-printable): Printable Student Grade Sheet - Quarters or Trimesters designed to help teachers give students their grades following each quarter or trimester, and a final grade average for the year. There are lines for writing by hand their subjects and grades. There is also a section for notes at the bottom, and a key to letter and percentage grades in between. Print as many sheets as you need, or a new sheet every time you need them. SPECIFICATIONS & BENEFITS: (2) 8.5" x 11" printable PDF pages. Full page student grade sheets. Simple design. Choose Quarters or Trimesters (both are included with purchase). Notes section. Letter and Numbers/Percentages key. Print a new printable Student Grade Sheet - Quarters or Trimesters page every time you need more.
-  Updated: 2026-09-15T21:17:45Z
+  Updated: 2026-10-27T13:18:51Z
   Vendor: Artistically Invited
   Product Type: School and Teachers
   Availability: Available
@@ -1384,16 +1384,16 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Collections
 
 - [Frontpage](https://printableplanning.com/collections/frontpage)
-  Updated: 2026-10-24T11:01:19Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 424
 - [Digital Goods VAT Tax](https://printableplanning.com/collections/digital-goods-vat-tax)
-  Updated: 2026-09-09T11:01:39Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 239
 - [Printable Downloads](https://printableplanning.com/collections/all): Shop printable downloads for caregiver forms, daily planning, home organization, school helpers, and financial tracking, made to be easy to use.
-  Updated: 2026-10-24T11:01:19Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 424
 - [Miscellaneous Organization Pages](https://printableplanning.com/collections/miscellaneous-organization-pages): Everyday organization printables like  lists, call logs, trackers, and simple helpers for keeping daily details in one place.
-  Updated: 2026-10-06T11:01:05Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 15
 - [Caregiver, Health, and Housekeeping Forms](https://printableplanning.com/collections/caregivers-health-housekeeping): Printable caregiver forms and logs for families and pet care, plus health info sheets and housekeeping checklists to keep routines organized.
   Updated: 2026-10-13T11:00:52Z
@@ -1405,34 +1405,34 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
   Updated: 2026-08-12T13:53:19Z
   Total Products: 66
 - [Calendars and Planner Pages](https://printableplanning.com/collections/calendars-and-planner-pages): Printable calendars and planner pages with blank, undated layouts for monthly and weekly planning. Print as needed and organize your schedule your way.
-  Updated: 2026-10-24T11:01:19Z
+  Updated: 2026-10-28T11:00:44Z
   Total Products: 26
 - [Address Labels](https://printableplanning.com/collections/address-labels): Personalized printable return address labels in many designs. Sized for Avery 5160 and compatible sheets. Print as needed for mail and gifts.
   Updated: 2026-08-12T13:53:19Z
   Total Products: 54
 - [Meal Planning and Grocery Lists](https://printableplanning.com/collections/meal-planning-and-grocery-lists): Meal planning printables with grocery lists, weekly meal planners, and recipe pages. Simple layouts to plan meals, shop faster, and stay organized.
-  Updated: 2026-08-12T14:11:13Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 27
 - [Bookmarks and Bookplates](https://printableplanning.com/collections/bookmarks-and-bookplates): Printable bookmarks and bookplates for kids and adults. Personalize names, label book ownership, and create easy gifts for readers and teachers.
   Updated: 2026-09-09T11:01:39Z
   Total Products: 53
 - [School and Teachers](https://printableplanning.com/collections/school-and-teachers): School and teacher printables for grading, homework, supply labels, and classroom organization. Download files and print as needed all year.
-  Updated: 2026-10-24T11:01:19Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 46
 - [Children's Printable Pages](https://printableplanning.com/collections/childrens-printable-pages): Children’s printables like chore charts, activity pages, and fun helpers for routines at home. Great for families, rewards, and busy days.
   Updated: 2026-08-12T13:53:19Z
   Total Products: 30
 - [Diet and Exercise Sheets](https://printableplanning.com/collections/diet-and-exercise-sheets): Diet and exercise printables for tracking meals, workouts, habits, and progress. Simple logs and goal sheets to support healthy routines.
-  Updated: 2026-08-28T18:28:30Z
+  Updated: 2026-10-30T11:00:42Z
   Total Products: 8
 - [Small Business Sheets and Forms](https://printableplanning.com/collections/small-business-sheets-and-forms): Small business printables for invoices, scheduling, bookkeeping, and tracking. Simple forms and sheets to organize work and clients.
-  Updated: 2026-08-30T15:14:33Z
+  Updated: 2026-10-29T11:01:24Z
   Total Products: 22
 - [To-Do Lists and Task Checklists](https://printableplanning.com/collections/to-do-lists-and-task-checklists): Printable to-do lists and task checklists for daily planning, weekly routines, and project tracking. Simple pages to keep tasks organized.
-  Updated: 2026-09-09T11:01:39Z
+  Updated: 2026-10-28T11:00:44Z
   Total Products: 35
 - [Low-Energy Planning Pages](https://printableplanning.com/collections/low-energy-planning-pages): Explore low-energy planning pages and gentle printable tools for overwhelming days, brain dumps, task sorting, life admin catch-up, home resets, and realistic daily planning.
-  Updated: 2026-08-12T13:53:19Z
+  Updated: 2026-10-28T11:00:44Z
   Total Products: 11
 
 ## Store Pages
@@ -1451,7 +1451,7 @@ Printable Planning is an online shop offering digital, printable PDF forms and c
 ## Policies
 
 - [Privacy Policy](https://printableplanning.com/policies/privacy-policy)
-  Updated: 2024-10-20T19:32:19Z
+  Updated: 2026-10-29T16:40:13Z
 - [Contact Information](https://printableplanning.com/policies/contact-information)
   Updated: 2025-06-24T21:58:22Z
 
