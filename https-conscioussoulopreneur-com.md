@@ -6,7 +6,7 @@
 - Timezone: Australia/Adelaide
 - Created At: 2025-06-21T06:21:38Z
 - Contact Email: carlos.r.lauthier@gmail.com
-- Updated At: 2026-10-25T00:39:28.354Z
+- Updated At: 2026-11-01T01:18:50.322Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/zmn7nn8-front-shortedge-384.jpg?v=1789606891
   Price: $44.00 USD
 - [Who Do You Think You Are? — Hardcover | Spiritual Self-Discovery](https://conscioussoulopreneur.com/products/spiritual-self-discovery-book-hardcover): Who Do You Think You Are? in hardcover, a spiritual memoir exploring identity, consciousness, purpose, and self-discovery. By Ruben Lauthier Wendt.
-  Updated: 2026-10-24T14:04:51Z
+  Updated: 2026-10-30T21:38:41Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: Hardcover
   Availability: Available
@@ -39,18 +39,16 @@
   Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/7kz6q26-front-shortedge-384.jpg?v=1789606909
   Price: $44.00 USD
 - [Who Do You Think You Are? — Shared Consciousness Spiritual eBook](https://conscioussoulopreneur.com/products/shared-spiritual-ebook-i-am-scared-who-do-you-think-you-are): Feeling scared and lost? Who Do You Think You Are? is a transformative spiritual eBook that guides you back to your true self. Instant download. 7-day guarantee.
-  Updated: 2026-10-23T12:53:25Z
+  Updated: 2026-10-29T11:31:42Z
   Vendor: CONSCIOUS SOULOPRENEUR
   Product Type: eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/who-do-you-think-you-are-lifestyle-reading-image.png?v=1789760086
   Price: $6.00 USD
 - [¿Quién Te Crees Que Eres? eBook de Autodescubrimiento Espiritual](https://conscioussoulopreneur.com/products/quien-te-crees-que-eres-ebook-de-autodescubrimiento-espiritual): Explora tu identidad, conciencia y crecimiento personal con ¿Quién Te Crees Que Eres?, un eBook de autodescubrimiento espiritual en español. Descarga digital.
-  Updated: 2026-10-23T16:03:04Z
+  Updated: 2026-10-29T11:31:44Z
   Vendor: Conscious Soulopreneur
   Product Type: eBook
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0764/5256/1139/files/lady-reading-with-cup-popup-image.png?v=1789701699
   Price: $6.00 USD
 
 ## Collections
@@ -127,7 +125,7 @@
 ## Policies
 
 - [Privacy Policy](https://conscioussoulopreneur.com/policies/privacy-policy)
-  Updated: 2025-06-21T06:21:48Z
+  Updated: 2026-10-30T16:28:52Z
 - [Shipping Policy](https://conscioussoulopreneur.com/policies/shipping-policy)
   Updated: 2026-10-18T21:38:56Z
 - [Refund Policy](https://conscioussoulopreneur.com/policies/refund-policy)
