@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-04-12T06:24:32Z
 - Contact Email: saleseliteautos@gmail.com
-- Updated At: 2026-10-25T00:41:45.902Z
+- Updated At: 2026-11-01T01:15:27.615Z
 
 ## Products
 
@@ -18,8 +18,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/01.jpg?v=1778003310
   Price: Rs 1,850.00 PKR
 - [DLAA 70W Handheld Spotlight 24V High Power Car Searchlight Pakistan](https://eliteautos.pk/products/dlaa-70w-handheld-spotlight-24v-car-searchlight): High power DLAA 70W handheld spotlight with long range beam. 12V/24V car cigarette lighter connection, durable build, ideal for night driving and emergencies.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:07:58Z
+  Vendor: DLAA
   Product Type: Spotlight
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/02.webp?v=1778004560
@@ -39,22 +39,22 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Untitleddesign_8.png?v=1778006960
   Price: Rs 950.00 PKR
 - [Maxx Power H4 LED Headlight 48W | Elite Autos PK](https://eliteautos.pk/products/maxx-power-h4-led-headlight-bulb-48w): Maxx Power H4 LED headlight bulb 48W, 200% brighter 6500K pure white, plug & play, waterproof.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:07:58Z
+  Vendor: Maxx Power
   Product Type: H4 LED Headlight Bulb
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed.webp?v=1778008643
   Price: Rs 4,350.00 PKR
 - [DLAA Honda Civic 1999 Fog Lamps HD093 Front Pair Replacement Pakistan Karachi](https://eliteautos.pk/products/dlaa-honda-civic-1999-hd093-front-fog-lamp-set-pair): DLAA HD093 Fog Lamp Set for Honda Civic 1999. Durable OEM-grade ABS construction with strong road visibility in fog, rain, and night driving conditions. Direct replacement fit available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:07:59Z
+  Vendor: DLAA
   Product Type: Front Fog Lamp Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_5ef823b3-903d-4f4e-aca2-257dfb49db68.webp?v=1778009743
   Price: Rs 11,650.00 PKR
 - [DLAA Toyota Platz 2005 Fog Lamps TY900 Front Pair Replacement Pakistan Karachi](https://eliteautos.pk/products/dlaa-toyota-platz-2005-ty900-fog-lamps): DLAA TY900 Fog Lamp Set for Toyota Platz 2005. OEM-grade ABS build with strong visibility in fog, rain, and night driving conditions. Direct replacement front fog lamps available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:09Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:07:59Z
+  Vendor: DLAA
   Product Type: Front Fog Lamp Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_4d089106-a188-47e3-8393-3d4ae452ab1c.webp?v=1778010589
@@ -130,8 +130,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_17.webp?v=1778179501
   Price: Rs 12,950.00 PKR
 - [SOGO Double Head Car Fan Breeze 12V Powerful Cooling Fan Pakistan Karachi](https://eliteautos.pk/products/sogo-double-head-large-powerful-fan-breeze): SOGO Double Head Large Powerful Fan Breeze with dual adjustable heads, 360 degree rotation, and low noise cooling performance. Portable 12V car fan available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:10Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:07:59Z
+  Vendor: SOGO
   Product Type: Dual Head Car Fan
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_22.webp?v=1778180172
@@ -158,22 +158,22 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_45.webp?v=1778417912
   Price: Rs 850.00 PKR
 - [Gladiator Car  Kit All Inclusive 12PCS Pakistan Karachi](https://eliteautos.pk/products/gladiator-car--kit-all-inclusive): Gladiator Car  Kit All Inclusive with 12 premium car care products for exterior, interior, tires, paint shine, and cleaning maintenance. Complete detailing kit available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:00Z
+  Vendor: Gladiator
   Product Type: Car Care Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_49.webp?v=1778419296
   Price: Rs 5,780.00 PKR
 - [Gladiator Wash and Wax Shampoo GT61 1 Litre Pakistan Karachi](https://eliteautos.pk/products/gladiator-wash-wax-shampoo-1-litre-gt61): Gladiator Wash & Wax Shampoo GT61 1 Litre delivers deep cleaning, carnauba wax shine, and paint protection in one wash. Helps remove dirt safely while enhancing gloss and water beading. Available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:00Z
+  Vendor: Gladiator
   Product Type: Car Wash Shampoo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorWash_WaxShampoo1Litre-GT61_7042dfb3-9f60-4fda-84f1-e4bafdd6bbf3_2_-ezremove.png?v=1778420029
   Price: Rs 930.00 PKR
 - [Gladiator Scratch Remover GT99 300ML Paint Care Pakistan Karachi](https://eliteautos.pk/products/gladiator-scratch-remover-300ml-gt99): Gladiator Scratch Remover GT99 300ML removes fine scratches, swirls, haze, and water spots while restoring paint shine safely on all vehicle paint finishes. Available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:01Z
+  Vendor: Gladiator
   Product Type: Scratch Remover Liquid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_59.webp?v=1778614614
@@ -186,36 +186,36 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_63.webp?v=1778615416
   Price: Rs 1,180.00 PKR
 - [Gladiator Tire Protection Kit 450ML Pakistan Karachi](https://eliteautos.pk/products/gladiator-tire-protection-kit-450ml): Gladiator Tire Protection Kit 450ML with waterproof polymer formula for long lasting tire shine, UV protection, and crack prevention. Sling free tire care solution available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:02Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:01Z
+  Vendor: Gladiator
   Product Type: Tire Gel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_65.webp?v=1778615989
   Price: Rs 1,290.00 PKR
 - [Gladiator 8 in 1 Car Care Detailing Kit Pakistan Karachi](https://eliteautos.pk/products/gladiator-8-in-1-car-care-detailing-kit): Gladiator 8 in 1 Car Care Detailing Kit with shampoo, wax, tire gel, polish, rust remover, microfiber cloths, and applicators for complete vehicle care. Available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:02Z
+  Vendor: Gladiator
   Product Type: Car Detailing Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_67.webp?v=1778616488
   Price: Rs 4,180.00 PKR
 - [Gladiator Dashboard Restore Shine Polish 450ML Pakistan Karachi](https://eliteautos.pk/products/gladiator-dashboard-restore-shine-polish-450ml): Gladiator Dashboard Restore & Shine Polish 450ML cleans, restores, and protects dashboard and interior surfaces while enhancing gloss and providing a fresh fragrance finish. Available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:02Z
+  Vendor: Gladiator
   Product Type: Dashboard Polish
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_76.webp?v=1778617066
   Price: Rs 1,380.00 PKR
 - [Gladiator Engine Degreaser Clean Spray 650ML Pakistan Karachi](https://eliteautos.pk/products/gladiator-engine-degreaser-clean-spray-650ml): Gladiator Engine Degreaser 650ML removes grease, oil, dirt, and grime from engine surfaces and mechanical parts with powerful cleaning action. Suitable for engines, machinery, and detailing use in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:03Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:02Z
+  Vendor: Gladiator
   Product Type: Engine Degreaser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_78.webp?v=1778617474
   Price: Rs 1,180.00 PKR
 - [Gladiator Platinum Hard Wax 200G Car Care Pakistan Karachi](https://eliteautos.pk/products/gladiator-platinum-hard-wax-200g-microfiber-cloth): Gladiator Platinum Hard Wax 200G with microfiber cloth delivers deep shine, UV protection, and paint restoration for all vehicle colors. Long lasting car paint protection available in Pakistan and Karachi.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:03Z
+  Vendor: Gladiator
   Product Type: Car Wax
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/wmremove-transformed_83.webp?v=1778618143
@@ -290,23 +290,16 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ChatGPTImageMay16_2026_01_03_37AM.png?v=1778875466
   Price: Rs 64,999.00 PKR
-- [Toby's LX60 LED Headlight 120W 12000LM Pakistan](https://eliteautos.pk/products/tobys-lx60-led-headlight-120w-12000lm): Buy Toby's LX60 Car LED Headlight 120W 12000LM in Pakistan. Ultra bright pure white LED headlights with waterproof design, easy installation, and 6 month warranty.
-  Updated: 2026-10-21T21:07:09Z
-  Vendor: Elite Autos
-  Product Type: LED Lights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/LED_LIGHTING.webp?v=1779018201
-  Price: Rs 5,499.00 PKR
 - [Maxx Power H11 LED Headlight 48W Pure White Pakistan](https://eliteautos.pk/products/maxx-power-h11-led-headlight-48w): Buy Maxx Power H11 LED Headlight Bulbs 48W in Pakistan. 200% brighter Pure White LED headlights with waterproof design and easy installation for most vehicles.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:03Z
+  Vendor: Maxx Power
   Product Type: LED Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/MaxxPowerLED-H11LEDBright200_48w2.webp?v=1779018727
   Price: Rs 4,399.00 PKR
 - [Bugatti T2 Cree Plus LED Headlight 150W 15000LM Pakistan](https://eliteautos.pk/products/bugatti-t2-cree-plus-led-headlight-150w-15000lm): Buy Bugatti T2 Cree Plus Car LED Headlight 150W 15000LM 6000K in Pakistan. Ultra bright Pure White LED bulbs with CR Technology and waterproof design.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:04Z
+  Vendor: Bugatti
   Product Type: LED Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/BugattiT2CreePlusCarLED15000LM6000K150w2.webp?v=1779019525
@@ -319,8 +312,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Car_Scratch_Removal_MCPP_Body_Compound_Multi_Microfiber_Cloth.jpg?v=1786430626
   Price: Rs 1,199.00 PKR
 - [Elite Autos Gladiator Multi-Purpose Degreaser 500ML](https://eliteautos.pk/products/elite-autos-gladiator-multi-purpose-degreaser-500ml): Buy Elite Autos Gladiator Multi-Purpose Degreaser 500ML in Pakistan. Powerful engine cleaner for removing grease, oil, mud, and dirt from multiple automotive surfaces.
-  Updated: 2026-10-21T21:07:03Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:04Z
+  Vendor: Gladiator
   Product Type: Car Care
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorMulti-PurposeDegreaserwithMicrofiberCloth-1.webp?v=1779022741
@@ -864,13 +857,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/HavalLogoRubberDoorHandle_MirrorProtectorTransparent-1.webp?v=1781199272
   Price: Rs 329.00 PKR
-- [Hyundai Door Handle Bowl Protector Elite Autos](https://eliteautos.pk/products/hyundai-door-handle-bowl-protector-8-pcs): Hyundai door handle bowl protector prevents scratches and preserves paint with a transparent waterproof design. Easy to install. Shop now.
-  Updated: 2026-10-21T21:07:03Z
-  Vendor: Elite Autos
-  Product Type: Door Guards
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Hyundai8PcsCarDoorHandleDoorBowlProtectorTransparent-1.webp?v=1781199753
-  Price: Rs 849.00 PKR
 - [Changan Door Sill Protector Carbon Fiber Elite Autos](https://eliteautos.pk/products/changan-carbon-fiber-door-sill-protector): Changan carbon fiber door sill protector guards against scratches and wear while adding a sporty look. Easy installation. Order now.
   Updated: 2026-10-21T21:07:06Z
   Vendor: Elite Autos
@@ -1278,57 +1264,57 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Gemini_Generated_Image_biqr45biqr45biqr.png?v=1781850996
   Price: Rs 3,999.00 PKR
 - [Car Care Value Pack - Gladiator 6Pc Kit | Elite Autos](https://eliteautos.pk/products/gladiator-car-care-value-pack): Gladiator Car Care Value Pack protects your car's exterior, interior, and tires with USA formula. Shop the complete 6-piece kit now in Pakistan.
-  Updated: 2026-10-21T21:07:04Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:05Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Gemini_Generated_Image_v89cnuv89cnuv89c.png?v=1781851128
   Price: Rs 3,199.00 PKR
 - [Anti Rust Spray Gladiator De Rust Lubricant 450ML](https://eliteautos.pk/products/gladiator-de-rust-anti-rust-spray-450ml-pack-3): Anti rust spray with deep penetration and corrosion protection. Includes 3 cans and microfiber towel. Order Gladiator De Rust Lubricant now.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:05Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorDeRustLubricantGT07450ML-PackOfThree_MicrofiberTowelMulti-1.webp?v=1781852183
   Price: Rs 1,699.00 PKR
 - [Anti Rust Spray Gladiator De Rust Lubricant 450ML](https://eliteautos.pk/products/gladiator-de-rust-anti-rust-spray-450ml-pack-2): Anti rust spray with powerful lubrication and corrosion protection. Includes 2 cans and microfiber towel. Buy Gladiator De Rust Lubricant today.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:06Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorDeRustLubricant450ML-PackOfTwowithMicrofiberTowel-1.webp?v=1781852693
   Price: Rs 1,349.00 PKR
 - [Anti Rust Spray - Gladiator De Rust Lubricant 450ML](https://eliteautos.pk/products/gladiator-de-rust-lubricant-450ml-pack-of-two): Anti Rust Spray with powerful lubrication and corrosion protection. Gladiator De Rust Lubricant 450ML Pack of Two keeps metal parts rust free. Order now.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:06Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorDeRustLubricant450ML-PackOfTwo-1.webp?v=1781853224
   Price: Rs 1,099.00 PKR
 - [Car Care Restoration Kit - Gladiator Restore Kit](https://eliteautos.pk/products/gladiator-restore-kit-pack-of-6): Car Care Restoration Kit with headlight, scratch and plastic restorers. Complete Pack of 6 for interior and exterior protection. Order today.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:06Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorRestoreKitPackof6-1.webp?v=1781854275
   Price: Rs 2,799.00 PKR
 - [Tire Shine Spray - Gladiator GT85 Tire Shine 500ML](https://eliteautos.pk/products/gladiator-gt85-tire-shine-500ml-pack-of-2): Tire Shine Spray with intense gloss enhancers for a rich black finish. Includes 2 x 500ML bottles and microfiber towel. Order now.
-  Updated: 2026-10-21T21:07:04Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:07Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGT85-500MLPackOf2_MicrofiberTowel-1.webp?v=1781854785
   Price: Rs 1,699.00 PKR
 - [Engine Cleaning Kit - Gladiator Engine Bay Restoring Kit](https://eliteautos.pk/products/gladiator-engine-bay-restoring-kit): Engine Cleaning Kit with engine degreaser and carburetor cleaner. Gladiator Engine Bay Restoring Kit restores and protects your engine bay. Buy now.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:07Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorEngineBayRestoringKit-1.webp?v=1781855342
   Price: Rs 1,899.00 PKR
 - [Plastic Restorer Cream - Gladiator Plastic Respawn Kit](https://eliteautos.pk/products/gladiator-plastic-restorer-kit-300ml): Plastic Restorer Cream restores faded trims with nano technology and lasting shine. Complete kit for interior and exterior care. Order now.
-  Updated: 2026-10-21T21:07:09Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:07Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorPlasticRespawnKit-1.webp?v=1781855865
@@ -1355,8 +1341,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/17821082411d1c.png?v=1782108597
   Price: Rs 22,499.00 PKR
 - [Car Hard Wax - Gladiator Platinum 200g - Elite Autos](https://eliteautos.pk/products/gladiator-platinum-hard-wax): Gladiator Platinum Hard Wax restores deep gloss shine and shields your car's paint from UV rays and acid rain. Shop premium carnauba wax now in Pakistan.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:20Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorHardwaxPack-1.webp?v=1782108560
@@ -1369,8 +1355,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/Gemini_Generated_Image_hzazdrhzazdrhzaz_a2d7d288-e40c-4846-9032-34de4963978f.png?v=1782108973
   Price: Rs 14,499.00 PKR
 - [Car Deep Cleaning Kit - Gladiator 4Pc Combo - Elite Autos](https://eliteautos.pk/products/gladiator-car-deep-cleaning-kit): Gladiator Car Deep Cleaning Kit restores headlights, removes scratches, and protects paint and plastic trim. Shop the 4-piece combo now in Pakistan.
-  Updated: 2026-10-23T19:22:29Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:20Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorCarDeepCleaning-1Kit.webp?v=1782109285
@@ -1383,8 +1369,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRevo-VigoBackSoftLidCover-Model2016-2021-1.jpg?v=1782109726
   Price: Rs 25,000.00 PKR
 - [Bike Wash Kit - Gladiator Motorcycle Combo - Elite Autos](https://eliteautos.pk/products/gladiator-bike-value-wash-kit): Gladiator Bike Value Wash Kit cleans, degreases, and protects your motorcycle's exterior and tires. Shop the complete 6-piece combo today in Pakistan.
-  Updated: 2026-10-21T21:07:03Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:21Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/BikeValueWashKit1.webp?v=1782109831
@@ -1397,8 +1383,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaFortuner2016-19LEDTrunkGarnishChrome-1.jpg?v=1782110149
   Price: Rs 22,499.00 PKR
 - [Car Wax and Dashboard Polish Kit - Gladiator - Elite Autos](https://eliteautos.pk/products/gladiator-carnauba-wax-dashboard-polish-kit): Gladiator Carnauba Car Wax and Dashboard Polish Kit restores deep paint gloss and refreshes interior trim. Includes 2 microfiber cloths. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:21Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorCarnaubaCarWax_DashboardPolishwith2MicrofiberCloths-1.webp?v=1782110423
@@ -1418,15 +1404,15 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHilixRevosmarttopcanopy-1.png?v=1782111139
   Price: Rs 249,999.00 PKR
 - [Gladiator Dashboard Polish Spray 450ml | Car Interior Shine - Elite Autos](https://eliteautos.pk/products/gladiator-dashboard-polish-spray): Gladiator Dashboard Polish Spray 450ml - one-step clean & shine for dashboards, seats & trim. Cherry scent, wet-look finish. Includes 3 microfiber towels.
-  Updated: 2026-10-21T21:07:06Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:21Z
+  Vendor: Gladiator
   Product Type: Car Care Packs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/DashboardPolish_3PcsMicrofiberTowels-1.webp?v=1782111043
   Price: Rs 1,699.00 PKR
 - [Tire Sealant and Inflator GT15 - Gladiator - Elite Autos](https://eliteautos.pk/products/gladiator-tire-sealant-inflator-gt15): Gladiator Tire Sealant and Inflator seals punctures up to 6mm and reinflates tires in seconds, no jack needed. Shop the emergency fix now in Pakistan.
-  Updated: 2026-10-21T21:07:10Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:22Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireSealant_Inflator500ML-GT15-1.webp?v=1782111649
@@ -1439,22 +1425,15 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxVigoChamp2012TaillightcoverBlack-1.jpg?v=1782111985
   Price: Rs 3,199.00 PKR
 - [Tire Gel GT35W 450ml - Gladiator - Elite Autos](https://eliteautos.pk/products/gladiator-tire-gel-gt35w): Gladiator Tire Gel restores deep black shine, repels water, and protects tires from UV cracking and fading. Shop the long-lasting formula now in Pakistan.
-  Updated: 2026-10-21T21:07:09Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:22Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireGel450ML-GT35W-1.webp?v=1782112144
   Price: Rs 1,149.00 PKR
-- [Toyota Vigo Champ Tail Light Cover Black Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-hilux-vigo-champ-tail-light-cover-black): Protect & style your Vigo Champ taillights with Elite Autos' black ABS cover. Easy 3M tape install, no drilling. Fast delivery across Pakistan. Order now!
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
-  Product Type: SUV & 4x4 Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxVigoChamp2012TaillightcoverBlack-1_f9502cde-c9a5-4dd9-afb1-dab200bdc7c9.jpg?v=1782112579
-  Price: Rs 3,199.00 PKR
 - [Tire Shine GT85 500ml - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt85-500ml): Gladiator Tire Shine GT85 delivers rich black gloss with no messy overspray on rims. Long-lasting protection for your tires. Order today in Pakistan.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:22Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGT85500ML-1.webp?v=1782112917
@@ -1467,29 +1446,29 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRoccoCargoBedShutter-China-1.jpg?v=1782113367
   Price: Rs 140,000.00 PKR
 - [Tire Gel Pack of 3 450ml - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-gel-pack-of-3-450ml): Gladiator Tire Gel Pack of 3 keeps tires glossy black and protected from UV cracking and fading. Three 450ml bottles for lasting shine. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:03Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:23Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireGelPackof3-450ML-1.webp?v=1782113431
   Price: Rs 1,799.00 PKR
 - [Tire Foam Cleaner SG-02F - SOGO - Elite Autos](https://eliteautos.pk/products/elite-autos-sogo-tire-foam-cleaner-sg-02f-650ml): SOGO Tire Foam Cleaner dissolves dirt, restores deep black shine, and protects tires for weeks on end. Just spray and walk away. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:23Z
+  Vendor: SOGO
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/SogoTireFoamCleanerSG-02F-1.webp?v=1782113935
   Price: Rs 599.00 PKR
 - [Tire Shine GT85 Pack of 2 - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt85-pack-of-2-500ml): Gladiator Tire Shine GT85 Pack of 2 delivers rich black gloss with no messy overspray on rims. Two bottles for lasting shine. Order today in Pakistan.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:23Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGT85-500MLPackOf2-1.webp?v=1782114584
   Price: Rs 1,399.00 PKR
 - [Tire Foam Cleaner GT03S - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-foam-cleaner-gt03s-650ml): Gladiator Tire Foam Cleaner dissolves dirt, restores satin black shine, and protects tires for weeks. Just spray and walk away. Order now in Pakistan.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:24Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireFoam650ML-GT03S-1.webp?v=1782115045
@@ -1502,8 +1481,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/CarRimBrushDoubleSideGrey_Black-1.webp?v=1782115552
   Price: Rs 799.00 PKR
 - [Wheel Cleaner GT305 500ml - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-wheel-cleaner-gt305-500ml): Gladiator Wheel Cleaner GT305 removes stubborn brake dust and grime, restoring a drip-free, like-new shine to your wheels and rims. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:11Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:24Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorWheelCleaner500ML-GT305-1.webp?v=1782116028
@@ -1516,22 +1495,22 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/CarRimBrushSingleSideGrey-1.webp?v=1782116548
   Price: Rs 799.00 PKR
 - [Tire Shine GT10 500ml - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt10-500ml): Gladiator Tire Shine GT10 sprays on for a glossy, satin black finish that resists cracking, with no wiping or mess. Shine lasts for weeks. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:24Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShine500ML-GT10-1.webp?v=1782116985
   Price: Rs 749.00 PKR
 - [Tire Shine GT85 with Towel - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt85-microfiber-towel): Gladiator Tire Shine GT85 delivers rich black gloss with no messy overspray, plus a bonus microfiber towel for a streak-free buff. Order today in Pakistan.
-  Updated: 2026-10-21T21:07:07Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:25Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGT85-500ML_MicrofiberTowel-1.webp?v=1782117483
   Price: Rs 1,049.00 PKR
 - [Tire Shine GT85 Pack of 2 Towel - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt85-pack-of-2-microfiber-towel): Gladiator Tire Shine GT85 Pack of 2 delivers rich black gloss with no overspray, plus a bonus microfiber towel for a streak-free finish. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:04Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:25Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGT85-500MLPackOf2_MicrofiberTowel--1.webp?v=1782118273
@@ -1565,8 +1544,8 @@
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaFortuner2016-19LEDHeadlampCover-1.webp?v=1782194511
   Price: Rs 7,499.00 PKR
 - [GT85 Shines and Protects Combo - Gladiator - Elite Autos](https://eliteautos.pk/products/elite-autos-gladiator-tire-shine-gt85-shines-protects-gt27-combo): Gladiator Tire Shine GT85 and Shines and Protects GT27 deliver wet-look gloss and lasting protection for tires, trim, and bumpers. Shop now in Pakistan.
-  Updated: 2026-10-21T21:07:08Z
-  Vendor: Elite Autos
+  Updated: 2026-10-31T15:08:25Z
+  Vendor: Gladiator
   Product Type: Wheel & Tyre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/GladiatorTireShineGt85-500ml_Shines_Protects295ML-1PcsMicrofiberMulti-1.webp?v=1782194761
@@ -1760,39 +1739,60 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaYarisHatchbackTPEFloorMatsPremium-1.webp?v=1782283187
   Price: Rs 8,999.00 PKR
-[List Continued](https://eliteautos.pk/a/llms-agent/llms.txt?shop=4wpqbp-md.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDI5NDk2MjAxNDM5LCJsYXN0X3ZhbHVlIjoiOTQyOTQ5NjIwMTQzOSJ9)
+- [Toyota Hilux Revo Roof Rail Silver Black – Elite Autos](https://eliteautos.pk/products/elite-autos-toyota-hilux-revo-roof-rail-silver-black): Upgrade your Hilux Revo with Elite Autos' silver and black roof rails. OEM-style fit, corrosion resistant. Fast delivery across Pakistan. Order now!
+  Updated: 2026-10-21T21:07:08Z
+  Vendor: Elite Autos
+  Product Type: SUV & 4x4 Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRevoRoofRailSilverAndBlack-Model2016-21-1.webp?v=1782283229
+  Price: Rs 7,999.00 PKR
+- [Hilux Revo Rocco Retractable Bumper T-Step – Elite Autos](https://eliteautos.pk/products/elite-autos-hilux-revo-rocco-retractable-bumper-t-step): Access your truck bed easily with Elite Autos' retractable rear bumper T-step for Hilux Revo & Rocco. Sturdy, concealed design. Order now in Pakistan!
+  Updated: 2026-10-21T21:07:11Z
+  Vendor: Elite Autos
+  Product Type: SUV & 4x4 Accessories
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/ToyotaHiluxRevoRoccoPowerfulRetractableRearBumperFootT-Step1-Pcs-1.jpg?v=1782283817
+  Price: Rs 20,000.00 PKR
+- [BYD Shark 6 TXR 5D TPE Floor Mats 2025-26 - Elite Autos](https://eliteautos.pk/products/elite-autos-byd-shark-6-txr-5d-tpe-floor-mats-premium-2025-26): BYD Shark 6 TXR 5D TPE Floor Mats Premium offer high-edge protection against spills, mud, and door sill stains for 2025-2026 models. Shop now in Pakistan.
+  Updated: 2026-10-21T21:07:04Z
+  Vendor: Elite Autos
+  Product Type: Floor Mats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0805/1290/9535/files/BydShark62025-2026TXR5DTPEPremiumFloorMats-1.webp?v=1782283838
+  Price: Rs 23,000.00 PKR
+[List Continued](https://eliteautos.pk/a/llms-agent/llms.txt?shop=4wpqbp-md.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NDI5NTAwNTI2ODE1LCJsYXN0X3ZhbHVlIjoiOTQyOTUwMDUyNjgxNSJ9)
 
 ## Collections
 
 - [Exterior](https://eliteautos.pk/collections/exterior): Buy car exterior accessories in Karachi — side skirts, grilles, door guards, emblems & more. Fast delivery, COD available. Shop Elite Autos today.
-  Updated: 2026-10-21T22:08:05Z
+  Updated: 2026-10-31T14:52:00Z
   Total Products: 164
 - [Gadgets](https://eliteautos.pk/collections/car-gadgets-automotive-accessories-pakistan): Buy car gadgets in Karachi: dash cams, jump starters, air compressors, Android panels & more. Fast delivery, COD available. Shop Elite Autos today.
   Updated: 2026-10-21T22:24:51Z
   Total Products: 62
 - [Fragrance](https://eliteautos.pk/collections/car-fragrance-air-fresheners-pakistan): Buy car fragrance in Karachi: Areon gels, dashboard, hanging & AC vent perfumes. Long-lasting scents, fast delivery, COD available. Shop Elite Autos.
-  Updated: 2026-10-15T05:59:03Z
+  Updated: 2026-10-31T15:09:07Z
   Total Products: 14
 - [Car care](https://eliteautos.pk/collections/car-care): Shop premium car care and detailing products in Pakistan at Elite Autos. From car shampoos, waxes, and polishes to polishers and interior cleaners. Fast delivery nationwide!
-  Updated: 2026-10-24T11:24:10Z
+  Updated: 2026-10-31T15:09:08Z
   Total Products: 92
 - [Modifications](https://eliteautos.pk/collections/modifications): Shop car modification parts in Pakistan: body kits, splitters, spoilers, exhaust tips and steering upgrades. Cash on delivery from Elite Autos Karachi.
   Updated: 2026-10-21T22:24:56Z
   Total Products: 4
 - [LED & Lights](https://eliteautos.pk/collections/car-led-lights-pakistan): Shop premium car LED lights, projector headlights, fog lamps, DRLs, and automotive lighting accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-21T22:24:53Z
+  Updated: 2026-10-31T15:08:54Z
   Total Products: 24
 - [Interior](https://eliteautos.pk/collections/car-interior-accessories-pakistan): Buy car interior accessories in Karachi — floor mats, seat covers, organizers & more. Fast delivery, COD available. Shop Elite Autos today.
-  Updated: 2026-10-24T13:45:22Z
+  Updated: 2026-10-31T15:08:29Z
   Total Products: 96
 - [SUV & 4×4](https://eliteautos.pk/collections/suv-4-4): Shop SUV and 4x4 accessories in Pakistan: bull bars, side steps, roof racks, body kits, conversions and off-road upgrades. COD nationwide from Elite Autos.
-  Updated: 2026-10-21T22:08:06Z
+  Updated: 2026-10-31T14:52:34Z
   Total Products: 64
 - [Utilities](https://eliteautos.pk/collections/utilities): Shop car utility accessories in Pakistan: cooling fans, top covers, wiper blades, vacuums and horns. Cash on delivery from Elite Autos Karachi.
-  Updated: 2026-10-21T22:08:04Z
+  Updated: 2026-10-31T15:08:01Z
   Total Products: 43
 - [LED & SMD Lights](https://eliteautos.pk/collections/led-smd-car-lights-pakistan): Shop premium LED and SMD car lights including DRLs, interior lights, strip lights, parking bulbs, and automotive lighting accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-08T08:25:33Z
+  Updated: 2026-10-31T15:08:54Z
   Total Products: 16
 - [Headlights](https://eliteautos.pk/collections/car-headlights-pakistan): Shop premium car headlights, projector lights, LED headlamps, front lighting upgrades, and automotive headlight accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:34Z
@@ -1813,10 +1813,10 @@
   Updated: 2026-10-08T08:25:33Z
   Total Products: 1
 - [Atmosphere Lights](https://eliteautos.pk/collections/car-atmosphere-lights-ambient-lighting-pakistan): Shop premium car atmosphere lights, RGB ambient lighting kits, interior LED strips, footwell lights, and luxury car interior lighting online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-08T08:25:33Z
+  Updated: 2026-10-31T15:08:24Z
   Total Products: 4
 - [DLAA Fog Lamps](https://eliteautos.pk/collections/dlaa-fog-lamps-pakistan): Buy DLAA fog lamps in Pakistan. High-performance LED fog lights, projector fog lamps, and bumper fog lights for cars & SUVs with fast delivery from Elite Autos Karachi.
-  Updated: 2026-10-08T08:25:33Z
+  Updated: 2026-10-31T15:08:00Z
   Total Products: 3
 - [Body Kits & Extensions](https://eliteautos.pk/collections/car-body-kits-modifications-pakistan): Shop premium car body kits, bumpers, side skirts, spoilers, diffusers, and exterior modification accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:35Z
@@ -1864,10 +1864,10 @@
   Updated: 2026-09-06T08:26:35Z
   Total Products: 0
 - [SUV & 4X4 Accessories](https://eliteautos.pk/collections/suv-4x4-accessories-pakistan): Shop premium SUV & 4x4 accessories including bull bars, roof racks, off-road lights, body kits, utility boxes, and exterior upgrades online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-08T08:25:33Z
+  Updated: 2026-10-31T14:52:34Z
   Total Products: 42
 - [Car Fans](https://eliteautos.pk/collections/car-fans-vehicle-cooling-fans-pakistan): Shop premium car fans, USB cooling fans, dashboard fans, rear seat cooling fans, and automotive air circulation accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:35Z
+  Updated: 2026-10-31T15:08:01Z
   Total Products: 1
 - [Top Covers](https://eliteautos.pk/collections/car-top-covers-waterproof-vehicle-covers-pakistan): Shop premium car top covers, waterproof vehicle covers, UV protection covers, dustproof outdoor car covers, and SUV protective covers online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:35Z
@@ -1912,7 +1912,7 @@
   Updated: 2026-09-06T08:26:36Z
   Total Products: 4
 - [Door Guards](https://eliteautos.pk/collections/car-door-guards-side-protectors-pakistan): Shop premium car door guards, anti-scratch side protectors, rubber door guards, edge protection strips, and exterior safety accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:36Z
+  Updated: 2026-10-31T14:52:00Z
   Total Products: 60
 - [Air Press / Wind Deflectors](https://eliteautos.pk/collections/air-press-wind-deflectors-pakistan): Shop premium air press, wind deflectors, rain guards, side window visors, and aerodynamic car exterior accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-10-08T08:24:55Z
@@ -1939,7 +1939,7 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Floor Mats](https://eliteautos.pk/collections/car-floor-mats-floor-liners-pakistan): Buy car floor mats in Karachi: carpet, rubber & TPE liners, plus model-specific fits for Corolla, Civic, City & more. Fast delivery, COD available.
-  Updated: 2026-10-22T11:25:21Z
+  Updated: 2026-10-31T15:08:29Z
   Total Products: 93
 - [Tissue Boxes](https://eliteautos.pk/collections/car-tissue-boxes-tissue-holders-pakistan): Shop premium car tissue boxes, leather tissue holders, visor tissue organizers, dashboard tissue cases, and luxury interior accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:37Z
@@ -1969,37 +1969,37 @@
   Updated: 2026-09-06T08:26:37Z
   Total Products: 0
 - [Microfiber Accessories](https://eliteautos.pk/collections/buy-now-microfiber-accessories-car-detailing-pakistan): Shop premium microfiber towels, detailing cloths, wash mitts, drying towels, polishing pads, and automotive car care accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-24T11:24:10Z
+  Updated: 2026-10-31T11:18:47Z
   Total Products: 2
 - [Car Care Packs](https://eliteautos.pk/collections/car-care-packs-detailing-kits-pakistan): Shop premium car care packs, detailing kits, wash and wax bundles, ceramic care kits, microfiber combos, and automotive cleaning accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-23T21:16:31Z
+  Updated: 2026-10-31T15:08:23Z
   Total Products: 24
 - [All-Purpose Cleaners](https://eliteautos.pk/collections/all-purpose-cleaners-car-detailing-pakistan): Shop premium all purpose cleaners, interior cleaning sprays, dashboard cleaners, upholstery cleaners, and automotive detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:28:32Z
+  Updated: 2026-10-31T15:08:56Z
   Total Products: 6
 - [Shampoo & Foam](https://eliteautos.pk/collections/car-shampoo-snow-foam-pakistan): Shop premium car shampoo, snow foam cleaners, foam cannon wash liquids, pH balanced car wash soaps, and automotive detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:28:59Z
+  Updated: 2026-10-31T15:08:58Z
   Total Products: 6
 - [Engine Cleaners](https://eliteautos.pk/collections/engine-cleaners-degreasers-pakistan): Shop premium engine cleaners, engine degreasers, foam engine wash products, grease removers, and automotive detailing accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:28:54Z
+  Updated: 2026-10-31T15:09:01Z
   Total Products: 11
 - [Pressure Washers](https://eliteautos.pk/collections/pressure-washers-car-cleaning-pakistan): Shop premium pressure washers, high-pressure car washers, foam cannon machines, electric car cleaning systems, and automotive detailing equipment online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
 - [Car Polish & Wax](https://eliteautos.pk/collections/car-polish-wax-products-pakistan): Shop premium car polish, car wax, ceramic wax, paint sealants, polishing compounds, and automotive detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:29:28Z
+  Updated: 2026-10-31T15:09:06Z
   Total Products: 7
 - [Wheel & Tyre](https://eliteautos.pk/collections/wheel-tyre-care-products-pakistan): Shop premium tyre shine, wheel cleaners, tyre foam, alloy wheel detailing products, brake dust removers, and automotive car care accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:29:13Z
+  Updated: 2026-10-31T15:08:27Z
   Total Products: 16
 - [Interior Cleaning Polishes](https://eliteautos.pk/collections/interior-cleaning-polishes-pakistan): Shop premium dashboard polish, leather conditioners, interior shine sprays, vinyl cleaners, and automotive interior detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-21T07:44:19Z
+  Updated: 2026-10-31T15:09:08Z
   Total Products: 16
 - [Polisher Machines & Buffers](https://eliteautos.pk/collections/polisher-machines-buffers-pakistan): Shop premium polisher machines, car buffers, dual action polishers, rotary polishers, buffing pads, and automotive detailing equipment online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
 - [Areon Air Fresheners](https://eliteautos.pk/collections/areon-air-fresheners-car-perfumes-pakistan): Shop premium Areon air fresheners, car perfumes, hanging fragrances, vent perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-10-15T05:59:03Z
+  Updated: 2026-10-31T15:08:54Z
   Total Products: 13
 - [Dashboard Perfumes](https://eliteautos.pk/collections/dashboard-perfumes-car-fragrances-pakistan): Shop premium dashboard perfumes, luxury car fragrances, aroma diffusers, gel perfumes, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
@@ -2014,10 +2014,10 @@
   Updated: 2026-09-06T08:26:38Z
   Total Products: 0
 - [AC Grill Perfumes](https://eliteautos.pk/collections/ac-grill-perfumes-car-vent-fresheners-pakistan): Shop premium AC grill perfumes, vent clip air fresheners, luxury car fragrances, aroma diffusers, and automotive fragrance accessories online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-06T08:26:38Z
+  Updated: 2026-10-31T15:09:07Z
   Total Products: 1
 - [Scratch & Swirls Restore](https://eliteautos.pk/collections/scratch-swirl-restorers-paint-correction-pakistan): Shop premium scratch removers, swirl restorers, polishing compounds, paint correction kits, and automotive detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:28:48Z
+  Updated: 2026-10-31T15:08:02Z
   Total Products: 3
 - [Comfort & Seating](https://eliteautos.pk/collections/car-comfort-seating-accessories-pakistan): Shop premium car comfort and seating accessories including seat cushions, neck pillows, lumbar supports, and interior comfort products online in Pakistan at Elite Autos Karachi.
   Updated: 2026-09-06T08:26:38Z
@@ -2047,7 +2047,7 @@
   Updated: 2026-09-06T08:26:39Z
   Total Products: 0
 - [Windshield & Glass Wash](https://eliteautos.pk/collections/windshield-glass-wash-products-pakistan): Shop premium windshield washer fluids, glass cleaners, anti-fog sprays, rain repellents, and automotive glass detailing products online in Pakistan at Elite Autos Karachi.
-  Updated: 2026-09-08T08:29:19Z
+  Updated: 2026-10-31T15:09:04Z
   Total Products: 7
 - [Key Cover & Key Chains](https://eliteautos.pk/collections/key-covers-key-chains-pakistan): Shop premium car key covers, smart key cases, luxury key chains, TPU key protectors, and automotive key accessories online in Pakistan at Elite Autos Karachi.
   Updated: 2026-10-04T11:22:59Z
@@ -2077,10 +2077,10 @@
   Updated: 2026-09-06T08:26:39Z
   Total Products: 0
 - [Deals](https://eliteautos.pk/collections/deals): Discover the best deals and discounts on top products. Limited-time offers updated regularly — shop now and save before they're gone.
-  Updated: 2026-10-24T11:24:10Z
+  Updated: 2026-10-31T15:08:54Z
   Total Products: 43
-- [XYZ collection](https://eliteautos.pk/collections/xyz-collection)
-  Updated: 2026-10-23T21:16:31Z
+- [Featured Car Accessories](https://eliteautos.pk/collections/xyz-collection): Hand-picked car accessories from Elite Autos Karachi: LED headlights, TPE floor mats, car covers and car care kits. Delivery across Pakistan, WhatsApp 0371-3238271.
+  Updated: 2026-10-31T15:09:40Z
   Total Products: 4
 
 ## Blogs
@@ -2092,8 +2092,8 @@
   - [4x4 Conversion & Facelift Guide | Elite Autos](https://eliteautos.pk/blogs/news/4x4-conversion-facelift-guide): 4x4 Conversion & Facelift Guide | Elite Autos
     Updated: 2026-10-22T14:39:07Z
     Author: Elite Autos Team
-  - [Car Detailing in Karachi: What's Included | Elite Autos](https://eliteautos.pk/blogs/news/car-detailing-karachi-guide): Car Detailing in Karachi: What's Included | Elite Autos
-    Updated: 2026-10-22T14:38:49Z
+  - [Car Detailing Karachi: Packages, Time & Cost Guide](https://eliteautos.pk/blogs/news/car-detailing-karachi-guide): Car Detailing Karachi: Packages, Time & Cost Guide
+    Updated: 2026-10-31T01:14:15Z
     Author: Elite Autos Team
   - [PPF Price in Karachi 2026 Guide | Elite Autos](https://eliteautos.pk/blogs/news/ppf-price-karachi-2026-guide): PPF Price in Karachi 2026 Guide | Elite Autos
     Updated: 2026-10-22T14:38:29Z
@@ -2108,12 +2108,12 @@
     Updated: 2026-10-22T14:40:25Z
     Author: Elite Autos
     Tags: Car Care, EV, Hybrid, Karachi, Pakistan 2026, Upcoming Cars
-  - [Tesla Car Prices in Pakistan: Model-Wise Price List](https://eliteautos.pk/blogs/news/tesla-car-prices-in-pakistan): Tesla Car Prices in Pakistan: Model-Wise Price List
-    Updated: 2026-10-22T14:39:54Z
+  - [Tesla Price in Pakistan 2026: Model 3, Y, S, X & Cybertruck](https://eliteautos.pk/blogs/news/tesla-car-prices-in-pakistan): Tesla Price in Pakistan 2026: Model 3, Y, S, X & Cybertruck
+    Updated: 2026-10-31T04:12:36Z
     Author: Elite Autos
     Tags: Car Care, Car Prices, EV, Karachi, Pakistan, Tesla
-  - [Tesla Roadster 2026: Price, Specs & Pakistan Availability](https://eliteautos.pk/blogs/news/tesla-roadster-2026-price-specs-pakistan): Tesla Roadster 2026: Price, Specs & Pakistan Availability
-    Updated: 2026-10-22T07:37:16Z
+  - [Tesla Roadster Price in Pakistan 2026: Deposit & Specs](https://eliteautos.pk/blogs/news/tesla-roadster-2026-price-specs-pakistan): Tesla Roadster Price in Pakistan 2026: Deposit & Specs
+    Updated: 2026-10-31T01:14:15Z
     Author: Elite Autos
     Tags: Car News, EV, Pakistan, Tesla, Tesla Roadster
 
@@ -2133,8 +2133,8 @@
   Updated: 2026-09-16T08:45:57Z
 - [Car Audio & Stereo Installation in Karachi | Elite Autos](https://eliteautos.pk/pages/car-audio-stereo-system-installation): Car Audio & Stereo Installation Upgrade your driving experience with professional car audio installation in Karachi. Whether you're replacing a fac...
   Updated: 2026-09-25T08:12:27Z
-- [4x4 Conversion & Facelift in Karachi | Elite Autos](https://eliteautos.pk/pages/4x4-conversion-facelif): 4x4 Conversion & Facelift Whether you want to take your vehicle off the beaten path or give it a completely fresh, modern look, Elite Autos offers ...
-  Updated: 2026-09-25T08:15:40Z
+- [4x4 Conversion & Facelift in Karachi | Elite Autos](https://eliteautos.pk/pages/4x4-conversion-facelift): 4x4 Conversion & Facelift Whether you want to take your vehicle off the beaten path or give it a completely fresh, modern look, Elite Autos offers ...
+  Updated: 2026-10-31T12:25:03Z
 - [FAQ's](https://eliteautos.pk/pages/faqs): Welcome to Elite Autos — Pakistan’s trusted destination for premium car accessories, detailing products, LED lights, body kits, SUV upgrades, and a...
   Updated: 2026-05-29T18:52:50Z
 - [Privacy Policy](https://eliteautos.pk/pages/privacy-policy): Elite Autos operates this store and website, including all related information, content, features, tools, products and services, in order to provid...
