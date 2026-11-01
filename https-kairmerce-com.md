@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-13T18:25:24Z
 - Contact Email: kairmerce@outlook.com
-- Updated At: 2026-10-25T00:40:44.552Z
+- Updated At: 2026-11-01T00:47:40.409Z
 
 ## Products
 
@@ -1069,7 +1069,7 @@
 ## Policies
 
 - [Privacy Policy](https://kairmerce.com/policies/privacy-policy)
-  Updated: 2026-01-13T18:25:36Z
+  Updated: 2026-10-30T22:10:40Z
 - [Shipping Policy](https://kairmerce.com/policies/shipping-policy)
   Updated: 2026-08-23T09:54:58Z
 - [Refund Policy](https://kairmerce.com/policies/refund-policy)
