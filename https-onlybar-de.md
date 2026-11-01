@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-23T15:38:07Z
 - Contact Email: info@onlybar.de
-- Updated At: 2026-10-25T00:37:55.067Z
+- Updated At: 2026-11-01T00:56:53.967Z
 
 ## Products
 
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0997/6666/5600/files/onlysauce-curry-ketchup-rotbraune-flasche-mit-schwarzem-etik.png?v=1791111801
   Price: 4,49 € EUR
 - [OnlyCherki Beef Jerky Original – Würziger Rindfleischsnack pur](https://onlybar.de/products/onlycherki-beef-jerky-original-rindfleischsnack): OnlyCherki Beef Jerky Original ist würzig-herbes Trockenfleisch aus Rindfleisch, handwerklich in einer bayerischen Metzgerei hergestellt – für Büro, Reisen oder Pause.
-  Updated: 2026-10-18T15:51:28Z
+  Updated: 2026-10-30T06:59:45Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
@@ -55,7 +55,7 @@
     Availability: Available
     Price: 42,50 € EUR
 - [OnlyCherki Beef Jerky – Pfeffer Style mit kräftigem Rindfleischgeschmack](https://onlybar.de/products/onlycherki-beef-jerky-pfeffer-style): OnlyCherki Beef Jerky im Pfeffer Style: handwerklich in einer bayerischen Metzgerei aus Rindfleisch hergestellt. Herzhaft für deine Snackpause, mit 50 g Inhalt.
-  Updated: 2026-10-19T08:53:16Z
+  Updated: 2026-10-30T06:59:07Z
   Vendor: OnlyBar by SeamlessBio
   Product Type: Beef Jerky
   Availability: Available
@@ -114,8 +114,33 @@
   - [Kalorienarme Snacks](https://onlybar.de/blogs/news/kalorienarme-snacks): Kalorienarme Snacks
     Updated: 2026-10-21T09:00:27Z
     Author: Pascal Zimmermann
+  - [OnlyBar gesunde Snacks ohne Verzicht – 2026 Trend](https://onlybar.de/blogs/news/onlybar-gesunde-snacks-ohne-verzicht-2026-trend): OnlyBar gesunde Snacks ohne Verzicht – 2026 Trend
+    Updated: 2026-10-28T10:14:02Z
+    Author: The OnlyBar by SeamlessBio Team
+    Tags: bewusster Genuss, Ernährung 2026, gesunde Snacks, OnlyBar, Proteinriegel
   - [Die Sie unbedingt probieren sollten](https://onlybar.de/blogs/news/die-sie-unbedingt-probieren-sollten): Die Sie unbedingt probieren sollten
     Updated: 2026-10-23T09:00:29Z
+    Author: Pascal Zimmermann
+  - [Wegweiser durch den Supermarkt: Diese Zuckerfallen sollten Sie meiden](https://onlybar.de/blogs/news/wegweiser-durch-den-supermarkt-diese-zuckerfallen-sollten-sie-meiden): Wegweiser durch den Supermarkt: Diese Zuckerfallen sollten Sie meiden
+    Updated: 2026-10-25T09:01:33Z
+    Author: Pascal Zimmermann
+  - [Burger Sauce ohne Zucker: kalorienarm & vollmundig | OnlyBar](https://onlybar.de/blogs/news/burger-sauce-ohne-zucker)
+    Updated: 2026-10-27T21:49:07Z
+    Author: Pascal Zimmermann
+    Tags: burger sauce
+  - [Beef Jerky gesund? Was wirklich drinsteckt | OnlyBar](https://onlybar.de/blogs/news/beef-jerky-gesund)
+    Updated: 2026-10-27T21:49:09Z
+    Author: Pascal Zimmermann
+    Tags: Ernährung 2026, Fleisch, Jerks
+  - [Curry Ketchup ohne Zucker: würzig & kalorienarm | OnlyBar](https://onlybar.de/blogs/news/curry-ketchup-ohne-zucker)
+    Updated: 2026-10-27T21:49:11Z
+    Author: Pascal Zimmermann
+    Tags: Curry ketchup
+  - [Wie zuckerfrei leben Ihren Kalorienverbrauch beeinflusst](https://onlybar.de/blogs/news/wie-zuckerfrei-leben-ihren-kalorienverbrauch-beeinflusst): Wie zuckerfrei leben Ihren Kalorienverbrauch beeinflusst
+    Updated: 2026-10-28T09:00:29Z
+    Author: Pascal Zimmermann
+  - [Warum Zuckerfreiheit der neue Ernährungstrend ist](https://onlybar.de/blogs/news/warum-zuckerfreiheit-der-neue-ernahrungstrend-ist): Warum Zuckerfreiheit der neue Ernährungstrend ist
+    Updated: 2026-10-30T09:00:46Z
     Author: Pascal Zimmermann
 
 ## Store Pages
