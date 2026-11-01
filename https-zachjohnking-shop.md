@@ -6,40 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-22T18:22:53Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-25T00:52:36.619Z
+- Updated At: 2026-11-01T01:23:08.219Z
 
 ## Products
 
 - [Wannabe Cowboy Hat | Zach John King Official Merch Store](https://zachjohnking.shop/products/wannabe-cowboy-hat): Embroidered "Wannabe Cowboy" hat. 5-Panel stone washed canvas hat with adjustable plastic snap closure.
-  Updated: 2026-10-24T01:08:06Z
+  Updated: 2026-10-29T20:38:27Z
   Vendor: Zach John King
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKWANNABECOWBOYHAT.png?v=1781798166
   Price: $30.00 USD
-- [Wannabe Cowboy Horse Tee | Zach John King Official Merch Store](https://zachjohnking.shop/products/wannabe-cowboy-tee): Wannabe Cowboy Horse Tee in natural with front and back print. 100% cotton
-  Updated: 2026-10-24T13:33:41Z
-  Vendor: Zach John King
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKHORSETEE-5.png?v=1781798494
-  - [S](https://zachjohnking.shop/products/wannabe-cowboy-tee?variant=46407862419682)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [M](https://zachjohnking.shop/products/wannabe-cowboy-tee?variant=46407862452450)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [L](https://zachjohnking.shop/products/wannabe-cowboy-tee?variant=46407862485218)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [XL](https://zachjohnking.shop/products/wannabe-cowboy-tee?variant=46407862517986)
-    Availability: Not Available
-    Price: $20.00 USD
-  - [2XL](https://zachjohnking.shop/products/wannabe-cowboy-tee?variant=46407862550754)
-    Availability: Available
-    Price: $20.00 USD
 - [Portrait Tee](https://zachjohnking.shop/products/zjk-portrait-tee): ZJK Portrait Tee in black with front print only. 100% cotton
-  Updated: 2026-10-19T21:21:36Z
+  Updated: 2026-10-28T23:39:36Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -63,7 +42,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Photo Tour Tee](https://zachjohnking.shop/products/photo-tour-tee): ZJK Photo Tour Tee in white with front and back print. 100% Cotton
-  Updated: 2026-10-20T01:16:02Z
+  Updated: 2026-10-29T15:04:26Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -84,21 +63,21 @@
     Availability: Available
     Price: $35.00 USD
 - [Bib Sticker](https://zachjohnking.shop/products/bib-sticker): ZJK Camo Bib Sticker!
-  Updated: 2026-10-24T15:15:13Z
+  Updated: 2026-10-31T23:25:42Z
   Vendor: Zach John King
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKBIBSTICKER.png?v=1774374372
   Price: $5.00 USD
 - [I'm What You Get - CD](https://zachjohnking.shop/products/im-what-you-get-cd): Zach John King's debut album I'm What You Get available on CD. Track List: I’m What You Get Run For Them Hills Whiskey Lying Way To Go (feat. Brooks & Dunn) How To Not Get To Drinkin Beneath The Pines Shoulda Coulda Woulda Mama’s Praying Backwoods Little Bit Stronger Choppin’ Wood (feat. Brent Cobb) Lose You Homegrown Heaven Sunsets In Georgia Life Behind Bars (with Bayker Blankenship) High Like Her Happy For You Space What I’m Giving Up
-  Updated: 2026-10-18T01:08:55Z
+  Updated: 2026-10-31T23:13:31Z
   Vendor: Zach John King
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKIMWHATYOUGETCD.png?v=1781641096
   Price: $14.99 USD
 - [I'm What You Get Tee](https://zachjohnking.shop/products/im-what-you-get-tee): In honor for ZJK's debut album: I'm What You Get Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-18T03:27:25Z
+  Updated: 2026-10-31T22:42:24Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -119,7 +98,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Get To Drinkin' Tee](https://zachjohnking.shop/products/get-to-drinkin-tee): ZJK Get To Drinkin' Tee in charcoal with front and back print. 100% Cotton
-  Updated: 2026-10-24T15:15:20Z
+  Updated: 2026-10-27T16:48:26Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -128,26 +107,26 @@
     Availability: Available
     Price: $35.00 USD
   - [M](https://zachjohnking.shop/products/get-to-drinkin-tee?variant=48005548015842)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://zachjohnking.shop/products/get-to-drinkin-tee?variant=48005548048610)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [XL](https://zachjohnking.shop/products/get-to-drinkin-tee?variant=48005548081378)
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://zachjohnking.shop/products/get-to-drinkin-tee?variant=48005548114146)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 - [I'm What You Get - Vinyl](https://zachjohnking.shop/products/im-what-you-get-vinyl): Zach John King's debut album, I'm What You Get on a Standard Black Vinyl. Track List: I’m What You Get Run For Them Hills Whiskey Lying Way To Go (feat. Brooks & Dunn) How To Not Get To Drinkin Beneath The Pines Shoulda Coulda Woulda Mama’s Praying Backwoods Little Bit Stronger Choppin’ Wood (feat. Brent Cobb) Lose You Homegrown Heaven Sunsets In Georgia Life Behind Bars (with Bayker Blankenship) High Like Her Happy For You Space What I’m Giving Up
-  Updated: 2026-10-24T01:08:06Z
+  Updated: 2026-10-31T19:08:56Z
   Vendor: Zach John King
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/ZJKIWYGVINYL.png?v=1787595174
   Price: $34.99 USD
 - [Bait & Tackle Camo Tee](https://zachjohnking.shop/products/bait-tackle-camo-tee): ZJK Bait & Tackle Camo Tee in "vintage wood camo" with front and back print. 100% Cotton
-  Updated: 2026-10-23T00:13:57Z
+  Updated: 2026-10-27T21:23:10Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -168,7 +147,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Get to Drinkin' Tour Tee](https://zachjohnking.shop/products/get-to-drinkin-tour-tee): ZJK Get to Drinkin' Tour Tee in black with front and back print. 100% Cotton
-  Updated: 2026-10-19T21:04:01Z
+  Updated: 2026-10-29T22:00:16Z
   Vendor: Zach John King
   Product Type: Apparel
   Availability: Available
@@ -186,17 +165,17 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://zachjohnking.shop/products/get-to-drinkin-tour-tee?variant=67572414480610)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
 - [Get to Drinkin' Koozie](https://zachjohnking.shop/products/get-to-drinkin-koozie): Double sided Get to Drinkin' Koozie
-  Updated: 2026-10-20T15:01:37Z
+  Updated: 2026-10-26T02:50:07Z
   Vendor: Zach John King
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0732/7999/6130/files/JWGETTODRINKINTOURKOOZIE.png?v=1790783953
   Price: $5.00 USD
 - [Bass Hat | Zach John King Official Merch Store](https://zachjohnking.shop/products/bass-hat): ZJK Bass Hat in black with adjustable back closure.
-  Updated: 2026-10-23T17:34:02Z
+  Updated: 2026-10-26T02:49:57Z
   Vendor: Zach John King
   Product Type: Accessories
   Availability: Available
@@ -206,37 +185,37 @@
 ## Collections
 
 - [Home page](https://zachjohnking.shop/collections/frontpage)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 12
 - [Apparel](https://zachjohnking.shop/collections/apparel)
-  Updated: 2026-10-23T11:22:12Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 12
 - [Accessories](https://zachjohnking.shop/collections/accessories)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 10
 - [Hats](https://zachjohnking.shop/collections/hats)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 5
 - [Music](https://zachjohnking.shop/collections/music)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 4
 - [All](https://zachjohnking.shop/collections/all)
-  Updated: 2026-10-24T11:20:24Z
-  Total Products: 16
+  Updated: 2026-10-30T11:17:37Z
+  Total Products: 15
 - [I'm What You Get](https://zachjohnking.shop/collections/im-what-you-get)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 9
 - [I'm What You Get Media](https://zachjohnking.shop/collections/im-what-you-get-media)
-  Updated: 2026-10-24T11:20:24Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 4
 - [I'm What You Get Merch](https://zachjohnking.shop/collections/im-what-you-get-merch)
-  Updated: 2026-10-18T11:20:46Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 2
 - [I'm What You Get Fan Packs](https://zachjohnking.shop/collections/im-what-you-get-fan-packs)
   Updated: 2026-09-16T17:31:47Z
   Total Products: 2
 - [Get To Drinkin' Tour Collection](https://zachjohnking.shop/collections/get-to-drinkin-tour-collection)
-  Updated: 2026-10-23T11:22:12Z
+  Updated: 2026-10-30T11:17:37Z
   Total Products: 5
 
 ## Store Pages
