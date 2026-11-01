@@ -24,7 +24,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
 - Timezone: Europe/Vienna
 - Created At: 2025-08-13T12:04:42Z
 - Contact Email: info@naturstoff.bio
-- Updated At: 2026-10-25T00:20:31.967Z
+- Updated At: 2026-11-01T00:42:07.262Z
 
 ## Products
 
@@ -43,21 +43,21 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Gerstengrassaftpulver.jpg?v=1763571217
   Price: 33,50 € EUR
 - [Dulse Flocken (Lappentang) mit natürlichem Jod aus dem Atlantik](https://naturstoff.bio/products/dulse): Einer der nährstoffreichsten Meeresalgen, auch als Lappentang bekannt. Besonders herausragend ist ihr hoher Jod-Gehalt. Aus dem französischen Atlantik.
-  Updated: 2026-10-21T11:26:21Z
+  Updated: 2026-10-25T17:58:21Z
   Vendor: Naturstoff
   Product Type: Lebensmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Dulse_mit_natuerlichem_Jod.jpg?v=1771268054
   Price: 27,50 € EUR
 - [Spirulina Tabs aus Süßwasserkultivierung | Naturstoff](https://naturstoff.bio/products/spirulina): 100% aus reinem Spirulina-Pulver der Blaualge Arthrospira platensis. Durch Süßwasserkultivierung maximal rein. Praktische und vielseitige Alternative zu Pulver.
-  Updated: 2026-10-21T11:26:21Z
+  Updated: 2026-10-28T10:43:32Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Spirulina_Tabs.jpg?v=1763571217
   Price: 15,50 € EUR
 - [Zeolith mit Klinoptilolith | Naturstoff](https://naturstoff.bio/products/zeolith): Unser Zeolith ist ein reines und natürliches Mineralgestein, das in Europa abgebaut wird. Mit einem Klinoptilolithgehalt von 86-90%.
-  Updated: 2026-10-21T11:26:21Z
+  Updated: 2026-10-28T10:43:36Z
   Vendor: Naturstoff
   Product Type: Rohstoff
   Availability: Available
@@ -71,7 +71,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Papayakerne_Papain__Naturstoff.jpg?v=1773396097
   Price: 20,50 € EUR
 - [Einjähriger Beifuß Tinktur (Artemisia Annua) | Naturstoff](https://naturstoff.bio/products/einjahriger-beifuss): Kraftvoller Frischpflanzenauszug aus Einjährigem Beifuß (Artemisia Annua) – handgefertigt in unserer steirischen Manufaktur.
-  Updated: 2026-10-23T07:23:02Z
+  Updated: 2026-10-27T15:20:52Z
   Vendor: Naturstoff
   Product Type: Pflanzlicher Rohstoff
   Availability: Available
@@ -85,28 +85,28 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
     Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Einjaehriger_Beifuss_Artemisia_Annua_alkoholisch_Tinktur_Auszug_Naturstoff.jpg?v=1771267614
     Price: 27,90 € EUR
 - [Zitronenmelisse / Lemon Balm Auszug alkoholfrei & lecker | Naturstoff](https://naturstoff.bio/products/zitronenmelisse): Kraftvoller Frischpflanzentinktur aus Zitronenmelisse (Lemon Balm) – handgefertigt in unserer steirischen Manufaktur. Alkoholfrei & lecker.
-  Updated: 2026-10-21T11:26:21Z
+  Updated: 2026-10-27T10:34:19Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Zitronenmelisse.jpg?v=1763571220
   Price: 26,90 € EUR
 - [Katzenkralle Auszug alkoholfrei & lecker | Naturstoff](https://naturstoff.bio/products/katzenkralle): Kraftvoller Tinktur aus Katzenkralle – handgefertigt in unserer steirischen Manufaktur in schonendem Verfahren. Alkoholfrei.
-  Updated: 2026-10-21T11:26:27Z
+  Updated: 2026-10-26T12:34:57Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Katzenkralle_Cats_Claw_Tinktur_Naturstoff.jpg?v=1766071742
   Price: 21,90 € EUR
 - [Ashwagandha Auszug alkoholfrei & lecker | Naturstoff](https://naturstoff.bio/products/ashwagandha): Kraftvoller Auszug aus Ashwagandha – handgefertigt in unserer steirischen Manufaktur. Alkoholfrei & lecker.
-  Updated: 2026-10-21T11:26:27Z
+  Updated: 2026-10-27T16:00:37Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Ashwagandha_Tinktur_Naturstoff.jpg?v=1766071775
   Price: 21,90 € EUR
 - [Thymian & Oregano Auszug alkoholfrei & lecker | Naturstoff](https://naturstoff.bio/products/thymian-oregano): Kraftvoller Frischpflanzenauszug aus Thymian, Oregano & Quendel – handgefertigt in unserer steirischen Manufaktur. Alkoholfrei & lecker.
-  Updated: 2026-10-21T11:26:27Z
+  Updated: 2026-10-26T07:43:25Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -120,7 +120,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Frauenkraeuter_Auszug.jpg?v=1771266978
   Price: 28,90 € EUR
 - [Vitamin C Komplex mit Hesperidin, Quercetin, Rutin & lipophilem Vit. C](https://naturstoff.bio/products/vitamin-c-komplex): Ausgewogener Vitamin C Komplex aus Calciumascorbat & Ascorbylpalmitat mit natürlichen Bioflavonoiden aus Früchten. 100% natürlich, bioverfügbar, sanft & vegan.
-  Updated: 2026-10-21T11:26:27Z
+  Updated: 2026-10-30T12:02:27Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -141,14 +141,14 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Vitamin_B12__Folsure_Produktfoto__Naturstoff.jpg?v=1776954743
   Price: 23,70 € EUR
 - [Vitamin D3 + K2 (MK-7) Tropfen vegan | Naturstoff](https://naturstoff.bio/products/vitamin-d3-k2): 100 % vegane Vitamin D3 + K2 (MK-7) Tropfen aus Flechten & Bacillus subtilis Fermentation. In Kokos-MCT-Öl und Olivenöl für beste Aufnahme.
-  Updated: 2026-10-22T03:35:46Z
+  Updated: 2026-10-30T10:18:42Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Vitamin_D3_K2.jpg?v=1763571225
   Price: 23,00 € EUR
 - [Magnesium Komplex mit Trimagnesiumdicitrat Bisglycinat & Malat](https://naturstoff.bio/products/magnesium): Magnesium Komplex mit Trimagnesiumdicitrat, Bisglycinat & Malat – höchste Bioverfügbarkeit, beste Verträglichkeit.
-  Updated: 2026-10-23T17:28:05Z
+  Updated: 2026-10-31T12:37:56Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -162,7 +162,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Jod_Kapseln_aus_Meeresalgen__Naturstoff.jpg?v=1790174909
   Price: 18,70 € EUR
 - [Omega-3 Kapseln vegan aus Algenöl - hochdosiert | Naturstoff](https://naturstoff.bio/products/omega-3): Die veganen Algenöl-Kapseln liefern die bedeutsamsten aquatischen Omega-3-Fettsäuren DHA und EPA. Hochkonzentriert mit 400mg DHA und 300mg EPA pro Kapsel.
-  Updated: 2026-10-23T17:28:05Z
+  Updated: 2026-10-31T12:39:41Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -176,7 +176,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Curryblatt_Eisen.jpg?v=1763571224
   Price: 26,70 € EUR
 - [Vitamin B Komplex Kapseln aus Quinoasprossen mit allen B-Vitaminen](https://naturstoff.bio/products/quinoasprossen): Natürlicher und bioaktiver Vitamin B Komplex – mit allen 8 essentiellen B-Vitaminen in natürlicher Form aus gekeimtem Quinoa (hochkonzentrierter 1:10 Extrakt).
-  Updated: 2026-10-23T17:28:07Z
+  Updated: 2026-10-30T12:02:27Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -197,35 +197,35 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Palo_Santo_Holz_Naturstoff.jpg?v=1771265736
   Price: 9,50 € EUR
 - [Borax Stammlösung mit 3mg Bor/Pipette | 99,999% Reinheit |Naturstoff](https://naturstoff.bio/products/borax-stammlosung): Unsere innovative Borax Lösung mit natürlichem Borax aus dem Tibet – mit einer maximal hohen Reinheit von über 99,999%. Einfache Dosierung mit 3 mg pro Pipette.
-  Updated: 2026-10-23T11:28:28Z
+  Updated: 2026-10-30T10:18:46Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Borax_Stammloesung_Naturstoff.jpg?v=1767970461
   Price: 12,70 € EUR
 - [DMSO 3% Lösung für die eigenverantwortliche Anwendung | Naturstoff](https://naturstoff.bio/products/dmso-3): Bei unseren DMSO-Tropfen handelt es sich um eine 3%ige isotonische DMSO-Lösung zum Tropfen. Eine Kombination mit unserem Augentrost-Auszug ist möglich.
-  Updated: 2026-10-24T07:34:06Z
+  Updated: 2026-10-26T20:10:21Z
   Vendor: Naturstoff
   Product Type: Chemikalie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/DMSO_3_Naturstoff_2f55a715-b901-4579-8ddc-81b0fd22abe5.jpg?v=1772094296
   Price: 16,00 € EUR
 - [DMSO 70% mit Magnesium aus dem Toten Meer | Naturstoff](https://naturstoff.bio/products/dmso-70): Pharmazeutisch reine 70% DMSO-Lösung mit 5% Magnesiumchlorid aus dem Toten Meer. 200ml in Glasflasche. Hergestellt in Österreich mit DMSO-stabilen Materialien.
-  Updated: 2026-10-16T11:13:35Z
+  Updated: 2026-10-31T17:46:05Z
   Vendor: Naturstoff
   Product Type: Chemikalie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/DMSO_70_mit_Magnesium_Produkt__Naturstoff.jpg?v=1772796157
   Price: 20,00 € EUR
 - [Methylenblau  Lösung zur eigenverantwortlichen Anwendung | Naturstoff](https://naturstoff.bio/products/methylenblau): Bei unserem Methylenblau handelt es sich um eine 1%ige wässrige Methylenblau-Lösung, bestehend aus reinstem Methylenblau und gereinigtem Wasser.
-  Updated: 2026-10-21T11:26:27Z
+  Updated: 2026-10-27T09:10:36Z
   Vendor: Naturstoff
   Product Type: Chemikalie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Methylenblau_Tropfen_Naturstoff.jpg?v=1772794785
   Price: 14,00 € EUR
 - [Lithiumorotat Tropfen mit 1 mg Lithium pro Pipette | 99,99% Reinheit](https://naturstoff.bio/products/lithium): Lithiumorotat mit einer Reinheit von 99,99% kaufen. Einfach zu dosieren, mit 1 mg Lithium pro Pipette.
-  Updated: 2026-10-23T15:12:22Z
+  Updated: 2026-10-31T12:42:35Z
   Vendor: Naturstoff
   Product Type: Chemikalie
   Availability: Available
@@ -239,7 +239,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Einjaehriger_Beifuss_Pulver_Artemisia_Annua.jpg?v=1771265065
   Price: 32,50 € EUR
 - [Bitterkräuter Auszug aus österreichischem Familiengarten | Naturstoff](https://naturstoff.bio/products/bitterkrauter): Kraftvoller Tinktur aus heimischen Bitterkräutern – Löwenzahn, Schafgarbe, Spitzwegerich, Wilde Karde und Wermut. Alkoholfrei!
-  Updated: 2026-10-24T07:34:06Z
+  Updated: 2026-10-31T12:33:29Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -253,14 +253,14 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Bittere_Aprikosenkerne_mit__Amygdalin_Naturstoff.jpg?v=1771264864
   Price: 12,50 € EUR
 - [Augentrost DMSO Auszug aus österreichischem Familiengarten](https://naturstoff.bio/products/augentrost): DMSO Auszug aus Augentrost (bot. Euphrasia rostkoviana) aus unserem österreichischen Familiengarten in Form einer 60% DMSO Lösung.
-  Updated: 2026-10-21T11:26:31Z
+  Updated: 2026-10-26T07:43:26Z
   Vendor: Naturstoff
   Product Type: Lösungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Augentrost_Auszug_mit_DMSO_Naturstoff.jpg?v=1771264755
   Price: 14,00 € EUR
 - [Antiox Kapseln mit Alpha-Liponsäure, Coenzymn Q10, OPC & Astaxanthin](https://naturstoff.bio/products/antiox): Die besten Antioxidantien in einer Kapsel vereint. Alpha-Liponsäure, Coenzymn Q10, hochdosiertes OPC aus Traubenkernen, Astaxanthin und weitere.
-  Updated: 2026-10-22T03:35:46Z
+  Updated: 2026-10-30T12:02:37Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -274,7 +274,7 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Artemisia_annua_einjaehriger_Beifu__aetherisches_Oell_Naturstoff.jpg?v=1771264167
   Price: 13,00 € EUR
 - [Chlorella Tabs | Naturstoff](https://naturstoff.bio/products/chlorella): Unsere Chlorella-Presslinge bestehen zu 100% aus reinem Chlorella-Pulver und lassen sich gut schlucken. In Süßwasser kultiviert und damit so rein wie möglich.
-  Updated: 2026-10-21T11:26:32Z
+  Updated: 2026-10-26T08:17:51Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -295,14 +295,14 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Nasenzerstaeuber_fuer_Pipettenflaschen_Naturstoff.jpg?v=1771263568
   Price: 1,90 € EUR
 - [Leberwohl Kapseln mit Mariendistel, Aritschocke, Cholin & Methionin](https://naturstoff.bio/products/leberwohl): Leber-Komplex mit Mariendistel, Artischocke, Schisandra, Cholin und Methionin – natürliche und pflanzliche Unterstützung für Leber, Galle & Darm.
-  Updated: 2026-10-22T09:11:25Z
+  Updated: 2026-10-30T12:02:27Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Leberwohl_Kapseln_mit_Mariendistel_und_Artischoke_Naturstoff.jpg?v=1771263424
   Price: 26,70 € EUR
 - [Kräutertrunk Fermentgetränk | Naturstoff](https://naturstoff.bio/products/krautertrunk): Probiotisches und zuckerfreies Fermentgetränk mit aktiven Bakterienkulturen & Kräutern – reich an organischen Säuren aus traditioneller Fermentation.
-  Updated: 2026-10-21T11:26:32Z
+  Updated: 2026-10-26T20:10:23Z
   Vendor: Naturstoff
   Product Type: Lebensmittel
   Availability: Available
@@ -330,35 +330,35 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Innerer_Frieden_therische_lmischung_Produktfoto__Naturstoff.jpg?v=1773658848
   Price: 9,50 € EUR
 - [Freier Atem Aromaöl – Naturreine ätherische Komposition | Naturstoff](https://naturstoff.bio/products/freier-atem): Freier Atem: Naturreines ätherisches Öl mit wohltuender Aromamischung für tiefes Durchatmen. Premium-Qualität. Jetzt entdecken!
-  Updated: 2026-10-22T11:55:16Z
+  Updated: 2026-10-26T07:43:25Z
   Vendor: Naturstoff
   Product Type: Duftöl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Freier_Atem_therische_lmischung_Produktfoto__Naturstoff.jpg?v=1773658746
   Price: 9,50 € EUR
 - [DMSO 10% | Naturstoff](https://naturstoff.bio/products/dmso-10): Bei unseren DMSO-Tropfen handelt es sich um eine 10%ige isotonische DMSO-Lösung, zum Tropfen oder optional zum Sprühen. Kombinierbar mit DMSO-Kräuterauszügen.
-  Updated: 2026-10-23T07:45:38Z
+  Updated: 2026-10-27T18:53:06Z
   Vendor: Naturstoff
   Product Type: Chemikalie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/DMSO_10_Naturstoff.jpg?v=1772045719
   Price: 16,00 € EUR
 - [Spurenelemente Kapseln | Zink, Bor, Mangan, Chrom, Selen & Molybdän](https://naturstoff.bio/products/spurenelemente): Bioverfügbare und effektive Formel mit den 7 wichtigsten Spurenelementen - ergänzt um Silicium aus Ackerschachtelhalm und Schwefel aus MSM.
-  Updated: 2026-10-23T15:12:26Z
+  Updated: 2026-10-30T12:02:28Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Spurenelemente_Naturstoff_e6235648-5027-4d9b-a1b1-dde23ff7fb6a.jpg?v=1772043814
   Price: 42,70 € EUR
 - [Oreganoöl Kapseln mit Carvacrol aus Schwarzkümmelöl | Naturstoff](https://naturstoff.bio/products/oreganool-kapseln): Rein pflanzliche Kapseln mit Oreganoöl aus dem Wilden Oregano – ergänzt mit Echtem Schwarzkümmelöl. Mit 50 mg Carvacrol pro Kapsel.
-  Updated: 2026-10-21T11:26:32Z
+  Updated: 2026-10-27T09:10:37Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Oregano_Kapseln_Naturstoff_980838f3-f62d-4f97-b515-f6af7ff6beed.jpg?v=1772043736
   Price: 19,70 € EUR
 - [Kalium Komplex Kapseln mit 3 Kaliumformen | Naturstoff](https://naturstoff.bio/products/kalium-komplex): Kalium Komplex mit Kaliumcitrat, Kaliumorotat und Kaliumbicarbonat – höchste Bioverfügbarkeit, beste Verträglichkeit.
-  Updated: 2026-10-21T11:26:32Z
+  Updated: 2026-10-27T10:34:18Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -371,29 +371,35 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Darmrein_Naturstoff_8b7c88d8-a174-4dac-ad90-78ffcb756818.jpg?v=1772043081
   Price: 34,00 € EUR
+- [Vitamin C Komplex Pulver](https://naturstoff.bio/products/platzhalter): . . .
+  Updated: 2026-10-28T06:15:07Z
+  Vendor: Naturstoff
+  Product Type: Nahrungsergänzungsmittel
+  Availability: Available
+  Price: 34,00 € EUR
 - [Flammen Formel mit liposomalem Curcumin, Bromelain, AKBA & Gingerol](https://naturstoff.bio/products/flammen-formel): Liposomales Curcumin mit Bromelain, Ingwer- und Weihrauch-Extrakt. Hochwertige Pflanzen-Kapseln – hochkonzentriert mit standardisierten Wirkstoffen.
-  Updated: 2026-10-21T11:26:36Z
+  Updated: 2026-10-29T09:00:10Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Flammen_Formel_Produktfoto__Naturstoff.jpg?v=1777977008
   Price: 39,70 € EUR
 - [Vegane Multivitamin- und Nährstoffgummies für Kinder | Naturstoff](https://naturstoff.bio/products/kinder-knupsis): Vegane Fruchtgummies für Kinder mit Vitaminen, Omega-3, Spurenelementen, Mineralien & Präbiotika. Natürlich gesüßt, ohne Zucker. Einfache Nährstoffversorgung.
-  Updated: 2026-10-23T07:22:47Z
+  Updated: 2026-10-28T18:05:00Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Kinder_Knupsis_Produktfoto__Naturstoff.jpg?v=1787223727
   Price: 21,70 € EUR
 - [Fliegenpilz-Pulver von Amanita muscaria | Naturstoff](https://naturstoff.bio/products/fliegenpilz): Naturbelassenes Fliegenpilz-Pulver aus Österreich, rein und ausschließlich aus Pilz-Hüten. Schonend bei 40-50°C getrocknet, ohne Schnickschnack – Natur pur!
-  Updated: 2026-10-23T10:57:45Z
+  Updated: 2026-10-30T16:11:55Z
   Vendor: Naturstoff
   Product Type: Räucherwerk
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0986/6133/5378/files/Produktfoto_Fliegenpilz_Pulver_Amanita_muscaria_Naturstoff.jpg?v=1792068675
   Price: 58,90 € EUR
 - [Entspannungskräuter-Tinktur aus österreichischem Garten | Naturstoff](https://naturstoff.bio/products/entspannungskrauter): Sanfter Kräuterauszug für innere Ruhe & Entspannung – mit den traditionellen Kräutern Zitronenmelisse, Hafergras, Kamille, Lavendel und Hopfen. Alkoholfrei!
-  Updated: 2026-10-16T11:13:35Z
+  Updated: 2026-10-27T10:34:20Z
   Vendor: Naturstoff
   Product Type: Nahrungsergänzungsmittel
   Availability: Available
@@ -404,55 +410,55 @@ Unternehmensdaten: Standort: Neumarkt, Steiermark, Österreich | Währung: EUR
 
 - [Natürliche Helferlein](https://naturstoff.bio/collections/helferlein): Entdecke Helferlein wie Gerstengrassaft, Wildheidelbeeren, Artemisia annua & Papayakerne. 
 Rein, naturbelassen, hochwertig und in Rohkostqualität.
-  Updated: 2026-10-23T11:28:32Z
+  Updated: 2026-10-28T11:29:24Z
   Total Products: 9
 - [Mittelchen für Dich & Mich](https://naturstoff.bio/collections/mittelchen): Hier bekommst Du hochwertige & bioverfügbare Nährstoffe. Von Omega 3, Magnesium und Vitaminen zu Eisen, Leberwohl und einer genialen Antioxidationsmischung.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 20
 - [Geballte Pflanzenkraft](https://naturstoff.bio/collections/pflanzenkraft): Kraftvolle Tinkturen aus eigenen Kräutern, handgefertigt in steirischer Manufaktur. Mit Sorgfalt & Liebe verarbeitet. Kräuterklassiker & geniale Mischungen.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-28T11:29:24Z
   Total Products: 14
 - [Geniale Tausendsassa](https://naturstoff.bio/collections/tausendsassa): Entdecke geniale Tausendsassa: Lithium, Methylenblau, DMSO. Besondere, innovative Rezepturen & reinste Rohstoffe aus unserer österreichischen Manufaktur.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 7
 - [Saisonale Spezialitäten](https://naturstoff.bio/collections/saisonale-spezialitaten): Mit den Saisonalen Spezialitäten wollen wir Dir passend zu den Jahreszeiten ein paar besondere Schmankerl anbieten, mit denen Du Dich oder andere beschenken kannst - oder auch gut Deinen Warenwert auf versandkostenfreie Lieferung auffüllen kannst.
   Updated: 2026-03-11T15:27:54Z
   Total Products: 0
 - [Lebensmittel ermäßigte MwSt AT, DE](https://naturstoff.bio/collections/10-mwst): Produkte mit vergünstigtem MwSt - Satz.
-  Updated: 2026-10-23T11:28:32Z
+  Updated: 2026-10-27T11:29:32Z
   Total Products: 5
 - [Alle Produkte](https://naturstoff.bio/collections/alle-produkte-in-der-ubersicht): Alle Produkte von Naturstoff auf einer Seite.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 71
 - [Eure Lieblinge](https://naturstoff.bio/collections/bestseller): Hier findest Du unsere Naturstoffe nach Beliebtheit sortiert.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 64
 - [Saisonale Empfehlungen 2026](https://naturstoff.bio/collections/herbst-empfehlungen-2025)
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 9
 - [FR TAV0.055 (NEMS ermäßigt)](https://naturstoff.bio/collections/fr-tav0-055n)
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 38
 - [Neuheiten](https://naturstoff.bio/collections/neu): Hier findest Du die aktuellen Neuheiten im Produktsortiment von Naturstoff. Nahrungsergänzungsmittel, Tinkturen und innovative Mittelchen.
-  Updated: 2026-10-23T11:28:32Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 8
 - [APPPlaza - Best Sellers](https://naturstoff.bio/collections/appplaza-best-sellers)
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 71
 - [Feine Aromawunder](https://naturstoff.bio/collections/feine_aromawunder_atherische-ole): Bei unseren kleinen, aber feinen Aromawundern findest Du aromatische Naturstoffe und naturreine, ätherische Öle.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 7
 - [Recommended products (Seguno)](https://naturstoff.bio/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 64
 - [Nahrungsergänzungsmittel in der Schwangerschaft](https://naturstoff.bio/collections/vegane-nahrungsergaenzungsmittel-schwangerschaft): Supplements für die Schwangerschaft: Folsäure, B12, Omega-3, Vitamin D3, Eisen, Calcium, Jod, Vitamin B Komplex & mehr. Mit Liebe & Expertise entwickelt.
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 11
 - [Darm](https://naturstoff.bio/collections/darm)
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 16
 - [CH MwSt](https://naturstoff.bio/collections/alle-produkte2)
-  Updated: 2026-10-24T11:22:27Z
+  Updated: 2026-10-31T11:21:50Z
   Total Products: 70
 
 ## Store Pages
