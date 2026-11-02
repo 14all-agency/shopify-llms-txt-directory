@@ -6,7 +6,7 @@
 - Timezone: Asia/Hebron
 - Created At: 2025-04-25T12:04:35Z
 - Contact Email: palmosaic@gmail.com
-- Updated At: 2026-10-26T00:46:24.193Z
+- Updated At: 2026-11-02T01:02:41.624Z
 
 ## Products
 
@@ -454,7 +454,7 @@
 ## Policies
 
 - [Privacy Policy](https://palmosaic.com/policies/privacy-policy)
-  Updated: 2025-04-25T12:04:43Z
+  Updated: 2026-10-30T08:00:03Z
 - [Refund Policy](https://palmosaic.com/policies/refund-policy)
   Updated: 2026-07-09T14:03:34Z
 - [Terms of Service](https://palmosaic.com/policies/terms-of-service)
