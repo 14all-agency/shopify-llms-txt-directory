@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2024-08-20T17:34:28Z
 - Contact Email: chenjie520225@gmail.com
-- Updated At: 2026-10-26T00:47:55.926Z
+- Updated At: 2026-11-02T00:55:34.507Z
 
 VOGUE CUR is an upscale fashion brand specializing in luxury handbags, footwear and fine accessories.
 We focus on premium craftsmanship and timeless style, shipping to most countries around the world.
@@ -1720,11 +1720,11 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-10-19T17:46:01Z
   Total Products: 106
 - [All Products](https://voguecur.com/collections/best-sellers): - Fashion Boutique
-  Updated: 2026-10-25T20:21:00Z
-  Total Products: 593
+  Updated: 2026-10-31T16:32:58Z
+  Total Products: 598
 - [CHANEL Collection](https://voguecur.com/collections/lali-ga): - Fashion Boutique
-  Updated: 2026-10-25T20:21:00Z
-  Total Products: 33
+  Updated: 2026-10-31T16:32:58Z
+  Total Products: 38
 - [Sports casual shoes](https://voguecur.com/collections/sports-casual-shoes-1): - Fashion Boutique
   Updated: 2026-10-19T17:46:01Z
   Total Products: 79
@@ -1876,8 +1876,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T21:00:58Z
   Total Products: 3
 - [Luxury Bestsellers](https://voguecur.com/collections/luxury-bestsellers): Curated top- luxury bags, watches and fashion accessories, classic styles hot  all year round
-  Updated: 2026-10-25T20:21:00Z
-  Total Products: 69
+  Updated: 2026-10-31T16:32:58Z
+  Total Products: 74
 - [Designer Handbags](https://voguecur.com/collections/designer-handbags): Curated collection of luxury designer handbags, featuring iconic styles from top fashion houses.
   Updated: 2026-10-22T19:15:32Z
   Total Products: 63
@@ -1891,8 +1891,8 @@ All products are carefully inspected before dispatch to guarantee quality.
   Updated: 2026-09-17T21:05:10Z
   Total Products: 33
 - [New Arrivals: Curated Luxury](https://voguecur.com/collections/discover-more-new-products): Be the first to explore our latest selection of luxury masterpieces. Curated based on standards of quality, craftsmanship, and enduring value—ranging from rare treasures to limited-edition collectibles—these new arrivals are created exclusively for those who appreciate extraordinary beauty.
-  Updated: 2026-10-25T20:21:00Z
-  Total Products: 76
+  Updated: 2026-10-31T16:32:58Z
+  Total Products: 81
 
 ## Blogs
 
