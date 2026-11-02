@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-10-15T18:04:26Z
 - Contact Email: nitin.sharma1171998@gmail.com
-- Updated At: 2026-10-26T00:45:51.965Z
+- Updated At: 2026-11-02T00:58:42.066Z
 
 ## Products
 
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01-motivational-animation-reels-hero_d78729aa-a8b8-4b3c-aabc-eeb722d8b15c.png?v=1792216919
   Price: ₹249.00 INR
 - [Digital Products Mega Bundle | Canva Planners – Fileflora](https://fileflora.com/products/digital-products-mega-bundle-canva-templates-planners): Explore Canva templates, planners, journals, resume layouts and mockups with one PDF access guide. Discover digital design ideas for creators at Fileflora.
-  Updated: 2026-10-20T18:05:26Z
+  Updated: 2026-11-01T19:04:50Z
   Vendor: Fileflora
   Product Type: Digital Resource Bundles
   Availability: Available
@@ -101,6 +101,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/fileflora-creating-with-claude-original-ebook-cover_6aeb6ca1-d16d-40a2-8d7f-54f82c89341b.png?v=1792326756
   Price: ₹249.00 INR
+- [870+ Flutter Mobile App Source Code Bundle | Fileflora](https://fileflora.com/products/870-flutter-mobile-app-source-code-bundle): Explore 870+ Flutter mobile app source projects, UI concepts and a PDF catalogue across 44 categories. Built for developers, students and app creators.
+  Updated: 2026-10-27T17:15:38Z
+  Vendor: Fileflora
+  Product Type: Digital Source Code Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0811/1000/8030/files/01_flutter_870_bundle.jpg?v=1793012794
+  Price: ₹299.00 INR
 
 ## Collections
 
@@ -126,8 +133,8 @@
   Updated: 2026-10-20T18:05:24Z
   Total Products: 1
 - [All Products](https://fileflora.com/collections/all-products): Shop all Fileflora digital products: Canva designs, AI prompts, MP4 video clips, n8n workflow templates, printable worksheets and eBooks.
-  Updated: 2026-10-23T11:32:32Z
-  Total Products: 17
+  Updated: 2026-10-26T11:17:29Z
+  Total Products: 18
 
 ## Blogs
 
@@ -145,6 +152,18 @@
   - [Beginner's Guide to Short-Form Video Editing Success](https://fileflora.com/blogs/guides/beginners-guide-to-short-form-video-editing-success): Beginner's Guide to Short-Form Video Editing Success
     Updated: 2026-10-23T00:30:49Z
     Author: Fileflora Editorial Team
+  - [Unlock Creativity with Expert Canva Template Tips](https://fileflora.com/blogs/guides/unlock-creativity-with-expert-canva-template-tips): Unlock Creativity with Expert Canva Template Tips
+    Updated: 2026-10-26T00:48:19Z
+    Author: Fileflora Editorial Team
+  - [Create Winning Content with Social Media Post Templates](https://fileflora.com/blogs/guides/create-winning-content-with-social-media-post-templates): Create Winning Content with Social Media Post Templates
+    Updated: 2026-10-28T00:42:58Z
+    Author: Fileflora Editorial Team
+  - [Explore Trending AI Video Prompts for Small Businesses](https://fileflora.com/blogs/guides/explore-trending-ai-video-prompts-for-small-businesses): Explore Trending AI Video Prompts for Small Businesses
+    Updated: 2026-10-30T00:30:04Z
+    Author: Fileflora Editorial Team
+  - [Achieve Results with User-Friendly Canva Templates](https://fileflora.com/blogs/guides/achieve-results-with-user-friendly-canva-templates): Achieve Results with User-Friendly Canva Templates
+    Updated: 2026-11-02T00:48:10Z
+    Author: Fileflora Editorial Team
 
 ## Store Pages
 
@@ -156,7 +175,7 @@
 ## Policies
 
 - [Privacy Policy](https://fileflora.com/policies/privacy-policy)
-  Updated: 2026-10-15T18:04:31Z
+  Updated: 2026-10-31T17:23:39Z
 - [Shipping Policy](https://fileflora.com/policies/shipping-policy)
   Updated: 2026-10-18T19:12:39Z
 - [Refund Policy](https://fileflora.com/policies/refund-policy)
