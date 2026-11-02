@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-10-26T00:48:57.487Z
+- Updated At: 2026-11-02T00:59:57.194Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/BusyNurse.png?v=1788891633
   Price: $12.00 USD
 - [Discipline Without Yelling | Parenting Guide PDF](https://thedailybetterment.com/products/how-to-discipline-your-child-without-fear): Stop yelling and get real results. Calm discipline tools, scripts, and age-by-age strategies, plus 7 printable tools. 32-page PDF, instant download.
-  Updated: 2026-10-16T17:56:19Z
+  Updated: 2026-10-28T10:00:48Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/TheLovePlaybookRulesforLove_Sex_andHappiness.png?v=1788891682
   Price: $12.00 USD
 - [Couples Bundle | 3 Relationship Advice Guides PDF](https://thedailybetterment.com/products/couples-bundle-3-relationship-guides): Three relationship guides in one bundle: stop fighting about money, rebuild intimacy, and 15 rules for lasting love. Printable worksheets. Instant PDF download.
-  Updated: 2026-10-11T03:56:38Z
+  Updated: 2026-10-29T18:54:17Z
   Vendor: The Daily Betterment
   Product Type: 
   Availability: Available
@@ -180,6 +180,15 @@
   - [Self Help Books to Read Online for Free Essential Checklist for Personal Growth](https://thedailybetterment.com/blogs/the-daily-read/self-help-books-to-read-online-for-free-essential-checklist-for-personal-growth): Self Help Books to Read Online for Free Essential Checklist for Personal Growth
     Updated: 2026-10-25T07:00:19Z
     Author: The Daily Betterment
+  - [The Rise in Popularity of Self Help Books to Read Online for Free and PDF Trends](https://thedailybetterment.com/blogs/the-daily-read/the-rise-in-popularity-of-self-help-books-to-read-online-for-free-and-pdf-trends): The Rise in Popularity of Self Help Books to Read Online for Free and PDF Trends
+    Updated: 2026-10-27T07:01:11Z
+    Author: The Daily Betterment
+  - [Mastering Your Mind with Self Help Books to Read Online for Free Today](https://thedailybetterment.com/blogs/the-daily-read/mastering-your-mind-with-self-help-books-to-read-online-for-free-today): Mastering Your Mind with Self Help Books to Read Online for Free Today
+    Updated: 2026-10-29T07:00:49Z
+    Author: The Daily Betterment
+  - [Finding Inner Peace Through Self Help PDF Download and Free Reads](https://thedailybetterment.com/blogs/the-daily-read/finding-inner-peace-through-self-help-pdf-download-and-free-reads): Finding Inner Peace Through Self Help PDF Download and Free Reads
+    Updated: 2026-11-01T07:00:21Z
+    Author: The Daily Betterment
 
 ## Store Pages
 
@@ -199,11 +208,13 @@
   Updated: 2026-10-15T07:32:04Z
 - [Free Printable: 5 Calm Phrases for Hard Moments](https://thedailybetterment.com/pages/free-printable): FREE PRINTABLE 5 Calm Phrases for Hard Moments Simple words that help kids feel safe and listen, without yelling. Print it, stick it on the fridge,...
   Updated: 2026-10-23T03:17:56Z
+- [Free Printable: Holiday Money Talk for Couples](https://thedailybetterment.com/pages/holiday-money-talk): FREE PRINTABLE Holiday Money Talk: 5 Questions Before You Shop Most holiday money fights start at checkout. Sit down together for 15 minutes, answe...
+  Updated: 2026-11-01T12:10:46Z
 
 ## Policies
 
 - [Privacy Policy](https://thedailybetterment.com/policies/privacy-policy)
-  Updated: 2026-09-08T17:39:39Z
+  Updated: 2026-11-01T08:37:35Z
 - [Refund Policy](https://thedailybetterment.com/policies/refund-policy)
   Updated: 2026-09-18T03:02:32Z
 - [Terms of Service](https://thedailybetterment.com/policies/terms-of-service)
