@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-02-14T17:55:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-26T01:00:31.738Z
+- Updated At: 2026-11-02T01:04:17.984Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0315/2769/8491/files/HIPPIE-SABOTAGE-UNKNOWN-TOUR-POSTER-2024.png?v=1710448264
   Price: $5.00 USD
 - [Trailblazer Vinyl](https://hippiesabotagestore.merchmadeeasy.com/products/trailblazer-vinyl): Trailblazer now available on Double LP Vinyl!
-  Updated: 2026-10-25T23:05:37Z
+  Updated: 2026-10-31T04:36:15Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
@@ -73,7 +73,7 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Echoes of Time Poster](https://hippiesabotagestore.merchmadeeasy.com/products/echoes-of-time-fall-poster): Unsigned poster from the Echoes of Time fall tour! 11x17 in
-  Updated: 2026-10-25T23:05:37Z
+  Updated: 2026-10-30T17:58:08Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
@@ -87,7 +87,7 @@
   Image: https://cdn.shopify.com/s/files/1/0315/2769/8491/files/HSGIVEANDTAKESTICKER.png?v=1773772645
   Price: $5.00 USD
 - [Give and Take Tour Tee](https://hippiesabotagestore.merchmadeeasy.com/products/give-and-take-tour-tee): Give and Take Tour Tee in black with show cities on the back. Front and back print / 100% Cotton
-  Updated: 2026-10-08T03:01:26Z
+  Updated: 2026-10-31T04:36:06Z
   Vendor: HippieSabotageStore
   Product Type: Apparel
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Tie Dye Logo Tee](https://hippiesabotagestore.merchmadeeasy.com/products/tie-dye-logo-tee): Tie Dye Logo Tee in shade Zero G. Front print only / 100% Cotton
-  Updated: 2026-10-25T23:05:27Z
+  Updated: 2026-10-30T17:57:56Z
   Vendor: HippieSabotageStore
   Product Type: Apparel
   Availability: Available
@@ -139,7 +139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0315/2769/8491/files/HSCLOUDTOTE.png?v=1773773224
   Price: $25.00 USD
 - [Give and Take Tour Hoodie](https://hippiesabotagestore.merchmadeeasy.com/products/give-and-take-tour-hoodie): Give and Take Tour Hoodie in black with front and back print. 50% Cotton / 50% Polyester
-  Updated: 2026-10-08T03:01:17Z
+  Updated: 2026-10-31T17:01:11Z
   Vendor: Hippie Sabotage
   Product Type: Apparel
   Availability: Available
@@ -151,7 +151,7 @@
     Availability: Available
     Price: $45.00 USD
   - [L](https://hippiesabotagestore.merchmadeeasy.com/products/give-and-take-tour-hoodie?variant=56839667417248)
-    Availability: Not Available
+    Availability: Available
     Price: $45.00 USD
   - [XL](https://hippiesabotagestore.merchmadeeasy.com/products/give-and-take-tour-hoodie?variant=56839667450016)
     Availability: Available
@@ -163,7 +163,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Logo Beanie](https://hippiesabotagestore.merchmadeeasy.com/products/two-tone-beanie): Two Tone Logo Beanie hat in natural/navy. One size fits most.
-  Updated: 2026-10-16T04:08:36Z
+  Updated: 2026-11-01T14:58:55Z
   Vendor: Hippie Sabotage
   Product Type: Accessories
   Availability: Available
@@ -204,31 +204,31 @@
 ## Collections
 
 - [Home page](https://hippiesabotagestore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-23T11:05:20Z
+  Updated: 2026-11-01T12:04:58Z
   Total Products: 79
 - [Apparel](https://hippiesabotagestore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-23T11:05:20Z
+  Updated: 2026-11-01T12:04:58Z
   Total Products: 51
 - [Accessories](https://hippiesabotagestore.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-22T11:05:43Z
+  Updated: 2026-10-31T11:04:00Z
   Total Products: 36
 - [All Products](https://hippiesabotagestore.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-23T11:05:20Z
+  Updated: 2026-11-01T12:04:58Z
   Total Products: 94
 - [Echoes of Time](https://hippiesabotagestore.merchmadeeasy.com/collections/echoes-of-time)
-  Updated: 2026-10-23T11:05:20Z
+  Updated: 2026-10-26T11:09:28Z
   Total Products: 8
 - [BOGO TEES](https://hippiesabotagestore.merchmadeeasy.com/collections/bogo-tees)
   Updated: 2026-09-10T11:06:35Z
   Total Products: 7
 - [Posters](https://hippiesabotagestore.merchmadeeasy.com/collections/posters)
-  Updated: 2026-10-22T11:05:43Z
+  Updated: 2026-10-26T11:09:28Z
   Total Products: 6
 - [Tie-Dye Collection](https://hippiesabotagestore.merchmadeeasy.com/collections/tie-dye-collection)
-  Updated: 2026-10-15T11:04:18Z
+  Updated: 2026-10-26T11:09:28Z
   Total Products: 5
 - [Give and Take Tour Collection](https://hippiesabotagestore.merchmadeeasy.com/collections/give-and-take-tour-collection)
-  Updated: 2026-10-21T11:06:28Z
+  Updated: 2026-11-01T12:04:58Z
   Total Products: 9
 - [4/20 Tee](https://hippiesabotagestore.merchmadeeasy.com/collections/4-20-tee)
   Updated: 2026-09-10T11:06:35Z
