@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-20T23:19:34Z
 - Contact Email: noreply@texasnutra.com
-- Updated At: 2026-10-26T00:47:07.247Z
+- Updated At: 2026-11-02T00:50:13.785Z
 
 # Texas Nutra
 
@@ -48,6 +48,13 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_65cb9826-8b64-4134-9815-8d532519a0d0.png?v=1792355495
   Price: $24.95 USD
+- [Mushroom Mind & Body Max – Brain, Immune & Full-Body Wellness Support](https://texasnutra.com/products/mushroom-mind-body-max-10-mushroom-complex-with-lions-mane-cordyceps-reishi-shiitake-turkey-tail-brain-immune-full-body-wellness-support-non-gmo-made-in-usa-60-capsules): WHY THIS FORMULA Ten mushroom extracts for brain, immune and full-body wellness. Texas Nutra Mushroom Mind & Body Max brings together ten mushroom ingredients in a convenient daily formula. Featuring Cordyceps, Reishi, Shiitake, Lion's Mane and a proprietary mushroom blend, this formula is designed to support normal brain and immune function and help maintain everyday wellness.* Each serving provides 1,330 mg of mushroom ingredients. 1,330 mg Mushroom ingredients per serving 10 Mushroom ingredients 2 Vegetable capsules per serving 30 days Complete supply Brain function support Features Lion's Mane and other selected mushroom ingredients to support normal cognitive wellness as part of a consistent daily routine.* Immune function support Includes Reishi, Shiitake, Turkey Tail and additional mushroom ingredients selected to support normal immune function.* Full-body wellness Combines ten mushroom ingredients in one daily formula to help maintain general wellness and an active lifestyle.* WHY YOU'LL LIKE IT Ten mushroom ingredients in one convenient daily serving. Mushroom Mind & Body Max combines four individually listed mushroom ingredients with a proprietary blend containing six additional mushroom extracts. Each two-capsule serving provides 1,330 mg, making it easy to include mushroom-based nutritional support in your everyday routine.* ✓ 1,330 mg per serving ✓ Ten mushroom ingredients ✓ Cordyceps powder ✓ Reishi mushroom extract ✓ Shiitake mushroom extract ✓ Lion's Mane ✓ Six-mushroom proprietary blend ✓ Brain and immune function support* ✓ Vegetable capsules ✓ Complete 30-day supply Supplement Facts Serving Size: 2 vegetable capsules Servings Per Container: 30 Total Mushroom Ingredients: 1,330 mg per serving Cordyceps Powder (Cordyceps sinensis) (Mycelium) 266 mg Reishi Mushroom Extract (Ganoderma lucidum) (Fruiting Bodies) 266 mg Shiitake Mushroom Extract (Lentinus edodes) (Fruiting Bodies) 266 mg Lion's Mane (Hericium erinaceus) (Fruiting Bodies) 266 mg Proprietary Mushroom Blend 266 mg Proprietary Blend Ingredients Maitake Mushroom Extract (Polyporus frondosus) (fruiting bodies), Turkey Tails (Coriolus versicolor) (fruiting bodies), Chaga Mushroom Extract (Inonotus obliquus) (fruiting bodies), Royal Sun Agaricus Extract (Agaricus blazei) (fruiting bodies), White Button Mushroom Extract (Agaricus bisporus) (fruiting bodies), and Wood Ear Fungus Extract (Auricularia auricula) (fruiting bodies). ** Daily Value (DV) not established. Individual amounts within the proprietary mushroom blend are not disclosed. Suggested Use As a dietary supplement, take two (2) vegetable capsules once a day. For best results, take 20–30 minutes before a meal with an 8 oz. glass of water or as directed by your  professional. Other Ingredients & Allergens Other Ingredients: Hypromellose (vegetable capsule), microcrystalline cellulose, and magnesium stearate. Review the Supplement Facts and ingredient list carefully before use if you have known sensitivities to mushrooms or other listed ingredients. Quality & Formulation Mushroom Mind & Body Max provides 60 vegetable capsules per bottle, equivalent to a 30-day supply at the suggested daily serving. Product labeling displays Made in USA, FDA Registered Facility, GMP  and Non-GMO statements. FDA facility registration does not mean that the supplement is FDA-. Caution Do not exceed the recommended dose. Pregnant or nursing mothers, children under the age of 18, and individuals with a known  condition should consult a physician before using this or any dietary supplement. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
+  Updated: 2026-11-01T19:19:30Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_6276c848-6367-4137-aeb1-119a09cac403.png?v=1792354659
+  Price: $19.95 USD
 - [ManPOWER Boost 1700 mg+ – Men’s Energy, Stamina & Vitality Support](https://texasnutra.com/products/manpower-boost-men-s-vitality-supplement-with-longjack-maca-ginseng-l-arginine-zinc-supports-energy-stamina-strength-performance-made-in-usa-60-tablets-30-day-supply): WHY THIS FORMULA Daily support for men’s energy, stamina and vitality. Texas Nutra ManPOWER Boost combines Longjack, Maca, L-Arginine, Ginseng, Zinc and a broad botanical blend in a comprehensive men’s wellness formula. It is designed to help support natural energy, stamina, desire, mood and overall male vitality as part of a consistent daily routine.* 1,700 mg+ Active ingredients per serving 400 mg Longjack per serving 2 Tablets per serving 30 days Complete supply Energy & stamina support Longjack, Maca, L-Arginine and complementary botanicals help support natural energy, stamina and everyday physical vitality.* Men’s vitality & desire Zinc, Ginseng, Tribulus and traditional botanical ingredients provide support for male vitality, desire and overall wellness.* Mood & resilience support Ginseng, Astragalus and other botanicals help support a balanced mood, everyday resilience and active-lifestyle wellness.* WHY YOU'LL LIKE IT A broad men’s wellness blend for active days. ManPOWER Boost combines targeted amino acids, minerals and traditional botanical ingredients in a simple two-tablet serving. The formula is designed for men looking for broader daily support for energy, stamina, desire and overall vitality.* 400 mg Longjack per serving 250 mg Maca per serving 250 mg L-Arginine HCl per serving 125 mg Ginseng Eleuthero Blend Supports energy and stamina* Supports men’s vitality and desire* Product details Serving size 2 tablets Servings per container 30 Calcium 367 mg Zinc 50 mg Longjack 400 mg Maca 250 mg L-Arginine HCl 250 mg Ginseng Eleuthero Blend 125 mg Proprietary blend 745 mg Tablet count 60 Supply 30 days Primary active ingredients Each serving provides 400 mg of Longjack (Eurycoma longifolia) root, 250 mg of Maca root, 250 mg of L-Arginine HCl and 125 mg of a Ginseng Eleuthero Blend featuring Asian Ginseng and Eleuthero root. 745 mg proprietary botanical blend The proprietary blend includes Pumpkin Extract, Sarsaparilla Extract, Muira Puama Extract, Oat Straw, Boron, Cayenne Pepper, Catuaba, Chinese Licorice Extract, Tribulus, Oyster Extract, Astragalus Extract and Nettle Extract. These ingredients complement the primary actives as part of a broader formula designed to support male vitality, stamina, mood and overall wellness.* Suggested use As a dietary supplement, take two tablets once daily, or as directed by your  professional. Other ingredients & allergen information Other ingredients: Vegetable stearic acid, vegetable magnesium stearate and silicon dioxide. Allergen information: Contains shellfish (oyster). Quality & formulation Made in the USA in a GMP- facility and produced according to Texas Nutra quality standards. Caution Do not exceed the recommended dose. Pregnant or nursing individuals, anyone under 18 years of age, and individuals with a known  condition should consult a physician before using this or any dietary supplement. This product contains shellfish (oyster). Individuals with a shellfish allergy should not use this product. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
   Updated: 2026-10-19T11:41:48Z
   Vendor: Texas Nutra
@@ -82,6 +89,13 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_8608ab30-de0c-4f0d-97a5-e8721f4026b4.png?v=1792354925
+  Price: $24.95 USD
+- [Complete VisionCare – Visual Sharpness, Macular & Retinal Health Support](https://texasnutra.com/products/complete-visioncare-advanced-eye-health-supplement-with-lutein-zeaxanthin-bilberry-eyebright-supports-visual-sharpness-macular-health-retinal-function-60-capsules-30-day-supply): WHY THIS FORMULA Everyday nutritional support for healthy eyes and vision. Texas Nutra Complete VisionCare combines essential vitamins, minerals and a 481 mg proprietary botanical and nutrient blend to support visual sharpness, macular health and normal retinal cell function. Featuring lutein, zeaxanthin, bilberry extract and additional antioxidant nutrients, this comprehensive formula helps support everyday eye wellness.* 481 mg Proprietary blend per serving 800 mcg Biotin per serving 2 Veggie capsules daily 30 days Complete supply Visual sharpness support Formulated to support healthy visual function and everyday visual sharpness as part of a consistent wellness routine.* Macular health support Features lutein and zeaxanthin, two carotenoids associated with macular pigment, together with selected nutrients for eye wellness.* Retinal cell function support Combines antioxidant vitamins, minerals and botanical ingredients to support normal retinal cell function and overall eye health.* WHY YOU'LL LIKE IT A comprehensive formula for everyday vision wellness. Complete VisionCare combines vitamins A, C and E, B vitamins and essential minerals with selected botanical extracts, carotenoids and amino acids. The result is a convenient two-capsule daily formula designed for consistent eye wellness.* ✓ Lutein and zeaxanthin ✓ Bilberry and eyebright ✓ Vitamins A, C and E ✓ Zinc and selenium ✓ Alpha lipoic acid ✓ Quercetin and rutin ✓ Grape extract and lycopene ✓ 481 mg proprietary blend ✓ Vegetarian capsules ✓ Complete 30-day supply Supplement Facts Serving Size: 2 capsules Servings Per Container: 30 Vitamins & Minerals Per Serving Vitamin A (as beta-carotene) 100 mcg RAE Vitamin C (as ascorbic acid) 200 mg Vitamin E (DL-alpha tocopheryl acetate) 20 mg Thiamin (Vitamin B1) 8 mg Riboflavin (Vitamin B2) 8 mg Niacin 40 mg NE Vitamin B12 27 mcg Calcium 50 mg Biotin 800 mcg Magnesium 40 mg Zinc 32 mg Selenium 8 mcg Copper 2 mg Chromium 3.6 mcg Proprietary Blend — 481 mg Lutein, bilberry extract, alpha lipoic acid, eyebright, zeaxanthin, quercetin, rutin, L-taurine, grape extract and lycopene. Individual ingredient quantities within the proprietary blend are not disclosed. Suggested Use As a dietary supplement, take two (2) veggie capsules once a day. For best results, take 20–30 minutes before a meal with an 8 oz. glass of water or as directed by your  professional. Other Ingredients & Allergens Other Ingredients: Rice flour, hypromellose (vegetable capsule), vegetable stearates and silicon dioxide. Review the product label before use if you have known ingredient sensitivities. Quality & Formulation Complete VisionCare provides 60 vegetable capsules per bottle, equivalent to a 30-day supply at the suggested use. Product labeling identifies Non-GMO, GMP , Made in USA and FDA Registered Facility statements. These do not mean the supplement itself is FDA-. Caution Do not exceed the recommended dose. Pregnant or nursing mothers, children under 18 and individuals with a known  condition should consult a physician before using this or any dietary supplement. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat,  or prevent any disease.
+  Updated: 2026-11-01T19:19:16Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_3b855270-5d06-48d8-9f62-67a60462770c.png?v=1792354946
   Price: $24.95 USD
 - [Total Colon Detox – Digestive Regularity & Short-Term Cleanse Support](https://texasnutra.com/products/total-colon-detox-advanced-9-herb-cleanse-with-probiotics-aloe-vera-psyllium-supports-detox-pathways-gut-health-internal-cleansing-natural-cleanse-supplement-60-capsules-30-servings): WHY THIS FORMULA Short-term digestive support for regularity and internal cleansing. Texas Nutra Total Colon Detox combines calcium with a 500 mg proprietary blend of botanical ingredients, psyllium, aloe vera and Lactobacillus acidophilus. This short-term formula is designed to support bowel regularity, digestive balance and the body's natural elimination processes.* 700 mg Total formula per serving 2 Capsules per serving 60 Vegetarian capsules 15 days At maximum suggested daily use Digestive regularity support Psyllium, aloe vera and selected botanical ingredients provide nutritional support for normal bowel regularity and digestive wellness.* Natural elimination support The multi-herb formula is designed to support the body's normal elimination processes as part of a short-term cleansing routine.* Gut wellness support The formula also includes Lactobacillus acidophilus as part of its broader digestive wellness blend.* WHY YOU'LL LIKE IT A focused short-term formula for digestive reset routines. Total Colon Detox combines fiber-rich and traditional botanical ingredients with calcium and Lactobacillus acidophilus. The formula is intended for occasional short-term use rather than continuous daily supplementation. 700 mg total formula per serving Includes psyllium and aloe vera Includes traditional cleansing botanicals Includes Lactobacillus acidophilus Supports digestive regularity* Designed for short-term use Product details Serving size 2 capsules Servings per container 30 Calcium per serving 200 mg Proprietary blend per serving 500 mg Total formula per serving 700 mg Capsule count 60 Form Vegetarian capsules Botanical & digestive blend The proprietary blend includes oat straw, alfalfa, psyllium husk, Chinese rhubarb root, scabrous gentian root, aloe vera leaf, cascara sagrada bark, goldenseal root, buckthorn bark, bentonite and Lactobacillus acidophilus. These ingredients are combined to provide short-term nutritional support for digestive regularity and normal elimination processes.* Suggested use Take two capsules in the morning with your first meal. If well tolerated, take two capsules with your first meal and two capsules with your last meal daily until the capsules are gone. Discontinue use if not well tolerated. At the maximum suggested use of four capsules daily, one bottle provides approximately a 15-day cleanse. Important hydration notice This product contains psyllium and should be taken with at least a full glass of liquid. Taking this product without enough liquid may cause choking. Do not use this product if you have difficulty swallowing. Drink adequate water throughout the day while using this product. Other ingredients Rice flour, hypromellose vegetable capsule, vegetable magnesium stearate and silicon dioxide. Caution Do not exceed the recommended dose. Consult a physician before use if you have a  condition. Do not use if pregnant or nursing. This formula contains botanical ingredients traditionally used to support bowel elimination and may have a laxative effect. Discontinue use if not well tolerated. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
   Updated: 2026-10-19T10:39:17Z
@@ -146,13 +160,6 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_6823373b-fde9-4134-b7b0-baf1e76676ab.png?v=1792353766
   Price: $29.95 USD
-- [Digestive Enzyme Pro – Broad-Spectrum Digestive Support](https://texasnutra.com/products/texas-nutra-digestive-enzyme-pro): WHY THIS FORMULA Broad-spectrum digestive support, one meal at a time. Texas Nutra Digestive Enzyme Pro provides a 400 mg broad-spectrum enzyme blend in each vegetarian capsule. The formula combines fungal and plant-derived enzymes designed to help support the digestion of proteins, fats and carbohydrates from everyday foods.* 400 mg Enzyme blend per capsule 2,500 HUT Protease activity 60 Vegetarian capsules 30 days Complete supply Protein digestion support Protease, bromelain and papain help support the normal breakdown of dietary proteins as part of healthy digestion.* Fat digestion support Fungal lipase helps support the digestion of dietary fats and the body's natural digestive process.* Carbohydrate digestion support Lactase and alpha-galactosidase help support the breakdown of specific carbohydrates found in everyday foods.* WHY YOU'LL LIKE IT Digestive enzyme support designed to work with everyday meals. MAKZYME-PRO™ combines multiple digestive enzymes in one convenient vegetarian capsule to support the digestion of proteins, fats and carbohydrates and help support normal nutrient utilization.* 400 mg enzyme blend per capsule 2,500 HUT protease activity Broad-spectrum enzyme formula Supports healthy digestion* Supports nutrient utilization* Vegetarian capsule format Product details Serving size 1 veggie capsule Servings per container 60 Enzyme blend per capsule 400 mg Protease activity 2,500 HUT Suggested daily use 2 capsules Capsule count 60 Supply 30 days Form Vegetarian capsules Broad-spectrum enzyme blend MAKZYME-PRO™ Enzyme Blend includes fungal protease from Aspergillus oryzae, bromelain, papain, fungal lipase, fungal lactase, alpha-galactosidase, Lactobacillus acidophilus, Lactobacillus casei and Lactobacillus plantarum. Protease supports protein digestion, lipase supports fat digestion, and lactase and alpha-galactosidase help support the breakdown of specific carbohydrates found in everyday foods.* Suggested use As a dietary supplement, take one capsule twice daily. For best results, take 20–30 minutes before a meal, or as directed by your  professional. Other ingredients Hypromellose vegetable capsule, vegetable magnesium stearate and silicon dioxide. Caution Do not exceed the recommended dose. Pregnant or nursing individuals, anyone under 18 years of age, and individuals with a known  condition should consult a physician before using this or any dietary supplement. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
-  Updated: 2026-10-18T20:37:39Z
-  Vendor: Texas Nutra
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_e14ebfe9-e172-40d9-aae2-0e34a3cf231b.png?v=1792353792
-  Price: $24.95 USD
 - [Complete Multivitamin – Daily Energy, Immune & Antioxidant Support](https://texasnutra.com/products/texas-nutra-complete-multivitamin): WHY THIS FORMULA Complete daily nutrition built for full schedules. Texas Nutra Complete Multivitamin combines 20 essential vitamins and minerals with three targeted wellness blends. This broad daily formula helps support normal energy metabolism, immune function, antioxidant activity and overall wellness in a convenient two-capsule serving.* 20 Essential vitamins & minerals 3 Targeted wellness blends 2 Capsules per serving 30 days Complete supply Daily energy support A complete B-vitamin complex helps support normal energy metabolism and the body's natural process of converting food into energy.* Immune support Vitamin C, vitamin D, zinc, selenium and a targeted botanical blend help support normal immune function as part of everyday wellness.* Antioxidant support Essential nutrients plus a fruit and botanical blend provide nutritional support for antioxidant activity and everyday vitality.* WHY YOU'LL LIKE IT Broad daily coverage without a complicated supplement stack. One two-capsule serving brings together essential vitamins and minerals with three targeted blends for energy, immune and antioxidant support. It is a practical foundation for a consistent daily wellness routine.* 20 essential vitamins and minerals Complete B-vitamin complex Three targeted wellness blends Supports normal energy metabolism* Supports normal immune function* Vegetarian capsule format Product details Serving size 2 capsules Servings per container 30 Vitamins & minerals 20 Targeted wellness blends 3 Capsule count 60 Supply 30 days Form Vegetarian capsules Daily vitamin & mineral support Each serving provides vitamin A, vitamin C, vitamin D, vitamin E, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12, biotin, pantothenic acid, calcium, magnesium, zinc, selenium, copper, manganese, chromium and molybdenum. Targeted wellness blends Health Support Blend — 170 mg: Features lutein, lycopene, stinging nettle extract and saw palmetto as part of a broad daily wellness formula.* Immune Support Blend — 110 mg: Combines echinacea, beta glucan, spirulina, chlorella and garlic to help support normal immune function.* Antioxidant Fruit & Energy Blend — 190 mg: Includes green tea extract, hawthorn, cinnamon, bilberry, grape extract, black currant and pomegranate to provide antioxidant and everyday vitality support.* Suggested use As a dietary supplement, take two capsules in the morning with a meal, or as directed by your  professional. Other ingredients Rice flour, hypromellose vegetable capsule, magnesium stearate and silicon dioxide. Caution Consult a physician before use if you have a  condition or take  medication. Do not use if pregnant or nursing. Keep out of reach of children. Do not use if the safety seal is damaged or missing. Store in a cool, dry place. *These statements have not been evaluated by the Food and  Administration. This product is not intended to diagnose, treat, , or prevent any disease.
   Updated: 2026-10-18T20:37:40Z
   Vendor: Texas Nutra
@@ -181,40 +188,111 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/1_3d7b7f43-b950-458b-ba9f-afa63472a60a.png?v=1792353888
   Price: $24.95 USD
-- [Test Daily Essentials](https://texasnutra.com/products/test-daily-essentials)
-  Updated: 2026-10-18T18:46:59Z
+- [Daily Essentials Supplement Bundle | Texas Nutra](https://texasnutra.com/products/daily-essentials-routine): Build your own daily vitamin and supplement bundle. Choose 2, 3 or 5 products, save 15%, and get an additional 20% off with monthly delivery.
+  Updated: 2026-11-02T00:11:12Z
   Vendor: Texas Nutra
   Product Type: 
   Availability: Available
-  - [Pack of 2](https://texasnutra.com/products/test-daily-essentials?variant=67620085727533)
+  - [Pack of 2](https://texasnutra.com/products/daily-essentials-routine?variant=67620085727533)
     Availability: Available
-    Price: $42.42 USD
-  - [Pack of 3](https://texasnutra.com/products/test-daily-essentials?variant=67620085760301)
+    Price: $33.92 USD
+  - [Pack of 3](https://texasnutra.com/products/daily-essentials-routine?variant=67620085760301)
     Availability: Available
-    Price: $63.63 USD
-  - [Pack of 5](https://texasnutra.com/products/test-daily-essentials?variant=67620085793069)
+    Price: $55.13 USD
+  - [Pack of 5](https://texasnutra.com/products/daily-essentials-routine?variant=67620085793069)
     Availability: Available
-    Price: $111.15 USD
+    Price: $100.10 USD
+- [Women's Wellness Supplement Bundle | Texas Nutra](https://texasnutra.com/products/women-s-balance-routine): Build a women's wellness bundle with personalized supplement choices for balance and self-care. Pick 2, 3 or 5 products, save 15%, and subscribe for more savings.
+  Updated: 2026-11-02T00:36:50Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0937/5275/4477/files/2_d07104ed-b594-4cf5-98e8-468543d88f7b.png?v=1791200837
+  - [Pack of 2](https://texasnutra.com/products/women-s-balance-routine?variant=67986312986925)
+    Availability: Available
+    Price: $36.47 USD
+  - [Pack of 3](https://texasnutra.com/products/women-s-balance-routine?variant=67986313019693)
+    Availability: Available
+    Price: $57.68 USD
+  - [Pack of 5](https://texasnutra.com/products/women-s-balance-routine?variant=67986313052461)
+    Availability: Available
+    Price: $100.10 USD
+- [Couples Wellness Supplement Bundle | Texas Nutra](https://texasnutra.com/products/better-together-routine): Build a wellness bundle for two with men's and women's supplement options. Choose 2, 3 or 5 products, save 15%, and get an additional 20% off with subscription.
+  Updated: 2026-11-02T00:12:25Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  - [Pack of 2](https://texasnutra.com/products/better-together-routine?variant=67986313543981)
+    Availability: Available
+    Price: $40.72 USD
+  - [Pack of 3](https://texasnutra.com/products/better-together-routine?variant=67986313576749)
+    Availability: Available
+    Price: $61.93 USD
+  - [Pack of 5](https://texasnutra.com/products/better-together-routine?variant=67986313609517)
+    Availability: Available
+    Price: $109.45 USD
+- [Cellular Vitality Supplement Bundle | Texas Nutra](https://texasnutra.com/products/cellular-vitality-routine): Explore a customizable wellness bundle featuring NMN 500mg and daily nutritional essentials. Choose 2, 3 or 5 products and save 15% on your bundle.
+  Updated: 2026-11-02T00:12:47Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  - [Pack of 2](https://texasnutra.com/products/cellular-vitality-routine?variant=67986314527021)
+    Availability: Available
+    Price: $33.92 USD
+  - [Pack of 3](https://texasnutra.com/products/cellular-vitality-routine?variant=67986314559789)
+    Availability: Available
+    Price: $50.88 USD
+  - [Pack of 5](https://texasnutra.com/products/cellular-vitality-routine?variant=67986314592557)
+    Availability: Available
+    Price: $95.85 USD
+- [Beauty Supplements Bundle for Skin & Hair | Texas Nutra](https://texasnutra.com/products/beauty-from-within): Build your own beauty supplement bundle with collagen, hair, skin and nail formulas. Choose 2, 3 or 5 products, save 15%, and subscribe for additional savings.
+  Updated: 2026-11-02T00:13:15Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  - [Pack of 2](https://texasnutra.com/products/beauty-from-within?variant=67986319737133)
+    Availability: Available
+    Price: $33.92 USD
+  - [Pack of 3](https://texasnutra.com/products/beauty-from-within?variant=67986319769901)
+    Availability: Available
+    Price: $55.13 USD
+  - [Pack of 5](https://texasnutra.com/products/beauty-from-within?variant=67986319802669)
+    Availability: Available
+    Price: $97.55 USD
+- [Focus & Recovery Supplement Bundle | Texas Nutra](https://texasnutra.com/products/workday-focus-and-recovery-routine): Create a personalized supplement bundle for focus, relaxation and recovery. Choose 2, 3 or 5 products, save 15%, and subscribe for an additional 20% off.
+  Updated: 2026-11-02T00:11:41Z
+  Vendor: Texas Nutra
+  Product Type: 
+  Availability: Available
+  - [Pack of 2](https://texasnutra.com/products/workday-focus-and-recovery-routine?variant=67991358275885)
+    Availability: Available
+    Price: $33.92 USD
+  - [Pack of 3](https://texasnutra.com/products/workday-focus-and-recovery-routine?variant=67991358308653)
+    Availability: Available
+    Price: $50.88 USD
+  - [Pack of 5](https://texasnutra.com/products/workday-focus-and-recovery-routine?variant=67991358341421)
+    Availability: Available
+    Price: $93.30 USD
 
 ## Collections
 
 - [Men’s Performance & Power](https://texasnutra.com/collections/men-s-performance-power): Unleash your potential with Texas Nutra’s Men’s Performance collection. Premium Made-in-USA supplements for testosterone support, prostate health, and physical stamina.
-  Updated: 2026-10-18T01:17:05Z
+  Updated: 2026-11-01T19:18:45Z
   Total Products: 9
 - [Mind & Sleep](https://texasnutra.com/collections/mind-mood): Master your focus and master your rest. Whether you're looking for razor-sharp mental clarity to crush your goals or a calm, restorative night’s sleep to recover, our Mind & Sleep collection provides the essential nutrients your nervous system craves. Achieve cognitive excellence and emotional balance with our advanced bio-available formulas.
-  Updated: 2026-10-18T20:10:04Z
+  Updated: 2026-11-01T19:18:45Z
   Total Products: 7
 - [Daily Essentials & Vitality](https://texasnutra.com/collections/daily-essentials-vitality): Build a healthier foundation with Texas Nutra’s Daily Essentials. High-potency NAD+, probiotics, and detox formulas for longevity, gut health, and daily vitality
-  Updated: 2026-10-18T20:10:04Z
+  Updated: 2026-11-01T19:19:11Z
   Total Products: 14
 - [Women’s Wellness & Beauty](https://texasnutra.com/collections/women-s-wellness-beauty): Shop Texas Nutra’s Women’s Wellness & Beauty collection. Premium supplements for hormonal balance, natural weight management, and radiant hair, skin, and nails. Made in USA.
-  Updated: 2026-10-18T20:11:05Z
+  Updated: 2026-11-01T01:55:07Z
   Total Products: 12
 - [Targeted Care](https://texasnutra.com/collections/targeted-care): Find specific solutions for your health. Texas Nutra’s Targeted Care offers supplements for joint support, blood sugar balance, and specialized organ health
-  Updated: 2026-10-18T20:11:05Z
+  Updated: 2026-11-01T01:55:06Z
   Total Products: 10
 - [Texas Nutra Bundles & Combos](https://texasnutra.com/collections/texas-nutra-bundles-combos): Save more with Texas Nutra Bundles. Expertly curated supplement stacks for detox, performance, and longevity. Best value for your health journey.
-  Updated: 2026-10-18T01:11:31Z
+  Updated: 2026-11-01T01:55:07Z
   Total Products: 9
 
 ## Blogs
@@ -277,11 +355,13 @@ Customers can shop individual products, build personalized wellness bundles, or 
   Updated: 2025-12-18T09:58:14Z
 - [FAQs](https://texasnutra.com/pages/faqs): STRAIGHT ANSWERS. NO NONSENSE. Here are the answers to the most common questions we get. If you don't see what you're looking for, email us at supp...
   Updated: 2025-12-18T10:22:33Z
+- [Build Your Own Vitamin & Supplement Bundle | Texas Nutra](https://texasnutra.com/pages/build-your-routine): 
+  Updated: 2026-11-02T00:29:06Z
 
 ## Policies
 
 - [Privacy Policy](https://texasnutra.com/policies/privacy-policy)
-  Updated: 2025-10-20T23:19:47Z
+  Updated: 2026-10-30T16:33:16Z
 
 ## Official Website
 - https://texasnutra.com
