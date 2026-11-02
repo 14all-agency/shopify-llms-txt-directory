@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-11T17:55:32Z
 - Contact Email: novora.store88@gmail.com
-- Updated At: 2026-10-26T00:45:38.230Z
+- Updated At: 2026-11-02T00:55:44.710Z
 
 ## Products
 
@@ -897,7 +897,7 @@
     Image: https://cdn.shopify.com/s/files/1/0987/8047/9812/files/1616070580363.jpg?v=1791987884
     Price: $10.95 USD
 - [Same Outdoor Clothes Special Forces Camouflage Training Clothes](https://novorashop94.store/products/same-outdoor-clothes-special-forces-camouflage-training-clothes): Product information: Color: black suit, gray suit, green suit, brown khaki suit, CP camouflage suit, dark night camouflage suit, ruins camouflage suit Hooded or not: Hooded Combination form: One-piece set Suitable season: Winter Size: S,M,L,XL,XXL,XXXL,4XL Prevention: 1. Asian sizes are 1 to 2 sizes smaller than European and American people. Choose the larger size if your size between two sizes. Please allow 2-3cm differences due to manual measurement. 2. Please check the size chart carefully before you buy the item, if you don't know how to choose size, please contact our customer service. 3.As you know, the different computers display colors differently, the color of the actual item may vary slightly from the following images. Packing list: Top*1+Pants*1（ No belt and armband） Product Image:
-  Updated: 2026-10-25T12:25:38Z
+  Updated: 2026-11-01T17:45:13Z
   Vendor: NovoraShop94
   Product Type: 0
   Availability: Available
@@ -3007,7 +3007,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0987/8047/9812/files/8937f149-ede8-4471-9008-3d115842a1f7.jpg?v=1791988600
     Price: $8.70 USD
-[List Continued](https://novorashop94.store/a/llms-agent/llms.txt?shop=vknpie-c6.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcyODY2MzEwMTc2NCwibGFzdF92YWx1ZSI6IjE1NzI4NjYzMTAxNzY0In0%3D)
+[List Continued](https://novorashop94.store/a/llms-agent/llms.txt?shop=vknpie-c6.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTcyODY2MzEwMTc2NCwibGFzdF92YWx1ZSI6IjIwMjYtMTAtMTQgMTQ6MzY6MzcuMDAwMDAwIn0%3D)
 
 ## Collections
 
@@ -3029,6 +3029,9 @@
     Author: Novora Store
   - [Newborn Photoshoot Outfits: What Parents Should Look For](https://novorashop94.store/blogs/news/newborn-photoshoot-outfits-what-parents-should-look-for): Newborn Photoshoot Outfits: What Parents Should Look For
     Updated: 2026-10-19T13:00:15Z
+    Author: vknpie-c6
+  - [Matching Dog and Owner Outfits: Comfort Tips](https://novorashop94.store/blogs/news/matching-dog-owner-outfits-comfort): Matching Dog and Owner Outfits: Comfort Tips
+    Updated: 2026-10-26T13:00:16Z
     Author: vknpie-c6
 
 ## Store Pages
@@ -3053,7 +3056,7 @@
 ## Policies
 
 - [Privacy Policy](https://novorashop94.store/policies/privacy-policy)
-  Updated: 2026-10-11T17:55:37Z
+  Updated: 2026-10-30T14:51:14Z
 - [Shipping Policy](https://novorashop94.store/policies/shipping-policy)
   Updated: 2026-10-24T14:24:41Z
 - [Refund Policy](https://novorashop94.store/policies/refund-policy)
