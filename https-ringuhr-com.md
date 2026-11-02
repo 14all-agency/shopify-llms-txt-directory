@@ -16,15 +16,15 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
 - Created At: 2025-05-06T13:37:57Z
 - Contact Email: contact@ringuhr.com
 - Address: Königstraße 27, 70173 Stuttgart, Germany
-- Updated At: 2026-10-25T10:20:55.048Z
+- Updated At: 2026-11-02T00:33:18.971Z
 
 ## Collections
 
 - [Die 104 Ringuhr Kollektion](https://ringuhr.com/collections/cichart-ringuhren): CICHART erschafft mit der 104 eine völlig neue Uhrenkategorie: Luxus-Ringuhren mit dem weltweit erste dreh- und kippbaren Ringuhrengehäuse. Jetzt entdecken.
-  Updated: 2026-10-17T11:41:05Z
+  Updated: 2026-11-01T12:48:33Z
   Total Products: 3
 - [StoreRank.ai All Products](https://ringuhr.com/collections/storerank-ai-all-products): - Ringuhr.com
-  Updated: 2026-10-13T18:01:04Z
+  Updated: 2026-11-01T12:48:33Z
   Total Products: 3
 
 ## Blogs
@@ -81,7 +81,7 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
 ## Policies
 
 - [Privacy Policy](https://ringuhr.com/policies/privacy-policy)
-  Updated: 2025-09-12T12:50:48Z
+  Updated: 2026-11-01T01:50:00Z
 - [Shipping Policy](https://ringuhr.com/policies/shipping-policy)
   Updated: 2025-07-01T11:28:32Z
 - [Refund Policy](https://ringuhr.com/policies/refund-policy)
