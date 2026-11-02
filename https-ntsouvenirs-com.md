@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2019-01-08T19:10:02Z
 - Contact Email: nt_wholesale@verizon.net
-- Updated At: 2026-10-26T00:39:00.501Z
+- Updated At: 2026-11-02T00:54:48.110Z
 
 # NT Souvenirs & Gifts — Washington, DC Souvenir Store
 
@@ -2242,14 +2242,14 @@ Customers can shop online or visit our physical store in Washington, DC. We welc
   Updated: 2026-10-18T16:19:53Z
   Total Products: 12
 - [Crewneck Sweatshirts](https://ntsouvenirs.com/collections/crewneck-sweatshirts): Shop Washington, D.C. sweatshirts featuring iconic landmarks, patriotic designs, DC graphics, colorful prints, and classic capital styles. Soft, comfortable, and easy to layer, they’re perfect for cooler weather, sightseeing, travel, gifts, and everyday wear.
-  Updated: 2026-10-18T16:19:53Z
-  Total Products: 13
+  Updated: 2026-11-01T15:02:04Z
+  Total Products: 14
 - [Patriot Collection](https://ntsouvenirs.com/collections/patriot-collection): Celebrate American pride with Washington, D.C. souvenirs featuring USA flags, bald eagles, patriotic colors, iconic landmarks, and classic red, white, and blue designs. Perfect for gifts, travel keepsakes, patriotic events, and everyday displays.
   Updated: 2026-10-25T18:34:59Z
   Total Products: 53
 - [Apparel](https://ntsouvenirs.com/collections/apparel): Shop Washington, D.C. apparel featuring patriotic graphics, iconic landmarks, presidential themes, DC designs, and classic souvenir styles. Explore T-shirts, sweatshirts, hoodies, hats, caps, and more for sightseeing, travel, gifts, and everyday wear.
-  Updated: 2026-10-18T16:19:53Z
-  Total Products: 76
+  Updated: 2026-11-01T15:02:04Z
+  Total Products: 77
 - [Drinkware](https://ntsouvenirs.com/collections/drinkware): Shop Washington, D.C. drinkware featuring iconic landmarks, presidential seals, cherry blossoms, patriotic designs, and classic capital souvenirs. Explore mugs, tumblers, travel cups, and shot glasses that are perfect for gifts, collections, travel memories, and everyday use.
   Updated: 2026-10-24T11:07:41Z
   Total Products: 39
