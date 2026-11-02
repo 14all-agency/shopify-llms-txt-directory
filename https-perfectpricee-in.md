@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-02T17:03:29Z
 - Contact Email: info@perfectpricee.in
-- Updated At: 2026-10-26T00:54:16.842Z
+- Updated At: 2026-11-02T01:10:55.188Z
 
 ## Products
 
@@ -1768,7 +1768,7 @@
 ## Policies
 
 - [Privacy Policy](https://perfectpricee.in/policies/privacy-policy)
-  Updated: 2026-09-02T17:03:34Z
+  Updated: 2026-10-31T02:29:31Z
 - [Shipping Policy](https://perfectpricee.in/policies/shipping-policy)
   Updated: 2026-09-24T18:09:50Z
 - [Refund Policy](https://perfectpricee.in/policies/refund-policy)
