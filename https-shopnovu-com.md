@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-02T05:10:58Z
 - Contact Email: kevinhuff1203@icloud.com
-- Updated At: 2026-10-26T00:48:11.875Z
+- Updated At: 2026-11-02T00:52:23.504Z
 
 ## Products
 
@@ -2619,7 +2619,7 @@
 ## Policies
 
 - [Privacy Policy](https://shopnovu.com/policies/privacy-policy)
-  Updated: 2026-10-02T05:11:04Z
+  Updated: 2026-11-01T00:56:45Z
 - [Refund Policy](https://shopnovu.com/policies/refund-policy)
   Updated: 2026-10-11T18:38:01Z
 - [Terms of Service](https://shopnovu.com/policies/terms-of-service)
