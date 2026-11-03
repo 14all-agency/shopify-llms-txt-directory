@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-28T08:33:03Z
 - Contact Email: help@brillianthsolutions.com
-- Updated At: 2026-10-26T07:54:18.263Z
+- Updated At: 2026-11-03T00:26:11.903Z
 
 ## Collections
 
@@ -24,8 +24,8 @@
     Updated: 2026-10-16T14:19:49Z
     Author: Agilis Tech Labs
   - [Precision Orthotic Design: The Role of Biomechanics](https://brillianthsolutions.com/blogs/articles/biomechanical-research-precision-orthotic-design): Precision Orthotic Design: The Role of Biomechanics
-    Updated: 2026-10-26T06:40:33Z
-    Author: Agilis Tech Labs
+    Updated: 2026-10-26T07:59:34Z
+    Author: Emily Perley
 - [News](https://brillianthsolutions.com/blogs/news)
   - [Brilliant Health Solutions Launches New Website, Bringing ReLEAF Orthotics and Orthotic Resources Online](https://brillianthsolutions.com/blogs/news/brilliant-health-solutions-launches-new-website-bringing-releaf-orthotics-and-orthotic-resources-online): <p>New digital platform gives patients,  providers and organizations a central destination to explore BHS and its U.S.-made ReLEAF orthotic solutions<br></p>
     Updated: 2026-10-16T14:17:16Z
@@ -65,7 +65,7 @@
 ## Policies
 
 - [Privacy Policy](https://brillianthsolutions.com/policies/privacy-policy)
-  Updated: 2026-05-28T08:33:14Z
+  Updated: 2026-10-30T08:51:20Z
 
 ## Optional
 
