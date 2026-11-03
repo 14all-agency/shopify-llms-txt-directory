@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2018-07-05T20:37:18Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-27T00:57:42.548Z
+- Updated At: 2026-11-03T01:06:10.949Z
 
 ## Products
 
@@ -126,7 +126,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0141/5223/7114/files/GNMedia_2.png?v=1716568597
   Price: $30.00 USD
 - [Hand-signed Marrakesh Express Lyric Manuscript](https://grahamnash.merchmadeeasy.com/products/marrakesh-express-lyric-manuscript): Limited edition archival pigment print Written and released in 1969 on 'Crosby, Stills & Nash' by CSN. Each print is hand signed in pencil. Dimensions: 8" x 10"
-  Updated: 2026-10-16T16:09:16Z
+  Updated: 2026-10-28T16:54:47Z
   Vendor: Graham Nash
   Product Type: Manuscript
   Availability: Available
@@ -329,7 +329,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0141/5223/7114/files/GN_Tour_Poster_2020_Unsigned.png?v=1751919231
     Price: $15.00 USD
 - [Signed 2023 Tour Poster](https://grahamnash.merchmadeeasy.com/products/signed-2023-tour-poster): Signed 2023 Tour Poster Dimensions: 11" x 15"
-  Updated: 2026-10-16T16:09:16Z
+  Updated: 2026-11-02T05:09:41Z
   Vendor: Graham Nash
   Product Type: Poster
   Availability: Available
@@ -432,7 +432,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $40.00 USD
 - [SIGNED 2023 Tour Bundle](https://grahamnash.merchmadeeasy.com/products/2023-tour-bundle): Includes: (1) 2023 Tour Tee + (1) SIGNED 2023 Tour Poster
-  Updated: 2026-08-22T14:36:09Z
+  Updated: 2026-11-02T05:09:49Z
   Vendor: Graham Nash
   Product Type: Bundle
   Availability: Available
@@ -477,7 +477,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Change the World Tee](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee): 100% airlume combed and ringspun cotton t-shirt in cool blue Size Guide Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-05T21:12:40Z
+  Updated: 2026-11-02T04:28:06Z
   Vendor: Graham Nash
   Product Type: Apparel
   Availability: Available
@@ -486,7 +486,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
   - [M](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee?variant=41016818270266)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [L](https://grahamnash.merchmadeeasy.com/products/change-the-world-tee?variant=41016818303034)
     Availability: Not Available
@@ -508,7 +508,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0141/5223/7114/files/GN_Signed_2025_Poster.png?v=1758298184
   Price: $50.00 USD
 - [Our House Mug](https://grahamnash.merchmadeeasy.com/products/our-house-mug): 17oz glossy ceramic mug in black
-  Updated: 2026-10-05T13:01:59Z
+  Updated: 2026-10-30T19:46:40Z
   Vendor: Graham Nash
   Product Type: Hat
   Availability: Available
@@ -546,13 +546,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://grahamnash.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 39
 - [Apparel](https://grahamnash.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 12
 - [Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-12T11:15:00Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 14
 - [Music](https://grahamnash.merchmadeeasy.com/collections/music)
   Updated: 2026-10-05T21:21:36Z
@@ -564,10 +564,10 @@ your agent can transact everywhere.
   Updated: 2026-10-05T21:21:35Z
   Total Products: 10
 - [All Products](https://grahamnash.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 62
 - [Featured](https://grahamnash.merchmadeeasy.com/collections/featured)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 62
 - [Digital Albums](https://grahamnash.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:26:33Z
@@ -576,28 +576,28 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:26:33Z
   Total Products: 0
 - [All](https://grahamnash.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 62
 - [$15 ](https://grahamnash.merchmadeeasy.com/collections/15-)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 62
 - [All Accessories](https://grahamnash.merchmadeeasy.com/collections/accessories-1)
-  Updated: 2026-10-12T11:15:00Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 20
 - [Hats](https://grahamnash.merchmadeeasy.com/collections/hats)
   Updated: 2026-10-06T15:41:53Z
   Total Products: 1
 - [Posters](https://grahamnash.merchmadeeasy.com/collections/posters)
-  Updated: 2026-10-12T11:15:00Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 8
 - [Tour Collection](https://grahamnash.merchmadeeasy.com/collections/tour-tees)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 18
 - [Best Sellers](https://grahamnash.merchmadeeasy.com/collections/avada-best-sellers)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 36
 - [SIGNED COLLECTION](https://grahamnash.merchmadeeasy.com/collections/signed-photos-and-lyric-manuscript)
-  Updated: 2026-10-12T11:15:00Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 16
 - [Tour Bundles](https://grahamnash.merchmadeeasy.com/collections/tour-bundles)
   Updated: 2026-10-06T15:41:42Z
@@ -609,10 +609,10 @@ your agent can transact everywhere.
   Updated: 2026-10-06T15:41:53Z
   Total Products: 12
 - [New Arrivals](https://grahamnash.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 62
 - [2025 Tour Merch](https://grahamnash.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-10-12T11:15:00Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 3
 - [Black Friday Bundle](https://grahamnash.merchmadeeasy.com/collections/black-friday-bundle)
   Updated: 2026-10-06T15:41:34Z
@@ -624,7 +624,7 @@ your agent can transact everywhere.
   Updated: 2026-10-10T11:12:59Z
   Total Products: 2
 - [T-Shirts](https://grahamnash.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-10-22T11:16:59Z
+  Updated: 2026-11-02T12:09:05Z
   Total Products: 11
 
 ## Store Pages
