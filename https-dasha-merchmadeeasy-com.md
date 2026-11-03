@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2023-07-08T19:27:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-26T00:59:45.624Z
+- Updated At: 2026-11-03T00:59:08.742Z
 
 ## Products
 
@@ -154,7 +154,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [cuntry trucker hat - pink](https://dasha.merchmadeeasy.com/products/cuntry-trucker-hat-pink): we're serving cuntry in these hats 🩷 camo trucker hat with a snap closure
-  Updated: 2026-10-16T21:41:42Z
+  Updated: 2026-10-28T18:18:28Z
   Vendor: Cuntry
   Product Type: Hat
   Availability: Available
@@ -182,7 +182,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0789/4784/4415/files/Dasha_Keychain_Front_d15c5e30-7610-4506-88c8-fabd3520191c.png?v=1740756712
   Price: $8.00 USD
 - [bedazzled cuntry tank](https://dasha.merchmadeeasy.com/products/bedazzled-cuntry-tank): these cuntry tanks needed a little sparkle ✨ 100% cotton tank top in white. please note: these tanks are hand-bedazzled – each tank is unique and may not match the photo exactly
-  Updated: 2026-10-05T13:03:48Z
+  Updated: 2026-10-28T18:18:26Z
   Vendor: Cuntry
   Product Type: Tank Top
   Availability: Available
@@ -200,7 +200,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $25.00 USD
   - [2XL](https://dasha.merchmadeeasy.com/products/bedazzled-cuntry-tank?variant=50509322223935)
-    Availability: Available
+    Availability: Not Available
     Price: $25.00 USD
 - [southern heart tee](https://dasha.merchmadeeasy.com/products/southern-heart-tee): southern at heart 🤎 100% ringspun cotton mineral wash t-shirt in vintage black size chart size body length (in) chest width (in) s 28 18 m 29 20 l 30 22 xl 31 24 2xl 32 26
   Updated: 2026-10-21T18:10:39Z
@@ -364,16 +364,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://dasha.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-24T11:12:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 29
 - [apparel](https://dasha.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-23T11:13:23Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 13
 - [accessories](https://dasha.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-24T11:12:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 14
 - [all](https://dasha.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-24T11:12:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 39
 - [What Happens Now?](https://dasha.merchmadeeasy.com/collections/what-happens-now)
   Updated: 2026-07-22T14:13:01Z
@@ -385,37 +385,37 @@ your agent can transact everywhere.
   Updated: 2026-10-24T11:12:30Z
   Total Products: 8
 - [cuntry collection](https://dasha.merchmadeeasy.com/collections/cuntry-collection)
-  Updated: 2026-10-20T11:11:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 7
 - [$20.24](https://dasha.merchmadeeasy.com/collections/20-24)
   Updated: 2025-05-04T01:50:35Z
   Total Products: 0
 - [hats](https://dasha.merchmadeeasy.com/collections/hats)
-  Updated: 2026-10-20T11:11:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 6
 - [2025 tour merch](https://dasha.merchmadeeasy.com/collections/not-at-this-party)
   Updated: 2026-10-24T11:12:30Z
   Total Products: 14
 - [tanks](https://dasha.merchmadeeasy.com/collections/tanks)
-  Updated: 2026-09-18T11:10:38Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 2
 - [new arrivals](https://dasha.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-24T11:12:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 39
 - [best sellers](https://dasha.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-24T11:12:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 39
 - [](https://dasha.merchmadeeasy.com/collections/)
   Updated: 2026-10-20T11:11:30Z
   Total Products: 2
 - [Tees & Tanks](https://dasha.merchmadeeasy.com/collections/tees-tanks)
-  Updated: 2026-10-20T11:11:30Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 9
 - [anna](https://dasha.merchmadeeasy.com/collections/anna)
   Updated: 2026-10-23T11:13:23Z
   Total Products: 4
 - [bedazzled](https://dasha.merchmadeeasy.com/collections/bedazzled)
-  Updated: 2026-09-18T11:10:38Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 2
 - [$10 & Under](https://dasha.merchmadeeasy.com/collections/10-under)
   Updated: 2026-10-24T11:12:30Z
@@ -424,7 +424,7 @@ your agent can transact everywhere.
   Updated: 2026-06-08T20:27:37Z
   Total Products: 1
 - [$30 & Above](https://dasha.merchmadeeasy.com/collections/30-above)
-  Updated: 2026-10-23T11:13:23Z
+  Updated: 2026-10-29T11:11:50Z
   Total Products: 22
 
 ## Store Pages
