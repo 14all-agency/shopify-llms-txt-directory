@@ -6,12 +6,12 @@
 - Timezone: Asia/Kuwait
 - Created At: 2025-12-01T14:08:17Z
 - Contact Email: hello@seissense.com
-- Updated At: 2026-10-27T12:45:44.663Z
+- Updated At: 2026-11-03T12:46:34.242Z
 
 ## Products
 
 - [Pollock Leggings](https://gcc.seissense.com/products/pollock-leggings): Leggings built for full range of motion, every session.Made from recycled nylon and elastane with FUZE™ technology, the Pollock delivers four-way stretch and moisture-wicking performance for workouts or daily wear. Quick-dry fabric keeps you comfortable no matter how the session goes. Recycled nylon and elastane — Comfort and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Full freedom of motion Moisture-wicking and quick-dry — Keeps you fresh throughout UV refraction — Added protection outdoors Perfect for: Training, running, everyday wearMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-10-21T09:56:35Z
+  Updated: 2026-10-31T10:55:54Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -631,7 +631,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIK012632_KIDS_JOGGER_SAND_BOYS_01_1200x1800_8ffee246-c1b5-42d7-a333-5016c01d3948.webp?v=1781071485
     Price: AED 189.00 AED
 - [Morisot Men's Endurance Fitted Jacket](https://gcc.seissense.com/products/morisot-mens-endurance-fitted-jacket): A fitted training jacket built to move, breathe, and last.Made from recycled fibers with FUZE™ technology, the Morisot is designed for training and outdoor sessions that push into every direction. Four-way stretch keeps the fit close without restricting, while moisture-wicking fabric dries fast and stays fresh between wears. Recycled fibers — Performance construction with a lower footprint FUZE™ technology — Antimicrobial protection and odour control UV refraction — Added protection during outdoor sessions Four-way stretch — Full freedom of movement Quick-dry — Stays fresh through back-to-back sessions Perfect for: Training, outdoor workouts, layering, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-26T06:23:15Z
+  Updated: 2026-10-27T13:10:37Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -693,7 +693,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012632MarisotFittedJacketCharcoal_02_1200x1800_b4dba620-cffd-4044-8017-6edcb8a8374a.jpg?v=1781071552
     Price: AED 400.00 AED
 - [Takashi Jacket](https://gcc.seissense.com/products/takashi-jacket): A modern jacket built for performance and everyday wear.Made from recycled fibers, viscose and elastane with FUZE™ technology, the Takashi is designed for training and casual wear alike. Moisture-wicking fabric keeps you fresh through the session, and quick-dry performance means it's ready to wear again sooner. Recycled fibers, viscose and elastane — Comfort, stretch and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control UV refraction — Extra protection outdoors Quick-dry — Fresh and ready faster Durable construction — Built to hold up wear after wear Perfect for: Training, casual wear, layering, everyday useMaterials: Recycled fibers, viscose, elastane with FUZE™ 
-  Updated: 2026-10-25T06:08:41Z
+  Updated: 2026-10-31T10:19:51Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -761,7 +761,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012649CarterShortsSepia_02_1200x1800_78232609-b247-4de7-bd3f-7d60f6b491e3.webp?v=1781071654
     Price: AED 300.00 AED
 - [Francis Active Fitted Long Sleeve Tee](https://gcc.seissense.com/products/francis-active-fitted-long-sleeve-tee): A fitted long sleeve built for training in every condition.Made from recycled fibers and elastane with FUZE™ technology, the Francis is designed for training sessions and active days that need full coverage. Moisture-wicking fabric keeps you fresh, and the fitted cut moves with you without getting in the way. Recycled fibers and elastane — Performance and sustainability in one fabric FUZE™ technology — Antimicrobial protection and odour control Fitted cut — Moves with you, not against you Quick-dry — Fresh and ready faster UV refraction — Extra protection during outdoor sessions Perfect for: Training, active days, layeringMaterials: Recycled fibers and elastane with FUZE™ 
-  Updated: 2026-10-15T09:44:52Z
+  Updated: 2026-10-31T10:19:51Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -823,7 +823,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012672FrancisActiveTeeCharcoal_02_1200x1800_85ef204a-2fd0-4365-b868-6d50355c1446.webp?v=1781071704
     Price: AED 170.00 AED
 - [Hirst Running Slim Fit Short Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-short-sleeve-tee): A slim-fit running tee built for the miles that matter.Made from recycled fibers and elastane, the Hirst Short Sleeve is designed for runners who want stretch without extra weight. The slim fit stays out of the way on every stride, and moisture-wicking fabric pulls sweat away on hot runs. Available in a vibrant colour collection with six bold colourways. Recycled fibers and elastane — Stretch and sustainability together Slim fit — Aerodynamic without restricting the stride Moisture-wicking — Manages sweat on hot runs Short sleeve — Lightweight coverage for warmer sessions Six colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, warm weather sessionsMaterials: Recycled fibers and elastane
-  Updated: 2026-10-18T07:59:41Z
+  Updated: 2026-11-03T06:45:35Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -997,7 +997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012673_Hirst_Short_Sleeve_Tee_Dark_Suntan_01.jpg?v=1781071784
     Price: AED 160.00 AED
 - [Hirst Running Slim Fit Long Sleeve Tee](https://gcc.seissense.com/products/hirst-running-slim-fit-long-sleeve-tee): A slim-fit running tee built for full coverage on every run.Made from recycled fibers and elastane, the Hirst Long Sleeve delivers a second-skin fit that never restricts your stride. Moisture-wicking fabric manages sweat over distance, and long sleeves add coverage for cooler conditions. Available in vibrant colours. Recycled fibers and elastane — Stretch and sustainability in one fabric Slim fit — Close to the body without restricting movement Moisture-wicking — Manages sweat on long runs Long sleeve — Full arm coverage for cooler conditions Vibrant colourways — Fiery Red, Spicy Mustard, Cobalt Blue and more Perfect for: Running, training, cooler weatherMaterials: Recycled fibers and elastane
-  Updated: 2026-10-22T16:09:42Z
+  Updated: 2026-11-03T06:45:35Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1143,7 +1143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012674_Hirst_Long_Sleeve_Tee_Dark_Suntan_02.jpg?v=1781071852
     Price: AED 180.00 AED
 - [Jackson Mid Impact Bra](https://gcc.seissense.com/products/jackson-mid-impact-bra-1): A mid-impact bra built for the sessions that ask more.Made from recycled nylon and elastane with FUZE™ technology, the Jackson delivers support and four-way stretch for mid-impact training. Moisture-wicking fabric keeps you fresh and supported through every rep. Recycled nylon and elastane — Support and sustainability together FUZE™ technology — Antimicrobial protection and odour control Four-way stretch — Unrestricted movement during training Moisture-wicking — Keeps you fresh and supported Quick-dry — Comfortable from warm-up to cool-down Perfect for: Mid-impact training, HIIT, cyclingMaterials: Recycled nylon and elastane with FUZE™ 
-  Updated: 2026-10-13T11:51:36Z
+  Updated: 2026-10-31T09:47:46Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1239,7 +1239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW0126120_Morisot_Jacket_Charcoal_02_1200x1800_f047107b-de33-4267-bcf6-ac14d701d7af.webp?v=1781071893
     Price: AED 390.00 AED
 - [Nelson Sports Cap](https://gcc.seissense.com/products/nelson-sports-cap-1): A sports cap built to match everything you own.Made from recycled fibers, the Nelson has a structured front panel and adjustable back strap for a fit that actually works. Nine vibrant colourways that can be worn with any outfit. Recycled fibers — Sustainable construction from brim to strap Structured front panel — Holds its shape through use and wash Adjustable back strap — One size that actually fits Nine colourways — Core colours plus Valentine collection tones Unisex — Works for everyone Perfect for: Training, running, everyday wearMaterials: Recycled fibers
-  Updated: 2026-10-16T11:22:36Z
+  Updated: 2026-11-03T06:45:36Z
   Vendor: Seissense
   Product Type: Accessories
   Availability: Available
@@ -1247,41 +1247,41 @@
   - [Charcoal](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837570277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/10_SEIA012505_NELSON-SPORTS-CAP_CHARCOAL_4.jpg?v=1781071994
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Dark Suntan](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837603045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605DarkSuntanCap_01.jpg?v=1781071935
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Sepia](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837635813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Sepia_Cap_01.jpg?v=1781071983
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Fiery Red](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837668581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Fiery_Red_Cap_01.webp?v=1781071941
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Spicy Mustard](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837701349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Spicy_Mustard_Cap_01.jpg?v=1781071963
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Teal](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837734117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Transformative_Teal_Cap_02.webp?v=1781071952
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Clay](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837766885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Willow_Cap_01.jpg?v=1781071958
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Tofu White](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837799653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Tofu_White_Cap_01.jpg?v=1781071977
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
   - [Cobalt Blue](https://gcc.seissense.com/products/nelson-sports-cap-1?variant=49509837832421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIA012605_Cobalt_Blue_Cap_01.jpg?v=1781071972
-    Price: AED 100.00 AED
+    Price: AED 259.00 AED
 - [Bernard Men's Tight](https://gcc.seissense.com/products/bernard-mens-tight-): Training tights that blend sleek design with high-performance features.Made from recycled fibers with FUZE™ technology, the Bernard tight fits close for support without holding you back. Moisture-wicking, quick-dry fabric moves sweat away fast, so you can push through every session without distraction. Can be worn on its own or layered underneath shorts. Recycled fibers — Performance without the environmental cost Side pocket — Sized to fit a phone Four-way stretch — Tested for stretch and recovery Reflective stripes — High visibility in low light Compression fit — Supportive without restricting FUZE™ technology — Antimicrobial protection and odour control Moisture-wicking and quick-dry — Faster drying and cooling PFAS-free — No forever chemicals against your skin UV refraction — Providing protection against UV effects Perfect for: Training, running, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T07:37:36Z
+  Updated: 2026-10-31T10:15:36Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1343,7 +1343,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012607_Bernard_Tights_Cobalt_Blue_02.jpg?v=1781072055
     Price: AED 190.00 AED
 - [Granary Men's Basic Short](https://gcc.seissense.com/products/granary-mens-basic-short-x): The short you wear when you're not thinking about what to wear. The Granary Men's Basic Short is built from recycled fibers, lightweight and breathable, and comes in seven colourways including the Vibrant colours. Nothing complicated about it. Recycled fibers. Performance fabric that doesn't cost the environment. Lightweight and breathable. Stays comfortable through heat and intensity. FUZE™ technology. Antimicrobial and odour control throughout. Moisture-wicking. Stays dry whether you're training or just running errands. Elastic waist with drawcord. Secure and adjustable. PFAS-free. No forever chemicals against your skin. Seven colourways. Includes Fiery Red, Spicy Mustard, Cobalt Blue and more from the Vibrant collection. Perfect for: Training, running, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-26T06:22:32Z
+  Updated: 2026-11-03T06:45:36Z
   Vendor: Seissense
   Product Type: Men
   Availability: Available
@@ -1551,7 +1551,7 @@
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIM012675SenseZebraReflectiveLeggingsCharcoal_02_1200x1800_8fd8e2a2-1dec-4bd7-80ec-bab09cf7876a.webp?v=1781072155
     Price: AED 250.00 AED
 - [Sanzio Kaftan Abstract Ivy Print](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print): A limited-edition kaftan with a print you won't find twice.Made from recycled fibers, the Sanzio brings an abstract, in-house illustrated ivy print to a flowing kaftan silhouette. Relaxed and free-moving, it's built for warm climates, and once it's gone, it won't be back. Limited edition Ivy Deconstructed print — Illustrated in-house, exclusive to Seissense Recycled fibers — Sustainable construction throughout Flowing kaftan silhouette — Relaxed and free-moving One colourway — Not being restocked Perfect for: Beach days, travel, warm climatesMaterials: Recycled fibers
-  Updated: 2026-10-04T09:11:22Z
+  Updated: 2026-11-03T06:19:31Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1559,27 +1559,27 @@
   - [Abstract Ivy Print / XS](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858377957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
   - [Abstract Ivy Print / S](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858410725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
   - [Abstract Ivy Print / M](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858443493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
   - [Abstract Ivy Print / L](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858476261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
   - [Abstract Ivy Print / XL](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858509029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
   - [Abstract Ivy Print / 2XL](https://gcc.seissense.com/products/sanzio-kaftan-ivy-deconstructed-print?variant=49509858541797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012555SANZIOKAFTANIVYDECONSTRUCTED_02_567293d7-103e-4369-b837-038d77f4ee57.jpg?v=1781072209
-    Price: AED 580.00 AED
+    Price: AED 1,439.00 AED
 - [Hockney Striped  Crew Sock](https://gcc.seissense.com/products/hockney-crew-sock-striped): A limited-edition sock people actually notice.Same crew construction and cushioned sole as the core Hockney, with a stripe that stands out. One colourway, while stock lasts. Stripe design — Limited edition, won't be restocked Crew cut with structured cuff — Stays up through a full session Cushioned sole — Underfoot comfort without bulk Unisex — Available in three sizes Perfect for: Training, everyday wearMaterials: Wool blend
   Updated: 2026-10-04T09:11:22Z
   Vendor: Seissense
@@ -1633,7 +1633,7 @@
     Availability: Available
     Price: AED 2,500.00 AED
 - [Lail Compression Bra](https://gcc.seissense.com/products/lail-compression-bra): The bra built to align, not just support.Made from recycled fibers with FUZE™ technology, the Lail Bra sits right at your waist to align perfectly with the Lail legging line, no gap, no roll, no readjusting. The compression fit holds without digging in, through every session. Waistband-aligned design — Built to meet the Lail leggings exactly Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control Compression fit — Holds without digging in PFAS-free — No forever chemicals against your skin Perfect for: Training, running, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:21Z
+  Updated: 2026-11-03T06:19:32Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1641,77 +1641,77 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862801637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862834405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862867173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862899941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862932709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862965477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012501_LAIL-COMPRESSION-BRA_CHARCOAL_2_8931951a-2255-4327-b479-1f38330f27ce.webp?v=1781072565
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XS](https://gcc.seissense.com/products/lail-compression-bra?variant=49509862998245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / S](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863031013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / M](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863063781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / L](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863096549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863129317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XXL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863162085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/145_SEIW012501_LAIL-COMPRESSION-BRA_BURNT-AMBER_2.webp?v=1781072575
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / XS](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863194853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / S](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863227621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / M](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863260389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / L](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863293157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / XL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863325925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
   - [Glacier / XXL](https://gcc.seissense.com/products/lail-compression-bra?variant=49509863358693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/59_SEIW012501_LAIL-COMPRESSION-BRA_GLACIER_3_1_b4e5f976-1c56-4b32-8942-46500087ac74.webp?v=1781072591
-    Price: AED 230.00 AED
+    Price: AED 369.00 AED
 - [Lail Compression Classic Legging](https://gcc.seissense.com/products/lail-compression-classic-legging): The legging that anchors the entire Lail collection.Made from recycled fibers with FUZE™ technology, the Lail Classic is full-length, high-waisted, and built for all-day comfort. It's the piece most people come back to, pairing exactly with the Lail Compression Bra for a complete, no-gap fit. Recycled fibers — Performance fabric with a lower footprint FUZE™ technology — Antimicrobial and odour control High waistband — Pairs exactly with the Lail Bra Moisture-wicking — Keeps you dry through every session PFAS-free — No forever chemicals against your skin Perfect for: Training, running, everyday wearMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:11:32Z
+  Updated: 2026-11-03T06:19:33Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1719,29 +1719,29 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864571109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864603877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864636645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864669413)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864702181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/lail-compression-classic-legging?variant=49509864734949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/61_SEIW012502_LAIL-COMPRESSION-CLASSIC-LEGGING_CHARCOAL_2.webp?v=1781072619
-    Price: AED 220.00 AED
+    Price: AED 389.00 AED
 - [Lail Compression Bra With Mesh](https://gcc.seissense.com/products/lail-compression-bra-with-mesh): The Lail Bra, built to breathe where you need it most.Made from recycled fibers with FUZE™ technology, this version of the Lail adds mesh panels for ventilation exactly where heat builds. Same waistband-aligned design as the original, just cooler for studios and sessions that run hot. Mesh panels — Ventilation in the highest heat zones Waistband-aligned design — Pairs with the Lail legging line Recycled fibers — Sustainable construction throughout FUZE™ technology — Antimicrobial and odour control Compression fit — Supportive without restricting movement Perfect for: Hot studios, high-intensity trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-13T11:51:33Z
+  Updated: 2026-11-03T06:19:33Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1749,29 +1749,29 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864800485)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864833253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864866021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864898789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864931557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/lail-compression-bra-with-mesh?variant=49509864964325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/60_SEIW012503_LAIL-COMPRESSION-BRA_MESH_CHARCOAL_8.webp?v=1781072637
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
 - [Lail Compression Legging With Mesh](https://gcc.seissense.com/products/lail-compression-legging-with-mesh): The Lail Legging, built to breathe where it matters most.Made from recycled fibers with FUZE™ technology, this version of the Lail Classic adds mesh panels for ventilation in the zones that need it most. Same high waist, same construction, built for hot climates and heated studios. Mesh panels — Ventilation where heat concentrates Recycled fibers — Sustainable performance throughout FUZE™ technology — Antimicrobial and odour control High waistband — Aligns with the Lail Compression Bra Moisture-wicking — Keeps you dry inside or out Perfect for: Hot studios, high-intensity trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-13T11:51:34Z
+  Updated: 2026-11-03T06:19:33Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1779,29 +1779,29 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509870895333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509870928101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509870960869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509870993637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509871026405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/lail-compression-legging-with-mesh?variant=49509871059173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/147_SEIW012504_LAIL-COMPRESSION-LEGGINGS-WITH-MESH_CHARCOAL_2.webp?v=1781072654
-    Price: AED 230.00 AED
+    Price: AED 419.00 AED
 - [Signae Cropped Cut Out Performance Tee](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee): A cropped tee built to be worn, not just trained in.Made from recycled fibers with FUZE™ technology, the Signae pairs cut-out design details with genuine performance fabric. Moisture-wicking through intense sessions, it's fashion-forward without giving up an inch of function. Cut-out design details — A look that stands out in the gym Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control Moisture-wicking — Manages sweat through intense sessions PFAS-free — No forever chemicals against your skin Perfect for: Gym training, high-intensity workoutsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:37Z
+  Updated: 2026-11-03T06:19:34Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1809,29 +1809,29 @@
   - [Charcoal / Granite / XS](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871223013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
   - [Charcoal / Granite / S](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871255781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
   - [Charcoal / Granite / M](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871288549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
   - [Charcoal / Granite / L](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871321317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
   - [Charcoal / Granite / XL](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871354085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
   - [Charcoal / Granite / XXL](https://gcc.seissense.com/products/signae-cropped-cut-out-performance-tee?variant=49509871386853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/62_SEIW012505_SIGNAE-CROPPED-CUT-OUT-PERFORMANCE-TEE_CHARCOAL-GRANITE_7_307241a6-ace0-46e3-9555-e9189096e86f.webp?v=1781072711
-    Price: AED 220.00 AED
+    Price: AED 409.00 AED
 - [Signae Colour Blocked Cropped Legging](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging): A cropped legging built to stand out and hold up.Made from recycled fibers with FUZE™ technology, the Signae's abstract Charcoal and Granite panels give it a bold look built to perform from HIIT to yoga. Cropped length sits just below the knee for a capri silhouette. Abstract colour-blocked panels — In-house design in Charcoal and Granite Recycled fibers — Sustainable performance throughout FUZE™ technology — Antimicrobial and odour control Cropped length — Capri silhouette below the knee PFAS-free — No forever chemicals against your skin Perfect for: HIIT, yoga, studio trainingMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:27Z
+  Updated: 2026-11-03T06:19:34Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1839,29 +1839,29 @@
   - [Charcoal / Granite / XS](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872206053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / Granite / S](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872238821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / Granite / M](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872271589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / Granite / L](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872304357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / Granite / XL](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872337125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / Granite / XXL](https://gcc.seissense.com/products/signae-colour-blocked-cropped-legging?variant=49509872369893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/63_SEIW012506_SIGNAE-COLOUR-BLOCKED-CROPPED-LEGGING_CHARCOAL-GRANITE_3.webp?v=1781072726
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
 - [Emile Short Sleeve Pima Hoodie](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie): A hoodie built for warmth without the extra coverage.Made from Supima cotton and Modal with FUZE™ technology, the Emile Short Sleeve gives you the softness and hood of the long sleeve version, cropped for warmer climates. The relaxed fit makes it easy to wear all day. Supima cotton and Modal — Noticeably softer than standard cotton blends FUZE™ technology — Antimicrobial and odour control Short sleeve with hood — Warmth where you need it Relaxed fit — Easy to wear all day PFAS-free — No forever chemicals against your skin Perfect for: Studio sessions, warm climates, everyday wearMaterials: Supima cotton and Modal blend
-  Updated: 2026-10-25T22:05:33Z
+  Updated: 2026-11-03T06:19:34Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1869,29 +1869,29 @@
   - [Granite / XS](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872632037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
   - [Granite / S](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872664805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
   - [Granite / M](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872697573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
   - [Granite / L](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872730341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872763109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/emile-short-sleeve-pima-hoodie?variant=49509872795877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/64_SEIW012507_EMILE-SHORT-SLEEVE-PIMA-HOODIE_GRANITE_7.webp?v=1781072756
-    Price: AED 420.00 AED
+    Price: AED 719.00 AED
 - [Emile Long Sleeve Pima Hoodie](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie): A hoodie that feels genuinely good, not just functional.Made from a rare blend of Supima cotton and Modal with FUZE™ technology, the Emile Long Sleeve is built for recovery days and early mornings. The relaxed fit is generous through the body and tapered at the cuff for full coverage without weight. Supima cotton and Modal — Ultra-soft blend that improves with wash FUZE™ technology — Antimicrobial and odour control Long sleeve with hood — Full coverage without extra weight Relaxed fit — Generous body, tapered cuff Perfect for: Recovery days, early mornings, layeringMaterials: Supima cotton and Modal blend
-  Updated: 2026-10-15T09:45:48Z
+  Updated: 2026-11-03T06:19:34Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1899,29 +1899,29 @@
   - [Granite / XS](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873025253)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
   - [Granite / S](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873058021)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
   - [Granite / M](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873090789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
   - [Granite / L](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873123557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873156325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/emile-long-sleeve-pima-hoodie?variant=49509873189093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/SEIW012508_EMILE_LONG_SLEEVE_PIMA_HOODIE_GRANITE_2.webp?v=1781072794
-    Price: AED 430.00 AED
+    Price: AED 749.00 AED
 - [Collagen Performance Tee](https://gcc.seissense.com/products/collagen-performance-tee): A performance tee with a story unlike anything else in activewear.Woven with collagen yarn sourced from the ocean floor, the Collagen Tee gets softer with every wash and actively supports skin while you wear it. FUZE™ technology and recycled fibers round out a fabric with a genuine point of difference. Collagen-infused yarn — Sourced from the ocean floor, softens with washing FUZE™ technology — Antimicrobial and odour control Recycled fibers — Performance with a lower footprint Moisture-wicking — Manages sweat through the session PFAS-free — No forever chemicals against your skin Perfect for: Training, everyday wearMaterials: Collagen-infused yarn with recycled fibers
-  Updated: 2026-10-25T22:05:32Z
+  Updated: 2026-11-03T06:19:35Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -1929,125 +1929,125 @@
   - [Sand / XS](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873320165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Sand / S](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873352933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Sand / M](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873385701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Sand / L](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873418469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Sand / XL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873451237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Sand / XXL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873484005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/123_SEIW012509_COLLAGEN-PERFORMANCE-TEE_SAND_7_bb72f192-eda2-4fe2-bb4f-537ef8c5b375.webp?v=1781072849
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / XS](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873516773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / S](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873549541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / M](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873582309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / L](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873615077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / XL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873647845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Willow / XXL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873680613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/121_SEIW012509_COLLAGEN-PERFORMANCE-TEE_WILLOW_2_c71dc5f9-8c80-401e-ad3b-06a46d30652e.jpg?v=1781072867
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / XS](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873713381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873746149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873778917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873811685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873844453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873877221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/122_SEIW012509_COLLAGEN-PERFORMANCE-TEE_CHARCOAL_2B_b175053a-d0ab-4967-bbcd-92a5751c641f.jpg?v=1781072887
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / XS](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873909989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / S](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873942757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / M](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509873975525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / L](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874008293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / XL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874041061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Driftwood / XXL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874073829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/124_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_DRIFTWOOD_1.jpg?v=1781072902
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / XS](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874106597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / S](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874139365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / M](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874172133)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / L](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874204901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / XL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874237669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
   - [Burnt Amber / XXL](https://gcc.seissense.com/products/collagen-performance-tee?variant=49509874270437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/65_SEIW012509_COLLAGEN-PERFORMANCE-TEE-x-4_BURNT-AMBER_2_5455fe79-31ce-45fe-9fa9-b5fb644598b2.jpg?v=1781072915
-    Price: AED 300.00 AED
+    Price: AED 429.00 AED
 - [Bayuda Crossover WB Legging](https://gcc.seissense.com/products/bayuda-crossover-wb-legging): A high-waist legging built to stay exactly in place.Made from recycled fibers with FUZE™ technology, the Bayuda's crossover waistband holds through every squat, lunge and downward dog without a readjust. Moisture-wicking and quick-dry fabric keeps you comfortable start to finish. Crossover waistband — High coverage that holds its position Recycled fibers — Performance fabric with a lower footprint FUZE™ technology — Antimicrobial and odour control Moisture-wicking and quick-dry — Comfortable warm-up to cool-down PFAS-free — No forever chemicals against your skin Perfect for: Training, yoga, high-intensity sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:37Z
+  Updated: 2026-11-03T06:19:35Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2055,53 +2055,53 @@
   - [Glacier / XS](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879447781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Glacier / S](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879480549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Glacier / M](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879513317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Glacier / L](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879546085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Glacier / XL](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879578853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Glacier / XXL](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879611621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/149_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_GLACIER_2_1_2f5b1e7b-c504-4fa7-9157-26e6c629a950.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / XS](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879251173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / S](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879283941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / M](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879316709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / L](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879349477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / XL](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879382245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
   - [Burnt Amber / XXL](https://gcc.seissense.com/products/bayuda-crossover-wb-legging?variant=49509879415013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/66_SEIW012510_BAYUDA-CROSSOVER-WB-LEGGING_BURNT-AMBER_2_218fd7c3-d672-4d39-b11b-fb90aed842a3.jpg?v=1781072946
-    Price: AED 230.00 AED
+    Price: AED 409.00 AED
 - [Gustave Long Sleeve Tee](https://gcc.seissense.com/products/gustave-long-sleeve-tee): A long sleeve built to layer without the bulk.Made from a recycled polyester and organic cotton blend, the Gustave Long Sleeve sits light against the skin with just enough structure to wear alone. FUZE™ technology keeps it fresh through training and the rest of the day. Recycled polyester and organic cotton — Two sustainable materials, one lightweight layer FUZE™ technology — Antimicrobial and odour control Long sleeve — Covers without overheating Relaxed fit — Not too slim, not too loose PFAS-free — No forever chemicals against your skin Perfect for: Training, layering, everyday wearMaterials: Recycled polyester and organic cotton blend
-  Updated: 2026-10-25T22:05:32Z
+  Updated: 2026-11-03T06:19:36Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2109,149 +2109,149 @@
   - [Sand / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879742693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Sand / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879775461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Sand / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879808229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Sand / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879840997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Sand / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879873765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Sand / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879906533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/67_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_SAND_1.jpg?v=1781073008
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879939301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509879972069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880004837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880037605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880070373)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880103141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/68_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GRANITE_1.jpg?v=1781073019
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880135909)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880168677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880201445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880234213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880266981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Willow / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880299749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/71_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_WILLOW_1.jpg?v=1781073033
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880332517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880365285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880398053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880430821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880463589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880496357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/69_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_CHARCOAL_1.jpg?v=1781073046
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880529125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880561893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880594661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880627429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880660197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Driftwood / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880692965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/70_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_DRIFTWOOD_1.jpg?v=1781073057
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / XS](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880725733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / S](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880758501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / M](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880791269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / L](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880824037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / XL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880856805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
   - [Glacier / XXL](https://gcc.seissense.com/products/gustave-long-sleeve-tee?variant=49509880889573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/72_SEIW012511_GUSTAVE-LONG-SLEEVE-TEE_GLACIER_1.jpg?v=1781073069
-    Price: AED 250.00 AED
+    Price: AED 439.00 AED
 - [Moreau Colour Block Legging](https://gcc.seissense.com/products/moreau-color-block-legging): A legging that makes its statement in panels, not colour.Made from recycled fibers with FUZE™ technology, the Moreau uses abstract colour-blocking across the leg for a design that stands apart from a standard training legging. The high waistband stays put through every movement. Abstract colour-blocked panels — A design that earns a second look Recycled fibers — Sustainable construction that performs FUZE™ technology — Antimicrobial and odour control High waistband — Stays in place through every movement PFAS-free — No forever chemicals against your skin Perfect for: Gym training, studio sessionsMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:42Z
+  Updated: 2026-11-03T06:20:10Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2259,29 +2259,29 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882757349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882790117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882822885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882855653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882888421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/moreau-color-block-legging?variant=49509882921189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/73_SEIW012512_MOREAU-COLOR-BLOCK-LEGGING_CHARCOAL-GRANITE_1.jpg?v=1781073105
-    Price: AED 280.00 AED
+    Price: AED 389.00 AED
 - [Matisse Compression Top With Rib](https://gcc.seissense.com/products/matisse-compression-top-with-rib): A compression top designed to sit exactly where it should.Made from recycled fibers with FUZE™ technology, the Matisse aligns precisely with the Henri Compression Legging waistband, so there's no gap and nothing to readjust mid-session. Ribbed texture adds visual structure while keeping full stretch. Waistband-aligned design — Pairs precisely with the Henri Compression Legging line Ribbed texture — Visual structure, full stretch retained Recycled fibers — Sustainable construction throughout FUZE™ technology — Antimicrobial and odour control PFAS-free — No forever chemicals against your skin Perfect for: Training, studio sessions, layeringMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:41Z
+  Updated: 2026-11-03T06:20:11Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2289,101 +2289,101 @@
   - [Granite / XS](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883019493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / S](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883052261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / M](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883085029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / L](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883117797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883150565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883183333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/75_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_GRANITE_1.jpg?v=1781073155
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XS](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883216101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / S](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883248869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / M](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883281637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / L](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883314405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883347173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XXL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883379941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/74_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_WILLOW_6_73404417-d8a3-4af1-b681-2c904d0a049f.jpg?v=1781073170
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XS](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883412709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883445477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883478245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883511013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883543781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883576549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/77_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_CHARCOAL_2.jpg?v=1781073183
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XS](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883609317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / S](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883642085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / M](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883674853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / L](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883707621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883740389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XXL](https://gcc.seissense.com/products/matisse-compression-top-with-rib?variant=49509883773157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/76_SEIW012513_MATISSE-COMPRESSION-TOP-WITH-RIB_BURNT-AMBER_2.jpg?v=1781073194
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
 - [Henri Compression Capri With Rib](https://gcc.seissense.com/products/henri-compression-capri-with-rib): A capri legging with texture that adds structure, not weight.Made from recycled fibers with FUZE™ technology, the Henri Capri's ribbed texture adds visual dimension while keeping full stretch. It pairs with the Henri Compression Bra for training that runs long, or days that do. Ribbed texture — Structure without restricting stretch Recycled fibers — Sustainable performance fabric FUZE™ technology — Antimicrobial and odour control Compression fit — Supportive without being restrictive PFAS-free — No forever chemicals against your skin Perfect for: Training, studio sessions, long daysMaterials: Recycled fibers with FUZE™ 
-  Updated: 2026-10-25T22:05:32Z
+  Updated: 2026-11-03T06:20:11Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2391,101 +2391,101 @@
   - [Charcoal / XS](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888458981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888491749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888524517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888557285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888590053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888622821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/81_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_CHARCOAL_2.jpg?v=1781073254
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / XS](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888655589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / S](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888688357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / M](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888721125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / L](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888753893)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888786661)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888819429)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/79_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_GRANITE_2.jpg?v=1781073267
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XS](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888852197)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / S](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888884965)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / M](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888917733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / L](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888950501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509888983269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Willow / XXL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889016037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/78_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_WILLOW_4.jpg?v=1781073280
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XS](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889048805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / S](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889081573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / M](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889114341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / L](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889147109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889179877)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
   - [Burnt Amber / XXL](https://gcc.seissense.com/products/henri-compression-capri-with-rib?variant=49509889212645)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/80_SEIW012514_HENRI-COMPRESSION-CAPRI-WITH-RIB_BURNT-AMBER_3_bc5e7224-e728-402c-b579-cb8ecdd40b40.jpg?v=1781073292
-    Price: AED 200.00 AED
+    Price: AED 369.00 AED
 - [Gerard Basic Tee](https://gcc.seissense.com/products/gerard-basic-tee): A basic tee that's actually worth buying.Made from 100% organic cotton with FUZE™ technology, the Gerard handles odour and moisture the way a standard cotton tee simply can't. The relaxed fit works with everything, in eight colourways. 100% organic cotton — Grown without synthetic pesticides or fertilisers FUZE™ technology — Antimicrobial and odour control Moisture-wicking — Keeps you dry through training and beyond Relaxed fit — Neither boxy nor tight Eight colourways — Willow, Sand, Glacier and more Perfect for: Training, everyday wear, layeringMaterials: 100% organic cotton
-  Updated: 2026-10-25T22:05:41Z
+  Updated: 2026-11-03T06:20:11Z
   Vendor: Seissense
   Product Type: Women
   Availability: Available
@@ -2493,195 +2493,195 @@
   - [Willow / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890588901)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Willow / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890621669)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Willow / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890654437)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Willow / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890687205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Willow / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890719973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Willow / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890752741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/157_SEIW012517_GERARD-BASIC-TEE_WILLOW_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890785509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890818277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890851045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890883813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890916581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Sand / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890949349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/152_SEIW012517_GERARD-BASIC-TEE_SAND_2.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509890982117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891014885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891047653)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891080421)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891113189)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Granite / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891145957)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/150_SEIW012517_GERARD-BASIC-TEE_GRANITE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891178725)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891211493)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891244261)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891277029)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891309797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Glacier / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891342565)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/153_SEIW012517_GERARD-BASIC-TEE_GLACIER_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891375333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891408101)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891440869)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891473637)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891506405)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Driftwood / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891539173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/154_SEIW012517_GERARD-BASIC-TEE_DRIFTWOOD_1.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891571941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891604709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891637477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891670245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891703013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Detox Green / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891735781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/156_SEIW012517_GERARD-BASIC-TEE_DEXTOX-GREEN_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891768549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891801317)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891834085)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891866853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891899621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Charcoal / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891932389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/151_SEIW012517_GERARD-BASIC-TEE_CHARCOAL_2B.jpg?v=1781073381
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / XS](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891965157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / S](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509891997925)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / M](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509892030693)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / L](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509892063461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / XL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509892096229)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
   - [Carotene / XXL](https://gcc.seissense.com/products/gerard-basic-tee?variant=49509892128997)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0788/4469/0661/files/155_SEIW012517_GERARD-BASIC-TEE_CAROTENE_2.jpg?v=1781073382
-    Price: AED 200.00 AED
+    Price: AED 359.00 AED
 [List Continued](https://gcc.seissense.com/a/llms-agent/llms.txt?shop=seissense-gcc.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NjQyNDIzMzUzNTczLCJsYXN0X3ZhbHVlIjoiOTY0MjQyMzM1MzU3MyJ9)
 
 ## Collections
@@ -2690,7 +2690,7 @@
   Updated: 2026-10-07T03:57:58Z
   Total Products: 0
 - [Summer Collection](https://gcc.seissense.com/collections/summer-collection): The Seissense summer collection: lightweight, breathable pieces for the Gulf. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 46
 - [Organic cotton-blend | Women](https://gcc.seissense.com/collections/organic-cotton-blend-women): Women's activewear and basics in soft organic cotton-blend fabrics. Shop Seissense online with fast delivery across the GCC.
   Updated: 2026-10-07T03:57:58Z
@@ -2702,19 +2702,19 @@
   Updated: 2026-10-07T03:57:58Z
   Total Products: 0
 - [Recycled fibers | Women](https://gcc.seissense.com/collections/recycled-fibers-women): Women's activewear made from recycled fibres, built to perform and last. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-07T03:57:58Z
+  Updated: 2026-11-03T06:21:41Z
   Total Products: 10
 - [Organic cotton-blend | Men](https://gcc.seissense.com/collections/organic-cotton-blend-men): Men's activewear and everyday basics in soft organic cotton-blend fabrics. Shop Seissense online with fast delivery across the GCC.
   Updated: 2026-10-07T03:57:58Z
   Total Products: 0
 - [Natural fibers | Men](https://gcc.seissense.com/collections/natural-fibers-men): Men's activewear made with natural fibres for a soft, breathable feel. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-07T03:57:58Z
+  Updated: 2026-11-03T06:19:03Z
   Total Products: 1
 - [Recycled fibers | Men](https://gcc.seissense.com/collections/recycled-fibers-men): Men's activewear made from recycled fibres, built to perform and last. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-07T03:57:58Z
+  Updated: 2026-11-03T06:19:02Z
   Total Products: 1
 - [PFAS-free | Women](https://gcc.seissense.com/collections/pfas-free-women): Women's activewear made without PFAS forever chemicals. Performance you can feel good about. Fast delivery across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T06:20:42Z
   Total Products: 2
 - [PFAS-free | Men](https://gcc.seissense.com/collections/pfas-free-men): Men's activewear made without PFAS forever chemicals. Performance you can feel good about. Fast delivery across the GCC.
   Updated: 2026-10-07T03:57:58Z
@@ -2726,200 +2726,203 @@
   Updated: 2026-10-07T03:57:59Z
   Total Products: 0
 - [FUZE™ Treated](https://gcc.seissense.com/collections/fuze™-treated-women): Seissense activewear treated with FUZE technology, built to perform. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 47
 - [Shop The Look](https://gcc.seissense.com/collections/shop-the-look): Complete Seissense outfits styled for training, running and everyday wear. Shop the look with fast delivery across the GCC.
   Updated: 2026-10-07T03:57:59Z
   Total Products: 8
 - [New In](https://gcc.seissense.com/collections/new-in): Shop the latest Seissense drop: fresh activewear in core colours, built to move. Fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 81
 - [All Women](https://gcc.seissense.com/collections/all-women): Shop women's activewear: leggings, sports bras, shorts, hoodies and more. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 106
 - [Women's Leggings](https://gcc.seissense.com/collections/womens-leggings): Women's gym leggings, joggers and bottoms for training, running and yoga. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-24T11:23:47Z
+  Updated: 2026-11-03T06:21:11Z
   Total Products: 15
 - [Women's Sports Bras](https://gcc.seissense.com/collections/womens-sports-bras): Sports bras for training, running and yoga. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T06:40:22Z
   Total Products: 9
 - [Women's Tanks](https://gcc.seissense.com/collections/womens-tanks): Women's tank tops for training, yoga and hot days. Light, breathable and easy to layer. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T06:21:11Z
   Total Products: 8
 - [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts): Women's gym and running shorts in breathable stretch fabric, from bike shorts to relaxed fits. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T06:21:41Z
   Total Products: 8
 - [Women's Joggers & Pants](https://gcc.seissense.com/collections/womens-joggers-pants): Women's joggers and relaxed pants for lounging, travel and every day. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 4
 - [Dresses & Kaftans](https://gcc.seissense.com/collections/dresses-kaftans): Kaftans and maxi dresses for everyday wear and warm weather. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 12
 - [Women's Hoodies & Sweaters](https://gcc.seissense.com/collections/womens-hoodies-sweaters): Women's hoodies, sweaters and half zips for cooler evenings and layering. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T06:22:01Z
   Total Products: 6
 - [Women's Jackets & Vests](https://gcc.seissense.com/collections/womens-jackets-vests): Women's bomber jackets, vests and performance jackets for layering. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T06:21:14Z
   Total Products: 7
 - [Women's Swimwear](https://gcc.seissense.com/collections/womens-swimwear): Women's swimwear for the beach, the pool and time on the water. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 11
 - [All Men](https://gcc.seissense.com/collections/all-men): Shop men's activewear: shorts, tees, tights, hoodies and jackets. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 45
 - [Kids](https://gcc.seissense.com/collections/kids): Kids' activewear: tees, shorts, joggers and a UV hoodie. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-12T17:58:47Z
+  Updated: 2026-11-03T06:19:02Z
   Total Products: 7
 - [All Accessories](https://gcc.seissense.com/collections/all-accessories): Gym socks, beanies, scarves, towels and yoga mats. The finishing touches. Shop Seissense with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:17:20Z
   Total Products: 20
 - [Women's Gym & Training](https://gcc.seissense.com/collections/womens-gym-training): Women's gym and training clothes: leggings, sports bras, shorts and tops. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T06:40:22Z
   Total Products: 33
 - [Women's Yoga & Pilates](https://gcc.seissense.com/collections/womens-yoga-pilates): Women's yoga and pilates clothes: leggings, sports bras and tops for studio sessions. Free shipping across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:40:22Z
   Total Products: 32
 - [Women's Running](https://gcc.seissense.com/collections/womens-running): Women's running clothes: leggings, shorts, tops and jackets, including reflective styles. Free shipping across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:40:22Z
   Total Products: 36
 - [Women's Lounge](https://gcc.seissense.com/collections/womens-lounge): Women's loungewear for rest days, travel and time at home. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 28
 - [Men's Gym & Training](https://gcc.seissense.com/collections/mens-gym-training): Men's gym and training clothes: shorts, tees, tights and layers. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-25T11:28:34Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 14
 - [Men's Running](https://gcc.seissense.com/collections/mens-running): Men's running clothes: shorts, tights, tops and jackets, including reflective styles. Free shipping across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 21
 - [Men's Yoga](https://gcc.seissense.com/collections/mens-yoga): Men's yoga and stretch wear in flexible, breathable fabric. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:18:18Z
   Total Products: 16
 - [All Products](https://gcc.seissense.com/collections/all-products): Shop Seissense activewear for men, women and kids. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 187
 - [Men's Tights & Bottoms](https://gcc.seissense.com/collections/mens-bottoms): Performance shorts, joggers and tights built for the gym, the track and everything in between.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:18:40Z
   Total Products: 10
 - [Men's Hoodies & Half Zips](https://gcc.seissense.com/collections/mens-hoodies-half-zips-1): Men's hoodies and half-zip tops for warm-ups and relaxed days. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 4
 - [Men's Jackets](https://gcc.seissense.com/collections/mens-jackets): Men's performance jackets and windbreakers built for Gulf conditions. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-09T11:25:35Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 3
 - [Men's Swim](https://gcc.seissense.com/collections/mens-swim): Men's swim shorts for the beach, the pool and time on the water. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-12T17:57:23Z
+  Updated: 2026-11-03T06:35:22Z
   Total Products: 2
 - [Caps & Beanies](https://gcc.seissense.com/collections/caps-beanies): Sports caps and beanies for training, running and everyday wear. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-24T11:23:47Z
+  Updated: 2026-11-03T06:17:07Z
   Total Products: 5
 - [Socks](https://gcc.seissense.com/collections/socks): Gym and sports socks for training, running and everyday wear. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T06:17:20Z
   Total Products: 8
 - [Bags & Towels](https://gcc.seissense.com/collections/bags-towels): Gym bags and towels for training, travel and the pool. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-17T11:29:32Z
+  Updated: 2026-11-03T06:17:08Z
   Total Products: 4
 - [Best Seller](https://gcc.seissense.com/collections/best-seller): Seissense's best- activewear, picked by our customers. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 4
 - [The Dress Edit](https://gcc.seissense.com/collections/the-dress-edit): The Dress Edit: our most-loved kaftans and maxi dresses in sustainable fabrics. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 5
 - [Women's Jacket & Hoodies](https://gcc.seissense.com/collections/womens-outerwear): Women's hoodies and jackets for training, warm-ups and cooler days. Free shipping across the GCC.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 11
 - [Men's Jacket & Hoodies](https://gcc.seissense.com/collections/mens-outerwear): Men's hoodies and training jackets for warm-ups, travel and cooler days. Free shipping across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 10
 - [Men's Swim & Lounge](https://gcc.seissense.com/collections/mens-swim-lounge): Men's swim shorts and lounge essentials for rest and recovery. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-07T03:58:31Z
+  Updated: 2026-11-03T06:35:22Z
   Total Products: 5
 - [Best Sellers](https://gcc.seissense.com/collections/best-sellers): The Seissense best sellers: most-loved pieces, tried and trusted by customers. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 13
 - [Swim & Beach](https://gcc.seissense.com/collections/swim-beach): Swimwear, rashguards and beach essentials for the Gulf summer. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 15
 - [The Lounge](https://gcc.seissense.com/collections/the-lounge): The Lounge: tracksuits, dresses and hoodies for slow days done right. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 22
 - [Run Collection](https://gcc.seissense.com/collections/run-collection): Running clothes for men and women: performance tees, leggings, shorts and windbreakers. Shop Seissense with fast delivery across the GCC.
-  Updated: 2026-10-25T11:28:34Z
+  Updated: 2026-11-03T06:20:44Z
   Total Products: 15
 - [Men's Tees & Tanks](https://gcc.seissense.com/collections/mens-tees-tanks): Men's gym tees, compression tops and tank tops for training. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-23T11:26:26Z
+  Updated: 2026-11-03T06:18:39Z
   Total Products: 11
 - [Women's Tees & Tanks](https://gcc.seissense.com/collections/womens-tees-tanks): Women's gym and training tees and tank tops. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-24T11:23:47Z
+  Updated: 2026-11-03T06:40:21Z
   Total Products: 13
 - [Men's Lounge](https://gcc.seissense.com/collections/mens-lounge-1): Men's loungewear for rest days, travel and time at home. Free shipping across the GCC, duties and taxes included.
-  Updated: 2026-10-12T17:57:23Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 2
 - [Women's Leggings & Bottoms](https://gcc.seissense.com/collections/womens-bottoms)
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 26
 - [Bundle & Sets](https://gcc.seissense.com/collections/bundles-sets): Activewear bundles and complete sets for training, travel and every day. Shop Seissense with fast delivery across the GCC.
   Updated: 2026-10-07T03:58:47Z
   Total Products: 0
 - [Women Summer Collection](https://gcc.seissense.com/collections/women-summer-collection): Women's summer collection: light, breathable styles for the Gulf summer. Shop Seissense online with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 15
 - [Women New In](https://gcc.seissense.com/collections/women-new-in): The latest women's activewear and loungewear from Seissense. Shop new arrivals online with fast delivery across the GCC.
-  Updated: 2026-10-24T11:23:47Z
+  Updated: 2026-11-01T12:17:41Z
   Total Products: 29
 - [New Arrivals](https://gcc.seissense.com/collections/active-essesntials): Shop the newest Seissense arrivals: active essentials for men and women. Fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-01T12:17:41Z
   Total Products: 25
 - [Women New Arrivals](https://gcc.seissense.com/collections/women-new-arrivals): The newest women's activewear arrivals from Seissense. Shop online with fast delivery across the GCC.
-  Updated: 2026-10-24T11:23:47Z
+  Updated: 2026-11-01T12:17:41Z
   Total Products: 13
 - [Men New Arrivals](https://gcc.seissense.com/collections/men-new-arrivals): The newest men's activewear arrivals from Seissense. Shop online with fast delivery across the GCC.
   Updated: 2026-10-26T11:26:59Z
   Total Products: 9
 - [Buy 2 Get 1 – Men](https://gcc.seissense.com/collections/buy-2-get-1-men): Add any 3 men's pieces and the lowest-priced one is free at checkout. Shop Seissense men's essentials with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 33
 - [Buy 2 Get 1 – Women](https://gcc.seissense.com/collections/buy-2-get-1-women): Add any 3 women's pieces and the lowest-priced one is free at checkout. Shop Seissense with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 69
 - [Buy 2 Get 1 – All](https://gcc.seissense.com/collections/buy-2-get-1-all): Add any 3 pieces and the lowest-priced one is free at checkout. Shop the Seissense offer before it ends.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 88
 - [Best  Products](https://gcc.seissense.com/collections/best--products): Best- Seissense products across activewear, loungewear, swim and accessories. Fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 187
 - [Newest Products](https://gcc.seissense.com/collections/newest-products): The newest Seissense products across activewear, loungewear, swim and accessories. Fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 187
 - [Mega Menu - Featured Products](https://gcc.seissense.com/collections/mega-menu-featured-products): Featured Seissense pieces picked for performance and style. Shop online with fast delivery across the GCC.
   Updated: 2026-10-07T03:58:47Z
   Total Products: 1
 - [Vacation With No More Forever Chemicals](https://gcc.seissense.com/collections/vacation-with-no-more-forever-chemicals): Chlorine-resistant, non-toxic swimwear for men and women. From the sea to the pool. Shop Seissense with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 12
 - [Women's Shorts](https://gcc.seissense.com/collections/womens-shorts-1): Women's running, gym and bike shorts. Free shipping across the GCC with duties and taxes included.
-  Updated: 2026-10-22T11:27:25Z
+  Updated: 2026-11-03T06:21:14Z
   Total Products: 5
 - [Men's Shorts](https://gcc.seissense.com/collections/mens-shorts): Men's gym, running and training shorts. Free shipping across Bahrain, Saudi Arabia, UAE, Kuwait, Qatar and Oman.
-  Updated: 2026-10-25T11:28:34Z
+  Updated: 2026-11-03T06:35:22Z
   Total Products: 8
 - [Sand](https://gcc.seissense.com/collections/sand): Shop Seissense pieces in Sand, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 41
 - [Granite](https://gcc.seissense.com/collections/granite): Shop Seissense pieces in Granite, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 50
 - [Willow](https://gcc.seissense.com/collections/willow): Shop Seissense pieces in Willow, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 39
 - [Driftwood](https://gcc.seissense.com/collections/driftwood): Shop Seissense pieces in Driftwood, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-26T11:26:59Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 43
 - [Glacier](https://gcc.seissense.com/collections/glacier): Shop Seissense pieces in Glacier, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 41
 - [Charcoal](https://gcc.seissense.com/collections/charcoal): Shop Seissense pieces in Charcoal, one of our six core colours. Activewear and basics with fast delivery across the GCC.
-  Updated: 2026-10-27T11:29:39Z
+  Updated: 2026-11-03T12:17:27Z
   Total Products: 96
+- [Eden Prints](https://gcc.seissense.com/collections/eden-print-limited-edition)
+  Updated: 2026-11-03T12:17:27Z
+  Total Products: 4
 
 ## Blogs
 
