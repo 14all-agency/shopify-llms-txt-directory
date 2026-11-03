@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-03-14T01:25:46Z
 - Contact Email: connor8387@gmail.com
-- Updated At: 2026-10-27T00:57:39.466Z
+- Updated At: 2026-11-03T01:26:45.353Z
 
 ## Products
 
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-7638103195696-27585897857072-square.jpg?v=1791379379
   Price: $20.00 AUD
 - [AMP CNC 3-Pin Throttle | 5 Colours | AMP Racing](https://ampracing.shop/products/amp-cnc-surron-throttle-plug-play): Choose from five colours and Male or Female 3-pin connector options. Check your bike and connector details or ask AMP Racing for fitment help.
-  Updated: 2026-10-18T03:28:22Z
+  Updated: 2026-10-28T03:03:02Z
   Vendor: AMP Racing
   Product Type: E-Bike Controls
   Availability: Available
@@ -68,21 +68,21 @@
     Availability: Available
     Price: $80.00 AUD
 - [Sur-Ron Throttle + Key Ignition Kit | AMP Racing](https://ampracing.shop/products/amp-surron-throttle-key-ignition-kit): Combined throttle and key ignition kit for compatible Sur-Ron builds. Check connector and wiring fitment before ordering.
-  Updated: 2026-10-18T03:28:21Z
+  Updated: 2026-10-28T09:41:47Z
   Vendor: AMP Racing
   Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/9BF7F276-F295-42BA-B540-4BB363196D20.png?v=1791414076
   Price: $90.00 AUD
 - [Sur-Ron Key Ignition | AMP Racing](https://ampracing.shop/products/amp-surron-key-ignition): AMP Racing key ignition for compatible Sur-Ron builds, adding physical key control to the bike. Confirm connector and wiring fitment first.
-  Updated: 2026-10-18T03:28:20Z
+  Updated: 2026-10-28T09:41:50Z
   Vendor: AMP Racing
   Product Type: E-Bike Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-7668424474672-square.jpg?v=1791414516
   Price: $29.00 AUD
 - [E-Bike Cable-Hiding Front Plate | AMP Racing](https://ampracing.shop/products/front-plate): AMP Racing front plate for a cleaner e-bike cockpit and cable-routing setup. Confirm mounting space and compatibility before ordering.
-  Updated: 2026-10-18T03:28:17Z
+  Updated: 2026-10-28T11:19:57Z
   Vendor: AMP Racing
   Product Type: E-Bike Accessories
   Availability: Available
@@ -96,7 +96,7 @@
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-7682057142320-square.png?v=1791414205
   Price: $20.00 AUD
 - [E-Bike Cable Management Sleeve | AMP Racing](https://ampracing.shop/products/cable-management): Clean up exposed cockpit wiring with an AMP Racing e-bike cable management sleeve designed to organise and protect visible cable runs.
-  Updated: 2026-10-18T03:28:21Z
+  Updated: 2026-10-28T11:34:31Z
   Vendor: AMP Racing
   Product Type: E-Bike Accessories
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: $25.00 AUD
 - [Battery-Powered Baja Light Kit | AMP Racing](https://ampracing.shop/products/factory-grade-aa-battery-powered-baja-light): Dual battery-powered Baja light kit for e-bike builds without hard-wiring. Currently on backorder; check dispatch timing if needed.
-  Updated: 2026-10-18T03:28:17Z
+  Updated: 2026-10-28T09:41:41Z
   Vendor: AMP Racing
   Product Type: E-Bike Lighting
   Availability: Available
@@ -137,21 +137,31 @@
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-7845524340784-square.png?v=1791414191
   Price: $100.00 AUD
 - [AA Battery-Powered Baja Light V2 | AMP Racing](https://ampracing.shop/products/amp-upgraded-v2-aa-battery-baja-light): Battery-powered Baja-style e-bike light upgrade that avoids hard-wiring into the bike. Confirm mounting space and battery requirements.
-  Updated: 2026-10-18T03:28:17Z
+  Updated: 2026-11-03T01:03:16Z
   Vendor: AMP Racing
   Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/C8FECD18-D4A1-4EE7-B691-17B6085F7B3B_52871631-8f81-46e2-a6db-21dcbace4f49.jpg?v=1791414085
-  Price: $50.00 AUD
-- [Fatboy 4-Pin Baja Light v2 | AMP Racing](https://ampracing.shop/products/amp-4-pin-baja-light-v2-fatboy): Upgrade a compatible Fatboy e-bike with AMP Racing’s 4-pin Baja Light v2. Clean plug-and-play fitment when your connector matches.
-  Updated: 2026-10-18T03:28:17Z
+  - [White](https://ampracing.shop/products/amp-upgraded-v2-aa-battery-baja-light?variant=50987434770480)
+    Availability: Available
+    Price: $50.00 AUD
+  - [Amber](https://ampracing.shop/products/amp-upgraded-v2-aa-battery-baja-light?variant=50987434803248)
+    Availability: Available
+    Price: $50.00 AUD
+- [Fatboy E-Bike 4-Pin Baja Light V2 | AMP Racing](https://ampracing.shop/products/amp-4-pin-baja-light-v2-fatboy): Baja-style front light for compatible Fatboy e-bikes. Confirm model, 4-pin connector shape, pin layout and wiring before purchase. Fitment support available.
+  Updated: 2026-11-03T01:04:06Z
   Vendor: AMP Racing
   Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/C8FECD18-D4A1-4EE7-B691-17B6085F7B3B.jpg?v=1791413927
-  Price: $69.99 AUD
+  - [White](https://ampracing.shop/products/amp-4-pin-baja-light-v2-fatboy?variant=50987435393072)
+    Availability: Available
+    Price: $69.99 AUD
+  - [Amber](https://ampracing.shop/products/amp-4-pin-baja-light-v2-fatboy?variant=50987435425840)
+    Availability: Not Available
+    Price: $69.99 AUD
 - [Sur-Ron 3-Pin Throttle V2 | AMP Racing](https://ampracing.shop/products/amp-factory-grade-surron-throttle-v2-3-pin): Factory-grade AMP Racing 3-pin Sur-Ron throttle V2 for compatible plug-and-play setups. Check connector shape and direction before ordering.
-  Updated: 2026-10-18T03:28:17Z
+  Updated: 2026-10-28T09:41:38Z
   Vendor: AMP Racing
   Product Type: E-Bike Controls
   Availability: Available
@@ -219,17 +229,17 @@
     Availability: Available
     Price: $24.99 AUD
 - [Fatboy Baja Light Switch Kit | AMP Racing](https://ampracing.shop/products/amp-fatboy-baja-light-switch-kit): Add handlebar control to a compatible Fatboy Baja-light setup with the AMP Racing plug-and-play switch kit. Check connector fitment before ordering.
-  Updated: 2026-10-20T08:56:17Z
+  Updated: 2026-10-28T09:08:13Z
   Vendor: AMP Racing
   Product Type: E-Bike Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/2852A429-B8D6-4010-9B54-AD7C10A000AA.png?v=1791413999
   - [White](https://ampracing.shop/products/amp-fatboy-baja-light-switch-kit?variant=50834227888176)
     Availability: Available
-    Price: $41.00 AUD
+    Price: $49.99 AUD
   - [Amber](https://ampracing.shop/products/amp-fatboy-baja-light-switch-kit?variant=50834227920944)
-    Availability: Not Available
-    Price: $41.00 AUD
+    Availability: Available
+    Price: $49.99 AUD
 - [Hydraulic Brake Kit | Sur-Ron, Talaria & Ultra Bee](https://ampracing.shop/products/amp-hydraulic-brake-kit-sur-ron-talaria-ultra-bee): AMP Racing hydraulic brake kit for compatible Sur-Ron, Talaria and Ultra Bee builds. Choose front or rear and confirm fitment before ordering.
   Updated: 2026-10-18T03:28:21Z
   Vendor: AMP Racing
@@ -269,7 +279,7 @@
     Availability: Available
     Price: $120.00 AUD
 - [3-Pin Baja Light | E-Bike Lighting | AMP Racing](https://ampracing.shop/products/amp-3-pin-baja-light): AMP Racing 3-pin Baja-style e-bike light for compatible setups. Confirm connector, voltage and mounting compatibility before ordering.
-  Updated: 2026-10-18T03:28:21Z
+  Updated: 2026-10-28T03:18:37Z
   Vendor: AMP Racing
   Product Type: E-Bike Lighting
   Availability: Available
@@ -304,14 +314,14 @@
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-8058441236528-square.png?v=1791414213
   Price: $292.60 AUD
 - [MotoCuts Stealth MX Number Plate | AMP Racing](https://ampracing.shop/products/motocuts-stealth-mx-number-plate): Stealth black MX number plate with vented mesh styling, lightweight construction and included mounting zip ties for custom e-bike builds.
-  Updated: 2026-10-18T03:28:21Z
+  Updated: 2026-10-28T03:03:06Z
   Vendor: AMP Racing
   Product Type: E-Bike Bodywork
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/amp-7682056847408-square.png?v=1791414504
   Price: $69.99 AUD
-- [17” Supermoto Wheel Set for Sur-Ron Light Bee X | AMP Racing](https://ampracing.shop/products/amp-17-supermoto-wheel-set-sur-ron-light-bee-x): 17-inch front and rear supermoto wheel set for Sur-Ron Light Bee X. Black or silver options with fitment support from AMP Racing.
-  Updated: 2026-10-19T00:14:11Z
+- [17-Inch Supermoto Wheels + CST Tyres | Sur-Ron LBX | AMP Racing](https://ampracing.shop/products/amp-17-supermoto-wheel-set-sur-ron-light-bee-x): Front and rear 17-inch supermoto wheels for Sur-Ron Light Bee X. CST street tyres included; silver or black finish. Check fitment and delivery before ordering.
+  Updated: 2026-10-28T03:02:58Z
   Vendor: AMP Racing
   Product Type: Wheels & Tyres
   Availability: Available
@@ -323,7 +333,7 @@
     Availability: Available
     Price: $850.00 AUD
 - [Ultra Bee 17" Supermoto Wheel Kit | AMP Racing](https://ampracing.shop/products/surron-ultra-bee-17-supermoto-wheel-kit-100-80-17-130-70-17-street-wheels): 17-inch supermoto wheel kit for Sur-Ron Ultra Bee with 100/80-17 and 130/70-17 street sizing. Confirm fitment before ordering.
-  Updated: 2026-10-26T10:56:55Z
+  Updated: 2026-10-27T05:48:39Z
   Vendor: AMP Racing
   Product Type: Wheels & Tyres
   Availability: Available
@@ -374,13 +384,20 @@
   - [Silver](https://ampracing.shop/products/12-kenda-curve-supermoto-wheel-set?variant=50846652891184)
     Availability: Available
     Price: $999.99 AUD
-- [AMP Chrome limited edition plate✨](https://ampracing.shop/products/amp-chrome-limited-edition-plate): Give your build a front end worth a second look. A mirror-chrome finish, bold black gothic graphics and rainbow hardware create a standout look that catches the light. Twin diamond-mesh panels add texture and depth to the design. ✅ Mirror-chrome finish — bright reflections that show off your front end✅ Gothic cross graphics — bold black detailing against polished chrome✅ Rainbow bolt detailing — colour that brings the design together✅ Twin diamond-mesh panels — a distinctive finishing touch Whether you’re building a darker setup or going all-out chrome, this plate gives your front end a focal point.
-  Updated: 2026-10-27T00:42:10Z
+- [Chrome Limited Edition E-Bike Front Plate | AMP Racing](https://ampracing.shop/products/amp-chrome-limited-edition-plate): Mirror-chrome front plate with black gothic graphics, diamond mesh and rainbow bolt detailing. Check mounting dimensions and  before ordering.
+  Updated: 2026-10-28T09:41:54Z
   Vendor: Amp racing
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/library-794DA81A-5D10-45F8-944D-22C6B11EB314-L0-001.jpg?v=1793061714
+  Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/library-EAAA47C4-CBA6-4527-B76C-2C8D9A336AAC-L0-001.jpg?v=1793065698
   Price: $120.00 AUD
+- [Holographic Galaxy E-Bike Front Plate | AMP Racing](https://ampracing.shop/products/amp-holographic-galaxy-front-plate): Gloss-black front plate with colourful galaxy graphics and mesh detailing. Four mounting zip ties included. Check mounting space and  before ordering.
+  Updated: 2026-10-28T09:41:56Z
+  Vendor: Amp racing
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0619/2850/5392/files/1E9F7E56-6303-4F23-A6F4-E630A73122FE.png?v=1793078238
+  Price: $39.99 AUD
 
 ## Collections
 
@@ -388,34 +405,34 @@
   Updated: 2026-10-10T05:25:24Z
   Total Products: 7
 - [Popular Upgrades $100 & Under](https://ampracing.shop/collections/popular-upgrades-under-100): Shop popular AMP Racing upgrades under $100 AUD, including grips, controls, lighting accessories and finishing parts.
-  Updated: 2026-10-17T08:11:53Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 17
 - [AMP Starter Upgrades](https://ampracing.shop/collections/amp-starter-upgrades): Shop approachable AMP Racing e-bike and e-moto upgrades for riders starting a build, from controls and grips to lighting and finishing parts.
-  Updated: 2026-10-17T08:11:53Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 15
 - [Top 5 Rider Favourites](https://ampracing.shop/collections/top-5-rider-favourites): Shop five rider-favourite AMP Racing e-bike and e-moto upgrades selected from popular lighting, controls and finishing parts.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 5
 - [Premium E-Moto Parts](https://ampracing.shop/collections/high-end-emoto-e-bike-parts): Shop premium AMP Racing e-moto parts, including CNC upgrades, brakes and controls for compatible Sur-Ron, Talaria and Ultra Bee builds.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 24
 - [Build Your Dream E-Bike](https://ampracing.shop/collections/build-your-dream-e-bike): Explore a curated mix of AMP Racing lighting, controls, cockpit, protection and styling upgrades for custom e-bike and e-moto builds.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 24
 - [Complete AMP Collection](https://ampracing.shop/collections/complete-amp-collection): Browse the complete active AMP Racing catalogue of e-moto and e-bike parts, including lighting, controls, brakes, wheels, cockpit upgrades and styling.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 32
 - [AMP Best Sellers](https://ampracing.shop/collections/amp-best-sellers): Shop AMP Racing best sellers including Fatboy Baja lights, Sur-Ron throttles and rider-favourite e-bike upgrades.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 6
 - [Baja Lights & E-Bike Lighting](https://ampracing.shop/collections/baja-lights-e-bike-lighting): Shop AMP Racing Baja lights, headlights and e-bike lighting upgrades, including plug-and-play options for compatible Fatboy builds.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 6
 - [Sur-Ron Throttles & Controls](https://ampracing.shop/collections/sur-ron-throttles-controls): Shop AMP Racing Sur-Ron throttles and key ignition controls, including plug-and-play options. Confirm connector fitment before ordering.
   Updated: 2026-10-25T22:57:31Z
   Total Products: 6
 - [Cockpit, Grips & Foot Controls](https://ampracing.shop/collections/cockpit-grips-foot-controls): Shop AMP Racing grips, stems, pedals and cockpit upgrades for cleaner, more controlled e-bike and e-moto builds.
-  Updated: 2026-09-24T01:18:15Z
+  Updated: 2026-10-27T11:14:37Z
   Total Products: 9
 - [Small Upgrades, Big Difference](https://ampracing.shop/collections/small-upgrades-big-difference): Shop small AMP Racing upgrades like valve caps, cable management and grips that sharpen the look and feel of your e-bike build.
   Updated: 2026-10-10T05:25:24Z
@@ -424,10 +441,10 @@
   Updated: 2026-10-25T22:57:32Z
   Total Products: 6
 - [Shop Sur-Ron Parts](https://ampracing.shop/collections/shop-sur-ron-parts): Shop AMP Racing Sur-Ron and Light Bee X upgrades including throttles, brakes, supermoto wheels, pegs, protection and controls.
-  Updated: 2026-10-25T22:57:31Z
+  Updated: 2026-10-27T11:14:37Z
   Total Products: 15
 - [Shop Fatboy E-Bike Parts](https://ampracing.shop/collections/shop-fatboy-e-bike-parts): Shop AMP Racing Fatboy e-bike upgrades including plug-and-play Baja lights, switches and fitment-focused lighting parts.
-  Updated: 2026-10-25T22:54:13Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 2
 - [Shop E Ride Pro Parts](https://ampracing.shop/collections/shop-e-ride-pro-parts): Shop AMP Racing E Ride Pro SS upgrades including hydraulic rear hand brakes, foot brakes and stunt-focused rider support parts.
   Updated: 2026-10-25T22:54:13Z
@@ -445,31 +462,37 @@
   Updated: 2026-10-25T22:57:32Z
   Total Products: 4
 - [E-bike parts](https://ampracing.shop/collections/e-bike-parts): Browse AMP Racing e-bike parts and upgrades, including lighting, controls, brakes, cockpit and protection for custom e-moto builds.
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 16
 - [e-bike parts](https://ampracing.shop/collections/e-bike-parts-1)
-  Updated: 2026-10-20T11:16:26Z
+  Updated: 2026-10-31T11:14:28Z
   Total Products: 17
 
 ## Store Pages
 
 - [Contact](https://ampracing.shop/pages/contact)
-  Updated: 2025-03-14T01:25:48Z
+  Updated: 2026-10-27T15:14:00Z
 - [Your Privacy Choices](https://ampracing.shop/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-04-25T09:53:04Z
 - [Shop by Bike](https://ampracing.shop/pages/shop-by-bike): .amp-bike-page{--ink:#080808;--paper:#f6f1e8;--red:#e62b25;--muted:#7b7770;font-family:Arial,Helvetica,sans-serif;max-width:1320px;margin:0 auto;pa...
   Updated: 2026-10-17T08:08:19Z
 - [Shipping & Delivery](https://ampracing.shop/pages/shipping-delivery): .amp-ship-page{--bg:#080809;--surface:#111113;--surface-2:#171719;--line:#2d2e34;--text:#f5f5f5;--muted:#bfc0c6;--orange:#ff4b16;--green:#36d59b;ma...
-  Updated: 2026-10-17T08:08:19Z
-- [FAQ](https://ampracing.shop/pages/faq): AMP Racing FAQWill these parts fit my bike?Fitment varies by product. Check the product page for compatible models and contact AMP Racing if you ar...
-  Updated: 2026-10-05T12:28:16Z
+  Updated: 2026-10-27T15:27:40Z
+- [FAQ](https://ampracing.shop/pages/faq): AMP Racing FAQ Will this part fit my bike?Check the exact product listing and your bike model, year and setup. For electrical parts, connector shap...
+  Updated: 2026-10-27T21:41:54Z
 - [Track Your Order](https://ampracing.shop/pages/track-order): Sign in to your AMP Racing account to securely view your order items and tracking information.
   Updated: 2026-10-07T08:53:32Z
+- [Fitment & Delivery Help](https://ampracing.shop/pages/fitment-help): Fitment, delivery and order help Tell us what you are fitting and the setup you have so we can check the right details. Read the checklist below, t...
+  Updated: 2026-10-27T15:13:15Z
+- [Shop AMP TikTok Parts](https://ampracing.shop/pages/amp-tiktok-parts): .amp-tiktok-page{max-width:980px;margin:0 auto;color:inherit;line-height:1.6}.amp-tiktok-page *{box-sizing:border-box}.amp-tiktok-intro{font-size:1...
+  Updated: 2026-10-27T22:12:07Z
+- [Shop AMP Racing Parts](https://ampracing.shop/pages/shop-amp-parts): .amp-tiktok-page{max-width:980px;margin:0 auto;color:inherit;line-height:1.6}.amp-tiktok-page *{box-sizing:border-box}.amp-tiktok-intro{font-size:1...
+  Updated: 2026-10-27T21:43:55Z
 
 ## Policies
 
 - [Privacy Policy](https://ampracing.shop/policies/privacy-policy)
-  Updated: 2025-03-14T01:25:52Z
+  Updated: 2026-10-30T01:38:34Z
 - [Refund Policy](https://ampracing.shop/policies/refund-policy)
   Updated: 2026-08-28T23:24:16Z
 - [Terms of Service](https://ampracing.shop/policies/terms-of-service)
