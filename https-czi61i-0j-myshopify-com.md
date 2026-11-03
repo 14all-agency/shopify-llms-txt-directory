@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-05T05:52:41Z
 - Contact Email: christowelman4@gmail.com
-- Updated At: 2026-10-27T01:11:21.010Z
+- Updated At: 2026-11-03T01:16:13.639Z
 
 ## Products
 
@@ -583,6 +583,15 @@
   - [How to Effectively Use a Portable Cordless Car Vacuum Cleaner for Immaculate Interiors](https://czi61i-0j.myshopify.com/blogs/news/how-to-effectively-use-a-portable-cordless-car-vacuum-cleaner-for-immaculate-interiors): How to Effectively Use a Portable Cordless Car Vacuum Cleaner for Immaculate Interiors
     Updated: 2026-10-26T01:07:50Z
     Author: Velocity
+  - [Exploring the Essential Features of Waterproof Full-Finger Riding Gloves for Enhanced Protection and Comfort in South Africa](https://czi61i-0j.myshopify.com/blogs/news/exploring-the-essential-features-of-waterproof-full-finger-riding-gloves-for-enhanced-protection-and-comfort-in-south-africa): Exploring the Essential Features of Waterproof Full-Finger Riding Gloves for Enhanced Protection and Comfort in South Africa
+    Updated: 2026-10-29T00:04:55Z
+    Author: Velocity
+  - [How the Waterproof Car Backseat Storage Bag Simplifies Travel and Boosts Comfort](https://czi61i-0j.myshopify.com/blogs/news/how-the-waterproof-car-backseat-storage-bag-simplifies-travel-and-boosts-comfort): How the Waterproof Car Backseat Storage Bag Simplifies Travel and Boosts Comfort
+    Updated: 2026-11-01T00:05:26Z
+    Author: Velocity
+  - [Elevate Your Motorcycle Riding Experience with CNC Adjustable Brake and Clutch Lever Sets in South Africa](https://czi61i-0j.myshopify.com/blogs/news/elevate-your-motorcycle-riding-experience-with-cnc-adjustable-brake-and-clutch-lever-sets-in-south-africa): Elevate Your Motorcycle Riding Experience with CNC Adjustable Brake and Clutch Lever Sets in South Africa
+    Updated: 2026-11-02T01:10:33Z
+    Author: Velocity
 
 ## Store Pages
 
@@ -592,7 +601,7 @@
 ## Policies
 
 - [Privacy Policy](https://czi61i-0j.myshopify.com/policies/privacy-policy)
-  Updated: 2026-08-05T05:52:45Z
+  Updated: 2026-11-01T07:28:03Z
 - [Shipping Policy](https://czi61i-0j.myshopify.com/policies/shipping-policy)
   Updated: 2026-09-04T12:59:53Z
 - [Refund Policy](https://czi61i-0j.myshopify.com/policies/refund-policy)
