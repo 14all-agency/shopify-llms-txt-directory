@@ -8,7 +8,7 @@
 - Contact Email: shop@iqiom.com
 - Contact Phone: +44 1624 620121
 - Address: VICTORY HOUSE, Douglas IM99 1AH
-- Updated At: 2026-10-27T00:55:54.859Z
+- Updated At: 2026-11-03T00:56:11.491Z
 
 ## Products
 
@@ -103,13 +103,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666852.png?v=1742659110
   Price: £49.00 GBP
-- [iPad mini Wi-Fi 128GB - Purple (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxn93nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:29:41Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317200.jpg?v=1742659109
-  Price: £599.00 GBP
 - [iPad mini Wi-Fi 512GB - Starlight (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-myh23nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
   Updated: 2026-10-26T19:04:57Z
   Vendor: Apple
@@ -131,13 +124,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14854563.jpg?v=1742659103
   Price: £199.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Starlight (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxpx3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:42:07Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317243.jpg?v=1742659102
-  Price: £849.00 GBP
 - [13-inch iPad Pro Wi-Fi + Cellular 1TB Standard Glass - Silver (M4)](https://iqiom.com/products/13-inch-ipad-pro-m4-mvxx3nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display, and superfast Wi Fi 6E and 5G. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-08T22:41:28Z
   Vendor: Apple
@@ -181,7 +167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526751.png?v=1742659085
   Price: £49.00 GBP
 - [iPhone 16 128GB Pink](https://iqiom.com/products/iphone-16-myea3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-23T12:05:58Z
+  Updated: 2026-10-28T10:52:56Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -208,13 +194,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10892874.jpg?v=1745833353
   Price: £899.00 GBP
-- [iPad mini Wi-Fi 256GB - Space Grey (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxna3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-14T13:55:06Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317222.jpg?v=1742659064
-  Price: £699.00 GBP
 - [AirTag FineWoven Key Ring - Chartreuse](https://iqiom.com/products/airtag-finewoven-key-ring-ma7l4zm-a): The FineWoven key ring is thoughtfully crafted from innovative materials. The stainless steel is as striking as it is strong, while the durable micro-twill has a suede-like feel and is made from 68 per cent post-consumer recycled content, significantly reducing carbon emissions compared to leather. And it fits snugly over your AirTag, so you never have to worry about it falling out. AirTag is sold separately.
   Updated: 2026-04-06T07:50:59Z
   Vendor: Apple
@@ -223,7 +202,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/01B4AB27-BDD4-4937-B07A-49099F19BD67_85c12d92-79ea-405b-a0e7-2826676d2b33.jpg?v=1747310931
   Price: £40.00 GBP
 - [iPhone 16 Clear Case with MagSafe](https://iqiom.com/products/iphone-16-clear-case-with-magsafe-ma6a4zm-a): Thin, light and easy to grip — this Apple-designed case shows off the brilliant coloured finish of iPhone 16 while providing extra protection. Crafted with a blend of optically clear polycarbonate and flexible materials, the case fits over the buttons for easy use. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. On the surface, a scratch-resistant coating has been applied to both the interior and exterior. And all materials and coatings are optimised to prevent yellowing over time. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-10-23T12:08:17Z
+  Updated: 2026-10-28T11:20:56Z
   Vendor: Apple
   Product Type: Case with MagSafe
   Availability: Available
@@ -355,13 +334,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-7337552.jpg?v=1745835282
   Price: £699.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Purple (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxpy3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:41:04Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317199.jpg?v=1742658980
-  Price: £849.00 GBP
 - [iPhone 16 Silicone Case with MagSafe - Denim](https://iqiom.com/products/iphone-16-silicone-case-with-magsafe-myy23zm-a): Designed by Apple to complement iPhone 16, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-10-05T14:55:27Z
   Vendor: Apple
@@ -377,7 +349,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666175.png?v=1745833800
   Price: £49.00 GBP
 - [USB-C to Lightning Cable (1m)](https://iqiom.com/products/usb-c-to-lightning-cable-1m-muq93zm-a): Connect your iPhone, iPad or iPod with Lightning connector to your USB-C– or Thunderbolt 3 (USB-C)–enabled Mac for syncing and charging, or to your USB-C–enabled iPad for charging.
-  Updated: 2026-10-26T16:29:09Z
+  Updated: 2026-11-02T14:17:37Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
@@ -390,13 +362,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-7337470_1973319b-07bc-4900-93b4-d85d4d377243.jpg?v=1745834476
   Price: £699.00 GBP
-- [iPad mini Wi-Fi 128GB - Starlight (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxn83nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:26:18Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317244_22d1e6ec-cfec-4337-8d72-4b615b2957ff.jpg?v=1742658964
-  Price: £599.00 GBP
 - [41mm Magic Ember Nike Sport Band - S/M](https://iqiom.com/products/2023-apple-watch-nike-sport-band-muux3zm-a): Made with compression-moulded perforations for breathability, the Nike Sport Band is durable and strong, yet surprisingly soft. It features colourful flakes that create a randomised pattern, making each strap completely unique. The smooth, dense material drapes elegantly across your wrist and feels comfortable next to your skin. A new aluminium pin-and-tuck closure gives the pin a fresh matt finish. This strap contains at least 32% recycled fluoroelastomer, with each flake containing at least 66% recycled fluoroelastomer.
   Updated: 2026-02-17T19:36:33Z
   Vendor: Apple
@@ -412,14 +377,14 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-13079441.jpg?v=1747309859
   Price: £79.00 GBP
 - [Lightning to USB Cable (1m)](https://iqiom.com/products/lightning-to-usb-cable-1m-muqw3zm-a): Use the Lightning to USB Cable to charge and sync your iPhone, iPad or iPod with Lightning connector to your Mac or Windows PC.
-  Updated: 2026-10-26T12:08:39Z
+  Updated: 2026-10-29T11:11:52Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-5650283.png?v=1742658959
   Price: £19.00 GBP
 - [Apple Pencil Pro](https://iqiom.com/products/2024-apple-pencil-pro-mx2d3zm-a): Apple Pencil Pro adds even more magical capabilities to help bring your ideas to life. Advanced features like squeeze, barrel roll, and haptic feedback make marking up, taking notes, and creating a masterpiece more intuitive than ever. Use Apple Pencil hover to preview exactly where Apple Pencil Pro will touch down on the display,1 and double-tap to quickly switch tools. And if you misplace it while you’re out and about or at home, you can easily locate it in the Find My app. Apple Pencil Pro pairs, charges, and stores magnetically on the side of your iPad.
-  Updated: 2026-10-26T13:13:57Z
+  Updated: 2026-11-02T09:32:37Z
   Vendor: Apple
   Product Type: Apple Pencil
   Availability: Available
@@ -433,7 +398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14772820.jpg?v=1745837037
   Price: £499.00 GBP
 - [iPhone 16 128GB Ultramarine](https://iqiom.com/products/iphone-16-myec3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-23T12:06:07Z
+  Updated: 2026-10-28T10:52:01Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -474,13 +439,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666200.png?v=1745836992
   Price: £49.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Space Grey (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-myhc3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:40:06Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317221.jpg?v=1742658932
-  Price: £1,049.00 GBP
 - [iPhone 16 Pro Silicone Case with MagSafe - Fuchsia](https://iqiom.com/products/iphone-16-pro-silicone-case-with-magsafe-myyn3zm-a): Designed by Apple to complement iPhone 16 Pro, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Pro, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
   Updated: 2026-08-24T08:49:36Z
   Vendor: Apple
@@ -509,20 +467,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14774641_8919688f-ad75-4dfe-be3f-7e53aa45f9cb.jpg?v=1745837052
   Price: £1,199.00 GBP
-- [Smart Folio for iPad mini (A17 Pro) - Charcoal Grey](https://iqiom.com/products/smart-folio-for-ipad-mini-mc2q4zm-a)
-  Updated: 2026-10-19T11:17:05Z
-  Vendor: Apple
-  Product Type: Smart Folio
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15216815.jpg?v=1747311370
-  Price: £59.00 GBP
-- [iPhone 15 Plus 512GB Blue](https://iqiom.com/products/iphone-15-mu1p3zd-a): iPhone 15 Plus brings you Dynamic Island, a 48MP Main camera and USB-C — all in a durable colour-infused glass and aluminium design.
-  Updated: 2026-10-03T00:40:18Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10892850_01afce35-ee30-4e73-bb12-fcf160858a57.jpg?v=1745833716
-  Price: £899.00 GBP
 - [iPad mini Wi-Fi 512GB - Purple (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-myh33nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
   Updated: 2026-10-26T19:05:11Z
   Vendor: Apple
@@ -552,7 +496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14778174_4aee0b7c-290b-4758-8fe8-f69bc4db0685.jpg?v=1745834215
   Price: £999.00 GBP
 - [Smart Folio for iPad mini (A17 Pro) - Denim](https://iqiom.com/products/smart-folio-for-ipad-mini-mc2u4zm-a)
-  Updated: 2026-10-21T11:10:28Z
+  Updated: 2026-10-27T19:03:37Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -566,21 +510,14 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317178.jpg?v=1742658875
   Price: £699.00 GBP
 - [iPhone 16 Plus Silicone Case with MagSafe - Plum](https://iqiom.com/products/iphone-16-plus-silicone-case-with-magsafe-myyd3zm-a): Designed by Apple to complement iPhone 16 Plus, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Plus, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-07-03T07:13:15Z
+  Updated: 2026-10-27T14:36:57Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666119.png?v=1747306626
   Price: £49.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Space Grey (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxpt3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:39:08Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317221_f94887ea-63bb-4b28-9ff1-c9e312ce3ea1.jpg?v=1742658869
-  Price: £849.00 GBP
 - [Smart Folio for iPad mini (A17 Pro) - Light Violet](https://iqiom.com/products/smart-folio-for-ipad-mini-mc2t4zm-a)
-  Updated: 2026-08-15T11:23:09Z
+  Updated: 2026-10-27T19:03:26Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -593,13 +530,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666239.png?v=1745836730
   Price: £49.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Blue (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-myhd3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:39:13Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317177.jpg?v=1742658858
-  Price: £1,049.00 GBP
 - [Smart Folio for iPad Air 11-inch (M2) - Light Violet](https://iqiom.com/products/smart-folio-for-ipad-air-11-inch-mwk83zm-a)
   Updated: 2026-10-26T13:17:32Z
   Vendor: Apple
@@ -670,13 +600,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526612.png?v=1742658809
   Price: £49.00 GBP
-- [iPad mini Wi-Fi 128GB - Space Grey (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxn63nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:23:24Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317222_77324e6f-1ee0-4e13-a6c9-0868ae85e0c2.jpg?v=1742658807
-  Price: £599.00 GBP
 - [Apple Watch Ultra 2 GPS + Cellular 49mm Natural Titanium Case with Navy Ocean Band](https://iqiom.com/products/2024-apple-watch-ultra-2-ocean-band-mx4d3qa-a): Apple Watch Ultra 2, the ultimate sports and adventure watch, is now available in a satin black titanium finish. It features multi-day battery life, precision dual-frequency GPS and Apple’s brightest display ever. It also has a durable titanium case, sapphire front crystal and customisable Action button.
   Updated: 2026-10-26T12:30:59Z
   Vendor: Apple
@@ -699,7 +622,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14777843.jpg?v=1747225732
   Price: £129.00 GBP
 - [Smart Folio for iPad mini (A17 Pro) - Sage](https://iqiom.com/products/smart-folio-for-ipad-mini-mc2v4zm-a)
-  Updated: 2026-02-23T19:13:00Z
+  Updated: 2026-10-27T19:03:56Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -748,7 +671,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14666795.png?v=1742658786
   Price: £49.00 GBP
 - [Smart Folio for iPad Pro 13-inch (M4) - Black](https://iqiom.com/products/smart-folio-for-ipad-pro-13-inch-mwk33zm-a)
-  Updated: 2026-10-23T12:07:58Z
+  Updated: 2026-10-28T10:54:47Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -803,13 +726,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317200_900b4dda-7622-4d17-946d-6cf1c447a235.jpg?v=1742658756
   Price: £699.00 GBP
-- [iPad mini Wi-Fi + Cellular 256GB - Blue (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxpw3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:36:28Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317177_9e19431a-9779-47fd-93b8-101cc1ea7ec4.jpg?v=1742658741
-  Price: £849.00 GBP
 - [AirTag FineWoven Key Ring - Black](https://iqiom.com/products/airtag-finewoven-key-ring-ma7g4zm-a): The FineWoven key ring is thoughtfully crafted from innovative materials. The stainless steel is as striking as it is strong, while the durable micro-twill has a suede-like feel and is made from 68 per cent post-consumer recycled content, significantly reducing carbon emissions compared to leather. And it fits snugly over your AirTag, so you never have to worry about it falling out. AirTag is sold separately.
   Updated: 2026-08-21T08:49:12Z
   Vendor: Apple
@@ -853,7 +769,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10892866.jpg?v=1745836764
   Price: £649.00 GBP
 - [iPhone 16 128GB Teal](https://iqiom.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-23T12:06:07Z
+  Updated: 2026-10-28T10:52:31Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -895,7 +811,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526824.png?v=1742658684
   Price: £49.00 GBP
 - [Apple Pencil (USB-C)](https://iqiom.com/products/2023-apple-pencil-usb-c-muwa3zm-a): An affordable Apple Pencil with advanced features. Perfect for note-taking, sketching, annotating, journaling, and more. It magnetically attaches to your iPad for storage and pairs and charges with USB-C.
-  Updated: 2026-10-23T15:07:07Z
+  Updated: 2026-11-02T14:17:53Z
   Vendor: Apple
   Product Type: Accessories
   Availability: Available
@@ -929,13 +845,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-13079435.jpg?v=1742658660
   Price: £99.00 GBP
-- [iPhone 16 Plus 256GB Pink](https://iqiom.com/products/iphone-16-mxy13qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-06T10:26:09Z
-  Vendor: Apple
-  Product Type: iPhone
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-14778164_3fcc434c-fbf3-4184-a0e0-bd676c1055d9.jpg?v=1745837184
-  Price: £899.00 GBP
 - [EarPods (USB-C)](https://iqiom.com/products/earpods-usb-c-myqy3zm-a): Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.
   Updated: 2026-10-18T22:29:20Z
   Vendor: Apple
@@ -943,13 +852,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10758699.png?v=1742658658
   Price: £19.00 GBP
-- [iPad mini Wi-Fi 128GB - Blue (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxn73nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip, an 8.3-inch Liquid Retina display, plus superfast Wi-Fi 6E. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:19:19Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317178_1ebf250b-f525-4fe6-99ac-1aad13f8a6ce.jpg?v=1742658655
-  Price: £599.00 GBP
 - [11-inch iPad Pro Wi-Fi 2TB Nano-texture glass - Silver (M4)](https://iqiom.com/products/11-inch-ipad-pro-m4-mwr93nf-a): iPad Pro. Built for Apple Intelligence. It’s impossibly thin, featuring outrageous performance with the Apple M4 chip, a breakthrough Ultra Retina XDR display and superfast Wi Fi 6E. Along with Apple Pencil Pro and Magic Keyboard, it brings endless versatility, creativity and productivity to your fingertips.
   Updated: 2026-10-08T01:15:08Z
   Vendor: Apple
@@ -1021,7 +923,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-13196149_5ecf0d3d-85be-419a-ae30-6edbc7cfcde3.jpg?v=1765972534
   Price: £849.00 GBP
 - [iPad mini Wi-Fi + Cellular 128GB - Blue (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-mxpp3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-26T19:03:47Z
+  Updated: 2026-10-29T16:23:23Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1042,7 +944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526673.png?v=1742658593
   Price: £49.00 GBP
 - [iPhone 16 128GB Black](https://iqiom.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-23T12:05:52Z
+  Updated: 2026-10-28T10:52:17Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1083,13 +985,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526763.png?v=1742658582
   Price: £49.00 GBP
-- [iPad mini Wi-Fi + Cellular 512GB - Starlight (A17 Pro)](https://iqiom.com/products/ipad-mini-a17-pro-myhe3nf-a): iPad mini. Built for Apple Intelligence. It’s incredibly portable and powerful, featuring the ultra-fast A17 Pro chip and an 8.3‑inch Liquid Retina display. And it works with Apple Pencil Pro, so you can study, work, play and create from anywhere.
-  Updated: 2026-10-08T21:32:59Z
-  Vendor: Apple
-  Product Type: iPad
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-15317243_940182e0-7468-4206-ad04-eddb5622e3f7.jpg?v=1742658580
-  Price: £1,049.00 GBP
 - [40mm Black/Blue Nike Sport Loop](https://iqiom.com/products/2024-apple-watch-nike-sport-loop-mc1l4zm-a): The Nike Sport Loop has been redesigned to use excess yarn from previous seasons to create a soft, breathable and lightweight strap with a bold pattern. The hook-and-loop fastener and a woven pull tab featuring the Nike Swoosh makes it easy to adjust on the go. The double-layer nylon weave has dense loops on the skin side that provide soft cushioning while allowing moisture to escape. The Nike Sport Loop contains at least 68% excess yarn from previous seasons, saving over three tonnes of primary yarn.
   Updated: 2025-09-18T04:05:29Z
   Vendor: Apple
@@ -1301,7 +1196,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-10526561_f19731b5-73b6-450f-b8db-9d3e42e8747c.png?v=1745834756
   Price: £49.00 GBP
 - [Smart Folio for iPad Air 13-inch (M2) - Light Violet](https://iqiom.com/products/smart-folio-for-ipad-air-13-inch-mwkd3zm-a)
-  Updated: 2026-07-03T08:31:21Z
+  Updated: 2026-11-02T13:09:08Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -1406,7 +1301,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-16745303.jpg?v=1745837503
   Price: £549.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqiom.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-23T12:07:06Z
+  Updated: 2026-10-28T10:54:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1476,7 +1371,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-16714672_m_jpg_1.jpg?v=1745837680
   Price: £49.00 GBP
 - [iPhone 16 Pro Silicone Case with MagSafe - Peony](https://iqiom.com/products/iphone-16-pro-silicone-case-with-magsafe-mdfx4zm-a): Designed by Apple to complement iPhone 16 Pro, the Silicone Case with MagSafe is a delightful way to protect your iPhone. Made with a 55 per cent recycled silicone material, the case has a silky, soft-touch finish on the exterior that feels great in your hand. And on the inside, there’s a soft microfibre lining for even more protection. This case works seamlessly with Camera Control. It features a sapphire crystal, coupled to a conductive layer to communicate finger movements to the Camera Control. With built-in magnets that align perfectly with iPhone 16 Pro, this case offers a magical attach experience and faster wireless charging, every time. When it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi2- or Qi- charger. Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
-  Updated: 2026-02-17T21:29:51Z
+  Updated: 2026-11-02T13:15:27Z
   Vendor: Apple
   Product Type: Silicone Case with MagSafe
   Availability: Available
@@ -1560,7 +1455,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-16714631_m_jpg_1.jpg?v=1745837904
   Price: £49.00 GBP
 - [Smart Folio for iPad (A16) - Watermelon](https://iqiom.com/products/smart-folio-for-ipad-a16-mdep4zm-a)
-  Updated: 2026-10-15T09:44:43Z
+  Updated: 2026-10-29T11:17:26Z
   Vendor: Apple
   Product Type: Smart Folio
   Availability: Available
@@ -1588,7 +1483,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-16745387.jpg?v=1745837966
   Price: £1,049.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqiom.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-23T12:06:27Z
+  Updated: 2026-11-02T14:14:47Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1602,7 +1497,7 @@
   Image: https://cdn.shopify.com/s/files/1/0643/3524/9481/files/IMG-16745020_25a9f062-8a86-4376-b053-4ce904d752de.jpg?v=1745837962
   Price: £1,249.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqiom.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-23T12:06:48Z
+  Updated: 2026-10-28T11:16:41Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -2046,7 +1941,7 @@
   Updated: 2025-04-28T13:08:01Z
   Total Products: 0
 - [Deco](https://iqiom.com/collections/deco)
-  Updated: 2026-10-24T18:00:22Z
+  Updated: 2026-10-28T11:01:42Z
   Total Products: 290
 - [iPhone Cases](https://iqiom.com/collections/iphone-cases)
   Updated: 2025-04-23T05:35:12Z
@@ -2061,8 +1956,8 @@
   Updated: 2026-07-27T09:55:21Z
   Total Products: 26
 - [Offers](https://iqiom.com/collections/offers)
-  Updated: 2026-10-26T14:05:27Z
-  Total Products: 60
+  Updated: 2026-10-27T16:37:10Z
+  Total Products: 58
 - [Belkin Boost](https://iqiom.com/collections/belkin-boost)
   Updated: 2026-07-17T18:00:28Z
   Total Products: 4
@@ -2091,8 +1986,8 @@
   Updated: 2026-09-22T09:53:04Z
   Total Products: 2
 - [apl_ps_140W USB-C Power Adapter](https://iqiom.com/collections/apl_ps_140w-usb-c-power-adapter)
-  Updated: 2026-07-08T15:00:48Z
-  Total Products: 1
+  Updated: 2026-10-28T18:54:44Z
+  Total Products: 2
 - [apl_ps_14-inch MacBook Pro M4](https://iqiom.com/collections/apl_ps_14-inch-macbook-pro-m4)
   Updated: 2026-09-22T09:53:04Z
   Total Products: 6
@@ -2235,8 +2130,8 @@
   Updated: 2025-04-23T05:35:16Z
   Total Products: 0
 - [apl_ps_70W USB-C Power Adapter](https://iqiom.com/collections/apl_ps_70w-usb-c-power-adapter)
-  Updated: 2026-07-02T09:04:44Z
-  Total Products: 1
+  Updated: 2026-10-28T18:54:44Z
+  Total Products: 2
 - [apl_ps_96W USB-C Power Adapter](https://iqiom.com/collections/apl_ps_96w-usb-c-power-adapter)
   Updated: 2025-04-23T05:35:17Z
   Total Products: 0
@@ -2304,7 +2199,7 @@
   Updated: 2026-09-22T09:45:05Z
   Total Products: 3
 - [apl_ps_HomePod mini](https://iqiom.com/collections/apl_ps_homepod-mini)
-  Updated: 2026-10-21T13:39:07Z
+  Updated: 2026-11-02T11:06:32Z
   Total Products: 5
 - [apl_ps_iPhone 13 Leather Case with MagSafe](https://iqiom.com/collections/apl_ps_iphone-13-leather-case-with-magsafe)
   Updated: 2025-04-23T05:35:18Z
@@ -2528,7 +2423,7 @@
 - [View all iPhone](https://iqiom.com/pages/view-all-iphone)
   Updated: 2026-09-11T10:49:00Z
 - [View all Mac](https://iqiom.com/pages/view-all-mac)
-  Updated: 2025-10-15T14:05:47Z
+  Updated: 2026-10-28T19:08:00Z
 - [View all Music](https://iqiom.com/pages/view-all-music)
   Updated: 2026-02-11T23:18:10Z
 - [View all TV & Home](https://iqiom.com/pages/view-all-tv-home)
@@ -2596,11 +2491,11 @@
 - [iPhone 17e](https://iqiom.com/pages/iphone-17e)
   Updated: 2026-03-11T06:41:55Z
 - [Compare all iPad Models](https://iqiom.com/pages/ipad-compare)
-  Updated: 2026-03-11T07:32:16Z
+  Updated: 2026-10-27T13:06:46Z
 - [iPad Air M4](https://iqiom.com/pages/ipad-air-m4)
   Updated: 2026-03-11T06:40:11Z
 - [Compare all Mac Models](https://iqiom.com/pages/mac-compare)
-  Updated: 2026-03-20T11:32:59Z
+  Updated: 2026-11-01T11:33:25Z
 - [MacBook Neo](https://iqiom.com/pages/macbook-neo)
   Updated: 2026-03-23T09:38:00Z
 - [MacBook Air M5](https://iqiom.com/pages/macbook-air-m5)
@@ -2623,11 +2518,19 @@
   Updated: 2026-09-14T11:49:33Z
 - [Apple Watch Ultra 4](https://iqiom.com/pages/apple-watch-ultra-4)
   Updated: 2026-09-14T12:17:57Z
+- [iPad mini A20 Pro](https://iqiom.com/pages/ipad-mini-a20-pro)
+  Updated: 2026-10-28T09:48:48Z
+- [Macbook Pro M6](https://iqiom.com/pages/macbook-pro-m6)
+  Updated: 2026-11-01T12:20:47Z
+- [iMac M6](https://iqiom.com/pages/imac-m6)
+  Updated: 2026-11-01T12:35:33Z
+- [MacBook Pro with PROLED XDR Display: Apple M5](https://iqiom.com/pages/macbook-pro-with-proled-xdr-display-apple-m5)
+  Updated: 2026-11-01T13:15:20Z
 
 ## Policies
 
 - [Privacy Policy](https://iqiom.com/policies/privacy-policy)
-  Updated: 2024-12-20T15:01:52Z
+  Updated: 2026-10-29T23:29:16Z
 - [Shipping Policy](https://iqiom.com/policies/shipping-policy)
   Updated: 2025-04-11T06:21:01Z
 - [Refund Policy](https://iqiom.com/policies/refund-policy)
