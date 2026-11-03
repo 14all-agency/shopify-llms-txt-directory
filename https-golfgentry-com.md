@@ -14,7 +14,7 @@ Customers can use  code VIP2026 for 10% off. We also offer an automatic Buy 5, P
 - Timezone: America/New_York
 - Created At: 2024-03-13T06:46:22Z
 - Contact Email: info@golfgentry.com
-- Updated At: 2026-10-26T20:47:13.721Z
+- Updated At: 2026-11-03T01:05:54.690Z
 
 Golf Gentry is an online golf apparel brand specializing in men's and women's golf clothing, custom golf apparel, team uniforms, and tournament outfits.
 
@@ -29,7 +29,7 @@ Customers can order ready-made golf apparel or request custom logo printing, per
 ## Policies
 
 - [Privacy Policy](https://golfgentry.com/policies/privacy-policy)
-  Updated: 2024-09-03T22:14:26Z
+  Updated: 2026-10-29T16:47:00Z
 - [Shipping Policy](https://golfgentry.com/policies/shipping-policy)
   Updated: 2024-03-14T02:48:33Z
 - [Refund Policy](https://golfgentry.com/policies/refund-policy)
