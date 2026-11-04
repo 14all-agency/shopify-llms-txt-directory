@@ -6,12 +6,12 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T07:35:24Z
 - Contact Email: info@ozkahome.com
-- Updated At: 2026-10-27T01:12:16.542Z
+- Updated At: 2026-11-04T01:10:17.286Z
 
 ## Products
 
-- [Clear Stackable Makeup Organizer with Drawers | Vanity & Bathroom Storage | OZKA HOME](https://www.ozkahome.com/products/clear-stackable-makeup-organizer): Organize your makeup and skincare with this clear stackable organizer featuring pull-out drawers. Space-saving, dust-resistant design perfect for vanity, bathroom, and desk.
-  Updated: 2026-10-19T18:43:21Z
+- [Clear Stackable Makeup Organizer | Vanity Storage](https://www.ozkahome.com/products/clear-stackable-makeup-organizer): Organize makeup and skincare with a clear stackable organizer featuring pull-out drawers. Space-saving storage for vanities, bathrooms, and desks.
+  Updated: 2026-10-30T07:42:12Z
   Vendor: OZKA HOME
   Product Type: Makeup Organizer
   Availability: Available
@@ -401,7 +401,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S738e51d40ff241b0950e4e07a31a5b58s.webp?v=1791441634
     Price: $35.70 USD
 - [Oil Spray Bottle for Cooking – BBQ, Baking, Air Fryer & More](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush): Choose an Oil Spray Bottle for Cooking with a fine, even mist, transparent body, and 200ml, 300ml, or 500ml sizes for BBQ, baking, salads, and air frying.
-  Updated: 2026-10-19T18:43:52Z
+  Updated: 2026-11-03T23:56:37Z
   Vendor: OZKA HOME
   Product Type: Oil Spray Bottle
   Availability: Available
@@ -425,7 +425,7 @@
   - [1pcs brush](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106505911)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1c8ae2ab258242bfa555ad7ecf537916E.webp?v=1782136491
-    Price: $2.82 USD
+    Price: $12.82 USD
   - [200ml white](https://www.ozkahome.com/products/200-300-500ml-oil-spray-bottle-bbq-cooking-olive-oil-sprayer-plastic-baking-oil-spray-empty-bottle-vinegar-bottle-or-oil-brush?variant=48681106538679)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saad5fe8baf4c45c990ec6bb87aa63fe5F.webp?v=1782136491
@@ -536,7 +536,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Saf2c5f17b59041c7820c30950b766c221.webp?v=1782159229
     Price: $23.90 USD
 - [40 Oz Insulated Tumbler | Handle, Straw & Steel Travel Cup](https://www.ozkahome.com/products/40oz-insulated-tumbler): 40 Oz Insulated Tumbler with handle and reusable straw, made from 18/8 stainless steel. Holds 40 oz and keeps drinks hot up to 12 hours or cold up to 24 hours.
-  Updated: 2026-10-23T20:06:36Z
+  Updated: 2026-11-01T22:06:01Z
   Vendor: OZKA HOME
   Product Type: Drinkware
   Availability: Available
@@ -990,19 +990,19 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/fccfab94-eca1-4328-b885-036de5bc1c64.jpg?v=1782326282
     Price: $191.26 USD
 - [Multi-Purpose Vegetable Grater & Slicer | OZKA HOME](https://www.ozkahome.com/products/multi-purpose-vegetable-grater-slicer): Shred cabbage, carrots, cucumbers & more with this stainless steel vegetable grater and slicer. Ergonomic non-slip handle. 12×15.5cm. Perfect for home kitchens.
-  Updated: 2026-10-19T18:43:15Z
+  Updated: 2026-11-03T11:58:10Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sd9f83ca48e854b40a86c1d43e4948ab3X.webp?v=1782420199
-  Price: $2.50 USD
-- [Stainless Steel Julienne Peeler & Grater | 1z6nep Ky](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater): 2-in-1 stainless steel julienne peeler and grater for vegetables and fruits. Sharp, durable, dishwasher safe. 18x5.5cm. Shop at OZKA HOME.
-  Updated: 2026-10-19T18:43:56Z
+  Price: $12.50 USD
+- [Julienne Peeler & Grater | Stainless Steel](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater): 2-in-1 stainless steel julienne peeler and grater for vegetables and fruits. Sharp, dishwasher-safe design with an 18 x 5.5 cm size.
+  Updated: 2026-11-03T11:58:31Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S9c66cf3d96f340c893a32b1b1003a97fo.webp?v=1782420408
-  Price: $2.76 USD
+  Price: $12.76 USD
 - [Emery Cleaning Sponge Brush with Handle | OZKA HOME](https://www.ozkahome.com/products/magic-emery-sponge-cleaning-brush-2): Make everyday cleaning easier with a lightweight emery sponge brush featuring a comfortable handle. Explore practical cleaning tools at OZKA HOME.
   Updated: 2026-10-20T18:39:43Z
   Vendor: OZKA HOME
@@ -1046,8 +1046,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S41598544aaa549a68c684ff4b01f3774H.webp?v=1782479176
   Price: $40.01 USD
-- [Washable Mop Pads 6-Pack Reusable Microfiber | 1z6nep Ky](https://www.ozkahome.com/products/washable-flat-mop-pads-6-pack-microfiber): Replace disposable mop pads with these 6-pack washable microfiber flat mop covers. Machine washable, pet hair pickup, fits most 12–15" flat mops. Eco-friendly.
-  Updated: 2026-10-19T18:01:32Z
+- [Washable Mop Pads 6-Pack | Reusable Microfiber Covers](https://www.ozkahome.com/products/washable-flat-mop-pads-6-pack-microfiber): Replace disposable pads with six washable microfiber flat mop covers. Machine washable, designed for pet hair pickup, and compatible with most 12–15 inch flat mops.
+  Updated: 2026-10-30T07:42:14Z
   Vendor: OZKA HOME
   Product Type: Cleaning Tools
   Availability: Available
@@ -1230,7 +1230,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/1614821353310.jpg?v=1782541009
     Price: $48.92 USD
 - [Stainless Steel Metal Garden Hose with Spray Nozzle | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-metal-garden-hose-spray-nozzle): Kink-free stainless steel garden hose with 10-pattern spray nozzle. Available in 50FT & 100FT. Heavy duty, flexible, and rust-resistant. Perfect for any garden.
-  Updated: 2026-10-26T15:05:44Z
+  Updated: 2026-11-01T17:06:26Z
   Vendor: OZKA HOME
   Product Type: Garden Supplies
   Availability: Available
@@ -1243,8 +1243,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/0d2b882f-f916-49bc-b209-459887dc5d14.jpg?v=1782542185
     Price: $110.92 USD
-- [120W Wired Handheld Vacuum: 12000Pa Car & Home Cleaner-OZKA HOME](https://www.ozkahome.com/products/120w-handheld-vacuum-cleaner-home-car): 120W Wired Handheld Vacuum: 12000Pa Car & Home Cleaner-OZKA HOME
-  Updated: 2026-10-14T10:25:10Z
+- [120W Handheld Vacuum | 12,000Pa Car & Home](https://www.ozkahome.com/products/120w-handheld-vacuum-cleaner-home-car): 120W wired handheld vacuum with 12,000Pa suction for convenient car and home cleaning. A compact corded option for everyday cleanup.
+  Updated: 2026-10-30T07:42:16Z
   Vendor: OZKA HOME
   Product Type: Home Appliances
   Availability: Available
@@ -1258,7 +1258,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9132f679-963b-4e5a-9e3f-128ba549427d.jpg?v=1782542931
     Price: $71.99 USD
 - [Portable Electric Espresso Machine – Cordless Self-Heating](https://www.ozkahome.com/products/portable-electric-espresso-machine-cordless-car-camping): Brew fresh espresso anywhere with this cordless, self-heating portable coffee maker. Compatible with ground coffee & NS/DG capsules. Perfect for car, camping & office.
-  Updated: 2026-10-24T04:06:15Z
+  Updated: 2026-10-30T02:05:45Z
   Vendor: OZKA HOME
   Product Type: 3D Sleep Mask
   Availability: Available
@@ -1324,28 +1324,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/884ba26d-f441-426b-8cb6-500b40b2564c.jpg?v=1782596649
     Price: $14.46 USD
-- [Kids Velvet Non-Slip Hangers Pack of 10 | Slim 360° Swivel – OZKA HOME](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10): Space-saving children's velvet hangers with 360° swivel hooks. Slim, durable & non-slip. Pack of 10 in Beige, Gray, Pink & White. Perfect for kids' wardrobes.
-  Updated: 2026-10-19T18:43:23Z
-  Vendor: OZKA HOME
-  Product Type: Hangers & Hooks
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seb3207140b4945d5b1907e82a9a080255.webp?v=1782638579
-  - [Beige](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796193463)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S42a72521be4545e49d3269d80e1f30ddL.webp?v=1782638580
-    Price: $22.50 USD
-  - [Gray](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796226231)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S694affccada246a285c27742f1145649s.webp?v=1782638580
-    Price: $22.98 USD
-  - [Pink](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796258999)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S86ae7ec274c54a89aa45a6e8c1e0d78a4.webp?v=1782638580
-    Price: $22.44 USD
-  - [White](https://www.ozkahome.com/products/childrens-velvet-non-slip-hangers-pack-of-10?variant=48763796291767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Seb3207140b4945d5b1907e82a9a080255.webp?v=1782638579
-    Price: $22.50 USD
 - [2-Tier Slide-Out Under Sink Cabinet Organizer & Shelf | OZKA HOME](https://www.ozkahome.com/products/2-tier-slide-out-under-sink-cabinet-organizer): Organize under your sink with a 2-tier slide-out metal cabinet organizer. Durable, multi-purpose storage shelf in Black & White. Easy to install.
   Updated: 2026-10-19T18:44:21Z
   Vendor: OZKA HOME
@@ -1486,8 +1464,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S38340bd79c084a05bef9259284323ad9G.webp?v=1782969314
     Price: $15.38 USD
-- [Non-Stick Air Fryer Parchment Paper Liners | Round & Square | 50/100/200 Pack | OZKA HOME](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square): Keep your air fryer basket clean with these FDA  non-stick parchment paper liners. Available in round and square, 50 to 200 piece packs. Heat resistant to 230 degrees.
-  Updated: 2026-10-19T18:43:32Z
+- [Air Fryer Parchment Liners | Round & Square](https://www.ozkahome.com/products/non-stick-air-fryer-parchment-paper-liners-round-square): Keep your air fryer basket clean with these FDA  non-stick parchment paper liners. Available in round and square, 50 to 200 piece packs. Heat resistant to 230 degrees.
+  Updated: 2026-10-30T07:13:15Z
   Vendor: OZKA HOME
   Product Type: Kitchen Accessories
   Availability: Available
@@ -1659,13 +1637,13 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2b60756be2f84b018ada7b241eefcacci.webp?v=1783323700
     Price: $25.14 USD
-- [Stainless Steel Julienne Peeler & Grater | 2-in-1 Vegetable Slicer | OZKA HOME](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater-vegetable-slicer): 2-in-1 stainless steel julienne peeler and grater for potatoes, cucumbers, carrots & more. Sharp, durable, dishwasher safe. 18x5.5cm.
-  Updated: 2026-10-19T18:44:16Z
+- [2-in-1 Julienne Peeler & Grater | Stainless Steel](https://www.ozkahome.com/products/stainless-steel-julienne-peeler-grater-vegetable-slicer): 2-in-1 stainless steel julienne peeler and grater for potatoes, cucumbers, carrots & more. Sharp, durable, dishwasher safe. 18x5.5cm.
+  Updated: 2026-11-03T11:58:31Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S66ee0339932b4808b349e599d1a370a8z.webp?v=1783332044
-  Price: $2.28 USD
+  Price: $12.28 USD
 - [USB Mug Warmer | 3-Temp Electric Coffee Cup Heater | OZKA HOME](https://www.ozkahome.com/products/usb-mug-warmer-electric-coffee-cup-heater): Keep coffee, tea & milk warm with this USB mug warmer. 3 temperature settings, waterproof design, lightweight. Perfect for office or home use.
   Updated: 2026-10-19T18:43:38Z
   Vendor: OZKA HOME
@@ -1702,8 +1680,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S1c6d2b35024749bbad01fd8908255d8ax.webp?v=1783338910
     Price: $53.78 USD
-- [Ultrasonic Aroma Diffuser & Essential Oil | USB Aromatherapy Machine | OZKA HOME](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil): USB rechargeable ultrasonic aroma diffuser with 5 fragrance modes & colorful LED. Covers 60m². Choose diffuser machine or essential oil scent.
-  Updated: 2026-10-19T18:43:57Z
+- [Ultrasonic Aroma Diffuser | USB Rechargeable](https://www.ozkahome.com/products/ultrasonic-aroma-diffuser-essential-oil): USB rechargeable ultrasonic aroma diffuser with five fragrance modes and colorful LED lighting. Covers up to 60m²; choose the diffuser or essential oil scent.
+  Updated: 2026-10-30T07:42:18Z
   Vendor: OZKA HOME
   Product Type: Home Fragrance
   Availability: Available
@@ -1814,7 +1792,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S231ca615023c46f3b33a8d3ede6a6929v.webp?v=1783493222
     Price: $48.58 USD
 - [Silicone Sink Drainer Mat — Anti-Slip Faucet Splash Guard | OZKA HOME](https://www.ozkahome.com/products/silicone-sink-drainer-mat-anti-slip-faucet-splash-guard): Food-grade silicone sink drainer mat with self-draining design. Anti-slip, reusable, easy to clean. Available in 35x8cm and 55x8cm. Black & Gray.
-  Updated: 2026-10-14T10:28:10Z
+  Updated: 2026-10-30T04:12:10Z
   Vendor: OZKA HOME
   Product Type: Kitchen Accessories
   Availability: Available
@@ -1929,8 +1907,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S194bafd70ec1443fb038716cacb450043.webp?v=1783674274
     Price: $9.38 USD
-- [Stainless Steel Oil Filter Pot 2L – Fine Mesh Strainer & Storage Tank | OZKA HOME](https://www.ozkahome.com/products/2l-stainless-steel-oil-filter-pot-with-fine-mesh-filter-oil-storage-tank-frying-basket): Keep your kitchen oil clean & fresh with this 2L SS304 stainless steel oil filter pot. Heat-resistant, rust-proof, easy to clean. Perfect for frying & storage.
-  Updated: 2026-10-26T12:05:50Z
+- [2L Stainless Steel Oil Filter Pot | Fine Mesh](https://www.ozkahome.com/products/2l-stainless-steel-oil-filter-pot-with-fine-mesh-filter-oil-storage-tank-frying-basket): Keep your kitchen oil clean & fresh with this 2L SS304 stainless steel oil filter pot. Heat-resistant, rust-proof, easy to clean. Perfect for frying & storage.
+  Updated: 2026-10-30T07:13:19Z
   Vendor: OZKA HOME
   Product Type: Kitchen & Cooking
   Availability: Available
@@ -2029,7 +2007,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/61b4148b-8123-42cf-ae23-8d36a491a0e8_trans.jpg?v=1783775763
     Price: $102.59 USD
 - [Baby Musical Plush Toy - Interactive Fruit Piano](https://www.ozkahome.com/products/baby-musical-plush-toy-fruit-sensing-beat-piano): Explore creativity with our Baby Musical Plush Toy, featuring touch-activated tunes and vibrant fruit designs. Perfect for fun and learning!
-  Updated: 2026-10-14T10:26:30Z
+  Updated: 2026-11-02T02:05:58Z
   Vendor: OZKA HOME
   Product Type: Baby Toys
   Availability: Available
@@ -2140,20 +2118,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sfca2aa4a72b44013ba4723fcc44e16fai.webp?v=1784051505
   Price: $10.04 USD
-- [Flour Sieve with Capacity Scale – 40 Mesh Semi-Automatic Baking Sifter | OZKA HOME](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter): Effortlessly sift flour for cakes & baking with this 40-mesh semi-automatic flour sieve. Food-grade PP & stainless steel, built-in capacity scale. Easy to use.
-  Updated: 2026-10-19T18:44:21Z
-  Vendor: OZKA HOME
-  Product Type: Baking Tools
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S5102ae6030424b949fec6699230926e8p.webp?v=1784055646
-  - [1pc](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter?variant=48876792610999)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8bbbeb91ac214af3bd890b20dee575aaQ.webp?v=1784055646
-    Price: $31.70 USD
-  - [1PC](https://www.ozkahome.com/products/flour-sieve-40-mesh-semi-automatic-baking-sifter?variant=48876792643767)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S8aa3a90329504edda3ca80a19b9bf5ddz.webp?v=1784055646
-    Price: $10.38 USD
 - [Plush Octopus Dog Toy – Interactive Squeaky Chew Toy | OZKA HOME](https://www.ozkahome.com/products/plush-octopus-dog-toy-interactive-squeaky): Keep your dog entertained with this durable plush octopus squeaky toy. Anti-demolition denim fabric design, perfect for small and large dogs. Great for boredom relief.
   Updated: 2026-10-19T18:01:43Z
   Vendor: OZKA HOME
@@ -2298,13 +2262,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sb09b7ea905d14e6da89433f693c05babG.webp?v=1784275224
   Price: $9.38 USD
-- [Portable Electric Vacuum Pump for Storage Bags | OZKA HOME](https://www.ozkahome.com/products/portable-electric-vacuum-pump): Rechargeable wireless electric vacuum pump for storage bags. 25W, USB-C charging, compact & lightweight. Perfect for travel & home. Shop OZKA HOME.
-  Updated: 2026-10-24T22:09:31Z
-  Vendor: OZKA HOME
-  Product Type: Vacuum Pump
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S909d911564ff4a648b027c9613cb8c7bT.webp?v=1784275761
-  Price: $31.18 USD
 - [SADOER Coconut Face Mask 5pcs – Hydrating & Firming Skincare](https://www.ozkahome.com/products/sadoer-coconut-face-mask-5pcs): SADOER Coconut Face Mask 5-pack deeply hydrates, firms, and nourishes skin. Moisturizing sheet mask for all skin types. Gentle & effective.
   Updated: 2026-10-19T18:44:17Z
   Vendor: OZKA HOME
@@ -2350,7 +2307,7 @@
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/9573c840-1546-4cc8-9238-ff5f47da838e_trans.jpg?v=1784317730
     Price: $83.58 USD
 - [Rotating Vegetable Grater & Spiral Peeler | Manual Kitchen Tool](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler): Manual rotating vegetable grater and spiral peeler with stainless steel blade. Perfect for potatoes, carrots, and radishes. Compact, easy to use, and quick to clean.
-  Updated: 2026-10-19T18:44:08Z
+  Updated: 2026-11-03T11:58:12Z
   Vendor: OZKA HOME
   Product Type: Kitchen Tools
   Availability: Available
@@ -2358,129 +2315,132 @@
   - [Red](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler?variant=48897120403639)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/S2dcf92f3b9ae4ee1aa0505d8aa2328a29.webp?v=1784319644
-    Price: $4.90 USD
+    Price: $14.90 USD
   - [green](https://www.ozkahome.com/products/rotating-vegetable-grater-spiral-peeler?variant=48897120436407)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0751/6789/1639/files/Sed366a1451034c32b63cf65f2d5eb418u.webp?v=1784319644
     Price: $5.18 USD
-[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc0OTUzMzYzNjM5LCJsYXN0X3ZhbHVlIjoiODY3NDk1MzM2MzYzOSJ9)
+[List Continued](https://www.ozkahome.com/a/llms-agent/llms.txt?shop=1z6nep-ky.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njc0OTUzMzYzNjM5LCJsYXN0X3ZhbHVlIjoiMjAyNi0wNy0xNyAyMDoyMDo0MC4wMDAwMDAifQ%3D%3D)
 
 ## Collections
 
 - [Kitchen Essentials](https://www.ozkahome.com/collections/kitchen-essentials): Kitchen Essentials-OZKA HOME
-  Updated: 2026-10-26T13:43:56Z
-  Total Products: 158
+  Updated: 2026-11-03T21:19:40Z
+  Total Products: 168
 - [Home Decor](https://www.ozkahome.com/collections/home-decor): Home Decor-OZKA HOME
-  Updated: 2026-10-25T11:18:54Z
-  Total Products: 98
+  Updated: 2026-11-03T20:07:29Z
+  Total Products: 105
 - [Storage & Organization](https://www.ozkahome.com/collections/storage-organization): Storage & Organization-OZKA HOME
-  Updated: 2026-10-23T10:35:39Z
-  Total Products: 68
+  Updated: 2026-11-03T12:05:22Z
+  Total Products: 74
 - [Bathroom Essentials](https://www.ozkahome.com/collections/bathroom-essentials-1): Bathroom Essentials-OZKA HOME
-  Updated: 2026-10-25T16:29:11Z
-  Total Products: 33
+  Updated: 2026-11-03T12:05:25Z
+  Total Products: 41
 - [Outdoor Living](https://www.ozkahome.com/collections/outdoor-living): Outdoor Living-OZKA HOME
-  Updated: 2026-10-22T11:09:54Z
-  Total Products: 23
+  Updated: 2026-11-03T13:24:51Z
+  Total Products: 24
 - [Fitness & Wellness](https://www.ozkahome.com/collections/fitness-wellness): Fitness & Wellness-OZKA HOME
-  Updated: 2026-10-19T18:45:28Z
-  Total Products: 7
+  Updated: 2026-10-30T21:27:36Z
+  Total Products: 9
 - [Home Appliances](https://www.ozkahome.com/collections/home-appliances): Home Appliances-OZKA HOME
-  Updated: 2026-10-19T18:50:14Z
-  Total Products: 55
+  Updated: 2026-11-03T11:56:33Z
+  Total Products: 59
 - [Cleaning Appliances](https://www.ozkahome.com/collections/cleaning-appliances): Cleaning Appliances-OZKA HOME
-  Updated: 2026-10-19T18:50:14Z
-  Total Products: 18
+  Updated: 2026-10-30T21:27:39Z
+  Total Products: 19
 - [Personal Care Appliances](https://www.ozkahome.com/collections/personal-care-appliances): Personal Care Appliances-OZKA HOME
-  Updated: 2026-10-19T18:50:01Z
+  Updated: 2026-10-27T11:41:54Z
   Total Products: 13
 - [Home Improvement](https://www.ozkahome.com/collections/home-improvement): Home Improvement-OZKA HOME
-  Updated: 2026-10-23T18:14:42Z
-  Total Products: 68
+  Updated: 2026-11-03T12:05:26Z
+  Total Products: 80
 - [New Arrivals](https://www.ozkahome.com/collections/new-arrivals): New Arrivals-OZKA HOME
-  Updated: 2026-10-25T11:18:54Z
-  Total Products: 287
+  Updated: 2026-11-03T21:19:41Z
+  Total Products: 334
 - [Furniture](https://www.ozkahome.com/collections/furniture): Furniture-OZKA HOME
-  Updated: 2026-10-20T11:46:24Z
+  Updated: 2026-10-27T11:41:55Z
   Total Products: 8
 - [Automotive Accessories](https://www.ozkahome.com/collections/automotive-accessories): Automotive Accessories-OZKA HOME
-  Updated: 2026-10-22T11:09:54Z
-  Total Products: 17
+  Updated: 2026-11-03T13:42:15Z
+  Total Products: 23
 - [Pet Supplies](https://www.ozkahome.com/collections/pet-supplies): Pet Supplies-OZKA HOME
-  Updated: 2026-10-23T23:01:31Z
+  Updated: 2026-11-03T12:05:27Z
   Total Products: 49
 - [Lighting](https://www.ozkahome.com/collections/lighting): Lighting-OZKA HOME
-  Updated: 2026-10-19T18:50:07Z
-  Total Products: 16
+  Updated: 2026-11-03T20:07:29Z
+  Total Products: 23
 - [Garden Decor](https://www.ozkahome.com/collections/garden-decor): Garden Decor-OZKA HOME
-  Updated: 2026-10-19T18:49:54Z
-  Total Products: 7
+  Updated: 2026-11-01T10:59:26Z
+  Total Products: 8
 - [All Products](https://www.ozkahome.com/collections/all-products): All Products-OZKA HOME
-  Updated: 2026-10-26T13:43:56Z
-  Total Products: 700
+  Updated: 2026-11-03T21:28:39Z
+  Total Products: 726
 - [Beauty & Skincare](https://www.ozkahome.com/collections/beauty-skincare): Beauty & Skincare-OZKA HOME
-  Updated: 2026-10-19T18:49:58Z
-  Total Products: 18
+  Updated: 2026-11-03T12:05:27Z
+  Total Products: 20
 - [Hair Care](https://www.ozkahome.com/collections/hair-care): Hair Care-OZKA HOME
-  Updated: 2026-10-19T18:42:57Z
-  Total Products: 2
+  Updated: 2026-11-02T08:41:38Z
+  Total Products: 3
 - [Sleep & Relaxation](https://www.ozkahome.com/collections/sleep-relaxation): Sleep & Relaxation-OZKA HOME
-  Updated: 2026-10-19T18:45:44Z
-  Total Products: 12
-- [Car Accessories](https://www.ozkahome.com/collections/car-accessories): Car Accessories-OZKA HOME
-  Updated: 2026-10-19T18:50:04Z
-  Total Products: 27
-- [Best Sellers](https://www.ozkahome.com/collections/best-sellers): Best Sellers-OZKA HOME
-  Updated: 2026-10-19T18:49:32Z
-  Total Products: 21
-- [Under $25](https://www.ozkahome.com/collections/under-25): Under $25-OZKA HOME
-  Updated: 2026-10-26T10:12:07Z
-  Total Products: 277
-- [Smart Accessories](https://www.ozkahome.com/collections/smart-accessories): Smart Accessories-OZKA HOME
-  Updated: 2026-10-19T18:47:21Z
+  Updated: 2026-11-03T12:57:24Z
   Total Products: 13
+- [Car Accessories](https://www.ozkahome.com/collections/car-accessories): Car Accessories-OZKA HOME
+  Updated: 2026-11-03T13:42:15Z
+  Total Products: 31
+- [Best Sellers](https://www.ozkahome.com/collections/best-sellers): Best Sellers-OZKA HOME
+  Updated: 2026-11-03T11:58:13Z
+  Total Products: 22
+- [Under $25](https://www.ozkahome.com/collections/under-25): Under $25-OZKA HOME
+  Updated: 2026-11-03T13:42:15Z
+  Total Products: 282
+- [Smart Accessories](https://www.ozkahome.com/collections/smart-accessories): Smart Accessories-OZKA HOME
+  Updated: 2026-11-03T11:59:32Z
+  Total Products: 12
 - [Power Tools & Accessories](https://www.ozkahome.com/collections/power-tools-accessories): Power Tools & Accessories-OZKA HOME
-  Updated: 2026-10-20T06:35:00Z
-  Total Products: 19
+  Updated: 2026-11-03T12:05:26Z
+  Total Products: 20
 - [Bath & Towels](https://www.ozkahome.com/collections/bath-towels): Bath & Towels-OZKA HOME
-  Updated: 2026-10-19T18:47:25Z
+  Updated: 2026-11-03T11:58:15Z
   Total Products: 6
 - [Outdoor & Beach](https://www.ozkahome.com/collections/outdoor-beach): Outdoor & Beach-OZKA HOME
-  Updated: 2026-10-19T18:50:00Z
-  Total Products: 21
+  Updated: 2026-11-03T12:05:27Z
+  Total Products: 22
 - [Baby & Kids Toys](https://www.ozkahome.com/collections/baby-kids-toys): Baby & Kids Toys-OZKA HOME
-  Updated: 2026-10-20T10:01:24Z
+  Updated: 2026-10-27T11:41:55Z
   Total Products: 18
 - [Bags & Luggage](https://www.ozkahome.com/collections/bags-luggage): Bags & Luggage-OZKA HOME
-  Updated: 2026-10-23T22:41:11Z
-  Total Products: 34
+  Updated: 2026-11-03T12:05:27Z
+  Total Products: 32
 - [School & Office Supplies](https://www.ozkahome.com/collections/school-office-supplies): School & Office Supplies-OZKA HOME
-  Updated: 2026-10-19T18:50:09Z
+  Updated: 2026-10-27T11:41:56Z
   Total Products: 9
 - [Shop The Look Featured Collection](https://www.ozkahome.com/collections/shop-the-look-featured-collection): Shop The Look Featured Collection-OZKA HOME
-  Updated: 2026-10-19T18:48:51Z
+  Updated: 2026-11-03T13:24:52Z
   Total Products: 2
 - [Halloween](https://www.ozkahome.com/collections/halloween): Halloween-OZKA HOME
-  Updated: 2026-10-26T10:12:07Z
+  Updated: 2026-10-27T11:41:56Z
   Total Products: 27
 - [Winter Essentials](https://www.ozkahome.com/collections/winter-essentials): Winter Essentials-OZKA HOME
-  Updated: 2026-10-19T18:48:37Z
+  Updated: 2026-10-27T11:41:56Z
   Total Products: 4
 - [Kitchen Storage & Organization](https://www.ozkahome.com/collections/kitchen-storage-organization): Kitchen Storage & Organization-OZKA HOME
-  Updated: 2026-10-26T13:43:56Z
-  Total Products: 13
+  Updated: 2026-11-03T12:17:44Z
+  Total Products: 19
 - [Bathroom Storage & Organization](https://www.ozkahome.com/collections/bathroom-storage-organization): Bathroom Storage & Organization-OZKA HOME
-  Updated: 2026-10-25T14:26:57Z
-  Total Products: 8
+  Updated: 2026-11-03T12:01:29Z
+  Total Products: 12
 - [Recommended Products (Wiz Email)](https://www.ozkahome.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-10-27T00:06:17Z
-  Total Products: 606
+  Updated: 2026-11-03T23:09:09Z
+  Total Products: 647
 - [Black Friday Deals – Unmissable Savings on Home Essentials](https://www.ozkahome.com/collections/black-friday-deals): Shop our Black Friday deals on selected home and everyday essentials.
-  Updated: 2026-10-19T18:49:18Z
+  Updated: 2026-10-27T11:41:56Z
   Total Products: 12
 - [Musical Instruments & Accessories](https://www.ozkahome.com/collections/musical-instruments-accessories): Shop musical instruments and accessories at OZKA HOME. Discover piano benches, keyboard accessories, and practical essentials for your music space.
-  Updated: 2026-10-25T11:29:49Z
+  Updated: 2026-10-27T11:41:56Z
   Total Products: 1
+- [Christmas & Holiday Home](https://www.ozkahome.com/collections/christmas-holiday-home): Celebrate the magic of the holiday season with OZKA HOME. Discover festive home decorations, cozy seasonal essentials, Christmas kitchen accessories, and thoughtful gift ideas to make every moment special.
+  Updated: 2026-11-01T17:29:06Z
+  Total Products: 0
 
 ## Blogs
 
@@ -2993,6 +2953,50 @@
     Updated: 2026-10-26T11:07:21Z
     Author: OZKA HOME
     Tags:  cosplay, cosplay accessories, electric web shooter, Halloween costume accessories, wrist mounted prop
+  - [Black Farmhouse Ceiling Light Styling Guide | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/black-farmhouse-ceiling-light-styling-guide): Black Farmhouse Ceiling Light Styling Guide | OZKA HOME
+    Updated: 2026-10-27T20:24:31Z
+    Author: KAGAN GENC
+    Tags: Black Light Fixtures, Ceiling Lights, Farmhouse Lighting, Home Decor, Lighting Ideas
+  - [Flat Mop and Bucket Set Guide: JOYBOS | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/joybos-flat-mop-and-bucket-set-guide): Flat Mop and Bucket Set Guide: JOYBOS | OZKA HOME
+    Updated: 2026-10-28T06:32:56Z
+    Author: KAGAN GENC
+    Tags: Buying Guide, Cleaning Tips, Flat Mop and Bucket Set, Floor Cleaning, JOYBOS, Microfiber Mop
+  - [Slim Storage Cabinet for Small Spaces | OZKA HOME Guide](https://www.ozkahome.com/blogs/ozka-home-blog/slim-storage-cabinet-small-space-organization): Slim Storage Cabinet for Small Spaces | OZKA HOME Guide
+    Updated: 2026-10-28T14:13:46Z
+    Author: KAGAN GENC
+    Tags: Bathroom Organization, Slim Storage Cabinet, Small Space Storage, Storage & Organization
+  - [Slim Bathroom Storage Cabinet for Narrow Bathroom Spaces](https://www.ozkahome.com/blogs/ozka-home-blog/slim-bathroom-storage-cabinet-narrow-spaces): Slim Bathroom Storage Cabinet for Narrow Bathroom Spaces
+    Updated: 2026-10-29T07:29:42Z
+    Author: KAGAN GENC
+    Tags: Bathroom Organization, Bathroom Storage, Slim Storage Cabinet, Small Space Storage, Storage & Organization
+  - [Matte Black Wall Sconce with White Glass Shade | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/matte-black-wall-sconce-white-glass-shade): Matte Black Wall Sconce with White Glass Shade | OZKA HOME
+    Updated: 2026-10-29T10:44:59Z
+    Author: KAGAN GENC
+    Tags: bathroom wall light, home lighting guide, matte black wall sconce, wall light fixture, wall sconce
+  - [4-Section Lemon & Lime Wedger Slicer for Bars and Homes](https://www.ozkahome.com/blogs/ozka-home-blog/lemon-lime-wedger-guide): 4-Section Lemon & Lime Wedger Slicer for Bars and Homes
+    Updated: 2026-10-29T11:07:13Z
+    Author: KAGAN GENC
+    Tags: bar accessories, citrus prep, fruit slicer, kitchen tools, lemon wedger, lime slicer
+  - [How to Choose a 6-Quart Dutch Oven](https://www.ozkahome.com/blogs/ozka-home-blog/how-to-choose-6-quart-dutch-oven-everyday-cooking): How to Choose a 6-Quart Dutch Oven
+    Updated: 2026-10-29T12:15:07Z
+    Author: OZKA HOME
+    Tags: 6 quart dutch oven, cast iron cookware, dutch oven, enameled cast iron, kitchen essentials
+  - [XL Hanging Laundry Hamper with Hooks | OZKA HOME](https://www.ozkahome.com/blogs/ozka-home-blog/xl-hanging-laundry-hamper)
+    Updated: 2026-10-30T04:32:15Z
+    Author: KAGAN GENC
+    Tags: XL hanging laundry hamper
+  - [Oversized Flat Washers: How to Choose Metric Sizes](https://www.ozkahome.com/blogs/ozka-home-blog/how-to-choose-oversized-flat-washers-metric-fasteners): Oversized Flat Washers: How to Choose Metric Sizes
+    Updated: 2026-10-30T20:16:59Z
+    Author: OZKA HOME
+    Tags: 304 stainless steel washers, fastener selection, M2.5 to M16 washers, metalworking hardware, metric flat washers, oversized flat washers
+  - [Multi-Code Garage Door Remote: Compatibility Guide](https://www.ozkahome.com/blogs/ozka-home-blog/choose-compatible-multi-code-garage-door-remote): Multi-Code Garage Door Remote: Compatibility Guide
+    Updated: 2026-10-30T21:04:18Z
+    Author: OZKA HOME
+    Tags: 10 DIP switch, garage door remote, garage opener compatibility, gate opener remote, Multi-Code remote
+  - [1:16 RC Drift Car: Features, Driving Ideas & Buying Tips](https://www.ozkahome.com/blogs/ozka-home-blog/1-16-rc-drift-car-features-buying-tips): A practical guide to choosing and enjoying a 1:16 scale RC drift car, with LED lights, electric power, and buying tips from OZKA HOME.
+    Updated: 2026-11-03T13:47:05Z
+    Author: OZKA HOME
+    Tags: RC Car Buying Guide, RC Drift Car, Remote Control Cars, Toy Vehicles
 - [OZKA HOME Blog](https://www.ozkahome.com/blogs/ozka-home-blog-1)
   - [How to Choose a 15-Piece Knife Block Set for a More Organized Kitchen](https://www.ozkahome.com/blogs/ozka-home-blog-1/choose-15-piece-knife-block-set-kitchen): <p>Upgrade your everyday food prep with a coordinated 15-piece knife block set. Discover practical kitchen organization tips, what to look for in a knife set, and the Kuisine set available at OZKA HOME.</p>
     Updated: 2026-10-26T13:59:38Z
