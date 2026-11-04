@@ -6,7 +6,7 @@
 - Timezone: Europe/Prague
 - Created At: 2023-05-17T10:22:34Z
 - Contact Email: eyezsayitall1@gmail.com
-- Updated At: 2026-10-28T00:52:27.682Z
+- Updated At: 2026-11-04T01:01:46.651Z
 
 ## Products
 
@@ -1093,7 +1093,7 @@
 ## Policies
 
 - [Privacy Policy](https://natural-emeralds.com/policies/privacy-policy)
-  Updated: 2025-02-22T18:53:46Z
+  Updated: 2026-10-29T16:45:20Z
 - [Shipping Policy](https://natural-emeralds.com/policies/shipping-policy)
   Updated: 2025-02-22T18:54:47Z
 - [Refund Policy](https://natural-emeralds.com/policies/refund-policy)
