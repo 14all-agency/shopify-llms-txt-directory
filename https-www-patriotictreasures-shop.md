@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-07T16:07:44Z
 - Contact Email: wedoitpropertycare@yahoo.com
-- Updated At: 2026-10-27T00:59:52.774Z
+- Updated At: 2026-11-04T01:01:05.871Z
 
 ## Products
 
@@ -1376,7 +1376,7 @@
   Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/228d1b3ea124b8909e4fc45f26a3d72b9770f6c680e507c0faf33ce004172d94.png?v=1790391144
   Price: $19.99 USD
 - [Small Natural Agate Slice - Patriotictreasures](https://www.patriotictreasures.shop/products/small-natural-agate-slice): Bring the natural beauty of this Small Natural Agate Slice into your home, featuring beautiful banding and unique organic patterns. Agate slices are cut perpendicular to the stone's natural banding, revealing the intricate layers and one-of-a-kind patterns hidden within. As one of the world's most abundant yet uniquely beautiful gemstones. Because these are natural stones, each slice will vary in color, pattern, shape, and size. Approximately 3.75" – 4.75" Each Agate Slice is Unique - Patriotictreasures
-  Updated: 2026-10-11T11:56:52Z
+  Updated: 2026-11-02T21:58:27Z
   Vendor: Patriotictreasures
   Product Type: 
   Availability: Available
@@ -1390,7 +1390,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/2PremiereAgateSliceSM.Studio.1.jpg?v=1791719799
     Price: $14.99 USD
   - [#3](https://www.patriotictreasures.shop/products/small-natural-agate-slice?variant=67631056486499)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/3PremiereAgateSliceSM.Studio.1.jpg?v=1791719805
     Price: $14.99 USD
   - [#4](https://www.patriotictreasures.shop/products/small-natural-agate-slice?variant=67631056519267)
@@ -1410,7 +1410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/7PremiereAgateSliceSM.Studio.1.jpg?v=1790988239
     Price: $14.99 USD
 - [USA 250th Anniversary Baseball Jersey – Patriotic Statue of Liberty 1776–2026 Semiquincentennial Unisex Shirt - Patriotictreasures](https://www.patriotictreasures.shop/products/usa-250th-anniversary-baseball-jersey-patriotic-statue-of-liberty-1776-2026-semiquincentennial-unisex-shirt): 🗽 Celebrate 250 Years of Freedom. Honor the Legacy. Mark a historic milestone in American history with the USA 250th Anniversary Baseball Jersey. Celebrating the 1776–2026 Semiquincentennial, this exclusive patriotic jersey features a stunning, detailed Statue of Liberty print that perfectly captures the enduring spirit of liberty and independence. Whether you're attending a massive 4th of July parade, hosting a family backyard barbecue, or looking for the ultimate Independence Day outfit, this jersey lets you wear your American pride loud and proud. Designed for patriots who want to honor two and a half centuries of freedom, this unisex shirt blends timeless athletic style with a momentous historical celebration. It’s not just apparel—it’s a collectible piece of American history you can wear. Key Features: Our custom-made baseball jerseys are crafted to the highest quality standards, ensuring exceptional softness and breathability. We use sustainable fabrics for printing, so you can be confident that your jersey won’t shrink, flake, peel, or crack. The colors are vibrant and long-lasting, and the thread line comes in black or white only. As each item is custom-printed, cut, and sewn to order, there may be slight variations in design on the seams and arms, making each jersey a unique piece. ✅ Why You’ll Love It: Because a historic milestone this big only happens once in a lifetime—showcase your pride for 250 years of American freedom. ✅ Grab Yours Now: Be part of the historic celebration! Secure your USA 250th Anniversary Baseball Jersey today and honor the America Semiquincentennial in unforgettable style. - Patriotictreasures
-  Updated: 2026-10-23T02:55:54Z
+  Updated: 2026-10-28T09:38:06Z
   Vendor: Pasimax
   Product Type: Jerseys
   Availability: Available
@@ -1434,7 +1434,7 @@
     Availability: Available
     Price: $45.50 USD
 - [America 250th Anniversary Baseball Jersey – USA 1776–2026 Semiquincentennial Patriotic Shirt - Patriotictreasures](https://www.patriotictreasures.shop/products/america-250th-anniversary-baseball-jersey-usa-1776-2026-semiquincentennial-patriotic-shirt): 🇺🇸 250 Years of Freedom. Wear the History. Celebrate a monumental milestone in American history with our exclusive America 250th Anniversary Baseball Jersey. Commemorating the journey from 1776 to 2026, this patriotic jersey is the ultimate way to honor the Semiquincentennial. Featuring a classic, bold design that captures the spirit of the USA, it’s the perfect attire for Independence Day parades, community gatherings, or any event where you want to display your deep love for the nation. Designed for patriots of all ages, this unisex USA jersey blends high-performance athletic aesthetics with historical significance. It’s not just a shirt—it’s a testament to 250 years of resilience, growth, and liberty. Whether you’re searching for the perfect 4th of July gift or adding a centerpiece to your own collection, this jersey is built for those who honor the past and look toward the future. Key Features: Our custom-made baseball jerseys are crafted to the highest quality standards, ensuring exceptional softness and breathability. We use sustainable fabrics for printing, so you can be confident that your jersey won’t shrink, flake, peel, or crack. The colors are vibrant and long-lasting, and the thread line comes in black or white only. As each item is custom-printed, cut, and sewn to order, there may be slight variations in design on the seams and arms, making each jersey a unique piece. ✅ Why You’ll Love It: Because this historic 250th Anniversary only happens once—celebrate in a style as timeless as the nation itself. ✅ Grab Yours Now: Don't miss out on this historic limited-edition release. Secure your America 250th Anniversary Baseball Jersey and celebrate the 1776–2026 legacy in style. - Patriotictreasures
-  Updated: 2026-10-23T02:55:57Z
+  Updated: 2026-10-28T09:38:11Z
   Vendor: Pasimax
   Product Type: Jerseys
   Availability: Available
@@ -1512,7 +1512,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/2_df5e8c88-568a-4a7c-825c-532756f06b1c.png?v=1791241876
     Price: $45.50 USD
 - [USA 250th Anniversary Tank Top – Patriotic Commemorative Graphic Tee, Classic Fit Summer Apparel for Men - Patriotictreasures](https://www.patriotictreasures.shop/products/usa-250th-anniversary-tank-top-patriotic-commemorative-graphic-tee-classic-fit-summer-apparel-for-men): 🇺🇸✨ Celebrate 250 Years of History. Mark the historic milestone of American independence with the USA 250th Anniversary Tank Top. This isn't just summer wear—it’s a tribute to 250 years of freedom, strength, and legacy. Whether you're heading to a 4th of July celebration, a local parade, or a casual backyard BBQ, this tank top ensures you’re dressed for the occasion with timeless patriotic style. Crafted with the latest breakthrough in soft cotton technology, this garment offers an ultra-soft, lived-in feel from the moment you put it on. With its classic fit and durable construction, it is designed to be a reliable staple in your wardrobe for years to come. 🧵 Key Features: Premium U.S. Cotton: Crafted from 6 oz./yd² (100% cotton) for superior quality and durability. Remastered Comfort: Features the latest soft cotton technology for a feel you can see and feel. Classic Fit & Construction: Designed with a bound neck and armholes for a clean, sturdy silhouette. Eco-Conscious Manufacturing: Proud member of the U.S. Cotton Trust Protocol and made with OEKO-TEX  low-impact dyes. Convenience & Durability: Includes a tear away label and is proudly manufactured in the United States. Note: Please allow for a 1-2 inch difference in manual measurements. Print size and color may vary slightly due to monitor and lighting effects. ✅ Why You’ll Love It: Because history is best celebrated with quality that lasts as long as the nation’s legacy. ✅ Grab Yours Now: Commemorate the quarter-millennium in style with the USA 250th Anniversary Tank Top — where heritage meets modern comfort. - Patriotictreasures
-  Updated: 2026-10-23T02:55:57Z
+  Updated: 2026-10-28T09:38:10Z
   Vendor: Pasimax
   Product Type: Tank Top
   Availability: Available
@@ -1590,7 +1590,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/3_829b9b6b-e612-4944-9085-0f7dd55b9b73.jpg?v=1791940959
     Price: $40.50 USD
 - ["Stars and Stripes and Human Rights" T-Shirt – America 250th Anniversary Social Justice Patriotic Graphic Tee - Patriotictreasures](https://www.patriotictreasures.shop/products/stars-and-stripes-and-human-rights-t-shirt-america-250th-anniversary-social-justice-patriotic-graphic-tee): The Anthem of Progressive Liberty – A Tribute to 250 Years of History, Endless Evolution, and Unapologetic Social Justice 🇺🇸🗽✊🏽🏳️🌈🔥 Let’s be completely honest: celebrating the United States turning 250 years old demands a look that honors the core promises of freedom, equality, and the continuous fight for a more perfect union. Our "Stars and Stripes and Human Rights" Semiquincentennial Graphic Tee takes America’s monumental landmark anniversary and frames it through a powerful, high-visibility lens of modern social justice. Fusing an iconic star-spangled design with a bold, uncompromising message about our ongoing pursuit of human dignity, this premium unisex shirt is built for the expressive advocate who has officially retired from "boring, plain everyday basics" and is ready to sport their principles with absolute confidence. Whether you're engaging in a community holiday forum, attending an intersectional Independence Day rally, or styling a meaningful, head-turning streetwear outfit for a casual weekend city link-up, this shirt ensures your deep-rooted commitment to equality is perfectly on brand. This piece is essential Progressive Patriotic Apparel & Commedic Advocacy Wear, providing a structured fit and remastered softness that easily handles hot July afternoons, intense community organization, and endless trips through the laundry. It stands as a legendary, high-quality 250th Anniversary Gift for Activists, Unique 4th of July Social Justice Present, Human Rights Advocate Statement Clothing Piece, or Conscious Freedom Day Uniform, a distinct addition to your graphic drawer that proves the fight for true equality is beautifully permanent. 🧵 Key Features: Premium Quality: 5.3 oz./yd² (US) / 8.8 oz./L yd (CA) midweight fabric. Remastered Comfort: Made with 100% U.S. cotton and the latest breakthrough in soft cotton technology for a quality you can see and feel. Material Blends: Heather, Neon, and Safety colors are 50/50 cotton/polyester; Antique colors are 90/10; Ash Grey is 99/1. High-Visibility Safety: Safety Green is compliant with ANSI / ISEA 107 high-visibility standards. Durable Construction: Features a classic fit with a rib collar and taped neck/shoulders for lasting comfort and durability. Seamless Finish: Includes a convenient tear-away label for an irritation-free experience. Advanced Printing: Remastered for improved printability using high-quality DTG or DTF technology depending on location. Made in the USA: Proudly manufactured in the United States. Note: Manual measurement may exist a 1-2 inch difference. Note: Actual print color and size may vary slightly due to monitor effects and geographic size. ✅ Why You’ll Love It: It features a High-Resolution Distressed American Flag Motif & Modern Clean Typography Layout and a Remastered Midweight Texture, making it a durable, breathable, and essential piece of Aesthetic Advocacy Streetwear Fashion. - Patriotictreasures
-  Updated: 2026-10-23T02:55:59Z
+  Updated: 2026-10-28T09:38:14Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -1716,7 +1716,7 @@
     Image: https://cdn.shopify.com/s/files/1/0684/3085/6291/files/65412ddecd2e4ae68db765b9c56f8ba8_tplv-fhlh96nyum-crop-webp_3000_3000.webp?v=1791241878
     Price: $30.50 USD
 - [Kindergarten Graduation T-Shirt – "Look Out 1st Grade Here I Come" Kids Last Day Of School Graphic Tee - Patriotictreasures](https://www.patriotictreasures.shop/products/kindergarten-graduation-t-shirt-look-out-1st-grade-here-i-come-kids-last-day-of-school-graphic-tee): Next Stop: First Grade! – A Tribute to Big Milestones and Playground Legends 🎓🎒✏️ The ABCs are mastered, the juice boxes have been cleared, and the class of 2026 is officially moving on to bigger and better things. Our "Look Out 1st Grade Here I Come" Kids Graduation Tee is a bright, high-energy monument to your little scholar's very first academic milestone. Featuring a playful, colorful typographic layout styled with a vibrant mix of schoolhouse elements, this unisex kids' shirt is for the little graduate who has officially retired from "the finger-painting era" and is ready to take on the elementary big leagues in style. Whether they're walking across the stage at their kindergarten graduation ceremony, flashing a toothless grin for the classic "Last Day of School" driveway photoshoot, or celebrating with ice cream alongside proud grandparents, this shirt ensures their milestone moment is perfectly on brand. This piece is essential Kindergarten Graduation Apparel & Last Day of School Fashion, providing a structured fit and remastered softness that keeps up with recess running, summer camp adventures, and endless trips through the laundry. It makes a legendary, high-quality Gift for Kindergarten Graduates, Proud Sons, Daughters, and Grandchildren, a standout addition to their milestone memory box, or a personal statement piece that proves they are officially ready for the first-grade spotlight. 🧵 Key Features: Premium Quality: 5.3 oz./yd² (US) / 8.8 oz./L yd (CA) midweight fabric. Remastered Comfort: Made with 100% U.S. cotton and the latest breakthrough in soft cotton technology for a quality you can see and feel. Material Blends: Heather, Neon, and Safety colors are 50/50 cotton/polyester; Antique colors are 90/10; Ash Grey is 99/1. High-Visibility Safety: Safety Green is compliant with ANSI / ISEA 107 high-visibility standards. Durable Construction: Features a classic fit with a rib collar and taped neck/shoulders for lasting comfort and durability. Seamless Finish: Includes a convenient tear-away label for an irritation-free experience. Advanced Printing: Remastered for improved printability using high-quality DTG or DTF technology depending on location. Made in the USA: Proudly manufactured in the United States. Note: Manual measurement may exist a 1-2 inch difference. Note: Actual print color and size may vary slightly due to monitor effects and garment size. ✅ Why You’ll Love It: It features a High-Resolution Playful Elementary Typography Layout and a Remastered Midweight Texture, making it a durable, breathable, and essential piece of Aesthetic Childhood Milestone Fashion. - Patriotictreasures
-  Updated: 2026-10-23T02:55:57Z
+  Updated: 2026-10-28T09:38:08Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -1872,7 +1872,7 @@
     Availability: Available
     Price: $22.50 USD
 - [Spicy Brain Skull T-Shirt – Funny Neurospicy Mental Health Graphic Tee, Vintage Washed Edgy Skeleton Lightweight Cotton Meme Top - Patriotictreasures](https://www.patriotictreasures.shop/products/spicy-brain-skull-t-shirt-funny-neurospicy-mental-health-graphic-tee-vintage-washed-edgy-skeleton-lightweight-cotton-meme-top): 🧠🌶️ "Too many tabs open. Brain operating at maximum spice level." Own your mental chaos with pride in the "Spicy Brain" Skull Vintage Washed Tee. Serving up the perfect blend of dark humor and relatable internet culture, this shirt is a salute to everyone navigating life with a hyperactive, beautifully unconventional mind. Whether you're fueling an overnight hyperfixation, heading to a casual hangout, or just need a funny warning label for your mood, this tee says it all so you don't have to. The centerpiece features a high-impact 2D graphic design of a retro skull with glowing neon-spicy brain pathways exposed, surrounded by gritty, vaporwave-inspired or Y2K-style accent lines. The entire print is purposefully distressed to blend seamlessly with the premium vintage wash finish, giving the fabric a smoky, mineral-faded, "heritage-worn" texture. This specialized washing process ensures your tee looks like a prized rock band grail straight out of the thrift store, while delivering an ultra-soft, lived-in feel from day one. Crafted from breathable, lightweight cotton, this tee provides a premium, relaxed fit. Its structured but loose silhouette pairs flawlessly with ripped jeans, oversized zip-up hoodies, or utility cargo pants for a classic grunge look. It’s not broken—it’s just spicy. Wear it with pride. 🧵 Key Features: 9 Vibrant Color Options: Available in 9 rich and trendy colors, allowing you to choose the perfect shade for any style or occasion. Stylish 2D Design: Features a modern 2D graphic design, perfect for fashion-forward individuals who want a unique, artistic look. Breathable and Lightweight: The cotton blend fabric is breathable, lightweight, and ideal for year-round wear, keeping you cool in warmer weather and comfortable during layering in cooler months. Versatile and Easy to Style: A classic t-shirt that pairs well with jeans, shorts, skirts, or jackets, making it a versatile piece for any wardrobe. Great for Everyday Wear: The comfortable and stylish design makes this t-shirt perfect for daily use, casual outings, or even relaxed office days. Note: Please allow for a 1-2 inch difference in manual measurements. Print size and color may vary slightly. ✅ Why You’ll Love It: Because awareness apparel doesn't have to be boring. This graphic flips standard mental health relatability into a genuinely cool piece of alternative street fashion. The premium acid-wash finish perfectly complements the edgy skeleton aesthetic, giving you a boutique-level statement piece that is both funny and undeniably stylish. ✅ Grab Yours Now: Keep your thoughts running in style. Secure your "Spicy Brain" Skull Washed Tee and rock your unique vibe today! - Patriotictreasures
-  Updated: 2026-10-23T02:55:58Z
+  Updated: 2026-10-28T09:38:12Z
   Vendor: Pasimax
   Product Type: T-Shirt
   Availability: Available
@@ -2082,15 +2082,15 @@
 - [Elevate Your Gifting Experience with Our Rotating Rose Gift Box](https://www.patriotictreasures.shop/collections/rotating-rose-gift-box): Discover our Rotating Rose Gift Box collection, where elegance meets enchantment. Perfect for any occasion, create unforgettable memories with every gift.
   Updated: 2026-10-03T02:20:50Z
   Total Products: 2
-- [Discover Patriotic Apparel](https://www.patriotictreasures.shop/collections/patriotic-apparel-1): Shop patriotic apparel and American pride clothing. T-shirts, hats, and more for proud Americans.
-  Updated: 2026-10-23T23:48:06Z
-  Total Products: 246
+- [Patriotic Apparel & Clothing](https://www.patriotictreasures.shop/collections/patriotic-apparel-1): Shop patriotic clothing and American pride T-shirts featuring flag graphics, military-inspired designs, and freedom-focused messages at Patriotictreasures.
+  Updated: 2026-11-01T01:42:20Z
+  Total Products: 247
 - [Military Pride](https://www.patriotictreasures.shop/collections/military-pride): Shop Military Pride products honoring U.S. Armed Forces veterans and active duty. Gifts, apparel, and more.
   Updated: 2026-10-18T01:24:55Z
   Total Products: 1
 - [First Responders](https://www.patriotictreasures.shop/collections/first-responders): Shop patriotic gifts and gear for police officers, firefighters, EMTs, and first responders. Show your support and gratitude.
-  Updated: 2026-10-18T01:33:45Z
-  Total Products: 0
+  Updated: 2026-11-01T01:54:50Z
+  Total Products: 1
 - [Faith & Freedom](https://www.patriotictreasures.shop/collections/faith-freedom): Shop faith-inspired and freedom-themed patriotic gifts, apparel, and décor celebrating God and country. Perfect for Christians who love America.
   Updated: 2026-10-18T01:26:58Z
   Total Products: 3
@@ -2107,14 +2107,14 @@
   Updated: 2026-10-23T23:38:12Z
   Total Products: 37
 - [Decals](https://www.patriotictreasures.shop/collections/decals): - Patriotictreasures
-  Updated: 2026-10-18T01:22:47Z
-  Total Products: 70
+  Updated: 2026-11-01T01:03:20Z
+  Total Products: 71
 - [2nd Amendment](https://www.patriotictreasures.shop/collections/2a): - Patriotictreasures
   Updated: 2026-10-23T23:30:30Z
   Total Products: 74
 - [GENX](https://www.patriotictreasures.shop/collections/genx): All GENX products
-  Updated: 2026-10-27T00:59:49Z
-  Total Products: 6
+  Updated: 2026-11-01T01:16:56Z
+  Total Products: 12
 
 ## Blogs
 
@@ -2165,6 +2165,18 @@
     Updated: 2026-10-26T06:02:45Z
     Author: Patriotictreasures
     Tags: best gifts for sisters, gifts, interlocking hearts, jewelry, meaningful sister necklaces, necklaces, sister gift, timeless jewelry
+  - [The Deep Meaning of 'To My Beautiful Wife: A  Filled with Love'](https://www.patriotictreasures.shop/blogs/news/the-deep-meaning-of-to-my-beautiful-wife-a--filled-with-love): The Deep Meaning of 'To My Beautiful Wife: A  Filled with Love'
+    Updated: 2026-10-30T06:00:42Z
+    Author: Patriotictreasures
+    Tags: anniversary gift for wife, beautiful wife, heartfelt gift, love, love letter meanings, meaning, romantic gesture, 
+  - [The Ultimate Guide to Gifting Your Mom a Meaningful Interlocking Hearts Necklace](https://www.patriotictreasures.shop/blogs/news/the-ultimate-guide-to-gifting-your-mom-a-meaningful-interlocking-hearts-necklace): The Ultimate Guide to Gifting Your Mom a Meaningful Interlocking Hearts Necklace
+    Updated: 2026-11-01T06:01:52Z
+    Author: Patriotictreasures
+    Tags: gift, heartfelt jewelry for moms, interlocking hearts, jewelry, meaningful gifts, mom necklace, necklace, unique gift ideas
+  - [Discover the Timeless Elegance and Meaning Behind the Squeezed Love Knot Necklace Gift for Your Sister](https://www.patriotictreasures.shop/blogs/news/discover-the-timeless-elegance-and-meaning-behind-the-squeezed-love-knot-necklace-gift-for-your-sister): Discover the Timeless Elegance and Meaning Behind the Squeezed Love Knot Necklace Gift for Your Sister
+    Updated: 2026-11-02T06:03:34Z
+    Author: Patriotictreasures
+    Tags: elegance, gift, love knot, meaningful presents for sister, necklace, personalized jewelry gifts, sister jewelry, timeless design
 
 ## Store Pages
 
@@ -2180,7 +2192,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.patriotictreasures.shop/policies/privacy-policy)
-  Updated: 2026-09-07T16:07:49Z
+  Updated: 2026-10-31T03:17:26Z
 - [Shipping Policy](https://www.patriotictreasures.shop/policies/shipping-policy)
   Updated: 2026-09-08T19:05:49Z
 - [Refund Policy](https://www.patriotictreasures.shop/policies/refund-policy)
