@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-10-27T01:34:50.753Z
+- Updated At: 2026-11-04T01:27:43.446Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-10-12T02:33:46Z
+  Updated: 2026-11-03T04:49:25Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/mckk-incense-front.jpg?v=1766459217
   Price: ￥2,970.00 JPY
 - [オリジナルショッパー](https://mckkjp.com/products/shopper): サイズ： 高さ200mm×横幅250mm×マチ90mm オリジナルショッパー（紙袋） です。 贈り物でお渡しする際にご利用ください。
-  Updated: 2026-10-10T00:14:52Z
+  Updated: 2026-11-01T02:05:05Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/a8fcc40905c16fb5f9549a87774ce229.jpg?v=1764573108
   Price: ￥10,000.00 JPY
 - [【メンバー限定】淡路島の職人が手仕事で仕上げたお香_1種類](https://mckkjp.com/products/incense_one): お香3種をご購入済みのお客様へ購入ボタンが表示されない場合は、ご購入時のメールアドレスでログインしてから、このページをもう一度お開きください。 購入時のメールアドレスでログインする はじめての方は、3種のお香（安息・活力・集中）をご覧ください。 【こちらはお香3種をご購入いただいたメンバーさま専用商品となります】 安息・活力・集中よりお好きな香りのみが25本入りとなります。 毎日のルーティンとして、お気に入りの『聞香』を続けられます。お気に入りの香りで自分をブランディングすることも可能です。 毎週末の朝に同じ『聞香』で始まる大切な時間。自分の好きな香りを聞くことで、忙しさから解放されたり、無理しなくて良い時間を体験したり・・・ お部屋のフレグランスとして、自分らしさを楽しんだり、お好きな香で自分というブランドを作れます。
-  Updated: 2026-10-16T13:38:45Z
+  Updated: 2026-11-01T02:05:05Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お香
   Availability: Available
@@ -76,7 +76,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/2026-05-2015.02.17_2d919ab6-e575-4b8f-a360-23f73dc6f557.png?v=1779256965
   Price: ￥0.00 JPY
 - [【期間限定販売】まどか｜MCKK 1st Anniversary ブレンド煎茶](https://mckkjp.com/products/madoka): 茶審査技術最高位・十段の平岡佑太氏が、MCKK1周年のために仕立てた限定ブレンド煎茶「まどか」。富士山麓で育った静岡茶二品種を重ね、煎茶らしいわずかな渋みと、やわらかな甘い余韻に仕上げました。気軽に楽しめるティーバッグ7包入り。期間限定販売です。
-  Updated: 2026-10-26T23:54:02Z
+  Updated: 2026-11-03T04:49:26Z
   Vendor: MCKK｜エムシーケーケー
   Product Type: お茶
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-10-17T11:17:18Z
+  Updated: 2026-11-03T12:12:07Z
   Total Products: 7
 
 ## Blogs
@@ -214,34 +214,34 @@
     Updated: 2026-10-23T00:11:52Z
     Author: 勇輝中町
     Tags: コーポレートギフト
-  - [香りを贈るという選択。相手に喜ばれるお香ギフトの選び方](https://mckkjp.com/blogs/magazine/香りを贈るという選択-相手に喜ばれるお香ギフトの選び方)
-    Updated: 2026-10-23T00:14:52Z
+  - [香りを贈るという選択。相手に喜ばれるお香ギフトの選び方](https://mckkjp.com/blogs/magazine/how-to-choose-incense-gifts)
+    Updated: 2026-10-27T02:34:14Z
     Author: 勇輝中町
-  - [香りの正体を知る。お香に使われる天然香木の基礎知識](https://mckkjp.com/blogs/magazine/香りの正体を知る-お香に使われる天然香木の基礎知識)
-    Updated: 2026-10-09T02:07:02Z
+  - [香りの正体を知る。お香に使われる天然香木の基礎知識](https://mckkjp.com/blogs/magazine/natural-fragrant-wood-guide)
+    Updated: 2026-10-27T02:34:54Z
     Author: 勇輝中町
-  - [素材で変わる、煙と時間の楽しみ方](https://mckkjp.com/blogs/magazine/素材で変わる-煙と時間の楽しみ方)
-    Updated: 2026-10-09T02:07:17Z
+  - [素材で変わる、煙と時間の楽しみ方](https://mckkjp.com/blogs/magazine/incense-holder-materials)
+    Updated: 2026-10-27T02:34:48Z
     Author: 勇輝中町
-  - [玄関・リビング・水まわり。場所別、香りの置き方](https://mckkjp.com/blogs/magazine/玄関-リビング-水まわり-場所別-香りの置き方)
-    Updated: 2026-10-09T02:07:41Z
+  - [玄関・リビング・水まわり。場所別、香りの置き方](https://mckkjp.com/blogs/magazine/fragrance-placement-by-room)
+    Updated: 2026-10-27T02:34:43Z
     Author: 勇輝中町
-  - [捨てられるはずだった米ぬかから。酒蔵生まれのハンドウォッシュができるまで](https://mckkjp.com/blogs/magazine/捨てられるはずだった米ぬかから-酒蔵生まれのハンドウォッシュができるまで)
-    Updated: 2026-10-09T02:07:58Z
+  - [捨てられるはずだった米ぬかから。酒蔵生まれのハンドウォッシュができるまで](https://mckkjp.com/blogs/magazine/rice-bran-hand-wash-story)
+    Updated: 2026-10-27T02:34:38Z
     Author: 勇輝中町
-  - [デジタルギフトが主流になっても、「モノ」のギフトが選ばれる理由](https://mckkjp.com/blogs/magazine/デジタルギフトが主流になっても-モノ-のギフトが選ばれる理由)
-    Updated: 2026-10-23T00:14:29Z
+  - [デジタルギフトが主流になっても、「モノ」のギフトが選ばれる理由](https://mckkjp.com/blogs/magazine/physical-gifts-in-digital-age)
+    Updated: 2026-10-27T02:34:27Z
     Author: 勇輝中町
-  - [気を遣わせない、それでいて記憶に残る。取引先へのお礼ギフト選び](https://mckkjp.com/blogs/magazine/気を遣わせない-それでいて記憶に残る-取引先へのお礼ギフト選び)
-    Updated: 2026-10-23T00:13:05Z
-    Author: 勇輝中町
-    Tags: コーポレートギフト
-  - [毎年同じにならない。会社として贈るお中元・お歳暮の新定番](https://mckkjp.com/blogs/magazine/毎年同じにならない-会社として贈るお中元-お歳暮の新定番)
-    Updated: 2026-10-23T00:41:44Z
+  - [気を遣わせない、それでいて記憶に残る。取引先へのお礼ギフト選び](https://mckkjp.com/blogs/magazine/thank-you-gifts-business-partners)
+    Updated: 2026-10-27T02:34:33Z
     Author: 勇輝中町
     Tags: コーポレートギフト
-  - [開業祝い・栄転祝いにお香を贈る意味](https://mckkjp.com/blogs/magazine/開業祝い-栄転祝いにお香を贈る意味)
-    Updated: 2026-10-23T00:42:38Z
+  - [毎年同じにならない。会社として贈るお中元・お歳暮の新定番](https://mckkjp.com/blogs/magazine/corporate-seasonal-gifts)
+    Updated: 2026-10-27T02:34:03Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [開業祝い・栄転祝いにお香を贈る意味](https://mckkjp.com/blogs/magazine/incense-gift-business-opening-)
+    Updated: 2026-10-27T02:33:33Z
     Author: 勇輝中町
     Tags: コーポレートギフト
 
