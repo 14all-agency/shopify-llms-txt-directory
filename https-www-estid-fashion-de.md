@@ -6,26 +6,26 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-08-07T15:06:26Z
 - Contact Email: estidfashion@gmail.com
-- Updated At: 2026-10-27T01:06:23.225Z
+- Updated At: 2026-11-04T00:52:38.731Z
 
 ## Products
 
 - [Perlen Ohrhänger Damen kaufen | Kristall & Silber Schmuck | ESTID](https://www.estid-fashion.de/products/perlen-ohrhaenger-silber): Elegante Perlen-Ohrhänger mit Baguette-Kristallen & Süßwasserperlen. Rhodiniertes Sterlingsilber. Kostenloser Versand in Deutschland. Jetzt kaufen!
-  Updated: 2026-08-29T06:41:56Z
+  Updated: 2026-10-30T10:04:26Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242258245937950720_d8619b49-3709-4539-a1bf-22273c13c88d.webp?v=1782160406
   Price: 81,03 € EUR
 - [Edelstein Halskette Damen kaufen | Vergoldet Boho Schmuck | ESTID](https://www.estid-fashion.de/products/edelstein-halskette-gold): Mystische Edelstein-Halskette aus vergoldetem Messing mit Heilkristallen. Boho-Stil für moderne Frauen. Kostenloser Versand in Deutschland. Jetzt bestellen!
-  Updated: 2026-08-29T06:41:57Z
+  Updated: 2026-10-30T10:06:34Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/264818961888260096.webp?v=1782160385
   Price: 74,40 € EUR
 - [Perlmutt Anhänger Kette Damen kaufen | Lapislazuli & Gold | ESTID](https://www.estid-fashion.de/products/perlmutt-anhaenger-kette-gold): Perlmutt & Lapislazuli Anhänger-Halskette, 18K vergoldet, verstellbar. Spiritueller Schmuck für Damen. Kostenloser Versand in Deutschland. Jetzt kaufen!
-  Updated: 2026-08-29T06:41:57Z
+  Updated: 2026-10-30T10:06:35Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -39,28 +39,28 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/267709592008060928.webp?v=1782160471
   Price: 65,39 € EUR
 - [Perlen Tropfen Ohrringe Damen kaufen | Gold & Kristall | ESTID](https://www.estid-fashion.de/products/perlen-tropfen-ohrringe-gold): Barocke Perlen-Tropfen-Ohrringe mit Kristallakzenten & umweltfreundlicher Goldplattierung. Eleganter Damenschmuck. Kostenloser Versand in Deutschland. Jetzt kaufen!
-  Updated: 2026-09-01T20:20:11Z
+  Updated: 2026-10-30T10:05:02Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242199508082651136_62517419-1db8-4930-bbeb-82ec45991b75.webp?v=1782160423
   Price: 45,52 € EUR
 - [Lattice Luxe Creolen | 14K Vergoldete Ohrringe | ESTID](https://www.estid-fashion.de/products/goldgitter-creolen-gold): Geometrische Flechtwerk-Creolen aus 14K Gold mit Kristallen. Architektonisches Design für jede Gelegenheit. Free shipping in Germany
-  Updated: 2026-08-29T06:41:59Z
+  Updated: 2026-10-30T10:04:35Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/273950600391479296_556b23d3-7032-4be6-9900-ba4d3e80bc09.webp?v=1782160502
   Price: 44,03 € EUR
 - [Himmlische Perlen-Ohrhänger | Abalone-Muschel Gold | ESTID](https://www.estid-fashion.de/products/perlen-ohrhaenger-gold-abalone): Vintage-inspirierte Ohrhänger mit schimmernder Abalone-Muschel und Barockperlen. Vergoldetes Öko-Messing mit Kristallakzenten für anspruchsvolle Eleganz. Free shipping in Germany
-  Updated: 2026-08-29T06:42:00Z
+  Updated: 2026-10-30T09:44:21Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/273950377388724224_0620a3f3-9396-461f-9fc5-657cfc187fd0.webp?v=1782160447
   Price: 69,00 € EUR
 - [Dualität Balance Kette | Schwarzer Quarz & Barock-Perle | ESTID](https://www.estid-fashion.de/products/mondlicht-layering-kette-silber): Yin-Yang-Balance: Doppelsträngige Kette mit schwarzem facettiertem Quarz, weißen Perlen und barocker Mittelperlé. Rhodiniertes Sterlingsilber. Free shipping in Germany
-  Updated: 2026-08-29T06:42:01Z
+  Updated: 2026-10-30T10:05:03Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -74,7 +74,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242430372926353408_ecb5ce3c-ce90-4b9f-9f9f-1fd9f9817fb7.webp?v=1782158409
   Price: 74,40 € EUR
 - [Mystische Klee-Halskette | Abalone-Muschelanhänger | ESTID](https://www.estid-fashion.de/products/kleeblatt-kette-gold): Entdecken Sie mystische Energie mit dieser Vierpass-Abalone-Muschelhalskette aus goldfarbenем Edelstahl. Perfekt für spirituelles Wohlbefinden und tägliche Glücksmanifestation! Free shipping in Germany
-  Updated: 2026-08-29T06:42:02Z
+  Updated: 2026-10-30T10:06:33Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -88,35 +88,35 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/269786315090558976.webp?v=1789971088
   Price: 57,51 € EUR
 - [Himmlische Orb-Kreuz-Halskette | Weißvergoldet | ESTID](https://www.estid-fashion.de/products/kreuzkette-damen-weissgold-statement): Setzen Sie ein Statement mit diesem architektonischen Orb- & Kreuzanhänger aus weißvergoldetem Öko-Messing. Mit Zirkonia-Steinen. Kanalisieren Sie himmlische Energie und göttliche Kraft. Free shipping in Germany
-  Updated: 2026-09-24T10:53:47Z
+  Updated: 2026-10-30T09:43:56Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242371200679571456.webp?v=1782158526
   Price: 57,42 € EUR
 - [Goldenes Medaillon-Halskette | Emaille & Zirkonia Anhänger | ESTID](https://www.estid-fashion.de/products/medaillon-kette-gold-emaille): Verleihen Sie Ihrem Stil das gewisse Etwas mit dieser vintage-inspirierten vergoldeten Medaillon-Halskette, weißem Emaille und funkelndem Zirkonia. Verstellbare Kette. Free shipping in Germany
-  Updated: 2026-08-29T06:42:04Z
+  Updated: 2026-10-30T09:43:46Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/274180511243034624.webp?v=1782158496
   Price: 52,52 € EUR
 - [Heiliger Glanz Halskette | Weißgold Kreuzanhänger | ESTID](https://www.estid-fashion.de/products/kreuzkette-weissgold-layering-perlen): Barocke Kreuzhalskette, weißgold beschichtet mit Zirkonia und Perlen. Göttliche feminine Energie, ornamentale himmlische Details. Verstellbare Kette für vielseitiges Styling. Free shipping in Germany
-  Updated: 2026-08-29T06:42:05Z
+  Updated: 2026-10-30T09:43:54Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242264016004214784.webp?v=1782158569
   Price: 60,34 € EUR
 - [Luxuriöse Quasten-Layering | Perle & Gold Statement-Halskette | ESTID](https://www.estid-fashion.de/products/perlen-lariat-kette-gold): Süßwasserperlen treffen auf eine kühne vergoldete Kette in dieser Statement-Quastenhalskette. Sanfte Boss-Energie mit Öko-Messing. Perfektionieren Sie Ihren Layering-Look für jeden Anlass. Free shipping in Germany
-  Updated: 2026-08-29T06:42:05Z
+  Updated: 2026-10-30T10:06:40Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/245850025954537472.webp?v=1782158595
   Price: 70,00 € EUR
 - [Gotische Rosen-Kreuz-Halskette | Alternative Schmuck | ESTID](https://www.estid-fashion.de/products/gothic-kreuzkette-rose-kordel): Entdecken Sie Ihre dunkle romantische Seite mit diesem Dornkreuz- und Rosenanhänger. Langlebige Öko-Zinklegierung trifft auf gotische Eleganz. Free shipping in Germany
-  Updated: 2026-08-29T06:42:07Z
+  Updated: 2026-10-30T06:58:36Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -130,7 +130,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/264818004869722112_36a52f36-708c-4b1c-aad7-eef80d286eb6.webp?v=1782158673
   Price: 80,35 € EUR
 - [Himmelsorbita-Halskette | Perlmutt & Gold | ESTID](https://www.estid-fashion.de/products/perlmutt-medaillon-kette-gold): Kosmische Energie kanalisieren — handgravierter Orbital-Anhänger mit schimmerndem Perlmutt, Smaragdakzenten, nachhaltigem 18K vergoldetem Öko-Messing für mystischen Stil. Free shipping in Germany
-  Updated: 2026-08-29T06:42:08Z
+  Updated: 2026-10-30T10:04:25Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/273950788292104192.webp?v=1782158759
   Price: 48,14 € EUR
 - [Vintage Blüten Ohrstecker | Tigerauge Gold Ohrringe | ESTID](https://www.estid-fashion.de/products/tigerauge-ohrstecker-gold): Verkörpern Sie Old-Money-Eleganz mit kunstvollen Gold-Ohrsteckern und erdenden Tigerauge-Steinen. Vintage-Blumendesign für einen gehobenen Stil. Free shipping in Germany
-  Updated: 2026-08-29T06:42:10Z
+  Updated: 2026-10-30T09:43:43Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -200,21 +200,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/274180415304962048.webp?v=1782158948
   Price: 43,77 € EUR
 - [Talisman Auge Ohrringe | Perlmutt Tropfen | ESTID](https://www.estid-fashion.de/products/tropfen-ohrringe-gold-perlmutt): Vintage-inspirierte Perlmutt-Tropfenohrringe mit schützender Mystik. Vergoldetes Messing, Cognac-Edelstein und Kristallhalo. Bereichern Sie Ihre Talisman-Kollektion! Free shipping in Germany
-  Updated: 2026-08-29T06:42:13Z
+  Updated: 2026-10-30T09:43:41Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242390144721047552_794c97c2-b76d-469d-adf3-e2a4a73fd5ba.webp?v=1782159003
   Price: 113,30 € EUR
 - [Azurblaue Flut Ohrringe | Lapislazuli & Perlen-Tropfen | ESTID](https://www.estid-fashion.de/products/tropfen-ohrringe-gold-lapislazuli): Verfeinern Sie Ihren Look mit himmlischen Lapislazuli- und Perlmutt-Ohrringen. Vergoldetes Öko-Messing verkörpert Weisheit und Wärme. Free shipping in Germany
-  Updated: 2026-08-29T06:42:14Z
+  Updated: 2026-10-30T09:44:22Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/274179735727050752.webp?v=1782159020
   Price: 75,77 € EUR
 - [Empress Oktagon-Ohrstecker | Vergoldete Geometrische Ohrringe | ESTID](https://www.estid-fashion.de/products/ohrstecker-gold-oktagon-burgund): Verfeinern Sie Ihren Stil mit atemberaubenden vergoldeten oktagonalen Ohrsteckern mit sattem burgunderrotem Liuli und funkelndem Zirkonia. Perfekt für ein selbstbewusstes Statement. Free shipping in Germany
-  Updated: 2026-08-29T06:42:14Z
+  Updated: 2026-10-30T06:59:29Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/274328522117390336.webp?v=1782159052
   Price: 53,57 € EUR
 - [Sonnenring Tigerauge Ohrstecker | 18K Gold Ohrringe | ESTID](https://www.estid-fashion.de/products/ohrstecker-gold-tigerauge-halo): Strahlen Sie königliche Energie aus mit gehämmerten Goldsteckern mit echtem Tigerauge und jadegrünem Liuli. Umweltbewusstes Handwerk trifft auf uralte Schutzenergie. Free shipping in Germany
-  Updated: 2026-08-29T06:42:15Z
+  Updated: 2026-10-30T09:43:40Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -242,7 +242,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242391454635741184_a45b742a-2ffb-42f1-9d19-eb7191b267d9.webp?v=1782159154
   Price: 68,22 € EUR
 - [Spektrum-Twist-Creolen | Emaille Statement-Ohrringe | ESTID](https://www.estid-fashion.de/products/creolen-gold-emaille-statement): Skulpturale vergoldete Creolen mit handbemalten Emaille-Streifen. Architektonisches geometrisches Design, nachhaltiges Öko-Messing für einen kühnen künstlerischen Stil. Free shipping in Germany
-  Updated: 2026-10-16T18:26:32Z
+  Updated: 2026-10-30T09:43:30Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -256,14 +256,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242390720760672256.webp?v=1782159098
   Price: 65,85 € EUR
 - [Byzantinische Mosaik-Ohrstecker | Mehrfarbige Zirkonia-Ohrringe | ESTID](https://www.estid-fashion.de/products/ohrstecker-gold-mosaik-zirkonia): Setzen Sie ein Statement mit byzantinisch inspirierten Kuppel-Ohrsteckern mit Regenbogen-Zirkonia in vergoldetem Öko-Messing. Perfekt für Hochzeiten, Galas und besondere Momente. Free shipping in Germany
-  Updated: 2026-08-29T06:42:17Z
+  Updated: 2026-10-30T10:05:04Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/269786016726712320.webp?v=1782159178
   Price: 74,99 € EUR
 - [Karmesinrote Blüten Ring | Roter Zirkonia Cocktail Statement | ESTID](https://www.estid-fashion.de/products/statement-ring-gold-rot-blueten): Ausdrucksstarker floraler Cocktailring mit rubinroten Zirkonia-Blütenblättern aus 18K vergoldetem Öko-Messing. Unaufhaltsame Selbstbewusstseinenergie. Unvergesslicher Statement-Schmuck. Free shipping in Germany
-  Updated: 2026-08-29T06:42:18Z
+  Updated: 2026-10-30T10:04:13Z
   Vendor: ESTID Fashion
   Product Type: Ringe
   Availability: Available
@@ -291,14 +291,14 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/264817918161686528.webp?v=1782159241
   Price: 36,71 € EUR
 - [Coral Dream Ring | Statement-Ring mit Perle & Gold | ESTID](https://www.estid-fashion.de/products/golden-tide-pearl-ring-7094): Coral Dream Ring—14K vergoldetes Öko-Messing mit leuchtender Süßwasserperle. Breites Statement-Stück bringt organische Eleganz zu jedem Anlass. Free shipping in Germany
-  Updated: 2026-08-29T06:42:20Z
+  Updated: 2026-10-30T09:43:42Z
   Vendor: ESTID Fashion
   Product Type: Ringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/269886073234784256.webp?v=1782159299
   Price: 27,98 € EUR
 - [Goldenes Perlenarmband | Drahtgewickeltes Perlenarmband | ESTID](https://www.estid-fashion.de/products/pearl-garden-bracelet-9156): Handgefertigtes drahtgewickeltes Süßwasserperlenarmband, 14K vergoldetes Öko-Messing, 8-9mm Perlen mit nährender Energie. Verstellbar vom Yoga zur Galerie—Handwerkseleganz. Free shipping in Germany
-  Updated: 2026-08-29T06:42:20Z
+  Updated: 2026-10-30T10:06:39Z
   Vendor: ESTID Fashion
   Product Type: Armbänder
   Availability: Available
@@ -312,7 +312,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/280779409508921344.webp?v=1782159347
   Price: 46,00 € EUR
 - [Perlenarmband | 14K Vergoldeter Süßwasserschmuck | ESTID](https://www.estid-fashion.de/products/golden-pearl-chain-bracelet-9092): Verschönern Sie Ihr Handgelenk mit einem Süßwasser-Perlenarmband in 14K Vergoldung. Verstellbar, aufwendiges Filigran, feminine Energie. Free shipping in Germany
-  Updated: 2026-08-29T06:42:21Z
+  Updated: 2026-10-30T09:43:47Z
   Vendor: ESTID Fashion
   Product Type: Armbänder
   Availability: Available
@@ -333,7 +333,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242248521850974208.webp?v=1782159501
   Price: 65,00 € EUR
 - [Lavendel Serenity Wrap | Rosenquarz & Perlen Armband | ESTID](https://www.estid-fashion.de/products/armband-gold-rosenquarz-rosa): Heilendes Rosenquarz- & Achat-Wickelarmband mit Süßwasserperlen & 18K Gold Vermeil. Ihr tägliches Ritual für emotionales Wohlbefinden & Schutz. Free shipping in Germany
-  Updated: 2026-08-29T06:42:22Z
+  Updated: 2026-10-30T10:04:36Z
   Vendor: ESTID Fashion
   Product Type: Armbänder
   Availability: Available
@@ -354,21 +354,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/273951577882415104.webp?v=1782159634
   Price: 107,99 € EUR
 - [Byzantinische Perlen-Creolen | 24K Goldvermeil Ohrringe | ESTID](https://www.estid-fashion.de/products/creolen-gold-perlentropfen): Strukturierte 24K Goldvermeil-Creolen mit Süßwasserperlen in barocken quadratischen Fassungen. Handgefertigte Statement-Ohrringe für jeden Anlass. Free shipping in Germany
-  Updated: 2026-10-08T18:00:11Z
+  Updated: 2026-10-30T09:43:45Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242389373451456512.webp?v=1782159598
   Price: 221,69 € EUR
 - [Barock Perlen Ohrhänger | 18K Gold Vermeil | ESTID](https://www.estid-fashion.de/products/perlen-ohrhaenger-gold-barock): Verfeinern Sie Ihren Stil mit gedrehtem 18K Gold Vermeil und Barock-Perlen-Anhängern. Architektonische Eleganz trifft natürlichen Luxus. Perfekt für anspruchsvollen Glamour! Free shipping in Germany
-  Updated: 2026-08-29T06:42:25Z
+  Updated: 2026-10-30T10:06:42Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242248995824103424_a1a9d8c6-c1ef-4570-a654-97d6a99d3484.webp?v=1782159736
   Price: 94,16 € EUR
 - [Mitternacht Tropfen-Ohrringe | Vergoldeter Achat Schmuck | ESTID](https://www.estid-fashion.de/products/tropfen-ohrringe-gold-schwarz): Verleihen Sie Ihrem Stil mit diesen atemberaubenden 18K vergoldeten Tropfen-Ohrringen mit schwarzen Achatsteinen eine besondere Note. Perfekt für anspruchsvollen Alltagsluxus und besondere Anlässe. Free shipping in Germany
-  Updated: 2026-10-16T01:30:35Z
+  Updated: 2026-10-30T10:05:01Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -396,7 +396,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/269786445025902592.webp?v=1782159826
   Price: 180,00 € EUR
 - [Diamant-Halo-Ohrstecker | Rosa Moissanit Silber Ohrringe | ESTID](https://www.estid-fashion.de/products/ohrstecker-gold-moissanit-halo): Geometrische Sterlingsilber-Ohrstecker mit rosa Moissanit und Kristall-Halo. VVS1-Reinheit für alltägliche Eleganz und selbstbewusste Queen-Energie. Free shipping in Germany
-  Updated: 2026-09-28T12:20:30Z
+  Updated: 2026-10-30T06:58:35Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
@@ -410,28 +410,28 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242101126569611264.webp?v=1782160221
   Price: 320,00 € EUR
 - [Denim Kreuz Halskette | Weißgold Beschichtete Kette | ESTID](https://www.estid-fashion.de/products/kreuzkette-damen-denim): Verleihen Sie Ihrem Glauben Ausdruck mit dieser trendigen Denim-Kreuz-Halskette mit Weißgoldbeschichtung und funkelnden Zirkonia-Steinen. Perfekt zum Layern oder als Statement-Schmuck. Free shipping in Germany
-  Updated: 2026-08-29T06:42:29Z
+  Updated: 2026-10-30T06:58:32Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/266570074009284608_722c8382-21ad-4ee1-b285-616e56d38783.webp?v=1782160314
   Price: 51,67 € EUR
 - [Göttliches Licht Kreuz-Halskette | Weißgold & Zirkonia | ESTID](https://www.estid-fashion.de/products/kreuzkette-damen-gold-zierlich): Funkelnde weißgold-plattierte Kreuz-Halskette mit Zirkonia und himmlischem Mond. Spiritueller Schutz und Selbstvertrauen für alltägliche Magie. Free shipping in Germany
-  Updated: 2026-08-29T06:42:29Z
+  Updated: 2026-10-30T09:43:53Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/266580094551830528.webp?v=1782160333
   Price: 57,42 € EUR
 - [Divine Rebellion Charm-Kette | Blaues Kreuzanhänger | ESTID](https://www.estid-fashion.de/products/kreuzkette-damen-bueroklammer-vintage): Weißvergoldete Charm-Kette mit strukturiertem blauen Kreuz und kantigen Spitzen. Verstellbare Kette. Spiritualität trifft Streetwear—zeig deine rebellische Seele! Free shipping in Germany
-  Updated: 2026-09-28T12:20:31Z
+  Updated: 2026-10-30T06:58:36Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/266569794748329984.webp?v=1782160245
   Price: 50,00 € EUR
 - [Göttliche Gnade Perlkreuz | Weißgold Spirituelle Halskette | ESTID](https://www.estid-fashion.de/products/perlen-kreuzkette-taufe): Erleben Sie göttlichen Schutz mit dieser weißgoldplattierten Kreuz- und Perlenhalskette. Mit Zirkonia-Kristallen und verstellbarer Länge für heiligen Stil. Free shipping in Germany
-  Updated: 2026-08-29T06:42:30Z
+  Updated: 2026-10-30T09:43:55Z
   Vendor: ESTID Fashion
   Product Type: Halsketten
   Availability: Available
@@ -452,21 +452,21 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242029073361694720_730c372b-2cef-4df4-98cd-ca09c7d873dd.webp?v=1782160215
   Price: 122,57 € EUR
 - [Kosmische Bogen-Climber | Sterling Silber Moissanit | ESTID](https://www.estid-fashion.de/products/ohrclimber-gold-moissanit-bogen): Zeichnen Sie himmlische Pfade mit diesen geschwungenen Ohrclimbern aus Sterlingsilber mit brillanten Moissanit-Steinen. Perfekt für kosmisches Flair und alltägliche Eleganz! Free shipping in Germany
-  Updated: 2026-08-29T06:42:32Z
+  Updated: 2026-10-30T10:04:24Z
   Vendor: ESTID Fashion
   Product Type: Ohrringe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/268406931533905920_e1e29558-2c53-413f-9aa1-32b144b71e85.webp?v=1782159826
   Price: 118,61 € EUR
 - [Goldenes Quadrat Luxus-Set | Vergoldeter Zirkonia Schmuck | ESTID](https://www.estid-fashion.de/products/schmuckset-gold-zirkonia-quadrat): Verleihen Sie Ihrem Stil das gewisse Etwas mit diesem architektonischen goldenen Quadrat-Schmuckset. Mit 14K Vergoldung und funkelndem Zirkonia im Vintage-Design. Free shipping in Germany
-  Updated: 2026-09-05T15:54:54Z
+  Updated: 2026-10-30T09:43:48Z
   Vendor: ESTID Fashion
   Product Type: Schmuckset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/242091902991233024.webp?v=1782158357
   Price: 86,00 € EUR
 - [Noir Luxe Set | Schwarz-weißer Stein Gold Schmuck | ESTID](https://www.estid-fashion.de/products/schmuckset-schwarz-perlen-noir): Hochwertiges Schmuckset mit abwechselnden schwarzen und klaren Zirkonia in 14-karätigem Goldüberzug. Das komplette Trio umfasst passendes Collier, Ohrringe und Armband. Free shipping in Germany
-  Updated: 2026-08-29T06:42:32Z
+  Updated: 2026-10-30T10:06:37Z
   Vendor: ESTID Fashion
   Product Type: Schmuckset
   Availability: Available
@@ -480,7 +480,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/264822126352216064.webp?v=1782158072
   Price: 121,67 € EUR
 - [Christliches Herren T-Shirt | Jesus Mein Retter Bio | ESTID](https://www.estid-fashion.de/products/herren-t-shirt-jesus-mein-retter-estid): Herren T-Shirt „Jesus Mein Retter“ aus Premium-Bio-Baumwolle – christliches Statement-Shirt mit Stil und Tragekomfort. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:33Z
+  Updated: 2026-10-30T09:44:16Z
   Vendor: ESTID Fashion
   Product Type: T-Shirt
   Availability: Available
@@ -552,14 +552,14 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4348936204122902000_2048.jpg?v=1778847310
     Price: 33,74 € EUR
 - [Fluid Dreams Set | Skulpturaler Goldwellen-Schmuck | ESTID](https://www.estid-fashion.de/products/schmuckset-gold-perlen-fliessend): Setzen Sie Akzente mit diesem skulpturalen Schmuckset aus Öko-Zinklegierung. Leichte Harzakzente treffen auf künstlerisches Wellendesign. Perfekt für kreative Seelen, die einen einzigartigen Stil suchen. Free shipping in Germany
-  Updated: 2026-09-28T12:20:32Z
+  Updated: 2026-10-30T07:00:18Z
   Vendor: ESTID Fashion
   Product Type: Schmuckset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/255606356686884864.webp?v=1782158050
   Price: 75,00 € EUR
 - [Christliches T-Shirt Psalm 23 | Unisex Softstyle | ESTID](https://www.estid-fashion.de/products/minimalistisches-unisex-softstyle-t-shirt-mit-psalm-23-estid): Minimalistisches Unisex Softstyle T-Shirt mit Psalm 23 – christliches Statement-Shirt voller Eleganz und Leichtigkeit. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:35Z
+  Updated: 2026-10-30T10:04:58Z
   Vendor: ESTID Fashion
   Product Type: T-Shirt
   Availability: Available
@@ -763,7 +763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15135025738181238237_2048.jpg?v=1779960598
     Price: 65,70 € EUR
 - [Christliches Unisex T-Shirt | Glaube Hoffnung Liebe | ESTID](https://www.estid-fashion.de/products/minimalistisches-unisex-t-shirt-mit-ausdrucksstarkem-backprint-estid): Minimalistisches Unisex T-Shirt mit ausdrucksstarkem Backprint „Glaube, Hoffnung, Liebe“ – zeitloses christliches Design. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:36Z
+  Updated: 2026-10-30T10:04:59Z
   Vendor: ESTID Fashion
   Product Type: T-Shirt
   Availability: Available
@@ -833,7 +833,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/7062408392551467501_2048.jpg?v=1779977859
     Price: 36,34 € EUR
 - [Yoga-Hoodie | Lotus Mandala Om-Symbol | ESTID](https://www.estid-fashion.de/products/lotus-mandala-hoodie-mit-om-symbol-spirituelles-yoga-sweatshirt-estid): Spiritueller Lotus-Mandala-Hoodie mit Om-Symbol – weiches Kapuzensweatshirt für Yoga, Meditation und stillen Alltagsstil. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:36Z
+  Updated: 2026-10-30T10:04:44Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -967,14 +967,14 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/772965738711785554_2048.jpg?v=1779978494
     Price: 78,52 € EUR
 - [Geschmolzenes Kunst-Schmuckset | Skulpturale Statement-Stücke | ESTID](https://www.estid-fashion.de/products/schmuckset-gold-geschmolzen-kunst): Verwandeln Sie Ihren Stil mit diesem zeitgenössischen skulpturalen Schmuckset. Öko-Zinklegierungsteile mit organisch-fließenden Formen, ideal für künstlerischen Ausdruck und Galerie-Atmosphäre. Free shipping in Germany
-  Updated: 2026-09-28T12:20:33Z
+  Updated: 2026-10-30T09:43:34Z
   Vendor: ESTID Fashion
   Product Type: Schmuckset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/255605814979940352_c6bd618c-d35e-49d2-b733-dd1ec35b4aff.webp?v=1782157947
   Price: 40,26 € EUR
 - [Herren Zip-Hoodie | Jesus-Herz Oversize | ESTID](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus): Oversize Herren Zip-Hoodie aus Fluffy-Baumwolle mit Jesus-Herz – urbane Streetwear trifft tiefen Glauben, maximal bequem. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:37Z
+  Updated: 2026-10-30T09:44:09Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -1236,7 +1236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300448_902_v1_front_1024.png?v=1780246192
     Price: 21,95 € EUR
 - [Christliches Herren T-Shirt | Heavy Cotton | ESTID](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus): Christliches Herren Heavy T-Shirt – premium Streetwear mit starkem Charakter und hochwertigem Tragegefühl. Kostenloser Versand in Deutschland.
-  Updated: 2026-09-10T08:12:07Z
+  Updated: 2026-10-30T06:57:33Z
   Vendor: ESTID Fashion
   Product Type: T-Shirt
   Availability: Available
@@ -1268,26 +1268,6 @@
   - [White / 4XL](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=57769503883612)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_379_v1_front_1024_ba6aae7c-0833-4705-967a-dc60a37dfbb4.png?v=1780318227
-    Price: 32,00 € EUR
-  - [Chambray / M](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=58265494028636)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_370_v1_front_1024_d5055fd8-617e-4e2b-8e38-98b09d5d8fd5.png?v=1780318534
-    Price: 32,00 € EUR
-  - [Chambray / L](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=58265515360604)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_370_v1_front_1024_d5055fd8-617e-4e2b-8e38-98b09d5d8fd5.png?v=1780318534
-    Price: 32,00 € EUR
-  - [Chambray / XL](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=58265528172892)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_370_v1_front_1024_d5055fd8-617e-4e2b-8e38-98b09d5d8fd5.png?v=1780318534
-    Price: 32,00 € EUR
-  - [Chambray / XXL](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=58265519259996)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_370_v1_front_1024_d5055fd8-617e-4e2b-8e38-98b09d5d8fd5.png?v=1780318534
-    Price: 32,00 € EUR
-  - [Chambray / 3XL](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=58265578078556)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300452_370_v1_front_1024_d5055fd8-617e-4e2b-8e38-98b09d5d8fd5.png?v=1780318534
     Price: 32,00 € EUR
   - [Light Pink / S](https://www.estid-fashion.de/products/herren-heavy-cotton-t-shirt-jesus?variant=57769504112988)
     Availability: Available
@@ -1496,7 +1476,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300457_833_v1_front_1024.png?v=1780247385
     Price: 16,95 € EUR
 - [Herren Sweathose | Oversize Baumwolle Sport | ESTID](https://www.estid-fashion.de/products/oversize-sweatpants-kreuz): Oversize Herren Sweathose aus reiner Baumwolle – dynamisches Design und ultimativer Komfort für Training und Freizeit. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:40Z
+  Updated: 2026-10-30T10:06:38Z
   Vendor: ESTID Fashion
   Product Type: Hose
   Availability: Available
@@ -2218,7 +2198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300477_838_v1_front_1024_81940770-1605-4315-b32c-39f295eb9ed0.png?v=1780483321
     Price: 20,00 € EUR
 - [Herren Hoodie | Christliches Jesusmotiv | ESTID](https://www.estid-fashion.de/products/herren-hoodie-jesus): Herren Hoodie mit christlichem Jesusmotiv aus 80% Baumwolle – hochwertiger Kapuzenpullover mit Kängurutasche und Kordelzug. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:45Z
+  Updated: 2026-10-30T09:44:08Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -2368,7 +2348,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300478_751_v1_front_1024_52ff4888-8edd-4534-ba77-1d478c0499e8.png?v=1780466493
     Price: 42,00 € EUR
 - [Herren Zipper Hoodie | Ringspun-Baumwolle | ESTID](https://www.estid-fashion.de/products/herren-zipper-hoodie-estid): Herren Zipper Hoodie aus 80% Ringspun-Baumwolle mit ESTID-Logo – weicher Kapuzenpullover mit Reißverschluss für jeden Tag. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:46Z
+  Updated: 2026-10-30T09:44:18Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -2461,7 +2441,7 @@
     Availability: Available
     Price: 48,95 € EUR
 - [Herren Zip-Hoodie | Oversize Jesusmotiv | ESTID](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus-1): Herren Oversize Zipper Hoodie mit christlichem Jesusmotiv – flauschiger Kapuzenpullover im lässigen Streetwear-Look. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:46Z
+  Updated: 2026-10-30T09:44:10Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -2547,7 +2527,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300481_855_v1_front_1024.png?v=1780237664
     Price: 63,95 € EUR
 - [Gürteltasche | Crossbody Bauchtasche | ESTID](https://www.estid-fashion.de/products/gurteltasche-estid): ESTID Gürteltasche mit reflektierender Beschichtung – leichte Crossbody-Bauchtasche mit großem Hauptfach und verstellbarem Gurt. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:47Z
+  Updated: 2026-10-30T09:43:59Z
   Vendor: ESTID Fashion
   Product Type: Tasche
   Availability: Available
@@ -2746,7 +2726,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300506_880_v1_front_1024.png?v=1780237817
     Price: 37,95 € EUR
 - [Gürteltasche Sport | Reflektierende Bauchtasche | ESTID](https://www.estid-fashion.de/products/gurteltasche-sport): ESTID Sport Gürteltasche mit reflektierender Beschichtung – leichte Lauf-Bauchtasche mit großem Reißverschluss-Hauptfach. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:50Z
+  Updated: 2026-10-30T09:44:00Z
   Vendor: ESTID Fashion
   Product Type: Tasche
   Availability: Available
@@ -2870,7 +2850,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300510_879_v1_front_1024.png?v=1780237895
     Price: 15,95 € EUR
 - [Roll-Top Rucksack | Christlich Jesus-Herz | ESTID](https://www.estid-fashion.de/products/rucksack-jesus): Flexibler christlicher Roll-Top Rucksack mit Jesus-Herz-Print – täglicher Begleiter für Uni, Büro und Einkauf. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:53Z
+  Updated: 2026-10-30T07:00:17Z
   Vendor: ESTID Fashion
   Product Type: Rucksack
   Availability: Available
@@ -2914,7 +2894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300518_953_v1_front_1024_78375d17-236d-4885-acd3-ef636a4c108c.png?v=1780308841
     Price: 112,95 € EUR
 - [Sherpa Jacke | Teddy-Fleece Logo | ESTID](https://www.estid-fashion.de/products/sherpa-jacke-estid-1): Hochwertige Sherpa-Teddy-Fleecejacke mit edlen Logo-Details – ultimativer cozy Komfort für kalte Tage. Kostenloser Versand in Deutschland.
-  Updated: 2026-08-29T06:42:54Z
+  Updated: 2026-10-30T10:04:09Z
   Vendor: ESTID Fashion
   Product Type: Jacke
   Availability: Available
@@ -2995,7 +2975,93 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300516_951_v1_front_1024_a82d113f-edf1-4ecf-8cac-8be4654ba3d0.png?v=1780305962
     Price: 84,95 € EUR
-[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTYwODUzNjAwNzAwNCwibGFzdF92YWx1ZSI6IjE1NjA4NTM2MDA3MDA0In0%3D)
+- [ESTID Damen Oversized Sweatshirt „Grunge Heart“ – Premium Baumwollmix Pullover mit rotem Herz-Print - ESTID Fashion](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print): Zeige Herz im edgy Look – Das ESTID „Grunge Heart“ Damen Sweatshirt Verleihe deinem Alltags-Look eine Extraportion Style und Gefühl! Das ESTID Crewneck Sweatshirt ist die perfekte Mischung aus femininer Lässigkeit und modernem Streetwear-Vibe. Der absolute Blickfang ist das kunstvoll gestaltete, leuchtend rote Herz im angesagten Grunge- bzw. Distressed-Look auf der linken Brust . Es bricht das klassische Design charmant auf und macht den Pullover zu einem echten Statement-Piece – egal ob beim Kaffee-Date, in der Uni oder beim entspannten Stadtbummel. Kuscheliger Premium-Komfort für jeden Tag Dieses Sweatshirt sieht nicht nur umwerfend aus, es fühlt sich auch so an. Hergestellt aus einem hochwertigen Heavy Blend Cotton-Mix (50% Baumwolle / 50% Polyester) schmiegt sich die weich angeraute Innenseite sanft an deine Haut an. Dank der optimalen Materialmischung bleibt der Pullover auch nach vielen Wäschen perfekt in Form, verzieht sich nicht und ist extrem pflegeleicht. Finde deine perfekte Farbe Das minimalistische Herz-Design kommt auf allen drei softem Farbvarianten perfekt zur Geltung: Clean Weiß: Für einen kontrastreichen, strahlenden und minimalistischen Look (unisex-heavy-blend-crewneck-sweatshirt.jpg). Soft Hellblau: Frisch, modern und die ideale Ergänzung zu deiner Lieblingsjeans (unisex-heavy-blend-crewneck-sweatshirt (1).jpg). Pastell Rosa: Romantisch, sanft und absolut im Trend für einen rundum harmonischen Style (unisex-heavy-blend-crewneck-sweatshirt (2).jpg). Produktdetails & Highlights auf einen Blick Brand: ESTID Material: Premium Heavy Blend (50% Baumwolle, 50% Polyester) Schnitt: Klassischer Rundhalsausschnitt (Crewneck) mit moderner, leicht lockerer Passform (für den Oversized-Look einfach eine Nummer größer bestellen). Details: Elastische Rippbündchen an Kragen, Ärmeln und Saum für optimalen Sitz. Print: Hochwertiger, farbintensiver und langlebiger Textildruck auf der Brust. Pflegehinweise Damit das rote Herz dauerhaft strahlt: Bei 30 °C auf links gedreht waschen. Mit ähnlichen Farben waschen. Nicht direkt über den Print bügeln (nur von links). Schonend trocknen. S M L XL 2XL 3XL 4XL 5XL Width, cm 50.80 55.90 60.96 66.04 71.12 76.20 81.28 86.36 Length, cm 68.58 71.12 73.66 76.20 78.74 81.28 83.82 86.36 Sleeve length (from center back), cm 85.09 87.63 90.17 92.71 95.25 97.79 100.33 102.87 Size tolerance, cm 3.81 3.81 3.81 3.81 3.81 3.81 3.81 3.81 EU representative: Ievgen Shvets, estidfashion@gmail.com, Auweg 13, Dillenburg, Hessen, 35683, DE Product information: Gildan 18000, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC Warnings, Hazard: Made in Nicaragua, For adults - ESTID Fashion
+  Updated: 2026-10-30T06:58:00Z
+  Vendor: ESTID Fashion
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+  - [S / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171725660)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 44,06 € EUR
+  - [S / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171758428)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 44,06 € EUR
+  - [S / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171791196)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 45,46 € EUR
+  - [M / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171823964)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 44,06 € EUR
+  - [M / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171856732)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 44,06 € EUR
+  - [M / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171889500)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 45,46 € EUR
+  - [L / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171922268)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 44,06 € EUR
+  - [L / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171955036)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 44,06 € EUR
+  - [L / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123171987804)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 45,46 € EUR
+  - [XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172020572)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 44,06 € EUR
+  - [XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172053340)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 44,06 € EUR
+  - [XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172086108)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 45,46 € EUR
+  - [2XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172118876)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 44,06 € EUR
+  - [2XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172151644)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 44,06 € EUR
+  - [2XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172184412)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 45,46 € EUR
+  - [3XL / Light Blue](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172217180)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/439675918108213540_2048.jpg?v=1782130409
+    Price: 50,44 € EUR
+  - [3XL / Light Pink](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172249948)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/4806418133825946676_2048.jpg?v=1782130418
+    Price: 50,44 € EUR
+  - [3XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172282716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 51,82 € EUR
+  - [4XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172315484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 51,82 € EUR
+  - [5XL / White](https://www.estid-fashion.de/products/estid-damen-oversized-sweatshirt-grunge-heart-premium-baumwollmix-pullover-mit-rotem-herz-print?variant=58123172348252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
+    Price: 51,82 € EUR
+[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY0MDY1NTYyNjU4OCwibGFzdF92YWx1ZSI6IjIwMjYtMDYtMjIgMTA6MDA6MDAuMDAwMDAwIn0%3D)
 
 ## Collections
 
@@ -3009,19 +3075,19 @@
   Updated: 2026-10-22T09:07:12Z
   Total Products: 84
 - [ESTID Schmuck](https://www.estid-fashion.de/collections/schmuck): Handverlesener Schmuck bei ESTID: Ohrringe, Halsketten, Ringe & Armbänder aus Öko-Messing, Perlen & Zirkonia. Versand in DE, AT & CH.
-  Updated: 2026-09-28T11:45:19Z
+  Updated: 2026-10-30T16:24:50Z
   Total Products: 79
 - [Glauben mit Style](https://www.estid-fashion.de/collections/glauben-mit-style): Christliche Mode & Schmuck bei ESTID: Jesus-Shirts, Hoodies, Kreuz-Ketten & Bibelvers-Prints. Glauben mit Style tragen. Versand DE/AT/CH.
-  Updated: 2026-09-25T10:47:27Z
+  Updated: 2026-10-30T16:24:50Z
   Total Products: 51
 - [Featured Products](https://www.estid-fashion.de/collections/featured-products): - ESTID Fashion
   Updated: 2026-10-22T09:07:12Z
   Total Products: 78
 - [Schmuck Sets](https://www.estid-fashion.de/collections/schmuck-sets): Abgestimmte Schmuck-Sets bei ESTID: Halskette, Ohrringe & Anhänger im Set – ideal als Geschenk. Versand in DE, AT & CH.
-  Updated: 2026-09-25T08:41:27Z
+  Updated: 2026-10-30T16:24:50Z
   Total Products: 8
 - [Ohrringe](https://www.estid-fashion.de/collections/ohrringe): Ohrringe für Damen bei ESTID: Creolen, Ohrstecker & Ohrhänger in Gold und Silber, mit Perlen & Zirkonia. Versand in DE, AT & CH.
-  Updated: 2026-09-28T11:45:19Z
+  Updated: 2026-10-30T16:24:50Z
   Total Products: 37
 - [Halsketten und Anhänger](https://www.estid-fashion.de/collections/halsketten-und-anhaenger): Halsketten und Anhänger bei ESTID: Goldketten, Medaillons, Layering-Sets & Kreuz-Ketten aus Öko-Messing und Perlen. Versand DE/AT/CH.
   Updated: 2026-09-25T10:47:27Z
@@ -3063,7 +3129,7 @@
   Updated: 2026-08-21T10:59:04Z
   Total Products: 1
 - [Glauben mit Style – Christlicher Schmuck](https://www.estid-fashion.de/collections/glauben-mit-style-schmuck): Christlicher Schmuck von ESTID: Kreuz-Halsketten, Anhänger & Sets aus hochwertigen Materialien. Glaube mit Style tragen. Schneller Versand in DE, AT & CH.
-  Updated: 2026-09-25T10:47:27Z
+  Updated: 2026-10-30T16:24:50Z
   Total Products: 9
 - [Glauben mit Style – Christliche Kleidung](https://www.estid-fashion.de/collections/glauben-mit-style-kleidung): Christliche Kleidung bei ESTID: Jesus-Shirts, Hoodies & Caps mit Psalm 23 & Bibelvers-Prints. Glaube mit Style. Versand in DE, AT & CH.
   Updated: 2026-09-12T15:45:58Z
@@ -3075,7 +3141,7 @@
   Updated: 2026-09-10T10:17:55Z
   Total Products: 11
 - [New! Shopify performance sharing is now turned on](https://www.estid-fashion.de/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel. - ESTID Fashion
-  Updated: 2026-10-22T09:07:12Z
+  Updated: 2026-10-30T16:48:19Z
   Total Products: 332
 - [ESTID Care](https://www.estid-fashion.de/collections/estid-care): - ESTID Fashion
   Updated: 2026-09-16T07:37:28Z
@@ -3191,13 +3257,22 @@
   - [Schmuck Set Guide: Alles über auffällige Halsketten und Ringe](https://www.estid-fashion.de/blogs/fashion-blog/schmuck-set-guide-alles-uber-auffallige-halsketten-und-ringe): Schmuck Set Guide: Alles über auffällige Halsketten und Ringe
     Updated: 2026-10-25T16:00:31Z
     Author: ESTID
+  - [Die beliebtesten Anhänger: Was jeden Schmuck einzigartig macht](https://www.estid-fashion.de/blogs/fashion-blog/die-beliebtesten-anhanger-was-jeden-schmuck-einzigartig-macht): Die beliebtesten Anhänger: Was jeden Schmuck einzigartig macht
+    Updated: 2026-10-30T16:00:48Z
+    Author: ESTID
+  - [Pflege leicht gemacht: So bleibt Ihr Schmuck einschließlich Perlen lange schön](https://www.estid-fashion.de/blogs/fashion-blog/pflege-leicht-gemacht-so-bleibt-ihr-schmuck-einschliesslich-perlen-lange-schon): Pflege leicht gemacht: So bleibt Ihr Schmuck einschließlich Perlen lange schön
+    Updated: 2026-10-31T16:00:39Z
+    Author: ESTID
+  - [Die Vielseitigkeit der Ledertasche: Praktisch und schick zugleich](https://www.estid-fashion.de/blogs/fashion-blog/die-vielseitigkeit-der-ledertasche-praktisch-und-schick-zugleich): Die Vielseitigkeit der Ledertasche: Praktisch und schick zugleich
+    Updated: 2026-11-01T16:00:43Z
+    Author: ESTID
 
 ## Store Pages
 
 - [Kontakt](https://www.estid-fashion.de/pages/contact)
   Updated: 2025-08-07T15:06:31Z
 - [Suchergebnisse](https://www.estid-fashion.de/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2025-09-25T06:10:30Z
+  Updated: 2026-11-02T22:52:06Z
 - [Deine Datenschutz-Einstellungen](https://www.estid-fashion.de/pages/data-sharing-opt-out): Wie in unserer Datenschutzrichtlinie beschrieben, erfassen wir personenbezogene Daten aus Ihren Interaktionen mit uns und unserer Website, unter an...
   Updated: 2026-08-13T08:29:38Z
 - [Review Submission](https://www.estid-fashion.de/pages/review-submission)
