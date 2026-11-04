@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-04-23T15:52:29Z
 - Contact Email: stefano@panamaroute.com
-- Updated At: 2026-10-28T00:48:00.182Z
+- Updated At: 2026-11-04T00:59:50.946Z
 
 ## Products
 
@@ -1851,7 +1851,7 @@
     Availability: Not Available
     Price: 156,00 € EUR
 - [ETIENNE 26 Latte](https://panamaroute.com/products/etienne-26-latte): Pantaloni con laccio e tasconi in cotone pesante
-  Updated: 2026-10-26T11:48:32Z
+  Updated: 2026-11-01T16:45:50Z
   Vendor: Panama Route
   Product Type: 
   Availability: Available
@@ -1954,7 +1954,7 @@
 ## Policies
 
 - [Privacy Policy](https://panamaroute.com/policies/privacy-policy)
-  Updated: 2025-05-27T15:55:25Z
+  Updated: 2026-11-01T07:05:33Z
 - [Shipping Policy](https://panamaroute.com/policies/shipping-policy)
   Updated: 2026-10-20T08:36:41Z
 - [Refund Policy](https://panamaroute.com/policies/refund-policy)
