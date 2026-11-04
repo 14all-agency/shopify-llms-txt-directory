@@ -7,12 +7,12 @@
 - Created At: 2026-09-02T13:56:49Z
 - Contact Email: info@creativetopsinc.com
 - Contact Phone: 888-702-8281
-- Updated At: 2026-10-28T00:49:29.005Z
+- Updated At: 2026-11-04T00:52:09.903Z
 
 ## Products
 
-- [Togo Rectangular Placemat | 8 Colours | Creative Tops Home](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-rectangular): Double-sided synthetic leather placemat from Tiseco Belgium. Rectangular 13x18in, waterproof, wipes clean in seconds. Eight colours.
-  Updated: 2026-10-07T12:41:51Z
+- [Tiseco Togo Double-Sided Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-rectangular): Tiseco Togo rectangular placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof and wipe clean. Made in Belgium. Eight colours.
+  Updated: 2026-10-30T08:15:28Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -49,8 +49,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0435_CARAMEL.png?v=1790185829
     Price: $72.00 USD
-- [Togo Oval Placemat | 8 Colours | Creative Tops Home](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-oval): Double-sided synthetic leather oval placemat from Tiseco Belgium. 13x18in, waterproof, stain repellent, wipe clean. Eight colours.
-  Updated: 2026-10-07T12:41:52Z
+- [Tiseco Togo Double-Sided Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-oval): Tiseco Togo oval placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof, stain repellent, wipe clean. Made in Belgium. Eight colours.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -87,12 +87,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0436CARAMEL.jpg?v=1790185819
     Price: $72.00 USD
-- [Arbin Woven Vegan Leather Placemat | Creative Tops Home](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular): Woven vegan leather placemat in 50% PU / 50% PVC from Tiseco Belgium. Rectangular 13x18in, waterproof and wipe clean. Four colours.
-  Updated: 2026-10-21T09:10:23Z
+- [Tiseco Arbin Woven Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular): Tiseco Arbin textured vegan leather placemats with a woven grain, 13 x 18 in, set of 4. Waterproof and wipe clean. Made in Belgium. Four colours.
+  Updated: 2026-10-30T00:23:22Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_BLACK.jpg?v=1790185788
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_DARKGREY_2.jpg?v=1790185788
   - [Black](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular?variant=50134916825330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_BLACK.jpg?v=1790185788
@@ -109,8 +109,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_TAUPE.jpg?v=1790185789
     Price: $72.00 USD
-- [Purus Microban Placemat, Rectangular | Creative Tops Home](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-rectangular): Microban-treated antibacterial placemat, rectangular 13x18in. Dishwasher safe, phthalate free, sealed embossed edge. Five colours.
-  Updated: 2026-10-07T12:41:44Z
+- [Tiseco Purus Antibacterial Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-rectangular): Tiseco Purus rectangular placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free, made for family tables. Made in Belgium.
+  Updated: 2026-10-30T08:15:30Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -135,8 +135,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0625_SAND.jpg?v=1790185762
     Price: $48.00 USD
-- [Purus Microban Placemat, Oval | Creative Tops Home](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-oval): Microban-treated antibacterial oval placemat, 13x18in. Dishwasher safe, phthalate free, sealed embossed edge. Five colours.
-  Updated: 2026-10-07T12:41:43Z
+- [Tiseco Purus Antibacterial Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-oval): Tiseco Purus oval placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free and easy to clean. Made in Belgium.
+  Updated: 2026-10-30T08:15:29Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -161,8 +161,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0626SAND.png?v=1790185751
     Price: $48.00 USD
-- [Trudo Stitched Vegan Leather Placemat | Creative Tops Home](https://creative-tops-home.myshopify.com/products/trudo-stitched-vegan-leather-placemat-rectangular): 100% PU vegan leather placemat with stitched edges from Tiseco Belgium. Rectangular 13x18in, waterproof, wipe clean. Six colours.
-  Updated: 2026-10-07T12:41:47Z
+- [Tiseco Trudo Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/trudo-stitched-vegan-leather-placemat-rectangular): Tiseco Trudo stitched vegan leather placemats, 13 x 18 in, set of 4. Double sided, waterproof and wipe clean. Made in Belgium. Six colours.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -191,8 +191,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0602_TAUPE.jpg?v=1790185562
     Price: $72.00 USD
-- [Silo Oven Gloves, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/silo-oven-gloves-set-of-2): Cotton oven gloves with silicone grip, set of 2 shaped left and right. Heat resistant, hanging loop, washable to 100C. Five colours.
-  Updated: 2026-10-07T12:41:46Z
+- [Tiseco Silo Cotton Oven Mitts, Left & Right Pair](https://creative-tops-home.myshopify.com/products/silo-oven-gloves-set-of-2): Tiseco Silo cotton oven mitts with silicone grip, sold as a left and right pair. Heat resistant, with hanging loop. Made in Belgium. Five colours.
+  Updated: 2026-10-30T08:15:28Z
   Vendor: Tiseco
   Product Type: Oven Mitts
   Availability: Available
@@ -217,8 +217,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0630TERRACOTTA.jpg?v=1790185536
     Price: $35.00 USD
-- [Silo Grippers, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/silo-grippers-set-of-2): Cotton grippers with silicone grip panel, set of 2. Heat resistant, non-slip, hanging loops, washable to 100C. Five colours.
-  Updated: 2026-10-07T12:41:44Z
+- [Tiseco Silo Cotton Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/silo-grippers-set-of-2): Tiseco Silo cotton pot holders with silicone grip panel, 5.5 x 8.5 in, set of 2. Heat resistant, with hanging loops. Made in Belgium. Five colours.
+  Updated: 2026-10-30T08:15:29Z
   Vendor: Tiseco
   Product Type: Pot Holders
   Availability: Available
@@ -243,8 +243,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0629TERRACOTTA.jpg?v=1790185538
     Price: $25.00 USD
-- [Silo Kitchen Towels, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/silo-kitchen-towels-set-of-2): 100% cotton kitchen towels, set of 2. Generous 40x60cm, absorbent, hanging loops, washable to 100C. Five colours.
-  Updated: 2026-10-07T12:41:45Z
+- [Tiseco Silo Cotton Kitchen Towels, Set of 2](https://creative-tops-home.myshopify.com/products/silo-kitchen-towels-set-of-2): Tiseco Silo 100% cotton kitchen towels, 15.7 x 23.6 in, set of 2. Absorbent from the first wash, with hanging loops. Made in Belgium. Five colours.
+  Updated: 2026-10-30T08:15:26Z
   Vendor: Tiseco
   Product Type: Kitchen Towels
   Availability: Available
@@ -269,8 +269,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0631TERRACOTTA.jpg?v=1790185454
     Price: $18.00 USD
-- [Silo Silicone Sponges, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/silo-reusable-silicone-kitchen-sponges-set-of-2): Reusable silicone kitchen sponges, set of 2. Scratch free, safe on glass and non-stick, washable, no sour smell. Five colours.
-  Updated: 2026-10-07T12:41:46Z
+- [Tiseco Silo Silicone Kitchen Sponges, Set of 2](https://creative-tops-home.myshopify.com/products/silo-reusable-silicone-kitchen-sponges-set-of-2): Tiseco Silo reusable silicone sponges, set of 2. Scratch free on glass and non-stick, no sour smell, dishwasher safe. Made in Belgium. Five colours.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Tiseco
   Product Type: Cleaning Sponges
   Availability: Available
@@ -295,8 +295,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0633TERRACOTTA.jpg?v=1790185439
     Price: $6.00 USD
-- [Velmar Quilted Apron | Creative Tops Home](https://creative-tops-home.myshopify.com/products/velmar-quilted-apron): Quilted velour rib apron in 80% cotton. Adjustable neck strap, front pocket, generous 27.5x33.5in cut. Three colours.
-  Updated: 2026-10-07T12:41:48Z
+- [Tiseco Velmar Quilted Cotton Apron](https://creative-tops-home.myshopify.com/products/velmar-quilted-apron): Tiseco Velmar diamond-quilted apron in 80% cotton velour rib, 27.5 x 33.5 in, with adjustable neck strap and front pocket. Made in Belgium. Three colours.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Tiseco
   Product Type: Aprons
   Availability: Available
@@ -313,8 +313,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9677TAUPE.jpg?v=1790185420
     Price: $40.00 USD
-- [Velmar Quilted Oven Gloves, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/velmar-quilted-oven-gloves-set-of-2): Quilted velour rib oven gloves, set of 2, with silicone grip accents. Heat resistant, hanging loop, 13in length. Three colours.
-  Updated: 2026-10-07T12:41:49Z
+- [Tiseco Velmar Quilted Oven Mitts, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-oven-gloves-set-of-2): Tiseco Velmar quilted oven mitts in cotton velour rib with silicone grip, 13 in long, set of 2. Heat resistant, made in Belgium. Three colours.
+  Updated: 2026-10-30T08:15:24Z
   Vendor: Tiseco
   Product Type: Oven Mitts
   Availability: Available
@@ -331,8 +331,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9679TAUPE.jpg?v=1790185421
     Price: $40.00 USD
-- [Velmar Quilted Grippers, Set of 2 | Creative Tops Home](https://creative-tops-home.myshopify.com/products/velmar-quilted-grippers-set-of-2): Quilted velour rib grippers, set of 2, with silicone grip accents. Heat resistant, non-slip, hanging loops. Three colours.
-  Updated: 2026-10-07T12:41:48Z
+- [Tiseco Velmar Quilted Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-grippers-set-of-2): Tiseco Velmar quilted pot holders in cotton velour rib with silicone grip, 5.5 x 7 in, set of 2. Heat resistant, made in Belgium. Three colours.
+  Updated: 2026-10-30T08:15:28Z
   Vendor: Tiseco
   Product Type: Pot Holders
   Availability: Available
@@ -349,36 +349,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9680TAUPE.jpg?v=1790185420
     Price: $35.00 USD
-- [Glass Espresso Mugs – Amalfi Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-amalfi-espresso-mug-set-of-6): Shop our Amalfi tempered glass espresso mugs set. Durable, chic, and perfect for hot or cold drinks. Ideal for your kitchen and stylish entertaining.
-  Updated: 2026-10-07T12:41:20Z
+- [Amalfi Glass Espresso Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-amalfi-espresso-mug-set-of-6): Amalfi espresso mugs in clear tempered glass, 6 oz, set of 6. A sculpted design made in France, for espresso, cortado or tea.
+  Updated: 2026-10-30T08:15:28Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4001A.jpg?v=1789993920
   Price: $36.00 USD
-- [Glass Espresso Mugs – Caprice Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/caprice-espresso-mug): Shop the Duralex Caprice espresso mug set of 6. Elegant and stackable, these glass mugs are made for the daily coffee ritual. Dishwasher safe.
-  Updated: 2026-10-07T12:41:18Z
+- [Caprice Glass Espresso Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/caprice-espresso-mug): Caprice espresso mugs in clear tempered glass, 3 oz, set of 6. Stackable and dishwasher safe, made in France for the daily espresso. Final .
+  Updated: 2026-10-30T08:15:28Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4026A.jpg?v=1789993928
   Price: $30.00 USD
-- [Large Glass Coffee Mugs – Cozy Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/cosy-mug): Shop the Duralex Cosy large glass mug set of 6. Perfect for cozy evenings or weekend gatherings, these microwave-safe mugs handle hot drinks with ease.
-  Updated: 2026-10-07T12:41:20Z
+- [Cosy Large Glass Mugs 11.75 oz, Set of 6](https://creative-tops-home.myshopify.com/products/cosy-mug): Cosy large mugs in clear tempered glass, 11.75 oz, set of 6. Made in France, microwave safe, for lattes, tea and hot chocolate. Final .
+  Updated: 2026-10-30T08:15:30Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4029A.jpg?v=1789993934
   Price: $50.00 USD
-- [Stackable Glass Coffee Mugs – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-lys-clear-stackable-mug-10-ounce-set-of-6): Shop Duralex coffee mugs from the Lys Collection, set of 6. Stackable and microwave safe, these 10oz glass mugs are a practical choice for small kitchens.
-  Updated: 2026-10-07T12:41:28Z
+- [Lys Clear Glass Mugs 10.38 oz, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-lys-clear-stackable-mug-10-ounce-set-of-6): Lys stackable mugs in clear tempered glass, 10.375 oz, set of 6. Made in France, microwave safe, for coffee, tea and hot chocolate.
+  Updated: 2026-10-30T08:15:30Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4018A.jpg?v=1789993940
   Price: $45.00 USD
-- [Stackable Glass Tumblers – Empilable Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-empilable-stackable-tumblers-set-of-6): Shop Duralex Empilable stackable tumblers, set of 6. The fluted base stacks effortlessly — a smart pick for small kitchens and high-turnover tables.
-  Updated: 2026-10-07T12:41:22Z
+- [Empilable Stackable Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-empilable-stackable-tumblers-set-of-6): Empilable clear tempered glass tumblers, 5.375 or 6.75 oz, set of 6. A fluted base that stacks neatly, made in France for small kitchens.
+  Updated: 2026-10-30T08:15:30Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -391,8 +391,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1014A.jpg?v=1789993947
     Price: $24.00 USD
-- [Clear Glass Tumblers – Le Gigogne® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-gigogne-tumbler-set-of-6): Shop the Duralex Le Gigogne glass tumbler set of 6. Stackable and chip-resistant — a practical, no-fuss glass that the whole family will reach for.
-  Updated: 2026-10-07T12:41:22Z
+- [Le Gigogne Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-gigogne-tumbler-set-of-6): Le Gigogne clear tempered glass tumblers, 3 to 12.125 oz, set of 6. Gigogne means nested: they stack neatly. Made in France.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -413,15 +413,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/unpacked_gigogne_tumbler_36cl_uncoloured_1.jpg?v=1789993956
     Price: $36.00 USD
-- [Clear Glass Mugs – Le Gigogne® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/gigogne-mug): Shop the Duralex Gigogne glass mug set of 6. Stackable and microwave safe, these mugs are at home with tea, coffee, or espresso — for kids and guests alike.
-  Updated: 2026-10-07T12:41:31Z
+- [Le Gigogne Glass Mugs, Set of 6](https://creative-tops-home.myshopify.com/products/gigogne-mug): Le Gigogne clear tempered glass mugs, 7.375 oz, set of 6. Stackable and microwave safe, made in France for coffee, tea and espresso.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4006A.jpg?v=1789993964
   Price: $36.00 USD
-- [Clear Glass Tumblers – Le Picardie® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-clear-tumbler): Shop Duralex Picardie tumblers in clear glass, set of 6. The original French tumbler — stackable, chip-resistant, and at home in a café or a kitchen.
-  Updated: 2026-10-07T12:41:25Z
+- [Le Picardie Clear Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-clear-tumbler): Le Picardie, the original French tumbler since 1954, in clear tempered glass. Nine sizes from 3 to 19.5 oz, set of 6, made in France.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -462,8 +462,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1085ATB6_unpacked_picardie_tumbler_58cl_uncoloured_front_b06.png?v=1789993976
     Price: $65.00 USD
-- [Marine Glass Tumblers – Le Picardie® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-tumbler-marine-set-of-6): Shop the Duralex Le Picardie marine tumbler set of 6. Deep blue tempered glass that handles hot or cold drinks — chip-resistant and microwave safe.
-  Updated: 2026-10-07T12:41:27Z
+- [Le Picardie Marine Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-tumbler-marine-set-of-6): Le Picardie tumblers in marine blue tempered glass, 6.75 to 12.125 oz, set of 6. Made in France, a coastal colour for hot or cold drinks.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -484,15 +484,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1026B_db1bb23e-1b1d-4d9a-b767-434c740a2907.jpg?v=1789993993
     Price: $30.00 USD
-- [Turquoise Glass Tumblers – Le Picardie® Set of 6 | Duralex](https://creative-tops-home.myshopify.com/products/le-picardie-r-turquoise-glass-tumbler-set-of-6): Shop the Duralex Le Picardie turquoise glass tumbler, set of 6. Tempered glass, microwave and dishwasher safe, Made in France.
-  Updated: 2026-10-07T12:41:36Z
+- [Le Picardie Turquoise Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/le-picardie-r-turquoise-glass-tumbler-set-of-6): Le Picardie tumblers in turquoise tempered glass, 8.375 oz, set of 6. Made in France, a bright colour for summer tables and cocktails.
+  Updated: 2026-10-30T08:15:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027Q_unpacked_picardie_tumbler_25cl_turquoise_4.jpg?v=1789994006
   Price: $32.00 USD
-- [Black Glass Tumblers – Le Picardie® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/le-picardie-r-black-glass-tumbler-set-of-6): Shop Le Picardie® Black glass tumblers, set of 6. Tempered glass, 2.5x stronger — available in 3oz and 8.375oz.
-  Updated: 2026-10-07T12:41:33Z
+- [Le Picardie Black Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/le-picardie-r-black-glass-tumbler-set-of-6): Limited edition Le Picardie tumblers in black tempered glass, 3 or 8.375 oz, set of 6. Made in France, for espresso, cocktails and cold brew.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -505,15 +505,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027K_unpacked_picardie_tumbler_25cl_black_3.jpg?v=1789994023
     Price: $50.00 USD
-- [Stackable Glass Coffee Mugs – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-marine-stackable-glass-mug-10-38-oz-set-of-6): Shop Duralex coffee mugs from the Lys Collection, set of 6. Stackable and microwave safe, these 10oz glass mugs are a practical choice for small kitchens.
-  Updated: 2026-10-07T12:41:39Z
+- [Lys Marine Glass Mugs 10.38 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-marine-stackable-glass-mug-10-38-oz-set-of-6): Lys stackable mugs in marine blue tempered glass, 10.375 oz, set of 6. Made in France, microwave safe, for coffee, tea and hot chocolate.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Mugs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/4018B_unpacked_louise_mug_31cl_marine.jpg?v=1789994031
   Price: $45.00 USD
-- [Clear Glass Tumblers – Prisme Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/prisme-clear-tumbler-set-of-6): Shop Duralex Prisme clear tumbler glasses, set of 6. The embossed chequered design catches the light — chip-resistant and dishwasher safe for daily use.
-  Updated: 2026-10-07T12:41:41Z
+- [Prisme Clear Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/prisme-clear-tumbler-set-of-6): Prisme clear tempered glass tumblers with an embossed chequered pattern, 7.375 to 16.875 oz, set of 6. Made in France, dishwasher safe.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -534,8 +534,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1062A.jpg?v=1789994048
     Price: $49.00 USD
-- [Marine Glass Tumblers – Prisme Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/prisme-marine-tumbler): Shop the Duralex Prisme marine glass tumbler. An embossed chequered design in deep blue — chip-resistant and a natural choice for juices and cocktails.
-  Updated: 2026-10-07T12:41:42Z
+- [Prisme Marine Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/prisme-marine-tumbler): Prisme tumblers in marine blue tempered glass with an embossed chequered pattern, 5.625 to 9.25 oz. Made in France for juice and cocktails.
+  Updated: 2026-10-30T08:15:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -556,8 +556,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1033B.jpg?v=1789994058
     Price: $34.00 USD
-- [Clear Glass Tumblers – Unie Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-unie-tumbler-set-of-6): Discover the Unie glass tumbler set, crafted from high-quality tempered glass for durability. Perfect for cocktails and beer, it's a classic choice.
-  Updated: 2026-10-07T12:41:29Z
+- [Unie Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-unie-tumbler-set-of-6): Unie clear tempered glass tumblers in five sizes, 6.75 to 18.875 oz, set of 6. A simple classic made in France for water, beer and cocktails.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -582,8 +582,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1045A_04718f7d-1605-4d91-b7b1-44d4b847eae5.jpg?v=1789994068
     Price: $52.00 USD
-- [Clear Glass Tumblers – Provence Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/provence-tumbler): Shop the Duralex Provence glass tumbler set of 6. Inspired by Provençal fabrics, these dishwasher-safe tumblers bring warmth and character to the table.
-  Updated: 2026-10-07T12:41:42Z
+- [Provence Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/provence-tumbler): Provence clear tempered glass tumblers in five sizes, 3 to 8.375 oz, set of 6. A pattern inspired by Provençal fabrics, made in France.
+  Updated: 2026-10-30T08:15:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -608,8 +608,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1040A.jpg?v=1789994078
     Price: $26.00 USD
-- [Amalfi Glass Tumbler Set of 4](https://creative-tops-home.myshopify.com/products/duralex-amalfi-tumbler-set-of-4): Discover the charm of Italy with the Amalfi Glass Tumbler Set of 4. Inspired by the stunning cathedral Saint-André in Southern Italy, these tumblers blend historical elegance with modern functionality. Crafted by Duralex, known for their exceptional tempered glass, each tumbler is designed for durability and style.The flared shape of these tumblers not only adds to their aesthetic appeal but also provides an easy and comfortable grip. Whether you're sipping espresso, enjoying a refreshing iced tea, or indulging in a fine wine, the Amalfi tumbler enhances your drinking experience. Made of tempered glass for outstanding strength and longevity. Shock and chip resistant, perfect for everyday use. The Amalfi Glass Tumbler Set is microwave, freezer, and dishwasher safe, making cleanup easy and convenient. Designed to withstand sudden temperature changes, these tumblers can handle both hot and cold beverages without compromising quality.
-  Updated: 2026-10-07T12:41:21Z
+- [Amalfi Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/duralex-amalfi-tumbler-set-of-4): Amalfi clear tempered glass tumblers in five sizes, 2.25 to 6.75 oz, set of 4. A sculpted design made in France, from espresso to juice.
+  Updated: 2026-10-30T08:15:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -634,8 +634,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1005A.jpg?v=1789994089
     Price: $17.00 USD
-- [Grey Glass Tumblers – Le Picardie® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-grey-tumbler-set-of-6): Shop Duralex Le Picardie grey glass tumblers, set of 6. Understated and versatile — equally suited to cocktails, coffee, or a glass of water.
-  Updated: 2026-10-07T12:41:27Z
+- [Le Picardie Grey Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-grey-tumbler-set-of-6): Le Picardie tumblers in smoke grey tempered glass, 8.375 to 12.125 oz, set of 6. Colour is in the glass itself. Made in France.
+  Updated: 2026-10-30T08:15:50Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -652,8 +652,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1029H.jpg?v=1789994106
     Price: $42.00 USD
-- [Green Glass Tumblers – Le Picardie® Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-green-tumbler-set-of-6): Discover our green glass tumblers set of 6, perfect for hot or cold drinks. Durable, stackable, and made in France, elevate your drinking experience!
-  Updated: 2026-10-07T12:41:26Z
+- [Le Picardie Green Glass Tumblers, Set of 6](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-green-tumbler-set-of-6): Le Picardie tumblers in green tempered glass, 8.375 or 10.375 oz, set of 6. Made in France, stackable and suited to hot or cold drinks.
+  Updated: 2026-10-30T08:15:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -666,8 +666,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1028G.jpg?v=1789994122
     Price: $38.00 USD
-- [Clear Glass Tumblers – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-clear-tumbler): Shop Duralex Lys clear tumblers. Stackable and chip-resistant, these go from the dishwasher to the table without a second thought. Made in France.
-  Updated: 2026-10-07T12:41:38Z
+- [Lys Clear Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/lys-clear-tumbler): Lys clear tempered glass tumblers in 5.375, 7 and 9.375 oz. Flared, stackable and made in France, an easy everyday glass for any table.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -688,8 +688,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1012A.jpg?v=1789994132
     Price: $40.00 USD
-- [18-Piece Glass Tumbler Set – Le Picardie® | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-18-piece-drinkware-set): Shop the Duralex Le Picardie 18-piece glass drinkware set. Tumblers, plates, and bowls in chip-resistant tempered glass — everything to stock a full table.
-  Updated: 2026-10-07T12:41:23Z
+- [Le Picardie 18-Piece Glass Drinkware Set](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-18-piece-drinkware-set): Le Picardie 18-piece set in clear, amber and marine tempered glass, three tumbler sizes. Made in France, a complete start for any table.
+  Updated: 2026-10-30T08:15:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -706,29 +706,29 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/3550190504873_02.jpg?v=1789994169
     Price: $100.00 USD
-- [Pink Glass Tumblers - Blush Le Picardie Set of 4 | Duralex USA](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-blush-pink-tumbler-set-of-4): Shop Duralex Le Picardie pink glass tumblers, set of 4. A soft, elegant color for any table — chip-resistant and microwave safe.
-  Updated: 2026-10-07T12:41:25Z
+- [Le Picardie Blush Pink Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/duralex-le-picardie-blush-pink-tumbler-set-of-4): Le Picardie tumblers in blush pink tempered glass, 8.375 oz, set of 4. Made in France, a soft colour for brunch tables and everyday use.
+  Updated: 2026-10-30T08:15:46Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027E.jpg?v=1789994177
   Price: $22.00 USD
-- [Plum Glass Tumblers – Le Picardie® Set of 4 | Duralex USA](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-tumbler-set-of-4): Shop the Duralex Le Picardie plum glass tumbler, set of 4. Deep plum and chip-resistant — a rich, striking color for entertaining or everyday use.
-  Updated: 2026-10-07T12:41:35Z
+- [Le Picardie Plum Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-tumbler-set-of-4): Le Picardie tumblers in deep plum tempered glass, 8.375 oz, set of 4. The iconic French faceted glass, made in France, for hot or cold drinks.
+  Updated: 2026-10-30T08:15:47Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1027J_800x1000_c23198aa-303d-41f7-969b-8b19b82a9575.jpg?v=1789994184
   Price: $22.00 USD
-- [Sepia Glass Tumblers 7oz – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-sepia-tumbler): Shop Duralex Lys sepia glasses, set of 6. Warm, earthy tones in a 7oz chip-resistant tumbler — a subtle, sophisticated choice for any table.
-  Updated: 2026-10-07T12:41:40Z
+- [Lys Sepia Glass Tumblers 7 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-sepia-tumbler): Lys tumblers in warm sepia tempered glass, 7 oz, set of 6. Stackable and made in France, a soft neutral for earthy table settings.
+  Updated: 2026-10-30T08:15:52Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011C.jpg?v=1789994192
   Price: $25.00 USD
-- [Amber Glass Tumblers – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-amber-tumbler): Shop Duralex Lys amber glass tumblers, set of 6. Warm tones in a stackable, chip-resistant glass — dishwasher safe and made for everyday use.
-  Updated: 2026-10-27T14:29:31Z
+- [Lys Amber Glass Tumblers, Set of 4 or 6](https://creative-tops-home.myshopify.com/products/lys-amber-tumbler): Lys amber tempered glass tumblers in three sizes, from 5.375 to 9.375 oz. Stackable, chip resistant and made in France for warm-toned tables.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -745,22 +745,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011D.jpg?v=1789994199
     Price: $29.00 USD
-- [Sapphire Glass Tumblers 7oz – Lys Set of 6 | Duralex USA](https://creative-tops-home.myshopify.com/products/lys-sapphire-tumbler-7-oz-set-of-6): Shop the Duralex Lys sapphire glass tumbler set of 6. Bold blue and chip-resistant — a 7oz glass that adds color to any table setting.
-  Updated: 2026-10-07T12:41:39Z
+- [Lys Sapphire Glass Tumblers 7 oz, Set of 6](https://creative-tops-home.myshopify.com/products/lys-sapphire-tumbler-7-oz-set-of-6): Lys tumblers in sapphire blue tempered glass, 7 oz, set of 6. A flared, stackable shape made in France for everyday drinks and table settings.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1011F.jpg?v=1789994207
   Price: $30.00 USD
-- [Anniversary Glass Tumblers – Le Picardie® Set of 4 | Duralex](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-glass-tumbler-set-of-4-copy): Shop the Duralex Le Picardie clear glass tumbler set of 4. Part of the 80th anniversary edition — a classic glass with a story behind it. Chip-resistant.
-  Updated: 2026-10-07T12:41:35Z
+- [Picardie 80th Anniversary Glass Tumblers, Set of 4](https://creative-tops-home.myshopify.com/products/le-picardie-r-plum-glass-tumbler-set-of-4-copy): Le Picardie 80th anniversary edition in clear tempered glass, 8.375 oz, set of 4. The original French tumbler, made in France since 1954.
+  Updated: 2026-10-30T08:15:51Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/DURALEX80ANSPACK4-FLEXREALISATION-3_1.jpg?v=1789994216
   Price: $25.00 USD
-- [Black Glass Tumblers 3oz – Le Gigogne® Set of 6 | Duralex](https://creative-tops-home.myshopify.com/products/le-gigogne-r-black-glass-tumbler-set-of-6): Shop the Duralex Le Gigogne black glass tumbler, set of 6. Limited edition, tempered glass, stackable, and dishwasher safe.
-  Updated: 2026-10-07T12:41:33Z
+- [Le Gigogne Black Glass Tumblers 3 oz, Set of 6](https://creative-tops-home.myshopify.com/products/le-gigogne-r-black-glass-tumbler-set-of-6): Limited edition Le Gigogne tumblers in black tempered glass, 3 oz, set of 6. Stackable, made in France, ideal for espresso and cocktails.
+  Updated: 2026-10-30T08:15:27Z
   Vendor: Duralex
   Product Type: Tumblers
   Availability: Available
@@ -772,95 +772,95 @@
 - [Home page](https://creative-tops-home.myshopify.com/collections/frontpage)
   Updated: 2026-10-07T12:41:52Z
   Total Products: 1
-- [Duralex](https://creative-tops-home.myshopify.com/collections/duralex)
-  Updated: 2026-10-07T12:41:43Z
-  Total Products: 34
-- [Tiseco](https://creative-tops-home.myshopify.com/collections/tiseco)
-  Updated: 2026-10-07T12:41:53Z
+- [Duralex](https://creative-tops-home.myshopify.com/collections/duralex): Duralex tempered glass tumblers and mugs, made in France since 1945. Le Picardie, Gigogne, Lys and more, curated for everyday tables. Free US shipping.
+  Updated: 2026-10-29T12:06:55Z
+  Total Products: 28
+- [Tiseco](https://creative-tops-home.myshopify.com/collections/tiseco): Tiseco home textiles from Belgium, since 1946: vegan leather placemats, cotton kitchen towels, oven mitts and aprons. OEKO-TEX . Free US shipping.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 13
-- [Kitchen](https://creative-tops-home.myshopify.com/collections/kitchen)
-  Updated: 2026-10-07T12:41:50Z
+- [Kitchen](https://creative-tops-home.myshopify.com/collections/kitchen): Cotton kitchen towels, quilted oven mitts, pot holders, aprons and silicone sponges made in Belgium. Built for daily cooking. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 7
-- [New in](https://creative-tops-home.myshopify.com/collections/new-in)
-  Updated: 2026-10-27T14:12:19Z
+- [New in](https://creative-tops-home.myshopify.com/collections/new-in): The latest additions to Creative Tops Home: limited edition glass tumblers, new colors and table essentials. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 46
-- [Gifting & Sets](https://creative-tops-home.myshopify.com/collections/gifting-sets)
-  Updated: 2026-09-22T13:49:56Z
+- [Gifting & Sets](https://creative-tops-home.myshopify.com/collections/gifting-sets): Ready-to-give sets of glass tumblers, mugs and table textiles. Thoughtful gifts for hosts, coffee lovers and new homes. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:57Z
   Total Products: 0
-- [Gigogne](https://creative-tops-home.myshopify.com/collections/gigogne)
-  Updated: 2026-10-07T12:41:34Z
+- [Gigogne](https://creative-tops-home.myshopify.com/collections/gigogne): The Gigogne collection: stackable tempered glass tumblers and mugs, from 3 oz espresso glasses to 12 oz tumblers. Made in France.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 3
-- [Tumblers](https://creative-tops-home.myshopify.com/collections/tumblers)
-  Updated: 2026-10-07T12:41:43Z
+- [Tumblers](https://creative-tops-home.myshopify.com/collections/tumblers): Tempered glass tumblers and drinking glasses in clear and color, from 3 oz to 19.5 oz. Stackable, chip resistant and dishwasher safe.
+  Updated: 2026-10-29T12:07:00Z
   Total Products: 25
-- [Mugs](https://creative-tops-home.myshopify.com/collections/mugs)
-  Updated: 2026-10-07T12:41:40Z
+- [Mugs](https://creative-tops-home.myshopify.com/collections/mugs): Tempered glass mugs and espresso cups for coffee, tea and hot chocolate. Stackable, microwave and dishwasher safe, made in France.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 7
-- [Storage Containers](https://creative-tops-home.myshopify.com/collections/storage-containers)
-  Updated: 2026-10-07T12:41:32Z
+- [Storage Containers](https://creative-tops-home.myshopify.com/collections/storage-containers): Leakproof tempered glass food storage containers with locking lids. Microwave and dishwasher safe, for lunches, leftovers and meal prep.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 2
-- [Pot Holders](https://creative-tops-home.myshopify.com/collections/pot-holders)
-  Updated: 2026-10-07T12:41:49Z
+- [Pot Holders](https://creative-tops-home.myshopify.com/collections/pot-holders): Cotton and quilted pot holders with silicone grip, set of 2. Compact, heat resistant and ready to hang by the stove. Made in Belgium.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 2
-- [Placemats](https://creative-tops-home.myshopify.com/collections/placemats-1)
-  Updated: 2026-10-07T12:41:53Z
+- [Placemats](https://creative-tops-home.myshopify.com/collections/placemats-1): Placemats in vegan leather, faux leather and antibacterial weaves. Rectangular and oval, 13 x 18 in, waterproof and wipe clean.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 6
-- [Oven Mitts](https://creative-tops-home.myshopify.com/collections/oven-mitts)
-  Updated: 2026-10-07T12:41:50Z
+- [Oven Mitts](https://creative-tops-home.myshopify.com/collections/oven-mitts): Cotton and quilted oven mitts with silicone grip, sold in pairs. Heat resistant with hanging loops, made in Belgium. Several colors.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 2
-- [Kitchen Towels](https://creative-tops-home.myshopify.com/collections/kitchen-towels)
-  Updated: 2026-10-07T12:41:46Z
+- [Kitchen Towels](https://creative-tops-home.myshopify.com/collections/kitchen-towels): 100% cotton kitchen towels, set of 2, absorbent from the first wash with hanging loops. Made in Belgium in easy-to-match colors.
+  Updated: 2026-10-29T12:06:58Z
   Total Products: 1
-- [Cleaning Sponges](https://creative-tops-home.myshopify.com/collections/cleaning-sponges)
-  Updated: 2026-10-07T12:41:47Z
+- [Cleaning Sponges](https://creative-tops-home.myshopify.com/collections/cleaning-sponges): Reusable silicone kitchen sponges that clean without scratching glass or non-stick pans. No sour smell, dishwasher safe, made in Belgium.
+  Updated: 2026-10-29T12:06:56Z
   Total Products: 1
-- [Aprons](https://creative-tops-home.myshopify.com/collections/aprons)
-  Updated: 2026-10-07T12:41:49Z
+- [Aprons](https://creative-tops-home.myshopify.com/collections/aprons): Quilted cotton kitchen aprons with adjustable neck strap and front pocket, made in Belgium. Soft, structured and built for daily cooking. Free US shipping.
+  Updated: 2026-10-29T12:06:56Z
   Total Products: 1
-- [Bestsellers](https://creative-tops-home.myshopify.com/collections/bestsellers)
-  Updated: 2026-10-27T14:09:18Z
+- [Bestsellers](https://creative-tops-home.myshopify.com/collections/bestsellers): Our most loved pieces: French glass tumblers, stackable mugs and everyday table essentials. Free US shipping over $120 and easy 30-day returns.
+  Updated: 2026-10-29T12:06:56Z
   Total Products: 46
-- [Glassware](https://creative-tops-home.myshopify.com/collections/glassware)
-  Updated: 2026-10-27T15:06:09Z
+- [Glassware](https://creative-tops-home.myshopify.com/collections/glassware): French tempered glass tumblers and mugs, stackable, chip resistant and dishwasher safe. Classic café designs in clear and color. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 34
-- [Tableware](https://creative-tops-home.myshopify.com/collections/tableware)
-  Updated: 2026-10-07T12:41:53Z
+- [Tableware](https://creative-tops-home.myshopify.com/collections/tableware): Shop tableware for everyday dining: tempered glass tumblers, mugs, vegan leather placemats and fine porcelain. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 38
 - [Bakeware](https://creative-tops-home.myshopify.com/collections/bakeware)
   Updated: 2026-10-27T15:07:42Z
   Total Products: 7
-- [Porland](https://creative-tops-home.myshopify.com/collections/porland)
-  Updated: 2026-10-15T11:35:30Z
+- [Porland](https://creative-tops-home.myshopify.com/collections/porland): Porland fine porcelain since 1976: chip resistant Alumilite and Superior Bone dinnerware with reactive glazes, made for daily use. Free US shipping.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 0
 - [All Brands](https://creative-tops-home.myshopify.com/collections/all-brands)
   Updated: 2026-10-15T11:37:56Z
   Total Products: 47
-- [Duralex Tumblers](https://creative-tops-home.myshopify.com/collections/duralex-tumblers)
-  Updated: 2026-10-22T13:49:53Z
+- [Duralex Tumblers](https://creative-tops-home.myshopify.com/collections/duralex-tumblers): The original French café tumblers in tempered glass: Le Picardie, Gigogne, Lys and more. Stackable, chip resistant and dishwasher safe.
+  Updated: 2026-10-29T12:06:57Z
   Total Products: 25
-- [Duralex Mugs & Espresso Cups](https://creative-tops-home.myshopify.com/collections/duralex-mugs)
-  Updated: 2026-10-22T13:49:53Z
+- [Duralex Mugs & Espresso Cups](https://creative-tops-home.myshopify.com/collections/duralex-mugs): Stackable French glass mugs and espresso cups in tempered glass, from 3 oz to 16 oz. Microwave and dishwasher safe, for every coffee ritual.
+  Updated: 2026-10-29T12:06:56Z
   Total Products: 7
-- [Duralex Glass Food Storage](https://creative-tops-home.myshopify.com/collections/duralex-glass-food-storage)
-  Updated: 2026-10-22T13:49:53Z
+- [Duralex Glass Food Storage](https://creative-tops-home.myshopify.com/collections/duralex-glass-food-storage): Tempered glass food storage containers with leakproof locking lids, 0.8 and 1.1 qt. Microwave and dishwasher safe, made in France.
+  Updated: 2026-10-29T12:06:55Z
   Total Products: 2
-- [Tiseco Placemats](https://creative-tops-home.myshopify.com/collections/tiseco-placemats)
-  Updated: 2026-10-22T13:49:53Z
+- [Tiseco Placemats](https://creative-tops-home.myshopify.com/collections/tiseco-placemats): Tiseco placemats in vegan leather, faux leather and antibacterial weaves. Rectangular and oval, 13 x 18 in, waterproof and wipe clean. Made in Belgium.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 6
-- [Tiseco Oven Gloves & Grippers](https://creative-tops-home.myshopify.com/collections/tiseco-oven-gloves-grippers)
-  Updated: 2026-10-22T13:49:53Z
+- [Tiseco Oven Gloves & Grippers](https://creative-tops-home.myshopify.com/collections/tiseco-oven-gloves-grippers): Cotton and quilted oven mitts and pot holders from Tiseco, with silicone grip for a secure hold on hot pans. Heat resistant, made in Belgium.
+  Updated: 2026-10-29T12:06:59Z
   Total Products: 4
-- [Tiseco Kitchen Towels & Aprons](https://creative-tops-home.myshopify.com/collections/tiseco-kitchen-towels-aprons)
-  Updated: 2026-10-22T13:49:53Z
+- [Tiseco Kitchen Towels & Aprons](https://creative-tops-home.myshopify.com/collections/tiseco-kitchen-towels-aprons): 100% cotton kitchen towels and quilted cotton aprons from Tiseco Belgium. Absorbent, durable and available in easy-to-match colors.
+  Updated: 2026-10-29T12:07:00Z
   Total Products: 3
-- [Gifts Under $30](https://creative-tops-home.myshopify.com/collections/gifts-under-30): Stocking fillers, Secret Santa and little thank-yous for the home.
-  Updated: 2026-10-26T09:21:52Z
+- [Gifts Under $30](https://creative-tops-home.myshopify.com/collections/gifts-under-30): Small gifts under $30: glass tumbler sets, kitchen towels, pot holders and silicone sponges. Easy stocking stuffers and host gifts.
+  Updated: 2026-10-29T12:06:57Z
   Total Products: 18
-- [Gifts Under $50](https://creative-tops-home.myshopify.com/collections/gifts-under-50): Hostess gifts and everyday treats for the home.
-  Updated: 2026-10-26T09:21:57Z
+- [Gifts Under $50](https://creative-tops-home.myshopify.com/collections/gifts-under-50): Gifts under $50: glass tumbler and mug sets, oven mitts, aprons and kitchen towels. Well-made everyday pieces that are easy to give.
+  Updated: 2026-10-29T12:06:57Z
   Total Products: 35
-- [Gifts Under $100](https://creative-tops-home.myshopify.com/collections/gifts-under-100): Statement pieces for the people who matter most.
-  Updated: 2026-10-26T09:22:09Z
+- [Gifts Under $100](https://creative-tops-home.myshopify.com/collections/gifts-under-100): Premium home gifts under $100: glass drinkware sets, vegan leather placemats and quilted kitchen textiles. Free US shipping over $120.
+  Updated: 2026-10-29T12:06:56Z
   Total Products: 42
 
 ## Store Pages
@@ -869,22 +869,22 @@
   Updated: 2026-09-02T13:56:57Z
 - [Your Privacy Choices](https://creative-tops-home.myshopify.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-09-02T13:56:59Z
-- [Duralex](https://creative-tops-home.myshopify.com/pages/duralex)
-  Updated: 2026-10-22T13:52:32Z
-- [Porland](https://creative-tops-home.myshopify.com/pages/porland)
-  Updated: 2026-10-22T13:52:32Z
-- [Tiseco](https://creative-tops-home.myshopify.com/pages/tiseco)
-  Updated: 2026-10-22T13:52:32Z
-- [About Us](https://creative-tops-home.myshopify.com/pages/about-us)
-  Updated: 2026-10-27T08:16:11Z
+- [The Duralex Story: French Glass Icons](https://creative-tops-home.myshopify.com/pages/duralex): 
+  Updated: 2026-10-29T12:16:17Z
+- [About Porland: Porcelain Craft & Story](https://creative-tops-home.myshopify.com/pages/porland): 
+  Updated: 2026-10-29T12:16:03Z
+- [About Tiseco: Belgian Textile Makers](https://creative-tops-home.myshopify.com/pages/tiseco): 
+  Updated: 2026-10-29T12:15:38Z
+- [About Us](https://creative-tops-home.myshopify.com/pages/about-us): 
+  Updated: 2026-10-29T12:07:50Z
 - [Wishlist](https://creative-tops-home.myshopify.com/pages/wishlist)
   Updated: 2026-10-26T07:17:08Z
-- [Gift Guide](https://creative-tops-home.myshopify.com/pages/gift-guide)
-  Updated: 2026-10-27T08:15:36Z
-- [Everyday Essentials](https://creative-tops-home.myshopify.com/pages/everyday-essentials)
-  Updated: 2026-10-27T08:15:26Z
-- [Care & Use Guide](https://creative-tops-home.myshopify.com/pages/care-use-guide)
-  Updated: 2026-10-27T08:15:10Z
+- [Gift Guide: Glassware & Table Gifts](https://creative-tops-home.myshopify.com/pages/gift-guide): 
+  Updated: 2026-10-29T12:08:07Z
+- [Everyday Kitchen & Table Essentials](https://creative-tops-home.myshopify.com/pages/everyday-essentials): 
+  Updated: 2026-10-29T12:08:20Z
+- [Care & Use Guide for Glass & Textiles](https://creative-tops-home.myshopify.com/pages/care-use-guide): 
+  Updated: 2026-10-29T12:14:25Z
 
 ## Policies
 
