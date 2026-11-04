@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-10T22:38:09Z
 - Contact Email: myequitygroup@gmail.com
-- Updated At: 2026-10-27T21:43:18.685Z
+- Updated At: 2026-11-04T01:25:14.200Z
 
 ## Products
 
@@ -73,12 +73,12 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027.jpg?v=1791717995
     Price: $89.95 USD
 - [Floral Scripture Love Journal](https://giftsforyou.net/products/floral-scripture-love-journal-shop-238085-7396): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-27T19:04:41Z
+  Updated: 2026-11-01T08:56:14Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/floral-scripture-love-journal-4544626.jpg?v=1793127435
-  Price: $29.95 USD
+  Price: $39.95 USD
 - [To My Granddaughter, I Love You For The Rest Of My Life](https://giftsforyou.net/products/to-my-granddaughter-i-love-you-for-the-rest-of-my-life-shop-238085-5385): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
   Updated: 2026-10-27T19:39:11Z
   Vendor: ShineOn Fulfillment
@@ -199,26 +199,26 @@
     Availability: Available
     Price: $89.95 USD
 - [Adventure Seeker Journal – Wilderness Sunset Notebook](https://giftsforyou.net/products/adventure-seeker-journal-wilderness-sunset-notebook-shop-238085-7250): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-27T19:54:52Z
+  Updated: 2026-11-01T08:49:51Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/adventure-seeker-journal-wilderness-sunset-notebook-4005179.jpg?v=1793127430
-  Price: $29.95 USD
+  Price: $39.95 USD
 - [Keepsake Acrylic Bundle - You Left Pawprints In My Heart](https://giftsforyou.net/products/keepsake-acrylic-bundle-you-left-pawprints-in-my-heart-shop-238085-3602): Combine modern technology and a heartfelt message with our Square Acrylic Plaque!Your design is printed on crystal-clear premium acrylic and will easily become the centerpiece of any room.We offer 2 wooden base options to light up and display your artwork - a corded USB powered LED base, or a battery powered LED base (batteries not included).This product is perfect for loved ones celebrating any special occasion such as holidays, anniversaries, graduations, or “just because”. Let your creativity go wild! Product Specifications: Premium acrylic with UV printed design Acrylic Depth: 0.1" (5mm) Corded Wooden Base LED Features: Full product size: 6.5" (16.5cm) height x 5.9" (15cm) width x 1.8" (4.5cm) depth USB power cord (59.5" length) with attached controller to power on / off and to customize multiple lighting and color options First Class Energy Efficient (Electric current: 0.012A Power: 1 W) Battery Powered LED Base Features Full product size: 7" (17.8cm) height x 5.9" (15cm) width x 1.8" (45cm) depth Battery Powered LED Base uses a single button to customize light options with an On / Off switch located on the bottom of base First Class Energy Efficient (Electric current: 0.012A Power: 1 W)
-  Updated: 2026-10-27T19:55:17Z
+  Updated: 2026-10-28T18:43:56Z
   Vendor: ShineOn Fulfillment
   Product Type: Jewelry
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/keepsake-acrylic-bundle-you-left-pawprints-in-my-heart-5626236.jpg?v=1793127431
   Price: $39.95 USD
 - [To My Daughter Butterfly Journal - Mom's Love Letter Notebook](https://giftsforyou.net/products/to-my-daughter-butterfly-journal-moms-love-letter-notebook-shop-238085-7468): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-27T19:39:45Z
+  Updated: 2026-11-01T08:57:49Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-daughter-butterfly-journal-moms-love-letter-notebook-3236755.jpg?v=1793127433
-  Price: $29.95 USD
+  Price: $39.95 USD
 - [To My Daughter, You'll Always Be My Baby Girl](https://giftsforyou.net/products/to-my-daughter-youll-always-be-my-baby-girl-shop-238085-1276): Imagine her reaction receiving this beautiful Love Knot Necklace. Representing an unbreakable bond between two souls, this piece features a beautiful pendant embellished with premium cubic zirconia crystals. Surprise your loved one with this gorgeous gift today! 14k white gold over stainless steel or 18k yellow gold over stainless steel 6mm round cut cubic zirconia stone Pendant dimensions: 0.6" (15.7mm) height / 0.23" (6mm) width Adjustable chain length: 18" - 22" (45.72cm - 55.88cm) Lobster clasp attachment Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
   Updated: 2026-10-27T19:04:39Z
   Vendor: ShineOn Fulfillment
@@ -242,19 +242,19 @@
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/asset_4380_transformation_12027_53b60e1f-ae1d-4941-b805-a10c72d3ca7f.jpg?v=1791718086
     Price: $89.95 USD
 - [Journey Of A Thousand Miles - Graphic Journal](https://giftsforyou.net/products/journey-of-a-thousand-miles-graphic-journal-shop-238085-6796): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-27T19:04:38Z
+  Updated: 2026-11-01T08:52:37Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/journey-of-a-thousand-miles-graphic-journal-1446546.jpg?v=1793127436
-  Price: $29.95 USD
+  Price: $39.95 USD
 - [Father's Legacy Journal –  Tree of Life Notebook](https://giftsforyou.net/products/fathers-legacy-journal-tree-of-life-notebook-shop-238085-5918): What better way to quiet your racing mind than with a clean slate? The Graphic Leather Journal is the perfect accessory for personal reminders, goal setting, or just getting organized. This vegan leather notebook allows you to write on the go thanks to its lightweight design. Plus, swapping between your important pages is easy thanks to the ribbon bookmark and elastic closure band. The unique front is professionally printed with vibrant colors - making your design last as long as your to-do list! Your journal will be custom made upon order and feature a professionally printed design. This present makes for a truly unique and sentimental gift that will be treasured! Product specifications: Vegan leather cover W 5.8" x L 8.5" x ⅝” (14.73cm x 21.59cm x 1.6cm) 100 sheets / 200 lined pages Brown elastic closure band Ribbon bookmark Weight: 11.33 ounces Each order is lovingly packaged and shipped with care!
-  Updated: 2026-10-27T19:04:38Z
+  Updated: 2026-11-01T08:50:56Z
   Vendor: ShineOn Fulfillment
   Product Type: Accessory
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/fathers-legacy-journal-tree-of-life-notebook-8224956.jpg?v=1793127429
-  Price: $29.95 USD
+  Price: $39.95 USD
 - [To My Mom, I Know Its Not Easy](https://giftsforyou.net/products/to-my-mom-i-know-its-not-easy-shop-238085-4605): Give her the gift that symbolizes your never-ending love. Featuring two lovely hearts embellished with cubic zirconia crystals, this Interlocking Hearts necklace is the perfect accessory for everyday wear. Whether it's a memorable anniversary or a special birthday, make sure to dazzle your special someone by gifting them this stunning necklace. Two heart pendants embellished with CZ crystals High quality polished surgical steel and rose gold finish or 18k yellow gold finish Pendant dimensions: 0.6" (1.5cm) height / 1.1" (2.8cm) width Adjustable length: 18" - 22" (45.72 cm - 55.88 cm) Lobster clasp Your piece is lovingly packaged in a complimentary soft touch box for easy gifting. Elevate your presentation by upgrading to the mahogany style luxury box, which features a brilliant LED spotlight.
   Updated: 2026-10-27T19:53:13Z
   Vendor: ShineOn Fulfillment
@@ -736,35 +736,14 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/to-my-lovely-daughter-hold-this-tight-to-feel-my-love-5340418.jpg?v=1793127369
     Price: $94.95 USD
-- [$30 Mystery Gift Card](https://giftsforyou.net/products/30-mystery-gift-card): A free mystery gift card from GiftVault. It unlocks a surprise gift from GiftVault partner brands. Sent to your email after purchase.
-  Updated: 2026-10-27T21:36:32Z
-  Vendor: GiftVault
-  Product Type: Digital
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/gold-foil-30.png?v=1793136991
-  Price: $30.00 USD
-- [$60 Mystery Gift Card](https://giftsforyou.net/products/60-mystery-gift-card): A free mystery gift card from GiftVault. It unlocks a surprise gift from GiftVault partner brands. Sent to your email after purchase.
-  Updated: 2026-10-27T21:34:06Z
-  Vendor: GiftVault
-  Product Type: Digital
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/classic-black-60.png?v=1793136842
-  Price: $60.00 USD
-- [$100 Mystery Gift Card](https://giftsforyou.net/products/100-mystery-gift-card): A free mystery gift card from GiftVault. It unlocks a surprise gift from GiftVault partner brands. Sent to your email after purchase.
-  Updated: 2026-10-27T21:41:24Z
-  Vendor: GiftVault
-  Product Type: Digital
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1036/6287/8996/files/classic-black-100.png?v=1793136843
-  Price: $100.00 USD
 
 ## Collections
 
 - [Journal](https://giftsforyou.net/collections/journal)
-  Updated: 2026-10-27T18:54:08Z
+  Updated: 2026-10-31T21:10:58Z
   Total Products: 5
 - [Acrylic Plaques](https://giftsforyou.net/collections/acrylic-plaques)
-  Updated: 2026-10-27T18:54:11Z
+  Updated: 2026-10-29T11:19:09Z
   Total Products: 5
 - [Blankets](https://giftsforyou.net/collections/blankets)
   Updated: 2026-10-27T18:54:12Z
@@ -779,7 +758,7 @@
   Updated: 2026-10-27T18:54:17Z
   Total Products: 1
 - [To My Daughter](https://giftsforyou.net/collections/to-my-daughter)
-  Updated: 2026-10-27T18:54:18Z
+  Updated: 2026-10-31T21:10:03Z
   Total Products: 14
 - [To My Wife](https://giftsforyou.net/collections/to-my-wife)
   Updated: 2026-10-27T18:54:19Z
@@ -788,11 +767,30 @@
   Updated: 2026-10-27T18:54:21Z
   Total Products: 0
 - [To My Mom](https://giftsforyou.net/collections/to-my-mom)
-  Updated: 2026-10-27T18:54:23Z
+  Updated: 2026-10-31T21:10:03Z
   Total Products: 8
 - [To My Dad](https://giftsforyou.net/collections/to-my-dad)
-  Updated: 2026-10-27T18:54:24Z
+  Updated: 2026-10-31T21:08:34Z
   Total Products: 2
+- [Recommended Products (Wiz Email)](https://giftsforyou.net/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
+  Updated: 2026-10-31T21:10:58Z
+  Total Products: 41
+
+## Blogs
+
+- [News](https://giftsforyou.net/blogs/news)
+  - [Crafting Messages with Meaningful Gifts](https://giftsforyou.net/blogs/news/meaningful-gifts-for-deep-connections): Explore how meaningful gifts enhance relationships, convey emotions, and create lasting memories. Learn to craft heartfelt messages that resonate.
+    Updated: 2026-10-31T22:37:58Z
+    Author: Gifts For You Team
+  - [Heartfelt Jewelry Gifts for Daughters to Cherish](https://giftsforyou.net/blogs/news/heartfelt-jewelry-gifts-for-daughters): Discover meaningful jewelry gifts for daughters that express love and create lasting memories. Choose the perfect piece to cherish forever.
+    Updated: 2026-11-01T20:30:00Z
+    Author: Gifts For You Team
+  - [The Art of Gift-Giving: What Truly Matters](https://giftsforyou.net/blogs/news/the-art-of-gift-giving): Discover the true essence of gift-giving and strengthen your relationships with meaningful, heartfelt gifts that express your feelings.
+    Updated: 2026-11-02T20:29:48Z
+    Author: Gifts For You Team
+  - [Sentimental Gifts to Cherish Your Mom](https://giftsforyou.net/blogs/news/sentimental-gifts-for-mom): Discover heartfelt gifts for your mom that express love and appreciation. Ideal for Mother's Day, birthdays, or just to say thank you.
+    Updated: 2026-11-03T20:20:21Z
+    Author: Gifts For You Team
 
 ## Store Pages
 
@@ -802,6 +800,8 @@
   Updated: 2026-10-10T22:38:15Z
 - [About Us](https://giftsforyou.net/pages/about-us): We create meaningful, personalized gifts for the people who matter most.
   Updated: 2026-10-11T18:24:05Z
+- [My Wishlist](https://giftsforyou.net/pages/wishlistsuite-wishlist)
+  Updated: 2026-10-29T02:36:33Z
 
 ## Policies
 
