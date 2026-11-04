@@ -6,7 +6,7 @@
 - Timezone: Africa/Accra
 - Created At: 2026-09-28T15:12:47Z
 - Contact Email: edwardzebulon777@gmail.com
-- Updated At: 2026-10-27T15:04:45.328Z
+- Updated At: 2026-11-04T01:38:20.467Z
 
 ## Products
 
@@ -187,203 +187,203 @@
   Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/world-globe-mapa-home-decor-accessories-4825023.webp?v=1790714588
   Price: $25.99 USD
 - [3D Moving Sand Art Picture Round Glass Deep Sea Sandscape Hourglass Quicksand Craft Flowing Sand Painting Office Home Decor Gift](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg): 3D Moving Sand Art Picture Round Glass Deep Sea Sandscape Hourglass Quicksand Craft Flowing Sand Painting Office Home Decor Gift
-  Updated: 2026-10-27T12:18:06Z
+  Updated: 2026-11-01T07:44:11Z
   Vendor: EMBER-HOME
-  Product Type: Sand Art
+  Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+  Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
   - [Black Base-Purple / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349334257)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9981ec6f8a8b4e3da1f675286aedcf6aU.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4825224.webp?v=1793319969
     Price: $32.99 USD
   - [Black Base-Black / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349367025)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [Black Base-Purple / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349399793)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9981ec6f8a8b4e3da1f675286aedcf6aU.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4825224.webp?v=1793319969
     Price: $54.99 USD
   - [Black Base-Purple / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349432561)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9981ec6f8a8b4e3da1f675286aedcf6aU.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4825224.webp?v=1793319969
+    Price: $39.99 USD
   - [Black Base-Orange / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349465329)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sd0fbf0df732e4d80aab28783e890ed08Q.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7503373.webp?v=1793320028
+    Price: $39.99 USD
   - [Black Base-Orange / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349498097)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sd0fbf0df732e4d80aab28783e890ed08Q.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7503373.webp?v=1793320028
     Price: $32.99 USD
   - [Black Base-Blue / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349530865)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [Black Base-Orange / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349563633)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sd0fbf0df732e4d80aab28783e890ed08Q.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7503373.webp?v=1793320028
     Price: $54.99 USD
   - [Black Base-Pink / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349596401)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
   - [Black Base-Pink / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349629169)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [Black Base-Green / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349661937)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [Black Base-Pink / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349694705)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [Black Base-Green / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349727473)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [Black Base-Green / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349760241)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
   - [Black Base-Black / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349793009)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
   - [Black Base-Black / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349825777)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Blue / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349858545)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Secbacd00da26483fa94a9dbd501c8274x.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4492228.webp?v=1793319970
     Price: $54.99 USD
   - [White Base-Blue / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349891313)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Secbacd00da26483fa94a9dbd501c8274x.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4492228.webp?v=1793319970
+    Price: $39.99 USD
   - [Black Base-Brown / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349924081)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S088de07c944a4389a54b2a239db0fa30x.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6842021.webp?v=1793319969
+    Price: $39.99 USD
   - [Black Base-Brown / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349956849)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S088de07c944a4389a54b2a239db0fa30x.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6842021.webp?v=1793319969
     Price: $32.99 USD
   - [Black Base-Red / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311349989617)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8ec41ea071d341909c5b40b36b3823fc9.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8296552.webp?v=1793319970
     Price: $32.99 USD
   - [Black Base-Brown / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350022385)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S088de07c944a4389a54b2a239db0fa30x.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6842021.webp?v=1793319969
     Price: $54.99 USD
   - [Black Base-Red / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350055153)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8ec41ea071d341909c5b40b36b3823fc9.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8296552.webp?v=1793319970
     Price: $54.99 USD
   - [Black Base-Red / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350087921)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8ec41ea071d341909c5b40b36b3823fc9.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8296552.webp?v=1793319970
+    Price: $39.99 USD
   - [White Base-Purple / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350120689)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9b7a81164f754bbebdb2e2fb99b596aa6.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-9074259.webp?v=1793319969
     Price: $32.99 USD
   - [White Base-Black / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350513905)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sf561a8d7e3994a85bbaca1991a30cca61.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6137145.webp?v=1793320028
     Price: $54.99 USD
   - [White Base-Purple / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350546673)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9b7a81164f754bbebdb2e2fb99b596aa6.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-9074259.webp?v=1793319969
     Price: $54.99 USD
   - [White Base-Purple / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350579441)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S9b7a81164f754bbebdb2e2fb99b596aa6.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-9074259.webp?v=1793319969
+    Price: $39.99 USD
   - [White Base-Orange / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350612209)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8239461efbf24c688793d0da9e69b381i.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7948642.webp?v=1793320028
+    Price: $39.99 USD
   - [White Base-Orange / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350644977)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8239461efbf24c688793d0da9e69b381i.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7948642.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Blue / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350677745)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Secbacd00da26483fa94a9dbd501c8274x.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-4492228.webp?v=1793319970
     Price: $32.99 USD
   - [White Base-Orange / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350710513)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8239461efbf24c688793d0da9e69b381i.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-7948642.webp?v=1793320028
     Price: $54.99 USD
   - [White Base-Pink / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350743281)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
   - [White Base-Pink / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350776049)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Green / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350808817)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S0591ae0e83c64dac927b87255b4fa34e8.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-3726252.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Pink / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350841585)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [White Base-Green / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350874353)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S0591ae0e83c64dac927b87255b4fa34e8.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-3726252.webp?v=1793320028
     Price: $54.99 USD
   - [White Base-Green / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350907121)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S0591ae0e83c64dac927b87255b4fa34e8.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-3726252.webp?v=1793320028
+    Price: $39.99 USD
   - [White Base-Black / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350939889)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sf561a8d7e3994a85bbaca1991a30cca61.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6137145.webp?v=1793320028
+    Price: $39.99 USD
   - [White Base-Black / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311350972657)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/Sf561a8d7e3994a85bbaca1991a30cca61.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-6137145.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Brown / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351005425)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8edbc38ac7214beeb5d494008b706e1eY.webp?v=1792969119
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8813450.webp?v=1793319969
+    Price: $39.99 USD
   - [White Base-Brown / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351038193)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8edbc38ac7214beeb5d494008b706e1eY.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8813450.webp?v=1793319969
     Price: $32.99 USD
   - [White Base-Red / 5 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351070961)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $32.99 USD
   - [White Base-Brown / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351103729)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S8edbc38ac7214beeb5d494008b706e1eY.webp?v=1792969119
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-8813450.webp?v=1793319969
     Price: $54.99 USD
   - [White Base-Red / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351136497)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [White Base-Red / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351169265)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
   - [Black Base-Blue / 12 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351202033)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
     Price: $54.99 USD
   - [Black Base-Blue / 7 inch](https://emberhome-store.myshopify.com/products/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-91276017905-5onpg?variant=67311351234801)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/S6836697de70747cc858cf5412e86baf6c.webp?v=1792969118
-    Price: $54.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0818/6429/4641/files/3d-moving-sand-art-picture-round-glass-deep-sea-sandscape-hourglass-quicksand-craft-flowing-sand-painting-office-home-decor-gift-1694955.webp?v=1793320028
+    Price: $39.99 USD
 
 ## Collections
 
@@ -391,11 +391,27 @@
   Updated: 2026-10-06T08:43:56Z
   Total Products: 1
 - [Home](https://emberhome-store.myshopify.com/collections/home): This is a default collection.
-  Updated: 2026-10-27T12:18:08Z
+  Updated: 2026-10-28T10:33:39Z
   Total Products: 4
 - [Home](https://emberhome-store.myshopify.com/collections/home-1): This is a default collection.
   Updated: 2026-10-25T23:03:21Z
   Total Products: 30
+
+## Blogs
+
+- [News](https://emberhome-store.myshopify.com/blogs/news)
+  - [A Mesmerizing Addition: How 3D Sandscapes Enhance Any Room's Ambiance](https://emberhome-store.myshopify.com/blogs/news/a-mesmerizing-addition-how-3d-sandscapes-enhance-any-rooms-ambiance): A Mesmerizing Addition: How 3D Sandscapes Enhance Any Room's Ambiance
+    Updated: 2026-10-30T00:20:13Z
+    Author: Edward Zebulon
+  - [Discover the Tranquility: Transform Your Office Space with 3D Moving Sand Art](https://emberhome-store.myshopify.com/blogs/news/discover-the-tranquility-transform-your-office-space-with-3d-moving-sand-art): Discover the Tranquility: Transform Your Office Space with 3D Moving Sand Art
+    Updated: 2026-10-30T00:20:14Z
+    Author: Edward Zebulon
+  - [Uncover the Magic: Turning Your Home Into a Sanctuary with 3D Moving Sand Art](https://emberhome-store.myshopify.com/blogs/news/uncover-the-magic-turning-your-home-into-a-sanctuary-with-3d-moving-sand-art): Uncover the Magic: Turning Your Home Into a Sanctuary with 3D Moving Sand Art
+    Updated: 2026-11-01T21:23:07Z
+    Author: Edward Zebulon
+  - [Elevate Your Home's Ambiance with Mesmerizing Deep Sea Sandscape Hourglass Art](https://emberhome-store.myshopify.com/blogs/news/elevate-your-homes-ambiance-with-mesmerizing-deep-sea-sandscape-hourglass-art): Elevate Your Home's Ambiance with Mesmerizing Deep Sea Sandscape Hourglass Art
+    Updated: 2026-11-02T20:24:07Z
+    Author: Edward Zebulon
 
 ## Store Pages
 
