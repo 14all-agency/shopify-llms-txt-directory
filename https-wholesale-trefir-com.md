@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2024-09-12T13:08:00Z
 - Contact Email: mmeziad@trefir.com
-- Updated At: 2026-10-27T00:42:17.882Z
+- Updated At: 2026-11-04T00:41:48.755Z
 
 Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying clogs, sandals, slippers, and casual shoes in bulk to retailers worldwide, with no minimum order quantity. Based in Istanbul, Türkiye, with 12+ years of manufacturing experience and 6 million+ pairs shipped to buyers in 30+ countries. Trefir is also the factory behind the Dr. Klompa® and Dr. Mez® brands.
 
@@ -414,7 +414,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-15-57-50.jpg?v=1751008990
     Price: $52.00 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-154065): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-28T12:37:20Z
+  Updated: 2026-10-28T05:23:16Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -953,7 +953,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541026_Print--Synthetic-Pranetta_1.jpg?v=1751008968
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541027): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-24T07:41:07Z
+  Updated: 2026-10-28T05:22:22Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1009,7 +1009,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541040_Print--Synthetic-Pranetta_1.jpg?v=1751008956
   Price: $55.20 USD
 - [Wholesale Men's Orthopedic Sabo Clogs | Bulk Work Footwear](https://wholesale.trefir.com/products/mens-sabo-1541043): Wholesale men's orthopedic sabo clogs — ergonomic, durable & high-margin. Bulk-ready for , retail & distributors. Get a quote today.
-  Updated: 2026-09-30T07:26:41Z
+  Updated: 2026-10-30T13:18:47Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1062,21 +1062,21 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Slippers_1541045_Print--Synthetic-Pranetta_1.jpg?v=1751008952
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541046): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-31T13:26:30Z
+  Updated: 2026-10-31T09:49:43Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541046_Print--Synthetic-Pranetta_1.jpg?v=1751008951
   Price: $65.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541047): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-24T07:40:06Z
+  Updated: 2026-10-28T05:22:07Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541047_Print--Synthetic-Pranetta_1.jpg?v=1751008950
   Price: $65.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541048): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-14T13:37:06Z
+  Updated: 2026-10-28T05:22:00Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1096,7 +1096,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541050_Print--Synthetic-Pranetta_1.jpg?v=1751008947
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541051): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-24T07:40:17Z
+  Updated: 2026-10-28T05:21:59Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1110,14 +1110,14 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541052_Print--Synthetic-Pranetta_1.jpg?v=1751008945
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541053): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-29T06:26:45Z
+  Updated: 2026-10-31T09:49:10Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541053_Print--Synthetic-Pranetta_1.jpg?v=1751008944
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541054): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-28T12:37:20Z
+  Updated: 2026-10-28T05:24:28Z
   Vendor: tigerline
   Product Type: 
   Availability: Available
@@ -1344,7 +1344,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541082_Print--Synthetic-Pranetta_1.jpg?v=1751008928
   Price: $55.20 USD
 - [Wholesale Women's Printed Sabo Clogs | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sabo-1541083): Wholesale women's printed sabo clogs — ergonomic, lightweight & durable. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-31T13:27:47Z
+  Updated: 2026-10-28T05:22:07Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1409,7 +1409,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_1541161_Print--Synthetic-Pranetta_1.jpg?v=1751008923
   Price: $55.20 USD
 - [Wholesale Women's Comfort Slippers | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-slippers-154120): Wholesale women's comfort slippers — plush cushioned, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-29T06:26:11Z
+  Updated: 2026-10-28T05:22:12Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1919,7 +1919,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/PHOTO-2025-05-09-16-24-03.jpg?v=1751008910
     Price: $52.00 USD
 - [Wholesale Women's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sandals-154148): Wholesale women's casual sandals — breathable, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-30T14:50:46Z
+  Updated: 2026-10-28T05:22:13Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -1993,7 +1993,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sandals_154148_Navy-Blue--Synthetic-Nubuck_1.jpg?v=1778760076
     Price: $63.20 USD
 - [Wholesale Women's Comfort Slippers | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-slippers-154160): Wholesale women's comfort slippers — plush cushioned, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-09-28T09:34:15Z
+  Updated: 2026-10-28T05:24:27Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2393,7 +2393,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/5870596432908630174.jpg?v=1764842841
     Price: $58.00 USD
 - [Wholesale Men's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/mens-sandals-154181): Wholesale men's casual sandals — flexible, breathable & high-margin. Bulk-ready for retailers, supermarkets & distributors. Request a quote today.
-  Updated: 2026-09-29T07:17:21Z
+  Updated: 2026-10-28T05:22:00Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2599,7 +2599,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Mens_Sandals_154181_Navy--Synthetic-Nubuck-3_1.jpg?v=1778761008
     Price: $68.00 USD
 - [Wholesale Women's Orthopedic Sabo Clogs | Bulk Work Footwear](https://wholesale.trefir.com/products/womens-sabo-154182): Wholesale women's orthopedic sabo clogs — ergonomic, durable & high-margin. Bulk-ready for , retail & distributors. Get a quote today.
-  Updated: 2026-09-30T07:25:46Z
+  Updated: 2026-10-31T09:49:16Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2836,7 +2836,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/Womens_Sabo_154219_Print--Synthetic-Pranetta_1.jpg?v=1751008885
   Price: $55.20 USD
 - [Wholesale Women's Casual Sandals | Bulk Footwear Supplier](https://wholesale.trefir.com/products/womens-sandals-154226): Wholesale women's casual sandals — breathable, lightweight & high-margin. Bulk-ready for retailers & distributors. Request a quote today.
-  Updated: 2026-08-29T06:26:01Z
+  Updated: 2026-10-28T05:24:25Z
   Vendor: drklompa
   Product Type: 
   Availability: Available
@@ -2861,12 +2861,12 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0864/0079/4948/files/999.DK1YZE.SM293.03.01016.png?v=1761046239
     Price: $52.00 USD
-[List Continued](https://wholesale.trefir.com/a/llms-agent/llms.txt?shop=a2f363-e4.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAyNTg2NTA2NDc3MiwibGFzdF92YWx1ZSI6IjE1MDI1ODY1MDY0NzcyIn0%3D)
+[List Continued](https://wholesale.trefir.com/a/llms-agent/llms.txt?shop=a2f363-e4.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTAyNTg2NTA2NDc3MiwibGFzdF92YWx1ZSI6IjIwMjUtMDMtMjMgMTM6MTY6MzAuMDAwMDAwIn0%3D)
 
 ## Collections
 
 - [Frontpage Collection – Bestselling Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/frontpage): Explore Trefir Wholesale’s Frontpage Collection: top-rated, durable, and stylish footwear crafted in Istanbul—perfect for wholesale and resale success.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 25
 - [Slippers – Comfortable & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/slippers-wholesale): Shop slippers wholesale at Trefir. Comfortable, durable footwear for men & women made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-10-22T10:48:40Z
@@ -2878,7 +2878,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-22T10:48:40Z
   Total Products: 194
 - [Full Catalog – Complete Footwear Collection | Trefir Wholesale](https://wholesale.trefir.com/collections/full-catalog-wholesale-footwear): Browse Trefir's complete wholesale footwear catalog. Slippers, sandals, clogs & more made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-22T10:48:40Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 1287
 - [Women's Footwear – Sandals, Slippers & Clogs | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-footwear-wholesale): Shop women's footwear wholesale at Trefir. Sandals, slippers & clogs made in Istanbul. Competitive bulk pricing for retailers & B2B buyers.
   Updated: 2026-10-22T10:48:40Z
@@ -2890,10 +2890,10 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-20T13:59:17Z
   Total Products: 178
 - [Men's Footwear – Clogs, Sandals & Casual Shoes | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-footwear-wholesale): Shop men's footwear wholesale at Trefir. Clogs, sandals & casual shoes made in Istanbul. Competitive bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T14:01:35Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 441
 - [Clogs & Sabo – Comfortable Footwear](https://wholesale.trefir.com/collections/clogs-sabo-wholesale): Shop clogs & sabo wholesale at Trefir. Comfortable, versatile & lightweight bulk footwear made in Istanbul for retailers & B2B buyers.
-  Updated: 2026-10-22T10:40:34Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 501
 - [Women's Clogs & Sabo – Comfortable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/omens-clogs-sabo-wholesale): Shop women's clogs & sabo wholesale at Trefir. Comfortable, stylish & versatile bulk footwear made in Istanbul for retailers & B2B buyers.
   Updated: 2026-10-22T10:40:34Z
@@ -2917,13 +2917,13 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-20T13:57:35Z
   Total Products: 212
 - [Men's Clogs & Sabo – Comfortable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-clogs-sabo-wholesale): Shop men's clogs & sabo wholesale at Trefir. Comfortable, versatile & durable bulk footwear made in Istanbul for retailers & B2B buyers.
-  Updated: 2026-10-20T14:01:35Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 41
 - [Men's Slippers – Comfortable & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-slippers-wholesale): Shop men's slippers wholesale at Trefir. Comfortable, durable & hardwearing bulk footwear made in Istanbul for retailers & B2B buyers.
   Updated: 2026-10-20T13:49:58Z
   Total Products: 156
 - [Best- Wholesale Footwear – Top Retailer Picks | Trefir Wholesale](https://wholesale.trefir.com/collections/best--wholesale-footwear): Shop Trefir's best- wholesale footwear. Top picks across slippers, sandals & clogs made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 53
 - [Women's Sandals Best Sellers – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-sandals-best-sellers-wholesale): Shop Trefir's best- women's sandals wholesale. Stylish, durable & proven retail performers made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-09-02T15:02:34Z
@@ -2941,10 +2941,10 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-20T14:01:35Z
   Total Products: 25
 - [Faire Smart Collection (Do Not Edit)](https://wholesale.trefir.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire to support product performance reporting on Shopify. Please do not modify or delete this collection, as it is used for analytics and sales insights.
-  Updated: 2026-10-22T10:48:40Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 1290
 - [Men's Best Sellers – Top Footwear Picks](https://wholesale.trefir.com/collections/mens-best-sellers-wholesale-footwear): Shop Trefir's men's best- footwear wholesale. Top-performing clogs, sandals & slippers made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 20
 - [Women's Sandals – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-sandals-wholesale): Shop women's sandals wholesale at Trefir. Stylish, durable & trend-led bulk footwear made in Istanbul for retailers & B2B buyers.
   Updated: 2026-09-02T15:02:34Z
@@ -2956,16 +2956,16 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-08-24T13:41:55Z
   Total Products: 11
 - [New Arrivals – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/new-arrivals-wholesale-footwear): Shop Trefir's new arrival wholesale footwear. The latest clogs, sandals, slippers & casuals made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T14:01:35Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 448
 - [Women's Casual Shoes – Stylish Everyday Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-casual-shoes-wholesale): Shop women's casual shoes wholesale at Trefir. Stylish, versatile everyday footwear made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-09-02T14:40:14Z
   Total Products: 10
 - [Tigerline – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/tigerline-wholesale-footwear): Shop the Tigerline footwear collection wholesale at Trefir. Bold, stylish & durable bulk shoes made in Istanbul for retailers & B2B buyers.
-  Updated: 2026-10-20T14:00:07Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 300
 - [Dr. Klompa – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/dr-klompa-wholesale-footwear): Shop the Dr. Klompa footwear collection wholesale at Trefir. Stylish, durable & premium quality bulk shoes made in Istanbul for retailers & B2B buyers.
-  Updated: 2026-10-22T10:48:40Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 678
 - [Dr. Mez – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/dr-mez-wholesale-footwear): Shop the Dr. Mez footwear collection wholesale at Trefir. Stylish, durable & distinguished bulk shoes made in Istanbul for retailers & B2B buyers.
   Updated: 2026-10-12T16:35:52Z
@@ -2974,7 +2974,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-09-02T14:40:59Z
   Total Products: 237
 - [Premium Leather – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/premium-leather-wholesale-footwear): Shop Trefir's premium leather footwear wholesale. Stylish, durable & genuine leather bulk shoes made in Istanbul for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 427
 - [Women's Printed Sabo Clogs – Stylish, Comfortable & Wholesale-Ready | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-printed-sabo-clogs-wholesale): Shop women's printed sabo clogs wholesale at Trefir. Stylish, comfortable & bold designs made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-09-02T18:19:00Z
@@ -2989,13 +2989,13 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-09-02T18:19:00Z
   Total Products: 275
 - [Regional Top Sellers – High-Demand Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/regional-top-sellers-wholesale): Shop Trefir's regional top- wholesale footwear. Proven styles across global markets made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-22T10:48:40Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 1290
 - [Africa Top Sellers – Best- Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/africa-top-sellers-wholesale): Shop Trefir's Africa top- footwear wholesale. Proven best sellers across African markets made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 32
 - [Balkan Top Sellers – Best- Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/balkan-top-sellers-wholesale): Shop Trefir's Balkan top- wholesale footwear. Proven best sellers across Balkan markets made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-09-01T11:16:39Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 42
 - [Gulf Region Top Sellers – Best- Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/gulf-region-top-sellers-wholesale): Shop Trefir's Gulf Region best- footwear wholesale. Proven styles for UAE, Saudi & Gulf markets made in Istanbul. Bulk orders for B2B buyers.
   Updated: 2026-10-20T11:17:19Z
@@ -3004,19 +3004,19 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-20T11:17:19Z
   Total Products: 53
 - [Europe Top Sellers – Best- Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/europe-top-sellers-wholesale): Shop Trefir's Europe top- footwear wholesale. Proven best sellers across European markets made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-09-12T11:15:42Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 36
 - [Turkey Top Sellers – Best- Wholesale Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/turkey-top-sellers-wholesale): Shop Trefir's Turkey top- footwear wholesale. Proven best sellers made in Istanbul for the Turkish market. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 40
 - [Men's Summer Collection – Lightweight, Stylish & Comfortable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-summer-footwear-wholesale): Shop Trefir's men's summer footwear wholesale. Lightweight, stylish sandals, clogs & casuals made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 140
 - [Women's Summer Collection – Stylish, Lightweight & Comfortable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/womens-summer-footwear-wholesale): Shop Trefir's women's summer footwear wholesale. Stylish, lightweight sandals, clogs & sabo made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-10-20T11:17:19Z
   Total Products: 433
 - [Men's Clogs Best Sellers – Durable & Stylish Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-clogs-best-sellers-wholesale): Shop Trefir's best- men's clogs wholesale. Durable, stylish & proven retail performers made in Istanbul. Bulk pricing for retailers & B2B buyers.
-  Updated: 2026-10-20T11:17:19Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 16
 - [Men's Sandals Best Sellers – Stylish & Durable Footwear | Trefir Wholesale](https://wholesale.trefir.com/collections/mens-sandals-best-sellers-wholesale): Shop Trefir's best- men's sandals wholesale. Stylish, durable & proven retail performers made in Istanbul. Bulk pricing for retailers & B2B buyers.
   Updated: 2026-09-12T11:15:42Z
@@ -3028,7 +3028,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-09-02T11:19:16Z
   Total Products: 35
 - [Ultimate Search - Do not delete](https://wholesale.trefir.com/collections/ultimate-search-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-10-22T10:40:34Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 879
 - [Kernazi - Womens Sandals](https://wholesale.trefir.com/collections/kernazi-womens-sandals)
   Updated: 2026-06-07T08:37:36Z
@@ -3040,7 +3040,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-22T10:48:40Z
   Total Products: 194
 - [Kernazi - Men Sabo](https://wholesale.trefir.com/collections/kernazi-men-sabo)
-  Updated: 2026-10-20T14:01:35Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 41
 - [Kernazi - Men Slippers](https://wholesale.trefir.com/collections/kernazi-men-slippers)
   Updated: 2026-09-02T14:34:38Z
@@ -3055,7 +3055,7 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
   Updated: 2026-10-22T10:40:34Z
   Total Products: 460
 - [Catalog - sabo mens](https://wholesale.trefir.com/collections/catalog-sabo-mens)
-  Updated: 2026-10-20T14:01:35Z
+  Updated: 2026-10-28T11:21:40Z
   Total Products: 41
 
 ## Blogs
@@ -3208,6 +3208,9 @@ Trefir Wholesale is a Turkish manufacturer and exporter of footwear, supplying c
 </div>
 </div>
     Updated: 2026-10-21T20:04:12Z
+    Author: Mahmoud Aljabouli
+  - [How to Buy Footwear Wholesale: A Beginner's Guide | Trefir Wholesale](https://wholesale.trefir.com/blogs/news/how-to-buy-footwear-wholesale): How to Buy Footwear Wholesale: A Beginner's Guide | Trefir Wholesale
+    Updated: 2026-11-02T16:10:32Z
     Author: Mahmoud Aljabouli
 
 ## Store Pages
