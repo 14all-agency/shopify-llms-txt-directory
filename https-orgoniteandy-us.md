@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2024-10-26T17:05:09Z
 - Contact Email: wright92a@tutanota.com
-- Updated At: 2026-10-28T17:19:58.955Z
+- Updated At: 2026-11-05T00:26:47.976Z
 
 ## Products
 
 - [Orgonite Tower Busters – Black Sun Orgone Energy Generator](https://orgoniteandy.us/products/black-sun-orgonite-tower-buster): Black Sun Orgonite Tower Busters for EMF protection, energy clearing & 5G defense. Great for gifting, gridding, and harmonizing your space.
-  Updated: 2026-10-27T07:51:48Z
+  Updated: 2026-11-02T21:44:07Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -61,7 +61,7 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/black-sun-orgonite-tower-busters-puck-set.jpg?v=1791398897
     Price: $224.95 USD
 - [Orgonite Tower Buster – Reiki, Chakra & Energy Healing Tool](https://orgoniteandy.us/products/red-rock-sedona-orgonite-tower-buster): Andy's Red Vortex Orgonite Tower Buster made for Reiki, chakra healing, meditation, and energy balancing. A perfect tool for healers and spiritual practitioners
-  Updated: 2026-10-26T18:37:53Z
+  Updated: 2026-11-03T17:01:25Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -107,7 +107,7 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/89d3e05b-il_fullxfull.1207054920_jqky.jpg?v=1754273263
     Price: $224.95 USD
 - [EMF Sticker Shield – Orgonite Cell Phone Radiation Blocker](https://orgoniteandy.us/products/products-orgonite-emf-sticker-medium): Orgonite EMF sticker for phones, WiFi & devices. Helps reduce radiation impact & harmonize energy emitted from the device. Easy-to-use for daily protection.
-  Updated: 2026-10-26T18:37:53Z
+  Updated: 2026-10-31T00:39:01Z
   Vendor: OrgoniteAndy
   Product Type: EMF Sticker
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Available
     Price: $23.95 USD
 - [Black Shungite Crushed Chips – Russian Healing Stones](https://orgoniteandy.us/products/products-black-shungite-crushed-chips): 100% authentic, premium-quality Black Shungite crushed chips from Russia. Used for water filtration, EMF protection, energy work, decorative use, and inlay art.
-  Updated: 2026-10-26T18:37:53Z
+  Updated: 2026-10-31T01:38:45Z
   Vendor: OrgoniteAndy
   Product Type: Crystal Chips
   Availability: Available
@@ -146,7 +146,7 @@
     Availability: Available
     Price: $4.95 USD
 - [Orgonite Cell Phone Sticker – EMF Radiation Harmonizer](https://orgoniteandy.us/products/orgonite-cell-phone-sticker-black-sun-emf-blocker): Orgonite cell phone sticker protects against EMF radiation. Easy to apply, harmonizes energy, and restores balance with powerful orgone energy.
-  Updated: 2026-10-26T18:37:54Z
+  Updated: 2026-10-31T00:03:18Z
   Vendor: OrgoniteAndy
   Product Type: EMF Sticker
   Availability: Available
@@ -179,7 +179,7 @@
     Availability: Available
     Price: $14.95 USD
 - [Gemstone Pendant |  Hand-Carved Stone Drop Bead Necklace](https://orgoniteandy.us/products/hand-carved-crystal-gemstone-pendant): Enhance your collection with our stunning Drop Bead Gemstone Pendant Necklace, a unique handcrafted piece perfect for crystal enthusiasts.
-  Updated: 2026-10-26T18:37:54Z
+  Updated: 2026-10-30T02:28:21Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
@@ -228,7 +228,7 @@
     Availability: Available
     Price: $21.95 USD
 - [Orgonite Tower Buster – Black Sun Orgone Energy Generator](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster-crystals): Discover Andy's Large Black Sun Orgonite Tower Buster, a powerful orgone generator handcrafted using the Black Sun Blend for unparalleled EMF protection.
-  Updated: 2026-10-27T10:10:31Z
+  Updated: 2026-10-30T02:28:21Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -278,7 +278,7 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-pucks-product-closeup.jpg?v=1791398582
     Price: $145.95 USD
 - [Orgonite Pendant – EMF Protection | Orgone Energy Necklace](https://orgoniteandy.us/products/black-sun-orgonite-pendant-donut-necklace): Handcrafted Black Sun Orgonite Pendant for EMF protection, grounding & energy balance. Features premium crystals, metals & 432Hz healing frequency.
-  Updated: 2026-10-26T18:37:54Z
+  Updated: 2026-10-31T01:20:30Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
@@ -292,7 +292,7 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/black-sun-orgonite-pendant-outdoor-display.png?v=1791398529
     Price: $29.95 USD
 - [Crushed Clear Quartz – Natural Fine Crystal Sand for Healing](https://orgoniteandy.us/products/fine-crushed-clear-quartz-sand): Elevate your crafts with our crushed Clear Quartz granules. Perfect for inlays and art, made from 100% natural Brazilian quartz.
-  Updated: 2026-10-26T18:37:54Z
+  Updated: 2026-10-31T01:31:29Z
   Vendor: OrgoniteAndy
   Product Type: Crystal Chips
   Availability: Available
@@ -310,21 +310,21 @@
     Availability: Available
     Price: $45.95 USD
 - [Red Rock Sedona Vortex Orgonite Pendant | Crystal Energy Jewelry](https://orgoniteandy.us/products/sedona-red-rock-orgonite-pendant-necklace): Handmade Sedona Red Rock Orgonite Pendant Necklace – Orgone energy vortex harmonizer with 7 healing crystals for chakra balance, grounding & positive energy.
-  Updated: 2026-10-26T18:37:54Z
+  Updated: 2026-10-31T01:00:41Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/sedona-red-rock-orgonite-donut-pendant.jpg?v=1791398446
   Price: $19.95 USD
 - [Orgonite Tower Buster – Powerful EMF Protection Tool](https://orgoniteandy.us/products/large-black-sun-orgonite-tower-buster): Discover Andy's Large Black Sun Orgonite Tower Buster, your ideal solution for EMF shielding and energy harmonizing.
-  Updated: 2026-10-26T21:53:41Z
+  Updated: 2026-10-31T01:38:20Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/large-black-sun-orgonite-tower-buster.jpg?v=1791398165
   Price: $16.95 USD
 - [Orgonite Energy - Large Sedona Vortex Tower Buster Pucks](https://orgoniteandy.us/products/large-sedona-orgonite-tower-buster): Discover Orgone Energy with orgonite tower buster for EMF protection & chakra healing. Handcrafted with powerful crystals & metals for energy balance.
-  Updated: 2026-10-27T06:42:52Z
+  Updated: 2026-10-31T22:00:20Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
@@ -370,14 +370,14 @@
     Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/sedona-red-rock-orgonite-tower-bustersjpg.jpg?v=1791397990
     Price: $169.95 USD
 - [Orgonite Tower Buster – Mini Chakra & Meditation Energy Tool](https://orgoniteandy.us/products/mini-sedona-orgonite-tower-buster): Mini Sedona Red Rock Orgonite Tower Buster for chakra healing, Reiki, and meditation. Great for energy clearing, gifting, and spiritual space protection.
-  Updated: 2026-10-26T18:37:55Z
+  Updated: 2026-10-30T02:28:21Z
   Vendor: OrgoniteAndy
   Product Type: Tower Buster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/sedona-red-rock-orgonite-tower-busters.jpg?v=1791398129
   Price: $5.95 USD
 - [Shungite Bracelet - EMF Protection | 8mm Beads - Stretch Fit](https://orgoniteandy.us/products/shungite-bracelet-8mm-beads): Authentic Russian Shungite bracelet with 8mm beads. Benefits include EMF protection, energy healing, and stylish wearable wellness.
-  Updated: 2026-10-26T18:37:55Z
+  Updated: 2026-10-31T01:31:44Z
   Vendor: OrgoniteAndy
   Product Type: Bracelet
   Availability: Available
@@ -391,7 +391,7 @@
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/white-sage-palo-santo-selenite-smudge-kit.jpg?v=1791399495
   Price: $16.95 USD
 - [Clear Quartz Crystal Chips – 100% Natural Crystal Gemstones](https://orgoniteandy.us/products/clear-quartz-crushed-chips): 100% natural Clear Quartz crystal chips from Brazil. Perfect for healing, orgonite making, crafts, and energy work. Order a 1/4 pound of raw crystal chips.
-  Updated: 2026-10-26T18:37:55Z
+  Updated: 2026-10-31T03:42:25Z
   Vendor: OrgoniteAndy
   Product Type: Crystal Chips
   Availability: Available
@@ -406,28 +406,28 @@
     Availability: Available
     Price: $24.95 USD
 - [White Sage Smudge Kit - 3-Pack for Energy Cleansing](https://orgoniteandy.us/products/california-white-sage-smudge-bundle-3-pack): Cleanse your space naturally with our White Sage Smudge Kit. Perfect for meditation, intention setting, and refreshing your environment.
-  Updated: 2026-10-26T18:37:56Z
+  Updated: 2026-10-31T01:00:53Z
   Vendor: OrgoniteAndy
   Product Type: Smudge Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/california-white-sage-smudge-kit-3-pack.jpg?v=1791399272
   Price: $14.95 USD
 - [White Selenite Puffy Heart – Reiki Healing Crystal](https://orgoniteandy.us/products/products-white-selenite-puffy-heart-palm-stone): Hand-carved white Selenite puffy heart palm stone. A powerful tool for Reiki, meditation, energy cleansing, and protection. Great as a healing crystal gift.
-  Updated: 2026-10-26T18:37:56Z
+  Updated: 2026-10-31T00:34:47Z
   Vendor: OrgoniteAndy
   Product Type: Palm Stone
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/il_340x270.2173152803_tgpd.jpg?v=1754276842
   Price: $11.95 USD
 - [Shungite Pendant - Eclipse - Black - EMF Protection Necklace](https://orgoniteandy.us/products/black-shungite-pendant-2-inch-round-eclipse-emf-necklace): Discover our handcrafted Shungite pendant, designed to neutralize EMF radiation and promote emotional balance with style.
-  Updated: 2026-10-26T18:37:56Z
+  Updated: 2026-10-31T22:00:15Z
   Vendor: OrgoniteAndy
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0906/8779/9581/files/black-shungite-eclipse-donut-pendant-necklace.jpg?v=1791402710
   Price: $19.96 USD
 - [Shungite Oval Bead Necklace (20″) | Authentic Black Gemstone](https://orgoniteandy.us/products/shungite-oval-bead-necklace-polished-black-gemstone-necklace-20): Handcrafted 20-inch polished Russian shungite oval bead necklace. Natural EMF shielding, root chakra grounding, and sophisticated everyday style.
-  Updated: 2026-10-26T18:37:56Z
+  Updated: 2026-10-31T01:33:08Z
   Vendor: OrgoniteAndy
   Product Type: Necklace
   Availability: Available
@@ -444,10 +444,10 @@
 ## Collections
 
 - [Orgonite Andy's Home page](https://orgoniteandy.us/collections/orgonite-andys-home-page): OrgoniteAndy.us – Handcrafted orgonite crystals, and chakra jewelry for EMF protection, energy balancing, meditation, and spiritual wellness.
-  Updated: 2026-10-26T19:51:42Z
+  Updated: 2026-11-03T12:13:07Z
   Total Products: 5
 - [What Is a Orgonite Tower Buster?](https://orgoniteandy.us/collections/orgonite-tower-busters): Boost your space with Orgonite Tower Busters—handcrafted orgone energy generators that neutralize EMFs, cleanse energy, and restore balance in your environment.
-  Updated: 2026-10-27T11:16:00Z
+  Updated: 2026-11-04T12:12:32Z
   Total Products: 6
 - [Orgonite Pendants & Shungite Jewlery](https://orgoniteandy.us/collections/orgonite-pendants-chakra-jewlery): Handcrafted Orgonite pendants & chakra jewelry for EMF protection, energy balance, chakra alignment, and spiritual wellness—wear daily for positive vibes.
   Updated: 2026-10-26T18:37:53Z
@@ -461,6 +461,9 @@
 - [EMF Stickers & Shields – Cell Phone & Device Protection](https://orgoniteandy.us/collections/emf-stickers-and-shields-cell-phone-protection): Orgonite EMF stickers protect phones, tablets, laptops & WiFi. Small, sleek, and crystal-infused for portable energy balancing and EMF defense.
   Updated: 2026-10-26T18:37:53Z
   Total Products: 2
+- [Recommended Products (Wiz Email)](https://orgoniteandy.us/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
+  Updated: 2026-11-04T12:12:32Z
+  Total Products: 23
 
 ## Blogs
 
@@ -476,6 +479,9 @@
     Author: OrgoniteAndy
   - [What Is Orgonite? History, Composition, and How It Works](https://orgoniteandy.us/blogs/orgonite-andys-blog/what-is-orgonite-an-in-depth-exploration-of-energy-history-and-practice): What Is Orgonite? History, Composition, and How It Works
     Updated: 2026-10-07T18:20:34Z
+    Author: Andrew Wright
+  - [Where to Place Orgonite: 15 Best Spots for Tower Busters | Orgonite Andy](https://orgoniteandy.us/blogs/orgonite-andys-blog/where-to-place-orgonite-tower-busters): Where to Place Orgonite: 15 Best Spots for Tower Busters | Orgonite Andy
+    Updated: 2026-10-28T17:55:04Z
     Author: Andrew Wright
 
 ## Store Pages
