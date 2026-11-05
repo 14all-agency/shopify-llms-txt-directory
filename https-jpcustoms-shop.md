@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-07-23T20:15:53Z
 - Contact Email: jpcustoms.store@gmail.com
-- Updated At: 2026-10-28T00:41:31.780Z
+- Updated At: 2026-11-05T00:43:25.000Z
 
 JP Customs offers premium automotive parts, exterior upgrades, interior accessories, and lighting solutions for car enthusiasts in the UK and internationally at a lower price point than most automotive online stores. Specializing in show-quality finishes and durable engineering, we provide professional-grade automotive upgrades with fast UK delivery and worldwide shipping.
 
@@ -81,7 +81,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Sf5d70d17d26140ebb14aae8606636a92u_76bf2bbd-f521-474d-baf1-48fc3ab4d90f.webp?v=1769020706
     Price: £34.00 GBP
 - [Scorpion Ascari Carbon Fibre Tips](https://jpcustoms.shop/products/scorpion-ascari-carbon-fibre-tips): Hand-crafted carbon fibre exhaust tips with matt finish and 304 stainless steel internals. Premium Scorpion Ascari quality for performance enthusiasts.
-  Updated: 2026-09-17T03:09:01Z
+  Updated: 2026-10-31T15:58:49Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
@@ -111,7 +111,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/lrgscale17546-90ASC4-Scorpion-Car-Exhaus-Upgrade-Kit-90mm-Carbon-Ascari-All-Makes-and-Models-1498-0.jpg?v=1757275185
     Price: £510.00 GBP
 - [Magnetic Numberplate Kit SWIFTMAG Removable License](https://jpcustoms.shop/products/swiftmag-magnetic-removable-numberplate-kit): SWIFTMAG magnetic numberplate kit - install or remove in seconds. No screws, no tape, no damage. Strong magnets ensure secure, reliable fitting.
-  Updated: 2026-10-26T08:15:46Z
+  Updated: 2026-11-04T17:26:17Z
   Vendor: Diversion Automotive
   Product Type: Numberplate Holder
   Availability: Available
@@ -128,7 +128,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/double_sided_tape_for_plate_holder.webp?v=1772401786
     Price: £7.50 GBP
 - [Midnight Madness Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/midnight-madness-hoodie): Midnight Madness hoodie by Late Brake. Premium unisex automotive apparel with bold graphics. Perfect for car enthusiasts and JDM culture. Sizes S-3XL. UK stock.
-  Updated: 2026-10-08T22:23:34Z
+  Updated: 2026-10-30T14:10:06Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -154,8 +154,11 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Black / 4XL](https://jpcustoms.shop/products/midnight-madness-hoodie?variant=59370948526405)
     Availability: Available
     Price: £49.99 GBP
+  - [Black / 5XL](https://jpcustoms.shop/products/midnight-madness-hoodie?variant=59992792924485)
+    Availability: Not Available
+    Price: £49.99 GBP
 - [Subaru Impreza Hoodie - Premium Automotive Apparel](https://jpcustoms.shop/products/impreza-hoodie): Subaru Impreza hoodie premium automotive apparel. High-quality streetwear for enthusiasts. Comfortable fit, bold design. UK stock.
-  Updated: 2026-10-08T22:23:35Z
+  Updated: 2026-10-30T14:09:56Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -181,8 +184,11 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Black / 4XL](https://jpcustoms.shop/products/impreza-hoodie?variant=59370936533317)
     Availability: Available
     Price: £49.99 GBP
+  - [Black / 5XL](https://jpcustoms.shop/products/impreza-hoodie?variant=59992792957253)
+    Availability: Not Available
+    Price: £49.99 GBP
 - [Dream Chaser Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/dream-chaser-hoodie): Dream Chaser hoodie by Late Brake. Premium unisex automotive apparel with bold motivational graphics. Perfect for car enthusiasts. Sizes S-3XL. UK stock.
-  Updated: 2026-10-08T22:23:36Z
+  Updated: 2026-10-30T14:09:51Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -208,8 +214,11 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   - [Black / 4XL](https://jpcustoms.shop/products/dream-chaser-hoodie?variant=59370917331269)
     Availability: Available
     Price: £49.99 GBP
+  - [Black / 5XL](https://jpcustoms.shop/products/dream-chaser-hoodie?variant=59992793055557)
+    Availability: Not Available
+    Price: £49.99 GBP
 - [Future Design Hoodie - Premium Automotive Streetwear](https://jpcustoms.shop/products/future-hoodie): Future Design hoodie by Late Brake. Premium unisex automotive apparel with modern progressive graphics. Perfect for car enthusiasts. Sizes S-3XL. UK stock.
-  Updated: 2026-10-08T22:23:38Z
+  Updated: 2026-10-30T14:09:55Z
   Vendor: Late Brake
   Product Type: Hoodie
   Availability: Available
@@ -234,6 +243,9 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Price: £38.15 GBP
   - [Black / 4XL](https://jpcustoms.shop/products/future-hoodie?variant=59370918936901)
     Availability: Available
+    Price: £49.99 GBP
+  - [Black / 5XL](https://jpcustoms.shop/products/future-hoodie?variant=59992793514309)
+    Availability: Not Available
     Price: £49.99 GBP
 - [Honda Racing Sunstrip - Premium Windscreen Visor Decal](https://jpcustoms.shop/products/premium-wrap-sunstrip-h-racing): Honda Racing sunstrip premium windscreen visor decal. High-quality vinyl, easy application. Show-ready finish for enthusiasts. UK stock.
   Updated: 2026-08-29T04:24:31Z
@@ -426,7 +438,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/sparco_7f3233b2-082d-4489-b65a-e7bc13afaa28.png?v=1762979624
     Price: £30.00 GBP
 - [VW Crafter Headlight Guards – Gloss Black (2018+) | Van-X](https://jpcustoms.shop/products/for-vw-crafter-new-shape-headlight-guards-gloss-black-premium-protection-van-x): VW Crafter headlight guards gloss black 2018+ Van-X. Premium protection, sleek finish. Perfect fit, durable construction. UK stock.
-  Updated: 2026-10-17T19:02:39Z
+  Updated: 2026-11-03T16:02:25Z
   Vendor: Van-X
   Product Type: Exterior Styling
   Availability: Available
@@ -455,7 +467,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £12.00 GBP
 - [600g Car Fire Extinguisher | BSI  | 5 Year Warranty](https://jpcustoms.shop/products/600g-car-fire-extinguisher): BSI  600g dry powder car fire extinguisher. Safe for electrical fires, 21B rating, 5-year warranty. Essential safety equipment for every vehicle.
-  Updated: 2026-10-26T05:41:56Z
+  Updated: 2026-10-31T07:10:12Z
   Vendor: P1 Autocare
   Product Type: Fire Extinguishers
   Availability: Available
@@ -771,7 +783,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [K-Brace Ford Fiesta ST MK7 MK7.5 Rear Strut Bar | Interior Brace 2008–2017](https://jpcustoms.shop/products/k-brace®-ford-fiesta-st-mk7-mk7-5-rear-strut-brace): K-Brace Ford Fiesta ST MK7 MK7.5 rear strut brace improves chassis rigidity and control. Fits 2013–2018 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-09-24T17:12:14Z
+  Updated: 2026-10-29T22:46:47Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1026,7 +1038,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [K-Brace® - Mini Cooper S R53 Rear Strut Brace](https://jpcustoms.shop/products/k-brace®-mini-cooper-s-r53-rear-strut-brace): K-Brace Mini Cooper S R53 rear strut brace improves stability and control. Fits 2001-2007 R50 R53 models. Includes fitting kit. UK made by BAF Motorsport.
-  Updated: 2026-09-04T15:15:40Z
+  Updated: 2026-11-03T15:20:19Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1177,14 +1189,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [Scorpion Exhaust Valve Delete Module - Twin Pack](https://jpcustoms.shop/products/scorpion-exhaust-valve-delete-module-twin-pack-scexvdm2): Scorpion exhaust valve delete module twin pack. Unlock full exhaust sound, eliminate valve restrictions. Premium performance upgrade. UK stock.
-  Updated: 2026-09-20T03:59:51Z
+  Updated: 2026-10-31T16:08:42Z
   Vendor: Diversion Automotive
   Product Type: Exhausts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/SCEXVDM2_BAG-900x900.jpg?v=1769013668
   Price: £45.00 GBP
 - [Draper Storm Force Pressure Washer - High Power Cleaning](https://jpcustoms.shop/products/draper-storm-force-pressure-washer-105bar-1400w-jet-power-washer-snow-foam-gun-1522psi-patio-and-car-cleaner-98674-blue): Draper Storm Force pressure washer high power cleaning. Professional-grade performance for vehicles and exteriors. Durable build, UK stock.
-  Updated: 2026-10-24T19:40:11Z
+  Updated: 2026-11-04T00:58:09Z
   Vendor: Jolof Store
   Product Type: Pressure Washers
   Availability: Available
@@ -1205,15 +1217,11 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/S-CMS-1011Y.jpg?v=1769270932
     Price: £6.00 GBP
 - [T10 LED Bulb W5W SMD-3030 Side Light Interior Marker](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v): T10 LED bulb W5W SMD-3030 for side lights, interior markers. Bright, energy-efficient upgrade. 12V DC. Direct replacement for halogen bulbs.
-  Updated: 2026-09-15T17:19:46Z
+  Updated: 2026-10-29T08:06:06Z
   Vendor: Mira Sales
   Product Type: In Car
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/led_bulbs_different_colours_56a32deb-9705-4852-96de-9e9a63bf0ec3.jpg?v=1769270208
-  - [2 SMD-3030 / Yellow Light](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v?variant=56969679438149)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067YL.jpg?v=1769270208
-    Price: £3.00 GBP
   - [2 SMD-3030 / Ice Blue Light](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v?variant=56969679274309)
     Availability: Available
     Price: £3.00 GBP
@@ -1229,6 +1237,10 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067RL.jpg?v=1769270208
     Price: £3.00 GBP
+  - [2 SMD-3030 / Yellow Light](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v?variant=56969679438149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067YL.jpg?v=1769270208
+    Price: £3.00 GBP
   - [2 SMD-3030 LEDs / White Light](https://jpcustoms.shop/products/2-pcs-t10-2w-2-smd-3030-led-car--lights-lamp-dc-12v?variant=56969679405381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5067WL.jpg?v=1769270208
@@ -1241,7 +1253,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/CMS5682.jpg?v=1769267097
   Price: £10.00 GBP
 - [LED Interior Lighting Kit App Control RGB Ambient Car](https://jpcustoms.shop/products/led-interior-ambient-mood-lighting-kit-multi-colour-usb-powered-app-controlled-all-cars): LED interior lighting kit with app control, RGB ambient car lighting. Multi-colour wireless control via smartphone. USB-powered, universal fit for all vehicles.
-  Updated: 2026-09-16T16:09:33Z
+  Updated: 2026-11-03T15:17:49Z
   Vendor: Diversion Automotive
   Product Type: Interior Styling
   Availability: Available
@@ -1253,14 +1265,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £57.00 GBP
 - [LED Cup Holders Universal RGB Car Interior Lighting](https://jpcustoms.shop/products/led-light-up-universal-cup-holders): LED cup holders universal RGB car interior lighting. Multi-colour ambient illumination with button control. USB-C rechargeable. Fits most vehicles.
-  Updated: 2026-09-16T16:06:13Z
+  Updated: 2026-11-03T15:19:09Z
   Vendor: Diversion Automotive
   Product Type: Cup Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/Screenshot2025-07-03131439.png?v=1769366075
   Price: £8.30 GBP
 - [Mercedes CLA Air Vent Trim Rings C118 W118 2020+](https://jpcustoms.shop/products/mercedes-benz-cla-air-conditioning-vent-trims-c118-w118-2020-models): Mercedes CLA air vent trim rings C118 W118 2020+. Premium billet aluminium upgrade for show-ready interiors. Perfect fit, easy install. UK stock.
-  Updated: 2026-09-16T18:21:33Z
+  Updated: 2026-11-03T15:11:29Z
   Vendor: Diversion Automotive
   Product Type: Interior Styling
   Availability: Available
@@ -1273,7 +1285,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £29.00 GBP
 - [BMW F Series Grille Strut Brace Covers Billet Aluminium](https://jpcustoms.shop/products/bmw-grille-strut-brace-crash-bar-covers-multiple-models): BMW F Series grille strut brace covers billet aluminium. Premium caps go over existing crash bars for appearance enhancement. UK stock.
-  Updated: 2026-10-07T08:04:03Z
+  Updated: 2026-11-03T15:13:54Z
   Vendor: Diversion Automotive
   Product Type: Exterior Styling
   Availability: Available
@@ -1303,7 +1315,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/f1be1ab19a2c39117e7b6ed2a6a2e323.png?v=1769366451
     Price: £34.00 GBP
 - [BMW E36 Rear Strut Brace | K-Brace® Billet Aluminium | UK](https://jpcustoms.shop/products/k-brace®-bmw-3-series-coupe-e36-rear-strut-brace): BMW E36 rear strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-08-29T04:24:46Z
+  Updated: 2026-10-28T14:12:36Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1489,7 +1501,7 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £175.00 GBP
 - [Renault Megane RS Strut Brace | K-Brace® Billet Aluminium](https://jpcustoms.shop/products/k-brace®-renault-megane-rs-mk3-rear-strut-brace): Renault Megane RS strut brace engineered for precision handling. CNC-machined billet aluminium reduces chassis flex. UK-made by K-Brace®. 14-day dispatch.
-  Updated: 2026-08-29T04:24:47Z
+  Updated: 2026-11-04T17:12:05Z
   Vendor: BAF Motorsport
   Product Type: K-Brace®
   Availability: Available
@@ -1671,14 +1683,14 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Availability: Available
     Price: £174.99 GBP
 - [Invisible Number Plate Holder | PlexiClick Frameless Clip UK](https://jpcustoms.shop/products/plexiclick®-invisible-number-plate-holder-clip): Invisible number plate holder with frameless PlexiClick clips. No drilling, quick install, easy removal for shows. UK plates only. Weather-resistant design.
-  Updated: 2026-10-13T21:48:56Z
+  Updated: 2026-11-02T11:20:50Z
   Vendor: Car Enhancements UK
   Product Type: Number Plate Holder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/1812/7429/files/3_2755384e-fe2f-4f92-bf7b-2e1e9967b65f.webp?v=1770556172
   Price: £12.00 GBP
 - [Universal Footwell Light Kit | Plug & Play LED Ambient Set](https://jpcustoms.shop/products/universal-permanent-footwell-light-kit-ceuk-plug-play-ambient-upgrade): Universal footwell light kit with plug & play installation. Ultra-bright 12SMD LEDs, 6 colours, auto on/off with ignition. Fits any vehicle in 10 minutes.
-  Updated: 2026-10-20T13:42:47Z
+  Updated: 2026-10-31T14:01:16Z
   Vendor: Car Enhancements UK
   Product Type: Ambient Lighting Kit
   Availability: Available
@@ -3578,6 +3590,22 @@ JP Customs offers premium automotive parts, exterior upgrades, interior accessor
     Tags: automotive products, car accessories, car care, car mods
   - [Uncommon Solutions with Car Accessories to Elevate Your Ride Experience](https://jpcustoms.shop/blogs/product-insights/uncommon-solutions-with-car-accessories-to-elevate-your-ride-experience): Uncommon Solutions with Car Accessories to Elevate Your Ride Experience
     Updated: 2026-10-23T18:02:47Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Auto Enthusiasts Guide to the Latest Car Accessories Trends](https://jpcustoms.shop/blogs/product-insights/auto-enthusiasts-guide-to-the-latest-car-accessories-trends): Auto Enthusiasts Guide to the Latest Car Accessories Trends
+    Updated: 2026-10-28T18:00:32Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Secrets of Expert Car Care Revealed: Top Tips and Products](https://jpcustoms.shop/blogs/product-insights/secrets-of-expert-car-care-revealed-top-tips-and-products): Secrets of Expert Car Care Revealed: Top Tips and Products
+    Updated: 2026-10-29T18:03:08Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [Solving Everyday Driving Issues with Innovative Car Accessories](https://jpcustoms.shop/blogs/product-insights/solving-everyday-driving-issues-with-innovative-car-accessories): Solving Everyday Driving Issues with Innovative Car Accessories
+    Updated: 2026-10-30T18:02:50Z
+    Author: Jamie, JP Customs
+    Tags: automotive products, car accessories, car care, car mods
+  - [The Ultimate Guide to Car Accessories for the Modern Driver](https://jpcustoms.shop/blogs/product-insights/the-ultimate-guide-to-car-accessories-for-the-modern-driver): The Ultimate Guide to Car Accessories for the Modern Driver
+    Updated: 2026-11-04T18:00:32Z
     Author: Jamie, JP Customs
     Tags: automotive products, car accessories, car care, car mods
 
