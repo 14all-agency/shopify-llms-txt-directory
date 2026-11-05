@@ -6,38 +6,38 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2026-08-07T16:23:51Z
 - Contact Email: hello@rozenamaison.com
-- Updated At: 2026-10-28T07:43:24.433Z
+- Updated At: 2026-11-05T01:17:19.468Z
 
 ## Products
 
 - [Pro-Aging Nourishing Face Cream](https://rozenamaison.com/products/pro-aging-nourishing-face-cream-c6f898): Experience the luxurious care of the Pro-Aging Nourishing Face Cream, a premium riche cream crafted to deeply hydrate and rejuvenate your skin. This product is ideal for individuals seeking to elevate their skincare routine with eco-friendly, clean beauty solutions. Free from parabens, fragrances, and phthalates, it offers a gentle, cruelty-free experience. The formulation includes aloe leaf juice, rich in antioxidants and amino acids, and organic shea butter for superior moisturization. Squalane and jojoba seed oil enhance hydration, promoting a dewy, glass-like complexion while improving skin texture and reducing acne. Encased in a sleek, minimalist 50 mL bottle, the cream is designed for easy integration into your daily regimen. Its compact size (37 x 37 x 120.5 mm) makes it perfect for travel. Ideal for those who prioritize quality and sustainability, this face cream delivers profound hydration and a radiant, healthy glow.
-  Updated: 2026-10-27T03:59:45Z
+  Updated: 2026-11-01T12:35:42Z
   Vendor: rozena maison
   Product Type: Riche Cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/8274/9270/files/asset_11_transformation_18.jpg?v=1787611193
   Price: $45.00 USD
 - [Milky Oil Foaming Cleanser](https://rozenamaison.com/products/milky-oil-foaming-cleanser-092d4a): The Milky Oil Foaming Cleanser is a premium skincare product designed to provide deep nourishment and hydration for a radiant complexion. This cleanser is part of the clean beauty movement, being 100% cruelty-free and free from parabens, fragrances, and phthalates. It combines Helianthus Annuus (Sunflower) Seed Oil and Olea Europaea (Olive) Oil to nourish and protect the skin's barrier while maintaining moisture. Enriched with Aloe Vera, Macadamia Oil, and Hyaluronic Acid, it enhances hydration, calms redness, and restores skin balance. Packaged in a sleek, pink 50 mL (1.7 fl oz) bottle, this cleanser is perfect for daily use. Its gentle formula effectively removes impurities, leaving your skin plump, dewy, and radiant. Ideal for those seeking a gentle yet effective cleansing solution, it supports a glowing complexion with each use.
-  Updated: 2026-10-27T03:59:45Z
+  Updated: 2026-11-01T12:35:42Z
   Vendor: rozena maison
   Product Type: Foaming Cleanser
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/8274/9270/files/asset_17_transformation_27.jpg?v=1787681850
   Price: $49.00 USD
-- [Radiance Under Eye Balm](https://rozenamaison.com/products/radiance-under-eye-balm-651a1b): Radiance Under Eye Balm is a premium antioxidant balm crafted to nourish and hydrate the delicate skin around your eyes. Enriched with mango seed butter and shea butter, it delivers deep moisture and a soothing sensation. The inclusion of bakuchiol, a plant-based ingredient, promotes smoother-feeling skin, while green coffee seed oil and lycopene provide powerful antioxidant benefits. This blend softens and conditions the skin, leaving it smooth and refreshed without heaviness. The balm is housed in a compact, easy-to-use tube, making it a perfect addition to your daily skincare routine. Its gentle formula is suitable for everyday use, offering targeted hydration and antioxidant care to combat dryness and enhance smoothness. Ideal for anyone looking to elevate their skincare regimen, it helps maintain a youthful and vibrant appearance. Whether you're addressing dryness or seeking a smoother eye area, this balm is an essential addition to your beauty collection.
-  Updated: 2026-10-27T03:45:11Z
-  Vendor: BeautyBoss
-  Product Type: Antioxidant Under Eye Balm
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1050/8274/9270/files/asset_136_transformation_1099.jpg?v=1792949912
-  Price: $28.87 USD
 - [Edible Sun Balm](https://rozenamaison.com/products/edible-sun-balm-57ebae): Introducing the Edible Sun Balm, a solar daylight balm crafted to nourish and protect your skin around sun exposure. This balm features a blend of grass-fed beef tallow, organic beeswax, and African shea butter, enriched with cold-pressed red raspberry seed oil. These ingredients work together to support your skin's natural Vitamin D production while offering deep hydration and antioxidant protection. Ideal for outdoor enthusiasts and those with sensitive skin, the balm provides a gentle UV buffering effect thanks to the red raspberry seed oil. The creamy shea butter helps restore skin elasticity, making it a soothing option for sun care. Packaged in a sleek, portable 4 oz tin, the Edible Sun Balm is easy to carry and apply, fitting seamlessly into your daily skincare routine. Experience nature's finest ingredients for a sun-supportive, nourishing skincare solution.
-  Updated: 2026-10-27T04:14:45Z
+  Updated: 2026-11-01T12:35:42Z
   Vendor: BeautyBoss
   Product Type: Solar Daylight Balm
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1050/8274/9270/files/asset_112_transformation_1037.png?v=1793028546
   Price: $32.95 USD
+- [Radiance Under Eye Balm](https://rozenamaison.com/products/radiance-under-eye-balm-24b42b): Radiance Under Eye Balm is a luxurious antioxidant under-eye  designed to nourish and moisturize the delicate skin around your eyes. This rich balm is formulated with mango seed butter and shea butter, providing essential hydration and a soothing touch. The inclusion of botanical oils enhances its conditioning properties, ensuring your skin feels soft and comforted. Infused with bakuchiol, a plant-derived ingredient known for promoting smoother skin, and antioxidant-rich lycopene and green coffee seed oil, this balm offers targeted care to combat signs of fatigue and aging. Its lightweight texture melts effortlessly into the skin, delivering moisture without any heaviness. Ideal for daily use, Radiance Under Eye Balm is perfect for anyone looking to elevate their skincare routine with effective, gentle care. The convenient, compact packaging makes it easy to incorporate into your daily regimen, ensuring your eye area remains nourished, smooth, and radiant.
+  Updated: 2026-11-01T12:35:42Z
+  Vendor: BeautyBoss
+  Product Type: Antioxidant Under Eye Balm
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1050/8274/9270/files/asset_136_transformation_1099_17f6d0e3-986d-48c8-a46d-b5ae797ec73f.jpg?v=1793195851
+  Price: $32.87 USD
 
 ## Collections
 
@@ -60,11 +60,32 @@
   - [5 Signs Your Skin Needs a Hydrating Cleanser](https://rozenamaison.com/blogs/nieuws/5-signs-your-skin-needs-a-hydrating-cleanser)
     Updated: 2026-10-10T06:04:55Z
     Author: Rozena Admin
-  - [Transform Your Home into a Luxury Retreat with ROZENA MAISON Collections](https://rozenamaison.com/blogs/nieuws/transform-your-home-into-a-luxury-retreat-with-rozena-maison-collections)
-    Updated: 2026-10-22T09:46:30Z
-    Author: ROZENA MAISON
   - [How to Achieve Glowy Skin Without Breaking the Bank](https://rozenamaison.com/blogs/nieuws/how-to-achieve-glowy-skin-without-breaking-the-bank): How to Achieve Glowy Skin Without Breaking the Bank
     Updated: 2026-10-28T07:39:10Z
+    Author: rozena
+  - [10 Steps to Achieve a Flawless Skincare Routine](https://rozenamaison.com/blogs/nieuws/10-steps-to-achieve-a-flawless-skincare-routine): 10 Steps to Achieve a Flawless Skincare Routine
+    Updated: 2026-10-28T08:16:02Z
+    Author: User
+  - [Natural Skincare Benefits: What the Evidence Supports](https://rozenamaison.com/blogs/nieuws/natural-skincare-benefits): Natural skincare can hydrate and soothe, but the label alone proves little. See what research supports, where the risks are, and how to choose wisely.
+    Updated: 2026-10-28T11:26:10Z
+    Author: nieuws
+    Tags: en, natural skincare benefits
+  - [How to Soothe Irritated Skin on Your Face, Step by Step](https://rozenamaison.com/blogs/nieuws/soothe-irritated-skin): Calm an itchy, red or irritated face: what to do in the first minutes, how to find the trigger, which routine changes help, and when to see a dermatologist.
+    Updated: 2026-10-28T13:59:04Z
+    Author: nieuws
+    Tags: en, soothe irritated skin
+  - [Natural Sunburn Relief: What Helps and What to Skip](https://rozenamaison.com/blogs/nieuws/natural-sunburn-relief): Natural sunburn relief that works: cooling, hydration, aloe and gentle moisturizers, plus what to keep off burned skin and when to call a doctor.
+    Updated: 2026-10-30T02:11:39Z
+    Author: nieuws
+    Tags: en, natural sunburn relief
+  - [The Ultimate Skincare Routine for Every Skin Type](https://rozenamaison.com/blogs/nieuws/the-ultimate-skincare-routine-for-every-skin-type): The Ultimate Skincare Routine for Every Skin Type
+    Updated: 2026-11-02T00:26:38Z
+    Author: rozena
+  - [The Ultimate Guide to Choosing the Right Sunscreen for Your Skin Type](https://rozenamaison.com/blogs/nieuws/the-ultimate-guide-to-choosing-the-right-sunscreen-for-your-skin-type): The Ultimate Guide to Choosing the Right Sunscreen for Your Skin Type
+    Updated: 2026-11-02T00:26:50Z
+    Author: User
+  - [Understanding the Science Behind Sunscreen and Why It Matters](https://rozenamaison.com/blogs/nieuws/understanding-the-science-behind-sunscreen-and-why-it-matters): Understanding the Science Behind Sunscreen and Why It Matters
+    Updated: 2026-11-03T00:28:32Z
     Author: rozena
 
 ## Store Pages
@@ -87,6 +108,10 @@
   Updated: 2026-10-14T19:28:15Z
 - [About](https://rozenamaison.com/pages/about)
   Updated: 2026-10-14T19:28:15Z
+- [Refer a friend](https://rozenamaison.com/pages/jump-refer): Give 10%, Earn 10% Share a link with your friends and family, and earn  on each of the sales made through your link. Email * Full name * ...
+  Updated: 2026-11-04T09:48:43Z
+- [ Storefront](https://rozenamaison.com/pages/my-shop)
+  Updated: 2026-11-04T09:53:25Z
 
 ## Policies
 
