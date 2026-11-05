@@ -8,12 +8,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-25T23:02:10Z
 - Contact Email: touravari+contact@gmail.com
-- Updated At: 2026-10-28T01:40:41.595Z
+- Updated At: 2026-11-05T01:21:00.834Z
 
 ## Products
 
 - [Luxury Aesthetic Vanity Bag & Makeup Organizer | AVARI](https://touravari.com/products/lux-makeup-bag): The last makeup bag you'll actually enjoy using. Fully visible layout, waterproof, carry-on ready. This is what getting ready was always supposed to feel like.
-  Updated: 2026-10-19T07:47:56Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Toiletry Bag
   Availability: Available
@@ -31,7 +31,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/rn-image_picker_lib_temp_8e13d303-661a-41a0-93d1-bedd77bc00ba.jpg?v=1767419419
     Price: $25.99 USD
 - [Ergo Travel Pillow | Premium Ergonomic Neck Pillow](https://touravari.com/products/avari-horizon-neck-pillow): No more stiff necks. Ergonomic adjustable fit, memory foam that molds to you, compact enough to forget it's there. See what every trip has been missing.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Travel Pillow
   Availability: Available
@@ -49,7 +49,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/40KJWYySftojM7uF.webp?v=1767844920
     Price: $40.00 USD
 - [Premium Luggage Tags | Leather Travel ID Tag](https://touravari.com/products/avari-atlas-luggage-tag-leather-travel-id-tag): Elevate every journey with the Avarí Horizon Luggage Tag—crafted from premium leather for durability, privacy, and refined travel style. Premium Travel, Elevated.
-  Updated: 2026-10-19T07:42:27Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Luggage Tag
   Availability: Available
@@ -79,14 +79,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/0dfdJRCPqp72w5De.webp?v=1768423375
     Price: $10.98 USD
 - [Soho Crossbody Satchel – Women's Leather Shoulder Bag | AVARI](https://touravari.com/products/crossbody-satchel): The Soho Crossbody Satchel — sleek, water-resistant, and effortlessly elegant. The ultimate bag for refined weekend escapes, fashion, or carry-only travel.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Duffle Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/O4cY2ZP2WkIcrMoA.webp?v=1764321132
   Price: $50.00 USD
 - [Mobile Toothbrush Case | Portable Toothbrush Holder and Cup](https://touravari.com/products/horizon-toothbrush-holder): A sleek, multi-use toothbrush holder with cup storage. Lightweight, durable, and perfect for daily or home use, gym bags, and travel. Clean, modern Avarí style.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Travel Accessories
   Availability: Available
@@ -100,7 +100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/1jrTBVgAlO1Q5XZo.webp?v=1768423440
     Price: $16.99 USD
 - [Shop Slim Weekly Pill Box | 7-Day Travel Pill Case](https://touravari.com/products/horizon-travel-pill-box): A sleek, modern, waterproof 7-day pill box for travelers and daily use. Compact, stylish, and perfect for vitamins, supplements, and smooth on-the-go routines.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Travel Accessories
   Availability: Available
@@ -122,7 +122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/8VtFn4MlCnFrLxNvTIFx_9323628f-63b7-415d-bfc6-7e0fd3d05856.webp?v=1767418469
     Price: $31.99 USD
 - [Collapsible 20oz Travel Water Bottle | Avarí](https://touravari.com/products/collapsi-bottle): It collapses to the size of a hockey puck. Holds 20 oz. Seals completely. The travel bottle people stop leaving behind.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Water Bottle
   Availability: Available
@@ -140,7 +140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/rDxexasDfQa7l4tf.webp?v=1767417079
     Price: $20.00 USD
 - [Mulberry Silk Sleep Mask | 100% Silk Luxury Eye Mask – Avarí](https://touravari.com/products/hori-silk-eye-mask): Sleep anywhere. 22 momme mulberry silk. Blocks all light. Stays cool at 30,000 feet and in hotel rooms that never get dark. Find out what you've been missing.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Sleep Mask
   Availability: Available
@@ -166,7 +166,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/61ay1EwMnFL._AC_SL1500.jpg?v=1767432039
     Price: $30.00 USD
 - [Slim Vegan Leather Travel Briefcase | Avarí](https://touravari.com/products/atlas-briefcase-bag): Red-eye to boardroom without changing bags. Vegan leather, TSA-friendly, slim enough for the cabin. See how it's built.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Briefcase
   Availability: Available
@@ -180,7 +180,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/U9VkDFuURGUVy4t4.webp?v=1768423717
     Price: $78.99 USD
 - [Hardside Carry-On with USB Charging | SmartFlow 20" Suitcase – Avarí](https://touravari.com/products/sf-carry): Stop hunting for outlets. Built-in USB charging, front-load laptop compartment, TSA- hardside carry-on. See what traveling in control feels like.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Carry-On Luggage
   Availability: Available
@@ -198,7 +198,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/I0FAi3n3QYNlfoAC.webp?v=1767424066
     Price: $189.00 USD
 - [Atlas Adventure Backpack - Waterproof & Durable | AVARI](https://touravari.com/products/atlas-backpack): Experience style, comfort, and function with the Avarí Atlas Travel Backpack. It's waterproof, has ample storage, and a lightweight design for all-day comfort.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Backpack
   Availability: Available
@@ -220,7 +220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/bPJ5g88RAFyG549P.webp?v=1769446527
     Price: $49.99 USD
 - [Mobile Makeup Case with LED Mirror | Luxury Vanity Organizer – Avarí](https://touravari.com/products/4k-vanity-case): Look amazing anywhere you go. LED mirror, 180° flat-lay design, padded sections — luxury that fits in your carry-on. You'll wonder how you traveled without it.
-  Updated: 2026-10-19T07:42:26Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Makeup Bag
   Availability: Available
@@ -238,7 +238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/pinkvariantbox.webp?v=1773235213
     Price: $64.99 USD
 - [Mini High-Capacity Power Hub | Fast-Charging Portable Battery](https://touravari.com/products/sf-power-bank): Ditch the wall outlet. Engineered for travel, this zero-bulk power bank keeps your tablet and phone running through the longest days.
-  Updated: 2026-10-19T07:42:27Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Power Bank
   Availability: Available
@@ -268,14 +268,14 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/2108Lfl5Oa2nleLk.webp?v=1767970109
     Price: $44.98 USD
 - [Durable Soap Storage Box | Portable Shatterproof Soap Caddy](https://touravari.com/products/elite-soap-box): Tired of leaky soap ruining your bag? Avarí's waterproof Travel Soap Case keeps your body soap clean, dry, and organized every trip. No mess, just be fresh & go
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Travel Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/BoxSoapProdImg.jpg?v=1768255605
   Price: $15.98 USD
 - [PackSmart Cube Set |  Premium Packing Cubes for Organization](https://touravari.com/products/packsmart-cubes): Designed for modern travelers, the PackSmart Cube Set ensures durability and ease. Discover efficient, lightweight packing at Avarí. Perfect for easy travel.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Packing Cubes
   Availability: Available
@@ -301,7 +301,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/AEd2sGlHppr7OEan.jpg?v=1768322526
     Price: $32.00 USD
 - [Shop Ultra-Durable Aluminum Hardside Suitcases](https://touravari.com/products/alhardside-suitcase): Experience effortless travel with our Aluminum Hardside Suitcase. Sizes from 20-24", perfect for minimalists on any journey. Shop now for high style and supreme function!
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Hardside Luggage
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/EL82jsFfDXEHM4w5.webp?v=1768408809
     Price: $210.00 USD
 - [Hanging Toiletry Bag | No Leak, Full-Size Fit Travel Organizer for her](https://touravari.com/products/voyage-waterproof-toiletry): Spacious waterproof travel toiletry bag with an organized interior. Holds full-size shampoo & cosmetics. Durable dacron. Shop the Avarí collection.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Toiletry Bag
   Availability: Available
@@ -353,7 +353,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/pink-edited-1.jpg?v=1771387559
     Price: $34.98 USD
 - [MetaCarry Duffle Bag – Wrinkle-Free Garment & Weekend Duffle | Avarí](https://touravari.com/products/metacarry-duffle-bag): Don't compromise. Get the bag everyone's buying today! Your garment bag and weekend duffle in one sleek carry. Pack smarter, travel lighter, & arrive flawless.
-  Updated: 2026-10-19T07:42:27Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Duffle Bag
   Availability: Available
@@ -379,7 +379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/3NPTzLZEdjT1UWut.webp?v=1773118275
     Price: $54.99 USD
 - [Vegan Leather Toiletry Bag | Premium Travel Grooming Kit – Avarí](https://touravari.com/products/groom-travel-kit): Pack like you have somewhere important to be. Vegan leather grooming kit — structured, water-resistant, and sharp enough to match your essence.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: AVARI
   Product Type: Toiletry Bag
   Availability: Available
@@ -397,7 +397,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/488d81c34dd986575f808adc2332.jpg?v=1773087022
     Price: $24.99 USD
 - [SteamSlim Portable Garment Steamer — Travel Wrinkle Remover by Avarí](https://touravari.com/products/steamslim-iron): Land wrinkle-free every time. The SteamSlim by Avarí is a compact handheld steamer built for travelers who refuse to compromise on looking their best.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Garment Steamer
   Availability: Available
@@ -427,7 +427,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/618b89564e3cb383691076795e5a.png?v=1774534205
     Price: $39.98 USD
 - [PackSmart Compression Packing Cubes | 6-Piece Lightweight Packing Set](https://touravari.com/products/packsmart-compress): Pack more than you thought. PackSmart compression cubes fit a week of outfits into carry-on space — lightweight, durable, and organized down to the last layer.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T18:35:36Z
   Vendor: Avarí
   Product Type: Packing Cubes
   Availability: Available
@@ -449,7 +449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/rn-image_picker_lib_temp_de663d59-5019-4564-a12f-d6a00c37c290.jpg?v=1774550408
     Price: $45.00 USD
 - [Portable Mini Turbine Fan – Rechargeable | Avarí](https://touravari.com/products/turbine-travel-fan): Frequent travelers pack this before their charger. Rechargeable turbine fan — 9 m/s airflow, 12-hr battery, carry-on sized. Here's why.
-  Updated: 2026-10-17T00:36:29Z
+  Updated: 2026-11-04T04:33:30Z
   Vendor: Avarí
   Product Type: Travel Accessories
   Availability: Available
@@ -462,38 +462,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/b35711df4a35b7ddad53b382ae31.webp?v=1776440215
     Price: $29.99 USD
+- [Bedtime Routine Sound Machine | Ambient Light & Timer](https://touravari.com/products/stillpoint-sound-machine): Make winding down easier with adjustable ambient light, soothing sounds, volume control, and a flexible timer in one simple nightstand ritual.
+  Updated: 2026-11-04T16:43:05Z
+  Vendor: AVARI
+  Product Type: Sound Machine
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0967/7317/7629/files/35f96f8b42659f633753652810a2.jpg?v=1793807820
+  Price: $54.99 USD
 
 ## Collections
 
-- [Travel Gear](https://touravari.com/collections/avari-essentials): AVARI curated lineup of refined, functional travel must-haves designed to elevate comfort, organization, and convenience from departure to arrival.
-  Updated: 2026-10-07T15:04:29Z
-  Total Products: 9
-- [Everyday Bags](https://touravari.com/collections/bags-luggage): Your bag says a lot about you before you say a word. Make it count. Premium bags, backpacks, duffels and briefcases built for the office, the gym, the weekend and every stop in between. Everyday carry, elevated.
-  Updated: 2026-10-05T17:02:23Z
-  Total Products: 4
-- [Comfort Accessories](https://touravari.com/collections/pack-organize): Refreshing comfort for whenever you need a pause. Sleep masks, cooling accessories, and thoughtful touches for quiet breaks and winding down. Get comfortable. Make the moment yours.
-  Updated: 2026-10-05T16:54:56Z
-  Total Products: 2
-- [Self-Care Accessories](https://touravari.com/collections/wellness): Premium wellness essentials and grooming accessories for your daily routine. Shop recovery gear, sleep masks and more from AVARI.
-  Updated: 2026-10-07T15:00:13Z
-  Total Products: 4
-- [Daily Essentials](https://touravari.com/collections/daily-essentials): Find daily essentials that fit your routine. Shop water bottles, pill organizers, and personal-care accessories for a simpler day at Avarí.
-  Updated: 2026-10-07T15:01:44Z
+- [To-Go Routine](https://touravari.com/collections/avari-essentials): AVARI curated lineup of refined, functional travel must-haves designed to elevate comfort, organization, and convenience from departure to arrival.
+  Updated: 2026-11-03T21:22:03Z
+  Total Products: 11
+- [Personal Organization](https://touravari.com/collections/bags-luggage): When your day feels full, small things can make it easier. Find bags, pouches, and organizers that keep your daily essentials close and easy to find. Less time looking for what you need. More room for the routines that help you feel good, day after day.
+  Updated: 2026-11-03T21:22:25Z
   Total Products: 5
-- [New Arrivals](https://touravari.com/collections/new-arrivals): You have good taste. That is why you are here. New bags, organizers, grooming essentials and everyday carry accessories, just in. Explore what is new.
-  Updated: 2026-09-09T21:42:43Z
+- [Comfort Accessories](https://touravari.com/collections/wellness): Premium wellness essentials and grooming accessories for your daily routine. Shop recovery gear, sleep masks and more from AVARI.
+  Updated: 2026-11-04T20:34:49Z
+  Total Products: 3
+- [Daily Essentials](https://touravari.com/collections/daily-essentials): Find daily essentials that fit your routine. Shop water bottles, pill organizers, and personal-care accessories for a simpler day at Avarí.
+  Updated: 2026-11-03T21:21:31Z
+  Total Products: 4
+- [New Arrivals](https://touravari.com/collections/new-arrivals): You have good taste. That's why you are here! New bags, organizers, grooming essentials and everyday care accessories, just in. Explore what is new.
+  Updated: 2026-11-04T18:36:29Z
   Total Products: 4
 - [](https://touravari.com/collections/avari-sales): Premium gear. Actual savings. Quality AVARI bags, organizers, grooming essentials and everyday carry accessories at a better price. No hidden fees, just good gear on .
-  Updated: 2026-10-04T17:03:34Z
+  Updated: 2026-11-04T16:15:01Z
   Total Products: 13
-- [Luggage](https://touravari.com/collections/luggage): Duffels, carry-ons, backpacks, and briefcases built for people who actually travel. No fluff, just bags that hold up, look good, and keep moving when you do.
-  Updated: 2026-09-09T15:41:32Z
-  Total Products: 7
-- [Accessories](https://touravari.com/collections/essentials): The organizers, comfort gear, and travel tools that serious travelers don't leave home without. Small details, big difference.
-  Updated: 2026-10-05T11:22:26Z
-  Total Products: 17
 - [Shop All](https://touravari.com/collections/shop-all): Bags that mean business. Tech that keeps up. Wellness that actually works. The full AVARI collection, fit for the lifestyle you choose.
-  Updated: 2026-10-05T11:22:26Z
+  Updated: 2026-11-04T05:35:56Z
   Total Products: 15
 
 ## Blogs
@@ -550,6 +548,10 @@
     Updated: 2026-08-30T17:15:04Z
     Author: AVARI
     Tags: daily carry, everyday essentials, focus, intentional living, lifestyle, men's grooming, morning routine, productivity, quality of life, work day
+  - [Make Your Daily Self-Care Routine Easier | Avarí](https://touravari.com/blogs/news/is-your-routine-helping-or-hindering-you): Make Your Daily Self-Care Routine Easier | Avarí
+    Updated: 2026-11-04T16:00:02Z
+    Author: AVARI
+    Tags: daily habits, ease daily grind, improve daily life, lifestyle changes, routine, self-care tips, struggle, upgrade
   - [Trade Stressed Mornings for Quality Over Quantity](https://touravari.com/blogs/news/trade-stressed-mornings-for-quality-over-quantity): Trade Stressed Mornings for Quality Over Quantity
     Updated: 2026-10-18T21:30:03Z
     Author: AVARI
@@ -561,8 +563,8 @@
   Updated: 2026-03-18T01:23:03Z
 - [Your Privacy Choices](https://touravari.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-14T02:21:59Z
-- [For the Prepared | About AVARI](https://touravari.com/pages/about-avari): AVARI started with one too many stressful moments. Not one big disaster. Just years of small ones, stacking up. Repacking the night before. Forgett...
-  Updated: 2026-08-28T20:02:47Z
+- [About AVARI | Daily Personal Wellness](https://touravari.com/pages/about-avari): There’s always something next. Work. Family. Dinner. One more thing to get done. Taking care of yourself can end up at the bottom of that list. By ...
+  Updated: 2026-11-04T05:08:53Z
 - [ Storefront](https://touravari.com/pages/my-shop)
   Updated: 2026-03-12T19:44:10Z
 - [Refer a friend](https://touravari.com/pages/jump-refer): Email * Full name * Already have an account? Sign in here. By signing up, you’ll also receive our newsletter and updates. Opt out anytime. Here is ...
@@ -575,7 +577,7 @@
 ## Policies
 
 - [Privacy Policy](https://touravari.com/policies/privacy-policy)
-  Updated: 2026-04-08T02:59:45Z
+  Updated: 2026-10-31T03:42:33Z
 - [Shipping Policy](https://touravari.com/policies/shipping-policy)
   Updated: 2026-05-11T10:06:01Z
 - [Refund Policy](https://touravari.com/policies/refund-policy)
