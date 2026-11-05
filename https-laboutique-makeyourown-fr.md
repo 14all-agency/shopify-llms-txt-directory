@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-10-29T00:25:13.036Z
+- Updated At: 2026-11-05T00:27:32.610Z
 
 ## Products
 
@@ -280,14 +280,14 @@
     Availability: Available
     Price: 125,00 € EUR
 - [stage noël couture 8 - 16 ans matin du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-matin): ❗ Ouverture des inscriptions dès le 1er novembre 2026 à 13h. Le programme et les fournitures requises seront publiés cet automne. Stage de Noël couture enfant semaine 52. Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 décembre Le matin de 9h à 12h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-09-11T20:25:15Z
+  Updated: 2026-11-01T12:00:01Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/stage_noel_matin.jpg?v=1789038335
   Price: 75,00 € EUR
 - [stage noël couture 8 - 16 ans après-midi du 21 au 24 décembre 2026](https://laboutique.makeyourown.fr/products/stage-couture-8-16-ans-noel-apres-midi): ❗ Ouverture des inscriptions dès le 1er novembre 2026 à 13h. Le programme et les fournitures requises seront publiés cet automne. Stage de Noël couture enfant semaine 52. Pour les 8 – 16 ans MYO Café Couture à Neuville-sur-Saône Du lundi 21 au vendredi 24 octobre L'après-midi de 14h à 17h 6 places Pour que votre enfant profite d’une expérience la plus personnelle possible, il devra apporter ses propres fournitures pour réaliser ses créations. Désistement et annulation.Toute annulation effectuée moins de quinze jours avant l’activité ou durant l’activité ne donne lieu à aucune forme de remboursement.
-  Updated: 2026-09-11T20:37:49Z
+  Updated: 2026-11-01T12:00:01Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/cosycolo.png?v=1779456270
   Price: 25,00 € EUR
 - [Couture libre enfants et ados 8 - 16 ans | 12h](https://laboutique.makeyourown.fr/products/couture-libre-enfants-et-adolescents-8-16-ans): Une activité à la carte le mercredi et durant les vacances scolaires pour enfants et adolescents de 8 à 16 ans : 12h de couture libre réparties en 4 séances de 3h à utiliser selon ses envies.
-  Updated: 2026-09-10T11:07:10Z
+  Updated: 2026-11-04T09:34:13Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: Service
   Availability: Available
@@ -354,7 +354,7 @@
   Updated: 2026-10-12T11:50:40Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-10-19T11:39:51Z
+  Updated: 2026-11-04T12:40:47Z
   Total Products: 8
 
 ## Blogs
