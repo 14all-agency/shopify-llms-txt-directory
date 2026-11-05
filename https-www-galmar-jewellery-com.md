@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-09-16T11:40:41Z
 - Contact Email: office.margal24@gmail.com
-- Updated At: 2026-10-28T01:21:18.108Z
+- Updated At: 2026-11-05T01:05:48.649Z
 
 ## Collections
 
@@ -68,6 +68,14 @@
     Updated: 2026-10-23T09:01:31Z
     Author: Galmar Jawellery
     Tags: care, cleaning, gemstone protection, how to clean jewelry, jewellery, jewelry, jewelry maintenance, jewelry storage, ring, tips for jewelry care
+  - [Here are 10 blog post titles with the given instructions:](https://www.galmar-jewellery.com/blogs/news/here-are-10-blog-post-titles-with-the-given-instructions): Here are 10 blog post titles with the given instructions:
+    Updated: 2026-10-29T09:00:27Z
+    Author: Galmar Jawellery
+    Tags: best practices for jewelry care, care, gemstone protection, how to care for jewelry, jewellery, jewelry, jewelry cleaning, maintenance, metal polishing, ring
+  - [The Complete Guide to Keeping Your Rings Sparkling](https://www.galmar-jewellery.com/blogs/news/the-complete-guide-to-keeping-your-rings-sparkling): The Complete Guide to Keeping Your Rings Sparkling
+    Updated: 2026-10-30T09:01:36Z
+    Author: Galmar Jawellery
+    Tags: care, how to clean rings, jewellery, jewelry, jewelry cleaning, ring, ring care, ring maintenance, rings, safe jewelry storage
 
 ## Store Pages
 
