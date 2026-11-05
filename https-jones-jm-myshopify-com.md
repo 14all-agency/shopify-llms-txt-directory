@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-01-12T05:43:12Z
 - Contact Email: hello424242@gmail.com
-- Updated At: 2026-10-29T00:43:50.220Z
+- Updated At: 2026-11-05T00:50:06.888Z
 
 ## Products
 
@@ -161,7 +161,7 @@
 ## Policies
 
 - [Privacy Policy](https://jones-jm.myshopify.com/policies/privacy-policy)
-  Updated: 2025-01-12T05:43:17Z
+  Updated: 2026-10-29T22:50:09Z
 - [Shipping Policy](https://jones-jm.myshopify.com/policies/shipping-policy)
   Updated: 2025-07-27T01:32:57Z
 - [Refund Policy](https://jones-jm.myshopify.com/policies/refund-policy)
