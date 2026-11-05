@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-10-28T00:57:40.079Z
+- Updated At: 2026-11-05T00:58:39.702Z
 
 ## Products
 
@@ -170,6 +170,15 @@
   - [Common Self-Care Missteps and How to Avoid Them](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/common-self-care-missteps-and-how-to-avoid-them): Common Self-Care Missteps and How to Avoid Them
     Updated: 2026-10-28T00:06:35Z
     Author: User
+  - [Historical Evolution of Self-Care in Everyday Life](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/historical-evolution-of-self-care-in-everyday-life): Historical Evolution of Self-Care in Everyday Life
+    Updated: 2026-10-30T00:08:06Z
+    Author: User
+  - [The Role of Self-Care in Personal Growth and Development](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/the-role-of-self-care-in-personal-growth-and-development): The Role of Self-Care in Personal Growth and Development
+    Updated: 2026-11-01T00:10:02Z
+    Author: User
+  - [Self-Care Trends You Should Know To Stay Balanced](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/self-care-trends-you-should-know-to-stay-balanced): Self-Care Trends You Should Know To Stay Balanced
+    Updated: 2026-11-04T00:06:45Z
+    Author: User
 
 ## Store Pages
 
@@ -201,7 +210,7 @@
 ## Policies
 
 - [Privacy Policy](https://sky-beauty-diaries-2.myshopify.com/policies/privacy-policy)
-  Updated: 2026-03-19T05:14:19Z
+  Updated: 2026-10-31T05:16:18Z
 - [Shipping Policy](https://sky-beauty-diaries-2.myshopify.com/policies/shipping-policy)
   Updated: 2026-03-19T06:01:50Z
 - [Refund Policy](https://sky-beauty-diaries-2.myshopify.com/policies/refund-policy)
