@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-08-30T20:50:56Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:03:03.793Z
+- Updated At: 2026-11-06T01:07:17.891Z
 
 ## Products
 
@@ -102,7 +102,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMWWWPDVD_735860e3-4435-49af-81e4-cea6d6ce9837.png?v=1692196592
   Price: $12.00 USD
 - [Why Would You Do That? Signed DVD](https://store.sebastianlive.com/products/why-would-you-do-that-dvd): Sebastian's 2016 live comedy special on DVD.
-  Updated: 2026-10-21T17:20:07Z
+  Updated: 2026-11-01T01:00:42Z
   Vendor: Sebastian Maniscalco
   Product Type: DVD
   Availability: Available
@@ -181,7 +181,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Sicilian Jacket](https://store.sebastianlive.com/products/sicilian-jacket): Premium varsity-style jacket in cream Size Chart Size Chest Width (in) Body Length (in) Sleeve Length (in) S 23 1/2 27 3/4 33 M 24 1/4 28 1/4 33 1/2 L 25 29 1/4 34 1/4 XL 26 30 35 2XL 27 31 35 3/4 3XL 28 32 36 1/2
-  Updated: 2026-10-27T15:09:57Z
+  Updated: 2026-10-30T03:53:56Z
   Vendor: Sebastian Maniscalco
   Product Type: Jacket
   Availability: Available
@@ -205,7 +205,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $60.00 USD
 - [Italian Basketball Tee](https://store.sebastianlive.com/products/italian-basketball-tee): Who says Italians can't play basketball?? 100% combed ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-08T21:30:03Z
+  Updated: 2026-11-01T16:56:45Z
   Vendor: Sebastian Maniscalco
   Product Type: T-Shirt
   Availability: Available
@@ -378,10 +378,10 @@ your agent can transact everywhere.
   Updated: 2026-04-14T21:02:30Z
   Total Products: 0
 - [All Products](https://store.sebastianlive.com/collections/all-products)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-02T12:08:35Z
   Total Products: 81
 - [Apparel](https://store.sebastianlive.com/collections/apparel)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-02T12:08:35Z
   Total Products: 48
 - [Accessories](https://store.sebastianlive.com/collections/accessories)
   Updated: 2026-10-08T21:15:31Z
@@ -396,7 +396,7 @@ your agent can transact everywhere.
   Updated: 2026-06-12T14:46:18Z
   Total Products: 23
 - [Media](https://store.sebastianlive.com/collections/media)
-  Updated: 2026-10-22T11:10:26Z
+  Updated: 2026-11-01T12:06:59Z
   Total Products: 6
 - [Nobody Does This Merchandise](https://store.sebastianlive.com/collections/nobody-does-this)
   Updated: 2026-06-12T14:40:25Z
@@ -414,7 +414,7 @@ your agent can transact everywhere.
   Updated: 2026-08-17T11:08:55Z
   Total Products: 9
 - [](https://store.sebastianlive.com/collections/)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-10-30T11:15:16Z
   Total Products: 23
 - [$10](https://store.sebastianlive.com/collections/10)
   Updated: 2026-08-17T11:08:55Z
@@ -426,31 +426,31 @@ your agent can transact everywhere.
   Updated: 2026-08-12T18:07:36Z
   Total Products: 12
 - [$50](https://store.sebastianlive.com/collections/50)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-10-30T11:15:16Z
   Total Products: 6
 - [$40](https://store.sebastianlive.com/collections/40)
   Updated: 2026-10-28T11:07:39Z
   Total Products: 7
 - [It Ain't Right Tour](https://store.sebastianlive.com/collections/it-aint-right-tour)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-10-30T11:15:16Z
   Total Products: 8
 - [EasyGift All Products](https://store.sebastianlive.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-02T12:08:35Z
   Total Products: 81
 - [$20.24](https://store.sebastianlive.com/collections/20-24)
   Updated: 2026-04-14T21:02:31Z
   Total Products: 0
 - [Tour Merch](https://store.sebastianlive.com/collections/tour-merch)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-10-30T11:15:16Z
   Total Products: 27
 - [$5](https://store.sebastianlive.com/collections/5-bin)
   Updated: 2026-08-17T11:08:55Z
   Total Products: 8
 - [Best Sellers](https://store.sebastianlive.com/collections/best-sellers)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-02T12:08:35Z
   Total Products: 81
 - [New Arrivals](https://store.sebastianlive.com/collections/new-arrivals)
-  Updated: 2026-10-28T11:07:39Z
+  Updated: 2026-11-02T12:08:35Z
   Total Products: 81
 - [$20.25](https://store.sebastianlive.com/collections/20-25)
   Updated: 2026-04-14T21:02:31Z
