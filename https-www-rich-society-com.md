@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-18T01:50:58Z
 - Contact Email: richsoleek@gmail.com
-- Updated At: 2026-10-30T00:52:50.236Z
+- Updated At: 2026-11-06T01:01:22.315Z
 
 ## Products
 
@@ -94,7 +94,7 @@
     Availability: Not Available
     Price: $130.00 USD
 - [“RICHTOPIA” Tee](https://www.rich-society.com/products/richtopia-tee): TRUE TO SIZE DISTRESSED TEE DTG PRINT
-  Updated: 2026-10-29T01:38:53Z
+  Updated: 2026-11-03T01:15:21Z
   Vendor: RICHSO
   Product Type: Shirts
   Availability: Available
@@ -111,24 +111,6 @@
   - [XL](https://www.rich-society.com/products/richtopia-tee?variant=43904158138429)
     Availability: Available
     Price: $80.00 USD
-- [“RICHTOPIA” Thermal](https://www.rich-society.com/products/richtopia-thermal): TRUE TO SIZE DISTRESSED TEE DTG PRINT
-  Updated: 2026-10-29T00:30:46Z
-  Vendor: RICHSO
-  Product Type: Shirts
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_3006.jpg?v=1793194700
-  - [S](https://www.rich-society.com/products/richtopia-thermal?variant=43904182747197)
-    Availability: Available
-    Price: $90.00 USD
-  - [M](https://www.rich-society.com/products/richtopia-thermal?variant=43904182779965)
-    Availability: Available
-    Price: $90.00 USD
-  - [L](https://www.rich-society.com/products/richtopia-thermal?variant=43904182812733)
-    Availability: Available
-    Price: $90.00 USD
-  - [XL](https://www.rich-society.com/products/richtopia-thermal?variant=43904182845501)
-    Availability: Available
-    Price: $90.00 USD
 - [“RICHTOPIA” Crewneck](https://www.rich-society.com/products/richtopia-crewneck): TRUE TO SIZE DTG PRINT ONLY 3 MADE
   Updated: 2026-10-29T01:40:48Z
   Vendor: RICHSO
