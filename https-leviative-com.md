@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-15T10:54:19Z
 - Contact Email: leviative@gmail.com
-- Updated At: 2026-10-30T00:58:27.901Z
+- Updated At: 2026-11-06T01:00:59.394Z
 
 ## Products
 
@@ -196,6 +196,15 @@
   - [Finding the Perfect Match: Solutions for Supplier Sourcing Challenges in Indian Ecommerce](https://leviative.com/blogs/blog/finding-the-perfect-match-solutions-for-supplier-sourcing-challenges-in-indian-ecommerce): Finding the Perfect Match: Solutions for Supplier Sourcing Challenges in Indian Ecommerce
     Updated: 2026-10-30T00:08:35Z
     Author: Leviative
+  - [Exploring the Dynamics of Supplier Networks in India's Ecommerce Ecosystem](https://leviative.com/blogs/blog/exploring-the-dynamics-of-supplier-networks-in-indias-ecommerce-ecosystem): Exploring the Dynamics of Supplier Networks in India's Ecommerce Ecosystem
+    Updated: 2026-11-02T00:27:48Z
+    Author: Leviative
+  - [Tactical Approaches to Partnering with Winning Product Suppliers in Indian Ecommerce](https://leviative.com/blogs/blog/tactical-approaches-to-partnering-with-winning-product-suppliers-in-indian-ecommerce): Tactical Approaches to Partnering with Winning Product Suppliers in Indian Ecommerce
+    Updated: 2026-11-04T00:10:55Z
+    Author: Leviative
+  - [Debunking Myths About Sourcing Suppliers in India’s Ecommerce Scene](https://leviative.com/blogs/blog/debunking-myths-about-sourcing-suppliers-in-india-s-ecommerce-scene): Debunking Myths About Sourcing Suppliers in India’s Ecommerce Scene
+    Updated: 2026-11-06T00:09:40Z
+    Author: Leviative
 
 ## Store Pages
 
@@ -213,7 +222,7 @@
 ## Policies
 
 - [Privacy Policy](https://leviative.com/policies/privacy-policy)
-  Updated: 2026-09-15T10:54:24Z
+  Updated: 2026-10-30T08:47:23Z
 - [Shipping Policy](https://leviative.com/policies/shipping-policy)
   Updated: 2026-09-16T07:02:08Z
 - [Refund Policy](https://leviative.com/policies/refund-policy)
