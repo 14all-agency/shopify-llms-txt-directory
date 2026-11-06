@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-10-29T00:53:54.738Z
+- Updated At: 2026-11-06T00:47:27.133Z
 
 ## Products
 
@@ -124,7 +124,7 @@
     Availability: Available
     Price: $79.99 USD
 - [Black Cable Pullover Top](https://www.brinxxcouture.com/products/her2-18-22921-black-id-57161): Imported 100% Acrylic Black
-  Updated: 2026-07-16T19:03:26Z
+  Updated: 2026-11-01T13:19:16Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -139,7 +139,7 @@
     Availability: Not Available
     Price: $44.99 USD
 - [Mocha Cable Pullover Top - Brinxx Couture](https://www.brinxxcouture.com/products/mocha-cable-pullover-top): Stay cozy and stylish with our Mocha Cable Pullover Top. Made with high-quality material, this top offers a comfortable fit and a classic cable knit design. Perfect for any occasion.
-  Updated: 2026-07-14T20:25:55Z
+  Updated: 2026-11-01T13:19:16Z
   Vendor: Brinxx Couture
   Product Type: Default
   Availability: Available
@@ -300,7 +300,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Horizontal-Ribbed-Sweater-Brinxx-Couture-5914.jpg?v=1739987523
     Price: $27.00 USD
 - [Ruffled Flounce Sleeve V-Neck Belted Dress](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress): Shop our Ruffled Flounce Sleeve V-Neck Belted Dress | Casual style with buttoned detail and flattering belted waist | Multiple sizes available - [Store Name]
-  Updated: 2026-07-16T10:42:39Z
+  Updated: 2026-11-05T16:05:54Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -460,7 +460,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Bobo-Wave-Synthetic-Wigs-12-Brinxx-Couture-7266.jpg?v=1739988288
     Price: $29.00 USD
 - [Full Machine Made Long Wave Wigs 26''](https://www.brinxxcouture.com/products/full-machine-made-long-wave-wigs-26): Shop our Full Machine Made Long Wave Wigs| Best 26'' Synthetic Wigs on  - [Store Name] - Cap incl. & 248°F heat safe - Long wigs w/ basic cap.
-  Updated: 2026-07-16T03:29:00Z
+  Updated: 2026-11-04T13:09:56Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -474,7 +474,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/26-Blonde-Straight-Wig-Brinxx-Couture-1877.jpg?v=1739988378
   Price: $39.99 USD
 - [26'' Body Wave Wig - Brinxx Couture](https://www.brinxxcouture.com/products/full-machine-long-wave-wigs-26): Achieve effortless glamour with the 26" Body Wave Wig. This wig offers women of all ages a voluminous, luxurious look featuring a body wave texture.
-  Updated: 2026-07-17T05:47:12Z
+  Updated: 2026-10-30T20:55:09Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -488,7 +488,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Long-Straight-Synthetic-Wig-26-Brinxx-Couture-3851.jpg?v=1739988465
   Price: $33.00 USD
 - [Side Slit Drop Shoulder Sweatshirt - Brinxx Couture](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt): Stay stylish while staying comfy with this chic Side Slit Drop Shoulder Sweatshirt. Featuring a unique design with a dramatic side slit, this cozy garment is perfect for everyday wear and special occasions. Its drop shoulder cut ensures maximum comfort and freedom of movement.
-  Updated: 2026-09-20T05:31:06Z
+  Updated: 2026-10-31T12:03:45Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -510,11 +510,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [Black / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461157046)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7137.jpg?v=1739988594
     Price: $31.00 USD
   - [White / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461189814)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6583.jpg?v=1739988605
     Price: $31.00 USD
   - [White / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461222582)
@@ -566,7 +566,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461615798)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-5232.jpg?v=1739988629
     Price: $31.00 USD
   - [Dull Blue / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461648566)
@@ -610,7 +610,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Gray / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011461976246)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-1202.jpg?v=1739988662
     Price: $31.00 USD
   - [Orange / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462009014)
@@ -634,11 +634,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6574.jpg?v=1739988666
     Price: $31.00 USD
   - [Salmon / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462172854)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / M](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462205622)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462238390)
@@ -650,7 +650,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Salmon / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462303926)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7754.jpg?v=1739988679
     Price: $31.00 USD
   - [Rose Pink / S](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462336694)
@@ -662,7 +662,7 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6314.jpg?v=1739988691
     Price: $31.00 USD
   - [Rose Pink / L](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462402230)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-6314.jpg?v=1739988691
     Price: $31.00 USD
   - [Rose Pink / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462434998)
@@ -686,11 +686,11 @@
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462598838)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
   - [Purple / 2XL](https://www.brinxxcouture.com/products/side-slit-drop-shoulder-sweatshirt?variant=42011462631606)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Side-Slit-Drop-Shoulder-Sweatshirt-Brinxx-Couture-7134.jpg?v=1709270849
     Price: $31.00 USD
 - [Classic Sparkle Moissanite Necklace - Brinxx Couture](https://www.brinxxcouture.com/products/classic-sparkle-moissanite-necklace): Add a dash of dazzle to your everyday look with the Classic Sparkle Moissanite Necklace. Its shimmering moissanite stone catches the light from every angle.
@@ -708,7 +708,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Silver-Moissanite-Tennis-Bracelet-Brinxx-Couture-2353.jpg?v=1709271051
   Price: $250.00 USD
 - [1 Carat Moissanite Heart Ring](https://www.brinxxcouture.com/products/lifelong-journey-1-carat-moissanite-heart-ring): Stunning 1 carat Moissanite heart ring in platinum-plated sterling silver. Comes with certificate of authenticity and limited warranty. Perfect for any occasion.
-  Updated: 2026-07-08T20:15:43Z
+  Updated: 2026-10-30T20:55:08Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -756,7 +756,7 @@
   Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Sterling-Silver-Cross-Moissanite-Necklace-Brinxx-Couture-8258.jpg?v=1709274798
   Price: $99.99 USD
 - [Fringe Hem Short Sleeve Deep V Cover Up Dress](https://www.brinxxcouture.com/products/fringe-hem-short-sleeve-deep-v-cover-up-dress): Wrap yourself in style with our Fringe Hem Cover Up Dress! Short sleeves, openwork neckline, slightly stretchy, and made of 100% polyester. Perfect for any occasion!
-  Updated: 2026-08-16T14:20:56Z
+  Updated: 2026-11-03T13:01:07Z
   Vendor: Brinxx Couture
   Product Type: 
   Availability: Available
@@ -2160,7 +2160,7 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-10-13T01:42:45Z
+  Updated: 2026-11-03T09:24:27Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
@@ -2169,7 +2169,7 @@
   Updated: 2026-10-07T20:47:53Z
   Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-10-07T20:47:52Z
+  Updated: 2026-10-30T19:19:55Z
   Total Products: 41
 - [Activewear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
   Updated: 2026-10-07T20:44:43Z
@@ -2178,10 +2178,10 @@
   Updated: 2026-10-07T20:47:50Z
   Total Products: 36
 - [Jackets](https://www.brinxxcouture.com/collections/womens-jackets): Discover refined jackets and outerwear for every season. From tailored blazers to cozy coats, find the perfect layer to elevate your style.
-  Updated: 2026-10-07T20:45:46Z
+  Updated: 2026-10-29T02:40:50Z
   Total Products: 25
 - [Tops](https://www.brinxxcouture.com/collections/womens-tops): Discover refined tops and blouses for every occasion. From casual tees to elegant blouses, find versatile pieces that elevate your wardrobe.
-  Updated: 2026-10-07T20:47:48Z
+  Updated: 2026-10-29T03:14:05Z
   Total Products: 50
 - [Bottoms](https://www.brinxxcouture.com/collections/bottoms): Discover refined bottoms for every occasion. From tailored pants to flowing skirts, find versatile pieces that elevate your everyday style.
   Updated: 2026-10-07T20:47:36Z
@@ -2223,7 +2223,7 @@
   Updated: 2026-10-07T20:47:44Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-10-07T20:47:52Z
+  Updated: 2026-10-30T19:19:55Z
   Total Products: 33
 - [Plus Size Swimwear](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
   Updated: 2026-10-07T20:42:49Z
@@ -2244,13 +2244,13 @@
   Updated: 2025-08-18T18:43:19Z
   Total Products: 0
 - [Plus Size Activewear](https://www.brinxxcouture.com/collections/plus-size-activewear): Stay fit and stylish with our collection of plus size active wear. Shop comfortable and trendy workout clothes at Brinxx Couture.
-  Updated: 2026-10-07T20:45:54Z
+  Updated: 2026-10-29T02:25:45Z
   Total Products: 12
 - [Graphic Tees](https://www.brinxxcouture.com/collections/graphic-tees): Express your style with our collection of women’s graphic tees. Shop trendy and unique designs at Brinxx Couture.
   Updated: 2026-07-08T21:35:01Z
   Total Products: 3
 - [New Arrivals – Latest Fashion, Jewelry & Accessories](https://www.brinxxcouture.com/collections/new-arrivals-fashion-jewelry-accessories): Shop the latest fashion, jewelry, and accessories in our New Arrivals collection. Fresh styles added weekly. Discover trending pieces before they  out.
-  Updated: 2026-10-07T20:48:04Z
+  Updated: 2026-10-30T19:19:55Z
   Total Products: 41
 - [Best Sellers](https://www.brinxxcouture.com/collections/best-sellers): Discover the best sellers in women’s clothing at our store. Shop trendy, stylish outfits perfect for every occasion. Free shipping on best sellers!
   Updated: 2026-10-07T20:47:38Z
@@ -2265,7 +2265,7 @@
   Updated: 2026-10-07T20:44:30Z
   Total Products: 16
 - [Coats](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2026-10-17T01:43:11Z
+  Updated: 2026-11-05T03:12:07Z
   Total Products: 41
 - [Scarves](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2026-10-07T20:45:27Z
