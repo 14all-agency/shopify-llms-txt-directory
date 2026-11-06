@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-09-12T16:15:02Z
 - Contact Email: peebow65@gmail.com
-- Updated At: 2026-10-30T00:48:52.101Z
+- Updated At: 2026-11-06T00:58:26.278Z
 
 ## Products
 
@@ -1229,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Se32320ba04854275808ce220bad8762cN.webp?v=1791350297
     Price: $16.99 USD
 - [Men's High-Top Air Sneakers | Basketball, Running & Tennis Shoes](https://wpbbnz-dw.myshopify.com/products/men-sneakers-air-casual-sprots-basketball-shoes-high-top-field-running-shoes-couple-tennis-shoes-for-men-and-women-size-36-45): Shop men's high-top air sneakers with rubber outsole & leather upper. Great for basketball, running & casual wear. Unisex. Sizes 36–47.
-  Updated: 2026-10-29T23:27:31Z
+  Updated: 2026-10-30T11:33:31Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -1685,7 +1685,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/S9f4aa3038fa74901928b1547e1224c93I.webp?v=1791350299
     Price: $15.69 USD
 - [Mr.A Retro Platform Sneakers for Men | Luxury Skate Shoes](https://wpbbnz-dw.myshopify.com/products/mra-brand-luxury-design-mens-retro-platform-sneakers-mens-skate-shoes-sizes-39-45): Shop Mr.A men's retro platform sneakers with rubber outsole & lace-up fit. Bold luxury design for daily street style. Sizes 39–45. True to size.
-  Updated: 2026-10-07T18:39:11Z
+  Updated: 2026-10-30T11:36:56Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2125,7 +2125,7 @@
     Image: https://cdn.shopify.com/s/files/1/1011/1025/1805/files/Sa8148f41e97f44c5954ae061df62eadfc.webp?v=1791350301
     Price: $17.29 USD
 - [Chunky Sneakers for Men | Thick Sole Breathable Casual Shoes](https://wpbbnz-dw.myshopify.com/products/chunky-sneaker-for-men-thick-sole-versatile-2025-new-trend-mesh-lace-up-breathable-casual-sports-shoes-increased-soft-soles): Shop YUYIN men's chunky sneakers with thick EVA sole, breathable mesh upper, and cushioned insole. Stylish, comfortable & hard-wearing. Sizes 39–48.
-  Updated: 2026-10-07T18:43:56Z
+  Updated: 2026-10-30T11:36:52Z
   Vendor: Peebow
   Product Type: 
   Availability: Available
@@ -2661,27 +2661,27 @@
 
 ## Collections
 
-- [Lifestyle & Accessories](https://wpbbnz-dw.myshopify.com/collections/lifestyle-accessories): Shop everyday essentials and stylish accessories at Peebow. Quality picks at great prices, delivered to your door.
-  Updated: 2026-10-29T23:18:23Z
-  Total Products: 0
 - [Jeans & Pants](https://wpbbnz-dw.myshopify.com/collections/jeans-pants): Comfortable, trendy jeans and pants for every day. Find your perfect fit in classic and modern styles at Peebow.
-  Updated: 2026-10-29T23:18:24Z
+  Updated: 2026-11-04T12:18:10Z
   Total Products: 24
 - [Stuffed Animals & Plush Toys](https://wpbbnz-dw.myshopify.com/collections/stuffed-animals-plush-toys): Shop soft, cuddly plush toys and stuffed animals for kids and collectors. Perfect gifts that bring a smile. Order at Peebow.
-  Updated: 2026-10-29T23:18:24Z
+  Updated: 2026-11-03T16:20:50Z
   Total Products: 64
 - [Pet Play Zone](https://wpbbnz-dw.myshopify.com/collections/pet-play-zone): Toys, accessories and daily essentials for dogs, cats and other pets. Shop the Pet Play Zone at Peebow.
-  Updated: 2026-10-29T23:18:24Z
+  Updated: 2026-11-03T16:20:46Z
   Total Products: 71
 - [Sneakers](https://wpbbnz-dw.myshopify.com/collections/sneakers-1): Fresh, comfortable sneakers for every style and occasion. Shop casual, running and platform sneakers at Peebow.
-  Updated: 2026-10-29T23:18:24Z
+  Updated: 2026-10-31T11:17:46Z
   Total Products: 28
 - [Gym & Fitness](https://wpbbnz-dw.myshopify.com/collections/gym-fitness): Shop top gym and fitness gear at Peebow. Workout equipment, accessories, and apparel to help you train harder and reach your goals faster.
-  Updated: 2026-10-20T22:07:00Z
+  Updated: 2026-11-03T16:16:18Z
   Total Products: 13
 - [Boys' Essentials](https://wpbbnz-dw.myshopify.com/collections/boys-essentials): Everything a boy needs, nothing he doesn't. Shop top picks for every age and occasion at Peebow.
-  Updated: 2026-10-29T23:18:24Z
+  Updated: 2026-11-03T16:22:33Z
   Total Products: 37
+- [Pants](https://wpbbnz-dw.myshopify.com/collections/pants)
+  Updated: 2026-11-04T12:18:10Z
+  Total Products: 13
 
 ## Store Pages
 
@@ -2693,7 +2693,7 @@
 ## Policies
 
 - [Privacy Policy](https://wpbbnz-dw.myshopify.com/policies/privacy-policy)
-  Updated: 2026-09-12T16:15:05Z
+  Updated: 2026-10-31T23:02:11Z
 - [Shipping Policy](https://wpbbnz-dw.myshopify.com/policies/shipping-policy)
   Updated: 2026-09-23T17:30:41Z
 - [Refund Policy](https://wpbbnz-dw.myshopify.com/policies/refund-policy)
