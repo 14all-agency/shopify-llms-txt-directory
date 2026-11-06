@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-01-29T15:35:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:03:23.798Z
+- Updated At: 2026-11-06T01:09:29.098Z
 
 ## Products
 
@@ -296,7 +296,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Keyhole Sticker](https://store.futurebirdsmusic.com/products/staircase-sticker): Die Cut Vinyl Sticker
-  Updated: 2026-10-05T13:04:28Z
+  Updated: 2026-11-02T14:28:25Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -366,7 +366,7 @@
   Image: https://cdn.shopify.com/s/files/1/0697/6608/6805/files/FTBDSBLACKDIAMON4POSTER.png?v=1773261687
   Price: $10.00 USD
 - [Trucker Hat](https://store.futurebirdsmusic.com/products/trucker-hat): White Futurebirds Trucker Hat with black rope and snap closure. One size fits most
-  Updated: 2026-10-28T16:32:46Z
+  Updated: 2026-11-02T14:28:36Z
   Vendor: Futurebirds Merch
   Product Type: Accessories
   Availability: Available
@@ -509,17 +509,17 @@
 ## Collections
 
 - [Home page](https://store.futurebirdsmusic.com/collections/frontpage)
-  Updated: 2026-10-25T11:16:39Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 58
 - [Apparel](https://store.futurebirdsmusic.com/collections/apparel)
   Updated: 2026-10-25T11:16:39Z
   Total Products: 30
 - [Accessories](https://store.futurebirdsmusic.com/collections/accessories)
-  Updated: 2026-10-20T11:13:44Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 36
 - [All](https://store.futurebirdsmusic.com/collections/all)
-  Updated: 2026-10-28T16:50:24Z
-  Total Products: 42
+  Updated: 2026-11-04T20:14:46Z
+  Total Products: 43
 - [Music](https://store.futurebirdsmusic.com/collections/music)
   Updated: 2026-10-21T21:14:06Z
   Total Products: 5
@@ -533,10 +533,10 @@
   Updated: 2026-10-25T11:16:39Z
   Total Products: 29
 - [Hats](https://store.futurebirdsmusic.com/collections/hats)
-  Updated: 2026-10-12T11:16:25Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 7
 - [UPSELL](https://store.futurebirdsmusic.com/collections/upsell)
-  Updated: 2026-10-14T11:16:43Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 7
 - [The Red Collection](https://store.futurebirdsmusic.com/collections/trippin)
   Updated: 2026-10-21T21:16:01Z
@@ -545,13 +545,13 @@
   Updated: 2026-10-20T11:13:44Z
   Total Products: 8
 - [Spring Collection](https://store.futurebirdsmusic.com/collections/spring-collection)
-  Updated: 2026-09-19T11:12:26Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 4
 - [EG All Products - DO NOT EDIT](https://store.futurebirdsmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-10-25T11:16:39Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 71
 - [Summer Kickoff](https://store.futurebirdsmusic.com/collections/summer-kickoff)
-  Updated: 2026-10-24T11:19:55Z
+  Updated: 2026-11-03T12:11:38Z
   Total Products: 16
 - [Far Out Country](https://store.futurebirdsmusic.com/collections/far-out-country)
   Updated: 2026-10-19T11:13:44Z
