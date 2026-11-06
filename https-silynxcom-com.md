@@ -9,7 +9,7 @@
 - Created At: 2026-04-06T10:15:38Z
 - Contact Email: info@silynxcom.com
 - Contact Phone: +1 571-748-7152
-- Updated At: 2026-10-29T00:37:27.733Z
+- Updated At: 2026-11-06T00:36:00.404Z
 
 ## Products
 
@@ -84,7 +84,7 @@
   - [Tan](https://silynxcom.com/products/harris-xg-75-radio-cable-adaptor?variant=43282648989799)
     Availability: Not Available
 - [Baofeng / Kenwood 2-Pin Cable Adaptor | Silynx Communications](https://silynxcom.com/products/baofeng-kenwood-2-pin-cable-adaptor): Silynx Baofeng/Kenwood 2-pin cable adaptor for CLARUS. Kenwood SKU: CA0211-00, Baofeng SKU: CA0211-02. Not compatible with C4OPS.
-  Updated: 2026-08-12T19:54:48Z
+  Updated: 2026-11-02T11:33:49Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
@@ -581,7 +581,7 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0659/9134/4231/files/PNR1000audioconnector_DSC4684.jpg?v=1786522235
 - [TETRAPOL TPH-900 Cable Adaptor](https://silynxcom.com/products/tetrapol-tph-900-cable-adaptor): Silynx cable adaptor connects compatible Silynx control boxes to the TETRAPOL TPH-900 portable radio, providing a reliable interface for tactical communications. For full compatibility details or to request a quote, contact us at customersupport@silynxcom.com
-  Updated: 2026-09-03T07:56:41Z
+  Updated: 2026-11-02T11:34:10Z
   Vendor: Silynx
   Product Type: Cable Adaptors
   Availability: Not Available
