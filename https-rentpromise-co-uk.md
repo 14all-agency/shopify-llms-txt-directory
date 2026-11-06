@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-06T14:11:41Z
 - Contact Email: enquiries@rentpromise.co.uk
-- Updated At: 2026-10-30T00:51:28.651Z
+- Updated At: 2026-11-06T01:00:57.144Z
 
 ## Collections
 
@@ -267,6 +267,18 @@
     Updated: 2026-10-28T09:07:33Z
     Author: RentPromise Team
     Tags: compare housing associations,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, housing, housing association lease , housing association leases, leasing, no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living, supported living , supported living   r
+  - [Social Housing HMO : Transform Property Portfolio Profitably](https://rentpromise.co.uk/blogs/news/social-housing-hmo--transform-property-portfolio-profitably): Social Housing HMO : Transform Property Portfolio Profitably
+    Updated: 2026-10-30T09:06:01Z
+    Author: RentPromise Team
+    Tags: ,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off leasing, hmo , housing, housing association lease , , no void social housing , property management, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living , supported living   r, supported living property
+  - [ Rent vs Buy to Let: Identifying Lucrative UK Opportunities](https://rentpromise.co.uk/blogs/news/-rent-vs-buy-to-let-identifying-lucrative-uk-opportunities):  Rent vs Buy to Let: Identifying Lucrative UK Opportunities
+    Updated: 2026-11-02T09:10:08Z
+    Author: RentPromise Team
+    Tags:  rent for landlords,  rent scheme,  rent schemes,  rent social housing investmen,  rent uk, hands-off property management, housing, housing association lease , no void social housing , property, rent, social housing  uk, social housing  with guarantee, social housing lease , social housing leases, specialist supported housing , supported living , supported living   r, supported living properties, uk landlord opportunities
+  - [How to Achieve Hassle-Free Income with  Rent for Landlords UK](https://rentpromise.co.uk/blogs/news/how-to-achieve-hassle-free-income-with--rent-for-landlords-uk): How to Achieve Hassle-Free Income with  Rent for Landlords UK
+    Updated: 2026-11-04T09:08:17Z
+    Author: RentPromise Team
+    Tags:  rent,  rent for landlords,  rent scheme,  rent social housing investmen,  rent uk, hands-off leasing for landlords, housing, housing association lease , income, no void social housing , property management, rent, social housing, social housing  uk, social housing  with guarantee, social housing lease , specialist supported housing , supported living , supported living   r, supported living properties
 
 ## Store Pages
 
@@ -358,7 +370,7 @@
 ## Policies
 
 - [Privacy Policy](https://rentpromise.co.uk/policies/privacy-policy)
-  Updated: 2025-10-06T14:11:52Z
+  Updated: 2026-11-02T08:35:16Z
 - [Terms of Service](https://rentpromise.co.uk/policies/terms-of-service)
   Updated: 2026-03-31T15:40:01Z
 - [Contact Information](https://rentpromise.co.uk/policies/contact-information)
