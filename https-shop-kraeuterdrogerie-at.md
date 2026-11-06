@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2024-02-22T10:59:22Z
 - Contact Email: shop@kraeuterdrogerie.at
-- Updated At: 2026-10-30T00:53:19.460Z
+- Updated At: 2026-11-06T01:02:39.210Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Oxymel-Wacholder-Wiener-Bezirksimkerie-Die-Kraeuterdrogerie_4cfef17f-9e47-4857-93bb-e1215f320f50.webp?v=1753207796
   Price: 11,50 € EUR
 - [Wiener Bezirks Oxymel - Ingwer-Kurkuma 100ml](https://shop.kraeuterdrogerie.at/products/wiener-bezirks-oxymel-ingwer-kurkuma-100ml): Oxymel - eine uralte Rezeptur Überlieferungen zu Oxymel und seiner Verwendung findet man schon in antiken Medizin- und Heilschriften, wie zum Beispiel von Galenus von Pergamon (129-199) oder auch im Mittelalter von Hildegard von Bingen. Honig und Essig - jedes für sich ein kraftvolles Hausmittel mit unzähligen positiven Eigenschaften - werden vermengt und als Draufgabe kann man dieses starke Gemisch auch noch mit (Heil-)Kräutern versetzen. Lange, lange Zeit hatte der sogenannte Sauerhonig seinen fixen Platz als Arzneiform bei Heiler:innen und Ärzt:innen. Tatsächlich ist der Trunk vielfältig einsetzbar: 1-2 Esslöffel pur eine halbe Stunde vor der ersten Mahlzeit, 1:10 verdünnt mit warmem oder kaltem Wasser oder - für noch mehr Erfrischung - mit kaltem Mineralwasser. Aber auch der Einsatz in der Küche lädt zum kreativen Experimentieren ein. Honig enthält über 180 verschiedene Inhaltsstoffe. Neben verschiedenen Zuckerarten kommen Vitamine, Mineralstoffe, Flavonoide und Polyphenole (wirken als Antioxidantien) sowie Enzyme der Biene vor. Letztere sind unter anderem für die entzündungshemmende Wirkung von Honig verantwortlich. Die Kraft der Bienen, Mikroorganismen und Pflanzen Essig ist ein Fermentationsprodukt wobei der Alkohol eines Obstweines mithilfe von Mikroorganismen in Säure umgewandelt wird. Wegen seiner diätischen Wirkung wurde Essig schon von Hippokrates (Begründer der modernen Medizin) hoch gelobt. Sowohl Essig als auch Honig verfügen über eine starke Extraktionskraft. Gibt man also Kräuter oder Gewürze hinzu, werden die wertvollen ätherischen Öle sowie sekundäre Pflanzenstoffe schonend gelöst und im Honig-Essig-Trunk bestens konserviert. Für unsere Oxymele verwenden wir neben unserem Bio-Honig auch für die anderen Zutaten nur Produkte in kontrolliert biologischer Qualität von österreichischen Manufakturen, wie z.B. Sonnentor und Gölles.
-  Updated: 2026-10-28T11:20:06Z
+  Updated: 2026-11-05T11:52:55Z
   Vendor: Wiener Bezirksimkerei
   Product Type: Lebensmittel
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Sommersonne_RM_offen_Copyright-Christoph-Moser_Die-Kraeuterdrogerie.webp?v=1752586185
   Price: 4,50 € EUR
 - [Aquarius Deostick 60 g](https://shop.kraeuterdrogerie.at/products/aquarius-deostick-60-g): Veganer Bio Deostick belebender, frischer Duft Anhaltende, belebende Frische und wirksamer Schutz Ganz ohne Aluminiumsalze oder schädliche Konservierungsstoffe. Alle Inhaltstoffe außer dem unbedenklichen, beliebten Duft aus rein natürlichen Rohstoffen aus kontrolliert biologischem Anbau. Nach dem Duschen dünn auf die Achsel auftragen. Da das Deo ohne Alkohol auskommt, ist es auch für besonders empfindliche Haut geeignet. Anwendung: Einfach mit dem Finger nach oben schieben, kurz an der Achselhaut anwärmen und dünn auf die Achsel auftragen. Da das Deo ohne Alkohol auskommt, ist es auch für besonders empfindliche Haut geeignet. Der Papiercontainer ist zu 100% biologisch abbaubar. Die Rezeptur ist so konzipiert, dass das Deo bei Körpertemperatur zart schmilzt und sich gut auftragen lässt, aber trotzdem auch im Sommer nicht flüssig wird. Sollte es in der Sonne gelagert worden sein, bitte kurz in den Kühlschrank stellen (bitte auch bei Postlieferung im Sommer), dann wird es gleich wieder fest. Das Deo färbt, wie alle anderen HautSinn Deos nicht die Wäsche und ist zu 100% biologisch abbaubar. Inhalt nicht zu weit herausdrücken. Sollte der Stick sich nicht leicht hochdrücken lassen, kann man den geschlossenen Stick mit leichtem Druck auf einer geraden Oberflächen rollen, so löst sich der Inhalt und der Stick kann leicht hochgeschoben werden.
-  Updated: 2026-05-29T15:46:26Z
+  Updated: 2026-11-05T14:35:25Z
   Vendor: Hautsinn
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt-Franzoesisches-Eisenkraut-ganz-Die-Kraeuterdrogerie-Copyright-Christoph-Moser.jpg?v=1753115964
   Price: 3,20 € EUR
 - [Ut Öl 30ml](https://shop.kraeuterdrogerie.at/products/ut-oel-30ml)
-  Updated: 2026-09-28T09:18:56Z
+  Updated: 2026-11-02T11:45:45Z
   Vendor: Bahnhof-Apotheke / Stadelmann
   Product Type: Rund um die Geburt
   Availability: Available
@@ -221,7 +221,7 @@
     Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt_Katzenkralle_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748587285
     Price: 26,30 € EUR
 - [Taubnesselkraut](https://shop.kraeuterdrogerie.at/products/taubnesselkraut)
-  Updated: 2026-03-31T20:35:08Z
+  Updated: 2026-11-02T07:00:22Z
   Vendor: Die Kräuterdrogerie
   Product Type: Kräuter
   Availability: Available
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt_Taubnesselkraut_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748587294
     Price: 20,00 € EUR
 - [Frauenmantel](https://shop.kraeuterdrogerie.at/products/frauenmantel)
-  Updated: 2026-10-22T11:35:35Z
+  Updated: 2026-11-05T14:04:55Z
   Vendor: Die Kräuterdrogerie
   Product Type: Kräuter
   Availability: Available
@@ -429,7 +429,7 @@
     Availability: Available
     Price: 2,70 € EUR
 - [Stoffwechsel-Power Tee – Für die Figur | Die Kräuterdrogerie](https://shop.kraeuterdrogerie.at/products/stoffwechsel-power-tee-120g): Unterstützt den Stoffwechsel und die Fettverbrennung. Ideal als Begleiter während einer Diät oder Entschlackungskur.
-  Updated: 2026-07-07T21:32:16Z
+  Updated: 2026-11-01T20:04:11Z
   Vendor: Die Kräuterdrogerie
   Product Type: Teemischungen
   Availability: Available
@@ -485,7 +485,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Curry-Paste-170g_Curcama.jpg?v=1748587492
   Price: 12,90 € EUR
 - [Curcama Bio GOLD Paste 170g](https://shop.kraeuterdrogerie.at/products/curcama-bio-gold-paste-170g): Fünf Elemente Gewürzpaste Für süße und pikante Speisen Für Kurkuma Latte Bio Curcama GOLD -Die frische Fünf Elemente Gewürz Paste. Zum verfeinern von süßen und pikanten Speisen. Für Kurkuma Latte & Goldene Milch, Smoothies und anderen Getränken. Idee ist es durch Curcama Gold Harmonie, Ausgewogenheit und eine besondere Note ihn eure Speisen und Getränke zu bringen. Durch die Zusammensetzung der Einzelnen frischen Lebensmittel erfahrt ihr ein ganz besonderes Geschmackserlebnis. Zutaten: Kurkuma, Apfel, Ingwer, Langer Pfeffer, Salz, Zitrone, Enzianwurzel, Löwenzahnwurzel, Sanddorn, Zimt Acerola uvm. Goldene Milch Kurkuma Latte Zutaten: 200ml. Bio Hafer Drink 1 TL Bio Curcama Gold 1 TL Bio Agaven Saft oder Bio Reis Malz oder Bio Honig ooooder Bio Curcama Biene für den extra kick Optional, 1 TL Bio Rohkakao Pulver Zubereitung: 1 TL Curcama Gold mit 200ml Hafermilch in einem Topf erhitzen und mit einem Schneebesen schaumig einrühren, süßen nach Bedarf und lächeln nicht vergessen. (Temperatur Empfehlung 40-45C.) RÜHREN – TRINKEN - LÄCHELN
-  Updated: 2026-10-21T10:01:46Z
+  Updated: 2026-10-30T15:46:26Z
   Vendor: Curcama
   Product Type: Lebensmittel
   Availability: Available
@@ -520,7 +520,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Sonnenpflegeoel-150ml_bioemsan.png?v=1748587551
   Price: 49,90 € EUR
 - [Divine Conditionerbar](https://shop.kraeuterdrogerie.at/products/divine-conditionerbar): Fester Conditioner – nährt und pflegt das Haar. Mit BIO Arganöl und Panthenol für intensive Pflege und geschmeidiges, wunderschönes Haar. Conditionerbar Divine Mit Bio Arganöl und extra Panthenol für göttlich schönes Haar. Luxus Verwöhnpflege aus der Natur. Vegan, plastikfrei und hochergiebig! Hochwertige Bio-Öle sorgen für ein Extra an Pflege. Bio-Arganöl, Brokkolisamenöl, Avocado-Öl und Rizinusöl nähren und pflegen das Haar. Zusammen mit Bio-Sheabutter und Weizenprotein, sowie Pflanzenkeratin und extra D-Panthenol sorgt dieser Conditioner Bar für extra geschmeidige, weiche und gesunde, glänzende Haare. Der Conditionerbar von Hautsinn ist nachhaltig, sparsam in der Anwendung (ergiebig wie 2 Flaschen Balsam), leicht und auslaufsicher und sehr praktisch wenn man unterwegs ist (Reisen, Schwimmbad, Sport…). Anwendung: Ganz einfach zu dosieren. Kann je nach Bedarf ins ganze Haar oder nur in die trockeneren Spitzen verteilt werden. Ins feuchte Haar reiben, kurz einwirken lassen und ausspülen. Danach gut an der Luft trocknen und nicht im Wasser stehen lassen. Am besten eignet sich dafür ein Luffa Pad. So hat man lange Freude damit. Für unterwegs eignet sich für die Aufbewahrung eine praktische Metalldose.
-  Updated: 2026-10-20T17:21:37Z
+  Updated: 2026-11-02T17:05:16Z
   Vendor: Hautsinn
   Product Type: Naturkosmetik – Haarpflege
   Availability: Available
@@ -588,7 +588,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Sanft-gestaerkt-TM_Die-Kraeuterdrogerie_cChristoph-Moser.webp?v=1748587649
   Price: 7,50 € EUR
 - [Mango Lassi Hair & Body Bar](https://shop.kraeuterdrogerie.at/products/mango-lassi-hair-body-bar): Mango Lassi Buttermilkcream ONE4ALL für Haut & Haare mit spritzig fruchtigem Mango Duft und Joghurt für straffe Haut Der milde Mango Lassi ONE4ALL Hair&Body Bar ist perfekt geeignet für alle, die es unkompliziert und einfach mögen. Perfekt gepflegt von Kopf bis Fuß mit diesem kleinen Alleskönner. Der Mango Lassi Bar ist klein, aber sehr ergiebig und pflegt deine Haut und Haare mit Bio-Sheabutter, Joghurt und Bio-Kurkuma und frischem natürlichen Duft nach Mango Die One4All Hair & Body Bars von Hautsinn sind nachhaltig, sparsam in der Anwendung, leicht, auslaufsicher und sehr praktisch wenn man unterwegs ist (Reisen, Schwimmbad, Sport…). Bei empfohlener Anwendung reicht der Hair & Body Bar für mindestens 60-80 Duschen inklusive Haarwäsche. Anwendung: Haare unter der Dusche nass machen und mit dem Bar einige Male über die Haare streichen. Aufschäumen und mit dem Schaum den ganzen Körper reinigen. Den Bar danach auf ein Luffa Pad legen und abtrocknen lassen. Für unterwegs eignet sich für die Aufbewahrung eine praktische Aludose.
-  Updated: 2026-07-25T08:26:26Z
+  Updated: 2026-10-31T10:37:50Z
   Vendor: Hautsinn
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
@@ -616,7 +616,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/18709_schneeglitzern_duftmischung_bio_jpg.webp?v=1748587687
   Price: 10,90 € EUR
 - [Sternentraum bio Duftmischung 5ml](https://shop.kraeuterdrogerie.at/products/sternentraum-duftmischung-5ml): Ein Duft inspirierend und sternfunkelnd wie der winterliche Nachthimmel. Fruchtige Orange und warm würziger Zimt zaubern festlichen Glanz in unser Zuhause und hüllen den Alltag in märchenhafte Geborgenheit. • Orange bio: stimmungserhellend • Zimt bio: erwärmend • Grapefruit bio: für gute Laune Inhalt 50 ml Qualität Bio, Leaping Bunny Duftprofil würzig, warm Duftthema harmonisierend Anwendung Nach Bedarf in den Raum sprühen und den Duft genießen. Inhaltsstoffe ALKOHOL* BIO, WASSER, ORANGE* BIO, ZIMT* BIO, GRAPEFRUIT* BIO U.A. * bio = kontrolliert biologischer Anbau / natürliche Trübung möglich
-  Updated: 2026-10-28T14:54:09Z
+  Updated: 2026-11-04T15:15:38Z
   Vendor: Primavera
   Product Type: Aromatherapie
   Availability: Available
@@ -643,13 +643,27 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/todverko-web-Vernebler_Kopenhagen_1.png.1220x1040_q100.png?v=1748587727
   Price: 74,90 € EUR
+- [Kyoto grau Duftlampe](https://shop.kraeuterdrogerie.at/products/kyoto-grau-duftlampe): Zen und Duft. Im Einklang sein, im Moment verweilen. Puristische Teelicht-Duftlampe zur Verdunstung ätherischer Öle in die Raumluft. Ober- und Unterteil aus Keramik. Enthält keine Kerze; bitte verwenden Sie für diese Duftlampe ausschliesslich ein herkömmliches Teelicht. BxTxH 9.5 x 9.5 x 12.5cm, Farbe: grau. Anwendung: Schale mit Wasser füllen, 1-3 Tropfen ätherisches Öl ins Wasser geben und das Teelicht anzünden. Maximal 60 Minuten verdampfen lassen. Es muss immer genügend Wasser in der Schale sein. Kein kaltes Wasser in die heisse Schale nachgiessen (Bruchgefahr)! Nie unbesichtigt brennen lassen. Duftlampenschale nach Gebrauch gut reinigen. Ablagerungen können mit dem Duftlampenreiniger entfernt werden.
+  Updated: 2026-11-02T10:33:31Z
+  Vendor: Farfalla
+  Product Type: Aromatherapie
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/todkygr-web-Duftlampe_Kyoto_grau.png.1220x1040_q100.webp?v=1760363960
+  Price: 39,90 € EUR
 - [Kyoto beige Duftlampe](https://shop.kraeuterdrogerie.at/products/kyoto-beige-duftlampe): Zen und Duft. Im Einklang sein, im Moment verweilen. Puristische Teelicht-Duftlampe zur Verdunstung ätherischer Öle in die Raumluft. Ober- und Unterteil aus Keramik. Enthält keine Kerze; bitte verwenden Sie für diese Duftlampe ausschliesslich ein herkömmliches Teelicht. BxTxH 9.5 x 9.5 x 12.5cm, Farbe: beige. Anwendung: Schale mit Wasser füllen, 1-3 Tropfen ätherisches Öl ins Wasser geben und das Teelicht anzünden. Maximal 60 Minuten verdampfen lassen. Es muss immer genügend Wasser in der Schale sein. Kein kaltes Wasser in die heisse Schale nachgiessen (Bruchgefahr)! Nie unbesichtigt brennen lassen. Duftlampenschale nach Gebrauch gut reinigen. Ablagerungen können mit dem Duftlampenreiniger entfernt werden.
-  Updated: 2026-10-16T11:22:12Z
+  Updated: 2026-11-02T10:33:35Z
   Vendor: Farfalla
   Product Type: Aromatherapie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/todkybe-web-Duftlampe_Kyoto_beige.png.1220x1040_q100.png?v=1748587747
   Price: 39,90 € EUR
+- [Glühwein Seife](https://shop.kraeuterdrogerie.at/products/gluhwein-seife): Weihnachtsmarkt to go… reinigt sanft und pflegt intensiv mit hochwertigen Zutaten Alle Christkindlmärkte sind NOCH geschlossen? Dann besorg dir die cremig pflegende Glühweinseife von Hautsinn! Ein weihnachtlich sinnlicher Duft - wie ein frischer Glühwein am Weihnachtsmarkt. Nur saisonal verfügbar. Für die Aufbewahrung eignen sich diese wunderbaren handgefertigten Seifenschalen.
+  Updated: 2026-11-02T17:03:37Z
+  Vendor: Hautsinn
+  Product Type: Naturkosmetik – Körperpflege
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/gluehweinseife.jpg?v=1748587756
+  Price: 11,99 € EUR
 - [Sagrada Feminina Parfümöl 10ml](https://shop.kraeuterdrogerie.at/products/sagrada-feminina-parfumol-10ml): Verbinde dich mit der heiligen Kraft der Weiblichkeit und genieße den einzigartigen Duft von peruanischem Palo Santo und arabischem Weihrauch aus Wildwuchs. Tipp: Während deiner Mondzeit (Menstruation) kannst du den Roll-On auch auf den Unterbrauch auftragen. Inhalt: Jojobaöl, Palo Santo aus Peru, Weihrauch aus Wildwuchs, Vitamin E
   Updated: 2026-09-21T07:41:02Z
   Vendor: Wilde Urnatur
@@ -664,6 +678,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Vulva_Fresh_bearb_2_Quadrat_1080x_jpg.webp?v=1748587776
   Price: 39,00 € EUR
+- [Womb Wisdom Unterbauch-Massageöl 30ml](https://shop.kraeuterdrogerie.at/products/womb-wisdom-unterbauch-massageoel-30ml): entspannend * ausgleichend * bringt Energie ins Fließen Basierend auf dem Wissen traditioneller Hebammen Guatemalas wurde dieses besondere Massageöl für den Unterbauch entwickelt. Pflanzenauszüge aus wilden Johanniskrautblüten lassen den Bauch in eine tiefe Entspannung kommen und blockierte Energie kommt wieder ins Fließen. Genieße diese samtig-warme Duft- Symphonie, welche ein rundum wohliges und umarmendes Gefühl verleiht. Die erdende Komposition reinster ätherischer Öle aus Kampfer, Zimt und Nelke durchwärmt deine gesamte Bauchregion und wird mit einem zart zitronigen Duft abgerundet. Die ausgleichend wirkende Rosengeranie mit ihrem feinen, blumigen Duft harmonisiert zudem den weiblichen Hormonhaushalt nachhaltig und beeinflusst das Gefühlsleben positiv. Inhalt: Sojaöl, Mandelöl, Jojobaöl, Johanniskrautöl, Lavendel fein, Rosengeranie, Nelkenknospe, Eukalyptus Staigeriana, Zimtrinde, Kampfer Wildwuchs, Vitamin E
+  Updated: 2026-11-02T09:42:11Z
+  Vendor: Wilde Urnatur
+  Product Type: Naturkosmetik – Körperpflege
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/DesignohneTitel-2022-12-24T015839_767_1080x_png.webp?v=1748587786
+  Price: 39,00 € EUR
 - [Busen Schön Brust-Massageöl 30ml](https://shop.kraeuterdrogerie.at/products/busen-schoen-brust-massageoel-30ml): sanft umhüllend * duftig verwöhnend * wohltuend bei Spannungsgefühlen Busen Schön ist ein umhüllendes Brust-Massageöl, welches dich einlädt deine Brüste bewusster wahrzunehmen, sie liebevoll zu berühren und sie streichelzart zu pflegen. Tauche ein in ein intensives Blütenduft- Erlebnis aus tropischem Ylang-Ylang, frischem Lemongras und unwiderstehlichen Jasmin-Blüten. Die Selektion wertvoller Pflanzenöle wie schützendes Jojobaöl sowie durch Kaltpressung gewonnenes Mandelöl machen deine Brüste geschmeidig, zart und festigen das Bindegewebe. Brustmassage-Rituale fördern die Sensibilität in den Brüsten, stärken die innere Mitte und steigern die orgastische Fähigkeit nachhaltig. Inhalt: Sojaöl, Mandelöl, Jojobaöl, Johanniskrautöl, Ylang Ylang Öl, Orangeöl, Lavendelöl fein, Lemongras, Jasmin Absolue, Vitamin E
   Updated: 2026-06-02T08:44:36Z
   Vendor: Wilde Urnatur
@@ -672,7 +693,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/DesignohneTitel-2022-12-24T015512_149_1080x_png.webp?v=1748587797
   Price: 39,00 € EUR
 - [Holy Yoni Intim-Massageöl 30ml](https://shop.kraeuterdrogerie.at/products/holy-yoni-intim-massageoel-30ml): intensiv-pflegend * befeuchtend * örend königlicher Duft Holy Yoni verwöhnt deine Yoni (Sanskrit: योनि: weibl. Intimbereich) mit köstlichen Blütenauszügen und edlem Mandelöl für wundervolle Selbstliebe-Rituale, wilde Liebesnächte und für die tägliche Intimpflege. Die Auswahl fein abgestimmter ätherischer Öle ist speziell für die Bedürfnisse der Yoni komponiert. Die Rose gilt seit der Antike als die „Königin der Blumen“. Sie symbolisiert die Vollkommenheit und ehrt das heilige Tor des Lebens und der zelebrierenden Lust. Der sinnliche Duft der persischen Damaszener-Rose verleiht deiner Yoni eine königliche Aura. Inhalt: Rosengeranienöl, Lavendelöl fein, Palmarosaöl, Jasminöl Absolue, echte persische Rose in Mandelöl und VitaminE
-  Updated: 2026-10-15T09:09:26Z
+  Updated: 2026-11-02T09:42:20Z
   Vendor: Wilde Urnatur
   Product Type: Massage
   Availability: Available
@@ -686,7 +707,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Bahnhof-Apotheke_Intimpflegecreme_Neroli_Ylang_30ml_Die-Kraeuterdrogerie.webp?v=1751581212
   Price: 15,90 € EUR
 - [Veilchenwurzel](https://shop.kraeuterdrogerie.at/products/veilchenwurzel)
-  Updated: 2026-10-21T08:06:57Z
+  Updated: 2026-11-04T15:31:19Z
   Vendor: Bahnhof-Apotheke / Stadelmann
   Product Type: Rund um die Geburt
   Availability: Available
@@ -700,14 +721,14 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/rosmarinhydrolat_100ml_Stadelmann_Die-KraeuterdrogerieKopie_5db9b7bf-56aa-4af1-88a4-bcb5eccd56f1.webp?v=1748587845
   Price: 8,50 € EUR
 - [Ringelblumensalbe 120ml](https://shop.kraeuterdrogerie.at/products/ringelblumensalbe-120ml): Zur Pflege von wunder, irritierter Haut, nicht nur für den empfindlichen BabypoRingelblumen in Mandelöl; Wollwachs; Ringelblumentinktur, Bienenwachs
-  Updated: 2026-10-29T15:41:57Z
+  Updated: 2026-10-31T10:18:41Z
   Vendor: Bahnhof-Apotheke / Stadelmann
   Product Type: Rund um die Geburt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Bahnhof-Apotheke_Ringelblumensalbe_120ml_Die-Kraeuterdrogerie.webp?v=1751581265
   Price: 19,50 € EUR
 - [Hamamelis-Myrte Balsam 50ml](https://shop.kraeuterdrogerie.at/products/hamamelis-myrte-balsam-50ml): Wohltuend bei äußeren Hämorrhoiden. Zusammenziehend bei gestauten Gefäßen, pflegt irritierte und gereizte Haut, auch bei Rhagaden und Schürfwunden.Wollwachs; Hamamelishydrolat; Sheabutter; Johanniskraut in Olivenöl; Myrte, Zypresse, Lavendel, Meersalz
-  Updated: 2026-10-20T04:22:55Z
+  Updated: 2026-11-02T16:37:36Z
   Vendor: Bahnhof-Apotheke / Stadelmann
   Product Type: Rund um die Geburt
   Availability: Available
@@ -777,7 +798,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Kiefernsprossen.webp?v=1760181823
   Price: 3,50 € EUR
 - [Verbundenheit](https://shop.kraeuterdrogerie.at/products/verbundenheit): Der Heilige Hain Ob bewusst oder unbewusst: Wir alle sehnen uns nach tiefer Verbundenheit. Nicht nur mit anderen Menschen, sondern mit allem, was uns umgibt: Einer höheren Wirklichkeit, die alles durchdringt und die wir als Gott, Liebe oder Licht bezeichnen können. Eigentlich sind wir immer verbunden, denn es ist unsere wahre Natur. Wir sind ein Teil des großen Ganzen. Erfahren wir dieses Einssein in der Meditation, bei einem Spaziergang oder in einer intensiven Begegnung, ist es ein Geschenk, das uns tief im Herzen bewegt. Doch oft kommt uns dieses Gefühl im Alltag abhanden und wir leben in der Illusion der Trennung. In diesem Licht haben wir die Essenzen unserer Heilkräuterkerzen „Geist der Bäume“ miteinander verbunden, um einen Heiligen Hain zu schaffen. Es gab und gibt solche Haine in vielen Kulturen und Religionen auf der Welt. Erhabene Baumriesen stehen als starke Gemeinschaft zusammen und bilden einen Tempel, in dem diese Verbundenheit mit dem großen Ganzen schwingt. So ein göttlicher Wald ist eine Brücke zum unendlichen Raum, in dem sich Grenzen auflösen und Glückseligkeit und vollkommene Harmonie schwingen. ALLES und JEDER hat seinen Platz darin. Wir sind alle Mitgeschöpfe des Ganzen, so unterschiedlich wir auch sein mögen. Der Heilige Hain lässt uns erkennen, dass die Erde nicht bloß eine Ressource ist. Als ihre Bewohner sind wir verantwortlich für die Tiere und unseren gemeinsamen Lebensraum, die Natur. Letztendlich haben wir alle einen Heiligen Hain in uns, er ist ein Ort in uns selbst. Aus diesem Raum heraus, sehen und verstehen wir andere mit all ihrer Einzigartigkeit. Wohl kaum etwas ist erfüllender für uns, wenn wir uns ganz angenommen und anderen zugehörig fühlen. Pflegen wir diese Verbundenheit mit unseren Lieblingsmenschen mit Zeit und ungeteilter Aufmerksamkeit, kann der Heilige Hain in unser aller Herzen wieder wachsen und gedeihen. Deshalb können wir uns selbst und anderen kein schöneres Geschenk machen, als ihnen durch eine liebevolle Geste zu zeigen, dass wir ihnen ganz nahe sind und ihnen damit sagen: Wie schön, dass Du in meinem Leben bist. Im Heiligen Hain fließen alle Energien der Serie „Geist der Bäume“ zusammen, unterstützt vom erdigen Duft des Vetiver. Allgäuer Heilkräuterkerzen werden in einer kleinen Manufaktur von Hand hergestellt, bestehen aus 100% pflanzlichem Stearin und einer auf das jeweilige Lebensthema abgestimmten Mischung aus Pflanzenauszügen, Heilkräuteressenzen, ätherischen Ölen und mehr. Die Wirkungsweise ist ähnlich einer feinen Räucherung: Transformiert durch das Feuer wird die Information und Schwingung der Auszüge freigesetzt und unterstützt geistige Intentionen und mentale Absichten. Allgäuer Heilkräuterkerzen sind keine Duftkerzen im klassischen Sinn, sie brennen bis zu 40 Stunden und sind tropffrei, solange sie keiner Zugluft ausgesetzt sind. Mehr über Allgäuer Heilkräuterkerzen.
-  Updated: 2026-10-19T12:36:57Z
+  Updated: 2026-11-03T10:23:36Z
   Vendor: Allgäuer Kräuterwerkstatt
   Product Type: Kerzen
   Availability: Available
@@ -857,21 +878,21 @@
     Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt-hibiskusblueten-ganz_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748588131
     Price: 12,70 € EUR
 - [Deocreme Orange](https://shop.kraeuterdrogerie.at/products/deocreme-orange): spritzig, fruchtiger Duft vegane Deocreme in Österreich produziert Natürliche Deocreme mit der fröhlichen Duftnote ätherischen Orangenöls aus kontrolliert biologischem Anbau. Der fruchtig, warme Duft der Orange wirkt gleichzeitig entspannend und harmonisierend. Es heißt, im Orangenöl sei die Sonne gespeichert und es brächte Sonnenlicht in unser Leben. Dieser klare und sympathische Duft wird sowohl von Frauen- als auch von Männerachseln geliebt. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
-  Updated: 2026-10-13T12:50:18Z
+  Updated: 2026-10-30T14:21:27Z
   Vendor: Achselkuss
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Orange_top_SQ_Freig-Kopie.webp?v=1760351145
   Price: 16,90 € EUR
 - [Deocreme Litsea](https://shop.kraeuterdrogerie.at/products/deocreme-litsea): erfrischender, zitroniger, aufhellender Duft vegane Deocreme in Österreich produziert Das ätherische Litsea-Öl (Litsea cubeba oder May Chang) wird aus den grünen Früchten des Litsea Baumes gewonnen, der vornehmlich in Vietnam beheimatet ist. Dieser fruchtig-süßer Duft wurde mit der Frische des ätherischen Zitronenöls verfeinert und so wurde ein wahrer Herz-wird-leicht-Duft geschaffen. Die Deocreme ist sowohl für Damen- als auch Herrenachseln wunderbar geeignet. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
-  Updated: 2026-10-28T10:13:36Z
+  Updated: 2026-11-03T15:19:20Z
   Vendor: Achselkuss
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Litsea_top_SQ_Freig-Kopie.webp?v=1760352099
   Price: 16,90 € EUR
 - [Deocreme Lavendel](https://shop.kraeuterdrogerie.at/products/deocreme-lavendel): blumig, krautiger, klarer Duft vegane Deocreme in Österreich produziert Mit der einzigartigen Duftnote des ätherischen Lavendelöls aus kontrolliert biologischem Anbau – stark in der Wirkung, sanft zur Haut – erwachen bei der Anwendung dieser Deocreme Erinnerungen an den letzten Urlaub in der Provence. Der leicht krautige Duft des Lavendelöls wirkt stark ausgleichendend. Es ist erfrischend und hellt die Stimmung auf, stärkt und wirkt beruhigend. Zusätzlich sagt man dem ätherischen Öl entgiftende und eine stark antiseptische Wirkung nach. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
-  Updated: 2026-10-22T14:59:55Z
+  Updated: 2026-11-02T16:42:36Z
   Vendor: Achselkuss
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
@@ -885,7 +906,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Kokos_top_SQ_Freig-Kopie.webp?v=1760352136
   Price: 16,90 € EUR
 - [Lavendelöl bio 5ml](https://shop.kraeuterdrogerie.at/products/lavendeloel-bio-5ml): Wiener Lavendel von Nani Wien aus dem 22.Bezirk, destiliert in Oberösterreich. Mit einem leicht süßen, blumigen und etwas krautigen Duft.
-  Updated: 2026-10-01T09:49:48Z
+  Updated: 2026-10-31T10:25:27Z
   Vendor: Nani Wien
   Product Type: Aromatherapie
   Availability: Available
@@ -897,13 +918,6 @@
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Patchouli_top_SQ_Freig-Kopie.webp?v=1760353256
-  Price: 16,90 € EUR
-- [Deocreme Natur](https://shop.kraeuterdrogerie.at/products/deocreme-natur): ohne Duft für sensible Haut vegane Deocreme in Österreich produziert Ganz ohne Duftstoffe. Stark in der Wirkung hält die natürliche Deocreme den ganzen Tag garantiert frei vor Geruchsbildung, ohne das natürliche Schwitzen zu unterbinden. Besonders gut geeignet für Menschen mit sensibler Haut und für alle, die es ohne Duft lieben. Der in der Deocreme enthaltene Wirkstoff Speisenatron lässt die Bakterien auf der Haut nicht wachsen und hält so frei vor unerwünschter Geruchsbildung, ohne die natürliche Klimaanlage des Körpers bei seiner Arbeit zu stören, nämlich dem Schwitzen. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
-  Updated: 2026-10-28T13:15:17Z
-  Vendor: Achselkuss
-  Product Type: Naturkosmetik – Körperpflege
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Natur_top_SQ_Freig-Kopie.webp?v=1760353266
   Price: 16,90 € EUR
 - [Deocreme Monoi](https://shop.kraeuterdrogerie.at/products/deocreme-monoi): zart, süßlicher Blumenduft vegane Deocreme in Österreich produziert Natürliche Beduftung ganz ohne ätherische Öle: Das Monoi de Tahiti Öl verleiht der Deocreme die zarte Duftnote. Es wird mittels Mazeration aus der Tiare-Blüte (Gardenia tahitensis) gewonnen. Der pudrig-sanfte Duft der besonderen Südseeblüte macht alle Achseln glücklich! Zur Herstellung des verwendeten Monoi-Öls werden die Blüten der Tiare vor der Morgendämmerung gepflückt und für einige Zeit in frischem Kokosnussöl mazeriert. Dabei geben die Blüten feuchtigkeitsspendende und pflegende Inhaltsstoffe und die typischen Duftstoffe an das Öl ab. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
   Updated: 2026-10-21T11:47:16Z
@@ -927,7 +941,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/ACHSELKUSS_Bergamottminze_top_SQ_Freig-Kopie.webp?v=1760351109
   Price: 16,90 € EUR
 - [Deocreme Rose](https://shop.kraeuterdrogerie.at/products/deocreme-rose): rosig süßer Duft vegane Deocreme in Österreich produziert Der Duft der Rose öffnet das Herz, heißt es. Rosenöl wirkt entspannend und löst durch sein warmes Aroma Ängste und Anspannungen. Es zählt seit jeher zu den edelsten und wertvollsten ätherischen Ölen: 5 Tonnen Rosenblätter werden benötigt um 1 Liter Rosenöl zu gewinnen. Diese Deocreme mit Rosenduft ist für Damen- als auch Herrenachseln wunderbar geeignet. Um den Duft abzurunden, wurde das enthaltene ätherische Rosenöl mit ätherischen Ölen von Palmarosa, Geranie und Zeder verfeinert. Der wohltuende Geruch der Rose entspannt, ihm wird eine erotisierende und anregende Wirkung zugesprochen. Rosenöl und Rosenhydrolat gehört in der fernöstlichen Medizin zu den wichtigsten Heilmitteln. Auch in Europa wird das kostbare Öl in der Aromatherapie und Aromapflege häufig verwendet. Ätherisches Rosenöl gilt zudem als wertvolle Zutat in der Komposition von Düften und Kosmetika. ACHSELKUSS Deocremen sind hochwirksam, vegan und werden in Österreich aus erlesenen Rohstoffen und naturreinen ätherischen Ölen in Handarbeit hergestellt. Auf die Verwendung von synthetischen Duft- und Konservierungsstoffen, Erdölprodukten, Parabenen, Silikonen, Palmfett oder Aluminiumsalze wird dabei bewusst verzichtet. Anwendung: ACHSELKUSS Deocremen sind sehr ergiebig: eine kleine Fingerspitze der veganen Deocreme sanft in die Achselhöhlen einzucremen reicht völlig aus, um zuverlässig den ganzen Tag vor Geruchsbildung geschützt zu sein. Die Deocreme zieht nach dem Auftragen sehr rasch ein und hinterlässt ein feines, pflegendes Gefühl auf der Haut ohne zu fetten oder Flecken zu verursachen. TIPP: Auch trockene Hände mögen die pflegende Wirkung der hochwertigen Fette (Sheabutter, Kokosfett und Mangobutter) gerne. Bitte bei Zimmertemperatur aufbewahren. Nicht auf gereizte Haut auftragen.
-  Updated: 2026-10-29T14:54:56Z
+  Updated: 2026-10-31T10:14:12Z
   Vendor: Achselkuss
   Product Type: Naturkosmetik – Körperpflege
   Availability: Available
@@ -941,7 +955,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Gelbwurzel-Kurkuma_KRT_offen_Copyright-Christoph-Moser_Die-Kraeuterdrogerie.webp?v=1752764054
   Price: 15,00 € EUR
 - [Soba Cha – 100g](https://shop.kraeuterdrogerie.at/products/soba-cha-100g)
-  Updated: 2026-09-24T16:50:56Z
+  Updated: 2026-10-31T17:39:38Z
   Vendor: Die Kräuterdrogerie
   Product Type: Kräuter
   Availability: Available
@@ -1157,7 +1171,7 @@
     Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt_Ehrenpreis_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748588407
     Price: 20,00 € EUR
 - [Ingwerwurzel](https://shop.kraeuterdrogerie.at/products/ingwerwurzel): Zingiberis rhizoma Zur Vorbeugung gegen die Symptome der Reisekrankheit, wie Schwindel, Übelkeit und Erbrechen. Für eine Tasse Tee 1 Teelöffel voll mit kochendem Wasser übergießen und nach 15 Minuten abseihen. Mehrmals täglich 1 Tasse Tee 1/2 Stunde vor den Mahlzeiten trinken. Nach Entnahme wieder gut verschließen. Für Kinder unerreichbar aufbewahren.
-  Updated: 2026-09-17T05:47:05Z
+  Updated: 2026-10-31T17:39:35Z
   Vendor: Die Kräuterdrogerie
   Product Type: Kräuter
   Availability: Available
@@ -1365,7 +1379,7 @@
     Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-krt_Olivenblaetter_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748588490
     Price: 22,50 € EUR
 - [Alantwurzel](https://shop.kraeuterdrogerie.at/products/alantwurzel)
-  Updated: 2026-09-28T17:51:26Z
+  Updated: 2026-11-05T14:04:56Z
   Vendor: Die Kräuterdrogerie
   Product Type: Kräuter
   Availability: Available
@@ -1405,7 +1419,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/kd-tm-suesses-zimtapferl_Die-Kraeuterdrogerie_Copyright_Christoph-Moser.jpg?v=1748588520
   Price: 8,90 € EUR
 - [Sonnengruß Tee – Erfrischung & Fokus | Die Kräuterdrogerie](https://shop.kraeuterdrogerie.at/products/sonnengruss-45g): Inspiriert vom Yoga-Gruß: Bringt Klarheit, Energie und einen positiven Start in den Tag. Klarer Geschmack, klare Gedanken.
-  Updated: 2026-09-24T16:50:58Z
+  Updated: 2026-11-01T20:04:12Z
   Vendor: Die Kräuterdrogerie
   Product Type: Teemischungen
   Availability: Available
@@ -1590,19 +1604,12 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Flowers-500ml-Multikraft_kraeuterdrogerie.png?v=1748588782
   Price: 15,60 € EUR
 - [Roots 500ml](https://shop.kraeuterdrogerie.at/products/roots-wurzelgold-500ml): Natürliche Pflanzenstärkung Für starke Pflanzen und kräftige Wurzeln Beschreibung - Fördert das Wurzelwachstum bei jungen Pflanzen - Stärkt die Widerstandskraft von Pflanzen aller Art - Fördert ein gesundes, aktives Bodenleben - Sehr ergiebig - Einfache Anwendung - Für die Bio-Produktion zugelassen
-  Updated: 2026-09-01T11:09:11Z
+  Updated: 2026-11-04T12:52:11Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Roots-500ml-Multikraft_kraeuterdrogerie.png?v=1748588813
   Price: 9,30 € EUR
-- [Urban Jungle 500ml Planzenhilfsmittel](https://shop.kraeuterdrogerie.at/products/urban-jungle-500ml): Natürliche Pflanzenstärkung für dein grünes Zuhause Mit Effektiven Mikroorganismen, Mikronährstoffen und sorgfältig ausgewählten Pflanzenextrakten Natürliche Pflanzenstärkung für Zimmerpflanzen, Palmen und Zimmerkräuter Beschreibung - Steigert das natürliche Abwehrsystem der Pflanzen - Unterstützt ein gesundes Wurzelwachstum und sorgt für eine optimale Nährstoffaufnahme - Fördert kräftige Blätter und sattes Blattgrün - Zur Regeneration bei Mangelerscheinungen - Staubabweisende und reinigende Wirkung - Für Bio zugelassen Gießanwendung: 10 ml auf 1 Liter Gießwasser bei jedem Gießvorgang.
-  Updated: 2026-09-23T09:02:32Z
-  Vendor: Multikraft
-  Product Type: Effektive Mikroorganismen
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Urban-Jungle-500ml-Multikraft_kraeuterdrogerie.png?v=1748588835
-  Price: 15,60 € EUR
 - [Kalkreiniger 500ml](https://shop.kraeuterdrogerie.at/products/emc-kalkreiniger-500ml): Probiotischer Reiniger gegen Kalkablagerungen. Langfristig und nachhaltig gegen Kalk Oberflächen werden mit probiotischen Mikroorganismen besiedelt Neutralisiert Gerüche Besonders sparsam und ergiebig Qualität aus Österreich Kräuterdrogistinnen LIEBEN eMC-Reiniger! Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab. Der eMC Kalkreiniger reinigt verkalkte Oberflächen mit der Kraft der Zitronensäure, während probiotische Mikroorganismen Verunreinigungen auf natürliche Weise abbauen. Die regelmäßige Anwendung fördert ein gesundes Raumklima. eMC Reiniger sind ideal für die tägliche Unterhaltsreinigung geeignet und besonders sparsam in der Anwendung (1 Liter eMC Reiniger ergibt bis zu 1000 Liter gebrauchsfertige Lösung). Der eMC Kalkreiniger wirkt kalklösend, daher von kalkhaltigen Oberflächen wie Kalkstein, Marmor oder Beton fernhalten. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne. Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
   Updated: 2026-10-05T15:15:34Z
   Vendor: Multikraft
@@ -1625,7 +1632,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Textilreiniger_0_5L_WEB_Die-Kraeuterdrogerie.webp?v=1748588875
   Price: 19,90 € EUR
 - [Textilreiniger 1l](https://shop.kraeuterdrogerie.at/products/emc-textilreiniger-1l): Probiotischer Textilreiniger zum Sprühen und als Waschzusatz. Textilauffrischer für Vorhänge, Kleidung, Matratzen und Polstermöbel Neutralisiert Gerüche Reduziert den Waschmittelverbrauch Qualität aus Österreich Kräuterdrogistinnen LIEBEN eMC-Reiniger! Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab. Der eMC Textilreiniger beseitigt Gerüche und pflegt porentief. Beim Einsatz in der Waschmaschine kann Waschpulver um bis zu 50 % reduziert werden, bei 40 °C Wäsche und leichter Vermutzung kann sogar gänzlich darauf verzichtet werden. Bei längerer Einwirkzeit können auch hartnäckige Flecken optimal entfernt werden. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne. Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
-  Updated: 2026-10-28T15:34:06Z
+  Updated: 2026-10-30T14:45:01Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
@@ -1639,14 +1646,14 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Kuechenreiniger_1L_WEB_Die-Kraeuterdrogerie.webp?v=1748588894
   Price: 24,90 € EUR
 - [Küchenreiniger 500ml](https://shop.kraeuterdrogerie.at/products/emc-kuechenreiniger-500ml): Probiotischer Küchenreiniger gegen Fettablagerungen. Optimal im Einsatz bei Kochfeld, Dunstabzug, Backrohr und Geschirr Neutralisiert Gerüche eMC Reiniger verringern die Wiederverschmutzung Besonders sparsam und ergiebig Qualität aus Österreich Kräuterdrogistinnen LIEBEN eMC-Reiniger! Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima in allen Bereichen des Alltags und wirkt nachhaltig, weil die Wiederverschmutzung verzögert wird. eMC Reiniger sind für's tägliche Putzen bestens geeignet und besonders sparsam in der Anwendung (1 Liter eMC Reiniger ergibt bis zu 1000 Liter gebrauchsfertige Lösung). Der eMC Küchenreiniger kann dank der fettspaltenden Eigenschaften von Grapefruitkernextrakt in der gesamten Küche eingesetzt werden. Probiotische Mikroorganismen in den eMC Reinigern bauen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne. Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
-  Updated: 2026-10-10T12:01:22Z
+  Updated: 2026-11-04T12:52:06Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Kuechenreiniger_0_5L_WEB_Die-Kraeuterdrogerie.webp?v=1748588905
   Price: 14,90 € EUR
 - [Kraftreiniger 500ml](https://shop.kraeuterdrogerie.at/products/emc-kraftreiniger-500ml): Zur Anwendung auf großen, stark verschmutzten Flächen Für alle Oberflächen geeignet Oberflächen werden mit probiotischen Mikroorganismen besiedelt Fördert ein gesundes Raumklima Beseitigt schlechte Gerüche Ideal für die tägliche Unterhaltsreinigung geeignet Besonders sparsam und ergiebig Kräuterdrogistinnen LIEBEN die Reiniger von Multikraft!Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab.Die regelmäßige Anwendung fördert ein gesundes Raumklima in allen Bereichen des Alltags und wirkt nachhaltig, weil die Wiederverschmutzung verzögert wird. Multikraft Reiniger sind für's tägliche Putzen bestens geeignet und besonders sparsam in der Anwendung (1 Liter Reiniger ergibt bis zu 1000 Liter gebrauchsfertige Lösung). Dosierung für Putzkübel: 10 ml (1 Verschlusskappe) auf 10 L Wasser Dosierung für Sprühflasche: 10 ml (1 Verschlusskappe) auf 1 L Wasser Der Multikraft Kraftreiniger wirkt effektiv gegen starken Schmutz und ist in Großküchen, Kindergärten, Schulen genauso aber auch im Haushalt im Einsatz. Probiotische Mikroorganismen in den Multikraft Reinigern bauen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima. Inhaltsstoffe: Inhaltsstoffe gemäß Verordnung (EG) Nr. 648/2004: < 5 % nichtionische Tenside, Duftstoffe (Limonene). Ebenfalls enthalten: Wasser, Zitronenverbene, Zitronensäure, Glukosesirup, Effektive Mikroorganismen. EUH210 Sicherheitsdatenblatt auf Anfrage erhältlich. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne.Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
-  Updated: 2026-10-16T09:15:22Z
+  Updated: 2026-11-04T12:52:07Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
@@ -1667,7 +1674,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Lavendel-Allzweckreiniger_1L_WEB_Die-Kraeuterdrogerie.webp?v=1748588935
   Price: 19,90 € EUR
 - [Niermison® 8 x 100ml](https://shop.kraeuterdrogerie.at/products/niermison®-8-x-100ml): Eine unvorstellbare Menge von 150 Liter Körperflüssigkeit reinigen unsere Nieren jeden Tag von Schadstoffen und scheiden diese über den Harn aus. Manchmal braucht dieses starke Organ dabei allerdings Unterstützung. Gut, dass es Niermison® von SonnenMoor gibt – dieser Kräuterauszug ist mit allen Wassern gewaschen! Zehn ausgewählte Kräuter unterstützen Nieren, Blase und Harnwege bei Ihrer täglichen Arbeit und sorgen für ein „pipifeines“ Gefühl. Doch was genau steckt im Niermison® von SonnenMoor? Die Antwort ist ganz einfach: Nur die besten Kräuter wie Labkraut, Birke, Käsepappel, Frauenmantel, Zinnkraut und viele mehr, die besonders harmonisierend und belebend auf die Ausscheidungsorgane wirken. Sonst nichts: Keine Konservierungsstoffe, keine Aromen, kein Alkohol und kein Zucker. So steigert der flüssige Kräuterauszug für die Nieren besonders sanft unser gesamtes Wohlbefinden. ✓ Unterstützt die Ausscheidungsorgane ✓ Zur Reinigung und Stärkung von Nieren ✓ Zur Unterstützung der Bedürfnisse der Prostata ✓ Für eine angenehme und wohltuende Ableitung aus der Harnblase ✓ Zur Stärkung von Blase und ableitenden Harnwegen Inhaltsstoffe - Zutaten 89 % Wasser, 11 % Kräuterextrakt aus: Labkraut, Zinnkraut, Schafgarbe, Gundelrebe, Kalmuswurzel, Anserine, Birkenblätter, Süßholzwurzel, Käsepappel, Frauenmantel. Anwendung Die Anwendung von Niermison® von SonnenMoor: Niere, Blase, Galle, Prostata - Täglich 25 ml kurz nach dem Frühstück und 25 ml am späten Nachmittag pur oder mit etwas Wasser oder Fruchtsaft verdünnt trinken – am besten vor 19 Uhr.
-  Updated: 2026-09-05T07:42:01Z
+  Updated: 2026-11-05T14:22:19Z
   Vendor: SonnenMoor
   Product Type: Nahrungsergänzung
   Availability: Available
@@ -1681,7 +1688,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Fruehlingszauber_RM_offen_Copyright-Christoph-Moser_Die-Kraeuterdrogerie.webp?v=1752585893
   Price: 4,50 € EUR
 - [Allzweckreiniger Citrus 1l](https://shop.kraeuterdrogerie.at/products/emc-citrus-allzweckreiniger-1l): Probiotischer Reiniger mit Zitrusduft Ökolgisch & wasserschonend eMC Reiniger verringern die Wiederverschmutzung Qualität aus Österreich Kräuterdrogistinnen LIEBEN eMC-Reiniger! Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima in allen Bereichen des Alltags und wirkt nachhaltig, weil die Wiederverschmutzung verzögert wird. eMC Reiniger sind für's tägliche Putzen bestens geeignet und besonders sparsam in der Anwendung (1 Liter eMC Reiniger ergibt bis zu 1000 Liter gebrauchsfertige Lösung). Der eMC Allzweckreiniger Citrus ist optimal für die Reinigung in Sanitärräumen sowie im Haushalt und verleiht den Räumen einen angenehmen Citrus-Duft. Probiotische Mikroorganismen in den eMC Reinigern bauen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne. Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
-  Updated: 2026-10-17T10:17:46Z
+  Updated: 2026-11-04T11:36:05Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
@@ -1695,7 +1702,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Allzweckreiniger_Lavendel_0_5L_WEB_Die-Kraeuterdrogerie.webp?v=1748588974
   Price: 11,90 € EUR
 - [Allzweckreiniger Citrus 500ml](https://shop.kraeuterdrogerie.at/products/emc-citrus-allzweckreiniger-500ml): Probiotischer Reiniger mit Zitrusduft Ökolgisch & wasserschonend eMC Reiniger verringern die Wiederverschmutzung Qualität aus Österreich Kräuterdrogistinnen LIEBEN eMC-Reiniger! Sie bauen mit Hilfe probiotischer Mikroorganismen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima in allen Bereichen des Alltags und wirkt nachhaltig, weil die Wiederverschmutzung verzögert wird. eMC Reiniger sind für's tägliche Putzen bestens geeignet und besonders sparsam in der Anwendung (1 Liter eMC Reiniger ergibt bis zu 1000 Liter gebrauchsfertige Lösung). Der eMC Allzweckreiniger Citrus ist optimal für die Reinigung in Sanitärräumen sowie im Haushalt und verleiht den Räumen einen angenehmen Citrus-Duft. Probiotische Mikroorganismen in den eMC Reinigern bauen Verunreinigungen auf natürliche Weise ab. Die regelmäßige Anwendung fördert ein gesundes Raumklima. Wir führen EM-Produkte seit vielen Jahren, haben umfassende Erfahrung und beraten Sie gerne. Informationen dazu finden Sie auch auf unserer Website kräuterdrogerie.at/effektive-mikroorganismen
-  Updated: 2026-10-16T11:21:01Z
+  Updated: 2026-10-31T11:42:57Z
   Vendor: Multikraft
   Product Type: Effektive Mikroorganismen
   Availability: Available
@@ -1716,7 +1723,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/Lemison_8-er_SonnenMoor_Die-Kraeuterdrogerie.webp?v=1760194988
   Price: 39,90 € EUR
 - [Vata Körperöl & Massageöl 100ml](https://shop.kraeuterdrogerie.at/products/vata-massageoel-100ml): Biologisches Jojoba- Mandel- und Sesamöl versetzt mit ausgewählten natürlichen ätherischen Ölen (u.a. Lavendel, Orange, Rose...), die unseren Körper und unseren Geist verwöhnen und entspannen. Unser beliebtes Vata Öl ist fein nach einem anstrengenden Tag (auch im Badewasser) und auch wunderbar geeignet für eine entspannende Fuß- oder Bauchmassage. Ingredients: Simmondsia Chinensis (Jojoba) Seed Oil*, Prunus Amygdalus Dulcis (Sweet Almond) Oil*, Sesamum Indicum (Sesame) Oil*, Parfum, Tocopherol, Lavandula Angustifolia Oil*, Citrus Sinensis Peel Oil*, Cedrus Atlantica Wood Oil*, Pelargonium Graveolens Flower Oil*, Rosa Damascena Flower Oil, Beta-Caryophyllene**, Camphor**, Citronellol**, Geraniol**, Geranyl Acetate**, Limonene**, Linalool**, Linalyl Acetate**, Pinene**, Terpineol **. * from organic cultivation; **from natural essential oils
-  Updated: 2026-10-28T15:28:05Z
+  Updated: 2026-11-05T13:35:41Z
   Vendor: Die Kräuterdrogerie
   Product Type: Massage
   Availability: Available
@@ -1785,7 +1792,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/raumspray-zirbenwald.jpg?v=1748589095
   Price: 14,90 € EUR
 - [Waldspaziergang bio Raumspray 50ml](https://shop.kraeuterdrogerie.at/products/waldspaziergang-raumspray-bio-50ml): Die waldige Frische von Riesentanne und Fichtennadeln richtet uns auf. Im Wald ist es wie in einer anderen Welt. Wir lauschen verzaubert auf die Melodien der Waldvögel, das Knacken der Äste und das Rascheln der Zweige. Warmer Duft von sonnenverwöhntem Holz umhüllt uns, und jeder Schritt auf dem weichen Waldboden gibt uns neue Energie. Riesentanne und Fichtennadeln bringen dieses Waldgefühl nachhause, und lassen uns auch daheim diese Frische erleben. Duftprofil frisch, holzig, zitrusartig Duftthema erheiternd, vitalisierend, erdend Anwendung Nach Bedarf in den Raum sprühen und den Duft genießen. Für Arbeits- und Wohnräume. Inhaltsstoffe Alkohol* bio, Wasser, Vetiveröl* bio, Zirbelkiefernöl* bio, Orangenöl* bio, Grapefruitöl* bio, Fichtennadelöl* bio, Riesentannenöl* bio, Douglasfichtenöl* bio, Weisstannenöl* bio, Myrtenöl u. a. * kontrolliert biologischer Anbau natürliche Trübung möglich
-  Updated: 2026-10-16T11:53:21Z
+  Updated: 2026-11-05T12:34:35Z
   Vendor: Primavera
   Product Type: Aromatherapie
   Availability: Available
@@ -1806,7 +1813,7 @@
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/201006__LIMROCO13_HERBAL_SCALP_RELIEF_CONDITIONER_200ml.png?v=1748589145
   Price: 40,00 € EUR
 - [Thyme lacque 150ml](https://shop.kraeuterdrogerie.at/products/thyme-lacque-150ml): FINISH ALLE HAARTYPEN starker Halt, fixierend verstärkt den Glanz Fixierendes Haarspray ohne Treibgase auf Basis natürlicher Filmbildner, gibt starken Halt, verstärkt den Glanz und spendet Feuchtigkeit. Hauptwirkstoffe: Schellack Natürlicher Filmbildner, schenkt starken Halt und schönen Glanz. Waldhonig1 Kostbarer Waldhonig aus dem Mühlviertler Rannatal spendet Feuchtigkeit, pflegt und nährt Haar und Kopfhaut. Fair Trade Mascobado Rohrzucker1,3 Traditioneller Vollrohrzucker aus den Philippinen. Mascobado ist der getrocknete, unraffinierte Saft des Zuckerrohrs. enthält wertvolle Mineralstoffe wie Calcium, Magnesium, Zink, Eisen, Phosphor und gibt dem Haar Form und starken Halt. Aromawirkung - 100% organische Essenzen Thymian1, Sizilianische Bergamotte1, Rosengeranie1. Stimmungsaufhellend, erhebend, belebend. Kopfhaut-tonisierend. 1aus kontrolliert biologischem Anbau 3fair trade Anwendung: Zum Abschluss des Stylings gleichmässig über das trockene Haar verteilen, es bleibt direkt nach dem Auftragen noch kurze Zeit formbar.
-  Updated: 2026-10-19T15:47:46Z
+  Updated: 2026-11-03T12:35:56Z
   Vendor: Less is More
   Product Type: Naturkosmetik – Haarpflege
   Availability: Available
@@ -1826,25 +1833,18 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/201006__LIMSTY35_MASCOBADOGEL_150ml.png?v=1748589174
   Price: 38,00 € EUR
-- [Limesouffle 150ml](https://shop.kraeuterdrogerie.at/products/limesouffle-150ml): ALLE HAARTYPEN leichtes Gelwachs für Textur, Definition & mittleren flexiblen Halt Leichtes Gelwachs für Textur, Definition & mittleren flexiblen Halt. Für unkomplizierte Styles von Done bis Undone, ohne das Haar zu beschweren. Hauptwirkstoffe: LINDENBLÜTENWASSER1 Zart duftendes Blütenwasser aus der Wasserdampfdestillation von Lindenblüten mit hautberuhigender, entspannender Wirkung. MYRICA WACHS Ein veganes Fruchtwachs aus Wildsammlung, gewonnen aus Beeren des Myrica-Baums. Verfügt über einzigartige Stylingeigenschaften, verleiht Halt und lässt sich zugleich sehr gut auftragen. OLIVENÖL1 Nährendes Pflanzenöl, pflegt und schützt das Haar. Aromawirkung - 100% organische Essenzen Sizilianische Zitrone1, Petitgrain Mandarinier1, Vanille1. Stimmungsaufhellend, köstlich. Kopfhaut-beruhigend. 1aus kontrolliert biologischem Anbau Anwendung: In den Händen verreiben, ins feuchte oder trockene Haar einarbeiten für Form, Definition und Finish, bei Bedarf in Schichten.
-  Updated: 2026-10-27T08:59:56Z
-  Vendor: Less is More
-  Product Type: Naturkosmetik – Haarpflege
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0815/1705/2242/files/201006__LIMSTY37_LIMESOUFFLe_150ml.png?v=1748589183
-  Price: 38,00 € EUR
-[List Continued](https://shop.kraeuterdrogerie.at/a/llms-agent/llms.txt?shop=9e9047-de.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTI1NjM4MDAwOTc4LCJsYXN0X3ZhbHVlIjoiODkyNTYzODAwMDk3OCJ9)
+[List Continued](https://shop.kraeuterdrogerie.at/a/llms-agent/llms.txt?shop=9e9047-de.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTI1NjM3OTM1NDQyLCJsYXN0X3ZhbHVlIjoiODkyNTYzNzkzNTQ0MiJ9)
 
 ## Collections
 
 - [Kräuter - Heilkräuter und Monodrogen](https://shop.kraeuterdrogerie.at/collections/kraeuter): Die Kräuterdrogerie bietet Heilkräuter & Monodrogen in Arzneibuchqualität. Wohltuend seit 1793 verbinden wir Tradition & Innovation für dein Wohlbefinden.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 166
 - [Ayurveda](https://shop.kraeuterdrogerie.at/collections/ayurveda): Ayurvedische Produkte, Gewürze und Literatur für Balance und Wohlbefinden. Lassen Sie sich von unseren Wiener Kräuterdrogistinnen beraten.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 110
 - [Gewürze](https://shop.kraeuterdrogerie.at/collections/gewuerze): Gewürze: Aroma und Gesundheit in Arzneibuch-Qualität Unsere Gewürze sind mehr als nur Würzmittel – sie sind oft von so hoher Reinheit und Qualität, dass sie den strengen Standards der Arzneibuchqualität (Arzneimittelqualität) entsprechen. Wir garantieren Frische, intensive Aromen und höchste Verträglichkeit. Entdecken Sie Einzelgewürze für die Gourmetküche, die ayurvedische Ernährung oder zur gezielten gesundheitlichen Anwendung. Seit 1793 steht die Kräuterdrogerie Wien für kompromisslose Qualität bei Kräutern und Gewürzen.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 117
 - [Ostern](https://shop.kraeuterdrogerie.at/collections/ostern): Besondere Kräuter, Tees und Dekoratives für Ostern. Natürliche Geschenke und Frühlingsprodukte von Ihrer Kräuterdrogerie. Jetzt entdecken!
   Updated: 2026-10-24T08:08:21Z
@@ -1853,49 +1853,49 @@
   Updated: 2026-10-29T11:20:30Z
   Total Products: 31
 - [Naturkosmetik](https://shop.kraeuterdrogerie.at/collections/naturkosmetik): Hochwertige Naturkosmetik für Gesicht und Körper. Sanfte Pflege mit der Kraft der Kräuter. Biologisch und nachhaltig aus Wien.
-  Updated: 2026-10-29T11:20:30Z
-  Total Products: 479
+  Updated: 2026-11-04T15:10:07Z
+  Total Products: 478
 - [Medizinalkräuter](https://shop.kraeuterdrogerie.at/collections/medizinalkraeuter): Echte Medizinalkräuter und Monodrogen in Arzneibuch-Qualität. Expertenberatung seit 1793 in Ihrer Kräuterdrogerie Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 107
 - [Räuchern](https://shop.kraeuterdrogerie.at/collections/raeuchern): Alles zum Thema Räuchern: Harze, Kräuter, Kohle und Zubehör. Für eine klärende Atmosphäre – Beratung in der Kräuterdrogerie Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 155
 - [Aromatherapie](https://shop.kraeuterdrogerie.at/collections/aromatherapie): Tauchen Sie in die Welt der Aromatherapie ein! Naturreine Ätherische Öle, Duftmischungen und Expertenberatung von der Kräuterdrogerie Wien.
-  Updated: 2026-10-25T11:14:50Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 162
 - [Frauenleben](https://shop.kraeuterdrogerie.at/collections/frauenleben): Das Frauenleben natürlich begleiten: Menstruation, Geburt & Menopause Die Kräuterdrogerie Wien ist Ihr Spezialist für die Begleitung des Frauenlebens durch die Kraft der Natur. In dieser umfassenden Kollektion finden Sie alles von sanfter Unterstützung während der Menstruation bis hin zur Begleitung durch die Menopause. Wir bieten spezielle Heilkräuter, Teemischungen und Tinkturen, oft basierend auf traditionellem Hebammenwissen (wie den Stadelmann Aromamischungen). Vertrauen Sie auf unser fundiertes Kräuterwissen und unsere persönliche Beratung, um die Herausforderungen jeder Lebensphase wohltuend zu meistern.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 92
 - [Rund um die Geburt](https://shop.kraeuterdrogerie.at/collections/rund-um-die-geburt): Produkte rund um die Geburt: Stadelmann Aromamischungen, Kräuter und Tees für Schwangerschaft, Geburt & Stillzeit. Beratung in Wien.
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-10-30T11:22:31Z
   Total Products: 66
 - [Bücher](https://shop.kraeuterdrogerie.at/collections/buecher): Geballtes Kräuterwissen, Rezepte & Infos zu Naturkosmetik und Räuchern. Die Fachliteratur Ihrer Kräuterdrogerie Wien seit 1793.
   Updated: 2026-10-23T14:45:00Z
   Total Products: 48
 - [Teemischungen](https://shop.kraeuterdrogerie.at/collections/teemischungen): Unsere beliebten, frisch gemischten Teemischungen. Heiltees, Genusstees und Kräutermischungen in bester Qualität seit 1793.
-  Updated: 2026-10-29T11:20:30Z
-  Total Products: 104
+  Updated: 2026-11-04T15:12:07Z
+  Total Products: 103
 - [10% MwSt](https://shop.kraeuterdrogerie.at/collections/10-mwst): Produkte mit 10% MwSt innerhalb Österreichs
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 412
 - [Lebensmittel](https://shop.kraeuterdrogerie.at/collections/lebensmittel): Ausgewählte, natürliche Lebensmittel in bester Qualität: Superfoods, Tees und besondere Zutaten für die gesunde Küche. Jetzt in Wien shoppen!
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 198
 - [Bitterstoffe](https://shop.kraeuterdrogerie.at/collections/bitterstoffe): Stärken Sie Ihre Verdauung natürlich mit Bitterstoffen. Entdecken Sie Tinkturen und Pulver, empfohlen von unseren Kräuterexperten. Jetzt bestellen!
-  Updated: 2026-10-10T11:17:06Z
+  Updated: 2026-11-04T12:20:30Z
   Total Products: 15
 - [Basisches](https://shop.kraeuterdrogerie.at/collections/basisches): Basische Produkte für mehr Balance und Säure-Basen-Haushalt. Hochwertige Salze, Bäder & mehr von Ihrer Kräuterdrogerie in Wien.
   Updated: 2026-10-15T11:56:14Z
   Total Products: 32
 - [Gewürzmischungen](https://shop.kraeuterdrogerie.at/collections/gewuerzmischungen): Unsere beliebten, frisch gemischten Gewürzmischungen. Großteils in Arzneimittelqualität, perfekt zum Kochen und Würzen. Kräuterdrogerie Wien.
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 36
 - [Spagyrische Essenzen](https://shop.kraeuterdrogerie.at/collections/spagyrische-essenzen): Hochwertige Spagyrische Essenzen in bester Qualität. Traditionelle Pflanzenheilkunde von der Kräuterdrogerie Wien. Jetzt entdecken!
-  Updated: 2026-10-14T11:27:52Z
+  Updated: 2026-11-03T12:21:52Z
   Total Products: 42
 - [Sommer](https://shop.kraeuterdrogerie.at/collections/sommer): Natürliche Sommerprodukte: Heilkräuter, Sonnencreme, Insektenschutz & Pflege für einen gesunden, entspannten Sommer aus der Kräuterdrogerie.
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 38
 - [Allergie](https://shop.kraeuterdrogerie.at/collections/allergie): Natürliche Unterstützung bei Allergien. Entdecken Sie ausgewählte Heilkräuter, Mischungen und ätherische Öle von der Kräuterdrogerie in Wien. Jetzt online bestellen!
   Updated: 2026-06-02T05:48:13Z
@@ -1904,13 +1904,13 @@
   Updated: 2026-10-16T11:19:37Z
   Total Products: 21
 - [Vegane Produkte](https://shop.kraeuterdrogerie.at/collections/vegane-produkte): Vegane Naturkosmetik, Lebensmittel und Nahrungsergänzung. Entdecken Sie unser komplettes veganes Sortiment.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 28
 - [Körperpflege](https://shop.kraeuterdrogerie.at/collections/koerperpflege): Körperpflege: Das Beste der Natur für Ihren Körper Von Kopf bis Fuß perfekt gepflegt – unsere Körperpflege-Kollektion umfasst alles, was Ihre Haut braucht. Von sanften Seifen und Duschbutter über feuchtigkeitsspendende Lotionen und Körperöle. Wir setzen auf biologische, natürliche Inhaltsstoffe und die wirksame Kraft unserer Heilkräuter und Pflanzenextrakte. Erleben Sie Naturkosmetik in bester Qualität.
-  Updated: 2026-10-29T11:20:30Z
-  Total Products: 468
+  Updated: 2026-11-04T15:10:07Z
+  Total Products: 467
 - [Made in Vienna](https://shop.kraeuterdrogerie.at/collections/made-in-vienna): Entdecken Sie unsere Produkte, die mit Liebe und Expertise direkt in Wien hergestellt wurden. Tradition und Qualität seit 1793.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 440
 - [Kleine Kooperativen](https://shop.kraeuterdrogerie.at/collections/kleine-kooperativen): Entdecken Sie Produkte aus kleinen, nachhaltigen Kooperativen. Unterstützen Sie regionale Qualität und faire Herstellung in Wien.
   Updated: 2026-10-01T11:22:52Z
@@ -1919,41 +1919,41 @@
   Updated: 2026-10-21T11:19:44Z
   Total Products: 19
 - [Süßungsmittel](https://shop.kraeuterdrogerie.at/collections/suessungsmittel): Natürliche Süßungsmittel: Honig, Sirup und gesunde Alternativen zu Zucker. Für bewusste Ernährung. Jetzt in Wien entdecken!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-04T15:09:57Z
   Total Products: 13
 - [Ätherische Öle](https://shop.kraeuterdrogerie.at/collections/aetherische-oele): Reine, hochwertige Ätherische Öle für Aromatherapie, Kosmetik und Wohlbefinden. Ihr Spezialist seit 1793 in Wien. Jetzt Öle kaufen!
-  Updated: 2026-10-25T11:14:50Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 106
 - [Nahrungsergänzung & Mikronährstoffe](https://shop.kraeuterdrogerie.at/collections/nahrungsergaenzung): Hochwertige Mikronährstoffe und Nahrungsergänzungsmittel für Ihre Gesundheit. Expertenberatung in der Kräuterdrogerie Wien seit 1793.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 194
 - [Nicht Vorrätig](https://shop.kraeuterdrogerie.at/collections/nicht-vorraetig): Diese Produkte sind aktuell leider nicht vorrätig. Wir arbeiten daran, sie schnellstmöglich wieder für Sie in Wien verfügbar zu machen.
-  Updated: 2026-10-29T18:32:26Z
-  Total Products: 516
+  Updated: 2026-11-05T17:04:53Z
+  Total Products: 495
 - [Herbst](https://shop.kraeuterdrogerie.at/collections/herbst): Stärken Sie Ihr Immunsystem für den Herbst! Tees, stärkende Kräuter und Vitamine für die kalte Jahreszeit. Jetzt vorsorgen!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 154
 - [Grand Cru](https://shop.kraeuterdrogerie.at/collections/grand-cru): Die erlesensten Ätherischen Öle in Grand Cru Qualität. Reinheit und höchste Potenz für anspruchsvolle Aromatherapie. Jetzt entdecken!
-  Updated: 2026-10-04T11:16:00Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 30
 - [Geringer Lagerbestand](https://shop.kraeuterdrogerie.at/collections/geringer-lagerbestand)
-  Updated: 2026-10-29T16:33:18Z
-  Total Products: 217
+  Updated: 2026-11-05T17:04:53Z
+  Total Products: 222
 - [Neu im Sortiment](https://shop.kraeuterdrogerie.at/collections/neu-im-sortiment): Entdecken Sie die neuesten Naturprodukte der Kräuterdrogerie! Heilkräuter, Kosmetik und mehr – frisch für Sie in Wien eingetroffen.
-  Updated: 2026-10-29T18:20:38Z
-  Total Products: 2402
+  Updated: 2026-11-05T12:30:04Z
+  Total Products: 2395
 - [Angebote](https://shop.kraeuterdrogerie.at/collections/deals): Angebote: ausgewählte Produkte aus Kräutern, Naturkosmetik &amp; Lebensmitteln zu attraktiven Preisen – Qualität zum Vorteilspreis.
   Updated: 2026-09-25T22:02:32Z
   Total Products: 6
 - [Stadelmann Aromamischungen](https://shop.kraeuterdrogerie.at/collections/stadelmann-aromamischungen): Original Stadelmann Aromamischungen und Öle für Schwangerschaft, Geburt und Alltag. Qualität, auf die Du vertrauen kannst.
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-10-30T11:22:31Z
   Total Products: 58
 - [Kerzen](https://shop.kraeuterdrogerie.at/collections/kerzen): Natürliche Bienenwachs- und Duftkerzen für eine gemütliche Atmosphäre. Umweltfreundlich und von Hand gefertigt. Jetzt in Wien kaufen.
-  Updated: 2026-10-24T11:15:11Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 49
 - [Alle Produkte](https://shop.kraeuterdrogerie.at/collections/alle-produkte): Entdecken Sie alle Heilkräuter, Naturkosmetik, Ätherischen Öle und Räuchermischungen der Kräuterdrogerie – wohltuend seit 1793 in Wien. Beratung inklusive!
-  Updated: 2026-10-29T18:20:38Z
-  Total Products: 2402
+  Updated: 2026-11-05T12:30:04Z
+  Total Products: 2395
 - [1001 Organic](https://shop.kraeuterdrogerie.at/collections/1001-organic): Hochwertige 1001 Organic Naturprodukte. Entdecken Sie Bio-Qualität für Kosmetik und Wohlbefinden bei der Kräuterdrogerie in Wien.
   Updated: 2026-06-02T13:40:36Z
   Total Products: 9
@@ -1982,10 +1982,10 @@
   Updated: 2026-09-19T11:16:06Z
   Total Products: 2
 - [Effektive Mikroorganismen](https://shop.kraeuterdrogerie.at/collections/effektive-mikroorganismen): EM-Produkte für Haus, Garten & Wohlbefinden. Fördern Sie gesunde Prozesse mit Effektiven Mikroorganismen. Kompetente Beratung in Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 80
 - [Verdauung](https://shop.kraeuterdrogerie.at/collections/verdauung): Natürliche Unterstützung für eine gesunde Verdauung. Kräuter, Tees und Bitterstoffe, empfohlen von Deinen Kräuterexperten in Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 32
 - [Zahnpflege](https://shop.kraeuterdrogerie.at/collections/zahnpflege): Zahnpflege: Natürliche Produkte für ein gesundes Lächeln Unsere Zahnpflege-Kollektion bietet Zahnpasten und Mundpflege ohne aggressive Inhaltsstoffe, mit der reinigenden und pflegenden Kraft von Kräutern und Mineralien.
   Updated: 2026-10-01T11:22:52Z
@@ -1997,7 +1997,7 @@
   Updated: 2026-06-02T14:46:33Z
   Total Products: 8
 - [Räucherzubehör](https://shop.kraeuterdrogerie.at/collections/raeucherzubehor): Das passende Zubehör für Ihr Räucherritual: Kohle, Sand, Zangen und Siebstövchen. Qualität und Beratung in der Kräuterdrogerie Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 42
 - [Hanfprodukte](https://shop.kraeuterdrogerie.at/collections/hanfprodukte): Hochwertige Hanfprodukte: CBD-Öle, Kosmetik und Lebensmittel. Expertise und natürliche Qualität von der Kräuterdrogerie Wien.
   Updated: 2026-10-24T11:15:11Z
@@ -2006,7 +2006,7 @@
   Updated: 2026-10-14T11:27:52Z
   Total Products: 12
 - [Räuchergefäße](https://shop.kraeuterdrogerie.at/collections/raeuchergefaesse): Edle Räuchergefäße, Schalen und Stövchen für Ihr Räucherritual. Hochwertiges Zubehör von der Kräuterdrogerie Wien.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 26
 - [Pflanzenstärkung](https://shop.kraeuterdrogerie.at/collections/pflanzenstarkung): Natürliche Mittel zur Pflanzenstärkung und Schädlingsabwehr. EM-Produkte und mehr für gesunde Pflanzen im Garten und Haus.
   Updated: 2026-06-02T14:46:38Z
@@ -2021,19 +2021,19 @@
   Updated: 2025-10-21T23:51:58Z
   Total Products: 0
 - [Haushalt](https://shop.kraeuterdrogerie.at/collections/haushalt): Natürliche Produkte für einen gesunden Haushalt. Umweltfreundliche Reinigungsmittel und effektive Lösungen. Jetzt in Wien bestellen!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 38
 - [Haushalts Reiniger](https://shop.kraeuterdrogerie.at/collections/haushalts-reiniger): Natürliche Reiniger ohne aggressive Chemie. Für ein sauberes Zuhause, das Umwelt und Gesundheit schont. Jetzt in Wien kaufen.
   Updated: 2026-10-06T11:18:42Z
   Total Products: 24
 - [Räuchermischungen](https://shop.kraeuterdrogerie.at/collections/raeuchermischungen): Unsere beliebten, handgemischten Räuchermischungen für Reinigung, Entspannung und Ritual. Tradition seit 1793. Jetzt in Wien und online kaufen!
-  Updated: 2026-10-24T11:15:11Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 20
 - [Raumsprays](https://shop.kraeuterdrogerie.at/collections/raumsprays): Natürliche Raumsprays mit Ätherischen Ölen für ein angenehmes Raumklima. Frische Düfte und klärende Mischungen. Jetzt in Wien kaufen!
   Updated: 2026-10-27T11:21:30Z
   Total Products: 43
 - [Körper & Massageöle](https://shop.kraeuterdrogerie.at/collections/koerper-massageoele): Hochwertige Körper- und Massageöle mit naturreinen ätherischen Ölen und Pflanzenextrakten. Entspannung und Pflege aus Wien.
-  Updated: 2026-10-17T11:20:35Z
+  Updated: 2026-11-02T12:22:11Z
   Total Products: 56
 - [Räucherstäbchen](https://shop.kraeuterdrogerie.at/collections/raeucherstabchen): Natürliche Räucherstäbchen aus Harzen und Kräutern. Für sanfte Beduftung und Entspannung. Jetzt online bei uns in Wien bestellen.
   Updated: 2026-10-18T11:13:59Z
@@ -2045,19 +2045,19 @@
   Updated: 2026-10-18T11:13:59Z
   Total Products: 43
 - [Seife & Duschbutter](https://shop.kraeuterdrogerie.at/collections/seife-duschbutter): Natürliche Seifen und pflegende Duschbutter. Sanfte Reinigung und Pflege mit biologischen Ölen. Jetzt online von der Kräuterdrogerie!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-02T17:01:23Z
   Total Products: 96
 - [Hautpflege](https://shop.kraeuterdrogerie.at/collections/hautpflege): Umfassende Naturkosmetik für jeden Hauttyp. Cremes, Öle und Seren mit der besten Kraft der Kräuter. Beratung in der Kochgasse 34.
   Updated: 2026-10-29T11:20:30Z
   Total Products: 101
 - [Räucherwerk](https://shop.kraeuterdrogerie.at/collections/raeucherwerk): Hochwertiges Räucherwerk, Harze und Kräuter. Klären Sie Ihre Räume und schaffen Sie eine bewusste Atmosphäre. Jetzt in Wien entdecken!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 69
 - [Fußpflege](https://shop.kraeuterdrogerie.at/collections/fusspflege): Wohltuende Fußpflege mit der Kraft der Natur. Entdecken Sie Balsame, Salze und Cremes für gepflegte und entspannte Füße.
   Updated: 2026-10-10T11:17:06Z
   Total Products: 4
 - [Intimpflege](https://shop.kraeuterdrogerie.at/collections/intimpflege): Sanfte, natürliche Intimpflege ohne unnötige Zusätze. Für ein gutes Gefühl und sensibles Wohlbefinden. Jetzt online entdecken!
-  Updated: 2026-10-27T11:21:30Z
+  Updated: 2026-11-04T12:20:30Z
   Total Products: 12
 - [Gesichtspflege](https://shop.kraeuterdrogerie.at/collections/gesichtspflege): Hochwertige, natürliche Gesichtspflege aus biologischen Inhaltsstoffen. Für jeden Hauttyp die passende Creme oder das passende Serum finden.
   Updated: 2026-10-24T08:08:54Z
@@ -2066,8 +2066,8 @@
   Updated: 2026-10-24T11:15:11Z
   Total Products: 103
 - [Handpflege](https://shop.kraeuterdrogerie.at/collections/handpflege): Natürliche Handpflege: Cremes, Balsame und Seifen, die Ihre Hände geschmeidig pflegen und schützen. Entdecken Sie unser Sortiment.
-  Updated: 2026-10-20T16:46:38Z
-  Total Products: 17
+  Updated: 2026-11-04T15:10:07Z
+  Total Products: 16
 - [Lippenpflege](https://shop.kraeuterdrogerie.at/collections/lippenpflege): Natürliche Lippenpflege mit Bienenwachs und Pflanzenölen. Schützt und pflegt Ihre Lippen sanft. Jetzt online von der Kräuterdrogerie!
   Updated: 2026-09-25T11:21:55Z
   Total Products: 10
@@ -2078,23 +2078,23 @@
   Updated: 2026-10-21T11:19:44Z
   Total Products: 62
 - [Menstruation](https://shop.kraeuterdrogerie.at/collections/menstruation): Sanfte Unterstützung während der Menstruation. Entspannende Tees, Kräuter und natürliche Produkte für Ihr Wohlbefinden. Jetzt in Wien!
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-05T12:30:04Z
   Total Products: 7
 - [Menopause](https://shop.kraeuterdrogerie.at/collections/menopause): Natürliche Begleitung durch die Menopause. Wohltuende Kräuter, Tees und Essenzen zur Unterstützung in dieser Lebensphase.
   Updated: 2025-10-21T23:44:14Z
   Total Products: 0
 - [HautSinn](https://shop.kraeuterdrogerie.at/collections/hautsinn): HautSinn: Premium Bio-Naturkosmetik, von Hand in Wien hergestellt. Entdecke den Testsieger Shampoos, pflegende Öle & Zero Waste Seifen der Wiener Manufaktur.
-  Updated: 2026-10-29T11:20:30Z
+  Updated: 2026-11-02T17:01:23Z
   Total Products: 128
 - [APPPlaza - Best Sellers](https://shop.kraeuterdrogerie.at/collections/appplaza-best-sellers)
-  Updated: 2026-10-29T18:20:38Z
-  Total Products: 2402
+  Updated: 2026-11-05T12:30:04Z
+  Total Products: 2395
 - [AVADA - Best Sellers](https://shop.kraeuterdrogerie.at/collections/avada-best-sellers)
-  Updated: 2026-10-29T18:20:38Z
-  Total Products: 2402
+  Updated: 2026-11-05T12:30:04Z
+  Total Products: 2395
 - [20%](https://shop.kraeuterdrogerie.at/collections/20)
-  Updated: 2026-10-29T18:20:38Z
-  Total Products: 1599
+  Updated: 2026-11-05T12:30:04Z
+  Total Products: 1593
 
 ## Store Pages
 
