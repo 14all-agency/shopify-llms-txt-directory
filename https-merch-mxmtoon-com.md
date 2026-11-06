@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:02:55.172Z
+- Updated At: 2026-11-06T01:28:05.859Z
 
 ## Products
 
@@ -297,7 +297,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
 - [plum blossom - limited edition vinyl](https://merch.mxmtoon.com/products/plum-blossom-limited-edition-vinyl): 2 sided LP featuring mxmtoon's latest EP, plum blossom (revisited) on side a, and debut EP, plum blossom, on side b. Pressed in purple and white dual color vinyl. SIDE A the idea of you (revisited) cliché (revisited) feelings are fatal (revisited) stuck (revisited) temporary nothing (revisited) hong kong (revisited) 1-800-DATEME (revisited) SIDE B cliché i feel like chet feelings are fatal the idea of you porcelain temporary nothing i miss you Release Date: march 2024
-  Updated: 2026-10-05T13:03:55Z
+  Updated: 2026-11-01T07:20:26Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -357,14 +357,14 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $20.00 USD
 - [dawn & dusk - black vinyl](https://merch.mxmtoon.com/products/dawn-dusk-black-vinyl-1): dawn & dusk 12" Black Vinyl side a track listing1. fever dream2. used to you3. lessons4. quiet emotions5. 1, 26. no faker7. almost home side b track listing1. bon iver2. ok on your own3. myrtle ave.4. wallflower5. asking for a friend6. show and tell7. first
-  Updated: 2026-10-07T17:40:37Z
+  Updated: 2026-11-01T17:45:18Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmt-dawndusk-Vinyl-Mockup2__1___1_006b884c-9101-414f-beae-4985f05dc595.png?v=1714757759
   Price: $30.00 USD
 - [baby blue logo hoodie](https://merch.mxmtoon.com/products/baby-blue-logo-hoodie): 80% cotton, 20% recycled polyester hoodie in Blue Mist size chart size body length (in) chest width (in) sleeve length (in) s 28 1/2 21 35 1/2 m 29 1/2 23 36 1/2 l 30 1/2 24 1/2 37 1/2 xl 31 1/2 26 1/2 38 1/2 xxl 32 1/2 27 1/2 39 1/2 3xl 33 1/2 28 1/5 40
-  Updated: 2026-10-12T15:13:14Z
+  Updated: 2026-11-05T03:47:07Z
   Vendor: mxmtoon
   Product Type: Hoodie
   Availability: Available
@@ -419,7 +419,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/MXMTbumperstickerset.png?v=1722365355
   Price: $15.00 USD
 - [liminal space - exclusive cloudy green vinyl](https://merch.mxmtoon.com/products/liminal-space-exclusive-cloudy-green-vinyl): Exclusive cloudy green pressing release date: november 1st, 2024
-  Updated: 2026-10-23T15:19:58Z
+  Updated: 2026-11-01T07:20:26Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -534,7 +534,7 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-10-29T11:04:08Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
   Updated: 2026-10-12T15:16:42Z
@@ -543,7 +543,7 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:42Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-10-29T11:04:08Z
+  Updated: 2026-11-02T12:02:54Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-10-12T15:15:51Z
@@ -561,7 +561,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-10-29T11:04:08Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
@@ -579,7 +579,7 @@ your agent can transact everywhere.
   Updated: 2023-09-20T19:37:07Z
   Total Products: 6
 - [apparel](https://merch.mxmtoon.com/collections/apparel)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 73
 - [Spotify Fans First](https://merch.mxmtoon.com/collections/spotify-fans-first)
   Updated: 2026-07-08T20:17:27Z
@@ -600,7 +600,7 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:44Z
   Total Products: 6
 - [plum blossom (revisited)](https://merch.mxmtoon.com/collections/plum-blossom-revisited)
-  Updated: 2026-10-12T15:16:01Z
+  Updated: 2026-11-01T12:04:24Z
   Total Products: 7
 - [graphic novels](https://merch.mxmtoon.com/collections/graphic-novels)
   Updated: 2026-09-09T11:04:21Z
@@ -612,7 +612,7 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:15:52Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 29
 - [$35](https://merch.mxmtoon.com/collections/30)
   Updated: 2026-10-12T15:16:42Z
@@ -627,16 +627,16 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:43Z
   Total Products: 11
 - [summer tour merch](https://merch.mxmtoon.com/collections/summer-tour-merch)
-  Updated: 2026-10-12T15:15:52Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-10-29T11:04:08Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
   Updated: 2026-10-12T15:15:52Z
   Total Products: 4
 - [liminal space](https://merch.mxmtoon.com/collections/liminal-space)
-  Updated: 2026-10-24T11:04:46Z
+  Updated: 2026-11-01T12:04:24Z
   Total Products: 7
 - [liminal space collection](https://merch.mxmtoon.com/collections/liminal-space-collection)
   Updated: 2026-10-12T15:15:34Z
@@ -645,7 +645,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:28Z
   Total Products: 1
 - [cold weather gear](https://merch.mxmtoon.com/collections/cold-weather-gear)
-  Updated: 2026-10-15T11:04:46Z
+  Updated: 2026-11-05T12:04:03Z
   Total Products: 6
 - [liminal space tour](https://merch.mxmtoon.com/collections/liminal-space-tour)
   Updated: 2026-09-24T11:04:32Z
