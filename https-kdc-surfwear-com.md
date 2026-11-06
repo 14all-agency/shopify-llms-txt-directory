@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-17T08:15:22Z
 - Contact Email: contact@kdc-surfwear.com
-- Updated At: 2026-10-29T00:24:07.909Z
+- Updated At: 2026-11-06T00:23:14.206Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/bas-Bikini-surf-KDC_8f8fb788-2c8b-4b62-8ef7-342183381ff7.jpg?v=1771399859
     Price: 15,71 € EUR
 - [Poncho surf 100 % coton terry – BIGOU | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-bigou): Poncho surf 100% coton terry double face. Capuche large, ouvertures latérales pour se changer. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-10-21T05:34:16Z
+  Updated: 2026-10-29T15:53:42Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -518,7 +518,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Boardshort-surf-mascaret.jpg?v=1771400083
     Price: 59,00 € EUR
 - [Boardshort femme surf & kitesurf recyclé 11'' – ELECTRIC | KDC Surfwear](https://kdc-surfwear.com/products/boardshort-femme-11-electric-recycle): Petit short surf femme bleu et gris clair.Stretch4D, QuickDry super léger avec une ceinture extensible et un lacet et une poche arrière zippée.
-  Updated: 2026-10-19T15:40:06Z
+  Updated: 2026-10-31T16:37:57Z
   Vendor: KDC-Surfwear
   Product Type: Boardshort Femme
   Availability: Available
@@ -1105,7 +1105,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Chill_KDC_3.png?v=1775030744
     Price: 39,00 € EUR
 - [Poncho surf 100 % coton – PASTEK | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-pastek): Poncho surf 100% coton terry double face. Capuche large contrastée, ouvertures latérales. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-10-28T13:38:46Z
+  Updated: 2026-11-01T11:45:21Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -1115,7 +1115,7 @@
 ## Collections
 
 - [Line-up](https://kdc-surfwear.com/collections/line-up): Collection au line-up
-  Updated: 2026-10-26T11:27:58Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 12
 - [Accessoires](https://kdc-surfwear.com/collections/accessoires): Accessoires Poncho / Mug / Casquettes / Stickers
   Updated: 2026-09-06T11:20:55Z
@@ -1133,7 +1133,7 @@
   Updated: 2026-10-23T11:49:50Z
   Total Products: 12
 - [Boardshort Femme](https://kdc-surfwear.com/collections/boardshort-femme-long-court-surf-kitesurf): Nos boardshorts pour femme sont fabriqués à partir de bouteilles plastique recyclées. Il sont Strech4D pour un confort optimal, les frottements sont réduits, le séchage est rapide grâce a une technologie QuickDry , et il sait se faire oublier par sa légèreté et son tissus très doux.
-  Updated: 2026-10-26T11:27:58Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 7
 - [Bikinis](https://kdc-surfwear.com/collections/bikinis): Bikinis fabriqués à partir de fil de nylon 100 % régénéré dérivé de déchets pré et post-industriels, tels que des filets de pêche jetés. Recyclé / Stretch 4D / Anti-UV / Recyclable
   Updated: 2026-09-07T11:23:15Z
@@ -1142,7 +1142,7 @@
   Updated: 2026-07-21T11:27:46Z
   Total Products: 11
 - [Ponchos Surf](https://kdc-surfwear.com/collections/poncho-serviette): Poncho de surf pour se changer facilement et rester au chaud après la session.100% coton 380 gsm certifié OEKO-TEX®
-  Updated: 2026-10-24T11:25:08Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 2
 - [Hoodies](https://kdc-surfwear.com/collections/hoodies): Imprimé en France
   Updated: 2026-06-20T11:24:07Z
@@ -1172,7 +1172,7 @@
   Updated: 2026-08-24T11:22:43Z
   Total Products: 2
 - [Maillots recyclés](https://kdc-surfwear.com/collections/maillot-recycle): KDC S’IMPLIQUE POUR LA PLANÈTE ! MAILLOTS DE BAIN FABRIQUÉS À PARTIR DE BOUTEILLES PLASTIQUE RECYCLÉES
-  Updated: 2026-10-26T11:27:58Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 21
 - [Leggings et brassières](https://kdc-surfwear.com/collections/legging-brassiere-sport-yoga): Fabriqué en Econyl ♻ Matière recyclée et recyclable
   Updated: 2026-07-21T11:27:46Z
@@ -1181,7 +1181,7 @@
   Updated: 2026-10-23T11:49:50Z
   Total Products: 12
 - [Boardshorts Femme – Smart](https://kdc-surfwear.com/collections/boardshorts-femme-smart)
-  Updated: 2026-10-26T11:27:58Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 7
 - [Bikinis – Smart](https://kdc-surfwear.com/collections/bikinis-smart)
   Updated: 2026-09-07T11:23:15Z
@@ -1193,10 +1193,10 @@
   Updated: 2026-06-20T11:24:07Z
   Total Products: 7
 - [Maillots Recyclés – Smart](https://kdc-surfwear.com/collections/maillots-recycles-smart)
-  Updated: 2026-10-26T11:27:58Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 21
 - [Accessoires &amp; Lifestyle – Smart](https://kdc-surfwear.com/collections/accessoires-amp-lifestyle-smart)
-  Updated: 2026-10-24T11:25:08Z
+  Updated: 2026-11-01T12:24:10Z
   Total Products: 12
 - [Bikinis, leggings, brassières, maillots en matières recyclées](https://kdc-surfwear.com/collections/bikinis-leggings-brassieres-maillots-en-matieres-recyclees): Fabriqués à partir d'un nylon de haute qualité fabriqué entièrement à partir de déchets ramassés dans les océans (principalement des «filets fantômes» et tapis abandonnés). Ils sont triés et lavés, broyés, fondus puis transformés en fibre et tissés. La fabrication de cette fibre réduit de 80% les émissions de gaz à effet de serre par rapport à la production d’un fil de nylon standard. Elle n’utilise pas de matière fossile non renouvelable et est 100% recyclable à vie.
   Updated: 2026-09-07T11:23:15Z
@@ -1303,12 +1303,8 @@
   Updated: 2026-10-21T10:33:25Z
 - [Livraisons & Retours](https://kdc-surfwear.com/pages/livraison-retours)
   Updated: 2026-05-29T05:01:19Z
-- [Mentions légales](https://kdc-surfwear.com/pages/mentions-legales)
-  Updated: 2026-05-29T05:01:21Z
 - [RGPD](https://kdc-surfwear.com/pages/rgpd)
   Updated: 2026-05-29T05:01:34Z
-- [Mon compte](https://kdc-surfwear.com/pages/mon-compte)
-  Updated: 2026-05-29T05:01:24Z
 - [Notre histoire](https://kdc-surfwear.com/pages/notre-histoire)
   Updated: 2026-05-29T05:01:26Z
 - [Photos](https://kdc-surfwear.com/pages/photos): 
@@ -1343,7 +1339,7 @@
 ## Policies
 
 - [Privacy Policy](https://kdc-surfwear.com/policies/privacy-policy)
-  Updated: 2026-02-17T08:15:30Z
+  Updated: 2026-11-03T07:59:30Z
 - [Shipping Policy](https://kdc-surfwear.com/policies/shipping-policy)
   Updated: 2026-03-07T10:53:31Z
 - [Refund Policy](https://kdc-surfwear.com/policies/refund-policy)
