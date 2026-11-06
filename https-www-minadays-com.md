@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-08-31T08:07:01Z
 - Contact Email: info@minadays.com
-- Updated At: 2026-10-30T01:04:49.284Z
+- Updated At: 2026-11-06T01:12:08.307Z
 
 ## Products
 
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-normal-wohlfuehl-komplex): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-10-29T18:58:32Z
+  Updated: 2026-11-03T19:22:41Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -43,7 +43,7 @@
   Image: https://cdn.shopify.com/s/files/1/0774/2878/5484/files/Slipeinlagen-Bambusviskose-kaufen.webp?v=1787550792
   Price: 7,50 € EUR
 - [CBD-Tampons mit Kamille für die Periode | MinaDays®](https://www.minadays.com/products/tampons-mit-cbd-kamille-normal): Entdecke MinaDays® CBD-Tampons Normal mit patentiertem Pflanzenkomplex und Kamille – für komfortable Periodenpflege mit hochwertigen Materialien.
-  Updated: 2026-10-29T19:04:21Z
+  Updated: 2026-10-31T10:50:16Z
   Vendor: MinaDays
   Product Type: 
   Availability: Available
@@ -65,7 +65,7 @@
 ## Collections
 
 - [Produkte](https://www.minadays.com/collections/all): Mit CBD-Tampons & Bambus-Binden durch deine Tage
-  Updated: 2026-10-27T11:21:19Z
+  Updated: 2026-11-04T12:17:24Z
   Total Products: 11
 - [Intimpflege](https://www.minadays.com/collections/intimpflege)
   Updated: 2026-10-21T11:16:55Z
@@ -83,7 +83,7 @@
   Updated: 2026-10-21T11:16:55Z
   Total Products: 2
 - [Tampons](https://www.minadays.com/collections/tampons)
-  Updated: 2026-10-27T11:21:19Z
+  Updated: 2026-11-04T12:17:24Z
   Total Products: 2
 - [Binden](https://www.minadays.com/collections/binden)
   Updated: 2026-10-19T11:14:05Z
@@ -92,7 +92,7 @@
   Updated: 2026-10-21T11:16:55Z
   Total Products: 1
 - [Orderly Emails - Recommended Products](https://www.minadays.com/collections/orderly-emails-recommended-products): This collection is used by the Orderly Emails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the Orderly Emails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-10-27T11:21:19Z
+  Updated: 2026-11-04T12:17:24Z
   Total Products: 6
 
 ## Blogs
@@ -133,6 +133,10 @@
     Updated: 2026-08-27T06:21:53Z
     Author: Patrick Meier
     Tags: CBD, CBD-Tampons
+  - [Tampon richtig einführen](https://www.minadays.com/blogs/news/wie-wende-ich-einen-tampon-richtig-an): Tampon richtig einführen
+    Updated: 2026-11-02T06:28:29Z
+    Author: Patrick Meier
+    Tags: CBD-Tampons, Guide, MinaDays
   - [Toxisches Schocksyndrom durch Tampons](https://www.minadays.com/blogs/news/toxisches-schocksyndrom-durch-tampons)
     Updated: 2026-08-04T07:38:23Z
     Author: Thomas Wrobel
