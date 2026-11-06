@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-02-12T21:02:43Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:03:47.163Z
+- Updated At: 2026-11-06T01:08:06.889Z
 
 ## Products
 
@@ -228,7 +228,7 @@
   Image: https://cdn.shopify.com/s/files/1/0922/9359/5442/files/INHRCHROMELOGODADHAT.png?v=1741882216
   Price: $30.00 USD
 - [Open Wide Diner Tee](https://inhaler.merchmadeeasy.com/products/open-wide-diner-tee): black tee with front and back print.
-  Updated: 2026-10-19T17:36:06Z
+  Updated: 2026-11-03T18:44:24Z
   Vendor: Inhaler US Store
   Product Type: Apparel
   Availability: Available
@@ -259,10 +259,10 @@
 ## Collections
 
 - [Home page](https://inhaler.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-24T11:18:30Z
+  Updated: 2026-11-04T12:17:13Z
   Total Products: 25
 - [Apparel](https://inhaler.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-24T11:18:30Z
+  Updated: 2026-11-04T12:17:13Z
   Total Products: 16
 - [Accessories](https://inhaler.merchmadeeasy.com/collections/accessories)
   Updated: 2026-09-28T11:16:44Z
@@ -274,10 +274,10 @@
   Updated: 2026-06-04T15:24:30Z
   Total Products: 0
 - [All](https://inhaler.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-24T11:18:30Z
+  Updated: 2026-11-04T12:17:13Z
   Total Products: 17
 - [Open Wide Tour Merch](https://inhaler.merchmadeeasy.com/collections/open-wide-tour-merch)
-  Updated: 2026-10-08T11:18:50Z
+  Updated: 2026-11-04T12:17:13Z
   Total Products: 4
 - [Accessories](https://inhaler.merchmadeeasy.com/collections/accessories-1)
   Updated: 2026-09-28T11:16:44Z
