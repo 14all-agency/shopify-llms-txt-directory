@@ -8,12 +8,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2020-09-11T12:24:18Z
 - Contact Email: contact@acidbite.com
-- Updated At: 2026-10-30T00:43:26.025Z
+- Updated At: 2026-11-06T00:44:24.866Z
 
 ## Products
 
 - [Analog film look](https://acidbite.com/products/super-8-package): This pack is packed with everything you need for the film look. It contains various 8mm grains, film burns, LUTs and sprocket holes.
-  Updated: 2026-10-29T05:02:41Z
+  Updated: 2026-11-02T17:17:45Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -27,7 +27,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/AVP_RESIZED_04e497d4-7dc5-47b4-a734-8e8eaa7d51fc.png?v=1708712768
   Price: $19.00 USD
 - [Video frame skip transitions](https://acidbite.com/products/pre-built-vhs-transitions): Switch back and forth between your shots with 9 pre-built frame skip transitions in Premiere Pro, After Effects, DaVinci Resolve and Final Cut Pro X.
-  Updated: 2026-10-18T04:07:50Z
+  Updated: 2026-11-04T00:49:56Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -41,7 +41,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BURNING_RESIZED_8b7c707c-f724-450e-bcc1-3daee70c4bd9.png?v=1708712798
   Price: $29.00 USD
 - [Slow shutter transitions](https://acidbite.com/products/wipe-and-light-transitions): Slow shutter movement shots for transitions with a hint of structures, nature and the urban night.
-  Updated: 2026-10-23T01:19:07Z
+  Updated: 2026-11-04T08:55:20Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -55,14 +55,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TORN_RESIZED_679bd795-e75c-4b34-bcb6-cd34be4178d9.png?v=1708713286
   Price: $19.00 USD
 - [Colorful burn textures & transitions](https://acidbite.com/products/film-burns): 33 differently colored film burns shot on Kodak 8mm Stock and scanned in open gate 4k resolution! Use them as textures or transitions!
-  Updated: 2026-10-27T20:15:16Z
+  Updated: 2026-11-04T14:22:47Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/FILM_BURNS_RESIZED_dd136318-c11e-4d28-b486-6bf76230c170.png?v=1708712996
   Price: $19.00 USD
 - [Real film texture transitions](https://acidbite.com/products/punch-hole-transitions): 30+ pre-keyed textures and 7 prebuilt transitions to punch your film into other people’s brains!
-  Updated: 2026-10-18T04:08:00Z
+  Updated: 2026-11-02T00:41:16Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -76,14 +76,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CRACKED_RESIZED_4e945dff-655a-4b5d-a0eb-0577eba02e04.png?v=1708712869
   Price: $39.00 USD
 - [Analog film & photo elements](https://acidbite.com/products/letterboxes): Create an analog image with 45 design elements, including real motion film gates, authentic photographic film edges and bonus grain.
-  Updated: 2026-10-18T04:08:00Z
+  Updated: 2026-11-01T19:29:46Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/LETTERBOXES_RESIZED_52d52c8d-65c9-4e8b-ab18-3420c84f8313.png?v=1708713088
   Price: $19.00 USD
 - [Emulate 16mm film](https://acidbite.com/products/16mm-package): Emulate 16mm film in your editing software with 90+ grains, burns & gates created with a variety of film cameras and stocks.
-  Updated: 2026-10-26T12:01:41Z
+  Updated: 2026-11-02T08:31:36Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -104,7 +104,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/TUNNELS_RESIZED_6ee6499f-b76e-4d48-a531-4717736e9557.png?v=1708713302
   Price: $29.00 USD
 - [Analog glitch transitions](https://acidbite.com/products/cyber-transitions): Glitch through your timeline with 48 colorful analog glitch transitions with simple drag-and-drop functionality.
-  Updated: 2026-10-27T20:15:16Z
+  Updated: 2026-11-05T09:28:55Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -118,14 +118,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/LIQUIDS_RESIZED_9c2f0519-f5f4-4824-951e-0a948c78c8f4.png?v=1708713112
   Price: $19.00 USD
 - [Film tag animations toolbox](https://acidbite.com/products/cinemarkers): 50+ film tag animations + SFX. A huge toolbox of transitions, markers, film holes & textures.
-  Updated: 2026-10-18T04:08:00Z
+  Updated: 2026-11-02T20:23:52Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS_RESIZED_compress.png?v=1742313182
   Price: $29.00 USD
 - [Dark & punchy LUTs](https://acidbite.com/products/cine-luts): Get the punchy look with 13 distinctive LUTs for all cameras, including free conversion LUTs.
-  Updated: 2026-10-26T13:50:41Z
+  Updated: 2026-11-01T01:36:46Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
@@ -139,7 +139,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/ABSTRACTS_RESIZED_20267bd0-3d7e-4407-ac3e-c6741943347a.png?v=1708712754
   Price: $19.00 USD
 - [All-in-one film emulation](https://acidbite.com/products/the-ultimate-35mm-package): This pack is more than just a grain pack. It has everything you will ever need to emulate 35mm film with 150+ files including grains, gates, burns, textures, LUTs and SFX.
-  Updated: 2026-10-19T02:32:45Z
+  Updated: 2026-11-06T00:27:06Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -153,7 +153,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINETIXXX_RESIZED_43e7f444-1e06-4cea-8198-a77403d45d81.png?v=1708712854
   Price: $29.00 USD
 - [147 naturalist SFX](https://acidbite.com/products/elements-sfx): Boost your sound design game with 145+ SFX files of nature and human-made sounds plus drony musical soundscapes and whooshes. All real recordings and abstract remixes.
-  Updated: 2026-10-28T21:34:46Z
+  Updated: 2026-11-03T16:26:11Z
   Vendor: ACIDBITE
   Product Type: Audio
   Availability: Available
@@ -167,7 +167,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/MORPHEUS_RESIZED_8e68e94d-5745-4e57-8f7e-7c47e13cef4a.png?v=1708713125
   Price: $29.00 USD
 - [Dirty analog textures & transitions](https://acidbite.com/products/dynamixxx): Add dynamic to your edit with 65 super dirty analog textures and transitions! Created with real film, chemical fluids, paint and kitchen tools.
-  Updated: 2026-10-28T01:40:55Z
+  Updated: 2026-11-04T00:49:46Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -181,7 +181,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/FILM_LEAKS_RESIZED_21218bcd-3ab5-4eda-a2ca-850af6881593.png?v=1708713029
   Price: $19.00 USD
 - [Old-school archival film assets](https://acidbite.com/products/film-leaders): 97 assets scanned from various rolls of archival film. Use them as intercuts, overlays, title chart designs and transitions!
-  Updated: 2026-10-18T04:08:06Z
+  Updated: 2026-11-01T19:27:56Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -237,7 +237,7 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SMMP_RESIZED-compress.png?v=1742313050
   Price: $39.00 USD
 - [Customizable 4K title designs](https://acidbite.com/products/film-titles): 25 customizable 4K title designs for vertical and horizontal use in all popular softwares.
-  Updated: 2026-10-28T13:12:17Z
+  Updated: 2026-11-05T23:28:56Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
@@ -258,21 +258,21 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/LIGHTS_RESIZED_20d4e74c-e77e-43eb-a5ea-42f46f5babd1.png?v=1708713100
   Price: $39.00 USD
 - [Kickstart your projects with 68% off](https://acidbite.com/products/kickstart-bundle): Ready to kickstart your editing journey? This is all you need.
-  Updated: 2026-10-28T02:51:36Z
+  Updated: 2026-11-05T19:49:45Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SOFTWARE_BOX_BUNDLES_KB_9ce605cc-7f28-465a-93da-5df2d8094cf3.png?v=1751364420
   Price: $99.00 USD
 - [Sounds of a city](https://acidbite.com/products/urban-sfx): Elevate your sound design game with 140 SFX files straight from the streets including Atmos, Whooshes, Risers, Hits, Textures and more. All real recordings and abstract remixes.
-  Updated: 2026-10-27T20:15:16Z
+  Updated: 2026-11-06T00:27:06Z
   Vendor: ACIDBITE
   Product Type: Audio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/URBAN_RESIZED.png?v=1709300336
   Price: $29.00 USD
 - [CRT Elements](https://acidbite.com/products/crt-elements): A pack full of genuine digitized vintage video textures containing more than 260 files. Feedback effects, textures, overlays, flashes, analog flares. You’ll also get a SFX Toolkit and flat look LUTs pre-converted for all camera manufacturers.
-  Updated: 2026-10-29T19:11:47Z
+  Updated: 2026-10-31T01:13:06Z
   Vendor: ACIDBITE
   Product Type: Textures
   Availability: Available
@@ -286,35 +286,35 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BOLD_TITLES_RESIZED.png?v=1716367975
   Price: $29.00 USD
 - [Creative & colorful LUTs](https://acidbite.com/products/thermal-luts): Experience a bold new world with 55 colorful technical looks, including thermal imaging, night vision and infrared + free utility LUTs, so this pack totals 950+ files.
-  Updated: 2026-10-29T13:42:43Z
+  Updated: 2026-10-31T23:31:36Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SOFTWARE_BOX_THERMAL_LUTS.png?v=1718361651
   Price: $29.00 USD
 - [All paper styles in your definitive toolkit](https://acidbite.com/products/ultimate-paper-pack): The ultimate toolkit for all paper styles with transitions, overlays, textures and SFX.
-  Updated: 2026-10-18T04:08:11Z
+  Updated: 2026-11-04T03:56:57Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/UPP_RESIZED.png?v=1722087174
   Price: $39.00 USD
 - [Get the Blockbuster Look](https://acidbite.com/products/blockbuster-luts): 20 distinctive cinematic looks inspired by films like “Joker“, "Matrix", "Dune" or “Barbie“.
-  Updated: 2026-10-21T14:19:16Z
+  Updated: 2026-11-01T19:21:55Z
   Vendor: ACIDBITE
   Product Type: LUTs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/BLOCKBUSTER_TITLES_RESIZED.png?v=1727267590
   Price: $29.00 USD
 - [Horror Movie Titles](https://acidbite.com/products/horror-movie-titles): 15 boo-nique and fully adjustable 4K title designs inspired by classic horror and slasher films.
-  Updated: 2026-10-22T12:12:56Z
+  Updated: 2026-11-05T00:45:15Z
   Vendor: ACIDBITE
   Product Type: Overlays
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/HORROR_MOVIE_TITLES_RESIZED.png?v=1730279111
   Price: $24.00 USD
 - [Your sticky go-to toolkit](https://acidbite.com/products/tape-transitions): The go-to toolkit for seamless, tape-inspired transitions that stick your content to people's minds!
-  Updated: 2026-10-19T21:23:54Z
+  Updated: 2026-11-01T19:27:56Z
   Vendor: ACIDBITE
   Product Type: Transitions
   Availability: Available
@@ -328,14 +328,14 @@
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/CINEMARKERS2_RESIZED_d5fc06ff-a6be-4fac-9b4e-0593d199cefc.png?v=1747134764
   Price: $29.00 USD
 - [All our assets, huge savings](https://acidbite.com/products/complete-collection): The all-in-one bundle of handcrafted video assets – easy to use, built to transform your edits.
-  Updated: 2026-10-29T14:09:52Z
+  Updated: 2026-11-05T19:52:51Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0481/5562/3587/files/SOFTWARE_BOX_BUNDLES_CAC_3abd462d-12a5-4825-a894-078ab2353dc9.png?v=1751363990
   Price: $199.00 USD
 - [All transition packs, 73% off](https://acidbite.com/products/transition-bundle): Looking for the best transitions to take your edits to the next level? This is all you need!
-  Updated: 2026-10-18T07:31:50Z
+  Updated: 2026-11-05T19:50:05Z
   Vendor: ACIDBITE
   Product Type: Bundles
   Availability: Available
@@ -351,41 +351,41 @@
   Updated: 2023-10-06T09:01:57Z
   Total Products: 0
 - [Bundles](https://acidbite.com/collections/bundles): Go all in and benefit from the highest possible discounts!
-  Updated: 2026-10-29T11:10:44Z
+  Updated: 2026-11-05T12:08:46Z
   Total Products: 33
 - [Transitions](https://acidbite.com/collections/transitions)
-  Updated: 2026-10-28T11:10:05Z
+  Updated: 2026-11-05T12:08:46Z
   Total Products: 23
 - [Textures](https://acidbite.com/collections/textures)
-  Updated: 2026-10-29T11:10:44Z
-  Total Products: 10
+  Updated: 2026-11-05T12:08:46Z
+  Total Products: 9
 - [Overlays](https://acidbite.com/collections/overlays)
-  Updated: 2026-10-29T11:10:44Z
+  Updated: 2026-11-05T12:08:46Z
   Total Products: 6
 - [Animations](https://acidbite.com/collections/animations)
   Updated: 2026-10-29T11:10:44Z
   Total Products: 6
 - [LUTs](https://acidbite.com/collections/luts)
-  Updated: 2026-10-27T11:10:29Z
+  Updated: 2026-11-02T12:11:25Z
   Total Products: 5
 - [Audio](https://acidbite.com/collections/audio)
-  Updated: 2026-10-29T11:10:44Z
+  Updated: 2026-11-02T12:11:25Z
   Total Products: 2
 - [Courses](https://acidbite.com/collections/courses)
   Updated: 2026-07-10T13:24:33Z
   Total Products: 2
 - [See All](https://acidbite.com/collections/all)
-  Updated: 2026-10-29T11:10:44Z
-  Total Products: 62
+  Updated: 2026-11-05T12:08:46Z
+  Total Products: 61
 - [Active](https://acidbite.com/collections/active)
-  Updated: 2026-10-29T11:10:44Z
+  Updated: 2026-11-05T12:08:46Z
   Total Products: 82
 - [All Access](https://acidbite.com/collections/all-access)
-  Updated: 2026-10-05T11:10:39Z
+  Updated: 2026-11-05T12:08:46Z
   Total Products: 4
 - [All (dummy)](https://acidbite.com/collections/all-dummy)
-  Updated: 2026-10-29T11:10:44Z
-  Total Products: 114
+  Updated: 2026-11-05T12:08:46Z
+  Total Products: 113
 
 ## Policies
 
