@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2026-09-26T19:42:46Z
 - Contact Email: hornglowindustry.com@gmail.com
-- Updated At: 2026-10-29T00:50:30.559Z
+- Updated At: 2026-11-06T00:51:47.027Z
 
 ## Products
 
@@ -55,6 +55,15 @@
     Author: Horn Glow Industry
   - [Effortlessly Elevate Your Winter Wardrobe with a Men's Varsity Wool Jacket Featuring Leather Sleeves](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/effortlessly-elevate-your-winter-wardrobe-with-a-mens-varsity-wool-jacket-featuring-leather-sleeves): Effortlessly Elevate Your Winter Wardrobe with a Men's Varsity Wool Jacket Featuring Leather Sleeves
     Updated: 2026-10-28T15:00:23Z
+    Author: Horn Glow Industry
+  - [5 Reasons Why the Men's Varsity Wool Jacket with Leather Sleeves is a Winter Wardrobe Essential](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/5-reasons-why-the-mens-varsity-wool-jacket-with-leather-sleeves-is-a-winter-wardrobe-essential): 5 Reasons Why the Men's Varsity Wool Jacket with Leather Sleeves is a Winter Wardrobe Essential
+    Updated: 2026-10-30T15:00:23Z
+    Author: Horn Glow Industry
+  - [Effortless Style and Warmth The Men's Varsity Wool Jacket with Leather Sleeves Phenomenon](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/effortless-style-and-warmth-the-mens-varsity-wool-jacket-with-leather-sleeves-phenomenon): Effortless Style and Warmth The Men's Varsity Wool Jacket with Leather Sleeves Phenomenon
+    Updated: 2026-11-01T15:00:43Z
+    Author: Horn Glow Industry
+  - [Men's Varsity Wool Jackets with Leather Sleeves Combining Heritage Craftsmanship and Contemporary Fashion](https://s7h5pq-jx.myshopify.com/blogs/latest-news-updates/mens-varsity-wool-jackets-with-leather-sleeves-combining-heritage-craftsmanship-and-contemporary-fashion): Men's Varsity Wool Jackets with Leather Sleeves Combining Heritage Craftsmanship and Contemporary Fashion
+    Updated: 2026-11-04T15:00:27Z
     Author: Horn Glow Industry
 
 ## Store Pages
