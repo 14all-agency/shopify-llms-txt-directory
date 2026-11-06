@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-10-07T08:08:26Z
 - Contact Email: wych200@outlook.com
-- Updated At: 2026-10-30T00:49:09.522Z
+- Updated At: 2026-11-06T00:50:38.502Z
 
 ## Collections
 
@@ -14,10 +14,10 @@
   Updated: 2026-10-23T14:42:28Z
   Total Products: 1
 - [Minglun B2B Pouches](https://mlleather.com/collections/minglun-b2b-pouches): Explore coin pouches and an SN005 leather pencil case with product images and supplied dimensions. Send your private-label or bulk sourcing requirements.
-  Updated: 2026-10-23T14:42:28Z
+  Updated: 2026-11-02T15:52:20Z
   Total Products: 18
 - [Leather Handbag Manufacturer Catalogue | MINGLUN](https://mlleather.com/collections/minglun-b2b-handbags): Explore MINGLUN handbags by material and shape. Private label and small-batch manufacturing in Guangzhou, China: catalogue 20+/style; your design 100+.
-  Updated: 2026-10-23T14:42:28Z
+  Updated: 2026-11-02T15:52:20Z
   Total Products: 12
 
 ## Blogs
@@ -33,7 +33,7 @@
     Updated: 2026-10-09T06:04:22Z
     Author: Leather Goods Editorial
   - [Canton Fair Bag Sourcing Guide for Private-Label Brands](https://mlleather.com/blogs/buyer-guides/canton-fair-bag-sourcing-guide-private-label-brands): <p>A practical Canton Fair bag sourcing guide for private-label brands: prepare a product brief, compare leather handbag suppliers, review samples, confirm MOQ and follow up with a clear OEM/ODM enquiry.</p>
-    Updated: 2026-10-13T04:24:44Z
+    Updated: 2026-11-02T15:52:20Z
     Author: MINGLUN
     Tags: buyer guide, Canton Fair, leather handbag sourcing, OEM/ODM, private label
 
@@ -56,7 +56,7 @@
 - [Genuine Leather Shoulder Straps](https://mlleather.com/pages/leather-shoulder-straps): The shoulder strap shapes how a bag is carried. Enquire about genuine leather shoulder straps for new bag ranges or coordinated accessory collectio...
   Updated: 2026-10-09T06:03:18Z
 - [Private Label Leather Handbags & OEM Manufacturing](https://mlleather.com/pages/private-label-oem): Develop private label leather handbags with MINGLUN in Guangzhou, China. We bring 25 years of high-end women's handbag manufacturing experience to ...
-  Updated: 2026-10-18T05:25:33Z
+  Updated: 2026-11-02T15:52:20Z
 - [Materials & Craftsmanship](https://mlleather.com/pages/materials-and-craftsmanship): A clear material and construction brief makes a leather accessories project easier to review. Use the points below to describe the intended product...
   Updated: 2026-10-09T06:03:18Z
 - [Leather Bag Manufacturer in China](https://mlleather.com/pages/our-factory): body:has(.factory-story) #MainContent .shopify-section > .section .section-content-wrapper > .text-block:has(> h1) { display: none !important; } .f...
