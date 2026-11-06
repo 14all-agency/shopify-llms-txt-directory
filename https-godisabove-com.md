@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-02-07T14:30:25Z
 - Contact Email: support@godisabove.com
-- Updated At: 2026-10-30T01:00:07.693Z
+- Updated At: 2026-11-06T01:10:25.110Z
 
 # GodIsAbove — Official Brand Information
 
@@ -29,28 +29,28 @@ This LLMS.txt file provides authoritative information and links relating to GodI
 ## Products
 
 - [Faith Cross Wrap Ring - Rhoda](https://godisabove.com/products/faith-cross): FAITH IS OUR BLESSING Wear the "Faith Cross" wrap ring as a quiet, everyday expression of your faith in God. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever life gets heavy, look down at your ring and remember that God walks with you through everything. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:33Z
+  Updated: 2026-11-02T00:54:57Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_112141_8ee8e448-9ae0-45d3-a440-85504ba12d09.png?v=1793187340
   Price: $34.95 USD
 - [Opal Heart Cross Ring - Junia](https://godisabove.com/products/faith-love-hope): FAITH HOPE LOVE A soft opal heart meets the cross, a gentle reminder of the three things that remain: faith, hope and love. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Inspired by 1 Corinthians 13:13. Wear it as a daily reminder that the greatest of these is love, and that His love never leaves you. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T18:13:26Z
+  Updated: 2026-11-05T12:47:50Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_112140_6ec6a710-fc8d-4b0a-877a-919892bec052.png?v=1793187331
-  Price: $32.95 USD
+  Price: $38.95 USD
 - [Blue Zircon Double Cross Ring - Chloe](https://godisabove.com/products/doublecross): ⭐️⭐️⭐️⭐️⭐️ "I love mine! I put it on the day I received it and I will not take it off until I have beaten my sickness. It is the perfect daily reminder and I'm not doing this all by my own... I know God is with me" - Olivia M. FAITH IS OUR BLESSING Wear the "Faith & Cross" ring to display a beautiful expression of your faith in God every day. ✓ Never rusts or turns green ✓  925 Sterling Silver ✓ One Size Fits All - Easily Adjustable ✓ The perfect gift for yourself or a loved one WHAT OUR CUSTOMERS SAY ABOUT THE FAITH & CROSS Ring "Greatest gift ever!" "I'm incredibly thankful for the ring I received as a gift from my sister. It helps me as a constant reminder that faith will bring me comfort and peace, and I know God is with me. This ring is making me feel special every time I look at it. - Deborah S. Hebrews 11:6 "And without faith it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him."
-  Updated: 2026-10-29T22:57:39Z
+  Updated: 2026-11-05T03:47:26Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111321_1e266f96-5f53-48a1-bfb3-6b3750ba8f24.png?v=1793271444
   Price: $32.95 USD
 - [Pavé Cross & Heart Ring - Tabitha](https://godisabove.com/products/lovethecrossring): LOVE THE CROSS A sparkling pavé cross with a tiny heart. Wear the "Love The Cross" ring to show what your heart holds closest. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Every time it catches the light, let it remind you of the love that was shown on the cross, and that nothing can separate you from it. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:33Z
+  Updated: 2026-11-04T17:02:03Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
@@ -64,35 +64,35 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_114512_86592bbf-5313-447c-aceb-026aa98bb998.png?v=1793188143
     Price: $34.95 USD
 - [Rainbow Zircon Heart & Cross Necklace - Eve](https://godisabove.com/products/rainbow-zircon-heart-and-cross-necklace-eve): FAITH IS OUR BLESSING A heart and a cross set with rainbow zircons. Wear the "Heart Cross" necklace to carry God's love close to your heart every day. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever life gets tough, touch the cross on your necklace and remember that God will get you through everything. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T10:46:28Z
+  Updated: 2026-11-05T04:17:48Z
   Vendor: Godisabove ™
   Product Type: necklaces
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_112409_e1089323-3d99-459b-aed8-0a83d3704f4b.png?v=1793187423
   Price: $58.99 USD
-- ["I AM ENOUGH" Adjustable Ring in 925 Sterling Silver](https://godisabove.com/products/iamenough): ⭐️⭐️⭐️⭐️⭐️ "I love mine! I put it on the day I received it and I will not take it off until I have beaten my sickness. It is the perfect daily reminder, and I'm not doing this all by my own... I know God is with me" - Karen, U.S. FAITH IS OUR BLESSING Wear the "I am Enough - Faith" ring to display a beautiful expression of your faith in God every day. ✓ Never rusts or turns green ✓  925 Sterling Silver ✓ One Size Fits All - Easily Adjustable ✓ The perfect gift for yourself or a loved one WHAT OUR CUSTOMERS SAY ABOUT THE I AM ENOUGH Ring "Greatest gift ever!" "I'm incredibly thankful for the ring I received as a gift from my mother. It helps me as a constant reminder that faith will bring me comfort and peace, and I know God is with me. This ring is making me feel special every time I look at it. - Deborah, U.S. Hebrews 11:6 "And without faith it is impossible to please Him, for he who comes to God must believe that He is and that He is a rewarder of those who seek Him."
-  Updated: 2026-10-25T17:26:27Z
+- ["I Am Enough" Wrap Ring - Talitha](https://godisabove.com/products/iamenough): I AM ENOUGH "I am enough" on the outside, "Faith" on the inside. A gentle daily reminder that in God's eyes, you are already enough. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you doubt yourself, look down at your ring and remember that you are fearfully and wonderfully made, and God calls you His own. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
+  Updated: 2026-11-05T13:03:36Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Untitleddesign_93.png?v=1689245629
+  Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261031_161240_93e4a180-07f8-424b-afa5-8f98c3ff8479.png?v=1793463480
   - [Silver](https://godisabove.com/products/iamenough?variant=45616563323163)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Untitleddesign_93.png?v=1689245629
-    Price: $29.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261031_161240_93e4a180-07f8-424b-afa5-8f98c3ff8479.png?v=1793463480
+    Price: $32.95 USD
   - [Gold](https://godisabove.com/products/iamenough?variant=45616563388699)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/95eda9c8-3d36-4c9a-b2be-28d05e33c786_1.jpg?v=1689245622
-    Price: $29.99 USD
+    Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261031_155638_70a1908b-2fe3-451c-aa16-93d71e6f9b01.png?v=1793463480
+    Price: $32.95 USD
 - [Priority Dispatch & Insured Shipping](https://godisabove.com/products/priority-dispatch-insured-shipping)
-  Updated: 2026-10-30T00:05:16Z
+  Updated: 2026-11-06T01:04:37Z
   Vendor: God Is Above
   Product Type: UpCart - Shipping Protection
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/66841.png?v=1693667391
   Price: $3.98 USD
 - ["Faith" Pavé Zircon Cross Ring - Mary](https://godisabove.com/products/faith-pave-zircon-cross-ring-mary): FAITH IS OUR BLESSING Wear the "Faith" ring to display your beautiful expression of faith in God. ✓ Never rusts or turns green. ✓ Made from 925 sterling silver. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you're feeling in the dumps and life gets tough, look at your ring and remember that God will get you through everything. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T20:11:38Z
+  Updated: 2026-11-06T00:19:26Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
@@ -106,7 +106,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/iii.webp?v=1711161336
   Price: $29.99 USD
 - [Faith Hope Love Trinity Ring - Eunice](https://godisabove.com/products/faith-hope-love-trinity-ring-eunice): FAITH, HOPE & LOVE Three interlocked bands for faith, hope and love, woven together just like they are in a life lived with God. ✓ Never rusts or turns green. ✓ Made from premium titanium, light and comfortable. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. And Now These Three Remain Inspired by 1 Corinthians 13:13. Each band is a reminder of what holds you together, even when everything else feels uncertain. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:33Z
+  Updated: 2026-11-03T22:46:28Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
@@ -136,7 +136,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_112140_0cd4171e-619c-4a30-90e7-62f056bcadc4.png?v=1793187306
     Price: $32.95 USD
 - [Blessed Cross Wrap Ring - Susanna](https://godisabove.com/products/true-love-waits): TRUE LOVE WAITS "Blessed" on the outside, "True Love Waits" on the inside. A ring for the heart that trusts God's timing. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ One size fits all - easily adjustable. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Wear it as a promise to yourself and to God: the right love is worth waiting for, and you are already blessed while you wait. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T22:07:58Z
+  Updated: 2026-11-05T13:39:21Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
@@ -150,7 +150,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_114511_f0d37dc5-96b2-4565-a06d-2151158ccb0a.png?v=1793188138
     Price: $34.95 USD
 - [Faith Script Cross Necklace - Lois](https://godisabove.com/products/faith-necklace): FAITH OVER FEAR The word "faith" written into the shape of the cross. Simple, delicate and full of meaning. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever worry creeps in, reach for your necklace and remember that faith, not fear, gets the final word. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T01:10:13Z
+  Updated: 2026-11-05T13:58:57Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -164,7 +164,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_112252_b4e3f63e-7388-4924-aaf9-e68197b38646.png?v=1793187347
     Price: $38.95 USD
 - [Rose Gold Infinity Cross Necklace - Zipporah](https://godisabove.com/products/cross-necklace): HIS LOVE IS INFINITE The cross wrapped in an infinity loop, a reminder that God's love for you has no beginning and no end. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear On the hardest days, let this necklace remind you that His love doesn't run out, and neither does His grace. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:39Z
+  Updated: 2026-11-02T12:17:26Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -178,7 +178,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_114513_dd1b1b83-da97-4387-9103-8787f200d631.png?v=1793188160
     Price: $38.95 USD
 - [Sunflower Faith Cross Necklace - Adah](https://godisabove.com/products/sunflower-faith): YOU ARE MY SUNSHINE A sunflower and the cross: always turning toward the light, just like a heart that turns toward God. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Keep Your Face Toward The Light Sunflowers follow the sun. Let this necklace remind you to keep your eyes on Him, even on cloudy days. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:39Z
+  Updated: 2026-10-30T03:12:47Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -192,7 +192,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/products/26fdd8d5a4a7ddab5bf467983dfa04d1.jpg?v=1720612851
   Price: $59.99 USD
 - [Amazing Grace Cross Necklace - Huldah](https://godisabove.com/products/amazing-grace-cross-necklace): AMAZING GRACE, HOW SWEET THE SOUND Wear this necklace to carry the message of Amazing Grace with you wherever you go. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Saved By Grace Through God's love and amazing grace we have been set free. May this necklace be a daily reminder of His grace for you or the person you love. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:37Z
+  Updated: 2026-10-30T03:20:16Z
   Vendor: Godisabove™
   Product Type: 
   Availability: Available
@@ -213,7 +213,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/283ea423-2f8d-4955-9f13-13e693716c58.jpg?v=1711157142
     Price: $29.99 USD
 - [Blue Zircon Footprints Cross Ring - Jochebed](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove): IT WAS THEN THAT I CARRIED YOU Inspired by the beloved Footprints poem, with tiny footprints and a blue zircon cross. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 6–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear When you only see one set of footprints in the sand, remember: those were the moments He carried you. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T10:07:16Z
+  Updated: 2026-11-04T22:13:11Z
   Vendor: Godisabove™
   Product Type: rings
   Availability: Available
@@ -221,25 +221,25 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   - [US 6](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove?variant=47489735950619)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111239_ba97d9c4-6e8a-47b2-84c2-f0d6a096e11d.png?v=1793187287
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [US 7](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove?variant=47489735983387)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111239_ba97d9c4-6e8a-47b2-84c2-f0d6a096e11d.png?v=1793187287
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [US 8](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove?variant=47489736016155)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111239_ba97d9c4-6e8a-47b2-84c2-f0d6a096e11d.png?v=1793187287
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [US 9](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove?variant=47489736048923)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111239_ba97d9c4-6e8a-47b2-84c2-f0d6a096e11d.png?v=1793187287
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [US 10](https://godisabove.com/products/it-was-then-that-i-carried-you-ring-by-godisabove?variant=47489735917851)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_111239_ba97d9c4-6e8a-47b2-84c2-f0d6a096e11d.png?v=1793187287
-    Price: $32.95 USD
+    Price: $34.95 USD
 - ["Amazing Grace" Earrings by Godisabove™](https://godisabove.com/products/stainless-steel-letter-ear-hook-grace)
-  Updated: 2026-10-28T15:19:56Z
+  Updated: 2026-11-03T11:45:16Z
   Vendor: Godisabove™
   Product Type: earrings
   Availability: Available
@@ -326,7 +326,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/67aa3da7-88b6-44c4-bbed-ea57c36b9630.jpg?v=1711162776
     Price: $29.99 USD
 - [The Cross Necklace in Stainless Steel & Rhinestone by Godisabove™](https://godisabove.com/products/cross-necklace-steel-rhinestone): ⭐️⭐️⭐️⭐️⭐️"I love mine! I put it on the day I received it, and I will not take it off until I have beaten my sickness. It has given me strength and power, it is the perfect daily reminder that I'm not doing this all by my own... I know God is with me"- Jessica N. FAITH IS OUR BLESSING Wear the "Cross" necklace to display a beautiful expression of your faith in God every day. ✓ Never rusts or turns green ✓  Stainless Steel Rhinestone ✓ The perfect gift for yourself or for a loved one WHAT OUR CUSTOMERS SAY ABOUT THE "CROSS"NECKLACE "Greatest gift ever!" "I'm incredibly thankful for the necklace I received as a gift from my sister. It helps me as a constant reminder that faith will bring me comfort and peace, and I know God is with me. This necklace is making me feel special every time I look at it. - Deborah M. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you're feeling in the dumps and life gets tough, look at your necklace and remember that God will get you through everything. Our necklace has become a beloved choice among our customers, cherished both for personal wear and as a heartfelt gift to inspire strength and faith in God. Such a beautiful way to always remember to give God the glory...
-  Updated: 2026-09-17T01:44:55Z
+  Updated: 2026-10-30T05:24:37Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -347,7 +347,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/89c20162-bb86-4da5-9092-b8439006e1a3.jpg?v=1711159315
   Price: $32.99 USD
 - ["Jesus Saves" Hoodie by Godisabove™](https://godisabove.com/products/jesus-saves-hoodie): ⭐️⭐️⭐️⭐️⭐️"I love mine! I received it and instantly it felt amazing when I wore it. I loved every moment that I wore it. It is my perfect reminder that I'm not doing this all by my own... I know God is with me"- Karen M JESUS SAVESFOR GOD SO LOVED THE WORLD THAT HE GAVE HIS ONE AND ONLY SON, THAT WHOEVER BELIEVES IN HIM SHALL NOT PERISH BUT HAVE ETERNAL LIFE. FOR GOD DID NOT SEND HIS SON INTO THE WORLD TO CONDEMN THE WORLD, BUT TO SAVE THE WORLD THROUGH HIM. -John 3:16-17 WHAT OUR CUSTOMERS SAY ABOUT THE "JESUS SAVES" HOODIE "Greatest gift ever!" "I'm incredibly thankful for the hoodie received as a gift from my sister. It helps me as a constant reminder that faith will bring me comfort and peace, and I know God is with me. This hoodie is making me feel special every time I wear it.- Jessica S. Daily Reminder To Be Guided By Faith, Not By Fear Whenever life becomes challenging and you find yourself feeling low, take a moment to look at your hoodie and remind yourself that God will guide you through it all. It's a wonderful reminder to always give glory to God. Gift With Every Order - Christian E-book Set Every purchase you make comes with a complimentary collection of three Christian e-books. This exceptional set, normally valued at $29.99 comprises three enlightening titles centered around Jesus and his life: 1."The Shepherd" 2."In the Steps of Jesus" 3."Christian Faith Healing" These three e-books are our gift to you, further enhancing your spiritual journey and deepening your understanding of Jesus and his teachings. One Tree Planted For Every Order A portion of every  is contributed to the planting of mangrove trees in Madagascar. With each purchase, you'll be planting a tree. Join our beautiful cause and support reforestation efforts to revive natural habitats, improve coral reef health, support local livelihoods and fight against climate change by extracting CO2 from the air. Thousands of trees planted just because of you!
-  Updated: 2026-10-26T19:47:32Z
+  Updated: 2026-10-30T23:57:59Z
   Vendor: Godisabove™
   Product Type: clothing
   Availability: Available
@@ -433,7 +433,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/d9a9191a-b3eb-4e83-b614-4200ad8ec109.jpg?v=1711157018
     Price: $39.99 USD
 - [Birthstone Infinity Heart Cross Necklace - Damaris](https://godisabove.com/products/zircon-cross-necklace): A CROSS AS UNIQUE AS YOU An infinity heart cross with a birthstone-colored heart at its center. Choose the color that means the most to you, or to her. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear A personal reminder that you were made on purpose, and that God's love for you is endless. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:37Z
+  Updated: 2026-10-31T01:23:52Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -481,7 +481,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/0a52c45f-eb88-4e45-937a-4392c8112198.jpg?v=1711159320
     Price: $39.99 USD
 - [Rainbow Zircon Virgin Mary Bracelet - Julia](https://godisabove.com/products/rainbow-zircon-virgin-mary-bracelet-julia): BLESSED MOTHER, GUIDE ME A Virgin Mary medallion framed with rainbow zircons on a delicate adjustable bracelet. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Adjustable slider clasp fits most wrists. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Under Her Loving Protection Wear it as a daily prayer for guidance, protection and peace, close to your pulse and close to your heart. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:36Z
+  Updated: 2026-10-30T03:34:49Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -615,7 +615,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Screenshot2024-03-23at17.49.22.png?v=1713269785
     Price: $32.95 USD
 - [Rainbow Zircon Virgin Mary Cross Necklace - Persis](https://godisabove.com/products/rainbow-zircon-virgin-mary-cross-necklace-persis): BLESSED MOTHER, GUIDE ME A cross with a Virgin Mary medallion and a row of rainbow zircons. A timeless piece of devotion. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Under Her Loving Protection Wear it as a daily prayer for guidance, protection and peace, carried close to your heart. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T10:45:20Z
+  Updated: 2026-10-30T03:07:14Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -715,7 +715,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/472b3392-f2fc-4b2b-b366-0bd431682079.jpg?v=1711991574
     Price: $29.99 USD
 - ["Simple Faith Collection" T-Shirt by Godisabove](https://godisabove.com/products/faith-t-shirt-design-by-godisabove): WHAT OUR CUSTOMERS ARE SAYING ABOUT THE "Woman Of Faith T-shirt": ⭐️⭐️⭐️⭐️⭐️ "I'm incredibly thankful for this tshirt I received as a gift from my sister. It helps me as a constant reminder that faith will bring me comfort and peace. It is really soft and it feels cozy."- Jessica S. Gift With Every Order - Christian E-book Set Every purchase you make comes with a complimentary collection of three Christian e-books. This exceptional set, normally valued at $29.99 comprises three enlightening titles centered around Jesus and his life: 1."The Shepherd" 2."In the Steps of Jesus" 3."Christian Faith Healing" These three e-books are our gift to you, further enhancing your spiritual journey and deepening your understanding of Jesus and his teachings.
-  Updated: 2026-10-20T16:13:47Z
+  Updated: 2026-11-05T14:45:26Z
   Vendor: Godisabove™
   Product Type: clothing
   Availability: Available
@@ -985,7 +985,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/8ac3138a-986b-441a-9e43-a68ebe0d0e73.jpg?v=1720401328
     Price: $39.99 USD
 - [Handmade 90 Day Bible Verses Jar (Free Christian Gift Box)](https://godisabove.com/products/bible-verses-jar): ⭐️⭐️⭐️⭐️⭐️ "I love this jar! Whole family picks a verse everyday based on how they feel and then we reflect on our day as speak about our emotions all together, this jar brings my family together and makes us feel special every time..." - Michelle N. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" WHAT OUR CUSTOMERS SAY ABOUT THE "BIBLE VERSES JAR": ⭐️⭐️⭐️⭐️⭐️ "Greatest gift ever!" ⭐️⭐️⭐️⭐️⭐️ "Whole family loves it, it is a great purchase to put a smile on our faces!" ⭐️⭐️⭐️⭐️⭐️ "I used to cry on my sad moments but now I just pick a verse from this jar and it reminds me of how beautiful life is every single time!" Limited Stock Alert: Order Soon to Secure Yours! Our handmade products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-30T00:22:15Z
+  Updated: 2026-11-06T01:04:57Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
@@ -1010,7 +1010,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/1619341014937.jpg?v=1720401443
     Price: $56.99 USD
 - [Handmade (Faith Hope Love) Bible Verse Canvas by Godisabove](https://godisabove.com/products/handmade-canvas): ⭐️⭐️⭐️⭐️⭐️ "These paintings aren't just a decorative piece, it's a daily reminder to embrace life's challenges with faith, to cherish every moment with love, and to look forward with hope." Michelle N. HANDMADE CHRISTIAN PAINTINGS Decorate your living room and whenever you and your family looks at it, they can feel the power of the Faith, Love, and Hope. WHAT OUR CUSTOMERS SAY ABOUT THE "HANDMADE FAITH HOPE LOVE CANVAS": "Greatest gift ever!" "I'm incredibly thankful for this decoration that I received as a gift from my father. It helps me as a constant reminder that faith will bring me comfort and peace, and I know Lord is with me. This gift is making me feel special every time I look at it.- Deborah S. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you're feeling in the dumps and life gets tough, look at these paintings and remember that you're safe, and God is with us. Such a beautiful way to always remember that Lord's strength is with us. Product Details This design has been thoughtfully drawn by hand, taking over 12 hours of sketching, inking, and digital refinement, making it a beautiful encouragement and conversation opportunity for your home. Professional quality art print. 100% satisfaction guarantee. Original, hand-drawn art. Frame not included.
-  Updated: 2026-10-29T21:26:37Z
+  Updated: 2026-11-04T17:34:07Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -1202,7 +1202,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/1617776778358.jpg?v=1720920090
   Price: $119.99 USD
 - [Zircon Cross & Crown Necklace - Claudia](https://godisabove.com/products/zircon-cross-and-crown-necklace-claudia): CROWNED BY HIS GRACE A sparkling zircon cross with a crown, a reminder that you are a daughter of the King. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. You Are A Daughter Of The King Whenever you doubt your worth, look at the crown on your cross and remember whose you are. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-28T23:11:33Z
+  Updated: 2026-10-30T14:01:51Z
   Vendor: Godisabove™
   Product Type: necklaces
   Availability: Available
@@ -1216,28 +1216,28 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261028_114512_b5562cda-9420-4aeb-bde6-83d3fcdc3da6.png?v=1793188150
     Price: $38.95 USD
 - [Tarro de la Biblia de 90 Días Hecho a Mano](https://godisabove.com/products/tarro-de-la-biblia-de-90-dias-hecho-a-mano): ⭐️⭐️⭐️⭐️⭐️ "¡Me encanta este frasco! Toda la familia escoge un versículo cada día según cómo se siente y luego reflexionamos sobre nuestro día mientras hablamos de nuestras emociones juntos. Este frasco une a mi familia y nos hace sentir especiales cada vez..." -María N. "LÉEME CUANDO: FELIZ, AGRADECIDO, ANSIOSO, SOLITARIO, ENFADADO, TRISTE" LO QUE NUESTROS CLIENTES DICEN SOBRE EL “Tarro de Versículo Bíblico”: ⭐️⭐️⭐️⭐️⭐️ "¡El mejor regalo de todos!" ⭐️⭐️⭐️⭐️⭐️ "A toda la familia le encanta, es una gran compra que nos saca una sonrisa." ⭐️⭐️⭐️⭐️⭐️ "Antes solía llorar en mis momentos tristes, pero ahora solo tomo un versículo de este frasco y me recuerda lo hermosa que es la vida cada vez." ¡Alerta de stock limitado: ¡Haz tu pedido pronto para asegurar el tuyo! Nuestros productos hechos a mano están en alta demanda esta temporada y ya estamos a plena capacidad. Hacer tu pedido con anticipación aumenta la probabilidad de disponibilidad, ¡así que asegúrate de reservar el tuyo cuanto antes para recibirlo a tiempo!
-  Updated: 2026-10-26T12:47:47Z
+  Updated: 2026-11-05T09:04:47Z
   Vendor: God Is Above
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/ESP_IMAGE_1.png?v=1746066841
   Price: $35.99 USD
 - [(GIFTING OFFER) Handmade 90 Day Bible Verses Jar (Free Christian Gift Box)](https://godisabove.com/products/bible-jar): ⭐️⭐️⭐️⭐️⭐️ "I love this bible jar! Whole family picks a verse everyday based on how they feel and then we reflect on our day as speak about our emotions all together, this jar brings my family together and makes us feel special every time..." - Michelle N. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" WHAT OUR CUSTOMERS SAY ABOUT THE "BIBLE VERSES JAR": ⭐️⭐️⭐️⭐️⭐️ "Greatest gift ever!" ⭐️⭐️⭐️⭐️⭐️ "Whole family loves it, it is a great purchase to put a smile on our faces!" ⭐️⭐️⭐️⭐️⭐️ "I used to cry on my sad moments but now I just pick a verse from this jar and it reminds me of how beautiful life is every single time!" Read 1,500+  Reviews Below ⬇ Limited Stock Alert: Order Soon to Secure Yours! Our handmade products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-30T00:57:46Z
+  Updated: 2026-11-06T01:10:14Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/GodIsAbove_Bible_Verse_Jar.jpg?v=1791155128
   Price: $35.99 USD
 - [DIY Felt Christmas Tree For Kids (0-15 Years) - (32 Piece Christmas Gift Bundle)](https://godisabove.com/products/diy-christmas-tree): ⭐️⭐️⭐️⭐️⭐️ "My kids loves this Christmas tree! This year my twin girls and their big brother each had their own Christmas tree to decorate. So fun watching them get creative with their own! They love playing with it and it puts a huge smile on their face. It unites our family every Christmas and the memories we share are priceless. I definitely recommend getting this for your kids this Christmas!" - Sophia M. Make Christmas Magical Again! Watch Your Kids Put The Tablets Aside This gift is a wonderful way to bring you closer to your kids and keep your kids engaged throughout the holiday season. With its bright colors and simple design, your child can have fun decorating their little tree, adding a special touch to your holiday space. You’ll enjoy quality time together creating lovely decorations, making lasting memories. It’s a joyful gift that adds warmth to your home! Plus it is made from high quality durable felt so you can continue to use them for many years. KIDS LOVE TO CREATE THEIR OWN CHRISTMAS TREE! Watch your child’s creativity bloom as they decorate their very own Christmas tree! With 32 ornaments to choose from, they’ll have endless ways to bring their ideas to life. It's more than just fun, each ornament placed helps them develop motor skills, build color recognition, and spark their imagination. What Our Customers Say About The "DIY Christmas Tree For Toddlers": “Greatest gift ever if you have kids! Our kids started jumping when they saw this!" “This gift is absolutely adorable. I bought it as a surprise for my niece, and he was thrilled. It’s colorful and fun, bringing a festive touch to Christmas season!” “My twin daughters love decorating their own trees! It’s a wonderful gift, and decorating it together has become every years favorite tradition!” Gifting Package Includes: Reusable High Quality Felt Tree 32 Pieces Felt Christmas Icons LED Snowflake Tree Lights
-  Updated: 2026-10-06T22:41:46Z
+  Updated: 2026-11-03T23:16:31Z
   Vendor: Godisabove™
   Product Type: home decor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/1720278687305306112.jpg?v=1731483101
   Price: $48.99 USD
 - ["Birth Of Christ" Disc Flat Ornaments Set For Christmas](https://godisabove.com/products/christmas-tree-ornament): ⭐️⭐️⭐️⭐️⭐️ "These disc ornament are stunning! I bought the set for my kids to decorate our tree, and it’s become a family tradition to add them every year. It brings such warmth and meaning to our holiday. Beautiful and spiritual!" - Emma R. Make Your Tree Radiate with the Spirit of Christmas! Add a special touch to your Christmas tree with this beautifully crafted disc ornament. Featuring a nativity scene, it’s a perfect reminder of the season’s true meaning. Place it on the tree with your loved ones, and let it become a cherished part of your family’s holiday tradition. This ornament isn’t just decoration, it’s a memory waiting to be made. ADD A TOUCH OF FAITH AND BEAUTY TO YOUR CHRISTMAS DECOR! This exquisite ornament is sure to spark joy and warmth in your holiday celebrations. Crafted to last, it’s a beautiful piece that will enhance your tree and bring everyone closer together. Each time you hang it, you’ll be reminded of the true spirit of the season and the memories you’re creating with family and friends. What Our Customers Say About This "Handmade Jesus Disc Ornaments For Christmas": “Greatest addition to our Christmas tree! Every year, we look forward to putting it up and remembering the meaning of Christmas.” “Our family loves this ornament! It’s beautifully made, and it has a special place on our tree. Truly a lovely piece for anyone celebrating the season!” “This was a gift for my daughter’s tree, and she adores it! The details are incredible, and it brings such a warm, traditional feel to her decorations.”
-  Updated: 2026-10-26T18:14:11Z
+  Updated: 2026-11-04T12:36:35Z
   Vendor: Godisabove™
   Product Type: home decor
   Availability: Available
@@ -1271,7 +1271,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/59570b33-b8ff-4744-b313-c302c97d6a61.jpg?v=1731051326
     Price: $14.99 USD
 - [Handmade (Food Family Love) Canvas by Godisabove™](https://godisabove.com/products/food-family-love-canvas): ⭐️⭐️⭐️⭐️⭐️ "Absolutely love this canvas set! It's more than just a piece of decor for me, it's a daily reminder of what truly matters in life. The words Food, Family and Love are beautifully crafted and elegantly displayed, adding a touch of inspiration to my home." - Meghan B. HANDMADE CHRISTIAN PAINTINGS Decorate your living room and whenever you and your family looks at it, they can feel the power of the God, Family, and Love at home. WHAT OUR CUSTOMERS SAY ABOUT THE "HANDMADE FOOD FAMILY LOVE CANVAS": "Greatest gift ever!" "I'm incredibly thankful for this decoration that I received as a gift from my husband. It helps me as a constant reminder that God will bring me comfort and peace, and I know the Lord is with me. This gift is making me feel special every time I look at it.- Susan U. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you're feeling in the dumps and life gets tough, look at these paintings and remember that you're safe God is with us. Such a beautiful way to always remember that Lord's strength is with us.
-  Updated: 2026-10-25T12:06:34Z
+  Updated: 2026-11-02T00:54:57Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -1354,7 +1354,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/02_10.png?v=1748388262
     Price: $56.99 USD
 - [Handmade Cross Crystal Lamp (Lighting Base Included)](https://godisabove.com/products/cross-crystal-lamp): ⭐️⭐️⭐️⭐️⭐️ "I love these lamps! We got the whole set, I’m always looking for little ways to bring faith into our everyday lives, and these lamps has been such a blessing. I love how it seamlessly fits into our home, it’s simple yet meaningful. My kids even ask to have it on during bedtime stories. These lamps teaches my kids about faith and they look amazing..." - Claudia S. "LIGHT UP YOUR HOME WITH FAITH LAMPS" WHAT OUR CUSTOMERS SAY ABOUT THE "CROSS CRYSTAL LAMP": "Greatest gift ever!" "Whole family loves it, it is a great way to light up our home with faith!" "It’s like a daily reminder of God’s presence in our lives."
-  Updated: 2026-10-25T12:09:49Z
+  Updated: 2026-10-31T01:23:47Z
   Vendor: eprolo
   Product Type: Accessories
   Availability: Available
@@ -1394,35 +1394,35 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/289ea372-ddc0-4510-b25c-2cccfdd2b30b.jpg?v=1732346962
     Price: $32.99 USD
 - [Kids Bible Projector | Learn Scripture at Bedtime (6 Free Verse Discs Included)](https://godisabove.com/products/holy-pj): Bible Verse Projector with 6 scripture discs. Project God’s Word on any wall or ceiling. The perfect Christian gift, night lamp, and spiritual home decor piece. Loved by thousands.
-  Updated: 2026-10-30T00:43:02Z
+  Updated: 2026-11-05T19:21:37Z
   Vendor: Godisabove™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/TrusrintheLord_1_dbd8ff42-2466-47a2-ae94-52776582e798.png?v=1751401831
   Price: $58.99 USD
 - [(German) Handgemachte 90 Tage Bibel Verse Jar (Kommt mit Christlichen Geschenk-Box)](https://godisabove.com/products/90-tage-bibelglas): ⭐️⭐️⭐️⭐️⭐️ „Ich liebe dieses Glas! Die ganze Familie sucht sich jeden Tag einen Vers aus, basierend auf ihren Gefühlen, und dann denken wir über unseren Tag nach, während wir gemeinsam über unsere Emotionen sprechen. Dieses Glas bringt meine Familie zusammen und gibt uns jedes Mal das Gefühl, etwas Besonderes zu sein …“ – Marie N. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" WHAT OUR CUSTOMERS SAY ABOUT THE "BIBLE VERSES JAR": ⭐️⭐️⭐️⭐️⭐️ "Greatest gift ever!" ⭐️⭐️⭐️⭐️⭐️ "Whole family loves it, it is a great purchase to put a smile on our faces!" ⭐️⭐️⭐️⭐️⭐️ "I used to cry on my sad moments but now I just pick a verse from this jar and it reminds me of how beautiful life is every single time!" Read 100+ Reviews Below ⬇ Limited Stock Alert: Order Soon to Secure Yours! Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-20T00:25:10Z
+  Updated: 2026-10-30T14:00:50Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/GER_IMAGE_1.png?v=1746066848
   Price: $35.99 USD
 - [Hand Rolled 90 Day Bible Verses Jar (Comes With Christian Gift Box) (GIFTING OFFER)](https://godisabove.com/products/hand-rolled-bible-jar): bible jar, bible verses jar, bible verse jar, bible verse, bible, holy bible, bible verse of the day, bible gateway, holy bible, king james bible, the bible, verse of the day, online bible, digital bible, bible study, bible app, verses, kjv verses, encouraging bible verses, daily bible verse, niv bible
-  Updated: 2026-10-28T17:11:48Z
+  Updated: 2026-11-05T16:19:26Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Replacethejarinthefirstimagewiththejarfromthesecondimage.Keepthe.png?v=1760558866
   Price: $35.99 USD
 - [Handmade 90 Day Holy Spirit Jar (Comes With Christian Gift Box) (GIFTING OFFER)](https://godisabove.com/products/handmade-90-day-holy-spirit-jar-comes-with-christian-gift-box-gifting-offer): bible jar, bible verses jar, bible verse jar, bible verse, bible, holy bible, bible verse of the day, bible gateway, holy bible, king james bible, the bible, verse of the day, online bible, digital bible, bible study, bible app, verses, kjv verses, encouraging bible verses, daily bible verse, niv bible
-  Updated: 2026-10-25T10:40:27Z
+  Updated: 2026-11-05T17:51:22Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/81vKhkKKnCL._AC_SL1500.jpg?v=1765241676
   Price: $35.99 USD
 - [Handmade 90 Day Gain Powers Jar (Comes With Christian Gift Box) (GIFTING OFFER)](https://godisabove.com/products/handmade-90-day-holy-spirit-jar-comes-with-christian-gift-box-gifting-offer-copy): bible jar, bible verses jar, bible verse jar, bible verse, bible, holy bible, bible verse of the day, bible gateway, holy bible, king james bible, the bible, verse of the day, online bible, digital bible, bible study, bible app, verses, kjv verses, encouraging bible verses, daily bible verse, niv bible
-  Updated: 2026-10-29T12:59:07Z
+  Updated: 2026-11-05T22:24:46Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
@@ -1457,14 +1457,14 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/d5391ab5-0ca0-4bf5-9081-981fe354e51c.jpg?v=1749557477
   Price: $58.99 USD
 - [Jesus Birth Christmas Tree Pendant by Godisabove™](https://godisabove.com/products/jesus-birth-ornament): ⭐️⭐️⭐️⭐️⭐️ "These disc ornaments are stunning! I got it for my kids to hang on the tree, and now it’s one of our favorite parts of decorating. It brings such warmth and meaning to our holiday. Beautiful and spiritual!" - Emma R. Make Your Tree Radiate with the Spirit of Christmas! Add a meaningful touch to your Christmas tree with this beautifully crafted nativity ornament. More than just decor, it’s a heartfelt reminder of what the season is truly about, and a memory your family will treasure. ADD A TOUCH OF FAITH AND BEAUTY TO YOUR CHRISTMAS DECOR! This exquisite ornament is sure to spark joy and warmth in your holiday celebrations. Crafted to last, it’s a beautiful piece that will enhance your tree and bring everyone closer together. Each time you hang it, you’ll be reminded of the true spirit of the season and the memories you’re creating with family and friends. What Our Customers Say About This "Handmade Jesus Birth Ornaments For Christmas": ⭐️⭐️⭐️⭐️⭐️ “Greatest addition to our Christmas tree! Every year, we look forward to putting it up and remembering the meaning of Christmas.” - Grace M. ⭐️⭐️⭐️⭐️⭐️ “Our family loves this ornament! It’s beautifully made, and it has a special place on our tree. Truly a lovely piece for anyone celebrating the season!” - John A. ⭐️⭐️⭐️⭐️⭐️ “This was a gift for my daughter’s tree, and she adores it! The details are incredible, and it brings such a warm, traditional feel to her decorations.” - Ann F.
-  Updated: 2026-10-25T10:40:36Z
+  Updated: 2026-10-31T22:16:37Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/ee54c042-732e-40a5-a5b9-babf383e2679.jpg?v=1749557512
   Price: $14.99 USD
 - [Jesus Is the Reason Family Sweatshirt by Godisabove™](https://godisabove.com/products/jesus-is-the-reason-sweatshirt): WHAT OUR CUSTOMERS ARE SAYING ABOUT THE "Jesus Is the Reason Family Sweatshirt": ⭐️⭐️⭐️⭐️⭐️ "The perfect reminder of what the season is truly about" I'm incredibly thankful for this sweatshirt I received as a gift from my sister. It reminds me every day that Jesus is the center of this season. It's super soft and so cozy! – Jessica S. ⭐️⭐️⭐️⭐️⭐️ "Perfect Christmas reminder!" I wore this to our family gathering and got so many compliments. It’s comfy, festive, and the message means everything to me. A beautiful way to keep Christ at the center of the season! — Michelle T. ⭐️⭐️⭐️⭐️⭐️ "My daughter loved it!" Got this for my teenage daughter and she wears it all the time. She says it’s soft and warm, and she loves how it shares her faith in a fun, stylish way. Great quality too! — Rebecca S. Gift With Every Order - Christian E-book Set Every purchase you make comes with a complimentary collection of three Christian e-books. This exceptional set, normally valued at $29.99 comprises three enlightening titles centered around Jesus and his life: 1. "The Shepherd" 2. "In the Steps of Jesus" 3. "Christian Faith Healing" These three e-books are our gift to you, further enhancing your spiritual journey and deepening your understanding of Jesus and his teachings.
-  Updated: 2026-10-25T11:47:39Z
+  Updated: 2026-10-30T23:57:55Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -1579,14 +1579,14 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/f5d1afe2-6b37-4f44-b9df-72b67561ac86.jpg?v=1749563623
     Price: $14.99 USD
 - [(KIDS GIFTING SET) Learning The Bible (Jar & Projector)](https://godisabove.com/products/kids-gifting-bundle): KIDS GIFTING BUNDLE INCLUDES: 🫙 Handmade 90 Day Bible Verse Jar 🌟 Bible Verse Projector 📖 6 Free Scripture Discs 🎁 Christian Gifting Boxes 📚 Christianity Ebook Set 🌱 Tree Plantation Certificate 📱 Mobile App Subscription 🚚 Free Express Shipping 🫆 Free Jesus Stickers ⭐️⭐️⭐️⭐️⭐️ "My kids love these gifts! Now whole family picks a verse everyday based on how they feel and then we reflect on our day as speak about our emotions all together, these brings my family together and makes us feel special every time..." - Michelle N. "USE ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" WHAT OUR CUSTOMERS SAY ABOUT THE "BIBLE INSPIRED GIFTS": ⭐️⭐️⭐️⭐️⭐️ "Greatest gift ever! My kiddo loves these." ⭐️⭐️⭐️⭐️⭐️ "Whole family loves it, it is a great purchase to put a smile on our faces!" ⭐️⭐️⭐️⭐️⭐️ "I used to cry on my sad moments but now I just pick a verse from this jar and it reminds me of how beautiful life is every single time!" Limited Stock Alert: Order Soon to Secure Yours! Our gifting products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-27T12:33:46Z
+  Updated: 2026-11-05T19:21:36Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Untitleddesign-2025-06-14T024100.319.png?v=1749859878
   Price: $78.99 USD
 - [6 Additional Scripture Galaxy Discs For Bible Projector](https://godisabove.com/products/6-additional-scripture-discs-for-bible-projector)
-  Updated: 2026-10-27T12:33:42Z
+  Updated: 2026-11-04T04:34:01Z
   Vendor: Godisabove™
   Product Type: 
   Availability: Available
@@ -1656,7 +1656,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/d36ed126-4eb4-4f24-b2ac-1b4afe24d055_1_2be70399-b1ac-458c-bd24-9cb118987ec8.jpg?v=1751386160
   Price: $48.00 USD
 - [Forever Love – Grandma to Granddaughter Blanket by Godisabove™](https://godisabove.com/products/granddaughter-love-blanket-from-grandma): ⭐️⭐️⭐️⭐️⭐️ “My granddaughter hugged it and smiled with teary eyes.” She said it felt like I was holding her, even though we live far apart. Now she keeps it on her bed and says it brings her comfort every night. – Margaret L. A Hug from Grandma, Wrapped in a Blanket Even when you’re not together, you can still wrap your granddaughter in love. This soft, heartfelt blanket is a gentle reminder of your wishes, warmth, and unconditional love, morning, noon, and night. ✓ A perfect gift for birthdays, holidays, or just because✓ Sizes in CM: 130 x 150 cm✓ Sizes in IN: 51 x 59 inches A Daily Reminder That Grandma’s Love Is Forever Whether she’s missing home or simply needs a little comfort, this blanket is like a big warm hug, filled with hope, light, and everything you’d say if you were right there with her. ⭐️⭐️⭐️⭐️⭐️ “She said it’s her favorite gift ever.” The message meant the world to her. She reads it every night and says it makes her feel loved and safe. – Elaine J. ⭐️⭐️⭐️⭐️⭐️ “It made her feel close to me.” We don’t see each other as often as we’d like, but this blanket helps bridge that gap. She says it’s like I’m hugging her from afar. – Nancy W. ⭐️⭐️⭐️⭐️⭐️ “So thoughtful and meaningful.” My granddaughter couldn’t stop smiling. She wrapped herself in it right away and said she’s never letting it go. – Linda T. ⭐️⭐️⭐️⭐️⭐️ “A beautiful reminder of our bond.” It’s soft, colorful, and full of heart. I wanted her to know how deeply she’s loved, and this blanket says it perfectly. – Carol M.
-  Updated: 2026-10-25T13:03:24Z
+  Updated: 2026-11-05T01:04:41Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -1670,49 +1670,49 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/45d10641-0ee1-4263-a03d-2ec4a104a0f0.jpg?v=1750788680
   Price: $48.00 USD
 - [Wooden Bible Box | 90 Day Bible Verses (Comes With Free Gifts)](https://godisabove.com/products/wooden-bible): ⭐️⭐️⭐️⭐️⭐️ "I love this box! Whole family picks a verse everyday based on how they feel and then we reflect on our day as speak about our emotions all together, this box brings my family together and makes us feel special every time..." - Michelle N. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" WHAT OUR CUSTOMERS SAY ABOUT THE "BIBLE VERSES BOX": ⭐️⭐️⭐️⭐️⭐️ "Greatest gift ever!" ⭐️⭐️⭐️⭐️⭐️ "Whole family loves it, it is a great purchase to put a smile on our faces!" ⭐️⭐️⭐️⭐️⭐️ "I used to cry on my sad moments but now I just pick a verse from this box and it reminds me of how beautiful life is every single time!" Read 150+  Reviews Below ⬇ Limited Stock Alert: Order Soon to Secure Yours! Our handmade products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-30T00:42:55Z
+  Updated: 2026-11-05T10:49:31Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/DSC07218.jpg?v=1752099104
   Price: $35.99 USD
 - [(FULL GIFTING SET) Handmade 90 Day Bible Jar](https://godisabove.com/products/best-offer-handmade-90-day-bible-verses-jar): ⭐️⭐️⭐️⭐️⭐️ "I love this jar! Whole family picks a verse everyday based on how they feel and then we reflect on our day as speak about our emotions all together, this jar brings my family together and makes us feel special every time..." - Michelle N. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" ⭐️⭐️⭐️⭐️⭐️ More Than 5,000  Reviews... Limited Stock Alert: Order Soon to Secure Yours! Our handmade products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-28T23:16:51Z
+  Updated: 2026-11-05T13:45:20Z
   Vendor: Godisabove™
   Product Type: jar
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/1_a9fe17fa-84c8-486b-9f5d-e2c4cbd34efb.png?v=1759882033
   Price: $28.99 USD
 - [12 Additional Scripture Galaxy Discs For Bible Projector (Limited Collection)](https://godisabove.com/products/12-additional-scripture-galaxy-discs-for-bible-projector-limited-collection)
-  Updated: 2026-10-29T12:45:25Z
+  Updated: 2026-11-05T15:59:05Z
   Vendor: Godisabove™
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/00bceb92cd8d53f8a97fa183b9f6bb3d_1_1784125252_8998.png?v=1784131278
   Price: $39.99 USD
 - [Gift Box & Stickers](https://godisabove.com/products/christian-gift-box-jesus-stickers): Add a special touch with premium gift packaging.
-  Updated: 2026-10-30T00:53:52Z
+  Updated: 2026-11-06T01:10:16Z
   Vendor: God Is Above
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Gift_Box_and_Stickers.png?v=1786067771
   Price: $4.99 USD
 - [(LIMITED EDITION) Mama Jar - Handmade 90 Day Bible Verses (Free Gift Box)](https://godisabove.com/products/mom-jar): ❤️ The Perfect Gift for Mom...From God's Word to Her Heart Does your mom carry the weight of the world in silence? This beautiful handcrafted Bible Verse Jar was made for her, so she always knows where to turn, no matter how she's feeling. Each jar is filled with color coded Scripture cards, one for every emotion. When she's anxious, there's a verse. When she's lonely, there's a verse. When her heart is full of joy, there's a verse for that too. It's not just a gift. It's a daily reminder that she is seen, loved, and never alone. "READ ME WHEN: HAPPY, THANKFUL, ANGRY, ANXIOUS, LONELY, OR SAD" ⭐️⭐️⭐️⭐️⭐️ More Than 4,000  Reviews... ⭐️⭐️⭐️⭐️⭐️ "I got this for my mom and she cries every time she pulls a verse out. She says it feels like God is speaking directly to her heart. Best gift I've ever given her." - Michelle N. Limited Stock Alert: Order Soon to Secure Yours! Our handmade products are in high demand this season, and we’re already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-29T22:43:55Z
+  Updated: 2026-11-05T22:02:47Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/4_d3f9cda4-9aab-491e-9912-2d92fcbf85c2.png?v=1776350286
   Price: $28.99 USD
 - [Bible Trivia Game for Kids & Families | 100+ Questions](https://godisabove.com/products/bible-trivia): Make learning the Bible fun with 100+ Bible trivia questions for ages 8+. A Christian family game for kids, teens & adults—perfect for family game night, Sunday school, homeschool & Bible study.
-  Updated: 2026-10-30T00:45:17Z
+  Updated: 2026-11-06T01:04:52Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/Untitleddesign_97.png?v=1790776397
   Price: $35.99 USD
 - [Inspirational Scripture Cards for Women – Daily Encouragement](https://godisabove.com/products/women-cards): A Daily Reminder of God's Love! For You and Every Woman You Love... Find a moment of peace, strength, and encouragement in God's Word. Keep a deck close, and share His promises with the women who mean the most to you. Some Days You Need Peace. Other Days, You Need Strength No perfect morning routine. No pressure to keep up. Just reach for a Scripture card whenever you need a moment with God's Word. A Box of Encouragement for Every Woman in Your Life For the mom who's always there. The daughter finding her way. The friend going through a hard season. A meaningful reminder that she's loved and never alone. Bring God's Words to Your Whole Circle Perfect for thoughtful gifts at women's Bible studies, church retreats, prayer groups, and Christmas gatherings. Separate bulk gift offers below. Beautiful on the Outside. Rooted in Scripture on the Inside ⭐️⭐️⭐️⭐️⭐️ "I originally bought these for myself because I was struggling to stay consistent with my Bible reading. Now I pull a card every morning with my coffee, and it's become one of my favorite parts of the day. My daughter was visiting last Sunday and noticed them on my kitchen table. She ended up reading three cards before she left. That's when I decided to order more for her, my mother, and my two sisters. I love knowing we all have these little reminders of God's promises in our homes." — Nancy M. ⭐️⭐️⭐️⭐️⭐️ “I was looking for something meaningful for the women in my family this Christmas. Not another candle or something they'd forget about. When I saw these Scripture Cards, I immediately thought of my mom, my daughters, and my sister. I ordered five sets so each of them could have their own.” — Karen S. ⭐️⭐️⭐️⭐️⭐️ “I brought these to our women's Bible study, and the ladies absolutely loved reading through them together. Two of them even asked where I got them! I ended up ordering more for our Christmas gathering because I wanted everyone to go home with something meaningful.” — Ashley U. Limited Stock Alert: Order Soon to Secure Yours! Our handmade scripture cards are in high demand this season, and we're already at full capacity. Ordering early increases the chance of availability, so be sure to secure yours soon for a timely arrival!
-  Updated: 2026-10-29T10:04:40Z
+  Updated: 2026-11-06T00:12:55Z
   Vendor: Godisabove™
   Product Type: Accessories
   Availability: Available
@@ -1740,14 +1740,14 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/5e96abe3-90d4-4cb9-9f07-445037682ce0_52ef2ae6-f64b-435a-9c1f-3584ed779b53.jpg?v=1784138294
   Price: $0.00 USD
 - [Shipping Insurance](https://godisabove.com/products/shipping-insurance): From damage, theft or loss for just $4.95. Enjoy peace of mind with our Delivery Guarantee, covering any damage, theft, or loss that may occur during transit.
-  Updated: 2026-10-30T00:53:58Z
+  Updated: 2026-11-06T01:04:59Z
   Vendor: God Is Above
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/protection.png?v=1792439473
   Price: $4.95 USD
 - [Pink Zircon Cross Halo Ring - Priscilla](https://godisabove.com/products/pink-zircon-cross-halo-ring-priscilla): A MOTHER'S HEART IS A CHILD'S FIRST HOME A pink zircon cross halo ring, engraved with words every mother deserves to hear. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear A gift that says what's sometimes hard to put into words: thank you, and I love you. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:09:05Z
+  Updated: 2026-11-03T11:45:40Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1777,7 +1777,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_153105_7319617f-237c-49a7-b98a-e2cbcd11f59b.png?v=1793116529
     Price: $32.95 USD
 - [Violet Zircon Flower Cross Ring - Martha](https://godisabove.com/products/violet-zircon-flower-cross-ring-martha): A MOTHER'S LOVE IS GOD'S GIFT TO THE WORLD A violet zircon flower cross ring, engraved with a message for the mother who taught you love first. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever you look at it, remember a love that reflects His own: patient, kind and unconditional. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T22:07:59Z
+  Updated: 2026-11-04T21:35:56Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1807,7 +1807,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_142704_8d7933cd-b3ea-40b0-8b47-6735121bd814.png?v=1793114430
     Price: $34.95 USD
 - [Rose-Tone Zircon Leaf Ring - Elizabeth](https://godisabove.com/products/rose-tone-zircon-leaf-ring-elizabeth): BLESSED IS SHE WHO BELIEVED A rose-tone zircon leaf ring inspired by Luke 1:45, for the woman whose faith never let go. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 6–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Wear it as a reminder that God keeps His promises, even when the waiting feels long. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T10:22:44Z
+  Updated: 2026-11-03T16:27:45Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1833,7 +1833,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_135531_08e2c1ad-0515-44ad-90e9-64fd44c01188.png?v=1793111017
     Price: $32.95 USD
 - [Blue Zircon Infinity Ring - Leah](https://godisabove.com/products/blue-zircon-infinity-ring-leah): HIS MERCIES ARE NEW EVERY MORNING A blue zircon infinity ring inspired by Lamentations 3:22-23. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whatever yesterday held, today begins with new mercy. Let this ring remind you every morning. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:09:53Z
+  Updated: 2026-11-04T02:47:36Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1841,29 +1841,29 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   - [5](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868162842907)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [6](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868162875675)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [7](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868162908443)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [8](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868162941211)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [9](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868162973979)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [10](https://godisabove.com/products/blue-zircon-infinity-ring-leah?variant=53868163006747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_133115_0ba460aa-9d18-4089-ab05-de46a591c8c2.png?v=1793109072
-    Price: $34.95 USD
+    Price: $36.95 USD
 - [Marquise Violet Zircon Ring - Esther](https://godisabove.com/products/marquise-violet-zircon-ring-esther): I CAN DO ALL THINGS THROUGH CHRIST A marquise violet zircon ring engraved with the words of Philippians 4:13. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear For the days that ask more of you than you think you have. His strength is enough. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T17:03:37Z
+  Updated: 2026-11-04T16:13:28Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1893,7 +1893,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_132246_95c59d58-e45d-422c-9760-41526a0d9d5b.png?v=1793110518
     Price: $32.95 USD
 - [Blue Zircon Flower Rope Ring - Rachel](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel): FEAR NOT, FOR I AM WITH YOU A blue zircon flower ring on a twisted rope band, inspired by Isaiah 41:10. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Whenever fear knocks, look at your ring and remember His promise: you are never alone. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:09:58Z
+  Updated: 2026-11-06T00:05:45Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1901,29 +1901,29 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   - [5](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771686171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [6](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771718939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [7](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771751707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [8](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771784475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [9](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771817243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
   - [10](https://godisabove.com/products/blue-zircon-flower-rope-ring-rachel?variant=53869771653403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_124608_336d98d5-a13d-436a-a5eb-7c2684c3f1b3.png?v=1793110278
-    Price: $32.95 USD
+    Price: $34.95 USD
 - [Red Zircon Petal Cross Ring - Sarah](https://godisabove.com/products/red-zircon-petal-cross-ring-sarah): HIS LOVE ENDURES FOREVER A red zircon petal cross ring inspired by Psalm 136. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear A reminder that His love isn't seasonal, it endures through every chapter of your life. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:09:59Z
+  Updated: 2026-11-05T12:07:27Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -1983,7 +1983,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_120220_85a20372-e0f0-4bd0-b8c5-1108246a70df.png?v=1793109829
     Price: $32.95 USD
 - [Pink Zircon Flower Ring - Deborah](https://godisabove.com/products/pink-zircon-flower-ring-deborah): HER LOVE IS A REFLECTION OF HIS GRACE A pink zircon flower ring, made for the woman whose love has always pointed you to God. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear A gift for a mother, grandmother or friend whose love has always pointed you back to Him. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:09:59Z
+  Updated: 2026-11-06T00:06:46Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -2013,7 +2013,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_113743_79a78127-b7fb-4bec-aa02-4f775fe1620d.png?v=1793102263
     Price: $32.95 USD
 - [Green Zircon Vine Ring - Rebecca](https://godisabove.com/products/green-zircon-vine-ring-rebecca): HER CHILDREN ARISE AND CALL HER BLESSED A green zircon vine ring inspired by Proverbs 31:28, for the mother whose faith shaped your life. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear The perfect way to tell your mother how much her faith and love have shaped your life. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T22:08:02Z
+  Updated: 2026-11-04T23:53:57Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -2043,7 +2043,7 @@ This LLMS.txt file provides authoritative information and links relating to GodI
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115816_7f22ea8c-1f76-4385-b723-e9606f5e8cc4.png?v=1793109588
     Price: $32.95 USD
 - [Pavé Zircon Dove Cross Ring - Miriam](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam): PEACE THAT SURPASSES ALL UNDERSTANDING A pavé zircon cross with a dove, inspired by Philippians 4:7. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Available in US sizes 5–10. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear When your mind races, let the dove on your ring remind you of the peace only He can give. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T02:10:36Z
+  Updated: 2026-10-31T14:13:59Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
@@ -2051,41 +2051,41 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   - [5](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869779878171)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [6](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869779910939)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [7](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869779943707)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [8](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869779976475)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [9](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869780009243)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
   - [10](https://godisabove.com/products/pave-zircon-dove-cross-ring-miriam?variant=53869779845403)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_115710_4f08ba04-4249-4805-b9c8-941be12c7260.png?v=1793109465
-    Price: $34.95 USD
+    Price: $36.95 USD
 - [Pink Zircon Flower Cross Necklace - Lydia](https://godisabove.com/products/pink-zircon-flower-cross-necklace-lydia): FAITH IN FULL BLOOM A pink zircon flower cross, delicate and feminine, for a faith that keeps growing. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Like a flower, faith grows a little every day. Let this necklace remind you to keep blooming where God has planted you. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T22:07:23Z
+  Updated: 2026-10-31T04:26:36Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261029_095340_81512922-eff2-45a2-8989-7b0320ed46c2.png?v=1793268416
   Price: $38.95 USD
 - [Violet Zircon Winged Heart Necklace - Abigail](https://godisabove.com/products/violet-zircon-winged-heart-necklace-abigail): LOVE THAT LIFTS YOU UP A violet zircon heart with angel wings, a sweet reminder that you are loved and watched over. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. You Are Watched Over Whether you wear it for yourself or in memory of someone dear, let it remind you that love never truly leaves us. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T05:14:13Z
+  Updated: 2026-10-30T14:50:13Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_201649_ecff5a39-ac4a-4643-b0e5-2ed8b6793913.png?v=1793133882
-  Price: $38.95 USD
+  Price: $36.95 USD
 - [Green Zircon Tree of Life Necklace - Naomi](https://godisabove.com/products/green-zircon-tree-of-life-necklace-naomi): ROOTED IN FAITH A tree of life pendant with green zircon leaves, for a faith with deep roots and branches that reach for heaven. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Rooted And Grounded In Love Inspired by Ephesians 3:17. A reminder to stay rooted in Him, whatever season you're in. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
   Updated: 2026-10-29T06:22:02Z
   Vendor: God Is Above
@@ -2094,43 +2094,43 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_201116_b4466e62-e82b-40cb-a005-995be5c28701.png?v=1793132162
   Price: $38.95 USD
 - [Yellow Zircon Sunburst Cross Necklace - Hannah](https://godisabove.com/products/yellow-zircon-sunburst-cross-necklace-hannah): LET YOUR LIGHT SHINE A sunburst cross with a warm yellow zircon at its heart. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Light Of The World Inspired by Matthew 5:16. Wear it as a reminder to let your light shine wherever you go. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T04:26:31Z
+  Updated: 2026-11-04T20:20:39Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_194332_d4a84686-cc4e-479d-8a21-d77732dda738.png?v=1793131824
   Price: $38.95 USD
 - [Pavé Zircon Cross Necklace - Ruth](https://godisabove.com/products/pave-zircon-cross-necklace-ruth): CLASSIC FAITH, FOREVER A timeless pavé zircon cross that goes with everything, every day. ✓ Never rusts or turns green. ✓ Made from premium stainless steel, built for everyday wear. ✓ Delicate chain, comfortable to wear every day. ✓ The perfect gift for yourself, family or friends. ❤️ Arrives ready to gift in a beautiful Godisabove™ gift box. Daily Reminder To Be Guided By Faith, Not By Fear Simple, sparkling and meaningful. A reminder of His love that you can wear from morning to night. Loved for personal wear and as a heartfelt gift, it's a beautiful way to always remember to give God the glory.
-  Updated: 2026-10-29T05:39:54Z
+  Updated: 2026-10-31T12:26:13Z
   Vendor: God Is Above
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0717/3724/5979/files/hf_20261027_185555_c3c8e508-46fa-410d-82fd-3d304b9e5a52.png?v=1793130031
-  Price: $38.95 USD
+  Price: $34.95 USD
 [List Continued](https://godisabove.com/a/llms-agent/llms.txt?shop=moonblues-1444.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDQyOTg0NTU2OTgxOSwibGFzdF92YWx1ZSI6IjEwNDI5ODQ1NTY5ODE5In0%3D)
 
 ## Collections
 
 - [💛 Our Best Sellers](https://godisabove.com/collections/frontpage)
-  Updated: 2026-10-29T23:20:04Z
-  Total Products: 35
+  Updated: 2026-11-06T00:25:02Z
+  Total Products: 37
 - [All Products](https://godisabove.com/collections/jewellery)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-05T23:50:01Z
   Total Products: 83
 - [Bracelets](https://godisabove.com/collections/bracelets)
   Updated: 2026-10-28T11:11:29Z
   Total Products: 3
 - [Clothing](https://godisabove.com/collections/clothing)
-  Updated: 2026-10-21T11:08:20Z
+  Updated: 2026-10-31T11:06:03Z
   Total Products: 8
 - [Necklaces](https://godisabove.com/collections/necklaces)
-  Updated: 2026-10-29T11:05:22Z
+  Updated: 2026-11-05T12:06:46Z
   Total Products: 21
 - [Rings](https://godisabove.com/collections/rings)
-  Updated: 2026-10-29T11:05:22Z
+  Updated: 2026-11-05T12:06:46Z
   Total Products: 12
 - [Home Decor](https://godisabove.com/collections/home-decor)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-05T23:50:01Z
   Total Products: 48
 - [Virgin Mary Collection](https://godisabove.com/collections/virgin-mary-collection)
   Updated: 2026-10-28T11:11:29Z
@@ -2139,37 +2139,37 @@ This LLMS.txt file provides authoritative information and links relating to GodI
   Updated: 2026-10-29T11:05:22Z
   Total Products: 3
 - [Canvas](https://godisabove.com/collections/canvas)
-  Updated: 2026-10-25T11:06:35Z
+  Updated: 2026-11-05T12:06:46Z
   Total Products: 6
 - [💝 Timeless Christian Gifts For Every Season](https://godisabove.com/collections/gifting-season)
-  Updated: 2026-10-29T23:20:04Z
-  Total Products: 37
+  Updated: 2026-11-06T00:25:02Z
+  Total Products: 39
 - [Bible Verses Jar](https://godisabove.com/collections/bible-jar)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-05T23:50:01Z
   Total Products: 11
 - [Gifting Offers](https://godisabove.com/collections/gifting-offers)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-06T00:25:02Z
   Total Products: 23
 - [Bible Stickers](https://godisabove.com/collections/bible-stickers)
   Updated: 2026-10-24T11:06:59Z
   Total Products: 4
 - [🎅🎁🎄Christmas](https://godisabove.com/collections/🎅🎄christmas)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-05T23:50:01Z
   Total Products: 21
 - [Blankets](https://godisabove.com/collections/blankets)
-  Updated: 2026-10-19T11:06:08Z
+  Updated: 2026-11-05T12:06:46Z
   Total Products: 7
 - [Premium Jewelry](https://godisabove.com/collections/jewelry)
-  Updated: 2026-10-29T11:05:22Z
-  Total Products: 34
+  Updated: 2026-11-05T12:06:46Z
+  Total Products: 35
 - [Bible Projector](https://godisabove.com/collections/bible-projector)
-  Updated: 2026-10-28T11:04:50Z
+  Updated: 2026-11-05T12:06:46Z
   Total Products: 4
 - [Game Cards](https://godisabove.com/collections/game-cards)
-  Updated: 2026-10-29T11:05:22Z
+  Updated: 2026-11-06T00:25:02Z
   Total Products: 2
 - [Best  Family Products](https://godisabove.com/collections/best--family-products)
-  Updated: 2026-10-29T23:20:04Z
+  Updated: 2026-11-06T00:25:02Z
   Total Products: 10
 
 ## Blogs
