@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-29T17:02:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:00:27.389Z
+- Updated At: 2026-11-06T01:08:34.328Z
 
 ## Products
 
 - [Enlisted Vinyl](https://craigmorgan.merchmadeeasy.com/products/enlisted-ep-vinyl): Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-10-26T00:07:45Z
+  Updated: 2026-11-04T15:35:36Z
   Vendor: Craig Morgan
   Product Type: Vinyl
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Enlisted Vinyl (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/enlisted-vinyl-signed): SIGNED Enlisted EP on green vinyl This six-track release offers new takes on four of his biggest hits along with two new tracks and includes appearances by an all-star group of performers including Trace Adkins, Luke Combs, Gary LeVox, Jelly Roll, Blake Shelton, and Lainey Wilson. Tracklist:1. Raise The Bar (Craig Morgan & Luke Combs)2. Almost Home (Craig Morgan & Jelly Roll)3. Redneck Yacht Club (Craig Morgan & Blake Shelton)4. That’s What I Love About Sunday (Craig Morgan & Gary LeVox)5. International Harvester (Craig Morgan & Lainey Wilson)6. That Ain’t Gonna Be Me (Craig Morgan & Trace Adkins)
-  Updated: 2026-10-20T14:59:08Z
+  Updated: 2026-11-05T11:25:37Z
   Vendor: Craig Morgan
   Product Type: Vinyl
   Availability: Available
@@ -233,7 +233,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMRYCKOOZIE.png?v=1753805537
   Price: $5.00 USD
 - [God, Family, Country - Paperback (SIGNED)](https://craigmorgan.merchmadeeasy.com/products/god-family-country-paperback-signed): Craig Morgan's memoir, God, Family, Country on paperback. Autographed on the inside cover. Hunting down bad guys in the jungles of Panama, working with the CIA, rescuing children from prostitution rings—these aren’t scenes out of an action movie; they’re the real-life exploits of Country Music star Craig Morgan. Even the most devoted fans don’t know all there is to know about the singer and dedicated family man. Now they can go directly to the source, as Craig tells all in his new memoir written with American Sniper co-author Jim DeFelice. God, Family, Country details the many facets of Craig's life. An on-stage appearance with his father’s band at age ten may have planted the seeds for life as a country star, but first he trained as a paratrooper in the army. With a range of combat experience and swift advancement through the ranks, he was on his way to the highest enlisted ranks in the army. Then came a momentous decision: he left the active military to pursue music. With unwavering support from his wife and a pack of part-time jobs, Craig toughed out the lean years and achieved his first big success with the poignant ballad “Almost Home.” Other hits soon followed, from party songs like “Redneck Yacht Club” to the soul-rending “The Father, My Son, and the Holy Ghost.” Born from the anguish of his son Jerry’s passing, the song’s tribute has consoled and inspired millions across the world. Duty to country has been a constant throughout his life and globe-spanning career. In 2006, as “That’s What I Love about Sunday” topped country radio charts, Craig was riding in a convoy of Humvees in Iraq. An avid outdoorsman, a former sheriff’s deputy who’s still a member of the auxiliary, and always a husband and father first, Craig Morgan will inspire you with his life lived by the deepest values: God, family, country.
-  Updated: 2026-10-22T19:05:26Z
+  Updated: 2026-11-05T20:47:17Z
   Vendor: Craig Morgan
   Product Type: Book
   Availability: Available
@@ -254,14 +254,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMHATTWOTONE.png?v=1763998570
   Price: $35.00 USD
 - [Craig Morgan VIP 11/7 – Nashville, TN](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-11-7-nashville-tn): 📍 Ryman Auditorium One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show. -Tickets To Show Must Be Purchased Separately-
-  Updated: 2026-10-28T23:26:52Z
-  Vendor: Craig Morgan
-  Product Type: VIP
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
-  Price: $99.99 USD
-- [Craig Morgan VIP 11/1 –   Irvington, AL](https://craigmorgan.merchmadeeasy.com/products/craig-morgan-vip-11-1-irvington-al): 📍 Southern Roots Country Festival One (1) Pre-Show M&G and Photo Opportunity with Craig Morgan Must be purchased before 11:59PM the day before the show.
-  Updated: 2026-10-13T02:34:16Z
+  Updated: 2026-11-03T16:09:51Z
   Vendor: Craig Morgan
   Product Type: VIP
   Availability: Available
@@ -275,7 +268,7 @@
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMVIP-4.png?v=1751487894
   Price: $99.99 USD
 - [Sunday Hat](https://craigmorgan.merchmadeeasy.com/products/sunday-hat): Craig Morgan Sunday Hat in navy/natural. Snapback Closure
-  Updated: 2026-10-26T00:07:47Z
+  Updated: 2026-11-04T15:54:51Z
   Vendor: Craig Morgan
   Product Type: Hat
   Availability: Available
@@ -305,15 +298,15 @@
   - [3XL](https://craigmorgan.merchmadeeasy.com/products/eagle-tee-1?variant=52419915972828)
     Availability: Not Available
     Price: $35.00 USD
-- [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd): My Country on standard CD This item is a pre-order that will ship upon release on November 6, 2026.
-  Updated: 2026-10-22T20:19:17Z
+- [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd): My Country on standard CD
+  Updated: 2026-11-05T21:51:31Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0762/6935/5228/files/CMMYCOUNTRYCD-2_2d517ad3-16a8-491c-93bb-65a55b9b77b3.png?v=1789585981
   Price: $14.98 USD
-- [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd-signed): My Country on SIGNED standard CD This item is a pre-order that will ship upon release on November 6, 2026.
-  Updated: 2026-10-28T23:25:57Z
+- [My Country - CD Craig Morgan](https://craigmorgan.merchmadeeasy.com/products/my-country-cd-signed): My Country on SIGNED standard CD
+  Updated: 2026-11-06T00:47:56Z
   Vendor: Craig Morgan
   Product Type: CD
   Availability: Available
@@ -323,22 +316,22 @@
 ## Collections
 
 - [Home page](https://craigmorgan.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-26T11:21:40Z
+  Updated: 2026-11-05T12:18:11Z
   Total Products: 34
 - [Apparel](https://craigmorgan.merchmadeeasy.com/collections/apparel)
   Updated: 2026-10-26T11:21:40Z
   Total Products: 19
 - [Accessories](https://craigmorgan.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-26T11:21:40Z
+  Updated: 2026-11-05T12:18:11Z
   Total Products: 9
 - [All](https://craigmorgan.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-29T11:16:38Z
+  Updated: 2026-11-05T12:18:11Z
   Total Products: 24
 - [Music](https://craigmorgan.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-29T11:16:38Z
+  Updated: 2026-11-05T12:18:11Z
   Total Products: 8
 - [VIP TICKETS](https://craigmorgan.merchmadeeasy.com/collections/vip)
-  Updated: 2026-10-29T11:16:38Z
+  Updated: 2026-11-04T12:17:13Z
   Total Products: 60
 - [Upsell](https://craigmorgan.merchmadeeasy.com/collections/upsell)
   Updated: 2026-10-26T11:21:40Z
@@ -359,7 +352,7 @@
   Updated: 2026-10-26T11:21:40Z
   Total Products: 7
 - [My Country](https://craigmorgan.merchmadeeasy.com/collections/my-country)
-  Updated: 2026-10-29T11:16:38Z
+  Updated: 2026-11-05T12:18:11Z
   Total Products: 2
 
 ## Store Pages
