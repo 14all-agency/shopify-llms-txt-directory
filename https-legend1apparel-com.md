@@ -6,12 +6,12 @@
 - Timezone: America/Phoenix
 - Created At: 2026-06-21T13:13:20Z
 - Contact Email: legend1apparel@gmail.com
-- Updated At: 2026-10-30T04:49:43.011Z
+- Updated At: 2026-11-06T05:00:18.255Z
 
 ## Products
 
 - [1966 Ford Mustang Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1966-ford-mustang-graphic-tee): Shop the iconic 1966 Ford Mustang Hardtop graphic tee. Bold retro American muscle car design on a premium tee. Perfect for classic car fans.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T22:05:57Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -161,7 +161,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1923 Ford T Bucket T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1923-ford-t-bucket-t-shirt): Shop the 1923 Ford T Bucket T-Shirt featuring a bold vintage American muscle design. Premium quality graphic tee with free shipping available.
-  Updated: 2026-09-11T04:32:44Z
+  Updated: 2026-10-30T21:31:46Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -311,7 +311,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1932 Ford Deuce Coupe Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1932-ford-deuce-coupe-graphic-tee): Shop the classic 1932 Ford Deuce Coupe graphic tee. Vintage American hot rod design on a premium tee. Perfect gift for classic car enthusiasts.
-  Updated: 2026-09-11T04:32:42Z
+  Updated: 2026-10-30T21:32:03Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -461,7 +461,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1933 Pontiac Coupe T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1933-pontiac-coupe-t-shirt): Celebrate automotive history with the 1933 Pontiac Coupe T-Shirt. A bold, retro graphic tee featuring the 5 Window Coupe from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T22:59:27Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -611,7 +611,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1940 Ford Coupe Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1940-ford-coupe-graphic-tee): Shop the 1940 Ford Coupe graphic tee. Classic American hot rod style on a premium tee. Bold vintage design for true car lovers.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-31T01:13:25Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -761,7 +761,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1947 Ford Coupe T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1947-ford-coupe-t-shirt): Get this 1947 Ford Coupe T-Shirt featuring a bold retro American muscle graphic design. Premium quality vintage style from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:48Z
+  Updated: 2026-10-30T23:15:15Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -911,7 +911,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1954 Chevy Bel Air T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1954-chevy-bel-air-t-shirt): Get this 1954 Chevy Bel Air T-Shirt featuring a retro American muscle graphic on a premium tee. A timeless choice for classic Chevrolet fans.
-  Updated: 2026-09-11T04:32:45Z
+  Updated: 2026-10-30T22:36:10Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1061,7 +1061,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Bel Air T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1955-chevy-bel-air-t-shirt): Celebrate a legend with this 1955 Chevy Bel Air T-Shirt. A bold retro graphic tee for classic car enthusiasts from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:50Z
+  Updated: 2026-10-30T22:44:32Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1211,7 +1211,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Bel Air Nomad T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1955-chevy-bel-air-nomad-t-shirt): Celebrate a vintage American classic with the 1955 Chevy Bel Air Nomad T-Shirt. A premium graphic tee featuring a timeless wagon design for collectors.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T21:44:29Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1361,7 +1361,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Chevy Truck Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1955-chevy-truck-graphic-tee): Rep the 1955 Chevy Pickup with this retro classic truck graphic tee. Bold American muscle design on a premium tee from Legend 1 Apparel.
-  Updated: 2026-10-19T23:42:47Z
+  Updated: 2026-10-30T21:30:43Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1511,7 +1511,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1955 Ford Thunderbird T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1955-ford-thunderbird-t-shirt): Get this premium 1955 Ford Thunderbird T-Shirt featuring a retro American muscle car design. A classic graphic tee and the perfect gift for Ford fans.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T21:38:59Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1661,7 +1661,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-chevy-bel-air-t-shirt): Celebrate a classic with this 1956 Chevy Bel Air T-Shirt. A bold retro graphic tee for fans of American muscle, available now from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T21:30:42Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1811,7 +1811,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-chevy-bel-air-muscle-tee): Get this premium 1956 Chevy Bel Air T-Shirt featuring a bold vintage graphic. A high-quality tribute to a classic American muscle car from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:44Z
+  Updated: 2026-10-30T22:18:39Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -1961,7 +1961,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Bel Air Nomad T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-chevy-bel-air-nomad-t-shirt): Get the 1956 Chevy Bel Air Nomad T-Shirt featuring a classic American wagon design on a premium tee. A must-have for Chevrolet station wagon fans.
-  Updated: 2026-09-11T04:32:41Z
+  Updated: 2026-10-30T22:08:45Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2111,7 +2111,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Chevy Truck T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-chevy-truck-t-shirt): Shop this 1956 Chevy Truck T-Shirt featuring a bold American muscle design. A premium retro graphic tee for classic truck fans from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:51Z
+  Updated: 2026-10-30T21:43:37Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2261,7 +2261,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Ford F100 Truck T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-ford-f100-truck-t-shirt): Get this 1956 Ford F100 Truck T-Shirt featuring a vintage American classic truck design. A premium graphic tee that makes a great gift for Ford truck fans.
-  Updated: 2026-09-11T04:32:43Z
+  Updated: 2026-10-30T22:44:13Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2411,7 +2411,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1956 Pontiac Safari T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1956-pontiac-safari-t-shirt): Celebrate a classic with the 1956 Pontiac Safari T-Shirt. A bold retro graphic tee featuring the rare wagon, crafted for American classic car enthusiasts.
-  Updated: 2026-09-11T04:32:42Z
+  Updated: 2026-10-30T22:31:29Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2561,7 +2561,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevy Bel Air T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1957-chevy-bel-air-t-shirt): Celebrate a classic with the 1957 Chevy Bel Air T-Shirt. Featuring an iconic American muscle car design on a premium tee for Chevrolet fans.
-  Updated: 2026-09-11T04:32:51Z
+  Updated: 2026-10-30T22:31:14Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -2711,7 +2711,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1957 Chevy Truck Graphic Tee | Legend 1 Apparel](https://legend1apparel.com/products/1957-chevy-truck-graphic-tee): Rep the 1957 Chevy Pickup with this retro classic truck graphic tee. Bold American muscle design on a premium tee from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:45Z
+  Updated: 2026-10-30T22:49:08Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3011,7 +3011,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1960 Chevrolet Corvette C1 T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1960-chevrolet-corvette-c1-shirt): Celebrate American muscle with this 1960 Chevrolet Corvette C1 T-Shirt. A bold, retro graphic tee for classic car enthusiasts from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:44Z
+  Updated: 2026-10-30T21:33:05Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3311,7 +3311,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1963 Chevrolet Corvette T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1963-chevrolet-corvette-t-shirt): Celebrate a classic with this 1963 Chevrolet Corvette T-Shirt. A bold retro graphic tee for fans of American muscle cars from Legend 1 Apparel.
-  Updated: 2026-09-11T04:32:51Z
+  Updated: 2026-10-30T22:03:34Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3611,7 +3611,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1963 Chevy Nova SS Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1963-chevy-nova-ss-shirt): Get this premium 1963 Chevy Nova SS shirt featuring a bold retro American muscle car design. A high-quality graphic tee for classic Chevy fans.
-  Updated: 2026-09-11T04:32:44Z
+  Updated: 2026-10-30T22:44:51Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3761,7 +3761,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1963 Ford Falcon T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1963-ford-falcon-t-shirt): Get this 1963 Ford Falcon T-Shirt featuring a bold retro American classic car graphic design. Premium quality vintage style from Legend 1 Apparel.
-  Updated: 2026-10-23T13:15:36Z
+  Updated: 2026-10-30T21:39:30Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -3911,7 +3911,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1964 Ford Falcon T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1964-ford-falcon-t-shirt): Shop this 1964 Ford Falcon t-shirt featuring a classic American muscle car design on a premium tee. A perfect gift for Ford fans and car enthusiasts.
-  Updated: 2026-09-11T04:32:53Z
+  Updated: 2026-10-31T01:13:29Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4211,7 +4211,7 @@
     Availability: Available
     Price: $24.00 USD
 - [1965 Chevrolet Chevelle SS T-Shirt | Legend 1 Apparel](https://legend1apparel.com/products/1965-chevelle-ss-t-shirt): Get your 1965 Chevrolet Chevelle SS T-Shirt featuring a bold retro American muscle car design. A premium graphic tee perfect for classic Chevy fans.
-  Updated: 2026-09-11T04:32:47Z
+  Updated: 2026-10-30T22:45:37Z
   Vendor: Legend 1 Apparel
   Product Type: 
   Availability: Available
@@ -4515,22 +4515,22 @@
 ## Collections
 
 - [Home page](https://legend1apparel.com/collections/frontpage)
-  Updated: 2026-10-29T11:23:09Z
+  Updated: 2026-11-04T12:23:22Z
   Total Products: 419
 - [Route 66 Centennial T-Shirt](https://legend1apparel.com/collections/route-66-centennial-t-shirt): Route 66 Centennial T-Shirt. Featuring Different Classic cars or Trucks on Route 66 100 Year anniversary. All watermarks will be removed on the final print on shirt.
   Updated: 2026-10-27T11:23:34Z
   Total Products: 90
 - [American Muscle T-shirt](https://legend1apparel.com/collections/american-muscle-t-shirt): American Muscle T-shirt, Featuring Classic cars or Trucks. All watermarks will be removed from final print on shirt
-  Updated: 2026-10-29T11:23:09Z
+  Updated: 2026-11-04T12:23:22Z
   Total Products: 83
 - [Bowtie Nation T-shirt](https://legend1apparel.com/collections/bowtie-nation-t-shirt): Shop the Bowtie Nation T-shirt collection at Legend 1 Apparel.
-  Updated: 2026-10-20T11:26:34Z
+  Updated: 2026-11-02T12:23:10Z
   Total Products: 62
 - [American Classic T-shirt](https://legend1apparel.com/collections/american-classic-t-shirt): Shop American Classic graphic tees with bold retro Americana designs. Premium quality t-shirts for car and vintage culture enthusiasts.
-  Updated: 2026-10-27T11:23:34Z
+  Updated: 2026-11-03T12:22:32Z
   Total Products: 86
 - [Route 66 America's Heartland](https://legend1apparel.com/collections/route-66-americas-heartland): Shop Route 66 America's Heartland graphic tees. Bold Americana designs inspired by the iconic highway and classic roadside culture.
-  Updated: 2026-10-29T11:23:09Z
+  Updated: 2026-11-03T12:22:32Z
   Total Products: 84
 - [Your Car Custom T-shirt](https://legend1apparel.com/collections/your-car-custom-t-shirt)
   Updated: 2026-10-22T11:30:56Z
@@ -4546,7 +4546,7 @@
 ## Policies
 
 - [Privacy Policy](https://legend1apparel.com/policies/privacy-policy)
-  Updated: 2026-06-21T13:13:31Z
+  Updated: 2026-10-31T22:18:20Z
 - [Shipping Policy](https://legend1apparel.com/policies/shipping-policy)
   Updated: 2026-08-07T12:19:48Z
 - [Refund Policy](https://legend1apparel.com/policies/refund-policy)
