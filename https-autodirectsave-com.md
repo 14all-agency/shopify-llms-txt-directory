@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-10-02T02:47:03Z
 - Contact Email: triciatoussi262@gmail.com
-- Updated At: 2026-10-30T00:54:55.559Z
+- Updated At: 2026-11-06T01:02:07.117Z
 
 ## Products
 
@@ -1058,7 +1058,7 @@
   Image: https://cdn.shopify.com/s/files/1/0779/8875/7720/files/36c51392.jpg?v=1759414342
   Price: $99.99 USD
 - [12 Pattern LED Flasher](https://autodirectsave.com/products/12-pattern-led-flasher): Multifunction flasher is for LED's only. 12 Different flash patterns and has constant on. Flasher box is waterproof. 2 volt in 12 volt out. 24 volt in 24 volt out. Draws less than 400 mA. Green wire for pattern changing. It does hold it's flash meaning; if you shut it off at a certain flash, when you turn it back on, it will be the same flash as you shut it off at.
-  Updated: 2026-09-18T23:16:50Z
+  Updated: 2026-11-03T16:22:51Z
   Vendor: ADS
   Product Type: 
   Availability: Available
@@ -1273,7 +1273,7 @@
 ## Policies
 
 - [Privacy Policy](https://autodirectsave.com/policies/privacy-policy)
-  Updated: 2025-10-02T02:47:14Z
+  Updated: 2026-10-30T20:15:30Z
 - [Shipping Policy](https://autodirectsave.com/policies/shipping-policy)
   Updated: 2026-09-18T17:27:52Z
 - [Refund Policy](https://autodirectsave.com/policies/refund-policy)
