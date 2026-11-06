@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-06T15:56:29Z
 - Contact Email: admin@freedomkettlecorn.com
-- Updated At: 2026-10-30T00:55:57.490Z
+- Updated At: 2026-11-06T01:05:33.377Z
 
 ## Products
 
@@ -469,19 +469,19 @@
 ## Collections
 
 - [Home page](https://www.freedomkettlecorn.com/collections/frontpage)
-  Updated: 2026-10-26T11:15:26Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 24
 - [All Popcorn](https://www.freedomkettlecorn.com/collections/imported-products): Shop all gourmet kettle corn from Freedom Kettle Corn of Arkansas. Sweet, savory, spicy & seasonal flavors handcrafted fresh in small batches. Order online!
-  Updated: 2026-10-26T11:15:26Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 24
 - [Sweet](https://www.freedomkettlecorn.com/collections/sweet-popcorn): Shop handcrafted sweet kettle corn from Freedom Kettle Corn of Arkansas. Classic caramel, cinnamon, and more. Order online for fresh-popped gourmet flavor.
-  Updated: 2026-10-26T11:15:26Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 13
 - [Savory](https://www.freedomkettlecorn.com/collections/savory-popcorn): Explore savory gourmet kettle corn from Freedom Kettle Corn of Arkansas. Bold, handcrafted flavors made fresh in small batches. Order online today!
-  Updated: 2026-10-08T11:15:22Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 4
 - [Spicy](https://www.freedomkettlecorn.com/collections/spicy-popcorn): Turn up the heat with Freedom Kettle Corn's spicy flavors. Handcrafted in small batches in Arkansas for bold, fiery snacking. Order online today!
-  Updated: 2026-10-08T11:15:22Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 4
 - [Bulk Party Bags](https://www.freedomkettlecorn.com/collections/party-bags): Order bulk kettle corn party bags from Freedom Kettle Corn of Arkansas. Perfect for events, weddings & parties. Fresh, handcrafted gourmet popcorn. Order now!
   Updated: 2026-10-14T11:42:01Z
@@ -493,7 +493,7 @@
   Updated: 2026-10-14T11:42:01Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://www.freedomkettlecorn.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-26T11:15:26Z
+  Updated: 2026-10-30T11:13:36Z
   Total Products: 26
 
 ## Store Pages
@@ -506,7 +506,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.freedomkettlecorn.com/policies/privacy-policy)
-  Updated: 2026-01-06T15:56:42Z
+  Updated: 2026-10-30T07:20:53Z
 - [Refund Policy](https://www.freedomkettlecorn.com/policies/refund-policy)
   Updated: 2026-04-15T17:19:55Z
 - [Terms of Service](https://www.freedomkettlecorn.com/policies/terms-of-service)
