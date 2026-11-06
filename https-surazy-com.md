@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-07-05T10:38:43Z
 - Contact Email: hdmans@yahoo.com
-- Updated At: 2026-10-30T00:59:37.439Z
+- Updated At: 2026-11-06T01:04:00.216Z
 
 ## Products
 
@@ -2271,14 +2271,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/92dea3e7-ea5c-4971-8bc6-e2e24d117f87.jpg?v=1698013785
   Price: $75.95 USD
-- [Buy Dragon Year Women's Pure Silver Bracelet - Durable Sterling Silver Jewelry](https://surazy.com/products/dragon-year-silver-bracelet-women-do-not-fade): Surprise your loved ones with the Dragon Year Women's Pure Silver Bracelet, a symbol of good fortune and timeless beauty. Crafted from pure silver, this fade-resistant bracelet is the perfect gift for special occasions
-  Updated: 2026-07-27T10:16:16Z
-  Vendor: SURAZY
-  Product Type: JEWELLERY
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0789/5302/1744/files/dfef2855-cfc8-48c9-80a6-39a2e89ccea9.jpg?v=1698013924
-  Price: $115.75 USD
-[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTYzMTA5MTY4LCJsYXN0X3ZhbHVlIjoiODc4NDk2MzEwOTE2OCJ9)
+[List Continued](https://surazy.com/a/llms-agent/llms.txt?shop=hassan-mansaray-gk.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzg0OTYwODgwOTQ0LCJsYXN0X3ZhbHVlIjoiODc4NDk2MDg4MDk0NCJ9)
 
 ## Collections
 
@@ -3071,6 +3064,15 @@
     Author: Surazy.com
   - [Elevate Your Style with the Tied Printed Surplice Short Sleeve Dress This Season](https://surazy.com/blogs/news/elevate-your-style-with-the-tied-printed-surplice-short-sleeve-dress-this-season): Elevate Your Style with the Tied Printed Surplice Short Sleeve Dress This Season
     Updated: 2026-10-28T00:45:57Z
+    Author: Surazy.com
+  - [Exploring the Comfort and Style of Half Zip Round Neck One-Piece Swimwear](https://surazy.com/blogs/news/exploring-the-comfort-and-style-of-half-zip-round-neck-one-piece-swimwear): Exploring the Comfort and Style of Half Zip Round Neck One-Piece Swimwear
+    Updated: 2026-10-31T00:07:49Z
+    Author: Surazy.com
+  - [Effortlessly Enhance Your Look with the Ruched Surplice Long Sleeve Dress](https://surazy.com/blogs/news/effortlessly-enhance-your-look-with-the-ruched-surplice-long-sleeve-dress): Effortlessly Enhance Your Look with the Ruched Surplice Long Sleeve Dress
+    Updated: 2026-11-02T01:01:35Z
+    Author: Surazy.com
+  - [How the Women's Beads Chiffon Party Evening Dress Plus Size Combines Elegance and Comfort for Special Occasions](https://surazy.com/blogs/news/how-the-womens-beads-chiffon-party-evening-dress-plus-size-combines-elegance-and-comfort-for-special-occasions): How the Women's Beads Chiffon Party Evening Dress Plus Size Combines Elegance and Comfort for Special Occasions
+    Updated: 2026-11-04T00:46:20Z
     Author: Surazy.com
 
 ## Store Pages
