@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-02-04T00:05:27Z
 - Contact Email: dlaboutiqueorders@gmail.com
-- Updated At: 2026-10-30T01:06:43.391Z
+- Updated At: 2026-11-06T01:11:43.831Z
 
 Welcome to D'LA BOUTIQUE 
 
@@ -1183,7 +1183,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/60af55328168497983f75c0deddd16a3-Max-Origin.webp?v=1789507415
     Price: $59.66 USD
 - [Judy Blue Full Size High Waist Tummy Control Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-high-waist-tummy-control-straight-jeans): High Waist Tummy Control Jeans are designed to flatter your figure and give you a sleek silhouette. They feature a high waistband that smooths and shapes your tummy area for a slimming effect. These jeans are perfect for creating a stylish and chic look while also providing comfortable support. The tummy control feature helps to accentuate your curves and enhance your overall appearance. These jeans are versatile and can be dressed up or down for various occasions. Say goodbye to muffin tops and hello to a more confident you with High Waist Tummy Control Jeans!Style #:88869 Features: Washed, Pocketed Stretch: Moderate stretch Material composition: 74% cotton, 11% polyester, 6% t400, 7% rayon, 2% lycra Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 32 10 1/25 24 30 32 10 3/26 25 31 32 10.5 5/27 26 32 32 10.5 7/28 27 33 32 11 9/29 28 34 32 11 11/30 29 35 32 11 13/31 30 37 32 11.5 15/32 31 38 32 11.5 14W 31 40 32 11.5 16W 30 40 32 12 18W 32 42 32 12 20W 35 45 32 12.5 22W 37 47 32 13 24W 39 50 32 13.5
-  Updated: 2026-10-28T16:00:37Z
+  Updated: 2026-11-05T00:14:16Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1249,7 +1249,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/68f76e99-9b3f-4291-863f-6dc1abb238a2-Max.webp?v=1789507464
     Price: $64.00 USD
 - [RISEN Full Size Mid Rise Crop Wide Wide Cuffed Jeans Plus Size](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size): These Mid Rise Crop Wide Cuffed Jeans are the perfect addition to your wardrobe for a trendy and casual look. The mid rise waist offers a comfortable fit, while the wide leg and cuffed hem add a stylish touch. Made from high quality denim, these jeans are sure to become a staple piece in your collection. Pair them with a tucked-in blouse and sneakers for a chic and effortless outfit. Elevate your denim game with these fashionable and versatile jeans. Features:Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:68% Cotton 30%Polyester 2%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0(24) 24 31 9.8 28.5-34.8 1(25) 25 32 9.8 28.5-34.8 3(26) 26 33 9.8 28.5-34.8 5(27) 27 34 10.8 28.5-34.8 7(28) 28 35 10.8 28.5-34.8 9(29) 29 36 10.8 28.5-34.8 11(30) 30 37 11.8 28.5-34.8 13(31) 31 38 11.8 28.5-34.8 15(32) 32 39 11.8 28.5-34.8 1XL 34 40 12.3 29.5-35.8 2XL 36 41 12.3 29.5-35.8 3XL 38 42 12.3 29.5-35.8
-  Updated: 2026-10-25T21:01:46Z
+  Updated: 2026-11-01T18:05:47Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1271,7 +1271,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 7](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137268931)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 9](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137301699)
@@ -1287,7 +1287,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 15](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137400003)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $64.86 USD
   - [DARK / 1XL](https://dlaboutique.shop/products/risen-full-size-mid-rise-crop-wide-wide-cuffed-jeans-plus-size?variant=54085137432771)
@@ -1303,7 +1303,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4ed98818506d4aad83d52cabb4540e54-Max-Origin.webp?v=1789507480
     Price: $68.34 USD
 - [Judy Blue Full Size Tummy Control Cut Raw Hem Straight Jeans](https://dlaboutique.shop/products/judy-blue-full-size-tummy-control-cut-raw-hem-straight-jeans): The Tummy Control Cut Raw Hem Straight jeans combine style and comfort effortlessly. Designed with a flattering high-waist and tummy control feature, they provide a smooth silhouette while enhancing your natural shape. The raw hem adds a trendy touch, making these jeans perfect for both casual and dressed-up looks. Pair them with a fitted top or an oversized sweater for versatile styling options. Made from soft, stretchy fabric, they offer all-day comfort without compromising on fashion. Elevate your wardrobe with these chic and functional straight jeans!Style #: 88848 Features: Washed, Pocketed Stretch: Moderate stretch Material composition:95% Cotton, 5% spandex Care instructions: Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Inseam Rise 0/24 23 29 33 11 1/25 24 30 33 11 3/26 25 31 33 11 5/27 26 32 33 11.5 7/28 27 33 33 11.5 9/29 28 34 33 11.5 11/30 29 35 33 12 13/31 30 37 33 12 15/32 31 38 33 12 14W 31 40 33.5 12.5 16W 30 40 33.5 12.5 18W 32 42 33.5 12.5 20W 35 45 33.5 13 22W 37 47 33.5 13 24W 39 50 33.5 13
-  Updated: 2026-10-27T15:35:08Z
+  Updated: 2026-11-03T15:13:45Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1948,48 +1948,6 @@ Welcome to D'LA BOUTIQUE
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/4998372e-e340-4c51-9aef-e997a63fcb7b-Max-Origin.webp?v=1789515425
     Price: $59.64 USD
-- [Judy Blue Mid Rise 90s Straight Jeans](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans): Embrace retro vintage vibes with these Mid Rise 90s Straight Jeans, designed with a classic mid-rise waist for a comfortable, figure-flattering fit. The iconic 90s straight-leg cut delivers a timeless relaxed silhouette that flatters all body types and offers unrestricted movement. Made from premium soft denim fabric for all-day breathability and durable wear. Effortlessly versatile to pair with tees, tank tops, blouses and crop tops, perfect for daily casual wear, weekend outings, street style and everyday retro styling.Style #: 82719 Features:Pocketed Stretch:Slightly stretchy Material composition:93% Cotton, 6% Polyester, 1% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.5 32 1/25 25 32 10.5 32 3/26 26 33 10.5 32 5/27 27 34 11.5 32 7/28 28 35 11.5 32 9/29 29 36 11.5 32 11/30 30 37 12.5 32 13/31 31 38 12.5 32 15/32 32 39 12.5 32
-  Updated: 2026-10-27T10:04:21Z
-  Vendor: Trendsi
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-  - [MD / 0(24)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152342211)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 1(25)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152374979)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 3(26)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152407747)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 5(27)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152440515)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 7(28)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152473283)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 9(29)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152506051)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 11(30)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152538819)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 13(31)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152571587)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
-  - [MD / 15(32)](https://dlaboutique.shop/products/judy-blue-mid-rise-90s-straight-jeans?variant=54085152604355)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/23f2f18a-c537-4dcb-b6c0-e0b89979519f-Max-Origin.webp?v=1789515491
-    Price: $69.50 USD
 - [Judy Blue Mid Rise Flare Jeans with Front Flap Pockets](https://dlaboutique.shop/products/judy-blue-mid-rise-flare-jeans-with-front-flap-pockets): These Mid Rise Flare Jeans feature a comfortable mid-rise waist and a timeless flare leg design that elongates the legs for a flattering silhouette. Equipped with stylish front flap pockets, they add a vintage-inspired detail and practical storage space. Made from soft stretch denim, they ensure all-day comfort and flexibility while maintaining a polished shape. Perfect for casual daily wear, they pair easily with tees, blouses, and boots to create retro-inspired or modern casual looks. With their classic flare cut and functional pocket design, they blend comfort, versatility, and timeless denim style effortlessly.Style #: 881113 Features:Raw Hem,Pocketed Stretch:Slightly stretchy Material composition:94%Cotton ，5%Polyester，1% Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10.3 33 1/25 25 32 10.3 33 3/26 26 33 10.3 33 5/27 27 34 10.8 33 7/28 28 35 10.8 33 9/29 29 36 10.8 33 11/30 30 37 12.5 33 13/31 31 38 12.5 33 15/32 32 39 12.5 33
   Updated: 2026-10-29T23:18:57Z
   Vendor: Trendsi
@@ -2033,7 +1991,7 @@ Welcome to D'LA BOUTIQUE
     Image: https://cdn.shopify.com/s/files/1/0681/2047/7891/files/57361ed3-20cc-4235-99b5-5eaa50ea183d-Max-Origin.webp?v=1789515502
     Price: $68.92 USD
 - [Judy Blue Full Size Mid Rise Bootcut Jeans with Contrast Wash & Front Patch Pockets Plus Size](https://dlaboutique.shop/products/judy-blue-full-size-mid-rise-bootcut-jeans-with-contrast-wash-front-patch-pockets-plus-size): These Mid Rise Bootcut Jeans feature a stylish contrast wash and front patch pockets for a modern twist on a classic style. The mid-rise design offers a flattering fit that sits comfortably at the waist. The bootcut silhouette adds a touch of retro flair while elongating the legs. The contrast wash detailing adds visual interest and makes these jeans stand out from the crowd. Elevate your denim collection with these fashionable and edgy jeans that are sure to turn heads.Style#:881053 Features:Buttoned,Pocketed Stretch:Slightly stretchy Material composition:81%Cotton 16%Polyester 3%Spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Hip Rise Inseam 0/24 24 31 10 30 1/25 25 32 10 30 3/26 26 33 10 30 5/27 27 34 11 30 7/28 28 35 11 30 9/29 29 36 11 30 11/30 30 37 12 30 13/31 31 38 12 30 15/32 32 39 12 30 14W 33 40 12.5 31 16W 34 41 12.5 31 18W 35 42 12.5 31 20W 36 43 13 31 22W 37 44 13 31 24W 38 45 13 31
-  Updated: 2026-10-25T21:16:21Z
+  Updated: 2026-11-05T05:48:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2651,6 +2609,40 @@ Welcome to D'LA BOUTIQUE
     Updated: 2026-10-29T03:58:45Z
     Author: Editorial Team
     Tags: bamboo sleepwear, bamboo vs. cotton pajamas, benefits of bamboo sleepwear for night sweats, how to wash bamboo pajamas, sleepwear for menopause night sweats, what to wear when you sweat at night
+  - [Are Curvy Fashion Online Boutiques Worth It?](https://dlaboutique.shop/blogs/news/curvy-fashion-online-boutique-options): Are Curvy Fashion Online Boutiques Worth It?
+    Updated: 2026-10-30T01:47:35Z
+    Author: Editorial Team
+    Tags: best online boutiques for plus-size clothing, curvy fashion, curvy fashion online boutique options, how to find the right plus-size fit, trendy plus-size clothing online
+  - [How to Find Unique Fashion Pieces Online](https://dlaboutique.shop/blogs/news/how-to-find-unique-fashion-pieces-online): How to Find Unique Fashion Pieces Online
+    Updated: 2026-10-31T01:48:36Z
+    Author: Editorial Team
+    Tags: finding unique fashion pieces online, how to find your personal style, online boutiques for women's clothing, quality women's clothing online, statement pieces for women, unique fashion
+  - [Styling Elevated Casual Outfits for Petite Frames?](https://dlaboutique.shop/blogs/news/styling-elevated-casual-outfits-petite-frames): Styling Elevated Casual Outfits for Petite Frames?
+    Updated: 2026-11-01T01:47:42Z
+    Author: Editorial Team
+    Tags: elevated casual outfits, how to dress a petite frame, petite jeans styling, petite layering tips, petite outfit ideas, styling elevated casual outfits for petite frames
+  - [Edgy Fashion Inspirations for Bold Looks](https://dlaboutique.shop/blogs/news/edgy-fashion-inspirations-for-bold-looks): Edgy Fashion Inspirations for Bold Looks
+    Updated: 2026-11-02T00:07:35Z
+    Author: D'LA BOUTIQUE
+  - [Chic Weekend Travel Outfits That Stay Comfortable](https://dlaboutique.shop/blogs/news/how-to-build-chic-weekend-travel-outfits): Chic Weekend Travel Outfits That Stay Comfortable
+    Updated: 2026-11-02T00:21:57Z
+    Author: Editorial Team
+    Tags: 3-day weekend getaway outfits, airport outfit ideas for women, comfortable chic outfit ideas for weekend travel, travel capsule wardrobe for a weekend, weekend travel outfits
+  - [The Practical Guide to Eco-Friendly Textile Certifications](https://dlaboutique.shop/blogs/news/practical-guide-eco-friendly-textile-certifications): The Practical Guide to Eco-Friendly Textile Certifications
+    Updated: 2026-11-03T01:53:33Z
+    Author: Editorial Team
+    Tags: gots certification requirements, guide to eco-friendly textile certifications, how to identify greenwashing in fashion, oeko-tex standard 100 explained, textile certifications
+  - [Timeless Fashion Rules You Should Always Follow](https://dlaboutique.shop/blogs/news/timeless-fashion-rules-you-should-always-follow): Timeless Fashion Rules You Should Always Follow
+    Updated: 2026-11-04T00:08:13Z
+    Author: D'LA BOUTIQUE
+  - [Organic Cotton vs Synthetic Fabrics: What to Wear](https://dlaboutique.shop/blogs/news/organic-cotton-vs-synthetic-fabrics): Organic Cotton vs Synthetic Fabrics: What to Wear
+    Updated: 2026-11-04T01:44:18Z
+    Author: Editorial Team
+    Tags: gots certification for organic cotton, is organic cotton better for skin, organic cotton, organic cotton vs polyester, why choose organic cotton over synthetic, why is organic cotton better for the environment
+  - [Online Clothing Return Policies: What to Check First](https://dlaboutique.shop/blogs/news/online-clothing-return-policies-what-to-check): Online Clothing Return Policies: What to Check First
+    Updated: 2026-11-05T02:01:25Z
+    Author: Editorial Team
+    Tags: clothing return policies, online clothing return policy best practices, online store return window duration, what does final  mean for clothing, what to look for in online clothing store return policies
 
 ## Store Pages
 
@@ -2664,7 +2656,7 @@ Welcome to D'LA BOUTIQUE
 ## Policies
 
 - [Privacy Policy](https://dlaboutique.shop/policies/privacy-policy)
-  Updated: 2025-02-04T00:05:36Z
+  Updated: 2026-10-30T03:46:59Z
 - [Shipping Policy](https://dlaboutique.shop/policies/shipping-policy)
   Updated: 2026-09-17T16:39:08Z
 - [Refund Policy](https://dlaboutique.shop/policies/refund-policy)
