@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2023-12-23T03:47:23Z
 - Contact Email: admin@artehouse.in
-- Updated At: 2026-10-30T00:59:17.523Z
+- Updated At: 2026-11-06T01:02:17.265Z
 
 ## Products
 
 - [Divine Delight: Buy Guruvayur Krishna Idol | Arte House](https://artehouse.in/products/guruvayur-krishna-idol-online): Elevate Your Space With Divine Charm! Purchase the Exquisite Guruvayur Krishna Idol at Arte House. Experience the Joy of Spiritual Beauty. Shop Now With Joy
-  Updated: 2026-10-25T16:12:30Z
+  Updated: 2026-11-04T12:22:58Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -338,6 +338,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/Shivaparvathi-idol-marbledust-polyresin-indoor.jpg?v=1706343960
   Price: ₹1,200.00 INR
+- [Buy Kerala Elephant Wall Hanging for Home | Arte House](https://artehouse.in/products/kerala-elephant-wall-hanging): Enhance your home decor with our exquisite Kerala Elephant Wall Hanging. Elevate your walls with handcrafted beauty. Shop now at Arte House for timeless elegance
+  Updated: 2026-11-05T07:08:06Z
+  Vendor: Arte House
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/KERALA-ELEPHANT-NETTIPATTAM-FOR-HOME-INDOOR.jpg?v=1706514014
+  Price: ₹4,800.00 INR
 - [Discover Handcrafted Krishna with Cow Idols | Arte House](https://artehouse.in/products/krishna-statue-with-cow): Unleash Divine Mischief! Explore Arte House's Handcrafted Krishna With Cow Idols. Enhance the Beauty of Your Puja Room or Home With Joy and Blessings.
   Updated: 2026-07-25T17:01:47Z
   Vendor: Arte House
@@ -402,7 +409,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/krishna-cow-statue-40-cm_1.png?v=1703394517
   Price: ₹1,350.00 INR
 - [Buy Beautiful Krishna Idol with Cow in Fibre | Arte House](https://artehouse.in/products/krishna-idol-with-cow): Satisfy your desire for an Eye-Catching and Unique 62cm tall Krishna idol with Cow crafted from Fiber - creates an awe-inspiring aura of timelessness
-  Updated: 2026-10-24T05:13:03Z
+  Updated: 2026-11-02T06:26:01Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -423,7 +430,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/GANESHA-IDOL-IN-FIBRE-INDOOR.jpg?v=1706512622
   Price: ₹5,400.00 INR
 - [Awaken Devotion: Buy Exquisite Ayyappa Statues | Arte House](https://artehouse.in/products/ayyappa-statue-online): Awaken your spirit with Arte House's handcrafted Ayyappa statues. Exquisite designs and materials for puja or meditation. Find your perfect murti here.
-  Updated: 2026-09-27T10:18:16Z
+  Updated: 2026-10-31T04:58:17Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -500,6 +507,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/bhasma_kotta_wooden_vibhuti_box_1.jpg?v=1722613996
   Price: ₹850.00 INR
+- [Shop Elegant Elephant Caparison Online | Arte House](https://artehouse.in/products/elephant-caparison-online-2-feet): Enhance your space with our Elegant Elephant Caparison Collection. Shop online at Arte House for intricate designs and timeless beauty. Elevate your decor now!
+  Updated: 2026-11-05T07:08:15Z
+  Vendor: Arte House
+  Product Type: Wall Hangings
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/2-FEET-NETTIPATTAM-ELEPHANT-CAPARISON-WALL-HANGING-FOR-HOME-INDOOR.jpg?v=1706514169
+  Price: ₹3,000.00 INR
 - [Sacred Serenity: Krishna Idol in Fibre | Arte House](https://artehouse.in/products/krishna-vigraham): Elevate Your Living Space With Sacred Serenity! Explore the Exquisite Krishna Idol in Fiber at Arte House. Bring Divine Beauty Into Your Home. Shop Now!
   Updated: 2026-10-24T05:13:05Z
   Vendor: Arte House
@@ -666,11 +680,11 @@
     Availability: Available
     Price: ₹2,000.00 INR
 - [Manjady Seeds for Pooja Room and Vishu kani from Guruvayur](https://artehouse.in/products/manjady-seeds-adenanthera-pavonina-or-red-lucky-seeds-for-pooja-room-and-vishu-kani): Manjady Seeds for Pooja Room and Vishu kani from Guruvayur brought to you by Arte House. Elevate Your Sacred Moments in Pooja Rooms and Spiritual Rituals with Adenanthera Pavonina seeds.
-  Updated: 2026-10-24T12:57:14Z
+  Updated: 2026-11-05T20:28:55Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/Manjady_seeds_for_pooja_room_Arte_House_1.jpg?v=1733978889
+  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/11.jpg?v=1793778164
   - [250 g](https://artehouse.in/products/manjady-seeds-adenanthera-pavonina-or-red-lucky-seeds-for-pooja-room-and-vishu-kani?variant=46079561859307)
     Availability: Available
     Price: ₹549.00 INR
@@ -799,21 +813,6 @@
   - [Set of Ten](https://artehouse.in/products/artificial-jasmine-buds-garland?variant=45332958642411)
     Availability: Available
     Price: ₹2,000.00 INR
-- [Metal Guruvayurappan Idol for Car Dashboard and Pooja Room-6.5 cm Height](https://artehouse.in/products/metal-guruvayurappan-idol): Metal Guruvayurappan Idol for Car Dashboard with a beautiful face and intricate detailing. Electroplated with golden color, this idol is a must-have!!!
-  Updated: 2026-08-14T06:41:53Z
-  Vendor: Arte House
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/Metal_Guruvayurappan_Idol_for_Car_Dashboard_and_Pooja_Room.jpg?v=1718866892
-  - [Single](https://artehouse.in/products/metal-guruvayurappan-idol?variant=45540448895211)
-    Availability: Available
-    Price: ₹299.00 INR
-  - [Set of Two](https://artehouse.in/products/metal-guruvayurappan-idol?variant=45540448927979)
-    Availability: Available
-    Price: ₹550.00 INR
-  - [Set of Five](https://artehouse.in/products/metal-guruvayurappan-idol?variant=45540448960747)
-    Availability: Available
-    Price: ₹1,300.00 INR
 - [Metal Lord Ram Idol for Car Dashboard | Arte House](https://artehouse.in/products/metal-lord-ram-idol-for-car-dashboard-and-pooja-room-6-cm-height): Discover the Metal Lord Ram Idol for your car dashboard or pooja room. Perfect for daily worship, this idol adds a touch of spirituality to any space.
   Updated: 2026-03-13T05:44:34Z
   Vendor: Arte House
@@ -961,11 +960,11 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/ushapooja-guruvayurappan-fridge-magnet-gold-toned-black-white-glossy-metal-70mm-1_a82fc8a5-a302-4dca-81ab-2e1d5005997b.png?v=1779883089
   Price: ₹150.00 INR
 - [Multicolor Lifelike Ushapooja Guruvayurappan Fridge Magnet](https://artehouse.in/products/ushapooja-guruvayurappan-fridge-magnet): Bring home this multicoloured round-shaped lifelike Ushapooja Guruvayurappan fridge magnet and add a spiritual touch to your space. Designed in a glossy finish, this religious decorative magnet features Lord Guruvayurappan in Ushapooja form with fine detailing, traditional ornaments, and a classic temple-style look. The multicolour artwork gives this devotional fridge magnet a bright and graceful feel, making it a lovely addition to your refrigerator, pooja room, or any metal surface. Made with metal and plastic, this glossy religious decorative magnet is lightweight, durable, and easy to place. A simple and thoughtful choice for daily devotion, home décor, and gifting. Premium Design: Beautiful lifelike fridge magnet with multicolour Ushapooja Guruvayurappan artwork, fine detailing, and a glossy finish that gives it a bright and elegant look. Material: Made with metal for a strong build, smooth finish, and long-lasting use. Versatile Decor: Perfect for pooja rooms, home décor, car interiors, refrigerators, office lockers, or as a meaningful religious gift. Sticks well to any metal surface. Easy Maintenance: Easy to clean with a soft dry or slightly damp cloth. The glossy finish helps keep it looking neat and bright. Note: Product colour may vary slightly due to lighting during photography or screen settings. Size: The fridge magnet measures 5 cm in width, 5 cm in height, and 3 mm in depth.
-  Updated: 2026-10-19T16:09:18Z
+  Updated: 2026-11-05T00:52:49Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/ushapooja-guruvayurappan-fridge-magnet-handcrafted-multicolour-glossy-metal-70mm-0_28e3cab5-7264-4b63-adfd-bae8182e490e.png?v=1779884658
+  Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/Ushapooja_fridge_magnet.jpg?v=1793722383
   Price: ₹150.00 INR
 - [Lord Guruvayurappan round Fridge Magnet Multicolour Glossy](https://artehouse.in/products/lord-guruvayurappan-fridge-magnet): Buy multicolour lifelike Lord Guruvayurappan Round fridge magnet with glossy finish. Perfect for pooja room, home décor, and thoughtful gifting. Order now.
   Updated: 2026-10-28T06:23:12Z
@@ -989,14 +988,14 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/chottanikkara-devi-fridge-magnet_7bde6d84-c517-46a0-b237-f717a18e9abe.png?v=1789453386
   Price: ₹150.00 INR
 - [Mookambika Devi Fridge Magnet](https://artehouse.in/products/mookambika-devi-fridge-magnet): Lifelike multicolour Mookambika Devi fridge magnet with glossy finish. Perfect for pooja room, study space, home décor, daily devotion, and gifting.
-  Updated: 2026-10-16T15:09:26Z
+  Updated: 2026-11-05T11:46:46Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/mookambika-devi-fridge-magnet.jpg?v=1789535831
   Price: ₹150.00 INR
 - [Ayyappa Swami Fridge Magnet | Lifelike Multicolour](https://artehouse.in/products/ayyappa-swami-fridge-magnet): Lifelike multicolour Ayyappa Swami fridge magnet with glossy finish. Perfect for pooja room, home décor, daily devotion, and spiritual gifting.
-  Updated: 2026-09-17T09:17:12Z
+  Updated: 2026-11-04T10:02:22Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1010,7 +1009,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/ayyappa-swami-on-tiger-fridge-magnet-handcrafted-multicolour-glossy-metal-70mm-0_15c998a9-1109-4878-875a-ab774230823e.png?v=1779949905
   Price: ₹150.00 INR
 - [Drishti Ganesha Fridge Magnet Multicolour Glossy](https://artehouse.in/products/drishti-ganesha-multicolour-glossy-fridge-magnet): Buy lifelike Drishti Ganesha fridge magnet in multicolour glossy finish. Ideal for protection, pooja room, décor and gifting.
-  Updated: 2026-10-10T11:07:06Z
+  Updated: 2026-11-04T10:02:28Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1031,7 +1030,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/panchamukhi-ganesha-fridge-magnet.jpg?v=1789407170
   Price: ₹150.00 INR
 - [Goddess Lakshmi Round Fridge Magnet](https://artehouse.in/products/goddess-lakshmi-round-fridge-magnet): Multicolour Goddess Lakshmi round fridge magnet (70mm) with glossy finish. Perfect for pooja room, home décor, prosperity, and festive gifting.
-  Updated: 2026-10-20T05:01:52Z
+  Updated: 2026-11-04T17:19:36Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1052,7 +1051,7 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/dancing-ganesha-fridge-magnet-handcrafted-multicolour-glossy-metal-70mm-0_62662377-c7aa-474f-893d-34bff867412f.png?v=1779961854
   Price: ₹150.00 INR
 - [Saraswathi Devi Round Fridge Magnet](https://artehouse.in/products/saraswathi-devi-round-fridge-magnet): Multicolour Saraswathi Devi round fridge magnet (70mm) with glossy finish. Ideal for study room, pooja space, home décor, and thoughtful gifting.Buy Now
-  Updated: 2026-10-17T05:38:16Z
+  Updated: 2026-11-02T10:52:16Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1073,21 +1072,21 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/lord-dattatreya-fridge-magnet.png?v=1789452875
   Price: ₹150.00 INR
 - [Panchamukhi Hanuman Round Fridge Magnet](https://artehouse.in/products/panchamukhi-hanuman-fridge-magnet): Multicolour Panchamukhi Hanuman round fridge magnet (70mm) in glossy metal, perfect for pooja room, protection, home décor, daily devotion, and gifting. Order now.
-  Updated: 2026-10-20T05:40:36Z
+  Updated: 2026-10-31T03:29:07Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/panchmukhi_hanuman_fridge_magnet.jpg?v=1789537212
   Price: ₹150.00 INR
 - [Lord Dhanwanthari Round Fridge Magnet](https://artehouse.in/products/lord-dhanwanthari-fridge-magnet): Multicolour Lord Dhanwanthari round fridge magnet (70mm) in glossy metal, perfect for pooja room, health spaces, home décor, daily devotion, and gifting. Order now.
-  Updated: 2026-10-12T06:19:37Z
+  Updated: 2026-11-05T10:56:47Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/lord-dhanvantari-fridge-magnet-handcrafted-multicolour-glossy-metal-70mm-0_581705ec-1303-400b-bce7-82cf0ff2ca9d.png?v=1779968956
   Price: ₹150.00 INR
 - [Blessing Murugan Round Fridge Magnet](https://artehouse.in/products/blessing-murugan-fridge-magnet): Multicolour Lord Murugan round fridge magnet (70mm) in glossy metal, perfect for pooja room, home décor, daily devotion, and meaningful gifting. Order now.
-  Updated: 2026-09-27T04:20:26Z
+  Updated: 2026-11-04T10:02:22Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1101,14 +1100,14 @@
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/tirupati-balaji-fridge-magnet.png?v=1789455751
   Price: ₹150.00 INR
 - [Meditating Hanuman Round Fridge Magnet | 70mm Glossy Metal](https://artehouse.in/products/meditating-hanuman-round-glossy-metal-fridge-magnet-70mm): Multicolour Meditating Hanuman round fridge magnet (70mm) in glossy metal. Perfect for pooja room, meditation space, home décor, and spiritual gifting.
-  Updated: 2026-10-20T05:01:57Z
+  Updated: 2026-11-01T19:58:02Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0680/8050/0971/files/meditating-hanuman-fridge-magnet.png?v=1789453037
   Price: ₹150.00 INR
 - [Arte House Meditating Shiva Fridge Magnet | Multicoloured 70 mm](https://artehouse.in/products/meditating-shiva-fridge-magnet-70-mm-diameter): Multicolour Meditating Lord Shiva round fridge magnet (70mm) in glossy metal. Ideal for pooja room, meditation décor, and spiritual gifting. Order now.
-  Updated: 2026-10-11T02:26:36Z
+  Updated: 2026-11-04T17:19:35Z
   Vendor: Arte House
   Product Type: 
   Availability: Available
@@ -1126,19 +1125,19 @@
 ## Collections
 
 - [Idols and Statues](https://artehouse.in/collections/idols-and-statues): Idols and Statues from Guruvayur, Kerala. Revamp your pooja room and living spaces with an extensive collection of Kerala Idols and Showpieces.
-  Updated: 2026-10-29T11:15:41Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 148
 - [Krishna Idols](https://artehouse.in/collections/krishna-idols): Shop Krishna Idols Online - Unique and Handcrafted Lord Krishna Idols Online Shopping for your Home or Temple. Get the Best Deals and Discounts Buy now!
-  Updated: 2026-10-29T11:15:41Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 103
 - [Murugan Idols](https://artehouse.in/collections/murugan-idols): Buy handmade statues of Lord Murugan online from Artehouse in different materials and colors. Get the Best Deals and Discounts Buy now!
   Updated: 2026-10-06T11:21:51Z
   Total Products: 7
 - [Guruvayurappan Idols](https://artehouse.in/collections/guruvayurappan-idols): Explore exquisite Guruvayurappan idols, crafted with precision and devotion. Discover the rich symbolism and spiritual significance of these divine creations.
-  Updated: 2026-10-03T11:30:39Z
+  Updated: 2026-11-04T12:17:28Z
   Total Products: 10
 - [Ayyappa Idols](https://artehouse.in/collections/ayyappa-idols): The Different Types of Ayyappa Idols From Arte House According to Hindu theology, he is the son of Harihara (Vishnu in the form of Mohini, and Shiva). Arte House has a collection of Ayyappa idols made from different materials. And witness how our idols are created with attention to each detail imparting a beautiful and artistic statue. Check out our collection and add the positivity of Ayyappa to your house. Ayyappa Statue Decorate your temple with the Ayyappa statue made in fibre with beautiful decorations. We bring to you an idol made with uniqueness and crafted with sequins and beads, which is exclusively available in Kerala. Black Ayyappa Idol The black Ayyappa idol is a mixture of resin and marble dust and is a piece of the black collection from Arte House. The idol is crafted with high attention to detail. Small Ayyappa Idol The small ayyappa idol is used for car dashboards and showcases that you can keep in your house. The idol is a mixture of polyresin and marble covered in Golden color. Bring The Positivity of Ayyappa Idol From Arte House With these idols, you can create positive surroundings not only in your house but also in your house or your workplace. The materials used in the making of these idols are the best and ensure durability through the upcoming years. With Ayyappa idols up to 2.5 feet height, you can choose an Ayyappa idol based on your requirements.
-  Updated: 2026-09-27T11:18:23Z
+  Updated: 2026-10-31T11:15:47Z
   Total Products: 5
 - [Goddess Idols](https://artehouse.in/collections/goddess-idols): Explore Our Collection of Goddesses From Arte House Praying to the Goddesses is a symbol of power and spirituality for all the women out there. Arte House has a collection of Goddesses that you can add to your temples inside your home or in your office to spread positivity and the power our goddesses fought with to kill evil. And how praying to them brings calmness to fight every situation. Goddess Laxmi Goddess Laxmi is worshipped around the world and some people like to keep her as a home decor. The blessings of Goddess Laxmi are believed to help in the success of our business. Maa Durga Maa Durga is an idol worshipped by a lot of people for finding the strength and power to fight off difficulties. The idol is kept at home and in temples by devotees to experience divine positivity and blessings. Kali Mata Standing On Shiva Ji Kali Mata Standing on Shiva Ji is a Goddess made in marble dust and polyresin material. The statue is created with attention to detail. Buy From Our Collection of Goddess Idol We also have other Goddesses like Rukmini Devi and Saraswati Mata to spread their blessings and give you the power of diving knowledge and to use that knowledge positively. Rukmini idol is mostly sought after for Rukmini Kalyanam function in South India. Arte House ensures that each idol featured here has a premium quality with the utmost care given to craftsmanship.
   Updated: 2026-10-20T11:20:52Z
@@ -1159,37 +1158,37 @@
   Updated: 2024-08-05T06:04:53Z
   Total Products: 9
 - [Polymarble Idols](https://artehouse.in/collections/polymarble-idols): The Different Sizes of Artehouse’s Polymarble Idols When it comes to decorating our homes, adding a touch of spirituality can bring a sense of peace. And what better way to do that than by adorning our living spaces with beautiful idols? Arte House, a renowned name in the world of home decor, offers a stunning range of polymarble idols that are not only visually appealing but also carry a deep spiritual significance. 22 cm Lord Krishna Idol The 22 cm Lord Krishna Idol is the perfect choice. With its intricate details and vibrant colours, this idol encapsulates the essence of Lord Krishna's divine presence. 13 cm Ganesha and Krishna Statue For those seeking a slightly larger idol that showcases the harmonious presence of Lord Ganesha and Lord Krishna, the 13 cm Ganesha and Krishna Statue is an ideal option. 13 cm Saraswati Idol Goddess Saraswati, the epitome of knowledge, wisdom, and creativity, is revered by many. The 13 cm Saraswati Idol by Artehouse is a stunning representation of this divine goddess. Find a Size Preferable To Your Use From Arte House Arte House's polymarble idols are known for their exceptional craftsmanship, attention to detail, and durability. Each piece is meticulously handcrafted by skilled artisans, ensuring that you receive a high-quality product that will stand the test of time. The use of polymarble material adds a touch of elegance and sophistication to these idols, making them a perfect addition to any home decor style.
-  Updated: 2026-09-20T11:23:50Z
+  Updated: 2026-11-04T12:17:28Z
   Total Products: 43
 - [Marble-Dust Idols](https://artehouse.in/collections/marble-dust-idols): Explore Our Collection of Marble Dust & Polyresin God Idols and Statues Marble dust and Polyresin are a strong and durable material used in the making of our God Idols and Statues. Arte House has a wide collection of God Idols and statues that you can buy according to your requirements. There are different designs of the Idols that one can buy to keep in their temples or as decoration pieces. Hanuman Ji Idol Lord Hanuman is the God of strength and power to fight off any difficulty or situation that might come your way. Created in Marble dust and Polyresin and designed with beautiful colours, these idols add a spiritual vibe to your home. Lord Shiva Idol Lord Shiva is the creator of the universe and is worshipped around the world for his powers. Keep Lord Shiva’s idol crafted in marble dust and adorned with beautiful colours in your temple and pray through the day for positive surroundings. Goddess Durga Goddess Durga is associated with motherhood and the strength that she possesses by helping people through difficult times. You can find a wide range of Goddess durga idolss in our collection that you can add to your temple or pooja room. Find Your Favourite God Idol From The Collection of Artehouse Along with this, there are other God idol statues that you can add to your home like Lord Krishna, Goddess Laxmi, Murugan, etc. Artehouse ensures the quality of the materials along with the designs and colors used in the making of these idols. Bring home power and strength with these Idols in your house.
   Updated: 2026-09-30T11:20:35Z
   Total Products: 23
 - [Wall Decor](https://artehouse.in/collections/wall-decor)
-  Updated: 2026-10-12T11:23:44Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 10
 - [Kathakali Masks](https://artehouse.in/collections/kathakali-masks): Discover the intricate artistry of Kathakali face masks. Explore the rich cultural heritage and symbolism behind these stunning traditional masks.
   Updated: 2026-10-12T11:23:44Z
   Total Products: 5
 - [Nettipattams](https://artehouse.in/collections/nettipattams): Check out our competitive elephant nettipattam price at Artehouse and add a touch of cultural elegance to your living space. Buy Now and get Special Deals online
-  Updated: 2026-10-03T11:30:39Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 5
 - [Seasonal Decor](https://artehouse.in/collections/seasonal-decor)
-  Updated: 2026-10-26T11:22:49Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 34
 - [Vishu Decor](https://artehouse.in/collections/vishu-decor)
-  Updated: 2026-10-26T11:22:49Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 37
 - [Onam Decor](https://artehouse.in/collections/onam-decor)
-  Updated: 2026-10-26T11:22:49Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 8
 - [Christmas Decor](https://artehouse.in/collections/christmas-decor)
   Updated: 2024-12-01T10:16:07Z
   Total Products: 4
 - [Fibre Krishna Idols](https://artehouse.in/collections/fibre-krishna-idols)
-  Updated: 2026-10-29T11:15:41Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 35
 - [Polymarble Krishna Idols](https://artehouse.in/collections/polymarble-krishna-idols)
-  Updated: 2026-09-20T11:23:50Z
+  Updated: 2026-11-04T12:17:28Z
   Total Products: 34
 - [Brass Krishna Idols](https://artehouse.in/collections/brass-krishna-idols)
   Updated: 2024-08-05T06:04:53Z
@@ -1201,13 +1200,13 @@
   Updated: 2026-10-19T11:18:55Z
   Total Products: 6
 - [Vishu Kani Kits](https://artehouse.in/collections/vishu-kani-kits): Each festival in India comes with its unique set of customs and rituals. Guess what sets apart Vishu from other festivals in Kerala? Yes. The Vishu Kani. Waking up to a dreamy, spectacular Vishu Kani with all those lights, decors, and a Charming Krishna is a pleasant memory indeed. This is especially true for people living outside Kerala for whom the memories of traditional Vishu Kani in their childhood are nothing short of a heartwarming nostalgia. Each year when Vishu approaches, they get ready to relive that nostalgia by frantically searching for a Beautiful Krishna and other decors for setting up the Vishu Kani. But, chances are that they never really find all the items together. Are you one of them? We have got some good news for you. Buy your Vishu Kani set online. This is where we, Arte House, come in and make your Vishu memorable. We have created an assortment of all necessary items required for making a Vishu Kani. A beautiful Krishna Idol is the primary requirement. We have the largest collection of Guruvayur Krishna Idols one of which would definitely appease your mind. Next comes the decorative fan-shaped cloth known as Thiruudayada. It is available in 4 different colors. A brass Vaalkannadi or brass metal piece is another necessary element. Place some kunnikuru or manjady in a brass uruli. Add some fruits, vegetables, and silk cloth—light your lamps or nilavilakku. Lo and behold, your Vishu Kani is ready! Choose from a variety of combos based on your budget and height preference. All accessories are also individually available for purchase. We provide all-India Delivery. All the rates displayed on the idols are inclusive of Delivery charges and GST. So, there are no hidden charges, unless you opt for COD. COD is available only on idols below 1000 Rs and would cost you an additional 50 Rs as Couriers charge this extra amount for Cash Collection. So, the best option is to go with prepaid orders. All payments are secured and collected through companies like Razorpay and Instamojo which have strict regulations and Security features to avoid any scams. So, by now you should have got an answer to that nagging question ”Where to buy Vishu Kani kit online?” Come, Explore our collections below.
-  Updated: 2026-10-26T11:22:49Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 27
 - [Thiru Udayadas](https://artehouse.in/collections/thiru-udayadas)
   Updated: 2026-09-16T11:27:56Z
   Total Products: 7
 - [Best Sellers](https://artehouse.in/collections/best-sellers)
-  Updated: 2026-10-26T11:22:49Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 42
 - [Ganesha Idols](https://artehouse.in/collections/ganesha-idols): Discover The Exclusive Collection of Ganesh Idols and Wall Decor At Arte House Whenever something new begins, it is celebrated with a Ganesha Idol. The magnificent range of Ganesha idols at Arte House is the most unique one that you won't find anywhere else. Whether you are looking for a Ganesh idol to add to your temple, for home decor, or for gifting someone, we have a wide range of Ganpati idols that you would love to buy. Ganesha idol is considered a symbol of a good start, so embrace the new beginnings with one-of-a-kind Ganesha idols at Arte House. Ganesha Statue In Marble Dust Our collection of Ganesha idols features Ganesha statues crafted using marble dust that capture every intricate detail, showcasing the devotion and artistry put into their creation. Ganesha Idol in Fibre If you want a more contemporary and lightweight option, our Ganesha Idol in Fibre is perfect. These idols are made with high-quality fibre material, ensuring durability and ease of handling. Ganesha Vetiver Wall Decor We also offer a Ganesha Vetiver Wall Decor that adds a unique and artistic touch to your walls. They create a serene ambiance in your home while adding a touch of cultural charm. Embrace New Beginnings with Exquisite Ganesha Idols and decor at Arte House Whether you are starting a new chapter or simply looking to enhance your spiritual practice and home decor, our exclusive collection of Ganesha Idols at ArteHouse will surely entice you. Visit Arte House today and discover the beauty of our unique collection.
   Updated: 2026-08-13T11:20:16Z
@@ -1237,7 +1236,7 @@
   Updated: 2025-04-15T07:33:31Z
   Total Products: 2
 - [Car Dashboard Idols](https://artehouse.in/collections/car-dashboard-idols)
-  Updated: 2026-08-14T11:18:12Z
+  Updated: 2026-11-04T12:17:28Z
   Total Products: 7
 - [The Curated Amazon Christmas Store](https://artehouse.in/collections/the-curated-amazon-christmas-store): A list of Curated items from Amazon for Celebrating Christmas.
   Updated: 2025-02-20T16:11:23Z
@@ -1246,13 +1245,13 @@
   Updated: 2025-02-20T16:11:31Z
   Total Products: 0
 - [Fridge Magnets](https://artehouse.in/collections/fridge-magnets)
-  Updated: 2026-10-28T11:19:31Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 301
 - [Products](https://artehouse.in/collections/all)
-  Updated: 2026-10-29T11:15:41Z
-  Total Products: 544
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 721
 - [Gods Fridge Magnets](https://artehouse.in/collections/gods-fridge-magnets)
-  Updated: 2026-10-28T11:19:31Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 118
 - [Inspirational Quotes](https://artehouse.in/collections/inspirational-quotes)
   Updated: 2026-09-17T11:33:32Z
@@ -1270,7 +1269,7 @@
   Updated: 2026-09-21T11:21:29Z
   Total Products: 18
 - [Spiritual Destinations](https://artehouse.in/collections/spiritual-destinations)
-  Updated: 2026-10-16T11:23:59Z
+  Updated: 2026-11-02T12:15:04Z
   Total Products: 29
 - [Cute Couples Magnets](https://artehouse.in/collections/cute-couples-magnets)
   Updated: 2026-08-30T11:19:02Z
@@ -1279,16 +1278,16 @@
   Updated: 2026-09-23T11:28:41Z
   Total Products: 12
 - [All Gods](https://artehouse.in/collections/all-gods)
-  Updated: 2026-10-28T11:19:31Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 40
 - [Cute Gods](https://artehouse.in/collections/cute-gods)
-  Updated: 2026-10-17T11:26:29Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 43
 - [Holy Symbols](https://artehouse.in/collections/holy-symbols)
   Updated: 2026-10-28T11:19:31Z
   Total Products: 22
 - [All Gods plus symbols](https://artehouse.in/collections/all-gods-copy)
-  Updated: 2026-10-28T11:19:31Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 72
 - [Monuments](https://artehouse.in/collections/monuments)
   Updated: 2026-09-28T11:18:43Z
@@ -1297,17 +1296,44 @@
   Updated: 2026-09-19T10:52:51Z
   Total Products: 8
 - [Magnet Best sellers](https://artehouse.in/collections/magnet-best-sellers)
-  Updated: 2026-10-28T11:19:31Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 82
 - [Kerala Watercolour Fridge Magnets](https://artehouse.in/collections/kerala-watercolour-fridge-magnets): Bring home the colours of God's Own Country. Painterly watercolour fridge magnets of 23 Kerala places, from the backwaters of Alappuzha and Kumarakom to the tea hills of Munnar, the cliffs of Varkala and the temple town of Guruvayur. Each is a 70 mm round metal badge magnet with a glossy laminated print, made as a Kerala travel souvenir and gift.
-  Updated: 2026-10-12T11:25:58Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 23
 - [Magnet sets](https://artehouse.in/collections/magnet-sets)
   Updated: 2026-10-23T11:29:21Z
   Total Products: 8
 - [Fibre Best-Sellers](https://artehouse.in/collections/fibre-best-sellers)
-  Updated: 2026-10-29T11:15:41Z
+  Updated: 2026-11-05T12:18:07Z
   Total Products: 27
+- [Kerala Souvenir Fridge Magnets](https://artehouse.in/collections/kerala-souvenir-fridge-magnets): Kerala souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 24
+- [Tamil Nadu Souvenir Fridge Magnets](https://artehouse.in/collections/tamil-nadu-souvenir-fridge-magnets): Tamil Nadu souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-02T12:15:04Z
+  Total Products: 17
+- [Karnataka Souvenir Fridge Magnets](https://artehouse.in/collections/karnataka-souvenir-fridge-magnets): Karnataka souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 21
+- [Maharashtra Souvenir Fridge Magnets](https://artehouse.in/collections/maharashtra-souvenir-fridge-magnets): Maharashtra souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-04T12:17:27Z
+  Total Products: 26
+- [Gujarat Souvenir Fridge Magnets](https://artehouse.in/collections/gujarat-souvenir-fridge-magnets): Gujarat souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-01T09:56:15Z
+  Total Products: 10
+- [Rajasthan Souvenir Fridge Magnets](https://artehouse.in/collections/rajasthan-souvenir-fridge-magnets): Rajasthan souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 18
+- [Telangana Souvenir Fridge Magnets](https://artehouse.in/collections/telangana-souvenir-fridge-magnets): Telangana souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 11
+- [Uttar Pradesh Souvenir Fridge Magnets](https://artehouse.in/collections/uttar-pradesh-souvenir-fridge-magnets): Uttar Pradesh souvenir fridge magnets in watercolour art: 70 mm glossy metal badge magnets of famous places. A travel keepsake and gift.
+  Updated: 2026-11-01T09:56:16Z
+  Total Products: 19
+- [European City Souvenir Fridge Magnets](https://artehouse.in/collections/european-city-souvenir-fridge-magnets): Painted-style European city souvenir fridge magnets: Paris, Rome, Santorini, Swiss Alps and more. 70 mm glossy metal badge magnets for collectors.
+  Updated: 2026-11-05T12:18:07Z
+  Total Products: 53
 
 ## Blogs
 
