@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2021-07-21T21:37:44Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:03:40.291Z
+- Updated At: 2026-11-06T01:07:54.739Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Ladies Sunset Tank - White](https://dustin-lynch.merchmadeeasy.com/products/ladies-logo-tank): 65% poly, 35% viscose Slouchy fit White
-  Updated: 2026-10-28T19:46:55Z
+  Updated: 2026-11-05T17:27:21Z
   Vendor: Dustin Lynch
   Product Type: Apparel
   Availability: Available
@@ -239,7 +239,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Black Tour 2023 Koozie](https://dustin-lynch.merchmadeeasy.com/products/black-tour-2023-koozie): Official 2023 tour koozie. Double sided.
-  Updated: 2026-10-28T19:46:59Z
+  Updated: 2026-11-01T18:34:27Z
   Vendor: Dustin Lynch
   Product Type: Accessories
   Availability: Available
@@ -425,7 +425,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Bull Koozie](https://dustin-lynch.merchmadeeasy.com/products/bull-koozie): 12 oz. double-sided koozie
-  Updated: 2026-10-28T19:47:02Z
+  Updated: 2026-11-01T18:34:29Z
   Vendor: Dustin Lynch
   Product Type: Accessories
   Availability: Available
@@ -497,15 +497,8 @@
   - [2X](https://dustin-lynch.merchmadeeasy.com/products/north-american-tour-tee?variant=45832385855679)
     Availability: Available
     Price: $35.00 USD
-- [Dustin Lynch Clean Slate - CD (SIGNED)](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd-signed): SIGNED copy Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-10-28T19:30:06Z
-  Vendor: Dustin Lynch
-  Product Type: Music CDs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/6004/4479/files/DLCLEANSLATECDSIGNED_a0d0abfc-e020-446b-902f-bdf7fb465175.png?v=1788302683
-  Price: $19.98 USD
-- [Dustin Lynch Clean Slate - CD](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd): Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship upon release on October 30, 2026.
-  Updated: 2026-10-28T19:30:21Z
+- [Dustin Lynch Clean Slate - CD](https://dustin-lynch.merchmadeeasy.com/products/clean-slate-cd): Dustin Lynch's upcoming album Clean Slate on CD. This item is a pre-order that will ship early November.
+  Updated: 2026-10-31T04:30:57Z
   Vendor: Dustin Lynch
   Product Type: Music CDs
   Availability: Available
@@ -539,28 +532,28 @@
 ## Collections
 
 - [Home page](https://dustin-lynch.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-28T19:45:55Z
+  Updated: 2026-11-02T12:14:39Z
   Total Products: 20
 - [Apparel](https://dustin-lynch.merchmadeeasy.com/collections/apparel)
   Updated: 2026-10-28T19:45:55Z
   Total Products: 44
 - [Accessories](https://dustin-lynch.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-28T19:45:55Z
+  Updated: 2026-11-02T12:14:39Z
   Total Products: 32
 - [](https://dustin-lynch.merchmadeeasy.com/collections/-1)
   Updated: 2026-10-28T19:45:55Z
   Total Products: 11
 - [All](https://dustin-lynch.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-28T19:46:01Z
+  Updated: 2026-11-04T12:15:53Z
   Total Products: 89
 - [Featured Merch](https://dustin-lynch.merchmadeeasy.com/collections/featured-merch)
-  Updated: 2026-10-28T19:45:55Z
+  Updated: 2026-11-02T12:14:39Z
   Total Products: 48
 - [Stay Country](https://dustin-lynch.merchmadeeasy.com/collections/stay-country)
   Updated: 2026-07-22T20:37:33Z
   Total Products: 1
 - [Music](https://dustin-lynch.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-28T19:45:55Z
+  Updated: 2026-11-04T12:15:53Z
   Total Products: 9
 - [Hats](https://dustin-lynch.merchmadeeasy.com/collections/hats-1)
   Updated: 2026-07-22T20:37:33Z
@@ -581,7 +574,7 @@
   Updated: 2026-09-12T11:19:59Z
   Total Products: 12
 - [2023 Tour Merch](https://dustin-lynch.merchmadeeasy.com/collections/2023-tour-merch)
-  Updated: 2026-08-28T11:20:26Z
+  Updated: 2026-11-02T12:14:39Z
   Total Products: 3
 - [Killed The Cowboy](https://dustin-lynch.merchmadeeasy.com/collections/killed-the-cowboy)
   Updated: 2026-10-07T11:20:39Z
@@ -602,10 +595,10 @@
   Updated: 2026-10-18T11:19:22Z
   Total Products: 8
 - [New Arrivals](https://dustin-lynch.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-28T19:45:33Z
+  Updated: 2026-11-02T12:14:39Z
   Total Products: 5
 - [Clean Slate](https://dustin-lynch.merchmadeeasy.com/collections/clean-slate)
-  Updated: 2026-10-28T11:16:34Z
+  Updated: 2026-11-04T12:15:53Z
   Total Products: 2
 
 ## Store Pages
