@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-08-03T13:53:40Z
 - Contact Email: accounts@fleeta.co.uk
-- Updated At: 2026-10-30T01:07:39.772Z
+- Updated At: 2026-11-06T01:11:03.369Z
 
 ## Products
 
@@ -389,7 +389,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1275.png?v=1786029433
     Price: £41.08 GBP
 - [Flared Hem Studded Butterflies Long Top](https://peppervale.co.uk/products/flared-hem-studded-butterflies-long-top): 🦋 Add a touch of sparkle to your everyday wardrobe with our Flared Hem Studded Butterflies Long Top. Beautifully designed with shimmering studded butterfly embellishments and a flattering flared hem, this stylish longline top offers the perfect blend of comfort and elegance. The relaxed fit drapes effortlessly, creating a flattering silhouette that's ideal for everyday wear. Perfect for pairing with leggings, jeans or jeggings, this versatile top is long enough to provide extra coverage while keeping your look effortlessly chic. Whether you're shopping, meeting friends or heading out for lunch, this is a piece you'll wear again and again. ✨ Why You'll Love It: 🦋 Sparkling studded butterfly design 👚 Flattering longline length 🌸 Stylish flared hem for a feminine silhouette 🌿 Soft, lightweight and comfortable fabric 💕 Relaxed fit for effortless everyday wear 👖 Perfect with leggings, jeans or jeggings ☀️ Ideal for casual days, holidays and weekends 💖 Designed to complement curves Style with skinny jeans and trainers for a relaxed daytime outfit, or pair with leggings, ankle boots and a statement bag for an effortlessly stylish look. Sparkly • Flattering • Effortlessly Stylish ✨ 💖 A must-have long top from Rockthosecurves™. ✨
-  Updated: 2026-10-13T06:16:11Z
+  Updated: 2026-11-04T08:23:06Z
   Vendor: rockthosecurves
   Product Type: swing top
   Availability: Available
@@ -967,7 +967,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1291.png?v=1786029433
     Price: £39.67 GBP
 - [Super Stretchy Soft Feel High Waist Jeggings](https://peppervale.co.uk/products/super-stretchy-soft-feel-high-waist-jeggings): SUPER STRETCHY SOFT FEEL HIGH WAIST JEGGINGS – Sculpting Comfort, Effortless Style Upgrade your everyday essentials with these must-have Super Stretchy Soft Feel High Waist Jeggings from Rockthosecurves™ — designed to hug your curves in all the right places while keeping you comfortable all day long. Crafted from a soft, stretchy fabric, these jeggings offer the perfect balance of flexibility and support. The high waist with elasticated waistband provides a smooth, flattering fit, while the pull-on design makes them easy to wear. Finished with stylish contrast stitching, these jeggings add a subtle edge to a classic look, making them perfect for both casual and dressed-up outfits. ✨ Why You’ll Love Them: 👖 Flattering high waist design 💕 Comfortable elasticated waistband 🌿 Super soft, stretchy fabric ✨ Stylish contrast stitching detail 👚 Easy pull-on jegging style 🌟 Perfect for everyday wear or dressing up ➕ Designed to complement curves Pair with a longline top and trainers for effortless daytime style, or dress them up with a blouse and heels for a sleek, confident look. Comfort. Shape. Everyday style. A wardrobe essential from Rockthosecurves™. ✨
-  Updated: 2026-10-20T21:23:35Z
+  Updated: 2026-11-04T18:37:35Z
   Vendor: rockthosecurves
   Product Type: jeggings
   Availability: Available
@@ -1489,7 +1489,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/ChatGPT_Image_Jul_4_2026_09_23_31_PM.png?v=1786029433
     Price: £22.67 GBP
 - [ZIP UP HOODIE PLUS SIZE JACKET](https://peppervale.co.uk/products/zip-up-hoodie-plus-size-jacket): Stay warm and stylish with our ZIP UP HOODIE PLUS SIZE JACKET, featuring convenient front pockets! From ROCKTHOSECURVES, this long-sleeve jacket will keep you comfortable and confident in any weather.
-  Updated: 2026-10-27T08:10:58Z
+  Updated: 2026-11-03T07:41:07Z
   Vendor: rockthosecurves
   Product Type: Jacket
   Availability: Available
@@ -1773,7 +1773,7 @@
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_751.png?v=1786029434
     Price: £55.25 GBP
 - [Polka Dot Strappy Pleated Layered Cami Top Blouse](https://peppervale.co.uk/products/polka-dot-strappy-pleated-layered-cami-top-blouse): POLKA DOT STRAPPY PLEATED LAYERED CAMI TOP BLOUSE – Feminine Layers with Effortless Style Step into effortless elegance with this stunning Polka Dot Strappy Pleated Layered Cami Top Blouse from Rockthosecurves™ — designed to flatter your curves while keeping you cool and comfortable. Featuring a timeless polka dot print, this blouse brings a chic, feminine feel perfect for holidays, evenings or everyday summer styling. The lightweight strappy cami design keeps the look cool and flattering, while the soft pleated fabric adds beautiful texture and movement. Finished with a stylish layered effect, this top drapes effortlessly over your curves for a floaty, relaxed silhouette that feels both elegant and easy to wear. ✨ Why You’ll Love It: ⚪ Timeless polka dot print design 🌿 Elegant pleated fabric finish 👚 Lightweight strappy cami style 🌊 Flattering layered silhouette 💕 Relaxed, floaty fit ☀️ Perfect for holidays and summer styling 🌟 Easy to dress up or down ➕ Designed to complement curves - SIZE UP IN THIS ONE FOR A COMFORT FIT Pair with palazzo trousers, jeans or shorts for an effortlessly chic look with timeless style. Floaty. Feminine. Effortlessly glamorous. A must-have cami blouse from Rockthosecurves™. ✨
-  Updated: 2026-09-29T23:45:37Z
+  Updated: 2026-11-01T13:51:06Z
   Vendor: rockthosecurves
   Product Type: CAMI VEST
   Availability: Available
@@ -2274,157 +2274,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_1138.png?v=1786029437
     Price: £46.75 GBP
-- [Polo Neck Lace Neckline Long Sleeve Top](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top): Elevate your everyday style with a touch of elegance in our Polo Neck Lace Neckline Long Sleeve Top – where comfort meets sophisticated detail. This plus-size top features a soft, stretchy fabric that gently skims your curves, with a classic polo neck for added warmth and polish. The delicate lace neckline adds a feminine finish, making this top perfect for layering or wearing solo. Whether you're heading to lunch or dressing up your workwear, it's a versatile must-have for your wardrobe. Product Features: 🖤 Elegant lace neckline – Adds softness and chic style 🧣 Polo neck design – Classic, flattering, and warm 👚 Full-length sleeves – Comfortable and easy to style 🧵 Soft, stretch fabric – Perfect for all-day wear ➕ Designed for plus-size women – Flattering fit for sizes 14–28 Refined and curve-friendly – this is a timeless RockThoseCurves essential that adds grace to your everyday look.
-  Updated: 2026-09-22T10:39:46Z
-  Vendor: rockthosecurves
-  Product Type: top
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-  - [RED / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428794693)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [RED / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428827461)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [RED / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428860229)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [RED / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428892997)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [RED / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428925765)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [RED / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428958533)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_RED.png?v=1786029439
-    Price: £25.50 GBP
-  - [WHITE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787428991301)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WHITE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429024069)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WHITE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429056837)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WHITE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429089605)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WHITE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429122373)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WHITE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429155141)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WHITE.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429187909)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429220677)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429253445)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429286213)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429318981)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [BLACK / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429351749)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_BLACK.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429384517)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429417285)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429450053)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429482821)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429515589)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [WINE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429548357)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_WINE.png?v=1786029438
-    Price: £25.50 GBP
-  - [TEAL / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429581125)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [TEAL / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429613893)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [TEAL / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429646661)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [TEAL / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429679429)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [TEAL / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429712197)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [TEAL / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429744965)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/1231_TURQUOISE.png?v=1786029439
-    Price: £25.50 GBP
-  - [PURPLE / UK 14](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429777733)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-  - [PURPLE / UK 16](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429810501)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-  - [PURPLE / UK 18](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429843269)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-  - [PURPLE / UK 20](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429876037)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-  - [PURPLE / UK 22-24](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429908805)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-  - [PURPLE / UK 26-28](https://peppervale.co.uk/products/polo-neck-lace-neckline-long-sleeve-top?variant=58787429941573)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1083/3225/3509/files/sale_square_263.png?v=1786029438
-    Price: £25.50 GBP
-[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MjI3NjQyMSwibGFzdF92YWx1ZSI6IjE2MDcxNTQyMjc2NDIxIn0%3D)
+[List Continued](https://peppervale.co.uk/a/llms-agent/llms.txt?shop=c1jiyr-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNjA3MTU0MjE3ODExNywibGFzdF92YWx1ZSI6IjE2MDcxNTQyMTc4MTE3In0%3D)
 
 ## Collections
 
@@ -2432,7 +2282,7 @@
   Updated: 2026-10-08T10:56:35Z
   Total Products: 1060
 - [Women’s Clothing](https://peppervale.co.uk/collections/womens-clothing): Shop women's clothing at PepperVale, including dresses, tops, knitwear, jackets and easy everyday layers from independent brands, with UK delivery.
-  Updated: 2026-10-20T16:47:32Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 13675
 - [Dresses & One-Pieces](https://peppervale.co.uk/collections/dresses-one-pieces): Explore PepperVale’s dresses and one-piece styles, from easy day dresses to standout occasion pieces. Shop women’s fashion with UK delivery and secure checkout.
   Updated: 2026-09-18T22:26:29Z
@@ -2444,7 +2294,7 @@
   Updated: 2026-10-08T18:39:57Z
   Total Products: 639
 - [Jackets & Coats](https://peppervale.co.uk/collections/jackets-coats): Layer up with PepperVale’s women’s jackets and coats, from lightweight cover-ups to cosy outerwear for changeable UK days. Shop secure checkout and UK delivery.
-  Updated: 2026-10-15T08:50:36Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 1026
 - [Trousers & Shorts](https://peppervale.co.uk/collections/trousers-shorts): Shop PepperVale’s trousers, jeans, joggers and shorts for easy everyday outfits. Discover comfortable women’s separates with UK delivery and secure checkout.
   Updated: 2026-10-02T06:06:11Z
@@ -2477,49 +2327,49 @@
   Updated: 2026-09-18T22:52:36Z
   Total Products: 478
 - [Home & Living](https://peppervale.co.uk/collections/home-bedding): Shop bedding and home essentials at PepperVale, including bamboo duvet covers and pillowcases, with clear UK delivery information, secure checkout and returns.
-  Updated: 2026-10-29T14:01:17Z
-  Total Products: 162
+  Updated: 2026-11-04T21:36:13Z
+  Total Products: 157
 - [Accessories](https://peppervale.co.uk/collections/accessories): Shop bags, hats, scarves and useful everyday accessories from independent and trusted brands, with clear UK delivery information and returns.
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-01T20:31:41Z
   Total Products: 5194
 - [Kids & Baby](https://peppervale.co.uk/collections/kids-baby): Shop baby, toddler and children’s clothing at PepperVale, including everyday organic basics and comfortable styles from independent brands.
   Updated: 2026-10-05T12:23:13Z
   Total Products: 1871
 - [Workwear & Safety Clothing](https://peppervale.co.uk/collections/workwear-safety-clothing): Shop durable UK workwear, hi-vis clothing, safety footwear, work trousers, jackets and trade accessories from trusted brands for men and women.
-  Updated: 2026-10-12T11:43:07Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 5586
 - [Safety Boots & Work Trainers](https://peppervale.co.uk/collections/safety-boots-work-trainers): Shop safety boots, protective work trainers and durable occupational footwear from trusted trade brands, selected for UK workplaces and everyday comfort.
   Updated: 2026-10-28T11:42:15Z
   Total Products: 503
 - [Hi-Vis Workwear & Reflective Clothing](https://peppervale.co.uk/collections/hi-vis-workwear-reflective-clothing): Shop hi-vis jackets, trousers, work shirts, hoodies and reflective clothing for safer, more visible working days across UK sites and trades.
-  Updated: 2026-09-18T21:39:14Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 485
 - [Baby & Toddler Clothing](https://peppervale.co.uk/collections/baby-toddler-clothing): Shop soft baby and toddler clothing, organic cotton layers, bodysuits, leggings, hoodies, hats and everyday essentials for little ones.
-  Updated: 2026-10-29T12:29:38Z
-  Total Products: 832
+  Updated: 2026-11-05T16:52:45Z
+  Total Products: 820
 - [Kids' Clothing & Outerwear](https://peppervale.co.uk/collections/kids-clothing-outerwear): Shop kids' coats, fleeces, practical layers and outdoor clothing selected for everyday adventures, playtime and changing UK weather.
-  Updated: 2026-10-28T23:30:04Z
-  Total Products: 256
+  Updated: 2026-11-05T18:31:52Z
+  Total Products: 253
 - [Bedding & Bed Linen](https://peppervale.co.uk/collections/bedding-bed-linen): Shop breathable pillowcases, fitted sheets, duvet covers and comfortable bed linen in soft natural fabrics for a calmer, more inviting bedroom.
-  Updated: 2026-10-29T20:10:30Z
-  Total Products: 724
+  Updated: 2026-11-05T21:50:31Z
+  Total Products: 719
 - [Men's Clothing](https://peppervale.co.uk/collections/mens-workwear-clothing): Shop men's clothing at Peppervale — T-shirts, shirts, jumpers, hoodies, jackets, trousers, jeans, shorts and everyday essentials, plus durable workwear and safety layers. UK sellers, clear delivery and easy returns.
-  Updated: 2026-10-29T16:14:48Z
-  Total Products: 7168
+  Updated: 2026-11-05T20:02:21Z
+  Total Products: 7150
 - [Kitchen & Dining](https://peppervale.co.uk/collections/kitchen-dining): Shop kitchen and dining essentials at PepperVale, including drinkware, tableware, cookware and useful accessories from independent brands.
   Updated: 2026-10-07T10:53:58Z
   Total Products: 2530
 - [Products A–E](https://peppervale.co.uk/collections/products-a-e): Browse PepperVale products from A to E across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-29T12:57:30Z
+  Updated: 2026-11-03T11:46:50Z
   Total Products: 15067
 - [Products F–K](https://peppervale.co.uk/collections/products-f-k): Browse PepperVale products from F to K across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-29T12:41:50Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 9980
 - [Products L–P](https://peppervale.co.uk/collections/products-l-p): Browse PepperVale products from L to P across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-19T14:16:32Z
+  Updated: 2026-11-05T17:17:16Z
   Total Products: 15609
 - [Products Q–U](https://peppervale.co.uk/collections/products-q-u): Browse PepperVale products from Q to U across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-02T12:03:56Z
   Total Products: 12076
 - [Products V–Z](https://peppervale.co.uk/collections/products-v-z): Browse PepperVale products from V to Z across clothing, home, beauty, gifts and everyday essentials from independent and trusted brands.
   Updated: 2026-10-28T16:39:31Z
@@ -2534,7 +2384,7 @@
   Updated: 2026-09-18T22:52:49Z
   Total Products: 137
 - [eBay ramp - £20 profit](https://peppervale.co.uk/collections/ebay-ramp-20-profit)
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-01T20:31:41Z
   Total Products: 8350
 - [eBay ramp - £20 profit - part 01](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-01)
   Updated: 2026-10-20T16:47:32Z
@@ -2552,7 +2402,7 @@
   Updated: 2026-10-05T12:23:13Z
   Total Products: 1000
 - [eBay ramp - £20 profit - part 06](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-06)
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-01T20:31:41Z
   Total Products: 997
 - [eBay ramp - £20 profit - part 07](https://peppervale.co.uk/collections/ebay-ramp-20-profit-part-07)
   Updated: 2026-09-18T22:20:11Z
@@ -2564,16 +2414,16 @@
   Updated: 2026-09-18T23:12:02Z
   Total Products: 973
 - [eBay ramp - below floor or excluded](https://peppervale.co.uk/collections/ebay-ramp-below-floor-or-excluded)
-  Updated: 2026-10-19T14:16:32Z
+  Updated: 2026-11-02T10:36:31Z
   Total Products: 11924
 - [eBay ramp - 100pc cost + 15 net](https://peppervale.co.uk/collections/ebay-ramp-100pc-cost-15-net): Auto-built. Qualifies for 100% markup on cost AND >= 15 GBP net profit at +85% MC markup. Not published to any sales channel.
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-03T11:46:50Z
   Total Products: 22496
 - [eBay eligible – stock 3+ and cost ](https://peppervale.co.uk/collections/ebay-eligible-stock-3-cost-): Internal Marketplace Connect source. Products qualify only after all variants pass the Peppervale cost check and at least one variant has Shopify inventory greater than 2.
-  Updated: 2026-10-30T00:49:55Z
-  Total Products: 39171
+  Updated: 2026-11-06T00:14:59Z
+  Total Products: 39147
 - [eBay rollout – audited stock 3+ – 13 Sep 2026](https://peppervale.co.uk/collections/ebay-rollout-audited-stock-3-2026-09-13): Internal Marketplace Connect rollout set generated from the 13 September 2026 Peppervale cost and inventory audit. The live quantity formula remains the final stock safeguard.
-  Updated: 2026-10-29T13:44:58Z
+  Updated: 2026-11-03T11:46:50Z
   Total Products: 35463
 
 ## Blogs
@@ -3041,6 +2891,36 @@
     Author: peppervale.co.uk
   - [The Power of Plant-Based Diets for Sustainability: An Educational Insight](https://peppervale.co.uk/blogs/news/the-power-of-plant-based-diets-for-sustainability-an-educational-insight): The Power of Plant-Based Diets for Sustainability: An Educational Insight
     Updated: 2026-10-30T00:11:19Z
+    Author: PepperVale Editorial Team
+  - [How to choose a daisy changing mat that fits daily use](https://peppervale.co.uk/blogs/news/choose-daisy-changing-mat-daily-use): A practical guide to choosing a daisy changing mat, including size, materials, wipe-clean finishes, padding and what to check for everyday use.
+    Updated: 2026-10-30T06:30:05Z
+    Author: peppervale.co.uk
+  - [How to choose eclectic homeware that still works together](https://peppervale.co.uk/blogs/news/how-to-choose-eclectic-homeware-that-still-works-together): A practical guide to eclectic homeware for UK homes, with tips on mixing colour, texture and eras without ending up with a room that feels cluttered.
+    Updated: 2026-10-31T06:30:02Z
+    Author: peppervale.co.uk
+  - [How to dress smart without buying a full suit](https://peppervale.co.uk/blogs/news/how-to-dress-smart-without-buying-a-full-suit): A practical UK guide to men’s smart clothing: what counts as smart, what to buy first, how items should fit, and how to dress for work or events.
+    Updated: 2026-11-01T06:30:07Z
+    Author: peppervale.co.uk
+  - [Simplifying Sustainability: Your Questions Answered](https://peppervale.co.uk/blogs/news/simplifying-sustainability-your-questions-answered): Simplifying Sustainability: Your Questions Answered
+    Updated: 2026-11-02T00:30:28Z
+    Author: PepperVale Editorial Team
+  - [How to choose a tweed overcoat that wears well](https://peppervale.co.uk/blogs/news/how-to-choose-a-tweed-overcoat-that-wears-well): A practical guide to choosing a herringbone tweed overcoat, including cloth, fit, warmth, length, colours and what to wear it with in the UK.
+    Updated: 2026-11-02T06:30:04Z
+    Author: peppervale.co.uk
+  - [What to keep in your car for driving in Europe](https://peppervale.co.uk/blogs/news/what-to-keep-in-your-car-for-driving-in-europe): A practical UK guide to what to carry when driving in Europe, including common legal kit, country differences and what to check before you go.
+    Updated: 2026-11-03T06:30:03Z
+    Author: peppervale.co.uk
+  - [Tapping into Rainwater Harvesting for Home and Garden Excellence.](https://peppervale.co.uk/blogs/news/tapping-into-rainwater-harvesting-for-home-and-garden-excellence): Tapping into Rainwater Harvesting for Home and Garden Excellence.
+    Updated: 2026-11-04T00:21:18Z
+    Author: PepperVale Editorial Team
+  - [How to choose a wool mac that works in British weather](https://peppervale.co.uk/blogs/news/how-to-choose-a-wool-mac-that-works-in-british-weather): A practical guide to choosing a men's wool mac: fabric, fit, warmth, length, layering and what to check before ordering online in the UK.
+    Updated: 2026-11-04T06:30:05Z
+    Author: peppervale.co.uk
+  - [Do tumble dryer eggs work or waste your money?](https://peppervale.co.uk/blogs/news/do-tumble-dryer-eggs-work-or-waste-your-money): A plain-English guide to tumble dryer eggs: what they do, what they cannot do, and whether they are worth buying for UK households.
+    Updated: 2026-11-05T06:30:04Z
+    Author: peppervale.co.uk
+  - [Exploring the Lifecycle Impact of Everyday Consumables](https://peppervale.co.uk/blogs/news/exploring-the-lifecycle-impact-of-everyday-consumables): Exploring the Lifecycle Impact of Everyday Consumables
+    Updated: 2026-11-06T00:12:12Z
     Author: PepperVale Editorial Team
 
 ## Store Pages
