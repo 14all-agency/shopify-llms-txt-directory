@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-19T15:43:14Z
 - Contact Email: shopifyadmin@futureshirts.com
-- Updated At: 2026-10-30T01:02:01.196Z
+- Updated At: 2026-11-06T01:03:18.096Z
 
 ## Products
 
@@ -169,15 +169,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWKOOZIE-2.png?v=1790273672
   Price: $5.00 USD
-- [TONK Hat Jake Worthington Tour Merch](https://store.jakeworthington.com/products/tonk-hat): Jake Worthington Logo Hat in burnt orange with embroidery on front.
-  Updated: 2026-10-19T16:30:11Z
-  Vendor: Jake Worthington
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0725/5903/4445/files/JWTONKHAT.png?v=1790273831
-  Price: $40.00 USD
 - [SATST Tee](https://store.jakeworthington.com/products/satst-tee): Single at the Same Time Tee in grey with front and back print.
-  Updated: 2026-10-27T16:39:37Z
+  Updated: 2026-11-05T17:01:13Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -196,6 +189,9 @@
     Price: $30.00 USD
   - [2XL](https://store.jakeworthington.com/products/satst-tee?variant=67555863232589)
     Availability: Available
+    Price: $30.00 USD
+  - [3XL](https://store.jakeworthington.com/products/satst-tee?variant=67900862234701)
+    Availability: Not Available
     Price: $30.00 USD
 - [Shitty Day Tee](https://store.jakeworthington.com/products/shitty-day-tee): Shitty Day Tee in heather grey with front and back print.
   Updated: 2026-10-12T18:55:55Z
@@ -268,7 +264,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Stamp Tee Jake Worthington](https://store.jakeworthington.com/products/stamp-tee): Texas Stamp Tee in black with front print.
-  Updated: 2026-10-29T15:10:10Z
+  Updated: 2026-11-03T21:29:16Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -289,7 +285,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Intent to Tonk Jake Worthington Tour Tee](https://store.jakeworthington.com/products/intent-to-tonk-tour-tee): Intent To Tonk Tour Tee in black with front and back print.
-  Updated: 2026-10-29T15:10:10Z
+  Updated: 2026-11-03T21:32:46Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -310,7 +306,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Jake Worthington Album Tour Tee](https://store.jakeworthington.com/products/album-tee): Jake Worthington Album Tour Tee in black with front and back print.
-  Updated: 2026-10-29T15:10:11Z
+  Updated: 2026-11-03T21:31:27Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -331,7 +327,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Jake Worthington Texas Tee](https://store.jakeworthington.com/products/texas-tee): Jake Worthington Texas Tee in black with front print.
-  Updated: 2026-10-29T15:10:12Z
+  Updated: 2026-11-03T21:33:17Z
   Vendor: Jake Worthington
   Product Type: Apparel
   Availability: Available
@@ -355,25 +351,25 @@
 ## Collections
 
 - [Home page](https://store.jakeworthington.com/collections/frontpage)
-  Updated: 2026-10-29T15:10:13Z
+  Updated: 2026-11-02T18:50:33Z
   Total Products: 22
 - [Apparel](https://store.jakeworthington.com/collections/apparel)
   Updated: 2026-10-29T15:10:13Z
   Total Products: 13
 - [Accessories](https://store.jakeworthington.com/collections/accessories)
-  Updated: 2026-10-23T11:24:05Z
+  Updated: 2026-11-02T18:50:33Z
   Total Products: 6
 - [Hats](https://store.jakeworthington.com/collections/hats)
-  Updated: 2026-10-23T11:24:05Z
+  Updated: 2026-11-02T18:50:33Z
   Total Products: 3
 - [Music](https://store.jakeworthington.com/collections/music)
   Updated: 2026-10-19T18:14:41Z
   Total Products: 3
 - [All](https://store.jakeworthington.com/collections/all)
-  Updated: 2026-10-29T15:10:21Z
+  Updated: 2026-11-02T18:50:33Z
   Total Products: 21
 - [Tour Collection](https://store.jakeworthington.com/collections/tour-collection)
-  Updated: 2026-10-23T11:24:05Z
+  Updated: 2026-11-02T18:50:33Z
   Total Products: 6
 - [Archive Collection](https://store.jakeworthington.com/collections/archive-collection)
   Updated: 2026-10-29T15:10:27Z
@@ -381,6 +377,9 @@
 - [The Archive](https://store.jakeworthington.com/collections/the-archive)
   Updated: 2026-10-29T15:11:13Z
   Total Products: 13
+- [EG All Products - DO NOT EDIT](https://store.jakeworthington.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
+  Updated: 2026-11-05T16:49:37Z
+  Total Products: 22
 
 ## Store Pages
 
