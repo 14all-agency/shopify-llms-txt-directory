@@ -6,12 +6,12 @@
 - Timezone: America/Tijuana
 - Created At: 2025-12-21T17:43:47Z
 - Contact Email: sales@genssi.com
-- Updated At: 2026-10-30T00:59:04.779Z
+- Updated At: 2026-11-06T01:01:50.875Z
 
 ## Products
 
 - [HID Kit Conversion X-treme Performance Xenon AC 55W](https://genssi.com/products/hid-kit-conversion-x-treme-performance-xenon-ac-55w): Illuminate your drive with the 55W X-treme Series HID Conversion Kit! Get superior visibility and longer-lasting performance for safer nighttime journeys.
-  Updated: 2026-10-29T23:30:24Z
+  Updated: 2026-11-05T08:27:15Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -618,7 +618,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RDGLID-HDLT-BLK_3__45871.1506452493.1280.1280.jpg?v=1766446591
   Price: $309.99 USD
 - [HID Xenon Performance Bulbs (2 Pack)](https://genssi.com/products/hid-xenon-performance-bulbs-2-pack): Upgrade your visibility with our HID replacement bulbs! Experience up to 500% more brightness and 2.5x longer life. Perfect fit, enhanced clarity!
-  Updated: 2026-10-29T23:24:16Z
+  Updated: 2026-11-05T08:32:25Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1065,7 +1065,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/W01__21429.1619132873.1280.1280.jpg?v=1769033287
   Price: $24.95 USD
 - [Wire Harness Relay Quad Output with Switch for LED Lighting](https://genssi.com/products/wire-harness-relay-quad-output-with-switch-for-led-lighting): Unlock the full potential of your lighting with our premium 30A harness for up to 4 LED light bars. Easy installation, durable design, and ultimate protection!
-  Updated: 2026-10-25T05:33:16Z
+  Updated: 2026-11-04T03:09:01Z
   Vendor: GENSSI
   Product Type: Electrical
   Availability: Available
@@ -1422,14 +1422,14 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/100W-CHIPS__05310.1507657706.1280.1280.jpg?v=1769033466
   Price: $39.95 USD
 - [80W LED For Kawasaki ATV 92069-0019 Headlight Bulbs (2 Pack)](https://genssi.com/products/80w-led-for-kawasaki-atv-92069-0019-headlight-bulbs-2-pack): Upgrade your Kawasaki ATV or UTV with our powerful LED headlamps! Enjoy 900 lumens, 360° coverage, and a long-lasting, durable design for optimal performance.
-  Updated: 2026-10-29T14:32:26Z
+  Updated: 2026-11-05T21:07:54Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/A-800W-W_Main__74728.1579981303.1280.1280.jpg?v=1769033466
   Price: $49.95 USD
 - [80W LED bulbs Compatible With Polaris OEM ATV 27W Low Beam Headlight Bulb 4030059 Modify (Pack of 2)](https://genssi.com/products/80w-led-for-polaris-4030059-headlight-bulbs-2-pack): Revamp your ride with high-quality auto parts and vibrant LED lighting at GENSSI.com. Experience performance and style like never before!
-  Updated: 2026-10-29T18:54:16Z
+  Updated: 2026-11-05T22:54:35Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1666,7 +1666,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/GEN-4R-24W_01__26800.1531427489.1280.1280.jpg?v=1769032926
   Price: $49.95 USD
 - [GX7 Pro LED Conversion Kit 6500K Superior Brightness and Reliability Headlight Bulbs](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up): Upgrade your Jeep Wrangler JL (2018+) with GENSSI GX7 LED headlight kits for unmatched brightness and durability. Easy plug-and-play installation!
-  Updated: 2026-10-29T18:26:48Z
+  Updated: 2026-11-05T03:42:11Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -1693,7 +1693,7 @@
     Availability: Available
     Price: $84.95 USD
   - [H11B](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up?variant=43362051752019)
-    Availability: Available
+    Availability: Not Available
     Price: $84.95 USD
   - [H11 / H8 / H9 / H16 OSRAM](https://genssi.com/products/led-headlight-conversion-kit-gx7-pro-for-jeep-wrangler-jl-2018-up?variant=43362051784787)
     Availability: Not Available
@@ -1946,7 +1946,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/RM02-AMAZON__82737.1574799027.1280.1280.jpg?v=1769033106
   Price: $31.95 USD
 - [LED Conversion Kit Bulbs GX7 Pro Compatible with Peterbilt 330 325 335 340 348 384 386 387 Truck Headlight Lamp Low High](https://genssi.com/products/led-conversion-kit-bulbs-gx7-pro-compatible-with-peterbilt-330-325-335-340-348-384-386-387-truck-headlight-lamp-low-high): Upgrade your Peterbilt with the Pro GX7 LED Headlight bulb kit. Experience up to 3X better visibility and performance with a stunning 8000 Lumens output.
-  Updated: 2026-10-29T18:26:57Z
+  Updated: 2026-11-02T03:37:22Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2016,7 +2016,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/JLU-CRSHR-F-R-02__12017.1578438888.1280.1280.jpg?v=1769032987
   Price: $479.95 USD
 - [G2 Titan LED Headlight Conversion Kit Bulbs](https://genssi.com/products/g2-titan-led-headlight-conversion-kit-bulbs): Transform your night driving experience with the TITAN LED Conversion Kit. Up to 300% brighter, easier installation, and cool white illumination.
-  Updated: 2026-10-29T18:27:02Z
+  Updated: 2026-10-31T17:32:12Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2177,7 +2177,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/H11INPT__28556.1604003754.1280.1280.jpg?v=1769033106
   Price: $8.95 USD
 - [80W LED For Honda trx350 trx420 trx500 MUV700 34901-HP5-601](https://genssi.com/products/80w-led-for-honda-trx350-trx420-trx500-muv700-34901-hp5-601): Enhance your visibility with our durable, cool white LED bulbs! Experience 900 Lumens brightness and up to 10x longer life. Perfect fit for select models!
-  Updated: 2026-10-26T19:54:07Z
+  Updated: 2026-11-05T02:42:16Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2336,7 +2336,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/BA9S-5SMD-W__78782.1636519827.1280.1280.jpg?v=1769032925
   Price: $9.95 USD
 - [H4351/H4352 LED Sealed Beam Headlights for 1993-1997 Camaro (Pair)](https://genssi.com/products/h4351-h4352-led-sealed-beam-replacement-headlights-for-camaro-1993-1997-2-pack): Fits: 1993-1997 Chevrolet Camaro; 1992-1997 Oldsmobile Cutlass Supreme FWD; 1991-1996 Pontiac Grand Prix; 1992-1993 Geo Storm Why You'll Like It Up to 3x brighter than traditional sealed beams for better night visibility Triple projector design for a focused, sharp beam that keeps glare off oncoming drivers Long life and low power draw from modern LED technology Black housing with a clear polycarbonate lens for a modern front end Specifications Part numbers H4351, H4352 Type LED sealed beam replacement Beam type Triple projector LED wattage 30W per lamp Housing color Black Lens material Polycarbonate What's in the Box Sold as a pair. Buy two sets (4 total) to replace all four lamps. Common Questions Will this fit my 1995 Camaro?Yes. It's made for the 1993-1997 Camaro with any engine, plus the 1992-1997 Cutlass Supreme FWD, 1991-1996 Grand Prix and 1992-1993 Geo Storm. How many do I need?These cars use four lamps. One pair covers two; order two sets for all four. Is shipping free?Yes. Shipping is free on every order to the contiguous lower 48 states. Large items ship UPS (a signature may be required); items under 1 lb ship USPS First Class. Can I return it?Yes. Most new, unopened items can be returned within 30 days of delivery with an RMA number. Used or scratched items may carry a restocking fee of up to 25%, and original shipping isn't refundable. How does the warranty work?Coverage starts on the purchase date for the original purchaser, and a covered part is replaced by exchange. Installation Park on level ground, turn the engine off, and disconnect the negative battery cable. Remove the headlight bezel or trim ring screws to reach the existing sealed-beam headlight. Remove the retaining ring, pull the old headlight forward, and unplug it from the harness. Plug the new headlight into the factory connector and test high/low beam before final mounting. Set the new headlight in the bucket, reinstall the retaining ring and bezel. Reconnect the battery, check all functions, and aim the headlights before night driving. These are direct-replacement sealed-beam style lights for the listed sizes. Some vehicles may need anti-flicker or CANbus decoders. Professional installation is recommended if you are unsure.
-  Updated: 2026-10-29T18:27:17Z
+  Updated: 2026-11-04T10:33:11Z
   Vendor: GENSSI
   Product Type: Lighting
   Availability: Available
@@ -2385,7 +2385,7 @@
   Image: https://cdn.shopify.com/s/files/1/0685/9348/3859/files/M6-NUT_6__62071.1660242760.1280.1280.jpg?v=1769033106
   Price: $20.95 USD
 - [Left Door Seal Rubber for BMW E36 Coupe 2 Door 2dr 51711977727 51712138957](https://genssi.com/products/left-door-seal-rubber-for-bmw-e36-coupe-2-door-2dr-51711977727-51712138957): Upgrade your E36 Coupe with our heavy-duty aftermarket door seal, built to outperform OEM. Experience tighter closes & enhanced durability for a smoother ride!
-  Updated: 2026-10-29T18:27:20Z
+  Updated: 2026-10-30T20:13:28Z
   Vendor: GENSSI
   Product Type: Exterior Part
   Availability: Available
@@ -2413,16 +2413,16 @@
   Updated: 2026-10-23T15:45:53Z
   Total Products: 1
 - [LED Lighting](https://genssi.com/collections/led-lighting): A short list of LED headlight upgrades: G7 Elite fanless conversion kits (9005, 9006, 9007, H11), Can-Am Spyder headlight bulbs and a 31" single-row light bar.
-  Updated: 2026-10-24T17:19:31Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 6
 - [Auto Parts Lights LED HID Bumpers Hoods Grilles Tail Lights](https://genssi.com/collections/auto-parts): Auto Parts lighting grilles hoods grilles, HID kits, LED kits, Xenon Lights
   Updated: 2026-10-23T15:46:33Z
   Total Products: 0
 - [Tools](https://genssi.com/collections/tools): Shop tools and adapters: forklift towing receivers and hitch adapters, OBD1-to-OBD2 diagnostic adapter cables (GM, BMW, Nissan/Infiniti) and a welding gas…
-  Updated: 2026-10-29T16:28:03Z
+  Updated: 2026-10-30T11:17:22Z
   Total Products: 7
 - [HID Ballasts](https://genssi.com/collections/hid-kits-hid-ballasts): Replacement HID ballasts, igniters and controllers, including 35W and 55W slim ballasts and OEM-type units listed for specific Acura, Dodge, Ford, Honda and…
-  Updated: 2026-10-24T17:19:32Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 7
 - [LED Strips & Accent Lighting](https://genssi.com/collections/led-lighting-led-strips): LED strips, whip lights, wheel-light kits and RGB controllers for cars, trucks and Jeeps, plus Jeep-specific cargo and interior lighting kits.
   Updated: 2026-10-24T17:19:32Z
@@ -2482,10 +2482,10 @@
   Updated: 2026-10-24T17:19:35Z
   Total Products: 6
 - [LED Exterior Bulbs](https://genssi.com/collections/led-lighting-automotive-lighting-led-bulbs-led-exterior-bulbs): LED replacement bulbs by size: 194, 1156, 1157, 3157, 7443, festoon, 9005, 9012, H10, 880 and D5S, plus 80W ATV headlight bulbs. Free shipping to the lower 48.
-  Updated: 2026-10-24T17:19:40Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 34
 - [LED Light Bar Wiring](https://genssi.com/collections/led-lighting-automotive-lighting-led-light-bars-led-light-bar-harness): Relay harnesses with switches (single, dual and quad output) for wiring LED light bars.
-  Updated: 2026-10-24T17:19:36Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 5
 - [Universal LED Light Bars](https://genssi.com/collections/led-lighting-automotive-lighting-led-light-bars-universal-led-light-bars): Universal LED light bars from 7 to 50 inches in spot, flood and combo beams, single and double row, plus cube pods and amber/white strobe bars. Free shipping.
   Updated: 2026-10-24T17:19:40Z
@@ -2515,22 +2515,22 @@
   Updated: 2026-10-24T17:19:40Z
   Total Products: 5
 - [Automotive Lighting](https://genssi.com/collections/automotive-lighting): LED headlights, tail lights, fog lights, light bars, LED and HID bulbs and accent lights for cars, trucks, Jeeps and motorcycles. Free shipping to the lower 48.
-  Updated: 2026-10-27T11:17:14Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 399
 - [LED Headlights](https://genssi.com/collections/headlights): LED and projector headlights in 7 inch round, 5.75 inch, 4x6, 7x6 and 4.65 inch for Jeeps, trucks, classic cars and motorcycles. Free shipping to lower 48.
-  Updated: 2026-10-27T11:17:14Z
+  Updated: 2026-11-05T12:14:32Z
   Total Products: 461
 - [LED Headlight Conversion Kits](https://genssi.com/collections/led-conversion-kits): Plug-in LED headlight and fog bulb kits: G7 Elite, GX7 Pro, GX8 and kits listed for semi trucks, pickups, SUVs, ATVs and UTVs. Free shipping to the lower 48.
-  Updated: 2026-10-27T11:17:14Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 43
 - [Jeep Parts & Accessories](https://genssi.com/collections/jeep-parts): Parts for Jeep Wrangler (YJ, TJ, JK, JL), Gladiator and Grand Cherokee: grilles, bumpers, fenders, hoods, running boards, lighting and air intakes.
-  Updated: 2026-10-28T17:28:38Z
+  Updated: 2026-11-05T12:14:32Z
   Total Products: 483
 - [Wiring & Electrical](https://genssi.com/collections/wiring-electrical): HID relay harnesses by bulb size, Bi-Xenon controllers, load resistors, light bar relays and harnesses, 12V relays and adapters. Free shipping to the lower 48.
-  Updated: 2026-10-29T19:51:27Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 52
 - [Featured Products](https://genssi.com/collections/-featured): Popular GENSSI picks, including the Camaro H4351/H4352 LED sealed beams, APOLLO XJ/YJ headlights, Ferrari 360/F430 wheels and the forklift towing receiver.
-  Updated: 2026-10-29T16:28:03Z
+  Updated: 2026-10-30T11:17:22Z
   Total Products: 8
 - [Jeep Grilles](https://genssi.com/collections/jeep-grilles): Replacement grilles and inserts for Jeep Wrangler JK (2007-2017), JL, TJ and Gladiator JT. Mesh, Vader, Shark, Warrior and LED styles. Free shipping, lower 48.
   Updated: 2026-10-25T11:18:11Z
@@ -2539,16 +2539,16 @@
   Updated: 2026-10-27T11:17:14Z
   Total Products: 21
 - [Jeep Bumpers](https://genssi.com/collections/jeep-bumpers): Steel front and rear bumpers for Jeep Wrangler JK (2007-2017), JL, TJ and Gladiator JT, in stubby, full-width, bull bar and tire carrier styles. Free shipping.
-  Updated: 2026-10-24T00:39:33Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 21
 - [Jeep Fenders & Flares](https://genssi.com/collections/jeep-fenders): Steel fender flares, tube fenders, inner fender liners and a fender delete kit for Jeep Wrangler JK (2007-2017), JL, TJ, YJ and Gladiator JT. Free shipping.
   Updated: 2026-10-24T03:57:13Z
   Total Products: 22
 - [Jeep Headlights](https://genssi.com/collections/jeep-headlights): LED and projector headlights for Jeep Wrangler JL, JK, TJ, YJ, Gladiator and Cherokee XJ. 9 inch, 7 inch round and 7x6 sizes. Free shipping to the lower 48.
-  Updated: 2026-10-26T19:54:38Z
+  Updated: 2026-11-05T12:14:32Z
   Total Products: 63
 - [Jeep Tail Lights](https://genssi.com/collections/jeep-tail-lights): LED and smoked tail lights for Jeep Wrangler JL, JK, TJ, YJ and CJ, Gladiator JT and Cherokee XJ, plus tail light guards. Free shipping to the lower 48.
-  Updated: 2026-10-28T17:28:38Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 55
 - [Jeep Hoods](https://genssi.com/collections/jeep-hoods): Replacement hoods for Jeep Wrangler JK (2007-2017), Wrangler JL and Gladiator JT (2018 and up) in AVENGER, MPR and AGGRESSOR styles. Free shipping, lower 48.
   Updated: 2026-10-24T00:39:34Z
@@ -2557,19 +2557,19 @@
   Updated: 2026-10-24T00:39:35Z
   Total Products: 22
 - [Jeep Side Marker & Bumper Lights](https://genssi.com/collections/jeep-side-bumper-lights): Smoked, clear and LED side markers, corner lights and bumper signals for Jeep Wrangler YJ, TJ, JK and JL, Gladiator JT, Cherokee XJ and Grand Cherokee.
-  Updated: 2026-10-24T04:12:23Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 29
 - [Jeep LED Fog Lights](https://genssi.com/collections/jeep-fog-lights): LED and halo fog lights for Jeep Wrangler JK (2007-2017), JL Sport, Rubicon and Sahara, Gladiator JT and Grand Cherokee, plus headlight and fog light kits.
   Updated: 2026-10-24T00:39:36Z
   Total Products: 20
 - [Tail Lights](https://genssi.com/collections/tail-lights): LED and smoked tail lights for Jeep Wrangler JL, JK, TJ, YJ, CJ and Gladiator JT, plus bumper reflector and spoiler lights. Free shipping to the lower 48.
-  Updated: 2026-10-28T17:35:13Z
+  Updated: 2026-11-05T12:14:32Z
   Total Products: 270
 - [Fog Lights](https://genssi.com/collections/fog-lights): LED and halo fog lights for Jeep Wrangler JL, JK and Gladiator, rear bumper fog lights for Grand Cherokee WK2, and headlight-fog combos. Free US shipping.
   Updated: 2026-10-29T19:51:27Z
   Total Products: 72
 - [Side Marker & Bumper Lights](https://genssi.com/collections/side-marker-bumper-lights): LED and smoked side markers, corner lights, bumper turn signals and rear bumper lights for Jeep Wrangler JL, JK, TJ, YJ, Cherokee XJ and Grand Cherokee.
-  Updated: 2026-10-24T17:19:42Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 29
 - [Remote Starters](https://genssi.com/collections/remote-starters): Plug and play remote start kits for Jeep Wrangler JK, Grand Cherokee, Compass, Liberty and Patriot. Start with your factory key fob. Free shipping to lower 48.
   Updated: 2026-10-24T17:19:42Z
@@ -2581,13 +2581,13 @@
   Updated: 2026-10-24T17:19:43Z
   Total Products: 12
 - [Light Bars](https://genssi.com/collections/light-bars): LED light bars from 7 to 50 inches, plus vehicle kits for Jeep, Silverado, Sierra and Super Duty, brackets, A-pillar kits and relay harnesses. Free shipping.
-  Updated: 2026-10-24T16:42:35Z
+  Updated: 2026-11-04T12:16:18Z
   Total Products: 50
 - [HID/LED Ballasts](https://genssi.com/collections/hid-led-ballasts): Replacement HID ballasts, OEM xenon ballast modules, igniters, LED headlight driver and DRL modules. Free shipping to the lower 48.
-  Updated: 2026-10-25T02:29:19Z
+  Updated: 2026-11-03T12:17:32Z
   Total Products: 58
 - [Best Sellers](https://genssi.com/collections/best-sellers)
-  Updated: 2026-10-29T19:51:27Z
+  Updated: 2026-11-05T12:14:32Z
   Total Products: 1470
 
 ## Blogs
@@ -3032,7 +3032,7 @@
 ## Policies
 
 - [Privacy Policy](https://genssi.com/policies/privacy-policy)
-  Updated: 2025-12-21T17:43:58Z
+  Updated: 2026-10-30T19:56:53Z
 - [Shipping Policy](https://genssi.com/policies/shipping-policy)
   Updated: 2026-10-23T19:17:40Z
 - [Refund Policy](https://genssi.com/policies/refund-policy)
