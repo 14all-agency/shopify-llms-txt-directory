@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-09T11:03:01Z
 - Contact Email: rarelyfllc@gmail.com
-- Updated At: 2026-10-30T00:58:42.148Z
+- Updated At: 2026-11-06T01:08:41.047Z
 
 ## About RareLyf 
 
@@ -42,11 +42,11 @@
 ## Products
 
 - [RareLyf Calm](https://rarelyf.com/products/calm): RareLyf Calm supports stress, sleep, mood, restoration, and the absorption layer that decides whether any of it reaches you. No melatonin. No proprietary blends. No morning fog. Just 15 ingredients with every dose printed on the label. ✔ Quiet the mind instead of sedating the body✔ Wake up clear, not heavy✔ Five layers covered, not one✔ Know exactly what you're taking, down to the milligram Cover one layer and the other four still decide how the night goes.
-  Updated: 2026-10-29T08:09:42Z
+  Updated: 2026-11-02T06:20:16Z
   Vendor: RareLyf
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero_-_Ayurvedic_positioning.jpg?v=1793256265
+  Image: https://cdn.shopify.com/s/files/1/0756/8949/2659/files/RareLyf_Calm_Hero_-_Ayurvedic_positioning.jpg?v=1793436340
   Price: $59.99 USD
 - [90 Days Restoration Scratchcard](https://rarelyf.com/products/90-days-restoration-scratchcard)
   Updated: 2026-10-22T12:17:34Z
@@ -88,7 +88,7 @@
 ## Policies
 
 - [Privacy Policy](https://rarelyf.com/policies/privacy-policy)
-  Updated: 2026-06-09T11:03:12Z
+  Updated: 2026-10-31T06:05:22Z
 - [Shipping Policy](https://rarelyf.com/policies/shipping-policy)
   Updated: 2026-07-07T07:32:03Z
 - [Refund Policy](https://rarelyf.com/policies/refund-policy)
