@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-02-24T17:17:41Z
 - Contact Email: shfgemspk@gmail.com
-- Updated At: 2026-10-30T01:06:28.893Z
+- Updated At: 2026-11-06T01:12:29.412Z
 
 ## Products
 
@@ -1773,7 +1773,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:48:56Z
   Total Products: 0
 - [Discounts on Gemstones Deals](https://www.gemsvisor.com/collections/discounts-on-gemstones-deals)
-  Updated: 2026-10-21T12:50:07Z
+  Updated: 2026-10-31T20:28:19Z
   Total Products: 539
 - [Epidote Crystals](https://www.gemsvisor.com/collections/epidote-crystals)
   Updated: 2026-07-09T18:02:56Z
@@ -1983,8 +1983,8 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:49:00Z
   Total Products: 0
 - [Sold Out Gems and Minerals](https://www.gemsvisor.com/collections/sold-out-gems-and-minerals)
-  Updated: 2026-10-21T12:51:53Z
-  Total Products: 80
+  Updated: 2026-10-31T20:29:02Z
+  Total Products: 79
 - [Sold Out Gemstones and Minerals](https://www.gemsvisor.com/collections/sold-out-gemstones-and-minerals)
   Updated: 2026-07-09T16:49:01Z
   Total Products: 0
@@ -2022,11 +2022,11 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:03:10Z
   Total Products: 8
 - [Under $300USD Gems ](https://www.gemsvisor.com/collections/under-300usd-gems-)
-  Updated: 2026-09-21T11:14:24Z
-  Total Products: 185
+  Updated: 2026-10-31T20:29:02Z
+  Total Products: 184
 - [Under $500 Gems Deals](https://www.gemsvisor.com/collections/under-500-gems-deals)
-  Updated: 2026-09-22T18:29:40Z
-  Total Products: 273
+  Updated: 2026-10-31T20:29:02Z
+  Total Products: 272
 - [Vayrynenite Minerals](https://www.gemsvisor.com/collections/vayrynenite-minerals)
   Updated: 2026-07-09T16:49:01Z
   Total Products: 0
