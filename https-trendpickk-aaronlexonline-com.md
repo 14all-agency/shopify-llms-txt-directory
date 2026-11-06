@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-08-01T08:18:25Z
 - Contact Email: aaronlexbusinesssolutions@gmail.com
-- Updated At: 2026-10-30T01:04:03.232Z
+- Updated At: 2026-11-06T01:11:01.136Z
 
 ## Products
 
@@ -2705,7 +2705,7 @@
 ## Policies
 
 - [Privacy Policy](https://trendpickk.aaronlexonline.com/policies/privacy-policy)
-  Updated: 2026-08-01T08:18:28Z
+  Updated: 2026-10-31T10:19:45Z
 - [Shipping Policy](https://trendpickk.aaronlexonline.com/policies/shipping-policy)
   Updated: 2026-08-03T15:47:19Z
 - [Refund Policy](https://trendpickk.aaronlexonline.com/policies/refund-policy)
