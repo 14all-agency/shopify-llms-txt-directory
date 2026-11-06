@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-10-30T00:55:55.849Z
+- Updated At: 2026-11-06T01:00:32.030Z
 
 ## Products
 
@@ -177,7 +177,7 @@
 ## Policies
 
 - [Privacy Policy](https://kindlights.co/policies/privacy-policy)
-  Updated: 2026-05-17T15:18:31Z
+  Updated: 2026-10-31T19:09:17Z
 - [Terms of Service](https://kindlights.co/policies/terms-of-service)
   Updated: 2026-08-19T12:24:58Z
 
