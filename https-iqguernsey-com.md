@@ -10,7 +10,7 @@
 - Contact Email: shop@iqguernsey.com
 - Contact Phone: +44 1481 712111
 - Address: 50 High St Guernsey GY1 2JU
-- Updated At: 2026-10-30T00:50:12.249Z
+- Updated At: 2026-11-06T01:05:02.874Z
 
 ## What We 
 
@@ -55,7 +55,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14854459.jpg?v=1742659031
   Price: £183.00 GBP
 - [EarPods (USB-C)](https://iqguernsey.com/products/earpods-usb-c-myqy3zm-a): Unlike traditional, circular earbuds, the design of the EarPods is defined by the geometry of the ear. Which makes them more comfortable for more people than any other earbud-style headphones.
-  Updated: 2026-10-07T11:35:47Z
+  Updated: 2026-11-03T15:56:46Z
   Vendor: Apple
   Product Type: EarPods
   Availability: Available
@@ -188,7 +188,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-14666535.png?v=1742658368
   Price: £41.00 GBP
 - [iPhone 16 128GB Teal](https://iqguernsey.com/products/iphone-16-myed3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-19T10:49:47Z
+  Updated: 2026-11-03T14:34:19Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -426,7 +426,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-15317178.jpg?v=1742658217
   Price: £500.00 GBP
 - [iPhone 16 Plus 128GB Teal](https://iqguernsey.com/products/iphone-16-mxvy3qn-a): iPhone 16 Plus. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-02T17:59:55Z
+  Updated: 2026-11-02T16:27:36Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -671,7 +671,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192293_ae30c214-ac7c-449e-a210-db516795d2b9.jpg?v=1745833496
   Price: £2,000.00 GBP
 - [iPhone 16 128GB Ultramarine](https://iqguernsey.com/products/iphone-16-myec3qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-19T11:29:48Z
+  Updated: 2026-11-02T13:44:28Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -762,7 +762,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-13192253_09d1d181-e46f-4906-9790-eb7bd7aff894.jpg?v=1745833374
   Price: £1,416.00 GBP
 - [iPhone 16 128GB White](https://iqguernsey.com/products/iphone-16-mye93qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-26T16:16:35Z
+  Updated: 2026-11-02T13:44:17Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -797,7 +797,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-10526763.png?v=1742658710
   Price: £41.00 GBP
 - [iPhone 16 128GB Black](https://iqguernsey.com/products/iphone-16-mye73qn-a): iPhone 16. Built for Apple Intelligence. Featuring Camera Control. 48MP Fusion camera. Five vibrant colours. And A18 chip.
-  Updated: 2026-10-16T15:53:03Z
+  Updated: 2026-11-02T13:44:09Z
   Vendor: Apple
   Product Type: iPhone
   Availability: Available
@@ -1098,7 +1098,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16740428.jpg?v=1742658564
   Price: £2,083.00 GBP
 - [iPad Wi-Fi 256GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4p4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-29T10:59:06Z
+  Updated: 2026-11-02T15:09:01Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1217,7 +1217,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745387.jpg?v=1745837858
   Price: £875.00 GBP
 - [iPad Wi-Fi 128GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md3y4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-28T13:23:36Z
+  Updated: 2026-11-05T15:05:42Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1238,7 +1238,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745433_5dd6d0b2-ba38-46d4-916e-ee34075e7fff.jpg?v=1745837890
   Price: £666.00 GBP
 - [iPad Wi-Fi 256GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4g4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T22:02:28Z
+  Updated: 2026-11-02T13:42:57Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1287,7 +1287,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16714679_m_jpg_1.jpg?v=1745838052
   Price: £41.00 GBP
 - [iPad Wi-Fi 512GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md5c4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T22:01:03Z
+  Updated: 2026-11-03T09:29:17Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1364,14 +1364,14 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745040.jpg?v=1745838159
   Price: £625.00 GBP
 - [iPad Wi-Fi 512GB - Silver (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4q4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-20T21:58:13Z
+  Updated: 2026-11-03T09:29:06Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16744992_3610593f-2f65-4a10-b7e9-edb74959ec92.jpg?v=1742658489
   Price: £608.00 GBP
 - [iPad Wi-Fi 128GB - Pink (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4e4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-24T13:18:05Z
+  Updated: 2026-11-02T13:42:35Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1406,7 +1406,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745377_1110d002-f195-43e7-b3f5-26535aef09c2.jpg?v=1745838257
   Price: £792.00 GBP
 - [iPad Wi-Fi 256GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4h4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-28T11:40:46Z
+  Updated: 2026-11-02T13:42:58Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1455,7 +1455,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16720088_m_jpg_1.jpg?v=1742658458
   Price: £41.00 GBP
 - [iPad Wi-Fi 128GB - Yellow (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4d4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-27T14:44:07Z
+  Updated: 2026-11-02T13:42:26Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1511,7 +1511,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Image: https://cdn.shopify.com/s/files/1/0922/0669/4719/files/IMG-16745050_760a392c-a52a-458b-82c5-9a247e214643.jpg?v=1745838477
   Price: £708.00 GBP
 - [iPad Wi-Fi 128GB - Blue (A16)](https://iqguernsey.com/products/2025-ipad-a16-md4a4kn-a): The 11-inch iPad is now more capable than ever with the superfast A16 chip, Liquid Retina display, advanced cameras, fast Wi-Fi 6, USB-C connector, and four gorgeous colours. iPad delivers a powerful way to create, stay connected and get things done — all for a surprisingly affordable price.
-  Updated: 2026-10-28T15:50:51Z
+  Updated: 2026-11-04T14:49:22Z
   Vendor: Apple
   Product Type: iPad
   Availability: Available
@@ -1822,7 +1822,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:47Z
   Total Products: 32
 - [apl_ps_2025 iPad A16](https://iqguernsey.com/collections/apl-ps-2025-ipad-a16)
-  Updated: 2026-10-24T11:20:03Z
+  Updated: 2026-11-01T12:17:20Z
   Total Products: 24
 - [apl_ps_Magic Keyboard for iPad Air 13‑inch (M3)](https://iqguernsey.com/collections/apl-ps-magic-keyboard-for-ipad-air-13-inch-m3)
   Updated: 2026-06-24T14:59:22Z
@@ -2032,7 +2032,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-17T12:30:55Z
   Total Products: 1
 - [apl_ps_20W USB-C Power Adapter](https://iqguernsey.com/collections/apl_ps_20w-usb-c-power-adapter)
-  Updated: 2026-06-23T08:29:38Z
+  Updated: 2026-10-30T11:16:17Z
   Total Products: 1
 - [apl_ps_24-inch iMac with Retina 4.5K display](https://iqguernsey.com/collections/apl_ps_24-inch-imac-with-retina-4-5k-display)
   Updated: 2026-09-17T12:30:57Z
@@ -2496,7 +2496,7 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
 - [MacBook Neo](https://iqguernsey.com/pages/macbook-neo)
   Updated: 2026-03-23T09:36:26Z
 - [Compare all Mac Models](https://iqguernsey.com/pages/mac-compare)
-  Updated: 2026-03-20T12:20:35Z
+  Updated: 2026-11-01T13:37:09Z
 - [MacBook Air M5](https://iqguernsey.com/pages/macbook-air-m5)
   Updated: 2026-03-04T21:26:46Z
 - [MacBook Pro M5 Max / Pro](https://iqguernsey.com/pages/macbook-pro-m5)
@@ -2519,11 +2519,17 @@ iQ Guernsey is an Apple Premium Partner, which means Apple- staff, genuine Apple
   Updated: 2026-09-14T12:17:58Z
 - [iPad mini A20 Pro](https://iqguernsey.com/pages/ipad-mini-a20-pro)
   Updated: 2026-10-28T09:46:05Z
+- [iMac M6](https://iqguernsey.com/pages/imac-m6)
+  Updated: 2026-11-01T13:50:09Z
+- [MacBook Pro M6](https://iqguernsey.com/pages/macbook-pro-m6)
+  Updated: 2026-11-01T14:07:49Z
+- [MacBook Pro with PROLED XDR Display: Apple M5](https://iqguernsey.com/pages/macbook-pro-with-proled-xdr-display-apple-m5)
+  Updated: 2026-11-01T14:20:59Z
 
 ## Policies
 
 - [Privacy Policy](https://iqguernsey.com/policies/privacy-policy)
-  Updated: 2024-12-20T15:01:23Z
+  Updated: 2026-10-30T02:45:53Z
 - [Shipping Policy](https://iqguernsey.com/policies/shipping-policy)
   Updated: 2025-04-11T06:20:58Z
 - [Refund Policy](https://iqguernsey.com/policies/refund-policy)
