@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-04T21:45:03Z
 - Contact Email: hello@maisonandi.com
-- Updated At: 2026-10-30T00:57:00.119Z
+- Updated At: 2026-11-06T01:06:21.480Z
 
 ## Products
 
@@ -480,7 +480,10 @@
     Updated: 2026-10-28T11:11:35Z
     Author: andi
   - [The Art of Anatomical Design in Gender-Affirming Swimwear](https://www.maisonandi.com/blogs/journal/the-art-of-anatomical-design-in-gender-affirming-swimwear): The Art of Anatomical Design in Gender-Affirming Swimwear
-    Updated: 2026-10-28T18:01:31Z
+    Updated: 2026-11-01T11:41:32Z
+    Author: andi
+  - [How Tuck-Friendly Underwear Combines Comfort and Functionality for All Genders](https://www.maisonandi.com/blogs/journal/how-tuck-friendly-underwear-combines-comfort-and-functionality-for-all-genders): How Tuck-Friendly Underwear Combines Comfort and Functionality for All Genders
+    Updated: 2026-11-03T08:39:42Z
     Author: andi
 
 ## Store Pages
@@ -509,7 +512,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.maisonandi.com/policies/privacy-policy)
-  Updated: 2025-07-15T14:51:03Z
+  Updated: 2026-10-30T04:06:19Z
 - [Shipping Policy](https://www.maisonandi.com/policies/shipping-policy)
   Updated: 2026-03-03T15:08:36Z
 - [Refund Policy](https://www.maisonandi.com/policies/refund-policy)
