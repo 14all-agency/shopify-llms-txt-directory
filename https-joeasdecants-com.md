@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-10-31T00:36:34.084Z
+- Updated At: 2026-11-07T00:37:53.677Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -3031,7 +3031,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $33.00 USD
 - [Cocoa Bliss](https://joeasdecants.com/products/cocoa-bliss): Top Notes: Peach, Passion Fruit Mid Notes: Base Notes: Dark Chocolate
-  Updated: 2026-10-17T20:13:08Z
+  Updated: 2026-11-02T20:33:55Z
   Vendor: Zara
   Product Type: Cocoa Bliss
   Availability: Available
@@ -3254,16 +3254,16 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-10-29T11:14:13Z
   Total Products: 59
 - [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
-  Updated: 2026-10-30T16:57:31Z
+  Updated: 2026-10-31T11:12:37Z
   Total Products: 2266
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
-  Updated: 2026-10-29T10:45:33Z
+  Updated: 2026-10-31T11:12:37Z
   Total Products: 94
 - [The Gentleman](https://joeasdecants.com/collections/the-gentleman)
   Updated: 2026-08-21T11:18:00Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-10-29T11:14:13Z
+  Updated: 2026-10-31T11:12:37Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
   Updated: 2026-10-29T10:45:35Z
@@ -3680,8 +3680,8 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2025-05-16T12:46:53Z
 - [Scent Match](https://joeasdecants.com/pages/scent-match)
   Updated: 2026-06-21T15:29:47Z
-- [Ambre Crystal by Aromafo | Amber Fragrance from $15](https://joeasdecants.com/pages/aromafo-home-page): Aromafo is a modern fragrance house built for real people who want to smell incredible without the elitist attitude or expensive prices. At Aromafo...
-  Updated: 2026-10-28T18:23:43Z
+- [Ambre Crystal by Aromafo | Amber Fragrance from $25](https://joeasdecants.com/pages/aromafo-home-page): Aromafo is a modern fragrance house built for real people who want to smell incredible without the elitist attitude or expensive prices. At Aromafo...
+  Updated: 2026-11-01T20:18:25Z
 - [Our Blog](https://joeasdecants.com/pages/our-blog): Joe A's central hub for all blogs, blurbs and babblings! While some are free for everyone, most others will be available only through our Gold Memb...
   Updated: 2025-11-17T20:48:12Z
 - [About Us / FAQ](https://joeasdecants.com/pages/about-us)
