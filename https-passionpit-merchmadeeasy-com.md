@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-05-05T20:56:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:16:30.092Z
+- Updated At: 2026-11-07T00:17:05.607Z
 
 ## Products
 
@@ -107,7 +107,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Orb Tee](https://passionpit.merchmadeeasy.com/products/orb-tee-copy): 100% cotton tee in Black Unisex
-  Updated: 2026-10-05T13:06:22Z
+  Updated: 2026-11-05T00:02:56Z
   Vendor: Passion Pit
   Product Type: T-Shirt
   Availability: Available
@@ -139,14 +139,14 @@
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0001_PP-Tote.png?v=1778188737
   Price: $20.00 USD
 - [Gossamer CD](https://passionpit.merchmadeeasy.com/products/gossamer-cd): Gossamer CD by Passion Pit
-  Updated: 2026-10-20T01:28:33Z
+  Updated: 2026-11-04T09:27:14Z
   Vendor: Passion Pit
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/5854/0827/files/Passion_Pit_0005_Passion_Pit_Gossamer_CD_5000x_6a3f3803-6aa0-4947-a282-5572f04e81c1.png?v=1779983108
   Price: $14.98 USD
 - [Chunk of Change Vinyl](https://passionpit.merchmadeeasy.com/products/chunk-of-change-vinyl): Tracklist: I've Got Your Number Smile Upon Me Cuddle Fuddle Live to Tell the Tale Better Things Sleepyhead
-  Updated: 2026-10-15T00:21:06Z
+  Updated: 2026-11-06T15:57:12Z
   Vendor: Passion Pit
   Product Type: Vinyl
   Availability: Available
@@ -244,16 +244,16 @@ Unisex
 ## Collections
 
 - [Home page](https://passionpit.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-20T11:21:32Z
+  Updated: 2026-11-05T12:23:09Z
   Total Products: 10
 - [Apparel](https://passionpit.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-06T11:23:55Z
+  Updated: 2026-11-05T12:23:09Z
   Total Products: 9
 - [Accessories](https://passionpit.merchmadeeasy.com/collections/accessories)
   Updated: 2026-09-23T11:20:33Z
   Total Products: 5
 - [Music](https://passionpit.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-20T11:21:32Z
+  Updated: 2026-11-04T12:19:15Z
   Total Products: 2
 - [Pretty Penny Tour](https://passionpit.merchmadeeasy.com/collections/tour)
   Updated: 2026-10-06T11:23:55Z
@@ -262,10 +262,10 @@ Unisex
   Updated: 2026-09-21T17:41:03Z
   Total Products: 0
 - [All](https://passionpit.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-20T11:21:32Z
+  Updated: 2026-11-05T12:23:09Z
   Total Products: 15
 - [T-Shirts](https://passionpit.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-09-23T11:20:33Z
+  Updated: 2026-11-05T12:23:09Z
   Total Products: 7
 
 ## Store Pages
