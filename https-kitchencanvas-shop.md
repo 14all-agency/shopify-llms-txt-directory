@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-20T00:56:01Z
 - Contact Email: support@tl5kitchenmarketplace.com
-- Updated At: 2026-10-31T00:19:46.808Z
+- Updated At: 2026-11-07T00:24:55.166Z
 
 ## Products
 
@@ -393,6 +393,24 @@
   - [A Historical Perspective on Classic Cooking Gadgets](https://kitchencanvas.shop/blogs/news/a-historical-perspective-on-classic-cooking-gadgets): A Historical Perspective on Classic Cooking Gadgets
     Updated: 2026-10-30T00:24:00Z
     Author: Kitchen Canvas
+  - [Meat Thermometer Guide for Better Everyday Meals](https://kitchencanvas.shop/blogs/news/meat-thermometer-guide): Meat Thermometer Guide for Better Everyday Meals
+    Updated: 2026-10-31T02:23:28Z
+    Author: Admin
+  - [The Dos and Don’ts of Buying Kitchen Gadgets](https://kitchencanvas.shop/blogs/news/the-dos-and-don-ts-of-buying-kitchen-gadgets): The Dos and Don’ts of Buying Kitchen Gadgets
+    Updated: 2026-11-02T01:09:29Z
+    Author: Kitchen Canvas
+  - [Over Sink Colander Versus Bowl: Which Fits?](https://kitchencanvas.shop/blogs/news/over-sink-colander-versus-bowl): Over Sink Colander Versus Bowl: Which Fits?
+    Updated: 2026-11-02T02:24:20Z
+    Author: Admin
+  - [Are Electric Grinders Worth Buying for Your Kitchen?](https://kitchencanvas.shop/blogs/news/are-electric-grinders-worth-buying): Are Electric Grinders Worth Buying for Your Kitchen?
+    Updated: 2026-11-04T02:31:45Z
+    Author: Admin
+  - [Exploring the Latest Trends in Sustainable Kitchen Tools](https://kitchencanvas.shop/blogs/news/exploring-the-latest-trends-in-sustainable-kitchen-tools): Exploring the Latest Trends in Sustainable Kitchen Tools
+    Updated: 2026-11-06T00:24:36Z
+    Author: Kitchen Canvas
+  - [How to Clean Cast Iron Without Damaging the Seasoning](https://kitchencanvas.shop/blogs/news/how-to-clean-cast-iron): How to Clean Cast Iron Without Damaging the Seasoning
+    Updated: 2026-11-06T02:30:25Z
+    Author: Admin
 
 ## Store Pages
 
@@ -414,7 +432,7 @@
 ## Policies
 
 - [Privacy Policy](https://kitchencanvas.shop/policies/privacy-policy)
-  Updated: 2026-07-15T22:47:28Z
+  Updated: 2026-10-31T05:51:16Z
 - [Shipping Policy](https://kitchencanvas.shop/policies/shipping-policy)
   Updated: 2026-06-20T04:56:54Z
 - [Refund Policy](https://kitchencanvas.shop/policies/refund-policy)
