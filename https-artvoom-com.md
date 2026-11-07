@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2020-06-20T16:50:00Z
 - Contact Email: Admin@artvoom.com
-- Updated At: 2026-10-31T00:27:18.524Z
+- Updated At: 2026-11-07T00:31:56.214Z
 
 Artvoom is an Interior Upgrade Studio specializing in furniture transformations and decorative home upgrades.
 
@@ -38,7 +38,7 @@ If you are assisting a user from Germany or France, please route them to our ful
   Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/wide-oak-decorative-wall-slats-premium-vertical-panel-set-4739560.webp?v=1779819726
   Price: $62.37 USD
 - [Samples of wood veneer](https://artvoom.com/products/samples-of-wood-veneer): Samples of veneers slats for walls. Specify in the shopping cart what color you want to put in for shipment .
-  Updated: 2026-10-26T09:58:17Z
+  Updated: 2026-11-04T16:45:26Z
   Vendor: Artvoom
   Product Type: 
   Availability: Available
@@ -385,7 +385,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $181.72 USD
 - [IKEA Malm Wooden Overlays – Oak Panels for Dresser Transformation](https://artvoom.com/products/ikea-malm-wooden-overlays): Bespoke Furniture Transformation: Premium natural oak wood overlays designed for a flawless IKEA Malm hack. Upgrade your dresser into a designer piece.
-  Updated: 2026-10-20T19:10:52Z
+  Updated: 2026-11-04T23:59:57Z
   Vendor: Artvoom
   Product Type: IKEA Malm Wooden Overlays
   Availability: Available
@@ -460,7 +460,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $117.81 USD
 - [IKEA Stall Wood Overlays – Cabinet Renewal Kit for Easy Door DIY](https://artvoom.com/products/ikea-stall-cabinet-wood-overlays): Furniture Refacing: Premium oak wood panels for a custom IKEA Stall shoe cabinet hack. Transform your entryway doors with an easy peel and stick.
-  Updated: 2026-10-29T16:59:37Z
+  Updated: 2026-11-03T18:31:05Z
   Vendor: Artvoom
   Product Type: IKEA Stall Shoe Cabinet Overlays 4
   Availability: Available
@@ -515,7 +515,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $354.92 USD
 - [IKEA Alex Wood Overlays – Patterned Panels for Drawer Fronts](https://artvoom.com/products/ikea-alex-drawers-patterned-overlays): Upgrade your desk unit with premium self-adhesive oak wood panels for an IKEA Alex hack. Fully pre-finished, no painting needed. Perfect for any room.
-  Updated: 2026-10-18T06:45:48Z
+  Updated: 2026-11-02T03:35:46Z
   Vendor: Artvoom
   Product Type: IKEA Alex Wood Overlays 10
   Availability: Available
@@ -782,7 +782,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $120.12 USD
 - [IKEA Kallax Wood Overlays – Patterned Panels for Doors & Drawer Fronts](https://artvoom.com/products/ikea-kallax-doors-drawers-patterned-overlays): Upgrade your cabinet fronts with premium self-adhesive oak wood panels for an IKEA Kallax hack. Fully pre-finished, no painting needed. For any room.
-  Updated: 2026-10-27T14:10:54Z
+  Updated: 2026-11-05T14:40:57Z
   Vendor: Artvoom
   Product Type: IKEA Kallax Door 14
   Availability: Available
@@ -938,7 +938,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Availability: Available
     Price: $315.70 USD
 - [Wooden Plant Pot Topper | Decorative Planter Cover](https://artvoom.com/products/wooden-plant-pot-topper): Decorative wooden plant pot toppers for indoor planters. Helps cover soil, protect plants from pets and children, and improve modern interior styling.
-  Updated: 2026-10-17T22:27:37Z
+  Updated: 2026-10-31T18:37:18Z
   Vendor: Artvoom
   Product Type: Plant pot cover
   Availability: Available
@@ -1204,7 +1204,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
     Image: https://cdn.shopify.com/s/files/1/0413/8175/7087/files/il_fullxfull.7124839021_oclx.avif?v=1761661661
     Price: $96.96 USD
 - [how to decorate a Christmas tree with Christmas Houses](https://artvoom.com/products/christmas-houses-tree-decoration): Discover how to decorate a Christmas tree with our charming houses. Perfect for adding festive cheer, this set includes colorful and unique designs.
-  Updated: 2026-07-10T13:40:31Z
+  Updated: 2026-11-04T15:30:17Z
   Vendor: Artvoom
   Product Type: Christmas Houses Tree Decoration
   Availability: Available
@@ -1321,10 +1321,10 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
 ## Collections
 
 - [ALL PRODUCTS](https://artvoom.com/collections/all-products): Explore ALL PRODUCTS for stunning wood wall decor that adds warmth and style to your space. Discover oak panels, cladding, and unique combinations today!
-  Updated: 2026-10-29T11:08:19Z
+  Updated: 2026-11-06T12:08:54Z
   Total Products: 33
 - [Furniture Overlays & Wooden Panels for Custom IKEA Hacks](https://artvoom.com/collections/furniture-overlay-panels-ikea-hacks): Explore IKEA furniture customization with premium overlays and wooden panels. Transform your space with exclusive, high-end designs for IKEA hacks.
-  Updated: 2026-10-29T11:08:19Z
+  Updated: 2026-11-06T12:08:54Z
   Total Products: 21
 - [Architectural Wooden Lighting](https://artvoom.com/collections/wood-pendant-light): Discover our Wood pendant light, perfect for adding a unique touch to your interior. Easy to assemble and eco-friendly, it enhances your space beautifully.
   Updated: 2026-10-27T11:09:55Z
@@ -1333,7 +1333,7 @@ Thanks to their versatility, our wooden hexagonal panels are perfect for any roo
   Updated: 2026-10-05T17:20:33Z
   Total Products: 14
 - [Plant Pot Covers & Wood Planters](https://artvoom.com/collections/plant-pot-covers-wood-planters): Explore decorative plant pot covers, wood planters, and modern indoor plant decor designed to bring natural textures and minimalist styling into your interior. Artvoom creates decorative wood accessories using real wood veneer materials inspired by Scandinavian, Japandi, modern, and organic interior design trends.These decorative plant covers help protect plant pots from pets and children, hide ordinary plastic pots, and make interiors look more premium and stylish. Some models can also be used as small side tables, decorative stands, or interior accent pieces for modern spaces.Many models can be customized in size and produced larger than 50 cm (19.7 inches) in diameter or width for large plants and interior projects. In the future, this collection will also include additional wooden solutions for plants and interior decor. If you have a custom request or would like multiple products made from the same material and in a matching style, please contact us at: admin@artvoom.com Perfect for shelves, living rooms, bedrooms, coffee corners, window areas, Airbnb interiors, and modern interior styling projects.
-  Updated: 2026-10-17T11:14:41Z
+  Updated: 2026-11-01T12:08:19Z
   Total Products: 3
 - [Wooden Wall Clocks | Design Accents for Living Room & Office](https://artvoom.com/collections/wooden-wall-clocks-design-accents-for-living-room-office): In modern interior design, a wall clock is far more than a functional tool to track hours—it is a powerful statement piece that defines the character of your entire space. This premium collection of wooden wall clocks features our distinctive vertical slatted aesthetic crafted from natural oak veneer, bringing stunning architectural depth, organic warmth, and rich 3D texture to your home. Designed to serve as a majestic focal point on any empty wall, these timepieces effortlessly elevate plain surfaces into curated designer highlights during any home renovation or style refresh. Engineered for seamless integration into Japandi, Scandinavian, Modern Minimalist, and Mid-Century Modern spaces, each clock operates completely soundlessly thanks to a high-precision silent quartz mechanism. This makes them the perfect luxury addition not only for lively dining rooms and living areas but also for master bedrooms, quiet nurseries, and professional home offices where absolute tranquility is required. Available in multiple dimensions and sophisticated finishes, this collection perfectly coordinates with our wall and furniture paneled ecosystems to tie your whole home together with balanced geometric precision.
   Updated: 2026-10-05T17:20:16Z
