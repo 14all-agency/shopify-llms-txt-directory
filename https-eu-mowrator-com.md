@@ -6,12 +6,12 @@
 - Timezone: Europe/Berlin
 - Created At: 2024-07-16T06:16:58Z
 - Contact Email: support-eu@mowrator.com
-- Updated At: 2026-10-31T00:29:07.228Z
+- Updated At: 2026-11-07T00:33:56.811Z
 
 ## Products
 
 - [Mowrator S1 Leaf & Lawn 4WD 75% Slope with Leaf Shredding Vacuum](https://eu.mowrator.com/products/mowrator-s1-remote-control-electric-lawn-mower): Mowrator S1 Pro 4WD is the world's first 5-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 4500 m² per charge. It is capable of tackling slopes with a remarkable 85% incline.
-  Updated: 2026-10-24T17:15:01Z
+  Updated: 2026-11-03T02:09:04Z
   Vendor: MOWRATOR
   Product Type: R/C Intelligent Mower
   Availability: Available
@@ -19,20 +19,20 @@
   - [4WD 12Ah | 3000 m²/Charge](https://eu.mowrator.com/products/mowrator-s1-remote-control-electric-lawn-mower?variant=43237335957603)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_2.jpg?v=1781282509
-    Price: €3,899.00 EUR
+    Price: €4,399.00 EUR
   - [4WD 18Ah | 4500 m²/Charge](https://eu.mowrator.com/products/mowrator-s1-remote-control-electric-lawn-mower?variant=43237335924835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_3.jpg?v=1781282509
-    Price: €4,599.00 EUR
+    Price: €4,849.00 EUR
 - [56V 12Ah LiFePO4 Battery | Up to 3000m² Per Charge](https://eu.mowrator.com/products/12ah-56v-battery-for-mowrator-s1): Mowrator's long-lasting battery for the remote control lawn mower offers a reliable power source that can last up to 10 years. With durable construction and efficient performance, this battery ensures consistent and extended operation for a hassle-free mowing experience.
-  Updated: 2026-10-18T15:21:36Z
+  Updated: 2026-11-03T01:56:54Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/848d54e497c60fcde373939472b2e8e5_ccfb1470-de04-479c-a879-ccb5ad66de34.png?v=1721112518
-  Price: €779.00 EUR
+  Price: €889.00 EUR
 - [Auto Dumping Bag For Mowrator S1 Remote Control Electric Lawn Mower](https://eu.mowrator.com/products/auto-dumping-bag-for-mowrator-s1-rc-electric-lawn-mower): The auto-dumping bag for S1 remote control lawn mower - a convenient solution for hassle-free grass disposal. Simply activate the remote control feature to effortlessly empty the bag without manual effort. Enjoy a seamless mowing experience with this innovative accessory.
-  Updated: 2026-10-23T15:04:05Z
+  Updated: 2026-11-01T09:22:42Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
@@ -165,7 +165,7 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2x.jpg?v=1735538427
   Price: €164.99 EUR
 - [Mowrator Snow Plow Kit – Fits Only S1 4WD](https://eu.mowrator.com/products/mowrator-snow-plow-kit): Note: The snow plow kit is compatible only with the Mowrator S1 4WD model.
-  Updated: 2026-10-29T20:22:06Z
+  Updated: 2026-11-06T09:15:22Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -221,12 +221,12 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/S1Pro18Ah-_2x_9ba65660-e376-4a24-a621-436b019f9ea1.png?v=1759551684
   Price: €5,199.00 EUR
 - [Mowrator S1 4WD12Ah Mow-Tow Bundle](https://eu.mowrator.com/products/mowrator-mow-tow-bundle-limited-s1-4wd-12ah-lawn-mower): Mowrator S1 Pro 4WD is the world's first 3-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly.
-  Updated: 2026-10-18T15:21:47Z
+  Updated: 2026-11-03T03:10:49Z
   Vendor: MOWRATOR
   Product Type: R/C Intelligent Mower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/412-1.webp?v=1763345291
-  Price: €4,320.00 EUR
+  Price: €4,449.00 EUR
 - [Snow Plow Bundle: Mowrator S1 Leaf & Lawn 4WD 18Ah 75% Slope Mower+ Snow Plow Kit](https://eu.mowrator.com/products/mowrator-winter-prep-bundle-rc-lawn-mower): Mowrator S1 Pro 4WD is the world's first 3-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 1.125 acres per charge. It is capable of tackling slopes with a remarkable 80% incline.
   Updated: 2026-10-29T20:21:38Z
   Vendor: MOWRATOR
@@ -256,21 +256,21 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/1_592c3400-14f6-4793-b5c5-47b2518ca919.png?v=1748510908
   Price: €1,349.00 EUR
 - [IndoorMow Bundle: Mowrator S1 Leaf & Lawn 4WD 18Ah 75% Slope Mower+MOWFUN FPV](https://eu.mowrator.com/products/mowrator-indoormow-bundle): All-wheel Beast™ Drive For 75%(37°) Slope, 10cm Obstacle  53cm Deck, 1985W Peak Cutting Power for Dense Grass & Leaves 2000㎡/h Coverage, 3x Faster Runtime Up To 2.25h With 18Ah Battery Multi-Season Land Care: Discharge, Mulch, Bag & Leaf Shredding Vacuum
-  Updated: 2026-10-24T16:25:37Z
+  Updated: 2026-11-02T02:18:20Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/418-6.webp?v=1755496607
-  Price: €5,848.00 EUR
+  Price: €6,098.00 EUR
 - [Mowrator S1 4WD12Ah Hassle-Free Mowing Bundle](https://eu.mowrator.com/products/mowrator-s1-4wd12ah-hassle-free-mowing-bundle): All-wheel Beast™ Drive For 75%(37°) Slope, 10cm Obstacle  53cm Deck, 1985W Peak Cutting Power for Dense Grass & Leaves 2000㎡/h Coverage, 3x Faster Runtime Up To 1.5h With 12Ah Battery Multi-Season Land Care: Discharge, Mulch, Bag & Leaf Shredding Vacuum Check List Main Machine *1 LiFePO4 12Ah 56V Battery *1 Auto Dumping Bag *1 Remote Controller *1 53 cm Mowing Blade *1 IP65 600W Charger *1 Drive Wheels *4 Mulch Plug *1 Manual Clippings Bag *1 Toolkit *1 OTG Data Cable *1
-  Updated: 2026-10-24T14:40:36Z
+  Updated: 2026-11-03T03:08:55Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/412-3.webp?v=1755496568
-  Price: €4,299.00 EUR
+  Price: €4,783.00 EUR
 - [Shipping Protection](https://eu.mowrator.com/products/shipping-protection): Add xCotton Shipping Protection at checkout to protect your package against damage, loss and theft. Visit sp.xcottons.com/parcel#/more to learn more.
-  Updated: 2026-10-29T13:34:16Z
+  Updated: 2026-11-06T09:15:26Z
   Vendor: xcotton
   Product Type: shipping-protection
   Availability: Available
@@ -440,26 +440,26 @@
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20250625-103801.png?v=1750829915
     Price: €119.00 EUR
 - [Mowrator S1 4WD12Ah Winter Prep Bundle](https://eu.mowrator.com/products/mowrator-s1-4wd12ah-winter-prep-bundle-s1-4wd12ah-75-slope-mower--for-snow-plow-kits): Winter Plowing, Summer Mowing, Year-Round Ready All-wheel Beast™ Drive For 75%(37°) Slope, 10cm Obstacle  2000㎡/h Coverage, 3x Faster Runtime Up To 1.5h With 12Ah Battery Multi-Season Land Care: Discharge, Mulch, Bag & Leaf Shredding Vacuum
-  Updated: 2026-10-29T20:21:33Z
+  Updated: 2026-11-03T03:06:47Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD12_S.png?v=1763457081
-  Price: €4,349.00 EUR
+  Price: €4,964.00 EUR
 - [Mowrator S1 Leaf & Lawn 4WD 12Ah Beast LeafVac Pro Bundle | Powerful Leaf Mulching & Slope Mowing &Auto Dumping](https://eu.mowrator.com/products/multi-function-bundle-mowrator-s1-4wd-12ah-lawn-mower): Check List Main Machine *1 LiFePO4 12Ah 56V Battery *1 Mulching Blades *1 Auto Dumping Bag *1 Remote Controller *1 53 cm Mowing Blade *1 IP65 600W Charger *1 Drive Wheel *4 Mulch Plug *1 Manual Clippings Bag *1 Toolkit *1 OTG Data Cable *1
-  Updated: 2026-10-24T14:40:36Z
+  Updated: 2026-11-03T03:04:31Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/412.webp?v=1755496437
-  Price: €4,299.00 EUR
+  Price: €4,883.00 EUR
 - [Mowrator S1 Leaf & Lawn 4WD 12Ah Extreme Climber with Leaf Shredding Vacuum | 119% (50°) Climbing Ability](https://eu.mowrator.com/products/mowrator-s1-4wd12ah-extreme-climber-bundle100-s1-4wd-12ah-lawn-mower-2-pairs-of-deformable-tires): All-wheel Beast™ Drive For 119%(50°) Slope, 10cm Obstacle  53cm Deck, 1985W Peak Cutting Power for Dense Grass & Leaves 2000㎡/h Coverage, 3x Faster Runtime Up To 1.5h With 12Ah Battery Multi-Season Land Care: Discharge, Mulch, Bag & Leaf Shredding Vacuum
-  Updated: 2026-10-24T14:39:27Z
+  Updated: 2026-11-03T02:10:45Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_10.jpg?v=1781515930
-  Price: €4,299.00 EUR
+  Price: €4,849.00 EUR
 - [Mowrator S1 4WD Leaf & Lawn Extreme Slope Bundle – 119% (50°) + 4 Free Standard Tires](https://eu.mowrator.com/products/mowrator-s1-remote-control-lawn-mower-4wd-100-extreme-slope-bundle): Mowrator S1, a Battery-Powered Remote-Control Lawn Mower tailored for Big Yards & Slopes, which delivers all-season lawn care: mowing, collecting, leaf vacuuming, snow removal, land clearing and towing. It easily handles challenging terrains such as 100% steep slopes, lawn dips and obstacles.
   Updated: 2026-10-18T15:21:51Z
   Vendor: Mowrator EU
@@ -517,26 +517,26 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/bundle.webp?v=1755516252
   Price: €479.00 EUR
 - [Mowrator S1 4WD12Ah Winter Prep Bundle](https://eu.mowrator.com/products/mowrator-s1-4wd-12ah-indoor-mow-snow-bundle-snow-plow-mowfun-fpv-kit): Mowrator S1 4WD meticulously designed to handle even the most demanding lawns effortlessly. The Mowrator S1's all-wheel drive can handle slopes up to 75% (37°), making it the perfect choice for conquering challenging terrain. Winter-ready: Convert your mower to a snow blower. Snow plow Kit: Safe and effortless snow removal. MOWFUN FPV: No sun, no icy winds. Conquer Every Season.
-  Updated: 2026-10-29T20:21:10Z
+  Updated: 2026-11-03T03:02:17Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/Mowrator-S1-.png?v=1770632207
-  Price: €6,403.00 EUR
+  Price: €6,463.00 EUR
 - [All-Season 119%(50°) Slope Bundle with S1 4WD 12Ah(Grip Tread Tires Edition)](https://eu.mowrator.com/products/all-season-100-slope-bundle-with-s1-4wd-12ahdeformable-tires-edition): All‑Season Land Care: Rough Cut, Mow, Leaf Vac, Mulch, Snow Plow, Towable 119% Slope (50°), 10cm Obstacle  53cm deck, 1985W Peak Cutting Power 2000㎡/h Coverage, 3x Faster Runtime Up To 1.5h With 12Ah Battery
-  Updated: 2026-10-29T20:20:21Z
+  Updated: 2026-11-03T02:58:03Z
   Vendor: MOWRATOR
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD-AS.webp?v=1779212195
   Price: €5,703.00 EUR
 - [All-Season 75% Slope Bundle with S1 4WD 12Ah](https://eu.mowrator.com/products/all-season-bundle-slope-mower): Mowrator S1 Pro 4WD is the world's first 3-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 1.125 acres per charge. It is capable of tackling slopes with a remarkable 80% incline.
-  Updated: 2026-10-29T20:20:14Z
+  Updated: 2026-11-03T02:30:40Z
   Vendor: MOWRATOR
   Product Type: R/C Intelligent Mower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/20260312-162218.webp?v=1773798665
-  Price: €4,985.00 EUR
+  Price: €5,035.00 EUR
 - [Mowrator S1 Leaf & Lawn 4WD 18Ah 75% Slope with Leaf Shredding Vacuum](https://eu.mowrator.com/products/mowrator-s1-remote-control-lawn-mower-4wd-18ah-75-slope): Mowrator S1 Pro 4WD is the world's first 5-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 4500 m² per charge. It is capable of tackling slopes with a remarkable 85% incline.
   Updated: 2026-10-12T14:08:51Z
   Vendor: MOWRATOR
@@ -545,12 +545,12 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_3.jpg?v=1781282509
   Price: €4,849.00 EUR
 - [Mowrator S1 Leaf & Lawn 4WD 12Ah 75% Slope with Leaf Shredding Vacuum](https://eu.mowrator.com/products/mowrator-s1-remote-control-lawn-mower-4wd-12ah-75-slope): Mowrator S1 Pro 4WD is the world's first 5-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 4500 m² per charge. It is capable of tackling slopes with a remarkable 85% incline.
-  Updated: 2026-10-24T14:38:06Z
+  Updated: 2026-11-03T02:10:08Z
   Vendor: MOWRATOR
   Product Type: R/C Intelligent Mower
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_2.jpg?v=1781282509
-  Price: €3,899.00 EUR
+  Price: €4,399.00 EUR
 - [All-Season 119%(50°) Slope Bundle with S1 4WD 18Ah(Grip Tread Tires Edition)](https://eu.mowrator.com/products/all-season-100-slope-bundle-with-s1-4wd-18ahdeformable-tires-edition): All‑Season Land Care: Rough Cut, Mow, Leaf Vac, Mulch, Snow Plow, Towable 119% Slope (50°), 10cm Obstacle  53cm deck, 1985W Peak Cutting Power 2000㎡/h Coverage, 3x Faster Runtime Up To 2.25h With 18Ah Battery
   Updated: 2026-10-29T20:20:03Z
   Vendor: MOWRATOR
@@ -573,7 +573,7 @@
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_4.png?v=1781282841
   Price: €4,865.00 EUR
 - [Mowrator S1 Leaf & Lawn 2WD 45% Slope Remote Control Lawn Mower with Leaf Shredding Vacuum](https://eu.mowrator.com/products/mowrator-s1-2wd-45-slope-remote-control-lawn-mower-with-leaf-shredding-vacuum): 53cm deck, 1985W Peak Cutting Power for Dense Grass & Leaves 45% Slope, Covers 2,000m² Per Hour Runtime Up to 2.25h with 18Ah Battery / 1.5h with 12Ah Battery 4.5–11.6cm Adjustable Cutting Height 4-in-1: Mulch, Bag, Discharge + NEW Leaf Shredding Vacuum
-  Updated: 2026-10-25T06:54:37Z
+  Updated: 2026-11-04T17:56:36Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -585,16 +585,16 @@
   - [2WD 18Ah | 4500 m²/Charge](https://eu.mowrator.com/products/mowrator-s1-2wd-45-slope-remote-control-lawn-mower-with-leaf-shredding-vacuum?variant=44181234843747)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2WD_3.jpg?v=1781282419
-    Price: €3,049.00 EUR
+    Price: €3,649.00 EUR
 - [Multi-Season Slope Bundle with S1 4WD 12Ah – 75% Grade (37° Slope)](https://eu.mowrator.com/products/multi-season-slope-bundle-with-s1-4wd-12ah-75-grade-37-slope): All-wheel Beast™ Drive For 75%(37°) Slope, 10cm Obstacle  53cm Deck, 1985W Peak Cutting Power for Dense Grass & Leaves 2000㎡/h Coverage, 3x Faster Runtime Up To 1.5h With 12Ah Battery Multi-Season Land Care: Discharge, Mulch, Bag & Leaf Shredding Vacuum
-  Updated: 2026-10-09T21:11:26Z
+  Updated: 2026-11-03T02:27:34Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_3_535288dc-beab-444d-a9d5-3e3ea2c0a793.jpg?v=1785843392
-  Price: €4,754.00 EUR
+  Price: €4,854.00 EUR
 - [Mowrator S1 4WD 12Ah All-Terrain Bundle | Up to 119% (50°) Extreme Slope](https://eu.mowrator.com/products/mowrator-s1-all-terrain-bundle-4wd-119-50-extreme-slope-with-leaf-vacuum): Mowrator S1, a Battery-Powered Remote-Control Lawn Mower tailored for Big Yards & Slopes, which delivers all-season lawn care: mowing, collecting, leaf vacuuming, snow removal, land clearing and towing. It easily handles challenging terrains such as 100% steep slopes, lawn dips and obstacles.
-  Updated: 2026-10-09T20:55:01Z
+  Updated: 2026-11-03T02:25:54Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -602,13 +602,13 @@
   - [4WD 12Ah All-Terrain Bundle](https://eu.mowrator.com/products/mowrator-s1-all-terrain-bundle-4wd-119-50-extreme-slope-with-leaf-vacuum?variant=44453836292195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/Mowrator-4WD-1.jpg?v=1786184094
-    Price: €4,999.00 EUR
+    Price: €5,099.00 EUR
   - [4WD 18Ah All-Terrain Bundle](https://eu.mowrator.com/products/mowrator-s1-all-terrain-bundle-4wd-119-50-extreme-slope-with-leaf-vacuum?variant=44453836324963)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/Mowrator-4WD-2.jpg?v=1786184094
     Price: €5,499.00 EUR
 - [Mowrator S1 12Ah Auto-Dumping Lawn Care Bundle](https://eu.mowrator.com/products/mowrator-s1-auto-dumping-lawn-care-bundle)
-  Updated: 2026-09-01T11:37:00Z
+  Updated: 2026-11-03T02:23:36Z
   Vendor: Mowrator EU
   Product Type: R/C Intelligent Mower
   Availability: Available
@@ -616,13 +616,13 @@
   - [2WD 45% Slope + Auto Dumping Bag](https://eu.mowrator.com/products/mowrator-s1-auto-dumping-lawn-care-bundle?variant=44487532478563)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/2wd-at_ad5e0ccd-75be-4bf0-8e9b-dbcde5ebd74a.webp?v=1787122761
-    Price: €3,683.00 EUR
+    Price: €3,483.00 EUR
   - [4WD 119% Slope + Auto Dumping Bag](https://eu.mowrator.com/products/mowrator-s1-auto-dumping-lawn-care-bundle?variant=44487532544099)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/50-AT.webp?v=1787122761
-    Price: €5,383.00 EUR
+    Price: €5,333.00 EUR
 - [Mowrator S1 4WD – 119% (50°) Extreme Slope Leaf & Lawn Mower](https://eu.mowrator.com/products/mowrator-s1-4wd-119-50-extreme-slope-leaf-lawn-mower): Mowrator S1, a Battery-Powered Remote-Control Lawn Mower tailored for Big Yards & Slopes, which delivers all-season lawn care: mowing, collecting, leaf vacuuming, snow removal, land clearing and towing. It easily handles challenging terrains such as 100% steep slopes, lawn dips and obstacles.
-  Updated: 2026-10-24T17:34:23Z
+  Updated: 2026-11-03T02:10:26Z
   Vendor: Mowrator EU
   Product Type: 
   Availability: Available
@@ -630,11 +630,11 @@
   - [4WD 12Ah | 3000 m²/Charge](https://eu.mowrator.com/products/mowrator-s1-4wd-119-50-extreme-slope-leaf-lawn-mower?variant=44541299621987)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_10.jpg?v=1781515930
-    Price: €4,299.00 EUR
+    Price: €4,849.00 EUR
   - [4WD 18Ah | 4500 m²/Charge](https://eu.mowrator.com/products/mowrator-s1-4wd-119-50-extreme-slope-leaf-lawn-mower?variant=44541299654755)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0590/6622/0643/files/4WD_8.jpg?v=1781515883
-    Price: €5,099.00 EUR
+    Price: €5,299.00 EUR
 - [Mowrator S1 4WD Extended Runtime Bundle — 3 × 18Ah Batteries](https://eu.mowrator.com/products/s1-4wd-extended-runtime-bundle): Mowrator S1 Pro 4WD is the world's first 5-in-1 remote control lawn mower designed to tackle even the most challenging lawns effortlessly. This professional-grade mower can effortlessly mow up to 4500 m² per charge. It is capable of tackling slopes with a remarkable 85% incline.
   Updated: 2026-10-10T18:45:49Z
   Vendor: MOWRATOR
@@ -653,52 +653,52 @@
 ## Collections
 
 - [Home page](https://eu.mowrator.com/collections/frontpage)
-  Updated: 2026-10-24T16:18:34Z
+  Updated: 2026-11-03T02:25:55Z
   Total Products: 11
 - [AVADA - Best Sellers](https://eu.mowrator.com/collections/avada-best-sellers)
-  Updated: 2026-10-30T11:11:28Z
+  Updated: 2026-11-06T12:14:06Z
   Total Products: 80
 - [S-Series| Remote Control Lawn Mower](https://eu.mowrator.com/collections/m-serious): Remote Control Lawn Mower Series——Experience the unparalleled power and convenience of the Handheld Remote Control Lawn Mower. Embrace a new era of effortless mowing, precision, and connectivity. Discover the limitless possibilities of a beautifully manicured lawn without the constraints of traditional mowing methods. Embrace innovation today and redefine your lawn care routine.
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 34
 - [All-Season Yard Accessories](https://eu.mowrator.com/collections/accessories): Accessories for Mowrator S1 Remote Control Lawn Mower
-  Updated: 2026-10-30T11:11:28Z
+  Updated: 2026-11-06T12:14:06Z
   Total Products: 36
 - [10% OFF Add-ons](https://eu.mowrator.com/collections/10-off-add-ons)
-  Updated: 2026-10-24T11:15:26Z
+  Updated: 2026-11-01T12:12:20Z
   Total Products: 2
 - [S1 Bundle](https://eu.mowrator.com/collections/s1-bundle): Mowrator S1, the world's first 5-in-1 battery-powered remote control lawn mower with the powerful Beast™ Powertrain System, can effortlessly conquer steep slopes up to 100% (45°) and handles challenging terrains with ease. Designed for tough, thick, and high grass, it delivers gasoline mower-level cutting power.
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 38
 - [Remote Control Lawn Mower](https://eu.mowrator.com/collections/remote-control-lawn-mower)
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 6
 - [Scenario Bundle](https://eu.mowrator.com/collections/scenario-bundle): Meet Mowrator — the multifunctional RC Beast™ lawn mower that adapts with specialized attachments to tackle all your outdoor (and indoor) tasks year-round. Whether it’s mowing grass, hauling trailers, vacuuming leaves, clearing snow, or even indoor trimming, Mowrator handles it all with ease. Ditch the hassle and switch to Mowrator. Save time, save money, and save your back.
-  Updated: 2026-10-24T16:25:38Z
+  Updated: 2026-11-03T03:10:50Z
   Total Products: 16
 - [All-Season Bundle](https://eu.mowrator.com/collections/all-season-bundle-1)
-  Updated: 2026-10-02T14:38:44Z
+  Updated: 2026-11-03T02:30:41Z
   Total Products: 5
 - [Terrain Bundle](https://eu.mowrator.com/collections/terrain-bundle): Mowrator S1, the world's first 5-in-1 battery-powered remote control lawn mower with the powerful Beast™ Powertrain System, can effortlessly conquer steep slopes up to 100% (45°) and handles challenging terrains with ease. Designed for tough, thick, and high grass, it delivers gasoline mower-level cutting power.
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 9
 - [Beast LeafVac](https://eu.mowrator.com/collections/beast-leafvac)
-  Updated: 2026-10-24T14:40:37Z
+  Updated: 2026-11-03T03:04:32Z
   Total Products: 4
 - [Beast LeafVac Accessories](https://eu.mowrator.com/collections/beast-leafvac-accessories)
-  Updated: 2026-10-24T16:18:34Z
+  Updated: 2026-11-03T03:10:50Z
   Total Products: 7
 - [Snow Removal Bundle](https://eu.mowrator.com/collections/snow-removal-bundle)
-  Updated: 2026-10-24T14:41:00Z
+  Updated: 2026-11-03T03:06:48Z
   Total Products: 4
 - [Remote Control Slope Mowers](https://eu.mowrator.com/collections/remote-control-slope-mowers)
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 41
 - [Mowrator S1](https://eu.mowrator.com/collections/mowrator-s1)
-  Updated: 2026-10-25T11:14:31Z
+  Updated: 2026-11-05T12:12:39Z
   Total Products: 4
 - [Accessories](https://eu.mowrator.com/collections/accessories-1)
-  Updated: 2026-10-30T11:11:28Z
+  Updated: 2026-11-06T12:14:06Z
   Total Products: 32
 
 ## Blogs
