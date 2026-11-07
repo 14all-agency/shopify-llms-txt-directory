@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2023-08-28T21:36:06Z
 - Contact Email: arjun@botanicalbottles.com
-- Updated At: 2026-10-31T00:33:06.095Z
+- Updated At: 2026-11-07T00:36:40.562Z
 
 ## Bulk Glass Packaging & Component Supply
 Botanical Bottles is a wholesale supplier of commercial-grade glass packaging and precision closures. We specialize in providing reliable, high-volume inventory for cosmetic brands, essential oil producers, skincare lines, and wellness manufacturers who need a consistent supply of premium components.
@@ -103,7 +103,7 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/20-400-pp-white-fine-mist-sprayer-with-cap-for-1oz-boston-round-720-pieces-per-case-closure-cosmetic-pack-736569.jpg?v=1730413498
   Price: $0.25 USD
 - [24/400 Black Fine-Mist Sprayer | Wholesale Packaging](https://botanicalbottles.com/products/24-400-black-pp-fine-mist-sprayer-with-cap): Buy wholesale 24/400 Black Fine-Mist Sprayer in 384 Pcs. Precision threaded for leak-resistant sealing.
-  Updated: 2026-10-21T08:56:45Z
+  Updated: 2026-11-02T11:34:58Z
   Vendor: Botanical Bottles
   Product Type: Caps & Dispensers
   Availability: Available
@@ -789,12 +789,12 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/22-400_black_fine_mist_sprayer.jpg?v=1791922190
   Price: $0.21 USD
 - [22/400 Black Phenolic Screw Cap | Wholesale Packaging](https://botanicalbottles.com/products/22-400-black-phenolic-cap): Buy wholesale 22/400 Black Phenolic Screw Cap in 64 Pcs. Precision threaded for leak-resistant sealing.
-  Updated: 2026-10-15T08:23:13Z
+  Updated: 2026-11-02T16:49:47Z
   Vendor: Botanical Bottles
   Product Type: Caps & Dispensers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/22-400_black_phenolic_cap.jpg?v=1791922190
-  Price: $0.15 USD
+  Price: $0.20 USD
 - [4oz Glass Amber Boston Round | Wholesale Packaging](https://botanicalbottles.com/products/4oz-glass-amber-boston-round-bottle): Wholesale 4oz Amber glass Boston Round bottles in 128 Pcs. Durable glass containers for cosmetics & formulations.
   Updated: 2026-10-16T14:05:46Z
   Vendor: Botanical Bottles
@@ -838,12 +838,12 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/24-400_black_fine_mist_sprayer.jpg?v=1791922190
   Price: $0.25 USD
 - [24/400 Black Phenolic Screw Cap | Wholesale Packaging](https://botanicalbottles.com/products/24-400-black-phenolic-cap): Buy wholesale 24/400 Black Phenolic Screw Cap in 48 Pcs. Precision threaded for leak-resistant sealing.
-  Updated: 2026-10-15T08:23:02Z
+  Updated: 2026-11-02T16:51:16Z
   Vendor: Botanical Bottles
   Product Type: Caps & Dispensers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/24-400_black_phenolic_cap.jpg?v=1791922190
-  Price: $0.15 USD
+  Price: $0.20 USD
 - [8oz Glass Amber Boston Round | Wholesale Packaging](https://botanicalbottles.com/products/8oz-glass-amber-boston-round-bottle): Wholesale 8oz Amber glass Boston Round bottles in 96 Pcs. Durable glass containers for cosmetics & formulations.
   Updated: 2026-10-15T19:11:36Z
   Vendor: Botanical Bottles
@@ -950,12 +950,12 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/4oz_amber_candle_jar_open_130ml.jpg?v=1791922190
   Price: $0.37 USD
 - [10ml Amber Glass Roll-On Bottle Set | Wholesale Packaging](https://botanicalbottles.com/products/10ml-amber-glass-roll-on-bottle-ball-cap-set): Order bulk 10ml Amber glass Roll-On Bottle bottles with matching Stainless Ball & Black Cap in 600 Pcs. Built for essential oils & skincare.
-  Updated: 2026-10-15T08:22:53Z
+  Updated: 2026-11-03T23:39:57Z
   Vendor: Botanical Bottles
   Product Type: Roll-On Bottle Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0818/8893/6251/files/10ml_amber_roll_on_bottle_ball_black_cap.jpg?v=1792008606
-  Price: $0.30 USD
+  Price: $0.45 USD
 - [10ml Amber Glass Roll-On Bottle | Wholesale Packaging](https://botanicalbottles.com/products/10ml-amber-glass-roll-on-bottle): Wholesale 10ml Amber glass Roll-On Bottle bottles in 600 Pcs. Durable glass containers for cosmetics & formulations.
   Updated: 2026-10-15T08:22:49Z
   Vendor: Botanical Bottles
@@ -971,7 +971,7 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-14T21:18:04Z
   Total Products: 4
 - [Caps and Dispensers](https://botanicalbottles.com/collections/closures): Find bottle closures including screw caps, fine‑mist sprayers, droppers, tamper‑evident caps, and more  compatible with Euro rounds and Boston round bottles.
-  Updated: 2026-10-22T22:16:19Z
+  Updated: 2026-11-02T12:12:08Z
   Total Products: 35
 - [Boston Rounds](https://botanicalbottles.com/collections/boston-rounds): Browse Boston round glass bottles in amber, clear, matte black, and more. Perfect for essential oils, serums, tinctures, and small‑batch liquids.
   Updated: 2026-10-29T11:15:57Z
@@ -980,7 +980,7 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-20T19:35:47Z
   Total Products: 43
 - [Complete Sets](https://botanicalbottles.com/collections/sets): Discover bottle sets with matching closures droppers, caps and sprayers included. Great for ready‑to‑fill products and packaging efficiency.
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 84
 - [Euro Round Sets](https://botanicalbottles.com/collections/euro-round-sets): Complete Euro round bottle sets with matching droppers, sprayers, and caps. Perfect for oils, tinctures, serums, and DIY cosmetics products.
   Updated: 2026-10-14T22:45:02Z
@@ -989,10 +989,10 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-14T21:18:04Z
   Total Products: 4
 - [All](https://botanicalbottles.com/collections/all): Browse all glass bottles, droppers, sprayers, and closures. Boston and Euro rounds in amber, clear, and cobalt blue for DIY oils, serums, and tinctures.
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 119
 - [Smart Products Filter Index - Do not delete](https://botanicalbottles.com/collections/globofilter-best--products-index)
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 165
 - [Cobalt Blue](https://botanicalbottles.com/collections/cobalt-blue): Cobalt blue glass bottles for essential oils, tinctures, serums, and DIY cosmetics. Available as Boston rounds, Euro rounds, and full bottle sets.
   Updated: 2026-10-20T19:35:47Z
@@ -1004,19 +1004,19 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-20T19:35:40Z
   Total Products: 42
 - [Essential Oil and Aromatherapy](https://botanicalbottles.com/collections/essential-oil-and-skin-care)
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 92
 - [Beverages and other Liquids](https://botanicalbottles.com/collections/beverages-and-liquid-storage)
   Updated: 2026-10-16T14:05:47Z
   Total Products: 24
 - [UV-Protected](https://botanicalbottles.com/collections/uv-protected)
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 75
 - [Candle and Cream Jars](https://botanicalbottles.com/collections/candle-and-cream-jars)
   Updated: 2026-10-26T11:14:06Z
   Total Products: 9
 - [Roll-On Bottles](https://botanicalbottles.com/collections/roll-on-bottles)
-  Updated: 2026-10-15T21:55:33Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 2
 - [Specialty Colors](https://botanicalbottles.com/collections/specialty-color)
   Updated: 2026-10-15T19:40:04Z
@@ -1025,10 +1025,10 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-22T22:16:19Z
   Total Products: 9
 - [Sprayers](https://botanicalbottles.com/collections/sprayers)
-  Updated: 2026-10-20T20:56:49Z
+  Updated: 2026-11-02T12:12:08Z
   Total Products: 8
 - [Screw Caps](https://botanicalbottles.com/collections/screw-caps)
-  Updated: 2026-10-14T22:46:51Z
+  Updated: 2026-11-02T04:51:13Z
   Total Products: 13
 - [Tamper Evident](https://botanicalbottles.com/collections/tamper-evident)
   Updated: 2026-10-14T22:47:55Z
@@ -1037,13 +1037,13 @@ Our catalog features highly standardized dimensions, making it easy to match our
   Updated: 2026-10-29T11:15:57Z
   Total Products: 21
 - [Bottles and Jars](https://botanicalbottles.com/collections/bottles-and-jars)
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 129
 - [Sprayer Bottles](https://botanicalbottles.com/collections/sprayer-bottles)
   Updated: 2026-10-29T11:15:57Z
   Total Products: 15
 - [Skin-Care and More](https://botanicalbottles.com/collections/essential-oils-and-aromatherapy)
-  Updated: 2026-10-29T11:15:57Z
+  Updated: 2026-11-03T23:39:58Z
   Total Products: 92
 
 ## Blogs
