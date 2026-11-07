@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-12-09T13:41:33Z
 - Contact Email: info@folkmarketgems.com
-- Updated At: 2026-10-30T01:08:48.658Z
+- Updated At: 2026-11-07T01:03:34.597Z
 
 ## Products
 
@@ -168,12 +168,12 @@
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/01_2.jpg?v=1734723788
   Price: $200.00 USD
 - [1Kg Black Tourmaline Tumbles Gemstones](https://www.folkmarketgems.com/products/1kg-black-tourmaline-tumbles): 1 Killo gram package of natural black tourmaline tumbled stones. The tumbles are 1 gram to 5 gram plus. STONE NAME Tourmaline STONE TYPE cut Brilliance Excellent luster DIMENSION 1 to 5 grams TOTAL WEIGHT 1000 grams TOTAL PIECES lumsp sizes CLARITY Transparent  No COLOR Black SHAPE Oval, Pear, Round ORIGIN OF STONE Skardu, Pakistan OTHER INFO Stones are excellent and perfect for making jewelry and jewelry designers.
-  Updated: 2026-10-06T12:59:12Z
+  Updated: 2026-11-04T10:01:54Z
   Vendor: Cabochons Tumbles
   Product Type: Tourmaline
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/sdc12439_1.jpg?v=1734723789
-  Price: $280.00 USD
+  Price: $350.00 USD
 - [1 kg Natural Serpentine Polished Tumble Stone](https://www.folkmarketgems.com/products/1kg-natural-serpentine-polished-tumble-stone): Beautiful colours of Serpentine in one KG Tumbles. This tumble is nicely cut and polished. his price is for 1 KG Lot. STONE NAME Serpentine STONE TYPE tumbled Brilliance Excellent luster DIMENSION under 1 to 5 gram TOTAL WEIGHT 1000g TOTAL PIECES lumpsum CLARITY Opaque  No COLOR Green SHAPE Tumbled ORIGIN OF STONE Afghanistan OTHER INFO -
   Updated: 2026-10-06T13:02:18Z
   Vendor: Cabochons Tumbles
@@ -254,7 +254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/4665/0401/files/50_1__4_1.jpg?v=1734723809
     Price: $80.00 USD
 - [Black Tourmaline Crystal Pendants Deals | Silver Sterling 925](https://www.folkmarketgems.com/products/black-tourmaline-crystal-silver-pendant): A randomly selected one piece of black tourmaline crystal silver sterling pendant will be included in this parcel. Total Pieces: 1 to 20 pieces dealStone: Black TourmalineMetal: Silver Sterling 925 Dimension: Average size will be between 15 to 40mmShape: Raw CrystalColors: BlackCut: Slightly PolishedComment: No 
-  Updated: 2026-10-06T13:02:16Z
+  Updated: 2026-11-04T10:02:30Z
   Vendor: Crystal Pendants
   Product Type: Tourmaline
   Availability: Available
@@ -502,11 +502,11 @@
   Updated: 2026-08-27T00:18:13Z
   Total Products: 32
 - [Raw Gemstones For Lapidary, Faceting | Uncut Rough Materials Directly from Mine](https://www.folkmarketgems.com/collections/rough-gemstones-wholesale): Ethically sourced rough gemstones for cutters. Raw material available for faceting, cabbing, carving, and for collecting being ethically sourced directly from mine. Untreated raw material  for cutters, collectors, and gemstone businesses worldwide.
-  Updated: 2026-10-11T19:59:07Z
-  Total Products: 689
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 693
 - [List of Gemstones of Pakistan | Pakistan Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-of-pakistan-pakistan-gemstones-and-minerals): Explore wide variety of rare gemstones, minerals and crystals from Pakistan. High-quality stones with unique properties. Perfect for collectors and jewelry enthusiasts.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 594
+  Updated: 2026-11-06T16:20:25Z
+  Total Products: 601
 - [Emeralds](https://www.folkmarketgems.com/collections/emerald-gemstones): Shop 100% natural emeralds: Swat, Panjshir, Chitral plus selected Zambian & Colombian. Rough for faceting, crystals, specimens, loose cut stones & wholesale parcels. Transparent grading and  disclosure.
   Updated: 2026-10-18T19:47:41Z
   Total Products: 225
@@ -514,8 +514,8 @@
   Updated: 2026-10-18T14:26:54Z
   Total Products: 87
 - [Pakistan Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-in-pakistan): Buy with Folkmarket Gems Rare Gemstones and minerals from Pakistan i.e. aquamarine, peridot, zircons, demontoid, rubies, Swat Emeralds, Katlang Topaz, Kashmir Sapphires, axinite etc
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 596
+  Updated: 2026-11-06T16:20:25Z
+  Total Products: 603
 - [Hackmanite Minerals](https://www.folkmarketgems.com/collections/buy-hackmanite-stone-rare-hackmanite-fluorescent-mineral): Explore rare fluorescent Hackmanite raw stones at FolkmarketGems. Hackmanite, a unique variant of sodalite, will be unique touch to your gemstone collections. Browse online at FolkmarketGems multiple deals on uncut Hackmanite stone for your faceting / lapidary work or loose hackmantie stones for jewelry designs.
   Updated: 2026-08-11T20:23:22Z
   Total Products: 16
@@ -526,26 +526,26 @@
   Updated: 2026-10-13T20:03:57Z
   Total Products: 168
 - [Aquamarine](https://www.folkmarketgems.com/collections/aquamarine): Shop natural aquamarine gemstones including raw crystals and faceted stones. Explore ocean-blue varieties, origins, and transparent aquamarine pricing.
-  Updated: 2026-10-11T19:26:39Z
-  Total Products: 75
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 77
 - [Tourmaline](https://www.folkmarketgems.com/collections/tourmaline): Shop natural tourmaline gemstones including vibrant green, pink, and rare varieties. Explore pricing, origins, and buying insights for this October birthstone.
-  Updated: 2026-10-04T11:24:13Z
+  Updated: 2026-11-04T17:39:27Z
   Total Products: 209
 - [Facet Rough | Cutting-Grade Gems Parcels - Gem Grade Lots](https://www.folkmarketgems.com/collections/facet-rough-gemstones-for-): Facet rough sourced direct from our own mines — emeralds, sapphires, rubies, rare Katlang topaz & more. Single stones to wholesale parcels, VVS to included clarity
-  Updated: 2026-10-11T19:59:07Z
-  Total Products: 461
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 465
 - [Lapidary Rough](https://www.folkmarketgems.com/collections/lapidary-rough-stone): Browse lapidary rough stones ideal for cabbing, carving, and tumbling. Natural rough material available in small lots and bulk quantities.
-  Updated: 2026-10-11T19:16:58Z
-  Total Products: 309
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 313
 - [Peridots](https://www.folkmarketgems.com/collections/peridots-gemstones): Shop natural peridot gemstones including raw crystals and faceted stones. Discover vibrant green peridot varieties with pricing details and buying insights.
-  Updated: 2026-10-18T18:17:42Z
-  Total Products: 109
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 114
 - [Black Tourmaline Crystals](https://www.folkmarketgems.com/collections/buy-black-tourmaline-crystals): Black tourmaline crystals are linked with the root chakra. The Chakra controls stability, security in us, and the basic needs of all organs and body parts near the base of the spine. Black Tourmaline is associated with the Earth Star Chakra.
-  Updated: 2026-08-27T00:18:18Z
+  Updated: 2026-11-04T10:01:55Z
   Total Products: 48
 - [Fine Mineral Specimens](https://www.folkmarketgems.com/collections/rocks-and-mineral-specimens-for-): Buy rocks and mineral specimens for  online with folkmarketgems.com. Variety of museum quality mineral specimens, cabinet mineral specimens, rocks and crystals for collectors available with us. WhatsApp:+66617237765 | +923268999919|Call+16892288688 Email:info@folkmarketgems.com
-  Updated: 2026-09-20T12:34:04Z
-  Total Products: 241
+  Updated: 2026-11-06T16:20:25Z
+  Total Products: 243
 - [Crystal Pendants](https://www.folkmarketgems.com/collections/crystal-pendants-for-): We provide Crystal Pendants and Gems Jewelry in wholesale offers. The wholesale offers are attractive for retailers, jewelry designers, and household jewelry makers. Crystal pendants are made of silver sterling 925 hooks.  Folk Market Gems also offers crystal and gemstone strings, necklaces, pendants, beading, and much more. Enjoy the wholesale deals.
   Updated: 2026-07-14T11:16:38Z
   Total Products: 14
@@ -565,11 +565,11 @@
   Updated: 2026-10-09T11:40:10Z
   Total Products: 3
 - [Cabochons | Tumbles](https://www.folkmarketgems.com/collections/cabochons-tumbles-gemstones): Grab wholesale deals on natural gemstone and crystal cabochons, tumbles, beads. We have varieties of stones in cabochons such as lapis lazuli, oynx, jasper, iron tiger, agate, serpentine, opals, apatite, peridots, aquamarine, tourmaline and many more.
-  Updated: 2026-09-11T11:15:45Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 78
 - [Quartz Crystals and Gems](https://www.folkmarketgems.com/collections/quartz-crsytals): A popular variety of Quartz listed above is of every type. However, Herkimer like Diamond Quartz is the most favorite. Faden Quartz is one of the unique varieties of Quartz that comes from Pakistan only. Petroleum included Diamond Quartz is another unique variety.
-  Updated: 2026-10-06T19:01:12Z
-  Total Products: 143
+  Updated: 2026-11-06T09:43:04Z
+  Total Products: 144
 - [Zircon Gems](https://www.folkmarketgems.com/collections/buy-zircon-stones-zirconia-zircons): Buy Natural Raw cut Zircons at wholesale prices with our gemstone store online. Whether you are dealer or lapidary artists, jewelry designers, all you can get in raw / cut zircons with us. Contact us via Email: info@folkmarketgems.com WhatsApp: +66617237765 | +923268999919 Call: +16892288688
   Updated: 2026-09-08T12:34:05Z
   Total Products: 12
@@ -577,8 +577,8 @@
   Updated: 2026-09-22T23:11:14Z
   Total Products: 45
 - [Raw Crystals](https://www.folkmarketgems.com/collections/buy-raw-crystals-for-): Explore healing raw crystal for  at discounted prices i.e. Aqua, Tourmaline, Topaz, Epidote, Clear Quartz, Emeralds, Ruby, Sapphire kunzite, Sphene, Axinite, Spinels etc
-  Updated: 2026-10-11T19:59:07Z
-  Total Products: 314
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 316
 - [Amethyst](https://www.folkmarketgems.com/collections/amethyst-gemstones): Shop natural amethyst gemstones including raw crystals and faceted stones. Explore rich purple varieties, origins, and transparent amethyst pricing before you buy.
   Updated: 2026-09-30T11:16:47Z
   Total Products: 77
@@ -589,7 +589,7 @@
   Updated: 2026-10-05T11:19:26Z
   Total Products: 46
 - [Agate](https://www.folkmarketgems.com/collections/agate): Raw Agate gemstones Bulk Deals. Agate Cabochons Wholesale Prices. Perfect for those who appreciate natural beauty and distinctive jewelry.
-  Updated: 2026-10-09T11:41:42Z
+  Updated: 2026-11-06T10:00:18Z
   Total Products: 4
 - [Opal](https://www.folkmarketgems.com/collections/buy-opal-stones): Shop natural opal gemstones including raw specimens and polished stones. Explore Ethiopian, Australian, and fire opal varieties with transparent pricing insights.
   Updated: 2026-10-09T11:44:20Z
@@ -682,29 +682,29 @@
   Updated: 2026-08-27T00:18:35Z
   Total Products: 66
 - [Wholesale Gems Deals - All Types](https://www.folkmarketgems.com/collections/wholesale-gemstones-rough-cutstones): Explore buying affordable wholesale raw gemstones and Bulk loose gemstones. Attractive  for big businesses.
-  Updated: 2026-10-17T16:29:03Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 314
 - [Labradorite](https://www.folkmarketgems.com/collections/labradorite-stones): Explore our Labradorite collection for unique, high-quality stones perfect for jewelry making. Discover the beauty of Labradorite with us.
   Updated: 2026-10-09T11:57:57Z
   Total Products: 9
 - [New Arrivals Gemstones](https://www.folkmarketgems.com/collections/new-arrival-gems): Shop new arrival gemstones at Folkmarketgems. Fresh faceting rough, mineral specimens & rare stones from $150. Direct-source pricing. Order now.
-  Updated: 2026-10-18T14:26:54Z
-  Total Products: 752
+  Updated: 2026-11-06T09:59:56Z
+  Total Products: 755
 - [Afghanite Gemstones](https://www.folkmarketgems.com/collections/buy-rough-afghanite-rare-mineral): Afghanite is a rare mineral which is only found in Afghanistan. Folkmarket takes pride to introduce Afghanite as rare gemstone and mineral from Afghanistan. We offer raw afghanite stone for lapidary, faceting and for collectors. Contact: Whatsapp: +923268999919 | Call or SMS +16892288688 Email: info@folkmarketgems.com
   Updated: 2026-10-09T12:13:02Z
   Total Products: 4
 - [Rare Gems](https://www.folkmarketgems.com/collections/rare-gemstone-and-minerals): Buy rare gemstones including Hackmanite, Sphene, Tsavorite & Emerald. Facet rough, specimens & loose stones from $150. Shop Folkmarketgems today.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 485
+  Updated: 2026-11-06T09:43:40Z
+  Total Products: 486
 - [Beryl Gems & Minerals](https://www.folkmarketgems.com/collections/beryl): Shop natural beryl gemstones: rough emeralds, aquamarine, heliodor & mineral specimens from Pakistan, Brazil & Afghanistan. Wholesale lots available. Buy now.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 306
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 308
 - [Colombian Emeralds Raw Cut](https://www.folkmarketgems.com/collections/colombian-emeralds-raw-cut): Shop world-renowned raw cut Colombian emeralds prized for unmatched vivid green color saturation and high crystal clarity. Directly sourced from famous mining regions like Muzo and Chivor, our Colombian emerald collection delivers top-tier material for collectors and master jewelers. Find authentic Colombian emeralds online.Why are Colombian emeralds world-renowned in gemology?Colombian emeralds are celebrated for their pure green hue with minimal blue undertones, caused by high chromium content.What are three-phase inclusions in Colombian emeralds?They are microscopic inclusions containing liquid, gas, and a solid halite crystal, characteristic of natural Colombian origin.Are clarity treatments disclosed for these stones?Yes, each listing fully discloses whether the emerald is natural untreated or enhanced with traditional cedarwood oil.
   Updated: 2026-10-09T12:14:08Z
   Total Products: 0
 - [Hexagonal Crystals](https://www.folkmarketgems.com/collections/hexagonal-crystals-1): Shop natural hexagonal crystals — facet-grade emeralds, ruby, amethyst & more from Pakistan & beyond. Wholesale deals, collector specimens & cutting rough available.
-  Updated: 2026-10-11T19:59:07Z
-  Total Products: 131
+  Updated: 2026-11-06T09:43:04Z
+  Total Products: 132
 - [Cubic Crystals](https://www.folkmarketgems.com/collections/cubic-crystals): Explore authentic cubic crystals showcasing perfect natural isometric geometry, razor-sharp edges, and vibrant colors. Featuring natural pyrite, fluorite, and galena cubic specimens, our collection provides striking geometric mineral art for display cabinets and academic study. Shop natural cubic crystals today.Which minerals naturally form cubic crystals?Common minerals with isometric cubic symmetry include pyrite, fluorite, halite, galena, and garnet.Are these cubic shapes cut by humans or natural?All cubic crystal specimens grow naturally into geometric cubes through internal atomic arrangement without human cutting.How should delicate cubic mineral clusters be cleaned?Clean gently with compressed air or a soft dry brush; avoid harsh solvents that could damage delicate matrix attachments.
   Updated: 2026-10-09T12:14:53Z
   Total Products: 21
@@ -712,29 +712,29 @@
   Updated: 2026-10-11T19:16:58Z
   Total Products: 92
 - [Quote Now | Ask for Price](https://www.folkmarketgems.com/collections/wholesale-gemstones-deals): Buy Wholesale Gemstone Deals with Folkmarketgems at competitive prices. Attractive bulk prices on Emeralds, Rubies, Sapphire, Aquamarine, Peridots, Topaz and many more
-  Updated: 2026-10-11T19:59:07Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 341
 - [Sold Out Gemstones and Minerals](https://www.folkmarketgems.com/collections/sold-out-gemstones-and-minerals-1): Sold Out Gemstones and Minerals | Contact for demands Explore our collection list of sold out gems and minerals. These unique specimens and gemstones have been carefully handpicked by our gems and mineral experts for their exceptional beauty and quality. Though, these items are sold out, you are invited to browse through more collections to appreciate the diverse range of gems and minerals that are high demanded by the collectors worldwide. Note that due to the limited availability of these items, restocking may not be possible. If you come across a particular piece that captures your interest, we recommend reaching out to our team for further information or to explore similar alternatives.
-  Updated: 2026-09-30T11:16:47Z
+  Updated: 2026-11-04T10:12:28Z
   Total Products: 21
 - [Emerald Specimens Raw](https://www.folkmarketgems.com/collections/emerald-specimens-raw): Shop natural raw emerald specimens from Swat and Chitral, Pakistan. Untreated mineral specimens from $65. Direct-from-mine sourcing. Buy now.
   Updated: 2026-08-27T00:18:35Z
   Total Products: 32
 - [Loose Gemstones](https://www.folkmarketgems.com/collections/buy-loose-gemstones-for-jewelry): Shop natural loose gemstones for jewelry making, including sapphire, emerald, ruby, tourmaline and more. Available in various cuts and carat sizes.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 571
+  Updated: 2026-11-04T10:08:27Z
+  Total Products: 572
 - [Gemstone Jewelry](https://www.folkmarketgems.com/collections/gemstone-jewelry): Folkmarket Gems has included natural gemstones jewelry section also on demand of our customers. We have included beautiful sophisticated jewelry designs made of natural gemstones, silver sterling 925, or 14 to 18 k Gold.
   Updated: 2026-07-14T11:16:38Z
   Total Products: 33
 - [ Deals on Gemstones and Minerals](https://www.folkmarketgems.com/collections/sales-deals): Shop gemstone  deals on rough rubies, sapphires, emeralds, tourmaline & mineral specimens. Wholesale & single lots. Secure checkout. Buy now.
-  Updated: 2026-10-18T18:18:08Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 396
 - [Under $500 Gems Deals](https://www.folkmarketgems.com/collections/under-500): Shop high-value natural gemstones and mineral specimens priced under $500. Featuring fine emeralds, aquamarines, tourmalines, and quartz clusters, our under-$500 gemstone  collection offers premium quality, full authenticity guarantee, and exceptional value. Browse affordable gemstones online today.Are the gemstones in this collection  natural?Yes, every gemstone priced under $500 comes with full authenticity disclosures and natural origin guarantees.What gem species are included in the under $500 selection?Selection includes faceted sapphires, emeralds, aquamarines, tourmalines, peridots, and crystal matrix specimens.Are individual photos provided for each item?Yes, all listings display exact photos and measurements of the actual stone or mineral parcel being purchased.
-  Updated: 2026-10-18T14:27:28Z
+  Updated: 2026-11-06T12:14:37Z
   Total Products: 882
 - [Under $300USD Gems ](https://www.folkmarketgems.com/collections/under-300usd-gemstone-deals): Explore quality natural gemstones and mineral specimens under $300 USD. Perfect for budget-conscious collectors, jewelry creators, and lapidarists, our selection includes faceted gems, rough parcels, and crystal specimens with  origins. Shop $300 gem deals online today.Can I find faceted natural gemstones in the under $300 collection?Yes, we feature loose faceted spinels, zircons, citrines, amethysts, and aquamarines under $300 USD.Are these stones suited for custom jewelry setting?Absolutly, all loose cut gems include exact calibrated or freeform dimensions ready for jewelry settings.Do you offer worldwide shipping on $300 gemstone deals?Yes, we ship globally with tracked and secure courier delivery services.
-  Updated: 2026-10-11T19:24:21Z
-  Total Products: 642
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 641
 - [Beads](https://www.folkmarketgems.com/collections/crystal-beads-wholesale): Buy Crystal Beads Wholesale Price in form of loose strings, bracelets, necklaces.
   Updated: 2026-10-09T12:17:23Z
   Total Products: 15
@@ -745,8 +745,8 @@
   Updated: 2026-10-09T12:22:16Z
   Total Products: 31
 - [Home](https://www.folkmarketgems.com/collections/home): Welcome to Folkmarketgems, your online destination for high-grade natural gemstones, mineral crystal specimens, and lapidary supplies. Explore our primary collection featuring faceted stones, raw rough, cabochons, and rare crystal matrices with  authenticity. Shop online today.Are all gemstones on Folkmarketgems  authentic?Yes, all minerals and gems are 100% natural and ethically sourced with transparent origin and  disclosures.What payment and shipping options are supported?We accept major credit cards and digital payments, offering secure worldwide tracked express shipping options.Can I request gemological certificates for high-value items?Yes, third-party laboratory gemological certificates can be provided upon request for high-value gems.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 1478
+  Updated: 2026-11-06T16:20:25Z
+  Total Products: 1485
 - [Fluorescent Minerals and Gems | UV Reactive Minerals](https://www.folkmarketgems.com/collections/fluorescent-minerals-and-gems): Shop fluorescent minerals, UV reactive gems & rare rough stones. Kashmir rubies, sapphires, hackmanite & more. Free shipping on orders over $200.
   Updated: 2026-10-18T14:26:54Z
   Total Products: 72
@@ -775,23 +775,23 @@
   Updated: 2026-10-09T12:57:37Z
   Total Products: 1
 - [Faceted Gemstones](https://www.folkmarketgems.com/collections/faceted-gemstones): Buy natural faceted loose gemstones — emeralds, rubies, sapphires, garnet & more. Singles, pairs & parcels. Direct-source pricing. Shop Folkmarketgems.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 551
+  Updated: 2026-11-04T10:08:27Z
+  Total Products: 552
 - [Precious Stones](https://www.folkmarketgems.com/collections/precious-stones): Shop 432+ natural precious stones — emerald, ruby & sapphire rough, specimens & loose gems from Pakistan, Afghanistan & Mozambique. Wholesale deals available.
   Updated: 2026-10-18T19:47:41Z
   Total Products: 450
 - [Semi Precious Stones](https://www.folkmarketgems.com/collections/semi-precious-stones): Shop natural semi precious stones – facet-grade rough, lapidary rough & wholesale lots. Tourmaline, aquamarine, garnet, topaz & more at Folkmarketgems.
-  Updated: 2026-10-18T18:08:24Z
-  Total Products: 911
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 917
 - [All Natural Gemstones](https://www.folkmarketgems.com/collections/natural-gemstones-for-): Folkmarketgems offers  Wholesale & retail gemstone supplying -  natural gems marketplace in raw gems, polished colored stones, precious
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 1469
+  Updated: 2026-11-06T16:20:25Z
+  Total Products: 1476
 - [Octahedron Crystals](https://www.folkmarketgems.com/collections/octahedron): Discover stunning natural octahedron crystals showcasing symmetrical eight-faced geometric geometry and sharp terminations. Featuring natural diamonds, fluorite, and magnetite octahedral specimens, our collection provides striking natural crystal geometry for mineral enthusiasts. Shop octahedron crystals online today.What defines an octahedral crystal shape?An octahedron is a symmetrical crystal form featuring eight triangular faces meeting at six pointed vertices.Which gemstone species grow as natural octahedrons?Diamonds, spinels, and fluorite are prime examples of minerals that naturally crystallize in octahedral forms.Are these octahedral forms polished or raw?Our octahedral crystals are 100% natural raw specimens formed organically in isometric growth environments.
   Updated: 2026-10-09T12:58:14Z
   Total Products: 5
 - [Start Up Gems Lots](https://www.folkmarketgems.com/collections/gemstones-for-beginners): Shop gemstone starter lots: tourmaline, garnet, topaz, spinel & more. Budget-friendly rough & faceted deals from $40. Secure checkout. Shop now.
-  Updated: 2026-10-18T18:17:42Z
-  Total Products: 693
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 697
 - [Industrial Minerals](https://www.folkmarketgems.com/collections/commercial-quantity-wholesale-raw-gems-industrial-minerals): Provides a wide selection of industrial-grade or commercial-scale stones, including Himalayan Salt Rocks, Milky Quartz, Lapis Lazuli, Onyx, Serpentine, Jade, Hydroglossuar Garnets, and many others. Reach out to inquire about pricing at info@folkmarketgems.com.
   Updated: 2026-10-11T19:59:07Z
   Total Products: 46
@@ -814,17 +814,17 @@
   Updated: 2026-10-09T13:02:50Z
   Total Products: 2
 - [Gemstones for Valentines Day](https://www.folkmarketgems.com/collections/gemstones-for-valentines-day): Shop natural Valentine's Day gemstones at Folkmarketgems — pigeon blood rubies, pink sapphires, morganite & more. , ethically sourced, wholesale available.
-  Updated: 2026-10-18T14:26:54Z
+  Updated: 2026-11-04T10:12:28Z
   Total Products: 399
 - [Natural Gemstones for Engagement Rings](https://www.folkmarketgems.com/collections/natural-gems-for-engagement): Shop  natural gemstones for engagement rings — Kashmir rubies, sapphires, emeralds, aquamarine & more. Rough & faceted. Worldwide shipping. Buy now.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 798
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 801
 - [Bulk Mixed Stone Gem Boxes](https://www.folkmarketgems.com/collections/bulk-mixed-stone-gem-boxes): Explore our treasures of raw gemstones, cut crystals, and natural minerals—whether you want for personal, for collection or for your cutting or jewelry making projects in bulk, we’ve got something for for you. Our mixed gemstone boxes are like a surprise adventure—each box is packed with a vibrant mix of unique gemstone varieties, healing crystals, and natural stones sourced from around the world. Want something special? We’ll create a custom gemstone box just for you! Tell us your requirements—maybe you’re after affordable gemstones for jewelry-making, unique crystal specimens, or a luxury gemstone gift that’ll wow someone special. No stress about budgets or specifics—just contact us, and we’ll select the stones that match your needs or project goals. Perfect for wholesale crystal buyers to buy in samples, hobbyists, or anyone cutting a little natural magic.
   Updated: 2026-10-06T19:01:12Z
   Total Products: 21
 - [Brucite](https://www.folkmarketgems.com/collections/brucite): Browse bright natural brucite specimens known for vibrant canary yellow to lime-green translucent micaceous clusters. Highly prized by specimen collectors for color intensity and crystal habit, our brucite collection delivers top quality from world-famous localities. Find authentic natural brucite today.Where are the finest yellow brucite specimens mined?The world's premier yellow brucite specimens are collected from the Killa Saifullah district in Balochistan, Pakistan.How should delicate brucite specimens be preserved?Brucite is soft (Mohs hardness 2.5); display specimens away from high humidity, extreme heat, or abrasive pressure.What mineral chemical class does brucite belong to?Brucite is a magnesium hydroxide mineral naturally forming platy, botryoidal, or fibrous crystal aggregates.
-  Updated: 2026-10-09T13:03:09Z
-  Total Products: 4
+  Updated: 2026-11-06T09:43:04Z
+  Total Products: 5
 - [Loose Emerald Gems](https://www.folkmarketgems.com/collections/loose-gemstones-emeralds): Buy  loose emerald stones for engagement rings and fine jewelry. Discover graded natural emerald gemstones with  authenticity and detailed pricing.
   Updated: 2026-10-18T19:47:41Z
   Total Products: 83
@@ -835,10 +835,10 @@
   Updated: 2026-10-18T14:26:54Z
   Total Products: 29
 - [Loose Peridot Gemstones](https://www.folkmarketgems.com/collections/loose-gemstones-peridots): Buy loose peridot stones for rings, pendants, and custom jewelry. Explore faceted natural peridot gemstones with detailed pricing and size options.
-  Updated: 2026-10-18T18:17:42Z
-  Total Products: 53
+  Updated: 2026-11-04T08:34:54Z
+  Total Products: 54
 - [Loose Gemstones Tourmaline](https://www.folkmarketgems.com/collections/loose-gemstones-tourmaline): Buy loose tourmaline stones for rings and custom jewelry. Explore faceted pink, green, and rare Paraiba tourmaline with detailed pricing and size options.
-  Updated: 2026-10-09T13:05:30Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 68
 - [Loose Gemstones Topaz](https://www.folkmarketgems.com/collections/loose-gemstones-topaz): Shop loose topaz gemstones — imperial, pink, London blue & golden topaz. Natural, faceted, direct-from-mine. Buy single stones or wholesale parcels.
   Updated: 2026-10-18T18:17:42Z
@@ -880,7 +880,7 @@
   Updated: 2026-10-09T13:09:57Z
   Total Products: 11
 - [Wholesale Loose Gemstones](https://www.folkmarketgems.com/collections/wholesale-loose-gemstones): Buy gemstone lots at competitive trade pricing. Bulk quantities available for jewelers, retailers and resellers worldwid
-  Updated: 2026-10-09T13:10:25Z
+  Updated: 2026-11-04T10:08:27Z
   Total Products: 64
 - [Calcite Gemstone](https://www.folkmarketgems.com/collections/calcite-gemstone): Explore colorful calcite mineral specimens featuring optical Iceland spar, vibrant orange, green, and cobalt-calcite formations. Renowned for double refraction and bright UV fluorescence, our natural calcite collection caters to specimen collectors and educators alike. Buy natural calcite online today.What is Iceland spar calcite?Iceland spar is a transparent rhombohedral calcite variety famous for demonstrating high optical double refraction.Does calcite exhibit fluorescence under UV light?Many calcite specimens fluoresce brightly in red, orange, pink, or green shades under ultraviolet light.What is the Mohs hardness of calcite?Calcite is the defining standard mineral for Mohs hardness 3, requiring gentle handling away from acids.
   Updated: 2026-10-09T13:10:55Z
@@ -910,14 +910,14 @@
   Updated: 2026-07-08T23:00:11Z
   Total Products: 31
 - [Red Gemstones](https://www.folkmarketgems.com/collections/red-gemstones): Shop natural red & pink gemstones: ruby, red spinel, rhodolite garnet & pink tourmaline. Ethically sourced,  options, wholesale parcels. Global shipping.
-  Updated: 2026-10-18T14:26:54Z
+  Updated: 2026-11-04T10:12:28Z
   Total Products: 360
 - [Blue Gemstones](https://www.folkmarketgems.com/collections/blue-gemstones): Shop natural blue gemstones like sapphire, aquamarine & lapis lazuli. Authentic crystals for jewelry, healing & collections. Worldwide shipping.
-  Updated: 2026-10-18T18:17:42Z
-  Total Products: 369
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 372
 - [Sold Out Gems and Minerals](https://www.folkmarketgems.com/collections/sold-out-gemstones-and-minerals): Sold Out – Limited Preorders Available While these items are currently sold out, selected gemstones are available for preorder. Preordered items will be similar in color / clarity/sizes, though minor variations in gemstone color, size, or quantity may occur. Since all our gemstones are 100% natural (not lab-created), each stone has its own unique characteristics. Natural variations in color, clarity, and cut are to be expected, making every piece one-of-a-kind. Preorder now to secure your item—limited stock remaining!
-  Updated: 2026-10-18T18:05:09Z
-  Total Products: 496
+  Updated: 2026-11-06T16:18:12Z
+  Total Products: 499
 - [Top  Gemstones](https://www.folkmarketgems.com/collections/top--products): Shop our best- jewelry and gemstones. Discover customer favorites and trending pieces that everyone loves. Quality gems at great prices.
   Updated: 2026-10-06T19:01:12Z
   Total Products: 69
@@ -955,17 +955,17 @@
   Updated: 2026-10-09T17:26:48Z
   Total Products: 45
 - [Rough Tourmaline](https://www.folkmarketgems.com/collections/rough-tourmaline-stones): Shop natural rough tourmaline crystals from Afghanistan & Pakistan. Faceting rough, mineral specimens & parcel deals. Worldwide shipping. Buy now.
-  Updated: 2026-10-04T11:24:13Z
+  Updated: 2026-11-04T17:39:27Z
   Total Products: 98
 - [Rough Garnet](https://www.folkmarketgems.com/collections/rough-garnet-stones): Shop natural rough garnet — Tsavorite, Rhodolite, Almandine & more. Untreated, direct-source facet rough. Worldwide shipping. Buy now at Folkmarketgems.
   Updated: 2026-10-11T19:16:58Z
   Total Products: 49
 - [Rough Aquamarine](https://www.folkmarketgems.com/collections/rough-aquamarine-stones): Buy natural rough aquamarine from Pakistan, Brazil & Madagascar. Faceting rough, lapidary parcels & mineral specimens. Secure checkout. Shop now.
-  Updated: 2026-10-11T19:26:39Z
-  Total Products: 44
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 46
 - [Rough Peridot](https://www.folkmarketgems.com/collections/rough-peridot-stones): Buy natural rough peridot from Pakistan's Supat Mine. Faceting lots, crystals on matrix, Ludwigite inclusions & wholesale parcels. Shop now at Folkmarketgems.
-  Updated: 2026-10-11T19:15:21Z
-  Total Products: 47
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 51
 - [Rough Topaz](https://www.folkmarketgems.com/collections/rough-topaz-stones): Shop facet-grade rough topaz: Swiss Blue, London Blue, Imperial Pink & Katlang varieties. Wholesale lots & single pieces. Secure checkout. Buy now.
   Updated: 2026-10-03T11:21:16Z
   Total Products: 52
@@ -982,8 +982,8 @@
   Updated: 2026-08-27T00:18:37Z
   Total Products: 23
 - [Afghanistan Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/afghanistan-origin-gemstones-and-minerals): Shop 287+ Afghanistan-origin gemstones: Panjshir emeralds, rubies, lapis lazuli, tourmaline & more. Direct-source rough & loose gems. Buy now.
-  Updated: 2026-10-18T14:24:33Z
-  Total Products: 307
+  Updated: 2026-11-04T17:39:27Z
+  Total Products: 308
 - [Burma Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/burma-origin-gemstones-and-minerals): Shop Burma origin gemstones: Mogok Spinels, Burmite Amber, Sapphires & more. Wholesale & retail lots. Worldwide shipping. Buy at Folkmarketgems.
   Updated: 2026-09-17T13:32:10Z
   Total Products: 43
@@ -994,8 +994,8 @@
   Updated: 2026-10-09T23:24:23Z
   Total Products: 188
 - [Brazilian Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/brazilian-origin-gemstones-and-minerals): Shop Brazilian rough gemstones, faceting rough & loose gems. Amethyst, Aquamarine, Topaz & more. Direct-source pricing. Order now at Folkmarketgems.
-  Updated: 2026-10-18T18:17:42Z
-  Total Products: 142
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 144
 - [Mozambique Origin Gems and Minerals](https://www.folkmarketgems.com/collections/mozambique-origin-gems-and-minerals): Shop Mozambique rubies, sapphires & corundum rough. Raw crystals, faceting rough & loose stones. Wholesale deals available. Order now at Folkmarketgems.
   Updated: 2026-10-09T17:26:48Z
   Total Products: 15
@@ -1015,8 +1015,8 @@
   Updated: 2026-09-20T12:34:04Z
   Total Products: 37
 - [Green Gemstones](https://www.folkmarketgems.com/collections/green-gemstones): Shop natural green gemstones — rough emeralds, peridot, tourmaline & prasiolite. Direct-from-mine sourcing. Worldwide shipping. Buy now at Folkmarketgems.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 534
+  Updated: 2026-11-06T12:14:37Z
+  Total Products: 539
 
 ## Blogs
 
