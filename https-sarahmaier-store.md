@@ -9,13 +9,13 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-10-31T00:37:03.324Z
+- Updated At: 2026-11-07T00:37:41.278Z
 
 ## Products
 
 - [Paris 01 Black | Women's shoes | High heel black shoes](https://sarahmaier.store/products/paris-01-black): Paris 01 black
 Have you ever dreamed with a classic high heel shoe both irreverent and bold? If so,  this is the model you are looking for.
-  Updated: 2026-10-16T14:36:52Z
+  Updated: 2026-11-03T00:48:35Z
   Vendor: Sarah Maier
   Product Type: PUMPS
   Availability: Available
@@ -209,7 +209,7 @@ Inspired by a classic high heel shoe by Sarah Maier. So, this is the model you a
     Price: €320.00 EUR
 - [Pretoria white | Women's shoes | White and gold sneaker](https://sarahmaier.store/products/pretoria-white): Pretoria white
 Simple and elegant lines, the white color combined with the white sole, are the elements that stand out in these comfortable. Made in Italy. Leather.
-  Updated: 2026-10-21T01:12:41Z
+  Updated: 2026-10-31T01:11:40Z
   Vendor: Sarah Maier
   Product Type: SNEAKERS
   Availability: Available
@@ -233,7 +233,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €320.00 EUR
 - [Pretória 02 white | Women's shoes | White ankle sneaker](https://sarahmaier.store/products/pretoria-02-white): Style, shine and comfort! Those words define this ankle sneakers covered in swarovski crystals on both sides and will make you the center of attention wherever you g
-  Updated: 2026-10-18T08:22:50Z
+  Updated: 2026-10-31T01:11:40Z
   Vendor: Sarah Maier
   Product Type: SNEAKERS
   Availability: Available
@@ -329,7 +329,7 @@ Simple and elegant lines, the white color combined with the white sole, are the
     Availability: Available
     Price: €375.00 EUR
 - [London 01 black | Women's shoes | Black high heel ankle boots](https://sarahmaier.store/products/london-01-black): An elegant and original heel makes all the difference! Sarah Maier's black ankle boots has simple lines but the 9 cm high heel in black metal transform this pair of shoes into an irreverent, unique and original ones.
-  Updated: 2026-10-16T14:36:53Z
+  Updated: 2026-11-04T01:10:50Z
   Vendor: Sarah Maier
   Product Type: BOOTS
   Availability: Available
@@ -739,7 +739,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €345.00 EUR
 - [ERIS FUCHSIA WAVE Women's Leather Mule Heels | Sarah Maier](https://sarahmaier.store/products/eris-fuchsia-sandals): Handcrafted Italian leather mule heels in metallic fuchsia. Mid-height block heel, sculptural design, premium comfort. Made in Italy. Shop now.
-  Updated: 2026-10-18T08:22:57Z
+  Updated: 2026-11-05T00:48:05Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -769,7 +769,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €345.00 EUR
 - [RADIANT MULE - Metallic Italian Leather Sandals | Sarah Maier](https://sarahmaier.store/products/radiant-sandals): Handcrafted in Italy, the Radiant Mule features a retro cage design in galvanized metallic leather. We designed these block-heel sandals to stay comfortable all night, from dinner to the dance floor.
-  Updated: 2026-10-18T08:22:56Z
+  Updated: 2026-11-01T14:53:31Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
