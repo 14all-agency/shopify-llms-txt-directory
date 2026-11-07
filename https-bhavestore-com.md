@@ -6,73 +6,73 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-02-19T13:05:44Z
 - Contact Email: info@bhavestore.com
-- Updated At: 2026-10-31T00:20:42.471Z
+- Updated At: 2026-11-07T00:23:31.582Z
 
 ## Products
 
 - [Mobil Oyun Tetik Aparatı - As Q Senin ile Keskin Kontrol](https://bhavestore.com/products/ace-q): As Q Senin mobil oyun tetik aparatı ile oyunlarda hızlı ve hassas saldırılar yapın. Üstün performans için ideal oyun aksesuarı.
-  Updated: 2026-10-30T06:46:56Z
+  Updated: 2026-11-06T11:20:26Z
   Vendor: bhave
   Product Type: Tetik
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/0_10194ce8-dd42-498a-b444-23ef4ced9fdd.png?v=1779810974
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/6_0ac35d07-e92c-4d0e-a08b-369014ac4893.png?v=1793833899
   Price: ₺519,99 TRY
 - [Telefon Soğutucu Ice Q ile Serin Performans](https://bhavestore.com/products/ice-q): Ice Q telefon soğutucu, oyun ve yoğun kullanımda cihazınızı serin tutar. Telefon soğutucu ile performans kaybını azaltın.
-  Updated: 2026-10-30T15:29:58Z
+  Updated: 2026-11-06T17:22:46Z
   Vendor: bhave
   Product Type: Soğutucu
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/0_754dcc68-fbe6-4552-8606-487db63875b3.png?v=1779810987
   Price: ₺1.099,99 TRY
 - [Carbon Parmaklık - En İyi Mobil Oyun Parmaklığı](https://bhavestore.com/products/carbon-parmaklik): Carbon parmaklık ile mobil oyun deneyiminizi geliştirin. Dayanıklı ve konforlu mobil oyun parmaklığı şimdi satın alın.
-  Updated: 2026-10-30T22:04:52Z
+  Updated: 2026-11-06T23:27:56Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/CARBON1.png?v=1779811031
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/CARBON1_784be191-54ec-47ad-a22e-2e1bd97865e4.png?v=1793831219
   Price: ₺149,99 TRY
 - [Hibrit Mobil Oyun Parmaklık - Konforlu Oyun Deneyimi](https://bhavestore.com/products/hybrid): Hibrit mobil oyun parmaklık ile oyun oynarken maksimum rahatlık ve kontrol sağlayın. Dayanıklı ve kullanışlı tasarım ile en iyi performans.
-  Updated: 2026-10-30T22:02:44Z
+  Updated: 2026-11-06T23:27:55Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/T3.png?v=1779811042
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/M3_eb340e05-243b-4baa-a688-b4fbc1d0c2e8.png?v=1793831839
   - [Pembe](https://bhavestore.com/products/hybrid?variant=46360637210823)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/P4_b06c8dad-0141-4e56-b76c-72e7bf2fd381.png?v=1779811052
+    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/P4_200a09f8-a1a9-487a-b63a-51738860a4e8.png?v=1793831839
     Price: ₺199,99 TRY
   - [Turkuaz](https://bhavestore.com/products/hybrid?variant=46360637243591)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/T3.png?v=1779811042
+    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/T3_3ebd0477-f3df-4b2d-af57-a56a9845cd94.png?v=1793831839
     Price: ₺199,99 TRY
   - [Yeşil](https://bhavestore.com/products/hybrid?variant=46360640979143)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/Y3_36899512-689d-4a8c-8fcb-0bac1727e6d4.png?v=1779811056
+    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/Y3_8dd27d8a-cb7e-4012-bd91-79fba0e31416.png?v=1793831839
     Price: ₺199,99 TRY
   - [Mavi](https://bhavestore.com/products/hybrid?variant=46360641011911)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/M3_8fc7c3df-9e52-4d7e-868d-0ef37d9f6915.png?v=1779811054
+    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/M3_eb340e05-243b-4baa-a688-b4fbc1d0c2e8.png?v=1793831839
     Price: ₺199,99 TRY
   - [Sarı](https://bhavestore.com/products/hybrid?variant=46360641044679)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/S2_83c9545e-60a1-43b7-bb08-d0546cbe9eb4.png?v=1779811055
+    Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/S2_0bacbbd3-ebf2-4ca5-a3c5-0a86ce56b1d6.png?v=1793831839
     Price: ₺199,99 TRY
 - [Silver Parmaklık Mobil Oyun Parmaklık Seti - Rahat Kullanım](https://bhavestore.com/products/silver-parmaklik): Silver parmaklık ile mobil oyun parmaklık seti deneyiminizi geliştirin. Konforlu ve sağlam tasarımla daha iyi kontrol sizde.
-  Updated: 2026-10-30T23:55:25Z
+  Updated: 2026-11-07T00:02:57Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVER3.png?v=1779811058
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVER3_ef6637e7-8bc5-4597-bd41-f9097acf8e48.png?v=1793831876
   Price: ₺199,99 TRY
 - [Silver Pro Parmaklık | PUBG Mobile Parmaklık Kalitesi](https://bhavestore.com/products/silver-pro-parmaklik): Silver Pro Parmaklık ile PUBG Mobile parmaklık deneyiminizi geliştirin. Dayanıklı ve hassas tasarım ile oyun performansınızı artırın.
-  Updated: 2026-10-30T20:02:59Z
+  Updated: 2026-11-07T00:14:56Z
   Vendor: bhave
   Product Type: Parmaklık
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVERPRO4_6abb08c1-c8c2-4b45-9f8e-029b45f6d181.png?v=1784586341
+  Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/SILVERPRO4_8fb82844-cc1c-4fad-869c-baaff20a6708.png?v=1793831814
   Price: ₺219,99 TRY
 - [Taşınabilir Fan Aero Q: Kompakt, Sessiz ve Uzun Pil Ömrü](https://bhavestore.com/products/aeroqtasinlabilir-fan): Taşınabilir Fan Aero Q ile yüksek performans ve dayanıklılık bir arada. Hafif ve şık tasarımıyla kablosuz serinlik artık cebinizde. Hemen keşfedin!
-  Updated: 2026-10-30T17:47:07Z
+  Updated: 2026-11-06T21:41:41Z
   Vendor: Bhave
   Product Type: Soğutucu
   Availability: Available
@@ -114,14 +114,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/V4.png?v=1784586407
   Price: ₺299,99 TRY
 - [Atakcı Limited Edition Parmaklık - Bhave](https://bhavestore.com/products/atakci-limited-edition-parmaklik): - Bhave
-  Updated: 2026-10-27T18:33:45Z
+  Updated: 2026-11-02T10:12:16Z
   Vendor: Bhave
   Product Type: Parmaklık
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/A7_51299114-ebac-4d29-8c5e-9837a5aa76f0.png?v=1784586420
   Price: ₺299,99 TRY
 - [240W Standlı Type-C Kablo - Bhave](https://bhavestore.com/products/240w-standli-type-c-kablo): @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap'); .bhave-container { font-family: 'Josefin Sans',  - Bhave
-  Updated: 2026-10-30T12:54:46Z
+  Updated: 2026-11-06T21:35:56Z
   Vendor: Bhave
   Product Type: Güç
   Availability: Available
@@ -152,7 +152,7 @@
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/1png_c77cc02c-5fe8-4362-a08c-60e67eddbc80.png?v=1786683056
   Price: ₺1.099,00 TRY
 - [Memo VC01 Manyetik Plaka](https://bhavestore.com/products/memo-vc01-manyetik-plaka): @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap'); .bhave-container { font-family: 'Josefin Sans', sans-serif; color: #111; line-height: 1.5; max-width: 100%; } /* Kompakt İkonlu Izgara */ .bhave-features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 35px; } .feature-card { background: #ffffff; border: 1px solid #eee; padding: 15px; border-radius: 8px; transition: 0.2s; } .feature-icon { width: 26px; height: 26px; margin-bottom: 10px; stroke: #000; stroke-width: 1.5; fill: none; } .feature-title { font-weight: 700; font-size: 0.95rem; margin-bottom: 5px; display: block; } .feature-desc { font-size: 0.85rem; color: #666; line-height: 1.4; margin: 0; } /* Akordeon Stili */ .bhave-accordion details { background: #fafafa; margin-bottom: 10px; border-radius: 8px; border: 1px solid #f0f0f0; } .bhave-accordion summary { cursor: pointer; padding: 15px 18px; font-weight: 600; font-size: 1rem; color: #000; list-style: none; display: flex; align-items: center; position: relative; } .bhave-accordion summary::after { content: '+'; position: absolute; right: 18px; font-size: 1.4rem; color: #777; } .bhave-accordion details[open] summary::after { content: '−'; } .bhave-accordion .content { padding: 0 18px 18px 18px; color: #555; font-size: 0.95rem; } .icon-small { width: 20px; height: 20px; margin-right: 10px; stroke: #000; stroke-width: 2; fill: none; } /* SEO Görsel Alanı */ .bhave-seo-image { text-align: center; margin: 20px 0; } .bhave-seo-image img { max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee; } Memo Manyetik Telefon Soğutucu Plakası (VC01) Buhar Odası (Vapor Chamber) Alüminyum alaşım gövdesiyle ısıyı geniş bir yüzeye yayarak dağıtır. Ultra İnce 1,5mm Kalınlık Telefon kılıfının altına sığar, elde tutuşta kalınlık hissettirmez. Tüm Telefon Soğutucularıyla Uyumlu Sadece Memo değil, piyasadaki çoğu manyetik telefon soğutucusuyla doğrudan uyumludur. Sökülüp Tekrar Yapıştırılabilir Termal silikon yapıştırıcı sayesinde istediğiniz zaman sökülüp yeniden takılabilir. Sıkça Sorulan Sorular Bu ürün telefon soğutucu mu? Hayır. Bu ürünün kendisi bir soğutucu değildir; Memo CX20, CX21, CX26 dahil olmak üzere piyasadaki çoğu manyetik telefon soğutucusuyla birlikte kullanılabilen manyetik ısı yayıcı destek plakasıdır. Soğutucu kutuya dahil değildir. Hangi telefonlarla uyumlu? Piyasadaki çoğu akıllı telefon modeliyle uyumludur. En iyi performans için telefonun arka yüzeyinin düz olması önerilir. Ağırlığı ve boyutları nedir? 61,2 x 108,5 x 1,5 mm ölçülerinde ve 25 gram ağırlığındadır; alüminyum alaşım ve termal silikon yapıştırıcıdan üretilmiştir. Yapıştırma telefona zarar verir mi? Termal silikon yapıştırıcı yapısı sayesinde iz bırakmadan sökülüp tekrar yapıştırılabilir. Kargo Bilgileri Saat 14.00'a kadar verilen tüm siparişler aynı gün kargolanır. Sonrasındaki siparişler ertesi iş günü teslim edilir. (1-3 iş günü teslimat). İade Politikası Amacımız tamamen memnun kalmanızdır. Bir sorun yaşarsanız bize bildirin, sorunu çözmek için elimizden geleni yaparız. Ürün Hakkında Detaylı Bilgi Memo manyetik telefon soğutucu plakası (VC01), buhar odası (vapor chamber) teknolojisiyle üretilmiş alüminyum alaşım bir destek plakasıdır. Kendisi bir soğutucu değildir; Memo'nun CX20, CX21 ve CX26 modelleri dahil olmak üzere piyasadaki çoğu manyetik telefon soğutucusunun ısı dağıtımını ve manyetik tutuş gücünü artırmak için tasarlanmıştır. Manyetik Telefon Soğutucu Plakası ile Daha Güçlü Isı Dağılımı 1,5 mm gibi ultra ince bir kalınlığa sahip olan bu manyetik telefon soğutucu plakası, telefon kılıfının altına rahatlıkla sığar ve elde tutuşta ekstra kalınlık hissettirmez. Termal silikon yapıştırıcı yapısı sayesinde istediğiniz zaman iz bırakmadan sökülüp yeniden takılabilir. Piyasadaki çoğu manyetik telefon soğutucusuyla birlikte kullanıldığında, soğutucunun telefona daha sıkı ve dengeli tutunmasına, ısının daha geniş bir yüzeye yayılmasına yardımcı olur.
-  Updated: 2026-10-18T16:26:38Z
+  Updated: 2026-11-01T19:35:56Z
   Vendor: Memo
   Product Type: 
   Availability: Available
@@ -194,14 +194,14 @@
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/1_50dcb847-d1f0-4605-a5b4-25a388d2e4b5.png?v=1786978713
   Price: ₺599,99 TRY
 - [Belkin RockStar Beyaz 3.5mm Ses + USB-C Şarj Adaptörü](https://bhavestore.com/products/belkin-rockstar-beyaz-3-5mm-ses-usb-c-sarj-adaptoru): @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600;700&display=swap'); .bhave-container { font-family: 'Josefin Sans', sans-serif; color: #111; line-height: 1.5; max-width: 100%; } /* Kompakt İkonlu Izgara */ .bhave-features-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-bottom: 35px; } .feature-card { background: #ffffff; border: 1px solid #eee; padding: 15px; border-radius: 8px; transition: 0.2s; } .feature-icon { width: 26px; height: 26px; margin-bottom: 10px; stroke: #000; stroke-width: 1.5; fill: none; } .feature-title { font-weight: 700; font-size: 0.95rem; margin-bottom: 5px; display: block; } .feature-desc { font-size: 0.85rem; color: #666; line-height: 1.4; margin: 0; } /* Akordeon Stili */ .bhave-accordion details { background: #fafafa; margin-bottom: 10px; border-radius: 8px; border: 1px solid #f0f0f0; } .bhave-accordion summary { cursor: pointer; padding: 15px 18px; font-weight: 600; font-size: 1rem; color: #000; list-style: none; display: flex; align-items: center; position: relative; } .bhave-accordion summary::after { content: '+'; position: absolute; right: 18px; font-size: 1.4rem; color: #777; } .bhave-accordion details[open] summary::after { content: '−'; } .bhave-accordion .content { padding: 0 18px 18px 18px; color: #555; font-size: 0.95rem; } .icon-small { width: 20px; height: 20px; margin-right: 10px; stroke: #000; stroke-width: 2; fill: none; } /* SEO Görsel Alanı */ .bhave-seo-image { text-align: center; margin: 20px 0; } .bhave-seo-image img { max-width: 100%; height: auto; border-radius: 8px; border: 1px solid #eee; } Belkin RockStar Beyaz 3.5mm Ses + USB-C Şarj Adaptörü 3.5mm Ses + USB-C Şarj Bir Arada Tek Type-C bağlantıdan hem 3.5mm kulaklığınızı kullanın hem de cihazınızı şarj edin. 60W'a Kadar Güç Aktarımı Müzik dinlerken veya görüşme yaparken kesintisiz USB-C Power Delivery hızlı şarj. Dahili DAC Çipi Dijital ses sinyalini yüksek çözünürlüklü analog sese dönüştürerek net bir dinleme deneyimi sunar. Plastiksiz Ambalaj %100 plastik içermeyen, çevreye duyarlı paketleme. Sıkça Sorulan Sorular Adaptör ile aynı anda şarj olup kulaklıkla müzik dinleyebilir miyim? Evet. Belkin RockStar, tek Type-C bağlantı üzerinden hem 3.5mm kulaklık çıkışı hem de USB-C şarj girişi sunar; cihazınız şarj olurken kablolu kulaklığınızla müzik dinlemeye veya görüşme yapmaya devam edebilirsiniz. Belkin RockStar'ın JOYROOM SY-C02 modelimizden farkı nedir? Her iki adaptör de aynı anda 3.5mm ses ve Type-C şarj imkânı sunar. Belkin RockStar; küresel bir markanın 2 yıl garantisi, dahili DAC çipi ve plastiksiz ambalajıyla öne çıkarken, JOYROOM SY-C02 daha uygun fiyatlı bir alternatif arayanlar için idealdir. Şarj hızı ne kadar? Adaptör, USB-C Power Delivery ile 60W'a kadar güç aktarımını destekler; bağlı olduğunuz şarj adaptörünün ve cihazınızın desteklediği maksimum hız geçerlidir. Hangi cihazlarla uyumlu? USB-C portlu akıllı telefon, tablet ve dizüstü bilgisayarlarla; Mac, Windows ve Chrome işletim sistemli cihazlarla uyumludur. Kutunun içinde neler var, garanti süresi nedir? Kutuda yalnızca Belkin RockStar USB-C ses + şarj adaptörü bulunur. Ürün, Belkin'in 2 yıllık garantisi kapsamındadır. Kargo Bilgileri Saat 14.00'a kadar verilen tüm siparişler aynı gün kargolanır. Sonrasındaki siparişler ertesi iş günü teslim edilir. (1-3 iş günü teslimat). İade Politikası Amacımız tamamen memnun kalmanızdır. Bir sorun yaşarsanız bize bildirin, sorunu çözmek için elimizden geleni yaparız. Ürün Hakkında Detaylı Bilgi Belkin RockStar, 3.5mm kulaklık girişi bulunmayan Type-C telefonlar için geliştirilmiş bir type-c ses ve şarj adaptörüdür. Tek Type-C bağlantı üzerinden hem kablolu kulaklığınızı kullanmanıza hem de cihazınızı şarj etmenize imkân tanır; ayrı bir adaptör taşıma derdine son verir. Bu type-c ses ve şarj adaptörü, dahili dijital-analog çevirici (DAC) çipi sayesinde dijital ses sinyalini yüksek çözünürlüklü analog sese dönüştürür ve net bir dinleme deneyimi sunar. Belkin RockStar Type-C Ses ve Şarj Adaptörü ile Tek Kablo, Çift Fonksiyon USB-C Power Delivery desteğiyle 60W'a kadar güç aktarımı sağlayan adaptör, müzik dinlerken veya telefon görüşmesi yaparken cihazınızın şarjının bitmesi endişesini ortadan kaldırır. USB-C portlu akıllı telefon, tablet ve dizüstü bilgisayarlarla; Mac, Windows ve Chrome işletim sistemli cihazlarla geniş uyumluluk sunar. Belkin'in küresel marka güvencesiyle sunulan bu type-c ses ve şarj adaptörü, %100 plastik içermeyen ambalajı ve 2 yıllık garantisiyle uzun vadeli, çevreye duyarlı bir tercih arayanlar için tasarlanmıştır. Beyaz renk seçeneğiyle, cihazınızın tasarımına sade ve şık bir uyum sağlar.
-  Updated: 2026-10-30T11:14:41Z
+  Updated: 2026-11-06T19:54:47Z
   Vendor: Belkin
   Product Type: Güç
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0765/0325/3191/files/1png_9aba297c-7dfe-4c3f-98b7-948153824534.png?v=1789410132
   Price: ₺1.999,99 TRY
 - [Mowen Limited Edition Parmaklık | Bhave](https://bhavestore.com/products/mowen-limited-edition-parmaklik): Mowen Limited Edition parmaklık: iletken karbon iplik, ter emen doku ve esnek spandeks yapıyla hassas dokunmatik kontrol ve akıcı kaydırma. 1 çift.
-  Updated: 2026-10-30T15:29:58Z
+  Updated: 2026-11-06T23:27:56Z
   Vendor: Bhave
   Product Type: Parmaklık
   Availability: Available
@@ -211,26 +211,26 @@
 ## Collections
 
 - [Parmak Eldiven](https://bhavestore.com/collections/parmaklik): Parmak Eldiven Espor, oyuncular için konfor ve kontrol sağlar. Parmaklık modelleri hakkında detaylı bilgi alın.
-  Updated: 2026-10-30T11:15:13Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 7
 - [Mobil Oyun Tetik](https://bhavestore.com/collections/tetik): Mobil Oyun Tetik ile oyun performansınızı artırın. Hızlı ve etkili mobil oyun tetik mekanizmaları hakkında her şey burada.
   Updated: 2026-10-22T11:19:33Z
   Total Products: 3
 - [Soğutucu & Fan](https://bhavestore.com/collections/sogutucu): Telefon Soğutucu Fan sayesinde cihazınız ısınmaz, performansınız düşmez. Taşınabilir ve etkili soğutma çözümü.
-  Updated: 2026-10-30T11:15:13Z
+  Updated: 2026-11-04T12:16:15Z
   Total Products: 6
 - [Kablo/Adaptör](https://bhavestore.com/collections/kablo-adaptor): Şarj kablosu ve adaptör seçiminde hız, uyumluluk ve güvenliği öğrenin. Cihazınız için doğru kabloyu kolayca seçin.
-  Updated: 2026-10-30T11:15:13Z
+  Updated: 2026-11-05T12:20:46Z
   Total Products: 7
 - [Stant](https://bhavestore.com/collections/stant): Ergonomik ve Şık Stant Modelleri ile Konforu Keşfedin Teknolojik cihazlarınızı daha verimli kullanmak, masa düzeninizi sağlamak ve sağlığınızı korumak  - Bhave
   Updated: 2026-10-23T11:23:04Z
   Total Products: 3
 - [Özel Tasarım Pubg Parmaklık](https://bhavestore.com/collections/limited-edition): Pubg parmaklık ile oyun kontrolünü artırın, sınırlı üretim ayrıcalığını deneyimleyin. Rahat tutuş ve hızlı tepki için ideal seçim.
-  Updated: 2026-10-30T11:15:13Z
+  Updated: 2026-11-02T12:16:53Z
   Total Products: 4
 - [Çok Satanlar](https://bhavestore.com/collections/cok-satanlar): Çok Satan Mobil Aksesuar ürünlerini keşfedin. Ekran koruyucular, şarj kablosu, şarj adaptörü ve daha fazlasını uygun fiyatla inceleyin.
-  Updated: 2026-10-30T15:29:45Z
-  Total Products: 21
+  Updated: 2026-11-06T14:45:26Z
+  Total Products: 16
 
 ## Blogs
 
@@ -292,7 +292,7 @@
 ## Policies
 
 - [Privacy Policy](https://bhavestore.com/policies/privacy-policy)
-  Updated: 2026-02-19T13:05:51Z
+  Updated: 2026-10-31T13:43:22Z
 - [Shipping Policy](https://bhavestore.com/policies/shipping-policy)
   Updated: 2026-03-13T14:50:53Z
 - [Refund Policy](https://bhavestore.com/policies/refund-policy)
