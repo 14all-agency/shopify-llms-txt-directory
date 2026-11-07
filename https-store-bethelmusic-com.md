@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-06T14:33:56Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:30:12.680Z
+- Updated At: 2026-11-07T01:39:35.037Z
 
 ## Products
 
 - [Bethel Music Camo Tee](https://store.bethelmusic.com/products/bethel-music-camo-tee): UNDER THE BANNER OF YOUR NAME Orange screen print on the front Bethel Music orange screen print on the back Premium tee with an all over camo pattern 100% cotton Unisex, boxy fit CARE INSTRUCTIONS Machine wash cold, with like colors Only non-chlorine bleach Tumble dry low Low iron on reverse side if needed Do not dry clean
-  Updated: 2026-10-26T17:37:56Z
+  Updated: 2026-11-05T16:37:53Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -20,7 +20,7 @@
     Availability: Available
     Price: $40.00 USD
   - [S](https://store.bethelmusic.com/products/bethel-music-camo-tee?variant=45132050301117)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [M](https://store.bethelmusic.com/products/bethel-music-camo-tee?variant=45132050333885)
     Availability: Available
@@ -35,7 +35,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Jesus Have It All Tee](https://store.bethelmusic.com/products/jesus-have-it-all-tee): Jesus Have It All tee in washed red has a boxy vintage style feel. This premium tee is pigment-dyed, which creates a unique look. Heavyweight fabric with an oversized fit. Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered
-  Updated: 2026-10-18T23:14:21Z
+  Updated: 2026-11-06T17:58:36Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -56,17 +56,17 @@
     Availability: Available
     Price: $40.00 USD
   - [2XL](https://store.bethelmusic.com/products/jesus-have-it-all-tee?variant=48352444154045)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
 - [WMR Keychain](https://store.bethelmusic.com/products/wmr-keychain)
-  Updated: 2026-10-05T13:06:18Z
+  Updated: 2026-11-04T21:13:56Z
   Vendor: Bethel Music Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Screenshot2025-02-18at4.55.46PM_a327b398-d694-47ac-a3ff-b3cc5a56ad72.png?v=1768495159
   Price: $2.00 USD
 - [No One Like The Lord Monochrome Tee](https://store.bethelmusic.com/products/no-one-like-the-lord-tour-tee): The No One Like The Lord Tee in black has a monochrome print This premium style is pigment-dyed, which creates a unique look. Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered Size Chart Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26 3XL 32 1/2 27 3/4
-  Updated: 2026-10-19T02:55:05Z
+  Updated: 2026-11-05T16:37:53Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -87,14 +87,14 @@
     Availability: Not Available
     Price: $30.00 USD
 - [We Must Respond Nalgene](https://store.bethelmusic.com/products/we-must-respond-nalgene): We Must Respond Nalgene Bottle - Shipping January 15 Eastman Tritan plastic 50%  recycled content Capacity: 32 oz. Weight: 0.5 lbs Wide mouth lid, perfect for ice cubes Leak-proof guarantee Fits filtration devices Tough and  for life Made in the USA BPA/BPS free To ensure a long-lasting design, we recommend hand wash only
-  Updated: 2026-10-05T13:06:20Z
+  Updated: 2026-11-05T16:37:52Z
   Vendor: Bethel Music Store
   Product Type: water bottle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/WideMouthWaterBottle01.png?v=1749227659
   Price: $25.00 USD
 - [We Must Respond Album Tee](https://store.bethelmusic.com/products/we-must-respond-album-tee): We Must Respond tee in black with red screen print Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered
-  Updated: 2026-10-06T04:41:03Z
+  Updated: 2026-11-05T16:37:52Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -115,7 +115,7 @@
     Availability: Available
     Price: $30.00 USD
 - [We Must Respond Hoodie](https://store.bethelmusic.com/products/we-must-respond-hoodie): WE MUST RESPOND HOODIE Red hoodie with white screen print CARE INSTRUCTIONS Machine wash cold, with like colors Only non-chlorine bleach Tumble dry low Low iron if needed Do not dry clean
-  Updated: 2026-10-05T13:06:22Z
+  Updated: 2026-11-05T16:37:52Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -136,7 +136,7 @@
     Availability: Available
     Price: $50.00 USD
 - [There Is One On The Throne Long Sleeve](https://store.bethelmusic.com/products/there-is-one-on-the-throne-l-s): THERE IS ONE ON THE THRONE Long sleeve in black Graphic on the sleeves We Must Respond on the chest Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered
-  Updated: 2026-10-16T17:20:01Z
+  Updated: 2026-11-05T16:37:52Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -157,7 +157,7 @@
     Availability: Available
     Price: $45.00 USD
 - [The Church Tee](https://store.bethelmusic.com/products/the-church-s-s): The Church Tee in white has a boxy vintage style feel. This premium style is pigment-dyed, which creates a unique look. Heavyweight fabric with an oversized fit. Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered
-  Updated: 2026-10-16T10:42:46Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -178,7 +178,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Jesus Have It All Trucker](https://store.bethelmusic.com/products/jesus-have-it-all-trucker): JESUS HAVE IT ALL Puff print on the front Embroidery on the back Red foam trucker hat
-  Updated: 2026-10-05T13:06:24Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
@@ -192,14 +192,14 @@
     Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/SHT10-7023.png?v=1752158378
     Price: $30.00 USD
 - [WMR Trucker](https://store.bethelmusic.com/products/there-is-one-of-the-throne-hat-black)
-  Updated: 2026-10-17T03:22:59Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/SHT10-7027.png?v=1749227707
   Price: $25.00 USD
 - [The Church Crew Fleece](https://store.bethelmusic.com/products/the-church-crew-fleece): THE CHURCH CREW FLEECE 9.5 oz., 80% ring spun usa cotton, 20% polyester Preshrunk, soft-washed, garment-dyed fabric Made with 80% sustainably and fairly grown usa cotton and sewn with usa cotton thread Set-in sleeves Sideseamed body Forward rolled shoulder 1x1 rib on collar, cuffs and relaxed waistband Double-needle stitched CARE INSTRUCTIONS To avoid bleeding issues, garment-dyed styles should always be washed separately (from other clothing) before wearing. Only wash with the same colored garments Some of the pigment dyes may stain light-or white-colored garments in the wash cycle Wash in cold water Our garments are pre-shrunk during the garment dye and wash processes for almost no shrinkage at home PRODUCT MEASUREMENTS Sizing tolerance +/- 1 inch S M L XL 2XL Body Length 27.5 28.5 29.5 30.5 31.5 Chest Width 22 23.5 25 26.5 28 Sleeve Length 23 23.5 24 24.5 25
-  Updated: 2026-10-05T13:06:25Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -217,10 +217,10 @@
     Availability: Available
     Price: $50.00 USD
   - [2XL](https://store.bethelmusic.com/products/the-church-crew-fleece?variant=45132053184701)
-    Availability: Available
+    Availability: Not Available
     Price: $50.00 USD
 - [We Must Respond Camo Long Sleeve](https://store.bethelmusic.com/products/we-must-respond-camo-l-s-tee): WE MUST RESPOND CAMO LONG SLEEVE Classic long-sleeve t-shirt is made with super soft thermal waffle fabric and features an all-over camo pattern. Crew neckline, long sleeves. Imported. Body:60% Cotton, 40% Polyester CARE INSTRUCTIONS Machine wash cold, with like colors Only non-chlorine bleach Tumble dry low Low iron if needed Do not dry clean
-  Updated: 2026-10-28T22:31:26Z
+  Updated: 2026-11-06T17:58:17Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -244,7 +244,7 @@
     Availability: Available
     Price: $45.00 USD
 - [No One Like The Lord Hoodie](https://store.bethelmusic.com/products/no-one-like-the-lord): 'No One Like The Lord' Hoodie Mid weight 9.4-ounce, 80% cotton / 20% recycled polyester CVC fleece Pre shrunk to minimize shrinkage Pulloverhood Drop shoulder Kangaroo pocket Self-fabric lined hood No drawcord Garment dyed Sleeve cuff ribbing CARE INSTRUCTIONS Maximum wash with like colours Do not bleach Do not tumble dry Do not dry clean Do not iron Line dry in shade
-  Updated: 2026-10-29T00:59:52Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -265,7 +265,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [The Lord's Been Good To Me Tee](https://store.bethelmusic.com/products/the-lord-s-been-good-to-me-tee): 'The Lord's Been Good To Me' Bone Tee Fit - Regular, slight boxy Fabric - Mid weight, 5.9 oz, 20-singles, 100% carded cotton Featuring - Neck ribbing, side seamed, shoulder to shoulder tape, double needle hems, preshrunk to minimize shrinkage CARE INSTRUCTIONS Machine wash cold with like colors. Do not bleach. Do not tumble dry. Do not dry clean. Do not iron over print. Line dry in shade. PRODUCT MEASUREMENTS Sizing tolerance +/- 1 inch S M L XL 2XL Body Length 28 1/2 29 1/4 30 1/2 31 3/4 32 3/4 Chest Width 18 20 22 24 26
-  Updated: 2026-10-27T03:23:46Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -286,7 +286,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - ['Evidence' Black Tee](https://store.bethelmusic.com/products/evidence-tee): 'Evidence' Black Tee 6.1-ounce, 100% US ring spun cotton Soft-washed, garment-dyed fabric Top-stitched, classic width rib collar Twill-taped neck and shoulders Twill label Double-needle armhole, sleeve and bottom hems CARE INSTRUCTIONS Maximum washing temperature 30 c, inside out, with like colors. Only oxygen/non-chlorine bleach allowed. Tumble dry at low temperature max 60 c. Do not iron. Do not dry clean. Hang dry to maximize garment lifespan PRODUCT MEASUREMENTS Sizing tolerance +/- 1 inch S M L XL 2XL 3XL Body Length 26 5/8 28 29 3/8 30 3/4 31 5/8 32 1/2 Chest Width 18 1/4 20 1/4 22 24 26 27 3/4 Sleeve Length 16 1/4 17 3/4 19 20 1/2 21 3/4 23 1/4
-  Updated: 2026-10-09T20:59:05Z
+  Updated: 2026-11-05T16:37:51Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -307,7 +307,7 @@
     Availability: Available
     Price: $30.00 USD
 - [No One Like The Lord Crown Tee](https://store.bethelmusic.com/products/no-one-like-the-lord-tee): No One Like The Lord Crown Tee Introducing the "No One Like The Lord" Crown Tee, a specially designed piece that accompanies the powerful single, "No One Like The Lord (Live)" by Jenn Johnson. This song, known for its awe-inspiring worship and declaration of God's greatness. Features: Premium Quality Fabric: Made from a soft, breathable cotton blend, ensuring all-day comfort and durability. Inspirational Design: The tee features a striking design that echoes the song's message, placing Jesus in His rightful place––the Lord of all. Unisex Fit: Available in various sizes to suit everyone, making it the perfect addition to any wardrobe. Limited Edition: This tee is part of a limited release This t-shirt is more than just apparel; it's a declaration of worship and a reminder of the unmatched power and majesty of God. Celebrate a powerful song but also become part of a community that acknowledges Jesus as the only one worthy and deserving of our praise.
-  Updated: 2026-10-18T23:14:17Z
+  Updated: 2026-11-06T21:12:55Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -328,28 +328,28 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Holy Ghost Tunes Trucker Hat](https://store.bethelmusic.com/products/holy-ghost-tunes-trucker-hat): Holy Ghost Tunes Trucker Hat 100% Polyester Front 100% Polyester Mesh Back Seamless Foam Front Panel Lining Matching Color Braid 8 Rows Stitching on Visor Matching Fabric Undervisor Matching Color Sweatband Plastic Adjustable Snap OSFM -  (6 1/2 - 7 5/8)
-  Updated: 2026-10-27T03:23:41Z
+  Updated: 2026-11-05T16:37:50Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/SHT10X3527_2.png?v=1749227829
   Price: $10.00 USD
 - [Made for More - Vinyl](https://store.bethelmusic.com/products/made-for-more-vinyl): ‘Made For More’ is the second live worship album from Bethel Music songwriter and artist Josh Baldwin, following his 2022 release, ‘Where the Glory Is’. Each of the 8 songs on ‘Made For More’ centers around one central theme––the unifying sound of corporate worship for the local church. Throughout each track, Baldwin leads listeners back to the true intention and purpose of worship music. With inspiration from Isaiah 43:1, which says, “Fear not, for I have redeemed you; I have called you by name, you are mine,” each song on 'Made For More' was written to inspire, encourage, and point hearts back to their Creator. Throughout the album, listeners will hear powerful songs that remind them of their purpose as a child of God (“Made For More”) and melodies born out of a personal encounter with Jesus through a battle with anxiety (“Prince Of Peace”). The album also includes songs that act as a beautiful offering of worship and center around the holiness of God (“Crowns Down”). Each track is both relatable and uplifting, with captivating melodies designed for both corporate worship and intimate times of reflection before God. 'Made For More' will encourage its listeners to point their eyes and hearts to the God who is worthy of praise and leave them in awe and wonder of the person and power of Jesus. This vinyl features a Made For More Poster Insert featuring photos from the Live Album recording.
-  Updated: 2026-10-26T20:24:07Z
+  Updated: 2026-11-05T16:37:50Z
   Vendor: Bethel Music Shop
   Product Type: Media
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/S0O90O3525.jpg?v=1749227846
   Price: $30.00 USD
 - [Made for More Trucker](https://store.bethelmusic.com/products/made-for-more-trucker): High Crown Foam Front Trucker Style Hat. 100% Polyester Front 100% Polyester Mesh Back The Traditional Look 5-panel cap Seamless Foam Front Panel with Lining Matching Color Braid 8 Rows Stitching on Visor Matching Fabric Undervisor Matching Color Sweatband Plastic Adjustable Snap OSFM Fabric: 55% Foam, 45% Nylon Closure: Plastic Snapback Fit: One Size Fits Most Panels: 5 Crown: Mid; Structured Visor: Curved Imported
-  Updated: 2026-10-05T13:06:30Z
+  Updated: 2026-11-05T16:37:50Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/SHT94A3524.png?v=1749582534
   Price: $20.00 USD
 - [Goodness of God Sweatpant - Black](https://store.bethelmusic.com/products/goodness-of-god-sweatpant-black): Product Details - Super soft 100% ring spun cotton - Machine wash cold with like colors, tumble dry low - Made in the U.S.A. - Relax fit with an adjustable waist
-  Updated: 2026-10-29T00:59:46Z
+  Updated: 2026-11-05T16:37:49Z
   Vendor: Bethel Music Store
   Product Type: Bottoms
   Availability: Available
@@ -370,7 +370,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Goodness of God Sweatpant Green](https://store.bethelmusic.com/products/goodness-of-god-sweatpant): Product Details - Super soft 100% ring spun cotton - Machine wash cold with like colors, tumble dry low - Made in the U.S.A. - Relax fit with an adjustable waist
-  Updated: 2026-10-05T13:06:32Z
+  Updated: 2026-11-05T16:37:49Z
   Vendor: Bethel Music Store
   Product Type: Bottoms
   Availability: Available
@@ -391,7 +391,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Goodness Of God Hoodie - Black](https://store.bethelmusic.com/products/goodness-of-god-hoodie-black): Product Details - Content 80% ring spun cotton 20% polyester - Machine wash cold with like colors, tumble dry low - Relaxed fit with plenty of room to layer
-  Updated: 2026-10-05T13:06:33Z
+  Updated: 2026-11-05T16:37:49Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -412,7 +412,7 @@
     Availability: Available
     Price: $50.00 USD
 - [God Is Good Hoodie - Black](https://store.bethelmusic.com/products/god-is-good-black-hooded-fleece): "God is Good Hoodie," Made with a premium blend of 80% ring-spun cotton and 20% polyester, it combines softness and durability. The hoodie's relaxed fit allows for easy layering and a comfortable feel. Care is simple: machine wash cold with similar colors and tumble dry low.
-  Updated: 2026-10-09T15:46:26Z
+  Updated: 2026-11-05T16:37:49Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -436,7 +436,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Holy Ghost Tunes Shorts](https://store.bethelmusic.com/products/holy-ghost-tunes-shorts): HOLY GHOST TUNES SHORTS PRODUCT DETAILS Sold individually. 220gsm single-layer mesh. Unisex fit. 5.5-inch inseams. Pairs well with Solid Basics T-Shirt Two front deep pockets. Stay true to size for above-the-knee fit. 100% polyester
-  Updated: 2026-10-05T13:06:34Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: Bottoms
   Availability: Available
@@ -457,21 +457,21 @@
     Availability: Available
     Price: $35.00 USD
 - [All Things Lovely Book](https://store.bethelmusic.com/products/all-things-lovely-book): Take the first steps to living as a healthier and happier woman and discover the spiritual importance of acceptance, gathering, and community. Jenn Johnson has come to realize that the pursuit of perfection is unrealistic and unfair. Instead, we need to pause and reflect on what's in front of us. But how? How can we slow down? How can we remain focused on what's important and do things with intention? What can we pursue that represents God's heart for us, things that are true, noble, right, pure, admirable, excellent, praiseworthy? By pursuing all things "lovely." Living a holistic and holy life, a life marked by beauty and truth, means being mindful and intentional about what we put in our bodies, how we present ourselves to the world, the spaces we create, and the people we let into our lives. When we set our minds on what is lovely, we begin to see ourselves and the world as God intended. We begin to be wholly renewed. Details - 240 Pages - Language_English - Cover_Hard back
-  Updated: 2026-10-05T13:06:36Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: Media
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Merch_Images_Lovely.jpg?v=1749578319
   Price: $15.00 USD
 - [We Must Respond Camo Hat](https://store.bethelmusic.com/products/we-must-respond-camo-hat): WE MUST RESPOND Camo Hat with red embroidery on front and back Product Details - Spot clean - One size fits all - All  items final 
-  Updated: 2026-10-05T13:06:36Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/WMRCamoHat.jpg?v=1749580343
   Price: $35.00 USD
 - [My Heart Belongs to You Tee](https://store.bethelmusic.com/products/my-heart-belongs-to-you-tee): MY HEART BELONGS TO YOU Lyrics from Center printed on the front Premium tee in cream 100% cotton Unisex, boxy fit CARE INSTRUCTIONS Machine wash cold, with like colors Only non-chlorine bleach Tumble dry low Low iron on reverse side if needed Do not dry clean
-  Updated: 2026-10-20T20:00:07Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -492,14 +492,14 @@
     Availability: Available
     Price: $40.00 USD
 - [One on the Throne Hat](https://store.bethelmusic.com/products/we-must-respond-trucker-hat): THERE IS ONE ON THE THRONE We Must Respond graphic on the front Red/white foam trucker hat
-  Updated: 2026-10-05T13:06:39Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/OntheThroneHat.png?v=1752160123
   Price: $30.00 USD
 - [No Fear in Death Tee | Bethel Music Official Store](https://store.bethelmusic.com/products/no-fear-in-death-tee): NO FEAR IN DEATH Bethel Music smiley face screen print on the front chest No fear in death graphic on the back Premium tee in washed black 100% cotton Unisex, boxy fit CARE INSTRUCTIONS Machine wash cold, with like colors Only non-chlorine bleach Tumble dry low Low iron on reverse side if needed Do not dry clean
-  Updated: 2026-10-21T18:53:38Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -523,7 +523,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [No One Like The Lord Hoodie (Grey)](https://store.bethelmusic.com/products/no-one-like-the-lord-hoodie-grey): 'No One Like The Lord' Hoodie Mid weight 9.4-ounce, 80% cotton / 20% recycled polyester CVC fleece Pre shrunk to minimize shrinkage Pulloverhood Drop shoulder Kangaroo pocket Self-fabric lined hood No drawcord Garment dyed Sleeve cuff ribbing CARE INSTRUCTIONS Maximum wash with like colours Do not bleach Do not tumble dry Do not dry clean Do not iron Line dry in shade
-  Updated: 2026-10-19T02:55:05Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -544,21 +544,21 @@
     Availability: Not Available
     Price: $65.00 USD
 - [We Must Respond CD](https://store.bethelmusic.com/products/we-must-respond-cd): Tracklist The Lamb (Alleluia) [Live] by Bethel Music & John Wilds No One Like The Lord (Live) by Bethel Music & Jenn Johnson The Church (Live) by Bethel Music & Jenn Johnson Holy Song (Live) by Bethel Music & Brooke Ligertwood He Has Done Great Things (Live) by Bethel Music & Brian Johnson (Bethel) If The Lord (Live) by Bethel Music & Zahriya Zachary Even Though I Walk (Live) by Bethel Music & Hannah McClure Center (Live) by Bethel Music & Abbie Gamboa My Hallelujah (Live) by Bethel Music, Aodhán King & Hannah McClure Another Like You (Live) by Bethel Music & David Funk The Christ And Cornerstone (Live) by Bethel Music & Josh Baldwin He's The One (Live) by Bethel Music & Emmy Rose Praise Chorus (Live) by Bethel Music, Kristene DiMarco & Brian Johnson (Bethel) Made For More (Live) by Bethel Music, Jenn Johnson & Josh Baldwin Oh What Love (Live) by Bethel Music & Paul McClure Sing Of This (Live) by Bethel Music & Bethany Wohrle One (Live) by Bethel Music & Brian Johnson (Bethel) Jesus Have It All (Live) by Bethel Music & Edward Rivera
-  Updated: 2026-10-28T18:33:46Z
+  Updated: 2026-11-05T16:37:48Z
   Vendor: Bethel Music Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/CD.png?v=1755032799
   Price: $13.99 USD
 - [We Must Respond Tote Bag](https://store.bethelmusic.com/products/we-must-respond-tote-bag): 18"W x 16"H x 4 1/2"D Made with 50% recycled material 28" color-matched handles Zippered closure Reinforced webbing at top
-  Updated: 2026-10-05T13:06:43Z
+  Updated: 2026-11-05T16:37:47Z
   Vendor: Bethel Music Store
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/BethelTote_2.png?v=1754429838
   Price: $30.00 USD
 - [Jesus Have It All Tee - Washed Maroon](https://store.bethelmusic.com/products/jesus-have-it-all-tee-maroon): Jesus Have It All tee in washed maroon has a boxy vintage style feel. This premium tee is pigment-dyed, which creates a unique look. Heavyweight fabric with an oversized fit. Product Details + 100% ring spun cotton + Machine wash cold with like colors, tumble dry low + Unisex fit + Pre-laundered
-  Updated: 2026-10-05T13:06:44Z
+  Updated: 2026-11-05T16:37:47Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -581,44 +581,8 @@
   - [2XL](https://store.bethelmusic.com/products/jesus-have-it-all-tee-maroon?variant=46241778991293)
     Availability: Not Available
     Price: $40.00 USD
-- [Stickers](https://store.bethelmusic.com/products/stickers)
-  Updated: 2026-10-27T19:29:21Z
-  Vendor: Bethel Music Store
-  Product Type: Sticker
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Stickers_1.png?v=1768493189
-  - [WMR Rectangle](https://store.bethelmusic.com/products/stickers?variant=46312133001405)
-    Availability: Available
-    Price: $5.00 USD
-  - [Crown](https://store.bethelmusic.com/products/stickers?variant=46312133034173)
-    Availability: Available
-    Price: $5.00 USD
-  - [Churches](https://store.bethelmusic.com/products/stickers?variant=46312133066941)
-    Availability: Available
-    Price: $5.00 USD
-  - [Bethel WMR](https://store.bethelmusic.com/products/stickers?variant=46312133099709)
-    Availability: Available
-    Price: $5.00 USD
-  - ["Simple"](https://store.bethelmusic.com/products/stickers?variant=46312133492925)
-    Availability: Not Available
-    Price: $5.00 USD
-  - [Globe](https://store.bethelmusic.com/products/stickers?variant=46312133132477)
-    Availability: Available
-    Price: $5.00 USD
-  - [We Must Respond](https://store.bethelmusic.com/products/stickers?variant=46312133165245)
-    Availability: Available
-    Price: $5.00 USD
-  - [Cross](https://store.bethelmusic.com/products/stickers?variant=46312133198013)
-    Availability: Available
-    Price: $5.00 USD
-  - [No One Like The Lord](https://store.bethelmusic.com/products/stickers?variant=46312133230781)
-    Availability: Not Available
-    Price: $5.00 USD
-  - [WMR Runner](https://store.bethelmusic.com/products/stickers?variant=46322422546621)
-    Availability: Available
-    Price: $5.00 USD
 - [Joy Joy Joy Joy Tee  | Bethel Music Official Store](https://store.bethelmusic.com/products/joy-joy-joy-joy-tee): 'happy' script screen printed on the front chest Song lyrics printed on the back Premium custom made tee in washed blue 100% long-staple cotton Timeless, boxy fit Breathable and durable Unisex
-  Updated: 2026-10-28T00:17:25Z
+  Updated: 2026-11-05T16:37:47Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -639,7 +603,7 @@
     Availability: Available
     Price: $30.00 USD
 - [HAPPY Hoodie](https://store.bethelmusic.com/products/happy-hoodie): Custom pink hoodie 'HAPPY' printed on the front chest
-  Updated: 2026-10-05T13:06:47Z
+  Updated: 2026-11-05T16:37:47Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -660,21 +624,21 @@
     Availability: Available
     Price: $60.00 USD
 - [Love Tote](https://store.bethelmusic.com/products/love-tote): Jumbo canvas tote 'i <3 happy' printed on the front 100% Long-Staple Cotton Antique loom–woven straps Double-layer structure with inner pocket
-  Updated: 2026-10-05T13:06:48Z
+  Updated: 2026-11-05T16:37:46Z
   Vendor: Bethel Music Store
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Happy-Tote_f1341a24-a780-4e0c-8979-cd3a9c1d361d.png?v=1772035818
   Price: $40.00 USD
 - [HAPPY CD](https://store.bethelmusic.com/products/happy-cd): HAPPY marks the debut album from Bethel Music artist, songwriter, and worship leader Jenn Johnson. This 12-track collection blends authentic worship, country warmth, and pop influences into a sound that feels both deeply personal and widely accessible. Featuring guest appearances from Abbie Gamboa, Tiffany Hudson, Brooke Ligertwood, and more, the album reflects our deep need for God, our longing to know Him more deeply, and the joy found in walking with Him each day.Blending songs that are both intimate and worshipful, HAPPY offers a soundtrack for both Sunday mornings and everyday life — a reminder that true happiness is found in his presence. Tracklist Walk With Me by Jenn Johnson & Tiffany Hudson Great I Am by Jenn Johnson I've Gotta Know by Jenn Johnson & Gable Price Thank You Lord by Jenn Johnson & Brooke Ligertwood Father We Thank Tee by Jenn Johnson Mourning To Dancing by Jenn Johnson, Manuchie, The Unveiled, & Silas Magalhães Happy by Jenn Johnson & Abbie Gamboa Here In Your Arms by Jenn Johnson & Brian Johnson Love Of Christ by Jenn Johnson and Kari Jobe Mad At God by Jenn Johnson Great Is Thy Faithfulness by Jenn Johnson and Leonard Ray Jarman I've Got The Joy by Jenn Johnson and Malachi Johnson
-  Updated: 2026-10-05T13:06:49Z
+  Updated: 2026-11-02T03:35:58Z
   Vendor: Bethel Music Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Happy-CD_3ad72c36-a233-4893-b766-5699dcf4b6f0.png?v=1779463468
   Price: $11.99 USD
 - [HAPPY Vinyl](https://store.bethelmusic.com/products/happy-vinyl): HAPPY marks the debut album from Bethel Music artist, songwriter, and worship leader Jenn Johnson. This 12-track collection blends authentic worship, country warmth, and pop influences into a sound that feels both deeply personal and widely accessible. Featuring guest appearances from Abbie Gamboa, Tiffany Hudson, Brooke Ligertwood, and more, the album reflects our deep need for God, our longing to know Him more deeply, and the joy found in walking with Him each day.Blending songs that are both intimate and worshipful, HAPPY offers a soundtrack for both Sunday mornings and everyday life — a reminder that true happiness is found in his presence. Standard gatefold jacket with a printed insert and pink vinyl. Tracklist Walk With Me by Jenn Johnson & Tiffany Hudson Great I Am by Jenn Johnson I've Gotta Know by Jenn Johnson & Gable Price Thank You Lord by Jenn Johnson & Brooke Ligertwood Father We Thank Tee by Jenn Johnson Mourning To Dancing by Jenn Johnson, Manuchie, The Unveiled, & Silas Magalhães Happy by Jenn Johnson & Abbie Gamboa Here In Your Arms by Jenn Johnson & Brian Johnson Love Of Christ by Jenn Johnson and Kari Jobe Mad At God by Jenn Johnson Great Is Thy Faithfulness by Jenn Johnson and Leonard Ray Jarman I've Got The Joy by Jenn Johnson and Malachi Johnson
-  Updated: 2026-10-08T00:32:54Z
+  Updated: 2026-11-05T16:37:46Z
   Vendor: Bethel Music Store
   Product Type: Vinyl
   Availability: Available
@@ -688,7 +652,7 @@
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Happy-Digital-Download.png?v=1773693727
   Price: $7.99 USD
 - [Most High Tee  | Bethel Music Official Store](https://store.bethelmusic.com/products/most-high-tee): Most High graphic screen printed in pink 100% cotton tee in Espresso Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-05T13:06:51Z
+  Updated: 2026-11-05T16:37:46Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -709,7 +673,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Ask Me About Jesus Tee](https://store.bethelmusic.com/products/ask-me-about-jesus-tee): Graphic screen printed in blue on the front and back 100% cotton tee in White Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-26T03:00:21Z
+  Updated: 2026-11-05T16:37:46Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -730,7 +694,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Navy Hallelujah Tee](https://store.bethelmusic.com/products/the-blood-tee): Graphic screen printed on the front and back 100% cotton tee in Navy Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-20T15:06:04Z
+  Updated: 2026-11-06T21:16:25Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -742,7 +706,7 @@
     Availability: Available
     Price: $35.00 USD
   - [L](https://store.bethelmusic.com/products/the-blood-tee?variant=46666582524093)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [XL](https://store.bethelmusic.com/products/the-blood-tee?variant=46666582556861)
     Availability: Available
@@ -751,7 +715,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Jesus Loves The World Tee](https://store.bethelmusic.com/products/jesus-loves-the-world-tee): Graphic screen printed on the front and back 100% cotton tee in Pepper Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-05T13:06:53Z
+  Updated: 2026-11-06T17:59:06Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -772,28 +736,28 @@
     Availability: Available
     Price: $35.00 USD
 - [Goodness of God Hat](https://store.bethelmusic.com/products/goodness-of-god-hat-1): GOODNESS OF GOD Product Details Front embroidery Spot clean One size fits all
-  Updated: 2026-10-19T18:42:37Z
+  Updated: 2026-11-05T16:37:45Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Bethel_0002_Goodness-of-God-Hat.png?v=1776178746
   Price: $30.00 USD
 - [Search for the Truth Tote](https://store.bethelmusic.com/products/search-for-the-truth-tote): SEARCH FOR THE TRUTH screen print on the front and back 100% cotton canvas 14 1/2"W x 12 1/2"H x 4"D
-  Updated: 2026-10-14T02:50:08Z
+  Updated: 2026-11-05T16:37:46Z
   Vendor: Bethel Music Store
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Bethel_0000_Search-For-the-Truth-Tote.png?v=1776184505
   Price: $30.00 USD
 - [Camo Star Hat](https://store.bethelmusic.com/products/camo-star-hat): Product Details Front embroidery Spot clean One size fits all
-  Updated: 2026-10-29T00:19:12Z
+  Updated: 2026-11-05T16:37:45Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/STARHAT.png?v=1776970200
   Price: $30.00 USD
 - [Center Hoodie](https://store.bethelmusic.com/products/center-hoodie): 'Center' Hoodie Mid weight 9.4-ounce, 80% cotton / 20% recycled polyester CVC fleece Pre shrunk to minimize shrinkage CARE INSTRUCTIONS Maximum wash with like colours Do not bleach Do not tumble dry Do not dry clean Do not iron Line dry in shade
-  Updated: 2026-10-25T23:51:06Z
+  Updated: 2026-11-06T18:06:02Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -808,20 +772,20 @@
     Availability: Available
     Price: $65.00 USD
   - [XL](https://store.bethelmusic.com/products/center-hoodie?variant=46727766540477)
-    Availability: Not Available
+    Availability: Available
     Price: $65.00 USD
   - [2XL](https://store.bethelmusic.com/products/center-hoodie?variant=46727766573245)
     Availability: Available
     Price: $65.00 USD
 - [Happy Hat](https://store.bethelmusic.com/products/happy-hat): HAPPY HAT Kelly green hat with blue embroidery Spot clean One size fits all
-  Updated: 2026-10-05T13:06:58Z
+  Updated: 2026-11-05T16:37:45Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Bethel_0006_Happy-Hat.png?v=1777647731
   Price: $30.00 USD
 - [HAPPY Hoodie - Blue](https://store.bethelmusic.com/products/happy-hoodie-blue): Custom blue hoodie 'HAPPY' printed on the front chest
-  Updated: 2026-10-05T13:06:59Z
+  Updated: 2026-11-05T16:37:45Z
   Vendor: Bethel Music Store
   Product Type: Outerwear
   Availability: Available
@@ -842,7 +806,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Happy Tee  | Bethel Music Official Store](https://store.bethelmusic.com/products/happy-tee): 'happy' script screen printed on the front chest Song lyrics printed on the back Premium custom made tee in washed blue 100% long-staple cotton Timeless, boxy fit Breathable and durable Unisex
-  Updated: 2026-10-05T13:07:00Z
+  Updated: 2026-11-05T16:37:44Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -863,14 +827,14 @@
     Availability: Available
     Price: $30.00 USD
 - [Ask Me About Jesus Hat](https://store.bethelmusic.com/products/ask-me-about-jesus-hat): Product Details Front screen print Lightweight, quick-dry 100% recycled nylon Spot clean only One size fits all
-  Updated: 2026-10-09T22:45:07Z
+  Updated: 2026-11-05T16:37:44Z
   Vendor: Bethel Music Store
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/Mockups_0000_Ask-Me-About-Jesus-Hat.png?v=1782148329
   Price: $30.00 USD
 - [Highest Greatest Tee](https://store.bethelmusic.com/products/highest-greatest-tee): Graphic screen printed in blue on the front and back 100% cotton tee in White Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-09T14:03:16Z
+  Updated: 2026-11-05T16:37:44Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -891,7 +855,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Bethel Music Mesh Jersey](https://store.bethelmusic.com/products/jesus-is-01-mesh-jersey): Graphic screen printed in blue on the front and back 100% cotton tee in White Breathable and durable Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 26 3/5 18 1/4 M 28 20 1/4 L 29 2/5 22 XL 30 3/4 24 2XL 31 3/5 26
-  Updated: 2026-10-09T14:03:32Z
+  Updated: 2026-11-05T16:37:44Z
   Vendor: Bethel Music Store
   Product Type: T-Shirts
   Availability: Available
@@ -912,7 +876,7 @@
     Availability: Available
     Price: $38.00 USD
 - [Living Towards Eternity Hoodie](https://store.bethelmusic.com/products/living-towards-eternity-hoodie): Screen print on front and back Luxury heavyweight zip hoodie Oversized, relaxed fit 600gsm heavyweight terry 100% long-staple cotton
-  Updated: 2026-10-28T00:17:25Z
+  Updated: 2026-11-05T16:37:43Z
   Vendor: Bethel Music Store
   Product Type: Hoodie
   Availability: Available
@@ -933,7 +897,7 @@
     Availability: Available
     Price: $70.00 USD
 - [Ask Me About Jesus Hoodie](https://store.bethelmusic.com/products/ask-me-about-jesus-hoodie): Screen print on front over zipper and back Luxury heavyweight zip hoodie Oversized, relaxed fit 600gsm heavyweight terry 100% long-staple cotton
-  Updated: 2026-10-29T22:56:56Z
+  Updated: 2026-11-05T16:37:44Z
   Vendor: Bethel Music Store
   Product Type: Hoodie
   Availability: Available
@@ -954,14 +918,14 @@
     Availability: Available
     Price: $70.00 USD
 - [Worth Everything CD](https://store.bethelmusic.com/products/worth-everything-cd): Track List Spirit Of The Living God Whole Heart The Stone Is Rolled Worth Everything All My Life Sovereign Strong Worthy Of Praise Look What The Lord Has Done Great Is The Lord feat. (Kristian Stanfill) How Many Hallelujahs
-  Updated: 2026-10-16T22:05:46Z
+  Updated: 2026-11-05T16:37:43Z
   Vendor: Bethel Music Store
   Product Type: CD
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0705/0097/4781/files/JBaldwinCD.png?v=1791309898
   Price: $9.99 USD
 - [Worth Everything Vinyl](https://store.bethelmusic.com/products/worth-everything-vinyl): Track List Spirit Of The Living God Whole Heart The Stone Is Rolled Worth Everything All My Life Sovereign Strong Worthy Of Praise Look What The Lord Has Done Great Is The Lord feat. (Kristian Stanfill) How Many Hallelujahs
-  Updated: 2026-10-26T20:24:06Z
+  Updated: 2026-11-05T16:37:43Z
   Vendor: Bethel Music Store
   Product Type: Vinyl
   Availability: Available
@@ -971,58 +935,58 @@
 ## Collections
 
 - [Apparel](https://store.bethelmusic.com/collections/apparel)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T12:18:15Z
   Total Products: 52
 - [Accessories](https://store.bethelmusic.com/collections/accessories)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T16:22:06Z
   Total Products: 24
 - [Music](https://store.bethelmusic.com/collections/music)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 28
 - [Tour](https://store.bethelmusic.com/collections/tour)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-04T12:14:03Z
   Total Products: 32
 - [We Must Respond](https://store.bethelmusic.com/collections/we-must-respond): Bethel Music’s new album, We Must Respond, is a Live worship album recorded at the Cascade Theatre in Redding, California. This new project features 18 tracks led by the collective, and guest artists including Brooke Ligertwood, Abbie Gamboa, and Aodhán King. “We must respond” is a call to action from Bill Johnson out of a season of waiting on the Lord. Psalms 46:10 “Be still, and know that I am God,” invites believers into a holy exchange between the Spirit of God and the hearts of those who seek Him and long to know Him. There in that place of deep surrender is where genuine, true worship takes place.
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-04T12:14:03Z
   Total Products: 18
 - [New Arrivals](https://store.bethelmusic.com/collections/new-arrivals)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T12:18:15Z
   Total Products: 26
 - [All](https://store.bethelmusic.com/collections/all)
-  Updated: 2026-10-29T11:13:58Z
-  Total Products: 66
+  Updated: 2026-11-06T12:13:26Z
+  Total Products: 67
 - [Goodness of God](https://store.bethelmusic.com/collections/goodness-of-god)
   Updated: 2026-10-29T11:13:58Z
   Total Products: 13
 - [Accessories](https://store.bethelmusic.com/collections/accessories-1)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T16:22:06Z
   Total Products: 24
 - [Hats](https://store.bethelmusic.com/collections/hats)
   Updated: 2026-10-27T11:18:36Z
   Total Products: 9
 - [Regular Price](https://store.bethelmusic.com/collections/regular-price)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 94
 - [Outerwear](https://store.bethelmusic.com/collections/outerwear)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T12:18:15Z
   Total Products: 36
 - [EG All Products - DO NOT EDIT](https://store.bethelmusic.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 255
 - [Happy](https://store.bethelmusic.com/collections/happy)
-  Updated: 2026-10-28T11:15:42Z
+  Updated: 2026-11-02T12:15:08Z
   Total Products: 12
 - [Memorial Day ](https://store.bethelmusic.com/collections/memorial-day-)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 254
 - [Physical Product](https://store.bethelmusic.com/collections/physical-product)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 255
 - [Worth Everything](https://store.bethelmusic.com/collections/worth-everything)
-  Updated: 2026-10-27T11:18:36Z
+  Updated: 2026-11-06T12:13:26Z
   Total Products: 2
 - [Stocking Stuffers](https://store.bethelmusic.com/collections/stocking-stuffers)
-  Updated: 2026-10-29T11:13:58Z
+  Updated: 2026-11-05T16:22:06Z
   Total Products: 135
 
 ## Store Pages
