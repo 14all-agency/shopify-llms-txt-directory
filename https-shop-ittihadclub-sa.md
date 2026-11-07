@@ -8,19 +8,19 @@
 - Contact Email: Shop@ittihadclub.sa
 - Contact Phone: +966126728888
 - Address: Jeddah Park Mall Store
-- Updated At: 2026-10-31T00:57:06.402Z
+- Updated At: 2026-11-07T02:32:06.167Z
 
 ## Products
 
 - [أسورة سيليكون مضيئة من الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/silicone-bracelet-with-light): إسورة سيليكون مضيئة الاتحاد الرسمية — إكسسوار فريد يضيء بألوان النادي.
-  Updated: 2026-10-30T18:36:05Z
+  Updated: 2026-11-06T17:57:15Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: أساور
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Ittihad_mar_20_20253873.jpg?v=1745850201
   Price: ‏5.00 ر.س.‏ SAR
 - [أسورة معصم الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/silicone-bracelet): أسورة معصم الاتحاد الرسمية — إكسسوار فاخر لكل محب للاتحاد. هدية مثالية.
-  Updated: 2026-10-30T21:48:10Z
+  Updated: 2026-11-06T17:57:15Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: أساور
   Availability: Available
@@ -54,7 +54,7 @@
     Availability: Not Available
     Price: ‏68.75 ر.س.‏ SAR
 - [جاكيت السفر الاتحاد 24/25 للجنسين | المتجر الرسمي](https://shop.ittihadclub.sa/products/training-jacket): جاكيت سفر نادي الاتحاد 24/25 — نايك أصلي 100%. منتج رسمي من المتجر الرسمي لنادي الاتحاد.
-  Updated: 2026-10-30T19:42:41Z
+  Updated: 2026-11-05T14:40:56Z
   Vendor: Nike
   Product Type: جاكيتات
   Availability: Available
@@ -79,19 +79,12 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/1_936b35fd-b69b-4979-b920-a59155f69c75.jpg?v=1748782343
   Price: ‏75.00 ر.س.‏ SAR
 - [علم نادي الاتحاد بطل السعودية | المتجر الرسمي](https://shop.ittihadclub.sa/products/علم-نادي-الاتحاد-بطل-السعودية): علم نادي الاتحاد تذكاري لبطولة السعودية — ادعم النمور بفخر. منتج رسمي 100% من المتجر الرسمي.
-  Updated: 2026-10-26T20:03:21Z
+  Updated: 2026-11-03T02:51:03Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: أعلام
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/flag.jpg?v=1748785662
   Price: ‏50.00 ر.س.‏ SAR
-- [شنطة يد الاتحاد بطل السعودية | المتجر الرسمي](https://shop.ittihadclub.sa/products/شنطة-يد-نادي-الاتحاد-بطل-السعودية): شنطة يد تذكارية لبطولة السعودية من نادي الاتحاد — هدية مثالية لكل مشجع نمر. منتج رسمي 100%.
-  Updated: 2026-10-23T12:01:26Z
-  Vendor: Al Ittihad Club
-  Product Type: حقائب قماشية
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/1_50871f62-bf68-443d-916a-a37f133a20ab.jpg?v=1748786125
-  Price: ‏19.50 ر.س.‏ SAR
 - [تيشيرت أبطال الدوري 25 أبيض | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-أبطال-الدوري-25-ابيض-نادي-الاتحاد): تيشيرت أبطال الدوري السعودي 25 باللون الأبيض — تذكار بطولة حصرية. منتج رسمي 100%.
   Updated: 2026-10-26T20:03:15Z
   Vendor: Al Ittihad Club
@@ -117,7 +110,7 @@
     Availability: Available
     Price: ‏39.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 25/26 رجالي فئة الملعب](https://shop.ittihadclub.sa/products/ittihad-mens-home-jersey-25-26-stadium): Shop the official Ittihad FC men's home jersey 25/26 Stadium Edition. Authentic Nike design. Fast shipping across Saudi Arabia & GCC.
-  Updated: 2026-10-31T00:04:36Z
+  Updated: 2026-11-05T14:31:56Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -144,7 +137,7 @@
     Availability: Not Available
     Price: ‏59.00 ر.س.‏ SAR
 - [تيشيرت الاتحاد الأساسي 25/26 ناشئين فئة الملعب](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الناشئين-أساسي-فئة-الملعب): تيشيرت نادي الاتحاد للناشئين الأساسي 25/26 فئة الملعب — نايك أصلي 100%. الطقم الرسمية لموسم 25/26.
-  Updated: 2026-10-30T19:10:36Z
+  Updated: 2026-11-04T05:42:56Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -165,7 +158,7 @@
     Availability: Available
     Price: ‏59.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 25/26 ناشئين فئة الجمهور](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الناشئين-أساسي-فئة-الجمهور): تيشيرت نادي الاتحاد للناشئين 25/26 فئة الجمهور — نايك أصلي 100%. منتج رسمي من المتجر الرسمي.
-  Updated: 2026-10-30T14:01:43Z
+  Updated: 2026-11-05T07:57:26Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -207,7 +200,7 @@
     Availability: Available
     Price: ‏59.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 25/26 رجالي فئة الجمهور](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-أساسي-فئة-الجمهور): تيشيرت نادي الاتحاد الرجالي الأساسي 25/26 فئة الجمهور — نايك أصلي 100%. الطقم الرسمية لموسم 25/26.
-  Updated: 2026-10-30T13:28:26Z
+  Updated: 2026-11-06T11:57:36Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -216,7 +209,7 @@
     Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
   - [Black/Yellow / S](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-أساسي-فئة-الجمهور?variant=45100403687607)
-    Availability: Available
+    Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
   - [Black/Yellow / M](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-أساسي-فئة-الجمهور?variant=45100403720375)
     Availability: Available
@@ -230,27 +223,6 @@
   - [Black/Yellow / 2XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-أساسي-فئة-الجمهور?variant=45100403818679)
     Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
-- [شورت الاتحاد الأساسي 25/26 أطفال فئة الملعب](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب): شورت نادي الاتحاد للأطفال 25/26 — نايك أصلي 100%. منتج رسمي من المتجر الرسمي.
-  Updated: 2026-10-30T16:00:42Z
-  Vendor: Nike
-  Product Type: قمصان
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/1s.jpg?v=1753611518
-  - [Black/Yellow / XS](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب?variant=45100403851447)
-    Availability: Available
-    Price: ‏44.75 ر.س.‏ SAR
-  - [Black/Yellow / S](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب?variant=45100403884215)
-    Availability: Not Available
-    Price: ‏44.75 ر.س.‏ SAR
-  - [Black/Yellow / M](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب?variant=45100424495287)
-    Availability: Not Available
-    Price: ‏44.75 ر.س.‏ SAR
-  - [Black/Yellow / L](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب?variant=45100424528055)
-    Availability: Available
-    Price: ‏44.75 ر.س.‏ SAR
-  - [Black/Yellow / XL](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أطفال-أساسي-فئة-الملعب?variant=45100424560823)
-    Availability: Available
-    Price: ‏44.75 ر.س.‏ SAR
 - [شورت الاتحاد الاحتياطي 25/26 رجالي فئة اللاعبين](https://shop.ittihadclub.sa/products/شورت-الاتحاد-رجالي-أساسي-فئة-اللاعبين): شورت نادي الاتحاد الرجالي 25/26 فئة اللاعبين — نايك أصلي 100%. منتج رسمي من المتجر الرسمي.
   Updated: 2026-10-30T16:00:43Z
   Vendor: Nike
@@ -276,7 +248,7 @@
     Availability: Available
     Price: ‏84.75 ر.س.‏ SAR
 - [تيشيرت تدريب الاتحاد 25/26 | المتجر الرسمي](https://shop.ittihadclub.sa/products/al-ittihad-fc-training-jersey): تيشيرت تدريب نادي الاتحاد 25/26 — نايك أصلي 100%. منتج رسمي من المتجر الرسمي لنادي الاتحاد.
-  Updated: 2026-10-30T23:46:56Z
+  Updated: 2026-11-01T14:56:46Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -300,7 +272,7 @@
     Availability: Not Available
     Price: ‏62.25 ر.س.‏ SAR
 - [جاكيت السفر الرياضي الاتحاد 25/26 | المتجر الرسمي](https://shop.ittihadclub.sa/products/al-ittihad-fc-track-jacket): جاكيت سفر نادي الاتحاد الرياضي 25/26 — نايك أصلي 100%. منتج رسمي من المتجر الرسمي.
-  Updated: 2026-10-30T19:42:45Z
+  Updated: 2026-11-04T18:52:42Z
   Vendor: Nike
   Product Type: ملابس تدريب
   Availability: Available
@@ -323,59 +295,35 @@
   - [اسود / 2XL](https://shop.ittihadclub.sa/products/al-ittihad-fc-track-jacket?variant=45108789215415)
     Availability: Not Available
     Price: ‏99.75 ر.س.‏ SAR
-- [شورت تدريب نادي الاتحاد 25/26 | متجر الاتحاد](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي): شورت تدريب نادي الاتحاد 25/26 — نايك أصلي 100%. منتج رسمي من المتجر الرسمي لنادي الاتحاد.
-  Updated: 2026-10-30T09:28:36Z
-  Vendor: Nike
-  Product Type: شورتات
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/3_0a6027e9-77b1-44dc-880b-eebf46109363.png?v=1753271014
-  - [اسود / S](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830306487)
-    Availability: Available
-    Price: ‏37.25 ر.س.‏ SAR
-  - [اسود / M](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830339255)
-    Availability: Not Available
-    Price: ‏37.25 ر.س.‏ SAR
-  - [اسود / L](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830372023)
-    Availability: Not Available
-    Price: ‏37.25 ر.س.‏ SAR
-  - [اسود / XL](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830404791)
-    Availability: Not Available
-    Price: ‏37.25 ر.س.‏ SAR
-  - [اسود / 2XL](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830437559)
-    Availability: Not Available
-    Price: ‏37.25 ر.س.‏ SAR
-  - [اسود / 3XL](https://shop.ittihadclub.sa/products/الاتحاد-شورت-رياضي?variant=45108830470327)
-    Availability: Not Available
-    Price: ‏37.25 ر.س.‏ SAR
 - [حامل بطاقة Ittihad FC باللون الأصفر](https://shop.ittihadclub.sa/products/حامل-بطاقة-ittihad-fc-باللون-الأصفر): لكل مباراة، ولكل لحظة. مجموعة Fan Essentials مخصصة لعشاق الاتحاد الحقيقيين، اللي يعيشون الشغف طول السنة. من أول صافرة لآخر دقيقة — وجودك يعني الكثير، سواء في المدرج، في الشارع، أو في أي مكان. تصاميم تخلّيك دايمًا قريب من ناديك، وترافقك في كل لحظة. قطع أساسية لكل مشجع اتحادي. بسيطة، ثابتة، وعلى طول جاهزة. الدعم ما عمره كان موضة، لأنه دايم فينا.
-  Updated: 2026-10-28T08:54:19Z
+  Updated: 2026-10-31T21:25:15Z
   Vendor: Al Ittihad Club
   Product Type: حاملات بطاقات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/S2526ACCL6004_2.png?v=1753615479
   Price: ‏5.00 ر.س.‏ SAR
 - [حامل بطاقة النمور أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/حامل-بطاقة-النمور-باللون-الأصفر): حامل بطاقة رسمي من نادي الاتحاد بتصميم النمور باللون الأصفر. اكسسوار أنيق لمحبي الاتحاد. اطلبه الآن.
-  Updated: 2026-10-27T08:37:05Z
+  Updated: 2026-10-31T21:25:15Z
   Vendor: Al Ittihad Club
   Product Type: حاملات بطاقات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/S2526ACCL6006.jpg?v=1753615917
   Price: ‏5.00 ر.س.‏ SAR
 - [علم الاتحاد أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/علم-الاتحاد): علم نادي الاتحاد الرسمي باللون الأصفر. أظهر دعمك للنادي بأسلوب رسمي. اطلبه الآن من المتجر الرسمي.
-  Updated: 2026-10-29T20:07:06Z
+  Updated: 2026-11-05T07:49:27Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: أعلام
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/FLAG.png?v=1753791863
   Price: ‏22.50 ر.س.‏ SAR
 - [قميص الاتحاد الاحتياطي 25/26 ناشئين جمهور](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أطفال-احتياطي-25-26-فئة-الجمهور): تيشيرت الاتحاد الرسمي للناشئين احتياطي 25/26 فئة الجمهور — نفس تصميم المحترفين بسعر مناسب.
-  Updated: 2026-10-30T18:02:18Z
+  Updated: 2026-11-06T12:00:05Z
   Vendor: Nike
   Product Type: تيشيرتات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/MenFanF_82f09fa1-a550-4f1c-84bc-bf71b6cc2949.jpg?v=1762249046
   - [Opal / XS](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أطفال-احتياطي-25-26-فئة-الجمهور?variant=45175115612343)
-    Availability: Available
+    Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
   - [Opal / S](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أطفال-احتياطي-25-26-فئة-الجمهور?variant=45175115645111)
     Availability: Available
@@ -390,7 +338,7 @@
     Availability: Available
     Price: ‏39.00 ر.س.‏ SAR
 - [تيشيرت الاتحاد النسائي الاحتياطي 25/26 فئة الملعب | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نسائي-احتياطي-25-26-فئة-الملعب): تيشيرت الاتحاد الرسمي النسائي الاحتياطي 25/26 فئة الملعب — نفس تصميم المحترفين للسيدات.
-  Updated: 2026-10-30T18:02:13Z
+  Updated: 2026-11-05T16:56:46Z
   Vendor: Nike
   Product Type: تيشيرتات
   Availability: Available
@@ -399,7 +347,7 @@
     Availability: Not Available
     Price: ‏59.00 ر.س.‏ SAR
   - [Opal / S](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نسائي-احتياطي-25-26-فئة-الملعب?variant=45175115808951)
-    Availability: Available
+    Availability: Not Available
     Price: ‏59.00 ر.س.‏ SAR
   - [Opal / M](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نسائي-احتياطي-25-26-فئة-الملعب?variant=45175115841719)
     Availability: Available
@@ -414,7 +362,7 @@
     Availability: Not Available
     Price: ‏59.00 ر.س.‏ SAR
 - [قميص الاتحاد الاحتياطي 25/26 رجالي بدون رعاة](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-احتياطي-25-26-فئة-الجمهور): تيشيرت الاتحاد الرسمي الاحتياطي بدون رعاة 25/26 فئة الجمهور — تصميم نظيف بسعر مناسب.
-  Updated: 2026-10-30T05:04:06Z
+  Updated: 2026-11-05T08:07:58Z
   Vendor: Nike
   Product Type: تيشيرتات
   Availability: Available
@@ -483,7 +431,7 @@
     Availability: Available
     Price: ‏49.75 ر.س.‏ SAR
 - [شورت الاتحاد الأساسي 25/26 رجالي فئة اللاعبين](https://shop.ittihadclub.sa/products/شورت-الاتحاد-رجالي-احطياطي-فئة-اللاعبين): شورت الاتحاد الرسمي رجالي أساسي 25/26 فئة اللاعبين — نفس تصميم المحترفين. نايك أصلي 100%.
-  Updated: 2026-10-31T00:29:10Z
+  Updated: 2026-11-06T12:00:04Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -504,10 +452,10 @@
     Availability: Available
     Price: ‏84.75 ر.س.‏ SAR
   - [Opal / 2XL](https://shop.ittihadclub.sa/products/شورت-الاتحاد-رجالي-احطياطي-فئة-اللاعبين?variant=45175117643959)
-    Availability: Available
+    Availability: Not Available
     Price: ‏84.75 ر.س.‏ SAR
 - [شورت الاتحاد الأساسي نسائي فئة الملعب | المتجر الرسمي](https://shop.ittihadclub.sa/products/شورت-الاتحاد-نسائي-احطياطي-فئة-الملعب): شورت الاتحاد الرسمي النسائي أساسي فئة الملعب — خفيف ومريح. نايك أصلي 100%.
-  Updated: 2026-10-30T16:16:02Z
+  Updated: 2026-11-01T17:23:46Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -528,7 +476,7 @@
     Availability: Available
     Price: ‏44.75 ر.س.‏ SAR
 - [قميص الاتحاد الثالث 25/26 ناشئين فئة الجمهور](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الاساسي-ناشئين-2526): تيشيرت الاتحاد الرسمي للناشئين الثالث 25/26 فئة الجمهور — تصميم ملهم بسعر مناسب. نايك أصلي 100%.
-  Updated: 2026-10-30T21:27:16Z
+  Updated: 2026-11-05T08:07:59Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -576,7 +524,7 @@
     Availability: Not Available
     Price: ‏49.75 ر.س.‏ SAR
 - [قميص الاتحاد الثالث رجالي فئة اللاعبين بدون رعاة](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-الثالث-بدون-رعاة-فئة-اللاعبين-copy): كما يرتديها المحترفون مجموعة Match تمنحك نفس التصميم الذي يرتديه نجوم الفريق. تتميز بتفاصيل أصلية وتقنيات خفيفة وجافة سريعًا، لتمنحك إحساسًا بالراحة والانتعاش داخل الملعب. تهوية متقدمة تقنية Nike Dri-FIT ADV ترتقي بمستوى التحكم في الرطوبة، حيث توفر تبريدًا فائقًا ومناطق تهوية مخصصة، لتساعدك على البقاء جافًا ومريحًا أثناء اللعب.
-  Updated: 2026-10-30T01:49:06Z
+  Updated: 2026-10-31T15:27:12Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -603,7 +551,7 @@
     Availability: Not Available
     Price: ‏99.00 ر.س.‏ SAR
 - [تيشيرت نادي الاتحاد العربي السعودي أبيض](https://shop.ittihadclub.sa/products/تي-شيرت-تراثي-بسيط): تيشيرت نادي الاتحاد العربي السعودي باللون الأبيض — تصميم حصري فاخر. أصلي 100%.
-  Updated: 2026-10-30T20:36:06Z
+  Updated: 2026-11-06T21:30:45Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
@@ -627,7 +575,7 @@
     Availability: Not Available
     Price: ‏32.25 ر.س.‏ SAR
 - [تيشيرت روح الاتحاد أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/تي-شيرت-جرافيتي): تيشيرت روح الاتحاد الرسمي باللون الأسود — تصميم حصري فني فاخر. أصلي 100%.
-  Updated: 2026-10-30T04:58:41Z
+  Updated: 2026-11-05T08:00:26Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
@@ -649,39 +597,15 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/2copy.jpg?v=1757596046
     Price: ‏32.25 ر.س.‏ SAR
   - [Black / XL](https://shop.ittihadclub.sa/products/تي-شيرت-جرافيتي?variant=45258013442231)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/2copy.jpg?v=1757596046
     Price: ‏32.25 ر.س.‏ SAR
   - [Black / XXL](https://shop.ittihadclub.sa/products/تي-شيرت-جرافيتي?variant=45258013474999)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/2copy.jpg?v=1757596046
     Price: ‏32.25 ر.س.‏ SAR
-- [تيشيرت بشعارات نادي الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق): تيشيرت بشعارات نادي الاتحاد الرسمي — تصميم حصري يجمع شعارات النادي العريق. أصلي 100%.
-  Updated: 2026-10-30T23:46:56Z
-  Vendor: Al Ittihad Club
-  Product Type: تيشيرتات
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/IMG_3757_a00ba5dd-5271-460b-8e6f-aff230f206c6.jpg?v=1767177679
-  - [Black / XS](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015178935)
-    Availability: Not Available
-    Price: ‏32.25 ر.س.‏ SAR
-  - [Black / S](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015211703)
-    Availability: Not Available
-    Price: ‏32.25 ر.س.‏ SAR
-  - [Black / M](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015244471)
-    Availability: Available
-    Price: ‏32.25 ر.س.‏ SAR
-  - [Black / L](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015277239)
-    Availability: Available
-    Price: ‏32.25 ر.س.‏ SAR
-  - [Black / XL](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015310007)
-    Availability: Not Available
-    Price: ‏32.25 ر.س.‏ SAR
-  - [Black / XXL](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-الصندوق?variant=45258015342775)
-    Availability: Not Available
-    Price: ‏32.25 ر.س.‏ SAR
 - [تيشيرت الاتحاد Not Like Us | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيفو-تي-شيرت): تيشيرت الاتحاد الرسمي Not Like Us — تصميم حصري فني فاخر. أصلي 100%.
-  Updated: 2026-10-30T16:00:48Z
+  Updated: 2026-10-31T12:26:16Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
@@ -705,7 +629,7 @@
     Availability: Not Available
     Price: ‏32.25 ر.س.‏ SAR
 - [مجموعة نادي الاتحاد – تصميم جريء وهوية عصرية داخل وخارج الملعب](https://shop.ittihadclub.sa/products/تي-شيرت-جرافيتي-للأطفال): مجموعة نادي الاتحاد – تصميم جريء وهوية عصرية داخل وخارج الملعب
-  Updated: 2026-10-30T04:58:41Z
+  Updated: 2026-11-04T17:37:05Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
@@ -738,7 +662,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Screenshot2025-10-06113314.png?v=1759739627
   Price: ‏150.00 ر.س.‏ SAR
 - [شنطة ظهر الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/الاتحاد-شنطة-ظهر): شنطة ظهر الاتحاد الرسمية — عملية وأنيقة للاستخدام اليومي. أصلية 100% من المتجر الرسمي.
-  Updated: 2026-10-23T12:00:41Z
+  Updated: 2026-11-02T07:40:59Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: حقائب
   Availability: Available
@@ -770,7 +694,7 @@
     Availability: Available
     Price: ‏32.25 ر.س.‏ SAR
 - [تيشيرت سترايك الاتحاد 25/26 للجماهير | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-سترايك): تيشيرت الاتحاد سترايك 25/26 للجماهير — تصميم حصري بسعر مناسب. نايك أصلي 100% من المتجر الرسمي.
-  Updated: 2026-10-30T23:16:18Z
+  Updated: 2026-11-05T12:32:56Z
   Vendor: Nike
   Product Type: ملابس تدريب
   Availability: Available
@@ -791,7 +715,7 @@
     Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
 - [ميدالية نادي الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/شعار-العميد-المعدني): ميدالية نادي الاتحاد الرسمية — هدية فاخرة لكل محب للاتحاد. أصلية 100%.
-  Updated: 2026-10-28T08:55:59Z
+  Updated: 2026-11-03T02:51:06Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: إكسسوارات
   Availability: Available
@@ -805,45 +729,21 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/S2526ACCSPZ001.png?v=1769935784
   Price: ‏17.50 ر.س.‏ SAR
 - [شال كأس الملك 24/25 أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/شال-كأس-الملك-24-25): شال كأس الملك 24/25 باللون الأصفر — تذكار بطولة رسمية من متجر نادي الاتحاد الرسمي.
-  Updated: 2026-10-27T15:29:06Z
+  Updated: 2026-11-05T07:47:38Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: شالات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/S2526ACCDKOO30.png?v=1766472732
   Price: ‏9.00 ر.س.‏ SAR
 - [شال كأس الملك 24/25 أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/شال-كأس-الملك-24-25-اسود): شال كأس الملك 24/25 باللون الأسود — تذكار بطولة رسمية من متجر نادي الاتحاد الرسمي.
-  Updated: 2026-10-23T12:01:26Z
+  Updated: 2026-11-03T10:05:25Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: شالات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/S2526ACCDKOO31_2.png?v=1766472632
   Price: ‏19.00 ر.س.‏ SAR
-- [هودي الاتحاد الكاجول | المتجر الرسمي](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي): كاجوال هودي الاتحاد الرياضي الرسمي — تصميم فاخر للاستخدام اليومي. أصلي 100% من المتجر الرسمي.
-  Updated: 2026-10-29T01:40:26Z
-  Vendor: Nike
-  Product Type: هوديز
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Al_ittihad_Ecommerce_202512797.jpg?v=1763025871
-  - [Navy / XS](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442500034743)
-    Availability: Not Available
-    Price: ‏168.75 ر.س.‏ SAR
-  - [Navy / S](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442540634295)
-    Availability: Available
-    Price: ‏168.75 ر.س.‏ SAR
-  - [Navy / M](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442540667063)
-    Availability: Not Available
-    Price: ‏168.75 ر.س.‏ SAR
-  - [Navy / L](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442540699831)
-    Availability: Not Available
-    Price: ‏168.75 ر.س.‏ SAR
-  - [Navy / XL](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442540732599)
-    Availability: Not Available
-    Price: ‏168.75 ر.س.‏ SAR
-  - [Navy / 2XL](https://shop.ittihadclub.sa/products/كاجول-هودي-نادي-الاتحاد-الرياضي?variant=45442540765367)
-    Availability: Not Available
-    Price: ‏168.75 ر.س.‏ SAR
 - [بنطال كاجول نادي الاتحاد الرياضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/بنطال-كاجول-نادي-الاتحاد-الرياضي): بنطال كاجوال نادي الاتحاد الرياضي الرسمي — تصميم فاخر للاستخدام اليومي. أصلي 100%.
-  Updated: 2026-10-30T16:00:46Z
+  Updated: 2026-11-04T23:18:01Z
   Vendor: Nike
   Product Type: بناطيل
   Availability: Available
@@ -869,8 +769,33 @@
   - [Navy / 3XL](https://shop.ittihadclub.sa/products/بنطال-كاجول-نادي-الاتحاد-الرياضي?variant=45442690056375)
     Availability: Not Available
     Price: ‏139.75 ر.س.‏ SAR
+- [تيشيرت نادي الاتحاد العربي السعودي أسود](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود): تيشيرت نادي الاتحاد العربي السعودي باللون الأسود — تصميم حصري فاخر. أصلي 100%.
+  Updated: 2026-11-02T13:56:16Z
+  Vendor: Al Ittihad Club
+  Product Type: تيشيرتات
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/86F0EBED-59A7-4C24-A80F-448A1E7F305F.jpg?v=1782373605
+  - [Black / XS](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289088183)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/86F0EBED-59A7-4C24-A80F-448A1E7F305F.jpg?v=1782373605
+    Price: ‏32.25 ر.س.‏ SAR
+  - [Black / S](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289120951)
+    Availability: Not Available
+    Price: ‏32.25 ر.س.‏ SAR
+  - [Black / M](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289153719)
+    Availability: Not Available
+    Price: ‏32.25 ر.س.‏ SAR
+  - [Black / L](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289186487)
+    Availability: Available
+    Price: ‏32.25 ر.س.‏ SAR
+  - [Black / XL](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289219255)
+    Availability: Not Available
+    Price: ‏32.25 ر.س.‏ SAR
+  - [Black / XXL](https://shop.ittihadclub.sa/products/تيشيرت-نادي-الاتحاد-العربي-السعودي-اسود?variant=45443289252023)
+    Availability: Not Available
+    Price: ‏32.25 ر.س.‏ SAR
 - [تيشيرت روح الاتحاد للكبار رمادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-روح-الاتحاد-فواز): تيشيرت روح الاتحاد الرسمي للكبار باللون الرمادي — تصميم حصري فاخر. أصلي 100%.
-  Updated: 2026-10-30T19:42:46Z
+  Updated: 2026-11-01T16:22:26Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
@@ -899,31 +824,31 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/2_b465419b-5e54-4542-b64e-82263e99020b.jpg?v=1757596136
     Price: ‏32.25 ر.س.‏ SAR
-- [تيشيرت الاتحاد مدينة جدة للأطفال أبيض | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض): تيشيرت الاتحاد مدينة جدة للأطفال باللون الأبيض — Graphics Collection حصري. أصلي 100%.
-  Updated: 2026-10-30T19:42:46Z
+- [تيشيرت جرافيتي روح الاتحاد للأطفال أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود): تيشيرت جرافيتي روح الاتحاد للأطفال باللون الأسود — Graphics Collection حصري. أصلي 100%.
+  Updated: 2026-11-01T04:44:00Z
   Vendor: Al Ittihad Club
   Product Type: تيشيرتات
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
-  - [White / XS](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض?variant=45443409150135)
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
+  - [Black / XS](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود?variant=45443414098103)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
     Price: ‏27.25 ر.س.‏ SAR
-  - [White / S](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض?variant=45443409182903)
+  - [Black / S](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود?variant=45443414130871)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
     Price: ‏27.25 ر.س.‏ SAR
-  - [White / M](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض?variant=45443409215671)
+  - [Black / M](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود?variant=45443414163639)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
     Price: ‏27.25 ر.س.‏ SAR
-  - [White / L](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض?variant=45443409248439)
+  - [Black / L](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود?variant=45443414196407)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
     Price: ‏27.25 ر.س.‏ SAR
-  - [White / XL](https://shop.ittihadclub.sa/products/تيشيرت-مدينة-جدة-اطفال-ابيض?variant=45443409281207)
+  - [Black / XL](https://shop.ittihadclub.sa/products/تيشيرت-جرافيتي-روح-الاتحاد-اطفال-اسود?variant=45443414229175)
     Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_a72c9848-6cb0-478d-8ce7-b314fe704c60.jpg?v=1759673102
+    Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Back_8456cf8f-fc5d-41a8-81e9-6f03fb4d1d53.jpg?v=1759677360
     Price: ‏27.25 ر.س.‏ SAR
 - [تيشيرت ديابي 19 الاتحاد أبيض | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-ديابي-19-الاتحاد-ابيض): تيشيرت ديابي 19 الاتحاد الأبيض. أسرع لاعب في الدوري. طباعة عالية الجودة. قطن 100% مريح. أصلي من المتجر. 99 ريال بس. توصيل سريع للسعودية.
   Updated: 2026-10-24T22:13:04Z
@@ -975,7 +900,7 @@
     Availability: Not Available
     Price: ‏59.00 ر.س.‏ SAR
 - [جاكيت كانفس كلاسيكي 1927 | المتجر الرسمي](https://shop.ittihadclub.sa/products/جاكيت-كانفس-كلاسيكي-1927): جاكيت كانفس الاتحاد الكلاسيكي 1927 — تصميم تراثي فاخر يجمع بين الأصالة والأناقة. من مجموعة الإرث 1927.
-  Updated: 2026-10-31T00:04:37Z
+  Updated: 2026-11-06T15:48:06Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: جاكيتات
   Availability: Available
@@ -999,13 +924,13 @@
     Availability: Not Available
     Price: ‏124.50 ر.س.‏ SAR
 - [هودي 1927 الكلاسيكي | المتجر الرسمي](https://shop.ittihadclub.sa/products/هودي-1927): هودي الاتحاد الكلاسيكي 1927 — تصميم تراثي فاخر للاستخدام اليومي. من مجموعة الإرث 1927. أصلي 100%.
-  Updated: 2026-10-30T21:48:07Z
+  Updated: 2026-11-06T11:56:56Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: هوديز
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/6300000000508-1.jpg?v=1782370855
   - [XS](https://shop.ittihadclub.sa/products/هودي-1927?variant=45564114927799)
-    Availability: Available
+    Availability: Not Available
     Price: ‏114.50 ر.س.‏ SAR
   - [S](https://shop.ittihadclub.sa/products/هودي-1927?variant=45564114960567)
     Availability: Available
@@ -1023,7 +948,7 @@
     Availability: Not Available
     Price: ‏114.50 ر.س.‏ SAR
 - [هودي بشعار الدرع بلاك آوت | المتجر الرسمي](https://shop.ittihadclub.sa/products/هودي-بشعار-الدرع-بلاك-آوت): هودي الاتحاد الرسمي بشعار الدرع إصدار بلاك آوت — تصميم حصري أسود فاخر.
-  Updated: 2026-10-30T21:48:06Z
+  Updated: 2026-11-06T11:56:56Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: هوديز
   Availability: Available
@@ -1044,17 +969,17 @@
     Availability: Available
     Price: ‏99.00 ر.س.‏ SAR
   - [2XL](https://shop.ittihadclub.sa/products/هودي-بشعار-الدرع-بلاك-آوت?variant=45632741015735)
-    Availability: Available
+    Availability: Not Available
     Price: ‏99.00 ر.س.‏ SAR
 - [محفظة بشعار الدرع بلاك آوت | المتجر الرسمي](https://shop.ittihadclub.sa/products/محفظة-بشعار-الدرع-بلاك-آوت): محفظة الاتحاد الرسمي بشعار الدرع إصدار بلاك آوت — إكسسوار حصري أسود فاخر.
-  Updated: 2026-10-30T22:47:36Z
+  Updated: 2026-11-06T21:30:42Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/6300000000532-1_5e6cd0e9-568e-4023-b94a-6d01738aafea.jpg?v=1782374181
   Price: ‏49.50 ر.س.‏ SAR
 - [ميدالية مفاتيح بشعار الاتحاد أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-بشعار-الاتحاد-أصفر): ميدالية مفاتيح بشعار الاتحاد باللون الأصفر — هدية صغيرة فاخرة لكل محب للاتحاد.
-  Updated: 2026-10-30T21:27:16Z
+  Updated: 2026-11-03T13:00:47Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
@@ -1068,7 +993,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/16.jpg?v=1782374965
   Price: ‏7.00 ر.س.‏ SAR
 - [دبوس بشعار الاتحاد أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/دبوس-بشعار-الاتحاد-أصفر): دبوس رسمي بشعار نادي الاتحاد باللون الأصفر. اكسسوار أنيق لمحبي الاتحاد. اطلبه الآن.
-  Updated: 2026-10-30T21:27:15Z
+  Updated: 2026-11-05T12:33:25Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: دبابيس
   Availability: Available
@@ -1082,7 +1007,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/24.jpg?v=1782375136
   Price: ‏7.00 ر.س.‏ SAR
 - [دبوس الشعار الكلاسيكي أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/دبوس-الشعار-الكلاسيكي-أصفر): دبوس الشعار الكلاسيكي لنادي الاتحاد باللون الأصفر. تصميم تراثي أصيل. اطلبه الآن.
-  Updated: 2026-10-25T17:11:29Z
+  Updated: 2026-11-02T22:51:15Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: دبابيس
   Availability: Available
@@ -1095,36 +1020,29 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/30_a9f9d4db-5629-4b13-8005-41ae31104697.jpg?v=1782377145
   Price: ‏7.00 ر.س.‏ SAR
-- [حقيبة كتف بشعار الدرع | المتجر الرسمي](https://shop.ittihadclub.sa/products/حقيبة-كتف-بشعار-الدرع): حقيبة كتف رسمية بشعار الدرع من نادي الاتحاد. تصميم عصري أنيق. اطلبها الآن.
-  Updated: 2026-10-27T01:27:36Z
-  Vendor: Al Ittihad Club - نادي الاتحاد
-  Product Type: حقائب
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/C_anta-1_532a588d-fa0b-4a41-b227-e999e8e44e44.jpg?v=1782373763
-  Price: ‏49.50 ر.س.‏ SAR
 - [ميدالية مفاتيح بشعار الدرع فضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-بشعار-الدرع-فضي): ميدالية مفاتيح رسمية بشعار الدرع من نادي الاتحاد بتصميم فضي. هدية صغيرة مثالية. اطلبها الآن.
-  Updated: 2026-10-23T12:01:52Z
+  Updated: 2026-11-03T13:00:57Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_23.jpg?v=1782373940
   Price: ‏9.00 ر.س.‏ SAR
 - [ميدالية مفاتيح بشعار الدرع أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-بشعار-الدرع-أصفر): ميدالية مفاتيح الاتحاد بشعار الدرع باللون الأصفر — هدية صغيرة فاخرة.
-  Updated: 2026-10-29T21:47:02Z
+  Updated: 2026-11-06T21:30:45Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/19.jpg?v=1782376919
   Price: ‏9.00 ر.س.‏ SAR
 - [دبوس الدرع أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/دبوس-الدرع-أصفر): دبوس شعار الدرع لنادي الاتحاد باللون الأصفر. اكسسوار رسمي أنيق. اطلبه الآن.
-  Updated: 2026-10-25T14:33:36Z
+  Updated: 2026-10-31T21:25:15Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: دبابيس
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_16.jpg?v=1782475808
   Price: ‏7.00 ر.س.‏ SAR
 - [مغناطيس الدرع أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/مغناطيس-الدرع-أصفر): مغناطيس شعار الدرع لنادي الاتحاد باللون الأصفر. هدية صغيرة مثالية. اطلبها الآن.
-  Updated: 2026-10-29T23:34:38Z
+  Updated: 2026-11-03T13:00:46Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: مغناطيسات
   Availability: Available
@@ -1138,28 +1056,28 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_12.jpg?v=1782456819
   Price: ‏7.00 ر.س.‏ SAR
 - [ميدالية مفاتيح بشعار الاتحاد ذهبي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-بشعار-الاتحاد-ذهبي): ميدالية مفاتيح رسمية بشعار نادي الاتحاد بتصميم ذهبي فاخر. هدية صغيرة مثالية. اطلبها الآن.
-  Updated: 2026-10-28T21:01:26Z
+  Updated: 2026-11-03T13:00:46Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/10.jpg?v=1782456479
   Price: ‏9.00 ر.س.‏ SAR
 - [ميدالية مفاتيح بشعار الاتحاد فضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-بشعار-الاتحاد-فضي): ميدالية مفاتيح رسمية بشعار نادي الاتحاد بتصميم فضي أنيق. هدية صغيرة مثالية. اطلبها الآن.
-  Updated: 2026-10-28T15:24:16Z
+  Updated: 2026-11-04T08:31:35Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/1_39a99d13-b031-4b34-9b1f-d5e006b875f4.jpg?v=1782456165
   Price: ‏9.00 ر.س.‏ SAR
 - [حقيبة قماش SMSH أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/حقيبة-قماش-smsh): حقيبة قماش SMSH الاتحاد الرسمية — خفيفة وعملية للاستخدام اليومي. أصلية 100%.
-  Updated: 2026-10-28T16:01:05Z
+  Updated: 2026-11-03T13:00:45Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: حقائب
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/6300000000556-1.jpg?v=1782455545
   Price: ‏29.50 ر.س.‏ SAR
 - [حقيبة قماش SMSH أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/حقيبة-قماش-smsh-1): حقيبة قماش SMSH رسمية من نادي الاتحاد. تصميم عصري وعملي للاستخدام اليومي. اطلبها الآن.
-  Updated: 2026-10-28T14:17:36Z
+  Updated: 2026-11-03T13:00:47Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: حقائب
   Availability: Available
@@ -1173,21 +1091,21 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/22_701c342b-b316-4398-89fc-e30cdc768ad1.jpg?v=1782455661
   Price: ‏7.00 ر.س.‏ SAR
 - [دبوس بشعار الاتحاد فضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/دبوس-بشعار-الاتحاد-فضي): دبوس رسمي بشعار نادي الاتحاد بتصميم فضي أنيق. هدية مثالية لمحبي الاتحاد. اطلبه الآن.
-  Updated: 2026-10-28T15:24:15Z
+  Updated: 2026-11-04T08:31:36Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: دبابيس
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/26.jpg?v=1782456668
   Price: ‏7.00 ر.س.‏ SAR
 - [ميدالية مفاتيح الشعار الكلاسيكي فضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-مفاتيح-الشعار-الكلاسيكي-فضي): ميدالية مفاتيح رسمية بالشعار الكلاسيكي لنادي الاتحاد بتصميم فضي. هدية صغيرة مثالية. اطلبها الآن.
-  Updated: 2026-10-30T19:53:48Z
+  Updated: 2026-11-03T19:56:33Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ميداليات مفاتيح
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_8.jpg?v=1782456246
   Price: ‏7.00 ر.س.‏ SAR
 - [مغناطيس الشعار الكلاسيكي أصفر | المتجر الرسمي](https://shop.ittihadclub.sa/products/مغناطيس-الشعار-الكلاسيكي-أصفر): مغناطيس الاتحاد الكلاسيكي باللون الأصفر — هدية صغيرة فاخرة لكل محب للاتحاد.
-  Updated: 2026-10-30T12:41:38Z
+  Updated: 2026-11-02T13:56:12Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: مغناطيسات
   Availability: Available
@@ -1215,18 +1133,18 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_3_7b9de632-cae6-475c-bc7b-e625e1289555.jpg?v=1782455815
   Price: ‏7.00 ر.س.‏ SAR
 - [دبوس الدرع فضي | المتجر الرسمي](https://shop.ittihadclub.sa/products/دبوس-الدرع-فضي): دبوس شعار الدرع لنادي الاتحاد بتصميم فضي أنيق. هدية مثالية لمحبي الاتحاد. اطلبه الآن.
-  Updated: 2026-10-23T12:01:13Z
+  Updated: 2026-11-04T08:31:36Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: دبابيس
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/image_bf545407-bd5e-4180-a188-b253295c58f1.jpg?v=1782455752
   Price: ‏7.00 ر.س.‏ SAR
 - [قميص فليم الاتحاد رجالي 2025 | المتجر الرسمي](https://shop.ittihadclub.sa/products/قميص-فليم-الاتحاد-رجالي-2025): قميص فليم الاتحاد الرسمي للرجال 2025 — طقم تدريب عصري بتصميم فاخر. مناسب للتدريب والاستخدام اليومي.
-  Updated: 2026-10-30T19:53:46Z
+  Updated: 2026-11-04T20:40:53Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: ملابس تدريب
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/10161EF6-2C67-4604-BA03-D67E3FEA9D0B.jpg?v=1768585256
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Screenshot2026-01-15165445.png?v=1789384930
   - [S](https://shop.ittihadclub.sa/products/قميص-فليم-الاتحاد-رجالي-2025?variant=45708994347191)
     Availability: Available
     Price: ‏39.00 ر.س.‏ SAR
@@ -1243,7 +1161,7 @@
     Availability: Not Available
     Price: ‏39.00 ر.س.‏ SAR
 - [جاكيت رياضي بشعار الدرع بلاك آوت | المتجر الرسمي](https://shop.ittihadclub.sa/products/جاكيت-رياضي-بشعار-الدرع-بلاك-آوت): جاكيت الاتحاد الرياضي بشعار الدرع إصدار بلاك آوت — تصميم حصري أسود فاخر.
-  Updated: 2026-10-28T20:51:06Z
+  Updated: 2026-11-06T15:48:06Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: جاكيتات
   Availability: Available
@@ -1291,7 +1209,7 @@
     Availability: Not Available
     Price: ‏49.50 ر.س.‏ SAR
 - [هودي الاتحاد الأساسي | المتجر الرسمي](https://shop.ittihadclub.sa/products/هودي-الاتحاد-أساسي): هودي الاتحاد الأساسي الرسمي — تصميم كلاسيكي دافئ ومريح للاستخدام اليومي. أصلي 100%.
-  Updated: 2026-10-30T13:40:41Z
+  Updated: 2026-11-06T21:30:46Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: هوديز
   Availability: Available
@@ -1312,10 +1230,10 @@
     Availability: Available
     Price: ‏99.00 ر.س.‏ SAR
   - [2XL](https://shop.ittihadclub.sa/products/هودي-الاتحاد-أساسي?variant=45745497440439)
-    Availability: Available
+    Availability: Not Available
     Price: ‏99.00 ر.س.‏ SAR
 - [شورت الاتحاد الأساسي | المتجر الرسمي](https://shop.ittihadclub.sa/products/شورت-الاتحاد-أساسي): شورت الاتحاد الأساسي الرسمي — خفيف ومريح للتدريب والاستخدام اليومي. أصلي 100%.
-  Updated: 2026-10-30T23:46:56Z
+  Updated: 2026-11-05T07:56:26Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: شورتات
   Availability: Available
@@ -1339,7 +1257,7 @@
     Availability: Not Available
     Price: ‏49.50 ر.س.‏ SAR
 - [تيشيرت الاتحاد الأساسي | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أساسي): تيشيرت الاتحاد الرسمي الأساسي — تصميم كلاسيكي مريح للاستخدام اليومي. أصلي 100% من المتجر الرسمي.
-  Updated: 2026-10-30T18:23:46Z
+  Updated: 2026-11-01T17:23:32Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: تيشيرتات
   Availability: Available
@@ -1363,7 +1281,7 @@
     Availability: Not Available
     Price: ‏49.50 ر.س.‏ SAR
 - [تيشيرت الاتحاد الأساسي الكلاسيكي | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أساسي-1): تيشيرت الاتحاد الأساسي الرسمي — تصميم كلاسيكي مريح للاستخدام اليومي. أصلي 100%.
-  Updated: 2026-10-31T00:29:06Z
+  Updated: 2026-11-03T12:22:00Z
   Vendor: Al Ittihad Club - نادي الاتحاد
   Product Type: تيشيرتات
   Availability: Available
@@ -1386,6 +1304,30 @@
   - [2XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-أساسي-1?variant=45745567072439)
     Availability: Not Available
     Price: ‏49.50 ر.س.‏ SAR
+- [تيشيرت بشعار الاتحاد أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود): قميص الاتحاد الرسمي بشعار أسود — تصميم حصري فاخر. أصلي 100%.
+  Updated: 2026-11-01T18:48:10Z
+  Vendor: Nike
+  Product Type: تيشيرتات
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Screenshot2026-02-02175001.png?v=1770043841
+  - [S](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819682999)
+    Availability: Available
+    Price: ‏37.50 ر.س.‏ SAR
+  - [M](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819715767)
+    Availability: Not Available
+    Price: ‏37.50 ر.س.‏ SAR
+  - [L](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819748535)
+    Availability: Not Available
+    Price: ‏37.50 ر.س.‏ SAR
+  - [XL](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819781303)
+    Availability: Not Available
+    Price: ‏37.50 ر.س.‏ SAR
+  - [2XL](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819814071)
+    Availability: Not Available
+    Price: ‏37.50 ر.س.‏ SAR
+  - [3XL](https://shop.ittihadclub.sa/products/تي-شيرت-بشعار-أسود?variant=45757819846839)
+    Availability: Not Available
+    Price: ‏37.50 ر.س.‏ SAR
 - [ساعة الاتحاد أوريجن كرونوغراف من Nuun | المتجر الرسمي](https://shop.ittihadclub.sa/products/ساعه-الاتحاد-أوريجن-ستيل-كرونوغراف): ساعة الاتحاد أوريجن كرونوغراف الرسمية من Nuncier — تصميم فاخر بخاصية كرونوغراف. إصدار محدود. اطلب الآن.
   Updated: 2026-10-23T12:01:20Z
   Vendor: Al Ittihad Club - نادي الاتحاد
@@ -1415,7 +1357,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Ittihad-OS-1.png?v=1789381239
   Price: ‏3,220.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 25/26 فئة اللاعبين بدون رعاة](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-رجالي-أساسي-25-26-فئة-اللاعبين-بدون-رعاة): تيشيرت الاتحاد الرسمي رجالي أساسي 25/26 بدون رعاة فئة اللاعبين — تصميم نظيف وأنيق.
-  Updated: 2026-10-30T18:36:06Z
+  Updated: 2026-11-06T21:30:51Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -1503,14 +1445,14 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/WhatsAppImage2026-10-12at2.33.31PM.jpg?v=1791807863
   Price: ‏79.00 ر.س.‏ SAR
 - [كاب الاتحاد الكلاسيكي الأسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/كاب-أصفر-بشعار-الدرع): كاب أصفر بشعار درع الاتحاد الرسمي. ONE SIZE يونيسكس. جودة عالية.
-  Updated: 2026-10-23T12:01:41Z
+  Updated: 2026-11-06T14:32:36Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/20260621_105505466_iOS.png?v=1782476034
   Price: ‏79.00 ر.س.‏ SAR
 - [كاب أصفر بشعار الاتحاد الريترو | المتجر الرسمي](https://shop.ittihadclub.sa/products/rise-of-the-tigers-black-cap): كاب أسود Rise Of The Tigers من نادي الاتحاد. ONE SIZE يونيسكس. جودة عالية.
-  Updated: 2026-10-23T12:02:09Z
+  Updated: 2026-11-02T07:41:07Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
@@ -1526,14 +1468,14 @@
 الجنس: يونيسكس
 
 الاتحاد. دائماً وأبداً.
-  Updated: 2026-10-23T12:02:09Z
+  Updated: 2026-11-01T10:00:05Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/20260621_121003234_iOS.png?v=1782476010
   Price: ‏79.00 ر.س.‏ SAR
 - [كاب أسود بشعار الدرع | المتجر الرسمي](https://shop.ittihadclub.sa/products/نادي-الشعب-كاب-أسود): كاب أسود The People's Club من نادي الاتحاد. ONE SIZE يونيسكس. جودة عالية.
-  Updated: 2026-10-27T22:46:57Z
+  Updated: 2026-11-05T19:17:06Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
@@ -1549,21 +1491,21 @@
 الجنس: يونيسكس
 
 الاتحاد. دائماً وأبداً.
-  Updated: 2026-10-23T12:01:46Z
+  Updated: 2026-11-04T17:28:58Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/20260621_101747702_iOS.png?v=1782379032
   Price: ‏79.00 ر.س.‏ SAR
 - [كرة قدم الاتحاد أسود مقاس ميني | المتجر الرسمي](https://shop.ittihadclub.sa/products/كرة-قدم-نادي-الاتحاد-أسود-مقاس-ميني): اشترِ كرة قدم نادي الاتحاد الأسود المصغرة الرسمية. هدية مثالية لمشجعي الاتحاد.
-  Updated: 2026-10-29T20:32:36Z
+  Updated: 2026-11-03T08:14:17Z
   Vendor: Line 6
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/971c2a3804aa91d1cf97dd4fa71490f7.jpg?v=1782730025
   Price: ‏99.00 ر.س.‏ SAR
 - [كرة قدم الاتحاد أسود مقاس صغير | المتجر الرسمي](https://shop.ittihadclub.sa/products/كرة-قدم-نادي-الاتحاد-أسود-مقاس-صغير): اشترِ كرة قدم نادي الاتحاد الأسود الصغيرة الرسمية. هدية مثالية لمشجعي الاتحاد.
-  Updated: 2026-10-27T14:17:09Z
+  Updated: 2026-11-02T16:55:17Z
   Vendor: Line 6
   Product Type: إكسسوارات
   Availability: Available
@@ -1577,7 +1519,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/94381aa1d4c876f21ba111ad7b39b727.jpg?v=1782730195
   Price: ‏99.00 ر.س.‏ SAR
 - [كرة قدم الاتحاد أصفر مقاس صغير | المتجر الرسمي](https://shop.ittihadclub.sa/products/كرة-قدم-نادي-الاتحاد-أصفر-مقاس-صغير): اشترِ كرة قدم نادي الاتحاد الأصفر الصغيرة الرسمية. هدية مثالية لمشجعي الاتحاد.
-  Updated: 2026-10-27T14:17:08Z
+  Updated: 2026-11-05T07:49:06Z
   Vendor: Line 6
   Product Type: إكسسوارات
   Availability: Available
@@ -1591,7 +1533,7 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/e56b737efda67bcf39b5d7ed5926dacd.jpg?v=1782730642
   Price: ‏179.00 ر.س.‏ SAR
 - [قميص ربان السفينة من الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/qamis-rabban-al-safina-al-ittihad): تسوق قميص ربان السفينة من نادي الاتحاد بالألوان الأسود والأبيض والرمادي. جودة عالية، مقاسات XS–XXL. بضائع رسمية لنادي الاتحاد.
-  Updated: 2026-10-30T04:58:46Z
+  Updated: 2026-10-31T12:26:15Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -1669,7 +1611,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Roban_Al-Safina_Grey_Shirt_back.png?v=1789289784
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت نصيدة بالسنارة أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-نصيدة-بالسنارة-أسود-نادي-الاتحاد): تيشيرت صيد أسود من نادي الاتحاد، مناسب للرجال والنساء، قماش عالي الجودة مريح وخفيف. متوفر بمقاسات XS، S، M، L، XL، XXL. اطلب الآن!
-  Updated: 2026-10-30T05:03:32Z
+  Updated: 2026-10-31T12:26:15Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -1717,7 +1659,7 @@
     Availability: Available
     Price: ‏149.00 ر.س.‏ SAR
 - [ربان السفينة شنطة توت باق | نادي الاتحاد](https://shop.ittihadclub.sa/products/ربان-السفينة-شنطة-توت-باق): شنطة توت باق من مجموعة ربان السفينة – نادي الاتحاد. مقاس موحد، مناسبة للجنسين، تصميم أنيق يعكس هوية النادي.
-  Updated: 2026-10-30T04:58:46Z
+  Updated: 2026-11-03T02:51:06Z
   Vendor: Hafiz
   Product Type: حقائب
   Availability: Available
@@ -1731,7 +1673,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Roban_Al-Safina_Beige_Tote_Bag_a8b19d55-d4b9-4129-b240-21fc4370cd70.png?v=1789389556
     Price: ‏25.00 ر.س.‏ SAR
 - [تيشيرت الاتحاد تيفو آورا | المتجر الرسمي](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-tifo-aura): تيشيرت تيفو آورا الحصري من نادي الاتحاد، للجنسين، بألوان أسود وأبيض ورمادي، مقاسات XS-XXL. SAR 99.
-  Updated: 2026-10-30T04:58:46Z
+  Updated: 2026-11-01T13:55:45Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -1791,22 +1733,22 @@
   - [Gray / 2XL](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-tifo-aura?variant=48571854028983)
     Availability: Not Available
     Price: ‏149.00 ر.س.‏ SAR
-- [Roban Al-Safina Black Magnet | Al Ittihad Club](https://shop.ittihadclub.sa/products/مغناطيس-ربان-السفينة-أسود): مغناطيس ربان السفينة الأسود - منتج رسمي من نادي الاتحاد، مناسب للجنسين، مقاس موحد. من تصميم Hafiz.
-  Updated: 2026-10-30T10:53:15Z
+- [الاتحاد مغناطيس ربان السفينة أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/مغناطيس-ربان-السفينة-أسود): مغناطيس ربان السفينة الأسود - منتج رسمي من نادي الاتحاد، مناسب للجنسين، مقاس موحد. من تصميم Hafiz.
+  Updated: 2026-11-03T12:21:48Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/RobanAl-SafinaBlackMagnet.png?v=1789373113
   Price: ‏10.00 ر.س.‏ SAR
-- [Fishing Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/نصيدة-بالسنارة-ميدالية): ميدالية نصيدة بالسنارة - منتج رسمي من نادي الاتحاد، ألوان متعددة، مناسب للجنسين. من تصميم Hafiz.
-  Updated: 2026-10-30T10:53:12Z
+- [الاتحاد ميدالية نصيده بالسنارة | المتجر الرسمي](https://shop.ittihadclub.sa/products/نصيدة-بالسنارة-ميدالية): ميدالية نصيدة بالسنارة - منتج رسمي من نادي الاتحاد، ألوان متعددة، مناسب للجنسين. من تصميم Hafiz.
+  Updated: 2026-11-03T13:00:45Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/FishingKeychain.png?v=1789377909
   Price: ‏15.00 ر.س.‏ SAR
-- [Fishing White Mug | Al Ittihad Club](https://shop.ittihadclub.sa/products/نصيدة-بالسناره-كوب-أبيض): كوب نصيدة بالسنارة أبيض - منتج رسمي من نادي الاتحاد، ألوان متعددة، مناسب للجنسين. من تصميم Hafiz.
-  Updated: 2026-10-30T10:53:16Z
+- [الاتحاد كوب أبيض نصيده بالسنارة | المتجر الرسمي](https://shop.ittihadclub.sa/products/نصيدة-بالسناره-كوب-أبيض): كوب نصيدة بالسنارة أبيض - منتج رسمي من نادي الاتحاد، ألوان متعددة، مناسب للجنسين. من تصميم Hafiz.
+  Updated: 2026-11-03T07:24:37Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
@@ -1867,7 +1809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/The_Fans_Spirit_White_shirt_back_1ad98c73-6fe5-480e-a021-649c240b7f47.png?v=1789290677
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت الاتحاد شعار Itti متدرج الألوان | Gradient Logo Itti Shirt](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-gradient-logo-itti): تيشيرت أسود حصري من نادي الاتحاد بشعار Itti متدرج الألوان، للجنسين، مقاسات XS-XXL. SAR 99.
-  Updated: 2026-10-30T12:49:47Z
+  Updated: 2026-11-02T08:13:36Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -1890,22 +1832,22 @@
   - [Black / 2XL](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-gradient-logo-itti?variant=48574058561719)
     Availability: Available
     Price: ‏149.00 ر.س.‏ SAR
-- [The Fans Spirit Water Bottle | Al Ittihad Club](https://shop.ittihadclub.sa/products/جمهورك-الروح-زجاجة-ماء): زجاجة ماء جمهورك الروح - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
-  Updated: 2026-10-30T05:03:36Z
+- [الاتحاد زجاجة ماء روح الجمهور | المتجر الرسمي](https://shop.ittihadclub.sa/products/جمهورك-الروح-زجاجة-ماء): زجاجة ماء جمهورك الروح - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
+  Updated: 2026-11-04T15:00:06Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/TheFansSpiritWaterbottle__1_cc5b48de-fd02-476d-bcea-6ae348ced8e7.png?v=1789376454
   Price: ‏39.00 ر.س.‏ SAR
-- [Cactus Water Bottle | Al Ittihad Club](https://shop.ittihadclub.sa/products/تصميم-البرشومي-على-زجاجة-ماء): زجاجة ماء بتصميم البرشومي - منتج رسمي من نادي الاتحاد، لون أسود،.
-  Updated: 2026-10-30T10:53:19Z
+- [الاتحاد زجاجة ماء بتصميم البرشومي | المتجر الرسمي](https://shop.ittihadclub.sa/products/تصميم-البرشومي-على-زجاجة-ماء): زجاجة ماء بتصميم البرشومي - منتج رسمي من نادي الاتحاد، لون أسود،.
+  Updated: 2026-11-03T21:55:40Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/CactusWaterbottle_07a54fcb-0da5-45d7-9314-e4d828717d70.png?v=1789377849
   Price: ‏39.00 ر.س.‏ SAR
 - [تيشيرت الاتحاد اتحادي أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-ittihadi-black): تيشيرت اتحادي أسود حصري من نادي الاتحاد، للجنسين، مقاسات XS-XXL. SAR 99.
-  Updated: 2026-10-30T04:58:56Z
+  Updated: 2026-11-04T06:31:05Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -1928,148 +1870,148 @@
   - [Black / 2XL](https://shop.ittihadclub.sa/products/tishirt-al-ittihad-ittihadi-black?variant=48578443247799)
     Availability: Not Available
     Price: ‏149.00 ر.س.‏ SAR
-- [Tifo Aura Notebook | Al Ittihad Club](https://shop.ittihadclub.sa/products/مفكرة-تيفو-آورا): مفكرة تيفو آورا - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
-  Updated: 2026-10-31T00:29:17Z
+- [الاتحاد مفكرة تيفو آورا | المتجر الرسمي](https://shop.ittihadclub.sa/products/مفكرة-تيفو-آورا): مفكرة تيفو آورا - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
+  Updated: 2026-11-03T07:24:57Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/TifoAuraNotebook.png?v=1789376498
   Price: ‏29.00 ر.س.‏ SAR
 - [Gradient Logo Itti Magnet | Al Ittihad Club](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-مغناطيس): مغناطيس شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، مناسب للجنسين.
-  Updated: 2026-10-30T11:12:51Z
+  Updated: 2026-11-03T02:51:11Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/GradientLogoIttiMagnet.png?v=1789378117
   Price: ‏10.00 ر.س.‏ SAR
-- [Gradient Logo Itti Water Bottle | Al Ittihad Club](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-على-زجاجة-ماء): زجاجة ماء شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
-  Updated: 2026-10-30T04:58:56Z
+- [الاتحاد زجاجة ماء بشعار Itti متدرج الألوان | المتجر الرسمي](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-على-زجاجة-ماء): زجاجة ماء شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
+  Updated: 2026-11-03T07:24:26Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/GradientLogoIttiWaterBottle.png?v=1789378230
   Price: ‏39.00 ر.س.‏ SAR
-- [Gradient Logo Itti Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-ميدالية): ميدالية شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود.
-  Updated: 2026-10-30T10:53:15Z
+- [الاتحاد ميدالية بشعار Itti متدرج الألوان | المتجر الرسمي](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-ميدالية): ميدالية شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود.
+  Updated: 2026-11-03T13:00:47Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/GradientLogoIttikeychain.png?v=1789378063
   Price: ‏15.00 ر.س.‏ SAR
-- [Gradient Logo Itti Mug | Al Ittihad Club](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-على-كوب): كوب شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود.
-  Updated: 2026-10-30T10:53:16Z
+- [الاتحاد كوب بشعار Itti متدرج الألوان | المتجر الرسمي](https://shop.ittihadclub.sa/products/شعار-itti-متدرج-الألوان-على-كوب): كوب شعار Itti متدرج الألوان - منتج رسمي من نادي الاتحاد، لون أسود.
+  Updated: 2026-11-03T07:24:28Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/GradientLogoIttiMug.png?v=1789378144
   Price: ‏25.00 ر.س.‏ SAR
-- [Ittihadi Black Tote Bag | Al Ittihad Club](https://shop.ittihadclub.sa/products/اتحادي-حقيبة-سوداء): حقيبة اتحادي السوداء - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
-  Updated: 2026-10-30T04:58:57Z
+- [الاتحاد حقيبة قماشية سوداء اتحادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/اتحادي-حقيبة-سوداء): حقيبة اتحادي السوداء - منتج رسمي من نادي الاتحاد، لون أسود، مناسب للجنسين.
+  Updated: 2026-11-04T08:31:35Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/IttihadiBlackToteBag.png?v=1789378459
   Price: ‏25.00 ر.س.‏ SAR
-- [Ittihadi Black Magnet | Al Ittihad Club](https://shop.ittihadclub.sa/products/اتحادي-مغناطيس-أسود): مغناطيس اتحادي أسود - منتج رسمي من نادي الاتحاد، لون أسود،.
-  Updated: 2026-10-31T00:29:17Z
+- [الاتحاد مغناطيس أسود اتحادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/اتحادي-مغناطيس-أسود): مغناطيس اتحادي أسود - منتج رسمي من نادي الاتحاد، لون أسود،.
+  Updated: 2026-11-03T07:24:25Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/IttihadiBlackMagnet.png?v=1789378339
   Price: ‏10.00 ر.س.‏ SAR
-- [Alittihad Diwani Font Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/ميدالية-الاتحاد-بخط-الدواني): ميدالية الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
-  Updated: 2026-10-30T10:53:13Z
+- [الاتحاد ميدالية بالخط الديواني | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-الاتحاد-بخط-الدواني): ميدالية الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
+  Updated: 2026-11-03T13:00:46Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadDiwaniFontKeychain_a41d604f-3916-45c2-afca-bebbe3c665dc.png?v=1789377408
   Price: ‏15.00 ر.س.‏ SAR
-- [Alittihad Diwani Font Water Bottle | Al Ittihad Club](https://shop.ittihadclub.sa/products/الاتحاد-بخط-الدواني-على-زجاجة-ماء): زجاجة ماء الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
-  Updated: 2026-10-30T10:53:12Z
+- [الاتحاد زجاجة ماء بالخط الديواني | المتجر الرسمي](https://shop.ittihadclub.sa/products/الاتحاد-بخط-الدواني-على-زجاجة-ماء): زجاجة ماء الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
+  Updated: 2026-11-03T07:24:34Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadDiwaniFontWaterBottle.png?v=1789377567
   Price: ‏39.00 ر.س.‏ SAR
-- [Alittihad Diwani Font Magnet | Al Ittihad Club](https://shop.ittihadclub.sa/products/الاتحاد-بخط-الدواني-مغناطيس): مغناطيس الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
-  Updated: 2026-10-30T11:13:01Z
+- [الاتحاد مغناطيس بالخط الديواني | المتجر الرسمي](https://shop.ittihadclub.sa/products/الاتحاد-بخط-الدواني-مغناطيس): مغناطيس الاتحاد بخط الدواني - منتج رسمي من نادي الاتحاد، لون أسود.
+  Updated: 2026-11-03T12:21:56Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadDiwaniFontMagnet_f947f6fe-565a-4ec0-ba71-78291b3fdc18.png?v=1789377480
   Price: ‏10.00 ر.س.‏ SAR
-- [Shield Crest Graphic Black Notebook | Al Ittihad Club](https://shop.ittihadclub.sa/products/مفكرة-مطبوع-عليه-شعار-الدرع): مفكرة سوداء بشعار درع نادي الاتحاد - منتج رسمي أنيق للاستخدام اليومي. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:14Z
+- [الاتحاد مفكرة سوداء بشعار الدرع | المتجر الرسمي](https://shop.ittihadclub.sa/products/مفكرة-مطبوع-عليه-شعار-الدرع): مفكرة سوداء بشعار درع نادي الاتحاد - منتج رسمي أنيق للاستخدام اليومي. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:49Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/ShieldCrestGraphicBlackNotebook.png?v=1789373571
   Price: ‏29.00 ر.س.‏ SAR
-- [Retro Abstract Logo Black Water Bottle | Al Ittihad Club](https://shop.ittihadclub.sa/products/شعار-الاتحاد-الكلاسيكي-على-زجاجة-ماء): زجاجة ماء بشعار الاتحاد الكلاسيكي - منتج رسمي أنيق للاستخدام اليومي. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T19:37:16Z
+- [الاتحاد زجاجة ماء سوداء بالشعار الكلاسيكي | المتجر الرسمي](https://shop.ittihadclub.sa/products/شعار-الاتحاد-الكلاسيكي-على-زجاجة-ماء): زجاجة ماء بشعار الاتحاد الكلاسيكي - منتج رسمي أنيق للاستخدام اليومي. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:43Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/RetroAbstractLogoBlackWaterBottle.png?v=1789378537
   Price: ‏39.00 ر.س.‏ SAR
-- [Retro Logo with Kufi Font Black Notebook | Al Ittihad Club](https://shop.ittihadclub.sa/products/مفكرة-شعار-كلاسيكي-بخط-كوفي): مفكرة سوداء بشعار الاتحاد الكلاسيكي بخط كوفي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:16Z
+- [الاتحاد مفكرة شعار كلاسيكي بالخط الكوفي | المتجر الرسمي](https://shop.ittihadclub.sa/products/مفكرة-شعار-كلاسيكي-بخط-كوفي): مفكرة سوداء بشعار الاتحاد الكلاسيكي بخط كوفي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:41Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/RetrologowithKufifontBlackNotebook.png?v=1789372311
   Price: ‏29.00 ر.س.‏ SAR
-- [Retro Logo with Kufi Font Black Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/ميدالية-شعار-كلاسيكي-بخط-كوفي): ميدالية مفاتيح بشعار الاتحاد الكلاسيكي بخط كوفي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:16Z
+- [الاتحاد ميدالية شعار كلاسيكي بالخط الكوفي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-شعار-كلاسيكي-بخط-كوفي): ميدالية مفاتيح بشعار الاتحاد الكلاسيكي بخط كوفي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:36Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/RetrologowithKufifontBlackKeychain.png?v=1789372269
   Price: ‏15.00 ر.س.‏ SAR
-- [Wave Poster Graphic Mug | Al Ittihad Club](https://shop.ittihadclub.sa/products/كوب-مطبوع-عليه-ملصق-موجة-أسود): كوب بتصميم موجة أسود من نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-31T00:29:16Z
+- [الاتحاد كوب أسود بملصق الموجة | المتجر الرسمي](https://shop.ittihadclub.sa/products/كوب-مطبوع-عليه-ملصق-موجة-أسود): كوب بتصميم موجة أسود من نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-05T12:00:42Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/WavePosterGraphicMug__1.png?v=1789376655
   Price: ‏25.00 ر.س.‏ SAR
-- [Alittihad Club Location Graphic Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/ميدالية-موقع-نادي-الاتحاد-جرافك): ميدالية مفاتيح بموقع نادي الاتحاد بتصميم جرافيكي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:14Z
+- [الاتحاد ميدالية موقع النادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-موقع-نادي-الاتحاد-جرافك): ميدالية مفاتيح بموقع نادي الاتحاد بتصميم جرافيكي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-04T15:00:06Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadClublocationGraphicKeychain.png?v=1789377182
   Price: ‏15.00 ر.س.‏ SAR
-- [Alittihad Club Location Graphic Notebook | Al Ittihad Club](https://shop.ittihadclub.sa/products/مفكرة-موقع-نادي-الاتحاد-جرافك): مفكرة بموقع نادي الاتحاد بتصميم جرافيكي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:17Z
+- [الاتحاد مفكرة موقع النادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/مفكرة-موقع-نادي-الاتحاد-جرافك): مفكرة بموقع نادي الاتحاد بتصميم جرافيكي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:31Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadClublocationGraphicNotebook.png?v=1789377294
   Price: ‏29.00 ر.س.‏ SAR
 - [Alittihad Club Location Graphic Mug | Al Ittihad Club](https://shop.ittihadclub.sa/products/كوب-موقع-نادي-الاتحاد-جرافك): كوب بموقع نادي الاتحاد بتصميم جرافيكي - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:17Z
+  Updated: 2026-11-05T19:17:02Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/AlittihadClublocationGraphicMug_b726f227-ca41-415f-bf26-3672abd2f57a.png?v=1789377238
   Price: ‏25.00 ر.س.‏ SAR
-- [Al-Ittihad Club Gate Keychain | Al Ittihad Club](https://shop.ittihadclub.sa/products/ميدالية-بوابة-نادي-الاتحاد): ميدالية مفاتيح بوابة نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-31T00:29:15Z
+- [الاتحاد ميدالية بوابة النادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/ميدالية-بوابة-نادي-الاتحاد): ميدالية مفاتيح بوابة نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T13:00:47Z
   Vendor: Hafiz
   Product Type: إكسسوارات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Al-ittihadClubGateKeychain.png?v=1789377029
   Price: ‏15.00 ر.س.‏ SAR
-- [Al-Ittihad Club Gate Backpack | Al Ittihad Club](https://shop.ittihadclub.sa/products/حقيبة-ظهر-بوابة-الاتحاد): حقيبة ظهر بتصميم بوابة نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
-  Updated: 2026-10-30T10:53:15Z
+- [الاتحاد حقيبة ظهر بوابة النادي | المتجر الرسمي](https://shop.ittihadclub.sa/products/حقيبة-ظهر-بوابة-الاتحاد): حقيبة ظهر بتصميم بوابة نادي الاتحاد - منتج رسمي أنيق. مقاس موحد، مناسب للجميع.
+  Updated: 2026-11-03T07:24:52Z
   Vendor: Hafiz
   Product Type: حقائب
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Al-ittihadClubGateBackpack.png?v=1789376887
   Price: ‏99.00 ر.س.‏ SAR
 - [كاب نادي الاتحاد EST.1927 أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/كاب-نادي-الاتحاد-est-1927-أسود): كاب نادي الاتحاد الرسمي إصدار EST.1927 باللون الأسود - منتج رسمي من متجر نادي الاتحاد.
-  Updated: 2026-10-29T14:08:23Z
+  Updated: 2026-11-03T12:19:04Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
@@ -2108,21 +2050,21 @@
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/20260621_093711400_iOS.png?v=1782378757
   Price: ‏79.00 ر.س.‏ SAR
 - [كاب أسود نادي الشعب | المتجر الرسمي](https://shop.ittihadclub.sa/products/the-peoples-club-black-cap): Rep Al Ittihad with The People's Club Black Cap. A premium cap for true fans who carry the club's spirit everywhere they go.
-  Updated: 2026-10-30T00:22:02Z
+  Updated: 2026-11-05T07:48:17Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Image_3_56e4acdc-0f75-47fb-b2ce-adcd9f88ec24.jpg?v=1782378677
   Price: ‏79.00 ر.س.‏ SAR
 - [كاب Not Like Us الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/not-like-us-black-cap): Stand out with the Not Like Us Black Cap by Al Ittihad. A bold statement piece for fans who know they're different. Shop now.
-  Updated: 2026-10-30T19:42:45Z
+  Updated: 2026-11-04T08:31:36Z
   Vendor: 19 Agency
   Product Type: قبعات
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Image_ba14ce7e-d131-4835-ba11-599790eb242a.jpg?v=1789381263
   Price: ‏79.00 ر.س.‏ SAR
 - [تيشيرت تشكيلة فريق الاتحاد أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/alittihad-squad-formation-black-shirt): تشكيلة فريق الاتحاد تيشيرت أسود - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL. اطلب الآن من المتجر الرسمي لنادي الاتحاد.
-  Updated: 2026-10-30T21:27:15Z
+  Updated: 2026-10-31T12:26:15Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2146,7 +2088,7 @@
     Availability: Available
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت أسود بشعار الدرع | المتجر الرسمي](https://shop.ittihadclub.sa/products/shield-crest-graphic-black-shirt): تيشيرت مطبوع بشعار درع الاتحاد الأيقوني باللون الأسود. تصميم Unisex بجودة عالية، متوفر بمقاسات XS حتى XXL. اطلب الآن.
-  Updated: 2026-10-30T13:29:41Z
+  Updated: 2026-11-02T12:39:06Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2192,7 +2134,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Shield_Crest_Graphic_Beige_Shirt.png?v=1789300609
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت بشعار الاتحاد الكلاسيكي | المتجر الرسمي](https://shop.ittihadclub.sa/products/retro-abstract-logo-black-shirt): تيشيرت أسود بشعار الاتحاد الكلاسيكي - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL. اطلب الآن من المتجر الرسمي لنادي الاتحاد.
-  Updated: 2026-10-30T17:27:26Z
+  Updated: 2026-11-04T19:16:32Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2246,7 +2188,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Retro_Abstract_Logo_baige_Shirt_back_e96d15eb-23fc-4864-9b8a-d5db47e1e105.png?v=1789386826
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت الشعار الكلاسيكي بخط كوفي أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/retro-logo-kufi-font-black-shirt): تيشيرت أسود بشعار كلاسيكي وخط كوفي من نادي الاتحاد - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-30T00:22:07Z
+  Updated: 2026-11-03T15:08:47Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2300,7 +2242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Retro_logo_with_Kufi_font_White_Shirt_back.png?v=1789303020
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت اتي ياموج البحر | المتجر الرسمي](https://shop.ittihadclub.sa/products/wave-poster-graphic-black-shirt): تيشيرت أسود بتصميم ملصق الموجة من نادي الاتحاد - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-30T21:53:40Z
+  Updated: 2026-11-03T21:55:37Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2346,7 +2288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/WhatsApp_Image_2026-09-12_at_1.33.06_AM.jpg?v=1789283116
     Price: ‏149.00 ر.س.‏ SAR
 - [تيشيرت أطفال ياموج البحر | المتجر الرسمي](https://shop.ittihadclub.sa/products/wave-poster-graphic-black-kids-shirt): تيشيرت أطفال أسود بتصميم ملصق الموجة من نادي الاتحاد. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-28T20:58:42Z
+  Updated: 2026-11-06T11:56:56Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2355,7 +2297,7 @@
     Availability: Not Available
     Price: ‏129.00 ر.س.‏ SAR
   - [S](https://shop.ittihadclub.sa/products/wave-poster-graphic-black-kids-shirt?variant=48668350677175)
-    Availability: Not Available
+    Availability: Available
     Price: ‏129.00 ر.س.‏ SAR
   - [M](https://shop.ittihadclub.sa/products/wave-poster-graphic-black-kids-shirt?variant=48668350709943)
     Availability: Available
@@ -2370,7 +2312,7 @@
     Availability: Not Available
     Price: ‏129.00 ر.س.‏ SAR
 - [تيشيرت أطفال نمور آسيا أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/asia-tigers-black-kids-shirt): تيشيرت أطفال أسود بتصميم نمور آسيا من نادي الاتحاد. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-29T16:47:26Z
+  Updated: 2026-11-01T04:46:55Z
   Vendor: Hafiz
   Product Type: تيشيرتات
   Availability: Available
@@ -2379,7 +2321,7 @@
     Availability: Not Available
     Price: ‏129.00 ر.س.‏ SAR
   - [S](https://shop.ittihadclub.sa/products/asia-tigers-black-kids-shirt?variant=48668549152951)
-    Availability: Available
+    Availability: Not Available
     Price: ‏129.00 ر.س.‏ SAR
   - [M](https://shop.ittihadclub.sa/products/asia-tigers-black-kids-shirt?variant=48668549185719)
     Availability: Available
@@ -2418,7 +2360,7 @@
     Availability: Not Available
     Price: ‏129.00 ر.س.‏ SAR
 - [هودي تيفو آورا أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/tifo-aura-black-hoodie): هودي تيفو آورا باللونين الأسود والأصفر من نادي الاتحاد - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-29T22:27:13Z
+  Updated: 2026-11-01T17:24:27Z
   Vendor: Hafiz
   Product Type: هوديز
   Availability: Available
@@ -2442,7 +2384,7 @@
     Availability: Available
     Price: ‏199.00 ر.س.‏ SAR
 - [هودي أسود بشعار Itti متدرج الألوان | المتجر الرسمي](https://shop.ittihadclub.sa/products/gradient-logo-itti-black-hoodie): هودي أسود بشعار Itti متدرج الألوان من نادي الاتحاد - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-27T00:13:13Z
+  Updated: 2026-11-02T11:03:46Z
   Vendor: Hafiz
   Product Type: هوديز
   Availability: Available
@@ -2514,7 +2456,7 @@
     Availability: Available
     Price: ‏199.00 ر.س.‏ SAR
 - [هودي أسود بشعار الاتحاد الكلاسيكي | المتجر الرسمي](https://shop.ittihadclub.sa/products/retro-abstract-logo-black-hoodie): هودي أسود بشعار الاتحاد الكلاسيكي من نادي الاتحاد - Unisex بجودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-27T00:26:47Z
+  Updated: 2026-11-03T19:56:35Z
   Vendor: Hafiz
   Product Type: هوديز
   Availability: Available
@@ -2562,7 +2504,7 @@
     Availability: Not Available
     Price: ‏199.00 ر.س.‏ SAR
 - [بولو الاتحاد أسود | المتجر الرسمي](https://shop.ittihadclub.sa/products/black-polo-shirt): تيشيرت بولو أسود رجالي من نادي الاتحاد - جودة عالية. متوفر بمقاسات XS حتى XXL.
-  Updated: 2026-10-30T15:06:10Z
+  Updated: 2026-11-02T17:56:17Z
   Vendor: Hafiz
   Product Type: بولو
   Availability: Available
@@ -2634,7 +2576,7 @@
     Availability: Not Available
     Price: ‏199.00 ر.س.‏ SAR
 - [شورت رياضي أسود بشعار الاتحاد | المتجر الرسمي](https://shop.ittihadclub.sa/products/sweat-black-short-1logo): شورت رياضي أسود للرجال بشعار نادي الاتحاد. قماش عالي الجودة، تصميم أنيق، متوفر بمقاسات XS حتى XXL. اطلبه الآن من المتجر الرسمي.
-  Updated: 2026-10-26T09:56:16Z
+  Updated: 2026-11-02T17:56:26Z
   Vendor: Hafiz
   Product Type: شورتات
   Availability: Available
@@ -2682,7 +2624,7 @@
     Availability: Not Available
     Price: ‏179.00 ر.س.‏ SAR
 - [اتحادي هودي أسود | Ittihadi Black Hoodie](https://shop.ittihadclub.sa/products/ittihadi-black-hoodie): هودي رياضي أسود للجميع بشعار نادي الاتحاد. قماش عالي الجودة، تصميم أنيق، متوفر بمقاسات XS حتى XXL. اطلبه الآن من المتجر الرسمي.
-  Updated: 2026-10-29T22:27:27Z
+  Updated: 2026-11-04T00:01:57Z
   Vendor: Hafiz
   Product Type: هوديز
   Availability: Available
@@ -2730,7 +2672,7 @@
     Availability: Not Available
     Price: ‏179.00 ر.س.‏ SAR
 - [طقم الاتحاد الأساسي 26/27 أطفال | المتجر الرسمي](https://shop.ittihadclub.sa/products/طقم-الاتحاد-الأساسي-2026-2027-رجال): تسوق الطقم الرسمي لنادي الاتحاد للموسم 2026/2027. متوفر بفئة اللاعبين بـ 599 ريال، فئة الملعب بـ 499 ريال، وفئة الجمهور بـ 199 ريال.
-  Updated: 2026-10-29T14:29:06Z
+  Updated: 2026-11-06T13:32:03Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2751,7 +2693,7 @@
     Availability: Available
     Price: ‏399.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 26/27 نسائي | المتجر الرسمي](https://shop.ittihadclub.sa/products/طقم-الاتحاد-الأساسي-26-27-نسائي): البس ألوان ناديك بفخر واعتزاز. الطقم الرسمي لنادي الاتحاد لموسم 2026/2027 مصنوع بأعلى معايير الجودة، يجمع بين الأناقة والراحة ليرافقك في كل مناسبة.
-  Updated: 2026-10-28T22:21:49Z
+  Updated: 2026-11-07T00:02:37Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2775,7 +2717,7 @@
     Availability: Available
     Price: ‏449.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 26/27 رجالي | المتجر الرسمي](https://shop.ittihadclub.sa/products/طقم-الاتحاد-الأساسي-26-27-رجال): قميص الاتحاد الأساسي الرسمي 2026/2027 — فئة اللاعبين بتقنية Nike Aero-FIT. نفس القميص الذي يرتديه النجوم. اطلبه الآن وشحن سريع داخل المملكة.
-  Updated: 2026-10-30T11:12:51Z
+  Updated: 2026-11-05T17:25:42Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2823,7 +2765,7 @@
     Availability: Not Available
     Price: ‏599.00 ر.س.‏ SAR
 - [قميص الاتحاد الأساسي 26/27 ناشئين | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الأساسي-26-27-ناشئين): تسوق الطقم الرسمي لنادي الاتحاد للموسم 2026/2027. متوفر بفئة اللاعبين بـ 599 ريال، فئة الملعب بـ 499 ريال، وفئة الجمهور بـ 199 ريال.
-  Updated: 2026-10-30T11:12:51Z
+  Updated: 2026-11-06T10:44:36Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2844,7 +2786,7 @@
     Availability: Available
     Price: ‏379.00 ر.س.‏ SAR
 - [طقم الاتحاد الأساسي 26/27 مواليد | المتجر الرسمي](https://shop.ittihadclub.sa/products/طقم-الاتحاد-الأساسي-26-27-مواليد): تسوق الطقم الرسمي لنادي الاتحاد للموسم 2026/2027. متوفر بفئة اللاعبين بـ 599 ريال، فئة الملعب بـ 499 ريال، وفئة الجمهور بـ 199 ريال.
-  Updated: 2026-10-30T10:21:17Z
+  Updated: 2026-11-05T14:35:57Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2862,7 +2804,7 @@
     Availability: Available
     Price: ‏379.00 ر.س.‏ SAR
 - [شورت الاتحاد الأساسي 26/27 ناشئين فئة الملعب](https://shop.ittihadclub.sa/products/شورت-الاتحاد-اطفال-الأساسي-فئة-الملعب-26-27): شورت أساسي للأطفال من نادي الاتحاد - مجموعة فئة الملعب 26/27. راحة وأناقة رياضية بهوية النادي.
-  Updated: 2026-10-29T09:02:16Z
+  Updated: 2026-11-01T11:58:36Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -2883,7 +2825,7 @@
     Availability: Available
     Price: ‏179.00 ر.س.‏ SAR
 - [قميص الاتحاد الاحتياطي 26/27 رجالي | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الاحتياطي-26-27-رجال): اشترِ القميص الاحتياطي الرسمي لنادي الاتحاد موسم 2026/2027. متوفر بفئة اللاعبين وفئة الملعب. تصميم مستوحى من جدة التاريخية — منتج رسمي معتمد من نادي الاتحاد.
-  Updated: 2026-10-29T10:35:27Z
+  Updated: 2026-11-05T12:49:25Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -2928,10 +2870,10 @@
     Availability: Available
     Price: ‏399.00 ر.س.‏ SAR
   - [فئة الملعب / 3XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-الاحتياطي-26-27-رجال?variant=48982568730807)
-    Availability: Not Available
+    Availability: Available
     Price: ‏399.00 ر.س.‏ SAR
 - [شورت الاتحاد الاحتياطي 26/27 رجالي فئة الملعب](https://shop.ittihadclub.sa/products/شورت-الاتحاد-رجالي-الاحتياطي-فئة-الملعب-26-27): شورت الاتحاد الرجالي للموسم 2026/2027 - الطقم الاحتياطي فئة الملعب. متوفر بمقاسات XS، S، M، L، XL، 2XL، 3XL.
-  Updated: 2026-10-30T22:52:25Z
+  Updated: 2026-11-01T07:49:26Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -2958,7 +2900,7 @@
     Availability: Available
     Price: ‏199.00 ر.س.‏ SAR
 - [شورت الاتحاد الأساسي 26/27 رجالي | المتجر الرسمي](https://shop.ittihadclub.sa/products/شورت-الاتحاد-رجالي-الأساسي-26-27): شورت الاتحاد الرجالي الأساسي لموسم 26/27 — قماش خفيف ومريح بتصميم يعكس هوية النادي. اطلبه الآن من المتجر الرسمي.
-  Updated: 2026-10-28T22:21:44Z
+  Updated: 2026-11-02T07:41:06Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -2985,7 +2927,7 @@
     Availability: Available
     Price: ‏199.00 ر.س.‏ SAR
 - [قميص الاتحاد الاحتياطي 26/27 نسائي | المتجر الرسمي](https://shop.ittihadclub.sa/products/قميص-نادي-الاتحاد-الرسمي-للسيدات-الاحتياطي-26-27): قميص نادي الاتحاد الرسمي للسيدات من نايك دراي-فيت - الاحتياطي 26/27
-  Updated: 2026-10-29T18:39:06Z
+  Updated: 2026-11-04T16:51:44Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -3009,7 +2951,7 @@
     Availability: Available
     Price: ‏399.00 ر.س.‏ SAR
 - [قميص الاتحاد الاحتياطي 26/27 ناشئين | المتجر الرسمي](https://shop.ittihadclub.sa/products/قميص-نادي-الاتحاد-الرسمي-للأطفال-الاحتياط): قميص نادي الاتحاد الرسمي للأطفال من نايك دراي-فيت - طقم الاحتياط
-  Updated: 2026-10-29T11:55:57Z
+  Updated: 2026-11-04T07:35:05Z
   Vendor: Nike
   Product Type: قمصان
   Availability: Available
@@ -3030,7 +2972,7 @@
     Availability: Available
     Price: ‏379.00 ر.س.‏ SAR
 - [شورت الاتحاد نايك دراي-فيت أكاديمي برو | المتجر الرسمي](https://shop.ittihadclub.sa/products/شورت-الاتحاد-نايك-دراي-فيت-أكاديمي-برو): شورت الاتحاد نايك دراي-فيت أكاديمي برو للرجال - قماش تقني خفيف ومريح للتدريب
-  Updated: 2026-10-28T23:50:01Z
+  Updated: 2026-11-01T09:05:23Z
   Vendor: Nike
   Product Type: شورتات
   Availability: Available
@@ -3057,7 +2999,7 @@
     Availability: Available
     Price: ‏179.00 ر.س.‏ SAR
 - [بنطلون الاتحاد نايك دراي-فيت أكاديمي برو](https://shop.ittihadclub.sa/products/بنطلون-الاتحاد-نايك-دراي-فيت-أكاديمي-برو): بنطلون الاتحاد نايك دراي-فيت أكاديمي برو للرجال - قماش تقني خفيف ومريح للتدريب
-  Updated: 2026-10-30T11:43:55Z
+  Updated: 2026-11-01T07:36:55Z
   Vendor: Nike
   Product Type: بناطيل
   Availability: Available
@@ -3077,238 +3019,292 @@
   - [2XL](https://shop.ittihadclub.sa/products/بنطلون-الاتحاد-نايك-دراي-فيت-أكاديمي-برو?variant=49047680024759)
     Availability: Available
     Price: ‏329.00 ر.س.‏ SAR
-[List Continued](https://shop.ittihadclub.sa/a/llms-agent/llms.txt?shop=al-ittihad-club.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMwMzk1MjQ2Nzc1LCJsYXN0X3ZhbHVlIjoiODczMDM5NTI0Njc3NSJ9)
+- [تيشيرت الاتحاد نايك دراي-فيت ستريك دريل](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل): تيشيرت الاتحاد نايك دراي-فيت ستريك دريل للرجال - قماش تقني خفيف ومريح للتدريب
+  Updated: 2026-11-06T12:49:37Z
+  Vendor: Nike
+  Product Type: تيشيرتات
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/IMG_6544_5247322a-c62a-44b3-a37e-fa90d40d4922.png?v=1788447609
+  - [XS](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695786167)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [S](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695818935)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [M](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695851703)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [L](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695884471)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695917239)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [2XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695950007)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+  - [3XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-دريل?variant=49047695982775)
+    Availability: Available
+    Price: ‏379.00 ر.س.‏ SAR
+- [تيشيرت الاتحاد نايك 26/27 بدون أكمام | المتجر الرسمي](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة): تيشيرت الاتحاد نايك دراي-فيت ستريك بأكمام طويلة للرجال - قماش تقني خفيف ومريح
+  Updated: 2026-11-04T20:40:32Z
+  Vendor: Nike
+  Product Type: تيشيرتات
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0678/0597/0615/files/Image_30.jpg?v=1788347178
+  - [XS](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699718327)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [S](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699751095)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [M](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699783863)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [L](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699816631)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699849399)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [2XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699882167)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+  - [3XL](https://shop.ittihadclub.sa/products/تيشيرت-الاتحاد-نايك-دراي-فيت-ستريك-بأكمام-طويلة?variant=49047699914935)
+    Availability: Available
+    Price: ‏249.00 ر.س.‏ SAR
+[List Continued](https://shop.ittihadclub.sa/a/llms-agent/llms.txt?shop=al-ittihad-club.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzMwNDEzNDMzMDE1LCJsYXN0X3ZhbHVlIjoiODczMDQxMzQzMzAxNSJ9)
 
 ## Collections
 
 - [جميع الأطقم](https://shop.ittihadclub.sa/collections/kits): تسوّق جميع أطقم نادي الاتحاد الرسمية: الأساسي والاحتياطي والثالث. نايك أصلي 100% مع طباعة الاسم والرقم. شحن مجاني فوق 200 ر.س وتقسيط مع تابي وتمارا.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 29
 - [التدريب](https://shop.ittihadclub.sa/collections/training): ملابس تدريب نادي الاتحاد الرسمية — جاكيتات، بناطيل، وتيشيرتات نايك Dri-FIT. نفس ما يرتديه اللاعبون. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 21
 - [الاكسسوارات](https://shop.ittihadclub.sa/collections/accessories): تسوق إكسسوارات نادي الاتحاد الرسمية — شنط، أعلام، أكواب، شالات، وهدايا رسمية. منتجات أصلية 100%. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 92
 - [Digital Goods VAT Tax](https://shop.ittihadclub.sa/collections/digital-goods-vat-tax)
   Updated: 2026-10-21T11:19:18Z
   Total Products: 0
 - [نسائي](https://shop.ittihadclub.sa/collections/نسائي): أطقم نادي الاتحاد النسائية الرسمية: القميص الأساسي والاحتياطي 26/27 والشورت بقصة نسائية من نايك، مقاسات XS-XL. أصلية 100% وشحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 7
 - [رجال](https://shop.ittihadclub.sa/collections/رجالي): أطقم وملابس نادي الاتحاد للرجال: الطقم الأساسي والاحتياطي 26/27، تيشيرتات، هوديز، جاكيتات وشورتات نايك الأصلية. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 72
 - [قسم الاطفال](https://shop.ittihadclub.sa/collections/اطفال): أطقم نادي الاتحاد للأطفال الرسمية — تيشيرتات وشورتات نايك بمقاسات 4-14 سنة. هدية مثالية لصغار المشجعين. أصلية 100%.
-  Updated: 2026-10-30T11:46:58Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 29
 - [تخفيضات](https://shop.ittihadclub.sa/collections/تخفيضات): تسوق تخفيضات المتجر الرسمي لنادي الاتحاد — خصومات حتى 70% على الأطقم، ملابس التدريب، والإكسسوارات. كميات محدودة.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 182
 - [الطقم الاساسي 25/26](https://shop.ittihadclub.sa/collections/25-26-القميص-الاساسي): طقم نادي الاتحاد الأساسي الجديد 25/26 — فئة اللاعبين، الملعب، والجمهور. نايك Dri-FIT أصلي 100%. اطلب الآن!
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 12
 - [مجموعة المشجع الاساسية](https://shop.ittihadclub.sa/collections/ملابس): كل ما يحتاجه مشجع الاتحاد في مكان واحد — أطقم، إكسسوارات، وهدايا رسمية. شحن مجاني داخل المملكة.
-  Updated: 2026-10-30T11:46:58Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 23
 - [ناشئين](https://shop.ittihadclub.sa/collections/ناشئين): أطقم الاتحاد للناشئين - مقاسات الشباب من 12-18 سنة. تيشيرتات أصلية بجودة اللاعبين. نايك Dri-FIT. شحن سريع
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 12
 - [مواليد](https://shop.ittihadclub.sa/collections/baby-مواليد): أطقم الاتحاد للمواليد - مقاسات 3-24 شهر. ألبسي طفلك ألوان النمور من الصغر! هدية مثالية للمولود الجديد
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 2
 - [25/26 جميع منتجات](https://shop.ittihadclub.sa/collections/25-26): تسوق جميع منتجات نادي الاتحاد الرسمية لموسم 25/26 — أطقم أساسي واحتياطي وثالث، ملابس تدريب وإكسسوارات. نايك أصلي 100%.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 41
 - [الطقم الاحتياطي 25/26](https://shop.ittihadclub.sa/collections/away-25-26): طقم نادي الاتحاد الاحتياطي 25/26 — تصميم أسود أنيق للموسم الجديد. نايك Dri-FIT أصلي 100%. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 9
 - [الأوشحة والأعلام](https://shop.ittihadclub.sa/collections/شالات): شالات الاتحاد الرسمية - ارفع شالك في المدرجات! تصاميم مميزة بألوان النادي. هدية مثالية لمشجعي النمور
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-03T12:14:19Z
   Total Products: 12
 - [مجموعة اكواب](https://shop.ittihadclub.sa/collections/mugs): أكواب الاتحاد الرسمية - ابدأ يومك مع النمور! مجات بتصاميم مميزة وشعار النادي. هدية مثالية للمشجعين
   Updated: 2026-10-23T11:31:53Z
   Total Products: 5
 - [مجموعة تصاميم 25/26](https://shop.ittihadclub.sa/collections/25-26-graphics-collection): مجموعة جرافيكس الاتحاد 25/26 — تيشيرتات كاجوال بتصاميم مميزة للاستخدام اليومي خارج الملعب. منتجات أصلية 100%.
-  Updated: 2026-10-30T11:46:58Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 16
 - [اعلام](https://shop.ittihadclub.sa/collections/اعلام): أعلام الاتحاد الرسمية - ارفع راية النمور! أعلام بأحجام متعددة للمنزل والسيارة والمدرجات. منتجات أصلية
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-03T12:14:19Z
   Total Products: 6
 - [طقم حارس الاتحاد 25/26](https://shop.ittihadclub.sa/collections/goalkeeper): طقم حارس نادي الاتحاد الرسمي 25/26 — تصميم مميز للبطل. نايك Dri-FIT أصلي 100%. شحن مجاني فوق 200 ر.س.
   Updated: 2026-10-30T08:03:03Z
   Total Products: 3
 - [مجموعة الإرث المستدام](https://shop.ittihadclub.sa/collections/fc88-1): مجموعة الإرث المستدام من نادي الاتحاد — تصميم تراثي فاخر يجمع بين الأصالة والاستدامة. اطلب الآن.
-  Updated: 2026-10-27T11:15:21Z
+  Updated: 2026-11-02T12:14:47Z
   Total Products: 5
 - [الطقم الثالث 25/26](https://shop.ittihadclub.sa/collections/الطقم-الثالث-25-26): طقم نادي الاتحاد الثالث 25/26 — تصميم حصري وفريد للمناسبات الخاصة. نايك أصلي. إصدار محدود — اطلب الآن!
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 10
 - [شنط](https://shop.ittihadclub.sa/collections/bags): تسوّق حقائب نادي الاتحاد الرسمية: حقائب رياضية وحقائب سفر وحقائب يومية بهوية النادي الأصلية. شحن مجاني للطلبات التي تزيد عن 200 ريال سعودي.
-  Updated: 2026-10-27T11:15:21Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 11
 - [هدايا](https://shop.ittihadclub.sa/collections/gifts): اعثر على الهدية المثالية من نادي الاتحاد. أوشحة وأكواب وميداليات مفاتيح ودبابيس وغيرها، مثالية لكل مشجع للنمور. شحن سريع داخل السعودية ودول الخليج.
-  Updated: 2026-10-28T12:02:04Z
+  Updated: 2026-11-03T12:14:19Z
   Total Products: 9
 - [كاجول](https://shop.ittihadclub.sa/collections/casual): تسوّق ملابس نادي الاتحاد الكاجوال: تيشيرتات وهوديات وملابس لايف ستايل يومية لمشجعي النمور. تصاميم أصلية للنادي للاستخدام اليومي في السعودية ودول الخليج.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 6
 - [مجموعة باك تو باك](https://shop.ittihadclub.sa/collections/back-to-back): احتفل بلقبي دوري روشن السعودي المتتاليين لنادي الاتحاد مع منتجات تذكارية حصرية. تسوّق المجموعة الرسمية.
   Updated: 2026-10-25T11:17:53Z
   Total Products: 6
 - [مجموعة مارس](https://shop.ittihadclub.sa/collections/new-drop): Be first to shop the latest Ittihad FC drops — new kits, apparel & accessories added regularly. Fast shipping across Saudi Arabia & GCC.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 42
 - [مجموعة نايكي × الاتحاد](https://shop.ittihadclub.sa/collections/nike-ittihad-collection): اكتشف مجموعة نايك × الاتحاد الرسمية. أطقم مباريات وملابس تدريب عالية الأداء صُممت خصيصاً للنمور. تسوّق الآن.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-02T12:14:47Z
   Total Products: 9
 - [تيشيرتات](https://shop.ittihadclub.sa/collections/t-shirts): تسوّق تيشيرتات نادي الاتحاد الرسمية: تصاميم جماهيرية وتيفو وتيشيرتات نايك 26/27 للرجال والنساء والأطفال. أصلية 100% وشحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T17:12:52Z
-  Total Products: 53
+  Updated: 2026-11-05T12:13:50Z
+  Total Products: 54
 - [شورتات وبناطيل رياضية](https://shop.ittihadclub.sa/collections/shorts-joggers): تسوق شورتات وبناطيل نادي الاتحاد الرسمية — نايك Dri-FIT للتدريب والاستخدام اليومي. أصلية 100%. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T11:56:47Z
   Total Products: 22
 - [هوديز وجاكيتات](https://shop.ittihadclub.sa/collections/hoodies-jackets): تسوق هوديز وجاكيتات نادي الاتحاد الرسمية — نايك Dri-FIT وFleece أصلية للرجال والنساء والأطفال. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T17:12:52Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 25
 - [الأطقم](https://shop.ittihadclub.sa/collections/jerseys): تسوّق أطقم نادي الاتحاد الرسمية: الأساسي والاحتياطي 26/27 وأطقم 25/26 للرجال والنساء والأطفال. نايك أصلي 100%، طباعة الاسم والرقم، وشحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 29
 - [ما وصل حديثاً](https://shop.ittihadclub.sa/collections/new-arrivals): أحدث منتجات المتجر الرسمي لنادي الاتحاد: أطقم 26/27 الجديدة، تيشيرتات، هوديز وإكسسوارات. كن أول من يقتنيها. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T17:12:52Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 332
 - [ساعات Nuun](https://shop.ittihadclub.sa/collections/nuun-watches): تسوّق مجموعة ساعات Nuun الحصرية من نادي الاتحاد. ساعات بإصدار محدود صُنعت لمشجعي النمور الحقيقيين. منتجات رسمية من النادي.
   Updated: 2026-10-28T12:02:04Z
   Total Products: 4
 - [مجموعة ريترو](https://shop.ittihadclub.sa/collections/retro-collections): احتفل بإرث نادي الاتحاد مع أطقم مستوحاة من الطراز الريترو وملابس تراثية. تصاميم كلاسيكية لمشجعي النمور الحقيقيين.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 10
 - [المجموعة الأساسية](https://shop.ittihadclub.sa/collections/essential-collections): تسوّق أساسيات نادي الاتحاد: ملابس يومية للمشجعين وتيشيرتات وإكسسوارات. منتجات النادي عالية الجودة لمشجعي النمور في السعودية ودول الخليج.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T11:56:50Z
   Total Products: 18
 - [مجموعة بلاك آوت](https://shop.ittihadclub.sa/collections/blackout-collections): اكتشف إصدار بلاك آوت من نادي الاتحاد: ملابس وإكسسوارات سوداء بالكامل بتصميم جريء لأكثر مشجعي النمور إخلاصاً.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T11:56:49Z
   Total Products: 13
 - [جميع المنتجات](https://shop.ittihadclub.sa/collections/all-products): تصفح متجر نادي الاتحاد الكامل: الأطقم والساعات والملابس الكاجوال والإكسسوارات وغيرها. منتجات أصلية 100%. شحن سريع داخل السعودية ودول الخليج.
-  Updated: 2026-10-30T17:12:52Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 334
 - [منتجات الاتحاد](https://shop.ittihadclub.sa/collections/wiser-ai-collection-do-not-delete)
-  Updated: 2026-10-30T17:12:52Z
-  Total Products: 322
+  Updated: 2026-11-06T21:30:48Z
+  Total Products: 330
 - [أكمل طقمك](https://shop.ittihadclub.sa/collections/wiser-ai-featured-products)
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T11:56:47Z
   Total Products: 15
 - [إكسسوارات مقترحة](https://shop.ittihadclub.sa/collections/wiser-ai-accessories-cart-page)
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T21:30:48Z
   Total Products: 92
 - [قبعات](https://shop.ittihadclub.sa/collections/caps): تسوّق كاب نادي الاتحاد الرسمي. تصاميم أصيلة بشعار النادي وجودة عالية. شحن سريع لجميع مناطق المملكة والخليج.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 13
 - [كرات نادي الاتحاد](https://shop.ittihadclub.sa/collections/كرات-نادي-الاتحاد): كرات نادي الاتحاد — حيث تلتقي الروح الرياضية بهوية النادي الأصيلة. اكتشف تشكيلتنا الحصرية من الكرات الرسمية، المصممة لكل من يعيش لحظات الملعب ويقتني إرث الأصفر والأسود.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-03T12:14:19Z
   Total Products: 7
 - [الطقم الاساسي 26/27](https://shop.ittihadclub.sa/collections/الطقم-الاساسي-27-26): تسوّق قميص الاتحاد الأساسي 26/27 الرسمي من نايك: رجالي، نسائي، ناشئين وأطفال. فئة الملعب واللاعبين مع طباعة الاسم والرقم. شحن مجاني فوق 200 ر.س.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [مجموعة كرة السلة](https://shop.ittihadclub.sa/collections/basketball-collection): كل ما يحتاجه عشاق كرة السلة في مكان واحد. تضم هذه المجموعة أفضل منتجات نادي الاتحاد المخصصة لمحبي اللعبة، من الملابس الرسمية إلى الإكسسوارات التي تحمل ألوان النادي بفخر داخل الملعب وخارجه.
   Updated: 2026-10-24T11:16:49Z
   Total Products: 2
 - [فئة اللاعبين](https://shop.ittihadclub.sa/collections/فئة-اللاعبين): فئة اللاعبين "الطقم الرسمي بأعلى مواصفات — حصري للمحترفين."
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 6
 - [فئة الملعب](https://shop.ittihadclub.sa/collections/فئة-الملعب): فئة الملعب "تجربة كاملة بجودة تليق بيوم المباراة."
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 14
 - [فئة الجمهور](https://shop.ittihadclub.sa/collections/فئة-الجمهور): فئة الجمهور "كل ما يحتاجه المشجع ليُعلن انتماءه بفخر."
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T11:56:46Z
   Total Products: 6
 - [الطقم الاحتياطي 26/27](https://shop.ittihadclub.sa/collections/away-26-27): تسوّق الطقم الاحتياطي الرسمي 26/27 لنادي الاتحاد من نايك. قمصان وشورتات أصلية للرجال والنساء والناشئين. شحن مجاني للطلبات فوق 200 ريال.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-05T12:13:50Z
   Total Products: 6
 - [تسوق حسب اللاعب](https://shop.ittihadclub.sa/collections/shop-by-player): تسوّق قمصان الاتحاد حسب اللاعب. اختر نجمك المفضل من النمور، وأضف طباعة الاسم والرقم الرسمية، والبس قميص الفريق.
   Updated: 2026-10-30T06:44:14Z
   Total Products: 0
 - [دبابيس](https://shop.ittihadclub.sa/collections/pins-keychains): دبابيس وميداليات مفاتيح رسمية بشعار نادي الاتحاد. مقتنيات صغيرة وهدايا سهلة تناسب كل اتحادي. أضفها لطلبك واقترب من الشحن المجاني.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-04T12:11:53Z
   Total Products: 15
 - [Staff ](https://shop.ittihadclub.sa/collections/full-price-staff-): Full price products eligible for the Ittihad staff .
-  Updated: 2026-10-30T17:12:52Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 148
 - [مجموعة جمهور الذهب](https://shop.ittihadclub.sa/collections/مجموعة-جمهور-الذهب): مجموعة جمهور الذهب من نادي الاتحاد. تيشيرتات وهوديز وشورتات رسمية للجمهور الذي لا يغيب عن أي مباراة.
-  Updated: 2026-10-30T17:12:52Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 91
 - [تصفية أطقم موسم 25/26](https://shop.ittihadclub.sa/collections/25-26-season-kits-): أطقم الاتحاد الرسمية لموسم 25/26، الأساسي والاحتياطي والثالث، بأسعار التصفية. منتجات نايك أصلية حتى نفاد الكمية.
-  Updated: 2026-10-30T15:27:01Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 33
 - [الطقم الثالث 26/27](https://shop.ittihadclub.sa/collections/third-kit-26-27): تسوق مجموعة الطقم الثالث لنادي الاتحاد لموسم 2026/2027.
   Updated: 2026-10-16T11:21:37Z
   Total Products: 0
 - [أكمل طقمك 26/27](https://shop.ittihadclub.sa/collections/أكمل-طقمك-26-27)
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-03T12:14:18Z
   Total Products: 5
 - [WELCOME10 - Full-price products](https://shop.ittihadclub.sa/collections/welcome10-full-price-products)
   Updated: 2026-10-21T11:19:46Z
   Total Products: 0
 - [يوسف النصيري](https://shop.ittihadclub.sa/collections/player-en-nesyri): تسوّق قميص يوسف النصيري رقم 21 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [بريدراغ رايكوفيش](https://shop.ittihadclub.sa/collections/player-rajkovic): تسوّق قميص بريدراغ رايكوفيش رقم 1 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [محمد العبسي](https://shop.ittihadclub.sa/collections/player-al-absi): تسوّق قميص محمد العبسي رقم 50 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [أسامة المرمش](https://shop.ittihadclub.sa/collections/player-al-mermesh): تسوّق قميص أسامة المرمش رقم 88 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [دانيلو بيريرا](https://shop.ittihadclub.sa/collections/player-danilo-pereira): تسوّق قميص دانيلو بيريرا رقم 2 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [يان كارلو سيميتش](https://shop.ittihadclub.sa/collections/player-simic): تسوّق قميص يان كارلو سيميتش رقم 4 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [سعد الموسى](https://shop.ittihadclub.sa/collections/player-al-mousa): تسوّق قميص سعد الموسى رقم 6 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [مهند الشنقيطي](https://shop.ittihadclub.sa/collections/player-al-shanqiti): تسوّق قميص مهند الشنقيطي رقم 13 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [حسن كادش](https://shop.ittihadclub.sa/collections/player-kadesh): تسوّق قميص حسن كادش رقم 15 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [أحمد شراحيلي](https://shop.ittihadclub.sa/collections/player-sharahili): تسوّق قميص أحمد شراحيلي رقم 20 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [فارس عابدي](https://shop.ittihadclub.sa/collections/player-abdi): تسوّق قميص فارس عابدي رقم 25 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [أحمد الجليدان](https://shop.ittihadclub.sa/collections/player-al-julaydan): تسوّق قميص أحمد الجليدان رقم 32 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [معاذ فقيهي](https://shop.ittihadclub.sa/collections/player-faqihi): تسوّق قميص معاذ فقيهي رقم 42 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [محمد برناوي](https://shop.ittihadclub.sa/collections/player-barnawi): تسوّق قميص محمد برناوي رقم 66 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [ريتشارد ريوس](https://shop.ittihadclub.sa/collections/player-rios): تسوّق قميص ريتشارد ريوس رقم 5 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [مختار علي](https://shop.ittihadclub.sa/collections/player-mukhtar-ali): تسوّق قميص مختار علي رقم 8 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [حسام عوار](https://shop.ittihadclub.sa/collections/player-aouar): تسوّق قميص حسام عوار رقم 10 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [محمدو دومبيا](https://shop.ittihadclub.sa/collections/player-doumbia): تسوّق قميص محمدو دومبيا رقم 17 الرسمي من متجر نادي الاتحاد – طقم 26/27 باسم ورقم لاعبك المفضل.
-  Updated: 2026-10-30T11:15:17Z
-  Total Products: 9
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 8
 - [26/27 الطقم الثالث](https://shop.ittihadclub.sa/collections/third-kit)
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-06T12:12:48Z
   Total Products: 4
 - [Full Price](https://shop.ittihadclub.sa/collections/full-price)
-  Updated: 2026-10-30T17:12:52Z
-  Total Products: 159
+  Updated: 2026-11-06T12:12:48Z
+  Total Products: 167
 
 ## Blogs
 
