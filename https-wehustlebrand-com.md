@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-10-21T13:38:24Z
 - Contact Email: dario@wehustlebrand.com
-- Updated At: 2026-10-31T00:30:15.778Z
+- Updated At: 2026-11-07T00:31:52.104Z
 
 ## Products
 
@@ -571,7 +571,7 @@
     Availability: Available
     Price: $159.00 USD
 - [BLACK IS NEW ORANGE — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/black-is-new-orange-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-19T06:10:37Z
+  Updated: 2026-11-02T13:53:26Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -780,7 +780,7 @@
     Availability: Available
     Price: $159.00 USD
 - [WELCOME TO MIAMI — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/welcome-to-miami-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-25T21:20:29Z
+  Updated: 2026-11-05T20:36:36Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -846,7 +846,7 @@
     Availability: Available
     Price: $259.00 USD
 - [MIAMI BABY — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/miami-baby-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-20T03:04:13Z
+  Updated: 2026-11-05T20:36:35Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -912,7 +912,7 @@
     Availability: Available
     Price: $259.00 USD
 - [SCAR CITY — Men's Satin Co-ord Set | Cuban Collar Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/scar-city-set): Men's satin co-ord set: Cuban-collar shirt + matching trousers in breathability-tested Japanese poly satin. Exclusive print, limited to 100 pieces. Ships worldwide duty paid.
-  Updated: 2026-10-19T06:07:00Z
+  Updated: 2026-11-06T13:41:26Z
   Vendor: Wehustlebrand.com
   Product Type: SETS
   Availability: Available
@@ -1385,7 +1385,7 @@
     Availability: Available
     Price: $159.00 USD
 - [DOLCE VITA — Women's Satin Co-ord Set | Matching Shirt & Trousers | HUSTLE](https://wehustlebrand.com/products/dolce-vita-womens-set): Women's satin co-ord set — matching shirt & high-waist trousers in Japanese poly satin. The her-half of HUSTLE his & hers sets. Limited to 100 pieces per print.
-  Updated: 2026-10-18T17:39:02Z
+  Updated: 2026-11-05T05:19:57Z
   Vendor: Wehustlebrand.com
   Product Type: Sets
   Availability: Available
@@ -1400,7 +1400,7 @@
     Availability: Available
     Price: $159.00 USD
 - [DOLCE VITA — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/dolce-vita-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-19T12:45:01Z
+  Updated: 2026-11-01T00:27:22Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1433,7 +1433,7 @@
     Availability: Available
     Price: $139.00 USD
 - [DOLCE VITA — Men's Satin Shirt & Swim Short Set | Matching Beach Set | HUSTLE](https://wehustlebrand.com/products/dolce-vita-mens-set-shirt-swim): Men's matching shirt & swim short set — Cuban-collar satin shirt + quick-dry printed swim shorts. The beach club co-ord. Ships worldwide duty paid.
-  Updated: 2026-10-21T03:53:52Z
+  Updated: 2026-11-01T00:27:36Z
   Vendor: Wehustlebrand.com
   Product Type: Sets
   Availability: Available
@@ -1514,7 +1514,7 @@
     Availability: Available
     Price: $159.00 USD
 - [POSITANO — Men's Satin Cuban Collar Shirt | Printed Resort Shirt | HUSTLE](https://wehustlebrand.com/products/positano-shirt): Men's satin Cuban collar shirt in breathability-tested Japanese poly satin. Matte sheen, exclusive print, matching trousers available. Ships worldwide duty paid.
-  Updated: 2026-10-28T21:46:08Z
+  Updated: 2026-11-03T18:31:55Z
   Vendor: Wehustlebrand.com
   Product Type: Shirt
   Availability: Available
@@ -1544,7 +1544,7 @@
     Availability: Available
     Price: $139.00 USD
 - [POSITANO — Men's Satin Shirt & Swim Short Set | Matching Beach Set | HUSTLE](https://wehustlebrand.com/products/positano-mens-set-shirt-swim): Men's matching shirt & swim short set — Cuban-collar satin shirt + quick-dry printed swim shorts. The beach club co-ord. Ships worldwide duty paid.
-  Updated: 2026-10-30T01:22:43Z
+  Updated: 2026-11-01T03:37:11Z
   Vendor: Wehustlebrand.com
   Product Type: Sets
   Availability: Available
@@ -1923,22 +1923,22 @@
   Updated: 2026-09-11T14:09:48Z
   Total Products: 1
 - [Men Shirts](https://wehustlebrand.com/collections/tisort): Shop men's bold shirts and tops at We Hustle Brand. Premium streetwear, free worldwide shipping. Pair with our matching pants for the full co-ord look.
-  Updated: 2026-10-27T11:27:47Z
+  Updated: 2026-11-04T12:15:25Z
   Total Products: 17
 - [Man Pants](https://wehustlebrand.com/collections/pants): Shop men's bold pants and trousers at We Hustle Brand. Premium streetwear bottoms, free worldwide shipping. Pair with our matching shirts for the full look.
   Updated: 2026-10-18T11:24:36Z
   Total Products: 13
 - [All Products](https://wehustlebrand.com/collections/all): The full HUSTLE collection — men's and women's satin co-ord sets, Cuban collar shirts, trousers, swim shorts, linen sets and his & hers matching outfits.
-  Updated: 2026-10-27T11:27:47Z
+  Updated: 2026-11-06T12:36:33Z
   Total Products: 68
 - [Men Sets](https://wehustlebrand.com/collections/sets): Shop premium men's matching sets & two-piece co-ords at We Hustle Brand. Bold prints, luxury feel, free international shipping. Find your set today.
-  Updated: 2026-10-26T11:25:53Z
+  Updated: 2026-11-06T12:36:33Z
   Total Products: 17
 - [Men](https://wehustlebrand.com/collections/men): Shop men's premium matching sets, co-ords, pants & shirts at We Hustle Brand. Bold designs. Free worldwide shipping. New collections dropping now.
-  Updated: 2026-10-27T11:27:47Z
+  Updated: 2026-11-06T12:36:33Z
   Total Products: 54
 - [Women](https://wehustlebrand.com/collections/women): Discover women's matching sets and co-ords at We Hustle Brand. Premium quality, bold style, free worldwide shipping. New women's styles coming soon.
-  Updated: 2026-10-20T11:22:11Z
+  Updated: 2026-11-05T12:18:24Z
   Total Products: 11
 - [T-Shirt](https://wehustlebrand.com/collections/wehustle-t-shirt): Everyday We Hustle tees — soft, clean, and easy to live in. The relaxed staple that grounds any outfit. New styles landing here soon.
   Updated: 2026-09-11T14:09:48Z
@@ -1950,16 +1950,16 @@
   Updated: 2026-09-11T14:09:48Z
   Total Products: 3
 - [Women Sets](https://wehustlebrand.com/collections/womens-sets): Women's satin matching sets and co-ords — shirt and high-waist trouser two-pieces in exclusive prints. The her-half of HUSTLE his & hers sets.
-  Updated: 2026-10-20T11:22:11Z
+  Updated: 2026-11-05T12:18:24Z
   Total Products: 8
 - [His & Hers](https://wehustlebrand.com/collections/his-hers): His and hers matching satin sets — every men's print has a matching women's half. Couple co-ords for festivals, holidays and nights out. Ships worldwide duty paid.
-  Updated: 2026-10-26T11:25:53Z
+  Updated: 2026-11-06T12:36:33Z
   Total Products: 28
 - [Men Swimwear Sets](https://wehustlebrand.com/collections/swim-sets): Poolside-ready co-ords built around swim shorts. A matching shirt and swim-short set that takes you from the sun lounger to the beach bar without missing a beat. Vacation mode, fully coordinated.
-  Updated: 2026-10-22T11:25:11Z
+  Updated: 2026-11-01T12:23:12Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://wehustlebrand.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-27T11:27:47Z
+  Updated: 2026-11-06T12:36:33Z
   Total Products: 68
 - [Women Dress](https://wehustlebrand.com/collections/womens-dress): Women's oversized satin dresses in exclusive prints — wear open as an oversize shirt or belted as a dress. Japanese poly satin, XL–XXL.
   Updated: 2026-09-11T14:09:48Z
