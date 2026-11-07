@@ -8,7 +8,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-01-17T18:18:40Z
 - Contact Email: contact@cryptomaniaclothing.com
-- Updated At: 2026-10-31T00:24:14.782Z
+- Updated At: 2026-11-07T00:30:10.540Z
 
 ## Products
 
@@ -3156,7 +3156,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.cryptomaniaclothing.com/policies/privacy-policy)
-  Updated: 2025-01-17T18:18:47Z
+  Updated: 2026-10-31T12:06:58Z
 - [Shipping Policy](https://www.cryptomaniaclothing.com/policies/shipping-policy)
   Updated: 2026-05-28T17:06:19Z
 - [Refund Policy](https://www.cryptomaniaclothing.com/policies/refund-policy)
