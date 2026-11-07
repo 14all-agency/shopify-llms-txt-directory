@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-21T15:47:11Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:15:49.891Z
+- Updated At: 2026-11-07T00:16:08.558Z
 
 ## Products
 
@@ -633,7 +633,7 @@
   Image: https://cdn.shopify.com/s/files/1/0777/6652/5166/files/ERNKOOZIE.png?v=1768249651
   Price: $5.00 USD
 - [Flower Shops Vinyl](https://shop.ernestofficial.com/products/flower-shops-vinyl): 11-track debut record FLOWER SHOPS, from Ernest Option of Coke bottle vinyl or clear vinyl
-  Updated: 2026-10-16T04:43:00Z
+  Updated: 2026-10-31T08:50:16Z
   Vendor: ERNEST Official Store
   Product Type: Vinyl
   Availability: Available
@@ -895,16 +895,16 @@
   Updated: 2026-10-28T20:17:29Z
   Total Products: 11
 - [Music](https://shop.ernestofficial.com/collections/music)
-  Updated: 2026-10-30T11:22:27Z
+  Updated: 2026-10-31T11:22:05Z
   Total Products: 7
 - [All](https://shop.ernestofficial.com/collections/all)
-  Updated: 2026-10-30T11:22:27Z
+  Updated: 2026-10-31T11:22:05Z
   Total Products: 63
 - [Live From The South Tour](https://shop.ernestofficial.com/collections/live-from-the-south-tour)
   Updated: 2026-10-12T11:25:14Z
   Total Products: 7
 - [Deep Blue](https://shop.ernestofficial.com/collections/deep-blue)
-  Updated: 2026-10-30T11:22:27Z
+  Updated: 2026-10-31T11:22:05Z
   Total Products: 8
 - [Summer ](https://shop.ernestofficial.com/collections/summer-)
   Updated: 2026-10-28T20:17:29Z
