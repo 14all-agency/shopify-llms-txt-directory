@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-10-21T15:48:20Z
 - Contact Email: info@dvjewelrydesigns.com
-- Updated At: 2026-10-31T00:34:13.622Z
+- Updated At: 2026-11-07T00:35:50.080Z
 
 ## Products
 
@@ -357,68 +357,68 @@
     Availability: Available
     Price: $455.00 USD
 - [Unisex Ocean and Beach Style Wedding Band - Hand-sculpted](https://dvjewelrydesigns.com/products/unisex-beach-style-ring): Hand-sculpted unisex wedding band inspired by the ocean and beach. Available in sterling silver with polished or oxidized finish. Unique Fusion® design.
-  Updated: 2026-08-31T23:13:50Z
+  Updated: 2026-11-05T03:09:06Z
   Vendor: DV Jewelry Designs
-  Product Type: 
+  Product Type: Ring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/unisex-ocean-and-beach-style-wedding-band-sea-fan-coral-ring-hand-sculpted-by-dv-jewelry-designs-462489.jpg?v=1741121958
   - [3.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358041973021)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [4](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042005789)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [4.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042038557)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042071325)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [5.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042104093)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [6](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042136861)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [6.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042169629)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [7](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042202397)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [7.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042235165)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [8](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042267933)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [8.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042300701)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [9](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042333469)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [9.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042366237)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [10](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042399005)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [11](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042431773)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [11.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042464541)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [12](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042497309)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [12.5](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042530077)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
   - [13](https://dvjewelrydesigns.com/products/unisex-beach-style-ring?variant=49358042562845)
     Availability: Available
-    Price: $130.00 USD
+    Price: $170.00 USD
 - [Gold Leaf and Vine Twig Cuff Bracelet in 14k Gold | DV Jewelry Designs](https://dvjewelrydesigns.com/products/leaf-and-vine-twig-cuff-bracelet-in-solid-gold): Hand-sculpted 14k gold leaf and vine twig cuff bracelet. Available in white, yellow, or rose gold in 5 sizes. A nature-inspired fine jewelry statement piece.
   Updated: 2026-08-31T23:13:51Z
   Vendor: DV Jewelry Designs
@@ -1576,12 +1576,12 @@
     Availability: Available
     Price: $3,800.00 USD
 - [Sea Fan Coral Pendant in Sterling Silver | DV Jewelry Designs](https://dvjewelrydesigns.com/products/sea-fan-coral-pendant): Hand-sculpted sterling silver sea fan coral pendant. Unisex ocean-inspired design, award-winning Fusion® collection. A unique gift for beach and ocean lovers.
-  Updated: 2026-08-31T23:13:57Z
+  Updated: 2026-11-05T03:09:59Z
   Vendor: DV Jewelry Designs
-  Product Type: 
+  Product Type: Necklace Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0905/9903/1069/files/sea-fan-coral-pendant-607807.jpg?v=1741121956
-  Price: $180.00 USD
+  Price: $255.00 USD
 - [Aquamarine Engagement Ring - 14k Gold Twig Design | DV Jewelry](https://dvjewelrydesigns.com/products/pear-shaped-aquamarine-twig-engagement-ring-or-wedding-set): Hand-sculpted Aquamarine Twig Engagement Ring in 14k Rose Gold. Handmade nature inspired jewelry by DV Jewelry Designs.
   Updated: 2026-08-31T23:13:58Z
   Vendor: DV Jewelry Designs
@@ -3775,23 +3775,23 @@
 
 ## Collections
 
-- [Raw Diamond Jewelry](https://dvjewelrydesigns.com/collections/rawdiamondjewelry): Handcrafted raw diamond rings, necklaces & pendants in silver & gold. Ethically sourced rough diamonds. Unique alternative engagement rings.
-  Updated: 2026-10-21T20:31:19Z
-  Total Products: 26
+- [Raw Diamond Jewelry](https://dvjewelrydesigns.com/collections/rawdiamondjewelry): Shop handmade raw diamond rings, necklaces and pendants in gold and sterling silver. Discover twig engagement rings hand-sculpted in North Carolina.
+  Updated: 2026-11-04T16:55:05Z
+  Total Products: 25
 - [Beach Style Jewelry](https://dvjewelrydesigns.com/collections/beachy-styles): Handcrafted beach jewelry with starfish, coral & shell designs. Ocean-inspired rings, necklaces & earrings in sterling silver & gold.
-  Updated: 2026-07-09T17:56:29Z
+  Updated: 2026-11-04T15:09:55Z
   Total Products: 13
 - [Gemstone Rings](https://dvjewelrydesigns.com/collections/gemstone-rings): Handcrafted gemstone rings in sterling silver & gold. Nature-inspired designs featuring moss agate, raw diamonds & more. Artisan-made engagement & statement rings.
-  Updated: 2026-10-08T11:17:40Z
-  Total Products: 41
+  Updated: 2026-11-04T16:22:01Z
+  Total Products: 42
 - [Wedding Bands and Statement Jewelry](https://dvjewelrydesigns.com/collections/wedding-bands-and-statement-jewelry): Artisan wedding bands & statement jewelry in silver & gold. Unique twig, leaf & nature-inspired designs. Handcrafted engagement & wedding ring sets.
-  Updated: 2026-10-21T20:27:36Z
+  Updated: 2026-11-04T15:09:01Z
   Total Products: 43
 - [Earrings](https://dvjewelrydesigns.com/collections/earrings): Artisan-made earrings featuring leaf, twig & beach-inspired designs. Handcrafted in sterling silver & gold. Unique nature-inspired jewelry.
   Updated: 2026-07-09T17:56:35Z
   Total Products: 6
 - [Necklaces & Pendants](https://dvjewelrydesigns.com/collections/necklaces-pendants): Artisan necklaces & pendants with raw diamonds, gemstones & nature motifs. Handmade in sterling silver & gold. Unique nature-inspired jewelry.
-  Updated: 2026-10-21T20:31:19Z
+  Updated: 2026-11-04T15:09:55Z
   Total Products: 21
 - [Moissanite Jewelry](https://dvjewelrydesigns.com/collections/moissanite-jewelry): Handcrafted moissanite rings, necklaces & earrings in silver & gold. Ethical, brilliant alternative to diamonds. Nature-inspired artisan designs.
   Updated: 2026-10-23T14:14:34Z
@@ -3800,7 +3800,7 @@
   Updated: 2026-07-09T17:56:02Z
   Total Products: 5
 - [Recommended products (Seguno)](https://dvjewelrydesigns.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-23T14:14:34Z
+  Updated: 2026-11-04T15:09:55Z
   Total Products: 135
 - [One-of-a-Kind Jewelry](https://dvjewelrydesigns.com/collections/one-of-a-kind-jewelry): Discover unique one-of-a-kind jewelry pieces. Handcrafted rings, necklaces & pendants featuring raw diamonds, gemstones & nature-inspired designs.
   Updated: 2026-10-20T11:17:21Z
@@ -3809,7 +3809,7 @@
   Updated: 2026-08-26T11:16:21Z
   Total Products: 12
 - [Rings](https://dvjewelrydesigns.com/collections/rings): Shop handcrafted nature-inspired rings in sterling silver & 14k gold. Twig engagement rings, raw diamond bands & gemstone styles. Free US shipping.
-  Updated: 2026-10-23T14:14:34Z
+  Updated: 2026-11-04T15:09:01Z
   Total Products: 113
 
 ## Blogs
