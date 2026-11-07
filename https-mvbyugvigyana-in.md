@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-01-20T18:12:09Z
 - Contact Email: yugvigyana@gmail.com
-- Updated At: 2026-10-31T00:30:48.487Z
+- Updated At: 2026-11-07T00:34:36.794Z
 
 ## Products
 
@@ -3165,7 +3165,7 @@
 ## Policies
 
 - [Privacy Policy](https://mvbyugvigyana.in/policies/privacy-policy)
-  Updated: 2026-01-20T18:12:19Z
+  Updated: 2026-10-31T07:11:11Z
 - [Shipping Policy](https://mvbyugvigyana.in/policies/shipping-policy)
   Updated: 2026-01-23T18:32:09Z
 - [Refund Policy](https://mvbyugvigyana.in/policies/refund-policy)
