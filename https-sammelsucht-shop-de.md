@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-05-02T20:36:05Z
 - Contact Email: deniz@sammelsucht-shop.de
-- Updated At: 2026-10-31T00:28:44.178Z
+- Updated At: 2026-11-07T00:33:45.831Z
 
 ## Products
 
@@ -478,6 +478,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_17612852-cba1-424a-ab60-2187f97e2d36.jpg?v=1779992445
   Price: 9,99 € EUR
+- [Yanma 183/182 Illustration Rare Ewige Rivalen kaufen | Sammelsucht](https://sammelsucht-shop.de/products/yanma-183-182-illustration-rare-ewige-rivalen-de-nm-pokemon): Yanma 183/182 Illustration Rare Ewige Rivalen (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-31T12:34:21Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_efcfc616-7596-4a78-b0c7-90135817a713.jpg?v=1779992452
+  Price: 5,99 € EUR
 - [Rüpel von Team Yell 202/202 Ultra Rare Schwert & Schild kaufen | Sammelsucht](https://sammelsucht-shop.de/products/rupel-von-team-yell-202-202-ultra-rare-schwert-schild-de-nm-pokemon): Rüpel von Team Yell 202/202 Ultra Rare Schwert & Schild (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:32:20Z
   Vendor: Sammelsucht
@@ -583,7 +590,7 @@
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e7b760ff-1b38-40c4-9f58-11932caf39c8.jpg?v=1779992540
   Price: 4,99 € EUR
 - [Leufeo MEG 139 Mega-Entwicklung kaufen | Sammelsucht](https://sammelsucht-shop.de/products/leufeo-meg-139-mega-entwicklung-pokemon-karte-deutsch-near-mint): Leufeo MEG 139 Mega-Entwicklung (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:33:46Z
+  Updated: 2026-11-02T18:32:11Z
   Vendor: Sammelsucht
   Product Type: Sammelkarte
   Availability: Available
@@ -602,6 +609,13 @@
   Product Type: Sammelkarte
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_e820826a-75f7-481f-b92c-f3daa62ee6cf.jpg?v=1779992562
+  Price: 9,99 € EUR
+- [Frida SIT 189 Silberne Sturmwinde kaufen | Sammelsucht](https://sammelsucht-shop.de/products/frida-sit-189-silberne-sturmwinde-pokemon-karte-deutsch-near-mint): Frida SIT 189 Silberne Sturmwinde (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-31T12:34:26Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_a1e1be92-332b-4d3b-afa0-0be5495046f1.jpg?v=1779992571
   Price: 9,99 € EUR
 - [Sanaconda V FST 252 Fusionsangriff kaufen | Sammelsucht](https://sammelsucht-shop.de/products/sanaconda-v-fst-252-fusionsangriff-pokemon-karte-deutsch-near-mint): Sanaconda V FST 252 Fusionsangriff (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:33:49Z
@@ -806,6 +820,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_8a4cf530-3127-4c37-b86e-5bfceeb51cf5.jpg?v=1779992744
   Price: 5,49 € EUR
+- [Botogel 152/132 Illustration Rare Mega-Entwicklung kaufen | Sammelsucht](https://sammelsucht-shop.de/products/botogel-152-132-illustration-rare-mega-entwicklung-de-nm-pokemon): Botogel 152/132 Illustration Rare Mega-Entwicklung (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
+  Updated: 2026-10-31T12:34:16Z
+  Vendor: Sammelsucht
+  Product Type: Sammelkarte
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_70ff1784-3c5f-42e9-9c1c-4a774521c22a.jpg?v=1779992750
+  Price: 4,49 € EUR
 - [Ciphermaniacs Decodierung 198/162 Ultra Rare Gewalten der Zeit kaufen | Sammelsucht](https://sammelsucht-shop.de/products/ciphermaniacs-decodierung-198-162-ultra-rare-gewalten-der-zeit-de-nm-pokemon): Ciphermaniacs Decodierung 198/162 Ultra Rare Gewalten der Zeit (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-09-24T06:35:24Z
   Vendor: Sammelsucht
@@ -876,13 +897,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_62cc2410-74ae-4d67-959e-9ae9d6656bd7.jpg?v=1779992815
   Price: 3,99 € EUR
-- [Wolwerock 166/159 Illustration Rare Reisegefährten kaufen | Sammelsucht](https://sammelsucht-shop.de/products/wolwerock-166-159-illustration-rare-reisegefahrten-de-nm-pokemon): Wolwerock 166/159 Illustration Rare Reisegefährten (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
-  Updated: 2026-09-24T06:35:30Z
-  Vendor: Sammelsucht
-  Product Type: Sammelkarte
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1045/8726/4331/files/57_169464f6-d9d7-4b06-9fdf-de0673c5b943.jpg?v=1779992826
-  Price: 3,49 € EUR
 - [Somnivora BLK 117 Schwarze Blitze kaufen | Sammelsucht](https://sammelsucht-shop.de/products/somnivora-blk-117-schwarze-blitze-pokemon-karte-deutsch-near-mint): Somnivora BLK 117 Schwarze Blitze (Deutsch) jetzt bei Sammelsucht sichern! ✓ Geprüfter Zustand ✓ Schneller Versand aus Deutschland ✓ Kombiversand
   Updated: 2026-10-17T20:10:43Z
   Vendor: Sammelsucht
