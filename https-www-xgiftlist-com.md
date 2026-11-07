@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2025-07-07T11:28:05Z
 - Contact Email: Support@xgiftlist.com
-- Updated At: 2026-10-31T00:20:17.247Z
+- Updated At: 2026-11-07T00:23:17.442Z
 
 ## Products
 
@@ -311,7 +311,7 @@
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/nautiko-black-dial-nh35-5530443.jpg?v=1793292727
   Price: $288.00 USD
 - [NAUTIKOMOD Royal Blue NH35 | Seiko Mod Australia](https://www.xgiftlist.com/products/nautiko-seiko-mod-royal-blue-nh35): Discover the NAUTIKOMOD Royal Blue NH35 at Watch Mods Australia. Custom automatic watch with NH35 movement, sapphire crystal, integrated bracelet, and bold blue sport dial. Hand-assembled with fast express shipping.
-  Updated: 2026-10-29T17:30:42Z
+  Updated: 2026-10-31T10:04:00Z
   Vendor: X GIFT LIST
   Product Type: Watch Mods
   Availability: Available
@@ -558,8 +558,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/nautiko-mod-configurator-4110381.png?v=1793030178
   Price: $298.00 USD
-- [Black Steel Royal Oak Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-black-royal-edition): Upgrade your Apple Watch with this black steel Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:36Z
+- [Royal Oak Apple Watch Mod Case | Black Steel | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-black-royal-edition): Black Royal Oak-inspired Apple Watch mod case with a matching steel bracelet. Explore the complete case and band set at X GIFT LIST.
+  Updated: 2026-11-05T08:00:31Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -576,8 +576,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/befcdb5e4e8c40926a453c7e0148a3dd.jpg?v=1793292977
     Price: $89.95 USD
-- [Gold Royal Oak Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-gold-royal-edition): Upgrade your Apple Watch with this gold Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:36Z
+  - [49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-black-royal-edition?variant=68005382160613)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/ap-ultra-black.jpg?v=1793861550
+    Price: $139.95 USD
+- [Royal Oak Apple Watch Mod Case | Gold Steel | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-gold-royal-edition): Gold Royal Oak-inspired Apple Watch mod case with a matching steel bracelet. Shop coordinated case and band sets from X GIFT LIST.
+  Updated: 2026-11-05T08:00:31Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -594,8 +598,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/24b23c1c450eaa771d3de4eafeefb40d.jpg?v=1793293001
     Price: $89.95 USD
-- [Rose Gold Steel Royal Oak Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-royal-edition): Upgrade your Apple Watch with this rose gold steel Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE, Ultra 1/2/3 in 44/45/46/49mm.
-  Updated: 2026-10-30T16:46:14Z
+- [Royal Oak Apple Watch Mod Case | Rose Gold Steel | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-royal-edition): Rose gold Royal Oak-inspired Apple Watch mod case with a matching steel bracelet. Explore a coordinated case and band set at X GIFT LIST.
+  Updated: 2026-11-05T08:00:36Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -612,8 +616,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/6e4122a8131f1f5688eb3be2af283f5f.jpg?v=1793293033
     Price: $89.95 USD
-- [Silver Steel Royal Oak Mod Kit for Apple Watch](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-royal-edition): Upgrade your Apple Watch with a steel Royal Oak mod kit featuring a case and band. Available in four finishes and selected sizes.
-  Updated: 2026-10-30T16:56:31Z
+  - [49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-royal-edition?variant=68004227973349)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/ap-ultra-rosegold.jpg?v=1793861459
+    Price: $139.95 USD
+- [Royal Oak Apple Watch Mod Case | Silver Steel | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-royal-edition): Silver Royal Oak-inspired Apple Watch mod case with a matching steel bracelet. Upgrade your look with a complete case and band set.
+  Updated: 2026-11-06T08:29:35Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -634,8 +642,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/x-gift-list-silver-stainless-steel-apple-watch-mod-kit.jpg?v=1793293064
     Price: $139.95 USD
-- [Rose Gold Steel & Rubber Royal Oak Mod Kit for Apple Watch](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition): Upgrade your Apple Watch with this rose gold steel & rubber Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:14Z
+- [Rose Gold Apple Watch Mod Kit | Oak Rubber Band | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition): Explore a rose gold Royal Oak-inspired Apple Watch mod kit with a matching rubber band. Choose your compatible watch size at X GIFT LIST.
+  Updated: 2026-11-06T22:59:14Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -652,6 +660,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4d453532eeaa50e52c666171babacbaf.jpg?v=1793293085
     Price: $89.95 USD
+  - [Admiral Blue / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=68007155335397)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c114ac2f-731b-4c7d-aa20-3d209e511f36.png?v=1793872052
+    Price: $139.95 USD
   - [Ivory White / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=49503543165157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/1ce3097e69dcea968c52a091d9dbbfa0.jpg?v=1793293116
@@ -664,6 +676,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/1ce3097e69dcea968c52a091d9dbbfa0.jpg?v=1793293116
     Price: $89.95 USD
+  - [Ivory White / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=68007155368165)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_51_apsportbig-whiterose.jpg?v=1793872055
+    Price: $139.95 USD
   - [Carbon Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=49503543263461)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/1de55e946466904c0d7b6ecf925e84f9.jpg?v=1793293121
@@ -676,6 +692,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/1de55e946466904c0d7b6ecf925e84f9.jpg?v=1793293121
     Price: $89.95 USD
+  - [Carbon Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=68007155400933)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_47_apsportbig-blackrose.jpg?v=1793872065
+    Price: $139.95 USD
   - [Sunset Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=49983170576613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5462854cd2bb047d4a6a84259ac2c840.jpg?v=1793293112
@@ -688,24 +708,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5462854cd2bb047d4a6a84259ac2c840.jpg?v=1793293112
     Price: $89.95 USD
-- [Black Steel & Rubber Royal Oak Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition): Upgrade your Apple Watch with this black steel & rubber Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:59:30Z
+  - [Sunset Orange / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-rose-gold-rubber-edition?variant=68007155433701)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_48_apsportbig-orangerose.jpg?v=1793872071
+    Price: $139.95 USD
+- [Black Apple Watch Mod Kit | Royal Oak Rubber Band | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition): Black Royal Oak-inspired Apple Watch mod kit with a coordinated rubber strap. Discover a sport-inspired case and band set at X GIFT LIST.
+  Updated: 2026-11-06T21:48:40Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b76726164347f306c5aa54bade55be6.jpg?v=1793293142
-  - [Ivory White / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49503550079205)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
-    Price: $89.95 USD
-  - [Ivory White / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49975874715877)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
-    Price: $89.95 USD
-  - [Ivory White / 46mm (Series 10/11)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49975874748645)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
-    Price: $89.95 USD
   - [Carbon Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49503550177509)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b76726164347f306c5aa54bade55be6.jpg?v=1793293142
@@ -718,6 +730,26 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b76726164347f306c5aa54bade55be6.jpg?v=1793293142
     Price: $89.95 USD
+  - [Carbon Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=68007053394149)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_40_apsportbig-blackblack.jpg?v=1793871421
+    Price: $139.95 USD
+  - [Ivory White / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49503550079205)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
+    Price: $89.95 USD
+  - [Ivory White / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49975874715877)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
+    Price: $89.95 USD
+  - [Ivory White / 46mm (Series 10/11)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49975874748645)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/9d78a8d22b4b532a05051ca81b0f6dd8.jpg?v=1793293159
+    Price: $89.95 USD
+  - [Ivory White / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=68007053361381)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_44_apsportbig-whiteblack.jpg?v=1793871417
+    Price: $139.95 USD
   - [Admiral Blue / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49503550275813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/bcca4a8aa4335982f28a19374b684a44.jpg?v=1793293163
@@ -730,6 +762,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/bcca4a8aa4335982f28a19374b684a44.jpg?v=1793293163
     Price: $89.95 USD
+  - [Admiral Blue / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=68007053426917)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/d0ab6f7c-4200-4ac7-8ba8-e5d98fc99d2d.png?v=1793871428
+    Price: $139.95 USD
   - [Sunset Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=49983178572005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b6c64d23317cd0b3f4f8148c255c85b6.jpg?v=1793293167
@@ -742,8 +778,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b6c64d23317cd0b3f4f8148c255c85b6.jpg?v=1793293167
     Price: $89.95 USD
-- [Silver Steel & Rubber Royal Oak Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition): Upgrade your Apple Watch with this silver steel & rubber Royal Oak mod kit featuring a case and band. Fits Series 4–11 & SE, Ultra 1/2/3 in 44/45/46/49mm.
-  Updated: 2026-10-30T16:46:12Z
+  - [Sunset Orange / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-phantom-black-rubber-edition?variant=68007053459685)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_41_apsportbig-orangeblack.jpg?v=1793871430
+    Price: $139.95 USD
+- [Silver Apple Watch Mod Kit | Royal Oak Rubber Band | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition): Silver Royal Oak-inspired Apple Watch mod kit paired with a rubber strap. Find your compatible size and upgrade your everyday look.
+  Updated: 2026-11-05T21:33:15Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -760,9 +800,9 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/44b37818c5450d92aa269707725591e4.jpg?v=1793293200
     Price: $89.95 USD
-  - [Carbon Black / 49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=52756557496549)
+  - [Carbon Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=68006940246245)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/44b37818c5450d92aa269707725591e4.jpg?v=1793293200
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_33_apsportbig-black_a18ded7c-6628-4435-85d1-a270ac127ba0.jpg?v=1793871093
     Price: $139.95 USD
   - [Admiral Blue / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=49503553356005)
     Availability: Available
@@ -776,6 +816,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/8f2f6dc30d73b4a53a20d74c9524b8e7.jpg?v=1793293217
     Price: $89.95 USD
+  - [Admiral Blue / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=68006940279013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b77d376a-754a-42b6-be99-6298a3c89208.png?v=1793871102
+    Price: $139.95 USD
   - [Ivory White / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=49503553159397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/aa0dd9b374555f8482d6859b3dc34a90.jpg?v=1793293223
@@ -788,6 +832,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/aa0dd9b374555f8482d6859b3dc34a90.jpg?v=1793293223
     Price: $89.95 USD
+  - [Ivory White / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=68006940311781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_37_apsportbig-white.jpg?v=1793871103
+    Price: $139.95 USD
   - [Sunset Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=49983177621733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/a67cfa034582ba5f35afc73e2ae53598.jpg?v=1793293212
@@ -800,6 +848,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/a67cfa034582ba5f35afc73e2ae53598.jpg?v=1793293212
     Price: $89.95 USD
+  - [Sunset Orange / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/oak-mod-apple-watch-case-strap-set-silver-rubber-edition?variant=68006940344549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/imgi_34_apsportbig-orange.jpg?v=1793871106
+    Price: $139.95 USD
 - [Blue Rubber Apple Watch Band – AP Style | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-strap-arctic-blue-edition): Upgrade your Apple Watch with this blue rubber band in AP style. Fits Series 1–11 & SE, Ultra 1/2/3 in 38/40/41/42/44/45/46/49mm.
   Updated: 2026-10-30T22:45:24Z
   Vendor: X GIFT LIST
@@ -941,7 +993,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/107f7948-d712-42d0-bb1a-eb11adff3dd1.png?v=1793030398
     Price: $59.95 USD
 - [Black Rubber Apple Watch Band | AP Mod Kit](https://www.xgiftlist.com/products/oak-mod-apple-watch-strap-phantom-black-edition): Durable rubber Apple Watch band in six colours with black or silver buckles. Fits 38/40/41/42/44/45/46/49mm models.
-  Updated: 2026-10-30T05:34:43Z
+  Updated: 2026-11-01T19:36:31Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
@@ -1080,50 +1132,154 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/459a64d8-f6a1-433c-b905-0cee87a85027.png?v=1793030442
     Price: $59.95 USD
-- [Black Aquanaut Style Rubber Apple Watch Band | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition): Black Aquanaut Style Rubber Apple Watch Band for Apple Watch. Select your compatible size. Band only; Apple Watch not included.
-  Updated: 2026-10-30T16:33:00Z
+- [Rubber Apple Watch Band – Aquanaut Style | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition): Premium rubber Apple Watch band in 4 colors with silver or black buckles, for 44mm–49mm.
+  Updated: 2026-11-06T00:15:48Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793030464
-  - [Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001088229)
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793781978
+  - [Black / Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001088229)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793030464
-    Price: $59.95 USD
-  - [Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001120997)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793781978
+    Price: $39.95 USD
+  - [Black / Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001120997)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793030464
-    Price: $59.95 USD
-  - [Silver / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001153765)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793781978
+    Price: $39.95 USD
+  - [Black / Silver / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612733157)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793030464
-    Price: $59.95 USD
-  - [Silver / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=52087001186533)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793781978
+    Price: $39.95 USD
+  - [Black / Silver / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612765925)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793030464
-    Price: $59.95 USD
-  - [Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935234982117)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63bdbee8-5023-4e43-baf0-ed0d9a4abd0d.png?v=1793781978
+    Price: $39.95 USD
+  - [Black / Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935234982117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793030468
-    Price: $59.95 USD
-  - [Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935235014885)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793782015
+    Price: $39.95 USD
+  - [Black / Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935235014885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793030468
-    Price: $59.95 USD
-  - [Black / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935235047653)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793782015
+    Price: $39.95 USD
+  - [Black / Black / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612798693)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793030468
-    Price: $59.95 USD
-  - [Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67935235080421)
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793782015
+    Price: $39.95 USD
+  - [Black / Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612831461)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793030468
-    Price: $59.95 USD
-- [Black Nautilus Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-phantom-black-edition): Upgrade your Apple Watch with this black Nautilus mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T20:12:39Z
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fe619237-bd9a-4270-a527-6de957ec273d.png?v=1793782015
+    Price: $39.95 USD
+  - [Orange / Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612864229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f3b71441-d22b-4c0c-9b87-b0bdf26b4511.png?v=1793782055
+    Price: $39.95 USD
+  - [Orange / Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612896997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f3b71441-d22b-4c0c-9b87-b0bdf26b4511.png?v=1793782055
+    Price: $39.95 USD
+  - [Orange / Silver / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612929765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f3b71441-d22b-4c0c-9b87-b0bdf26b4511.png?v=1793782055
+    Price: $39.95 USD
+  - [Orange / Silver / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612962533)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f3b71441-d22b-4c0c-9b87-b0bdf26b4511.png?v=1793782055
+    Price: $39.95 USD
+  - [Orange / Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992612995301)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/2317b10b-7cf5-4fd6-8280-a8e6495ce6de.png?v=1793782078
+    Price: $39.95 USD
+  - [Orange / Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613028069)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/2317b10b-7cf5-4fd6-8280-a8e6495ce6de.png?v=1793782078
+    Price: $39.95 USD
+  - [Orange / Black / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613060837)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/2317b10b-7cf5-4fd6-8280-a8e6495ce6de.png?v=1793782078
+    Price: $39.95 USD
+  - [Orange / Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613093605)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/2317b10b-7cf5-4fd6-8280-a8e6495ce6de.png?v=1793782078
+    Price: $39.95 USD
+  - [Brown / Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613126373)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f87da1b2-7b52-4c35-9e16-c76be4754ce4.png?v=1793782104
+    Price: $39.95 USD
+  - [Brown / Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613159141)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f87da1b2-7b52-4c35-9e16-c76be4754ce4.png?v=1793782104
+    Price: $39.95 USD
+  - [Brown / Silver / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613191909)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f87da1b2-7b52-4c35-9e16-c76be4754ce4.png?v=1793782104
+    Price: $39.95 USD
+  - [Brown / Silver / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613224677)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f87da1b2-7b52-4c35-9e16-c76be4754ce4.png?v=1793782104
+    Price: $39.95 USD
+  - [Brown / Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613257445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b04ef5d-62a3-41cb-be5e-6a98029e743c.png?v=1793782129
+    Price: $39.95 USD
+  - [Brown / Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613290213)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b04ef5d-62a3-41cb-be5e-6a98029e743c.png?v=1793782129
+    Price: $39.95 USD
+  - [Brown / Black / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613322981)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b04ef5d-62a3-41cb-be5e-6a98029e743c.png?v=1793782129
+    Price: $39.95 USD
+  - [Brown / Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613355749)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/7b04ef5d-62a3-41cb-be5e-6a98029e743c.png?v=1793782129
+    Price: $39.95 USD
+  - [Green / Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613388517)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ef060e4-71d4-4fbc-b673-de7ee6b40a2d.png?v=1793782329
+    Price: $39.95 USD
+  - [Green / Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613421285)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ef060e4-71d4-4fbc-b673-de7ee6b40a2d.png?v=1793782329
+    Price: $39.95 USD
+  - [Green / Silver / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613454053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ef060e4-71d4-4fbc-b673-de7ee6b40a2d.png?v=1793782329
+    Price: $39.95 USD
+  - [Green / Silver / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613486821)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ef060e4-71d4-4fbc-b673-de7ee6b40a2d.png?v=1793782329
+    Price: $39.95 USD
+  - [Green / Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613519589)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/085aa1e4-ba69-4cc2-a268-7c14808c3093_ca68c768-d346-4133-be24-a9ee8fbe36f5.png?v=1793782523
+    Price: $39.95 USD
+  - [Green / Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613552357)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/085aa1e4-ba69-4cc2-a268-7c14808c3093_ca68c768-d346-4133-be24-a9ee8fbe36f5.png?v=1793782523
+    Price: $39.95 USD
+  - [Green / Black / 46mm (Series 10/11/12)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613585125)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/085aa1e4-ba69-4cc2-a268-7c14808c3093_ca68c768-d346-4133-be24-a9ee8fbe36f5.png?v=1793782523
+    Price: $39.95 USD
+  - [Green / Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-strap-phantom-black-edition?variant=67992613617893)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/085aa1e4-ba69-4cc2-a268-7c14808c3093_ca68c768-d346-4133-be24-a9ee8fbe36f5.png?v=1793782523
+    Price: $39.95 USD
+- [Black Nautilus Apple Watch Case & Steel Band Set | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-phantom-black-edition): Shop the black Nautilus-inspired Apple Watch case and steel band set. A coordinated watch upgrade with a distinct case profile.
+  Updated: 2026-11-03T16:32:06Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f1414bc1-1314-490c-9cc8-265ede23146c.png?v=1793347854
+  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-phantom-black-edition?variant=67963130773733)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f1414bc1-1314-490c-9cc8-265ede23146c.png?v=1793347854
+    Price: $89.95 USD
+  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-phantom-black-edition?variant=67963130806501)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f1414bc1-1314-490c-9cc8-265ede23146c.png?v=1793347854
+    Price: $89.95 USD
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-phantom-black-edition?variant=49975811014885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f1414bc1-1314-490c-9cc8-265ede23146c.png?v=1793347854
@@ -1136,12 +1292,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f1414bc1-1314-490c-9cc8-265ede23146c.png?v=1793347854
     Price: $89.95 USD
-- [Gold Steel Case & Band Nautilus Mod Kit for Apple Watch](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-gold-edition): Upgrade your Apple Watch with a steel case and band Nautilus mod kit. Available in four finishes for 44mm, 45mm and 46mm models.
-  Updated: 2026-10-30T16:46:12Z
+- [Gold Nautilus Apple Watch Case & Steel Band Set | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-gold-edition): Explore a gold Nautilus-inspired Apple Watch case with a matching steel bracelet. Shop the complete case and band set at X GIFT LIST.
+  Updated: 2026-11-03T16:32:11Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ecbbbe1a9521be2b0708f95720834bc.jpg?v=1793293413
+  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-gold-edition?variant=67963199389925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ecbbbe1a9521be2b0708f95720834bc.jpg?v=1793293413
+    Price: $89.95 USD
+  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-gold-edition?variant=67963199422693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ecbbbe1a9521be2b0708f95720834bc.jpg?v=1793293413
+    Price: $89.95 USD
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-gold-edition?variant=49975810293989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ecbbbe1a9521be2b0708f95720834bc.jpg?v=1793293413
@@ -1154,30 +1318,46 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4ecbbbe1a9521be2b0708f95720834bc.jpg?v=1793293413
     Price: $89.95 USD
-- [Rose Gold Nautilus Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition): Upgrade your Apple Watch with this rose gold Nautilus mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:12Z
+- [Rose Gold Nautilus Apple Watch Case & Band Set | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition): Rose gold Nautilus-inspired Apple Watch case and steel band set. Explore matching finishes and select the right watch size before ordering.
+  Updated: 2026-11-03T16:32:17Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/175213696d23bf5a80701361159c4c75.jpg?v=1793293436
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
+  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition?variant=67963238842597)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
+    Price: $89.95 USD
+  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition?variant=67963238875365)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
+    Price: $89.95 USD
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition?variant=49975814258917)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/175213696d23bf5a80701361159c4c75.jpg?v=1793293436
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
     Price: $89.95 USD
   - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition?variant=49975814291685)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/175213696d23bf5a80701361159c4c75.jpg?v=1793293436
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
     Price: $89.95 USD
   - [46mm (Series 10/11)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-rose-gold-edition?variant=49975814324453)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/175213696d23bf5a80701361159c4c75.jpg?v=1793293436
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0879.jpg?v=1793530237
     Price: $89.95 USD
-- [Silver Nautilus Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-silver-edition): Upgrade your Apple Watch with this silver Nautilus mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:11Z
+- [Silver Nautilus Apple Watch Case & Band Set | X GIFT LIST](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-silver-edition): Silver Nautilus-inspired Apple Watch case with a matching steel bracelet. Shop a coordinated case and band set at X GIFT LIST.
+  Updated: 2026-11-03T16:33:26Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e3fa9da343a9ee8668d619807458cab2.jpg?v=1793293461
+  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-silver-edition?variant=67963273117925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e3fa9da343a9ee8668d619807458cab2.jpg?v=1793293461
+    Price: $89.95 USD
+  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-silver-edition?variant=67963273150693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e3fa9da343a9ee8668d619807458cab2.jpg?v=1793293461
+    Price: $89.95 USD
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/nautilus-mod-apple-watch-case-strap-set-silver-edition?variant=49975819731173)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e3fa9da343a9ee8668d619807458cab2.jpg?v=1793293461
@@ -1234,42 +1414,91 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4b7ed855-7e94-4007-8f46-a27d0373a0d5.png?v=1793030694
     Price: $59.95 USD
-- [Silver Jubilee Stainless Steel Apple Watch Band Datejust Style | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition): Silver Jubilee Stainless Steel Apple Watch Band | Datejust Style for Apple Watch. Select your compatible size. Band only; Apple Watch not included.
-  Updated: 2026-10-30T05:36:16Z
+- [Jubilee Stainless Steel Apple Watch Band Datejust Style | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition): Jubilee Stainless Steel Apple Watch Band | Datejust Style for Apple Watch. Select your compatible size. Band only; Apple Watch not included.
+  Updated: 2026-11-06T01:56:51Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/27642941-aa77-4e57-8678-16868e1eabb5.png?v=1793030706
-  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021385957)
+  - [40mm (Series 4/5/6/SE) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021385957)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
     Price: $49.95 USD
-  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021418725)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
+  - [40mm (Series 4/5/6/SE) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392644325)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
     Price: $49.95 USD
-  - [42mm (Series 10/11/12)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021451493)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
+  - [40mm (Series 4/5/6/SE) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392677093)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
     Price: $49.95 USD
-  - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021484261)
+  - [41mm (Series 7/8/9) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021418725)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
     Price: $49.95 USD
-  - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021517029)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
+  - [41mm (Series 7/8/9) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392709861)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
     Price: $49.95 USD
-  - [46mm (Series 10/11/12)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021549797)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
+  - [41mm (Series 7/8/9) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392742629)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
     Price: $49.95 USD
-  - [49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021582565)
+  - [42mm (Series 10/11/12) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021451493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f0616efb-e8e9-4a38-9db9-fc0020ff7297.png?v=1793030722
+    Price: $49.95 USD
+  - [42mm (Series 10/11/12) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392775397)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
+    Price: $49.95 USD
+  - [42mm (Series 10/11/12) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392808165)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
+    Price: $49.95 USD
+  - [44mm (Series 4/5/6/SE) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021484261)
+    Availability: Available
+    Price: $49.95 USD
+  - [44mm (Series 4/5/6/SE) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392840933)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
+    Price: $49.95 USD
+  - [44mm (Series 4/5/6/SE) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392873701)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
+    Price: $49.95 USD
+  - [45mm (Series 7/8/9) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021517029)
+    Availability: Available
+    Price: $49.95 USD
+  - [45mm (Series 7/8/9) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392906469)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
+    Price: $49.95 USD
+  - [45mm (Series 7/8/9) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392939237)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
+    Price: $49.95 USD
+  - [46mm (Series 10/11/12) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021549797)
+    Availability: Available
+    Price: $49.95 USD
+  - [46mm (Series 10/11/12) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993392972005)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
+    Price: $49.95 USD
+  - [46mm (Series 10/11/12) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993393004773)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
+    Price: $49.95 USD
+  - [49mm (Ultra 1/2/3) / Silver](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=52107021582565)
+    Availability: Available
+    Price: $49.95 USD
+  - [49mm (Ultra 1/2/3) / Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993393037541)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/c6756291-f52a-4e97-b168-c43629187811.png?v=1793788911
+    Price: $49.95 USD
+  - [49mm (Ultra 1/2/3) / Rose Gold](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-jubilee-edition?variant=67993393070309)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/15f19929-1230-4c50-b3dc-2160d8e78f3b_dac87a11-3b3b-4c90-bd78-3b917d847e6b.png?v=1793789506
     Price: $49.95 USD
 - [Two-Tone Stainless Steel Apple Watch Band – Datejust Style](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-black-jubilee-edition): Upgrade your Apple Watch with this two-tone stainless steel band in Datejust style. Fits Series 4–12 & SE, Ultra 1/2/3 in 40/41/42/44/45/46/49mm.
-  Updated: 2026-10-30T05:36:41Z
+  Updated: 2026-11-04T21:09:57Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
@@ -1358,42 +1587,126 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/2029974d-0a7f-43e7-8ca1-9fa0527af97d.png?v=1793030782
     Price: $49.95 USD
-- [Silver Stainless Steel Apple Watch Band Oyster Style | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition): Silver Stainless Steel Apple Watch Band | Oyster Style for Apple Watch. Select your compatible size. Band only; Apple Watch not included.
-  Updated: 2026-10-30T05:36:54Z
+- [Silver Steel Apple Watch Band Oyster Style | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition): Shop a 316L steel Apple Watch band in four colors for 40mm–49mm models.
+  Updated: 2026-11-05T20:52:51Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
-  - [40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654304485)
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
+  - [Silver / 40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654304485)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654337253)
+  - [Silver / 41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654337253)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [42mm (Series 10/11/12)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654370021)
+  - [Silver / 42mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755536101)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654402789)
+  - [Silver / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654402789)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654435557)
+  - [Silver / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654435557)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [46mm (Series 10/11/12)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654468325)
+  - [Silver / 46mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755568869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-  - [49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=52086654501093)
+  - [Silver / 49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755601637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793030793
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5a6f6596-5726-4800-8b58-5ff36fd674f6.png?v=1793783198
     Price: $49.95 USD
-- [Black Steel Sub Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-case-strap-set-black-diver-edition): Upgrade your Apple Watch with this black steel Sub mod kit featuring a case and band. Fits Series 4–9 & SE in 44/45mm.
-  Updated: 2026-10-30T16:46:11Z
+  - [Rose Gold / 40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755634405)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755667173)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 42mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755699941)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755732709)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755765477)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 46mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755798245)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Rose Gold / 49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755831013)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/5287a3fe-8474-4b15-a3af-9fa8b5586458.png?v=1793783208
+    Price: $49.95 USD
+  - [Gold / 40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755863781)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755896549)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 42mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755929317)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755962085)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992755994853)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 46mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756027621)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Gold / 49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756060389)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4aa84160-b520-424c-8c58-effee15583db.png?v=1793783206
+    Price: $49.95 USD
+  - [Black / 40mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756093157)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 41mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756125925)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 42mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756158693)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756191461)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756224229)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 46mm (Series 10/11)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756256997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+  - [Black / 49mm (Ultra 1/2/3)](https://www.xgiftlist.com/products/classic-mod-apple-watch-strap-silver-oyster-edition?variant=67992756289765)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/855a1ba8-ca98-4372-8cf3-16acd0c7cf1a.png?v=1793783212
+    Price: $49.95 USD
+- [Black Sub Apple Watch Mod Kit | Steel Case & Band | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-case-strap-set-black-diver-edition): Explore the black Sub-style Apple Watch mod kit with a matching steel bracelet and diver-inspired look. Check watch size compatibility before ordering.
+  Updated: 2026-11-03T16:33:32Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -1406,8 +1719,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b74536aa2feeca1ae5a105c07ebc0614.jpg?v=1793293618
     Price: $89.95 USD
-- [Gold Steel Case & Band Sub Mod Kit for Apple Watch](https://www.xgiftlist.com/products/classic-mod-apple-watch-case-strap-set-gold-diver-edition): Upgrade your Apple Watch with a steel case and band Sub mod kit. Available in three finishes for 44mm and 45mm models.
-  Updated: 2026-10-30T16:46:11Z
+- [Gold Sub Apple Watch Mod Kit | Steel Case & Band | X GIFT LIST](https://www.xgiftlist.com/products/classic-mod-apple-watch-case-strap-set-gold-diver-edition): Explore a gold Sub-style Apple Watch mod kit with a matching steel bracelet. Get a diver-inspired case and band look at X GIFT LIST.
+  Updated: 2026-11-05T16:44:16Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -1421,7 +1734,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0b431ad74d808fbedde991e31c67b249.jpg?v=1793293654
     Price: $89.95 USD
 - [Black Steel Apple Watch Band Oak Style | X GIFT LIST](https://www.xgiftlist.com/products/oak-mod-apple-watch-strap-black-royal-edition): Black Steel Apple Watch Band | Oak Style for Apple Watch. Select your compatible size. Band only; Apple Watch not included.
-  Updated: 2026-10-30T05:37:26Z
+  Updated: 2026-10-31T02:01:50Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Band
   Availability: Available
@@ -1512,8 +1825,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/090b1b69-236f-4592-a164-2dd5dd222b6e.png?v=1793030951
     Price: $59.95 USD
-- [Silver GMT Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-silver-gmt-style): Upgrade your Apple Watch with this silver GMT mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T20:32:25Z
+- [Titanium-Color GMT Apple Watch Mod Kit | Rubber Band Set | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-silver-gmt-style): Shop a Titanium-Color GMT-inspired Apple Watch mod kit with a rubber band. Explore a sport-style case and strap combination at X GIFT LIST.
+  Updated: 2026-11-04T20:16:26Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -1534,41 +1847,35 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/3d8381db-5fb8-4d93-9dd9-9a64d9b51653.png?v=1793349103
     Price: $89.95 USD
-- [Black GMT Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-black-gmt-style): Upgrade your Apple Watch with this black GMT mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:11Z
+- [Black GMT Apple Watch Mod Kit | Rubber Band Set | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-black-gmt-style): Black GMT-inspired Apple Watch mod kit with a matching rubber band. Discover the coordinated case-and-strap style at X GIFT LIST.
+  Updated: 2026-11-03T16:33:51Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fc24341d00ae0dd70ff6c0be5b543eaf.jpg?v=1793293752
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0895.jpg?v=1793531102
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-black-gmt-style?variant=50327163961573)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fc24341d00ae0dd70ff6c0be5b543eaf.jpg?v=1793293752
     Price: $79.95 USD
   - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-black-gmt-style?variant=50327163994341)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fc24341d00ae0dd70ff6c0be5b543eaf.jpg?v=1793293752
     Price: $79.95 USD
   - [46mm (Series 10/11)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-black-gmt-style?variant=50327164027109)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/fc24341d00ae0dd70ff6c0be5b543eaf.jpg?v=1793293752
     Price: $79.95 USD
-- [Rose Gold GMT Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-rose-gold-gmt-style): Upgrade your Apple Watch with this rose gold GMT mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:09Z
+- [Rose Gold GMT Apple Watch Mod Kit | Rubber Band | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-rose-gold-gmt-style): Rose gold GMT-inspired Apple Watch mod kit with a matching rubber band. Explore a bold case-and-strap look at X GIFT LIST.
+  Updated: 2026-11-03T16:34:01Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/03ba8efcbdf84d932f76fc519fee6d84.jpg?v=1793293774
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0893.jpg?v=1793530919
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-rose-gold-gmt-style?variant=50327182704869)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/03ba8efcbdf84d932f76fc519fee6d84.jpg?v=1793293774
     Price: $79.95 USD
   - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-rose-gold-gmt-style?variant=50327182737637)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/03ba8efcbdf84d932f76fc519fee6d84.jpg?v=1793293774
     Price: $79.95 USD
   - [46mm (Series 10/11)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-rose-gold-gmt-style?variant=50327182770405)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/03ba8efcbdf84d932f76fc519fee6d84.jpg?v=1793293774
     Price: $79.95 USD
 - [Orange Outdoor Mod Kit for Apple Watch Ultra | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-armor-case-strap-orange-gym-style): Upgrade your Apple Watch Ultra with this orange Outdoor mod kit featuring a case and band. Fits Ultra 1/2/3 in 49mm.
   Updated: 2026-10-30T05:38:27Z
@@ -1612,26 +1919,23 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/84cc7cf9-3356-46c1-9ff3-d54a9b51cc4e.png?v=1793031335
   Price: $69.95 USD
-- [Coke GMT Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-coke-gmt-style): Upgrade your Apple Watch with this Coke GMT mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:09Z
+- [Coke GMT Apple Watch Mod Kit | Red & Black Bezel | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-coke-gmt-style): Explore the Coke GMT-style Apple Watch mod kit with red-and-black bezel styling and a rubber band. Check your watch size before ordering.
+  Updated: 2026-11-03T16:34:02Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63d2cec4435f2f5c8a03737848aa5710.jpg?v=1793293967
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0898.jpg?v=1793531232
   - [44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-coke-gmt-style?variant=50427008581861)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63d2cec4435f2f5c8a03737848aa5710.jpg?v=1793293967
     Price: $79.95 USD
   - [45mm (Series 7/8/9)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-coke-gmt-style?variant=50427008614629)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63d2cec4435f2f5c8a03737848aa5710.jpg?v=1793293967
     Price: $79.95 USD
   - [46mm (Series 10/11)](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-coke-gmt-style?variant=50427008647397)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/63d2cec4435f2f5c8a03737848aa5710.jpg?v=1793293967
     Price: $79.95 USD
-- [Batman GMT Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-batman-gmt-style): Upgrade your Apple Watch with this Batman GMT mod kit featuring a case and band. Fits Series 4–11 & SE in 44/45/46mm.
-  Updated: 2026-10-30T16:46:09Z
+- [Batman GMT Apple Watch Mod Kit | Blue Black Bezel | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-mod-zinc-alloy-case-rubber-strap-batman-gmt-style): Shop a Batman GMT-style Apple Watch mod kit with blue-and-black bezel styling and rubber band. Discover more at X GIFT LIST.
+  Updated: 2026-11-03T16:34:11Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -1821,7 +2125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/rmblack4445_9.png?v=1793031595
     Price: $89.95 USD
 - [Apple Watch Case & TPU Band Set | RM Mod Kit](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style): RM mod kit with a black or clear Apple Watch case and TPU band. Fits 44/45/46mm and Ultra 49mm models.
-  Updated: 2026-10-30T05:40:08Z
+  Updated: 2026-11-06T08:41:57Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -1829,83 +2133,83 @@
   - [Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640708325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b2a2d705-64da-4480-9825-460ca9c97010.png?v=1793031613
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640741093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b2a2d705-64da-4480-9825-460ca9c97010.png?v=1793031613
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Black / 46mm (Series 10/11)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640773861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b2a2d705-64da-4480-9825-460ca9c97010.png?v=1793031613
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Black / 46mm (Series 12)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=67627510202597)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b2a2d705-64da-4480-9825-460ca9c97010.png?v=1793031613
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Black / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640806629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/b2a2d705-64da-4480-9825-460ca9c97010.png?v=1793031613
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Yellow / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641101541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e59bcfa2-cd52-4e9b-b7a2-687bf35e803d.png?v=1793031617
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Yellow / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641134309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e59bcfa2-cd52-4e9b-b7a2-687bf35e803d.png?v=1793031617
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Yellow / 46mm (Series 10/11)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641167077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e59bcfa2-cd52-4e9b-b7a2-687bf35e803d.png?v=1793031617
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Yellow / 46mm (Series 12)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=67627510235365)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e59bcfa2-cd52-4e9b-b7a2-687bf35e803d.png?v=1793031617
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Yellow / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641199845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e59bcfa2-cd52-4e9b-b7a2-687bf35e803d.png?v=1793031617
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640839397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0e379765-7ee1-43bb-8b66-b4831bf8b259.png?v=1793031622
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Orange / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640872165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0e379765-7ee1-43bb-8b66-b4831bf8b259.png?v=1793031622
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Orange / 46mm (Series 10/11)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640904933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0e379765-7ee1-43bb-8b66-b4831bf8b259.png?v=1793031622
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Orange / 46mm (Series 12)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=67627510268133)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0e379765-7ee1-43bb-8b66-b4831bf8b259.png?v=1793031622
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Orange / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640937701)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/0e379765-7ee1-43bb-8b66-b4831bf8b259.png?v=1793031622
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Red / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837640970469)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/66564b93-1a72-4533-b180-d567dbeea0b1.png?v=1793031627
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Red / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641003237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/66564b93-1a72-4533-b180-d567dbeea0b1.png?v=1793031627
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Red / 46mm (Series 10/11)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641036005)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/66564b93-1a72-4533-b180-d567dbeea0b1.png?v=1793031627
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Red / 46mm (Series 12)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=67627510300901)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/66564b93-1a72-4533-b180-d567dbeea0b1.png?v=1793031627
-    Price: $59.95 USD
+    Price: $69.95 USD
   - [Red / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/smoke-black-apple-watch-case-tpu-band-set-rm-style?variant=50837641068773)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/66564b93-1a72-4533-b180-d567dbeea0b1.png?v=1793031627
-    Price: $59.95 USD
+    Price: $69.95 USD
 - [Clear TPU RM Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/clear-apple-watch-case-tpu-band-set-rm-style): Upgrade your Apple Watch with this clear TPU RM mod kit featuring a case and band. Fits Series 4–11 & SE, Ultra 1/2/3 in 44/45/46/49mm.
   Updated: 2026-10-30T05:40:19Z
   Vendor: X GIFT LIST
@@ -1972,31 +2276,31 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/4be9aa1a-2849-483d-b02c-1d2cbf2f922b.png?v=1793031656
     Price: $59.95 USD
-- [Stainless Steel Casio Mod Kit for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style): Upgrade your Apple Watch with a stainless steel Casio-inspired case and integrated band, available in five finishes and multiple sizes.
-  Updated: 2026-10-30T16:46:10Z
+- [Casio-Style Apple Watch Case & Steel Band Set | X GIFT LIST](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style): Shop a Casio-inspired Apple Watch case and stainless steel band set. Explore a distinctive retro-sport look and select the right size.
+  Updated: 2026-11-06T20:01:06Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
   - [Gold / 42mm (Series 10/11)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=50855060308197)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
     Price: $89.95 USD
   - [Gold / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=50855060340965)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
     Price: $89.95 USD
   - [Gold / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=50855060373733)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
     Price: $89.95 USD
   - [Gold / 46mm (Series 10/11)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=50855060406501)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
     Price: $89.95 USD
   - [Gold / 49mm (Ultra 1/2/3/4)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=50855060439269)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/957914cc1b7d3eaec449ab9eb376c6da.jpg?v=1793294220
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/IMG_0775.jpg?v=1793411777
     Price: $89.95 USD
   - [Silver / 42mm (Series 10/11)](https://www.xgiftlist.com/products/gold-apple-watch-stainless-steel-case-band-set-sport-style?variant=67897141657829)
     Availability: Available
@@ -2106,8 +2410,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/x-gift-list-green-camo-apple-watch-case.jpg?v=1793294332
     Price: $59.95 USD
-- [Silver Steel & Rubber Royal Oak Mod Kit for Apple Watch Ultra](https://www.xgiftlist.com/products/silver-steel-apple-watch-ultra-case-rubber-band-set-royal-oak-mod-kit): Upgrade your Apple Watch Ultra with this silver steel & rubber Royal Oak mod kit featuring a case and band. Fits Ultra 1/2/3 in 49mm.
-  Updated: 2026-10-30T06:38:20Z
+- [Silver Apple Watch Ultra Mod Case | Royal Oak Rubber | X GIFT LIST](https://www.xgiftlist.com/products/silver-steel-apple-watch-ultra-case-rubber-band-set-royal-oak-mod-kit): Discover the silver Royal Oak-inspired Apple Watch Ultra 49mm mod case with a rubber strap. Check Ultra model compatibility before ordering.
+  Updated: 2026-11-04T03:45:40Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -2140,8 +2444,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/f64a3eec-fb8a-4a74-8a50-ebaae20c1f57.png?v=1793031881
     Price: $98.95 USD
-- [Steel & Rubber Royal Oak Mod Kit for Apple Watch Ultra](https://www.xgiftlist.com/products/black-steel-apple-watch-ultra-case-rubber-band-set-royal-oak-mod-kit): Upgrade your Apple Watch Ultra with a steel case and rubber band Royal Oak mod kit. Choose the case and band colour for Ultra 1/2/3 in 49mm.
-  Updated: 2026-10-30T06:38:06Z
+- [Black Apple Watch Ultra Mod Case | Royal Oak Rubber | X GIFT LIST](https://www.xgiftlist.com/products/black-steel-apple-watch-ultra-case-rubber-band-set-royal-oak-mod-kit): Explore the black Royal Oak-inspired Apple Watch Ultra 49mm mod case and rubber strap set. Select your compatible Ultra model.
+  Updated: 2026-11-04T03:45:41Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -2216,15 +2520,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/385b403c-401a-42f8-886c-661e7020f710.png?v=1793032035
     Price: $79.95 USD
-- [Silver Aluminum & Steel Royal Oak Mod Kit for Apple Watch Ultra](https://www.xgiftlist.com/products/silver-apple-watch-ultra-aluminum-case-steel-band-set-royal-oak-mod-kit): Upgrade your Apple Watch Ultra with this silver aluminum & steel Royal Oak mod kit featuring a case and band. Fits Ultra 1/2/3 in 49mm.
-  Updated: 2026-10-29T22:34:38Z
+- [Silver Apple Watch Ultra Mod Kit | Steel Bracelet | X GIFT LIST](https://www.xgiftlist.com/products/silver-apple-watch-ultra-aluminum-case-steel-band-set-royal-oak-mod-kit): Shop the silver Royal Oak-inspired Apple Watch Ultra 49mm mod kit with a coordinated steel bracelet. Check model compatibility.
+  Updated: 2026-11-04T03:45:40Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/e093c029cac03b02a513a6ed44491d59.jpg?v=1793294493
   Price: $119.95 USD
-- [Aluminum & Steel Royal Oak Mod Kit for Apple Watch Ultra](https://www.xgiftlist.com/products/black-apple-watch-ultra-aluminum-case-steel-band-set-royal-oak-mod-kit): Upgrade your Apple Watch Ultra with an aluminum case and stainless steel band. Available in black or silver for Ultra 1/2/3 in 49mm.
-  Updated: 2026-10-29T22:33:35Z
+- [Black Apple Watch Ultra Mod Kit | Steel Bracelet | X GIFT LIST](https://www.xgiftlist.com/products/black-apple-watch-ultra-aluminum-case-steel-band-set-royal-oak-mod-kit): Explore the black Royal Oak-inspired Apple Watch Ultra 49mm mod kit and steel bracelet set. Choose the correct Ultra model before ordering.
+  Updated: 2026-11-04T03:45:39Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Case & Band Set
   Availability: Available
@@ -2503,7 +2807,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/Magnetic_Silicone_Band_6.jpg?v=1793032191
     Price: $37.95 USD
 - [RidgeArmor Mod Kit for Apple Watch Ultra | X GIFT LIST](https://www.xgiftlist.com/products/apple-watch-ultra-ridgearmor-case-band-outdoor-mod-kit): Discover the RidgeArmor case and TPU band set for Apple Watch Ultra 49mm. Rugged zinc alloy styling, five colors. Case and band only.
-  Updated: 2026-10-30T05:42:43Z
+  Updated: 2026-11-03T01:36:32Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Mod Kit
   Availability: Available
@@ -2528,12 +2832,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/Mud_King_4.png?v=1793032285
     Price: $73.95 USD
-- [Black Explorer Case & Band Set for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026): Shop the black Explorer integrated PC case and band set for Apple Watch. Choose Black, Orange, Blue, Green or Starlight bands. Watch not included.
-  Updated: 2026-10-30T05:42:51Z
+- [Explorer Apple Watch Series 12 Case & Band | 46mm | X GIFT LIST](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026): Shop the Explorer Apple Watch case and integrated band with a dedicated Series 12 46mm option. Check compatibility and choose your style.
+  Updated: 2026-11-03T16:35:41Z
   Vendor: X GIFT LIST
   Product Type: Apple Watch Mod Kit
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07.jpg?v=1793294670
+  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/06.jpg?v=1793533126
   - [Starlight / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070614757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_09.jpg?v=1793294684
@@ -2547,7 +2851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_09.jpg?v=1793294684
     Price: $59.95 USD
   - [Starlight / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67894198862053)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_09.jpg?v=1793294684
     Price: $59.95 USD
   - [Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070319845)
@@ -2563,24 +2867,24 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_03.jpg?v=1793294673
     Price: $59.95 USD
   - [Orange / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67894198894821)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_03.jpg?v=1793294673
     Price: $59.95 USD
   - [Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070221541)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07.jpg?v=1793294670
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/06.jpg?v=1793533126
     Price: $59.95 USD
   - [Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070188773)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07.jpg?v=1793294670
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/06.jpg?v=1793533126
     Price: $59.95 USD
   - [Black / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070156005)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07.jpg?v=1793294670
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/06.jpg?v=1793533126
     Price: $59.95 USD
   - [Black / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67894198927589)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07.jpg?v=1793294670
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/06.jpg?v=1793533126
     Price: $59.95 USD
   - [Blue / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070418149)
     Availability: Available
@@ -2595,7 +2899,7 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_05.jpg?v=1793294679
     Price: $59.95 USD
   - [Blue / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67894198960357)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_05.jpg?v=1793294679
     Price: $59.95 USD
   - [Green / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67885070516453)
@@ -2611,96 +2915,10 @@
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07_64dd6058-d257-40ea-aff6-a98d809345d9.jpg?v=1793294681
     Price: $59.95 USD
   - [Green / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-blk-shell-2026?variant=67894198993125)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_07_64dd6058-d257-40ea-aff6-a98d809345d9.jpg?v=1793294681
     Price: $59.95 USD
-- [Titanium-Color Explorer Case & Band Set for Apple Watch | X GIFT LIST](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026): Shop the titanium-color Explorer integrated PC case and band set for Apple Watch. Choose Black, Orange, Blue, Green or Starlight bands. Watch not included.
-  Updated: 2026-10-30T05:42:59Z
-  Vendor: X GIFT LIST
-  Product Type: Apple Watch Mod Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_02_107b89f6-e75c-4f3d-a47f-190195566598.jpg?v=1793032294
-  - [Black / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073694949)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_02_107b89f6-e75c-4f3d-a47f-190195566598.jpg?v=1793032294
-    Price: $59.95 USD
-  - [Black / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073662181)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_02_107b89f6-e75c-4f3d-a47f-190195566598.jpg?v=1793032294
-    Price: $59.95 USD
-  - [Black / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073629413)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_02_107b89f6-e75c-4f3d-a47f-190195566598.jpg?v=1793032294
-    Price: $59.95 USD
-  - [Black / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885519700197)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_02_107b89f6-e75c-4f3d-a47f-190195566598.jpg?v=1793032294
-    Price: $59.95 USD
-  - [Orange / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073793253)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_04.jpg?v=1793032298
-    Price: $59.95 USD
-  - [Orange / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073760485)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_04.jpg?v=1793032298
-    Price: $59.95 USD
-  - [Orange / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073727717)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_04.jpg?v=1793032298
-    Price: $59.95 USD
-  - [Orange / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885519732965)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_04.jpg?v=1793032298
-    Price: $59.95 USD
-  - [Blue / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073891557)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_06.jpg?v=1793032301
-    Price: $59.95 USD
-  - [Blue / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073858789)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_06.jpg?v=1793032301
-    Price: $59.95 USD
-  - [Blue / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073826021)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_06.jpg?v=1793032301
-    Price: $59.95 USD
-  - [Blue / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885519765733)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_06.jpg?v=1793032301
-    Price: $59.95 USD
-  - [Green / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073989861)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_08.jpg?v=1793032306
-    Price: $59.95 USD
-  - [Green / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073957093)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_08.jpg?v=1793032306
-    Price: $59.95 USD
-  - [Green / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885073924325)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_08.jpg?v=1793032306
-    Price: $59.95 USD
-  - [Green / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885519798501)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_08.jpg?v=1793032306
-    Price: $59.95 USD
-  - [Starlight / 44mm (Series 4/5/6/SE)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885074088165)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_10.jpg?v=1793032309
-    Price: $59.95 USD
-  - [Starlight / 45mm (Series 7/8/9)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885074055397)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_10.jpg?v=1793032309
-    Price: $59.95 USD
-  - [Starlight / 46mm (Series 10/11)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885074022629)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_10.jpg?v=1793032309
-    Price: $59.95 USD
-  - [Starlight / 46mm (Series 12)](https://www.xgiftlist.com/products/xgl-explorer-integrated-pc-case-band-tit-shell-2026?variant=67885519831269)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0758/7125/6805/files/SKU_10.jpg?v=1793032309
-    Price: $59.95 USD
-[List Continued](https://www.xgiftlist.com/a/llms-agent/llms.txt?shop=1d4hmx-am.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTI2OTY1NzgyOSwibGFzdF92YWx1ZSI6IjE1NDY1MjY5NjU3ODI5In0%3D)
+[List Continued](https://www.xgiftlist.com/a/llms-agent/llms.txt?shop=1d4hmx-am.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2NTI2OTUyNjc1NywibGFzdF92YWx1ZSI6IjE1NDY1MjY5NTI2NzU3In0%3D)
 
 ## Collections
 
@@ -2728,95 +2946,95 @@
 - [Octa Mod Collection](https://www.xgiftlist.com/collections/octa-seiko-mod): Discover the Octamod collection by WATCH MODS. Custom-built automatic watches featuring integrated-bracelet designs and reliable TMI movements, crafted for modern everyday style.
   Updated: 2026-10-26T17:34:05Z
   Total Products: 7
-- [Oak Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/oak-mod-apple-watch-case)
-  Updated: 2026-10-30T11:18:40Z
+- [Oak Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/oak-mod-apple-watch-case): Discover Royal Oak-inspired Apple Watch mod kits with premium cases and matching bands. Explore bold designs and choose a compatible size.
+  Updated: 2026-11-06T12:34:44Z
   Total Products: 15
-- [Santo Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/santo-mod-apple-watch-strap)
-  Updated: 2026-10-29T17:28:48Z
+- [Santo Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/santo-mod-apple-watch-strap): Give your Apple Watch a refined, square-watch look with Santo-inspired case and band sets. Explore finishes and find the right fit for your model.
+  Updated: 2026-11-03T16:00:33Z
   Total Products: 3
-- [Nautilus Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/nautilus-mod-apple-watch-strap)
-  Updated: 2026-10-29T17:28:50Z
+- [Nautilus Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/nautilus-mod-apple-watch-strap): Explore Nautilus-inspired Apple Watch mod kits, featuring distinctive cases and coordinating bands. Compare styles and check compatibility before ordering.
+  Updated: 2026-11-04T12:17:21Z
   Total Products: 7
-- [Classic Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/classic-mod-apple-watch-case-strap)
-  Updated: 2026-10-29T17:28:52Z
+- [Classic Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/classic-mod-apple-watch-case-strap): Discover classic-inspired Apple Watch cases and matching bands for an elevated everyday look. Browse mod kit styles and compatible watch sizes.
+  Updated: 2026-11-04T10:42:47Z
   Total Products: 3
-- [Sub Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/sub-mod-apple-watch-case-strap)
-  Updated: 2026-10-30T16:46:12Z
+- [Sub Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/sub-mod-apple-watch-case-strap): Explore diver-watch-inspired Apple Watch cases and band sets with a sporty, premium finish. Find a Sub Mod Kit that suits your compatible Apple Watch.
+  Updated: 2026-11-06T12:34:44Z
   Total Products: 11
-- [Outdoor Mod Apple Watch Cases & Bands](https://www.xgiftlist.com/collections/gym-mod-apple-watch-case-strap)
-  Updated: 2026-10-30T16:46:11Z
-  Total Products: 18
-- [For Apple Watch Lovers](https://www.xgiftlist.com/collections/for-apple-watch-lovers)
-  Updated: 2026-10-30T16:46:12Z
-  Total Products: 65
+- [Outdoor Mod Apple Watch Cases & Bands](https://www.xgiftlist.com/collections/gym-mod-apple-watch-case-strap): Shop sport-inspired Apple Watch cases and bands designed for a bold everyday look. Explore outdoor styles and check model and size compatibility.
+  Updated: 2026-11-06T08:41:50Z
+  Total Products: 20
+- [For Apple Watch Lovers](https://www.xgiftlist.com/collections/for-apple-watch-lovers): Explore Apple Watch mod kits, statement cases and bands for a distinctive look. Discover styles for everyday wear and check compatibility by model.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 67
 - [Apple Watch Mod Kits-Best ](https://www.xgiftlist.com/collections/best--apple-watch-mod-kits): Shop premium Apple Watch Mod Kits with luxury-inspired cases and matching straps. Explore complete watch modification kits in distinctive designs.
-  Updated: 2026-10-30T16:46:10Z
+  Updated: 2026-11-06T12:34:44Z
   Total Products: 9
-- [New Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/new-apple-watch-straps-mod-kits)
-  Updated: 2026-10-30T16:46:12Z
+- [New Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/new-apple-watch-straps-mod-kits): See the latest Apple Watch mod kits, replacement bands and case-and-band styles at X GIFT LIST. Find your next look and confirm model compatibility.
+  Updated: 2026-11-06T08:41:50Z
   Total Products: 21
-- [Best- Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/best--apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:12Z
+- [Best- Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/best--apple-watch-straps-and-mod-kits): Explore popular Apple Watch mod kits, cases and matching bands. Compare our best- styles and find a compatible fit for your Apple Watch.
+  Updated: 2026-11-06T12:34:44Z
   Total Products: 43
-- [Flexible Material Apple Watch Bands](https://www.xgiftlist.com/collections/rubber-and-silicone-apple-watch-straps)
-  Updated: 2026-10-30T16:46:12Z
+- [Flexible Material Apple Watch Bands](https://www.xgiftlist.com/collections/rubber-and-silicone-apple-watch-straps): Browse flexible rubber and silicone Apple Watch bands in sporty and versatile styles. Choose a colour and check fit for your Apple Watch size.
+  Updated: 2026-11-06T08:41:50Z
   Total Products: 31
-- [Metal Apple Watch Bands](https://www.xgiftlist.com/collections/metal-apple-watch-straps)
-  Updated: 2026-10-30T16:46:12Z
+- [Metal Apple Watch Bands](https://www.xgiftlist.com/collections/metal-apple-watch-straps): Discover metal Apple Watch bands and bracelet styles for a sophisticated wristwatch look. Explore finishes and find the right fit for your watch.
+  Updated: 2026-11-06T12:34:44Z
   Total Products: 38
-- [Apple Watch Mod Kits](https://www.xgiftlist.com/collections/apple-watch-mod-kits): Explore premium Apple Watch Mod Kits featuring luxury-inspired cases and matching straps. Upgrade your Apple Watch with a complete, stylish transformation.
-  Updated: 2026-10-30T16:46:12Z
-  Total Products: 22
-- [Dress Apple Watch case&band](https://www.xgiftlist.com/collections/dress-apple-watch-case-band)
-  Updated: 2026-10-24T15:12:03Z
+- [Apple Watch Mod Kits](https://www.xgiftlist.com/collections/apple-watch-mod-kits): Shop Apple Watch mod kits with premium cases and matching bands. Explore Royal Oak, Nautilus, GMT and more styles. Free worldwide shipping and 30-day returns.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 27
+- [Dress Apple Watch case&band](https://www.xgiftlist.com/collections/dress-apple-watch-case-band): Explore dress-inspired Apple Watch cases and matching bands for an elegant, refined look. Compare styles and select your compatible Apple Watch size.
+  Updated: 2026-11-03T16:01:33Z
   Total Products: 2
-- [38mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/38mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-29T11:42:19Z
+- [38mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/38mm-apple-watch-straps-and-mod-kits): Browse 38mm Apple Watch bands and accessories. Explore stylish options and check individual product compatibility before choosing a new look.
+  Updated: 2026-11-04T10:42:47Z
   Total Products: 9
-- [40mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/40mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-29T11:42:19Z
+- [40mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/40mm-apple-watch-straps-and-mod-kits): Shop 40mm Apple Watch bands and accessories in a range of everyday and statement styles. Check product compatibility before ordering.
+  Updated: 2026-11-04T10:42:47Z
   Total Products: 9
-- [41mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/41mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-29T11:42:19Z
+- [41mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/41mm-apple-watch-straps-and-mod-kits): Discover 41mm Apple Watch bands, cases and mod kit styles. Browse available designs and confirm your Apple Watch model before selecting a fit.
+  Updated: 2026-11-04T10:42:47Z
   Total Products: 9
-- [42mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/42mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:11Z
+- [42mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/42mm-apple-watch-straps-and-mod-kits): Explore 42mm Apple Watch bands and mod kit options with distinctive styling. Verify your watch generation and case fit before ordering.
+  Updated: 2026-11-05T12:19:20Z
   Total Products: 17
-- [44mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/44mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:12Z
-  Total Products: 54
-- [45mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/45mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:12Z
-  Total Products: 54
-- [46mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/46mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:12Z
-  Total Products: 45
-- [49mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/49mm-apple-watch-straps-and-mod-kits)
-  Updated: 2026-10-30T16:46:11Z
-  Total Products: 40
-- [RM Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/rm-mod-apple-watch-case-strap)
-  Updated: 2026-10-29T17:28:58Z
+- [44mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/44mm-apple-watch-straps-and-mod-kits): Shop 44mm Apple Watch bands and mod kits for a fresh wristwatch look. Compare designs and check exact model compatibility before purchase.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 56
+- [45mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/45mm-apple-watch-straps-and-mod-kits): Discover 45mm Apple Watch mod kits, cases and matching bands. Explore statement styles for compatible models and confirm your watch size.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 56
+- [46mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/46mm-apple-watch-straps-and-mod-kits): Explore 46mm Apple Watch mod kits, cases and bands designed for compatible watch generations. Check model details to choose the correct fit.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 47
+- [49mm Apple Watch Bands & Mod Kits](https://www.xgiftlist.com/collections/49mm-apple-watch-straps-and-mod-kits): Shop 49mm Apple Watch Ultra case and band styles for a bold look. Explore compatible accessories and verify your exact Ultra model before ordering.
+  Updated: 2026-11-06T12:34:44Z
+  Total Products: 42
+- [RM Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/rm-mod-apple-watch-case-strap): Explore RM-inspired Apple Watch mod kits featuring bold case designs and matching bands. Compare available styles and check model compatibility.
+  Updated: 2026-11-06T08:41:50Z
   Total Products: 4
-- [Casio Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/gym-sport-mod-apple-watch-case-band-copy)
-  Updated: 2026-10-30T16:46:11Z
-  Total Products: 13
-- [Apple Watch Band](https://www.xgiftlist.com/collections/apple-watch-band)
-  Updated: 2026-10-29T11:42:19Z
+- [Casio Mod Apple Watch Case&Band](https://www.xgiftlist.com/collections/gym-sport-mod-apple-watch-case-band-copy): Discover Casio-inspired Apple Watch case and band styles with a sporty, retro look. Browse available designs and check your watch model and size.
+  Updated: 2026-11-05T12:19:20Z
+  Total Products: 15
+- [Apple Watch Band](https://www.xgiftlist.com/collections/apple-watch-band): Shop Apple Watch bands and straps in metal, rubber and more. Discover distinctive designs and find a compatible fit for your Apple Watch.
+  Updated: 2026-11-04T10:42:47Z
   Total Products: 16
-- [Whoop Band](https://www.xgiftlist.com/collections/whoop-band)
-  Updated: 2026-10-12T16:23:09Z
+- [Whoop Band](https://www.xgiftlist.com/collections/whoop-band): Explore WHOOP band and replacement strap styles for a new look. Browse colours and materials, and check your device compatibility before ordering.
+  Updated: 2026-11-03T16:02:34Z
   Total Products: 5
-- [For Seiko Mod Lovers](https://www.xgiftlist.com/collections/for-seiko-mod-lovers)
-  Updated: 2026-10-26T17:34:17Z
+- [For Seiko Mod Lovers](https://www.xgiftlist.com/collections/for-seiko-mod-lovers): Browse Seiko mod-inspired watches and accessories in distinctive styles. Explore the collection and review individual product specifications.
+  Updated: 2026-11-03T16:02:37Z
   Total Products: 52
-- [For Cup Lovers](https://www.xgiftlist.com/collections/for-cup-lovers): Cups & everyday essentials
-  Updated: 2026-10-29T06:27:19Z
-  Total Products: 8
-- [For Jewellery Lovers](https://www.xgiftlist.com/collections/for-jewellery-lovers): Everyday pieces & accessories
-  Updated: 2026-10-26T07:24:41Z
+- [For Cup Lovers](https://www.xgiftlist.com/collections/for-cup-lovers): Explore the X GIFT LIST collection for cup lovers. Browse available gifts and accessories and discover practical, fun finds.
+  Updated: 2026-11-06T12:35:23Z
+  Total Products: 10
+- [For Jewellery Lovers](https://www.xgiftlist.com/collections/for-jewellery-lovers): Discover jewellery-inspired gifts and accessories at X GIFT LIST. Explore the collection for distinctive pieces and everyday style.
+  Updated: 2026-11-03T16:02:44Z
   Total Products: 0
-- [For EDC Lovers](https://www.xgiftlist.com/collections/for-edc-lovers): Premium EDC Gear & Everyday Essentials.
-  Updated: 2026-10-26T07:40:36Z
+- [For EDC Lovers](https://www.xgiftlist.com/collections/for-edc-lovers): Browse gifts and accessories for everyday carry enthusiasts. Explore useful, distinctive finds in the X GIFT LIST EDC collection.
+  Updated: 2026-11-03T16:02:47Z
   Total Products: 0
 - [Seiko Mod Watches](https://www.xgiftlist.com/collections/seiko-mod-watches): Explore Seiko Mod watches featuring Japanese automatic movements, custom designs, GMT watches and premium stainless steel cases. Shop X GIFT LIST.
   Updated: 2026-10-26T17:34:17Z
@@ -2825,96 +3043,106 @@
 ## Blogs
 
 - [news](https://www.xgiftlist.com/blogs/news)
-  - [Upgrade Your Style: How the Santo Mod Apple Watch Strap Elevates Your Apple Watch Case Experience](https://www.xgiftlist.com/blogs/news/upgrade-your-style-how-the-santo-mod-apple-watch-strap-elevates-your-apple-watch-case-experience): Upgrade Your Style: How the Santo Mod Apple Watch Strap Elevates Your Apple Watch Case Experience
-    Updated: 2026-09-22T08:16:33Z
+  - [Santo Apple Watch Strap: Style and Fit Guide](https://www.xgiftlist.com/blogs/news/upgrade-your-style-how-the-santo-mod-apple-watch-strap-elevates-your-apple-watch-case-experience): Santo Apple Watch Strap: Style and Fit Guide
+    Updated: 2026-11-03T17:24:50Z
     Author: Chris.L
-  - [Nautilus Mod Apple Watch Strap Review: Transform Your Style with the Phantom Black Edition Apple Watch Case and Band](https://www.xgiftlist.com/blogs/news/nautilus-mod-apple-watch-strap-review-transform-your-style-with-the-phantom-black-edition-apple-watch-case-and-band): Nautilus Mod Apple Watch Strap Review: Transform Your Style with the Phantom Black Edition Apple Watch Case and Band
-    Updated: 2026-09-22T08:16:32Z
+  - [Black Nautilus Apple Watch Strap: Design and Fit](https://www.xgiftlist.com/blogs/news/nautilus-mod-apple-watch-strap-review-transform-your-style-with-the-phantom-black-edition-apple-watch-case-and-band): Black Nautilus Apple Watch Strap: Design and Fit
+    Updated: 2026-11-03T17:24:56Z
     Author: Chris.L
-  - [Elevate Your Apple Watch Case Style with the Santo Mod Heritage Royal Blue Edition Strap](https://www.xgiftlist.com/blogs/news/elevate-your-apple-watch-case-style-with-the-santo-mod-heritage-royal-blue-edition-strap): Elevate Your Apple Watch Case Style with the Santo Mod Heritage Royal Blue Edition Strap
-    Updated: 2026-09-22T08:16:32Z
+  - [Royal Blue Santo Apple Watch Strap: Style Guide](https://www.xgiftlist.com/blogs/news/elevate-your-apple-watch-case-style-with-the-santo-mod-heritage-royal-blue-edition-strap): Royal Blue Santo Apple Watch Strap: Style Guide
+    Updated: 2026-11-03T17:25:01Z
     Author: Chris.L
-  - [10 Reasons Why the Rose Gold Royal Edition Oak Mod Apple Watch Case Strap Set is the Ultimate Apple Watch Band Upgrade](https://www.xgiftlist.com/blogs/news/10-reasons-why-the-rose-gold-royal-edition-oak-mod-apple-watch-case-strap-set-is-the-ultimate-apple-watch-band-upgrade): 10 Reasons Why the Rose Gold Royal Edition Oak Mod Apple Watch Case Strap Set is the Ultimate Apple Watch Band Upgrade
-    Updated: 2026-09-22T08:16:32Z
+  - [Rose Gold Royal Oak Apple Watch Mod Kit: Features](https://www.xgiftlist.com/blogs/news/10-reasons-why-the-rose-gold-royal-edition-oak-mod-apple-watch-case-strap-set-is-the-ultimate-apple-watch-band-upgrade): Rose Gold Royal Oak Apple Watch Mod Kit: Features
+    Updated: 2026-11-03T17:28:33Z
     Author: Chris.L
-  - [Enhance Your Look with the Black Milanese Edition Apple Watch Strap: The Perfect Apple Watch Case and Band Combination](https://www.xgiftlist.com/blogs/news/enhance-your-look-with-the-black-milanese-edition-apple-watch-strap-the-perfect-apple-watch-case-and-band-combination): Enhance Your Look with the Black Milanese Edition Apple Watch Strap: The Perfect Apple Watch Case and Band Combination
-    Updated: 2026-09-22T08:16:31Z
+  - [Black Milanese Apple Watch Band: Style and Fit](https://www.xgiftlist.com/blogs/news/enhance-your-look-with-the-black-milanese-edition-apple-watch-strap-the-perfect-apple-watch-case-and-band-combination): Black Milanese Apple Watch Band: Style and Fit
+    Updated: 2026-11-03T17:25:12Z
     Author: Chris.L
-  - [Upgrade Your Apple Watch Aesthetics with the Oak Mod Sunset Orange Strap and Case for a Bold New Look](https://www.xgiftlist.com/blogs/news/upgrade-your-apple-watch-aesthetics-with-the-oak-mod-sunset-orange-strap-and-case-for-a-bold-new-look): Upgrade Your Apple Watch Aesthetics with the Oak Mod Sunset Orange Strap and Case for a Bold New Look
-    Updated: 2026-09-22T08:16:33Z
+  - [Orange Royal Oak Apple Watch Case: Style Guide](https://www.xgiftlist.com/blogs/news/upgrade-your-apple-watch-aesthetics-with-the-oak-mod-sunset-orange-strap-and-case-for-a-bold-new-look): Orange Royal Oak Apple Watch Case: Style Guide
+    Updated: 2026-11-03T17:28:33Z
     Author: Chris.L
-  - [Achieve Timeless Elegance with the Pink Milanese Edition Apple Watch Strap and Case for a Stylish Apple Watch Band Experience](https://www.xgiftlist.com/blogs/news/achieve-timeless-elegance-with-the-pink-milanese-edition-apple-watch-strap-and-case-for-a-stylish-apple-watch-band-experience): Achieve Timeless Elegance with the Pink Milanese Edition Apple Watch Strap and Case for a Stylish Apple Watch Band Experience
-    Updated: 2026-09-22T08:16:33Z
+  - [Pink Milanese Apple Watch Band: Choosing a Style](https://www.xgiftlist.com/blogs/news/achieve-timeless-elegance-with-the-pink-milanese-edition-apple-watch-strap-and-case-for-a-stylish-apple-watch-band-experience): Pink Milanese Apple Watch Band: Choosing a Style
+    Updated: 2026-11-03T17:25:22Z
     Author: Chris.L
-  - [Elevate Your Watch Game with the Classic Mod Apple Watch Case Strap Set Silver Diver Edition Featuring Stunning Apple Watch Strap and Band Quality](https://www.xgiftlist.com/blogs/news/elevate-your-watch-game-with-the-classic-mod-apple-watch-case-strap-set-silver-diver-edition-featuring-stunning-apple-watch-strap-and-band-quality): Elevate Your Watch Game with the Classic Mod Apple Watch Case Strap Set Silver Diver Edition Featuring Stunning Apple Watch Strap and Band Quality
-    Updated: 2026-09-22T08:16:33Z
+  - [Silver Diver Apple Watch Mod Case: Design Guide](https://www.xgiftlist.com/blogs/news/elevate-your-watch-game-with-the-classic-mod-apple-watch-case-strap-set-silver-diver-edition-featuring-stunning-apple-watch-strap-and-band-quality): Silver Diver Apple Watch Mod Case: Design Guide
+    Updated: 2026-11-03T17:28:33Z
     Author: Chris.L
-  - [Discover the Nautilus Mod Sunset Orange Edition: The Apple Watch Case and Strap Combination Revolutionizing Apple Watch Bands](https://www.xgiftlist.com/blogs/news/discover-the-nautilus-mod-sunset-orange-edition-the-apple-watch-case-and-strap-combination-revolutionizing-apple-watch-bands): Discover the Nautilus Mod Sunset Orange Edition: The Apple Watch Case and Strap Combination Revolutionizing Apple Watch Bands
-    Updated: 2026-09-22T08:16:32Z
+  - [Orange Nautilus Apple Watch Strap and Case Guide](https://www.xgiftlist.com/blogs/news/discover-the-nautilus-mod-sunset-orange-edition-the-apple-watch-case-and-strap-combination-revolutionizing-apple-watch-bands): Orange Nautilus Apple Watch Strap and Case Guide
+    Updated: 2026-11-03T17:28:33Z
     Author: Chris.L
-  - [5 Ways the Santo Mod Rose Gold Edition Transforms Your Apple Watch Case and Strap Style](https://www.xgiftlist.com/blogs/news/5-ways-the-santo-mod-rose-gold-edition-transforms-your-apple-watch-case-and-strap-style): 5 Ways the Santo Mod Rose Gold Edition Transforms Your Apple Watch Case and Strap Style
-    Updated: 2026-09-22T08:16:32Z
+  - [Rose Gold Santo Apple Watch Case and Band Guide](https://www.xgiftlist.com/blogs/news/5-ways-the-santo-mod-rose-gold-edition-transforms-your-apple-watch-case-and-strap-style): Rose Gold Santo Apple Watch Case and Band Guide
+    Updated: 2026-11-03T17:28:36Z
     Author: Chris.L
-  - [Explore Timeless Elegance with the Classic Mod Gold Oyster Edition Apple Watch Strap for a Seamless Apple Watch Case and Band Integration](https://www.xgiftlist.com/blogs/news/explore-timeless-elegance-with-the-classic-mod-gold-oyster-edition-apple-watch-strap-for-a-seamless-apple-watch-case-and-band-integration): Explore Timeless Elegance with the Classic Mod Gold Oyster Edition Apple Watch Strap for a Seamless Apple Watch Case and Band Integration
-    Updated: 2026-09-22T08:16:33Z
+  - [Gold Oyster Apple Watch Band: Style and Pairing](https://www.xgiftlist.com/blogs/news/explore-timeless-elegance-with-the-classic-mod-gold-oyster-edition-apple-watch-strap-for-a-seamless-apple-watch-case-and-band-integration): Gold Oyster Apple Watch Band: Style and Pairing
+    Updated: 2026-11-03T17:25:42Z
     Author: Chris.L
-  - [How to Use Clockology on Apple Watch: Complete Setup Guide](https://www.xgiftlist.com/blogs/news/how-to-use-clockology-apple-watch-faces)
-    Updated: 2026-09-22T08:16:32Z
+  - [How to Use Clockology on Apple Watch: Setup Guide](https://www.xgiftlist.com/blogs/news/how-to-use-clockology-apple-watch-faces): How to Use Clockology on Apple Watch: Setup Guide
+    Updated: 2026-11-03T17:25:47Z
     Author: Mia
-  - [Apple Watch Mod Case: The Complete Beginner’s Guide](https://www.xgiftlist.com/blogs/news/apple-watch-mod-case-beginners-guide)
-    Updated: 2026-09-22T08:16:33Z
+  - [What Is an Apple Watch Mod Case? Beginner Guide](https://www.xgiftlist.com/blogs/news/apple-watch-mod-case-beginners-guide): What Is an Apple Watch Mod Case? Beginner Guide
+    Updated: 2026-11-03T17:31:37Z
     Author: Mia
-  - [The Ultimate Guide to Apple Watch Cases: Perfecting Your Look with the Black Oyster Style Apple Watch Strap and Band](https://www.xgiftlist.com/blogs/news/the-ultimate-guide-to-apple-watch-cases-perfecting-your-look-with-the-black-oyster-style-apple-watch-strap-and-band): The Ultimate Guide to Apple Watch Cases: Perfecting Your Look with the Black Oyster Style Apple Watch Strap and Band
-    Updated: 2026-09-22T08:16:32Z
+  - [Black Oyster Apple Watch Band: Case Pairing Guide](https://www.xgiftlist.com/blogs/news/the-ultimate-guide-to-apple-watch-cases-perfecting-your-look-with-the-black-oyster-style-apple-watch-strap-and-band): Black Oyster Apple Watch Band: Case Pairing Guide
+    Updated: 2026-11-03T17:28:36Z
     Author: Chris.L
-  - [How the Rose Gold Oyster Style Strap Redefines Apple Watch Cases and Bands](https://www.xgiftlist.com/blogs/news/how-the-rose-gold-oyster-style-strap-redefines-apple-watch-cases-and-bands): How the Rose Gold Oyster Style Strap Redefines Apple Watch Cases and Bands
-    Updated: 2026-09-22T08:16:32Z
+  - [Rose Gold Oyster Apple Watch Band: Style Guide](https://www.xgiftlist.com/blogs/news/how-the-rose-gold-oyster-style-strap-redefines-apple-watch-cases-and-bands): Rose Gold Oyster Apple Watch Band: Style Guide
+    Updated: 2026-11-03T17:26:06Z
     Author: Chris.L
-  - [Exploring the Chic Style of Milanese Steel Strap in Pink: Elevate Your Apple Watch Case and Discover the Perfect Strap and Band Pairings](https://www.xgiftlist.com/blogs/news/exploring-the-chic-style-of-milanese-steel-strap-in-pink-elevate-your-apple-watch-case-and-discover-the-perfect-strap-and-band-pairings): Exploring the Chic Style of Milanese Steel Strap in Pink: Elevate Your Apple Watch Case and Discover the Perfect Strap and Band Pairings
-    Updated: 2026-09-22T08:16:32Z
+  - [Pink Milanese Apple Watch Strap: Materials and Fit](https://www.xgiftlist.com/blogs/news/exploring-the-chic-style-of-milanese-steel-strap-in-pink-elevate-your-apple-watch-case-and-discover-the-perfect-strap-and-band-pairings): Pink Milanese Apple Watch Strap: Materials and Fit
+    Updated: 2026-11-03T17:26:11Z
     Author: Chris.L
-  - [Discover Santo Style's Silver Apple Watch Case and Band Set: The Ultimate Guide to Elevating Your Apple Watch Case and Strap Experience](https://www.xgiftlist.com/blogs/news/discover-santo-styles-silver-apple-watch-case-and-band-set-the-ultimate-guide-to-elevating-your-apple-watch-case-and-strap-experience): Discover Santo Style's Silver Apple Watch Case and Band Set: The Ultimate Guide to Elevating Your Apple Watch Case and Strap Experience
-    Updated: 2026-09-22T08:16:33Z
+  - [Silver Santo Apple Watch Case and Band: Guide](https://www.xgiftlist.com/blogs/news/discover-santo-styles-silver-apple-watch-case-and-band-set-the-ultimate-guide-to-elevating-your-apple-watch-case-and-strap-experience): Silver Santo Apple Watch Case and Band: Guide
+    Updated: 2026-11-03T17:28:36Z
     Author: Chris.L
-  - [Revamp Your Watch Aesthetic with the GMT Rose Gold Apple Watch Case and Rubber Band for a Versatile Apple Watch Strap Experience](https://www.xgiftlist.com/blogs/news/revamp-your-watch-aesthetic-with-the-gmt-rose-gold-apple-watch-case-and-rubber-band-for-a-versatile-apple-watch-strap-experience): Revamp Your Watch Aesthetic with the GMT Rose Gold Apple Watch Case and Rubber Band for a Versatile Apple Watch Strap Experience
-    Updated: 2026-09-22T08:16:32Z
+  - [Rose Gold GMT Apple Watch Mod Kit: Buying Guide](https://www.xgiftlist.com/blogs/news/revamp-your-watch-aesthetic-with-the-gmt-rose-gold-apple-watch-case-and-rubber-band-for-a-versatile-apple-watch-strap-experience): Rose Gold GMT Apple Watch Mod Kit: Buying Guide
+    Updated: 2026-11-03T17:28:39Z
     Author: Chris.L
-  - [Discovering the Sleek Aesthetic of the Smoke Black Apple Watch Case and Fluororubber Band Set](https://www.xgiftlist.com/blogs/news/discovering-the-sleek-aesthetic-of-the-smoke-black-apple-watch-case-and-fluororubber-band-set): Discovering the Sleek Aesthetic of the Smoke Black Apple Watch Case and Fluororubber Band Set
-    Updated: 2026-09-22T08:16:33Z
+  - [Smoke Black Apple Watch Case and Rubber Band Guide](https://www.xgiftlist.com/blogs/news/discovering-the-sleek-aesthetic-of-the-smoke-black-apple-watch-case-and-fluororubber-band-set): Smoke Black Apple Watch Case and Rubber Band Guide
+    Updated: 2026-11-03T17:28:39Z
     Author: Chris.L
-  - [Updated 49mm Apple Watch Ultra Cases & Bands | X GIFT LIST](https://www.xgiftlist.com/blogs/news/apple-watch-ultra-collection-update): Updated 49mm Apple Watch Ultra Cases & Bands | X GIFT LIST
-    Updated: 2026-09-22T08:16:32Z
+  - [Apple Watch Ultra 49mm Mod Cases: Collection Update](https://www.xgiftlist.com/blogs/news/apple-watch-ultra-collection-update): Apple Watch Ultra 49mm Mod Cases: Collection Update
+    Updated: 2026-11-03T17:26:29Z
     Author: Roesette S
-  - [Master Your Apple Watch Look: The Essentials of Using a Clear Apple Watch Case And Fluororubber Strap](https://www.xgiftlist.com/blogs/news/master-your-apple-watch-look-the-essentials-of-using-a-clear-apple-watch-case-and-fluororubber-strap): Master Your Apple Watch Look: The Essentials of Using a Clear Apple Watch Case And Fluororubber Strap
-    Updated: 2026-09-22T08:16:33Z
+  - [Clear Apple Watch Case and Rubber Strap: Guide](https://www.xgiftlist.com/blogs/news/master-your-apple-watch-look-the-essentials-of-using-a-clear-apple-watch-case-and-fluororubber-strap): Clear Apple Watch Case and Rubber Strap: Guide
+    Updated: 2026-11-03T17:28:39Z
     Author: Chris.L
-  - [Discover the Stylish Durability of the Smoke Black Apple Watch Case and TPU Band Combo to Elevate Your Apple Watch Strap Collection](https://www.xgiftlist.com/blogs/news/discover-the-stylish-durability-of-the-smoke-black-apple-watch-case-and-tpu-band-combo-to-elevate-your-apple-watch-strap-collection): Discover the Stylish Durability of the Smoke Black Apple Watch Case and TPU Band Combo to Elevate Your Apple Watch Strap Collection
-    Updated: 2026-10-26T15:45:28Z
+  - [Smoke Black Apple Watch Case and TPU Band Guide](https://www.xgiftlist.com/blogs/news/discover-the-stylish-durability-of-the-smoke-black-apple-watch-case-and-tpu-band-combo-to-elevate-your-apple-watch-strap-collection): Smoke Black Apple Watch Case and TPU Band Guide
+    Updated: 2026-11-03T17:28:40Z
     Author: Chris.L
-  - [Everything You Need to Know About Choosing the Perfect Brown Rubber Apple Watch Band](https://www.xgiftlist.com/blogs/news/everything-you-need-to-know-about-choosing-the-perfect-brown-rubber-apple-watch-band): Everything You Need to Know About Choosing the Perfect Brown Rubber Apple Watch Band
-    Updated: 2026-10-09T11:47:39Z
+  - [Brown Rubber Apple Watch Band: Buying Guide](https://www.xgiftlist.com/blogs/news/everything-you-need-to-know-about-choosing-the-perfect-brown-rubber-apple-watch-band): Brown Rubber Apple Watch Band: Buying Guide
+    Updated: 2026-11-03T17:26:45Z
     Author: Chris.L
-  - [Discover the Elegance of the Silver Steel Royal Oak Mod Kit: Transform Your Look with a Stylish Apple Watch Case and Band Set](https://www.xgiftlist.com/blogs/news/discover-the-elegance-of-the-silver-steel-royal-oak-mod-kit-transform-your-look-with-a-stylish-apple-watch-case-and-band-set): Discover the Elegance of the Silver Steel Royal Oak Mod Kit: Transform Your Look with a Stylish Apple Watch Case and Band Set
-    Updated: 2026-10-29T17:28:25Z
+  - [Silver Royal Oak Apple Watch Mod Kit: Style Guide](https://www.xgiftlist.com/blogs/news/discover-the-elegance-of-the-silver-steel-royal-oak-mod-kit-transform-your-look-with-a-stylish-apple-watch-case-and-band-set): Silver Royal Oak Apple Watch Mod Kit: Style Guide
+    Updated: 2026-11-03T17:31:37Z
     Author: Chris.L
-  - [Exploring the Casio Mod Kit: Unlocking Versatility with the Apple Watch Stainless Steel Case and Apple Watch Strap Options](https://www.xgiftlist.com/blogs/news/exploring-the-casio-mod-kit-unlocking-versatility-with-the-apple-watch-stainless-steel-case-and-apple-watch-strap-options): Exploring the Casio Mod Kit: Unlocking Versatility with the Apple Watch Stainless Steel Case and Apple Watch Strap Options
-    Updated: 2026-10-29T17:28:25Z
+  - [Casio-Style Apple Watch Mod Kit: Case and Band](https://www.xgiftlist.com/blogs/news/exploring-the-casio-mod-kit-unlocking-versatility-with-the-apple-watch-stainless-steel-case-and-apple-watch-strap-options): Casio-Style Apple Watch Mod Kit: Case and Band
+    Updated: 2026-11-03T17:28:43Z
     Author: Chris.L
-  - [Apple Watch Series 12 Case Compatibility | X GIFT LIST](https://www.xgiftlist.com/blogs/news/will-your-apple-watch-case-fit-series-12): Apple Watch Series 12 Case Compatibility | X GIFT LIST
-    Updated: 2026-10-26T15:45:41Z
+  - [Apple Watch Series 12 Mod Kit Compatibility Guide](https://www.xgiftlist.com/blogs/news/will-your-apple-watch-case-fit-series-12): Apple Watch Series 12 Mod Kit Compatibility Guide
+    Updated: 2026-11-03T17:31:37Z
     Author: Rosette S
-  - [Transform Your Look with the Silver Steel Nautilus Mod Kit for Apple Watch Bands and Cases](https://www.xgiftlist.com/blogs/news/transform-your-look-with-the-silver-steel-nautilus-mod-kit-for-apple-watch-bands-and-cases): Transform Your Look with the Silver Steel Nautilus Mod Kit for Apple Watch Bands and Cases
-    Updated: 2026-10-29T17:28:25Z
+  - [Silver Nautilus Apple Watch Mod Kit: Buying Guide](https://www.xgiftlist.com/blogs/news/transform-your-look-with-the-silver-steel-nautilus-mod-kit-for-apple-watch-bands-and-cases): Silver Nautilus Apple Watch Mod Kit: Buying Guide
+    Updated: 2026-11-03T17:31:37Z
     Author: Chris.L
-  - [Transform Your Style with the Gold Steel Apple Watch Case and Band Set for a Chic Apple Watch Strap and Band Experience](https://www.xgiftlist.com/blogs/news/transform-your-style-with-the-gold-steel-apple-watch-case-and-band-set-for-a-chic-apple-watch-strap-and-band-experience): Transform Your Style with the Gold Steel Apple Watch Case and Band Set for a Chic Apple Watch Strap and Band Experience
-    Updated: 2026-10-29T17:28:26Z
+  - [Gold Apple Watch Case and Steel Band Set: Guide](https://www.xgiftlist.com/blogs/news/transform-your-style-with-the-gold-steel-apple-watch-case-and-band-set-for-a-chic-apple-watch-strap-and-band-experience): Gold Apple Watch Case and Steel Band Set: Guide
+    Updated: 2026-11-03T17:28:43Z
     Author: Chris.L
-  - [Exploring the Benefits of the Black Steel Apple Watch Ultra Case and Rubber Band Set for an Enhanced Apple Watch Strap and Band Experience](https://www.xgiftlist.com/blogs/news/exploring-the-benefits-of-the-black-steel-apple-watch-ultra-case-and-rubber-band-set-for-an-enhanced-apple-watch-strap-and-band-experience): Exploring the Benefits of the Black Steel Apple Watch Ultra Case and Rubber Band Set for an Enhanced Apple Watch Strap and Band Experience
-    Updated: 2026-10-29T17:28:26Z
+  - [Black Apple Watch Ultra Case and Rubber Band Guide](https://www.xgiftlist.com/blogs/news/exploring-the-benefits-of-the-black-steel-apple-watch-ultra-case-and-rubber-band-set-for-an-enhanced-apple-watch-strap-and-band-experience): Black Apple Watch Ultra Case and Rubber Band Guide
+    Updated: 2026-11-03T17:28:46Z
     Author: Chris.L
-  - [How Black Steel Apple Watch Case and Band Set Shifts Your Apple Watch Strap Game](https://www.xgiftlist.com/blogs/news/how-black-steel-apple-watch-case-and-band-set-shifts-your-apple-watch-strap-game): How Black Steel Apple Watch Case and Band Set Shifts Your Apple Watch Strap Game
-    Updated: 2026-10-29T23:20:27Z
+  - [Black Steel Apple Watch Case and Band Set: Guide](https://www.xgiftlist.com/blogs/news/how-black-steel-apple-watch-case-and-band-set-shifts-your-apple-watch-strap-game): Black Steel Apple Watch Case and Band Set: Guide
+    Updated: 2026-11-03T17:28:46Z
     Author: Chris.L
+  - [A Comprehensive Guide to Enhancing Your Apple Watch with the AP Royal Oak Mod Kit Silver Featuring a Stylish Apple Watch Case and Band Set<br>](https://www.xgiftlist.com/blogs/news/a-comprehensive-guide-to-enhancing-your-apple-watch-with-the-ap-royal-oak-mod-kit-silver-featuring-a-stylish-apple-watch-case-and-band-set-br): A Comprehensive Guide to Enhancing Your Apple Watch with the AP Royal Oak Mod Kit Silver Featuring a Stylish Apple Watch Case and Band Set<br>
+    Updated: 2026-11-03T17:40:35Z
+    Author: Chris.L
+  - [Maximize Elegance with the Gold Steel Sub Mod Kit for Your Apple Watch Case and Band Transformation](https://www.xgiftlist.com/blogs/news/maximize-elegance-with-the-gold-steel-sub-mod-kit-for-your-apple-watch-case-and-band-transformation): Maximize Elegance with the Gold Steel Sub Mod Kit for Your Apple Watch Case and Band Transformation
+    Updated: 2026-11-05T00:42:33Z
+    Author: Chris.L
+  - [Best Apple Watch Mod Kits in 2026: Brands, Prices & Pros Compared](https://www.xgiftlist.com/blogs/news/best-apple-watch-mod-kits-2026): Compare Apple Watch mod kits in 2026. See USD prices, real pros and cons, materials, compatibility tips and buying advice from X GIFT LIST, The Mod Projects and more.
+    Updated: 2026-11-06T08:57:58Z
+    Author: X GIFT LIST Editorial Team
+    Tags: 2026, apple watch mod kit, apple watch mod kits, buyers guide, comparison
 
 ## Store Pages
 
@@ -2954,7 +3182,7 @@
 - [Shipping Policy](https://www.xgiftlist.com/policies/shipping-policy)
   Updated: 2026-08-22T12:05:46Z
 - [Refund Policy](https://www.xgiftlist.com/policies/refund-policy)
-  Updated: 2026-10-30T08:09:54Z
+  Updated: 2026-10-31T04:08:18Z
 - [Terms of Service](https://www.xgiftlist.com/policies/terms-of-service)
   Updated: 2026-07-10T15:47:03Z
 - [Contact Information](https://www.xgiftlist.com/policies/contact-information)
