@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-09-02T12:59:54Z
 - Contact Email: hello@beavida.com
-- Updated At: 2026-10-31T00:35:55.226Z
+- Updated At: 2026-11-07T00:38:56.677Z
 
 Welcome to Beavida
 
@@ -337,6 +337,10 @@ We encourage responsible use of this information, ensuring that any outputs gene
     Updated: 2026-08-19T13:35:47Z
     Author: Larissa Bauml
     Tags: Fertility
+  - [Period Product Guide: Pads, Tampons, Cups & Underwear](https://beavida.com/blogs/news/the-period-product-guide): Period Product Guide: Pads, Tampons, Cups & Underwear
+    Updated: 2026-11-03T14:00:04Z
+    Author: Larissa Bauml
+    Tags: Menstruation
   - [Beavida-Tee-Gewinnspiel Oktober 2026: 5 Tees zu gewinnen](https://beavida.com/blogs/news/beavida-oktober-2026-gewinnspiel): Beavida-Tee-Gewinnspiel Oktober 2026: 5 Tees zu gewinnen
     Updated: 2026-10-16T09:19:50Z
     Author: Larissa Bauml
