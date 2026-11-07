@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-16T09:01:37Z
 - Contact Email: showerheadsco@gmail.com
-- Updated At: 2026-10-30T01:24:12.404Z
+- Updated At: 2026-11-07T01:04:21.405Z
 
 Shower Heads Co. is a US-based online store specializing in filtered 
 showerheads and the replacement filter cartridges that fit them.
@@ -28,7 +28,7 @@ Shipping within the United States. Free shipping on all US orders.
 ## Products
 
 - [Filtered Handheld Showerhead for Hard Water — 10 Modes](https://www.showerheadsco.com/products/filtered-handheld-showerhead-for-hard-water-10-spray-modes-chrome): Filtered handheld showerhead for hard water with 10 spray modes, 59-inch stainless steel hose, adjustable bracket, chrome finish, and air-induction design.
-  Updated: 2026-10-20T13:07:01Z
+  Updated: 2026-11-05T16:21:19Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -36,21 +36,21 @@ Shipping within the United States. Free shipping on all US orders.
   - [Silver](https://www.showerheadsco.com/products/filtered-handheld-showerhead-for-hard-water-10-spray-modes-chrome?variant=48156204826789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/25cf6efea3fba4019085f5be8fd8b0b5.jpg?v=1786881575
-    Price: $29.93 USD
+    Price: $23.80 USD
   - [Brushed Nickel Sliver](https://www.showerheadsco.com/products/filtered-handheld-showerhead-for-hard-water-10-spray-modes-chrome?variant=48156204859557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/fb2ddf133614b63b345304c62294d93a.jpg?v=1786881575
-    Price: $33.66 USD
+    Price: $30.32 USD
   - [Black](https://www.showerheadsco.com/products/filtered-handheld-showerhead-for-hard-water-10-spray-modes-chrome?variant=48156204892325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/a1b06c25b0d3d23d136ac3ac3fcb14fa.jpg?v=1786881575
-    Price: $31.22 USD
+    Price: $28.13 USD
   - [Matte Khaki](https://www.showerheadsco.com/products/filtered-handheld-showerhead-for-hard-water-10-spray-modes-chrome?variant=48156204925093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/17621dbb59370091499f2aff07d74302.jpg?v=1786881575
-    Price: $42.36 USD
+    Price: $38.15 USD
 - [Filtered Showerhead for Hard Water — 6-Inch Chrome](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-high-pressure-6-inch-chrome): Filtered showerhead for hard water with a 6-inch stainless steel head, adjustable swivel connector, tool-free setup, and replaceable filtration system.
-  Updated: 2026-10-08T19:37:50Z
+  Updated: 2026-11-06T11:30:31Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -58,7 +58,7 @@ Shipping within the United States. Free shipping on all US orders.
   - [6 Inch / Chrome](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-high-pressure-6-inch-chrome?variant=48156205547685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/37948d3b344b5f7e7dc79431fe9a531f.jpg?v=1786881570
-    Price: $17.52 USD
+    Price: $20.09 USD
   - [6 Inch / Black](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-high-pressure-6-inch-chrome?variant=48156205580453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/84cb36d320d12a113af966067092d1d9.jpg?v=1786881570
@@ -72,7 +72,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/1767eaf1d694d3b3e7fc104e23bb3a25.jpg?v=1786881570
     Price: $26.72 USD
 - [Filtered Showerhead for Hard Water — 7 Spray Settings](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-7-spray-settings-chrome): Filtered showerhead with seven spray settings, universal G1/2-inch fit, adjustable angle, chrome finish, and a transparent replaceable filter cartridge.
-  Updated: 2026-10-29T13:25:28Z
+  Updated: 2026-11-07T00:16:37Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -106,11 +106,11 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/5a9b0903679a0ac75d5e85d6e59de9e7.jpg?v=1786881585
     Price: $26.14 USD
   - [Premium Filter / Brushed Nickel](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-7-spray-settings-chrome?variant=48156206530725)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/293fba54b224768f96980bf5b8f8e2b6.jpg?v=1786881585
     Price: $26.14 USD
 - [Filtered Showerhead for Hard Water — 5 Spray Modes](https://www.showerheadsco.com/products/filtered-showerhead-for-hard-water-5-spray-modes-chrome): Filtered showerhead with five spray modes, high-pressure flow, adjustable angle, chrome finish, and tool-free installation with a replaceable filter.
-  Updated: 2026-10-29T16:36:10Z
+  Updated: 2026-11-03T19:42:57Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -136,7 +136,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/972ba282413c52a0b969fc2c67d21380.jpg?v=1786882549
     Price: $43.64 USD
 - [Filtered Handheld Showerhead — 6 Spray Modes, Matte Black](https://www.showerheadsco.com/products/filtered-handheld-showerhead-matte-black): Filtered handheld showerhead with six spray modes, universal G1/2-inch threading, 1.8 GPM flow rate, matte black finish, and replaceable filtration.
-  Updated: 2026-10-28T15:35:57Z
+  Updated: 2026-11-04T11:39:36Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -202,7 +202,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/2d7b439c527d47fd6b098d3287c6a254.jpg?v=1786882553
     Price: $49.78 USD
 - [Dual Filtered Showerhead Combo for Hard Water — 10 Modes](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo): Dual filtered showerhead combo with 8-inch rainfall head, 10-mode handheld, universal G1/2 fit, adjustable positioning, and 59-inch stainless steel hose.
-  Updated: 2026-10-24T14:08:37Z
+  Updated: 2026-11-06T16:14:00Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -210,59 +210,59 @@ Shipping within the United States. Free shipping on all US orders.
   - [8 Inch Filtered / Matte Black](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221833381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/3e26d782da883885260d2056d1a53932.jpg?v=1786882552
-    Price: $74.52 USD
+    Price: $73.88 USD
   - [8 Inch Standard / Chrome](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221866149)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/48cc344efb1e75d22a66770204682cbf.jpg?v=1786882552
-    Price: $57.11 USD
+    Price: $49.65 USD
   - [8 Inch Filtered / Chrome](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221898917)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/8f29644f43e0b4cb655e24b45deb431a.jpg?v=1786882552
-    Price: $99.27 USD
+    Price: $73.89 USD
   - [8 Inch Standard / Brushed Nickel](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221931685)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/c21c76dabe4493a2e0a2c29f6445a187.jpg?v=1786882553
-    Price: $86.89 USD
+    Price: $62.14 USD
   - [8 Inch Standard / Black](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221964453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/bace71aeac1a6bf502218b55e3e3db11.jpg?v=1786882552
-    Price: $57.19 USD
+    Price: $53.49 USD
   - [10 Inch Filtered / Chrome](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156221997221)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/490003af8241e2bf09f91da1e977da0b.jpg?v=1786882552
-    Price: $124.01 USD
+    Price: $94.86 USD
   - [8 Inch Filtered / Brushed Nickel](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222029989)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/598d2d173f86e23f2cf3caa78751f8d1.jpg?v=1786882552
-    Price: $111.64 USD
+    Price: $82.49 USD
   - [8 Inch Filtered / Gold](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222062757)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/ac921db41e7bc1d43f8b420c510c40bb.jpg?v=1786882552
-    Price: $111.68 USD
+    Price: $84.38 USD
   - [10 Inch Filtered / Brushed Nickel](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222095525)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/c4c7e954e2ebebd285052bffa779fdcd.jpg?v=1786882552
-    Price: $124.01 USD
+    Price: $99.18 USD
   - [10 Inch Standard / Chrome](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222128293)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/9f82782e37fb904227bd56dbb5bac050.jpg?v=1786882552
-    Price: $87.03 USD
+    Price: $60.21 USD
   - [10 Inch Standard / Brushed Nickel](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222161061)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/83c829f7b875554d2f79e1f6e400bde4.jpg?v=1786882552
-    Price: $99.41 USD
+    Price: $70.16 USD
   - [10 Inch Standard / Matte Black](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222193829)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/cfa48b0b83dc01210c78f1e32dd5e291.jpg?v=1786882552
-    Price: $86.93 USD
+    Price: $60.14 USD
   - [10 Inch Filtered / Matte Black](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222226597)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/3d0593ff4a03ab142c4820d65bd7f332.jpg?v=1786882552
-    Price: $124.01 USD
+    Price: $99.24 USD
   - [8 Inch Standard / Gold](https://www.showerheadsco.com/products/dual-filtered-showerhead-combo?variant=48156222259365)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/df0939a3f8632ccf4ec6bc4871602ab9.jpg?v=1786882552
-    Price: $86.89 USD
+    Price: $68.29 USD
 - [Filtered Handheld Showerhead — High Pressure, Chrome](https://www.showerheadsco.com/products/filtered-handheld-showerhead-high-pressure-chrome-finish): Filtered handheld showerhead with high-pressure spray, universal 1/2-inch connections, 59-inch stainless steel hose, and replaceable filtration system.
   Updated: 2026-09-29T07:50:11Z
   Vendor: Shower Heads Co.
@@ -282,7 +282,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/d2b2de51f8e0d78282b4eb9197632f49.jpg?v=1786882548
     Price: $63.34 USD
 - [Filtered Handheld Showerhead — 6 Spray Modes, Chrome](https://www.showerheadsco.com/products/filtered-handheld-showerhead): Filtered handheld showerhead with six spray modes, a universal G1/2-inch thread, 1.8 GPM flow rate, chrome finish, and replaceable filtration cartridge.
-  Updated: 2026-10-28T15:35:55Z
+  Updated: 2026-11-04T11:39:31Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -451,28 +451,14 @@ Shipping within the United States. Free shipping on all US orders.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/1e7f5b63be753ea6f404a05d84eb2928.jpg?v=1786892194
   Price: $29.99 USD
-- [Shower Filter Replacement Cartridge — 2-Pack, 6-Month Supply](https://www.showerheadsco.com/products/shower-filter-replacement-cartridge): Shower filter replacement cartridge 2-pack designed to reduce chlorine and heavy metals, with tool-free setup and up to a 6-month supply for a family of three.
-  Updated: 2026-10-28T08:12:27Z
-  Vendor: Shower Heads Co.
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/167914da09d05f7c5160d54ead980b5c.jpg?v=1786892194
-  - [2 Pack](https://www.showerheadsco.com/products/shower-filter-replacement-cartridge?variant=48156357918885)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/167914da09d05f7c5160d54ead980b5c.jpg?v=1786892194
-    Price: $37.41 USD
-  - [Pack Of 1](https://www.showerheadsco.com/products/shower-filter-replacement-cartridge?variant=48156357951653)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/2b386f47b6e5ed1d1856382e1594b74d.jpg?v=1786892194
-    Price: $37.41 USD
 - [AquaHomeGroup 20-Stage Shower Filter Replacement Cartridge](https://www.showerheadsco.com/products/aquahomegroup-20-stage-shower-filter-cartridge): Replace a compatible 15- or 20-stage shower filter with this AquaHomeGroup cartridge featuring KDF-55, activated carbon, calcium sulfite, and vitamins.
-  Updated: 2026-10-29T00:45:46Z
+  Updated: 2026-11-06T21:06:56Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/b615fb1e54f15925f790d19dbc303068_0b6d420e-63b7-46b9-b12f-8aa0577edb59.jpg?v=1786893205
   - [1 Count (Pack Of 1) / 20 Stage](https://www.showerheadsco.com/products/aquahomegroup-20-stage-shower-filter-cartridge?variant=48156385771685)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/b615fb1e54f15925f790d19dbc303068_0b6d420e-63b7-46b9-b12f-8aa0577edb59.jpg?v=1786893205
     Price: $17.57 USD
   - [1 Count (Pack Of 1) / 20 Stage With Spin Propeller](https://www.showerheadsco.com/products/aquahomegroup-20-stage-shower-filter-cartridge?variant=48156385804453)
@@ -513,20 +499,6 @@ Shipping within the United States. Free shipping on all US orders.
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/19f6c89b4b6d79c405cb93a0b6b4b95f.jpg?v=1786893203
     Price: $33.70 USD
-- [MyHalos Shower Filter Replacement Cartridge – 3-Month Supply](https://www.showerheadsco.com/products/myhalos-shower-filter-replacement-cartridge): Replace a compatible MyHalos or universal shower filter with this cartridge designed to reduce chlorine, heavy metals, and impurities for up to 3 months.
-  Updated: 2026-10-28T08:12:22Z
-  Vendor: Shower Heads Co.
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/2b386f47b6e5ed1d1856382e1594b74d_e365aede-a866-4e44-9809-e43e1d95c2ac.jpg?v=1786893204
-  - [Pack Of 1](https://www.showerheadsco.com/products/myhalos-shower-filter-replacement-cartridge?variant=48156386066597)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/2b386f47b6e5ed1d1856382e1594b74d_e365aede-a866-4e44-9809-e43e1d95c2ac.jpg?v=1786893204
-    Price: $37.41 USD
-  - [2 Pack](https://www.showerheadsco.com/products/myhalos-shower-filter-replacement-cartridge?variant=48156386099365)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/167914da09d05f7c5160d54ead980b5c_de91d8c9-5d0f-4cc0-87f3-e4e1212f37d7.jpg?v=1786893204
-    Price: $37.41 USD
 - [Magichome Shower Filter Replacement Cartridges – 2 Pack](https://www.showerheadsco.com/products/magichome-shower-filter-replacement-cartridges): Replace compatible Magichome handheld shower filters with this 2-pack featuring 20-layer filtration with KDF, maifan stone, and vitamin C media.
   Updated: 2026-10-18T00:43:22Z
   Vendor: Shower Heads Co.
@@ -542,7 +514,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/00d01afa8df93b1d41bfae6b23c301bc.jpg?v=1786893204
     Price: $37.61 USD
 - [Cobbe CF1101 Shower Filter Replacement Cartridges – 2 Pack](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement): Replace compatible Cobbe handheld showerhead filters with this 2-pack of CF1101 cartridges designed to reduce chlorine and impurities from shower water.
-  Updated: 2026-10-26T19:31:41Z
+  Updated: 2026-11-02T19:34:31Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -550,19 +522,19 @@ Shipping within the United States. Free shipping on all US orders.
   - [Standard / 2 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386394277)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/046abc716f6dc351b8677f7912b3a90c.jpg?v=1786893208
-    Price: $23.68 USD
+    Price: $26.28 USD
   - [Cobbe Max / 1 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386427045)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/b5e5a04b2f45466d7a002fe492dadb3e.jpg?v=1786893207
-    Price: $18.11 USD
+    Price: $20.09 USD
   - [Standard / 1 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386459813)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/395d6a0aacc2d4a7bd4a304f5e91e746.jpg?v=1786893207
-    Price: $14.77 USD
+    Price: $16.38 USD
   - [Cobbe Max / 4 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386492581)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/3f60e0e5f1dd38b1188163343ed0ae26.jpg?v=1786893208
-    Price: $40.38 USD
+    Price: $49.78 USD
   - [Cobbe Plus / 4 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386525349)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/f2cf4cae748b8951c92a585aac924f1c.jpg?v=1786893208
@@ -570,11 +542,11 @@ Shipping within the United States. Free shipping on all US orders.
   - [Cobbe Max / 2 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386558117)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/9025422f8cdc501ea58d19610daf4be3.jpg?v=1786893207
-    Price: $31.47 USD
+    Price: $34.94 USD
   - [Standard / 4 Pcs](https://www.showerheadsco.com/products/cobbe-cf1101-shower-filter-replacement?variant=48156386590885)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/513cf90a0393c76d215e2123838f6f1c.jpg?v=1786893208
-    Price: $39.27 USD
+    Price: $46.07 USD
 - [FEELSO 15-Stage Shower Filter Cartridges – 2 Pack](https://www.showerheadsco.com/products/feelso-15-stage-shower-filter-replacement-cartridges-2-pack): Replace compatible FEELSO handheld shower filters with this 2-pack of 15-stage cartridges featuring KDF-55, calcium sulfite, carbon, and vitamin C.
   Updated: 2026-10-08T19:59:49Z
   Vendor: Shower Heads Co.
@@ -598,7 +570,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/3d921991c303247b8b09b57f27643a05.jpg?v=1786893206
     Price: $44.31 USD
 - [ZYNAFLO 15-Stage Shower Filter Cartridges – 2 Pack](https://www.showerheadsco.com/products/zynaflo-shower-filter-replacement-cartridges): Replace compatible shower filters with this 2-pack of ZYNAFLO 15-stage cartridges featuring KDF-55, calcium sulphite, coconut carbon, and mineral media.
-  Updated: 2026-10-06T18:24:28Z
+  Updated: 2026-11-03T11:20:47Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -637,7 +609,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/eff4a408e99b3ae44a71de096cd52523_39c9cf91-613e-48e2-9d71-d6c391ab07ab.jpg?v=1786893210
     Price: $53.49 USD
 - [Replacement Shower Filter Cartridge 2-Pack — Hard Water](https://www.showerheadsco.com/products/replacement-shower-filter-cartridge): Replacement shower filter cartridge 2-pack for similar-design filter housings. Designed to reduce chlorine, heavy metals, sediment, rust, fluoride and VOCs.
-  Updated: 2026-10-29T00:45:46Z
+  Updated: 2026-11-06T21:06:52Z
   Vendor: Shower Heads Co.
   Product Type: 
   Availability: Available
@@ -659,7 +631,7 @@ Shipping within the United States. Free shipping on all US orders.
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/35f6b8a30a8a0cd2928f40d82d01ef02.jpg?v=1786898796
     Price: $49.73 USD
   - [1 Count (Pack Of 1) / 20 Stage](https://www.showerheadsco.com/products/replacement-shower-filter-cartridge?variant=48156427190437)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0780/0641/9621/files/b615fb1e54f15925f790d19dbc303068.jpg?v=1786898796
     Price: $17.57 USD
   - [4 Count (Pack Of 4) / 20 Stage With Spin Propeller](https://www.showerheadsco.com/products/replacement-shower-filter-cartridge?variant=48156427223205)
@@ -686,10 +658,10 @@ Shipping within the United States. Free shipping on all US orders.
   Updated: 2026-08-18T02:15:33Z
   Total Products: 0
 - [Filtered Showerhead](https://www.showerheadsco.com/collections/filtered-showerhead)
-  Updated: 2026-10-27T04:35:41Z
+  Updated: 2026-11-06T16:14:01Z
   Total Products: 10
 - [Replacement Filter Cartridge](https://www.showerheadsco.com/collections/replacement-filter-cartridge)
-  Updated: 2026-10-28T19:18:51Z
+  Updated: 2026-11-06T15:29:43Z
   Total Products: 18
 
 ## Store Pages
