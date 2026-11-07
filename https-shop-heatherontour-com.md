@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2020-09-26T19:01:05Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:16:01.537Z
+- Updated At: 2026-11-07T00:16:24.898Z
 
 ## Products
 
@@ -362,7 +362,7 @@
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/HeatherMcMahanKeychain_447a40a9-45cc-4d2d-bd49-f9e7fbd19dc4.png?v=1754505322
   Price: $5.00 USD
 - [Absolutely Not Crewneck](https://shop.heatherontour.com/products/absolutely-not-crewneck): Unisex crewneck in light grey with martini graphic Absolutely Not graphic with martini glasses on the front 50/50 cotton/polyester
-  Updated: 2026-10-26T17:05:10Z
+  Updated: 2026-11-06T21:01:40Z
   Vendor: Heather McMahan
   Product Type: Sweatshirt
   Availability: Available
@@ -393,7 +393,7 @@
   Image: https://cdn.shopify.com/s/files/1/0489/9861/3148/files/Hotline-Hat.png?v=1762294777
   Price: $40.00 USD
 - [Gift Tag Sticker Sheets](https://shop.heatherontour.com/products/gift-tag-sticker-sheets): Set of 2 sticker pages 8x10" sheets
-  Updated: 2026-10-30T08:11:03Z
+  Updated: 2026-10-31T15:28:39Z
   Vendor: Heather McMahan
   Product Type: Stickers
   Availability: Available
