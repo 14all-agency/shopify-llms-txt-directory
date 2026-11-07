@@ -6,7 +6,7 @@
 - Timezone: Europe/Vienna
 - Created At: 2025-03-06T08:40:55Z
 - Contact Email: info@myprintpix.hu
-- Updated At: 2026-10-30T01:13:35.059Z
+- Updated At: 2026-11-07T01:01:06.643Z
 
 ## Products
 
@@ -2647,7 +2647,7 @@
   Updated: 2026-10-29T11:36:07Z
   Total Products: 25
 - [Csaladnak](https://giftforus.hu/collections/csaladnak)
-  Updated: 2026-10-29T11:36:07Z
+  Updated: 2026-11-05T12:36:44Z
   Total Products: 23
 - [Párok](https://giftforus.hu/collections/parok)
   Updated: 2026-10-25T11:32:09Z
@@ -2656,7 +2656,7 @@
   Updated: 2026-10-14T11:58:00Z
   Total Products: 16
 - [Barátoknak](https://giftforus.hu/collections/baratoknak)
-  Updated: 2026-10-25T11:32:09Z
+  Updated: 2026-11-05T12:36:44Z
   Total Products: 12
 - [Esküvő](https://giftforus.hu/collections/eskuvo)
   Updated: 2026-09-18T11:38:40Z
