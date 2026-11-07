@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-05-12T04:06:04Z
 - Contact Email: hello@harroman.com
-- Updated At: 2026-10-31T00:29:29.795Z
+- Updated At: 2026-11-07T00:31:03.431Z
 
 ## Products
 
 - [HARROMAN 2-in-1 Face Wash & Shave Stick](https://www.harroman.com/products/harroman-2-in-1-face-wash-shave-stick): Discover the HARROMAN shave stick: softens beard roots, protects skin, moisturizes & soothes. Perfect for travel with creamy, convenient 2-in-1 formula.
-  Updated: 2026-10-30T22:09:12Z
+  Updated: 2026-11-06T16:44:31Z
   Vendor: Harroman
   Product Type: 
   Availability: Available
@@ -25,18 +25,18 @@
     Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/ChatGPT_Image_Sep_8_2026_01_30_25_PM_a264e7b7-7fb2-40ca-a32d-32db4cc44456.png?v=1788845535
     Price: $39.00 USD
 - [Harroman 5 Blade Razor – Platinum-Coated Precision Shaver](https://www.harroman.com/products/harroman-razor-5-blade-razor-platinum-coated-razor-premium-shaving-with-blade): Experience smooth shaving with the Harroman 5 blade razor featuring platinum-coated blades for ultimate precision and comfort.
-  Updated: 2026-10-19T19:11:32Z
+  Updated: 2026-11-04T14:13:31Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/harroman-razor-5-blade-platinum-coated-shaver-for-precision-1202964.jpg?v=1766714890
   Price: $29.00 USD
 - [Harroman Nose Scissors](https://www.harroman.com/products/harroman-nose-scissors)
-  Updated: 2026-10-30T22:09:17Z
+  Updated: 2026-11-06T18:57:21Z
   Vendor: HARROMAN
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/6_ad6c5149-a783-489d-b9fd-b7809302db1e.jpg?v=1785376328
+  Image: https://cdn.shopify.com/s/files/1/0684/6198/5948/files/9_fdef3548-f439-43ce-85eb-5639dca9d04e.jpg?v=1785376335
   Price: $7.50 USD
 - [Harroman Sharp Razor Blade 1 Box 4 Blade](https://www.harroman.com/products/harroman-razor-blade): Precision-engineered sharp razor blade designed for a clean, close shave every time. Features a durable stainless steel construction that resists corrosion and maintains its edge through multiple uses. The ultra-sharp blade glides smoothly across skin, reducing irritation and tugging. Ideal for both professional grooming and personal use. Engineered for performance and reliability.
   Updated: 2026-10-11T11:50:46Z
@@ -49,16 +49,16 @@
 ## Collections
 
 - [home page](https://www.harroman.com/collections/frontpage)
-  Updated: 2026-10-30T11:18:12Z
+  Updated: 2026-11-05T12:22:43Z
   Total Products: 3
 - [APPPlaza - Best Sellers](https://www.harroman.com/collections/appplaza-best-sellers)
-  Updated: 2026-10-30T11:18:12Z
+  Updated: 2026-11-05T12:22:43Z
   Total Products: 5
 - [AVADA - Best Sellers](https://www.harroman.com/collections/avada-best-sellers)
-  Updated: 2026-10-30T11:18:12Z
+  Updated: 2026-11-05T12:22:43Z
   Total Products: 5
 - [All item](https://www.harroman.com/collections/all-item)
-  Updated: 2026-10-30T11:18:12Z
+  Updated: 2026-11-05T12:22:43Z
   Total Products: 5
 
 ## Blogs
