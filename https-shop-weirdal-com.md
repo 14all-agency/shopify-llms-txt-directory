@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-16T15:39:04Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:26:05.205Z
+- Updated At: 2026-11-07T00:28:12.781Z
 
 ## Products
 
@@ -32,7 +32,7 @@
     Availability: Available
     Price: $30.00 USD
 - [In 3-D Ladies Tee](https://shop.weirdal.com/products/in-3-d-ladies-tee): Women's t-shirt in blue featuring Weird Al Yankovic "In 3-D" artwork printed on the front. As seen on Stranger Things.
-  Updated: 2026-10-05T14:27:55Z
+  Updated: 2026-10-31T15:13:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Dare to Be Stupid Logo Ladies Tee](https://shop.weirdal.com/products/dare-to-be-stupid-ladies-tee): Ladies' t-Shirt in black featuring Weird Al Yankovic "Dare To Be Stupid" artwork printed on the front and back.
-  Updated: 2026-10-18T01:17:47Z
+  Updated: 2026-11-04T17:30:56Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -157,14 +157,14 @@
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Shoelace_Bundle.webp?v=1776354257
   Price: $20.00 USD
 - [Dare to Be Stupid Epoxy Pin](https://shop.weirdal.com/products/dare-to-be-stupid-epoxy-pin): 1.25" wide epoxy pin featuring Dare to Be Stupid album art
-  Updated: 2026-10-26T12:15:57Z
+  Updated: 2026-11-05T00:28:29Z
   Vendor: "Weird Al" Yankovic
   Product Type: Pin
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_Dare_to_Be_Pin.png?v=1776449075
   Price: $10.00 USD
 - [Groovy Bucket Hat](https://shop.weirdal.com/products/groovy-bucket-hat): 100% cotton bucket hat in black with "Weird Al" Yankovic logo embroidery
-  Updated: 2026-10-29T19:48:51Z
+  Updated: 2026-11-02T15:22:57Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
@@ -243,7 +243,7 @@
     Availability: Available
     Price: $35.00 USD
 - [White & Nerdy Ladies Tee](https://shop.weirdal.com/products/white-nerdy-ladies-tee): Women's t-shirt in black featuring "White & Nerdy" printed on the front.
-  Updated: 2026-10-22T18:22:47Z
+  Updated: 2026-11-04T01:08:25Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -312,7 +312,7 @@
     Availability: Not Available
     Price: $65.00 USD
 - [Rocky Road Tee](https://shop.weirdal.com/products/rocky-road-tee): 100% ringspun cotton t-shirt in black featuring I Love Rocky Road artwork
-  Updated: 2026-10-23T18:47:37Z
+  Updated: 2026-11-02T19:47:57Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -360,7 +360,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Accordion on Fire Tee](https://shop.weirdal.com/products/accordion-on-fire-tee): 100% ringspun cotton t-shirt in black featuring "Weird Al" and a flaming accordion
-  Updated: 2026-10-28T00:22:21Z
+  Updated: 2026-11-05T23:10:56Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -470,13 +470,13 @@
     Availability: Available
     Price: $35.00 USD
 - [White and Nerdy Photo Tee](https://shop.weirdal.com/products/white-and-nerdy-photo-tee): 50/50 cotton/polyester unisex t-shirt in black featuring "Weird Al" White and Nerdy artwork printed on the front.
-  Updated: 2026-10-28T16:57:46Z
+  Updated: 2026-11-06T21:31:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAYWNTee.png?v=1789415782
   - [S](https://shop.weirdal.com/products/white-and-nerdy-photo-tee?variant=54940472836309)
-    Availability: Not Available
+    Availability: Available
     Price: $35.00 USD
   - [M](https://shop.weirdal.com/products/white-and-nerdy-photo-tee?variant=54940472869077)
     Availability: Not Available
@@ -493,8 +493,56 @@
   - [3XL](https://shop.weirdal.com/products/white-and-nerdy-photo-tee?variant=54940473000149)
     Availability: Available
     Price: $35.00 USD
+- [UHF Tie-Dye Tee](https://shop.weirdal.com/products/uhf-tie-dye-tee): 100% cotton, pre-shrunk heavyweight t-shirt in lagoon tie-dye featuring the UHF logo printed on the front.
+  Updated: 2026-11-05T00:37:06Z
+  Vendor: "Weird Al" Yankovic
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_0000_UHF-TieDye-Tee.png?v=1791909419
+  - [S](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619694293)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [M](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619727061)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [L](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619759829)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [XL](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619792597)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [2XL](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619825365)
+    Availability: Not Available
+    Price: $40.00 USD
+  - [3XL](https://shop.weirdal.com/products/uhf-tie-dye-tee?variant=67756619858133)
+    Availability: Available
+    Price: $40.00 USD
+- [Spatula City Tee](https://shop.weirdal.com/products/spatula-city-tee): Where did you get that lovely spatula? 100% US cotton heavyweight t-shirt in white, featuring a Spatula City design.
+  Updated: 2026-11-06T19:37:26Z
+  Vendor: "Weird Al" Yankovic
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_0003_Spatula-City-Tee.png?v=1791909419
+  - [S](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686082261)
+    Availability: Available
+    Price: $35.00 USD
+  - [M](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686115029)
+    Availability: Available
+    Price: $35.00 USD
+  - [L](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686147797)
+    Availability: Available
+    Price: $35.00 USD
+  - [XL](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686180565)
+    Availability: Available
+    Price: $35.00 USD
+  - [2XL](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686213333)
+    Availability: Available
+    Price: $35.00 USD
+  - [3XL](https://shop.weirdal.com/products/spatula-city-tee?variant=67756686246101)
+    Availability: Available
+    Price: $35.00 USD
 - [Big Edna's Tee](https://shop.weirdal.com/products/big-ednas-tee): This job stinks! 100% US cotton heavyweight t-shirt in yellow haze, featuring a Big Edna's Burger World design.
-  Updated: 2026-10-30T22:46:16Z
+  Updated: 2026-11-05T21:01:51Z
   Vendor: "Weird Al" Yankovic
   Product Type: T-Shirt
   Availability: Available
@@ -518,21 +566,21 @@
     Availability: Available
     Price: $35.00 USD
 - [UHF Bucket Hat](https://shop.weirdal.com/products/uhf-bucket-hat): 100% cotton bucket hat in medium denim with UHF logo embroidery
-  Updated: 2026-10-29T03:08:47Z
+  Updated: 2026-11-04T17:45:38Z
   Vendor: "Weird Al" Yankovic
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_0001_UHF-Bucket-Hat.png?v=1791909419
   Price: $40.00 USD
 - [Spatula City Keychain](https://shop.weirdal.com/products/spatula-city-keychain): Open 'til midnight! Rubber keychain in blue with white Spatula City design and featuring silver hardware.
-  Updated: 2026-10-30T22:46:28Z
+  Updated: 2026-11-06T02:42:22Z
   Vendor: "Weird Al" Yankovic
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0804/1191/8549/files/WAY_0002_Spatula-City-Keychain.png?v=1791909419
   Price: $10.00 USD
 - [Big Edna's Mug](https://shop.weirdal.com/products/big-ednas-mug): Ceramic 10oz mug featuring Big Edna's Burger World design.
-  Updated: 2026-10-30T22:46:25Z
+  Updated: 2026-11-05T21:48:46Z
   Vendor: "Weird Al" Yankovic
   Product Type: Mug
   Availability: Available
@@ -542,38 +590,38 @@
 ## Collections
 
 - [Home page](https://shop.weirdal.com/collections/frontpage)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 37
 - [Apparel](https://shop.weirdal.com/collections/apparel)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 37
 - [Accessories](https://shop.weirdal.com/collections/accessories)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 19
 - [All](https://shop.weirdal.com/collections/all)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 59
 - [The Back Room](https://shop.weirdal.com/collections/the-back-room)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-05T12:25:35Z
   Total Products: 15
 - [The Dare to Be Stupid Collection](https://shop.weirdal.com/collections/the-dare-to-be-stupid-collection)
-  Updated: 2026-10-28T11:22:44Z
+  Updated: 2026-11-05T12:25:35Z
   Total Products: 4
 - [The Accordion Collection](https://shop.weirdal.com/collections/the-accordion-collection)
-  Updated: 2026-10-29T11:23:54Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 5
 - [The Ladies Collection](https://shop.weirdal.com/collections/the-ladies-collection)
-  Updated: 2026-10-23T11:29:20Z
+  Updated: 2026-11-05T12:25:35Z
   Total Products: 4
 - [The Bigger & Weirder Collection](https://shop.weirdal.com/collections/the-bigger-weirder-collection)
   Updated: 2026-10-12T18:44:15Z
   Total Products: 13
 - [Featured](https://shop.weirdal.com/collections/featured)
-  Updated: 2026-10-30T11:23:44Z
+  Updated: 2026-11-06T12:24:47Z
   Total Products: 44
 - [UHF](https://shop.weirdal.com/collections/uhf)
-  Updated: 2026-10-30T11:23:44Z
-  Total Products: 11
+  Updated: 2026-11-06T20:11:38Z
+  Total Products: 9
 - [World's Weirdest - Variant Covers](https://shop.weirdal.com/collections/variant-covers)
   Updated: 2026-09-03T11:23:17Z
   Total Products: 4
@@ -584,7 +632,7 @@
   Updated: 2026-09-02T19:29:53Z
   Total Products: 1
 - [Straight Outta Lynwood](https://shop.weirdal.com/collections/straight-outta-lynwood)
-  Updated: 2026-10-29T11:23:54Z
+  Updated: 2026-11-04T12:22:16Z
   Total Products: 5
 - [Straight Outta Lynwood 20th Anniversary](https://shop.weirdal.com/collections/straight-outta-lynwood-20th-anniversary)
   Updated: 2026-10-29T11:23:54Z
