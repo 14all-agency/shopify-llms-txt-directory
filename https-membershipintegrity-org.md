@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-26T10:06:58Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-10-31T00:21:50.082Z
+- Updated At: 2026-11-07T00:23:16.640Z
 
 ## Products
 
@@ -247,6 +247,15 @@
   - [Overcoming Challenges in Membership Integrity and Governance](https://membershipintegrity.org/blogs/news/overcoming-challenges-in-membership-integrity-and-governance): Overcoming Challenges in Membership Integrity and Governance
     Updated: 2026-10-29T00:30:26Z
     Author: User
+  - [Essential Practices for Successful Volunteer Screening](https://membershipintegrity.org/blogs/news/essential-practices-for-successful-volunteer-screening): Essential Practices for Successful Volunteer Screening
+    Updated: 2026-11-01T06:32:09Z
+    Author: User
+  - [An Explainer on Risk Management in Membership-Based Groups](https://membershipintegrity.org/blogs/news/an-explainer-on-risk-management-in-membership-based-groups): An Explainer on Risk Management in Membership-Based Groups
+    Updated: 2026-11-03T00:25:18Z
+    Author: User
+  - [A Checklist for Governance in Fraternal Memberships](https://membershipintegrity.org/blogs/news/a-checklist-for-governance-in-fraternal-memberships): A Checklist for Governance in Fraternal Memberships
+    Updated: 2026-11-06T01:37:08Z
+    Author: User
 
 ## Store Pages
 
@@ -350,7 +359,7 @@
 ## Policies
 
 - [Privacy Policy](https://membershipintegrity.org/policies/privacy-policy)
-  Updated: 2026-06-26T10:07:04Z
+  Updated: 2026-10-31T20:51:33Z
 
 ## Optional
 
