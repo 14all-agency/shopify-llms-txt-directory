@@ -6,16 +6,16 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-05-02T16:18:26Z
 - Contact Email: info@chaksstudio.com
-- Updated At: 2026-10-31T00:17:20.342Z
+- Updated At: 2026-11-07T00:18:48.189Z
 
 ## Products
 
 - [Manchitra Black Kantha Shirt – Handcrafted Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-mens): A classic black cotton shirt with intricate white color Kantha hand stitches. Crafted in Bengal, merging heritage craftsmanship with everyday ease.
-  Updated: 2026-10-30T16:53:36Z
+  Updated: 2026-11-02T06:32:18Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_a5a6813e-3c39-4660-8e2a-a836e29899f9.jpg?v=1793335986
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_a5a6813e-3c39-4660-8e2a-a836e29899f9.jpg?v=1793428370
   - [XS](https://www.chaksstudio.com/products/manchitra-black-shirt-mens?variant=46543599337610)
     Availability: Available
     Price: ₹3,500.00 INR
@@ -44,7 +44,7 @@
     Availability: Available
     Price: ₹3,500.00 INR
 - [Chhaya Black Kantha Shirt – Kantha Embroidered Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-mens): A black Kantha-stitched cotton shirt with subtle contrast detailing. Handcrafted in Bengal, designed for comfort and timeless appeal.
-  Updated: 2026-10-06T20:09:35Z
+  Updated: 2026-10-31T06:38:38Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -77,7 +77,7 @@
     Availability: Available
     Price: ₹2,999.00 INR
 - [Noor White Kantha Shirt Men – Handmade | CHAKS](https://www.chaksstudio.com/products/noor-white-shirt-mens): Crisp white cotton-linen shirt with hand-stitched Kantha work. Handmade in Bengal, effortlessly minimal for work or evenings.
-  Updated: 2026-10-06T20:09:35Z
+  Updated: 2026-10-31T06:38:12Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -110,11 +110,11 @@
     Availability: Available
     Price: ₹2,650.00 INR
 - [Manchitra Black – Kantha-stitched Handmade Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/manchitra-black-shirt-women): Classic black cotton Kantha shirt with intricate white hand-stitching. Handmade in Bengal, blending heritage craftsmanship with modern comfort.
-  Updated: 2026-10-30T20:48:49Z
+  Updated: 2026-11-04T07:13:38Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_00000000a524821196309ba3b847fcac_jpg.jpg?v=1793393312
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_00000000a524821196309ba3b847fcac_jpg.jpg?v=1793428102
   - [XS](https://www.chaksstudio.com/products/manchitra-black-shirt-women?variant=46544167305354)
     Availability: Available
     Price: ₹3,500.00 INR
@@ -143,7 +143,7 @@
     Availability: Available
     Price: ₹3,500.00 INR
 - [Chhaya Black – Kantha-stitched Handcrafted Cotton Shirt | CHAKS](https://www.chaksstudio.com/products/chhaya-black-shirt-women): Black Kantha cotton shirt with subtle contrast details. Handmade in Bengal, offering heritage craftsmanship with timeless comfort.
-  Updated: 2026-10-06T20:09:36Z
+  Updated: 2026-10-31T06:37:43Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -176,11 +176,11 @@
     Availability: Available
     Price: ₹2,999.00 INR
 - [Noor White Kantha Shirt Women – Handmade | CHAKS](https://www.chaksstudio.com/products/noor-white-shirt-women): White cotton-linen shirt with subtle Kantha hand stitches. Handmade in Bengal — understated elegance for everyday wear.
-  Updated: 2026-10-06T20:09:37Z
+  Updated: 2026-10-31T06:37:23Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_1f13590a-0401-47a3-a0c1-08925d096406.jpg?v=1791099484
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/1_1f13590a-0401-47a3-a0c1-08925d096406.jpg?v=1793428426
   - [XS](https://www.chaksstudio.com/products/noor-white-shirt-women?variant=46544347889802)
     Availability: Available
     Price: ₹2,650.00 INR
@@ -209,11 +209,11 @@
     Availability: Available
     Price: ₹2,650.00 INR
 - [Rekha Kantha Embroidery Shirt – Handmade | CHAKS](https://www.chaksstudio.com/products/rekha-shirt): Cotton-linen shirt with a hand-embroidered Kantha zigzag line. Minimal, breathable, and handcrafted in Bengal by CHAKS.
-  Updated: 2026-10-30T18:40:25Z
+  Updated: 2026-11-02T06:03:09Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_00000000ae648207854245b73d80cd98_jpg.jpg?v=1793342449
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_00000000ae648207854245b73d80cd98_jpg.jpg?v=1793428305
   - [XS](https://www.chaksstudio.com/products/rekha-shirt?variant=49729599373450)
     Availability: Available
     Price: ₹1,399.00 INR
@@ -242,7 +242,7 @@
     Availability: Available
     Price: ₹1,399.00 INR
 - [Nishaan Navy Kantha Shirt – Handmade | CHAKS](https://www.chaksstudio.com/products/nishaan-shirt): Deep navy cotton-linen shirt with intentional Kantha embroidery marks. Handcrafted in Bengal with a relaxed, minimal silhouette.
-  Updated: 2026-10-06T20:09:37Z
+  Updated: 2026-10-31T06:35:48Z
   Vendor: CHAKS
   Product Type: 
   Availability: Available
@@ -274,21 +274,90 @@
   - [5XL](https://www.chaksstudio.com/products/nishaan-shirt?variant=50074779451530)
     Availability: Available
     Price: ₹1,799.00 INR
+- [MANIK - MEN'S KANTHA EMBROIDERED SHIRT](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt): Introducing Manik - Men's, a handcrafted black cotton shirt featuring intricate Kantha embroidery inspired by the pomegranate. Delicate vines, blossoming buds and split-open fruits come together in vibrant shades of ruby red, olive green, orange and white, creating a striking contrast against the deep black fabric. Made by artisans in Bengal.
+  Updated: 2026-11-06T05:54:46Z
+  Vendor: CHAKS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/file_00000000fd3c820e880517e5f3211b92_2_2__jpg.jpg?v=1793782184
+  - [XS](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977182858)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [S](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977215626)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [M](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977248394)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [L](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977281162)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [XL](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977313930)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [2XL](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977346698)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [3XL](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977379466)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [4XL](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977412234)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [5XL](https://www.chaksstudio.com/products/manik-mens-kantha-embroidered-shirt?variant=50672977445002)
+    Availability: Available
+    Price: ₹4,500.00 INR
+- [MANIK - WOMEN'S KANTHA EMBROIDERED SHIRT](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt): Introducing Manik - Women's, a handcrafted black cotton shirt featuring intricate Kantha embroidery inspired by the pomegranate. Delicate vines, blossoming buds and split-open fruits come together in vibrant shades of ruby red, olive green, orange and white, creating a striking contrast against the deep black fabric. Made by artisans in Bengal.
+  Updated: 2026-11-06T07:17:48Z
+  Vendor: CHAKS
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0699/9562/6634/files/EmbroideredBlackShirtPortrait.png?v=1793779131
+  - [XS](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089511562)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [S](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089544330)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [M](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089577098)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [L](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089609866)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089642634)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [2XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089675402)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [3XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089708170)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [4XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089740938)
+    Availability: Available
+    Price: ₹4,500.00 INR
+  - [5XL](https://www.chaksstudio.com/products/manik-womens-kantha-embroidered-shirt?variant=50673089773706)
+    Availability: Available
+    Price: ₹4,500.00 INR
 
 ## Collections
 
 - [MENSWEAR](https://www.chaksstudio.com/collections/frontpage): Explore ‘Transit’ by CHAKS – handmade Kantha cotton shirts from Bengal. Inspired by migration, nostalgia, and timeless everyday craftsmanship.
-  Updated: 2026-10-30T06:40:18Z
-  Total Products: 7
-- [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
-  Updated: 2026-09-26T11:18:54Z
-  Total Products: 5
-- [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
-  Updated: 2026-10-30T06:40:18Z
-  Total Products: 12
-- [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt)
-  Updated: 2026-10-30T06:40:18Z
+  Updated: 2026-11-06T12:19:19Z
   Total Products: 8
+- [WOMENSWEAR](https://www.chaksstudio.com/collections/womenswear): Discover ‘Transit’, CHAKS’ debut collection of hand-stitched Kantha cotton shirts. Handmade in Bengal, inspired by migration, nostalgia, and everyday craft.
+  Updated: 2026-11-04T12:17:24Z
+  Total Products: 6
+- [AVADA - Best Sellers](https://www.chaksstudio.com/collections/avada-best-sellers)
+  Updated: 2026-11-06T12:19:19Z
+  Total Products: 14
+- [REKHA SHIRT](https://www.chaksstudio.com/collections/rekha-shirt): Discover the allure of the Rekha Shirt—handmade elegance with stunning kantha stitch embroidery. Elevate your style with kantha embroidery artistry
+  Updated: 2026-10-31T06:44:05Z
+  Total Products: 8
+- [DALIM](https://www.chaksstudio.com/collections/dalim): Discover the Vibrancy of DALIMStep into the world of DALIM, where bold colors and dynamic designs invigorate your style and accentuate your unique identity. Each item in this carefully curated category breathes life into your wardrobe and home, transforming ordinary moments into extraordinary experiences infused with brilliance and character. Elevate Your Wardrobe: Experience a revolution in fashion as you explore DALIM's stunning selection of apparel and accessories. From eye-catching prints that make you the center of attention to versatile pieces that transition smoothly from day to night, DALIM empowers you to express yourself with confidence. Seamlessly blend creativity and comfort as you redefine what it means to make a statement. Enliven Your Living Space: Reimagine your home with DALIM's artistic accents and houseware. Infuse your surroundings with vibrant hues and eclectic designs that create spaces bursting with energy and warmth. Each piece, crafted with meticulous attention to detail, offers more than just aesthetic appeal—it enhances your environment and enriches daily life. Feel the Passion: Every product tells a story, crafted by passionate artisans dedicated to bringing innovation and joy into your life. With DALIM, embrace products that don't just serve functional purposes but also evoke strong emotions and reflect an appreciation for art and design. Crafted for individuals who dare to defy conventions and embrace their vibrant essence, DALIM isn't merely a collection; it's a lifestyle choice that speaks volumes about your taste and personality. Dive into a world where creativity meets practicality, and every purchase becomes an opportunity to bring more inspiration into your life.Ignite your style and surroundings with the vivid energy of DALIM. Explore our collection now, celebrate your individuality, and transform your everyday experiences into extraordinary adventures by shopping today!
+  Updated: 2026-11-06T12:19:19Z
+  Total Products: 2
 
 ## Blogs
 
@@ -298,11 +367,11 @@
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, Conscious Consumerism, Craft revival, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Kantha embroidery, Made in India, Slow fashion, Sustainable fashion, Wearable Art
   - [Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion](https://www.chaksstudio.com/blogs/news/elevate-your-style-3a-luxury-travel-outfits-26-sustainable-indian-fashion): Elevate Your Style: Luxury Travel Meets Sustainable Indian Fashion
-    Updated: 2026-08-01T09:10:37Z
+    Updated: 2026-11-02T03:45:49Z
     Author: CHAKS STUDIO
     Tags: eco-friendly clothing, Indian fashion, luxury fashion, sustainable style, travel outfits
-  - [WHEN JAZZ MEETS CRAFT : CHAKS X TAMIL JAZZ COLLECTIVE](https://www.chaksstudio.com/blogs/news/when-jazz-meets-craft-3a-chaks-x-tamil-jazz-collective): WHEN JAZZ MEETS CRAFT : CHAKS X TAMIL JAZZ COLLECTIVE
-    Updated: 2025-08-22T18:57:21Z
+  - [Harmonizing Worlds: When Jazz Meets Craft at CHAKS Studio](https://www.chaksstudio.com/blogs/news/when-jazz-meets-craft-3a-chaks-x-tamil-jazz-collective): Harmonizing Worlds: When Jazz Meets Craft at CHAKS Studio
+    Updated: 2026-11-02T03:45:44Z
     Author: CHAKS
     Tags: CHAKS Studio, Craft Collaboration, Cultural Fusion, Jazz, Tamil Jazz
   - [How Our Shirts Are Made: The Craft Behind Every Chaks Kantha Piece](https://www.chaksstudio.com/blogs/news/handcrafted-kantha-embroidery-shirts-craft)
@@ -313,6 +382,10 @@
     Updated: 2026-08-29T08:16:49Z
     Author: CHAKS STUDIO
     Tags: Artisan made, Chaks, CHAKS Studio, Conscious Consumerism, Craft Collaboration, Craft revival, Cultural Fusion, eco-friendly clothing, Ethical fashion, Fashion with Purpose, Handcrafted fashion, Handmade clothing, Indian, Indian crafts, Indian fashion, Kantha embroidery, luxury fashion, Made in India, Slow fashion, Sustainable fashion, Wearable Art
+  - [Unique Handcrafted Cotton Shirts: Artisan Charm That](https://www.chaksstudio.com/blogs/news/where-can-i-find-unique-handcrafted-cotton-shirts-with-artisan-charm): Unique Handcrafted Cotton Shirts: Artisan Charm That
+    Updated: 2026-11-05T04:34:27Z
+    Author: Tapita
+    Tags: Artisan Fashion, Handcrafted Cotton Shirts, Handmade Apparel, Sustainable Fashion, Unique Clothing
 
 ## Store Pages
 
@@ -322,6 +395,8 @@
   Updated: 2025-08-14T03:50:23Z
 - [Your Privacy Choices](https://www.chaksstudio.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-07-26T11:13:23Z
+- [Contemporary Indian Fashion With an Ethical Edge: Style With Purpose](https://www.chaksstudio.com/pages/contemporary-indian-fashion-with-an-ethical-edge-style-with-purpose): /* FAQ Accordion - Neutral Default Style */ .tptb-faq-accordion { width: 100%; margin: 16px 0; font-family: inherit; } .tptb-faq-header { text-alig...
+  Updated: 2026-10-31T06:04:15Z
 
 ## Policies
 
