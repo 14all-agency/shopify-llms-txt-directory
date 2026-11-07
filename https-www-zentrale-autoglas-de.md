@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-12-08T07:33:19Z
 - Contact Email: post@zentrale-autoglas.de
-- Updated At: 2026-10-31T00:30:07.635Z
+- Updated At: 2026-11-07T00:30:15.711Z
 
 ## Collections
 
