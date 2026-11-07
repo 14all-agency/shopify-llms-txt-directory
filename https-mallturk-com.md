@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-02-18T10:06:25Z
 - Contact Email: info@mallturk.com
-- Updated At: 2026-10-30T01:25:00.885Z
+- Updated At: 2026-11-07T01:09:38.964Z
 
 ## Products
 
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm): Illuminate your space with the AURALAMP Table Lamp. This Turkish masterpiece features a stunning mosaic lampshade, perfect for adding charm to any room.
-  Updated: 2026-10-19T16:35:04Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
@@ -25,1285 +25,1285 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_7202a120-c4d6-4a95-b234-cce3b9303898.jpg?v=1786825146
     Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Handcrafted mosaic design enhances any decor with authentic Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:04Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp by AURALAMP](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm-kopya-kopya): Illuminate your space with the AURALAMP Table Lamp, featuring exquisite hand-cut glass mosaics inspired by Turkish craftsmanship. A true gem for your decor.
-  Updated: 2026-10-19T16:35:04Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm1): Illuminate your space with the stunning AURALAMP Table Lamp. Crafted from colorful Turkish glass, it adds a unique touch of elegance to any room.
-  Updated: 2026-10-19T16:35:04Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777990221_05c22d4e-3e8a-457f-93ac-bb712721b257.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm3): Illuminate your space with the AURALAMP table lamp. Handcrafted from vibrant colored glass, this authentic Turkish mosaic piece adds elegance and charm.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824577106_735138de-7eb6-48c1-95b4-2c1a7ede6b9e.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm6): Illuminate your space with AURALAMP's stunning Turkish table lamp. Crafted from hand-cut glass, it combines beauty and heritage for a perfect accent.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814345392_f922c353-3499-48c9-90ff-2018cd5ef5b7.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Cozy Ambiance](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm8): Illuminate your space with AURALAMP's stunning table lamp, featuring an authentic Turkish mosaic design. Perfect for adding elegance and charm.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814010182_b7bfacc0-88ba-4ce1-8f98-916b7bf2c57d.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm11): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted with hand-cut glass, its colorful mosaic design enhances any room's beauty.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813997211_2746f2d0-881d-486b-9d1c-cc6e8eb0d697.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm14): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted with vibrant glass mosaic shades, it adds timeless beauty to any decor.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778021060_eea6f36d-3a4b-4dcd-97eb-bd435b03bf11.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm16): Illuminate your space with AURALAMP's stunning table lamp. This authentic Turkish mosaic design features hand-cut glass, blending beauty and heritage.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813609179_b97a4d3a-3181-4684-bcc6-d53aaef1e817.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm18): Illuminate your space with AURALAMP's exquisite Table Lamp, featuring authentic Turkish mosaic design that brings vibrant heritage to any room.
-  Updated: 2026-10-19T16:35:05Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814036454_041d4b35-1176-4d7e-8d8a-b41ef34f5f8f.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm21): Illuminate your space with AURALAMP's exquisite Table Lamp. Authentic Turkish craftsmanship features stunning mosaic designs and durable antique brass.
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814045607_cbdeb7fd-306a-4a47-a90d-df8c6373fe25.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm24): Illuminate your space with AURALAMP's stunning table lamp, featuring hand-cut colored glass in authentic Turkish design. Perfect for any decor.
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778112546_b9d31c4d-6291-4920-a302-c3bbc637d4aa.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm26): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Handcrafted from colored glass, it features exquisite patterns for a stunning decor accent.
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814004289_7cc443ef-cbf4-4895-86ad-c925efde7851.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm29): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted colorful glass mosaic brings the Grand Bazaar's beauty to your home.
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813987093_c0f5f00b-258d-4c36-95ec-9d26a02737ba.jpg?v=1786825146
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm32): Illuminate your space with AURALAMP's stunning Turkish table lamp, featuring authentic hand-cut glass mosaic designs that enchant any room.
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778065594_3c019a5b-84f2-4632-a47c-a738a975299d.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm34): Illuminate your space with AURALAMP's stunning Table Lamp, featuring authentic Turkish glass mosaic shades for a vibrant ambiance. Perfect décor choice!
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814951134_27c973b9-904d-4276-ad2e-8d7ecfe43c44.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm37): Illuminate your space with AURALAMP's stunning table lamp, showcasing vibrant mosaic patterns and authentic Turkish craftsmanship. Perfect for any decor!
-  Updated: 2026-10-19T16:35:06Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8824636886_2256f7b1-ef52-475e-b600-9bde1e30d43d.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Home Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm39): Illuminate your space with AURALAMP's stunning Table Lamp. Crafted in authentic Turkish mosaic style, it transforms any room into a vibrant masterpiece.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778169464_36f76ebe-7252-4005-9c8c-950dab07f78c.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm41): Illuminate your space with AURALAMP's authentic Turkish Table Lamp, featuring colorful glass mosaics and a durable brass finish, perfect for any room.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777779669_82b99690-c3fd-48f8-90ba-eb35d4e464db.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm44): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted from hand-cut glass, this beautiful mosaic piece adds exquisite charm to any room.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814017765_dd1f5fcb-831e-4b77-9310-d856e465ef64.jpg?v=1786825087
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Home Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm47): Illuminate your space with the AURALAMP Table Lamp. This exquisite Turkish design boasts vibrant mosaic patterns, perfect for adding charm and warmth.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813583862_93da60e1-dae2-45b9-81ff-5fce2d04efcc.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp by AURALAMP](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm49): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted glass mosaic design enhances any decor, showcasing Grand Bazaar elegance.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778584165_4cbcac1a-0ba0-4de8-b622-2553e97c1860.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm51): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Stunning mosaic design & antique brass craftsmanship add a touch of elegance.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777930226_99aae250-5857-4181-abd7-89e52aa2e513.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Elegant Light](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm54): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning hand-cut mosaic design. Bring authentic Turkish charm to your decor.
-  Updated: 2026-10-19T16:35:07Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778155071_da820bb7-7c9a-44f8-9d73-48f22b46d202.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm56): Illuminate your space with AURALAMP's stunning table lamp, featuring hand-cut glass in vibrant patterns. Embrace authentic Turkish craftsmanship today!
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778613921_d1b99fc2-b561-4cf0-b0bb-c6663db4041e.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm58): Illuminate your space with the AURALAMP Table Lamp. This authentic Turkish mosaic lamp features vibrant glass shades and a stunning antique brass body.
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777966638_8c74691f-5628-463b-92d7-ed42ca3fbd6d.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm60): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning Turkish mosaic design that brings a touch of Grand Bazaar charm to your home.
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814332445_67d3b411-b1fc-4ab8-b88b-9734089fc4d4.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Elegant Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm63): Illuminate your space with the stunning AURALAMP Table Lamp, featuring authentic Turkish mosaic craftsmanship that brings beauty and heritage to any room.
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8813569493_3a656f9a-6ee7-4d7b-86c2-e11b84c58bb0.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm65): Illuminate your space with the AURALAMP Table Lamp. This stunning Turkish masterpiece features colorful mosaic patterns, enhancing any decor beautifully.
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8778632381_43e71713-8265-4ef3-8a07-3d4aa159556a.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Table Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm67): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring stunning hand-cut glass mosaics for a mesmerizing decor touch.
-  Updated: 2026-10-19T16:35:08Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814030452_fe462bbe-ae86-4800-a5db-f401934aa8b7.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm70): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Crafted from hand-cut glass, it brings authentic Grand Bazaar charm to your home.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777792656_1ee5f081-8b36-4de2-b2fd-abd615acbe3e.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Table Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm72): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring stunning hand-cut glass mosaics that create breathtaking light patterns.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8777895352_b1fd47e5-c0f8-447e-a30d-ee6169e80501.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Mosaic Style](https://mallturk.com/products/auralamp-original-turkish-mosaic-table-lamp-nightstand-lamp-moroccan-bohemian-authentic-lamp-100-handmade-18-cm74): Illuminate your space with the AURALAMP Table Lamp. Featuring authentic Turkish mosaic glass, it's perfect for any room, combining elegance and heritage.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8814063390_6a7f14a0-c120-49ee-a81a-b4fe17e9728b.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light): Illuminate your space with AURALAMP's exquisite Table Lamp. Crafted from authentic Turkish mosaic glass, it adds a touch of Grand Bazaar elegance to any decor.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-400): Illuminate your space with AURALAMP's authentic Turkish Table Lamp. Featuring hand-cut glass mosaic patterns, it's a stunning piece for any room.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-1): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring exquisite colored glass mosaic designs. A true masterpiece for any decor!
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-2): Illuminate your space with this AURALAMP Table Lamp, featuring an authentic Turkish mosaic design. Crafted from durable antique brass and colorful glass.
-  Updated: 2026-10-19T16:35:09Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-3): Illuminate your space with AURALAMP's Turkish mosaic table lamp. Handcrafted from durable glass and antique brass, it brings stunning elegance to any room.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-4): Illuminate your space with AURALAMP's exquisite table lamp, featuring vibrant mosaic glass inspired by Grand Bazaar craftsmanship. Durable and stunning!
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-5): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted with colorful glass mosaics, it adds elegance and warmth to any room.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-6): Illuminate your space with AURALAMP's stunning table lamp, featuring authentic Turkish mosaic art. Perfect for any decor, it radiates beauty and charm.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-7): Illuminate your space with AURALAMP's exquisite Turkish Table Lamp. Crafted with hand-cut glass, it brings authentic Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-8): Illuminate your space with this authentic Turkish table lamp by AURALAMP, featuring vibrant glass mosaic shades that evoke the magic of the Grand Bazaar.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-9): Illuminate your space with the AURALAMP Table Lamp. Featuring stunning Turkish glass mosaics, this lamp brings a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:10Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-10): Illuminate your space with the AURALAMP Table Lamp. Handcrafted with vibrant glass mosaics, it embodies authentic Turkish heritage for a stunning décor.
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13.jpg?v=1786825086
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-11): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring a stunning mosaic design that brings vibrant heritage to any decor.
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.jpg?v=1786825026
   Price: $48.90 USD
 - [AURALAMP Authentic Turkish Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-12): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted mosaic lampshade reveals stunning patterns, adding elegance to any room.
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.jpg?v=1786825026
   Price: $48.90 USD
 - [AURALAMP Authentic Turkish Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-13): Illuminate your space with the AURALAMP Table Lamp, featuring a stunning hand-crafted Turkish mosaic design. Elevate any room with this authentic art piece.
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-14): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring exquisite hand-cut glass mosaics. A beautiful blend of heritage and style.
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17.jpg?v=1786825027
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Elegant Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-15): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring vibrant glass mosaics for stunning decor. A heritage piece from the Grand Bazaar!
-  Updated: 2026-10-19T16:35:11Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Stylish Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-16): Illuminate your space with the stunning AURALAMP table lamp, crafted from vibrant glass mosaic in authentic Turkish style, perfect for any room.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp - Elegant Night Light](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-17): Illuminate your space with AURALAMP's stunning Turkish Table Lamp. Crafted with hand-cut glass, it adds a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-18): Illuminate your space with AURALAMP's exquisite Table Lamp, showcasing authentic Turkish mosaic craftsmanship and vibrant patterns from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/22.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-19): Illuminate your space with AURALAMP's exquisite Turkish table lamp. Handcrafted colored glass mosaic shade and antique brass base create stunning decor.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/23.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-20): Illuminate your space with this stunning AURALAMP table lamp, showcasing authentic Turkish craftsmanship. Its vibrant mosaic design adds elegance to any room.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Stylish Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-21): Illuminate your space with AURALAMP's authentic Turkish table lamp. Handcrafted colorful mosaic design adds a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:12Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/25.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-22): Illuminate your space with AURALAMP's exquisite Turkish table lamp. Handcrafted with vibrant mosaic glass, it's a perfect blend of elegance and heritage.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/26.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-23): Illuminate your space with AURALAMP's authentic Turkish table lamp, featuring vibrant hand-cut glass and a timeless design inspired by the Grand Bazaar.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/27.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-24): Illuminate your space with AURALAMP's stunning Turkish mosaic table lamp. Handmade, vibrant glass patterns bring a touch of Grand Bazaar elegance to any room.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/28.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-25): Illuminate your space with AURALAMP's stunning table lamp, showcasing vibrant mosaic patterns from authentic Turkish artisans. Perfect for any room.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/29.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Bedside Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-26): Illuminate your space with the AURALAMP Table Lamp. Crafted from authentic Turkish glass, this exquisite lamp brings Grand Bazaar elegance to any room.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/30.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Table Lamp for Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-27): Illuminate your space with AURALAMP's stunning Table Lamp, featuring authentic Turkish glass mosaic. Perfect for any room, it blends tradition with beauty.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/31.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-28): Illuminate your space with AURALAMP's exquisite Table Lamp. Handcrafted from authentic Turkish glass, it brings the Grand Bazaar's charm to your home.
-  Updated: 2026-10-19T16:35:13Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/32.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish Table Lamp by AURALAMP - Elegant Lighting](https://mallturk.com/products/table-lamp-bedside-table-bedside-lighting-turkish-lamp-night-light-29): Illuminate your space with AURALAMP's authentic Turkish table lamp. Crafted from vibrant hand-cut glass, it brings unique beauty to any room.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Table Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65214.jpg?v=1786825026
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Floor Lamp – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp): Illuminate your space with the AURALAMP Turkish Floor Lamp. This exquisite piece, crafted from handmade mosaic glass, adds elegance and warmth to any room.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/545.jpg?v=1786825026
   Price: $159.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-kopya): Illuminate your space with our stunning AURALAMP Floor Lamp, featuring 5 handmade mosaic glass globes. Embrace the elegance of authentic Turkish craftsmanship.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:15Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555.jpg?v=1786825026
   Price: $159.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-1): Illuminate your space with this stunning AURALAMP Turkish Floor Lamp. Handcrafted mosaic glass shades add a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5410.jpg?v=1786825026
   Price: $159.90 USD
 - [Authentic Turkish AURALAMP Floor Lamp – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-2): Illuminate your space with the AURALAMP Turkish Floor Lamp. Handcrafted with colorful mosaic glass, it brings unique elegance inspired by Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2.jpg?v=1786825026
   Price: $159.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-5-globe-bohemian-authentic-handmade-lamp-3): Illuminate your space with the AURALAMP Turkish Floor Lamp, featuring stunning handmade mosaic glass shades that showcase exquisite craftsmanship.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3633ffd7-100b-41f7-b2ce-4322dbe2a28b.jpg?v=1786825026
   Price: $159.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp): Illuminate your space with AURALAMP's Turkish Mosaic Floor Lamp. Handcrafted with vibrant stained glass, it brings authentic Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:14Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555_ba897adb-7ee4-4e11-bb96-842219bae33a.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-1): Illuminate your space with our AURALAMP Turkish Mosaic Floor Lamp, handcrafted for a stunning showcase of colors. Elevate your decor with authentic artistry.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5454.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp - AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-2): Illuminate your space with AURALAMP's stunning Turkish Mosaic Floor Lamp. Handmade with vibrant glass pieces, it's a unique blend of artistry and heritage.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/121231.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-3): Illuminate your space with AURALAMP's stunning Turkish Mosaic Floor Lamp. Handmade artistry meets Grand Bazaar tradition for a unique lighting experience.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_1_666.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-4): Illuminate your space with AURALAMP's stunning Turkish Mosaic Floor Lamp. Handmade craftsmanship meets vibrant colors, a perfect blend of art and light.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_9a98ef55-065c-46da-9e8b-c059e8cad0df.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-5): Illuminate your space with AURALAMP's stunning Turkish Mosaic Floor Lamp, featuring exquisite handmade shades that add vibrant charm to any room.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2_111_596e13f8-46dc-44bd-bd4f-9f212cc7d685.jpg?v=1787976006
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP Mosaic 7 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-6): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Floor Lamp, featuring stunning handmade glass globes and vibrant patterns for a unique touch.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_3.jpg?v=1786825026
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-7): Illuminate your space with our AURALAMP Turkish Mosaic Floor Lamp, featuring intricate handcrafted shades that blend artistry and heritage.
-  Updated: 2026-10-19T16:35:15Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_4.jpg?v=1786824966
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-8): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Floor Lamp. Handcrafted, colorful, and uniquely designed, it's a true Grand Bazaar treasure.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5.jpg?v=1786824966
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-9): Illuminate your space with the exquisite AURALAMP Turkish Mosaic Floor Lamp. Handcrafted and colorful, it's a stunning blend of art and function.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6.jpg?v=1786824967
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp - AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-10): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp. Handcrafted, vibrant mosaics bring a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8.jpg?v=1786824967
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp - AURALAMP 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-11): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp. Handmade, featuring vibrant colors and exquisite design inspired by Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_2203d53f-6a36-4aeb-a966-c2d5eb734a82.jpg?v=1786824966
   Price: $189.90 USD
 - [Authentic Turkish AURALAMP Floor Lamp – 7 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-7-globe-authentic-handmade-bohemian-lamp-12): Illuminate your space with AURALAMP's Turkish Mosaic Floor Lamp, featuring handcrafted shades and vibrant glass designs inspired by Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed55.jpg?v=1786824967
   Price: $189.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp): Illuminate your space with the exquisite AURALAMP Turkish Mosaic Floor Lamp. Handcrafted stained glass designs bring a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_ffab9171-17ef-4cac-a215-232c54c024b7.jpg?v=1786824966
   Price: $269.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-1): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp. Handmade, featuring 9 vibrant stained glass globes that echo Grand Bazaar elegance.
-  Updated: 2026-10-19T16:35:16Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_426c7d91-b409-4697-a4c5-05b2c5077264.jpg?v=1786824966
   Price: $269.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-kopya): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp. Handcrafted from stained glass, it adds a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/turkish-mosaic-floor-lamp-9-globe-3233496.jpg?v=1789243807
   Price: $269.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-2): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp. Handcrafted stained glass adds vibrant color and unique charm, inspired by Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_79f23e99-b24c-48b7-93b4-67994efa7362.jpg?v=1786824967
   Price: $269.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-3): Illuminate your space with the stunning AURALAMP Turkish Mosaic Floor Lamp. Handmade stained glass shades bring authentic Grand Bazaar beauty to any room.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/655.jpg?v=1786824966
   Price: $269.90 USD
 - [Authentic Turkish Mosaic Floor Lamp – AURALAMP 9 Globe](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-4): Illuminate your space with the AURALAMP Turkish Mosaic Floor Lamp, featuring 9 handmade glass globes that showcase stunning craftsmanship from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/555555_9723dbab-d93e-40d8-87bd-94ad61bee00b.jpg?v=1786824966
   Price: $269.90 USD
 - [Authentic Turkish Floor Lamp – AURALAMP 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-5): Illuminate your space with AURALAMP's Turkish Mosaic Floor Lamp. Handcrafted, colorful glass designs bring a touch of Grand Bazaar charm to any room.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/44444444444444.jpg?v=1786824966
   Price: $269.90 USD
 - [Authentic Turkish AURALAMP Floor Lamp – 9 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-9-globe-authentic-handmade-bohemian-lamp-6): Transform your space with the AURALAMP Turkish Mosaic Floor Lamp. Handcrafted stained glass creates stunning patterns, adding charm and warmth to any room.
-  Updated: 2026-10-19T16:35:17Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed54.jpg?v=1786824967
   Price: $269.90 USD
 - [Authentic Turkish AURALAMP Floor Lamp - 11 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-floor-lamp-11-globe-authentic-handmade-bohemian-lamp): Illuminate your space with the exquisite AURALAMP Turkish Mosaic Floor Lamp. Handcrafted from 11 vibrant stained glass globes, it’s a true art piece.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Floor Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_02387732-9395-44fc-aa38-1d380d2604ab.jpg?v=1786824966
   Price: $289.90 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting): Illuminate your space with the AURALAMP Turkish Wall Lamp. Handcrafted with vibrant mosaics, it embodies authentic Grand Bazaar charm and elegance.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_45af444e-6f37-43ee-b1a7-55d408ab614e.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-1): Illuminate your space with the exquisite AURALAMP Wall Lamp, featuring authentic Turkish craftsmanship and stunning mosaic designs that bring heritage to life.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_dd74cb97-b88f-46da-92ce-e42234423b35.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish Wall Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-2): Illuminate your space with AURALAMP's authentic Turkish Wall Lamp. Handcrafted, it showcases stunning mosaic art for a warm and inviting atmosphere.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_586b5b13-4601-45df-8df6-0235086b0f87.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp for Stunning Décor](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-3): Illuminate your space with AURALAMP's authentic Turkish Mosaic Wall Lamp. Handcrafted beauty meets durable design, perfect for adding warmth and charm.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_ff0a8203-979c-4a89-bbe2-eb691f62d8e2.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-4): Illuminate your space with AURALAMP's authentic Turkish Mosaic Wall Lamp. Handmade elegance from the Grand Bazaar, featuring vibrant glass patterns.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-5): Illuminate your space with AURALAMP's handmade Turkish Wall Lamp. Featuring vibrant mosaics, it's a stunning blend of art and tradition from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:18Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_be131725-df6a-4f21-b40a-b452739d0a86.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Unique Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-6): Illuminate your space with AURALAMP's handmade Turkish mosaic wall lamp. A blend of vibrant colors and traditional craftsmanship from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_13e5607c-fb0e-4a04-8511-6db84b72637a.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-7): Illuminate your space with AURALAMP's handcrafted Turkish mosaic wall lamp. Each unique piece celebrates Grand Bazaar heritage, blending art with durability.
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_c291dc2e-a29a-49c5-846c-ab7cf90c0904.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp for Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-8): Illuminate your space with our AURALAMP Turkish Wall Lamp. Handcrafted mosaic design reflects the charm of Grand Bazaar, adding authentic elegance.
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_db8082e6-8d81-4b2c-8b2f-914346b3448d.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-9): Illuminate your space with AURALAMP's handmade Turkish Wall Lamp. Crafted with authentic mosaics, it blends heritage and elegance perfectly.
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/65465.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp for Stunning Décor](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-10): Illuminate your space with the AURALAMP Turkish Mosaic Wall Lamp, showcasing intricate handcrafted designs and vibrant colors. Authentic Grand Bazaar charm!
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_5_1a7d3153-ab2f-450c-8340-227cdf9f932f.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-11): Illuminate your space with AURALAMP's handcrafted Turkish Mosaic Wall Lamp. Unique patterns and antique brass finish bring Grand Bazaar charm to your home.
-  Updated: 2026-10-19T16:35:19Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_6_9dfacc7c-3d25-4f9a-91c2-031a3ca916bd.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-12): Illuminate your space with AURALAMP's authentic Turkish wall lamp. Handmade mosaic glass artistry blends elegance and heritage for unique lighting.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_7.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp for Decor](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-13): Illuminate your space with AURALAMP's stunning handmade Turkish Mosaic Wall Lamp. Crafted from colorful glass, it embodies authentic Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_8_375682b4-8c16-4934-9ade-68d8e16b931b.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-14): Illuminate your space with AURALAMP's authentic Turkish Wall Lamp. Handcrafted mosaic design from Grand Bazaar artisans adds unique charm to any decor.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_9.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-15): Illuminate your space with AURALAMP's handmade Turkish Mosaic Wall Lamp. Experience authentic craftsmanship and vibrant designs rooted in Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_10.jpg?v=1786824966
   Price: $49.92 USD
 - [Authentic Turkish Wall Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-16): Illuminate your space with the AURALAMP Turkish Wall Lamp. Handmade with vibrant mosaics, it adds a touch of Grand Bazaar charm to any decor.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_11.jpg?v=1786824907
   Price: $49.92 USD
 - [Authentic Turkish Wall Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-17): Illuminate your space with the AURALAMP Turkish Wall Lamp, showcasing handmade mosaics inspired by Grand Bazaar heritage. A touch of authentic elegance.
-  Updated: 2026-10-19T16:35:20Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_12.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-18): Illuminate your space with our authentic AURALAMP Turkish Mosaic Wall Lamp, featuring stunning handcrafted designs that bring Grand Bazaar elegance home.
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_13.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-19): Illuminate your space with AURALAMP's exquisite handmade Turkish mosaic wall lamp. Crafted by skilled artisans, it's a stunning blend of tradition and elegance.
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_14.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Elegant Glow](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-20): Illuminate your space with AURALAMP's handcrafted Turkish Wall Lamp, featuring unique mosaic designs inspired by Grand Bazaar traditions. Stylish and durable!
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_15.jpg?v=1786824907
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-21): Illuminate your space with AURALAMP's authentic Turkish wall lamp. Handcrafted mosaics bring heritage and elegance to any room, blending art with light.
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_16.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lightin): Illuminate your space with AURALAMP's authentic Turkish wall lamp, showcasing exquisite mosaic artistry from the Grand Bazaar. A true décor statement!
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_19.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Handcrafted](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lightin-1): Illuminate your space with AURALAMP's authentic Turkish wall lamp. Handcrafted mosaic glass shines with vibrant colors, showcasing Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_24.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Mosaic Wall Lamp - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-22): Illuminate your space with AURALAMP's authentic Turkish Mosaic Wall Lamp, handcrafted for unique elegance and vibrant design. Bring Grand Bazaar charm home!
-  Updated: 2026-10-19T16:35:21Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_25.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish AURALAMP Wall Lamp for Elegant Lighting](https://mallturk.com/products/auralamp-original-turkish-mosaic-wall-lamp-handmade-bohemian-wall-light-authentic-decorative-lighting-23): Illuminate your space with the authentic charm of AURALAMP's Turkish mosaic wall lamp. Handcrafted elegance that showcases Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:22Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Wall Lamp
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_26.jpg?v=1786824906
   Price: $49.92 USD
 - [Authentic Turkish Pendant Lamp by AURALAMP - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp): Illuminate your home with AURALAMP's handmade Turkish mosaic pendant. Crafted by artisans, each unique lamp showcases stunning patterns and authentic heritage.
-  Updated: 2026-10-19T16:35:22Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_36a2f939-da03-4741-bf4a-7dc94dc37351.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-1): Illuminate your home with the AURALAMP Turkish Mosaic Pendant, a stunning artisan-crafted piece that reflects the charm of Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:22Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_41cc0d92-5571-4a95-aed9-bad7f5e3a012.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Style Light](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-2): Illuminate your space with the exquisite AURALAMP Turkish mosaic pendant, a handcrafted masterpiece that brings the Grand Bazaar's charm to life.
-  Updated: 2026-10-19T16:35:22Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_d65882b3-1f16-4637-a9e4-789c33ad94ee.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Pendant - AURALAMP Unique Light](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-3): Illuminate your home with the authentic charm of AURALAMP's Turkish Mosaic Pendant. Handcrafted beauty meets functional art in this unique masterpiece.
-  Updated: 2026-10-19T16:35:22Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_4d2eef03-5136-4006-9e6b-ff44cfdcb299.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Pendant - AURALAMP Quality Light](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-4): Illuminate your space with the AURALAMP Handmade Turkish Mosaic Pendant. Each lamp is a unique masterpiece, crafted from hand-cut glass for stunning beauty.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_41e526ec-5585-45d9-acd3-e32128ca61a4.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-5): Illuminate your space with the AURALAMP Turkish Mosaic Pendant. Handcrafted elegance from the Grand Bazaar, showcasing stunning patterns and authentic heritage.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_48949f91-a7c6-4ed0-b90b-7264f342d4da.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Pendant - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-6): Illuminate your space with the stunning AURALAMP Turkish Mosaic Pendant. Each handmade lamp is a masterpiece, celebrating authentic Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_b9f034ae-4df3-4774-97c4-dd32ef08d98c.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Lamp Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-7): Illuminate your space with AURALAMP's authentic Turkish mosaic pendant. Handmade for unique elegance, it brings a touch of Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_03422222-be68-498b-9243-d2e3ccbefe73.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant Lamp - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-8): Illuminate your space with the stunning AURALAMP Turkish mosaic pendant. Handmade by artisans, this lamp showcases unique patterns, blending beauty and warmth.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9_33cc514f-af4c-4322-872b-780bac5aa460.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-9): Illuminate your space with AURALAMP's handcrafted Turkish Mosaic Pendant. Each unique piece blends artistry and heritage, enriching your home.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_afd316a3-a73b-49f6-bfe9-f960e3bad7be.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-10): Illuminate your home with the AURALAMP handmade Turkish Mosaic Pendant. Crafted by skilled artisans, it showcases vibrant colors and stunning patterns.
-  Updated: 2026-10-19T16:35:23Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11_75c51fd4-d8bc-467f-b272-57b5b66e5a73.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Pendant - Unique Lighting](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-11): Illuminate your space with AURALAMP's stunning Turkish mosaic pendant. Handcrafted to perfection, each piece showcases authentic artistry from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12_78a39a9f-e47b-4e6c-bf76-9d2976a76f82.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Lamp Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-12): Illuminate your home with the authentic charm of AURALAMP's handmade Turkish Mosaic Pendant. Unique patterns and vibrant colors bring warmth and elegance.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13_e0260fbd-1c3c-468e-a645-4751c9d1ede2.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-13): Illuminate your space with AURALAMP's stunning Turkish mosaic pendant. Each handcrafted piece boasts unique patterns, exuding authentic Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14_5fced431-8531-48cc-a7e6-6bd8f00e511f.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-14): Illuminate your space with the exquisite AURALAMP Turkish mosaic pendant. Handcrafted by skilled artisans, it radiates elegance and authenticity.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15_0cabfa72-50da-4a23-b099-1550ed90f363.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-15): Illuminate your space with AURALAMP's handcrafted Turkish mosaic pendant. Unique designs inspired by Grand Bazaar tradition will transform any room.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16_0a4cfa01-2caa-4459-be5c-41ee118d887b.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-16): Illuminate your home with AURALAMP's authentic Turkish mosaic pendant, expertly handcrafted to enhance any space with its unique, captivating design.
-  Updated: 2026-10-19T16:35:24Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17_d39eba8b-11d0-4ea9-9256-9293f04b692d.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-17): Illuminate your space with the stunning AURALAMP Turkish mosaic pendant. Handmade by artisans, it showcases intricate patterns and authentic Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/18.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-18): Illuminate your space with the AURALAMP Handmade Turkish Mosaic Pendant. This unique piece showcases artisan craftsmanship, creating a warm, inviting ambiance.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19_29582872-24b6-4401-9b4c-7d4991f0e49d.jpg?v=1786824906
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-19): Illuminate your home with the stunning AURALAMP Turkish Mosaic Pendant. Handcrafted by skilled artisans, each piece is a unique blend of culture and elegance.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20_47aa618e-fa56-4359-ba06-4da97c383cd1.jpg?v=1786824847
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Pendant by AURALAMP - Unique Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-20): Illuminate your space with AURALAMP's handmade Turkish mosaic pendant. Each artisan-crafted piece reflects authentic Grand Bazaar heritage, enhancing any room.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21.png?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-21): Illuminate your space with AURALAMP's handcrafted Turkish mosaic pendant. Authentic craftsmanship brings charm and elegance from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/22_4f4fb6c7-8de7-4c15-9fb6-8b9a900675c1.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Mosaic Pendant Lamp - AURALAMP Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-22): Illuminate your home with the AURALAMP Turkish Mosaic Pendant, expertly handcrafted for a unique touch of elegance. Embrace authentic Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/23_5490c273-7745-463d-b884-e09c62bf4843.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-23): Illuminate your space with AURALAMP's handcrafted Turkish mosaic pendant. Each unique piece brings authentic Grand Bazaar charm to your decor.
-  Updated: 2026-10-19T16:35:25Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24_cbf61a9d-62f2-46aa-87f6-79ca06e79e18.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Pendant - Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-24): Illuminate your space with this exquisite AURALAMP Turkish mosaic pendant. Handcrafted, each lamp boasts unique patterns, blending art with function.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/24552767.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Pendant Lamp - AURALAMP Mosaic Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-25): Illuminate your space with the stunning AURALAMP Turkish Mosaic Pendant. Each handcrafted piece showcases authentic Grand Bazaar artistry, adding unique charm.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/25_9ec7f31c-f3ca-40fe-8bcb-3ee1f82e7d74.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish AURALAMP Mosaic Pendant - Elegant Lighting](https://mallturk.com/products/auralamp-original-turkish-mosaic-pendant-light-1-globe-handmade-decorative-lamp-26): Illuminate your space with the AURALAMP handcrafted Turkish mosaic pendant. Each unique design captures Grand Bazaar charm, perfect for any decor.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Pendant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed_9_6565.jpg?v=1786824846
   Price: $48.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier, a stunning 5-globe piece blending intricate craftsmanship and Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_56e1e9e2-c8d4-4301-9520-0be04768e818.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier - AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-1): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted from vibrant glass, each piece tells a story of Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_ff83cb48-a7d9-4db4-b31a-05b6e61d5c78.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-2): Illuminate your space with AURALAMP's exquisite Turkish mosaic chandelier. Handcrafted elegance from the Grand Bazaar, it adds a touch of heritage to any room.
-  Updated: 2026-10-19T16:35:26Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_8775303a-44cc-4d8d-81be-64e562edd612.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-3): Illuminate your space with AURALAMP's stunning Turkish mosaic chandelier. Handcrafted beauty meets tradition, bringing Grand Bazaar charm to your home.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_a97ca64a-177e-4b3b-8a08-d7933a90c3cb.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-4): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handmade from vibrant glass, each globe is a unique piece of Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_143364b7-1fd0-402d-a0b8-66a91fe5d1d0.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier - AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-5): Illuminate your space with this authentic Turkish chandelier from AURALAMP. Handcrafted, it showcases stunning mosaic glass globes and superior durability.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_e67fbb70-449d-49bd-939c-9affbacae655.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-6): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handcrafted, unique design inspired by Grand Bazaar heritage—bring authentic elegance home.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_a0fcb44f-5e56-485a-ad29-7e35cb1df3ea.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish AURALAMP Chandelier – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-7): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier. Handcrafted beauty from Grand Bazaar artisans, boasting five unique glass globes.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7b94fc74-fd4a-4571-942e-568b2bad3045.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP - 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-8): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, this piece showcases exquisite artistry.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_e79839b1-14ab-4e08-a8fd-2df580e300d7.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier by AURALAMP – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-9): Illuminate your space with this exquisite AURALAMP Turkish mosaic chandelier. Handmade with vibrant glass globes, it’s a true Grand Bazaar treasure.
-  Updated: 2026-10-19T16:35:27Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9.png?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-10): Illuminate your space with this AURALAMP Turkish Mosaic Chandelier, showcasing five unique handcrafted globes that blend art and heritage beautifully.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_226e97ec-e0b1-4a3c-a655-a8b0783bd587.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-11): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier. Handcrafted with vibrant glass, it's a stunning centerpiece rooted in Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11_9db06a1c-4e0c-4196-9bf0-e23733f15e22.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish AURALAMP Chandelier – 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-12): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted elegance inspired by Grand Bazaar tradition awaits.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12_23e7108c-0c41-4f19-badb-a93c262199af.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-13): Illuminate your space with this exquisite AURALAMP Turkish mosaic chandelier. Handcrafted with vibrant glass globes, it radiates authentic Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/unnamed7.jpg?v=1786824846
   Price: $159.90 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-14): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handmade globes, vibrant patterns, and Grand Bazaar heritage create a unique ambiance.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13_f2be1749-133d-4454-a4d9-3d6205ec796b.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-15): Illuminate your space with the stunning AURALAMP Turkish Mosaic Chandelier. Handcrafted with 5 vibrant globes, it blends heritage and elegance seamlessly.
-  Updated: 2026-10-19T16:35:28Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 5 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-5-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with AURALAMP's handcrafted Turkish Mosaic Chandelier. Experience the vibrant colors and exquisite craftsmanship of the Grand Bazaar.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15.png?v=1786824846
   Price: $125.95 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp): Illuminate your space with AURALAMP's handmade Turkish Mosaic Chandelier. Crafted from vibrant glass, it captures Grand Bazaar elegance for timeless beauty.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/1_0e8cf602-89f4-4b49-8e20-aff4197614de.jpg?v=1786824846
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-1): Illuminate your space with this exquisite AURALAMP Turkish chandelier. Handcrafted mosaics bring a touch of Grand Bazaar charm to any decor.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/2_444410be-5e80-4cd9-ab41-ebf4c355547f.jpg?v=1786824846
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-2): Illuminate your space with the stunning AURALAMP Turkish Mosaic Chandelier, featuring unique handcrafted glass globes inspired by Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/3_fbc7b367-8f26-4ca2-a8f7-acd68cd68265.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-3): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted globes showcase exquisite patterns, reflecting authentic Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/4_2d401522-1c33-4957-9687-33177d597a90.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-4): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier, showcasing vibrant handcrafted globes. A unique piece steeped in Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:29Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/5_75b61890-e3e8-4853-978b-9bd5f81897ca.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-5): Illuminate your space with this exquisite Turkish Mosaic Chandelier by AURALAMP, featuring unique handcrafted globes and rich Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6_a1bf44b0-14a3-4ba7-a5aa-4be1ad874550.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP - 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-6): Illuminate your space with this stunning AURALAMP Turkish mosaic chandelier. Handcrafted beauty and vibrant colors reflect authentic Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7_effad117-a956-463d-a0c8-355aca78e5a3.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish AURALAMP Chandelier – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-7): Illuminate your space with this AURALAMP Turkish Mosaic Chandelier. Handcrafted with exquisite glass globes, it's a piece of Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/8_2176bba4-8ec3-4870-9842-edb79823f388.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-8): Illuminate your space with AURALAMP's Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, it adds vibrant charm and character.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9_242668d1-1c89-4ca9-b0e9-3634873530a1.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-9): Illuminate your space with the exquisite AURALAMP Turkish mosaic chandelier. Handcrafted, vibrant globes showcase authentic Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10_a16f15cb-b3d2-40b6-be0d-1b81f5c5d749.jpg?v=1786824787
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-kopya): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handcrafted elegance meets authentic Grand Bazaar heritage in each stunning globe.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/11.png?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier - AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-10): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted with vibrant globes, it showcases authentic Grand Bazaar artistry.
-  Updated: 2026-10-19T16:35:30Z
+  Updated: 2026-10-30T18:27:16Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12_8a7f30d5-8712-48dc-9d61-f51b1ac27ad1.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-11): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted with exquisite detail, this stunning piece blends tradition and elegance.
-  Updated: 2026-10-19T16:35:31Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/13_df39b5d2-0b44-4881-8ffc-bfdee9cd4379.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-12): Illuminate your space with AURALAMP's handcrafted Turkish mosaic chandelier. Authentic craftsmanship meets vibrant design, inspired by Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:31Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/14_62718464-3bd9-4b29-b34a-b5e8d1a620f5.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-13): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handmade beauty meets authentic Grand Bazaar craftsmanship for a stunning statement.
-  Updated: 2026-10-19T16:35:31Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/15_a4bfb779-087a-4624-9f46-12b8e3d2aed4.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-14): Illuminate your space with AURALAMP's exquisite Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each globe radiates vibrant art.
-  Updated: 2026-10-19T16:35:31Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/16_547eabaf-7b0b-4574-b412-10ea41495f74.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-15): Illuminate your space with the AURALAMP Turkish Mosaic Chandelier, a stunning handcrafted piece inspired by Grand Bazaar artistry. Perfect elegance awaits.
-  Updated: 2026-10-19T16:35:31Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/17_69f93e88-718b-47a6-b241-15ec22fea36b.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier – AURALAMP 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-16): Illuminate your space with our AURALAMP Turkish Mosaic Chandelier. Handcrafted elegance from the Grand Bazaar, each piece tells a unique story.
-  Updated: 2026-10-29T12:58:26Z
+  Updated: 2026-11-01T18:04:57Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/18_73c8b853-71b1-458c-8395-31e464ea2846.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-17): Illuminate your space with this AURALAMP Turkish mosaic chandelier. Handcrafted elegance, featuring vibrant glass globes that echo Grand Bazaar charm.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/19_8bc421e2-9b7b-4407-b9c4-3e5768d1d9fb.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-18): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handmade from exquisite glass, it brings a touch of Grand Bazaar elegance.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/21_7791959e-c773-4e38-84e1-33ca16b8d550.jpg?v=1786824786
   Price: $94.42 USD
 - [Authentic Turkish Chandelier by AURALAMP – 3 Globe Design](https://mallturk.com/products/auralamp-original-turkish-mosaic-chandelier-3-globe-handmade-decorative-ceiling-lamp-19): Illuminate your space with AURALAMP's stunning Turkish Mosaic Chandelier. Handcrafted with vibrant glass globes, it's a piece of Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: AURALAMP
   Product Type: Chandelier
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/20_6904d2c0-4732-450e-9120-9765af81e75b.jpg?v=1786824786
   Price: $94.42 USD
 - [ARZUM Authentic Turkish Coffee Machine - OKKA Minio Model](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio): Experience authentic Turkish coffee with the ARZUM OKKA Minio Pro. Brew up to 4 cups effortlessly and enjoy rich flavors steeped in Grand Bazaar tradition.
-  Updated: 2026-10-28T21:03:25Z
+  Updated: 2026-11-05T19:52:10Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237513018.webp?v=1786824787
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237513018.webp?v=1793908069
   - [gold](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio?variant=48096146030644)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/Screenshot_3_462c7d8a-b1a8-409a-8d0a-006dc6beae36.png?v=1787528406
@@ -1314,14 +1314,14 @@
     Price: $100.00 USD
   - [Bronze](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio?variant=48104511307828)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6242411015_acaddb10-2e5d-4155-911b-10352ae35a45.webp?v=1786824847
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6242411015_acaddb10-2e5d-4155-911b-10352ae35a45.webp?v=1793906930
     Price: $140.00 USD
   - [Silver](https://mallturk.com/products/arzum-okka-electric-turk-okka-minio?variant=48104511340596)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6236795995_5c8604d8-ec43-4ff1-ba1e-c196028c8bc5.webp?v=1786824907
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6236795995_5c8604d8-ec43-4ff1-ba1e-c196028c8bc5.webp?v=1793906965
     Price: $140.00 USD
 - [Authentic Turkish Women's Trousers - 100% Genuine Leather](https://mallturk.com/products/100-genuine-leather-womens-trousers): Elevate your style with MALLTURK's Women's Genuine Leather Pants. Embrace timeless elegance inspired by the Grand Bazaar, perfect for any occasion.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1345,7 +1345,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Genuine Leather Women's Trousers](https://mallturk.com/products/100-genuine-leather-womens-trousers-1): Elevate your style with MALLTURK's women's genuine leather jeans. Timeless black, sleek fit—perfect for any occasion, inspired by Grand Bazaar craftsmanship.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1369,7 +1369,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Leather Women's Trousers - MALLTURK](https://mallturk.com/products/100-genuine-leather-womens-trousers-2): Discover MALLTURK's women's clothing, featuring authentic Turkish designs. Elevate your style with unique pieces that blend tradition and modernity.
-  Updated: 2026-10-19T16:35:32Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish MALLTURK Women's Genuine Leather Trousers](https://mallturk.com/products/100-genuine-leather-womens-trousers-kopya): Elevate your wardrobe with MALLTURK's Women's Genuine Leather Jeans. Experience timeless style and unmatched comfort, a true treasure from the Grand Bazaar.
-  Updated: 2026-10-19T16:35:33Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: MALLTURK
   Product Type: Women's Clothing
   Availability: Available
@@ -1417,7 +1417,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Authentic Turkish Coffee Machine by ARZUM OKKA Minio Duo](https://mallturk.com/products/arzum-okka-minio-duo-8-cups): Experience the rich flavors of authentic Turkish coffee with the ARZUM OKKA Minio Duo. Brew up to 8 cups effortlessly and enjoy a taste of tradition.
-  Updated: 2026-10-19T16:35:33Z
+  Updated: 2026-11-05T19:46:35Z
   Vendor: ARZUM
   Product Type: Türk coffe machine
   Availability: Available
@@ -1442,51 +1442,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6186868159_674f2b02-6ae0-4830-86c6-3262460b585b.webp?v=1786824786
     Price: $300.00 USD
-- [ARZUM Authentic Turkish Coffee Machine - OKKA Minio Jet](https://mallturk.com/products/arzum-okka-minio-jet-5-cups): Brew authentic Turkish coffee effortlessly with the ARZUM OKKA Minio Jet. Quick, efficient, and perfect for any gathering—taste tradition today!
-  Updated: 2026-10-19T16:35:33Z
-  Vendor: ARZUM
-  Product Type: Türk coffe machine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237346821_d9e4e4a2-ac33-4b93-9fe7-ae93b34b74df.webp?v=1786824726
-  - [Yellow](https://mallturk.com/products/arzum-okka-minio-jet-5-cups?variant=48105404039220)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6213709527_18b998fa-f9f4-4295-9856-323170a1c4dd.webp?v=1786023663
-    Price: $200.00 USD
-  - [Orange](https://mallturk.com/products/arzum-okka-minio-jet-5-cups?variant=48105404071988)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237409903_e77f55ed-cc87-44b8-a04c-342dc64c972f.webp?v=1786023663
-    Price: $200.00 USD
-  - [Copper](https://mallturk.com/products/arzum-okka-minio-jet-5-cups?variant=48105404104756)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237544710_8860f95a-9c00-4c99-b084-23f3f777f533.webp?v=1786023663
-    Price: $200.00 USD
-  - [Gray](https://mallturk.com/products/arzum-okka-minio-jet-5-cups?variant=48105404137524)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6240476124_bcad19a3-c0cf-4d0b-9336-b62ba84849a6.webp?v=1786023663
-    Price: $200.00 USD
-- [Authentic Turkish ARZUM Coffee Machine for Perfect Brews](https://mallturk.com/products/arzum-okka-ok001): Experience the rich heritage of Turkish coffee with the ARZUM OKKA machine. Brew perfect cups effortlessly, honoring 500 years of tradition.
-  Updated: 2026-10-19T16:35:33Z
-  Vendor: ARZUM
-  Product Type: Türk coffe machine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237980842_0f0b9841-357f-4b13-999c-4b35d3eb5206.webp?v=1786824726
-  Price: $325.00 USD
-- [Authentic Turkish Coffee Machine ARZUM OKKA Elite OK0040](https://mallturk.com/products/arzum-okka-elite-automatic-turkish-coffee-machine): Indulge in authentic Turkish coffee with the ARZUM OKKA Elite machine. Enjoy rich flavors and effortless brewing straight from the Grand Bazaar tradition.
-  Updated: 2026-10-19T16:35:33Z
-  Vendor: ARZUM
-  Product Type: Türk coffe machine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/elit-turkkahmaksiyah-krom-2peu-turkish-coffee-machine-arzum-okka-ok0040-2000-7426-34-B_8aedfa14-7f78-405c-bc48-cf58b90cafb8.jpg?v=1786024045
-  - [Silver](https://mallturk.com/products/arzum-okka-elite-automatic-turkish-coffee-machine?variant=48105406169140)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/elit-turkkahmaksiyah-krom-2peu-turkish-coffee-machine-arzum-okka-ok0040-2000-7426-34-B_8aedfa14-7f78-405c-bc48-cf58b90cafb8.jpg?v=1786024045
-    Price: $350.00 USD
-  - [Copper](https://mallturk.com/products/arzum-okka-elite-automatic-turkish-coffee-machine?variant=48105406201908)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/elit-turkkahmaksiyah-bakir-2peu-turkish-coffee-machine-arzum-okka-ok0040-2600-7427-34-B_c692b3da-2f37-45e8-b8d0-70f06b79b923.jpg?v=1786824726
-    Price: $350.00 USD
 - [Authentic Turkish TAC Cast Iron Cookware Set - 7 Pieces](https://mallturk.com/products/tac-7-piece-granite): Discover authentic Turkish heritage with TAC's premium cookware. Experience effortless cooking with its durable granite coating and sleek design.
-  Updated: 2026-10-19T16:35:33Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
@@ -1504,21 +1461,21 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/12968561715_4a5231ae-2074-42e7-8763-2dbdc3a7f9f5.webp?v=1786824726
     Price: $400.00 USD
 - [Authentic Turkish TAC Carabella Cast Iron Cookware Set](https://mallturk.com/products/tac-carabella-7-piece-set-black): Discover the Taç Carabella 7-Piece Cast Iron Cookware Set. Crafted for flavor and style, this set is perfect for an authentic Turkish culinary experience.
-  Updated: 2026-10-19T16:35:34Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753243106_ed8a9071-d39a-4555-89f1-8f31c27990ce.webp?v=1786824726
   Price: $550.00 USD
 - [Authentic Turkish TAC Carabella Cast Iron Cookware Set](https://mallturk.com/products/tac-carabella-7-piece-set-gray): Experience the elegance of TAC Carabella 7-Piece Cast Iron Cookware. Authentic Turkish craftsmanship meets modern design for delectable meals.
-  Updated: 2026-10-19T16:35:34Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753247684_679af46d-05ae-498d-9bbb-9af06c57e696.jpg?v=1786824726
   Price: $550.00 USD
 - [Authentic Turkish TAC Granite Non-Stick Cookware](https://mallturk.com/products/tac-granit-non-stick-cookware): Discover TAC cookware, the essence of Turkish craftsmanship. Enjoy durable, stylish pots that make every meal a delight while embracing Grand Bazaar heritage.
-  Updated: 2026-10-19T16:35:34Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: TAC
   Product Type: Cookware
   Availability: Available
@@ -1580,7 +1537,7 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6753058922_70f24cc1-4163-46a7-8d47-d728a22ecd97.webp?v=1786049156
     Price: $165.00 USD
 - [LAVA Authentic Turkish Cast Iron Casserole with Lid](https://mallturk.com/products/lava-casserole): Discover LAVA Cookware, featuring authentic Turkish enameled cast iron casseroles. Enjoy even heat distribution and timeless design for delicious meals.
-  Updated: 2026-10-19T16:35:34Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: LAVA
   Product Type: Cookware
   Availability: Available
@@ -1766,449 +1723,470 @@
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/ff420eff-8aed-4ed5-8263-0fb94cdfe2e2_e6e1305d-2f04-4517-9709-393d5227cde4.jpg?v=1786824906
     Price: $240.00 USD
 - [Authentic Turkish Coffee Machine - Beko BEKO2300 Model](https://mallturk.com/products/beko2300): Discover the Beko BKK 2300 Turkish Coffee Machine. Brew authentic, rich Turkish coffee effortlessly at home, capturing the Grand Bazaar's essence.
-  Updated: 2026-10-27T20:47:06Z
+  Updated: 2026-11-06T07:22:03Z
   Vendor: BEKO
   Product Type: Türk coffe machine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541240_5111545c-d461-4e80-aea5-1d8e974b5deb.webp?v=1786824726
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541246_c74bf424-0cd9-4e3c-af5e-04658b3ebf24.webp?v=1786181730
   - [White](https://mallturk.com/products/beko2300?variant=48122653540404)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541240_5111545c-d461-4e80-aea5-1d8e974b5deb.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541246_c74bf424-0cd9-4e3c-af5e-04658b3ebf24.webp?v=1786181730
     Price: $140.00 USD
   - [Purple](https://mallturk.com/products/beko2300?variant=48122653573172)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108734135_ee920880-2d44-4b78-a48a-94818154fdcd.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108734226_149f5cf5-af3b-4632-92c6-f11195ff4dc3.webp?v=1786824727
     Price: $140.00 USD
   - [Pink](https://mallturk.com/products/beko2300?variant=48122653605940)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541227_c61c28cd-0761-4ff5-b7cc-a351204e1815.webp?v=1786824727
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6139541232_e9691720-cb1c-4384-b8fd-e6c3fa2c377f.webp?v=1786824727
     Price: $140.00 USD
   - [Black](https://mallturk.com/products/beko2300?variant=48122653638708)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108726751_1bbc3b18-0cf1-4d1d-8077-8a76c10f5d4a.webp?v=1786824786
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9108726751_1bbc3b18-0cf1-4d1d-8077-8a76c10f5d4a.webp?v=1793906418
     Price: $140.00 USD
 - [Korkmaz Authentic Turkish Coffee Machine for Perfect Brews](https://mallturk.com/products/korkmaz-kahvekolik): Discover authentic Turkish coffee at home with the Korkmaz Kahvekolik Coffee Machine. Experience rich flavors and easy preparation for every occasion.
-  Updated: 2026-10-19T16:35:34Z
+  Updated: 2026-11-06T10:39:28Z
   Vendor: KORKMAZ
   Product Type: Türk coffe machine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237600313_746741e5-ea0f-4f89-9a58-7ec42ab39cae.webp?v=1786824726
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237600313_746741e5-ea0f-4f89-9a58-7ec42ab39cae.webp?v=1793961274
   - [White](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654031924)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237600313_746741e5-ea0f-4f89-9a58-7ec42ab39cae.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237600313_746741e5-ea0f-4f89-9a58-7ec42ab39cae.webp?v=1793961274
     Price: $200.00 USD
   - [Purple](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654064692)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237610877_02db07ae-9cd9-4b19-a240-781b51bfad6a.webp?v=1786824727
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237610877_02db07ae-9cd9-4b19-a240-781b51bfad6a.webp?v=1793961189
     Price: $200.00 USD
   - [Blue](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654097460)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237624230_dbbc1561-9728-4c3c-92b0-adb7e6dc26bf.webp?v=1786824727
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237624230_dbbc1561-9728-4c3c-92b0-adb7e6dc26bf.webp?v=1793961317
     Price: $200.00 USD
   - [Rosagold](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654130228)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237578813_a7236dd7-07cc-4d3f-8b20-a52a52b25cd7.webp?v=1786824787
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237578813_a7236dd7-07cc-4d3f-8b20-a52a52b25cd7.webp?v=1793961157
     Price: $200.00 USD
   - [Black-Rosa](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654162996)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6240822076_2e8b6c99-642e-4b0a-aa2f-639a896cea74.webp?v=1786824787
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6240822076_2e8b6c99-642e-4b0a-aa2f-639a896cea74.webp?v=1793961373
     Price: $200.00 USD
   - [Red](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654195764)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237607538_daee0d21-7b6e-44a0-aaf8-d2f46cd589ec.webp?v=1786824787
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237607538_daee0d21-7b6e-44a0-aaf8-d2f46cd589ec.webp?v=1793961172
     Price: $200.00 USD
   - [Black](https://mallturk.com/products/korkmaz-kahvekolik?variant=48122654228532)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237617014_41239974-6a0e-4205-a5db-dfa04f9efa37.webp?v=1786824846
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6237617014_41239974-6a0e-4205-a5db-dfa04f9efa37.webp?v=1793961562
     Price: $200.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik TKM 9961](https://mallturk.com/products/arcelik-tkm9961): Experience authentic Turkish coffee at home with the Arcelik TKM 9961 Telve machine. Enjoy rich flavors and simplicity inspired by Grand Bazaar traditions.
-  Updated: 2026-10-19T16:35:35Z
+  Updated: 2026-11-06T10:34:55Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243183820_a7f1bc30-713b-42ab-80b6-dd5169ee05e0.webp?v=1786824726
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243183820_a7f1bc30-713b-42ab-80b6-dd5169ee05e0.webp?v=1793961013
   - [Red](https://mallturk.com/products/arcelik-tkm9961?variant=48122656260148)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243183820_a7f1bc30-713b-42ab-80b6-dd5169ee05e0.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243183820_a7f1bc30-713b-42ab-80b6-dd5169ee05e0.webp?v=1793961013
     Price: $325.00 USD
   - [Copper](https://mallturk.com/products/arcelik-tkm9961?variant=48122656292916)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6181186240_63e5f767-e9e7-426b-aad9-4e42566839ab.webp?v=1786824727
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6181186240_63e5f767-e9e7-426b-aad9-4e42566839ab.webp?v=1793961030
     Price: $325.00 USD
   - [Brown](https://mallturk.com/products/arcelik-tkm9961?variant=48122656325684)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243182802_8bda03f6-3326-4849-bdcf-2b2014a683fb.webp?v=1786824786
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6243182802_8bda03f6-3326-4849-bdcf-2b2014a683fb.webp?v=1793961044
     Price: $325.00 USD
   - [Silver](https://mallturk.com/products/arcelik-tkm9961?variant=48122656358452)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6235355476_b70e3b5e-4e78-427f-9477-34bedecb70f7.webp?v=1786824786
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6235355494_37ed5a7f-8073-4a7b-9200-ce6c6a2e4c41.webp?v=1786181809
     Price: $325.00 USD
-- [Authentic Turkish Coffee Machine - Arcelik TKM 3940 G](https://mallturk.com/products/arcelik-tkm3940g): Experience authentic Turkish coffee with the ARCELIK TKM 3940 machine. Designed for convenience, it brings the Grand Bazaar's heritage right to your kitchen.
-  Updated: 2026-10-19T16:35:35Z
-  Vendor: ARCELIK
-  Product Type: Türk coffe machine
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6135260816_0378f467-bb50-4669-bb49-9e594aa6ae6c.webp?v=1786824725
-  Price: $200.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK FK 9110 I](https://mallturk.com/products/arcelik-fk9110): Experience authentic Turkish coffee culture at home with the Arcelik FK 9110 Grind & Brew. Freshly ground for delightful taste, perfect for daily use!
-  Updated: 2026-10-19T16:35:35Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016175_d2e65a50-33a4-4e92-bfe4-da5d5e5fd0f8.webp?v=1786181823
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - Arcelik FK 6310 S](https://mallturk.com/products/arcelik-fk6310): Discover the Arcelik FK 6310 S Filter Coffee Maker. Brew authentic Turkish coffee at home effortlessly, serving up to 10 cups for family and friends.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015775_0355be65-e5f0-4d66-8bf0-82bc1ea87a1b.webp?v=1786181830
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8580](https://mallturk.com/products/arcelik-k8580): Experience authentic Turkish coffee culture with the ARCELIK K8580 Eternity Filter Coffee Maker, featuring a 10-cup carafe for all your gatherings.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176016503_3822e9cb-aa96-4470-b0da-76696f4d9127.webp?v=1786181836
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK CM 9058 B](https://mallturk.com/products/arcelik-cm9058b): Experience authentic Turkish coffee at home with the ARCELIK CM 9058 B. This automatic machine simplifies brewing for a rich and delightful taste.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7176015754_97a2fc4b-6907-4fc4-bfc6-ebad5976ff10.webp?v=1786824725
   Price: $350.00 USD
 - [Authentic Turkish Coffee Machine - ARCELIK K 8115 KM InLove](https://mallturk.com/products/arcelik-k8115inlove): Savor authentic Turkish coffee culture with the ARCELIK K 8115 KM InLove Filter Coffee Maker. Perfect for daily use, brew up to 12 cups effortlessly.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: ARCELIK
   Product Type: Coffee Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/image_4c03c693-10e6-4cf9-be03-56b775fddaac.webp?v=1786824725
   Price: $350.00 USD
 - [Authentic Turkish Türk Coffee Machine - Arcelik Quality](https://mallturk.com/products/arcelik-telve): Experience authentic Turkish coffee at home with the Arcelik K3300. This user-friendly coffee machine blends tradition and modern design effortlessly.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-11-06T10:44:25Z
   Vendor: ARCELIK
   Product Type: Türk coffe machine
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713107_e23a816f-19ff-48f6-8490-b859c846487f.webp?v=1786824726
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713107_e23a816f-19ff-48f6-8490-b859c846487f.webp?v=1793961593
   - [White](https://mallturk.com/products/arcelik-telve?variant=48122667466804)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713107_e23a816f-19ff-48f6-8490-b859c846487f.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713107_e23a816f-19ff-48f6-8490-b859c846487f.webp?v=1793961593
     Price: $141.00 USD
   - [Red](https://mallturk.com/products/arcelik-telve?variant=48122667499572)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713742_593937f3-4a4c-45e1-afe6-37cb69ffac53.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136713742_593937f3-4a4c-45e1-afe6-37cb69ffac53.webp?v=1793961607
     Price: $145.00 USD
   - [Black](https://mallturk.com/products/arcelik-telve?variant=48122667532340)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136715641_14fd18f3-7d3a-4f87-8f77-07fce45e3c2a.webp?v=1786824726
+    Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/6136715641_14fd18f3-7d3a-4f87-8f77-07fce45e3c2a.webp?v=1793961634
     Price: $145.00 USD
   - [Gray](https://mallturk.com/products/arcelik-telve?variant=48122667565108)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/7033777055_42d2fa8b-b30a-433d-86b3-dc4c1ed0afcc.webp?v=1786182062
     Price: $100.00 USD
 - [Kütahya Porselen Bone Luz 4-Piece Turkish Coffee Cup Set, White, for 2](https://mallturk.com/products/kutahya-porselen-bone-luz-4-piece-turkish-coffee-cup-set-white-for-2-hbc0000am2wad): Bring elegance to your coffee table with the Bone Luz coffee set. The 4-piece set includes two handled porcelain coffee cups and two saucers. Its timeless plain white design is ideal for everyday coffee breaks and special guests. Capacity: 110 ml per cup. Dishwasher and microwave safe.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001263309857.jpg?v=1786191448
   Price: $59.64 USD
 - [Kütahya Porselen 'Glad You Exist' 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-glad-you-exist-4-piece-turkish-coffee-cup-set-for-2-hb00000w5ifd): A thoughtful 4-piece Turkish coffee set for two. It includes two porcelain coffee cups and two matching saucers, making it a lovely choice for sharing a coffee moment or giving as a gift.
-  Updated: 2026-10-19T16:35:36Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10716400418866.jpg?v=1786191450
   Price: $62.58 USD
 - [Kütahya Porselen Silvia 12-Piece Turkish Coffee Cup Set, White, for 6](https://mallturk.com/products/kutahya-porselen-silvia-12-piece-turkish-coffee-cup-set-white-for-6-hb000003njlu): The Silvia set brings a simple, elegant look to coffee service. This 12-piece porcelain set contains six handled coffee cups and six saucers. With its plain white finish and 90 ml capacity, it is ideal for daily use and entertaining. Dishwasher safe.
-  Updated: 2026-10-19T16:35:37Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001604187205.jpg?v=1786191450
   Price: $68.59 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857y): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-10-19T16:35:37Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012189.jpg?v=1786191452
   Price: $65.60 USD
 - [Kütahya Porselen Snowy 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-snowy-4-piece-turkish-coffee-cup-set-for-2-hbc00003a857w): A modern 4-piece porcelain coffee set for two, inspired by winter and new beginnings. The patterned design features nature-inspired deer, owl and bear motifs. Includes two handled coffee cups and two saucers. Dishwasher safe.
-  Updated: 2026-10-19T16:35:37Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000312012186.jpg?v=1786191455
   Price: $65.60 USD
-- [Kütahya Porselen Bone Iron 12-Piece Turkish Coffee Cup Set, White, for](https://mallturk.com/products/kutahya-porselen-bone-iron-12-piece-turkish-coffee-cup-set-white-for-6-hbc00000eztsc): Serve Turkish coffee in timeless style with the Bone Iron set. This 12-piece plain white porcelain set includes six handled coffee cups and six saucers. Its narrow rim and wider base are designed for a traditional Turkish coffee presentation.
-  Updated: 2026-10-19T16:35:37Z
+- [Kutahya Bone Iron White Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-bone-iron-12-piece-turkish-coffee-cup-set-white-for-6-hbc00000eztsc): Kutahya Porselen Bone Iron white Turkish coffee cup set for 6, with six handled porcelain cups and six saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:16Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000043386831.jpg?v=1786191455
   Price: $68.59 USD
-- [Kütahya Porselen Gentlemen Series Sailboat 12-Piece Turkish Coffee Cup](https://mallturk.com/products/kutahya-porselen-gentlemen-series-sailboat-12-piece-turkish-coffee-cup-set-for-6-hb00000sku2w): A patterned 12-piece porcelain Turkish coffee set from the Gentlemen Series. It includes six handled coffee cups and six saucers, offering a distinctive sailboat design for coffee service at home or with guests.
-  Updated: 2026-10-19T16:35:37Z
+- [Kutahya Sailboat Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-gentlemen-series-sailboat-12-piece-turkish-coffee-cup-set-for-6-hb00000sku2w): Kutahya Porselen Gentlemen Series sailboat Turkish coffee cup set for 6, with six handled cups and six saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:15Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/10567107444786.jpg?v=1786191458
   Price: $69.01 USD
-- [Kütahya Porselen Atatürk 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-ataturk-4-piece-turkish-coffee-cup-set-for-2-hbc000036dva5): A 4-piece handled porcelain Turkish coffee set for two. Includes two coffee cups and two saucers in a white design, suitable for sharing coffee with family and guests.
-  Updated: 2026-10-19T16:35:37Z
+- [Kutahya Ataturk Turkish Coffee Cup Set for 2 | 4 Pieces](https://mallturk.com/products/kutahya-porselen-ataturk-4-piece-turkish-coffee-cup-set-for-2-hbc000036dva5): Kutahya Porselen Ataturk Turkish coffee cup set for 2, 4 white porcelain pieces with two handled cups and saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:13Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000299500538.jpg?v=1786191458
   Price: $70.19 USD
-- [Kütahya Porselen Bone Desire Prosperity Symbol 4-Piece Turkish Coffee](https://mallturk.com/products/kutahya-porselen-bone-desire-prosperity-symbol-4-piece-turkish-coffee-cup-set-for-2-hbc00008gaakv): The Bone Desire set combines Anatolian-inspired prosperity motifs with a modern black-and-white design. This 4-piece porcelain set includes two 90 ml handled coffee cups and two saucers. Hand washing is recommended.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Bone Desire Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-desire-prosperity-symbol-4-piece-turkish-coffee-cup-set-for-2-hbc00008gaakv): Kutahya Porselen Bone Desire Turkish coffee cup set for 2 with Anatolian prosperity motifs, two 90 ml cups and saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:12Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000983959540.jpg?v=1786191459
   Price: $79.84 USD
-- [Kütahya Porselen Bone Luz 12-Piece Turkish Coffee Cup Set, White, for](https://mallturk.com/products/kutahya-porselen-bone-luz-12-piece-turkish-coffee-cup-set-white-for-6-hbc0000b4t4ln): An elegant 12-piece porcelain coffee set for six. The set includes six handled coffee cups and six saucers in a plain white finish. Each cup has a 110 ml capacity, making it a refined option for everyday use and special occasions. Microwave safe.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Bone Luz White Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-bone-luz-12-piece-turkish-coffee-cup-set-white-for-6-hbc0000b4t4ln): Kutahya Porselen Bone Luz white Turkish coffee cup set for 6, with six 110 ml handled cups and saucers. Microwave safe. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:24Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001325367124.jpg?v=1786191461
   Price: $85.73 USD
-- [Kütahya Porselen Bone Pure Love 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-pure-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszqkl): A colourful patterned 4-piece porcelain Turkish coffee set for two. It includes two 90 ml handled coffee cups and two matching saucers, adding a warm and expressive touch to coffee time.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Bone Pure Love Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-pure-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszqkl): Kutahya Porselen Bone Pure Love Turkish coffee cup set for 2, colorful patterned with two 90 ml cups and saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:01:20Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515329563.jpg?v=1786191463
   Price: $83.26 USD
-- [Kütahya Porselen Bone Soft Love 4-Piece Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-soft-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszoxl): A patterned 4-piece porcelain Turkish coffee set for two. The set includes two 90 ml handled coffee cups and two saucers, designed to make everyday coffee moments more special.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Bone Soft Love Turkish Coffee Cup Set for 2](https://mallturk.com/products/kutahya-porselen-bone-soft-love-4-piece-turkish-coffee-cup-set-for-2-hbc0000cszoxl): Kutahya Porselen Bone Soft Love Turkish coffee cup set for 2, with two 90 ml handled cups and two saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:59Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001515321793.jpg?v=1786191463
   Price: $83.26 USD
-- [Kütahya Porselen Briscambille 12-Piece Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-briscambille-12-piece-turkish-coffee-cup-set-for-6-hbc00003xtrjq): The Briscambille Collection interprets playing-card symbols in an expressive pop-art style. This 12-piece patterned porcelain set includes six coffee cups and six saucers, bringing a bold decorative character to coffee service.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Briscambille Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-briscambille-12-piece-turkish-coffee-cup-set-for-6-hbc00003xtrjq): Kutahya Porselen Briscambille Turkish coffee cup set for 6 with pop-art playing-card patterns, 6 cups and 6 saucers. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:57Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000391808637.jpg?v=1786191464
   Price: $84.57 USD
-- [Kütahya Porselen Atatürk Signature 12-Piece Turkish Coffee Cup Set for](https://mallturk.com/products/kutahya-porselen-ataturk-signature-12-piece-turkish-coffee-cup-set-for-6-hb0000000pt7): A special 12-piece porcelain coffee set featuring a platinum Atatürk signature on the cups and platinum lines on the saucers. It includes six coffee cups and six saucers. The colours are designed not to fade and the set is dishwasher safe.
-  Updated: 2026-10-19T16:35:38Z
+- [Kutahya Ataturk Signature Turkish Coffee Cup Set for 6](https://mallturk.com/products/kutahya-porselen-ataturk-signature-12-piece-turkish-coffee-cup-set-for-6-hb0000000pt7): Kutahya Porselen Turkish coffee cup set for 6 with a platinum Ataturk signature, 6 cups and 6 saucers, dishwasher safe. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:55Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/9429220261938.jpg?v=1786191465
   Price: $105.75 USD
 - [Kütahya Porselen Bone Luna 4-Piece Teapot and Tea Cup Set](https://mallturk.com/products/kutahya-porselen-bone-luna-4-piece-teapot-and-tea-cup-set-hbc0000fbsv49): The Bone Luna set is inspired by the calm glow of the moon, with balanced forms, rhythmic lines and a butterfly detail. This 4-piece set includes one tea cup, one tea saucer, one teapot and one teapot lid. Dishwasher safe.
-  Updated: 2026-10-19T16:35:38Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: KUTAHYA PORSELEN
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001796146452.jpg?v=1786191467
   Price: $124.42 USD
 - [Karaca Rory Single Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-rory-single-turkish-coffee-cup-set-80-ml-mturkhbc00004vfey0): This original Karaca set combines practical everyday use with an elegant presentation. Material: glass. Capacity: 80 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001078399129.jpg?v=1786356214
   Price: $58.49 USD
-- [Karaca The Little Prince 4-Piece Turkish Coffee Cup and Saucer Set for](https://mallturk.com/products/karaca-the-little-prince-4-piece-turkish-coffee-cup-and-saucer-set-for-2-mturkhbc00000vxywf): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Designed for 2 people. Set includes 4 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+- [Karaca Little Prince Turkish Coffee Cup Set for 2](https://mallturk.com/products/karaca-the-little-prince-4-piece-turkish-coffee-cup-and-saucer-set-for-2-mturkhbc00000vxywf): Karaca The Little Prince porcelain Turkish coffee cup set for 2, 4 pieces with cups and saucers, ideal for gifting. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:54Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000138079490.jpg?v=1786356214
   Price: $60.67 USD
-- [Karaca Plaid 4-Piece Red Porcelain Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-plaid-4-piece-red-porcelain-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00000z0vkk): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 2 people. Set includes 4 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and
-  Updated: 2026-10-19T16:35:39Z
+- [Karaca Plaid Red Porcelain Turkish Coffee Cup Set for 2](https://mallturk.com/products/karaca-plaid-4-piece-red-porcelain-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00000z0vkk): Karaca Plaid red porcelain Turkish coffee cup set for 2, 4 pieces with 80 ml cups. Hand washing recommended. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:52Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001625019613.jpg?v=1786356215
   Price: $60.67 USD
 - [Karaca Lovely Laugh Espresso Cup Set for 4, 100 ml](https://mallturk.com/products/karaca-lovely-laugh-espresso-cup-set-for-4-100-ml-mturkhbc0000373f1k): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 4 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000388034245.jpg?v=1786356218
   Price: $62.22 USD
-- [Karaca Ihlamur Colorful New Bone Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-ihlamur-colorful-new-bone-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00004m07oz): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 80 ml. Designed for 2 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+- [Karaca Ihlamur Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-ihlamur-colorful-new-bone-turkish-coffee-cup-set-for-2-80-ml-mturkhbc00004m07oz): Karaca Ihlamur colorful new bone Turkish coffee cup set for 2 with 80 ml cups, elegant for serving and gifting. Free express shipping worldwide.
+  Updated: 2026-10-31T00:00:51Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000557702189.jpg?v=1786356219
   Price: $62.22 USD
 - [Karaca Aries Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fle2k0): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961866678.jpg?v=1786356220
   Price: $68.44 USD
 - [Karaca Aries Deer Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-aries-deer-turkish-coffee-cup-set-90-ml-mturkhbc0000flowus): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:39Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961829449.jpg?v=1786824666
   Price: $68.44 USD
 - [Karaca Saturn Gold Porcelain Turkish Coffee Cup Set for 2, 100 ml](https://mallturk.com/products/karaca-saturn-gold-porcelain-turkish-coffee-cup-set-for-2-100-ml-mturkhbc00000fsipy): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000576084780.jpg?v=1786356223
   Price: $71.55 USD
 - [Karaca Turkiye Series Turkish Coffee Cup Set 85 ml](https://mallturk.com/products/karaca-turkiye-series-turkish-coffee-cup-set-85-ml-mturkhbc0000fl58r2): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001821012238.jpg?v=1786356224
   Price: $68.44 USD
 - [Karaca Bali Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-bali-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00003zr61q): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000424302791.jpg?v=1786356225
   Price: $74.67 USD
 - [Karaca Nossa Black and White Porcelain Turkish Coffee Cup Set for 6, 8](https://mallturk.com/products/karaca-nossa-black-and-white-porcelain-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000vkzpt): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000094644552.jpg?v=1786356226
   Price: $74.67 USD
 - [Karaca Venus Gold Turkish Coffee Cup Set for 2, 135 ml](https://mallturk.com/products/karaca-venus-gold-turkish-coffee-cup-set-for-2-135-ml-mturkhbc000046y17q): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 135 ml. Designed for 2 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000528105214.jpg?v=1786356227
   Price: $74.67 USD
 - [Karaca Anemon 5-Piece Bone Turkish Coffee Cup Set with Stand for 2, 80](https://mallturk.com/products/karaca-anemon-5-piece-bone-turkish-coffee-cup-set-with-stand-for-2-80-ml-mturkhbc00007cr48e): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 2 people. Set includes 5 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:40Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355594.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Ahenk Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-ahenk-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000e2j517): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001659468487.jpg?v=1786356230
   Price: $71.55 USD
 - [Karaca Streamline Saturn Single Coffee Presentation Set 100 ml](https://mallturk.com/products/karaca-streamline-saturn-single-coffee-presentation-set-100-ml-mturkhbc0000dj48fo): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001816770815.jpg?v=1786356230
   Price: $74.67 USD
 - [Karaca Peacock 4-Piece Patterned Porcelain Turkish Coffee Cup Set for](https://mallturk.com/products/karaca-peacock-4-piece-patterned-porcelain-turkish-coffee-cup-set-for-2-90-ml-mturkhbc000068j10i): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Set includes 4 pieces. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001076003796.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca x Galatasaray Licensed Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-x-galatasaray-licensed-turkish-coffee-cup-set-for-6-80-ml-mturkhbcv0000fk80tg): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001818570458.jpg?v=1786356233
   Price: $80.89 USD
 - [Karaca Iznik Series Fish Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-iznik-series-fish-turkish-coffee-cup-set-90-ml-mturkhbc0000fg8mw1): This original Karaca set combines practical everyday use with an elegant presentation. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001807118657.jpg?v=1786356234
   Price: $74.67 USD
 - [Karaca Solenne Cream Turkish Coffee Cup Set for 2, 80 ml](https://mallturk.com/products/karaca-solenne-cream-turkish-coffee-cup-set-for-2-80-ml-mturkhbc0000ffc5lj): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001804825012.jpg?v=1786356235
   Price: $74.67 USD
 - [Karaca Deep Red Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-deep-red-striped-turkish-coffee-cup-set-90-ml-mturkhbcv0000g12gzl): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:41Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001861067922.jpg?v=1786356237
   Price: $77.78 USD
 - [Karaca Flowerful Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-flowerful-turkish-coffee-cup-set-for-6-80-ml-mturkhbc0000gzthje): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001961635061.jpg?v=1786356237
   Price: $77.75 USD
 - [Karaca King and Queen Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-king-and-queen-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000gdpw74): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001889688557.jpg?v=1786356238
   Price: $77.78 USD
 - [Karaca Cherry Time Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-cherry-time-striped-turkish-coffee-cup-set-90-ml-mturkhbc0000fn9gf1): This original Karaca set combines practical everyday use with an elegant presentation. Material: new bone. Capacity: 90 ml. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001826984268.jpg?v=1786356241
   Price: $68.78 USD
 - [Karaca Jungle Turkish Coffee Cup Set for 6, 80 ml](https://mallturk.com/products/karaca-jungle-turkish-coffee-cup-set-for-6-80-ml-mturkhbc00000e1pa8): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Designed for 6 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001443646760.jpg?v=1786356242
   Price: $77.47 USD
 - [Karaca Art Deco 2-Piece Porcelain Turkish Coffee Cup Set 80 ml](https://mallturk.com/products/karaca-art-deco-2-piece-porcelain-turkish-coffee-cup-set-80-ml-mturkhb00000uwzcn): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 80 ml. Set includes 2 pieces. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001067980379.jpg?v=1786356242
   Price: $80.89 USD
 - [Karaca 50th Anniversary Signature Collection Korea Turkish Coffee Cup](https://mallturk.com/products/karaca-50th-anniversary-signature-collection-korea-turkish-coffee-cup-set-for-2-100-ml-mturkhbc0000empbwl): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 100 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:42Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001858915695.jpg?v=1786356243
   Price: $77.78 USD
 - [Karaca Swan Porcelain Turkish Coffee Cup Set for 2, 70 ml](https://mallturk.com/products/karaca-swan-porcelain-turkish-coffee-cup-set-for-2-70-ml-mturkhbc000000ywwb): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 70 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:43Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001137355690.jpg?v=1786356247
   Price: $77.78 USD
 - [Karaca Boyoz Turkish Coffee Cup Set for 6, 85 ml](https://mallturk.com/products/karaca-boyoz-turkish-coffee-cup-set-for-6-85-ml-mturkhbc00004jgpe6): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 85 ml. Designed for 6 people. A stylish choice for serving coffee or tea at home and for gifting.
-  Updated: 2026-10-19T16:35:43Z
+  Updated: 2026-10-30T18:27:17Z
   Vendor: Karaca
   Product Type: Turkish Coffee Cup Set
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110000965343662.jpg?v=1786356245
   Price: $77.78 USD
-[List Continued](https://mallturk.com/a/llms-agent/llms.txt?shop=ur75zc-yy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTA2NDE0NjIwNzI0LCJsYXN0X3ZhbHVlIjoiODkwNjQxNDYyMDcyNCJ9)
+- [Karaca Deep Blue Striped Turkish Coffee Cup Set 90 ml](https://mallturk.com/products/karaca-deep-blue-striped-turkish-coffee-cup-set-90-ml-mturkhbcv0000g12gzu): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. A stylish choice for serving coffee or tea at home and for gifting.
+  Updated: 2026-10-30T18:27:17Z
+  Vendor: Karaca
+  Product Type: Turkish Coffee Cup Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001861067946.jpg?v=1786356248
+  Price: $77.78 USD
+- [Karaca Red Rose Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-red-rose-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000g4qy60): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
+  Updated: 2026-10-30T18:27:17Z
+  Vendor: Karaca
+  Product Type: Turkish Coffee Cup Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001868876413.jpg?v=1786356248
+  Price: $77.78 USD
+- [Karaca Giraffe Pattern Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-giraffe-pattern-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000gopkr2): This original Karaca set combines practical everyday use with an elegant presentation. Material: porcelain. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
+  Updated: 2026-10-30T18:27:17Z
+  Vendor: Karaca
+  Product Type: Turkish Coffee Cup Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001920397505.jpg?v=1786356249
+  Price: $80.89 USD
+- [Karaca Faberge Egg Turkish Coffee Cup Set for 2, 90 ml](https://mallturk.com/products/karaca-faberge-egg-turkish-coffee-cup-set-for-2-90-ml-mturkhbc0000azgdnr): This original Karaca set combines practical everyday use with an elegant presentation. Material: bone china. Capacity: 90 ml. Designed for 2 people. Hand washing is recommended to preserve the finish and decorative details. A stylish choice for serving coffee or tea at home and for gifting.
+  Updated: 2026-10-30T18:27:17Z
+  Vendor: Karaca
+  Product Type: Turkish Coffee Cup Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0750/7637/0484/files/110001306721368.jpg?v=1786356252
+  Price: $80.89 USD
+[List Continued](https://mallturk.com/a/llms-agent/llms.txt?shop=ur75zc-yy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTA2NDE0NzUxNzk2LCJsYXN0X3ZhbHVlIjoiODkwNjQxNDc1MTc5NiJ9)
 
 ## Collections
 
@@ -2222,8 +2200,8 @@
   Updated: 2026-10-23T12:13:08Z
   Total Products: 27
 - [Turkish Coffee Machines](https://mallturk.com/collections/turkish-coffee-machines): Shop electric Turkish coffee machines from Turkey's leading brands. Rich, foamy coffee at the touch of a button. Free express shipping worldwide.
-  Updated: 2026-10-29T13:22:23Z
-  Total Products: 83
+  Updated: 2026-11-06T12:12:52Z
+  Total Products: 89
 - [Cookware](https://mallturk.com/collections/cookware): Explore Cookware at MALLTURK. Discover practical and stylish options for everyday cooking and meal preparation.
   Updated: 2026-10-23T12:13:09Z
   Total Products: 596
@@ -2237,7 +2215,7 @@
   Updated: 2026-10-23T12:13:09Z
   Total Products: 29
 - [Ground Coffee](https://mallturk.com/collections/ground-coffee): Authentic Turkish Coffee – Every Type, One Store, Great Prices From classic finely ground Turkish coffee to rare traditional blends, Mallturk brings you one of the widest selections of authentic Turkish coffee online, all at affordable prices. Discover classic Turkish coffee, dibek coffee, menengiç (terebinth) coffee, Ottoman coffee, and flavored blends such as mastic, cardamom and more. Whether you're a Turkish coffee lover, a café owner, or looking for a unique gift, you'll find your favorite here. Complete your ritual with traditional cezves, Turkish coffee machines and coffee cup sets. Why buy from Mallturk:- Wide variety of authentic Turkish coffee from popular Turkish brands- Affordable prices for retail and wholesale orders- Shipped in original sealed packaging- Free worldwide express shipping on every order- All taxes and duties included for the US and EU – no surprise fees on delivery- Ready to ship within 3 business days, delivered in about 5 business days
-  Updated: 2026-10-28T11:12:00Z
+  Updated: 2026-11-04T12:12:06Z
   Total Products: 979
 - [Turkish Mosaic Wall Lamps](https://mallturk.com/collections/mosaic-wall-lamp): Explore handmade Turkish mosaic wall sconces at MALLTURK. Discover premium wall lighting with special designs, traditional craftsmanship, and elegant style.
   Updated: 2026-10-23T12:13:09Z
@@ -2246,11 +2224,11 @@
   Updated: 2026-10-23T12:13:09Z
   Total Products: 74
 - [Turkish Delight](https://mallturk.com/collections/turkish-delight): Shop authentic Turkish delight (lokum) with pistachio, rose, hazelnut and more flavors. Fresh from Turkey with free express shipping worldwide.
-  Updated: 2026-10-23T12:13:09Z
+  Updated: 2026-11-01T12:12:40Z
   Total Products: 1795
 - [Tea](https://mallturk.com/collections/tea-1): Shop Turkish tea made in Turkey, from classic black tea to herbal and fruit blends. Free express shipping worldwide.
-  Updated: 2026-10-27T14:13:37Z
-  Total Products: 1353
+  Updated: 2026-10-31T10:28:34Z
+  Total Products: 1359
 - [Bathrobe Sets](https://mallturk.com/collections/bathrobe-sets): Shop soft Turkish cotton bathrobe sets made in Turkey. Absorbent, luxurious and perfect as a gift. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:09Z
   Total Products: 136
@@ -2399,7 +2377,7 @@
   Updated: 2026-10-23T12:13:13Z
   Total Products: 19
 - [Herbal & Fruit Tea](https://mallturk.com/collections/herbal-fruit-tea): Shop herbal tea and fruit tea made in Turkey, flavourful infusions to enjoy hot or cold. Free express shipping worldwide.
-  Updated: 2026-10-27T14:13:37Z
+  Updated: 2026-11-06T12:12:52Z
   Total Products: 1912
 - [Leather Bags](https://mallturk.com/collections/leather-bags): Explore Leather Bags at MALLTURK. Discover stylish and practical designs for everyday use and different occasions.
   Updated: 2026-10-23T12:13:13Z
@@ -2429,7 +2407,7 @@
   Updated: 2026-10-23T12:13:14Z
   Total Products: 17
 - [Hafiz Mustafa 1864 Products](https://mallturk.com/collections/hafiz-mustafa): Explore Hafiz Mustafa 1864 products at MallTurk. Discover traditional Turkish sweets, delicacies, gift options, and authentic flavors for every occasion.
-  Updated: 2026-10-23T12:13:14Z
+  Updated: 2026-11-06T12:12:52Z
   Total Products: 69
 - [Boys' Swimwear](https://mallturk.com/collections/boys-swimwear): Shop boys' swimwear and swim shorts made in Turkey. Comfortable, quick-drying styles for the beach and pool. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:14Z
@@ -2441,11 +2419,11 @@
   Updated: 2026-10-23T12:13:14Z
   Total Products: 0
 - [Stainless Steel Tea Urns](https://mallturk.com/collections/stainless-steel-tea-urns): Shop stainless steel tea urn models made in Turkey, ideal for serving tea at home, events and businesses. Free express shipping worldwide.
-  Updated: 2026-10-29T13:12:53Z
+  Updated: 2026-11-06T10:51:41Z
   Total Products: 15
 - [Traditional coffee and tea](https://mallturk.com/collections/traditional-coffee-and-tea): Discover authentic Turkish coffee and tea essentials, shipped directly from Turkey. Bring a true taste of Turkish hospitality home. Free express shipping.
-  Updated: 2026-10-29T13:12:53Z
-  Total Products: 19
+  Updated: 2026-11-06T10:51:41Z
+  Total Products: 15
 - [Women's Pants](https://mallturk.com/collections/womens-pants): Shop women's pants made in Turkey: wide-leg, straight, high-waisted and more styles for work and everyday. Free express shipping worldwide.
   Updated: 2026-10-23T12:13:14Z
   Total Products: 386
@@ -2510,11 +2488,11 @@
   Updated: 2026-10-23T20:03:20Z
   Total Products: 141
 - [Women's Casual Shoes](https://mallturk.com/collections/womens-flat-shoes): Shop women's casual shoes made in Turkey, comfortable everyday styles for work, errands and weekends. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:22Z
-  Total Products: 289
+  Updated: 2026-10-31T09:55:44Z
+  Total Products: 292
 - [Men's Sports Shoes](https://mallturk.com/collections/mens-sports-shoes): Shop men's sports shoes made in Turkey, comfortable trainers for the gym, walking and active days. Free express shipping worldwide.
-  Updated: 2026-10-23T20:03:23Z
-  Total Products: 98
+  Updated: 2026-10-31T09:55:44Z
+  Total Products: 95
 - [Men's Casual Shoes](https://mallturk.com/collections/mens-flat-shoes): Shop men's casual shoes made in Turkey, comfortable loafers and everyday styles for work and weekends. Free express shipping worldwide.
   Updated: 2026-10-23T20:03:24Z
   Total Products: 618
@@ -2666,7 +2644,7 @@
   Updated: 2026-10-23T20:04:34Z
   Total Products: 10
 - [Women's Beach Bags](https://mallturk.com/collections/womens-beach-bags): Shop women's beach bags made in Turkey: roomy summer totes for the beach, pool and holidays. Free express shipping worldwide.
-  Updated: 2026-10-29T07:31:01Z
+  Updated: 2026-10-30T10:00:11Z
   Total Products: 5
 - [Women's Beanies](https://mallturk.com/collections/womens-beanies): Shop women's beanies made in Turkey, cosy knit hats to keep you warm and stylish all winter. Free express shipping worldwide.
   Updated: 2026-10-23T20:04:35Z
@@ -2699,7 +2677,7 @@
   Updated: 2026-10-23T20:04:48Z
   Total Products: 108
 - [Women's Clutch Bag](https://mallturk.com/collections/womens-clutch-bag): Shop women's clutch bags made in Turkey: elegant evening and party clutches for weddings and special nights. Free express shipping worldwide.
-  Updated: 2026-10-29T07:32:43Z
+  Updated: 2026-10-30T10:00:14Z
   Total Products: 4
 - [Women's Coats](https://mallturk.com/collections/womens-coats): Shop women's coats made in Turkey, elegant and warm outerwear for work, weekends and winter. Free express shipping worldwide.
   Updated: 2026-10-23T20:04:50Z
@@ -2753,10 +2731,10 @@
   Updated: 2026-10-23T20:05:12Z
   Total Products: 122
 - [Women's Shoulder Bags](https://mallturk.com/collections/womens-shoulder-bags): Shop women's shoulder bags made in Turkey: comfortable, stylish bags for work, travel and daily use. Free express shipping worldwide.
-  Updated: 2026-10-29T07:34:10Z
+  Updated: 2026-10-30T10:00:15Z
   Total Products: 2
 - [Women's Sports Leggings](https://mallturk.com/collections/womens-sports-leggings): Shop women's sports leggings made in Turkey for gym, yoga, running and everyday wear. Comfortable fits with free express shipping worldwide.
-  Updated: 2026-10-29T07:35:57Z
+  Updated: 2026-10-30T10:00:17Z
   Total Products: 2
 - [Women's Sweater Vests](https://mallturk.com/collections/womens-sweater-vests): Shop women's sweater vests made in Turkey, stylish knit layers to wear over shirts and blouses. Free express shipping worldwide.
   Updated: 2026-10-23T20:05:14Z
@@ -2810,7 +2788,7 @@
   Updated: 2026-10-23T20:05:36Z
   Total Products: 20
 - [Women's Sports Corsets](https://mallturk.com/collections/womens-sports-corsets): Shop women's sports corsets made in Turkey for training, yoga and active days. Supportive, stylish fits with free express shipping worldwide.
-  Updated: 2026-10-29T07:39:55Z
+  Updated: 2026-10-30T10:00:19Z
   Total Products: 14
 - [Men's Boxer Shorts](https://mallturk.com/collections/mens-boxer-shorts): Shop men's boxer shorts made in Turkey, comfortable everyday underwear in classic and printed styles. Free express shipping worldwide.
   Updated: 2026-10-23T20:05:37Z
@@ -2873,11 +2851,95 @@
   Updated: 2026-10-23T20:06:03Z
   Total Products: 55
 - [Double Bedspreads](https://mallturk.com/collections/double-bedspreads): Shop double bedspreads made in Turkey, decorative bed covers to finish your bedroom in style. Free express shipping worldwide.
-  Updated: 2026-10-23T20:06:04Z
-  Total Products: 135
+  Updated: 2026-10-31T17:39:33Z
+  Total Products: 136
 - [Bedding Sets](https://mallturk.com/collections/bridal-bedding-sets): Shop bedding sets made in Turkey, coordinated bedding for a beautiful bedroom or a special gift. Free express shipping worldwide.
   Updated: 2026-10-23T20:06:06Z
   Total Products: 16
+- [Bathrobes](https://mallturk.com/collections/bathrobes): Shop turkish bathrobes, soft and comfortable for after the bath or shower, in a range of styles and sizes. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:34Z
+  Total Products: 1
+- [Double Duvet Cover](https://mallturk.com/collections/double-duvet-cover): Shop a double duvet cover in a range of colors and patterns to refresh your bedroom, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:56Z
+  Total Products: 2
+- [Double Sheet Sets](https://mallturk.com/collections/double-sheet-sets): Shop double sheet sets in a range of colors and patterns to refresh your bed, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:47Z
+  Total Products: 4
+- [Havlu](https://mallturk.com/collections/havlu): Browse turkish towels (havlu) for bath, hand and everyday use, soft and absorbent and made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:14Z
+  Total Products: 2
+- [Kids' Towel](https://mallturk.com/collections/kids-towel): Shop kids towels for bath time, the pool and the beach, soft and practical and made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:21Z
+  Total Products: 2
+- [King Size Coverlet Set](https://mallturk.com/collections/king-size-coverlet-set): Shop a king size coverlet set to finish your bed with a neat, layered look, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:59Z
+  Total Products: 1
+- [Mattress Protectors](https://mallturk.com/collections/mattress-protectors-1): Shop mattress protectors that help keep your mattress clean and fresh, made in Turkey in a range of sizes. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:18Z
+  Total Products: 1
+- [Peshtemals](https://mallturk.com/collections/peshtemals): Shop turkish peshtemal towels for the beach, bath, gym and travel. Light, quick-drying and made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:11Z
+  Total Products: 2
+- [Pillowcases](https://mallturk.com/collections/pillowcases): Shop pillowcases in a range of colors and styles to refresh your bed, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:23Z
+  Total Products: 1
+- [Refurbished Smartphones](https://mallturk.com/collections/refurbished-smartphones): Shop refurbished smartphones at MallTurk and get a capable phone for less. Check each listing for model and condition. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:50Z
+  Total Products: 0
+- [Single Beadspreads & Beadspread Sets](https://mallturk.com/collections/single-beadspreads-beadspread-sets): Shop single bedspreads and single bedspread sets for bedrooms, guest rooms and kids' rooms, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:49:02Z
+  Total Products: 1
+- [Single Duvet Cover](https://mallturk.com/collections/single-duvet-cover): Find a single duvet cover in a range of colors and patterns for your bed or a kids' room, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:53Z
+  Total Products: 1
+- [Single Sheet Sets](https://mallturk.com/collections/single-sheet-sets): Shop single sheet sets in a range of colors and patterns for single beds and kids' rooms, made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:49:05Z
+  Total Products: 1
+- [Towel](https://mallturk.com/collections/towel): Find the right turkish towel for bath, hand, beach or kitchen use, soft and absorbent and made in Turkey. Free express shipping worldwide.
+  Updated: 2026-10-31T23:48:30Z
+  Total Products: 1530
+- [Women's Bathrobes](https://mallturk.com/collections/womens-bathrobes): Shop women's bathrobes, soft and cozy for after the bath or shower, in a range of styles and sizes. Free express shipping worldwide.
+  Updated: 2026-10-31T23:49:08Z
+  Total Products: 2
+- [Bathroom Organizer](https://mallturk.com/collections/bathroom-organizer): Shop our bathroom organizer collection made in Turkey to keep toiletries and essentials neat and tidy. Free express shipping worldwide.
+  Updated: 2026-11-03T23:50:12Z
+  Total Products: 2
+- [Bathroom Sets](https://mallturk.com/collections/bathroom-sets): Browse bathroom sets made in Turkey to give your bath a coordinated, stylish look. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:05Z
+  Total Products: 4
+- [Bowl](https://mallturk.com/collections/bowl): Shop bowls made in Turkey for serving salads, snacks, desserts and more, or for decorating your table. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:08Z
+  Total Products: 5
+- [Candlestick & Candle Holder](https://mallturk.com/collections/candlestick-candle-holder): Shop candle holders and candlesticks made in Turkey to create a warm, cozy glow in any room. Free express shipping worldwide.
+  Updated: 2026-11-03T23:50:09Z
+  Total Products: 23
+- [Chalice](https://mallturk.com/collections/chalice): Discover our chalice collection made in Turkey, elegant goblets for special occasions, gifting and display. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:09Z
+  Total Products: 12
+- [Coasters](https://mallturk.com/collections/coasters): Shop decorative coasters made in Turkey to protect your tables in style while serving tea, coffee and drinks. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:07Z
+  Total Products: 6
+- [Coffee Pot](https://mallturk.com/collections/coffee-pot): Shop our Turkish coffee pot collection, made in Turkey for brewing rich, foamy coffee the traditional way. Free express shipping worldwide.
+  Updated: 2026-11-03T23:47:32Z
+  Total Products: 46
+- [Decorative Objects & Ornaments](https://mallturk.com/collections/decorative-objects-ornaments): Shop decorative objects and ornaments made in Turkey to add character and charm to your home. Free express shipping worldwide.
+  Updated: 2026-11-03T23:50:13Z
+  Total Products: 10
+- [Drinking Glasses](https://mallturk.com/collections/drinking-glasses): Shop drinking glasses made in Turkey for water, juice, tea and cold drinks, from everyday use to entertaining. Free express shipping worldwide.
+  Updated: 2026-11-03T23:50:10Z
+  Total Products: 77
+- [Flatware Sets](https://mallturk.com/collections/flatware-sets): Shop flatware sets made in Turkey, with forks, knives and spoons for everyday dining and special occasions. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:47Z
+  Total Products: 1
+- [Flower Pot](https://mallturk.com/collections/flower-pot): Shop flower pots made in Turkey to brighten your home, balcony or garden with plants and flowers. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:15Z
+  Total Products: 15
+- [Ice Bucket](https://mallturk.com/collections/ice-bucket): Shop our ice bucket collection made in Turkey to keep drinks chilled at parties, dinners and celebrations. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:56Z
+  Total Products: 6
+- [Ice Trays](https://mallturk.com/collections/ice-trays): Shop ice trays made in Turkey for making ice cubes for cold drinks, cocktails and summer gatherings. Free express shipping worldwide.
+  Updated: 2026-11-03T23:48:51Z
+  Total Products: 2
 
 ## Blogs
 
@@ -2981,7 +3043,7 @@
 ## Policies
 
 - [Privacy Policy](https://mallturk.com/policies/privacy-policy)
-  Updated: 2026-07-14T09:59:36Z
+  Updated: 2026-10-31T19:54:16Z
 - [Shipping Policy](https://mallturk.com/policies/shipping-policy)
   Updated: 2026-09-16T14:37:37Z
 - [Refund Policy](https://mallturk.com/policies/refund-policy)
