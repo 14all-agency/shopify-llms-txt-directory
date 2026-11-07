@@ -6,7 +6,7 @@
 - Timezone: Europe/Warsaw
 - Created At: 2024-10-28T22:50:21Z
 - Contact Email: contact@spinex.digital
-- Updated At: 2026-10-31T00:17:41.255Z
+- Updated At: 2026-11-07T00:18:08.363Z
 
 SpineX is an educational platform specializing in personalized, fitness-based scoliosis training. The SpineX™ 3D Scoliosis Method combines unilateral strength training, 3D de-rotation principles, individualized assessment, and progressive exercise programming to help teenagers and adults manage scoliosis through evidence-informed, non-surgical exercise.
 
@@ -385,6 +385,10 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Updated: 2026-10-29T22:27:57Z
     Author: Kamil, founder of SpineX
     Tags: Exercise videos, Online coaching, SpineX Method, Technique feedback, Teen scoliosis
+  - [Online Scoliosis Coaching vs Physiotherapy: Parent Guide](https://spinex.digital/blogs/news/online-scoliosis-fitness-coaching-vs-physiotherapy): Online Scoliosis Coaching vs Physiotherapy: Parent Guide
+    Updated: 2026-11-02T11:15:12Z
+    Author: Kamil, founder of SpineX
+    Tags: Individualized training, Online scoliosis coaching, Parent guide, Physiotherapy, Service comparison
 
 ## Store Pages
 
@@ -638,6 +642,12 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
   Updated: 2026-10-28T13:24:38Z
 - [Bilateral Lat Pulldown with Resistance Band](https://spinex.digital/pages/bilateral-lat-pulldown-with-resistance-band)
   Updated: 2026-10-28T16:35:56Z
+- [Free Spinal Surgery Strength Guide](https://spinex.digital/pages/free-spinal-surgery-strength-guide)
+  Updated: 2026-10-31T15:45:20Z
+- [Glute Kick Back with Cable](https://spinex.digital/pages/glute-kick-back-with-cable)
+  Updated: 2026-11-01T14:15:48Z
+- [Unilateral Trap Shrugs](https://spinex.digital/pages/unilateral-trap-shrugs)
+  Updated: 2026-11-02T15:56:57Z
 
 ## Policies
 
