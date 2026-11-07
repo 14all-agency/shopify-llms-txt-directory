@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-06-20T19:52:53Z
 - Contact Email: saamragi.business@gmail.com
-- Updated At: 2026-10-31T00:18:32.375Z
+- Updated At: 2026-11-07T00:23:30.847Z
 
 ## Products
 
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/KaamyaTissueSilkSareeInPurple5.png?v=1785324086
   Price: ₹1,399.00 INR
 - [Chandramukhir Sahaj Path Khadi Cotton Saree In Black White](https://www.saamragi.in/products/chandramukhir-sahaj-path-saree-black-white): Chandramukhir Sahaj Path Khadi Cotton Saree In Black White is a meaningful handcrafted saree from Saamragi, inspired by Bengal’s literary and cultural heritage.Made from soft breathable khadi cotton, this saree features block print and applique work based on the concept of Sahaj Path. The black and white palette gives it a timeless, artistic look that feels elegant for both everyday styling and special cultural occasions. Fabric: Soft breathable khadi cotton Colour: Black and white Design: Sahaj Path inspired block print and applique work Occasion: Everyday wear, office wear, cultural events, festive gatherings and occasion wear Includes: 1 saree Style Note: Pair with silver jewellery, black bindi and a classic blouse for a sophisticated Bengal-inspired look. Care: Gentle hand wash or dry clean recommended. This Saamragi khadi cotton saree is perfect for women who love wearable stories, handcrafted details and timeless Indian elegance.
-  Updated: 2026-09-09T11:24:00Z
+  Updated: 2026-11-04T06:46:57Z
   Vendor: Saamragi
   Product Type: Saree
   Availability: Available
@@ -431,14 +431,14 @@
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/ChatGPTImageAug8_2026_10_40_33PM.png?v=1786236721
   Price: ₹1,299.00 INR
 - [MAYURI Tissue Silk Saree](https://www.saamragi.in/products/mayuri-tissue-silk-saree): MAYURI Tissue Silk is a graceful occasion wear saree from Saamragi, crafted for women who love vibrant colour, subtle shine and a structured festive drape. The handmade tissue silk fabric has a flowy texture that gives the saree a smooth shape and premium appearance. Its stunning multicolor palette brings a joyful festive mood, making it suitable for parties, wedding functions, evening events and special celebrations. Fabric: Handmade tissue silk Colour: Multicolor Texture: Flowy, smooth, soft and elegant Occasion: Party wear, festive wear, wedding events and evening occasions Includes: 1 saree Style Note: Pair with kundan, pearl or gold-toned jewellery for a polished festive look. Care: Dry clean recommended to maintain the shine and texture of the fabric. This Saamragi tissue silk saree is ideal for a confident, elegant and celebration-ready ethnic look.
-  Updated: 2026-10-22T18:00:56Z
+  Updated: 2026-11-04T03:17:07Z
   Vendor: Saamragi Store
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/ChatGPTImageAug25_2026_09_50_59PM.png?v=1787675828
   Price: ₹1,399.00 INR
 - [Cutdana Jamdani Saree (Peach)](https://www.saamragi.in/products/cutdana-jamdani-saree-peach): Peach Pink Cutdana Cotton Jamdani Saree Make a graceful statement with this elegant pastel pink saree, crafted for celebrations, festive occasions, and special gatherings. The delicate fabric is beautifully adorned with intricate golden embroidery, shimmering sequin work, and geometric motifs, creating a soft yet luxurious look. The saree features a richly embellished border with traditional detailing and a coordinated blouse with statement puff sleeves, making the ensemble effortlessly sophisticated. Pair it with gold jewellery for a classic festive look or keep the accessories minimal for a contemporary aesthetic. Product Highlights: 🌸 Elegant pastel peach pink shade ✨ Intricate gold embroidery & sequin detailing 💎 Geometric embellished motifs 🌿 Delicate, lightweight fabric with a graceful drape 👗 Matching embellished blouse piece 💛 Rich decorative border 🪷 Perfect for festive occasions, weddings, parties & celebrations Style Tip: Pair with statement gold jewellery and a matching potli for a complete traditional look.
-  Updated: 2026-10-09T17:23:17Z
+  Updated: 2026-11-05T14:11:17Z
   Vendor: Saamragi Store
   Product Type: Saree
   Availability: Available
@@ -472,6 +472,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/ChatGPTImageSep30_2026_12_30_27AM.png?v=1790708739
   Price: ₹1,799.00 INR
+- [Gift Hamper Box](https://www.saamragi.in/products/gift-hamper-box): A dedicated special gifting box for you and your loved one. Make this diwali a time to remember.
+  Updated: 2026-11-04T03:57:56Z
+  Vendor: Saamragi Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0844/2032/9722/files/WhatsAppImage2026-11-03at21.20.45.jpg?v=1793721282
+  Price: ₹199.00 INR
 
 ## Collections
 
@@ -479,16 +486,16 @@
   Updated: 2026-09-17T06:36:28Z
   Total Products: 13
 - [Sarees](https://www.saamragi.in/collections/sarees): Explore Saamragi sarees crafted for everyday elegance, festive dressing and special occasions. Discover mul cotton, khadi cotton, tissue silk, muslin, organza, South cotton and handloom-inspired sarees.Before you order: Check the product images, fabric notes, drape style and care details on each saree page. For styling help or product questions, contact Saamragi at saamragi.business@gmail.com.
-  Updated: 2026-10-09T11:25:43Z
+  Updated: 2026-11-04T12:23:15Z
   Total Products: 44
 - [Jewellery](https://www.saamragi.in/collections/jewellery): Discover Saamragi jewellery crafted for sarees, festive dressing and cultural occasions. Explore gold-toned necklaces, chokers, earrings, mangalsutras and statement ethnic pieces.Before you order: Check product photos and details on each product page. For help choosing the right piece, contact Saamragi at saamragi.business@gmail.com.
   Updated: 2026-09-09T10:26:17Z
   Total Products: 34
 - [Best Sellers](https://www.saamragi.in/collections/best-sellers)
-  Updated: 2026-09-17T06:36:28Z
+  Updated: 2026-11-04T12:23:15Z
   Total Products: 59
 - [Khadi Cotton Sarees](https://www.saamragi.in/collections/khadi-cotton): Shop Saamragi khadi cotton sarees inspired by Bengal handloom heritage. Comfortable, rooted and elegant for everyday ethnic wear, cultural events and festive styling.
-  Updated: 2026-09-29T20:15:46Z
+  Updated: 2026-11-04T12:23:15Z
   Total Products: 11
 - [Mul Cotton Sarees](https://www.saamragi.in/collections/mul-cotton): Shop breathable Saamragi mul cotton sarees made for effortless draping, everyday comfort, brunch looks, creative workwear and relaxed festive styling.
   Updated: 2026-09-29T20:15:46Z
@@ -500,7 +507,7 @@
   Updated: 2026-06-27T03:16:54Z
   Total Products: 0
 - [Everyday Wear](https://www.saamragi.in/collections/occasion-everyday)
-  Updated: 2026-09-09T11:27:08Z
+  Updated: 2026-11-04T12:23:15Z
   Total Products: 25
 - [Occasion Wear](https://www.saamragi.in/collections/occasion-occasion): Shop Saamragi occasion wear curated for weddings, festive celebrations, parties, cultural events and special gatherings. Explore elegant tissue silk sarees, muslin sarees, premium occasion sarees and statement ethnic jewellery.
   Updated: 2026-10-03T11:25:05Z
@@ -512,7 +519,7 @@
   Updated: 2026-07-11T08:24:26Z
   Total Products: 0
 - [Cutdana Jamdani](https://www.saamragi.in/collections/cutdana-jamdani)
-  Updated: 2026-10-09T11:25:43Z
+  Updated: 2026-11-02T12:21:15Z
   Total Products: 1
 
 ## Store Pages
@@ -553,7 +560,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.saamragi.in/policies/privacy-policy)
-  Updated: 2026-06-20T19:52:58Z
+  Updated: 2026-10-31T15:14:27Z
 
 ## Optional
 
