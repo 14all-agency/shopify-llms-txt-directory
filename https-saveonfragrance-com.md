@@ -6,7 +6,7 @@
 - Timezone: Europe/Madrid
 - Created At: 2025-12-16T15:20:48Z
 - Contact Email: info@saveonfragrance.com
-- Updated At: 2026-10-30T01:04:06.675Z
+- Updated At: 2026-11-07T01:03:59.897Z
 
 ## Products
 
@@ -942,7 +942,7 @@
 ## Policies
 
 - [Privacy Policy](https://saveonfragrance.com/policies/privacy-policy)
-  Updated: 2026-09-03T08:16:50Z
+  Updated: 2026-11-03T13:03:03Z
 - [Shipping Policy](https://saveonfragrance.com/policies/shipping-policy)
   Updated: 2026-09-03T08:47:14Z
 - [Refund Policy](https://saveonfragrance.com/policies/refund-policy)
