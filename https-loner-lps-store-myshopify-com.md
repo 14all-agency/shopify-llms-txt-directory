@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2026-09-09T16:58:43Z
 - Contact Email: mzair415@gmail.com
-- Updated At: 2026-10-30T01:01:38.073Z
+- Updated At: 2026-11-07T00:57:08.849Z
 
 ## Products
 
 - [Sy RED BLACK | T-Shirt Streetwear Premium – SISYPHE](https://loner-lps-store.myshopify.com/products/sy-black-red): T-shirt streetwear premium noir & rouge, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
-  Updated: 2026-10-25T12:07:04Z
+  Updated: 2026-11-06T06:57:17Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Available
     Price: 39,99 € EUR
 - [Sy ORANGE BLACK | T-Shirt Streetwear Premium – SISYPHE](https://loner-lps-store.myshopify.com/products/ls-black-orange): T-shirt streetwear premium orange & noir, 100% polyester 220g. Logo Loup au dos. Coupe slim, du XS au XL. Livraison internationale.
-  Updated: 2026-10-25T12:07:05Z
+  Updated: 2026-11-06T06:57:20Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -52,15 +52,15 @@
   - [XS](https://loner-lps-store.myshopify.com/products/ls-black-orange?variant=59918205124953)
     Availability: Available
     Price: 19,99 € EUR
-- [Sy Cap BLACK | Casquette Streetwear Premium – Loup Solitaire](https://loner-lps-store.myshopify.com/products/lps-cap-black): Casquette streetwear premium noire, 100% polyester, logo LS brodé. Style dark luxury par Loup Solitaire. Taille unique ajustable. Livraison internationale.
-  Updated: 2026-10-25T12:07:05Z
+- [Casquette noire ajustable en polyester Sy Cap Black](https://loner-lps-store.myshopify.com/products/lps-cap-black): Casquette streetwear premium noire, 100% polyester, logo LS brodé. Style dark luxury par Loup Solitaire. Taille unique ajustable. Livraison internationale.
+  Updated: 2026-11-06T06:57:21Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1080/7784/2777/files/rn-image_picker_lib_temp_ef6fdeed-b490-4080-874c-dda3ba989e1c.png?v=1791833445
   Price: 29,99 € EUR
-- [Sy Dark — Tee Oversized Noir SISYPHE](https://loner-lps-store.myshopify.com/products/sy-dark): Le Sy Dark est le tee le plus épuré de SISYPHE. Coupe oversized, coton lourd, logo loup discret. Streetwear sombre et premium. Livraison rapide.
-  Updated: 2026-10-26T08:08:06Z
+- [Ensemble hoodie et jogging noir oversize Sy Dark](https://loner-lps-store.myshopify.com/products/sy-dark): Le Sy Dark est le tee le plus épuré de SISYPHE. Coupe oversized, coton lourd, logo loup discret. Streetwear sombre et premium. Livraison rapide.
+  Updated: 2026-11-06T21:55:27Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Available
     Price: 49,99 € EUR
 - [Sisyphe Alpha | Tee Oversize Noir – SISYPHE](https://loner-lps-store.myshopify.com/products/sisyphe-alpha): Tee-shirt oversize noir Sisyphe Alpha, logo loup sur la poitrine et grand visuel dans le dos. Streetwear premium, du XS au XL.
-  Updated: 2026-10-25T12:07:05Z
+  Updated: 2026-11-06T06:57:37Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -102,7 +102,7 @@
     Availability: Available
     Price: 49,99 € EUR
 - [Bonnet Sisyphe | Bonnet Noir Streetwear – Loup Brodé](https://loner-lps-store.myshopify.com/products/bonnet-sisyphe): Bonnet streetwear noir 100% acrylique, logo loup brodé gris et orange. Chaud, confortable et résistant. Le style sans limites par SISYPHE.
-  Updated: 2026-10-27T00:58:03Z
+  Updated: 2026-11-06T06:57:40Z
   Vendor: Sisyphe
   Product Type: 
   Availability: Available
@@ -112,22 +112,22 @@
 ## Collections
 
 - [Page d’accueil](https://loner-lps-store.myshopify.com/collections/frontpage)
-  Updated: 2026-10-25T14:17:57Z
+  Updated: 2026-11-05T18:57:13Z
   Total Products: 1
 - [T-shirts Flocage](https://loner-lps-store.myshopify.com/collections/t-shirts-flocage): 🎨 Collection exclusive LOUP SOLITAIRET-shirts technique avec possibilité de flocage personnalisé (nom, numéro, texte custom).Personnalisation disponible ? Contacte-nous sur Instagram @loup_solitaire 🐺
-  Updated: 2026-10-25T11:28:37Z
+  Updated: 2026-11-05T18:57:16Z
   Total Products: 2
 - [clothe](https://loner-lps-store.myshopify.com/collections/clothe)
-  Updated: 2026-10-26T20:04:49Z
+  Updated: 2026-11-05T18:57:37Z
   Total Products: 4
 - [cap](https://loner-lps-store.myshopify.com/collections/cap)
-  Updated: 2026-10-26T20:09:55Z
+  Updated: 2026-11-05T18:57:35Z
   Total Products: 3
 - [Été](https://loner-lps-store.myshopify.com/collections/ete)
-  Updated: 2026-10-29T11:43:29Z
-  Total Products: 2
+  Updated: 2026-11-05T18:57:35Z
+  Total Products: 4
 - [Hiver](https://loner-lps-store.myshopify.com/collections/hiver)
-  Updated: 2026-10-29T11:43:29Z
+  Updated: 2026-11-05T18:57:37Z
   Total Products: 2
 
 ## Blogs
@@ -194,11 +194,15 @@
   Updated: 2026-09-18T13:04:15Z
 - [Notre histoire](https://loner-lps-store.myshopify.com/pages/notre-histoire): Chaque sommet se mériteSISYPHE tire son nom du mythe d’une montée sans fin. Un rocher à pousser. Un chemin à reprendre. Nous y voyons l’envie de co...
   Updated: 2026-10-25T14:15:43Z
+- [Create survey](https://loner-lps-store.myshopify.com/pages/survey): /* Hide all common theme elements */ footer, .footer, .site-header, .site-footer, .shopify-section-header, .shopify-section-footer, .announcement-b...
+  Updated: 2026-10-30T17:29:12Z
+- [Quiz](https://loner-lps-store.myshopify.com/pages/quiz)
+  Updated: 2026-10-30T17:29:12Z
 
 ## Policies
 
 - [Privacy Policy](https://loner-lps-store.myshopify.com/policies/privacy-policy)
-  Updated: 2026-09-09T16:58:48Z
+  Updated: 2026-10-30T15:57:57Z
 - [Shipping Policy](https://loner-lps-store.myshopify.com/policies/shipping-policy)
   Updated: 2026-09-17T14:29:13Z
 - [Refund Policy](https://loner-lps-store.myshopify.com/policies/refund-policy)
