@@ -10,7 +10,7 @@
 - Contact Email: info@thevitaminstore.ca
 - Contact Phone: 2042283321
 - Address: 91 Royal Crest Drive Winnipeg Manitoba R3P 2R1
-- Updated At: 2026-10-31T00:38:08.239Z
+- Updated At: 2026-11-07T00:38:13.430Z
 
 ## Products
 
@@ -1011,7 +1011,7 @@
   Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_32a96845-eae8-417e-9121-b9bbdd8176a2.png?v=1744918151
   Price: $26.41 CAD
 - [Cyto-Matrix Cyto-C 1000mg Ascorbic Acid 240 Capsules](https://7591eb.myshopify.com/products/cyto-c-1000mg-ascorbic-acid): Cyto-Matrix Cyto-C 1000mg Ascorbic Acid offers antioxidant vitamin C for immune support and collagen formation. 240 capsules.
-  Updated: 2026-09-19T19:01:08Z
+  Updated: 2026-11-02T14:10:35Z
   Vendor: Cyto-Matrix
   Product Type: 
   Availability: Available
@@ -1451,7 +1451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0845/5693/9559/files/image_7b1fee33-b61e-4ab6-82bc-e162d66813ee.png?v=1762368627
     Price: $57.48 CAD
 - [Cyto-Matrix Peak-EPA](https://7591eb.myshopify.com/products/peak-epa): Cyto-Matrix Peak-EPA delivers omega-3 EPA and DHA for heart, brain and joint health. Shop Cyto-Matrix at The Vitamin Store.
-  Updated: 2026-09-30T13:09:36Z
+  Updated: 2026-11-06T16:30:51Z
   Vendor: Cyto-Matrix
   Product Type: 
   Availability: Available
