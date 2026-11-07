@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-06T19:37:36Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:22:16.708Z
+- Updated At: 2026-11-07T00:26:47.529Z
 
 ## Products
 
@@ -122,21 +122,21 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Covers, Vol. 1 - Vinyl](https://store.sleepingatlast.com/products/covers-volume-1-vinyl-lp): So excited for these cover songs to live on Vinyl, the world’s classiest music format!Tracklist:1. I'm Gonna Be (500 Miles)2. The Safety Dance3. Total Eclipse of the Heart4. All Through the Night5. Private Eyes6. Every Little Thing She Does Is Magic7. Ruby Blue8. 99 Red Balloons2nd Pressing!Includes special clear "Smoke" colored Vinyl! No two are alike.
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-04T12:40:44Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Covers-Vinyl-Mockup1.webp?v=1759779583
   Price: $25.00 USD
 - [Christmas Collection, Vol. 1 - Blue Vinyl](https://store.sleepingatlast.com/products/christmas-collection-vol-1-blue-vinyl): So thrilled to announce this beautiful, limited-edition 2nd pressing of "Christmas Collection, Volume One"!!Each year, Sleeping At Last records a Christmas song or two. This tradition has accumulated into an entire 18-song Christmas album and it's available now for the first time ever on Vinyl and CD!This double-vinyl set features all-new gorgeous artwork by Tim Damitz!Vinyl Color: Gorgeous Blue(Please note: As with all vinyl production, the colors may vary slightly from the product images, as each vinyl set is one of a kind! No returns or exchanges)Tracklist:SIDE A:The First Noel (2017)The Christmas Waltz (2016)Christmas (Baby Please Come Home) (2015)O Come, O Come Emmanuel (2014)Happy Xmas (War Is Over) (2013)SIDE B:Snow (2010)O, Holy Night (2005)The Christmas Song (2009)I Heard the Bells (2012)SIDE C:It’s the Most Wonderful Time of the Year (2017)Silent Night (2011)Christmas Is All Around Me (2011)Merry Little Christmas (2007)What Child Is This (2005)SIDE D:I'll Be Home for Christmas (2009)Cradle in Bethlehem (2008)Silver Bells (2004)White Christmas (2010
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-05T02:58:56Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Christmas-VinylMockup_blue.webp?v=1759779585
   Price: $35.00 USD
 - [Saturn - 7" Vinyl](https://store.sleepingatlast.com/products/saturn-7-inch-vinyl-single): NEW COLOR!So excited to announce the next entry in my 7-inch Vinyl series: "SINGLES" - these special limited-run pressings of Sleeping At Last singles feature brand-new art, gorgeous packaging and colored 7" Vinyl.This 7" Vinyl features my song "Saturn" and all-new gorgeous artwork by Tim Damitz with stunning gold-foil detail! Vinyl Color: Metallic Goldfish(Please note: As with all vinyl production, the colors may vary slightly from the product images, as each vinyl set is one of a kind! No returns or exchanges)Tracklist:SIDE A: SaturnSIDE B: Saturn (ft. Tim Fain)
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-04T13:05:27Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -150,14 +150,14 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Enneagram-VinylMockup_01.jpg?v=1759779589
   Price: $55.00 USD
 - [Covers, Vol. 2 - Vinyl](https://store.sleepingatlast.com/products/covers-vol-2-vinyl): So excited for Volume 2 of my cover song series to live on Vinyl for the first time, the world’s classiest music format!First Pressing!Special Clear Blue Vinyl with Blue Swirl ("smoke")Tracklist:1. “Chasing Cars” (originally by Snow Patrol)2. “Dark Horse” (originally by Katy Perry)3. “You’ve Got A Friend In Me” (originally by Randy Newman)4. “As Long As You Love Me” (originally by Backstreet Boys)5. “Never Tear Us Apart” (originally by INXS)6. “Faith” (originally by George Michael)7. “Rainbow Connection” (originally by Kermit the Frog)8. “Already Gone” (originally by Kelly Clarkson)9. Today Has Been OK (originally by Emiliana Torrini)10. “Make You Feel My Love” (originally by Bob Dylan)
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-04T12:40:47Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Covers_Vol._2_-_Vinyl_Mockup_-_Revised_Color.webp?v=1759779590
   Price: $20.00 USD
 - [Enneagram - 2xCD Set](https://store.sleepingatlast.com/products/enneagram-2xcd-set): So thrilled to announce this beautiful CD Set, "Enneagram" - featuring 9 songs inspired by the 9 uniquely beautiful Enneagram types of personality.CD 1 Tracklist:1. One2. Two3. Three4. Four5. Five6. Six7. Seven8. Eight9. NineCD 2 Tracklist:1. One (Instrumental)2. Two (Instrumental)3. Three (Instrumental)4. Four (Instrumental)5. Five (Instrumental)6. Six (Instrumental)7. Seven (Instrumental)8. Eight (Instrumental)9. Nine (Instrumental)-Also available on Vinyl!
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-05T20:44:57Z
   Vendor: Sleeping At Last
   Product Type: CD
   Availability: Available
@@ -171,7 +171,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/SAL_0000_ATLAS-I-PHOTOSHOOT.png?v=1791403426
   Price: $90.00 USD
 - [Atlas: I - 3xLP Box Set](https://store.sleepingatlast.com/products/atlas-i-3-vinyl-box-set): So excited for these songs to have a home on Vinyl, the world’s classiest music format. These Atlas: I songs were inspired by: DARKNESS, LIGHT, SPACE, LAND & OCEANS.This 3rd edition pressing includes:- Brand-new redesign!- 3 Random (and beautifully) color vinyl records. Like fingerprints, no two are alike!- A nice thick booklet featuring each of the 30 paintings by Geoff Benzing along with lyrics and liner notes.- Digital download- Beautiful fabric-wrapped, foil-stamped box to store the set in.NOTE:VINYL COLOR: Every set features completely different and unique colors. Store image is an example only. Vinyl color will completely vary! (Don't worry, they look awesome!!)
-  Updated: 2026-10-30T23:42:25Z
+  Updated: 2026-11-06T15:08:14Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -206,7 +206,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Neighbors-VinylMockup_seafoam.webp?v=1759779597
   Price: $25.00 USD
 - [Covers, Vol. 3 - Vinyl](https://store.sleepingatlast.com/products/covers-vol-3-vinyl): So excited for Volume 3 of my cover song series to live on Vinyl for the first time, the world’s classiest music format!First Pressing!Special "Coke clear with opaque blue swirl" Color VinylTracklist:1. “10,000 Miles” (originally by Mary Chapin Carpenter)2. “You Wouldn't Like Me” (originally by Tegan and Sara)3. “Breathe Again” (originally by Sara Bareilles)4. “Can't Smile Without You” (originally by Barry Manilow)5. “Someone To Watch Over Me” (originally by Ella Fitzgerald)6. “Everywhere I Go” (originally by Lissie)7. “Love Is All Around” (originally by The Troggs)8. “Young Folks” (originally by Peter Bjorn and John)9. "When It Don't Come Easy" (originally by Patty Griffin)10. “Where Does The Good Go” (originally by Tegan and Sara)11. "Looking At The World From The Bottom Of A Well" (originally by Mike Doughty)12. Amazing Grace(Please note: As with all vinyl production, the colors may vary from the images in this listing, as each vinyl set are one of a kind! No returns or exchanges)
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-04T12:40:42Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -346,7 +346,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/AtlasTwo-CD-MockupA_02.webp?v=1759779659
   Price: $55.00 USD
 - [Atlas: I - CD Box Set](https://store.sleepingatlast.com/products/atlas-i-cd-box-set): This re-designed deluxe Atlas: I 3-CD Box Set Includes:* 3 CDs (30 Atlas: One songs) contained in a 3-Disc Digipak!* Special Art Prints (5" tall x 5.5" wide) of all 30 Atlas: One paintings by Geoff Benzing, with lyrics on the back of each print.* All packaged inside a gorgeous fabric-wrapped box with shiny Gold foil-stamped design (mmm pretty!)Also Available in Vinyl!
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-02T11:29:04Z
   Vendor: Sleeping At Last
   Product Type: CD
   Availability: Available
@@ -437,7 +437,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/ManyBeautifulThings-Mockup-Vinyl_373bc019-72e9-4f54-af2b-7ecbcbed12fd.webp?v=1759779673
     Price: $35.00 USD
 - [Christmas Collection, Vol. 2 - Vinyl](https://store.sleepingatlast.com/products/christmas-collection-vol-2-vinyl): So thrilled to announce the FIRST pressing of “Christmas Collection, Vol. 2”!!Featuring all-new gorgeous artwork by Tim Damitz!Vinyl Color: Powder Blue (Please note: As with all vinyl production, the colors may vary slightly from the product images, as each vinyl set is one of a kind! No returns or exchanges)Tracklist:Side A • Snow (String Version) • Winter Wonderland • It’s Beginning to Look A Lot Like Christmas • Christmas Time is Here • Rudolph The Red-Nosed Reindeer • Count Your Blessings Instead of SheepSide B • December 25, 2021: Webb Space Telescope - Launch • Frosty The Snowman • The Secret of Christmas • It Came Upon A Midnight Clear • When We’re Together • Auld Lang Syne
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-05T02:58:53Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -451,7 +451,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Enneagram-Cassette-Front.jpg?v=1759779675
   Price: $15.00 USD
 - [Space Cassette](https://store.sleepingatlast.com/products/space-cassette): Delighted to announce a first-ever Sleeping At Last cassette, “Space" - featuring the Space/planet songs from "Atlas: II"!Featuring the gorgeous art and design by Tim Damitz!Tracklist:1. Sun2. Mercury3. Venus4. Earth5. Moon6. Mars7. Jupiter8. Saturn9. Uranus10. Neptune11. PlutoRelease/Ship date: Nov. 17
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-04T17:27:04Z
   Vendor: Sleeping At Last
   Product Type: Cassette
   Availability: Available
@@ -552,7 +552,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Astronomy Socks - Grey](https://store.sleepingatlast.com/products/astronomy-socks-grey): Astronomy is Sleeping At Last’s project inspired by celestial events and discoveries. These custom crew socks have the design woven in them for a true knitted sock look and feel. Artwork by Tim Damitz Care Instructions Turn your socks inside out before washing them to protect the fabric. Use cold or warm water to prevent shrinking and color fading, as hot water can be too harsh on the fibers. A mild detergent works best since harsh chemicals can break down the material over time. Drying Tips Air drying helps maintain the shape and elasticity of crew socks. Lay your crew socks flat on a clean towel, or hang them up. Should you need to use a dryer, choose a low-heat setting to avoid shrinkage and fabric damage.
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-01T20:01:26Z
   Vendor: Sleeping At Last
   Product Type: Socks
   Availability: Available
@@ -566,13 +566,13 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/SleepingAtLastBundle_3cdc8a25-1d69-41e7-b3b2-1f102c1aa03c.png?v=1760462010
   Price: $125.00 USD
 - [Saturn Tee](https://store.sleepingatlast.com/products/saturn-tee): how rare and beautiful it is to even exist Lyrics from Saturn on the front with sleeping at last logo underneath 100% ring-spun cotton tee in Blue Jean Garment dyed fabric for a soft-hand feel Unisex
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-06T17:49:20Z
   Vendor: Sleeping At Last
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/166086_1_305253_d.png?v=1770671107
   - [S](https://store.sleepingatlast.com/products/saturn-tee?variant=52636102492525)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://store.sleepingatlast.com/products/saturn-tee?variant=52636102525293)
     Availability: Available
@@ -594,7 +594,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/SAL-Tan-Dad-Hat.png?v=1765301908
   Price: $30.00 USD
 - [Sleeping at Last | Official Online Store | Vinyl Enamel Pins](https://store.sleepingatlast.com/products/vinyl-pins): Purchase all seven enamel pins and get a bundle ! Soft enamel vinyl pins inspired by Sleeping At Last songs and albums. Artwork by Tim Damitz Iron with color plating 1”x1.5” Comes on a custom backer card
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-05T19:01:01Z
   Vendor: Sleeping At Last
   Product Type: Pins
   Availability: Available
@@ -652,14 +652,14 @@
     Availability: Not Available
     Price: $60.00 USD
 - [Saturn Journal](https://store.sleepingatlast.com/products/saturn-journal): "I tried to write it down but I could never find a pen" Black, soft matte journal with hardcover binding Debossed Saturn lyrics on the front with Sleeping At Last underneath 80 pages of lined paper Tonal ribbon bookmark and strap closure Document pocket on inner back cover 8" x 5.5"
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-01T20:01:25Z
   Vendor: Sleeping At Last
   Product Type: Journal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/SALJournal.png?v=1769035322
   Price: $35.00 USD
 - [Turning Page - 15th Anniversary 7" Vinyl](https://store.sleepingatlast.com/products/turning-page-15th-anniversary-7-vinyl): I am pleased to share that my Turning Page 7-inch vinyl has been restocked, with an all new twilight-inspired color! This year is the 15th anniversary of Turning Page and to celebrate, there are 100 signed lyric cards hidden throughout this anniversary pressing! - Ryan
-  Updated: 2026-10-30T14:30:08Z
+  Updated: 2026-11-05T20:01:48Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -687,7 +687,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Covers Vinyl Bundle](https://store.sleepingatlast.com/products/covers-vinyl-bundle): Buy the bundle and save! Includes: Covers Vol. 1 Vinyl Covers Vol. 2 Vinyl Covers Vol. 3 Vinyl
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-04T12:40:56Z
   Vendor: Sleeping At Last
   Product Type: Vinyl
   Availability: Available
@@ -701,7 +701,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Yearbook-VinylMockup_02.jpg?v=1776953246
   Price: $40.00 USD
 - [Enneagram Songbook](https://store.sleepingatlast.com/products/enneagram-songbook): "I am so excited to share that my first-ever songbook is now available for preorder! Play through all nine of my Enneagram songs, if you’re so inclined. The book is beautiful, designed by Tim Damitz and includes all nine of Elicia Edijanto’s brilliant paintings throughout. The music was transcribed by the wonderful Stephen Lamb and Luke Woodard and engraved by Stephen Lamb. As someone who cannot read or write sheet music (I write and play music by sound and memory), I think sheet music is mysterious and magical!" - Ryan 80+ pages of piano and voice arrangements for Sleeping At Last's album, Enneagram 8.5" x 11" bound booklet Tracklist: One Two Three Four Five Six Seven Eight Nine
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-05T15:22:02Z
   Vendor: Sleeping At Last
   Product Type: Songbook
   Availability: Available
@@ -726,14 +726,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Turning Page Keychain](https://store.sleepingatlast.com/products/turning-page-keychain): Soft enamel vinyl pins inspired by Sleeping At Last's Turning Page album Artwork by Tim Damitz 1.75”x1.3”
-  Updated: 2026-10-29T21:19:38Z
+  Updated: 2026-11-05T19:00:56Z
   Vendor: Sleeping At Last
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/SAL_0003_Turning-Page-Keychain.png?v=1788383215
   Price: $15.00 USD
 - [Turning Page Bundle](https://store.sleepingatlast.com/products/turning-page-bundle): Bundle includes 1 x Turning Page Crop Tee 1 x Turning Page 7" Anniversary vinyl I am pleased to share that my Turning Page 7-inch vinyl has been restocked, with an all new twilight-inspired color! This year is the 15th anniversary of Turning Page and to celebrate, there are 100 signed lyric cards hidden throughout this anniversary pressing! - Ryan This special pressing of "Turning Page", a love song from the film Twilight: Breaking Dawn Pt. 1, is on blackberry wine vinyl with spot varnish on the outer jacket. Tracklist:SIDE A: Turning PageSIDE B: Turning Page (Instrumental) *Please note: As with all vinyl production, the colors may vary slightly from the product images, as each vinyl set is one of a kind! No returns or exchanges
-  Updated: 2026-10-30T14:30:50Z
+  Updated: 2026-11-05T20:02:00Z
   Vendor: Sleeping At Last
   Product Type: Bundle
   Availability: Available
@@ -750,8 +750,39 @@
   - [XL](https://store.sleepingatlast.com/products/turning-page-bundle?variant=53948599075181)
     Availability: Available
     Price: $49.00 USD
+- [Cursive Logo Beanie](https://store.sleepingatlast.com/products/cursive-logo-beanie): Sleeping At Last logo embroidered on the front Black beanie 100% acrylic
+  Updated: 2026-11-05T22:35:18Z
+  Vendor: Sleeping At Last
+  Product Type: Hat
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Holiday_0001_SAL-Beanie.png?v=1791493809
+  Price: $30.00 USD
+- [Turning Page Crewneck](https://store.sleepingatlast.com/products/turning-page-crewneck): Turning Page artwork on the front with Sleeping At Last logo Unisex sweatshirt in Bone Artwork by Tim Damitz 80/20 cotton/polyester blend fleece
+  Updated: 2026-11-06T22:27:08Z
+  Vendor: Sleeping At Last
+  Product Type: Sweatshirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Holiday_0000_Turning-Page-Crewneck_054515d8-bfcf-40cf-bf93-ce5941524a6f.png?v=1793199230
+  - [S](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825253229)
+    Availability: Available
+    Price: $60.00 USD
+  - [M](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825285997)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825318765)
+    Availability: Available
+    Price: $60.00 USD
+  - [XL](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825351533)
+    Availability: Available
+    Price: $60.00 USD
+  - [2XL](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825384301)
+    Availability: Available
+    Price: $60.00 USD
+  - [3XL](https://store.sleepingatlast.com/products/turning-page-crewneck?variant=67690825417069)
+    Availability: Available
+    Price: $60.00 USD
 - [2026 Europe Tour Tee](https://store.sleepingatlast.com/products/2026-europe-tour-tee): 2026 European tour cities on the front Unisex tee in Stonewash Denim
-  Updated: 2026-10-29T21:19:37Z
+  Updated: 2026-11-01T20:01:22Z
   Vendor: Sleeping At Last
   Product Type: T-Shirt
   Availability: Available
@@ -772,7 +803,7 @@
     Availability: Available
     Price: $35.00 USD
 - [2026 Europe Tour Poster](https://store.sleepingatlast.com/products/2026-europe-tour-poster): 2026 European tour cities on the front A3 Size
-  Updated: 2026-10-29T23:02:05Z
+  Updated: 2026-11-05T04:25:48Z
   Vendor: Sleeping At Last
   Product Type: Poster
   Availability: Available
@@ -783,26 +814,33 @@
   - [Unsigned](https://store.sleepingatlast.com/products/2026-europe-tour-poster?variant=67814115967341)
     Availability: Available
     Price: $10.00 USD
+- [Saturn Tiny Vinyl](https://store.sleepingatlast.com/products/saturn-tiny-vinyl): This adorable 4-inch vinyl record by Tiny Vinyl is a miniature playable record of Sleeping At Last's “Saturn". It's available in transparent tan and is the ultimate collectible for music lovers! Made with bio-attributed vinyl and 90% less material than 12" records 4.125" size Tracklist: Side A - Saturn Side B - Saturn Instrumental IMPORTANT NOTE: These records are pretty small, so some auto-stop or auto-return features can limit playback. Please check that your record player’s tonearm can reach the center of the platter while it’s still spinning. This may require disabling any auto-stop features to ensure the best experience. For reference, the grooves on a Tiny Vinyl start approximately 1.5 inches away from the center hole, and end around 1.25“. Here are a few of the record players that work with Tiny Vinyl: Victrola Brighton Victrola Eastwood II Victrola Wave Retrolife Suitcase Vintage Suitcase AT 120XBT Fluance RT80
+  Updated: 2026-11-06T22:27:02Z
+  Vendor: Sleeping At Last
+  Product Type: Vinyl
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/6145/0861/files/Holiday_0003_2A2A6905-2.jpg?v=1793113695
+  Price: $15.00 USD
 
 ## Collections
 
 - [Home page](https://store.sleepingatlast.com/collections/frontpage)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 16
 - [music](https://store.sleepingatlast.com/collections/music)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 62
 - [apparel](https://store.sleepingatlast.com/collections/apparel)
-  Updated: 2026-10-28T11:14:19Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 14
 - [accessories](https://store.sleepingatlast.com/collections/accessories)
-  Updated: 2026-10-29T11:14:44Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 23
 - [Enneagram](https://store.sleepingatlast.com/collections/enneagram)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 36
 - [Atlas](https://store.sleepingatlast.com/collections/atlas)
-  Updated: 2026-10-27T11:14:18Z
+  Updated: 2026-11-04T12:14:02Z
   Total Products: 4
 - [Astronomy](https://store.sleepingatlast.com/collections/astronomy)
   Updated: 2026-10-23T11:24:07Z
@@ -811,64 +849,64 @@
   Updated: 2026-09-15T11:15:43Z
   Total Products: 4
 - [7" Vinyl](https://store.sleepingatlast.com/collections/7-vinyl)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 15
 - [Mother](https://store.sleepingatlast.com/collections/mother)
   Updated: 2026-09-19T11:16:36Z
   Total Products: 2
 - [Space](https://store.sleepingatlast.com/collections/space)
-  Updated: 2026-10-22T11:17:58Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 4
 - [Christmas](https://store.sleepingatlast.com/collections/christmas)
-  Updated: 2026-10-20T11:18:07Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 3
 - [Covers](https://store.sleepingatlast.com/collections/covers)
-  Updated: 2026-10-29T11:14:44Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 7
 - [Other Music](https://store.sleepingatlast.com/collections/other-music)
   Updated: 2026-10-15T11:16:07Z
   Total Products: 10
 - [15 and Under](https://store.sleepingatlast.com/collections/10-and-under)
-  Updated: 2026-10-28T11:14:19Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 18
 - [$5 CDs and Cassettes](https://store.sleepingatlast.com/collections/5-cds-and-cassettes)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 11
 - [$10 7 Inch Vinyl](https://store.sleepingatlast.com/collections/10-7-inch-vinyl)
-  Updated: 2026-10-29T15:01:13Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 12
 - [$20 Vinyl](https://store.sleepingatlast.com/collections/20-vinyl)
-  Updated: 2026-10-29T15:00:43Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 15
 - [New Arrivals](https://store.sleepingatlast.com/collections/new-arrivals)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 18
 - [Holiday Collection](https://store.sleepingatlast.com/collections/holiday-collection)
-  Updated: 2026-10-27T17:35:56Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 6
 - [Giving Keys](https://store.sleepingatlast.com/collections/giving-keys)
-  Updated: 2026-10-23T11:24:07Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 10
 - [Box Sets](https://store.sleepingatlast.com/collections/box-sets)
-  Updated: 2026-10-27T11:14:18Z
+  Updated: 2026-11-04T12:14:02Z
   Total Products: 6
 - [Stocking Stuffers](https://store.sleepingatlast.com/collections/stocking-stuffers)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 27
 - [To Write Love On Her Arms](https://store.sleepingatlast.com/collections/to-write-love-on-her-arms): Special edition pressings of Space and Saturn 7in Vinyl.
   Updated: 2026-07-15T14:46:15Z
   Total Products: 2
 - [ALL](https://store.sleepingatlast.com/collections/all)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 85
 - [Best Sellers](https://store.sleepingatlast.com/collections/best-sellers)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 20
 - [Turning Page](https://store.sleepingatlast.com/collections/turning-page)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-06T12:15:32Z
   Total Products: 6
 - [Black Friday Deals](https://store.sleepingatlast.com/collections/black-friday-deals)
-  Updated: 2026-10-30T11:13:09Z
+  Updated: 2026-11-05T12:16:15Z
   Total Products: 38
 
 ## Store Pages
