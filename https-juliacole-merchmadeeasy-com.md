@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-12T22:57:06Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:16:00.811Z
+- Updated At: 2026-11-07T00:16:24.764Z
 
 ## Products
 
 - [Love You to Death Vinyl](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl): Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-10-28T17:51:09Z
+  Updated: 2026-11-05T15:33:41Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
@@ -25,14 +25,14 @@
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDCD_71cc0df2-0228-458f-99c4-08ce1a1cf9e4.png?v=1775497949
   Price: $9.98 USD
 - [Love You to Death Vinyl (Signed)](https://juliacole.merchmadeeasy.com/products/love-you-to-death-vinyl-signed): Cover signed by Julia Cole Love You to Death by Julia Cole available on vinyl Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-10-30T01:15:25Z
+  Updated: 2026-11-06T12:21:45Z
   Vendor: Julia Cole
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/LYTDVinylSigned_2de4b781-ef4d-4af7-9e94-2fbc6a694ad0.png?v=1775497970
   Price: $39.98 USD
 - [Love You to Death CD (Signed)](https://juliacole.merchmadeeasy.com/products/love-you-to-death-cd-signed): Inner sleeve signed by Julia Love You to Death by Julia Cole available on CD Tracklist Love You To Death Diamondback Day Late & A Buck Short At My Wedding Treat Me Like Dirt Big Picture Daddy Daughter Dance What It Takes What Could Go Wrong Hunting Boots Give & Take Gunshy Heaven On A Sunday Spicy
-  Updated: 2026-10-26T21:45:07Z
+  Updated: 2026-11-06T15:21:36Z
   Vendor: Julia Cole
   Product Type: CD
   Availability: Available
@@ -126,7 +126,7 @@
   Image: https://cdn.shopify.com/s/files/1/0613/5925/9840/files/167965_2_310564_d.png?v=1791034452
   Price: $35.00 USD
 - [Sisterhood Country Crewneck](https://juliacole.merchmadeeasy.com/products/sisterhood-country-crewneck): Sisterhood Country design on the front Navy sweatshirt 80/20 cotton/polyester Unisex
-  Updated: 2026-10-30T20:56:05Z
+  Updated: 2026-11-02T01:29:56Z
   Vendor: Julia Cole
   Product Type: Sweatshirt
   Availability: Available
@@ -178,22 +178,22 @@
 ## Collections
 
 - [Home page](https://juliacole.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-30T11:11:01Z
+  Updated: 2026-11-05T12:11:08Z
   Total Products: 16
 - [Apparel](https://juliacole.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-29T11:12:55Z
+  Updated: 2026-11-02T12:11:16Z
   Total Products: 7
 - [Accessories](https://juliacole.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-29T11:12:55Z
-  Total Products: 4
+  Updated: 2026-11-04T21:01:57Z
+  Total Products: 5
 - [All](https://juliacole.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-30T11:11:01Z
-  Total Products: 14
+  Updated: 2026-11-06T16:28:16Z
+  Total Products: 15
 - [Music](https://juliacole.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-30T11:11:01Z
+  Updated: 2026-11-05T12:11:08Z
   Total Products: 5
 - [Love You to Death](https://juliacole.merchmadeeasy.com/collections/love-you-to-death)
-  Updated: 2026-10-30T11:11:01Z
+  Updated: 2026-11-05T12:11:08Z
   Total Products: 9
 
 ## Store Pages
