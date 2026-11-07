@@ -10,7 +10,7 @@
 - Contact Email: vinaychilveri143@gmail.com
 - Contact Phone: 4343
 - Address: 12, baner pune
-- Updated At: 2026-10-31T00:27:36.799Z
+- Updated At: 2026-11-07T00:30:40.303Z
 
 custom information 
 for testing
@@ -168,7 +168,7 @@ for testing
 ## Policies
 
 - [Privacy Policy](https://test-store-rznizxsq.myshopify.com/policies/privacy-policy)
-  Updated: 2026-04-18T14:21:27Z
+  Updated: 2026-10-31T00:39:53Z
 
 https://facebook.com
 
