@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-23T08:50:54Z
 - Contact Email: contact@aurorejewels.fr
-- Updated At: 2026-10-31T00:33:28.880Z
+- Updated At: 2026-11-07T00:36:22.471Z
 
 Aurorejewels is a premium French jewelry stainless steel elegant rings, 
 necklaces, bracelets and earrings for women. Specializing in fine, 
@@ -635,6 +635,9 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
     Author: Aurore Pilarski
   - [Comment entretenir ses bijoux en acier inoxydable ?](https://aurorejewels.fr/blogs/actualites/comment-entretenir-bijoux-acier-inoxydable): <p>L'acier inoxydable est l'une des matières les plus résistantes en bijouterie, mais quelques gestes simples suffisent à le garder impeccable. Découvrez comment nettoyer, entretenir et conserver vos bijoux en acier inoxydable au quotidien, sans produits agressifs ni complications.</p>
     Updated: 2026-09-22T11:35:45Z
+    Author: Aurore Pilarski
+  - [5 bijoux à offrir à moins de 15 euros qui font vraiment plaisir](https://aurorejewels.fr/blogs/actualites/5-bijoux-a-offrir-a-moins-de-15-euros): <p>Offrir un bijou qui fait vraiment plaisir ne demande pas un grand budget. Il demande un bon choix. Découvrez 5 types de bijoux à moins de 15 euros, dans une matière qui dure, pour faire sourire sans se ruiner.</p>
+    Updated: 2026-11-01T07:00:02Z
     Author: Aurore Pilarski
   - [Que signifie le papillon en bijou ?](https://aurorejewels.fr/blogs/actualites/que-signifie-papillon-bijou-symbolique): <p>Le papillon est bien plus qu'un motif décoratif. Il porte en lui des siècles de symbolique : transformation, renaissance, légèreté. Découvrez pourquoi ce symbole universel est l'un des plus choisis en bijouterie, et comment le porter au quotidien.</p>
     Updated: 2026-09-22T11:35:57Z
