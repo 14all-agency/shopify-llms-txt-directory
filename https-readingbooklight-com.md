@@ -6,12 +6,12 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-10-30T01:23:00.822Z
+- Updated At: 2026-11-07T01:16:49.218Z
 
 ## Products
 
 - [Acrylic Book Night Light | 3 Color Reading Lamp](https://readingbooklight.com/products/acrylic-flat-book-night-light): Shop an acrylic book night light with 3 color temperatures, stepless dimming and USB charging. A stylish adjustable reading lamp for bedrooms and bedside tables
-  Updated: 2026-10-20T01:25:10Z
+  Updated: 2026-11-05T06:08:57Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -29,7 +29,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/main-image-10.jpg?v=1786955114
     Price: $29.99 USD
 - [Mini Book Light – Clip-On Reading Light | USB Rechargeable](https://readingbooklight.com/products/mini-book-light-portable-clip-on-reading-light): Mini book light with USB charging, 3 dimmable levels & 360° flip design. Perfect clip-on reading light for bed, travel & camping. Eye-friendly LED.
-  Updated: 2026-10-20T01:19:50Z
+  Updated: 2026-11-05T06:08:56Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -43,7 +43,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/white-mini-book-light-product-only.png?v=1787804298
     Price: $17.99 USD
 - [Rechargeable Neck Light – Hands-Free LED Reading Lamp](https://readingbooklight.com/products/led-rechargeable-neck-light-hands-free-reading-lamp): Rechargeable neck reading light with 3 modes & flexible arms. Hands-free LED book light for bed, travel & study. USB rechargeable, lightweight & portable.
-  Updated: 2026-10-20T01:19:50Z
+  Updated: 2026-11-05T06:08:56Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -57,7 +57,7 @@
     Image: https://cdn.shopify.com/s/files/1/0761/2262/0043/files/O1CN01ckawVw1Pgy9yrJGku__2219167721871-0-cib_1.jpg?v=1788166770
     Price: $24.99 USD
 - [Rechargeable Clip-On Book Light – 3 Colors & Dimmable LED](https://readingbooklight.com/products/rechargeable-clip-on-book-light-3-colors-dimmable-led): Rechargeable clip-on book light with 3 color temperatures, dimmable LED & foldable hose. Eye-friendly reading light for bed, study & travel.
-  Updated: 2026-10-20T01:19:50Z
+  Updated: 2026-11-05T06:08:56Z
   Vendor: ReadingBookLight
   Product Type: Reading Light
   Availability: Available
@@ -178,6 +178,10 @@
     Updated: 2026-10-30T00:00:03Z
     Author: ReadingBookLight Admin
     Tags: bedside lamp, book light, reading at night, reading light vs bedside lamp, sleep friendly lighting
+  - [How to Choose a Reading Light as a Gift](https://readingbooklight.com/blogs/reading-light-guide/how-to-choose-a-reading-light-as-a-gift): How to Choose a Reading Light as a Gift
+    Updated: 2026-11-06T00:00:02Z
+    Author: ReadingBookLight Admin
+    Tags: book light gift, gift for readers, gifts for book lovers, reading gift ideas, reading light gift
 
 ## Store Pages
 
