@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-10-31T00:22:02.506Z
+- Updated At: 2026-11-07T00:23:05.483Z
 
 ## Products
 
@@ -669,12 +669,19 @@
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/robotics-lab-black-boys-building-black-orange-robotics-workbook-cover.png?v=1793318557
   Price: $12.99 USD
 - [STEM workbook for kids | Engineering Activities Ages 8–12](https://tl5digitalworld.com/products/young-engineers-build-it-test-it-improve-it-stem-activity-workbook-for-kids-ages-8-12-copy): Discover Young Engineers, a printable STEM workbook for kids ages 8–12. Explore building challenges, engineering activities, and creative problem-solving.”
-  Updated: 2026-10-30T11:07:45Z
+  Updated: 2026-10-31T15:57:59Z
   Vendor: TL5 Digital World
   Product Type: Digital STEM Workbook
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/young-engineers-stem-activity-workbook-cover.png?v=1793319697
   Price: $12.99 USD
+- [Space Explorers STEM Workbook for Kids Ages 8–12](https://tl5digitalworld.com/products/space-explorers-stem-workbook-for-kids-ages-8-12-printable-space-activities): Explore space with a 28-page printable STEM workbook for ages 8–12. Includes rocket science, hands-on challenges, and a completion certificate.
+  Updated: 2026-11-06T16:04:15Z
+  Vendor: TL5 Digital World
+  Product Type: Digital STEM Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/Space_Explorers_01_Workbook_Cover.png?v=1793838285
+  Price: $9.99 USD
 
 ## Collections
 
@@ -706,8 +713,8 @@
   Updated: 2026-10-05T00:46:30Z
   Total Products: 11
 - [Workbooks](https://tl5digitalworld.com/collections/workbooks): Explore practical digital workbooks from TL5 Digital World for personal growth, finances, business, organization, wellness, and everyday life.
-  Updated: 2026-10-05T00:46:30Z
-  Total Products: 14
+  Updated: 2026-11-05T00:35:44Z
+  Total Products: 15
 - [Best Sellers](https://tl5digitalworld.com/collections/best-sellers)
   Updated: 2026-09-29T01:48:10Z
   Total Products: 8
@@ -772,8 +779,8 @@
   Updated: 2026-10-17T01:31:36Z
   Total Products: 1
 - [STEM Learning](https://tl5digitalworld.com/collections/stem-learning)
-  Updated: 2026-10-29T23:16:16Z
-  Total Products: 4
+  Updated: 2026-11-05T00:35:44Z
+  Total Products: 5
 
 ## Blogs
 
@@ -992,6 +999,15 @@
     Author: Admin
   - [How to Track Business Expenses Without Missing Money](https://tl5digitalworld.com/blogs/news/how-to-track-business-expenses): How to Track Business Expenses Without Missing Money
     Updated: 2026-10-30T03:31:08Z
+    Author: Admin
+  - [Career Resilience Skills That Keep You Moving](https://tl5digitalworld.com/blogs/news/career-resilience-skills): Career Resilience Skills That Keep You Moving
+    Updated: 2026-11-01T03:30:53Z
+    Author: Admin
+  - [Business Licenses USA: What You Need to Start](https://tl5digitalworld.com/blogs/news/business-licenses-usa): Business Licenses USA: What You Need to Start
+    Updated: 2026-11-03T03:41:19Z
+    Author: Admin
+  - [Scope Creep Management Template for Better Projects](https://tl5digitalworld.com/blogs/news/scope-creep-management-template): Scope Creep Management Template for Better Projects
+    Updated: 2026-11-05T03:32:45Z
     Author: Admin
 
 ## Store Pages
