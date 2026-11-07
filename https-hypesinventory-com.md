@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2025-04-16T15:55:12Z
 - Contact Email: admin@hypesinventory.com
-- Updated At: 2026-10-30T01:01:50.388Z
+- Updated At: 2026-11-07T02:24:22.801Z
 
 ## Products
 
@@ -205,7 +205,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/flaire-flared-leggings-light-gray-s-flaire-30-high-waisted-flare-leggings-with-pockets-yoga-athleisure-pants-36483823304957.webp?v=1775785958
     Price: $34.95 USD
 - [Pressed Powder – PHOFAY Matte Setting Powder Oil-Control Finish](https://hypesinventory.com/products/phofay-matte-setting-pressed-powder): Shop pressed powder by PHOFAY. This pressed powder controls oil, blurs pores, and sets makeup for a smooth, matte, long-lasting finish with lightweight coverage.
-  Updated: 2026-10-13T20:40:47Z
+  Updated: 2026-11-06T16:40:37Z
   Vendor: Hypes Inventory
   Product Type: Setting Powder
   Availability: Available
@@ -247,7 +247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-setting-powder-04-pressed-powder-phofay-matte-setting-powder-35159630348541.webp?v=1775784835
     Price: $13.99 USD
 - [Lip Liner Pencil – PHOFAY Waterproof Long-Lasting Lip Liner](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof): Shop lip liner pencil by PHOFAY. Waterproof, long-lasting formula defines, shapes, and contours lips for smooth, precise, and fade-resistant wear.
-  Updated: 2026-10-29T20:06:26Z
+  Updated: 2026-11-06T11:08:01Z
   Vendor: Hypes Inventory
   Product Type: Lip Liner
   Availability: Available
@@ -265,7 +265,7 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-liner-silver-lip-liner-pencil-waterproof-long-lasting-lip-liner-by-phofay-35159658103037.webp?v=1775784912
     Price: $17.68 USD
   - [Set](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof?variant=46260564689149)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-lip-liner-silver-lip-liner-pencil-waterproof-long-lasting-lip-liner-by-phofay-35159659577597.webp?v=1775784912
     Price: $23.99 USD
   - [8Color Set](https://hypesinventory.com/products/phofay-lip-liner-pencil-waterproof?variant=46260564721917)
@@ -331,17 +331,17 @@
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-liquid-blush-pink-liquid-blush-phofay-mousse-lightweight-blush-35159685595389.webp?v=1775784972
     Price: $19.98 USD
 - [Cream and Powder Blush Duo | PHOFAY Buildable Glow](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo): Shop cream and powder blush duo by PHOFAY. Buildable cream and powder blush delivers a smooth, radiant glow with long-lasting, lightweight coverage in one compact.
-  Updated: 2026-10-12T09:41:40Z
+  Updated: 2026-11-06T09:21:26Z
   Vendor: Hypes Inventory
   Product Type: Blush Duo
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159659348221.webp?v=1775784977
   - [Set / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579926269)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159659348221.webp?v=1775784977
     Price: $37.58 USD
   - [04 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579959037)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0753/0378/0605/files/hypes-inventory-blush-duo-set-1pcs-phofay-cream-and-powder-blush-buildable-blush-duo-for-radiant-glow-35159662756093.webp?v=1775784978
     Price: $26.95 USD
   - [03 / 1PCS](https://hypesinventory.com/products/phofay-cream-and-powder-blush-duo?variant=46260579991805)
@@ -2853,7 +2853,7 @@
   Updated: 2026-10-21T00:09:52Z
   Total Products: 15
 - [Flairé Fashion Collection](https://hypesinventory.com/collections/flaire-fashion-collection): Explore Flairé women’s denim, leggings, workout sets and everyday clothing. Browse individual product details and size charts at Hypes Inventory.
-  Updated: 2026-10-22T12:13:41Z
+  Updated: 2026-10-31T19:49:55Z
   Total Products: 39
 - [Health & Beauty](https://hypesinventory.com/collections/health-beauty): Explore health and beauty products at Hypes Inventory. Compare product details, available options and everyday care accessories before choosing your essentials.
   Updated: 2026-10-22T18:57:57Z
@@ -2862,22 +2862,22 @@
   Updated: 2026-07-11T11:20:14Z
   Total Products: 9
 - [Winter Collection ❄️](https://hypesinventory.com/collections/womens-winter-accessories): Shop women's winter accessories featuring cozy scarves, knit beanies, stylish cold-weather fashion, and elegant winter layering essentials.
-  Updated: 2026-10-21T00:09:15Z
+  Updated: 2026-11-05T12:20:29Z
   Total Products: 21
 - [LÁVINE™ Loungewear & Knitwear](https://hypesinventory.com/collections/cozy-knit-lounge-set-collection): Shop LÁVINE lounge sets, sweaters and knitwear at Hypes Inventory. Explore matching two-piece outfits and check product size charts before ordering.
-  Updated: 2026-10-21T00:09:15Z
+  Updated: 2026-11-05T12:20:29Z
   Total Products: 11
 - [Bag Charms for Purses](https://hypesinventory.com/collections/bag-charms-for-purses): Shop bag charms for purses, keychains, and accessories. Cute, trendy, and gift-ready styles to elevate your bags and everyday look.
-  Updated: 2026-10-22T18:57:57Z
+  Updated: 2026-11-07T01:25:31Z
   Total Products: 29
 - [New Fashion Arrivals ✨](https://hypesinventory.com/collections/new-fashion-arrivals): Shop new fashion arrivals featuring trending women’s activewear, accessories, handbags, jewelry, and stylish everyday fashion.
-  Updated: 2026-10-21T00:08:52Z
+  Updated: 2026-10-31T19:49:13Z
   Total Products: 10
 - [Women’s Activewear Collection](https://hypesinventory.com/collections/womens-activewear): Shop the Women’s Activewear Collection for leggings, workout sets, gym clothing, and stylish activewear designed for comfort.
-  Updated: 2026-07-09T19:15:47Z
+  Updated: 2026-10-31T19:49:23Z
   Total Products: 35
 - [The Bag Edit](https://hypesinventory.com/collections/bag-edit): Shop The Bag Edit for stylish everyday bags, totes, handbags, and crossbody styles made to elevate your outfits with ease.
-  Updated: 2026-10-26T15:49:56Z
+  Updated: 2026-10-31T19:49:36Z
   Total Products: 32
 - [Mothers Day Gifts](https://hypesinventory.com/collections/mothers-day-gifts): Shop mothers day gifts designed for style and everyday use. Discover elegant bags and thoughtful gift ideas perfect for moms.
   Updated: 2026-10-26T15:49:56Z
@@ -2892,11 +2892,11 @@
     Tags: confidence, outfit ideas, personal style
 - [News](https://hypesinventory.com/blogs/news)
   - [Bag Charms for Women: 7 Styling Ideas | Hypes Inventory](https://hypesinventory.com/blogs/news/10-cute-bag-charms-for-women-that-instantly-upgrade-your-bag-2026-trend): Bag Charms for Women: 7 Styling Ideas | Hypes Inventory
-    Updated: 2026-10-22T01:00:16Z
+    Updated: 2026-11-03T00:51:01Z
     Author: Wesley Mitchell
     Tags: bag charms, handbag accessories, style guide
   - [Apple & Cherry Bag Charms: How to Choose | Hypes Inventory](https://hypesinventory.com/blogs/news/fruit-bag-charm-for-women-cute-apple-cherry-keychain-purse-accessory-5301-67): Apple & Cherry Bag Charms: How to Choose | Hypes Inventory
-    Updated: 2026-10-22T01:00:16Z
+    Updated: 2026-11-03T00:51:02Z
     Author: Wesley Mitchell
     Tags: apple charm, cherry charm, fruit bag charms
   - [Ladies Full Body Shaper: Fit & Buying Guide | Hypes Inventory](https://hypesinventory.com/blogs/news/ladies-full-body-shaper-guide-2026-6473-57): Ladies Full Body Shaper: Fit & Buying Guide | Hypes Inventory
@@ -2913,7 +2913,7 @@
     Tags: LÁVINE, Loungewear, Outfit Ideas
 - [Business Growth Tips](https://hypesinventory.com/blogs/business-growth-tips)
   - [NFC Keychain for Google Reviews: Setup Guide | Hypes Inventory](https://hypesinventory.com/blogs/business-growth-tips/unlock-fast-business-growth-with-nfc-keychain-to-boost-google-reviews-instantly-and-easy): NFC Keychain for Google Reviews: Setup Guide | Hypes Inventory
-    Updated: 2026-10-26T04:19:35Z
+    Updated: 2026-11-03T00:51:02Z
     Author: Hypes Inventory
     Tags: Google reviews, NFC keychain, small business
 - [Flairé™ Style Guide](https://hypesinventory.com/blogs/flaire-style-guide-flare-yoga-pants-high-waisted): Shop high waisted flare yoga pants with pockets by Flairé™. Designed to sculpt your waist, lift your shape, and move with you—perfect for workouts, lounging, and everyday wear.
@@ -2967,8 +2967,8 @@
   Updated: 2026-10-22T19:02:01Z
 - [Help Center & FAQs | Hypes Inventory](https://hypesinventory.com/pages/f09afb5f-e0d5-49ef-a2c8-af5238456829): 
   Updated: 2026-10-22T18:55:40Z
-- [Product Directory | Hypes Inventory](https://hypesinventory.com/pages/html-sitemap-products): Browse the current products at Hypes Inventory.Product Directory Flare Yoga Pants High Waisted | Flairé™ Flared Leggings with Pockets Flare Yoga Pa...
-  Updated: 2026-10-22T18:57:57Z
+- [Product Directory | Hypes Inventory](https://hypesinventory.com/pages/html-sitemap-products): Browse products currently available at Hypes Inventory.Product Directory Flare Yoga Pants High Waisted | Flairé™ Flared Leggings with Pockets Flare...
+  Updated: 2026-11-03T00:50:00Z
 - [Collection Directory | Hypes Inventory](https://hypesinventory.com/pages/html-sitemap-collections): Browse the current collections at Hypes Inventory.Collection Directory PHOFAY Beauty Collection Flairé Fashion Collection Health & Beauty Comfortab...
   Updated: 2026-10-22T18:57:57Z
 - [Blog Directory | Hypes Inventory](https://hypesinventory.com/pages/html-sitemap-blogs): Browse the current blogs at Hypes Inventory.Blog Directory News The Queen’s Journal 👑 Business Growth Tips Flairé™ Style Guide Foot Wellness & Reli...
@@ -2985,7 +2985,7 @@
 ## Policies
 
 - [Privacy Policy](https://hypesinventory.com/policies/privacy-policy)
-  Updated: 2025-10-07T23:25:28Z
+  Updated: 2026-10-30T06:47:43Z
 - [Shipping Policy](https://hypesinventory.com/policies/shipping-policy)
   Updated: 2026-05-18T02:11:11Z
 - [Refund Policy](https://hypesinventory.com/policies/refund-policy)
