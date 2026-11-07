@@ -6,15 +6,15 @@
 - Timezone: America/New_York
 - Created At: 2026-04-22T19:01:04Z
 - Contact Email: support@maxcgo.com
-- Updated At: 2026-10-30T01:00:34.172Z
+- Updated At: 2026-11-07T00:56:24.585Z
 
 MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore the Standard and Extra Large sizes for use at work, at home, in a wheelchair, and outdoors. For current product details, availability, and pricing, refer to the official MaxCgo website.
 
 
 ## Products
 
-- [TPE Gel Seat Cushion for Everyday Comfort - MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion): Shop MaxCgo's Standard TPE gel seat cushion with honeycomb airflow, a tailbone cutout and washable cover for office, home and wheelchair seating.
-  Updated: 2026-10-28T22:01:15Z
+- [Honeycomb TPE Seat Cushion – Standard | MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion): Make everyday sitting more comfortable with the MaxCgo honeycomb TPE seat cushion. Enjoy a breathable design for your office chair, car seat, or wheelchair.
+  Updated: 2026-11-04T05:25:50Z
   Vendor: MaxCgo
   Product Type: Seat Cushion
   Availability: Available
@@ -25,8 +25,8 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [2-Pack · $90 Best Value 🔥 (Save $68)](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion?variant=51561664807227)
     Availability: Available
     Price: $90.00 USD
-- [Large TPE Gel Seat Cushion with Washable Cover - MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion-large): Shop MaxCgo's large TPE gel seat cushion with a wider sitting surface, open honeycomb airflow and a washable cover for office, home and outdoor seating.
-  Updated: 2026-10-28T22:01:15Z
+- [Honeycomb TPE Gel Seat Cushion – Large | MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion-large): Make room for everyday comfort with the MaxCgo Large honeycomb TPE gel seat cushion. A breathable design brings comfort to workdays, drives, and downtime.
+  Updated: 2026-11-04T05:27:19Z
   Vendor: MaxCgo
   Product Type: Seat Cushion
   Availability: Available
@@ -37,8 +37,8 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [2-Pack · $120 – Best Value 🔥 (Save $58)](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-seat-cushion-large?variant=51561669853499)
     Availability: Available
     Price: $120.00 USD
-- [TPE Gel Car Seat Cushion for Daily Drives - MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-car-seat-cushion): Shop MaxCgo's TPE gel car seat cushion with an open honeycomb core. Choose 1.2-inch (3CM) or 2.0-inch (5CM) thickness for your driving setup.
-  Updated: 2026-10-28T22:01:15Z
+- [TPE Gel Car Seat Cushion – Honeycomb Comfort | MaxCgo](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-car-seat-cushion): Make daily drives more comfortable with the MaxCgo TPE gel car seat cushion. Its breathable honeycomb design adds comfort to commutes and longer journeys.
+  Updated: 2026-11-04T05:29:40Z
   Vendor: MaxCgo
   Product Type: Car Seat Cushion
   Availability: Available
@@ -49,15 +49,15 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [Extended (5CM) / Black](https://www.maxcgo.com/products/maxcgo-honeycomb-tpe-car-seat-cushion?variant=67664948625723)
     Availability: Available
     Price: $59.00 USD
-- [TPE Motorcycle Seat Cushion with Lycra Cover - MaxCgo](https://www.maxcgo.com/products/maxcgo-tpe-motorcycle-seat-cushion): Shop MaxCgo's motorcycle seat cushion with a TPE honeycomb core and stretchy Lycra cover for daily commutes and weekend rides. Check seat fit before ordering.
-  Updated: 2026-10-28T22:01:15Z
+- [TPE Gel Motorcycle Seat Cushion | MaxCgo](https://www.maxcgo.com/products/maxcgo-tpe-motorcycle-seat-cushion): Make every ride more comfortable with the MaxCgo TPE gel motorcycle seat cushion. Bring extra comfort to daily commutes and weekend adventures.
+  Updated: 2026-11-04T05:30:41Z
   Vendor: MaxCgo
   Product Type: Motorcycle Seat Cushion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/DB025EA2-72A4-4BE6-BBC2-F88F616DA9EE.webp?v=1792039851
   Price: $49.00 USD
-- [Purple Contoured Honeycomb Seat Cushion - MaxCgo](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion): Shop MaxCgo's purple honeycomb seat cushion with a contoured surface, central cutout and black cover for office, car and home seating.
-  Updated: 2026-10-28T22:01:15Z
+- [Breathable Seat Cushion – Purple Honeycomb | MaxCgo](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion): Bring comfort to your daily routine with the MaxCgo breathable seat cushion. A purple honeycomb design makes desk time and downtime more inviting.
+  Updated: 2026-11-04T05:32:46Z
   Vendor: MaxCgo
   Product Type: Seat Cushion
   Availability: Available
@@ -68,20 +68,20 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [2-Cushion · $100 Best Value 🔥 (Save $58)](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion?variant=67690244997435)
     Availability: Available
     Price: $100.00 USD
-- [Extra-Thick Silicone Seat Cushion, 2.4-inch - MaxCgo](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm): Shop MaxCgo's purple silicone seat cushion with a 2.4-inch (6CM) profile, open honeycomb structure and black cover for office, car and home seating.
-  Updated: 2026-10-28T22:01:15Z
+- [Extra-Thick Seat Cushion – Purple | MaxCgo](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm): Make everyday sitting more inviting with the MaxCgo extra-thick seat cushion. Enjoy added cushioning for desk time, quiet evenings, and everything in between.
+  Updated: 2026-11-04T05:34:06Z
   Vendor: MaxCgo
   Product Type: Seat Cushion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/21FA211C-3997-42DB-A63E-BBB87CEEB59C_2.webp?v=1792122652
-  - [1-Cushion · $49 (Save $30)](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm?variant=67691111514427)
+  - [1-Cushion · $67 (Save $12)](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm?variant=67691111514427)
     Availability: Available
-    Price: $49.00 USD
-  - [2-Cushion · $90 Best Value 🔥 (Save $68)](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm?variant=67691111547195)
+    Price: $67.00 USD
+  - [2-Cushion · $126 Best Value 🔥 (Save $32)](https://www.maxcgo.com/products/maxcgo-purple-honeycomb-seat-cushion-6cm?variant=67691111547195)
     Availability: Available
-    Price: $90.00 USD
-- [U-Shaped Honeycomb TPE Seat Cushion - MaxCgo](https://www.maxcgo.com/products/maxcgo-contoured-honeycomb-tpe-seat-cushion): Shop MaxCgo's contoured TPE seat cushion with open honeycomb airflow and a U-shaped cutout for office, home and outdoor seating. Cover not included.
-  Updated: 2026-10-28T22:01:15Z
+    Price: $126.00 USD
+- [Honeycomb TPE Seat Cushion – U-Shape Contoured | MaxCgo](https://www.maxcgo.com/products/maxcgo-contoured-honeycomb-tpe-seat-cushion): Settle into everyday comfort with the MaxCgo U-shape honeycomb TPE seat cushion. A contoured design makes workdays and downtime more comfortable.
+  Updated: 2026-11-04T05:35:25Z
   Vendor: MaxCgo
   Product Type: Seat Cushion
   Availability: Available
@@ -92,43 +92,217 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [2 Cushion · $86 Best Value 🔥 (Save $58)](https://www.maxcgo.com/products/maxcgo-contoured-honeycomb-tpe-seat-cushion?variant=67693571440955)
     Availability: Available
     Price: $86.00 USD
-- [Heated Massage Lumbar Belt with Inflatable Support](https://www.maxcgo.com/products/cross-border-inflatable-heated-massage-lumbar-support-belt-5000haoan-waist-massager-with-red-light-therapy-and-electric-heating-for-warmth): A little warmth. A moment to unwind. Make time for everyday comfort with a heated massage lumbar belt that combines adjustable inflatable support, red-light heating, and vibration massage. After a busy day, settle into your favorite chair and choose the warmth and massage settings that suit your moment. Comfort, your way Adjustable inflatable support: Multiple air columns and the included hand pump let you adjust inflation for a personalized fit around your waist. Three heat settings: Choose from 113°F, 131°F, or 149°F (45°C, 55°C, or 65°C). Three vibration levels: Customize your massage experience. Heating and vibration can be used together or separately. Easy-to-read controls: A digital controller displays temperature and battery power, with controls for heat and vibration. Rechargeable design: A 5000mAh rechargeable lithium battery and USB charging cable make it easy to recharge between uses. Charging time is approximately 3 hours. Adjustable closure: A hook-and-loop fastening and included extension pad help you adjust the fit. Materials & specifications Certifications: CE, RoHS, FCC. Materials: PU leather outer layer, knitted cotton inner layer, and TPU inflatable material. Dimensions: approximately 46.5 × 7.9 in (118 × 20CM). These are product dimensions, not a confirmed waist-fit range. Product net weight: 745g. Battery type and capacity: rechargeable lithium battery, 5000mAh. Operating voltage: 5V. Operating current: 1580mA. Charging current: 1200mA. Package dimensions: approximately 10.5 × 7.9 × 3.7 in (26.7 × 20.1 × 9.4CM). Weight with retail box: 1130g. What's included 1 inflatable belt, 1 red-light heating pack, 1 extension pad, 1 hand pump, 1 charging cable, 1 instruction manual, and 1 retail box. 1-Year Full Replacement Warranty Before use Read and follow the included instruction manual for fitting, inflation, heating, charging, and care. Start with the lowest heat setting and stop use if the belt feels too hot or uncomfortable. Any questions? Please contact us: support@maxcgo.com
-  Updated: 2026-10-29T05:39:45Z
+- [Heated Massage Lumbar Belt with Inflatable Support | MaxCgo](https://www.maxcgo.com/products/heated-massage-lumbar-belt): Unwind after a long day with the MaxCgo heated massage lumbar belt. Enjoy soothing warmth, massage, and adjustable inflatable support for everyday comfort.
+  Updated: 2026-11-05T17:15:44Z
   Vendor: http://detail.1688.com/offer/679223934576.html
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_cbbca277-b0ff-4bb5-b336-10868223858c.png?v=1793217571
-  - [Gray](https://www.maxcgo.com/products/cross-border-inflatable-heated-massage-lumbar-support-belt-5000haoan-waist-massager-with-red-light-therapy-and-electric-heating-for-warmth?variant=67821114491195)
+  - [Gray](https://www.maxcgo.com/products/heated-massage-lumbar-belt?variant=67821114491195)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_cbbca277-b0ff-4bb5-b336-10868223858c.png?v=1793217571
     Price: $139.99 USD
-  - [Black](https://www.maxcgo.com/products/cross-border-inflatable-heated-massage-lumbar-support-belt-5000haoan-waist-massager-with-red-light-therapy-and-electric-heating-for-warmth?variant=67821114556731)
+  - [Black](https://www.maxcgo.com/products/heated-massage-lumbar-belt?variant=67821114556731)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_409a2f78-235c-436d-8654-16455bac0d19.png?v=1793215577
     Price: $139.99 USD
-- [Electric Foot Warmer Pad for Everyday Comfort](https://www.maxcgo.com/products/cross-border-heating-foot-warmer-double-helix-foot-warmer9adjustable-temperature-control-electric-foot-warmer-with-washable-heating-pad): Bring warmth to your everyday routine with this electric foot warmer pad. Settle in at your desk or relax at home with a soft place to rest your feet. This model comes with a US plug for 100–120V, 60Hz power outlets.Warmth your way Nine temperature settings let you adjust the heat to your preference. Four automatic shutoff timer options: 30, 60, 90 or 120 minutes. An LCD controller makes heat and timer settings easy to read. Soft, lightweight fabric and PTC temperature-sensitive heating. A detachable power cord allows the pad to be washed according to the included care instructions. Dimensions and electrical details Color: Gray. Pad size: 15.75 × 15.55 × 0.59 in (40 × 39.5 × 1.5CM). Cable length: 66.93 in (170CM). Power: 40W. Power supply: US plug, 100–120V, 60Hz. Includes one foot warmer pad, one LCD controller with a US-plug power cord and one instruction manual. Using your foot warmerThe startup setting is heat level 5 with a two-hour timer. Adjust the heat and timer using the LCD controller.Use with a compatible 100–120V, 60Hz outlet. Use the pad flat, never rolled up. Avoid exposure to excessive heat. Disconnect the power cord before washing and follow the included instructions for use and care.1-Year Replacement WarrantyAny questions? Please contact us: support@maxcgo.com.
-  Updated: 2026-10-29T18:03:06Z
+- [Electric Foot Warmer Pad with LED Display | MaxCgo](https://www.maxcgo.com/products/electric-foot-warmer-pad): Make chilly days cozier with the MaxCgo electric foot warmer pad. Enjoy comforting warmth while you work or unwind, with an easy-to-read LED display.
+  Updated: 2026-11-05T17:15:45Z
   Vendor: http://detail.1688.com/offer/798152703894.html
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/maxcgo-foot-warmer-us-main-repair-20261029.png?v=1793295305
   Price: $34.99 USD
-- [Electric Heating Pad with 10 Heat Settings](https://www.maxcgo.com/products/cross-border10heating-pad-for-therapeutic-use-winter-multi-functional-warming-blanket-office-heating-pad-for-warming-the-body): Bring adjustable warmth to your everyday routine with this soft electric heating pad. Whether you are taking a break at your desk or relaxing at home, its rectangular design offers a comfortable layer of warmth with easy controller adjustments. This model comes with a US plug for 100–120V power outlets.Warmth your way Choose from 10 heat settings to suit your comfort. Select a 45-, 90-, or 120-minute timer. Adjust settings using the wired digital controller. Soft gray fabric provides a comfortable feel. Built-in overheat protection cuts power when the temperature reaches its protection threshold. Size and power Pad size: 11.81 × 23.62 in (30 × 60CM). Power: 75W. Power cord length: 78.74 in (200CM). Power supply: US plug, 100–120V. Using your heating padUse with a compatible 100–120V outlet. Adjust the heat and timer with the controller, and follow the included manual for operating, safety, and care instructions.What is includedOne 11.81 × 23.62 in (30 × 60CM) heating pad, one temperature-control power cord with a US plug, and one English instruction manual.
-  Updated: 2026-10-29T20:08:00Z
+- [Electric Heating Pad with 10 Heat Settings | MaxCgo](https://www.maxcgo.com/products/electric-heating-pad): Settle into your comfort zone with the MaxCgo electric heating pad. Choose from 10 heat settings for welcoming warmth when it's time to unwind.
+  Updated: 2026-11-05T17:16:01Z
   Vendor: http://detail.1688.com/offer/652353594971.html
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/1_cf005f3b-d555-4748-ba0c-5b5c621e2566.png?v=1793298600
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_bba0b272-5f45-464c-8f35-912ce8b53787.png?v=1793299034
   Price: $29.99 USD
+- [Heated Knee Wrap with Vibration Massage | MaxCgo](https://www.maxcgo.com/products/heated-knee-wrap): Give tired knees a comforting break with the MaxCgo heated knee wrap. Enjoy soothing warmth and vibration massage as you settle in after a busy day.
+  Updated: 2026-11-05T17:15:47Z
+  Vendor: http://detail.1688.com/offer/920945937729.html
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_5649a938-e5e7-45c0-8439-3cd440cf63ec.png?v=1793391840
+  Price: $49.99 USD
+- [USB Heated Seat Cushion with Extra Padding | MaxCgo](https://www.maxcgo.com/products/usb-heated-seat-cushion): Make chilly seats more inviting with the MaxCgo USB heated seat cushion. Extra padding and comforting warmth bring a cozy touch to your sitting routine.
+  Updated: 2026-11-05T17:15:55Z
+  Vendor: MaxCgo
+  Product Type: Heated Seat Cushion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_c423330f-a59f-431a-8a86-05594f46e10c.png?v=1793475191
+  - [Gray](https://www.maxcgo.com/products/usb-heated-seat-cushion?variant=67852279939387)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_c423330f-a59f-431a-8a86-05594f46e10c.png?v=1793475191
+    Price: $34.99 USD
+  - [Black](https://www.maxcgo.com/products/usb-heated-seat-cushion?variant=67852279972155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_ca5c366f-6762-42a8-805a-28755dccc1fd.png?v=1793475272
+    Price: $34.99 USD
+- [Knee Support Sleeve with Adjustable Straps | MaxCgo](https://www.maxcgo.com/products/adjustable-knee-support-sleeve): Find your comfortable fit with the MaxCgo knee support sleeve. Adjustable straps let you personalize the fit for your everyday routine.
+  Updated: 2026-11-05T17:15:48Z
+  Vendor: MaxCgo
+  Product Type: Knee Support Sleeve
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+  - [Light Gray M / Single (1 Piece)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852282954043)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $19.99 USD
+  - [Light Gray M / Pair (2 Pieces)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852565348667)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $34.99 USD
+  - [Light Gray L / Single (1 Piece)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852285378875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $19.99 USD
+  - [Light Gray L / Pair (2 Pieces)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852565381435)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $34.99 USD
+  - [Light Gray XL / Single (1 Piece)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852285411643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $19.99 USD
+  - [Light Gray XL / Pair (2 Pieces)](https://www.maxcgo.com/products/adjustable-knee-support-sleeve?variant=67852565414203)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_902a5d92-2645-4686-aea8-5bbf6d960d85.png?v=1793471157
+    Price: $34.99 USD
+- [Portable Heated Blanket: Zip-Up USB Heated Shawl Comfort](https://www.maxcgo.com/products/usb-heated-shawl): Experience hands-free comfort with our Zip-Up USB Heated Shawl. Stay cozy while you work with this innovative portable heated blanket!
+  Updated: 2026-11-05T23:43:27Z
+  Vendor: http://detail.1688.com/offer/1091235101081.html
+  Product Type: Heated Seat Cushion
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/IMG_3790.jpg?v=1793593895
+  - [Classic Brown / Shawl Only](https://www.maxcgo.com/products/usb-heated-shawl?variant=67852288164155)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/classic-brown.png?v=1793591830
+    Price: $59.99 USD
+  - [Classic Brown / Shawl + Power Bank (+$10)](https://www.maxcgo.com/products/usb-heated-shawl?variant=67869113844027)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/10000mah.png?v=1793595556
+    Price: $69.99 USD
+  - [Classic Beige / Shawl Only](https://www.maxcgo.com/products/usb-heated-shawl?variant=67852288196923)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/classic-beige_8bf2f30a-ea79-4f6a-89d3-35c2503cb410.png?v=1793593057
+    Price: $59.99 USD
+  - [Classic Beige / Shawl + Power Bank (+$10)](https://www.maxcgo.com/products/usb-heated-shawl?variant=67869113876795)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/classic-beige_8bf2f30a-ea79-4f6a-89d3-35c2503cb410.png?v=1793593057
+    Price: $69.99 USD
+  - [Textured Gray / Shawl Only](https://www.maxcgo.com/products/usb-heated-shawl?variant=67852288229691)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_6040ccb3-6454-491b-b24d-a703d454d6cd.png?v=1793592049
+    Price: $59.99 USD
+  - [Textured Gray / Shawl + Power Bank (+$10)](https://www.maxcgo.com/products/usb-heated-shawl?variant=67869113909563)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_6040ccb3-6454-491b-b24d-a703d454d6cd.png?v=1793592049
+    Price: $69.99 USD
+  - [Textured Beige / Shawl Only](https://www.maxcgo.com/products/usb-heated-shawl?variant=67867186659643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_a9f12fd8-0ed5-41a2-a503-2242955cb375.png?v=1793592097
+    Price: $59.99 USD
+  - [Textured Beige / Shawl + Power Bank (+$10)](https://www.maxcgo.com/products/usb-heated-shawl?variant=67869113942331)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_a9f12fd8-0ed5-41a2-a503-2242955cb375.png?v=1793592097
+    Price: $69.99 USD
+- [Ultra-Slim 10,000mAh Power Bank For Heated Shawl](https://www.maxcgo.com/products/ultra-slim-10-000mah-power-bank): An ultra-slim power bank with a 10,000mAh capacity, available as an accessory for your MaxCgo heated shawl.Includes one power bank. Heated shawl sold separately.
+  Updated: 2026-11-05T01:10:10Z
+  Vendor: Maxcgo
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_c6e44abc-363f-40d2-b4b2-c70ee84ede5c.png?v=1793597597
+  Price: $10.00 USD
+- [Electric Heated Booties | MaxCgo](https://www.maxcgo.com/products/electric-heated-booties): Keep cold feet cozy with MaxCgo heated booties. Soft fabric and adjustable warmth make relaxing at home more comfortable.
+  Updated: 2026-11-06T19:12:56Z
+  Vendor: http://detail.1688.com/offer/1043059759625.html
+  Product Type: Heated Booties
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+  - [Brown / 34~35](https://www.maxcgo.com/products/electric-heated-booties?variant=67906445738299)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 34~35](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446524731)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 34~35](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446557499)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
+  - [Brown / 36~37](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446623035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 36~37](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446655803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 36~37](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446688571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
+  - [Brown / 38~39](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446754107)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 38~39](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446786875)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 38~39](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446819643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
+  - [Brown / 40~41](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446885179)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 40~41](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446917947)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 40~41](https://www.maxcgo.com/products/electric-heated-booties?variant=67906446950715)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
+  - [Brown / 41~42](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447016251)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 41~42](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447049019)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 41~42](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447081787)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
+  - [Brown / 42~43](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447147323)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_8b652e2e-84d4-4e14-ab4e-49cd90c0b2e3.png?v=1793943055
+    Price: $89.99 USD
+  - [Gray / 42~43](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447180091)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_1ea00725-14d7-46a7-875a-f86e8cc8f893.png?v=1793943116
+    Price: $89.99 USD
+  - [Beige / 42~43](https://www.maxcgo.com/products/electric-heated-booties?variant=67906447212859)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0958/1215/7755/files/generated-image_9acd289f-b870-4fef-b9af-e130fa426f05.png?v=1793943172
+    Price: $89.99 USD
 
 ## Collections
 
 - [Comfort](https://www.maxcgo.com/collections/comfort): Shop the MaxCgo Comfort collection of honeycomb seat cushions for office chairs, home seating, wheelchairs, cars and motorcycles. Find your everyday comfort.
-  Updated: 2026-10-28T18:20:43Z
+  Updated: 2026-11-05T16:25:54Z
+  Total Products: 8
+- [Targeted Support & Care](https://www.maxcgo.com/collections/massage-relaxation): Make time to unwind with MaxCgo's massage and relaxation range. Explore products designed to bring comfort to your everyday routine, with product-specific options for warmth, vibration, and adjustable support.Check each product page for features, fit, and operating instructions to choose the option that suits your needs.
+  Updated: 2026-11-06T18:09:20Z
   Total Products: 7
-- [Massage & Relaxation](https://www.maxcgo.com/collections/massage-relaxation): Make time to unwind with MaxCgo's massage and relaxation range. Explore products designed to bring comfort to your everyday routine, with product-specific options for warmth, vibration, and adjustable support.Check each product page for features, fit, and operating instructions to choose the option that suits your needs.
-  Updated: 2026-10-29T19:16:40Z
-  Total Products: 3
 
 ## Blogs
 
@@ -214,6 +388,15 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   - [TPE vs Silicone: Which Seat Cushion Material Is Right for You?](https://www.maxcgo.com/blogs/maxcgo-blog/tpe-vs-silicone-which-seat-cushion-material-is-right-for-you): TPE vs Silicone: Which Seat Cushion Material Is Right for You?
     Updated: 2026-10-29T16:56:53Z
     Author: MaxCgo
+  - [The Importance of Easy-to-Clean Seat Cushions in Everyday Life](https://www.maxcgo.com/blogs/maxcgo-blog/the-importance-of-easy-to-clean-seat-cushions-in-everyday-life): The Importance of Easy-to-Clean Seat Cushions in Everyday Life
+    Updated: 2026-10-31T20:08:48Z
+    Author: MaxCgo
+  - [Transform Your Chair Comfort with a Breathable Seat Cushion](https://www.maxcgo.com/blogs/maxcgo-blog/transform-your-chair-comfort-with-a-breathable-seat-cushion): Transform Your Chair Comfort with a Breathable Seat Cushion
+    Updated: 2026-11-03T20:05:23Z
+    Author: MaxCgo
+  - [Durable Design: Finding the Best Honeycomb TPE Seat Cushion for You](https://www.maxcgo.com/blogs/maxcgo-blog/durable-design-finding-the-best-honeycomb-tpe-seat-cushion-for-you): Durable Design: Finding the Best Honeycomb TPE Seat Cushion for You
+    Updated: 2026-11-05T17:15:21Z
+    Author: MaxCgo
 
 ## Store Pages
 
@@ -225,8 +408,8 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
   Updated: 2026-10-14T11:34:56Z
 - [Fishing Seat Cushion for Long Days on the Water | MaxCgo](https://www.maxcgo.com/pages/fishing-seat-cushion): Stay Comfortable. Fish Longer. Long hours on a boat, dock, or bank can make a hard seat feel even harder. The MaxCgo honeycomb TPE seat cushion add...
   Updated: 2026-10-14T11:34:53Z
-- [About MaxCgo | Everyday Comfort Products](https://www.maxcgo.com/pages/about-us-1): Everyday Comfort. At the Heart of MaxCgo.At MaxCgo, our focus is simple: products that help make everyday life more comfortable.Comfort can mean su...
-  Updated: 2026-10-28T17:54:57Z
+- [About MaxCgo | Ergonomic Comfort & Everyday Wellbeing](https://www.maxcgo.com/pages/about-us-1): Thoughtful Design for Everyday Wellbeing.At MaxCgo, we bring together ergonomic seating, lumbar support, massage, and warming essentials for everyd...
+  Updated: 2026-10-30T02:53:12Z
 - [Honeycomb Seat Cushion FAQ | MaxCgo](https://www.maxcgo.com/pages/maxcgo-cushion-faq): Common Questions 1. What makes MaxCgo honeycomb cushions different? MaxCgo cushions feature an open honeycomb structure designed to provide flexibl...
   Updated: 2026-10-24T16:57:50Z
 - [HTML Sitemap](https://www.maxcgo.com/pages/html-sitemap): Products MaxCgo Honeycomb TPE Gel Seat Cushion — Standard MaxCgo Honeycomb TPE Gel Seat Cushion — Large Blogs MaxCgo Blog Blogs Posts Breathable Wh...
@@ -235,7 +418,7 @@ MaxCgo offers honeycomb TPE comfort seat cushions for everyday sitting. Explore 
 ## Policies
 
 - [Privacy Policy](https://www.maxcgo.com/policies/privacy-policy)
-  Updated: 2026-05-26T17:39:13Z
+  Updated: 2026-10-30T18:01:25Z
 - [Shipping Policy](https://www.maxcgo.com/policies/shipping-policy)
   Updated: 2026-08-25T17:15:35Z
 - [Refund Policy](https://www.maxcgo.com/policies/refund-policy)
