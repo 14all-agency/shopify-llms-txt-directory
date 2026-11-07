@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-10-31T00:19:30.247Z
+- Updated At: 2026-11-07T00:19:36.327Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -310,8 +310,8 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:02Z
   Total Products: 0
 - [Genouillère ménisque](https://novaplusstor.com/collections/genouillere-menisque): Genouillères spéciales ménisque pour protéger et soulager les douleurs liées aux lésions méniscales. Maintien stable et confort durable.
-  Updated: 2026-09-04T18:43:03Z
-  Total Products: 0
+  Updated: 2026-11-06T22:37:10Z
+  Total Products: 10
 - [Genouillère tendinite](https://novaplusstor.com/collections/genouillere-tendinite): Genouillères pour tendinite rotulienne et tendinopathie du genou. Compression ciblée pour soulager la douleur et accélérer la récupération.
   Updated: 2026-09-04T18:43:03Z
   Total Products: 0
@@ -364,7 +364,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:03Z
   Total Products: 0
 - [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail-hub): Genouillères de travail pour carreleurs, bricoleurs et jardiniers. Protection maximale des genoux pour tous vos travaux professionnels sur Nova+.
-  Updated: 2026-09-13T11:43:34Z
+  Updated: 2026-11-01T21:15:39Z
   Total Products: 2
 - [Genouillère Entorse](https://novaplusstor.com/collections/genouillere-entorse): Genouillères pour entorse du genou : stabilisation, maintien ligamentaire et reprise d'activité. Trouvez la solution adaptée sur Nova+.
   Updated: 2026-08-12T16:36:37Z
