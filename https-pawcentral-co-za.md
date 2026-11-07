@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-10-30T01:23:39.222Z
+- Updated At: 2026-11-07T01:18:41.030Z
 
 ## Products
 
@@ -1453,6 +1453,18 @@
     Author: PawCentral
   - [Preventing Pet Obesity through Effective Diet and Exercise Strategies](https://pawcentral.co.za/blogs/news/preventing-pet-obesity-through-effective-diet-and-exercise-strategies): Preventing Pet Obesity through Effective Diet and Exercise Strategies
     Updated: 2026-10-28T00:46:13Z
+    Author: PawCentral
+  - [10 Signs Your Dog Might Need More Exercise Than You Think](https://pawcentral.co.za/blogs/news/10-signs-your-dog-might-need-more-exercise-than-you-think): 10 Signs Your Dog Might Need More Exercise Than You Think
+    Updated: 2026-10-31T00:08:02Z
+    Author: PawCentral
+  - [Solving Feisty Feline Behavior: Quick Solutions](https://pawcentral.co.za/blogs/news/solving-feisty-feline-behavior-quick-solutions): Solving Feisty Feline Behavior: Quick Solutions
+    Updated: 2026-11-02T01:01:51Z
+    Author: PawCentral
+  - [How to Choose the Right Pet Food for Long-Term Health](https://pawcentral.co.za/blogs/news/how-to-choose-the-right-pet-food-for-long-term-health): How to Choose the Right Pet Food for Long-Term Health
+    Updated: 2026-11-04T00:46:35Z
+    Author: PawCentral
+  - [Tips for Daily Pet Grooming Without a Fuss](https://pawcentral.co.za/blogs/news/tips-for-daily-pet-grooming-without-a-fuss): Tips for Daily Pet Grooming Without a Fuss
+    Updated: 2026-11-07T00:09:13Z
     Author: PawCentral
 
 ## Store Pages
