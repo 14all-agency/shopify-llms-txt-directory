@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-09-11T10:54:23Z
 - Contact Email: neha.kwatra176@gmail.com
-- Updated At: 2026-10-31T00:23:41.134Z
+- Updated At: 2026-11-07T00:26:02.999Z
 
 IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our entire skincare range at Lazy Lizard Skincare. This limited-time  applies automatically at checkout.
 
@@ -39,13 +39,13 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Availability: Available
     Price: ₹849.00 INR
 - [Glass Skin Face Cream India – PDRN Boba Cream | Lazy Lizard](https://lazylizardcare.com/products/lazy-lizard-boba-cream-55gm): Lazy Lizard Boba Cream with Niacinamide, Vitamin C, Rice Ferment Filtrate & advanced actives for Glass skin, hydration, brightening and healthy-looking skin.
-  Updated: 2026-10-30T13:14:08Z
+  Updated: 2026-11-06T06:46:48Z
   Vendor: LazyLizard-skincare
   Product Type: Face cream
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/IMG_1130.png?v=1791587167
   - [Boba Cream (55g)](https://lazylizardcare.com/products/lazy-lizard-boba-cream-55gm?variant=67780975493442)
-    Availability: Available
+    Availability: Not Available
     Price: ₹888.00 INR
   - [Boba Cream + Steel Gua Sha](https://lazylizardcare.com/products/lazy-lizard-boba-cream-55gm?variant=67780975526210)
     Availability: Available
@@ -69,11 +69,11 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/IMG_0564.png?v=1788935647
     Price: ₹1,740.00 INR
 - [Lazy Lizard Loot Box](https://lazylizardcare.com/products/rakhi-glow-skincare-hamper): Experience the complete head-to-toe inside-out glow ritual with the Ultimate 10-in-1 Lazy Lizard Loot Box by Lazy Lizard. Designed to make high-science skincare and daily nutrition effortless, this mega set covers essential barrier hydration, targeted blemish control, soothing sleep prep, facial sculpting, and cellular antioxidant wellness. ✨ Why You'll Love It Inside-Out Glow Routine: Unites daily topical skincare, lymphatic sculpting, and cellular effervescent nutrition in one master collection. Ultra-Luxe Gifting: The ultimate gift-ready showstopper for bridal hampers, festive celebrations, milestone birthdays, or an all-inclusive self-care haul. Clean, Barrier-First Actives: Gentle, biocompatible formulas paired with -grade stainless steel and skin-friendly lifestyle essentials. What’s Inside the Box? (10 Pieces) 1. Sip Glow Liposomal Glutathione Effervescent Tablets Refreshing effervescent drink tablets formulated with antioxidant-rich liposomal glutathione and Vitamin C to protect against oxidative stress and promote a luminous, even-toned complexion from within. 2. Lazy Lizard Signature Ceramic Mug A premium, aesthetic ceramic keepsake mug crafted for enjoying your daily Sip Glow effervescent fizz, morning matcha, or evening tea. 3. Twin Fusion Luxe Face Toner A bi-phasic toner that balances natural pH levels, deeply quenches thirst, restores the delicate barrier, and primes skin for enhanced product penetration. 4. PDRN Glow & Barrier Repair Serum (30ml) A lightweight, deeply penetrating serum powered by bio-compatible PDRN and brightening actives to restore compromised barriers, improve elasticity, and fade post-blemish marks. 5. PDRN Powered Boba Cream (55g) A rich, barrier-fortifying gel-cream infused with Rose PDRN, Licorice PDRN, and bursting hydration pearls that lock in moisture for a plump, bouncy glass-skin finish. 6. Stainless Steel Gua Sha Facial Sculpting Tool An unbreakable, naturally cooling ergonomic steel tool engineered to relieve facial muscle tension, accelerate lymphatic drainage, and define the jawline and cheekbones. 7. Bio-Collagen Real Deep Overnight Sheet Mask An intensive overnight hydrogel sheet mask formulated to deeply nourish, enhance skin elasticity, and wake you up with bouncy, radiant glass skin. 8. 100% Pure Cotton Sleep Eye Mask An ultra-soft, breathable 100% pure cotton eye mask that naturally blocks out light while remaining gentle and friction-free around delicate eyes for restful beauty sleep. 9. Transparent Hydrocolloid Acne Pimple Patches (1 Strip / 36 Patches) Ultra-thin, invisible transparent hydrocolloid patches designed to absorb impurities and pus, reduce redness, and protect active blemishes seamlessly day or night. 10. Brightening SPF 30 Lip Balm A buttery, non-greasy balm that protects delicate lips against daily UV exposure, softens chapped texture, and helps fade sun-induced pigmentation. How to Use in Your Daily Ritual: Internal Radiance: Drop 1 Sip Glow tablet into water inside your Lazy Lizard ceramic mug, let it dissolve, and drink daily. Cleanse & Layer: Shake and apply Twin Fusion Toner across clean skin, follow with 2–3 drops of PDRN Serum, and seal with a dollop of Boba Cream. Sculpt & Shield: Glide the Stainless Steel Gua Sha upwards along the jaw and cheekbones over moisturized skin. Apply SPF 30 Lip Balm and apply a Transparent Acne Patch directly over any active blemishes. Overnight Reset & Rest: Apply the Bio-Collagen Overnight Sheet Mask, slip on the 100% Cotton Sleep Eye Mask, and enjoy restorative, undisturbed beauty sleep.
-  Updated: 2026-10-28T13:07:05Z
+  Updated: 2026-11-03T17:25:25Z
   Vendor: LazyLizard-skincare
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/loot_box.png?v=1792332914
+  Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/IMG_8058.png?v=1793615119
   Price: ₹2,999.00 INR
 - [Mess Less Glow More Hamper](https://lazylizardcare.com/products/glow-sculpt-hamper): Treat yourself or someone special to the complete Lazy Lizard luxury ritual. This 7-piece glow set combines daily prep, deep barrier hydration, targeted blemish care, overnight recovery, and lymphatic facial sculpting—curated to deliver effortless, glass-skin radiance from morning to night. ✨ Why You'll Love It Complete 7-in-1 Glass Skin Ritual: Covers every single step—from toning and barrier plumping to jawline contouring and overnight repair. Gift-Ready & Luxe: Thoughtfully bundled for festive gifting, bridal hampers, birthdays, or an indulgent Sunday reset. Clean & Barrier-Safe: Formulated with biocompatible actives, gentle hydrocolloid, and -grade stainless steel suitable for all skin types. What’s Inside the Box? 1. Stainless Steel Gua Sha Facial Sculpting Tool An unbreakable, naturally cooling ergonomic tool designed to relieve facial tension, stimulate lymphatic drainage, and sculpt the jawline and cheekbones. 2. Twin Fusion Luxe Face Toner A bi-phasic toner that balances pH, quenches dehydration, restores the moisture barrier, and preps your face for maximum skincare absorption. 3. PDRN Powered Boba Cream (55g) An ultra-nourishing barrier moisturizer packed with Rose & Licorice PDRN, Niacinamide, and bursting hydration pearls for a soft, bouncy glass-skin finish. 4. Bio-Collagen Real Deep Overnight Sheet Mask An intensive overnight hydrogel sheet mask formulated to deeply nourish, enhance skin elasticity, and wake you up with bouncy, radiant glass skin. 5. 100% Pure Cotton Sleep Eye Mask An ultra-soft, breathable 100% pure cotton eye mask designed to naturally block light, reduce delicate eye friction, and protect your skin during restful beauty sleep. 6. Transparent Hydrocolloid Acne Pimple Patches (1 Strip / 36 Patches) Ultra-thin, invisible transparent hydrocolloid patches that absorb impurities, flatten active breakouts overnight, and protect spots seamlessly. 7. Brightening SPF 30 Lip Balm A melt-in nourishing balm that defends lips against UV damage, smooths chapping, and brightens pigmentation for soft, supple lips. How to Use in Your Daily Ritual: Prep & Hydrate: Shake well and sweep the Twin Fusion Toner over clean skin. Smooth Boba Cream over your face and neck to lock in moisture and create smooth glide. Sculpt & Protect: Gently glide the Stainless Steel Gua Sha along your jawline and cheekbones in upward strokes. Protect lips with SPF 30 Lip Balm, and stick a Transparent Acne Patch directly on active spots. Overnight Reset & Rest: Apply the Bio-Collagen Overnight Sheet Mask, slip on the 100% Cotton Sleep Eye Mask, and enjoy restorative beauty sleep.
   Updated: 2026-10-19T03:02:23Z
@@ -151,7 +151,7 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/Acne_Pimple_patch.png?v=1788935646
   Price: ₹150.00 INR
 - [Bio-Collagen Real Deep Mask](https://lazylizardcare.com/products/bio-collagen-real-deep-mask): Transform tired, dull skin overnight with the Bio-Collagen Real Deep Mask. Formulated with oligo-hyaluronic acid, low-molecular collagen, and probiotic galactomyces, this hydrogel mask penetrates deeply to boost elasticity, refine enlarged pores, and restore an intense dewy glow while you sleep. 💧 Deep Hydration Oligo-Hyaluronic ✨ Firming & Lift Low-Molecular Collagen 🔬 Pore Minimizing Galactomyces Ferment 🌙 Overnight Care Turns Transparent Key Benefits Visible Ingredient Absorption: Mask gradually turns transparent as active serums absorb completely into the skin. High-Potency Active Complex: Infused with 50,000 ppm Galactomyces, 50,000 ppm Hyaluronic Acid solution, and 50,000 ppm Collagen. Barrier Strengthening: Restores moisture levels and improves skin texture and elasticity. How to Use After cleansing and toning, prepare skin with your regular serum or ampoule. Apply the bottom half of the mask first around the mouth, then align the top half over eyes and forehead. Leave on for 3–4 hours or overnight until the mask becomes completely transparent. Gently remove and pat remaining essence. Net Weight: 34g / 1.19 oz | Single Sheet Hydrogel Mask | Suitable for all skin types.
-  Updated: 2026-10-25T15:59:35Z
+  Updated: 2026-11-01T14:18:15Z
   Vendor: LazyLizard-skincare
   Product Type: 
   Availability: Available
@@ -165,7 +165,7 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Image: https://cdn.shopify.com/s/files/1/0961/4180/3842/files/guasha_white_background.jpg?v=1791835746
   Price: ₹649.00 INR
 - [Pure Silk Sleep Mask (Midnight Black)](https://lazylizardcare.com/products/pure-silk-sleep-mask-midnight-black): Experience undisturbed, restorative beauty sleep with our Pure Silk Sleep Mask in Midnight Black. Designed to completely block out ambient light while being gentle on the delicate eye area, it prevents friction, sleep creases, and moisture loss throughout the night. 🌑 100% Blackout Zero Light Leak ✨ Anti-Crease Reduces Wrinkles 💆 Zero Pressure Comfort Eye Fit 🪶 Adjustable Strap Snag-Free Band Why You'll Love It Protects Eye Creams & Serums: Non-absorbent fabric ensures your night skincare stays on your skin, not on your pillow. Deep REM Sleep: Total light blocking triggers melatonin production for faster, deeper sleep. Gentle on Lashes & Skin: Reduces tugging and friction on sensitive under-eye skin and eyelash extensions. Care Instructions Hand wash gently in cold water with mild detergent. Lay flat to air dry in shade. Do not machine tumble dry or bleach. Color: Midnight Black | Includes soft elasticated head strap.
-  Updated: 2026-10-30T08:47:41Z
+  Updated: 2026-11-01T07:20:44Z
   Vendor: LazyLizard-skincare
   Product Type: 
   Availability: Available
@@ -182,7 +182,7 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
 ## Collections
 
 - [Home page](https://lazylizardcare.com/collections/frontpage)
-  Updated: 2026-10-30T11:15:49Z
+  Updated: 2026-11-06T12:18:43Z
   Total Products: 3
 - [Skin Toner](https://lazylizardcare.com/collections/skin-toner)
   Updated: 2026-09-17T12:26:35Z
@@ -197,22 +197,22 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
   Updated: 2026-09-17T12:26:35Z
   Total Products: 2
 - [Lazy Lizard Products](https://lazylizardcare.com/collections/feature-product-01)
-  Updated: 2026-10-30T11:15:49Z
+  Updated: 2026-11-06T12:18:43Z
   Total Products: 6
 - [Feature Product -02](https://lazylizardcare.com/collections/feature-product-02)
   Updated: 2026-10-23T11:24:17Z
   Total Products: 2
 - [Gift Products](https://lazylizardcare.com/collections/gift-products)
-  Updated: 2026-10-27T11:19:14Z
+  Updated: 2026-10-31T11:16:14Z
   Total Products: 8
 - [Mugs](https://lazylizardcare.com/collections/mugs)
   Updated: 2026-10-12T09:46:23Z
   Total Products: 1
 - [Skin Care Essentials](https://lazylizardcare.com/collections/skin-care-essentials)
-  Updated: 2026-10-30T11:15:49Z
+  Updated: 2026-11-02T12:15:49Z
   Total Products: 4
 - [Lazy Lizard Products + Skincare essentials](https://lazylizardcare.com/collections/lazy-lizard-products-skincare-essentials)
-  Updated: 2026-10-30T11:15:49Z
+  Updated: 2026-11-02T12:15:49Z
   Total Products: 8
 
 ## Blogs
@@ -474,6 +474,9 @@ IMPORTANT: We are currently running a "Buy 1 Get 1 FREE" (BOGO)  across our enti
     Author: Meenakshi Chaudhary
   - [Identifying and Correcting Yoga Form Mistakes for Better Results](https://lazylizardcare.com/blogs/yoga/identifying-and-correcting-yoga-form-mistakes-for-better-results): Identifying and Correcting Yoga Form Mistakes for Better Results
     Updated: 2026-10-09T23:04:42Z
+    Author: Meenakshi Chaudhary
+  - [How to Prevent Yoga-Related Neck Strain with Simple Modifications](https://lazylizardcare.com/blogs/yoga/how-to-prevent-yoga-related-neck-strain-with-simple-modifications): How to Prevent Yoga-Related Neck Strain with Simple Modifications
+    Updated: 2026-10-31T05:38:54Z
     Author: Meenakshi Chaudhary
 
 ## Store Pages
