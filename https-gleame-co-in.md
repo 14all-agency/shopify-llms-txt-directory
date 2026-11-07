@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-09-09T06:52:22Z
 - Contact Email: noreply@gleame.co.in
-- Updated At: 2026-10-30T01:03:21.006Z
+- Updated At: 2026-11-07T00:48:38.391Z
 
 ## Products
 
 - [Balaclava Ninja Hoodie - Men & Women - Gleame](https://gleame.co.in/products/balaclava-hoodie-with-mask-black): Product Details Crafted from a premium fleece cotton blend, this hoodie combines comfort, durability, and modern streetwear style. Featuring a built-in balaclava mask, it offers versatile wear for both casual and outdoor settings. Features: Material: Fleece Cotton blend (soft, warm, and durable) Sleeve: Long sleeves with ribbed cuffs Neck: Hooded with full zip-up closure Design: All-in-one hoodie with integrated balaclava mask Breathable: Mask made from breathable fabric for all-day comfort Fit: Tailored modern fit for a sleek look Style: Unisex design, suitable for men and women Care Instructions: Machine wash cold at 30°C / 85°F Do not bleach Do not tumble dry Do not dry clean Iron on low heat if needed Additional Details: Standard length hoodie with adjustable coverage Built-in balaclava for extra warmth and protection Ideal for everyday wear, outdoor activities, and urban fashion - Gleame
-  Updated: 2026-10-27T14:13:56Z
+  Updated: 2026-11-02T13:16:40Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -503,28 +503,28 @@
     Availability: Available
     Price: ₹7,999.00 INR
 - [Black Cropped Metal Clasp Leather Jacket](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket): Product Details Black Cropped Metal Clasp Leather Jacket designed for a bold, modern streetwear aesthetic. Featuring a sleek black finish, a statement metal clasp closure, and a trendy cropped silhouette, this jacket brings an edgy yet sophisticated touch to any outfit. Its structured design and contemporary styling make it a standout essential for those who appreciate premium streetwear with a rebellious edge. Style Highlights: Statement Metal Clasp Closure Sleek Black Leather-Look Finish Trendy Cropped Silhouette Edgy Minimalist Design with a Premium Streetwear Aesthetic Features: Fit: Contemporary cropped fit Fabric: Leather or leather-look material Closure: Statement metal clasp fastening Color: Classic black Design: Structured silhouette with a sleek, edgy finish Style: Modern luxury-inspired streetwear Care Instructions: Do not machine wash to protect the material and structure. Do not bleach or use harsh cleaning chemicals. Wipe gently with a soft, slightly damp cloth to remove surface dirt. Do not tumble dry or expose to direct heat. Keep away from prolonged direct sunlight to help prevent fading and damage. Store on a padded hanger in a cool, dry place. For stubborn stains, consult a professional cleaner experienced with leather or synthetic leather. Additional Details: A timeless black finish that adds an edgy and sophisticated touch to your wardrobe. A statement metal clasp closure that elevates the jacket's contemporary design. A cropped silhouette perfect for creating bold, fashion-forward outfits. Versatile styling that pairs effortlessly with baggy jeans, cargo pants, fitted tops, and boots. Perfect for everyday streetwear, night outings, concerts, and statement fashion looks. Designed for effortless layering and a confident, modern aesthetic.
-  Updated: 2026-10-27T08:02:56Z
+  Updated: 2026-10-30T08:31:44Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0700/6070/3898/files/Edgy_Aviator_Streetwear_Portrait.png?v=1792843116
   - [S](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711739546)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,499.00 INR
   - [M](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711772314)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,499.00 INR
   - [L](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711805082)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,499.00 INR
   - [XL](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711837850)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,499.00 INR
   - [2XL](https://gleame.co.in/products/black-cropped-metal-clasp-leather-jacket?variant=67948711870618)
     Availability: Available
-    Price: ₹1,899.00 INR
+    Price: ₹2,499.00 INR
 - [GLEAME FRAN SHIRT - WHITE SILK](https://gleame.co.in/products/gleame-fran-shirt-white-silk): Crafted in luxurious white silk crepe, the GLEAME Fran Shirt features an oversized silhouette, a refined point collar, a classic button placket, and elegant French cuffs for a modern, understated look. Its signature self-tie sashes offer versatile styling options. Tie them at the back for a cinched fit, cross them at the front for a wrap silhouette, or leave them loose for a relaxed finish. DETAILS Colour: White Fabric: Silk crepe Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Dry clean only. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on low heat using a protective cloth, if needed. Store in a cool, dry place away from direct sunlight. Hang on a padded hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
-  Updated: 2026-10-29T19:29:37Z
+  Updated: 2026-11-06T20:28:26Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -545,7 +545,7 @@
     Availability: Available
     Price: ₹2,799.00 INR
 - [FRAN SHIRT - BLACK CUPRO](https://gleame.co.in/products/fran-shirt-black-cupro): Crafted in luxurious black cupro, the GLEAME Fran Shirt combines an oversized silhouette with a refined point collar, a classic button placket, and elegant French cuffs for a sophisticated, contemporary look. Its signature self-tie sashes create versatile styling possibilities. Tie them at the back for a cinched silhouette, cross them at the front for a wrap effect, or leave them loose for an effortlessly relaxed finish. DETAILS Colour: Black Fabric: Cupro Fit: Oversized Collar: Point collar Closure: Front button placket Cuffs: French cuffs Design: Adjustable self-tie sashes Style: Contemporary luxury CARE INSTRUCTIONS Follow the care label; professional dry cleaning is recommended until the fabric's specific care requirements are confirmed. Do not bleach or use harsh detergents. Avoid wringing or twisting the fabric. Iron on a low temperature suitable for cupro, using a protective cloth if needed. Store in a cool, dry place away from direct sunlight. Hang on a suitable hanger to maintain its shape. Avoid direct contact with perfumes and deodorants. GLEAME — Designed to be worn your way.
-  Updated: 2026-10-29T18:50:06Z
+  Updated: 2026-11-06T17:54:03Z
   Vendor: Gleame
   Product Type: 
   Availability: Available
@@ -569,82 +569,82 @@
 ## Collections
 
 - [Hoodie](https://gleame.co.in/collections/balaclava-hoodies): - Gleame
-  Updated: 2026-10-28T11:15:47Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 7
 - [Jacket](https://gleame.co.in/collections/jacket): - Gleame
-  Updated: 2026-07-15T16:25:35Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 2
 - [Leather Jacket](https://gleame.co.in/collections/leather-jacket): - Gleame
-  Updated: 2026-07-15T16:25:35Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 0
 - [Top ](https://gleame.co.in/collections/top-): - Gleame
-  Updated: 2026-09-15T08:53:09Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 2
 - [Search collection](https://gleame.co.in/collections/search-collection): - Gleame
-  Updated: 2026-10-28T11:15:47Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 6
 - [Nihilist Penguine](https://gleame.co.in/collections/nihilist-penguine): - Gleame
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 4
 - [Demon Slayer](https://gleame.co.in/collections/demon-slayer): - Gleame
-  Updated: 2026-10-22T11:19:16Z
+  Updated: 2026-11-04T13:05:41Z
   Total Products: 19
 - [Hunter x Hunter](https://gleame.co.in/collections/hunter-x-hunter): Discover the best Hunter x Hunter merchandise! Explore our exclusive collection, featuring unique apparel, collectibles, and more for every true fan. Shop now and elevate your fandom!
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [One Piece](https://gleame.co.in/collections/one-piece): Explore our exclusive One Piece collection, featuring unique styles inspired by the beloved anime series. Shop now for distinctive pieces that bring adventure to your wardrobe!
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 11
 - [Black Clover](https://gleame.co.in/collections/black-clover): Explore our exclusive Black Clover merchandise collection! Find unique apparel, accessories, and collectibles that every fan will love. Shop now and unleash your inner magic!
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 1
 - [Attack On Titan](https://gleame.co.in/collections/aot): Explore our exclusive collection of Attack On Titan merchandise! Find unique apparel, collectibles, and accessories that bring your favorite anime to life. Shop now!
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Anime Collection](https://gleame.co.in/collections/anime): Discover our Anime Merchandise Collection and unleash your fandom! Shop unique apparel, accessories, and collectibles that showcase your love for anime today!
-  Updated: 2026-10-22T11:19:16Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 60
 - [Jujutsu Kaisen](https://gleame.co.in/collections/jujutsu-kaisen): Shop the ultimate Jujutsu Kaisen Merchandise collection! Discover exclusive apparel, accessories, and collectibles that let you embrace the spirit of your favorite anime.
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 11
 - [Naruto](https://gleame.co.in/collections/naruto): - Gleame
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 8
 - [Baki](https://gleame.co.in/collections/baki): - Gleame
-  Updated: 2026-07-15T16:25:36Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 3
 - [Berserk](https://gleame.co.in/collections/berserk): - Gleame
-  Updated: 2026-07-29T09:10:52Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 3
 - [Bleach](https://gleame.co.in/collections/bleach): - Gleame
-  Updated: 2026-07-29T09:10:56Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 4
 - [Anime Jersey](https://gleame.co.in/collections/anime-jersey): - Gleame
-  Updated: 2026-08-26T11:15:46Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 7
 - [CNY Jacket](https://gleame.co.in/collections/cny-jacket)
-  Updated: 2026-09-06T11:17:02Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 10
 - [Football Jersey](https://gleame.co.in/collections/football-jersey)
-  Updated: 2026-10-24T16:07:27Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 7
 - [Track Pants](https://gleame.co.in/collections/track-pants)
-  Updated: 2026-08-11T11:17:21Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Best Seller](https://gleame.co.in/collections/best-seller)
-  Updated: 2026-08-25T11:16:17Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 6
 - [Hanfu](https://gleame.co.in/collections/hanfu)
-  Updated: 2026-08-09T09:45:02Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Sukuna](https://gleame.co.in/collections/sukuna)
-  Updated: 2026-10-25T11:32:40Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 2
 - [Search](https://gleame.co.in/collections/search)
-  Updated: 2026-10-28T11:15:47Z
+  Updated: 2026-11-04T13:05:42Z
   Total Products: 3
 - [Shirt](https://gleame.co.in/collections/shirt)
-  Updated: 2026-10-29T12:33:37Z
+  Updated: 2026-11-05T12:19:06Z
   Total Products: 2
 
 ## Blogs
@@ -952,8 +952,6 @@
   Updated: 2026-05-26T12:08:22Z
 - [Wishlist](https://gleame.co.in/pages/wishlist)
   Updated: 2025-09-20T12:47:46Z
-- [FlexyPe Checkout](https://gleame.co.in/pages/flexy-checkout): const s=new URLSearchParams(window.location.search).get("session");if(s){document.body.innerHTML="Redirecting to FlexyPe CheckoutPlease wait while ...
-  Updated: 2026-01-27T08:48:35Z
 - [Frequently Asked Questions](https://gleame.co.in/pages/avada-faqs): .main-page-title.page-title { display: none !important; } .avada-loading { display: none; text-align: center; padding: 40px; font-size: 16px; color...
   Updated: 2026-03-02T16:01:04Z
 - [html sitemap products](https://gleame.co.in/pages/html-sitemap-products): Products Balaclava Hoodie - Black Balaclava Ninja Hoodie - Men &... Black Ferrari Jacket – Premium... Ferrari F1 Motorsport Vintage ... Spider Man ...
@@ -968,12 +966,6 @@
   Updated: 2026-05-09T16:59:51Z
 - [html sitemap](https://gleame.co.in/pages/html-sitemap): Products Balaclava Hoodie - Black Balaclava Ninja Hoodie - Men &... Black Ferrari Jacket – Premium... Ferrari F1 Motorsport Vintage ... Spider Man ...
   Updated: 2026-05-09T16:59:52Z
-- [Mix and Match](https://gleame.co.in/pages/collection-bundle)
-  Updated: 2026-05-28T10:30:28Z
-- [Bundles](https://gleame.co.in/pages/bundles)
-  Updated: 2026-05-28T11:11:04Z
-- [](https://gleame.co.in/pages/)
-  Updated: 2026-05-31T07:50:53Z
 - [Fran Shirt Size Guide](https://gleame.co.in/pages/fran-shirt-size-guide): The Perfect Fit Size Guide Find your ideal fit with our detailed size measurements. SIZE BODY SHOULDER SLEEVE XS 29" 17" 25" S 30" 18" 26" M 31" 19...
   Updated: 2026-10-28T07:45:16Z
 
