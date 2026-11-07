@@ -6,7 +6,7 @@
 - Timezone: Europe/Copenhagen
 - Created At: 2026-05-31T11:13:18Z
 - Contact Email: svalcph@hotmail.com
-- Updated At: 2026-10-31T00:28:09.560Z
+- Updated At: 2026-11-07T00:33:29.250Z
 
 ## Products
 
@@ -570,7 +570,7 @@
 ## Policies
 
 - [Privacy Policy](https://svalcph.com/policies/privacy-policy)
-  Updated: 2026-06-18T18:48:01Z
+  Updated: 2026-11-05T16:39:34Z
 - [Shipping Policy](https://svalcph.com/policies/shipping-policy)
   Updated: 2026-06-01T18:50:24Z
 - [Refund Policy](https://svalcph.com/policies/refund-policy)
