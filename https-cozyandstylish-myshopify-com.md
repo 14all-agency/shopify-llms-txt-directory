@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2026-07-24T16:43:16Z
 - Contact Email: cozyandstylish@outlook.com
-- Updated At: 2026-10-30T01:06:56.991Z
+- Updated At: 2026-11-07T01:07:44.434Z
 
 ## Products
 
@@ -53,7 +53,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab24daedfbdb.jpg?v=1791409181
   Price: kr 119.90 NOK
 - [Coffee and Dog Lover T-Shirt - Blend of Comfort & Style](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt): Discover the perfect Coffee and Dog Lover T-Shirt! Show your passion for coffee and dogs while staying comfy - make it part of your wardrobe!
-  Updated: 2026-10-25T00:03:27Z
+  Updated: 2026-11-02T18:16:36Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -215,7 +215,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab24e8a3bf95.jpg?v=1791409273
     Price: kr 191.40 NOK
   - [Solid White Blend / 2XL](https://cozyandstylish.myshopify.com/products/all-i-need-is-cooffee-and-my-dog-t-shirt?variant=44904412610611)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab24e8a3bf95.jpg?v=1791409273
     Price: kr 213.40 NOK
 - [Crazy Cat Lady Mug - Embrace Your Feline Passion](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-mug): Start your day with the Crazy Cat Lady Mug. Enjoy your favorite drinks in style and celebrate your love for cats - it's a delightful choice!
@@ -226,7 +226,7 @@
   Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/white-glossy-mug-white-20-oz-handle-on-left-6ab251ffd3b83.jpg?v=1791409383
   Price: kr 119.90 NOK
 - [Crazy Cat Lady V-Neck T-Shirt - Stylish Cat Lover Comfort](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt): Step out in the Crazy Cat Lady V-neck T-shirt. Celebrate your love for cats while staying cozy and stylish - perfect for any casual occasion!
-  Updated: 2026-10-25T00:03:26Z
+  Updated: 2026-11-02T18:16:35Z
   Vendor: Cozy and Stylish
   Product Type: 
   Availability: Available
@@ -388,7 +388,7 @@
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab25286591e4.jpg?v=1791409478
     Price: kr 163.90 NOK
   - [Solid White Blend / 2XL](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-t-shirt?variant=44904430796851)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0703/4260/6899/files/womens-relaxed-v-neck-t-shirt-solid-white-blend-front-6ab25286591e4.jpg?v=1791409478
     Price: kr 185.90 NOK
 - [Stylish Cat Lady Laptop Sleeve - Protect with Charm](https://cozyandstylish.myshopify.com/products/crazy-cat-lady-laptop-sleeve): Meet the Stylish Cat Lady Laptop Sleeve. Protect your gear with personality and charm, making your tech look purrfect - add it to your collection!
@@ -2808,8 +2808,8 @@
   Updated: 2026-10-08T11:38:51Z
   Total Products: 0
 - [Mugs and glassware](https://cozyandstylish.myshopify.com/collections/mugs-and-glassware): Brighten every sip with unique mugs and glassware. Find your favorite today and enjoy every drink in style!
-  Updated: 2026-10-29T16:12:14Z
-  Total Products: 122
+  Updated: 2026-10-30T14:53:25Z
+  Total Products: 127
 - [Doglovers](https://cozyandstylish.myshopify.com/collections/doglovers): Showcase your love for dogs with our curated collection. Find the perfect item to express your canine passion!
   Updated: 2026-10-29T16:12:14Z
   Total Products: 180
@@ -2817,17 +2817,17 @@
   Updated: 2026-10-08T12:04:12Z
   Total Products: 5
 - [Women](https://cozyandstylish.myshopify.com/collections/women-clothes): Discover casual favorites that celebrate your love for pets. Treat yourself or find the perfect gift today!
-  Updated: 2026-10-29T15:52:19Z
-  Total Products: 83
+  Updated: 2026-10-30T14:53:02Z
+  Total Products: 84
 - [Home and living](https://cozyandstylish.myshopify.com/collections/home-and-living): Make yourself at home with our Home and Living collection. Discover mugs, glassware, and pillows that add comfort and personality to your everyday spaces.From your first sip of morning coffee to a quiet evening curled up on the sofa, it’s the little details that make a space feel like yours. Find a new favorite for your home or a thoughtful gift for someone who loves cozy moments.
-  Updated: 2026-10-29T16:12:14Z
-  Total Products: 128
+  Updated: 2026-10-30T14:53:25Z
+  Total Products: 133
 - [Laptop sleeves](https://cozyandstylish.myshopify.com/collections/laptop-sleeves): Protect your laptop with stylish sleeves. Find the perfect fit and give your device a personal touch today!
   Updated: 2026-10-08T11:38:53Z
   Total Products: 1
 - [Catlovers](https://cozyandstylish.myshopify.com/collections/catlovers): Celebrate your love for cats with our Catlovers collection. Discover cat-inspired mugs and cozy hoodies that bring a little feline personality to your everyday life.From your morning coffee to a relaxed evening with your favorite furry companion, find something that makes those small moments feel more like you. Treat yourself or choose a thoughtful gift for a fellow cat lover.
-  Updated: 2026-10-29T12:47:50Z
-  Total Products: 108
+  Updated: 2026-10-30T14:53:25Z
+  Total Products: 114
 - [Pillows](https://cozyandstylish.myshopify.com/collections/pillows): Transform your favorite spot with decorative pillows. Explore designs that enhance your cozy corner today!
   Updated: 2026-10-24T16:17:19Z
   Total Products: 9
@@ -2937,8 +2937,8 @@
   Updated: 2026-10-24T16:18:00Z
   Total Products: 0
 - [Stella Queen – Cat Attitude Collection](https://cozyandstylish.myshopify.com/collections/stella-queen-cat-attitude-collection): Meet Stella Queen 👑🐱 Small Cat. Big Attitude. Inspired by the sass, charm and undeniable royal energy of our feline friends, Stella Queen is an original Cozy & Stylish collection made for people who know that cats don't follow the rules — they make them. Discover playful cat designs, cozy apparel and fun gifts that celebrate the little queens and kings ruling our homes. Because every cat deserves a crown. - Cozy and Stylish
-  Updated: 2026-10-25T10:43:54Z
-  Total Products: 5
+  Updated: 2026-10-30T14:53:25Z
+  Total Products: 8
 - [I herd you](https://cozyandstylish.myshopify.com/collections/i-herd-you)
   Updated: 2026-10-24T13:38:50Z
   Total Products: 5
@@ -2956,6 +2956,12 @@
   Total Products: 2
 - [Borzoi](https://cozyandstylish.myshopify.com/collections/borzoi)
   Updated: 2026-10-29T11:42:09Z
+  Total Products: 2
+- [Calico Cat](https://cozyandstylish.myshopify.com/collections/calico-cat)
+  Updated: 2026-10-30T11:07:32Z
+  Total Products: 1
+- [Black Cat](https://cozyandstylish.myshopify.com/collections/black-cat)
+  Updated: 2026-10-30T13:04:31Z
   Total Products: 2
 
 ## Blogs
@@ -3042,6 +3048,15 @@
     Author: Cozy and Stylish
   - [Illuminate Your Morning with This Shiba Inu Mug: A Must-Have Gift for Doglovers and Catlovers in Fashion](https://cozyandstylish.myshopify.com/blogs/nyheter/illuminate-your-morning-with-this-shiba-inu-mug-a-must-have-gift-for-doglovers-and-catlovers-in-fashion): Illuminate Your Morning with This Shiba Inu Mug: A Must-Have Gift for Doglovers and Catlovers in Fashion
     Updated: 2026-10-29T00:05:22Z
+    Author: Cozy and Stylish
+  - [Chic Gifts for Doglovers and Catlovers Spotlight the Fashionable Golden Retriever Ceramic Mug](https://cozyandstylish.myshopify.com/blogs/nyheter/chic-gifts-for-doglovers-and-catlovers-spotlight-the-fashionable-golden-retriever-ceramic-mug): Chic Gifts for Doglovers and Catlovers Spotlight the Fashionable Golden Retriever Ceramic Mug
+    Updated: 2026-11-01T00:05:51Z
+    Author: Cozy and Stylish
+  - [Gift Ideas for Doglovers and Catlovers Who Crave Fashion and Style with the Dog Mum Sweatshirt](https://cozyandstylish.myshopify.com/blogs/nyheter/gift-ideas-for-doglovers-and-catlovers-who-crave-fashion-and-style-with-the-dog-mum-sweatshirt): Gift Ideas for Doglovers and Catlovers Who Crave Fashion and Style with the Dog Mum Sweatshirt
+    Updated: 2026-11-02T01:11:04Z
+    Author: Cozy and Stylish
+  - [Life is better with a Chinese Crested Travel Mug Exploring Fashionable Gifts for Doglovers and Catlovers](https://cozyandstylish.myshopify.com/blogs/nyheter/life-is-better-with-a-chinese-crested-travel-mug-exploring-fashionable-gifts-for-doglovers-and-catlovers): Life is better with a Chinese Crested Travel Mug Exploring Fashionable Gifts for Doglovers and Catlovers
+    Updated: 2026-11-05T00:06:23Z
     Author: Cozy and Stylish
 
 ## Store Pages
