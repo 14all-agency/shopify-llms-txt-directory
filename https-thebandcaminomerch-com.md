@@ -6,33 +6,33 @@
 - Timezone: America/Chicago
 - Created At: 2020-10-26T21:40:32Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:20:22.373Z
+- Updated At: 2026-11-07T00:24:36.651Z
 
 ## Products
 
 - [Knit Beanie | The Band Camino Official Merch](https://thebandcaminomerch.com/products/knit-beanie): The Band Camino Black and Gold Knit Beanie is 100% Acrylic Rib Knit Cuffed Beanie. One Size Fits Most.
-  Updated: 2026-10-18T10:53:06Z
+  Updated: 2026-11-01T14:45:52Z
   Vendor: The Band Camino
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_13.png?v=1722953374
   Price: $15.00 USD
 - [Fanny Pack](https://thebandcaminomerch.com/products/the-band-camino-fannypack): Clear fanny pack with adjustable belt 15” x 2/5” x 5 8/9"
-  Updated: 2026-10-05T13:01:59Z
+  Updated: 2026-11-05T18:27:56Z
   Vendor: The Band Camino
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/products/tbc-logo-clear-fannypack_The-Band-Camino.png?v=1653588767
   Price: $12.50 USD
 - [The Band Camino - CD](https://thebandcaminomerch.com/products/the-band-camino-the-band-camino-cd): Tracklist: EVERYBODYDIES Roses Underneath My Skin I Think I Like You Know It All Who Do You Think You Are? Sorry Mom Just A Phase 1 Last Cigarette Song About You Damage Look Up Help Me Get Over You Get It Your Way
-  Updated: 2026-10-20T21:15:36Z
+  Updated: 2026-11-05T19:03:06Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/products/the-band-camino-CD_The-Band-Camino.png?v=1680120359
   Price: $13.98 USD
 - [The Cube Tee](https://thebandcaminomerch.com/products/the-cube-tee): Get lost in the dark...
-  Updated: 2026-10-18T10:53:11Z
+  Updated: 2026-11-05T22:17:15Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -53,14 +53,14 @@
     Availability: Not Available
     Price: $15.00 USD
 - [The Dark Vinyl](https://thebandcaminomerch.com/products/the-dark-cd): Release Date: August 11th, 2023 Tracklist: Told You So What Am I Missing? Save My Life Let It Happen It’s You (It’s You) Same Page See You Later Afraid Of The Dark Novocaine Three Month Hangover Last Man In The World
-  Updated: 2026-10-16T14:37:17Z
+  Updated: 2026-11-05T18:58:46Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCTheDarkCD.png?v=1687382651
   Price: $15.00 USD
 - [The Dark Vinyl](https://thebandcaminomerch.com/products/the-dark-cassette)
-  Updated: 2026-10-05T13:02:01Z
+  Updated: 2026-11-05T18:33:56Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/159085_1_289047_d.png?v=1687546396
   Price: $3.00 USD
 - [Checkered Logo Shorts](https://thebandcaminomerch.com/products/checkered-logo-shorts): Checkered Logo Shorts from the Screaming in the Dark Tour Collection PLEASE NOTE: Sizing options correspond with the waistband measurement.
-  Updated: 2026-10-18T10:53:11Z
+  Updated: 2026-11-05T19:22:57Z
   Vendor: The Band Camino
   Product Type: Apparel
   Availability: Available
@@ -99,14 +99,14 @@
     Availability: Available
     Price: $23.00 USD
 - [Snake Portal Trucker Hat](https://thebandcaminomerch.com/products/snake-portal-trucker-hat): Snake Portal Black Trucker Hat from the Screaming in the Dark Tour Collection
-  Updated: 2026-10-18T10:53:16Z
+  Updated: 2026-11-05T19:18:46Z
   Vendor: The Band Camino
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/SnakePortalTruckerHat.png?v=1696000821
   Price: $15.00 USD
 - [NeverAlways (Vol. 1) - Exclusive Bone Opaque Vinyl](https://thebandcaminomerch.com/products/neveralways-exclusive-bone-opaque-vinyl): NeverAlways Exclusive Bone Opaque Vinyl - only available on The Band CAMINO's official webstore. The Band CAMINO is back with their third studio album, NeverAlways. In the midst of a creative hot streak, the Nashville-based trio - Jeffery Jordan, Spencer Stewart, and Garrison Burgess - penned music nonstop throughout 2024 alongside collaborators such as Jordan Schmidt and Jonah Shy, yielding their most substantial body of work yet. The 11-track collection boasts the "OG CAMINO feel," calling back to their fan-favorite hits that have eclipsed over 1 billion streams, sold out headline tours, and incited widespread tastemaker praise. Tracklist: HasJustBegun Pieces What You Can’t Have Limbo Baggy Jeans Can’t Go Back Hates Me Yet (222) Me Around You Stupid Questions Karaoke Infinity
-  Updated: 2026-10-30T23:59:27Z
+  Updated: 2026-11-06T16:48:58Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
@@ -134,7 +134,7 @@
     Availability: Available
     Price: $55.00 USD
 - [Horse Tee](https://thebandcaminomerch.com/products/horse-tee): The Band Camino Horse Tour Tee in charcoal with front and back print. 100% cotton
-  Updated: 2026-10-29T20:11:01Z
+  Updated: 2026-11-06T21:33:05Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -155,7 +155,7 @@
     Availability: Available
     Price: $20.00 USD
 - [NeverAlways Necklace](https://thebandcaminomerch.com/products/neveralways-necklace): Custom The Band Camino NeverAlways Necklace in gold. 16in chain w/ 4in extender
-  Updated: 2026-10-16T05:42:08Z
+  Updated: 2026-11-05T19:44:46Z
   Vendor: The Band Camino Merch
   Product Type: Accessories
   Availability: Available
@@ -211,46 +211,28 @@
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_SOCKS.png?v=1772477439
   Price: $30.00 USD
 - [NeverAlways (Vol. 2) - Exclusive Galaxy Vinyl](https://thebandcaminomerch.com/products/neveralways-vol-2-exclusive-galaxy-vinyl): NeverAlways (Vol. 2) on blue and green galaxy vinyl. Exclusive to The Official Store. The Band CAMINO return with the second volume of the Never Always album. Never Always Vol. 2 completes the full album experience with standout fan favorites like “Holly!”, “Afterthought” and “12:34”. Tracklist: Holly! Mascara Afterthought Do What You Gotta Do Mirror Mirror Another Body Talk Cheap, Die Broke 12:34 Dancer Never and Always What’s Always Been
-  Updated: 2026-10-30T16:12:35Z
+  Updated: 2026-11-06T16:48:57Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCNAVOL2VINYL.png?v=1776270677
   Price: $29.98 USD
 - [NeverAlways Collector’s Set](https://thebandcaminomerch.com/products/neveralways-vol-2-box-set): A limited-edition slipcase designed to house both Volume 1 and Volume 2 of the NeverAlways vinyl collection, bringing the full project together in one cohesive package. This set includes a 24x24 poster, a 5x5 12-page booklet, and exclusive polaroids. The custom slipcase is designed to hold both vinyl releases, making it the definitive complete collection. Limited quantity available. NeverAlways Volume 1 and Volume 2 vinyl sold separately.
-  Updated: 2026-10-30T16:12:37Z
+  Updated: 2026-11-05T20:38:05Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCNAVOL2BOXSET-2.png?v=1776270857
   Price: $50.00 USD
-- [Holly! Tee](https://thebandcaminomerch.com/products/holly-tee): Two-tone Camp Collection Tee in shade Sugar/Royal. 100% ringspun combed cotton
-  Updated: 2026-10-29T22:36:25Z
-  Vendor: The Band Camino
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_HOLLY_TEE-4.png?v=1780084081
-  - [S](https://thebandcaminomerch.com/products/holly-tee?variant=48786813911269)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [M](https://thebandcaminomerch.com/products/holly-tee?variant=48786813944037)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [L](https://thebandcaminomerch.com/products/holly-tee?variant=48786813976805)
-    Availability: Not Available
-    Price: $65.00 USD
-  - [XL](https://thebandcaminomerch.com/products/holly-tee?variant=48786814009573)
-    Availability: Available
-    Price: $65.00 USD
-  - [2XL](https://thebandcaminomerch.com/products/holly-tee?variant=48786814042341)
-    Availability: Not Available
-    Price: $65.00 USD
 - [NeverAlways Zip Hoodie](https://thebandcaminomerch.com/products/neveralways-zip-hoodie): NeverAlways Zip Hoodie in shade "Sea Blue" with front, back, and sleeve print.
-  Updated: 2026-10-30T16:12:28Z
+  Updated: 2026-11-06T03:35:11Z
   Vendor: The Band Camino
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_HOODIE-2.png?v=1780084194
+  - [XS](https://thebandcaminomerch.com/products/neveralways-zip-hoodie?variant=68012089934053)
+    Availability: Not Available
+    Price: $85.00 USD
   - [S](https://thebandcaminomerch.com/products/neveralways-zip-hoodie?variant=48786824429797)
     Availability: Not Available
     Price: $85.00 USD
@@ -267,49 +249,49 @@
     Availability: Not Available
     Price: $85.00 USD
 - [Camino Camp Mug](https://thebandcaminomerch.com/products/camino-camp-mug): The Band Camino ceramic campfire mug in white with blue print.
-  Updated: 2026-10-30T14:46:06Z
+  Updated: 2026-11-05T19:01:06Z
   Vendor: The Band Camino
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_MUG-2.png?v=1780084036
   Price: $15.00 USD
 - [Camino Camp Insulated Tote](https://thebandcaminomerch.com/products/camino-camp-cooler): Camino Camp Insulated Tote in Teal. 13W x 10 x 15H
-  Updated: 2026-10-05T13:02:15Z
+  Updated: 2026-11-05T18:37:56Z
   Vendor: The Band Camino
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_COOLER-2.png?v=1780084012
   Price: $25.00 USD
 - [NeverAlways Official Box Set](https://thebandcaminomerch.com/products/neveralways-box-set): The NeverAlways Box Set Contains: NeverAlways (Vol. 1) - Exclusive Bone Opaque Vinyl NeverAlways (Vol. 2) - Exclusive Galaxy Vinyl Limited Edition slipcase designed to house both Volume 1 and Volume 2 vinyl 24x24 Poster, 5x5 12-page booklet, and exclusive polaroids
-  Updated: 2026-10-30T23:59:37Z
+  Updated: 2026-11-06T16:49:06Z
   Vendor: The Band Camino Merch
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCBOXSet.png?v=1776281574
   Price: $100.00 USD
 - [tryhard - Orange Splatter Vinyl](https://thebandcaminomerch.com/products/try-hard-orange-vinyl): The Band Camino's breakout EP tryhard repressed for the first time on LIMITED EDITION Orange Splatter Vinyl This item is a pre-order that will ship mid-December. All items in your order will ship together. Tracklist: What I Want Hush Hush Daphne Blue Honest See Through Haunted Farsighted Break Me
-  Updated: 2026-10-30T18:12:53Z
+  Updated: 2026-11-06T21:26:58Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCTRYHARDORANGEVINYL.png?v=1789667692
   Price: $34.98 USD
 - [tryhard - CD](https://thebandcaminomerch.com/products/tryhard-cd): The Band Camino's breakout EP tryhard on standard CD. This item is a pre-order that will ship mid-December. All items in your order will ship together. Tracklist: What I Want Hush Hush Daphne Blue Honest See Through Haunted Farsighted Break Me
-  Updated: 2026-10-29T00:24:36Z
+  Updated: 2026-11-06T15:55:57Z
   Vendor: The Band Camino
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCTRYHARDCD_bbac0a73-18af-41b1-b87e-141603cc49c9.png?v=1789694909
   Price: $14.98 USD
 - [tryhard Poster](https://thebandcaminomerch.com/products/tryhard-poster): Limited Edition tryhard poster featuring the new cover and tracklist. 11x17
-  Updated: 2026-10-30T18:12:58Z
+  Updated: 2026-11-06T21:16:11Z
   Vendor: The Band Camino
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCTRYHARDPOSTER.png?v=1789670268
   Price: $10.00 USD
 - [Farsighted Tee tryhard The Band Camino](https://thebandcaminomerch.com/products/farsighted-tee): Farsighted Tee in black with front and back print. 100% cotton
-  Updated: 2026-10-27T14:50:24Z
+  Updated: 2026-11-06T15:24:23Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -330,7 +312,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Daphne Blue Tee tryhard The Band Camino](https://thebandcaminomerch.com/products/daphne-blue-tee): Daphne Blue Baby Tee in white with front and back print. 100% cotton Body Length Chest Width Sleeve Length XS 20 5/8 12 5/8 5 3/8 S 21 1/8 13 5/8 5 5/8 M 21 5/8 14 5/8 5 7/8 L 22 1/8 15 5/8 6 1/8 XL 22 5/8 16 5/8 6 3/8 2XL 23 1/8 17 5/8 6 5/8
-  Updated: 2026-10-30T23:58:06Z
+  Updated: 2026-11-06T12:28:33Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -348,10 +330,10 @@
     Availability: Available
     Price: $40.00 USD
   - [2XL](https://thebandcaminomerch.com/products/daphne-blue-tee?variant=52896829866213)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
 - [World's Greatest tryhard The Band Camino Tee](https://thebandcaminomerch.com/products/worlds-greatest-tryhard-tee): The Band Camino World's Greatest Tryhard Ringer Tee in white with front and back print. 100% cotton
-  Updated: 2026-10-23T00:23:32Z
+  Updated: 2026-11-05T23:28:46Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -372,7 +354,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Camp Collection Tee tryhard The Band Camino](https://thebandcaminomerch.com/products/tryhard-tee): Tryhard Camp Collection Tee in heather sunshine / heather red with front and back print. 100% cotton
-  Updated: 2026-10-27T08:21:15Z
+  Updated: 2026-11-04T19:23:21Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -393,7 +375,7 @@
     Availability: Available
     Price: $60.00 USD
 - [tryhard Crewneck The Band Camino Camp Collection](https://thebandcaminomerch.com/products/tryhard-crewneck): Camp Collection Tryhard Crewneck in black, red, and yellow with only front print.
-  Updated: 2026-10-27T08:21:51Z
+  Updated: 2026-11-05T19:50:16Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -413,22 +395,15 @@
   - [2XL](https://thebandcaminomerch.com/products/tryhard-crewneck?variant=52896945733861)
     Availability: Available
     Price: $90.00 USD
-- [#1 Tryhard Ribbon The Band Camino](https://thebandcaminomerch.com/products/1-tryhard-ribbon): Red #1 Tryhard Ribbon
-  Updated: 2026-10-16T19:28:06Z
-  Vendor: The Band Camino
-  Product Type: Accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBC_1TRYHARDRIBBON-2.png?v=1789739477
-  Price: $20.00 USD
 - [Tryhard Plaque](https://thebandcaminomerch.com/products/tryhard-plaque): Acrylic Tryhard Plaque
-  Updated: 2026-10-27T17:52:05Z
+  Updated: 2026-11-04T19:23:56Z
   Vendor: The Band Camino
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCACRLYICTRYHARDPLAQUE-3.png?v=1789739347
   Price: $25.00 USD
 - [Memphis Ringer Tee The Band Camino Tee](https://thebandcaminomerch.com/products/memphis-ringer-tee): The Band Camino Memphis Ringer Tee in white/red with front and back print. Limited sizes available / 100% cotton
-  Updated: 2026-10-23T05:05:21Z
+  Updated: 2026-11-06T15:55:58Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -449,7 +424,7 @@
     Availability: Available
     Price: $35.00 USD
 - [NeverAlways Hoodie](https://thebandcaminomerch.com/products/neveralways-hoodie-1): NeverAlways Collegiate Hoodie in shade "true royal" with front print.
-  Updated: 2026-10-26T18:44:57Z
+  Updated: 2026-11-05T18:55:56Z
   Vendor: The Band Camino
   Product Type: Hoodie
   Availability: Available
@@ -470,7 +445,7 @@
     Availability: Available
     Price: $85.00 USD
 - [Lucky Little Me Tee The Band Camino Tee](https://thebandcaminomerch.com/products/lucky-little-me-tee): The Band Camino Lucky Little Me Tee in black with front and back print. 100% cotton
-  Updated: 2026-10-29T20:38:45Z
+  Updated: 2026-11-06T21:08:01Z
   Vendor: The Band Camino
   Product Type: T-Shirt
   Availability: Available
@@ -485,7 +460,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [XL](https://thebandcaminomerch.com/products/lucky-little-me-tee?variant=52928736493797)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [2XL](https://thebandcaminomerch.com/products/lucky-little-me-tee?variant=52928736526565)
     Availability: Available
@@ -511,93 +486,113 @@
   - [2XL](https://thebandcaminomerch.com/products/homecoming-hoodie?variant=52928769163493)
     Availability: Not Available
     Price: $75.00 USD
+- [Live in Memphis - Exclusive Lavender 2LP Vinyl](https://thebandcaminomerch.com/products/live-in-memphis-exclusive-lavender-vinyl): The Band Camino Live in Memphis on Official Store Exclusive Lavender Double Vinyl This item is a pre-order that will ship mid-February. All items in your order will ship together. Side A: HasJustBegun Daphne Blue Novocaine What Am I Missing? Damage Holly! Hush Hush Stupid Questions Side B: I Think I Like You Berenstein My Thoughts On You Roses 2/14 The Black and White Side C: Something to Hold On To Mascara Song About You Afterthought 12:34 Side D: Haunted 1 Last Cigarette See Through Do What You Gotta Do What I Want
+  Updated: 2026-11-06T22:45:16Z
+  Vendor: The Band Camino
+  Product Type: Music
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCLIVEINMEMPHISLAVENDERVINYL.png?v=1793821414
+  Price: $49.98 USD
+- [Live in Memphis - CD](https://thebandcaminomerch.com/products/live-in-memphis-cd): The Band Camino Live in Memphis on standard CD. This item is a pre-order that will ship mid-February. All items in your order will ship together. Tracklist: HasJustBegun Daphne Blue Novocaine What Am I Missing? Damage Holly! Hush Hush Stupid Questions I Think I Like You Berenstein My Thoughts On You Roses 2/14 The Black and White Something to Hold On To Mascara Song About You Afterthought 12:34 Haunted 1 Last Cigarette See Through Do What You Gotta Do What I Want
+  Updated: 2026-11-06T23:23:21Z
+  Vendor: The Band Camino
+  Product Type: Music
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0500/0701/5590/files/TBCLIMCD-2.png?v=1793901509
+  Price: $14.98 USD
 
 ## Collections
 
 - [Best Sellers](https://thebandcaminomerch.com/collections/frontpage)
-  Updated: 2026-10-21T11:10:31Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 64
 - [Apparel](https://thebandcaminomerch.com/collections/apparel)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 114
 - [Music](https://thebandcaminomerch.com/collections/music)
-  Updated: 2026-10-30T11:07:37Z
-  Total Products: 30
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 33
 - [Tees](https://thebandcaminomerch.com/collections/tee)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 85
 - [Outerwear](https://thebandcaminomerch.com/collections/outerwear)
-  Updated: 2026-10-23T11:10:12Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 26
 - [All](https://thebandcaminomerch.com/collections/all)
-  Updated: 2026-10-30T11:07:37Z
-  Total Products: 234
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 237
 - [Accessories](https://thebandcaminomerch.com/collections/accessories)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 67
 - [All Apparel](https://thebandcaminomerch.com/collections/all-apparel)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 114
 - [The Dark Album Collection](https://thebandcaminomerch.com/collections/the-dark-album-collection)
-  Updated: 2026-10-24T11:10:09Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 26
 - [The Dark Album](https://thebandcaminomerch.com/collections/the-dark-album)
-  Updated: 2026-10-19T17:18:07Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 55
 - [Screaming In The Dark](https://thebandcaminomerch.com/collections/screaming-in-the-dark)
-  Updated: 2026-10-16T11:10:28Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 16
 - [The Bruises Collection](https://thebandcaminomerch.com/collections/bruises)
   Updated: 2026-07-08T20:14:11Z
   Total Products: 7
 - [Hats](https://thebandcaminomerch.com/collections/hats)
-  Updated: 2026-10-14T11:12:19Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 9
 - [Session](https://thebandcaminomerch.com/collections/session)
   Updated: 2026-09-25T11:14:06Z
   Total Products: 6
 - [Posters](https://thebandcaminomerch.com/collections/posters)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 12
 - [Taking Shape Tour Collection](https://thebandcaminomerch.com/collections/taking-shape-tour-collection)
   Updated: 2026-09-23T20:51:32Z
   Total Products: 7
 - [THE DARK FALL RESTOCK](https://thebandcaminomerch.com/collections/the-dark-2023-tour-merch)
-  Updated: 2026-10-16T11:10:28Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 10
 - [Last Chance Items](https://thebandcaminomerch.com/collections/last-chance)
-  Updated: 2026-10-24T11:10:09Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 49
 - [The Infinity Collection](https://thebandcaminomerch.com/collections/infinity)
   Updated: 2026-07-08T20:14:12Z
   Total Products: 6
 - [The NeverAlways Collection](https://thebandcaminomerch.com/collections/the-neveralways-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 41
 - [UPSELL](https://thebandcaminomerch.com/collections/upsell-1)
-  Updated: 2026-10-30T11:07:37Z
-  Total Products: 21
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 22
 - [The NeverAlways Music Collection](https://thebandcaminomerch.com/collections/neveralways-music-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 13
 - [The NeverAlways Merch Collection](https://thebandcaminomerch.com/collections/neveralways-merch-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 19
 - [The NeverAlways Tour Collection](https://thebandcaminomerch.com/collections/the-neveralways-tour-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 9
 - [The Full Collection](https://thebandcaminomerch.com/collections/the-full-collection)
-  Updated: 2026-10-30T11:07:37Z
-  Total Products: 63
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 65
 - [The Afterthought Collection](https://thebandcaminomerch.com/collections/the-afterthought-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 16
 - [NeverAlways (Vol 1.) Collection](https://thebandcaminomerch.com/collections/neveralways-vol-1-collection)
   Updated: 2026-10-12T19:32:24Z
   Total Products: 3
 - [Tryhard Capsule Collection](https://thebandcaminomerch.com/collections/tryhard-collection)
-  Updated: 2026-10-30T11:07:37Z
+  Updated: 2026-11-06T12:18:54Z
   Total Products: 11
+- [Homecoming](https://thebandcaminomerch.com/collections/memphis-merch)
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 4
+- [Live in Memphis](https://thebandcaminomerch.com/collections/live-in-memphis)
+  Updated: 2026-11-06T12:18:54Z
+  Total Products: 2
 
 ## Store Pages
 
