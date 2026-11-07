@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-10-30T01:23:25.700Z
+- Updated At: 2026-11-07T01:07:19.341Z
 
 ## Products
 
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/tenerife1.png?v=1786691004
   Price: ₺0,00 TRY
 - [Lotus Köşe Takımı - Ceviz Ayak](https://koltuxs.com/products/lotus-kose-takimi-ceviz-ayak): Modüler yapısı, şık ceviz ayak detayları ve konforlu sırt mekanizmalarıyla tasarlanan Lotus Köşe Takımı, geniş yaşam alanlarınıza modern bir estetik ve üst düzey konfor kazandırır. Kaliteli kumaş dokusu ve fonksiyonel modülleriyle estetik ile işlevselliği bir araya getirir. Ürün Açıklaması Lotus Köşe Takımı, modern ve modüler tasarım anlayışını sıcak ceviz ayak detaylarıyla buluşturarak oturma odanıza sofistike bir karakter kazandırır. Ayarlanabilir sırt mekanizmaları sayesinde dilediğiniz oturma ve dinlenme pozisyonunu kolayca oluşturmanıza olanak tanır. Modüler yapısı (kollu modüller ve ahşap ara sehpa detayı) sayesinde alanınıza en uygun yerleşimi yapmanıza imkan sunarken, zengin kırlent kombinasyonları ile dekoratif bir zarafet sağlar. Dayanıklı iskelet yapısı ve kaliteli kumaşı sayesinde uzun yıllar güvenle kullanabileceğiniz konforlu bir yaşam alanı sunar. Ürün Özellikleri Modern ve modüler tasarım yapısı Ceviz renk ahşap ayak tasarımı Konfor sağlayan ayarlanabilir sırt mekanizmaları Fonksiyonel ahşap ara modül / sehpa detayı Zengin kırlent uygulamaları Dayanıklı ve kolay silinebilir kumaş alternatifi Ergonomik ve geniş oturum alanı Ölçü ve Takım İçeriği Köşe Ölçüsü: 355 x 290 cm 120'lik Kollu Modül: 100 x 85 cm 90'lık Kollu Modül: 100 x 85 cm 60'lık Kollu Modül: 100 x 85 cm Ahşap Ara Modül: 35 cm
-  Updated: 2026-08-15T10:49:14Z
+  Updated: 2026-11-06T11:59:56Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/deniz-koltuk-takimi1.png?v=1786694268
   Price: ₺0,00 TRY
 - [Omairat TV Ünitesi 2152](https://koltuxs.com/products/omairat-tv-unitesi-2152): Lüks TV Ünitesi (Kod: 2152) Şık ve fonksiyonel tasarımı bir arada sunan bu TV ünitesi, yaşam alanınızda estetik bir odak noktası yaratır. Üst tablasındaki mermer görünüm ve kapaklar üzerindeki zarif dikey detaylar ürüne sofistike bir hava katar. Geniş çekmeceleri ve dolap bölmeleri sayesinde multimedya eşyalarınız için düzenli bir depolama alanı sunarken, sağlam metal ayak yapısı ile uzun ömürlü kullanım sağlar. Ürün Özellikleri Mermer desenli şık üst tabla tasarımı Kapaklar üzerinde zarif dikey kanal detayları Özel tasarım modern metal kulplar ve ayak yapısı Geniş depolama imkanı sunan çekmece ve dolap bölümleri Dayanıklı ve kaliteli malzeme yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 2152 Ağırlık: 50 Kg Hacim: 0,378 $m^3$ Ölçü: G: 210 cm – Y: 54,5 cm – D: 44 cm
-  Updated: 2026-08-15T11:59:41Z
+  Updated: 2026-11-06T11:59:56Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -424,7 +424,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1417.29.14.png?v=1786717943
   Price: ₺0,00 TRY
 - [Omirat TV Ünitesi 2154](https://koltuxs.com/products/omirat-tv-unitesi-2154): Ürün Açıklaması Estetik ve fonksiyonelliği bir arada sunan bu TV ünitesi, salonunuza sıcak ve sofistike bir atmosfer katar. Kapaklar üzerindeki zarif dikey çizgiler ve altın detaylar ürüne modern bir karakter kazandırır. Geniş çekmeceleri ve yan dolap bölümleri sayesinde multimedya eşyalarınız için düzenli bir depolama alanı sunarken, sağlam metal ayak yapısı ile uzun ömürlü kullanım sağlar. Ürün Özellikleri Ceviz renk ahşap üst tabla tasarımı Kapaklar üzerinde zarif dikey kanal detayları Altın sarısı özel tasarım modern kulplar ve ayak yapısı Geniş depolama imkanı sunan çekmece ve dolap bölümleri Dayanıklı ve kaliteli malzeme yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 2154 Ağırlık: 50 Kg Hacim: 0,378 $m^3$ Ölçü: G: 210 cm – Y: 54,5 cm – D: 44 cm
-  Updated: 2026-10-20T11:46:56Z
+  Updated: 2026-11-06T11:59:56Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1417.52.49.png?v=1786719800
   Price: ₺0,00 TRY
 - [Omairat Orta Sehpa 4115](https://koltuxs.com/products/omairat-orta-sehpa-4115): Omairat Orta Sehpa (Kod: 4115) Kısa Açıklama Ahşap/mermer desenli zarif tablası ve iç içe geçebilen pratik zigon sehpa modülleriyle dikkat çeken Omairat Orta Sehpa, salonunuza hem şıklık hem de fonksiyonellik kazandırır. Ürün Açıklaması Zarif ve modern çizgileriyle yaşam alanınıza estetik bir dokunuş katan Omairat Orta Sehpa (Kod: 4115), merkezi orta sehpa ve etrafına konumlandırılan tamamlayıcı yan sehpalardan oluşan modüler bir tasarıma sahiptir. Kaliteli metal iskelet yapısı ve uyumlu tabla yüzeyi sayesinde hem dayanıklı hem de uzun ömürlü bir kullanım sunar. Ürün Özellikleri Zarif ahşap/mermer desenli üst tabla yüzeyi İç içe geçebilen pratik ve fonksiyonel yan sehpalar Dayanıklı ve modern metal ayak/iskelet yapısı Geniş ve kullanışlı oturma alanı uyumu
-  Updated: 2026-08-24T16:12:47Z
+  Updated: 2026-11-06T11:59:55Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1420.22.16.png?v=1786728222
   Price: ₺0,00 TRY
 - [Omairat Zigon Sehpa 5022](https://koltuxs.com/products/omairat-zigon-sehpa-5022): Ürün Açıklaması Farklı boyutlardaki üçlü seti sayesinde kullanım kolaylığı sunan bu zigon sehpa modeli, salonunuzda hem şık bir detay oluşturur hem de dar alanlarda pratik çözümler sağlar. Kaliteli malzemesi ve zarif ayak tasarımı ile uzun ömürlü kullanım imkanı tanır. Ürün Özellikleri Mermer desenli zarif üst tabla yüzeyi İç içe geçebilen üçlü modüler tasarım Krem tonlarında uyumlu ve şık ayak/iskelet yapısı Dayanıklı ve kaliteli malzeme yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 5022 Ağırlık: 17 Kg Hacim: 0,059 $m^3$ Ölçü: G: 69 cm – Y: 60 cm – D: 41 cm
-  Updated: 2026-09-22T01:52:37Z
+  Updated: 2026-11-06T11:59:48Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -494,7 +494,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1421.27.45.png?v=1786732097
   Price: ₺0,00 TRY
 - [Omairat Zigon Sehpa 5098](https://koltuxs.com/products/omairat-zigon-sehpa-5098): Ürün Açıklaması Farklı boyutlardaki üçlü seti sayesinde salonunuzda hem estetik bir bütünlük oluşturan hem de dar alanlarda kullanım kolaylığı sunan bu zigon sehpa modeli, kaliteli malzemesi ve zarif ayak tasarımı ile uzun ömürlü bir kullanım deneyimi sağlar. Ürün Özellikleri Ahşap dokulu şık üst tabla yüzeyi Yan kısımlarda krem ve altın sarısı şerit detayları İç içe geçebilen üçlü pratik tasarım Zarif ve dayanıklı ayak yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 5098 Ağırlık: 17 Kg Hacim: 0,185 $m^3$ Ölçü: G: 68 cm – Y: 65 cm – D: 39 cm
-  Updated: 2026-10-17T09:08:06Z
+  Updated: 2026-11-06T11:59:49Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -536,7 +536,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1422.35.09.png?v=1786737318
   Price: ₺0,00 TRY
 - [Omairat Zigon Sehpa 5150](https://koltuxs.com/products/omairat-zigon-sehpa-5150): Omairat Zigon Sehpa (Kod: 5150) Ürün Açıklaması Sıcak ahşap dokulu şık tablaları ve zarif, dayanıklı metal iskelet yapısıyla tasarlanan Omairat Zigon Sehpa, iç içe geçebilen pratik üçlü seti sayesinde yaşam alanlarınıza hem estetik bir zarafet hem de işlevsellik kazandırır. Salonunuzda yerden tasarruf etmenizi sağlarken misafirleriniz için ideal kullanım alanları sunar. Ürün Özellikleri Sıcak ahşap dokulu şık üst tabla yüzeyi İç içe geçebilen pratik ve yer tasarrufu sağlayan üçlü set tasarımı Sağlamlık ve estetik sunan metal ayak yapısı Dayanıklı ve uzun ömürlü kaliteli malzeme Teknik Ölçüler ve Bilgiler Ürün Kodu: 5150 Ağırlık: 15 Kg Hacim: 0,111 $m^3$ Ölçü: G: 43 cm – Y: 58,5 cm – D: 43 cm
-  Updated: 2026-09-27T12:44:37Z
+  Updated: 2026-11-06T11:59:49Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1501.08.29.png?v=1786745380
   Price: ₺0,00 TRY
 - [Omairat Yemek Masası 7200](https://koltuxs.com/products/omairat-yemek-masasi-7200): Omairat Yemek Masası (Kod: 7200) Ürün Açıklaması Ahşap dokulu şık yuvarlak üst tablası, siyah kasa detayları ve modern metal ayak tasarımıyla dikkat çeken Omairat Yemek Masası, yemek odanıza veya mutfağınıza çağdaş ve şık bir hava kazandırır. Pratik açılabilir mekanizması sayesinde günlük kullanımda konfor sunarken, misafirleriniz için ideal ve kullanışlı bir sofra alanı oluşturur. Ürün Özellikleri Ahşap dokulu şık yuvarlak üst tabla tasarımı Siyah detaylarla zenginleştirilmiş modern kasa yapısı Sağlamlık ve estetik sunan siyah metal ayak tasarımı Pratik açılabilir mekanizma Dayanıklı ve uzun ömürlü kaliteli malzeme Teknik Ölçüler ve Bilgiler Ürün Kodu: 7200 Ağırlık: 30 Kg Hacim: 0,213 $m^3$ Ölçü: G: 104 cm – Y: 77 cm – D: 104 cm
-  Updated: 2026-09-19T22:15:16Z
+  Updated: 2026-11-06T11:59:38Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -613,7 +613,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/3.jpg?v=1786747670
   Price: ₺0,00 TRY
 - [Mazzero Sandalye 1001](https://koltuxs.com/products/mazzero-sandalye-1001): Mazzero Sandalye (#S1001) Ürün Açıklaması Sıcak ahşap tonları, sırt kısmındaki el işçiliğini andıran özel ip örgü detayları ve konforlu deri oturum minderiyle dikkat çeken Mazzero Sandalye (#S1001), yaşam alanlarınıza hem doğal bir zarafet hem de modern bir estetik kazandırır. Şık ve özgün tasarımıyla mutfak adaları, bar alanları veya modern yemek odaları için mükemmel bir tamamlayıcıdır. Ürün Özellikleri Sırt kısmında zarif ve dayanıklı özel ip örgü detayı Konforlu ve şık deri kaplı oturum minderi Sıcak ahşap dokusuna sahip sağlam iskelet ve ayak yapısı Uzun ömürlü ve kaliteli işçilik
-  Updated: 2026-10-20T04:52:07Z
+  Updated: 2026-11-06T11:59:43Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/1002.jpg?v=1786782969
   Price: ₺0,00 TRY
 - [Mazzero Sandalye 1003](https://koltuxs.com/products/mazzero-sandalye-1003): Mazzero Sandalye (#S1003) Ürün Açıklaması Sıcak ahşap iskeleti ve oturum ile sırt kısmını kaplayan zarif taba renkli şerit örgü detaylarıyla dikkat çeken Mazzero Sandalye (#S1003), yaşam alanlarınıza modern ve doğal bir zarafet kazandırır. Ergonomik alçak oturum yapısıyla hem konforlu bir dinlenme deneyimi sunar hem de estetik duruşuyla odanızın atmosferini tamamlar. Ürün Özellikleri Oturum ve sırt alanında şık taba renkli şerit örgü tasarımı Sıcak ahşap tonlarında sağlam ve dayanıklı iskelet yapısı Ergonomik ve konforlu dinlenme formu Kaliteli işçilik ve uzun ömürlü kullanım
-  Updated: 2026-09-21T01:19:28Z
+  Updated: 2026-11-06T11:59:47Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -690,7 +690,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1511.52.14.png?v=1786783970
   Price: ₺0,00 TRY
 - [New Lilyum Yemek Odası Takımı](https://koltuxs.com/products/new-lilyum-yemek-odasi-takimi): New Lilyum Yemek Odası Takımı Zamansız Tasarım, Doğal Şıklık Modern yaşam alanları için özel olarak tasarlanan New Lilyum Yemek Odası Takımı, organik formları, güçlü geometrik detayları ve sıcak ceviz tonuyla yaşam alanlarına sofistike bir karakter kazandırır. Yumuşak hatlara sahip yemek masası, heykelsi ayak tasarımı ve minimal konsol ünitesiyle estetik ve fonksiyonelliği aynı koleksiyonda buluşturur. Doğadan ilham alan tasarım dili sayesinde New Lilyum, hem modern hem de çağdaş dekorasyon stillerine kusursuz uyum sağlar. Kaliteli işçiliği ve zarif detaylarıyla yıllarca keyifle kullanabileceğiniz premium bir yemek odası deneyimi sunar. Ürün Özellikleri Modern ve organik tasarım anlayışı Özel ceviz renk ahşap görünümü Yuvarlatılmış köşelere sahip geniş yemek masası Heykelsi çift silindirik masa ayağı tasarımı Geniş depolama alanına sahip konsol LED aydınlatmalı dekoratif ayna Estetik detaylarla zenginleştirilmiş modern tasarım Dayanıklı gövde yapısı Kolay temizlenebilir yüzey Uzun ömürlü kullanım Takım İçeriği Yemek Masası Konsol LED'li Konsol Aynası Sandalyeler fiyata dahil değildir. İsteğe bağlı olarak siparişe eklenebilir. Tasarım Detayları New Lilyum'un en dikkat çekici unsuru, masa ayaklarında kullanılan heykelsi silindirik formdur. Yuvarlatılmış tabla ile birleşen bu özel tasarım, ürüne güçlü ve dengeli bir görünüm kazandırırken yaşam alanlarında dekoratif bir odak noktası oluşturur. Minimal çizgilere sahip konsol ise kulpsuz kapak yapısı ve geniş depolama alanıyla hem estetik hem de fonksiyonel kullanım sunar. LED aydınlatmalı aynası, bulunduğu ortama sıcak ve modern bir atmosfer kazandırır. Kullanım Avantajları Geniş aile yemekleri için ideal masa ölçüsü Günlük kullanıma uygun sağlam yapı Modern, İskandinav ve Japandi dekorasyon stilleriyle uyumlu Geniş depolama alanı sayesinde düzenli kullanım Premium görünüm sunan özel tasarım detayları Zamansız tasarımı sayesinde uzun yıllar modasını korur Bakım Önerileri Ürünün uzun ömürlü kullanımını korumak için yüzeyi hafif nemli ve yumuşak bir bez ile temizleyiniz. Kimyasal içerikli temizlik ürünleri ve aşındırıcı yüzey temizleyicileri kullanılması tavsiye edilmez.
-  Updated: 2026-10-11T03:49:57Z
+  Updated: 2026-11-06T11:59:48Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -795,21 +795,21 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.16.17.png?v=1787264308
   Price: ₺0,00 TRY
 - [Lotus Yemek Odası Takımı](https://koltuxs.com/products/lotus-yemek-odasi-takimi)
-  Updated: 2026-09-20T04:29:36Z
+  Updated: 2026-11-06T11:59:33Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.19.13.png?v=1787264419
   Price: ₺0,00 TRY
 - [Lotus Koltuk Takımı](https://koltuxs.com/products/lotus-koltuk-takimi-1)
-  Updated: 2026-10-23T02:00:16Z
+  Updated: 2026-11-06T11:59:56Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-2101.20.34.png?v=1787264490
   Price: ₺0,00 TRY
 - [Lotus TV Ünitesi](https://koltuxs.com/products/lotus-tv-unitesi): Ürün Açıklaması Lotus TV Ünitesi, modern tasarım çizgilerini zarif detaylarla buluşturarak yaşam alanlarına estetik ve fonksiyonel bir dokunuş kazandırır. Minimal hatları, kaliteli malzeme yapısı ve şık renk kombinasyonu sayesinde salon dekorasyonunun tamamlayıcı parçası olur. Geniş üst yüzeyi ve kullanışlı depolama alanlarıyla elektronik cihazlar ve dekoratif aksesuarlar için ideal bir kullanım sunarken, sade tasarımı sayesinde farklı dekorasyon stilleriyle kolayca uyum sağlar. Öne Çıkan Özellikler Modern ve minimalist tasarım Geniş kullanım alanı sunan fonksiyonel üst tabla Kapaklı ve raflı depolama bölmeleri Dayanıklı ve uzun ömürlü malzeme yapısı Kaliteli yüzey kaplaması ile şık görünüm Kolay temizlenebilen yüzey Düzenli kablo yönetimine uygun tasarım Sağlam ayak ve gövde yapısı Dekoratif objeler ve medya ekipmanları için ideal kullanım Modern, çağdaş ve endüstriyel dekorasyon tarzlarıyla uyumlu tasarı
-  Updated: 2026-10-25T09:48:35Z
+  Updated: 2026-11-06T11:59:56Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -963,7 +963,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2021.png?v=1787954693
   Price: ₺0,00 TRY
 - [ZUS 2022 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2022-kafe-restoran-sandalyesi)
-  Updated: 2026-09-20T12:22:22Z
+  Updated: 2026-11-06T11:59:36Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1138,7 +1138,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/m1001.png?v=1787957447
   Price: ₺0,00 TRY
 - [Mazzero M1002 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzero-m1002-kafe-restoran-sehpasi)
-  Updated: 2026-09-20T14:06:48Z
+  Updated: 2026-11-06T11:59:42Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1170,22 +1170,22 @@
 ## Collections
 
 - [Anasayfa](https://koltuxs.com/collections/frontpage)
-  Updated: 2026-10-25T11:29:00Z
+  Updated: 2026-11-03T12:16:32Z
   Total Products: 73
 - [Oturma Odası](https://koltuxs.com/collections/oturma-odasi)
-  Updated: 2026-08-24T16:13:25Z
+  Updated: 2026-11-03T12:16:32Z
   Total Products: 14
 - [Koltuk Takımı](https://koltuxs.com/collections/koltuk-takimi)
   Updated: 2026-10-23T11:28:52Z
   Total Products: 12
 - [Köşe Koltuk Takımı](https://koltuxs.com/collections/kose-koltuk-takimi)
-  Updated: 2026-08-24T16:09:00Z
+  Updated: 2026-11-03T12:16:32Z
   Total Products: 6
 - [Berjer](https://koltuxs.com/collections/berjer)
   Updated: 2026-08-15T10:49:00Z
   Total Products: 0
 - [TV Ünitesi](https://koltuxs.com/collections/tv-unitesi)
-  Updated: 2026-10-25T11:29:00Z
+  Updated: 2026-11-06T12:22:16Z
   Total Products: 7
 - [Orta Sehpa](https://koltuxs.com/collections/orta-sehpasi)
   Updated: 2026-08-15T10:49:00Z
@@ -1352,7 +1352,7 @@
 ## Policies
 
 - [Privacy Policy](https://koltuxs.com/policies/privacy-policy)
-  Updated: 2026-07-09T08:25:42Z
+  Updated: 2026-11-01T01:58:00Z
 - [Shipping Policy](https://koltuxs.com/policies/shipping-policy)
   Updated: 2026-08-14T09:08:36Z
 - [Refund Policy](https://koltuxs.com/policies/refund-policy)
