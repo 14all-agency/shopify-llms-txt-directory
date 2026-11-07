@@ -10,12 +10,12 @@
 - Contact Email: info@paragonfaucets.com
 - Contact Phone: +1 (424) 999-9931
 - Address: 1950 W Corporate Way, Anaheim, California 92801
-- Updated At: 2026-10-30T01:11:11.414Z
+- Updated At: 2026-11-07T01:01:50.924Z
 
 ## Products
 
 - [Horten - Bathroom Sink Mixer with Hot and Cold Water Control](https://eu.paragonfaucets.com/products/horten): Introducing the Horten Modern Bathroom Sink Mixer, a perfect blend of style and functionality for contemporary bathrooms. This premium faucet features a sleek chrome finish, adding a touch of sophistication to any sink. Designed with a single handle for effortless control, the Horten mixer allows seamless switching between hot and cold water, making it both practical and elegant. Features You’ll Love: Sleek Chrome Finish: A modern look that enhances your bathroom’s aesthetics. Single-Handle Control: Smooth and precise control for both hot and cold water. Durable Construction: Made from high-quality brass, ensuring long-lasting performance. Effortless Installation: Comes with a complete set of mounting hardware and an easy-to-follow manual.
-  Updated: 2026-10-28T13:15:11Z
+  Updated: 2026-10-31T20:31:11Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -53,14 +53,14 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/GoldWaterfallFaucetWashbasin_04c0cfcd-daff-45cc-8e1b-14d1864fe8a6.png?v=1776703097
     Price: €198.90 EUR
 - [Hamar - 21x13" Kitchen Over-Sink Dish Rack - Black](https://eu.paragonfaucets.com/products/kitchen-wall-dish-rack-black): Hanging Wall-Mounted Kitchen Dish Rack and Space-Saving Organizer Reclaim your countertop space with the Wall-Mounted Kitchen Dish Rack, a sleek and functional solution for compact kitchens and minimalist homes. By utilizing your wall space, this heavy-duty rack provides a dedicated area for drying dishes and organizing essentials without cluttering your prep area. Its elevated design ensures better airflow for faster drying, keeping your kitchenware hygienic and ready for use. Premium Carbon Steel Construction with Multi-Tier Functionality Crafted from high-strength carbon steel with a protective matte black finish, this wall rack is engineered to be both rust-resistant and incredibly durable. The modular layout features specialized slots for plates, bowls, and mugs, along with a dedicated cutlery caddy and utility hooks. Every tier is designed to handle the weight of daily stoneware and cookware, providing a professional-grade storage system that complements modern kitchen aesthetics. Integrated Drainage System and Secure Installation To keep your kitchen surfaces spotless, this rack includes removable drip trays under each tier to catch excess water, making disposal quick and easy. The wall-mounted design is supported by a reinforced frame that ensures stability when fully loaded. Whether you are installing it over the sink or on a backsplash, this organizer provides a permanent, stylish, and efficient way to manage your kitchen workflow. Key Specifications: Material: Heavy-Duty Reinforced Carbon Steel Finish: Corrosion-Resistant Matte Black Powder Coating Installation Type: Wall-Mounted (Screws or Heavy-Duty Adhesive options) Included Accessories: Plate Holder, Bowl Rack, Cutlery Basket, and Removable Drip Trays Design: Multi-Tier Vertical Space-Saver Stability: Reinforced Frame for High Weight Capacity Maintenance: Smooth, Easy-to-Wipe Rust-Proof Surface
-  Updated: 2026-10-28T13:15:01Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Dish Racks & Drain Boards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/S056b6c53721a4ce982793ee5b8842b95b_48391bc6-eb16-4631-a859-71d517cd8db5.jpg?v=1746888458
   Price: €198.90 EUR
 - [Kitchen Dish Rack 16.7"](https://eu.paragonfaucets.com/products/kitchen-wall-dish-rack): Premium Wall-Mounted Dish Drying Rack and Kitchen Organizer Maximize every inch of your kitchen with the Wall-Mounted Dish Drying Rack, the perfect solution for homes where countertop real estate is at a premium. By elevating your drying area, this rack keeps your prep surfaces clear and organized while providing a sophisticated, built-in look. Its vertical design promotes superior air circulation, ensuring your plates and bowls dry faster and more hygienically than on a traditional flat mat. Durable Construction with Integrated Water Management Crafted from high-quality, corrosion-resistant stainless steel, this hanging organizer is built to withstand the humid environment of a busy kitchen sink. Each tier is equipped with its own removable drip tray, catching excess water before it reaches your countertops or floors. The sturdy frame is engineered to hold a full set of dinnerware securely, making it a reliable fixture for daily use. Customizable Modular Storage for Every Utensil This all-in-one system features a modular layout that includes a dedicated plate rack, a deep bowl basket, and a side-mounted cutlery caddy. The sleek, polished finish complements any kitchen decor, from traditional to contemporary. Easy to install and even easier to clean, this wall rack provides a professional-grade organization system that turns your dishware into a tidy, accessible display. Key Specifications: Material: High-Grade Rust-Resistant Stainless Steel Design: 2-Tier Vertical Space-Saving Configuration Installation: Wall-Mounted (Includes all necessary mounting hardware) Drainage: Removable BPA-free Plastic Drip Trays Included Accessories: Plate Section, Bowl Basket, and Cutlery Holder Finish: Polished Chrome / Silver Modern Aesthetic Maintenance: Dishwasher-safe removable parts; wipe-clean frame
-  Updated: 2026-10-28T13:15:00Z
+  Updated: 2026-11-03T21:12:45Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Dish Racks & Drain Boards
   Availability: Available
@@ -74,7 +74,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_2_d316c668-0bcb-4bb7-bec7-1a00e3a7678c.jpg?v=1746888458
     Price: €149.90 EUR
 - [Narvik - Kitchen Over The Sink Dish Rack](https://eu.paragonfaucets.com/products/kitchen-over-sink-dish-rack-black-white): Keep your kitchen organized with an extendable over-sink rack! Adjustable width, durable design, and perfect for drying dishes and saving space.
-  Updated: 2026-10-29T02:42:01Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Dish Racks & Drain Boards
   Availability: Available
@@ -88,14 +88,14 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-ex2port.jpg?v=1746888463
     Price: €149.00 EUR
 - [Bielefeld - Towel Bar Warmer Black Aluminium](https://eu.paragonfaucets.com/products/bielefeld-towel-bar-warmer-aluminium): This electric towel bar warmer keeps your towels dry and cozy. Designed for modern bathrooms, it’s efficient, compact, and easy to install. A practical addition to your daily routine.
-  Updated: 2026-10-28T13:15:12Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Towel Warmers
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_1_add650b3-466f-44c7-b5bc-ba1a68311aaf.jpg?v=1746888469
   Price: €179.00 EUR
 - [Nuremberg - Towel Bar Warmer with Screen](https://eu.paragonfaucets.com/products/nuremberg-towel-bar-warmer-of-stainless-steel): Nuremberg Premium Stainless Steel Electric Towel Warmer Elevate your post-shower experience with the Nuremberg Towel Bar Warmer, a high-performance heating solution designed to provide the ultimate comfort of a warm, dry towel. Beyond the luxury of heat, this electric rack serves as an essential hygiene tool, effectively drying damp fabrics to prevent the growth of bacteria and the development of musty odors, ensuring your bathroom remains fresh and inviting. Durable Stainless Steel Construction for Lifetime Reliability Unlike standard aluminum models, the Nuremberg is crafted from high-grade 304 stainless steel, offering exceptional structural integrity and the highest level of resistance to rust and corrosion in humid environments. The polished, heavy-duty bars provide a superior aesthetic and a large surface area for heat distribution, making it a robust and stylish focal point for any luxury master suite or guest bathroom. Energy-Efficient Performance with Seamless Integration Engineered for continuous use, this towel warmer utilizes low-wattage heating technology to provide consistent warmth while maintaining minimal energy consumption. Its compact, wall-mounted profile is designed to save space without sacrificing capacity, and the straightforward installation process ensures a seamless fit into your existing bathroom layout, delivering professional-grade performance with everyday simplicity. Key Specifications: Material: Premium 304 Stainless Steel Heating Technology: Electric Internal Heating Element Installation: Wall-Mounted (Space-Saving Design) Finish: High-Polish Chrome / Matte Options Safety: Integrated Overheat Protection and Waterproof Switch Energy Efficiency: Low-Power Consumption for 24/7 Use Functions: Towel Warming, Drying, and Bathroom Dehumidifying Included: All Mounting Brackets and Installation Hardware
-  Updated: 2026-10-28T13:15:04Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Towel Warmers
   Availability: Available
@@ -133,7 +133,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_5_fb05e6f9-8ded-4d70-b041-dd083e221f03.png?v=1746888473
     Price: €289.90 EUR
 - [Helsingor - Water Heating Faucet](https://eu.paragonfaucets.com/products/helsingor-water-heating-faucet): Helsingor Instant Electric Water Heating Faucet with Digital LED Monitor Experience the ultimate in modern convenience with the Helsingor Water Heating Faucet, designed to provide instant warm water at the turn of a lever. Equipped with a high-efficiency integrated heating element, this faucet eliminates the wait for hot water to travel through long pipes, delivering on-demand warmth directly at the basin. The sleek, built-in LED digital display provides real-time temperature feedback, ensuring you always have precise control for a safe and comfortable hand-washing experience. Energy-Efficient Tankless Design for Sustainable Living The Helsingor faucet utilizes advanced terminal heating technology to heat water only when in use, significantly reducing energy consumption compared to traditional bulky tank heaters. This eco-friendly, tankless solution is perfect for kitchens, guest bathrooms, powder rooms, or workshops where traditional hot water lines are difficult to install. Its intelligent internal configuration allows for a seamless transition between refreshing cold and soothing hot water with a single, ergonomic handle. Minimalist Sophistication with Advanced Safety Protection Beyond its high-tech capabilities, the Helsingor boasts a clean, minimalist silhouette that enhances the aesthetic of any contemporary kitchen or bathroom. Engineered with safety as a top priority, the internal structure features complete separation of water and electricity to prevent any electrical hazards. Constructed from premium, heat-resistant materials with a durable corrosion-resistant finish, this faucet offers a sophisticated look that is built for long-term reliability and peace of mind. Key Specifications: Heating Type: Instant Electric Terminal Heating (Tankless) Display: Real-Time LED Digital Temperature Screen Material: High-Temperature Resistant ABS and Stainless Steel Water Temperature Range: Adjustable up to 140°F (60°C) Safety Features: Integrated Water and Electricity Separation Installation: Deck Mounted (Standard Single Hole) Control Type: Single-Lever Mixer for Flow and Temperature Finish: Modern Chrome / Brushed options
-  Updated: 2026-10-16T18:55:40Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Electric Water Heating Kitchen Faucets
   Availability: Available
@@ -147,14 +147,14 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Sf18f903362864e7689f52cb46d7e73587.png?v=1746888476
     Price: €129.90 EUR
 - [Amersfoort - Electric Water Heating Faucet](https://eu.paragonfaucets.com/products/amersfoort-water-heating-faucet): Amersfoort Instant Electric Water Heating Faucet with Digital LED Display Experience the ultimate convenience of on-demand warmth with the Amersfoort Water Heating Faucet. Engineered with an integrated high-efficiency heating element, this tankless tap provides instant hot water in seconds, eliminating the wait for water to travel from a central heater. The built-in LED digital display provides real-time temperature feedback, ensuring you have precise control for a comfortable and safe hand-washing experience every time. Energy-Efficient Tankless Technology for Modern Bathrooms Designed for both sustainability and performance, the Amersfoort faucet only heats the water you use, significantly reducing energy waste compared to traditional tank systems. Its intelligent terminal heating technology allows for a seamless transition between cold and hot water with a single lever, making it an ideal solution for guest bathrooms, workshops, or any space where a dedicated hot water line is unavailable or inefficient to install. Sleek Minimalist Design with Advanced Safety Protection Beyond its high-tech functionality, the Amersfoort boasts a minimalist contemporary silhouette that complements any modern basin. Safety is paramount, featuring a specialized internal design that completely separates the water flow from the electrical components. Constructed from high-quality, heat-resistant materials and finished in a corrosion-resistant coating, this faucet offers a sophisticated look that is built for long-term reliability and peace of mind. Key Specifications: Heating Type: Instant Electric Terminal Heating (Tankless) Display: Real-Time LED Digital Temperature Screen Material: High-Temperature Resistant ABS and Stainless Steel Water Temperature Range: Adjustable up to approximately 140°F (60°C) Safety Features: Water and Electricity Separation Protection Installation: Deck Mounted (Standard Single Hole) Voltage: Compatible with standard household outlets Control: Single-Lever Hot/Cold Mixer
-  Updated: 2026-10-28T18:39:26Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Electric Water Heating Kitchen Faucets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/22_711f7b0d-91d0-4fee-ad6b-6f69c452fa6e.png?v=1746888485
   Price: €79.90 EUR
 - [Faaborg - Pull-Out Kitchen Faucet](https://eu.paragonfaucets.com/products/faaborg-pull-out-kitchen-faucet): Faaborg Modern L-Shaped Pull-Out Kitchen Faucet with Dual-Mode Sprayer Upgrade your culinary workspace with the Faaborg Pull-Out Kitchen Faucet, a perfect fusion of Scandinavian-inspired minimalism and heavy-duty functionality. Featuring a sleek L-shaped silhouette, this faucet provides maximum  for filling oversized stock pots and cleaning deep basins, while its premium matte finish resists fingerprints and water spots to maintain a pristine, modern look in any high-traffic kitchen. Versatile Reach and Multi-Function Spray Technology Experience total sink coverage with the integrated pull-out sprayer head, equipped with a smooth-retract nylon hose for effortless maneuverability. The ergonomic spray head allows you to toggle instantly between a splash-free aerated stream for daily rinsing and a powerful high-pressure spray for heavy-duty scrubbing, ensuring that every corner of your sink is easily accessible and spotless. Durable Brass Engineering and Drip-Free Performance Built to withstand the demands of a busy household, the Faaborg is constructed from solid corrosion-resistant brass for long-lasting structural integrity. It features an advanced ceramic disc cartridge that has been tested for over 500,000 uses to guarantee a leak-free experience and precise temperature control, making it a reliable and stylish  for your home renovation. Key Specifications: Material: Premium Solid Brass Construction Finish: Corrosion-Resistant Matte Black / Brushed Steel Spout Type: 360-Degree Swivel L-Shaped Sprayer: Pull-Out Head with Dual Stream and Spray Modes Valve Core: Ceramic Disc (Leak-Proof Technology) Installation: Single-Hole Deck Mount Included: Flexible Hot/Cold Supply Lines and Mounting Hardware
-  Updated: 2026-10-28T13:15:07Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Pull-Out Spout Kitchen Faucets
   Availability: Available
@@ -162,17 +162,17 @@
   - [Matte Black](https://eu.paragonfaucets.com/products/faaborg-pull-out-kitchen-faucet?variant=57564744057181)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_5cc74ad9-573f-4e97-8f91-4323fe15e58d.jpg?v=1746888483
-    Price: €89.90 EUR
+    Price: €107.90 EUR
   - [Brushed Gold](https://eu.paragonfaucets.com/products/faaborg-pull-out-kitchen-faucet?variant=57564744089949)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_191.jpg?v=1746888483
-    Price: €89.90 EUR
+    Price: €107.90 EUR
   - [Brushed Nickel](https://eu.paragonfaucets.com/products/faaborg-pull-out-kitchen-faucet?variant=57564744122717)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_19.jpg?v=1746888483
-    Price: €89.90 EUR
+    Price: €107.90 EUR
 - [Arnhem - Smart Shower Set System](https://eu.paragonfaucets.com/products/arnhem-smart-shower-set-system): Arnhem Smart Digital Rainfall Shower System with Real-Time Monitoring Experience the ultimate in bathroom innovation with the Arnhem Smart Shower Set, featuring a self-powered LED digital display. This intelligent system monitors water temperature and shower duration in real-time, requiring no batteries or external electricity. By providing instant visual feedback, it ensures a safe and comfortable bathing environment, eliminating the guesswork and protecting your family from unexpected temperature spikes. Intuitive Piano Key Controls and Four-Way Water Versatility Take total command of your shower experience with the Arnhem’s modern piano-key mixer interface. This sleek control panel allows you to effortlessly toggle between four high-performance water functions: a wide-coverage overhead rainfall shower, a multi-mode handheld sprayer, a high-flow tub tap, and a convenient bidet spray. Whether you are looking for a relaxing soak or a targeted rinse, this system provides professional-grade flexibility for the whole family. Premium Solid Brass Construction with Anti-Clog Technology Built for durability and long-lasting elegance, the Arnhem system is crafted from heavy-duty solid brass that is naturally resistant to rust and corrosion. The high-quality finish is designed to repel water spots and fingerprints, while the easy-clean silicone nozzles on the shower heads prevent limescale and mineral buildup. This combination of premium materials and smart design ensures consistent water pressure and a maintenance-free performance for years to come. Key Specifications: Main Material: Premium Grade Solid Brass Valve Core: Ceramic Disc (Drip-Free Technology) Display: Self-Powered LED Temperature and Time Monitor Functions: Overhead Rainfall, Handheld Spray, Tub Spout, Bidet Spray Control Type: Quad Piano Key Mixer Valve Shower Head: Large Rainfall Plate with Easy-Clean Silicone Nozzles Mounting Type: Wall-Mounted / Concealed Installation Finish Options: Matte Black, Gunmetal Gray, White
-  Updated: 2026-10-28T13:15:12Z
+  Updated: 2026-11-03T21:13:40Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -190,7 +190,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/12_e05e0549-2700-4116-8ede-7a79fc3309f0.png?v=1746888491
     Price: €399.90 EUR
 - [Zwolle - Smart Shower Set System](https://eu.paragonfaucets.com/products/zwolle-smart-shower-set-system): Zwolle Smart Digital Rainfall Shower System with Real-Time Temperature Display Elevate your daily ritual with the Zwolle Smart Shower Set, a masterpiece of modern bathroom engineering. This intelligent system features a built-in LED digital display that accurately monitors water temperature and shower duration in real-time. Powered entirely by water flow—requiring no batteries or external electricity—it provides a safer, more comfortable bathing experience by helping you find your perfect temperature instantly. Innovative Piano Key Controls and Multi-Flow Versatility Take full command of your spa experience with the Zwolle’s intuitive piano-key interface. This sleek control panel allows you to seamlessly toggle between four high-performance water outlets: a wide-coverage overhead rainfall shower, a high-pressure handheld sprayer, a convenient lower tub spout, and a dedicated bidet spray. Whether you need a relaxing soak or a quick rinse, this system adapts to every family member's needs. Premium Solid Brass Construction with Anti-Clog Technology The Zwolle system is built for longevity, crafted from high-grade solid brass that is naturally resistant to rust and corrosion. The elegant matte finish is designed to repel fingerprints and water spots, maintaining its sophisticated look with minimal maintenance. To ensure a lifetime of powerful water pressure, the shower heads feature flexible silicone nozzles that can be easily cleaned of mineral buildup with a simple touch. Key Specifications: Main Material: Premium Solid Brass Valve Core: High-Quality Ceramic Disc Display: Self-Powered LED Digital Temperature Monitor Flow Functions: Rainfall, Handheld Spray, Tub Spout, Bidet Spray Control Type: Quad Piano Key Mixer Valve Shower Head: Large Rainfall Plate with Silicone Nozzles Mounting Type: Wall-Mounted / Concealed Finish Options: Matte Black, Gunmetal Gray, White
-  Updated: 2026-10-29T15:45:32Z
+  Updated: 2026-11-06T13:00:27Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -212,7 +212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/13_7ae49dcb-b8be-4b5b-a677-cb4468c0eef1.png?v=1746888493
     Price: €389.90 EUR
 - [Dintel - Antique Brass Pull-Out Kitchen Faucet](https://eu.paragonfaucets.com/products/dintel-antique-brass-pull-out-kitchen-faucet): Dintel Antique Brass Pull-Out Kitchen Faucet Infuse your kitchen with timeless character using the Dintel Antique Pull-Out Faucet, a masterpiece that bridges the gap between classic European elegance and 21st-century convenience. This high-arc gooseneck tap features a stunning, hand-finished antique brass surface that resists fingerprints and water spots while serving as a warm, sophisticated centerpiece for traditional and farmhouse kitchens alike. Versatile Pull-Out Functionality and Precision Beyond its vintage silhouette, the Dintel is equipped with a modern pull-out spray head that extends your reach to every corner of the sink for effortless rinsing and pot filling. Solid Brass Durability and Smooth Operation Engineered for a lifetime of reliable service, the Dintel is constructed from heavy-duty solid brass to ensure maximum structural integrity and corrosion resistance. Internally, premium ceramic disc valves provide ultra-smooth handle movement and a  leak-free performance, making this faucet a perfect marriage of old-world charm and high-performance engineering. Key Specifications: Material: Solid Brass Construction Finish: Antique Brass (Corrosion-Resistant) Spout Type: High-Arc 360-Degree Swivel Sprayer: Pull-Out Head Valve Core: Ceramic Disc (Drip-Free) Installation: Deck Mounted (Single Hole) Included: Hot/Cold Waterlines and Mounting Hardware
-  Updated: 2026-10-28T13:15:12Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Pull-Down Spout Kitchen Faucets
   Availability: Available
@@ -226,7 +226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Hca98b254180b49f7b64311d19fbe8a50a.png?v=1746888498
     Price: €189.90 EUR
 - [Utrecht - Smart Shower Set System](https://eu.paragonfaucets.com/products/utrecht-smart-shower-set-system): Utrecht Smart Digital Rainfall Shower System with Thermostatic Control Experience the future of bathroom luxury with the Utrecht Smart Shower Set, featuring an integrated LED digital display that shows real-time water temperature and shower duration. Powered by water flow alone—no batteries required—this intelligent system ensures a perfect, safe temperature every time, protecting your family from unexpected scalds while adding a high-tech edge to your modern bathroom. Multi-Function Flow Modes for a Spa-Like Experience This comprehensive system offers unparalleled versatility with four distinct water outlets: a wide-coverage overhead rainfall shower for total relaxation, a high-pressure waterfall tub tap, a flexible handheld sprayer for targeted rinsing, and a specialized bidet spray. The intuitive "piano key" control panel allows you to switch between functions effortlessly, providing a customized spa experience tailored to your daily needs. Premium Solid Brass Construction with Anti-Clog Technology Engineered for durability and hygiene, the Utrecht system is crafted from heavy-duty solid brass with a sophisticated matte finish that resists corrosion and water spots. The shower heads are equipped with easy-clean silicone nozzles that prevent lime-scale and mineral buildup, ensuring consistent, powerful water pressure and a maintenance-free performance for years to come. Key Specifications: Main Material: Premium Solid Brass Valve Core: Ceramic Disc (Thermostatic Compatibility) Display: Self-Powered LED Digital Temperature Monitor Functions: Rainfall Overhead, Handheld Spray, Tub Spout, Bidet Spray Control Type: Smart Piano Key Mixer Valve Shower Head Material: High-Grade ABS with Silicone Nozzles Mounting: Wall-Mounted / Concealed Installation Included: All Mounting Hardware, Valve, Shower Arms, and Hoses
-  Updated: 2026-10-28T13:15:13Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -240,7 +240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/18_e1874a80-11c1-4506-8b3f-8d1d8c7f11d5.png?v=1746888499
     Price: €479.90 EUR
 - [Karlstad - Three-Way Kitchen Faucet with Filter Tap & Pull-Down Spout for Kitchen Sink](https://eu.paragonfaucets.com/products/karlstad-three-way-kitchen-faucet-with-pull-out-filter-tap-for-kitchen-sink): Karlstad Modern Pulldown Kitchen Faucet, crafted from solid brass for durability. Enjoy 3-mode sprayer flexibility (stream, spray, pause) for efficient dish cleaning. Gooseneck design and 360-degree swivel spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water. Pull-out hose included.
-  Updated: 2026-10-29T07:30:20Z
+  Updated: 2026-11-06T12:38:10Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
@@ -266,7 +266,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/H8ea0a250de1f4daf988a9e41d0bd04d9v2-fotor-20240630111814_9ad0b1db-1d0f-4e25-98e4-2a2c3a683127.jpg?v=1770055021
     Price: €198.00 EUR
 - [Svartan - Wall Mount Bathroom Faucet](https://eu.paragonfaucets.com/products/svartan-wall-mount-bathroom-faucet): Svartan Modern Wall-Mounted Bathroom Faucet Transform your vanity with the Svartan Wall-Mounted Faucet, an architectural masterpiece designed for clean, minimalist aesthetics. By moving the fixtures off the countertop and onto the wall, this set maximizes your usable sink space while providing a striking visual focal point that perfectly complements vessel sinks and modern basins. Precise Single-Handle Water Control The Svartan features a separate single-lever handle, allowing for intuitive and precise management of both water temperature and flow volume. This split-component design offers flexibility in installation, enabling you to customize the distance between the spout and the controller to fit your specific bathroom layout and ergonomic preferences. Space-Saving Architectural Durability Crafted for longevity and performance, this wall-mounted system is built from premium corrosion-resistant materials. The streamlined spout delivers a steady, aerated stream to prevent splashing, while the concealed mounting hardware provides a seamless, clutter-free look that is as easy to clean as it is beautiful to behold. Key Specifications: Installation Type: Wall Mounted / Concealed Handle Type: Single Lever (Independent) Design Style: Modern Minimalist / Industrial Mounting Holes: 2-Hole Configuration Material: High-Quality Solid Brass Finish: Matte Black / Polished Chrome Compatibility: Ideal for Vessel Sinks and Undermount Basins
-  Updated: 2026-10-28T13:15:13Z
+  Updated: 2026-10-31T20:31:20Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Wall-Mounted Bathroom Faucet
   Availability: Available
@@ -332,7 +332,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/21_ce6bd081-0d11-4699-831c-87ffbbcf5526.png?v=1746888506
     Price: €149.90 EUR
 - [Bergen - Single Lever Modern Bathroom Faucet Single Hole Bathroom Mixer](https://eu.paragonfaucets.com/products/bergen-luxury-bathroom-faucet): Elevate your bathroom with our Bergen Faucet—a blend of convenience and style. Crafted with precision from solid brass and ceramic disc technology, it promises durability and 100% leak-free performance. Experience luxury at your fingertips with its rich feel and splendor designs, showcasing your exquisite taste. Resist
-  Updated: 2026-10-28T13:14:45Z
+  Updated: 2026-11-02T16:00:35Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Luxury-Bathroom-Faucet-Curve-Single-Handle-Wash-Basin-Sink-Faucet-Hot-And-Cold-Water-Sink-Mixer.jpg_640x640.jpg__4-transformed-ezgif.com-crop.png?v=1746888516
     Price: €289.90 EUR
 - [Westhafen - Modern Waterfall Shower Bathtub Wall Mounted Faucet Kit](https://eu.paragonfaucets.com/products/westhafen-modern-waterfall-shower-bathtub-wall-mounted-faucet-kit): Westhafen Waterfall Shower Kit: Modern Luxury Reimagined Transform your daily routine into a spa-like retreat with the Westhafen Waterfall Shower and Bathtub Kit. This masterfully crafted system is designed for those who appreciate the calming aesthetics of nature combined with high-end modern engineering. Featuring a wide, architectural waterfall spout, the Westhafen creates a stunning cascade of water that serves as both a visual centerpiece and a luxurious way to soak, bringing immediate sophistication to any contemporary bathroom. Dual-Functionality with Precision Handheld Control The Westhafen system offers the ultimate in versatility, allowing you to switch seamlessly between the indulgent waterfall flow and a high-performance handheld shower head. The ergonomic handheld unit is perfect for targeted rinsing, cleaning the tub, or a more controlled bathing experience. Its minimalist lever provides intuitive control over water temperature and flow, ensuring that every shower is perfectly tailored to your preference. Engineered for Longevity and Effortless Upkeep Forged from premium-grade solid brass, the Westhafen is built to resist corrosion and withstand the test of time. The interior is powered by advanced ceramic disc cartridges, guaranteeing a lifetime of drip-free operation and ultra-smooth handle movement. To keep your sanctuary looking pristine, the kit features integrated anti-limescale technology, making it incredibly easy to wipe away mineral deposits and maintain a high-pressure, crystal-clear water flow. Key Specifications: Material: High-Density Solid Brass for Maximum Durability Design: Modern Minimalist with Waterfall Cascade Spout Installation: Wall-Mounted (Standard Plumbing Compatibility) Functions: Dual-Output (Waterfall Tub Filler & Handheld Spray) Valve: Precision-Engineered Drip-Free Ceramic Cartridge Maintenance: Easy-Clean Anti-Limescale Silicone Nozzles Finish: Multi-Layer Corrosion-Resistant Coating Included: Waterfall Spout, Handheld Sprayer, Flexible Hose, and Mixing Valve
-  Updated: 2026-10-28T13:14:45Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_9_797ec87b-1080-4b91-a140-060e7a5cc077.jpg?v=1746888515
     Price: €449.90 EUR
 - [Skogar - Modern Rain Shower Kit for Bathroom](https://eu.paragonfaucets.com/products/skogar-modern-rain-shower-kit-for-bathroom): Skogar Golden Rainfall System: The Epitome of Bathroom Opulence Transform your daily routine into a high-end spa experience with the Skogar Modern Rain Shower Kit. Meticulously designed for those who seek both glamour and performance, this system features a stunning golden finish that radiates luxury. The architectural silhouette and radiant gold plating make it the definitive centerpiece for a contemporary master suite renovation, bringing a sophisticated glow to your bathroom decor. Indulgent Rainfall and Versatile Handheld Control Immerse yourself in a soothing downpour with the Skogar’s oversized rainfall shower head, engineered to simulate the gentle sensation of a summer rain. For added precision, the kit includes a versatile handheld sprayer with a premium flexible hose. Whether you are seeking a full-body soak or a targeted rinse, the intuitive diverter allows you to switch between outlets seamlessly, providing a personalized bathing experience tailored to your comfort. Engineered for Durability and Easy Maintenance Beneath its elegant exterior, the Skogar is forged from premium solid brass, ensuring a rust-proof life cycle and unrivaled structural integrity. The system is powered by precision-engineered ceramic cartridges, guaranteeing a drip-free performance and ultra-smooth handle operation. To ensure lasting beauty, the nozzles feature advanced anti-limescale technology, allowing you to wipe away mineral buildup with a simple touch, keeping your water flow powerful and your kit looking pristine. Key Specifications: Material: High-Density Solid Brass Construction Finish: Multi-Layer Luxury Golden Coating (Tarnish-Resistant) Shower Head: Large Rainfall Spout for Full-Body Coverage Handheld: Ergonomic Spray Head with High-Flex Hose Valve Type: Drip-Free Precision Ceramic Disc Cartridge Maintenance: Easy-Clean Silicone Nozzles with Anti-Limescale Technology Installation: Wall-Mounted (Standard Plumbing Compatibility) Included: Rainfall Head, Handheld Spray, Mixing Valve, and All Trim Hardware
-  Updated: 2026-10-16T18:55:45Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -420,7 +420,7 @@ Warranty: 1 Year
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/O1CN01UNcyUD20gdNsABnwF__2214546446879-0-cib__2_-transformed.jpg?v=1746888526
     Price: €49.90 EUR
 - [Deckmount Plate for Kitchen Faucet](https://eu.paragonfaucets.com/products/deckmount-plate-for-kitchen-faucet): Our 10″ deck mount plate for kitchen faucets covers extra sink holes, providing a sleek, seamless look. Made from high-quality, durable materials, it ensures long-lasting performance. Available in various stylish colors, it matches your kitchen decor perfectly. Easy to install, this deck mount plate is a practical and attractive addition to any kitchen.
-  Updated: 2026-10-29T08:01:03Z
+  Updated: 2026-11-04T21:01:45Z
   Vendor: Paragon Faucets
   Product Type: 
   Availability: Available
@@ -444,7 +444,7 @@ Warranty: 1 Year
     Availability: Available
     Price: €29.90 EUR
 - [Hornavan - Kitchen Faucet with Pull Out Spout](https://eu.paragonfaucets.com/products/hornavan-kitchen-faucet-with-pull-out-spout): Hornavan Luxury Pull-Out Kitchen Faucet: The Pinnacle of Elegance Make a bold statement in the heart of your home with the Hornavan Kitchen Faucet. A true masterpiece of modern design, this faucet combines a striking aesthetic with professional-grade performance. Featuring a brilliant, multi-layer polished gold finish, the Hornavan is designed to serve as a stunning focal point, bringing a touch of high-end luxury and warmth to any contemporary or transitional kitchen space. Solid Brass Engineering and Dual-Function Versatility Beyond its golden exterior, the Hornavan is forged from heavy-duty solid brass, ensuring exceptional durability and resistance to the rigors of daily use. The high-arc 360-degree swivel spout is engineered to serve double sinks with effortless ease. Its integrated pull-out sprayer features dual-functionality, allowing you to switch between a soft aerated stream for gentle rinsing and a powerful spray for tackling stubborn food residue. Precision Control with Drip-Free Technology Experience smooth, intuitive operation with the Hornavan’s single-lever temperature and flow control. Equipped with a premium ceramic disc cartridge, this faucet guarantees a lifetime of drip-free, reliable performance. Whether you are washing delicate glassware or filling large stockpots, the Hornavan delivers a consistent, splash-free flow, proving that sophistication and practicality can coexist perfectly. Key Specifications: Material: Premium Grade Solid Brass Construction Finish: High-Shine Polished Gold (Tarnish-Resistant) Spout Type: 360° Swivel with Flexible Pull-Out Sprayer Spray Modes: Dual-Function (Stream and Power Spray) Valve: High-Performance Ceramic Disc Cartridge Control: Single-Handle Hot and Cold Water Mixer Installation: Deck Mounted (Standard Single-Hole) Included: Flexible Hot/Cold Hoses and Mounting Hardware
-  Updated: 2026-10-28T13:14:49Z
+  Updated: 2026-10-31T20:31:10Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Pull-Down Spout Kitchen Faucets
   Availability: Available
@@ -478,7 +478,7 @@ Cartridge: Ceramic Disk Cartridge
 Maximum Flow Rate (GPM): 1.5 GPM
 Warranty: 2 Years
 Elevate your bathroom experience with the Bali Bathroom Washbasin Waterfall Faucet. Perfect for any modern bathroom, this faucet offers style, functionality, and high-quality construction.
-  Updated: 2026-10-28T13:14:24Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Three Piece Split Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -508,7 +508,7 @@ Elevate your bathroom experience with the Bali Bathroom Washbasin Waterfall Fauc
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_3_13710d5c-6951-4d45-b17c-6535fccf498a.jpg?v=1746888539
     Price: €289.90 EUR
 - [Atlant Kitchen Sink Sponge Drain Rack](https://eu.paragonfaucets.com/products/atlant-kitchen-sink-rack): Atlant Sink Rack: Hygiene Meets Smart Organization Keep your kitchen sanitary and your countertops clear with the Atlant Kitchen Sink Sponge Drain Rack. This essential accessory provides a dedicated, elevated home for your sponges and scrubbers, keeping them away from sitting water and harmful bacteria. By promoting faster drying and better organization, the Atlant rack ensures your cleaning tools stay fresh and your sink area remains pristine. Stainless Steel Durability & Universal Fit Forged from premium-grade stainless steel, the Atlant is built to survive the constant moisture of a busy kitchen sink. Its rust-resistant properties and polished finish ensure it remains a long-lasting part of your kitchen setup. Designed with versatility in mind, the Atlant features a flexible hanging hook that fits securely over most standard sink dividers and faucet bases, providing a stable hold without the need for unreliable suction cups. Hygienic Open-Air Drainage The Atlant rack is engineered with an open-wire drainage system that allows excess water to drip directly into the sink. This maximum airflow design prevents the damp, musty odors associated with sponges left on the counter or in the basin. Maintenance is effortless—simply wipe it down or rinse it under the tap to keep it looking new. It’s the small, smart upgrade that makes a big difference in your daily kitchen efficiency. Key Specifications: Material: Heavy-Duty Rust-Resistant Stainless Steel Design: Ventilated Open-Wire for Fast Drying Installation: Hassle-Free Hanging Design (No tools required) Hygienic: Prevents bacteria buildup by keeping sponges elevated Compatibility: Universal fit for most single and double basins Maintenance: Easy to clean and dishwasher safe
-  Updated: 2026-10-29T16:31:22Z
+  Updated: 2026-11-02T13:45:29Z
   Vendor: Paragon Faucets
   Product Type: Home & Garden > Kitchen & Dining > Kitchen Tools & Utensils > Kitchen Organizers > Kitchen Utensil Holders & Racks
   Availability: Available
@@ -542,7 +542,7 @@ Key specifications:
 - Cartridge: Ceramic Disk Cartridge
 - Maximum Flow Rate (GPM): 1.75 GPM
 - Warranty: 2 Years
-  Updated: 2026-10-28T13:14:27Z
+  Updated: 2026-11-03T21:13:40Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap
   Availability: Available
@@ -579,9 +579,9 @@ Black Brushed Nickel Finish: Modern look that complements any kitchen decor.
 Built-In Aerator: Provides a consistent, splash-free water flow.
 Ceramic Cartridge: Ensures precise control and durability.
 Enhance your kitchen's functionality and aesthetic with this versatile and stylish faucet, perfect for any modern home.
-  Updated: 2026-10-29T13:58:21Z
+  Updated: 2026-11-01T08:31:11Z
   Vendor: Paragon Faucets
-  Product Type: Faucets > Kitchen Faucets > Pull-Down Spout Kitchen Faucets
+  Product Type: Faucets > Kitchen Faucets > Pull-Out Spout Kitchen Faucets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Kitchen-Faucets-Black-Brushed-Nickel-Brass-Button-Switch-Stream-Sprayer-Head-Sink-Pull-Out-Faucet-Crane_jpg_640x640_jpg.jpg?v=1746888555
   - [Chrome](https://eu.paragonfaucets.com/products/drammen-kitchen-faucet-with-sprayer?variant=57564748546397)
@@ -597,7 +597,7 @@ Enhance your kitchen's functionality and aesthetic with this versatile and styli
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_12_0f05274a-d138-40da-94e2-2b0ec7cdff76.jpg?v=1746888555
     Price: €189.90 EUR
 - [Stavanger - Professional Pull-Down Kitchen Faucet With High Arc](https://eu.paragonfaucets.com/products/transformer-pull-out-copper-kitchen-faucet): Experience ultimate flexibility with the Stavanger Single-Hole Dual Handle Kitchen Faucet featuring a Pull-Down Spring Spout. Choose between an aerated flow or a powerful spray, meeting all your modern kitchen requirements. The faucet's spiral details and robust brass construction make it a stunning statement piece that stands the test of time. With ceramic disc technology ensuring leak-free performance after 500,000 uses, this faucet is the perfect addition to complete your kitchen remodel.
-  Updated: 2026-10-29T16:18:33Z
+  Updated: 2026-11-05T20:46:20Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Spring Pull-Down Kitchen Faucets > Pre-Rinse Spring Pull-Down Kitchen Faucets with Sprayer
   Availability: Available
@@ -619,7 +619,7 @@ Enhance your kitchen's functionality and aesthetic with this versatile and styli
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Gold_Kitchen_Faucet_with_Pull-Down_Feature.png?v=1746888561
     Price: €198.90 EUR
 - [Halden - Deck Mounted Victorian Style Kitchen Faucet with Pull-Out Spout](https://eu.paragonfaucets.com/products/halden-pull-out-kitchen-faucet): KITCHEN FAUCET: ELEVATE YOUR KITCHEN WITH THE HALDEN DECK MOUNTED VICTORIAN STYLE FAUCET Transform your kitchen into a hub of efficiency and elegance with the Halden Deck Mounted Victorian Style Kitchen Faucet. This exquisite faucet blends superior craftsmanship, innovative design, and high-performance features to enhance your kitchen experience.
-  Updated: 2026-10-29T12:00:32Z
+  Updated: 2026-10-31T20:31:20Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Pull-Down Spout Kitchen Faucets
   Availability: Available
@@ -663,7 +663,7 @@ Style of Handle: Lever
 Cartridge: Ceramic Disk Cartridge
 Maximum Flow Rate (GPM): 1.8 GPM
 Warranty: 2 Years (can be extended to 5 Years)
-  Updated: 2026-10-28T13:14:32Z
+  Updated: 2026-11-05T20:13:16Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Spring Pull-Down Kitchen Faucets > Pre-Rinse Spring Pull-Down Kitchen Faucets with Sprayer
   Availability: Available
@@ -689,7 +689,7 @@ Warranty: 2 Years (can be extended to 5 Years)
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/6.webp?v=1746888568
     Price: €169.90 EUR
 - [Commercial Kitchen Faucet with Pull-Down Sprayer, Spring Spout, Pot Filler](https://eu.paragonfaucets.com/products/gothenburg-pull-out-kitchen-faucet): Discover the superior functionality of the Gothenburg commercial-level spring goose-neck mixer, an exceptional addition to your kitchen. Unleash the versatility of its highly flexible retractable pull-down nozzle, allowing you to precisely direct water flow wherever needed.
-  Updated: 2026-10-28T13:14:32Z
+  Updated: 2026-11-06T22:00:25Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Spring Pull-Down Kitchen Faucets > Pre-Rinse Spring Pull-Down Kitchen Faucets with Sprayer
   Availability: Available
@@ -707,7 +707,7 @@ Warranty: 2 Years (can be extended to 5 Years)
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_3_7ca986eb-73a3-4518-b613-f858edfcb1da.jpg?v=1746888569
     Price: €298.00 EUR
 - [Helsingborg - Smart Modern Pull-Out Bathroom Faucet, Bathroom Waterfall & Sink Faucet with Temperature Display](https://eu.paragonfaucets.com/products/helsingborg-intelligent-waterfall-bathroom-faucet): Introducing the Helsingborg - Smart Modern Style Waterfall & Pull-Out Bathroom Faucet, a revolutionary innovation in bathroom elegance crafted by Paragon Faucets. The Helsingborg bathroom sink faucet presents an intelligent solution for your bathroom needs, boasting a solid copper construction and an innovative battery-free digital display system that offers real-time water temperature without additional power sources. This faucet features an intelligent rotating nozzle that seamlessly transitions water flow from a soothing waterfall to a precise stream, bringing a new dimension to your bathroom. Available in classic chrome and trendy brushed carbon finishes, the faucet harmonizes effortlessly with various bathroom styles. Experience the convenience of Paragon Faucets' unique real-time water temperature display system and a three-function pull-out sprayer, enabling easy transitions between aerated stream, waterfall, and boost modes. The boost technology enhances the flow rate by 30%, catering to faster filling or more powerful cleaning tasks. Its easy-to-clean surface resists mineral buildup, ensuring a durable and enduring performance. Choose the Helsingborg - Smart Modern Style Waterfall & Pull-Out Bathroom Faucet from Paragon Faucets for an intelligent blend of modern style, smart technology, and versatile functionality, elevating your bathroom experience.
-  Updated: 2026-10-28T13:14:35Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Smart Modern Bathroom Faucets > Modern Faucets with Temperature Display
   Availability: Available
@@ -753,7 +753,7 @@ Key specifications:
 - Cartridge: Ceramic Disk Cartridge
 - Maximum Flow Rate (GPM): 1.75 GPM
 - Warranty: 2 Years
-  Updated: 2026-10-29T17:45:35Z
+  Updated: 2026-11-06T17:45:35Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Touch Kitchen Faucets > Touch Kitchen Faucets with Sprayer
   Availability: Available
@@ -791,7 +791,7 @@ Key specifications:
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/GlassyGold.png?v=1746888578
     Price: €149.90 EUR
 - [Leiden - Smart Modern Rotating Bathroom Faucet with Temperature Display](https://eu.paragonfaucets.com/products/leiden-smart-rotating-kitchen-bathroom-faucet): Introducing the Leiden Smart Rotating Kitchen & Bathroom Faucet by Paragon Faucets. This modern faucet combines sleek design with advanced features, including a battery-free digital display for real-time water temperature, and a smart rotating nozzle with three water modes: aerated stream, powerful spray, and boost mode. Made from solid copper, it ensures durability and longevity. Available in elegant finishes, it’s the perfect upgrade for any kitchen or bathroom.
-  Updated: 2026-10-28T13:14:36Z
+  Updated: 2026-11-02T13:45:30Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Smart Modern Bathroom Faucets > Modern Faucets with Temperature Display
   Availability: Available
@@ -839,7 +839,7 @@ Specification: Tee + hose + glass washer
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_92c73514-392e-4e38-bfec-b4a727b58942.png?v=1776536381
     Price: €49.90 EUR
 - [Kitchen Sink Soap Dispenser Pump, Deck Mounted](https://eu.paragonfaucets.com/products/kitchen-sink-soap-dispenser-pump-deck-mounted): Surface finishing: BrushedSize of holes: 26-40mmMaterial: ABS, Stainless Steel
-  Updated: 2026-10-29T16:31:24Z
+  Updated: 2026-10-30T19:34:06Z
   Vendor: Paragon Faucets
   Product Type: Accessory
   Availability: Available
@@ -892,7 +892,7 @@ Style of Handle: Lever
 Cartridge: Ceramic Disk Cartridge
 Maximum Flow Rate (GPM): 1.2 GPM
 Warranty: 2 Years
-  Updated: 2026-10-28T13:14:40Z
+  Updated: 2026-11-04T19:45:35Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -936,7 +936,7 @@ Style of Handle: Lever
 Cartridge: Ceramic Disk Cartridge
 Warranty: 2 Years
 Experience the perfect blend of style and functionality with the Odda Modern Waterfall Bathroom Sink Faucet. Ideal for any bathroom, this faucet offers modern aesthetics, high-quality construction, and easy installation.
-  Updated: 2026-10-29T12:00:32Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -962,7 +962,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_2_d4717efb-8cbe-4cff-a241-981e37a8ece5.jpg?v=1746888603
     Price: €159.90 EUR
 - [Bodo - Modern Waterfall Basin Bathroom Sink Faucet Single Handle Single Hole](https://eu.paragonfaucets.com/products/bodo-modern-waterfall-basin-bathroom-sink-faucet-single-handle-single-hole): Upgrade your bathroom with the Bodo Waterfall Bathroom Sink Faucet. This deck-mounted, single-hole bathroom faucet features a sleek, modern design and solid brass construction for durability. Enjoy easy installation and smooth water flow, making it a perfect blend of style and functionality for any bathroom.
-  Updated: 2026-10-28T13:14:42Z
+  Updated: 2026-11-06T07:59:11Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -992,7 +992,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/18.jpg?v=1746888611
     Price: €149.00 EUR
 - [Jorstad - Wall Mounted Kitchen Faucet Modern Foldable Cold Only Pot Filler](https://eu.paragonfaucets.com/products/jorstad-wall-mounted-foldable-kitchen-faucet): Introducing the Jorstad Modern Cold Only Pot Filler, a perfect blend of modern technology and exquisite design, thoughtfully created to transform your kitchen experience. This innovative pot filler is a symbol of our passion for merging sophistication with practicality, ensuring every use is both enjoyable and efficient.
-  Updated: 2026-10-28T13:14:51Z
+  Updated: 2026-11-03T15:00:36Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Wall Mounted Kitchen Faucets > Pot Fillers
   Availability: Available
@@ -1018,7 +1018,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Jorstad_sophisticated_wall-mounted_kitchen_foldable_faucet.jpg?v=1746888610
     Price: €198.00 EUR
 - [Lovasen - Wall Mounted Double Handle Hot & Cold Rotatable Faucet for Bathroom Sink](https://eu.paragonfaucets.com/products/lovasen-wall-mounted-double-handle-bathroom-sink-faucet): Lovasen Wall-Mounted Double Handle Faucet, crafted from solid brass with a corrosion-resistant finish. Features dual cross handles for precise control, a 360-degree rotatable spout, and a splash-proof aerator. Ideal for space-saving bathroom installations.
-  Updated: 2026-10-28T13:14:52Z
+  Updated: 2026-10-31T20:31:10Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Bathroom Faucets > Wall-Mounted Bathroom Faucet
   Availability: Available
@@ -1048,7 +1048,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Rose-Gold-Basin-Faucet-Wash-Faucet-Double-Handle-3-Holes-Wall-Mounted-Bathroom-Faucet-360-Rotate-Two-Handles-Hot-and-Cold-Upside-Down.jpg?v=1746888617
     Price: €189.90 EUR
 - [Tonsberg - Shower Head With Water Saving Filter](https://eu.paragonfaucets.com/products/shower-head-with-water-filter-tonsberg): Tonsberg High-Pressure Filtered Shower Head: Power Meets Purity Transform your bathroom into a rejuvenating sanctuary with the Tonsberg Filtered Shower Head. Engineered to solve the common problems of hard water and low pressure, this game-changing handheld sprayer utilizes a multi-stage filtration system to remove chlorine, heavy metals, and impurities. The result is "soft" water that is significantly gentler on your skin and hair, helping to reduce dryness and irritation from the very first use. Advanced Ionic Filtration and Mineral Infusion The Tonsberg features a transparent handle filled with natural bioactive mineral beads that act as an ionic filter. These beads work to balance the water's pH levels and infuse it with beneficial minerals while trapping sediment and toxins. This hidden technology ensures that every drop touching your skin is purified, providing a cleaner, more refreshing way to shower that traditional shower heads simply cannot match. Micro-Nozzle Technology for Maximum Water Pressure Experience a powerful, spa-like stream even in homes with low water pressure. The Tonsberg is designed with laser-cut micro-nozzle technology, which increases water flow speed and pressure by up to 200% while simultaneously reducing water consumption by up to 30%. This efficient design allows you to enjoy a high-intensity rinse while lowering your utility bills, making it a total upgrade to your daily hygiene routine. Key Specifications: Filtration: Multi-Stage Ionic Mineral Bead System Pressure Boost: Up to 200% Increase via Micro-Nozzle Design Water Saving: Up to 30% Reduction in Water Usage Material: Eco-Friendly ABS with Chrome/Clear Finish Installation: Universal G1/2” Thread (Fits all standard shower hoses) Modes: Targeted High-Pressure Spray Maintenance: Replaceable Mineral Beads for Continued Purity
-  Updated: 2026-10-29T12:00:32Z
+  Updated: 2026-11-06T13:00:27Z
   Vendor: Paragon Faucets
   Product Type: Plumbing Fixture Hardware & Parts > Shower Parts > Shower Heads
   Availability: Available
@@ -1090,7 +1090,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/pixelcut-export_18_edee05c5-eaa8-4db8-b7f7-fc9d1a3f5244.jpg?v=1746888637
     Price: €49.90 EUR
 - [Ristafallet Pro - Smart Workstation Kitchen Sink Waterfall Stainless Steel Dish Basin](https://eu.paragonfaucets.com/products/ristafallet-pro-smart-workstation-kitchen-sink-waterfall-stainless-steel-dish-basin): Introducing the Ristafallet Pro, the ultimate smart workstation sink that transforms your kitchen experience. This innovative all-in-one sink boasts a sleek pull-out faucet with 3 different modes to handle everyday tasks effortlessly, while the separate waterfall outlet brings an elegant touch to your washing routine. A digital display shows real-time water temperature and usage duration, adding convenience and control. With a dedicated tap for filtered water, you’ll always have fresh, clean drinking water at hand. Plus, the built-in glass rinser simplifies cleaning your drinkware. Combining modern style, functionality, and advanced features, the Ristafallet Pro is the ideal choice for upgrading your kitchen.
-  Updated: 2026-10-28T13:15:15Z
+  Updated: 2026-11-06T17:45:35Z
   Vendor: Paragon Faucets
   Product Type: Sinks > Kitchen Sinks > Smart Kitchen Workstation Sink
   Availability: Available
@@ -1112,7 +1112,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/photo_2025-09-17_20.56.12_059f36a5-3e25-454a-85aa-ac2b7dbcfd00.jpg?v=1776701646
     Price: €589.00 EUR
 - [Trier - Three-Way Kitchen Faucet with Filter Tap Reverse Osmosis Compatible and Pull-Down Spout](https://eu.paragonfaucets.com/products/trier-three-way-kitchen-faucet-with-filter-tap-reverse-osmosis-compatible-and-pull-down-spout): Trier Modern Pulldown Kitchen Faucet, crafted from solid brass or copper for durability. 360-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T14:33:49Z
+  Updated: 2026-11-03T21:12:45Z
   Vendor: Paragon Faucets
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
@@ -1134,7 +1134,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/S22a8ff396f69464fba4488242059e0b8d-min.png?v=1771529920
     Price: €299.90 EUR
 - [Augsburg - Three-Way Kitchen Faucet with Filter Tap Reverse Osmosis Compatible](https://eu.paragonfaucets.com/products/augsburg-three-way-kitchen-faucet-with-filter-tap): Augsburg Modern Kitchen Faucet, crafted from solid brass or copper for durability. 90-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T13:15:16Z
+  Updated: 2026-11-06T15:30:21Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap
   Availability: Available
@@ -1160,7 +1160,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/21_d6b2e6be-98eb-4196-b875-19a7d96e9b9d.png?v=1778167439
     Price: €198.90 EUR
 - [Middelburg - Three-Way Kitchen Faucet with Filter Tap Reverse Osmosis Compatible](https://eu.paragonfaucets.com/products/middelburg-three-way-kitchen-faucet-with-filter-tap-reverse-osmosis-compatible): Middelburg Modern Kitchen Faucet, crafted from solid brass or copper for durability. 90-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T13:15:19Z
+  Updated: 2026-11-06T17:45:35Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap
   Availability: Available
@@ -1202,7 +1202,7 @@ Experience the perfect blend of style and functionality with the Odda Modern Wat
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/19_a091486f-4763-44a1-b13a-8b4312ef674f.jpg?v=1778167481
     Price: €199.90 EUR
 - [Middelburg Pro - Three-Way Pull-Out Kitchen Faucet with Filter Tap Reverse Osmosis Compatible](https://eu.paragonfaucets.com/products/middelburg-pro-three-way-kitchen-faucet-with-filter-tap-reverse-osmosis-compatible): Middelburg Pro Modern Kitchen Faucet, crafted from solid brass or copper for durability. 90-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T13:15:20Z
+  Updated: 2026-11-03T21:13:40Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
@@ -1235,7 +1235,7 @@ Black Brushed Nickel Finish: Modern look that complements any kitchen decor.
 Built-In Aerator: Provides a consistent, splash-free water flow.
 Ceramic Cartridge: Ensures precise control and durability.
 Enhance your kitchen's functionality and aesthetic with this versatile and stylish faucet, perfect for any modern home.
-  Updated: 2026-10-28T13:15:21Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Pull-Down Spout Kitchen Faucets
   Availability: Available
@@ -1253,7 +1253,7 @@ Enhance your kitchen's functionality and aesthetic with this versatile and styli
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/24_b9f604a4-4e2a-4b8c-abdb-7c8728876653.jpg?v=1778167522
     Price: €489.90 EUR
 - [Harlingen - 3-Way Kitchen Faucet Filter Tap RO Compatible Pull-Down](https://eu.paragonfaucets.com/products/harlingen-three-way-kitchen-faucet-with-filter-tap-reverse-osmosis-compatible-and-pull-down-spout): Harlingen Modern Pulldown Kitchen Faucet, crafted from solid brass or copper for durability. 360-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T13:15:22Z
+  Updated: 2026-11-03T14:46:21Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
@@ -1267,7 +1267,7 @@ Enhance your kitchen's functionality and aesthetic with this versatile and styli
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/23_ef56fda7-cc63-49fd-bcf9-f92df05ba8e7.jpg?v=1778167540
     Price: €348.90 EUR
 - [Husavik - 3-Way Kitchen Faucet Filter Tap RO Compatible Pull-Down](https://eu.paragonfaucets.com/products/husavik-three-way-kitchen-faucet-with-filter-tap-reverse-osmosis-compatible-and-pull-down-spout): Trier Modern Pulldown Kitchen Faucet, crafted from solid brass or copper for durability. 360-degree spout offer convenience. Corrosion resistant finish. Separate waterway for filtered water compatible with Reverse Osmosis filter
-  Updated: 2026-10-28T13:15:23Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
@@ -1309,7 +1309,7 @@ Installation: Deck-mounted, 3-hole setup
 Valve Core: Ceramic for durability and smooth control
 
 Application: Ideal for bathrooms, hotels, and sports venues
-  Updated: 2026-10-28T13:15:24Z
+  Updated: 2026-10-31T20:31:11Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Three Piece Split Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -1323,7 +1323,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/1_58076291-2df6-42d1-984f-c159d0463e1f.jpg?v=1778167581
     Price: €198.90 EUR
 - [Halsa - Single Handle Mixer Bathroom Sink Faucet](https://eu.paragonfaucets.com/products/halsa-nordic-single-handle-hot-cold-mixer-bathroom-sink-tap): Halsa Faucet brings Nordic minimalism, solid brass durability & drip-free comfort. Choose from Gray, Brushed Gold, White, Black, or Chrome
-  Updated: 2026-10-28T13:15:26Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
@@ -1349,7 +1349,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/gray_3b9a150b-56ab-4be0-9fd1-40600b3d9e63.jpg?v=1778167649
     Price: €249.90 EUR
 - [Moritz - Wall Mount Rain Shower Set](https://eu.paragonfaucets.com/products/moritz-wall-mount-rain-shower-set): Upgrade your bathroom with the Moritz Wall Mount Rain Shower Set - solid brass body, 8" rain head, swivel spout, and adjustable sliding bar.
-  Updated: 2026-10-28T13:15:27Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -1363,7 +1363,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Gemini_Generated_Image_khegq2khegq2kheg.png?v=1778167732
     Price: €179.90 EUR
 - [Halle - Three-Hole Waterfall Bathroom Faucet](https://eu.paragonfaucets.com/products/halle-three-hole-waterfall-bathroom-faucet): Upgrade your bathroom with the Halle Waterfall Faucet: smooth cascade, dual handles, solid brass, combining modern style and lasting luxury.
-  Updated: 2026-10-28T13:15:29Z
+  Updated: 2026-11-04T16:00:19Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Brass Bathroom Faucets > Three Piece Split Waterfall Bathroom Sink Faucet
   Availability: Available
@@ -1440,14 +1440,14 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/10_9e0ebfd8-0d1e-4cd9-8cc3-64bf29a549bd.png?v=1778167866
     Price: €99.90 EUR
 - [Wismar - Smart Piano Bathroom Shower Set](https://eu.paragonfaucets.com/products/wismar-smart-piano-bathroom-set-rainfall-shower-waterfall-tap-hot-cold-mixer-faucet): Experience modern luxury with the Wismar - Smart Piano Set. Crafted from solid brass and built with intelligent hot/cold control for everyday comfort.
-  Updated: 2026-10-28T13:16:40Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/5_8a8e93bd-c76d-4039-a23b-0b8604b910ae.png?v=1778167891
   Price: €197.90 EUR
 - [Brennbekken - 75x45cm Smart Flow Kitchen Set](https://eu.paragonfaucets.com/products/brennbekken-smart-flow-kitchen-set): Transform your kitchen with Brennbekken, the multifunctional waterfall sink featuring a digital display, large single basin in sleek gray, and durable 304 stainless steel construction for superior dishwashing efficiency. Exceptional Durability Brennbekken is precision-crafted from premium 304 stainless steel, offering unmatched resistance to rust, stains, and heavy use while maintaining a modern gray finish that elevates any kitchen design. This robust material ensures long-term reliability for daily meal prep, soaking large pots, or family gatherings. Innovative Functionality The integrated digital display provides real-time water temperature and flow monitoring, while the stunning waterfall spout delivers a smooth, cascading stream for effortless rinsing and filling. Its spacious single basin accommodates oversized dishware, cookware, and produce, combining practicality with a high-tech edge for seamless kitchen workflows. Versatile Design This large-capacity sink serves as a central hub for residential kitchens, commercial prep areas, or entertaining spaces, with an easy undermount or drop-in installation that fits standard countertops. The minimalist gray aesthetic pairs perfectly with contemporary or industrial styles, blending form and function effortlessly. Key Specifications Material: High-grade 304 stainless steel Finish: Elegant gray tone Design: Multifunctional waterfall with large single basin Features: Digital display for temp/flow control Size: Extra-large dish basin for versatility Best For: Kitchens, food prep stations, and busy households
-  Updated: 2026-10-28T13:16:40Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Sinks > Kitchen Sinks > Smart Kitchen Workstation Sink
   Availability: Available
@@ -1465,21 +1465,21 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/brennbeken_white.png?v=1778167946
     Price: €399.00 EUR
 - [Assebakte - 29" Smart Waterfall Kitchen Sink](https://eu.paragonfaucets.com/products/assebakte-smart-workstation-kitchen-sink): Introducing the Assebakte Smart Waterfall Kitchen Sink, your command center for effortless meal preparation and cleanup. With its innovative 4-mode piano button control (cup washer, waterfall, faucet, fly rain), this sink offers unparalleled versatility for everything from gentle produce rinsing to powerful pot scrubbing. The signature waterfall design creates a stunning cascading effect that reduces splashing while adding visual elegance to your kitchen. Plus, enjoy the convenience of a digital temperature display and nano-coated surface that repels oil, rust, and stains with minimal effort. Crafted from premium 16-gauge T-304 stainless steel with a commercial-grade brushed finish, the Assebakte is built to last. Its deep 8-inch single bowl and space-saving R-angle design support daily cooking tasks for years to come, while the efficient X-shaped drainage system prevents water pooling. The sink includes a complete accessory package with stainless steel basin, draining basket, chopping board, and all installation hardware for immediate use. Key features: Durable 16-gauge T-304 stainless steel construction with brushed finish Extra-large capacity (29.52" x 17.71" x 8.66") with 8-inch deep bowl 4-mode piano button controls plus 3-mode pull-out faucet Unique waterfall spray design for reduced splashing Digital display for precise water temperature control Nano-coating technology for oil and stain resistance X-shaped drainage system with anti-clog strainer Double-track design for sliding chopping board Complete accessory kit with basin, board, faucet, and mounting hardware Suitable for kitchens, bars, balconies, and dining areas Upgrade your kitchen with the Assebakte Smart Waterfall Kitchen Sink and experience unmatched innovation and functionality.
-  Updated: 2026-10-28T13:16:40Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Sinks > Kitchen Sinks > Smart Kitchen Workstation Sink
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Untitleddesign_6.png?v=1778167969
   Price: €499.00 EUR
 - [Sundby - Three-Way Faucet Kitchen Sink Mixer Tap Hot Cold Water Crane Deck Mounted Kitchen Tap](https://eu.paragonfaucets.com/products/sundby-three-way-faucet-kitchen-sink-mixer-tap-hot-cold-water-crane-deck-mounted-kitchen-taps): Upgrade your kitchen with the Sundby 3-Way Mixer Tap. Features a granite finish, 360° swivel, and pull-out sprayer for hot, cold, and filtered water.
-  Updated: 2026-10-28T13:15:48Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap > Three Way Kitchen Faucets with Filter Tap and Sprayer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Gemini_Generated_Image_xcj64xcj64xcj64x_9e365393-b486-4695-8ae7-6c474900f037.png?v=1778167989
   Price: €59.90 EUR
 - [Arvik - 3-Way Kitchen Sink Faucet with Dual Handles and Pure Water Filter Spout With Hot and Cold Water Mixer](https://eu.paragonfaucets.com/products/arvik-3-way-kitchen-sink-faucet-with-dual-handles-and-pure-water-filter-spout-with-hot-and-cold-water-mixer): The Arvik 3-Way Faucet blends vintage brass style with utility, featuring dual handles for hot, cold, and filtered water in one sleek, space-saving kitchen design.
-  Updated: 2026-10-29T09:28:46Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Three Way Kitchen Faucets with Filter Tap
   Availability: Available
@@ -1543,7 +1543,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Modern_kitchen_sink_with_fruits_and_vegetables_in_a_well-lit_kitchen..png?v=1778168191
     Price: €429.00 EUR
 - [Steinkjer - 34" Digital Multifunctional Kitchen Sink](https://eu.paragonfaucets.com/products/steinkjer-multifunctional-sink): Steinkjer Smart Honeycomb Multifunctional Kitchen Sink Self-powered digital display. Scratch-resistant honeycomb surface. Integrated waterfall and cup washer. Reimagine your kitchen workflow with the Steinkjer Smart Honeycomb Kitchen Sink, a high-tech workstation designed for the modern home chef. Featuring innovative honeycomb embossing, this sink creates a microscopic air film between the stainless steel surface and food residue, making it exceptionally scratch-resistant and naturally oil-repellent. Equipped with a digital temperature display and an integrated multifunctional faucet system, the Steinkjer transforms basic food prep and cleanup into a streamlined, high-efficiency experience. Advanced Honeycomb Surface Technology The premium stainless steel basin is treated with a honeycomb texture that protects against heavy pans and sharp utensils. This unique pattern not only prevents scratches but also ensures that water and oil bead up and slide away, significantly reducing cleaning time and maintaining a pristine appearance. Integrated Smart Faucet & Cup Washer Take total control with a button-operated faucet system featuring three distinct water modes: a standard pull-down stream, a wide-coverage waterfall rinse for produce, and a high-pressure integrated cup washer. The real-time LED display shows the exact water temperature, preventing accidental burns without the need for external batteries. Double Rail Accessory System Maximize your workspace with the dual-tier sliding rail system. This allows you to slide the included cutting board, colander, and prep basins left or right, effectively doubling your usable counter space. You can chop, rinse, and drain directly over the sink without cluttering your kitchen. Intuitive Temperature & Drainage Control Adjust your water settings with a tactile hand-wheel for precise temperature mixing. When you’re finished, the integrated drain tap allows you to release water with a simple turn, keeping your hands dry and ensuring a quick, sanitary cleanup process. Key Specifications: Material: Premium Stainless Steel with Honeycomb Embossing Installation Type: Top-Mount / Drop-In Water Modes: Waterfall, Pulldown Stream, Cup Washer Smart Features: Digital Temperature Display (Hydro-Powered) Rail System: Double Track for Sliding Accessories Included Accessories: Cutting Board, Drain Basket, Prep Basin, Soap Dispenser, Plumbing Kit Drainage: Control Knob for Automatic Water Release
-  Updated: 2026-10-28T13:15:53Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Sinks > Kitchen Sinks > Smart Kitchen Workstation Sink
   Availability: Available
@@ -1564,7 +1564,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Gemini_Generated_Image_te0jg4te0jg4te0j.png?v=1778168232
   Price: €3.90 EUR
 - [Staldvik - Kitchen Sink System with Pull-Out Faucet](https://eu.paragonfaucets.com/products/staldvik-kitchen-sink): Staldvik Complete Kitchen Sink System with Pull-Out Faucet. This all-inclusive drop-in sink system delivers convenience and versatility. Transform your kitchen with the most comprehensive single-basin sink solution of 2025. Experience seamless functionality with the included single-handle pull-out faucet featuring a sleek black finish. The spacious 8-inch deep rectangular basin (22"L x 18"W x 8"H) accommodates oversized cookware and meal prep with ease, while the 3-hole configuration provides flexibility for the integrated faucet, soap dispenser, and additional accessories. Elevate your space with the striking black finish and modern design, making this complete sink system essential for any contemporary kitchen. Constructed from premium stainless steel with stain-resistant properties that maintain lasting beauty through daily use. Enhancing the sink's performance is advanced sound dampening technology that minimizes noise during operation, creating a quieter kitchen environment. Showcasing thoughtful engineering, our complete sink system embodies sophistication, delivering a perfect balance of aesthetic appeal and practical functionality. Discover ultimate kitchen convenience with its included colander, basket strainer, soap dispenser, and complete installation package, where comprehensive design meets everyday usability. Key specifications: Type: Complete Kitchen Sink System Size Category: Bar / Prep Kitchen Sink Main Material: Stainless Steel Finish: Black Resistance Type: Stain Resistant Mounting Type: Drop-In Overall Dimensions: 22"L × 18"W × 8"H Basin Configuration: Single Basin Drain Placement: Center Number of Faucet Holes: 3 Faucet Included: Yes (Single Handle Pull-Out) Faucet Material: Stainless Steel Faucet Finish: Black Faucet Type: Pull-Out Sound Dampening: Yes Overflow Hole: Yes Included Accessories: Soap Dispenser, Colander, Basket Strainer, Drain Assembly Basket Strainer Material: Stainless Steel Shutoff Valve: Included Number of Soap Dispensers: 1 Number of Colanders: 1 Number of Faucets: 1 Shape: Rectangular
-  Updated: 2026-10-28T13:16:43Z
+  Updated: 2026-10-31T20:32:30Z
   Vendor: Paragon Faucets EU
   Product Type: Sinks > Kitchen Sinks > Drop-In Kitchen Sink with Pull-Out Tap
   Availability: Available
@@ -1578,7 +1578,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Stainless_steel_kitchen_sink_with_faucet_on_a_white_background.png?v=1778168250
     Price: €199.99 EUR
 - [Kebnekaise - Digital Display Celsius Bathroom Basin Faucet with Intelligent LED](https://eu.paragonfaucets.com/products/kebnekaise-digital-display-celsius-bathroom-basin-faucet-with-intelligent-led): Display Bathroom Basin Faucet with Intelligent LED Smart temperature control. Modern elegance. No batteries required. This intelligent Kebnekaise Smart LED Temperature Display Basin Faucet features a built-in micro hydro-generator that uses water flow to generate its own electricity. The integrated digital LED display shows real-time water temperature instantly — without connecting to any external power source. Designed for safety, comfort, and contemporary style, this deck-mounted faucet upgrades your vanity with both technology and durability. Self-Powered LED Temperature Display Water flow activates the internal micro-generator, powering the digital screen automatically. Monitor exact water temperature at a glance and prevent sudden hot or cold surprises — no wiring, no batteries, no maintenance required. Smooth Single-Handle Control The single lever design allows precise adjustment of hot and cold water. Built with a ceramic plate spool and brass valve core, it ensures smooth operation and long-lasting, drip-free performance. Premium Brass Construction Crafted from solid brass with stainless steel housing components, this faucet offers excellent corrosion resistance and structural durability. The pressure-controlled system delivers stable and consistent water flow. Contemporary Minimalist Design With its sleek single-hole installation and clean silhouette, this faucet complements modern bathrooms and vanity sinks. The subtle LED feature adds a high-tech touch while maintaining an elegant look. Key Specifications: Installation Type: Deck Mounted Mounting: Single Hole Handle Type: Single Handle Material: Brass, Stainless Steel Valve Core: Ceramic Water Type: Hot & Cold Feature: LED Digital Temperature Display (Hydro-Powered)
-  Updated: 2026-10-28T13:15:55Z
+  Updated: 2026-11-03T21:13:40Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Smart Modern Bathroom Faucets > Modern Faucets with Temperature Display
   Availability: Available
@@ -1596,14 +1596,14 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/d1c22b14-770f-475a-a477-9665616b.png?v=1778168281
     Price: €159.90 EUR
 - [Radviken - Smart Triple Waterfall Kitchen Sink with Digital Display](https://eu.paragonfaucets.com/products/radviken): The Radviken Smart Kitchen Sink combines triple waterfall technology, intelligent controls, and a complete workstation in one premium 304 stainless steel fixture. This 5-mode smart sink eliminates clutter with integrated accessories—keeping your kitchen streamlined and efficient. 5-Mode Piano Button Control Switch effortlessly between pull-out faucet (3 outlet modes) and dual independent waterfall modes. The double-track system with adjustable flying-rain and waterfall provides gentle, splash-free water flow that reaches across the entire 29.5-inch basin. Hydroelectric Smart Features Digital display shows real-time water temperature and usage time. Blue ambient mood lighting activates automatically when water flows—powered entirely by hydroelectric energy (no electricity required). Touchless drainage control knob lets you empty the sink without touching dirty water. Built to Last Premium 304 stainless steel with nano-coating and honeycomb embossing. Extra-thick sound-deadening pads and anti-condensation coating for quiet operation and cabinet protection. Key Features & Specifications Material: Durable 304 stainless steel construction Available Finish: Upgraded Black (Grey & Black Polished) Basin Size: 29.5"L × 18"W × 9"H (Extra Deep Single Bowl) Function: 5-mode design (Pull-Out with 3 modes + 2 Waterfall modes) Control System: Piano button interface with independent waterfall controls Special Features: Cup rinser, separate drinking water faucet, digital temperature display Surface Technology: Nano-coating with honeycomb embossing for scratch & oil resistance Workspace: Double-track system for simultaneous accessory movement Installation Type: Undermount/Drop-In compatible Sound & Moisture: Extra-thick sound dampening, anti-condensation coating Included Accessories: Solid wood cutting board, drain basket, over-sink basin, cup rinser, soap dispenser, drinking water faucet, complete installation kit Lighting: Hydroelectric blue mood lighting (no electricity needed) Weight: 27.9 lbs
-  Updated: 2026-10-28T13:16:43Z
+  Updated: 2026-10-31T20:31:20Z
   Vendor: Paragon Faucets EU
   Product Type: Sinks > Kitchen Sinks > Smart Kitchen Workstation Sink
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Modern_kitchen_sink_with_running_water_and_vegetables_being_washed.png?v=1778168308
   Price: €899.90 EUR
 - [Voss - Smart Sensor Digital Basin Faucet](https://eu.paragonfaucets.com/products/voss-smart-sensor-digital-basin-faucet): Smart Sensor Digital Basin Faucet The Voss Touchless LED Bathroom Mixer Tap screen display, hot & cold mixer tap, single-hole deck-mounted vanity sink faucet with ceramic valve core. Smart Touchless Technology Upgrade your bathroom with intelligent sensor activation. The Voss Smart Sensor Faucet allows hands-free operation, improving hygiene and convenience in any modern vanity space. Digital LED Temperature Display The integrated screen displays real-time water temperature for safer and more comfortable use. Monitor hot and cold water instantly with clear digital visibility. Smooth & Reliable Performance Built with a ceramic plate spool and durable ceramic valve core, this faucet ensures smooth water flow and long-lasting, drip-free performance. Modern Contemporary Design Designed for single-hole, deck-mounted installation, the sleek single-handle structure complements contemporary bathrooms. Available in Chrome, White, and Brushed Grey finishes. Key Features & Specifications Material: Durable Metal HousingSurface Finish: Chrome / White / Brushed GreyFunction: Hot & Cold water mixerFeature: Smart Sensor Faucet with LED DisplayControl: Single HandleValve Core Material: CeramicCartridge Type: Ceramic plate spoolInstallation: Deck mounted, single hole A smart, hygienic, and stylish solution for modern bathroom vanities. .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:15:56Z
+  Updated: 2026-11-03T21:13:40Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Smart Modern Bathroom Faucets > Modern Faucets with Temperature Display
   Availability: Available
@@ -1621,7 +1621,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Brushed_Gray_Faucet_2.png?v=1778168411
     Price: €199.90 EUR
 - [Elvheim - Bathroom Basin Faucet Single Handle Hot and Cold Mixer Tap](https://eu.paragonfaucets.com/products/elvheim-bathroom-basin-faucet-single-handle-hot-and-cold-mixer-tap): Bathroom Basin Faucet The Elvheim Bathroom Basin Faucet this sleek and contemporary single-handle basin faucet. Designed for smooth hot and cold water control, this deck-mounted tap adds a clean and elegant finish to any modern washbasin. Its durable metal body and ceramic valve core ensure steady water flow and long-lasting, leak-free performance. Precise Hot & Cold Control The single-handle design allows easy adjustment of water temperature and pressure for daily convenience. Durable Ceramic Valve Core Built with a ceramic plate spool system for drip-free operation and extended lifespan. Modern Contemporary Design Chrome-polished surface with a minimalist single-hole installation — perfect for modern bathrooms. Built to Last Solid metal housing Corrosion-resistant chrome finish Lead-free construction Ceramic disc cartridge for leak-free use Key Features & Specifications Type: Basin FaucetInstallation Type: Deck MountedMounting: Single HoleHandle: Single HandleValve Core Material: CeramicSpool Type: Ceramic PlateMain Material: MetalStyle: ContemporarySmart Device: No
-  Updated: 2026-10-28T13:15:59Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
@@ -1647,21 +1647,21 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Elvheim20_58ef77d7-16b7-42e1-a31e-408deb7335f2.png?v=1778168471
     Price: €198.90 EUR
 - [Frostgard - Chrome Lever Sink Tap for Bathroom & Kitchen Wash Basin](https://eu.paragonfaucets.com/products/frostgard-chrome-lever-sink-tap-for-bathroom-kitchen-wash-basin): Single Cold Water Basin Faucet This modern Single Cold Water Basin Faucet, designed for both kitchen and bathroom use. Built with durable zinc alloy construction and finished in polished chrome, this faucet delivers long-lasting performance while adding a sleek, modern touch to any sink area. The single lever design allows smooth and effortless water control, making it convenient for everyday use. Its 1/2" threaded connection ensures easy installation and compatibility with most standard plumbing systems. Suitable for both low-pressure and high-pressure water systems, this faucet is a reliable and practical choice for any home. Key Features High-quality zinc alloy construction for durability Elegant polished chrome finish for a modern look Single cold water tap with easy lever control Standard 1/2" threaded connection for simple installation Compatible with low and high pressure systems Ideal for kitchen sinks and bathroom wash basins Specifications Color: Silver Material: Zinc Alloy Size: 3.94 × 4.72 inches Type: Basin Tap Finish: Polished Style: Modern .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:16:00Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Faucet_512a700c-4d99-4c34-894e-d1f910a8e829.png?v=1778168489
   Price: €19.90 EUR
 - [Oslo – Electric Water Heater 220V Instant Hot Water Faucet with Digital Display , Tankless Under-Sink Kitchen Tap, EU Plug](https://eu.paragonfaucets.com/products/oslo-electric-water-heater-220v-instant-hot-water-faucet-with-digital-display-tankless-under-sink-kitchen-tap-eu-plug): 220V Instant Heating Electric Water Tap The Electric Tankless Water Heater Tap with Digital Display designed to deliver hot water instantly without waiting. This tankless electric faucet heats water as it flows, providing a convenient and energy-efficient solution for everyday kitchen tasks like washing dishes, preparing food, or filling pots. With its built-in digital temperature display, you can easily monitor the real-time water temperature for safer and more precise use. The compact under-sink design saves space while giving your kitchen a modern and functional upgrade. Built with durable stainless steel, this instant water heater faucet is designed for long-lasting performance and easy installation in most kitchen setups. Instant 220V HeatingProvides hot water instantly without waiting, making kitchen tasks faster and more convenient. Digital Display in °CEasy-to-read digital screen shows real-time water temperature in °C for precise and safe use. Tankless Space-Saving DesignNo bulky water tank required. Compact system delivers continuous hot water when needed. Durable Stainless Steel ConstructionBuilt with high-quality materials for durability, corrosion resistance, and long-term use. Easy Under Sink InstallationDesigned to fit most standard kitchen setups for quick and simple installation. Specifications Voltage: 220V Heating Type: Instant Electric Heating Display: LED Digital Temperature Display Installation: Under Sink Plug Type: EU Plug Material: Durable Stainless Steel Design: Tankless, Space-Saving Faucet Performance: Fast and Efficient Water Heating Perfect For Kitchen sinks Dishwashing Food preparation Instant hot water for tea or coffee
-  Updated: 2026-10-28T13:16:02Z
+  Updated: 2026-11-03T21:12:45Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Electric Water Heating Kitchen Faucets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Oslo_kitchen.png?v=1778168511
   Price: €289.90 EUR
 - [Copenhagen Gooseneck - Stainless Steel Bathroom Basin Faucet – Hot & Cold Mixer, 360° Rotating Single Handle Sink Tap](https://eu.paragonfaucets.com/products/copenhagen-gooseneck-stainless-steel-bathroom-basin-faucet-hot-cold-mixer-360-rotating-single-handle-sink-tap): 360° Rotating Single Handle Sink Bathroom Basin Faucet This Copenhagen Gooseneck 360° Rotating Single Handle Stainless Steel Basin Faucet designed for durability, style, and convenience. The single-handle mixer tap allows smooth control of hot and cold water, while the 360° rotating spout provides flexibility for everyday washing and cleaning. Built from high-quality stainless steel, this faucet features a brushed multi-process surface finish that resists corrosion, scratches, and fingerprints, making it easy to maintain and perfect for long-term use. Premium 304 Stainless Steel Made from high-quality stainless steel for excellent durability, corrosion resistance, and long-lasting performance. Hot & Cold Water Mixer Single-handle control allows easy adjustment of water temperature and flow. 360°Rotating Spout Flexible swivel design makes washing and cleaning easier in any bathroom sink. Modern Brushed Finish Multi-layer brushed surface  provides a sleek contemporary look while resisting wear and stains. Ceramic Valve Technology Equipped with a ceramic valve core for smooth operation and reliable leak-free performance. Specifications Material: Premium High Quality Stainless Steel Handle Type: Single Handle Function: Hot & Cold Water Mixer Valve Type: Ceramic Valve Core Spout Rotation: 360° Flexible Swivel Design Finish: Brushed Stainless Steel Installation Type: Basin Sink Faucet Application: Bathroom Sink Installation .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:16:03Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
@@ -1675,7 +1675,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Copenhagn_15.png?v=1778168531
     Price: €129.90 EUR
 - [Copenhagen - Stainless Steel Bathroom Basin Faucet – Hot & Cold Mixer, 360° Rotating Single Handle Sink Tap](https://eu.paragonfaucets.com/products/copenhagen-stainless-steel-bathroom-basin-faucet-hot-cold-mixer-360-rotating-single-handle-sink-tap): Introducing the Copenhagen 360° Rotating Single Handle Stainless Steel Basin Faucet designed for durability, style, and convenience. The single-handle mixer tap allows smooth control of hot and cold water, while the 360° rotating spout provides flexibility for everyday washing and cleaning. Built from high-quality stainless steel, this faucet features a brushed multi-process surface finish that resists corrosion, scratches, and fingerprints, making it easy to maintain and perfect for long-term use. Premium 304 Stainless Steel Made from high-quality stainless steel for excellent durability, corrosion resistance, and long-lasting performance. Hot & Cold Water Mixer Single-handle control allows easy adjustment of water temperature and flow. 360° Rotating Spout Flexible swivel design makes washing and cleaning easier in any bathroom sink. Modern Brushed Finish Multi-layer brushed surface  provides a sleek contemporary look while resisting wear and stains. Ceramic Valve Technology Equipped with a ceramic valve core for smooth operation and reliable leak-free performance. Specifications Material: Premium High Quality Stainless SteelHandle Type: Single HandleFunction: Hot & Cold Water MixerValve Type: Ceramic Valve CoreSpout Rotation: 360° Flexible Swivel DesignFinish: Brushed Stainless SteelInstallation Type: Basin Sink FaucetApplication: Bathroom Sink Installation .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:16:03Z
+  Updated: 2026-10-31T20:31:16Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Hole Single Lever Bathroom Faucet
   Availability: Available
@@ -1725,7 +1725,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/BidetGunSpray_5.png?v=1778168609
     Price: €89.90 EUR
 - [Uupsala - Wash Basin Faucet Double Hole Hot & Cold Mixer Tap with 2-Mode Rotating Nozzle Bathroom Sink Faucet](https://eu.paragonfaucets.com/products/uupsala-wash-basin-faucet-double-hole-hot-cold-mixer-tap-with-2-mode-rotating-nozzle-bathroom-sink-faucet): 2-Mode Rotating Nozzle Bathroom Sink Faucet The Uppsala Modern Wash Basin Faucet combines practical functionality, durability, and modern bathroom design. This hot and cold mixer faucet provides smooth water control while the 2-mode rotating nozzle adds extra flexibility for everyday washing and cleaning. Designed for double-hole basin installation, this faucet delivers reliable performance and convenient water control for residential bathrooms, guest bathrooms, and wash areas. 2-Mode Rotating Nozzle Easily switch between two different water flow modes depending on your needs. The rotating nozzle design improves flexibility, making it easier to rinse the basin, wash hands, and clean the sink area while helping reduce splashing. Smooth Hot & Cold Water Control The faucet features a hot and cold mixing function, allowing precise adjustment of water temperature and flow for comfortable and convenient daily use. Durable Ceramic Valve Core Equipped with a high-quality ceramic valve cartridge designed for smooth operation and reliable leak-free performance, ensuring long-lasting durability even with frequent daily use. Practical Double-Hole Installation Designed for deck-mounted double-hole bathroom sinks, allowing easy installation and compatibility with many standard wash basins. Key Specifications Product Type: Wash Basin Faucet Category: Bathroom Faucet / Basin Mixer Tap Installation Type: Deck Mounted (Sitting Installation) Mounting Type: Double Hole Water Control: Hot and Cold Mixing Nozzle Feature: 2-Mode Water Flow Nozzle Function: Rotatable Spout Valve Core Material: Ceramic Housing Material: Metal / Mixed Material Usage: Bathroom Wash Basin, Sink Faucet .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:16:07Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Modern Bathroom Faucets > Single Lever Two Hole Bathroom Faucet
   Availability: Available
@@ -1739,7 +1739,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/InclusionBidetGunSpray_14.png?v=1778168632
     Price: €199.90 EUR
 - [Vanern - Wall Mounted Dual Hole Kitchen Faucet Lead Free Hot Cold Water Mixer Tap Stream Spray Bubbler 360 Rotation Flexible Pipe Control](https://eu.paragonfaucets.com/products/vanern-wall-mounted-dual-hole-kitchen-faucet-lead-free-hot-cold-water-mixer-tap-stream-spray-bubbler-360-rotation-flexible-pipe-control): Wall Mount Kitchen Sink Faucet with Flexible Spout This Vanern wall-mounted kitchen faucet designed for convenience, durability, and smooth water control. It features a 360° rotatable flexible spout and dual water modes (stream and spray) to make washing dishes, fruits, and vegetables easier. The faucet is made from high-quality stainless steel with a polished chrome finish, ensuring long-lasting performance and resistance to rust and corrosion. The ceramic valve core provides precise control of hot and cold water while preventing leaks and ensuring durability for daily kitchen use. Key Features Hot & Cold Water Mixer – Easily adjust water temperature with the single handle. 360° Rotatable Flexible Spout – Allows full sink coverage for convenient cleaning. Stream & Spray Bubbler Mode – Switch between gentle stream or powerful spray for washing. Wall Mounted Design – Saves counter space and provides a clean modern look. Lead-Free Material – Safe and reliable for household use. Durable Ceramic Valve – Ensures smooth operation and long service life. Polished Chrome Finish – Rust-resistant and easy to clean. Specifications Type: Kitchen Faucet Style: Contemporary Installation Type: Wall Mounted Number of Installation Holes: 2 Holes Handle Type: Single Handle Valve Type: Ceramic Plate Spool Valve Core Material: Ceramic Surface Finish: Polished Chrome Material: Stainless Steel / Brass Components Spout Type: Flexible Rotatable: Yes (360° Rotation) Water Mode: Stream / Spray Bubbler Cold & Hot Water: Yes .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-29T17:45:35Z
+  Updated: 2026-10-31T20:31:20Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Kitchen Faucets > Wall Mounted Kitchen Faucets
   Availability: Available
@@ -1753,7 +1753,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Vanern_Faucet_7.png?v=1778168658
     Price: €99.90 EUR
 - [Halling - 8-12 Inch Square Rain Shower Head Combo High Pressure with Handheld Shower Spray & Extension Arm](https://eu.paragonfaucets.com/products/halling-8-12-inch-square-rain-shower-head-combo-high-pressure-with-handheld-shower-spray-extension-arm): Square Rain Shower Head Combo This Halling High Pressure Rain Shower Head Combo designed for comfort, flexibility, and modern style. The large square rainfall shower head provides wide water coverage for a relaxing shower experience, while the handheld shower spray allows convenient rinsing and targeted cleaning. This shower system features a durable stainless steel construction with an electroplated finish that helps resist rust and corrosion for long-lasting performance. The included 3-way diverter lets easily switch between the rainfall shower head, handheld shower, or both at the same time depending on your preference. The adjustable extension arm helps position the shower head at the ideal angle for better coverage and comfort. With its sleek square design, this shower head combo blends perfectly with modern and contemporary bathroom interiors while providing reliable everyday functionality. Key Features • Large square rain shower head for full body coverage• High pressure water flow for a powerful shower experience• Includes handheld shower spray for flexible use• 3-way diverter allows switching between shower heads• Adjustable extension arm for better shower positioning• Durable stainless steel construction• Rust and corrosion resistant electroplated finish• Modern square design suitable for contemporary bathrooms Specifications Material: Stainless SteelSurface Finishing: ElectroplatedShower Shape: SquareInstallation Method: AssemblyHandheld Shower: YesDiverter Type: 3-Way DiverterExtension Arm: AdjustableHigh-concerned Chemical: NoneHeight Adjustable: No
-  Updated: 2026-10-28T13:16:08Z
+  Updated: 2026-10-31T20:31:11Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -1783,7 +1783,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Hallingskarvet_Shower_Set_3.png?v=1778168684
     Price: €179.90 EUR
 - [Torne - Digital Display Thermostatic Rainfall Shower System – 4 Way Bathroom Shower Set](https://eu.paragonfaucets.com/products/torne-digital-display-thermostatic-rainfall-shower-system-4-way-bathroom-shower-set): Digital Display Thermostatic Shower System, designed for comfort, safety, and modern style. Featuring a 10-inch rainfall shower head, this shower set provides a relaxing spa-like water flow that covers your entire body. The thermostatic mixer valve automatically maintains a stable water temperature, preventing sudden changes in hot or cold water for a safer and more comfortable shower. The digital temperature display allows you to easily monitor the water temperature in real time. Constructed with high-quality 304 stainless steel and durable brass components, this shower system is designed to resist corrosion, rust, and everyday wear. Its modern black finish adds a sleek and contemporary touch to any bathroom. With a 4-way water outlet system, you can switch between multiple functions such as the rainfall shower, handheld shower, bidet sprayer, and additional water outlet for versatile bathroom use. Digital Temperature Display Built-in digital display allows easy monitoring of water temperature for added convenience and safety. Thermostatic Temperature Control Maintains a constant water temperature to prevent sudden hot or cold water fluctuations. 10-Inch Rainfall Shower Head Provides wide and gentle water coverage for a relaxing spa-like shower experience. 4-Way Water Outlet System Allows multiple water functions including rainfall shower, handheld shower, bidet sprayer, and additional outlet. Durable 304 Stainless Steel & Brass Construction High-quality materials ensure long-lasting durability, corrosion resistance, and reliable performance. Modern Finish Stylish contemporary design that complements modern bathroom interiors. Specifications Housing Material: 304 Stainless Steel Surface Material: Brass Valve Core Material: Ceramic Shower Head Size: 10 Inch Number of Handles: Dual Handle Water Control Type: Auto Thermostat Control Installation Type: With Slide Bar Feature: Thermostatic, Hot & Cold Water Surface : Blackened Smart Device: No .video-container { display: flex; gap: 10px; } .video-container video { width: 50%; height: auto; margin: 0 !important; } @media (max-width: 768px) { .video-container { flex-direction: column; } .video-container video { width: 100%; } }
-  Updated: 2026-10-28T13:16:10Z
+  Updated: 2026-11-05T22:04:26Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -1797,7 +1797,7 @@ Application: Ideal for bathrooms, hotels, and sports venues
     Image: https://cdn.shopify.com/s/files/1/0950/7232/1885/files/Torne_2.png?v=1778168704
     Price: €199.90 EUR
 - [Vattern - Two-Way Matte Black Wall Mount Rainfall Shower Faucet Set with Concealed Waterfall Shower System and Tub Spout](https://eu.paragonfaucets.com/products/vattern-two-way-matte-black-wall-mount-rainfall-shower-faucet-set-with-concealed-waterfall-shower-system-and-tub-spout): Matte Black Wall Mount Rainfall Shower Faucet Set The Vattern Concealed Rainfall Shower System is designed for comfort, durability, and minimalist luxury. Featuring a sleek matte black finish and concealed wall installation, this modern shower set delivers a clean aesthetic while creating a relaxing spa-like shower experience at home. Wide Rainfall Shower Coverage The large stainless steel rainfall shower head provides wide and even water distribution for a comfortable full-body shower. Designed to mimic natural rainfall, it transforms your daily shower into a refreshing and relaxing experience. Flexible Handheld Shower The included handheld shower adds convenience and flexibility for rinsing, targeted washing, or cleaning your shower area. Easily switch between the rainfall head and handheld outlet for everyday practicality. Premium Construction Built with a solid brass mixer valve and durable components, this shower system is designed for long-lasting performance. The corrosion-resistant matte black finish ensures durability while maintaining a modern bathroom look. Key Features & Specifications Finish: Matte Black Type: Bathroom Shower Faucet Set Installation: Concealed Wall Mount Shower Head Sizes: 10 inch (25cm), 12 inch (30cm), 16 inch (40cm) Shower Head Material: Stainless Steel Hand Shower Material: A-Grade ABS Plastic Shower Hose Length: 150cm Mixer Valve Material: Solid Brass Water Outlet: 2-Way (Rainfall + Hand Shower / Tub Spout) Package Includes Rainfall Shower Head Hand Shower Shower Bracket Mixer Faucet Body Installation Accessories
-  Updated: 2026-10-28T13:16:13Z
+  Updated: 2026-10-31T20:31:15Z
   Vendor: Paragon Faucets EU
   Product Type: Faucets > Bathroom Faucets > Bathroom Shower Faucet Kit
   Availability: Available
@@ -1819,37 +1819,37 @@ Application: Ideal for bathrooms, hotels, and sports venues
 ## Collections
 
 - [Faucet Accessories](https://eu.paragonfaucets.com/collections/faucet-accessories)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 18
 - [Products](https://eu.paragonfaucets.com/collections/products)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 56
 - [Bidet Faucets & Sprayers](https://eu.paragonfaucets.com/collections/bidet-faucets-sprayers)
   Updated: 2026-04-18T17:36:23Z
   Total Products: 0
 - [Simprosys Feed](https://eu.paragonfaucets.com/collections/simprosys-feed)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 79
 - [Faucets](https://eu.paragonfaucets.com/collections/faucets)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 60
 - [AVADA - Best Sellers](https://eu.paragonfaucets.com/collections/avada-best-sellers)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 114
 - [Modern Smart Digital Faucets](https://eu.paragonfaucets.com/collections/modern-smart-digital-faucets): Explore our diverse collection of modern kitchen and bathroom faucets. Featuring innovative designs with digital displays, versatile spray modes, and durable construction. Ideal for enhancing your space with practical style and efficiency.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 11
 - [Multifeeds - Bing Feed](https://eu.paragonfaucets.com/collections/multifeeds)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 78
 - [Kitchen Sinks](https://eu.paragonfaucets.com/collections/kitchen-sinks): Upgrade your kitchen with our smart sinks, combining sleek design and modern functionality. These innovative sinks feature multiple faucet modes, built-in waterfalls, and integrated accessories, making meal prep and cleanup a breeze. Crafted from durable stainless steel for lasting quality.
   Updated: 2026-10-28T11:23:10Z
   Total Products: 2
 - [Shower Sets](https://eu.paragonfaucets.com/collections/shower-sets)
-  Updated: 2026-10-23T11:20:06Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 27
 - [Touch Kitchen Faucets](https://eu.paragonfaucets.com/collections/touch-kitchen-faucets)
-  Updated: 2026-10-28T11:23:10Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 1
 - [Dish Racks](https://eu.paragonfaucets.com/collections/dish-racks)
   Updated: 2026-10-10T21:00:06Z
@@ -1861,31 +1861,31 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2026-10-29T11:20:03Z
   Total Products: 2
 - [Kitchen Faucets](https://eu.paragonfaucets.com/collections/kitchen-faucets): Our kitchen faucet collection features touch faucets, pull-down sprayer faucets, and single-handle & single-hole designs in finishes like black, gold & chrome.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 13
 - [Bathroom Faucets](https://eu.paragonfaucets.com/collections/bathroom-faucets): Modern and stylish bathroom faucets include waterfall bathroom faucets, single, and dual-handle faucets in matte black, brushed gold, gold, chrome, white & more
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 12
 - [Commercial Style Pre-Rinse Kitchen Faucets with Sprayer](https://eu.paragonfaucets.com/collections/commercial-kitchen-faucets): Discover our collection of commercial-style pre-rinse kitchen faucets with sprayers, perfect for both home and professional use. These high-arc, flexible faucets offer powerful spray heads and durable construction, ensuring efficient dishwashing and cleaning. Upgrade your kitchen with a pre-rinse faucet with a sprayer!
-  Updated: 2026-10-28T11:23:10Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 3
 - [3 Way Kitchen Faucets for Water Filters](https://eu.paragonfaucets.com/collections/3-way-kitchen-faucets-for-water-filters): Explore our collection of 3-way kitchen faucets compatible with RO water filters. Featuring a built-in drinking water tap, they are perfect for kitchens needing a faucet with filtered water dispenser. Enjoy the benefits of a three-way kitchen faucet with RO dispenser for pure water when connected to a filtering system.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 4
 - [Waterfall Faucets](https://eu.paragonfaucets.com/collections/waterfall-faucets): Waterfall faucets for bathrooms with sleek spout designs creating cascading water flow. Features single handle waterfall bathroom faucets in popular finishes including chrome, brushed nickel, and matte black. Waterfall sink faucets available for standard bathroom sinks, vessel sinks, and wall mount installations with durable brass construction and ceramic disc valves.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 6
 - [Paragon Flagships](https://eu.paragonfaucets.com/collections/paragon-flagships): Our bestselling waterfall bathroom faucet features a wide spout design creating a natural cascading stream. Constructed from solid brass with a ceramic cartridge ensuring smooth operation and drip-free performance. The sleek single-handle design offers precise temperature and flow control while complementing modern bathroom aesthetics.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 8
 - [Flagships](https://eu.paragonfaucets.com/collections/flagships): Discover Paragon Faucets' Flagships collection, featuring our top-rated faucets known for their exceptional design and performance. Explore a range of innovative kitchen and bathroom faucets, crafted for durability and style. Upgrade your space with our premium faucets, engineered for reliability and aesthetic appeal.
   Updated: 2026-10-10T22:26:08Z
   Total Products: 6
 - [Commercial Style Pre-Rinse Kitchen Faucets with Sprayer](https://eu.paragonfaucets.com/collections/commercial-style-pre-rinse-kitchen-faucets): Discover our collection of commercial-style pre-rinse kitchen faucets with sprayers, perfect for both home and professional use. These high-arc, flexible faucets offer powerful spray heads and durable construction, ensuring efficient dishwashing and cleaning. Upgrade your kitchen with a pre-rinse faucet with a sprayer!
-  Updated: 2026-10-28T11:23:10Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 5
 - [Waterfall Bathroom Faucets](https://eu.paragonfaucets.com/collections/waterfall-bathroom-faucets): Shop our collection of waterfall bathroom faucets. Featuring modern designs, sleek finishes, durable construction, and smooth water flow. Available in single hole faucets and three hole faucets, offering style, functionality, and easy installation. Upgrade with our high-quality waterfall bathroom sink faucets.
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-05T12:18:58Z
   Total Products: 15
 - [Knife Sharpeners](https://eu.paragonfaucets.com/collections/knife-sharpeners)
   Updated: 2026-04-22T08:08:51Z
@@ -1900,10 +1900,10 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2026-10-10T22:26:08Z
   Total Products: 6
 - [Faucets + Sinks + Shower Sets + Towel Bars](https://eu.paragonfaucets.com/collections/faucets-sinks-shower-sets-towel-bars)
-  Updated: 2026-10-29T11:20:03Z
+  Updated: 2026-11-06T12:28:02Z
   Total Products: 96
 - [Arnie](https://eu.paragonfaucets.com/collections/arnie)
-  Updated: 2026-10-23T11:20:06Z
+  Updated: 2026-11-02T12:20:39Z
   Total Products: 31
 
 ## Store Pages
@@ -1932,12 +1932,12 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-01T16:28:36Z
 - [Included - Zwolle](https://eu.paragonfaucets.com/pages/included-zwolle)
   Updated: 2025-06-01T16:28:38Z
-- [Specs - Dintel](https://eu.paragonfaucets.com/pages/specs-dintel): Type Pull-Out Kitchen Faucet Main Material Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Locati...
-  Updated: 2025-06-01T16:28:38Z
-- [Specs - Svartan](https://eu.paragonfaucets.com/pages/specs-svartan): Type Bathroom Faucet Main Material Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Location Wall ...
-  Updated: 2025-06-01T16:28:39Z
-- [Specs - Zwolle](https://eu.paragonfaucets.com/pages/specs-zwolle): Type Shower Kit; Shower Set; Shower Column Main Material Stainless Steel Shower Head Yes Shower Head Material ABS Plastic (Chrome Finish) LED Light...
-  Updated: 2025-06-01T16:28:40Z
+- [Specs - Dintel](https://eu.paragonfaucets.com/pages/specs-dintel): Type Pull-Out Kitchen Faucet Main Material Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United King...
+  Updated: 2026-11-06T07:57:26Z
+- [Specs - Svartan](https://eu.paragonfaucets.com/pages/specs-svartan): Type Bathroom Faucet Main Material Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United Kingdom) — d...
+  Updated: 2026-11-06T07:57:27Z
+- [Specs - Zwolle](https://eu.paragonfaucets.com/pages/specs-zwolle): Type Shower Kit; Shower Set; Shower Column Main Material Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Ger...
+  Updated: 2026-11-06T07:57:26Z
 - [Dimensions - Amersfoort](https://eu.paragonfaucets.com/pages/dimensions-amersfoort)
   Updated: 2025-06-01T16:29:14Z
 - [Dimensions - Arnhem](https://eu.paragonfaucets.com/pages/dimensions-arnhem)
@@ -1950,10 +1950,10 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-01T16:29:18Z
 - [Included - Faaborg](https://eu.paragonfaucets.com/pages/included-faaborg)
   Updated: 2025-06-01T16:29:19Z
-- [Specifications - Faaborg](https://eu.paragonfaucets.com/pages/specifications-faaborg): Specification Details Type Pull-Out Kitchen Faucet Body Material Brass Sprayer Head Material ABS Spout Type Pull-Down Spray Functions Two Functions...
-  Updated: 2025-06-01T16:29:19Z
-- [Specs - Arnhem](https://eu.paragonfaucets.com/pages/specs-arnhem): Type Shower Kit; Shower Set; Shower Column Main Material Stainless Steel Shower Head Yes Shower Head Material ABS Plastic (Chrome Finish) LED Light...
-  Updated: 2025-06-01T16:29:20Z
+- [Specifications - Faaborg](https://eu.paragonfaucets.com/pages/specifications-faaborg): Specification Details Type Pull-Out Kitchen Faucet Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United Ki...
+  Updated: 2026-11-06T07:57:26Z
+- [Specs - Arnhem](https://eu.paragonfaucets.com/pages/specs-arnhem): Type Shower Kit; Shower Set; Shower Column Main Material Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Ger...
+  Updated: 2026-11-06T07:57:26Z
 - [Dimensions - Bielefeld](https://eu.paragonfaucets.com/pages/dimensions-bielefeld)
   Updated: 2025-06-01T16:30:35Z
 - [Dimensions - Helsingor](https://eu.paragonfaucets.com/pages/dimensions-helsingor)
@@ -1966,8 +1966,8 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-01T16:30:38Z
 - [Specifications - Brivellna](https://eu.paragonfaucets.com/pages/specifications-brivellna): Specification Details Type Commercial Wall-Mounted Kitchen Faucet Material Brass Finish Chrome or Brushed Nickel Spout Type Pull-Down Sprayer with ...
   Updated: 2025-06-01T16:30:39Z
-- [Specifications - Helsingor](https://eu.paragonfaucets.com/pages/specifications-helsingor): Specification Details Type Water Heating Faucet Material ABS, Stainless steel Finish Chrome Handles Single Handle Mounting Location Deck-Mounted Wa...
-  Updated: 2025-06-01T16:30:40Z
+- [Specifications - Helsingor](https://eu.paragonfaucets.com/pages/specifications-helsingor): Specification Details Type Water Heating Faucet Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United Kingd...
+  Updated: 2026-11-06T07:57:25Z
 - [Dimensions - Bremen](https://eu.paragonfaucets.com/pages/dimensions-bremen)
   Updated: 2025-06-02T11:15:31Z
 - [Dimensions - Nuremberg](https://eu.paragonfaucets.com/pages/dimensions-nuremberg): 21.65" x 23" - With additional shelf 18" x 23" - Without additional shelf
@@ -2004,8 +2004,8 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:18:02Z
 - [Included - Lubeck](https://eu.paragonfaucets.com/pages/included-lubeck)
   Updated: 2025-06-02T11:18:03Z
-- [Specifications - Horten](https://eu.paragonfaucets.com/pages/specifications-horten): Specification Details Material Brass Finish Options Chrome, Chrome White, White Gold, Antique Gold, Black, ORB (Oil-Rubbed Bronze), Brushed Nickel,...
-  Updated: 2025-06-02T11:18:04Z
+- [Specifications - Horten](https://eu.paragonfaucets.com/pages/specifications-horten): Specification Details Material Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United Kingdom) — depen...
+  Updated: 2026-11-06T07:57:25Z
 - [Specifications - Kongsberg](https://eu.paragonfaucets.com/pages/specifications-kongsberg): Specification Details Type Kitchen Water Filter Faucet with Mixer Material Stainless Steel Finish Brushed Nickel Spout Type Dual Spout (Filtered & ...
   Updated: 2025-06-02T11:18:05Z
 - [Specifications - Lubeck](https://eu.paragonfaucets.com/pages/specifications-lubeck): Specification Details Type Touch-Activated Kitchen Faucet Material Brass Finish Matte Black Spout Type Pull-Out Sprayer Spray Functions Three Funct...
@@ -2062,12 +2062,12 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:23:45Z
 - [Included - Falkenberg Pro](https://eu.paragonfaucets.com/pages/included-falkenberg-pro)
   Updated: 2025-06-02T11:23:46Z
-- [Specs - Bergen](https://eu.paragonfaucets.com/pages/specs-bergen): Type Bathroom Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting...
-  Updated: 2025-06-02T11:23:47Z
-- [Specs - Falkenberg](https://eu.paragonfaucets.com/pages/specs-falkenberg): Type Touchless/Touch Controlled Kitchen Faucet Main Material Stainless Steel Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Sta...
-  Updated: 2025-06-02T11:23:48Z
-- [Specs - Falkenberg Pro](https://eu.paragonfaucets.com/pages/specs-falkenberg-pro): Type Touchless/Touch Controlled Kitchen Faucet Main Material Stainless Steel Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Sta...
-  Updated: 2025-06-02T11:23:48Z
+- [Specs - Bergen](https://eu.paragonfaucets.com/pages/specs-bergen): Type Bathroom Sink Faucet Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (Unit...
+  Updated: 2026-11-06T07:57:27Z
+- [Specs - Falkenberg](https://eu.paragonfaucets.com/pages/specs-falkenberg): Type Touchless/Touch Controlled Kitchen Faucet Main Material Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand,...
+  Updated: 2026-11-06T07:57:29Z
+- [Specs - Falkenberg Pro](https://eu.paragonfaucets.com/pages/specs-falkenberg-pro): Type Touchless/Touch Controlled Kitchen Faucet Main Material Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand,...
+  Updated: 2026-11-06T07:57:31Z
 - [Dimensions - Borgund](https://eu.paragonfaucets.com/pages/dimensions-borgund)
   Updated: 2025-06-02T11:25:17Z
 - [Dimensions - Lovasen](https://eu.paragonfaucets.com/pages/dimensions-lovasen)
@@ -2082,8 +2082,8 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:25:21Z
 - [Specs - Borgund](https://eu.paragonfaucets.com/pages/specs-borgund): Type Kitchen Pull Out Faucet Main Material Lead-Free Brass Lead Free Yes Fixture Type Freestanding Resistance Type Scratch Resistant / Rust Resista...
   Updated: 2025-06-02T11:25:22Z
-- [Specs - Lovasen](https://eu.paragonfaucets.com/pages/specs-lovasen): Type Bathroom Faucet Main Material Lead-Free Solid Brass Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Location Wal...
-  Updated: 2025-06-02T11:25:23Z
+- [Specs - Lovasen](https://eu.paragonfaucets.com/pages/specs-lovasen): Type Bathroom Faucet Main Material Lead-Free Solid Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (Uni...
+  Updated: 2026-11-06T07:57:30Z
 - [Dimensions - Hornavan](https://eu.paragonfaucets.com/pages/dimensions-hornavan)
   Updated: 2025-06-02T11:26:04Z
 - [Dimensions - Hornavan](https://eu.paragonfaucets.com/pages/dimensions-hornavan-1)
@@ -2094,16 +2094,16 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:26:07Z
 - [Included - Jorstad](https://eu.paragonfaucets.com/pages/included-jorstad)
   Updated: 2025-06-02T11:26:08Z
-- [Specs - Halden](https://eu.paragonfaucets.com/pages/specs-halden): Type Kitchen Faucet Main Material Lead Free Stainless Steel Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Location ...
-  Updated: 2025-06-02T11:26:09Z
+- [Specs - Halden](https://eu.paragonfaucets.com/pages/specs-halden): Type Kitchen Faucet Main Material Lead Free Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (...
+  Updated: 2026-11-06T07:57:28Z
 - [Specs - Jorstad](https://eu.paragonfaucets.com/pages/specs-jorstad): Type Kitchen Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting ...
   Updated: 2025-06-02T11:26:09Z
 - [Dimensions - Bali](https://eu.paragonfaucets.com/pages/dimensions-bali)
   Updated: 2025-06-02T11:27:02Z
 - [Included - Bali](https://eu.paragonfaucets.com/pages/included-bali)
   Updated: 2025-06-02T11:27:08Z
-- [Specs - Bali](https://eu.paragonfaucets.com/pages/specs-bali): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistan...
-  Updated: 2025-06-02T11:27:09Z
+- [Specs - Bali](https://eu.paragonfaucets.com/pages/specs-bali): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), ...
+  Updated: 2026-11-06T07:57:28Z
 - [Dimensions - Westhafen](https://eu.paragonfaucets.com/pages/dimensions-westhafen)
   Updated: 2025-06-02T11:27:46Z
 - [Included - Odda](https://eu.paragonfaucets.com/pages/included-odda)
@@ -2112,12 +2112,12 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:27:48Z
 - [Included - Westhafen](https://eu.paragonfaucets.com/pages/included-westhafen)
   Updated: 2025-06-02T11:27:49Z
-- [Specs - Odda](https://eu.paragonfaucets.com/pages/specs-odda): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistan...
-  Updated: 2025-06-02T11:27:50Z
-- [Specs - Solna](https://eu.paragonfaucets.com/pages/specs-solna): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistan...
-  Updated: 2025-06-02T11:27:51Z
-- [Specs - Westhafen](https://eu.paragonfaucets.com/pages/specs-westhafen): Type Bathtub Filler Faucet & Shower Head Main Material Lead-Free Brass Lead Free Yes Shower Head Yes Resistance Type Scratch Resistant / Rust Resis...
-  Updated: 2025-06-02T11:27:51Z
+- [Specs - Odda](https://eu.paragonfaucets.com/pages/specs-odda): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), ...
+  Updated: 2026-11-06T07:57:30Z
+- [Specs - Solna](https://eu.paragonfaucets.com/pages/specs-solna): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), ...
+  Updated: 2026-11-06T07:57:30Z
+- [Specs - Westhafen](https://eu.paragonfaucets.com/pages/specs-westhafen): Type Bathtub Filler Faucet & Shower Head Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germa...
+  Updated: 2026-11-06T07:57:27Z
 - [Dimensions - Halmstad](https://eu.paragonfaucets.com/pages/dimensions-halmstad)
   Updated: 2025-06-02T11:28:55Z
 - [Dimensions - Karlstad](https://eu.paragonfaucets.com/pages/dimensions-karlstad)
@@ -2134,8 +2134,8 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-02T11:29:00Z
 - [Installation - Leiden](https://eu.paragonfaucets.com/pages/installation-leiden): Download Installation Manual
   Updated: 2025-06-02T11:29:01Z
-- [Specs - Halmstad](https://eu.paragonfaucets.com/pages/specs-halmstad): Type Kitchen Faucet Main Material Lead Free Stainless Steel Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Location ...
-  Updated: 2025-06-02T11:29:02Z
+- [Specs - Halmstad](https://eu.paragonfaucets.com/pages/specs-halmstad): Type Kitchen Faucet Main Material Lead Free Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (...
+  Updated: 2026-11-06T07:57:29Z
 - [Dimensions - Bodo](https://eu.paragonfaucets.com/pages/dimensions-bodo)
   Updated: 2025-06-06T13:50:14Z
 - [Dimensions - Sarpsborg](https://eu.paragonfaucets.com/pages/dimensions-sarpsborg)
@@ -2144,8 +2144,8 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-06T13:50:16Z
 - [Included - Sarpsborg](https://eu.paragonfaucets.com/pages/included-sarpsborg)
   Updated: 2025-06-06T13:50:17Z
-- [Specs - Bodo](https://eu.paragonfaucets.com/pages/specs-bodo): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistan...
-  Updated: 2025-06-06T13:50:18Z
+- [Specs - Bodo](https://eu.paragonfaucets.com/pages/specs-bodo): Type Waterfall Bathroom Sink Faucet Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), ...
+  Updated: 2026-11-06T07:59:32Z
 - [Specs - Ljusnan](https://eu.paragonfaucets.com/pages/specs-ljusnan): Type Faucet Tap Water Filter Compatible Nozzle Type Round Nozzle Compatible Nozzle Diameter 0,59" - 0,94" Filtration Stages 5 Stage Filtration Wate...
   Updated: 2025-06-06T13:50:18Z
 - [Dimensions - Drammen](https://eu.paragonfaucets.com/pages/dimensions-drammen)
@@ -2160,10 +2160,10 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-06T13:52:13Z
 - [Included - Skogar](https://eu.paragonfaucets.com/pages/included-skogar)
   Updated: 2025-06-06T13:52:14Z
-- [Specs - Drammen](https://eu.paragonfaucets.com/pages/specs-drammen): Type Kitchen Faucet Main Material Stainless Steel Lead Free Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mounting Locat...
-  Updated: 2025-06-06T13:52:15Z
-- [Specs - Hagen](https://eu.paragonfaucets.com/pages/specs-hagen): Type Bathtub Filler Faucet & Shower Head Main Material Lead-Free Brass Lead Free Yes Fixture Type Freestanding Shower Head Yes Resistance Type Scra...
-  Updated: 2025-06-06T13:52:16Z
+- [Specs - Drammen](https://eu.paragonfaucets.com/pages/specs-drammen): Type Kitchen Faucet Main Material Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United Kin...
+  Updated: 2026-11-06T07:57:28Z
+- [Specs - Hagen](https://eu.paragonfaucets.com/pages/specs-hagen): Type Bathtub Filler Faucet & Shower Head Main Material Lead-Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germa...
+  Updated: 2026-11-06T07:57:28Z
 - [Specs - Skogar](https://eu.paragonfaucets.com/pages/specs-skogar): Type Shower Kit Main Material Lead-Free Brass Lead Free Yes Shower Head Yes Resistance Type Scratch Resistant / Rust Resistant / Stain Resistant Mo...
   Updated: 2025-06-06T13:52:17Z
 - [Customer Reviews](https://eu.paragonfaucets.com/pages/customer-reviews)
@@ -2176,10 +2176,10 @@ Application: Ideal for bathrooms, hotels, and sports venues
   Updated: 2025-06-06T13:54:32Z
 - [Installation - Gothenburg](https://eu.paragonfaucets.com/pages/installation-gothenburg): Your browser does not support our video.
   Updated: 2025-06-06T13:54:32Z
-- [Specs - Gothenburg](https://eu.paragonfaucets.com/pages/specs-gothenburg): Type Kitchen Faucet Primary Material Lead Free Brass Resistance Rust Resistant / Scratch Resistant / Stain Resistant Mounting Deck Mount № of Insta...
-  Updated: 2025-06-06T13:54:33Z
-- [Specs - Helsingborg](https://eu.paragonfaucets.com/pages/specs-helsingborg): Product Type Waterfall Intelligent Kitchen Faucet Primary Material Lead Free Stainless Steel Resistance Type Scratch Resistant / Rust Resistant / S...
-  Updated: 2025-06-06T13:54:34Z
+- [Specs - Gothenburg](https://eu.paragonfaucets.com/pages/specs-gothenburg): Type Kitchen Faucet Primary Material Lead Free Brass Hose Fitting Size 9/16" (United States), G1/2 (Australia, New Zealand, Germany), 3/8" (United ...
+  Updated: 2026-11-06T07:57:29Z
+- [Specs - Helsingborg](https://eu.paragonfaucets.com/pages/specs-helsingborg): Product Type Waterfall Intelligent Kitchen Faucet Primary Material Lead Free Stainless Steel Hose Fitting Size 9/16" (United States), G1/2 (Austral...
+  Updated: 2026-11-06T07:57:29Z
 - [Track My Order](https://eu.paragonfaucets.com/pages/track-my-order): We've sent a tracking number to your email address when your order was fulfilled. If you haven't received it, please check "Promotions" or "Spam" t...
   Updated: 2025-06-06T13:54:35Z
 - [Installation - Solna](https://eu.paragonfaucets.com/pages/installation-solna): Your browser does not support our video.
