@@ -6,26 +6,26 @@
 - Timezone: America/Chicago
 - Created At: 2020-03-02T15:47:42Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:26:39.350Z
+- Updated At: 2026-11-07T01:40:01.919Z
 
 ## Products
 
 - [LFDH Guitar Strap](https://darylhall.merchmadeeasy.com/products/lfdh-guitar-strap): Custom Guitar Strap Regular/Adjustable (45" - 55") 2" Polyester Durable Plastic Hardware
-  Updated: 2026-10-22T16:28:57Z
+  Updated: 2026-11-05T17:03:25Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/products/200C98F0-2E28-431A-9597-BE38478D198F.png?v=1742497713
   Price: $45.00 USD
 - [LFDH Beanie](https://darylhall.merchmadeeasy.com/products/lfdh-beanie): 100% Acrylic Black Beanie with embroidered LFDH Logo
-  Updated: 2026-10-05T13:04:42Z
+  Updated: 2026-11-05T17:03:25Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DH.png?v=1746652459
   Price: $20.00 USD
 - [Live From Daryl's House Tee](https://darylhall.merchmadeeasy.com/products/lfdh-shirt): The original Live From Daryl's House graphic on a 100% Cotton Black Tee
-  Updated: 2026-10-05T13:04:43Z
+  Updated: 2026-11-05T17:03:25Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -46,7 +46,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Daryl's House Wine Glass](https://darylhall.merchmadeeasy.com/products/wine-glass): This 9-ounce stemless wine glass is perfect for tasting your favorite wine! Daryl's House logo on the front
-  Updated: 2026-10-05T13:04:44Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
@@ -60,7 +60,7 @@
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/Dfinalalbumartwork_b518d18d-3bd9-4cf4-ad10-7a94f9f8421b.png?v=1786567304
   Price: $15.00 USD
 - [Daryl Hall Signature Long Sleeve](https://darylhall.merchmadeeasy.com/products/daryl-hall-signature): 100% Cotton Long Sleeve in Graphite Daryl Hall photo with signature screen print on the front
-  Updated: 2026-10-22T16:48:38Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: Long Sleeve
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Daryl Hall Signature Tee](https://darylhall.merchmadeeasy.com/products/daryl-hall-signature-1): 100% Cotton Tee in Dark Grey Daryl Hall photo and signature screen print on the front.
-  Updated: 2026-10-05T13:04:46Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -105,21 +105,21 @@
     Availability: Available
     Price: $30.00 USD
 - [BeforeAfter CD](https://darylhall.merchmadeeasy.com/products/daryl-hall-beforeafter-cd): Drawing from 35 years of recordings, Before After unites highlights from Daryl Hall’s five studio albums and his groundbreaking Live From Daryl’s House performance series. Compiled and sequenced by Hall, its 30 songs paint a deeply soulful self-portrait of the artist, exposing the emotional depth at the core of his every musical impulse. Before After draws unexpected and satisfying connections between the esoteric and accessible sides of Daryl Hall’s creativity. The spontaneity on display in Live From Daryl’s House is revealed at the core of Hall’s studio work. Heard together on Before After, a truer understanding emerges of Daryl Hall: intuitive, visionary, boundaryless singer, songwriter, and musician. Track-listing: Disc One Dreamtime Babs and Babs Foolish Pride Can’t Stop Dreaming Here Comes the Rain Again (Live From Daryl’s House) - with Dave Stewart Someone Like You Talking to You (Is Like Talking to Myself) Sacred Songs Right as Rain Survive North Star (Live From Daryl’s House) - with Monte Montgomery In My Own Dream (Live From Daryl’s House) NYCNY What’s Gonna Happen to Us Disc Two Love Revelation Fools Rush In I’m in a Philly Mood Send Me Justify Borderline Stop Loving Me, Stop Loving You Eyes for You (Ain’t No Doubt About It) The Farther Away I Am Why Was It So Easy Can We Still Be Friends (Live From Daryl’s House) - with Todd Rundgren Cab Driver Our Day Will Come (Live From Daryl’s House) Laughing Down Crying (Live From Daryl’s House) Problem with You (Live From Daryl’s House) Neither One of Us (Wants to Be the First to Say Goodbye) (Live From Daryl’s House)
-  Updated: 2026-10-05T13:04:47Z
+  Updated: 2026-11-05T17:03:25Z
   Vendor: Daryl Hall
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/BeforeAfterCD.png?v=1742585218
   Price: $20.00 USD
 - [BeforeAfter Vinyl (3LP)](https://darylhall.merchmadeeasy.com/products/daryl-hall-beforeafter-3lp): Drawing from 35 years of recordings, Before After unites highlights from Daryl Hall’s five studio albums and his groundbreaking Live From Daryl’s House performance series. Compiled and sequenced by Hall, its 30 songs paint a deeply soulful self-portrait of the artist, exposing the emotional depth at the core of his every musical impulse. Before After draws unexpected and satisfying connections between the esoteric and accessible sides of Daryl Hall’s creativity. The spontaneity on display in Live From Daryl’s House is revealed at the core of Hall’s studio work. Heard together on Before After, a truer understanding emerges of Daryl Hall: intuitive, visionary, boundaryless singer, songwriter, and musician. Track-listing: Side One Dreamtime Babs and Babs Foolish Pride Can’t Stop Dreaming Sacred Songs Side Two Here Comes the Rain Again (Live From Daryl’s House) - with Dave Stewart Someone Like You Talking to You (Is Like Talking to Myself) Justify Right as Rain Side Three Survive North Star (Live From Daryl’s House) - with Monte Montgomery In My Own Dream (Live From Daryl’s House) NYCNY What’s Gonna Happen to Us Side Four Love Revelation Fools Rush In I’m in a Philly Mood Send Me Cab Driver Side Five Borderline Stop Loving Me, Stop Loving You Eyes for You (Ain’t No Doubt About It) The Farther Away I Am Why Was It So Easy Side Six Can We Still Be Friends (Live From Daryl’s House) - with Todd Rundgren Our Day Will Come (Live From Daryl’s House) Laughing Down Crying (Live From Daryl’s House) Neither One of Us (Wants to Be the First to Say Goodbye) (Live From Daryl’s House) Problem with You (Live From Daryl’s House)
-  Updated: 2026-10-22T17:00:11Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/Myproject-1-28_1.png?v=1742497658
   Price: $98.00 USD
 - [Daryl's House Pullover Hoodie Yellow](https://darylhall.merchmadeeasy.com/products/lfdh-pullover-hoodie-yellow): Unisex drawstring pullover hoodie WITH Daryl's House screenprint in yellow. 80/20 ring-spun cotton/polyester
-  Updated: 2026-10-05T13:04:48Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: Hoodie
   Availability: Available
@@ -140,14 +140,14 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Daryl's House Hat](https://darylhall.merchmadeeasy.com/products/lfdh-hat): Snapback Hat with Daryl's House embroidered in Red
-  Updated: 2026-10-26T06:58:46Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHHat.png?v=1742501445
   Price: $25.00 USD
 - [Daryl Hall BeforeAfter Raglan Tee](https://darylhall.merchmadeeasy.com/products/daryl-hall-before-after-raglan-baseball-tee): 3/4 Sleeve Raglan Baseball Tee in White/Heather Olive
-  Updated: 2026-10-05T13:04:49Z
+  Updated: 2026-11-05T17:03:24Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -168,7 +168,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Daryl's House Tee - Red](https://darylhall.merchmadeeasy.com/products/daryls-house-tee-red): 100% Cotton Black Tee Daryl's House screen print in red on the front.
-  Updated: 2026-10-26T14:47:07Z
+  Updated: 2026-11-05T17:03:23Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -206,7 +206,7 @@
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHallCD.png?v=1786567925
   Price: $15.00 USD
 - [2025 Tour Tee | Official Daryl Hall Merch Store](https://darylhall.merchmadeeasy.com/products/2025-tour-tee): Daryl Hall photo graphic on the front 2025 Tour dates on the back 100% cotton tee in black
-  Updated: 2026-10-05T13:04:52Z
+  Updated: 2026-11-05T17:03:23Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -230,14 +230,14 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Signature Tote Bag](https://darylhall.merchmadeeasy.com/products/signature-tote-bag): Tote Bag with Daryl's signature as the graphic 100% cotton canvas 22" self-fabric handles
-  Updated: 2026-10-22T16:47:10Z
+  Updated: 2026-11-05T17:03:23Z
   Vendor: Daryl Hall
   Product Type: Tote Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0348/0459/6875/files/DHTOTE.png?v=1746651791
   Price: $25.00 USD
 - [Daryl Hall x Elvis Costello Tee](https://darylhall.merchmadeeasy.com/products/daryl-hall-x-elvis-costello-tee): 100% Cotton Black Tee Daryl's House screen print in red on the front.
-  Updated: 2026-10-22T16:35:57Z
+  Updated: 2026-11-05T17:03:23Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -264,13 +264,13 @@
 ## Collections
 
 - [Accessories](https://darylhall.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-26T11:08:33Z
+  Updated: 2026-11-01T12:05:11Z
   Total Products: 28
 - [Apparel](https://darylhall.merchmadeeasy.com/collections/apparel): Visit to shop all Daryl Hall apparel including tees, hoodies, long sleeves and more!
-  Updated: 2026-10-27T11:08:00Z
+  Updated: 2026-11-02T12:04:44Z
   Total Products: 22
 - [All](https://darylhall.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-28T18:01:02Z
+  Updated: 2026-11-02T12:04:44Z
   Total Products: 19
 - [Music](https://darylhall.merchmadeeasy.com/collections/music)
   Updated: 2026-10-22T17:00:19Z
@@ -279,19 +279,19 @@
   Updated: 2026-10-27T11:08:00Z
   Total Products: 10
 - [Our Favorites](https://darylhall.merchmadeeasy.com/collections/home-page)
-  Updated: 2026-10-26T11:08:33Z
+  Updated: 2026-11-02T12:04:44Z
   Total Products: 8
 - [2025 Tour Merch](https://darylhall.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-10-26T11:08:33Z
+  Updated: 2026-11-01T12:05:11Z
   Total Products: 7
 - [Stocking Stuffers](https://darylhall.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-10-26T11:08:33Z
+  Updated: 2026-11-01T12:05:11Z
   Total Products: 6
 - [$5 FRENZY ](https://darylhall.merchmadeeasy.com/collections/5-frenzy-)
-  Updated: 2026-10-27T11:08:00Z
+  Updated: 2026-11-02T12:04:44Z
   Total Products: 21
 - [EG All Products - DO NOT EDIT](https://darylhall.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-10-27T11:08:00Z
+  Updated: 2026-11-02T12:04:44Z
   Total Products: 58
 
 ## Store Pages
