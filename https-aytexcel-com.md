@@ -8,7 +8,7 @@
 - Contact Email: hello@aytexcel.com
 - Contact Phone: +91 98200 22205
 - Address: Esperanza, 1101/02, Linking Rd, next to Just in Time, Bandra West, Mumbai, Maharashtra 400050
-- Updated At: 2026-10-31T00:23:06.006Z
+- Updated At: 2026-11-07T00:27:08.732Z
 
 # Aytexcel — India's Premier Destination for Premium Home Projectors & Home Cinema
 
@@ -792,12 +792,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_design_12.png?v=1781158258
   Price: ₹575,000.00 INR
 - [AWOL Vision Aetherion Max](https://aytexcel.com/products/aetherion-max-rgb-laser-ust-projector): 4K clarity at up to 200” 3300 ISO Lumens 6000:1 Native Contrast PixelLock™ Technology Anti-RBE in Both 2D & 3D 110% Rec.2020 VRR(Variable Refresh Rate) + 1ms Latency
-  Updated: 2026-10-27T09:41:20Z
+  Updated: 2026-10-31T06:30:37Z
   Vendor: AWOL Vision
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_1080x1080px_4.jpg?v=1777886288
-  Price: ₹475,000.00 INR
+  Price: ₹465,000.00 INR
 - [JMGO N3 Ultimate 4K Triple Laser Projector India](https://aytexcel.com/products/jmgo-n3-ultimate): Buy the JMGO N3 Ultimate in India: 5,800 ISO lumens, MALC 5.0 4K triple laser, optical zoom, lens shift and AI gimbal. Official warranty and GST invoice.
   Updated: 2026-10-22T23:41:12Z
   Vendor: JMGO
@@ -813,12 +813,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/H50999f797e6849fbb81ed43875d3ba999.avif?v=1781867898
   Price: ₹228,000.00 INR
 - [Hisense PX4 Pro 4K UST Laser Projector in India](https://aytexcel.com/products/hisense-px4-pro-4k-ultra-short-throw-projector): Hisense PX4 Pro 4K UST laser projector: 100 inches from about 45 cm, 3,500 ANSI lumens, 66W Devialet Dolby Atmos, 240Hz gaming. India warranty, GST invoice.
-  Updated: 2026-10-27T06:12:40Z
+  Updated: 2026-10-31T06:31:42Z
   Vendor: Hisense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_f7946ba4-5f94-4f6c-b036-234b9db10708.jpg?v=1783926532
-  Price: ₹410,000.00 INR
+  Price: ₹395,000.00 INR
 - [NECTUNT F10 Smart Invisible Projection Cabinet](https://aytexcel.com/products/nectunt-f10-smart-invisible-projection-cabinet-motorized-projector-lift-cabinet-premium-smart-home-solution): Transform your living space with the NECTUNT F10 Smart Invisible Projection Cabinet, a premium motorized cabinet designed to conceal your projector when not in use. Featuring an automatic lift mechanism, elegant furniture-grade finish, and hidden cable management, the F10 delivers a clean, luxurious, and clutter-free home theatre experience. Key Highlights Automatic Motorized Lift System Concealed Projector Storage Premium White & Walnut Finish Clean Hidden Cable Management Strong & Durable Construction Quiet Lift Operation Ideal for Smart Homes & Home Theatres Elegant Modern Furniture Design Protects Projector from Dust & Damage Compatible with Most Standard Projectors Benefits Keeps your projector hidden Maintains a premium interior look Reduces visible cable clutter Extends projector life Easy operation Elegant furniture appearance Space-saving solution What's Included NECTUNT F10 Smart Projection Cabinet Motorized Lift Mechanism Power Cable Installation Accessories User Manual Why Choose NECTUNT F10? Smart Motorized Lift The integrated electric lift smoothly raises and lowers your projector, eliminating the need for manual installation every time you want to watch.
   Updated: 2026-10-27T07:07:29Z
   Vendor: NECTUNT
@@ -834,12 +834,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Slider.jpg?v=1784029001
   Price: ₹39,999.00 INR
 - [Hisense C3 Ultra TriChroma Laser Projector India](https://aytexcel.com/products/hisense-c3-ultra-trichroma-smart-projector): Hisense C3 Ultra 4K TriChroma triple-laser projector with Dolby Atmos sound, from an authorised India partner. Official warranty, GST invoice and Bandra demo.
-  Updated: 2026-10-27T06:11:55Z
+  Updated: 2026-11-03T06:43:34Z
   Vendor: Hisense
   Product Type: Long Throw Projector
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/hisense-c3-ultra-4k-4000-lumens-trichroma-laser-projector-a-600x600.jpg?v=1784531949
-  Price: ₹365,000.00 INR
+  Price: ₹345,000.00 INR
 - [JMGO 100 Inch Portable Projector Screen | 4K Foldable Outdoor Projection Screen](https://aytexcel.com/products/jmgo-100-inch-portable-projector-screen-4k-foldable-outdoor-projection-screen): JMGO 100 Inch Portable Projector Screen delivers a premium big-screen experience wherever you go. Designed with wrinkle-resistant projection fabric and a lightweight aluminum frame, it sets up in minutes without tools. Supporting both front and rear projection with up to 4K Ultra HD compatibility, it provides sharp visuals, vibrant colors, and a wide 160° viewing angle. Whether you're creating an outdoor cinema, hosting a business presentation, or enjoying a family movie night, the JMGO Portable Screen offers durability, portability, and exceptional image quality in a compact travel-friendly design. Key Features : Quick & Easy Setup: Set up or take down in 3 quick steps—ideal for home or on-the-go use. Superior Image Quality: Delivers vivid 4K, 3D, and HDR visuals with true-to-life colors. Durable & Versatile: Anti-wrinkle, light-resistant, and supports both front and rear projection. Perfect for Any Occasion: Great for movies, camping, work, or classroom use—anytime, anywhere.
   Updated: 2026-10-22T23:41:14Z
   Vendor: JMGO
@@ -890,12 +890,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_9e131fbf-d6d5-41c8-9bb6-8bfc2ed210d5.jpg?v=1788768280
   Price: ₹345,000.00 INR
 - [Hisense L9Q Pro Triple Laser UST Projector India](https://aytexcel.com/products/hisense-l9q-pro-4kprojector): Hisense L9Q Pro: 4K triple-laser UST projector, 5,500 ANSI lumens, up to 200 inches, 6.2.2 Devialet sound, 240Hz gaming. Official India warranty, GST invoice.
-  Updated: 2026-10-27T06:10:20Z
+  Updated: 2026-10-31T06:32:23Z
   Vendor: Hisense
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/JMGO_picoplay_13.jpg?v=1772455213
-  Price: ₹665,000.00 INR
+  Price: ₹645,000.00 INR
 - [NECTUNT T21 Smart Laser  Module](https://aytexcel.com/products/nectunt-t21-smart-laser-module): Smart Design. Seamless Integration. Premium Home Cinema. Transform your home entertainment setup with the NECTUNT T21 Smart Laser TV Module, an intelligent motorized sliding cabinet module designed for Ultra Short Throw (UST) laser projectors.
   Updated: 2026-10-26T22:05:47Z
   Vendor: AYTEXCEL
@@ -922,13 +922,13 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-10-22T12:07:22Z
   Total Products: 3
 - [Hisense](https://aytexcel.com/collections/hisense-projectors): Browse Hisense 4K laser projectors at Aytexcel, featuring C2 Ultra and other triple‑laser cinema projectors with IMAX Enhanced and Dolby Vision‑ready premium home‑theater performance
-  Updated: 2026-10-27T06:13:04Z
+  Updated: 2026-11-03T06:43:35Z
   Total Products: 11
 - [Ultra Short Throw Projector](https://aytexcel.com/collections/ultra-short-throw-projectors): Shop ultra short throw projectors at Aytexcel, including 4K UST laser projectors and compact models perfect for small rooms, home theaters, and bright‑room setups
-  Updated: 2026-10-27T09:41:21Z
+  Updated: 2026-10-31T06:32:24Z
   Total Products: 14
 - [Long Throw Projector](https://aytexcel.com/collections/long-throw-projectors): Shop long throw 4K laser and gimbal projectors in India from Hisense, JMGO, Valerion, Formovie and Dangbei. Authorised distributor, 1-year Indian warranty, GST invoice.
-  Updated: 2026-10-27T06:49:11Z
+  Updated: 2026-11-03T06:43:35Z
   Total Products: 21
 - [Portable Projector](https://aytexcel.com/collections/portable-projectors-india): Discover portable projectors at Aytexcel, perfect for travel, bedrooms, and on‑the‑go entertainment, with compact, high‑brightness models for movies, gaming, and presentations.
   Updated: 2026-10-22T12:07:19Z
@@ -937,7 +937,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-10-27T07:06:59Z
   Total Products: 13
 - [Projectors](https://aytexcel.com/collections/projectors): Discover premium high-end projectors in India: Hisense, Dangbei, JMGO, Valerion, Formovie, AWOL along with essential accessories for your projector. Free delivery, 1-year warranty, best prices on laser home theater projectors. Shop now
-  Updated: 2026-10-27T06:49:11Z
+  Updated: 2026-10-31T06:32:24Z
   Total Products: 28
 - [Screens](https://aytexcel.com/collections/projector-screens): Buy ALR, Fresnel and motorised projector screens in India for UST and long-throw projectors: Vividstorm, Fscreen, Formovie. Local stock, GST invoice, installation.
   Updated: 2026-10-22T12:07:15Z
@@ -955,13 +955,13 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-03-02T12:56:14Z
   Total Products: 0
 - [New Arrivals](https://aytexcel.com/collections/new-arrivals)
-  Updated: 2026-10-27T09:41:21Z
+  Updated: 2026-11-03T06:43:35Z
   Total Products: 10
 - [Best ](https://aytexcel.com/collections/best-sellers): Explore Aytexcel's best- projectors, ALR screens, and home theatre solutions. Shop premium 4K laser projectors, Ultra Short Throw projectors, projection screens, and AV accessories from leading global brands. Why Customers Love These Products Best  Premium Projectors 4K UHD & Triple Laser Technology Dolby Vision, HDR10+ & Wide Color Gamut Ultra Short Throw & Long Throw Options Premium ALR & Fresnel Projection Screens Perfect for Home Theatre & Smart Homes High Brightness for Day & Night Viewing 🇮🇳 Expert Support & Pan India Delivery Shop with confidence and experience the best in home entertainment with Aytexcel's top-rated AV solutions.
-  Updated: 2026-10-27T06:49:11Z
+  Updated: 2026-10-31T06:32:24Z
   Total Products: 9
 - [AWOL VISION](https://aytexcel.com/collections/awol): Buy AWOL Vision Aetherion RGB triple-laser ultra short throw projectors in India from authorised distributor Aytexcel. Local stock, 1-year warranty, GST invoice.
-  Updated: 2026-10-27T09:41:21Z
+  Updated: 2026-10-31T06:30:38Z
   Total Products: 3
 - [Premium Smart Projection Cabinets](https://aytexcel.com/collections/cabinets): Premium smart laser TV cabinets that hide and lift your ultra short throw projector. Available in India from Aytexcel with installation support.
   Updated: 2026-10-27T07:06:59Z
