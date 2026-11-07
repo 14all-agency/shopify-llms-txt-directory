@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-10-01T05:49:08Z
 - Contact Email: info@inflorescencenaturals.com
-- Updated At: 2026-10-30T01:25:58.924Z
+- Updated At: 2026-11-07T01:22:53.563Z
 
 ## Products
 
@@ -95,7 +95,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/patchouli-earth-eau-de-parfum-inflorescence-naturals-6055336.jpg?v=1785427331
     Price: ₹599.00 INR
 - [Saffron Royale | Natural Eau de Parfum — Saffron Oud Perfume from Kannauj](https://inflorescencenaturals.com/products/saffron-royale-eau-de-parfum): Saffron Royale EDP — botanical, grain-based denatured ethanol Eau de Parfum. Warm saffron, rich oud & sandalwood. Zero harsh synthetics. The fragrance of royalty.
-  Updated: 2026-10-26T03:00:58Z
+  Updated: 2026-11-03T01:20:08Z
   Vendor: Inflorescence Naturals
   Product Type: Eau de Parfum
   Availability: Available
@@ -123,7 +123,7 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/majmua-opus-eau-de-parfum-inflorescence-naturals-7095731.jpg?v=1785427331
     Price: ₹599.00 INR
 - [Rijali Noir | Natural Eau de Parfum — Floral Oriental Perfume from Kannauj](https://inflorescencenaturals.com/products/rijali-noir-eau-de-parfum): Rijali Noir EDP — botanical, grain-based denatured ethanol Eau de Parfum from Kannauj. Dark florals, smoky oud & sandalwood. Zero harsh synthetics. Long-lasting.
-  Updated: 2026-10-20T15:51:36Z
+  Updated: 2026-11-04T07:01:02Z
   Vendor: Inflorescence Naturals
   Product Type: Eau de Parfum
   Availability: Available
@@ -165,14 +165,13 @@
     Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/shamama-prestige-eau-de-parfum-inflorescence-naturals-6699170.jpg?v=1785427328
     Price: ₹599.00 INR
 - [Gili Mitti | Wet Earth | Natural Eau de Parfum — Petrichor Perfume India](https://inflorescencenaturals.com/products/wet-earth-eau-de-parfum): Gili Mitti EDP — botanical, grain-based denatured ethanol petrichor Eau de Parfum. The scent of rain on earth, elevated. Zero harsh synthetics. Uniquely Indian.
-  Updated: 2026-10-20T15:51:36Z
+  Updated: 2026-11-01T18:23:16Z
   Vendor: Inflorescence Naturals
   Product Type: Eau de Parfum
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/wet-earth-gili-mitti-natural-eau-de-parfum-inflorescence-naturals-1100281.png?v=1788170550
+  Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/wet-earth-vertical--image.png?v=1793375615
   - [50 ml](https://inflorescencenaturals.com/products/wet-earth-eau-de-parfum?variant=45538929934509)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0728/6849/5533/files/wet-earth-gili-mitti-natural-eau-de-parfum-inflorescence-naturals-1100281.png?v=1788170550
     Price: ₹1,699.00 INR
   - [10 ml](https://inflorescencenaturals.com/products/wet-earth-eau-de-parfum?variant=45944852480173)
     Availability: Available
@@ -440,28 +439,28 @@
 ## Collections
 
 - [Eau de Parfum](https://inflorescencenaturals.com/collections/eau-de-parfum): Shop our Eau de Parfum range — grain-based denatured ethanol spray perfumes inspired by Kannauj botanicals. Distinct from attars. Shop online India.
-  Updated: 2026-10-26T11:40:16Z
+  Updated: 2026-10-31T11:17:34Z
   Total Products: 15
 - [For Her](https://inflorescencenaturals.com/collections/for-her): Shop natural fragrances for her — Indian attars & EDPs crafted in Kannauj. Rose, jasmine, tuberose & more. Pure botanicals, zero harsh synthetics.
   Updated: 2026-10-26T11:40:16Z
   Total Products: 9
 - [For Him](https://inflorescencenaturals.com/collections/for-him): Shop natural fragrances for him — Indian attars & EDPs crafted in Kannauj. Oud, sandalwood, vetiver & more. Pure botanicals, zero harsh synthetics.
-  Updated: 2026-10-26T11:40:16Z
+  Updated: 2026-10-31T11:17:34Z
   Total Products: 13
 - [Unisex](https://inflorescencenaturals.com/collections/unisex): Shop unisex natural fragrances — pure Indian attars & EDPs crafted in Kannauj. 100% natural, zero synthetics. Beautiful fragrances for everyone.
   Updated: 2026-10-26T11:40:16Z
   Total Products: 9
 - [Gifting](https://inflorescencenaturals.com/collections/gifting): Gift the art of Kannauj. Shop premium attar gift sets and natural perfume hampers for birthdays, weddings & festivals. Beautifully packaged, delivered across India.
-  Updated: 2026-09-02T15:12:42Z
+  Updated: 2026-10-31T00:13:12Z
   Total Products: 5
 - [Bestselling](https://inflorescencenaturals.com/collections/bestselling): Shop our most-loved Kannauj attars and natural perfumes. Customer favourites with proven longevity, rich sillage & authentic botanical ingredients.
-  Updated: 2026-10-29T11:18:26Z
+  Updated: 2026-10-31T11:17:34Z
   Total Products: 6
 - [Indian Attars | Kannauj Attars](https://inflorescencenaturals.com/collections/indian-attars): Shop pure Kannauj attars handcrafted using traditional deg-bhapka distillation. Natural, long-lasting Indian attars for men & women. Free shipping on orders above ₹999.
   Updated: 2026-10-29T11:18:26Z
   Total Products: 15
 - [All Products](https://inflorescencenaturals.com/collections/all-products): Shop all natural Indian perfumes from Inflorescence Naturals — pure Kannauj attars & EDPs. Pure botanicals, zero harsh synthetics. Find your signature scent.
-  Updated: 2026-10-29T11:18:26Z
+  Updated: 2026-10-31T11:17:34Z
   Total Products: 35
 
 ## Blogs
@@ -485,15 +484,15 @@
     Author: Ravindra kumar
     Tags: alcohol-free perfume, Attar, attar guide, Indian fragrance, Kannauj, Kannauj Attar Making, natural perfume, natural perfume oil, oud attar, rose attar, sandalwood attar, The Ancient Art of India's Natural Perfumes, traditional perfume
   - [Benefits of Sandalwood Attar for Daily Use](https://inflorescencenaturals.com/blogs/news/benefits-of-sandalwood-attar-for-daily-use): <p>Discover the benefits of sandalwood attar for daily use. Learn why this timeless natural fragrance is valued for its long-lasting aroma, elegance, and rich Kannauj heritage.</p>
-    Updated: 2026-07-30T15:56:17Z
+    Updated: 2026-10-30T23:55:36Z
     Author: Ravindra kumar
     Tags: alcohol-free perfume, Attar, Attar Natural Perfume Traditional Attar Indian Fragrance Alcohol-Free Perfume Sandalwood Fragrance Perfume Manufacturing Essential Oils Inflorescence Naturals, Indian fragrance, Kannauj, Kannauj Attar Making, natural perfume, natural perfume oil, rose attar, sandalwood attar, The Ancient Art of India's Natural Perfumes, traditional perfume
   - [Why Mitti Attar Smells Like the First Rain: India's Most Unique Fragrance](https://inflorescencenaturals.com/blogs/news/why-mitti-attar-smells-like-the-first-rain-indias-most-unique-fragrance): <p>Why Mitti Attar Smells Like the First Rain | Inflorescence Naturals</p>
-    Updated: 2026-07-30T15:56:19Z
+    Updated: 2026-10-30T23:51:42Z
     Author: Ravindra kumar
     Tags: Attar Natural Perfume Traditional Attar Indian Fragrance Alcohol-Free Perfume Sandalwood Fragrance Perfume Manufacturing Essential Oils Inflorescence Naturals, Indian fragrance, Mitti Attar Perfume of Rain Petrichor Fragrance Kannauj Attar Natural Perfume Traditional Attar Indian Perfume Deg Bhapka Distillation Sandalwood Attar Inflorescence Naturals
   - [The Journey of a Rose: From Flower to Attar | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/the-journey-of-a-rose-from-flower-to-attar): The Journey of a Rose: From Flower to Attar | Inflorescence Naturals
-    Updated: 2026-07-30T15:56:22Z
+    Updated: 2026-10-30T23:56:45Z
     Author: Ravindra kumar
     Tags: alcohol-free perfume, Attar, Attar Natural Perfume Traditional Attar Indian Fragrance Alcohol-Free Perfume Sandalwood Fragrance Perfume Manufacturing Essential Oils Inflorescence Naturals, Indian fragrance, Rose Attar Natural Rose Perfume Kannauj Attar Pure Rose Attar Traditional Attar Making
   - [Fragrance and Mood: Creating Emotional Experiences](https://inflorescencenaturals.com/blogs/news/fragrance-and-mood-creating-emotional-experiences): <p>Fragrance is more than a pleasant aroma—it's closely connected to our emotions, memories, and daily experiences. Learn how scent shapes the way we feel, think, and remember.</p>
@@ -513,15 +512,15 @@
     Author: Ravindra kumar
     Tags: alcohol-free perfume, attar, Indian perfume, ittar, Kannauj, natural fragrance, pure attar, traditional perfumery
   - [Best Attars for Gifting: A Complete Guide | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/best-attars-for-gifting-a-complete-guide): Best Attars for Gifting: A Complete Guide | Inflorescence Naturals
-    Updated: 2026-07-30T15:56:38Z
+    Updated: 2026-10-31T00:26:30Z
     Author: Ravindra kumar
     Tags: alcohol-free perfume, attar gift, Diwali gift, gifting guide, Indian perfume gift, Kannauj attar, natural fragrance gift, oud gift, rose attar, wedding gift
   - [Bela Attar – Pure Jasminum Sambac Attar from Kannauj | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/bela-attar-the-timeless-fragrance-of-kannaujs-jasmine-fields): Bela Attar – Pure Jasminum Sambac Attar from Kannauj | Inflorescence Naturals
-    Updated: 2026-07-30T15:56:42Z
+    Updated: 2026-10-30T23:57:48Z
     Author: Ravindra kumar
     Tags: alcohol-free perfume, bela attar, deg-bhapka, Indian attar, jasmine attar, Kannauj attar, mogra attar, natural perfume, pure attar, sambac attar
   - [Rajnigandha Attar — Pure Tuberose Perfume Oil from Kannauj | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/rajnigandha-the-queen-of-the-night-indias-most-intoxicating-floral-attar): Rajnigandha Attar — Pure Tuberose Perfume Oil from Kannauj | Inflorescence Naturals
-    Updated: 2026-07-30T15:56:45Z
+    Updated: 2026-10-30T23:59:19Z
     Author: Ravindra kumar
     Tags: attar, Indian perfume, Kannauj, natural fragrance, tuberose
   - [Bakhoor Attar — Pure Indian Oud Incense Perfume Oil from Kannauj | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/bakhoor-the-ancient-art-of-smoke-scent-indias-most-sacred-fragrance-tradition): Bakhoor Attar — Pure Indian Oud Incense Perfume Oil from Kannauj | Inflorescence Naturals
@@ -552,31 +551,31 @@
     Author: Ravindra kumar
     Tags: attar, eau de parfum, fragrance, Indian perfumery, Kannauj, perfume guide
   - [How Mitti Attar Is Made — The Ancient Art of Kannauj Perfumery | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/how-mitti-attar-is-made-the-secret-of-kannauj): How Mitti Attar Is Made — The Ancient Art of Kannauj Perfumery | Inflorescence Naturals
-    Updated: 2026-09-08T02:08:14Z
+    Updated: 2026-10-30T23:54:42Z
     Author: Ravindra kumar
     Tags: alcohol-free fragrance, attar making, Indian perfumery, kannauj, mitti attar, petrichor, traditional distillation
   - [Best Attar & EDP Gifts for Diwali 2026 — Luxury Indian Fragrances | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/best-attar-edp-gifts-for-diwali-2026-luxury-fragrances-that-celebrate-india): Best Attar & EDP Gifts for Diwali 2026 — Luxury Indian Fragrances | Inflorescence Naturals
-    Updated: 2026-10-02T01:33:08Z
+    Updated: 2026-10-31T00:20:34Z
     Author: Ravindra kumar
     Tags: alcohol-free fragrance, attar gifts, Diwali 2026, Diwali gifts, EDP gifts, festive gifting, Indian perfumery, Kannauj
   - [Best Attars for Gifting: A Complete Guide | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/best-attars-for-gifting-a-complete-guide-1): Best Attars for Gifting: A Complete Guide | Inflorescence Naturals
-    Updated: 2026-10-02T01:33:14Z
+    Updated: 2026-10-31T00:24:05Z
     Author: Ravindra kumar
     Tags: alcohol-free perfume, attar gift, Diwali gift, gifting guide, Indian perfume gift, Kannauj attar, natural fragrance gift, oud gift, rose attar, wedding gift
   - [Best Attar Pairings to Explore | Pick Any 2, Save 20%](https://inflorescencenaturals.com/blogs/news/pick-any-2-save-20-attar-pairings): Best Attar Pairings to Explore | Pick Any 2, Save 20%
     Updated: 2026-10-02T01:33:17Z
     Author: Ravindra kumar
     Tags: Attar, Fragrance Pairing, Kannauj, Natural Fragrance
-  - [Wet Earth: The Fragrance of First Rain | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/wet-earth-fragrance-first-rain): Wet Earth: The Fragrance of First Rain | Inflorescence Naturals
-    Updated: 2026-10-02T01:33:20Z
+  - [Wet Earth Natural EDP | First-Rain Scent from Kannauj](https://inflorescencenaturals.com/blogs/news/wet-earth-fragrance-first-rain): Wet Earth Natural EDP | First-Rain Scent from Kannauj
+    Updated: 2026-11-01T01:06:35Z
     Author: Ravindra kumar
     Tags: Kannauj, Mitti Attar, natural perfume, petrichor, Wet Earth
   - [Diwali 2026 Fragrance Gifts | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/diwali-2026-luxury-fragrance-gifts): Diwali 2026 Fragrance Gifts | Inflorescence Naturals
-    Updated: 2026-10-05T21:37:07Z
+    Updated: 2026-10-31T00:17:39Z
     Author: Ravindra kumar
     Tags: Attar, Diwali 2026, Diwali Gifting, Fragrance Gifts, Indian Fragrance Heritage, Kannauj Perfumery, Luxury Gifting
   - [How to Choose a Diwali Fragrance Gift | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/how-to-choose-a-diwali-fragrance-gift-for-someone-else): How to Choose a Diwali Fragrance Gift | Inflorescence Naturals
-    Updated: 2026-10-07T19:39:15Z
+    Updated: 2026-10-31T00:03:42Z
     Author: Inflorescence Naturals
     Tags: Attar, Diwali 2026, Diwali Gifting, Fragrance Gifting, Indian Craftsmanship, Inflorescence Naturals, Kannauj, Natural Perfume
   - [Patchouli Attar vs Patchouli Earth EDP | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/patchouli-attar-patchouli-earth-edp): Patchouli Attar vs Patchouli Earth EDP | Inflorescence Naturals
@@ -600,12 +599,17 @@
     Author: Ravindra kumar
     Tags: Diwali Gifting, Eau de Parfum, Fragrance Discovery, Indian Perfumery, Kannauj Perfumery, Perfume Gift Set, Whispers of Five
   - [Ruh Khus: Discover the Earthy Elegance of Indian Vetiver](https://inflorescencenaturals.com/blogs/news/ruh-khus-discover-the-earthy-elegance-of-indian-vetiver)
-    Updated: 2026-10-27T23:00:19Z
+    Updated: 2026-10-31T00:00:47Z
     Author: Ravindra kumar
+    Tags: Earthy Fragrance, Eau de Parfum, Indian Perfumery, Kannauj Perfumery, Natural Perfume, Ruh Khus, Traditional Attar, Vetiver
   - [Natural, Organic & Traditional Perfumes: What's the Difference?](https://inflorescencenaturals.com/blogs/news/natural-organic-traditional-or-nature-inspired-understanding-whats-inside-your-perfume): Natural, Organic & Traditional Perfumes: What's the Difference?
     Updated: 2026-10-27T23:00:25Z
     Author: Ravindra kumar
     Tags: Eau de Parfum, Fragrance Education, Kannauj Perfumery, Natural Perfume, Nature-Inspired Perfume, Perfume Ingredients, Traditional Attar
+  - [Saffron Royale: An Evening to Remember | Inflorescence Naturals](https://inflorescencenaturals.com/blogs/news/saffron-royale-the-evening-you-wish-would-never-end): Saffron Royale: An Evening to Remember | Inflorescence Naturals
+    Updated: 2026-11-02T17:06:17Z
+    Author: Ravindra kumar
+    Tags: Eau de Parfum, Fragrance Stories, Kannauj Perfumery, Saffron Royale
 
 ## Store Pages
 
@@ -623,7 +627,7 @@
 ## Policies
 
 - [Privacy Policy](https://inflorescencenaturals.com/policies/privacy-policy)
-  Updated: 2025-10-01T05:49:19Z
+  Updated: 2026-10-30T20:48:38Z
 - [Shipping Policy](https://inflorescencenaturals.com/policies/shipping-policy)
   Updated: 2026-06-03T00:15:27Z
 - [Refund Policy](https://inflorescencenaturals.com/policies/refund-policy)
