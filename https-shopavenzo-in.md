@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-09-01T18:35:20Z
 - Contact Email: nestcrypto1009@gmail.com
-- Updated At: 2026-10-30T01:02:10.789Z
+- Updated At: 2026-11-07T01:05:04.480Z
 
 ## Products
 
@@ -1763,7 +1763,7 @@
 ## Policies
 
 - [Privacy Policy](https://shopavenzo.in/policies/privacy-policy)
-  Updated: 2026-09-01T18:35:25Z
+  Updated: 2026-10-30T08:16:06Z
 - [Shipping Policy](https://shopavenzo.in/policies/shipping-policy)
   Updated: 2026-09-04T10:52:07Z
 - [Refund Policy](https://shopavenzo.in/policies/refund-policy)
