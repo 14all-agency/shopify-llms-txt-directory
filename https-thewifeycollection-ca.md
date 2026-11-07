@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-10-31T00:19:05.747Z
+- Updated At: 2026-11-07T00:20:30.802Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -303,6 +303,18 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-10-29T09:01:30Z
     Author: The Wifey Collection
     Tags: clothing design, evolution of modest fashion, fashion, fashion trends, modern modesty, modest, modest clothing for women, modest style
+  - [Delicate Poise: An Exploration of The Wifey Collection's Signature Styles](https://thewifeycollection.ca/blogs/news/delicate-poise-an-exploration-of-the-wifey-collections-signature-styles): Delicate Poise: An Exploration of The Wifey Collection's Signature Styles
+    Updated: 2026-10-31T09:00:57Z
+    Author: The Wifey Collection
+    Tags: elegant modest wear, fashion, modest, modest clothing, signature styles, styles, trendy modest outfits, wifey collection
+  - [Refined Simplicity: The Tranquil Philosophy of Modest Fashion](https://thewifeycollection.ca/blogs/news/refined-simplicity-the-tranquil-philosophy-of-modest-fashion): Refined Simplicity: The Tranquil Philosophy of Modest Fashion
+    Updated: 2026-11-03T09:00:48Z
+    Author: The Wifey Collection
+    Tags: chic modest outfits, fashion, modest, modest clothing, refined styles, simplicity, timeless modest trends, tranquil fashion philosophy
+  - [Journeys in Modest Elegance: Celebrating Canadian Craftsmanship](https://thewifeycollection.ca/blogs/news/journeys-in-modest-elegance-celebrating-canadian-craftsmanship): Journeys in Modest Elegance: Celebrating Canadian Craftsmanship
+    Updated: 2026-11-05T09:01:42Z
+    Author: The Wifey Collection
+    Tags: canadian craftsmanship, cultural modest fashion trends, elegance, fashion, modest fashion, modesty, sustainable modest clothing, timeless styles
 
 ## Store Pages
 
