@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-04T23:01:09Z
 - Contact Email: jeremymcanally@gmail.com
-- Updated At: 2026-10-31T00:24:46.746Z
+- Updated At: 2026-11-07T00:25:24.220Z
 
 ## Products
 
@@ -1890,7 +1890,7 @@
 ## Policies
 
 - [Privacy Policy](https://sweatygambeson.com/policies/privacy-policy)
-  Updated: 2026-06-04T23:01:21Z
+  Updated: 2026-11-01T00:21:14Z
 - [Refund Policy](https://sweatygambeson.com/policies/refund-policy)
   Updated: 2026-06-25T01:46:18Z
 - [Terms of Service](https://sweatygambeson.com/policies/terms-of-service)
