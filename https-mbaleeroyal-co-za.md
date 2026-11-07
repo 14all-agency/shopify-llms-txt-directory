@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-08-24T13:01:22Z
 - Contact Email: hello@oraxxi.co.za
-- Updated At: 2026-10-30T00:57:34.862Z
+- Updated At: 2026-11-07T01:15:52.080Z
 
 ## Products
 
@@ -957,7 +957,7 @@
 ## Policies
 
 - [Privacy Policy](https://mbaleeroyal.co.za/policies/privacy-policy)
-  Updated: 2026-08-24T13:01:25Z
+  Updated: 2026-10-31T06:28:49Z
 - [Shipping Policy](https://mbaleeroyal.co.za/policies/shipping-policy)
   Updated: 2026-08-29T01:03:43Z
 - [Refund Policy](https://mbaleeroyal.co.za/policies/refund-policy)
