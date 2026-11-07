@@ -8,12 +8,12 @@
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
 - Address: 1704 Charles Street, Vancouver, BC 
-- Updated At: 2026-10-31T00:17:56.067Z
+- Updated At: 2026-11-07T00:19:56.010Z
 
 ## Products
 
 - [7th Heaven Whistler Canvas Print | Graham Watts](https://www.grahamwattsart.com/products/whistler-blackcomb-art-7th-heaven-whistler-bc-limited-edition-print): Bring Blackcomb Mountain home with 7th Heaven, a signed limited-edition Whistler canvas print by Canadian artist Graham Watts, available in multiple sizes.
-  Updated: 2026-10-04T08:22:34Z
+  Updated: 2026-11-06T17:07:54Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -31,7 +31,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Gastown Vancouver Print Last Call](https://www.grahamwattsart.com/products/last-call-gastown-vancouver-bc-limited-edition-print): Limited edition print of Gastown, Vancouver cityscape Gas town canvas print by Graham Watts.
-  Updated: 2026-10-04T09:59:32Z
+  Updated: 2026-11-06T17:07:54Z
   Vendor: Graham Watts Art
   Product Type: Limited Edition Canvas Print
   Availability: Available
@@ -49,7 +49,7 @@
     Availability: Available
     Price: $599.00 CAD
 - [Original Canadian Art | Hudson's Bay - Vancouver, BC](https://www.grahamwattsart.com/products/hudsons-bay-vancouver-bc): Original oil painting of downtown Hudson's Bay, Vancouver in the rain.  By local artist Graham Watts. Large landscape artwork - Buy Canadian Art Online Store
-  Updated: 2026-10-04T09:06:13Z
+  Updated: 2026-11-06T17:07:55Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/rocky-grizzly-bear-8371158.jpg?v=1779917235
   Price: $2,999.00 CAD
 - [Wildlife Artwork "TEDDY" Grizzly Bear](https://www.grahamwattsart.com/products/wildlife-artwork-teddy-grizzly-bear): "TEDDY" is a contemporary western wildlife artwork of a colourful grizzly bear, by Graham Watts. Live Life Colorfully  Oil on Canvas Painting
-  Updated: 2026-10-03T17:36:53Z
+  Updated: 2026-11-06T17:07:58Z
   Vendor: Graham Watts Art
   Product Type: Original Oil Painting
   Availability: Available
@@ -369,119 +369,119 @@
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-black-tusk-peak-whistler-bc-2245132.webp?v=1788269406
   Price: $89.99 CAD
 - [Black Tusk Whistler Travel Poster | Graham Watts](https://www.grahamwattsart.com/products/black-tusk-whistler-travel-poster): Shop the Black Tusk Peak Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T19:43:23Z
+  Updated: 2026-11-06T17:08:02Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-black-tusk-peak-whistler-bc-12-18-in-2115080.webp?v=1788269406
   Price: $36.02 CAD
 - [Blackcomb Peak, Whistler, BC,  Fine Art Poster 30x45 cm / 12x18″](https://www.grahamwattsart.com/products/blackcomb-peak-whistler-bc-fine-art-poster-30x45-cm-12x18): Discover our Fine Art Posters - Iconic artworks with vivid colors using giclée fine art 12-color printing technology. Perfect for art lovers and designers alike. Color Vibrancy: Our 12-color fine art printing technology delivers vivid, accurate colors with stunning depth, far beyond standard 4-color inkjet printing technology. Paper Finishing: Smooth matte finish for a clean, glare-free display. Paper Weight: 200 gsm (80 lb), thickness: 0.26 mm (10.3 mils). Available Sizes: Offered in a variety of sizes to fit any space or frame. Eco-Friendly Materials: Printed on environmentally conscious, FSC- paper. No minimum orders, printed and shipped on demand to guarantee freshness and customization for every order.
-  Updated: 2026-09-26T22:00:37Z
+  Updated: 2026-11-06T17:08:02Z
   Vendor: Graham Watts Art
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/blackcomb-peak-whistler-bc-fine-art-poster-30x45-cm-12x18-3542834.webp?v=1788269347
   Price: $36.02 CAD
 - [Whistler BC Wall Art | Premium Framed Ski Poster](https://www.grahamwattsart.com/products/whistler-british-columbia-framed-poster-1): Shop Whistler BC wall art by Canadian artist Graham Watts. Premium framed travel and ski poster inspired by Whistler, British Columbia, ready to hang.
-  Updated: 2026-10-05T03:34:30Z
+  Updated: 2026-11-06T17:08:02Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-whistler-british-columbia-design-no-1-1056342.webp?v=1788269346
   Price: $89.99 CAD
 - [Whistler Blackcomb Travel Poster | Graham Watts](https://www.grahamwattsart.com/products/whistler-blackcomb-travel-poster): Shop the Whistler Blackcomb Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T22:15:40Z
+  Updated: 2026-11-06T17:08:03Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-whistler-blackcomb-british-columbia-12-18-in-5768353.webp?v=1788269347
   Price: $36.02 CAD
 - [Whistler Powder Skiing Wall Art | Framed Ski Poster](https://www.grahamwattsart.com/products/whistler-blackcomb-framed-poster): Shop Whistler powder skiing wall art by Graham Watts. Premium framed ski poster inspired by powder days at Whistler Blackcomb, British Columbia.
-  Updated: 2026-10-05T03:34:37Z
+  Updated: 2026-11-06T17:08:03Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-whistler-blackcomb-british-columbia-1720396.webp?v=1788269347
   Price: $89.99 CAD
 - [The Lions Vancouver Travel Poster | Graham Watts](https://www.grahamwattsart.com/products/the-lions-vancouver-travel-poster): Shop the The Lions Vancouver travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T19:43:21Z
+  Updated: 2026-11-06T17:08:03Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-the-lions-vancouver-bc-12-18-in-5493184.webp?v=1788269347
   Price: $36.02 CAD
 - [Whistler Blackcomb Travel Poster No. 1 | Graham Watts](https://www.grahamwattsart.com/products/whistler-blackcomb-travel-poster-design-1): Shop the Whistler Blackcomb Resorts Design No. 1 Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T19:43:22Z
+  Updated: 2026-11-06T17:08:04Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-whistler-blackcomb-resorts-design-no-1-12-18-in-7387798.webp?v=1788269348
   Price: $36.02 CAD
 - [Whistler Blackcomb Wall Art | Framed Ski Poster](https://www.grahamwattsart.com/products/whistler-blackcomb-framed-poster-design-1): Shop Whistler Blackcomb wall art by Graham Watts. Premium framed ski and travel poster inspired by Whistler Blackcomb, British Columbia.
-  Updated: 2026-10-05T03:34:33Z
+  Updated: 2026-11-06T17:08:04Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-whistler-blackcomb-resorts-design-no-1-8414737.webp?v=1788269347
   Price: $89.99 CAD
 - [Fissile Peak Whistler Travel Poster | Graham Watts](https://www.grahamwattsart.com/products/fissile-peak-whistler-travel-poster): Shop the Fissile Peak Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T19:43:08Z
+  Updated: 2026-11-06T17:08:05Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-fissile-peak-whistler-bc-12-18-in-2599144.webp?v=1788269346
   Price: $36.02 CAD
 - [Whistler Blackcomb Wall Art | Fine Art Ski Poster](https://www.grahamwattsart.com/products/whistler-blackcomb-travel-poster-design-2): Shop Whistler Blackcomb wall art by Canadian artist Graham Watts. Vintage-inspired fine art ski poster from Whistler BC, 12×18″ / 30×45 cm
-  Updated: 2026-09-26T10:49:20Z
+  Updated: 2026-11-06T17:08:09Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-whistler-blackcomb-resorts-design-no-2-12-18-in-5347899.webp?v=1788269346
   Price: $36.00 CAD
 - [Blackcomb Peak Whistler Wall Art | Framed Ski Poster](https://www.grahamwattsart.com/products/blackcomb-peak-whistler-framed-poster): Shop Blackcomb Peak Whistler wall art by Graham Watts. Premium framed ski poster inspired by Blackcomb Mountain and Whistler BC, ready to hang.
-  Updated: 2026-10-05T03:34:19Z
+  Updated: 2026-11-06T17:08:09Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-blackcomb-peak-whistler-bc-6229478.webp?v=1788269346
   Price: $89.99 CAD
 - [Vancouver, BC – The Lions, Fine Art Poster - Premium Semi-Glossy Paper Wooden Framed Poster](https://www.grahamwattsart.com/products/vancouver-bc-the-lions-fine-art-poster-premium-semi-glossy-paper-wooden-framed-poster): Our sturdy wooden framed posters feature premium semi-glossy paper that enhances colors with a subtle shine while protecting against fading from light and moisture: Ready-to-hang: Includes hanging kit, ready to hang directly on the wall. Frame Material: Durable pine wood. Frame Color: Black, white (smooth finish), natural, and dark brown wood (visible grain). Frame Measurements: 20-25mm (0.79"-0.98") thick, 10-14mm (0.4"-0.6") wide. Paper Weight: 200 gsm (80 lb), thickness: 0.22 mm (8.7 mils). Paper Finishing: Semi-glossy, enhances colors with a subtle shine. Protection: Shatterproof plexiglass protects the poster. Sustainable Paper: FSC- materials or equivalent. Available Sizes: 15 sizes in inches (US&CA) and cms (rest of the world). Learn about paper types and their unique textures and finishes here. No minimum orders, printed and shipped on demand.
-  Updated: 2026-10-04T16:44:09Z
+  Updated: 2026-11-06T17:08:09Z
   Vendor: Graham Watts Art
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/vancouver-bc-the-lions-fine-art-poster-premium-semi-glossy-paper-wooden-framed-poster-1396217.webp?v=1788269346
   Price: $89.99 CAD
 - [Whistler BC Travel Poster No. 1 | Graham Watts](https://www.grahamwattsart.com/products/whistler-british-columbia-travel-poster-1): Shop the Whistler, British Columbia Design No. 1 Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-29T22:45:03Z
+  Updated: 2026-11-06T17:08:09Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-whistler-british-columbia-design-no-1-12-18-in-8658694.webp?v=1788269348
   Price: $36.02 CAD
 - [Whistler BC Travel Poster No. 2 | Graham Watts](https://www.grahamwattsart.com/products/whistler-british-columbia-travel-poster-2): Shop the Whistler, British Columbia Design No. 2 Whistler travel poster by Canadian artist Graham Watts. Unframed 12 × 18 in matte art print, made to order.
-  Updated: 2026-09-26T19:43:22Z
+  Updated: 2026-11-06T17:08:10Z
   Vendor: Graham Watts Art | Canadian Wildlife & Landscape Paintings
   Product Type: Print Material
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/poster-only-whistler-british-columbia-design-no-2-12-18-in-8978385.webp?v=1788269346
   Price: $36.02 CAD
 - [Spanky's Ladder Whistler Wall Art | Framed Ski Poster](https://www.grahamwattsart.com/products/whistler-british-columbia-framed-poster-2): Shop Spanky's Ladder Whistler wall art by Graham Watts. Premium framed ski poster celebrating expert terrain on Blackcomb Mountain, Whistler BC.
-  Updated: 2026-10-05T03:34:24Z
+  Updated: 2026-11-06T17:08:10Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-whistler-british-columbia-design-no-2-5481506.webp?v=1788269348
   Price: $89.99 CAD
 - [Fissile Peak Whistler Wall Art | Framed Ski Poster](https://www.grahamwattsart.com/products/fissile-peak-whistler-framed-poster): Shop Fissile Peak Whistler wall art by Graham Watts. Premium framed mountain and ski poster inspired by Whistler BC and the Coast Mountains.
-  Updated: 2026-10-05T03:34:22Z
+  Updated: 2026-11-06T17:08:10Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/framed-poster-fissile-peak-whistler-bc-8262312.webp?v=1788269346
   Price: $89.99 CAD
 - [Whistler Blackcomb Art Poster | Framed Ski Wall Art](https://www.grahamwattsart.com/products/whistler-blackcomb-framed-poster-design-2): Shop Whistler Blackcomb art by Graham Watts. Premium framed ski poster and Whistler wall art inspired by the mountains of British Columbia.
-  Updated: 2026-10-05T03:34:34Z
+  Updated: 2026-11-06T17:08:10Z
   Vendor: Graham Watts Art
   Product Type: Travel Poster
   Availability: Available
@@ -491,43 +491,43 @@
 ## Collections
 
 - [Graham Watts Art Store | Original Canadian Wildlife & Landscape Paintings](https://www.grahamwattsart.com/collections/buy-art-by-canadian-artist-graham-watts): Graham Watts Art Store specializing in wildlife and local scenery of BC. His work has gained widespread appeal, with pieces sold across Canada, USA, and UK.
-  Updated: 2026-10-04T16:52:34Z
+  Updated: 2026-11-06T17:12:53Z
   Total Products: 9
 - [Limited Edition Canvas Prints](https://www.grahamwattsart.com/collections/fine-art-limited-editions): Shop limited edition canvas prints by Canadian artist Graham Watts, featuring wildlife art, Whistler mountains, Vancouver cityscapes, and BC landscapes.
-  Updated: 2026-10-03T21:59:27Z
+  Updated: 2026-11-06T17:12:53Z
   Total Products: 16
 - [Buy Fine Art Cards by Graham Watts](https://www.grahamwattsart.com/collections/buy-fine-art-cards): Buy Fine Art Cards by Canadian artist Graham Watts, featuring colourful wildlife, mountain, Vancouver, and Whistler artwork.
-  Updated: 2026-10-04T17:01:29Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 9
 - [Original Canadian Oil Paintings](https://www.grahamwattsart.com/collections/buy-original-art): Shop original Canadian oil paintings by Graham Watts, featuring wildlife, Whistler mountains, Vancouver scenes and bold West Coast landscapes.
-  Updated: 2026-10-03T21:56:27Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 13
 - [Custom Oil Painting Commissions by Graham Watts](https://www.grahamwattsart.com/collections/fine-art-commissions):  a custom oil painting from Vancouver artist Graham Watts. Wildlife, Whistler, Vancouver and landscape art created personally for your space.
-  Updated: 2026-10-04T17:00:19Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 9
 - [Canadian Wildlife Art](https://www.grahamwattsart.com/collections/canadian-wildlife-art): Shop Canadian wildlife paintings and prints by Graham Watts, including original grizzly bear, wolf and eagle art inspired by Western Canada.
-  Updated: 2026-10-04T16:58:44Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 45
 - [Whistler Mountain Art & Prints](https://www.grahamwattsart.com/collections/whistler-mountain-art-prints): Shop Whistler mountain art and prints by Graham Watts, including Black Tusk, Fissile Peak, ski art, and Sea-to-Sky landscape paintings.
-  Updated: 2026-10-04T16:53:18Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 46
 - [Vancouver Cityscape Paintings](https://www.grahamwattsart.com/collections/vancouver-cityscape-paintings): Shop Vancouver Cityscape Paintings by Canadian artist Graham Watts, including original oil paintings inspired by Vancouver skyline views and urban life.
-  Updated: 2026-10-04T16:44:10Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 22
 - [Sold Original Paintings](https://www.grahamwattsart.com/collections/sold-original-paintings): Explore sold original paintings of Canadian by Graham Watts, then discover available artwork or  a new wildlife, mountain or cityscape painting.
-  Updated: 2026-10-04T16:57:24Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 43
 - [Grizzly Bear Paintings & Prints](https://www.grahamwattsart.com/collections/grizzly-bear-paintings-prints): Shop grizzly bear paintings and signed limited-edition prints by Canadian wildlife artist Graham Watts. Original art in CAD with shipping available.
-  Updated: 2026-10-04T16:58:05Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 26
 - [Shop All Travel Posters](https://www.grahamwattsart.com/collections/whistler-travel-posters): Shop Whistler travel posters and framed prints featuring Black Tusk, Blackcomb and Fissile Peak, based on original artwork by Canadian artist Graham Watts.
-  Updated: 2026-10-04T16:49:43Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 16
 - [Unframed Posters](https://www.grahamwattsart.com/collections/unframed-posters): Premium unframed travel posters inspired by Whistler, Blackcomb and British Columbia’s mountain landscapes. Printed on high-quality paper and ready for your choice of frame.
-  Updated: 2026-09-25T23:02:51Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 8
 - [Framed Posters — Regular $89.99 CAD | 20% Off $71.99 CAD](https://www.grahamwattsart.com/collections/framed-posters): Shop framed Whistler posters and wall art inspired by Whistler Blackcomb, Black Tusk, Fissile Peak and BC ski culture. Ready to hang.
-  Updated: 2026-10-04T16:50:55Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 8
 - [Originals](https://www.grahamwattsart.com/collections/originals): Shop original Canadian oil paintings by Graham Watts, featuring wildlife, Whistler mountains, Vancouver scenes and bold West Coast landscapes.
   Updated: 2026-10-03T21:56:27Z
@@ -554,7 +554,7 @@
   Updated: 2026-10-04T17:00:56Z
   Total Products: 9
 - [Collected Works](https://www.grahamwattsart.com/collections/collected-works): A selection of original oil paintings by Canadian artist Graham Watts that have been acquired by collectors. Each work is one-of-a-kind and is shown here as part of the artist’s collected archive.These paintings are no longer available, but many can serve as inspiration for a new original . If a particular subject, location, mood or composition speaks to you, explore current available originals or contact Graham about creating a one-of-a-kind painting.Previously collected. Never reproduced as another original.
-  Updated: 2026-10-03T21:53:37Z
+  Updated: 2026-11-06T17:12:54Z
   Total Products: 41
 
 ## Blogs
