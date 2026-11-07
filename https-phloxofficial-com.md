@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-06-15T19:43:28Z
 - Contact Email: info@phloxpharma.com
-- Updated At: 2026-10-31T00:21:43.557Z
+- Updated At: 2026-11-07T00:22:13.179Z
 
 ## Products
 
@@ -25,26 +25,15 @@
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/a-leaf-syrup-3104482.png?v=1790336168
   Price: Rs 184.00 PKR
 - [Biozee: Best Biotin & Zinc Tablets for Hair Growth in pakistan](https://phloxofficial.com/products/biozee): Stop hair fall & trigger rapid hair growth with Biozee Biotin + Zinc tablets. Max-strength keratin booster for thicker hair & glowing skin. Fast PK delivery!
-  Updated: 2026-10-30T14:16:13Z
+  Updated: 2026-11-06T18:57:15Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-tablets-best-biotin-and-zinc-tablets-in-pakistan-8831065.jpg?v=1792557305
-  - [Pack of 1](https://phloxofficial.com/products/biozee?variant=54938487783746)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-tablets-best-biotin-and-zinc-tablets-in-pakistan-6269642.png?v=1790757547
-    Price: Rs 1,200.00 PKR
-  - [Pack of 2](https://phloxofficial.com/products/biozee?variant=54938487816514)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-tablets-best-biotin-and-zinc-tablets-in-pakistan-9140287.png?v=1790757547
-    Price: Rs 2,040.00 PKR
-  - [Pack of 3](https://phloxofficial.com/products/biozee?variant=54938487849282)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-tablets-best-biotin-and-zinc-tablets-in-pakistan-7984415.png?v=1790757548
-    Price: Rs 2,700.00 PKR
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-tablets-best-biotin-and-zinc-tablets-in-pakistan-1864995.png?v=1790336228
+  Price: Rs 2,040.00 PKR
 - [Cartilox Sachet – Daily Joint & Cartilage Support Supplement](https://phloxofficial.com/products/cartilox-sachet): Cartilox Sachet is a joint support supplement with Glucosamine, Collagen II, MSM,
  and Vitamin D3 to support joint flexibility, cartilage health,h and bone.
-  Updated: 2026-10-23T03:13:07Z
+  Updated: 2026-11-04T10:47:03Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
@@ -62,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cartilox-sachet-3807916.png?v=1790336230
     Price: Rs 5,250.00 PKR
 - [Cartilox Joint Supplement Best Tablet for strong bones and joints](https://phloxofficial.com/products/cartilox-tablets): Regain painless mobility with Cartilox joint tablets. Powerful Glucosamine, Chondroitin & MSM formula repairs cartilage & relieves stiffness. Order in Pakistan!
-  Updated: 2026-10-30T18:59:09Z
+  Updated: 2026-11-06T22:49:47Z
   Vendor: Phlox
   Product Type: 
   Availability: Available
@@ -80,18 +69,18 @@
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cartilox-tablets-advanced-support-for-strong-bones-flexible-joints-7327232.png?v=1793386748
     Price: Rs 5,250.00 PKR
 - [CVD Plus Syrup -  Best for Strong and Healthy Bones](https://phloxofficial.com/products/cvd-plus): Discover the power of Phlox Pharma's CVD Plus Syrup, a nutritional supplement packed with Calcium, Vitamin D3, Magnesium, Zinc, and Vitamin K2 for strong and healthy bones.
-  Updated: 2026-10-18T07:30:26Z
+  Updated: 2026-11-05T19:53:04Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cvd-plus-syrup-2294865.png?v=1790336168
   Price: Rs 200.00 PKR
 - [CVD Plus: Best Calcium & Vitamin D3 Tablets in Pakistan](https://phloxofficial.com/products/cvd-plus-tablets): Strengthen bones & joints with CVD Plus. High-absorption Calcium 800mg, Vitamin D3 200 IU, Magnesium & Zinc. Order original Phlox supplements with COD in Pakistan!
-  Updated: 2026-10-27T20:07:01Z
+  Updated: 2026-11-06T22:17:42Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cvd-plus-tablets-7373360.jpg?v=1792640165
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cvd-plus-tablets-calcium-vitamin-d3-price-in-pakistan-9096278.png?v=1793965927
   - [Pack of 1](https://phloxofficial.com/products/cvd-plus-tablets?variant=55961605439810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cvd-plus-tablets-7585242.png?v=1790336231
@@ -105,7 +94,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/cvd-plus-tablets-5286903.png?v=1790336231
     Price: Rs 2,000.00 PKR
 - [D-Phlox 200,000 IU Vitamin D3 Tablet | Phlox Official](https://phloxofficial.com/products/d-phlox): D-Phlox 200,000 IU is a high-strength Vitamin D3 (cholecalciferol) tablet by Phlox, to be used as directed by your doctor. Order online across Pakistan
-  Updated: 2026-10-29T12:55:57Z
+  Updated: 2026-11-05T19:54:15Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
@@ -140,8 +129,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/d-phlox-vitamin-d3-5000-iu-3348273.png?v=1790336232
     Price: Rs 2,430.00 PKR
-- [Deep Relief: Best Muscle & Back Pain Relief Cream in Pakistan](https://phloxofficial.com/products/deep-relief-cream): Fast-acting muscle pain cream for back pain, joint stiffness & arthritis. Deep Relief penetrating formula relieves pain in minutes. Buy online across Pakistan!
-  Updated: 2026-10-28T07:31:26Z
+- [Deep Relief Cream – Fast Muscle & Back Pain Relief in Pakistan](https://phloxofficial.com/products/deep-relief-cream): Fast-acting muscle pain cream for back pain, joint stiffness & arthritis. Deep Relief penetrating formula relieves pain in minutes. Buy online across Pakistan!
+  Updated: 2026-11-05T08:03:24Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
@@ -159,7 +148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/deep-relief-cream-5837988.png?v=1790336231
     Price: Rs 1,890.00 PKR
 - [Deep Relief Spray: Fast-Acting Muscle & Joint Pain Relief](https://phloxofficial.com/products/deep-relief-spray): Buy Deep Relief Spray for instant muscle pain relief. Our fast-acting, non-greasy herbal formula soothes joint aches & stiffness. Perfect for gym & daily use.
-  Updated: 2026-10-30T17:18:06Z
+  Updated: 2026-11-05T14:23:31Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
@@ -177,11 +166,11 @@
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/deep-relief-spray-advanced-muscle-joint-solution-7468475.png?v=1790336230
     Price: Rs 1,485.00 PKR
 - [Ferteon-M: Best Male Vitality & Fertility Tablets in Pakistan](https://phloxofficial.com/products/ferteon-m): Boost physical stamina, endurance & male fertility naturally with Ferteon-M. Tribulus, Ginkgo Biloba & Zinc formula. 100% authentic with discreet shipping in PK!
-  Updated: 2026-10-27T20:55:26Z
+  Updated: 2026-11-05T11:07:36Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/ferteon-m-best-male-vitality-tablets-in-pakistan-2178773.jpg?v=1792557305
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/ferteon-m-best-male-vitality-tablets-in-pakistan-7252998.png?v=1790336168
   Price: Rs 1,850.00 PKR
 - [Gasgo Syrup | Sugar-Free Relief from Acidity & Indigestion](https://phloxofficial.com/products/gas-go): Phlox Pharma’s Gasgo Syrup offers quick, sugar-free relief from heartburn, indigestion, and bloating. Trusted, DRAP- digestive comfort.
   Updated: 2026-10-18T07:30:31Z
@@ -191,14 +180,14 @@
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/gasgo-syrup-7605930.png?v=1790336232
   Price: Rs 144.00 PKR
 - [Grow Sure - Best High Protein Milk Powder in Pakistan](https://phloxofficial.com/products/grow-sure): Looking for the best energy milk supplement? Grow Sure is a premium high-protein powder in Pakistan for weak bones, growth, and daily nutritional support.
-  Updated: 2026-10-18T07:30:31Z
+  Updated: 2026-11-05T19:48:01Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/grow-sure-milk-2893237.png?v=1790336167
   Price: Rs 690.00 PKR
 - [Grow Sure: Sugar-Free Milk Powder for Diabetic Patients Pakistan](https://phloxofficial.com/products/grow-sure-sugar-free): Looking for the best sugar-free milk powder in Pakistan? Grow Sure delivers complete diabetic-friendly nutrition, high protein & vital vitamins. Buy now!
-  Updated: 2026-10-27T20:37:30Z
+  Updated: 2026-11-05T19:48:38Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
@@ -212,11 +201,11 @@
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/iropoly-f-syrup-6055537.png?v=1790336168
   Price: Rs 152.00 PKR
 - [IroPoly‑F Tablets | Anemia & Blood Support for All Ages](https://phloxofficial.com/products/iropoly-f-tablets): IroPoly‑F Tablets boost blood health, fight fatigue, and support energy. Contains iron, folic acid, B12 & C. Safe & DRAP- in Pakistan.
-  Updated: 2026-10-25T09:54:06Z
+  Updated: 2026-11-06T23:22:45Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/iropoly-f-tablets-1313833.jpg?v=1792557305
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/iropoly-f-tablets-8883908.png?v=1793965927
   - [Pack of 1](https://phloxofficial.com/products/iropoly-f-tablets?variant=67599586951490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/iropoly-f-tablets-4108516.png?v=1790757547
@@ -237,12 +226,12 @@
   Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/lx-flo-8453395.png?v=1790336168
   Price: Rs 182.00 PKR
 - [Safe Wash – Best Feminine Hygiene Wash in Pakistan](https://phloxofficial.com/products/safe-wash): Safe Wash is a gentle, feminine wash. Among the top vaginal wash products in Pakistan, it keeps you fresh, balanced & confident daily.
-  Updated: 2026-10-22T03:43:02Z
+  Updated: 2026-11-06T19:05:26Z
   Vendor: Phlox Pharma
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/safe-wash-1238931.jpg?v=1792640166
-  Price: Rs 468.00 PKR
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/safe-wash-8174124.png?v=1793965926
+  Price: Rs 415.00 PKR
 - [Vitared Plus | Daily Multivitamin for Full-Body Health](https://phloxofficial.com/products/vitared-plus): Vitared Plus by Phlox Pharma offers a complete multivitamin formula to boost your wellness. Great for immunity, energy, and nutritional balance.
   Updated: 2026-10-18T07:30:31Z
   Vendor: Phlox Pharma
@@ -268,42 +257,56 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/vitared-plus-tablets-4664815.png?v=1790757547
     Price: Rs 1,835.00 PKR
+- [Buy 1 Get 1 Free: Biozee Daily Multivitamin & Immunity Booster | Phlox](https://phloxofficial.com/products/buy-1-get-1-free): Double the vitality, zero extra cost. Grab the Biozee Buy 1 Get 1 Free bundle for complete daily nutrition, natural energy, and immune defense. Limited stock
+  Updated: 2026-11-06T18:57:26Z
+  Vendor: Phlox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/biozee-buy-1-get-1-free-8835096.jpg?v=1793965926
+  Price: Rs 1,200.00 PKR
+- [Ferteon-M Buy 1 Get 1 Free | Men's Wellness | Phlox](https://phloxofficial.com/products/ferteon-m-buy-1-get-1-free): Get 2 Ferteon-M packs for the price of 1. Support men's vitality, stamina and reproductive wellness. Shop the Buy 1 Get 1 Free bundle at Phlox Pakistan.
+  Updated: 2026-11-05T22:55:08Z
+  Vendor: Phlox
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/8131/9490/files/ferteon-m-buy-1-get-1-free-2182253.png?v=1793883067
+  Price: Rs 1,850.00 PKR
 
 ## Collections
 
 - [Women's Health](https://phloxofficial.com/collections/womens-health): Shop DRAP- women’s health supplements online. Explore Phlox Pharma's range of prenatal vitamins, iron for anemia, biotin, and pH-balanced intimate washes.
-  Updated: 2026-10-28T11:07:41Z
+  Updated: 2026-11-06T12:09:58Z
   Total Products: 7
 - [Men’s Health](https://phloxofficial.com/collections/mens-health): Explore supplements for men’s vitality, immune support, and digestive ease formulated with quality ingredients and DRAP approval.
-  Updated: 2026-10-27T08:55:20Z
+  Updated: 2026-11-04T12:08:04Z
   Total Products: 3
 - [Digestive Health](https://phloxofficial.com/collections/digestive-health): Shop the best digestive health supplements and acidity relief syrups in Pakistan. Get natural relief from bloating, gas, and gastric issues. Fast delivery at Phlox!
   Updated: 2026-09-30T13:07:08Z
   Total Products: 6
 - [Bone & Joint Health Supplements](https://phloxofficial.com/collections/bone-joint-health): Shop the best bone and joint health supplements in Pakistan. Our premium range includes Cartilox and CVD Plus for joint pain relief and bone strength.
-  Updated: 2026-10-30T11:08:41Z
+  Updated: 2026-11-06T12:09:58Z
   Total Products: 6
 - [Best Immune Support Supplements & Syrups in Pakistan](https://phloxofficial.com/collections/immune-support): Shop the best immune support supplements & immunity booster syrups in Pakistan. Natural, organic, and effective formulas for kids & adults. Order online at Phlox!
-  Updated: 2026-10-27T08:37:24Z
+  Updated: 2026-11-05T07:48:31Z
   Total Products: 8
 - [Pain Management Products](https://phloxofficial.com/collections/pain-management): Discover Phlox Pharma’s herbal pain relief line, including Deep Relief cream & spray for soothing comfort after activity. Safe, gentle, and DRAP-.
-  Updated: 2026-10-28T11:07:41Z
+  Updated: 2026-11-06T12:09:58Z
   Total Products: 2
 - [Featured Products](https://phloxofficial.com/collections/featured-products): Discover our most trusted supplements for immunity, bones, digestion, and daily wellness. DRAP- quality for a healthier lifestyle every day.
-  Updated: 2026-10-23T11:12:34Z
+  Updated: 2026-11-05T07:51:54Z
   Total Products: 6
 - [Best  Health & Wellness Supplements in Pakistan](https://phloxofficial.com/collections/latest-products): Discover the most trusted health and wellness supplements in Pakistan. From joint care to men’s vitality, shop our top-rated, best- products at Phlox
-  Updated: 2026-10-30T11:08:41Z
+  Updated: 2026-11-06T12:09:58Z
   Total Products: 7
 - [Shop All Nutraceutical Products](https://phloxofficial.com/collections/all-products): Discover top-quality nutraceutical supplements Pakistan with Phlox.  products supporting energy, joints, heart, and immune health for your wellness.
-  Updated: 2026-10-30T11:08:41Z
-  Total Products: 27
+  Updated: 2026-11-06T12:09:58Z
+  Total Products: 29
 - [  Offers](https://phloxofficial.com/collections/-offers): Shop authentic health supplements, joint care formulas, and vitamins on .  genuine products from Phlox with  quality assurance.
-  Updated: 2026-10-28T11:07:41Z
+  Updated: 2026-11-06T12:09:58Z
   Total Products: 5
 - [[Shipping] General profile](https://phloxofficial.com/collections/shipping-105341157698)
-  Updated: 2026-10-30T11:08:41Z
-  Total Products: 21
+  Updated: 2026-11-06T12:09:58Z
+  Total Products: 23
 - [[Shipping] Shipping](https://phloxofficial.com/collections/shipping-106866671938)
   Updated: 2026-10-23T16:06:29Z
   Total Products: 1
@@ -640,9 +643,13 @@
     Author: Phlox Pharma
     Tags: #Cartilox, best vitamin D for bone and joint health, Bone Health, calcium and vitamin D, calcium deficiency in Pakistan, calcium supplement Pakistan, CVD Plus, D-Phlox Vitamin D3, Phlox Official, vitamins and supplements
   - [Best Acidity Syrup in Pakistan | Fast Relief for Gas & Heartburn](https://phloxofficial.com/blogs/news/best-acidity-syrup-in-pakistan-gas-relief): Best Acidity Syrup in Pakistan | Fast Relief for Gas & Heartburn
-    Updated: 2026-10-23T02:35:14Z
+    Updated: 2026-11-02T15:46:15Z
     Author: Phlox Pharma
     Tags: best stomach syrup in pakistan, best syrup for stomach, gas syrup in pakistan, Stomach Syrup, syrup for gas and acidity
+  - [Best Joint Supplements in Pakistan for Joint Pain & Stiffness](https://phloxofficial.com/blogs/news/best-joint-supplements-in-pakistan): Best Joint Supplements in Pakistan for Joint Pain & Stiffness
+    Updated: 2026-11-02T15:46:23Z
+    Author: Phlox Pharma
+    Tags: Best Tablets for Bones, Best Tablets for Bones and Joints, best vitamin D for bone and joint health, Cartilox tablets, Glucosamine Pakistan, Joint supplements in Pakistan, Knee pain supplements Pakistan, Tablet for strong bones and joints
 
 ## Store Pages
 
