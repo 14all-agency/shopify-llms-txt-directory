@@ -6,7 +6,7 @@
 - Timezone: Europe/Oslo
 - Created At: 2025-05-29T11:01:59Z
 - Contact Email: gloriousnorway@gmail.com
-- Updated At: 2026-10-30T00:54:08.194Z
+- Updated At: 2026-11-07T02:32:16.990Z
 
 ## Products
 
@@ -686,7 +686,7 @@ mermaid wedding dress
 ## Policies
 
 - [Privacy Policy](https://bridedresses4you.com/policies/privacy-policy)
-  Updated: 2025-05-29T11:02:08Z
+  Updated: 2026-10-30T17:24:19Z
 - [Refund Policy](https://bridedresses4you.com/policies/refund-policy)
   Updated: 2025-06-14T13:16:43Z
 - [Terms of Service](https://bridedresses4you.com/policies/terms-of-service)
