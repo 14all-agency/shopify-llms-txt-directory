@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2016-12-08T21:12:41Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:15:14.210Z
+- Updated At: 2026-11-07T01:11:22.528Z
 
 ## Products
 
@@ -115,8 +115,29 @@
   - [XXL](https://kipmoore.merchmadeeasy.com/products/world-tour-bull-tee?variant=42260001521829)
     Availability: Available
     Price: $20.00 USD
+- [World Tour Skull Hoodie](https://kipmoore.merchmadeeasy.com/products/bull-hoodie): Kip Moore World Tour Skull hoodie in black with front print only. 100% Cotton / Front pocket + drawstrings.
+  Updated: 2026-11-06T05:21:40Z
+  Vendor: Kip Moore
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KIPhoodie.png?v=1696280998
+  - [S](https://kipmoore.merchmadeeasy.com/products/bull-hoodie?variant=42548857962661)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [M](https://kipmoore.merchmadeeasy.com/products/bull-hoodie?variant=42548857995429)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [L](https://kipmoore.merchmadeeasy.com/products/bull-hoodie?variant=42548858028197)
+    Availability: Available
+    Price: $30.00 USD
+  - [XL](https://kipmoore.merchmadeeasy.com/products/bull-hoodie?variant=42548858060965)
+    Availability: Not Available
+    Price: $30.00 USD
+  - [XXL](https://kipmoore.merchmadeeasy.com/products/bull-hoodie?variant=42548858093733)
+    Availability: Available
+    Price: $30.00 USD
 - [Damn Love Crop Top](https://kipmoore.merchmadeeasy.com/products/damn-love-crop-top): Kip Moore DAMN LOVE crop top, now online! 100% Cotton
-  Updated: 2026-10-05T13:01:16Z
+  Updated: 2026-11-05T15:49:06Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -133,6 +154,27 @@
   - [XL](https://kipmoore.merchmadeeasy.com/products/damn-love-crop-top?variant=42550552101029)
     Availability: Available
     Price: $15.00 USD
+- [Banner Bull Tee](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee): 100% Cotton
+  Updated: 2026-11-06T05:20:30Z
+  Vendor: Kip Moore
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/BANNERBULLTEEBOTH.png?v=1700511457
+  - [S](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee?variant=42700029296805)
+    Availability: Available
+    Price: $10.00 USD
+  - [M](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee?variant=42700029329573)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [L](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee?variant=42700029362341)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XL](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee?variant=42700029395109)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [XXL](https://kipmoore.merchmadeeasy.com/products/banner-bull-tee?variant=42700029427877)
+    Availability: Not Available
+    Price: $10.00 USD
 - [Nomad World Tour Tee](https://kipmoore.merchmadeeasy.com/products/nomad-world-tour-tee): Nomad World Tour Tee in grey with front print only. 100% Cotton
   Updated: 2026-10-05T13:01:17Z
   Vendor: Kip Moore
@@ -175,6 +217,27 @@
   - [XXL](https://kipmoore.merchmadeeasy.com/products/flip-the-bull-crewneck?variant=43509709111461)
     Availability: Available
     Price: $60.00 USD
+- [Camo Skull World Tour Tee](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee): Camo Skull World Tour Tee with front and back print. 50% Cotton, 50% Polyester
+  Updated: 2026-11-06T05:21:39Z
+  Vendor: Kip Moore
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KM-SKULL-CAMO-BANDANA-TOUR-TEE-2024-BLACK.png?v=1713379655
+  - [S](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee?variant=43509746139301)
+    Availability: Available
+    Price: $10.00 USD
+  - [M](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee?variant=43509746172069)
+    Availability: Not Available
+    Price: $10.00 USD
+  - [L](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee?variant=43509746204837)
+    Availability: Available
+    Price: $10.00 USD
+  - [XL](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee?variant=43509746237605)
+    Availability: Available
+    Price: $10.00 USD
+  - [XXL](https://kipmoore.merchmadeeasy.com/products/camo-skull-world-tour-tee?variant=43509746270373)
+    Availability: Available
+    Price: $10.00 USD
 - [F*ck That Tee](https://kipmoore.merchmadeeasy.com/products/f-ck-that-tee): NEW F*ck That Tee in cream. Front and back print. 100% Cotton
   Updated: 2026-10-09T02:12:12Z
   Vendor: Kip Moore
@@ -245,6 +308,27 @@
   - [XXL](https://kipmoore.merchmadeeasy.com/products/american-heartbreak-tee?variant=45974163161253)
     Availability: Available
     Price: $40.00 USD
+- [Solitary Tracks Crewneck](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck): Solitary Tracks Crewneck in "ash" with front and back print. 50% Cotton, 50% Polyester
+  Updated: 2026-11-06T05:27:25Z
+  Vendor: Kip Moore
+  Product Type: Apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KIPCREW-2.png?v=1760473512
+  - [S](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck?variant=45974189998245)
+    Availability: Available
+    Price: $65.00 USD
+  - [M](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck?variant=45974190031013)
+    Availability: Available
+    Price: $65.00 USD
+  - [L](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck?variant=45974190063781)
+    Availability: Available
+    Price: $65.00 USD
+  - [XL](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck?variant=45974190096549)
+    Availability: Available
+    Price: $65.00 USD
+  - [XXL](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-crewneck?variant=45974190129317)
+    Availability: Available
+    Price: $65.00 USD
 - [Solitary Tracks CD [SIGNED]](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-cd-signed): SIGNED Solitary Tracks CD!
   Updated: 2026-10-28T23:11:37Z
   Vendor: Kip Moore
@@ -253,7 +337,7 @@
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMSIGNEDCD.png?v=1769015086
   Price: $30.00 USD
 - [Reason to Believe Tour Tee](https://kipmoore.merchmadeeasy.com/products/reason-to-believe-tour-tee): Reason to Believe Tour Tee in "faded mustard" with front and back print. 100% Cotton
-  Updated: 2026-10-14T20:37:08Z
+  Updated: 2026-11-02T15:14:46Z
   Vendor: Kip Moore
   Product Type: Apparel
   Availability: Available
@@ -315,27 +399,6 @@
   - [XXL](https://kipmoore.merchmadeeasy.com/products/solitary-tracks-photo-tee?variant=47828939669669)
     Availability: Not Available
     Price: $35.00 USD
-- [Ain't No Killer Tee](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee): Ain't No Killer Tee in black with front print only. 100% Cotton
-  Updated: 2026-10-26T17:19:47Z
-  Vendor: Kip Moore
-  Product Type: Apparel
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMAIN_TNOKILLERTEE.png?v=1780520999
-  - [S](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438391461)
-    Availability: Available
-    Price: $35.00 USD
-  - [M](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438424229)
-    Availability: Available
-    Price: $35.00 USD
-  - [L](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438456997)
-    Availability: Available
-    Price: $35.00 USD
-  - [XL](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438489765)
-    Availability: Available
-    Price: $35.00 USD
-  - [XXL](https://kipmoore.merchmadeeasy.com/products/aint-no-killer-tee?variant=47883438522533)
-    Availability: Available
-    Price: $35.00 USD
 - [Heartbreaker Baby Tee](https://kipmoore.merchmadeeasy.com/products/heartbreaker-baby-tee): Heartbreaker Baby Tee in black and white with front and back print. 100% Cotton
   Updated: 2026-10-25T17:37:16Z
   Vendor: Kip Moore
@@ -365,7 +428,7 @@
   Image: https://cdn.shopify.com/s/files/1/1647/5489/files/KMHEARTBREAKERHAT.png?v=1780521420
   Price: $40.00 USD
 - [Bull Koozie](https://kipmoore.merchmadeeasy.com/products/bull-koozie): Green Bull Double Sided Koozie
-  Updated: 2026-10-26T17:19:46Z
+  Updated: 2026-11-03T18:31:06Z
   Vendor: Kip Moore
   Product Type: Accessories
   Availability: Available
@@ -417,58 +480,58 @@
 ## Collections
 
 - [Home page](https://kipmoore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 94
 - [Apparel](https://kipmoore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-27T11:01:25Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 98
 - [Music](https://kipmoore.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-10-30T11:01:18Z
   Total Products: 21
 - [All Products](https://kipmoore.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 194
 - [Last Chance](https://kipmoore.merchmadeeasy.com/collections/)
-  Updated: 2026-10-26T18:07:59Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 72
 - [Accessories](https://kipmoore.merchmadeeasy.com/collections/hats)
   Updated: 2026-10-27T11:01:25Z
   Total Products: 43
 - [Featured Collection](https://kipmoore.merchmadeeasy.com/collections/damn-love)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-03T16:25:43Z
   Total Products: 28
 - [2024 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2024-tour-collection)
-  Updated: 2026-10-26T18:07:59Z
+  Updated: 2026-11-03T16:25:45Z
   Total Products: 13
 - [F*ck That Collection](https://kipmoore.merchmadeeasy.com/collections/f-ck-that-collection)
   Updated: 2026-10-09T11:01:17Z
   Total Products: 2
 - [Outerwear](https://kipmoore.merchmadeeasy.com/collections/outerwear)
-  Updated: 2026-10-26T18:04:11Z
+  Updated: 2026-11-03T16:25:46Z
   Total Products: 9
 - [2025 World Tour Collection](https://kipmoore.merchmadeeasy.com/collections/2025-world-tour-collection)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-03T16:25:46Z
   Total Products: 15
 - [Black Friday ](https://kipmoore.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-10-26T18:07:59Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 28
 - [$20.25 Tour Tees](https://kipmoore.merchmadeeasy.com/collections/20-25-tour-tees)
-  Updated: 2026-10-26T18:07:59Z
+  Updated: 2026-11-03T16:25:45Z
   Total Products: 6
 - [Signed Solitary Tracks Collection](https://kipmoore.merchmadeeasy.com/collections/signed-solitary-tracks-collection)
   Updated: 2026-10-29T11:00:58Z
   Total Products: 4
 - [UPSELL](https://kipmoore.merchmadeeasy.com/collections/upsell)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-10-30T11:01:18Z
   Total Products: 11
 - [Best–](https://kipmoore.merchmadeeasy.com/collections/all-products-copy)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-06T12:01:20Z
   Total Products: 194
 - [Reason To Believe](https://kipmoore.merchmadeeasy.com/collections/reason-to-believe)
-  Updated: 2026-10-29T11:00:58Z
+  Updated: 2026-11-03T16:22:01Z
   Total Products: 13
 - [BEST SELLERS](https://kipmoore.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-27T11:01:25Z
+  Updated: 2026-11-03T16:22:01Z
   Total Products: 13
 
 ## Store Pages
