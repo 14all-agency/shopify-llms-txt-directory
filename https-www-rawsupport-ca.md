@@ -6,166 +6,166 @@
 - Timezone: America/New_York
 - Created At: 2024-12-04T18:17:58Z
 - Contact Email: info@rawsupport.ca
-- Updated At: 2026-10-30T01:07:35.659Z
+- Updated At: 2026-11-07T00:56:36.366Z
 
 ## Products
 
 - [Raw Support Complete Skin & Coat | Promotes Skin & Coat Health](https://www.rawsupport.ca/products/skincoathealth-skin-and-coat): Support your pet’s skin and coat with essential nutrients that promote hydration and overall skin wellness for a healthy, comfortable coat.
-  Updated: 2026-10-29T18:45:46Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_c3c57da9-9096-4e62-abdd-1c999edd66d7.jpg?v=1764009789
   Price: $37.95 CAD
 - [Dog Allergy Supplement | Itchy Skin & Seasonal Allergy Support](https://www.rawsupport.ca/products/petallergysupport-allergies): Natural dog allergy supplement for itchy dogs. Supports seasonal allergies, environmental allergies, immune health, skin health, and overall wellness.
-  Updated: 2026-10-22T01:53:16Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplements
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_ebc2310d-5497-45a6-a7c5-050aaeb0152d.jpg?v=1764010300
   Price: $37.95 CAD
 - [Healthy Cranberry & L-Lysine for Dogs & Cats | Urinary & Immune Support | 128g](https://www.rawsupport.ca/products/pethealthboost-immune): Healthy Cranberry & L-Lysine for dogs and cats supports urinary tract health, bladder wellness and immune system function with cranberry and L-Lysine.
-  Updated: 2026-10-27T11:11:36Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_f61b9dfd-78b7-4b66-9c16-7ac601638d67.jpg?v=1764009746
   Price: $37.95 CAD
 - [Dog Probiotics Canada | Gut Health & Digestive Enzymes for Dogs](https://www.rawsupport.ca/products/petdigestivecare-digestion): Dog probiotics in Canada with probiotics, prebiotics & digestive enzymes. Supports gut health, digestion, stool quality and sensitive stomachs
-  Updated: 2026-10-29T19:13:27Z
+  Updated: 2026-10-31T13:00:32Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_ea76c464-cc9b-4d3a-ac60-b101308dd714.jpg?v=1764009704
   Price: $37.45 CAD
 - [Mobility | Supports Digestion, Metabolism, and Inflammation](https://www.rawsupport.ca/products/petmobilitysupport-supplement-mobility): Raw Support Mobility helps support digestion, joint health, and hygiene with natural ingredients like Yucca Root, Anise, and Peppermint.
-  Updated: 2026-10-29T18:45:46Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_331bb8c6-ba8b-4f01-8bbc-866ae93a4a54.jpg?v=1764009617
   Price: $37.95 CAD
 - [Raw Support Energy PLUS | Supports Energy Levels and Vitality](https://www.rawsupport.ca/products/petstrengthcare-pet-supplement-vitality): Support your pet’s vitality with essential nutrients. Raw Support Energy may help maintain energy, healthy weight, and immune balance.
-  Updated: 2026-10-29T18:45:42Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_8347dca6-9758-44eb-ba9a-d8008a2872aa.jpg?v=1764009552
   Price: $37.95 CAD
 - [Cleanse | Supports Intestinal Health | 30 capsules](https://www.rawsupport.ca/products/intestinalhealthpets-cleanse): Raw Support Cleanse supports pet digestive health with high-quality ingredients designed to help maintain gut balance and overall well-being.
-  Updated: 2026-10-29T20:43:06Z
+  Updated: 2026-11-06T16:27:47Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_8576cddc-d2c1-42fa-a7be-5ef3cad6ce7e.jpg?v=1764009508
   Price: $34.95 CAD
 - [Raw Support Joint | Supports Healthy Joints and Cartilage | 250ml](https://www.rawsupport.ca/products/petjointcare-joint): Support your pet’s joint health with Raw Support Joint. Formulated with Glucosamine HCl to help maintain cartilage, flexibility, and mobility.
-  Updated: 2026-10-29T18:45:42Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_59169008-5bb3-4ff3-977d-96c59451c9b3.jpg?v=1764009467
   Price: $35.95 CAD
 - [Balance | Supports Skin and Coat Wellness | 250ml](https://www.rawsupport.ca/products/petskincare-balance): Raw Support Balance provides essential nutrients to help manage hairballs, reduce shedding, promote healthy hair growth, and enhance coat pigmentation.
-  Updated: 2026-10-29T18:45:47Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub_a1e764ed-49ac-4496-bc3a-071c2cdb8403.jpg?v=1764009435
   Price: $35.45 CAD
 - [Raw Support Calm | Supports Calm Behaviour  | 50ml](https://www.rawsupport.ca/products/petstressrelief-pet-supplement-calm): Raw Support Calm helps pets stay relaxed during travel, vet visits, and routine changes. Made with quality ingredients to support comfort without drowsiness.
-  Updated: 2026-10-27T11:11:31Z
+  Updated: 2026-10-31T17:06:57Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Calm-Front_749dbe36-6977-4db2-81ee-337cfddce0f9.png?v=1752068847
   Price: $28.95 CAD
 - [TCW | Supports Intestinal Health | 30 Capsules](https://www.rawsupport.ca/products/tcw-supports-intestinal-health): Raw Support TCW supports intestinal health and promotes total canine wellness. Ideal for daily use as part of your dog’s regular health routine.
-  Updated: 2026-10-29T18:45:46Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Front_English_tub.jpg?v=1764009396
   Price: $34.95 CAD
 - [Beef Cakes | Beef Tripe Treats |  125g](https://www.rawsupport.ca/products/beef-cakes-natural-beef-tripe-treats): Bold, protein-packed dog treats made from 100% green beef tripe. Supports gut health, muscle gains & zoomies. Real nutrition, real results.
-  Updated: 2026-10-20T00:10:46Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Beef.jpg?v=1749135376
   Price: $14.95 CAD
 - [Chew Nami | Atlantic Salmon Skin | 90g](https://www.rawsupport.ca/products/chew-nami-atlantic-salmon-skin): Chew Nami is a crunchy, flavour-packed salmon skin jerky for dogs, rich in omega-3s and protein to support healthy skin, coats, and vitality.
-  Updated: 2026-10-25T14:40:06Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Chew.jpg?v=1749135257
   Price: $14.95 CAD
 - [Holy Cow | Beef Liver Treats | 175g](https://www.rawsupport.ca/products/holy-cow-beef-liver-treats): Holy Cow is a single-ingredient beef liver dog treat that's clean, rich in protein, and irresistibly soft—perfect for training or everyday rewards.
-  Updated: 2026-10-18T18:36:52Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Holy.jpg?v=1749135085
   Price: $14.95 CAD
 - [Lil' Peckers | Freeze Dried Chicken | 130g](https://www.rawsupport.ca/products/lil-peckers-freeze-dried-chicken): Lil’ Peckers: 100% chicken breast dog treats—lean, clean, flavorful, and perfect for training, small jaws, or daily high-protein rewards.
-  Updated: 2026-10-18T18:36:52Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Your_paragraph_text.jpg?v=1751307761
   Price: $14.95 CAD
 - [Lucky Licks | Rabbit Feet | 150g](https://www.rawsupport.ca/products/lucky-licks-rabbit-feet): 100% dehydrated rabbit foot. High-protein, low-fat, and crunchy—Lucky Licks is a primal treat that fuels clean chewing, instinct, and lucky vibes.
-  Updated: 2026-10-18T18:36:51Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Lucky.jpg?v=1749134936
   Price: $14.95 CAD
 - [Quack Snack | Duck Wings | 150g](https://www.rawsupport.ca/products/quack-snack-duck-wings): Bold, crunchy duck wing treats for dogs who own the block. High in protein for muscle, joints, and shine. Quack Snack fuels greatness.
-  Updated: 2026-10-18T18:36:51Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Treat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Quack.jpg?v=1749134790
   Price: $14.95 CAD
 - [Complete Skin & Coat PLUS | Promotes Skin & Coat Health | 175g | USA](https://www.rawsupport.ca/products/complete-usa): Raw Support Complete Skin & Coat This specially formulated supplement provides essential nutrients that support healthy skin and a shiny coat. By promoting overall skin wellness, this supplement helps maintain a strong skin barrier for pets experiencing excessive shedding, hot spots, ear discomfort, paw licking, and scratching. Designed to nourish from the inside out, it supports hydration and coat vitality, helping pets feel more comfortable. Whether for dogs or cats, this easy-to-use supplement is a simple way to care for their skin health naturally.
-  Updated: 2026-10-18T18:36:55Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Complete_8a843742-67bf-4de9-baca-b87ba9a1791a.jpg?v=1763047588
   Price: $37.95 CAD
 - [Joint | Supports Healthy Joints and Cartilage | 250ml | USA](https://www.rawsupport.ca/products/joint-usa): Raw Support Joint – Advanced Joint Care for Pets Give your pet the support they need to stay active and comfortable. Raw Support Joint is a premium formula designed to help maintain healthy cartilage, flexibility, and mobility. Whether your pet is aging or always on the move, this blend provides essential nutrients to support joint function.
-  Updated: 2026-10-06T20:24:07Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Joint.jpg?v=1763047588
   Price: $35.95 CAD
 - [Digestion | Probiotics, Prebiotics & Digestive Enzymes | 105g | USA](https://www.rawsupport.ca/products/digestion-usa): Raw Support Digestion A premium blend designed to help maintain your pet’s digestive health and gut balance. This carefully formulated powder contains probiotics, which introduce beneficial bacteria to support a healthy microbiome, prebiotics, which nourish good gut bacteria, and digestive enzymes, which assist in food breakdown for optimal nutrient absorption. Raw Support Digestion may help maintain stool quality, promote fresh breath, and support normal gut function. It’s designed to help with occasional bloating, gas, and overall digestive well-being. Crafted for both dogs and cats, this easy-to-use supplement can be mixed into meals to support their daily gut health routine.
-  Updated: 2026-10-06T20:24:07Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Digestion_afa6f5c9-1d78-4940-9a38-64e8ce15cf95.jpg?v=1763047588
   Price: $37.45 CAD
 - [Balance | Supports Skin and Coat Wellness | 250ml | USA](https://www.rawsupport.ca/products/balance-usa): Raw Support Balance – Nutrient Support for a Healthy Coat & Shedding Control Raw Support Balance is formulated to help support your pet’s overall well-being with essential nutrients that may assist with hairball management, reducing excessive shedding, promoting healthy hair growth, and enhancing coat pigmentation. By addressing potential micronutrient deficiencies, this blend provides a holistic approach to maintaining a vibrant, well-nourished coat. Give your pet the support they need for a healthier, shinier appearance—because a happy pet starts with great nutrition!
-  Updated: 2026-10-06T20:24:08Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Balance.jpg?v=1763047716
   Price: $35.45 CAD
 - [Healthy Cranberry & Lysine | Supports Urinary Tract Health | 128g | USA](https://www.rawsupport.ca/products/healthy-usa): Raw Support Healthy – Advanced Pet Supplement for Wellness & Vitality Raw Support Healthy is a premium pet supplement designed to provide essential amino acids that support overall health in cats and dogs. These key nutrients play a vital role in maintaining tissue integrity, immune function, and metabolic balance. Pet owners commonly use this supplement to promote wellness in areas such as tear stains, sneezing, urinary health, respiratory function, panting, and digestion. Carefully formulated for proactive pet care, Raw Support Healthy is an easy addition to daily routines, helping pets stay active and thriving.
-  Updated: 2026-10-06T20:24:08Z
+  Updated: 2026-10-31T13:00:31Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplement
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Healthy_77448bc9-70b4-4908-8e90-92f767b6693d.jpg?v=1763047770
   Price: $37.95 CAD
 - [Omega 3-6-9 | Enhanced Skin and Coat Nutrition | Product of Canada](https://www.rawsupport.ca/products/omega-3-6-9-norish-skin-and-coat-health): Omega 3-6-9 for dogs & cats supporting healthy skin, shiny coats, and overall wellness with a balanced blend of essential fatty acids from premium oils.
-  Updated: 2026-10-29T18:45:46Z
+  Updated: 2026-11-04T22:12:20Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplements
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0731/1946/5729/files/Raw_Support_Omega369_500ml.jpg?v=1781875584
     Price: $44.95 CAD
 - [Salmon Oil Plus | Supports Brain, Heart & Joint Strength | Product of Canada](https://www.rawsupport.ca/products/salmon-oil-plus-supports-brain-heart-joint-strength): Raw Support Salmon Oil PLUS Raw Support Salmon Oil PLUS is a premium blend of wild‑caught fish oils crafted to complement your pet’s daily nutrition. The formula is purified through molecular distillation, helping maintain the natural integrity of beneficial fatty acids. Made with salmon oil and complementary fish oils, Salmon Oil PLUS provides essential Omega fatty acids that help support healthy skin and a soft, shiny coat. This balanced blend is designed to contribute to your pet’s overall vitality as part of their regular routine.
-  Updated: 2026-10-29T18:45:45Z
+  Updated: 2026-11-06T14:43:27Z
   Vendor: Raw Support Inc
   Product Type: Pet Supplements
   Availability: Available
@@ -196,22 +196,22 @@
 ## Collections
 
 - [Home page](https://www.rawsupport.ca/collections/frontpage)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 1
 - [Wormers](https://www.rawsupport.ca/collections/wormers)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 2
 - [Digestion](https://www.rawsupport.ca/collections/digestion)
-  Updated: 2026-10-27T11:20:06Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 1
 - [Skin & Coat](https://www.rawsupport.ca/collections/skin-coat)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 4
 - [Joint](https://www.rawsupport.ca/collections/joint)
-  Updated: 2026-10-26T11:21:03Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 2
 - [Allergy](https://www.rawsupport.ca/collections/allergy)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 2
 - [Immune Boost](https://www.rawsupport.ca/collections/immune-boost)
   Updated: 2026-10-28T11:20:54Z
@@ -223,19 +223,19 @@
   Updated: 2026-10-28T11:20:54Z
   Total Products: 1
 - [Recovery & Vitality](https://www.rawsupport.ca/collections/recovery-vitality)
-  Updated: 2026-09-29T11:21:43Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 1
 - [Best Sellers](https://www.rawsupport.ca/collections/best-sellers)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 7
 - [Liquid 1](https://www.rawsupport.ca/collections/liquid-1)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 5
 - [Capsule](https://www.rawsupport.ca/collections/capsule): Boost your pet’s health naturally! Raw Support Capsule strengthens immunity and aids detox—give them the care they deserve. Order now for daily wellness!
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 3
 - [Powder](https://www.rawsupport.ca/collections/powder)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 6
 - [Product FAQs](https://www.rawsupport.ca/collections/product-faqs)
   Updated: 2026-01-03T20:44:24Z
@@ -244,73 +244,73 @@
   Updated: 2026-01-03T20:44:24Z
   Total Products: 0
 - [Dewormer Cat](https://www.rawsupport.ca/collections/dewormer-cat): Eliminate parasites & boost your cat’s health with Raw Support Dewormer! Safe, natural, and easy to use. Shop now for free shipping & the best deals! 🐾🚀
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 1
 - [Digestion Cat](https://www.rawsupport.ca/collections/digestion-cat)
-  Updated: 2026-10-27T11:20:06Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 1
 - [Skin, Coat & Hairballs](https://www.rawsupport.ca/collections/skin-coat-hairballs)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 4
 - [UTI & URI](https://www.rawsupport.ca/collections/uti-uri)
   Updated: 2026-10-28T11:20:54Z
   Total Products: 1
 - [Low Energy](https://www.rawsupport.ca/collections/low-energy)
-  Updated: 2026-09-29T11:21:43Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 1
 - [Joint Cat](https://www.rawsupport.ca/collections/joint-cat)
-  Updated: 2026-10-26T11:21:03Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 2
 - [Allergy Cat](https://www.rawsupport.ca/collections/allergy-cat)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 2
 - [Calming Cat](https://www.rawsupport.ca/collections/calming-cat)
   Updated: 2026-10-28T11:20:54Z
   Total Products: 1
 - [Liquid Cat](https://www.rawsupport.ca/collections/liquid-cat)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 5
 - [Capsule Cat](https://www.rawsupport.ca/collections/capsule-cat): Boost your pet’s health with Raw Support Immunity & Cleanse Capsule! Order now for ✓ Free Shipping ✓ Best Offers. Shop online at Raw Support Inc. today!
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 2
 - [Powder Cat](https://www.rawsupport.ca/collections/powder-cat)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 6
 - [Capsule Nutrition](https://www.rawsupport.ca/collections/shop-capsules): Boost immunity & support detox with Raw Support Immunity & Cleanse Capsules. Natural, vet- formula for dogs & cats. Order now for free shipping!
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 3
 - [Liquid Nutrition](https://www.rawsupport.ca/collections/shop-liquid)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 5
 - [Powdered Nutrition](https://www.rawsupport.ca/collections/shop-powder)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 6
 - [BOGO50](https://www.rawsupport.ca/collections/bogo50): BOGO50
   Updated: 2026-01-03T20:44:25Z
   Total Products: 0
 - [Dog Treats](https://www.rawsupport.ca/collections/dog-treats)
-  Updated: 2026-10-26T11:21:03Z
+  Updated: 2026-10-31T11:20:50Z
   Total Products: 8
 - [Supplements](https://www.rawsupport.ca/collections/supplements)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 14
 - [Cat Supplements](https://www.rawsupport.ca/collections/cat-supplements)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-04T12:19:39Z
   Total Products: 11
 - [Best Seller (internal use)](https://www.rawsupport.ca/collections/best-seller-internal-use)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 27
 - [Bundle & Save](https://www.rawsupport.ca/collections/bundle-save)
   Updated: 2026-01-03T20:44:26Z
   Total Products: 0
 - [HomeSense](https://www.rawsupport.ca/collections/homesense)
-  Updated: 2026-10-28T11:20:54Z
+  Updated: 2026-10-30T11:20:02Z
   Total Products: 4
 - [USA Supplements](https://www.rawsupport.ca/collections/usa-supplements)
   Updated: 2026-05-09T17:01:50Z
   Total Products: 5
 - [Cognitive](https://www.rawsupport.ca/collections/cognitive)
-  Updated: 2026-10-26T11:21:03Z
+  Updated: 2026-11-05T12:20:59Z
   Total Products: 2
 
 ## Blogs
@@ -525,6 +525,38 @@
     Updated: 2026-10-29T03:01:02Z
     Author: Roger Hendricks
     Tags: boost your dog's calm, calm, dog, dog nutrition, natural healing, pet support, raw, understanding raw diets
+  - [Enhance Cat Digestion Naturally with Motility Support](https://www.rawsupport.ca/blogs/news/enhance-cat-digestion-naturally-with-motility-support): Enhance Cat Digestion Naturally with Motility Support
+    Updated: 2026-10-30T03:01:00Z
+    Author: Roger Hendricks
+    Tags: cat, digestion, digestive aid, health, improve cat digestion naturally, motility support, natural remedies, support cat digestive health
+  - [Energize Daily Life with Energy PLUS Supplement](https://www.rawsupport.ca/blogs/news/energize-daily-life-with-energy-plus-supplement): Energize Daily Life with Energy PLUS Supplement
+    Updated: 2026-10-31T03:01:02Z
+    Author: Roger Hendricks
+    Tags: boost energy, daily vitality, energy, energy enhancing supplements, energy supplement benefits, fitness, natural energy, supplement
+  - [Omega 3-6-9: Unlocking Your Pet's Skin and Coat Health](https://www.rawsupport.ca/blogs/news/omega-3-6-9-unlocking-your-pets-skin-and-coat-health): Omega 3-6-9: Unlocking Your Pet's Skin and Coat Health
+    Updated: 2026-11-01T03:01:08Z
+    Author: Roger Hendricks
+    Tags: coat health, essential fatty acids, health, omega, omega supplements for pets, pet nutrition guide, pets, skin care
+  - [Enhance Dog Skin Health with Omega 3-6-9 Benefits](https://www.rawsupport.ca/blogs/news/enhance-dog-skin-health-with-omega-3-6-9-benefits): Enhance Dog Skin Health with Omega 3-6-9 Benefits
+    Updated: 2026-11-02T03:00:53Z
+    Author: Roger Hendricks
+    Tags: best omega supplements for dogs, dog, essential fatty acids, health, improve dog skin health, omega, pet nutrition, skin benefits
+  - [Enhance Your Pet's Digestion with Cleanse Capsules](https://www.rawsupport.ca/blogs/news/enhance-your-pets-digestion-with-cleanse-capsules): Enhance Your Pet's Digestion with Cleanse Capsules
+    Updated: 2026-11-03T03:00:38Z
+    Author: Roger Hendricks
+    Tags: cleanse, digestion, digestive support, enhance pet digestion, gut health, natural digestion capsules, pet, pet care
+  - [Best Benefits of Salmon Oil Plus for Your Pet's Skin](https://www.rawsupport.ca/blogs/news/best-benefits-of-salmon-oil-plus-for-your-pets-skin): Best Benefits of Salmon Oil Plus for Your Pet's Skin
+    Updated: 2026-11-04T03:00:35Z
+    Author: Roger Hendricks
+    Tags: benefits of salmon oil, improve pet skin condition, oil, omega fatty acids, pet supplements, pets, salmon, skin health
+  - [Nourish Your Pet's Skin and Coat with Balance Oil](https://www.rawsupport.ca/blogs/news/nourish-your-pets-skin-and-coat-with-balance-oil): Nourish Your Pet's Skin and Coat with Balance Oil
+    Updated: 2026-11-05T03:01:08Z
+    Author: Roger Hendricks
+    Tags: balance oil, coat, healthy fur, improve pet skin health, nourish your pet's coat, pet, pet nutrition, skin
+  - [Boost Cat Energy Levels with Natural Solutions](https://www.rawsupport.ca/blogs/news/boost-cat-energy-levels-with-natural-solutions): Boost Cat Energy Levels with Natural Solutions
+    Updated: 2026-11-06T03:01:09Z
+    Author: Roger Hendricks
+    Tags: boost, cat, energy, feline wellness, improve cat energy levels, increase cat vitality, natural solutions, pet health
 
 ## Store Pages
 
@@ -542,7 +574,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.rawsupport.ca/policies/privacy-policy)
-  Updated: 2024-12-04T18:18:07Z
+  Updated: 2026-10-30T02:16:03Z
 - [Shipping Policy](https://www.rawsupport.ca/policies/shipping-policy)
   Updated: 2025-01-06T00:59:44Z
 - [Refund Policy](https://www.rawsupport.ca/policies/refund-policy)
