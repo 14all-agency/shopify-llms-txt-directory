@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2024-08-04T13:55:49Z
 - Contact Email: hello@magsskin.com
-- Updated At: 2026-10-31T00:42:00.503Z
+- Updated At: 2026-11-07T00:43:07.696Z
 
 ## Products
 
 - [MAGS Skin Deodorant For Sensitive Skin](https://magsskin.com/products/mags-skin-deodorant): A dermatologist- solution for sensitive underarms. No rubbing, no irritation, just clean confidence. MAGS Skin is made with magnesium, a naturally occurring mineral that helps neutralize odor-causing bacteria without disrupting your skin’s pH. Unlike traditional deodorants that rely on aluminum, baking soda, or fragrance, MAGS Skin keeps odor in check without triggering stinging, flare-ups, or discomfort. And because it’s a spray, there’s no need to rub or apply pressure to already sensitive skin making it ideal for anyone dealing with eczema, psoriasis, post-shave irritation, or dermatitis. It’s fast-drying, non-toxic, and safe enough to use every single day. In user trials with 307 participants: 96% said they stayed odor-free for 24 hours 92% experienced no irritation, stinging, or redness 89% would recommend MAGS Skin to friends
-  Updated: 2026-10-31T00:30:18Z
+  Updated: 2026-11-06T21:05:54Z
   Vendor: MAGS Skin
   Product Type: Deodorant
   Availability: Available
@@ -29,14 +29,14 @@
     Availability: Available
     Price: $83.97 USD
 - [BIA Eczema Relief Lotion](https://magsskin.com/products/bia-eczema-relief-lotion): As our largest organ, skin’s primary job is to serve as a physical barrier to the outside world. For skin to properly perform its protective function, it must be adequately hydrated. Healthy skin feels soft, smooth, and plump. When skin becomes dehydrated, both its appearance and protective function begin to deteriorate; it becomes dry, flaky, and itchy. When skin dries out (and it’s the last organ to re-hydrate), the skin barrier begins to degrade, leading to more rapid water loss. This degradation accelerates with daily exposure to environmental stressors (sun/pollution) and the degree of degradation accumulates with age. Hence, as one gets older, an increase in the frequency of applying water-containing skincare products is needed. While water-containing formulations do re-hydrate the skin, this effect is only temporary due to evaporation. To lock in this moisture, formulations must contain ingredients that attract water present externally in the air and internally within the lower layers of the skin. They must also form a moisture sealing layer on the skin’s surface to slow the evaporation process. The Bia collection is focused on hydration, moisture retention, and cleansing without stripping moisture in a way that also supports the microbiome. Our BiaComplex® 2.0 was specifically designed to soothe dry skin, help shed its outer dry layers, moisturize, and seal in water by forming a protective barrier. BIA now includes the first OTC product containing active 1% Colloidal Oatmeal for eczema.
-  Updated: 2026-10-30T23:46:06Z
+  Updated: 2026-11-06T21:47:16Z
   Vendor: Codex Labs Corp
   Product Type: Lotion
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/CL_Packshot_BIA-Lotion-US_WEB.jpg?v=1764091888
   Price: $34.00 USD
 - [Skin Barrier Eczema Relief System (: 18+)](https://magsskin.com/products/skin-barrier-eczema-relief-system--18): A system trio for improving and comforting dry, itchy skin from the inside & out by addressing the skin-gut connection of eczema. Temporarily protects and helps relieve minor skin irritation due to eczema and rashes.
-  Updated: 2026-10-30T16:32:15Z
+  Updated: 2026-11-06T08:08:45Z
   Vendor: Codex Labs Corp
   Product Type: Bundles
   Availability: Available
@@ -64,7 +64,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/7156/7303/files/Medisi_25.jpg?v=1774661659
   Price: $28.00 USD
 - [Liverty Dynamic Drops | Liver-Skin Protect Regenerate + Support](https://magsskin.com/products/liverty-dynamic-drops-liver-skin-protect-regenerate-support): Your daily drop of renewal for liver, skin, and balance!Healthy Skin From Within™ reflects the connection between gut health, emotional balance, and the way our skin looks and feels. Liverty Dynamic Drops are designed to gently support relaxation, encourage more restful sleep, and help the body find its natural balance so your skin can look calmer, clearer, and healthier from the inside out.Crafted with carefully selected ingredients and formulated to be alcohol-free, Liverty Dynamic Drops are designed to support daily skin wellness and inner balance. With consistent use, they help nourish the connection between gut health, emotional wellbeing, and radiant skin from the inside out.
-  Updated: 2026-10-30T19:40:46Z
+  Updated: 2026-11-06T14:40:45Z
   Vendor: Phoilex
   Product Type: Tinture
   Availability: Available
@@ -74,10 +74,10 @@
 ## Collections
 
 - [All Products](https://magsskin.com/collections/all)
-  Updated: 2026-10-30T11:11:37Z
+  Updated: 2026-11-06T12:13:42Z
   Total Products: 2
 - [Sensitive Skin Collection](https://magsskin.com/collections/sensitive-skin-collection)
-  Updated: 2026-10-30T11:11:37Z
+  Updated: 2026-11-06T12:13:42Z
   Total Products: 10
 
 ## Blogs
