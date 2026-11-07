@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:20:10.743Z
+- Updated At: 2026-11-07T01:30:46.656Z
 
 ## Products
 
 - [Casualty Hoodie](https://shop.kenzieofficial.com/products/casualty-hoodie): 80/20 cotton/polyester hoodie in black Size Chart Size Body Length (in) Chest Width (Laid Flat) Sleeve Length (in) S 27 20 33 1/2 M 28 22 34 1/2 L 29 24 35 1/2 XL 30 26 36 1/2 2XL 31 28 37 1/2 3XL 32 30 38 1/2
-  Updated: 2026-10-05T13:04:09Z
+  Updated: 2026-11-04T14:30:16Z
   Vendor: Kenzie
   Product Type: Hoodie
   Availability: Available
@@ -109,7 +109,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $50.00 USD
 - [Bow Tee](https://shop.kenzieofficial.com/products/portrait-tee): 100% cotton t-shirt in white Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-25T01:48:59Z
+  Updated: 2026-11-06T22:38:47Z
   Vendor: Kenzie
   Product Type: T-Shirt
   Availability: Available
@@ -162,7 +162,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0720/2963/4815/files/P1010112.jpg?v=1731946597
   Price: $20.00 USD
 - [Logo Sticker](https://shop.kenzieofficial.com/products/logo-sticker): Black die-cut vinyl sticker featuring Kenzie's logo
-  Updated: 2026-10-16T16:07:55Z
+  Updated: 2026-11-04T14:30:17Z
   Vendor: Kenzie
   Product Type: Sticker
   Availability: Available
@@ -242,16 +242,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://shop.kenzieofficial.com/collections/frontpage)
-  Updated: 2026-10-25T11:21:32Z
+  Updated: 2026-11-05T12:29:56Z
   Total Products: 9
 - [Apparel](https://shop.kenzieofficial.com/collections/apparel)
-  Updated: 2026-10-25T11:21:32Z
+  Updated: 2026-11-05T12:29:56Z
   Total Products: 6
 - [All](https://shop.kenzieofficial.com/collections/all)
-  Updated: 2026-10-25T11:21:32Z
+  Updated: 2026-11-05T12:29:56Z
   Total Products: 7
 - [Accessories](https://shop.kenzieofficial.com/collections/accessories)
-  Updated: 2026-09-03T11:21:26Z
+  Updated: 2026-11-05T12:29:56Z
   Total Products: 4
 - [Hats](https://shop.kenzieofficial.com/collections/hats)
   Updated: 2026-07-08T20:52:14Z
