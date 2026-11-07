@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2024-10-08T02:07:04Z
 - Contact Email: info@bebetouriste.com
-- Updated At: 2026-10-31T00:46:07.023Z
+- Updated At: 2026-11-07T00:46:08.478Z
 
 ## Products
 
@@ -2758,7 +2758,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/0530/4121/files/langer-7.jpg?v=1783378980
     Price: 38,50 € EUR
-[List Continued](https://bebetouriste.com/a/llms-agent/llms.txt?shop=750a41-4e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDI3MTcyMzcyNTM3LCJsYXN0X3ZhbHVlIjoiMjAyNS0wOS0yMSAxNToxNDowNS4wMDAwMDAifQ%3D%3D)
+[List Continued](https://bebetouriste.com/a/llms-agent/llms.txt?shop=750a41-4e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MDI3MTcyMzcyNTM3LCJsYXN0X3ZhbHVlIjoiODAyNzE3MjM3MjUzNyJ9)
 
 ## Collections
 
