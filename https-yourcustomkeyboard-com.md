@@ -6,7 +6,7 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-12-04T08:40:28Z
 - Contact Email: info@yourcustomkeyboard.com
-- Updated At: 2026-10-31T00:18:42.868Z
+- Updated At: 2026-11-07T00:19:49.292Z
 
 ## Products
 
@@ -370,6 +370,18 @@
     Updated: 2026-10-30T00:06:26Z
     Author: your custom keyboard
     Tags: custom keyboard, custom toetsenborden, e-sports, games, gaming, gaming prestaties, gaming setup, hoogwaardige gaming toetsenborden, maatwerk toetsenborden, mechanisch toetsenbord, toetsenborden
+  - [Ontdek hoe een custom keyboard je gaming sessies verrijkt](https://yourcustomkeyboard.com/blogs/nieuws/ontdek-hoe-een-custom-keyboard-je-gaming-sessies-verrijkt): Ontdek hoe een custom keyboard je gaming sessies verrijkt
+    Updated: 2026-10-31T00:27:37Z
+    Author: your custom keyboard
+    Tags: bedrade muizen, custom, custom keyboard, games, gaming, gaming setup, hypergeparkte toetsen, mechanisch toetsenbord, optimale gaming ervaring, persoonlijk gaming toetsenbord, toetsenbord
+  - [Personaliseer je setup: De impact van custom mechanische toetsenborden](https://yourcustomkeyboard.com/blogs/nieuws/personaliseer-je-setup-de-impact-van-custom-mechanische-toetsenborden): Personaliseer je setup: De impact van custom mechanische toetsenborden
+    Updated: 2026-11-04T00:04:30Z
+    Author: your custom keyboard
+    Tags: custom gaming, custom keyboard, games, gaming, gaming setup, impact van toetsenborden, mechanisch toetsenbord, setup, toetsenbord personaliseren, toetsenborden, unieke gaming setup
+  - [Een nieuw niveau van gamen: Investeren in een custom keyboard](https://yourcustomkeyboard.com/blogs/nieuws/een-nieuw-niveau-van-gamen-investeren-in-een-custom-keyboard): Een nieuw niveau van gamen: Investeren in een custom keyboard
+    Updated: 2026-11-06T00:08:05Z
+    Author: your custom keyboard
+    Tags: best gaming ervaring, custom, custom keyboard, game setup, games, gaming, gaming setup, gaming toetsenbord, investeren in toetsenborden, mechanisch toetsenbord, toetsenbord, unieke toetsenborden
 
 ## Store Pages
 
@@ -389,7 +401,7 @@
 ## Policies
 
 - [Privacy Policy](https://yourcustomkeyboard.com/policies/privacy-policy)
-  Updated: 2025-12-04T08:40:37Z
+  Updated: 2026-11-03T08:13:42Z
 - [Shipping Policy](https://yourcustomkeyboard.com/policies/shipping-policy)
   Updated: 2026-09-30T18:47:14Z
 - [Refund Policy](https://yourcustomkeyboard.com/policies/refund-policy)
