@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-03T23:30:58Z
 - Contact Email: stylevinesfashion@gmail.com
-- Updated At: 2026-10-30T01:16:58.953Z
+- Updated At: 2026-11-07T01:00:10.222Z
 
 ## Products
 
@@ -1138,24 +1138,6 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC54454.jpg?v=1791232918
     Price: $13.00 USD
-- [Solid Two Piece Yoga Set for Effortless Style](https://stylevines.com/products/wh2bun-zc2146-id-wh2252561): Achieve a coordinated look with our Solid Two Piece Yoga Set. Ideal for workouts or daily wear. Explore your activewear today!
-  Updated: 2026-10-05T20:42:35Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252561.jpg?v=1791232948
-  - [Plum / S](https://stylevines.com/products/wh2bun-zc2146-id-wh2252561?variant=48966528401600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252561.jpg?v=1791232948
-    Price: $45.00 USD
-  - [Plum / M](https://stylevines.com/products/wh2bun-zc2146-id-wh2252561?variant=48966528434368)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252561.jpg?v=1791232948
-    Price: $45.00 USD
-  - [Plum / L](https://stylevines.com/products/wh2bun-zc2146-id-wh2252561?variant=48966528467136)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2252561.jpg?v=1791232948
-    Price: $45.00 USD
 - [Seamless Skinny Yoga Leggings for Smooth Fit](https://stylevines.com/products/wh2bun-zj999-id-wh2252553): Move freely with our Seamless Skinny Yoga Leggings. Designed for workouts and daily athleisure. Get yours for a chic look!
   Updated: 2026-10-05T20:42:58Z
   Vendor: Style Vines
@@ -1492,24 +1474,6 @@
   - [L](https://stylevines.com/products/act2-6-j14215-id-59159?variant=48966539477184)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159.jpg?v=1791233503
-    Price: $15.40 USD
-- [Taupe Long Sleeve Notched Collar Blazer - Chic Elegance](https://stylevines.com/products/act2-6-j14215-id-59159d): Enhance your style with our Taupe Notched Collar Blazer. Perfect for any occasion, enjoy a refined look that pairs beautifully with any outfit!
-  Updated: 2026-10-05T20:52:42Z
-  Vendor: Style Vines
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159D.jpg?v=1791233537
-  - [S](https://stylevines.com/products/act2-6-j14215-id-59159d?variant=48966539772096)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159D.jpg?v=1791233537
-    Price: $15.40 USD
-  - [M](https://stylevines.com/products/act2-6-j14215-id-59159d?variant=48966539804864)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159D.jpg?v=1791233537
-    Price: $15.40 USD
-  - [L](https://stylevines.com/products/act2-6-j14215-id-59159d?variant=48966539837632)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/CC59159D.jpg?v=1791233537
     Price: $15.40 USD
 - [Solid Woven Blazer Jacket - Elegant Versatility](https://stylevines.com/products/pro2-njc0406-id-53081b): Discover our Solid Woven Blazer Jacket for a timeless look. Effortlessly chic, this piece elevates any ensemble. Shop the sophistication today!
   Updated: 2026-10-05T20:53:27Z
@@ -3850,7 +3814,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251912.jpg?v=1791238119
   Price: $16.00 USD
-[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU3NzUyNTEyLCJsYXN0X3ZhbHVlIjoiODcyNjk1Nzc1MjUxMiJ9)
+- [Animal Print Winter Mittens for Stylish Warmth](https://stylevines.com/products/wh2hda-ygm120004-id-wh2251921): Make a statement with our Animal Print Winter Mittens. Cozy and stylish, they are perfect for cold-weather adventures. Discover your favorites!
+  Updated: 2026-10-05T22:09:14Z
+  Vendor: Style Vines
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0779/7076/8064/files/WH2251921.jpg?v=1791238153
+  Price: $22.50 USD
+[List Continued](https://stylevines.com/a/llms-agent/llms.txt?shop=hgz5r7-z1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NzI2OTU3Nzg1MjgwLCJsYXN0X3ZhbHVlIjoiODcyNjk1Nzc4NTI4MCJ9)
 
 ## Collections
 
@@ -3867,8 +3838,8 @@
   Updated: 2026-10-27T14:10:25Z
   Total Products: 70
 - [Knit Wear](https://stylevines.com/collections/knite-wear): Explore Style Vines' knitwear collection — sumptuous knit sweaters, cardigans, and co-ords in a warm, minimalist palette. Elevated comfort for every season.
-  Updated: 2026-10-03T14:43:32Z
-  Total Products: 34
+  Updated: 2026-10-31T21:55:28Z
+  Total Products: 39
 - [Plus Size](https://stylevines.com/collections/plus-size): Shop Style Vines' plus size collection — beautifully cut dresses, tops, and bottoms designed with the same quiet luxury and refined minimalism as our full range.
   Updated: 2026-09-23T00:38:21Z
   Total Products: 177
@@ -3890,9 +3861,9 @@
 - [Leggings](https://stylevines.com/collections/leggings): Shop Style Vines' leggings collection — sleek, refined leggings in premium fabrics designed for both movement and minimalist style. Effortless comfort, elevated.
   Updated: 2026-09-23T00:39:45Z
   Total Products: 10
-- [Jackets](https://stylevines.com/collections/jackets): Shop Style Vines' jacket collection — refined blazers, tailored coats, and minimalist outerwear that layer beautifully over any look. Quiet luxury for every season.
-  Updated: 2026-10-03T15:25:19Z
-  Total Products: 15
+- [Jackets and Coats](https://stylevines.com/collections/jackets): Shop Style Vines' jacket collection — refined blazers, tailored coats, and minimalist outerwear that layer beautifully over any look. Quiet luxury for every season.
+  Updated: 2026-10-31T21:56:32Z
+  Total Products: 31
 - [Accessories](https://stylevines.com/collections/accessories): Complete your look with Style Vines' accessories collection — curated scarves, belts, gloves, handbags, and jewellery designed to elevate every outfit effortlessly.
   Updated: 2026-09-27T13:59:42Z
   Total Products: 110
@@ -3929,6 +3900,9 @@
 - [Earrings](https://stylevines.com/collections/earrings): - Style Vines
   Updated: 2026-10-04T21:31:07Z
   Total Products: 35
+- [Blazers](https://stylevines.com/collections/blazers)
+  Updated: 2026-10-31T21:38:45Z
+  Total Products: 7
 
 ## Blogs
 
@@ -4002,6 +3976,15 @@
   - [Guide to Effortless Chic for Every Season](https://stylevines.com/blogs/news/guide-to-effortless-chic-for-every-season): Guide to Effortless Chic for Every Season
     Updated: 2026-10-28T09:01:21Z
     Author: Style Vines
+  - [Strategies for Creating a Compact but Versatile Wardrobe](https://stylevines.com/blogs/news/strategies-for-creating-a-compact-but-versatile-wardrobe): Strategies for Creating a Compact but Versatile Wardrobe
+    Updated: 2026-10-31T09:00:43Z
+    Author: Style Vines
+  - [The Science Behind Perfect Clothing Fits and Sizes](https://stylevines.com/blogs/news/the-science-behind-perfect-clothing-fits-and-sizes): The Science Behind Perfect Clothing Fits and Sizes
+    Updated: 2026-11-02T09:01:03Z
+    Author: Style Vines
+  - [Tackling Fast Fashion and Providing Sustainable Solutions](https://stylevines.com/blogs/news/tackling-fast-fashion-and-providing-sustainable-solutions): Tackling Fast Fashion and Providing Sustainable Solutions
+    Updated: 2026-11-04T09:01:19Z
+    Author: Style Vines
 
 ## Store Pages
 
@@ -4023,7 +4006,7 @@
 ## Policies
 
 - [Privacy Policy](https://stylevines.com/policies/privacy-policy)
-  Updated: 2026-09-03T23:31:04Z
+  Updated: 2026-10-30T01:49:14Z
 - [Refund Policy](https://stylevines.com/policies/refund-policy)
   Updated: 2026-09-06T04:13:17Z
 - [Terms of Service](https://stylevines.com/policies/terms-of-service)
