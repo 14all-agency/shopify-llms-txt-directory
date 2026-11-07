@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2023-04-11T17:41:16Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:24:06.524Z
+- Updated At: 2026-11-07T00:28:07.053Z
 
 ## Products
 
@@ -302,7 +302,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/PokerChipShotGlass.png?v=1682449653
   Price: $7.00 USD
 - ["4" Poker Chip Hat](https://foreigner.merchmadeeasy.com/products/4-poker-chip-hat): Up the ante in the 4 Poker Chip Hat! Tri-glide buckle fastener
-  Updated: 2026-10-29T23:53:36Z
+  Updated: 2026-11-01T14:59:36Z
   Vendor: Foreigner
   Product Type: Hat
   Availability: Available
@@ -1004,7 +1004,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0000_164249_1_300649_d.png?v=1741743159
   Price: $5.00 USD
 - [Titles Tote](https://foreigner.merchmadeeasy.com/products/titles-tote): 100% cotton tote in Black
-  Updated: 2026-10-05T13:03:42Z
+  Updated: 2026-10-31T19:15:57Z
   Vendor: Foreigner
   Product Type: Tote
   Availability: Available
@@ -1080,7 +1080,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0003_164458_1_301100_d.png?v=1748451756
   Price: $10.00 USD
 - [World Tour Sticker Pack](https://foreigner.merchmadeeasy.com/products/world-tour-sticker-pack): Set of 4 vinyl die-cut stickers, each measuring 3" wide
-  Updated: 2026-10-24T13:23:56Z
+  Updated: 2026-11-02T22:49:06Z
   Vendor: Foreigner
   Product Type: Sticker Pack
   Availability: Available
@@ -1205,14 +1205,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_4_Deluxe_Poster.png?v=1763763996
   Price: $20.00 USD
 - [4 Deluxe Poster - SIGNED by LOU GRAMM](https://foreigner.merchmadeeasy.com/products/4-deluxe-poster-signed-by-lou-gramm): 11x17" poster
-  Updated: 2026-10-05T13:03:55Z
+  Updated: 2026-11-06T15:42:11Z
   Vendor: Foreigner
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_4_Deluxe_Poster.png?v=1763763996
   Price: $75.00 USD
 - [50th Anniversary Eagle Tour Tee](https://foreigner.merchmadeeasy.com/products/2026-eagle-tour-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-30T00:44:21Z
+  Updated: 2026-10-31T19:15:47Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1305,7 +1305,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $35.00 USD
 - [50th Anniversary Eagle Zip Hoodie](https://foreigner.merchmadeeasy.com/products/50th-anniversary-eagle-zip-hoodie): 50/50 cotton/poly fleece zip hoodie in heather dark grey Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 1/4 M 29 22 35 1/4 L 30 24 36 1/4 XL 31 26 37 1/4 2XL 32 28 37 1/4 3XL 33 30 38 1/4
-  Updated: 2026-10-27T21:19:56Z
+  Updated: 2026-11-06T01:05:11Z
   Vendor: Foreigner
   Product Type: Hoodie
   Availability: Available
@@ -1329,7 +1329,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $70.00 USD
 - [50th Anniversary Eagle Patch Hat](https://foreigner.merchmadeeasy.com/products/50th-anniversary-eagle-patch-hat): 100% cotton twill trucker cap with mesh backing in black with patch design
-  Updated: 2026-10-18T22:55:07Z
+  Updated: 2026-11-02T22:48:56Z
   Vendor: Foreigner
   Product Type: Hat
   Availability: Available
@@ -1350,7 +1350,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_0004_166953_1_307081_d.png?v=1770405030
   Price: $10.00 USD
 - [50th Anniversary Eagle Koozie](https://foreigner.merchmadeeasy.com/products/50th-anniversary-eagle-koozie): Neoprene koozie made for standard 12oz beverages
-  Updated: 2026-10-21T06:41:17Z
+  Updated: 2026-11-01T05:14:52Z
   Vendor: Foreigner
   Product Type: Koozie
   Availability: Available
@@ -1403,7 +1403,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOR_Orch_Tote.png?v=1782852215
   Price: $10.00 USD
 - [Head Games Tee](https://foreigner.merchmadeeasy.com/products/head-games-tee): 100% ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-30T19:14:15Z
+  Updated: 2026-11-01T15:56:26Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1427,7 +1427,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Double Vision Tee](https://foreigner.merchmadeeasy.com/products/double-vision-tee): 100% ringspun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-22T19:29:56Z
+  Updated: 2026-10-31T17:01:55Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1451,7 +1451,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $35.00 USD
 - [Fire & Ice Jukebox Tee](https://foreigner.merchmadeeasy.com/products/fire-ice-jukebox-tee): 100% ringspun cotton t-shirt in black Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-30T05:43:46Z
+  Updated: 2026-10-31T18:40:05Z
   Vendor: Foreigner
   Product Type: T-Shirt
   Availability: Available
@@ -1482,14 +1482,14 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FOREotSVinyl.png?v=1785510994
   Price: $25.00 USD
 - [Head Games Deluxe Vinyl (2026 Re-mix)](https://foreigner.merchmadeeasy.com/products/head-games-deluxe-vinyl-2026-re-mix): Please note: this is a pre-order item. Orders containing this item will ship on or around October 30, 2026. Celebrate 50 years of the iconic rock band FOREIGNER with newly re-mixed and remastered Super Deluxe editions of their multi-platinum 1979 album HEAD GAMES. Track Listing Side 1 Dirty White Boy Love On The Telephone Women I'll Get Even With You Seventeen Side 2 Head Games The Modern Day Blinded By Science Do What You Like Rev On The Red Line
-  Updated: 2026-10-30T19:14:15Z
+  Updated: 2026-11-02T21:43:11Z
   Vendor: Foreigner
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0751/1683/9232/files/FONRHeadGamesDeluxeVinyl.png?v=1790270328
   Price: $29.98 USD
 - [Head Games Deluxe Vinyl + T-Shirt Fan Pack](https://foreigner.merchmadeeasy.com/products/head-games-vinyl-t-shirt-bundle): Please note: this is a pre-order item. Orders containing this item will ship on or around October 30, 2026. Celebrate 50 years of the iconic rock band FOREIGNER with newly re-mixed and remastered Super Deluxe editions of their multi-platinum 1979 album HEAD GAMES. This bundle contains the Head Games Deluxe Vinyl and a Head Games T-Shirt FOR YOUR AWARENESS The album product and merchandise product for  within this merchandise fan pack are also sold separately in this webstore. The album product is available HERE and the merchandise product is available HERE. Track Listing Side 1 Dirty White Boy Love On The Telephone Women I'll Get Even With You Seventeen Side 2 Head Games The Modern Day Blinded By Science Do What You Like Rev On The Red Line
-  Updated: 2026-10-30T19:14:26Z
+  Updated: 2026-11-01T15:56:37Z
   Vendor: Foreigner
   Product Type: Bundle
   Availability: Available
@@ -1516,22 +1516,22 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://foreigner.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 150
 - [Apparel](https://foreigner.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 75
 - [Accessories](https://foreigner.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-03T12:07:11Z
   Total Products: 64
 - [Music](https://foreigner.merchmadeeasy.com/collections/music)
   Updated: 2026-09-24T15:22:22Z
   Total Products: 0
 - [Vegas Collection](https://foreigner.merchmadeeasy.com/collections/vegas-collection)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 16
 - [Tour Merch](https://foreigner.merchmadeeasy.com/collections/tour-merch)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 117
 - [Hot Blooded](https://foreigner.merchmadeeasy.com/collections/hot-blooded)
   Updated: 2026-10-16T11:11:43Z
@@ -1546,7 +1546,7 @@ your agent can transact everywhere.
   Updated: 2026-09-24T15:22:23Z
   Total Products: 2
 - [4](https://foreigner.merchmadeeasy.com/collections/4)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 12
 - [Can't Slow Down](https://foreigner.merchmadeeasy.com/collections/cant-slow-down)
   Updated: 2026-09-24T15:22:23Z
@@ -1555,22 +1555,22 @@ your agent can transact everywhere.
   Updated: 2026-10-15T11:09:23Z
   Total Products: 5
 - [Farewell Tour](https://foreigner.merchmadeeasy.com/collections/farewell-tour)
-  Updated: 2026-10-19T11:10:58Z
+  Updated: 2026-10-31T11:08:01Z
   Total Products: 51
 - [All](https://foreigner.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 155
 - [](https://foreigner.merchmadeeasy.com/collections/)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 43
 - [Best Sellers](https://foreigner.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 155
 - [Holiday](https://foreigner.merchmadeeasy.com/collections/holiday)
   Updated: 2026-09-24T15:22:23Z
   Total Products: 7
 - [Media](https://foreigner.merchmadeeasy.com/collections/media)
-  Updated: 2026-10-26T11:19:06Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 18
 - [Cyber Monday](https://foreigner.merchmadeeasy.com/collections/cyber-monday)
   Updated: 2026-09-24T15:22:23Z
@@ -1585,7 +1585,7 @@ your agent can transact everywhere.
   Updated: 2026-09-24T15:22:24Z
   Total Products: 1
 - [National Vinyl Record Day](https://foreigner.merchmadeeasy.com/collections/national-vinyl-record-day)
-  Updated: 2026-10-26T11:19:06Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 13
 - [Coasters](https://foreigner.merchmadeeasy.com/collections/coasters)
   Updated: 2026-09-24T15:22:24Z
@@ -1603,49 +1603,49 @@ your agent can transact everywhere.
   Updated: 2026-09-24T15:22:24Z
   Total Products: 0
 - [Tees](https://foreigner.merchmadeeasy.com/collections/tees)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 57
 - [2025 World Tour Merch](https://foreigner.merchmadeeasy.com/collections/2025-world-tour-merch)
-  Updated: 2026-10-28T11:08:03Z
+  Updated: 2026-11-03T12:07:11Z
   Total Products: 18
 - [New Arrivals](https://foreigner.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 155
 - [Red Stickers](https://foreigner.merchmadeeasy.com/collections/red-stickers)
-  Updated: 2026-10-25T11:09:15Z
+  Updated: 2026-11-03T12:07:11Z
   Total Products: 21
 - [White Stickers](https://foreigner.merchmadeeasy.com/collections/white-stickers)
-  Updated: 2026-10-15T11:09:23Z
+  Updated: 2026-10-31T11:08:01Z
   Total Products: 13
 - [Blue Stickers](https://foreigner.merchmadeeasy.com/collections/blue-stickers)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 36
 - [Jukebox Hero](https://foreigner.merchmadeeasy.com/collections/jukebox-hero): Shop the full Jukebox Hero Collection including crewnecks, t-shirts and accessories.
-  Updated: 2026-10-28T11:08:03Z
+  Updated: 2026-11-01T12:08:34Z
   Total Products: 8
 - [4 Deluxe](https://foreigner.merchmadeeasy.com/collections/4-deluxe)
   Updated: 2026-10-16T11:11:43Z
   Total Products: 5
 - [EasyGift All Products](https://foreigner.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 155
 - [BFCM 2025](https://foreigner.merchmadeeasy.com/collections/bfcm-2025)
   Updated: 2026-10-06T11:11:05Z
   Total Products: 8
 - [Stocking Stuffers](https://foreigner.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-10-25T11:09:15Z
+  Updated: 2026-11-03T12:07:11Z
   Total Products: 21
 - [The Love Collection](https://foreigner.merchmadeeasy.com/collections/the-love-collection)
-  Updated: 2026-10-09T11:11:47Z
+  Updated: 2026-11-01T12:08:34Z
   Total Products: 7
 - [2026 Tour Merch](https://foreigner.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-10-30T11:07:25Z
+  Updated: 2026-11-06T12:08:48Z
   Total Products: 15
 - [Double Vision - BOGO 50%](https://foreigner.merchmadeeasy.com/collections/double-vision-bogo-50): Buy a Foreigner x Lynyrd Skynyrd Tee, Get another tee 50% off! Now through 4/19
   Updated: 2026-10-28T11:08:03Z
   Total Products: 10
 - [BOGO $2.50 Accessories](https://foreigner.merchmadeeasy.com/collections/bogo-accessories)
-  Updated: 2026-10-25T11:09:15Z
+  Updated: 2026-11-03T12:07:11Z
   Total Products: 16
 - [FOURth of July](https://foreigner.merchmadeeasy.com/collections/fourth-of-july)
   Updated: 2026-09-24T15:22:25Z
@@ -1654,7 +1654,7 @@ your agent can transact everywhere.
   Updated: 2026-09-24T15:22:25Z
   Total Products: 2
 - [Head Games](https://foreigner.merchmadeeasy.com/collections/head-games)
-  Updated: 2026-10-28T11:08:03Z
+  Updated: 2026-11-02T12:07:32Z
   Total Products: 3
 
 ## Store Pages
