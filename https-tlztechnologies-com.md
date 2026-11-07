@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-10-11T13:50:08Z
 - Contact Email: sales@tlztechnologies.com
-- Updated At: 2026-10-31T00:30:13.588Z
+- Updated At: 2026-11-07T00:33:11.400Z
 
 ## Products
 
@@ -760,7 +760,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/47163623.jpg?v=1749712985
   Price: $20.67 USD
 - [Jabra Engage Replacement Headband 14121-30 for Jabra Supreme Headset](https://tlztechnologies.com/products/jabra-14121-30-headset-supreme-ultimate-comfort-convertible-headband): Jabra Engage Replacement Headband 14121-30 for Jabra Supreme HeadsetCondition: New Package: Original Package Make: JabraType: HeadsetMPN: 14121-30 Compatibility: For Jabra Supreme Headset
-  Updated: 2026-09-29T19:55:47Z
+  Updated: 2026-11-01T04:56:46Z
   Vendor: Jabra
   Product Type: Business Phones & Video Conferencing
   Availability: Available
@@ -773,15 +773,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/49599434.jpg?v=1786028517
   Price: $165.38 USD
-- [Honeywell Dolphin CT50 Android Mobile Computer CT50LFN-CS16SFG + Charging Dock](https://tlztechnologies.com/products/honeywell-dolphin-ct50-android-mobile-computer-ct50lfn-cs16sfg-charging-dock): Honeywell Dolphin CT50 Android Mobile Computer CT50LFN-CS16SFG + Charging Dock Condition: Excellent (Like New)Package: Brown Box Make: Honeywell Type: Mobile Computer Model: CT50LFNPart #: CT50LFN-CS16SFGAccessories IncludedAC Adapter & Dock
-  Updated: 2026-08-28T19:38:32Z
-  Vendor: Honeywell
-  Product Type: Mobile Computer
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/products/47190759.jpg?v=1691775352
-  Price: $315.23 USD
 - [Power Surge Protector 6-Outlet Power Strip Surge Suppressor C2G 125V 15A](https://tlztechnologies.com/products/cables-to-go-c2g-6-outlet-power-strip-125v-15a-with-surge-suppressor-29300): Cables to Go C2G 6-Outlet Power Strip 125V 15A with Surge Suppressor 29300Condition: As Pictured / Open BoxPackage: Original PackageMake: Cables to Go Type: Power StripPart #: 29300
-  Updated: 2026-09-06T16:08:32Z
+  Updated: 2026-11-05T20:25:14Z
   Vendor: Cables to Go
   Product Type: Power Strip
   Availability: Available
@@ -998,7 +991,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/46514825.jpg?v=1693818550
   Price: $118.08 USD
 - [Zebra RFID Thermal Labels (12 Rolls) 1.906" x 1.125" Genuine 300 10038975](https://tlztechnologies.com/products/zebra-1-906-x-1-125-direct-thermal-labels-genuine-oem-10038975-12-rolls): Zebra RFID Thermal Labels (12 Rolls) 1.906" x 1.125" Genuine 300 10038975 Condition: NewPackage: Original Package5 Major benefits of Genuine printer labelsMinimize printhead wear and tear – Happy printer, long life!Specifically designed for performance – finishes & right adhesives properties!Optimum printer performance – No downtime!Best print quality – No faded labels!Extensively tested printers they will be used on – No frustrating printer jams!Make: Zebra Type: Labels Package Quantity: 12 Rolls Part #: 10038975
-  Updated: 2026-10-06T22:29:51Z
+  Updated: 2026-11-03T16:59:53Z
   Vendor: Zebra
   Product Type: Labels
   Availability: Available
@@ -1362,7 +1355,7 @@
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/54015302.jpg?v=1765200910
   Price: $15.28 USD
 - [Honeywell CT50 CT60 Mobile Computer Holster Carry Case HSM-825239001 Genuine OEM](https://tlztechnologies.com/products/honeywell-ct50-ct60-mobile-computer-holster-carry-case-hsm-825239001-genuine-oem-1): Honeywell CT50 CT60 Mobile Computer Holster Carry Case HSM-825239001 Genuine OEM Condition: New Make: Honeywell Type: Protective CaseColor: BlackCompatibility: Honeywell CT50 CT60
-  Updated: 2026-08-28T19:39:34Z
+  Updated: 2026-11-01T02:08:36Z
   Vendor: Honeywell
   Product Type: Holster
   Availability: Available
@@ -1760,7 +1753,14 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/56985396.jpg?v=1785240986
   Price: $105.67 USD
-[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjY0Mjc0NzY3OTIwLCJsYXN0X3ZhbHVlIjoiNzY2NDI3NDc2NzkyMCJ9)
+- [Videolarm Housing CAEH13 for Cisco 2500 & 4000 Video Surveillance IP Camera](https://tlztechnologies.com/products/videoalarm-housing-caeh13-for-cisco-2500-4000-video-surveillance-ip-camera): Videolarm Housing CAEH13 for Cisco 2500 & 4000 Series Video Surveillance IP CameraCondition: NewItem description: New (Open box)Package: Original PackageMake: Videolarm Type: Camera HousingPart #: CAEH13 Compatibility: Cisco 2500 & 4000 Series Video Surveillance IP Camera
+  Updated: 2026-08-28T19:40:09Z
+  Vendor: Cisco 2500 & 4000
+  Product Type: Camera Housing
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0577/8148/5616/files/57164008.jpg?v=1745969312
+  Price: $70.28 USD
+[List Continued](https://tlztechnologies.com/a/llms-agent/llms.txt?shop=tlz-technologies.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjY1NjY5MzQxMjMyLCJsYXN0X3ZhbHVlIjoiNzY2NTY2OTM0MTIzMiJ9)
 
 ## Collections
 
@@ -1783,17 +1783,17 @@
   Updated: 2026-10-23T14:26:10Z
   Total Products: 18
 - [Super Saver Deals](https://tlztechnologies.com/collections/): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco deals. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-10-30T12:17:18Z
+  Updated: 2026-11-06T18:37:21Z
   Total Products: 1143
 - [Security Systems](https://tlztechnologies.com/collections/security-systems): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco gear. Get authentic security systems and surveillance hardware at a fraction of the cost. Shop 50% Off!
   Updated: 2026-10-22T13:50:51Z
   Total Products: 9
 - [Best Sellers](https://tlztechnologies.com/collections/best-sellers): Shop Zebra, Honeywell, Intermec, Polycom, Avaya & Cisco best sellers. Get authentic enterprise tech at a fraction of the cost. Save big and Shop 50% Off Retail!
-  Updated: 2026-10-30T12:22:11Z
-  Total Products: 877
+  Updated: 2026-11-06T18:41:56Z
+  Total Products: 858
 - [Zebra Technologies (expensive products)](https://tlztechnologies.com/collections/zebra-technologies): Shop Zebra, Honeywell, Intermec, Cisco & Polycom hardware. Get authentic Zebra mobile computers and printers at a fraction of the cost. Shop 50% Off Retail!
-  Updated: 2026-10-30T12:19:50Z
-  Total Products: 1006
+  Updated: 2026-11-06T18:40:58Z
+  Total Products: 1008
 - [Security Systems (Copy)](https://tlztechnologies.com/collections/security-systems-copy)
   Updated: 2026-10-22T13:50:51Z
   Total Products: 9
@@ -2124,6 +2124,15 @@
     Author: Joe Muita
   - [Honeywell's Guide to Efficient Tech Solutions for Enterprises](https://tlztechnologies.com/blogs/news/honeywells-guide-to-efficient-tech-solutions-for-enterprises): Honeywell's Guide to Efficient Tech Solutions for Enterprises
     Updated: 2026-10-30T00:51:36Z
+    Author: Joe Muita
+  - [Discover Zebra's Advanced Enterprise Hardware Techniques](https://tlztechnologies.com/blogs/news/discover-zebras-advanced-enterprise-hardware-techniques): Discover Zebra's Advanced Enterprise Hardware Techniques
+    Updated: 2026-11-02T01:31:31Z
+    Author: Joe Muita
+  - [Simplifying Enterprise Tech with Honeywell Expertise](https://tlztechnologies.com/blogs/news/simplifying-enterprise-tech-with-honeywell-expertise): Simplifying Enterprise Tech with Honeywell Expertise
+    Updated: 2026-11-04T01:08:09Z
+    Author: Joe Muita
+  - [Zebra Technologies' Key to Affordable Enterprise Modernization](https://tlztechnologies.com/blogs/news/zebra-technologies-key-to-affordable-enterprise-modernization): Zebra Technologies' Key to Affordable Enterprise Modernization
+    Updated: 2026-11-06T01:02:25Z
     Author: Joe Muita
 
 ## Store Pages
