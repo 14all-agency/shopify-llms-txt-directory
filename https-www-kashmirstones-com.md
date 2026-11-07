@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-21T11:17:34Z
 - Contact Email: kashmirgemsjewelry@gmail.com
-- Updated At: 2026-10-30T01:06:37.710Z
+- Updated At: 2026-11-07T01:01:06.481Z
 
 ## Products
 
@@ -630,6 +630,19 @@ collectors. September birthstone.
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Aquamarine_crystal_pendants.jpg?v=1792074035
   Price: $2,400.00 USD
+- [1 carat Natural Mozambique Ruby](https://www.kashmirstones.com/products/1-carat-natural-mozambique-ruby): 1 carat Natural Mozambique Ruby No heat
+  Updated: 2026-11-05T23:54:37Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Price: $1,500.00 USD
+- [Buy 61.35 Carats Natural Faceted Peridot Loose Stones For ](https://www.kashmirstones.com/products/natural-faceted-green-peridot-pairs-from-pakistan): Shop natural green peridot pairs from Pakistan, untreated and faceted, with 61.35 carats total weight, varied dimensions, and mostly eye-clean clarity.
+  Updated: 2026-11-06T23:18:53Z
+  Vendor: Kashmir Stones
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0698/2221/8351/files/Loose_Peridot_Gemstone_Pair_For_Custom_Earrings.jpg?v=1793965072
+  Price: $3,070.00 USD
 
 ## Collections
 
@@ -637,23 +650,23 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:33Z
   Total Products: 1
 - [All Type Gemstones](https://www.kashmirstones.com/collections/all-type-gemstones): Shop  natural gemstones including rubies, sapphires, emeralds & rare stones. Authentic loose gems for jewelry making & collecting. Worldwide shipping available.
-  Updated: 2026-10-15T13:44:47Z
-  Total Products: 86
+  Updated: 2026-11-06T11:55:41Z
+  Total Products: 88
 - [Emerald Gemstones](https://www.kashmirstones.com/collections/buy-emeralds-for-): Shop authentic natural emerald gemstones from Swat emeralds, Colombian Emeralds, Afghan Panjshir Emeralds, Zambian Emeralds.  precious gemstones with vivid green color. Perfect for fine jewelry and collectors.
   Updated: 2026-09-25T12:40:40Z
   Total Products: 27
 - [Loose Gemstones](https://www.kashmirstones.com/collections/loose-gemstones): Shop premium loose gemstones for jewelry making and collecting. Natural rubies, sapphires, emeralds & semi-precious stones.  quality, various cuts & sizes.
-  Updated: 2026-10-11T18:02:51Z
-  Total Products: 68
+  Updated: 2026-11-06T11:55:41Z
+  Total Products: 70
 - [New Arrivals](https://www.kashmirstones.com/collections/new-arrivals-gemstones): Discover our newest gemstone arrivals! Emeralds, Kashmir Rubies, Batakundi Kashmir Sapphire, Burmese Rubies, Ceylon Sapphire, Peridots from Kohistan, Rare gems,  and many more Fresh inventory of rare and unique natural stones. Limited availability. Check our latest precious and semi-precious gems.
-  Updated: 2026-10-15T14:20:55Z
-  Total Products: 77
+  Updated: 2026-11-06T11:55:41Z
+  Total Products: 80
 - [Rough Gemstones](https://www.kashmirstones.com/collections/rough-gemstones-for-): Shop authentic rough faceting, collectors, jewelers & lapidary work. Uncut precious & semi-precious stones. Expert ethical sourcing.
   Updated: 2026-10-15T13:44:47Z
   Total Products: 23
 - [Rubies](https://www.kashmirstones.com/collections/rubies-gemstones-for-): Shop premium natural rubies in stunning red hues.  authentic, ethically sourced ruby gemstones for engagement rings & fine jewelry. Free shipping.
-  Updated: 2026-10-21T12:02:01Z
-  Total Products: 24
+  Updated: 2026-11-05T11:55:05Z
+  Total Products: 25
 - [Sapphires](https://www.kashmirstones.com/collections/buy-sapphires-gemstones): Shop  natural blue sapphires from Kashmir, Ceylon & Burma. Premium quality sapphire gemstones for engagement rings. Ethically sourced, expert-.
   Updated: 2026-09-22T13:53:37Z
   Total Products: 33
@@ -661,11 +674,11 @@ collectors. September birthstone.
   Updated: 2026-09-24T11:11:28Z
   Total Products: 6
 - [Corundum](https://www.kashmirstones.com/collections/corundum): Shop  natural rubies and sapphires from our premium corundum collection. Ethically sourced, -grade gemstones with authentication. Free worldwide shipping.
-  Updated: 2026-10-21T12:02:01Z
-  Total Products: 56
+  Updated: 2026-11-05T11:55:05Z
+  Total Products: 57
 - [Precious Colored Stones](https://www.kashmirstones.com/collections/buy-precious-colored-stones): Shop -grade natural rubies, emeralds & sapphires with authenticity certificates. Expert-curated precious colored stones, transparent sourcing, competitive prices.
-  Updated: 2026-10-21T12:02:01Z
-  Total Products: 83
+  Updated: 2026-11-05T11:55:05Z
+  Total Products: 84
 - [Loose Rubies Stones](https://www.kashmirstones.com/collections/buy-loose-rubies-gemstones): Shop  loose ruby gemstones including pigeon blood, Burmese & Mozambique rubies. Natural, unheated options available. Perfect for engagement rings. Free shipping.
   Updated: 2026-09-29T13:18:14Z
   Total Products: 11
@@ -700,8 +713,8 @@ collectors. September birthstone.
   Updated: 2026-09-22T13:53:37Z
   Total Products: 9
 - [Beryl](https://www.kashmirstones.com/collections/beryl-gems-for-): Shop  natural beryl gemstones including emeralds, aquamarine, morganite, and heliodor. Ethically sourced, expertly graded loose beryl stones with global shipping.
-  Updated: 2026-10-15T14:20:55Z
-  Total Products: 34
+  Updated: 2026-11-06T11:55:41Z
+  Total Products: 35
 - [Semi Precious Gemstones](https://www.kashmirstones.com/collections/semi-precious-gemstones-for-): Shop  natural semi precious gemstones including tourmaline, peridot, garnet, and aquamarine. Ethically sourced loose stones with gemological certificates.
   Updated: 2026-08-21T15:28:41Z
   Total Products: 6
@@ -709,8 +722,8 @@ collectors. September birthstone.
   Updated: 2026-07-08T21:38:47Z
   Total Products: 5
 - [Peridot Gemstones](https://www.kashmirstones.com/collections/peridot-gemstones): Explore Authentic Peridot Gemstones - Natural Loose & Rough Stones Discover our exquisite collection of natural peridot gemstones, featuring both loose peridot stones and rough peridot crystals sourced from renowned deposits. Known for their vibrant olive-green to lime-green color, peridots are one of the few gemstones that occur in only one color, making them highly sought after for fine jewelry and gemstone collections. What We Offer at Kashmirstones.com At Kashmirstones.com, we specialize in premium-quality peridot gemstones available in multiple forms: Loose Peridot Stones: Expertly cut and polished loose gemstones ready for jewelry setting, available in various shapes including oval, round, cushion, and emerald cuts Rough Peridot Crystals: Natural, uncut peridot specimens perfect for collectors, lapidary work, and custom cutting projects  Authenticity: Each peridot comes with detailed provenance information and quality assurance Wholesale Options: Competitive pricing for bulk orders and wholesale gemstone supply About Peridot: The August Birthstone Peridot (pronounced "PAIR-ih-dot") is the gem-quality variety of the mineral olivine. This stunning semi-precious gemstone has been treasured for over 3,500 years, with historical sources including Egypt's Zabargad Island and modern deposits in Pakistan, Myanmar, China, and Arizona. As the official August birthstone, peridot symbolizes strength, prosperity, and positive energy. Why Choose Our Peridot Collection? Ethically sourced from premium deposits including Kohistan, Pakistan Hand-selected for superior color saturation and clarity Available in sizes ranging from small accent stones to rare large specimens Competitive wholesale and retail pricing Expert gemological guidance and customer support Frequently Asked Questions About Peridot Gemstones What is peridot gemstone good for? Peridot is excellent for fine jewelry including rings, earrings, pendants, and bracelets. With a Mohs hardness of 6.5-7, it's durable enough for everyday wear with proper care. Peridot is also valued by collectors and is believed to bring prosperity, good health, and restful sleep in crystal healing traditions. How can you tell if a peridot is real? Genuine peridot displays a characteristic olive to lime-green color with slight golden undertones. Real peridots show double refraction when viewed under magnification, have natural inclusions (often lily pad-shaped), and exhibit strong pleochroism. At Kashmirstones.com, all our peridots are  natural with detailed authenticity documentation. What is the difference between rough and loose peridot? Rough peridot refers to natural, uncut crystals in their raw form, ideal for collectors or custom cutting. Loose peridot stones are professionally cut and polished gemstones ready for jewelry setting. Rough stones offer more flexibility for custom designs, while loose stones provide immediate use in jewelry projects. Is peridot expensive? Peridot is generally affordable compared to precious gemstones like emerald or sapphire. Prices vary based on size, color intensity, clarity, and origin. Fine-quality peridots with vivid green color and minimal inclusions command premium prices, while commercial-grade stones remain budget-friendly. Large peridots over 10 carats are rare and more valuable. Can peridot be worn every day? Yes, peridot can be worn daily with proper care. While durable at 6.5-7 on the Mohs scale, it should be protected from harsh chemicals, extreme temperature changes, and hard impacts. Remove peridot jewelry during vigorous activities and clean with mild soap and water. Where does the best peridot come from? Historically, Egypt's Zabargad Island produced the finest peridots. Today, premium specimens come from Pakistan (especially Kohistan), Myanmar, China, and Arizona's San Carlos reservation. Pakistani peridots are particularly prized for their rich color and clarity. Browse our curated selection of natural peridot gemstones and experience the exceptional quality and authenticity that Kashmirstones.com is known for. Whether you're seeking loose stones for jewelry creation or rough specimens for your collection, we offer expert guidance and competitive pricing on every piece.
-  Updated: 2026-10-07T15:31:59Z
-  Total Products: 6
+  Updated: 2026-11-06T11:39:36Z
+  Total Products: 7
 - [Rare Gemstones](https://www.kashmirstones.com/collections/rare-gemstones-list)
   Updated: 2026-08-21T15:28:41Z
   Total Products: 45
@@ -849,7 +862,7 @@ collectors. September birthstone.
 ## Policies
 
 - [Privacy Policy](https://www.kashmirstones.com/policies/privacy-policy)
-  Updated: 2026-01-21T11:17:43Z
+  Updated: 2026-10-31T05:46:17Z
 - [Shipping Policy](https://www.kashmirstones.com/policies/shipping-policy)
   Updated: 2026-04-08T15:38:39Z
 - [Refund Policy](https://www.kashmirstones.com/policies/refund-policy)
