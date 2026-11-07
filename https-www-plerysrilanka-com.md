@@ -6,33 +6,33 @@
 - Timezone: Asia/Colombo
 - Created At: 2026-02-10T02:09:46Z
 - Contact Email: admin@plerysrilanka.com
-- Updated At: 2026-10-31T00:34:46.636Z
+- Updated At: 2026-11-07T00:38:13.868Z
 
 ## Products
 
 - [Plery R602 4G LTE WiFi 6 AX300 Router – Sri Lanka](https://www.plerysrilanka.com/products/r602-4g-lte-cat4-ax300-wifi6-router-version-2-0): Plery R602 4G LTE WiFi 6 Router with CAT4 high-speed internet. Portable, SIM-ready and ideal for home, office or travel in Sri Lanka.
-  Updated: 2026-10-30T16:18:42Z
+  Updated: 2026-11-06T17:20:24Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/473449206_122150842472361801_5593426397371235846_n.jpg?v=1770732420
   Price: Rs 11,499.00 LKR
 - [Plery M302 4G LTE Mobile WiFi Router (WiFi 6) Sri Lanka](https://www.plerysrilanka.com/products/plery-m302-4g-lte-wifi6-mobile-portable-wi-fi-router): Plery M302 4G LTE CAT4 mobile WiFi router with WiFi 6 technology. Compact, rechargeable and ideal for travel, business and home use in Sri Lanka.
-  Updated: 2026-10-29T15:33:53Z
+  Updated: 2026-11-06T14:01:43Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/517418262_122179570670361801_4735803178199524682_n.jpg?v=1770733390
   Price: Rs 8,499.00 LKR
 - [Plery R702 4G LTE Outdoor Router (AX300 WiFi 6) Sri Lanka](https://www.plerysrilanka.com/products/r702-4g-lte-cat4-ax300-wifi6-outdoor-router): Buy Plery R702 4G LTE CAT4 outdoor router in Sri Lanka. Waterproof WiFi 6 (AX300) router ideal for CCTV, warehouses and remote monitoring.
-  Updated: 2026-10-26T04:23:18Z
+  Updated: 2026-11-06T14:02:05Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/ChatGPTImageMay24_2026_11_53_18PM.png?v=1779647111
   Price: Rs 14,800.00 LKR
 - [Huawei B312-926 4G LTE Router – 150Mbps, External Antenna SriLanka](https://www.plerysrilanka.com/products/huawei-b312-926-4g-lte-router-unlocked-150mbps-cat4-external-antenna-port-wifi-300mbps-gigabit-lan-sri-lanka): Buy Huawei B312-926 4G LTE router in Sri Lanka. Unlocked, 150Mbps speed, WIFI 300Mbps & external antenna support. Ideal for home & office use.
-  Updated: 2026-10-29T15:37:02Z
+  Updated: 2026-11-06T14:02:34Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
@@ -66,8 +66,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0977/6693/2852/files/Meari-S1C-3mp-WiFi-indoor-Camera-1-copy-1.jpg?v=1791370475
   Price: Rs 7,190.00 LKR
-- [Huawei Brovi H155-380 5G CPE 5 WIFI 6 Router (Open Box)](https://www.plerysrilanka.com/products/huawei-brovi-h155-380-5g-cpe-5-wifi-6-router-open-box): Click here to Pay with Payzy / KOKO Pay .payzy-koko-button { width: 100%; padding: 14px 20px; background-color: #F9C115; color: #000000; border: none; border-radius: 8px; font-size: 13px; font-weight: 200; line-height: 1.2; text-align: center; cursor: pointer; transition: opacity 0.2s ease, transform 0.1s ease; font-family: inherit; } .payzy-koko-button:hover { opacity: 0.8; } .payzy-koko-button:active { transform: scale(0.99); } Huawei Brovi H155-380 5G CPE Router – Wi-Fi 6 AX3000 Experience Next-Level 5G Internet Upgrade your home or office internet with the Huawei Brovi H155-380 5G CPE Router. Designed for high-speed connectivity, this powerful indoor router supports both 5G and 4G LTE networks, delivering fast and reliable internet for streaming, online gaming, video conferencing, remote work, and everyday browsing. With 5G download speeds of up to 3.6Gbps and Wi-Fi 6 AX3000 technology, enjoy smooth wireless connectivity and high-speed performance across multiple connected devices. Key Features 5G & 4G LTE Support: Compatible with 5G SA/NSA and 4G LTE networks. Ultra-Fast 5G Speeds: Theoretical download speeds of up to 3.6Gbps under compatible network conditions. Wi-Fi 6 AX3000: Dual-band wireless connectivity on 2.4GHz and 5GHz. Connect Up to 128 Devices: Suitable for busy homes, offices, and multiple-device environments. High-Gain Internal Antennas: Designed to support reliable wireless and cellular connectivity. Gigabit Ethernet: Wired connectivity for compatible computers and other network devices. Advanced Network Technology: Supports MU-MIMO and carrier aggregation. Nano-SIM Slot: Access mobile broadband through a compatible SIM card. VPN Support: Supports VPN functionality, depending on firmware and configuration. Technical Specifications Specification Details Brand Huawei Brovi Model H155-380 Device Type Indoor 5G CPE Router Network Compatibility 5G SA/NSA, 4G LTE Maximum 5G Download Speed Up to 3.6Gbps (theoretical) 4G LTE Category Cat 20 Download / Cat 13 Upload Wi-Fi Standard Wi-Fi 6 (802.11ax) Wi-Fi Class AX3000 Theoretical Wi-Fi Speed Up to 3000Mbps Wi-Fi Frequency Bands 2.4GHz and 5GHz Maximum Connected Devices Up to 128 SIM Type Nano-SIM Ethernet Gigabit RJ45 ports; configuration varies by version 5G Bands n1 / n3 / n8 / n20 / n28 / n41 / n78 4G FDD-LTE Bands B1 / B3 / B8 / B20 / B28 4G TDD-LTE Bands B41 / B42 Additional Features High-gain internal antennas, MU-MIMO, carrier aggregation, VPN support Ideal For Homes requiring high-speed mobile broadband Offices and small businesses 4K streaming and online entertainment Online gaming and video conferencing Households with multiple connected devices Important Compatibility Information Actual internet speeds depend on network coverage, signal strength, carrier support, SIM package, and local network conditions. Supported bands, Ethernet port configuration, and certain features may vary by hardware version or firmware. Before purchasing, confirm that the router's supported frequency bands are compatible with your mobile network operator in Sri Lanka. Choose the Huawei Brovi H155-380 for a powerful combination of 5G connectivity, Wi-Fi 6 performance, and flexible home or office networking.
-  Updated: 2026-10-28T12:02:56Z
+- [Huawei Brovi H155-380 5G CPE 5 WIFI 6 Router (Open Box)](https://www.plerysrilanka.com/products/huawei-brovi-h155-380-5g-cpe-5-wifi-6-router-open-box): 3x or 4x Installments ( වාරික වශයෙන් ගෙවීමට) .payzy-koko-button { width: 100%; padding: 14px 20px; background-color: #F9C115; color: #000000; border: none; border-radius: 8px; font-size: 13px; font-weight: 200; line-height: 1.2; text-align: center; cursor: pointer; transition: opacity 0.2s ease, transform 0.1s ease; font-family: inherit; } .payzy-koko-button:hover { opacity: 0.8; } .payzy-koko-button:active { transform: scale(0.99); } Huawei Brovi H155-380 5G CPE Router – Wi-Fi 6 AX3000 Experience Next-Level 5G Internet Upgrade your home or office internet with the Huawei Brovi H155-380 5G CPE Router. Designed for high-speed connectivity, this powerful indoor router supports both 5G and 4G LTE networks, delivering fast and reliable internet for streaming, online gaming, video conferencing, remote work, and everyday browsing. With 5G download speeds of up to 3.6Gbps and Wi-Fi 6 AX3000 technology, enjoy smooth wireless connectivity and high-speed performance across multiple connected devices. Key Features 5G & 4G LTE Support: Compatible with 5G SA/NSA and 4G LTE networks. Ultra-Fast 5G Speeds: Theoretical download speeds of up to 3.6Gbps under compatible network conditions. Wi-Fi 6 AX3000: Dual-band wireless connectivity on 2.4GHz and 5GHz. Connect Up to 128 Devices: Suitable for busy homes, offices, and multiple-device environments. High-Gain Internal Antennas: Designed to support reliable wireless and cellular connectivity. Gigabit Ethernet: Wired connectivity for compatible computers and other network devices. Advanced Network Technology: Supports MU-MIMO and carrier aggregation. Nano-SIM Slot: Access mobile broadband through a compatible SIM card. VPN Support: Supports VPN functionality, depending on firmware and configuration. Technical Specifications Specification Details Brand Huawei Brovi Model H155-380 Device Type Indoor 5G CPE Router Network Compatibility 5G SA/NSA, 4G LTE Maximum 5G Download Speed Up to 3.6Gbps (theoretical) 4G LTE Category Cat 20 Download / Cat 13 Upload Wi-Fi Standard Wi-Fi 6 (802.11ax) Wi-Fi Class AX3000 Theoretical Wi-Fi Speed Up to 3000Mbps Wi-Fi Frequency Bands 2.4GHz and 5GHz Maximum Connected Devices Up to 128 SIM Type Nano-SIM Ethernet Gigabit RJ45 ports; configuration varies by version 5G Bands n1 / n3 / n8 / n20 / n28 / n41 / n78 4G FDD-LTE Bands B1 / B3 / B8 / B20 / B28 4G TDD-LTE Bands B41 / B42 Additional Features High-gain internal antennas, MU-MIMO, carrier aggregation, VPN support Ideal For Homes requiring high-speed mobile broadband Offices and small businesses 4K streaming and online entertainment Online gaming and video conferencing Households with multiple connected devices Important Compatibility Information Actual internet speeds depend on network coverage, signal strength, carrier support, SIM package, and local network conditions. Supported bands, Ethernet port configuration, and certain features may vary by hardware version or firmware. Before purchasing, confirm that the router's supported frequency bands are compatible with your mobile network operator in Sri Lanka. Choose the Huawei Brovi H155-380 for a powerful combination of 5G connectivity, Wi-Fi 6 performance, and flexible home or office networking.
+  Updated: 2026-11-06T14:02:56Z
   Vendor: Plery SriLanka
   Product Type: 
   Availability: Available
@@ -77,19 +77,19 @@
 ## Collections
 
 - [Unlocked Routers](https://www.plerysrilanka.com/collections/unlocked-routers): Shop the best- WiFi routers, mesh systems, and networking accessories in Sri Lanka. Fast delivery, top brands, and unbeatable prices.
-  Updated: 2026-10-30T11:20:05Z
+  Updated: 2026-11-06T12:23:05Z
   Total Products: 6
 - [5G Routers](https://www.plerysrilanka.com/collections/5g-routers): Shop 5G routers in Sri Lanka. Get ultra-fast 5G home and office internet with Plery SriLanka's latest 5G router range.
   Updated: 2026-10-24T11:25:38Z
   Total Products: 3
 - [Outdoor Routers](https://www.plerysrilanka.com/collections/outdoor-routers): Shop outdoor WiFi routers in Sri Lanka. Weatherproof, long-range routers for gardens, warehouses & large spaces from Plery SriLanka.
-  Updated: 2026-10-26T11:24:46Z
+  Updated: 2026-11-06T12:23:05Z
   Total Products: 1
 - [Portable WiFi](https://www.plerysrilanka.com/collections/portable-wifi): Shop portable WiFi routers & mobile hotspots in Sri Lanka. Stay connected anywhere with Plery SriLanka's compact travel routers.
-  Updated: 2026-10-30T11:20:05Z
+  Updated: 2026-11-01T12:17:41Z
   Total Products: 1
 - [4G Routers](https://www.plerysrilanka.com/collections/4g-routers): Shop 4G LTE routers in Sri Lanka. Unlocked, high-speed 4G routers for home & office. Free delivery available. Browse Plery's full range today.
-  Updated: 2026-10-30T11:20:05Z
+  Updated: 2026-11-06T12:23:05Z
   Total Products: 5
 - [CCTV Camera](https://www.plerysrilanka.com/collections/cctv-camera)
   Updated: 2026-10-07T11:02:18Z
@@ -129,13 +129,13 @@
 - [Privacy Policy](https://www.plerysrilanka.com/policies/privacy-policy)
   Updated: 2026-10-29T15:49:24Z
 - [Shipping Policy](https://www.plerysrilanka.com/policies/shipping-policy)
-  Updated: 2026-03-16T15:42:10Z
+  Updated: 2026-11-02T08:53:59Z
 - [Refund Policy](https://www.plerysrilanka.com/policies/refund-policy)
-  Updated: 2026-10-23T08:14:24Z
+  Updated: 2026-11-02T09:09:19Z
 - [Terms of Service](https://www.plerysrilanka.com/policies/terms-of-service)
-  Updated: 2026-02-12T16:15:00Z
+  Updated: 2026-11-02T08:53:36Z
 - [Contact Information](https://www.plerysrilanka.com/policies/contact-information)
-  Updated: 2026-10-23T08:15:19Z
+  Updated: 2026-11-02T08:54:11Z
 
 https://www.facebook.com/PlerySriLanka/
 https://www.tiktok.com/@plerysrilanka
