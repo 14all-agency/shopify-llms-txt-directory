@@ -83,12 +83,12 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-04-16T17:42:50Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:23:11.709Z
+- Updated At: 2026-11-07T00:28:55.934Z
 
 ## Products
 
 - [logo crewneck](https://www.yungkai.com/products/logo-crewneck): crewneck in cream, made from 80% cotton, 10% polyester, and 10% recycled polyester from plastic bottles. featuring a premium puff print logo. Size Chart Size Body Length (in) Chest Width (in) XS 26 18 S 27 20 M 28 22 L 29 24 XL 30 26 2XL 31 28
-  Updated: 2026-10-16T22:19:25Z
+  Updated: 2026-11-05T01:56:28Z
   Vendor: yung kai
   Product Type: Crewneck
   Availability: Available
@@ -119,13 +119,13 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_Tote.png?v=1750258314
   Price: $25.00 USD
 - [flower, moon, star tour tee](https://www.yungkai.com/products/flower-moon-star-tour-tee): 100% US heavyweight cotton t-shirt in powder blue Size Chart Size Chest Width (in) Body Length (in) S 18 26 1/2 M 20 28 1/2 L 22 30 1/2 XL 24 31 1/2 2XL 26 32 1/2
-  Updated: 2026-10-30T04:53:46Z
+  Updated: 2026-11-05T01:56:22Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_fsm_tour_tee_front.png?v=1757432820
   - [S](https://www.yungkai.com/products/flower-moon-star-tour-tee?variant=47576639799515)
-    Availability: Available
+    Availability: Not Available
     Price: $20.00 USD
   - [M](https://www.yungkai.com/products/flower-moon-star-tour-tee?variant=47576639832283)
     Availability: Available
@@ -140,7 +140,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [cosmic tee](https://www.yungkai.com/products/cosmic-tee): 100% ringspun cotton, garment-dyed t-shirt in pepper. Pre-shrunk. Size Chart Size Chest Width (in) Body Length (in) S 18 1/4 26 1/2 M 20 1/4 28 L 22 29 1/2 XL 24 30 3/4 2XL 26 31 1/2
-  Updated: 2026-10-16T22:19:26Z
+  Updated: 2026-11-05T01:56:31Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -206,7 +206,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $60.00 USD
 - [stay with the ocean tour tee - navy](https://www.yungkai.com/products/stay-with-the-ocean-tour-tee-navy): 100% US heavyweight cotton, pigment-dyed t-shirt in navy blue Size Chart Size Chest Width (in) Body Length (in) XS 18 1/2 25 S 20 1/2 26 M 22 1/2 27 L 24 1/2 28 XL 26 1/2 29 2XL 28 1/2 30
-  Updated: 2026-10-26T01:26:06Z
+  Updated: 2026-11-04T19:35:12Z
   Vendor: yung kai
   Product Type: T-Shirt
   Availability: Available
@@ -309,7 +309,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0758/5854/2811/files/YGKI_0001_166983_1_307131_d.png?v=1771442545
   Price: $30.00 USD
 - [embroidered flower hat](https://www.yungkai.com/products/embroidered-flower-hat): 100% cotton twill baseball cap in navy with embroidered design
-  Updated: 2026-10-26T15:38:17Z
+  Updated: 2026-11-05T12:12:31Z
   Vendor: yung kai
   Product Type: Hat
   Availability: Available
@@ -344,16 +344,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://www.yungkai.com/collections/frontpage)
-  Updated: 2026-10-30T11:16:02Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 19
 - [apparel](https://www.yungkai.com/collections/apparel)
-  Updated: 2026-10-30T11:16:02Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 11
 - [accessories](https://www.yungkai.com/collections/accessories)
-  Updated: 2026-08-29T11:20:53Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 6
 - [all](https://www.yungkai.com/collections/all)
-  Updated: 2026-10-30T11:16:02Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 21
 - [music](https://www.yungkai.com/collections/music)
   Updated: 2026-08-27T14:48:23Z
@@ -362,10 +362,10 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:31:48Z
   Total Products: 0
 - [2026 Tour Merch](https://www.yungkai.com/collections/2026-tour-merch)
-  Updated: 2026-10-26T11:22:45Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 10
 - [](https://www.yungkai.com/collections/)
-  Updated: 2026-10-30T11:16:02Z
+  Updated: 2026-11-05T12:20:14Z
   Total Products: 4
 
 ## Store Pages
