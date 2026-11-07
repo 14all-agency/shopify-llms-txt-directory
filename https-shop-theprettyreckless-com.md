@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-28T15:25:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:24:32.044Z
+- Updated At: 2026-11-07T00:26:32.546Z
 
 ## Products
 
 - [The Pretty Reckless Tee - Black](https://shop.theprettyreckless.com/products/bat-logo-tee): 100% cotton t-shirt in black
-  Updated: 2026-10-29T01:29:27Z
+  Updated: 2026-11-05T14:45:46Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Cross Tee](https://shop.theprettyreckless.com/products/cross-tee): 100% cotton t-shirt in vintage black with the Cross logo on the front and text logo print on the back
-  Updated: 2026-10-22T19:23:16Z
+  Updated: 2026-11-05T22:43:01Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Pretty Reckless Christmas Glass Ornament](https://shop.theprettyreckless.com/products/pretty-reckless-glass-christmas-ornament): Red glass Christmas ornament with festive print and a string to hang on your tree. Ornament is not shatter-proof so please handle with care!
-  Updated: 2026-10-29T03:17:06Z
+  Updated: 2026-11-03T17:29:08Z
   Vendor: The Pretty Reckless
   Product Type: Ornament
   Availability: Available
@@ -123,7 +123,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Light Me Up Tee](https://shop.theprettyreckless.com/products/light-me-up-tee): 100% cotton t-shirt in beige Size Chart Size Body Length (in) Chest Width (in) S 28 20 M 29 22 L 30 24 XL 31 26 2XL 32 28
-  Updated: 2026-10-05T13:04:55Z
+  Updated: 2026-11-04T01:06:38Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -175,7 +175,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Cross Flip Lighter](https://shop.theprettyreckless.com/products/cross-flip-lighter): Everything you love will burn up in the light 🔥 Metal wick oil lighter with spring action flip top case. Snap shut to extinguish flame. Does not contain lighter fluid.
-  Updated: 2026-10-26T15:48:39Z
+  Updated: 2026-11-04T09:19:28Z
   Vendor: The Pretty Reckless
   Product Type: Flip Lighter
   Availability: Available
@@ -189,7 +189,7 @@
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Poster_1117.png?v=1773352303
   Price: $25.00 USD
 - [Dear God Embroidered Hat](https://shop.theprettyreckless.com/products/dear-god-embroidered-hat): 100% cotton twill dad hat with distressed details in washed black
-  Updated: 2026-10-20T14:21:17Z
+  Updated: 2026-11-03T00:22:41Z
   Vendor: The Pretty Reckless
   Product Type: Hat
   Availability: Available
@@ -217,7 +217,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [Dear God Zip Hoodie](https://shop.theprettyreckless.com/products/dear-god-zip-hoodie): 80% cotton, 20% recycled polyester full zip hoodie in black; made with 3-end fleece for a heavyweight construction. Features a logo print on the front and a photo print on the back.
-  Updated: 2026-10-08T16:29:34Z
+  Updated: 2026-11-03T17:28:00Z
   Vendor: The Pretty Reckless
   Product Type: Zip Hoodie
   Availability: Available
@@ -238,14 +238,14 @@
     Availability: Not Available
     Price: $75.00 USD
 - [Dear God - Exclusive Gold Vinyl](https://shop.theprettyreckless.com/products/dear-god-webstore-exclusive-gold-vinyl): The Pretty Reckless’ 5th studio album again provides the captivating vocals and high-powered musical prowess fans have loved for over a decade. In an emotional message to a higher power Dear God delivers raw candor and fearlessness. From the sinister “For I Am Death” to the vulnerable yet hopeful “When I Wake Up” listeners are sure to go on a rollercoaster of emotions. This edition is pressed on gold-colored vinyl and is exclusive to The Pretty Reckless' artist webstore and tour dates. Track Listing Life Evermore Pt. 2 For I Am Death When I Wake Up Love Me Dragonfire Dear God Life Evermore Pt. 3 About You Spell on You Rollercoaster of Life Eye of the Storm Devil in Disguise (Michelle's Song) Dark Days Life Evermore Pt. 1 Release Date: June 26, 2026
-  Updated: 2026-10-26T21:49:02Z
+  Updated: 2026-11-06T07:47:06Z
   Vendor: The Pretty Reckless
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPRDearGodVinyl1.png?v=1787258151
   Price: $35.00 USD
 - [Something Wrong Zip Hoodie](https://shop.theprettyreckless.com/products/something-wrong-zip-hoodie): 80% cotton, 20% recycled polyester full zip hoodie in black; made with 3-end fleece for a heavyweight construction. Features a lyric print on the front and a photo print on the back.
-  Updated: 2026-10-27T22:14:42Z
+  Updated: 2026-11-03T21:58:21Z
   Vendor: The Pretty Reckless
   Product Type: Zip Hoodie
   Availability: Available
@@ -269,7 +269,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Dear God Live Tour Tee](https://shop.theprettyreckless.com/products/dear-god-live-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-10-29T06:27:16Z
+  Updated: 2026-11-06T13:59:08Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -293,7 +293,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dear God Portrait Tour Tee](https://shop.theprettyreckless.com/products/dear-god-portrait-tour-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in pepper; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front and tour dates on the back.
-  Updated: 2026-10-30T10:43:59Z
+  Updated: 2026-11-06T13:59:06Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -317,7 +317,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Dear God Cover Tee](https://shop.theprettyreckless.com/products/dear-god-cover-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in ivory; garment-dyed and pre-shrunk for a lived-in feel. Features a photo print on the front.
-  Updated: 2026-10-23T20:25:47Z
+  Updated: 2026-11-05T06:30:06Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -341,7 +341,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Statue Tee](https://shop.theprettyreckless.com/products/statue-tee): 100% ringspun heavyweight cotton, Comfort Colors t-shirt in black; garment-dyed and pre-shrunk for a lived-in feel. Features a statue design on the front.
-  Updated: 2026-10-19T11:43:56Z
+  Updated: 2026-11-06T22:46:26Z
   Vendor: The Pretty Reckless
   Product Type: T-Shirt
   Availability: Available
@@ -365,14 +365,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Logo Keychain](https://shop.theprettyreckless.com/products/logo-keychain): Metal keychain in a silver color
-  Updated: 2026-10-26T15:48:37Z
+  Updated: 2026-11-06T16:56:57Z
   Vendor: The Pretty Reckless
   Product Type: Keychain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0673/7680/7980/files/TPR_Logo_Keychain.png?v=1790963021
   Price: $10.00 USD
 - [Doin' Fine Tote](https://shop.theprettyreckless.com/products/doin-fine-tote): 100% cotton tote bag in black with lyric print on one side
-  Updated: 2026-10-17T20:25:25Z
+  Updated: 2026-11-05T06:29:56Z
   Vendor: The Pretty Reckless
   Product Type: Tote
   Availability: Available
@@ -382,37 +382,37 @@
 ## Collections
 
 - [All Products](https://shop.theprettyreckless.com/collections/frontpage)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 42
 - [Apparel](https://shop.theprettyreckless.com/collections/apparel)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 27
 - [Accessories](https://shop.theprettyreckless.com/collections/accessories)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-05T12:13:28Z
   Total Products: 12
 - [All](https://shop.theprettyreckless.com/collections/all)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 42
 - [Music](https://shop.theprettyreckless.com/collections/music)
-  Updated: 2026-10-27T11:16:41Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 3
 - [For I Am Death](https://shop.theprettyreckless.com/collections/for-i-am-death)
   Updated: 2026-08-17T11:19:02Z
   Total Products: 2
 - [Buried in '16](https://shop.theprettyreckless.com/collections/buried-in-16)
-  Updated: 2026-10-20T11:15:03Z
+  Updated: 2026-11-04T12:12:55Z
   Total Products: 9
 - [Pretty Reckless Christmas](https://shop.theprettyreckless.com/collections/pretty-reckless-christmas)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-04T12:12:55Z
   Total Products: 7
 - [Tour Tees](https://shop.theprettyreckless.com/collections/tour-tees)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 7
 - [Dear God](https://shop.theprettyreckless.com/collections/dear-god)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 16
 - [Dear God Tour Merch](https://shop.theprettyreckless.com/collections/dear-god-tour-merch)
-  Updated: 2026-10-29T11:15:42Z
+  Updated: 2026-11-06T12:15:46Z
   Total Products: 8
 
 ## Store Pages
