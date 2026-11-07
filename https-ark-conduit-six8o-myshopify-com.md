@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-07T23:53:39Z
 - Contact Email: rahmaanherman@gmail.com
-- Updated At: 2026-10-30T01:14:31.429Z
+- Updated At: 2026-11-07T01:00:22.459Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/image.png?v=1789038470
   Price: $4.99 USD
 - [SYB Phone Pouch](https://ark-conduit-six8o.myshopify.com/products/syb-phone-pouch): The SYB Phone Pouch Makes it Safer to Carry Your Phone. Made with SaferBody™. Laboratory tested for 5G, up to 20 GHz– and low frequency EMF– to Shield Your Body from up to 99% of harmful radiation. Deflects up to 99.9% of wireless EMF radiation from your iPhone or Android away from your body. Conveniently carry your cell phone on your belt or in your pocket. Shields on one side only – the rear of the Pouch – to Shield Your Body from EMF radiation, without interfering with your phone’s signal or battery life. Made from 3mm thick neoprene. The rear is lined with a polyester fabric woven with a nickel/cobalt alloy to shield EMF. Comes in multiple sizes & colors. XL: 4.25" wide x 7" tall (10.8 x 18 cm) for phones up to 3.25" / 8.3 cm wide. FITS VIRTUALLY ALL PHONES XXL: 4.33" wide x 7.5" tall (11 x 19 cm). FOR PHONES WITH LARGE CASES (e.g., Otterbox Defender). Available only in black. Have a bigger phone? Or want to carry more stuff? Check out the SYB Pouch Deluxe! CARE: Do NOT wash, bleach, tumble dry, or dry clean. To clean, just take a damp cloth, rag or sponge and wipe it down (with or without soap) and let dry. This SYB product is shipped by Shield Your Body from the USA
-  Updated: 2026-10-29T19:41:37Z
+  Updated: 2026-11-06T02:30:25Z
   Vendor: Shield Your Body
   Product Type: Mobile Phone Accessories
   Availability: Available
@@ -59,7 +59,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/Red_Pouch_w_Phone_1000x1000_20170601.jpg?v=1789246990
     Price: $25.48 USD
 - [SYB Sling Bag](https://ark-conduit-six8o.myshopify.com/products/syb-sling-bag): The SYB Sling Bag Makes it Safer to Carry Your Stuff. Made with SaferBody™. Laboratory tested for 5G, up to 20 GHz– and low frequency EMF– to Shield Your Body from up to 99% of harmful radiation. Deflects up to 99.9% of wireless EMF radiation from your cell phone away from your body. Conveniently carry your cell phone, smart phone, tablet– any of your portable devices that are up to 10" x 7" in size. Shields on one side only – the rear of the bag – to Shield Your Body from EMF radiation, without interfering with your device signal or battery life. Includes two clips, so can be worn over either shoulder, with adjustable-length strap. Has 3 compartments to carry lots of stuff. Made from 100% polyester. The rear is lined with a polyester fabric woven with a nickel/cobalt alloy to shield EMF. Main Compartment Size: Height: 11" (28 cm) Width: 7.9" (20 cm) Depth Capacity: 3.5" (9 cm) CARE: Do NOT wash, bleach, tumble dry, or dry clean. To clean, just take a damp cloth, rag or sponge and wipe it down (with or without soap) and let dry. This SYB product is shipped by Shield Your Body from the USA
-  Updated: 2026-10-24T08:34:09Z
+  Updated: 2026-11-05T17:52:51Z
   Vendor: Shield Your Body
   Product Type: Backpacks
   Availability: Available
@@ -147,7 +147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/CC51287.jpg?v=1789247177
     Price: $26.60 USD
 - [Boned Corset Top Side Pleated Long Dress NXY1484](https://ark-conduit-six8o.myshopify.com/products/boned-corset-top-side-pleated-long-dress-nxy1484): THIS ELEGANT LONG PROM DRESS IS CRAFTED FROM A LUXURIOUS STRETCH SATIN FABRIC THAT BEAUTIFULLY SKIMS THE FIGURE. THE DRESS BOASTS A FLATTERING V-NECKLINE, ACCENTUATED BY DELICATE SPAGHETTI STRAPS THAT CREATE A FEMININE, SLEEVELESS LOOK. THE WAISTLINE IS SUBTLY BONED TO CREATE A DEFINED, STRUCTURED SILHOUETTE. A HIGH SLIT UP THE LEG ADDS A TOUCH OF ALLURE AND DRAMA TO THE SKIRT. THE DRESS FEATURES A STRAIGHT ZIPPER CLOSURE AT THE BACK, PROVIDING A SLEEK, STREAMLINED FINISH. THIS SIMPLE YET STUNNING STRETCH SATIN PROM DRESS WITH A V-NECKLINE, SPAGHETTI STRAPS, BONED WAISTLINE, HIGH SLIT, AND STRAIGHT ZIPPER BACK IS A TIMELESS AND ELEGANT CHOICE FOR ANY FORMAL OCCASION. STRETCH SATIN MATERIAL
-  Updated: 2026-10-24T08:34:24Z
+  Updated: 2026-10-30T08:02:51Z
   Vendor: NXAB
   Product Type: All Dresses
   Availability: Available
@@ -180,10 +180,10 @@
     Availability: Available
     Price: $61.54 USD
   - [16 / DUSTY LAVENDER](https://ark-conduit-six8o.myshopify.com/products/boned-corset-top-side-pleated-long-dress-nxy1484?variant=49124653203641)
-    Availability: Available
+    Availability: Not Available
     Price: $61.54 USD
 - [Thin Clear Bra Straps](https://ark-conduit-six8o.myshopify.com/products/thin-clear-bra-straps): Enhance your wardrobe with our Thin Clear Bra Straps, designed to offer discreet support and versatility. These clear straps are ideal for providing a nearly invisible look under clothing while ensuring your bra stays securely in place. Perfect for a variety of outfits, they blend seamlessly with any style. Key Features: - Fabric: Made from high-quality, transparent materials for a discreet appearance - Fit: One-size design that adjusts to fit most bras comfortably - Color Options: Clear - Design: Thin and unobtrusive straps that offer support without visibility - Versatile Styling: Ideal for use with strapless or backless outfits, or any bra where invisible straps are desired Product Details: - Comfortable All-Day Wear: Designed to provide secure support without compromising comfort - Quality Craftsmanship: Constructed with durable materials to ensure long-lasting use - Care Instructions: Wipe clean with a damp cloth or mild soap to maintain clarity and functionality Why Choose Thin Clear Bra Straps These straps offer a discreet solution for bras that need to remain invisible under your clothing. Their thin design ensures they do not detract from your outfit, while the clear material provides a seamless look. Ideal Occasions: Great for everyday wear, formal events, or any occasion where invisible support is needed. Customer Reviews: - Emily R.: “These clear straps are perfect for my strapless tops. They are barely noticeable and stay in place.” - Jessica L.: “I love how discreet these straps are. They work well with all my bras and outfits.” - Amanda K.: “The thin design is fantastic. They offer great support without showing through.” Size Guide: One size fits most. For detailed sizing guidance, please review our size chart available on the website. Shipping and Returns: - Fast Shipping: We offer speedy delivery to your doorstep. - Hassle-Free Returns: If you're not completely satisfied, our flexible return policy ensures your peace of mind. Add our Thin Clear Bra Straps to your cart now and enjoy the perfect blend of support and invisibility with every outfit! Thin Clear Bra Straps
-  Updated: 2026-10-24T21:48:46Z
+  Updated: 2026-11-01T21:47:40Z
   Vendor: Best U Line
   Product Type: n/a
   Availability: Available
@@ -582,7 +582,7 @@
     Availability: Not Available
     Price: $27.62 USD
 - [Team 365 TT31HY Youth Zone Sonic Heather Performance Quarter-Zip Pullover](https://ark-conduit-six8o.myshopify.com/products/team-365-tt31hy-youth-zone-sonic-heather-performance-quarter-zip-pullover): This youth performance quarter-zip pullover is designed for active kids. Featuring moisture-wicking fabric to keep them dry and comfortable, along with UPF 15-39 sun protection. The vibrant sonic heather interlock material maintains its color thanks to cationic dyes. 3.5 oz./yd² (US), 5.8 oz./L yd (CA), 100% polyester sonic heather interlock Team fit Cationic dyes for superior brightness and color fastness Moisture wicking performance pulls sweat away from the skin to keep you dry and comfortable UPF 15-39 Center front coil zipper with semi auto-lock slider and rubber pull Transitioning from heat-seal label to tear away label Responsible Supplier: this product was made in a facility that is FLA .Keep young athletes comfortable and stylish with this youth sonic heather performance quarter-zip pullover. Crafted from 100% polyester sonic heather interlock, it boasts moisture-wicking properties to pull sweat away from the skin, ensuring dryness during activities. Cationic dyes provide superior brightness and color fastness, while UPF 15-39 offers sun protection. The team fit and semi auto-lock zipper make it ideal for sports and everyday wear. Moisture-wicking fabric keeps young athletes dry and comfortable Superior color fastness ensures vibrant, lasting hues UPF 15-39 protection against sun's harmful rays Center front coil zipper with semi auto-lock slider Team fit designed for active youth
-  Updated: 2026-10-29T22:18:06Z
+  Updated: 2026-11-06T22:17:21Z
   Vendor: Team 365
   Product Type: Knits
   Availability: Available
@@ -764,7 +764,7 @@
     Availability: Not Available
     Price: $82.52 USD
 - [FITTED STRETCH SATIN GOWN  CDCD349C](https://ark-conduit-six8o.myshopify.com/products/fitted-stretch-satin-gown-cdcd349c): Fitted Stretch Sweetheart Side Slit Satin Plus Size Long Evening Dress Emphasize your figure in this snug satin gown, a breathtaking attire crafted to highlight your inherent charm. The sequined sweetheart neckline exudes a touch of grandeur, bringing focus to your neck and shoulders with panache and refinement. Revel in the skillful gathering of the bodice and waist, tailored for optimum enhancement and exaltation of your curves. A side slit, embellished with a satin belt overlay, reveals a subtle glimpse of skin and graceful movement. Delicate straps offer both comfort and style, leading to a lace-up corset back for a personalized fit. This dress is more than just an ensemble; it's a celebration of your self-assurance, embracing every contour with grace and sophistication. Step into the limelight, where your beauty shines bright, and let this dress be the canvas for your radiant presence. 100% PolyesterColor: Black; Blue; Eggplant; Hot Pink Length: Long Neckline: Sweetheart Back: Open Corset Back Sleeve: Sleeveless; Spaghetti Straps
-  Updated: 2026-10-29T20:03:05Z
+  Updated: 2026-11-05T20:02:53Z
   Vendor: CIND
   Product Type: Evening Dress
   Availability: Available
@@ -1001,7 +1001,7 @@
     Availability: Available
     Price: $194.41 USD
 - [Sequin Asymmetric Velvet Festive Mermaid Gown w/ One Long Puff Sleeve  GLGL3159](https://ark-conduit-six8o.myshopify.com/products/sequin-asymmetric-velvet-festive-mermaid-gown-w-one-long-puff-sleeve-glgl3159): This opulent velvet sheath gown captures the essence of midnight glamour, featuring a sophisticated single-sleeve design and a classic high neckline that exudes modern red-carpet confidence. The plush, high-quality velvet fabrication is masterfully elevated by intricate sequin embroidery that catches the light with every movement, creating a luxurious and textured finish. Complete with a daring leg slit and a streamlined zip back, this floor-length masterpiece is the ultimate choice for a winter gala, holiday formal, or any high-profile evening event where effortless elegance is required. Fabric: Velvet Length: Long Silhouette: Sheath Neckline: High neck Sleeve: Single sleeve Back: Zip Skirt: Leg Slit Features: Sequin embroidery SMCFashion Special Occasion Dresses
-  Updated: 2026-10-24T08:34:22Z
+  Updated: 2026-11-04T08:02:51Z
   Vendor: GLSC
   Product Type: Evening Dress
   Availability: Available
@@ -1031,7 +1031,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/gl3159-black-1-long-prom-pageant-mother-of-bride-gala-red-carpet-new-arrivals-velvet-sequin-open-zipper-one-shoulder-asymmetric-mermaid_67fb3971-973b-4502-a83c-228fcdaf276f.jpg?v=1789247178
     Price: $96.50 USD
   - [4XL / BLACK](https://ark-conduit-six8o.myshopify.com/products/sequin-asymmetric-velvet-festive-mermaid-gown-w-one-long-puff-sleeve-glgl3159?variant=49124658970809)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/gl3159-black-1-long-prom-pageant-mother-of-bride-gala-red-carpet-new-arrivals-velvet-sequin-open-zipper-one-shoulder-asymmetric-mermaid_67fb3971-973b-4502-a83c-228fcdaf276f.jpg?v=1789247178
     Price: $96.50 USD
   - [S / GOLD](https://ark-conduit-six8o.myshopify.com/products/sequin-asymmetric-velvet-festive-mermaid-gown-w-one-long-puff-sleeve-glgl3159?variant=49124659003577)
@@ -1147,7 +1147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/gl3159-wine-1-long-prom-pageant-mother-of-bride-gala-red-carpet-new-arrivals-velvet-sequin-open-zipper-one-shoulder-asymmetric-mermaid_36a85936-4362-44b0-935b-e750dfc7525f.jpg?v=1789247200
     Price: $96.50 USD
 - [NWT FORMAL SLEEVELESS SHEATH SOLID SATIN DRESS W/ HALTER NECK & HIGH LEG SLIT CDCH031](https://ark-conduit-six8o.myshopify.com/products/nwt-formal-sleeveless-sheath-solid-satin-dress-w-halter-neck-high-leg-slit-cdch031): Halter Satin Fitted Open Back Side Slit Long Evening Dress Enhance your evening elegance with our exquisite satin dress, a timeless masterpiece of sophistication. With a halter neckline that exudes poise and grace, this dress frames your shoulders with subtle allure. The gathered waistline adds definition to your silhouette, flattering with its chic simplicity. As you move, the leg slit offers a hint of allure, elevating your every step. The dress's open back detail adds to its refined allure, revealing just enough skin while maintaining an air of sophistication. Meticulously crafted, this dress is the epitome of elegance, perfect for upscale occasions where you want to make a statement. Embrace effortless refinement and captivate attention in this stunning ensemble, blending modern style with classic charm. 100% Polyester Color: Black; Burgundy; Deep Emerald; Dusty Rose; Eggplant; Silver; Smoky Blue Length: Long Neckline: Halter Back: Open Back Sleeve: Sleeveless
-  Updated: 2026-10-29T20:02:57Z
+  Updated: 2026-10-31T16:02:51Z
   Vendor: CIND
   Product Type: Evening Dress
   Availability: Available
@@ -1331,7 +1331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/ch031_eggplant-dustyrose_1_38168c46-668b-48f0-8ac2-f91cc899fdfb.jpg?v=1789247190
     Price: $69.58 USD
 - [Sequins Embellished Long Graduation Gown w/ Corset Bodice & Side Drape CDCDS565](https://ark-conduit-six8o.myshopify.com/products/sequins-embellished-long-graduation-gown-w-corset-bodice-side-drape-cdcds565): This stunning fitted gown commands attention with its sweetheart neckline and intricately beaded bodice that catches light beautifully. Sequined appliqués cascade over sheer illusion panels, while the luxurious satin skirt flows into an elegant floor-length train. A daring thigh-high slit features embellished mesh detailing for contemporary flair. The structured bodice provides figure-flattering support and draping. Perfect for prom, pageants, galas, and formal celebrations. Fabric: Satin Length: Long Silhouette: Sheath Neckline: Sweetheart Sleeve: Sleeveless, strapless Back: Zip Skirt: Illusion leg slit, side drape Features Features: Rhinestones, sheer corset bodice SMCFashion Special Occasion Dresses
-  Updated: 2026-10-29T16:03:14Z
+  Updated: 2026-11-06T12:02:46Z
   Vendor: CIND
   Product Type: Evening Dress
   Availability: Available
@@ -1513,7 +1513,7 @@
     Availability: Not Available
     Price: $104.90 USD
 - [STRAPLESS STRETCH SATIN FITTED GOWN CDCD791](https://ark-conduit-six8o.myshopify.com/products/strapless-stretch-satin-fitted-gown-cdcd791): Make a striking impression as a bridesmaid in this daring satin gown that refuses to fade into the background. The sleek sheath silhouette hugs your curves with confidence, while the sweetheart neckline offers timeless sophistication. A gathered waistline creates flattering definition and movement, drawing attention exactly where you want it. The floor-length design features a bold leg slit for dynamic styling, and the lace-up back closure adds an edgy, modern twist. Sleeveless and strapless, this dress lets your natural beauty shine while making an unforgettable statement. Fabric: Satin Length: Long Neckline: Sweetheart Silhouette: Sheath Sleeve: Sleeveless Back: Lace up Skirt: Leg slit Features: Gathered waistline SMCFashion Special Occasion Dresses
-  Updated: 2026-10-29T08:04:31Z
+  Updated: 2026-11-06T20:02:58Z
   Vendor: CIND
   Product Type: Bridesmaid
   Availability: Available
@@ -1719,7 +1719,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/cd791_dusty-rose_front_d66bcff6-5cf9-40c2-9896-12a15b033e26.jpg?v=1789247208
     Price: $76.57 USD
 - [Colorful Butterfly Teacher Crewneck Sweatshirt | Cute Butterfly Floral Teacher Sweatshirt | Teacher Appreciation Gift | Back to School | Unisex S-5XL](https://ark-conduit-six8o.myshopify.com/products/colorful-butterfly-teacher-crewneck-sweatshirt-cute-butterfly-floral-teacher-sweatshirt-teacher-appreciation-gift-back-to-school-unisex-s-5xl): Colorful Teacher Graphic Crewneck Sweatshirt Brighten your classroom and your wardrobe with our Colorful Teacher Graphic Crewneck Sweatshirt! Featuring bold patchwork-style lettering, vibrant butterflies, florals, books, bows, and school-inspired accents, this eye-catching design is perfect for teachers who bring creativity, kindness, and joy to every lesson. Made for long school days, classroom celebrations, and cozy weekends, this ultra-soft crewneck combines comfort with colorful style. Whether you're welcoming students on the first day of school or celebrating Teacher Appreciation Week, this sweatshirt is sure to become a favorite. Each sweatshirt is professionally printed in-house by ST Designs and made to order with inclusive sizing from Small–5XL. Features 🍎 Soft, cozy unisex crewneck sweatshirt 🦋 Vibrant patchwork teacher graphic with butterflies, bows, books, and florals ✨ Professionally printed in-house by ST Designs 👕 Available in sizes Small–5XL ❤️ Classic relaxed fit for all-day comfort 🎁 A thoughtful gift for teachers and educators Perfect For Teacher Appreciation Week Back-to-School First Day of School Meet the Teacher Night Classroom Wear Preschool Teachers Kindergarten Teachers Elementary Teachers Middle & High School Teachers Homeschool Educators Christmas, Birthday & End-of-Year Teacher Gifts Sweatshirt Details Premium unisex fit Soft 50/50 cotton/poly fleece blend Warm, cozy interior Ribbed cuffs and waistband True-to-size fit (size up for an oversized look) Printed with care in Wisconsin by ST Designs Care Instructions Machine wash cold, inside out Tumble dry low Do not bleach Do not iron directly on the printed design Every sweatshirt is made to order with care, ensuring a vibrant, high-quality piece you'll love wearing throughout the school year.
-  Updated: 2026-10-30T00:19:46Z
+  Updated: 2026-11-04T00:19:31Z
   Vendor: ST Designs Store
   Product Type: n/a
   Availability: Available
@@ -2155,7 +2155,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/ec4b611e-a3d6-4478-bcb1-c2f053a1e9d9-Max.jpg?v=1789247368
     Price: $20.41 USD
 - [Independent  Co. EXP100PFZ Men's Puffer Jacket](https://ark-conduit-six8o.myshopify.com/products/independent--co-exp100pfz-mens-puffer-jacket): Stay warm and protected with this men's puffer jacket. Featuring a durable nylon shell, hyper-loft insulation, and wind- and water-resistant properties, it's perfect for various weather conditions. The packable design adds convenience for on-the-go wear. 100% nylon exterior shell 100% polyester lining, 60 gm hyper-loft poly fill insulation Wind- and water-resistant #5 reverse coil zippers at chest and pockets Packable pocket with #3 reverse coil zipper Capped elastic sleeve cuffs Locker loop at wearer's back neck Plastic cinche toggle at wearer's right side waist Chest pocket for concealed embroidery access Tear away label This men's puffer jacket is engineered for warmth and protection against the elements. Its 100% nylon exterior shell and hyper-loft poly fill insulation provide excellent defense against cold and wind. The wind- and water-resistant fabric ensures you stay dry, while the packable pocket offers practical storage. Designed with capped elastic sleeve cuffs and a locker loop for added comfort and utility. 100% nylon exterior shell for durability Wind and water-resistant for protection Hyper-loft poly fill insulation for warmth Packable pocket for convenient storage Capped elastic sleeve cuffs for comfort Concealed embroidery access on chest pocket Tear away label for easy rebranding
-  Updated: 2026-10-29T22:17:46Z
+  Updated: 2026-11-06T22:17:26Z
   Vendor: Independent  Co.
   Product Type: Outerwear
   Availability: Available
@@ -2236,7 +2236,7 @@
     Image: https://cdn.shopify.com/s/files/1/0796/0533/4201/files/723cf271-2876-462e-a240-651583ed4957-Min.jpg?v=1789247369
     Price: $63.89 USD
 - [JERZEES 21MR Unisex Dri-Power® Performance T-Shirt](https://ark-conduit-six8o.myshopify.com/products/jerzees-21mr-unisex-dri-power-performance-t-shirt): Experience ultimate comfort and performance with this moisture-wicking t-shirt. Designed with odor control and a soft, cotton-like feel, it's perfect for active wear or custom printing. 5.3 oz./yd², 100% polyester Cotton feel Ideal for sublimation printing Moisture-management and odor control properties 1x1 ribbed collar Double-needle stitched front neck, sleeves and bottom hem Shoulder-to-shoulder taping Quarter-turned Tear away label This performance t-shirt combines comfort with advanced features. Crafted from 100% polyester with a soft, cotton-like feel, it offers superior moisture management and odor control to keep you fresh. Its durable construction includes double-needle stitching, making it ideal for everyday wear or as a base for vibrant sublimation printing. Moisture-wicking fabric keeps you dry and comfortable Odor control properties maintain freshness all day Soft, cotton-like feel for enhanced comfort Ideal for vibrant sublimation printing Durable double-needle stitching for lasting wear
-  Updated: 2026-10-29T22:18:06Z
+  Updated: 2026-11-06T22:17:21Z
   Vendor: JERZEES
   Product Type: T-Shirts
   Availability: Available
@@ -2382,7 +2382,7 @@
   Updated: 2026-09-17T00:43:10Z
   Total Products: 2
 - [APEX TOP 2000](https://ark-conduit-six8o.myshopify.com/collections/apex-top-2000): Shop the strongest real products in the APEX catalog, with new eligible products added as they become available.
-  Updated: 2026-10-30T00:19:47Z
+  Updated: 2026-11-02T22:17:30Z
   Total Products: 60
 - [Botanical Rituals for Hair](https://ark-conduit-six8o.myshopify.com/collections/botanical-rituals-for-hair): Elevate your routine with our muted earth palette, tranquil mood, and raw stone material language haircare essentials.
   Updated: 2026-10-09T16:25:45Z
@@ -2406,7 +2406,7 @@
   Updated: 2026-10-29T12:04:30Z
   Total Products: 12
 - [Women's Fashion](https://ark-conduit-six8o.myshopify.com/collections/womens-fashion): Tops, blouses, casual dresses, jeans, shorts, sweaters, and everyday style for women.
-  Updated: 2026-10-29T21:47:37Z
+  Updated: 2026-11-06T15:17:12Z
   Total Products: 30
 - [Activewear & Performance](https://ark-conduit-six8o.myshopify.com/collections/activewear-performance): Performance tees, athletic wear, sports bras, active shorts, and activewear built to move.
   Updated: 2026-10-24T21:48:28Z
@@ -2429,6 +2429,24 @@
 - [SLIKK INTIMATES](https://ark-conduit-six8o.myshopify.com/collections/slikk-intimates-1): Welcome to SLIKK INTIMATES™, a dedicated department for adults to explore intimate essentials at their own pace. Discover personal massagers,  toys, couples accessories, and lingerie in one thoughtfully organized space. WE bring together intimate essentials,  toys, personal massagers, couples accessories, and lingerie for a variety of preferences and experiences. From everyday favorites to niche finds, explore what speaks to your desires, curiosity, and comfort.
   Updated: 2026-10-15T15:20:23Z
   Total Products: 0
+- [XO After Dark](https://ark-conduit-six8o.myshopify.com/collections/xo-after-dark)
+  Updated: 2026-11-06T08:39:55Z
+  Total Products: 7
+- [Flora Plug](https://ark-conduit-six8o.myshopify.com/collections/flora-plug)
+  Updated: 2026-11-06T07:35:37Z
+  Total Products: 0
+- [Seasonal](https://ark-conduit-six8o.myshopify.com/collections/seasonal)
+  Updated: 2026-11-06T08:40:05Z
+  Total Products: 9
+- [Trades](https://ark-conduit-six8o.myshopify.com/collections/trades)
+  Updated: 2026-11-06T08:39:25Z
+  Total Products: 1
+- [XO Beauty](https://ark-conduit-six8o.myshopify.com/collections/beauty-xo-beauty)
+  Updated: 2026-11-06T08:39:43Z
+  Total Products: 9
+- [Automotive](https://ark-conduit-six8o.myshopify.com/collections/cars-auto)
+  Updated: 2026-11-06T08:40:09Z
+  Total Products: 8
 
 ## Store Pages
 
@@ -2440,11 +2458,11 @@
 ## Policies
 
 - [Privacy Policy](https://ark-conduit-six8o.myshopify.com/policies/privacy-policy)
-  Updated: 2026-06-07T23:53:50Z
+  Updated: 2026-11-01T04:19:48Z
 - [Shipping Policy](https://ark-conduit-six8o.myshopify.com/policies/shipping-policy)
   Updated: 2026-10-24T08:32:37Z
 - [Refund Policy](https://ark-conduit-six8o.myshopify.com/policies/refund-policy)
-  Updated: 2026-10-18T00:59:26Z
+  Updated: 2026-11-01T18:28:20Z
 - [Terms of Service](https://ark-conduit-six8o.myshopify.com/policies/terms-of-service)
   Updated: 2026-10-18T00:59:33Z
 - [Contact Information](https://ark-conduit-six8o.myshopify.com/policies/contact-information)
