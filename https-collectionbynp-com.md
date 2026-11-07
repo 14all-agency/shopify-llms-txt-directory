@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-10-31T00:38:24.456Z
+- Updated At: 2026-11-07T00:43:52.204Z
 
 ## Products
 
@@ -106,7 +106,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/AriaSide2.jpg?v=1777989791
     Price: $225.00 USD
 - [Discover the Dex Beanie | Percacciolo Collection](https://collectionbynp.com/products/dex-beanie): Discover the Dex Beanie from Percacciolo Collection.
-  Updated: 2026-10-18T03:52:37Z
+  Updated: 2026-11-02T16:20:26Z
   Vendor: PERCACCIOLO COLLECTION
   Product Type: Beanies
   Availability: Available
