@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-03-17T20:12:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-30T01:28:23.948Z
+- Updated At: 2026-11-07T01:08:14.670Z
 
 ## Products
 
@@ -142,7 +142,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/162491_7_299772_d.png?v=1744062601
     Price: $30.00 USD
 - [Deco Tour Tee](https://us.hzlivestore.com/products/deco-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-12T14:58:27Z
+  Updated: 2026-10-30T04:54:46Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -166,7 +166,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
 - [Logo Tour Tee](https://us.hzlivestore.com/products/white-logo-tour-t-shirt-black-zim): 100% combed cotton t-shirt in Black Size Guide Size Body Length (in) Chest Width (in) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-25T03:48:46Z
+  Updated: 2026-10-30T04:54:46Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -317,7 +317,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/KOOZIE.png?v=1742418954
   Price: $4.00 USD
 - [Logo Tote Bag](https://us.hzlivestore.com/products/logo-tote-bag-black-zim): 100% cotton tote bag in Black
-  Updated: 2026-10-12T14:58:26Z
+  Updated: 2026-10-30T04:54:43Z
   Vendor: Hans Zimmer Live
   Product Type: Tote
   Availability: Available
@@ -459,16 +459,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://us.hzlivestore.com/collections/frontpage)
-  Updated: 2026-10-28T11:20:55Z
+  Updated: 2026-10-30T11:18:53Z
   Total Products: 29
 - [HZL Apparel](https://us.hzlivestore.com/collections/apparel)
-  Updated: 2026-10-28T11:20:55Z
+  Updated: 2026-10-30T11:18:53Z
   Total Products: 5
 - [HZL Accessories](https://us.hzlivestore.com/collections/accessories)
-  Updated: 2026-10-28T11:20:55Z
+  Updated: 2026-10-30T11:18:53Z
   Total Products: 13
 - [All HZL Merch](https://us.hzlivestore.com/collections/all)
-  Updated: 2026-10-28T11:20:55Z
+  Updated: 2026-10-30T11:18:53Z
   Total Products: 18
 - [WOHZ Apparel](https://us.hzlivestore.com/collections/wohz-apparel)
   Updated: 2026-10-13T11:20:05Z
