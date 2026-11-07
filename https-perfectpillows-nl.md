@@ -10,20 +10,20 @@
 - Contact Email: info@perfectpillows.nl
 - Contact Phone: 06-14567151
 - Address: Jarmuiden 30-b, 1046 AD Amsterdam
-- Updated At: 2026-10-31T00:31:41.032Z
+- Updated At: 2026-11-07T00:36:03.627Z
 
 ## Products
 
-- [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Strak gevormd kussen met schuimvulling, stevige afwerking.
-  Updated: 2026-10-30T22:08:01Z
-- [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Strak kussen met één of twee schuine zijden.
-  Updated: 2026-10-29T18:27:57Z
-- [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Schuin gevormd rugkussen strak afgewerkt voor ondersteuning.
-  Updated: 2026-10-30T16:52:15Z
-- [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Zacht kussen met vlokvulling en hogere kern
-  Updated: 2026-10-30T15:26:53Z
-- [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Rond plofkussen met losse vlokvulling, tot 100 cm
-  Updated: 2026-10-29T08:19:02Z
+- [Strak kussen](https://perfectpillows.nl/products/strak-kussen): Kies een strak kussen met schuimvulling en een strakke afwerking van PerfectPillows. Stel jouw kussen op maat samen voor een comfortable zitplek.
+  Updated: 2026-11-06T21:31:41Z
+- [Strak kussen met schuine  kanten](https://perfectpillows.nl/products/strak-kussen-met-schuine-kanten): Een kussen nodig met één of twee schuine zijden? Stel jouw strakke kussen op maat samen bij PerfectPillows, passend bij de vorm van jouw zitplek.
+  Updated: 2026-11-06T19:03:51Z
+- [Rugkussen schuin](https://perfectpillows.nl/products/rugkussen-schuin): Geef je zitplek ondersteuning met een schuin rugkussen van PerfectPillows. Strak afgewerkt en op maat samen te stellen voor jouw bank of zithoek.
+  Updated: 2026-11-06T20:20:28Z
+- [Plof kussen met zijband](https://perfectpillows.nl/products/plof-kussen-met-zijband): Ontdek het plofkussen met zijband van PerfectPillows. Een zacht kussen met vlokvulling, op maat samen te stellen voor jouw zitplek.
+  Updated: 2026-11-06T12:09:23Z
+- [Plof kussen zonder zijband](https://perfectpillows.nl/products/plof-kussen-zonder-zijband): Kies een plofkussen zonder zijband met vlokvulling van PerfectPillows. Stel jouw kussen samen in een formaat tot 100 cm.
+  Updated: 2026-11-06T12:27:31Z
 - [Sunbrella Natté](https://perfectpillows.nl/products/sunbrella-furniture-natte)
   Updated: 2026-10-28T10:31:44Z
 - [Sunbrella Solids](https://perfectpillows.nl/products/sunbrella-furniture-solids)
@@ -73,7 +73,7 @@
 - [Glade Smooth velours | Luxe meubelstof op maat | PerfectPillows](https://perfectpillows.nl/products/glade-smooth): Ontdek Glade Smooth velours met luxe uitstraling en zachte touch. Slijtvast, kleurvast en perfect voor kussens op maat binnen.
   Updated: 2026-10-28T10:31:58Z
 - [Bella Grana stof bij Perfect Pillows](https://perfectpillows.nl/products/bella-grana): Bella Grana. Deze collectie, niet van echt leer te onderscheiden kunstleer, is van zeer hoge kwaliteit. Supersterk en met een hoge slijtvastheid.
-  Updated: 2026-10-28T10:31:59Z
+  Updated: 2026-11-03T12:15:16Z
 - [Cambridge stof bij Perfect Pillows](https://perfectpillows.nl/products/cambridge): Cambridge is de nieuwste ontwikkeling op het gebied van kunstleerproducten. Deze stof is bijna niet van echt leer te onderscheiden.
   Updated: 2026-10-28T10:31:59Z
 - [Capri Stripes bij PerfectPillows](https://perfectpillows.nl/products/capri-stripes): Capri Stripes is een sterke outdoorstof van 100% solution dyed acryl met een zachte chenille structuur. Leverbaar in 13 kleuren.
@@ -82,14 +82,20 @@
   Updated: 2026-10-28T10:32:01Z
 - [Sunbrella Territory](https://perfectpillows.nl/products/sunbrella-territory)
   Updated: 2026-10-28T10:32:01Z
-- [Strak kussen 100 x 50 x 10 cm](https://perfectpillows.nl/products/strak-kussen-100-x-50-x-10-cm): Een strak, rechthoekig kussen met scherpe hoeken en een strakke afwerking. Zonder bies.
-  Updated: 2026-09-30T19:43:17Z
-- [Plof kussen met zijband 60 x 40 cm](https://perfectpillows.nl/products/plof-kussen-met-zijband-60-x-40-x-10-cm): Een zacht plofkussen met zijband voor extra stevigheid. Zonder bies.
-  Updated: 2026-09-30T19:43:17Z
+- [Strak kussen 100 x 50 x 10 cm](https://perfectpillows.nl/products/strak-kussen-100-x-50-x-10-cm): Ontdek het strakke kussen van 100 x 50 x 10 cm bij PerfectPillows. Rechthoekig vormgegeven met scherpe hoeken en een strakke afwerking zonder bies.
+  Updated: 2026-11-01T06:46:17Z
+- [Plof kussen met zijband 60 x 40 cm](https://perfectpillows.nl/products/plof-kussen-met-zijband-60-x-40-x-10-cm): Geef je zithoek een zachte toevoeging met dit plofkussen met zijband van 60 x 40 cm van PerfectPillows.
+  Updated: 2026-11-01T06:43:46Z
 - [Plof kussen zonder zijband 60 x 40 cm](https://perfectpillows.nl/products/plof-kussen-zonder-zijband-60-x-40-x-10-cm): Een zacht plofkussen zonder zijband voor een casual look. Zonder bies.
-  Updated: 2026-09-30T19:43:17Z
+  Updated: 2026-11-01T06:42:53Z
 - [Matras Perfect Basic](https://perfectpillows.nl/products/matras-perfect-basic): Stevig, onderhoudsvrij en betaalbaar matras uit één massief blok. Slijtvast, licht en ideaal voor kinderkamers, logeerbedden en studentenkamers.
   Updated: 2026-09-30T19:43:18Z
+- [Eetkamerbank Welna](https://perfectpillows.nl/products/eetkamerbank-welna): Eetbank Welna a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } De Eetkamerbank Welna is een elegante combinatie van comfort, organisch design en maatwerk. De zachte rondingen, royale zitting en afgeronde rugleuning geven deze bank een uitnodigende uitstraling die perfect past in moderne, Japandi en hotel chique interieurs. Dankzij het vloeiende ontwerp oogt Welna rustig en verfijnd, terwijl de comfortabele rugleuning optimale ondersteuning biedt tijdens lange diners en gezellige avonden aan tafel. De subtiele houten plint aan de onderzijde zorgt voor een luxe afwerking en versterkt het exclusieve karakter van de bank. Maatwerk a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Elke Welna wordt volledig op maat gemaakt in ons eigen atelier. Je bepaalt zelf de vorm, afmetingen, stof en kleur, zodat de bank perfect aansluit bij jouw eettafel en woonruimte. Of je nu kiest voor een compacte eetkamerbank of een royale uitvoering voor het hele gezin, wij maken jouw Welna volledig naar wens. Variatie in kleur en materiaal a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Met honderden hoogwaardige meubelstoffen en kleuren stel je eenvoudig een unieke eetkamerbank samen die perfect aansluit bij jouw interieur. Voor de beste keuze raden wij een bezoek aan onze showroom aan, waar je alle stoffen kunt bekijken, voelen en vergelijken. Waarom kiezen voor de Eetkamerbank Welna? ✔ Volledig op maat gemaakt✔ Organisch design met zachte rondingen✔ Comfortabele afgeronde rugleuning✔ Keuze uit honderden stoffen en kleuren✔ Luxe afwerking met houten plint✔ Ambachtelijk vervaardigd in eigen atelier✔ Geschikt voor moderne, Japandi en hotel chique interieurs Stel jouw ideale Welna samen 1. Kies zelf de vormRecht, hoekopstelling of een volledig maatwerkoplossing. 2. Bepaal de afmetingenWij maken de bank exact op de gewenste lengte, diepte en hoogte. 3. Kies de stof en kleurOntdek honderden mogelijkheden en creëer een eetkamerbank die perfect bij jouw interieur past. Een unieke eetkamerbank voor jouw interieur De Welna is ontworpen voor liefhebbers van comfort en verfijnde vormen. Door het maatwerk en de uitgebreide keuze in stofferingen ontstaat een eetkamerbank die volledig aansluit bij jouw woonwensen. Zo geniet je jarenlang van een unieke eetkamerbank die niet alleen prachtig oogt, maar ook heerlijk zit. Lees in de kennisbank meer over hoe jij de juiste breedte eetbank voor jouw eettafel kiest.
+  Updated: 2026-11-01T08:01:10Z
+- [Eetkamerbank Duno](https://perfectpillows.nl/products/eetkamerbank-duno): Eetbank Duno a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } De Eetkamerbank Duno is een echte blikvanger voor wie op zoek is naar een unieke en stijlvolle eetruimte. De zachte, afgeronde lijnen, het opvallende hoekelement en de luxe verticale stiknaden zorgen voor een moderne uitstraling met een exclusief karakter. Dankzij het doordachte ontwerp biedt Duno niet alleen een bijzonder design, maar ook optimaal zitcomfort voor lange diners en gezellige momenten aan tafel. Maatwerk Elke Duno wordt volledig op maat gemaakt in ons atelier. Kies zelf de gewenste opstelling, afmetingen, stof en kleur zodat de bank perfect aansluit bij jouw interieur en eettafel. Of je nu een compacte hoekbank zoekt voor een knusse eethoek of een royale eetkamerbank voor het hele gezin, wij realiseren een uitvoering die naadloos past bij jouw wensen. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Variatie in kleur en materiaal a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Met honderden stoffen en kleuren om uit te kiezen creëer je een eetkamerbank die volledig aansluit bij jouw persoonlijke stijl. Wij adviseren je graag in onze showroom, waar je de materialen kunt zien, voelen en vergelijken. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Waarom kiezen voor de Eetkamerbank Duno? ✔ Volledig op maat gemaakt✔ Zelf de vorm en opstelling bepalen✔ Beschikbaar in honderden stoffen en kleuren✔ Comfortabele zit voor dagelijks gebruik✔ Luxe afwerking met verticale stiknaden✔ Vervaardigd in eigen atelier✔ Geschikt voor zowel moderne als organische interieurs Stel jouw ideale eetkamerbank samen Kies de gewenste vorm en opstelling Bepaal de exacte afmetingen Kies jouw favoriete stof en kleur Wij vervaardigen de bank volledig op maat De Eetkamerbank Duno combineert elegant design, hoog zitcomfort en onbeperkte maatwerkmogelijkheden in één uniek meubelstuk. Zo creëer je een eetruimte die perfect aansluit bij jouw woning én levensstijl. Lees in de kennisbank meer over hoe jij de juiste breedte eetbank voor jouw eettafel kiest.
+  Updated: 2026-11-01T09:16:02Z
+- [Eetkamerbank Junne](https://perfectpillows.nl/products/eetkamerbank-junne): Eetbank Junne a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } De Eetkamerbank Junne is een stijlvolle eyecatcher waarin organische vormen, comfort en vakmanschap samenkomen. De vloeiende hoekopstelling, afgeronde zitting en elegante rugleuning geven de bank een zachte en uitnodigende uitstraling. In combinatie met de karakteristieke houten lattenbasis ontstaat een uniek ontwerp dat direct opvalt in iedere eetkamer. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Junne is ontworpen voor mensen die op zoek zijn naar iets bijzonders. De afgeronde lijnen zorgen voor een speels en modern karakter, terwijl de doorlopende rugleuning optimale ondersteuning biedt tijdens lange avonden aan tafel. Dankzij de royale zitruimte is deze bank niet alleen mooi om te zien, maar ook heerlijk comfortabel in gebruik. Maatwerk a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Iedere Junne wordt volledig op maat gemaakt in ons eigen atelier. Hierdoor kun je de eetkamerbank exact afstemmen op jouw ruimte, eettafel en persoonlijke woonstijl. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Variatie in kleur en materiaal a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Met honderden stoffen en kleuren om uit te kiezen creëer je een eetkamerbank die volledig aansluit bij jouw persoonlijke stijl. Wij adviseren je graag in onze showroom, waar je de materialen kunt zien, voelen en vergelijken. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Waarom kiezen voor de Eetkamerbank Junne? a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } ✔ Volledig op maat gemaakt✔ Organisch hoekdesign met zachte lijnen✔ Luxe houten lattenbasis✔ Comfortabele rugleuning rondom✔ Verkrijgbaar in honderden stoffen en kleuren✔ Ambachtelijk vervaardigd in eigen atelier✔ Geschikt voor moderne, Japandi en hotel chique interieurs Stel jouw ideale eetkamerbank samen a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Bij PerfectPillows wordt iedere Junne speciaal voor jou gemaakt. Je kiest zelf: De exacte afmetingen De gewenste opstelling De stof en kleur De afwerking van de houten lattenbasis Met honderden meubelstoffen in onze showroom zijn de mogelijkheden vrijwel eindeloos. Wij adviseren je graag bij het maken van de perfecte combinatie van stof, kleur en afwerking. a { text-decoration: none; color: #464feb; } tr th, tr td { border: 1px solid #e6e6e6; } tr th { background-color: #f5f5f5; } Elke Junne wordt met zorg geproduceerd in ons eigen atelier in Nederland. Door te werken met hoogwaardige materialen en jarenlange ervaring in maatwerk ben je verzekerd van een eetkamerbank die niet alleen prachtig oogt, maar ook jarenlang comfortabel blijft. Lees in de kennisbank meer over hoe jij de juiste breedte eetbank voor jouw eettafel kiest.
+  Updated: 2026-11-01T10:01:43Z
 
 ## Collections
 
@@ -115,32 +121,38 @@
   Updated: 2026-09-30T19:43:11Z
   Total Products: 3
 - [Alle producten](https://perfectpillows.nl/collections/all): Ontdek al onze kussens op maat en stel eenvoudig jouw ideale kussen samen. Voor binnen en buiten, perfect passend en binnen 7 dagen geleverd.
-  Updated: 2026-10-26T10:20:06Z
+  Updated: 2026-11-05T12:28:20Z
   Total Products: 5
-- [Matrassen](https://perfectpillows.nl/collections/matrassen)
-  Updated: 2026-09-30T19:43:11Z
+- [Matrassen](https://perfectpillows.nl/collections/matrassen): Ontdek de matrassen van PerfectPillows en vind een oplossing die past bij jouw slaapwensen. Laat je adviseren over de mogelijkheden en het comfort.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 1
-- [Zitkussens op maat](https://perfectpillows.nl/collections/zitkussens-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Zitkussens op maat](https://perfectpillows.nl/collections/zitkussens-op-maat): Maak jouw zitplek compleet met zitkussens op maat van PerfectPillows. Stem de afmetingen, stof en uitstraling af op jouw bank, stoel of zithoek.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 2
-- [Rugkussens op maat](https://perfectpillows.nl/collections/rugkussens-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Rugkussens op maat](https://perfectpillows.nl/collections/rugkussens-op-maat): Geef je zithoek extra comfort met rugkussens op maat van PerfectPillows. Kies een uitstraling en afmetingen die passen bij jouw zitplek.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 3
-- [Sierkussens op maat](https://perfectpillows.nl/collections/sierkussens-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Sierkussens op maat](https://perfectpillows.nl/collections/sierkussens-op-maat): Geef je interieur een persoonlijk accent met sierkussens op maat van PerfectPillows. Combineer stoffen en afmetingen voor een uitstraling die bij je past.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 1
-- [Zitbanken op maat](https://perfectpillows.nl/collections/zitbanken-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Zitbanken op maat](https://perfectpillows.nl/collections/zitbanken-op-maat): Creëer een zitplek die past bij jouw interieur met een zitbank op maat van PerfectPillows. Bespreek jouw wensen voor afmetingen, stijl en comfort.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 0
-- [Eetkamer banken op maat](https://perfectpillows.nl/collections/eetkamerbanken-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Eetkamerbank op maat](https://perfectpillows.nl/collections/eetkamerbank-op-maat): Eetkamerbank op maat laten maken? Kies zelf de afmetingen, stof en afwerking. Op maat gemaakt in Amsterdam voor een perfecte match met jouw interieur.
+  Updated: 2026-10-31T21:01:26Z
   Total Products: 0
-- [Bedden op maat](https://perfectpillows.nl/collections/bedden-op-maat)
-  Updated: 2026-09-30T19:43:11Z
+- [Bedden op maat](https://perfectpillows.nl/collections/bedden-op-maat): Maak ruimte voor jouw ideale slaapkamer met een bed op maat van PerfectPillows. Ontdek de mogelijkheden voor afmetingen en een persoonlijke uitstraling.
+  Updated: 2026-10-31T17:53:44Z
   Total Products: 0
 - [Meubels op maat](https://perfectpillows.nl/collections/meubels-op-maat): Zoek je een meubel dat perfect past? Wij maken maatwerk meubels, waaronder stijlvolle eetkamerbanken, zitbanken en bedden, volledig afgestemd op jouw gewenste maten, stoffen en comfort.
   Updated: 2026-09-30T19:43:11Z
   Total Products: 0
+- [Sierkussens](https://perfectpillows.nl/collections/sierkussens): Geef je bank, fauteuil of bed een frisse uitstraling met sierkussens van PerfectPillows. Ontdek de collectie en vind jouw favoriete combinatie.
+  Updated: 2026-10-31T17:53:44Z
+  Total Products: 0
+- [Eetkamerbanken](https://perfectpillows.nl/collections/eetkamerbanken): Maak van je eethoek een fijne plek om samen te komen. Ontdek de eetkamerbanken van PerfectPillows en vind een uitstraling die bij jouw interieur past.
+  Updated: 2026-10-31T22:02:38Z
+  Total Products: 3
 
 ## Blogs
 
@@ -266,13 +278,21 @@
   Updated: 2026-09-09T19:45:49Z
 - [Offerte aanvragen](https://perfectpillows.nl/pages/offerte-aanvragen): 
   Updated: 2026-09-09T19:47:43Z
-- [Kussenadvies](https://perfectpillows.nl/pages/kussenadvies)
-  Updated: 2026-09-29T13:01:19Z
+- [Kussenadvies](https://perfectpillows.nl/pages/kussenadvies): 
+  Updated: 2026-10-31T18:05:59Z
+- [Kennisbank l PerfectPillows](https://perfectpillows.nl/pages/kennisbank): 
+  Updated: 2026-11-01T11:05:25Z
+- [Kennisbank | Hoe meet ik een zitkussen op maat op?](https://perfectpillows.nl/pages/hoe-meet-ik-een-zitkussen-op-maat-op): 
+  Updated: 2026-11-04T22:09:59Z
+- [Kennisbank | Hoe kies je de juiste maat eetkamerbank?](https://perfectpillows.nl/pages/hoe-kies-je-de-juiste-maat-eetkamerbank): 
+  Updated: 2026-11-01T12:48:53Z
+- [Hoeveel personen passen op een eetkamerbank? | PerfectPillows](https://perfectpillows.nl/pages/hoeveel-personen-passen-op-een-eetkamerbank): 
+  Updated: 2026-11-04T22:14:09Z
 
 ## Policies
 
 - [Privacy Policy](https://perfectpillows.nl/policies/privacy-policy)
-  Updated: 2026-03-18T09:31:40Z
+  Updated: 2026-10-31T20:06:23Z
 - [Refund Policy](https://perfectpillows.nl/policies/refund-policy)
   Updated: 2026-04-03T19:03:18Z
 - [Terms of Service](https://perfectpillows.nl/policies/terms-of-service)
