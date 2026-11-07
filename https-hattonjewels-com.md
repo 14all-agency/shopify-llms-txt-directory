@@ -8,7 +8,7 @@
 - Contact Email: info@hattonjewels.com
 - Contact Phone: 020 3116 0069
 - Address: 5 Hatton Place, London, EC1N 8RU
-- Updated At: 2026-10-31T00:32:33.770Z
+- Updated At: 2026-11-07T00:34:54.552Z
 
 Hatton Jewels is a specialist fine jewellery business based in Hatton Garden, London's historic jewellery district. We specialise in buying and  antique, vintage, pre-owned and luxury jewellery, bespoke jewellery design, engagement rings and professional jewellery valuations.
 
@@ -1426,14 +1426,14 @@ Customers can also purchase jewellery online or make enquiries without visiting 
 ## Collections
 
 - [New Arrivals](https://hattonjewels.com/collections/new-in): From timeless classics, contemporary designs and loved jewellery houses, our new arrivals are carefully selected to bring you exceptional craftsmanship and effortless style.
-  Updated: 2026-10-28T15:05:18Z
-  Total Products: 54
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 58
 - [Pre-Owned Cartier Jewellery](https://hattonjewels.com/collections/pre-owned-cartier-jewellery): Discover exquisite pre-owned Cartier jewellery at Hatton Jewels. Shop luxury pieces including rings, bracelets, necklaces, and more, all authenticated.
-  Updated: 2026-10-28T09:55:31Z
-  Total Products: 21
+  Updated: 2026-11-03T17:04:52Z
+  Total Products: 22
 - [Pre-Owned Jewellery](https://hattonjewels.com/collections/pre-owned-jewellery): Discover expertly curated pre-owned and second-hand jewellery at Hatton Jewels. Shop vintage & designer pieces including Cartier, Tiffany & Van Cleef, all quality-checked and .
-  Updated: 2026-10-28T15:05:18Z
-  Total Products: 381
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 386
 - [Engagement Rings](https://hattonjewels.com/collections/engagement-rings): Explore vintage, antique & bespoke engagement rings at Hatton Jewels. Discover 1–3 carat diamond rings, unique cuts & custom designs in Hatton Garden.
   Updated: 2026-09-22T10:07:31Z
   Total Products: 69
@@ -1477,46 +1477,46 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-09-22T11:21:20Z
   Total Products: 26
 - [Pre-Owned  Tiffany & Co Jewellery](https://hattonjewels.com/collections/tiffany-co-jewellery): Explore our collection of pre-owned Tiffany & Co. jewellery at Hatton Jewels. Find timeless rings, necklaces, bracelets, and more, all authenticated. Shop now.
-  Updated: 2026-10-26T12:02:10Z
-  Total Products: 17
+  Updated: 2026-11-05T10:55:39Z
+  Total Products: 18
 - [Pre-Owned Van Cleef & Arpels Jewellery](https://hattonjewels.com/collections/van-cleef-arpels-jewellery): Discover exquisite pre-owned Van Cleef & Arpels jewellery at Hatton Jewels. Shop authenticated vintage and contemporary rings, necklaces, and more.
-  Updated: 2026-10-30T11:32:25Z
+  Updated: 2026-11-03T12:49:02Z
   Total Products: 6
 - [Gifts Under £2000](https://hattonjewels.com/collections/gifts-under-2000)
-  Updated: 2026-10-28T15:05:18Z
-  Total Products: 32
+  Updated: 2026-11-04T12:56:39Z
+  Total Products: 33
 - [Necklaces & Pendants](https://hattonjewels.com/collections/necklaces-pendants): Explore Hatton Jewels’ collection of diamond necklaces for women, including solitaire diamond necklaces, diamond pendant necklaces, and sapphires. Shop now.
   Updated: 2026-06-02T14:40:49Z
   Total Products: 17
 - [Gifts For Her](https://hattonjewels.com/collections/gifts-for-her): A hand selected collection of beautiful pieces, perfect for gifting to that special someone or for treating yourself.
-  Updated: 2026-10-30T11:32:25Z
-  Total Products: 109
+  Updated: 2026-11-05T11:00:16Z
+  Total Products: 110
 - [Jewellery Gifts](https://hattonjewels.com/collections/gifts-collection): Discover timeless jewellery gifts at Hatton Jewels. From diamond earrings to personalised pieces, find the perfect gift for every occasion and style.
-  Updated: 2026-07-20T09:23:04Z
-  Total Products: 46
+  Updated: 2026-11-03T17:04:52Z
+  Total Products: 47
 - [Bracelets](https://hattonjewels.com/collections/bracelets): Shop elegant diamond bracelets for women at Hatton Jewels, including classic tennis bracelets and bespoke designs in gold and platinum.
   Updated: 2026-06-02T14:40:51Z
   Total Products: 4
 - [Pre-Owned Engagement Rings](https://hattonjewels.com/collections/pre-owned-engagement-rings): Shop second-hand engagement rings at Hatton Jewels. Discover vintage & pre-owned diamond rings with timeless style, quality craftsmanship & great value.
-  Updated: 2026-10-22T11:27:55Z
-  Total Products: 50
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 53
 - [Wedding Jewellery](https://hattonjewels.com/collections/wedding-jewellery): Explore elegant wedding jewellery at Hatton Jewels. Discover wedding rings, diamond bracelets, and timeless pieces to celebrate your special day in style.
-  Updated: 2026-10-13T11:21:33Z
-  Total Products: 29
+  Updated: 2026-11-05T11:04:35Z
+  Total Products: 30
 - [Anniversary](https://hattonjewels.com/collections/anniversary): Celebrate your special milestone with elegant anniversary jewellery from Hatton Jewels. Discover rings, bracelets, and necklaces crafted to cherish forever.
   Updated: 2026-10-01T08:43:10Z
   Total Products: 16
 - [Antique & Vintage Jewellery](https://hattonjewels.com/collections/antique-jewellery): Discover jewellery with a story to tell. Our collection of antique and vintage jewellery brings together beautifully crafted pieces from bygone eras. Each piece is unique and full of character, ready for a new chapter.
-  Updated: 2026-10-29T09:49:53Z
-  Total Products: 44
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 45
 - [Branded Luxury Jewellery](https://hattonjewels.com/collections/branded-jewellery): Discover the iconic collections of Cartier, the refined elegance of Tiffany & Co., and the exquisite beauty of Van Cleef & Arpels, alongside a curated selection of world-renowned jewellery houses designed to enchant and inspire.
-  Updated: 2026-10-30T11:32:25Z
-  Total Products: 85
+  Updated: 2026-11-05T11:00:16Z
+  Total Products: 90
 - [Summer Collection](https://hattonjewels.com/collections/summer-collection)
-  Updated: 2026-10-22T15:31:31Z
+  Updated: 2026-11-05T11:04:35Z
   Total Products: 49
 - [Birthstone Jewellery](https://hattonjewels.com/collections/birthstone-jewellery)
-  Updated: 2026-10-28T15:01:18Z
+  Updated: 2026-11-06T16:51:24Z
   Total Products: 28
 - [Men's Jewellery](https://hattonjewels.com/collections/mens-jewellery)
   Updated: 2026-05-26T17:32:38Z
@@ -1525,17 +1525,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-02T12:31:05Z
   Total Products: 24
 - [Our Top Picks](https://hattonjewels.com/collections/our-top-picks): A handpicked selection of timeless treasures, chosen for their beauty and charm, each piece chosen with you in mind and ready for you to fall in love with.
-  Updated: 2026-10-28T15:02:37Z
+  Updated: 2026-11-05T13:08:50Z
   Total Products: 71
 - [Pre-Owned High Jewellery](https://hattonjewels.com/collections/pre-owned-high-jewellery): Each piece in this meticulously curated collection is a testament to the artistry and dedication of master jewellers who have transformed precious materials into wearable works of art.
-  Updated: 2026-10-28T15:01:39Z
+  Updated: 2026-11-06T14:58:51Z
   Total Products: 27
 - [Cartier Love Collection](https://hattonjewels.com/collections/cartier-love-collection): With its iconic screw motif design is one of the most notable lines of jewellery by Cartier. Timeless, easy-to-wear and instantly recognisable, the Cartier love pieces have become one of the most popular collections.
-  Updated: 2026-10-13T15:49:46Z
-  Total Products: 12
+  Updated: 2026-11-03T17:04:52Z
+  Total Products: 13
 - [Autumn Collection](https://hattonjewels.com/collections/autumn-collection): From delicate necklaces to chunky rings made to be noticed, discover the pieces that will become the finishing touch to your autumn wardrobe. Think warm rose gold, colourful gemstones and jewellery that layers beautifully with cosy knits, tailored coats and everything in between..
-  Updated: 2026-10-28T15:05:18Z
-  Total Products: 76
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 78
 - [Diamond Stud Earrings](https://hattonjewels.com/collections/diamond-stud-earrings)
   Updated: 2026-06-02T16:28:44Z
   Total Products: 8
@@ -1546,7 +1546,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-09-28T14:03:20Z
   Total Products: 4
 - [Cartier Juste Un Clou Collection](https://hattonjewels.com/collections/juste-un-clou-collection): Transforming an ordinary nail into an extraordinary piece of jewellery, embodying bold minimalism and rebellious elegance.
-  Updated: 2026-10-28T11:23:33Z
+  Updated: 2026-11-05T10:54:02Z
   Total Products: 9
 - [1 Carat Diamond Engagement Rings](https://hattonjewels.com/collections/1-carat-diamond-engagement-rings)
   Updated: 2026-07-20T09:23:04Z
@@ -1558,74 +1558,74 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-07-20T09:23:04Z
   Total Products: 24
 - [VCA Alhambra](https://hattonjewels.com/collections/vca-alhambra)
-  Updated: 2026-06-22T15:13:22Z
+  Updated: 2026-11-03T12:49:02Z
   Total Products: 4
 - [Tiffany 'By The Yard'](https://hattonjewels.com/collections/tiffany-by-the-yard)
   Updated: 2026-06-02T16:56:21Z
   Total Products: 1
 - [Bulgari B.Zero1](https://hattonjewels.com/collections/bulgari-b-zero1)
-  Updated: 2026-10-27T13:12:33Z
+  Updated: 2026-11-05T10:57:41Z
   Total Products: 7
-- [Christmas Gifts](https://hattonjewels.com/collections/christmas-gifts): Celebrate the ones you love most with a gift as extraordinary as they are.
-  Updated: 2026-10-28T15:01:39Z
-  Total Products: 18
-- [Stocking Fillers](https://hattonjewels.com/collections/stocking-fillers): Discover charming stocking fillers to brighten every moment.
-  Updated: 2026-10-28T12:13:50Z
-  Total Products: 15
-- [Pre-Owned Rings](https://hattonjewels.com/collections/pre-owned-rings)
-  Updated: 2026-10-29T09:49:53Z
-  Total Products: 107
-- [Pre-Owned Earrings](https://hattonjewels.com/collections/pre-owned-earrings)
-  Updated: 2026-10-28T15:01:18Z
+- [Christmas Gifts](https://hattonjewels.com/collections/christmas-gifts): Gift with a story to tell. From timeless antiques and vintage treasures to coveted designer names, rare finds and everyday favourites, find something truly special for everyone on your list.
+  Updated: 2026-11-05T15:29:06Z
+  Total Products: 32
+- [Stocking Fillers](https://hattonjewels.com/collections/stocking-fillers): Little luxuries, beautifully chosen. Discover our collection of thoughtful stocking fillers, from delicate everyday pieces to unique jewellery treasures, perfect for adding a little extra sparkle to their Christmas.
+  Updated: 2026-11-05T15:44:42Z
   Total Products: 28
+- [Pre-Owned Rings](https://hattonjewels.com/collections/pre-owned-rings)
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 111
+- [Pre-Owned Earrings](https://hattonjewels.com/collections/pre-owned-earrings)
+  Updated: 2026-11-05T11:03:59Z
+  Total Products: 29
 - [Pre-Owned Bracelets](https://hattonjewels.com/collections/pre-owned-bracelets)
   Updated: 2026-10-22T15:31:31Z
   Total Products: 25
 - [Pre-Owned Necklaces & Pendants](https://hattonjewels.com/collections/pre-owned-necklaces-pendants)
-  Updated: 2026-10-28T15:01:39Z
+  Updated: 2026-11-05T10:57:41Z
   Total Products: 30
 - [Cartier Love Bracelets](https://hattonjewels.com/collections/cartier-love-bracelets)
-  Updated: 2026-10-13T10:08:43Z
+  Updated: 2026-11-05T10:53:16Z
   Total Products: 21
 - [Everyday Jewellery Essentials](https://hattonjewels.com/collections/jewellery-essentials): A curated selection of pieces that every jewellery box deserves, find the pieces to make your everyday looks feel effortless yet intentional, from chunky statement rings to simple diamond necklaces.
-  Updated: 2026-10-28T15:05:18Z
-  Total Products: 93
+  Updated: 2026-11-05T13:08:50Z
+  Total Products: 94
 - [Diamond Necklaces](https://hattonjewels.com/collections/diamond-necklaces)
   Updated: 2026-06-02T18:52:47Z
   Total Products: 11
 - [Winter Collection](https://hattonjewels.com/collections/winter-collection)
-  Updated: 2026-10-29T09:49:53Z
+  Updated: 2026-11-05T11:04:35Z
   Total Products: 20
 - [Valentine's Collection](https://hattonjewels.com/collections/valentines-day-jewellery): Fall in love all over again with our Valentine Collection, curated to celebrate every kind of love. Each piece is made to spark smiles, steal hearts, and turn simple moments into something unforgettable.
-  Updated: 2026-10-13T14:46:29Z
+  Updated: 2026-11-05T10:57:39Z
   Total Products: 41
 - [Spring Collection](https://hattonjewels.com/collections/spring-jewellery)
-  Updated: 2026-10-23T11:23:23Z
+  Updated: 2026-11-05T13:11:11Z
   Total Products: 37
 - [Cushion Cut Diamond Rings](https://hattonjewels.com/collections/cushion-cut-diamond-rings)
   Updated: 2026-07-02T12:30:29Z
   Total Products: 5
 - [Pre-Owned Wedding Jewellery](https://hattonjewels.com/collections/pre-owned-wedding-jewellery)
-  Updated: 2026-10-26T16:07:46Z
-  Total Products: 56
+  Updated: 2026-11-05T15:22:41Z
+  Total Products: 58
 - [Pre-Owned Bulgari Jewellery](https://hattonjewels.com/collections/pre-owned-bulgari): Bulgari is known for its bold aesthetic, combining classical Roman inspiration with modern Italian glamour. Renowned for vibrant colours, striking gemstones, and sculptural design
-  Updated: 2026-10-28T15:01:39Z
-  Total Products: 16
+  Updated: 2026-11-05T10:57:41Z
+  Total Products: 17
 - [Special Prices](https://hattonjewels.com/collections/special-prices): A curated selection of exceptional pieces, currently available at a special price. Discover these timeless treasures before they're gone.
-  Updated: 2026-10-28T11:23:33Z
+  Updated: 2026-11-05T13:06:19Z
   Total Products: 30
 - [Pre-Owned Eternity Rings](https://hattonjewels.com/collections/pre-owned-eternity-rings)
-  Updated: 2026-10-26T12:02:10Z
+  Updated: 2026-11-05T11:04:35Z
   Total Products: 15
 - [Pre-Owned Cocktail Rings](https://hattonjewels.com/collections/pre-owned-cocktail-rings)
   Updated: 2026-10-27T13:12:33Z
   Total Products: 20
 - [Re-Love Jewellery](https://hattonjewels.com/collections/re-love-jewellery): Fall in love with Pre-Owned, discover a curated selection of exceptional jewellery, ready to be re-loved.
-  Updated: 2026-10-28T11:23:33Z
+  Updated: 2026-11-05T13:08:50Z
   Total Products: 28
 - [Antique & Vintage Rings](https://hattonjewels.com/collections/antique-vintage-rings)
-  Updated: 2026-10-28T12:14:31Z
-  Total Products: 44
+  Updated: 2026-11-06T14:58:51Z
+  Total Products: 45
 
 ## Blogs
 
@@ -2382,7 +2382,7 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Author: Bethany Sims
     Tags: Expert Edition, Guides
   - [Jewellery Valuations: Your Questions Answered](https://hattonjewels.com/blogs/news/jewellery-valuations-your-questions-answered)
-    Updated: 2026-09-22T16:06:28Z
+    Updated: 2026-11-03T16:49:20Z
     Author: Rachel Smith
     Tags: Expert Edition, Guides
   - [October Birthstone: Opal](https://hattonjewels.com/blogs/news/october-birthstone-opal)
@@ -2401,6 +2401,10 @@ Customers can also purchase jewellery online or make enquiries without visiting 
     Updated: 2026-10-23T10:04:03Z
     Author: Bethany Sims
     Tags: Lifestyle
+  - [November Birthstones: Topaz and Citrine](https://hattonjewels.com/blogs/news/november-birthstones-topaz-and-citrine)
+    Updated: 2026-11-02T14:55:59Z
+    Author: Bethany Sims
+    Tags: Spotlights
 
 ## Store Pages
 
@@ -2511,17 +2515,17 @@ Customers can also purchase jewellery online or make enquiries without visiting 
 - [Jewellery Glossary](https://hattonjewels.com/pages/jewellery-glossary)
   Updated: 2026-04-30T15:36:59Z
 - [Bethany Sims](https://hattonjewels.com/pages/bethany-sims): Bethany is Head of Marketing and Social Media at Hatton Jewels, overseeing the brand’s marketing, social media, email campaigns, website content an...
-  Updated: 2026-06-02T14:35:23Z
+  Updated: 2026-11-03T16:46:23Z
 - [Guide to Burma Rubies | Fine, No Heat & Burmese Ruby Jewellery](https://hattonjewels.com/pages/the-ultimate-guide-to-burma-rubies): 
   Updated: 2026-06-02T11:21:00Z
 - [Lucy ](https://hattonjewels.com/pages/lucy-): Lucy is Marketing and PR Assistant at Hatton Jewels, supporting the team across social media, seasonal campaigns, photography and content creation....
-  Updated: 2026-06-02T14:29:59Z
+  Updated: 2026-11-03T16:46:56Z
 - [Rachel Smith](https://hattonjewels.com/pages/rachel-smith): Rachel is Manager and Head Valuer at Hatton Jewels, specialising in the valuation and appraisal of fine jewellery, antique jewellery, natural pearl...
   Updated: 2026-06-02T14:33:35Z
 - [Gemma Bentham](https://hattonjewels.com/pages/gemma-bentham): Gemma is Assistant Manager and Bespoke Jewellery Specialist at Hatton Jewels, with over 20 years’ experience in the jewellery industry. Her experti...
   Updated: 2026-06-02T14:39:16Z
-- [James Jezusek](https://hattonjewels.com/pages/james-jezusek): James is part of the Creative Team at Hatton Jewels, supporting the brand’s online visibility, search strategy, website performance and digital con...
-  Updated: 2026-08-13T09:17:46Z
+- [James Jezusek](https://hattonjewels.com/pages/james-jezusek): James is part of the Creative Team at Hatton Jewels, supporting the brand’s online presence. Contributing to the Journal, writing informative jewel...
+  Updated: 2026-11-03T16:48:40Z
 - [Meet The Team: Rachel](https://hattonjewels.com/pages/meet-the-team-rachel)
   Updated: 2026-06-05T15:40:07Z
 - [Iconic Jewellery Houses](https://hattonjewels.com/pages/iconic-jewellery-houses)
@@ -2536,15 +2540,15 @@ Customers can also purchase jewellery online or make enquiries without visiting 
   Updated: 2026-08-07T15:40:15Z
 - [Meet The Team: Gemma](https://hattonjewels.com/pages/meet-the-team-gemma)
   Updated: 2026-08-18T12:21:30Z
-- [Krista Palmer-Preece](https://hattonjewels.com/pages/krista-palmer-preece): Krista is Lead Appraiser and a Jewellery Specialist at Hatton Jewels, with over five years of experience in the jewellery industry. A Fellow of the...
-  Updated: 2026-09-22T16:03:12Z
+- [Krista Palmer-Preece](https://hattonjewels.com/pages/krista-palmer-preece): Krista is Lead Appraiser and a Jewellery Specialist at Hatton Jewels. A Fellow of the Gemmological Association of Great Britain with Gem-A Foundati...
+  Updated: 2026-11-03T16:43:15Z
 - [Bespoke Jewellery London - Custom Designs by Hatton Jewels](https://hattonjewels.com/pages/bespoke-enquire): 
   Updated: 2026-09-22T10:49:00Z
 
 ## Policies
 
 - [Privacy Policy](https://hattonjewels.com/policies/privacy-policy)
-  Updated: 2025-01-02T10:28:14Z
+  Updated: 2026-10-31T01:31:00Z
 - [Shipping Policy](https://hattonjewels.com/policies/shipping-policy)
   Updated: 2025-07-30T08:56:50Z
 - [Refund Policy](https://hattonjewels.com/policies/refund-policy)
