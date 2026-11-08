@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2025-10-08T13:44:36Z
 - Contact Email: runwithfreedom1@gmail.com
-- Updated At: 2026-10-31T00:48:14.263Z
+- Updated At: 2026-11-08T00:45:21.092Z
 
 ## Products
 
@@ -51,7 +51,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Run_With_Freedom_Digital_Gift_Card_60_e59d67e1-3c02-4c0c-b6d7-fcfd62e0a9c7.png?v=1789039511
     Price: £60.00 GBP
 - [Enertor Running Insoles | Shock Absorbing PX1 | Run With Freedom](https://runwithfreedom.com/products/running-insoles): Protect your joints and boost energy return with Enertor Running Insoles. Powered by PX1 technology to absorb impact and reduce injury risk. Shop now!
-  Updated: 2026-10-30T23:38:05Z
+  Updated: 2026-11-07T23:28:45Z
   Vendor: ENERTOR®
   Product Type: Insoles
   Availability: Available
@@ -373,7 +373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/MeltedSmlleyPurple-145893.jpg?v=1789039865
     Price: £13.99 GBP
 - [Girl Power](https://runwithfreedom.com/products/girl-power): Girl Power Who Run The World?! Girls. Multiple colourways are now available! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-30T08:30:42Z
+  Updated: 2026-11-03T13:51:05Z
   Vendor: HEXXEE
   Product Type: Girl Power Socks
   Availability: Available
@@ -394,115 +394,115 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower-200182.jpg?v=1789039891
     Price: £13.99 GBP
-  - [Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351055876426)
+  - [Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207166898506)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue-215413.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351055909194)
+  - [Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207166931274)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue-215413.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351055941962)
+  - [Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207166964042)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue-215413.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351055974730)
+  - [Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207166996810)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue-215413.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056007498)
+  - [Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167029578)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink-136963.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056040266)
+  - [Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167062346)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink-136963.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056073034)
+  - [Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167095114)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink-136963.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056105802)
+  - [Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167127882)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink-136963.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056138570)
+  - [Tie Dye / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167160650)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye-943530.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056171338)
+  - [Tie Dye / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167193418)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye-943530.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056204106)
+  - [Tie Dye / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167226186)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye-943530.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056236874)
+  - [Tie Dye / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167258954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye-943530.png?v=1787775649
     Price: £13.99 GBP
-  - [Original 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056269642)
+  - [Original 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167291722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpoweroriginal2stripe-348493.png?v=1787775649
     Price: £13.99 GBP
-  - [Original 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056302410)
+  - [Original 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167324490)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpoweroriginal2stripe-348493.png?v=1787775649
     Price: £13.99 GBP
-  - [Original 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056335178)
+  - [Original 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167357258)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpoweroriginal2stripe-348493.png?v=1787775649
     Price: £13.99 GBP
-  - [Original 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056367946)
+  - [Original 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167390026)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpoweroriginal2stripe-348493.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056400714)
+  - [Blue 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167422794)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue_2Stripe-987690.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056433482)
+  - [Blue 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167455562)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue_2Stripe-987690.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056466250)
+  - [Blue 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167488330)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue_2Stripe-987690.png?v=1787775649
     Price: £13.99 GBP
-  - [Blue 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056499018)
+  - [Blue 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167521098)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Blue_2Stripe-987690.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056531786)
+  - [Pink 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167553866)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink_2Stripe-739542.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056564554)
+  - [Pink 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167586634)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink_2Stripe-739542.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056597322)
+  - [Pink 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167619402)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink_2Stripe-739542.png?v=1787775649
     Price: £13.99 GBP
-  - [Pink 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056630090)
+  - [Pink 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167652170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GirlPower_Pink_2Stripe-739542.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=63351056662858)
+  - [Tie Dye 2Stripe / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/girl-power?variant=64207167684938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye2stripe-472195.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056695626)
+  - [Tie Dye 2Stripe / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167717706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye2stripe-472195.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=63351056728394)
+  - [Tie Dye 2Stripe / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/girl-power?variant=64207167750474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye2stripe-472195.png?v=1787775649
     Price: £13.99 GBP
-  - [Tie Dye 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=63351056761162)
+  - [Tie Dye 2Stripe / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/girl-power?variant=64207167783242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Girlpowertiedye2stripe-472195.png?v=1787775649
     Price: £13.99 GBP
@@ -675,7 +675,7 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/GreyHaze-244852.jpg?v=1789040012
     Price: £13.99 GBP
 - ['Send It' Socks](https://runwithfreedom.com/products/send-it-socks): Send It Socks We gave them an update with some wild pop art and FRESH WHITE SEND IT socks! Check out the matching headband! What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breath featuring a snug, secure fit designed specifically to the help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-30T08:30:35Z
+  Updated: 2026-11-03T13:50:38Z
   Vendor: HEXXEE
   Product Type: Send It Socks
   Availability: Available
@@ -696,83 +696,83 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/blast_7092a00e-4db9-4bea-8ca9-e289faa5d1a8-501636.jpg?v=1789040032
     Price: £13.99 GBP
-  - [White / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058104650)
+  - [White / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151268170)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/sendit-332929.jpg?v=1787775650
     Price: £13.99 GBP
-  - [White / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058137418)
+  - [White / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151300938)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/sendit-332929.jpg?v=1787775650
     Price: £13.99 GBP
-  - [White / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058170186)
+  - [White / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151333706)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/sendit-332929.jpg?v=1787775650
     Price: £13.99 GBP
-  - [White / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058202954)
+  - [White / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151366474)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/sendit-332929.jpg?v=1787775650
     Price: £13.99 GBP
-  - [Tie Dye Red / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058235722)
+  - [Tie Dye Red / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151399242)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Red_c50d457a-4b6b-413a-ab3c-8ed5b22a7e90-946838.jpg?v=1789040044
     Price: £13.99 GBP
-  - [Tie Dye Red / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058268490)
+  - [Tie Dye Red / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151432010)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Red_c50d457a-4b6b-413a-ab3c-8ed5b22a7e90-946838.jpg?v=1789040044
     Price: £13.99 GBP
-  - [Tie Dye Red / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058301258)
+  - [Tie Dye Red / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151464778)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Red_c50d457a-4b6b-413a-ab3c-8ed5b22a7e90-946838.jpg?v=1789040044
     Price: £13.99 GBP
-  - [Tie Dye Red / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058334026)
+  - [Tie Dye Red / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151497546)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Red_c50d457a-4b6b-413a-ab3c-8ed5b22a7e90-946838.jpg?v=1789040044
     Price: £13.99 GBP
-  - [Tie Dye Grey / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058366794)
+  - [Tie Dye Grey / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151530314)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Grey_93b9e0ef-2318-461b-a8d1-07252d63ddba-112066.jpg?v=1789040050
     Price: £13.99 GBP
-  - [Tie Dye Grey / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058399562)
+  - [Tie Dye Grey / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151563082)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Grey_93b9e0ef-2318-461b-a8d1-07252d63ddba-112066.jpg?v=1789040050
     Price: £13.99 GBP
-  - [Tie Dye Grey / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058432330)
+  - [Tie Dye Grey / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151595850)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Grey_93b9e0ef-2318-461b-a8d1-07252d63ddba-112066.jpg?v=1789040050
     Price: £13.99 GBP
-  - [Tie Dye Grey / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058465098)
+  - [Tie Dye Grey / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151628618)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Grey_93b9e0ef-2318-461b-a8d1-07252d63ddba-112066.jpg?v=1789040050
     Price: £13.99 GBP
-  - [Tie Dye Royal Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058497866)
+  - [Tie Dye Royal Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151661386)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/RB_1d7fab29-31d1-4db2-be5a-3709d846cc54-568736.jpg?v=1789040058
     Price: £13.99 GBP
-  - [Tie Dye Royal Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058530634)
+  - [Tie Dye Royal Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151694154)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/RB_1d7fab29-31d1-4db2-be5a-3709d846cc54-568736.jpg?v=1789040058
     Price: £13.99 GBP
-  - [Tie Dye Royal Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058563402)
+  - [Tie Dye Royal Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151726922)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/RB_1d7fab29-31d1-4db2-be5a-3709d846cc54-568736.jpg?v=1789040058
     Price: £13.99 GBP
-  - [Tie Dye Royal Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058596170)
+  - [Tie Dye Royal Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151759690)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/RB_1d7fab29-31d1-4db2-be5a-3709d846cc54-568736.jpg?v=1789040058
     Price: £13.99 GBP
-  - [Tie Dye Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058628938)
+  - [Tie Dye Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151792458)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_7473069e-f4bb-42f1-a47c-da54d047f0b5-969763.jpg?v=1789040064
     Price: £13.99 GBP
-  - [Tie Dye Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058661706)
+  - [Tie Dye Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151825226)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_7473069e-f4bb-42f1-a47c-da54d047f0b5-969763.jpg?v=1789040064
     Price: £13.99 GBP
-  - [Tie Dye Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058694474)
+  - [Tie Dye Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151857994)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_7473069e-f4bb-42f1-a47c-da54d047f0b5-969763.jpg?v=1789040064
     Price: £13.99 GBP
-  - [Tie Dye Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=63351058727242)
+  - [Tie Dye Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/send-it-socks?variant=64207151890762)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink_7473069e-f4bb-42f1-a47c-da54d047f0b5-969763.jpg?v=1789040064
     Price: £13.99 GBP
@@ -1393,168 +1393,168 @@
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Skulls-801728.jpg?v=1789040484
     Price: £13.99 GBP
 - [Leopard Print](https://runwithfreedom.com/products/leopard-print): Leopard Print A pattern for those who really like to catch the eye. We've adapted and tweaked the print to make it our own and added some FUNKY colourways to go with it. - You can now buy a matching headband in our original leopard print here. What makes HEXXEE 1.0 Socks unrivalled: SUPREME PROTECTION - Our socks have built-in arch support with plush cloud-like cushioning at the ankle and forefoot to help absorb impact, thus preventing impact bruising. FEEL THE DIFFERENCE - Enhanced airflow across the top of the foot helps allow the foot to breathe featuring a snug, secure fit designed specifically to help 'hug' your foot. ANTI BLISTER - Made with anti-abrasion fibres deep within the sock. Trialled and tested for long-distance running where rubbing is most common. EXPERIENCE THE LUXURY - Enjoy the comfort of our deluxe blend on your feet. HEXXEE 1.0 Socks are designed with four-yarn terry loops to create a supremely soft and supportive athletic sock. CIRCULATION BENEFITS - 15 mmHg compression level socks, which set the standard for healthy circulation to the foot. MATERIAL70% Dry fit Polyester, 20% Cotton and 10% Elastane WASHINGA single pair of HEXXEE socks have the ability to last for two years or longer when looked after and washed correctly. We recommend a machine wash in cold water no warmer than 30 degrees, or most preferred is a hand-wash in cold water to achieve the best results. HEXXEE socks can be pre-treated with fabric softener and stain remover but NOT bleach or boil, as this will damage your 1.0 HEXXEE socks. DRYING HEXXEEWe recommend hang drying HEXXEE socks.
-  Updated: 2026-10-30T08:30:35Z
+  Updated: 2026-11-03T13:51:03Z
   Vendor: HEXXEE
   Product Type: Leopard Print Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/leopardCollection.png?v=1787775657
-  - [Aqua Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065215306)
+  - [Aqua Blue / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165227338)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BrightBlue-2-546622.jpg?v=1789040551
     Price: £13.99 GBP
-  - [Aqua Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065248074)
+  - [Aqua Blue / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165260106)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BrightBlue-2-546622.jpg?v=1789040551
     Price: £13.99 GBP
-  - [Aqua Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065280842)
+  - [Aqua Blue / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165292874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BrightBlue-2-546622.jpg?v=1789040551
     Price: £13.99 GBP
-  - [Aqua Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065313610)
+  - [Aqua Blue / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165325642)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/BrightBlue-2-546622.jpg?v=1789040551
     Price: £13.99 GBP
-  - [Yellow / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065346378)
+  - [Yellow / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165358410)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow-2-650746.jpg?v=1789040516
     Price: £13.99 GBP
-  - [Yellow / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065379146)
+  - [Yellow / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165391178)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow-2-650746.jpg?v=1789040516
     Price: £13.99 GBP
-  - [Yellow / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065411914)
+  - [Yellow / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165423946)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow-2-650746.jpg?v=1789040516
     Price: £13.99 GBP
-  - [Yellow / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065444682)
+  - [Yellow / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165456714)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Yellow-2-650746.jpg?v=1789040516
     Price: £13.99 GBP
-  - [Original / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065477450)
+  - [Original / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165489482)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/FullLeopardPrint-129990.jpg?v=1789040526
     Price: £13.99 GBP
-  - [Original / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065510218)
+  - [Original / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165522250)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/FullLeopardPrint-129990.jpg?v=1789040526
     Price: £13.99 GBP
-  - [Original / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065542986)
+  - [Original / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165555018)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/FullLeopardPrint-129990.jpg?v=1789040526
     Price: £13.99 GBP
-  - [Original / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065575754)
+  - [Original / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165587786)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/FullLeopardPrint-129990.jpg?v=1789040526
     Price: £13.99 GBP
-  - [Orange / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065608522)
+  - [Orange / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165620554)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Orange-2-801204.jpg?v=1789040535
     Price: £13.99 GBP
-  - [Orange / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065641290)
+  - [Orange / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165653322)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Orange-2-801204.jpg?v=1789040535
     Price: £13.99 GBP
-  - [Orange / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065674058)
+  - [Orange / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165686090)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Orange-2-801204.jpg?v=1789040535
     Price: £13.99 GBP
-  - [Orange / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065706826)
+  - [Orange / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165718858)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Orange-2-801204.jpg?v=1789040535
     Price: £13.99 GBP
-  - [Green / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065739594)
+  - [Green / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165751626)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/LightGreen-2-770492.jpg?v=1789040543
     Price: £13.99 GBP
-  - [Green / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065772362)
+  - [Green / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165784394)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/LightGreen-2-770492.jpg?v=1789040543
     Price: £13.99 GBP
-  - [Green / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065805130)
+  - [Green / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165817162)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/LightGreen-2-770492.jpg?v=1789040543
     Price: £13.99 GBP
-  - [Green / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065837898)
+  - [Green / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165849930)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/LightGreen-2-770492.jpg?v=1789040543
     Price: £13.99 GBP
-  - [Teal / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351065870666)
+  - [Teal / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207165882698)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/SeaGreen-2-150014.jpg?v=1789040508
     Price: £13.99 GBP
-  - [Teal / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065903434)
+  - [Teal / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165915466)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/SeaGreen-2-150014.jpg?v=1789040508
     Price: £13.99 GBP
-  - [Teal / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351065936202)
+  - [Teal / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207165948234)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/SeaGreen-2-150014.jpg?v=1789040508
     Price: £13.99 GBP
-  - [Teal / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351065968970)
+  - [Teal / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207165981002)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/SeaGreen-2-150014.jpg?v=1789040508
     Price: £13.99 GBP
-  - [Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351066001738)
+  - [Pink / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207166013770)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink-2-231664.jpg?v=1789040559
     Price: £13.99 GBP
-  - [Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066034506)
+  - [Pink / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166046538)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink-2-231664.jpg?v=1789040559
     Price: £13.99 GBP
-  - [Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351066067274)
+  - [Pink / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207166079306)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink-2-231664.jpg?v=1789040559
     Price: £13.99 GBP
-  - [Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066100042)
+  - [Pink / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166112074)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Pink-2-231664.jpg?v=1789040559
     Price: £13.99 GBP
-  - [Purple / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351066132810)
+  - [Purple / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207166144842)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Lilac-2-641804.jpg?v=1789040568
     Price: £13.99 GBP
-  - [Purple / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066165578)
+  - [Purple / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166177610)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Lilac-2-641804.jpg?v=1789040568
     Price: £13.99 GBP
-  - [Purple / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351066198346)
+  - [Purple / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207166210378)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Lilac-2-641804.jpg?v=1789040568
     Price: £13.99 GBP
-  - [Purple / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066231114)
+  - [Purple / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166243146)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Lilac-2-641804.jpg?v=1789040568
     Price: £13.99 GBP
-  - [Holographic / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351066263882)
+  - [Holographic / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207166275914)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Holo-2-865380.jpg?v=1789040576
     Price: £13.99 GBP
-  - [Holographic / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066296650)
+  - [Holographic / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166308682)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Holo-2-865380.jpg?v=1789040576
     Price: £13.99 GBP
-  - [Holographic / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351066329418)
+  - [Holographic / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207166341450)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Holo-2-865380.jpg?v=1789040576
     Price: £13.99 GBP
-  - [Holographic / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066362186)
+  - [Holographic / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166374218)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Holo-2-865380.jpg?v=1789040576
     Price: £13.99 GBP
-  - [Coral / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=63351066394954)
+  - [Coral / Womens: 4-7 UK / 6-9 US](https://runwithfreedom.com/products/leopard-print?variant=64207166406986)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Coral-2-414454.jpg?v=1789040584
     Price: £13.99 GBP
-  - [Coral / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066427722)
+  - [Coral / Womens: 7.5-10 UK / 9.5-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166439754)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Coral-2-414454.jpg?v=1789040584
     Price: £13.99 GBP
-  - [Coral / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=63351066460490)
+  - [Coral / Mens: 6-8.5 UK / 6-8.5 US](https://runwithfreedom.com/products/leopard-print?variant=64207166472522)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Coral-2-414454.jpg?v=1789040584
     Price: £13.99 GBP
-  - [Coral / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=63351066493258)
+  - [Coral / Mens: 9-11.5 UK / 9-12 US](https://runwithfreedom.com/products/leopard-print?variant=64207166505290)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/8995/3866/files/Coral-2-414454.jpg?v=1789040584
     Price: £13.99 GBP
@@ -2419,16 +2419,16 @@
 ## Collections
 
 - [Recommended products (Seguno)](https://runwithfreedom.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free.
-  Updated: 2026-10-30T11:26:09Z
-  Total Products: 1355
+  Updated: 2026-11-07T12:28:19Z
+  Total Products: 1327
 - [All Products](https://runwithfreedom.com/collections/all-products): Shop Run With Freedom® premium running gear. Discover our bounce-free hydration vests, insoles, and gift cards. Free UK shipping & 2-Year Guarantee.
-  Updated: 2026-10-30T11:26:09Z
+  Updated: 2026-11-03T12:26:09Z
   Total Products: 893
 - [Enertor®](https://runwithfreedom.com/collections/enertor): Protect your joints and reduce pain with Enertor® insoles. Featuring advanced PX1 technology for maximum shock absorption and energy return. Shop now.
   Updated: 2026-10-27T11:25:33Z
   Total Products: 3
 - [HEXXEE®](https://runwithfreedom.com/collections/hexxee): Upgrade your workout with HEXXEE® performance socks. Made in the UK with DriFIT technology, reinforced impact zones, and unapologetically bold designs.
-  Updated: 2026-10-26T11:31:52Z
+  Updated: 2026-11-03T12:26:09Z
   Total Products: 888
 - [Purendure](https://runwithfreedom.com/collections/purendure)
   Updated: 2026-09-15T08:52:11Z
@@ -2437,7 +2437,7 @@
   Updated: 2026-10-30T11:26:09Z
   Total Products: 2
 - [KYMIRA Infrared Recovery Apparel](https://runwithfreedom.com/collections/kymira-infrared-recovery-apparel): Boost your recovery with KYMIRA infrared activewear at Run With Freedom. Shop clinically proven gear designed to accelerate muscle recovery for runners and triathletes.
-  Updated: 2026-10-02T11:27:19Z
+  Updated: 2026-11-07T12:28:19Z
   Total Products: 75
 - [Swole Panda](https://runwithfreedom.com/collections/swole-panda): Shop the Swole Panda collection at Run With Freedom®. Discover sustainable bamboo socks, breathable boxer shorts, organic cotton hats, & recycled woven belts.
   Updated: 2026-09-20T21:51:57Z
