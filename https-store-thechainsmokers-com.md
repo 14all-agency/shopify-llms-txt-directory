@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2019-03-07T18:46:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-01T00:54:05.866Z
+- Updated At: 2026-11-08T01:04:10.266Z
 
 ## Products
 
@@ -382,14 +382,14 @@
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSTEXASKOOZIE-3.png?v=1762447861
   Price: $2.50 USD
 - [Everyday Hat](https://store.thechainsmokers.com/products/everyday-hat): The Chainsmokers Everyday Hat in black. Mid Profile, durable plastic snap closure
-  Updated: 2026-10-17T11:22:23Z
+  Updated: 2026-11-06T21:47:02Z
   Vendor: The Chainsmokers
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0089/0762/0414/files/TCSECHOHAT-2.png?v=1778253458
   Price: $35.00 USD
 - [Stamp Long Sleeve](https://store.thechainsmokers.com/products/stamp-long-sleeve): The Chainsmokers Stamp Long Sleeve in black with front and back print. 100% Cotton
-  Updated: 2026-10-27T01:53:33Z
+  Updated: 2026-11-05T22:50:17Z
   Vendor: The Chainsmokers
   Product Type: SHIRT
   Availability: Available
@@ -410,7 +410,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Stamp Tee](https://store.thechainsmokers.com/products/stamp-tee): The Chainsmokers Stamp Tee in black with front print only.
-  Updated: 2026-10-20T19:06:00Z
+  Updated: 2026-11-05T22:50:16Z
   Vendor: The Chainsmokers Store
   Product Type: T-Shirt
   Availability: Available
@@ -434,7 +434,7 @@
 ## Collections
 
 - [Home page](https://store.thechainsmokers.com/collections/frontpage)
-  Updated: 2026-10-29T11:03:00Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 61
 - [New & Featured](https://store.thechainsmokers.com/collections/new-featured)
   Updated: 2026-10-17T11:02:31Z
@@ -443,16 +443,16 @@
   Updated: 2026-10-17T11:02:31Z
   Total Products: 4
 - [APPAREL](https://store.thechainsmokers.com/collections/apparel)
-  Updated: 2026-10-29T11:03:00Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 79
 - [ACCESSORIES](https://store.thechainsmokers.com/collections/accessories)
-  Updated: 2026-10-18T11:02:18Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 33
 - [MUSIC](https://store.thechainsmokers.com/collections/music)
   Updated: 2026-07-08T21:52:47Z
   Total Products: 3
 - [Hats](https://store.thechainsmokers.com/collections/hats)
-  Updated: 2026-10-20T19:04:20Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 19
 - [So Far So Good](https://store.thechainsmokers.com/collections/soearlysogood)
   Updated: 2026-10-20T19:06:03Z
@@ -461,7 +461,7 @@
   Updated: 2026-10-20T19:06:04Z
   Total Products: 22
 - [All](https://store.thechainsmokers.com/collections/all)
-  Updated: 2026-10-29T11:03:00Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 136
 - [The Party Never Ends](https://store.thechainsmokers.com/collections/the-party-never-ends)
   Updated: 2026-10-20T19:06:03Z
@@ -473,7 +473,7 @@
   Updated: 2026-09-02T11:02:54Z
   Total Products: 7
 - [T-Shirts](https://store.thechainsmokers.com/collections/t-shirts)
-  Updated: 2026-10-27T11:01:47Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 48
 - [Outerwear](https://store.thechainsmokers.com/collections/outerwear)
   Updated: 2026-10-15T11:03:19Z
@@ -485,7 +485,7 @@
   Updated: 2026-10-12T11:02:19Z
   Total Products: 4
 - [Echo Collection](https://store.thechainsmokers.com/collections/echo-collection)
-  Updated: 2026-10-27T11:01:47Z
+  Updated: 2026-11-06T12:03:50Z
   Total Products: 3
 
 ## Store Pages
