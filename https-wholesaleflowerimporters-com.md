@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-07T21:14:25Z
 - Contact Email: carl@modhort.com
-- Updated At: 2026-10-31T00:35:01.230Z
+- Updated At: 2026-11-08T00:27:54.497Z
 
 ## Collections
 
@@ -51,7 +51,7 @@
 ## Policies
 
 - [Privacy Policy](https://wholesaleflowerimporters.com/policies/privacy-policy)
-  Updated: 2026-05-07T21:14:36Z
+  Updated: 2026-10-31T10:59:57Z
 
 ## Optional
 
