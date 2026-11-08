@@ -6,7 +6,7 @@
 - Timezone: Asia/Almaty
 - Created At: 2025-10-22T09:54:10Z
 - Contact Email: nhatco.it@gmail.com
-- Updated At: 2026-10-31T00:36:03.274Z
+- Updated At: 2026-11-08T00:28:24.809Z
 
 ## Products
 
@@ -190,7 +190,7 @@
 ## Policies
 
 - [Privacy Policy](https://store-test-1-9639.myshopify.com/policies/privacy-policy)
-  Updated: 2025-10-22T09:54:20Z
+  Updated: 2026-10-31T03:55:39Z
 
 ## Optional
 
