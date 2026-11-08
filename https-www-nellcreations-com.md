@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-10-31T00:31:00.063Z
+- Updated At: 2026-11-08T00:33:35.559Z
 
 ## Products
 
@@ -18,21 +18,21 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/demaquillant-yeux-avril-bouteille-plastique-transparente-etiquette-936.webp?v=1780330797
   Price: 7,00 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-10-18T22:48:40Z
+  Updated: 2026-11-05T10:29:28Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-nettoyant-visage-avril-tube-bleu-clair-897.webp?v=1780330815
   Price: 5,00 € EUR
 - [Soin bio Avril contour yeux lèvres zones fragiles](https://www.nellcreations.com/products/soin-contour-des-yeux-et-levres): Ce soin bio Avril hydrate les zones fragiles du visage. Sa formule naturelle traite la peau délicate du contour des yeux et des lèvres avec douceur et précision.
-  Updated: 2026-10-18T22:43:20Z
+  Updated: 2026-11-05T10:29:30Z
   Vendor: Nellcréations
   Product Type: contour des yeux et lèvres
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1780330841
   Price: 3,60 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-08-18T21:39:25Z
+  Updated: 2026-11-05T10:29:28Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
@@ -52,13 +52,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-desalterant-avril-visage-elegante-bouteille-verre-transparente-554.webp?v=1780330877
   Price: 9,00 € EUR
-- [Sérum lissant Avril bio aux ingrédients naturels](https://www.nellcreations.com/products/serum-lissant-30ml-certifie-bio): Le sérum lissant Avril certifié bio contient des actifs naturels pour le visage. Ce soin atténue les cernes et les poches tout en lissant les traits de la peau.
-  Updated: 2026-10-30T15:08:25Z
-  Vendor: Nellcréations
-  Product Type: sérum visage lissant
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/serum-lissant-avril-visage-bouteille-verre-transparente-pompe-blanche-761.webp?v=1780330885
-  Price: 3,60 € EUR
 - [Crème visage corps Avril bio karité aloé vera hydratante](https://www.nellcreations.com/products/creme-visage-corps-200-ml-certifiee-bio): Cette crème hydratante Avril pour visage et corps contient du beurre de karité et de l'aloé vera bio. Elle nourrit la peau sèche de toute la famille dès trois ans.
   Updated: 2026-07-21T14:00:12Z
   Vendor: Nellcréations
@@ -116,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/gel-thermo-amincissant-nellcreations-soin-corps-bouteille-cylindrique-450.webp?v=1780331137
   Price: 21,00 € EUR
 - [Bouquet parfumé nuage de coton diffuseur fleur](https://www.nellcreations.com/products/bouquet-parfume-nuage-de-coton): Ce diffuseur de parfum Nellcréations imprègne des tiges de rotin pour libérer une senteur de fleur de coton. Ce flacon assure une diffusion constante et durable.
-  Updated: 2026-10-27T13:58:46Z
+  Updated: 2026-10-31T11:38:26Z
   Vendor: Nellcréations
   Product Type: Diffuseur de parfum
   Availability: Available
@@ -199,6 +192,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/pack-minceur-nellcreations-trois-flacons-plastique-blancs-etiquettes-454.webp?v=1780331253
   Price: 60,50 € EUR
+- [Bien vivre les changements – Le guide bien-être féminin](https://www.nellcreations.com/products/bien-vivre-les-changements-le-guide-bien-etre-feminin): Bien vivre les changements Le guide bien-être pour mieux comprendre et accompagner les changements hormonaux chez la femme. Parce que chaque femme traverse des changements au cours de sa vie, j'ai souhaité créer ce guide pour t'apporter des informations, des conseils et des idées simples pour mieux vivre cette période. Tu y trouveras des explications pour mieux comprendre ton corps, des conseils pour prendre soin de toi, des exercices de bien-être, des idées de repas équilibrés ainsi qu'un carnet personnel pour t'accompagner au quotidien. Format numérique : PDF téléchargeable. Annie – Nellcréations
+  Updated: 2026-11-07T21:41:42Z
+  Vendor: Nellcréations
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/couverture.png?v=1793914265
+  Price: 9,90 € EUR
 
 ## Collections
 
@@ -206,26 +206,26 @@
   Updated: 2026-07-21T09:31:26Z
   Total Products: 2
 - [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-10-24T11:18:41Z
+  Updated: 2026-11-05T12:29:49Z
   Total Products: 16
 - [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
-  Updated: 2026-10-28T11:34:24Z
+  Updated: 2026-11-01T12:21:59Z
   Total Products: 3
 - [Nellcréations - Gamme minceur et corps](https://www.nellcreations.com/collections/nellcreations-gamme-minceur-et-corps): La collection Nellcréations propose un draineur au thé pêche, un lait à la fleur de coton, des gels amincissants et un pack minceur pour le soin du corps complet.
-  Updated: 2026-10-27T11:39:30Z
+  Updated: 2026-11-05T20:44:22Z
   Total Products: 6
 - [Bijoux](https://www.nellcreations.com/collections/nouveaute-chez-nellcreations): Nellcréations propose une collection de bijoux artisanaux incluant des colliers et boucles d’oreilles aux thèmes floraux comme Rosa Rouge ou Jardin Éternel Bleu.
   Updated: 2026-07-21T22:13:35Z
   Total Products: 7
 - [Nellcréations](https://www.nellcreations.com/collections/nellcreations): Nellcréations propose une gamme de soins incluant lait hydratant, gels amincissants et packs minceur ainsi que des bougies et parfums d'ambiance au nuage de coton.
-  Updated: 2026-10-28T11:34:24Z
+  Updated: 2026-11-05T20:44:22Z
   Total Products: 8
 - [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-10-28T11:34:24Z
+  Updated: 2026-11-05T12:29:49Z
   Total Products: 10
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-28T11:34:24Z
-  Total Products: 39
+  Updated: 2026-11-07T12:27:08Z
+  Total Products: 40
 
 ## Blogs
 
@@ -294,11 +294,13 @@
   Updated: 2026-06-15T14:32:20Z
 - [Offres du moment soins exclusifs beauté bien être](https://www.nellcreations.com/pages/offres-du-moment): ✨ Le soin inédit du mois Chaque mois, Le salon de beauté Nellcréations vous propose un soin exclusif, imaginé pour sublimer votre peau et vous offr...
   Updated: 2026-07-21T14:53:11Z
+- [Guide bien-être](https://www.nellcreations.com/pages/guide-bien-etre): Le bien-être commence par soi Prendre soin de soi, c'est aussi apprendre à s'écouter, comprendre son corps et s'accorder du temps. J'ai imaginé cet...
+  Updated: 2026-11-07T17:52:12Z
 
 ## Policies
 
 - [Privacy Policy](https://www.nellcreations.com/policies/privacy-policy)
-  Updated: 2025-07-02T14:01:03Z
+  Updated: 2026-10-31T13:51:46Z
 - [Shipping Policy](https://www.nellcreations.com/policies/shipping-policy)
   Updated: 2026-09-30T10:13:29Z
 - [Refund Policy](https://www.nellcreations.com/policies/refund-policy)
