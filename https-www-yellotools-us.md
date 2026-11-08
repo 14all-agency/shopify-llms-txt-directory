@@ -10,12 +10,12 @@
 - Contact Email: sales@yellotools.us
 - Contact Phone: +1 714 2733223
 - Address: 7510 Orangewood Ave Unit B Stanton CA 90680 USA
-- Updated At: 2026-10-31T00:41:36.198Z
+- Updated At: 2026-11-08T00:42:07.474Z
 
 ## Products
 
 - [CutCoaster cutter mouse](https://www.yellotools.us/products/cutcoaster): Cutter mouse for use with safety cutting ruler. Shop now for special signmaking tools at Yellotools.us!
-  Updated: 2026-10-22T05:42:48Z
+  Updated: 2026-11-03T19:25:51Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -135,7 +135,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellowheel_rollmesser_werbetechnik_yellotools01997.png?v=1765668690
   Price: $14.99 USD
 - [TinnyCut small vinyl cutter](https://www.yellotools.us/products/tinnycut): A handy paper and vinyl cutter for signmakers: Wrapping professionals use the TinnyCut for cutting all kinds of materials. Shop now at Yellotools.us!
-  Updated: 2026-09-10T07:06:05Z
+  Updated: 2026-11-04T16:10:48Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -199,20 +199,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/2049.jpg?v=1738098664
   Price: $33.93 USD
-- [YelloMini Hang-Loose | angled mini squeegee](https://www.yellotools.us/products/yellomini-quot-hang-loose-quot): Small squeegees which help you to apply car wrap vinyls in tight corners and crevices. Wrapping professionals shop for tools at Yellotools.us!
-  Updated: 2026-10-12T23:30:07Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellomini-hang-loose_angewinkelte-mini-rakel_car-wrapping_angled-mini-squeegee_yellotools_101997.jpg?v=1770022428
-  - [45°](https://www.yellotools.us/products/yellomini-quot-hang-loose-quot?variant=50884818338098)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellomini-hangloose_gebogene-minirakel_werbetechnik_yellotools_0201997.jpg?v=1770022482
-    Price: $4.97 USD
-  - [90°](https://www.yellotools.us/products/yellomini-quot-hang-loose-quot?variant=50884818370866)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellomini-hangloose_gebogene-minirakel_werbetechnik_yellotools_0201997.jpg?v=1770022482
-    Price: $4.97 USD
 - [ProWrap - Bio I (biodegradable)](https://www.yellotools.us/products/prowrap-bio-i-biodegradable): Bio I Series: Constructed using recycled wood particles. We support any effort for a "Green Future" for our children. That's why we are always looking for more ecofriendly plastic alternatives. Our first Bio-Squeegee was just allowed to be considered "ecofriendly". But our latest bio-mix was tested by a prestigious German institute and obtained a full biodegradable status, which is officially . And now you can make some money with the world first biodegradable Signmaker-Squeegee. Shore: 62° (flexible) Made of 23% recycled Wood
   Updated: 2026-09-10T07:05:20Z
   Vendor: Yellotools GmbH
@@ -235,7 +221,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/3790.png?v=1738098660
   Price: $6.80 USD
 - [Yellotools ProWrap Duo plastic squeegee](https://www.yellotools.us/products/prowrap-duo-squeegee): Plastic squeegee with 4'' and 6'' edge length. Shop now for vinyl application tools at Yellotools.us!
-  Updated: 2026-09-30T09:23:04Z
+  Updated: 2026-11-03T18:13:36Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -384,7 +370,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/3421.png?v=1738098651
   Price: $9.99 USD
 - [Yellotools YelloBig 12'' plastic squeegee](https://www.yellotools.us/products/yellobig-12-quot-squeegee): Plastic squeegee for large-format vinyl film applications. Shop now for signmaker tools at Yellotools.us!
-  Updated: 2026-10-07T16:20:11Z
+  Updated: 2026-11-03T19:25:52Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -398,7 +384,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yelloflex-shape_nassverklebung_rakel_werbetechnik_yellotools_01ct7gbcgdcjwee01997.jpg?v=1765668673
   Price: $11.99 USD
 - [Squeegee Dragster](https://www.yellotools.us/products/squeegee-dragster): Squeegee repair made easy: Worn out tools become like new again with the Squeegee Dragster. Shop now at Yellotools.us!
-  Updated: 2026-09-10T06:51:19Z
+  Updated: 2026-11-06T16:31:05Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -412,7 +398,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/2265.jpg?v=1738098646
   Price: $16.99 USD
 - [SignTrim Mini](https://www.yellotools.us/products/signtrim-mini): Deburring of sign edges becomes an easy job with SignTrim Mini by Yellotools. Shop for sign maker tools online at Yellotools.us!
-  Updated: 2026-10-22T14:52:41Z
+  Updated: 2026-11-06T21:41:46Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -539,7 +525,7 @@
     Availability: Not Available
     Price: $496.32 USD
 - [TitanBlades BodyGuardKnife](https://www.yellotools.us/products/titanblades-bgk-10pk): Extra-sharp and durable replacement blades for BodyGuardKnife vinyl cutters. Shop online for specialist cutting tools at Yellotools.us!
-  Updated: 2026-10-29T19:01:37Z
+  Updated: 2026-11-05T00:17:47Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -553,7 +539,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/spareblades-bodyguardknife_ersatzklinge_werbetechnik_yellotools01997.jpg?v=1765668653
   Price: $4.49 USD
 - [TeflonShoes](https://www.yellotools.us/products/teflonshoes-5pk): Replacement Teflon pads for Yellotools vinyl film and liner cutters. Shop now for specialist cutting tools at Yellotools.us!
-  Updated: 2026-10-29T19:01:27Z
+  Updated: 2026-11-06T15:24:27Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -581,7 +567,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/flatmag-hd_flachmagnet_magnet_werbetechnik_car-wrapping_yellotools_0101997.jpg?v=1765668648
   Price: $9.53 USD
 - [Gene-ius Mag HD mounting magnet with metal pin](https://www.yellotools.us/products/gene-ius-mag-hd): Flat magnet with stainless steel pin for car wrapping and signmaking applications. shop for smart magnet solutions on Yellotools.us!
-  Updated: 2026-10-07T16:46:46Z
+  Updated: 2026-11-03T19:25:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -652,7 +638,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/5521.jpg?v=1738098615
   Price: $28.31 USD
 - [YelloBlade squeegee blade for film removal](https://www.yellotools.us/products/yelloblade): Remove old vinyl films and stickers quickly and easily with YelloBlade, the special squeegee blade made by Yellotools!
-  Updated: 2026-10-29T20:41:40Z
+  Updated: 2026-11-04T16:10:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -694,13 +680,13 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/signtoolbox_werkzeugtasche_werkzeugkoffer_toolbox_yellotools_0101997.jpg?v=1765668631
   Price: $54.37 USD
 - [YelloBelt ProWrap](https://www.yellotools.us/products/yellobelt-prowrap-orange): Practical fanny pack for vehicle wrappers and signmakers With the YelloBelt ProWrap, all your tools are always at hand: The tool bag with belt loop can be equipped depending on the job and folded for transport to save space - and the tools cannot fall out!The YelloBelt ProWrap is characterized by a multitude of well thought-out features: The outside is free of rivets, buttons and other metal parts that could touch or damage the car body during car wrapping, for example.All tools are easy to reach and can be grasped "blindly" with a little routine: Whether WrapSticks, knives, squeegees, tape measure or bubble piercing tool - everything has its place here, including a metal plate for application magnets! A clear pocket for business cards is there as well, so you can leave your contact data right on the spot ;-)The YelloBelt ProWrap is available in orange, pink or black.Product features durable nylon fabric very light (approx. 170 g) dimensions: 17,5 x 18 x 2,5 cm (closed) completely closable with velcro pads sewn-in metal plate for magnets several carrying options rivet-free surface business card pocket Decorative items on the product images are not part of the scope of supply. Color deviations are possible depending on the incidence of light! Yellotools - Innovation for sign making and car wrapping
-  Updated: 2026-10-30T20:14:11Z
+  Updated: 2026-11-05T23:37:36Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellobelt-prowrap-schwarz_werkzeugtasche_autofolierung_car-wrapping_werbetechnik_black-tool-bag_yellotools_0101997.jpg?v=1770669612
   - [Black](https://www.yellotools.us/products/yellobelt-prowrap-orange?variant=50730672226610)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellobelt-prowrap-schwarz_werkzeugtasche_autofolierung_car-wrapping_werbetechnik_black-tool-bag_yellotools_0101997.jpg?v=1770669612
     Price: $27.12 USD
   - [Orange](https://www.yellotools.us/products/yellobelt-prowrap-orange?variant=50730672259378)
@@ -726,14 +712,14 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/prohold_magnetarmband-fuer-schrauben_werbetechnik_yellotools01997.jpg?v=1765668628
   Price: $39.99 USD
 - [EasyCord](https://www.yellotools.us/products/easycord): Tool attachment holder Stop searching for your squeegees! The EasyCord tethers your tools to your tool bag or belt loop with a retractable cord that extends to a maximum length of 40". It features a quick-release connector for attaching/detaching your tools - just equip them individually with a connector and you can easily switch between a squeegee, WrapSlipCut or YelloTape Start, for example. Additional connectors are available in packs of 5.
-  Updated: 2026-10-19T09:30:05Z
+  Updated: 2026-11-05T00:17:47Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/1713.jpg?v=1738098605
   Price: $12.25 USD
 - [EasyCord Plug (5pk.)](https://www.yellotools.us/products/easycord-plug-5pk): Spare plugs for the EasyCord. Sold in pack of 5
-  Updated: 2026-09-10T06:53:00Z
+  Updated: 2026-11-05T00:17:47Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -754,7 +740,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/easydot-hd-ink_spitze_tieflochmarker_werbetechnik_yellotools01997.jpg?v=1765668620
   Price: $13.61 USD
 - [FlatSignScale | rewritable measuring tape](https://www.yellotools.us/products/flatsignscale): Heavy-duty measuring tape with rewritable surface and locking mechanism. 16 feet of length. Signmakers shop for tools at Yellotools.us!
-  Updated: 2026-09-10T06:53:13Z
+  Updated: 2026-11-03T17:27:16Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -781,13 +767,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellowipe-air_reinigungstuch_cleaning-towel_werbetechnik_signmaking_yellotools01997.jpg?v=1765668613
   Price: $35.99 USD
-- [EasyPump pump spray bottle](https://www.yellotools.us/products/easypump): Apply cleaning agents and application fluids with this high-quality pressure pump container. Signmakers shop for tools & supplies at Yellotools.us!
-  Updated: 2026-10-25T05:09:26Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/easypump_spruehflasche_car-wrapping_yellotools_301997.jpg?v=1765668611
-  Price: $27.12 USD
 - [PowerCleaner](https://www.yellotools.us/products/powercleaner): Don't push dust and particles aside when you can remove them – cleanly! This innovative cleaning system captures dust and particles directly from your sign substrate without scratching or leaving static behind. Power Cleaner is literally a space age technology, developed for use in space technology clean rooms and bio- research labs, where an absolutely dust- and particle-free environment is of the utmost importance – just as it is with sign-making applications, where it's critical that your vinyl is applied on a completely clean and particle-free surface. By working closely with our partner, we're now able to bring you this advanced cleaning system at the most affordable price ever. Here's how it works: Simply roll the Power Cleaner slowly and steadily over the surface in a single direction. The special rubber-like roller material captures all the dust particles securely. Remove the protective paper from the roller-cleaning sheet Roll the dirty roller from the top, downward on the viscous roller-cleaning sheet The particles are then safely captured and cannot be transferred back to your substrate.
   Updated: 2026-10-15T20:49:27Z
   Vendor: Yellotools GmbH
@@ -811,7 +790,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/3730.png?v=1738098591
     Price: $272.35 USD
 - [PowerCleaner Pad](https://www.yellotools.us/products/powercleaner-pad): Cleaning pads for dust roller PowerCleaner Matching pads for our cleaning rollers PowerCleaner 6" and 12". Usable with PadHolder (sold separately) for easy-to-reach application. Every pad contains 50 cleaning sheets. This is how the cleaning system works: Roll PowerCleaner slowly and evenly over the contaminated surface. The adhesive coating catches the dust on the roll and holds it there. Remove the protective paper of a sheet from PowerCleaner Pad. Roll the soiled roller from top to bottom over the sticky side of the cleaning sheet. The particles are picked up by the sheet and the cleaning roller is "reloaded" at the same time. Yellotools - Innovation for sign making and car wrapping
-  Updated: 2026-10-02T16:23:19Z
+  Updated: 2026-11-03T17:27:16Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -825,7 +804,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellodusty_staubbindetuch_honigtuch_werbetechnik_yellotoolsjp4abxe4hv3t301997.jpg?v=1765668607
   Price: $14.99 USD
 - [SpeedClips (50pk.)](https://www.yellotools.us/products/speedclips-50pk): Retaining clips for roll media Store vinyl film rolls and other roll media fast, easy & clean with Yellotools SpeedClips: They pop on and off in less than a second, without wasted tape or damaged media! SpeedClips offer extremely long durability and dimensional stability, even when left on thick rolls for a long time. The flexibility of these clips is unique - see for yourself! Product features high quality plastic material Made in Germany practical release grip superb handling and durability reshapeable for thinner rolls leave no pressure marks on the film leave no ink residues on the film Available variants (50 pieces each)SpeedClips L (Orange) inner diameter: 3" - can secure rolls up to 5" in diameter hold rolls up to 98 feet of material length SpeedClips XL (Yellow) inner diameter: 4.5" - can secure rolls up to 6.5" in diameter hold rolls up to 164 feet of material length
-  Updated: 2026-10-08T21:29:56Z
+  Updated: 2026-11-02T17:35:37Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -951,7 +930,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/6315.jpg?v=1738098569
   Price: $28.99 USD
 - [LowRider car wrapping workshop stool](https://www.yellotools.us/products/lowrider): Enjoy great seating comfort and maneuverability when applying car wrap vinyls: Yellotools LowRider is the perfect choice for professional applicators!
-  Updated: 2026-10-27T19:14:16Z
+  Updated: 2026-11-04T20:14:57Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -965,7 +944,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/rubberlift_anhebewerkzeug_car-wrap-tool_yellotools01997.jpg?v=1765668589
   Price: $8.16 USD
 - [WrapFinger](https://www.yellotools.us/products/wrapfinger): Finger glove for professional vinyl applications Some vinyl wrappers believe that a glove with five fingers is absolutely unnecessary for vehicle wrapping - they only need one of their fingers to press on the film. Of course, we have the right product for this in our portfolio: the WrapFinger! This finger glove is ideal for applying the right pressure to the film during car wrapping. All other fingers remain free and can be used for other activities. Thanks to its high-quality material and seamless finish, the robust WrapFinger glides perfectly over films and laminates.Product features optimal gliding abilities seamlessly processed material reusable and very robust perfect for dry and wet applications WrapFingers are available in assorted colors in packs of 5 or 10.But if you prefer a car wrapping glove with five fingers, you will surely like our GloveMaxx ProWrap with their excellent gliding properties, or the YelloGloves ;-)
-  Updated: 2026-09-10T06:54:30Z
+  Updated: 2026-11-04T23:38:36Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1033,14 +1012,14 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/1881.jpg?v=1738098555
   Price: $67.49 USD
 - [TitanBlades - Trapez (10pk.)](https://www.yellotools.us/products/titanblades-trapez-10pk): Spare blades for YelloGuide Flexi and SasserCut Pro These trapezoid blades have a Titanium-Nitride coating, which helps the blade glide through material more smoothly, as well as helping the blade stay sharper for longer. Fitting for YelloGuide Flexi 2.0 SasserCut Pro SasserCut Pro Set Sold in packs of 10
-  Updated: 2026-10-28T23:24:23Z
+  Updated: 2026-11-04T19:38:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/titanblades-trapez_replacement-blades_ersatzklingen_trapezklingen_yellotools_101997.jpg?v=1765668575
   Price: $9.53 USD
 - [SafetyRuler Platinum safety cutting ruler](https://www.yellotools.us/products/safetyruler-platinum): Cutting ruler for signmaking professionals. Expandable with cutting mouse and ruler coupling. Shop for sign maker tools online at Yellotools.us!
-  Updated: 2026-10-29T20:20:36Z
+  Updated: 2026-11-03T17:59:06Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1062,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/safetyruler-platin_schneidelineal_cutting-ruler_yellotools_401997.jpg?v=1770328198
     Price: $87.36 USD
 - [YelloRoller Flexi adjustable pressure roller](https://www.yellotools.us/products/yelloroller-flexi): Application roller with adjustable handle for signmaking jobs, various densities and widths available. Discover our special tools on Yellotools.us!
-  Updated: 2026-10-07T16:40:51Z
+  Updated: 2026-11-06T17:55:55Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1098,7 +1077,7 @@
     Availability: Available
     Price: $113.64 USD
 - [YelloRoller Plain](https://www.yellotools.us/products/yelloroller-plain): Simplified pressure roller with angled handle YelloRoller Plain makes it much easier to apply large-format graphics, digital prints and stencil films. Thanks to its sturdy construction and smooth-running, replaceable rollers, this hand roller is the ideal application tool with a long service life and excellent price-performance ratio.This application roller is a simpler version of the YelloRoller Flexi without its adjustable handle. This version also offers ball-bearing rollers with excellent running characteristics in two different hardness and five width variants. It is ideal, for example, as a secondary or spare tool for outdoor use on construction sites and in other environments with an increased risk of contamination.Product features pressure roller for gluing applications two different roll hardnesses five different roll widths high-performance rolls with ball bearings optimized smooth running properties high quality finish We also offer several other application rollers, such as the YelloRoller Duo and Ziggy with two rollers, as well as the budget-priced YelloRoller Eco. Order your new pressure roller directly online here in our webshop! Yellotools - Innovation for signmaking and car wrapping
-  Updated: 2026-10-19T21:23:16Z
+  Updated: 2026-11-05T17:37:06Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1173,7 +1152,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yelloflex-12_zoll_plastic-squeegee_plastikrakel_yellotools01997_1.jpg?v=1779170027
     Price: $12.99 USD
 - [YelloFleece Pro (60pk.)](https://www.yellotools.us/products/yellofleece-pro-60pk): Those soft fibers are perfect for soaking up water.They are made off Poly-Propylene which forms a resistance fleece. Therefore you can use them much longer and they are eco-friendly, tear-proof and fuzz-free. Size of one towlett: 29 x 38 cm 12 inches x 12.5 inches, 60 towletts per dispenser
-  Updated: 2026-10-25T05:09:36Z
+  Updated: 2026-11-06T21:41:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1224,7 +1203,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/sassercut-pro-set_spaltmesser_gap-knife_car-wrapping_yellotools_0101997.jpg?v=1765668566
   Price: $108.86 USD
 - [HeavyHolder](https://www.yellotools.us/products/heavyholder-back-order): The HeavyHolder is the great idea of our customer Dirk Franzen. Instead of using annoying masking tape, he came up with finely balanced weights to hold his prints in place while working. HeavyHolder comes with protective pads on the bottom, preventing scratches on your media.
-  Updated: 2026-09-10T06:55:30Z
+  Updated: 2026-11-03T19:25:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1315,7 +1294,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/3760.png?v=1738098539
   Price: $6.12 USD
 - [ProBasic - Bio II (biodegradable)](https://www.yellotools.us/products/probasic-bio-ii-biodegradable): Bio II Series: Constructed using recycled wood particles. We support any effort for a "Green Future" for our children. That's why we are always looking for more ecofriendly plastic alternatives. Our first Bio-Squeegee was just allowed to be considered "ecofriendly". But our latest bio-mix was tested by a prestigious German institute and obtained a full biodegradable status, which is officially . And now you can make some money with the world first biodegradable Signmaker-Squeegee. Shore: 83° (medium-rigid) Made of 23% recycled Wood
-  Updated: 2026-09-15T21:15:18Z
+  Updated: 2026-11-02T17:37:16Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1328,15 +1307,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/4195.png?v=1738098537
   Price: $6.80 USD
-- [CutCoaster Wheel cutting mouse with circular blade](https://www.yellotools.us/products/cutcoaster-wheel): Cutting mouse with circular blade for professional signmaking applications. Shop now at Yellotools.us!
-  Updated: 2026-10-25T17:01:17Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/cutcoaster_wheel_schneidemaus_mit_rollklinge_werbetechnik_yellotools-501997.jpg?v=1765668558
-  Price: $54.37 USD
 - [SasserCut Pro gap cutter for car wrap vinyls](https://www.yellotools.us/products/sassercut-pro): Roller-guided car wrapping knife for cutting vinyls in bodywork gaps. Adjustable cut depth. Titanium-coated steel blade. Shop now at Yellotools.us!
-  Updated: 2026-10-26T22:58:17Z
+  Updated: 2026-11-07T18:33:55Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1357,7 +1329,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/4093.png?v=1738098533
   Price: $122.49 USD
 - [YelloBelt Set - Pro](https://www.yellotools.us/products/yellobelt-set-pro): Large tool set for signmakers and car wrappers This is the most packed YelloBelt Set in our lineup. The YelloBelt Set "Pro" includes: 1x YelloBelt 1x ProWrap Gold 1x ProWrap Silver 1x YelloMaxx Blue 1x YelloWings Felt (5pk.) 1x YelloWings Micro (5pk.) 1x YelloDusty (25pk.) 1x JanusWeeder 1x YelloGloves (pair) ***Select size*** 2x SpeedMag HD 1x FlatSignScale 1x YelloCut M Pro 1x BladeBreaker Mini 1x YelloBlade Orange
-  Updated: 2026-10-07T16:28:57Z
+  Updated: 2026-11-04T19:40:45Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1427,7 +1399,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/3139.jpg?v=1738098525
   Price: $189.99 USD
 - [SpeedClips (single)](https://www.yellotools.us/products/speedclips-single): Easily handle vinyl film rolls with retaining clips by Yellotools The original Yellotools SpeedClips hold roll media securely together and save you vast amounts of adhesive and masking tape ;-) They offer extremely long durability and dimensional stability, even when left on thick rolls for a long time. The flexibility of these clips is unique - try it for yourself! Product features high quality plastic material Made in Germany practical release grip superb handling and durability reshapeable for thinner rolls leave no pressure marks on the film leave no ink residues on the film Available variantsSpeedClips L (Orange) inner diameter: 3" - can secure rolls up to 5" in diameter hold rolls up to 98 feet of material length SpeedClips XL (Yellow) inner diameter: 4.5" - can secure rolls up to 6.5" in diameter hold rolls up to 164 feet of material length
-  Updated: 2026-10-19T09:30:05Z
+  Updated: 2026-11-03T14:07:37Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1461,13 +1433,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/4357.jpg?v=1738098520
   Price: $4.99 USD
-- [ProTeflon Shoe](https://www.yellotools.us/products/proteflon-shoe): Of course, all of you who already bought one of our BodyGuard Knives can upgrade your old one to the TEFLON version as well. Due to the fact that we kept the same dimensions as the standard knife, you can simply change the cutting bracket as easily as changing the blade.
-  Updated: 2026-10-29T19:01:21Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/pro-teflon-shoe_gleitfuss-mit-teflonbeschichtung_werbetechnik_yellotools01997.jpg?v=1765668542
-  Price: $27.12 USD
 - [2-K-Cut](https://www.yellotools.us/products/2-k-cut): At a tradeshow in Germany, we were asked by Mrs. Jutta Köbel-Käding, with Köbel Werbetechnik, to build a special Draw-and-Cut device for her. She wanted a 50cm (approx. 20”) stainless steel ruler with a right angle on one side. Thanks to our CNC-Waterjet cutter, this wasn´t a big  at all. The 2-K-Cut (just guess, what the “Double K” stands for:)) is also available with our famous X-treme Mat, which holds the ruler on all flat surfaces, like magic!
   Updated: 2026-09-10T06:57:10Z
   Vendor: Yellotools GmbH
@@ -1483,7 +1448,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/angelcutter_messer-fuer-randschnitte_werbetechnik_yellotools_201997.jpg?v=1765668541
   Price: $67.99 USD
 - [Appfix](https://www.yellotools.us/products/appfix): Wrinkle-free applications with the Appfix premask dispenser Made with simple, one-person operation in mind, Appfix not only makes error-free premasking elegantly simple, it also increases efficiency. Therefore, you can produce more in less time while eliminating wrinkles and stresses that affect the quality of your vinyl application. For an efficient sign-making workflow, you need to get it right from the beginning to the end. With Appfix you will, because error-free vinyl application begins with great vinyl and digital print masking. - designed for easy, one-person operation - rollers with ball bearings for extra smooth operation (see image 3) - manually adjustable roller brake - Includes simple, tool-free fastening brackets (see images 4 & 5) - unit shipped unassembled for shipping purposes - some assembly required
-  Updated: 2026-10-20T16:46:48Z
+  Updated: 2026-11-03T02:12:37Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1582,7 +1547,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/5023.jpg?v=1738098501
   Price: $67.99 USD
 - [MagTape Ruler](https://www.yellotools.us/products/magtape-ruler): Magnetic tape measure for non-magnetic surfaces MagTape Ruler features a micro-suction surface on the back, which enables it to stick to glass or other flat, smooth surfaces. The front side allows the use of magnets for positioning of graphics before final application. This is the ideal accessory to install lettering and graphics on shop window panes! When you're done, the MagTape Ruler comes off just as easily as it went on, leaving zero adhesive residue or any evidence that it was ever there. Yet another part of your job made super simple! Available lengths: 10" 20" 40" 60"
-  Updated: 2026-10-24T19:58:16Z
+  Updated: 2026-11-03T19:25:52Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1807,7 +1772,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wetmaxx-inbus-lang-4x14mm-pack_werbetechnik_yellotools.jpg?v=1738886188
     Price: $5.19 USD
 - [YelloBabe Set Pink | Signmaking Tool Set](https://www.yellotools.us/products/yellobabe-set-pink): A completely pink tool set, assembled for female signmakers. Shop now for the best sign maker tools at Yelllotools.us!
-  Updated: 2026-09-20T16:27:52Z
+  Updated: 2026-11-04T19:34:09Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1821,7 +1786,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/janus-hooknneedle_aufstechnadel-und-entgitterwerkzeug_werbetechnik_yellotools_101997.jpg?v=1765668504
   Price: $20.79 USD
 - [WrapDragon plastic squeegee](https://www.yellotools.us/products/wrapdragon-squeegee): Enter the WrapDragon, the latest vinyl squeegee by Yellotools! Car wrappers, vinyl applicators and signmakers shop online at yellotools.us!
-  Updated: 2026-10-27T07:52:46Z
+  Updated: 2026-11-07T05:59:05Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1866,7 +1831,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/probasic-zero_rakel-aus-abbaubarem-bio-kunststoff_degradable-bio-plastic-squeegee_yellotools_0101997.jpg?v=1765668503
   Price: $7.79 USD
 - [EdgeWrap Cutter Mastermind](https://www.yellotools.us/products/edgewrap-cutter-mastermind): Cutting template for furniture wrapping. EdgeWrap Cutter Mastermind is now available online at Yellotools.us!
-  Updated: 2026-10-16T15:49:26Z
+  Updated: 2026-11-03T21:25:18Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1901,7 +1866,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/janus-precisionknife_cuttermesser_skalpellmesser_yellotools_0101997.jpg?v=1765668497
   Price: $15.59 USD
 - [TimStick | Lifting aid for vinyl film rolls](https://www.yellotools.us/products/the-timstick): Lift and handle film rolls easily with the Yellotools TimStick and Twister Slot. Discover storage solutions for signmakers and vinyl wrappers at Yellotools.us!
-  Updated: 2026-10-08T23:40:58Z
+  Updated: 2026-11-02T17:35:42Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1926,7 +1891,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/treemaxx-flexi_folienrollenregal_folienlagerung_film-roll-rack_vinyl-roll-storage_yellotools_2.jpg?v=1738882396
     Price: $844.87 USD
 - [Yellotools Twister Slot | mobile film roll holder](https://www.yellotools.us/products/twister-slot): Optimal film roll storage with the Yellotools Twister Slot. Save space and use back-friendly lifting and storage of heavy vinyl rolls. Shop now at Yellotools.us!
-  Updated: 2026-10-25T16:03:57Z
+  Updated: 2026-11-02T17:35:46Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -1939,13 +1904,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/twister-slot-9er_mobiler-rollenhalter-fuer-folienrollen_folienlagerung_mobile-film-roll-holder_vinyl-roll-storage_yellotools_1.jpg?v=1738882239
     Price: $168.87 USD
-- [TimStick Station | Holder for lifting aid](https://www.yellotools.us/products/timstick-station): The Yellotools TimStick makes handling vinyl film rolls much easier. It is kept ready to go in the TimStick Station. Shop now at Yellotools.us!
-  Updated: 2026-10-12T15:41:21Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/12489.jpg?v=1738098470
-  Price: $25.87 USD
 - [Yellotools Twister Slot Stripe | Floor stand for 7 vinyl film rolls](https://www.yellotools.us/products/twister-slot-stripe): Twister Slot makes it easier for signmakers and car wrappers to handle heavy rolls of film. Save your back and order now online at Yellotools.us!
   Updated: 2026-10-08T21:30:00Z
   Vendor: Yellotools GmbH
@@ -1996,7 +1954,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-betty-gold_minirakel_carwrap-tool_yellotools.jpg?v=1738880935
     Price: $12.99 USD
 - [WrapStick Eco Carson](https://www.yellotools.us/products/wrapstick-eco-carson): Mini squeegee for applying car wrap vinyls behind rubber seals. Visit us at Yellotools.us and discover our products!
-  Updated: 2026-10-07T00:37:47Z
+  Updated: 2026-11-04T22:14:49Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2014,7 +1972,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-carson-peekaboo_minirakel_car-wrap-tool_yellotools.jpg?v=1738880353
     Price: $12.99 USD
 - [WrapStick Eco Flex](https://www.yellotools.us/products/wrapstick-eco-flex): Mini squeegee for car wrapping applications on trim parts and seals. Wrapping professionals work with tools by Yellotools!
-  Updated: 2026-10-27T07:52:46Z
+  Updated: 2026-11-05T22:27:25Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2039,14 +1997,14 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-hangloose_minirakel_car-wrap-tool_yellotools01997.jpg?v=1765668484
   Price: $12.99 USD
 - [WrapStick Eco Hook](https://www.yellotools.us/products/wrapstick-eco-hook): Car Wrapping mini squeegee for perfect wraps in door edges and narrow gaps. Discover our tools for wrapping professionals at Yellotools.us!
-  Updated: 2026-10-27T07:52:46Z
+  Updated: 2026-11-04T22:14:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-hook-teflon_mini-rakel_mini-squeegee_yellotools01997.jpg?v=1765668483
   Price: $12.99 USD
 - [WrapStick Eco Sloan](https://www.yellotools.us/products/wrapstick-eco-sloan): Mini squeegee for applying car wrap vinyls behind rubber seals. Wrapping professionals work with tools and accessories by Yellotools!
-  Updated: 2026-10-27T09:19:56Z
+  Updated: 2026-11-04T22:14:48Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2064,7 +2022,7 @@
     Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-sloan-peekaboo_mini-rakel_squeegee-stick_yellotools.jpg?v=1738100068
     Price: $12.99 USD
 - [WrapStick Eco Tupp](https://www.yellotools.us/products/wrapstick-eco-tupp): Mini squeegee to apply car wrap vinyls to recessed parts. Now also available as Eco version without magnet. Car wrappers work with tools by Yellotools!
-  Updated: 2026-10-15T16:18:57Z
+  Updated: 2026-11-04T16:10:46Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2084,15 +2042,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/wrapstick-eco-set_rakel-set_car-wrap-squeegees_squeegee-set_yellotools01997.jpg?v=1765668482
   Price: $167.70 USD
-- [BodyGuardKnife EVO vinyl cutter with Teflon glide base](https://www.yellotools.us/products/bodyguard-knife-evo-back-order): The latest BodyGuardKnife with Teflon glide base, pocket hook and bottle opener. Shop now for specialist tools at Yellotools.us!
-  Updated: 2026-10-30T06:46:26Z
-  Vendor: Yellotools GmbH
-  Product Type: Product
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/bodyguardknife-evo_pull-cut_folienschneider_folienmesser_vinyl-cutter_liner-cutter_yellotools_801997.jpg?v=1765668480
-  Price: $54.22 USD
 - [WrapDragon SlipCut plastic squeegee with blade guides](https://www.yellotools.us/products/wrapdragon-slipcut-squeegee): Vinyl squeegee with guiding slits for 9 mm cutter blades. Perfect distance cuts on window films. Shop now for sign maker tools at Yellotools.us!
-  Updated: 2026-10-29T20:40:22Z
+  Updated: 2026-11-03T18:13:37Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2308,7 +2259,7 @@
   Image: https://cdn.shopify.com/s/files/1/0913/9270/4818/files/yellocase-tweezer-set-6_pinzetten-set_tweezers-set_yellotools_101997.jpg?v=1765724511
   Price: $127.29 USD
 - [YelloGear LineSet](https://www.yellotools.us/products/yellogear-lineset): Seven-piece tool bag set with belt or sash Enjoy the exceptional carrying comfort and freedom of movement of the YelloGear LineSets during film applications and signmaking installations:With these two carrying sets, you always keep your tools at hand, either by belt on the hip or by sash over the shoulder.Thanks to the sophisticated modular system, all tool bags and holders can be adapted to your individual needs.The YelloGear LineSet is available in two versions: YelloGear LineSet Belt YelloGear LineSet Sash 03. YelloGear MagPatch 03. YelloGear MagPatch 06. YelloGear Quiver 06. YelloGear Quiver 07. YelloGear BigPouch 07. YelloGear BigPouch 08. YelloGear SteelPatch 08. YelloGear SteelPatch 09. YelloGear TripleMini 09. YelloGear TripleMini 11. YelloGear TriplePouch 11. YelloGear TriplePouch 14. YelloGear Belt 01. YelloGear Sash Pictured tools are not included. Yellotools - Innovation for sign making and car wrapping
-  Updated: 2026-09-24T19:55:37Z
+  Updated: 2026-11-07T18:33:56Z
   Vendor: Yellotools GmbH
   Product Type: Product
   Availability: Available
@@ -2336,82 +2287,82 @@
   Updated: 2026-08-11T11:18:13Z
   Total Products: 6
 - [Car Wrapping Tools](https://www.yellotools.us/collections/car-wrapping-tools): Professional car wrap tools and accessories. Perfect vinyl wraps on hoods, doors and bumpers with quality tools Made in Germany. Shop now at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 91
 - [Wipes](https://www.yellotools.us/collections/wipes): Prepare surfaces perfectly before you apply any paint or vinyl with Yellotools cleaning supplies for Sign Makers and Car Wrappers!
-  Updated: 2026-10-27T11:19:58Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 5
 - [Anti-Static](https://www.yellotools.us/collections/anti-static): We offer innovative cleaning tools and cleaning fluids for sign making and car wrapping professionals. Shop now at Yellotools.us!
-  Updated: 2026-10-27T11:19:58Z
+  Updated: 2026-11-04T12:17:01Z
   Total Products: 5
 - [Organization](https://www.yellotools.us/collections/organization): Organize your vinyl roll storage with dedicated roll clips and storage cards made by Yellotools. Shop online now: Large selection✓ High quality✓ Fast delivery✓
-  Updated: 2026-10-23T11:21:09Z
+  Updated: 2026-11-04T12:17:01Z
   Total Products: 17
 - [Floor Storage](https://www.yellotools.us/collections/floor-storage): Get your vinyl rolls stored with Yellotools' mobile Twister roll holders: Quality products *Made in Germany* for sign makers. Shop now at Yellotools.us!
-  Updated: 2026-10-26T11:21:12Z
+  Updated: 2026-11-03T12:17:39Z
   Total Products: 20
 - [Wall Storage](https://www.yellotools.us/collections/wall-storage): Adjustable and easy-to-reach viny roll storage products: Store your film rolls neatly and efficiently with Yellotools racks and shelves!
   Updated: 2026-10-14T11:31:05Z
   Total Products: 16
 - [Car Wrap Furniture](https://www.yellotools.us/collections/car-wrap-furniture): Yellotools Car Wrap Furniture allows you to work more efficiently. Workshop stools✓ Step ladders✓ Work platforms✓ Tool carts✓ Shop now at yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 9
 - [Tempering / Post-Heating](https://www.yellotools.us/collections/tempering-post-heating): Heatguns, temperature scanners and gas torches to get vinyl wraps done without any trouble. Shop now at Yellotools.us!
   Updated: 2026-10-30T11:15:12Z
   Total Products: 8
 - [Cutting](https://www.yellotools.us/collections/cutting): Knives, Cutters and Scissors, Blades, Cutting Mats and Rulers -  essential supply for Signmakers and Car Wrappers at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
-  Total Products: 107
+  Updated: 2026-11-07T12:18:24Z
+  Total Products: 106
 - [Applying](https://www.yellotools.us/collections/applying): Application tools for Car Wrapping and Sign Making professionals - we got everything you neeed for perfect work results. Shop now at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 66
 - [Cleaning](https://www.yellotools.us/collections/cleaning): Application fluid and cleaning agents, anti-static cleaning supply, special wipes and ore useful accessoires for signmakers! Shop now at Yellotools.us!
-  Updated: 2026-10-29T22:19:52Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 16
 - [Mounting](https://www.yellotools.us/collections/mounting): Equipment for mounting signs and banners. Measuring tools, assembly helpers, brackets and banner holders. Shop now at Yellotools.us!
-  Updated: 2026-10-25T11:17:53Z
+  Updated: 2026-11-04T12:17:01Z
   Total Products: 19
 - [Tool Organization](https://www.yellotools.us/collections/tool-organization): Keep your vinyl application tools always handy with Yellotools tool bags and pouch systems. Large selection✓ High quality✓ Fast delivery ✓
-  Updated: 2026-10-28T11:16:38Z
+  Updated: 2026-11-05T12:14:52Z
   Total Products: 17
 - [Storage](https://www.yellotools.us/collections/storage): Discover our wide range of wall and floor storage solutions: Space-saving vinyl roll storage and organization made easy! Sign makers shop online at Yellotools.us!
-  Updated: 2026-10-26T11:21:12Z
+  Updated: 2026-11-04T12:17:01Z
   Total Products: 51
 - [Labeling](https://www.yellotools.us/collections/labeling): Shop for Floor and Wall Rollers, Mounting Magnets and other Special Tools for Sign Makers and Car Wrapping at the Yellotools Web Shop!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-06T12:16:42Z
   Total Products: 46
 - [Car Wrapping](https://www.yellotools.us/collections/car-wrapping): Professional car wrapping equipment for perfect wrap jobs. Buy quality car wrap tools and accessories online at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 109
 - [Removal](https://www.yellotools.us/collections/removal): Graphics removal made easy with special squeegee blades and ratchet removers! Shop now at Yellotools.us: Quality products ✓ Great prices ✓ Fast delivery ✓
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 13
 - [New Products](https://www.yellotools.us/collections/new-products): The latest & greatest tools and accessories for sign makers and car wrappers at Yellotools.us. Discover new products for your wrap life!
-  Updated: 2026-10-30T11:15:12Z
-  Total Products: 62
+  Updated: 2026-11-07T12:18:24Z
+  Total Products: 65
 - [WrapSticks](https://www.yellotools.us/collections/wrapsticks): The original WrapSticks for car vinyl installation. Various shapes & built-in magnets. Apply vinyls in crevices and blind spots. Shop now at Yellotools.us!
-  Updated: 2026-10-29T11:18:14Z
+  Updated: 2026-11-06T12:16:42Z
   Total Products: 15
 - [YelloGear](https://www.yellotools.us/collections/yellogear): Keep your tools handy anytime with these customizable tool belts and pouches. Discover specialty products for sign makers and car wrappers at Yellotools.us!
   Updated: 2026-09-25T11:19:57Z
   Total Products: 17
 - [Squeegees](https://www.yellotools.us/collections/squeegees): Plastic squeegees, wooden squeegees, felt squeegees and squegee buffers for professional sign makers and car wrappers. Shop now at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 58
 - [Plastic Squeegees](https://www.yellotools.us/collections/plastic-squeegees): Wide range of plastic squeegees for sign making and car wrapping professionals. Shop for specialty squeegees at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 48
 - [Felt Squeegees](https://www.yellotools.us/collections/felt-squeegees): Yellotools felt squeegees are perfect application tools for vinyl films and transfer films. Shop now at Yellotools.us!
-  Updated: 2026-10-29T11:18:14Z
+  Updated: 2026-11-05T12:14:52Z
   Total Products: 3
 - [Squeegee Sets](https://www.yellotools.us/collections/squeegee-sets): Squeegee sets for sign making and car wrapping applications: Shop now for professional tools *Made in Germany* at Yellotools.us!
   Updated: 2026-10-14T11:31:06Z
   Total Products: 2
 - [Wooden Squeegees](https://www.yellotools.us/collections/wooden-squeegees): Extra-large wooden squeegees for application of window graphics, floor graphics  and wall graphics. Shop now at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 6
 - [Squeegee Accessories](https://www.yellotools.us/collections/squeegee-accessories): Squeegee buffers in different shapes and sizes, squeegee handles and adaptors for perfect vinyl installations and more: Shop now for pro tools at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-05T12:14:52Z
   Total Products: 6
 - [YelloPEG](https://www.yellotools.us/collections/yellopeg): Yellotools' PEG wall system for car wrappers and sign makers: Use your space efficiently and create a versatile workshop for all kinds of applications!
   Updated: 2026-07-08T20:25:05Z
@@ -2420,16 +2371,16 @@
   Updated: 2026-07-08T20:25:05Z
   Total Products: 16
 - [Crafting / Plotting](https://www.yellotools.us/collections/crafting-plotting): Design and produce stickers, lettering and graphics from plotter films and textile films with tools by Yellotools. Shop now at Yellotool.us!
-  Updated: 2026-10-29T11:18:14Z
+  Updated: 2026-11-05T12:14:52Z
   Total Products: 6
 - [Furniture Wrapping](https://www.yellotools.us/collections/furniture-wrapping): Refresh interiors and furniture by applying vinyl films with Yellotools products: Dedicated quality tools, Made in Germany. Shop now at Yellotools.us!
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 10
 - [Shop Equipment](https://www.yellotools.us/collections/shop-equipment): Dedicated equipment for signmaking an car wrapping shops: Discover our products online at Yellotools.us!
   Updated: 2026-07-08T20:25:05Z
   Total Products: 0
 - [Cutting Mats](https://www.yellotools.us/collections/cutting-mats)
-  Updated: 2026-10-27T11:19:58Z
+  Updated: 2026-11-06T12:16:42Z
   Total Products: 4
 - [YelloGear](https://www.yellotools.us/collections/yellogear-1)
   Updated: 2026-09-25T11:19:57Z
@@ -2441,35 +2392,38 @@
   Updated: 2026-07-08T21:03:37Z
   Total Products: 2
 - [Bags](https://www.yellotools.us/collections/bags)
-  Updated: 2026-10-28T11:16:38Z
+  Updated: 2026-11-06T12:16:42Z
   Total Products: 10
 - [Bag Sets](https://www.yellotools.us/collections/bag-sets-1)
-  Updated: 2026-10-24T11:18:17Z
+  Updated: 2026-11-05T12:14:52Z
   Total Products: 11
 - [New products](https://www.yellotools.us/collections/new-products-1)
-  Updated: 2026-10-30T11:15:12Z
-  Total Products: 62
+  Updated: 2026-11-07T12:18:24Z
+  Total Products: 65
 - [PriceNULLCheck](https://www.yellotools.us/collections/pricenullcheck)
-  Updated: 2026-10-29T20:30:26Z
-  Total Products: 33
+  Updated: 2026-11-01T00:28:25Z
+  Total Products: 30
 - [PPF](https://www.yellotools.us/collections/ppf)
-  Updated: 2026-10-28T11:16:38Z
+  Updated: 2026-11-03T12:17:39Z
   Total Products: 10
 - [Special Tools](https://www.yellotools.us/collections/special-tools)
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-04T12:17:01Z
   Total Products: 14
 - [Labeling](https://www.yellotools.us/collections/labeling-1)
-  Updated: 2026-10-29T11:18:14Z
+  Updated: 2026-11-06T12:16:41Z
   Total Products: 12
 - [Deburring / Finishing](https://www.yellotools.us/collections/deburring-finishing)
-  Updated: 2026-10-30T11:15:12Z
+  Updated: 2026-11-07T12:18:24Z
   Total Products: 27
 - [APPPlaza - Best Sellers](https://www.yellotools.us/collections/appplaza-best-sellers)
-  Updated: 2026-10-30T11:15:12Z
-  Total Products: 476
+  Updated: 2026-11-07T12:18:24Z
+  Total Products: 486
 - [Bundles](https://www.yellotools.us/collections/bundles)
   Updated: 2026-09-21T08:04:58Z
   Total Products: 2
+- [ShadeShifter](https://www.yellotools.us/collections/shadeshifter)
+  Updated: 2026-11-01T01:08:22Z
+  Total Products: 8
 
 ## Blogs
 
