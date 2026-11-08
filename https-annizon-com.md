@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-08-11T07:36:26Z
 - Contact Email: info@annizon.com
-- Updated At: 2026-10-31T00:20:03.402Z
+- Updated At: 2026-11-08T00:19:25.194Z
 
 ## Products
 
@@ -2083,69 +2083,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1755584663.jpg?v=1628670164
     Price: $41.92 USD
-- [Morandi-Color Plastic Vase – Modern Nordic Tabletop Vase](https://annizon.com/products/morandi-plastic-vase): Modern Nordic vase in muted Morandi colors. Lightweight shatterproof plastic. For dried flowers or standalone decor.
-  Updated: 2026-10-17T20:11:12Z
-  Vendor: Wanderlust Decors
-  Product Type: Vases
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1614204475.jpg?v=1631711042
-  - [3503 green](https://annizon.com/products/morandi-plastic-vase?variant=40770090467487)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796928.jpg?v=1628670167
-    Price: $7.08 USD
-  - [3515 white](https://annizon.com/products/morandi-plastic-vase?variant=40770090533023)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796929.jpg?v=1628670164
-    Price: $9.88 USD
-  - [3505 white](https://annizon.com/products/morandi-plastic-vase?variant=40770090631327)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796926.jpg?v=1628670166
-    Price: $7.08 USD
-  - [3503 pink](https://annizon.com/products/morandi-plastic-vase?variant=40770090696863)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796927.jpg?v=1628670167
-    Price: $7.08 USD
-  - [3505 Pink](https://annizon.com/products/morandi-plastic-vase?variant=40770090762399)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796938.jpg?v=1628670165
-    Price: $7.08 USD
-  - [3219 green](https://annizon.com/products/morandi-plastic-vase?variant=40770090795167)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796936.jpg?v=1628670166
-    Price: $4.30 USD
-  - [3219 white](https://annizon.com/products/morandi-plastic-vase?variant=40770090860703)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796937.jpg?v=1628670168
-    Price: $4.30 USD
-  - [3524 dark blue](https://annizon.com/products/morandi-plastic-vase?variant=40770090893471)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796934.jpg?v=1628670166
-    Price: $6.84 USD
-  - [3219pink](https://annizon.com/products/morandi-plastic-vase?variant=40770090926239)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796935.jpg?v=1628670164
-    Price: $4.30 USD
-  - [3524 white](https://annizon.com/products/morandi-plastic-vase?variant=40770090959007)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796932.jpg?v=1628670164
-    Price: $6.84 USD
-  - [3524 Pink](https://annizon.com/products/morandi-plastic-vase?variant=40770090991775)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796933.jpg?v=1628670165
-    Price: $6.84 USD
-  - [3516 white](https://annizon.com/products/morandi-plastic-vase?variant=40770091024543)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796930.jpg?v=1628670163
-    Price: $7.60 USD
-  - [3516 Deep Blue](https://annizon.com/products/morandi-plastic-vase?variant=40770091057311)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1636796931.jpg?v=1628670165
-    Price: $7.60 USD
-  - [3616 pink](https://annizon.com/products/morandi-plastic-vase?variant=40770091090079)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/9310/7359/products/product-image-1809406130.jpg?v=1628670167
-    Price: $7.60 USD
-[List Continued](https://annizon.com/a/llms-agent/llms.txt?shop=wanderlust-decors.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MDAzNjk5NDc4Njg3LCJsYXN0X3ZhbHVlIjoiNzAwMzY5OTQ3ODY4NyJ9)
+[List Continued](https://annizon.com/a/llms-agent/llms.txt?shop=wanderlust-decors.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3MDAzNjk5NDQ1OTE5LCJsYXN0X3ZhbHVlIjoiNzAwMzY5OTQ0NTkxOSJ9)
 
 ## Collections
 
@@ -2174,8 +2112,8 @@
   Updated: 2026-10-28T19:37:15Z
   Total Products: 5
 - [Gift Cards](https://annizon.com/collections/gift-cards): - Annizon.com
-  Updated: 2026-10-28T19:37:16Z
-  Total Products: 1
+  Updated: 2026-11-01T23:18:44Z
+  Total Products: 2
 - [Baby and Kids](https://annizon.com/collections/baby-and-kids): - Annizon.com
   Updated: 2026-10-28T19:37:16Z
   Total Products: 0
@@ -2228,14 +2166,14 @@
   Updated: 2026-10-28T19:37:17Z
   Total Products: 34
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [Candles](https://annizon.com/collections/candles): Candles and candle holders for a cozy home. Warm light and scent – the simplest way to make any room feel inviting.
   Updated: 2026-10-28T19:37:17Z
   Total Products: 3
 - [Tobi Collection](https://annizon.com/collections/tobi-collection): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 72748
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 73002
 - [Wood](https://annizon.com/collections/wood): - Annizon.com
   Updated: 2026-10-28T19:37:17Z
   Total Products: 2
@@ -2282,11 +2220,11 @@
   Updated: 2026-10-28T19:37:18Z
   Total Products: 1
 - [Best  Products](https://annizon.com/collections/best--products): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 72907
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 73163
 - [Newest Products](https://annizon.com/collections/newest-products): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 72907
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 73163
 - [Bedding](https://annizon.com/collections/bedding): - Annizon.com
   Updated: 2026-10-28T19:37:19Z
   Total Products: 9
@@ -2336,13 +2274,13 @@
   Updated: 2026-10-28T19:37:20Z
   Total Products: 289
 - [Health & Beauty](https://annizon.com/collections/health-beauty): - Annizon.com
-  Updated: 2026-10-28T19:37:20Z
+  Updated: 2026-11-06T06:23:22Z
   Total Products: 72
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-1): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [Baby Girl](https://annizon.com/collections/baby-girl): - Annizon.com
-  Updated: 2026-10-28T19:37:20Z
+  Updated: 2026-10-31T08:52:15Z
   Total Products: 40
 - [Baby Boy](https://annizon.com/collections/baby-boy): - Annizon.com
   Updated: 2026-10-28T19:37:20Z
@@ -2354,7 +2292,7 @@
   Updated: 2026-10-28T19:37:20Z
   Total Products: 442
 - [Digital Products](https://annizon.com/collections/digital-products): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
+  Updated: 2026-11-07T12:09:54Z
   Total Products: 6
 - [Affirmation](https://annizon.com/collections/affirmation): - Annizon.com
   Updated: 2026-10-28T19:37:20Z
@@ -2372,17 +2310,17 @@
   Updated: 2026-10-28T19:37:21Z
   Total Products: 47
 - [AVADA Email Marketing - Newest Products](https://annizon.com/collections/avada-email-marketing-newest-products): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [AVADA Email Marketing - Best Sellers](https://annizon.com/collections/avada-email-marketing-best-sellers): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [tinyEinstein_best_selling](https://annizon.com/collections/tinyeinstein_best_selling): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [tinyEinstein_new_arrival](https://annizon.com/collections/tinyeinstein_new_arrival): - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [Home & Kitchen](https://annizon.com/collections/home-kitchen): - Annizon.com
   Updated: 2026-10-28T19:37:21Z
   Total Products: 2
@@ -2420,8 +2358,8 @@
   Updated: 2026-10-28T19:37:22Z
   Total Products: 12
 - [Recommended products (Seguno)](https://annizon.com/collections/recommended-products-seguno-2): This collection was generated by the Seguno app for use in email marketing and is not available on any sales channels. By default, it is configured to show your best- products that are in stock and not free. - Annizon.com
-  Updated: 2026-10-30T11:09:56Z
-  Total Products: 64128
+  Updated: 2026-11-07T12:09:54Z
+  Total Products: 64374
 - [Electronics](https://annizon.com/collections/electronics): - Annizon.com
   Updated: 2026-10-28T19:37:22Z
   Total Products: 38
@@ -2446,6 +2384,9 @@
 - [AI Employee System — Start Here](https://annizon.com/collections/ai-employee-system-start-here): The focus of annizon.com. Two offers only: start with the $29 playbook that shows the system, or hire us to install it for you for $2,000. Digital and service only — no physical shipping, no inventory risk.1. $29 Playbook — Hire an AI That Will Make You Money While You Sleep (34-page PDF, delivered by email automatically)2. $2,000 Done-For-You Setup — We install the same system on your Shopify store. Call (833) 999-3187 after checkout. - Annizon.com
   Updated: 2026-10-28T19:37:23Z
   Total Products: 2
+- [Pillows and Covers](https://annizon.com/collections/pillows-and-covers): Shop pillows and covers at Annizon: memory foam and cervical pillows, pregnancy and knee pillows for side sleepers, cooling pillows, massage and reading pillows. Everyday comfort for better sleep.
+  Updated: 2026-11-01T18:29:24Z
+  Total Products: 16
 
 ## Blogs
 
@@ -3120,6 +3061,18 @@
   - [Effortless Layering Made Easy With an Open Front Striped Cardigan: Tips and Tricks](https://annizon.com/blogs/news/effortless-layering-made-easy-with-an-open-front-striped-cardigan-tips-and-tricks): Effortless Layering Made Easy With an Open Front Striped Cardigan: Tips and Tricks
     Updated: 2026-10-30T00:22:17Z
     Author: annizon.com
+  - [Exploring Fall's Hottest Trends with the Leopard Trim Button Up Jacket](https://annizon.com/blogs/news/exploring-falls-hottest-trends-with-the-leopard-trim-button-up-jacket): Exploring Fall's Hottest Trends with the Leopard Trim Button Up Jacket
+    Updated: 2026-10-31T00:43:49Z
+    Author: annizon.com
+  - [Exploring the Comfort and Convenience of Round Toe Slip-Ons for Everyday Wear](https://annizon.com/blogs/news/exploring-the-comfort-and-convenience-of-round-toe-slip-ons-for-everyday-wear): Exploring the Comfort and Convenience of Round Toe Slip-Ons for Everyday Wear
+    Updated: 2026-11-01T00:27:57Z
+    Author: annizon.com
+  - [10 Ways to Style Your Tie Front Round Neck Long Sleeve Maxi Dress for Every Occasion](https://annizon.com/blogs/news/10-ways-to-style-your-tie-front-round-neck-long-sleeve-maxi-dress-for-every-occasion): 10 Ways to Style Your Tie Front Round Neck Long Sleeve Maxi Dress for Every Occasion
+    Updated: 2026-11-06T00:22:55Z
+    Author: annizon.com
+  - [Mastering Chic Layering: Elevate Your Style with a Heathered Open Front Longline Cardigan](https://annizon.com/blogs/news/mastering-chic-layering-elevate-your-style-with-a-heathered-open-front-longline-cardigan): Mastering Chic Layering: Elevate Your Style with a Heathered Open Front Longline Cardigan
+    Updated: 2026-11-07T00:46:43Z
+    Author: annizon.com
 
 ## Store Pages
 
@@ -3143,8 +3096,8 @@
   Updated: 2022-01-25T04:24:51Z
 - [1 Purchase 1 Tree](https://annizon.com/pages/1-product-1-tree): You reforest the world The simplest way for you to plant trees around the world. You SHOP, we PLANT! annizon.com is partnering with https://onetree...
   Updated: 2022-08-03T18:55:46Z
-- [html sitemap products](https://annizon.com/pages/html-sitemap-products): Products Multifunctional Dispenser Faci... Five-holding sun umbrella Umbrellas Folding UV Protectio... Mini Pocket Umbrella UV Geometric Refrigerat...
-  Updated: 2022-03-22T12:04:32Z
+- [html sitemap products](https://annizon.com/pages/html-sitemap-products): Shop by Collection Browse everything at Annizon by collection. Every link below is a live collection in our store. View all collections 3D Wall Art...
+  Updated: 2026-11-01T17:54:26Z
 - [html sitemap collections](https://annizon.com/pages/html-sitemap-collections): Collections Clocks Home Decors Home Organization Home Textiles Household Merchandises Lights Dinnerware Gift Cards Baby and Kids Essentials Bath & ...
   Updated: 2022-03-22T12:04:35Z
 - [html sitemap blogs](https://annizon.com/pages/html-sitemap-blogs): Blogs News .seoant-html-sitemap-row { margin-bottom: 2.1rem; } .seoant-html-sitemap-row a { color: inherit; } .seoant-html-sitemap-row > h3 { margi...
@@ -3173,6 +3126,8 @@
   Updated: 2026-04-25T19:58:13Z
 - [ with us](https://annizon.com/pages/-with-us): iframe.garnet:focus-visible { outline: none; box-shadow: none; }
   Updated: 2026-04-25T19:58:14Z
+- [ & Cookies Disclosure](https://annizon.com/pages/-cookies-disclosure): Google AdSense and  Cookies Annizon uses Google AdSense to display advertisements on this website. Third-party vendors, including Google...
+  Updated: 2026-11-01T18:11:17Z
 
 ## Policies
 
