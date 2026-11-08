@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-05-23T03:29:44Z
 - Contact Email: support@vetcardsfl.com
-- Updated At: 2026-10-31T00:16:22.260Z
+- Updated At: 2026-11-08T00:18:32.953Z
 
 ## Products
 
@@ -17,83 +17,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880089-front.jpg?v=1781662087
   Price: $8.00 USD
-- [1995 Action Packed Rookies & Stars #92 Terrell Davis Rookie WCG GEM/MT 10](https://ruc1qy-fa.myshopify.com/products/1995-action-packed-rookies-stars-92-terrell-davis-rookie-wcg-gemmt-10-15071-108vdm): 995 Action Packed Rookies & Stars #92 Terrell Davis rookie card PSA 10 GEM MT. Hall of Fame RB, graded rookie era slab. Ships protected. Veteran Sports Cards FL.
-  Updated: 2026-10-19T05:24:15Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880090-front.jpg?v=1781662087
-  Price: $60.00 USD
-- [2024 Panini Prizm Draft Picks Fearless #F-JB Jonathon Brooks PSA 9](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-draft-picks-fearless-f-jb-jonathon-brooks-psa-9-15075-108vdq): 2024 Panini Prizm Draft Picks Fearless #F-JB Jonathon Brooks PSA 9 rookie card. Graded NFL Draft Picks slab. Ships protected. Veteran Sports Cards FL.
-  Updated: 2026-10-30T15:17:28Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880094-front.jpg?v=1781662089
-  Price: $16.00 USD
-- [1990 Topps Stickers Super Star Backs #35 Fred McGriff PSA 8 POP 1](https://ruc1qy-fa.myshopify.com/products/1990-topps-stickers-super-star-backs-35-fred-mcgriff-psa-8-pop-1-15084-108vdz): 1990 Topps Stickers Super Star Backs #35 Fred McGriff PSA 8 POP 1. Vintage baseball sticker card, highest graded copy. Veteran Sports Cards FL.
-  Updated: 2026-10-30T15:13:33Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880103-front.jpg?v=1781662093
-  Price: $20.00 USD
-- [2025 Donruss Elite #35 Xavier Worthy MPE 9.5](https://ruc1qy-fa.myshopify.com/products/2025-donruss-elite-35-xavier-worthy-mpe-95-15089-108ve4): 2025 Donruss Elite #35 Xavier Worthy MPE 9.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T14:41:31Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880108-front.jpg?v=1781662095
-  Price: $8.00 USD
-- [2024 Panini Phoenix Rookie Rising #RR-DTR Dallas Turner MPE 9.5](https://ruc1qy-fa.myshopify.com/products/2024-panini-phoenix-rookie-rising-rr-dtr-dallas-turner-mpe-95-15094-108ve9): 2024 Panini Phoenix Rookie Rising #RR-DTR Dallas Turner MPE 9.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T15:32:26Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880113-front.jpg?v=1781662095
-  Price: $12.00 USD
-- [2025 Donruss Elite The Elite Lavender #5 Jayden Daniels MPE 10](https://ruc1qy-fa.myshopify.com/products/2025-donruss-elite-the-elite-lavender-5-jayden-daniels-mpe-10-15096-108veb): 2025 Donruss Elite The Elite Lavender #5 Jayden Daniels MPE 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T14:09:49Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/33a.jpg?v=1781696877
-  Price: $16.00 USD
-- [2024 Panini Select Silver Prizm Die Cut #108 Baker Mayfield MPE 10](https://ruc1qy-fa.myshopify.com/products/2024-panini-select-silver-prizm-die-cut-108-baker-mayfield-mpe-10-15098-108ved): 2024 Panini Select Silver Prizm Die Cut #108 Baker Mayfield MPE 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T15:32:58Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/35a.jpg?v=1781696506
-  Price: $16.00 USD
-- [2024 Panini Select Green & Yellow Prizm Shock #134 J.J. McCarthy Rookie MPE 10](https://ruc1qy-fa.myshopify.com/products/2024-panini-select-green-yellow-prizm-shock-134-jj-mccarthy-rookie-mpe-10-15099-108vee): 2024 Panini Select Green & Yellow Prizm Shock #134 J.J. McCarthy Rookie MPE 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T14:24:41Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/36a.jpg?v=1781696460
-  Price: $20.00 USD
-- [2025 Donruss Elite Green Disco #116 Quinn Ewers Rookie MPE 10](https://ruc1qy-fa.myshopify.com/products/2025-donruss-elite-green-disco-116-quinn-ewers-rookie-mpe-10-15101-108veg): 2025 Donruss Elite Green Disco #116 Quinn Ewers Rookie MPE 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T14:09:45Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/38a.jpg?v=1781696828
-  Price: $20.00 USD
-- [2024 Panini Select Black & Red Prizm Shock #31 Brock Bowers Rookie MPE 9.5](https://ruc1qy-fa.myshopify.com/products/2024-panini-select-black-red-prizm-shock-31-brock-bowers-rookie-mpe-95-15102-108veh): 2024 Panini Select Black & Red Prizm Shock #31 Brock Bowers Rookie MPE 9.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T13:58:10Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/39a.jpg?v=1781696393
-  Price: $20.00 USD
-- [2024 Phoenix Treasured Tandems #TT Brock Purdy Christian McCaffreyMPE 9.5](https://ruc1qy-fa.myshopify.com/products/2024-phoenix-treasured-tandems-tt-brock-purdy-christian-mccaffreympe-95-15103-108vei): 2024 Phoenix Treasured Tandems #TT Brock Purdy Christian McCaffreyMPE 9.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T15:07:08Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/40a.jpg?v=1781694321
-  Price: $12.00 USD
 - [2024 Panini Select Black & Gold Prizm Shock #85 Najee Harris MPE GM/MT 10](https://ruc1qy-fa.myshopify.com/products/2024-panini-select-black-gold-prizm-shock-85-najee-harris-mpe-gmmt-10-15106-108vel): 2024 Panini Select Black & Gold Prizm Shock #85 Najee Harris MPE GM/MT 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T14:09:39Z
   Vendor: CDP
@@ -101,13 +24,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/43a.jpg?v=1781694250
   Price: $20.00 USD
-- [1995 Star Cal Ripken, Jr. 80 #44 Cal Ripken Jr. MINT 10](https://ruc1qy-fa.myshopify.com/products/1995-star-cal-ripken-jr-80-44-cal-ripken-jr-mint-10-15131-108vfa): '1995 Star Cal Ripken
-  Updated: 2026-10-30T13:55:39Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880150-front.jpg?v=1781662108
-  Price: $8.00 USD
 - [1987 Topps #320 Barry Bonds Rookie MINT GEM/MT 10](https://ruc1qy-fa.myshopify.com/products/1987-topps-320-barry-bonds-rookie-mint-gemmt-10-15134-108vfd): 1987 Topps #320 Barry Bonds Rookie MINT GEM/MT 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T13:55:49Z
   Vendor: CDP
@@ -129,13 +45,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880168-front.jpg?v=1781683561
   Price: $8.00 USD
-- [1991 Fleer Update #U-87 Jeff Bagwell FGA GEM/MT 10](https://ruc1qy-fa.myshopify.com/products/1991-fleer-update-u-87-jeff-bagwell-fga-gemmt-10-15150-108vft): 1991 Fleer Update #U-87 Jeff Bagwell FGA GEM/MT 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T13:53:21Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880169-front.jpg?v=1781683561
-  Price: $12.00 USD
 - [2011 Topps Chrome #182 J.P. Arencibia GMA GEM/MT 10  RC](https://ruc1qy-fa.myshopify.com/products/2011-topps-chrome-182-jp-arencibia-gma-gemmt-10-rc-15145-108vfo): 2011 Topps Chrome #182 J.P. Arencibia GMA GEM/MT 10 RCCard ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T13:46:23Z
   Vendor: CDP
@@ -143,13 +52,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880164-front.jpg?v=1781683561
   Price: $8.00 USD
-- [1998 Collector's Edge 1ST Place Record Setters #135 Peyton Manning Rookie MNT 10](https://ruc1qy-fa.myshopify.com/products/1998-collectors-edge-1st-place-record-setters-135-peyton-manning-rookie-mnt-10-15143-108vfm): '1998 Collector''s Edge 1ST Place Record Setters #135 Peyton Manning Rookie MNT 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!'
-  Updated: 2026-10-30T14:29:55Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880162-front.jpg?v=1781683562
-  Price: $40.00 USD
 - [1995 Upper Deck #215 Alex Rodriguez MINT 10](https://ruc1qy-fa.myshopify.com/products/1995-upper-deck-215-alex-rodriguez-mint-10-15133-108vfc): 1995 Upper Deck #215 Alex Rodriguez MINT 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T14:24:31Z
   Vendor: CDP
@@ -164,13 +66,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880149-front.jpg?v=1781683567
   Price: $16.00 USD
-- [1995 Star Cal Ripken, Jr. 80 (Unlicensed) #67 Cal Ripken Jr. MNT 10](https://ruc1qy-fa.myshopify.com/products/1995-star-cal-ripken-jr-80-unlicensed-67-cal-ripken-jr-mnt-10-15128-108vf7): '1995 Star Cal Ripken
-  Updated: 2026-10-30T15:07:06Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880147-front.jpg?v=1781683568
-  Price: $8.00 USD
 - [1996 Collector's Edge Rookie Rage Time Warp #TW3 Kobe Bryant Alex English MGS 10](https://ruc1qy-fa.myshopify.com/products/1996-collectors-edge-rookie-rage-time-warp-tw3-kobe-bryant-alex-english-mgs-10-15125-108vf4): '1996 Collector''s Edge Rookie Rage Time Warp #TW3 Kobe Bryant Alex English MGS 10Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!'
   Updated: 2026-10-30T15:06:01Z
   Vendor: CDP
@@ -185,13 +80,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880143-front.jpg?v=1781683569
   Price: $12.00 USD
-- [1991 Fleer #710 Second Generation Stars Ken Griffey Jr Barry Bonds MPE 9](https://ruc1qy-fa.myshopify.com/products/1991-fleer-710-second-generation-stars-ken-griffey-jr-barry-bonds-mpe-9-15123-108vf2): 1991 Fleer #710 Second Generation Stars Ken Griffey Jr Barry Bonds MPE 9Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T15:07:15Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880142-front.jpg?v=1781683570
-  Price: $16.00 USD
 - [1993 Upper Deck Home Run Heroes #HR9 Ken Griffey Jr. MPE 9](https://ruc1qy-fa.myshopify.com/products/1993-upper-deck-home-run-heroes-hr9-ken-griffey-jr-mpe-9-15122-108vf1): 1993 Upper Deck Home Run Heroes #HR9 Ken Griffey Jr. MPE 9Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T15:01:45Z
   Vendor: CDP
@@ -199,13 +87,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880141-front.jpg?v=1781683571
   Price: $24.00 USD
-- [1992 Donruss #576 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1992-donruss-576-ryne-sandberg-mpe-85-15121-108vf0): 1992 Donruss #576 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T13:55:40Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880140-front.jpg?v=1781683571
-  Price: $8.00 USD
 - [1990 Topps Kmart Super Stars #2 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1990-topps-kmart-super-stars-2-ryne-sandberg-mpe-85-15119-108vey): 1990 Topps Kmart Super Stars #2 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T15:03:09Z
   Vendor: CDP
@@ -213,33 +94,12 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880138-front.jpg?v=1781683572
   Price: $8.00 USD
-- [1993 Topps #3 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1993-topps-3-ryne-sandberg-mpe-85-15120-108vez): 1993 Topps #3 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T14:30:10Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880139-front.jpg?v=1781683573
-  Price: $8.00 USD
-- [1993 Triple Play #10 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1993-triple-play-10-ryne-sandberg-mpe-85-15118-108vex): 1993 Triple Play #10 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T13:56:57Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880137-front.jpg?v=1781683574
-  Price: $8.00 USD
 - [1991 Score #3 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1991-score-3-ryne-sandberg-mpe-85-15117-108vew): 1991 Score #3 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-19T00:15:50Z
   Vendor: CDP
   Product Type:  Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880136-front.jpg?v=1781683574
-  Price: $8.00 USD
-- [1993 Topps #402 Ryne Sandberg / Carlos Baerga MPE MINT 9](https://ruc1qy-fa.myshopify.com/products/1993-topps-402-ryne-sandberg-carlos-baerga-mpe-mint-9-15116-108vev): 1993 Topps #402 Ryne Sandberg / Carlos Baerga MPE MINT 9Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-30T13:46:34Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880135-front.jpg?v=1781683574
   Price: $8.00 USD
 - [1992 Topps #110 Ryne Sandberg MPE 9](https://ruc1qy-fa.myshopify.com/products/1992-topps-110-ryne-sandberg-mpe-9-15114-108vet): 1992 Topps #110 Ryne Sandberg MPE 9Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T16:46:02Z
@@ -254,13 +114,6 @@
   Product Type:  Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880130-front.jpg?v=1781683574
-  Price: $8.00 USD
-- [1992 Donruss #429 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1992-donruss-429-ryne-sandberg-mpe-85-15112-108ver): 1992 Donruss #429 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
-  Updated: 2026-10-19T00:14:27Z
-  Vendor: CDP
-  Product Type:  Card
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/60880131-front.jpg?v=1781683575
   Price: $8.00 USD
 - [1987 Fleer League Leaders #39 Ryne Sandberg MPE 8.5](https://ruc1qy-fa.myshopify.com/products/1987-fleer-league-leaders-39-ryne-sandberg-mpe-85-15110-108vep): 1987 Fleer League Leaders #39 Ryne Sandberg MPE 8.5Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned Business. We stand behind every card we .Built for the Collector - by a Veteran!
   Updated: 2026-10-30T14:21:15Z
@@ -1760,7 +1613,154 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997315-front.jpg?v=1783073088
   Price: $1.60 USD
-[List Continued](https://ruc1qy-fa.myshopify.com/a/llms-agent/llms.txt?shop=ruc1qy-fa.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTM2NDM3ODEzMjkwLCJsYXN0X3ZhbHVlIjoiNzkzNjQzNzgxMzI5MCJ9)
+- [2024 Panini Prizm Neon Green Pulsar 125 Tyquan Lewis 15572](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-neon-green-pulsar-125-tyquan-lewis-15572-11i91g): Football 2024 Panini Prizm #125 Tyquan Lewis Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:33:59Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997316-front.jpg?v=1783073088
+  Price: $1.25 USD
+- [2024 Panini Prizm Neon Green Pulsar 305 Anthony Gould Rookie Rc 15573](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-neon-green-pulsar-305-anthony-gould-rookie-rc-15573-11i91h): Football 2024 Panini Prizm #305 Anthony Gould RC Near Mint or Better Rookie Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:00Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997317-front.jpg?v=1783073090
+  Price: $1.25 USD
+- [2025 Panini Prizm Neon Green Pulsar 33 Hunter Henry 15574](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-neon-green-pulsar-33-hunter-henry-15574-11i91i): Football 2025 Panini Prizm #33 Hunter Henry Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:01Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997318-front.jpg?v=1783073091
+  Price: $1.50 USD
+- [2025 Panini Prizm Neon Green Pulsar 365 Dylan Sampson 15575](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-neon-green-pulsar-365-dylan-sampson-15575-11i91j): Football 2025 Panini Prizm #365 Dylan Sampson Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:02Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997319-front.jpg?v=1783073092
+  Price: $1.25 USD
+- [2025 Panini Prizm Neon Green Pulsar 323 Jordan James 15576](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-neon-green-pulsar-323-jordan-james-15576-11i91k): Football 2025 Panini Prizm #323 Jordan James Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:03Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997320-front.jpg?v=1783073093
+  Price: $1.25 USD
+- [2025 Panini Prizm Neon Green Pulsar 200 Jeremy Shockey 15577](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-neon-green-pulsar-200-jeremy-shockey-15577-11i91l): Football 2025 Panini Prizm #200 Jeremy Shockey Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:05Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997321-front.jpg?v=1783073094
+  Price: $1.25 USD
+- [2025 Panini Prizm Neon Green Pulsar 257 Lance Briggs 15578](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-neon-green-pulsar-257-lance-briggs-15578-11i91m): Football 2025 Panini Prizm #257 Lance Briggs Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:06Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997322-front.jpg?v=1783073096
+  Price: $1.25 USD
+- [2024 Panini Prizm Fireworks Green Prizm 10 Derrick Henry 15579](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-fireworks-green-prizm-10-derrick-henry-15579-11i91n): Football 2024 Panini Prizm #10 Derrick Henry Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:07Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997323-front.jpg?v=1783073096
+  Price: $1.60 USD
+- [2024 Panini Prizm Green Wave 106 Jaire Alexander 15580](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-green-wave-106-jaire-alexander-15580-11i91o): Football 2024 Panini Prizm #106 Jaire Alexander Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:08Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997324-front.jpg?v=1783073102
+  Price: $1.25 USD
+- [2025 Panini Prizm Green Wave 21 Matthew Stafford 15581](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-21-matthew-stafford-15581-11i91p): Football 2025 Panini Prizm #21 Matthew Stafford Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:09Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997325-front.jpg?v=1783073097
+  Price: $1.25 USD
+- [2025 Panini Prizm Draft Picks Prizms Gold Ice 102 Abdul Carter 15583](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-draft-picks-prizms-gold-ice-102-abdul-carter-15583-11i91r): Football 2025 Panini Prizm Draft Picks #102 Abdul Carter Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:10Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997327-front.jpg?v=1783073099
+  Price: $1.25 USD
+- [2025 Panini Prizm Fractal Green Wave 3 Malik Nabers 15585](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-fractal-green-wave-3-malik-nabers-15585-11i91t): Football 2025 Panini Prizm #3 Malik Nabers Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:11Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997329-front.jpg?v=1783073101
+  Price: $1.25 USD
+- [2024 Panini Prizm Green Wave 380 Nate Wiggins Rookie Rc 15586](https://ruc1qy-fa.myshopify.com/products/2024-panini-prizm-green-wave-380-nate-wiggins-rookie-rc-15586-11i91u): Football 2024 Panini Prizm #380 Nate Wiggins RC Near Mint or Better Rookie Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:12Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997330-front.jpg?v=1783073102
+  Price: $1.25 USD
+- [2025 Panini Prizm Prizmatic Green Wave 14 Larry Fitzgerald 15588](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-prizmatic-green-wave-14-larry-fitzgerald-15588-11i91w): Football 2025 Panini Prizm #14 Larry Fitzgerald Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:13Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997332-front.jpg?v=1783073103
+  Price: $1.25 USD
+- [2025 Panini Prizm Green Wave 161 Khalil Mack 15589](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-161-khalil-mack-15589-11i91x): Football 2025 Panini Prizm #161 Khalil Mack Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:14Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997333-front.jpg?v=1783073104
+  Price: $1.45 USD
+- [2025 Panini Prizm Green Wave 99 Ricky Pearsall 15590](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-99-ricky-pearsall-15590-11i91y): Football 2025 Panini Prizm #99 Ricky Pearsall Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:15Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997334-front.jpg?v=1783073104
+  Price: $1.25 USD
+- [2025 Panini Prizm Green Wave 320 Nick Emmanwori Rookie Rc 15591](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-320-nick-emmanwori-rookie-rc-15591-11i91z): Football 2025 Panini Prizm #320 Nick Emmanwori RC Near Mint or Better Rookie Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:16Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997335-front.jpg?v=1783073105
+  Price: $1.95 USD
+- [2025 Panini Prizm Green Wave 237 Chuba Hubbard 15592](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-237-chuba-hubbard-15592-11i920): Football 2025 Panini Prizm #237 Chuba Hubbard Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:17Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997336-front.jpg?v=1783073106
+  Price: $1.99 USD
+- [2025 Panini Prizm Green Wave 358 Donovan Jackson 15593](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-358-donovan-jackson-15593-11i921): Football 2025 Panini Prizm #358 Donovan Jackson Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:18Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997337-front.jpg?v=1783073106
+  Price: $1.96 USD
+- [2025 Panini Prizm Green Wave 231 Nico Collins 15594](https://ruc1qy-fa.myshopify.com/products/2025-panini-prizm-green-wave-231-nico-collins-15594-11i922): Football 2025 Panini Prizm #231 Nico Collins Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:19Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997338-front.jpg?v=1783073106
+  Price: $1.25 USD
+- [2020 Panini Prizm Prizm Red White And Blue 141 Hunter Henry 15595](https://ruc1qy-fa.myshopify.com/products/2020-panini-prizm-prizm-red-white-and-blue-141-hunter-henry-15595-11i923): Football 2020 Panini Prizm #141 Hunter Henry Near Mint or Better Card ships securely in a protective sleeve and top loader.Veteran Sports Cards FL — Veteran-Owned BusinessWe stand behind every card we .Built for the Collector - by a Veteran!
+  Updated: 2026-10-28T05:34:20Z
+  Vendor: CDP
+  Product Type:  Card
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0721/5785/5786/files/62997339-front.jpg?v=1783073108
+  Price: $1.25 USD
+[List Continued](https://ruc1qy-fa.myshopify.com/a/llms-agent/llms.txt?shop=ruc1qy-fa.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3OTM2NDM4Njk4MDI2LCJsYXN0X3ZhbHVlIjoiNzkzNjQzODY5ODAyNiJ9)
 
 ## Collections
 
@@ -1768,22 +1768,22 @@
   Updated: 2026-10-28T21:26:54Z
   Total Products: 7
 - [Baseball](https://ruc1qy-fa.myshopify.com/collections/baseball): Browse our Baseball Card collection — from golden-age legends to modern superstars, we carry raw singles and graded slabs spanning the full history of the game. Whether you're hunting a high-grade vintage key or looking for the next great submission candidate, our inventory is sourced for quality collectors. New cards added regularly.
-  Updated: 2026-10-30T03:40:04Z
-  Total Products: 1156
+  Updated: 2026-11-07T20:45:39Z
+  Total Products: 1302
 - [Football](https://ruc1qy-fa.myshopify.com/collections/football): Browse our Football Card collection — from vintage legends to modern rookies, we stock raw singles and graded slabs across all eras of the game. Whether you're chasing a high-grade key rookie or digging for hidden gems to submit, our inventory is curated for serious collectors. New cards added regularly.
-  Updated: 2026-10-30T03:39:58Z
-  Total Products: 2157
+  Updated: 2026-11-07T20:16:44Z
+  Total Products: 2289
 - [Basketball](https://ruc1qy-fa.myshopify.com/collections/basketball): Browse our Basketball Card collection — from rookie cards to graded slabs, we carry singles and sets spanning decades of the game. Whether you're chasing a PSA 10 of your favorite player or hunting raw gems to submit, our inventory is sourced for quality and authenticity. New arrivals added regularly.
-  Updated: 2026-10-29T23:53:59Z
-  Total Products: 598
+  Updated: 2026-11-07T22:30:02Z
+  Total Products: 655
 - [Gaming Cards](https://ruc1qy-fa.myshopify.com/collections/gaming-cards): Browse our Gaming Cards collection — Pokémon, Magic: The Gathering, Yu-Gi-Oh!, and more. We carry singles, holos, and graded slabs for collectors and players alike. Whether you're chasing a PSA 10 chase card or hunting raw gems to submit, our inventory is sourced for quality. New cards added regularly.
-  Updated: 2026-10-22T02:25:19Z
+  Updated: 2026-11-06T23:46:59Z
   Total Products: 83
 - [Other Sports Cards](https://ruc1qy-fa.myshopify.com/collections/other-sports-cards-fl): Browse our Other Sports Cards collection — hockey, soccer, golf, boxing, and beyond. We carry raw singles and graded slabs from across the sporting world, sourced for collectors who know the hobby isn't limited to the big three. Niche finds, key rookies, and vintage gems — all in one place. New cards added regularly.
-  Updated: 2026-10-26T07:31:57Z
+  Updated: 2026-11-07T00:54:52Z
   Total Products: 129
 - [Non Sports](https://ruc1qy-fa.myshopify.com/collections/non-sports): Browse non-sports  cards at Veteran Sports Cards FL.
-  Updated: 2026-10-26T07:33:56Z
+  Updated: 2026-11-03T18:15:48Z
   Total Products: 191
 
 ## Blogs
@@ -2000,7 +2000,7 @@
 ## Policies
 
 - [Privacy Policy](https://ruc1qy-fa.myshopify.com/policies/privacy-policy)
-  Updated: 2026-06-23T16:46:58Z
+  Updated: 2026-10-31T10:35:44Z
 - [Shipping Policy](https://ruc1qy-fa.myshopify.com/policies/shipping-policy)
   Updated: 2026-06-23T09:06:07Z
 - [Refund Policy](https://ruc1qy-fa.myshopify.com/policies/refund-policy)
