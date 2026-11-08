@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-09-19T15:56:22Z
 - Contact Email: zhu261010@gmail.com
-- Updated At: 2026-10-31T01:07:53.686Z
+- Updated At: 2026-11-08T00:59:40.473Z
 
 ## Products
 
@@ -28,6 +28,15 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1041/5315/3871/files/cost-product.png?v=1789834887
     Price: $169.90 USD
+
+## Collections
+
+- [[发货] 1](https://thermexor.com/collections/shipping-143668445519)
+  Updated: 2026-11-01T00:52:30Z
+  Total Products: 1
+- [[发货] 通用方案](https://thermexor.com/collections/shipping-143657075023)
+  Updated: 2026-11-01T00:52:29Z
+  Total Products: 0
 
 ## Blogs
 
