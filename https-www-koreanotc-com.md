@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-03-17T21:21:04Z
 - Contact Email: koreanotc@gmail.com
-- Updated At: 2026-10-31T00:23:51.031Z
+- Updated At: 2026-11-08T00:23:17.530Z
 
 ## Products
 
@@ -97,7 +97,7 @@
 - [AESTURA ATOBARRIER365 Hydro Soothing Cream | Ceramide Moisturizer](https://www.koreanotc.com/products/aestura-atobarrier365-hydro-soothing-cream-lightweight-ceramide-moisturizer): Shop the new AESTURA ATOBARRIER365 Hydro Soothing Cream, a lightweight Korean ceramide moisturizer with hyaluronic acid for sensitive, dehydrated skin.
 
 This is the strongest direction because the current formula specifically emphasizes high-density ceramide capsules, compressed hyaluronic acid, lightweight hydration, skin-barrier support, and sensitive skin. AESTURA also describes the renewed version as delivering 72-hour hydration and improved barrier support.
-  Updated: 2026-08-28T23:36:25Z
+  Updated: 2026-11-05T07:40:06Z
   Vendor: AESTURA
   Product Type: 
   Availability: Available
@@ -114,19 +114,19 @@ This is the strongest direction because the current formula specifically emphasi
 ## Collections
 
 - [Moisturizer](https://www.koreanotc.com/collections/skincare): Discover the benefits of Korean moisturizer for deep hydration, smooth texture, and a healthy glow. Find the best formula for your skin type.
-  Updated: 2026-10-06T11:21:51Z
+  Updated: 2026-11-05T12:24:19Z
   Total Products: 8
 - [Supplements](https://www.koreanotc.com/collections/health): Discover Korean supplements designed to support daily wellness, energy, immunity, and balance with trusted ingredients and easy routines.
   Updated: 2026-09-28T11:22:36Z
   Total Products: 2
 - [Shop All](https://www.koreanotc.com/collections/all-skincare): Shop Korean skincare products designed to hydrate, brighten, and support healthy skin with gentle formulas and daily essentials for every routine.
-  Updated: 2026-10-24T11:24:10Z
+  Updated: 2026-11-05T12:24:19Z
   Total Products: 15
 - [Cleansers](https://www.koreanotc.com/collections/cleansers): Discover Korean cleansers that remove dirt, oil, and makeup while keeping skin soft, calm, and refreshed for daily cleansing.
   Updated: 2026-10-02T11:22:03Z
   Total Products: 1
 - [AESTURA](https://www.koreanotc.com/collections/aestura): Discover AESTURA products designed to support sensitive skin with gentle care, hydration, and daily comfort for a healthier-looking complexion.
-  Updated: 2026-10-06T11:21:51Z
+  Updated: 2026-11-05T12:24:19Z
   Total Products: 10
 - [Vitamins](https://www.koreanotc.com/collections/vitamins): Discover Korean vitamins for daily wellness, energy, and immune support. Explore key benefits, types, and how to choose the right supplement.
   Updated: 2026-09-05T11:22:51Z
@@ -144,7 +144,7 @@ This is the strongest direction because the current formula specifically emphasi
   Updated: 2026-08-27T06:24:02Z
   Total Products: 1
 - [Korean Skincare](https://www.koreanotc.com/collections/korean-skincare): Shop the best Korean skincare products for sensitive, dry, oily and combination skin. Discover Korean moisturizers, toners, serums, cleansers and more at Korean OTC.
-  Updated: 2026-10-06T11:21:51Z
+  Updated: 2026-11-05T12:24:19Z
   Total Products: 11
 
 ## Blogs
@@ -288,7 +288,7 @@ This is the strongest direction because the current formula specifically emphasi
 ## Policies
 
 - [Privacy Policy](https://www.koreanotc.com/policies/privacy-policy)
-  Updated: 2026-03-17T21:21:15Z
+  Updated: 2026-10-31T13:46:21Z
 - [Shipping Policy](https://www.koreanotc.com/policies/shipping-policy)
   Updated: 2026-07-05T06:07:24Z
 - [Refund Policy](https://www.koreanotc.com/policies/refund-policy)
