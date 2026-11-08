@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-06-24T21:50:49Z
 - Contact Email: shopify@luxurybeautydistribution.co.uk
-- Updated At: 2026-10-31T00:22:36.085Z
+- Updated At: 2026-11-08T00:22:42.017Z
 
 ## Products
 
@@ -1048,7 +1048,7 @@
 ## Policies
 
 - [Privacy Policy](https://luxurybeautydistribution.co.uk/policies/privacy-policy)
-  Updated: 2026-06-24T21:50:53Z
+  Updated: 2026-11-04T13:02:16Z
 - [Shipping Policy](https://luxurybeautydistribution.co.uk/policies/shipping-policy)
   Updated: 2026-07-14T11:22:11Z
 - [Refund Policy](https://luxurybeautydistribution.co.uk/policies/refund-policy)
