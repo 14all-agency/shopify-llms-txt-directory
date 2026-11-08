@@ -6,7 +6,7 @@
 - Timezone: Europe/Lisbon
 - Created At: 2025-01-24T22:11:47Z
 - Contact Email: sales@riosfutureshop.com
-- Updated At: 2026-10-31T00:33:16.527Z
+- Updated At: 2026-11-08T00:35:14.557Z
 
 ## Products
 
@@ -137,35 +137,35 @@
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/adss-aparelho-remocao-pelos4748106398220ms-7716-ads-2127717.png?v=1782481978
   Price: €8,608.95 EUR
 - [Smartwatch de Luxo - H8 CLASSIC - Rios Future Shop](https://www.riosfutureshop.com/products/moda-explosao-das-mulheres-pulso-relogio-inteligente-senhoras-h8-inteligente-pulseira-frequencia-cardiaca-pressao-arterial-esportes-atmosferica-tendencia-assista): Buy Smartwatch de Luxo - H8 CLASSIC for only €82.95 at Rios Future Shop! MS-5870-SMA-RIOS F
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:35:01Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/smartwatch-de-luxo-h8-classic-9904193.webp?v=1786382567
   Price: €82.95 EUR
 - [Wireless Hands-Free Car FM Transmitter | Bluetooth Audio | Rios Future Shop](https://www.riosfutureshop.com/products/sem-titulo-25-01_15-08): Wireless hands-free car FM transmitter with Bluetooth audio streaming. Easy install, crystal clear sound. Best price. Fast shipping to Portugal & EU.
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:34:48Z
   Vendor: Rios Future Shop
   Product Type: Tecnologia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/transmissor-maos-livres-carro-6313035.png?v=1782482111
   Price: €15.00 EUR
 - [Mini Projetor Portátil Full HD YG300 - Rios Future Shop](https://www.riosfutureshop.com/products/mini-projetor-portatil-full-hd-yg300): Buy Mini Projetor Portátil Full HD YG300 for only €47.25 at Rios Future Shop! MS-5982-MIN-RIOS F
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:35:02Z
   Vendor: Rios Future Shop
   Product Type: Tecnologia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/mini-projetor-portatil-full-hd-yg300-4861881.jpg?v=1782482112
   Price: €47.25 EUR
 - [Teclado Bluetooth +Rato sem fios - Rios Future Shop](https://www.riosfutureshop.com/products/teclado-bluetooth-rato-sem-fios): Buy Teclado Bluetooth +Rato sem fios for only €31.50 at Rios Future Shop! MS-4106-TEC-RIOS F
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:34:43Z
   Vendor: Rios Future Shop
   Product Type: Tecnologia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/teclado-bluetooth-rato-sem-fios-4343924.jpg?v=1782481975
   Price: €31.50 EUR
 - [OHPA 805E Bluetooth FM Transmitter | Car Audio Adapter | Rios Future Shop](https://www.riosfutureshop.com/products/transmissor-bluetooth-ohpa-805e): OHPA 805E Bluetooth FM transmitter — wireless car audio, hands-free calls, USB charging. Best price online. Fast shipping to Portugal & EU.
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:34:36Z
   Vendor: Rios Future Shop
   Product Type: Tecnologia
   Availability: Available
@@ -186,7 +186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/smartwatch-luxo-pulseira-para-mulher-6980873.webp?v=1786382659
     Price: €61.95 EUR
 - [ONE Smartwatch - Rios Future Shop](https://www.riosfutureshop.com/products/one-smartwatch): Buy ONE Smartwatch for only €41.99 at Rios Future Shop! MS-6509-ONE-RIOS F
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:34:55Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -200,7 +200,7 @@
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/full-circle-steel-smart-watch-para-homens-5900161.webp?v=1786382729
   Price: €57.75 EUR
 - [Smartwatch, Orizon-para homens, iPhone-Android - Rios Future Shop](https://www.riosfutureshop.com/products/smartwatch-orizon-chamada-dial-sem): Buy Smartwatch, Orizon-para homens, iPhone-Android for only €72.45 at Rios Future Shop! MS-0281-SMA-RIOS F-CIN
-  Updated: 2026-10-30T03:19:40Z
+  Updated: 2026-11-05T19:34:59Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -215,14 +215,14 @@
     Availability: Available
     Price: €72.45 EUR
 - [ORION Smartwatch RETRO à prova d'água - Rios Future Shop](https://www.riosfutureshop.com/products/ex18-orion-smartwatch-retro-5atm): Buy ORION Smartwatch RETRO à prova d'água for only €72.98 at Rios Future Shop! MS-0476-ORI-RIOS F
-  Updated: 2026-10-30T03:19:45Z
+  Updated: 2026-11-05T19:34:58Z
   Vendor: Rios Future Shop
   Product Type: Tecnologia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/orion-smartwatch-retro-a-prova-dagua-1581991.webp?v=1786382817
   Price: €72.98 EUR
 - [Smartwatch M26: Waterproof and Reliable - Rios Future Shop](https://www.riosfutureshop.com/products/smartwatch-m26-mate-prova-d): Buy Smartwatch M26: Waterproof and Reliable for only €24.14 at Rios Future Shop! MS-9274-SMA-RIOS F-AZU
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:48Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -237,7 +237,7 @@
     Availability: Available
     Price: €24.14 EUR
 - [Smartwatch Q18 for Android | SIM Card | Rios Future Shop](https://www.riosfutureshop.com/products/smartwatch-q18-para-celular-relogio): Buy Smartwatch Q18 | Smart Watch for Android Phones | SIM Card Slot for only €15.75 at Rios Future Shop! MS-0983-SMA-RIOS F-PRA
-  Updated: 2026-10-30T03:19:45Z
+  Updated: 2026-11-05T19:34:39Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -251,7 +251,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/smartwatch-q18-para-celular-relogio-inteligente-para-telefones-android-8338470.webp?v=1786382919
     Price: €15.75 EUR
 - [Smartwatch T8 Bluetooth Com Câmera Suporte SIM - Rios Future Shop](https://www.riosfutureshop.com/products/relogio-inteligente-t8-bluetooth): Buy Smartwatch T8 Bluetooth Com Câmera Suporte SIM for only €23.09 at Rios Future Shop! MS-9352-SMA-RIOS F-AZU
-  Updated: 2026-10-30T03:13:17Z
+  Updated: 2026-11-05T19:34:47Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -269,7 +269,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/smartwatch-t8-bluetooth-com-camera-suporte-sim-5913240.webp?v=1786383057
     Price: €23.09 EUR
 - [Multifunctional Smart Watch Men & Women | Fitness | Rios Future Shop](https://www.riosfutureshop.com/products/smartwatch-d20): Buy Multifunctional Smart Watch for Men & Women | Fitness & Notifications for only €17.33 at Rios Future Shop! MS-5673-REL-RIOS F-BRA
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:44Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/relogio-inteligente-multifuncional-para-homens-e-mulheres-1062081.webp?v=1786383125
     Price: €18.38 EUR
 - [Z60 com pulseira de metal relógio inteligente e com câmera android - Rios Future Shop](https://www.riosfutureshop.com/products/z60pulseira-de-metal-smartwatch): Buy Z60 com pulseira de metal relógio inteligente e com câmera android for only €20.48 at Rios Future Shop! MS-8550-Z60-RIOS F-BRO
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:42Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -309,7 +309,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/z60-com-pulseira-de-metal-relogio-inteligente-e-com-camera-android-8386515.webp?v=1786383233
     Price: €20.48 EUR
 - [Smartwatch Heart Rate Monitor - Rios Future Shop](https://www.riosfutureshop.com/products/d18-smart-band-heart-rate-monitor-smart-bracelet-round-smart-watch): Buy Smartwatch Heart Rate Monitor for only €15.96 at Rios Future Shop! MS-8622-SMA-RIOS F-TIN
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:40Z
   Vendor: Rios Future Shop
   Product Type: 
   Availability: Available
@@ -396,14 +396,14 @@
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/lg-75-4k-uhd-smart-tv-4733328.png?v=1765063577
   Price: €933.45 EUR
 - [AIR PRO6 Wireless Headphones | Bluetooth Earbuds | Rios Future Shop](https://www.riosfutureshop.com/products/fones-ouvido-air-pro6): AIR PRO6 wireless Bluetooth headphones — premium sound, lightweight design, long battery life. Best price online. Fast shipping to Portugal & EU.
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:51Z
   Vendor: ALIRIOSFUTURESHOP
   Product Type: Audio
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/headphones-wireless-air-pro6-3898878.png?v=1765063587
   Price: €15.99 EUR
 - [SmartBand PRO v2.3 | Fitness Tracker | Heart Rate | Rios Future Shop](https://www.riosfutureshop.com/products/smartband-pro-v2-3): Buy SmartBand PRO v2.3 | Advanced Fitness Tracker | Heart Rate & Sleep Monitor for only €18.38 at Rios Future Shop! ALIBND0001
-  Updated: 2026-10-30T03:19:46Z
+  Updated: 2026-11-05T19:34:50Z
   Vendor: Rios Future Shop
   Product Type: Smartband
   Availability: Available
@@ -415,7 +415,7 @@
     Availability: Available
     Price: €18.38 EUR
 - [Bluetooth Car Adapter | Wireless Hands-Free FM Transmitter | Rios Future Shop](https://www.riosfutureshop.com/products/adaptador-bluetooth-para-automovel): Bluetooth car adapter for wireless hands-free calls & music streaming. Plug & play. Best price. Fast shipping to Portugal & EU.
-  Updated: 2026-10-30T03:19:45Z
+  Updated: 2026-11-05T19:34:39Z
   Vendor: ALLRIOSSHOP
   Product Type: Tecnologia
   Availability: Available
@@ -743,7 +743,7 @@
   Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/solucao-de-stock-liquido-de-colagenio-de-soro-de-caracol-2193134.jpg?v=1765063831
   Price: €62.99 EUR
 - [Portable Mini Projector | 180° Auto Focus Home Video Projector | Rios Future Shop](https://www.riosfutureshop.com/products/projetor-portatil-pequeno): Compact portable projector with 180° projection angle & auto focus. Perfect for home cinema & outdoor use. Best price. Fast shipping to Portugal & EU.
-  Updated: 2026-10-30T03:20:01Z
+  Updated: 2026-11-05T19:34:45Z
   Vendor: CJdropshipping
   Product Type: Tecnologia
   Availability: Available
@@ -1276,7 +1276,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/treino-passivo-musculos-e-abdominais-ems-1753718.jpg?v=1765064123
     Price: €26.25 EUR
 - [Relogio Inteligente para crianças-Com Gps - Rios Future Shop](https://www.riosfutureshop.com/products/relogio-inteligente-para-criancas): Buy Relogio Inteligente para crianças-Com Gps for only €37.79 at Rios Future Shop! CJZN164368503CX
-  Updated: 2026-10-30T03:20:01Z
+  Updated: 2026-11-05T19:34:46Z
   Vendor: CJdropshipping
   Product Type: Smartwatch
   Availability: Available
@@ -2147,7 +2147,7 @@
     Image: https://cdn.shopify.com/s/files/1/0884/6573/5945/files/smartwatch-desportivo-bluetooth-chamada91173040cjjx201558202by-4285029.jpg?v=1776793467
     Price: €103.95 EUR
 - [Relógio inteligente da moda feminina - Rios Future Shop](https://www.riosfutureshop.com/products/womens-fashion-smart-watch-heart-rate-blood-pressure-monitoring): Buy Relógio inteligente da moda feminina for only €41.99 at Rios Future Shop! CJJX194892203CX
-  Updated: 2026-10-30T03:20:21Z
+  Updated: 2026-11-05T19:34:55Z
   Vendor: Rios Future Shop
   Product Type: Smartwatch
   Availability: Available
@@ -2573,56 +2573,56 @@
 ## Collections
 
 - [Female Facial and Body Aesthetics](https://www.riosfutureshop.com/collections/estetica-facial): Descubra produtos de estética facial e corporal feminina: dispositivos top-rated, fáceis de usar e com resultados comprovados. Envio para todo o mundo.
-  Updated: 2026-10-30T03:18:52Z
-  Total Products: 19
+  Updated: 2026-11-02T14:03:23Z
+  Total Products: 20
 - [Maquinas Estética](https://www.riosfutureshop.com/collections/maquinas-estetica): Máquinas de estética de alta performance para cuidados da pele em casa. Top-rated, fáceis de usar e com resultados profissionais. Compre já!
-  Updated: 2026-10-30T03:18:52Z
+  Updated: 2026-11-06T12:20:42Z
   Total Products: 48
 - [Electronics](https://www.riosfutureshop.com/collections/tecnologia-1): Descubra a melhor seleção de eletrónica: gadgets, dispositivos e tecnologia de ponta a preços acessíveis. Envio rápido para Portugal e Europa.
   Updated: 2026-10-30T03:18:53Z
   Total Products: 82
 - [Smartphones](https://www.riosfutureshop.com/collections/smart-phones): Compre smartphones top-rated com ótima relação qualidade-preço. Modelos para todos os perfis, com envio rápido para Portugal e Europa.
-  Updated: 2026-10-30T03:18:53Z
-  Total Products: 102
+  Updated: 2026-11-06T12:20:42Z
+  Total Products: 104
 - [TVs & SmartTv](https://www.riosfutureshop.com/collections/tvs-e-smarttv): Compre TVs e Smart TVs com qualidade de imagem excecional. Marcas top, preços acessíveis e envio rápido para Portugal e Europa. Veja a nossa seleção!
-  Updated: 2026-10-30T03:18:53Z
-  Total Products: 32
+  Updated: 2026-11-06T12:20:42Z
+  Total Products: 33
 - [Computers & Laptops](https://www.riosfutureshop.com/collections/computadores-laptops): Shop top computers and laptops at unbeatable prices. Performance, reliability & fast shipping to Portugal and the EU.
-  Updated: 2026-10-30T03:18:54Z
-  Total Products: 31
+  Updated: 2026-11-02T12:28:08Z
+  Total Products: 32
 - [Pets](https://www.riosfutureshop.com/collections/pets): Shop top-rated pet beds, toys, feeders & accessories for dogs and cats. Unbeatable prices, fast EU shipping. Your pet deserves the best!
-  Updated: 2026-10-30T03:18:54Z
+  Updated: 2026-11-06T12:20:42Z
   Total Products: 24
 - [Crianças](https://www.riosfutureshop.com/collections/criancas): Discover top-rated toys, games & accessories for kids of all ages. Safe, fun & affordable. Fast shipping to Portugal and the EU.
-  Updated: 2026-10-30T03:18:54Z
+  Updated: 2026-11-06T12:20:42Z
   Total Products: 108
 - [Smartwatches](https://www.riosfutureshop.com/collections/smartwatches-smartwatches): Shop top-rated smartwatches for men and women. Fitness tracking, heart rate monitor & stylish design. Best prices, fast EU shipping.
   Updated: 2026-10-30T03:18:55Z
   Total Products: 93
 - [Gadgets](https://www.riosfutureshop.com/collections/gadgets-utilitarios): Gadgets - Rios Future Shop
-  Updated: 2026-10-30T03:18:55Z
+  Updated: 2026-11-06T12:20:42Z
   Total Products: 105
 - [US Market](https://www.riosfutureshop.com/collections/us-market): US Market - Rios Future Shop
-  Updated: 2026-10-30T03:18:55Z
-  Total Products: 288
+  Updated: 2026-11-06T12:20:42Z
+  Total Products: 313
 - [PORTUGAL- Rios Future Shop](https://www.riosfutureshop.com/collections/portugal-armazem): PORTUGAL- Rios Future Shop - Rios Future Shop
   Updated: 2026-10-30T03:18:56Z
   Total Products: 39
 - [Spain+Portugal 24h/48h](https://www.riosfutureshop.com/collections/espana-portugal): Spain+Portugal 24h/48h - Rios Future Shop
-  Updated: 2026-10-30T03:18:56Z
+  Updated: 2026-11-06T12:20:42Z
   Total Products: 154
 - [Todos os Produtos](https://www.riosfutureshop.com/collections/todos-produtos): Todos os Produtos - Rios Future Shop
-  Updated: 2026-10-30T03:18:56Z
-  Total Products: 693
+  Updated: 2026-11-06T12:20:42Z
+  Total Products: 695
 - [Jogos Video](https://www.riosfutureshop.com/collections/jogos-video): Jogos Video - Rios Future Shop
   Updated: 2026-10-30T03:18:57Z
   Total Products: 16
 - [Tablets](https://www.riosfutureshop.com/collections/tablets-tablets): Tablets - Rios Future Shop
-  Updated: 2026-10-30T03:18:57Z
-  Total Products: 11
+  Updated: 2026-11-02T12:09:23Z
+  Total Products: 12
 - [New Arrivals 2026](https://www.riosfutureshop.com/collections/new-arrivals): Discover Rios Future Shop's New Arrivals 2026: latest products, trending innovations, and must-have new releases. Explore the newest collections, shop new-in items, and find fresh product.
-  Updated: 2026-10-29T03:00:47Z
-  Total Products: 32
+  Updated: 2026-11-07T03:00:33Z
+  Total Products: 34
 - [Mundial de Futebol 2026 | World Cup 2026](https://www.riosfutureshop.com/collections/mundial-futebol-2026-world-cup): Celebra o FIFA World Cup 2026! Os melhores produtos para o maior evento de futebol do mundo. USA, Canada & Mexico 2026.
   Updated: 2026-10-30T03:18:57Z
   Total Products: 14
@@ -2657,8 +2657,8 @@
   Updated: 2026-10-30T03:19:00Z
   Total Products: 31
 - [Gaming Consoles](https://www.riosfutureshop.com/collections/gaming-consoles): 🎮 Your next gaming adventure starts here! Discover gaming consoles for every kind of player, from PlayStation, Xbox and Nintendo to retro consoles, portable handhelds and arcade-style systems. 🕹️✨ 🏠 Enjoy big-screen adventures at home. 🚀 Take the fun with you with portable gaming. 👾 Rediscover the charm of classic games and retro play. 🎁 Explore console bundles for your next gaming setup. Whether you love new adventures or old-school favourites, find your next console at Rios Future Shop. Ready, set, play! 🔥🎮⠋
-  Updated: 2026-10-30T03:19:01Z
-  Total Products: 40
+  Updated: 2026-11-02T12:56:59Z
+  Total Products: 41
 - [GMC](https://www.riosfutureshop.com/collections/gmc)
   Updated: 2026-10-30T03:19:01Z
   Total Products: 16
