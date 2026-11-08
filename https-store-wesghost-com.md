@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2023-09-19T18:40:40Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:33:24.501Z
+- Updated At: 2026-11-08T00:24:14.863Z
 
 ## Products
 
 - [ROT HOODIE](https://store.wesghost.com/products/rot-hoodie): you'd rather watch me rot 80% cotton / 20% polyester hoodie, available in black and purple
-  Updated: 2026-10-09T09:40:54Z
+  Updated: 2026-11-04T02:32:46Z
   Vendor: WesGhost
   Product Type: Hoodie
   Availability: Available
@@ -49,7 +49,7 @@
     Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/163725_4_299592_d_1.png?v=1737047686
     Price: $60.00 USD
   - [Purple / L](https://store.wesghost.com/products/rot-hoodie?variant=49694045372712)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/163725_4_299592_d_1.png?v=1737047686
     Price: $60.00 USD
   - [Purple / XL](https://store.wesghost.com/products/rot-hoodie?variant=49694045405480)
@@ -107,7 +107,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [WESGHOST COLLECTIVE PATCH](https://store.wesghost.com/products/wesghost-collective-patch): Woven patch
-  Updated: 2026-10-09T19:22:09Z
+  Updated: 2026-11-06T14:54:45Z
   Vendor: WesGhost
   Product Type: Patch
   Availability: Available
@@ -135,7 +135,7 @@
     Availability: Available
     Price: $40.00 USD
 - [BULLET BALACLAVA](https://store.wesghost.com/products/bullet-balaclava): 100% acrylic braided knit balaclava in red
-  Updated: 2026-10-29T10:14:26Z
+  Updated: 2026-11-07T21:11:35Z
   Vendor: WesGhost
   Product Type: Mask
   Availability: Available
@@ -149,7 +149,7 @@
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_Black_Logo_Sticker.png?v=1776893430
   Price: $5.00 USD
 - [REDGHOST TOUR TEE](https://store.wesghost.com/products/redghost-tour-tee): 100% heavyweight US cotton t-shirt in black
-  Updated: 2026-10-24T16:12:04Z
+  Updated: 2026-11-05T16:10:35Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -170,7 +170,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [IF IT'S NOT FOREVER TOUR TEE](https://store.wesghost.com/products/if-its-not-forever-tour-tee): 100% heavyweight US cotton t-shirt in black
-  Updated: 2026-10-30T00:42:35Z
+  Updated: 2026-11-06T07:27:25Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: $40.00 USD
 - [SOUL SCARS TEE](https://store.wesghost.com/products/soul-scars-tee): 100% heavyweight US cotton t-shirt in black
-  Updated: 2026-10-21T00:32:46Z
+  Updated: 2026-11-07T18:52:25Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -212,7 +212,7 @@
     Availability: Available
     Price: $40.00 USD
 - [GRAVEYARD TEE](https://store.wesghost.com/products/graveyard-tee): 100% heavyweight ringspun cotton t-shirt in mineral wash grey
-  Updated: 2026-10-17T17:10:05Z
+  Updated: 2026-11-06T06:55:35Z
   Vendor: WesGhost
   Product Type: T-Shirt
   Availability: Available
@@ -233,7 +233,7 @@
     Availability: Not Available
     Price: $40.00 USD
 - [IF IT'S NOT FOREVER HOODIE](https://store.wesghost.com/products/if-its-not-forever-hoodie): 80% cotton / 20% recycled polyester hoodie in smoke
-  Updated: 2026-10-30T19:44:24Z
+  Updated: 2026-11-07T21:11:30Z
   Vendor: WesGhost
   Product Type: Hoodie
   Availability: Available
@@ -242,10 +242,10 @@
     Availability: Available
     Price: $80.00 USD
   - [M](https://store.wesghost.com/products/if-its-not-forever-hoodie?variant=52382048125224)
-    Availability: Available
+    Availability: Not Available
     Price: $80.00 USD
   - [L](https://store.wesghost.com/products/if-its-not-forever-hoodie?variant=52382048157992)
-    Availability: Available
+    Availability: Not Available
     Price: $80.00 USD
   - [XL](https://store.wesghost.com/products/if-its-not-forever-hoodie?variant=52382048190760)
     Availability: Available
@@ -261,7 +261,7 @@
   Image: https://cdn.shopify.com/s/files/1/0828/0270/4680/files/WESG_0003_Ghost-Lighter-Case.png?v=1789157651
   Price: $10.00 USD
 - [IF IT'S NOT FOREVER BUMPER STICKER](https://store.wesghost.com/products/if-its-not-forever-bumper-sticker): 10" wide die-cut sticker
-  Updated: 2026-10-17T17:16:28Z
+  Updated: 2026-11-04T10:22:30Z
   Vendor: WesGhost
   Product Type: Sticker
   Availability: Available
@@ -274,13 +274,13 @@
   Updated: 2026-04-14T21:03:14Z
   Total Products: 4
 - [Apparel](https://store.wesghost.com/collections/apparel)
-  Updated: 2026-10-30T11:14:42Z
+  Updated: 2026-11-07T12:14:13Z
   Total Products: 21
 - [Accessories](https://store.wesghost.com/collections/accessories)
-  Updated: 2026-10-29T11:14:56Z
+  Updated: 2026-11-07T12:14:13Z
   Total Products: 21
 - [All](https://store.wesghost.com/collections/all)
-  Updated: 2026-10-30T11:14:42Z
+  Updated: 2026-11-07T12:14:13Z
   Total Products: 48
 - [Don't Worry, I'll Be Fine Tour Merch](https://store.wesghost.com/collections/dont-worry-ill-be-fine-tour-merch)
   Updated: 2026-06-06T15:51:41Z
@@ -292,25 +292,25 @@
   Updated: 2024-09-30T15:06:24Z
   Total Products: 0
 - [ROT](https://store.wesghost.com/collections/rot)
-  Updated: 2026-10-13T11:16:13Z
+  Updated: 2026-11-04T12:13:50Z
   Total Products: 4
 - [Am I Dreaming? Collection](https://store.wesghost.com/collections/am-i-dreaming-collection)
-  Updated: 2026-10-10T11:17:44Z
+  Updated: 2026-11-07T12:14:13Z
   Total Products: 7
 - [2025 Tour](https://store.wesghost.com/collections/2025-tour)
-  Updated: 2026-10-18T11:15:42Z
+  Updated: 2026-11-04T12:13:50Z
   Total Products: 10
 - [Chokehold](https://store.wesghost.com/collections/chokehold)
   Updated: 2026-10-14T11:16:26Z
   Total Products: 4
 - [2026 Tour](https://store.wesghost.com/collections/2026-tour)
-  Updated: 2026-10-30T11:14:42Z
+  Updated: 2026-11-06T12:13:59Z
   Total Products: 13
 - [GHOSTCORE.](https://store.wesghost.com/collections/ghostcore)
   Updated: 2026-10-29T11:14:56Z
   Total Products: 9
 - [If It's Not Forever Tour Merch](https://store.wesghost.com/collections/if-its-not-forever-tour-merch)
-  Updated: 2026-10-30T11:14:42Z
+  Updated: 2026-11-07T12:14:13Z
   Total Products: 8
 
 ## Store Pages
