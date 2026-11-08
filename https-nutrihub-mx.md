@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2025-09-26T23:24:45Z
 - Contact Email: contacto@nutrihub.mx
-- Updated At: 2026-10-31T00:35:47.143Z
+- Updated At: 2026-11-08T00:28:03.943Z
 
 NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo de fitness de alta calidad. Ofrecemos proteínas, pre-entrenos, aminoácidos, vitaminas, quemadores de grasa y equipo de gimnasio para atletas y personas activas en México. Todos nuestros productos cumplen con estándares de calidad internacionales y están disponibles con envío a toda la República Mexicana.
 
@@ -43,7 +43,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
     Image: https://cdn.shopify.com/s/files/1/0659/4841/8166/files/Bhp-Ultra-Whey-Ultra-Sabor-Vainilla-2-27Kgr-5Lbs-5_a4238926-5bbc-41eb-822e-cc845b22092c.jpg?v=1778621991
     Price: 744,00 $ MXN
 - [Mutant Mass Gainer Triple Chocolate - Mutant Suplementos](https://nutrihub.mx/products/mutant-mass-gainer-12lb): Descubre Mutant Mass Gainer, el original que potencia tu entrenamiento. Con 12 lb de alto en calorías, alcanzarás tus metas más rápido. ¡Solo MX$939!
-  Updated: 2026-09-28T22:05:16Z
+  Updated: 2026-11-05T20:31:56Z
   Vendor: Mutant
   Product Type: Gainer
   Availability: Available
@@ -333,7 +333,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Image: https://cdn.shopify.com/s/files/1/0659/4841/8166/files/61HnsYkdWcL._AC_SL1024.jpg?v=1778716506
   Price: 178,00 $ MXN
 - [Set De Mancuernas Pesas Olympo Fit Ajustables 40kg Gym](https://nutrihub.mx/products/set-de-mancuernas-pesas-olympo-fit-ajustables-40kg-gym): Set de Mancuernas Olympo Fit – 40 kg (Rojo) La versión de 40 kg está diseñada para usuarios que buscan progresar en sus cargas y exigen un equipo de mayor capacidad para entrenamientos de potencia. Atributos Principales: Máxima Carga: Con 40 kg totales, este kit ofrece el rango necesario para ejercicios compuestos y desarrollo de masa muscular. Estética Profesional: Acabado en negro con detalles en Rojo Olympo, aportando un aspecto premium a tu espacio de entrenamiento. Versatilidad 2 en 1: Gracias al adaptador acolchado, puedes pasar de mancuernas a barra olímpica casera en segundos. Discos Reforzados: Material de alta densidad diseñado para soportar el uso constante y el desgaste por fricción. Agarre de Alta Tracción: La zona de sujeción está optimizada para prevenir deslizamientos, aumentando la seguridad en levantamientos pesados.
-  Updated: 2026-10-20T14:27:07Z
+  Updated: 2026-11-03T18:34:50Z
   Vendor: Olympo Fit
   Product Type: Equipamiento
   Availability: Available
@@ -473,13 +473,13 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-09-11T11:21:23Z
   Total Products: 25
 - [Rendimiento](https://nutrihub.mx/collections/rendimiento): Lleva tu entrenamiento al siguiente nivel con suplementos de alto rendimiento. Pre-entrenos, creatinas y aminoácidos originales en NutriHub.
-  Updated: 2026-10-07T11:19:51Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 33
 - [Más vendidos](https://nutrihub.mx/collections/avada-best-sellers): Los más vendidos de NutriHub en un solo lugar.Descubra los suplementos con mayor preferencia de nuestros clientes, desde proteína y creatina hasta vitaminas y bienestar. Esta colección reúne productos destacados por su popularidad, disponibilidad y excelente aceptación. Si quiere una versión más breve: Explore los productos más vendidos de NutriHub.Aquí encontrará suplementos destacados por su popularidad entre nuestros clientes, incluyendo proteína, creatina, vitaminas y más.
-  Updated: 2026-10-24T11:26:46Z
-  Total Products: 11
+  Updated: 2026-11-05T20:32:42Z
+  Total Products: 10
 - [Proteína](https://nutrihub.mx/collections/proteina): Compre proteína en NutriHub. Encuentre suplementos de proteína en distintas presentaciones, sabores y formatos para complementar su rutina diaria.
-  Updated: 2026-10-26T11:20:07Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 18
 - [Optimum Nutrition](https://nutrihub.mx/collections/optimum-nutrition): Compre productos Optimum Nutrition en NutriHub. Encuentre suplementos de esta marca en distintas presentaciones, sabores y formatos.
   Updated: 2026-08-27T22:16:35Z
@@ -488,10 +488,10 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-09-04T11:21:58Z
   Total Products: 2
 - [Mutant](https://nutrihub.mx/collections/mutant): Compre productos Mutant en NutriHub. Encuentre suplementos de esta marca en distintas presentaciones, sabores y formatos.
-  Updated: 2026-09-29T11:19:12Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 3
 - [Ofertas](https://nutrihub.mx/collections/ofertas): Compre suplementos en oferta en NutriHub. Encuentre proteínas, creatinas, vitaminas y más con precios especiales por tiempo limitado.
-  Updated: 2026-10-26T11:20:07Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 75
 - [Whey](https://nutrihub.mx/collections/whey): Compre Whey Protein en NutriHub. Encuentre proteína de suero en distintas presentaciones, sabores y formatos para complementar su rutina diaria.
   Updated: 2026-10-07T11:19:51Z
@@ -500,7 +500,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-10-07T11:19:51Z
   Total Products: 7
 - [Gainer](https://nutrihub.mx/collections/proteina-gainer): Compre proteína gainer en NutriHub. Encuentre fórmulas en polvo en distintas presentaciones y sabores para complementar su rutina diaria.
-  Updated: 2026-09-29T11:19:12Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 2
 - [Creatina](https://nutrihub.mx/collections/creatina): Compre creatina en NutriHub. Encuentre suplementos de creatina en distintas presentaciones y formatos para complementar su rutina diaria.
   Updated: 2026-09-20T11:20:04Z
@@ -623,10 +623,10 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-08-27T22:05:55Z
   Total Products: 4
 - [New products](https://nutrihub.mx/collections/new-collection)
-  Updated: 2026-10-26T11:20:07Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 78
 - [Best  products](https://nutrihub.mx/collections/best--collection)
-  Updated: 2026-10-26T11:20:07Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 78
 - [Cardio](https://nutrihub.mx/collections/cardio-1)
   Updated: 2026-10-24T11:26:46Z
@@ -644,7 +644,7 @@ NUTRIHUB es una tienda mexicana especializada en suplementos deportivos y equipo
   Updated: 2026-10-26T11:20:07Z
   Total Products: 56
 - [Deportivo](https://nutrihub.mx/collections/deportivo)
-  Updated: 2026-10-26T11:20:07Z
+  Updated: 2026-11-06T12:17:56Z
   Total Products: 47
 - [Suplementos.](https://nutrihub.mx/collections/suplementosmenu)
   Updated: 2026-09-12T11:19:56Z
