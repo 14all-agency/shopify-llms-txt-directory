@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2026-04-11T11:58:19Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-10-31T00:20:14.812Z
+- Updated At: 2026-11-08T00:22:59.438Z
 
 ## Products
 
 - [Complete Ebon Ritual Skincare Set for Black & Brown Skin | House of Maryland](https://www.houseofmaryland.skin/products/ebon-collection): The full 6-step P.I.E. Ritual in one set. Botanically formulated for melanin-rich skin. Cleanse, exfoliate, hydrate, and glow — $65.
-  Updated: 2026-10-25T00:41:36Z
+  Updated: 2026-11-02T00:10:51Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
@@ -73,7 +73,7 @@
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/the-radiance-ritual-7107285.jpg?v=1780906746
   Price: $42.00 USD
 - [TSA- Skincare Travel Set for Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/travel-ritual-collection): Six travel-size essentials for melanin-rich skin. The complete P.I.E. Ritual in carry-on size. Perfect for gifting or travel.
-  Updated: 2026-10-08T11:30:08Z
+  Updated: 2026-11-07T22:02:10Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
@@ -83,10 +83,10 @@
 ## Collections
 
 - [Luxurious Skincare for Melanated Beauty](https://www.houseofmaryland.skin/collections/luxury-skincare-melanated-skin): Premium Black-owned skincare for melanin-rich skin. Botanically formulated ritual products to nourish, hydrate, and illuminate Black and Brown skin.
-  Updated: 2026-10-25T11:30:20Z
+  Updated: 2026-11-07T22:01:45Z
   Total Products: 4
 - [The Ebon Collection](https://www.houseofmaryland.skin/collections/the-ebon-collection): Shop the complete Ebon Collection. Six botanically formulated products for melanin-rich skin. The P.I.E. Ritual — Protect, Infuse, Elevate.
-  Updated: 2026-10-25T11:30:20Z
+  Updated: 2026-11-07T22:01:45Z
   Total Products: 10
 - [Body Care Bundle](https://www.houseofmaryland.skin/collections/body-care-bundle): Four-step body ritual for Black and Brown skin. Cleanse, exfoliate, hydrate, and glow with botanical ingredients formulated for melanin-rich skin.
   Updated: 2026-10-08T11:30:06Z
@@ -95,10 +95,10 @@
   Updated: 2026-10-08T11:30:06Z
   Total Products: 2
 - [Gifts](https://www.houseofmaryland.skin/collections/gifts): Give the gift of ritual. Luxury skincare gift sets for melanin-rich skin. Botanically formulated bundles for Black and Brown skin. Shop House of Maryland.
-  Updated: 2026-10-25T11:30:20Z
+  Updated: 2026-11-07T22:01:45Z
   Total Products: 4
 - [Travel Bundle](https://www.houseofmaryland.skin/collections/travel-bundle): Shop the House of Maryland Travel Bundle. Ritual-ready skincare for melanated skin in travel-friendly sizes. Protect, infuse, and elevate anywhere.
-  Updated: 2026-10-08T11:30:06Z
+  Updated: 2026-11-07T22:01:45Z
   Total Products: 1
 
 ## Blogs
@@ -900,7 +900,7 @@
 - [The Ebon Travel Ritual – 6-Piece Luxury Travel Collection | House of Maryland](https://www.houseofmaryland.skin/pages/the-ebon-travel-ritual): Your ritual. Anywhere. Experience the essence of House of Maryland with our TSA- luxury discovery collection thoughtfully crafted for melan...
   Updated: 2026-06-08T09:20:21Z
 - [P.I.E. Ritual™: Self-care Skincare for Melanated Skin](https://www.houseofmaryland.skin/pages/the-pie-ritual-instruction): THE P.I.E. RITUAL™ PROTECT. INFUSE. ELEVATE. Inspired by Momma Maryland The P.I.E. Ritual™ is a luxury skincare experience inspired by the intentio...
-  Updated: 2026-07-26T21:18:49Z
+  Updated: 2026-11-07T17:04:08Z
 - [Shipping Policy](https://www.houseofmaryland.skin/pages/shipping-policy): Discover our shipping options, delivery timelines, and policies. House of Maryland ships within the US with standard and expedited options. Orders ...
   Updated: 2026-06-08T10:12:20Z
 - [Return Policy](https://www.houseofmaryland.skin/pages/return-policy): Understand our hassle-free return processAt House of Maryland, we stand behind the quality of our premium skincare products. We want you to feel co...
@@ -915,7 +915,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.houseofmaryland.skin/policies/privacy-policy)
-  Updated: 2026-04-11T11:58:30Z
+  Updated: 2026-10-31T18:52:56Z
 - [Shipping Policy](https://www.houseofmaryland.skin/policies/shipping-policy)
   Updated: 2026-06-27T14:04:54Z
 - [Refund Policy](https://www.houseofmaryland.skin/policies/refund-policy)
