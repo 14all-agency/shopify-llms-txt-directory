@@ -6,7 +6,7 @@
 - Timezone: America/Mexico_City
 - Created At: 2016-12-13T17:20:00Z
 - Contact Email: virgilio@great-mini.mx
-- Updated At: 2026-10-31T00:23:27.873Z
+- Updated At: 2026-11-08T00:21:19.579Z
 
 # GREAT + MINI · Mobiliario Corporativo y Equipamiento Integral
 
@@ -1780,7 +1780,7 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-08-13T02:51:05Z
   Total Products: 19
 - [SILLAS DIRECTIVAS](https://great-mini.mx/collections/sillas-directivas-para-oficinas): Presentamos una parte de una gran variedad de sillas directivas que podrás encontrar en Great+Mini para entregar en cualquier parte de México.
-  Updated: 2026-08-13T02:51:06Z
+  Updated: 2026-11-02T22:05:28Z
   Total Products: 25
 - [ESCRITORIOS Y MESAS](https://great-mini.mx/collections/mesas-y-escritorios): En esta colección reunimos todos los escritorios directivos, mesas multusos, mesas de visita, etc
   Updated: 2026-09-23T22:42:29Z
@@ -1843,8 +1843,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:22:57Z
   Total Products: 5
 - [CAVAS DE VINOS](https://great-mini.mx/collections/cavas-de-vinos)
-  Updated: 2026-06-16T01:34:06Z
-  Total Products: 8
+  Updated: 2026-11-02T02:21:57Z
+  Total Products: 9
 - [BÁSICOS FOOD SERVICE](https://great-mini.mx/collections/food-service)
   Updated: 2026-10-23T20:27:30Z
   Total Products: 104
@@ -1855,17 +1855,17 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-06-08T18:28:06Z
   Total Products: 5
 - [REFRIGERADORES](https://great-mini.mx/collections/refrigeradores)
-  Updated: 2026-10-28T03:44:36Z
-  Total Products: 34
+  Updated: 2026-11-02T00:43:24Z
+  Total Products: 38
 - [ESTUFAS](https://great-mini.mx/collections/estufas)
   Updated: 2026-10-09T12:13:12Z
   Total Products: 13
 - [PARRILLAS](https://great-mini.mx/collections/parrillas)
-  Updated: 2026-10-31T00:01:51Z
-  Total Products: 15
-- [TEKA](https://great-mini.mx/collections/teka)
-  Updated: 2026-10-31T00:05:11Z
-  Total Products: 15
+  Updated: 2026-11-01T16:53:14Z
+  Total Products: 19
+- [TEKA](https://great-mini.mx/collections/teka-electrodomesticos-mexico): Descubre el catálogo de electrodomésticos Teka en Great-Mini. Hornos, parrillas, campanas y fregaderos de acero inoxidable con herencia alemana. ¡Equipa tu cocina hoy!
+  Updated: 2026-10-31T04:46:50Z
+  Total Products: 28
 - [STAR](https://great-mini.mx/collections/star)
   Updated: 2026-06-08T18:40:13Z
   Total Products: 5
@@ -1882,8 +1882,8 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
   Updated: 2026-10-09T13:12:02Z
   Total Products: 7
 - [VIKING APPLIANCES](https://great-mini.mx/collections/viking-appliances-mexico-lujo-profesional): 💡Descubra la gama completa de electrodomésticos de lujo Viking en México con GREAT+MINI. Estufas profesionales, refrigeradores integrados y la exclusiva serie Tuscany. Potencia de chef y diseño premium para su hogar. ¡Cotice hoy mismo!
-  Updated: 2026-06-09T03:13:57Z
-  Total Products: 25
+  Updated: 2026-11-02T02:21:21Z
+  Total Products: 55
 - [TURBOCHEF](https://great-mini.mx/collections/turbochef): ⚡ Descubre la colección TurboChef en Great Mini. Hornos de alta velocidad y convección industrial que cocinan hasta 5 veces más rápido. Tecnología Ventless sin campana y menús programables. ¡Lleva tu negocio al siguiente nivel con envío a todo México! 🇲🇽🛒
   Updated: 2026-07-24T15:11:09Z
   Total Products: 6
@@ -1959,6 +1959,12 @@ Enfoque principal: Transformar espacios de trabajo e infraestructura comercial e
 - [MIGSA](https://great-mini.mx/collections/migsa): Descubre el catálogo completo de equipos gastronómicos MIGSA en Great-Mini.mx. Refrigeración, hornos, batidoras, freidoras y maquinaria comercial con envío a todo México. ⚙️🚀
   Updated: 2026-10-12T02:29:16Z
   Total Products: 20
+- [VIKING RVL](https://great-mini.mx/collections/viking-rvl): Explora la exclusiva Colección Viking RVL en Great Mini. Hornos empotrables, parrillas de inducción con downdraft y campanas con diseño modular de vanguardia.
+  Updated: 2026-11-01T17:34:54Z
+  Total Products: 21
+- [VIKING VEIL](https://great-mini.mx/collections/viking-veil): Descubre la colección de Refrigeración Integrable Viking VEIL en Great Mini. Refrigeradores, congeladores y cavas de vino empotrables con bisagras Double Pivot y tecnología PlasmaCluster™.
+  Updated: 2026-11-02T02:21:21Z
+  Total Products: 9
 
 ## Blogs
 
