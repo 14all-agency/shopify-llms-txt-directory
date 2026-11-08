@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-21T20:12:00Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-10-31T00:17:06.072Z
+- Updated At: 2026-11-08T00:17:39.639Z
 
 ## Products
 
@@ -18,21 +18,21 @@
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Cody-Mockups-Portraits_0002_ECLESIA-Vinyl-Black-Front.png?v=1775487032
   Price: $39.98 USD
 - [ECLESIA Emerald Vinyl](https://naikaofficial.merchmadeeasy.com/products/eclesia-emerald-vinyl): Naïka’s debut album ECLESIA Pressed on Emerald marbled vinyl and accompanied by inner lyric sheets. SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE As each vinyl pressing is unique, please note that there may be slight variations in color from the product mock-up.
-  Updated: 2026-10-21T02:47:59Z
+  Updated: 2026-11-07T21:59:45Z
   Vendor: Naika
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Vinyl-Main-Mockup.png?v=1781818904
   Price: $49.98 USD
 - [Signed Print](https://naikaofficial.merchmadeeasy.com/products/eclesia-vinyl-signed): 12X12" COVER ART POSTER SIGNED BY NAÏKA
-  Updated: 2026-10-20T15:04:30Z
+  Updated: 2026-11-07T21:59:45Z
   Vendor: Naika
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Vinyl-Jacket-FrontSIGNED_6cba8930-f25c-4b80-bc2b-8a6eb5008bf7.png?v=1770068568
   Price: $30.00 USD
 - [ECLESIA Tee](https://naikaofficial.merchmadeeasy.com/products/eclesia-tee): Vintage-style Naïka ‘Eclesia’ tee featuring a bold back graphic with sun, palm trees, florals and flamingo. Soft, premium cotton for everyday wear.
-  Updated: 2026-10-20T13:16:56Z
+  Updated: 2026-11-07T21:59:45Z
   Vendor: Naika
   Product Type: T-Shirt
   Availability: Available
@@ -53,7 +53,7 @@
     Availability: Available
     Price: $35.00 USD
 - [ZOBODOBODO Tank](https://naikaofficial.merchmadeeasy.com/products/zobodobodo-tank): ZOBODOBODO on a 100% cotton tank in black with Noula on the back neck
-  Updated: 2026-10-29T16:25:06Z
+  Updated: 2026-11-07T19:48:25Z
   Vendor: Naika
   Product Type: Tank
   Availability: Available
@@ -74,7 +74,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Noula Tank](https://naikaofficial.merchmadeeasy.com/products/noula-tank): Noula flower on a 100% cotton tank in white with Naika logo on the back neck
-  Updated: 2026-10-08T14:11:59Z
+  Updated: 2026-11-06T20:03:45Z
   Vendor: Naika
   Product Type: Tank
   Availability: Available
@@ -95,7 +95,7 @@
     Availability: Available
     Price: $45.00 USD
 - [ECLESIA Tote](https://naikaofficial.merchmadeeasy.com/products/eclesia-tote): Jumbo tote bag with vintage inspired, tropical ECLESIA graphic on the front
-  Updated: 2026-10-22T20:16:37Z
+  Updated: 2026-11-06T03:25:05Z
   Vendor: Naika
   Product Type: Tote
   Availability: Available
@@ -129,33 +129,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Eclesia-Tour-Poster.png?v=1771537251
   Price: $15.00 USD
+- [ECLESIA Vinyl + Signed Print](https://naikaofficial.merchmadeeasy.com/products/eclesia-vinyl-signed-insert): LIMITED QUANTITIES AVAILABLE Naïka’s debut album ECLESIA, out February 20, 2026. Pressed on Emerald marbled vinyl and accompanied by inner lyric sheets. Art print signed by Naïka SIDE A WELCOME TO ECLESIA BLOOM RITUAL MATADOR ONE TRACK MIND BARELY BARELY F.I.S.H. SIDE B SOLEIL WHAT A DAY BLESSINGS MEMORY ON ME ALL MY LIFE MESSAGE IN A BOTTLE As each vinyl pressing is unique, please note that there may be slight variations in color from the product mock-up.
+  Updated: 2026-11-07T22:00:03Z
+  Vendor: Naïka Official Store
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Vinyl-Main-Signed.png?v=1776970782
+  Price: $74.98 USD
+- [Passport](https://naikaofficial.merchmadeeasy.com/products/passport): 18 page passport inspired booklet 3.5 x 5"
+  Updated: 2026-11-05T22:06:05Z
+  Vendor: Naika
+  Product Type: Booklet
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0753/5211/3330/files/Naika-Passport-Flip-TransparentEDIT.gif?v=1792684027
+  Price: $10.00 USD
 
 ## Collections
 
 - [Home page](https://naikaofficial.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-29T11:17:18Z
+  Updated: 2026-11-06T12:19:06Z
   Total Products: 7
 - [Apparel](https://naikaofficial.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-30T11:15:56Z
+  Updated: 2026-11-07T12:20:34Z
   Total Products: 5
 - [Accessories](https://naikaofficial.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-10-28T11:16:09Z
+  Updated: 2026-11-06T12:19:06Z
   Total Products: 3
 - [Hats](https://naikaofficial.merchmadeeasy.com/collections/hats)
   Updated: 2026-07-08T20:31:02Z
   Total Products: 0
 - [Music](https://naikaofficial.merchmadeeasy.com/collections/music)
-  Updated: 2026-10-29T11:17:18Z
-  Total Products: 5
+  Updated: 2026-11-06T12:19:06Z
+  Total Products: 6
 - [All](https://naikaofficial.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-30T11:15:56Z
-  Total Products: 11
+  Updated: 2026-11-07T12:20:34Z
+  Total Products: 9
 - [ECLESIA](https://naikaofficial.merchmadeeasy.com/collections/eclesia)
-  Updated: 2026-10-30T11:15:56Z
-  Total Products: 10
+  Updated: 2026-11-07T12:20:34Z
+  Total Products: 11
 - [Lost In Paradise](https://naikaofficial.merchmadeeasy.com/collections/lost-in-paradise)
-  Updated: 2026-10-29T11:17:18Z
+  Updated: 2026-11-06T12:19:06Z
   Total Products: 2
+- [EG All Products - DO NOT EDIT](https://naikaofficial.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu'elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
+  Updated: 2026-11-07T12:20:34Z
+  Total Products: 15
 
 ## Store Pages
 
