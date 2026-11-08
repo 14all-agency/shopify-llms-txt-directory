@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-04-30T12:04:32Z
 - Contact Email: woniry27@gmail.com
-- Updated At: 2026-10-31T00:21:14.608Z
+- Updated At: 2026-11-08T00:20:15.279Z
 
 ## Products
 
@@ -151,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/hitachiRSRG517HEXAacremote.png?v=1783147161
   Price: ₹699.00 INR
 - [Hitachi Split & Window AC RAR-3U4 & RAR-2P2 Backlit Replacement Remote](https://woniry.in/products/hitachi-split-window-air-conditioner-remote-with-backlight): Hitachi RAR-3U4 and RAR-2P2 AC remote replacement for split and window units, with a backlit display and nothing to programme before first use.
-  Updated: 2026-10-19T17:44:00Z
+  Updated: 2026-11-03T05:00:08Z
   Vendor: Woniry
   Product Type: AC Remote Controls
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/acernew.png?v=1783147162
   Price: ₹399.00 INR
 - [Acer Smart Android LED TV I, H, V & XL Series Replacement Remote](https://woniry.in/products/acer-smart-led-tv-remote-universal-replacement): Acer Android LED TV remote for the I, H, V and XL series, with Netflix, YouTube and Prime Video keys and no codes or setup to worry about.
-  Updated: 2026-10-30T16:47:26Z
+  Updated: 2026-11-04T07:31:05Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -214,7 +214,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/Samsungqledtvremote.png?v=1783147162
   Price: ₹799.00 INR
 - [Sony Bravia Android TV RMF-TX500E Bluetooth Voice Replacement Remote](https://woniry.in/products/sony-bravia-rmf-tx500e-voice-remote): Sony Bravia RMF-TX500E voice remote for Android TVs sold from 2016 to 2022, set up with a quick Bluetooth pairing. 7-day returns for a wrong fit.
-  Updated: 2026-10-25T06:25:07Z
+  Updated: 2026-11-01T09:15:45Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/vugloledtvremote_1_71c21997-9c06-4c94-9a26-4027ebc21f0a.png?v=1783147163
   Price: ₹1,299.00 INR
 - [Thomson OATHPRO Smart LED TV 55OATHPRO0101 Replacement Remote](https://woniry.in/products/thomson-oathpro-55oathpro0101-tv-remote): Thomson 55OATHPRO0101 TV remote that also controls the Kodak 55CA0909, a replacement ready to use with no pairing. Prepaid orders ship free.
-  Updated: 2026-10-14T16:06:17Z
+  Updated: 2026-11-03T06:05:56Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -375,14 +375,14 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/kodaktvremote.png?v=1783147163
   Price: ₹399.00 INR
 - [Kodak Smart Android & 4K UHD TV Replacement Remote](https://woniry.in/products/kodak-smart-tv-remote-replacement): Lost your Kodak smart TV remote? This replacement for Android and 4K UHD models has Netflix, YouTube and Google Play hotkeys. Delivered in 1-4 days.
-  Updated: 2026-10-26T11:09:56Z
+  Updated: 2026-10-31T10:05:45Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/kotaktvremote.png?v=1778584040
   Price: ₹399.00 INR
 - [Kodak Linux Smart LED TV 24SE5002 & 43SE5004BL Replacement Remote](https://woniry.in/products/kodak-24se5002-smart-tv-remote): Kodak 24SE5002 TV remote, also for the 43SE5004BL Linux smart LED TV, packed with a user manual. Prepay online and shipping is on us.
-  Updated: 2026-10-14T07:58:53Z
+  Updated: 2026-10-31T11:59:55Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -501,7 +501,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/voltas49.png?v=1778309545
   Price: ₹349.00 INR
 - [LG Himalaya Cool Split AC AKB75415302 Replacement Remote](https://woniry.in/products/lg-split-ac-akb75415302-replacement-remote): LG Himalaya Cool AC remote for split units whose old handset reads AKB75415302, AKB75215414 or AKB75415306. Free delivery on prepaid orders.
-  Updated: 2026-10-14T07:59:01Z
+  Updated: 2026-11-01T16:59:36Z
   Vendor: Woniry
   Product Type: AC Remote Controls
   Availability: Available
@@ -697,7 +697,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/hitachi154.png?v=1781249777
   Price: ₹499.00 INR
 - [Hitachi Kashikoi 5300X Inverter Split AC RSB518IBEA Replacement Remote](https://woniry.in/products/hitachi-split-ac-rsb518ibea-replacement-remote): Hitachi Kashikoi 5300X RSB518IBEA AC remote, which also runs CSB518IBEA and RMB422ABXA inverter splits. Unsure? Message us its picture on WhatsApp.
-  Updated: 2026-10-14T07:59:19Z
+  Updated: 2026-11-02T09:39:15Z
   Vendor: Woniry
   Product Type: AC Remote Controls
   Availability: Available
@@ -816,7 +816,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/panasonicacremote157f.png?v=1781676667
   Price: ₹449.00 INR
 - [Panasonic Smart LED TV TH-43MS550DX & TH-32MS550DX Replacement Remote](https://woniry.in/products/panasonic-th-43ms550dx-led-tv-remote): Panasonic TH-43MS550DX TV remote, also for the TH-32MS550DX smart LED TV, a standard IR replacement that works with no pairing. Pay on delivery.
-  Updated: 2026-10-19T17:44:15Z
+  Updated: 2026-11-03T02:23:05Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -1047,7 +1047,7 @@
   Image: https://cdn.shopify.com/s/files/1/0605/6633/9648/files/RM-ANU200sonysystemremotefront.png?v=1784358480
   Price: ₹399.00 INR
 - [Blaupunkt 50QD7010 Google TV Bluetooth Voice Replacement Remote](https://woniry.in/products/blaupunkt-50qd7010-google-tv-voice-remote): Blaupunkt 50QD7010 voice remote for this and other Blaupunkt Google TVs from 2022, so you can search by voice over Bluetooth. COD available.
-  Updated: 2026-10-08T17:05:18Z
+  Updated: 2026-11-07T15:17:15Z
   Vendor: Woniry
   Product Type: TV Remote Controls
   Availability: Available
@@ -1149,10 +1149,10 @@
 ## Collections
 
 - [AC Remote Control](https://woniry.in/collections/ac-remote-control): AC remote replacements for Voltas, Hitachi, Blue Star, Lloyd, LG, Daikin and more. Match your old remote, pay by COD, delivery across India.
-  Updated: 2026-10-30T11:07:30Z
+  Updated: 2026-11-03T12:06:32Z
   Total Products: 77
 - [TV Remote Control](https://woniry.in/collections/tv-remote): Replacement remotes for Sony, Samsung, Thomson, Impex, Kodak, VW and LG TVs, matched by model number. Send a photo on WhatsApp to check fit. COD available.
-  Updated: 2026-10-30T11:07:30Z
+  Updated: 2026-11-04T12:05:42Z
   Total Products: 64
 - [Home Theater Remote](https://woniry.in/collections/home-theater): Home theatre and soundbar remote replacements for Sony, GOVO, Blaupunkt, Boult, Philips, Zebronics and Logitech. COD and delivery across India.
   Updated: 2026-10-30T11:07:30Z
@@ -1164,7 +1164,7 @@
   Updated: 2026-10-30T04:51:53Z
   Total Products: 4
 - [Acer TV Remote](https://woniry.in/collections/acer-remotes): Replacement remotes for Acer smart Android TVs in the I, H, V and XL series. IR remotes that work without pairing. WhatsApp fit check and cash on delivery.
-  Updated: 2026-10-30T04:51:53Z
+  Updated: 2026-11-04T12:05:42Z
   Total Products: 2
 - [Bush TV Remote](https://woniry.in/collections/bush-tv-remotes): Replacement Bush TV remotes for the BB3200PRO QLED smart Android TV and the JMK32PRO LED and Cloud TV. Match your model code. Cash on delivery.
   Updated: 2026-10-30T04:51:53Z
@@ -1182,7 +1182,7 @@
   Updated: 2026-10-30T04:51:55Z
   Total Products: 4
 - [LG TV and AC Remote](https://woniry.in/collections/lg-remotes): LG replacement remotes: MR25GA, MR23GA and MR20GA Magic voice remotes for LG smart TVs, plus AKB75415316, AKB75415302, AKB35706904 and AKB74955605 AC remotes.
-  Updated: 2026-10-30T04:51:55Z
+  Updated: 2026-11-02T12:05:03Z
   Total Products: 7
 - [Wzatco Projector Remote](https://woniry.in/collections/wzatco-projector-remotes): Replacement Wzatco projector remotes for the Yuva Go and the Yuva Go Pro Automatic. Match your projector model. WhatsApp photo fit check and cash on delivery.
   Updated: 2026-10-30T04:51:55Z
