@@ -6,12 +6,12 @@
 - Timezone: Europe/Bucharest
 - Created At: 2026-03-29T10:46:00Z
 - Contact Email: contact@tractariauto-bucuresti-ilfov.ro
-- Updated At: 2026-11-01T04:52:21.189Z
+- Updated At: 2026-11-08T08:53:13.594Z
 
 ## Policies
 
 - [Privacy Policy](https://www.tractari-auto-bucuresti-ilfov-nonstop.ro/policies/privacy-policy)
-  Updated: 2026-03-29T17:55:54Z
+  Updated: 2026-11-05T15:52:33Z
 
 ## Optional
 
