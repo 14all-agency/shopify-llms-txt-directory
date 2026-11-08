@@ -6,12 +6,12 @@
 - Timezone: Asia/Kolkata
 - Created At: 2024-05-13T06:38:52Z
 - Contact Email: bliingcosmetic@gmail.com
-- Updated At: 2026-10-31T00:25:47.232Z
+- Updated At: 2026-11-08T00:24:50.085Z
 
 ## Products
 
 - [Bliing Liquid Matte Lipstick –  | BliingCosmetic](https://bliingcosmetics.com/products/a): Long-lasting waterproof matte lipstick with intense pigmentation. Cruelty-free formula for all skin types.  – Shop now!
-  Updated: 2026-10-30T07:19:06Z
+  Updated: 2026-11-07T09:45:16Z
   Vendor: BlingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -109,7 +109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/24_Moca.png?v=1730824205
     Price: ₹210.00 INR
 - [Bliing Eau de Perfume 25ml – Fabric Fragrance | BliingCosmetic](https://bliingcosmetics.com/products/bliing-costmatic-happy-eau-de-parfum-net-wt-25ml-1): Bliing 25ml Eau de Perfume – luxury fabric fragrance by expert perfumists. Spritz on wardrobe or walk through the mist. Shop now.
-  Updated: 2026-10-30T10:39:41Z
+  Updated: 2026-11-07T21:04:59Z
   Vendor: BlingCosmetic
   Product Type: Perfume
   Availability: Available
@@ -131,7 +131,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/DSC_1109F_1eb4c5b1-b9a8-4529-969e-f816a2ea5a61.jpg?v=1764262999
     Price: ₹295.00 INR
 - [Mini Love Lipstick Pack of 7 – Travel Size | BliingCosmetic](https://bliingcosmetics.com/products/bliing-costmatic-mini-love-pack-of-07): Bliing Mini Love Lipstick Pack of 7 – compact, travel-friendly matte lip colors. Highly pigmented, long-wearing shades. Shop now.
-  Updated: 2026-10-27T20:33:26Z
+  Updated: 2026-11-01T07:26:56Z
   Vendor: BlingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -165,7 +165,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/19_3.jpg?v=1761889266
     Price: ₹390.00 INR
 - [Bliing Scent Sational Pack of 2 Eau de Perfume 25ml | BliingCosmetic](https://bliingcosmetics.com/products/bliing-costmatic-scent-sational-pack-of-2-eau-de-parfum-25ml-each): Get 2 Bliing 25ml Eau de Perfumes in one pack. Luxury fabric fragrances by expert perfumists. Best value combo. Shop now.
-  Updated: 2026-10-30T20:24:51Z
+  Updated: 2026-11-06T18:43:35Z
   Vendor: BlingCosmetic
   Product Type: Perfume
   Availability: Available
@@ -179,7 +179,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/CopyofDSC08847_2_F_1.jpg?v=1752772994
     Price: ₹490.00 INR
 - [Bliing Fresh Kiss Liquid Matte Lipstick | BliingCosmetic](https://bliingcosmetics.com/products/bliing-red-mehroon-mix-pack-of-06): Bold, vibrant matte finish lipstick with long-lasting wear. Cruelty-free & suitable for all skin types. Shop now at BliingCosmetic.
-  Updated: 2026-10-30T12:48:36Z
+  Updated: 2026-11-07T02:59:36Z
   Vendor: BliingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -273,7 +273,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/shade-22.png?v=1737830432
     Price: ₹178.00 INR
 - [Bliing Nazar No More Kajal Pencil | BliingCosmetic](https://bliingcosmetics.com/products/bliing-nazar-no-more-kajal): Define your eyes with Bliing Nazar No More Kajal Pencil. Long-lasting, smudge-proof formula for bold eye definition. Shop now.
-  Updated: 2026-10-30T20:34:21Z
+  Updated: 2026-11-07T19:59:35Z
   Vendor: BliingCosmetic
   Product Type: 
   Availability: Available
@@ -325,7 +325,7 @@
     Availability: Available
     Price: ₹370.00 INR
 - [Bliing 50ml Eau de Perfume – Buy Online | BliingCosmetic](https://bliingcosmetics.com/products/buy-bliing-50ml-eau-de-perfume-long-lasting-fregrencess): Buy Bliing 50ml Eau de Perfume online. Luxury fabric fragrance crafted by experienced perfumists. Shop BliingCosmetic.
-  Updated: 2026-10-30T16:45:39Z
+  Updated: 2026-11-07T20:08:27Z
   Vendor: BliingCosmetic
   Product Type: 
   Availability: Available
@@ -347,7 +347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/DSC_1090F.jpg?v=1752770545
     Price: ₹370.00 INR
 - [Bliing Hydrating Lip Gloss – Ice Cool Shimmer | BliingCosmetic](https://bliingcosmetics.com/products/bliing-lipglos): Bliing Ice Cool Shimmer Lip Gloss delivers dazzling shine with hydrating ingredients. Almond Oil, Shea Butter, Vitamin E. Shop now.
-  Updated: 2026-10-29T09:22:16Z
+  Updated: 2026-11-07T15:12:36Z
   Vendor: BliingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -385,7 +385,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/TEMPTRED.jpg?v=1744510529
     Price: ₹199.00 INR
 - [Bliing Star Struck Lipstick – Buy 1 Get 1 Free | BliingCosmetic](https://bliingcosmetics.com/products/bliing-star-struck-lipstick): Bold matte lipstick with intense pigmentation. Buy 1 Get 1 Free offer. Cruelty-free formula for all skin types. Shop BliingCosmetic.
-  Updated: 2026-10-30T08:56:31Z
+  Updated: 2026-11-07T21:07:26Z
   Vendor: BliingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -446,7 +446,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/AKS5810copyF.jpg?v=1769623597
   Price: ₹665.00 INR
 - [Bliing Glow Stick Highlighter – Cream Stick | BliingCosmetic](https://bliingcosmetics.com/products/bliing-glow-stick): Bliing Glow Stick is a weightless cream highlighter that blurs, diffuses, and luminizes for up to 6 hours. Shop BliingCosmetic.
-  Updated: 2026-10-30T17:35:35Z
+  Updated: 2026-11-07T11:24:36Z
   Vendor: BliingCosmetic
   Product Type: Face
   Availability: Available
@@ -471,7 +471,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/Happy-50-1.jpg?v=1722363974
   Price: ₹370.00 INR
 - [OH MY LASH Waterproof Mascara – Volumizing, Smudge-Proof | BliingCosmetic](https://bliingcosmetics.com/products/oh-my-lash-waterproof-masc): Buy OH MY LASH Waterproof Mascara online. Bold, voluminous, clump-free lashes all day. Smudge-proof & sweat-resistant formula. Shop now at BliingCosmetic.
-  Updated: 2026-10-30T15:47:15Z
+  Updated: 2026-11-07T14:27:17Z
   Vendor: BliingCosmetic
   Product Type: Mascara
   Availability: Available
@@ -484,14 +484,14 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/HMJ_1703_f.jpg?v=1779934349
     Price: ₹195.00 INR
 - [No Trace Gel Primer by Bliing – Oil-Free | BliingCosmetic](https://bliingcosmetics.com/products/no-trace-primer): Bliing No Trace Gel Primer smooths skin, blurs pores, and helps foundation last longer. Lightweight, non-greasy satin finish. Shop now.
-  Updated: 2026-10-30T12:17:36Z
+  Updated: 2026-11-07T06:15:36Z
   Vendor: BliingCosmetic
   Product Type: Primer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/WhatsApp_Image_2025-09-03_at_13.18.51_1.jpg?v=1756913920
   Price: ₹240.00 INR
 - [Bliing Oh My Wing Eyeliner – Precision Tip | BliingCosmetic](https://bliingcosmetics.com/products/bliing-cosmetic-oh-my-wing-eyliner): Effortless precision with Bliing Oh My Wing Eyeliner. Creamy, weightless formula for sharp lines or smoky looks. Shop now.
-  Updated: 2026-10-30T18:11:04Z
+  Updated: 2026-11-07T19:18:06Z
   Vendor: BliingCosmetic
   Product Type: Eyeliner
   Availability: Available
@@ -513,7 +513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/02_1.jpg?v=1752593181
     Price: ₹195.00 INR
 - [Bliing Butter Soft Liquid Lipstick – Buy 2 Get 1 Free | BliingCosmetic](https://bliingcosmetics.com/products/bliing-butter-soft-butter-soft-lipstick-long-lasting-waterproof-lipstick): Luscious, creamy matte liquid lipstick. Buy 2 Get 1 Free offer. Lightweight formula for all-day wear. Shop BliingCosmetic.
-  Updated: 2026-10-30T15:04:32Z
+  Updated: 2026-11-07T22:47:36Z
   Vendor: BlingCosmetic
   Product Type: LIPS
   Availability: Available
@@ -567,7 +567,7 @@
     Image: https://cdn.shopify.com/s/files/1/0695/7770/3654/files/24_3.jpg?v=1761049873
     Price: ₹299.00 INR
 - [Bliing Love Touch Liquid Sindoor | BliingCosmetic](https://bliingcosmetics.com/products/bliing-love-touch-liquid-sindoor): Buy Bliing Love Touch Liquid Sindoor Pack of 7 featuring beautiful red & maroon shades. Easy to use, waterproof and long-lasting liquid sindoor for an elegant look.
-  Updated: 2026-10-30T18:43:16Z
+  Updated: 2026-11-07T18:30:29Z
   Vendor: BliingCosmetic
   Product Type: Liquid Sindoor
   Availability: Available
@@ -602,85 +602,85 @@
 ## Collections
 
 - [EAU DE PERFUME](https://bliingcosmetics.com/collections/fragrance)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 7
 - [Lipsticks](https://bliingcosmetics.com/collections/lipsticks): Bliing Cosmetics' Red Maroon Mix Lipstick in Rad is a bold and vibrant choice for those who want to make a statement with their lip color. This 3.5g lipstick offers a perfect blend of intense pigmentation, long-lasting wear, and a comfortable matte finish. This product is formulated with high-quality ingredients to ensure comfortable wear while providing a vibrant matte finish. It is cruelty-free and suitable for all skin types. Gives Bold And Light Weight Color With A Liquid Matt Finish Gives Maximum Coverage In One Stroke Highly Pigmented Glamour's Shades. Extreme Color Intensity. Long Wearing.
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 20
 - [Trending](https://bliingcosmetics.com/collections/bestseller)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 27
 - [50ml Perfume](https://bliingcosmetics.com/collections/summer-sea-breeze)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 4
 - [50ml Perfume](https://bliingcosmetics.com/collections/all-day-wear-spring): It's a Fabric Perfume. Apply to your wardrobe or Spritz into the air and walk through it. Spray on Fabric to check lasting of the perfume. Use a small amount as per your need. Add more if required.
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 6
 - [25ml Perfume](https://bliingcosmetics.com/collections/party-wear-happy): It's a Fabric Perfume. Apply it to your wardrobe or Spritz it into the air and walk through it. Spray on the fabric to check the last part of the perfume. Use a small amount as needed. Add more if required.
-  Updated: 2026-10-29T11:16:13Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 1
 - [Unisex](https://bliingcosmetics.com/collections/unisex-oudh)
   Updated: 2026-05-05T11:30:12Z
   Total Products: 0
 - [All Products](https://bliingcosmetics.com/collections/allproducts): Shop all BliingCosmetic products including lipsticks, perfumes, kajal, eyeliner, lip gloss and more.
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 33
 - [BLIING TRENDING GITFS](https://bliingcosmetics.com/collections/kit-combo)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 8
 - [Eye](https://bliingcosmetics.com/collections/kajal)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 8
 - [Get 40%](https://bliingcosmetics.com/collections/get-30)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 11
 - [Buy any packed of get Lipgloss Rs.115](https://bliingcosmetics.com/collections/combo-offers)
-  Updated: 2026-10-29T11:16:13Z
+  Updated: 2026-11-06T12:15:44Z
   Total Products: 9
 - [BestSeller](https://bliingcosmetics.com/collections/bestseller-1)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 18
 - [AVADA - Best Sellers](https://bliingcosmetics.com/collections/avada-best-sellers)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 53
 - [Buy 2 Lipstick get 1 free combo set](https://bliingcosmetics.com/collections/eid-collection): this is liquied lipstick,butter soft lipstick no dry & matt lipstick waterproof buy this amazing product with combo  ,
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [Combo Lipsticks Offer](https://bliingcosmetics.com/collections/99-lipstick): BUY 2@Rs.299 FREE Delivery OFFER till 31st January (2 खरीदें @ ₹299 में; मुफ़्त डिलीवरी। यह ऑफर 31 जनवरी तक मान्य है।)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 7
 - [Combo Offer Rs.499](https://bliingcosmetics.com/collections/combo-offer): Carnauba, Candelilla Wax, Lanolin, Viet, 8 H.T., Schedule Q-Colors. Perfume, Paraffin Wax, Octyl-Do-De-Nol, Poly isobutane This 1.5ML Bliing Cosmetics Mini Love is a compact, stylish cosmetic product designed for on-the-go beauty needs. This miniature kit includes essential makeup items in a travel-friendly size, perfect for touch-ups throughout the day or for creating a complete look while traveling. The Mini Love kit typically features: The Bliing Cosmetic Mini Love is known for its high-quality ingredients, Gives bold and lightweight color with a liquid matt finish Gives maximum coverage in one stroke. Highly pigmented glamourous shades. Extreme color intensity. Long Wearing.
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 5
 - [50 ml perfume header](https://bliingcosmetics.com/collections/50-ml-perfume-header)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 6
 - [25 ml perfume header](https://bliingcosmetics.com/collections/25-ml-perfume-header)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [Buy 2 get 2 free](https://bliingcosmetics.com/collections/lipstics-set): Buy 2 get 2 free
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 3
 - [Buy Packed of 7 Lipstic and get Lipgloss Free](https://bliingcosmetics.com/collections/free-shine-lip): Buy Packed of 7 Lipstic and get Lipgloss Free
   Updated: 2026-07-04T16:08:29Z
   Total Products: 1
 - [Face](https://bliingcosmetics.com/collections/face): Get that smooth, filter-free base you’ve always wanted 💅From primer to glow — everything your skin needs for a perfect finish!✨ Lightweight • Long-lasting • Skin-friendlyShop now & slay every look with Bliing Face Makeup 💖
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 5
 - [Combo Lipsticks Offer](https://bliingcosmetics.com/collections/combo-lipsticks-offer): BUY 2 get 1 FREE Delivery !COD Aviable +free delvery
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [Sindoor](https://bliingcosmetics.com/collections/sindoor): Shop Bliing Cosmetics' premium Sindoor collection. Vibrant, long-lasting liquid sindoor in beautiful shades. Perfect for everyday and special occasions.
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [Big offer](https://bliingcosmetics.com/collections/big-offer): this is addtional great dal of day offer
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [waterproof eye kajal pencil](https://bliingcosmetics.com/collections/waterproof-eye-kajal-pencil)
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 - [COMBO COLLECTIONS EYELINER & MASCARA](https://bliingcosmetics.com/collections/combo-collections-eyeliner-mascara): The perfect waterproof eyeliner & mascara
-  Updated: 2026-10-30T11:16:36Z
+  Updated: 2026-11-07T12:17:07Z
   Total Products: 2
 
 ## Blogs
