@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-06-28T06:45:04Z
 - Contact Email: support@digicollex.com
-- Updated At: 2026-10-31T01:12:51.861Z
+- Updated At: 2026-11-08T01:25:04.425Z
 
 ## Products
 
@@ -85,7 +85,7 @@
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Aug_29_2026_07_30_00_AM_8.png?v=1787953308
     Price: $22.99 USD
 - [Mopiq™ 360° Cleaning brush with Long Handle](https://naylora.store/products/long-handle-floor-cleaning-brush-with-cloth-attachment): Overview Mopiq™ Long Handle Design - Extended reach for effortless cleaning without bending Cloth Clamping Mechanism - Secure fabric attachment for efficient scrubbing Multi-Surface Applicability - Effective on bathroom tiles, floor gaps, and ceramic surfaces Durable Construction - Robust materials ensure long-lasting cleaning performance Specifications Weight: 430 grams Net Content: 200ml Color Options: Floor brush crevice brush Packing List floor brush*1 cloth attachment*1
-  Updated: 2026-10-16T19:32:58Z
+  Updated: 2026-11-01T12:46:05Z
   Vendor: DIGICOLLEX
   Product Type: 360 floor brush
   Availability: Available
@@ -106,7 +106,7 @@
   Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_10_2026_07_29_46_AM_f8a85adf-7005-49b2-9d12-7c41500cc967.png?v=1788993089
   Price: $59.99 USD
 - [Rootiva™ Rosemary Rice Water Hair Growth Spray](https://naylora.store/products/rosemary-rice-water-hair-spray): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
-  Updated: 2026-10-30T19:44:21Z
+  Updated: 2026-10-31T02:03:06Z
   Vendor: Digi Collex
   Product Type: 1 Hair Growth Cap
   Availability: Available
@@ -435,6 +435,20 @@
   - [No Ring Stand 4 / iPhone 16 Pro Max](https://naylora.store/products/iphone-18-17-pro-max-airbag-drop-protection-case?variant=53953971061019)
     Availability: Available
     Price: $39.99 USD
+- [Wrapora™ 3-in-1 Kitchen Wrap Dispenser](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter): Product information: Material: ABS Color: gray, bamboo pattern Style: modern and simple Specification: no film Size: 372x138x82mm Packing list: Cutter X1PCS
+  Updated: 2026-11-01T00:38:04Z
+  Vendor: Digi Collex
+  Product Type: kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_07_PM_6.png?v=1789795636
+  - [Bamboo pattern / No film](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter?variant=53987775119643)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_04_12_44_PM_2.png?v=1789798415
+    Price: $39.99 USD
+  - [Grey / No film](https://naylora.store/products/magnetic-suction-refrigerator-no-punching-cutter?variant=53987775152411)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_19_2026_03_21_04_PM_1.png?v=1789795328
+    Price: $39.99 USD
 - [Ergonomic Cervical Memory Foam Pillow](https://naylora.store/products/hot--slow-rebound-memory-pillow): Product information: Product dimensions: 60*40*12 cm Manufacturing process: Foaming process Material: Memory foam Filler: Polyurethane Packing list: Pillow*1 Product Image:
   Updated: 2026-09-28T21:29:48Z
   Vendor: Digi Collex
@@ -566,7 +580,7 @@
     Availability: Available
     Price: $98.99 USD
 - [Travora™ 4-in-1 Travel Toiletry Dispenser](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion): Overview: 1. [4-in-1 Travel Set] This innovative 4-in-1 travel dispenser offers travel convenience. Its compact design cleverly houses four independent refillable bottles, perfectly suited for your cleanser, shower gel, lotion, and makeup remover, making your travel grooming routine easy and convenient. 2. Leak-proof design: The bottle features a safety screw cap and a foldable pump head, providing double-seal protection to effectively prevent leaks and accidental spills. Travel with peace of mind; your toiletries are safely stored and won't soil your luggage. 3. This tranquil green travel dispenser is made from select premium plastic for durability. Measuring approximately 16.5 cm (6.5 inches) high and 5.5 cm (2.2 inches) wide, it's easy to carry and ideal for travel. 4. Easy filling, moderate capacity. Each individual inner bottle holds 30 ml, meeting the carry-on liquid capacity limits of most airlines. The wide opening and easy disassembly design allow you to quickly and easily refill your bottles without any hassle. 5. Compact and portable, with included label stickers. This travel travel bottle features a stylish and compact design, taking up minimal space in your suitcase or handbag. It's the perfect companion for business trips, vacations, camping, or fitness. Each set also includes a label sticker for easy identification of the contents of each bottle. Product information: Specifications: Green (English sticker), Gray (English sticker), Green and Gray (English sticker) Material: Plastic Capacity: 600 Packing list: Dispensing Bottle*1/*2 Product Image:
-  Updated: 2026-10-30T21:30:47Z
+  Updated: 2026-11-08T00:15:43Z
   Vendor: Digi Collex
   Product Type: 1 Hair Growth Cap
   Availability: Available
@@ -574,27 +588,56 @@
   - [Gray / Sticker English Version](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion?variant=54456618615067)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_05_20_19_PM-1.png?v=1793341259
-    Price: $22.00 USD
+    Price: $19.45 USD
   - [Green / Sticker English Version](https://naylora.store/products/4-in-1-travel-dispenser-portable-travel-bottles-leak-proof-leakproof-travel-container-for-perfume-shampoo-conditioner-lotion?variant=54456618647835)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Oct_30_2026_05_20_21_PM-2_ac2d3241-b607-4d35-83f1-c2f045eb7681.png?v=1793341278
-    Price: $22.00 USD
-- [Water rice](https://naylora.store/products/water-rice): Product information: Benefits: Moisturizing Suitable Skin Types: All skin types Color Classification: Rosemary & Rice, 200 ml (For export trade only; not available for  in the domestic market. By purchasing this product, you agree to and accept the disclaimer.) Category: Body Care Set Applicable Audience: All users Specifications: Standard size Packing list: Spray x1pc Product Image: Actual Product Photo
-  Updated: 2026-10-30T21:58:46Z
-  Vendor: Digi Collex
+    Price: $19.45 USD
+- [Smooth Lightweight Hair Care](https://naylora.store/products/smooth-lightweight-hair-care): Product information: Makeup tool category: Other Suitable population: General population Dimensions: 5*5*15 Color classification: 200ML (only for export sales, prohibited domestic sales, purchase equivalent to default disclaimer) Net content: 200mL Packing list: Shampoo x 1pc Product Image:
+  Updated: 2026-11-06T04:03:25Z
+  Vendor: naylora
   Product Type: 1 Hair Growth Cap
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Sep_14_2026_06_22_01_PM.png?v=1789374154
-  Price: $15.00 USD
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/7f156ea3-61e7-4697-b129-69d0ba5f977e.jpg?v=1793416694
+  Price: $33.00 USD
+- [Sinkova™ Quick-Drain Faucet Mat](https://naylora.store/products/silicone-anti-skid-faucet-drain-pad): Product information: Material: silicone Specifications: off white, dark green, dark gray, light gray, dark green, dark green, dark gray Style: modern and simple Packing list: Silicone drain pad * 1
+  Updated: 2026-11-02T20:42:13Z
+  Vendor: naylora
+  Product Type: kitchen
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/A_Tidier_Sink_Starts_Here-1.png?v=1793483912
+  - [Black 45CM](https://naylora.store/products/silicone-anti-skid-faucet-drain-pad?variant=54474363306267)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_10_34_04_AM-1.png?v=1793489672
+    Price: $30.00 USD
+  - [Black 61CM](https://naylora.store/products/silicone-anti-skid-faucet-drain-pad?variant=54474363339035)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_10_34_06_AM-3_febe0a22-09be-4593-a6cc-db30a65cd983.png?v=1793489698
+    Price: $30.00 USD
+  - [Grey 45CM](https://naylora.store/products/silicone-anti-skid-faucet-drain-pad?variant=54474363371803)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_10_34_05_AM-2_f30bc4d0-5203-4603-b127-1d8ec3f31f95.png?v=1793489722
+    Price: $30.00 USD
+  - [Grey 61CM](https://naylora.store/products/silicone-anti-skid-faucet-drain-pad?variant=54474363404571)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_10_34_08_AM-4_6caee598-237d-4308-88ec-378628b1ed96.png?v=1793489740
+    Price: $30.00 USD
+- [Misto™ Cooking Oil Dispenser](https://naylora.store/products/kitchen-glass-oil-dispenser): Product information: Function: automatically enable and disable Material: 304 stainless steel Style: modern simplicity Capacity: straight [100ml] [color box free]] Packing list: Fuel injection bottle+funnel *1 Product Image:
+  Updated: 2026-11-07T15:16:13Z
+  Vendor: NAYLORA
+  Product Type: Oil Dispenser
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1034/2183/7595/files/ChatGPT_Image_Nov_1_2026_03_33_14_PM-1.png?v=1793507650
+  Price: $14.78 USD
 
 ## Collections
 
 - [Home page](https://naylora.store/collections/frontpage)
-  Updated: 2026-10-30T21:58:37Z
-  Total Products: 15
+  Updated: 2026-11-08T00:15:45Z
+  Total Products: 16
 - [Quality Products](https://naylora.store/collections/quality-products)
-  Updated: 2026-10-30T21:58:37Z
-  Total Products: 5
+  Updated: 2026-11-08T00:15:45Z
+  Total Products: 4
 - [Must Buy](https://naylora.store/collections/must-buy): Key Features ✅ Warm Fleece Lining – Soft 230G fleece keeps you warm and comfortable in cold weather. ✅ High-Waist Support – Stretchy, tummy-control waistband for a secure and flattering fit. ✅ Comfortable & Flexible – 4-way stretch fabric moves with you without slipping. ✅ Stylish Winter Essential – Pairs perfectly with dresses, skirts, shorts, boots, or jeans. ✅ Perfect for Any Occasion – Great for work, travel, shopping, outdoor activities, and everyday wear. ✅ Lightweight Warmth – Keeps your legs cozy without adding bulk.
   Updated: 2026-08-10T23:49:52Z
   Total Products: 0
@@ -629,7 +672,7 @@
   Updated: 2026-10-14T07:56:59Z
   Total Products: 0
 - [Trending Now](https://naylora.store/collections/best-seller)
-  Updated: 2026-10-30T21:58:37Z
+  Updated: 2026-11-01T00:38:05Z
   Total Products: 21
 - [SwiftChop™ Vegetable Chopper](https://naylora.store/collections/swiftchop™-vegetable-chopper)
   Updated: 2026-08-14T11:29:29Z
