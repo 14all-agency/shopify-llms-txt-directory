@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2025-08-04T15:55:35Z
 - Contact Email: oliver@pickleupshot.com
-- Updated At: 2026-10-31T00:47:06.763Z
+- Updated At: 2026-11-08T00:42:44.702Z
 
 ## Products
 
 - [PickleUp Pro Cramp Shot - Pineapple](https://pickleupshot.com/products/pro-cramp-shot): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-10-30T10:37:31Z
+  Updated: 2026-11-06T17:37:17Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
@@ -48,29 +48,29 @@
     Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/8f3160af598d46d0a56df52c99bfbe51.png?v=1776359783
     Price: £25.99 GBP
 - [The Trial Pack](https://pickleupshot.com/products/pro-cramp-shots-trail-pack): The Ultimate Cramp-Crushing Performance Shot. Stop Cramping. Start Winning. Muscle cramps can be game ending. PickleUp is your secret  that not only delivers instant muscle cramp relief that gets you back to peak performance, but also helps you keep the cramp at bay preventatively. Backed by leading research, the shots have been formulated alongside Elite Athletes and Performance Nutritionists to give you the competitive edge when it matters most.
-  Updated: 2026-10-30T14:41:10Z
+  Updated: 2026-11-04T15:13:27Z
   Vendor: PickleUp
   Product Type: 50ml Shot
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/4_pack.jpg?v=1792702688
-  Price: £14.99 GBP
+  Image: https://cdn.shopify.com/s/files/1/0943/0843/4244/files/Product_Photo_4pack.png?v=1793643238
+  Price: £19.99 GBP
 
 ## Collections
 
 - [Home page](https://pickleupshot.com/collections/frontpage)
-  Updated: 2026-10-30T11:22:20Z
+  Updated: 2026-11-07T12:23:23Z
   Total Products: 1
 - [Shop All](https://pickleupshot.com/collections/shop-all)
-  Updated: 2026-10-30T11:22:20Z
+  Updated: 2026-11-07T12:23:23Z
   Total Products: 1
 - [Merch](https://pickleupshot.com/collections/merch)
   Updated: 2026-10-23T11:22:21Z
   Total Products: 1
 - [Performance Cramp Shots](https://pickleupshot.com/collections/performance-cramp-shots)
-  Updated: 2026-10-30T11:22:20Z
+  Updated: 2026-11-07T12:23:23Z
   Total Products: 1
 - [Trial Packs](https://pickleupshot.com/collections/trial-packs)
-  Updated: 2026-10-25T11:18:59Z
+  Updated: 2026-11-04T12:20:22Z
   Total Products: 1
 
 ## Blogs
@@ -318,6 +318,18 @@
     Updated: 2026-10-29T10:08:46Z
     Author: PickleUp
     Tags: does pickle juice help with cramps, drink pickle juice for cramps, muscle cramps and pickle juice, pickle juice for cramps, volleyball
+  - [Why Do My Calves Cramp? Calf Cramps Explained | PickleUp](https://pickleupshot.com/blogs/news/why-do-my-calves-cramp): Why Do My Calves Cramp? Calf Cramps Explained | PickleUp
+    Updated: 2026-11-02T10:10:19Z
+    Author: PickleUp
+    Tags: calf cramps, does pickle juice help with cramps, exercise associated muscle cramps, muscle cramps and pickle juice, pickle juice for cramps
+  - [Why I am teaming up with PickleUp](https://pickleupshot.com/blogs/news/why-i-am-teaming-up-with-pickleup-and-my-3-favourite-ways-to-use-the-cramp-shot): <p>You can put together a brilliant nutrition plan, but if it’s too complicated to follow in a changing room or<br>halfway through a race, it needs rethinking.</p>
+<p>That’s where PickleUp caught my attention. The Cramp Shot combines pickle juice with ~21g of<br>carbohydrate in a 50ml serving. The carbohydrate is a big part of the appeal for me, because it gives the<br>shot a clear role within a fuelling plan alongside supporting cramp. So I thought to start this blog I’d share<br>my top 3 ways my athletes use this product!</p>
+    Updated: 2026-11-03T00:20:14Z
+    Author: Oliver Donohue
+  - [Pickle Juice for Triathlon Cramp | PickleUp](https://pickleupshot.com/blogs/news/pickle-juice-for-triathlon-cramps): Pickle Juice for Triathlon Cramp | PickleUp
+    Updated: 2026-11-05T10:14:29Z
+    Author: PickleUp
+    Tags: is pickle juice good for cramps, muscle cramps and pickle juice, pickle juice and cramps, pickle juice for cramps, Triathlon
 - [Ambassadors](https://pickleupshot.com/blogs/ambassadors)
   - [Nat Phillips](https://pickleupshot.com/blogs/ambassadors/test-blog)
     Updated: 2025-09-17T14:51:53Z
