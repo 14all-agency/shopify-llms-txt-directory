@@ -10,7 +10,7 @@ Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas 
 - Timezone: America/Los_Angeles
 - Created At: 2026-06-18T04:03:56Z
 - Contact Email: denicezura@kurostash.com
-- Updated At: 2026-10-31T00:21:54.526Z
+- Updated At: 2026-11-08T00:18:24.470Z
 
 KURO STASH
 Kurostash es una tienda en línea que vende figuras de acción, peluches, cajas sorpresa, sets armables y accesorios de escritorio/setup, todos inspirados en videojuegos y anime. La tienda está conectada a varios proveedores y los productos están inspirados en franquicias populares de videojuegos y anime — ninguno es mercancía licenciada. La tienda envía desde varios proveedores, con la mayoría de los pedidos llegando en 2-3 semanas. Kurostash atiende principalmente a coleccionistas y gamers en Estados Unidos, con contenido disponible en inglés y español.
@@ -226,20 +226,6 @@ Políticas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Soporte_para_controles_de_videojuegos_Set_up_Gamer_Kuro_Stash_1.webp?v=1791243415
   Price: 18,00 $ USD
-- [Soporte para Audífonos sobre Hollow Knight | Impresión 3D](https://www.kurostash.com/products/soporte-para-audifonos-hollow-knight): Ideal para jugadores, coleccionistas y amantes de Hollow Knight que buscan soporte para sus audífonos y decorar su setup gamer
-  Updated: 2026-10-06T08:16:49Z
-  Vendor: Kuro Stash
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Soporte_para_audifonos_Videojuegos_Hollow_Knight_Kuro_Stash_2.webp?v=1788214745
-  - [Blanco](https://www.kurostash.com/products/soporte-para-audifonos-hollow-knight?variant=44308277362787)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/S2c81f6b1011a492a8987bde346771547l.webp?v=1783527460
-    Price: 20,00 $ USD
-  - [Negro](https://www.kurostash.com/products/soporte-para-audifonos-hollow-knight?variant=44308277395555)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0676/3993/5075/files/Sc272beb586db496aac0b51530c028921c.webp?v=1783527470
-    Price: 20,00 $ USD
 - [Figura Figma N.º 626: Link TOTK de GSC](https://www.kurostash.com/products/figura-figma-link-totk): Figura de acción de Link, saga de videojuegos TOTK. Figura articulada, capaz de realizar varias poses y con accesorios.
   Updated: 2026-10-19T19:24:52Z
   Vendor: GOOD SMILE COMPANY
@@ -292,10 +278,10 @@ Políticas
   Updated: 2026-10-05T20:58:48Z
   Total Products: 2
 - [Tus videojuegos favoritos](https://www.kurostash.com/collections/videojuegos): Explora la colección de Kurostash de figuras, peluches y coleccionables inspirados en videojuegos — piezas inspiradas en los mundos y personajes que ya conoces.
-  Updated: 2026-10-06T00:05:45Z
-  Total Products: 16
+  Updated: 2026-11-07T23:40:09Z
+  Total Products: 42
 - [Set up gamer](https://www.kurostash.com/collections/set-up-gamer): Explora la colección de Kurostash de esenciales para tu setup gamer — mouse pads, accesorios de escritorio y complementos para controles, para tu espacio.
-  Updated: 2026-10-06T00:03:34Z
+  Updated: 2026-11-07T23:33:21Z
   Total Products: 3
 - [Armables](https://www.kurostash.com/collections/armables): Explora la colección de Kurostash de figuras armables con bloques de construcción, inspiradas en épicas figuras — horas de armado, piezas de exhibición serias.
   Updated: 2026-10-05T18:24:46Z
