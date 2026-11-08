@@ -6,12 +6,12 @@
 - Timezone: Europe/London
 - Created At: 2026-06-11T12:06:01Z
 - Contact Email: noreply@cohorted.co.uk
-- Updated At: 2026-10-31T00:29:03.681Z
+- Updated At: 2026-11-08T00:23:07.537Z
 
 ## Products
 
 - [Mystery Beauty Box UK | £100+ Beauty & Skincare](https://mysterybeautyboxes.co.uk/products/mystery-beauty-box): Shop our Mystery Beauty Box UK packed with £100+ of skincare, makeup and beauty favourites. Premium surprises, authentic products and tracked UK delivery.
-  Updated: 2026-10-30T09:34:31Z
+  Updated: 2026-11-07T14:32:26Z
   Vendor: Mystery Beauty Boxes
   Product Type: 
   Availability: Available
@@ -42,6 +42,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1053/9460/2321/files/Shopify-Gift-card-60-V3.webp?v=1782403772
     Price: £60.00 GBP
+- [Illamasqua Defense Veil Anti-Pollution Primer](https://mysterybeautyboxes.co.uk/products/illamasqua-defense-veil-anti-pollution-primer)
+  Updated: 2026-11-05T12:36:14Z
+  Vendor: Mystery Beauty Boxes UK
+  Product Type: 
+  Availability: Available
+  Price: £0.00 GBP
 
 ## Collections
 
@@ -52,7 +58,7 @@
   Updated: 2026-06-24T13:03:41Z
   Total Products: 1
 - [The Mystery Beauty Box](https://mysterybeautyboxes.co.uk/collections/mystery-beauty-boxes): Shop Mystery Beauty Boxes UK packed with skincare, makeup, haircare and premium beauty surprises. Discover authentic products, gifts and incredible value.
-  Updated: 2026-10-28T11:35:01Z
+  Updated: 2026-11-07T12:45:11Z
   Total Products: 2
 - [The Fragrance Box](https://mysterybeautyboxes.co.uk/collections/nail-polish): Rich colors that last, without any of the toxic ingredients typically found in nail polish. ♡
   Updated: 2026-06-24T13:03:42Z
@@ -312,6 +318,18 @@
     Updated: 2026-10-30T09:05:18Z
     Author: The MBB Team
     Tags: affordable beauty, affordable beauty box, beauty, beauty box gift, beauty gift, beauty subscription, best mystery beauty box, birthday gift, christmas gift, gift boxes, gift mystery beauty box, gifts, mystery, mystery beauty box, surprise beauty box, unique gift options, valentines gift
+  - [Why Choose a Mystery Beauty Box as a Valentine's Beauty Gift?](https://mysterybeautyboxes.co.uk/blogs/news/why-choose-a-mystery-beauty-box-as-a-valentines-beauty-gift): Why Choose a Mystery Beauty Box as a Valentine's Beauty Gift?
+    Updated: 2026-11-02T09:09:17Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box gift, beauty gift, beauty subscription, best mystery beauty box, birthday gift, christmas gift, gift ideas, gift mystery beauty box, mystery, mystery beauty box, romantic beauty gifts, surprise beauty box, surprise beauty boxes, unique presents, valentine's gifts, valentines gift
+  - [What Makes a Bestselling Mystery Beauty Box for Any Gift Occasion?](https://mysterybeautyboxes.co.uk/blogs/news/what-makes-a-bestselling-mystery-beauty-box-for-any-gift-occasion): What Makes a Bestselling Mystery Beauty Box for Any Gift Occasion?
+    Updated: 2026-11-04T09:07:31Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box gift, beauty gift, beauty subscription, best mystery beauty box, best mystery boxes, birthday gift, box ideas, christmas gift, gift mystery beauty box, gifts, mystery, mystery beauty box, skincare treats, surprise beauty box, unique gift ideas, valentines gift
+  - [What Makes Mystery Beauty Boxes a Great Valentine's Gift Choice?](https://mysterybeautyboxes.co.uk/blogs/news/what-makes-mystery-beauty-boxes-a-great-valentines-gift-choice): What Makes Mystery Beauty Boxes a Great Valentine's Gift Choice?
+    Updated: 2026-11-06T09:05:48Z
+    Author: The MBB Team
+    Tags: affordable beauty box, beauty, beauty box gift, beauty gift, best mystery beauty box, birthday gift, christmas gift, gift mystery beauty box, gifts, mystery, mystery beauty box, skincare products, subscription box, surprise beauty box, surprise packages, unique gift ideas, valentine's day, valentines gift
 - [News](https://mysterybeautyboxes.co.uk/blogs/news-1)
   - [The truth about self-care](https://mysterybeautyboxes.co.uk/blogs/news-1/the-truth-about-self-care)
     Updated: 2026-06-17T15:23:05Z
@@ -338,7 +356,7 @@
 ## Policies
 
 - [Privacy Policy](https://mysterybeautyboxes.co.uk/policies/privacy-policy)
-  Updated: 2026-06-11T12:06:05Z
+  Updated: 2026-11-01T11:58:06Z
 - [Refund Policy](https://mysterybeautyboxes.co.uk/policies/refund-policy)
   Updated: 2026-06-17T16:51:59Z
 - [Terms of Service](https://mysterybeautyboxes.co.uk/policies/terms-of-service)
