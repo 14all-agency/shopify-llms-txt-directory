@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-09-27T16:41:54Z
 - Contact Email: james.findlater@shopify.com
-- Updated At: 2026-10-31T00:27:59.728Z
+- Updated At: 2026-11-08T00:30:20.468Z
 
 ## Products
 
