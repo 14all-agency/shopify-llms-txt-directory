@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2026-05-13T01:02:49Z
 - Contact Email: morripierre@gmail.com
-- Updated At: 2026-10-31T01:14:17.495Z
+- Updated At: 2026-11-08T01:05:02.147Z
 
 ## Products
 
@@ -85,7 +85,7 @@
 ## Policies
 
 - [Privacy Policy](https://eltsydney.com/policies/privacy-policy)
-  Updated: 2026-05-13T01:02:56Z
+  Updated: 2026-10-31T15:50:34Z
 - [Shipping Policy](https://eltsydney.com/policies/shipping-policy)
   Updated: 2026-06-02T04:20:13Z
 - [Refund Policy](https://eltsydney.com/policies/refund-policy)
