@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-20T04:18:55Z
 - Contact Email: gfeed.app@gmail.com
-- Updated At: 2026-10-31T00:24:23.188Z
+- Updated At: 2026-11-08T00:24:07.905Z
 
 ## Products
 
@@ -115,8 +115,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0981/0372/2347/files/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1776658765
   Price: $990.00 USD
-- [The Collection Snowboard: Liquid 222](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid-dup): The Collection Snowboard: Liquid Dup2
-  Updated: 2026-10-11T18:14:06Z
+- [The Collection Snowboard: Liquid 555](https://go-pro-01-1rbghkq1.myshopify.com/products/the-collection-snowboard-liquid-dup): The Collection Snowboard: Liquid Dup2
+  Updated: 2026-11-02T14:25:56Z
   Vendor: Hydrogen Vendor
   Product Type: snowboard
   Availability: Available
@@ -129,20 +129,20 @@
   Updated: 2026-04-20T04:19:24Z
   Total Products: 1
 - [Automated Collection](https://go-pro-01-1rbghkq1.myshopify.com/collections/automated-collection)
-  Updated: 2026-10-11T06:13:58Z
+  Updated: 2026-11-02T02:47:35Z
   Total Products: 8
 - [Hydrogen](https://go-pro-01-1rbghkq1.myshopify.com/collections/hydrogen)
-  Updated: 2026-10-11T06:13:58Z
+  Updated: 2026-11-02T02:47:35Z
   Total Products: 3
 - [Sales off](https://go-pro-01-1rbghkq1.myshopify.com/collections/sales-off): Sales off
-  Updated: 2026-10-23T11:21:34Z
+  Updated: 2026-11-02T02:47:35Z
   Total Products: 5
 
 ## Blogs
 
 - [News](https://go-pro-01-1rbghkq1.myshopify.com/blogs/news)
   - [Test](https://go-pro-01-1rbghkq1.myshopify.com/blogs/news/test)
-    Updated: 2026-09-29T09:27:59Z
+    Updated: 2026-11-02T03:02:06Z
     Author: Tay Nguyen
 
 ## Store Pages
@@ -157,7 +157,7 @@
 ## Policies
 
 - [Privacy Policy](https://go-pro-01-1rbghkq1.myshopify.com/policies/privacy-policy)
-  Updated: 2026-04-20T04:19:04Z
+  Updated: 2026-10-31T12:08:53Z
 
 ## Optional
 
