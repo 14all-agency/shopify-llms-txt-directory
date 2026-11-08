@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-06-13T20:02:34Z
 - Contact Email: kamivastienda@gmail.com
-- Updated At: 2026-10-31T00:21:15.925Z
+- Updated At: 2026-11-08T00:19:09.980Z
 
 ## Products
 
@@ -18,14 +18,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/mango-cl-sica.png?v=1786882586
   Price: 14,40 € EUR
 - [Vela de Cristal Chakra del Corazón | Kamivas](https://kamivas.com/products/velas-de-cristal-de-chakra-chakra-del-corazon388): Vela de cristal del chakra del corazón, asociada al amor propio y la compasión. Pensada para rituales de meditación, yoga o journaling.
-  Updated: 2026-10-29T07:12:07Z
+  Updated: 2026-11-04T09:18:43Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de Cristal de Chakras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TTi8yQy82MFIzMEMxRzZXUjMyQ1NOLzJkOWM4YWZhLmpwZWc.jpg?v=1782309391
   Price: 12,50 € EUR
 - [Vela de Cristal Chakra Sacro | Kamivas](https://kamivas.com/products/velas-de-cristal-de-chakra-chakra-sagrado391): Vela de cristal del chakra sacro, asociada a la creatividad y al disfrute del presente. Aroma cálido y terroso para tus sesiones de yoga o relajación.
-  Updated: 2026-10-27T16:09:08Z
+  Updated: 2026-11-04T19:05:51Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de Cristal de Chakras
   Availability: Available
@@ -95,7 +95,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/image_ad332875-a0ef-4e10-b6b2-aeaffe0b36ed.png?v=1785583884
   Price: 2,40 € EUR
 - [Porta Incienso Bandeja Madera de Mango | Recoge Cenizas Natural y Minimalista](https://kamivas.com/products/plain-mango-wood-ashcatcher434): Porta incienso bandeja de madera de mango natural. Recoge cenizas con diseño minimalista y sostenible. Ideal para meditación, yoga y decoración natural del hogar.
-  Updated: 2026-10-27T16:09:06Z
+  Updated: 2026-11-02T18:05:46Z
   Vendor: AWArtisan Dropship
   Product Type: Soporte de Incienso
   Availability: Available
@@ -109,7 +109,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/incienso-citronela-stamford.png?v=1785586571
   Price: 2,92 € EUR
 - [Porta Incienso Disco Buda | Para Conos y Varillas | Decoración Zen](https://kamivas.com/products/disco-porta-incienso-para-conos-y-varillas-buda447): Disco porta incienso con figura del Buda para conos y varillas. Pieza decorativa y funcional. Ideal para meditación, altares espirituales y decoración zen.
-  Updated: 2026-10-26T03:52:52Z
+  Updated: 2026-11-03T18:09:06Z
   Vendor: AWArtisan Dropship
   Product Type: Soporte de Incienso
   Availability: Available
@@ -123,7 +123,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUi8wRC82MFIzMEMxRzZNVEswRDFSL2QyY2VlOTUyLmpwZWc.jpg?v=1782309454
   Price: 16,95 € EUR
 - [Incienso Nag Champa Satya Sai Baba 15 g | Kamivas](https://kamivas.com/products/incienso-nag-champa-15g454): Incienso Nag Champa Satya Sai Baba de 15 g, con aroma floral y terroso. Para meditación, yoga o para perfumar el hogar.
-  Updated: 2026-10-30T11:05:56Z
+  Updated: 2026-11-07T18:12:26Z
   Vendor: AWArtisan Dropship
   Product Type: Nag Champa incienso
   Availability: Available
@@ -186,35 +186,35 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/cl-sico-encalada.png?v=1786882580
   Price: 14,40 € EUR
 - [Vela Zodiaco Libra con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-libra485): Vela de cristal del zodiaco Libra con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Libra.
-  Updated: 2026-10-30T19:08:05Z
+  Updated: 2026-11-05T19:09:30Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSy8yRS82MFIzMEMxRzZXVEsyRTFLL2IyMWZlNzViLmpwZWc.jpg?v=1782309488
   Price: 17,50 € EUR
 - [Vela de Cristal Chakra de la Garganta | Kamivas](https://kamivas.com/products/velas-de-cristal-de-chakra-chakra-de-la-garganta488): Vela de cristal del chakra de la garganta, asociada a la comunicación y la expresión personal. Aroma fresco y limpio para yoga o journaling.
-  Updated: 2026-10-26T15:05:52Z
+  Updated: 2026-11-04T19:05:56Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de Cristal de Chakras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xRy8yRC82MFIzMEMxRzZXUjMyRDFHL2Y0YmI0ODU4LmpwZWc.jpg?v=1782309491
   Price: 12,50 € EUR
 - [Vela de Cristal Chakra del Plexo Solar | Kamivas](https://kamivas.com/products/velas-de-cristal-de-chakra-chakra-del-plexo-solar492): Vela de cristal del chakra del plexo solar, asociada a la confianza y la fuerza de voluntad. Aroma cálido para tus rituales de yoga o meditación.
-  Updated: 2026-10-26T15:05:54Z
+  Updated: 2026-11-04T09:18:37Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de Cristal de Chakras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TRy8yQy82MFIzMEMxRzZXUjMyQ1NHLzA2YmExMmIzLmpwZWc.jpg?v=1782309495
   Price: 12,50 € EUR
 - [Difusor de Aromas Efecto Medusa | 250ml | LED Cambio Color | Mando a Distancia](https://kamivas.com/products/difusor-de-aromas-con-efecto-jellyfish-puff-y-led-de-cambio-de-color495): Difusor de aromas ultrasónico efecto medusa (Jellyfish Puff) con LED cambio de color, depósito 250ml, temporizador 4-8h y mando a distancia. Ideal para aromaterapia.
-  Updated: 2026-10-29T08:16:07Z
+  Updated: 2026-11-03T13:12:36Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy82Qy82MFIzMEMxSjY4UjM2QzlTLzhmNGJkY2I4LmpwZw.jpg?v=1782309499
   Price: 48,30 € EUR
 - [Ventilador Pulverizador Facial USB | Refresca e Hidrata la Piel](https://kamivas.com/products/ventilador-y-pulverizador-facial-blanco-usb499): Ventilador y pulverizador facial blanco con USB. Refresca e hidrata la piel al instante. Compacto y elegante. Ideal para oficina, viajes y rutinas de belleza.
-  Updated: 2026-10-26T03:50:05Z
+  Updated: 2026-11-03T19:06:50Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -235,7 +235,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/set-estado-de-nimo.png?v=1785666308
   Price: 7,00 € EUR
 - [Difusor de Aromas Decorativo Forma de Barco | LED Cambio de Color | 250ml](https://kamivas.com/products/difusor-de-aromas-con-efecto-de-modelo-de-barco-y-led-que-cambia-de-color508): Difusor de aromas ultrasónico decorativo en forma de barco clásico. LED cambio de color, depósito 250ml, temporizador 4-8h. Ideal para decoración y aromaterapia.
-  Updated: 2026-10-29T08:16:07Z
+  Updated: 2026-11-01T13:13:37Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -256,21 +256,21 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TRy9DQy82MFIzMEMxRzZNVktDQ1NHLzNmNDM5YmE0LmpwZWc.jpg?v=1782309517
   Price: 28,44 € EUR
 - [Difusor de Aromas con Reloj LED y Efecto Llama | USB-C | Ultrasónico](https://kamivas.com/products/difusor-de-aromas-moderno-reloj-led-usb-c-efecto-llama517): Difusor de aromas ultrasónico con reloj LED integrado, efecto llama y carga USB-C. Silencioso. Ideal para dormitorios, escritorios y como regalo tecnológico.
-  Updated: 2026-10-26T03:52:43Z
+  Updated: 2026-11-03T09:08:21Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85US9BQy82MFIzMEMxRzZSVktBQzlRLzI0ZTEzYzY4LnBuZw.jpg?v=1785588481
   Price: 34,41 € EUR
 - [Difusor de Aromas Rosa Compacto USB | Luz Cambio de Color | Decorativo](https://kamivas.com/products/difusor-rosa-mondo-planet-usb-cambio-de-color-luz-hacia-abajo520): Difusor de aromas compacto en rosa con luz de cambio de color y USB. Diseño decorativo y personal. Ideal para escritorios, dormitorios y regalo original.
-  Updated: 2026-10-26T15:05:59Z
+  Updated: 2026-11-03T09:59:48Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/difusor-rosa-mondo.png?v=1785587593
   Price: 11,38 € EUR
 - [Difusor de Aromas Efecto Llama y Sonido de Aves USB | Experiencia Sensorial](https://kamivas.com/products/difusor-de-aroma-con-efecto-de-llama-y-sonido-de-aves-usb-negro-cambio-de-color523): Difusor de aromas con efecto llama, sonido de aves y LED cambio de color. USB negro. 2 niveles de niebla. Ideal para aromaterapia, meditación y bienestar en casa.
-  Updated: 2026-10-30T07:18:22Z
+  Updated: 2026-11-03T14:09:56Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -284,7 +284,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/difusor-blaze-sal-himalaya.png?v=1785587200
   Price: 36,19 € EUR
 - [Difusor de Aromas Efecto Volcán Grande | Ultrasónico con Enchufe | 2 Colores](https://kamivas.com/products/large-volcano-effect-aroma-diffuser-plug-two-colours529): Difusor de aromas ultrasónico efecto volcán grande con enchufe. Efecto visual espectacular. 2 colores. Ideal para espacios grandes, yoga, spa y aromaterapia.
-  Updated: 2026-10-26T03:51:16Z
+  Updated: 2026-11-05T10:07:16Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -312,35 +312,35 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/set-ingeniosa.png?v=1785666251
   Price: 7,00 € EUR
 - [Difusor de Aromas Verde y Bronce USB | Decorativo y Elegante](https://kamivas.com/products/difusor-aroma-verde-y-bronce-usb-cambio-de-color545): Difusor de aromas ultrasónico en verde y bronce con luz cambio de color y USB. Diseño elegante y natural. Ideal para aromaterapia y decoración de hogar u oficina.
-  Updated: 2026-10-26T22:05:43Z
+  Updated: 2026-11-05T17:14:17Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy84RS82MFIzMEMxRzZXU0s4RTlTLzgwZTE0NmUxLmpwZWc.jpg?v=1782309548
   Price: 21,77 € EUR
 - [Difusor de Aromas Sal del Himalaya con Luz Nocturna y Efecto Llama | USB-C](https://kamivas.com/products/difusor-de-aroma-de-sal-del-himalaya-luz-nocturna-usb-c-efecto-llama-sal-incluida548): Difusor de aromas con sal del Himalaya, luz nocturna, efecto llama y USB-C. Purifica el aire. Ideal para dormitorios, niños y rituales de bienestar nocturno.
-  Updated: 2026-10-26T22:05:44Z
+  Updated: 2026-11-02T13:07:08Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy9BQy82MFIzMEMxRzZSVktBQzlTLzA3ZTFjMGIxLmpwZWc.jpg?v=1782309550
   Price: 30,45 € EUR
 - [Difusor de Aromas Ultrasónico Diseño Elegante USB | Luz Cambio de Color](https://kamivas.com/products/milan-atomiser-usb-colour-change551): Difusor de aromas ultrasónico con diseño elegante, luz de cambio de color y USB. Silencioso y decorativo. Ideal para aromaterapia en hogar u oficina.
-  Updated: 2026-10-30T15:05:57Z
+  Updated: 2026-11-06T19:10:37Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/difusor-milan.png?v=1785587117
   Price: 15,68 € EUR
 - [Difusor de Aromas Transparente USB | Diseño Minimalista | Luz Cambio de Color](https://kamivas.com/products/difusor-transparente-mondo-planet-usb-cambio-de-color-luz-abajo554): Difusor de aromas ultrasónico transparente con luz de cambio de color y USB. Diseño minimalista único. Ideal para aromaterapia y decoración moderna del hogar.
-  Updated: 2026-10-26T15:05:53Z
+  Updated: 2026-11-03T09:59:46Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/difusor-mondo-transparente.png?v=1785587116
   Price: 11,38 € EUR
 - [Porta Incienso Pentágono Dorado Negro Madera Mango | Ritual y Deco](https://kamivas.com/products/dorado-y-negro-sobre-madera-de-mango-pentagono557): Porta incienso pentágono en dorado y negro sobre madera de mango. Diseño único y sofisticado. Ideal para meditación, altares y decoración mística.
-  Updated: 2026-10-28T14:10:17Z
+  Updated: 2026-11-05T13:08:29Z
   Vendor: AWArtisan Dropship
   Product Type: Soporte de Incienso
   Availability: Available
@@ -361,7 +361,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/incienso-almizcle-stamford.png?v=1785586583
   Price: 2,92 € EUR
 - [Difusor de Aromas Blanco y Bronce USB | Elegante | Luz Cambio de Color](https://kamivas.com/products/difusor-aroma-blanco-y-bronce-usb-cambio-de-color566): Difusor de aromas ultrasónico blanco y bronce con luz cambio de color y USB. Diseño sofisticado. Ideal para aromaterapia y decoración moderna o nórdica.
-  Updated: 2026-10-26T22:05:44Z
+  Updated: 2026-11-05T17:14:26Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -375,14 +375,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/set-de-incienso-stamford-lifestyle-con-caja.png?v=1785580526
   Price: 7,00 € EUR
 - [Conos de Incienso Nag Champa Satya Dhoop | Kamivas](https://kamivas.com/products/incienso-nagchampa-dhoop-conos572): Conos Dhoop de incienso Nag Champa Satya Sai Baba. Aroma floral y terroso clásico, en formato cono fácil de encender.
-  Updated: 2026-10-26T03:51:05Z
+  Updated: 2026-11-03T18:09:16Z
   Vendor: AWArtisan Dropship
   Product Type: Nag Champa incienso
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/image_c3e45d15-4fb3-4d91-91b7-b4e03dc0e93e.png?v=1785582765
   Price: 1,63 € EUR
 - [Vela de Hormigón Olla Mediana | Aroma Higo Púrpura y Casís | Mecha Madera](https://kamivas.com/products/olla-mediana-love-purple-fig-casis584): Vela artesanal de hormigón olla mediana con mecha de madera y aroma a higo púrpura y casís. Recipiente reutilizable. Perfecta para regalo romántico y decoración.
-  Updated: 2026-10-30T19:07:55Z
+  Updated: 2026-11-03T10:06:51Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de madera de hormigón
   Availability: Available
@@ -410,14 +410,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9IUi8wQy82MFIzMEMxRzZXVDMwQ0hSLzcxZjNjNmI1LmpwZWc.jpg?v=1782309597
   Price: 24,48 € EUR
 - [Difusor de Aromas Clásico USB | 120ml | LED 7 Colores | Temporizador](https://kamivas.com/products/palermo-atomiser-usb-colour-change-timer596): Difusor de aromas ultrasónico clásico con depósito 120ml, LED 7 colores, temporizador y USB. Diseño elegante. Ideal para aromaterapia y decoración del hogar.
-  Updated: 2026-10-29T19:05:46Z
+  Updated: 2026-11-06T19:10:34Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/difusor-palermo.png?v=1785586867
   Price: 20,62 € EUR
 - [Difusor de Aromas con Altavoz Bluetooth USB | LED Cambio de Color | Temporizador](https://kamivas.com/products/viennese-atomiser-bluetooth-speaker-usb-colour-change-timer599): Difusor de aromas ultrasónico con altavoz Bluetooth integrado, LED cambio de color y USB. La experiencia de aromaterapia más completa para tu hogar.
-  Updated: 2026-10-30T20:05:45Z
+  Updated: 2026-11-07T20:09:26Z
   Vendor: AWArtisan Dropship
   Product Type: Difusores de aromas
   Availability: Available
@@ -459,21 +459,21 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/image_d6ba490d-cc4a-4f01-bd5a-485cae4cb083.png?v=1785584059
   Price: 4,95 € EUR
 - [Vela de Cristal Zodiaco Virgo con Pulsera de Piedras Preciosas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-virgo619): Vela de cristal del zodiaco para Virgo con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa incluida.
-  Updated: 2026-10-29T17:11:49Z
+  Updated: 2026-11-05T19:09:30Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xRy8yRS82MFIzMEMxRzZXVEsyRTFHLzVlZjY3NmUwLmpwZWc.jpg?v=1782309622
   Price: 17,50 € EUR
 - [Vela de Cristal Chakra Raíz | Kamivas](https://kamivas.com/products/velas-de-cristal-de-chakra-chakra-raiz625): Vela de cristal del chakra raíz, asociada a la estabilidad y la conexión con la tierra. Aroma terroso y profundo para tus rituales de meditación.
-  Updated: 2026-10-26T15:05:53Z
+  Updated: 2026-11-04T19:05:56Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de Cristal de Chakras
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Ui8yQy82MFIzMEMxRzZXUjMyQzlSLzA4ZDI5ZDFkLmpwZWc.jpg?v=1782309630
   Price: 12,50 € EUR
 - [Pack Bienvenida Kamivas — Aromaterapia y Bienestar | Precio Especial](https://kamivas.com/products/pack-bienvenida-kamivas): Pack de bienvenida con porta incienso, incienso masala, incienso Maharani Dream y 2 velas de cristal de chakra. Precio especial de lanzamiento 42,99€.
-  Updated: 2026-10-28T14:10:27Z
+  Updated: 2026-11-05T13:08:35Z
   Vendor: Kamivas
   Product Type: Pack
   Availability: Available
@@ -515,7 +515,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUy80RS82MFIzMEMxRzZDV0s0RTFTL2MwN2QxODYwLmpwZWc.jpg?v=1782919285
   Price: 22,50 € EUR
 - [Quemador Aceite Madera Mango Flor de la Vida | Kamivas](https://kamivas.com/products/quemador-de-aceite-de-madera-de-mango-cuadrado-flor-de-la-vida284): Quemador de aceite cuadrado en madera de mango con grabado Flor de la Vida. Artesanal, sostenible. Ideal para meditación y aromaterapia.
-  Updated: 2026-10-26T03:52:25Z
+  Updated: 2026-11-04T11:09:28Z
   Vendor: AWArtisan Dropship
   Product Type: Quemadores de aceite de madera de mango
   Availability: Available
@@ -528,13 +528,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85SC80RS82MFIzMEMxRzZDV0s0RTlIL2YwNmY4N2RhLmpwZWc.jpg?v=1782919291
   Price: 22,50 € EUR
-- [Aceite de Fragancia Galleta de Jengibre 10ml | Para Difusores y Velas](https://kamivas.com/products/aceite-de-fragancia-10-ml-galleta-de-jengibre-caliente291): Aceite de fragancia galleta de jengibre caliente 10ml. Aroma dulce, especiado y festivo. Ideal para difusores, velas navideñas y aromaterapia.
-  Updated: 2026-10-28T16:10:05Z
-  Vendor: AWArtisan Dropship
-  Product Type: Aceites de Fragancia 10ml
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9ISC8wQy82MFIzMEMxRzZXUjMwQ0hILzRiZmU3NjNkLmpwZWc.jpg?v=1782919295
-  Price: 2,50 € EUR
 - [Quemador de Piedra Cuadrado | Aromaterapia Natural Minimalista](https://kamivas.com/products/quemadores-de-piedra-cuadrado294): Quemador de aceite de piedra natural cuadrado. Artesanal de Indonesia. Ideal para meditación, aromaterapia y decoración minimalista.
   Updated: 2026-10-26T03:52:25Z
   Vendor: AWArtisan Dropship
@@ -571,7 +564,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSi80RS82MFIzMEMxRzZDV0s0RTFKLzNiOTM5ZWMzLmpwZWc.jpg?v=1782919314
   Price: 16,10 € EUR
 - [Quemador de Aceite Piedra Arenisca Abstracto | Kamivas](https://kamivas.com/products/quemadores-de-piedra-abstraccion313): Quemador de aceite en arenisca tallada a mano con diseño abstracto. Arte artesanal de Java. Perfecto para aromaterapia y decoración de interiores.
-  Updated: 2026-10-26T03:52:25Z
+  Updated: 2026-11-01T12:10:57Z
   Vendor: AWArtisan Dropship
   Product Type: Quemadores de Piedra
   Availability: Available
@@ -599,7 +592,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSi9HQy82MFIzMEMxSjY4U0tHQzFKL2I5YWQxNDE4LmpwZw.jpg?v=1782919326
   Price: 6,35 € EUR
 - [Quemador de Aceite Ángeles Blanco | Decoración Espiritual y Aromaterapia](https://kamivas.com/products/quemador-de-aceite-amigos-angeles-blanco325): Quemador de aceite ángeles en blanco. Diseño espiritual y decorativo. Ideal para aceites esenciales, meditación, espacios espirituales y regalo original.
-  Updated: 2026-10-26T03:50:45Z
+  Updated: 2026-11-06T11:16:56Z
   Vendor: AWArtisan Dropship
   Product Type: Cool Designs Oil Burners
   Availability: Available
@@ -648,7 +641,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Ti9HRC82MFIzMEMxSjY0VjNHRDlOL2Q2NTFmN2I0LmpwZw.jpg?v=1782919351
   Price: 11,50 € EUR
 - [Aceite de Fragancia Frankincense 10ml | Aroma Resinoso para Difusor](https://kamivas.com/products/aceites-de-fragancia-10ml-frankincense-navidad351): Aceite de fragancia frankincense 10ml. Aroma resinoso, amaderado y sagrado. Ideal para difusores, meditación, velas navideñas y rituales espirituales.
-  Updated: 2026-10-26T03:51:05Z
+  Updated: 2026-11-05T17:14:26Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -669,7 +662,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xRy9HRC82MFIzMEMxSjY0VjNHRDFHLzRmYTg1MDIxLmpwZw.jpg?v=1782919361
   Price: 9,00 € EUR
 - [Aceite de Fragancia Zodíaco Tauro 10ml | Esmeralda y Pachulí](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-tauro360): Aceite de fragancia Tauro 10ml. Aroma terroso, floral y cálido con pachulí y bergamota. Ideal para difusores, meditación astrológica y regalo signo Tauro.
-  Updated: 2026-10-27T12:05:56Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
@@ -683,14 +676,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUi8wQy82MFIzMEMxRzZXVDMwQzFSLzkzYmUzN2ZjLmpwZWc.jpg?v=1782919367
   Price: 19,20 € EUR
 - [Aceite de Fragancia Zodíaco Capricornio 10ml | Lapislázuli y Sándalo](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-capricornio367): Aceite de fragancia Capricornio 10ml. Aroma sofisticado con coco, jazmín y sándalo. Ideal para difusores, meditación y regalo signo Capricornio.
-  Updated: 2026-10-27T12:05:46Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/capricornio.png?v=1785668477
   Price: 4,81 € EUR
 - [Quemador de Aceite Mano Negra Diseño Alternativo - Kamivas](https://kamivas.com/products/quemador-de-aceite-mano-negra371): Quemador de aceite con diseño alternativo Mano Negra. Para ambientes con personalidad y estilo único. Envío rápido a España.
-  Updated: 2026-10-26T03:50:45Z
+  Updated: 2026-11-06T11:16:51Z
   Vendor: AWArtisan Dropship
   Product Type: Cool Designs Oil Burners
   Availability: Available
@@ -711,7 +704,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/s-ndalo.png?v=1785668117
   Price: 3,22 € EUR
 - [Quemador de Aceite Geométrico Azul Cerámico - Kamivas](https://kamivas.com/products/quemador-de-aceite-geometrico-azul380): Quemador cerámico de diseño geométrico en azul. Moderno y funcional para difundir aceites y fragancias en tu hogar. Envío a España.
-  Updated: 2026-10-26T03:52:21Z
+  Updated: 2026-11-05T13:08:36Z
   Vendor: AWArtisan Dropship
   Product Type: Quemadores de Aceite Florales y en Forma de Caldero
   Availability: Available
@@ -725,7 +718,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy9HQy82MFIzMEMxRzZXU0tHQzlTLzdhNTMxNzkwLmpwZWc.jpg?v=1782919386
   Price: 9,75 € EUR
 - [Quemador de Aceite Geométrico Negro Cerámico - Kamivas](https://kamivas.com/products/quemador-de-aceite-geometrico-negro386): Quemador cerámico geométrico en negro. Diseño elegante y contemporáneo para difundir tus aceites y aromas favoritos. Envío a España.
-  Updated: 2026-10-26T03:52:20Z
+  Updated: 2026-11-02T14:09:48Z
   Vendor: AWArtisan Dropship
   Product Type: Quemadores de Aceite Florales y en Forma de Caldero
   Availability: Available
@@ -753,14 +746,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85UC8wQy82MFIzMEMxRzZXUjMwQzlQL2IyZjdiYmQ4LmpwZWc.jpg?v=1782919398
   Price: 2,50 € EUR
 - [Quemador de Aceite en Forma de Casa Gris Cerámico - Kamivas](https://kamivas.com/products/quemador-de-aceite-en-forma-de-casa-gris399): Quemador cerámico con forma de casa en color gris. Acogedor y decorativo, perfecto para difundir aceites y crear ambiente. Envío a España.
-  Updated: 2026-10-26T03:52:20Z
+  Updated: 2026-11-04T21:09:56Z
   Vendor: AWArtisan Dropship
   Product Type: Quemadores de Aceite Florales y en Forma de Caldero
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy9FRS82MFIzMEMxRzZXU0tFRTlTLzMyYmFkYTE3LmpwZWc.jpg?v=1782919402
   Price: 9,75 € EUR
 - [Aceite de Fragancia Banjara Rosa Silvestre 10ml Origen India - Kamivas](https://kamivas.com/products/aceite-con-fragancia-de-la-india-banjara-10ml-rosa-silvestre402): Aceite Banjara de rosa silvestre 10ml elaborado en India. Aroma floral, delicado y natural para difusor y quemador. Envío a España.
-  Updated: 2026-10-26T03:51:13Z
+  Updated: 2026-11-06T14:08:42Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancias Indias 10ml
   Availability: Available
@@ -774,7 +767,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/pi-a-colada.png?v=1785669841
   Price: 2,50 € EUR
 - [Aceite de Fragancia Noches de Invierno 10ml | Aroma Frío y Sereno](https://kamivas.com/products/aceite-de-fragancia-10-ml-noches-de-invierno408): Aceite de fragancia noches de invierno 10ml. Aroma frío, limpio y amaderado. Ideal para difusores, meditación nocturna y ambientes serenos en casa.
-  Updated: 2026-10-30T22:05:46Z
+  Updated: 2026-11-06T21:10:47Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -802,21 +795,21 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/nag-champa.png?v=1785668058
   Price: 3,22 € EUR
 - [Aceite de Fragancia India Banjara Caléndula 10ml | Aroma Floral | Kamivas](https://kamivas.com/products/aceite-con-fragancia-de-la-india-banjara-10ml-calendula421): Aceite de fragancia Banjara caléndula 10ml. Aroma floral, cálido y reconfortante de tradición india. Ideal para difusores, meditación y rituales de positividad.
-  Updated: 2026-10-27T20:21:22Z
+  Updated: 2026-11-06T21:10:46Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancias Indias 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/cal-ndula.png?v=1785669674
   Price: 3,22 € EUR
 - [Aceite de Fragancia India Banjara Loto del Nilo 10ml | Místico | Kamivas](https://kamivas.com/products/aceite-con-fragancia-de-la-india-banjara-10ml-loto-del-nilo424): Aceite de fragancia Banjara loto del Nilo 10ml. Aroma acuoso, floral y purificador de tradición india. Ideal para meditación y rituales espirituales.
-  Updated: 2026-10-26T03:52:15Z
+  Updated: 2026-11-06T21:10:52Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancias Indias 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/loto-del-nilo.png?v=1785669672
   Price: 3,22 € EUR
 - [Aceite de Fragancia Castañas Asadas 10ml | Aroma Otoñal | Kamivas](https://kamivas.com/products/aceite-de-fragancia-10-ml-castanas-asadas427): Aceite de fragancia castañas asadas 10ml. Aroma dulce, tostado y acogedor. Ideal para difusores y velas en ambientes otoñales e invernales.
-  Updated: 2026-10-30T14:00:15Z
+  Updated: 2026-11-06T21:10:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -865,7 +858,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/blueberry.png?v=1785667730
   Price: 2,50 € EUR
 - [Aceite de Fragancia Acebo y Muérdago 10ml | Aroma Navideño | Kamivas](https://kamivas.com/products/aceites-de-fragancia-10ml-acebo-baya-y-muerdago449): Aceite de fragancia acebo y muérdago 10ml. Aroma verde, frutal y navideño. Perfecto para difusores, velas festivas y crear el ambiente de Navidad en casa.
-  Updated: 2026-10-30T22:10:45Z
+  Updated: 2026-11-06T21:10:46Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -879,7 +872,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/dewberry.png?v=1785667688
   Price: 2,50 € EUR
 - [Aceite de Fragancia Opio Negro 10ml | Banjara India | Aroma Oriental](https://kamivas.com/products/aceite-con-fragancia-de-la-india-banjara-10ml-opio-negro455): Aceite de fragancia opio negro 10ml. Aroma profundo, especiado y sensual. Tradición Banjara de la India. Ideal para difusores, ambientes románticos y meditación.
-  Updated: 2026-10-26T03:51:31Z
+  Updated: 2026-11-06T14:08:42Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancias Indias 10ml
   Availability: Available
@@ -893,35 +886,35 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/copal-negro.png?v=1785668261
   Price: 3,22 € EUR
 - [Aceite de Fragancia Arruda Rue 10ml | Banjara India | Protección y Pureza](https://kamivas.com/products/aceite-con-fragancia-de-la-india-banjara-10ml-arruda-rue462): Aceite de fragancia arruda rue 10ml. Aroma herbáceo, verde y purificador. Tradición Banjara de la India. Ideal para difusores, rituales de protección y meditación.
-  Updated: 2026-10-28T17:14:29Z
+  Updated: 2026-11-05T10:07:16Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancias Indias 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xTi84RS82MFIzMEMxRzZXVDM4RTFOLzZjNzdlZjMwLmpwZWc.jpg?v=1782919465
   Price: 3,22 € EUR
 - [Aceite de Fragancia Zodíaco Piscis 10ml - Aroma Espiritual | Kamivas](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-piscis465): Aceite de fragancia zodiacal Piscis 10ml. Aroma intuitivo y acútico para difusor y quemador. Colección zodiacal completa en Kamivas. Envío a España.
-  Updated: 2026-10-28T18:06:53Z
+  Updated: 2026-11-06T06:06:55Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/piscis.png?v=1785668468
   Price: 4,81 € EUR
 - [Aceite de Fragancia Zodíaco Acuario 10ml | Amatista y Ámbar](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-acuario468): Aceite de fragancia Acuario 10ml. Aroma cítrico, herbal y cálido con lavanda y sándalo. Ideal para difusores, meditación y regalo signo Acuario.
-  Updated: 2026-10-28T18:06:43Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85UC9HRC82MFIzMEMxRzZXUktHRDlQL2Y1ODExMWFhLmpwZWc.jpg?v=1782919471
   Price: 4,81 € EUR
 - [Aceite de Fragancia Zodíaco Escorpio 10ml | Obsidiana y Café Oscuro](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-escorpio471): Aceite de fragancia Escorpio 10ml. Aroma amaderado, especiado y sensual con pimienta y vainilla. Ideal para difusores, rituales y regalo signo Escorpio.
-  Updated: 2026-10-28T17:14:28Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/escorpio.png?v=1785668377
   Price: 4,81 € EUR
 - [Aceite de Fragancia Zodíaco Aries 10ml | Cuarzo Claro y Cedro](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-aries474): Aceite de fragancia Aries 10ml. Aroma fresco y vigorizante con pino, eucalipto y cedro. Ideal para difusores, rituales de energía y regalo signo Aries.
-  Updated: 2026-10-28T18:06:48Z
+  Updated: 2026-11-06T06:06:55Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
@@ -935,7 +928,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/vino-especiado.png?v=1785667688
   Price: 2,90 € EUR
 - [Aceite de Fragancia Zodíaco Géminis 10ml | Ojo de Tigre y Ámbar](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-geminis480): Aceite de fragancia Géminis 10ml. Aroma cítrico, floral y especiado con bergamota y cedro. Ideal para difusores, meditación y regalo signo Géminis.
-  Updated: 2026-10-27T12:05:47Z
+  Updated: 2026-11-06T13:07:51Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
@@ -949,7 +942,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/almizcle-rabe.png?v=1785667659
   Price: 2,50 € EUR
 - [Aceite de Fragancia Zodíaco Cáncer 10ml | Piedra Lunar y Flores](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-cancer487): Aceite de fragancia Cáncer 10ml. Aroma suave, floral y reconfortante. Ideal para difusores, rituales de amor propio, meditación y regalo signo Cáncer.
-  Updated: 2026-10-27T12:05:58Z
+  Updated: 2026-11-06T06:06:55Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
@@ -963,28 +956,28 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/watermelon.png?v=1785667622
   Price: 2,50 € EUR
 - [Aceite de Fragancia Guirnalda Navideña 10ml | Aroma Festivo | Kamivas](https://kamivas.com/products/aceite-de-fragancia-10-ml-guirnalda-navidena493): Aceite de fragancia guirnalda navideña 10ml. Aroma verde, resinoso y festivo. Ideal para difusores y velas en época de Navidad y celebraciones.
-  Updated: 2026-10-28T10:05:45Z
+  Updated: 2026-11-06T19:10:37Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TUy80RC82MFIzMEMxRzZSV0s0RFNTLzUwN2M0NGYyLmpwZWc.jpg?v=1782919496
   Price: 2,50 € EUR
 - [Aceite de Fragancia Zodíaco Leo 10ml | Citrino y Jengibre | Kamivas](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-leo496): Aceite de fragancia Leo 10ml con notas de citrino y jengibre. Aroma audaz, cálido y especiado para difusores, rituales y meditación astrológica.
-  Updated: 2026-10-27T12:05:50Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Ry9HRC82MFIzMEMxRzZXUktHRDlHLzgxYjIxNzdhLmpwZWc.jpg?v=1782919499
   Price: 4,81 € EUR
 - [Aceite de Fragancia Zodíaco Virgo 10ml | Ágata y Oud | Kamivas](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-virgo499): Aceite de fragancia Virgo 10ml con notas de ágata de árbol y oud. Aroma fresco, limpio y terroso para difusores, rituales y meditación astrológica.
-  Updated: 2026-10-28T18:06:47Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUy9HRC82MFIzMEMxRzZXUktHRDFTLzBhNzNhYzA5LmpwZWc.jpg?v=1782919502
   Price: 4,81 € EUR
 - [Aceite de Fragancia Zodíaco Libra 10ml | Jade y Musgo | Kamivas](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-libra502): Aceite de fragancia Libra 10ml con notas de jade y musgo de roble. Aroma floral y equilibrado para difusores, rituales y meditación astrológica.
-  Updated: 2026-10-28T18:06:58Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
@@ -1005,14 +998,14 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/almizcle-vainilla.png?v=1785667430
   Price: 2,50 € EUR
 - [Aceite de Fragancia Zodíaco Sagitario 10ml | Aroma Aventurero | Kamivas](https://kamivas.com/products/aceite-de-fragancia-del-zodiaco-10ml-sagitario512): Aceite de fragancia Sagitario 10ml con notas cítricas y amaderadas. Aroma vibrante y libre para difusores, rituales y meditación astrológica.
-  Updated: 2026-10-27T12:05:44Z
+  Updated: 2026-11-06T06:06:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia del Zodíaco 10ml
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSy9HRC82MFIzMEMxRzZXUktHRDFLLzM1MTljYTBlLmpwZWc_bd49f573-79c5-436b-8d83-d413ed2bc1ef.jpg?v=1782919516
   Price: 4,81 € EUR
 - [Aceite de Fragancia Fruta del Dragón 10ml | Aroma Exótico | Kamivas](https://kamivas.com/products/dragon-fruit-fragrance-oil-10ml516): Aceite de fragancia fruta del dragón 10 ml. Aroma dulce, fresco y ligeramente floral. Pensado para difusores de aromas.
-  Updated: 2026-10-26T03:51:30Z
+  Updated: 2026-11-03T17:13:23Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1026,7 +1019,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/mangosteen.png?v=1785667257
   Price: 2,50 € EUR
 - [Aceite de Fragancia Mañanas Festivas 10ml | Aroma Navideño para Difusor](https://kamivas.com/products/aceite-de-fragancia-10-ml-mananas-festivas522): Aceite de fragancia mañanas festivas 10ml. Aroma cálido, especiado y alegre. Perfecto para difusores, velas navideñas y ambientes festivos en casa.
-  Updated: 2026-10-26T03:51:30Z
+  Updated: 2026-11-06T21:10:57Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1054,7 +1047,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/aloe-vera.png?v=1785669540
   Price: 2,50 € EUR
 - [Aceite de Fragancia Chocolate Caliente 10ml | Aroma Dulce para Difusor](https://kamivas.com/products/aceite-de-fragancia-10-ml-chocolate-caliente534): Aceite de fragancia chocolate caliente 10ml. Aroma dulce, cremoso y reconfortante. Perfecto para difusores, velas artesanales y ambientes acogedores en casa.
-  Updated: 2026-10-26T03:50:16Z
+  Updated: 2026-11-06T21:10:57Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1103,7 +1096,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TUC84RC82MFIzMEMxRzZDUjM4RFNQL2U1NmU5MTlhLmpwZWc.jpg?v=1782919556
   Price: 2,50 € EUR
 - [Aceite de Fragancia Abeto 10ml | Aroma Navideño de Bosque para Difusor](https://kamivas.com/products/aceite-de-fragancia-10-ml-abeto557): Aceite de fragancia abeto 10ml. Aroma fresco, verde y resinoso. Ideal para difusores, velas navideñas y ambientes invernales con olor a bosque.
-  Updated: 2026-10-28T16:09:49Z
+  Updated: 2026-11-06T21:10:52Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1117,7 +1110,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xTi84Qy82MFIzMEMxRzZDUjM4QzFOL2U1MTU4YTE4LmpwZWc.jpg?v=1782919563
   Price: 2,50 € EUR
 - [Aceite de Fragancia Blanca Navidad 10ml | Aroma Navideño para Difusor](https://kamivas.com/products/aceite-de-fragancia-10-ml-blanca-navidad564): Aceite de fragancia blanca navidad 10ml. Aroma frío, limpio y mágico. Ideal para difusores, velas navideñas y crear el ambiente perfecto de Navidad.
-  Updated: 2026-10-26T03:50:33Z
+  Updated: 2026-11-06T19:10:36Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1152,7 +1145,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Uy84RS82MFIzMEMxRzZDUjM4RTlTLzUyOGMzNzg3LmpwZWc.jpg?v=1782919580
   Price: 2,50 € EUR
 - [Aceite de Fragancia Canela y Naranja 10ml | Aroma Cálido y Cítrico](https://kamivas.com/products/aceites-de-fragancia-10ml-canela-y-naranja579): Aceite de fragancia canela y naranja 10ml. Aroma cálido, especiado y cítrico. Perfecto para difusores, velas artesanales y ambientes otoñales e invernales.
-  Updated: 2026-10-28T14:10:17Z
+  Updated: 2026-11-06T21:10:56Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1187,7 +1180,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/geranio.png?v=1785666798
   Price: 2,50 € EUR
 - [Aceite de Fragancia Chicle 10ml | Aroma Dulce y Frutal para Difusor](https://kamivas.com/products/aceites-de-fragancia-10ml-chicle595): Aceite de fragancia chicle 10ml. Aroma dulce, frutal y alegre. Perfecto para difusores, velas artesanales y espacios juveniles y creativos.
-  Updated: 2026-10-26T03:51:26Z
+  Updated: 2026-11-03T13:12:36Z
   Vendor: AWArtisan Dropship
   Product Type: Aceites de Fragancia 10ml
   Availability: Available
@@ -1236,7 +1229,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/empieza-tu-ritual-kit-esencial-de-aromas.png?v=1783109401
   Price: 13,25 € EUR
 - [Vela Zodiaco Acuario con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-aquarious110): Vela de cristal del zodiaco Acuario con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Acuario.
-  Updated: 2026-10-26T03:53:24Z
+  Updated: 2026-11-06T22:15:56Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
@@ -1250,21 +1243,21 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9ISy8yRC82MFIzMEMxRzZXVEsyREhLLzc5ZjM2NWJmLmpwZWc.jpg?v=1786722114
   Price: 17,50 € EUR
 - [Vela Zodiaco Sagitario con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-sagitario113): Vela de cristal del zodiaco Sagitario con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Sagitario.
-  Updated: 2026-10-30T19:07:56Z
+  Updated: 2026-11-01T14:11:46Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUi8yRS82MFIzMEMxRzZXVEsyRTFSLzc3OTk5MjdmLmpwZWc.jpg?v=1786722117
   Price: 17,50 € EUR
 - [Vela Zodiaco Géminis con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-geminis113): Vela de cristal del zodiaco Géminis con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Géminis.
-  Updated: 2026-10-30T19:08:06Z
+  Updated: 2026-11-01T14:11:46Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TRy8yRC82MFIzMEMxRzZXVEsyRFNHLzc4NDU3NzNlLmpwZWc.jpg?v=1786722116
   Price: 17,50 € EUR
 - [Vela Zodiaco Escorpio con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-escorpio115): Vela de cristal del zodiaco Escorpio con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Escorpio.
-  Updated: 2026-10-30T09:05:59Z
+  Updated: 2026-11-05T00:13:46Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
@@ -1285,21 +1278,21 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Sy8yRC82MFIzMEMxRzZXVEsyRDlLL2UwYzE3MzMyLmpwZWc_9f93a3b1-ee6e-4ee7-8893-8ea6e89dda02.jpg?v=1786722120
   Price: 17,50 € EUR
 - [Vela Zodiaco Leo con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-leo117): Vela de cristal del zodiaco Leo con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Leo.
-  Updated: 2026-10-30T15:09:57Z
+  Updated: 2026-11-05T19:09:30Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TUi8yRC82MFIzMEMxRzZXVEsyRFNSL2QxNGIyZGIwLmpwZWc.jpg?v=1786722120
   Price: 17,50 € EUR
 - [Vela Zodiaco Piscis con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-piscis118): Vela de cristal del zodiaco Piscis con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Piscis.
-  Updated: 2026-10-29T17:11:47Z
+  Updated: 2026-11-05T19:09:30Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Ui8yRC82MFIzMEMxRzZXVEsyRDlSLzc4NDY0ZjA2LmpwZWc.jpg?v=1786722121
   Price: 17,50 € EUR
 - [Vela Zodiaco Cáncer con Pulsera de Piedras Preciosas | Kamivas](https://kamivas.com/products/vela-de-cristal-del-zodiaco-con-pulsera-de-piedras-preciosas-cancer119): Vela de cristal del zodiaco Cáncer con una pulsera de piedras preciosas escondida en su interior. Un regalo de cumpleaños con sorpresa para Cáncer.
-  Updated: 2026-10-30T19:07:56Z
+  Updated: 2026-11-05T19:09:30Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de cristal del zodiaco con brazalete de piedras preciosas
   Availability: Available
@@ -1432,84 +1425,84 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSy9HQy82MFIzMEMxRzZXUjNHQzFLL2MzMTI0NWNmLmpwZWc.jpg?v=1786822448
   Price: 6,00 € EUR
 - [Velas de Té Perfumadas de Amor | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-amor778): Set de 6 velas de té con aroma romántico. Hasta 4h de duración. El regalo perfecto para San Valentín, aniversarios y momentos especiales. Kamivas.
-  Updated: 2026-10-28T12:10:26Z
+  Updated: 2026-11-05T18:13:35Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9ISC8wRC82MFIzMEMxRzZSVEswREhILzJhZjdjNGZiLmpwZWc.jpg?v=1786911781
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas de Canela | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-canela778): Set de 6 velas de té con aroma a canela. Hasta 4h de duración, cálidas y especiadas. Ideales para ambientes acogedores y regalo. Kamivas.
-  Updated: 2026-10-26T03:53:31Z
+  Updated: 2026-11-06T19:10:32Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85SC8wRC82MFIzMEMxRzZSVEswRDlILzliMjgyMWFjLmpwZWc.jpg?v=1786911781
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas de Fresa | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-fresa780): Set de 6 velas de té con aroma a fresa fresca. Hasta 4h de duración, dulces y alegres. Ideales para decoración y regalo. Envío rápido desde Kamivas.
-  Updated: 2026-10-26T03:53:31Z
+  Updated: 2026-11-05T18:13:35Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xTi8wRC82MFIzMEMxRzZSVEswRDFOLzYzMjEyNzVmLmpwZWc.jpg?v=1786911783
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas Frutas del Bosque | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-frutas-del-bosque781): Set de 6 velas de té con aroma a frutas del bosque. Hasta 4h de duración, frescas y vibrantes. Ideales para decoración y regalo. Kamivas.
-  Updated: 2026-10-26T03:53:26Z
+  Updated: 2026-11-05T18:13:36Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TUy8wQy82MFIzMEMxRzZSVEswQ1NTL2M3MTYxMzU1LmpwZWc.jpg?v=1786911784
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas de Rosa | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-rose782): Set de 6 velas de té con aroma a rosa. Hasta 4h de duración, ideales para ambientes románticos y florales. Envío rápido desde Kamivas.
-  Updated: 2026-10-26T03:53:26Z
+  Updated: 2026-11-05T18:13:35Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUS8wRC82MFIzMEMxRzZSVEswRDFRLzA3OWM0MGNiLmpwZWc.jpg?v=1786911785
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas de Vainilla | Set 6 Unidades - Kamivas](https://kamivas.com/products/1x-set-de-6-velas-de-te-perfumadas-vainilla783): Set de 6 velas de té con aroma a vainilla. Hasta 4h de duración, ideales para crear ambientes cálidos y acogedores. Envío rápido desde Kamivas.
-  Updated: 2026-10-26T03:53:25Z
+  Updated: 2026-11-05T18:13:35Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSy8wRC82MFIzMEMxRzZSVEswRDFLL2NkYTZhMmMzLmpwZWc.jpg?v=1786911786
   Price: 1,50 € EUR
 - [Velas de Té Perfumadas de Lavanda | Set 6 Unidades - Kamivas](https://kamivas.com/products/set-de-6-velas-de-te-perfumadas-lavanda784): Set de 6 velas de té perfumadas con aroma a lavanda. Hasta 4h de duración, ideales para relajación, baños y decoración. Envío rápido desde Kamivas.
-  Updated: 2026-10-26T03:53:26Z
+  Updated: 2026-11-05T18:13:35Z
   Vendor: AWArtisan Dropship
   Product Type: Velas de té perfumadas
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUy8wRC82MFIzMEMxRzZSVEswRDFTLzM0M2M2OWU2LmpwZWc.jpg?v=1786911787
   Price: 1,50 € EUR
 - [Vela Mágica Hop Hare Caballero de la Espada | Cristal Tarot - Kamivas](https://kamivas.com/products/vela-flor-magica-de-cristal-hop-hare-caballero-de-la-espada243): Vela flor mágica de cristal Hop Hare - Caballero de la Espada. 330g, diseño exclusivo de tarot. Ideal para rituales y regalo premium. Kamivas.
-  Updated: 2026-10-27T11:05:48Z
+  Updated: 2026-11-07T21:10:46Z
   Vendor: AWArtisan Dropship
   Product Type: Velas Mágicas Hope Hare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85US84RC82MFIzMEMxRzZXUks4RDlRLzY0MzZiY2RjLmpwZWc.jpg?v=1788270246
   Price: 14,95 € EUR
 - [Vela Mágica Hop Hare El Demonio | Cristal Tarot - Kamivas](https://kamivas.com/products/vela-flor-magica-de-cristal-hop-hare-demonio246): Vela flor mágica de cristal Hop Hare - El Demonio. 330g, arcano tarot de la liberación. Para rituales shadow work y regalo único premium. Kamivas.
-  Updated: 2026-10-28T12:10:17Z
+  Updated: 2026-11-05T10:07:17Z
   Vendor: AWArtisan Dropship
   Product Type: Velas Mágicas Hope Hare
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xSC84RC82MFIzMEMxRzZXUks4RDFIL2NiMzRhNTE4LmpwZWc.jpg?v=1788270249
   Price: 14,95 € EUR
 - [Lámpara de Coco Natural Envoltura Natural | Vela Artesanal - Kamivas](https://kamivas.com/products/lampara-de-coco-natural-envoltura-natural390): Lámpara de coco natural con envoltura natural artesanal. 850g, recipiente orgánico único. Decoración premium sostenible. Envío rápido. Kamivas.
-  Updated: 2026-10-26T03:59:05Z
+  Updated: 2026-11-06T09:06:45Z
   Vendor: AWArtisan Dropship
   Product Type: Lámpara de Coco Natural
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS8xUi8wQy82MFIzMEMxSDY4VzMwQzFSL2E3NDU5ZGYwLmpwZWc.jpg?v=1788271394
   Price: 33,10 € EUR
 - [Lámpara de Coco Natural Envoltura Plateada | Vela Artesanal - Kamivas](https://kamivas.com/products/lampara-de-coco-natural-envoltura-plateada396): Lámpara de coco natural con envoltura plateada artesanal. 350g, diseño orgánico y elegante. Decoración premium. Envío rápido. Kamivas.
-  Updated: 2026-10-26T03:59:05Z
+  Updated: 2026-11-04T09:18:35Z
   Vendor: AWArtisan Dropship
   Product Type: Lámpara de Coco Natural
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9ISC8wQy82MFIzMEMxSDY4VzMwQ0hIL2NjNmQ5NTQ3LmpwZWc.jpg?v=1788271399
   Price: 33,10 € EUR
 - [Lámpara de Coco Natural Torcida Chocolate | Vela Artesanal - Kamivas](https://kamivas.com/products/lampara-de-coco-natural-torcida-chocolate400): Lámpara de coco natural con acabado torcida chocolate artesanal. 350g, pieza única orgánica. Decoración minimalista premium. Kamivas.
-  Updated: 2026-10-26T03:59:05Z
+  Updated: 2026-11-06T09:06:45Z
   Vendor: AWArtisan Dropship
   Product Type: Lámpara de Coco Natural
   Availability: Available
@@ -1544,7 +1537,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9IUC8wQy82MFIzMEMxRzZHV0swQ0hQLzQyMjgxM2ZhLmpwZWc.jpg?v=1788528042
   Price: 7,50 € EUR
 - [Vela de Soja Mantequilla de Brandy | Botella Artesanal - Kamivas](https://kamivas.com/products/botellas-de-cera-de-soja-mantequilla-de-brandy039): Botella de cera de soja con aroma a mantequilla de brandy. 300g, cera vegetal, combustión limpia. Fragancia gourmand premium. Kamivas.
-  Updated: 2026-10-30T22:10:45Z
+  Updated: 2026-11-02T18:08:06Z
   Vendor: AWArtisan Dropship
   Product Type: Frascos de vela de soja
   Availability: Available
@@ -1558,7 +1551,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9TSi8wRC82MFIzMEMxRzZHV0swRFNKLzk5NjMzNGM5LmpwZWc.jpg?v=1788528042
   Price: 7,50 € EUR
 - [Vela de Soja Mora | Botella Artesanal Vegetal - Kamivas](https://kamivas.com/products/botellas-de-cera-de-soja-mora039): Botella de cera de soja con aroma a mora silvestre. 300g, cera vegetal, combustión limpia. Fragancia frutal intensa premium. Kamivas.
-  Updated: 2026-10-26T03:59:26Z
+  Updated: 2026-11-02T18:08:05Z
   Vendor: AWArtisan Dropship
   Product Type: Frascos de vela de soja
   Availability: Available
@@ -1635,7 +1628,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS85Ry8wRC82MFIzMEMxRzZHV0swRDlHLzZkNDBiMDM0LmpwZWc.jpg?v=1788528051
   Price: 7,50 € EUR
 - [Pack Lavanda💜](https://kamivas.com/products/pack-lavanda): Sumérgete en el universo calmante de la lavanda con este pack cuidadosamente seleccionado para transformar tu hogar en un espacio de serenidad. ✨ Incluye: 🕯️ Vela de cera de soja con aroma a lavanda — combustión limpia y duradera, fabricada con soja 100% natural 🍵 Set de 6 velas de té perfumadas — ideales para ambientar cualquier rincón con una luz íntima y delicado aroma 💧 Aceite de fragancia 10ml — para usar con tu difusor o quemador de aromas; puro y concentrado 🌿 Incienso masala de Aloe Vera — elaborado a base de plantas, de combustión suave y aroma envolvente (sustituye temporalmente al incienso de lavanda, actualmente agotado) El regalo perfecto para quien busca calma, bienestar y un hogar con alma. También ideal para ti, como ritual de descanso diario. 🛍️ Ahorra al llevarte todo el universo lavanda en un solo pack.
-  Updated: 2026-10-29T08:16:18Z
+  Updated: 2026-11-05T18:13:41Z
   Vendor: AWArtisan Dropship
   Product Type: Pack
   Availability: Available
@@ -1698,7 +1691,7 @@
   Image: https://cdn.shopify.com/s/files/1/1079/5050/6323/files/bG9jYWw6Ly9tZWRpYS9ITS9BQy82MFIzMEMxRzZSU0tBQ0hNL2E2ZjAxYmMyLmpwZWc_80ad4820-fa85-4f01-a613-acf208b5d32f.jpg?v=1789128907
   Price: 2,20 € EUR
 - [Conos Incienso Reflujo Sándalo Aromatika | Efecto Cascada - Kamivas](https://kamivas.com/products/conos-de-incienso-reflujo-aromatika-sandalo905): Conos de incienso de reflujo Aromatika con aroma a sándalo: amaderado y cálido, con efecto cascada. Compatibles con quemadores de reflujo (backflow).
-  Updated: 2026-10-27T01:08:07Z
+  Updated: 2026-11-06T08:08:11Z
   Vendor: AW Dropship España
   Product Type: Conos de Incienso Reflujo Aromatika
   Availability: Available
