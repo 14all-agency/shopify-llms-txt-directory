@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-04-09T01:33:29Z
 - Contact Email: support@jellova.com
-- Updated At: 2026-10-31T00:28:09.584Z
+- Updated At: 2026-11-08T00:26:50.569Z
 
 ## Products
 
@@ -314,7 +314,7 @@
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Jelly_Tote_Bag_Translucent_TPU_4_d720eb37-cc2a-463f-86a7-87fbe34ceaa9.webp?v=1783658247
     Price: $88.00 USD
 - [Strawberry Jelly Shoulder Bag | Y2K PVC Jelly Bag](https://jellova.com/products/strawberry-jelly-shoulder-bag): Shop the Strawberry Jelly Shoulder Bag made from glossy waterproof PVC. A cute Y2K jelly shoulder bag perfect for everyday outfits, vacations, and summer styling.
-  Updated: 2026-09-02T19:21:06Z
+  Updated: 2026-11-02T08:28:11Z
   Vendor: JELLOVA
   Product Type: JPG Shoulder Birkin
   Availability: Available
@@ -347,7 +347,7 @@
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/CrocJellyFirkinBagTPU_10.webp?v=1784004614
     Price: $88.00 USD
 - [Studded Cross Jelly Firkin Bag – Pearl White](https://jellova.com/products/studded-cross-jelly-firkin-bag-pearl-white): Studded Cross Jelly Firkin Bag in pearl white — Y2K pyramid-stud hardware on a translucent PVC Birkin-style tote. Shop the statement bag now.
-  Updated: 2026-10-29T11:22:46Z
+  Updated: 2026-11-07T16:17:58Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -366,7 +366,7 @@
     Availability: Available
     Price: $158.00 USD
 - [Lavender Jelly Firkin Bag – Y2K Clear Candy Handbag | Jellova](https://jellova.com/products/lavender-jelly-firkin-bag-1): Lavender Jelly Firkin Bag in translucent PVC. A dreamy Y2K candy-style handbag with a structured silhouette, perfect for summer outfits and everyday looks.
-  Updated: 2026-10-05T09:13:35Z
+  Updated: 2026-11-07T08:50:57Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -405,7 +405,7 @@
     Availability: Available
     Price: $158.00 USD
 - [Bambi Jelly Firkin Bag – Clear Fawn Deer-Print Tote | Jellova](https://jellova.com/products/bambi-jelly-firkin-bag): ambi jelly Firkin bag: a clear, embossed fawn deer-spot print PVC tote in a Birkin-style shape. Vegan, water-resistant, Y2K. Med $138 · Large $168.
-  Updated: 2026-10-24T16:32:20Z
+  Updated: 2026-11-07T23:50:51Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -417,14 +417,14 @@
     Availability: Available
     Price: $158.00 USD
 - [Mustard Yellow Leather Firkin Bag | Large Vintage Leather Bag](https://jellova.com/products/mustard-yellow-leather-firkin-bag): Shop our mustard yellow leather Firkin bag — a soft, slouchy top-handle tote with belt straps, turn-lock closure and antique brass hardware.
-  Updated: 2026-10-30T12:05:06Z
+  Updated: 2026-11-07T21:33:06Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/MustardYellowLeatherFirkinBag_1.png?v=1789120903
   Price: $158.00 USD
 - [Black Leather Firkin Bag | Large Vintage Leather Bag](https://jellova.com/products/black-leather-firkin-bag): Shop the Black Leather Firkin Bag by JELLOVA. Soft uncoated cowhide tote that fits a 16" laptop, 15.7 × 6.3 × 11.8". Worldwide shipping.
-  Updated: 2026-10-29T16:10:41Z
+  Updated: 2026-11-07T06:31:17Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -437,20 +437,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/ChestnutBrownLeatherFirkinBag_4.png?v=1789451525
   Price: $158.00 USD
-- [Ice Blue Jelly Firkin Bag – Clear PVC Tote, 2 Sizes | JELLOVA](https://jellova.com/products/ice-blue-jelly-firkin-bag-1): Shop the Ice Blue Jelly Firkin Bag: a translucent 3mm PVC tote in Small or Medium. Water-resistant, structured and Y2K-ready. Worldwide shipping.
-  Updated: 2026-10-29T11:22:46Z
-  Vendor: JELLOVA
-  Product Type: Firkin Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/IceBlueJellyMoodBag_Medium_CleanGirlEnergy_2.webp?v=1775813607
-  - [Small（25 cm）](https://jellova.com/products/ice-blue-jelly-firkin-bag-1?variant=48459839144125)
-    Availability: Available
-    Price: $78.00 USD
-  - [Medium（35 cm）](https://jellova.com/products/ice-blue-jelly-firkin-bag-1?variant=48459839176893)
-    Availability: Available
-    Price: $88.00 USD
 - [Black Jelly Firkin Bag – Clear Black PVC Tote | JELLOVA](https://jellova.com/products/black-jelly-firkin-bag-2): Shop the Black Jelly Firkin Bag: a translucent black 3mm PVC tote in Small, Medium or Large. Water-resistant, structured and easy to style. Ships worldwide.
-  Updated: 2026-10-30T19:48:46Z
+  Updated: 2026-11-05T22:28:45Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -465,7 +453,7 @@
     Availability: Available
     Price: $98.00 USD
 - [White Jelly Firkin Bag – Clear White PVC Tote | JELLOVA](https://jellova.com/products/white-jelly-firkin-bag-2): Shop the White Jelly Firkin Bag: a translucent white 3mm PVC tote in Small, Medium or Large. Water-resistant, structured and easy to style. Ships worldwide.
-  Updated: 2026-10-29T18:54:26Z
+  Updated: 2026-11-06T19:20:46Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -479,21 +467,6 @@
   - [Large（40cm）](https://jellova.com/products/white-jelly-firkin-bag-2?variant=48459873943741)
     Availability: Available
     Price: $98.00 USD
-- [Pink Jelly Firkin Bag – Clear Pink PVC Tote | JELLOVA](https://jellova.com/products/pink-jelly-firkin-bag-1): Shop the Pink Jelly Firkin Bag: the iconic candy-pink jelly tote in translucent 3mm PVC. Small, Medium or Large, water-resistant. Ships worldwide.
-  Updated: 2026-10-30T19:48:48Z
-  Vendor: JELLOVA
-  Product Type: Firkin Bag
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/PinkJellyMoodBag40_1.webp?v=1776411385
-  - [Small（25 cm）](https://jellova.com/products/pink-jelly-firkin-bag-1?variant=48459905368253)
-    Availability: Available
-    Price: $78.00 USD
-  - [Medium（35 cm）](https://jellova.com/products/pink-jelly-firkin-bag-1?variant=48459905401021)
-    Availability: Available
-    Price: $88.00 USD
-  - [Large（40cm）](https://jellova.com/products/pink-jelly-firkin-bag-1?variant=48459905433789)
-    Availability: Available
-    Price: $98.00 USD
 - [Watermelon Red Jelly Firkin Bag – Large PVC Tote | JELLOVA](https://jellova.com/products/watermelon-red-jelly-firkin-bag-1): Shop the Watermelon Red Jelly Firkin Bag: a bold translucent 3mm PVC tote in a roomy 40 cm Large size. Water-resistant and structured. Ships worldwide.
   Updated: 2026-09-17T12:33:03Z
   Vendor: JELLOVA
@@ -502,7 +475,7 @@
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/WatermelonRedJellyMoodBag40_1.webp?v=1776414429
   Price: $98.00 USD
 - [Neon Green Jelly Firkin Bag – Y2K Clear PVC Tote | JELLOVA](https://jellova.com/products/neon-green-jelly-firkin-bag-1): Shop the Neon Green Jelly Firkin Bag: a bold translucent 3mm PVC tote in Small, Medium or Large. Water-resistant, structured and festival-ready. Ships worldwide.
-  Updated: 2026-09-19T00:01:20Z
+  Updated: 2026-11-06T07:10:37Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -551,49 +524,49 @@
     Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/JellyJPGShoulderBirkin_1.webp?v=1779695983
     Price: $88.00 USD
 - [Mauve Leather Firkin Bag | Leather Tote | JELLOVA](https://jellova.com/products/mauve-leather-firkin-bag): Shop the Mauve Leather Firkin Bag by JELLOVA. Soft dusty pink-purple uncoated cowhide tote, fits a 16" laptop. 15.7 × 6.3 × 11.8". Worldwide shipping.
-  Updated: 2026-10-29T16:10:01Z
+  Updated: 2026-11-07T14:42:07Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/MauveLeatherFirkinBag_4.png?v=1789717657
   Price: $158.00 USD
 - [Burgundy Leather Firkin Bag | Leather Tote | JELLOVA](https://jellova.com/products/burgundy-leather-firkin-bag): Shop the Burgundy Leather Firkin Bag by JELLOVA. Deep wine red uncoated cowhide with gold hardware, fits a 16" laptop. 15.7 × 6.3 × 11.8". Worldwide shipping.
-  Updated: 2026-10-29T16:09:55Z
+  Updated: 2026-11-06T15:46:18Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/BurgundyLeatherFirkinBag_2.png?v=1791795670
   Price: $158.00 USD
 - [Blossom Leather Firkin Bag 40 | Washed Vintage Tote](https://jellova.com/products/blossom-washed-leather-firkin-bag): Meet the Blossom Leather Firkin Bag 40. Crafted from full-grain cowhide with a washed vintage finish, this oversized pink tote is made for everyday carry.
-  Updated: 2026-10-17T06:21:14Z
+  Updated: 2026-11-04T13:56:28Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/Blossom_Washed_Leather_Firkin_Bag_40.webp?v=1792141867
   Price: $288.00 USD
 - [White Leather Firkin Bag 40 | Washed Vintage Tote](https://jellova.com/products/white-leather-firkin-bag-40): Meet the White Leather Firkin Bag 40 by Jellova. A roomy leather tote with a washed finish and vintage-inspired hardware for effortless everyday styling.
-  Updated: 2026-10-22T09:00:49Z
+  Updated: 2026-11-04T13:56:08Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/WhiteLeatherFirkinBag40_1.webp?v=1792574344
   Price: $288.00 USD
 - [Dusty Blue Leather Firkin Bag 40 | Washed Vintage Tote](https://jellova.com/products/dusty-blue-leather-firkin-bag-40): Shop the Dusty Blue Leather Firkin Bag 40 by Jellova. A vintage-inspired leather tote in muted blue, made for everyday outfits and effortless styling.
-  Updated: 2026-10-23T01:33:00Z
+  Updated: 2026-11-04T13:55:54Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/DustyBlueLeatherFirkinBag40_1.webp?v=1792659768
   Price: $288.00 USD
 - [Petrol Blue Leather Firkin Bag 40 | Jellova](https://jellova.com/products/petrol-blue-leather-firkin-bag): Meet the Petrol Blue Leather Firkin Bag 40 by Jellova. A roomy cowhide tote in deep blue-green with brass hardware, made for everyday styling.
-  Updated: 2026-10-30T16:29:00Z
+  Updated: 2026-11-03T18:16:28Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0766/0408/0317/files/PetrolBlueLeatherFirkin40Bag_4.jpg?v=1793246710
   Price: $158.00 USD
 - [Grey Leather Firkin Bag 40 | Jellova](https://jellova.com/products/grey-leather-firkin-bag-40): Meet the Grey Leather Firkin Bag 40 by Jellova. A roomy grey cowhide tote with brass hardware and a natural leather finish for everyday styling.
-  Updated: 2026-10-31T00:18:55Z
+  Updated: 2026-11-05T19:58:06Z
   Vendor: JELLOVA
   Product Type: Firkin Bag
   Availability: Available
@@ -603,7 +576,7 @@
 ## Collections
 
 - [JELLOVA FIRKIN BAGS](https://jellova.com/collections/frontpage): Shop Jellova's jelly firkin bags – translucent Y2K jelly totes in candy colors, structured 3mm vegan PVC. Sizes S/M/L from $78. Worldwide shipping to Australia, US & UK.
-  Updated: 2026-10-30T11:16:57Z
+  Updated: 2026-11-07T12:18:14Z
   Total Products: 53
 - [ACCESSORIES](https://jellova.com/collections/accessories): Finish your look with Jellova accessories — jelly bag charms, keychains and add-ons for your jelly firkin bag. Y2K candy aesthetic, worldwide shipping from $78.
   Updated: 2026-10-07T11:21:11Z
@@ -612,22 +585,22 @@
   Updated: 2026-10-30T11:16:57Z
   Total Products: 10
 - [BEST SELLERS](https://jellova.com/collections/best-sellers): Jellova best sellers — our most-loved jelly firkin bags and jelly shoes in candy Y2K shades. Shop the top translucent totes from $78. Worldwide shipping.
-  Updated: 2026-10-30T11:16:57Z
+  Updated: 2026-11-07T12:18:14Z
   Total Products: 33
 - [JELLY SHOULDER BAGS](https://jellova.com/collections/jpg-jelly-shoulder-birkin): The Jelly JPG Shoulder Birkin — a clear Y2K jelly bag with a shoulder strap and structured silhouette. Vegan PVC, $88. Jellova's newest series, shipping worldwide.
-  Updated: 2026-09-27T11:21:44Z
+  Updated: 2026-11-02T12:18:19Z
   Total Products: 4
 - [JELLY SHOES](https://jellova.com/collections/jelly-shoes)
   Updated: 2026-10-30T11:16:57Z
   Total Products: 1
 - [JELLY FIRKIN BAGS](https://jellova.com/collections/jelly-bags): Jellova is the home of the original jelly firkin bag — clear Y2K candy totes, jelly shoes and bag charms. Vegan PVC, sizes S–L, worldwide shipping from $78.
-  Updated: 2026-10-30T11:16:57Z
+  Updated: 2026-11-07T12:18:14Z
   Total Products: 53
 - [JELLY SHOES](https://jellova.com/collections/jelly-shoes-1): Jellova jelly shoes — soft PVC kitten-heel thong sandals with a 2-inch lift and all-day comfort. Candy shades to match your jelly firkin bag. Ships worldwide.
   Updated: 2026-10-30T11:16:57Z
   Total Products: 1
 - [LEATHER FIRKIN BAGS](https://jellova.com/collections/leather-firkin-bags): Shop leather Firkin bags at Jellova — slouchy and structured top-handle totes in real leather, with belt straps, turn-lock closures and brass hardware.
-  Updated: 2026-10-30T11:16:57Z
+  Updated: 2026-11-07T12:18:14Z
   Total Products: 10
 
 ## Blogs
@@ -683,7 +656,7 @@
 ## Policies
 
 - [Privacy Policy](https://jellova.com/policies/privacy-policy)
-  Updated: 2026-04-09T01:33:36Z
+  Updated: 2026-10-31T15:27:55Z
 - [Shipping Policy](https://jellova.com/policies/shipping-policy)
   Updated: 2026-05-11T07:31:49Z
 - [Refund Policy](https://jellova.com/policies/refund-policy)
