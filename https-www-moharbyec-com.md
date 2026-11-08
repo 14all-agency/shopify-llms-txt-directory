@@ -10,7 +10,7 @@
 - Contact Email: ekaacouture@gmail.com
 - Contact Phone: 5713150058
 - Address: 3065 C Centreville Road Herndon VA 20171
-- Updated At: 2026-10-31T00:39:06.700Z
+- Updated At: 2026-11-08T00:39:13.453Z
 
 ## Products
 
@@ -75,7 +75,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/rn-image_picker_lib_temp_fed20433-2e2d-47ef-bf42-4a7bb90244b8.jpg?v=1757953781
 - [Handcrafted Kundan Bridal Necklace](https://www.moharbyec.com/products/traditional-ruby-emerald-golden-kundan-set-copy): A handcrafted Kundan-style bridal necklace in traditional ruby and emerald tones set in a gold-finish base, reflecting the classic Mughal-inspired Kundan technique. Availability: In-Store | Ready to ShipCare: Do not put in water. Questions? Call or WhatsApp +1 571-315-0058 or email ekaacouture@gmail.com
-  Updated: 2026-10-23T14:10:32Z
+  Updated: 2026-11-06T13:49:31Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Jewelry
   Availability: Available
@@ -641,7 +641,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1000141861.jpg?v=1759769685
 - [Black Embroidered Bandhgala Suit](https://www.moharbyec.com/products/luxurious-black-embroidered-bandhgala-suit): Luxurious black embroidered bandhgala suit with silver floral motifs. Perfect for royal weddings, groom attire & special celebrations. Premium Indian formal wear.
-  Updated: 2026-10-23T14:10:33Z
+  Updated: 2026-11-06T11:39:16Z
   Vendor: Ekaa Couture
   Product Type: Suit
   Availability: Not Available
@@ -747,7 +747,7 @@
   - [44 - 2XL / Green](https://www.moharbyec.com/products/olive-green-embroidered-bridal-lehenga-set?variant=67694905065625)
     Availability: Available
 - [Maroon Sequin Embroidered Lehenga Set](https://www.moharbyec.com/products/maroon-sequin-embroidered-lehenga-set): Stunning maroon bridal lehenga with intricate sequin embroidery & floral embellished blouse. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-10-14T04:52:40Z
+  Updated: 2026-11-01T00:38:56Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
@@ -777,7 +777,7 @@
   - [42 - XL / Gray](https://www.moharbyec.com/products/silver-grey-embroidered-lehenga-set?variant=67694904574105)
     Availability: Available
 - [Blush Pink Embroidered Bridal Lehenga Set](https://www.moharbyec.com/products/blush-pink-embroidered-bridal-lehenga-set): Romantic blush pink bridal lehenga with intricate hand embroidery & sweetheart neckline. Perfect for weddings, receptions & special occasions. Ready to ship.
-  Updated: 2026-10-14T05:13:52Z
+  Updated: 2026-11-01T16:48:56Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
@@ -1063,7 +1063,7 @@
   - [42 - XL / Pink](https://www.moharbyec.com/products/rose-gold-bronze-embroidered-bridal-lehenga-set?variant=67694899200153)
     Availability: Available
 - [Red Black Bridal Lehenga Set | Heavy Sequin Embroidered Wedding Lehenga | MOHAR](https://www.moharbyec.com/products/red-black-sequin-embroidered-bridal-lehenga-set): Stunning red & black bridal lehenga with heavy sequin embroidery. Off-shoulder blouse, voluminous skirt & dupatta. Premium velvet. Perfect for bold brides!
-  Updated: 2026-10-14T04:52:18Z
+  Updated: 2026-11-01T08:29:01Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
   Availability: Available
@@ -1623,21 +1623,21 @@
   - [46 - 3XL](https://www.moharbyec.com/products/orange-silk-sharara?variant=48284960227481)
     Availability: Available
 - [Cobalt Blue Sharara Set](https://www.moharbyec.com/products/cobalt-blue-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
-  Updated: 2026-09-01T00:56:17Z
+  Updated: 2026-11-07T00:56:08Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Sharara Set
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/1770666745456.png?v=1773100692
   - [38 - M](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093036185)
-    Availability: Available
+    Availability: Not Available
   - [40 - L](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093068953)
-    Availability: Available
+    Availability: Not Available
   - [42 - XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093101721)
-    Availability: Available
+    Availability: Not Available
   - [44 - 2XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093134489)
-    Availability: Available
+    Availability: Not Available
   - [46 - 3XL](https://www.moharbyec.com/products/cobalt-blue-sharara-set?variant=48285093167257)
-    Availability: Available
+    Availability: Not Available
 - [Pastel Aqua Sharara Set](https://www.moharbyec.com/products/pastel-aqua-sharara-set): Stunning Magenta Pink Sharara Set with intricate gold floral embroidery. Perfect for weddings, Eid, and festive celebrations. Premium quality 3-piece set, ready to ship.
   Updated: 2026-10-29T20:21:17Z
   Vendor: MOHAR by EKAA COUTURE
@@ -1955,19 +1955,19 @@
   - [36 - S](https://www.moharbyec.com/products/navy-blue-floral-print-lehenga-set-with-pink-halter-choli-red-banarasi-dupatta-copy?variant=48285086744729)
     Availability: Available
 - [Karina Dusty Rose Lehenga](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1): Step into timeless elegance with this exquisite Dusty Rose Embroidered Lehenga Set — a celebration of old-world craftsmanship and contemporary bridal luxury, crafted for the modern bride who wears tradition with grace. Draped in a soft, romantic dusty rose hue, this three-piece set features an all-over thread and sequin embroidery across the full-flared skirt, with delicate floral motifs scattered throughout the fabric. The hem is adorned with a wide, heavily embellished scalloped border featuring intricate silver and pearl detailing — a breathtaking finishing touch that commands attention with every step. The sleeveless blouse is crafted with matching embroidery and a tie-back closure, offering an elegant silhouette. The set is completed with a flowing dusty rose dupatta, softly embroidered and bordered with the same signature lace trim — perfect for draping over the shoulder or as a veil. Details Style: Lehenga Choli Set with Dupatta Colour: Dusty Rose / Mauve Pink with Silver Embroidery: All-over thread, sequin & pearl work with scalloped hem border Blouse: Sleeveless, tie-back closure, matching embroidery Skirt: Full flared lehenga with scattered butti & wide embroidered scalloped border Dupatta: Dusty rose with embroidered motifs & lace border Occasion: Bridal, Wedding, Engagement, Sangeet, Reception, Festive Celebrations Care Instructions Dry clean only. Store in a breathable garment bag away from direct sunlight.
-  Updated: 2026-10-17T13:35:08Z
+  Updated: 2026-11-03T20:41:46Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/front-view_8c751064-1f61-4188-b68d-bb0581580aba.png?v=1776875663
   - [36 - S](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085859993)
-    Availability: Available
+    Availability: Not Available
   - [38 - M](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085892761)
-    Availability: Available
+    Availability: Not Available
   - [40 - L](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085925529)
-    Availability: Available
+    Availability: Not Available
   - [42 - XL](https://www.moharbyec.com/products/royal-purple-embellished-lehenga-set-copy-1?variant=48285085958297)
-    Availability: Available
+    Availability: Not Available
 - [Lavender Floral Lehenga](https://www.moharbyec.com/products/karina-dusty-rose-lehenga-copy): Bloom into every celebration with this enchanting Lavender Floral Print Lehenga Set — a dreamy fusion of delicate embellishment and vibrant floral artistry, crafted for the woman who brings sunshine wherever she goes. The star of this set is the breathtaking white and yellow floral print organza skirt, featuring large, painterly yellow lily motifs that cascade across the voluminous flared silhouette — light, airy, and utterly romantic. Paired with a lavender embellished bralette-style blouse adorned with intricate pearl, sequin, and floral embroidery, finished with delicate dangling pearl embellishments at the hem for a touch of ethereal glamour. The set is completed with a sheer lavender dupatta, softly scattered with embellishments and finished with a satin border — perfect for draping gracefully over the shoulder. Details Style: Lehenga Choli Set with Dupatta Colour: Lavender & White with Yellow Floral Print Fabric: Organza Skirt with Embellished Blouse Blouse: Lavender bralette-style, pearl & sequin embroidery, dangling pearl hem embellishments, spaghetti straps Skirt: Full flared organza lehenga with large yellow lily floral print Dupatta: Sheer lavender with scattered embellishments & satin border Occasion: Sangeet, Mehendi, Engagement, Wedding Guest, Festive Celebrations, Summer Wedding Care Instructions Dry clean only. Store in a breathable garment bag away from direct sunlight.
   Updated: 2026-09-01T00:56:36Z
   Vendor: MOHAR by EKAA COUTURE
@@ -2307,7 +2307,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_7a2ba7ce-05d8-4fb2-9da2-f545bb81f8a9.png?v=1779049224
 - [Navy Blue Sequin Embroidered Men's Kurta](https://www.moharbyec.com/products/maroon-printed-kurta-set-copy): Stunning navy blue sequin kurta with all-over chevron pattern. Premium embroidered men's ethnic wear perfect for weddings, festivals & special occasions.
-  Updated: 2026-10-27T23:40:17Z
+  Updated: 2026-11-03T13:09:41Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
   Availability: Not Available
@@ -2325,19 +2325,19 @@
   - [44 - 2XL](https://www.moharbyec.com/products/wine-brocade-kurta-set-copy?variant=48285079371929)
     Availability: Available
 - [Floral Embroidered Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/floral-embroidered-lehenga-set): Shop the Floral Embroidered Lehenga Set by MOHAR — a 3-piece bridal ensemble featuring a hand-embroidered choli, printed lehenga, and dupatta. Perfect for weddings & festive occasions.
-  Updated: 2026-10-18T15:44:24Z
+  Updated: 2026-11-03T20:35:57Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Not Available
+  Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_02579eed-146a-4a0a-bdea-a2d6b36377d0.png?v=1779489401
   - [36 - S / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078782105)
-    Availability: Not Available
+    Availability: Available
   - [38 - M / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078814873)
-    Availability: Not Available
+    Availability: Available
   - [40 - L / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078847641)
-    Availability: Not Available
+    Availability: Available
   - [42 - XL / Multicolor](https://www.moharbyec.com/products/floral-embroidered-lehenga-set?variant=48285078880409)
-    Availability: Not Available
+    Availability: Available
 - [Dark Pink Embellished Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/dark-pink-embellished-lehenga): Shop the Dark Pink Embellished Lehenga Set by MOHAR — a 3-piece bridal set with sequin mirror-work skirt, zardozi blouse & dupatta. Perfect for weddings & sangeets.
   Updated: 2026-10-14T04:51:02Z
   Vendor: MOHAR by EKAA COUTURE
@@ -2403,13 +2403,13 @@
   - [48 - 4XL](https://www.moharbyec.com/products/white-ombre-sequin-kurta-copy?variant=48285077110937)
     Availability: Available
 - [Teal Geometric Print Kurta Set | MOHAR](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy): Shop the Teal Geometric Print Kurta Set by MOHAR — white kurta with teal and grey medallion print and fitted white churidar. Perfect for Indian wedding guests.
-  Updated: 2026-10-30T19:18:40Z
+  Updated: 2026-11-01T04:59:42Z
   Vendor: Ekaa Couture
   Product Type: Men's Ethnic Wear
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/image_6878b159-f9d8-425d-b019-0c8ddec498ca.png?v=1780847542
   - [40 - L](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076881561)
-    Availability: Available
+    Availability: Not Available
   - [42 - XL](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076914329)
     Availability: Not Available
   - [44 - 2XL](https://www.moharbyec.com/products/yellow-chikankari-kurta-set-copy?variant=48285076947097)
@@ -2471,19 +2471,19 @@
   - [42 - XL](https://www.moharbyec.com/products/crimson-bridal-lehenga-set-copy?variant=48285076521113)
     Availability: Available
 - [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
-  Updated: 2026-09-01T00:56:55Z
+  Updated: 2026-11-03T20:34:55Z
   Vendor: MOHAR by EKAA COUTURE
   Product Type: Lehenga
-  Availability: Available
+  Availability: Not Available
   Image: https://cdn.shopify.com/s/files/1/0343/0852/2043/files/tuscany-outdoor-fashion-shoot.png?v=1781754533
   - [36 - S](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939255961)
-    Availability: Available
+    Availability: Not Available
   - [38 - M](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939288729)
-    Availability: Available
+    Availability: Not Available
   - [40 - L](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939321497)
-    Availability: Available
+    Availability: Not Available
   - [42 - XL](https://www.moharbyec.com/products/blush-sequin-lehenga-set-copy?variant=48284939354265)
-    Availability: Available
+    Availability: Not Available
 - [Blush Sequin Lehenga Set | MOHAR Bridal](https://www.moharbyec.com/products/teal-mirror-lehenga-set-copy): Shop the Blush Sequin Lehenga Set by MOHAR — a 3-piece bridal ensemble with silver lattice net skirt, sequin blouse & sheer dupatta. Perfect for weddings.
   Updated: 2026-09-01T00:56:56Z
   Vendor: MOHAR by EKAA COUTURE
@@ -2632,31 +2632,31 @@
     Availability: Available
   - [46 - 3XL](https://www.moharbyec.com/products/dusty-rose-sequin-palazzo-set-copy?variant=49017482117273)
     Availability: Available
-[List Continued](https://www.moharbyec.com/a/llms-agent/llms.txt?shop=ec-by-mg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzk5ODYyMjI3MDk3LCJsYXN0X3ZhbHVlIjoiMjAyNi0wNy0wNiAxOToyNDozOC4wMDAwMDAifQ%3D%3D)
+[List Continued](https://www.moharbyec.com/a/llms-agent/llms.txt?shop=ec-by-mg.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Nzk5ODYyMjI3MDk3LCJsYXN0X3ZhbHVlIjoiODc5OTg2MjIyNzA5NyJ9)
 
 ## Collections
 
 - [Best ](https://www.moharbyec.com/collections/best-)
-  Updated: 2026-10-15T09:56:05Z
-  Total Products: 22
+  Updated: 2026-11-01T23:57:00Z
+  Total Products: 35
 - [Women](https://www.moharbyec.com/collections/women): Discover your perfect style at MOHAR, the top boutique for women's clothing in the USA. Explore a curated collection of trendy and timeless fashion pieces, designed to elevate your wardrobe. Shop now to experience premium quality and impeccable style.
-  Updated: 2026-10-26T11:06:08Z
-  Total Products: 1142
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 1172
 - [Lehenga Choli](https://www.moharbyec.com/collections/lehenga): Elevate your style with MOHAR's exquisite collection of Indian Lehenga Choli in the USA. Discover a fusion of tradition and contemporary trends, handcrafted to perfection. Step into the spotlight with our enchanting designs and make heads turn at every event. Shop now!
-  Updated: 2026-10-25T22:52:04Z
-  Total Products: 515
+  Updated: 2026-11-07T16:18:00Z
+  Total Products: 523
 - [Saree](https://www.moharbyec.com/collections/saree): Experience the grace and beauty of Indian Traditional Sarees at MOHAR - your ultimate destination for ethnic wear in the USA. Browse our handpicked collection of exquisite sarees, each a masterpiece of craftsmanship. Step into the world of elegance and shop now!
-  Updated: 2026-07-10T20:50:32Z
-  Total Products: 57
+  Updated: 2026-11-01T23:23:46Z
+  Total Products: 65
 - [Men](https://www.moharbyec.com/collections/men): Discover the epitome of style at MOHAR, the finest Indian Men's Boutique in the USA. Explore our curated collection of traditional and contemporary menswear, exuding elegance and sophistication. From classic sherwanis to modern kurta sets, find the perfect ensemble to elevate your look.
-  Updated: 2026-10-28T11:04:39Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 174
 - [Children](https://www.moharbyec.com/collections/children)
   Updated: 2026-01-29T22:41:22Z
   Total Products: 0
 - [Anarkali / Gown](https://www.moharbyec.com/collections/anarkali-gown)
-  Updated: 2026-10-25T11:04:53Z
-  Total Products: 149
+  Updated: 2026-11-06T20:58:44Z
+  Total Products: 153
 - [](https://www.moharbyec.com/collections/): Celebrate the Year End  in the USA with MOHAR! Enjoy exclusive discounts on our captivating collection of Indian fashion and jewelry. Embrace the elegance of ethnic wear and exquisite designs. Don't miss this limited-time opportunity to elevate your style and save big.
   Updated: 2026-10-15T10:01:05Z
   Total Products: 85
@@ -2670,10 +2670,10 @@
   Updated: 2026-07-10T20:49:05Z
   Total Products: 0
 - [Ready to Ship](https://www.moharbyec.com/collections/ready-to-ship): Adorn yourself with the brilliance of Ready-to-Ship Indian Boutique Jewelry from MOHAR in the USA. Explore our curated collection, featuring exquisite designs handcrafted to perfection. Shop now and experience express delivery.
-  Updated: 2026-10-28T11:04:39Z
-  Total Products: 1035
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 1065
 - [Lehenga 2](https://www.moharbyec.com/collections/lehenga-2): Step into a world of elegance with MOHAR's Indian Boutique Lehenga collection in the USA. Discover exquisite designs and timeless craftsmanship, tailored to perfection. Elevate your style with our stunning lehengas, perfect for weddings and special occasions. Shop now!
-  Updated: 2026-10-25T22:52:04Z
+  Updated: 2026-11-01T19:19:21Z
   Total Products: 499
 - [Diwali Diya](https://www.moharbyec.com/collections/diwali-diya): We bring designer diyas for Diwali. Use these with wax tea lights or battery operated lights. Bring the festive celebration to your house!
   Updated: 2026-10-24T20:20:02Z
@@ -2688,8 +2688,8 @@
   Updated: 2026-07-10T20:50:31Z
   Total Products: 78
 - [Lehenga Ready to Ship](https://www.moharbyec.com/collections/lehenga-ready-to-ship): At MOHAR, find your dream Lehenga Ready to Ship! Explore our stunning collection of Indian dresses in the USA, crafted to perfection. Get ready to dazzle in traditional elegance with a modern twist. Don't wait – shop now and experience express delivery for your special occasions.
-  Updated: 2026-10-25T21:09:31Z
-  Total Products: 222
+  Updated: 2026-11-06T20:39:03Z
+  Total Products: 214
 - [Sherwani Ready to Ship](https://www.moharbyec.com/collections/sherwani-ready-to-ship)
   Updated: 2026-10-11T16:08:05Z
   Total Products: 64
@@ -2721,14 +2721,14 @@
   Updated: 2026-10-28T11:04:39Z
   Total Products: 31
 - [Products](https://www.moharbyec.com/collections/all)
-  Updated: 2026-10-28T11:04:39Z
-  Total Products: 1612
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 1642
 - [Women Plus Size](https://www.moharbyec.com/collections/women-plus-size)
-  Updated: 2026-10-26T11:06:08Z
+  Updated: 2026-11-06T18:21:12Z
   Total Products: 125
 - [New Arrivals](https://www.moharbyec.com/collections/new-arrivals)
-  Updated: 2026-10-27T23:40:58Z
-  Total Products: 385
+  Updated: 2026-11-07T20:36:03Z
+  Total Products: 373
 - [bridal lehenga](https://www.moharbyec.com/collections/bridal-lehenga)
   Updated: 2026-10-15T10:02:22Z
   Total Products: 9
@@ -2736,14 +2736,14 @@
   Updated: 2026-10-18T21:32:33Z
   Total Products: 53
 - [Wedding Guests - Women](https://www.moharbyec.com/collections/wedding-guests-women)
-  Updated: 2026-10-26T11:06:08Z
-  Total Products: 313
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 323
 - [Lehenga under $250](https://www.moharbyec.com/collections/lehenga-under-250)
   Updated: 2026-10-15T10:00:23Z
   Total Products: 32
 - [Sangeet - Ladies](https://www.moharbyec.com/collections/sangeet-outfits-for-guests)
-  Updated: 2026-10-26T11:06:08Z
-  Total Products: 264
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 272
 - [Sangeet outfit for Men Guests](https://www.moharbyec.com/collections/sangeet-outfit-for-men-guests)
   Updated: 2026-07-08T21:12:51Z
   Total Products: 0
@@ -2760,7 +2760,7 @@
   Updated: 2026-10-15T10:00:10Z
   Total Products: 14
 - [Men's Kurta](https://www.moharbyec.com/collections/mens-kurta)
-  Updated: 2026-10-28T11:04:39Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 65
 - [Sherwani](https://www.moharbyec.com/collections/sherwani)
   Updated: 2026-10-21T11:06:53Z
@@ -2769,23 +2769,23 @@
   Updated: 2026-10-15T10:00:23Z
   Total Products: 10
 - [Salwaar / Sharara](https://www.moharbyec.com/collections/anarkali-gown-copy)
-  Updated: 2026-10-26T11:06:08Z
-  Total Products: 199
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 208
 - [sharara](https://www.moharbyec.com/collections/sharara)
-  Updated: 2026-10-26T11:06:08Z
-  Total Products: 90
+  Updated: 2026-11-07T23:17:24Z
+  Total Products: 99
 - [Ceremony - Ladies](https://www.moharbyec.com/collections/ceremony-ladies)
-  Updated: 2026-10-25T21:09:31Z
-  Total Products: 313
+  Updated: 2026-11-07T16:18:00Z
+  Total Products: 322
 - [Reception- Ladies](https://www.moharbyec.com/collections/reception-ladies)
-  Updated: 2026-10-25T11:04:53Z
-  Total Products: 221
+  Updated: 2026-11-07T20:03:52Z
+  Total Products: 229
 - [Kurta Sets](https://www.moharbyec.com/collections/kurta-sets)
   Updated: 2026-07-08T21:12:52Z
   Total Products: 0
 - [Guest Lehenga](https://www.moharbyec.com/collections/guest-lehenga)
-  Updated: 2026-10-25T22:52:43Z
-  Total Products: 453
+  Updated: 2026-11-07T16:18:00Z
+  Total Products: 460
 - [Haldi](https://www.moharbyec.com/collections/haldi)
   Updated: 2026-10-22T11:05:53Z
   Total Products: 78
@@ -2811,13 +2811,13 @@
   Updated: 2026-10-28T11:04:39Z
   Total Products: 30
 - [Men kurta size 40](https://www.moharbyec.com/collections/men-kurta-size-38-copy)
-  Updated: 2026-10-15T10:02:23Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 38
 - [Men kurta size 42](https://www.moharbyec.com/collections/men-kurta-size-40-copy)
-  Updated: 2026-10-15T09:56:02Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 32
 - [Men kurta size 44](https://www.moharbyec.com/collections/men-kurta-size-42-copy)
-  Updated: 2026-10-15T10:02:23Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 21
 - [Men kurta size 46](https://www.moharbyec.com/collections/men-kurta-size-44-copy)
   Updated: 2026-10-15T10:02:23Z
@@ -2832,7 +2832,7 @@
   Updated: 2026-10-15T10:02:10Z
   Total Products: 9
 - [Men's Kurta (Copy)](https://www.moharbyec.com/collections/mens-kurta-copy)
-  Updated: 2026-10-28T11:04:39Z
+  Updated: 2026-11-01T12:04:40Z
   Total Products: 65
 
 ## Blogs
@@ -2972,8 +2972,8 @@
   Updated: 2020-03-16T03:27:30Z
 - [Refund and Cancellation Policy](https://www.moharbyec.com/pages/refund-and-cancellation-policy): Currently we do not entertain returns and exchanges. Custom orders cannot be cancelled. No refund or exchange on custom orders. Our website is unde...
   Updated: 2022-08-12T15:21:53Z
-- [Shipping and Delivery](https://www.moharbyec.com/pages/shipping-and-delivery): SHIPPING COSTS ​Free domestic delivery for all orders over $250 CLOTHING UNDER $100: US delivery - $14.00 International delivery - $26.00 ​LOCAL CU...
-  Updated: 2022-07-29T18:55:17Z
+- [Shipping and Delivery](https://www.moharbyec.com/pages/shipping-and-delivery): SHIPPING COSTS Free domestic delivery for all orders over $250 CLOTHING UNDER $100: as per shipping charges LOCAL CUSTOMS, DUTIES AND TAXES If you ...
+  Updated: 2026-11-01T15:58:11Z
 - [Contact US](https://www.moharbyec.com/pages/contact-us): Email: moharbyec@gmail.com Phone / Whatsapp : +1 571-315-0058
   Updated: 2022-08-12T15:25:31Z
 - [Size Chart](https://www.moharbyec.com/pages/size-chart): If you need assistance when choosing your size, don't hesitate to contact us. All sizes shown in the Size Charts are approximate. Please shop caref...
