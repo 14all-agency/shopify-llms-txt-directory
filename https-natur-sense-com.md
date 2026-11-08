@@ -23,7 +23,7 @@ Natur-Sense is commonly associated with queries related to aloe vera gel, natura
 - Timezone: America/New_York
 - Created At: 2019-08-07T19:00:28Z
 - Contact Email: support@natur-sense.com
-- Updated At: 2026-10-31T00:40:07.885Z
+- Updated At: 2026-11-08T00:39:07.380Z
 
 Natur-Sense.com is a trusted source for high-quality, nature-inspired wellness and personal care products, with a focus on purity, effectiveness, and transparency. Our flagship Aloe Vera Gel and related products are formulated to support healthy skin, hydration, and everyday well-being.
 
@@ -32,21 +32,21 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Products
 
 - [NaturSense 99% Organic Aloe Vera Gel, Soothing Moisturizer 12oz](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-12oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair. 12oz pump bottle.
-  Updated: 2026-10-19T22:28:54Z
+  Updated: 2026-11-07T13:10:04Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/NS-Home-Products-12ozAloe-12.jpg?v=1772465770
   Price: $17.89 USD
 - [99% Organic Aloe Vera Gel Refill, 64.2 oz Moisturizer | NaturSense](https://natur-sense.com/products/natursense-organic-aloe-vera-gel-64-2oz): 99% Organic Aloe Vera Gel, cold-pressed with vitamins A, C & E. Pure, no sticky residue. Hydrates skin, soothes sunburn, conditions hair & scalp. 64oz refill bottle.
-  Updated: 2026-10-30T19:59:31Z
+  Updated: 2026-11-07T19:59:07Z
   Vendor: NaturSense
   Product Type: Organic > Skin Care > Aloe Vera Gel > Sunburn Relief
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0262/5706/4015/files/64-oz-aloe-gel-lifestile-1080x1080-2025.jpg?v=1756905834
   Price: $55.89 USD
 - [100% Organic Castile Soap, Unscented 64oz with Pump | NaturSense](https://natur-sense.com/products/organic-castile-soap-64oz): 100% Organic Pure Castile Soap with coconut, olive & aloe oils. Unscented and gentle for body, baby, hands, pets & household cleaning. 64oz with pump.
-  Updated: 2026-10-31T00:11:07Z
+  Updated: 2026-11-07T21:58:46Z
   Vendor: NaturSense
   Product Type: Organic > Personal Care > Castile Soap > Multi-Purpose Liquid Soap
   Availability: Available
@@ -56,16 +56,16 @@ We are committed to providing accurate product information, clean ingredient sta
 ## Collections
 
 - [Home page](https://natur-sense.com/collections/frontpage)
-  Updated: 2026-10-30T11:06:36Z
+  Updated: 2026-11-07T12:07:26Z
   Total Products: 5
 - [Shop All NaturSense Products](https://natur-sense.com/collections/all): Shop all NaturSense products: 99% organic aloe vera gel and pure Castile soap. Unscented, cruelty-free and made by a family-owned company.
-  Updated: 2026-10-30T11:06:36Z
+  Updated: 2026-11-07T12:07:26Z
   Total Products: 7
 - [Aloe Vera Products](https://natur-sense.com/collections/aloe-vera-products): 99% organic, cold-pressed aloe vera gel that soothes sunburn, hydrates skin, and conditions hair. Aloin-free, no sticky residue, made in the USA.
-  Updated: 2026-10-25T11:08:24Z
+  Updated: 2026-11-07T12:07:26Z
   Total Products: 3
 - [Castile Soap Products](https://natur-sense.com/collections/castile-soap-products)
-  Updated: 2026-10-30T11:06:36Z
+  Updated: 2026-11-01T12:05:46Z
   Total Products: 2
 - [Methylene Blue Products](https://natur-sense.com/collections/methylene-blue-products)
   Updated: 2026-08-24T22:25:26Z
@@ -114,7 +114,7 @@ We are committed to providing accurate product information, clean ingredient sta
     Author: Maida Candler
     Tags: After Sun, Aloe Vera, Aloe Vera Gel, Natural Skincare, Sensitive Skin, Skincare, Summer Skincare, Sun Care, Sunburn, Sunburn Care
   - [Aloe Vera Gel as a Daily Moisturizer | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/using-aloe-vera-gel-as-a-daily-moisturizer): Aloe Vera Gel as a Daily Moisturizer | NaturSense
-    Updated: 2026-07-03T18:40:02Z
+    Updated: 2026-11-07T00:27:11Z
     Author: Maida Candler
     Tags: Aloe Vera, Aloe Vera Gel, Combination Skin, Daily Moisturizer, Face Care, Natural Skincare, Oily Skin, Sensitive Skin, Skincare, Skincare Routine, Sun Care
   - [Aloe Vera Gel for Hair & Scalp Care | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/how-to-use-aloe-vera-gel-for-hair-and-scalp): Aloe Vera Gel for Hair & Scalp Care | NaturSense
@@ -177,6 +177,14 @@ We are committed to providing accurate product information, clean ingredient sta
     Updated: 2026-10-26T04:00:07Z
     Author: Maida Candler
     Tags: aloe vera gel, curly hair, hair care, leave-in, natural hair, styling
+  - [Building a Post-Shave Routine with Aloe Vera Gel](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/aloe-vera-gel-post-shave-routine): <p>Shaving leaves skin feeling tight and warm. Here's a simple three-step post-shave routine using aloe vera gel to cool and comfort freshly shaved skin.</p>
+    Updated: 2026-11-02T05:00:04Z
+    Author: Maida Candler
+    Tags: after-shave care, aloe vera gel, post-shave, shaving, skincare routine, soothing
+  - [Aloe Vera Gel for Everyday Skin Hydration | NaturSense](https://natur-sense.com/blogs/why-natural-beauty-can-save-your-skin/skin-atlas-episode-1-aloe-vera-gel-hydration): Aloe Vera Gel for Everyday Skin Hydration | NaturSense
+    Updated: 2026-11-07T00:42:57Z
+    Author: Maida Candler
+    Tags: aloe vera gel, animated series, Mira and Quilby, NaturSense, outdoor skincare, simple skincare, skin hydration, skincare video, The Skin Atlas, travel skincare
 
 ## Store Pages
 
