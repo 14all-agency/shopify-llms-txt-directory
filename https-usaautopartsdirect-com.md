@@ -6,7 +6,7 @@
 - Timezone: Pacific/Auckland
 - Created At: 2026-09-05T01:22:31Z
 - Contact Email: usaautopartsdirect@gmail.com
-- Updated At: 2026-10-31T01:05:35.225Z
+- Updated At: 2026-11-08T01:00:33.209Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_5e72aa8f-1ad9-40b6-a137-6acdafca9039.webp?v=1788996724
   Price: $1,725.00 USD
 - [Driver Footboard in Black Gold for Harley Electra Road Glide 2009–2023](https://usaautopartsdirect.com/products/driver-footboard-for-harley-electra-road-glide-20092023-black-gold-335204876124): Driver Footboard in Black Gold for Harley Electra Road Glide 2009–2023. Supplied product details follow. Specifications and fitment Includes: - Driver Footboard Fits Models: - Harley-Davidson Electra Glide - Harley-Davidson Road Glide Model Years: - 2009–2023 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Driver Footboard is designed specifically for Harley-Davidson Electra Glide and Road Glide models from 2009 to 2023. The footboard features a sleek black and gold finish, enhancing the aesthetic of your motorcycle while providing a comfortable and secure foot placement for riders. Features: - Durable construction for long-lasting use - Stylish black and gold design - Easy installation with no modifications required - Enhanced rider comfort and stability - Fits a wide range of Harley-Davidson touring models
-  Updated: 2026-09-17T20:29:10Z
+  Updated: 2026-10-31T23:25:38Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_a42bb213-10b0-446e-9182-3ff2cf8b4a3e.webp?v=1788996724
   Price: $560.00 USD
 - [Engine Thermostat Kit for MD6, MD7, AQ140 Volvo Penta (875796, 833366)](https://usaautopartsdirect.com/products/engine-thermostat-kit-for-volvo-penta-md7-aq140-md6-875796-833366-206357927948): Engine Thermostat Kit for MD6, MD7, AQ140 Volvo Penta (875796, 833366). Supplied product details follow. Specifications and fitment Includes: - Engine Thermostat Kit Fits Models: - Volvo Penta MD7, AQ140, MD6 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Common engine sizes include 1.4L (AQ140), 1.6L (MD6), and 1.8L (MD7) Description: This Engine Thermostat Kit is designed for Volvo Penta marine engines, specifically the MD7, AQ140, and MD6 models. It ensures optimal engine temperature regulation, enhancing performance and efficiency. The kit includes all necessary components for a complete installation, making it a reliable choice for marine applications. Features: - Direct fit for Volvo Penta MD7, AQ140, and MD6 engines - Includes all necessary installation components - Ensures optimal engine temperature regulation - Enhances engine performance and efficiency - Durable construction for marine environments Part Number: 875796, 833366
-  Updated: 2026-09-17T20:29:10Z
+  Updated: 2026-10-31T23:18:52Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -53,14 +53,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_44daeeab-439b-4652-9781-212dbd0128cc.webp?v=1788996724
   Price: $1,800.00 USD
 - [Fuel Pump for FLSTN FLHS FLHT FLTR Harley-Davidson Road King 1994-2006](https://usaautopartsdirect.com/products/fuel-pump-for-harley-davidson-road-king-flstn-flhs-flht-fltr-19942006-62897-01-75126-02-168426621040): Fuel Pump for FLSTN FLHS FLHT FLTR Harley-Davidson Road King 1994-2006. Supplied product details follow. Specifications and fitment Includes: - Fuel Pump Fits Models: - Harley-Davidson Road King - Harley-Davidson FLSTN - Harley-Davidson FLHS - Harley-Davidson FLHT - Harley-Davidson FLTR Model Years: - 1994–2006 Submodels: - Common trims include Classic, Standard, and Custom variants - Chassis codes may include FLH, FLT, and FLTR - Body styles are primarily touring and cruiser Engine Options: - Compatible with standard engine options, typically 88ci (1450cc) and 96ci (1584cc) V-twin engines Description: This fuel pump is designed for select Harley-Davidson models from 1994 to 2006, ensuring reliable fuel delivery for optimal engine performance. It is a direct replacement for OEM part numbers 62897-01 and 75126-02, making it a perfect fit for your motorcycle. Features: - Direct replacement for OEM fuel pumps - Ensures reliable fuel delivery - Compatible with multiple Harley-Davidson models - Easy installation with no modifications required - Durable construction for long-lasting performance
-  Updated: 2026-09-17T20:29:11Z
+  Updated: 2026-10-31T23:25:59Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_d4be871d-148f-4229-8af0-bd3a0d307726.webp?v=1788996725
   Price: $425.00 USD
 - [1 1/4" Engine Guard Footrest Male Mount for Harley](https://usaautopartsdirect.com/products/1-14-engine-guard-male-mount-highway-footpeg-footrest-for-harley-333996272386): 1 1/4" Engine Guard Footrest Male Mount for Harley. Supplied product details follow. Specifications and fitment Includes: - 1 1/4" Engine Guard Male Mount Highway Footpeg Footrest Fits Models: - Harley-Davidson Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This 1 1/4" Engine Guard Male Mount Highway Footpeg Footrest is designed for Harley-Davidson motorcycles, providing enhanced comfort and support for long rides. The footpegs mount securely to the engine guard, allowing for a relaxed riding position. Features: - Durable construction for long-lasting use - Easy installation with standard mounting hardware - Provides additional foot support for rider comfort - Compatible with various Harley-Davidson models - Sleek design that complements the motorcycle's aesthetics
-  Updated: 2026-09-17T20:29:11Z
+  Updated: 2026-11-01T00:00:23Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_6562366a-a0fa-47b4-9604-dee01df73c54.webp?v=1788996724
   Price: $560.00 USD
 - [Electric Vehicle Charging Line Holder Bag in Black](https://usaautopartsdirect.com/products/electric-vehicle-charging-line-storage-bag-for-various-models-black-227401030268): Electric Vehicle Charging Line Holder Bag in Black. Supplied product details follow. Specifications and fitment Includes: - Electric Vehicle Charging Line Storage Bag Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Electric Vehicle Charging Line Storage Bag is designed to provide a convenient and organized solution for storing your EV charging cable. Made from durable materials, it ensures your charging line is protected from wear and tear while keeping your vehicle's interior tidy. The sleek black design complements any vehicle's aesthetic. Features: - Durable construction for long-lasting use - Compact design for easy storage - Fits various EV charging cables - Lightweight and portable - Easy to clean and maintain
-  Updated: 2026-09-17T20:29:13Z
+  Updated: 2026-11-01T00:16:00Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -172,7 +172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_896a9774-1a96-4ef9-a780-9ea7514208c4.webp?v=1788996724
   Price: $530.00 USD
 - [Headlight Fairing - Front for Harley Low Rider, Street Bob (2018–2023)](https://usaautopartsdirect.com/products/front-headlight-fairing-for-harley-low-rider-street-bob-20182023-226247849073): Headlight Fairing - Front for Harley Low Rider, Street Bob (2018–2023). Supplied product details follow. Specifications and fitment Includes: - Front Headlight Fairing Fits Models: - Harley-Davidson Low Rider - Harley-Davidson Street Bob Model Years: - 2018–2023 Submodels: - Low Rider S, FXLR, FXBRS, FXBB - Street Bob 114, FXBBS Engine Options: - Milwaukee-Eight 107, Milwaukee-Eight 114 Description: This Front Headlight Fairing is designed specifically for Harley-Davidson Low Rider and Street Bob models from 2018 to 2023. It enhances the motorcycle's aesthetic while providing improved wind protection for a more comfortable ride. The fairing is constructed from durable materials to withstand the elements and maintain its appearance over time. Features: - Custom fit for Low Rider and Street Bob models - Enhanced wind protection for rider comfort - Durable construction for long-lasting use - Sleek design that complements the motorcycle's style - Easy installation with no modifications required Part Number: Not provided
-  Updated: 2026-09-17T20:29:16Z
+  Updated: 2026-10-31T23:13:18Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_74239c04-4d89-4d4d-8353-594d45ae9faa.webp?v=1788996725
   Price: $115.00 USD
 - [Fuel Pump + Tank Seal for 2013-2014 Husqvarna TR 650 Road/Earth](https://usaautopartsdirect.com/products/fuel-pump-tank-seal-for-husqvarna-tr-650-roadearth-20132014-8000h5311-800175542581): Fuel Pump + Tank Seal for 2013-2014 Husqvarna TR 650 Road/Earth. Supplied product details follow. Specifications and fitment Includes: - Fuel Pump + Tank Seal Fits Models: - Husqvarna TR 650 Road - Husqvarna TR 650 Earth Model Years: - 2013–2014 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This fuel pump and tank seal assembly is designed specifically for the Husqvarna TR 650 Road and Earth models from 2013 to 2014. It ensures optimal fuel delivery and prevents leaks, maintaining the performance and reliability of your motorcycle. Features: - Direct fit for Husqvarna TR 650 models - High-quality construction for durability - Ensures proper fuel flow and prevents leaks - Easy installation with included tank seal - Designed for 2013 and 2014 model years Part Number: 8000H5311
-  Updated: 2026-09-17T20:29:17Z
+  Updated: 2026-10-31T23:19:29Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -249,7 +249,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_6407f814-c2e6-44e7-a807-06bb3b75dbca.webp?v=1788996726
   Price: $520.00 USD
 - [Fuel Pump and Regulator Set of 2 for Martello Sport Vittoria 2009-2017](https://usaautopartsdirect.com/products/set-of-2-martello-sport-8-sfera-fuel-pump-regulator-for-vittoria-20092017-800098245745): Fuel Pump and Regulator Set of 2 for Martello Sport Vittoria 2009-2017. Supplied product details follow. Specifications and fitment Includes: - Set of 2 Martello Sport 8 Sfera Fuel Pump + Regulator Fits Models: - Vittoria Model Years: - 2009–2017 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This set of 2 Martello Sport 8 Sfera Fuel Pumps and Regulators is designed specifically for the Vittoria model years 2009 to 2017. These components are essential for maintaining optimal fuel delivery and pressure, ensuring your vehicle runs smoothly and efficiently. Features: - High-performance fuel pumps for improved fuel flow - Includes regulator for consistent fuel pressure - Direct fit for easy installation - Durable construction for long-lasting performance - Designed for specific Vittoria model compatibility
-  Updated: 2026-09-17T20:29:19Z
+  Updated: 2026-11-01T00:15:37Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -305,14 +305,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_5183aa12-139c-4369-a172-b9dad0df92cd.webp?v=1788996724
   Price: $5,750.00 USD
 - [Impeller Kit for Suzuki Outboard Water Pump 70 80 90HP DF70A DF80A 1999-2006](https://usaautopartsdirect.com/products/water-pump-impeller-kit-for-suzuki-outboard-70-80-90hp-df70a-df80a-19992006-17400-87l02-206366684702): Impeller Kit for Suzuki Outboard Water Pump 70 80 90HP DF70A DF80A 1999-2006. Supplied product details follow. Specifications and fitment Includes: - Water Pump Impeller Kit Fits Models: - Suzuki DF70A, DF80A, DF90A Model Years: - 1999–2006 Submodels: - Applies to listed models Engine Options: - 70HP, 80HP, 90HP (DF70A, DF80A, DF90A) Description: This Water Pump Impeller Kit is designed specifically for Suzuki Outboard motors, ensuring optimal performance and cooling efficiency. It is compatible with models DF70A, DF80A, and DF90A produced between 1999 and 2006. This kit includes all necessary components for a complete water pump service, helping to prevent overheating and prolong the life of your outboard engine. Features: - High-quality construction for durability - Direct fit for easy installation - Ensures proper water flow and cooling - Compatible with multiple Suzuki outboard models - Includes all necessary components for replacement Part Number: 17400-87L02
-  Updated: 2026-09-17T20:29:21Z
+  Updated: 2026-10-31T22:25:52Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_3735e546-f0a4-4e2b-9234-8a7a220f615e.webp?v=1788996724
   Price: $115.00 USD
 - [2018-2023 Harley Softail Deluxe FLDE Driver & Passenger Seat](https://usaautopartsdirect.com/products/driver-passenger-seat-for-harley-softail-deluxe-flde-20182023-226054776079): 2018-2023 Harley Softail Deluxe FLDE Driver & Passenger Seat. Supplied product details follow. Specifications and fitment Includes: - Driver & Passenger Seat Fits Models: - Harley-Davidson Softail Deluxe Model Years: - 2018–2023 Submodels: - FLDE Engine Options: - Compatible with standard engine options Description: This driver and passenger seat is designed specifically for the Harley-Davidson Softail Deluxe (FLDE) models from 2018 to 2023. It offers a comfortable and stylish seating solution for riders and passengers, enhancing the overall riding experience. Features: - Custom fit for Softail Deluxe models - Durable materials for long-lasting use - Enhanced comfort for both rider and passenger - Easy installation with no modifications required - Sleek design that complements the bike's aesthetics
-  Updated: 2026-09-17T20:29:22Z
+  Updated: 2026-10-31T23:19:29Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -326,14 +326,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_fda12c42-a4c9-41b7-9cc9-a3d145db1c6a.webp?v=1788996725
   Price: $120.00 USD
 - [Fuel Pump, Strainer & Tank Seal for Yamaha (2004-2014) #5VK-13907-02-00](https://usaautopartsdirect.com/products/qfs-fuel-pump-tank-seal-strainer-for-yamaha-20042014-5vk-13907-02-00-800164572810): Fuel Pump, Strainer & Tank Seal for Yamaha (2004-2014) #5VK-13907-02-00. Supplied product details follow. Specifications and fitment Includes: - QFS Fuel Pump + Tank Seal + Strainer Fits Models: - Yamaha Model Years: - 2004–2014 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The QFS Fuel Pump + Tank Seal + Strainer is designed specifically for Yamaha vehicles manufactured between 2004 and 2014. This high-quality fuel pump ensures optimal fuel delivery and performance, while the included tank seal and strainer help maintain the integrity of your fuel system. Features: - Direct replacement for OEM part #5VK-13907-02-00 - Ensures reliable fuel delivery for enhanced engine performance - Includes tank seal and strainer for complete installation - Durable construction for long-lasting use - Easy installation with no modifications required
-  Updated: 2026-09-17T20:29:22Z
+  Updated: 2026-10-31T23:19:29Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_45d95704-aed7-404b-82d3-f3d653db8622.webp?v=1788996727
   Price: $450.00 USD
 - [Isolator Air Intake for Mercury Verado (815504256, 8M0113513)](https://usaautopartsdirect.com/products/air-intake-isolator-for-mercury-verado-8m0113513-815504256-206380423076): Isolator Air Intake for Mercury Verado (815504256, 8M0113513). Supplied product details follow. Specifications and fitment Includes: - Air Intake Isolator Fits Models: - Mercury Verado Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The Air Intake Isolator is designed specifically for the Mercury Verado outboard engines, ensuring optimal performance and efficiency. This component helps to reduce noise and vibration, providing a smoother operation for your marine engine. Features: - Direct fit for Mercury Verado models - Reduces noise and vibration - Enhances engine performance - Durable construction for marine environments - Easy installation Part Number: 8M0113513, 815504256
-  Updated: 2026-09-17T20:29:23Z
+  Updated: 2026-10-31T23:45:13Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -375,28 +375,28 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_0198a93b-d001-4f0d-a85d-924739fea921.webp?v=1788996725
   Price: $945.00 USD
 - [Chin Cover Front Spoiler for Harley CVO Street Road Glide 2023-2026](https://usaautopartsdirect.com/products/front-spoiler-radiator-chin-cover-for-harley-cvo-street-road-glide-20232026-335541590229): Chin Cover Front Spoiler for Harley CVO Street Road Glide 2023-2026. Supplied product details follow. Specifications and fitment Includes: - Front Spoiler Radiator Chin Cover Fits Models: - Harley-Davidson CVO Street Glide - Harley-Davidson CVO Road Glide Model Years: - 2023–2026 Submodels: - CVO (Custom Vehicle Operations), FLHXSE (Street Glide), FLTRXSE (Road Glide) Engine Options: - Compatible with standard engine options Description: Enhance the front aesthetics of your Harley-Davidson CVO Street Glide or Road Glide with this Front Spoiler Radiator Chin Cover. Designed specifically for the 2023 to 2026 model years, this chin cover provides a sleek look while also offering protection to the radiator area. Features: - Custom fit for CVO Street Glide and Road Glide models - Durable construction for long-lasting performance - Easy installation with no modifications required - Enhances the overall appearance of your motorcycle - Designed to withstand various weather conditions
-  Updated: 2026-09-17T20:29:24Z
+  Updated: 2026-10-31T23:11:38Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_a119ca0b-2b03-48df-88e3-b594837cbc61.webp?v=1788996725
   Price: $340.00 USD
 - [Rubber Connector Protector for Fuel Line - Tohatsu Hangkai](https://usaautopartsdirect.com/products/3h6702620m-rubber-fuel-connector-protector-for-tohatsu-hangkai-yyyyyyyy-206348102825): Rubber Connector Protector for Fuel Line - Tohatsu Hangkai. Supplied product details follow. Specifications and fitment Includes: - Rubber Fuel Connector Protector Fits Models: - Tohatsu, Hangkai - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Rubber Fuel Connector Protector is designed to safeguard fuel connectors from damage and contamination, ensuring optimal performance in marine applications. It is suitable for use with Tohatsu and Hangkai outboard motors, providing a reliable solution for maintaining fuel system integrity. Features: - Durable rubber construction for long-lasting use - Protects fuel connectors from dirt and debris - Easy to install and remove - Compatible with various outboard motor models - Helps prevent fuel leaks and ensures safe operation
-  Updated: 2026-09-17T20:29:25Z
+  Updated: 2026-10-31T23:13:19Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_06987df4-192c-4940-a4d2-1809aff028f6.webp?v=1788996725
   Price: $75.00 USD
 - [Car Console Armrest Cushion with Storage and Cup Holder (Universal Fit)](https://usaautopartsdirect.com/products/armrest-cushion-for-car-console-with-cup-holder-and-storage-universal-227392904422): Car Console Armrest Cushion with Storage and Cup Holder (Universal Fit). Supplied product details follow. Specifications and fitment Includes: - Armrest Cushion for Car Console with Cup Holder and Storage Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This armrest cushion is designed to enhance comfort and functionality in your vehicle's console area. It features a built-in cup holder and additional storage space, making it a practical addition for any car interior. The cushion is crafted for durability and ease of use, providing a soft resting place for your arm while driving. Features: - Universal fit for most vehicles - Integrated cup holder for convenience - Additional storage compartment for small items - Soft cushioning for enhanced comfort - Easy to install and remove
-  Updated: 2026-09-17T20:29:25Z
+  Updated: 2026-10-31T22:36:31Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_deccf62a-4e5f-4200-9568-3f782520553a.webp?v=1788996725
   Price: $105.00 USD
 - [Minor Repair Kit for Sea Water Pump Yanmar Marine 2QM 2QM20Y 3QM30 (1975–1990)](https://usaautopartsdirect.com/products/sea-water-pump-minor-repair-kit-for-yanmar-marine-2qm-2qm20y-3qm30-19751990-206366684712): Minor Repair Kit for Sea Water Pump Yanmar Marine 2QM 2QM20Y 3QM30 (1975–1990). Supplied product details follow. Specifications and fitment Includes: - Sea Water Pump Minor Repair Kit Fits Models: - Yanmar Marine 2QM, 2QM20Y, 3QM30 Model Years: - 1975–1990 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Sea Water Pump Minor Repair Kit is designed specifically for Yanmar Marine engines, including the 2QM, 2QM20Y, and 3QM30 models. It provides essential components for maintaining the sea water pump, ensuring optimal cooling and performance of your marine engine. Features: - High-quality replacement parts for reliable performance - Easy installation for efficient maintenance - Compatible with multiple Yanmar Marine engine models - Designed to withstand marine environments - Helps prevent overheating and engine damage Part Number: Not specified
-  Updated: 2026-09-17T20:29:25Z
+  Updated: 2026-10-31T23:09:05Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -410,7 +410,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_e6c6d360-6c67-45c4-b4ac-cdf2d35249d6.webp?v=1788996726
   Price: $240.00 USD
 - [Hydraulic Brake Hose Line for Motorbike Buggy ATV 1.1m Length](https://usaautopartsdirect.com/products/hydraulic-brake-line-hose-for-motorbike-dirt-atv-quad-bike-buggy-go-kart-11m-168358898774): Hydraulic Brake Hose Line for Motorbike Buggy ATV 1.1m Length. Supplied product details follow. Specifications and fitment Includes: - Hydraulic Brake Line Hose Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This hydraulic brake line hose is designed for use in various motorbikes, dirt bikes, ATVs, quad bikes, buggies, and go-karts. With a length of 1.1 meters, it provides flexibility and adaptability for different setups. Ensure proper installation for optimal braking performance. Features: - Durable construction for long-lasting use - Flexible design to accommodate various vehicle configurations - Suitable for a wide range of off-road vehicles - Easy to install with standard fittings - Enhances braking efficiency and responsiveness
-  Updated: 2026-09-17T20:29:26Z
+  Updated: 2026-10-31T22:46:53Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -424,14 +424,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_2f0d67a0-7495-4703-b26e-ffdd4fd5c756.webp?v=1788996725
   Price: $2,020.00 USD
 - [Water Sensor for D3 D4 D6 Volvo Penta (2002–2023) 874572 REC3808616](https://usaautopartsdirect.com/products/water-sensor-for-volvo-penta-d3-d4-d6-20022023-874572-rec3808616-206345625132): Water Sensor for D3 D4 D6 Volvo Penta (2002–2023) 874572 REC3808616. Supplied product details follow. Specifications and fitment Includes: - Water Sensor Fits Models: - Volvo Penta D3, D4, D6 Model Years: - 2002–2023 Submodels: - Applies to listed models Engine Options: - Common engine options include D3 (2.4L), D4 (2.4L), D6 (5.5L) Description: This water sensor is designed for use with Volvo Penta D3, D4, and D6 engines, providing reliable monitoring of water levels to ensure optimal engine performance. It is a direct replacement for part number 874572 and REC3808616, ensuring compatibility with models produced between 2002 and 2023. Features: - Direct replacement for Volvo Penta part numbers 874572 and REC3808616 - Compatible with D3, D4, and D6 engine models - Monitors water levels for enhanced engine protection - Ensures reliable performance and longevity of marine engines - Easy installation for maintenance and repair Part Number: 874572, REC3808616
-  Updated: 2026-09-17T20:29:26Z
+  Updated: 2026-10-31T23:26:25Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_fc418c0e-548f-4506-8012-c9001e9dab83.webp?v=1788996725
   Price: $115.00 USD
 - [4-Wire Fuel Pump Assembly for Honda Shadow 700 (1983-1985) 16710-MK7-000](https://usaautopartsdirect.com/products/4-wire-fuel-pump-for-honda-shadow-700-vt700c-19831985-16710-mk7-000-800211682384): 4-Wire Fuel Pump Assembly for Honda Shadow 700 (1983-1985) 16710-MK7-000. Supplied product details follow. Specifications and fitment Includes: - 4-Wire Fuel Pump Fits Models: - Honda Shadow 700 (VT700C) Model Years: - 1983–1985 Submodels: - VT700C Engine Options: - 691cc V-twin (engine code: VT700) Description: This 4-wire fuel pump is designed specifically for the Honda Shadow 700 (VT700C) models from 1983 to 1985. It ensures reliable fuel delivery for optimal engine performance, making it an essential component for maintaining your motorcycle's functionality. Features: - Direct replacement for Honda Shadow 700 (VT700C) - Durable construction for long-lasting performance - Ensures consistent fuel flow to the engine - Easy installation with 4-wire configuration - Designed to meet OEM specifications Part Number: 16710-MK7-000
-  Updated: 2026-09-17T20:29:27Z
+  Updated: 2026-11-01T00:16:02Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -452,7 +452,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_5de49793-84cb-4803-8ae5-29bd4528a111.webp?v=1788996724
   Price: $735.00 USD
 - [Fuel Filter for 4-Stroke Suzuki DF 9.9-90 HP (Part No. REC15410-87L00)](https://usaautopartsdirect.com/products/fuel-filter-for-suzuki-df-99-90-hp-4-stroke-rec15410-87l00-206345625114): Fuel Filter for 4-Stroke Suzuki DF 9.9-90 HP (Part No. REC15410-87L00). Supplied product details follow. Specifications and fitment Includes: - Fuel Filter Fits Models: - Suzuki DF 9.9, DF 15, DF 20, DF 25, DF 30, DF 40, DF 50, DF 60, DF 70, DF 80, DF 90 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Common engine sizes include 9.9 HP, 15 HP, 20 HP, 25 HP, 30 HP, 40 HP, 50 HP, 60 HP, 70 HP, 80 HP, 90 HP; engine codes may vary by model Description: This fuel filter is designed for Suzuki DF 4-stroke outboard motors ranging from 9.9 to 90 HP. It ensures clean fuel delivery to the engine, enhancing performance and longevity. Features: - High-quality filtration for optimal engine performance - Compatible with a range of Suzuki DF outboard models - Easy to install and replace - Helps prevent fuel system contamination - Durable construction for long-lasting use Part Number: REC15410-87L00
-  Updated: 2026-09-17T20:29:28Z
+  Updated: 2026-10-31T23:43:48Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -473,7 +473,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_a7424a42-55c2-4bf1-97d7-56e3b9b63405.webp?v=1788996725
   Price: $995.00 USD
 - [Intank Fuel Pump Set for Polaris Sportsman 500 (2008–2014) with Seal](https://usaautopartsdirect.com/products/qfs-intank-fuel-pump-set-with-tank-seal-regulator-for-polaris-sportsman-500-20082014-3089893-800164581258): Intank Fuel Pump Set for Polaris Sportsman 500 (2008–2014) with Seal. Supplied product details follow. Specifications and fitment Includes: - QFS Intank Fuel Pump Set with Tank Seal & Regulator Fits Models: - Polaris Sportsman 500 Model Years: - 2008–2014 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The QFS Intank Fuel Pump Set is designed specifically for the Polaris Sportsman 500 models from 2008 to 2014. This comprehensive kit includes a high-quality fuel pump, tank seal, and regulator, ensuring optimal performance and reliability for your ATV. Features: - Direct replacement for OEM part number 3089893 - Includes all necessary components for installation - Enhances fuel delivery and engine performance - Durable construction for long-lasting use - Easy installation with no modifications required
-  Updated: 2026-09-17T20:29:29Z
+  Updated: 2026-11-01T02:52:36Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -494,21 +494,21 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_46b02738-0b55-4145-ae3d-3088109627d6.webp?v=1788996725
   Price: $1,155.00 USD
 - [EFI Fuel Pump with Regulator for 2006 Yamaha YZF-R1 #5PW-13907-02-00](https://usaautopartsdirect.com/products/efi-fuel-pump-regulator-for-yamaha-yzf-r1-2006-5pw-13907-02-00-800147340893): EFI Fuel Pump with Regulator for 2006 Yamaha YZF-R1 #5PW-13907-02-00. Supplied product details follow. Specifications and fitment Includes: - EFI Fuel Pump + Regulator Fits Models: - Yamaha YZF-R1 Model Years: - 2006 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This EFI Fuel Pump and Regulator is designed specifically for the 2006 Yamaha YZF-R1, ensuring optimal fuel delivery and performance for your motorcycle. It replaces the OEM part number #5PW-13907-02-00, providing a reliable solution for maintaining your bike's fuel system. Features: - Direct replacement for OEM part #5PW-13907-02-00 - Ensures consistent fuel pressure for optimal engine performance - Durable construction for long-lasting reliability - Easy installation for a hassle-free upgrade - Designed specifically for the 2006 Yamaha YZF-R1
-  Updated: 2026-09-17T20:29:29Z
+  Updated: 2026-10-31T22:36:31Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_675b5bd0-9ba4-4a98-a44d-92231a8ade55.webp?v=1788996726
   Price: $470.00 USD
 - [Pompa Repair Kit 75283-08A for 2008-2011 Harley-Davidson Sedia a Dondolo](https://usaautopartsdirect.com/products/pompa-repair-kit-75283-08a-for-harley-davidson-sedia-a-dondolo-20082011-168404097984): Pompa Repair Kit 75283-08A for 2008-2011 Harley-Davidson Sedia a Dondolo. Supplied product details follow. Specifications and fitment Includes: - Pompa Repair Kit 75283-08A Fits Models: - Harley-Davidson Sedia a Dondolo Model Years: - 2008–2011 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The Pompa Repair Kit 75283-08A is designed specifically for the Harley-Davidson Sedia a Dondolo models produced between 2008 and 2011. This kit includes all necessary components to restore the functionality of your pump, ensuring optimal performance and reliability. Features: - High-quality replacement parts - Easy installation process - Designed for durability and longevity - Compatible with specific Harley-Davidson models - Restores pump efficiency
-  Updated: 2026-09-17T20:29:30Z
+  Updated: 2026-10-31T23:43:49Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_c839c4c2-c01c-488b-b543-56aa9fd6a1a6.webp?v=1788996725
   Price: $240.00 USD
 - [Foot Pegs Footrests for Harley Sport Glide FLSB 2018-2025 Driver Rider](https://usaautopartsdirect.com/products/driver-rider-foot-pegs-footrests-for-harley-flsb-sport-glide-20182025-333870217758): Foot Pegs Footrests for Harley Sport Glide FLSB 2018-2025 Driver Rider. Supplied product details follow. Specifications and fitment Includes: - Driver Rider Foot Pegs Footrests Fits Models: - Harley-Davidson FLSB Sport Glide Model Years: - 2018–2025 Submodels: - FLSB, Softail Engine Options: - Compatible with standard engine options Description: Enhance your riding experience with these Driver Rider Foot Pegs Footrests designed specifically for the Harley-Davidson FLSB Sport Glide. These foot pegs provide comfort and stability, allowing for a more enjoyable ride on long journeys or short trips alike. Features: - Durable construction for long-lasting use - Ergonomic design for improved comfort - Easy installation with no modifications required - Sleek design that complements the bike's aesthetics - Provides secure footing for both rider and passenger
-  Updated: 2026-09-17T20:29:30Z
+  Updated: 2026-10-31T22:51:16Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -522,7 +522,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_049ac9ff-dfcf-4a3d-bfed-481976257196.webp?v=1788996725
   Price: $255.00 USD
 - [Fuel Pump, Regulator & Strainer for VZR1800 (2006-2024) 15100-48G11](https://usaautopartsdirect.com/products/qfs-efi-fuel-pump-regulator-strainer-for-suzuki-vzr1800-20062024-15100-48g11-168417012834): Fuel Pump, Regulator & Strainer for VZR1800 (2006-2024) 15100-48G11. Supplied product details follow. Specifications and fitment Includes: - QFS EFI Fuel Pump + Regulator + Strainer Fits Models: - Suzuki VZR1800 Model Years: - 2006–2024 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The QFS EFI Fuel Pump, Regulator, and Strainer is designed specifically for the Suzuki VZR1800, ensuring optimal fuel delivery and performance. This high-quality assembly includes a fuel pump, regulator, and strainer, providing a complete solution for maintaining your motorcycle's fuel system. Features: - Direct fit for Suzuki VZR1800 models from 2006 to 2024 - Ensures reliable fuel delivery and pressure regulation - Includes essential components for a complete installation - Durable construction for long-lasting performance - Easy installation with no modifications required Part Number: 15100-48G11
-  Updated: 2026-09-17T20:29:31Z
+  Updated: 2026-11-01T00:35:28Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -550,21 +550,21 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_08b52f2f-844f-4886-a01f-0c81e2f86d1d.webp?v=1788996736
   Price: $110.00 USD
 - [Center Console USB Storage Box for Honda Civic 2016-2019](https://usaautopartsdirect.com/products/center-console-storage-box-with-usb-ports-for-honda-civic-20162019-227391346765): Center Console USB Storage Box for Honda Civic 2016-2019. Supplied product details follow. Specifications and fitment Includes: - Center Console Storage Box with USB Ports Fits Models: - Honda Civic Model Years: - 2016–2019 Submodels: - LX, EX, EX-L, Touring, Si, Type R - Chassis Codes: FC1, FC3, FK7, FK8 - Body Styles: Sedan, Coupe, Hatchback Engine Options: - 2.0L I4 (L15B7), 1.5L I4 Turbo (L15B7), 2.0L I4 (K20C1 - Type R) Description: This Center Console Storage Box is designed specifically for the Honda Civic models from 2016 to 2019. It features integrated USB ports for convenient charging and connectivity, enhancing your driving experience. The storage box provides additional space for personal items, keeping your interior organized and clutter-free. Features: - Direct fit for Honda Civic 2016-2019 - Includes USB ports for easy device charging - Durable construction for long-lasting use - Enhances interior organization - Sleek design complements vehicle aesthetics
-  Updated: 2026-09-17T20:29:32Z
+  Updated: 2026-10-31T22:26:05Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_b862e37d-684b-46fd-ac44-1ba21642bdab.webp?v=1788996736
   Price: $155.00 USD
 - [Mirror Cap Covers - 2 Piece Set for Mazda CX30 (2020–2023)](https://usaautopartsdirect.com/products/2x-mirror-cap-covers-for-mazda-cx30-20202023-227391342575): Mirror Cap Covers - 2 Piece Set for Mazda CX30 (2020–2023). Supplied product details follow. Specifications and fitment Includes: - 2X Mirror Cap Covers Fits Models: - Mazda CX-30 Model Years: - 2020–2023 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: Enhance the appearance of your Mazda CX-30 with these stylish mirror cap covers. Designed specifically for the 2020 to 2023 model years, these covers provide a sleek look while protecting your mirrors from scratches and damage. Easy to install, they fit seamlessly over your existing mirror caps. Features: - Custom fit for Mazda CX-30 (2020–2023) - Durable material for long-lasting protection - Easy installation with no modifications required - Enhances vehicle aesthetics - Lightweight design
-  Updated: 2026-09-17T20:29:32Z
+  Updated: 2026-10-31T23:42:47Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_e5a5fc90-1305-47f3-b780-ad968cb49221.webp?v=1788996736
   Price: $225.00 USD
 - [Impeller Water Pump with Key for Yamaha 300 350 hp Outboard (2000–2023)](https://usaautopartsdirect.com/products/water-pump-impeller-with-key-for-yamaha-4-stroke-300-350-hp-outboard-20002023-205908318978): Impeller Water Pump with Key for Yamaha 300 350 hp Outboard (2000–2023). Supplied product details follow. Specifications and fitment Includes: - Water Pump Impeller with Key Fits Models: - Yamaha Outboard Motors Model Years: - 2000–2023 Submodels: - Applicable to various 4-stroke models, including F300, F350 Engine Options: - Common engine sizes include 300 hp and 350 hp 4-stroke engines Description: This water pump impeller with key is designed for Yamaha 4-stroke outboard motors, specifically models producing 300 and 350 horsepower. It ensures efficient water flow to cool the engine, preventing overheating and maintaining optimal performance. This part is essential for regular maintenance and should be replaced periodically to ensure the longevity of your outboard motor. Features: - High-quality construction for durability - Direct replacement for easy installation - Designed to fit Yamaha 4-stroke outboard engines - Ensures optimal cooling performance - Compatible with models from 2000 to 2023
-  Updated: 2026-09-17T20:29:33Z
+  Updated: 2026-11-01T00:16:04Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -578,7 +578,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_01b30c09-a184-47b8-b8ef-dc883a470982.webp?v=1788996735
   Price: $90.00 USD
 - [Flexible Impeller Kit for Inboard Motor Thronycroft 230/345/358/360](https://usaautopartsdirect.com/products/engine-flexible-impeller-kit-for-thronycroft-230345358360-inboard-motor-206330616747): Flexible Impeller Kit for Inboard Motor Thronycroft 230/345/358/360. Supplied product details follow. Specifications and fitment Includes: - Engine Flexible Impeller Kit Fits Models: - Thronycroft 230 - Thronycroft 345 - Thronycroft 358 - Thronycroft 360 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Engine Flexible Impeller Kit is designed specifically for Thronycroft inboard motors, including models 230, 345, 358, and 360. It ensures optimal performance and reliability by providing a flexible impeller that can withstand the demands of marine environments. Features: - High-quality construction for durability - Designed for easy installation - Ensures efficient water flow for engine cooling - Compatible with multiple Thronycroft models Part Number: Not specified
-  Updated: 2026-09-17T20:29:33Z
+  Updated: 2026-11-01T00:15:52Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -599,7 +599,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_8abf11ef-ce4d-420c-a1cf-1c590272cba3.webp?v=1788996736
   Price: $2,205.00 USD
 - [Fuel Pump and Regulator for Buell Firebolt Lightning XB9R XB12R 2008-2009](https://usaautopartsdirect.com/products/buell-fuel-pump-regulator-for-xb9r-xb12r-firebolt-lightning-20082009-168445253757): Fuel Pump and Regulator for Buell Firebolt Lightning XB9R XB12R 2008-2009. Supplied product details follow. Specifications and fitment Includes: - Buell Fuel Pump + Regulator Fits Models: - Buell XB9R Firebolt - Buell XB12R Firebolt - Buell XB9S Lightning - Buell XB12S Lightning Model Years: - 2008–2009 Submodels: - Firebolt, Lightning - Chassis codes: XB9, XB12 Engine Options: - 984cc V-twin (XB9) - 1203cc V-twin (XB12) Description: This Buell Fuel Pump and Regulator assembly is designed specifically for the XB9R and XB12R Firebolt and XB9S and XB12S Lightning models from 2008 to 2009. It ensures optimal fuel delivery and pressure regulation for your motorcycle's performance needs. Features: - Direct fit for 2008-2009 Buell models - Ensures consistent fuel pressure - Enhances engine performance - Durable construction for reliability - Easy installation
-  Updated: 2026-09-17T20:29:34Z
+  Updated: 2026-10-31T23:59:44Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -641,7 +641,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_e76a12d4-8d11-4281-8dd5-7df9d11b25d6.webp?v=1788996738
   Price: $870.00 USD
 - [Harley FXCW Softail 2008-2011 Fuel Pump, Regulator & Tank Seal Set](https://usaautopartsdirect.com/products/qfs-fuel-pump-regulator-tank-seal-for-harley-davidson-fxcw-softail-20082011-168426613625): Harley FXCW Softail 2008-2011 Fuel Pump, Regulator & Tank Seal Set. Supplied product details follow. Specifications and fitment Includes: - QFS Fuel Pump + Regulator + Tank Seal Fits Models: - Harley-Davidson FXCW Softail Model Years: - 2008–2011 Submodels: - Softail Custom, Chassis Code: FXCW, Body Style: Cruiser Engine Options: - 96 cubic inch (1,584 cc) V-Twin, Engine Code: TC96 Description: The QFS Fuel Pump + Regulator + Tank Seal is designed specifically for the Harley-Davidson FXCW Softail models from 2008 to 2011. This high-quality fuel pump and regulator assembly ensures optimal fuel delivery and pressure regulation, essential for maintaining engine performance. The included tank seal provides a secure fit, preventing leaks and ensuring reliability. Features: - Direct fit for 2008–2011 Harley-Davidson FXCW Softail - Includes fuel pump, regulator, and tank seal - Ensures optimal fuel delivery and pressure - Durable construction for long-lasting performance - Easy installation with no modifications required
-  Updated: 2026-09-17T20:29:36Z
+  Updated: 2026-10-31T22:51:20Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -676,7 +676,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_d05b3ea0-6d0b-439e-bfab-178b47545e91.webp?v=1788996737
   Price: $75.00 USD
 - [Sissy Bar Backrest Pad for Harley Touring Models](https://usaautopartsdirect.com/products/sissy-bar-backrest-pad-for-harley-touring-road-glide-fits-various-models-324576397119): Sissy Bar Backrest Pad for Harley Touring Models. Supplied product details follow. Specifications and fitment Includes: - Sissy Bar Backrest Pad Fits Models: - Harley-Davidson Touring, Road Glide Model Years: - Check fitment before purchase Submodels: - Common trims include Road Glide, Road Glide Special, Road Glide Ultra; chassis codes may include FLTR, FLTRX, FLTRU; body style is touring motorcycle Engine Options: - Compatible with standard engine options Description: This Sissy Bar Backrest Pad is designed specifically for Harley-Davidson Touring models, including the Road Glide. It provides additional comfort and support for passengers during long rides, enhancing the overall touring experience. The pad is crafted to fit securely and complement the aesthetic of your motorcycle. Features: - High-quality materials for durability - Enhanced comfort for passengers - Easy installation with no modifications required - Custom fit for various Harley Touring models - Sleek design that matches factory aesthetics
-  Updated: 2026-09-17T20:29:37Z
+  Updated: 2026-10-31T23:11:39Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -703,7 +703,7 @@
   Availability: Available
   Price: $475.00 USD
 - [Fuel Pump Assembly with Regulator & Seal for Honda CBR1000 (2004-2007)](https://usaautopartsdirect.com/products/qfs-intank-fuel-pump-regulator-tank-seal-for-honda-cbr1000-20042007-16700-mel-013-168426448031): Fuel Pump Assembly with Regulator & Seal for Honda CBR1000 (2004-2007). Supplied product details follow. Specifications and fitment Includes: - QFS Intank Fuel Pump + Regulator + Tank Seal Fits Models: - Honda CBR1000 Model Years: - 2004–2007 Submodels: - CBR1000RR, CBR1000R, CBR1000RR Fireblade Engine Options: - 999cc Inline-4 (engine code: CBR1000RR) Description: The QFS Intank Fuel Pump + Regulator + Tank Seal is designed specifically for the Honda CBR1000 models from 2004 to 2007. This high-quality fuel pump ensures optimal fuel delivery and pressure for your motorcycle, enhancing performance and reliability. The included tank seal helps prevent leaks, ensuring a secure fit within the fuel tank. Features: - Direct replacement for OEM part 16700-MEL-013 - Ensures consistent fuel pressure for optimal engine performance - Includes necessary tank seal for a secure installation - Designed for easy installation with no modifications required - Compatible with Honda CBR1000RR and related models Part Number: 16700-MEL-013
-  Updated: 2026-09-17T20:29:39Z
+  Updated: 2026-10-31T23:26:25Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -717,7 +717,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_ca5e9a5d-b440-477b-9f92-6ebfc4a5cb54.webp?v=1788996737
   Price: $740.00 USD
 - [Piston Rings for Massey Ferguson 565 675 575 Tractors](https://usaautopartsdirect.com/products/piston-ring-set-for-massey-ferguson-565-575-675-yyyyyyyy-202293140921): Piston Rings for Massey Ferguson 565 675 575 Tractors. Supplied product details follow. Specifications and fitment Includes: - Piston Ring Set Fits Models: - Massey Ferguson 565, 575, 675 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Common engine sizes include 3.0L (Massey Ferguson 575) and 4.4L (Massey Ferguson 675) Description: This Piston Ring Set is designed for use with Massey Ferguson models 565, 575, and 675. It ensures optimal engine performance by providing a reliable seal between the piston and cylinder wall, reducing oil consumption and improving compression. Features: - High-quality materials for durability - Precision-engineered for a perfect fit - Designed to enhance engine efficiency - Easy installation for quick repairs Part Number: Check fitment before purchase
-  Updated: 2026-09-17T20:29:39Z
+  Updated: 2026-11-01T00:10:33Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -759,14 +759,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_9bc9f83c-d948-447b-8b38-2f3236d59806.webp?v=1788996737
   Price: $120.00 USD
 - [Pump Fuel Lift for Massey Ferguson 6110 6130 6140 6150 6235 6245 6265](https://usaautopartsdirect.com/products/fuel-lift-pump-for-massey-ferguson-6110-6130-6140-6150-6235-6245-6265-19952005-198399810113): Pump Fuel Lift for Massey Ferguson 6110 6130 6140 6150 6235 6245 6265. Supplied product details follow. Specifications and fitment Includes: - Fuel Lift Pump Fits Models: - Massey Ferguson Model Years: - 1995–2005 Submodels: - 6110, 6130, 6140, 6150, 6235, 6245, 6265 Engine Options: - Compatible with standard engine options Description: This fuel lift pump is designed specifically for Massey Ferguson tractors, ensuring reliable fuel delivery for optimal engine performance. It is a direct replacement for the original pump, providing a seamless fit and function. Features: - High-quality construction for durability - Direct fit replacement for easy installation - Ensures efficient fuel delivery to the engine - Compatible with multiple Massey Ferguson models - Designed for long-lasting performance Part Number: Not specified
-  Updated: 2026-09-17T20:29:41Z
+  Updated: 2026-10-31T22:23:46Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_7d8224bc-824f-4ec2-923c-a5533312ea3e.webp?v=1788996738
   Price: $165.00 USD
 - [Short Stabiliser Bar for Massey Ferguson TEA20 FE35 TED20 TEF20 1950-1960](https://usaautopartsdirect.com/products/short-stabiliser-bar-for-massey-ferguson-tea20-ted20-tef20-fe35-19501960-198415197334): Short Stabiliser Bar for Massey Ferguson TEA20 FE35 TED20 TEF20 1950-1960. Supplied product details follow. Specifications and fitment Includes: - Short Stabiliser Bar Fits Models: - Massey Ferguson TEA20, TED20, TEF20, FE35 Model Years: - 1950–1960 Submodels: - TEA20, TED20, TEF20, FE35 Engine Options: - Compatible with standard engine options Description: This Short Stabiliser Bar is designed for use with Massey Ferguson models TEA20, TED20, TEF20, and FE35 produced between 1950 and 1960. It helps maintain stability and control, enhancing the performance of your tractor during operation. Features: - Durable construction for long-lasting use - Designed for specific Massey Ferguson models - Improves handling and stability - Easy to install with standard tools - Ensures optimal performance of your tractor Part Number: Not specified
-  Updated: 2026-09-17T20:29:41Z
+  Updated: 2026-10-31T23:19:30Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -801,7 +801,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_6081b8a5-f147-45d2-88d3-fea6ddd0f018.webp?v=1788996737
   Price: $95.00 USD
 - [Main Bearing Set for John Deere Models 2020, 2030, 2120, 2130](https://usaautopartsdirect.com/products/main-bearing-set-for-john-deere-2020-2120-2030-2130-yyyyyyyy-198329399095): Main Bearing Set for John Deere Models 2020, 2030, 2120, 2130. Supplied product details follow. Specifications and fitment Includes: - Main Bearing Set Fits Models: - John Deere 2020, 2120, 2030, 2130 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Common engine sizes include 3.0L (301 ci) and 4.0L (403 ci) diesel engines Description: This Main Bearing Set is designed for use in John Deere tractors, specifically the 2020, 2120, 2030, and 2130 models. It ensures optimal engine performance and longevity by providing a reliable fit and high-quality materials. Features: - Precision-engineered for a perfect fit - Durable construction for long-lasting performance - Designed to meet or exceed OEM specifications - Ideal for engine rebuilds and maintenance - Ensures smooth operation of engine components
-  Updated: 2026-09-17T20:29:43Z
+  Updated: 2026-10-31T23:45:16Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -815,14 +815,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_8e3bd747-961a-403f-99ec-72db22de9c5c.webp?v=1788996738
   Price: $140.00 USD
 - [Hi Low Gear Shift Knob for Fordson Dexta Series 2000 3000 4000 5000](https://usaautopartsdirect.com/products/hi-low-gear-lever-knob-for-fordson-dexta-super-dexta-2000-3000-4000-5000-198146834227): Hi Low Gear Shift Knob for Fordson Dexta Series 2000 3000 4000 5000. Supplied product details follow. Specifications and fitment Includes: - Hi Low Gear Lever Knob Fits Models: - Fordson Dexta, Fordson Super Dexta, Ford 2000, Ford 3000, Ford 4000, Ford 5000 Model Years: - Check fitment before purchase Submodels: - Common trims include Dexta, Super Dexta; body styles are utility tractors Engine Options: - Compatible with standard engine options Description: This Hi Low Gear Lever Knob is designed specifically for Fordson Dexta and Super Dexta tractors, as well as Ford 2000, 3000, 4000, and 5000 models. It provides a reliable replacement for worn or damaged gear knobs, ensuring smooth operation of the gear shifting mechanism. Features: - Durable construction for long-lasting use - Easy installation with no special tools required - Designed for a precise fit on specified Fordson and Ford tractor models - Enhances the functionality of your tractor's gear system - Ergonomic design for comfortable handling
-  Updated: 2026-09-17T20:29:43Z
+  Updated: 2026-10-31T23:42:33Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_aff9b8d9-3cd6-4fda-86dd-d739d5e85d9b.webp?v=1788996739
   Price: $85.00 USD
 - [Large Color Display FM Transmitter Handsfree Car Music Player](https://usaautopartsdirect.com/products/fm-transmitter-handsfree-car-music-player-with-large-color-display-for-make-model-yyyyyyyy-227383751828): Large Color Display FM Transmitter Handsfree Car Music Player. Supplied product details follow. Specifications and fitment Includes: - FM Transmitter Handsfree Car Music Player with Large Color Display Fits Models: - Universal / check fitment before purchase Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: The FM Transmitter Handsfree Car Music Player is designed to enhance your in-car audio experience. Featuring a large color display, this device allows for easy navigation and control of your music. It connects seamlessly to your smartphone or other devices, enabling hands-free calls and streaming your favorite tunes through your car's FM radio. Features: - Large color display for easy visibility - Hands-free calling functionality - Supports Bluetooth connectivity for music streaming - Compatible with various devices - Simple installation and user-friendly interface
-  Updated: 2026-09-17T20:29:44Z
+  Updated: 2026-11-01T02:23:49Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -850,7 +850,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_4eed6f0e-ae32-4208-b433-d55498471ce3.webp?v=1788996738
   Price: $85.00 USD
 - [Guard Swingarm for Husqvarna 701 Enduro (2017–2024)](https://usaautopartsdirect.com/products/nicecnc-swingarm-guard-for-husqvarna-701-enduro-20172024-256984188730): Guard Swingarm for Husqvarna 701 Enduro (2017–2024). Supplied product details follow. Specifications and fitment Includes: - NICECNC Swingarm Guard Fits Models: - Husqvarna 701 Enduro Model Years: - 2017–2024 Submodels: - 701 Enduro, Chassis Code: 701, Body Style: Dual-Sport Engine Options: - 693cc Single-cylinder, Engine Code: 701 Description: The NICECNC Swingarm Guard is designed specifically for the Husqvarna 701 Enduro models from 2017 to 2024. This guard provides essential protection for the swingarm against debris and impacts, enhancing the durability and longevity of your motorcycle's components. Features: - High-quality aluminum construction for strength and durability - Lightweight design to minimize added weight - Easy installation with no modifications required - Custom fit for Husqvarna 701 Enduro models - Sleek design that complements the motorcycle's aesthetics
-  Updated: 2026-09-17T20:29:45Z
+  Updated: 2026-10-31T23:42:57Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -885,7 +885,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_f484227a-7e6f-486f-bd18-2fcd5a2a8799.webp?v=1788996738
   Price: $170.00 USD
 - [Handlebar Riser for KTM 790, 1090, 1190, 1290 Super Adventure (2018–2023)](https://usaautopartsdirect.com/products/handlebar-riser-for-ktm-690-enduro-r-790-1090-1190-1290-super-adventure-20182023-256982672631): Handlebar Riser for KTM 790, 1090, 1190, 1290 Super Adventure (2018–2023). Supplied product details follow. Specifications and fitment Includes: - Handlebar Riser Fits Models: - KTM 690 Enduro R - KTM 790 Adventure - KTM 1090 Adventure - KTM 1190 Adventure - KTM 1290 Super Adventure Model Years: - 2018–2023 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This handlebar riser is designed to enhance the riding comfort and control of your KTM motorcycle. By raising the handlebars, it allows for a more upright riding position, reducing strain on the back and arms during long rides. Features: - Improves rider ergonomics and comfort - Durable construction for long-lasting use - Easy installation with no modifications required - Compatible with various KTM adventure models - Lightweight design for minimal impact on handling
-  Updated: 2026-09-17T20:29:47Z
+  Updated: 2026-11-01T02:38:36Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -906,7 +906,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_c976e781-5e90-4692-9ba2-7774d2228b37.webp?v=1788996738
   Price: $90.00 USD
 - [Oil Filler Cap Compatible with John Deere 6110 6210 6310 6410 6610 6810 6910](https://usaautopartsdirect.com/products/oil-filler-cap-for-john-deere-6110-6210-6310-6410-6610-6810-6910-20002023-198280044844): Oil Filler Cap Compatible with John Deere 6110 6210 6310 6410 6610 6810 6910. Supplied product details follow. Specifications and fitment Includes: - Oil Filler Cap Fits Models: - John Deere 6110, 6210, 6310, 6410, 6610, 6810, 6910 Model Years: - 2000–2023 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Oil Filler Cap is designed for John Deere tractors including models 6110, 6210, 6310, 6410, 6610, 6810, and 6910 produced from 2000 to 2023. It ensures a secure seal to prevent oil leaks and contamination, maintaining optimal engine performance. Features: - Durable construction for long-lasting use - Easy installation with a secure fit - Designed to meet OEM specifications - Prevents oil leaks and protects engine integrity - Compatible with a range of John Deere models Part Number: Not specified
-  Updated: 2026-09-17T20:29:48Z
+  Updated: 2026-10-31T23:52:12Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -927,7 +927,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_1497484f-7399-4a77-aab7-908da7f11542.webp?v=1788996738
   Price: $70.00 USD
 - [CNC Upper Mount for GPS on KTM 390/790/890 Adventure 2019-2022](https://usaautopartsdirect.com/products/cnc-upper-gps-mount-holder-for-ktm-390790890-adventure-20192022-256918880405): CNC Upper Mount for GPS on KTM 390/790/890 Adventure 2019-2022. Supplied product details follow. Specifications and fitment Includes: - CNC Upper GPS Mount Holder Fits Models: - KTM 390 Adventure - KTM 790 Adventure - KTM 890 Adventure Model Years: - 2019–2022 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This CNC Upper GPS Mount Holder is designed specifically for KTM Adventure models, providing a secure and convenient location for your GPS device. Crafted from high-quality materials, it ensures durability and stability during rides, enhancing your navigation experience on and off-road. Features: - Precision CNC machined for a perfect fit - Lightweight yet robust construction - Easy installation with no modifications required - Designed to withstand rugged conditions - Compatible with various GPS devices
-  Updated: 2026-09-17T20:29:49Z
+  Updated: 2026-10-31T23:42:35Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -983,7 +983,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_87220bf4-5808-4d6d-ba40-21bcd3cba0b4.webp?v=1788996738
   Price: $190.00 USD
 - [Anodized Air Filter Box Cover for 2020–2024 Yamaha Tenere 700](https://usaautopartsdirect.com/products/anodized-air-filter-box-cover-for-yamaha-tenere-700-20202024-256260996411): Anodized Air Filter Box Cover for 2020–2024 Yamaha Tenere 700. Supplied product details follow. Specifications and fitment Includes: - Anodized Air Filter Box Cover Fits Models: - Yamaha Tenere 700 Model Years: - 2020–2024 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: Enhance the look and performance of your Yamaha Tenere 700 with this anodized air filter box cover. Designed specifically for the 2020 to 2024 model years, this cover not only adds a stylish touch but also helps protect the air filter from debris and contaminants. Features: - Durable anodized finish for corrosion resistance - Precision fit for easy installation - Lightweight design to reduce overall weight - Enhances engine aesthetics - Compatible with factory air filter systems
-  Updated: 2026-09-17T20:29:51Z
+  Updated: 2026-11-01T02:38:37Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1025,7 +1025,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_5f130137-35e5-429d-aea1-e5cce4d5257c.webp?v=1788996740
   Price: $60.00 USD
 - [Engine Kill Switch CNC Starter for Honda CRF230F XR650L 1993-2023](https://usaautopartsdirect.com/products/cnc-engine-kill-switch-starter-for-honda-xr650l-crf230f-cr-crf-ct-xl-19932023-255671290208): Engine Kill Switch CNC Starter for Honda CRF230F XR650L 1993-2023. Supplied product details follow. Specifications and fitment Includes: - CNC Engine Kill Switch Starter Fits Models: - Honda XR650L - Honda CRF230F - Honda CR - Honda CRF - Honda CT - Honda XL Model Years: - 1993–2023 Submodels: - XR650L, CRF230F, CRF150, CRF250, CT90, CT110, XL600, XL650 Engine Options: - Compatible with standard engine options Description: This CNC Engine Kill Switch Starter is designed for various Honda motorcycles, providing a reliable and efficient way to manage engine shutdown. Its durable construction ensures longevity and performance, making it an essential component for off-road and street riding. Features: - High-quality CNC machined construction - Direct replacement for easy installation - Compatible with multiple Honda models - Enhances safety by allowing quick engine shutdown - Lightweight and compact design
-  Updated: 2026-09-17T20:29:53Z
+  Updated: 2026-10-31T23:52:21Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1039,7 +1039,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_c0f73265-0d8d-433f-ab8b-c016c15954c1.webp?v=1788996739
   Price: $80.00 USD
 - [CNC Oil Filler Plug Cap for KTM 790 Duke 2018-2022, 890 Duke R 2020-2022](https://usaautopartsdirect.com/products/cnc-engine-oil-filler-plug-cap-for-ktm-790-duke-2018-2022-890-duke-r-2020-2022-255381498002): CNC Oil Filler Plug Cap for KTM 790 Duke 2018-2022, 890 Duke R 2020-2022. Supplied product details follow. Specifications and fitment Includes: - CNC Engine Oil Filler Plug Cap Fits Models: - KTM 790 Duke - KTM 890 Duke R Model Years: - 2018-2022 Submodels: - 790 Duke, 890 Duke R Engine Options: - 799cc Parallel Twin (790 Duke) - 889cc Parallel Twin (890 Duke R) Description: This CNC Engine Oil Filler Plug Cap is designed specifically for KTM 790 Duke and 890 Duke R models, ensuring a precise fit and optimal performance. Crafted from high-quality materials, this oil filler cap enhances the aesthetics of your motorcycle while providing a secure seal to prevent oil leaks. Features: - Precision CNC machined for a perfect fit - Durable construction for long-lasting performance - Lightweight design to reduce overall weight - Easy installation with no modifications required - Enhances the look of your motorcycle's engine bay
-  Updated: 2026-09-17T20:29:54Z
+  Updated: 2026-10-31T23:42:35Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1053,14 +1053,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_aed8de97-6e87-4303-80d0-dca20c06c47f.webp?v=1788996746
   Price: $75.00 USD
 - [Ignition Switch for John Deere 1030 1130 1630 2030 2130 3030](https://usaautopartsdirect.com/products/ignition-switch-for-john-deere-1030-1130-1630-2030-2130-3030-3130-19701980-198111434003): Ignition Switch for John Deere 1030 1130 1630 2030 2130 3030. Supplied product details follow. Specifications and fitment Includes: - Ignition Switch Fits Models: - John Deere 1030, 1130, 1630, 2030, 2130, 3030, 3130 Model Years: - 1970–1980 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This ignition switch is designed for use in John Deere tractors, specifically models 1030, 1130, 1630, 2030, 2130, 3030, and 3130 produced between 1970 and 1980. It ensures reliable starting and operation of your tractor's electrical system. Features: - Direct replacement for original equipment - Durable construction for long-lasting performance - Easy installation with no modifications required - Ensures proper electrical connectivity - Designed to withstand harsh working conditions
-  Updated: 2026-09-17T20:29:54Z
+  Updated: 2026-10-31T23:26:31Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_c3e78f5b-032a-4ea1-a97a-d907982b8594.webp?v=1788996748
   Price: $155.00 USD
 - [Front Right Grille for Land Rover Range Rover L405 (2013-2017)](https://usaautopartsdirect.com/products/1pc-front-right-bumper-grille-for-land-rover-range-rover-l405-20132017-327237684132): Front Right Grille for Land Rover Range Rover L405 (2013-2017). Supplied product details follow. Specifications and fitment Includes: - 1PC Front Right Bumper Grille Fits Models: - Land Rover Range Rover Model Years: - 2013–2017 Submodels: - L405, Vogue, Autobiography, Sport, HSE, Supercharged Engine Options: - 3.0L V6 Supercharged (AJ126), 5.0L V8 Supercharged (AJ133), 4.4L V8 Diesel (TDV8) Description: This front right bumper grille is designed specifically for the Land Rover Range Rover L405 models from 2013 to 2017. It provides a perfect fit and enhances the vehicle's front-end aesthetics while ensuring optimal airflow to the engine compartment. Features: - Direct replacement for the original grille - Durable construction for long-lasting performance - Designed for easy installation - Enhances vehicle appearance - Compatible with various trims of the L405 Range Rover Part Number: Not provided
-  Updated: 2026-09-17T20:29:55Z
+  Updated: 2026-10-31T23:52:22Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1088,7 +1088,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_0a6e2a1f-f318-42d1-a494-6edaaf76c9a6.webp?v=1788996747
   Price: $260.00 USD
 - [Pickup Hitch Cable 8160 8260 8360 for Ford New Holland (1990-1999)](https://usaautopartsdirect.com/products/pickup-hitch-cable-for-ford-new-holland-8160-8260-8360-19901999-198105564405): Pickup Hitch Cable 8160 8260 8360 for Ford New Holland (1990-1999). Supplied product details follow. Specifications and fitment Includes: - Pickup Hitch Cable Fits Models: - Ford New Holland Model Years: - 1990–1999 Submodels: - 8160, 8260, 8360 Engine Options: - Compatible with standard engine options Description: This Pickup Hitch Cable is designed specifically for Ford New Holland tractors, ensuring a reliable connection for towing and hitching applications. Constructed for durability and performance, it is an essential component for maintaining the functionality of your tractor's hitch system. Features: - Direct fit for Ford New Holland models 8160, 8260, and 8360 - High-quality materials for enhanced durability - Easy installation with no modifications required - Designed to withstand heavy-duty use - Ensures secure towing and hitching capabilities
-  Updated: 2026-09-17T20:29:56Z
+  Updated: 2026-10-31T22:23:49Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1116,7 +1116,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_02855ec1-b821-444b-ac53-e388ad7bee91.webp?v=1788996747
   Price: $40.00 USD
 - [Door Lock Cable for New Holland TM Series Models TM120-TM175 (1999-2008)](https://usaautopartsdirect.com/products/door-lock-cable-for-new-holland-tm120-tm130-tm135-tm140-tm150-tm155-tm165-tm175-19992008-197877829396): Door Lock Cable for New Holland TM Series Models TM120-TM175 (1999-2008). Supplied product details follow. Specifications and fitment Includes: - Door Lock Cable Fits Models: - New Holland TM120, TM130, TM135, TM140, TM150, TM155, TM165, TM175 Model Years: - 1999–2008 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Door Lock Cable is designed specifically for New Holland TM series tractors, ensuring reliable operation for models TM120 through TM175 produced between 1999 and 2008. It is a direct replacement part that helps maintain the functionality of your tractor's door locking mechanism. Features: - Direct fit for New Holland TM series tractors - Durable construction for long-lasting performance - Easy installation to restore door lock functionality - Designed for models TM120, TM130, TM135, TM140, TM150, TM155, TM165, TM175 - Compatible with standard engine options
-  Updated: 2026-09-17T20:29:57Z
+  Updated: 2026-10-31T23:11:41Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1130,14 +1130,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_d34f6bf1-5cb8-454b-944a-9de2160c789a.webp?v=1788996748
   Price: $230.00 USD
 - [Fuel Pump Primer for Case IH 495 595 695 795 895 995 (1990-2000)](https://usaautopartsdirect.com/products/fuel-primer-pump-for-case-ih-495-595-695-795-895-995-19902000-197350787616): Fuel Pump Primer for Case IH 495 595 695 795 895 995 (1990-2000). Supplied product details follow. Specifications and fitment Includes: - Fuel Primer Pump Fits Models: - Case IH 495, 595, 695, 795, 895, 995 Model Years: - 1990–2000 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Fuel Primer Pump is designed specifically for Case IH tractors, ensuring reliable fuel delivery for optimal engine performance. It is a crucial component for starting the engine, particularly in cold weather or after long periods of inactivity. Features: - Direct replacement for original equipment - Enhances fuel system efficiency - Durable construction for long-lasting use - Easy installation with standard tools - Compatible with a range of Case IH models from 1990 to 2000
-  Updated: 2026-09-17T20:29:58Z
+  Updated: 2026-10-31T22:46:53Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_f8a721e6-c326-4ba2-97dd-09db2e1797c0.webp?v=1788996748
   Price: $165.00 USD
 - [Decal Set for Ford 5610 Tractor (Early Model with Cab)](https://usaautopartsdirect.com/products/decal-set-for-ford-5610-tractor-with-cab-early-197291205363): Decal Set for Ford 5610 Tractor (Early Model with Cab). Supplied product details follow. Specifications and fitment Includes: - Decal Set for Ford 5610 Tractor with Cab (Early) Fits Models: - Ford 5610 Tractor Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This decal set is specifically designed for the Ford 5610 tractor, particularly models equipped with a cab. The decals are essential for maintaining the original appearance and ensuring proper identification of the tractor's features. Features: - High-quality vinyl material for durability - Easy to apply with adhesive backing - Accurate reproduction of original factory decals - Weather-resistant for long-lasting use - Designed for early models of the Ford 5610 tractor
-  Updated: 2026-09-17T20:29:58Z
+  Updated: 2026-10-31T23:25:53Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1151,14 +1151,14 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_3bcc9ae2-901f-418e-9e28-0f19ebe136bc.webp?v=1788996748
   Price: $90.00 USD
 - [Exhaust Gasket for Elbow on Massey Ferguson 165 168 175 178 185 188 (1964–1985)](https://usaautopartsdirect.com/products/exhaust-elbow-gasket-for-massey-ferguson-165-168-175-178-185-188-19641985-197843082430): Exhaust Gasket for Elbow on Massey Ferguson 165 168 175 178 185 188 (1964–1985). Supplied product details follow. Specifications and fitment Includes: - Exhaust Elbow Gasket Fits Models: - Massey Ferguson 165 - Massey Ferguson 168 - Massey Ferguson 175 - Massey Ferguson 178 - Massey Ferguson 185 - Massey Ferguson 188 Model Years: - 1964–1985 Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This Exhaust Elbow Gasket is designed for various Massey Ferguson models, ensuring a reliable seal between the exhaust elbow and the engine. It is essential for maintaining optimal exhaust flow and preventing leaks, which can lead to performance issues. Features: - High-quality material for durability - Precision fit for easy installation - Designed to withstand high temperatures - Reduces exhaust leaks and improves engine efficiency - Compatible with multiple Massey Ferguson models Part Number: Not specified
-  Updated: 2026-09-17T20:29:58Z
+  Updated: 2026-10-31T22:26:12Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_8fe4e992-8702-4263-9314-fad8335e34a7.webp?v=1788996748
   Price: $35.00 USD
 - [Decal Set for Tractors David Brown 990](https://usaautopartsdirect.com/products/decal-set-for-david-brown-990-tractors-no-year-specified-196940118576): Decal Set for Tractors David Brown 990. Supplied product details follow. Specifications and fitment Includes: - Decal Set for David Brown 990 Tractors Fits Models: - David Brown 990 Model Years: - Check fitment before purchase Submodels: - Applies to listed models Engine Options: - Compatible with standard engine options Description: This decal set is specifically designed for David Brown 990 tractors, providing an authentic restoration option for enthusiasts and collectors. The decals are crafted to match the original specifications, ensuring a perfect fit and appearance for your tractor. Features: - High-quality vinyl material for durability - Easy to apply with adhesive backing - Accurate reproduction of original decals - Weather-resistant for long-lasting use - Ideal for restoration projects Part Number: Not specified
-  Updated: 2026-09-17T20:29:59Z
+  Updated: 2026-10-31T23:25:40Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1172,7 +1172,7 @@
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_a7695bd1-f855-4515-a00f-9ae0fcf26c12.webp?v=1788996748
   Price: $510.00 USD
 - [4 Dynamics ID1050-XDS Fuel Injectors for 2001-2003 Toyota Matrix](https://usaautopartsdirect.com/products/set-of-4-dynamics-id1050-xds-injectors-for-toyota-matrix-20012003-11mm-10506011d4-188545405371): 4 Dynamics ID1050-XDS Fuel Injectors for 2001-2003 Toyota Matrix. Supplied product details follow. Specifications and fitment Includes: - Set of 4 Dynamics ID1050-XDS Injectors Fits Models: - Toyota Matrix Model Years: - 2001–2003 Submodels: - Base, XR, XRS - Chassis Code: E140 - Body Style: Hatchback Engine Options: - 1.8L 1ZZ-FE Description: This set of 4 Dynamics ID1050-XDS fuel injectors is designed specifically for the Toyota Matrix from 2001 to 2003. These high-performance injectors provide improved fuel delivery and efficiency, making them an excellent upgrade for enthusiasts seeking enhanced engine performance. Features: - Direct fit for 2001-2003 Toyota Matrix - 11mm diameter for easy installation - High flow rate of 1050cc/min - Precision-engineered for optimal performance - Ideal for modified engines or performance applications Part Number: 1050.60.11.D.4
-  Updated: 2026-09-17T20:29:59Z
+  Updated: 2026-10-31T23:11:42Z
   Vendor: Usa Autoparts Direct
   Product Type: 
   Availability: Available
@@ -1248,14 +1248,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_9d210584-cfd7-4022-a070-7815f5b67030.webp?v=1788996749
   Price: $460.00 USD
-- [4-Pack ID1300-XDS Fuel Injectors for 1994-2005 Mazda Miata](https://usaautopartsdirect.com/products/set-of-4-id1300-xds-fuel-injectors-for-1994-2005-mazda-miata-1300110260114-188486147440): 4-Pack ID1300-XDS Fuel Injectors for 1994-2005 Mazda Miata. Supplied product details follow. Specifications and fitment Includes: - Set of 4 ID1300-XDS Fuel Injectors Fits Models: - Mazda Miata Model Years: - 1994-2005 Submodels: - NA (1990-1997), NB (1998-2005) Engine Options: - 1.8L I4 (BP-Z3), 1.6L I4 (B6-ZE) Description: This set of 4 ID1300-XDS fuel injectors is designed specifically for the Mazda Miata models from 1994 to 2005. These high-performance injectors provide improved fuel delivery and atomization, making them ideal for both street and track applications. The ID1300-XDS injectors are engineered to support high horsepower builds, ensuring optimal performance and efficiency. Features: - High-flow design for enhanced performance - Direct fit for 1994-2005 Mazda Miata - Improved fuel atomization for better combustion - Suitable for both naturally aspirated and turbocharged applications - Durable construction for long-lasting reliability Part Number: 1300.11.02.60.11.4
-  Updated: 2026-09-17T20:30:03Z
-  Vendor: Usa Autoparts Direct
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0748/5961/0200/files/s-l1600_f21653de-17c5-4b00-81ab-40aab1c1177f.webp?v=1788996749
-  Price: $3,355.00 USD
-[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MDY4NzYwLCJsYXN0X3ZhbHVlIjoiODk3MzMzNTA2ODc2MCJ9)
+[List Continued](https://usaautopartsdirect.com/a/llms-agent/llms.txt?shop=fg6grr-b1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4OTczMzM1MDM1OTkyLCJsYXN0X3ZhbHVlIjoiODk3MzMzNTAzNTk5MiJ9)
 
 ## Collections
 
@@ -1263,8 +1256,8 @@
   Updated: 2026-10-02T02:32:46Z
   Total Products: 0
 - [master](https://usaautopartsdirect.com/collections/master)
-  Updated: 2026-10-31T00:57:09Z
-  Total Products: 1859556
+  Updated: 2026-11-07T12:22:15Z
+  Total Products: 1859784
 
 ## Blogs
 
@@ -1366,6 +1359,18 @@
     Author: USA Auto Parts Direct
   - [Top 5 Aftermarket Auto Parts that Elevate Your Vehicle Performance](https://usaautopartsdirect.com/blogs/news/top-5-aftermarket-auto-parts-that-elevate-your-vehicle-performance): Top 5 Aftermarket Auto Parts that Elevate Your Vehicle Performance
     Updated: 2026-10-30T00:04:09Z
+    Author: USA Auto Parts Direct
+  - [How to Choose the Right Auto Accessories for Your Adventure Vehicle](https://usaautopartsdirect.com/blogs/news/how-to-choose-the-right-auto-accessories-for-your-adventure-vehicle): How to Choose the Right Auto Accessories for Your Adventure Vehicle
+    Updated: 2026-11-01T00:08:28Z
+    Author: USA Auto Parts Direct
+  - [The Surprising Benefits of Buying Replacement Auto Parts Online](https://usaautopartsdirect.com/blogs/news/the-surprising-benefits-of-buying-replacement-auto-parts-online): The Surprising Benefits of Buying Replacement Auto Parts Online
+    Updated: 2026-11-02T01:11:33Z
+    Author: USA Auto Parts Direct
+  - [Truck Parts that Every Heavy-Duty Driver Must Have in 2026](https://usaautopartsdirect.com/blogs/news/truck-parts-that-every-heavy-duty-driver-must-have-in-2026): Truck Parts that Every Heavy-Duty Driver Must Have in 2026
+    Updated: 2026-11-06T00:04:29Z
+    Author: USA Auto Parts Direct
+  - [Exploring OEM Replacement Parts: Performance and Affordability Uncovered](https://usaautopartsdirect.com/blogs/news/exploring-oem-replacement-parts-performance-and-affordability-uncovered): Exploring OEM Replacement Parts: Performance and Affordability Uncovered
+    Updated: 2026-11-08T00:08:51Z
     Author: USA Auto Parts Direct
 
 ## Store Pages
