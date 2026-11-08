@@ -6,7 +6,7 @@
 - Timezone: America/Halifax
 - Created At: 2023-03-08T15:01:41Z
 - Contact Email: info@cheetals.com
-- Updated At: 2026-10-31T01:11:50.286Z
+- Updated At: 2026-11-08T00:56:17.974Z
 
 ## Products
 
@@ -137,6 +137,14 @@
     Updated: 2026-10-29T12:01:10Z
     Author: CHEETALS
     Tags: buying a home checklist, due diligence, first time home buyers, first-time buyer tips, home buyer, home buyer due-diligence, , mortgage, passive income, property inspection, real estate
+  - [Generating Passive Income: Real Estate Tips for First-Timers](https://cheetals.com/blogs/news/generating-passive-income-real-estate-tips-for-first-timers): Generating Passive Income: Real Estate Tips for First-Timers
+    Updated: 2026-11-03T12:01:04Z
+    Author: CHEETALS
+    Tags: earning through real estate, first time home buyers, home buyer due-diligence, income, money, passive income, passive investing, property management, real estate, rental properties, tips for beginners
+  - [Mastering Home Purchases: Key Due Diligence Points for New Buyers](https://cheetals.com/blogs/news/mastering-home-purchases-key-due-diligence-points-for-new-buyers): Mastering Home Purchases: Key Due Diligence Points for New Buyers
+    Updated: 2026-11-05T12:01:29Z
+    Author: CHEETALS
+    Tags: cash flow, due diligence tips, first time home buyers, first-time home buyer checklist, home buyer due-diligence, home buying guide,  properties, passive income, passive income strategies, real estate, smart real estate investments
 
 ## Store Pages
 
