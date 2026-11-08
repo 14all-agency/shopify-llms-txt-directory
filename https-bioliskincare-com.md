@@ -12,7 +12,7 @@ Beyond its products, Bioli publishes Bionotes, an educational knowledge hub feat
 - Timezone: Europe/Copenhagen
 - Created At: 2022-01-14T11:41:51Z
 - Contact Email: info@bioliskincare.com
-- Updated At: 2026-10-31T00:17:48.863Z
+- Updated At: 2026-11-08T00:18:26.774Z
 
 Bioli is a Danish biotech skincare company founded in 2021. Our mission is to improve skin health while minimizing environmental impact through biotechnology.
 
@@ -33,7 +33,7 @@ https://bioliskincare.com/blogs/bionotes
 ## Products
 
 - [Moisturizing and Protecting Day Cream – Antioxidant & 8hr Moisture | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream): Gift set with Bioli's gentle face cream and a soft facial towel. Fragrance-free, unisex skincare for healthy skin, with 8-hour moisturization and antioxidant protection. In a beautiful gift box. 100% biodegradable packaging
-  Updated: 2026-10-30T23:01:23Z
+  Updated: 2026-11-06T22:16:11Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -47,14 +47,14 @@ https://bioliskincare.com/blogs/bionotes
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-facial-towel-sensitive-skin-soft.png?v=1780754115
   Price: kr 549.00 DKK
 - [Strengthening Serum – Silky soft for a healthy skin | Bioli](https://bioliskincare.com/products/strengthening-serum): Silky-smooth serum filled with bioactives to provide protection, soothe, and support the skin barrier. Leaves skin strong and resilient. 100% biodegradable packaging.
-  Updated: 2026-10-30T20:14:55Z
+  Updated: 2026-11-07T20:31:22Z
   Vendor: Bioli
   Product Type: Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/bioli-skincare-strengthening_serum-30ml-grey-background.jpg?v=1776617996
   Price: kr 625.00 DKK
 - [Clarifying Cleanser and Exfoliator – 2-in-1 for all skin types | Bioli](https://bioliskincare.com/products/clarifying-cleanser-and-exfoliator): A velvety 2-in-1 gel cleanser that gently cleanses and moisturizes. When left on the skin for longer, it also exfoliates. Leaves skin clean, soft and refreshed. 100% biodegradable packaging.
-  Updated: 2026-10-30T23:01:39Z
+  Updated: 2026-11-06T22:16:06Z
   Vendor: Bioli
   Product Type: Cleanser
   Availability: Available
@@ -102,8 +102,8 @@ https://bioliskincare.com/blogs/bionotes
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0568/2672/4492/files/Serum_DayCream.png?v=1780747700
   Price: kr 999.00 DKK
-- [Moisturizing and Protecting Day Cream – 2 FOR 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): 2 FOR 1  on Bioli's most-loved day cream with 8-hour hydration and high antioxidant protection. Calms even the most sensitive skin. 100% biodegradable packaging.
-  Updated: 2026-10-12T15:55:10Z
+- [Black Friday skincare  – 2 Face Creams for 1 | Bioli](https://bioliskincare.com/products/moisturizing-and-protecting-day-cream-): Discover Bioli's Black Friday skincare . Get two fragrance-free Moisturizing and Protecting Day Creams for the price of one. Danish biotech skincare for all skin types including sensitive skin. While stocks last.
+  Updated: 2026-11-04T19:45:16Z
   Vendor: Bioli
   Product Type: Day cream
   Availability: Available
@@ -130,7 +130,7 @@ https://bioliskincare.com/blogs/bionotes
   Updated: 2026-10-22T07:56:15Z
   Total Products: 4
 - [Bioli Products](https://bioliskincare.com/collections/bioli-products): Everyday biotech skincare with targeted efficacy and silky textures. Fragrance-free, dermatologically , made in Denmark. 100% biodegradable packaging.
-  Updated: 2026-10-30T11:09:56Z
+  Updated: 2026-11-07T12:11:28Z
   Total Products: 3
 - [Routine Sets](https://bioliskincare.com/collections/routine-sets): Complete daily skincare routines with bioactive enzyme technology. Gentle, effective, and eco-friendly.
   Updated: 2026-10-24T11:06:07Z
