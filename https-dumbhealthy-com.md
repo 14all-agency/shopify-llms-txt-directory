@@ -5,7 +5,7 @@
 - Currency: USD
 - Timezone: America/New_York
 - Created At: 2023-01-10T17:18:42Z
-- Updated At: 2026-10-31T00:22:13.009Z
+- Updated At: 2026-11-08T00:20:00.303Z
 
 ## Products
 
@@ -2774,37 +2774,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/f9f78bbdecf6486dbd60abb81492dd9d.png?v=1785688249
     Price: $37.16 USD
-- [Weber x Dumb Healthy Snow Washed Oversized Cotton T-Shirt](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt): Weber x Dumb Healthy Snow Washed Oversized Cotton T-Shirt — 100% cotton, vintage snow wash finish, relaxed oversized fit. Clean collab style.
-  Updated: 2026-08-04T11:16:12Z
-  Vendor: Weber x Dumb Healthy
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-  - [Black / S](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405965869347)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-  - [Black / M](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405965902115)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-  - [Black / L](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405965934883)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-  - [Black / XL](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405965967651)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-  - [Black / 2XL](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405966000419)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-  - [Black / 3XL](https://dumbhealthy.com/products/dumb-healthy-weber-shirt-snow-washed-oversized-cotton-t-shirt?variant=55405966033187)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0706/1471/2611/files/9a85ccd34939423c810a5d499fc69093.png?v=1785688413
-    Price: $20.00 USD
-[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxMjk1MjQ0NzI2NywibGFzdF92YWx1ZSI6IjEwMzEyOTUyNDQ3MjY3In0%3D)
+[List Continued](https://dumbhealthy.com/a/llms-agent/llms.txt?shop=dumb-healthy.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDMxMjk1MDU0NjcyMywibGFzdF92YWx1ZSI6IjEwMzEyOTUwNTQ2NzIzIn0%3D)
 
 ## Collections
 
@@ -3146,6 +3116,18 @@
   - [Integrating Adaptogens and Superfoods into a Healthy Home Consulting Session](https://dumbhealthy.com/blogs/news/integrating-adaptogens-and-superfoods-into-a-healthy-home-consulting-session): Integrating Adaptogens and Superfoods into a Healthy Home Consulting Session
     Updated: 2026-10-30T07:03:21Z
     Author: A.
+  - [Understanding Liver and Inflammation Support Through Diet and Lifestyle](https://dumbhealthy.com/blogs/news/understanding-liver-and-inflammation-support-through-diet-and-lifestyle): Understanding Liver and Inflammation Support Through Diet and Lifestyle
+    Updated: 2026-10-31T07:01:20Z
+    Author: A.
+  - [Discover the Potency of Detoxifying Superfoods for Energy and Inflammation Support](https://dumbhealthy.com/blogs/news/discover-the-potency-of-detoxifying-superfoods-for-energy-and-inflammation-support): Discover the Potency of Detoxifying Superfoods for Energy and Inflammation Support
+    Updated: 2026-11-05T07:00:29Z
+    Author: A.
+  - [Elevate Indoor Air Quality with Detoxifying Superfoods in Your Healthy Home](https://dumbhealthy.com/blogs/news/elevate-indoor-air-quality-with-detoxifying-superfoods-in-your-healthy-home): Elevate Indoor Air Quality with Detoxifying Superfoods in Your Healthy Home
+    Updated: 2026-11-06T07:03:04Z
+    Author: A.
+  - [How Adaptogens in Your Diet Can Offer Focus and Energy Support](https://dumbhealthy.com/blogs/news/how-adaptogens-in-your-diet-can-offer-focus-and-energy-support): How Adaptogens in Your Diet Can Offer Focus and Energy Support
+    Updated: 2026-11-07T07:01:22Z
+    Author: A.
 
 ## Store Pages
 
@@ -3175,7 +3157,7 @@
 ## Policies
 
 - [Privacy Policy](https://dumbhealthy.com/policies/privacy-policy)
-  Updated: 2025-11-28T21:48:56Z
+  Updated: 2026-10-31T00:51:44Z
 - [Shipping Policy](https://dumbhealthy.com/policies/shipping-policy)
   Updated: 2025-11-28T21:51:38Z
 - [Refund Policy](https://dumbhealthy.com/policies/refund-policy)
