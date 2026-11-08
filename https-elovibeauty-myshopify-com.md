@@ -6,29 +6,29 @@
 - Timezone: Europe/Berlin
 - Created At: 2026-10-20T14:13:27Z
 - Contact Email: gregorbiadmed@gmail.com
-- Updated At: 2026-11-01T00:42:23.361Z
+- Updated At: 2026-11-08T00:58:35.790Z
 
 ## Products
 
-- [Elovi Eyelash & Eyebrow Serum with Biotin, 20 ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml): Lash & brow serum with biotin, panthenol and rosemary on one precision brush. For fuller-, glossier-looking lashes and brows. Free shipping on 3+ tubes.
-  Updated: 2026-10-31T19:31:46Z
-  Vendor: Claude Store
+- [Eyelash Growth Serum with Biotin | Elovi Lash & Brow Serum](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml): Eyelash growth serum with biotin, panthenol and rosemary leaf oil. Conditions lashes and brows for a fuller, glossier look with one precision brush.
+  Updated: 2026-11-05T17:49:08Z
+  Vendor: Elovi
   Product Type: Lash & Brow Serum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/424d7c12-7da9-4cc5-8871-72e89e6597ab.jpg?v=1793342722
-  - [1x 20ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431302734)
+  - [1 tube](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431302734)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/14d0c4e7-47f4-46b7-ba5d-30ae356eee97.jpg?v=1793342722
     Price: €25.00 EUR
-  - [2x 20ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431335502)
+  - [2 tubes](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431335502)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/a49c021b-04b7-4d8d-a6a7-2c6bd96df7b4.jpg?v=1793342722
     Price: €45.00 EUR
-  - [3x 20ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431368270)
+  - [3 tubes](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431368270)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/304a6c90-32bf-4db6-bfdf-607075611f64.jpg?v=1793342722
     Price: €65.00 EUR
-  - [4x 20ml](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431401038)
+  - [4 tubes](https://elovibeauty.myshopify.com/products/eyelash-and-eyebrow-serum-with-biotin-20ml?variant=44732431401038)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0769/8841/6078/files/ac5872fb-4ab7-4949-9d52-5c7cc37b0d13.jpg?v=1793342722
     Price: €85.00 EUR
@@ -36,7 +36,7 @@
 ## Collections
 
 - [Home page](https://elovibeauty.myshopify.com/collections/frontpage)
-  Updated: 2026-10-31T19:27:03Z
+  Updated: 2026-11-04T12:18:36Z
   Total Products: 3
 - [Moissanite jewellery](https://elovibeauty.myshopify.com/collections/moissanite-jewellery): Lab-created moissanite pendant and studs in 925 sterling silver, six-claw settings. More fire than diamond. Free tracked EU delivery over €59.
   Updated: 2026-10-31T16:30:33Z
