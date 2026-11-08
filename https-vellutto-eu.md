@@ -193,12 +193,12 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
 - Contact Email: info@vellutto.eu
 - Contact Phone: +31631221023
 - Address: Torenlaan 5B, 1402 AT, Bussum
-- Updated At: 2026-10-31T00:37:55.761Z
+- Updated At: 2026-11-08T00:31:51.597Z
 
 ## Products
 
 - [Wendougee DATA S Espresso Machine | Pressure Profiling](https://vellutto.eu/products/wendougee-data-s-espresso-machine): Wendougee DATA S — 2-5 days delivery in the EU/EEA, dual boiler espresso machine with gear-pump pressure & flow profiling, 2-yr warranty | Vellutto.
-  Updated: 2026-10-29T14:41:55Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -216,7 +216,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/gray-Wendougee-Data-S-High-End-Home-Espresso-Machine-for-Caf-Quality-Brewing_Vellutto.png?v=1777636745
     Price: €3,525.00 EUR
 - [Wendougee MILO Play | 64mm Single-Dose Espresso Grinder](https://vellutto.eu/products/wendougee-milo-play): Wendougee MILO Play single-dose grinder — 64mm burrs, 400W brushless motor, variable 200–1000 RPM, micron-precise. E-Bar app. EU/EEA shipping, Vellutto.
-  Updated: 2026-10-19T14:09:20Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -230,7 +230,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WendougeeMILOPlayWhiteSide_vellutto.webp?v=1777019813
     Price: €999.00 EUR
 - [Wendougee ARES Commercial coffee Grinder | EU | Vellutto](https://vellutto.eu/products/wendougee-ares): Wendougee ARES 90B / 90B DC commercial coffee grinder with 90mm burrs, grind-by-weight to ±0.2g and 5-inch IoT screen. Insured shipping to EU/EEA | Vellutto
-  Updated: 2026-10-29T17:58:04Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Wendougee
   Product Type: Coffee Grinder
   Availability: Available
@@ -252,13 +252,13 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendougee-ARES-White_Vellutto.eu.webp?v=1777714423
     Price: €1,795.00 EUR
 - [WPM Primus Espresso Machine | Pressure Profiling, Gear Pump](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling): WPM Primus prosumer espresso machine. 2-5 days delivery, Gear pump, pressure and flow profiling 1 to 12 bar, triple hybrid heating. shipping EU/EEA | Vellutto
-  Updated: 2026-10-17T22:11:01Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: WPM
   Product Type: Espresso Machine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Black_espresso_machine_from_WPM_PRIMUS_Black_from_the_side_Vellutto.eu.webp?v=1777717607
   - [Black](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling?variant=62215842333002)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Black_espresso_machine_from_WPM_PRIMUS_Black_from_the_side_Vellutto.eu.webp?v=1777717607
     Price: €1,939.00 EUR
   - [Silver](https://vellutto.eu/products/wpm-primus-espresso-machine-with-gear-pump-pressure-profiling?variant=62371967926602)
@@ -266,7 +266,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM_PRIMUS_Silver_Vellutto.png?v=1781644488
     Price: €1,979.00 EUR
 - [WPM KONOS Single Dose Conical Grinder | Conical Burrs](https://vellutto.eu/products/wpm-konos): The WPM KONOS is a 71mm single dose conical Burr grinder with adjustable RPM, anti-static tech and ultra-low retention. We ship to EU/EEA | Vellutto.
-  Updated: 2026-10-03T20:33:25Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: WPM
   Product Type: Coffee Grinder
   Availability: Available
@@ -280,7 +280,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WPM-KONOS-Silver.webp?v=1782134240
     Price: €1,349.00 EUR
 - [WPM ZP1 Single Dose Grinder – Café Quality at Home](https://vellutto.eu/products/wpm-zp1-single-dose-grinder): Shop WPM ZP1: 64mm burrs SSP-LeBrew compatible, brushless motor, stepless grind, variable RPM, Zero retention. single-dose grinder | EU/EEA Shipping | Vellutto
-  Updated: 2026-10-26T12:32:10Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: WPM
   Product Type: Coffee Grinder
   Availability: Available
@@ -294,7 +294,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/ZP-1_image_4_a9236201-8139-4e50-9151-48091c505898.webp?v=1777710743
     Price: €1,100.00 EUR
 - [Fellow Espresso Series 1 espresso machine | Vellutto](https://vellutto.eu/products/fellow-espresso-series-1): Fellow Espresso Series 1: prosumer home espresso machine with Boosted Boiler heating, heated group head, and app control. EU/EEA shipping from Vellutto
-  Updated: 2026-10-22T15:26:47Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Fellow
   Product Type: Espresso Machine
   Availability: Available
@@ -316,7 +316,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Web_PDP_Series1_Sesame-3_eb7b1b68-330a-4646-8e59-08df522144d4.webp?v=1777809484
     Price: €1,499.00 EUR
 - [64mm Flat Burrs: Elevate Your Brewing Experience](https://vellutto.eu/products/64mm-flat-burrs-from-lebrew-elevate-brewing): Experience the difference with our 64mm flat burrs, crafted for clarity and consistency in every cup. Upgrade your brewing game today!
-  Updated: 2026-10-29T14:08:38Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: LeBrew
   Product Type: Burrs
   Availability: Available
@@ -334,14 +334,14 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/74f5bdd2504f3e6562fa11307a538c4f.avif?v=1778413524
     Price: €149.00 EUR
 - [LeBrew RoastSee Fusion - Your All-in-One Coffee Analyzer](https://vellutto.eu/products/lebrew-roastsee-fusion-coffee-analyzer): LeBrew RoastSee Fusion is your all-in-one coffee analyzer for precise measurements of roast color, moisture, density, and water activity.
-  Updated: 2026-10-05T11:12:35Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: LEBREW
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Fusion-1.png?v=1780398495
   Price: €899.00 EUR
 - [TIMEMORE Sculptor 064S Grinder – Precision Espresso & Filter](https://vellutto.eu/products/timemore-sculptor-064s-grinder-precision-espresso-filter-black-and-white): Discover the TIMEMORE Sculptor 064s grinder, the perfect blend of style and precision for espresso lovers. Elevate your coffee experience today!
-  Updated: 2026-10-03T20:38:10Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: TIMEMORE
   Product Type: Coffee Grinder
   Availability: Available
@@ -355,7 +355,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/TIMEMORE_SCULPTOR_064_064S_TME_70TGD060AA001_TME_70TGD060AA102_1.webp?v=1781863090
     Price: €649.00 EUR
 - [Timemore Sculptor 078 burrs / 078s | LeBrew 78mm Burrs](https://vellutto.eu/products/timemore-sculptor-078-burrs-lebrew-78mm-burrs): Upgrade your coffee experience with Timemore Sculptor 078 burrs, From LeBrew. precision grinding with durable LeBrew 78mm Burrs, for Timemore grinders.
-  Updated: 2026-10-25T13:21:20Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: LeBrew
   Product Type: Professional Coffee Grinder Burrs
   Availability: Available
@@ -369,7 +369,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/1_63fb0805-76f3-4c0a-9f5a-a196f60ce177.png?v=1782216324
     Price: €159.00 EUR
 - [Wendougee Sdragon – Commercial Espresso Machine](https://vellutto.eu/products/wendougee-sdragon-commercial-espresso-machine-for-a-small-coffee-business): Wendougee Sdragon commercial espresso machine, coffee business with the Wendougee Sdragon, dual boilers, saturated group head, pro‑level thermal stability.
-  Updated: 2026-10-03T20:38:35Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Vellutto
   Product Type: 
   Availability: Available
@@ -383,7 +383,7 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/WendougeeSdragonSingleGroupHeadEspressoMachine.webp?v=1782845992
     Price: €4,049.00 EUR
 - [Wendougee LITA BA & LA Pressure Profiling Espresso Machine](https://vellutto.eu/products/wendougee-lita-ba-la-espresso-machine-with-pressure-profiling-machine): Wendougee LITA BA & LA dual-boiler espresso machine with pressure profiling & flow control, Intelligent Disc | 2-5 days delivery in the EU/EEA | Vellutto
-  Updated: 2026-10-29T14:36:26Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Wendougee
   Product Type: Espresso Machine
   Availability: Available
@@ -405,49 +405,49 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendouge_LITA_LA_white.webp?v=1778248589
     Price: €2,217.00 EUR
 - [DiFluid Omix Plus | Green Coffee & Roast Analyzer | Vellutto](https://vellutto.eu/products/difluid-omix-plus-green-coffee-roast-color-analyzer): DiFluid Omix Plus | measures water activity, moisture, density, screen size & roast level in one portable device. Insured EU/EEA shipping | Vellutto.eu
-  Updated: 2026-10-03T20:39:05Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Measuring devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/difluid-omix_coffee-analyzer_display.webp?v=1789817472
   Price: €2,590.00 EUR
 - [DiFluid R2 Extract Refractometer](https://vellutto.eu/products/difluid-r2-extract-refractometer): DiFluid R2 Extract Refractometer The DiFluid R2 Extract Refractometer is a precision digital tool designed for specialty coffee professionals and enthusiasts who demand accuracy in every brew. Measure extraction percentage instantly to achieve optimal taste, balance, and consistency in your espresso and filter coffee How it works: Place a single drop of cooled coffee on the optical surface. The R2 analyzes light refraction through a calibrated 2D CMOS sensor and dual temperature compensators, displaying extraction data within seconds. No guesswork—pure data-driven brewing. Why extraction matters: Under-extracted coffee tastes sour and thin. Over-extraction becomes bitter and harsh. The R2 reveals the exact extraction percentage, enabling you to dial in grind size, water temperature, and contact time with scientific precision. Features: Advanced 2D CMOS image sensor with micro-calibration layer ensures ±0.5% accuracy across temperature ranges. Dual temperature sensors compensate for sample variance. Sync with DiFluid Café app to log extractions, track trends, and correlate data with other DiFluid instruments for complete brew profiling. Built for precision espresso measurement and filter coffee analysis. Essential for baristas, roasters, and home enthusiasts pursuing café-quality consistency.
-  Updated: 2026-10-03T20:39:20Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Refractometer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/difluid-r2-extract-refractometer.webp?v=1789996133
   Price: €269.00 EUR
 - [DiFluid Coffee Roast Degree Meter A1](https://vellutto.eu/products/difluid-coffmeter-a1-coffee-roast-degree-meter-nir): Accurately measure coffee roast levels in 3 seconds with the DiFluid CoffMeter A1 NIR analyzer. Features dual sample tray and 2.8-inch IPS touchscreen.
-  Updated: 2026-10-03T20:39:48Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Measuring devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/coffmeter-a1-roestgradmesser_54bdda2f-cf13-4d08-9308-e723a4e7e421.webp?v=1790001862
   Price: €389.00 EUR
 - [MILLAB Manual Coffee Grinder Silver](https://vellutto.eu/products/millab-m01-manual-coffee-grinder-silver): Discover the MILLAB M01 manual coffee grinder with 44mm stainless steel burrs and external micrometric adjustment for espresso and filter brew methods.
-  Updated: 2026-10-03T20:40:00Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: MILLAB
   Product Type: Coffee Grinder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/TME_70TGD029AA010_TAG.png?v=1790156453
   Price: €249.00 EUR
 - [DIFLUID Coffee Moisture Meter](https://vellutto.eu/products/difluid-coffmeter-m1-coffee-moisture-meter): Analyze moisture, density, and temperature of coffee beans in seconds with the portable DIFLUID CoffMeter M1. High precision with CoffeeOS Bluetooth sync.
-  Updated: 2026-10-03T20:40:01Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Measuring devices
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/DIFLUID_M1.png?v=1790160391
   Price: €359.00 EUR
 - [DiFluid Coffee Scale](https://vellutto.eu/products/difluid-microbalance-ti-coffee-scale): High-precision DiFluid Microbalance Ti coffee scale with 0.1 g accuracy, real-time flow rate display, auto timer, and DiFluid Café app integration.
-  Updated: 2026-10-03T20:40:00Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: scale
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Microbalance_Ti_Scale_Vellutto.webp?v=1789814992
   Price: €159.00 EUR
 - [DiFluid Coffee Roast Colorimeter and Particle Analyzer](https://vellutto.eu/products/difluid-omni-coffee-colorimeter-and-particle-analyzer): Analyze coffee roast degree and grind size distribution with the DiFluid Omni precision 2D near-infrared colorimeter and particle analyzer.
-  Updated: 2026-10-03T20:40:10Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DIFLUID
   Product Type: Measuring devices
   Availability: Available
@@ -459,21 +459,21 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Availability: Available
     Price: €999.00 EUR
 - [DiFluid Smoke Purifier for Coffee Roasters](https://vellutto.eu/products/difluid-airwave-roast-smoke-eliminator-1): Purify roasting smoke and odors with the DiFluid AirWave Roast Smoke Eliminator, featuring NovaCat catalytic tech and 130 m³/h airflow.
-  Updated: 2026-10-03T19:34:51Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Roast Smoke Eliminator
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/AirWave_Award_ccbfc787-f5eb-4370-9e50-f01bed34df31.jpg?v=1790167404
   Price: €1,999.00 EUR
 - [DiFluid Water Activity Meter CoffMeter W1](https://vellutto.eu/products/difluid-coffmeter-w1-coffee-water-activity-meter): Measure coffee water activity in 2 minutes with the DiFluid CoffMeter W1. Features laboratory accuracy, Bluetooth app tracking, and auto-compensation.
-  Updated: 2026-10-03T20:40:25Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Coffee Meter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/coffmeter-w1-water-activity-analysis.webp?v=1790168841
   Price: €529.00 EUR
 - [WENDOUGEE RKONE 90B-T | Commercial Coffee Grinder](https://vellutto.eu/products/wendougee-rkone-90b-t-coffee-grinder): WENDOUGEE RKONE 90B-T | Precision commercial coffee grinder featuring 90 mm titanium burrs, brushless motor, Grind by Weight, 5-inch OLED screen | vellutto.eu
-  Updated: 2026-10-19T11:25:56Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: WENDOUGEE
   Product Type: Coffee Grinder
   Availability: Available
@@ -487,19 +487,26 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
     Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/Wendougee_RKone_BBlack.png?v=1790431282
     Price: €2,249.00 EUR
 - [DiFluid Moment | Coffee Cupping Thermometer | Vellutto.eu](https://vellutto.eu/products/difluid-moment-coffee-cupping-thermometer): DiFluid Moment Real-time contactless infrared coffee cupping thermometer featuring smart temperature-based tasting guidance and DiFluid CoffeeOS connectivity.
-  Updated: 2026-10-03T20:40:40Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: DiFluid
   Product Type: Thermometer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/DiFluid_20Moment.webp?v=1790172986
   Price: €199.90 EUR
 - [Kaffee Klar T1 | Automatic Portafilter Cleaner | Vellutto](https://vellutto.eu/products/kaffee-klar-t1-automatic-portafilter-cleaner): Kaffee Klar T1 | automatic cleaner it Clean 58 mm espresso portafilters in 3 seconds. Features full-metal build & quiet operation EU/EEA Shipping| Vellutto.eu
-  Updated: 2026-10-03T20:41:00Z
+  Updated: 2026-11-05T12:15:53Z
   Vendor: Kaffee Klar
   Product Type: Portafilter Cleaner
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/b99c480a3cdfa47128569bada8a2fecf5bc76e50.avif?v=1790176141
   Price: €453.00 EUR
+- [LeBrew Coffee Roast Analyzer](https://vellutto.eu/products/lebrew-roastsee-next-real-time-coffee-roast-analyzer): Master your roast with the LeBrew RoastSee NEXT, featuring real-time color tracking and automated crack detection for consistent coffee roasting.
+  Updated: 2026-11-06T22:13:02Z
+  Vendor: LEBREW
+  Product Type: Measuring devices
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/1035/1421/0634/files/NEXT_49223737-07ad-42d0-b017-ba515bd4347d.png?v=1793815244
+  Price: €710.00 EUR
 
 ## Collections
 
@@ -507,22 +514,22 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
   Updated: 2026-10-29T14:41:56Z
   Total Products: 15
 - [Coffee Grinder](https://vellutto.eu/collections/coffee-grinder): Shop precision espresso and filter coffee grinders from WPM and Wendougee. Single-dose, low-retention, flat & conical burrs. EU & EEA shipping.
-  Updated: 2026-10-24T11:26:54Z
+  Updated: 2026-11-05T12:40:00Z
   Total Products: 8
 - [Roasting Machines](https://vellutto.eu/collections/roasting-machines): Shop precision coffee roasting machines for home, sample, and small-shop use. Drum and hybrid roasters with profile control. EU & EEA shipping.
   Updated: 2026-09-23T12:54:40Z
   Total Products: 1
 - [Accessories & Tools](https://vellutto.eu/collections/accessories-tools): Shop espresso accessories and barista tools at Vellutto.eu, from tampers and milk pitchers to cleaning supplies, with fast, fully insured shipping across Europe
-  Updated: 2026-10-30T11:29:47Z
-  Total Products: 13
+  Updated: 2026-11-06T13:43:53Z
+  Total Products: 14
 - [All Products](https://vellutto.eu/collections/all-products): Browse all products at Vellutto, premium Wendougee espresso machines to WPM grinders and El Rocio equipment and more, fully insured shipping across Europe.
-  Updated: 2026-10-30T11:29:47Z
-  Total Products: 33
+  Updated: 2026-11-06T13:43:53Z
+  Total Products: 34
 - [Wendougee Espresso Machines & Grinders](https://vellutto.eu/collections/wendougee): Shop Wendougee espresso machines — dual boiler, gear pump, pressure profiling flow control & app control. DATA S, LITA, Sdragon. EU/EEA shipping | Vellutto
-  Updated: 2026-10-29T14:41:56Z
+  Updated: 2026-11-05T12:40:00Z
   Total Products: 12
 - [Brands](https://vellutto.eu/collections/brands): Discover all the brands we  at Vellutto.eu, including Wendougee, WPM, ACS and more, shipping EU‑EEA wide for serious home baristas.
-  Updated: 2026-09-23T11:01:03Z
+  Updated: 2026-11-04T12:27:54Z
   Total Products: 1
 - [WPM (Welhome Pro Manufacturing)](https://vellutto.eu/collections/wpm): WPM espresso machines and single-dose grinders — gear pump pressure profiling, hybrid heating, and iF Design Award-winning engineering. EU shipping | Vellutto
   Updated: 2026-10-24T11:26:54Z
@@ -537,16 +544,16 @@ Vellutto is a poor fit for some buyers, and it is worth saying so. Anyone lookin
   Updated: 2026-10-12T21:44:14Z
   Total Products: 1
 - [LeBrew](https://vellutto.eu/collections/lebrew): LeBrew makes smart coffee detection tools for roasters and coffee professionals, helping improve precision, quality control, and brewing consistency
-  Updated: 2026-10-30T11:29:47Z
-  Total Products: 3
+  Updated: 2026-11-06T13:43:53Z
+  Total Products: 4
 - [Trending now](https://vellutto.eu/collections/trending-now): Trending now | Espresso machines & grinders EU baristas buy most, pressure and flow profiling. Gear pumps, dual boilers, app control. Insured EU/EEA shipping.
-  Updated: 2026-10-29T14:41:56Z
+  Updated: 2026-11-05T12:40:00Z
   Total Products: 12
 - [ | Espresso Machines and Grinders | Vellutto EU](https://vellutto.eu/collections/-espresso-machines-and-grinders-vellutto-eu):  on espresso machines with Pressure profiling and flow control from Wendougee, WPM, ACS, and El Rocio. we ship to E/EEA with full EU warranty.
   Updated: 2026-10-29T14:41:56Z
   Total Products: 4
 - [DiFluid](https://vellutto.eu/collections/difluid): The complete DiFluid lineup at Vellutto: R2 Extract, Microbalance Ti, Omni & more. Fully insured EU/EEA delivery, shipped within 2 days.
-  Updated: 2026-09-26T13:22:21Z
+  Updated: 2026-11-04T12:27:54Z
   Total Products: 9
 - [MillLab](https://vellutto.eu/collections/milllab)
   Updated: 2026-10-02T22:07:35Z
