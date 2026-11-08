@@ -3,10 +3,10 @@
 - Domain: https://pickapuzzle.com
 - Locale: en
 - Currency: USD
-- Timezone: Asia/Shanghai
+- Timezone: America/Los_Angeles
 - Created At: 2025-12-30T08:25:36Z
 - Contact Email: info@pickapuzzle.com
-- Updated At: 2026-10-31T00:26:07.804Z
+- Updated At: 2026-11-08T00:27:09.538Z
 
 ## Products
 
@@ -3555,6 +3555,15 @@
     Author: pickApuzzle
   - [Comparing Wooden Jigsaw Puzzles and Traditional Cardboard Ones](https://pickapuzzle.com/blogs/general/comparing-wooden-jigsaw-puzzles-and-traditional-cardboard-ones): Comparing Wooden Jigsaw Puzzles and Traditional Cardboard Ones
     Updated: 2026-10-31T00:07:59Z
+    Author: pickApuzzle
+  - [Crafting Varied Experiences with Your Wooden Jigsaw Puzzles](https://pickapuzzle.com/blogs/general/crafting-varied-experiences-with-your-wooden-jigsaw-puzzles): Crafting Varied Experiences with Your Wooden Jigsaw Puzzles
+    Updated: 2026-11-02T01:51:48Z
+    Author: pickApuzzle
+  - [Exploring Innovative Techniques in Modern Wooden Puzzles](https://pickapuzzle.com/blogs/general/exploring-innovative-techniques-in-modern-wooden-puzzles): Exploring Innovative Techniques in Modern Wooden Puzzles
+    Updated: 2026-11-04T01:28:46Z
+    Author: pickApuzzle
+  - [What Makes Wooden Jigsaw Puzzles Stand Out from Cardboard Versions](https://pickapuzzle.com/blogs/general/what-makes-wooden-jigsaw-puzzles-stand-out-from-cardboard-versions): What Makes Wooden Jigsaw Puzzles Stand Out from Cardboard Versions
+    Updated: 2026-11-07T00:09:11Z
     Author: pickApuzzle
 
 ## Store Pages
