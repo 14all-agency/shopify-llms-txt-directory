@@ -6,12 +6,19 @@
 - Timezone: America/New_York
 - Created At: 2025-07-21T05:22:02Z
 - Contact Email: ascorenutra@gmail.com
-- Updated At: 2026-10-31T00:19:31.427Z
+- Updated At: 2026-11-08T00:18:46.689Z
 
 ## Products
 
 - [Anti Inflammatory Supplements to Support Your Body’s Natural Balance](https://allovedaai.com/products/alloveda-ai-capsules): Discover Alloveda AI Ayurvedic anti-inflammatory supplement formulated with powerful herbs to support inflammation balance, immunity, and overall wellness naturally.
-  Updated: 2026-10-28T20:56:16Z
+  Updated: 2026-11-02T13:56:17Z
+  Vendor: Alloveda
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0638/6663/4327/files/best_anti-inflammatory_supplements_alloveda.png?v=1777009450
+  Price: $55.00 USD
+- [Anti-Inflammatory Supplement USA | Alloveda AI](https://allovedaai.com/products/anti-inflammatory-supplement): Discover Alloveda AI, a physician-developed anti-inflammatory supplement with 17 carefully selected ingredients to support a healthy inflammatory response and everyday wellness.
+  Updated: 2026-11-02T05:52:20Z
   Vendor: Alloveda
   Product Type: 
   Availability: Available
@@ -21,7 +28,7 @@
 ## Collections
 
 - [Home page](https://allovedaai.com/collections/frontpage)
-  Updated: 2026-10-29T13:40:03Z
+  Updated: 2026-11-02T05:52:22Z
   Total Products: 3
 
 ## Blogs
@@ -155,6 +162,9 @@
     Author: Manan Mehta
   - [Boswellia Serrata Benefits: What the Research Shows](https://allovedaai.com/blogs/alloveda-ai/boswellia-serrata-benefits): Boswellia Serrata Benefits: What the Research Shows
     Updated: 2026-10-21T11:41:01Z
+    Author: Manan Mehta
+  - [KSM-66 Ashwagandha Benefits: What Makes This Form Different](https://allovedaai.com/blogs/alloveda-ai/ksm-66-ashwagandha-benefits)
+    Updated: 2026-11-04T13:13:41Z
     Author: Manan Mehta
 
 ## Store Pages
