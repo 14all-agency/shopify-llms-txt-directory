@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-06-09T00:13:32Z
 - Contact Email: pdfdepository.shopify@gmail.com
-- Updated At: 2026-10-31T00:23:57.447Z
+- Updated At: 2026-11-08T00:22:11.463Z
 
 ## Products
 
@@ -491,6 +491,18 @@
     Updated: 2026-10-30T01:08:56Z
     Author: PDF Depository
     Tags: budgeting, budgeting & finance, create successful foundations, family wellness, financial planning, money, parenting, parenting & family, personal finance tips, relationships, self-help strategies, well-being, what are career growth strategies, what is the difference between health an
+  - [Relationships Family and Finance: Keys to Long-term Well-being](https://www.pdfdepository.com/blogs/news/relationships-family-and-finance-keys-to-long-term-well-being): Relationships Family and Finance: Keys to Long-term Well-being
+    Updated: 2026-11-02T01:49:35Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, family money, financial wellness, long-term financial health, money, parenting & family, personal finance strategies, relationships, self-help tips, well-being, what are career growth strategies, what is the difference between health an
+  - [Educating Yourself: Strategies to Balance Finances and Family Relationships](https://www.pdfdepository.com/blogs/news/educating-yourself-strategies-to-balance-finances-and-family-relationships): Educating Yourself: Strategies to Balance Finances and Family Relationships
+    Updated: 2026-11-04T01:26:41Z
+    Author: PDF Depository
+    Tags: budget planning tips, budgeting, budgeting & finance, family relationships, finances, financial balance, improve family dynamics, money, parenting & family, relationships, self-help strategies, wellness, what are career growth strategies, what is the difference between health an
+  - [Nurturing Career Growth and Financial Literacy for Enhanced Well-being](https://www.pdfdepository.com/blogs/news/nurturing-career-growth-and-financial-literacy-for-enhanced-well-being): Nurturing Career Growth and Financial Literacy for Enhanced Well-being
+    Updated: 2026-11-06T01:20:52Z
+    Author: PDF Depository
+    Tags: budgeting, budgeting & finance, career growth, enhance overall well-being, financial literacy, improve financial health, money, parenting & family, personal finance, relationships, self-help, well-being, what are career growth strategies, what is the difference between health an
 
 ## Store Pages
 
