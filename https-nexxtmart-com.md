@@ -6,12 +6,12 @@
 - Timezone: America/New_York
 - Created At: 2025-01-06T14:57:49Z
 - Contact Email: nexxtmartllc@gmail.com
-- Updated At: 2026-10-31T00:45:35.601Z
+- Updated At: 2026-11-08T00:47:51.461Z
 
 ## Products
 
 - [Abacha 6oz & 20oz, African Salad Dried Cassava | Nexxtmart](https://nexxtmart.com/products/african-salad-abacha): Buy abacha online, the dried shredded cassava for African salad. Includes how to prepare it with ugba, akanwu and palm oil. Shipped across the US.
-  Updated: 2026-09-15T22:37:15Z
+  Updated: 2026-11-07T05:02:40Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -23,14 +23,14 @@
     Availability: Available
     Price: $18.99 USD
 - [Virgin Hair Fertilizer 5g, Hair & Scalp Pomade | Nexxtmart](https://nexxtmart.com/products/virgin-hair-fertilizer): Buy Virgin Hair Fertilizer, the traditional West African hair and scalp pomade in the small yellow tin. Shipped across the United States.
-  Updated: 2026-09-16T10:04:35Z
+  Updated: 2026-11-07T05:01:45Z
   Vendor: Virgin Hair Fertilizer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Virgin_Hair_Fertilizer.png?v=1758922643
   Price: $9.99 USD
 - [Minimie Chin Chin, Pack of 10 & 900g Jar | Nexxtmart](https://nexxtmart.com/products/minimie-chin-chin): Buy Minimie chin chin, the Nigerian fried snack. Pack of ten 40g sachets or a 900g jar. Shipped across the United States.
-  Updated: 2026-10-18T19:13:45Z
+  Updated: 2026-11-07T05:01:00Z
   Vendor: Minimie
   Product Type: 
   Availability: Available
@@ -42,14 +42,14 @@
     Availability: Available
     Price: $25.99 USD
 - [Jigsimur Herbal Drink 750ml, Aloe Ferox | Nexxtmart](https://nexxtmart.com/products/jigsimur-natural-herbal-drink): Buy Jigsimur herbal drink, made from Aloe ferox harvested in South Africa's Western Cape. 750ml bottle, shipped across the United States.
-  Updated: 2026-10-30T17:27:46Z
+  Updated: 2026-11-07T05:00:28Z
   Vendor: Jigsimur
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Jigsimur_Natural_Herbal_Drink.png?v=1758922647
   Price: $60.00 USD
 - [Jekonmo Herbal Mixture 3oz & Box of 24 | Nexxtmart](https://nexxtmart.com/products/jekonmo-herbal-mixture): Buy Jekonmo herbal mixture, a traditional Nigerian bottled herbal drink. Single 3oz bottles or a box of 24. Shipped across the United States.
-  Updated: 2026-10-22T16:33:37Z
+  Updated: 2026-11-07T05:00:55Z
   Vendor: Jekonmo
   Product Type: 
   Availability: Available
@@ -61,7 +61,7 @@
     Availability: Available
     Price: $95.99 USD
 - [Egusi Ground Melon Seed 8oz-5.6lb, for Egusi Soup | Nexxtmart](https://nexxtmart.com/products/egusi-grinded-melon): Buy ground egusi online, ready milled for egusi soup. Includes the lumpy and fried methods, and how to keep your lumps intact. Shipped across the US.
-  Updated: 2026-09-15T22:37:20Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -76,14 +76,14 @@
     Availability: Available
     Price: $69.99 USD
 - [Nestle Cerelac Maize 1kg, Infant Cereal with Milk | Nexxtmart](https://nexxtmart.com/products/nestle-cerelac-maize-1kg): Buy Nestle Cerelac maize infant cereal 1kg. Follow the age guidance on the pack. Shipped across the United States.
-  Updated: 2026-09-16T10:04:39Z
+  Updated: 2026-11-07T05:01:45Z
   Vendor: Nestlé
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/cerelac.png?v=1758922661
   Price: $29.99 USD
 - [Ayoola Poundo Yam 2lb & 4lb, Instant Pounded Yam | Nexxtmart](https://nexxtmart.com/products/ayoola-poundo-yam-flour): Buy Ayoola poundo yam flour, instant pounded yam in four minutes. Includes how to turn it smooth. Shipped across the United States.
-  Updated: 2026-10-26T04:58:26Z
+  Updated: 2026-11-07T05:00:51Z
   Vendor: Ayoola
   Product Type: 
   Availability: Available
@@ -95,14 +95,14 @@
     Availability: Available
     Price: $21.99 USD
 - [Nigerian Brown Beans (Oloyin) – Honey Beans | Nexxtmart](https://nexxtmart.com/products/brown-beans): Buy Nigerian brown beans, oloyin honey beans, for ewa agoyin, beans porridge and moi moi. Includes how to cook them soft. Shipped across the US.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:40Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/brown-beans.png?v=1758858517
   Price: $30.99 USD
 - [Aboniki Balm, Traditional Nigerian Warming Balm | Nexxtmart](https://nexxtmart.com/products/aboniki-balm): Buy Aboniki balm, the menthol and camphor tin found in Nigerian households for decades. Single tin or pack of 12. Shipped across the US.
-  Updated: 2026-09-16T10:04:39Z
+  Updated: 2026-11-07T05:01:40Z
   Vendor: Aboniki
   Product Type: 
   Availability: Available
@@ -116,7 +116,7 @@
     Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Aboniki_Balm_Pain_Relief_12_packs.png?v=1758922664
     Price: $33.50 USD
 - [Dried Whole Crayfish 1.4lb & 2.8lb, Cleaned | Nexxtmart](https://nexxtmart.com/products/crayfish): Buy whole dried Nigerian crayfish, cleaned and ready to grind. For egusi, ogbono, okra, abacha and moi moi. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-08T00:03:45Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -128,14 +128,14 @@
     Availability: Available
     Price: $90.99 USD
 - [Uziza Leaves 2oz, Dried Nigerian Pepper Leaf | Nexxtmart](https://nexxtmart.com/products/uziza-dry-leaves-cut-sifted): Buy dried uziza leaves 2oz for pepper soup, ofe nsala and ofe ugba. Includes when to add it so the aroma survives. Shipped across the US.
-  Updated: 2026-10-18T19:08:30Z
+  Updated: 2026-11-07T05:01:06Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Uziza_Dry_Leaf.png?v=1758922681
   Price: $8.99 USD
 - [Knorr Seasoning Cubes, 1 to 6 Packs | Nexxtmart](https://nexxtmart.com/products/knorr-cubes-seasoning): Buy Knorr chicken seasoning cubes for jollof, stew, soup and marinades. Packs of 1 to 6. Shipped across the United States.
-  Updated: 2026-09-16T10:04:40Z
+  Updated: 2026-11-07T05:01:40Z
   Vendor: Knorr
   Product Type: 
   Availability: Available
@@ -153,14 +153,14 @@
     Availability: Available
     Price: $41.99 USD
 - [Nestle Milo Refill 400g, Chocolate Malt Drink | Nexxtmart](https://nexxtmart.com/products/nestle-milo-refill-400g): Buy Milo refill pack 400g, the Nestle chocolate malt drink. Hot or cold. Shipped across the United States.
-  Updated: 2026-09-16T10:04:44Z
+  Updated: 2026-11-07T05:01:40Z
   Vendor: Nestlé
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nestle_Milo_Refill.png?v=1758922690
   Price: $15.94 USD
 - [Peanut Burger, Nigerian Groundnut Snack 6 & 12 Pieces | Nexxtmart](https://nexxtmart.com/products/peanut-burger): Buy peanut burger, the caramelised Nigerian groundnut snack. Packs of 6 or 12 pieces. Shipped across the United States.
-  Updated: 2026-10-22T16:32:21Z
+  Updated: 2026-11-07T05:01:00Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -172,14 +172,14 @@
     Availability: Available
     Price: $14.99 USD
 - [Prekese 6 Pods, Aidan Fruit Dried Whole | Nexxtmart](https://nexxtmart.com/products/aidan-fruit-prekese): Buy 6 whole dried prekese pods, known as aidan fruit, for pepper soup, light soup and nsala. Includes how to crack and use it. Shipped across the US.
-  Updated: 2026-09-15T22:37:17Z
+  Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Aidan_Fruit_Prekese.png?v=1758922695
   Price: $6.99 USD
 - [Ukwa 1lb, Dried African Breadfruit Seeds | Nexxtmart](https://nexxtmart.com/products/ukwa-bread-fruit): Buy ukwa 1lb, dried African breadfruit seeds. Includes how to cook it with akanwu into porridge, or roast it. Shipped across the United States.
-  Updated: 2026-10-18T19:08:30Z
+  Updated: 2026-11-07T05:01:01Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -191,7 +191,7 @@
     Availability: Available
     Price: $24.99 USD
 - [Pure Heaven Red Grape 750ml, Non-Alcoholic | Nexxtmart](https://nexxtmart.com/products/pure-heaven-juice-red-grapes-750ml): Buy Pure Heaven non-alcoholic sparkling red grape drink 750ml. For toasts, weddings and Christmas. Shipped across the US.
-  Updated: 2026-09-16T10:04:43Z
+  Updated: 2026-11-07T05:01:40Z
   Vendor: Pure Heaven
   Product Type: 
   Availability: Available
@@ -203,7 +203,7 @@
     Availability: Available
     Price: $37.99 USD
 - [White Garri / Gari 2lb-20lb, Cassava Flakes for Eba | Nexxtmart](https://nexxtmart.com/products/white-garri): Buy white garri online. Nigerian cassava flakes for eba or for drinking. 2lb, 4lb, 8lb and 20lb. Shipped across the United States.
-  Updated: 2026-10-26T04:58:25Z
+  Updated: 2026-11-07T05:00:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -221,14 +221,14 @@
     Availability: Available
     Price: $58.00 USD
 - [Cowbell Chocolate 400g, Instant Chocolate Milk Drink | Nexxtmart](https://nexxtmart.com/products/cowbell-chocolate): Cowbell Chocolate Chocolate milk powder, 400g. The other one, for households that were never Milo households. Nigerian families divide fairly cleanly on this. Milo, Bournvita or Cowbell, and people are quietly loyal to whichever one was in the tin when they were seven. How to make it Two to three heaped teaspoons in a mug. Add a small amount of hot water first and stir to a smooth paste. This is what stops the lumps. Top up with hot water or hot milk and stir. Cold with evaporated milk over ice is also correct, whatever anybody tells you. Product details Brand: Cowbell Size: 400g Contains: Milk Storage: Cool and dry, tightly sealed. Moisture turns the powder to rock. Shipped from Nexxtmart to anywhere in the United States. Allergen: contains milk.
-  Updated: 2026-09-16T10:04:41Z
+  Updated: 2026-11-07T05:01:40Z
   Vendor: Cowbell
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/cowbell-chocolate.png?v=1758922708
   Price: $13.99 USD
 - [Honeywell Semolina 1kg-5kg, Nigerian Semo Flour | Nexxtmart](https://nexxtmart.com/products/honeywell-semolina): Buy Honeywell semolina flour for semo. Includes how to turn it smooth. 1kg, 2kg and 5kg. Shipped across the United States.
-  Updated: 2026-10-30T17:25:56Z
+  Updated: 2026-11-07T05:00:30Z
   Vendor: Honeywell
   Product Type: 
   Availability: Available
@@ -243,14 +243,14 @@
     Availability: Available
     Price: $51.99 USD
 - [Alomo Bitters 750ml, Ghanaian Herbal Spirit | Nexxtmart](https://nexxtmart.com/products/alomo-bitters-herbal-extract-drink): Buy Alomo Bitters 750ml, the Ghanaian herbal spirit made from African roots and herbs. Shipped across the US. Ages 21 and over.
-  Updated: 2026-09-29T21:40:46Z
+  Updated: 2026-11-07T05:01:05Z
   Vendor: Alomo
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/alomo-bitters.png?v=1758922713
   Price: $28.99 USD
 - [Ducros Curry Powder 25g, Packs of 1 to 12 | Nexxtmart](https://nexxtmart.com/products/ducros-spice-curry-powder): Buy Ducros curry powder 25g bottles for jollof, fried rice and stew. Single bottles or multipacks up to 12. Shipped across the US.
-  Updated: 2026-09-16T10:04:44Z
+  Updated: 2026-11-07T05:01:35Z
   Vendor: Ducros
   Product Type: 
   Availability: Available
@@ -271,7 +271,7 @@
     Availability: Available
     Price: $26.40 USD
 - [Yellow Garri 2lb-20lb, Nigerian Cassava Flakes | Nexxtmart](https://nexxtmart.com/products/yellow-garri): Buy yellow garri online, fried in palm oil, for eba or for drinking. 2lb, 4lb, 8lb and 20lb. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -289,14 +289,14 @@
     Availability: Available
     Price: $58.00 USD
 - [Gino Tomato Paste Sachets, Roll of 5 0.85lb | Nexxtmart](https://nexxtmart.com/products/gino-sachet-tomato-paste): Buy Gino tomato paste sachets for Nigerian stew and jollof. Roll of 5. Includes why you fry the paste first. Shipped across the US.
-  Updated: 2026-09-22T16:41:58Z
+  Updated: 2026-11-07T05:01:10Z
   Vendor: Gino
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Gino_Sachet_Tomato_Paste.png?v=1758922725
   Price: $11.99 USD
 - [Whole Egusi Seeds 7.8oz & 1.24lb, Peeled Melon Seed | Nexxtmart](https://nexxtmart.com/products/melon-whole-egusi-seed): Buy whole peeled egusi melon seeds. Keeps far longer than ground. Includes how to grind it without turning it to paste. Shipped across the US.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -308,7 +308,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Tasty Tom Tomato Paste, Roll of 5 & Box of 50 | Nexxtmart](https://nexxtmart.com/products/tasty-tom-tomato-paste-jollof-mix): Buy Tasty Tom tomato paste sachets for jollof and stew. Roll of 5 or a box of 50. Shipped across the United States.
-  Updated: 2026-09-16T10:04:45Z
+  Updated: 2026-11-07T05:01:35Z
   Vendor: Tasty Tom
   Product Type: 
   Availability: Available
@@ -320,14 +320,14 @@
     Availability: Available
     Price: $45.99 USD
 - [Three Crowns Milk Powder 320g Sachet | Nexxtmart](https://nexxtmart.com/products/three-crowns-milk-low-cholesterol-powder): Buy Three Crowns milk powder 320g sachet for tea, pap, custard and baking. Shipped across the United States.
-  Updated: 2026-09-16T10:04:47Z
+  Updated: 2026-11-07T05:01:35Z
   Vendor: Three Crowns
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/three-crown-milk-powder.png?v=1758922731
   Price: $12.50 USD
 - [Yale Sweetened Cabin Biscuit, 1 & 2 Packs | Nexxtmart](https://nexxtmart.com/products/yale-cabin-biscuit): Buy Yale sweetened cabin biscuits, the classic Nigerian biscuit. 1 or 2 packs. Shipped across the United States.
-  Updated: 2026-09-16T10:04:47Z
+  Updated: 2026-11-07T05:01:35Z
   Vendor: Yale
   Product Type: 
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Coco Samba Herbal Mixture 3oz, 6-Pack & Box of 24 | Nexxtmart](https://nexxtmart.com/products/coco-samba-herbal-mixture): Buy Coco Samba herbal mixture, a West African bottled herbal drink. Single 3oz bottles, six packs and cartons. Shipped across the US.
-  Updated: 2026-10-22T16:33:09Z
+  Updated: 2026-11-07T05:00:55Z
   Vendor: Coco Samba
   Product Type: 
   Availability: Available
@@ -354,7 +354,7 @@
     Availability: Available
     Price: $95.99 USD
 - [Orijin Bitters Herbal Spirit 75cl, Nigerian Bitters | Nexxtmart](https://nexxtmart.com/products/orijin-bitters-spirit-herbal-extracts-75cl): Buy Orijin Bitters, the Nigerian herbal spirit built on African roots, herbs and fruit. 75cl bottle, shipped across the US. Ages 21 and over.
-  Updated: 2026-10-22T16:35:54Z
+  Updated: 2026-11-07T05:00:55Z
   Vendor: Orijin
   Product Type: 
   Availability: Available
@@ -369,7 +369,7 @@
     Availability: Available
     Price: $122.99 USD
 - [Smoked Dried Catfish 1lb & 4lb, Whole Nigerian | Nexxtmart](https://nexxtmart.com/products/dry-catfish-smoked): Buy smoked dried catfish for catfish pepper soup, nsala and banga. Includes how to prepare it without breaking it up. Shipped across the US.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -381,7 +381,7 @@
     Availability: Available
     Price: $199.99 USD
 - [Beloxxi Cream Crackers, Pack of 6 & Box of 48 | Nexxtmart](https://nexxtmart.com/products/beloxxi-cream-crackers): Beloxxi Cream Crackers The pale blue and white pack that turns up at every Nigerian gathering, in every hospital bag, and in the boot of every long journey. Light, crisp, faintly sweet cream crackers. Not exciting on paper, and yet somehow the single most reliably present biscuit in Nigerian life. How they get eaten With tea, in the morning, dunked until they nearly collapse. With Milo or Peak, by children who have been told to have something before school. Handed out at naming ceremonies and church, alongside a bottle of malt. In hospital, because they are the one thing everybody can manage. Straight from the pack on a long drive. Product details Brand: Beloxxi Sizes: Pack of 6 (40g each), box of 48 Contains: Wheat. May contain milk and soy. Storage: Cool, dry cupboard. Seal after opening or they soften. Shipped from Nexxtmart to anywhere in the United States. The box of 48 is what people order for parties, churches and care packages home. Allergen: contains wheat. May contain milk and soy.
-  Updated: 2026-10-30T17:25:55Z
+  Updated: 2026-11-07T05:00:31Z
   Vendor: Beloxxi
   Product Type: 
   Availability: Available
@@ -393,14 +393,14 @@
     Availability: Available
     Price: $39.99 USD
 - [Ewedu 6.8oz, Dried Jute Leaves for Ewedu Soup | Nexxtmart](https://nexxtmart.com/products/ewedu-jute-leaves): Buy dried ewedu jute leaves 6.8oz for Yoruba ewedu soup. Includes how to beat it and keep the colour bright. Shipped across the United States.
-  Updated: 2026-10-30T17:25:56Z
+  Updated: 2026-11-07T05:00:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ewedu_Jute_Leaves.png?v=1758922754
   Price: $17.99 USD
 - [Pure Bliss Milk Cream Wafers, 5 & 12 Packs | Nexxtmart](https://nexxtmart.com/products/pure-bliss-wafer-biscuit): Buy Pure Bliss milk cream wafer biscuits, packs of 5 or 12. Shipped across the United States.
-  Updated: 2026-10-30T17:25:56Z
+  Updated: 2026-11-07T05:00:30Z
   Vendor: Pure Bliss
   Product Type: 
   Availability: Available
@@ -412,7 +412,7 @@
     Availability: Available
     Price: $18.99 USD
 - [Amala / Elubo Yam Flour 4lb & 20lb, Yoruba Swallow | Nexxtmart](https://nexxtmart.com/products/amala-elubo): Buy amala yam flour online, also called elubo. Includes how to turn it without lumps and what to serve with it. Shipped across the United States.
-  Updated: 2026-09-15T22:37:18Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -424,14 +424,14 @@
     Availability: Available
     Price: $69.99 USD
 - [Yale Fish Biscuit Pack of 5, Nigerian Spice Cake | Nexxtmart](https://nexxtmart.com/products/fish-biscuit): Buy Yale fish biscuits, the spiced Nigerian biscuit, pack of 5. Shipped across the United States.
-  Updated: 2026-10-03T18:19:52Z
+  Updated: 2026-11-07T05:01:05Z
   Vendor: Yale
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/10.png?v=1758922765
   Price: $7.55 USD
 - [Golden Morn Cereal 600g-900g & Box of 6 | Nexxtmart](https://nexxtmart.com/products/golden-morn-cereal): Buy Golden Morn maize breakfast cereal, 600g, 900g or a box of six. The Nigerian breakfast staple. Shipped across the United States.
-  Updated: 2026-10-26T04:58:26Z
+  Updated: 2026-11-07T05:00:50Z
   Vendor: Nestlé
   Product Type: 
   Availability: Available
@@ -446,14 +446,14 @@
     Availability: Available
     Price: $85.99 USD
 - [Lion Curry Powder 25g Bottle | Nexxtmart](https://nexxtmart.com/products/lion-curry-powder): Buy Lion curry powder 25g for jollof, fried rice, stew and marinades. Shipped across the United States.
-  Updated: 2026-09-16T10:04:52Z
+  Updated: 2026-11-07T05:01:35Z
   Vendor: Lion
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/curry-powder-lion.png?v=1758922779
   Price: $2.99 USD
 - [Fresh African Yam Tubers 2-50lb, Puna Yam | Nexxtmart](https://nexxtmart.com/products/yam-tubers): Buy fresh African puna yam tubers online, 2 tubers to a 50lb box. Includes how to store and boil it properly. Shipped across the United States.
-  Updated: 2026-09-16T20:20:45Z
+  Updated: 2026-11-07T05:01:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -471,7 +471,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Blue Band Margarine 250g & 450g, Original & Low Fat | Nexxtmart](https://nexxtmart.com/products/blue-band-margarine): Buy Blue Band margarine, the Nigerian breakfast spread for bread, rice and baking. Original and Low Fat, 250g and 450g. Shipped across the US.
-  Updated: 2026-10-26T04:58:25Z
+  Updated: 2026-11-08T00:03:45Z
   Vendor: Blue Band
   Product Type: 
   Availability: Available
@@ -489,14 +489,14 @@
     Availability: Available
     Price: $14.70 USD
 - [Glucose-D Powder 400g, Glucose Drink Powder | Nexxtmart](https://nexxtmart.com/products/glucose-d): Buy Glucose-D powder 400g to stir into cold water, juice or pap. Shipped across the United States.
-  Updated: 2026-09-16T10:04:54Z
+  Updated: 2026-11-07T05:01:31Z
   Vendor: Glucose-D
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/glucose-D.png?v=1758922791
   Price: $11.99 USD
 - [Hollandia Yoghurt 1L, Plain, Strawberry & Vanilla | Nexxtmart](https://nexxtmart.com/products/hollandia-yoghurt): Buy Hollandia drinking yoghurt 1 litre in plain, strawberry or vanilla. Best cold, with chin chin. Shipped across the United States.
-  Updated: 2026-09-16T10:04:53Z
+  Updated: 2026-11-07T05:01:31Z
   Vendor: Hollandia
   Product Type: 
   Availability: Available
@@ -511,7 +511,7 @@
     Availability: Available
     Price: $9.10 USD
 - [Indomie Noodles 70g, Single & Box of 40 | Nexxtmart](https://nexxtmart.com/products/indomie-noodles): Buy Nigerian Indomie instant noodles 70g, single packs or a box of 40. Shipped across the United States.
-  Updated: 2026-09-16T10:04:54Z
+  Updated: 2026-11-07T05:01:30Z
   Vendor: Indomie
   Product Type: 
   Availability: Available
@@ -523,7 +523,7 @@
     Availability: Available
     Price: $20.99 USD
 - [Peak Milk Powder 360g-2.5kg, Full Cream Tin & Sachet | Nexxtmart](https://nexxtmart.com/products/peak-milk-powder): Buy Peak full cream milk powder in sachets and tins, 360g to 2.5kg. The Nigerian tea staple. Shipped across the United States.
-  Updated: 2026-10-26T14:49:47Z
+  Updated: 2026-11-07T05:00:50Z
   Vendor: Peak
   Product Type: 
   Availability: Available
@@ -551,7 +551,7 @@
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Gino_Peppe_Onion_Tomato_Seasoning_Mix.png?v=1758922815
   Price: $8.99 USD
 - [Sonia Tomato Mix, Pack of 5 & 1.1kg | Nexxtmart](https://nexxtmart.com/products/sonia-tomato-mix): Buy Sonia tomato mix seasoning for stew, jollof and rice. Pack of 5 or 1.1kg. Shipped across the United States.
-  Updated: 2026-09-16T10:05:00Z
+  Updated: 2026-11-07T05:01:31Z
   Vendor: Sonia
   Product Type: 
   Availability: Available
@@ -563,14 +563,14 @@
     Availability: Available
     Price: $11.99 USD
 - [Maggi Star Seasoning Cubes 400g, 100 Cubes | Nexxtmart](https://nexxtmart.com/products/maggi-star-seasoning): Buy Maggi Star seasoning cubes, 400g pack of 100. The Nigerian kitchen staple for stew, soup and rice. Shipped across the US.
-  Updated: 2026-09-16T10:04:57Z
+  Updated: 2026-11-07T05:01:31Z
   Vendor: Maggi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Maggi_Star_Seasoning.png?v=1758922820
   Price: $6.99 USD
 - [Banga Spice 2.8oz & 6.75oz, Palm Nut Soup Seasoning | Nexxtmart](https://nexxtmart.com/products/banga-soup-seasoning-spice): Buy banga spice for Delta banga soup and ofe akwu. Includes the full method and why you simmer it uncovered. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -582,14 +582,14 @@
     Availability: Available
     Price: $9.99 USD
 - [Chivita Exotic Pineapple & Coconut Juice | Nexxtmart](https://nexxtmart.com/products/chivita-exotic): Buy Chivita Exotic pineapple and coconut nectar, the Nigerian party juice. Shipped across the United States.
-  Updated: 2026-09-16T10:04:57Z
+  Updated: 2026-11-07T05:01:30Z
   Vendor: Chivita
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Chivita_exotic.png?v=1758922825
   Price: $9.20 USD
 - [Nutri Milk 500ml x2, Apple, Pineapple, Orange & Peach | Nexxtmart](https://nexxtmart.com/products/nutri-milk): Buy Nutri Milk fruit and milk drink, 2 x 500ml bottles in apple, pineapple, orange or peach. Shipped across the United States.
-  Updated: 2026-09-22T16:46:17Z
+  Updated: 2026-11-07T05:01:10Z
   Vendor: Nutri Milk
   Product Type: 
   Availability: Available
@@ -607,7 +607,7 @@
     Availability: Available
     Price: $11.85 USD
 - [Ribena Blackcurrant 1L & 125ml 6-Pack | Nexxtmart](https://nexxtmart.com/products/ribena-blackcurrant): Buy Ribena blackcurrant cordial, 1 litre bottles or the 125ml six-pack. Shipped across the United States.
-  Updated: 2026-09-22T16:43:14Z
+  Updated: 2026-11-07T05:01:10Z
   Vendor: Ribena
   Product Type: 
   Availability: Available
@@ -622,21 +622,21 @@
     Availability: Available
     Price: $14.99 USD
 - [Scent Leaves 1.6oz, Nchanwu / Efirin African Basil | Nexxtmart](https://nexxtmart.com/products/scent-leaves): Buy dried scent leaf online, known as nchanwu and efirin. Essential for pepper soup, nsala and yam porridge. Shipped across the United States.
-  Updated: 2026-09-15T22:37:18Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Scent_Leaves-1.6oz.png?v=1758922840
   Price: $8.99 USD
 - [Ukazi Leaves 2.7oz, Afang / Eru / Okazi Dried | Nexxtmart](https://nexxtmart.com/products/ukazi-leaves): Buy dried ukazi leaves 2.7oz, known as afang, eru and okazi. For afang soup and eru. Includes how to slice it. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ukazi_Leaves.png?v=1758922842
   Price: $6.99 USD
 - [Semovita Golden Penny 1kg-5kg, Nigerian Swallow | Nexxtmart](https://nexxtmart.com/products/semovita-golden-penny): Buy Golden Penny Semovita for swallow. Includes how to turn it smooth and how it differs from semolina. 1kg to 5kg. Shipped across the US.
-  Updated: 2026-09-16T10:05:02Z
+  Updated: 2026-11-07T05:01:25Z
   Vendor: Golden Penny
   Product Type: 
   Availability: Available
@@ -651,7 +651,7 @@
     Availability: Available
     Price: $41.99 USD
 - [Beans Flour 1.8lb-8lb, Moi Moi & Akara Mix | Nexxtmart](https://nexxtmart.com/products/beans-flour): Buy peeled beans flour for moi moi and akara, no soaking or peeling. Includes both recipes and how to get the water right. Shipped across the US.
-  Updated: 2026-09-15T22:37:18Z
+  Updated: 2026-11-07T05:02:26Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -666,14 +666,14 @@
     Availability: Available
     Price: $71.99 USD
 - [Black Eyed Peas, Nigerian White Beans for Moi Moi | Nexxtmart](https://nexxtmart.com/products/blackeye-pea-beans): Buy black eyed peas for moi moi and akara. Includes how to peel them properly, and the faster alternative. Shipped across the United States.
-  Updated: 2026-09-15T22:37:16Z
+  Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/BlackEye_Pea_Beans.png?v=1758922856
   Price: $48.99 USD
 - [Checkers Custard Banana 400g & 2kg | Nexxtmart](https://nexxtmart.com/products/checkers-custard-banana-flavour): Buy Checkers banana custard powder, the Nigerian breakfast custard. Includes how to mix it without lumps. 400g and 2kg. Shipped across the US.
-  Updated: 2026-09-16T10:05:02Z
+  Updated: 2026-11-07T05:01:25Z
   Vendor: Checkers
   Product Type: 
   Availability: Available
@@ -685,7 +685,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Gino Party Jollof Seasoning Mix, Roll of 5 to Box of 50 | Nexxtmart](https://nexxtmart.com/products/gino-party-jollof-seasoning-mix): Buy Gino party jollof seasoning mix sachets. Includes the party jollof method. Roll of 5, 25 or box of 50. Shipped across the US.
-  Updated: 2026-09-16T10:05:02Z
+  Updated: 2026-11-07T05:01:25Z
   Vendor: Gino
   Product Type: 
   Availability: Available
@@ -700,21 +700,21 @@
     Availability: Available
     Price: $29.99 USD
 - [Lemon Plus Sweets, Pack of 30 Pieces | Nexxtmart](https://nexxtmart.com/products/lemon-plus): Buy Lemon Plus sweets, pack of 30 individually wrapped pieces. Shipped across the United States.
-  Updated: 2026-09-16T10:05:02Z
+  Updated: 2026-11-07T05:01:25Z
   Vendor: Lemon Plus
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/lemon-plus.png?v=1758922860
   Price: $8.99 USD
 - [Heinz Salad Cream, for Nigerian Salad & Coleslaw | Nexxtmart](https://nexxtmart.com/products/heinz-salad-cream): Buy Heinz salad cream, the dressing for Nigerian salad and coleslaw. Shipped across the United States.
-  Updated: 2026-09-16T10:05:03Z
+  Updated: 2026-11-07T05:01:25Z
   Vendor: Heinz
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Heinz_Salad_Cream.png?v=1758922861
   Price: $8.99 USD
 - [Checkers Custard Vanilla 400g & 2kg | Nexxtmart](https://nexxtmart.com/products/checkers-custard-vanilla-powder): Buy Checkers vanilla custard powder, the Nigerian breakfast custard. Includes how to mix it without lumps. 400g and 2kg. Shipped across the US.
-  Updated: 2026-09-16T10:05:04Z
+  Updated: 2026-11-07T05:01:20Z
   Vendor: Checkers
   Product Type: 
   Availability: Available
@@ -726,7 +726,7 @@
     Availability: Available
     Price: $28.99 USD
 - [Bitter Kola 8oz & 1lb, Orogbo / Àkụ Ilu Garcinia Kola | Nexxtmart](https://nexxtmart.com/products/bitter-kola): Buy whole bitter kola nuts online, orogbo in Yoruba and àkụ ilu in Igbo. Fresh Garcinia kola from West Africa. Shipped across the United States.
-  Updated: 2026-09-15T22:37:17Z
+  Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -738,42 +738,42 @@
     Availability: Available
     Price: $35.99 USD
 - [Waakye Leaves 5oz, Ghanaian Sorghum Rice Colouring | Nexxtmart](https://nexxtmart.com/products/waakye-sorghum-leaves): Buy dried waakye sorghum leaves 5oz for Ghanaian waakye rice and beans. Includes how to colour the water. Shipped across the United States.
-  Updated: 2026-09-15T22:37:17Z
+  Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Waakye_Sorghum_Leaves.png?v=1758922870
   Price: $9.99 USD
 - [Onga Seasoning Cubes, Pack of 48 | Nexxtmart](https://nexxtmart.com/products/onga-seasoning-cube): Buy Onga seasoning cubes, pack of 48, for Nigerian soup, stew and rice. Shipped across the United States.
-  Updated: 2026-09-16T10:05:05Z
+  Updated: 2026-11-07T05:01:20Z
   Vendor: Onga
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Onga_Seasoning_Cube.png?v=1758922872
   Price: $7.99 USD
 - [Uda 2oz, Grains of Selim / Negro Pepper Pods | Nexxtmart](https://nexxtmart.com/products/uda-negro-pepper-grains-of-selim): Buy whole dried uda pods 2oz for pepper soup, nsala and nkwobi. Also called eeru alamo and kimba. Shipped across the United States.
-  Updated: 2026-09-15T22:37:18Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Uda_Negro_Pepper_Grains_of_Selim.png?v=1758922873
   Price: $4.78 USD
 - [Unripe Plantain Chips, Crunchy Sweet & Spicy Snack | Nexxtmart](https://nexxtmart.com/products/sweet-and-spicy-unripe-plantain-chips): Buy crunchy unripe plantain chips, sweet and spicy. The savoury Nigerian snack. Shipped across the United States.
-  Updated: 2026-09-15T22:37:17Z
+  Updated: 2026-11-07T05:02:30Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sweet_and_Spicy_Unripe_Plantain_Chips.png?v=1758922876
   Price: $10.99 USD
 - [Ripe Plantain Chips, Sweet & Spicy Nigerian Snack | Nexxtmart](https://nexxtmart.com/products/sweet-and-spicy-ripe-plantain-chips): Buy sweet and spicy ripe plantain chips, the Nigerian snack. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:21Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Sweet_and_Spicy_Ripe_Plantain_Chips.png?v=1758922877
   Price: $10.99 USD
 - [Whole Stockfish 2-3lb, Okporoko Norwegian Dried Cod | Nexxtmart](https://nexxtmart.com/products/stockfish-cod): Buy whole Norwegian stockfish, okporoko, pack of 4 pieces 2-3lb. Includes how to soak and prepare it. Shipped across the United States.
-  Updated: 2026-10-16T15:25:33Z
+  Updated: 2026-11-07T05:01:07Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -785,7 +785,7 @@
     Availability: Available
     Price: $250.00 USD
 - [Curry Masala 4.25oz-14.45oz, Aromatic Spice Blend | Nexxtmart](https://nexxtmart.com/products/curry-masala): Buy curry masala, a warmer fuller blend than curry powder. Includes when to use which. 4.25oz to 14.45oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:20Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -800,7 +800,7 @@
     Availability: Available
     Price: $16.99 USD
 - [Jamaican Curry Powder 3.8oz-15oz, Caribbean Blend | Nexxtmart](https://nexxtmart.com/products/jamaican-curry): Buy Jamaican curry powder for curry goat and curry chicken. Includes how to burn the curry properly. 3.8oz to 15oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -815,7 +815,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Hot Curry Powder 3.85oz-12oz, Fiery Spice Blend | Nexxtmart](https://nexxtmart.com/products/hot-curry): Buy hot curry powder, the same aromatic base with more chilli. 3.85oz, 7.25oz and 12oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:20Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -830,7 +830,7 @@
     Availability: Available
     Price: $13.99 USD
 - [Herbes de Provence 1.3oz & 4oz, French Herb Blend | Nexxtmart](https://nexxtmart.com/products/herbes-de-provence): Buy Herbes de Provence for roast chicken, lamb and vegetables. 1.3oz and 4oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:20Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -842,7 +842,7 @@
     Availability: Available
     Price: $8.99 USD
 - [Adobo Seasoning 2.8oz & 6oz, All-Purpose Blend | Nexxtmart](https://nexxtmart.com/products/adobo-seasoning): Buy adobo seasoning, the Latin all-purpose garlic and oregano blend for meat, rice and stews. 2.8oz and 6oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:20Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -854,7 +854,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Oxtail Seasoning 3oz-12.4oz, Caribbean Spice Blend | Nexxtmart](https://nexxtmart.com/products/oxtail-seasoning): Buy oxtail seasoning, the Caribbean allspice and thyme blend for oxtail, short rib and goat. Shipped across the United States.
-  Updated: 2026-09-15T22:37:36Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -869,7 +869,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Hamburger Seasoning 3.8oz & 6.3oz, Burger Blend | Nexxtmart](https://nexxtmart.com/products/hamburger-seasoning): Buy hamburger seasoning for burgers, meatballs and mince. Mix it in rather than sprinkling on. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -881,7 +881,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Steak Seasoning 3oz & 5.7oz, Coarse Dry Rub | Nexxtmart](https://nexxtmart.com/products/steak-seasoning): Buy coarse steak seasoning dry rub for steaks, burgers and lamb chops. 3oz and 5.7oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -893,7 +893,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Cajun Seasoning 3.8oz-14oz, Louisiana Spice Blend | Nexxtmart](https://nexxtmart.com/products/cajun-seasoning-recipe): Buy Cajun seasoning for blackened fish, jambalaya, prawns and chips. 3.8oz, 7.25oz and 14oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -908,7 +908,7 @@
     Availability: Available
     Price: $13.99 USD
 - [Beef Stew Seasoning 3.8oz-10.5oz, Spice Blend | Nexxtmart](https://nexxtmart.com/products/beef-stew-seasoning): Buy beef stew seasoning for red stew, buka stew and slow-cooked beef. 3.8oz, 7.6oz and 10.5oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -923,7 +923,7 @@
     Availability: Available
     Price: $13.99 USD
 - [Beef Masala Seasoning 7.6oz & 13.95oz, Spice Blend | Nexxtmart](https://nexxtmart.com/products/beef-masala-seasoning): Buy beef masala seasoning for curries, kebabs and slow-cooked beef. Includes how to bloom it properly. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -935,7 +935,7 @@
     Availability: Available
     Price: $12.99 USD
 - [Onion Seasoning 3.6oz & 7.5oz, Hot Chilli Blend | Nexxtmart](https://nexxtmart.com/products/hot-chili-onion-seasoning): Buy onion and hot chilli seasoning for stew, rubs and marinades. 3.6oz and 7.5oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -947,14 +947,14 @@
     Availability: Available
     Price: $9.99 USD
 - [Gumbo Seasoning 3.75oz, New Orleans Spice Blend | Nexxtmart](https://nexxtmart.com/products/gumbo-seasoning): Buy gumbo seasoning for gumbo and jambalaya. 3.75oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:31Z
+  Updated: 2026-11-07T05:02:25Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Gumbo_Seasoning.png?v=1758922913
   Price: $7.99 USD
 - [Pizza Seasoning 8oz & 15oz, Italian Herb Blend | Nexxtmart](https://nexxtmart.com/products/pizza-seasoning): Buy pizza seasoning, an oregano and basil blend for pizza, pasta sauce and garlic bread. 8oz and 15oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -966,7 +966,7 @@
     Availability: Available
     Price: $15.99 USD
 - [Grill Seasoning Mix 3.5oz-3.2lb, Barbecue Rub | Nexxtmart](https://nexxtmart.com/products/grill-seasoning-mix): Buy all-purpose grill seasoning for beef, chicken, fish and vegetables. 3.5oz to 3.2lb catering size. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -984,7 +984,7 @@
     Availability: Available
     Price: $44.99 USD
 - [McVitie's Digestive Biscuits, 1 & 2 Packs | Nexxtmart](https://nexxtmart.com/products/digestive-biscuits): Buy McVitie's original wheat digestive biscuits, 1 or 2 packs. Shipped across the United States.
-  Updated: 2026-09-28T14:21:17Z
+  Updated: 2026-11-07T05:01:06Z
   Vendor: McVitie's
   Product Type: 
   Availability: Available
@@ -996,7 +996,7 @@
     Availability: Available
     Price: $10.99 USD
 - [Fried Rice Seasoning 3.6oz-56oz, Nigerian Blend | Nexxtmart](https://nexxtmart.com/products/fried-rice-seasoning): Buy fried rice seasoning for Nigerian fried rice. Includes the method that actually gets the colour right. 3.6oz to 56oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1014,7 +1014,7 @@
     Availability: Available
     Price: $49.99 USD
 - [Lemon Pepper Seasoning 4.15oz & 7.75oz | Nexxtmart](https://nexxtmart.com/products/lemon-pepper-seasoning): Buy lemon pepper seasoning for fish, prawns, wings and roast vegetables. 4.15oz and 7.75oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:36Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1026,7 +1026,7 @@
     Availability: Available
     Price: $8.99 USD
 - [Garlic Sriracha Seasoning 8oz & 16oz | Nexxtmart](https://nexxtmart.com/products/garlic-sriracha): Buy dry garlic sriracha seasoning for wings, chips, noodles and marinades. 8oz and 16oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1038,7 +1038,7 @@
     Availability: Available
     Price: $19.99 USD
 - [Curry Powder 3.8oz-12oz, for Jollof & Nigerian Cooking | Nexxtmart](https://nexxtmart.com/products/curry-powder): Buy curry powder for jollof rice, fried rice, stew and marinades. 3.8oz, 7.5oz and 12oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1053,7 +1053,7 @@
     Availability: Available
     Price: $15.99 USD
 - [Buffalo Wing Seasoning 3.9oz & 7.95oz, Dry Rub | Nexxtmart](https://nexxtmart.com/products/buffalo-wings-spice): Buy buffalo wing seasoning, a dry rub for crispy wings without the wet sauce. 3.9oz and 7.95oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:10Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1065,7 +1065,7 @@
     Availability: Available
     Price: $9.99 USD
 - [Pork Chop Seasoning 4.5oz-14oz, Spice Blend | Nexxtmart](https://nexxtmart.com/products/pork-chop-seasoning): Buy pork chop seasoning for chops, belly and ribs. 4.5oz, 7.05oz and 14oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1080,14 +1080,14 @@
     Availability: Available
     Price: $14.99 USD
 - [Chai Masala 3.45oz, Spiced Tea Blend | Nexxtmart](https://nexxtmart.com/products/chai-masala-seasoning): Buy chai masala 3.45oz for masala chai. Cardamom, ginger, cinnamon and clove. Includes the full brewing method. Shipped across the US.
-  Updated: 2026-09-15T22:37:36Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Chai_Masala_Seasoning.png?v=1758922931
   Price: $5.99 USD
 - [African Soup Seasoning 3.9oz-14.3oz, Spice Blend | Nexxtmart](https://nexxtmart.com/products/african-soup-seasoning): Buy African soup seasoning for egusi, ogbono, okra and pepper soup. 3.9oz, 7.5oz and 14.3oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:35Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1102,7 +1102,7 @@
     Availability: Available
     Price: $13.99 USD
 - [Pepper Soup Seasoning 4.3oz-12.9oz, Nigerian Spice | Nexxtmart](https://nexxtmart.com/products/pepper-soup-seasoning): Buy pepper soup seasoning for goat, catfish and chicken pepper soup. Includes the full method. 4.3oz to 12.9oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:02:01Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1117,7 +1117,7 @@
     Availability: Available
     Price: $14.99 USD
 - [Fish Seasoning 2.8oz-13oz, Spice Blend for Fish | Nexxtmart](https://nexxtmart.com/products/fish-seasoning): Buy fish seasoning for grilled and fried fish, fish stew and pepper soup. 2.8oz, 5.6oz and 13oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:48Z
+  Updated: 2026-11-07T05:01:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1132,21 +1132,21 @@
     Availability: Available
     Price: $13.99 USD
 - [Dried Shallots 1.8oz, Sliced Shallot Onion | Nexxtmart](https://nexxtmart.com/products/shallot-onion): Buy dried sliced shallots for soups, stews, rubs and marinades. 1.8oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-11-07T05:01:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Shallot_Onion.png?v=1758922941
   Price: $5.99 USD
 - [Achi Powder 10.6oz, Nigerian Soup Thickener | Nexxtmart](https://nexxtmart.com/products/achi-african-soup-thickener): Buy ground achi 10.6oz, the Igbo soup thickener for ofe achi, oha and nsala. Includes how to add it without lumps. Shipped across the US.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Achi_African_Soup_Thickener.png?v=1758922943
   Price: $9.99 USD
 - [Ground Thyme 7oz & 14oz, Dried Leaves for Cooking | Nexxtmart](https://nexxtmart.com/products/ground-thyme-leaves): Buy ground thyme for jollof, stew, chicken and marinades. The other half of curry and thyme. 7oz and 14oz. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:02:00Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1158,7 +1158,7 @@
     Availability: Available
     Price: $13.99 USD
 - [Titus Sardines 125g, Packs of 1 to 50 | Nexxtmart](https://nexxtmart.com/products/titus-sardines-125g): Buy Titus sardines in soybean oil, 125g tins, single or bulk packs up to 50. Shipped across the United States.
-  Updated: 2026-09-16T10:05:10Z
+  Updated: 2026-11-07T05:01:20Z
   Vendor: Titus
   Product Type: 
   Availability: Available
@@ -1176,7 +1176,7 @@
     Availability: Available
     Price: $325.99 USD
 - [Raw Buckwheat Honey 12oz & 1.1lb, Unfiltered | Nexxtmart](https://nexxtmart.com/products/pure-raw-honey-buckwheat): Buy raw unfiltered buckwheat honey, dark and malty. 12oz and 1.1lb. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-11-07T05:01:51Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1188,7 +1188,7 @@
     Availability: Available
     Price: $18.99 USD
 - [Oxford Cabin Biscuits, 1 & 2 Packs | Nexxtmart](https://nexxtmart.com/products/oxford-cabin-biscuits): Buy Oxford cabin biscuits, the classic hard Nigerian biscuit for tea and groundnuts. Shipped across the United States.
-  Updated: 2026-09-16T10:05:08Z
+  Updated: 2026-11-07T05:01:20Z
   Vendor: Oxford
   Product Type: 
   Availability: Available
@@ -1200,7 +1200,7 @@
     Availability: Available
     Price: $13.85 USD
 - [Red Palm Oil 16oz-65oz, Unrefined for Cooking | Nexxtmart](https://nexxtmart.com/products/palm-oil-100-pure-organic): Buy unrefined red palm oil 16oz, 32oz or 65oz for egusi, banga, ofada and abacha. Includes how to bleach it. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:02:00Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1215,7 +1215,7 @@
     Availability: Available
     Price: $29.99 USD
 - [Malta Guinness Cans, 3 to Box of 24 Non-Alcoholic | Nexxtmart](https://nexxtmart.com/products/malta-guinness-non-alcoholic-drink): Buy Malta Guinness non-alcoholic malt drink in cans. Packs of 3, 6, 12 or a box of 24. Shipped across the United States.
-  Updated: 2026-09-16T10:05:08Z
+  Updated: 2026-11-07T05:01:20Z
   Vendor: Malta Guinness
   Product Type: 
   Availability: Available
@@ -1233,21 +1233,21 @@
     Availability: Available
     Price: $69.99 USD
 - [Ogiri Okpeyi 3.2oz, Fermented Seed Condiment | Nexxtmart](https://nexxtmart.com/products/ogiri-okpeyi): Buy ogiri okpeyi 3.2oz, also called okpehe, for bitterleaf, egusi, oha and nsala soups. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ogiri_Okpeyi.png?v=1758922968
   Price: $8.00 USD
 - [Iru 8oz, Fermented Locust Beans / Dawadawa | Nexxtmart](https://nexxtmart.com/products/locust-beans-fresh-and-fermented-iru): Buy iru 8oz, fermented African locust beans, also called dawadawa. Essential for efo riro, ewedu and ofada sauce. Shipped across the US.
-  Updated: 2026-10-26T04:58:25Z
+  Updated: 2026-11-07T05:00:56Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Locust_Beans.png?v=1758922976
   Price: $8.00 USD
 - [Ugba / Ukpaka 1lb-2lb, Dried African Oil Bean Seed | Nexxtmart](https://nexxtmart.com/products/ugba): Buy dried ugba online, also called ukpaka. Sliced fermented African oil bean for abacha, nkwobi and ugba na okporoko. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:02:01Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1259,21 +1259,21 @@
     Availability: Available
     Price: $31.50 USD
 - [Akanwu dried 4oz, Kaun / Kanwa Edible Potash | Nexxtmart](https://nexxtmart.com/products/akanwu-potash-whole): Buy akanwu 4oz, known as kaun and kanwa. Emulsifies palm oil for abacha and nkwobi, softens ukwa and beans. Shipped across the US.
-  Updated: 2026-09-15T22:37:46Z
+  Updated: 2026-11-07T05:02:05Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Akanwu_Potash_Whole.png?v=1758922977
   Price: $8.99 USD
 - [Ogiri Igbo 6.15oz, Fermented Seed Seasoning | Nexxtmart](https://nexxtmart.com/products/ogiri-igbo-sesame-seeds): Buy ogiri Igbo 6.15oz, the fermented seed seasoning for bitterleaf, egusi, oha and ora soup. Shipped across the United States.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:02:00Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Ogiri_Igbo.png?v=1758922982
   Price: $8.00 USD
 - [Dried Prawns (Oporo) 8oz & 1.3lb, Smoked | Nexxtmart](https://nexxtmart.com/products/dried-prawns): Buy whole dried smoked prawns, oporo, for egusi, okra, native soup and jollof. Sweeter and firmer than crayfish. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:01:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1285,14 +1285,14 @@
     Availability: Available
     Price: $59.99 USD
 - [Stockfish Heads with Ears 1.5lb, Dried Cod Heads | Nexxtmart](https://nexxtmart.com/products/stockfish-cod-heads-with-ears): Buy dried Norwegian stockfish heads with ears, 3 pieces 1.5lb. Traditional for ofe nsala and long-simmered soups. Shipped across the US.
-  Updated: 2026-09-15T22:37:47Z
+  Updated: 2026-11-07T05:01:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Stockfish_Head.png?v=1758922993
   Price: $55.20 USD
 - [De Rica Tomato Paste, Roll of 5 & Box of 50 Sachets | Nexxtmart](https://nexxtmart.com/products/de-rica-tomato-paste): Buy De Rica double concentrate tomato paste sachets for jollof and stew. Includes why you must fry the paste first. Shipped across the US.
-  Updated: 2026-09-16T10:05:12Z
+  Updated: 2026-11-07T05:01:15Z
   Vendor: De Rica
   Product Type: 
   Availability: Available
@@ -1304,7 +1304,7 @@
     Availability: Available
     Price: $69.99 USD
 - [Ground White Pepper 8oz-3lb | Nexxtmart](https://nexxtmart.com/products/white-pepper): Buy ground white pepper for ofe nsala, pepper soup and pale sauces. 8oz, 16oz and 3lb. Shipped across the United States.
-  Updated: 2026-09-15T22:37:50Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1319,7 +1319,7 @@
     Availability: Available
     Price: $40.30 USD
 - [Long Grain Parboiled Rice 25lb & 50lb Bags | Nexxtmart](https://nexxtmart.com/products/white-parboiled-rice): Buy long grain parboiled rice in 25lb and 50lb bags. Includes how to parboil properly for jollof. Shipped across the United States.
-  Updated: 2026-09-15T22:37:48Z
+  Updated: 2026-11-07T05:01:55Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1331,14 +1331,14 @@
     Availability: Available
     Price: $44.99 USD
 - [Double Root Coffee 6 Sachets 60g, Arabica Blend | Nexxtmart](https://nexxtmart.com/products/double-root-coffee-1-pack-of-6-sachets-60g-blend-of-arabica-coffee-natural-herbs-and-spices-ashwagandha-tongkat-maca-root): Buy Double Root Coffee, instant Arabica blended with ashwagandha, tongkat ali and maca root. 6 sachets, 60g. Shipped across the US.
-  Updated: 2026-10-01T15:31:45Z
+  Updated: 2026-11-07T05:01:06Z
   Vendor: Double Root
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Double_Root_Coffee.png?v=1758923001
   Price: $29.99 USD
 - [Suya Spice 4.3oz-3.7lb, Yaji Nigerian Peanut Rub | Nexxtmart](https://nexxtmart.com/products/suya-spice-mix-seasoning): Buy suya spice, the Hausa yaji peanut and pepper rub for grilled meat. 4.3oz to 3.7lb catering size. Shipped across the United States.
-  Updated: 2026-10-18T19:08:30Z
+  Updated: 2026-11-07T05:01:00Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1356,7 +1356,7 @@
     Availability: Available
     Price: $47.89 USD
 - [Dried Periwinkle (Isam) 8oz & 1lb, Shell-Free | Nexxtmart](https://nexxtmart.com/products/african-seafood-dried-periwinkle-snail): Buy dried shell-free periwinkle, isam, for afang soup and edikang ikong. Cleaned and ready for the pot. Shipped across the United States.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1368,7 +1368,7 @@
     Availability: Available
     Price: $18.99 USD
 - [Cameroon Pepper 2.8oz-3lb, Ground Scotch Bonnet | Nexxtmart](https://nexxtmart.com/products/scotch-bonnet-cameroon-pepper): Buy ground Cameroon pepper, dried scotch bonnet, for stew, jollof and suya. 2.8oz to 3lb catering size. Shipped across the United States.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1386,7 +1386,7 @@
     Availability: Available
     Price: $65.99 USD
 - [Epiderm Cream 15g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/epiderm-creme-for-fungal-infections): Epiderm cream 15g, imported. Contains betamethasone and gentamicin, both -only in the US. Read the safety information before buying.
-  Updated: 2026-10-22T04:25:03Z
+  Updated: 2026-11-07T05:01:00Z
   Vendor: Epiderm
   Product Type: 
   Availability: Available
@@ -1398,14 +1398,14 @@
     Availability: Available
     Price: $14.99 USD
 - [Funbact-A Cream 30g, Imported Topical Cream | Nexxtmart](https://nexxtmart.com/products/antifungal-cream-funbact-a): Funbact-A cream 30g, imported. Contains betamethasone, a -only corticosteroid in the US. Read the safety information before buying.
-  Updated: 2026-10-26T04:58:26Z
+  Updated: 2026-11-07T05:00:50Z
   Vendor: Funbact-A
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Funbact-A_Triple_Action_Cream.png?v=1758923014
   Price: $8.99 USD
 - [Egusi Soup Starter Box, Complete Kit with Garri or Poundo | Nexxtmart](https://nexxtmart.com/products/nexxtmart-starter-box-african-cuisine-grocery): Buy the Nexxtmart egusi soup starter box, everything for a pot of egusi plus your swallow. Choose garri or poundo. Shipped across the US.
-  Updated: 2026-10-28T20:09:37Z
+  Updated: 2026-11-07T05:00:35Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1417,28 +1417,28 @@
     Availability: Available
     Price: $100.00 USD
 - [Complan Milk Powder 450g, Malted Milk Drink | Nexxtmart](https://nexxtmart.com/products/complan-milk-complete-meal-drink-450g): Buy Complan malted milk powder 450g. Mix with hot or cold milk, or stir into pap and custard. Shipped across the United States.
-  Updated: 2026-09-16T10:05:15Z
+  Updated: 2026-11-07T05:01:15Z
   Vendor: Complan
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Complan_Milk.png?v=1764011752
   Price: $28.99 USD
 - [Dried Dates 1kg, Dabino Whole Dates | Nexxtmart](https://nexxtmart.com/products/dates-1kg): Buy dried dates 1kg, dabino, for snacking, dabino drink and baking. Includes how to make the drink. Shipped across the United States.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:50Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/whole-dried-dates.png?v=1764013622
   Price: $39.99 USD
 - [Nigerian White Beans 4lb Bag | Nexxtmart](https://nexxtmart.com/products/white-beans-nigeria): Buy Nigerian white beans 4lb for moi moi, akara and beans porridge. Includes cooking notes. Shipped across the United States.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:45Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Nigerian_white_beans_quality_whole_grains.png?v=1764014614
   Price: $26.00 USD
 - [Bay Leaves 2oz-16oz, Whole Dried Aromatic Spice | Nexxtmart](https://nexxtmart.com/products/bay-leaf-dried-natural-aromatic-spice): Buy whole dried bay leaves for jollof, stock, stews and pepper soup. 2oz, 4oz and 16oz. Shipped across the United States.
-  Updated: 2026-09-16T20:23:41Z
+  Updated: 2026-11-07T05:01:15Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1453,14 +1453,14 @@
     Availability: Available
     Price: $90.00 USD
 - [Lipton Yellow Label Black Tea Bags | Nexxtmart](https://nexxtmart.com/products/lipton-tea-pack): Buy Lipton Yellow Label black tea bags, the Nigerian breakfast tea. Shipped across the United States.
-  Updated: 2026-09-16T10:05:16Z
+  Updated: 2026-11-07T05:01:15Z
   Vendor: Lipton
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0683/1688/9140/files/Lipton_tea_box.png?v=1764016004
   Price: $15.00 USD
 - [Whole Cloves 14oz-50oz, Dried Spice for Zobo & Tea | Nexxtmart](https://nexxtmart.com/products/cloves-whole-spice): Buy whole dried cloves for zobo, pepper soup, tea and baking. 14oz, 28oz and 50oz. Shipped across the United States.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:46Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
@@ -1475,7 +1475,7 @@
     Availability: Available
     Price: $75.89 USD
 - [Zobo Leaves 250g-1kg, Dried Hibiscus for Zobo | Nexxtmart](https://nexxtmart.com/products/hibiscus-flowers-dried-zobo-leaves): Buy sun-dried Sahel hibiscus petals for zobo, bissap and sobolo. 250g, 500g and 1kg. Includes how to steep it. Shipped across the US.
-  Updated: 2026-09-15T22:37:55Z
+  Updated: 2026-11-07T05:01:46Z
   Vendor: Nexxtmart LLC
   Product Type: 
   Availability: Available
