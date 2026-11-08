@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-27T12:32:18Z
 - Contact Email: grammyshellesshed@gmail.com
-- Updated At: 2026-10-31T00:51:17.708Z
+- Updated At: 2026-11-08T00:49:18.573Z
 
 Grammy Shell's Shed -Perfictly Imperfict Finds 
 
@@ -649,6 +649,27 @@ A timeless addition to your vintage  china collection
 - [Vintage Christmas Decore](https://b0cegj-qy.myshopify.com/collections/vintage-christmas-decore): These are some of the vintage Christmas items I have found through out the year . They are some of the most unique pieces I can post for you. Along with some that we all have had at one time in our lives .
   Updated: 2026-10-24T01:31:32Z
   Total Products: 5
+- [[Shipping] General profile](https://b0cegj-qy.myshopify.com/collections/shipping-97863270554)
+  Updated: 2026-11-04T17:27:29Z
+  Total Products: 3
+- [[Shipping] Grammy's Apparel](https://b0cegj-qy.myshopify.com/collections/shipping-98642624666)
+  Updated: 2026-11-04T17:27:29Z
+  Total Products: 1
+- [[Shipping] Grammy's Big stuff](https://b0cegj-qy.myshopify.com/collections/shipping-98999206042)
+  Updated: 2026-11-04T17:27:29Z
+  Total Products: 6
+- [[Shipping] Grammy's Shipping](https://b0cegj-qy.myshopify.com/collections/shipping-98174861466)
+  Updated: 2026-11-04T17:27:29Z
+  Total Products: 76
+- [[Shipping] HEAVY STUFF](https://b0cegj-qy.myshopify.com/collections/shipping-98999763098)
+  Updated: 2026-11-04T17:27:23Z
+  Total Products: 0
+- [[Shipping] JEWLERY](https://b0cegj-qy.myshopify.com/collections/shipping-98999664794)
+  Updated: 2026-11-04T17:27:23Z
+  Total Products: 0
+- [[Shipping] Media](https://b0cegj-qy.myshopify.com/collections/shipping-98642755738)
+  Updated: 2026-11-04T17:27:23Z
+  Total Products: 0
 
 ## Blogs
 
