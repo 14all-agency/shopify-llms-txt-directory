@@ -6,7 +6,7 @@
 - Timezone: Africa/Monrovia
 - Created At: 2024-10-22T09:47:11Z
 - Contact Email: barnabilar@barnabilar.is
-- Updated At: 2026-10-31T00:40:14.654Z
+- Updated At: 2026-11-08T00:37:33.324Z
 
 Barnabilar.is is an Iceland-based e-commerce store specializing in electric ride-on cars, buggies, and vehicles for children. The store offers high-powered battery-operated cars designed for outdoor and indoor use, combining safety, durability, and fun.
 
