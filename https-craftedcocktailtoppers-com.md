@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-10-31T00:38:25.143Z
+- Updated At: 2026-11-08T00:38:55.852Z
 
 Crafted Cocktail Toppers is a premium provider of custom edible drink toppers designed for weddings, corporate events, and luxury celebrations. Our toppers can be personalized with logos, photos, monograms, and themed designs to elevate cocktails and create memorable drink experiences.
 
@@ -15,7 +15,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Products
 
 - [Personalized Edible Monogram Drink Toppers - Custom Cocktail Garnishe](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
-  Updated: 2026-10-31T00:01:16Z
+  Updated: 2026-11-07T19:07:25Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Edible Drink Toppers
   Availability: Available
@@ -2045,7 +2045,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-07T12:16:44Z
   Total Products: 3
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-07-08T20:15:22Z
@@ -2054,7 +2054,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2026-09-04T20:48:32Z
   Total Products: 5
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers): Shop premium edible cocktail toppers that wow guests at weddings, bachelorettes, birthdays, and corporate events. Customizable designs that sit beautifully on any drink.
-  Updated: 2026-10-30T11:15:17Z
+  Updated: 2026-11-07T12:16:44Z
   Total Products: 10
 - [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
   Updated: 2026-10-28T18:18:04Z
