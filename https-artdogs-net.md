@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-22T16:28:59Z
 - Contact Email: ArtDog@ArtDogs.co
-- Updated At: 2026-10-31T01:18:55.128Z
+- Updated At: 2026-11-08T01:20:35.105Z
 
 ## Products
 
@@ -3015,6 +3015,9 @@
     Author: John Hermann
   - [The Art of Accessorizing: How the Carnality Men Square Scarf Transforms Your Outfits](https://artdogs.net/blogs/news/the-art-of-accessorizing-how-the-carnality-men-square-scarf-transforms-your-outfits)
     Updated: 2025-12-04T07:01:07Z
+    Author: John Hermann
+  - [Women's Lounge Pants – Comfortable & Stylish Loungewear | ARTDOGS](https://artdogs.net/blogs/news/how-can-women-s-lounge-pants-combine-comfort-and-everyday-style): Women's Lounge Pants – Comfortable & Stylish Loungewear | ARTDOGS
+    Updated: 2026-11-03T06:07:59Z
     Author: John Hermann
 
 ## Store Pages
