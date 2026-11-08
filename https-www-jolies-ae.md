@@ -9,19 +9,19 @@
 - Created At: 2023-04-26T05:16:10Z
 - Contact Email: joliestoreuae@gmail.com
 - Contact Phone: +971502963596
-- Updated At: 2026-11-01T16:45:28.644Z
+- Updated At: 2026-11-08T20:45:28.610Z
 
 ## Products
 
-- [OXILLIS Coffee Therapy Hair Protein 1L | JOLIES UAE](https://www.jolies.ae/products/oxillis-coffee-therapy-brazilian-protein-hair--1000-ml): Shop OXILLIS Coffee Therapy Brazilian Protein 1 litre for professional smoothing care designed to help frizz-prone hair feel softer at JOLIES UAE.
-  Updated: 2026-10-16T22:03:34Z
+- [OXILLIS Coffee Therapy Brazilian Protein | JOLIE'S UAE](https://www.jolies.ae/products/oxillis-coffee-therapy-brazilian-protein-hair--1000-ml): Shop OXILLIS Coffee Therapy Brazilian Protein at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:05Z
   Vendor: OXILLIS
   Product Type: Keratin & Smoothing 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/OXILLIS-Coffee-Therapy-Brazilian-Protein-Hair-Straightener-1000-ML-OXILLIS-JOLIE_S-205065155.png?v=1779549923
   Price: AED 500.00 AED
-- [Amazon Flowers Perfect Smooth Hair Protein 1L | JOLIES UAE](https://www.jolies.ae/products/amazon-flowers-brazilian-hair-protein--1000-ml): Shop Amazon Flowers Perfect Smooth Brazilian hair protein 1 litre, a professional smoothing  designed to help control frizz and improve shine.
-  Updated: 2026-10-16T22:03:35Z
+- [Amazon Flowers Brazilian Hair Protein](https://www.jolies.ae/products/amazon-flowers-brazilian-hair-protein--1000-ml): Shop Amazon Flowers Brazilian Hair Protein at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:22:26Z
   Vendor: AMAZON FLOWERS
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -104,8 +104,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Nuspa-Marula-Professional-Natural-Oil-Deep-Hydrating-Shampoo-and-Conditioner-Set-Sulfate-Paraben-Free-500-ML-NUSPA-JOLIE-S-1696937676338.jpg?v=1696937678
   Price: AED 150.00 AED
-- [NUSPA Argan Oil Hair Serum | JOLIES UAE](https://www.jolies.ae/products/nuspa-argan-oil-hair-oil-serum-hair-): Shop NUSPA Argan Oil Hair Serum, a lightweight finishing  designed to help smooth frizz and add softness and shine.
-  Updated: 2026-10-16T22:03:41Z
+- [NUSPA Argan Oil Hair Serum | JOLIE'S UAE](https://www.jolies.ae/products/nuspa-argan-oil-hair-oil-serum-hair-): Shop NUSPA Argan Oil Hair Serum at JOLIE'S UAE. Find product details, usage information and availability for convenient online beauty shopping.
+  Updated: 2026-11-07T09:33:55Z
   Vendor: NUSPA
   Product Type: Hair Serum
   Availability: Available
@@ -118,8 +118,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/NUSPA-Argan-Oil-Hair-Oil-Serum-Hair--NUSPA-JOLIE-S-1696938020481.jpg?v=1696938022
     Price: AED 160.00 AED
-- [NUSPA Purple Shampoo 500 ml | JOLIES UAE](https://www.jolies.ae/products/nuspa-3-minutes-purple-no-yellow-shampoo-moisturizing-shimmer-correction-sulfate-free-argan-oil-keratin-protein-infused-for-color-correction-500-ml): Shop NUSPA Purple No Yellow Shampoo 500 ml with argan oil and keratin, designed to help neutralise unwanted warm tones in suitable light hair.
-  Updated: 2026-10-16T22:03:42Z
+- [NUSPA 3 Minutes Purple No Yellow Shampoo | JOLIE'S UAE](https://www.jolies.ae/products/nuspa-3-minutes-purple-no-yellow-shampoo-moisturizing-shimmer-correction-sulfate-free-argan-oil-keratin-protein-infused-for-color-correction-500-ml): Shop NUSPA 3 Minutes Purple No Yellow Shampoo at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:31Z
   Vendor: NUSPA
   Product Type: Purple Shampoo
   Availability: Available
@@ -139,8 +139,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/CERIOTTI-Evolution-Bi5000-Brushless-Superleggero-Hair-Dryer-CERIOTTI-JOLIE-S-1696938280602.jpg?v=1696938282
   Price: AED 450.00 AED
-- [MAXINE Black Hair Bleaching Powder 1000g | JOLIES UAE](https://www.jolies.ae/products/maxine-bleaching-powder-black-1000-g): Shop MAXINE Black Hair Bleaching Powder 1000g, made in Italy for trained professional colourists performing controlled hair-lightening services at JOLIES UAE.
-  Updated: 2026-10-16T22:03:44Z
+- [MAXINE Black Bleaching Powder | JOLIE'S UAE](https://www.jolies.ae/products/maxine-bleaching-powder-black-1000-g): Shop MAXINE Black Bleaching Powder at JOLIE'S UAE. Find product details, usage information and availability for convenient online beauty shopping.
+  Updated: 2026-11-07T09:33:45Z
   Vendor: MAXINE
   Product Type: Hair Color
   Availability: Available
@@ -258,8 +258,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Abpnatural-Cosmetics-New-Carolina-Natural-Sealing-Hair-1000-ML-ABPNATURAL-JOLIE_S-205064776.png?v=1779549732
   Price: AED 600.00 AED
-- [HB 5G Therapy Anti-Frizz Protein | JOLIES UAE](https://www.jolies.ae/products/hb-hair-solution-5g-therapy-anti-frizz-protein-5-in-1-smoothing-1000-ml): Shop HB Hair Solution 5G Therapy Anti-Frizz Protein for professional smoothing care that helps dry, frizz-prone hair feel softer and manageable at JOLIES UAE.
-  Updated: 2026-10-16T22:03:55Z
+- [HB HAIR SOLUTION 5G Therapy Anti Frizz | JOLIE'S UAE](https://www.jolies.ae/products/hb-hair-solution-5g-therapy-anti-frizz-protein-5-in-1-smoothing-1000-ml): Shop HB HAIR SOLUTION 5G Therapy Anti Frizz at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:46Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -276,8 +276,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/HB-HAIR-SOLUTION-5G-Therapy-Anti-Frizz-Protein-5-in-1-Smoothing-HB-JOLIE_S-127909980.jpg?v=1724965189
     Price: AED 200.00 AED
-- [Brazilian Caviar Hair  | HB HAIR SOLUTION Protein](https://www.jolies.ae/products/hb-hair-solution-brazilian-caviar-anti-frizz-protein-1000-ml): Shop Brazilian caviar hair  by HB HAIR SOLUTION with Caviar Extract, Pracaxi oil, tannin, and 0% formaldehyde for smoother hair.
-  Updated: 2026-10-16T22:03:56Z
+- [HB HAIR SOLUTION Brazilian Caviar Hair | JOLIE'S UAE](https://www.jolies.ae/products/hb-hair-solution-brazilian-caviar-anti-frizz-protein-1000-ml): Shop HB HAIR SOLUTION Brazilian Caviar Hair at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:01Z
   Vendor: HB
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -429,8 +429,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Turquoise-and-Tiger-Eye-Natural-Stone-JOLIE_S-JOLIE_S-118228176.jpg?v=1724965371
   Price: AED 220.00 AED
-- [Sally's Choice Bio Protein 6-Piece Set | JOLIES UAE](https://www.jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set): Shop Sally's Choice Bio Protein Natural Hair Therapy 6-piece set for a coordinated professional routine addressing frizz and manageability at JOLIES UAE.
-  Updated: 2026-10-21T06:04:06Z
+- [Sally's Choice Bio Protein Natural Hair | JOLIE'S UAE](https://www.jolies.ae/products/sallys-choice-bio-protein-natural-hair-therapy-anti-frizz-6-pcs-set): Shop Sally's Choice Bio Protein Natural Hair at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:19:26Z
   Vendor: SALLY'S CHOICE
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -465,8 +465,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Rubi-Liss-Pro-Therapy-Brazilian-Blowout-With-Amino-Macadamia-1-L-RUBI-LISS-JOLIE_S-128003492.png?v=1724965606
   Price: AED 600.00 AED
-- [ABP African Smooth Brazilian Protein 1L | JOLIES UAE](https://www.jolies.ae/products/abpnatural-cosmetics-african-smooth-straightening-brazilian-protein-1-l): Shop ABP Natural Cosmetics African Smooth Brazilian Protein 1 litre for professional smoothing care that helps frizz-prone hair feel manageable at JOLIES UAE.
-  Updated: 2026-10-16T22:04:02Z
+- [Abpnatural Cosmetics African Smooth | JOLIE'S UAE](https://www.jolies.ae/products/abpnatural-cosmetics-african-smooth-straightening-brazilian-protein-1-l): Shop Abpnatural Cosmetics African Smooth at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:56Z
   Vendor: ABPNATURAL
   Product Type: Keratin & Smoothing 
   Availability: Available
@@ -554,22 +554,22 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TIGI-BED-HEAD-Colour-Goddess-Conditioner-2000-ML-TIGI-JOLIE_S-128609832.jpg?v=1724965842
   Price: AED 200.00 AED
-- [TopHair Barra Da Tijuca Hair Protein 120 ml | JOLIES UAE](https://www.jolies.ae/products/tophair-cosmetics-barra-da-tijuca-hair-protein-keratin-120-ml-for-colored-hair): Shop TopHair Barra Da Tijuca Keratin Hair Protein 120 ml for professional smoothing care designed for suitable colour-treated hair at JOLIES UAE.
-  Updated: 2026-10-16T22:04:06Z
+- [TopHair Barra Da Tijuca Hair Protein](https://www.jolies.ae/products/tophair-cosmetics-barra-da-tijuca-hair-protein-keratin-120-ml-for-colored-hair): Shop TopHair Barra Da Tijuca Hair Protein at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:22:45Z
   Vendor: TopHair Cosmetics
   Product Type: Hair Permanents & Straighteners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TopHair-Cosmetics-Barra-Da-Tijuca-Hair-Protein-Keratin-120-ML-For-Colored-Hair-TopHair-Cosmetics-JOLIE_S-205064585.png?v=1779549640
   Price: AED 150.00 AED
-- [TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML -](https://www.jolies.ae/products/tophair-cosmetics-premium-hair-smooth-collagen-protein-120-ml): TopHair Cosmetics TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML  Collagen  Ojon Oil  Caviar  Argan  JOLIE'S
-  Updated: 2026-10-16T22:04:06Z
+- [TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML](https://www.jolies.ae/products/tophair-cosmetics-premium-hair-smooth-collagen-protein-120-ml): Shop TopHair Cosmetics Premium Hair Smooth Collagen Protein 120 ML at JOLIE'S UAE. Explore usage information and current online availability.
+  Updated: 2026-11-07T09:36:46Z
   Vendor: TopHair Cosmetics
   Product Type: Hair Permanents & Straighteners
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TopHair-Cosmetics-Premium-Hair-Smooth-Collagen-Protein-120-ML-TopHair-Cosmetics-JOLIE_S-205064453.png?v=1779549613
   Price: AED 150.00 AED
-- [Elixir ThermoCell Vital Hair Ampoules 3 pcs | JOLIES UAE](https://www.jolies.ae/products/elixir-thermocell-vital-apple-stem-cells-3-pcs-pack): Shop Elixir ThermoCell Vital Apple Stem Cells three-piece hair-care pack for cosmetic conditioning support for damaged-looking hair.
-  Updated: 2026-10-23T12:43:28Z
+- [Elixir ThermoCell Vital Apple Stem Cells | JOLIE'S UAE](https://www.jolies.ae/products/elixir-thermocell-vital-apple-stem-cells-3-pcs-pack): Shop Elixir ThermoCell Vital Apple Stem Cells at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:24:35Z
   Vendor: ELIXIR
   Product Type: Hair Care
   Availability: Available
@@ -757,8 +757,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Relief-Sun-_-Rice-_-Probiotics-50-ml-BEAUTY-OF-JOSEON-JOLIE_S-131212849.png?v=1724967005
   Price: AED 80.00 AED
-- [Beauty of Joseon Revive Eye Serum Retinal 30ml](https://www.jolies.ae/products/beauty-of-joseon-revive-eye-serum-ginseng-retinal-pink-30-ml): BEAUTY OF JOSEON Beauty of Joseon Revive Eye Serum: Ginseng + Retinal Pink 30 ml Treat Puffy Eye Bags, Fine Lines,  JOLIE'S
-  Updated: 2026-10-25T07:02:04Z
+- [Beauty of Joseon Revive Eye Serum | JOLIE'S UAE](https://www.jolies.ae/products/beauty-of-joseon-revive-eye-serum-ginseng-retinal-pink-30-ml): Shop Beauty of Joseon Revive Eye Serum at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:24:25Z
   Vendor: BEAUTY OF JOSEON
   Product Type: Eye Serum
   Availability: Available
@@ -862,8 +862,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/TOCOBO-Collagen-Brightening-Eye-Gel-Cream-30-ml-TOCOBO-JOLIE_S-131719610.jpg?v=1724967731
   Price: AED 100.00 AED
-- [SHISEIDO FINO Premium Touch Hair Mask 230 g | JOLIES UAE](https://www.jolies.ae/products/shiseido-fino-hair-mask): Shop SHISEIDO FINO Premium Touch Hair Mask 230 g, an intensive rinse-out conditioning mask for dry, damaged or frizz-prone hair.
-  Updated: 2026-10-25T23:24:14Z
+- [SHISEIDO FINO Premium Touch Hair Mask 230g UAE](https://www.jolies.ae/products/shiseido-fino-hair-mask): Shop SHISEIDO FINO Premium Touch Hair Mask 230g, a rich Japanese  for dry, brittle and damaged hair. Available online from JOLIE'S UAE.
+  Updated: 2026-11-07T09:17:25Z
   Vendor: SHISEIDO FINO
   Product Type: Hair Mask
   Availability: Available
@@ -876,8 +876,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/SHISEIDO-FINO-Premium-Touch-Penetration-Essence-Hair-Oil-70-ml-SHISEIDO-FINO-JOLIE_S-131720535.jpg?v=1724967758
   Price: AED 60.00 AED
-- [SHISEIDO FINO Premium Touch Moist Shampoo & Conditioner 550 ml -](https://www.jolies.ae/products/shiseido-fino-premium-touch-moist-shampoo-550-ml): SHISEIDO FINO SHISEIDO FINO  Touch Moist Shampoo 550 ml Strengthen, nourish and restore damaged hair.  Fino  JOLIE'S
-  Updated: 2026-10-16T22:04:27Z
+- [SHISEIDO FINO Moist Shampoo Conditioner](https://www.jolies.ae/products/shiseido-fino-premium-touch-moist-shampoo-550-ml): Shop SHISEIDO FINO Moist Shampoo Conditioner at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:23:05Z
   Vendor: SHISEIDO FINO
   Product Type: Shampoo
   Availability: Available
@@ -915,8 +915,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Heartleaf-Pore-Control-Cleansing-Oil-200-ml-ANUA-JOLIE_S-131731352.jpg?v=1724967914
   Price: AED 80.00 AED
-- [Karseell Collagen Hair  Collagen Hair Mask Essence for Dry](https://www.jolies.ae/products/karseell-collagen-hair--collagen-hair-mask-essence-for-dry-damaged-hair-500-ml): KARSEELL Karseell Collagen Hair  Collagen Hair Mask Essence for Dry Damaged Hair NATURAL  JOLIE'S
-  Updated: 2026-10-16T22:04:31Z
+- [Karseell Collagen Hair  | JOLIE'S UAE](https://www.jolies.ae/products/karseell-collagen-hair--collagen-hair-mask-essence-for-dry-damaged-hair-500-ml): Shop Karseell Collagen Hair  at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:24:31Z
   Vendor: KARSEELL
   Product Type: Hair Mask
   Availability: Available
@@ -1258,8 +1258,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Mixsoon-Bean-Essence-50-ml-mixsoon-JOLIE_S-132767079.jpg?v=1743091759
   Price: AED 115.00 AED
-- [St Dalfour Philpina Beauty Cream & Soap Set | JOLIES UAE](https://www.jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap): Shop the St Dalfour Philpina Beauty Cream and Soap set for cleansing and cosmetic care of uneven-looking skin. Follow the current package directions.
-  Updated: 2026-10-16T22:04:52Z
+- [St Dalfour Philpina Cream and Soap | JOLIE'S UAE](https://www.jolies.ae/products/st-dalfour-philpina-beauty-whitening-strong-formula-cream-soap): Shop St Dalfour Philpina Cream and Soap at JOLIE'S UAE. Choose the full set or individual cream and soap options for a coordinated skincare routine.
+  Updated: 2026-11-08T00:25:20Z
   Vendor: St Dalfour
   Product Type: Bar Soap
   Availability: Available
@@ -1423,8 +1423,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Embryolisse-Lait-Cr_me-Concentr_-Multi-function-Moisturiser-75-ml-Embryolisse-JOLIE_S-133061492.webp?v=1743092867
   Price: AED 100.00 AED
-- [SHISEIDO FINO Premium Touch Hair care Set  - JOLIES](https://www.jolies.ae/products/shiseido-fino-premium-touch-hair-care-set): SHISEIDO FINO Touch Moist Shampoo 550 ml , conditioner 550 ml, mask 230 gm & oil 70 ml Strengthen, nourish and restore damaged hair.  Made in JAPAN - JOLIES
-  Updated: 2026-10-16T22:05:02Z
+- [SHISEIDO FINO Premium Touch Hair care Set | JOLIE'S UAE](https://www.jolies.ae/products/shiseido-fino-premium-touch-hair-care-set): Shop SHISEIDO FINO Premium Touch Hair care Set at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:18:56Z
   Vendor: SHISEIDO FINO
   Product Type: Hair Care Kit
   Availability: Available
@@ -1528,15 +1528,15 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Secret-Key-Snow-White-Cream-50-g-brightening-SECRET-KEY-JOLIE_S-133591328.jpg?v=1743093444
   Price: AED 90.00 AED
-- [St Dalfour Secret Underarm Cream | JOLIES UAE](https://www.jolies.ae/products/st-dalfour-secret-underarms-whitening-cream): Shop St Dalfour Secret Underarm Cream for moisturising and cosmetic care of uneven-looking underarm skin. Follow the current label directions.
-  Updated: 2026-10-16T22:05:09Z
+- [St Dalfour Secret Underarms Whitening | JOLIE'S UAE](https://www.jolies.ae/products/st-dalfour-secret-underarms-whitening-cream): Shop St Dalfour Secret Underarms Whitening at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:19:31Z
   Vendor: St Dalfour
   Product Type: Bar Soap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/St-Dalfour-Secret-Underarms-Whitening-Cream-St-Dalfour-JOLIE_S-133912813.png?v=1743093477
   Price: AED 80.00 AED
-- [St Dalfour Gluta Sunscreen Cream | JOLIES UAE](https://www.jolies.ae/products/st-dalfour-gluta-sunscreen-cream): Shop St Dalfour Gluta Sunscreen Cream for daily sun protection and cosmetic care of dull-looking skin. Verify SPF directions on the package.
-  Updated: 2026-10-16T22:05:09Z
+- [St Dalfour Gluta Sunscreen Cream | JOLIE'S UAE](https://www.jolies.ae/products/st-dalfour-gluta-sunscreen-cream): Shop St Dalfour Gluta Sunscreen Cream at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:19:15Z
   Vendor: St Dalfour
   Product Type: Bar Soap
   Availability: Available
@@ -1550,7 +1550,7 @@
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BIODANCE-Bio-Collagen-Real-Deep-Mask-34-gm-BIODANCE-JOLIE_S-165528868.jpg?v=1728669686
   Price: AED 100.00 AED
 - [KARSEELL Argan Shampoo & Conditioner Set 500 ml | JOLIES UAE](https://www.jolies.ae/products/karseell-argan-oil-collagen-biotin-organic-nourishing-shampoo-super-detangle-conditioner-set-500-ml-each): Shop the KARSEELL Argan Oil, Collagen and Biotin Shampoo and Conditioner Set for cleansing and conditioning dry or damaged hair.
-  Updated: 2026-10-16T22:05:11Z
+  Updated: 2026-11-02T15:10:46Z
   Vendor: KARSEELL
   Product Type: Shampoo
   Availability: Available
@@ -1577,8 +1577,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/BEAUTY-OF-JOSEON-Relief-Sun-Aqua-Fresh-Rice-_-B5-SPF50_-PA_-50-ML-BEAUTY-OF-JOSEON-JOLIE_S-166326617.png?v=1731353859
   Price: AED 60.00 AED
-- [DR.ALTHEA 345 Relief Cream 50 ml | JOLIES UAE](https://www.jolies.ae/products/dr-althea-345-relief-cream-50ml): Shop DR.ALTHEA 345 Relief Cream 50 ml, a lightweight moisturiser designed to hydrate and soothe blemish-prone or sensitive-looking skin.
-  Updated: 2026-10-16T22:05:12Z
+- [DR.ALTHEA 345 Relief Cream 50ML | JOLIE'S UAE](https://www.jolies.ae/products/dr-althea-345-relief-cream-50ml): Shop DR.ALTHEA 345 Relief Cream 50ML at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:21:15Z
   Vendor: DR ALTHEA
   Product Type: CREAM
   Availability: Available
@@ -1612,8 +1612,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/DR.ALTHEA-147-Barrier-Cream-50-ML-DR-ALTHEA-JOLIE_S-166759484.jpg?v=1732905554
   Price: AED 100.00 AED
-- [MEDICUBE Collagen Jelly Cream | JOLIES UAE](https://www.jolies.ae/products/medicube-collagen-jelly-cream): Shop MEDICUBE Collagen Jelly Cream, a lightweight gel moisturiser for hydration and a smooth, plump-looking finish.
-  Updated: 2026-10-16T22:05:15Z
+- [MEDICUBE Collagen Jelly Cream | JOLIE'S UAE](https://www.jolies.ae/products/medicube-collagen-jelly-cream): Shop MEDICUBE Collagen Jelly Cream at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:20:26Z
   Vendor: Medicube
   Product Type: CREAM
   Availability: Available
@@ -1675,8 +1675,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Beauty-of-Joseon-Relief-Sun-Aqua-fresh-Rice_B5-_SPF50_-PA_-Special-Edition-Set-_50ml_50ml_fan_-Beauty-of-Joseon-JOLIE_S-166812253.jpg?v=1733225284
   Price: AED 190.00 AED
-- [Mom’s Bath Recipe Body Peeling Pads 8 pcs | JOLIES UAE](https://www.jolies.ae/products/moms-bath-recipe-body-peeling-pad-30ml-25ml-8ea): Shop Mom’s Bath Recipe Body Peeling Pads, an eight-sheet body-care pack for convenient cleansing and exfoliation.
-  Updated: 2026-10-16T22:05:18Z
+- [Mom's Bath Recipe Body Peeling Pad | JOLIE'S UAE](https://www.jolies.ae/products/moms-bath-recipe-body-peeling-pad-30ml-25ml-8ea): Shop Mom's Bath Recipe Body Peeling Pad at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:19:02Z
   Vendor: Mom's Bath Recipe
   Product Type: Body Scrub
   Availability: Available
@@ -1827,8 +1827,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Anua-Ultra-Thin-Spot-Cover-Patch-_75ea_-ANUA-JOLIE_S-194342688.jpg?v=1741037738
   Price: AED 75.00 AED
-- [MEDICUBE AGE-R Booster Pro Device | JOLIES UAE](https://www.jolies.ae/products/medicube-age-r-booster-pro-154g): Shop MEDICUBE AGE-R Booster Pro, a multi-mode home beauty device for use with compatible skincare according to the manufacturer instructions.
-  Updated: 2026-10-16T22:05:26Z
+- [MEDICUBE Age-R Booster Pro 154 g | JOLIE'S UAE](https://www.jolies.ae/products/medicube-age-r-booster-pro-154g): Shop MEDICUBE Age-R Booster Pro 154 g at JOLIE'S UAE. Find product details, usage information and current availability for convenient online beauty shopping.
+  Updated: 2026-11-07T12:21:12Z
   Vendor: Medicube
   Product Type: Skin Care Tools
   Availability: Available
@@ -1849,8 +1849,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Age-R-Booster-Pro-154-g-Medicube-JOLIE_S-204768193.jpg?v=1775506380
     Price: AED 800.00 AED
-- [MEDICUBE PDRN Pink Collagen Gel Mask 1 pc | JOLIES UAE](https://www.jolies.ae/products/medicube-pdrn-pink-collagen-gel-mask-1pc): Shop one MEDICUBE PDRN Pink Collagen Gel Mask for intensive hydration and a smooth, plump-looking complexion.
-  Updated: 2026-10-16T22:05:27Z
+- [MEDICUBE PDRN Pink Collagen Gel Mask 1 PC](https://www.jolies.ae/products/medicube-pdrn-pink-collagen-gel-mask-1pc): Shop MEDICUBE PDRN Pink Collagen Gel Mask 1 PC at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:23:16Z
   Vendor: Medicube
   Product Type: Sheet Masks
   Availability: Available
@@ -2430,8 +2430,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Isntree-Hyaluronic-Acid-Sun-Gel-_-Beauty-of-Joseon-Relief-Sun-Cream-2-Piece-Sunscreen-Set-BEAUTY-OF-JOSEON-_-ISNTREE-JOLIE_S-195637838.jpg?v=1745096411
   Price: AED 117.00 AED
-- [AXIS-Y Glow Serum & Physical Sunscreen Set | JOLIES UAE](https://www.jolies.ae/products/axis-y-dark-spot-correcting-glow-serum-complete-no-stress-physical-sunscreen-set): Shop the AXIS-Y Dark Spot Correcting Glow Serum and Complete No-Stress Physical Sunscreen Set for daytime skincare care.
-  Updated: 2026-10-16T22:08:32Z
+- [AXIS-Y Dark Spot Serum Sunscreen Set | JOLIE'S UAE](https://www.jolies.ae/products/axis-y-dark-spot-correcting-glow-serum-complete-no-stress-physical-sunscreen-set): Shop AXIS-Y Dark Spot Serum Sunscreen Set at JOLIE'S UAE. Find product details, usage information and availability for convenient online beauty shopping.
+  Updated: 2026-11-07T09:33:43Z
   Vendor: AXIS Y
   Product Type: Skin Care Kits & Sets
   Availability: Available
@@ -2563,8 +2563,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/Somebymi-Snail-Truecica-Miracle-Repair-Starter-Kit-SOME-BY-MI-JOLIE_S-195644293.jpg?v=1745096951
   Price: AED 64.00 AED
-- [EQQUALBERRY Vitamin Illuminating Serum 30ml | JOLIES UAE](https://www.jolies.ae/products/vitamin-illuminating-serum): Shop EQQUALBERRY Vitamin Illuminating Serum 30ml for hydration and cosmetic care of dull or uneven-looking skin.
-  Updated: 2026-10-16T22:08:40Z
+- [EQQUALBERRY Vitamin illuminating Serum 30 ML](https://www.jolies.ae/products/vitamin-illuminating-serum): Shop EQQUALBERRY Vitamin illuminating Serum 30 ML at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:23:25Z
   Vendor: EQQUALBERRY
   Product Type: Face Serum
   Availability: Available
@@ -2612,8 +2612,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/celimax-Derma-Nature-Fresh-Blackhead-Jojoba-Cleansing-Oil-_20ml_-Celimax-JOLIE_S-199216019.png?v=1746884046
   Price: AED 60.00 AED
-- [CELIMAX Vita-A Retinal Shot Booster 15ml | JOLIES UAE](https://www.jolies.ae/products/celimax-the-vita-a-retinal-shot-tightening-booster-15ml): Shop CELIMAX The Vita-A Retinal Shot Tightening Booster 15ml for targeted evening care of texture and firmness concerns.
-  Updated: 2026-10-16T22:08:43Z
+- [CELIMAX The Vita-A Retinal Shot Tightening Booster 15 ml](https://www.jolies.ae/products/celimax-the-vita-a-retinal-shot-tightening-booster-15ml): Shop CELIMAX The Vita-A Retinal Shot Tightening Booster 15 ml at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:22:56Z
   Vendor: CELIMAX
   Product Type: Serum
   Availability: Available
@@ -2843,8 +2843,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-PDRN-Pink-Cica-Soothing-Toner-120-ML-Medicube-JOLIE_S-201534937.png?v=1751746798
   Price: AED 95.00 AED
-- [MEDICUBE Zero Pore Blackhead Mud Mask 100g | JOLIES UAE](https://www.jolies.ae/products/medicube-zero-pore-blackhead-mud-mask-100g): Shop MEDICUBE Zero Pore Blackhead Mud Mask 100g for wash-off pore care and cleansing of congested-looking skin.
-  Updated: 2026-10-16T22:09:14Z
+- [Medicube Zero Pore Blackhead Mud Mask 100 gm](https://www.jolies.ae/products/medicube-zero-pore-blackhead-mud-mask-100g): Shop Medicube Zero Pore Blackhead Mud Mask 100 gm at JOLIE'S UAE. Find product details, usage information and current online availability.
+  Updated: 2026-11-07T12:23:42Z
   Vendor: Medicube
   Product Type: Wash-off Face Mask
   Availability: Available
@@ -2983,8 +2983,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0752/8720/0065/files/MEDICUBE-Deep-Vita-C-5-Pcs-Set-Medicube-JOLIE_S-202259475.png?v=1754413892
   Price: AED 420.00 AED
-- [MEDICUBE Zero Pore Clearer 4-Piece Set | JOLIES UAE](https://www.jolies.ae/products/medicube-zero-pore-clearer-4-pcs-set): Shop the MEDICUBE Zero Pore Clearer four-piece set for coordinated cleansing and cosmetic care of visible pores and texture.
-  Updated: 2026-10-16T22:09:22Z
+- [MEDICUBE Zero Pore Clearer Set | JOLIE'S UAE](https://www.jolies.ae/products/medicube-zero-pore-clearer-4-pcs-set): Shop MEDICUBE Zero Pore Clearer Set at JOLIE'S UAE. Find product details, usage information and availability for convenient online beauty shopping.
+  Updated: 2026-11-07T09:35:26Z
   Vendor: Medicube
   Product Type: Facial Cleansing Kits
   Availability: Available
@@ -3044,13 +3044,13 @@
 ## Collections
 
 - [Hair ](https://www.jolies.ae/collections/hair-): Shop professional hair treatments, Brazilian protein and conditioning formulas online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-21T11:11:08Z
-  Total Products: 30
+  Updated: 2026-11-06T21:09:39Z
+  Total Products: 31
 - [Hair Care](https://www.jolies.ae/collections/hair-care): Shop shampoos, conditioners, masks, oils, serums and scalp care products online from JOLIE'S, with delivery across the UAE.
-  Updated: 2026-10-30T11:09:15Z
+  Updated: 2026-11-07T12:08:45Z
   Total Products: 114
 - [Skin Care](https://www.jolies.ae/collections/skin-care): Shop cleansers, serums, moisturizers, sunscreens, masks and skin care routines online in the UAE at JOLIE'S. UAE and international delivery available.
-  Updated: 2026-10-30T11:09:15Z
+  Updated: 2026-11-03T12:09:18Z
   Total Products: 620
 - [Makeup](https://www.jolies.ae/collections/makeup): Shop makeup online in the UAE, including foundation, eyeshadow, lip, brow, contour and setting products from a range of beauty brands.
   Updated: 2026-10-03T12:14:35Z
@@ -3062,7 +3062,7 @@
   Updated: 2026-08-22T14:29:48Z
   Total Products: 12
 - [Best Sellers](https://www.jolies.ae/collections/best-sellers): Shop popular skincare, hair care, treatments and beauty sets online in the UAE. Explore selected in-stock products available from JOLIE'S.
-  Updated: 2026-10-21T11:11:08Z
+  Updated: 2026-11-03T12:09:18Z
   Total Products: 203
 - [Hair Dryer](https://www.jolies.ae/collections/hair-dryer): Shop professional hair dryers online in the UAE. Compare available wattages, designs and features for everyday or salon-style drying.
   Updated: 2026-08-22T14:28:48Z
@@ -3083,13 +3083,13 @@
   Updated: 2026-10-03T12:14:33Z
   Total Products: 9
 - [Premium products](https://www.jolies.ae/collections/premium-products): - JOLIE'S
-  Updated: 2026-10-30T11:09:15Z
+  Updated: 2026-11-07T12:08:45Z
   Total Products: 513
 - [Normal products](https://www.jolies.ae/collections/premium-products-copy): - JOLIE'S
-  Updated: 2026-10-21T11:11:08Z
+  Updated: 2026-11-03T12:09:18Z
   Total Products: 370
 - [HAIR COLOR](https://www.jolies.ae/collections/hair-color): Shop professional hair colour, permanent colour creams, bleaching powders and highlighting products at JOLIE’S UAE. Explore natural, ash, golden, brown, red, platinum and creative shades for salon-inspired colour results.
-  Updated: 2026-10-21T11:11:08Z
+  Updated: 2026-11-06T20:08:11Z
   Total Products: 9
 
 ## Blogs
