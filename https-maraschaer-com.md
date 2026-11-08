@@ -6,7 +6,7 @@
 - Timezone: Europe/Zurich
 - Created At: 2020-03-26T10:39:21Z
 - Contact Email: info@joycorporate.ch
-- Updated At: 2026-10-31T01:01:39.371Z
+- Updated At: 2026-11-08T00:51:42.683Z
 
 Mara Schär – Life & Business Coaching in Basel, Schweiz
 
@@ -19,7 +19,7 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
 ## Products
 
 - [Prokrastination überwinden: Dein Workbook für mehr Produktivität](https://maraschaer.com/products/prokrastination-uberwinden-dein-workbook-fur-mehr-produktivitat-und-weniger-aufschieben): Prokrastination überwinden: Dein Workbook für mehr Produktivität. Prokrastination überwinden leicht gemacht!
-  Updated: 2026-10-16T14:50:00Z
+  Updated: 2026-10-31T18:19:12Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
@@ -33,28 +33,28 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Achtsamkeit_650_x_804.jpg?v=1760542291
   Price: 25,60 CHF CHF
 - [Resilienz stärken – Dein persönliches Workbook für emotionale Stärke](https://maraschaer.com/products/resilienz-starken-dein-personliches-workbook): Resilienz stärken – Dein persönliches Workbook für emotionale Stärke, mehr Balance und Fokus
-  Updated: 2026-08-28T17:33:58Z
+  Updated: 2026-10-31T18:15:45Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Resilienz1650x804.jpg?v=1760544273
   Price: 23,60 CHF CHF
 - [Burnout Symptome & Stressbewältigung – Dein Workbook](https://maraschaer.com/products/burnout-symptome): Burnout Symptome & Stressbewältigung. Ein interaktiver Leitfaden für mehr Erholung und gesunde Arbeitswelt
-  Updated: 2026-10-16T14:50:01Z
+  Updated: 2026-10-31T18:13:11Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Burnout1650x804.jpg?v=1760564455
   Price: 29,40 CHF CHF
 - [Manifestieren: Bedeutung und Wissenschaft](https://maraschaer.com/products/manifestieren-bedeutung-workbook): Manifestieren: Bedeutung und Wissenschaft. Manifestieren: Dein Workbook für Klarheit, Vertrauen und ein bewusst gestaltetes Leben
-  Updated: 2026-10-16T14:50:01Z
+  Updated: 2026-10-31T18:09:28Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0366/5821/7097/files/Mnaifestieren1650x804.jpg?v=1760545126
   Price: 24,40 CHF CHF
 - [Digital Detox Workbook  - Book Journal](https://maraschaer.com/products/digital-detox-workbook): Digital Detox Workbook  - Book Journal für mehr Fokus, Ruhe & mentale Freiheit
-  Updated: 2026-08-28T17:33:59Z
+  Updated: 2026-10-31T18:06:43Z
   Vendor: maraschaer
   Product Type: 
   Availability: Available
@@ -647,76 +647,88 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
     Updated: 2026-09-13T12:01:31Z
     Author: Admin
   - [Wie erkenne ich toxische Beziehungen? 8 Zeichen](https://maraschaer.com/blogs/news/wie-erkenne-ich-toxische-beziehungen): Wie erkenne ich toxische Beziehungen? 8 Zeichen
-    Updated: 2026-09-15T02:44:41Z
+    Updated: 2026-11-03T08:13:25Z
     Author: Admin
-  - [Warum Ferien manchmal müde machen](https://maraschaer.com/blogs/news/warum-ferien-muede-machen)
-    Updated: 2026-09-15T17:43:51Z
+  - [Warum Ferien manchmal müde machen](https://maraschaer.com/blogs/news/warum-ferien-muede-machen): Warum Ferien manchmal müde machen
+    Updated: 2026-11-03T08:13:33Z
     Author: Ayan writewithayan@gmail.com
   - [Berufliche Weiterentwicklung strategisch planen](https://maraschaer.com/blogs/news/berufliche-weiterentwicklung-strategisch-planen): Berufliche Weiterentwicklung strategisch planen
-    Updated: 2026-09-17T02:44:13Z
+    Updated: 2026-11-03T08:13:21Z
     Author: Admin
   - [Burnout Symptome erkennen und rechtzeitig handeln](https://maraschaer.com/blogs/news/burnout-symptome-erkennen): Burnout Symptome erkennen und rechtzeitig handeln
-    Updated: 2026-09-19T02:42:49Z
+    Updated: 2026-11-03T08:13:15Z
     Author: Admin
   - [Als Führungskraft Grenzen setzen und klar führen](https://maraschaer.com/blogs/news/als-fuehrungskraft-grenzen-setzen): Als Führungskraft Grenzen setzen und klar führen
-    Updated: 2026-09-21T02:41:49Z
+    Updated: 2026-11-03T08:13:09Z
     Author: Admin
   - [Was kostet ein Life Coaching in der Schweiz?](https://maraschaer.com/blogs/news/was-kostet-ein-life-coaching): Was kostet ein Life Coaching in der Schweiz?
-    Updated: 2026-09-23T02:42:06Z
+    Updated: 2026-11-03T08:13:04Z
     Author: Admin
   - [Coaching oder Psychotherapie wählen - was passt?](https://maraschaer.com/blogs/news/coaching-oder-psychotherapie-waehlen): Coaching oder Psychotherapie wählen - was passt?
-    Updated: 2026-09-25T02:42:04Z
+    Updated: 2026-11-03T08:12:59Z
     Author: Admin
   - [Wie Life Coaching dir Klarheit und Richtung gibt](https://maraschaer.com/blogs/news/life-coaching-klarheit-richtung): Wie Life Coaching dir Klarheit und Richtung gibt
-    Updated: 2026-09-27T02:34:50Z
+    Updated: 2026-11-03T08:12:55Z
     Author: Admin
   - [Stressmanagement Methoden, die wirklich entlasten](https://maraschaer.com/blogs/news/stressmanagement-methoden): Stressmanagement Methoden, die wirklich entlasten
-    Updated: 2026-09-29T02:40:59Z
+    Updated: 2026-11-03T08:12:44Z
     Author: Admin
   - [Welche Ziele hat Business Coaching wirklich?](https://maraschaer.com/blogs/news/welche-ziele-hat-business-coaching): Welche Ziele hat Business Coaching wirklich?
-    Updated: 2026-10-01T02:34:46Z
+    Updated: 2026-11-03T08:11:18Z
     Author: Admin
   - [Online Coaching Erfahrungen, die wirklich tragen](https://maraschaer.com/blogs/news/online-coaching-erfahrungen): Online Coaching Erfahrungen, die wirklich tragen
-    Updated: 2026-10-03T02:34:38Z
+    Updated: 2026-11-03T08:11:02Z
     Author: Admin
   - [Konfliktlösung im Team verbessern mit 7 Schritten](https://maraschaer.com/blogs/news/konfliktloesung-im-team-verbessern): Konfliktlösung im Team verbessern mit 7 Schritten
-    Updated: 2026-10-05T02:33:42Z
+    Updated: 2026-11-03T08:10:58Z
     Author: Admin
   - [Leadership Coaching für Frauen: Klar führen](https://maraschaer.com/blogs/news/leadership-coaching-fuer-frauen): Leadership Coaching für Frauen: Klar führen
-    Updated: 2026-10-07T02:43:53Z
+    Updated: 2026-11-03T08:10:55Z
     Author: Admin
   - [Coaching versus Beratung: Was passt zu dir?](https://maraschaer.com/blogs/news/coaching-versus-beratung): Coaching versus Beratung: Was passt zu dir?
-    Updated: 2026-10-09T02:34:10Z
+    Updated: 2026-11-03T08:10:51Z
     Author: Admin
   - [Wie lange dauert Burnout-Erholung wirklich?](https://maraschaer.com/blogs/news/wie-lange-dauert-burnout-erholung): Wie lange dauert Burnout-Erholung wirklich?
-    Updated: 2026-10-11T02:34:22Z
+    Updated: 2026-11-03T08:10:47Z
     Author: Admin
   - [Psychische Belastung früh erkennen mit 7 Signalen](https://maraschaer.com/blogs/news/psychische-belastung-frueh-erkennen): Psychische Belastung früh erkennen mit 7 Signalen
-    Updated: 2026-10-13T02:35:08Z
+    Updated: 2026-11-03T08:10:42Z
     Author: Admin
   - [Selbstvertrauen nach Kündigung stärken](https://maraschaer.com/blogs/news/selbstvertrauen-nach-kuendigung-staerken): Selbstvertrauen nach Kündigung stärken
-    Updated: 2026-10-15T02:33:23Z
+    Updated: 2026-11-03T08:10:37Z
     Author: Admin
   - [Coaching für Expats Schweiz - sicher ankommen](https://maraschaer.com/blogs/news/coaching-fuer-expats-schweiz): Coaching für Expats Schweiz - sicher ankommen
-    Updated: 2026-10-17T02:40:29Z
+    Updated: 2026-11-03T08:10:33Z
     Author: Admin
   - [Business Coaching oder Therapie - was passt dir?](https://maraschaer.com/blogs/news/business-coaching-oder-therapie): Business Coaching oder Therapie - was passt dir?
-    Updated: 2026-10-19T02:34:49Z
+    Updated: 2026-11-03T08:10:30Z
     Author: Admin
   - [Neuroleadership im Unternehmen wirksam nutzen](https://maraschaer.com/blogs/news/neuroleadership-im-unternehmen): Neuroleadership im Unternehmen wirksam nutzen
-    Updated: 2026-10-21T02:34:43Z
+    Updated: 2026-11-03T08:10:26Z
     Author: Admin
   - [Ein Beispiel für Burnout-Prävention im Unternehmen](https://maraschaer.com/blogs/news/burnout-praevention-im-unternehmen-beispiel): Ein Beispiel für Burnout-Prävention im Unternehmen
-    Updated: 2026-10-23T02:41:15Z
+    Updated: 2026-11-03T08:09:37Z
     Author: Admin
   - [Leitfaden für Expats Schweiz zum Ankommen](https://maraschaer.com/blogs/news/leitfaden-expats-schweiz): Leitfaden für Expats Schweiz zum Ankommen
-    Updated: 2026-10-25T02:34:55Z
+    Updated: 2026-11-03T08:09:30Z
     Author: Admin
   - [Hybride Arbeit und Stress wirksam reduzieren](https://maraschaer.com/blogs/news/hybride-arbeit-und-stress-reduzieren): Hybride Arbeit und Stress wirksam reduzieren
-    Updated: 2026-10-27T02:41:13Z
+    Updated: 2026-11-03T08:09:22Z
     Author: Admin
   - [Selbstvertrauen im Führungsalltag stärken](https://maraschaer.com/blogs/news/selbstvertrauen-im-fuehrungsalltag-staerken): Selbstvertrauen im Führungsalltag stärken
-    Updated: 2026-10-29T02:43:19Z
+    Updated: 2026-11-03T08:09:09Z
+    Author: Admin
+  - [Übungen für emotionale Resilienz im Alltag](https://maraschaer.com/blogs/news/uebungen-fuer-emotionale-resilienz): Übungen für emotionale Resilienz im Alltag
+    Updated: 2026-11-03T08:09:02Z
+    Author: Admin
+  - [5 Tipps für gesunde Grenzen in Beruf und Alltag](https://maraschaer.com/blogs/news/5-tipps-fuer-gesunde-grenzen): 5 Tipps für gesunde Grenzen in Beruf und Alltag
+    Updated: 2026-11-03T08:08:53Z
+    Author: Admin
+  - [Konflikte im Team konstruktiv lösen lernen](https://maraschaer.com/blogs/news/konflikte-im-team-konstruktiv-loesen): Konflikte im Team konstruktiv lösen lernen
+    Updated: 2026-11-04T02:42:58Z
+    Author: Admin
+  - [Business Coaching oder Mentoring: Was passt zu dir?](https://maraschaer.com/blogs/news/business-coaching-oder-mentoring): Business Coaching oder Mentoring: Was passt zu dir?
+    Updated: 2026-11-06T02:41:59Z
     Author: Admin
 
 ## Store Pages
@@ -731,18 +743,18 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
   Updated: 2022-09-23T12:14:29Z
 - [Corporate Wellbeing](https://maraschaer.com/pages/corporate-wellbeing): Wir bieten innovative Workshops und Seminare für Organisationen, denen die Gesundheit und Prävention am Herzen liegen. Unter unseren Kunden befinde...
   Updated: 2022-09-26T13:00:16Z
-- [Life Coach Basel: Mara Schär, Werdegang und Ausbildung](https://maraschaer.com/pages/wer-bin-ch): Coaching Basel - Entdecke dein volles Potenzial Als Life Coach Basel zeichne ich mich durch meine Leidenschaft und Hingabe aus, Menschen dabei zu u...
-  Updated: 2026-10-27T07:11:25Z
+- [Life Coach Basel | Coach Basel | Coaching Basel: Mara Schär Ausbildung](https://maraschaer.com/pages/wer-bin-ch): Coaching Basel - Entdecke dein volles Potenzial Als Life Coach Basel zeichne ich mich durch meine Leidenschaft und Hingabe aus, Menschen dabei zu u...
+  Updated: 2026-11-06T10:09:36Z
 - [Coaching Angebot Mara Schär: Coaching Pakete](https://maraschaer.com/pages/coaching-pakete): 12 Monate VIP Coaching Paket Das 12-monatige VIP Coaching Paket bietet dir umfassende Unterstützung, um die beste Version deiner selbst zu werden. ...
   Updated: 2024-09-18T14:46:43Z
 - [Auswandern - Auswanderer Coach](https://maraschaer.com/pages/coaching-fur-auswanderer): Auswandern: Die Realität hinter dem Traum Auswandern klingt oft nach einem aufregenden Neuanfang, doch die Realität sieht häufig anders aus. Die Vo...
   Updated: 2024-09-23T09:33:28Z
 - [Coaching Trennung und Scheidung | Mara Schär Basel](https://maraschaer.com/pages/coaching-in-trennung-und-scheidung): Steckst du mitten in einem Scheidungsprozess und fühlst dich emotional überfordert? Oder bist du in einer Krise und wünschst dir eine klare Orienti...
-  Updated: 2026-10-27T07:49:24Z
+  Updated: 2026-10-31T05:58:16Z
 - [Selbstvertrauen Coaching | Mara Schär Basel Schweiz](https://maraschaer.com/pages/selbstvertrauen-staerken-coaching-selbstvertrauen): Selbstvertrauen stärken für ein erfülltes Leben Selbstvertrauen ist der Schlüssel zu einem erfüllten und erfolgreichen Leben. Es beeinflusst nicht ...
   Updated: 2026-10-27T07:59:02Z
 - [Karriere Coaching Basel | Business & Mindset Beratung](https://maraschaer.com/pages/erfolgreiches-business-karriere-coaching-stellensuche-geld-mindset): Individuelle Coaching-Ansätze für deine Ziele Jeder Mensch und jede Organisation ist einzigartig, und das Coaching sollte es ebenfalls sein. Als An...
-  Updated: 2026-10-27T08:31:58Z
+  Updated: 2026-10-31T05:51:25Z
 - [Mindset Coach für Veränderung & mentale Stärke | Mara](https://maraschaer.com/pages/mindset-coach-veranderung): Als Mindset Coach unterstütze ich dich dabei, dein Denken und deine inneren Überzeugungen neu zu programmieren. Dein Mindset, also deine mentale Ei...
   Updated: 2026-10-27T06:05:52Z
 - [Burnout Eltern Coaching | Mara Schär – Basel & CH](https://maraschaer.com/pages/burnout-eltern-parenting-coach-eltern-coaching): Unterstützung für Eltern in herausfordernden Zeiten Ich begleite und berate Mütter, Väter und werdende Eltern im Rahmen meines Burnout Eltern Coach...
@@ -770,7 +782,7 @@ Die Angebote sind in Basel, schweizweit und online verfügbar. Die Website enth�
 - [Mentoring Basel | Individuelle Begleitung mit Mara Schär](https://maraschaer.com/pages/mentoring): Manchmal brauchen wir jemanden, der uns unterstützt, neue Perspektiven bietet und uns dabei hilft, unsere Ziele zu erreichen. Mentoring Basel mit M...
   Updated: 2026-10-27T08:14:53Z
 - [Führungskräfte Coaching Basel | Mara Schär Coaching](https://maraschaer.com/pages/fuhrungskrafte-coaching): Führungskräfte Coaching ist eine hervorragende Möglichkeit, die Kompetenz weiterzuentwickeln und das eigene Leben als Führungsperson erfolgreich zu...
-  Updated: 2026-10-27T07:54:16Z
+  Updated: 2026-10-31T05:54:22Z
 - [Segelretreat Kroatien | Achtsamkeit & innere Balance](https://maraschaer.com/pages/segelretreats-achtsamkeit-innere-balance-auf-dem-meer): Wellbeing & Sailing Retreat – im vielleicht schönsten Land Europas für Retreats auf dem Meer Wellbeing · Coaching · Regeneration 7 Tage Auszeit auf...
   Updated: 2026-10-26T10:32:23Z
 - [Transsilvanien Retreat | Dracula & Achtsamkeit Reise](https://maraschaer.com/pages/transsilvanien-dracula-retreats): Psychologische Tiefe in unberührter Natur Selbsterfahrung & Achtsamkeit in den Karpaten Zurück zur Essenz In den Wäldern Transsilvaniens wird das L...
