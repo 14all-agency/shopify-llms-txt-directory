@@ -6,69 +6,69 @@
 - Timezone: America/Los_Angeles
 - Created At: 2021-07-05T19:09:57Z
 - Contact Email: customerservice@myfirmtech.com
-- Updated At: 2026-11-01T00:43:20.102Z
+- Updated At: 2026-11-09T00:45:23.387Z
 
 ## Collections
 
 - [Home page](https://checkout.getfirmtech.com/collections/frontpage): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 5
 - [FirmTech](https://checkout.getfirmtech.com/collections/firmtech): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 17
 - [Current Collection](https://checkout.getfirmtech.com/collections/current-collection): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 3
 - [TechRing](https://checkout.getfirmtech.com/collections/tech-ring): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 1
 - [MAX PR and FPR](https://checkout.getfirmtech.com/collections/max-pr-and-fpr): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 2
 - [Merch](https://checkout.getfirmtech.com/collections/merch): Firmtech fun hats
   Updated: 2026-10-13T19:37:12Z
   Total Products: 2
 - [Health Ring](https://checkout.getfirmtech.com/collections/health-rings): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 4
 - [Pleasure Rings](https://checkout.getfirmtech.com/collections/pleasure-rings): Explore FirmTech’s wellness technology collection. Innovative rings and accessories made for comfort and balance.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 4
 - [HSA/FSA](https://checkout.getfirmtech.com/collections/hsa-fsa): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear. Covered by HSA or FSA using Flex at checkout
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 6
 - [TechRing and TechRing Bundles](https://checkout.getfirmtech.com/collections/techring-and-techring-bundles): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 6
 - [TechRing and TechRing bundles](https://checkout.getfirmtech.com/collections/techring-and-techring-bundles-1): Shop FirmTech Smart Rings for wellness and lifestyle. Tech-driven comfort designed for everyday wear.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 3
 - [RingMate Bundles](https://checkout.getfirmtech.com/collections/ringmate-bundles): Discover FirmTech accessories that merge innovation and style. Enhance your wearable lifestyle today.
   Updated: 2026-10-13T19:37:13Z
   Total Products: 3
 - [Wholesale](https://checkout.getfirmtech.com/collections/wholesale)
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 9
 - [FirmTech Bundles](https://checkout.getfirmtech.com/collections/firmtech-bundles)
-  Updated: 2026-10-17T11:15:09Z
+  Updated: 2026-11-07T12:11:37Z
   Total Products: 7
 - [Warranty](https://checkout.getfirmtech.com/collections/warranty)
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 4
 - [FirmTech Rings](https://checkout.getfirmtech.com/collections/firmtech-rings): FirmTech is a trusted leader in men's  health, empowering men of all ages to optimize their  performance and well-being from the comfort of their homes.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 8
 - [Pleasure Products](https://checkout.getfirmtech.com/collections/pleasure-products): Our pleasure products are made with -grade elastomer and designed for a secure, comfortable fit. The Performance Ring is our original fit while the MaxPR is our tightest fit.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 5
 - [RingMate and RingMate Bundles](https://checkout.getfirmtech.com/collections/ringmate-and-ringmate-bundles): Designed by doctors for both solo and couple play. Easily slip this onto a ring or place it between your fingers.
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 4
 - [FirmTX Products](https://checkout.getfirmtech.com/collections/firmtx-products)
   Updated: 2026-10-19T11:17:24Z
   Total Products: 2
 - [Discountable Products](https://checkout.getfirmtech.com/collections/discountable-products)
-  Updated: 2026-10-31T11:08:01Z
+  Updated: 2026-11-08T12:08:00Z
   Total Products: 15
 - [Subscriptions](https://checkout.getfirmtech.com/collections/subscriptions)
   Updated: 2026-10-19T11:17:24Z
