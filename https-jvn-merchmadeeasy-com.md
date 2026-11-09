@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-04-20T15:23:14Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-01T00:16:35.069Z
+- Updated At: 2026-11-09T00:18:55.984Z
 
 ## Products
 
@@ -330,7 +330,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Hot and Healed Photo Tee](https://jvn.merchmadeeasy.com/products/hot-and-healed-photo-tee): The Jonathan Van Ness Hot and Healed Live On Tour charcoal t-shirt is made of 100% cotton and features a graphic with a photo of Jonathan Van Ness on the front.
-  Updated: 2026-10-05T13:06:29Z
+  Updated: 2026-11-08T16:25:35Z
   Vendor: Jonathan Van Ness
   Product Type: T-Shirt
   Availability: Available
