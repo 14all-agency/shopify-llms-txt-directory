@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-06-09T18:02:34Z
 - Contact Email: beepeewms@gmail.com
-- Updated At: 2026-11-01T01:21:18.437Z
+- Updated At: 2026-11-09T00:59:35.614Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/IMG_0216.heic?v=1757717182
   Price: $10.50 USD
 - [Holiday Feast Protein Strips - Vegan Freeze Dried Soy Curls | 2 Servings](https://veganelder.com/products/holiday-feast-protein-strips): Vegan jerky alternative & plant-based protein snack! Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, holiday flavor. Perfect for backpacking, emergency food & quick meals.
-  Updated: 2026-10-27T11:16:45Z
+  Updated: 2026-11-07T14:25:36Z
   Vendor: VeganElder's Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -38,7 +38,7 @@
   Availability: Available
   Price: $10.50 USD
 - [Taco Style Protein Strips - Single Serving Sample | Vegan](https://veganelder.com/products/taco-style-protein-strips-single-serving-sample): Try our vegan jerky alternative! Single serving sample. Eat dry like jerky or rehydrate in 5 min. Freeze-dried soy curls, taco flavor. Test before buying bulk!
-  Updated: 2026-10-19T15:46:42Z
+  Updated: 2026-11-07T14:30:05Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Plant Protein Strips and Jerky Alternative
   Availability: Available
@@ -66,7 +66,7 @@
   Image: https://cdn.shopify.com/s/files/1/0934/2418/9737/files/BCB400B2-F3FF-4135-854A-66F783095B37.jpg?v=1759618880
   Price: $10.50 USD
 - [Rustic Mashed Potatoes Freeze Dried 2 Servings](https://veganelder.com/products/rustic-mashed-potatoes-freeze-dried): Wholesome Rustic Mashed Potatoes (Freeze-Dried) - just add water for a vegan, no-fat 2-serving side with rustic texture, ideal for camping or emergencies.
-  Updated: 2026-10-27T11:16:46Z
+  Updated: 2026-11-07T14:17:25Z
   Vendor: VeganElder's Freeze Dried Pantry
   Product Type: Side Dishes
   Availability: Available
