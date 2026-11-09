@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-09-08T17:39:28Z
 - Contact Email: thedailybetterment@zohomail.com
-- Updated At: 2026-11-02T00:59:57.194Z
+- Updated At: 2026-11-09T01:10:06.460Z
 
 ## Products
 
@@ -25,7 +25,7 @@
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/BusyNurse.png?v=1788891633
   Price: $12.00 USD
 - [Discipline Without Yelling | Parenting Guide PDF](https://thedailybetterment.com/products/how-to-discipline-your-child-without-fear): Stop yelling and get real results. Calm discipline tools, scripts, and age-by-age strategies, plus 7 printable tools. 32-page PDF, instant download.
-  Updated: 2026-10-28T10:00:48Z
+  Updated: 2026-11-02T14:43:06Z
   Vendor: PDF Oasis
   Product Type: 
   Availability: Available
@@ -115,6 +115,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/SignsYourNewbornIsSick_1_12993e7e-e842-48a8-b84b-f3c859ca5229.png?v=1790938873
   Price: $48.99 USD
+- [Toddler Tantrums Guide: Calm Meltdowns Without Yelling (PDF)](https://thedailybetterment.com/products/calm-the-storm-toddler-tantrums-guide): Stop toddler tantrums without yelling. A calm, step-by-step gentle parenting guide with 25 scripts, a 7-day plan and tips for meltdowns, hitting and bedtime.
+  Updated: 2026-11-07T22:30:29Z
+  Vendor: The Daily Betterment
+  Product Type: Digital Guide
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0853/5146/5202/files/Calm_the_Storm_-_Store_Cover.jpg?v=1794047410
+  Price: $12.00 USD
 
 ## Collections
 
@@ -129,7 +136,7 @@
 
 - [The Daily Read](https://thedailybetterment.com/blogs/the-daily-read): Discover free self-help books, personal development tips, and downloadable PDF guides to help you grow every day. Start your journey to a better you.
   - [What to Say Instead of Yelling: 12 Calm Phrases That Actually Work](https://thedailybetterment.com/blogs/the-daily-read/what-to-say-instead-of-yelling): <p>Yelling usually happens when we run out of words. Here are 12 calm, firm phrases to reach for instead, plus what to do when you've already lost your cool.</p>
-    Updated: 2026-10-15T07:31:46Z
+    Updated: 2026-11-07T19:52:59Z
     Author: The Daily Betterment
     Tags: discipline, gentle parenting, parenting
   - [The Money Date: 10 Questions That Help Couples Stop Fighting About Money](https://thedailybetterment.com/blogs/the-daily-read/money-date-questions-for-couples): <p>Most money fights aren't really about the $40. A monthly money date gives you a calm time and a simple set of questions to get on the same page.</p>
@@ -161,33 +168,19 @@
     Author: The Daily Betterment
     Tags: couples, love, relationships
   - [The First Two Weeks Home With a Newborn: Practical Tips for Tired Parents](https://thedailybetterment.com/blogs/the-daily-read/first-two-weeks-home-with-newborn): <p>The first two weeks with a newborn are a blur. These practical, non- tips can make the days (and nights) a little more manageable.</p>
-    Updated: 2026-10-15T07:33:15Z
+    Updated: 2026-11-07T19:52:59Z
     Author: The Daily Betterment
     Tags: new parents, newborn, parenting
   - [The 10% Better Method: Why Small Changes Stick When Big Ones Don't](https://thedailybetterment.com/blogs/the-daily-read/the-10-percent-better-method): <p>Big resolutions fade by February. Small improvements quietly add up. Here's how to use the 10% better approach to make changes that actually last.</p>
     Updated: 2026-10-15T07:33:16Z
     Author: The Daily Betterment
     Tags: habits, personal growth, self improvement
-  - [Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources](https://thedailybetterment.com/blogs/the-daily-read/why-self-help-books-to-read-online-for-free-are-crucial-for-beginners-pdf-resources): Why Self Help Books to Read Online for Free Are Crucial for Beginners PDF Resources
-    Updated: 2026-10-18T07:00:46Z
-    Author: The Daily Betterment
-  - [Unlocking Potential with Self Help PDF Download and Free Online Resources](https://thedailybetterment.com/blogs/the-daily-read/unlocking-potential-with-self-help-pdf-download-and-free-online-resources): Unlocking Potential with Self Help PDF Download and Free Online Resources
-    Updated: 2026-10-20T07:00:59Z
-    Author: The Daily Betterment
-  - [Mindset Books for Beginners What to Read Online for Free and How to Find Them](https://thedailybetterment.com/blogs/the-daily-read/mindset-books-for-beginners-what-to-read-online-for-free-and-how-to-find-them): Mindset Books for Beginners What to Read Online for Free and How to Find Them
-    Updated: 2026-10-22T07:01:02Z
-    Author: The Daily Betterment
-  - [Self Help Books to Read Online for Free Essential Checklist for Personal Growth](https://thedailybetterment.com/blogs/the-daily-read/self-help-books-to-read-online-for-free-essential-checklist-for-personal-growth): Self Help Books to Read Online for Free Essential Checklist for Personal Growth
-    Updated: 2026-10-25T07:00:19Z
-    Author: The Daily Betterment
-  - [The Rise in Popularity of Self Help Books to Read Online for Free and PDF Trends](https://thedailybetterment.com/blogs/the-daily-read/the-rise-in-popularity-of-self-help-books-to-read-online-for-free-and-pdf-trends): The Rise in Popularity of Self Help Books to Read Online for Free and PDF Trends
-    Updated: 2026-10-27T07:01:11Z
-    Author: The Daily Betterment
-  - [Mastering Your Mind with Self Help Books to Read Online for Free Today](https://thedailybetterment.com/blogs/the-daily-read/mastering-your-mind-with-self-help-books-to-read-online-for-free-today): Mastering Your Mind with Self Help Books to Read Online for Free Today
-    Updated: 2026-10-29T07:00:49Z
-    Author: The Daily Betterment
-  - [Finding Inner Peace Through Self Help PDF Download and Free Reads](https://thedailybetterment.com/blogs/the-daily-read/finding-inner-peace-through-self-help-pdf-download-and-free-reads): Finding Inner Peace Through Self Help PDF Download and Free Reads
-    Updated: 2026-11-01T07:00:21Z
+  - [Toddler Bedtime Battles: 7 Calm Steps That Actually Help](https://thedailybetterment.com/blogs/the-daily-read/toddler-bedtime-battles-calm-steps): <p>Stalling, crying, and coming out of bed ten times? Here are 7 calm, practical steps for toddler bedtime battles, plus what to say when your child won't stay in bed.</p>
+    Updated: 2026-11-07T19:53:23Z
+    Author: Charles Biggins Jr.
+    Tags: bedtime, calm parenting, gentle parenting, toddlers
+  - [The Future of Reading: Self Help Books to Read Online for Free and PDF Options](https://thedailybetterment.com/blogs/the-daily-read/the-future-of-reading-self-help-books-to-read-online-for-free-and-pdf-options): The Future of Reading: Self Help Books to Read Online for Free and PDF Options
+    Updated: 2026-11-08T07:00:19Z
     Author: The Daily Betterment
 
 ## Store Pages
@@ -210,6 +203,12 @@
   Updated: 2026-10-23T03:17:56Z
 - [Free Printable: Holiday Money Talk for Couples](https://thedailybetterment.com/pages/holiday-money-talk): FREE PRINTABLE Holiday Money Talk: 5 Questions Before You Shop Most holiday money fights start at checkout. Sit down together for 15 minutes, answe...
   Updated: 2026-11-01T12:10:46Z
+- [Free Printable: 12-Hour Shift Day Checklist for Nurses](https://thedailybetterment.com/pages/free-nurse-shift-checklist): FREE PRINTABLE 12-Hour Shift Day Checklist Three 12s in a row? Tick this off the night before and the morning of, so the hardest shift is the easie...
+  Updated: 2026-11-07T20:09:44Z
+- [Free Printable: New Cat Shopping List](https://thedailybetterment.com/pages/free-new-cat-checklist): FREE PRINTABLE New Cat Shopping List Bringing a cat home soon? Here is everything to have ready on day one, plus what can wait a few weeks. Day-1 m...
+  Updated: 2026-11-07T20:09:44Z
+- [Free Printable: Finals Week Study Planner](https://thedailybetterment.com/pages/free-finals-week-planner): FREE PRINTABLE Finals Week Study Planner Plan finals week in small, focused 25-minute blocks. Fill it in on Sunday night and walk into the week wit...
+  Updated: 2026-11-07T20:09:44Z
 
 ## Policies
 
