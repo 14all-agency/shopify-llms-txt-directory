@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2024-12-14T06:52:14Z
 - Contact Email: denham@dccycles.co.uk
-- Updated At: 2026-11-01T10:56:53.659Z
+- Updated At: 2026-11-09T01:39:17.086Z
 
 ## Products
 
@@ -175,7 +175,7 @@
     Availability: Available
     Price: £25.00 GBP
 - [ICE FAST CNC BMX Disk brake adapter for 10mm axle](https://www.dccycles.co.uk/products/ice-fast-cnc-bmx-disk-brake-adapter-for-10mm-axle): ICE FAST CNC BMX Disk brake adapter for 10mm axle (SKU AD-ICE140K)6061 CNC Alloy disc brake adapter designed to set a Postmount disc brake caliper
-  Updated: 2026-08-06T11:52:06Z
+  Updated: 2026-11-01T11:32:35Z
   Vendor: ICE
   Product Type: Brake Spares - Disc Brake
   Availability: Available
@@ -390,7 +390,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-blackout-pivotal-saddle-2058-p.jpg?v=1738839298
   Price: £29.99 GBP
 - [ICE CNC alloy Gate Pedals Blue](https://www.dccycles.co.uk/products/ice-cnc-alloy-gate-pedals-blue): ICE CNC alloy &#39;&#39;Gate&#39;&#39; Pedals Blue (SKU PDGATE-B)ICE GATE PEDALS BMX/MTB CNC machined Alloy flat pedals for adults. These crazy
-  Updated: 2026-08-06T11:52:06Z
+  Updated: 2026-11-02T14:39:05Z
   Vendor: ICE
   Product Type: Pedals - BMX & MTB Flat
   Availability: Available
@@ -404,7 +404,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-gate-pedals-red-2075-1-p.jpg?v=1738839352
   Price: £59.99 GBP
 - [ICE CNC alloy Tiny Pedals Black](https://www.dccycles.co.uk/products/ice-cnc-alloy-tiny-pedals-black): ICE CNC alloy &#39;&#39;Tiny&#39;&#39; Pedals Black (SKU PDTINY-K) The saying flat pedals win medals for a reason, ICE has the best choice of flat
-  Updated: 2026-10-26T11:49:56Z
+  Updated: 2026-11-02T16:08:40Z
   Vendor: ICE
   Product Type: Pedals - BMX & MTB Flat
   Availability: Available
@@ -695,13 +695,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-components-grs-pf30-black-1-4757-p.jpg?v=1738840198
   Price: £44.99 GBP
-- [Gusset Components Spanish BB Set 19mm Black](https://www.dccycles.co.uk/products/gusset-components-spanish-bb-set-19mm-black): Gusset Components Spanish BB Set 19mm Black (SKU BBGUSP19)This replacement sealed bearing and spacer kit is designed to work with the Spanish type
-  Updated: 2026-09-09T23:48:15Z
-  Vendor: Gusset
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-components-spanish-bb-set-19mm-black-1-4759-p.jpg?v=1738840207
-  Price: £29.99 GBP
 - [Gusset Components MXR Euro BB Black](https://www.dccycles.co.uk/products/gusset-components-mxr-euro-bb-black): Gusset Components MXR Euro BB Black (SKU BBGUXEA) Euro threaded Alloy Cups, Sealed bearing - for 19mm axle (NO Axle) To be the fastest, you want
   Updated: 2026-09-09T09:58:58Z
   Vendor: Gusset
@@ -1226,7 +1219,7 @@
     Availability: Available
     Price: £20.00 GBP
 - [GUSSET CLENCH SEAT CLAMP BLACK](https://www.dccycles.co.uk/products/gusset-clench-seat-clamp-black): Seat clamp in a range of sizes. Superslim, superlight and superslick. CNC machined alloy clamp with single Cr-Mo bolt and pivoting Cr-Mo threaded
-  Updated: 2026-09-20T11:40:41Z
+  Updated: 2026-11-03T15:24:05Z
   Vendor: Gusset
   Product Type: Seat Clamps
   Availability: Available
@@ -1236,7 +1229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-clench-seat-clamp-black-27984-p.jpg?v=1738843718
     Price: £7.99 GBP
   - [31.8mm](https://www.dccycles.co.uk/products/gusset-clench-seat-clamp-black?variant=54084855234886)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-clench-seat-clamp-black-27984-p.jpg?v=1738843718
     Price: £7.99 GBP
   - [34.9mm](https://www.dccycles.co.uk/products/gusset-clench-seat-clamp-black?variant=54084855267654)
@@ -1244,7 +1237,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/gusset-clench-seat-clamp-black-27984-p.jpg?v=1738843718
     Price: £7.99 GBP
 - [Labour](https://www.dccycles.co.uk/products/labour): Workshop labour DC Cycles is a crucial BMX race, Dirt Jump and alternative bike shop, doing all types of bike repair in store in Southampton for any
-  Updated: 2026-10-19T17:38:16Z
+  Updated: 2026-11-07T12:26:26Z
   Vendor: DC Cycles 
   Product Type: 
   Availability: Available
@@ -1291,6 +1284,13 @@
   - [Wheel True £10](https://www.dccycles.co.uk/products/labour?variant=55107285385542)
     Availability: Available
     Price: £10.00 GBP
+- [100 Strata Mini Goggles Red / Clear Lens](https://www.dccycles.co.uk/products/100-strata-mini-goggles-red-clear-lens): The Strata Mini Goggle. Ride with the big boys without emptying your parents wallet. The Strata Mini packs the same great features as its full-sized
+  Updated: 2026-11-06T09:15:58Z
+  Vendor: 100%
+  Product Type: Goggles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-strata-mini-goggles-red-clear-lens-28225-p.jpg?v=1738843808
+  Price: £19.99 GBP
 - [Gusset XL Linear Brake Cable](https://www.dccycles.co.uk/products/gusset-xl-linear-brake-cable): Allows up to 360 degrees rotation; Long enough to wrap around your headtube, and trick enough to still work... Not just a-n-other brake cable - check
   Updated: 2026-08-06T11:52:03Z
   Vendor: Gusset
@@ -1986,6 +1986,20 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/ice-raptor-carbon-frame-and-fork-with-irc-sx-system-hot-chili-red-47007-1-p.jpg?v=1738845801
     Price: £1,749.99 GBP
+- [100 Strata Mini Goggles Black / Clear Lens](https://www.dccycles.co.uk/products/100-strata-mini-goggles-black-clear-lens): The Strata Mini Goggle. Ride with the big boys without emptying your parents wallet. The Strata Mini packs the same great features as its full-sized
+  Updated: 2026-11-06T23:19:08Z
+  Vendor: 100%
+  Product Type: Goggles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-strata-mini-goggles-black-clear-lens-47076-1-p.jpg?v=1738845849
+  Price: £19.99 GBP
+- [100 Strata Mini Goggles Yellow / Clear Lens](https://www.dccycles.co.uk/products/100-strata-mini-goggles-yellow-clear-lens): The Strata Mini Goggle. Ride with the big boys without emptying your parents wallet. The Strata Mini packs the same great features as its full-sized
+  Updated: 2026-11-06T09:20:48Z
+  Vendor: 100%
+  Product Type: Goggles
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-strata-mini-goggles-yellow-clear-lens-47080-1-p.jpg?v=1738845857
+  Price: £19.99 GBP
 - [SPEED COMPONENTS POWER BOLTS BLACK](https://www.dccycles.co.uk/products/speed-components-power-bolts-black): An elegant finish the perfect colour match Sold in pairs.
   Updated: 2026-08-06T11:52:11Z
   Vendor: SPEED COMPONENTS
@@ -2143,6 +2157,50 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/cushcore-29-pro-tyre-insert-47277-p.jpg?v=1738846075
   Price: £89.99 GBP
+- [100 Brisker Cold Weather Glove](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove): Mother Nature has met her match with this low profile glove engineered to keep you going fast in cooler weather. Get the perfect amount of insulation
+  Updated: 2026-11-06T08:43:35Z
+  Vendor: 100%
+  Product Type: Gloves
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
+  - [Small](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove?variant=54085188059462)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
+    Price: £34.99 GBP
+  - [Medium](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove?variant=54085188092230)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
+    Price: £34.99 GBP
+  - [Large](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove?variant=54085188124998)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
+    Price: £34.99 GBP
+  - [X-Large](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove?variant=54085188157766)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-47292-1-p.jpg?v=1738846100
+    Price: £34.99 GBP
+- [100 Brisker Cold Weather Glove Youth](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth): Mother Nature has met her match with this low profile glove engineered to keep you going fast in cooler weather. Get the perfect amount of insulation
+  Updated: 2026-11-06T08:55:01Z
+  Vendor: 100%
+  Product Type: Gloves
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-youth-47300-p.jpg?v=1738846109
+  - [Small](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth?variant=54085189370182)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-youth-47300-p.jpg?v=1738846109
+    Price: £26.99 GBP
+  - [Medium](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth?variant=54085189402950)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-youth-47300-p.jpg?v=1738846109
+    Price: £26.99 GBP
+  - [Large](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth?variant=54085189435718)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-youth-47300-p.jpg?v=1738846109
+    Price: £26.99 GBP
+  - [X-Large](https://www.dccycles.co.uk/products/100-brisker-cold-weather-glove-youth?variant=54085189468486)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/100-brisker-cold-weather-glove-youth-47300-p.jpg?v=1738846109
+    Price: £26.99 GBP
 - [SHIMANO MT401 BRAKE LEAVER](https://www.dccycles.co.uk/products/shimano-mt401-brake-leaver): SHIMANO MT401 BRAKE LEAVER Economic disc brake lever gives you plenty of power at your finger tips 2-finger alloy lever design for secure grip when
   Updated: 2026-08-06T11:52:10Z
   Vendor: Shimano
@@ -2349,7 +2407,7 @@
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/tyha-hblock-k-19_7804b54f-4769-4df1-be1b-57a01cefec54.jpg?v=1739115734
   Price: £25.00 GBP
 - [Halo MXR-S Tyre](https://www.dccycles.co.uk/products/halo-mxr-s-tyre): Expert Level 20" BMX race
-  Updated: 2026-08-06T11:52:16Z
+  Updated: 2026-11-06T18:09:31Z
   Vendor: Halo
   Product Type: Tyres - BMX
   Availability: Available
@@ -2542,6 +2600,32 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/FMSYB215X_f2be9b36-17ae-43bd-8994-cf18410f5315.jpg?v=1739129184
     Price: £699.99 GBP
+- [Leatt Gravity 1.0 MTB Helmet Matte Black](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black): Ride with confidence and style with the Leatt Gravity 1.0 MTB Helmet! Designed for ultimate safety and great value, this full-face helmet features 360 ̊ Turbine Technology to reduce rotational acceleration and absorb energy upon impact. Plus, with well-ventilated air vents, you'll stay cool on those hotter downhill or bikepark days. Protect your head and brain at an amazing price. Downhill  ASTM polymer shell in three sizes Great ventilation 360° Turbine Technology Reduced peak brain acceleration by up to 30% at impact speeds associated with concussion Reduces peak brain rotational acceleration by up to 40%breakaway visor function for additional rotational impact force reduction Impact foam for superior energy absorption Washable inner liner Optimal neck brace compatibility  and tested: AS/NZS 2063:2008, ASTM F1952–10, EN1078, CPSC 1203 Weight: From 960 ± 50g (2.12 lbs) Sizing #XS (53-54cm – 20 ¾ - 21 ¼") #S (55-56cm – 21 5⁄8 - 22") #M (57-58cm – 22 ½ - 22 ¾") #L (59-60cm – 23 ¼ - 23 5⁄8") #XL (61-62cm – 24 – 24 ½") #XXL (63-64cm – 24 ¾ - 25 1⁄5")
+  Updated: 2026-11-06T11:08:06Z
+  Vendor: LEATT
+  Product Type: HELMET
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383.jpg?v=1793920050
+  - [SMALL 55cm - 56cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black?variant=54385165467974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383.jpg?v=1793920050
+    Price: £89.99 GBP
+  - [MEDIUM 57cm - 58cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black?variant=54385165500742)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383_01.jpg?v=1793920050
+    Price: £89.99 GBP
+  - [LARGE 59cm - 60cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black?variant=54385165533510)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383_02.jpg?v=1793920050
+    Price: £89.99 GBP
+  - [EXTRA LARGE 61cm - 62cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black?variant=54385165566278)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383.jpg?v=1793920050
+    Price: £89.99 GBP
+  - [EXTRA SMALL 53cm - 54cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black?variant=54385189126470)
+    Availability: Not Available
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LE1027021550_69383.jpg?v=1793920050
+    Price: £89.99 GBP
 - [Leatt Gravity 1.0 MTB Helmet Red](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-red): Ride with confidence and style with the Leatt Gravity 1.0 MTB Helmet! Designed for ultimate safety and great value, this full-face helmet features 360 ̊ Turbine Technology to reduce rotational acceleration and absorb energy upon impact. Plus, with well-ventilated air vents, you'll stay cool on those hotter downhill or bikepark days. Protect your head and brain at an amazing price. Downhill  ASTM polymer shell in three sizes Great ventilation 360° Turbine Technology Reduced peak brain acceleration by up to 30% at impact speeds associated with concussion Reduces peak brain rotational acceleration by up to 40%breakaway visor function for additional rotational impact force reduction Impact foam for superior energy absorption Washable inner liner Optimal neck brace compatibility  and tested: AS/NZS 2063:2008, ASTM F1952–10, EN1078, CPSC 1203 Weight: From 960 ± 50g (2.12 lbs) Sizing #XS (53-54cm – 20 ¾ - 21 ¼") #S (55-56cm – 21 5⁄8 - 22") #M (57-58cm – 22 ½ - 22 ¾") #L (59-60cm – 23 ¼ - 23 5⁄8") #XL (61-62cm – 24 – 24 ½") #XXL (63-64cm – 24 ¾ - 25 1⁄5")
   Updated: 2026-09-25T12:43:50Z
   Vendor: LEATT
@@ -2568,7 +2652,7 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRAV10_65244_01.jpg?v=1745166224
     Price: £99.99 GBP
 - [Leatt Gravity 1.0 MTB Helmet Red Junior](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-red-junior): Ride with confidence and style with the Leatt Gravity 1.0 MTB Helmet! Designed for ultimate safety and great value, this full-face helmet features 360 ̊ Turbine Technology to reduce rotational acceleration and absorb energy upon impact. Plus, with well-ventilated air vents, you'll stay cool on those hotter downhill or bikepark days. Protect your head and brain at an amazing price. Downhill  ASTM polymer shell in three sizes Great ventilation 360° Turbine Technology Reduced peak brain acceleration by up to 30% at impact speeds associated with concussion Reduces peak brain rotational acceleration by up to 40%breakaway visor function for additional rotational impact force reduction Impact foam for superior energy absorption Washable inner liner Optimal neck brace compatibility  and tested: AS/NZS 2063:2008, ASTM F1952–10, EN1078, CPSC 1203 Weight: From 960 ± 50g (2.12 lbs)
-  Updated: 2026-10-29T11:56:26Z
+  Updated: 2026-11-06T13:31:09Z
   Vendor: LEATT
   Product Type: HELMET
   Availability: Available
@@ -2578,22 +2662,8 @@
     Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRAV10_65244_01.jpg?v=1745166224
     Price: £84.99 GBP
   - [EXTRA EXTRA SMALL JUNIOR 51cm - 52cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-red-junior?variant=54385350312262)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRAV10_65244_01.jpg?v=1745166224
-    Price: £84.99 GBP
-- [Leatt Gravity 1.0 MTB Helmet Black Junior](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black-junior): Ride with confidence and style with the Leatt Gravity 1.0 MTB Helmet! Designed for ultimate safety and great value, this full-face helmet features 360 ̊ Turbine Technology to reduce rotational acceleration and absorb energy upon impact. Plus, with well-ventilated air vents, you'll stay cool on those hotter downhill or bikepark days. Protect your head and brain at an amazing price. Downhill  ASTM polymer shell in three sizes Great ventilation 360° Turbine Technology Reduced peak brain acceleration by up to 30% at impact speeds associated with concussion Reduces peak brain rotational acceleration by up to 40%breakaway visor function for additional rotational impact force reduction Impact foam for superior energy absorption Washable inner liner Optimal neck brace compatibility  and tested: AS/NZS 2063:2008, ASTM F1952–10, EN1078, CPSC 1203 Weight: From 960 ± 50g (2.12 lbs)
-  Updated: 2026-10-29T11:55:15Z
-  Vendor: LEATT
-  Product Type: HELMET
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRA10JR_65318.jpg?v=1745169517
-  - [EXTRA SMALL JUNIOR 53cm - 54cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black-junior?variant=54385352278342)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRA10JR_65318_01.jpg?v=1745169517
-    Price: £84.99 GBP
-  - [EXTRA EXTRA SMALL JUNIOR 51cm - 52cm](https://www.dccycles.co.uk/products/leatt-gravity-1-0-mtb-helmet-black-junior?variant=54385356865862)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRA10JR_65318_01.jpg?v=1745169517
+    Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/LEHELMTBGRAV10_65244_01.jpg?v=1745166224
     Price: £84.99 GBP
 - [DMR DEATH GRIP2 FLANGELESS - THICK BLACK](https://www.dccycles.co.uk/products/dmr-death-grip2-flangeless-thick-copy): The Deathgrip2 is the upgraded legend every rider’s been waiting for. Crafted with insights from top pros like Brendan Fairclough and Olly Wilkins, it keeps the beloved soft mushroom section to protect your thumbs and forefingers from blisters. Plus, its diamond knurl pattern grips like a champ no matter the weather. Comfort, control, and a dash of fun—your handlebars just found their new best friend. TAPERED CORE – No need for outer lockring, with a secure hold.WAFFLE – For comfortable finger placement and confident grip.KNURL – For all over grip in all conditions.MUSHROOM – For comfort in thumb and forefinger area.TWO THICKNESS OPTIONS – Choose either 31.3mm or 29.8mm.FLANGE OR FLANGELESS – For your preferred grip setup.COMPOUND – Choose Soft 20A for all-terrain riding, Gum in 25A, or super-soft Race compound in 15A durometer.LIGHTWEIGHT – Just 100g per pair Replacement collars for Deathgrip 1 are not compatible with DeathGrip2. Tapered core for secure fit Soft krayton rubber outer Compounds: 20A durometer Exposed plastic core for durability Injection molded DMR logo end cap Available with or without flange Slimline aluminium lock-ring collar Single lock-ring bolt – torque to 2Nm Available in thick or thin (31.3mm or 29.8mm) 135mm long Original Deathgrip remains available in the DMR range INSTALLATIONPlease follow these instructions carefully to install your new DMR Deathgrips: Remove your old grips and bar end plugs. Thoroughly clean and degrease the handlebar. Ensure there is at least 130mm of free bar space for each grip. If necessary, move your controls to create the required space. Fit the new DMR Deathgrips onto the handlebar by pushing them on all the way until they won't go any further. You may need a soft faced mallet or similar to tap them on to fully engage the unique taper-end of the Deathgrip. Make sure the collars are fully located on the grips and tighten the collar bolts to torque (2nm). Do not overtighten the collar bolts, only tighten them enough that the grips will not rotate under force. Confirm that the grips and controls are securely in place. Twist the grips hard to ensure they do not move. NOW GO RIDE!
   Updated: 2026-10-19T17:34:05Z
@@ -2609,35 +2679,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/DMR-V12-Red_1000x1000_0c175ef8-f354-42f8-af68-d4b005f0e321.webp?v=1751136693
   Price: £60.00 GBP
-- [DMR V12 PEDALS TANGO ORANGE](https://www.dccycles.co.uk/products/dmr-v12-pedals-tango-orange): Since 1997, the DMR V12 pedal has set the standard for mountain bike flat pedals. Now redesigned with a 10% larger platform, it offers even better grip and support for rough trails and big landings. At just 16mm deep, it keeps a sleek, low profile while maintaining that legendary concave feel. Plus, it’s lighter than ever—under 430g for the standard. With sealed bearings, a cro-mo axle, and replaceable pins, the V12 keeps you riding strong and stylish. Get ready to conquer trails with the DMR V6 Pedals! These nylon beauties boast a wide, concave platform and aggressive pins that grip like a champ, whether you're hitting mountain trails, dirt jumps, or street spots. Built tough with a durable nylon body and spinning smoothly on a dual DU bush system, they’re lightweight at just 327g per pair. With a cromo axle and vivid colour options, these pedals bring style and performance together for every ride.
-  Updated: 2026-08-06T11:52:14Z
-  Vendor: DMR
-  Product Type: Pedals - BMX & MTB Flat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/DMR-V12-Orange_1000x1000_ec72f840-b7b4-45d3-92e6-c0506ab57a4a.webp?v=1751136868
-  Price: £60.00 GBP
-- [DMR V12 PEDALS PURE WHITE](https://www.dccycles.co.uk/products/dmr-v12-pedals-pure-white): Since 1997, the DMR V12 pedal has set the standard for mountain bike flat pedals. Now redesigned with a 10% larger platform, it offers even better grip and support for rough trails and big landings. At just 16mm deep, it keeps a sleek, low profile while maintaining that legendary concave feel. Plus, it’s lighter than ever—under 430g for the standard. With sealed bearings, a cro-mo axle, and replaceable pins, the V12 keeps you riding strong and stylish. Get ready to conquer trails with the DMR V6 Pedals! These nylon beauties boast a wide, concave platform and aggressive pins that grip like a champ, whether you're hitting mountain trails, dirt jumps, or street spots. Built tough with a durable nylon body and spinning smoothly on a dual DU bush system, they’re lightweight at just 327g per pair. With a cromo axle and vivid colour options, these pedals bring style and performance together for every ride.
-  Updated: 2026-08-06T11:52:12Z
-  Vendor: DMR
-  Product Type: Pedals - BMX & MTB Flat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/DMR-V12-White_1000x1000_1d4e4f92-370a-462d-a6a6-649fc479cabf.webp?v=1751137159
-  Price: £60.00 GBP
-- [DMR V12 PEDALS LEM LIME](https://www.dccycles.co.uk/products/dmr-v12-pedals-lem-lime): Since 1997, the DMR V12 pedal has set the standard for mountain bike flat pedals. Now redesigned with a 10% larger platform, it offers even better grip and support for rough trails and big landings. At just 16mm deep, it keeps a sleek, low profile while maintaining that legendary concave feel. Plus, it’s lighter than ever—under 430g for the standard. With sealed bearings, a cro-mo axle, and replaceable pins, the V12 keeps you riding strong and stylish. Get ready to conquer trails with the DMR V6 Pedals! These nylon beauties boast a wide, concave platform and aggressive pins that grip like a champ, whether you're hitting mountain trails, dirt jumps, or street spots. Built tough with a durable nylon body and spinning smoothly on a dual DU bush system, they’re lightweight at just 327g per pair. With a cromo axle and vivid colour options, these pedals bring style and performance together for every ride.
-  Updated: 2026-08-06T11:52:07Z
-  Vendor: DMR
-  Product Type: Pedals - BMX & MTB Flat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/DMR-V12-Yellow_1000x1000_6f8a3087-3dea-4f42-b74a-e6da1bd52e24.webp?v=1751137254
-  Price: £60.00 GBP
-- [DMR OIOI SADDLE BLACK  CAMO](https://www.dccycles.co.uk/products/dmr-oioi-saddle-black-camo): The DMR OiOi Saddle Camo is your stealthy sidekick for tackling tough trails. Crafted with input from The Deakinator, it blends lightweight CroMo rails and superlight foam for a saddle that’s both durable and nimble. Its low-profile, blunt nose design gives you extra climbing room, while the flexible spined base keeps you comfy all day long. Finished in rugged camo, it’s ready to handle whatever the trail throws at you. At just 270g and sized perfectly at 278mm by 147mm, this saddle is built to get you deep behind enemy lines with style and power.
-  Updated: 2026-08-06T11:52:12Z
-  Vendor: DMR
-  Product Type: Saddles - BMX & MTB
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0909/0288/8774/files/DMR---Saddle---OiOi---Black-Camo_1000x1000_b24f1547-1489-481b-9598-90d196ecb889.webp?v=1751137996
-  Price: £45.00 GBP
-[List Continued](https://www.dccycles.co.uk/a/llms-agent/llms.txt?shop=dc-cycles-1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTA2ODQwODcwOTQ0NiwibGFzdF92YWx1ZSI6IjE1MDY4NDA4NzA5NDQ2In0%3D)
+[List Continued](https://www.dccycles.co.uk/a/llms-agent/llms.txt?shop=dc-cycles-1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTA2MDExNzEyNzQ5NCwibGFzdF92YWx1ZSI6IjE1MDYwMTE3MTI3NDk0In0%3D)
 
 ## Collections
 
@@ -2648,8 +2690,8 @@
   Updated: 2025-07-09T09:58:09Z
   Total Products: 0
 - [All Products](https://www.dccycles.co.uk/collections/all-products): Discover unbeatable deals on bikes & cycling gear at DC Cycles. Shop top brands with free UK delivery on £50+ orders. Limited stock—order today!
-  Updated: 2026-10-31T11:19:56Z
-  Total Products: 1679
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 1657
 - [SPEED COMPONENTS](https://www.dccycles.co.uk/collections/speed-components)
   Updated: 2026-10-20T11:22:22Z
   Total Products: 60
@@ -2660,13 +2702,13 @@
   Updated: 2025-07-09T09:58:09Z
   Total Products: 0
 - [MTB & DH](https://www.dccycles.co.uk/collections/mtb-dh)
-  Updated: 2026-10-29T13:40:31Z
-  Total Products: 283
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 291
 - [Protection](https://www.dccycles.co.uk/collections/protection)
-  Updated: 2026-10-29T11:54:25Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 13
 - [HALO](https://www.dccycles.co.uk/collections/halo): Rolling confidently on over 20 years of manufacturing, Halo continues to go from strength to strength Offering a range of hand-built and award-winning wheels which encompasses all disciplines, Halo has an option for everyone. Developed in the UK | Ridden Everywhere
-  Updated: 2026-10-19T17:38:02Z
+  Updated: 2026-11-07T12:26:29Z
   Total Products: 9
 - [BOX MTB](https://www.dccycles.co.uk/collections/box-mtb): 9 is Fine Prime 9 is a counter-intuitive philosophy based on the less is more principle. Embracing range without adding complexity. Using fewer parts also reduces weight and increases durability. The flagship Prime 9 Kits showcase an ensemble of components including the chain, cassette, shifter, and derailleur. With a strategic reduction in the number of gears, the result is larger teeth for indexing. These enhanced indexing teeth translate to diminished wear and tear over time. The minimised frequency of shifts contributes to an elongated lifespan for shifters, while the reduction in gears also curtails derailleur movement and cultivates a superior Chainline. This reduction in shifting ultimately extends the longevity of the derailleur as well. Moreover, when paired with an improved Chainline, the benefits accumulate with less overall wear and tear. Notably, the 9-sprocket configuration boasts a lighter weight compared to its 12-speed counterparts, further optimised by a distinctive geometry that accommodates beefier side plates, setting it apart from 12-speed drivetrains. The internal dimensions harmonise seamlessly with contemporary wide/narrow chainrings, solidifying compatibility and performance.
   Updated: 2025-09-13T22:23:26Z
@@ -2675,13 +2717,13 @@
   Updated: 2026-07-01T11:26:55Z
   Total Products: 5
 - [All Things Race BMX](https://www.dccycles.co.uk/collections/all-things-bmx): Discover the crucial bits you need to hit the track with our Race BMX collection. From lightweight BMX race bikes built for speed, to frames, wheels, tyres, and performance parts, we’ve got the gear to keep you ahead of the competition. Shop trusted brands and upgrade with race-ready components, helmets, and protective kit designed for riders of all levels. Whether you’re competing or just getting started, our Race BMX range has the bikes, parts, and accessories to help you perform at your best.
-  Updated: 2026-10-31T11:19:56Z
-  Total Products: 311
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 319
 - [All Things MTB](https://www.dccycles.co.uk/collections/all-things-mtb): Built for riders who push limits. Shop mountain bikes, MTB components, and performance accessories for every style of riding. From suspension and brakes to wheels, drivetrains, and protection, we’ve got everything to upgrade your setup. Whether you’re racing downhill, charging enduro, or grinding XC miles, our All Things MTB range is built to keep you faster, stronger, and in control.
-  Updated: 2026-10-29T13:40:31Z
-  Total Products: 283
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 291
 - [Helmets](https://www.dccycles.co.uk/collections/helmets)
-  Updated: 2026-10-29T11:54:25Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 13
 - [Bottom Bracket Spares](https://www.dccycles.co.uk/collections/bottom-bracket-spares)
   Updated: 2026-06-07T12:04:37Z
@@ -2693,7 +2735,7 @@
   Updated: 2026-06-07T12:04:37Z
   Total Products: 1
 - [Brake](https://www.dccycles.co.uk/collections/brake)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-04T12:23:21Z
   Total Products: 10
 - [Brake - V-Brake](https://www.dccycles.co.uk/collections/brake-v-brake)
   Updated: 2026-10-07T10:17:27Z
@@ -2708,7 +2750,7 @@
   Updated: 2026-01-09T21:10:38Z
   Total Products: 0
 - [Brake Spares - Disc Brake](https://www.dccycles.co.uk/collections/brake-spares-disc-brake)
-  Updated: 2026-09-04T11:22:19Z
+  Updated: 2026-11-01T12:20:05Z
   Total Products: 16
 - [Cable Spares](https://www.dccycles.co.uk/collections/cable-spares)
   Updated: 2026-06-07T12:04:39Z
@@ -2813,8 +2855,8 @@
   Updated: 2026-01-09T21:10:20Z
   Total Products: 0
 - [Gloves](https://www.dccycles.co.uk/collections/gloves)
-  Updated: 2026-10-17T18:34:29Z
-  Total Products: 15
+  Updated: 2026-11-05T20:56:05Z
+  Total Products: 16
 - [Grip Spares](https://www.dccycles.co.uk/collections/grip-spares)
   Updated: 2026-06-07T12:04:45Z
   Total Products: 4
@@ -2828,8 +2870,8 @@
   Updated: 2026-06-07T12:04:45Z
   Total Products: 3
 - [Handlebars - BMX](https://www.dccycles.co.uk/collections/handlebars-bmx)
-  Updated: 2026-10-20T11:22:22Z
-  Total Products: 9
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 10
 - [Handlebars - MTB 22.2 & 25.4mm](https://www.dccycles.co.uk/collections/handlebars-mtb-22-2-25-4mm)
   Updated: 2026-06-07T12:05:22Z
   Total Products: 2
@@ -2843,7 +2885,7 @@
   Updated: 2026-06-07T12:04:46Z
   Total Products: 4
 - [HELMET](https://www.dccycles.co.uk/collections/helmet)
-  Updated: 2026-10-29T11:54:25Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 13
 - [Headsets - Threadless](https://www.dccycles.co.uk/collections/headsets-threadless)
   Updated: 2026-06-07T12:04:47Z
@@ -2906,7 +2948,7 @@
   Updated: 2026-01-09T21:10:08Z
   Total Products: 0
 - [Pedals - BMX & MTB Flat](https://www.dccycles.co.uk/collections/pedals-bmx-mtb-flat)
-  Updated: 2026-10-27T11:25:53Z
+  Updated: 2026-11-03T12:25:46Z
   Total Products: 56
 - [Pedals - Clipless MTB](https://www.dccycles.co.uk/collections/pedals-clipless-mtb)
   Updated: 2026-07-27T14:52:48Z
@@ -2972,7 +3014,7 @@
   Updated: 2026-10-06T11:24:25Z
   Total Products: 5
 - [Seat Clamps](https://www.dccycles.co.uk/collections/seat-clamps)
-  Updated: 2026-10-17T18:34:29Z
+  Updated: 2026-11-04T12:23:21Z
   Total Products: 10
 - [Saddles - Road & MTB XC](https://www.dccycles.co.uk/collections/saddles-road-mtb-xc)
   Updated: 2026-06-07T12:04:54Z
@@ -2993,8 +3035,8 @@
   Updated: 2026-06-07T12:04:55Z
   Total Products: 2
 - [Stems](https://www.dccycles.co.uk/collections/stems)
-  Updated: 2026-10-20T11:22:22Z
-  Total Products: 15
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 16
 - [Stems - BMX](https://www.dccycles.co.uk/collections/stems-bmx)
   Updated: 2026-01-09T21:09:59Z
   Total Products: 0
@@ -3008,7 +3050,7 @@
   Updated: 2026-06-07T12:04:56Z
   Total Products: 2
 - [Race BMX Tyres](https://www.dccycles.co.uk/collections/tyres-bmx)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-07T12:26:29Z
   Total Products: 15
 - [Tyres - Cross & Gravel](https://www.dccycles.co.uk/collections/tyres-cross-gravel)
   Updated: 2026-06-07T12:04:57Z
@@ -3038,8 +3080,8 @@
   Updated: 2026-06-07T12:05:10Z
   Total Products: 6
 - [Water Bottles](https://www.dccycles.co.uk/collections/water-bottles)
-  Updated: 2026-08-09T11:20:16Z
-  Total Products: 2
+  Updated: 2026-11-06T16:30:13Z
+  Total Products: 3
 - [Wheels - 20" & BMX](https://www.dccycles.co.uk/collections/wheels-20-bmx)
   Updated: 2026-08-14T15:36:27Z
   Total Products: 7
@@ -3083,7 +3125,7 @@
   Updated: 2026-07-27T14:52:48Z
   Total Products: 4
 - [DC Cycles](https://www.dccycles.co.uk/collections/dc-cycles)
-  Updated: 2026-10-29T18:46:07Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 32
 - [DMR](https://www.dccycles.co.uk/collections/dmr)
   Updated: 2026-10-20T11:22:22Z
@@ -3119,7 +3161,7 @@
   Updated: 2026-06-07T12:05:03Z
   Total Products: 2
 - [Gusset](https://www.dccycles.co.uk/collections/gusset)
-  Updated: 2026-10-27T11:25:53Z
+  Updated: 2026-11-04T12:23:21Z
   Total Products: 149
 - [Gusset Components](https://www.dccycles.co.uk/collections/gusset-components)
   Updated: 2026-09-09T10:34:31Z
@@ -3131,7 +3173,7 @@
   Updated: 2026-10-30T11:31:54Z
   Total Products: 31
 - [ICE](https://www.dccycles.co.uk/collections/ice)
-  Updated: 2026-10-31T11:19:56Z
+  Updated: 2026-11-03T12:25:46Z
   Total Products: 103
 - [INSIGHT](https://www.dccycles.co.uk/collections/insight)
   Updated: 2026-10-17T18:28:14Z
@@ -3149,7 +3191,7 @@
   Updated: 2026-06-07T12:05:05Z
   Total Products: 7
 - [LEATT](https://www.dccycles.co.uk/collections/leatt)
-  Updated: 2026-10-29T12:11:18Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 51
 - [KMC](https://www.dccycles.co.uk/collections/kmc)
   Updated: 2026-07-23T11:25:12Z
@@ -3191,8 +3233,8 @@
   Updated: 2026-10-17T18:28:33Z
   Total Products: 3
 - [SD](https://www.dccycles.co.uk/collections/sd)
-  Updated: 2026-06-07T12:05:07Z
-  Total Products: 5
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 7
 - [Shimano](https://www.dccycles.co.uk/collections/shimano)
   Updated: 2026-10-20T11:22:22Z
   Total Products: 64
@@ -3227,14 +3269,14 @@
   Updated: 2026-09-30T11:22:25Z
   Total Products: 4
 - [Pedals](https://www.dccycles.co.uk/collections/pedals): High-grip bike pedals built for MTB, BMX and trail riding. Durable platforms, smooth bearings, clipless or flat pedals. Rider-tested control for every session. Shop DC Cycles pedals.
-  Updated: 2026-10-30T11:31:54Z
+  Updated: 2026-11-03T12:25:46Z
   Total Products: 76
 - [Parts](https://www.dccycles.co.uk/collections/parts)
-  Updated: 2026-10-31T11:19:56Z
-  Total Products: 424
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 425
 - [Protection](https://www.dccycles.co.uk/collections/protection-1)
-  Updated: 2026-10-29T11:54:25Z
-  Total Products: 49
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 54
 - [LOCK](https://www.dccycles.co.uk/collections/lock)
   Updated: 2026-10-17T18:46:44Z
   Total Products: 5
@@ -3551,7 +3593,7 @@
   Updated: 2026-10-27T11:25:53Z
   Total Products: 12
 - [Race BMX - Braking](https://www.dccycles.co.uk/collections/race-bmx-braking)
-  Updated: 2026-10-22T11:23:38Z
+  Updated: 2026-11-01T12:20:05Z
   Total Products: 56
 - [Race BMX - Frames](https://www.dccycles.co.uk/collections/race-bmx-frames)
   Updated: 2026-10-27T14:08:13Z
@@ -3623,11 +3665,11 @@
   Updated: 2026-10-03T11:24:42Z
   Total Products: 2
 - [Drivetrain](https://www.dccycles.co.uk/collections/drivetrain)
-  Updated: 2026-10-30T11:31:54Z
+  Updated: 2026-11-04T12:23:21Z
   Total Products: 183
 - [Goggles](https://www.dccycles.co.uk/collections/goggles)
-  Updated: 2026-10-17T18:34:31Z
-  Total Products: 19
+  Updated: 2026-11-05T22:02:18Z
+  Total Products: 23
 - [Clothing](https://www.dccycles.co.uk/collections/clothing)
   Updated: 2026-10-17T18:34:31Z
   Total Products: 19
@@ -3638,7 +3680,7 @@
   Updated: 2026-10-20T11:22:22Z
   Total Products: 48
 - [Wheels](https://www.dccycles.co.uk/collections/wheels): Shop bike wheels and components for MTB, BMX and trail riding. Explore complete wheels, hubs, rims, spokes, tyres, inner tubes, freewheels, rear cogs, rim tape, valve caps and hub spares built for strength, speed and reliability.
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-07T12:26:29Z
   Total Products: 63
 - [TRUVATIV](https://www.dccycles.co.uk/collections/truvativ)
   Updated: 2026-06-07T16:27:29Z
@@ -3695,10 +3737,10 @@
   Updated: 2026-06-07T19:51:38Z
   Total Products: 1
 - [Sitewide ](https://www.dccycles.co.uk/collections/on-)
-  Updated: 2026-10-31T11:19:56Z
-  Total Products: 1674
+  Updated: 2026-11-08T12:20:29Z
+  Total Products: 1652
 - [SALT](https://www.dccycles.co.uk/collections/salt)
-  Updated: 2026-08-14T15:36:27Z
+  Updated: 2026-11-04T12:23:21Z
   Total Products: 4
 - [Salt Moto V2 Brake Lever](https://www.dccycles.co.uk/collections/salt-moto-v2-brake-lever)
   Updated: 2026-07-25T11:23:12Z
@@ -3716,8 +3758,8 @@
   Updated: 2026-06-07T20:50:42Z
   Total Products: 1
 - [100%](https://www.dccycles.co.uk/collections/100)
-  Updated: 2026-10-18T00:26:59Z
-  Total Products: 47
+  Updated: 2026-11-05T22:02:18Z
+  Total Products: 41
 - [Rims](https://www.dccycles.co.uk/collections/rims)
   Updated: 2026-10-20T11:22:22Z
   Total Products: 5
@@ -3746,22 +3788,22 @@
   Updated: 2026-08-17T11:31:15Z
   Total Products: 1
 - [All Tyres](https://www.dccycles.co.uk/collections/all-tyres)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-07T12:26:29Z
   Total Products: 62
 - [Tyres - BMX](https://www.dccycles.co.uk/collections/tyres-bmx-1)
-  Updated: 2026-10-20T11:22:22Z
+  Updated: 2026-11-07T12:26:29Z
   Total Products: 16
 - [Tyres](https://www.dccycles.co.uk/collections/tyres)
   Updated: 2026-09-20T11:48:58Z
   Total Products: 7
 - [Rain Jacket](https://www.dccycles.co.uk/collections/rain-jacket)
-  Updated: 2026-10-10T00:22:48Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 3
 - [APICO](https://www.dccycles.co.uk/collections/apico)
-  Updated: 2026-10-10T00:22:48Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 2
 - [Rain Jackets](https://www.dccycles.co.uk/collections/rain-jackets): BMX & DH Rain Jackets | Waterproof Riding Jackets | DC Cycles Shop waterproof BMX and downhill rain jackets built for mud, spray and UK weather. Breathable, packable and tough. Fast UK delivery from DC Cycles.
-  Updated: 2026-10-17T18:34:31Z
+  Updated: 2026-11-08T12:20:29Z
   Total Products: 5
 - [Womens Kit](https://www.dccycles.co.uk/collections/womens-kit): Womens BMX, MTB & DH Clothing | Riding Kit | DC Cycles Shop women’s BMX, MTB and downhill clothing: jerseys, shorts, jackets, gloves and more. Women’s-specific fit, built for UK trails. DC Cycles.
   Updated: 2026-10-17T18:34:31Z
