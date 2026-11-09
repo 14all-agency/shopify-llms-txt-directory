@@ -6,36 +6,36 @@
 - Timezone: America/New_York
 - Created At: 2018-01-30T15:25:21Z
 - Contact Email: info@boathousestores.com
-- Updated At: 2026-11-01T21:34:44.016Z
+- Updated At: 2026-11-09T01:13:54.951Z
 
 ## Products
 
 - [BP CLASSIC CASUAL](https://boathousestores.com/products/bp-classic-casual-black): BP CLASSIC CASUAL
-  Updated: 2026-11-01T12:05:05Z
+  Updated: 2026-11-08T23:58:20Z
   Vendor: ADIDAS
   Product Type: Womens Accessories
   Availability: Available
   Price: $42.00 CAD
 - [MINI MAMA BACKPACK](https://boathousestores.com/products/mini-mama-backpack-seashell): MINI MAMA BACKPACK
-  Updated: 2026-11-01T12:06:20Z
+  Updated: 2026-11-08T23:23:16Z
   Vendor: BILLABONG
   Product Type: Womens Accessories
   Availability: Available
   Price: $30.00 CAD
 - [CHAMPION SUPERCIZE - GREY](https://boathousestores.com/products/champion-supercize-grey): CHAMPION Champion Supercize - Grey
-  Updated: 2026-11-01T12:06:11Z
+  Updated: 2026-11-08T23:49:46Z
   Vendor: CHAMPION
   Product Type: Womens Accessories
   Availability: Available
   Price: $49.00 CAD
 - [CHAMPION SUPERCIZE - BLACK](https://boathousestores.com/products/champion-supercize-black): CHAMPION Champion Supercize - Black
-  Updated: 2026-11-01T12:06:46Z
+  Updated: 2026-11-08T23:59:01Z
   Vendor: CHAMPION
   Product Type: Womens Accessories
   Availability: Available
   Price: $49.00 CAD
 - [MENS CONVERSE CTAS HIGH TOP STREET SNEAKER](https://boathousestores.com/products/mens-chuck-taylor-all-stars-high-street-stars-high-street-sneakers): The Converse Chuck Taylor All Star High Street Mid recasts the iconic original with a modern look. A cushioned collar and tongue enhance comfort, an OrthoLite sock-liner for a customized feel, and an internal elastic gore band for fit. This mid-top is ready for anything. Contrast midsole stripes and a rubber toe bumper and toe cap tie it all together in classic Converse style.
-  Updated: 2026-11-01T07:47:31Z
+  Updated: 2026-11-08T23:05:26Z
   Vendor: CONVERSE
   Product Type: Mens Footwear
   Availability: Available
@@ -71,7 +71,7 @@
     Availability: Not Available
     Price: $75.00 CAD
 - [WOMENS CONVERSE CHUCK TAYLOR ALL-STAR LIFT PLATFORM CANVAS SNEAKER](https://boathousestores.com/products/womens-chuck-taylor-all-stars-lift-canvas-shoes): Stand tall with the CTAS Lift. Featuring a double-stacked rubber sole for added height and all those classic Chuck Taylor details
-  Updated: 2026-11-01T18:07:51Z
+  Updated: 2026-11-08T23:58:21Z
   Vendor: CONVERSE
   Product Type: Womens Footwear
   Availability: Available
@@ -101,14 +101,14 @@
     Availability: Available
     Price: $85.00 CAD
 - [NIXON SENTRY LEATHER WATCH](https://boathousestores.com/products/mens-sentry-leather-gold-black-watch): Business or casual, the 42mm Nixon Sentry Leather Watch will carry over and highlight any outfit. A timeless round face watch with a durable leather band, a stainless-steel case, a hardened mineral crystal cover, and a Miyota Japanese quartz 3 hand. An effortlessly easy-to-wear timepiece with a water resistance rating of 100m.
-  Updated: 2026-11-01T12:56:35Z
+  Updated: 2026-11-09T00:17:05Z
   Vendor: NIXON
   Product Type: Mens Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/2959/1636/files/NIX-A105-513-GLD-1.jpg?v=1787232434
   Price: $230.00 CAD
 - [WOMENS REEF ESCAPE LUX GOLD SANDALS- ](https://boathousestores.com/products/womens-reef-escape-lux-gold-sandals): REEF ESCAPE LUX - GOLDCLEARANCE ITEM - ALL  ITEMS ARE FINAL 
-  Updated: 2026-11-01T16:09:06Z
+  Updated: 2026-11-08T13:28:01Z
   Vendor: REEF
   Product Type: Womens Footwear
   Availability: Available
@@ -128,7 +128,7 @@
     Availability: Not Available
     Price: $21.00 CAD
 - [NIKE KIDS KAWA GS SLIDES](https://boathousestores.com/products/kids-kawa-gs-slide-black-white): NIKE Kid's slide combines plush foam underfoot with a durable, lightweight outsole foam for long-lasting wear. Featuring a soft synthetic strap that moves naturally with your foot.
-  Updated: 2026-11-01T07:15:30Z
+  Updated: 2026-11-08T19:23:16Z
   Vendor: NIKE
   Product Type: Kids Footwear
   Availability: Available
@@ -140,7 +140,7 @@
     Availability: Available
     Price: $29.99 CAD
   - [Black / 3](https://boathousestores.com/products/kids-kawa-gs-slide-black-white?variant=39749558370565)
-    Availability: Available
+    Availability: Not Available
     Price: $29.99 CAD
   - [Black / 4](https://boathousestores.com/products/kids-kawa-gs-slide-black-white?variant=39749558403333)
     Availability: Not Available
@@ -161,7 +161,7 @@
     Availability: Available
     Price: $29.99 CAD
 - [WOMENS TAHITI VI BLACK SANDALS- ](https://boathousestores.com/products/womens-tahiti-vi-black-sandals): TAHITI VI - BLACKCLEARANCE ITEM - ALL  ITEMS ARE FINAL 
-  Updated: 2026-11-01T15:10:56Z
+  Updated: 2026-11-08T12:52:31Z
   Vendor: ROXY
   Product Type: Womens Footwear
   Availability: Available
@@ -181,7 +181,7 @@
     Availability: Not Available
     Price: $16.00 CAD
 - [WOMENS IGNITE VIII SL BLACK/WHITE SANDALS](https://boathousestores.com/products/womens-ignite-viii-sl-black-white-sandals): UNDER ARMOUR Women'S Adjustable Sandal Featuring Heatgear Strap Lining To Keep The Foot Cool, Dry, And Light. Two Layers Of Performance 4D Foam For Unprecedented Comfort On The Footbed. Eva Outsole Features Durable Traction Pods Under The Heel For Lightweight Cushioning And Comfort.
-  Updated: 2026-11-01T16:04:46Z
+  Updated: 2026-11-08T13:43:41Z
   Vendor: UNDER ARMOUR
   Product Type: Womens Footwear
   Availability: Available
@@ -202,7 +202,7 @@
     Availability: Not Available
     Price: $27.00 CAD
 - [WOMENS UA W MARBELLA VI T BLACK SANDALS](https://boathousestores.com/products/womens-ua-w-marbella-vi-t-black-sandals): UNDER ARMOUR Women'S Featuring Two Layers Of Performance 4D Foam For Unprecedented Comfort On The Footbed. Eva Outsole For Lightweight Cushioning, Comfort, And Traction.
-  Updated: 2026-11-01T05:28:55Z
+  Updated: 2026-11-08T18:44:55Z
   Vendor: UNDER ARMOUR
   Product Type: Womens Footwear
   Availability: Available
@@ -223,7 +223,7 @@
     Availability: Not Available
     Price: $27.00 CAD
 - [MENS VANS CLASSIC SLIP-ON TRUE WHITE CANVAS SHOES](https://boathousestores.com/products/mens-cl-slip-on-true-white-canvas-shoes): The Slip-On that's been Setting Trends Since 1979Sleek, easy, and effortlessly stylish. Vans White Slip-On shoes are the ultimate get-up-and-go footwear. The low-profile Slip-On canvas upper offers unbeatable convenience, while the clean design makes this all-white Slip-On the perfect choice for anyone with places to go and things to do. One of the most popular designs, Vans' Classic Slip-On shoes are the perfect middle ground between style and convenience.Iconic Slip-On shoeLow profile canvas uppersSupportive padded collarsElastic side accentsSignature rubber waffle outsoles
-  Updated: 2026-11-01T21:17:25Z
+  Updated: 2026-11-08T23:05:26Z
   Vendor: VANS
   Product Type: Mens Footwear
   Availability: Available
@@ -255,44 +255,8 @@
   - [White / 13](https://boathousestores.com/products/mens-cl-slip-on-true-white-canvas-shoes?variant=14410338271281)
     Availability: Available
     Price: $70.00 CAD
-- [MENS VANS OLD SKOOL TRUE WHITE CANVAS SNEAKER](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker): The Iconic Shoe that Brought our Sidestripe to Life: This is the Old SkoolThe Old Skool was our first footwear design to showcase the famous Vans Sidestripealthough back then, it was just a random doodle drawn by founder Paul Van Doren. Since its debut in 1977, this low-top silhouette has established itself as an icon in the skate, music, and fashion scenes. From 90s street skaters and punks to current hip hop and fashion legends, the Old Skool has consistently been the go-to shoe for creatives who do things their own way.Iconic low-top, Sidestripe shoeDurable suede and canvas uppersLace-up closureReinforced toe capsSupportive padded collarsSignature rubber waffle outsolesClassic Old Skool
-  Updated: 2026-11-01T16:13:35Z
-  Vendor: VANS
-  Product Type: Mens Footwear
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/2959/1636/files/VAN-VN000D3HW00-WHT-1.jpg?v=1787232400
-  - [White / 7](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986774577)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 8](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986807345)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 8.5](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=15000993136689)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 9](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986840113)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 9.5](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986872881)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 10](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986905649)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 10.5](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986938417)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 11](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234986971185)
-    Availability: Not Available
-    Price: $90.00 CAD
-  - [White / 12](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234987003953)
-    Availability: Available
-    Price: $90.00 CAD
-  - [White / 13](https://boathousestores.com/products/mens-vans-old-skool-true-white-canvas-sneaker?variant=14234987036721)
-    Availability: Not Available
-    Price: $90.00 CAD
 - [MENS VANS CLASSIC SLIP-ON BLACK CANVAS SHOES](https://boathousestores.com/products/mens-classic-slip-on-black-canvas-shoes): The Slip-On that's been Setting Trends Since 1979Sleek, easy, and effortlessly stylish. Vans White Slip-On shoes are the ultimate get-up-and-go footwear. The low-profile Slip-On canvas upper offers unbeatable convenience, while the clean design makes this all-white Slip-On the perfect choice for anyone with places to go and things to do. One of the most popular designs, Vans' Classic Slip-On shoes are the perfect middle ground between style and convenience.Iconic Slip-On shoeLow profile canvas uppersSupportive padded collarsElastic side accentsSignature rubber waffle outsoles
-  Updated: 2026-11-01T20:45:15Z
+  Updated: 2026-11-08T18:31:46Z
   Vendor: VANS
   Product Type: Mens Footwear
   Availability: Available
@@ -328,7 +292,7 @@
     Availability: Available
     Price: $70.00 CAD
 - [WOMENS ADILETTE W BLUE/WHITE SANDALS](https://boathousestores.com/products/womens-adilette-w-blue-white-sandals): ADIDAS Iconic Women'S Slide Featuring A Comfortable Contoured Footbed And Synthetic Upper That'S Durable And Fast-Drying.
-  Updated: 2026-11-01T12:31:16Z
+  Updated: 2026-11-09T00:53:46Z
   Vendor: ADIDAS
   Product Type: Womens Footwear
   Availability: Available
@@ -349,7 +313,7 @@
     Availability: Not Available
     Price: $34.00 CAD
 - [MENS BIRKENSTOCK ARIZONA SANDALS - DARK BROWN](https://boathousestores.com/products/mens-arizona-dark-brown-bf): The legendary two-strap design from Birkenstock; the Arizona. Iconic style complemented with the signature comfort of the Birkenstock footbed. The upper of the Arizona BF is made from the skin-friendly, hard-wearing synthetic material Birko-Flor, which has a leather like finish and soft backing. The contoured cork footbed conforms to the shape of your foot and features pronounced arch support, a deep heel cup and roomy toe box that's lined with suede. Also featured is a lightweight EVA sole for cushioning and support, as-well as adjustable metal pin buckles that will always ensure a great fit. This style comes in a narrow width, which provides a slimmer fit.
-  Updated: 2026-11-01T12:44:16Z
+  Updated: 2026-11-09T00:16:36Z
   Vendor: BIRKENSTOCK
   Product Type: Mens Footwear
   Availability: Available
@@ -391,7 +355,7 @@
     Availability: Not Available
     Price: $145.00 CAD
 - [MENS BIRKENSTOCK ARIZONA BLACK SANDALS - BLACK](https://boathousestores.com/products/mens-arizona-black-sandals): The legendary two-strap design from Birkenstock; the Arizona. Iconic style complemented with the signature comfort of the Birkenstock footbed. The upper of the Arizona BF is made from the skin-friendly, hard-wearing synthetic material Birko-Flor, which has a leather like finish and soft backing. The contoured cork footbed conforms to the shape of your foot and features pronounced arch support, a deep heel cup and roomy toe box that's lined with suede. Also featured is a lightweight EVA sole for cushioning and support, as-well as adjustable metal pin buckles that will always ensure a great fit.
-  Updated: 2026-11-01T12:07:55Z
+  Updated: 2026-11-09T00:44:15Z
   Vendor: BIRKENSTOCK
   Product Type: Mens Footwear
   Availability: Available
@@ -427,7 +391,7 @@
     Availability: Available
     Price: $145.00 CAD
 - [MENS BIRKENSTOCK ARIZONA LEATHER OILED SANDALS - REGULAR - TOBACO BROWN](https://boathousestores.com/products/mens-arizona-leather-tobacco-oiled-sandals): The Birkenstock Arizona is a genuine classic. This individually adjustable unisex two-strap sandal is now available in a uniquely sophisticated leather version. The leather features an open selvedge finish, emphasizing the handcrafted and natural look of these stylish sandals. Featuring the original Birkenstock cork-latex footbed that is anatomically formed, natural leather, suede lining, EVA sole and adjustable metal pin buckles.
-  Updated: 2026-11-01T12:49:05Z
+  Updated: 2026-11-09T00:17:06Z
   Vendor: BIRKENSTOCK
   Product Type: Mens Footwear
   Availability: Available
@@ -453,7 +417,34 @@
   - [Brown / 46](https://boathousestores.com/products/mens-arizona-leather-tobacco-oiled-sandals?variant=15000850137137)
     Availability: Not Available
     Price: $170.00 CAD
-[List Continued](https://boathousestores.com/a/llms-agent/llms.txt?shop=boathousestores.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Nzk5Nzk1NTQ4NjUsImxhc3RfdmFsdWUiOiI3Nzk5Nzk1NTQ4NjUifQ%3D%3D)
+- [WOMENS BIRKENSTOCK ARIZONA BLACK SANDALS - BLACK](https://boathousestores.com/products/womens-arizona-black-sandals): The legendary two-strap design from Birkenstock; the Arizona. Iconic style complemented with the signature comfort of the Birkenstock footbed. The upper of the Arizona BF is made from the skin-friendly, hard-wearing synthetic material Birko-Flor, which has a leather like finish and soft backing. The contoured cork footbed conforms to the shape of your foot and features pronounced arch support, a deep heel cup and roomy toe box that's lined with suede. Also featured is a lightweight EVA sole for cushioning and support, as-well as adjustable metal pin buckles that will always ensure a great fit. This style comes in a narrow width, which provides a slimmer fit.
+  Updated: 2026-11-09T00:54:21Z
+  Vendor: BIRKENSTOCK
+  Product Type: Womens Footwear
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/2959/1636/files/BIR-051793-BLK-1.jpg?v=1792095110
+  - [Black / 36](https://boathousestores.com/products/womens-arizona-black-sandals?variant=8827304050737)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 37](https://boathousestores.com/products/womens-arizona-black-sandals?variant=12467953827889)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 38](https://boathousestores.com/products/womens-arizona-black-sandals?variant=15000763007025)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 39](https://boathousestores.com/products/womens-arizona-black-sandals?variant=8827304149041)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 40](https://boathousestores.com/products/womens-arizona-black-sandals?variant=8827304181809)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 41](https://boathousestores.com/products/womens-arizona-black-sandals?variant=8827304214577)
+    Availability: Available
+    Price: $145.00 CAD
+  - [Black / 35](https://boathousestores.com/products/womens-arizona-black-sandals?variant=8827304247345)
+    Availability: Not Available
+    Price: $145.00 CAD
+[List Continued](https://boathousestores.com/a/llms-agent/llms.txt?shop=boathousestores.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3Nzk5Nzk2MjA0MDEsImxhc3RfdmFsdWUiOiI3Nzk5Nzk2MjA0MDEifQ%3D%3D)
 
 ## Collections
 
@@ -461,77 +452,77 @@
   Updated: 2026-05-14T16:01:53Z
   Total Products: 1
 - [Mens](https://boathousestores.com/collections/mens): Shop for men's hoodies, t-shirts, footwear, and accessories from your favourite brands at Boathouse. We carry the hottest apparel from brands like Nike, Converse, Vans, Carhartt, Champion and more. Just simply add your items to your cart, checkout and they will be delivered to your door step.
-  Updated: 2026-11-01T21:21:32Z
-  Total Products: 1977
+  Updated: 2026-11-09T01:10:22Z
+  Total Products: 1948
 - [Womens](https://boathousestores.com/collections/womens): Shop for women's hoodies, t-shirts, footwear, and accessories from your favourite brands at Boathouse. We carry the hottest apparel from brands like Nike, Converse, Vans, Birkenstock, Calvin Klein and more. Just simply add your items to your cart, checkout and they will be delivered to your door step.
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 1754
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 1688
 - [Kids](https://boathousestores.com/collections/kids): Shop our large collection of boy's, girl's, and toddler's clothing and footwear. Boathouse offers children's clothing from a number of well known brands such as Crocs, Nike, Converse, Adidas, and more.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 64
+  Updated: 2026-11-07T12:01:44Z
+  Total Products: 61
 - [](https://boathousestores.com/collections/-1): Shop  at Boathouse. Take advantage of last chance prices on hundreds of clothing, footwear and accessory styles.  Save up to 80% Off today.
-  Updated: 2026-11-01T21:21:32Z
-  Total Products: 1746
+  Updated: 2026-11-09T01:10:22Z
+  Total Products: 1821
 - [Mens ](https://boathousestores.com/collections/mens-): Looking for something super affordable?  Welcome to the Men’s  Category. Here, you will find our most affordable items and men’s clothing apparel. They are long wear and durable. Also, they are our favorites and some of our most frequently purchased items.  This category also houses all of our items currently on the price slash. Note that these prices are time-dependent. The sooner you take them off our hands, the better.All wears are of good quality and from trusted brands. Look dapper on a budget. Shop in our Men’s  category!
-  Updated: 2026-11-01T21:21:32Z
-  Total Products: 849
+  Updated: 2026-11-09T01:10:22Z
+  Total Products: 963
 - [Womens ](https://boathousestores.com/collections/womens-): Looking for something super affordable?  Welcome to the Women’s  Category. Here, you will find a massive selection of  styles. Note that these prices and selection are limited. The sooner you take them off our hands, the better.Get into our women’s  category and place an order today.
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 930
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 893
 - [Mens New](https://boathousestores.com/collections/mens-new): What’s new for men? We have curated the hottest styles from the biggest brands in the world. Over 130 of your favorite brands are here. Carhartt, Champion, Vans, Nike, Adidas, tentree, Volcom and many, many more. Shop the latest and greatest tees, tanks, hoodies, sneakers, boots pants &amp; accessories.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 670
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 683
 - [New Arrivals](https://boathousestores.com/collections/new-arrivals): It is always wardrobe day at our store. We are constantly restocking our racks to keep you in the loop. This category contains our new arrivals.Get ahead of the trend table and determine what becomes fashion in your area.With this category, you can stay on top of all the fashion trends.We bring to you the latest outfits from brands such as Harlow and Adidas.All our new arrivals are the best of the best, the hot topics and favorites from designer brands. You should be on the lookout for the items in this category.  Grab them before anyone else does!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 1177
+  Updated: 2026-11-08T20:06:42Z
+  Total Products: 1231
 - [Online Exclusives](https://boathousestores.com/collections/online-exclusives): Shopping online just got better! Find your favorite clothing, footwear and accessories; exclusive to our online store. Our buying team searches the globe for the hottest items in the world to ensure our product selection is hands down the best in Canada. Shop our online exclusives today.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 4425
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 4426
 - [Womens New](https://boathousestores.com/collections/womens-new): What’s new in the women’s category? We have curated the hottest styles from the biggest brands in the world. Our buyers have brought in over 130 of your favorite brands. Vans, Converse, Harlow, Nike, tentree, Champion, Levis and many more. Shop 100s of sneakers, boots, tees, tanks, skirts, dresses, pants &amp; accessories.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 533
+  Updated: 2026-11-08T20:06:42Z
+  Total Products: 574
 - [Adidas](https://boathousestores.com/collections/adidas): Shop our wide collection of Adidas at Boathouse. Discover the best brands and styles available today.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 9
+  Updated: 2026-11-05T12:01:19Z
+  Total Products: 8
 - [Billabong](https://boathousestores.com/collections/billabong): In 1973, Gordon Merchant began producing handmade board shorts under his house overlooking his beloved Burleigh Point. It was a tropical haven renowned for consistent sand bottom barrels, where life was  in board shorts all year round. 
 From these humble beginnings, Billabong was born with a simple philosophy: To make the most durable boardshorts possible for surfers.
 Forty years later, board shorts still define Billabong. Times have changed but the approach remains the same. We focus on quality, innovation, functionality and unique design that characterizes youth, individuality, and style. Know the feeling…
-  Updated: 2026-10-29T11:08:12Z
-  Total Products: 2
+  Updated: 2026-11-04T17:06:16Z
+  Total Products: 1
 - [Birkenstock](https://boathousestores.com/collections/birkenstock): Boathouse Stores brings you the timeless comfort and quality of Birkenstock footwear. Explore our selection of iconic sandals, including the beloved Boston clog, all featuring ergonomic designs and contoured footbeds for unmatched support. Perfect for elevating your everyday style, Birkenstock combines durability, fashion, and all-day comfort you can trust.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 388
 - [Brixton](https://boathousestores.com/collections/brixton): Brixton is very unique and one of a kind. It all started with the creation of The Hooligan hat that was inspired by the diverse cultures that encompassed the creators. Bringing inspiration from the music industry, artists and travelers, Brixton is a beacon of individuality. Thanks to Brixton’s popularity, hats are not the only they  anymore. Here at Boathouse, you can find Brixton hats, t-shirts and hoodies.ereHer
-  Updated: 2026-10-31T16:15:44Z
-  Total Products: 2
+  Updated: 2026-11-07T11:59:31Z
+  Total Products: 1
 - [BLACKWELL](https://boathousestores.com/collections/blackwell): Blackwell Supply Co. is focused on footwear and accessories for an active lifestyle consumer. Shop our selection of Blackwell Supply Co. footwear at Boathouse and find quality sneakers, shoes, boots and more.
-  Updated: 2026-10-31T11:01:17Z
-  Total Products: 2
+  Updated: 2026-11-08T12:01:38Z
+  Total Products: 1
 - [Crooks & Castles](https://boathousestores.com/collections/crooks-castles): After years of learning the in’s and out’s of the business by starting a brand without knowledge of how to start or run a clothing company, we’ve finally come to this…”Crooks &amp; Castles”! The concept was easy. “Crooks”, criminals, pimps, hustlers, thieves, etc. And “Castles” those who got rich by becoming a crook. From the robber barons of the early times like the Vanderbilts, the Rockerfellers, the Carnegies, to the modern day billionaires-Bill Gates &amp; Microsoft. Those who stopped at nothing to get their “Castle”. We too hope one day to be the next rich crook.
 Boathouse is a proud, authorized Canadian retailer of Crooks &amp; Castles, carrying a huge selection of Crooks &amp; Castles tees, hoodies, hats and more.
   Updated: 2026-10-09T16:06:03Z
   Total Products: 0
 - [Converse](https://boathousestores.com/collections/converse): Browse and shop Boathouse Stores’ collection of Converse, the brand behind iconic sneakers like Chuck Taylor All Stars and One Stars. Since 1908, Converse has been redefining street style and creative culture with timeless designs and new classics. From the courts of the past to the streets of today, Chucks embody authentic cool, letting you create your own style story. Wherever your journey takes you, Converse goes with you.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 38
 - [Calvin Klein](https://boathousestores.com/collections/calvin-klein): Calvin Klein is a global lifestyle brand that exemplifies bold, progressive ideals and a seductive, and often minimal, aesthetic. CK seeks to thrill and inspire their audience while using provocative imagery and striking designs to ignite the senses. With high quality construction that meets consumers’ needs, Calvin Klein will continue to be unique and relevant year after year.Boathouse is a proud, authorized Canadian retailer of Calvin Klein, carrying a huge selection of Calvin Klein mens and womens tees, hoodies, underwear and more.
   Updated: 2026-09-22T19:54:56Z
   Total Products: 0
 - [Champion](https://boathousestores.com/collections/champion): Champion has inspired athletes on and off the field with its authentic, American athletic apparel. For over 100 years, Champion has been inventing and innovating the world of sportswear. Having created and patented the first hooded sweatshirt, and patented their famous Reverse Weave sweatshirt that prevents shrinkage, Champion has made their mark on the word. From iconic Champion activewear to the latest in performance workout clothes for men, women and kids, you'll find quality sportswear for every level of play. Boathouse is a proud, authorized retailer of Champion in Canada, carrying the largest selection of Champion tees, hoodies, jackets and more.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 14
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 11
 - [Element](https://boathousestores.com/collections/element): Element Skateboards is a skateboard company that manufactures skateboard decks, apparel, and footwear. Since the early 90s in Irvine, California, Element has always been about the skater lifestyle. Throughout the years, they’ve been making it clear that they want to be the biggest sustainable skateboard brand in the world. Since the beginning, nature has been a part of their brand and that continues through to this very day.
   Updated: 2026-10-24T14:39:12Z
   Total Products: 0
 - [Etnies](https://boathousestores.com/collections/etnies): Built by skateboarding since 1986, etnies is the first skateboarder-owned and operated global action sports footwear and apparel company. etnies not only pushed the envelope by creating the first pro model skate shoe, but it pioneered technological advances and changed the face of skateboard footwear forever. Today etnies’ vision, led by owner and skateboarder Pierre Andre Senizergues, is to remain the leading skateboard footwear company committed to creating innovative products that provide the most style, comfort and protection possible. etnies stays true to its roots by sponsoring a world class team of skateboarding, surfing and BMX riders, and continues its dedication by giving back to each of these communities.
-  Updated: 2026-10-29T11:01:15Z
+  Updated: 2026-11-08T12:01:29Z
   Total Products: 4
 - [Fox](https://boathousestores.com/collections/fox): Fox, also known as Fox Racing, was founded in 1974 and for over four decades has been the global leader in motocross and mountain biking gear and apparel. Fox outfits the world’s best competitive athletes and enthusiasts with products that combine innovation and style, rooted in the brand's original competitive motocross spirit. Building off this athlete-driven design philosophy, Fox delivers heritage-inspired and performance driven lifestyle apparel.
   Updated: 2026-05-31T14:05:33Z
   Total Products: 0
 - [47](https://boathousestores.com/collections/forty-seven): In 1947, twin brothers and Italian immigrants, Arthur and Henry D’Angelo founded Twins Enterprises, now ’47. The D’Angelos were entrepreneurial pioneers who were quick to see the future of sports licensing by  pennants and other sports memorabilia on the streets around Fenway Park. Through a combination of hard work, sound instincts and incredible passion, the brothers were able to grow their business from a single street cart to a premier sports lifestyle brand that uniquely melds sport and style.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 94
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 92
 - [Fila](https://boathousestores.com/collections/fila): A century after its humble beginnings, Fila has become synonymous with performance and sophistication. Worn not only by internationally recognized athletes, but the fashion conscious, Fila uses premium fabrics designed to radiate the sophistication of Italian craftsmanship, while allowing maximum flexibility and performance. Our legacy of style earns us admiration to this day. Whether you perform for the challenge of adventure, the rigor of competition, or simply the pleasure and well-being of an active life, Fila will help take you wherever you want to go, because we understand that the beauty of sport is that of a life in motion.
 Boathouse is a proud, authorized Canadian retailer of Fila, carrying a huge selection of Fila sneakers, tees, hoodies and more.
   Updated: 2026-09-07T05:22:06Z
@@ -543,18 +534,18 @@ Boathouse is a proud, authorized Canadian retailer of Fila, carrying a huge s
   Updated: 2025-11-29T09:01:29Z
   Total Products: 0
 - [Harlow](https://boathousestores.com/collections/harlow): A True Free Spirit Adventurous in her choices Generous with her friends. A little Romantic, A little Vintage, A little Playful Always fearless.
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 578
+  Updated: 2026-11-08T20:06:09Z
+  Total Products: 436
 - [HAVAIANAS](https://boathousestores.com/collections/havaianas): You’ve seen these everywhere. Ever since its creation in 1964, Havaianas has been a staple for many people around the world. Started in Brazil, the Havaianas was inspired by the Japanese Zori sandal and mixed it with Brazilian rubber, making this the first pair of rubber thongs! Havaianas has since had a resurgence of popularity. With its smart marketing campaigns and partnerships with the likes of Disney and Saint-Laurent, Havaianas has mastered the ability to not only be comfortable, but also fashionable.
-  Updated: 2026-10-31T11:01:17Z
-  Total Products: 7
+  Updated: 2026-11-08T12:01:31Z
+  Total Products: 6
 - [Hunter](https://boathousestores.com/collections/hunter): Democratic, aristocratic, industrial-strength in design, and a favorite of puddle-jumpers across the world, Hunter Boots became immediate classics when they were first produced in Scotland in 1856. Today, Hunter is more than its famous green Welly. Building on its strong tradition of marrying craftsmanship with design, Hunter continues to evolve and redefine its heritage, capturing a particular breed of luxury that will endure for many generations to come. Welcome to the Hunter Boot lifestyle.
 Boathouse is a proud, authorized Canadian retailer of Hunter, carrying a huge selection of Hunter boots and more.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 4
 - [Herschel Supply Co.](https://boathousestores.com/collections/herschel-supply-co): Founded in 2009 by brothers Jamie and Lyndon Cormack, Herschel Supply Co. adopted the name of the town where three generations of their family grew up. Based in Vancouver, Canada, Herschel Supply Co. is a design driven global accessories brand that produces quality products with a fine regard for detail.
 Boathouse is a proud, authorized Canadian retailer of Herschel Supply Co, carrying a huge selection of Herschel backpacks, bags, hats and more.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:35Z
   Total Products: 20
 - [Hoonigan Ind.](https://boathousestores.com/collections/hoonigan-ind): Spawned in 2011 by DC Shoes Co-Founder Ken Block and 0-60 Magazine Editor-in-Chief Brian Scotto, Hoonigan is a motorsport-lifestyle brand with a penchant for automotive debauchery. The company is dedicated to creating authentic products for the rebellious gear head.
   Updated: 2026-10-09T16:05:51Z
@@ -569,7 +560,7 @@ Boathouse is a proud, authorized Canadian retailer of Herschel Supply Co, carr
   Updated: 2026-10-28T11:01:11Z
   Total Products: 70
 - [Jansport](https://boathousestores.com/collections/jansport): JanSport started making packs and outdoor gear back in 1967. It’s all about the journey, the discovery of fun, freedom, and adventure. JanSport designs and makes world-class products, for everyone, everywhere. With a lifetime warranty on all their, you can rest easy knowing that your JanSport bag will be with you in the harshest of climates.
-  Updated: 2026-11-01T10:24:40Z
+  Updated: 2026-11-08T10:23:29Z
   Total Products: 13
 - [Keds](https://boathousestores.com/collections/keds): It's not a running shoe, it's a run the world shoe, with our classic canvas sneakers for women. Keds has a lace up leather shoe and slip on sneakers that come in a colorful collection read for any style or occasion. Whether you are looking for our Champion Original canvas sneakers, or want to elevate your style with our leather shoes, Keds has the slip on sneakers you need to take you from day to night. Bump you style game up a notch (or two) with our Keds canvas sneakers and leather shoes for women.
   Updated: 2025-11-29T09:01:29Z
@@ -578,8 +569,8 @@ Boathouse is a proud, authorized Canadian retailer of Herschel Supply Co, carr
 A hybrid of action sports, modern outdoors &amp; clean preppy styling.
 Featuring great classics with fashion forward details, great washes &amp; premium hardware
 Youthful, Fresh &amp; Vintage.
-  Updated: 2026-11-01T20:06:11Z
-  Total Products: 314
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 214
 - [KOLBY BLACK](https://boathousestores.com/collections/kolby-black): Shop Kolby Black for a collection of premium quality beanies, hoodies, and jackets that are only available at Boathouse. Discover new looks and put together an outfit from the Kolby Black Men's collection.
   Updated: 2026-07-08T22:33:38Z
   Total Products: 0
@@ -607,8 +598,8 @@ Youthful, Fresh &amp; Vintage.
 - [Nike](https://boathousestores.com/collections/nike): Just Do It. 
 NIKE  fosters a culture of invention. Creating products and experiences for today’s athlete while solving problems for the next generation. Sustainable innovation is a catalyst for revolutionizing the way Nike does business and an opportunity that's been integrated across all products. Innovating solutions that benefit athletes, the company and the world.
 Boathouse is a proud, authorized Canadian retailer of Nike, carrying a huge selection of Nike sneakers, tees, hoodies, and more.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 336
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 331
 - [Wanakome](https://boathousestores.com/collections/naketano): A Canadian brand, Wanankome dedicate themselves to the outdoors. They feel at home when they’re outside, and you will to! With their cozy and cute designs, Wanakome uses high quality yarn and developed fabrics to make their wears, so you’ll never want to go anywhere without them. Inspired by the lake Wanaka in New Zealand, Wanakome is for all of those who their lives freely in the fresh air.
   Updated: 2025-11-29T09:01:30Z
   Total Products: 0
@@ -622,14 +613,14 @@ Boathouse is a proud, authorized Canadian retailer of Nike, carrying a huge s
   Updated: 2026-05-29T05:54:41Z
   Total Products: 0
 - [Only](https://boathousestores.com/collections/only): ONLY’s philosophy is to embrace the magic of the possibilities within everyday life. ONLY is about you – and ONLY you. Uniqueness can be found everywhere at ONLY; in the name, the stores and especially in their collections. Each item is created with this special ONLY feeling representing their core identity, which has a mature twist with a focus on feminine strength, self-confidence and style.Boathouse is a proud, authorized Canadian retailer of Only, carrying a huge selection of Only tees, hoodies, sweaters and more.
-  Updated: 2026-11-01T12:01:15Z
+  Updated: 2026-11-03T12:01:20Z
   Total Products: 1
 - [Primitive](https://boathousestores.com/collections/primitive): Primitive Skateboard clothing.
   Updated: 2026-06-12T00:12:38Z
   Total Products: 0
 - [Puma](https://boathousestores.com/collections/puma): PUMA is one of the world’s leading sports brands, designing, developing,  and marketing footwear, apparel and accessories. For over 65 years, PUMA has been producing the most innovative products for the fastest athletes on the planet.
 Boathouse is a proud, authorized Canadian retailer of Puma, carrying a huge selection of Puma sneakers, tees, hoodies and more.
-  Updated: 2026-11-01T12:43:40Z
+  Updated: 2026-11-08T10:25:05Z
   Total Products: 8
 - [Pink + Dolphin](https://boathousestores.com/collections/pink-dolphin): Pink Dolphin is a unique and ingenious clothing line embodying exclusivity. The founders' vision was to create a clothing line where every piece was limited to keep from saturation on the streets. In doing so, every season since launch has been stocked with a limited quantity of articles that were only pressed one time. As the brand continues to build upon itself, we want to thank our supporters for believing in the brand and supporting our message.
   Updated: 2025-11-29T09:01:30Z
@@ -641,7 +632,7 @@ Boathouse is a proud, authorized Canadian retailer of Puma, carrying a huge s
   Updated: 2026-07-19T14:08:06Z
   Total Products: 1
 - [Reef](https://boathousestores.com/collections/reef): The surf lifestyle brand that enables your journey of discovery. Reef’s purpose is to provide premium, comfortable and innovative products in a sustainable manner. Created by two brothers from Argentina, these two knew what it meant to live the beach lifestyle in comfort. Be free and happy, and let the seas guide you.
-  Updated: 2026-10-30T10:22:35Z
+  Updated: 2026-11-07T10:26:09Z
   Total Products: 7
 - [Rebel Rogue](https://boathousestores.com/collections/rebel-rogue): Young, Rebellious and Edgy
 The world of alternative music, street fashion &amp; sub culture is hers
@@ -655,31 +646,31 @@ She is a tomboy with a voice and wants to be heard.
   Updated: 2026-08-20T00:47:44Z
   Total Products: 0
 - [SAXX](https://boathousestores.com/collections/saxx): Transform your daily comfort with the revolutionary SAXX collection at Boathouse! Our carefully curated selection of SAXX underwear and boxers features innovative designs and cutting-edge technology that redefine luxury and support. Feel the exhilaration of discovering your perfect fit, crafted from premium fabrics that offer breathability, moisture-wicking, and unparalleled comfort. Revel in the confidence of wearing SAXX underwear, designed to keep up with your active lifestyle. Shop now and enjoy fast shipping, remarkable customer service, and the joy of exceptional comfort. Elevate your underwear game with SAXX at Boathouse today!
-  Updated: 2026-11-01T18:03:58Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 613
 - [Sperry](https://boathousestores.com/collections/sperry): Sperry's seafaring shoes are essential accompaniments for your adventurous lifestyle. Whether for men or women, choose from a vast selection of hand-crafted footwear including iconic Sperry boat shoes, sandals, loafers, flats, slippers, espadrilles, boots, sneakers, and oxfords. Available in an inspired range of colors, styles, and materials, Sperry shoes perfectly represent the ocean-ready, adventurous, and timelessly fashionable Sperry lifestyle that has excited wearers for more than 80 years since 1935.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-05T10:33:07Z
   Total Products: 66
 - [Supra](https://boathousestores.com/collections/supra): SUPRA invites individuals driven by an anthem of authenticity, individuality, and unapologetic expression. We are for those that break barriers and push past expectations. Together we go above and beyond to take charge, tell our own stories and create a legacy that is SUPRA. We are the passionate, the visionaries, the disruptive, the bold and the defiant.
   Updated: 2025-11-29T09:01:31Z
   Total Products: 0
 - [Steve Madden](https://boathousestores.com/collections/steve-madden): Inspired by rock and roll, fused with a jolt of  appeal and urban edge, Madden creates products that are innovative, sometimes wild and always spot-on-chic. Steve Madden shoes and accessories have been a staple in fashion ever since its inception in 1990, and they are here to stay!
-  Updated: 2026-10-29T11:01:18Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 7
 - [Skinny Dip](https://boathousestores.com/collections/skinny-dip): Shop our range of Skinny Dip by Melissa swimwear exclusive to Boathouse Stores. Skinny Dip embodies the effortless yet trendy ethos of California and the appeal of all things beach. Skinny Dip swim is offered in styles for every shape so you’ll have no excuse to not be paradise or pool bound! It feels like the next best thing to skinny dipping!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 55
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 49
 - [Sanuk](https://boathousestores.com/collections/sanuk): From its early roots in Southern California surf culture, to the global lifestyle brand it is today; Sanuk® continues to deliver lo-fi innovation and comfort through its full range of footwear for men, women and kids. Founded in 1997, the brand takes its name from the Thai word for “fun” and continues to stay true to its “Smile…Pass It On” attitude. Taking cues from its iconic Sidewalk Surfer®, the first-ever shoe/sandal hybrid, the brand has expanded into vulcanized footwear and street-style-inspired casual canvas. As part of Deckers Brands, Sanuk currently owns and operates multiple freestanding stores and is sold in over 40 countries worldwide.
-  Updated: 2026-10-26T11:01:25Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 9
 - [Sorel](https://boathousestores.com/collections/sorel): Though SOREL makes more than just boots, there’s a boot in everything SOREL makes. From light and airy sandals to full-coverage snow boots, SOREL combines felt, wool, premium leather, and flawless construction with people who aren’t afraid to get their boots dirty.
-  Updated: 2026-10-28T10:29:26Z
-  Total Products: 12
+  Updated: 2026-11-08T10:25:41Z
+  Total Products: 11
 - [SCOUT & TRAIL](https://boathousestores.com/collections/scout-trail): Shop a range of casual accessories from Scout and Trail. From socks to hats, to face masks.They come in a range of colors for every personality type. We have plain, tie-dye, and patterns for every member of the family.Worry less. We’ve got you. Place an order to get yours.
-  Updated: 2026-11-01T10:25:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 17
 - [SUN BUM](https://boathousestores.com/collections/sun-bum): Shop for premium quality Sun Bum sun block, skin care products, and more at Boathouse. Get ready for long days out in the sun and your tropical vacations by protecting and caring after your skin and hair from UV rays with Sun Bum.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 10
 - [Santa Cruz](https://boathousestores.com/collections/santa-cruz): Santa Cruz Skateboards, located in Santa Cruz California, was established in 1973 by then owners, Richard Novak, Doug Haut and Jay Shuirman who founded NHS Inc. Santa Cruz Skateboards has long been revered as one of the original skateboard companies that has not only survived over the years but contributed to the innovation and modernization of skateboards and skateboarding.
   Updated: 2026-10-03T20:38:52Z
@@ -691,7 +682,7 @@ She is a tomboy with a voice and wants to be heard.
   Updated: 2025-11-29T09:01:31Z
   Total Products: 0
 - [Timberland](https://boathousestores.com/collections/timberland): New England is home to Timberland and its heritage inspires their unique culture and product designs. Everything that Timberland makes, every new store that opens, and every aspect of their business has been founded upon the outdoor lifestyle – whether that involves wooded trails or city streets – and a Timberland community that thrives on giving back.Boathouse is a proud, authorized Canadian retailer of Timberland, carrying a huge selection of Timberland boots, tees, hoodies and more.
-  Updated: 2026-11-01T12:01:09Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 30
 - [The North Face](https://boathousestores.com/collections/the-north-face): The North Face was founded in 1966 with the goal of preparing outdoor athletes for the rigors of their next adventure. It started with a single outdoor outfitting storefront in San Francisco’s North Beach. Now, more than 50 years after its humble grand opening, The North Face delivers an extensive line of performance apparel, equipment, and footwear. We push the boundaries of innovation so that you can push the boundaries of exploration.
   Updated: 2025-11-29T09:01:31Z
@@ -707,8 +698,8 @@ Boathouse is a proud, authorized Canadian retailer of Tentree, carrying a hug
   Updated: 2026-10-14T22:06:20Z
   Total Products: 0
 - [Tainted](https://boathousestores.com/collections/tainted): Tainted Denim and Pants are exclusive to Boathouse. Using only the best sourced material and fabric for a true authentic and comfortable fit.
-  Updated: 2026-11-01T19:57:00Z
-  Total Products: 31
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 26
 - [Thrasher](https://boathousestores.com/collections/thrasher): Published monthly in San Francisco, CA since January 1981, Thrasher is the longest-running, best- skateboard magazine of all time—its name synonymous with both skateboarding's roots and constant evolution; its staff dedicated to defining this evolution and the adventurous spirit of their readership
   Updated: 2025-11-29T09:01:31Z
   Total Products: 0
@@ -717,14 +708,14 @@ Boathouse is a proud, authorized Canadian retailer of Tommy Hilfiger, carryin
   Updated: 2026-06-15T17:56:04Z
   Total Products: 1
 - [Ugg](https://boathousestores.com/collections/ugg): In 1978, Brian Smith landed in Southern California with a bag of sheepskin boots and hope. He fell in love with the sheepskin experience and was convinced the world would one day share this love. The beaches of Southern California had long been an epicenter of a relaxed, casual lifestyle, a lifestyle that Brian felt was a perfect fit for his brand. So he founded the UGG brand, began  his sheepskin boots and they were an immediate sensation.
-  Updated: 2026-11-01T12:01:24Z
-  Total Products: 81
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 80
 - [Under Armour](https://boathousestores.com/collections/under-armour-1): Founded in 1996 by former University of Maryland football player Kevin Plank, Under Armour is the originator of performance apparel - gear engineered to keep athletes cool, dry and light throughout the course of a game, practice or workout.
   Updated: 2026-06-06T03:16:21Z
   Total Products: 3
 - [Vans](https://boathousestores.com/collections/vans): Immerse yourself in the timeless style of Vans! Explore our handpicked collection of Vans shoes, apparel, and accessories that capture the essence of self-expression and creativity.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 26
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 25
 - [Volcom](https://boathousestores.com/collections/volcom): Volcom is a modern lifestyle brand that embodies the creative spirit of the youth culture. The company was founded on liberation, innovation and experimentation while remaining dedicated to the breakdown of established traditions. Volcom's avant-garde approach to clothing and branding has set it apart in the action sports industry and beyond.
 Boathouse is a proud, authorized Canadian retailer of Volcom, carrying a huge selection of Volcom tees, pants, hoodies, and more.
   Updated: 2026-10-29T19:06:35Z
@@ -736,7 +727,7 @@ Boathouse is a proud, authorized Canadian retailer of Volcom, carrying a huge
   Updated: 2026-08-24T14:41:53Z
   Total Products: 0
 - [Dr Martens](https://boathousestores.com/collections/dr-martens): Dr. Martens footwear has long been a symbol of rebellion and self-expression, embraced by free-thinkers, subcultures, and trailblazers. Iconic styles like the 1460 boots and Jadon platforms combine durability with bold design, making them the perfect statement pieces. Whether you're a first-time wearer or a lifelong fan, Doc’s celebrate individuality and those who stand for something. Shop these timeless styles at Boathouse now and find the perfect pair to express your unique edge.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 442
 - [FJALLRAVEN](https://boathousestores.com/collections/fjallraven): Get on the go with Fjallraven’s unique backpacks. Whether it is a family trip, school trip, or vacation, Fjallraven’s backpacks are the perfect companion. With outstanding resilience and distinctive design, their backpacks are in an entirely different lane. Started in 1960 in a small Swedish town, Ake Nordin created the first aluminum-framed backpack, and Fjallraven never looked back after that! Fjallraven defines the trends when it comes to backpacks. Known for their simplicity and durability, their backpacks are more than that. Their new collection has a vast range of options for everyone’s tastes! Scroll now to get one for yourself today.
   Updated: 2026-05-22T16:05:48Z
@@ -748,87 +739,87 @@ Boathouse is a proud, authorized Canadian retailer of Volcom, carrying a huge
   Updated: 2026-06-21T21:22:27Z
   Total Products: 0
 - [Native](https://boathousestores.com/collections/native): Enlightened by the past and shaped for the future, Native Shoes is a global footwear brand creating accessible, easy-to-wear silhouettes for today’s stomping grounds. Born out of the temperate rainforests and alpine tundras of Vancouver, Canada in 2009, Native concocts its signature ‘Future Classics’ recipe by combining innovation, originality, and the key ingredient — lite-ness. The result is a bonafide selection of iconic styles paired with the best of evolving technology.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:24:17Z
   Total Products: 5
 - [RVCA](https://boathousestores.com/collections/rvca): RVCA is the brainchild of company founder and president, PM Tenore. Transcending the boundaries of traditional action sports apparel, RVCA is a design-driven lifestyle brand free from passing trends.
 Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge selection of RVCA tees, hoodies, sweaters and more.
   Updated: 2026-06-14T14:55:02Z
   Total Products: 0
 - [BOATHOUSE Website](https://boathousestores.com/collections/boathouse-website): Boathouse is Canada’s one-stop shop for Mens and Womens Clothing, Footwear and Accessories. Carrying brands like Champion, Carhartt, Nike, adidas, Dr. Martens, Vans, Converse &amp; More!
-  Updated: 2026-10-28T18:06:08Z
-  Total Products: 15474
+  Updated: 2026-11-06T13:50:06Z
+  Total Products: 15473
 - [BLACKWELL Website](https://boathousestores.com/collections/blackwell-website): Shop Blackwell Shoes for the hottest styles and brands. Featuring footwear and accessory brands such as Hunter, Timberland, Crocs, Toms, Nike &amp; More!
-  Updated: 2026-10-15T12:00:13Z
-  Total Products: 5817
+  Updated: 2026-11-06T13:50:06Z
+  Total Products: 5816
 - [Not ](https://boathousestores.com/collections/not-)
-  Updated: 2026-11-01T18:04:20Z
-  Total Products: 9004
+  Updated: 2026-11-08T18:06:55Z
+  Total Products: 8578
 - [Womens New Clothing](https://boathousestores.com/collections/womens-new-clothing): There’s always something new and unique at Boathouse. Whether it’s a new t-shirt, hoodie, or pair of joggers. We’ve got you covered. Take a look at our new women’s clothing arrivals from the hottest brands like Carhartt, Champion, Dickies, Harlow, Levis, Vans and more.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 343
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 372
 - [Womens New Footwear](https://boathousestores.com/collections/womens-new-footwear): Our buyers have curated the hottest footwear styles for women, from the biggest brands in the world. Sneakers from Nike, Adidas, Vans, and Converse; Boots from UGG, Dr Martens, Timberland, UGG, and Hunter; Sandals from Birkenstock, Billabong, Volcom and the biggest selection of Crocs in Canada. Whether you’re going to school, on an adventure, or for a simple walk, we have the perfect pair to match your lifestyle.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 105
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 113
 - [Womens New Accessories](https://boathousestores.com/collections/womens-new-accessories): Need an outfit upgrade soon? Find cute and chic accessories for all of your outfits. Step up your wardrobe with a few new inclusions. This category helps you stay up to date on all of the trends in women’s fashion. We deliver the hottest and most talked-about trends to your doorstep.Get high-quality and quality accessories at great prices. Click here to shop for your beanies, sunglasses, face masks, and whatnot.Our variety of choices cuts across all populations of women and all age groups. Do not be left out. Accessorize your style now. Scroll to place an order
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 122
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 134
 - [Mens New Clothing](https://boathousestores.com/collections/mens-new-clothing): There’s always something new at Boathouse. Take a look at our new men’s clothing arrivals from the hottest brands like Adidas, Volcom, Crooks &amp; Castles, Carhartt, Champion and more. You're  to find what you need. Whether it’s a new t-shirt, hoodie, or pair of joggers. We’ve got you covered. Shop away.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 448
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 454
 - [Mens New Footwear](https://boathousestores.com/collections/mens-new-footwear): Our selection of men’s footwear is constantly changing – our buyers have curated the hottest styles from the biggest brands in the world. Sneakers from Nike, Adidas, Vans, and Converse; Boots from Dr Martens, Timberland, UGG, and Kodiak; Sandals from Birkenstock, Billabong, Volcom and the biggest selection of Crocs in Canada. Whether you’re going on a run, chillin in the classroom, or for a short walk through the mall, we have the perfect styles to match your daily life.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 70
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 77
 - [Mens New Accessories](https://boathousestores.com/collections/mens-new-accessories): Are you looking for something fresh and exciting to spice up your outfit? Or new streetwear to wear for a stroll? We have a collation of top-picked and popular favorites for you to choose from. These hats, socks, and other clothing accessories are the latest in the world of men’s fashion. Hop on the most recent trends with our special collection of accessories.These trendy wear and accessories have been gathered from popular brands and well-liked companies.  They are also comfortable and affordable for every man. There is a range of prices to select from, and also a range of designs for every accessory. Shop with us today.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 152
 - [Mens T-Shirts](https://boathousestores.com/collections/mens-clothing-t-shirts): There’s never a bad time to update your T-shirt collection. Whether you’re gearing up for a casual backyard bbq, or a night out on the town, Boathouse has you covered with all the best brands and latest seasonal fashions. Check out our awesome selection of men’s t-shirts today!
-  Updated: 2026-11-01T18:04:18Z
-  Total Products: 4899
+  Updated: 2026-11-08T18:30:04Z
+  Total Products: 4900
 - [Mens Tank Tops](https://boathousestores.com/collections/mens-clothing-tank-tops): Embrace the warm weather with our versatile selection of men's tank tops. Our curated collection features popular brands like Nike, Billabong, Adidas, Salty Crew, and Champion, ensuring top-quality materials and fashionable designs. Choose from an array of colors, patterns, and styles, perfect for casual outings, workouts, or lounging by the beach. Discover the ultimate combination of style and comfort with our men's tank tops at Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 47
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 46
 - [Mens Knit Shirts](https://boathousestores.com/collections/mens-clothing-knit-shirts): Stand out from the crowd with a sweet knit shirt from Boathouse. Long sleeves? Short sleeves? Hoods? Buttons? Adidas? Fila? The choice is yours. The knit shirts we carry are as unique as the people who wear them. Show off your style today.
   Updated: 2025-11-29T09:01:32Z
   Total Products: 0
 - [Mens Button Ups](https://boathousestores.com/collections/mens-clothing-button-ups): The collared button-up shirt style is everything but boring, firmly cementing them as a tried-and-true men’s classic. With Boathouse’s vast selection of brands, styles, and prints for button ups, we offer something for every occasion. The freshest button ups are just a click away when you shop at Boathouse!
-  Updated: 2026-11-01T18:04:08Z
+  Updated: 2026-11-08T18:06:43Z
   Total Products: 345
 - [Mens Shorts](https://boathousestores.com/collections/mens-clothing-shorts): Explore Boathouse' premium selection of men's shorts, featuring top brands such as Nike, Champion, Carhartt, Dickies, Island Haze and more . Our extensive selection includes athletic shorts, cargo shorts, and casual options to suit your unique style and needs. Stay cool and comfortable with high-quality materials and stylish designs, perfect for workouts, outdoor adventures, or a laid-back day out. Elevate your wardrobe with our fashionable men's shorts collection at Boathouse Stores!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 65
+  Updated: 2026-11-08T21:10:45Z
+  Total Products: 62
 - [Mens Hoodies & Sweaters](https://boathousestores.com/collections/mens-clothing-hoodies-sweaters): Elevate your wardrobe with our exceptional collection of men's hoodies, sweaters and crews at Boathouse. Featuring top brands such as Vans, Nike, Champion, and Adidas, our curated selection ensures both style and comfort. Browse through an array of designs, from classic pullovers and zip-ups to trendy patterns and bold colors, suitable for any occasion. Stay warm and fashionable in high-quality materials and unparalleled craftsmanship. Experience the perfect blend of comfort and style with Boathouse' men's hoodies and sweaters collection!
-  Updated: 2026-11-01T20:06:11Z
-  Total Products: 343
+  Updated: 2026-11-08T17:06:00Z
+  Total Products: 344
 - [Mens Jeans & Denim](https://boathousestores.com/collections/mens-clothing-jeans-denim): For those always on the hunt for their next favourite pair of jeans, you’re in the right place. Boathouse has a great selection of jeans &amp; denim from multiple brands and varying styles. Shop this denim collection today!
-  Updated: 2026-11-01T19:57:00Z
-  Total Products: 44
+  Updated: 2026-11-08T12:01:40Z
+  Total Products: 45
 - [Mens Joggers & Pants](https://boathousestores.com/collections/mens-clothing-joggers-pants): In the market for some new pants or joggers? Boathouse has all of your needs covered. From khakis and chinos, to track pants and joggers, we carry all of the latest styles for any situation you find yourself in. Check out our selection of joggers and pants from some of Canada’s favourite brands today!.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 79
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 77
 - [Mens Jackets & Outerwear](https://boathousestores.com/collections/mens-clothing-jackets-outerwear): Let’s be honest here, there’s never a bad time to buy jackets &amp; outerwear in Canada. Our jacket collection offers items perfectly suited for early mornings, late nights, and rainy days. Be ready for whatever Mother Nature throws your way with one of our many great jackets provided here at Boathouse.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 18
 - [Mens Sneakers](https://boathousestores.com/collections/mens-sneakers): Looking for a fresh pair of kicks? Our wide selection of sneakers, skate shoes and more cover your footwear needs all season long. The sneaker collection for men here at Boathouse features shoes from top brands such as Vans, Converse, Nike, and Adidas to name a few. With this vast selection of styles, you won’t be disappointed.
-  Updated: 2026-11-01T12:43:40Z
-  Total Products: 101
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 106
 - [Mens Slip-Ons](https://boathousestores.com/collections/mens-shoes-slip-ons): The days of laces are over. Whether you’re looking for a comfortable indoor shoe or something casual to wear on a night out, Boathouse has a slip-on calling your name. After all, who says you need laces to have style?
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 67
 - [Mens Sandals](https://boathousestores.com/collections/mens-footwear-sandals): Nothing feels greater than finding your new favourite pair of sandals. From the newest trendy pieces to classic styles, we have all your beachgoing and backyard bbq having sandal needs covered for the summer. With a variety of great brands and styles to choose from, Boathouse has a pair suiting everyone’s needs.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 38
+  Updated: 2026-11-08T12:01:42Z
+  Total Products: 37
 - [Mens Casual Shoes](https://boathousestores.com/collections/mens-casual-shoes): Have you ever been asked, “Dude, where’d you get those sweet suede shoes?”? No? Well, you can drastically increase your odds of hearing shoe compliments when you wear some new kicks from Boathouse’s casual footwear section.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 15
 - [Mens Boots](https://boathousestores.com/collections/mens-boots): Whether you're looking for a work boot, a weather resistant walking boot, or something a bit more formal, Boathouse will always have a great selection of high-quality boots for any situation you require. For unbelievable style, check out the current selection of styles available at Boathouse today.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 37
+  Updated: 2026-11-08T12:01:42Z
+  Total Products: 36
 - [Mens Hats](https://boathousestores.com/collections/mens-accessories-hats): Browse our impressive selection of men's hats, featuring renowned brands like Nike, Adidas, Vans, and Champion. Our unique collection offers a variety of styles, including snapbacks, trucker hats, beanies, and bucket hats to suit any taste and occasion. Express your unique style with high-quality materials and fashionable designs that make a statement. Enjoy fast shipping and exceptional customer service as you elevate your accessory game. Discover your perfect headwear and make a lasting impression with our men's hats collection today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 167
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 160
 - [Mens Sunglasses](https://boathousestores.com/collections/mens-accessories-sunglasses): Keep the sun out of your eyes in style this year with a pair of sick shades from Boathouse. Our sunglasses come in a variety of modern styles that are  to impress anywhere your travels take you.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 90
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 86
 - [Mens Watches](https://boathousestores.com/collections/mens-accessories-watches): Whether you are after something casual and sporty or more classic and refined, Boathouse offers timepieces of all styles. Need to choose between digital or analog? gold band, silver band or leather band? It’s up to you. The watches in our collection at Boathouse are curated for any environment. Which one is calling to you?
   Updated: 2026-10-07T22:05:56Z
   Total Products: 1
@@ -836,77 +827,77 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2026-10-31T11:01:13Z
   Total Products: 1
 - [Mens Backpacks](https://boathousestores.com/collections/mens-accessories-backpacks): Who says backpacks are only for students? These days, top brands like Herschel, Jansport, and Adidas are embracing backpacks as everyday fashion statements, not just for kids going to school. Even if backpacks aren’t your style, Boathouse also carries some great duffel bags and saddle bags, check them out today
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 30
 - [Mens Underwear & Boxers](https://boathousestores.com/collections/mens-accessories-underwear): Whatever your desired style, Boathouse has all of your underwear needs covered. With a wide selection of comfortably amazing styles and sizes to choose from, you’ll find the fit right for you.
-  Updated: 2026-11-01T21:21:32Z
+  Updated: 2026-11-09T01:10:22Z
   Total Products: 124
 - [Mens Belts & Buckles](https://boathousestores.com/collections/mens-accessories-belts-buckles): You’ll find a belt for every occasion at Boathouse. Whether you’re looking for a lightweight belt perfect for outdoor activities, or are going for a more formally classic leather look, we have something for everyone. Take a look at our collection of belts today!
-  Updated: 2026-11-01T12:01:21Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 5
 - [Mens Miscellaneous](https://boathousestores.com/collections/mens-accessories-miscellaneous): Boathouse has everything a man needs to get fully dressed. Our miscellaneous collection covers a lot of commonly forgotten, but extremely important items for men’s wear. The selection ranges from face masks to socks and other important accessories for men.Always be prepared for every situation. Get all your accessories for men’s wear at Boathouse today!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 97
 - [Mens Beanies & Toques](https://boathousestores.com/collections/mens-accessories-beanies-toques): Boathouse offers a wide selection of beanies and toques to keep the cold away and keep you looking fly all year long. Featuring toques and beanies from brands like Carhartt, Nike, Vans, Herschel and more of your favorites.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 43
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 41
 - [Womens T-Shirts](https://boathousestores.com/collections/womens-clothing-t-shirts): Whether you’re looking for something casual, sporty, formal or fun, Boathouse has the T-Shirt you need. We carry the latest and greatest styles from Adidas, Champion, Nike, Volcom and many more. Check out our vast selection of women’s T-shirts at Boathouse today!
-  Updated: 2026-11-01T16:00:41Z
-  Total Products: 202
+  Updated: 2026-11-08T20:54:16Z
+  Total Products: 196
 - [Womens Tank Tops](https://boathousestores.com/collections/womens-clothing-tank-tops): Get your tan on with one of these stylish women’s tank tops from Boathouse. With a selection featuring pieces from some of the most popular sportswear and casual clothing brands in Canada, there’s something in this collection for everyone.
-  Updated: 2026-11-01T16:01:44Z
-  Total Products: 150
+  Updated: 2026-11-08T22:35:54Z
+  Total Products: 118
 - [Womens Swimwear](https://boathousestores.com/collections/womens-clothing-swimwear): Whether you’re looking for a one-piece bathing suit, a bikini or prefer to mix and match styles, Boathouse covers all of your swimwear needs year-round. Catch looks at the beach or impress the parents with your pool party modesty, Boathouse has swimwear for all occasions.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 51
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 49
 - [Womens Shorts](https://boathousestores.com/collections/womens-clothing-shorts): Be cool with one of these hot pair of shorts from Boathouse. Whether you’re keeping it casual and comfy, or are looking for something a bit more eye catching, our selection of stylish shorts features the most popular seasonal styles from some of the world’s hottest brands.
-  Updated: 2026-11-01T15:30:54Z
-  Total Products: 114
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 96
 - [Womens Hoodies & Sweaters](https://boathousestores.com/collections/womens-clothing-hoodies-sweaters): Immerse yourself in the world of warmth and fashion with our exquisite collection of women's hoodies and sweaters. Feel the excitement of exploring our handpicked selection featuring top brands like Vans, Adidas, Champion, and Carhartt, offering unparalleled comfort and trendsetting designs. From classic pullovers and zip-ups to chic patterns and vibrant colors, our assortment caters to your unique style and preferences. Experience the delight of wrapping yourself in luxurious fabrics, perfect for any occasion. Shop now for fast shipping, extraordinary customer service, and the joy of cozy elegance. Elevate your wardrobe with our women's hoodies and sweaters today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 1989
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 1994
 - [Womens Fashion Tops](https://boathousestores.com/collections/womens-clothing-woven-shirts): We’ve got casual button-up’s that are perfect for those late nights spent sitting around the campfire and dressier, sexier options that will turn heads throughout town. Check out our great selection of button-up shirts for all occasions.
   Updated: 2025-11-29T09:01:33Z
   Total Products: 0
 - [Womens Jeans & Denim](https://boathousestores.com/collections/womens-clothing-jeans-denim): Get snatched in these authentic and high-class denim jeans when you shop our collection at Boathouse. We have a wide range of styles of denim fits and jeans for women, such as boot cuts, balloon legs, high rise, and all other styles of jean cuts in this category. To stay hip and classy, scroll through our collection of jeans, and all of your denim needs will be met.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 55
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 54
 - [Womens Joggers & Pants](https://boathousestores.com/collections/womens-clothing-joggers-pants): Need some cute new pants? From khakis and chinos, to sweatpants and joggers, Boathouse has everything you need. We carry all of the latest athletic and leisurewear styles from some of Canada’s favourite brands. Check out our selection of women’s joggers and pants here at Boathouse today!
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 78
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 74
 - [Womens Dresses & Skirts](https://boathousestores.com/collections/womens-clothing-dresses-skirts): From party dresses, to more casual pieces, Boathouse has skirts &amp; dresses of all types in available for your convenience. Our lightweight, breezy selection of skirts and dresses will have you feeling comfortable and looking stylish all season long. Shop our collection of skirts and dresses at Boathouse today!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 605
 - [Womens Bodywear](https://boathousestores.com/collections/womens-clothing-bodywear): Boathouse always features the latest, greatest and comfiest in bodywear style. From sports bras and bodysuits, to bras and panties, our selection can’t be beat. With pieces from top athletic and underwear brands, including Nike, Calvin Klein and Harlow, the form fitting options we offer here at Boathouse are limitless.
-  Updated: 2026-10-31T11:01:04Z
-  Total Products: 5
+  Updated: 2026-11-04T05:05:56Z
+  Total Products: 1
 - [Womens Jackets & Outerwear](https://boathousestores.com/collections/womens-clothing-jackets-outerwear): Let’s be honest, there’s never a bad time to buy jackets &amp; outerwear in Canada. Our women’s jacket collection offers items perfectly suited for early mornings, late nights, and for those torrential downpours that come out of nowhere. Be ready for whatever Mother Nature throws at you with one of our many great jackets provided here at Boathouse.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 9
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 15
 - [Womens Sneakers](https://boathousestores.com/collections/womens-sneakers): Find your new kicks when you view the wide selection of stylish women’s sneakers available at Boathouse. Our collection of sneakers includes shoes from some fan favourite brands, including Adidas, VANS and Converse. We have your sneaker needs covered all year long, grab some new kicks from Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 119
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 125
 - [Womens Sandals](https://boathousestores.com/collections/womens-footwear-sandals): Embrace the joy of summer with our enchanting collection of women's sandals at Boathouse. Indulge in a delightful assortment of top brands like Birkenstock, Vans, and Reef, offering unmatched comfort and timeless style. Feel the thrill of discovering the perfect pair that effortlessly elevates your warm-weather wardrobe. From elegant strappy designs to casual flip-flops, our handpicked selection caters to every taste and occasion. Shop now and enjoy fast shipping, exceptional customer service, and the bliss of sun-kissed style. Experience the magic of summer with our women's sandals collection today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 82
+  Updated: 2026-11-08T17:27:52Z
+  Total Products: 80
 - [Womens Flats](https://boathousestores.com/collections/womens-footwear-flats)
   Updated: 2025-11-29T09:01:34Z
   Total Products: 0
 - [Womens Heels & Wedges](https://boathousestores.com/collections/womens-footwear-heels-wedges): From dinner dates to a girls night out, there’s the perfect heel for every occasion at Boathouse. Take a look at our great selection of trendy heels &amp; wedges at Boathouse, featuring some of Canada’s favourite leading fashion brands!
-  Updated: 2026-11-01T16:48:00Z
-  Total Products: 19
+  Updated: 2026-11-09T00:12:01Z
+  Total Products: 17
 - [Womens Rain & Winter Boots](https://boathousestores.com/collections/womens-footwear-rain-winter-boots): There’s never a bad time to buy a rain boot. Mother Nature can be a fickle beast – don’t let her catch you off guard with her next shower. These rain boots are practical, but they are sleek and stylish too. Take a look at our awesome collection of rain &amp; winter boots.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 32
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 31
 - [Womens Short Boots](https://boathousestores.com/collections/womens-footwear-short-boots): Whether you are after style or practicality, we’ve got your boot needs covered. With trendy fashion boots that are perfect for a night out , we carry short boots for everyone at Boathouse.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 30
 - [Womens Tall Boots](https://boathousestores.com/collections/womens-footwear-tall-boots): Whether you are after style or practicality, we’ve got your boot needs covered. With trendy fashion boots that are perfect for a night out and durable work boots with your favourite outdoorswoman’s name on them, we’ve got tall boots for all at Boathouse.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 16
 - [Womens Slippers](https://boathousestores.com/collections/womens-footwear-slippers): If you’re a girl who appreciates absolute cuteness and comfiness on her feet, or even if you just can’t stand laces or straps any longer, there’s a slipper with your name on it here at Boathouse. Some slippers are perfect for indoor usage, and some can be comfortably worn outside, they’re all amazing in their own ways. Shop our collection of slippers at Boathouse today!
-  Updated: 2026-11-01T12:01:24Z
-  Total Products: 28
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 27
 - [Womens Roller Skates](https://boathousestores.com/collections/womens-footwear-roller-skates): Live your best life with these Roller skates! Our collection of roller skates from different brands is the best place to find the perfect wheels for every girl. Who says you can’t look gorgeous while you speed by?Skate safely and confidently on these wheels. All brands featured in this category are trusted vendors of roller skates. Put together from only the best materials and expert techniques, their designs are foolproof and steady.  The contents of this category are affordable and durable roller skates for women and girls. To join the cool kids, order a pair for yourself today.
   Updated: 2026-10-27T11:08:43Z
   Total Products: 0
@@ -914,70 +905,70 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2026-06-12T19:30:23Z
   Total Products: 0
 - [Womens Sunglasses](https://boathousestores.com/collections/womens-accessories-sunglasses): Keep your eyes shielded from the sun with a sweet pair of women’s shades from Boathouse. Our sunglasses come in a variety of modern styles that are perfect for many occasions, such as the beach, poolside, mountaintop or wherever else you may wear them.Shop our sunglasses collection at Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 90
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 86
 - [Womens Hats](https://boathousestores.com/collections/womens-accessories-hats): At Boathouse, we’ve got the latest and greatest women’s fashion for your head. From women’s baseball caps and visors to fedoras and sun hats, there are options for everyone to keep the sun out of their eyes in style this year for any occasion at Boathouse. Shop our current women’s hats today!
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 60
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 65
 - [Womens Bags](https://boathousestores.com/collections/womens-accessories-bags): Carry things in style with our great selection of backpacks, purses, tote bags and more here at Boathouse. Whether you’re after something perfect for a night out with the girls, or want something more practical and professional for work or school environments, we always have a great selection of women’s bags available here at Boathouse.
-  Updated: 2026-11-01T12:01:18Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 17
 - [Womens Backpacks](https://boathousestores.com/collections/womens-accessories-backpacks): Who says backpacks are only for kids? These days, top brands like Herschel, Jansport, and Adidas are embracing backpacks as everyday fashion statements for women everywhere, not just for kids going to school. Even if backpacks aren’t your style, Boathouse also carries some great duffel bags and saddle bags, check them out today!
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 30
 - [Womens Wallets](https://boathousestores.com/collections/womens-accessories-wallets): Keep your cash safe with a new and cute wallet or coin purse from Boathouse’s collection of women’s wallets. With a variety of styles to choose from, we have something suitable for all occasions. Take a look at our women’s wallets today to see for yourself here at Boathouse.
   Updated: 2026-08-23T17:05:03Z
   Total Products: 0
 - [Womens Miscellaneous](https://boathousestores.com/collections/womens-accessories-miscellaneous): Pouches, water bottles, beer koozies and inflatable water toys. We couldn’t find a home for these products in out catalog, but that doesn’t mean they can’t make a great addition to your home. Take a look at the awesome odds and ends in our miscellaneous collection at Boathouse to find a hidden gem today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 253
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 248
 - [Womens Beanies & Gloves](https://boathousestores.com/collections/womens-accessories-beanies-gloves): Boathouse has all your winter fashion needs covered with our great options of beanies, toques, knit caps, wool hats, available year-round. Check out our current selection of women’s beanies &amp; gloves sold here at Boathouse today!
-  Updated: 2026-11-01T12:01:12Z
-  Total Products: 15
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 27
 - [ Mens Footwear](https://boathousestores.com/collections/-mens-footwear): We always have a great selection of great shoes, but we take it a step further with our  items. Get up to 70% off when you purchase select men’s footwear items today. With boots, sandals, sneakers available, there’s something for all tastes.
-  Updated: 2026-11-01T12:43:40Z
-  Total Products: 42
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 41
 - [ Mens Clothing](https://boathousestores.com/collections/-mens-clothing): Score unbeatable deals on men’s clothing at Boathouse —up to 80% OFF! Whether you're restocking staples or upgrading your look, this is the place to find hoodies, T-shirts, joggers, jeans, flannels, button-ups, tank tops, shorts, and more—crafted for both comfort and style. With brands like Nike, Carhartt, Adidas, Vans, Champion, Timberland, Salty Crew, and Boathouse Essentials, you'll discover trending styles and timeless classics without the full price tag. Looking for gear that performs as well as it looks? Check out discounted joggers, elevated layering pieces, and season-ready jackets—perfect for everyday wear and weekend adventures. Act fast—these markdowns are in high demand and won't last long. Update your wardrobe with high-quality essentials for less—shop men’s  clothing now before sizes and styles disappear.
-  Updated: 2026-11-01T20:37:44Z
-  Total Products: 10542
+  Updated: 2026-11-08T23:31:18Z
+  Total Products: 10695
 - [ Mens Accessories](https://boathousestores.com/collections/-mens-accessories): Looking for a sweet  on a new hat, watch, bag, or facemask.?  Whatever you’re after, you won’t want to miss out on our men’s accessories . With a wide variety of great products marked down up to 70%, this  has something for everyone.
-  Updated: 2026-11-01T21:21:32Z
-  Total Products: 237
+  Updated: 2026-11-09T01:10:22Z
+  Total Products: 228
 - [ Womens Footwear](https://boathousestores.com/collections/-womens-footwear): We always  great shoes at low prices, but we take it a step further with our  items. Get up to 80% off when you purchase select women’s footwear items today. With heels, sandals, sneakers and more available, there’s something perfect for everybody.
-  Updated: 2026-11-01T16:48:00Z
-  Total Products: 103
+  Updated: 2026-11-09T00:12:01Z
+  Total Products: 97
 - [ Womens Clothing](https://boathousestores.com/collections/-womens-clothing): Get up to 80% off select women’s clothing  items at Boathouse. For a limited time, we’ve got a great selection of seasonal women’s clothes on , including t-shirts, shorts and tank tops. Take a look at our entire women’s clothing  stock.
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 640
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 602
 - [ Womens Accessories](https://boathousestores.com/collections/-womens-accessories): Looking for a sweet  on a bags, hats, jewelry & more? You won’t want to miss out on our women’s accessories . With a wide variety of great products marked down up to 70%, this  has something for everyone.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 212
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 217
 - [Mens Clothing](https://boathousestores.com/collections/mens-clothing): Shop for men's hoodies, t-shirts, footwear, and accessories from your favourite brands at Boathouse. We carry the hottest apparel from brands like Nike, Converse, Vans, Adidas, Champion and more. Just simply add your items to your cart, checkout and they will be delivered to your door step.
-  Updated: 2026-11-01T20:06:11Z
-  Total Products: 1125
+  Updated: 2026-11-08T23:18:43Z
+  Total Products: 1106
 - [Mens Footwear](https://boathousestores.com/collections/mens-footwear): Our selection of men’s footwear is constantly changing – it can be hard to keep track of all the sneakers, shoes and boots we carry. Take a look at our collection of men’s footwear from brands like Nike, Dr Martens, Birkenstock, and more. If you see something you like, we can send it to your doorstep with the click of button.
-  Updated: 2026-11-01T12:43:40Z
-  Total Products: 249
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 252
 - [Mens Accessories](https://boathousestores.com/collections/mens-accessories): Get the freshest mens accessories at Boathouse.  From watches to hats, belts to beanies, we have the latest styles and trends available today.
-  Updated: 2026-11-01T21:21:32Z
-  Total Products: 603
+  Updated: 2026-11-09T01:10:22Z
+  Total Products: 590
 - [Womens Clothing](https://boathousestores.com/collections/womens-clothing): Shop for women's hoodies, t-shirts, footwear, and accessories from your favourite brands at Boathouse. We carry the hottest apparel from brands like Nike, Converse, Vans, Birkenstock, Calvin Klein and more. Just simply add your items to your cart, checkout and they will be delivered to your door step.
-  Updated: 2026-11-01T20:06:12Z
-  Total Products: 875
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 805
 - [Womens Footwear](https://boathousestores.com/collections/womens-footwear): Buy Women's sneakers, heels, sandals, boots and more at Boathouse. Find a large collection of footwear from brands such as Nike, Converse, Vans, Crocs, Dr. Martens, Birkenstock and more.
-  Updated: 2026-11-01T16:48:00Z
-  Total Products: 370
+  Updated: 2026-11-09T00:12:01Z
+  Total Products: 371
 - [Womens Accessories](https://boathousestores.com/collections/womens-accessories): Get the freshest Women's Accessories at Boathouse. From sunglasses to hats, bags to socks, we have the latest styles and trends available today!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 509
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 512
 - [Footwear](https://boathousestores.com/collections/footwear): Boathouse's selection of footwear is constantly growing – it can be hard to keep track of all the sneakers, shoes and boots we carry. Take a look at our collection of men’s and women's footwear from brands like Nike, Dr Martens, Birkenstock, Converse and more. If you see something you like, we can send it to your doorstep with the click of button.
-  Updated: 2026-11-01T18:04:14Z
-  Total Products: 9513
+  Updated: 2026-11-08T18:06:17Z
+  Total Products: 9529
 - [Boys Footwear](https://boathousestores.com/collections/boys-footwear): Find only the freshest shoes for your little guy to go back to school in when you shop our collection of boys footwear here at Boathouse. We have footwear for boys from a variety of top brands favored by kids and parents alike. Our selection here at boathouse covers every boy’s taste and preference, from walking shoes to running shoes, sandals, and clogs. Shop our boys footwear collection today to find what’s right for him!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:20:06Z
   Total Products: 456
 - [Girls Footwear](https://boathousestores.com/collections/girls-footwear): Get some fresh kicks for your little girl when you browse this footwear collection here at Boathouse! Featuring styles such as sandals, clogs, and even boots, you’ll stay trendy all year round with the hottest girl’s footwear from fan favourite brands such as Vans, Crocs, Birkenstock, Nike, Adidas and more!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:21:52Z
   Total Products: 343
 - [Brands](https://boathousestores.com/collections/brands)
   Updated: 2025-11-29T09:01:35Z
@@ -989,11 +980,11 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2026-10-28T19:06:03Z
   Total Products: 5
 - [Promo EB Accessories](https://boathousestores.com/collections/eb-accessories)
-  Updated: 2026-10-30T11:00:56Z
+  Updated: 2026-11-07T12:01:23Z
   Total Products: 1
 - [Promo MENS EB CLOTHING](https://boathousestores.com/collections/mens-eb-clothing)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 26
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 25
 - [Promo MENS EB FOOTWEAR](https://boathousestores.com/collections/mens-eb-footwear)
   Updated: 2026-07-24T22:43:40Z
   Total Products: 0
@@ -1001,20 +992,20 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2025-11-29T09:01:35Z
   Total Products: 0
 - [Promo Season S8](https://boathousestores.com/collections/promo-s8)
-  Updated: 2026-10-15T12:00:13Z
-  Total Products: 2465
+  Updated: 2026-11-06T13:50:07Z
+  Total Products: 2464
 - [Promo Season Carryover](https://boathousestores.com/collections/promo-carryover)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 492
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 493
 - [Promo EB SWIM](https://boathousestores.com/collections/promo-eb-swim)
   Updated: 2026-10-28T00:17:34Z
   Total Products: 0
 - [Block from  CODES](https://boathousestores.com/collections/promo-on--do-not-promote)
-  Updated: 2026-11-01T18:04:20Z
-  Total Products: 511
+  Updated: 2026-11-08T18:06:50Z
+  Total Products: 514
 - [Promo Season OLD](https://boathousestores.com/collections/promo-season-old)
-  Updated: 2026-11-01T18:04:20Z
-  Total Products: 8405
+  Updated: 2026-11-08T18:06:55Z
+  Total Products: 8450
 - [Promo Floaties](https://boathousestores.com/collections/promo-floaties)
   Updated: 2026-10-06T20:00:37Z
   Total Products: 9
@@ -1022,7 +1013,7 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2025-11-29T09:01:36Z
   Total Products: 0
 - [Promo EB Fashion Bags, Wallets](https://boathousestores.com/collections/promo-fashion-bags-wallets)
-  Updated: 2026-10-30T11:00:56Z
+  Updated: 2026-11-07T12:01:23Z
   Total Products: 1
 - [TEST ERASE](https://boathousestores.com/collections/test-erase)
   Updated: 2026-10-15T11:37:18Z
@@ -1037,10 +1028,10 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2025-11-29T09:01:36Z
   Total Products: 0
 - [Victor Tees](https://boathousestores.com/collections/victor-tees)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 35
+  Updated: 2026-11-08T20:06:34Z
+  Total Products: 34
 - [Victor Tees PROMO](https://boathousestores.com/collections/victor-tees-1)
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 28
 - [Promo EB Womens Pants](https://boathousestores.com/collections/eb-womens-pants-promo)
   Updated: 2025-11-29T09:01:36Z
@@ -1049,8 +1040,8 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2026-06-06T02:57:26Z
   Total Products: 3
 - [All Products](https://boathousestores.com/collections/all-products)
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 40465
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 40510
 - [Volcom Mens](https://boathousestores.com/collections/volcom-mens): Volcom is a modern lifestyle brand that embodies the creative spirit of the youth culture. The company was founded on liberation, innovation and experimentation while remaining dedicated to the breakdown of established traditions. Volcom's avant-garde approach to clothing and branding has set it apart in the action sports industry and beyond.
   Updated: 2026-10-13T16:06:01Z
   Total Products: 0
@@ -1061,17 +1052,17 @@ Boathouse is a proud, authorized Canadian retailer of RVCA, carrying a huge s
   Updated: 2026-10-07T22:05:56Z
   Total Products: 1
 - [Adidas Mens](https://boathousestores.com/collections/adidas-mens): No other brand has a more distinguished history and stronger connection with sport than adidas. It is our mission to be the best sports brand in the world. Everything we do is rooted in sport. This is what “The Badge of Sport” stands for as a brand mark. It is the sharp end of our spear, seen on innovative products, as well as with the world’s best athletes, teams and events.
-  Updated: 2026-10-27T11:01:31Z
+  Updated: 2026-11-05T12:01:17Z
   Total Products: 2
 - [Tentree Mens](https://boathousestores.com/collections/tentree-mens): At tentree, we're focused on more than just planting trees. We want to help change lives. Not only does reforestation revitalize dry arid soil and provide a substantial oxygen supply, but it directly benefits locals living in the area by providing wood for fuel, food, and fodder for livestock, as well as permanent and seasonal employment.
   Updated: 2026-10-14T22:06:20Z
   Total Products: 0
 - [Herschel Supply Co. Mens](https://boathousestores.com/collections/herschel-supply-co-mens): Founded in 2009 by brothers Jamie and Lyndon Cormack, Herschel Supply Co. adopted the name of the town where three generations of their family grew up. Based in Vancouver, Canada, Herschel Supply Co. is a design driven global accessories brand that produces quality products with a fine regard for detail.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:35Z
   Total Products: 13
 - [Adidas Womens](https://boathousestores.com/collections/adidas-womens): No other brand has a more distinguished history and stronger connection with sport than adidas. It is our mission to be the best sports brand in the world. Everything we do is rooted in sport. This is what “The Badge of Sport” stands for as a brand mark. It is the sharp end of our spear, seen on innovative products, as well as with the world’s best athletes, teams and events.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 8
+  Updated: 2026-11-05T12:01:19Z
+  Total Products: 7
 - [Billabong Mens](https://boathousestores.com/collections/billabong-mens): In 1973, Gordon Merchant began producing handmade board shorts under his house overlooking his beloved Burleigh Point. It was a tropical haven renowned for consistent sand bottom barrels, where life was  in board shorts all year round. 
 From these humble beginnings, Billabong was born with a simple philosophy: To make the most durable boardshorts possible for surfers.
 Forty years later, board shorts still define Billabong. Times have changed but the approach remains the same. We focus on quality, innovation, functionality and unique design that characterizes youth, individuality, and style. Know the feeling…
@@ -1084,10 +1075,10 @@ Forty years later, board shorts still define Billabong. Times have changed but t
   Updated: 2025-11-29T09:01:37Z
   Total Products: 0
 - [Champion Mens](https://boathousestores.com/collections/champion-mens): Since 1919 Champion has inspired athletes on and off the field with its authentic, American athletic apparel. From iconic Champion activewear to the latest in performance workout clothes for men, women and kids, you'll find quality sportswear for every level of play.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 12
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 10
 - [Timberland Mens](https://boathousestores.com/collections/timberland-mens): Our unique culture and product designs are inspired by the rich New England heritage of our company. Everything we make, every store we open, every aspect of our business has been founded upon the outdoor lifestyle – whether that involves wooded trails or city streets – and a Timberland community that thrives on giving back.
-  Updated: 2026-11-01T12:01:09Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 18
 - [Puma Mens](https://boathousestores.com/collections/puma-mens): PUMA is one of the world’s leading sports brands, designing, developing,  and marketing footwear, apparel and accessories. For over 65 years, PUMA has been producing the most innovative products for the fastest athletes on the planet.
   Updated: 2026-11-01T12:43:40Z
@@ -1095,8 +1086,8 @@ Forty years later, board shorts still define Billabong. Times have changed but t
 - [Billabong Womens](https://boathousestores.com/collections/billabong-womens): In 1973, Gordon Merchant began producing handmade board shorts under his house overlooking his beloved Burleigh Point. It was a tropical haven renowned for consistent sand bottom barrels, where life was  in board shorts all year round. 
 From these humble beginnings, Billabong was born with a simple philosophy: To make the most durable boardshorts possible for surfers.
 Forty years later, board shorts still define Billabong. Times have changed but the approach remains the same. We focus on quality, innovation, functionality and unique design that characterizes youth, individuality, and style. Know the feeling…
-  Updated: 2026-10-29T11:08:12Z
-  Total Products: 2
+  Updated: 2026-11-04T17:06:16Z
+  Total Products: 1
 - [Kappa Mens](https://boathousestores.com/collections/kappa-mens): Kappa’s heritage is an inexhaustible source of inspiration for contemporary lifestyle. There are details and styles that go beyond time and identify a taste and a way of being. The Authentic Label take inspiration from this iconic and valuable heritage to reinterpret it in a new way all the time. Total look collections are born from the rereading of the styles that made the history of the brand,able to reach and capture different cultures and references of our time. Kappa Authentic is a classic that constantly reinvented and imposes itself as a trend. Is the Authentic sporting spirit that becomes a lifestyle
   Updated: 2026-07-19T14:04:30Z
   Total Products: 0
@@ -1107,43 +1098,43 @@ Forty years later, board shorts still define Billabong. Times have changed but t
   Updated: 2026-06-14T14:55:03Z
   Total Products: 0
 - [Converse Mens](https://boathousestores.com/collections/converse-mens): In some ways, you know us. Converse has been making Chuck Taylor All Star and One Star sneakers since we started over a century ago, and now we work to make new street style classics. What you wear defines sport, street, and creative culture, and we’ve been redefining it with you all along. When you wear Converse products, you create a culture of authentic street style simply by being yourself. Whether they’re on the feet of a ‘70’s basketball star in a history book or on the street with you today, Chucks have always signified cool...because you wear them. We don’t know where you’ll go, but we know you’ll take Converse to the future with you
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 19
 - [Champion Womens](https://boathousestores.com/collections/champion-womens): Since 1919 Champion has inspired athletes on and off the field with its authentic, American athletic apparel. From iconic Champion activewear to the latest in performance workout clothes for men, women and kids, you'll find quality sportswear for every level of play.
-  Updated: 2026-10-26T21:29:23Z
-  Total Products: 4
+  Updated: 2026-11-04T05:05:54Z
+  Total Products: 3
 - [Wanakome Mens](https://boathousestores.com/collections/naketano-mens)
   Updated: 2025-11-29T09:01:37Z
   Total Products: 0
 - [Vans Mens](https://boathousestores.com/collections/vans-mens): Immerse yourself in the timeless style of Vans! Explore our handpicked collection of Vans shoes, apparel, and accessories that capture the essence of self-expression and creativity.
-  Updated: 2026-11-01T12:01:24Z
-  Total Products: 18
+  Updated: 2026-11-08T12:01:44Z
+  Total Products: 17
 - [Crooks & Castles Mens](https://boathousestores.com/collections/crooks-castles-mens): After years of learning the in’s and out’s of the business by starting a brand without knowledge of how to start or run a clothing company, we’ve finally come to this…”Crooks &amp; Castles”! The concept was easy. “Crooks”, criminals, pimps, hustlers, thieves, etc. And “Castles” those who got rich by becoming a crook. From the robber barons of the early times like the Vanderbilts, the Rockerfellers, the Carnegies, to the modern day billionaires-Bill Gates &amp; Microsoft. Those who stopped at nothing to get their “Castle”. We too hope one day to be the next rich crook.
   Updated: 2026-10-09T16:06:03Z
   Total Products: 0
 - [Converse Womens](https://boathousestores.com/collections/converse-womens): In some ways, you know us. Converse has been making Chuck Taylor All Star and One Star sneakers since we started over a century ago, and now we work to make new street style classics. What you wear defines sport, street, and creative culture, and we’ve been redefining it with you all along. When you wear Converse products, you create a culture of authentic street style simply by being yourself. Whether they’re on the feet of a ‘70’s basketball star in a history book or on the street with you today, Chucks have always signified cool...because you wear them. We don’t know where you’ll go, but we know you’ll take Converse to the future with you
-  Updated: 2026-11-01T12:01:21Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 19
 - [Santa Cruz Mens](https://boathousestores.com/collections/santa-cruz-mens): Santa Cruz Skateboards, located in Santa Cruz California, was established in 1973 by then owners, Richard Novak, Doug Haut and Jay Shuirman who founded NHS Inc. Santa Cruz Skateboards has long been revered as one of the original skateboard companies that has not only survived over the years but contributed to the innovation and modernization of skateboards and skateboarding.
   Updated: 2026-10-03T20:38:52Z
   Total Products: 0
 - [Vans Womens](https://boathousestores.com/collections/vans-womens): Immerse yourself in the timeless style of Vans! Explore our handpicked collection of Vans shoes, apparel, and accessories that capture the essence of self-expression and creativity.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T10:27:05Z
   Total Products: 14
 - [Volcom Womens](https://boathousestores.com/collections/volcom-womens): Volcom is a modern lifestyle brand that embodies the creative spirit of the youth culture. The company was founded on liberation, innovation and experimentation while remaining dedicated to the breakdown of established traditions. Volcom's avant-garde approach to clothing and branding has set it apart in the action sports industry and beyond.
   Updated: 2026-10-29T19:06:35Z
   Total Products: 0
 - [Nike Mens](https://boathousestores.com/collections/nike-mens): Just Do It. 
 NIKE, Inc. fosters a culture of invention. Creating products and experiences for today’s athlete while solving problems for the next generation. Sustainable innovation is a catalyst for revolutionizing the way Nike does business and an opportunity that's been integrated across all products. Innovating solutions that benefit athletes, the company and the world.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 209
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 207
 - [Crooks & Castles Womens](https://boathousestores.com/collections/crooks-castles-womens): After years of learning the in’s and out’s of the business by starting a brand without knowledge of how to start or run a clothing company, we’ve finally come to this…”Crooks &amp; Castles”! The concept was easy. “Crooks”, criminals, pimps, hustlers, thieves, etc. And “Castles” those who got rich by becoming a crook. From the robber barons of the early times like the Vanderbilts, the Rockerfellers, the Carnegies, to the modern day billionaires-Bill Gates &amp; Microsoft. Those who stopped at nothing to get their “Castle”. We too hope one day to be the next rich crook.
   Updated: 2026-05-21T08:17:42Z
   Total Products: 0
 - [Nike Womens](https://boathousestores.com/collections/nike-womens): Just Do It. 
 NIKE fosters a culture of invention. Creating products and experiences for today’s athlete while solving problems for the next generation. Sustainable innovation is a catalyst for revolutionizing the way Nike does business and an opportunity that's been integrated across all products. Innovating solutions that benefit athletes, the company and the world.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 140
+  Updated: 2026-11-09T01:04:25Z
+  Total Products: 137
 - [Fila Womens](https://boathousestores.com/collections/fila-womens): A century after its humble beginnings, Fila has become synonymous with performance and sophistication. Worn not only by internationally recognized athletes, but the fashion conscious, Fila uses premium fabrics designed to radiate the sophistication of Italian craftsmanship, while allowing maximum flexibility and performance. Our legacy of style earns us admiration to this day. Whether you perform for the challenge of adventure, the rigor of competition, or simply the pleasure and well-being of an active life, Fila will help take you wherever you want to go, because we understand that the beauty of sport is that of a life in motion.
   Updated: 2026-08-13T12:16:04Z
   Total Products: 0
@@ -1163,13 +1154,13 @@ NIKE fosters a culture of invention. Creating products and experiences for today
   Updated: 2025-11-29T09:01:38Z
   Total Products: 0
 - [Herschel Supply Co. Womens](https://boathousestores.com/collections/herschel-supply-co-womens): Founded in 2009 by brothers Jamie and Lyndon Cormack, Herschel Supply Co. adopted the name of the town where three generations of their family grew up. Based in Vancouver, Canada, Herschel Supply Co. is a design driven global accessories brand that produces quality products with a fine regard for detail.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:29Z
   Total Products: 13
 - [Puma Womens](https://boathousestores.com/collections/puma-womens): PUMA is one of the world’s leading sports brands, designing, developing,  and marketing footwear, apparel and accessories. For over 65 years, PUMA has been producing the most innovative products for the fastest athletes on the planet.
   Updated: 2026-10-17T11:01:19Z
   Total Products: 8
 - [Timberland Womens](https://boathousestores.com/collections/timberland-womens): Our unique culture and product designs are inspired by the rich New England heritage of our company. Everything we make, every store we open, every aspect of our business has been founded upon the outdoor lifestyle – whether that involves wooded trails or city streets – and a Timberland community that thrives on giving back.
-  Updated: 2026-10-30T11:01:04Z
+  Updated: 2026-11-07T12:01:47Z
   Total Products: 10
 - [Kappa Womens](https://boathousestores.com/collections/kappa-womens): Kappa’s heritage is an inexhaustible source of inspiration for contemporary lifestyle. There are details and styles that go beyond time and identify a taste and a way of being. The Authentic Label take inspiration from this iconic and valuable heritage to reinterpret it in a new way all the time. Total look collections are born from the rereading of the styles that made the history of the brand,able to reach and capture different cultures and references of our time. Kappa Authentic is a classic that constantly reinvented and imposes itself as a trend. Is the Authentic sporting spirit that becomes a lifestyle
   Updated: 2025-11-29T09:01:38Z
@@ -1190,41 +1181,41 @@ NIKE fosters a culture of invention. Creating products and experiences for today
   Updated: 2025-11-29T09:01:38Z
   Total Products: 0
 - [](https://boathousestores.com/collections/): All good things must come to an end. We loved these clothes and shoes, and we sold a whole bunch of them…but we ordered too much product and need to clean house. If you like trendy clothes and shoes from top brands at unbeatable prices, you’ll love our  section.
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 31495
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 31966
 - [ WOMENS](https://boathousestores.com/collections/-womens): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our women’s  section is home to some of the best bargains on clothes and shoes out there. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T18:03:51Z
-  Total Products: 15286
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 15570
 - [ WOMENS CLOTHING](https://boathousestores.com/collections/-womens-clothing): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our women’s  section is home to some of the best bargains on clothes and shoes out there. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T18:03:51Z
-  Total Products: 7729
+  Updated: 2026-11-08T23:27:35Z
+  Total Products: 7965
 - [ WOMENS ACCESSORIES](https://boathousestores.com/collections/-womens-accessories): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our women’s accessories  section is home to some of the best bargains on bags, beanies and fanny packs. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-10-31T11:01:21Z
+  Updated: 2026-11-09T01:00:32Z
   Total Products: 3304
 - [ WOMENS FOOTWEAR](https://boathousestores.com/collections/-womens-footwear): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our women’s footwear  section is home to some of the best bargains on boots and shoes out there. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T12:01:09Z
-  Total Products: 4253
+  Updated: 2026-11-09T00:29:28Z
+  Total Products: 4301
 - [ MENS](https://boathousestores.com/collections/-mens): Looking for great gear at unbelievable prices? Look no further. Our men’s  section is home to some of the best bargains on clothes and shoes out there. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 16766
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 16953
 - [ MENS CLOTHING](https://boathousestores.com/collections/-mens-clothing): Looking for great gear at unbelievable prices? Look no further. Our men’s  section is home to some of the best bargains on clothes and shoes out there. Take a look at all the great items from top brands we have available at Boathouse for  rates below.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 9464
+  Updated: 2026-11-08T23:27:18Z
+  Total Products: 9642
 - [ MENS ACCESSORIES](https://boathousestores.com/collections/-mens-accessories): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our men's accessories  section is home to some of the best bargains on watches. bags. socks and more. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T21:00:28Z
+  Updated: 2026-11-09T01:00:32Z
   Total Products: 4306
 - [ MENS FOOTWEAR](https://boathousestores.com/collections/-mens-footwear): Looking for Instagram worthy fashion without breaking the bank? Look no further. Our men's footwear  section is home to some of the best bargains on boots and shoes out there. Take a look at all the great items from top brands we have available at  rates below.
-  Updated: 2026-11-01T18:03:40Z
-  Total Products: 2996
+  Updated: 2026-11-08T12:01:27Z
+  Total Products: 3005
 - [Shoe Care](https://boathousestores.com/collections/shoe-care): There’s nothing worse than getting your brand-new shoes dirty. Here at Boathouse, we carry the best shoe care products on the market to ensure your all of your footwear keeps that fresh look!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:25:54Z
   Total Products: 108
 - [Vans Online Exclusive](https://boathousestores.com/collections/vans-online-exclusive): Find online exclusive Vans products you can't get in our retail stores. Shop at Boathouse and discover online exclusive men's and women's apparel such as beanies, sneakers, sweaters, tees, and more.
   Updated: 2026-10-15T12:00:09Z
   Total Products: 326
 - [NOT ](https://boathousestores.com/collections/not-)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 2317
+  Updated: 2026-11-08T20:27:16Z
+  Total Products: 2333
 - [USA Products](https://boathousestores.com/collections/usa-products)
   Updated: 2026-10-28T16:06:02Z
   Total Products: 3
@@ -1264,7 +1255,7 @@ NIKE fosters a culture of invention. Creating products and experiences for today
 - [LEVI'S](https://boathousestores.com/collections/levis): Founded in 1873, Levi's has been shaping denim culture for generations. From the iconic 501® jeans to everyday denim shorts, Levi’s blends timeless style with durable craftsmanship that never goes out of fashion. Originally built for hardworking miners, Levi’s denim quickly became a global staple worn by musicians, skaters, creatives, and trendsetters everywhere.
 
 More than just jeans, Levi’s delivers classic everyday essentials including graphic tees, hoodies, sweaters, jackets, and more — all designed with premium materials, signature fits, and authentic style. Whether you’re after a fresh pair of 501®s, relaxed denim shorts, or easy everyday staples, Levi’s has the perfect fit for every season.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 51
 - [OKER](https://boathousestores.com/collections/oker): Shop a wide collection of Womens Oker Footwear at Boathouse. From flat slip-on sandals to platform sandals and chelsea boots to combat boots, Boathouse offers a vast selection of quality Oker footwear.
   Updated: 2026-09-15T11:32:22Z
@@ -1294,40 +1285,40 @@ More than just jeans, Levi’s delivers classic everyday essentials including gr
   Updated: 2025-11-29T09:01:39Z
   Total Products: 0
 - [Boathouse Exclusives](https://boathousestores.com/collections/boathouse-exclusives): Exclusive styles from top brands carried only by Boathouse.  These brands have specifically supplied key styles to us to provide to you.  You cannot find these anywhere else.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T18:06:07Z
   Total Products: 777
 - [Roller Skates](https://boathousestores.com/collections/rollerskates): Discover the ultimate selection of roller skates at Boathouse! Glide into a world of style, comfort, and performance with our carefully curated collection. Offering top brands, vibrant colors, and diverse designs, we cater to skaters of all levels. Unleash your inner skating champion with Boathouse today!
   Updated: 2026-10-28T11:01:11Z
   Total Products: 26
 - [Socks](https://boathousestores.com/collections/socks): Shop our wide selection of socks from brands like Nike, Adidas, Vans, Scout &amp; Trail and more. Find and rock your favourite pair of athletic socks, wool socks, and graphic socks.
-  Updated: 2026-11-01T18:04:15Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 862
 - [ISLAND HAZE](https://boathousestores.com/collections/island-haze): Get turned up in our beachwear! If you love the beach, you would love our collection. We  the best, high-quality men’s swimwear and beachwear. Go all out when you wear our fits. We will have you looking hot and wild when you step out. Be the pace-setter and define the trends with our designer clothing, specially crafted for you. Our beach shorts are made from the best pick of materials and put together with care and precision, to give you the extra confidence you need to show up and out.Get heads turning. Shop with us today.
-  Updated: 2026-10-13T16:06:28Z
-  Total Products: 0
+  Updated: 2026-11-06T01:18:53Z
+  Total Products: 1
 - [Over 60% OFF](https://boathousestores.com/collections/over-60-off)
   Updated: 2026-06-06T02:51:47Z
   Total Products: 4
 - [ - NO ](https://boathousestores.com/collections/-no-)
-  Updated: 2026-11-01T18:20:14Z
-  Total Products: 1562
+  Updated: 2026-11-09T00:17:17Z
+  Total Products: 1448
 - [Womens Button Ups](https://boathousestores.com/collections/womens-button-ups): Want to look cool and relaxed in a not so formal atmosphere? Check out our collection of women’s button-up tops at Boathouse today! Feel free and relaxed in these loose-hanging, fashionable button-ups with our many styles and brands to choose from.
-  Updated: 2026-11-01T18:04:20Z
+  Updated: 2026-11-08T18:06:45Z
   Total Products: 259
 - [Clothing](https://boathousestores.com/collections/clothing)
-  Updated: 2026-11-01T18:04:20Z
-  Total Products: 22322
+  Updated: 2026-11-08T18:06:55Z
+  Total Products: 22351
 - [Boathouse Essentials 1](https://boathousestores.com/collections/boathouse-essentials1): Boathouse essential styles are a line of clothing created for the purpose of providing effective layering and outfit complementation. From crew necks or v-necks, to joggers or hoodies, Boathouse provides affordable, quality styles that will elevate any outfit!
-  Updated: 2026-11-01T18:04:15Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 942
 - [Fanny Pack](https://boathousestores.com/collections/fanny-pack): Also known as a waist bag, or hip bag, Boathouse carries the best selection of fanny packs in Canada, ranging from top brands like Vans, Herschel Supply Co, Nike and Adidas. Find your new favourite fanny pack today when you shop this collection here at Boathouse!
-  Updated: 2026-11-01T12:01:15Z
+  Updated: 2026-11-08T12:01:29Z
   Total Products: 229
 - [Ellesse](https://boathousestores.com/collections/ellesse)
   Updated: 2025-11-29T09:01:40Z
   Total Products: 0
 - [CROCS](https://boathousestores.com/collections/crocs): Discover the perfect mix of comfort and style with Crocs. From vibrant clogs to classic sandals, there’s a durable, lightweight option for every family member. Whether for school, hangouts, or daily wear, Crocs combine practicality with playful designs to help you stand out. Shop these styles at Boathouse now and find your next go-to pair!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 90
 - [Superdry](https://boathousestores.com/collections/superdry)
   Updated: 2025-11-29T09:01:40Z
@@ -1351,8 +1342,8 @@ More than just jeans, Levi’s delivers classic everyday essentials including gr
   Updated: 2025-11-29T09:01:40Z
   Total Products: 0
 - [GUESS](https://boathousestores.com/collections/guess): If you’re looking for something new and exciting, you are sure to find it in our store. Guess is known for their outstanding selection of outfits for kids, teens, men, and women. You slay effortlessly and stay on top of the trends with Guess! Stay looking great while you stay active with Guess’ sports collection. Good for streetwear or adding that ounce of sophistication, Guess has been keeping everyone stylish for 40 years, and will keep on doing so for another 40.
-  Updated: 2026-10-10T00:00:43Z
-  Total Products: 1
+  Updated: 2026-11-02T17:05:55Z
+  Total Products: 0
 - [Hippytree](https://boathousestores.com/collections/hippytree)
   Updated: 2025-11-29T09:01:40Z
   Total Products: 0
@@ -1366,8 +1357,8 @@ More than just jeans, Levi’s delivers classic everyday essentials including gr
   Updated: 2025-11-29T09:01:40Z
   Total Products: 0
 - [CARHARTT](https://boathousestores.com/collections/carhartt): Carhartt is for those people who share the values of hard work. Initially started all the way back in 1889, Carhartt continues to strive to also bring family values to their customers. Here at Boathouse, we carry the best selection of Carhartt in Canada. From tees and hoodies, to beanies and hats, we've got the Carhartt you are looking for.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 99
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 102
 - [S9 ](https://boathousestores.com/collections/s9-)
   Updated: 2026-10-15T12:00:13Z
   Total Products: 3132
@@ -1390,22 +1381,22 @@ More than just jeans, Levi’s delivers classic everyday essentials including gr
   Updated: 2026-06-06T03:04:38Z
   Total Products: 9
 - [LAST CALL](https://boathousestores.com/collections/last-call-co): Shop the latest Last Call clothing styles at Boathouse Stores. Up your streetwear wardrobe with Men's and Women's hoodies and graphic t-shirts from Last Call Co.
-  Updated: 2026-11-01T12:01:03Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 1
 - [LOUNGEWEAR](https://boathousestores.com/collections/loungewear): Stay chic while you prowl around the comfort of your own home. Boathouse’s loungewear collection caters to your comfort and style all in one go. These are the perfect outfits for a lazy day at home in front of your screen, or for looking snug and cute while you rest. Shop your loungewear desires with Boathouse today!
-  Updated: 2026-11-01T18:04:03Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 707
 - [Best Sellers](https://boathousestores.com/collections/best-sellers): Discover Our Best Sellers: Shop What Everyone's Wearing at BoathouseStay ahead of the curve with our curated selection of Best Sellers—where streetwear essentials meet everyday appeal. Browse through must-have hoodies, tees, denim, joggers, sneakers, boots, and more—everything your closet needs in one place. Trust the trending picks loved by our customers, and find your new go-to styles fast. Whether you're refreshing your wardrobe or searching for tried-and-true favorites, this collection delivers. Expect standout pieces from top brands like Nike, Carhartt, Adidas, Vans, and Champion, plus our exclusive Boathouse Essentials, all designed to elevate your look. Snag trending streetwear before it’s gone. Shop top-rated and in-demand styles that move quick and make a statement. Browse our Best Sellers now to see what’s hot—and discover why everyone else is loving these picks.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 355
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 356
 - [Death Coast Supply](https://boathousestores.com/collections/death-coast-supply): Shop the latest Death Coast Supply graphic tees at Boathouse.
   Updated: 2026-07-06T15:18:03Z
   Total Products: 0
 - [NOT ON ](https://boathousestores.com/collections/not-on-)
-  Updated: 2026-11-01T14:52:49Z
-  Total Products: 2920
+  Updated: 2026-11-09T00:17:35Z
+  Total Products: 2926
 - [Swim Shorts](https://boathousestores.com/collections/swim-shorts): Live on the free side! Show up to the pool or beach in any of these swim shorts and you will be the coolest one around. Our swimwear collection highlights ultra-modern designs and technology, serving the best options to keep you comfortable while you play or swim.Shop swim shorts at Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T21:35:39Z
   Total Products: 220
 - [INDEPENDENT](https://boathousestores.com/collections/independent): Keep your apparel fresh on and off your board with Independent Truck Company apparel. Find the hottest graphic tee's, hoodies, and sweaters from Independent Truck Company at Boathouse.
   Updated: 2026-07-07T16:37:13Z
@@ -1420,16 +1411,16 @@ More than just jeans, Levi’s delivers classic everyday essentials including gr
   Updated: 2026-10-15T11:55:05Z
   Total Products: 2269
 - [SALTY CREW](https://boathousestores.com/collections/salty-crew): Salty Crew’s shirts and wears were made for the daring. This collection is for those with audacity and nothing to lose. Salty Crew makes shirts, hoodies, and accessories for everyone with wild, free spirits. These outfits come at affordable prices and unquestionable style.  It also makes great beachwear and swimwear. Salty Crew has you covered for all of your casual outings and parties. We keep you looking fresh and trendy all year round. Be the breath of fresh air when you shop Salty Crew. Place an order today.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 82
+  Updated: 2026-11-08T17:58:54Z
+  Total Products: 80
 - [Crop Tops](https://boathousestores.com/collections/crop-tops): Shop a selection of crop tops from a variety of brands such as Vans, Adidas, Harlow and more.
   Updated: 2026-10-12T04:00:25Z
   Total Products: 125
 - [Mens Slides](https://boathousestores.com/collections/mens-slides): Remain fashionable all year round in these fashion slides. Boathouse has a variation of slides with an option for every man, no matter your style. Switch up your game when you patronize any of the brands featured in our slide category. You are sure to be satisfied with these plentiful options available here at Boathouse!
-  Updated: 2026-11-01T12:01:21Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 161
 - [Womens Slides](https://boathousestores.com/collections/womens-slides): Remain fashionable all year round in these slides offered by Boathouse. Our collection of slides has been put together for pairing with every style and every outfit. We have slides with an option for every woman, no matter your game. Switch up your style with any of the brands featured in our slide category today!
-  Updated: 2026-11-01T10:28:01Z
+  Updated: 2026-11-08T12:01:38Z
   Total Products: 189
 - [Vegan](https://boathousestores.com/collections/vegan): What does Vegan mean?
 Vegan products are made without the use of animal byproducts.  Examples of animal byproducts are leather, wool, silk, fur, or suede. Vegan products use very close artificial materials to create the similar quality and feel to the real thing.  As such, Vegan footwear is becoming a very popular and much more affordable option.
@@ -1454,8 +1445,8 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2025-11-29T09:01:42Z
   Total Products: 0
 - [FOOTWEAR ](https://boathousestores.com/collections/footwear-)
-  Updated: 2026-11-01T18:04:14Z
-  Total Products: 7886
+  Updated: 2026-11-08T18:06:17Z
+  Total Products: 7885
 - [EB ](https://boathousestores.com/collections/eb-)
   Updated: 2026-06-24T11:01:33Z
   Total Products: 2
@@ -1472,52 +1463,52 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2025-11-29T09:01:42Z
   Total Products: 0
 - [NEW ARRIVALS - ](https://boathousestores.com/collections/new-arrivals-)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 938
+  Updated: 2026-11-08T18:06:55Z
+  Total Products: 974
 - [New ](https://boathousestores.com/collections/new-)
   Updated: 2025-11-29T09:01:42Z
   Total Products: 0
 - [Mens VANS Footwear](https://boathousestores.com/collections/mens-vans-footwear)
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 515
 - [Womens VANS Footwear](https://boathousestores.com/collections/womens-vans-footwear)
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-06T18:05:22Z
   Total Products: 593
 - [Mens BIRKENSTOCK](https://boathousestores.com/collections/mens-birkenstock): Shop men's Birkenstock sandals, slip-ons, boots and more. Boathouse's offers a variety of comfortable Birkenstock footwear for both men and women. Experience comfort with Birkenstock's iconic foot beds.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 93
 - [Womens BIRKENSTOCK](https://boathousestores.com/collections/womens-birkenstock): During the course of a lifetime, no other part of the body is subject to so much strain as our feet. They maintain the body's balance, absorb impact and bear the entire weight of the body. Birkenstock footwear is designed to offer optimal support.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 280
 - [Mens DR MARTENS](https://boathousestores.com/collections/mens-dr-martens): Throughout Dr. Martens history, the brand has been adopted and subverted by countless rebellious characters, subcultures and tribes. These are the people who stand out from the crowd in their own unique way and for many, their journey of self-expression has always been accompanied by a pair of Doc’s. Dr. Martens celebrates these free-thinking individuals – from first time wearers to those who have been with the brand forever. These are the authentic characters that stand for something.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:23:21Z
   Total Products: 136
 - [Womens DR MARTENS](https://boathousestores.com/collections/womens-dr-martens): Throughout Dr. Martens history, the brand has been adopted and subverted by countless rebellious characters, subcultures and tribes. These are the people who stand out from the crowd in their own unique way and for many, their journey of self-expression has always been accompanied by a pair of Doc’s. Dr. Martens celebrates these free-thinking individuals – from first time wearers to those who have been with the brand forever. These are the authentic characters that stand for something.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 305
 - [Womens TIMBERLAND Footwear](https://boathousestores.com/collections/womens-timberland-footwear): Our unique culture and product designs are inspired by the rich New England heritage of our company. Everything we make, every store we open, every aspect of our business has been founded upon the outdoor lifestyle – whether that involves wooded trails or city streets – and a Timberland community that thrives on giving back.
-  Updated: 2026-10-30T11:01:04Z
+  Updated: 2026-11-07T12:01:47Z
   Total Products: 92
 - [Mens TIMBERLAND Footwear](https://boathousestores.com/collections/mens-timberland-footwear): Shop the hottest selection of Timberland boots and shoes at Boathouse. With a wide collection of footwear from the classic 6-inch Timberland boots to the Square Chukka boot you will be ready for winter and beyond.
-  Updated: 2026-11-01T12:01:09Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 136
 - [Mens  Tops](https://boathousestores.com/collections/mens--tops)
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 31495
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 31966
 - [Womens Slip-Ons](https://boathousestores.com/collections/womens-shoes-slip-ons): Look into our slip-on category to get a pair of chic slip-ons for casual wear and indoor activities. With the shoe selections available at Boathouse, you’ll look effortlessly stylish at home or a social gathering. For extreme comfort and style, shop the slip-on category today!
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 492
 - [Stance Socks](https://boathousestores.com/collections/stance-socks): Shop a variety of the most comfortable and creative men's and women's socks at Boathouse. Stance Socks will allow you to show your individuality and express yourself with their creative designs while keeping the socks cushioned and high performing for any physical activity.
   Updated: 2025-11-29T09:01:42Z
   Total Products: 0
 - [NEW BALANCE](https://boathousestores.com/collections/new-balance): Shop our collection of men's and women's New Balance clothing and footwear. Boathouse offers New Balance sneakers, hoodies, and t-shirts such as the New Balance 574 and New Balance 997.
-  Updated: 2026-11-01T12:01:12Z
-  Total Products: 47
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 46
 - [LIMITED TIME OFFER](https://boathousestores.com/collections/limited-time-offer)
   Updated: 2026-06-24T11:01:33Z
   Total Products: 2
 - [Dickies](https://boathousestores.com/collections/dickies): Looking for timeless fashionable streetwear?  Dickies is the answer! Dickies started out just over 100 years ago making bib overalls. While overalls are still a part of Dickies, they make you look cool and hip with new and stylish clothing apparel for men and women. Plain, graphic, or tie-dye tee, Dickie’s has you covered. We make smart and trendy outfits to help you stay up to date with fashion trends. Get styled up with Dickies. The latest collection of crop tops, tube tops, t-shirts, and pants can be found here.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 23
 - [Kodiak](https://boathousestores.com/collections/kodiak): Boots never looked better. Get your high-quality, durable, and fashionable boots and shoes from us at Kodiak. We have the highest quality soles available. Our boots are designed for all weathers. They keep your feet dry and warm on the inside, while you look cool from the outside.Tough and resilient, we’ve got all the brawn you could wish for, while still staying fashionable and in trend.Moreover, they are insulated and waterproof. They are also lined from top to bottom to keep you comfortable. Keep moving, stay agile all day long with Kodiak boots. Scroll down to make your first purchase.
   Updated: 2026-05-16T18:50:13Z
@@ -1526,13 +1517,13 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-07-28T03:09:18Z
   Total Products: 0
 - [Hottest Gifts](https://boathousestores.com/collections/hottest-gifts)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 355
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 356
 - [GC-test](https://boathousestores.com/collections/gc-test)
   Updated: 2026-09-24T16:00:28Z
   Total Products: 5
 - [UNISEX](https://boathousestores.com/collections/unisex): Offering an extensive collection of unisex styles including hoodies, tees and tops from the hottest brands in the industry.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 730
 - [Try-On Haul](https://boathousestores.com/collections/try-on-haul)
   Updated: 2026-07-18T11:01:20Z
@@ -1553,8 +1544,8 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-05-20T17:57:23Z
   Total Products: 0
 - [NO VIRGIN](https://boathousestores.com/collections/no-virgin)
-  Updated: 2026-11-01T18:22:22Z
-  Total Products: 3430
+  Updated: 2026-11-09T00:19:35Z
+  Total Products: 3341
 - [Brumate](https://boathousestores.com/collections/brumate): What’s worse than soggy noodles? Hot beer. We love a cold drink as much as you do, that is why we make the best hopsulators and bottles you can find. Our hopsulators are the perfect companion for parties and hang-outs. Not only does your beer remain cold all day, but you also get to look cool each time you take a swig.Our hopsulators and winesulators are double-walled and made of stainless steel, combined with non-spill technology. They are car and travel-friendly.We have a variety of options to pick from. Some say we are a gold mine for hopsulators and pints. Scroll to start shopping.
   Updated: 2025-11-29T09:01:43Z
   Total Products: 0
@@ -1568,29 +1559,29 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-11T20:00:35Z
   Total Products: 55
 - [Personal Care](https://boathousestores.com/collections/personal-care): Always be prepared for hot sunny days and choose from Boathouse's selection of sun block, lip balm, toner, deodorant and more. Keep your skin hydrated and smell on point with creams and spray rated up to SPF 50 so you can spend more time out in the sun.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 74
 - [Shoe Accessories](https://boathousestores.com/collections/shoe-accessories): Shop a wide selection of footwear accessories to maintain or personalize your favourite shoe, boot, or crocs. Boathouse carries a wide range of Jibbitz charms for your Crocs, cleaning kits for all types of leather footwear, and insoles for the ideal step.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:38Z
   Total Products: 352
 - [Water Bottles](https://boathousestores.com/collections/water-bottles): Stay refreshed all day every day. Get a water bottle today. These bottles are insulated and designed to keep your drinks cold throughout the day. They are the perfect companion for a jog or a hike. They come in various stylish designs for men, women, and teens. We also have a collection of hopsulators and winesulators to keep your alcohol close to you at all times and at the right temperature too. They are equipped with modern technology to keep them cool and a fitting seal to prevent spillage while you run or jog. Never be dehydrated. Purchase a water bottle from our collection!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 201
 - [Pura Vida](https://boathousestores.com/collections/pura-vida): Shop a wide variety selection of jewelry and accessories from Pura Vida! It all started when two friends took a trip to Costa Rica and found two children  bracelets to make a living. They were so inspired by them that they partnered with those two children and other artisans to create the brand, Pura Vida. All accessories are handcrafted! Whether its for a parent, a sibling, a friend, or for yourself, Boathouse has a variety of Pura Vida accessories that make great gifts for all!
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 60
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 58
 - [Patrons of Peace](https://boathousestores.com/collections/patrons-of-peace): Feel free and comfortable with Patrons of Peace Apparel. Shop at Boathouse to upgrade your contemporary wardrobe with California inspired tops, dresses, and skirts from Patrons of Peace.
-  Updated: 2026-10-06T11:01:08Z
-  Total Products: 1
+  Updated: 2026-11-04T17:06:20Z
+  Total Products: 0
 - [S0 ](https://boathousestores.com/collections/s0-)
   Updated: 2026-10-15T08:00:18Z
   Total Products: 1448
 - [Mens Graphic Tees](https://boathousestores.com/collections/mens-graphic-tees): Unleash your style with our captivating collection of men's graphic tees. Explore an extensive range of designs featuring popular brands, creative artwork, and expressive slogans that let your personality shine. Our handpicked selection includes top brands such as Vans, Adidas, Nike, and Champion, ensuring both quality and style. Make a statement with these eye-catching tees, perfect for casual wear or making a lasting impression. Shop now for competitive prices, fast shipping, and exceptional customer service. Upgrade your wardrobe with our standout men's graphic tees at Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T18:31:21Z
   Total Products: 2261
 - [Womens Graphic Tees](https://boathousestores.com/collections/womens-graphic-tees): Stop stealing your boyfriend's graphic tees. Here at Boathouse, we have all of the boyfriend fit graphic tees that you’ll ever need. Whether you're looking to rock a loose band tee, or sport the hottest trendy brand, Boathouse has the best selection of graphic tees in Canada!
-  Updated: 2026-11-01T18:04:07Z
-  Total Products: 673
+  Updated: 2026-11-08T21:38:04Z
+  Total Products: 677
 - [DC Shoes](https://boathousestores.com/collections/dc-shoes): Step into the world of fashion with DC Shoes. Do not be left out. We’ve got the latest designs of shoes and sneakers all year round. Since 1994, DC’s iconic logo has been instantly recognizable across the world. DC sneakers are evergreen and always in fashion. It is the perfect way to accessorize your style. Sneakers aren’t just footwear. They are a trademark. This summer, get people talking when you wear DC’s unique sneakers. Suited for basketball, skating, snowboarding, and a host of other sports, DC will be you go-to sneaker brand. Boost your agility and up your style with DC Shoes. Scroll down to check out our current collection and shop now.
   Updated: 2026-10-04T00:00:13Z
   Total Products: 136
@@ -1601,7 +1592,7 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-01T20:00:30Z
   Total Products: 5
 - [KW Fashion](https://boathousestores.com/collections/kw-fashion): Step out in style with our selection of KW Fashion face masks and mask straps. Stay protected and in style by wearing one of many graphic or solid colour face masks.
-  Updated: 2026-10-25T16:00:23Z
+  Updated: 2026-11-03T13:00:34Z
   Total Products: 35
 - [Original Penguin](https://boathousestores.com/collections/original-penguin): We’ve got all of your summer accessories covered! Stay functional and stylish with Original Penguin’s hats, backpacks, and other accessories.We have infused all of the most talked-about and up-to-date fashion trends into our accessories. Get your original and stylish fashion accessories from us at Original Penguin.We keep you looking smart and cool while being comfortable and confident. Our collection is suited for everyone; men, women, teens, and young adults. From plain designs to dazzling patterns, we provide you with a vast array of options to pick from. Get ready for summer. Scroll down to place an order today.
   Updated: 2025-11-29T09:01:44Z
@@ -1616,13 +1607,13 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-06-10T18:07:53Z
   Total Products: 57
 - [Walter's Shoe Care](https://boathousestores.com/collections/walter-shoe-care): Extend the life of all your footwear and leather goods. Shop at Boathouse to find a large selection of Walter Shoe Care products from leather polish, shoe brushes, insoles, and more.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-07T12:01:38Z
   Total Products: 22
 - [Whatever Company](https://boathousestores.com/collections/whatever-company-1): Shop the a variety of graphic face masks. Boathouse carries a range of face masks from the Whatever Company that feature prints like emoji smiley faces, galaxies, and more.
-  Updated: 2026-10-24T20:00:20Z
+  Updated: 2026-11-09T01:00:32Z
   Total Products: 29
 - [F1 ](https://boathousestores.com/collections/s1-)
-  Updated: 2026-10-28T12:00:48Z
+  Updated: 2026-11-06T09:00:17Z
   Total Products: 3015
 - [F0 ](https://boathousestores.com/collections/f0-)
   Updated: 2026-11-01T12:01:24Z
@@ -1637,10 +1628,10 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-15T11:17:54Z
   Total Products: 63
 - [Malvados](https://boathousestores.com/collections/malvados): Nice weather. You know what that means. You need to stock up on beachwear. We have a stellar collection of sandals and slippers that are perfect not only for a beach outing but also for trips and casual hang-outs. It’s the season for a free spirit.Let your body feel as light as your heart when you walk in our sandals.Our designs are note-worthy and eye-catching. They are the best accessory for your swimwear and beachwear.More still, they are the most durable of the bunch. Get ahead. Make your first purchase from us today.
-  Updated: 2026-10-28T18:06:11Z
+  Updated: 2026-11-03T18:05:04Z
   Total Products: 50
 - [Jewelry](https://boathousestores.com/collections/jewelry): Shop our Jewelry collection at Boathouse today! From bracelets, open back rings, stacked earrings, and watches, Boathouse has all your jewelry and accessory essentials covered.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 372
 - [Pair Of Thieves](https://boathousestores.com/collections/pair-of-thieves): Shop at Boathouse for a wide assortment of Pair of Thieves boxer briefs, and socks. Pair of Thieves boxer briefs and socks are built and designed for comfort and utility meaning all day breathability and comfort that will have you ready for everything.
   Updated: 2026-06-06T02:54:47Z
@@ -1664,10 +1655,10 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-04T00:00:13Z
   Total Products: 6
 - [Mens Socks](https://boathousestores.com/collections/mens-socks): With various designs and feels, each sock has its own unique nature and characteristics. We are your one-stop category for everything concerning men’s socks. Find your new favorite pair of socks in this collection from Boathouse today!
-  Updated: 2026-11-01T18:04:15Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 556
 - [Womens Socks](https://boathousestores.com/collections/womens-socks): With various designs and feels, each sock has its unique nature and characteristics. We are your one-stop category for everything concerning women’s socks. Find your new favorite pair of socks in this collection from Boathouse today!
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 383
 - [King Apparel](https://boathousestores.com/collections/king-apparel): Mark your territory like a king. Walk with confidence in the best of fits. King Apparel has designer tee shirts and sweatshirts for fashionable men. With superior materials and handling techniques, their outfits are befitting 21st-century royalty. Made in the UK underground scene, King was created without much resources or knowledge, but that just proves that street smarts can get you just as far in life. Join the tribe when you get dressed in one of King’s designer shirts. With cutting-edge designs and quality material, you are sure to get a few heads turning when you walk by. Take a look through our selection to place an order.
   Updated: 2026-06-29T11:01:37Z
@@ -1709,13 +1700,13 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-15T08:00:19Z
   Total Products: 286
 - [Boys](https://boathousestores.com/collections/boys): Shop our stylish collection of boys clothing and footwear from brands like Nike, Hurley, Converse, Volcom and more.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:22:24Z
   Total Products: 742
 - [Girls](https://boathousestores.com/collections/girls): Shop our stylish collection of girls clothing and footwear from brands like Nike, Hurley, Converse, Volcom and more.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-02T12:01:33Z
   Total Products: 524
 - [Womens Boots](https://boathousestores.com/collections/womens-boots): Whether you’re looking for winter boots, or casual short boots, Boathouse has you covered. Carrying the trendiest styles from Doc Martens, UGG, Timberland, Sorel and more, the best selection of Women's boots in Canada are here, at Boathouse. Check out this collection today!
-  Updated: 2026-11-01T18:04:13Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 1125
 - [Mens Skate Shoes](https://boathousestores.com/collections/mens-skate-shoes): Skate in style with some of the hottest shoes from brands you love!
   Updated: 2026-06-12T19:07:05Z
@@ -1727,8 +1718,8 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-22T11:01:26Z
   Total Products: 27
 - [Varsity Collection](https://boathousestores.com/collections/varsity-collection): Shop our exclusive collection of Champion and Russell Varsity styles. We've curated the top styles, and hottest designs from the most popular schools.  Whether you're repping your favourite NCAA basketball or football teams, or just rocking the sick drip, we've got something for you. Shop our exclusive varsity collection today.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 189
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 190
 - [Custom Shop](https://boathousestores.com/collections/custom-shop): Create the style you want. 
 1. Select Your Size
 2. Choose Your Graphic
@@ -1760,20 +1751,20 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-06-06T02:53:53Z
   Total Products: 20
 - [ALL KIDS](https://boathousestores.com/collections/all-kids)
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-07T12:01:44Z
   Total Products: 1119
 - [HOTLINE APPAREL](https://boathousestores.com/collections/hotline-apparel): Hotline Apparel is a proud Canadian family business that all started in Branford, Ontario. Perfect for customizing apparel to your needs with eye-catching screen-printed graphics and embroidery. Browse Boathouse's collection of custom Hotline Apparel clothes and support a Canadian business.
-  Updated: 2026-11-01T12:01:24Z
-  Total Products: 182
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 183
 - [Mens Basic Tees](https://boathousestores.com/collections/mens-basic-tees): Need something that goes with those pants or shorts? Not a problem! You can never go wrong with these basic tees from some of our favourite brands! Shop our Mens Basic Tees collection today.
-  Updated: 2026-11-01T18:04:18Z
+  Updated: 2026-11-08T18:06:42Z
   Total Products: 689
 - [Mens Long Sleeve Tees](https://boathousestores.com/collections/mens-long-sleeve-tees): We got you covered when it comes to comfy long sleeve tees. Shop our collection now and find some of the hottest brands, like: Carhartt, adidas, Billabong, Crooks &amp; Castles, and more!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 416
 - [Womens Basic Tees](https://boathousestores.com/collections/womens-basic-tees): Need something that goes with those pants or shorts? Not a problem! You can never go wrong with these basic tees from some of our favourite brands! Shop our Womens Basic Tees collection today.
-  Updated: 2026-11-01T18:03:46Z
-  Total Products: 557
+  Updated: 2026-11-08T18:06:27Z
+  Total Products: 558
 - [Boys Hoodies & Sweaters](https://boathousestores.com/collections/boys-hoodies-sweaters): Shop our Hoodies and Sweaters for boys here at Boathouse. Keep your kid warm for those cold days with hoodies and sweaters from our favourite brands like Salty Crew, Crook &amp; Castles and Quicksilver.
   Updated: 2026-10-07T00:00:25Z
   Total Products: 71
@@ -1814,58 +1805,58 @@ Vegan products are made without the use of animal byproducts.  Examples of anim
   Updated: 2026-10-09T18:05:26Z
   Total Products: 112
 - [What's Trending](https://boathousestores.com/collections/whats-trending)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 1398
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 1449
 - [Fasthouse](https://boathousestores.com/collections/fasthouse): They live and breath everything motorcycle. Founded in 2014 in California, Fasthouse has been on a fast track to success with its multiple brand collaborations for its casual and motor apparel. With such partnerships like Hot Wheels, Bell Helmets and VonZipper, Fasthouse is quickly becoming a go to for people who live and breath bikes. They sport out casual wear for men, women and youths, as well as goggles, headwear and bike gear.
   Updated: 2026-06-06T02:52:58Z
   Total Products: 7
 - [$10 & Under](https://boathousestores.com/collections/-10-and-under): Shop some of our awesome deals here at Boathouse. From clothes to footwear, to bags and other accessories. Everything is $9.99 and under!
-  Updated: 2026-11-01T18:04:20Z
-  Total Products: 2263
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 1979
 - [$25 & Under](https://boathousestores.com/collections/-25-and-under): Shop some of our awesome deals here at Boathouse. From clothes to footwear, to bags and other accessories.  Everything is $24.99 and under!
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 10183
+  Updated: 2026-11-08T18:06:55Z
+  Total Products: 10317
 - [$50 & Under](https://boathousestores.com/collections/-50-and-under): Shop some of our awesome deals here at Boathouse. From clothes to footwear, to bags and other accessories.  Everything is $49.99 and under!
-  Updated: 2026-11-01T18:03:58Z
-  Total Products: 11350
+  Updated: 2026-11-08T18:06:38Z
+  Total Products: 11707
 - [$74.99 & Under](https://boathousestores.com/collections/-75-and-under): Shop some of our awesome deals here at Boathouse. From clothes to footwear, to bags and other accessories.   Everything is $74.99 and under!
-  Updated: 2026-11-01T21:00:28Z
-  Total Products: 24536
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 24734
 - [$99.99 & Under](https://boathousestores.com/collections/-100-and-under): Shop some of our awesome deals here at Boathouse. From clothes to footwear, to bags and other accessories.  Everything is $99.99 and under!
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 2314
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 2343
 - [Amazon](https://boathousestores.com/collections/amazon)
   Updated: 2026-06-06T02:57:02Z
   Total Products: 12
 - [Mens  T-Shirts](https://boathousestores.com/collections/mens--t-shirts): Get up to 70% off men’s t-shirts today with prices as low as $9.97. With brands like Champion, Vans, Adidas, Crooks, Santa Cruz, available, there’s something for everyone. Shop the best selection of branded  t-shirts in Canada.
-  Updated: 2026-11-01T18:04:18Z
-  Total Products: 4249
+  Updated: 2026-11-08T18:30:15Z
+  Total Products: 4314
 - [Mens  Hoodies & Sweaters](https://boathousestores.com/collections/mens--hoodies-sweaters): Shop the best selection of branded  hoodies and sweaters in Canada.  Get up to 70% off men’s hoodies &amp; sweaters today with prices as low as $19.97. With brands like Champion, Vans, Adidas, Crooks and tentree available, there’s something for everyone.
-  Updated: 2026-11-01T18:03:48Z
-  Total Products: 2789
+  Updated: 2026-11-08T18:06:26Z
+  Total Products: 2831
 - [Mens  Joggers & Pants](https://boathousestores.com/collections/mens--joggers-pants): Shop the best selection of branded  joggers and pants in Canada.  Get up to 70% off men’s joggers and pants with prices as low as $19.97. Featuring brands like Champion, Crooks &amp; Castles and tentree available, there’s something for everyone.
-  Updated: 2026-11-01T12:01:26Z
-  Total Products: 828
+  Updated: 2026-11-08T18:29:34Z
+  Total Products: 837
 - [Mens  Sneakers](https://boathousestores.com/collections/mens--sneakers): Get up to 70% off top branded sneakers at Boathouse. Deals on Vans, Adidas, Nike, Converse, New Balance and more. For a limited time, we’ve got a great selection of seasonal sneakers on . Take a look at our entire men’s sneaker  stock below.
-  Updated: 2026-11-01T18:03:40Z
+  Updated: 2026-11-06T14:04:16Z
   Total Products: 1714
 - [Mens  Boots](https://boathousestores.com/collections/mens--boots): Shop up to 70% off top branded boots at Boathouse. Deals on Timberland, Kodiak, Sorel, Blackwell, UGG and more. For a limited time, we’ve got a great selection of seasonal boots on . Take a look at our entire men’s boot  styles below.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 455
 - [Womens  T-Shirts](https://boathousestores.com/collections/womens--t-shirts): Get up to 70% off womens t-shirts today with prices as low as $9.97. With brands like Champion, Adidas, Vans, Crooks &amp; Castles and tentree, available, there’s something for everyone. Shop the best selection of branded  t-shirts in Canada.
-  Updated: 2026-11-01T18:04:07Z
-  Total Products: 2091
+  Updated: 2026-11-08T21:37:44Z
+  Total Products: 2117
 - [Womens  Hoodies & Sweaters](https://boathousestores.com/collections/womens--hoodies-sweaters): Shop the best selection of branded  hoodies and sweaters in Canada.  Get up to 70% off women’s hoodies &amp; sweaters today with prices as low as $19.97. With brands like Champion, Vans, Adidas, Crooks and tentree available, there’s something for everyone.
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 1744
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 1752
 - [Womens  Joggers & Pants](https://boathousestores.com/collections/womens--joggers-pants): Shop the best selection of branded  joggers and pants in Canada.  Get up to 70% off women’s joggers and pants with prices as low as $19.97. Featuring brands like Champion, Crooks &amp; Castles and tentree available, there’s something for everyone.
-  Updated: 2026-11-01T18:03:52Z
-  Total Products: 672
+  Updated: 2026-11-08T18:06:32Z
+  Total Products: 674
 - [Womens  Sneakers](https://boathousestores.com/collections/womens--sneakers): Get up to 70% off top branded sneakers at Boathouse. Deals on Vans, Adidas, Nike, Converse, New Balance and more. For a limited time, we’ve got a great selection of seasonal sneakers on . Take a look at our entire women’s sneaker  stock below.
-  Updated: 2026-11-01T12:01:09Z
+  Updated: 2026-11-08T12:01:38Z
   Total Products: 1692
 - [Womens  Boots](https://boathousestores.com/collections/womens--boots): Shop up to 70% off top branded boots at Boathouse. Deals on Timberland, Kodiak, Sorel, Blackwell, UGG and more. For a limited time, we’ve got a great selection of seasonal boots on . Take a look at our entire women’s boot  styles below.
-  Updated: 2026-11-01T18:04:13Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 861
 - [NBA](https://boathousestores.com/collections/nba): Are you a new NBA fan trying to find some swag for your team? Or are you a diehard fan looking for new merch to add to your collection? No matter who you are or what team you love, we have something for you.
 Watch your favorite team ball out from the comfort of your own home, or pull up on the local courts with one of our officially licensed NBA styles.
@@ -1874,7 +1865,7 @@ This curated category of NBA styles is officially licensed and is exclusive to 
   Updated: 2026-10-31T05:23:38Z
   Total Products: 43
 - [Mens Flannel](https://boathousestores.com/collections/mens-flannel): Shop our wide selection of Men’s flannel woven shirts. Featuring unique styles and patterns from Vans, Dickies, Carhartt, Brixton, Kolby &amp; more. The ultimate blend of comfort and style for all of those chilly Canadian days.
-  Updated: 2026-11-01T12:01:21Z
+  Updated: 2026-11-08T12:01:38Z
   Total Products: 99
 - [Womens Flannel](https://boathousestores.com/collections/womens-flannel): Featuring unique flannel styles and patterns from Dickies, Vans, Carhartt, Volcom, Harlow &amp; more. The ultimate blend of comfort and style for all of those chilly Canadian days. Shop our wide selection of women’s woven flannel shirts.
   Updated: 2026-06-15T11:01:15Z
@@ -1899,34 +1890,34 @@ The signature Pajar Canada rubber ice-gripping soles will get you through icy s
   Updated: 2026-09-17T11:01:20Z
   Total Products: 15
 - [Olukai](https://boathousestores.com/collections/olukai): Whether you’re looking for a pair of shoes for comfort and style, or for a pair designed to help you live out your ocean lifestyle, OluKai has you covered. OluKai brands itself on its strong core values. Based in Hawaii, OluKai gives back to the community and believes in sustainability and a positive way of living. With meticulous craftsmanship on all of their footwear, you can physically feel the time and love that goes into all of their wears.
-  Updated: 2026-10-31T10:24:54Z
+  Updated: 2026-11-07T10:24:14Z
   Total Products: 30
 - [FLASH ](https://boathousestores.com/collections/flash-)
-  Updated: 2026-11-01T21:31:44Z
-  Total Products: 32971
+  Updated: 2026-11-09T01:00:32Z
+  Total Products: 33890
 - [Hydro Flask](https://boathousestores.com/collections/hydro-flask): Always high quality and incredibly reliable, the Hydro Flask is one of the world's most trusted brands for keeping our coffee hot and our water icy cold. Founded in 2009, Hydro Flask has quickly branched off int not just beverage insulated flasks, but also food flasks and even coolers. Experience the joy of life everywhere you go with Hydro Flask.
-  Updated: 2026-10-13T11:01:38Z
+  Updated: 2026-11-03T12:01:16Z
   Total Products: 48
 - [Trunks](https://boathousestores.com/collections/trunks): Your one-stop-shop for all things swimwear! Shop Trunks Surf &amp; Swim Co. for the trendiest swim trunks and shirts around. With bright colours and fun patterns, the summer won't be the same without these. Browse Boathouse's collection of Surf &amp; Swim Co. and find the swim trunks for your next vacation!
   Updated: 2026-10-10T18:04:55Z
   Total Products: 19
 - [Rip Curl](https://boathousestores.com/collections/rip-curl): A true brand for the surf and snow communities. Rip Curl was founded by Brian Singer and Doug Warbrick in 1969. Since then, Rip Curl has been a respected brand amongst the surfing athletes and even  their own surfing even called the 1973 Rip Curl Pro. Always striving for excellence in their products and customer service, you can count of Rip Curl for all your surfing inquiries.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T10:24:17Z
   Total Products: 97
 - [BILA77](https://boathousestores.com/collections/bila77): Representing the Golden State, BILA77 is a brand that stays true to its roots in California. Started in 1977 and now has a new generation behind the steering wheel, they have never forgotten where they have come from. Known for their bright colours, embroideries and flowy silhouettes, BILA77 also donates 2% of their sales back to local non-profits to give their communities strength and a sense of belonging.
   Updated: 2026-10-02T14:51:52Z
   Total Products: 4
 - [Mens Pajama Pants](https://boathousestores.com/collections/mens-pajama-pants): Who doesn't like to feel cozy in bed? Check out Boathouse's collection of Men's Pajama Pants and be ultra comfortable for your next sleep.
-  Updated: 2026-10-31T11:01:21Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 51
 - [Womens Pajama Pants](https://boathousestores.com/collections/womens-pajama-pants): Who doesn't like to feel cozy in bed? Check out Boathouse's collection of Women's Pajama Pants and be ultra comfortable for your next sleep.
   Updated: 2026-09-28T16:00:27Z
   Total Products: 42
 - [Mens Clogs](https://boathousestores.com/collections/mens-clogs): Browse Boathouse's collection of Men's Clogs. Super comfortable and easy to slip on and off, the clogs have become more and more popular over the years. Check out our hottest brands such as Crocs, Birkenstock and Adidas!
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 108
 - [Womens Clogs](https://boathousestores.com/collections/womens-clogs): Browse Boathouse's collection of Women's Clogs. Super comfortable and easy to slip on and off, the clogs have become more and more popular. Check out our hottest brands such as Crocs, Birkenstock and Hunter!
-  Updated: 2026-11-01T10:28:24Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 214
 - [Tretorn](https://boathousestores.com/collections/tretorn): With over 130 years of experience, Tretorn is one the most influential and reliable brands in the world. Starting out in Sweden in 1891 making galoshes for farmers, Tretorn quickly became a must-have, and eventually delved into the sports world. Tretorn is the second oldest brand to manufacture sneakers; their first sneaker debuted in 1900. Throughout time and with many innovations and collaborations, Tretorn is still considered one of the best footwear manufacturers in the world.
   Updated: 2026-09-20T18:03:51Z
@@ -1935,19 +1926,19 @@ The signature Pajar Canada rubber ice-gripping soles will get you through icy s
   Updated: 2026-06-08T18:06:54Z
   Total Products: 16
 - [S2 ](https://boathousestores.com/collections/s2-)
-  Updated: 2026-11-01T21:00:28Z
+  Updated: 2026-11-04T18:05:14Z
   Total Products: 4186
 - [F2 ](https://boathousestores.com/collections/f2-)
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T18:06:07Z
   Total Products: 2205
 - [Skate Shoes](https://boathousestores.com/collections/skate-shoes): Boathouse originated from the depths of action sports. Today we offer the sickest skateboarding shoes available in Canada. From DC to Element, DVS to Globe, we’ve got your skate shoe obsession covered.
-  Updated: 2026-10-29T11:01:15Z
+  Updated: 2026-11-08T12:01:29Z
   Total Products: 22
 - [Mens High Tops](https://boathousestores.com/collections/mens-high-tops-sneakers): Upgrade your streetwear look with Men's High Top shoes. Boathouse has a great collection of high tops from the hottest and trendiest brands. Browse brands like Converse, Vans, Nike, Champion and many others!
-  Updated: 2026-11-01T18:03:40Z
+  Updated: 2026-11-08T10:23:49Z
   Total Products: 121
 - [Womens High Tops](https://boathousestores.com/collections/womens-high-tops-sneakers): Upgrade your streetwear look with Women's High Top shoes. Boathouse has a great collection of high tops from the hottest and trendiest brands. Browse brands like Converse, Vans, Nike, Fila and many others!
-  Updated: 2026-11-01T12:01:15Z
+  Updated: 2026-11-08T12:01:35Z
   Total Products: 114
 - [Mens Slippers](https://boathousestores.com/collections/mens-slippers): Need some shoes for the house? Or something soft and comfortable without laces or straps? Check out Boathouse's collection of Men's Slippers! Never have to walk through your house with cold feet again. Boathouse's collection of Men's Slippers includes some of the hottest brands such as UGG, Vans, Reef and others!
   Updated: 2026-07-06T20:05:56Z
@@ -1962,53 +1953,53 @@ The signature Pajar Canada rubber ice-gripping soles will get you through icy s
   Updated: 2026-07-27T20:29:41Z
   Total Products: 23
 - [Mens  Sandals](https://boathousestores.com/collections/mens--sandals): Shop up to 70% off top branded men’s sandals at Boathouse. Deals on Champion, Reef, Adidas, Nike, Quicksilver and more. For a limited time, we’ve got a great selection of sandals on .
-  Updated: 2026-10-26T11:01:18Z
-  Total Products: 435
+  Updated: 2026-11-06T13:50:07Z
+  Total Products: 434
 - [Womens  Sandals](https://boathousestores.com/collections/womens--sandals): For a limited time, we’ve got a great selection of sandals on . Shop up to 70% off top branded women’s sandals at Boathouse. Deals on Champion, Reef, Adidas, Nike, Roxy and more. Take a look at our entire women’s sandals  styles.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T18:06:17Z
   Total Products: 1097
 - [MYTAGALONGS](https://boathousestores.com/collections/mytagalongs)
   Updated: 2026-06-06T02:54:18Z
   Total Products: 9
 - [Goorin Bros](https://boathousestores.com/collections/goorin-bros): With Goorin Bros hats, you'll enjoy the perfect combination of style, comfort, and durability.  With staple designs and the classic trucker look, we've got the style your looking for.
-  Updated: 2026-11-01T10:20:52Z
+  Updated: 2026-11-08T12:01:38Z
   Total Products: 75
 - [Mens Sustainability Shop](https://boathousestores.com/collections/sustainability-shop-mens): This is Boathouse's official Mens Sustainability Shop! We have made it easier for our customers who want to shop products that incorporate sustainable materials. All apparel, accessories and footwear made from organic sources, recycled material and natural biodegradables have all been included here. Shop some of our most popular brands like: tentree, Birkenstock, adidas, SAXX, and many others! Look good while keeping the world green.
-  Updated: 2026-10-31T11:01:19Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 342
 - [Womens Sustainability Shop](https://boathousestores.com/collections/sustainability-shop-womens): The official Boathouse Womens Sustainability Shop is your all one stop for everything green and sustainable. We have made it easier for our customers who want to shop products that incorporate sustainable materials. All shirts, pants and footwear made from organic sources, recycled material and natural biodegradables have all been included here. Shop some of our most popular brands like: tentree, Birkenstock, adidas, SAXX, and many others! Keep the world green while rocking a new style.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 310
 - [Asics](https://boathousestores.com/collections/asics): Boathouse Stores is proud to carry ASICS, a global leader in performance footwear and activewear. Built on the philosophy of "A Sound Mind in a Sound Body," ASICS creates innovative, athlete-tested gear to inspire movement and wellbeing. Discover our curated selection of ASICS running shoes designed for comfort, durability, and peak performance.
   Updated: 2026-10-02T14:53:55Z
   Total Products: 20
 - [Mens Activewear](https://boathousestores.com/collections/mens-activewear): Need some new gym gear? Or just a new sporty look? Boathouse has numerous different selections for Mens Activewear from some of the hottest and popular brands in Canada, such as: Nike, Adidas, Champion, and others. Shop now to get some new activewear essentials here at Boathouse!
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 83
 - [Womens Activewear](https://boathousestores.com/collections/womens-activewear): Boathouse's Womens Activewear is where you'll find all your workout needs. Need some new gym gear? Or just a new sporty look? Check out Boathouse's selections from some of the hottest and popular brands in Canada, such as: Nike, Adidas, Champion, and others. Shop now to get some new activewear essentials here at Boathouse!
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 70
 - [Old Row](https://boathousestores.com/collections/old-row): With a little mix of the old and the new, Old Row is a Southern lifestyle brand that caters to the college party animals while exuding that Southern charm in their designs. With Old Row, you'll be living that collegiate lifestyle everyday. Check out Boathouse's collection of Old Row t-shirts, tank tops and hats!
-  Updated: 2026-10-02T14:55:02Z
+  Updated: 2026-11-06T12:01:27Z
   Total Products: 39
 - [Princess Polly](https://boathousestores.com/collections/princess-polly): Princess Polly first jumped on the scene back in 2010 on Australia’s Gold Coast. Always striving to provide trendsetters the latest looks and quality fashion, their popularity has exploded amongst the North American market. Shop Princess Polly at Boathouse.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-05T18:04:01Z
   Total Products: 137
 - [DAISY STREET LTD](https://boathousestores.com/collections/daisy-street-ltd)
-  Updated: 2026-10-22T11:01:42Z
-  Total Products: 10
+  Updated: 2026-11-08T12:01:40Z
+  Total Products: 13
 - [NHL](https://boathousestores.com/collections/nhl): Officially licensed NHL gear now exclusively available at Boathouse. If you're looking to rep your fav team - from the Leafs to the Canadiens, the Bruins to the Rangers, we've got some seriously cool styles to get you through the season. Shop our expertly curated selection of NHL hoodies and crews now.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 54
 - [NFL](https://boathousestores.com/collections/nfl): Officially licensed NFL gear. We've got the sickest NFL styles now exclusively at Boathouse. Whether you're a Mahommes fan and want to rep the Chiefs, or a Josh Allen fan and need that Bills sweater, we've got you covered. Shop the latest NFL hoodies and crews today.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 131
 - [BN3TH](https://boathousestores.com/collections/bn3th): BN3TH, pronounced as "beneath," originated in Vancouver, British Columbia, with the mission to revolutionize men's perception of underwear.<br data-mce-fragment="1"><br data-mce-fragment="1">Formerly known as MyPakage, the brand is celebrated for its patented MyPakage Pouch Technology™, which underpins its distinctive supportive fit through an innovative 3-dimensional pouch. BN3TH's underwear ensures lasting comfort throughout active days, whether at the gym or in the office.<br data-mce-fragment="1"><br data-mce-fragment="1">From the very first garment you don in the morning, BN3TH encourages you to embrace your optimum self, firmly believing that a sense of unparalleled comfort can enhance your daily performance.<br data-mce-fragment="1"><br data-mce-fragment="1">
   Updated: 2026-10-08T16:01:04Z
   Total Products: 16
 - [Boathouse Essentials Tees](https://boathousestores.com/collections/boathouse-essentials-tees): Discover the ultimate blend of style and comfort with our Boathouse Essentials T-Shirts - your new favourite wardrobe essential.
 Simply put, these t-shirts redefine comfort. The soft, light, free-flowing fabric moves effortlessly with you. Scrap your old t-shirts and experience comfort like no other.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:42Z
   Total Products: 221
 - [B.YOUNG](https://boathousestores.com/collections/b-young)
   Updated: 2026-10-18T18:05:13Z
@@ -2029,35 +2020,35 @@ Simply put, these t-shirts redefine comfort. The soft, light, free-flowing fabri
   Updated: 2026-10-26T11:01:18Z
   Total Products: 315
 - [HEYDUDE](https://boathousestores.com/collections/heydude)
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 73
 - [STANLEY](https://boathousestores.com/collections/stanley): Stanley was founded in 1913 and have been on the rise ever since. They have made a name for themselves throughout the years as being an incredibly reliable brand for all adventurers. Stanley tumblers are built to be durable and to keep all your drinks piping hot or ice cold for hours. Stanley products are also crafted with quality sustainable materials that can withstand any adventure you take on. Browse and shop our collection of Stanley products now!
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 122
 - [Troll Co.](https://boathousestores.com/collections/troll-co): Discover Troll Co., a brand built for hardworking individuals who value comfort, durability, and authentic style. Known for its bold designs and uncompromising quality, Troll Co. specializes in apparel that resonates with tradespeople, adventurers, and anyone embracing a no-nonsense lifestyle.
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 139
 - [Municipal](https://boathousestores.com/collections/municipal): Boathouse is proud to carry Municipal, the premium brand co-founded by Mark Wahlberg. Designed for all-day wear, Municipal blends performance and style with versatile hoodies, tees, and joggers that keep up with your active lifestyle. Shop Municipal at Boathouse now and elevate your wardrobe with gear that works as hard as you do!
   Updated: 2026-07-09T18:04:26Z
   Total Products: 15
 - [Harlow Jeans & Denim](https://boathousestores.com/collections/harlow-jeans-denim)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 61
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 63
 - [Keep a Breast](https://boathousestores.com/collections/keep-a-breast): In 1999 when Shaney jo Darden discovered a close friend was diagnosed with breast cancer, she set out to make a difference in a way that honored her friend's passion: art. As a result, Keep A Breast was born as a unique art concept developed to showcase the physical and emotional challenges of breast cancer.
-  Updated: 2026-10-31T11:01:04Z
+  Updated: 2026-11-07T12:01:47Z
   Total Products: 13
 - [Katin](https://boathousestores.com/collections/katin)
   Updated: 2026-06-06T02:55:33Z
   Total Products: 8
 - [Gifts For Him](https://boathousestores.com/collections/gifts-for-him)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 188
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 190
 - [Gifts for Her](https://boathousestores.com/collections/gifts-for-her)
-  Updated: 2026-11-01T12:01:29Z
-  Total Products: 175
+  Updated: 2026-11-08T12:01:47Z
+  Total Products: 173
 - [Gifting Deals](https://boathousestores.com/collections/gifting-deals)
-  Updated: 2026-11-01T18:22:41Z
-  Total Products: 1673
+  Updated: 2026-11-09T00:20:10Z
+  Total Products: 1754
 - [50% OFF](https://boathousestores.com/collections/50-off)
   Updated: 2025-11-29T09:01:50Z
   Total Products: 0
@@ -2065,44 +2056,47 @@ Simply put, these t-shirts redefine comfort. The soft, light, free-flowing fabri
   Updated: 2026-09-24T16:00:29Z
   Total Products: 2
 - [Kids No Tax](https://boathousestores.com/collections/kids-no-tax)
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-07T12:01:44Z
   Total Products: 1119
 - [Boathouse Essentials](https://boathousestores.com/collections/boathouse-essentials): Discover Boathouse Essentials, your go-to for versatile, stylish, and high-quality wardrobe staples. Designed to elevate your outfits, this collection features must-haves like crew neck and V-neck tees, joggers, hoodies, and boxers. Perfect for layering or creating a polished look, Boathouse Essentials combines comfort, durability, and affordability to meet your everyday fashion needs.
-  Updated: 2026-11-01T18:04:18Z
-  Total Products: 117
+  Updated: 2026-11-08T12:01:46Z
+  Total Products: 83
 - [PSD Underwear](https://boathousestores.com/collections/psd-underwear)
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 35
 - [Von Dutch](https://boathousestores.com/collections/von-dutch): Von Dutch is back. Shop the iconic trucker hats, graphic tees, and bold streetwear that defined a generation. From throwback Y2K vibes to modern street style, the latest Von Dutch collection brings attitude, edge, and unmistakable logo energy to your everyday fits.
-  Updated: 2026-11-01T12:01:24Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 32
 - [Country + Western](https://boathousestores.com/collections/country-western): From rugged denim and graphic tees to cowboy boots, the Country Western collection brings laid-back prairie vibes to your everyday fits. Whether you're chasing sunsets or city streets, these western-inspired staples add effortless edge to your rotation.
-  Updated: 2026-11-01T18:04:13Z
+  Updated: 2026-11-08T12:01:44Z
   Total Products: 62
 - [Spring Break](https://boathousestores.com/collections/spring-break): From lightweight tees and tanks to sandals, sneakers, shorts, and easy layers — this collection has everything you need for sunny days and late nights. Whether you're travelling or keeping it local, build fresh fits made for warm weather and good vibes.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T18:06:45Z
   Total Products: 61
 - [Girls Night](https://boathousestores.com/collections/girls-night)
-  Updated: 2026-11-01T18:04:14Z
+  Updated: 2026-11-08T18:06:47Z
   Total Products: 18
 - [Country Liberty](https://boathousestores.com/collections/country-liberty-1)
-  Updated: 2026-11-01T12:01:26Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 60
 - [Affliction](https://boathousestores.com/collections/affliction): Step into the bold world of Affliction at Boathouse. Known for its rebellious edge, premium graphics, and tattoo-inspired designs, Affliction blends rock-and-roll attitude with streetwear style. Shop graphic tees, hoodies, long sleeves, and statement pieces built for those who want to stand out. Featuring detailed artwork, vintage washes, and signature finishes, Affliction clothing delivers a fearless look that pushes beyond ordinary fashion. Whether you're after everyday streetwear or bold going-out styles, discover the latest Affliction drops and iconic graphics online at Boathouse.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:47Z
   Total Products: 11
 - [West Coast Choppers](https://boathousestores.com/collections/west-coast-choppers): Shop West Coast Choppers clothing at Boathouse. Explore graphic tees, hoodies, hats & streetwear inspired by motorcycle culture and bold West Coast style.
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:46Z
   Total Products: 22
 - [The Wild Collective](https://boathousestores.com/collections/the-wild-collective)
-  Updated: 2026-11-01T12:01:29Z
+  Updated: 2026-11-08T12:01:40Z
   Total Products: 15
 - [Seager Apparel](https://boathousestores.com/collections/seager-apparel)
-  Updated: 2026-10-29T11:01:18Z
+  Updated: 2026-11-08T12:01:31Z
   Total Products: 9
 - [HOKA](https://boathousestores.com/collections/hoka): Currently HOKA is only sold at our footwear store Blackwell Supply Co. You can shop HOKA HERE.
   Updated: 2026-10-26T14:28:19Z
   Total Products: 1
+- [HOKA](https://boathousestores.com/collections/hoka-1): Step into comfort with HOKA shoes at Boathouse. Known for their signature cushioning and bold designs, HOKA sneakers bring performance and everyday style together. Whether you’re heading out for a run, getting your steps in or finishing your favourite casual look, find your next go-to pair.
+  Updated: 2026-11-05T12:01:26Z
+  Total Products: 16
 
 ## Store Pages
 
