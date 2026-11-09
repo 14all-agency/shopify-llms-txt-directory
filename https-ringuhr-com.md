@@ -16,7 +16,7 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
 - Created At: 2025-05-06T13:37:57Z
 - Contact Email: contact@ringuhr.com
 - Address: Königstraße 27, 70173 Stuttgart, Germany
-- Updated At: 2026-11-02T00:33:18.971Z
+- Updated At: 2026-11-09T00:35:46.135Z
 
 ## Collections
 
@@ -45,6 +45,9 @@ The technical centerpiece is a custom-engineered joint mechanism that allows the
     Author: Siegfried Heinrich Huber
   - [Was ist eine Ringuhr? Funktion und Varianten](https://ringuhr.com/blogs/journal/was-ist-eine-ringuhr-funktion-geschichte-und-moderne-varianten-erklaert): Was ist eine Ringuhr? Funktion und Varianten
     Updated: 2026-10-17T07:48:35Z
+    Author: Siegfried Heinrich Huber
+  - [Perlmutt-Zifferblatt: Optik, Vorteile und richtige Pflege](https://ringuhr.com/blogs/journal/perlmutt-zifferblatt-erklaert-vorteile-optik-und-pflege-bei-schmuckuhren): Perlmutt-Zifferblatt: Optik, Vorteile und richtige Pflege
+    Updated: 2026-11-09T00:00:16Z
     Author: Siegfried Heinrich Huber
 
 ## Store Pages
