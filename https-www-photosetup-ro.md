@@ -8,47 +8,47 @@
 - Contact Email: office@photosetup.ro
 - Contact Phone: 0314256991
 - Address: Str. Uranus 98, București, Romania
-- Updated At: 2026-11-02T00:57:38.074Z
+- Updated At: 2026-11-09T01:31:09.954Z
 
 ## Products
 
 - [Manfrotto 405 cap foto micrometric](https://www.photosetup.ro/products/manfrotto-405-cap-foto-micrometric): Manfrotto 405 cap foto micrometric. Manfrotto 405 este un cap foto micrometric profesional cu miscari pe roti dintate pentru camere cu o greutate pana la 7.5kg. Acest cap foto micrometric permite miscari extrem de precise in cele 3 planuri datorita sistemului pe roti dintate fiind utilizat cu precadere de catre fotografii profesionisti ci cu camere foto profesioale pe format mediu -mare.
-  Updated: 2026-11-01T02:21:02Z
+  Updated: 2026-11-08T02:25:57Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Capete trepiede foto
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f382manfrotto-cap-micrometric-405-16-436673.jpg?v=1760425438
   Price: 3.062,00 lei RON
 - [Manfrotto 410 cap foto micrometric pentru fotografie de produs](https://www.photosetup.ro/products/manfrotto-410-cap-foto-micrometric): Manfrotto 410 cap foto micrometric pentru fotografie de produs. Manfrotto 410 este un cap foto micrometric profesional cu roti dintate ce permite o miscare de rotatie de 360 grade in plan vertical si orizontal, ideal pentru camere pe 35 mm si format mediu. Acest cap foto micrometric ofera precizie maxima in pozitionarea unghiului in fotografie, ceea ce-l face ideal pentru fotografie de produs sau arhitectura (cu aplicatii industriale).
-  Updated: 2026-11-01T02:25:06Z
+  Updated: 2026-11-08T02:19:11Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Capete trepiede foto
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_68f8manfrotto-cap-micrometric-410-17-105429.jpg?v=1760425438
   Price: 1.324,00 lei RON
 - [Manfrotto carlig pentru un fundal 059](https://www.photosetup.ro/products/manfrotto-carlig-pentru-un-fundal-059): Manfrotto carlig pentru un fundal 059
-  Updated: 2026-11-01T02:26:21Z
+  Updated: 2026-11-08T02:22:12Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_b5fc60d9fadfcc7917fe1657b0b222d11f75-24-847500.jpg?v=1760425438
   Price: 127,00 lei RON
 - [Manfrotto 045 set carlig pentru 3 fundaluri](https://www.photosetup.ro/products/manfrotto-045-set-carlig-pentru-3-fundaluri): Manfrotto 045 set carlig pentru 3 fundaluri. Set carlig triplu pentru sustinerea a 3 fundaluri.
-  Updated: 2026-11-01T02:32:02Z
+  Updated: 2026-11-08T02:25:55Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_6012manfrotto-set-carlige-pentru-3-fundaluri-045-25-47315.jpg?v=1760425438
   Price: 264,00 lei RON
 - [Manfrotto 062-3 contragreutate fundal](https://www.photosetup.ro/products/manfrotto-062-3-contragreutate-fundal): Manfrotto 062-3 contragreutate fundal . Manfrotto contragreutate fundal care se ataseaza la baza fundalului.
-  Updated: 2026-11-01T02:28:01Z
+  Updated: 2026-11-08T02:27:06Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_6149manfrotto-contragreutate-fundal-062-2-27-572400.jpg?v=1760425438
   Price: 205,00 lei RON
 - [Manfrotto carlig sustinere 6 fundaluri 045-6](https://www.photosetup.ro/products/manfrotto-carlig-sustinere-6-fundaluri-045-6): Manfrotto set prindere fundaluri
-  Updated: 2026-11-01T02:26:10Z
+  Updated: 2026-11-08T02:26:00Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
@@ -56,78 +56,71 @@
   Price: 472,00 lei RON
 - [Manfrotto 5001B stativ pliabil pentru lumini.](https://www.photosetup.ro/products/manfrotto-5001b-stativ-pliabil-pentru-lumini): Manfrotto 5001B stativ pliabil pentru lumini. Acest stativ pliabil pentru lumini este deosebit de uitl pentru utilizatorii care doresc un suport compact dar inalt pentru prinderea unui blit sau a unui panou LED.
  Avantajul utilizarii acestui stativ pliabil pentru lumini este ca incape chiar si intr-un rucsac foto pe laterala lui sau intr-o geanta foto troller, lasand astfel posibilitatea utilizatorilor sa aiba tot echipamentul intr-un singur loc.
-  Updated: 2026-11-01T02:32:07Z
+  Updated: 2026-11-08T02:19:12Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_71b75001b-manfrotto-28-906944.jpg?v=1760425439
   Price: 417,00 lei RON
 - [Manfrotto masa foto 320B](https://www.photosetup.ro/products/manfrotto-masa-foto-320b): Manfrotto masa foto 320B
-  Updated: 2026-11-01T02:26:11Z
+  Updated: 2026-11-08T02:27:05Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fotografie de produs>Mese foto
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c1f4manfrotto-masa-foto-320b-30-996605.jpg?v=1760425438
   Price: 3.683,00 lei RON
 - [Manfrotto menghina Super Clamp 035](https://www.photosetup.ro/products/manfrotto-menghina-super-clamp-035): Menghina Manfrotto de prindere pentru diferite aplicatii.
-  Updated: 2026-11-01T02:32:04Z
+  Updated: 2026-11-08T02:24:16Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_695d035-manfrotto-menghina-32-370334.jpg?v=1760425439
   Price: 170,00 lei RON
 - [Manfrotto masa foto 220B](https://www.photosetup.ro/products/manfrotto-masa-foto-220b): Manfrotto masa foto 220 B
-  Updated: 2026-11-01T02:16:14Z
+  Updated: 2026-11-08T02:16:07Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fotografie de produs>Mese foto
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_7b13manfrotto_220-_1_-31-639062.jpg?v=1760425438
   Price: 5.711,00 lei RON
 - [Manfrotto Spring Clamp 175](https://www.photosetup.ro/products/manfrotto-spring-clamp-175): Clema de prindere Manfrotto
-  Updated: 2026-11-01T02:27:47Z
+  Updated: 2026-11-08T02:25:36Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_637c175-spring-clamp-manfrotto-34-650831.jpg?v=1760425438
-  Price: 112,00 lei RON
+  Price: 84,99 lei RON
 - [Manfrotto Flex Arm 237](https://www.photosetup.ro/products/manfrotto-237-brat-felxibil): Brat flexibil pentru diferite aplicatii. Recomandat sa se foloseasca in combinatie cu menghina Manfrotto 035.
-  Updated: 2026-11-01T02:32:06Z
+  Updated: 2026-11-08T02:26:01Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_7e8dbig_09c1237hd-manfrotto-33-340307.jpg?v=1760425439
   Price: 157,00 lei RON
 - [Avenger D705B Brat blenda 66-185cm](https://www.photosetup.ro/products/avenger-d705b-brat-blenda-66-185cm): Avenger D705B Brat blenda 66-185cm
-  Updated: 2026-11-01T02:31:47Z
+  Updated: 2026-11-08T02:27:05Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Panouri si cadre>Brate blende
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_2d93manfrotto-dispozitiv-prindere-panou-reflectorizant-d705b-36-364996.jpg?v=1760425439
   Price: 399,00 lei RON
-- [Avenger D200 cap compas](https://www.photosetup.ro/products/avenger-d200-cap-compas): Avenger D200 capcompas cu multiple functi si este unul dintre cele mai populare accesorii grip de la Avenger.
-  Updated: 2026-11-01T02:32:02Z
-  Vendor: Avenger
-  Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_b84bmanfrotto-cap-stativ-d200-40-345884.jpg?v=1760425439
-  Price: 208,00 lei RON
 - [Manfrotto Senior Stand 007BU](https://www.photosetup.ro/products/manfrotto-senior-stand-007bu): Stativ Manfrotto 007BU, din 3 sectiuni, suporta max. 12 kg.
-  Updated: 2026-11-01T02:25:07Z
+  Updated: 2026-11-08T02:19:11Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_7738007bu-manfrotto-37-681595.jpg?v=1760425439
   Price: 1.142,00 lei RON
 - [Manfrotto 420B Combi Boom stativ tip cumpana](https://www.photosetup.ro/products/manfrotto-420b-combi-boom-stativ-tip-cumpana): Manfrotto 420B Combi Boom stativ tip cumpana . Stativ Manfrotto din 4 sectiuni, din aluminiu cu brat
-  Updated: 2026-11-01T02:30:03Z
+  Updated: 2026-11-08T02:24:14Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative Boom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8233420b-manfrotto-38-729130.jpg?v=1760425439
-  Price: 1.267,00 lei RON
+  Price: 950,99 lei RON
 - [Manfrotto Brat Light Boom 085BSL](https://www.photosetup.ro/products/manfrotto-brat-light-boom-085bsl): Brat Manfrotto 085BSL pentru stativ cu contragreutate. Acest braț solid din aluminiu cu contragreutate este alcătuit din 3 sectiuni ce pot fi folosite atât montate impreună, cât și separat.
  Capacitatea de susținere la extensia maximă de 2.80m este de 6kg.
-  Updated: 2026-11-01T02:29:26Z
+  Updated: 2026-11-08T02:27:01Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative Boom
   Availability: Available
@@ -135,280 +128,287 @@
   Price: 1.301,00 lei RON
 - [Manfrotto Light Boom 085BS](https://www.photosetup.ro/products/manfrotto-085bs-stativ-heavy-duty-tip-cumpana): Manfrotto 085BS stativ heavy duty tip cumpana. Manfrotto 085B este reconscut pentru robustetea lui si siguranta in care poate sustine un blitz de studio cu softbox, pentru a ilumina pe deauspra subiectului.
  Manfrotto 085B este un stativ cumpana complet care contine:
-  Updated: 2026-11-01T02:20:32Z
+  Updated: 2026-11-08T02:25:56Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative Boom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_afb3085bs-manfrotto-42-445740.jpg?v=1760425440
   Price: 2.584,00 lei RON
+- [Manfrotto Autopole 432-3,7B](https://www.photosetup.ro/products/manfrotto-autopole-432-3-7b): Brat telescopic Manfrotto cu dimensiuni cuprinse intre 210 cm si 370 cm
+  Updated: 2026-11-08T02:16:18Z
+  Vendor: Manfrotto Grip
+  Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_a8b9-manfrotto-kit-autopole-432-3-7b-45-921756.jpg?v=1760425440
+  Price: 891,00 lei RON
 - [Manfrotto 026 adaptor suport umbrela](https://www.photosetup.ro/products/manfrotto-026-adaptor-suport-umbrela): Manfrotto 026 adaptor suport umbrela.Manfrotto 026 este cel mai cunoscut adaptor suport umbrela si cel mai folosit la nivel mondial. Diferenta dintre Manfrotto si alti producatori este data de calitatea articulatiilor care asigura o foarte buna functionare pe o perioada de timp indelungata.
-  Updated: 2026-11-01T02:30:06Z
+  Updated: 2026-11-08T02:19:13Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii aparate foto>Blitz-uri externe>Accesorii prindere
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_dbf5026-manfrotto-65-674666.jpg?v=1760425440
   Price: 215,00 lei RON
 - [Manfrotto brat articulat 196AB-3](https://www.photosetup.ro/products/manfrotto-196ab-3-brat-articulat-3-sectiuni): Brat articulat Manfrotto de prindere format din 3 sectiuni.
-  Updated: 2026-11-01T02:31:48Z
+  Updated: 2026-11-08T02:25:37Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_61b0196ab-3-manfrotto-82-277896.jpg?v=1760425441
-  Price: 290,00 lei RON
+  Price: 217,99 lei RON
 - [Manfrotto 234RC cap monopied foto cu placuta rapida](https://www.photosetup.ro/products/manfrotto-234rc-cap-monopied-foto): Manfrotto 234RC cap monopied foto cu placuta rapida. Cap foto pentru monopied cu placuta quick release incorporata. Asigura miscarea pe verticala intr-un unghi de 90 de grade.
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:25:41Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/manfrotto-234rc-cap-monopied-foto-89-513685.jpg?v=1760425442
   Price: 218,00 lei RON
 - [Manfrotto brat articulat 196AB-2](https://www.photosetup.ro/products/manfrotto-196ab-2-brat-articulat-din-doua-sectiuni): Brat articulat Manfrotto de prindere format din 2 sectiuni. Acest brat articulat ajuta la prinderea diverselor accesorii.
-  Updated: 2026-11-01T02:29:54Z
+  Updated: 2026-11-08T02:17:21Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c998196ab-2-manfrotto-81-189740.jpg?v=1760425441
   Price: 201,00 lei RON
 - [Manfrotto adaptor cu placuta rapida 323](https://www.photosetup.ro/products/manfrotto-adaptor-cu-placuta-rapida-323): Adaptor pentru cap trepied cu placuta rapida 200PL, pentru aparat, inlcusa.
-  Updated: 2026-11-01T02:28:07Z
+  Updated: 2026-11-08T02:27:01Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c5camanfrotto-adaptor-323-86-503167.jpg?v=1760425441
   Price: 189,00 lei RON
 - [Manfrotto 396AB-3 brat articulat din 3 sectiuni](https://www.photosetup.ro/products/manfrotto-396ab-3-brat-articulat-3-sectiuni): Manfrotto 396AB-3 brat articulat din 3 sectiuni. Brat articulat Manfrotto de prindere format din 3 sectiuni.
-  Updated: 2026-11-01T02:32:00Z
+  Updated: 2026-11-08T02:24:12Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f849396ab-3-manfrotto-84-59110.jpg?v=1760425442
   Price: 705,00 lei RON
 - [Manfrotto brat articulat 396AB-2](https://www.photosetup.ro/products/manfrotto-396ab-2-brat-articulat-2-sectiuni): Manfrotto 396AB-2 brat articulat 2 sectiuni. Brat articulat Manfrotto de prindere format din 2 sectiuni.
-  Updated: 2026-11-01T02:20:31Z
+  Updated: 2026-11-08T02:23:30Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c7f7396ab-2-manfrotto-83-63329.jpg?v=1760425442
   Price: 581,00 lei RON
 - [Manfrotto geanta trepied 80 cm Non Padded](https://www.photosetup.ro/products/manfrotto-geanta-trepied-80-cm-non-padded): Geantă Manfrotto pentru trepied 80 cm, non-padded, structură subțire. Soluție economică pentru transport. Livrare rapidă Photosetup.
-  Updated: 2026-11-01T02:31:47Z
+  Updated: 2026-11-08T02:22:11Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Genti si rucsacuri foto>Genti
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_ad24manfrotto-80-100-27865.jpg?v=1760425442
   Price: 262,00 lei RON
 - [Colorama fundal foto alb Arctic White 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-alb-arctic-white-2-72-x-11m): Colorama fundal foto alb Arctic White 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:31:58Z
+  Updated: 2026-11-08T02:24:12Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-alb-arctic-white-91-9144.jpg?v=1760425442
   Price: 339,00 lei RON
 - [Colorama fundal foto negru 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-negru-2-72-x-11m): Colorama fundal foto negru 2.72 x 11m . Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:25:06Z
+  Updated: 2026-11-08T02:17:36Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/1738687316_IMG_2424306.jpg?v=1775208363
   Price: 339,00 lei RON
 - [Manfrotto kit expan lant metal 046MC](https://www.photosetup.ro/products/manfrotto-kit-expan-lant-metal-046mc): Manfrotto kit expan lant metal
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:24:11Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_65a8manfrotto-expan-lant-metalic-046mc-110-728481.jpg?v=1760425443
-  Price: 662,00 lei RON
+  Price: 407,99 lei RON
 - [Manfrotto Master Stand 1004BAC](https://www.photosetup.ro/products/manfrotto-1004bac-stativ-pneumatic): Manfrotto 1004BAC stativ aluminiu 4 secțiuni cu pernă de aer, max 9kg. Pentru blitzuri grele. Stoc Photosetup.
-  Updated: 2026-10-31T02:28:14Z
+  Updated: 2026-11-08T02:22:31Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_be241004bac-manfrotto-146-865171.jpg?v=1760425445
   Price: 773,00 lei RON
 - [Manfrotto adaptor 1/4 in 3/8](https://www.photosetup.ro/products/manfrotto-adaptor-1-4-in-3-8): Adaptor cu ajutorul catuia puteti transforma un filet 1/4 in 3/8.
-  Updated: 2026-11-01T02:29:53Z
+  Updated: 2026-11-08T02:26:17Z
   Vendor: Manfrotto
   Product Type: Accesorii de studio>Menghine si brate articulate>Suruburi adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_4bf7088lbp-manfrotto-2-193-753683.jpg?v=1760425446
-  Price: 43,00 lei RON
+  Price: 32,99 lei RON
 - [Manfrotto placa micrometrica 454](https://www.photosetup.ro/products/manfrotto-placa-micrometrica-454): Adaptor micrometric cu placa ideal pentru fotografia macro sau fotografia stereoscopica (3-D).
-  Updated: 2026-11-01T02:31:58Z
+  Updated: 2026-11-08T02:27:01Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_a3dfmanfrotto-adaptor-cu-placuta-pentru-fotografia-macro-454-191-790966.jpg?v=1760425446
-  Price: 613,00 lei RON
+  Price: 459,99 lei RON
 - [Manfrotto adaptor Spigot 013](https://www.photosetup.ro/products/manfrotto-adaptor-spigot-013): Adaptor Manfrotto reversibil cu capete tata de 1/4 si 3/8.
-  Updated: 2026-11-01T02:32:05Z
+  Updated: 2026-11-08T02:27:05Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Suruburi adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8b36013-adaptor-spigot-manfrotto-192-377615.jpg?v=1760425447
-  Price: 56,00 lei RON
+  Price: 36,99 lei RON
 - [Manfrotto placuta rapida](https://www.photosetup.ro/products/manfrotto-placuta-rapida): Placuta rapida dreptunghiulara pentru cap de trepied video.
-  Updated: 2026-11-01T02:27:47Z
+  Updated: 2026-11-08T02:16:21Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_97e9manfrotto-placuta-video-203-704286.jpg?v=1760425491
   Price: 147,00 lei RON
 - [Manfrotto adaptor cu placuta culisanta 357](https://www.photosetup.ro/products/manfrotto-adaptor-cu-placuta-culisanta-357): Placa culisanta 357PLV, Manfrotto.
-  Updated: 2026-11-01T02:29:27Z
+  Updated: 2026-11-08T02:23:57Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_2a23manfrotto-adaptor-placuta-long-199-322738.jpg?v=1760425492
   Price: 349,00 lei RON
 - [Manfrotto placuta rapida 410PL](https://www.photosetup.ro/products/manfrotto-placuta-rapida-410pl): Placuta rapida dreptunghiulara pentru cap de trepied.
-  Updated: 2026-11-01T02:29:51Z
+  Updated: 2026-11-08T02:25:56Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c0femanfrotto-accesoriu-placuta-202-107867.jpg?v=1760425491
   Price: 80,00 lei RON
 - [Manfrotto adaptor cu placuta culisanta 577](https://www.photosetup.ro/products/manfrotto-adaptor-cu-placuta-culisanta-577): Adaptor cu placuta 501PL culisanta, inclusa.
-  Updated: 2026-11-01T02:26:03Z
+  Updated: 2026-11-08T02:25:40Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Accesorii diverese trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_af22manfrotto-adaptor-sliding-200-672704.jpg?v=1760425492
-  Price: 421,00 lei RON
+  Price: 315,99 lei RON
 - [Manfrotto LBAG110 geanta stative](https://www.photosetup.ro/products/manfrotto-lbag110-geanta-stative): Manfrotto Geanta Stative
-  Updated: 2026-11-01T02:28:02Z
+  Updated: 2026-11-08T02:27:00Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Genti si rucsacuri foto>Genti
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_9809-manfrotto-geanta-stative---215-464165.jpg?v=1760425491
-  Price: 365,00 lei RON
+  Price: 273,99 lei RON
 - [Manfrotto bara sustinere fundaluri panza 047-3](https://www.photosetup.ro/products/manfrotto-bara-sustinere-fundaluri-panza-047-3): Manfrotto 047-3 bară aluminiu 3 secțiuni pentru fundaluri mari. Modul extensibil pentru studio. Stoc Photosetup.
-  Updated: 2026-11-01T02:26:02Z
+  Updated: 2026-11-08T02:22:12Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_1139047-2-manfrotto-212-390256.jpg?v=1760425491
   Price: 443,00 lei RON
 - [Manfrotto bara sustinere fundaluri panza 047-2](https://www.photosetup.ro/products/manfrotto-bara-sustinere-fundaluri-panza-047-2): Manfrotto 047-2 bară aluminiu 2 secțiuni pentru fundaluri pânză și hârtie. Sistem solid de studio. Stoc Photosetup.
-  Updated: 2026-11-01T02:26:21Z
+  Updated: 2026-11-08T02:26:56Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_a56c047-2-manfrotto-211-722277.jpg?v=1760425492
   Price: 333,00 lei RON
 - [Manfrotto 098B Brat telescopic de perete](https://www.photosetup.ro/products/manfrotto-098b-brat-telescopic-de-perete): Manfrotto Brat Pentru Blitz / Lumina Continua 098B
-  Updated: 2026-11-01T02:19:30Z
+  Updated: 2026-11-08T02:27:06Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_2a45-manfrotto-brat-pentru-blitz---lumina-continua-098b-222-269120.jpg?v=1760425492
   Price: 975,00 lei RON
 - [Manfrotto brat telescopic de perete](https://www.photosetup.ro/products/manfrotto-brat-telescopic-de-perete): Manfrotto brat telescopic de perete. Brat telescopic Manfrotto pentru blitz sau lumina continua cu softbox sau umbrela atasata.
-  Updated: 2026-11-01T02:32:05Z
+  Updated: 2026-11-08T02:18:32Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c946manfrotto-223-528616.jpg?v=1760425492
   Price: 907,00 lei RON
 - [Manfrotto 143BKT suport prindere aparat foto](https://www.photosetup.ro/products/manfrotto-143bkt-suport-prindere-aparat-foto): Manfrotto 143BKT suport prindere aparat foto. Dispozitivul de prindere pentru aparat foto Manfrotto 143BKT este un accesoriu esential pentru orice fotograf profesionist sau amator pasionat. Acest suport de camera 143BKT este special conceput pentru a se potrivi cu bratul magic Manfrotto, oferind o stabilitate si o flexibilitate exceptionale in timpul sesiunilor foto.
-  Updated: 2026-11-01T02:27:48Z
+  Updated: 2026-11-08T02:22:24Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_a7e3143bkt-manfrotto-224-713726.jpg?v=1760425492
-  Price: 95,00 lei RON
+  Price: 71,99 lei RON
 - [Manfrotto 244N Brat articulat variabil](https://www.photosetup.ro/products/manfrotto-244n-brat-articulat-variabil): Manfrotto 244N Brat articulat variabil. Brat articulat Manfrotto cu 3 puncte de strangere actionate printr-o singura strangere.
-  Updated: 2026-11-01T02:32:00Z
+  Updated: 2026-11-08T02:25:57Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_dfa1manfrotto-variable-friction-arm-244n-227-785683.jpg?v=1760425492
   Price: 720,00 lei RON
 - [Manfrotto Magic Arm 143N](https://www.photosetup.ro/products/manfrotto-143n-magic-arm-brat-articulat): Brat Manfrotto pentru montarea unei camere video sau unui aparat foto cu grautate maxima de 3 Kg.
-  Updated: 2026-11-01T02:32:06Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_4755143n-manfrotto-226-323832.jpg?v=1760425492
   Price: 627,00 lei RON
 - [Manfrotto 244 Brat articulat variabil](https://www.photosetup.ro/products/manfrotto-244-brat-articulat-variabil): Manfrotto 244 Brat articulat variabil. Kit Manfrotto format din brat si bracket pentru aparatul foto.
-  Updated: 2026-11-01T02:27:47Z
+  Updated: 2026-11-08T02:24:51Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_10b1manfrotto-variable-friction-arm-kit-244-228-230712.jpg?v=1760425492
   Price: 803,00 lei RON
 - [Manfrotto 237HD Brat flexibil heavy duty](https://www.photosetup.ro/products/manfrotto-237hd-brat-flexibil-heavy-duty): Manfrotto 237HD Brat flexibil heavy duty. Brat flexibil Manfrotto pentru diferite aplicatii.
-  Updated: 2026-11-01T02:29:54Z
+  Updated: 2026-11-08T02:24:16Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Brate articulate
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_09c1237hd-manfrotto-225-279311.jpg?v=1760425492
   Price: 222,00 lei RON
 - [Manfrotto lant metalic 091MC negru pentru fundaluri](https://www.photosetup.ro/products/manfrotto-lant-metalic-091mc-negru-pentru-fundaluri): Manfrotto lant metalic 091MC negru pentru fundaluri
-  Updated: 2026-11-01T02:28:11Z
+  Updated: 2026-11-08T02:24:17Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_3544manfrotto-lant-metalic-expan-091mc-235-108871.jpg?v=1760425493
-  Price: 225,00 lei RON
+  Price: 143,99 lei RON
 - [Manfrotto dispozitiv prindere panouri 271](https://www.photosetup.ro/products/manfrotto-dispozitiv-prindere-panouri-271): Manfrotto dispozitiv pentru prinderea panourilor.
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:25:40Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_42f1271-manfrotto-234-646385.jpg?v=1760425493
-  Price: 249,00 lei RON
+  Price: 186,99 lei RON
 - [Manfrotto Extension 2 Sections pentru Heavy Stand 142CS](https://www.photosetup.ro/products/manfrotto-extension-2-sections-pentru-heavy-stand-142cs): Coloana de extensie Manfrotto, din 2 sectiuni, pentru stativele mari.
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8a55142cs-manfrotto-237-372025.jpg?v=1760425493
   Price: 596,00 lei RON
 - [Hensel lampa blitz 9450401](https://www.photosetup.ro/products/hensel-lampa-blitz-9450401): Lampa tip U pentru blitz-urile Hensel Expert Pro / Contra-E / Pro Plus 250 / 500.
-  Updated: 2026-11-01T02:22:22Z
+  Updated: 2026-11-08T02:24:01Z
   Vendor: Hensel becuri
   Product Type: Lumini si blituri>Blituri profesionale>Accesorii blituri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8bf9hensel-lampa-blitz-9450401-252-340473.jpg?v=1760425494
   Price: 695,00 lei RON
 - [Manfrotto ventuza 241](https://www.photosetup.ro/products/manfrotto-ventuza-241): Ventuza pentru sustinerea unui aparat foto sau camere video, pe geam sau orice alta suprafata non-poroasa.
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f3d3manfrotto-ventuza-geam-241-305-792845.jpg?v=1760425494
   Price: 495,00 lei RON
 - [Manfrotto 057C3-G trepied foto carbon](https://www.photosetup.ro/products/manfrotto-057c3-g-trepied-foto-carbon): Manfrotto MT057C3-G trepied foto profesional carbonmpentru camere foto de maxim 12 kg.
-  Updated: 2026-11-01T02:26:12Z
+  Updated: 2026-11-08T02:17:37Z
   Vendor: Manfrotto
   Product Type: Accesorii aparate foto>Trepiede si monopiede foto>Trepiede
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_17dcmanfrotto-trepied-foto-profesional-carbon-mt057c3-g-_1_-279-398674.jpg?v=1760425495
   Price: 4.649,00 lei RON
 - [Manfrotto 131DDB coloana pentru aparate](https://www.photosetup.ro/products/manfrotto-131ddb-coloana-pentru-aparate): Manfrotto 131DDB, coloana pentru patru aparate foto
-  Updated: 2026-11-01T02:19:46Z
+  Updated: 2026-11-08T02:25:36Z
   Vendor: Manfrotto
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_400cmanfrotto-coloana-pentru-patru-aparate-foto-131ddb-285-748501.jpg?v=1760425495
   Price: 779,00 lei RON
 - [Manfrotto sina suspendata aluminiu 3 m](https://www.photosetup.ro/products/manfrotto-sina-suspendata-aluminiu-3-m): Manfrotto sina suspendata aluminiu 3 m
-  Updated: 2026-11-01T02:30:03Z
+  Updated: 2026-11-08T02:26:56Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_26e6manfrotto-sina-suspendata-aluminiu-3-m-336-560861.jpg?v=1760425495
   Price: 922,00 lei RON
 - [Manfrotto Light Boom 025BS](https://www.photosetup.ro/products/manfrotto-025bs-stativ-cumpana-light-boom): Manfrotto 025BS Light Boom complet care contine: stativ cu roti, brat si contragreutate.
-  Updated: 2026-11-01T02:25:06Z
+  Updated: 2026-11-08T02:19:12Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Stative lumini>Stative Boom
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8fc8manfrotto-boom-025bs-304-917403.jpg?v=1760425495
   Price: 4.226,00 lei RON
 - [Manfrotto dispozitiv prindere sina FF3210](https://www.photosetup.ro/products/manfrotto-dispozitiv-prindere-sina-ff3210): Manfrotto Dispozitiv Prindere Sina FF3210
-  Updated: 2026-11-01T02:26:02Z
+  Updated: 2026-11-07T08:41:15Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
@@ -419,70 +419,70 @@
  Un filtrul UV este recomandat a se pastra pe obiectiv in permanenta, el ajutand la protectia lentilei frontale totodata, fara a influenta negativ imaginea.
  
  Utilizate in mod special in fotografia digitala, filterele B+W sunt unelte importante utilizate pentru imbunatatirea calitatii imaginii. Cu alte cuvinte, filtrele rezolva problemele inainte ca ele sa apara.
-  Updated: 2026-11-01T02:24:22Z
+  Updated: 2026-11-08T02:24:53Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/schneider-b-w-filtru-foto-uv-mrc-010-basic-82mm-046761.jpg?v=1760425496
   Price: 499,00 lei RON
 - [Genus filtru ND Fader 62mm](https://www.photosetup.ro/products/genus-filtru-nd-variabil-62mm): Filtru ND 62mm cu posibilitate de inchidere de pana la 4 diafragme in 2 trepte
-  Updated: 2026-11-01T02:31:48Z
+  Updated: 2026-11-08T02:23:31Z
   Vendor: Genus
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_4c71-genus-nd-fader-filter-62mm-gndf-62-325-726329.jpg?v=1760425496
   Price: 656,00 lei RON
 - [Manfrotto kit sine suspendate cu pantografe FF3033](https://www.photosetup.ro/products/manfrotto-kit-sine-suspendate-cu-pantografe-ff3033): Manfrotto kit sine suspendate cu pantografe FF3033
-  Updated: 2026-11-01T02:24:23Z
+  Updated: 2026-11-08T02:22:22Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_9233manfrotto-kit-sine-suspendate-cu-pantografe-ff3033-334-969624.jpg?v=1760425496
   Price: 13.233,00 lei RON
 - [Manfrotto sina suspendata aluminiu 4 m](https://www.photosetup.ro/products/manfrotto-sina-suspendata-aluminiu-4-m): Manfrotto sina suspendata aluminiu 4 m
-  Updated: 2026-11-01T02:30:03Z
+  Updated: 2026-11-08T02:25:38Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c1aemanfrotto-sina-suspendata-aluminiu-3-m-337-602901.jpg?v=1760425496
   Price: 1.157,00 lei RON
 - [Manfrotto kit sine suspendate cu pantografe FF3054](https://www.photosetup.ro/products/manfrotto-kit-sine-suspendate-cu-pantografe-ff3054): Manfrotto kit sine suspendate cu pantografe FF3054
-  Updated: 2026-11-01T02:24:25Z
+  Updated: 2026-11-08T02:27:02Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_5610manfrotto-kit-sine-suspendate-cu-pantografe-ff3054-335-803494.jpg?v=1760425496
   Price: 24.923,00 lei RON
 - [Manfrotto carucior dublu sina FF3236](https://www.photosetup.ro/products/manfrotto-carucior-dublu-sina-ff3236): Manfrotto carucior dublu sina FF3236
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:27:26Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_3299manfrotto-carucior-dublu-sina-ff3236-339-720704.jpg?v=1760425497
   Price: 419,00 lei RON
 - [Colorama fundal foto rosu Damson 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-roz-damson-2-72-x-11m): Colorama fundal foto rosu Damson 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:24:01Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-damson-405-7754.jpg?v=1760425498
-  Price: 339,00 lei RON
+  Price: 254,99 lei RON
 - [Praktica filtru polarizare C-Pol 52mm](https://www.photosetup.ro/products/praktica-filtru-polarizare-52mm): Praktica filtru polarizare C-Pol 52mm
-  Updated: 2026-11-01T02:32:03Z
+  Updated: 2026-11-08T02:19:53Z
   Vendor: Schneider / Praktica
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_c3b0-praktica-c-pol-filtru-polarizare-52mm-346-489094.jpg?v=1760425497
   Price: 82,00 lei RON
 - [Manfrotto carucior dublu sina FF3232](https://www.photosetup.ro/products/manfrotto-carucior-dublu-sina-ff3232): Manfrotto carucior dublu sina FF3232
-  Updated: 2026-11-01T02:32:04Z
+  Updated: 2026-11-08T02:25:59Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_2eb5manfrotto-carucior-dublu-sina-ff3232-338-268951.jpg?v=1760425497
   Price: 350,00 lei RON
 - [Manfrotto carucior lumini FF3230](https://www.photosetup.ro/products/manfrotto-carucior-lumini-ff3230): Manfrotto, Carucior Lumini, FF3230
-  Updated: 2026-11-01T02:30:03Z
+  Updated: 2026-11-08T02:26:00Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
@@ -491,751 +491,751 @@
 - [Schneider B+W Filtru foto UV MRC 010 MRC Basic 67mm](https://www.photosetup.ro/products/schneider-b-w-filtru-foto-uv-mrc-010-basic-67mm): Schneider B+W Filtru foto UV MRC 010 MRC Basic 67mm. Datorita stratului special de antireflexie, un filtruUV diminueaza imaginile duble sau cele tip "fantoma" ce pot aparea datorita reflexiei senzorului in anumite situatii limita.
  Filtrul UV ofera protectie precum si obtinerea unei imagini imbunatatite printr-o usoara crestere a claritatii a contrastului.
  Un filtrul UV este recomandat a se pastra pe obiectiv in permanenta, el ajutand la protectia lentilei frontale totodata, fara a influenta negativ imaginea.
-  Updated: 2026-11-01T02:30:04Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/schneider-b-w-filtru-foto-uv-mrc-010-mrc-basic-67mm-228846.jpg?v=1760425497
   Price: 276,00 lei RON
 - [Colorama fundal foto galben Sunflower 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-galben-sunflower-2-72-x-11m): Colorama fundal foto galben Sunflower 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:25Z
+  Updated: 2026-11-08T02:27:06Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-sunflower-410-2958.jpg?v=1760425498
   Price: 339,00 lei RON
 - [Colorama fundal foto verde Summer Green 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-verde-summer-green-2-72-x-11m): Colorama fundal foto verde Summer Green 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:45Z
+  Updated: 2026-11-08T02:18:32Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-summer-green-416-7191.jpg?v=1760425498
-  Price: 339,00 lei RON
+  Price: 199,99 lei RON
 - [Schneider B+W Filtru polarizare MRC Basic 58mm](https://www.photosetup.ro/products/schneider-b-w-filtru-polarizare-mrc-basic-58mm): Schneider B+W Filtru polarizare MRC Basic 58mm
-  Updated: 2026-11-01T02:29:53Z
+  Updated: 2026-11-08T02:27:26Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/schneider-b-w-filtru-polarizare-mrc-basic-58mm-994037.webp?v=1760425498
   Price: 417,00 lei RON
 - [Schneider B+W Filtru polarizare circulara MRC Basic 72mm](https://www.photosetup.ro/products/schneider-b-w-filtru-polarizare-circulara-mrc-basic-72mm): Schneider B+W Filtru polarizare circulara MRC Basic 72mm
-  Updated: 2026-11-01T02:28:02Z
+  Updated: 2026-11-08T02:25:56Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_6d3a-b-w-polarizare-circulara-mrc-filtru-72mm-377-320351.jpg?v=1760425498
   Price: 539,00 lei RON
 - [Schneider B+W Filtru polarizare circulara 62mm](https://www.photosetup.ro/products/schneider-b-w-filtru-polarizare-circulara-62mm): Schneider B+W Filtru polarizare circulara 62mm
-  Updated: 2026-11-01T02:26:07Z
+  Updated: 2026-11-08T02:27:06Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_fbfe-b-w-polarizare-circulara-filtru-62mm-368-605801.jpg?v=1760425498
   Price: 404,00 lei RON
 - [Colorama fundal foto roz Carnation 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-roz-carnation-2-72-x-11m): Colorama fundal foto roz Carnation 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:24:16Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-carnation-402-6293.jpg?v=1760425499
   Price: 339,00 lei RON
 - [Colorama fundal foto rosu Mandarin 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-rosu-mandarin-2-72-x-11m): Colorama fundal foto rosu Mandarin 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:32:00Z
+  Updated: 2026-11-08T02:22:11Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-mandarin-406-4277.jpg?v=1760425499
-  Price: 339,00 lei RON
+  Price: 199,99 lei RON
 - [Colorama fundal foto roz Rose Pink 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-roz-rose-pink-2-72-x-11m): Colorama fundal foto roz Rose Pink 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:51Z
+  Updated: 2026-11-08T02:19:36Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-rose-pink-403-3528.jpg?v=1760425499
   Price: 339,00 lei RON
 - [Colorama fundal foto rosu Crimson 2.72 x11m](https://www.photosetup.ro/products/colorama-fundal-foto-rosu-crimson-2-72-x11m): Colorama fundal foto rosu Crimson 2.72 x11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:20Z
+  Updated: 2026-11-08T15:38:46Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-crimson-408-3584.jpg?v=1760425499
   Price: 339,00 lei RON
 - [Colorama fundal foto rosu Cherry 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-rosu-cherry-2-72-x-11m): Colorama fundal foto rosu Cherry 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:28:12Z
+  Updated: 2026-11-08T02:25:42Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-cherry-407-4449.jpg?v=1760425499
   Price: 339,00 lei RON
 - [Colorama fundal foto galben Buttercup 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-galben-buttercup-2-72-x-11m): Colorama fundal foto galben Buttercup 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:22Z
+  Updated: 2026-11-08T02:19:52Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-buttercup-411-8286.jpg?v=1760425500
   Price: 339,00 lei RON
 - [Colorama fundal foto galben Dandelion 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-galben-dandelion-2-72-x-11m): Colorama fundal foto galben Dandelion 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:32:06Z
+  Updated: 2026-11-08T02:26:00Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-dandelion-413-4229.jpg?v=1760425500
   Price: 339,00 lei RON
 - [Colorama fundal foto galben Maize 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-galben-maize-2-72-x-11m): Colorama fundal foto galben Maize 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:24:24Z
+  Updated: 2026-11-08T02:24:11Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-maize-412-7646.jpg?v=1760425500
-  Price: 339,00 lei RON
+  Price: 254,99 lei RON
 - [Colorama fundal foto Chroma Key verde 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-chroma-key-verde-2-72-x-11m): Colorama fundal foto Chroma Key verde 2.72 x 11m. Fundal foto din carton tip chroma key verde, de cea mai buna calitate, utilizat in fotografierea sau filmarea in studio.
-  Updated: 2026-11-01T02:26:31Z
+  Updated: 2026-11-08T02:24:05Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri din panza
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-chromagreen-417-7934.jpg?v=1760425500
   Price: 339,00 lei RON
 - [Colorama fundal foto verde Spurce Green 2,72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-verde-spurce-green-2-72-x-11m): Colorama fundal foto verde Spurce Green 2,72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:30:05Z
+  Updated: 2026-11-08T06:53:50Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_bc2acolorama-fundal-hartie-spurce-green-420-315906.jpg?v=1760425500
   Price: 339,00 lei RON
 - [Colorama fundal foto verde Fern 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-verde-fern-2-72-x-11m): Colorama fundal foto verde Fern 2.72 x 11m
-  Updated: 2026-11-01T02:23:52Z
+  Updated: 2026-11-08T02:24:05Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f4cfcolorama-fundal-hartie-fern-414-983140.jpg?v=1760425500
-  Price: 339,00 lei RON
+  Price: 254,99 lei RON
 - [Colorama fundal foto albastru Sea Blue 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-albastru-sea-blue-2-72-x-11m): Colorama fundal foto albastru Sea Blue 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:27:48Z
+  Updated: 2026-11-08T02:26:15Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-sea-blue-421-9717.jpg?v=1760425501
-  Price: 339,00 lei RON
+  Price: 199,99 lei RON
 - [Colorama fundal foto albastru Aqua 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-albastru-aqua-2-72-x-11m): Colorama fundal foto albastru Aqua 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:31Z
+  Updated: 2026-11-08T02:18:31Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_01d7-colorama-fundal-albastru-aqua-423-828818.jpg?v=1760425542
-  Price: 339,00 lei RON
+  Price: 186,99 lei RON
 - [Schneider B+W Filtru de conversie KB12 MRC 72mm](https://www.photosetup.ro/products/schneider-b-w-filtru-de-conversie-kb12-72mm): Schneider B+W Filtru de conversie KB12 MRC 72mm
-  Updated: 2026-11-01T02:28:01Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_5f48-b-w-kb12-filtru-conversie-72mm-426-188105.jpg?v=1760425541
   Price: 231,00 lei RON
 - [Schneider B+W Filtru de conversie KB12 MRC 67mm](https://www.photosetup.ro/products/schneider-b-w-filtru-de-conversie-kb12-67mm): Schneider B+W Filtru de conversie KB12 MRC 67mm
-  Updated: 2026-11-01T02:30:06Z
+  Updated: 2026-11-08T02:19:11Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_e56f-b-w-kb12-filtru-conversie-67mm-425-745520.jpg?v=1760425541
   Price: 194,00 lei RON
 - [Schneider B+W Filtru de conversie KB15 MRC 67mm](https://www.photosetup.ro/products/schneider-b-w-filtru-de-conversie-kb15-67mm): Schneider B+W Filtru de conversie KB15 MRC 67mm
-  Updated: 2026-11-01T02:29:51Z
+  Updated: 2026-11-08T02:26:02Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8270-b-w-kb15-filtru-conversie-67mm-428-991770.jpg?v=1760425541
   Price: 194,00 lei RON
 - [Schneider B+W Filtru de conversie KB15 MRC 62mm](https://www.photosetup.ro/products/schneider-b-w-filtru-de-conversie-kb15-mrc-62mm): Schneider B+W Filtru de conversie KB15 MRC 62mm
-  Updated: 2026-11-01T02:29:26Z
+  Updated: 2026-11-08T02:26:17Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_0e2f-b-w-kb15-filtru-conversie-62mm-427-409312.jpg?v=1760425541
   Price: 153,00 lei RON
 - [B+W filtru Cross Screen x 6 MRC 52mm](https://www.photosetup.ro/products/b-w-filtru-cross-screen-x-6-52mm): B+W filtru Cross Screen x 6 MRC 52mm
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:22:11Z
   Vendor: Schneider / B+W
   Product Type: Accesorii aparate foto>Filtre foto>Filtre filet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_d659-b-w-cross-screen-x-6-filtru-52mm-431-2467.jpg?v=1760425542
   Price: 269,00 lei RON
 - [Colorama fundal PVC Royal Blue](https://www.photosetup.ro/products/colorama-fundal-pvc-albastru-royal-blue): Colorama fundal PVC Royal Blue
-  Updated: 2026-11-01T02:20:41Z
+  Updated: 2026-11-08T02:24:56Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri PVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-pvc-royal-blue-441-7879.jpg?v=1760425542
-  Price: 148,00 lei RON
+  Price: 61,99 lei RON
 - [Colorama fundal PVC Poppy](https://www.photosetup.ro/products/colorama-fundal-pvc-poppy): Colorama fundal PVC Poppy
-  Updated: 2026-10-31T02:27:06Z
+  Updated: 2026-11-08T02:25:37Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri PVC
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-pvc-poppy-443-3492.jpg?v=1760425542
-  Price: 148,00 lei RON
+  Price: 111,99 lei RON
 - [Colorama fundal foto albastru Riviera 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-albastru-riviera-2-72-x-11m): Colorama fundal foto albastru Riviera 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:24:21Z
+  Updated: 2026-11-08T02:18:02Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-riviera-454-9670.jpg?v=1760425544
-  Price: 339,00 lei RON
+  Price: 203,99 lei RON
 - [Colorama fundal foto Chroma albastru 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-chroma-albastru-2-72-x-11m): Colorama fundal foto Chroma Key albastru 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:53Z
+  Updated: 2026-11-08T02:26:56Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-chromablue-456-5207.jpg?v=1760425544
-  Price: 339,00 lei RON
+  Price: 254,99 lei RON
 - [Colorama fundal foto albastru Oxford Blue 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-albastru-oxford-blue-2-72-x-11m): Colorama fundal foto albastru Oxford Blue 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:21:03Z
+  Updated: 2026-11-08T02:24:11Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-oxford-blue-457-7017.jpg?v=1760425544
   Price: 339,00 lei RON
 - [Colorama fundal foto mov Royal Purple 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-mov-royal-purple-2-72-x-11m): Colorama fundal foto mov Royal Purple 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:26:17Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-royal-purple-459-4968.jpg?v=1760425544
-  Price: 339,00 lei RON
+  Price: 186,99 lei RON
 - [Colorama fundal foto gri Charcoal 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-gri-charcoal-2-72-x-11m): Colorama fundal foto gri Charcoal 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:11Z
+  Updated: 2026-11-08T02:27:27Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-charcoal-462-6087.jpg?v=1760425544
   Price: 339,00 lei RON
 - [Colorama fundal foto gri Smoke Grey 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-gri-smoke-grey-2-72-x-11m): Colorama fundal foto gri Smoke Grey 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:32:01Z
+  Updated: 2026-11-08T02:27:26Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-smoke-grey-463-1227.jpg?v=1760425545
   Price: 339,00 lei RON
 - [Colorama fundal foto foto gri Quartz 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-foto-gri-quartz-2-72-x-11m): Colorama fundal foto foto gri Quartz 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:23:56Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-quartz-467-2081.jpg?v=1760425545
   Price: 339,00 lei RON
 - [Colorama fundal foto gri Storm Grey 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-gri-storm-grey-2-72-x-11m): Colorama fundal foto gri Storm Grey 2.72 x 11m.
-  Updated: 2026-11-01T02:32:01Z
+  Updated: 2026-11-08T02:26:17Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-storm-grey-466-1716.jpg?v=1760425545
   Price: 339,00 lei RON
 - [Colorama Fundal foto gri Platinum 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-gri-platinum-2-72-x-11m): Colorama Fundal foto gri Platinum 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:07Z
+  Updated: 2026-11-08T02:24:00Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-platinum-468-7283.jpg?v=1760425545
   Price: 339,00 lei RON
 - [Colorama fundal foto alb Polar White 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-alb-polar-white-2-72-x-11m): Colorama fundal foto alb Polar White 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:32:04Z
+  Updated: 2026-11-08T02:26:00Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-polar-white-460-6275.jpg?v=1760425545
   Price: 339,00 lei RON
 - [Colorama Fundal foto bej Cappuccino 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-bej-cappuccino-2-72-x-11m): Colorama Fundal foto bej Cappuccino 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T22:24:41Z
+  Updated: 2026-11-08T02:25:42Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-foto-cappuccino-477-9537.jpg?v=1760425546
   Price: 339,00 lei RON
 - [Colorama fundal foto gri Mineral Grey 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-gri-mineral-grey-2-72-x-11m): Colorama fundal foto gri Mineral Grey 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:29:51Z
+  Updated: 2026-11-08T02:26:16Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-mineral-grey-465-4036.jpg?v=1760425546
   Price: 339,00 lei RON
 - [Colorama Fundal foto bej Barley 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-bej-barley-2-72-x-11m): Colorama Fundal foto bej Barley 2.72 x 11m Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:26:07Z
+  Updated: 2026-11-08T02:25:41Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-foto-barley-478-6241.jpg?v=1760425546
   Price: 339,00 lei RON
 - [Colorama Fundal foto maro Peat Brown 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-maro-peat-brown-2-72-x-11m): Colorama Fundal foto maro Peat Brown 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:28:06Z
+  Updated: 2026-11-08T02:25:41Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-peat-brown-482-8978.jpg?v=1760425546
   Price: 339,00 lei RON
 - [Colorama Fundal foto maro Coffee 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-maro-coffee-2-72-x-11m): Colorama Fundal foto maro Coffee 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T21:11:25Z
+  Updated: 2026-11-08T02:25:56Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-coffee-489-4835.jpg?v=1760425546
   Price: 339,00 lei RON
 - [Colorama Fundal foto bej Oyster 2.72 x 11m](https://www.photosetup.ro/products/colorama-fundal-foto-bej-oyster-2-72-x-11m): Colorama Fundal foto bej Oyster 2.72 x 11m. Un fundal foto de cea mai buna calitate. utilizat in fotografierea sau filmarea in studio. Este un fundal foto mat, Colorama garanteaza uniformitatea culorii pe toata suprafata fundalului.
-  Updated: 2026-11-01T02:31:55Z
+  Updated: 2026-11-08T02:25:42Z
   Vendor: Colorama Photodisplay
   Product Type: Accesorii de studio>Fundaluri foto video>Fundaluri carton
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/colorama-fundal-oyster-475-8206.jpg?v=1760425547
   Price: 339,00 lei RON
 - [Manfrotto set carlige pentru un fundal](https://www.photosetup.ro/products/manfrotto-set-carlige-pentru-un-fundal): Set de carlige care se fixeaza pe perete pentru un fundal cu Expan 046.
-  Updated: 2026-11-01T02:27:48Z
+  Updated: 2026-11-08T02:24:51Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Fundaluri foto video>Suport fundaluri
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_b3a7manfrotto-set-carlige-pentru-1-fundal-059wm-500-822448.jpg?v=1760425547
   Price: 127,00 lei RON
 - [Avenger dispozitiv prindere C4462](https://www.photosetup.ro/products/avenger-dispozitiv-prindere-c4462): Dsipozitiv prindere cu spigot de 16 mm.
-  Updated: 2026-11-01T02:32:04Z
+  Updated: 2026-11-08T02:24:11Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_afee15-11-20111321354037manfrotto_c4462_1-511-860903.jpg?v=1760425547
-  Price: 167,00 lei RON
+  Price: 112,99 lei RON
 - [Avenger dispozitiv prindere C337](https://www.photosetup.ro/products/avenger-dispozitiv-prindere-c337): Dispozitiv de prindere din aluminiu turnat, ideal pentru atarnarea diferitelor tipuri de lumni in studiouri TV si teatre.
-  Updated: 2026-11-01T02:28:12Z
+  Updated: 2026-11-08T02:22:33Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_8d9emanfrotto-dispozitiv-prindere-c337-1-522-103276.jpg?v=1760425548
   Price: 737,00 lei RON
 - [Avenger dispozitiv prindere C4560](https://www.photosetup.ro/products/avenger-dispozitiv-prindere-c4560): Dispozitiv prindere usor si de dimensiuni reduse.
-  Updated: 2026-11-01T02:29:52Z
+  Updated: 2026-11-08T02:27:26Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_96ffmanfrotto-dispozitiv-prindere-c4560-1-524-30040.jpg?v=1760425548
   Price: 93,00 lei RON
 - [Avenger dispozitiv prindere C339UH](https://www.photosetup.ro/products/avenger-dispozitiv-prindere-c339uh): Dispozitiv de prindere cu cap universal non-rotativ.
-  Updated: 2026-11-01T02:32:03Z
+  Updated: 2026-11-08T02:24:51Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Prinderi diverse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_6594manfrotto-dispozititv-prindere-c339uh-1-523-300932.jpg?v=1760425548
   Price: 1.061,00 lei RON
 - [Avenger E600C cap stativ](https://www.photosetup.ro/products/avenger-e600c-cap-stativ): Avenger E600C, cap stativ
-  Updated: 2026-11-01T02:29:51Z
+  Updated: 2026-11-08T02:25:59Z
   Vendor: Avenger
   Product Type: Accesorii de studio>Menghine si brate articulate>Suruburi adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f071manfrotto-cap-stativ-e600c-1-531-969644.jpg?v=1760425548
-  Price: 32,00 lei RON
+  Price: 22,99 lei RON
 - [Manfrotto cap stativ 037](https://www.photosetup.ro/products/manfrotto-cap-stativ-037): Manfrotto 037 cap stativ pentru lumini studio. Ajustare rapidă unghi proiector. Stoc Photosetup.
-  Updated: 2026-11-01T02:27:46Z
+  Updated: 2026-11-08T02:24:05Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Suruburi adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_f36bmanfrotto-cap-stativ-037-1-533-385613.jpg?v=1760425548
   Price: 37,00 lei RON
 - [Manfrotto 015 cap stativ adaptor 3/8 la 1/4](https://www.photosetup.ro/products/manfrotto-015-cap-stativ-adaptor-3-8-la-1-4): Manfrotto 015 cap stativ adaptor 3/8 la 1/4
-  Updated: 2026-11-01T02:28:11Z
+  Updated: 2026-11-08T02:26:17Z
   Vendor: Manfrotto Grip
   Product Type: Accesorii de studio>Menghine si brate articulate>Suruburi adaptor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_0f75manfrotto-cap-stativ-015-2-532-291074.jpg?v=1760425548
   Price: 28,00 lei RON
 - [Manfrotto brat extensie sina FF3220](https://www.photosetup.ro/products/manfrotto-brat-extensie-sina-ff3220): FF3220 ESTE un brat din aluminiu de 100cm lungime, care permite atasarea la sistemul de sine suspendate, la inaltimea dorita.
-  Updated: 2026-11-01T02:30:06Z
+  Updated: 2026-11-08T02:26:00Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Accesorii prindere lumini
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_922bmanfrotto-ff3220-563-159250.jpg?v=1760425548
   Price: 368,00 lei RON
 - [Manfrotto opritor sina FF3207](https://www.photosetup.ro/products/manfrotto-opritor-sina-ff3207): Sistemul FF3207 se monteaza la capatului sinei pentru a preveni caderea caruciorului mobil sau a sinei mobile.
-  Updated: 2026-11-01T02:31:49Z
+  Updated: 2026-11-08T02:25:41Z
   Vendor: Manfrotto Grip
   Product Type: Lumini si blituri>Sisteme suspendate pentru prindere lumini>Sisteme sine suspendate kit
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_cde4manfrotto-ff3207-577-457213.jpg?v=1760425549
   Price: 74,00 lei RON
 - [Manfrotto MVR911EJCN telecomanda](https://www.photosetup.ro/products/manfrotto-mvr911ejcn-telecomanda-resigilat): Telecomanda Manfrotto MVR911EJCN a fost creata pentru a fi folosita pe manerul suportului SYMPLA. Astfel o singura persoana poate tine in siguranta camera si rig-ul pentru a avea miscari line si o incadrare corecta, in timp ce controleaza toate comenzile
-  Updated: 2026-11-01T02:31:59Z
+  Updated: 2026-11-08T02:22:11Z
   Vendor: Manfrotto Video
   Product Type: Accesorii aparate foto>Alte accesorii>Telecomenzi
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/8343/8155/files/big_7d94manfrotto-telecomanda-mvr911ejcn-582-894896.jpg?v=1760425549
   Price: 599,00 lei RON
-[List Continued](https://www.photosetup.ro/a/llms-agent/llms.txt?shop=photosetupro.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1MTM0NDQzMzQ4MywibGFzdF92YWx1ZSI6IjIwMjUtMTAtMTQgMDc6MDU6NDYuMDAwMDAwIn0%3D)
+[List Continued](https://www.photosetup.ro/a/llms-agent/llms.txt?shop=photosetupro.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDg1MTM0NDQzMzQ4MywibGFzdF92YWx1ZSI6IjE0ODUxMzQ0NDMzNDgzIn0%3D)
 
 ## Collections
 
 - [Blituri studio](https://www.photosetup.ro/collections/blituri-profesionale): Blituri profesionale de studio: Hensel, Godox, Quadralite si altele. Putere si fiabilitate pentru fotografii pro la Photosetup.
-  Updated: 2026-10-29T13:14:12Z
-  Total Products: 85
+  Updated: 2026-11-07T09:04:01Z
+  Total Products: 86
 - [Softboxuri](https://www.photosetup.ro/collections/softboxuri)
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:43:43Z
   Total Products: 90
 - [Panouri si cadre](https://www.photosetup.ro/collections/panouri-si-cadre): Panouri si cadre pentru modelat lumina de studio: difuzie, reflectie, negativ. Solutii pro la Photosetup.
-  Updated: 2026-10-29T21:59:13Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 87
 - [Capete trepiede foto](https://www.photosetup.ro/collections/capete-trepiede-foto): Capete trepiede foto: ball head, gear head, gimbal head. Solutii profesionale Manfrotto, Gitzo, la Photosetup.
-  Updated: 2026-10-31T02:14:46Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 36
 - [Trepiede si monopiede  foto](https://www.photosetup.ro/collections/trepiede-si-monopiede-foto): Trepiede si monopiede foto profesionale: stabilitate si mobilitate. Top branduri disponibile la Photosetup.
-  Updated: 2026-11-01T14:31:20Z
+  Updated: 2026-11-08T15:53:55Z
   Total Products: 274
 - [Fundaluri foto video](https://www.photosetup.ro/collections/fundaluri-foto-video): Fundaluri foto-video pentru studio: carton, panza, vinil, PVC. Selectie completa pentru orice nevoie la Photosetup.
-  Updated: 2026-11-01T22:47:50Z
+  Updated: 2026-11-08T16:11:45Z
   Total Products: 337
 - [Suport fundaluri](https://www.photosetup.ro/collections/suport-fundaluri): Suporturi pentru fundaluri foto-video: sisteme cu rola si pliabile. Stabilitate de studio la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 53
 - [Blituri externe pentru aparate](https://www.photosetup.ro/collections/blituri-externe-pentru-aparate): Blituri externe pentru aparate foto: TTL, manuale, wireless. Lumina puternica si controlata de la Photosetup.
-  Updated: 2026-11-01T13:40:12Z
+  Updated: 2026-11-08T21:50:26Z
   Total Products: 82
 - [Accesorii prindere](https://www.photosetup.ro/collections/accesorii-prindere): Accesorii de prindere pentru echipamente foto-video. Cleme, brate articulate si suporturi profesionale disponibile la Photosetup.
-  Updated: 2026-10-31T09:02:53Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 45
 - [Corturi foto](https://www.photosetup.ro/collections/corturi-foto): Corturi foto pentru fotografie de produs: iluminare difuza profesionala. Solutii practice la Photosetup.
   Updated: 2026-09-30T06:00:31Z
   Total Products: 10
 - [Fundaluri PVC](https://www.photosetup.ro/collections/fundaluri-pvc): Fundaluri PVC pentru studio: usor de curatat, lucioase sau mate, multiple culori. In stoc la Photosetup.
-  Updated: 2026-10-29T22:31:23Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 18
 - [Accesorii blituri](https://www.photosetup.ro/collections/accesorii-blituri): Accesorii blituri foto: softboxuri, snoot-uri, grid-uri si difuzoare. Modeleaza lumina perfecta cu echipamente Photosetup. Stoc disponibil.
-  Updated: 2026-10-29T11:22:40Z
+  Updated: 2026-11-05T12:35:25Z
   Total Products: 49
 - [Accesorii si piese de schimb](https://www.photosetup.ro/collections/accesorii-si-piese-de-schimb): Accesorii si piese de schimb pentru echipamente foto-video. Reparatii rapide si upgrade-uri cu piese originale de la Photosetup.
-  Updated: 2026-10-20T02:35:48Z
+  Updated: 2026-11-04T00:22:23Z
   Total Products: 75
 - [Declansatoare blitz-uri foto](https://www.photosetup.ro/collections/declansatoare-blitz-uri-foto): Declansatoare wireless pentru blituri foto: TTL si manuale. Sincronizare perfecta cu solutii Godox, Pocket Wizard, la Photosetup.
-  Updated: 2026-11-01T14:38:30Z
+  Updated: 2026-11-08T02:30:11Z
   Total Products: 50
 - [Fundaluri carton](https://www.photosetup.ro/collections/fundaluri-carton): Fundaluri din carton pentru studio foto: uniforme, mate, multiple culori. Calitate Colorama si altele la Photosetup.
-  Updated: 2026-11-01T21:39:56Z
+  Updated: 2026-11-08T12:59:36Z
   Total Products: 149
 - [Genti si rucsacuri foto](https://www.photosetup.ro/collections/genti-si-rucsacuri-foto): Genti si rucsacuri foto-video profesionale: protectie maxima pentru aparate si obiective. Top branduri la Photosetup.
-  Updated: 2026-11-01T07:01:48Z
+  Updated: 2026-11-08T18:24:06Z
   Total Products: 323
 - [Genti](https://www.photosetup.ro/collections/genti): Genti foto-video pentru transport sigur al echipamentului. Lowepro, Manfrotto, Gomatic si altele, la Photosetup.
-  Updated: 2026-11-01T06:09:36Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 90
 - [Alte tipuri de huse](https://www.photosetup.ro/collections/alte-tipuri-de-huse): Huse de protectie pentru echipamente foto-video: aparate, obiective, accesorii. Transport sigur garantat de Photosetup.
-  Updated: 2026-10-31T02:14:47Z
+  Updated: 2026-11-08T17:47:20Z
   Total Products: 50
 - [Huse trepiede si lumini](https://www.photosetup.ro/collections/huse-trepiede-si-lumini): Huse pentru transport trepide si lumini de studio. Protectie totala in deplasare, solutii la Photosetup.
-  Updated: 2026-11-01T06:53:39Z
+  Updated: 2026-11-03T23:42:17Z
   Total Products: 34
 - [Curatare aparate si obiective](https://www.photosetup.ro/collections/curatare-aparate-si-obiective): Solutii de curatare pentru aparate foto si obiective: lavete, kituri, spray. Intretinere profesionala la Photosetup.
-  Updated: 2026-11-01T14:18:28Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 66
 - [Rucsacuri](https://www.photosetup.ro/collections/rucsacuri): Rucsacuri foto-video pentru transport echipament: compartimente personalizabile, protectie maxima. La Photosetup.
-  Updated: 2026-10-31T11:19:15Z
+  Updated: 2026-11-08T13:34:18Z
   Total Products: 114
 - [Accesorii stabilizatoare](https://www.photosetup.ro/collections/accesorii-stabilizatoare): Accesorii pentru stabilizatoare si gimbal-uri: baterii, prinderi, contragreutati. Optimizeaza-ti rig-ul cu Photosetup.
-  Updated: 2026-10-29T21:59:09Z
+  Updated: 2026-11-03T23:55:05Z
   Total Products: 62
 - [Filtre foto](https://www.photosetup.ro/collections/filtre-foto): Filtre foto profesionale: UV, ND, polarizare, GND. Imbunatateste-ti imaginile cu filtre Schneider, NiSi, Kase la Photosetup.
-  Updated: 2026-11-01T21:27:56Z
+  Updated: 2026-11-08T12:40:59Z
   Total Products: 251
 - [Filtre filet](https://www.photosetup.ro/collections/filtre-filet): Filtre foto cu filet pentru obiective: UV, ND, polarizare, color. Calitate optica de la branduri top la Photosetup.
-  Updated: 2026-11-01T21:27:15Z
+  Updated: 2026-11-08T12:36:22Z
   Total Products: 199
 - [Sisteme suspendate pentru prindere lumini](https://www.photosetup.ro/collections/sisteme-suspendate-pentru-prindere-lumini): Sisteme suspendate pentru prinderea luminilor de studio. Workflow profesional la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:38:34Z
   Total Products: 31
 - [Obiective Foto Video](https://www.photosetup.ro/collections/obiective-foto-video): Obiective foto-video profesionale: prime, zoom, telephoto, wide. Toata gama pentru orice montura la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T22:40:21Z
   Total Products: 429
 - [Blitz-uri externe](https://www.photosetup.ro/collections/blitz-uri-externe): Blitz-uri externe pentru aparate foto: solutii TTL si manuale. Disponibile cu livrare rapida de la Photosetup.
-  Updated: 2026-11-01T15:31:37Z
+  Updated: 2026-11-08T21:53:27Z
   Total Products: 226
 - [Curele camere foto](https://www.photosetup.ro/collections/curele-camere-foto): Curele pentru camere foto: piele, neopren, paracord. Confort si stil de la Peak Design, BlackRapid si altele, la Photosetup.
-  Updated: 2026-11-01T07:01:48Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 41
 - [Gimbal](https://www.photosetup.ro/collections/gimbal): Stabilizatoare gimbal pentru camere foto-video si smartphone. DJI, Zhiyun, Hohem si altele, disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:55:10Z
   Total Products: 82
 - [Teleconvertoare](https://www.photosetup.ro/collections/teleconvertoare): Teleconvertoare pentru obiective foto-video: mareste lungimea focala. 1.4x, 2x originale la Photosetup.
-  Updated: 2026-07-08T05:53:02Z
+  Updated: 2026-11-07T02:31:55Z
   Total Products: 10
 - [Acumulatori si incarcatoare](https://www.photosetup.ro/collections/acumulatori-si-incarcatoare): Acumulatori si incarcatoare pentru aparate foto-video. Solutii fiabile de alimentare, originale si compatibile, la Photosetup.
-  Updated: 2026-11-01T13:37:22Z
+  Updated: 2026-11-08T15:26:07Z
   Total Products: 242
 - [Carduri memorie](https://www.photosetup.ro/collections/carduri-memorie): Carduri de memorie SD, microSD, CFexpress pentru foto-video. Branduri SanDisk, Lexar, Kingston, in stoc la Photosetup.
-  Updated: 2026-10-31T11:19:15Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 79
 - [Accesorii Smartphone](https://www.photosetup.ro/collections/accesorii-smartphone): Accesorii smartphone pentru creatori de continut: lentile, grip-uri, microfoane si lumini. Transforma telefonul in instrument pro la Photosetup.
-  Updated: 2026-11-01T18:12:11Z
+  Updated: 2026-11-09T00:16:20Z
   Total Products: 57
 - [Accesorii obiective](https://www.photosetup.ro/collections/accesorii-obiective): Accesorii obiective foto-video: parasolare, capace, inele de reductie si adaptoare. Protejeaza-ti opticile cu accesorii Photosetup.
-  Updated: 2026-10-29T07:01:51Z
+  Updated: 2026-11-07T02:32:28Z
   Total Products: 34
 - [Camere Video](https://www.photosetup.ro/collections/camere-video): Camere video profesionale: cinematice, broadcasting, content creation. Top branduri disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-09T00:30:07Z
   Total Products: 171
 - [Lumini foto-video](https://www.photosetup.ro/collections/lumini-foto-video): Lumini foto-video profesionale: blituri, LED continue, panouri. Selectie premium de la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T23:26:56Z
   Total Products: 299
 - [Aparate Foto](https://www.photosetup.ro/collections/aparate-foto): Aparate foto profesionale si entry-level: mirrorless, DSLR, compact si instant. Top branduri cu livrare rapida la Photosetup.
-  Updated: 2026-11-02T00:01:10Z
-  Total Products: 373
+  Updated: 2026-11-08T20:33:39Z
+  Total Products: 374
 - [Microfoane](https://www.photosetup.ro/collections/microfoane): Microfoane profesionale pentru video, podcast si studio: lavaliere, shotgun, condensator. Top branduri la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 206
 - [Slidere](https://www.photosetup.ro/collections/slidere)
-  Updated: 2026-09-20T13:01:22Z
+  Updated: 2026-11-03T22:01:55Z
   Total Products: 14
 - [Telecomenzi](https://www.photosetup.ro/collections/telecomenzi): Telecomenzi pentru aparate foto si camere video: cu fir, wireless, intervalometre. Disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-03T22:01:43Z
   Total Products: 7
 - [Grip-uri](https://www.photosetup.ro/collections/grip-uri): Grip-uri pentru camere video si rig-uri: prindere ferma, control mai bun. Solutii SmallRig si altele la Photosetup.
   Updated: 2026-10-13T02:36:55Z
   Total Products: 12
 - [Obiective Cinematice](https://www.photosetup.ro/collections/obiective-cinematice): Obiective cinematice pentru film: cine prime si zoom-uri profesionale. Calitate cinema la Photosetup.
-  Updated: 2026-10-31T06:12:46Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 30
 - [Fundaluri din panza](https://www.photosetup.ro/collections/fundaluri-din-panza): Fundaluri din panza pentru fotografie de studio: textura naturala, calitate profesionala, disponibile la Photosetup.
-  Updated: 2026-10-29T22:32:12Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 26
 - [Fundaluri pliabile](https://www.photosetup.ro/collections/fundaluri-pliabile): Fundaluri pliabile pop-up: portabile, usor de transportat, pentru shooting on-location. Disponibile la Photosetup.
-  Updated: 2026-10-08T21:35:25Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 69
 - [Acumulatori si incarcatoare AA/AAA](https://www.photosetup.ro/collections/acumulatori-si-incarcatoare-aa-aaa): Acumulatori si incarcatoare AA si AAA reincarcabile, ideale pentru blituri si accesorii foto-video. Disponibile la Photosetup.
-  Updated: 2026-09-01T11:31:26Z
+  Updated: 2026-11-07T12:26:05Z
   Total Products: 26
 - [Monitoare](https://www.photosetup.ro/collections/monitoare): Monitoare foto-video profesionale: de teren si de studio. Calibrare precisa pentru workflow pro la Photosetup.
-  Updated: 2026-10-28T12:16:11Z
+  Updated: 2026-11-08T13:13:04Z
   Total Products: 59
 - [Fundaluri Vinil](https://www.photosetup.ro/collections/fundaluri-vinil): Fundaluri vinil pentru studio foto-video: durabile, ușor de intretinut, multiple culori. Disponibile la Photosetup.
   Updated: 2026-10-15T02:15:01Z
   Total Products: 3
 - [Camera Cage](https://www.photosetup.ro/collections/camera-cage): Camera cage-uri pentru protectia si extinderea camerei video. SmallRig, Manfrotto si altele, in stoc la Photosetup.
-  Updated: 2026-11-01T07:01:40Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 122
 - [Aparate foto Mirrorless](https://www.photosetup.ro/collections/aparate-foto-mirrorless): În această categorie găsești aparate foto mirrorless de la branduri renumite precum Sony, Canon, Nikon, Fujifilm sau Panasonic, potrivite atât pentru începători, cât și pentru fotografi avansați.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T23:54:48Z
   Total Products: 188
 - [Camere de actiune si drone](https://www.photosetup.ro/collections/camere-de-actiune-si-drone): Camere de actiune si drone GoPro, DJI, Insta360. Aventura aeriana si terestra capturata perfect, la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-09T01:25:49Z
   Total Products: 182
 - [Suporturi magnetice](https://www.photosetup.ro/collections/suporturi-magnetice): Suporturi magnetice pentru accesorii foto-video. Montare rapida si securizata cu Photosetup.
   Updated: 2026-09-25T12:43:27Z
   Total Products: 8
 - [Filtre patrate](https://www.photosetup.ro/collections/filtre-patrate): Filtre patrate pentru fotografie: GND, ND, polarizare. Sistem holder cu filtre 100mm si 150mm, la Photosetup.
-  Updated: 2026-09-25T15:31:38Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 7
 - [Fundaluri translucente](https://www.photosetup.ro/collections/fundaluri-translucente): Fundaluri translucente pentru iluminare din spate (backlight). Solutii creative pentru studio la Photosetup.
-  Updated: 2026-06-30T21:00:37Z
+  Updated: 2026-11-03T22:01:58Z
   Total Products: 6
 - [Camera burduf Cambo](https://www.photosetup.ro/collections/camera-burduf-cambo): Camere foto burduf Cambo pentru fotografie tehnica si profesionala. Echipamente specializate la Photosetup.
   Updated: 2026-06-02T19:02:55Z
   Total Products: 6
 - [Bundle](https://www.photosetup.ro/collections/bundle): Bundle-uri foto-video Photosetup: pachete complete cu economii reale. Echipare rapida cu produse compatibile.
-  Updated: 2026-10-31T22:00:13Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 101
 - [Lumini si blituri](https://www.photosetup.ro/collections/lumini-si-blituri): Lumini si blituri pentru fotografie si video: top branduri profesionale. Toata gama disponibila la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
-  Total Products: 639
+  Updated: 2026-11-08T23:29:17Z
+  Total Products: 640
 - [Accesorii aparate foto](https://www.photosetup.ro/collections/accesorii-aparate-foto): Accesorii aparate foto la Photosetup: curele, gripuri, protectii LCD si multe altele. Livrare rapida din stoc + showroom Bucuresti.
-  Updated: 2026-11-01T21:26:25Z
+  Updated: 2026-11-08T23:26:30Z
   Total Products: 1468
 - [Accesorii camere video](https://www.photosetup.ro/collections/accesorii-camere-video): Accesorii camere video: cage-uri, suporturi, carduri, baterii si gripuri. Echipeaza-ti complet camera video cu Photosetup.
-  Updated: 2026-11-01T07:01:46Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 371
 - [Monopiede video fluide](https://www.photosetup.ro/collections/monopiede-video-fluide): Monopiede video cu cap fluid: stabilitate mobila pentru filmari rapide. Disponibile la Photosetup.
-  Updated: 2026-10-28T02:14:00Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 10
 - [Capete video](https://www.photosetup.ro/collections/capete-video): Capete video fluide pentru trepiede: panning si tilting smooth. Selectie pro pentru filmari fine, la Photosetup.
   Updated: 2026-10-16T02:38:23Z
   Total Products: 11
 - [Trepiede si monopiede video](https://www.photosetup.ro/collections/trepiede-si-monopiede-video): Trepiede si monopiede video cu cap fluid: panning si tilting perfect. Manfrotto, Sachtler la Photosetup.
-  Updated: 2026-11-01T07:01:46Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 94
 - [Trepiede](https://www.photosetup.ro/collections/trepiede): Trepiede foto-video profesionale: Manfrotto, Gitzo, Sirui. Stabilitate maxima pentru orice shooting la Photosetup.
-  Updated: 2026-11-01T14:29:26Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 90
 - [Minitrepiede](https://www.photosetup.ro/collections/minitrepiede): Minitrepide pentru aparate foto si camere de actiune: portabile, versatile. Joby, Manfrotto si altele la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T13:12:28Z
   Total Products: 36
 - [Stabilizatoare](https://www.photosetup.ro/collections/stabilizatoare): Stabilizatoare gimbal pentru camere foto-video: 3-axis fluide. DJI, Zhiyun, Moza si altele la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-07T12:26:05Z
   Total Products: 141
 - [Console control lumini](https://www.photosetup.ro/collections/console-control-lumini): Console de control pentru lumini de studio si scena. Solutii DMX profesionale disponibile la Photosetup.
   Updated: 2026-06-02T19:02:57Z
   Total Products: 2
 - [Camere cinematice](https://www.photosetup.ro/collections/camere-cinematice): Camere cinematice pentru film si productii premium: Blackmagic, RED, ARRI. Calitate cinema la Photosetup.
-  Updated: 2026-10-31T21:59:25Z
+  Updated: 2026-11-07T12:26:04Z
   Total Products: 29
 - [Camere Broadcasting ENG](https://www.photosetup.ro/collections/camere-broadcasting-eng): Camere broadcasting si ENG profesionale pentru TV si productii video. Solutii broadcast complete la Photosetup.
-  Updated: 2026-09-24T21:22:26Z
+  Updated: 2026-11-05T17:50:14Z
   Total Products: 14
 - [Recordere audio](https://www.photosetup.ro/collections/recordere-audio): Recordere audio portabile si de studio: Zoom, Tascam, Sound Devices. Inregistrari pro la Photosetup.
-  Updated: 2026-11-01T07:02:25Z
+  Updated: 2026-11-07T12:26:05Z
   Total Products: 26
 - [Recordere video](https://www.photosetup.ro/collections/recordere-video): Recordere video externe pentru camere: 4K, ProRes, RAW. Atomos si altele profesionale la Photosetup.
   Updated: 2026-08-20T02:36:49Z
   Total Products: 7
 - [Lavaliere](https://www.photosetup.ro/collections/lavaliere): Microfoane lavaliera cu fir si wireless pentru filmari profesionale. Rode, Sennheiser si altele la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 112
 - [Adaptoare obiective](https://www.photosetup.ro/collections/adaptoare-obiective): Adaptoare obiective pentru montura aparatului tau foto. Foloseste opticile preferate pe orice body, cu adaptoare de la Photosetup.
-  Updated: 2026-10-29T07:01:51Z
+  Updated: 2026-11-03T22:01:13Z
   Total Products: 18
 - [Accesorii diverse trepiede](https://www.photosetup.ro/collections/accesorii-diverese-trepiede): Accesorii diverse pentru trepiede foto-video: piese de schimb, placute rapide, adaptoare. Solutii complete oferite de Photosetup.
-  Updated: 2026-10-31T07:01:42Z
+  Updated: 2026-11-04T12:24:02Z
   Total Products: 42
 - [Obiective foto Mirrorless](https://www.photosetup.ro/collections/obiective-foto-mirrorless): Obiective foto pentru aparate mirrorless: Canon RF, Sony E, Nikon Z. Top branduri Sigma, Tamron, Samyang la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T22:39:37Z
   Total Products: 390
 - [Echipamente audio](https://www.photosetup.ro/collections/echipamente-audio): Echipamente audio profesionale: microfoane, recordere, mixere, casti, boxe monitor. Selectie completa la Photosetup.
-  Updated: 2026-11-01T13:08:25Z
+  Updated: 2026-11-08T12:31:07Z
   Total Products: 603
 - [Lumina continua](https://www.photosetup.ro/collections/lumina-continua): Lumini continue LED pentru foto-video: panouri, COB, tube. Aputure, Godox si altele profesionale la Photosetup.
-  Updated: 2026-11-01T13:32:21Z
+  Updated: 2026-11-08T14:10:54Z
   Total Products: 408
 - [Stative lumini](https://www.photosetup.ro/collections/stative-lumini): Stative pentru lumini de studio: usoare si robuste, ajustabile in inaltime. Manfrotto si altele la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 153
 - [Alte accesorii](https://www.photosetup.ro/collections/alte-accesorii): Alte accesorii foto-video utile pentru workflow-ul tau. Solutii diverse si neasteptate descoperite la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-06T02:39:37Z
   Total Products: 38
 - [Alte accesorii](https://www.photosetup.ro/collections/alte-accesorii-1): Accesorii foto-video diverse pentru nevoile tale specifice. Descopera articole utile si echipamente la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-07T02:32:28Z
   Total Products: 38
 - [Acumulatori dedicati](https://www.photosetup.ro/collections/acumulatori-dedicati): Acumulatori dedicati pentru aparate foto si camere video. Baterii originale si compatibile de top, in stoc la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 121
 - [Incarcatoare dedicate](https://www.photosetup.ro/collections/incarcatoare-dedicate): Incarcatoare dedicate pentru baterii aparate foto-video. Originale si compatibile la Photosetup.
-  Updated: 2026-10-31T13:45:39Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 89
 - [Accesorii/Bounce](https://www.photosetup.ro/collections/accesorii-bounce): Accesorii bounce pentru reflectarea luminii: panouri, brate, prinderi. Solutii profesionale pentru iluminare, disponibile la Photosetup.
-  Updated: 2026-10-08T21:42:55Z
+  Updated: 2026-11-07T12:37:23Z
   Total Products: 50
 - [Medii de stocare](https://www.photosetup.ro/collections/medii-de-stocare): Medii de stocare pentru foto-video: SSD-uri, HDD-uri, carduri memorie. Stocare sigura la Photosetup.
-  Updated: 2026-10-31T11:19:15Z
+  Updated: 2026-11-08T20:51:12Z
   Total Products: 124
 - [Cititoare de card](https://www.photosetup.ro/collections/cititoare-de-card): Cititoare de card SD, microSD, CFexpress, CFast. Transfer rapid de date pentru foto-video la Photosetup.
-  Updated: 2026-10-31T09:02:52Z
+  Updated: 2026-11-07T12:26:04Z
   Total Products: 20
 - [Memorii externe](https://www.photosetup.ro/collections/memorii-externe): Memorii externe SSD pentru foto-video: viteza mare, fiabile pentru editare 4K. Disponibile la Photosetup.
-  Updated: 2026-09-30T14:44:24Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 16
 - [Solutii de curatare](https://www.photosetup.ro/collections/solutii-de-curatare): Solutii profesionale de curatare pentru aparate, obiective si senzori foto. Mentine echipamentul ca nou cu Photosetup.
-  Updated: 2026-11-01T14:18:28Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 49
 - [Camere videoconferinta PTZ](https://www.photosetup.ro/collections/camere-videoconferinta-ptz): Camere PTZ pentru videoconferinte si streaming profesional. Solutii broadcast complete disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 87
 - [Trepiede video](https://www.photosetup.ro/collections/trepiede-video): Trepiede video profesionale cu cap fluid: stabilitate cinema. Selectie pro la Photosetup.
-  Updated: 2026-11-01T07:01:46Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 52
 - [Slider](https://www.photosetup.ro/collections/slider): Slidere video pentru miscari fluide ale camerei. Tracking shots cinematice cu solutii Photosetup.
-  Updated: 2026-06-30T21:02:25Z
+  Updated: 2026-11-03T22:01:55Z
   Total Products: 14
 - [Macarale video](https://www.photosetup.ro/collections/macarale-video): Macarale video (jib-uri) pentru filmari spectaculoase. Miscari fluide si cadre dinamice, disponibile la Photosetup.
   Updated: 2026-06-02T19:03:02Z
   Total Products: 2
 - [Macarale Video Kit](https://www.photosetup.ro/collections/macarale-video-kit): Kit-uri macarale video complete: brat, contragreutati, cap fluid. Solutii la cheie de la Photosetup.
-  Updated: 2026-06-02T19:03:02Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 2
 - [Capete macarale](https://www.photosetup.ro/collections/capete-macarale): Capete pentru macarale video: panoramare fluida si remote control. Solutii broadcast la Photosetup.
   Updated: 2026-05-12T13:34:16Z
   Total Products: 0
 - [Alte accesorii](https://www.photosetup.ro/collections/alte-accesorii-2): Accesorii foto-video selectate pentru creatori si profesionisti. Solutii practice disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-06T02:39:37Z
   Total Products: 38
 - [Cabluri si adaptoare microfoane](https://www.photosetup.ro/collections/cabluri-si-adaptoare-microfoane): Cabluri si adaptoare pentru microfoane: XLR, jack, mini-jack. Conexiuni audio profesionale la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 58
 - [Cabluri, conectica](https://www.photosetup.ro/collections/cabluri-conectica): Cabluri si conectica pentru echipamente foto-video-audio: HDMI, SDI, XLR, USB. Conectivitate fiabila la Photosetup.
-  Updated: 2026-10-29T23:05:23Z
+  Updated: 2026-11-08T12:28:33Z
   Total Products: 71
 - [Monitoare de teren](https://www.photosetup.ro/collections/monitoare-de-teren): Monitoare de teren pentru camere video: portabile, vizibile in lumina puternica. Atomos, Feelworld la Photosetup.
-  Updated: 2026-10-28T12:17:49Z
+  Updated: 2026-11-08T13:15:35Z
   Total Products: 34
 - [Brate de prindere monitoare](https://www.photosetup.ro/collections/brate-de-prindere-monitoare): Brate de prindere pentru monitoare foto-video: ajustabile, robuste. Mounting profesional disponibil la Photosetup.
-  Updated: 2026-10-27T07:00:10Z
+  Updated: 2026-11-03T22:00:44Z
   Total Products: 9
 - [Blitz-uri portabile](https://www.photosetup.ro/collections/blitz-uri-portabile): Blitz-uri portabile pentru fotografi pe drum: putere mare, alimentare cu baterie. Mobilitate totala la Photosetup.
-  Updated: 2026-10-22T20:59:09Z
-  Total Products: 35
+  Updated: 2026-11-07T06:07:12Z
+  Total Products: 36
 - [Becuri si consumabile](https://www.photosetup.ro/collections/becuri-si-consumabile): Becuri si consumabile pentru lumini de studio foto-video. Inlocuiri rapide, branduri profesionale, in stoc la Photosetup.
-  Updated: 2026-10-21T11:24:26Z
+  Updated: 2026-11-05T19:48:56Z
   Total Products: 10
 - [Dimmere](https://www.photosetup.ro/collections/dimmere): Dimmere pentru lumini de studio foto-video. Control precis al intensitatii luminoase, disponibile la Photosetup.
   Updated: 2026-06-02T19:03:03Z
   Total Products: 2
 - [Sisteme sine suspendate kit](https://www.photosetup.ro/collections/sisteme-sine-suspendate-kit): Kit-uri sisteme sine suspendate pentru studio: prindere lumini de tavan. Solutii pro la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T13:38:11Z
   Total Products: 22
 - [Accesorii prindere lumini](https://www.photosetup.ro/collections/accesorii-prindere-lumini): Accesorii pentru prinderea luminilor de studio: cleme, brate, adaptoare si suporturi. Solutii profesionale la Photosetup.
-  Updated: 2026-10-28T11:25:00Z
+  Updated: 2026-11-07T12:26:04Z
   Total Products: 11
 - [Menghine si brate articulate](https://www.photosetup.ro/collections/menghine-si-brate-articulate): Menghine si brate articulate pentru montat accesorii foto-video. Solutii flexibile la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T14:08:07Z
   Total Products: 167
 - [Cadre si Panze](https://www.photosetup.ro/collections/cadre-si-panze): Cadre si panze pentru modelat lumina in studio foto-video. Solutii de difuzare profesionale, in stoc la Photosetup.
-  Updated: 2026-10-15T02:15:01Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 25
 - [Solutii LIVE si Broadcasting](https://www.photosetup.ro/collections/solutii-live-si-broadcasting): Solutii live streaming si broadcasting: mixere, encoder-e, camere PTZ. Productii pro la cheie la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:42:11Z
   Total Products: 272
 - [Solutii Live si TV Online](https://www.photosetup.ro/collections/solutii-live-si-tv-online): Solutii pentru live si TV online: echipamente broadcast complete. De la camera la transmisiune, la Photosetup.
-  Updated: 2026-09-22T02:35:13Z
+  Updated: 2026-11-07T02:32:43Z
   Total Products: 20
 - [Mixere video](https://www.photosetup.ro/collections/mixere-video): Mixere video pentru productii multicam si live streaming. Blackmagic ATEM si alte solutii pro la Photosetup.
-  Updated: 2026-10-22T20:59:10Z
+  Updated: 2026-11-03T22:02:13Z
   Total Products: 25
 - [Placi de captura](https://www.photosetup.ro/collections/placi-de-captura): Placi de captura video pentru streaming, recording si live broadcasting. Elgato, Blackmagic la Photosetup.
-  Updated: 2026-09-25T12:50:28Z
+  Updated: 2026-11-06T12:22:41Z
   Total Products: 30
 - [Teleprompter](https://www.photosetup.ro/collections/teleprompter): Teleprompter-e pentru filmari profesionale si prezentari. Lectura naturala in fata camerei, la Photosetup.
   Updated: 2026-10-26T11:28:11Z
   Total Products: 17
 - [Intercom](https://www.photosetup.ro/collections/intercom): Sisteme intercom pentru productii video si live broadcasting. Hollyland si altele, in stoc la Photosetup.
-  Updated: 2026-07-13T11:43:11Z
+  Updated: 2026-11-03T22:02:17Z
   Total Products: 6
 - [Monitoare de studio](https://www.photosetup.ro/collections/monitoare-de-studio): Monitoare de studio pentru video editing si grading: calibrare profesionala. Top branduri la Photosetup.
   Updated: 2026-08-04T02:14:24Z
   Total Products: 16
 - [Monitoare](https://www.photosetup.ro/collections/monitoare-1): Monitoare foto-video pentru productie si editare. Calitate cromatica garantata de Photosetup.
-  Updated: 2026-10-28T12:14:13Z
+  Updated: 2026-11-08T13:11:18Z
   Total Products: 59
 - [Accesorii monitoare](https://www.photosetup.ro/collections/accesorii-monitoare): Accesorii monitoare foto-video: prinderi, parasolare, cabluri si suporturi. Imbunatateste-ti workflow-ul cu echipamente Photosetup.
   Updated: 2026-05-12T13:34:10Z
   Total Products: 0
 - [Convertoare HDMI/SDI](https://www.photosetup.ro/collections/convertoare-hdmi-sdi): Convertoare HDMI-SDI si SDI-HDMI pentru productii video si broadcast. Blackmagic si altele, in stoc la Photosetup.
-  Updated: 2026-10-08T20:59:15Z
+  Updated: 2026-11-03T23:31:05Z
   Total Products: 64
 - [Router Transmisiuni Live](https://www.photosetup.ro/collections/router-transmisiuni-live): Routere si solutii de transmisiune pentru live streaming. Conexiuni stabile pentru productii pro la Photosetup.
-  Updated: 2026-10-29T21:59:08Z
+  Updated: 2026-11-03T22:02:20Z
   Total Products: 24
 - [Telecomenzi camere video](https://www.photosetup.ro/collections/telecomenzi-camere-video): Telecomenzi pentru camere video: control la distanta, follow focus. Solutii pro la Photosetup.
   Updated: 2026-08-19T06:47:51Z
   Total Products: 4
 - [Camere Video](https://www.photosetup.ro/collections/camere-video-1): Camere video pentru filmari profesionale: 4K, 6K, 8K, slow motion. Selectie completa la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-09T00:30:12Z
   Total Products: 163
 - [Gripuri aparate foto](https://www.photosetup.ro/collections/gripuri-aparate-foto): Grip-uri verticale pentru aparate foto: autonomie dubla si ergonomie portret. Disponibile la Photosetup.
   Updated: 2026-10-15T02:14:58Z
   Total Products: 12
 - [Accesorii de studio](https://www.photosetup.ro/collections/accesorii-de-studio): Accesorii de studio foto-video: stative, brate, prinderi si modelatoare de lumina. Construieste studio-ul perfect cu Photosetup.
-  Updated: 2026-11-01T22:58:21Z
+  Updated: 2026-11-08T21:05:23Z
   Total Products: 764
 - [Modelatoare blitz si  lumini](https://www.photosetup.ro/collections/modelatoare-blitz-si-lumini): Modelatoare pentru blituri si lumini: softbox-uri, beauty dish, snoot, grid-uri. Modeleaza lumina la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:13:59Z
   Total Products: 139
 - [Umbrele foto](https://www.photosetup.ro/collections/umbrele-foto): Umbrele foto pentru lumina difuza in studio: reflective, translucente, deep. Modeleaza lumina la Photosetup.
-  Updated: 2026-10-29T02:15:36Z
+  Updated: 2026-11-05T18:43:16Z
   Total Products: 13
 - [Reflectoare](https://www.photosetup.ro/collections/reflectoare): Reflectoare pentru lumini de studio foto: standard, beauty dish, parabolice. Modeleaza lumina la Photosetup.
-  Updated: 2026-10-31T02:14:48Z
+  Updated: 2026-11-05T17:53:08Z
   Total Products: 30
 - [Echipamente Vlogging](https://www.photosetup.ro/collections/echipamente-vlogging): Echipamente vlogging complete: camere, microfoane, lumini, trepide. Kit-ul ideal pentru creatori la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T20:06:31Z
   Total Products: 65
 - [Solutii creatori continut](https://www.photosetup.ro/collections/solutii-creatori-continut): Solutii complete pentru creatorii de continut: kit-uri vlog, streaming, podcasting. Echipare la cheie la Photosetup.
-  Updated: 2026-10-31T21:59:16Z
+  Updated: 2026-11-08T13:39:57Z
   Total Products: 54
 - [Placute rapide](https://www.photosetup.ro/collections/placute-rapide): Placute rapide (quick release) pentru capete trepiede foto-video. Standard Arca-Swiss si altele la Photosetup.
-  Updated: 2026-10-31T02:14:48Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 20
 - [Chroma Key](https://www.photosetup.ro/collections/chroma-key): Fundaluri si solutii chroma key (green screen) pentru productii video si streaming. Echipamente pro la Photosetup.
   Updated: 2026-05-12T13:34:17Z
@@ -1244,22 +1244,22 @@
   Updated: 2026-09-25T12:54:26Z
   Total Products: 7
 - [Placa de captura interna](https://www.photosetup.ro/collections/placa-de-captura-interna): Placi de captura interne (PCIe) pentru workstation video. Capture profesional 4K si 8K la Photosetup.
-  Updated: 2026-09-25T12:50:28Z
+  Updated: 2026-11-06T12:22:41Z
   Total Products: 17
 - [Placa de captura externa](https://www.photosetup.ro/collections/placa-de-captura-externa): Placi de captura externe pentru live streaming si video capture. Elgato si altele, in stoc la Photosetup.
-  Updated: 2026-09-25T12:50:28Z
+  Updated: 2026-11-06T12:22:41Z
   Total Products: 15
 - [Placute incarcatoare interschimbabile](https://www.photosetup.ro/collections/placute-incarcatoare-interschimbabile): Placute interschimbabile pentru incarcatoare baterii. Solutii multi-baterii la Photosetup.
-  Updated: 2026-10-21T12:27:15Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 9
 - [Aparate foto instant](https://www.photosetup.ro/collections/aparate-foto-instant): Aparate foto instant Fujifilm Instax, Polaroid si altele. Imprima imediat amintirile, in stoc la Photosetup.
-  Updated: 2026-10-28T12:55:34Z
+  Updated: 2026-11-07T02:32:28Z
   Total Products: 81
 - [Stative coloana](https://www.photosetup.ro/collections/stative-coloana): Stative coloana pentru studio foto-video: rezistente, ajustabile. Pentru lumini grele si accesorii la Photosetup.
-  Updated: 2026-10-15T02:14:58Z
+  Updated: 2026-11-03T22:01:36Z
   Total Products: 8
 - [Fundaluri panoramice](https://www.photosetup.ro/collections/fundaluri-panoramice): Fundaluri panoramice pentru studio mare: rola lata, uniformitate perfecta. Calitate Colorama la Photosetup.
-  Updated: 2026-10-22T21:14:54Z
+  Updated: 2026-11-03T22:01:56Z
   Total Products: 13
 - [Software editare](https://www.photosetup.ro/collections/software-editare)
   Updated: 2026-06-02T19:03:10Z
@@ -1268,151 +1268,151 @@
   Updated: 2026-09-25T12:54:26Z
   Total Products: 6
 - [Protectii vant microfoane](https://www.photosetup.ro/collections/protectii-vant-microfoane): Protectii vant (deadcat, blimp) pentru microfoane shotgun si lavaliera. Sunet curat outdoor la Photosetup.
-  Updated: 2026-11-01T14:15:53Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 78
 - [Shock-mount](https://www.photosetup.ro/collections/shock-mount): Shock mount-uri pentru microfoane: izoleaza vibratiile, sunet curat. Solutii Rycote si altele la Photosetup.
-  Updated: 2026-10-28T11:25:00Z
+  Updated: 2026-11-05T16:04:30Z
   Total Products: 19
 - [Studio Virtual](https://www.photosetup.ro/collections/studio-virtual): Solutii pentru studio virtual: chroma key, lumini, software. Productii moderne cu echipamente Photosetup.
-  Updated: 2026-09-22T02:35:16Z
+  Updated: 2026-11-07T02:32:37Z
   Total Products: 3
 - [Casti profesionale](https://www.photosetup.ro/collections/casti-profesionale): Casti profesionale de studio si monitorizare audio. Branduri de top pentru sunet referinta, la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 27
 - [Boxe/monitoare audio](https://www.photosetup.ro/collections/boxe-monitoare-audio): Boxe si monitoare audio de studio pentru productie muzicala si video. Sunet referinta de la branduri pro la Photosetup.
-  Updated: 2026-09-08T02:35:50Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 39
 - [Interfete/mixere audio](https://www.photosetup.ro/collections/interfete-mixere-audio): Interfete audio si mixere pentru studio si live streaming. Focusrite, PreSonus, RodE si altele la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 92
 - [Lumini studio film-TV](https://www.photosetup.ro/collections/lumini-studio-film-tv): Lumini de studio pentru film si TV: HMI, LED, fluorescent. Solutii broadcast de la Aputure, ARRI la Photosetup.
-  Updated: 2026-10-31T06:50:34Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 118
 - [Accesorii camere acțiune și drone](https://www.photosetup.ro/collections/accesorii-camere-actiune): Accesorii camere actiune: prinderi, carcase, baterii, suporturi. Toate accesoriile GoPro si compatibile, livrate rapid de Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 158
 - [Aparate foto compact](https://www.photosetup.ro/collections/aparate-foto-compact): Aparate foto compacte pentru calatorii si zi-cu-zi. Performanta intr-un format mic, top branduri disponibile la Photosetup.
-  Updated: 2026-11-02T00:42:13Z
-  Total Products: 77
+  Updated: 2026-11-08T12:19:01Z
+  Total Products: 78
 - [Camere Web](https://www.photosetup.ro/collections/camere-web): Camere web profesionale pentru streaming, gaming si videoconferinte. Calitate superioara fata de webcam-ul standard la Photosetup.
-  Updated: 2026-10-15T20:59:16Z
+  Updated: 2026-11-05T17:50:10Z
   Total Products: 6
 - [Solutii Videoconferinte](https://www.photosetup.ro/collections/solutii-videoconferinte): Solutii pentru videoconferinte profesionale: camere PTZ, microfoane, lumini. Setup-uri complete la Photosetup.
-  Updated: 2026-10-31T02:14:45Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 11
 - [Brate si prinderi](https://www.photosetup.ro/collections/brate-si-prinderi): Brate si prinderi pentru accesorii foto-video. Configureaza rig-ul perfect cu solutii de la Photosetup.
-  Updated: 2026-10-29T07:01:14Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 47
 - [Aparate compact premium](https://www.photosetup.ro/collections/aparate-compact-premium): Aparate foto compact premium: calitate de imagine exceptionala intr-un format portabil. Top branduri in stoc la Photosetup.
-  Updated: 2026-10-30T21:32:18Z
+  Updated: 2026-11-08T12:19:01Z
   Total Products: 57
 - [Aparate pe film](https://www.photosetup.ro/collections/aparate-pe-film): Aparate foto pe film analogic: vintage, noi, branduri legendare. Redescopera magia fotografiei traditionale la Photosetup.
   Updated: 2026-10-10T02:13:54Z
   Total Products: 38
 - [Conectori softbox](https://www.photosetup.ro/collections/conectori-softbox): Conectori softbox pentru blituri foto: speedring si adaptoare compatibile cu Bowens, Profoto si altele, la Photosetup.
-  Updated: 2026-09-25T12:47:45Z
+  Updated: 2026-11-03T22:01:40Z
   Total Products: 9
 - [Albume foto](https://www.photosetup.ro/collections/albume-foto): Albume foto premium pentru a-ti pastra cele mai frumoase amintiri. Calitate HD si personalizare, doar la Photosetup.
   Updated: 2026-10-26T11:28:11Z
   Total Products: 9
 - [Stative](https://www.photosetup.ro/collections/stative): Stative pentru lumini foto-video: c-stand, stative usoare, boom. Solutii Manfrotto si altele la Photosetup.
-  Updated: 2026-10-29T11:22:40Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 116
 - [C-Stand](https://www.photosetup.ro/collections/c-stand): C-stand-uri profesionale pentru studio foto-video. Stabilitate maxima pentru lumini si accesorii grele, la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 22
 - [Fotografie de produs](https://www.photosetup.ro/collections/fotografie-de-produs): Echipamente complete pentru fotografia de produs: lumini, fundaluri, mese foto, corturi. Toate la Photosetup.
-  Updated: 2026-10-15T02:14:59Z
+  Updated: 2026-11-07T02:32:30Z
   Total Products: 17
 - [Stative Boom](https://www.photosetup.ro/collections/stative-boom): Stative cu brat boom pentru lumini si microfoane: pozitionare aeriana flexibila. Disponibile la Photosetup.
-  Updated: 2026-10-30T01:04:25Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 16
 - [Suruburi adaptor](https://www.photosetup.ro/collections/suruburi-adaptor): Suruburi adaptor 1/4 si 3/8 pentru echipamente foto-video. Conectivitate standard cu accesoriile la Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-07T14:41:21Z
   Total Products: 43
 - [Brate articulate](https://www.photosetup.ro/collections/brate-articulate): Brate articulate pentru montarea echipamentelor foto-video. Flexibilitate maxima cu solutii profesionale Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 43
 - [Prinderi diverse](https://www.photosetup.ro/collections/prinderi-diverse): Prinderi diverse pentru rig-uri foto-video: cleme, brate, suporturi. Configureaza setup-ul cu Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T13:32:30Z
   Total Products: 82
 - [Mese foto](https://www.photosetup.ro/collections/mese-foto): Mese foto pentru fotografia de produs: iluminare integrata sau modulara. Solutii pro la Photosetup.
-  Updated: 2026-10-15T02:14:59Z
+  Updated: 2026-11-07T02:32:30Z
   Total Products: 6
 - [Acumulator extern](https://www.photosetup.ro/collections/acumulator-extern): Acumulatori externi (power bank-uri) pentru aparate foto, video si accesorii. Sursa de energie de incredere de la Photosetup.
   Updated: 2026-05-12T13:34:11Z
   Total Products: 0
 - [Brate blende](https://www.photosetup.ro/collections/brate-blende): Brate pentru blende reflectoare: pozitioneaza lumina exact unde vrei. Accesorii de studio practice la Photosetup.
-  Updated: 2026-10-15T02:14:57Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 9
 - [Blende](https://www.photosetup.ro/collections/blende): Blende reflectoare pentru fotografie si video: oval, rotund, 5-in-1. Modeleaza lumina natural, accesibil la Photosetup.
-  Updated: 2026-10-29T21:59:13Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 53
 - [Inele reductie](https://www.photosetup.ro/collections/inele-reductie): Inele de reductie pentru filtre foto: compatibilitate intre diferite diametre obiective. Disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 31
 - [Protectii card](https://www.photosetup.ro/collections/protectii-card): Protectii pentru carduri de memorie: cutii rigide, etui rezistente. Pastreaza-ti datele in siguranta cu Photosetup.
-  Updated: 2026-10-22T06:00:25Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 10
 - [Alimentare USB](https://www.photosetup.ro/collections/alimentare-usb): Solutii de alimentare USB pentru echipamente foto-video: cabluri, adaptoare, hub-uri. Conectivitate de incredere la Photosetup.
-  Updated: 2026-10-06T02:14:20Z
+  Updated: 2026-11-05T17:51:17Z
   Total Products: 15
 - [Drone](https://www.photosetup.ro/collections/drone): Drone DJI pentru fotografie aeriana si videografie profesionala. Modele Mavic, Mini si Inspire, in stoc la Photosetup.
-  Updated: 2026-10-27T11:27:44Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 29
 - [Protectii LCD](https://www.photosetup.ro/collections/protectii-lcd): Protectii LCD pentru aparate foto: folii si capace rigide. Evita zgarieturile cu accesorii Photosetup.
   Updated: 2026-07-08T05:55:09Z
   Total Products: 7
 - [Filme negativ](https://www.photosetup.ro/collections/filme-negativ): Filme negative analogice pentru aparate pe film: 35mm, 120, color, alb-negru. Branduri Kodak, Fujifilm, Ilford la Photosetup.
-  Updated: 2026-10-28T02:14:00Z
+  Updated: 2026-11-03T22:00:42Z
   Total Products: 23
 - [Fotografie pe film](https://www.photosetup.ro/collections/fotografie-pe-film): Tot pentru fotografia pe film: aparate, filme, solutii developare, hartie foto. Renaste pasiunea analogica la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-03T22:00:42Z
   Total Products: 62
 - [Folii si ecrane protectie](https://www.photosetup.ro/collections/folii-si-ecrane-protectie): Folii si ecrane de protectie pentru LCD-ul aparatului foto. Pastreaza ecranul intact, solutii la Photosetup.
-  Updated: 2026-10-25T06:12:26Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 19
 - [Camere actiune si 360](https://www.photosetup.ro/collections/camere-actiune-si-360): Camere de actiune si camere 360: GoPro, Insta360, DJI. Surprinde aventura in calitate maxima cu Photosetup.
-  Updated: 2026-10-29T11:22:40Z
+  Updated: 2026-11-08T13:02:18Z
   Total Products: 41
 - [Accesorii filtre](https://www.photosetup.ro/collections/accesorii-filtre): Accesorii pentru filtre foto: holdere, inele de reductie, etui de transport. Echipament profesional disponibil la Photosetup.
-  Updated: 2026-08-13T02:29:13Z
+  Updated: 2026-11-03T22:10:05Z
   Total Products: 8
 - [Produse Apple](https://www.photosetup.ro/collections/produse-apple): Produse Apple pentru creatori de continut: MacBook, iMac, iPhone. Workflow Apple complet la Photosetup.
   Updated: 2026-06-02T19:03:27Z
   Total Products: 1
 - [MacBook](https://www.photosetup.ro/collections/macbook): MacBook la Photosetup: laptop-uri Apple pentru editare foto-video on-the-go.
-  Updated: 2026-10-08T02:37:08Z
-  Total Products: 1
+  Updated: 2026-11-07T09:06:35Z
+  Total Products: 19
 - [iMac](https://www.photosetup.ro/collections/imac): iMac la Photosetup: workstation-uri Apple pentru editare foto-video profesionala.
   Updated: 2026-10-20T02:35:11Z
   Total Products: 1
 - [Accesorii microfoane](https://www.photosetup.ro/collections/accesorii-microfoane): Accesorii pentru microfoane: stative, brate, shock mount-uri si filtre pop. Optimizeaza-ti inregistrarile audio cu Photosetup.
-  Updated: 2026-11-01T13:33:04Z
+  Updated: 2026-11-08T14:12:43Z
   Total Products: 18
 - [Materiale educative](https://www.photosetup.ro/collections/materiale-educative): Materiale educative foto-video: e-books, ghiduri, cursuri. Invata de la cei mai buni cu resursele Photosetup.
-  Updated: 2026-10-26T11:28:11Z
+  Updated: 2026-11-03T22:00:36Z
   Total Products: 14
 - [Reviste foto](https://www.photosetup.ro/collections/reviste-foto): Reviste foto pentru inspiratie si educatie. Publicatii de calitate, in stoc la Photosetup.
-  Updated: 2026-10-26T11:28:11Z
+  Updated: 2026-11-03T22:00:36Z
   Total Products: 10
 - [e-Book](https://www.photosetup.ro/collections/e-book): E-book-uri si materiale digitale educationale pentru fotografi si videografi. Invata de la specialistii Photosetup.
   Updated: 2026-06-02T19:03:17Z
   Total Products: 2
 - [iPhone](https://www.photosetup.ro/collections/iphone): Accesorii iPhone pentru creatori de continut: lentile, microfoane, lumini, grip-uri. La Photosetup.
-  Updated: 2026-10-06T02:14:33Z
-  Total Products: 1
+  Updated: 2026-11-07T09:05:00Z
+  Total Products: 24
 - [Solutii developare](https://www.photosetup.ro/collections/solutii-developare): Solutii pentru developare fotografie analogica: chimicale, accesorii darkroom. Tot pentru film la Photosetup.
   Updated: 2026-07-29T11:32:58Z
   Total Products: 4
 - [Colorimetre](https://www.photosetup.ro/collections/colorimetre): Colorimetre si spectrofotometre pentru calibrare cromatica. Solutii profesionale Calibrite si altele la Photosetup.
-  Updated: 2026-10-22T02:39:21Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 13
 - [Hartie fotografica](https://www.photosetup.ro/collections/hartie-fotografica): Hartie fotografica pentru imprimante de calitate: matte, glossy, lustre. Branduri Hahnemuhle, Ilford la Photosetup.
   Updated: 2026-09-19T02:14:16Z
   Total Products: 10
 - [Editare](https://www.photosetup.ro/collections/editare): Software si echipamente pentru editare foto-video: controllere, monitoare, accesorii. Solutii pro la Photosetup.
-  Updated: 2026-10-22T02:39:21Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 13
 - [Monitorizare In-Ear](https://www.photosetup.ro/collections/monitorizare-in-ear): Sisteme in-ear pentru monitorizare audio live si studio. Solutii pro Shure si altele la Photosetup.
   Updated: 2026-05-12T13:34:31Z
@@ -1427,7 +1427,7 @@
   Updated: 2026-10-08T02:37:08Z
   Total Products: 4
 - [Fara categorie winmentor](https://www.photosetup.ro/collections/fara-categorie-winmentor)
-  Updated: 2026-07-08T05:54:12Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 3
 - [... nedefinit ...](https://www.photosetup.ro/collections/nedefinit)
   Updated: 2026-10-07T02:13:35Z
@@ -1442,70 +1442,70 @@
   Updated: 2026-06-02T19:03:20Z
   Total Products: 4
 - [Imprimante](https://www.photosetup.ro/collections/imprimante): Imprimante foto profesionale pentru tiparire de calitate galerie. Solutii Canon, Epson si altele la Photosetup.
-  Updated: 2026-10-30T02:17:33Z
+  Updated: 2026-11-07T02:32:30Z
   Total Products: 6
 - [Test](https://www.photosetup.ro/collections/test)
-  Updated: 2026-11-01T14:18:28Z
-  Total Products: 6163
+  Updated: 2026-11-08T12:19:01Z
+  Total Products: 6261
 - [Best sellers](https://www.photosetup.ro/collections/best-sellers): Cele mai vandute produse foto-video-audio la Photosetup. Top picks-urile profesionistilor si creatorilor de continut.
-  Updated: 2026-11-01T14:18:28Z
-  Total Products: 5595
+  Updated: 2026-11-08T12:19:01Z
+  Total Products: 5695
 - [Noutati](https://www.photosetup.ro/collections/noutati): Cele mai noi produse foto-video-audio adaugate la Photosetup. Descopera lansarile recente si tehnologii de top.
-  Updated: 2026-11-01T13:04:56Z
-  Total Products: 172
+  Updated: 2026-11-09T00:52:01Z
+  Total Products: 263
 - [Resigilate](https://www.photosetup.ro/collections/resigilate): Produse resigilate la Photosetup: echipamente verificate, fara semne de utilizare, la pret redus. Garantie inclusa.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 286
 - [Bundles](https://www.photosetup.ro/collections/bundles): Pachete bundle foto-video la Photosetup: kit-uri complete cu pret avantajos. Tot ce-ti trebuie intr-o singura achizitie.
-  Updated: 2026-10-31T22:00:13Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 99
 - [Accesorii audio](https://www.photosetup.ro/collections/accesorii-audio): Accesorii audio profesionale: cabluri, suporturi, protectii vant si adaptoare. Calitate dovedita la Photosetup, livrare rapida din stoc.
-  Updated: 2026-11-01T13:35:39Z
+  Updated: 2026-11-08T15:20:02Z
   Total Products: 218
 - [Draft](https://www.photosetup.ro/collections/draft)
-  Updated: 2026-10-31T06:12:46Z
-  Total Products: 568
+  Updated: 2026-11-04T02:33:28Z
+  Total Products: 566
 - [ABC Products](https://www.photosetup.ro/collections/abc-products): Produse esentiale pentru orice fotograf sau videograf incepator. Selectie ABC Photosetup cu echipamente accesibile si performante.
-  Updated: 2026-06-02T21:27:26Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 1
 - [Adam Hall](https://www.photosetup.ro/collections/adam-hall): Adam Hall la Photosetup: accesorii audio profesionale si solutii broadcast. Calitate germana, livrare rapida din stoc.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 20
 - [Agfa](https://www.photosetup.ro/collections/agfa): Filme analogice si produse Agfa la Photosetup. Pentru pasionatii fotografiei pe film, disponibile cu livrare rapida.
-  Updated: 2026-10-09T02:15:24Z
+  Updated: 2026-11-06T02:39:05Z
   Total Products: 12
 - [ANC](https://www.photosetup.ro/collections/anc): Casti si echipamente cu Active Noise Cancellation pentru lucru concentrat in studio. Disponibile la Photosetup.
-  Updated: 2026-06-30T21:00:35Z
+  Updated: 2026-11-03T22:01:15Z
   Total Products: 1
 - [Angelbird](https://www.photosetup.ro/collections/angelbird): Carduri si SSD-uri Angelbird pentru filmari profesionale 4K, 6K si 8K. Viteze maxime, disponibile la Photosetup.
   Updated: 2026-08-04T02:14:24Z
   Total Products: 10
 - [Apple](https://www.photosetup.ro/collections/apple): Produse Apple pentru creatori de continut la Photosetup: MacBook, iPad, iPhone. Workflow Apple complet.
-  Updated: 2026-10-09T02:15:36Z
-  Total Products: 1
+  Updated: 2026-11-07T09:08:32Z
+  Total Products: 97
 - [Aputure](https://www.photosetup.ro/collections/aputure): Iluminat LED Aputure pentru film, video si content creation. Lumini puternice si fiabile, in stoc la Photosetup.
   Updated: 2026-06-02T21:27:27Z
   Total Products: 6
 - [Arri](https://www.photosetup.ro/collections/arri): Lumini si echipamente ARRI - standardul de aur in industria cinematografica. Disponibile prin Photosetup.
-  Updated: 2026-10-05T02:14:15Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 37
 - [Atmosphere](https://www.photosetup.ro/collections/atmosphere): Produse Atmosphere la Photosetup: solutii speciale pentru efecte atmosferice in productii video.
   Updated: 2026-06-02T21:27:27Z
   Total Products: 1
 - [Atomos](https://www.photosetup.ro/collections/atomos): Recordere si monitoare Atomos pentru camere video: ProRes, RAW, HDR. Echipamente pro disponibile la Photosetup.
-  Updated: 2026-10-29T22:58:05Z
+  Updated: 2026-11-08T02:30:12Z
   Total Products: 31
 - [Audient](https://www.photosetup.ro/collections/audient): Interfete audio Audient: sunet de calitate studio pentru creatori si productii. La Photosetup.
-  Updated: 2026-10-30T07:00:32Z
+  Updated: 2026-11-03T22:02:08Z
   Total Products: 8
 - [Audio-Technica](https://www.photosetup.ro/collections/audio-technica): Microfoane si casti Audio-Technica: standard japonez pentru audio profesional. Disponibile la Photosetup.
-  Updated: 2026-10-28T11:54:23Z
+  Updated: 2026-11-08T02:30:08Z
   Total Products: 54
 - [Avatar](https://www.photosetup.ro/collections/avatar): Produse Avatar la Photosetup: accesorii foto-video selectate cu grija pentru creatori.
   Updated: 2026-10-26T11:28:11Z
   Total Products: 7
 - [Avenger](https://www.photosetup.ro/collections/avenger): Stative si grip-uri Avenger by Manfrotto: robuste, profesionale pentru studio si film. La Photosetup.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 118
 - [AVMATRIX](https://www.photosetup.ro/collections/avmatrix): Switchere si convertoare AVMatrix pentru productii video si broadcast. Solutii accesibile la Photosetup.
   Updated: 2026-06-02T21:27:28Z
@@ -1517,13 +1517,13 @@
   Updated: 2026-09-15T11:35:28Z
   Total Products: 8
 - [Blackmagic Design](https://www.photosetup.ro/collections/blackmagic-design): Camere si echipamente Blackmagic Design: cinematice, mixere, convertoare. Reprezentant oficial Photosetup.
-  Updated: 2026-10-08T22:34:45Z
+  Updated: 2026-11-07T02:32:28Z
   Total Products: 145
 - [BlackRapid](https://www.photosetup.ro/collections/blackrapid): Curele BlackRapid pentru camere foto: confort maxim, descarcare rapida. Disponibile la Photosetup.
-  Updated: 2026-09-17T20:42:47Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 7
 - [Boya](https://www.photosetup.ro/collections/boya): Microfoane Boya: solutii audio accesibile pentru content creators. Lavaliera, shotgun si altele la Photosetup.
-  Updated: 2026-11-01T13:40:23Z
+  Updated: 2026-11-08T12:18:59Z
   Total Products: 49
 - [Cablexpert](https://www.photosetup.ro/collections/cablexpert): Cabluri si conectica Cablexpert pentru echipamente IT si AV. Conectivitate fiabila la Photosetup.
   Updated: 2026-06-02T21:27:29Z
@@ -1532,16 +1532,16 @@
   Updated: 2026-06-12T02:17:56Z
   Total Products: 1
 - [Calibrite](https://www.photosetup.ro/collections/calibrite): Calibrite (X-Rite): colorimetre si tinte de calibrare pentru workflow profesional. La Photosetup.
-  Updated: 2026-10-22T02:39:21Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 13
 - [Cambo](https://www.photosetup.ro/collections/cambo): Camere si echipamente Cambo pentru fotografie tehnica si arhitectura. Disponibile la Photosetup.
   Updated: 2026-07-08T05:52:02Z
   Total Products: 18
 - [Canon](https://www.photosetup.ro/collections/canon): Canon la Photosetup: aparate foto mirrorless, DSLR, obiective si accesorii. Reprezentant oficial cu livrare rapida.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T22:29:28Z
   Total Products: 140
 - [Caruba](https://www.photosetup.ro/collections/caruba): Caruba la Photosetup: accesorii foto-video si solutii de curatare. Calitate europeana, preturi avantajoase.
-  Updated: 2026-11-01T02:13:49Z
+  Updated: 2026-11-08T13:04:21Z
   Total Products: 118
 - [CKMOVA](https://www.photosetup.ro/collections/ckmova): Microfoane Ckmova pentru video si content creation: wireless si lavaliera. Disponibile la Photosetup.
   Updated: 2026-06-02T21:27:31Z
@@ -1553,7 +1553,7 @@
   Updated: 2026-06-14T19:52:29Z
   Total Products: 4
 - [Colorama Photodisplay](https://www.photosetup.ro/collections/colorama-photodisplay): Fundaluri foto Colorama PhotoDisplay: uniforme, multiple culori, calitate superioara. Disponibile la Photosetup.
-  Updated: 2026-11-01T12:23:06Z
+  Updated: 2026-11-08T17:18:03Z
   Total Products: 111
 - [Colorama Promo](https://www.photosetup.ro/collections/colorama-promo): Promotii la fundaluri foto Colorama: calitate de studio profesional la pret avantajos, doar la Photosetup.
   Updated: 2026-06-02T21:27:31Z
@@ -1577,28 +1577,28 @@
   Updated: 2026-06-12T02:17:56Z
   Total Products: 3
 - [Delock](https://www.photosetup.ro/collections/delock): Delock: accesorii IT, cabluri si adaptoare pentru echipamente AV. Disponibile la Photosetup.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 10
 - [Desview](https://www.photosetup.ro/collections/desview)
   Updated: 2026-10-05T14:56:03Z
   Total Products: 3
 - [Digipower](https://www.photosetup.ro/collections/digipower)
-  Updated: 2026-09-20T02:31:36Z
+  Updated: 2026-11-07T12:26:05Z
   Total Products: 4
 - [Digital King](https://www.photosetup.ro/collections/digital-king): Digital King: accesorii foto-video accesibile pentru pasionati. Disponibile la Photosetup.
   Updated: 2026-07-08T05:52:47Z
   Total Products: 8
 - [Digital Power](https://www.photosetup.ro/collections/digital-power): Digital Power: baterii si solutii de alimentare pentru aparate foto-video. La Photosetup.
-  Updated: 2026-11-01T02:13:48Z
+  Updated: 2026-11-08T02:30:09Z
   Total Products: 42
 - [DJI](https://www.photosetup.ro/collections/dji): DJI la Photosetup: drone, gimbal-uri, camere si echipamente pentru creatori. Reprezentant oficial.
-  Updated: 2026-11-01T02:13:52Z
+  Updated: 2026-11-08T17:14:28Z
   Total Products: 220
 - [Elgato](https://www.photosetup.ro/collections/elgato): Elgato la Photosetup: placi de captura, lumini, Stream Deck pentru streamers si content creators.
   Updated: 2026-06-02T21:27:34Z
   Total Products: 3
 - [FeelWorld](https://www.photosetup.ro/collections/feelworld): Monitoare de teren Feelworld: accesibile, performante pentru filmari video. Disponibile la Photosetup.
-  Updated: 2026-10-28T09:45:14Z
+  Updated: 2026-11-07T02:32:44Z
   Total Products: 18
 - [FieldCast](https://www.photosetup.ro/collections/fieldcast): Fieldcast: solutii de conectica fibra optica pentru video broadcast. Profesionale, la Photosetup.
   Updated: 2026-06-02T21:27:34Z
@@ -1607,7 +1607,7 @@
   Updated: 2026-06-02T21:27:34Z
   Total Products: 5
 - [Focusrite](https://www.photosetup.ro/collections/focusrite): Focusrite: interfete audio Scarlett si solutii pro pentru studio. Disponibile la Photosetup.
-  Updated: 2026-10-24T03:10:03Z
+  Updated: 2026-11-08T02:30:13Z
   Total Products: 18
 - [FreeLav](https://www.photosetup.ro/collections/freelav): Freelav: solutii audio dedicate pentru filmari video. Accesibile, la Photosetup.
   Updated: 2026-06-02T21:27:35Z
@@ -2824,6 +2824,8 @@ Prima ediție, care a avut loc în anul 2022, a adunat peste 80 de participanți
   Updated: 2026-03-24T17:49:31Z
 - [Sony Summer CASHBACK](https://www.photosetup.ro/pages/sony-summer-cashback): Profită de oferta Sony Summer CASHBACK și obține până la 1500 lei cashback la produsele selectate. Oferta este valabilă în perioada 1 aprilie - 31 ...
   Updated: 2026-04-03T10:10:17Z
+- [Bazar Photosetup – Outlet echipamente foto-video și audio](https://www.photosetup.ro/pages/bazar-2026): Bazarul Photosetup este locul unde găsești echipamente foto, video și audio la prețuri de lichidare de stoc. Sunt produse din gama noastră curentă,...
+  Updated: 2026-11-03T11:45:58Z
 - [Formular cerere de retragere/retur](https://www.photosetup.ro/pages/formular-de-retragere)
   Updated: 2026-06-18T12:15:13Z
 - [Back to Studio | Echipamente Studio și Bundles | Photosetup](https://www.photosetup.ro/pages/back-to-studio-photosetup): Back to Studio — echipamentul tău de studio, la prețuri de început de sezon Septembrie e luna în care creativitatea se întoarce la treabă. Proiecte...
@@ -2836,8 +2838,8 @@ Prima ediție, care a avut loc în anul 2022, a adunat peste 80 de participanți
   Updated: 2026-10-02T10:10:34Z
 - [Reduceri pe categoriile tale](https://www.photosetup.ro/pages/quiz-reduceri): Quiz-ul pentru reducerile pe categoriile tale va fi disponibil în curând. Până atunci, descoperă promoțiile active PhotoSetup.
   Updated: 2026-10-20T13:39:33Z
-- [Black Friday 2026 Photosetup | Reduceri 6–9 Noiembrie](https://www.photosetup.ro/pages/black-friday): Black Friday la Photosetup: 6–9 noiembrie Prinde cele mai mari reduceri din an la echipamente foto, video și audio. Doar 4 zile!
-  Updated: 2026-10-23T14:55:26Z
+- [Black Friday 2026 Photosetup | Reduceri 6–9 Noiembrie](https://www.photosetup.ro/pages/black-friday-2026): Black Friday la Photosetup: 6–9 noiembrie Prinde cele mai mari reduceri din an la echipamente foto, video și audio. Doar 4 zile!
+  Updated: 2026-11-05T18:15:28Z
 
 ## Policies
 
