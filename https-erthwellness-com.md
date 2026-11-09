@@ -6,82 +6,82 @@
 - Timezone: America/Los_Angeles
 - Created At: 2018-06-05T22:49:14Z
 - Contact Email: support@erthwellness.com
-- Updated At: 2026-11-02T00:55:13.272Z
+- Updated At: 2026-11-09T00:57:56.270Z
 
 ## Products
 
 - [Water Soluble CBD Oil Review](https://erthwellness.com/products/water-soluble-cbd-tincture-1000mg): Experience fast-acting water soluble CBD with nanoemulsion technology for enhanced absorption, bioavailability, and daily wellness support.
-  Updated: 2026-11-01T23:01:31Z
+  Updated: 2026-11-08T08:07:00Z
   Vendor: Erth Wellness
   Product Type: THC Free Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/products/water-soluble-cbd-tincture-unflavored-thc-free-1000mg-262410.jpg?v=1706638857
   Price: $29.99 USD
 - [Buy CBD Face Serum Online | Quality CBD Skin Care Products](https://erthwellness.com/products/cbd-face-serum): Keep your skin toned & hydrated with Erth Hemp’s CBD face serum. Our serum is formulated with a unique blend of tonifying ingredients to brighten complexion.
-  Updated: 2026-11-01T23:23:46Z
+  Updated: 2026-11-09T00:50:10Z
   Vendor: Erth Wellness
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Face_Serum_500mg.jpg?v=1759961518
   Price: $29.99 USD
 - [CBD Massage Oil | Hemp Infused Pain Relief Oil](https://erthwellness.com/products/cbd-massage-oil): Luxurious CBD Massage Oil: 1500mg Hemp-Derived CBD. Smooth, Long-Lasting, & Non-Greasy. Perfect for Spas or Home.
-  Updated: 2026-10-31T09:01:15Z
+  Updated: 2026-11-07T06:01:25Z
   Vendor: Erth Wellness
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/products/cbd-massage-oil-spa-original-1500-mg-thc-free-755698.jpg?v=1705374757
   Price: $29.99 USD
 - [Arthridiol - Topical Stick - 3000mg CBD | For on-the-go Relief](https://erthwellness.com/products/arthridiol-maximum-strength-cbd-stick): Arthridiol Topical Stick: 3000mg of CBD for On-the-Go Pain Relief. Relieves Muscle & Joint Pain, Soreness, and Inflammation.
-  Updated: 2026-10-31T11:19:46Z
+  Updated: 2026-11-08T19:41:45Z
   Vendor: Arthridiol
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/700x700painreliefstickCBD.jpg?v=1754499193
   Price: $39.99 USD
 - [Arthridiol 3000mg CBD infused Muscle Gel](https://erthwellness.com/products/arthridiol-maximum-strength-muscle-joint-relief-gel): Arthridiol CBD Muscle Gel feature 3000mg of CBD paired with essential oils, 10% Menthol, and Capsaicin for Icy & Hot Relief.
-  Updated: 2026-11-01T21:46:35Z
+  Updated: 2026-11-09T00:01:52Z
   Vendor: Arthridiol
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Arthridial2025MuscleGel.png?v=1754499318
   Price: $39.99 USD
 - [Arthridiol Topical Cream – 3000mg CBD | Targeted Muscle & Joint Relief](https://erthwellness.com/products/maximum-strength-cbd-cream-for-joins): Experience fast-absorbing relief with Arthridiol Topical Cream. Infused with 3000mg CBD, OptiMSM™, Arnica, and essential oils for targeted muscle and joint support.
-  Updated: 2026-10-31T11:19:47Z
+  Updated: 2026-11-09T00:01:25Z
   Vendor: Arthridiol
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Arthridiol2025JointCream.png?v=1754499781
   Price: $39.99 USD
 - [Arthridiol 3000mg Massage Oil with Argan, Arnica and CBD](https://erthwellness.com/products/arthridiol-cbd-massage-oil): Arthridiol CBD Massage Oil with pure Argan Oil has a silky, lightweight texture that sinks into your skin with deep hydration.
-  Updated: 2026-10-31T23:38:46Z
+  Updated: 2026-11-06T13:43:05Z
   Vendor: Arthridiol
   Product Type: Topical
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Arthridiol2025MassageOil.png?v=1737756741
   Price: $39.99 USD
 - [Delta-8 1000mg Tincture - Two Hawk Extracts](https://erthwellness.com/products/delta-8-tincture): Delta-8 1000mg Premium Tinctures from Two Hawk Extracts: Shop Now! Appetite Stimulation, Pain Reduction, & Euphoria.
-  Updated: 2026-11-01T22:58:55Z
+  Updated: 2026-11-09T00:17:17Z
   Vendor: Native Extracts
   Product Type: Delta-8 THC Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Storyteller_Tincture_Photo_0208af5a-23a5-4ccd-927a-9fc860697e43.jpg?v=1721239333
   Price: $29.99 USD
 - [Two Hawk - Dreamcatcher - Delta 8 THC with CBN Tincture](https://erthwellness.com/products/delta-8-cbn-tincture): Are you suffering from sleep disorders? Try our Dreamcatcher, a combination of Delta 8 THC and CBN both.
-  Updated: 2026-11-02T00:12:38Z
+  Updated: 2026-11-08T23:57:39Z
   Vendor: Native Extracts
   Product Type: Delta-8 THC + CBN Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Dreamcatcher_tincture_photo_dd2c8311-3239-4804-811d-73567afe04ab.jpg?v=1721239314
   Price: $29.99 USD
 - [Dreamcatcher Delta-8 + CBN Tincture | Erth Wellness](https://erthwellness.com/products/delta-8-cbg-tincture): Are you suffering from inflammation for a long time? Buy Delta 8 THC with CBG tincture from CBD online store, Erth Hemp & get rid of chronic pain quickly!
-  Updated: 2026-11-01T22:58:56Z
+  Updated: 2026-11-08T23:41:45Z
   Vendor: Native Extracts
   Product Type: Delta-8 THC + CBG Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Warrior_Tincture_Photo_8960007e-e5f1-4ab8-92c8-2da98e80561d.jpg?v=1721239356
   Price: $29.99 USD
 - ["Storyteller" - 1000mg Delta-8 THC - Pineapple](https://erthwellness.com/products/50mg-delta-8-gummies): Gather 'round, seekers of wisdom, and embrace the magic of Native Extracts "Storyteller" Gummies. Each sacred gummy, infused with 50mg of potent Delta-8 THC, is crafted to elevate your mind and spirit. With the sweet essence of pineapple, these enchanted morsels make your journey both delightful and refreshing.
-  Updated: 2026-11-02T00:31:46Z
+  Updated: 2026-11-09T00:01:46Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
@@ -95,7 +95,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/storytellermaster.jpg?v=1718417295
     Price: $209.99 USD
 - [Delta-8 Gummies for Sleep - Vegan Gummies](https://erthwellness.com/products/delta-8-with-cbn-sleep-gummies): Our delta 8 gummies for sleep are infused with 20mg of Hemp Derived Delta-8 and a dose of 5mg CBN, perfect for bedtime bliss.
-  Updated: 2026-11-02T00:02:06Z
+  Updated: 2026-11-09T00:21:05Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
@@ -109,7 +109,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Dreamcatcher_Master.jpg?v=1718328041
     Price: $209.99 USD
 - ["Warrior" - 800mg Delta-8 THC + 200mg CBG - Mango (Recover)](https://erthwellness.com/products/cbg-gummies): Our "Warrior" Vegan Gummies are infused with 40mg of Hemp Derived Delta-8 and a dose of 10mg CBG, great for much needed rest and recovery.
-  Updated: 2026-11-02T00:02:25Z
+  Updated: 2026-11-08T23:41:45Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
@@ -119,11 +119,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/warriorpouch.jpg?v=1719600248
     Price: $34.99 USD
   - [6 Pack Box](https://erthwellness.com/products/cbg-gummies?variant=41844120027206)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/warriorMaster.jpg?v=1719600248
     Price: $209.99 USD
 - [Full Spectrum CBD + THC Droplets](https://erthwellness.com/products/full-spectrum-cannabinoid-tinctures): Experience the full benefits of CBD with our Full Spectrum THC droplets from Erth Wellness. Lab tested for quality and purity. Try it today!
-  Updated: 2026-11-02T00:02:25Z
+  Updated: 2026-11-08T23:31:35Z
   Vendor: Erth Wellness
   Product Type: CBD + THC Tincture
   Availability: Available
@@ -153,7 +153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/drops_relief_unflW.png?v=1706638784
     Price: $79.99 USD
 - [Broad Spectrum THC Free Hemp Oil](https://erthwellness.com/products/broad-spectrum-thc-free-cbd-drops): Discover the benefits of our carefully crafted blend of premium-quality CBD, CBG and CBN in our broad spectrum THC free* hemp oil.
-  Updated: 2026-11-01T17:25:06Z
+  Updated: 2026-11-08T03:14:55Z
   Vendor: Erth Wellness
   Product Type: THC Free Tincture
   Availability: Available
@@ -175,14 +175,14 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/products/broad-spectrum-thc-free-cbd-drops-658644.jpg?v=1686888670
     Price: $49.99 USD
 - [Water Soluble CBD Sleep Aid | Erth Wellness](https://erthwellness.com/products/water-soluble-cbd-sleep-aid): Do you want to fall asleep fast and wake up feeling refreshed? Try this water soluble CBD sleep aid with melatonin and get instant results.
-  Updated: 2026-11-01T18:29:53Z
+  Updated: 2026-11-08T02:11:52Z
   Vendor: Erth Wellness
   Product Type: THC Free Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/products/water-soluble-cbd-cbn-sleep-aid-drops-547611.jpg?v=1706638847
   Price: $39.99 USD
 - [THC Gummies - Vegan - Tutti Frutti - 300mg](https://erthwellness.com/products/thc-gummies-vegan-tutti-frutti-10mg-ea): THC Gummies - Vegan - Tutti Frutti - 300mg: Enjoy the sweet taste with a potent 300mg THC kick. Made with all-natural ingredients and lab tested for purity.
-  Updated: 2026-11-02T00:30:17Z
+  Updated: 2026-11-09T00:47:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -196,7 +196,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/relax_mastercase_open.jpg?v=1771534520
     Price: $239.99 USD
 - [Full Spectrum CBD Gummies | Erth Wellness](https://erthwellness.com/products/full-spectrum-gummies-vegan-strawberry-kiwi-750mg): Shop vegan Full Spectrum CBD Gummies with 1500mg CBD to support relaxation, recovery, sleep, and everyday wellness from Erth Wellness.
-  Updated: 2026-11-01T23:47:46Z
+  Updated: 2026-11-09T00:01:16Z
   Vendor: Erth Wellness
   Product Type: CBD + THC Gummies
   Availability: Available
@@ -210,7 +210,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/relief_mastercase_open.jpg?v=1727723171
     Price: $239.99 USD
 - [THC-Free CBD Gummies | Erth Wellness](https://erthwellness.com/products/thc-free-gummies-vegan-orange-1500mg): THC Free CBD Gummies: Enjoy the Benefits of CBD without the High. Our Vegan, Juicy Orange Gummies are 1500mg of CBD per jar.
-  Updated: 2026-11-01T23:50:16Z
+  Updated: 2026-11-09T00:55:25Z
   Vendor: Erth Wellness
   Product Type: THC Free Gummies
   Availability: Available
@@ -224,7 +224,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/stress_master_case_open.jpg?v=1771533913
     Price: $239.99 USD
 - [CBN Gummies for Sleep - 600mg](https://erthwellness.com/products/cbn-gummies-600mg): Sleep+ Gummies combine CBN, a microdose of melatonin, and premium ingredients to help you relax and wake feeling refreshed.
-  Updated: 2026-11-02T00:35:21Z
+  Updated: 2026-11-08T23:34:01Z
   Vendor: Erth Wellness
   Product Type: CBN Gummies
   Availability: Available
@@ -238,35 +238,35 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/sleep_gummies_master_open.jpg?v=1771538148
     Price: $239.99 USD
 - [CBN Gummies for Sleep - Vegan - Sleepy Blackberry - 40mg](https://erthwellness.com/products/cbn-gummies-for-sleep-vegan-sleepy-blackberry-40mg): Get a better night sleep with our vegan CBN Gummies in our Sleepy Blackberry flavor!
-  Updated: 2026-11-02T00:35:45Z
+  Updated: 2026-11-09T00:54:22Z
   Vendor: Erth Wellness
   Product Type: THC Free Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/SLEEPGummiesPouch.jpg?v=1760114054
   Price: $2.99 USD
 - [Full Spectrum RELIEF Gummies - Strawberry Kiwi - 100mg CBD + 5mg THC (SAMPLE PACK)](https://erthwellness.com/products/full-spectrum-relief-gummies-strawberry-kiwi-100mg-cbd-5mg-thc-sample-size): Full Spectrum CBD Gummies: Experience the Benefits of CBD with Our Vegan, Full-Spectrum. 50mg of CBD to Help You Relax, Relieve Pain and Improve Sleep.
-  Updated: 2026-11-02T00:35:45Z
+  Updated: 2026-11-09T00:57:41Z
   Vendor: Erth Wellness
   Product Type: CBD + THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_Full-Spectrum-RELIEF-Gummies-Strawberry-Kiwi-100mg-CBD-_-5mg-THC-_Sample-Size__Can-on-Limes_2026-08-22_1x_21222e0a-1fb6-4e7a-a79e-df94d393d68e.jpg?v=1787441018
   Price: $2.99 USD
 - [THC Free CBD Gummies - Vegan - Juicy Orange - 50mg](https://erthwellness.com/products/thc-free-cbd-gummies-vegan-juicy-orange-50mg): THC Free CBD Gummies: Get the Benefits of CBD Without the High. Our Vegan, Juicy Orange Gummies Are 50mg Each and Made With Organic Ingredients.
-  Updated: 2026-11-02T00:49:05Z
+  Updated: 2026-11-09T00:51:02Z
   Vendor: Erth Wellness
   Product Type: THC Free Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Free-STRESS-Gummies-Juicy-Orange-100mg-_Sample-Size__Can-on-Limes_2026-08-22_1x_f4a8639f-a078-4d7f-af78-93ed28d1b9e7.jpg?v=1787441365
   Price: $2.99 USD
 - [THC Gummies - Vegan - Tutti Frutti - 20mg](https://erthwellness.com/products/thc-gummies-vegan-tutti-frutti-20mg): THC Gummies - Vegan - Tutti Frutti - 20mg: Enjoy the Sweet Taste of Tutti Frutti with a Gentle 20mg THC Kick. Lab-Tested, and Made with Premium Ingredients.
-  Updated: 2026-11-02T00:35:41Z
+  Updated: 2026-11-09T00:54:26Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_RELAX-10mg-THC-Gummies-Tutti-Frutti-20mg-_Sample-Size__Can-on-Limes_2026-08-22_1x_1acbad4f-35a6-479d-91bc-33035248c6f2.jpg?v=1787440088
   Price: $2.99 USD
 - [CBD Oil for Dogs | Erth Wellness](https://erthwellness.com/products/cbd-for-dogs): Keep your furry friends happy with our full spectrum CBD pet drops, proven to help reduce pain, stress, and anxiety. Get bacon flavored CBD Oil for Dogs!
-  Updated: 2026-11-01T19:16:16Z
+  Updated: 2026-11-08T21:06:25Z
   Vendor: Daily Pet Co.
   Product Type: Pet Tinctures
   Availability: Available
@@ -284,14 +284,14 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/900mg_CBD_Pet_Drops_for_Dogs.jpg?v=1776454150
     Price: $29.99 USD
 - [CBD Pet Drops for Cats](https://erthwellness.com/products/cbd-pet-drops-for-cats): Enhance your cat’s overall well-being with CBD pet drops for cats, formulated with Wild Alaskan salmon oil and natural bacon flavor that cats love.
-  Updated: 2026-11-01T03:35:50Z
+  Updated: 2026-11-06T21:17:07Z
   Vendor: Daily Pet Co.
   Product Type: Pet Tinctures
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/products/cbd-pet-drops-for-cats-salmon-flavored-300mg-178750.jpg?v=1692305949
   Price: $19.99 USD
 - [Blue Raspberry Mushroom Gummies | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-gummies): Let your taste buds take you on a trip through the stars with Road Trip's Blue Raspberry Magic Mushroom Gummies. Experience an enchanting journey now!
-  Updated: 2026-11-02T00:26:36Z
+  Updated: 2026-11-09T00:53:25Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -309,11 +309,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/BlueRaspberryMushroomGummyMasterCaseALT.jpg?v=1771541188
     Price: $349.99 USD
   - [2pc Pouches x 30 (BOX)](https://erthwellness.com/products/desert-stardust-mushroom-gummies?variant=42355606388806)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/blue_raspberry_30pk.jpg?v=1771541188
     Price: $299.99 USD
 - [Sour Apple CBD Vape Juice](https://erthwellness.com/products/cbd-vape-juice-green-apple): Refresh your taste buds with our sour apple flavored THC-free CBD vape juice. Crafted with premium, organic hemp plants for a pure experience.
-  Updated: 2026-11-01T03:32:18Z
+  Updated: 2026-11-06T22:53:16Z
   Vendor: Erth Wellness
   Product Type: Vape
   Availability: Available
@@ -326,7 +326,7 @@
     Availability: Available
     Price: $119.99 USD
 - [Watermelon CBD Vape Juice 1000mg](https://erthwellness.com/products/cbd-vape-juice-juicy-watermelon): Try our delicious watermelon flavored CBD Vape Juice and enjoy the therapeutic benefits of THC-Free CBD. Shop with Erth Wellness for quality products.
-  Updated: 2026-11-01T03:32:16Z
+  Updated: 2026-11-08T23:18:30Z
   Vendor: Erth Wellness
   Product Type: Vape
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $119.99 USD
 - [Blue Raspberry CBD Vape Juice](https://erthwellness.com/products/cbd-vape-juice-blue-raspberry): Enjoy the delicious taste of raspberry CBD vape juice, our premium thc-free cbd vape juice.. Elevate your vaping experience and get all the benefits in one hit.
-  Updated: 2026-11-01T03:32:16Z
+  Updated: 2026-11-06T12:21:08Z
   Vendor: Erth Wellness
   Product Type: Vape
   Availability: Available
@@ -352,7 +352,7 @@
     Availability: Available
     Price: $119.99 USD
 - [Grape Candy CBD Vape Juice 1000mg](https://erthwellness.com/products/cbd-vape-juice-grape-candy): Elevate your vaping experience with the tempting taste of our Grape Candy Flavored THC-Free CBD Vape Juice. This premium vape juice is meticulously crafted.
-  Updated: 2026-11-01T03:32:16Z
+  Updated: 2026-11-06T20:54:06Z
   Vendor: Erth Wellness
   Product Type: Vape
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Available
     Price: $119.99 USD
 - [Mint CBD Vape Juice 1000mg](https://erthwellness.com/products/cbd-vape-juice-mint): Discover the perfect fusion of nature's goodness and the cool, revitalizing allure of Wintermint in every draw. Shop today!
-  Updated: 2026-11-01T19:47:55Z
+  Updated: 2026-11-08T06:03:30Z
   Vendor: Erth Wellness
   Product Type: Vape
   Availability: Available
@@ -378,7 +378,7 @@
     Availability: Available
     Price: $119.99 USD
 - [Road Trip Strawberry Mushroom Gummies](https://erthwellness.com/products/mushroom-gummies-strawberry): Embark on an enchanting journey under the celestial wonders with Road Trips Desert Stardust strawberry mushroom gummies.
-  Updated: 2026-11-01T23:01:56Z
+  Updated: 2026-11-09T00:53:25Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -400,7 +400,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/strawberry_30pk.jpg?v=1733528425
     Price: $299.99 USD
 - [Pineapple Mushroom Gummies](https://erthwellness.com/products/mushroom-gummies-pineapple): Experience an enchanting journey with our signature pineapple mushroom gummies. A delightful blend of sweet and sour, try it today!
-  Updated: 2026-11-02T00:39:55Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -429,21 +429,21 @@
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/4x6popuptent.jpg?v=1698084847
   Price: $0.00 USD
 - [Road Trip Sold Here Sticker](https://erthwellness.com/products/road-trip-sold-here-sticker): 6 x 9
-  Updated: 2026-11-01T22:48:05Z
+  Updated: 2026-11-06T01:04:12Z
   Vendor: Road Trip Mushroom Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Screenshot_2026-02-13_142016.png?v=1771021279
   Price: $0.00 USD
 - [Water Soluble CBD 1000mg | Erth Wellness](https://erthwellness.com/products/water-soluble-cbd-tincture-unflavored-thc-free): Our Fast-Acting, Full-Spectrum RECOVER Drops feature our Nanoemulsified Water-Soluble CBD, CBG, and THC.
-  Updated: 2026-11-01T23:02:25Z
+  Updated: 2026-11-06T22:17:57Z
   Vendor: Erth Wellness
   Product Type: THC Free Tincture
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/drops_nano_recoverW.png?v=1702088331
   Price: $34.99 USD
 - [3000mg CBD + CBG Recover Drops | Erth Wellness](https://erthwellness.com/products/full-spectrum-high-potency-3000mg-cbd-3000mg-cbg-recover-drops): Recover Drops deliver 6000mg+ cannabinoids with high-potency CBD and CBG to support muscle recovery, balance, and everyday wellness.
-  Updated: 2026-11-01T11:21:55Z
+  Updated: 2026-11-09T00:05:55Z
   Vendor: Erth Wellness
   Product Type: CBD + CBG
   Availability: Available
@@ -457,7 +457,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/drops_unflavW.png?v=1702090091
     Price: $99.99 USD
 - [Buy Full Spectrum CBD + THC Drops | Erth](https://erthwellness.com/products/metabolism-slim-drops-1000mg-thcv-1000mg-cbd-drops): Looking to buy the best Full Spectrum CBD Oil online? Erth offers you all the benefits of hemp plants through our broad-spectrum CBD oil. Check out now!
-  Updated: 2026-11-01T21:01:36Z
+  Updated: 2026-11-08T22:02:25Z
   Vendor: Erth Wellness
   Product Type: THCV + CBD
   Availability: Available
@@ -471,14 +471,14 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/THCVDropsUnflavored_a4719922-168b-468f-9101-d0b9eb0d7afc.png?v=1702330622
     Price: $49.99 USD
 - [CBD Calming Chews 30ct | Erth Wellness](https://erthwellness.com/products/calming-chews-600mg-cbd-300mg-cbn-60ct): Our daily Calming Chews provide gentle, effective support for pets facing stress and anxiety—crafted to promote relaxation and emotional balance every day.
-  Updated: 2026-11-02T00:02:25Z
+  Updated: 2026-11-08T19:10:36Z
   Vendor: Daily Pet Co.
   Product Type: Calming Chews
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/CalmingChewPLUSGroupCLEAR.png?v=1754433808
   Price: $34.99 USD
 - [Road Trips Pineapple Mushroom Gummies](https://erthwellness.com/products/desert-stardust-mushroom-gummies-green-apple): Experience an enchanting journey with our signature green apple mushroom gummies. A delightful blend of sweet and sour, try it today!
-  Updated: 2026-11-02T00:39:56Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -500,7 +500,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/green_apple_30pk.jpg?v=1771541416
     Price: $299.99 USD
 - [Road Trip Microdosed Mushroom Gummies - Orange](https://erthwellness.com/products/microdosed-mushroom-gummies): Experience microdosed mushroom gummies crafted for focus, balance, and everyday wellness. Shop premium formulas from Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-01T19:37:26Z
+  Updated: 2026-11-08T23:06:46Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Microdose Mushroom Gummies
   Availability: Available
@@ -514,7 +514,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Road_Trip_Microdose_Gummies_Orange.jpg?v=1772213502
     Price: $209.99 USD
 - [Blue Dream Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-blue-dream): Experience Blue Dream Δ9 THC gummies with 10mg THC, blue raspberry flavor, live resin terpenes, and creative, uplifting effects.
-  Updated: 2026-11-02T00:26:36Z
+  Updated: 2026-11-09T00:36:55Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -528,7 +528,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/blue_dream_master_open.jpg?v=1728495861
     Price: $239.99 USD
 - [Watermelon Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-watermelon-og-strain-specific-indica-300mg): Enjoy Watermelon OG Δ9 THC gummies with 10mg THC, live resin terpenes, and indica-inspired effects. Third-party lab tested by Erth Wellness.
-  Updated: 2026-11-02T00:44:56Z
+  Updated: 2026-11-09T00:55:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -542,7 +542,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/watermelon_zkittles_master_open_6db9a255-d350-453b-9630-ecfe416b5a54.jpg?v=1769818113
     Price: $239.99 USD
 - [Green Crack Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-green-crack): Sample Green Crack Δ9 THC gummies with tropical fruit flavor, live resin terpenes, and energetic, focus-enhancing strain-inspired effects.
-  Updated: 2026-11-02T00:09:30Z
+  Updated: 2026-11-09T00:27:10Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -556,7 +556,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/green_crack_master_open.jpg?v=1728598634
     Price: $239.99 USD
 - [Pineapple Express Gummies Sativa 300mg](https://erthwellness.com/products/thc-gummies-pineapple-express-strain-specific-sativa-300mg): Explore Erth Wellness' Pineapple Express Gummies, crafted with potent 10mg of THC per gummy for sativa effects. Enjoy relaxation with each bite.
-  Updated: 2026-11-02T00:44:56Z
+  Updated: 2026-11-09T00:55:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -570,7 +570,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/pineapple_express_master_open.jpg?v=1727723561
     Price: $239.99 USD
 - [Strawberry Haze THC Gummies](https://erthwellness.com/products/strawberry-haze-thc-gummies): Enjoy Strawberry Haze Δ9 THC gummies with strain-inspired effects, delicious flavor, and premium hemp-derived ingredients from Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-02T00:44:55Z
+  Updated: 2026-11-09T00:55:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -584,7 +584,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/strawberry_haze_master_open.jpg?v=1728599004
     Price: $239.99 USD
 - [Granddaddy Purple Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-granddaddy-purple-live-resin-indica-300mg): Shop Granddaddy Purple Δ9 THC live resin gummies with indica-inspired effects and premium ingredients from Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-02T00:47:15Z
+  Updated: 2026-11-09T00:55:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -598,7 +598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/granddaddy_purple_master_open_f922f26e-35e1-4266-912f-59deebe27991.jpg?v=1727722283
     Price: $239.99 USD
 - [Gorilla Glue Live Resin Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-gorilla-glue-4-live-resin-hybrid-300mg): Enjoy the potent and tasty Gorilla Glue #4 gummies from Erth Wellness. Each gummy has 10mg of Δ9 THC for a consistent and enjoyable experience.
-  Updated: 2026-11-02T00:47:15Z
+  Updated: 2026-11-09T00:27:16Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -612,7 +612,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/gorilla_glue_master_open.jpg?v=1727478157
     Price: $239.99 USD
 - [Jack Herer Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/thc-gummies-jack-herer-live-resin-sativa-300mg): Experience Jack Herer Δ9 THC gummies with 10mg THC, live resin terpenes, and sativa-inspired effects. Third-party lab tested for quality.
-  Updated: 2026-11-02T00:45:05Z
+  Updated: 2026-11-09T00:23:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -626,7 +626,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/jack_herer_master_open.jpg?v=1727478613
     Price: $239.99 USD
 - [Sleep+ CBN + THC Gummies | Erth Wellness](https://erthwellness.com/products/sleep-gummies-cbn-thc-live-resin-750mg): Introducing our Sleep+ Gummies – the perfect blend of 20mg CBN, 5mg THC, 1.5mg melatonin, and Live Resin Terpenes
-  Updated: 2026-11-02T00:54:06Z
+  Updated: 2026-11-09T00:57:48Z
   Vendor: Erth Wellness
   Product Type: CBN Gummies
   Availability: Available
@@ -636,11 +636,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/CBN_THC_SLEEP_Gummies_Front_b9d061b9-0a98-4db9-86ec-7e82dc3888f9.jpg?v=1771538428
     Price: $34.99 USD
   - [6 Pack Box](https://erthwellness.com/products/sleep-gummies-cbn-thc-live-resin-750mg?variant=42190578581574)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/sleep_mastercase_open.jpg?v=1771538428
     Price: $239.99 USD
 - [Sleep+ CBN + THC Gummies Sample | Erth Wellness](https://erthwellness.com/products/cbn-thc-gummies-for-sleep): Sleep+ Gummies combine CBN, THC, melatonin, and live resin terpenes to promote deep relaxation, restful sleep, and overnight recovery.
-  Updated: 2026-11-02T00:50:30Z
+  Updated: 2026-11-09T00:54:26Z
   Vendor: Erth Wellness
   Product Type: CBN + THC
   Availability: Available
@@ -654,63 +654,63 @@
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/KeyChainback.jpg?v=1707092765
   Price: $1.99 USD
 - [CBD Calming Chews Sample | Erth Wellness](https://erthwellness.com/products/calming-chews-10mg-cbd-5mg-cbn-sample): Crafted for pets facing anxiety and stress, these calming treats offer safe, effective relief with natural ingredients like CBD, CBN, and soothing herbs.
-  Updated: 2026-11-01T13:58:35Z
+  Updated: 2026-11-08T22:58:05Z
   Vendor: Daily Pet Co.
   Product Type: Calming Chews
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/5pcs_samples_size_CALMING_CLEAR.png?v=1755710460
   Price: $7.50 USD
 - [Blue Dream - THC Gummies](https://erthwellness.com/products/blue-dream-thc-gummies): Try Blue Dream strain-specific THC gummies with live resin terpenes for creative energy, focus, and delicious blue raspberry flavor.
-  Updated: 2026-11-02T00:28:45Z
+  Updated: 2026-11-09T00:37:55Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Blue-Dream-_Creative_-Sample-Pack_Can-on-Limes_2026-08-18_1x_7dd5a05e-9712-47b1-84bb-09ed9bba784e.jpg?v=1787113819
   Price: $2.99 USD
 - [Gorilla Glue Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/9-thc-gummies-gorilla-glue-4-live-resin-hybrid-20mg-sample-size): Try Gorilla Glue #4 sample gummies with 10mg Δ9 THC, live resin terpenes, and relaxing hybrid-inspired effects. Third-party lab tested.
-  Updated: 2026-11-02T00:32:15Z
+  Updated: 2026-11-09T00:55:06Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Gorilla-Glue-_4-_Blissful_-Sample-Pack_Can-on-Limes_2026-08-18_1x_87dd89db-2cad-4c1b-b78e-c4ef28c75839.jpg?v=1787113670
   Price: $2.99 USD
 - [Green Crack THC Gummies](https://erthwellness.com/products/green-crack-thc-gummis): Sample our award-winning Green Crack strain-specific gummies, each with 10mg of THC for a potent, dispensary-strength experience. With tropical fruit flavor and terpenes like Myrcene, β-Caryophyllene, and β-Pinene, these gummies provide energetic, focused, and talkative effects. Lab-tested for quality and consistency.
-  Updated: 2026-11-02T00:48:55Z
+  Updated: 2026-11-09T00:52:56Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-18_1x_4.jpg?v=1787115353
   Price: $2.99 USD
 - [THC Gummies – Jack Herer (Creative) - SAMPLE PACK](https://erthwellness.com/products/δ9-thc-gummies-jack-herer-live-resin-sativa-20mg-sample-size): SAMPLE SIZE: Strain: Jack Herer (Sativa) - Introducing our latest strain-specific gummies, featuring a potent 10mg of Δ9 THC per gummy for dispensary strength and enjoyment.
-  Updated: 2026-11-02T00:48:50Z
+  Updated: 2026-11-09T00:52:55Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Jack-Herer-_Creative_-Sample-Pack_Can-on-Limes_2026-08-18_1x_8d401818-c0ef-406f-bbf0-1deddf82f4de.jpg?v=1787114724
   Price: $2.99 USD
 - [Pineapple Express Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/9-thc-gummies-pineapple-express-strain-specific-sativa-20mg-sample-size): Discover Northern Lights Δ9 THC gummies with 10mg THC, live resin terpenes, and soothing indica-inspired effects. Lab tested for quality.
-  Updated: 2026-11-02T00:48:52Z
+  Updated: 2026-11-09T00:53:26Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Pineapple-Express-_Uplifting_-Sample-Size_Can-on-Limes_2026-08-18_1x_e08cd69b-1c90-465d-bc22-75ac4c02e979.jpg?v=1787115837
   Price: $2.99 USD
 - [Strawberry Haze Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/strawberry-flavored-thc-gummies): Sample Strawberry Haze Δ9 THC gummies with 10mg THC, strawberry flavor, and energizing strain-inspired effects. Lab tested for purity.
-  Updated: 2026-11-02T00:48:55Z
+  Updated: 2026-11-09T00:52:56Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Strawberry-Haze-_Focus_-Sample-Pack_Can-on-Limes_2026-08-18_1x_4b3b84c3-2545-47e6-8833-5bb284e750b0.jpg?v=1787115198
   Price: $2.99 USD
 - [Watermelon Δ9 THC Gummies (20mg) | Erth Wellness](https://erthwellness.com/products/9-thc-gummies-watermelon-og-strain-specific-indica-20mg-sample-size): Try Watermelon OG sample Δ9 THC gummies with 10mg THC, live resin terpenes, and relaxing indica-inspired effects from Erth Wellness.
-  Updated: 2026-11-02T00:35:26Z
+  Updated: 2026-11-09T00:53:26Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-18_1x_3.jpg?v=1787113547
   Price: $2.99 USD
 - [Granddaddy Purple Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/9-thc-gummies-granddaddy-purple-live-resin-indica-20mg-sample-sizes): Try Granddaddy Purple Δ9 THC sample gummies with 10mg THC, live resin terpenes, relaxing indica-inspired effects, and third-party lab testing.
-  Updated: 2026-11-02T00:35:45Z
+  Updated: 2026-11-09T00:54:25Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -751,7 +751,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Screenshot_2026-02-04_160800.png?v=1770250106
     Price: $0.00 USD
 - [On The Road To Nowhere - T-Shirt](https://erthwellness.com/products/on-the-road-to-nowhere-t-shirt): Embark on a whimsical journey with our 'On the Road to Nowhere' t-shirt. Crafted from 30 singles ring spun combed fabric, this shirt offers unparalleled softness and comfort. Its sleek, regular fit with a slight shoulder drop creates a flattering silhouette, elegantly accentuating your arms. Perfect for those who cherish both style and comfort, this shirt is a delightful addition to any wardrobe, blending imaginative design with luxurious quality. Male Sizes
-  Updated: 2026-11-01T22:43:06Z
+  Updated: 2026-11-06T01:04:21Z
   Vendor: Road Trip Mushroom Co.
   Product Type: T-shirt
   Availability: Available
@@ -775,35 +775,35 @@
     Availability: Available
     Price: $20.00 USD
 - ["Dreamcatcher" - 80mg Delta-8 THC + 20mg CBN Gummies - Blue Raspberry - (SAMPLE PACK)](https://erthwellness.com/products/dreamcatcher-80mg-delta-8-20mg-cbn-gummies-blue-raspberry-sample-size): Introducing Native Extracts "Dreamcatcher" Vegan Gummies: your ultimate solution for restful sleep. Each gummy contains 40mg of Delta-8 THC and 10mg of CBN, expertly formulated to promote relaxation and ensure a deep, restful slumber.
-  Updated: 2026-11-02T00:00:15Z
+  Updated: 2026-11-08T22:45:41Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/2pcpouchwithfruit.jpg?v=1718818818
   Price: $3.50 USD
 - ["Warrior" - 80mg Delta-8 THC + 20mg CBG Gummies - Mango - (SAMPLE PACK)](https://erthwellness.com/products/warrior-80mg-delta-8-20mg-cbg-gummies): Behold the sacred gift of Native Extracts "Warrior" Vegan Gummies, crafted with the wisdom of the ancients for your journey of renewal. Each enchanted gummy, infused with 40mg of Delta-8 THC and 10mg of CBG, is a testament to the harmonious blend of nature's finest elements, guiding you towards healing and balance.
-  Updated: 2026-11-02T00:14:55Z
+  Updated: 2026-11-08T23:31:35Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/WarriorPouchSample.jpg?v=1718823660
   Price: $3.50 USD
 - ["Storyteller" - 100mg Delta-8 Gummies - Pineapple (SAMPLE PACK)](https://erthwellness.com/products/storyteller-100mg-delta-8-pineapple-sample-size): Gather 'round, seekers of wisdom, and embrace the magic of Native Extracts "Storyteller" Gummies. Each sacred gummy, infused with 50mg of potent Delta-8 THC, is crafted to elevate your mind and spirit. With the sweet essence of pineapple, these enchanted morsels make your journey both delightful and refreshing.
-  Updated: 2026-11-02T00:04:05Z
+  Updated: 2026-11-09T00:36:55Z
   Vendor: Native Extracts
   Product Type: Delta-8 Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Delta8Samplewithfruit.jpg?v=1718823958
   Price: $3.50 USD
 - [Insulated Shipping Kit + Cold Pack](https://erthwellness.com/products/insulated-shipping-kit-cold-pack): Protect gummies and chocolates with our insulated shipping kit featuring a foam container, cold pack, and shipping box to reduce melting.
-  Updated: 2026-11-01T23:50:05Z
+  Updated: 2026-11-08T23:48:15Z
   Vendor: Erth Wellness
   Product Type: warranty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Small_Insulated_Shipping_Kit.png?v=1785434253
   Price: $9.99 USD
 - [Thank You for Tripping With us - T-Shirt](https://erthwellness.com/products/thank-you-for-tripping-with-us-t-shirt): Introducing our exclusive 'Thank You for Tripping With us' shirt, designed to elevate both style and conversation. Crafted from luxurious 30 singles ring spun combed fabric, this t-shirt offers unparalleled softness and comfort. With a sleek, regular body fit and a slight shoulder drop for a slimming effect, it effortlessly accentuates your arms while making a bold statement. Perfect for those who appreciate fine craftsmanship and a bit of playful humor, this shirt is a must-have for every enthusiast of the extraordinary. Male Sizes
-  Updated: 2026-11-01T22:48:06Z
+  Updated: 2026-11-06T01:04:26Z
   Vendor: Road Trip Mushroom Co.
   Product Type: T-shirt
   Availability: Available
@@ -827,7 +827,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Road Trip Microdosed Gummies - Pink Lemonade](https://erthwellness.com/products/road-trip-microdosed-gummies-functional-mushrooms-pink-lemonade): Enjoy Road Trip microdosed functional mushroom gummies in Pink Lemonade. Crafted for balance, focus, and daily wellness by Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-01T22:18:36Z
+  Updated: 2026-11-08T22:02:16Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Microdose Mushroom Gummies
   Availability: Available
@@ -841,7 +841,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Road_Trip_Microdose_Gummies_Pink_Lemonade.jpg?v=1772213455
     Price: $209.94 USD
 - [Northern Lights Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/δ9-thc-gummies-northern-lights-live-resin-indica-300mg): Discover Northern Lights Δ9 THC live resin gummies with indica-inspired relaxation and premium quality from Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-02T00:44:56Z
+  Updated: 2026-11-09T00:57:46Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -855,7 +855,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/northern_lights_master_open.jpg?v=1727726847
     Price: $239.99 USD
 - [Wedding Cake Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/δ9-thc-gummies-wedding-cake-live-resin-hybrid-300mg): Enjoy Wedding Cake Δ9 THC live resin gummies with balanced hybrid effects and premium ingredients from Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-02T00:44:56Z
+  Updated: 2026-11-09T00:55:05Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
@@ -869,21 +869,21 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/wedding_cake_master_open.jpg?v=1727727359
     Price: $239.99 USD
 - [Northern Lights Δ9 THC Gummies (20mg) | Erth Wellness](https://erthwellness.com/products/δ9-thc-gummies-northern-lights-live-resin-indica-20mg-sample-size): Shop strain-specific Δ9 THC gummies with 10mg THC per gummy, live resin terpenes, premium hemp ingredients, and third-party lab-tested quality.
-  Updated: 2026-11-02T00:35:45Z
+  Updated: 2026-11-09T00:54:20Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Gummies-_-Northern-Lights-_Relaxed_-Sample-Pack_Can-on-Limes_2026-08-18_1x_e67b4875-efd7-4fdd-a1d2-05ede0fcae87.jpg?v=1787115955
   Price: $2.99 USD
 - [Wedding Cake Δ9 THC Gummies | Erth Wellness](https://erthwellness.com/products/δ9-thc-gummies-northern-lights-live-resin-indica-20mg-sample-size-copy): Sample Granddaddy Purple Δ9 THC gummies with 10mg THC, premium live resin terpenes, and calming indica-inspired effects.
-  Updated: 2026-11-02T00:28:36Z
+  Updated: 2026-11-09T00:36:56Z
   Vendor: Erth Wellness
   Product Type: THC Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-18_1x_2.jpg?v=1787112546
   Price: $2.99 USD
 - [THC-Free CBG Gummies | Erth Wellness](https://erthwellness.com/products/cbg-cbd-gummies-for-recovery): Support recovery with THC-free Recover Gummies featuring 25mg CBD and 25mg CBG per serving to promote relaxation and everyday wellness.
-  Updated: 2026-11-02T00:24:50Z
+  Updated: 2026-11-09T00:29:05Z
   Vendor: Erth Wellness
   Product Type: THC Free Gummies
   Availability: Available
@@ -897,14 +897,14 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/recover_mastercase_open.jpg?v=1771534691
     Price: $239.99 USD
 - [THC Free RECOVER Gummies - Vegan - Strawberry Mango - 50mg](https://erthwellness.com/products/thc-free-recover-gummies-vegan-strawberry-mango-50mg-sample-size-copy): Introducing our "Recover" Gummies, crafted to support your wellness with 25mg of CBD and 25mg of CBG per gummy. CBD offers calming, anti-inflammatory benefits, while CBG enhances recovery by promoting focus and reducing discomfort.
-  Updated: 2026-11-02T00:49:15Z
+  Updated: 2026-11-09T00:50:58Z
   Vendor: Erth Wellness
   Product Type: THC Free Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Photoshoot_THC-Free-Recover-Gummies-_-CBD-_-CBG-Strawberry-Mango-_50mg-Sample-Pack__Can-on-Limes_2026-08-22_1x_da2d3a44-1e59-460a-8e93-3cc5691d4355.jpg?v=1787442166
   Price: $2.99 USD
 - [HAVE A NICE TRIP™ - Pullover Hoodie Sweater](https://erthwellness.com/products/have-a-nice-trip™-pullover-hoodie-sweater): Our "Have a Nice Trip" Pullover hoodie is your new daily essential. 3d Oversized Puff Print Design Premium Midweight 8.5oz./280gm 3-end fleece 80% Ring Spun Cotton cotton / 20% polyester Pre-laundered fabric to reduce shrinking Boxy fit with drop shoulder No drawcord Double layer 1-piece hood Blindstitch sewing on all seams for an understated simplified design 350gm 1x1 ribbing at cuff and waistband
-  Updated: 2026-11-01T20:30:15Z
+  Updated: 2026-11-06T19:15:35Z
   Vendor: Road Trip Mushroom Co.
   Product Type: 
   Availability: Available
@@ -1030,7 +1030,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Violet_Blush_Hoodie.jpg?v=1771355225
     Price: $40.00 USD
 - [Desert Stardust Gummies Sample | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-gummies-2-pack-sample-size): Take Desert Stardust mushroom gummies anywhere with this convenient 2-piece pouch, crafted for focus, balance, and everyday wellness.
-  Updated: 2026-11-02T00:48:55Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: 
   Availability: Available
@@ -1068,7 +1068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Cotton_Candy_2-Packs_347151f9-4ab3-40ff-b77e-7c3ff72e6d62.jpg?v=1740330417
     Price: $9.99 USD
 - [Road Trip Catalog](https://erthwellness.com/products/road-trip-catalog)
-  Updated: 2026-11-01T22:48:05Z
+  Updated: 2026-11-06T01:04:11Z
   Vendor: Erth Wellness
   Product Type: 
   Availability: Available
@@ -1082,7 +1082,7 @@
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Peacesign-lighter.png?v=1737152856
   Price: $7.99 USD
 - [Road Trip Mushroom Gummies - Rocket Pop](https://erthwellness.com/products/desert-stardust-mushroom-gummies-rocket-pop): Blast off with Rocket Pop Road Trip Mushroom Gummies! A bold, nostalgic mix of cherry, lime, and blue raspberry flavors to fuel your next adventure.
-  Updated: 2026-11-01T22:58:06Z
+  Updated: 2026-11-09T00:53:25Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -1104,7 +1104,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Rocket_Pop_30pk_e56c8aa9-50c1-4aaa-993d-c77796a4436f.jpg?v=1771541370
     Price: $299.99 USD
 - [Road Trip Mushroom Gummies - Watermelon](https://erthwellness.com/products/desert-stardust-mushroom-gummies-watermelon): Enjoy the refreshing taste of Watermelon Road Trip Mushroom Gummies. A juicy, delicious way to enhance your journey and explore with ease!
-  Updated: 2026-11-02T00:44:56Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -1126,7 +1126,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/watermelon30pk.jpg?v=1772213277
     Price: $299.99 USD
 - [Road Trip Mushroom Gummies - Sunset Punch](https://erthwellness.com/products/desert-stardust-mushroom-gummies-sunset-punch): Experience Sunset Punch Road Trip Gummies—crafted for a smooth, flavorful journey. Enjoy our perfect blend of taste and function in every bite.
-  Updated: 2026-11-01T23:40:06Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -1148,7 +1148,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Sunset_Punch_30pk_8060cf14-306c-4ccc-af0a-9b54e6505c9b.jpg?v=1771541150
     Price: $299.99 USD
 - [Road Trip Mushroom Gummies - Cotton Candy](https://erthwellness.com/products/desert-stardust-mushroom-gummies-cotton-candy): Indulge in the sweet, nostalgic taste of Cotton Candy Road Trip Mushroom Gummies. A fun and flavorful way to elevate your journey, anytime, anywhere!
-  Updated: 2026-11-02T00:44:52Z
+  Updated: 2026-11-08T23:25:10Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Gummies
   Availability: Available
@@ -1170,7 +1170,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Cotton_Candy_30pk.jpg?v=1771541311
     Price: $299.99 USD
 - [Road Trip Milk Chocolate Bar | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-milk-chocolate): Experience our premium mushroom chocolate bar, crafted for a smooth, immersive journey. Perfect for microdosing or deep exploration.
-  Updated: 2026-11-02T00:14:56Z
+  Updated: 2026-11-07T23:47:55Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Chocolate
   Availability: Available
@@ -1180,11 +1180,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/MilkChocolateBar.jpg?v=1740525070
     Price: $29.99 USD
   - [8pc Chocolate Bar x 10 (BOX)](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-milk-chocolate?variant=42549742043206)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/MilkChocolateMaster.jpg?v=1745342935
     Price: $349.99 USD
 - [Road Trip Strawberry Crunch Bar | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-strawberry-crunch): Indulge in our Strawberry Crunch mushroom chocolate bar—rich, creamy, and packed with a satisfying crunch for a deliciously immersive experience.
-  Updated: 2026-11-01T23:40:05Z
+  Updated: 2026-11-08T17:09:40Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Chocolate
   Availability: Available
@@ -1194,11 +1194,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/StrawberryCreamChocolateBar.jpg?v=1740525573
     Price: $29.99 USD
   - [8pc Strawberry Crunch x 10 (BOX)](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-strawberry-crunch?variant=42549782642758)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/StrawberryMaster.jpg?v=1745342907
     Price: $349.99 USD
 - [Road Trip Dark Chocolate Orange | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-dark-chocolate-orange): Indulge in our Dark Chocolate Orange mushroom bar—rich cocoa meets zesty citrus for a smooth, uplifting journey. Perfect for microdosing or deep exploration!
-  Updated: 2026-11-02T00:35:45Z
+  Updated: 2026-11-08T17:09:45Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Chocolate
   Availability: Available
@@ -1212,7 +1212,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/DarkChocolateMaster.jpg?v=1740525768
     Price: $349.99 USD
 - [Road Trip Cookies & Cream Bar | Erth Wellness](https://erthwellness.com/products/desert-stardust-mushroom-chocolate-bar-cookies-cream): Indulge in our Cookies & Cream Mushroom Chocolate Bar—rich, creamy, and crafted for a smooth, immersive journey. Perfect for microdosing or exploring!
-  Updated: 2026-11-01T22:58:05Z
+  Updated: 2026-11-08T17:09:45Z
   Vendor: Road Trip Mushroom Co.
   Product Type: Mushroom Chocolate
   Availability: Available
@@ -1226,7 +1226,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/CookiesandCreamMaster.jpg?v=1745342881
     Price: $349.99 USD
 - [Tangie Dream Δ9 THC Chocolate | Erth Wellness](https://erthwellness.com/products/thc-chocolate-bar-tangie-dream-100mg): Enjoy dispensary-strength THC chocolate bars with 10mg THC per square. Infused with strain-specific terpenes for tailored effects. Lab-tested quality.
-  Updated: 2026-11-01T22:58:56Z
+  Updated: 2026-11-08T20:36:46Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1240,7 +1240,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/TangieDreamMasterOPEN.jpg?v=1745343441
     Price: $149.99 USD
 - [Δ9 THC Chocolate Bar – Durban Haze (Sativa) | Live Resin | Milk Chocolate (100mg)](https://erthwellness.com/products/thc-chocolate-bar-durban-haze-100mg): Enjoy dispensary-strength LIVE RESIN chocolate bars with 10mg THC per square. Infused with strain-specific terpenes for tailored effects. Lab-tested quality.
-  Updated: 2026-11-01T23:47:36Z
+  Updated: 2026-11-09T00:36:57Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1254,7 +1254,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/DurbanHazeMasterOPEN.jpg?v=1740601554
     Price: $149.99 USD
 - [Granddaddy Purple Δ9 THC Chocolate | Erth Wellness](https://erthwellness.com/products/δ9-thc-chocolate-bar-granddaddy-purple-100mg): Try the Granddaddy Purple Δ9 THC chocolate bar with live resin, crafted for rich flavor and premium quality at Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-02T00:23:25Z
+  Updated: 2026-11-08T03:32:25Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1268,7 +1268,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/GranddaddyPurpleMasterOPEN.jpg?v=1744388194
     Price: $149.99 USD
 - [Δ9 THC Chocolate Bar – Cereal Milk (Hybrid) | Strain Specific | Cereal Bar Flavor (100 mg)](https://erthwellness.com/products/thc-chocolate-bar-cereal-milk-100mg): Enjoy dispensary-strength THC chocolate bars with 10mg THC per square. Infused with strain-specific terpenes for tailored effects. Lab-tested quality.
-  Updated: 2026-11-01T02:21:46Z
+  Updated: 2026-11-09T00:36:56Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1282,7 +1282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/CerealMilkMasterOPEN.jpg?v=1745343536
     Price: $149.99 USD
 - [Δ9 THC Chocolate Bar – Girl Scout Cookies (Indica) | Strain Specific | Chocolate Mint (100mg)](https://erthwellness.com/products/thc-chocolate-bar-girl-scout-cookies-100mg): Enjoy dispensary-strength THC chocolate bars with 10mg THC per square. Infused with strain-specific terpenes for tailored effects. Lab-tested quality.
-  Updated: 2026-11-02T00:23:25Z
+  Updated: 2026-11-09T00:36:55Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1296,7 +1296,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/GirlScoutCookiesMasterOPEN.jpg?v=1740605270
     Price: $149.99 USD
 - [Wedding Cake Δ9 THC Chocolate | Erth Wellness](https://erthwellness.com/products/thc-chocolate-bar-wedding-cake-100mg): Indulge in the Wedding Cake Δ9 THC chocolate bar with live resin for a smooth, flavorful experience. Shop premium edibles at Erth Wellness. (Erth Wellness)
-  Updated: 2026-11-01T22:58:56Z
+  Updated: 2026-11-09T00:36:50Z
   Vendor: Erth Wellness
   Product Type: THC Chocolate
   Availability: Available
@@ -1324,49 +1324,49 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Insignia_Fridge_Erth.jpg?v=1760379678
     Price: $399.99 USD
 - [WHOLESALE Insulated Shipping Kit + Cold Pack](https://erthwellness.com/products/wholesale-insulated-shipping-kit-cold-pack): Don't Let Heat Ruin Your Order Give your products the protection they deserve. Our Wholesale Insulated Shipping Kit helps shield temperature-sensitive items from excessive heat during transit, reducing the risk of melting or heat damage.Each kit includes: Heavy-duty shipping box Insulated foam cooler Cold pack Recommended for wholesale orders containing gummies, chocolates, beverages, and other products that may be affected by elevated temperatures.While no shipping method can guarantee a specific temperature throughout transit, this kit provides added insulation to help keep your products cooler for longer.
-  Updated: 2026-10-29T19:28:36Z
+  Updated: 2026-11-06T23:42:46Z
   Vendor: Erth Wellness
   Product Type: warranty
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Insulate_shipping_kit_130b44f7-cddf-4b02-85f2-44403376df90.png?v=1785438324
   Price: $24.99 USD
 - [Road Trip Skate Board Deck](https://erthwellness.com/products/road-trip-skate-board-deck): 8.25 x 32 inches long 7-Ply 100% FSC Maple, the best wood for making skateboards, period.
-  Updated: 2026-10-06T22:20:38Z
+  Updated: 2026-11-06T01:04:12Z
   Vendor: Road Trip Mushroom Co.
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/new-board-2.png?v=1789081037
   Price: $39.99 USD
 - [Lion's Mane Mushroom Gummies | Erth Wellness](https://erthwellness.com/products/lions-mane-gummies): Support focus, memory, and cognitive wellness with Lion's Mane Gummies made from premium fruiting body extract by Erth Wellness.
-  Updated: 2026-11-01T23:47:57Z
+  Updated: 2026-11-08T19:44:15Z
   Vendor: Erth Wellness
   Product Type: Lion's Mane Gummies
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/New-amazon-main.png?v=1777306391
   Price: $24.99 USD
 - [Daily Pet Co. - Calming Chews for Dogs](https://erthwellness.com/products/calming-soft-chews-for-dogs): Our daily Calming Chews offer safe, effective relief for pets dealing with stress or anxiety—thoughtfully crafted to promote relaxation and emotional well-being.
-  Updated: 2026-10-30T18:48:35Z
+  Updated: 2026-11-05T13:46:06Z
   Vendor: Daily Pet Co.
   Product Type: Calming Chews
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/CalmingChewGroupCLEAR.png?v=1754434168
   Price: $29.99 USD
 - [Hip & Joint Soft Chews+ for Dogs – Glucosamine, CBD & CBG Support](https://erthwellness.com/products/hip-joint-soft-chews-plus): Support your dog’s mobility with Glucosamine, MSM, Chondroitin, CBD & CBG. Eases stiffness and promotes joint comfort in active and aging dogs.
-  Updated: 2026-11-01T23:23:41Z
+  Updated: 2026-11-08T16:24:05Z
   Vendor: Daily Pet Co.
   Product Type: Hip & Joint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Hip_and_Joint_PLUS_Group_CLEAR.png?v=1754435811
   Price: $34.99 USD
 - [Hip & Joint Soft Chews for Dogs](https://erthwellness.com/products/hip-joint-soft-chews-for-dogs): Support your dog’s mobility with Glucosamine, MSM, and Chondroitin. Helps ease stiffness and promotes joint comfort in active and aging dogs.
-  Updated: 2026-10-29T16:02:16Z
+  Updated: 2026-11-07T00:15:57Z
   Vendor: Daily Pet Co.
   Product Type: Hip & Joint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/HipandJointGroupCLEAR.png?v=1754435963
   Price: $29.99 USD
 - [Allergy-Immune Soft Chews for Dogs](https://erthwellness.com/products/allergy-immune-soft-chews-for-dogs): upports dogs with seasonal allergies using Quercetin, Colostrum & Bromelain. Promotes healthy skin, immune function & normal histamine levels.
-  Updated: 2026-10-30T15:20:40Z
+  Updated: 2026-11-07T20:42:25Z
   Vendor: Daily Pet Co.
   Product Type: Allergy-Immune
   Availability: Available
@@ -1380,21 +1380,21 @@
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/SkinandJointGroupCLEAR.png?v=1754436517
   Price: $29.99 USD
 - [Erth Wellness 2-Step Display Shelves](https://erthwellness.com/products/erth-wellness-2-step-display-shelves)
-  Updated: 2026-07-28T05:54:28Z
+  Updated: 2026-11-06T00:26:25Z
   Vendor: Erth Wellness
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/erthdisplay5.3_1_008ac850-b808-4320-b4d2-cefbb94be658.png?v=1754690218
   Price: $140.00 USD
 - [Hip & Joint Chews+ for Dogs - 50mg CBD : 25mg CBG - (Sample Size)](https://erthwellness.com/products/hip-joint-chews-for-dogs-50mg-cbd-25mg-cbg-5-piece-sample-size): Our Hip & Joint Soft Chews+ are carefully formulated to support your dog’s mobility, flexibility, and overall joint health.
-  Updated: 2026-11-01T23:50:15Z
+  Updated: 2026-11-07T23:52:55Z
   Vendor: Daily Pet Co.
   Product Type: Hip & Joint
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/5pcs_samples_size_HIP_CLEAR.png?v=1755710559
   Price: $7.50 USD
 - [Happy Caps® x Road Trip - MICRODOSED Gummies + Functional Mushrooms - Tropic Punch](https://erthwellness.com/products/road-trip-x-happy-caps®-microdosed-gummies-functional-mushrooms-citrus-sunrise-copy): Happy Caps x Road Trip Passion Fruit Flavored, Microdosed Gummies with Desert Stardust & 5 functional mushrooms for focus, stress, gut, & immune support.
-  Updated: 2026-11-02T00:06:55Z
+  Updated: 2026-11-08T23:06:46Z
   Vendor: Happy Caps
   Product Type: Microdose Mushroom Gummies
   Availability: Available
@@ -1408,7 +1408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/TropicPunchMaster.jpg?v=1759343424
     Price: $349.99 USD
 - [Happy Caps Microdosed Gummies | Erth Wellness](https://erthwellness.com/products/happy-caps®-x-road-trip-microdosed-gummies-functional-mushrooms-passion-fruit): Enjoy Happy Caps x Road Trip microdosed mushroom gummies with functional mushrooms to support focus, mood, stress relief, and daily wellness.
-  Updated: 2026-11-01T20:27:50Z
+  Updated: 2026-11-08T02:11:56Z
   Vendor: Happy Caps
   Product Type: Microdose Mushroom Gummies
   Availability: Available
@@ -1422,7 +1422,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/PassionFruitMaster.jpg?v=1759343656
     Price: $349.99 USD
 - [Happy Caps® x Road Trip - MICRODOSED Gummies + Functional Mushrooms - Berry Blast](https://erthwellness.com/products/happy-caps®-x-road-trip-microdosed-gummies-functional-mushrooms-berry-blast): Happy Caps x Road Trip Mushroom Gummies: Microdosed with Desert Stardust. Boosts focus, stress relief, gut health, immunity with Lion’s Mane, Reishi, & more!
-  Updated: 2026-11-01T20:43:05Z
+  Updated: 2026-11-08T02:57:06Z
   Vendor: Happy Caps
   Product Type: Microdose Mushroom Gummies
   Availability: Available
@@ -1436,199 +1436,49 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/BerryBlastMasterPack.jpg?v=1759344144
     Price: $349.99 USD
 - [Sleep Sample Bundle – Rest Easy Variety Pack](https://erthwellness.com/products/sleep-sample-bundle-rest-easy-variety-pack): Discover your ideal sleep formula with the Sleep Sample Bundle featuring premium cannabinoid gummies designed to support restful nights.
-  Updated: 2026-11-02T00:35:55Z
+  Updated: 2026-11-09T00:54:30Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-19_1x_76792b1a-f0a4-45ed-a528-b740424b1b69.jpg?v=1787180009
   Price: $14.95 USD
 - [Stress-Free CBD Sample Bundle | Erth Wellness](https://erthwellness.com/products/stress-free-sample-bundle-calm-recover-unwind-1): Try the Stress-Free Sample Bundle featuring premium CBD and THC wellness gummies formulated to help ease stress and promote relaxation.
-  Updated: 2026-11-02T00:49:25Z
+  Updated: 2026-11-09T00:54:35Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-19_1x_1.jpg?v=1787181936
   Price: $11.96 USD
 - [Sativa Sample Bundle | Erth Wellness](https://erthwellness.com/products/sativa-sample-bundle-uplift-energize-collection-1): Explore the Sativa Sample Bundle with strain-specific Δ9 THC gummies crafted to promote uplifting, energetic, and creative experiences.
-  Updated: 2026-11-02T00:49:01Z
+  Updated: 2026-11-09T00:53:35Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-22_1x_34f92969-4b2a-46c1-8890-bea351c2193b.jpg?v=1787437871
   Price: $11.96 USD
 - [Hybrid THC Sample Bundle – Balanced Bliss Collection](https://erthwellness.com/products/hybrid-sample-bundle-balanced-bliss-collection-1): Enjoy the Hybrid Sample Bundle featuring strain-specific Δ9 THC gummies for balanced relaxation, focus, and premium hemp-derived effects.
-  Updated: 2026-11-02T00:32:25Z
+  Updated: 2026-11-09T00:55:15Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-22_1x_1.jpg?v=1787439591
   Price: $8.97 USD
 - [Indica THC Sample Bundle – Deep Relaxation Trio](https://erthwellness.com/products/indica-sample-bundle-deep-relaxation-trio-1): Unwind with the Indica Sample Bundle featuring strain-specific Δ9 THC gummies enhanced with live resin terpenes for evening relaxation.
-  Updated: 2026-11-02T00:35:55Z
+  Updated: 2026-11-09T00:54:35Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-18_1x_10.jpg?v=1787119918
   Price: $8.97 USD
 - [Best Sellers Bundle | Erth Wellness](https://erthwellness.com/products/top-5-best-sellers-bundle-customer-favorites-collection): Explore Erth Wellness best sellers with a sample bundle of premium THC and wellness gummies, crafted for quality, purity, and consistency.
-  Updated: 2026-11-02T00:49:05Z
+  Updated: 2026-11-09T00:55:15Z
   Vendor: Erth Wellness
   Product Type: Bundle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Erth-Wellness_Edit_2026-08-18_1x_8.jpg?v=1787118803
   Price: $14.95 USD
-- [FVKD Exotics THC-A Rosin Disposable – 3.5g](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g): Experience premium FVKD Exotics THCA Rosin Disposables with rich flavor, high potency, and pure rosin crafted for an exceptional vape.
-  Updated: 2026-11-02T00:26:35Z
-  Vendor: FVKD Exotics
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Alaskan_Thunder_LIVE_ROSIN.jpg?v=1761000941
-  - [Alaskan Thunder (Sativa)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43917046513734)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-thca-rosin-alaskan-thunder-fvkd-case-device_jpg.webp?v=1760665293
-    Price: $29.99 USD
-  - [Fruit Punch (Sativa)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43917046546502)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Fruit_Punch_Live_Rosin.jpg?v=1761000954
-    Price: $29.99 USD
-  - [Hawaiian Dream (Sativa)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43917046579270)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Hawaiian_Dream_Live_Rosin.jpg?v=1761000966
-    Price: $29.99 USD
-  - [Pineapple Fruz (Sativa)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931090911302)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Pineapple_Fruz_Live_Rosin.jpg?v=1761000977
-    Price: $29.99 USD
-  - [Grape Soda (Hybrid)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931090944070)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Grape_Soda_Live_Rosin.webp?v=1770230673
-    Price: $29.99 USD
-  - [Space Cake (Hybrid](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931090976838)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Space_Cake_Live_Rosin.webp?v=1770230826
-    Price: $29.99 USD
-  - [Mango Kush (Hybrid)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931091009606)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Mango_Kush_Live_Rosin.webp?v=1770230710
-    Price: $29.99 USD
-  - [Cherry Blossom (Indica)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931091042374)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Cherry_Blossom_Live_Rosin.jpg?v=1761001028
-    Price: $29.99 USD
-  - [Monster Cookies (Indica)](https://erthwellness.com/products/fvkd-exotics-thc-a-rosin-disposable-3-5g?variant=43931091075142)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Monster_Cookies_Live_Rosin.jpg?v=1761001042
-    Price: $29.99 USD
-- [FVKD Minis THC-A Rosin Disposable – 1.5g](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g): Discover FVKD Minis THCA Rosin Disposables featuring premium live rosin, rich terpene flavor, and smooth performance in a compact design.
-  Updated: 2026-11-02T00:16:15Z
-  Vendor: FVKD Exotics
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-berry-zkittlez-1pk-angled-both_jpg.webp?v=1760668575
-  - [Berry Zkittlez (Hybrid)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917241942086)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-berry-zkittlez-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-  - [Gelonade Vape (Sativa)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242007622)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-gelonade-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-  - [Gluetopia (Hybrid)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242040390)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-gluetopia-1pk-angled-both_jpg_0f159d49-1bc2-4958-b26a-c141d42d068c.webp?v=1766100810
-    Price: $17.99 USD
-  - [Hella Jelly (Sativa)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242105926)
-    Availability: Not Available
-    Price: $17.99 USD
-  - [Pink Gorilla (Indica)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242138694)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-pink-gorilla-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-  - [Pop Rockets (Indica)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242171462)
-    Availability: Not Available
-    Price: $17.99 USD
-  - [Purple Punch (Indica)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43917242204230)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-purple-punch-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-  - [Tangerine Dream (Sativa)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43931132723270)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-tangerine-dream-1pk-angled-both.jpg?v=1761002242
-    Price: $17.99 USD
-  - [Zours (Sativa)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43931132756038)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-zours-1pk-angled-both.jpg?v=1761002267
-    Price: $17.99 USD
-  - [White Gummies (Hybrid)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=43931135967302)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-white-gummiez-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-  - [Blackberry Moonrocks (Hybrid)](https://erthwellness.com/products/fvkd-minis-thc-a-rosin-disposable-1-5g?variant=45292130828358)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fvkd-minis-blackberry-moonrocks-1pk-angled-both_jpg.webp?v=1760668575
-    Price: $17.99 USD
-- [FVKD THCA Hash Holez Pre-Rolls | Erth Wellness](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g): Shop FVKD Hash Holez THCA Pre-Rolls infused with THCA diamonds and hash for exceptional flavor, potency, and a smooth smoking experience.
-  Updated: 2026-11-01T16:05:26Z
-  Vendor: FVKD Exotics
-  Product Type: Pre-Rolls
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Cherry_Pie_2pk_Angle_Joint_copy.jpg?v=1760671253
-  - [Cherry Pie (Sativa)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945615942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Cherry_Pie_2pk_Angle_Joint_copy.jpg?v=1760671253
-    Price: $18.99 USD
-  - [Strawberry Kush Cake (Sativa)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945648710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Strawberry_Kush_Cake_2pk_Angle_Joint_copy.jpg?v=1760671289
-    Price: $18.99 USD
-  - [Maui Mango (Hybrid)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945681478)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Maui_Mango_2pk_Angle_Joint_copy.jpg?v=1760671305
-    Price: $18.99 USD
-  - [Purple Punch (Hybrid)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945714246)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Purple_Punch_2pk_Angle_Joint_copy.jpg?v=1760671318
-    Price: $18.99 USD
-  - [Blue Raspberry (Indica)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945747014)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Blue_Raspberry_2pk_Angle_Joint_copy.jpg?v=1760671333
-    Price: $18.99 USD
-  - [Rainbow Sherbet (Indica)](https://erthwellness.com/products/fvkd-diamond-infused-hash-holez-thca-pre-rolls-2ct-4g?variant=43918945779782)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD_Holez_Hash_Pre_Roll_Rainbow_Sherbet_2pk_Angle_Joint_copy.jpg?v=1760671349
-    Price: $18.99 USD
-- [FVKD THC-A Sugar Disposable – 3.5g](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g): Discover the FVKD THCA Sugar Disposable with 3.5g of premium THCA blend for smooth flavor, lasting performance, and powerful effects.
-  Updated: 2026-11-02T00:14:51Z
-  Vendor: FVKD Exotics
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Dubai_Diesel_Sugar.jpg?v=1760998773
-  - [White Gummy (Hybrid)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43918996865094)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/White_Gummy_SUGAR.jpg?v=1760998946
-    Price: $29.99 USD
-  - [Blue Dream (Hybrid)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43918996897862)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Blue_Dream_SUGAR.jpg?v=1760998882
-    Price: $29.99 USD
-  - [Dream Berry (Indica)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43918996930630)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Dream_Berry_SUGAR.jpg?v=1760999062
-    Price: $29.99 USD
-  - [Granddaddy Purp (Indica)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43918996963398)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Grandaddy_Purple_Sugar.jpg?v=1760999121
-    Price: $29.99 USD
-  - [Strawberry Cough (Sativa)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43918996996166)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Strawberry_Cough_SUGAR.jpg?v=1760998837
-    Price: $29.99 USD
-  - [Dubai Diesel (Sativa)](https://erthwellness.com/products/fvkd-thc-a-sugar-disposable-3-5g?variant=43930988249158)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Dubai_Diesel_Sugar.jpg?v=1760998773
-    Price: $29.99 USD
 - [FVKD Naked Hash Holez THCA Pre-Rolls | Erth Wellness](https://erthwellness.com/products/fvkd-naked-hash-holez-diamond-infused-thca-pre-rolls): Shop FVKD Diamond Infused Naked Hash Holez – premium THCA pre-rolls with a hash core for smooth, clean flavor and balanced, slow-burning potency.
-  Updated: 2026-11-01T23:47:21Z
+  Updated: 2026-11-08T23:48:05Z
   Vendor: FVKD Exotics
   Product Type: Pre-Rolls
   Availability: Available
@@ -1638,7 +1488,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD-Naked-Holez-Alaskan-Thunder-1pk-Angled.jpg?v=1761067954
     Price: $15.99 USD
   - [Jack Herer (Sativa)](https://erthwellness.com/products/fvkd-naked-hash-holez-diamond-infused-thca-pre-rolls?variant=43931179810886)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD-Naked-Holez-Jack-Herer-1pk-Angled.jpg?v=1761067955
     Price: $15.99 USD
   - [Sour Diesel (Sativa)](https://erthwellness.com/products/fvkd-naked-hash-holez-diamond-infused-thca-pre-rolls?variant=43931179843654)
@@ -1654,11 +1504,11 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD-Naked-Holez-Blackberry-Kush-1pk-Angled.jpg?v=1761067954
     Price: $15.99 USD
   - [Skywalker OG (Indica)](https://erthwellness.com/products/fvkd-naked-hash-holez-diamond-infused-thca-pre-rolls?variant=43931179941958)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/FVKD-Naked-Holez-Skywalker-OG-1pk-Angled.jpg?v=1761067954
     Price: $15.99 USD
 - [DIME THC-Free Wellness Pen | Erth Wellness](https://erthwellness.com/products/dime-hemp-wellness-all-in-one-2g-pen-cbd-cbg-cbn-thc-free): Discover the DIME 2g Hemp Wellness Pen with CBD, CBG, and CBN, featuring natural terpenes and adjustable heat settings for smooth vaping.
-  Updated: 2026-11-02T00:24:44Z
+  Updated: 2026-11-08T23:44:15Z
   Vendor: Dime Hemp
   Product Type: Disposable
   Availability: Available
@@ -1675,112 +1525,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/LemonPoundCake.jpg?v=1764636933
     Price: $29.99 USD
-- [Loud THC-A Rosin SWITCH Disposable – 3.5g](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g): Discover the LOUD THCA Rosin Switch Disposable with dual-chamber technology, premium THCA rosin, and switchable flavors in every puff.
-  Updated: 2026-11-02T00:33:25Z
-  Vendor: Loud
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-cookies-haze-purple-passion.jpg?v=1764793035
-  - [Cookies Haze (Sativa) x Purple Passion (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830732870)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-cookies-haze-purple-passion.jpg?v=1764793035
-    Price: $29.99 USD
-  - [Fruit Punch (Sativa) x Candy Punch (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830765638)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-fruit-punch-candy-punch.jpg?v=1764793051
-    Price: $29.99 USD
-  - [Sour Maui (Sativa) x Dream Berry (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830798406)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-sour-maui-dream-berry-1pkw_device.jpg?v=1764793064
-    Price: $29.99 USD
-  - [Pineapple OG (Sativa) x Fruitylicious (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830831174)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-pinapple-fruiyt.jpg?v=1764793079
-    Price: $29.99 USD
-  - [Passion Fruit (Sativa) x Cactus Cooler (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830863942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-passion-fruit-cactus-cooler.jpg?v=1764793096
-    Price: $29.99 USD
-  - [Mango Dream (Sativa) x Cherry Pie (Indica)](https://erthwellness.com/products/loud-thc-a-rosin-switch-disposable-3-5g?variant=44231830896710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-rosin-3.5g-disposable-mango-cherry.jpg?v=1764793109
-    Price: $29.99 USD
-- [Loud THC-A Creme SWITCH Disposable – 3.5g](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g): Enjoy the LOUD THCA Crème Switch Disposable with dual-chamber technology, rich THCA crème, bold flavors, and smooth, premium vaping.
-  Updated: 2026-11-02T00:26:35Z
-  Vendor: Loud
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-grapefruit-purple-push-pop.jpg?v=1764793785
-  - [Grapefruit (Sativa) x Purple Push Pop (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898071110)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-grapefruit-purple-push-pop.jpg?v=1764793785
-    Price: $29.99 USD
-  - [Hawaiian Punch (Sativa) x Creme Brulee (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898103878)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-hawaiian-punch-creme-brulee.jpg?v=1764793799
-    Price: $29.99 USD
-  - [Citrus Punch (Sativa) x Blueberry Kush (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898136646)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-citrus-punch-blueberry-kush.jpg?v=1764793812
-    Price: $29.99 USD
-  - [Sweet Jesus (Sativa) x Diablo (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898169414)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-sweet-jesus-diablo.jpg?v=1764793822
-    Price: $29.99 USD
-  - [Pancake (Sativa) x Pop Rocks (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898202182)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-pancake-pop-rocks.jpg?v=1764793851
-    Price: $29.99 USD
-  - [Blueberry Blast (Sativa) x Lucky (Indica)](https://erthwellness.com/products/loud-thc-a-creme-switch-disposable-3-5g?variant=44231898234950)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-creme-3.5g-disposable-blueberry-blast-lucky.jpg?v=1764793861
-    Price: $29.99 USD
-- [Loud THC-A Crumble SWITCH Disposable – 3.5g](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g): Enjoy the LOUD THCA Crumble Switch Disposable with dual chambers, premium THCA crumble, bold flavors, and smooth, powerful vaping sessions.
-  Updated: 2026-11-02T00:14:40Z
-  Vendor: Loud
-  Product Type: Disposable
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-tropicana-cookies-cherry-cheescake_1.jpg?v=1764794295
-  - [Tropicana Cookies (Sativa) x Cherry Cheesecake (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231924940870)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-tropicana-cookies-cherry-cheescake_1.jpg?v=1764794295
-    Price: $29.99 USD
-  - [Honey Hiker (Sativa) x Cherry Kush (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231924973638)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-cherry-kush-honey-hiker.jpg?v=1764794308
-    Price: $29.99 USD
-  - [Ice Cream Cake (Sativa) x Peach Vibes (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231925006406)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-ice-cream-cake-peach-vibes.jpg?v=1764794321
-    Price: $29.99 USD
-  - [Omg (Sativa) x Slushy Dream (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231925039174)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-omg-slushy-dream.jpg?v=1764794333
-    Price: $29.99 USD
-  - [Pink Acai (Sativa) x Brownie Kush (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231925071942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-pink-acai-brownie-scout.jpg?v=1764794361
-    Price: $29.99 USD
-  - [Tangerine Dream (Sativa) x Bubble Gum Gelato (Indica)](https://erthwellness.com/products/loud-thc-a-crumble-switch-disposable-3-5g?variant=44231925104710)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/loud-thca-crumble-3.5g-disposable-tangerine-dream-bubblegum-gelato.jpg?v=1764794371
-    Price: $29.99 USD
 - [Loud Diamond Infused Hash Holez |  THCA Pre-Rolls](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls): Elevate every session with LOUD Diamond Infused Hash Holez featuring premium THCA flower, infused diamonds, and rich, smooth flavor.
-  Updated: 2026-11-01T23:30:46Z
+  Updated: 2026-11-09T00:23:05Z
   Vendor: Loud
   Product Type: Pre-Rolls
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Candy_Land.jpg?v=1764798074
   - [Single / Candy Land – Sativa](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002666566)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Candy_Land.jpg?v=1764798074
     Price: $8.99 USD
   - [Single / Green Crack – Sativa](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002699334)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Green_Crack.jpg?v=1764798087
     Price: $8.99 USD
   - [Single / Ice Cream Cake – Sativa](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002732102)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Ice_Cream_Cake.jpg?v=1764798098
     Price: $8.99 USD
   - [Single / Guava Burst – Sativa](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002764870)
@@ -1788,7 +1548,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Guava_Burst.jpg?v=1764798108
     Price: $8.99 USD
   - [Single / Crunch Berries – Hybrid](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002797638)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Crunch_Berries_73c74b53-ea8b-4bd9-b1b7-023586efd9b3.jpg?v=1766183697
     Price: $8.99 USD
   - [Single / Pop Tarts – Hybrid](https://erthwellness.com/products/loud-diamond-infused-hash-holez-thca-pre-rolls?variant=44232002830406)
@@ -1820,7 +1580,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/Cherry_Pie.jpg?v=1766183727
     Price: $8.99 USD
 - [Royal Queen Seeds iGrowCan – Beginner-Friendly Autoflower Grow Kit](https://erthwellness.com/products/royal-queen-seeds-igrowcan-beginner-friendly-autoflower-grow-kit): Turn a single seed into a beautiful, flower-bearing  plant in about 10 weeks—no grow room or special gear required. The Royal Queen Seeds iGrowCan is a compact, all-in-one starter kit that makes home growing simple, discreet, and fun. The can itself becomes the plant’s final pot, so you don’t have to worry about transplanting or extra supplies. Just add water, follow the included instructions, and watch your plant thrive on a sunny windowsill or balcony. Perfect as an easy entry into home growing or as a unique gift for the  lover in your life. What’s Inside the iGrowCan Each 5.9" tall x 4.3" wide can arrives in discreet packaging and includes: 2 autoflowering Royal Queen Seeds (your choice of strain below) 1 Eazy Plug germination plug – pre-set pH and ideal air-to-water ratio for strong, healthy roots 1.7L coco compost mix (expands with water) – light, airy medium for fast root growth Organic  nutrients – balanced macro and micronutrients for the full grow cycle Step-by-step instruction manual The Eazy Plug comes from the Dutch Center of Cultivation Technology and is designed to “air prune” roots for a dense, vigorous root system. The coco compost ships in compact form and expands when you add water, keeping deliveries light and discreet. Choose Your Autoflower Strain Choose from a range of popular Royal Queen Seeds autoflowers (max height in the can: approx. 1–2 feet): Northern Light Automatic Fat Banana Automatic Royal Cookies Automatic Green Gelato Automatic Royal AK Automatic Royal Gorilla Automatic Blue Cheese Automatic Royal Critical Automatic White Widow Automatic Royal Kush Automatic Royal Creamatic Royal Dwarf Royal Haze Automatic Fast Eddy Automatic CBD (We’ll include 2 seeds of your selected strain in each can.) How It Works Growing with iGrowCan is designed to be as straightforward as possible: Open the can and remove all components. Hydrate the coco compost and fill the can. Moisten the germination plug, place one seed inside, then set the plug into the soil. Place the can in a bright, warm spot (typically 18–28°C / 64–82°F). Add water and nutrients as directed in the manual and watch your plant develop from seedling to harvest in about 10 weeks.
-  Updated: 2026-11-01T17:53:26Z
+  Updated: 2026-11-09T00:53:20Z
   Vendor: Royal Queen Seeds
   Product Type: Growing Kit
   Availability: Available
@@ -1838,7 +1598,7 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/IgrowCan1.jpg?v=1765233363
     Price: $36.00 USD
   - [Green Gelato Auto (Hybrid)](https://erthwellness.com/products/royal-queen-seeds-igrowcan-beginner-friendly-autoflower-grow-kit?variant=44309525495878)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/IgrowCan1.jpg?v=1765233363
     Price: $36.00 USD
   - [Northern Light Auto (Indica)](https://erthwellness.com/products/royal-queen-seeds-igrowcan-beginner-friendly-autoflower-grow-kit?variant=44309525528646)
@@ -1914,98 +1674,147 @@
     Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/IgrowCan1.jpg?v=1765233363
     Price: $36.00 USD
 - [Royal Queen Seeds – Amnesia Haze Feminized Seeds (Sativa) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-amnesia-haze-feminized-seeds-sativa): Amnesia Haze is a 90s coffeeshop legend and one of the most celebrated sativa-dominant strains in the world. Bred from the original Amnesia Haze genetics, these feminized photoperiod seeds from Royal Queen Seeds deliver the classic “Ami” experience—long-lasting, powerful effects and a bright, citrusy haze flavor that old-school heads and modern connoisseurs both love. These seeds grow into medium–tall plants indoors (around 3–5 feet) and can stretch up to 6–7 feet outdoors in the right climate. Amnesia Haze performs best in warm, long-summer environments or protected greenhouses, rewarding patient growers with very generous yields. Indoors, she can produce around 21–23 oz/m²; outdoors, up to 23–25 oz per plant when conditions are on point. With THC levels up to about 22% and a 70% sativa / 30% indica profile, Amnesia Haze delivers an energetic, mind-bending high that gradually settles into a deep physical relaxation. Expect a layered flavor profile of citrus, earth, herbs and subtle pepper that’s unmistakably “haze”. This is a potent, long-lasting strain—ideal for experienced consumers who appreciate classic European coffeeshop genetics. Strain Highlights Type: Feminized, photoperiod Genetics: Original Amnesia Haze Profile: 70% Sativa / 30% Indica THC: ≈22% | CBD: Medium Effects: Powerful, long-lasting, mentally uplifting with a relaxing body finish Flavours: Citrus, earthy, herbal, peppery Indoor height: 3–5 ft | Outdoor height: 6–7 ft Flowering time: 10–11 weeks (late October harvest outdoors) Yield indoor: 21–23 oz/m² Yield outdoor: 23–25 oz/plant Best climate: Warm, long summers / protected greenhouse Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-09-19T04:40:50Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/amnesia-haze.jpg?v=1765234469
   Price: $34.50 USD
-- [Royal Queen Seeds – OG Kush Feminized Seeds (Classic West Coast Indica) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-og-kush-feminized-seeds-classic-west-coast-indica): OG Kush is one of the most famous strains on the planet—an award-winning, West Coast classic built from powerhouse genetics: Chemdawg x Lemon Thai x Pakistani Kush. Royal Queen Seeds’ feminized version captures everything people love about OG: big, dense buds, bold citrus–pine aroma, and a strong, full-body experience that hits both mind and muscles. This 75% indica / 25% sativa photoperiod strain grows into medium-tall plants, typically 3–5 ft indoors and 6–7 ft outdoors, with chunky lime-green colas coated in sticky resin. She stretches a bit early in flower, then quickly fills out, making basic training (topping, LST, main-lining) very worthwhile to boost yield and keep the canopy even and well-aerated. Indoors, OG Kush usually finishes in 7–9 weeks with yields around 15–17 oz/m². Outdoors, in warm, short-summer climates, expect roughly 18–19 oz per plant by October when grown in full sun with good nutrition. Her structure and flowering time make her a solid choice for both home growers and more experienced cultivators looking for proven, high-demand genetics. With 19% THC and medium CBD, OG Kush delivers a strong, layered effect: calming and deeply relaxing in the body, yet mentally uplifting and mood-enhancing. The terpene profile—rich in myrcene, limonene, and caryophyllene—pushes out classic citrus, fruity, and pine notes with a subtle fuel edge that makes every hit memorable. Strain Highlights Type: Feminized, photoperiod Genetics: Chemdawg x Lemon Thai x Pakistani Kush Profile: 75% Indica / 25% Sativa THC: ≈19% | CBD: Medium Effects: Calming, uplifting, strong body relaxation with a clear, pleasant headspace Flavours: Citrus, fruity, pine, light fuel undertone Indoor height: 3–5 ft | Outdoor height: 6–7 ft Flowering time: 7–9 weeks | Harvest: October (outdoor) Yield indoor: 15–17 oz/m² | Yield outdoor: 18–19 oz/plant Best climate: Short summers; thrives in warm, sunny outdoor conditions and trained indoor setups Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-11-01T12:49:08Z
-  Vendor: Royal Queen Seeds
-  Product Type: Feminized Seeds
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/og-kush.jpg?v=1765312877
-  Price: $27.50 USD
 - [Royal Queen Seeds – White Widow Feminized Seeds (50/50 Hybrid Classic) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-amnesia-haze-feminized-seeds-sativa-copy): White Widow is one of the most famous  strains on the planet—a true Dutch coffeeshop legend from the 1990s that’s still a staple today. Royal Queen Seeds’ take on this icon uses White Widow S1 genetics to deliver a perfectly balanced 50% indica / 50% sativa photoperiod hybrid with reliable growth and a clean, uplifting high. These feminized seeds grow into compact, manageable plants indoors (about 2–3 ft), and up to 5–6 ft outdoors. White Widow performs well in a range of climates, including cooler northern European conditions, as long as she gets plenty of light. Indoors she typically yields 16–19 oz/m² under a 600W light; outdoors, expect around 19–21 oz per plant when grown in good soil and full sun. Flowering takes roughly 8–10 weeks, and plants respond very well to training. You can run her as a single big cola, but topping, LST, SOG, or ScrOG will usually give you a more even canopy and more bud sites. This makes White Widow a friendly choice for both first-time growers and more advanced cultivators running dialed-in setups. With around 19% THC and a terpene profile rich in myrcene, pinene, and caryophyllene, White Widow delivers a strong, head-focused effect that feels bright, motivating, and slightly psychedelic, with a relaxing body undertone. Flavours lean earthy, peppery, and pine-fresh, with a hint of citrus on the exhale—great in joints, vapes, or savoury edibles. Strain Highlights Type: Feminized, photoperiod Genetics: White Widow S1 Profile: 50% Sativa / 50% Indica THC: ≈19% | CBD: Low Effects: Powerful, uplifting head high with a relaxing body stone Flavours: Earthy, pepper, pine with subtle citrus Indoor height: 2–3 ft | Outdoor height: 5–6 ft Flowering time: 8–10 weeks | Harvest: Early October (outdoor) Yield indoor: 16–19 oz/m² | Yield outdoor: 19–21 oz/plant Best climate: Long summers; handles cooler northern climates with good light Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-23T02:28:20Z
+  Updated: 2026-11-06T00:27:15Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/white-widow.jpg?v=1765241547
   Price: $25.50 USD
 - [Royal Queen Seeds – Purple Queen Feminized Seeds (Purple Kush Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-purple-queen-feminized-seeds-purple-kush-hybrid): Purple Queen is a visually striking Kush hybrid bred from Hindu Kush x Purple Afghani—classic mountain genetics known for their deep body effects and vibrant colors. This 75% indica / 25% sativa photoperiod strain delivers dense, frosty purple buds, calming effects, and a smooth citrus-earthy flavor that’s perfect for evening sessions. Compact and branchy, Purple Queen is built for smaller spaces and controlled indoor grows. Indoors she typically reaches 3–4 ft and fills out lateral space nicely, making her ideal for tents and cabinets. Outdoors, in warm or temperate climates, plants can stretch to 6–7 ft and stack heavy, colorful flowers. Thanks to her hardy Kush background, she tolerates strong feeding and performs well in soil, coco, or hydro. Flowering finishes in about 8–9 weeks, with indoor yields around 16–19 oz/m². Outdoors, given full sun and good nutrition, Purple Queen can return 23–25 oz per plant, usually ready to harvest around October. Her resinous purple nugs not only look incredible in the jar, but also make a great choice for hash and extract makers. With around 22% THC and a classic indica-leaning effect, Purple Queen delivers a deeply calming, euphoric body stone that pairs well with movies, snacks, or winding down before sleep. Flavours lean citrus and earthy Kush, with a full-bodied smoke that matches her rich, royal appearance. Strain Highlights Type: Feminized, photoperiod Genetics: Hindu Kush x Purple Afghani Profile: 75% Indica / 25% Sativa THC: ≈22% | CBD: Low Effects: Calming, euphoric, heavy body relaxation Flavours: Citrus, earthy, classic Kush Indoor height: 3–4 ft | Outdoor height: 6–7 ft Flowering time: 8–9 weeks | Harvest: October (outdoor) Yield indoor: 16–19 oz/m² | Yield outdoor: 23–25 oz/plant Best climate: Short/temperate summers; thrives in warm, sunny outdoor gardens and dialed-in indoor setups Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-30T22:04:25Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/purple-queen.jpg?v=1765315476
   Price: $25.50 USD
 - [Royal Queen Seeds – Sour Diesel Feminized Seeds (California Sativa Classic) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-sour-diesel-feminized-seeds-california-sativa-classic): Sour Diesel is a legendary West Coast sativa that’s earned cult status for its sharp aroma, energising high, and dependable performance in the grow room. Royal Queen Seeds’ feminized Sour Diesel combines Original Diesel x (Northern Light x Shiva x Hawaiian) to deliver a 70% sativa / 30% indica profile with that unmistakable “sour fuel” nose and a long-lasting, clear-headed effect. Bred from classic Californian genetics, Sour Diesel thrives indoors across the globe and outdoors in warm, long-summer climates similar to California or Spain. Indoors, plants typically reach 3–5 ft with some stretch during early flower and finish in about 10–11 weeks. Expect 17–18 oz/m² when dialed in, with resinous, aromatic buds that reek of citrus, sour funk, and fuel. Outdoors, in full sun and favourable weather, Sour Diesel plants can stretch to 5–7 ft and yield around 19–21 oz per plant by late October. She appreciates plenty of light, good airflow, and solid nutrition—ideal for growers who don’t mind giving their plants a bit of extra time in flower in exchange for classic top-shelf sativa buds. With around 19% THC and low CBD, Sour Diesel delivers a clear, uplifting, and physically relaxing effect. The high leans cerebral and energetic, making it a great choice for daytime use, creative projects, and social sessions. Terpene-wise, expect a pungent mix of citrus, sour, fruity, herbal, and peppery notes—true “full Diesel power” in both flavour and aroma. Strain Highlights Type: Feminized, photoperiod Genetics: Original Diesel x (Northern Light x Shiva x Hawaiian) Profile: 70% Sativa / 30% Indica THC: ≈19% | CBD: Low Effects: Clear, uplifting, mentally active with a gentle physical relaxation Flavours: Citrus, sour, fruity, herbal, pepper, classic diesel pungency Indoor height: 3–5 ft | Outdoor height: 5–7 ft Flowering time: 10–11 weeks | Harvest: Late October (outdoor) Yield indoor: 17–18 oz/m² | Yield outdoor: 19–21 oz/plant Best climate: Long summers; thrives in warm, sunny environments Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-05T03:39:57Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/sour-diesel.jpg?v=1765315718
   Price: $29.50 USD
 - [Royal Queen Seeds – Blue Cheese Feminized Seeds (Cheese x Blueberry Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-blue-cheese-feminized-seeds-cheese-x-blueberry-hybrid): Blue Cheese is a flavorful indica-leaning hybrid created by crossing Original Cheese x Oregon Blueberry Blend, then backcrossing to Cheese to lock in that iconic funk. The result is a 60% indica / 40% sativa strain with dense, trichome-heavy buds and a rich, dessert-meets-dank terpene profile that Cheese and Blueberry fans both love. These feminized, photoperiod seeds typically finish flowering in 8–9 weeks (60–65 days). Indoors, Blue Cheese plants usually reach 3–5 ft, while outdoors they can stretch to 5–7 ft, finishing around late September. The structure is compact and productive, making her ideal for Sea of Green (SOG), hydroponics, or traditional soil grows. With a bit of skill and decent conditions, growers can expect 18–19 oz/m² indoors and roughly 18–19 oz per plant outdoors. She does have a slightly higher leaf-to-flower ratio, so trimming takes a bit more effort—but the payoff is hard, frosty, aromatic buds that more than justify the extra time at the table. Flavour-wise, Blue Cheese is exactly what you’d hope for from her name and lineage: the sweet, fruity notes of Blueberry layered over the earthy, musky, funky Cheese base. THC levels sit around 19% with medium CBD, delivering a clear yet stony, physically relaxing effect that’s great for evening relaxation without completely switching off your mind. Strain Highlights Type: Feminized, photoperiod Genetics: Original Cheese x Oregon Blueberry Blend Profile: 60% Indica / 40% Sativa THC: ≈19% | CBD: Medium Effects: Clear but stony, physically relaxing, classic indica-leaning chill Flavours: Candy-sweet, fruity blueberry with earthy, musky Cheese funk Indoor height: 3–5 ft | Outdoor height: 5–7 ft Flowering time: 8–9 weeks | Harvest: Late September (outdoor) Yield indoor: 18–19 oz/m² | Yield outdoor: 18–19 oz/plant Best climate: Short summers; shines in SOG, hydro, or well-fed soil setups Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-09-29T04:11:17Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/blue-cheese.jpg?v=1765316126
   Price: $27.50 USD
 - [Royal Queen Seeds – Cookies Gelato Feminized Seeds (Ultra-High THC Dessert Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-cookies-gelato-feminized-seeds-ultra-high-thc-dessert-hybrid): Cookies Gelato is a heavy-hitting dessert hybrid bred from two modern legends: Girl Scout Cookies x Gelato 33. Designed for experienced smokers with high tolerance, this feminized, photoperiod strain delivers outrageous potency, rich sweet flavours, and impressive yields—all wrapped in dense, resin-dripping buds. Visually, Cookies Gelato looks as strong as it smokes. Bulbous, shimmering flowers are coated in a thick blanket of trichomes, pumping out a staggering 28% THC. One or two hits are often enough, even for seasoned users. The effect is fast and intense: a powerful, balanced hybrid high that hits both mind and body. Expect a euphoric, almost psychedelic headspace—creative, philosophical, and deeply stoned—with a smooth, calming body relaxation underneath. Flavour-wise, Cookies Gelato leans fully into its dessert lineage. The terpene profile blends sugary, fruity, citrus, earthy, and minty notes into an aromatic cloud that’s as indulgent as it sounds. If you love sweet, “cookie-and-cream” style strains, this one belongs on your must-grow list. In the grow room, Cookies Gelato is as productive as she is potent. Indoors, plants typically reach 3–4 ft and reward growers with 19–21 oz/m² after 8–9 weeks of flowering. Outdoors, in short-summer or temperate climates, expect 5–6 ft plants and roughly 21–23 oz per plant, ready to harvest by mid-October. Simple training techniques like LST can help open the canopy, boost light penetration, and push yields to their full potential. Strain Highlights Type: Feminized, photoperiod Genetics: Girl Scout Cookies x Gelato 33 Profile: 50% Sativa / 50% Indica THC: ≈28% | CBD: Low Effects: Extremely potent, balanced high; euphoric, mentally expansive, physically relaxing Flavours: Sweet dessert vibes with citrus, earthy, fruity, and mint notes Indoor height: 3–4 ft | Outdoor height: 5–6 ft Flowering time: 8–9 weeks | Harvest: Mid-October (outdoor) Yield indoor: 19–21 oz/m² | Yield outdoor: 21–23 oz/plant Best climate: Short summers; thrives in well-managed indoor setups and sunny outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-30T22:04:25Z
+  Updated: 2026-11-06T00:26:51Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/cookies-gelato.jpg?v=1765316220
   Price: $39.00 USD
 - [Royal Queen Seeds – Candy Kush Express (Fast Flowering) Feminized Seeds - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-candy-kush-express-fast-flowering-feminized-seeds): Candy Kush Express (Fast Flowering) is a sweet, compact hybrid bred for growers who want a quick finish, easy cultivation, and a balanced indica–sativa experience. Created from Sweet Special x OG Kush, this 60% indica / 40% sativa strain offers a tasty candy-fruit terp profile, relaxing body effects, and an uplifting edge that keeps you from getting completely knocked out. From Sweet Special, Candy Kush Express inherits sturdy structure and that sugary, dessert-style flavour. From OG Kush (via Royal Kush and Afghani roots), it picks up classic Kush weight, dense buds, and a soothing, stony body high. Together, they create a hybrid that starts with a gentle burst of energy and mood lift, then settles into a warm, relaxing stone that’s great for winding down without total couch-lock. With around 18% THC and low CBD, Candy Kush Express delivers a physically relaxing, pleasantly stoned effect that’s versatile enough for late afternoon or evening use. Flavours lean candy-sweet and fruity, with a smooth, moreish smoke that makes it easy to keep coming back for “just one more.” Where this strain really shines is in the grow room. As a Fast Flowering variety, Candy Kush Express finishes in as little as 7–9 weeks of bloom. Indoors, plants stay compact at 2–3 ft, producing around 17–18 oz/m². Outdoors, they typically reach 3–6 ft and return about 16–18 oz per plant, ready to harvest by early September—a big win for short-summer or cooler-climate growers. Plants are beginner-friendly: they stay manageable in size, respond well to basic care, and don’t demand complicated training or feeding schedules. If you’re new to growing or just want a reliable, fast indica-leaning hybrid with sweet flavour and satisfying potency, Candy Kush Express is built for you. Strain Highlights Type: Feminized, photoperiod (Fast Flowering) Genetics: Sweet Special x OG Kush Profile: 60% Indica / 40% Sativa THC: ≈18% | CBD: Low Effects: Physically relaxing, stony, with an initial uplifting kick Flavours: Candy-sweet, fruity, smooth Indoor height: 2–3 ft | Outdoor height: 3–6 ft Flowering time: 7–9 weeks | Harvest: Early September (outdoor) Yield indoor: 17–18 oz/m² | Yield outdoor: 16–18 oz/plant Best climate: Short summers; excellent for cooler regions and quick turnaround grows Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-31T20:05:05Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/candy-kush-express-fast-flowering.jpg?v=1765316373
   Price: $29.50 USD
 - [Royal Queen Seeds – Lemon Shining Silver Haze Feminized Seeds (Lemon Skunk Haze) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-lemon-shining-silver-haze-feminized-seeds-lemon-skunk-haze): Lemon Shining Silver Haze is a bright, zesty sativa-dominant hybrid bred from Lemon Skunk x Shining Silver Haze. This 75% sativa / 25% indica strain combines classic haze energy with a bold lemon-candy terpene profile and generous yields—perfect for daytime smokers who love citrus-forward strains. High in limonene, Lemon Shining Silver Haze hits you with a strong citrus, fruity, sour-skunky aroma that many compare to lemon candy: sharp, dank, and sweet all at once. On the palate, the flavour closely matches the nose, delivering a smooth, lemony smoke or vapour that lingers on the tongue. With around 21% THC and low CBD, this strain delivers a clear, uplifting, and strongly energising head high. Expect elevated mood, creativity, focus, and a “get-things-done” mindset that lasts a couple of hours before settling into a more relaxed but still active body vibe. Because of the stimulating effect, it’s better suited to mornings and daytime than right before bed. In the grow room, Lemon Shining Silver Haze is a solid producer. Indoors, plants typically reach 3–5 ft and yield about 21–23 oz/m², finishing in 9–10 weeks of flowering. Outdoors, in short- or moderate-summer climates, expect 4–6 ft plants and roughly 23–25 oz per plant, usually ready by mid-October. Buds are large, elongated, lime-green with golden hues, loose/fluffy in true sativa style, and heavily dusted in THC-rich trichomes with bright orange hairs. If you’re after a productive, lemon-forward sativa with classic haze effects, Lemon Shining Silver Haze ticks all the boxes. Strain Highlights Type: Feminized, photoperiod Genetics: Lemon Skunk x Shining Silver Haze Profile: 75% Sativa / 25% Indica THC: ≈21% | CBD: Low Effects: Clear, uplifting, energetic, motivating; relaxing body finish Flavours: Citrus, fruity, lemon candy with sour/dank notes Indoor height: 3–5 ft | Outdoor height: 4–6 ft Flowering time: 9–10 weeks | Harvest: Mid-October (outdoor) Yield indoor: 21–23 oz/m² | Yield outdoor: 23–25 oz/plant Best climate: Short to moderate summers; thrives in sunny outdoor spots and dialed-in indoor setups Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-19T01:59:17Z
+  Updated: 2026-11-06T00:26:52Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/lemon-shining-silver-haze.jpg?v=1765316494
   Price: $27.50 USD
 - [Royal Queen Seeds – Cereal Milk Feminized Seeds (Vanilla & Blueberry Sativa Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-cereal-milk-feminized-seeds-vanilla-blueberry-sativa-hybrid): Cereal Milk is a modern, dessert-style hybrid for flavor chasers and heavy hitters alike. Bred from Y Life (Girl Scout Cookies x Cherry Pie) x Snowman, this 60% sativa / 40% indica feminized strain delivers rare vanilla-and-blueberry terps, sticky resin-soaked buds, and a long-lasting, creative high. From Y Life, Cereal Milk inherits rich, sweet, fruity dessert notes and an uplifting, giggly effect. Snowman (Snowman OG) brings frosty bag appeal, high THC, and that standout vanilla twist. Together they create a terpene profile that’s perfect for connoisseur smokers and edible makers—think creamy vanilla layered with ripe blueberry in every hit. With around 23% THC, Cereal Milk hits quickly and firmly. Expect a lifted, focused, creative headspace that sticks around for hours, making it a great choice for daytime sessions, brainstorming, art, or social hangs. The high is energetic but not frantic, with just enough body relaxation to keep things comfortable. In the grow room, Cereal Milk is as practical as it is tasty. Indoors, plants typically reach 3–5 ft and yield about 16–19 oz/m² after 8–10 weeks of flowering. Outdoors, in short-summer or temperate climates, plants can hit 5–7 ft and return around 22–24 oz per plant, ready to harvest in October, depending on conditions. Plants stay manageable in height, stack dense, resinous buds, and respond well to basic training to open up the canopy and push yields. If you want a strain that stands out on aroma alone and still delivers serious potency and production, Cereal Milk more than earns a spot in your lineup. Strain Highlights Type: Feminized, photoperiod Genetics: Y Life (Girl Scout Cookies x Cherry Pie) x Snowman Profile: 60% Sativa / 40% Indica THC: ≈23% | CBD: Low Effects: Creative, focused, uplifting, long-lasting head high Flavours: Creamy vanilla and blueberry; great for smoking or edibles Indoor height: 3–5 ft | Outdoor height: 5–7 ft Flowering time: 8–10 weeks | Harvest: October (outdoor) Yield indoor: 16–19 oz/m² | Yield outdoor: 22–24 oz/plant Best climate: Short summers; thrives in sunny outdoor spots and dialed-in indoor grows Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-20T01:18:35Z
+  Updated: 2026-11-06T00:26:50Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/cereal-milk.jpg?v=1765316619
   Price: $41.50 USD
 - [Royal Queen Seeds – Blue Mystic Feminized Seeds (Compact Blueberry Indica) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-blue-mystic-feminized-seeds-compact-blueberry-indica): Blue Mystic is a compact, fruit-forward indica bred from Oregon Blueberry x Northern Light. Originating from the California/Oregon genetic melting pot, this 80% indica / 20% sativa photoperiod strain delivers sweet, juicy berry flavours and a strong, body-heavy stone in a short, easy-to-manage plant. Indoor, Blue Mystic stays low and stocky—around 2–3 ft, growing almost like a bonsai or “broccoli” plant with very little stretch. This makes her ideal for smaller tents, stealth grows, and tight spaces. Topping or pinching is highly recommended to encourage a bushier structure and more lateral growth, which can significantly improve yields. Outdoors, in warm Mediterranean-style climates, plants can reach 6–7 ft, but she doesn’t perform well in colder, northern regions. Flowering finishes in about 8–9 weeks. Harvesting around week 8 brings out the brightest sweet, fresh fruit flavour; letting her run up to 10 weeks trades a bit of flavour for a heavier, more sedating body stone. Indoors, expect around 13–15 oz/m² under a 600W light; outdoors, roughly 14–16 oz per plant, ready in October. As with most flavour-focused strains, a proper slow dry before trimming really helps Blue Mystic’s terpene profile shine. With around 18% THC and medium CBD, Blue Mystic delivers a super stony, full-body indica effect that locks you into deep relaxation—perfect for end-of-day use. When grown, dried, and cured well, the flavour is intensely candy-sweet and fruity, often described as almost like drinking real fruit juice. Strain Highlights Type: Feminized, photoperiod Genetics: Oregon Blueberry x Northern Light Profile: 80% Indica / 20% Sativa THC: ≈18% | CBD: Medium Effects: Strong, heavy stoned body high; deeply relaxing Flavours: Candy-sweet, fruity, blueberry-forward Indoor height: 2–3 ft | Outdoor height: 6–7 ft Flowering time: 8–9 weeks | Harvest: October (outdoor) Yield indoor: 13–15 oz/m² | Yield outdoor: 14–16 oz/plant Best climate: Short/Med summers; prefers warm, Mediterranean-style outdoor conditions Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-30T12:41:17Z
+  Updated: 2026-11-06T21:09:06Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/blue-mystic.webp?v=1765316751
   Price: $25.50 USD
 - [Royal Queen Seeds – HulkBerry Feminized Seeds (OG Kush x Strawberry Diesel) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-hulkberry-feminized-seeds-og-kush-x-strawberry-diesel): HulkBerry is Royal Queen Seeds’ take on Colorado’s legendary headstash, built from a powerhouse cross of OG Kush x Strawberry Diesel. Inspired by the famous Bruce Banner #3 cut, this 65% sativa / 35% indica strain delivers explosive potency, loud fuel-and-citrus terps, and a long, soaring high that serious smokers will appreciate. Originally a top-shelf favourite in Colorado dispensaries, HulkBerry is all about high-octane resin. THC levels can reach around 27%, and buds come out thick, frosty, and sticky, with classic OG structure and a bright berry twist. Expect chunky Kush-style colas that stretch and swell in flower, backed by a terpene profile blending citrus, diesel, herbal, and pepper notes for a big, mouth-coating flavour. RQS’ HulkBerry leans heavily toward the Bruce Banner #3 pheno—OG looks, subtle strawberry tones, and huge power—but other keeper phenos can pop up too, including more balanced and Strawberry Diesel-leaning expressions. Growers who like to hunt and keep mothers may want to hang onto more than one. In the grow room, HulkBerry is a strong choice for SOG or ScrOG. Indoors, plants reach about 3–5 ft and yield roughly 14–16 oz/m², finishing after 9–11 weeks of flowering. Outdoors, in short-summer or temperate climates, expect 5–7 ft plants and around 23–25 oz per plant, usually ready by late September. On the effects side, HulkBerry hits fast and keeps climbing. A few pulls deliver a clear, uplifting, intensely cerebral high that feels like lighting a fuse—perfect for creative work, social sessions, or daytime use if your tolerance is solid. The body stays relatively light while your mind takes a long, happy trip. Strain Highlights Type: Feminized, photoperiod Genetics: OG Kush x Strawberry Diesel Profile: 65% Sativa / 35% Indica THC: ≈27% | CBD: Low Effects: Clear, uplifting, powerful head high with a light body feel Flavours: Citrus, diesel/fuel, herbal, pepper, with subtle berry notes Indoor height: 3–5 ft | Outdoor height: 5–7 ft Flowering time: 9–11 weeks | Harvest: Late September (outdoor) Yield indoor: 14–16 oz/m² | Yield outdoor: 23–25 oz/plant Best climate: Short summers; ideal for SOG/ScrOG and dialed-in indoor grows Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
-  Updated: 2026-10-26T22:43:06Z
+  Updated: 2026-11-06T00:26:51Z
   Vendor: Royal Queen Seeds
   Product Type: Feminized Seeds
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/hulkberry.jpg?v=1765317077
   Price: $37.00 USD
-[List Continued](https://erthwellness.com/a/llms-agent/llms.txt?shop=erth-cbd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTMxNjA1NTI4NjQ2LCJsYXN0X3ZhbHVlIjoiODEzMTYwNTUyODY0NiJ9)
+- [Royal Queen Seeds – Pink Runtz Feminized Seeds (Candy-Sweet Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-pink-runtz-feminized-seeds-candy-sweet-hybrid): Pink Runtz is a candy-sweet, high-THC hybrid built from three modern heavyweights: Gelato x The Original Z x Pink Panties. This 50% indica / 50% sativa feminized strain serves up serious flavour, long-lasting good vibes, and colourful bag appeal that stands out in any line-up. Aroma-wise, Pink Runtz is made for terp lovers. Expect a sweet, candy-like nose with big fruity tones, especially tropical pineapple, that carries straight through to the flavour. Each toke is like dipping into a bag of exotic sweets—smooth, sugary, and very moreish. With around 26% THC and low CBD, Pink Runtz delivers a happy, uplifting, social high that can last for hours. It’s great for parties, hangouts, and creative sessions—expect laughter, chatter, and an easy-going, feel-good mood that sticks around without being too heavy or sedating. In the grow room, Pink Runtz feminized seeds are vigorous and productive. Indoors, plants typically hit 3–5 ft and finish flowering in 8–9 weeks, yielding around 15–17 oz/m². Outdoors, in long-summer climates, plants can reach 5–6 ft and return about 16–18 oz per plant, ready to harvest by mid-October. Structure is medium-sized and manageable, making her a solid pick for both dialed-in and straightforward setups. Strain Highlights Type: Feminized, photoperiod Genetics: Gelato x The Original Z x Pink Panties Profile: 50% Sativa / 50% Indica THC: ≈26% | CBD: Low Effects: Uplifting, long-lasting, giggly, social; great for gatherings Flavours: Candy-sweet, fruity, strong pineapple notes Indoor height: 3–5 ft | Outdoor height: 5–6 ft Flowering time: 8–9 weeks | Harvest: Mid-October (outdoor) Yield indoor: 15–17 oz/m² | Yield outdoor: 16–18 oz/plant Best climate: Long summers; thrives in warm, sunny outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-06T00:26:55Z
+  Vendor: Royal Queen Seeds
+  Product Type: Feminized Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/pink-runtz.jpg?v=1765317184
+  Price: $32.00 USD
+- [Royal Queen Seeds – Green Gelato Feminized Seeds (Candy-Sweet Hybrid) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-green-gelato-auto-feminized-seeds-ultra-potent-autoflower): Green Gelato Automatic takes one of Royal Queen Seeds’ most beloved dessert strains and makes it faster, easier, and more accessible for all growers. Bred from Green Gelato (Thin Mint Cookies x Sunset Sherbet) x Cookies Auto, this autoflowering hybrid (55% sativa / 40% indica / 5% ruderalis) delivers serious potency, rich candy-terps, and quick harvests—no light-cycle changes required. Most autos are known for modest potency. Green Gelato Auto is the exception. With around 24% THC, she’s one of the strongest autoflowering cultivars on the market. A couple hits is usually enough. The effect is clear and energising up top, with a smooth, physically relaxing body feel—great for creative work, social sessions, or anytime you want to be “on” but still nicely chilled. Many users also appreciate her for easing tension, lifting mood, and boosting appetite. Flavour-wise, Green Gelato Auto leans into her dessert lineage: candy-sweet, fruity, and lightly earthy, with a citrus edge and pungent aroma that fills the room as soon as you crack the jar. In the grow room or garden, these seeds are built for simplicity. As a true auto, Green Gelato Automatic doesn’t need any change in light schedule—just give her good light, feed, and basic care. Indoors, plants usually reach 2–4 ft and yield around 13–16 oz/m², finishing in 7–8 weeks of flower and about 9–10 weeks from sprout to harvest. Outdoors, expect 3–6 oz per plant and a compact 3–4 ft structure ideal for discreet spots, balconies, or small gardens. Plants grow tall-ish for an auto with narrow, trichome-heavy colas that sparkle under light. For a beginner-friendly grow that still hits like a high-end photoperiod, Green Gelato Auto is a standout choice. Strain Highlights Type: Autoflowering, feminized Genetics: Green Gelato x Cookies Auto Profile: 55% Sativa / 40% Indica / 5% Ruderalis THC: ≈24% | CBD: Low Effects: Clear, uplifting, physically relaxing; creative and social Flavours: Candy-sweet, fruity, with earthy dessert notes Indoor height: 2–4 ft | Outdoor height: 3–4 ft Flowering time: 7–8 weeks Total cycle: ~9–10 weeks from sprout Yield indoor: 13–16 oz/m² | Yield outdoor: 3–6 oz/plant Best climate: Long summers; thrives indoors or outdoors in sunny spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-06T00:26:50Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/green-gelato-automatic.jpg?v=1765319177
+  Price: $34.50 USD
+- [Royal Queen Seeds – HulkBerry Auto Feminized Seeds (High-Power Bruce Banner Auto) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-hulkberry-auto-feminized-seeds-high-power-bruce-banner-auto): HulkBerry Auto is Royal Queen Seeds’ amped-up autoflower take on the legendary Bruce Banner #3 line. Built from HulkBerry x Diesel Auto (originally Ghost OG x Strawberry Diesel with added autoflower genetics), this 65% sativa / 30% indica / 5% ruderalis strain delivers real photoperiod-level power in a compact, fast, and beginner-friendly auto. Don’t let the size fool you—HulkBerry Auto’s frosty, compact buds can pump out up to 21% THC, easily satisfying seasoned smokers. The effect is clear, uplifting, and energising: a wave of euphoria, sharper focus, and creative drive that makes it an excellent daytime strain. Pair it with a morning coffee, use it for music, movies, gaming, or creative work—this one is built for “on” time, not couchlock. Flavour-wise, HulkBerry Auto leans into a bold, modern profile. Expect a citrus–diesel base with layers of fruity strawberry, spice, earth, and a hint of wood. High levels of limonene, linalool, and myrcene give it a bright, pungent nose and a smooth, flavourful smoke or vape. As a true autoflower, HulkBerry Auto is easy to grow and fast to finish. Indoors, plants typically reach 3–4 ft and yield about 16–19 oz/m², finishing in 6–7 weeks of flower and roughly 8–9 weeks from sprout. Outdoors, in long-summer or warm climates, plants stay similarly compact at 3–4 ft and produce around 3–5 oz per plant, making them great for stealthy balcony or garden grows. With a simple feeding schedule, good light, and basic care, beginners can pull impressive quality and potency from these seeds—no light-cycle changes, no complicated training required. Strain Highlights Type: Autoflowering, feminized Genetics: HulkBerry x Diesel Auto Profile: 65% Sativa / 30% Indica / 5% Ruderalis THC: ≈21% | CBD: Low Effects: Clear, uplifting, energetic, creative; ideal for daytime use Flavours: Citrus, diesel, fruity with notes of strawberry, spice, earth, and wood Indoor height: 3–4 ft | Outdoor height: 3–4 ft Flowering time: 6–7 weeks Total cycle: ~8–9 weeks from sprout Yield indoor: 16–19 oz/m² | Yield outdoor: 3–5 oz/plant Best climate: Long summers; great indoors or in sunny, discreet outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-06T00:26:51Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/hulkberry-automatic.jpg?v=1765319306
+  Price: $34.50 USD
+- [Royal Queen Seeds – White Widow Auto Feminized Seeds (Fast-Flowering Classic) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-white-widow-auto-feminized-seeds-fast-flowering-classic): White Widow Auto brings one of the world’s most iconic strains into a compact, fast, and beginner-friendly autoflower format. Bred from White Widow x Ruderalis, this 40% sativa / 40% indica / 20% ruderalis hybrid captures the resin-soaked look, earthy flavour, and reliable performance of the original White Widow—just with a much quicker seed-to-harvest timeline. Like her photoperiod parent, White Widow Auto develops wide, dark green leaves and thick, frosty buds coated in a heavy layer of trichomes by the end of flower. Despite her hybrid genetics, the buds lean indica in both appearance and effect, delivering a stoned, physically relaxing high that’s great for winding down, watching movies, or easing into the evening. THC sits around 14% with medium CBD, making this a smoother, more manageable option than many modern heavy-hitters—ideal for everyday smokers or those who prefer a gentler experience. The terpene profile is classic Widow: woody, earthy, and slightly pungent, with notes of pepper and pine, though a bit softer than the original. As an autoflower, White Widow Auto is designed for speed and simplicity. The entire cycle completes in about 10–12 weeks from sprout, with 7–8 weeks of flowering. Indoors, plants stay compact at 1–3 ft, perfect for small tents, cabinets, or discreet setups, and can yield around 14–16 oz/m². Outdoors, in long-summer climates, expect 2–4 ft plants and roughly 7–8 oz per plant, depending on conditions. Genetics have been worked over several generations for stability, so you can expect robust, consistent plants that are easy to manage even for first-time growers. Strain Highlights Type: Autoflowering, feminized Genetics: White Widow x Ruderalis Profile: 40% Sativa / 40% Indica / 20% Ruderalis THC: ≈14% | CBD: Medium Effects: Stoned, physically relaxing, calm full-body effect Flavours: Earthy, woody, pepper, pine; classic White Widow style Indoor height: 1–3 ft | Outdoor height: 2–4 ft Flowering time: 7–8 weeks Total cycle: ~10–12 weeks from sprout Yield indoor: 14–16 oz/m² | Yield outdoor: 7–8 oz/plant Best climate: Long summers; ideal for indoor grows and discreet outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-07T01:31:32Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/white-widow-automatic.jpg?v=1765319614
+  Price: $29.50 USD
+- [Royal Queen Seeds – Mimosa Auto Feminized Seeds (Citrus Sativa Autoflower) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-mimosa-auto-feminized-seeds-citrus-sativa-autoflower): Mimosa Auto brings electrifying citrus power into a fast, easy, and compact autoflower. Bred from Mimosa x Orangeade Auto, this 65% sativa / 30% indica / 5% ruderalis hybrid delivers photoperiod-level bud quality, sharp orange-lime-lemon terps, and a happy, clear-headed high that’s perfect for daytime. With around 21% THC and low CBD, Mimosa Auto hits with a bright, uplifting, feel-good effect—great for errands, creative work, social hangs, or any time you want to be switched on but still nicely relaxed. Expect a big mood boost, mental clarity, and a smooth, energetic vibe rather than a heavy couchlock. Flavour-wise, this one is built for connoisseurs. The terpene profile leans bold citrus (orange, lime, lemon) with a light diesel edge, making every hit taste like a zesty, sparkling drink. It also shines in vaporizers, where the citrus profile really pops. In the grow room, Mimosa Auto is fast and flexible. Indoors, plants reach about 3–5 ft and yield roughly 12–14 oz/m², finishing in 7–8 weeks of flower and about 9–10 weeks from sprout. Outdoors, in long-summer climates, plants typically hit 5–6 ft and return 3–4 oz per plant when given good light and nutrition. Her size makes her adaptable—compact enough for smaller spaces, but vigorous enough to fill a tent with aromatic, frosty buds. If you want a flavour-packed auto that’s easy, quick, and genuinely potent, Mimosa Auto is a top contender. Strain Highlights Type: Autoflowering, feminized Genetics: Mimosa x Orangeade Auto Profile: 65% Sativa / 30% Indica / 5% Ruderalis THC: ≈21% | CBD: Low Effects: Clear, uplifting, happy, energetic; ideal for daytime Flavours: Citrus (orange, lime, lemon) with a touch of diesel Indoor height: 3–5 ft | Outdoor height: 5–6 ft Flowering time: 7–8 weeks Total cycle: ~9–10 weeks from sprout Yield indoor: 12–14 oz/m² | Yield outdoor: 3–4 oz/plant Best climate: Long summers; thrives indoors and in sunny outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-08T23:41:46Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/mimosa-automatic.jpg?v=1765319853
+  Price: $34.50 USD
+- [Royal Queen Seeds – Fat Banana Auto Feminized Seeds (Banana Kush Indica Autoflower) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-fat-banana-auto-feminized-seeds-banana-kush-indica-autoflower): Fat Banana Automatic takes the loud, dessert-level terp profile of the original Fat Banana and packs it into a fast, compact autoflower that still hits like a true heavy indica. Bred from Fat Banana x Cookies Auto (with Banana x OG Kush in the family tree), this 70% indica / 20% sativa / 10% ruderalis hybrid is all about fruity flavour, deep body relaxation, and quick, easy harvests. True to her name, Fat Banana Auto grows bulbous, chubby buds that reek of ripe tropical fruit. The terpene profile blends banana, sweet fruity notes, light citrus, and a touch of earth, making every hit feel like a dessert session. Properly dried and cured, the jar smell alone is a problem—in the best way. With around 22% THC and low CBD, this auto is potent for an indica lover. Effects come on fast and heavy: a wave of full-body calm, melted muscles, and a happy, laid-back headspace. It’s ideal for evening or late-night use, movie marathons, and lazy weekends. Expect classic “couch-lock” potential—this isn’t your get-things-done daytime strain. Many users also appreciate her for easing stress and general physical tension. In the grow room or garden, Fat Banana Auto is built for speed and simplicity. From seed to harvest, she finishes in about 9–10 weeks from sprout, with 7–8 weeks of flowering. Indoors, plants stay compact at 2–3 ft and yield around 13–16 oz/m², making her perfect for smaller tents or stealthy setups. Outdoors, expect 3–4 ft plants and roughly 3–6 oz per plant, depending on conditions, in long-summer climates. If you want a fast, fruity, and seriously relaxing indica auto that’s beginner-friendly but still delivers heavyweight potency, Fat Banana Auto is an easy pick. Strain Highlights Type: Autoflowering, feminized Genetics: Fat Banana x Cookies Auto Profile: 70% Indica / 20% Sativa / 10% Ruderalis THC: ≈22% | CBD: Low Effects: Deeply calming, body-heavy relaxation; ideal for evenings and couch-lock sessions Flavours: Banana, sweet fruity notes, citrus, with a light earthy backdrop Indoor height: 2–3 ft | Outdoor height: 3–4 ft Flowering time: 7–8 weeks Total cycle: ~9–10 weeks from sprout Yield indoor: 13–16 oz/m² | Yield outdoor: 3–6 oz/plant Best climate: Long summers; thrives indoors and in warm, sunny outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-08T07:06:45Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/fat-banana-automatic.jpg?v=1765319972
+  Price: $29.50 USD
+- [Royal Queen Seeds – Blue Cheese Auto Feminized Seeds (Cheese x Blueberry Auto) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-blue-cheese-auto-feminized-seeds-cheese-x-blueberry-auto): Blue Cheese Auto brings the iconic Cheese x Blueberry combo into a compact, fast, and stealth-friendly autoflower. Bred from Blueberry x Cheese x Ruderalis, this 40% indica / 35% sativa / 25% ruderalis hybrid pairs funky cheese terps with sweet fruit, manageable potency, and small plants that finish quickly. On the nose and palate, Blue Cheese Auto is all about contrast and balance. Expect pungent skunk and cheese right up front, followed by softer notes of fruit, pepper, and earthiness that round out the smoke. With around 16% THC and low CBD, the high is clear, uplifting, and functional—ideal for daytime sessions, social hangs, or creative work where you still want to stay switched on. In the grow room or garden, Blue Cheese Auto is designed to be easy and versatile. Indoors, plants typically stay 1–2 ft tall, making them perfect for micro-grows, small tents, and stealth setups. Outdoors, they usually reach 2–4 ft and benefit from basic protection from heavy rain to avoid mold. You can keep them extra small with light LST, or let them stretch a bit for maximum yield. The full cycle runs about 10–11 weeks from sprout, with 6–7 weeks of flowering. Indoors, expect around 11–13 oz/m²; outdoors, roughly 2–4 oz per plant in good conditions. As they finish, colas can take on a striking purple tint, adding serious bag appeal to the classic cheesy funk. If you want a Cheese-flavoured auto that’s small, fast, and daytime-friendly, Blue Cheese Auto is an excellent fit. Strain Highlights Type: Autoflowering, feminized Genetics: Blueberry x Cheese x Ruderalis Profile: 40% Indica / 35% Sativa / 25% Ruderalis THC: ≈16% | CBD: Low Effects: Clear, uplifting, functional; relaxed but not couch-locked Flavours: Cheese, earthy, fruity, with a peppery edge Indoor height: 1–2 ft | Outdoor height: 2–4 ft Flowering time: 6–7 weeks Total cycle: ~10–11 weeks from sprout Yield indoor: 11–13 oz/m² | Yield outdoor: 2–4 oz/plant Best climate: Long summers; great for stealth indoor and discreet outdoor grows Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-06T00:26:50Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/blue-cheese-automatic.jpg?v=1765320092
+  Price: $27.50 USD
+- [Royal Queen Seeds – Sweet Skunk Auto Feminized Seeds (Compact Skunk Autoflower) - 3 Seeds](https://erthwellness.com/products/royal-queen-seeds-sweet-skunk-auto-feminized-seeds-compact-skunk-autoflower): Sweet Skunk Auto packs classic skunk flavor into a compact, fast, and easy autoflowering package. Bred from Early Skunk x Critical x Ruderalis, this 60% indica / 10% sativa / 30% ruderalis hybrid keeps the character of the original Early Skunk while adding speed, hardiness, and small, stealth-friendly stature. Plants stay nice and manageable, reaching around 1–3 ft indoors and 2–3 ft outdoors, making Sweet Skunk Auto ideal for small grow rooms, balconies, patios, and discreet gardens. From sprout to harvest, the full cycle takes only 11–12 weeks, with 8–9 weeks of flowering. Indoors, dialled-in growers can pull around 14–16 oz/m²; outdoors, expect 2–4 oz per plant depending on conditions. Flavour and aroma are where this strain really shines. The Sweet Skunk Auto strain delivers a powerful, complex terp profile mixing fruity, spicy, candy-sweet, earthy, and classic skunky notes that come together in a rich, tea-like essence—pungent but smooth and very satisfying to smoke or vape. With around 15% THC and low CBD, Sweet Skunk Auto offers a clear, uplifting, feel-good effect wrapped in a gently relaxing indica body vibe. It’s strong enough to feel, but mellow enough for daytime or early evening use when you still want to stay functional, social, and present. If you’re looking for a classic skunk experience in a small, fast, and low-maintenance auto, Sweet Skunk Auto is a rock-solid choice. Strain Highlights Type: Autoflowering, feminized Genetics: Early Skunk x Critical x Ruderalis Profile: 60% Indica / 10% Sativa / 30% Ruderalis THC: ≈15% | CBD: Low Effects: Clear, uplifting, smoothly relaxing; easygoing everyday smoke Flavours: Candy-sweet, earthy, pungent skunk with fruity and spicy tea-like notes Indoor height: 1–3 ft | Outdoor height: 2–3 ft Flowering time: 8–9 weeks Total cycle: ~11–12 weeks from sprout Yield indoor: 14–16 oz/m² | Yield outdoor: 2–4 oz/plant Best climate: Long summers; excellent indoors, on balconies, and in discreet outdoor spots Legal notice:  seeds are sold as  souvenirs/collectibles. Always check and follow your local laws before germinating or cultivating.
+  Updated: 2026-11-06T00:26:51Z
+  Vendor: Royal Queen Seeds
+  Product Type: Autoflower Seeds
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0104/8497/3626/files/sweet-skunk-automatic.jpg?v=1765321609
+  Price: $29.50 USD
+[List Continued](https://erthwellness.com/a/llms-agent/llms.txt?shop=erth-cbd.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4MTMxNjMxMTg1OTkwLCJsYXN0X3ZhbHVlIjoiODEzMTYzMTE4NTk5MCJ9)
 
 ## Collections
 
 - [Home page](https://erthwellness.com/collections/frontpage): Shop Erth Wellness for lab-tested CBD, THC & mushroom gummies, chocolates, tinctures & more. Trusted by 350,000+ customers. Free shipping $50+.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 25
 - [Nano-Emulsified Water Soluble CBD](https://erthwellness.com/collections/water-soluble-cbd): Discover water-soluble CBD oil products. Our flagship CBD is versatile and fast-acting for your wellness routine. Shop now.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [All Products](https://erthwellness.com/collections/all-products)
   Updated: 2026-08-18T15:49:41Z
@@ -2014,7 +1823,7 @@
   Updated: 2026-08-18T15:49:41Z
   Total Products: 0
 - [Sample Size Products](https://erthwellness.com/collections/cbd-oil-samples): Try free CBD and THC samples from Erth Wellness, including gummies, tinctures, pet CBD, and Delta-9 products before purchasing full-size options.
-  Updated: 2026-11-01T21:17:26Z
+  Updated: 2026-11-08T13:18:52Z
   Total Products: 32
 - [Hemp CBD Flower](https://erthwellness.com/collections/hemp-flower): Erth Hemp offers award winning Hemp CBD flower which is grown on our outdoor farm in California. Check out our website for info.
   Updated: 2026-08-18T15:49:42Z
@@ -2023,7 +1832,7 @@
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [CBN for Sleep - Turn to Erth Wellness and Sleep More Soundly Every Night!](https://erthwellness.com/collections/cbd-for-sleep): Discover the natural sleep solution you've been searching for with our expertly crafted CBD cartridge for sleep. Give it a try today and wake up refreshed!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 10
 - [Get your Daily Serving of CBD with Our Convenient CBD Capsules!](https://erthwellness.com/collections/cbd-capsules): Get precise CBD dosing with Erth Wellness CBD capsules. Our easy-to-swallow capsules contain a blend of natural herbs and amino acids. Shop online today!
   Updated: 2026-08-18T15:49:42Z
@@ -2035,19 +1844,19 @@
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [Enjoy the Relieving Effects of Our Affordable Delta-8 Tincture](https://erthwellness.com/collections/delta-8-tincture): Experience the benefits of delta-8 THC with our premium tinctures! Made from high-quality delta-8 THC, our expertly crafted tinctures offer a potent and effective experience. With various dosages and flavors to choose from, find the perfect tincture to fit your needs. Try our delta-8 tinctures today and discover the benefits of this exciting cannabinoid!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Bundles](https://erthwellness.com/collections/best-sellers)
-  Updated: 2026-11-01T21:17:26Z
+  Updated: 2026-11-08T13:18:52Z
   Total Products: 7
 - [Delta-8 Softgels](https://erthwellness.com/collections/delta-8-softgels): Our Storyteller Delta-8 is now available in a consistent and convenient dose of 25mg per softgel.
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [Discover the Blissful Experience of Our Delta-8 Gummies](https://erthwellness.com/collections/delta-8-gummies): Discover the benefits of our potent Delta-8 gummies! Crafted to deliver a calming sensation, these gummies are perfect for unwinding or boosting creativity. Order now for a delightful experience.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Delta 9 Gummies](https://erthwellness.com/collections/delta-9-gummies-farm-bill-compliant): Shop Erth Wellness Delta 9 gummies.Lab-tested, hemp-derived, and crafted for a smooth, reliable experience. Discover edibles made with quality you can trust.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 11
 - [Premium HHC Gummies at Erth Wellness](https://erthwellness.com/collections/hhc-gummies): Buy our HHC gummies made of HHC extract in delicious vegan fruit-flavored gummies.
   Updated: 2026-09-30T05:10:08Z
@@ -2056,7 +1865,7 @@
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [CBD Tincture](https://erthwellness.com/collections/all-tinctures): Shop premium CBD tincture at Erth Wellness.Full-spectrum hemp extract oil crafted for fast absorption and daily wellness support. Order online today.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 11
 - [Buy THC-O Disposable Vape Pen Online | Erth](https://erthwellness.com/collections/hhc-disposables): Get your THC-O Vape pen at Erth Wellness online. We also offer other THC-O product like THC-O gummies. | Buy now!
   Updated: 2026-08-18T15:49:42Z
@@ -2068,100 +1877,100 @@
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [All Rechargeable Vape Pens](https://erthwellness.com/collections/all-vape-pens)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 13
 - [CBD Vape Juice](https://erthwellness.com/collections/cbd-vape-juice): Discover THC-free CBD vape juice in delicious flavors, crafted for a smooth vaping experience with premium hemp-derived CBD from Erth Wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 5
 - [THC-O Cartrdiges](https://erthwellness.com/collections/thc-o-cartrdiges)
   Updated: 2026-08-18T15:49:42Z
   Total Products: 0
 - [All Disposables](https://erthwellness.com/collections/all-disposables): Explore our full lineup of premium disposable vapes. This collection features FVKD Exotics THC-A Rosin, Liquid Diamonds, Diamond Sauce, Sugar 3.5g disposables, compact 1.5g Minis, Loud SWITCH THC-A disposables, plus the THC-free DIME All-In-One 2g wellness pen with CBD, CBG, and CBN. Whether you’re looking for dab-style potency or a smooth non-intoxicating option, every device is pre-filled, pre-charged, and ready to puff—no refills or maintenance required. Just grab your favorite strain or formula and enjoy a clean, convenient experience from first draw to last.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 14
 - [THC-O Carts](https://erthwellness.com/collections/thc-o-carts)
   Updated: 2026-08-18T15:49:43Z
   Total Products: 0
 - [Sleep Gummies](https://erthwellness.com/collections/gummies-for-sleep): Fall asleep faster and wake up refreshed with Erth Wellness Sleep Gummies. Made with natural ingredients to support restful, restorative sleep every night.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 8
 - [Full Spectrum Gummies](https://erthwellness.com/collections/full-spectrum-cbd-gummies): Level up your wellness game with our Full-Spectrum CBD + THC gummies. These powerhouse edibles combine the best of both worlds, blending full-spectrum hemp oil with a balanced dose of Delta-9 THC. Perfectly crafted for those seeking comprehensive relief and a harmonious, gentle high, our gummies are your go-to for on-the-go wellness, discreet enjoyment, and long-lasting benefits.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:15Z
   Total Products: 1
 - [THC Free Gummies](https://erthwellness.com/collections/thc-free-gummies): Enjoy THC-free hemp gummies made with premium cannabinoids to support relaxation, stress relief, and everyday wellness without THC.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [CBD Gummies for Pain Relief](https://erthwellness.com/collections/cbd-for-relief): Shop premium CBD gummies for pain relief at Erth Wellness. Fast-acting, lab-tested formulas crafted to ease discomfort naturally. Order today.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 14
 - [CBD for Stress](https://erthwellness.com/collections/cbd-for-stress): Erth Wellness CBD for stress relief: Try our natural, effective CBD products to reduce anxiousness, promote relaxation, and improve your overall well-being.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 7
 - [for Recreational Use](https://erthwellness.com/collections/recreational-use): Indulge in a safe and satisfying recreational experience with our premium Delta-8 or Delta-9 THC products. Enjoy euphoric and relaxing effects today.
-  Updated: 2026-11-01T21:17:26Z
+  Updated: 2026-11-08T13:18:52Z
   Total Products: 56
 - [Enhance Creativity](https://erthwellness.com/collections/cbd-for-creativity): Boost creativity and focus with premium CBD products designed to promote calm, clarity, and everyday wellness from Erth Wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 12
 - [Topicals](https://erthwellness.com/collections/topicals): Topicals: Soothe sore muscles, relieve pain, and improve skin health with our natural, organic CBD topicals. Shop our collection today!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [THC Free (CBD Isolate & Broad Spectrum)](https://erthwellness.com/collections/thc-free-cbd-isolate-broad-spectrum)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [Full Spectrum CBD](https://erthwellness.com/collections/full-spectrum-cbd): Full Spectrum CBD: Shop our premium collection of full spectrum CBD products. Experience the entourage effect with our quality CBD oils, capsules, and gummies.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [Delta-9 (Compliant)](https://erthwellness.com/collections/delta-9-compliant)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 17
 - [CBN](https://erthwellness.com/collections/cbn)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [Arthridiol](https://erthwellness.com/collections/arthridiol): Extra Strength CBD Topicals for Pain Relief. Ease Muscle & Joint Pain & Reduce Inflammation: Arthridiol
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [CBD Gummies](https://erthwellness.com/collections/cbd-gummies): Shop premium CBD gummies from Erth Wellness. Lab-tested, natural ingredients for stress relief, better sleep & daily wellness. Order online today!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 23
 - [Tinctures by Erth Wellness](https://erthwellness.com/collections/tinctures-erth-wellness): Erth Wellness Tinctures: Premium CBD tinctures for your health and wellness. Shop our selection today and find the perfect tincture for your needs.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 7
 - [Topicals by Erth Welness](https://erthwellness.com/collections/topicals-erth-welness): Erth Wellness Topicals: Soothe sore muscles, relieve pain, and improve your overall wellness with our natural, plant-based topicals. Shop our selection today!
-  Updated: 2026-10-31T11:08:22Z
+  Updated: 2026-11-07T12:10:24Z
   Total Products: 3
 - [Capsules by Erth Wellness](https://erthwellness.com/collections/capsules-erth-wellness)
   Updated: 2026-08-18T15:49:43Z
   Total Products: 0
 - [Gummies by Native Extracts](https://erthwellness.com/collections/gummies-native-extracts): Native Extracts' premium Delta-8-THC gummies deliver targeted benefits for an exceptional experience. Choose Storyteller (50mg Delta-8) to blast-off, Dreamcatcher (40mg Delta-8 + 10mg CBN) for sleep, or Warrior (40mg Delta-8 + 10mg CBG) for powerful, restful, or recovery support.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Mushroom Gummies & Chocolates](https://erthwellness.com/collections/road-trip-mushroom-co): Pack your bags for an adventure with Road Trip Mushroom Gummies! These tasty gummies contain premium Amanita Muscaria mushrooms.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 24
 - [Road Trip Amanita Mushroom Gummies](https://erthwellness.com/collections/road-trip-amanita-mushroom-gummies): Introducing the "Hottest" legal psychedelic from Road Trip Mushroom Co. - Amanita Muscaria Mushroom Gummies! Featuring 3500mg (yes you read that correctly) per gummy, making these the absolute strongest Amanita Muscaraia Gummies on the market! Our Amanita Mushroom Gummies were thoroughly crafted to provide a euphoric, psychedelic experience like nothing you've ever experienced! Available in our mouth-watering Blue Raspberry flavor, each pouch contains 4 Road Trip Amanita Muscaria Mushroom Gummies. Looking for an enjoyable alternative to psilocybin? Try our Road Trip Amanita Muscaria Mushroom Gummies and enjoy your trip! Disclaimer: This product is a legal psychedelic that contains absolutely no psilocybin. Consult your doctor before purchasing and use responsibly.
   Updated: 2026-08-18T15:49:43Z
   Total Products: 0
 - [Erth Wellness](https://erthwellness.com/collections/erth-wellness): Shop premium CBD gummies, tinctures, topicals, and wellness products made with quality hemp extracts and trusted ingredients from Erth Wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 38
 - [All Gummies](https://erthwellness.com/collections/all-gummies): Shop Erth Wellness gummies — THC, Delta-8, CBD & mushroom blends in every flavor. Lab-tested, Farm Bill-compliant, and fast free shipping over $50.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 37
 - [CBD Gummies for Sleep](https://erthwellness.com/collections/cbd-gummies-for-sleep): Discover CBD sleep gummies by Erth Wellness.A natural way to wind down at night. Lab-tested, high-quality CBD gummies for sleep support.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 7
 - [Best CBD Topicals](https://erthwellness.com/collections/best-cbd-topicals): Our selection of high-quality CBD creams, balms, and oils can help relieve pain, inflammation, and skin conditions. Erth Wellness
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 7
 - [CBD Gummies](https://erthwellness.com/collections/cbd-gummies-1): Erth Wellness CBD Gummies: Premium CBD gummies made with natural ingredients. Experience the benefits of CBD & find your relief Today!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Sample](https://erthwellness.com/collections/sample): sample
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Erth Wellness - Disposables](https://erthwellness.com/collections/erth-wellness-disposables): Premium CBD, CBG, THCV, & CBN Disposable Vape Pens. Find Your Perfect Disposable Today!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-07T12:10:24Z
   Total Products: 1
 - [Erth Wellness Cartridges](https://erthwellness.com/collections/erth-wellness-cartridges)
   Updated: 2026-08-18T15:49:44Z
@@ -2173,7 +1982,7 @@
   Updated: 2026-08-18T15:49:44Z
   Total Products: 0
 - [All products available in online store](https://erthwellness.com/collections/all-products-available-in-online-store)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 107
 - [CBD Vape Pens](https://erthwellness.com/collections/cbd-pens): Achieve your best self with our mission-focused cannabinoid vape pens. Sleep Well, Stay Focused, Recover Strong, Curb your appetite and relieve stress. Elevate your life today! Grab your self the best cbd disposable vape pens around.
   Updated: 2026-08-18T15:49:44Z
@@ -2182,28 +1991,28 @@
   Updated: 2026-08-18T15:49:44Z
   Total Products: 0
 - [CBD for Pets](https://erthwellness.com/collections/cbd-for-pets): Support your pet's wellness with Full Spectrum CBD Pet Drops made with hemp extract, salmon oil, and natural bacon flavor from Erth Wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 10
 - [Daily Pet Co.](https://erthwellness.com/collections/daily-pet-co): Get the highest quality CBD for pets from award-winning brand, Daily Pet Co. All products are tested for safety and with clear marked dosage guides.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 15
 - [Gummy Mushrooms Gummies](https://erthwellness.com/collections/mushroom-gummies): Shop premium mushroom gummies from Erth Wellness. Our gummy mushrooms blend functional fungi with great taste for daily wellness support. Order now.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 30
 - [Mushroom Gummies](https://erthwellness.com/collections/magic-mushroom-gummies): Discover the best legal mushroom gummies of 2024. Our Amanita Muscaria gummies offer potent blends and delicious flavors, ideal for microdosing.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 15
 - [Amanita Mushroom Gummies](https://erthwellness.com/collections/amanita-mushroom-gummies): Explore reviews from happy customers of our Amanita Mushroom Gummies! Available in three delicious flavors for microdosing or full-trip experiences.
-  Updated: 2026-10-30T11:09:08Z
+  Updated: 2026-11-06T12:09:11Z
   Total Products: 12
 - [Desert Stardust Gummies](https://erthwellness.com/collections/desert-stardust-gummies): Discover our legal mushroom gummies in Blue Raspberry, Pineapple, Green Apple and Strawberry flavors. Get yours today from Erth Wellness!
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 10
 - [Full Spectrum Tinctures](https://erthwellness.com/collections/full-spectrum-tinctures): Shop full spectrum CBD + THC tinctures from Erth Wellness. Fast-acting drops for relaxation, relief & balance. Lab tested for purity.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [For Dogs](https://erthwellness.com/collections/for-dogs)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 9
 - [Erth Wellness Gummies](https://erthwellness.com/collections/erth-wellness-gummies)
   Updated: 2026-08-21T17:03:00Z
@@ -2215,97 +2024,97 @@
   Updated: 2026-08-18T20:52:48Z
   Total Products: 0
 - [Native Extracts - Gummies](https://erthwellness.com/collections/native-extracts-gummies): Shop Native Extracts Delta-8 gummies for focus, sleep & recovery. Third-party lab tested, Farm Bill-compliant, crafted in the USA. Try today.
-  Updated: 2026-11-01T21:17:26Z
+  Updated: 2026-11-08T13:18:53Z
   Total Products: 4
 - [Native Extracts - Tinctures](https://erthwellness.com/collections/native-extracts-delta8-tinctures): Shop Native Extracts Delta-8 tinctures with targeted cannabinoid blends for relaxation, recovery, or sleep support from Erth Wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Native Extracts](https://erthwellness.com/collections/native-extracts): Native Extracts focuses on affordable, high-potency alternative cannabinoid blends.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [Marketing Items](https://erthwellness.com/collections/marketing-items)
   Updated: 2026-08-18T15:49:45Z
   Total Products: 0
 - [Erth Wellness Best Sellers](https://erthwellness.com/collections/all-products-except-sample-sizes): Browse Erth Wellness's full-size CBD, THC & mushroom lineup — gummies, tinctures, chocolates & more. Lab-tested, Farm Bill-compliant. Free shipping $50+
-  Updated: 2026-11-01T21:17:26Z
-  Total Products: 207
+  Updated: 2026-11-08T13:18:53Z
+  Total Products: 208
 - [All](https://erthwellness.com/collections/all): Explore Erth Wellness's full catalog of CBD, THC & mushroom gummies, chocolates, tinctures & more. Lab-tested, Farm Bill-compliant, made in the USA.
-  Updated: 2026-11-01T21:17:26Z
-  Total Products: 223
+  Updated: 2026-11-08T13:18:53Z
+  Total Products: 224
 - [THC Chocolate Bar](https://erthwellness.com/collections/erth-wellness-thc-chocolate-bars): Shop Erth Wellness THC chocolate bars — rich, potent, lab-tested treats for a smooth, flavorful experience. Farm Bill-compliant. Shop now.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [All Chocolates](https://erthwellness.com/collections/all-chocolates): Indulge in Erth Wellness THC & mushroom chocolate bars. Rich, lab-tested treats crafted for relaxation, focus, or a feel-good lift. Shop now.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 11
 - [Mushroom Chocolates](https://erthwellness.com/collections/mushroom-chocolates): Enjoy Road Trip Mushroom Chocolate Bars made with premium chocolate and functional mushrooms for mindful enjoyment and everyday wellness.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 5
 - [THC Gummies](https://erthwellness.com/collections/thc-gummies): Shop premium THC gummies at Erth Wellness. Lab-tested, potent edibles crafted for consistent effects. Fast shipping and discreet packaging. Order today.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 14
 - [Gummies for Sleep](https://erthwellness.com/collections/gummies-for-sleep-1): Wind down naturally with Erth Wellness Sleep+ Gummies, featuring calming cannabinoids like CBD and CBN to support deep, restful sleep without next-day grogginess.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [Lions Mane Mushroom Gummies](https://erthwellness.com/collections/lions-mane-mushroom-gummies): Boost focus, clarity, and cognitive health with Erth Wellness Lion’s Mane Gummies—made with high-potency fruiting body extract for real nootropic benefits.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-07T12:10:24Z
   Total Products: 1
 - [Functional Gummies](https://erthwellness.com/collections/functional-gummies): Explore Erth Wellness Functional Gummies—expertly crafted blends designed to support stress relief, restful sleep, recovery, and daily balance. Clean ingredients, real results.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 8
 - [Happy Caps](https://erthwellness.com/collections/happy-caps-mushroom-gummies): Explore Happy Caps Functional Mushroom & Adaptogenic Gummies made with Lion’s Mane, Reishi & Cordyceps for focus, balance & daily well-being.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 3
 - [FVKD Exotics Company](https://erthwellness.com/collections/fvkd): Explore FVKD Exotics premium THCA vapes, Live Rosin, and Diamond Sauce Disposables—crafted for smooth flavor, extreme potency, and clean performance.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 12
 - [Disposables](https://erthwellness.com/collections/fvkd-thca-disposables): Shop FVKD Disposables—THCA, Live Rosin & Diamond Sauce vapes crafted for pure flavor, smooth vapor, and extreme potency in every hit.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:15Z
   Total Products: 10
 - [Pre-Rolls](https://erthwellness.com/collections/fvkd-thca-pre-rolls): Premium THCA pre-rolls infused with diamonds and hash for smooth, powerful flavor and performance.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [Relief and Recovery Gummies](https://erthwellness.com/collections/relief-and-recovery-gummies): Ease tension and bounce back faster with Erth Wellness Relief & Recovery gummies. Lab-tested cannabinoid blends for everyday aches and stress.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [Tinctures for Sleep](https://erthwellness.com/collections/tinctures-for-sleep): Struggling to sleep? Shop Erth Wellness sleep tinctures with CBN & THC to help you fall asleep faster and stay asleep longer. Lab tested.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 2
 - [CBD Drops for Pets](https://erthwellness.com/collections/cbd-drops-for-pets): Help your pet relax and recover with Erth Wellness CBD drops. Vet-friendly, lab-tested formulas made for dogs and cats of every size.
-  Updated: 2026-10-31T11:08:22Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 2
 - [THC Free Tinctures](https://erthwellness.com/collections/thc-free-tinctures): Prefer THC-free? Shop Erth Wellness broad spectrum tinctures for relief and calm without the high. Lab tested, Farm Bill-compliant.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [All Tinctures](https://erthwellness.com/collections/all-tinctures-1)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 10
 - [All Topicals](https://erthwellness.com/collections/all-topicals): Discover Erth Wellness CBD topicals for targeted relief — balms, creams & roll-ons. Third-party lab tested for purity, potency & peace of mind.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 - [Road Trip - All Products](https://erthwellness.com/collections/road-trip-all-products): Discover the full Road Trip lineup — microdosed gummies and functional mushroom blends for focus, mood & a gentle daily uplift. THC-free
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 24
 - [All Pre-Rolls](https://erthwellness.com/collections/all-pre-rolls)
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 4
 - [Royal Queen Seeds](https://erthwellness.com/collections/royal-queen-seeds): Shop Royal Queen Seeds genetics, feminized and autoflower options plus the new iGrowCan grow kits. Premium seeds for collectors and home growers.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 40
 - [LOUD THCA Disposables and Pre-Rolls](https://erthwellness.com/collections/loud-thca-disposables-and-pre-rolls): Shop LOUD THCA products: Switch Device, 3.5g disposables, and 2g diamond-infused Hash Holez pre-rolls. Ceramic coil, pre-heat, lab-tested COAs.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 5
 - [All Disposable and Pre-Rolls](https://erthwellness.com/collections/all-disposable-and-pre-rolls): Shop all disposables and pre rolls featuring FVKD and LOUD, plus the Dime THC Free Device. Easy picks, fast reorders, and COAs where available.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 21
 - [Wholesale Items](https://erthwellness.com/collections/wholesale-items)
   Updated: 2026-08-18T20:52:48Z
   Total Products: 0
 - [All Beverages](https://erthwellness.com/collections/all-beverages): Sip into wellness with Erth Wellness THC & CBD beverages. Refreshing, lab-tested drinks for relaxation, focus, or social moments. Shop today.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T05:17:50Z
   Total Products: 4
 - [Cbn Gummies](https://erthwellness.com/collections/cbn-gummies): Fall asleep naturally with Erth Wellness THC-free CBN gummies. Non-habit forming, lab-tested sleep support without the high. Shop now.
-  Updated: 2026-11-01T12:09:54Z
+  Updated: 2026-11-08T12:09:16Z
   Total Products: 6
 
 ## Blogs
