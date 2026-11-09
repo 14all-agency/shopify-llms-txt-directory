@@ -10,14 +10,14 @@
 - Contact Email: support@lampventure.com
 - Contact Phone: +1 (628) 777-7471
 - Address: 1875 Mission St ste 103, San Francisco, California 94103, United States
-- Updated At: 2026-11-01T01:19:28.031Z
+- Updated At: 2026-11-09T01:06:53.076Z
 
 ## Products
 
 - [Vintage Crystal Chandelier – Luxury Dark Frame Ceiling Light Fixture](https://www.lampventure.com/products/asgard-vintage-luxury-chandelier): Elevate your space with the grandeur of the Asgard Vintage Crystal Chandelier, a stunning blend of timeless elegance and opulent craftsmanship. Featuring a bold circular frame in a rich dark finish, this chandelier is adorned with shimmering crystal prisms that beautifully reflect light to create a warm and inviting atmosphere.
 
 Ideal for dining rooms, grand foyers, or luxurious living spaces, this chandelier channels a sense of old-world charm while offering a sophisticated, modern twist. The intricate detailing and luxurious materials ensure that the Asgard chandelier becomes the focal point of any room, offering a perfect balance of vintage allure and contemporary style. Add a touch of classic opulence to your home with this exquisite lighting masterpiece.
-  Updated: 2026-10-31T20:17:30Z
+  Updated: 2026-11-01T08:17:17Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -55,7 +55,7 @@ Ideal for dining rooms, grand foyers, or luxurious living spaces, this chandelie
 - [Nordic Minimalist Pendant Light – Adjustable Aluminium Bedside Lamp](https://www.lampventure.com/products/wittenberg-nordic-bedside-pendant): Elevate your living space with the Wittenberg Nordic Bedside Chandelier, a masterpiece of minimalist design that infuses both sophistication and personality into any room. Perfect for urban professionals and trendsetters, this sleek, adjustable copper pendant light creates an effortlessly chic and modern atmosphere, making you feel confident and stylish in your home.
 
 Designed to be cozy and warm, this fixture is a perfect lighting solution for the winter season, bringing a soft glow that warms up your living space effortlessly. Its adjustable lines also make it versatile, complementing any design style from industrial to contemporary.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:10Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -95,7 +95,7 @@ Designed to be cozy and warm, this fixture is a perfect lighting solution for th
 - [Bamboo Hemp Rope Pendant Light – Rustic Industrial Chandelier](https://www.lampventure.com/products/lubeck-handwoven-rope-chandelier): Infuse your space with a touch of rustic charm and industrial flair with this creatively designed hemp rope chandelier. Perfect for adding a warm, ambient glow to your dining area, bar, or café, this chandelier combines natural materials with a vintage-inspired design, making it the ideal centerpiece for a cozy, inviting atmosphere.
 
 Bring a rustic yet refined touch to your home or commercial space with this distinctive chandelier. The combination of natural hemp rope and exposed bulbs creates a soft, warm light that’s perfect for creating a cozy atmosphere, while its sturdy design ensures it will be a focal point for years to come.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:05Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -111,7 +111,7 @@ Bring a rustic yet refined touch to your home or commercial space with this dist
 - [Glass Sphere RGB LED Pendant Light – 6" & 10" Minimalist Nordic Lamp](https://www.lampventure.com/products/borgund-nordic-glass-bedside-lamp): Illuminate your space with the Borgund Nordic Bedside Lamp, a perfect blend of minimalism and sophistication. Designed for those who appreciate the intersection of contemporary design and functionality, this pendant light adds a dash of modern flair to any room, making you feel both stylish and at ease. Its soft, warm glow is the ultimate addition for creating a cozy ambiance, making it ideal for the current fall season in the US.
 
 Customizable for Your Space with adjustable height features, the Borgund lamp fits into any room, be it a cozy corner or a lofty living space, giving you full control over how it enhances your interior
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:23Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -143,7 +143,7 @@ Customizable for Your Space with adjustable height features, the Borgund lamp fi
 - [Hemp Rope Pendant Light – 1.6 to 19.6 ft Handmade Rustic Chandelier](https://www.lampventure.com/products/rostock-hemp-rope-chandelier): Add a rustic yet stylish flair to your space with this American country retro hemp rope chandelier. Designed for those who appreciate a blend of creativity and vintage charm, this unique piece makes a bold statement while providing warm, ambient lighting perfect for any modern home.
 
 This chandelier is the perfect piece to elevate your interior with a touch of rustic charm and a dash of creativity. Whether in a cozy corner or a lively gathering space, it sets the mood with a warm, inviting glow.
-  Updated: 2026-10-31T20:17:27Z
+  Updated: 2026-11-04T02:37:27Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -231,7 +231,7 @@ This chandelier is the perfect piece to elevate your interior with a touch of ru
 - [Feather Cloud Chandelier – 12" & 24" Romantic Bedroom Ceiling Lamp](https://www.lampventure.com/products/neustadt-feather-cloud-chandelier): Transform your bedroom into a dreamy sanctuary with the Neustadt&nbsp;Feather Glow Pendant Lamp, perfect for adding a soft, romantic ambiance. This chic, feather-inspired lamp creates a gentle glow, enveloping your space in cozy elegance, while its lightweight design is perfect for a modern, airy feel—ideal for unwinding after a long day.
 
 With the Neustadt&nbsp;Feather Lamp, you're not just adding light to your home—you’re adding a chic, modern touch that radiates warmth and comfort. Ideal for unwinding in a calm and cozy environment, this piece complements any room's ambiance with its elegant simplicity.
-  Updated: 2026-10-31T20:17:28Z
+  Updated: 2026-11-01T08:17:06Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -303,7 +303,7 @@ With the Neustadt&nbsp;Feather Lamp, you're not just adding light to your home�
 - [Nordic Cross Chandelier – Sleek Golden Urban Ceiling Light Fixture](https://www.lampventure.com/products/sognefjord-chic-urban-ceiling-chandelier): The Sognefjord Nordic Living Room Ceiling Lamp effortlessly fuses modern design with timeless elegance, making it the perfect statement piece for trendsetters and urban professionals alike. Its sleek, golden finish and creative cross-shaped design ensure that your room radiates both confidence and individuality, perfect for those who dare to be bold in their decor choices.
 
 Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers lightweight illumination perfect for the current season, keeping your space both stylish and functional.
-  Updated: 2026-10-31T20:17:27Z
+  Updated: 2026-11-01T08:17:19Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -317,7 +317,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/Sognefjord-Chic-Urban-Ceiling-Chandelier-Lighting-Lighting-Fixtures-Ceiling-Light-Fixtures-Modern-Ceiling-Light-Fixtures-LampVenture-Black-6-Heads-7.jpg?v=1726494976
     Price: $89.00 USD
 - [Industrial Spider Chandelier – Edison Bulb Multi-Light Ceiling Light](https://www.lampventure.com/products/creative-chandelier-coffee-office-scattered-flowers-goddess-scattered-flowers-industrial-style-clothing-store-spider-office-lamp-restaurant-goddess): Bold 6.5ft industrial spider chandelier with scattered Edison bulb arrangement. Dynamic statement ceiling light for living rooms, lofts & modern commercial spaces.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:16:59Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -371,7 +371,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_0f5553c4-3eb5-47e5-87e8-ed31bbd2c651.png?v=1763500620
     Price: $279.00 USD
 - [Outdoor Linear LED Wall Light – IP65 Waterproof 11" to 94" Sizes](https://www.lampventure.com/products/led-outdoor-wall-light-modern-waterproof-ip65-villa-porch-garden-patio-exterio-wall-lamp-rainproof-in-front-of-garage-door-lamp): IP65 waterproof outdoor linear LED wall light in 11"–94" sizes. Sleek modern design for porches, gardens, patios & building facades. Durable all-weather performance.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-03T14:22:04Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -537,7 +537,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_b51d8710-5e59-41f1-9632-f4bfe6a304a5.png?v=1764870069
     Price: $843.00 USD
 - [Outdoor Wall Lantern – Modern Bronze Waterproof Exterior Sconce](https://www.lampventure.com/products/oslofjord-exterior-wall-lantern): Sophisticated bronze-finish outdoor wall lantern with glass shade & waterproof construction. Modern industrial exterior sconce for entryways, patios & front doors.
-  Updated: 2026-10-31T20:17:31Z
+  Updated: 2026-11-01T08:17:13Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -551,7 +551,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/11_d5fc5657-c781-4189-a0b7-a6320cf525f0.png?v=1763214914
     Price: $119.00 USD
 - [Round LED Flush Mount Ceiling Light with Remote – Dimmable Modern](https://www.lampventure.com/products/macaron-round-luxe-ceiling-light): Elegant round LED flush mount ceiling light with remote control & adjustable brightness. Energy-efficient modern design for living rooms, bedrooms & dining areas.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:05Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -617,7 +617,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/5_74c9f234-7c37-4269-bdee-c3b3a9ac3dc6.png?v=1763167160
     Price: $239.90 USD
 - [LED Beam Wall Light – Modern Adjustable Indoor Wall Lamp Fixture](https://www.lampventure.com/products/halo-beam-led-ceiling-light-1): Sleek modern LED beam wall light with adjustable brightness for bedrooms, living rooms & hallways. Minimalist design, energy-efficient & long-lasting indoor wall lamp.
-  Updated: 2026-10-31T20:17:28Z
+  Updated: 2026-11-01T08:17:21Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -635,14 +635,14 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_ec929af7-9bc7-4b06-84e2-084a6c828fbd.png?v=1763140278
     Price: $49.00 USD
 - [Industrial LED Wall Light – 18" E27 Metallic Arc Indoor Wall Lamp](https://www.lampventure.com/products/nebula-arc-wall-lamp): Striking 18" industrial E27 metallic arc LED wall light with bulb included. Adjustable soft glow for bedrooms, entryways & living rooms. Modern energy-saving design.
-  Updated: 2026-10-31T20:17:25Z
+  Updated: 2026-11-01T13:00:33Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/4_77d59f63-49b2-4cde-ab66-4e6dc7997d3f.png?v=1765454769
   Price: $98.00 USD
-- [Modern Pendant Light 6" – Minimalist Ceiling Hanging Lamp 5 Colors](https://www.lampventure.com/products/larvik-pendant-led-ceiling-light): Compact 6" minimalist pendant ceiling light with adjustable 5ft cable, E26/E27 base & 5 matte colors. Focused downward light for dining tables, kitchen islands & reading nooks.
-  Updated: 2026-10-31T20:17:27Z
+- [Modern Pendant Light 6" – Minimalist Ceiling Hanging Lamp 5 Colors](https://www.lampventure.com/products/larvik-pendant-led-ceiling-light): Compact 6" minimalist pendant ceiling light, adjustable 5ft cable, E26/E27 base (bulb not included), 5 matte colors. For dining tables & kitchen islands.
+  Updated: 2026-11-04T01:53:26Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -668,7 +668,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/10_126ded5d-d9b5-4768-9609-378098e75b22.png?v=1762901252
     Price: $49.90 USD
 - [Modern Round Wall Sconce – LED Sphere Indoor Wall Light Fixture](https://www.lampventure.com/products/molde-wall-lights-sleek-led-lighting): Minimalist round sphere LED wall sconce with adjustable brightness for hallways, living rooms & bedrooms. Energy-efficient, long-lasting indoor wall light fixture.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:15Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -706,7 +706,7 @@ Ideal for creating a chic, sophisticated atmosphere, this ceiling lamp offers li
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3d7863e7-bf9e-4997-b284-2259799ad99b009905.png?v=1726928281
     Price: $99.90 USD
 - [LED Flush Mount Ceiling Light – 11.8" to 23.6" Dimmable Warm Light](https://www.lampventure.com/products/alta-flush-mount-lights-led-illumination): Sleek flush mount LED ceiling light in 11.8" or 23.6" size with adjustable brightness. Modern minimalist design for living rooms, bedrooms & contemporary interiors.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-06T13:00:25Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -798,7 +798,7 @@ Ideal for housewarmings, birthdays, dorm rooms, Mother's Day, Valentine's Day, a
 Easy operation. No installation. Just charge and place anywhere you need beautiful, functional lighting. Transform any space from basic to boutique instantly.
 
 Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 2-year warranty.
-  Updated: 2026-10-31T20:17:27Z
+  Updated: 2026-11-01T08:17:24Z
   Vendor: LampVenture
   Product Type: Lighting > Table Lamps
   Availability: Available
@@ -836,7 +836,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/2_e699cd08-2bcb-4444-aa49-7f9e0d9a5304.png?v=1765656505
     Price: $98.90 USD
 - [Bird Pendant Light – Decorative LED Hanging Lamp for Dining & Kitchen](https://www.lampventure.com/products/eisenberg-beak-brilliance-pendant-light): Unique bird-shaped LED pendant light for dining rooms, kitchens & entryways. Eye-catching sculptural design with warm built-in LED — a functional statement piece.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:10Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -890,7 +890,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/19_b3b03192-592d-4b44-a984-c5009cefebe1.png?v=1762732021
     Price: $89.00 USD
 - [Scandinavian Wooden Ceiling Lamp – 9-15" Nordic Round Flush Light](https://www.lampventure.com/products/hollenzollern-nordic-glow-round-scandinavian-wooden-ceiling-lamp): Premium solid wood Nordic round ceiling lamp in 9" or 15". Minimalist Scandinavian design for living rooms, dining areas & bedrooms. Cozy natural wood ambiance.
-  Updated: 2026-10-31T20:17:22Z
+  Updated: 2026-11-01T08:16:55Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -912,7 +912,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/7_c7c2f5d0-9a63-402e-bc7d-01cef293bb22.png?v=1762724625
     Price: $149.90 USD
 - [LED Bathroom Mirror Wall Lamp – 15" & 19" Waterproof IP44 Cabinet Light](https://www.lampventure.com/products/eisfeld-modern-led-waterproof-bathroom-cabinet-mirror-wall-lamp): IP44 waterproof LED bathroom mirror wall lamp in 15" or 19". Bright energy-efficient light for moisture-rich bathrooms, vanity areas & cabinet mirrors.
-  Updated: 2026-10-31T20:17:23Z
+  Updated: 2026-11-01T08:16:55Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -1014,7 +1014,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/101810.jpg?v=1730447356
     Price: $149.90 USD
 - [Minimalist Square Wall Lamp – Modern LED Indoor Wall Light 3 Colors](https://www.lampventure.com/products/hinterberg-modern-square-wall-lamp): Sleek 5" square minimalist wall lamp in black, white & green. Energy-efficient LED for bedrooms, living rooms & hallways. Contemporary style, easy wall mount.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:16:58Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -1115,8 +1115,8 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_d5df78d3-72b9-4584-8eba-fd56eda4babf.png?v=1762617296
     Price: $46.00 USD
-- [Wireless Adhesive Wall Spotlight – 360° No-Drill USB Rechargeable Light](https://www.lampventure.com/products/alberheim-rechargeable-360-wireless-wall-lamp): No-drill adhesive wireless USB spotlight with 360° rotation & remote control. Up to 10-hour battery life. Perfect cordless accent light for any room — no wiring needed.
-  Updated: 2026-10-31T22:00:27Z
+- [Wireless Adhesive Wall Spotlight – 360° No-Drill USB Rechargeable Light](https://www.lampventure.com/products/alberheim-rechargeable-360-wireless-wall-lamp): No-drill adhesive wireless USB wall light with 360° rotation & remote control. Up to 10-hour battery life. Cordless accent light for any room — no wiring needed.
+  Updated: 2026-11-07T23:00:20Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -1134,7 +1134,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_67ae39cf-e0b5-4fa8-a25c-c5b93df6b8ef.png?v=1771119414
     Price: $59.00 USD
 - [Glass Ceiling Flush Light – 11.8" Modern LED Elegant Ceiling Fixture](https://www.lampventure.com/products/ravensburg-elegant-glass-ceiling-light-fixture): Elegant 11.8" glass flush mount ceiling light with energy-efficient LED. Timeless modern design for living rooms, dining areas & bedrooms. Bright long-lasting illumination.
-  Updated: 2026-10-31T20:17:31Z
+  Updated: 2026-11-01T08:17:01Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -1156,7 +1156,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/9_cb6295f6-6f38-4d19-8a2c-0da8e216233f.png?v=1762466285
     Price: $98.00 USD
 - [Retro Tulip Glass Wall Sconce – Vintage Indoor Wall Light Fixture](https://www.lampventure.com/products/edelweiss-retro-tulip-glass-wall-sconce): Elegant retro tulip-shaped glass wall sconce for a warm vintage ambiance. Soft diffused light for living rooms, hallways & bedrooms. Timeless vintage wall lamp.
-  Updated: 2026-10-31T20:17:27Z
+  Updated: 2026-11-01T08:17:06Z
   Vendor: LampVenture
   Product Type: Lighting > Wall Lights
   Availability: Available
@@ -1181,8 +1181,8 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/107708.jfif.jpg?v=1762101411
     Price: $119.00 USD
-- [Round LED Ceiling Light – Slim Modern Flush Mount Fixture 6 Colors](https://www.lampventure.com/products/voss-led-ceiling-light-fixture): Ultra-slim 0.6" round LED ceiling light in 6 designer colors. Soft even glow, no glare, energy-efficient. Modern flush mount upgrade for any room in 15–30 min.
-  Updated: 2026-10-31T20:17:21Z
+- [Round LED Ceiling Light – Slim Modern Flush Mount Fixture 6 Colors](https://www.lampventure.com/products/voss-led-ceiling-light-fixture): Round LED ceiling light in 6 designer colors, iron with an acrylic diffuser. Soft even glow, no glare, energy-efficient. A modern hardwired upgrade for any room.
+  Updated: 2026-11-04T01:53:19Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -1284,7 +1284,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_81fa2861-3b03-4a88-8d18-466c96117959.png?v=1771166150
     Price: $128.00 USD
 - [Solar Christmas Net LED Lights – Outdoor Curtain String Light](https://www.lampventure.com/products/christmas-net-led-light): Solar-powered Christmas LED net curtain lights for indoor & outdoor use. Easy install, sparkling even glow — perfect for gardens, rooflines, trees & holiday decor.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:13Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Lights
   Availability: Available
@@ -1326,7 +1326,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/pixelcut-expo2rt.jpg?v=1730647397
     Price: $58.99 USD
 - [Christmas LED Ball Garland Lights – Indoor & Outdoor Festive String](https://www.lampventure.com/products/christmas-lights-garland): Festive LED ball garland lights for indoor & outdoor holiday decorating. Cozy sparkling glow for Christmas trees, railings & walls. Easy to hang, long-lasting LED.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-08T13:00:30Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Lights
   Availability: Available
@@ -1452,7 +1452,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/pixelcut-export_4_a56595fd-f411-480a-8e66-0e854c639088.jpg?v=1730670519
     Price: $34.90 USD
 - [3 Ft LED Christmas Tree with Artificial Snow – Pre-Lit Xmas Tree](https://www.lampventure.com/products/christmas-table-tree-led-lit): Compact 3ft pre-lit LED Christmas tree with artificial snow for warm festive ambiance. Perfect for desks, tabletops, small spaces & indoor holiday decor. No maintenance.
-  Updated: 2026-10-31T20:17:27Z
+  Updated: 2026-11-01T08:17:09Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Trees
   Availability: Available
@@ -1466,7 +1466,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/S96253184da2245a9b3945580b35aa1fbP_jpg_960x960q75_jpg.jpg?v=1762381438
     Price: $118.00 USD
 - [Stone Rock Pendant Light – Sculptural Natural Texture Hanging Lamp](https://www.lampventure.com/products/beilstein-pendant-light): Unique stone rock-textured pendant light with raw organic form. A sculptural statement piece for living rooms, dining areas & modern interiors seeking natural character.
-  Updated: 2026-10-31T20:17:31Z
+  Updated: 2026-11-01T08:17:18Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
@@ -1504,7 +1504,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_452b57d1-ab4f-428a-b140-444273484ce1.png?v=1730823240
     Price: $588.00 USD
 - [We're Open Neon Sign – LED Neon Light for Shop, Café & Salon](https://www.lampventure.com/products/neon-sign-were-open): Vibrant LED neon "We're Open" sign available in multiple colors & sizes. Eye-catching storefront display for shops, cafés, salons & restaurants. Day & night visibility.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-07T13:00:17Z
   Vendor: LampVenture
   Product Type: Lighting > Neon Signs
   Availability: Available
@@ -1630,7 +1630,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/pixelcut-export_1_d12e0e74-5501-4eb8-8cb4-9d92ab02e09d.jpg?v=1762287458
     Price: $489.00 USD
 - [Cute Squishy Night Light – Fun Novelty Bedside Lamp Gift](https://www.lampventure.com/products/capybara-night-light): Soft, squeezable LED night light that's equal parts cute and comforting. A unique gift for anyone who needs a little light and a lot of fun. Ships fast.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-06T13:00:24Z
   Vendor: LampVenture
   Product Type: Lighting > Night Lights & Ambient Lighting
   Availability: Available
@@ -1656,14 +1656,14 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/3_2.png?v=1731614234
     Price: $60.00 USD
 - [Magnetic Christmas Car Light Bulbs – 24 Reflective Holiday Decorations](https://www.lampventure.com/products/reflective-magnetic-bulbs): Decorate your car with 24 reflective magnetic Christmas light bulb ornaments. Easy to attach, weather-resistant, and instantly festive for the holiday season.
-  Updated: 2026-10-31T20:25:02Z
+  Updated: 2026-11-08T18:19:36Z
   Vendor: LampVenture
   Product Type: Christmas Decorations > Christmas Ornaments
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/7_5f14adb2-1862-40cc-a6d6-56c12d419bed.png?v=1762097841
-  Price: $18.00 USD
+  Price: $19.90 USD
 - [Ceiling Fan with Dimmable LED Light & Remote – Modern 3-Blade](https://www.lampventure.com/products/brunn-3-blade-ceiling-fan-with-dimmable-led-remote-control): Sleek 3-blade ceiling fan with dimmable LED, 6 speeds & remote. 3 color temperatures, reversible motor, quiet operation. Perfect for bedrooms & living rooms.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:07Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Fans
   Availability: Available
@@ -1685,14 +1685,14 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/11_60aa5d9d-929a-4fe3-a65b-88115455548c.jpg?v=1760972287
     Price: $169.90 USD
 - [E27 Ceiling Fan with LED Light & Remote – Dimmable Flush Mount](https://www.lampventure.com/products/varn-modern-compact-ceiling-fan-with-dimmable-light-remote): Modern E27 socket ceiling fan with dimmable LED, 3 speeds & remote control. Flush mount design ideal for low ceilings in bedrooms, living rooms & dining areas.
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-01T08:16:56Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Fans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/varn2.png?v=1771103787
   Price: $39.00 USD
 - [E27 LED Ceiling Fan with Remote – Dimmable 3-Speed Modern Light](https://www.lampventure.com/products/zella-modern-led-ceiling-fan-light-with-remote): Modern 2-in-1 E27 ceiling fan and LED light with remote. 3 wind speeds (330–400 rpm), adjustable color temp 3000K–6500K, memory function. Ideal for low ceilings.
-  Updated: 2026-10-31T20:17:28Z
+  Updated: 2026-11-01T22:30:21Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Fans
   Availability: Available
@@ -1706,7 +1706,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/zella.png?v=1771120562
     Price: $69.98 USD
 - [56" Modern Ceiling Fan with LED Light & Remote – 6-Blade Dimmable](https://www.lampventure.com/products/elva-56-modern-6-blade-ceiling-fan-with-led-light-remote): 56" 6-blade modern ceiling fan with dimmable LED, remote control & reversible motor. Home Shield & Walk Away Delay features. Ideal for large rooms over 400 sq ft.
-  Updated: 2026-10-31T20:17:31Z
+  Updated: 2026-11-01T08:17:20Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Fans
   Availability: Available
@@ -1728,14 +1728,14 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/nickel.jpg?v=1760512907
     Price: $469.00 USD
 - [52" Indoor Outdoor Ceiling Fan with LED Light – Modern Matte White](https://www.lampventure.com/products/osna-52-indoor-outdoor-ceiling-fan-with-led-light-remote-6-speeds): Versatile 52" indoor/outdoor ceiling fan with built-in LED light & remote. Reversible motor, matte white finish. Ideal for covered patios, living rooms & bedrooms.
-  Updated: 2026-10-31T20:17:38Z
+  Updated: 2026-11-01T08:17:18Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Fans
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/16_37bef49b-6d09-49f9-94a6-c28f95e95652.jpg?v=1760613788
   Price: $269.98 USD
 - [Scandinavian LED Chandelier – Modern Minimalist Gold Ceiling Light](https://www.lampventure.com/products/bremen-scandinavian-minimalist-led-chandelier-ceiling-light): Sleek Scandinavian minimalist LED chandelier with a bold cross design and warm golden finish. Modern ceiling light for living rooms, bedrooms & dining areas.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:13Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -1781,7 +1781,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/Gemini_Generated_Image_mtv3p6mtv3p6mtv3.png?v=1770678615
     Price: $89.90 USD
 - [Retro Industrial Ceiling Light – Minimalist Metal Cage Fixture](https://www.lampventure.com/products/velden-retro-ceiling-light-minimalist-industrial-fixture): Geometric metal cage retro ceiling light in matte black or gold. Open-frame industrial design creates warm, inviting ambiance for bedrooms, kitchens & hallways. Bulb not included.
-  Updated: 2026-10-31T20:17:29Z
+  Updated: 2026-11-01T08:17:16Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Flush Mount Ceiling Lights
   Availability: Available
@@ -1795,7 +1795,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_578b5ebb-2296-4fbd-8a9a-0f99a291bed0.png?v=1770677097
     Price: $28.90 USD
 - [Modern Sputnik Chandelier – Semi Flush Mid-Century Ceiling Light](https://www.lampventure.com/products/skara-retro-inspired-semi-flush-chandelier-modern-sputnik-ceiling-fixture): Mid-century inspired Sputnik semi-flush chandelier with radiating metal arms. Modern ceiling light fixture for living rooms, bedrooms, kitchens & entryways.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-08T13:00:30Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -1825,7 +1825,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_428458ce-6106-43f7-8034-aa8e0e9aafd1.png?v=1771178248
     Price: $89.90 USD
 - [Vintage Industrial Chandelier – 35" Retro Loft E14 Black & Gold](https://www.lampventure.com/products/niva-retro-loft-vintage-american-style-e14-ceiling-chandelier-light-black-gold-modern-industrial-fixture): 35" retro loft chandelier in black and gold with exposed bulb design & adjustable chain. E14 compatible. Vintage industrial style for living rooms, dining & entryways.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:08Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Chandeliers
   Availability: Available
@@ -1855,281 +1855,75 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/2_805cc748-306f-4cdd-bb0c-00843e8e664a.jpg?v=1762566647
     Price: $386.00 USD
 - [Kids Pendant Light – Climbing Man Children's Room E27 Ceiling Lamp](https://www.lampventure.com/products/elberg-vintage-iron-climbing-man-pendant-light-artistic-e27-ceiling-lamp): Playful climbing man pendant light for kids bedrooms, nurseries & playrooms. Iron figure climber scales the cord above the bed. E27 compatible — choose your bulb.
-  Updated: 2026-10-31T20:17:26Z
+  Updated: 2026-11-01T08:17:17Z
   Vendor: LampVenture
   Product Type: Lighting > Ceiling Lights > Pendant Lights
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/Gemini_Generated_Image_629g0b629g0b629g_7ff1928e-76a2-43a2-8df1-3b6d7d5e68ea.png?v=1770676261
   Price: $39.90 USD
-- [Modern LED Ring Chandelier – Adjustable Multi-Ring Ceiling Light](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces): Stunning multi-ring LED chandelier with adjustable cables & soft warm glow. Premium aluminum & acrylic construction for living rooms, dining areas & bedrooms.
-  Updated: 2026-10-31T20:17:26Z
-  Vendor: LampVenture
-  Product Type: Lighting > Ceiling Lights > Chandeliers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/1_78f9a609-b2be-4039-8314-57abc74fae93.jpg?v=1765534283
-  - [Black / 15" - 1 Ring / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734780776561)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/25_092aa115-8499-4b4d-9576-2aba4923f539.jpg?v=1765534283
-    Price: $178.90 USD
-  - [Black / 15" - 1 Ring / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811316337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/25_092aa115-8499-4b4d-9576-2aba4923f539.jpg?v=1765534283
-    Price: $178.90 USD
-  - [Black / 15" - 1 Ring / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811349105)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/25_092aa115-8499-4b4d-9576-2aba4923f539.jpg?v=1765534283
-    Price: $185.90 USD
-  - [Black / 15" + 23" - 2 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810497137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $276.90 USD
-  - [Black / 15" + 23" - 2 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811381873)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $276.90 USD
-  - [Black / 15" + 23" - 2 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811414641)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $283.90 USD
-  - [Black / 23" + 31" - 2 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810529905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $325.90 USD
-  - [Black / 23" + 31" - 2 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811447409)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $325.90 USD
-  - [Black / 23" + 31" - 2 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811480177)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/26_51dc8918-b83a-4949-9ad7-5c930b9ca661.jpg?v=1765534282
-    Price: $344.90 USD
-  - [Black / 7" + 15" + 23" - 3 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810562673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $283.90 USD
-  - [Black / 7" + 15" + 23" - 3 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811512945)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $283.90 USD
-  - [Black / 7" + 15" + 23" - 3 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811545713)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $286.90 USD
-  - [Black / 15" + 23" + 31" - 3 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810595441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $347.90 USD
-  - [Black / 15" + 23" + 31" - 3 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811578481)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $347.90 USD
-  - [Black / 15" + 23" + 31" - 3 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811611249)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/22_d5f38634-3dd8-4a35-9bf7-87b2a77f78fa.jpg?v=1765534282
-    Price: $355.90 USD
-  - [Black / 7" + 15" + 23" + 31" - 4 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810628209)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $353.90 USD
-  - [Black / 7" + 15" + 23" + 31" - 4 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811644017)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $353.90 USD
-  - [Black / 7" + 15" + 23" + 31" - 4 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811676785)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $361.90 USD
-  - [Black / 15" + 23" + 31" + 23" - 4 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810660977)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $500.90 USD
-  - [Black / 15" + 23" + 31" + 23" - 4 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811709553)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $538.90 USD
-  - [Black / 15" + 23" + 31" + 23" - 4 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811742321)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/18_d1758f25-6321-449d-b4d4-c1f649eb306c.jpg?v=1765534283
-    Price: $522.90 USD
-  - [Black / 15" + 23" + 31" + 23" + 15" - 5 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810693745)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $508.90 USD
-  - [Black / 15" + 23" + 31" + 23" + 15" - 5 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811775089)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $545.90 USD
-  - [Black / 15" + 23" + 31" + 23" + 15" - 5 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811807857)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $591.90 USD
-  - [Black / 23" + 31" + 15" + 23" + 31" - 5 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810726513)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $517.90 USD
-  - [Black / 23" + 31" + 15" + 23" + 31" - 5 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811840625)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $555.90 USD
-  - [Black / 23" + 31" + 15" + 23" + 31" - 5 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811873393)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/13_8dc59fac-20e5-43c3-b39e-fd60acb72014.jpg?v=1765534282
-    Price: $572.90 USD
-  - [Gold / 15" - 1 Ring / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734790836337)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/24_da70aad6-70b1-4fe7-a7e9-c3ab18d844a9.jpg?v=1765534283
-    Price: $135.90 USD
-  - [Gold / 15" - 1 Ring / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811906161)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/24_da70aad6-70b1-4fe7-a7e9-c3ab18d844a9.jpg?v=1765534283
-    Price: $169.90 USD
-  - [Gold / 15" - 1 Ring / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811938929)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/24_da70aad6-70b1-4fe7-a7e9-c3ab18d844a9.jpg?v=1765534283
-    Price: $142.90 USD
-  - [Gold / 15" + 23" - 2 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810759281)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $276.90 USD
-  - [Gold / 15" + 23" - 2 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734811971697)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $276.90 USD
-  - [Gold / 15" + 23" - 2 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812004465)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $283.90 USD
-  - [Gold / 23" + 31" - 2 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810792049)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $325.90 USD
-  - [Gold / 23" + 31" - 2 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812037233)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $325.90 USD
-  - [Gold / 23" + 31" - 2 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812070001)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/21_e986fb8b-5b2b-499a-844c-bf9ba0d0062e.jpg?v=1765534283
-    Price: $344.90 USD
-  - [Gold / 7" + 15" + 23" - 3 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810824817)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $283.90 USD
-  - [Gold / 7" + 15" + 23" - 3 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812102769)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $283.90 USD
-  - [Gold / 7" + 15" + 23" - 3 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812135537)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $303.90 USD
-  - [Gold / 15" + 23" + 31" - 3 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810857585)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $347.90 USD
-  - [Gold / 15" + 23" + 31" - 3 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812168305)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $347.90 USD
-  - [Gold / 15" + 23" + 31" - 3 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812201073)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/15_0bcfd0d6-7022-4d40-b07a-a38944d2b7cf.jpg?v=1765534283
-    Price: $355.90 USD
-  - [Gold / 7" + 15" + 23" + 31" - 4 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810890353)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $353.90 USD
-  - [Gold / 7" + 15" + 23" + 31" - 4 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812233841)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $353.90 USD
-  - [Gold / 7" + 15" + 23" + 31" - 4 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812266609)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $327.90 USD
-  - [Gold / 15" + 23" + 31" + 23" - 4 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810923121)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $479.90 USD
-  - [Gold / 15" + 23" + 31" + 23" - 4 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812299377)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $538.90 USD
-  - [Gold / 15" + 23" + 31" + 23" - 4 Rings / Dimmable With Remote](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812332145)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/12_09aa4dab-f050-48a4-86fd-85eeb0c450a8.jpg?v=1765534283
-    Price: $510.90 USD
-  - [Gold / 15" + 23" + 31" + 23" + 15" - 5 Rings / Cool White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734810955889)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/9_22920429-724e-4655-bc84-66f56f4e9611.jpg?v=1765534283
-    Price: $508.90 USD
-  - [Gold / 15" + 23" + 31" + 23" + 15" - 5 Rings / Warm White](https://www.lampventure.com/products/wismar-modern-led-ring-chandelier-circular-ceiling-light-for-living-dining-and-bedroom-spaces?variant=42734812364913)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0588/8792/9969/files/9_22920429-724e-4655-bc84-66f56f4e9611.jpg?v=1765534283
-    Price: $508.90 USD
-[List Continued](https://www.lampventure.com/a/llms-agent/llms.txt?shop=59cfec-af.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTI5MjEyNjc0MTYxLCJsYXN0X3ZhbHVlIjoiNzUyOTIxMjY3NDE2MSJ9)
+[List Continued](https://www.lampventure.com/a/llms-agent/llms.txt?shop=59cfec-af.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTI5MDA1MTIxNjQ5LCJsYXN0X3ZhbHVlIjoiNzUyOTAwNTEyMTY0OSJ9)
 
 ## Collections
 
 - [Simprosys Google Feed](https://www.lampventure.com/collections/simprosys)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 189
 - [Bedroom Lights](https://www.lampventure.com/collections/bedroom-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 168
 - [Outside Lights](https://www.lampventure.com/collections/outside-lights)
-  Updated: 2026-10-31T20:17:19Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 33
 - [Cafe Lights](https://www.lampventure.com/collections/cafe-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 180
 - [Farmhouse Lights](https://www.lampventure.com/collections/farmhouse-lights)
-  Updated: 2026-10-31T20:17:19Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 74
 - [Flushed Lights](https://www.lampventure.com/collections/fixed-style-1)
-  Updated: 2026-10-31T20:17:19Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 78
 - [Signature Picks](https://www.lampventure.com/collections/flagships)
-  Updated: 2026-10-31T20:17:20Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 58
 - [Living Room Lights](https://www.lampventure.com/collections/living-room-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 173
 - [Bulky Lights](https://www.lampventure.com/collections/bulky-style-1)
   Updated: 2026-10-31T20:17:15Z
   Total Products: 13
 - [Kitchen Lights](https://www.lampventure.com/collections/kitchen-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 134
 - [Round Lights](https://www.lampventure.com/collections/round-style-1)
-  Updated: 2026-10-31T20:17:18Z
+  Updated: 2026-11-03T13:53:18Z
   Total Products: 78
 - [Long Lights](https://www.lampventure.com/collections/long-lights)
-  Updated: 2026-10-31T20:17:07Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 14
 - [Home Lights](https://www.lampventure.com/collections/home-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 187
 - [Other Lights](https://www.lampventure.com/collections/other-lights)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 188
 - [Bathroom Lights](https://www.lampventure.com/collections/bathroom-lights)
-  Updated: 2026-10-31T20:17:20Z
+  Updated: 2026-11-06T12:10:49Z
   Total Products: 53
 - [LED](https://www.lampventure.com/collections/led): Lighting fixtures with LED lights built-in
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 151
 - [Best to buy multiple](https://www.lampventure.com/collections/best-to-buy-multiple)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 149
 - [Wall Lights](https://www.lampventure.com/collections/wall-lights)
-  Updated: 2026-10-31T20:17:19Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 57
 - [Ceiling Lights](https://www.lampventure.com/collections/ceiling-lights)
-  Updated: 2026-10-31T20:17:20Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 110
 - [Christmas](https://www.lampventure.com/collections/christmas)
-  Updated: 2026-10-31T20:17:12Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 9
 - [Neon Signs](https://www.lampventure.com/collections/neon-signs)
   Updated: 2026-10-10T21:00:20Z
@@ -2138,20 +1932,20 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   Updated: 2026-10-31T20:17:18Z
   Total Products: 5
 - [Google Feed](https://www.lampventure.com/collections/google-feed)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 63
 - [Low cost](https://www.lampventure.com/collections/low-cost)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 23
 - [Medium cost](https://www.lampventure.com/collections/medium-cost)
-  Updated: 2026-10-31T20:17:20Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 18
 - [High cost](https://www.lampventure.com/collections/high-cost)
-  Updated: 2026-10-31T20:17:20Z
+  Updated: 2026-11-04T12:11:54Z
   Total Products: 6
 - [Black Friday](https://www.lampventure.com/collections/black-friday)
-  Updated: 2026-10-31T20:17:21Z
-  Total Products: 190
+  Updated: 2026-11-07T12:16:07Z
+  Total Products: 192
 - [Low Cost Test](https://www.lampventure.com/collections/low-cost-test)
   Updated: 2026-10-31T20:17:17Z
   Total Products: 8
@@ -2162,7 +1956,7 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
   Updated: 2026-10-31T20:17:18Z
   Total Products: 4
 - [Table Lamps](https://www.lampventure.com/collections/table-lamps)
-  Updated: 2026-10-31T20:17:21Z
+  Updated: 2026-11-07T12:16:07Z
   Total Products: 10
 
 ## Blogs
@@ -2805,6 +2599,22 @@ Includes: Lamp, USB charging cable, manual. 30-day returns. Free shipping $35+. 
     Updated: 2026-10-30T00:44:52Z
     Author: Gabriel Harvey
     Tags: beginner's guide to led garland, creating holiday displays, display, festive decorations, holiday, home decor, led garland, lights
+  - [Embrace Timeless Design: How the Beilstein Pendant Light Stone Rock Elevates Modern Interiors](https://www.lampventure.com/blogs/news/embrace-timeless-design-how-the-beilstein-pendant-light-stone-rock-elevates-modern-interiors): Embrace Timeless Design: How the Beilstein Pendant Light Stone Rock Elevates Modern Interiors
+    Updated: 2026-11-02T01:24:39Z
+    Author: Gabriel Harvey
+    Tags: decor, design, elevate home aesthetics, light, modern interiors, pendant light, stone rock design, timeless lighting solutions
+  - [Crafting an Enchanting Night: Elevate Your Reading Experience with Real Portal Projector](https://www.lampventure.com/blogs/news/crafting-an-enchanting-night-elevate-your-reading-experience-with-real-portal-projector): Crafting an Enchanting Night: Elevate Your Reading Experience with Real Portal Projector
+    Updated: 2026-11-04T00:50:59Z
+    Author: Gabriel Harvey
+    Tags: enchanting, enchanting reading environment, home reading setup, immersive reading, night experience, portal projector, projector, reading
+  - [The Art of Scandinavian Minimalism: Enhancing Interiors with Wittenberg Nordic Bedside Pendant Light](https://www.lampventure.com/blogs/news/the-art-of-scandinavian-minimalism-enhancing-interiors-with-wittenberg-nordic-bedside-pendant-light): The Art of Scandinavian Minimalism: Enhancing Interiors with Wittenberg Nordic Bedside Pendant Light
+    Updated: 2026-11-06T00:46:30Z
+    Author: Gabriel Harvey
+    Tags: bedside lamp, design, interior decor, minimalism, modern home decor, nordic lighting, scandinavian, wittenberg pendant light
+  - [Enhance Your Room's Ambiance with the Chic Original 5 Inch Minimalistic Square Wall Lamp](https://www.lampventure.com/blogs/news/enhance-your-rooms-ambiance-with-the-chic-original-5-inch-minimalistic-square-wall-lamp): Enhance Your Room's Ambiance with the Chic Original 5 Inch Minimalistic Square Wall Lamp
+    Updated: 2026-11-09T01:03:43Z
+    Author: Gabriel Harvey
+    Tags: ambiance, chic home accessories, decor, lamp, minimalistic design, modern wall fixtures, stylish room illumination, wall lighting
 
 ## Store Pages
 
