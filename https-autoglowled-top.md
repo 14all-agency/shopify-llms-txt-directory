@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-21T02:25:02Z
 - Contact Email: support@autoglowled.top
-- Updated At: 2026-11-02T01:09:10.223Z
+- Updated At: 2026-11-10T00:54:32.657Z
 
 ## Products
 
@@ -1897,13 +1897,13 @@
   Updated: 2026-10-15T06:27:45Z
   Total Products: 343
 - [LED Interior Light Kit](https://autoglowled.top/collections/led-interior-light-kit): AutoGlowLED LED Interior Light Kits fit Chevy Colorado, Hyundai Kona, Kia Seltos, Mitsubishi Eclipse Cross, and VW CC with plug-and-play CANBUS options.
-  Updated: 2026-10-22T11:10:02Z
+  Updated: 2026-11-03T12:06:39Z
   Total Products: 5724
 - [Mercedes-Benz](https://autoglowled.top/collections/mercedes-benz): AutoGlowLED Mercedes-Benz LED interior light kits fit A-Class W169, C-Class W202-W205, S-Class W220, CLK, CLS, GLA, GLK, Viano W639 and more.
   Updated: 2026-10-15T06:27:53Z
   Total Products: 113
 - [AutoGlowLED](https://autoglowled.top/collections/autoglowled): AutoGlowLED interior LED kits for Nissan Sentra, BMW E30, Ford Fiesta MK7, and more. CANBUS-ready dome, map, and trunk bulbs in multiple colors.
-  Updated: 2026-10-22T11:10:02Z
+  Updated: 2026-11-03T12:06:39Z
   Total Products: 6324
 - [Acura](https://autoglowled.top/collections/acura): Shop AutoGlowLED Acura LED interior light kits for MDX, RDX, TSX, RSX, TL, ILX, and RL. Plug-and-play 6000K or 3000K bulbs with CANBUS-ready options.
   Updated: 2026-10-15T06:25:52Z
@@ -1972,7 +1972,7 @@
   Updated: 2026-10-15T06:23:33Z
   Total Products: 111
 - [Hyundai](https://autoglowled.top/collections/hyundai): AutoGlowLED Hyundai LED interior light kits with direct-fit festoon, T10, and BA9s bulbs. CANBUS-ready options, 6000K white and color choices, plug-and-play.
-  Updated: 2026-10-15T06:27:29Z
+  Updated: 2026-11-03T12:06:39Z
   Total Products: 425
 - [Ferrari](https://autoglowled.top/collections/ferrari): AutoGlowLED Ferrari LED interior light kits replace factory dome, map, and footwell bulbs with canbus-ready 6000K options. Confirm socket fitment by model year.
   Updated: 2026-10-15T06:13:02Z
