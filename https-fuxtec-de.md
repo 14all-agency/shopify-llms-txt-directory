@@ -6,222 +6,222 @@
 - Timezone: Europe/Berlin
 - Created At: 2023-09-26T02:22:10Z
 - Contact Email: info@fuxtec.de
-- Updated At: 2026-11-02T00:36:54.572Z
+- Updated At: 2026-11-10T00:30:47.139Z
 
 ## Products
 
 - [FUXTEC FX-MS152 Benzin Motorsense Multitool 2in1](https://fuxtec.de/products/benzin-motorsense-fx-ms152): FUXTEC FX-MS152 Multitool 2in1 Motorsense Rasentrimmer 2022 EASY STARTER bereits an Bord 3,0PS mit 52ccm³ Hubrau m - 2-Takt luftgekühlt Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes und einen sicheren Stand Benzin Gemisch 1:40 Doppelfadenkopf mit Tippautomatik PROFI-KOMFORT-TRAGEGURT Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) Die konsequente Weiterentwicklung des bereits mehrfach prämierten Vorgänger MT2in1. Das Multitalent "FX-MS152" aus dem Hause FUXTEC tritt dabei in große Fußstapfen, bringt jedoch auch gleich alles mit, um noch effizienter die Mäharbeiten zu verrichten. Eine neuartige Konstruktion des Zylinder und des Kolbens reduziert den Verschleiß und verlängert die Lebensdauer des Motors. In Verbindung mit dem bereits integrierten Easy Starter lässt sich die Maschine denkbar einfach Starten. Kein anstrengendes, krauftraubendes Ziehen oder gar Reißen der Starterschnur mehr. Langsames und kontinuierliches Ziehen lädt die Vorspannung einer innenliegenden Feder auf und entfaltet sich schlagartig. Dadurch springt der Motor quasi von alleine an. Auch die innenliegende Antriebswelle wurde komplett überarbeitet. Erstmals wurde auf 9-Zahnwelle zur besseren Haltbarkeit umgestellt. Die Welle ist auf mehreren Öldämpfern in der Alu-Führung gelagert, so dass eine zusätzliche Reduktion der Vibrationen erzielt werden konnte. Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense mit leistungsstarkem 2-Taktmotor und mehr Drehmoment aufgrund seines neuen 52ccm Motors. Bequemer Zweihandgriff für eine natürliche Sensenbewegung zum ergonomischen Flächenmähen. Die Motorsense"FX-MS152" bietet exzellente Durchzugskraft und ein hohes Drehmoment. Zum Mähen großer Grünflächen und zähem Unkraut schnell und effektiv bestens geeignet. Mit passendem Schneidwerkzeug auch für knorriges Buschwerk und dünne Bäume einsetzbar. Durch den austauschbaren Doppelfadenkopf ist das Multitalent "MS152" sehr gut zum Rasenkanten trimmen und für Ausputzarbeiten um Bäume, Wege und Treppen auf dem privaten Gartengrundstück geeignet. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. TÜV Zertifizierung: Dieses Gerät wurde von der akkreditierten Prüfstelle TÜV Süd getestet, und es wurde ihm das Prüfzeichen: "Geprüfte Sicherheit" verliehen. Zertifikatsnummer: Z1A151077523020 Hauptgerät Motorsensenaufsatz Doppelfadenkopf 3 Zahnblatt Schutzblech Zweihandgriff "Ergo" Profi - Komforttragegurt Mischbehälter Toolkit Bedienungsanleitung
-  Updated: 2026-11-01T22:52:26Z
+  Updated: 2026-11-09T23:23:52Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MS152-5-Bild1_a331a5a9-bbe2-4f44-8800-dd5559084e7c.jpg?v=1789388519
   Price: 159,00 € EUR
 - [FUXTEC FX-PS152 Benzin Profi-Motorsense](https://fuxtec.de/products/benzin-motorsense-fx-ps152): FUXTEC FX-PS152 Profi Motorsense 2in1 - Motorsense Rasentrimmer Highend Anti-Vibrationseinrichtung Tragegurt gepolstert für den Profi (gewerblichen) Einsatz - PROFI-KOMFORT-TRAGEGURT Hochwertige Nylonspule zum Nachfüllen ohne Öffnen des Gehäuses Werkzeuglose Griffverstellung der Rohrdurchmesser beträgt 28mm, dadurch deutlich gesteigerte Steifigkeit sowie niedrigere Vibrationen 1,8 PS mit 52ccm³ Hubraum - 2-Takt luftgekühlt EASY STARTER bereits an Bord Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes und einen sicheren Stand Benzin Gemisch 1:40 Fadenkopf mit Tippautomatik Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) Eine neuartige Konstruktion des Zylinder und des Kolbens reduziert den Verschleiß und verlängert die Lebensdauer des Motors. In Verbindung mit dem bereits integrierten Easy Starter lässt sich die Maschine denkbar einfach Starten. Kein anstrengendes, krauftraubendes Ziehen oder gar Reißen der Starterschnur mehr. Langsames und kontinuierliches Ziehen lädt die Vorspannung einer innenliegenden Feder auf und entfaltet sich schlagartig. Dadurch springt der Motor quasi von alleine an. Auch die innenliegende Antriebswelle wurde komplett überarbeitet. Erstmals wurde auf 9-Zahnwelle zur besseren Haltbarkeit umgestellt. Die Welle ist auf mehreren Öldämpfern in der Alu-Führung gelagert, so dass eine zusätzliche Reduktion der Vibrationen erzielt werden konnte. Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense mit leistungsstarkem 2-Taktmotor und mehr Drehmoment aufgrund seines neuen 52ccm Motors. Bequemer Zweihandgriff für eine natürliche Sensenbewegung zum ergonomischen Flächenmähen. Neu ist hier ebenfalls die werkzeuglose Griffverstellung, bei der Sie komplett auf Werkzeug verzichten können. Die Profisense"FX-PS152" bietet exzellente Durchzugskraft und ein hohes Drehmoment. Zum Mähen großer Grünflächen und zähem Unkraut schnell und effektiv bestens geeignet. Mit passendem Schneidwerkzeug auch für knorriges Buschwerk und dünne Bäume einsetzbar. Durch den austauschbaren Fadenkopf ist das Multitalent "PS152" sehr gut zum Rasenkanten trimmen und für Ausputzarbeiten um Bäume, Wege und Treppen auf dem privaten Gartengrundstück geeignet. Mit dabei im Lieferumfang ist eine EASY FIT Fadenspule bei der der Kopf nicht auseinander gebaut werden muss um den Faden aufzufüllen. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Hauptgerät Motorsensenaufsatz Fadenkopf 3 Zahnblatt Schutzblech Zweihandgriff "Ergo" Profi - Komforttragegurt Mischbehälter Toolkit Bedienungsanleitung
-  Updated: 2026-11-01T19:45:26Z
+  Updated: 2026-11-09T23:54:52Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-PS152-Bild11.jpg?v=1789388501
   Price: 189,00 € EUR
 - [Benzin Rasenmäher E-Start  FX-RM5196eS mit zipgo®](https://fuxtec.de/products/benzin-rasenmaeher-fx-rm5196essl): Der FUXTEC Benzin Rasenmäher E-Start FX-RM5196eS mit zipgo® Die Weltneuheit nur bei FUXTEC® Der Benzin Rasenmäher FX-5196eS ZIPGO-Motor von FUXTEC ist das ultimative Performance-Paket dieser Baureihe und steht für Power, Performance und Zuverlässigkeit. Zusätzlich zeichnet sich dieser Motortyp - durch den innovativsten und einfachsten Startvorgang aus, den es für Rasenmäher je gab. Die ZIPGO-Motoren sind mit Lithium-Ion-Batterien ausgestattet. Dies ermöglicht mehrmaliges und zuverlässiges Starten ohne ätigung von Zugseilen. Einfach wie beim Sportwagen den Knopf drücken und der Mäher startet. Müheloses und geniales Starten! Sie müssen die Batterie nicht mehr laden, diese lädt sich während dem Betrieb des Motors selber auf wie bei Ihrem Auto Der Auto-Choke erleichtert Ihnen das Starten, da Sie nicht mehr die Primärpumpe ätigen müssen. Auto-Choke-System Das intelligente Auto-Choke-System stellt den Choke unter allen Mähbedingungen für optimales starten und laufen ein. Der Anwender muss beim (Wieder-)Starten des Motors nicht mehr daran denken, den Choke zu bedienen. Es besteht keine Notwendigkeit, so lange zu warten, bis der Motor aufgewärmt ist, bis man mit dem Mähen beginnt. Der Anwender benötigt keine Erfahrung beim Start oder Gebrauch des Motors. Der Rasenmäher der Topklasse hat weitere Funktionen mit Rang und Namen wie z.B.: Eigenantrieb Mulchfunktion Seitenauswurf franz. GT-Getriebe Easy-Clean Funktion etc. Ihre Vorteile mit dem Benzinmäher mit Elektro Start! max. Motorleistung 6,0PS - 4-Takt 196cc OHV Motor Geräteleistung bei Nenndrehzahl 3,9KW Schnittbreite 510mm Elektrostarter mit integrierter Li-Ionen Batterie zusätzlicher Reversierstarter auch an Bord robustes Stahlblechgehäuse mit Seitenauswurf und zentraler Schnitthöhenverstellung 25-75mm verfügt über ein Selbstantriebssystem Antrieb für leichteres Arbeiten ohne Schieben Auto-Choke Mulchfunktion Seitenauswurf-Funktion Easy-Clean Funktion Fangkorb fasst 60 l und lässt sich bequem abnehmen Lufteinlasssystem am Fangkorb erhöht das Fangvolumen bis zu 90% Kugelgelagerte Big Wheel Räder 255 mm hinten und 175 mm vorne hochwertig geschliffene Mulchmesser aus Spezialstahl ! Lieferhinweis: Bitte geben Sie im Bestellprozess oder im Kommentarfeld Ihre Telefonnummer an. Das von Ihnen bestellte Gerät wird an die Spedition übergeben und an Sie geliefert. Leider kann ohne Angabe einer Telefonnummer das Speditionsgut nicht telefonisch avisiert und somit nicht zugestellt werden.Paket 1 von 2 Benzin Rasenmäher Seitenauswurf Mulchkit Batteriepanele Ladegerät Paket 2 von 2 Fangkorb Griffzwischenrahmen Montageschrauben Bedienungsanleitung
-  Updated: 2026-10-31T19:52:25Z
+  Updated: 2026-11-09T21:20:06Z
   Vendor: FUXTEC
   Product Type: Rasenmäher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-RM5196eS-Bild11_6049b8da-0d96-4d82-9cba-d93892abc345.jpg?v=1792767277
   Price: 459,00 € EUR
 - [Benzin Rasenmäher FX-RM5196](https://fuxtec.de/products/benzin-rasenmaeher-fx-rm5196sl): Der FUXTEC Benzin Rasenmäher FX-RM5196 mit unserem stärksten 196cc Motor und einer max. Motorleistung von 6.0PS Ein Rasenmäher, der allen den Rang abmäht - mit Hinterradantrieb und sagenhafter EasyClean Funktion zentrale Schnitthöhenverstellung 25-75mm Schnittbreite 501 mm robustes Stahlblechgehäuse mit Seitenauswurf verfügt über ein Selbstantriebssystem Radantrieb für leichteres Arbeiten auf Rasen und Gras ohne Schieben Fangkorb fasst 60 l und lässt sich bequem abnehmen - um das Schnittgut (Gras) zu entleeren Kugelgelagerte Big Wheel Räder 255 mm hinten und 175 mm vorne - die Big Wheel Räder in Kombination mit dem Motor des Benzinrasenmäher erleichtern die Arbeit im Garten - das Ergebnis ist Gras und Rasen wie im Vorzeigegarten hochwertig geschliffene Mulchmesser aus Spezialstahl Auto-Choke-System Das intelligente Auto-Choke-System stellt den Choke unter allen Mähbedingungen für optimales starten und laufen ein. Er erleichtert Ihnen das Starten, da Sie nicht mehr die Primärpumpe ätigen müssen. Der Anwender muss beim (Wieder-)Starten des Motors nicht mehr daran denken, den Choke zu bedienen. Es besteht keine Notwendigkeit, so lange zu warten, bis der Motor aufgewärmt ist, bis man mit dem Mähen beginnt. Der Anwender benötigt keine Erfahrung beim Start oder Gebrauch des Motors. EasyClean System ist für Reinigung des Innengehäuses (Schneidwerk) konzipiert worden. Dabei können Sie den EasyClean Anschluss verwenden. Hierzu einfach einen Wasserschlauch an den Anschluss auf der Gehäuseoberseite anschließen und bei laufendem Schneidwerk das Wasser langsam aufdrehen. Durch die Rotation des Schneidwerks wird das Wasser gleichmäßig in Innengehäuse verteilt und kann so Schmutzrückstände wegspülen. 4in1 - Mähen, Fangen, Mulchen und Seitenauswurf Der Benzinrasenmäher Modell FX-RM5196 verfügt über ein Selbstantrieb für leichteres Arbeiten im Garten auf Rasen und Gras ohne Schieben. Über ein eingebautes Federsystem lässt sich die zentrale Schnitthöhenverstellung bequem in 8 Stufen von 25 bis 75 Millimeter verstellen. Der Fangkorb fasst 60 l und lässt sich bequem abnehmen. Die extra großen Räder sorgen für mehr Grip und einfaches Handling. So macht das Mähen mit Antrieb hinten Spaß! - Alles kein Problem mit den Gartengeräten aus dem Hause FUXTEC. Mulchen ist eine spezielle Technik, mit der die Grashalme in mehreren Schritten extrem zerkleinert werden und zwischen den Rasen fallen. In der Regel wird beim Rasenmähen das geschnittene Gras in einem Auffangkorb oder -sack gesammelt und muss anschließend entsorgt werden. Verwendet man dagegen unseren Rasenmäher mit Mulchfunktion, wird der Rasenschnitt zerhäckselt. Dieser sogenannte Mulchschnitt wird über die Rasenfläche verteilt, und dadurch werden dem Boden wieder Nährstoffe zugeführt, denn durch Regenwürmer wird der Mulch in tiefere Bodenschichten befördert. Der Mulch ist außerdem nützlich bei Hitze, da dann die Wurzeln des Grases kühl gehalten werden, bei Regen verhindert er die Verschlammung des Bodens. Ein weiterer Vorteil ist, dass das sehr kurze Mähgut am stehen gebliebenen Halm vorbei auf den Boden fällt, wodurch der Rasen nicht austrocknet und Unkraut relativ sicher erstickt wird. So wird durch den Mulch der Wuchs von Unkraut vermindert. Und Mulch verrottet wesentlich schneller als das langstielige reine Schnittgut, dieses muss normalerweise entsorgt werden, da es eben so gut wie nicht verrottet. Natürlich kann durch einfaches Aufsetzen des Fangkorbes und entnehmen des Seitenauswurfes das Mähgut direkt mit dem Fangkorb aufgenommen werden. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany Paket 1 von 2 Benzin Rasenmäher Seitenauswurf Mulchkit Paket 2 von 2 Fangkorb Griffzwischenrahmen Montageschrauben Bedienungsanleitung
-  Updated: 2026-11-01T18:42:28Z
+  Updated: 2026-11-09T16:41:05Z
   Vendor: FUXTEC
   Product Type: Rasenmäher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-RM5196-Bild2.jpg?v=1785244159
   Price: 329,00 € EUR
 - [Benzin Rasenmäher FX-RM5196PRO](https://fuxtec.de/products/benzin-rasenmaeher-fx-rm5196prosl): Benzin Rasenmäher FX-RM5196PRO Der Benzin Rasenmäher FX-RM5196PRO von FUXTEC überzeugt durch seine vielfältigen Funktionen und seinen Leistungsumfang. Der Rasenmäher mit flexibel einstellbarem Hinterradantrieb und einem Getriebe aus dem Hause des französischen Herstellers GT, begeistert. Durch die vielen Einstellungsmöglichkeiten, wie der Geschwindigkeit, der Mulchfunktion sowie dem nutzbaren Seitenauswurf, ist der Rasenmäher der perfekte Helfer für Ihren Garten. Der Hinterradantrieb kann zum Rangieren jederzeit ausgeschaltet werden. robustes Stahlblechgehäuse mit Seitenauswurf und zentraler Schnitthöhenverstellung 25-75mm inklusive Frontstoßstange zum Schutz mit integriertem Handgriff für leichtes Anheben verfügt über ein Selbstantriebsystem "original GT-Getriebe" mit flexibler Antriebsgeschwindigkeit "FlexSpeed" Antrieb für leichteres Arbeiten ohne Schieben Fangkorb fasst 60 l und lässt sich bequem abnehmen optische Füllstandskontrolle beidseitig Kugelgelagerte Big Wheel Räder 255 mm hinten und 175 mm vorne hochwertig geschliffene Mulchmesser aus Spezialstahl Das EasyClean System ist für die Reinigung des Innengehäuses konzipiert worden. Hierzu einfach einen Wasserschlauch (Anschluss Gardena kompatibel) an den Anschluss auf der Gehäuseoberseite anschließen und bei laufendem Schneidwerk das Wasser langsam aufdrehen. Durch die Rotation des Schneidwerks wird das Wasser gleichmäßig in Innengehäuse verteilt und kann so Schmutzrückstände wegspülen. Auto-Choke-System Das intelligente Auto-Choke-System stellt den Choke unter allen Mähbedingungen für optimales starten und laufen ein. Er erleichtert Ihnen das Starten, da Sie nicht mehr die Primärpumpe ätigen müssen. Der Anwender muss beim (Wieder-)Starten des Motors nicht mehr daran denken, den Choke zu bedienen. Es besteht keine Notwendigkeit, so lange zu warten, bis der Motor aufgewärmt ist, bis man mit dem Mähen beginnt. Der Anwender benötigt keine Erfahrung beim Start oder Gebrauch des Motors. 4in1 - Mähen, Fangen, Mulchen und Seitenauswurf Das Modell FX-RM5196PRO verfügt über ein Selbstantrieb (GT Antrieb) für leichteres Arbeiten ohne Schieben.Durch den FlexSpeed Antrieb lässt sich der Rasenmäher mit dem Schubregler in der Antriebsgeschwindigkeit nach Ihren Bedürfnissen einstellen. Über ein eingebautes Federsystem lässt sich die zentrale Schnitthöheneinstellung bequem in 7 Stufen von 25 bis 75 Millimeter verstellen. Der Fangkorb fasst 60 l und lässt sich bequem abnehmen.Die extra großen Räder sorgen für mehr Grip und einfaches Handling. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. 1x FUXTEC Benzin Rasenmäher FX-RM5196PRO Seitenauswurf Mulcheinsatz 60l Fangsack Bedienungsanleitung
-  Updated: 2026-11-01T11:56:11Z
+  Updated: 2026-11-09T10:53:52Z
   Vendor: FUXTEC
   Product Type: Rasenmäher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-RM5196PRO-Bild2.jpg?v=1785504338
   Price: 354,00 € EUR
 - [Benzin Rasenmäher FX-RM51SA96 Mulchmäher mit Antrieb](https://fuxtec.de/products/benzinmulchmaeher-fx-rm51sa96): Der FUXTEC Benzin Rasenmäher FX-RM51SA96 Mulchmäher mit Frontantrieb - Modell 2019 robustes Stahlblechgehäuse Schnitthöhenverstellung 25-75mm Vergaser mit Primerpumpe hochwertig geschliffene Messer aus Spezialstahl mit Frontantrieb Mit diesem Mäher wird jeder Rasen fit. Das Geheimnis: Beim Mulchmähen werden die geschnittenen Grashalme im Mähgehäuse hochgewirbelt, vom Spezialmesser fein zerkleinert und als natürlicher Dünger in die Grasnarbe zurückgeblasen – das gibt dem Rasen seinen natürlichen Nährstoffe zurück und schützt ihn vor dem Austrocknen. Nur wenige Hersteller haben einen Spezial-Mulchmäher mit Frontantrieb und verlangen imense Preise. Dieser Spezialmäher ist entwickelt worden um große Flächen zu mähen oder mulchen. Das Mulchergebnis ist durch das niedrig aufbauende Gehäuse deutlich besser als bei den Standartmähern mit Fangkorb und Mulcheinsatz. Der große Vorteil besteht darin, dass Sie den Rasen in Zukunft nicht mehr entsorgen müssen, sondern dieser nach dem Mulchen als Dünger dient. Der Rasenmäher FX-RM51SA96 ist sowohl für Wiesengrundstücke als auch für Hausgärten bestens geeignet. Eine Schnittbreite von 51 cm und die Schnitthöheneinstellung der einzelnen Räder von 25 bis 75 mm sind Eckdaten die für sich sprechen.Die maximale Motorleistung beträgt 5,9 PS. Und die Besonderheit: Die Mulchfunktion gehört bei diesem Mäher zur Standardausstattung. Sehr praktisch beim Mulchen: Sie haben keine Grasabfälle die mühsam beseitigt werden müssen und der Rasen wird auf natürlichem Weg gedüngt. Außerdem ersparen Sie sich ab und zu das Gießen. Rasenmäher Bedienungsanleitung
-  Updated: 2026-10-31T15:44:47Z
+  Updated: 2026-11-09T16:41:41Z
   Vendor: FUXTEC
   Product Type: Rasenmäher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-RM51SA96_Bild3.jpg?v=1792256777
   Price: 349,00 € EUR
 - [Benzin Rasenmäher FX-RM4646](https://fuxtec.de/products/benzin-rasenmaeher-fx-rm4646sl): Der FUXTEC Benzin Rasenmäher FX-RM4646 - Modell 2019 4in1 Modell mit der genialen EASY CLEAN Funktion für leichtes Reinigen nach dem Mähen. Das Modell FX-RM4646 ist das direkte Nachfolgemodell vom FX-RM1850. Dieser wurde zum Preis-Leistungssieger beim ETM-Testmagazin (Heft 06/2015) gekrönt. Der Rasenmäher FX-RM1850 wurde unter anderem mit folgende 6 Benzin-Rasenmäher getestet: - Viking MB 448 TC - Stiga Combi 48 SQ - AL-KO Highline 475 SP-A - Güde Big Wheeler 510 ES - Einhell GC-PM 46/1 S HW B&S. Rasenmäher FX-RM4646 - Der günstige und wendige Mäher für gerade Flächen mit Eigenantrieb Der ideale Einstieg in die Rasenmäherwelt von FUXTEC. Leicht, wendig und ein starker 146ccm Motor lässt diesen Mäher zum idealen Begleiter auf ihrem Rasen werden. Benzin - Rasenmäher mit Hinterrad Antrieb und original französischem GT-Getriebe. Zum Rangieren kann der Radantrieb jederzeit ausgeschaltet werden. 4in1 - Mähen, Fangen, Mulchen und Seitenauswurf. Robustes Stahlblechgehäuse in schwarz matt mit Seitenauswurf zentrale 7-stufige Schnitthöhenverstellung von 25-75mm je nach Rasenfläche Schnittbreite 457 mm (18 Zoll) jetzt auch mit Frontbumper, der das Tragen des Mähers deutlich erleichtert Verfügt über ein Selbstantriebssystem mit "original GT-Getriebe" Antrieb für leichteres Arbeiten ohne Schieben der 146 ccm Hubraum sorgt für genügend Power Kugelgelagerte Big Wheel Räder 255 mm hinten und 175 mm vorne für jeden Bodenuntergrund hochwertig geschliffene Messer aus Spezialstahl Massiver Fangkorb fasst 50 l und lässt sich bequem abnehmen clevere Füllstandsanzeige im Fangkorb integriert- Bei geöffneter Füllstandsklappe ist noch ausreichend Platz und es kann einfach weiter gemägt werden. Sobald sich die Klappe schließt, ist es an der Zeit den Fangkorb nun zu entleeren. Auto-Choke-System Das intelligente Auto-Choke-System stellt den Choke unter allen Mähbedingungen für optimales starten und laufen ein. Er erleichtert Ihnen das Starten, da Sie nicht mehr die Primärpumpe ätigen müssen. Der Anwender muss beim (Wieder-)Starten des Motors nicht mehr daran denken, den Choke zu bedienen. Es besteht keine Notwendigkeit, so lange zu warten, bis der Motor aufgewärmt ist, bis man mit dem Mähen beginnt. Der Anwender benötigt keine Erfahrung beim Start oder Gebrauch des Motors. Das Modell FX-RM4646 verfügt ab sofort über einen komfortablen Tragegriff, direkt integriert in den aerodynamischen Frontbumper. Ebenso verfügt er über einen Heckauswurf. Über ein eingebautes Federsystem lässt sich die zentrale Schnitthöheneinstellung bequem in 7 Stufen von 25 bis 75 Millimeter verstellen. Der Fangkorb fasst 50 l, zeigt an wann er voll ist und und lässt sich bequem und einfach abnehmen. Die extra großen Räder sorgen für mehr Grip und einfaches Handling in ihrem Garten. Das EasyClean System ist für die Reinigung des Innengehäuses (Schneidwerk) konzipiert worden. Dabei können Sie unseren EasyClean Anschluss verwenden. Hierzu einfach einen Wasserschlauch an den Anschluss auf der Gehäuseoberseite anschließen und bei laufendem Schneidwerk das Wasser langsam aufdrehen. Durch die Rotation des Schneidwerks wird das Wasser gleichmäßig im Innengehäuse verteilt und kann so Schmutzrückstände wegspülen. So bleibt ihr Rasenmäher stets sauber und ordentlich! FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. 1x FUXTEC Rasenmäher FX-RM4646 + 1 x Zubehörpaket
-  Updated: 2026-11-01T14:32:26Z
+  Updated: 2026-11-09T20:17:56Z
   Vendor: FUXTEC
   Product Type: Rasenmäher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-RM4646SL-B-Bild2.jpg?v=1789388510
   Price: 299,00 € EUR
 - [FUXTEC FX-MT152 Multitool 4in1 Benzin Motorsense](https://fuxtec.de/products/benzin-motorsense-fx-mt152): FUXTEC 4in1 Multitool FX-MT152 EASY STARTER bereits an Bord 3,0PS mit 52ccm³ Hubrau m - 2-Takt luftgekühlt Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes sicherer Stand Sicherheitsbügel Benzin Gemisch 1:40 Doppelfadenkopf mit Tippautomatik Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Das Multitalent FX-MT152 aus dem Hause FUXTEC - Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense, Fadenkopf, Langastschneider und Heckenschere in einem Gerät. Tauschen Sie einfach den Aufsatz und schon haben Sie ein komplett anderes Gerät. Ob Äste entfernen, Hecken schneiden oder einfach nur in der Landschaftspflege einzusetzen und den Rasen trimmen. Der innovative Rundumgriff ist ideal bei Arbeiten unter beengten aber auch schwer zugänglichen Platzverhältnissen. Für den Einsatz von Aufsätzen wie Heckenschneider ist der Rundumgriff die beste Empfehlung. Die praktische Motorsense ist ideal geeignet zum exakten Schneiden von schwer zugänglichen Grasflächen wo der Einsatz eines Rasenmäher nicht mehr oder nur bedingt gegeben ist. Graskanten an Mauern, Treppen oder Zäunen sind keine Hindernisse mehr und können problemlos bearbeitet werden. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. TÜV Zertifizierung: Dieses Gerät wurde von der akkreditierten Prüfstelle TÜV Süd getestet, und es wurde ihm das Prüfzeichen: "Geprüfte Sicherheit" verliehen. Zertifikatsnummer: Z1A170277523030 Hauptgerät mit einem 52cm3 / 3,0PS 2-Takt Motor Heckenscherenaufsatz mit Verbindungsstange Hochentaster mit Verbindungsstange, 12 Zoll Schwert und Kette Motorsensenaufsatz mit Verbindungsstange 1 x Fadenspule und 1 x 3-Zahn Dickichtmesser Tragegurt, Rundumgriff mit einem Astabweiser Grund-Werkzeug in einer FUXTEC Tasche und ein kleiner Mischbehälter
-  Updated: 2026-11-01T21:50:26Z
+  Updated: 2026-11-09T22:52:56Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MT152-B-Bild4_b24645c3-289c-494b-99e3-22bb1e67a731.jpg?v=1789388515
   Price: 209,00 € EUR
 - [FUXTEC FX-MT152E Multitool 5in1 Benzin Motorsense](https://fuxtec.de/products/benzin-motorsense-fx-mt152e): 5in1 Multitool FX-MT152E Bereits inklusive 1m Verlängerung für hohe Reichweite EASY STARTER bereits an Bord 3,0PS mit 52ccm³ Hubrau m - 2-Takt luftgekühlt Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes sicherer Stand Sicherheitsbügel Benzin Gemisch 1:40 Doppelfadenkopf mit Tippautomatik Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Das Multitalent FX-MT152E aus dem Hause FUXTEC - Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense, Fadenkopf, Langastschneider und Heckenschere plus zusätzliche 1m Verlängerung in einem Gerät. Tauschen Sie einfach den Aufsatz und schon haben Sie ein komplett anderes Gerät. Ob Äste entfernen, Hecken schneiden oder einfach nur in der Landschaftspflege einzusetzen und den Rasen trimmen. Der innovative Rundumgriff ist ideal bei Arbeiten unter beengten aber auch schwer zugänglichen Platzverhältnissen. Für den Einsatz von Aufsätzen wie Heckenschneider ist der Rundumgriff die beste Empfehlung. Die praktische Motorsense ist ideal geeignet zum exakten Schneiden von schwer zugänglichen Grasflächen wo der Einsatz eines Rasenmäher nicht mehr oder nur bedingt gegeben ist. Graskanten an Mauern, Treppen oder Zäunen sind keine Hindernisse mehr und können problemlos bearbeitet werden. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC.Hauptgerät mit einem 52cm3 / 3,0PS 2-Takt Motor 1m Verlängerung 9-Zahn bereits inklusive Heckenscherenaufsatz mit Verbindungsstange Hochentaster mit Verbindungsstange, 12 Zoll Schwert und Kette Motorsensenaufsatz mit Verbindungsstange 1 x Fadenspule und 1 x 3-Zahn Dickichtmesser Tragegurt, Rundumgriff mit einem Astabweiser Grund-Werkzeug in einer FUXTEC Tasche und ein kleiner Mischbehälter
-  Updated: 2026-11-01T23:23:15Z
+  Updated: 2026-11-09T22:52:55Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MT152E-Bild14.jpg?v=1787660178
   Price: 234,00 € EUR
 - [FUXTEC FX-FSR152 Benzin Freischneider auf Rädern](https://fuxtec.de/products/benzin-motorsense-fx-fsr152): FUXTEC Mobile Motorsense FX-FSR152 ''Rückenschmerzen adieu'' für große Flächen bei hoher Wendigkeit - Das mobile Multitalent für alle Gartenarbeiten setzt neue Maßstäbe und erleichtert Ihnen die Arbeit mit dem Freischneider - Kein einschneidender Gurt an den Schultern und Ihr Rücken wird es Ihnen danken - Große Räder eignen sich für beinahe jede Geländestruktur - Das Gerät lässt sich sehr klein zusammenklappen und platzsparend verstauen - inkl. Profi Mäh-Fadenkopf mit Tippautomatik der Extraklasse mit 3mm Faden der einfach nur eingeschoben wird - Ausbalancierte Konstruktion und somit sehr einfach zu schieben und sehr wendig - Starterleichterung durch Primärpumpe und unseren EasyStarter-Seilzug - Stopp-Schalter und Gasbetätigung am Handgriff1x mobiler Freischneider FX-FSR152
-  Updated: 2026-11-01T22:52:25Z
+  Updated: 2026-11-09T05:38:06Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-FSR152-Bild1.jpg?v=1786371914
   Price: 209,00 € EUR
 - [FUXTEC FX-MT252ER Multitool 5in1 Benzin Motorsense mit verstellbarem Hochentaster](https://fuxtec.de/products/benzin-motorsense-fx-mt252er): Unser Multitool 5in1 - FX-MT252ER mit abwinkelbarem Hochentaster optimierte Version mit abwinkelbarem Hochentaster für ein noch effektiveres Arbeiten Bereits inklusive 1m Verlängerung für hohe Reichweite Hochentasteraufsatz stufenweise verstellbar EASY STARTER bereits an Bord 3,0PS mit 52ccm³ Hubrau m - 2-Takt luftgekühlt Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes sicherer Stand Sicherheitsbügel Benzin Gemisch 1:40 Doppelfadenkopf mit Tippautomatik Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Das neue Multitalent FX-MT252ER aus dem Hause FUXTEC - Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense, Fadenkopf, abwinkelbarer Langastschneider und Heckenschere plus zusätzliche 1m Verlängerung in einem Gerät. Tauschen Sie einfach den Aufsatz und schon haben Sie ein komplett anderes Gerät. Ob Äste entfernen, Hecken schneiden oder einfach nur in der Landschaftspflege einzusetzen und den Rasen trimmen. Der innovative Rundumgriff ist ideal bei Arbeiten unter beengten aber auch schwer zugänglichen Platzverhältnissen. Für den Einsatz von Aufsätzen wie Heckenschneider ist der Rundumgriff die beste Empfehlung. Die praktische Motorsense ist ideal geeignet zum exakten Schneiden von schwer zugänglichen Grasflächen wo der Einsatz eines Rasenmäher nicht mehr oder nur bedingt gegeben ist. Graskanten an Mauern, Treppen oder Zäunen sind keine Hindernisse mehr und können problemlos bearbeitet werden. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. Hauptgerät mit einem 52cm3 / 3,0PS 2-Takt Motor 1m Verlängerung 9-Zahn bereits inklusive Heckenscherenaufsatz mit Verbindungsstange Hochentaster stufenweise verstellbar mit Verbindungsstange, 12 Zoll Schwert und Kette Motorsensenaufsatz mit Verbindungsstange 1 x Fadenspule und 1 x 3-Zahn Dickichtmesser Tragegurt, Rundumgriff mit einem Astabweiser Grund-Werkzeug in einer FUXTEC Tasche und ein kleiner Mischbehälter
-  Updated: 2026-11-02T00:25:27Z
+  Updated: 2026-11-09T23:54:52Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MT252ER-Bild1.jpg?v=1790676326
   Price: 269,00 € EUR
 - [FX-MS152T rückentragbare Benzin Motorsense Multitool 2in1](https://fuxtec.de/products/benzin-motorsense-fx-ms152t): FUXTEC FX-MS152T 2in1 rückentragbare Benzin Motorsense Rasentrimmer Jetzt mit "Rucksack"-Modul für das vereinfachen des Arbeitsvorgang! EASY STARTER bereits an Bord 3,0PS mit 52ccm³ Hubrau m - 2-Takt luftgekühlt Werkzeugloser Wartungszugang zu Luftfilter und Vergaser Umlaufender Sicherheitsbügel zum Schutz des Tankes und einen sicheren Stand Benzin Gemisch 1:40 Doppelfadenkopf mit Tippautomatik Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte 9-Zahn Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) Die konsequente Weiterentwicklung des bereits mehrfach prämierten Vorgänger MS152. Das Multitalent "FX-MS152T" aus dem Hause FUXTEC tritt dabei in große Fußstapfen, bringt jedoch auch gleich alles mit, um noch effizienter die Mäharbeiten zu verrichten.Neu ist hier die sehr komfortable rückentragbare Funktion, die Sense wird wie ein Rucksack angezogen. Eine neuartige Konstruktion des Zylinder und des Kolbens reduziert den Verschleiß und verlängert die Lebensdauer des Motors. In Verbindung mit dem bereits integrierten Easy Starter lässt sich die Maschine denkbar einfach Starten. Kein anstrengendes, krauftraubendes Ziehen oder gar Reißen der Starterschnur mehr. Langsames und kontinuierliches Ziehen lädt die Vorspannung einer innenliegenden Feder auf und entfaltet sich schlagartig. Dadurch springt der Motor quasi von alleine an. Auch die innenliegende Antriebswelle wurde komplett überarbeitet. Erstmals wurde auf 9-Zahnwelle zur besseren Haltbarkeit umgestellt. Die Welle ist auf mehreren Öldämpfern in der Alu-Führung gelagert, so dass eine zusätzliche Reduktion der Vibrationen erzielt werden konnte. Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense mit leistungsstarkem 2-Taktmotor und mehr Drehmoment aufgrund seines neuen 52ccm Motors. Die Motorsense"FX-MS152T" bietet exzellente Durchzugskraft und ein hohes Drehmoment. Zum Mähen großer Grünflächen und zähem Unkraut schnell und effektiv bestens geeignet. Mit dem mitgeliefertem Schneideblatt auch für knorriges Buschwerk und dünne Bäume einsetzbar. Durch den austauschbaren Doppelfadenkopf ist das Multitalent "MS152T" sehr gut zum Rasenkanten trimmen und für Ausputzarbeiten um Bäume, Wege und Treppen auf dem privaten Gartengrundstück geeignet. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. TÜV Zertifizierung: Dieses Gerät wurde von der akkreditierten Prüfstelle TÜV Süd getestet, und es wurde ihm das Prüfzeichen: "Geprüfte Sicherheit" verliehen. Zertifikatsnummer: Z1A151077523020 1x FX-MS152T rückentragbare Benzin Motorsense inklusive Doppelfadenkopf und 3 Zahn Messer.
-  Updated: 2026-11-01T21:19:25Z
+  Updated: 2026-11-09T22:52:56Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MS152T-Bild.jpg?v=1790260414
   Price: 184,00 € EUR
 - [FUXTEC FX-4MS131 4-Takt Motorsense](https://fuxtec.de/products/benzin-motorsense-fx-4ms131): FUXTEC 4-Takt Benzin Motorsense Rasentrimmer Freischneider Modell FX-4MS131 automatisches Mischen von Benzin und Öl 1 PS mit 31cm³ Hubraum - 4-Takt luftgekühlt Doppelfadenkopf mit Tippautomatik Profi-Komfort-Tragegurt Notstop-Schalter Vergaser mit Primerpumpe stufenloser Geschwindigkeitsregler mehrfach starr gelagerte Antriebswelle kontaktlose, wartungsfreie Zündung (CDI) Das Multitalent FX-4MS131 - Mobilität und Mehrfachnutzen mit einem Antrieb. Motorsense mit leistungsstarkem 4-Taktmotor und mehr Drehmoment aufgrund seines 31ccm Motors. Bequemer Zweihandgriff für eine natürliche Sensenbewegung zum ergonomischen Flächenmähen. Der Neuzugang in der Reihe unserer Motorsensen bietet exzellente Durchzugskraft und ein hohes Drehmoment. Zum Mähen großer Grünflächen und zähem Unkraut schnell und effektiv bestens geeignet. Mit passendem Schneidwerkzeug auch für knorriges Buschwerk und dünne Bäume einsetzbar. Durch den austauschbaren Doppelfadenkopf ist das Multitool FX-4MS131 sehr gut als Rasentrimmer bzw. zum Rasenkanten trimmen und mit dem 3-Zahn-Blatt auch für Ausputzarbeiten um Bäume, Wege und Treppen auf dem privaten Gartengrundstück geeignet. Aufgrund des Gewicht's ideal im Garten als Freischneider einsetzbar. Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. FUXTEC-Tipp: Für einen optimalen und langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Hauptgerät Motorsensenaufsatz Doppelfadenkopf 3-Zahn-Blatt Schutzblech Zweihandgriff Profi - Komforttragegurt Mischbehälter Toolkit Bedienungsanleitung
-  Updated: 2026-11-01T21:19:25Z
+  Updated: 2026-11-09T10:22:06Z
   Vendor: FUXTEC
   Product Type: Motorsensen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MS131-Bild1.jpg?v=1789388523
   Price: 169,00 € EUR
 - [FUXTEC Benzin Kehrmaschine FX-KM196](https://fuxtec.de/products/benzin-kehrmaschine-fx-km196): Die FUXTEC Benzin Kehrmaschine FX-KM196 Auswechsel leicht gemacht: durch werkzeugloses Wechseln der optionalen Aufsätze Die leistungsstarke FUXTEC-Kehrmaschine FX-KM196 mit bärenstarken 5,5 PS ist vielseitig einsetzbar und kann durch optionales Zubehör wie Schneefräsenaufsatz, Schneeräumschild und Kehrgutbehälter das ganze Jahr eingesetzt werden. Die große Kehrbürste (Bürstendurchmesser 345mm) erleichtert das Säubern von Gehwegen und Einfahrten, so dass Dreck, Streugut, Laub und Matsch im Handumdrehen gekehrt werden können. Mit einer Arbeitsbreite von 600 mm ist die Kehrmaschine leicht zu handhaben und wendig. Durch das spezielle Profil der Räder hat die Maschine besonders guten Halt. Mit dem Kehrgutbehälter kann beseitigter Schmutz oder nach dem Winter angefallenes Streugut sofort aufgefangen werden. Das Starten erfolgt mit wenigen Zügen über eine "EasyStart" - Seilstartvorrichtung. Die Kehrmaschine verfügt über einen Eigenantrieb, welcher beide Räder antreibt. Die Vor- und Rückfahrgeschwindigkeit kann durch 5 Vorwärts- und 2 Rückwärtsgänge individuell angepasst werden. Der Eigenantrieb kann wahlweise auch ausgeschaltet werden, so dass die Maschine auch ohne rotierende Bürste zum Einsatzort gefahren werden. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. ! Lieferhinweis: Bitte geben Sie im Bestellprozess oder im Kommentarfeld Ihre Telefonnummer an. Das von Ihnen bestellte Gerät wird an die Spedition übergeben und an Sie geliefert. Leider kann ohne Angabe einer Telefonnummer das Speditionsgut nicht telefonisch avisiert und somit nicht zugestellt werden.Kehrmaschine Deutsche Bedienungsanleitung
-  Updated: 2026-11-01T18:42:26Z
+  Updated: 2026-11-04T09:51:06Z
   Vendor: Fuxtec
   Product Type: Kehrmaschine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-KM196-1-Bild1_4e772ceb-fe47-49c3-b6ec-b8fb76ae010d.jpg?v=1785242243
   Price: 989,00 € EUR
 - [FUXTEC Benzin Kehrmaschine FX-KM1196](https://fuxtec.de/products/benzin-kehrmaschine-fx-km1196): FUXTEC Benzin Kehrmaschine FX-KM1196 - inkl.Besen Die leistungsstarke FUXTEC-Kehrmaschine FX-KM1196 mit bärenstarken 4,9 PS ist vielseitig einsetzbar und ist durch bereits im Lieferumfang enthaltene Kehrbürste/Besen ganzjährig einsetzbar. Die große Kehrbürste (Bürstendurchmesser 350mm) erleichtert das Säubern von Gehwegen und Einfahrten, so dass Dreck, Streugut, Laub und Matsch im Handumdrehen gekehrt werden können. Trotz der Arbeitsbreite von 1000 mm ist die Kehrmaschine leicht zu handhaben und wendig. Gerade die Arbeitsbreite von 100cm ermöglicht eine deutlich sichtbare Effizienz im Vergleich zu den herkömmlich am Markt vorzufinden 80cm. Durch das spezielle Profil der Räder hat die Maschine ebenfalls besonders guten Halt und lässt sich sicher manövrieren. Mit dem optional erhältlichen Kehrgutbehälter kann beseitigter Schmutz oder nach dem Winter angefallenes Streugut sofort aufgefangen werden.Der Aufsatzwechsel ist durch werkzeugloses Wechseln der optionalen Aufsätze kinderleicht und im Handumdrehen erledigt. Das Starten erfolgt mit wenigen Zügen über eine "EasyStart" - Seilstartvorrichtung oder ganz einfach per cleverem Elektro-Start,auch bei klirrender Kälte, zuverlässig in wenigen Sekunden. Vorallem in der kälteren Jahreszeit ein absolutes Must-Have. Die Kehrmaschine verfügt über einen Eigenantrieb, welcher beide Räder antreibt. Die Vor- und Rückfahrgeschwindigkeit kann durch 3 Vorwärtsgänge und 1 Rückwärtsgang individuell angepasst werden. Der Eigenantrieb kann wahlweise auch ausgeschaltet werden, so dass die Maschine auch ohne rotierende Bürste zum Einsatzort gefahren werden. Die gewünschte Leistung (Höhe/Kraftdruck) der Kehrbürste auf den Boden können Sie über die mittig angebrachte Kurbel einstellen und über den Wahlhebel kann die Drehzahl der Bürste einfach eingestellt werden, sodass Sie hier jeden Anwendungszweck individuell anpassen können.Die Geschwindigkeiten betragen je nach Gang zwischen 2,5 km/h und 4,4 km/h und eignen sich ideal für den Heimgebrauch. Durch die drei Vorwärtsgänge und dem Rückwärtsgang ist das Manövrieren mit dem Gerät kräfteschonend und einfach. Die Arbeitsbreite des Kehrbesens beträgt 100 cm, der optionale Schneeschieber ist 105 cm breit und verfügt über Laufrollen und eine austauschbare Gleitschiene. Dank des höhenverstellbaren Schiebegriffes ist ein rückenschonendes Arbeiten und ermüdungsfreies Arbeiten selbst nach längerer Anwendung gewährleistet. WICHTIG: Bitte geben Sie im Bestellprozess oder im Kommentarfeld Ihre Telefonnummer an. Das von Ihnen bestellte Gerät wird an die Spedition übergeben und im CARGO Verbund an Sie geliefert. Leider kann ohne Angabe einer Telefonnummer das Speditionsgut nicht telefonisch avisiert und somit nicht zugestellt werden. FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Kehrmaschine Kehrbesen Deutsche Bedienungsanleitung
-  Updated: 2026-10-30T19:32:17Z
+  Updated: 2026-11-09T15:39:03Z
   Vendor: FUXTEC
   Product Type: Kehrmaschine
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-KM1196-Bild1.jpg?v=1791477649
   Price: 1.299,00 € EUR
 - [FUXTEC Feilbock FX-FB100](https://fuxtec.de/products/kettensaege-feilbock-fx-fb100): FUXTEC Feilbock FX-FB100 Groß und robust, einfach und sicher in Holz einschlagen 1 Feilbock
-  Updated: 2026-11-01T17:09:25Z
+  Updated: 2026-11-09T05:38:05Z
   Vendor: FUXTEC
   Product Type: Kettensägen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-FB100-Bild1.jpg?v=1753467618
   Price: 12,90 € EUR
 - [FUXTEC Spielzeug-Kettensäge FX-SKS1](https://fuxtec.de/products/spielzeug-fx-sks1): FUXTEC Spielzeug Kettensäge mit Sound und beweglicher Kette Ab jetzt sägt auch ihr Nachwuchs mit einer FUXTEC Kettensäge - im originalen FUXTEC Design! Mit rotierender Kette (keine Verletzungsgefahr - Mit Berührungsstop) inkl. Kettensägen-Geräusche > täuschend echte Geräusche beim Startvorgang (Hinweis:Starterseilzug ist kein echter Seilzug), im Leerlauf und beim Gasgeben/Sägen inkl. praktischem An/Aus Knopf Kettenbremse verstellbar Dank Umlaufgriff liegt die Motorsäge gut in kleinsten Kinderhänden Batteriebetrieben - 3x AA Batterien notwendig (nicht im Lieferumfang enthalten) aus hochwertigem Kunststoff empfohlen ab 3+ Jahre Maße: ca 40 x 11 x 15 cm ( L x B x H )
-  Updated: 2026-11-01T22:52:25Z
+  Updated: 2026-11-09T14:37:10Z
   Vendor: FUXTEC
   Product Type: Kettensägen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-SKS1-Bild1_INT.jpg?v=1763570648
   Price: 20,90 € EUR
 - [FUXTEC 3er Axt Set](https://fuxtec.de/products/fuxtec-3er-axt-set): FUXTEC 3er Axt Set Material: Geschmiedeter Carbonstahl 1045 - Gummierte Handgriffe für sehr guten Halt - Fiberglaskern - polierte Spaltfläche - Gummischutzlippe für Spaltfläche Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Axt 1.000g Axtkopf / 1536g Gesamtgewicht / 690 mm Spaltaxt 3.000g Axtkopf / 3800g Gesamtgewicht / 910 mm Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Axt 1.000g Axtkopf / 1536g Gesamtgewicht / 690 mm Spaltaxt 3.000g Axtkopf / 3800g Gesamtgewicht / 910 mm
-  Updated: 2026-11-01T23:23:25Z
+  Updated: 2026-11-09T23:54:56Z
   Vendor: FUXTEC
   Product Type: Äxte & Spalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-AX3-neu-Bild1.jpg?v=1792066017
   Price: 76,00 € EUR
 - [FUXTEC 2er Axt Set](https://fuxtec.de/products/fuxtec-2er-axt-set): FUXTEC 2er Axt Set Material: Geschmiedeter Carbonstahl 1045 - Gummierte Handgriffe für sehr guten Halt - Fiberglaskern- polierte Spaltfläche - Gummischutzlippe für Spaltfläche Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Spaltaxt 2.000g Axtkopf / 2.800g Gesamtgewicht / 900 mm Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Spaltaxt 2.000g Axtkopf / 2.800g Gesamtgewicht / 900 mm
-  Updated: 2026-10-30T04:56:27Z
+  Updated: 2026-11-09T18:14:01Z
   Vendor: FUXTEC
   Product Type: Äxte & Spalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-AX2-2-Bild1_98163f2d-20ec-407e-999a-a7cbce679115.jpg?v=1792066513
   Price: 55,90 € EUR
 - [FUXTEC 4er Axt Set inklusive Spaltgranate](https://fuxtec.de/products/fuxtec-4er-axt-set-inklusive-spaltgranate): Das neue FUXTEC 4er Axt Set inklusive zusätzlicher Spaltgranate 1.800gr Material: Geschmiedeter Carbonstahl 1045 - Gummierte Handgriffe für sehr guten Halt - Fiberglaskern - polierte Spaltfläche - Gummischutzlippe für Spaltfläche Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Axt 1.000g Axtkopf / 1536g Gesamtgewicht / 690 mm Spaltaxt 3.000g Axtkopf / 3800g Gesamtgewicht / 910 mm Spaltgranate 1.800g Beil 600g Axtkopf / 854g Gesamtgewicht / 360 mm Axt 1.000g Axtkopf / 1536g Gesamtgewicht / 690 mm Spaltaxt 3.000g Axtkopf / 3800g Gesamtgewicht / 910 mm Spaltgranate 1.800g / 250mm länge / 60mm Spaltbreite
-  Updated: 2026-11-01T21:50:25Z
+  Updated: 2026-11-09T10:22:06Z
   Vendor: FUXTEC
   Product Type: Äxte & Spalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-AX4-EX-Bild1.jpg?v=1792066537
   Price: 89,00 € EUR
 - [FUXTEC Fällheber](https://fuxtec.de/products/aexte-faellheber-fx-fh5in1): 5 in 1 Profi Stammwender Heben Halten Rollen Transportieren Ziehen Die Funktionen sind in Sekunden umgestellt. Durch die spezielle Bauweise erfolgt eine optimale Kraftübertragung bei minimaler Kraftanstrengung. Ideal auch zum Ablängen von Stammholz: der Stamm wird angehoben und kann ohne Bodenkontakt der Motorsäge bzw. Sägekette in die gewünschten Stücke zersägt werden. Beschreibung stabile Bauweise schont ihren Rücken sehr robuste Haltestange gummierter Haltegriff optimale Kraftübertragung durch die lange Haltestange inkl. Befestigungskette Details Stammdurchmesser bis: 350 mm Stange: 1170 mm Breite: 160 mm Gesamtlänge: 1170 mm Kettenlänge: ca. 1180 mm Höhe (eingeklappt): 260mmm 1x Fällheber
-  Updated: 2026-10-26T11:28:26Z
+  Updated: 2026-11-09T11:57:05Z
   Vendor: FUXTEC
   Product Type: Äxte & Spalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-FH5in1-Bild1.jpg?v=1770731702
   Price: 89,00 € EUR
 - [Spaltgranate 1.800 gr.](https://fuxtec.de/products/aexte-fx-dk18): FUXTEC Spaltgranate 1.800 gr. das passende Werkzeug zum Spalten wie bei unserer Axt, Beil und Spalthammer 4- fach Spalt- Granate aus geschmiedetem Spezialstahl Gewicht beträgt 1.800 gramm Polierte Spaltfläche Länge vom Spaltkeil ist 175mm Harter Holzspalter in Spezialform Spaltet Holz in bis zu 4 Teile Scharfe Spitze um per Hand auch einführen zu können Markenqualität aus dem Hause FUXTEC. Auch weitere Sets mit Spaltaxt, Beil etc. bei uns verfügbar.
-  Updated: 2026-11-01T13:30:31Z
+  Updated: 2026-11-09T19:47:06Z
   Vendor: FUXTEC
   Product Type: Äxte & Spalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-DK18-1.jpg?v=1783363347
   Price: 8,90 € EUR
 - [FUXTEC FX-MH126 Benzin Heckenschere](https://fuxtec.de/products/benzin-heckenschere-fx-mh126): Benzin-Heckenschere FX-MH126 Das neue optimierte Modell von FUXTEC lange Schneidemesser > 55cm (21,5") mit beidseitig verstellbarem Griff in verschiedene Positionen für horizontales oder vertikales Schneiden 4-fach federgelagertes Griffgestell für vibrationsfreies Arbeiten digitale Zündspule zur optimierten Abgasverbrennung Vergaser mit Primerpumpe EIN-AUS Schalter (kein Schiebeschalter) optimiertes neues Griffsystem zusätzliche Schutzblechführung über den Schneidmessern einteiliger komfortabler Klingenschutz Dieses Gerät wurde von der akkreditierten Prüfstelle Intertek getestet, und es wurde ihm das Prüfzeichen: "Geprüfte Sicherheit" verliehen. Zertifikatsnummer: 15SHW0197-01 Das neue Modellwurde entwickelt und konstruiert, so dass es FUXTEC hohen Ansprüchen genügt, wie die einfache Bedienung und Benutzersicherheit. Ordentlich behandelt wird Ihnen dieses Gerät auf Jahre hinaus gute Dienste erweisen. Eine Benzin-Heckenschere für höchste Ansprüche. Das neue Modell mit dem atemberaubenden Design und vibrationshämmenden 4-Feder-Vibrationsdämpfer greift zurück auf die bereits ausgereifte und bewährte Technik der FX-MH1.2. Vielfältige Weiterentwicklungen wie der Messerführung mit zusätzlicher einteiligen Schutzeinrichtung und neuem ergonomischen verstellbarem Griff machen das Arbeiten wesentlich komfortabler. Des Weiteren haben wir eine komplett neue Vibrationseinheit mit einer Lagerung auf vier zusätzlichen Federn integriert. Der praktische Helfer, um auch die dichtesten Hecken mühelos zu schneiden. Sichere und einfache Handhabung zeichnet das Gerät in Ihrer Eigenschaft aus. Das Antriebssystem bietet hohe Schneidleistung und optimalen Blockierschutz. Gegenläufige, beidseitig schneidende Sicherheitsmesser gewährleisten jederzeit ein präzises Ergebnis mit glattem Schnittbild. Weiter wurde mit neuem Schalldämpfersystem der garantierte Schallleistungspegel deutlich reduziert. Selbst beim Vorgänger-Modell war die Fachpresse überzeugt und schrieb:... "So punktet die Maschine sofort mit einem hervorragendem Anspringverhalten. Beim Schneiden überrascht das verhältnismäßig geringe Gewicht"...." Das sie auch in dickerem Geäst keine Probleme hatte, stellte sie in der Wildnis hinter unserem Verlagsgelände eindrucksvoll unter Beweis"..."und das zu einem wirklich günstigen Preis" (Quelle Heimwerker Praxis 03/2012) FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Heckenschere Top komortabler - einteiliger Messerschutz Mischbehälter Toolkit Bedienungsanleitung
-  Updated: 2026-11-01T16:07:27Z
+  Updated: 2026-11-09T18:45:05Z
   Vendor: FUXTEC
   Product Type: Heckenscheren
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MH126-A-Bild8_8e27859e-599e-4980-8bd6-d8a955d46e56.jpg?v=1785850228
-  Price: 169,00 € EUR
+  Price: 159,00 € EUR
 - [FUXTEC Profi Heckenschere FX-MHP126 mit XXL Schwert](https://fuxtec.de/products/benzin-heckenschere-fx-mhp126): Das FUXTEC Profi Modell: die Benzin-Heckenschere FX-MHP126 lange Schneidemesser > 80cm (34") zusätzliche Schutzblechführung über den Schneidmessern optimiertes neues Griffsystem EIN-AUS Schalter (kein Schiebeschalter) einteiliger komfortabler Klingenschutz mit beidseitig verstellbarem Griff in verschiedene Positionen für horizontales oder vertikales Schneiden 4-fach federgelagertes Griffgestell für vibrationsfreies Arbeiten digitale Zündspule zur optimierten Abgasverbrennung Vergaser mit Primerpumpe Das neue Modell wurde entwickelt und konstruiert, so dass es FUXTEC hohen Ansprüchen genügt, wie die einfache Bedienung und Benutzersicherheit. Ordentlich behandelt wird Ihnen dieses Gerät auf Jahre hinaus gute Dienste erweisen. Eine Benzin-Heckenschere für höchste Ansprüche. Das neue Modell mit dem atemberaubenden Design und vibrationshämmenden 4-Feder-Vibrationsdämpfer greift zurück auf die bereits ausgereifte und bewährte Technik der FX-MH1.2. Vielfältige Weiterentwicklungen wie der Messerführung mit zusätzlicher einteiligen Schutzeinrichtung und neuem ergonomischen verstellbarem Griff machen das Arbeiten wesentlich komfortabler. Des Weiteren haben wir eine komplett neue Vibrationseinheit mit einer Lagerung auf vier zusätzlichen Federn integriert. Der praktische Helfer, um auch die dichtesten Hecken mühelos zu schneiden. Sichere und einfache Handhabung zeichnet das Gerät in Ihrer Eigenschaft aus. Das Antriebssystem bietet hohe Schneidleistung und optimalen Blockierschutz. Gegenläufige, beidseitig schneidende Sicherheitsmesser gewährleisten jederzeit ein präzises Ergebnis mit glattem Schnittbild. Weiter wurde mit neuem Schalldämpfersystem der garantierte Schallleistungspegel deutlich reduziert. Im Vergleich zum Vorgängermodell FX-MH126 punktet das Profi-Modell neben der größeren Schnittlänge vor allem mit einem größeren Tank sowie geringerem Benzinverbrauch. Selbst beim Vorgänger-Modell war die Fachpresse überzeugt und schrieb:... "So punktet die Maschine sofort mit einem hervorragendem Anspringverhalten. Beim Schneiden überrascht das verhältnismäßig geringe Gewicht"...." Das sie auch in dickerem Geäst keine Probleme hatte, stellte sie in der Wildnis hinter unserem Verlagsgelände eindrucksvoll unter Beweis"..."und das zu einem wirklich günstigen Preis" (Quelle Heimwerker Praxis 03/2012) FUXTEC-Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Heckenschere Top komortabler - einteiliger Messerschutz Mischbehälter Toolkit Bedienungsanleitung
-  Updated: 2026-11-01T23:23:25Z
+  Updated: 2026-11-09T23:56:55Z
   Vendor: FUXTEC
   Product Type: Heckenscheren
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MHP126-1-Bild7.jpg?v=1785839728
+  Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MHP126-1-Bild7.jpg?v=1794225418
   Price: 219,00 € EUR
 - [FUXTEC Pfahlramme FX-PR165](https://fuxtec.de/products/benzinpfahlramme-fx-pr165): Die FUXTEC Pfahlramme FX-PR165 Die von uns produzierte Pfahlramme ist einfach zu bedienen, zu warten und verfügt über eine lange Lebensdauer Für die Verwendung der Pfahlramme FX-PR165 von FUXTEC wird kein Kompressor benötigt. Somit kann unsere Benzin-Pfahlramme jederzeit und überall genutzt werden. Sie eignet sich problemlos und schnell für das Einschlagen von Pfählen, beispielsweise beim Zaun- und Gartenbau.Auch bei dem Weinanbau wird Sie gern genutzt. Empfohlen wird die Nutzung der FX-PR165 nur mit Pfählen aus Holz, Metall oder recyceltem Material.Im Lieferumfang enthalten sind bereits Rammsockelhalterungen für Pfähle mit Durchmesser von 20-45 mm und 46 bis 80 mm. Mit ihren 1,2 PS erspart die Pfahlramme nicht nur Arbeit, sondern spart auch wertvolle Zeit, beispielsweise beim Bau eines neuen Zaunes.Benzin Pfahlramme FX-PR165 inkl praktischem Koffer Ramm Sockel Halterung 20-45mm Ramm Sockel Halterung 46-80mm Mischkanister Spezialgetriebefett (60g) zum nachfetten Bedienungsanleitung Gummiring (Ersatz-Verschleissteil) Werkzeugtasche 1 Stk. Zündkerze 1 Stk. Zündkerzengriff 1 Stk. 4mm Innensechskantschlüssel 1 Stk. 5mm Innensechskantschlüssel 1 Stk. 6mm Innensechskantschlüssel 1 Stk. T-förmiger Innensechskantschlüssel 1 Stk. Schraubenzieher 1 Stk. 8-10mm Maulschlüssel
-  Updated: 2026-11-01T21:19:25Z
+  Updated: 2026-11-09T13:33:06Z
   Vendor: FUXTEC
   Product Type: Erdlochbohrer / Pfahlramme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-PR165-1-Bild7.jpg?v=1776191644
   Price: 449,00 € EUR
 - [FUXTEC FX-EB162 Erdbohrgerät inkl. 100,150,200mm Aufsätze](https://fuxtec.de/products/benzinerdbohrer-fx-eb162): FUXTEC Erdbohrer FX-EB162 mit 100/150/200mm Bohrer und innovativem Ölkontrollfenster am Getriebe JETZT mit Easy Starter für leichtes Starten 3,5PS mit 62ccm³ Hubraum - hohes Drehmoment Inklusive 100mm, 150mm und 200mm Bohrer Neuwentwickeltes innovatives Ölkontrollfenster am Getriebe für mehr Sicherheit Hochwertiges Getriebeentlüftungsventil integriert Benzin Gemisch 1:40 Massiver verwindungsarmer Stahlrohrrahmen Stufenloser Geschwindigkeitsregler Vergaser mit Primerpumpe Notstop-Schalter Bohreraufnahme in massiver Stahlausführung Kontaktlose, wartungsfreie Zündung (CDI) Der EB162 hat im Vergleich zu EB152 eine kräftigeren Motor mit 2,6kW und 3,5 PS Der FUXTEC Erdbohrer FX-EB162 findet seinen Einsatz in Forst-, Garten- und Landschaftsbau. Ideal zum Bohren von Zaunpfahl-, Fundamenten-, Pflanzlöchern und Entwässerungsschächten. Der FUXTEC Erdlochbohrer ist standardmäßig mit 100mm, 150mm und 200mm Aufsätzen bestückt. Erweiterbar kann dieses Gerät auch mit Durchmessern von 60mm, 80mm bis hin zu 250mm und 300mm nahezu grenzenlos im Landschaftsbau eingesetzt werden. Die robuste Ausführung des Motors, sowie die einfache Handhabung dieser Maschine lassen diese Anschaffung zu einer lohnenswerten Investition werden. Unter der Rubrik Zubehör finden Sie auch Verlängerungen, die den Bohrer nochmal um 400mm und/oder 600mm tiefer bohren lässt Alles kein Problem mit dem Multitalent aus dem Hause FUXTEC. Erdbohrer 100mm Bohrer 150mm Bohrer 200mm Bohrer Mischbehälter Bedienungsanleitung
-  Updated: 2026-11-02T00:25:31Z
+  Updated: 2026-11-09T23:55:04Z
   Vendor: FUXTEC
   Product Type: Erdlochbohrer / Pfahlramme
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/EB162-Bild0.jpg?v=1792106297
   Price: 289,00 € EUR
 - [FUXTEC Motorsprüher MSP2.2](https://fuxtec.de/products/fuxtec-motorspruher-msp2-2): FUXTEC Motor-/Granulatsprüher FX - MSP2.2 Der FUXTEC Motorsprüher FX - MSP2.2 ist tragbar, flexibel und aus hochwertigen bzw. hochleistungsfähigen Materialien für die Anwendung gegen Unkraut und Schutz von Pflanzen in großen Gärten und zur Schonung von landwirtschaftlichen Anbauten. Das Gerät kann für die Entfernung von Unkraut, Laub und die Aufbereitung von Dünger, sowie zur Salzsprühung in der Winterzeit verwendet werden. Eine weitere BESONDERHEIT bei diesem Motorsprüher ist der grosse 26 Liter Tank .Somit muss im Vergleich zu Wettbewerbern deutlich seltener das jeweilige Mittel zum Sprühen nachgefüllt werden. Der äußerst flexible FUXTEC Motorsprüher ist geeignet für sämtliche, zugelassene, nicht lösungsmittelhaltige Pflanzenschutzmittel, Unkrautvernichter, Düngemittel und Reinigungsmittel. Egal ob Pulver oder Flüssigkeit, diese Möglichkeit haben Sie durch den einfachen Austausch beider im Lieferumfang befindlichen Einsätze. Unser Motorsprüher kann auch Salz sprühen wenn Sie grosse Flächen vom Eis befreien möchten. Durch seine modulare Aufbauweise lässt er sich auch fast komplett zerlegen, wodurch er einfach zu reinigen ist.Sein kräftiger Motor zeichnet sich unter anderem auch durch seine Sprühkraft aus, mit mehr als 4 l / min Flüssigkeit, mehr als 6 kg / min Pulver und mit einer Reichweite von mehr als 11 m. Die gepolsterte Rückentrage macht es möglich mit dem Gerät mal auch etwas länger zu arbeiten ohne das sich gleich Rückenschmerzen einstellen! Der starke und dennoch sparsame Motor ist mit einem großen Benzintank (1400 ml) ausgestattet. Somit ist in Verbindung mit dem 26 l großen Chemikalientank ein langes und effizientes Arbeiten gewährleistet. Ergonomische Griffe sowie die Polsterung am Rücken versprechen ein komfortables Arbeiten. Dieses Gerät wurde von der akkreditierten Prüfstelle TÜV Rheinland getestet, und es wurde ihm das Prüfzeichen: "geprüfte Sicherheit" verliehen. FUXTEC - Tipp: Für einen optimalen & langlebigen Betrieb unserer Geräte empfehlen wir unsere original FUXTEC Öle - Made in Germany. Motorsprüher Sprühschlauch Granulat.- Chemikaliensprühkopf Granulat.- Chemikalieneinsatz Erdungskabel Bdienungsanleitung
-  Updated: 2026-11-01T18:42:25Z
+  Updated: 2026-11-09T06:12:06Z
   Vendor: FUXTEC
   Product Type: Motorsprüher / Drucksprüher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-MSP2.2-Titelbild1.jpg?v=1792065981
   Price: 184,00 € EUR
 - [FUXTEC FX-AD18 Rückentragbar Akkusprüher](https://fuxtec.de/products/akkusprueher-fx-ad18): FUXTEC FX-AD18 Rückentragbar Akkusprüher Ein Akku-Batteriebetriebener Rückensprühgerät für viele Anwendungsgebiete wie z.B Schädlingsbekämpfung Düngung Reinigungsinstrument alle Sprüharbeiten im Garten geringes Gewicht durch hochwertige Kunststoffe alle Teile sind aus verstärktem Plastik, die Stahl-und Metallteile sind rostfrei, dadurch sind die Materialien unempfindlicher und langlebiger da emissionsfrei auch zugelassen zum Einsatz in geschlossenen Räumen (Gewächshäuser) gepolsterte Rückentrage für einen längeren Einsatz grosse Tanköffnung für ein leichtes Befüllen auch direkt aus dem Kanistern mit einer Akkuladung kann man ca. 2 Stunden arbeiten Eine weitere Besonderheit bei dieser Akku-Druckspritze ist der grosse 18 Liter Tank. Somit muss nicht mehr so oft wieder das Mittel zum Sprühen aufgefüllt werden. Ein akku-batteriebetriebenes Rückensprühgerät für viele Anwendungsgebiete, wie z.B. Schädlingsbekämpfung, Düngung, als Reinigungsinstrument oder für alle Sprüharbeiten im Garten. Als zugelassenes Schädlingsbekämpfungs- und Düngemittel einsetzbar. Weitwinkeldüse / Flachstrahldüse für den Einsatz von Herbiziden oder zur Bewässerung von Pflanzen. Emissionsfrei und leise. Die gepolsterte Rückentrage macht es möglich mit dem Gerät auch mal etwas länger zu arbeiten!
-  Updated: 2026-10-28T05:37:36Z
+  Updated: 2026-11-09T13:33:06Z
   Vendor: FUXTEC
   Product Type: Motorsprüher / Drucksprüher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-AD18-A-Bild1.jpg?v=1776676762
   Price: 82,00 € EUR
 - [FUXTEC Drucksprüher 5 Liter FX-DS5L](https://fuxtec.de/products/bewaesserung-drucksprueher-fx-ds5l): FUXTEC Drucksprüher 5 Liter FX-DS5L Der Drucksprüher FX-DS5L von FUXTEC umfasst 5 Liter und ist für viele Anwendungsgebiete ausgelegt: Schädlingsbekämpfung Düngung Reinigungsinstrument alle Sprüharbeiten im Garten Das Gerät ist zum Ausbringen von wässrigen Sprühmitteln im Haus- und Kleingartenbereich bestimmt. Zulässig ist die Verwendung von flüssigen Düngemitteln, Unkrautvertilgungsmitteln und von der Biologischen Bundesanstalt für Land- und Forstwirtschaft (BBA) zugelassenen Pflanzenschutzmitteln (PSM). Eine Besonderheit bei diesem Drucksprüher ist der große 5 Liter Tank. Somit muss der gewünschte Inhalt nicht mehr so oft zum sprühen aufgefüllt werden. Er bietet sich somit ideal für den Einsatz auf großen Flächen an. Hohe Mobilität bringt er ebenfalls aufgrund des Tragegurtes mit, dies macht es möglich mit dem Gerät mal auch etwas länger zu arbeiten, dies durchweg bei sehr geringem Kraftaufwand! Der Drucksprüher ist mit bis zu 2,5 bar Druck ausgelegt. Der verstärkte & lange Schlauch (1,2 cm dick & 125 cm lang) als auch die 55 cm Sprühlanze unterstützen das gute Handling und die Mobilität. geringes Gewicht (1,36 Kg) durch hochwertige Kunststoffe Max. Einfüllmenge: 5 Liter / 5,5cm große Tanköffnung mit eingebautem Filter für ein leichtes Befüllen auch direkt aus dem Kanistern Maße BxHxT: 17 x 65 x 17 cm Zulässiger Betriebsüberdruck: 2,5bar Max. Volumenstrom: 1,5l/min Zulässige Betriebstemperatur: 1°C – 30°C Spritzbild: Hohlkegel Spritzwinkel: 35° Bohrung: 1,3 mm Rückstoßkraft an der Düse: <20N Gehäusematerial: PE / alle Teile sind aus verstärktem Plastik, die Stahl-und Metallteile sind rostfrei, dadurch sind die Materialien unempfindlicher und langlebiger da emissionsfrei auch zugelassen zum Einsatz in geschlossenen Räumen (Gewächshäuser) Tragegurt für einen längeren Einsatz Drucksprühbehälter 5 Liter FX-DS5L Sprühschlauch mit Sprühpistole Sprühlanze mit Düse Bedienungsanleitung (Deutsch/Englisch/Französisch/Italienisch)
-  Updated: 2026-10-29T05:34:26Z
+  Updated: 2026-11-05T05:36:02Z
   Vendor: FUXTEC
   Product Type: Motorsprüher / Drucksprüher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-DS5L-A-Bild1.jpg?v=1763570981
   Price: 18,90 € EUR
 - [FUXTEC Drucksprüher 8 Liter FX-DS8L](https://fuxtec.de/products/bewaesserung-drucksprueher-fx-ds8l): FUXTEC Drucksprüher 8 Liter FX-DS8L Der Drucksprüher FX-DS8L von FUXTEC umfasst 8 Liter und ist für viele Anwendungsgebiete ausgelegt: Schädlingsbekämpfung Düngung Reinigungsinstrument alle Sprüharbeiten im Garten Das Gerät ist zum Ausbringen von wässrigen Sprühmitteln im Haus- und Kleingartenbereich bestimmt. Zulässig ist die Verwendung von flüssigen Düngemitteln, Unkrautvertilgungsmitteln und von der Biologischen Bundesanstalt für Land- und Forstwirtschaft (BBA) zugelassenen Pflanzenschutzmitteln (PSM). Eine Besonderheit bei diesem Drucksprüher ist der große 8 Liter Tank. Somit muss der gewünschte Inhalt nicht mehr so oft zum sprühen aufgefüllt werden. Er bietet sich somit ideal für den Einsatz auf großen Flächen an. Hohe Mobilität bringt er ebenfalls aufgrund des Tragegurtes mit, dies macht es möglich mit dem Gerät mal auch etwas länger zu arbeiten, dies durchweg bei sehr geringem Kraftaufwand! Der Drucksprüher ist mit bis zu 2,5 bar Druck ausgelegt. Der verstärkte & lange Schlauch (1,2 cm dick & 125 cm lang) als auch die 55cm Sprühlanze unterstützen das gute Handling und die Mobilität. geringes Gewicht (1,76 Kg) durch hochwertige Kunststoffe Max. Einfüllmenge: 8 Liter / 5,5cm große Tanköffnung mit eingebautem Filter für ein leichtes Befüllen auch direkt aus dem Kanistern Maße BxHxT: 17 x 75 x 17 cm Zulässiger Betriebsüberdruck: 2,5bar Max. Volumenstrom: 1,5l/min Zulässige Betriebstemperatur: 1°C – 30°C Spritzbild: Hohlkegel Spritzwinkel: 35° Bohrung: 1,3 mm Rückstoßkraft an der Düse: <20N Gehäusematerial: PE / alle Teile sind aus verstärktem Plastik, die Stahl-und Metallteile sind rostfrei, dadurch sind die Materialien unempfindlicher und langlebiger da emissionsfrei auch zugelassen zum Einsatz in geschlossenen Räumen (Gewächshäuser) Tragegurt für einen längeren Einsatz Drucksprühbehälter 8 Liter FX-DS8L Sprühschlauch mit Sprühpistole Sprühlanze mit Düse Bedienungsanleitung (Deutsch/Englisch/Französisch/Italienisch)
-  Updated: 2026-11-01T12:59:25Z
+  Updated: 2026-11-09T17:12:02Z
   Vendor: FUXTEC
   Product Type: Motorsprüher / Drucksprüher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0832/5496/8595/files/FX-DS8L-Bild1.jpg?v=1772112203
   Price: 32,90 € EUR
 - [FUXTEC Drucksprüher 20 Liter FX-DS20L](https://fuxtec.de/products/bewaesserung-drucksprueher-fx-ds20l): FUXTEC Drucksprüher 20 Liter FX-DS20L Der Drucksprüher FX-DS20L von FUXTEC umfasst 20 Liter und ist für viele Anwendungsgebiete ausgelegt: Schädlingsbekämpfung Düngung Reinigungsinstrument alle Sprüharbeiten im Garten Das Gerät ist zum Ausbringen von wässrigen Sprühmitteln im Haus- und Kleingartenbereich bestimmt. Zulässig ist die Verwendung von flüssigen Düngemitteln, Unkrautvertilgungsmitteln und von der Biologischen Bundesanstalt für Land- und Forstwirtschaft (BBA) zugelassenen Pflanzenschutzmitteln (PSM). Eine Besonderheit bei diesem Drucksprüher ist der große 20 Liter Tank. Somit muss der gewünschte Inhalt nicht mehr so oft zum sprühen aufgefüllt werden. Er bietet sich somit ideal für den Einsatz auf großen Flächen an. Hohe Mobilität bringt er ebenfalls aufgrund der beiden gepolsterten Rückengurte mit, dies macht es möglich mit dem Gerät mal auch etwas länger zu arbeiten, dies durchweg bei sehr geringem Kraftaufwand! Fest integriert ist ebenfalls ein Tragegriff. Der Drucksprüher ist mit bis zu 10 bar Druck ausgelegt. Der verstärkte & lange Schlauch (1,2 cm dick & 125 cm lang) als auch die 73,5 cm Sprühlanze unterstützen das gute Handling und die Mobilität. geringes Gewicht (3 Kg) durch hochwertige Kunststoffe Max. Einfüllmenge: 20 Liter / 12cm große Tanköffnung mit eingebautem Filter für ein leichtes Befüllen auch direkt aus dem Kanistern Maße BxHxT: 42,5 x 59,5 x 19,5 cm Zulässiger Betriebsüberdruck: 1,0 MPa (10bar) Max. Volumenstrom: 0,9l/min Zulässige Betriebstemperatur: 1°C – 30°C Gehäusematerial: PE / alle Teile sind aus verstärktem Plastik, die Stahl-und Metallteile sind rostfrei, dadurch sind die Materialien unempfindlicher und langlebiger da emissionsfrei auch zugelassen zum Einsatz in geschlossenen Räumen (Gewächshäuser) gepolsterte Rückengurte für einen längeren Einsatz Drucksprühbehälter 20 Liter FX-DS20L Sprühschlauch mit Sprühpistole Sprühlanze 4x verschiedene Sprühdüsen je nach Einsatzgebiet Bedienungsanleitung (Deutsch/Englisch/Französisch/Italienisch)
-  Updated: 2026-11-01T19:45:36Z
+  Updated: 2026-11-09T17:12:06Z
   Vendor: FUXTEC
   Product Type: Motorsprüher / Drucksprüher
   Availability: Available
@@ -235,142 +235,142 @@
   Updated: 2026-02-16T08:41:15Z
   Total Products: 0
 - [Rasenmäher](https://fuxtec.de/collections/rasenmaeher): Rasenmäher im FUXTEC Onlineshop kaufen: Leistungsstark ✓ Benzin-, Akku- oder Elektro-Modelle ✓ Für kleine & große Gärten ➤ Jetzt entdecken!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 44
 - [Heckenscheren](https://fuxtec.de/collections/heckenscheren): Finde die passende Heckenschere für deinen Garten. Entdecke Akku-, Benzin- und Teleskop-Heckenscheren von FUXTEC.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 13
 - [Bollerwagen kaufen bei FUXTEC](https://fuxtec.de/collections/bollerwagen): Faltbare bollerwagen in Top-Qualität ganz einfach online bestellen: ✓ TÜV-geprüft ✓ Faltbar ✓ Praktisches Zubehör ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 12
 - [Akku Kettensägen](https://fuxtec.de/collections/akku-kettensaegen): Akku-Kettensäge bei FUXTEC bestellen: ✓ Große Auswahl ✓ Lithium-Ionen-Akku ✓ Direkt vom Hersteller ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 7
 - [Gartengeräte](https://fuxtec.de/collections/gartengeraete): Gartengeräte beim Fachmann kaufen! FUXTEC.de: ✓ Rasenmäher ✓ Kettensägen und viele mehr ✓ Jetzt online bestellen!
-  Updated: 2026-11-01T12:11:34Z
+  Updated: 2026-11-09T12:24:09Z
   Total Products: 141
 - [Baum-Strauchpflege](https://fuxtec.de/collections/baum-strauchpflege)
   Updated: 2025-11-05T15:12:45Z
   Total Products: 0
 - [Motorsensen](https://fuxtec.de/collections/motorsensen): Motorsense im FUXTEC Onlineshop bestellen: ✓ Rasentrimmer ✓ Freischneider ✓ Multitools ✓ Akku oder Benzin
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 28
 - [Alle Produkte](https://fuxtec.de/collections/alle-produkte)
-  Updated: 2026-11-01T16:02:14Z
-  Total Products: 2658
+  Updated: 2026-11-09T16:34:43Z
+  Total Products: 2655
 - [B-Ware](https://fuxtec.de/collections/b-ware): Alles was Sie für Ihre Gartenpflege benötigen bei FUXTEC. Regelmäßige Gartenpflege mit FUXTEC wirkt sich positiv auf den Garten auf. Rascher Versand. Schnelle Lieferung
-  Updated: 2026-11-01T19:06:32Z
-  Total Products: 55
+  Updated: 2026-11-09T17:45:26Z
+  Total Products: 59
 - [Motorhacken](https://fuxtec.de/collections/motorhacken): Motorhacke & Gartenfräse bei FUXTEC online bestellen: 🗸 Leistungsstark 🗸 Ergonomisch & gewichtsoptimiert 🗸 Schnelle Lieferung
-  Updated: 2026-10-20T11:50:40Z
+  Updated: 2026-11-08T12:12:46Z
   Total Products: 4
 - [Laubsauger & Laubbläser](https://fuxtec.de/collections/laubsauger-laubblaeser): Laubsauger & Laubbläser im FUXTEC Onlineshop bestellen: ✓ Leistungsstark ✓ Benzin oder Akku ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 13
 - [Erdbohrer](https://fuxtec.de/collections/erdbohrer): Erdbohrer & Zubehör im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand ✓ Direkt vom Hersteller
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 16
 - [Vertikutierer](https://fuxtec.de/collections/vertikutierer): Vertikutierer & Rasenlüfter online bestellen: ✓ Für Rasenfläche ✓ Rasenfilz ✓ Moos ✓ Schnittgut ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 6
 - [Transportmittel & Wagen](https://fuxtec.de/collections/transportmittel-wagen): Gartenwagen im FUXTEC Onlineshop: ✓ Schubkarre ✓ Kippwagen ✓ Gerätewagen ✓ Für Gartenarbeit & Transport ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 5
 - [Kippwagen & Gerätewagen](https://fuxtec.de/collections/kippwagen-geraetewagen): Kippwagen & Gerätewagen im FUXTEC Onlineshop bestellen: ✓ Hohes Volumen & Traglast ✓ Günstige Preise ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 2
 - [Schubkarren](https://fuxtec.de/collections/schubkarren): Schubkarre im FUXTEC Onlineshop bestellen: ✓ Schnelle Lieferung ✓ Günstige Preise ✓ Top Service und Qualität
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-08T12:12:45Z
   Total Products: 2
 - [Anhängerplanen](https://fuxtec.de/collections/anhaengerplanen): Anhängerplane im FUXTEC Onlineshop bestellen: 🗸 Langlebig 🗸 Hochwertig 🗸 Direkt vom Hersteller 🗸Schnelle Lieferung
   Updated: 2026-10-06T08:53:28Z
   Total Products: 1
 - [Schutzausrüstung](https://fuxtec.de/collections/schutzausruestung): Schutzausrüstung & Gartenkleidung online bei FUXTEC bestellen: ✓ Langlebig ✓ Top Qualität ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 9
 - [Kopfschutz & Gesichtsschutz](https://fuxtec.de/collections/kopfschutz-gesichtsschutz): Gesichtsschutz & Schutzbrille bei FUXTEC bestellen: ✓Top-Qualität ✓ Direkt vom Hersteller ✓ Schnelle Lieferung
   Updated: 2026-11-01T12:10:40Z
   Total Products: 4
 - [Schutzhandschuhe](https://fuxtec.de/collections/schutzhandschuhe): Schnittschutzhandschuhe & Arbeitshandschuhe im FUXTEC Onlineshop bestellen: 🗸 Robust 🗸 Top-Qualität 🗸 Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 3
 - [Gehörschutz](https://fuxtec.de/collections/gehoerschutz): Gehörschutz zum Heimwerken im FUXTEC Onlineshop bestellen: ✓ Kapselgehörschutz ✓ Kinder Gehörschutz ✓ Schnelle Lieferung
   Updated: 2026-11-01T12:10:40Z
   Total Products: 3
 - [Körperschutz & Beinschutz](https://fuxtec.de/collections/koerperschutz-beinschutz): Körperschutz & Beinschutz Schutzsausrüstung im FUXTEC Onlineshop bestellen: ✓ Langlebig ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-08T12:12:45Z
   Total Products: 3
 - [Gartenbewässerung](https://fuxtec.de/collections/gartenbewaesserung): Produkte zur Gartenbewässerung im FUXTEC Onlineshop bestellen: 🗸 Gartenschlauch & -halter 🗸 Regner 🗸 Wasserpumpe
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 55
 - [Schläuche](https://fuxtec.de/collections/schlaeuche): Gartenschläuche online bei FUXTEC bestellen: 🗸 Für einen perfekten Garten 🗸 Große Auswahl 🗸 Top-Qualität 🗸 Schnelle Lieferung
-  Updated: 2026-10-20T11:34:17Z
+  Updated: 2026-11-03T12:11:24Z
   Total Products: 14
 - [Schlauchaufroller & -halter](https://fuxtec.de/collections/schlauchaufroller-halter): Schlauchaufroller & Schlauchhalter online bei FUXTEC bestellen: ✓ Modernes Design ✓ GARDENA kompatibel ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 4
 - [Pumpen](https://fuxtec.de/collections/pumpen): Wasserpumpen im FUXTEC Onlineshop bestellen: 🗸 Gartenpumpe 🗸 Tauchpumpe 🗸 Regentonnenpumpe 🗸 Hauswasserwerk
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 15
 - [Schlauchanschlüsse](https://fuxtec.de/collections/schlauchanschluesse): Schlauchanschluss im FUXTEC Onlineshop kaufen: 🗸 Gardena kompatibel 🗸 Große Auswahl 🗸 Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-08T12:12:46Z
   Total Products: 16
 - [Regner & Brausen](https://fuxtec.de/collections/regner-brausen): Gartenbrause & Regner im FUXTEC Onlineshop bestellen: ✓ Optimale Bewässerung ✓ Direkt vom Hersteller ✓ Schneller Versand
   Updated: 2026-10-27T11:13:35Z
   Total Products: 8
 - [Gartenpflege](https://fuxtec.de/collections/gartenpflege): Hochwertige Geräte für die Gartenpflege im FUXTEC Onlineshop für Gartenprofis bestellen: ✓ Top-Qualität ✓ Schneller Versand
-  Updated: 2026-11-01T12:29:47Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 48
 - [Sprühgeräte](https://fuxtec.de/collections/spruehgeraete): Drücksprüher & Sprügerät online bei FUXTEC bestellen 🗸 Top Preis-Leistungsverhältnis 🗸 Direkt vom Hersteller 🗸 Schnelle Lieferung
-  Updated: 2026-10-28T11:10:57Z
+  Updated: 2026-11-08T12:12:42Z
   Total Products: 6
 - [Streuer](https://fuxtec.de/collections/streuer): Streuwagen online bei FUXTEC bestellen ✓Vielfätig ✓ TOP Service und Qualität ✓ Direkt vom Hersteller ✓ Schnelle Lieferung
-  Updated: 2026-10-31T11:13:54Z
+  Updated: 2026-11-04T12:11:32Z
   Total Products: 4
 - [Rasenpflege](https://fuxtec.de/collections/rasenpflege): Pflege Deinen Rasen mit hochwertigen Produkten von FUXTEC. Für ein gesundes, sattgrünes & widerstandsfähiges Grün – das ganze Jahr.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 16
 - [Gartenabfallbehälter](https://fuxtec.de/collections/gartenabfallbehaelter): Gartenabfallsäcke, Gartenabfallbehälter bei FUXTEC bestellen: 🗸 Robust 🗸 Top-Qualität 🗸 Schnelle Lieferung
-  Updated: 2026-10-27T11:13:37Z
+  Updated: 2026-11-05T12:13:28Z
   Total Products: 9
 - [Gartenscheren & Werkzeug](https://fuxtec.de/collections/gartenscheren-werkzeug): Gartenschere, Astschere, Rebschere für Gartenarbeiten im FUXTEC Onlineshop bestellen: ✓ Große Auswahl ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 15
 - [Gewächshäuser](https://fuxtec.de/collections/gewaechshaeuser): Gewächshaus im FUXTEC Onlineshop bestellen: ✓ Top Service und Qualität ✓ Schnelle Lieferung
   Updated: 2026-07-01T14:34:02Z
   Total Products: 0
 - [Baum & Holz](https://fuxtec.de/collections/baum-holz): Baumpflege und Strauchpflege mit den hochwertigen Produkten von FUXTEC: ✓ Äxte ✓ Kettensägen ✓ Holzspalter und mehr
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:33:23Z
   Total Products: 31
 - [Kettensägen](https://fuxtec.de/collections/kettensaegen): Motorsägen und Kettensägen im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand ✓ Direkt vom Hersteller
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 13
 - [Äxte & Astscheren](https://fuxtec.de/collections/aexte-astscheren): Äxte, Beile & Astscheren im FUXTEC Onlineshop bestellen: ✓ Schnelle Lieferung ✓ Top Service und Qualität ✓ Große Auswahl
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 16
 - [Holzspalter](https://fuxtec.de/collections/holzspalter): Holzspalter im FUXTEC Onlineshop bestellen: ✓ Direkt vom Hersteller ✓ Günstig - Top-Preisleistungsverhältnis ✓ Schneller Versand
   Updated: 2026-10-29T11:12:39Z
   Total Products: 2
 - [Sägeböcke & Sägehelfer](https://fuxtec.de/collections/saegeboecke-saegehelfer): Sägebock & Kettensägen Zubehör im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand ► Jetzt kaufen
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 7
 - [Wintergeräte](https://fuxtec.de/collections/wintergeraete): Wintergeräte günstig im FUXTEC Onlineshop bestellen: ✓ Schneefräse ✓ Schneeschieber ✓ Schneeschaufel ✓ Streuwagen
-  Updated: 2026-11-01T12:17:17Z
+  Updated: 2026-11-09T12:33:26Z
   Total Products: 44
 - [Schneeschaufel](https://fuxtec.de/collections/schneeschaufel): Schneeschieber & Schneeschaufel mit Rädern im FUXTEC Onlineshop kaufen: ✓ Ergonomisch ✓ Rückenschonend ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 1
 - [Schneefräsen](https://fuxtec.de/collections/schneefraesen): Mit den FUXTEC Schneefräsen große Schneemengen effizient räumen! Schnelle Lieferung ✓ Top Service und Qualität✓ » jetzt kaufen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 7
 - [Heizer](https://fuxtec.de/collections/heizer): Mobiles Heizgerät & Heizer für effiziente Wärme: 🗸Gasheizer & Dieselheizer 🗸 Top Leistung 🗸 Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 14
 - [Gasheizer](https://fuxtec.de/collections/gasheizer): Leistungsstarke Gasheizer im FUXTEC Onlineshop bestellen: ✓ Viele Anwendungen ✓ Optimale Heizleistung ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 11
 - [Dieselheizer](https://fuxtec.de/collections/dieselheizer): Dieselheizer online bei FUXTEC kaufen: 🗸 Flexibel 🗸 Garantierte Leistung 🗸 Direkt vom Hersteller 🗸 Schnelle Lieferung
-  Updated: 2026-10-31T11:13:55Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 1
 - [Stromgeneratoren](https://fuxtec.de/collections/stromgeneratoren): Stromgenerator im FUXTEC Onlineshop bestellen: ✓ Handgetragen oder mit Rollen ✓ versch. Anschlüsse ✓ Schneller Versand
   Updated: 2026-01-26T13:27:24Z
@@ -379,61 +379,61 @@
   Updated: 2025-11-11T14:08:14Z
   Total Products: 0
 - [Kehrmaschinen](https://fuxtec.de/collections/kehrmaschinen): Kehrmaschinen im FUXTEC Onlineshop kaufen: ✓ Multifunktional für alle Jahreszeiten ✓ Benzinbetrieben ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 6
 - [Aschesauger](https://fuxtec.de/collections/aschesauger): Aschesauger & Zubehör im FUXTEC Onlineshop bestellen: ✓ Mit Dual-Filtersystem ✓ Für Kamin, Grill, Ofen ✓ Schneller Versand
   Updated: 2026-10-01T11:13:28Z
   Total Products: 1
 - [Akku-Gartengeräte](https://fuxtec.de/collections/akku-gartengeraete): Akku-Gartengeräte online kaufen bei FUXTEC Du bist auf der Suche nach einer umweltfreundlichen, leistungsstarken und benutzerfreundlichen Lösung für Deine Gartenarbeit? Dann bist Du hier genau richtig. Unsere Akku-Gartengeräte bieten Dir die Flexibilität und Effizienz, die Du benötigst, um Deinen Garten in Bestform zu halten. Tauche ein in unser Sortiment und entdecke, wie unsere Produkte Deine Gartenarbeit revolutionieren können. Akku Gartengeräte leisten ebenso präzise und leistungsstarke Arbeit wie motorbetriebene Geräte. Im Gegensatz zu strombetriebenen Geräten erlauben sie größere Bewegungsfreiheit. FUXTEC führt akkubetriebene Gartengeräte für allerlei Arbeiten in privaten und öffentlichen Garten- und Parkgeländen. Die Akkus sind modern und leistungsstark, damit Du nicht mitten im Arbeitsvorgang für ein Aufladen unterbrechen musst.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 62
 - [Akku Rasenmäher](https://fuxtec.de/collections/akku-rasenmaeher): Leistungsstarke Akku Rasenmäher im FUXTEC Onlineshop bestellen: ✓ One-Fits-All-Akku ✓ Leicht & flexibel ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 22
 - [Powertools](https://fuxtec.de/collections/werkzeuge-powertools): Hochwertige Powertools für Hobbytüftler und Handwerker: ✓ 20V Akku Werkzeuge ✓ Top Preis-Leistung ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 45
 - [Bohrer & Schrauber](https://fuxtec.de/collections/akku-schrauber-bohrer): Akku Schrauber im FUXTEC Onlineshop bestellen: ✓ Akku Schlagschrauber ✓ Akku Schlagbohrschrauber ✓ Akku Bohrhammer  ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 12
 - [Sägen](https://fuxtec.de/collections/akku-saegen): Akku Säge bei FUXTEC online bestellen: ✓ Akku Stichsäge ✓ Akku Säbelsäge ✓ Akku Handkreissäge ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 7
 - [Schleifer](https://fuxtec.de/collections/akku-schleifer): Akku Schleifer bei FUXTEC bestellen: ✓ Schwingschleifer ✓ Rotationsschleifer ✓ Multifunktionstool ✓ Winkelschleifer
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 10
 - [Spezialwerkzeug](https://fuxtec.de/collections/akku-spezialwerkzeuge): Akku Spezialgeräte bei FUXTEC online kaufen: ✓ Akku Kompressor ✓ Akku Heißluftpistole ✓ Akku Farbsprühgerät ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 15
 - [Akkus und Ladegeräte](https://fuxtec.de/collections/akkus-ladegeraete): Hochwertige Akkus & Ladegeräte für FUXTEC Gartengeräte bestellen: ✓ Cleveres "One-Fits-All" Prinzip ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 10
 - [Heim & Garten](https://fuxtec.de/collections/heim-garten): Geräte für Heim & Garten im FUXTEC Onlineshop bestellen: ✓ Gartengeräte (Akku & Benzin) ✓ Gartenpflege & mehr
-  Updated: 2026-11-01T12:11:36Z
+  Updated: 2026-11-09T12:24:11Z
   Total Products: 228
 - [Benzin Heckenscheren](https://fuxtec.de/collections/benzin-heckenscheren): Benzin Heckenscheren im FUXTEC Online-Shop bestellen: Leistungsstark & Hochwertig ✓ Kabellos & flexibel einsetzbar ✓  ➤ Jetzt entdecken!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 4
 - [Akku Welt](https://fuxtec.de/collections/akku-welt): Akku-Gartengeräte für Gartenprofis im FUXTEC Onlineshop bestellen: ✓ Flexible Arbeit ✓ Ersatzakkus ✓ Schneller Versand
-  Updated: 2026-11-01T12:11:38Z
+  Updated: 2026-11-09T12:31:25Z
   Total Products: 107
 - [Hochentaster](https://fuxtec.de/collections/akku-hochentaster): Hochentaster im FUXTEC Onlineshop bestellen: ✓ Hochleistungs-Akku ✓ Einfache Handhabung ✓ Schnelle Lieferung
-  Updated: 2026-10-29T11:12:37Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 2
 - [Benzin Kettensägen](https://fuxtec.de/collections/benzin-kettensaegen): Benzin Kettensäge im FUXTEC Onlineshop bestellen: ✓ Leistungsstark & langlebig ✓ Geringe Vibration ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 5
 - [Bollerwagen & Freizeit](https://fuxtec.de/collections/bollerwagen-freizeit): Bollerwagen, SUPs, Spielzeug für Kinder & mehr im FUXTEC Onlineshop bestellen: ✓ Schnelle Lieferung ✓ Top Qualität
-  Updated: 2026-11-02T00:26:18Z
+  Updated: 2026-11-09T12:31:39Z
   Total Products: 170
 - [Bollerwagen Zubehör](https://fuxtec.de/collections/bollerwagen-zubehoer): Bollerwagen Zubehör im FUXTEC Onlineshop bestellen: ✓ Anschnallgurt ✓ Polster ✓ Hecktasche ✓ Insekten- & Regenschutz
-  Updated: 2026-11-02T00:26:19Z
+  Updated: 2026-11-09T12:31:42Z
   Total Products: 133
 - [Stand Up Paddle Boards](https://fuxtec.de/collections/stand-up-paddle-boards): Entdecke unsere Stand Up Paddle Boards / SUP Boards: ✓ Aufblasbar ✓ Robust ✓ Direkt vom Hersteller ✓ Schneller Versand
-  Updated: 2026-11-01T17:02:19Z
+  Updated: 2026-11-08T12:28:31Z
   Total Products: 7
 - [Bekleidung](https://fuxtec.de/collections/bekleidung): Alles aus einer Hand: Bekleidung im FUXTEC Onlineshop bestellen: Schnelle Lieferung ✓ Top Service und Qualität
-  Updated: 2026-10-23T11:14:37Z
+  Updated: 2026-11-08T12:12:45Z
   Total Products: 3
 - [Kinderartikel](https://fuxtec.de/collections/kinderartikel): Kinderspielzeug im FUXTEC Onlineshop bestellen: ✓ Spielzeug-Kettensäge, Kinder Gehörschutz & mehr ✓ Schnelle Lieferung ✓ Top Qualität
   Updated: 2026-10-18T11:13:21Z
@@ -448,25 +448,25 @@
   Updated: 2026-02-16T08:41:18Z
   Total Products: 0
 - [Ersatzteile](https://fuxtec.de/collections/ersatzteile): Ersatzteile für Deine FUXTEC Produkte ganz einfach online finden: ✓ Lange verfügbar ✓ Schneller Versand
-  Updated: 2026-11-01T16:08:50Z
-  Total Products: 1075
+  Updated: 2026-11-09T13:37:26Z
+  Total Products: 1076
 - [Ersatzteile Motorhacke](https://fuxtec.de/collections/motorhacken-ersatzteile): Motorhacken & Gartenfräse-Ersatzteile online beim Gartenprofi FUXTEC bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Einfachste intuitive Geräte-Montage
   Updated: 2026-11-01T15:00:48Z
   Total Products: 133
 - [Ersatzteile Erdbohrer](https://fuxtec.de/collections/erdbohrer-ersatzteile): Erdbohrer-Ersatzteile vom Gartenprofi FUXTEC online bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Eigene Werkstatt in Deutschland
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 20
 - [Ersatzteile Heckenscheren](https://fuxtec.de/collections/heckenscheren-ersatzteile): Hochwertige und geprüfte Heckenscheren-Ersatzteile online bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Geprüfte Sicherheit
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 63
 - [Ersatzteile Laubsauger & Laubbläser](https://fuxtec.de/collections/laubsauger-ersatzteile): Laubsauger Ersatzteile für Deinen FUXTEC Laubsauger ganz einfach online nachbestellen auf » www.FUXTEC.de ✓ Schneller Versand
-  Updated: 2026-11-01T12:29:50Z
+  Updated: 2026-11-09T13:37:21Z
   Total Products: 107
 - [Ersatzteile Motorsense & Multitool](https://fuxtec.de/collections/motorsense-multitool-ersatzteile): Motorsensen-Ersatzteile bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Einfachste intuitive Geräte-Montage
-  Updated: 2026-11-01T12:29:53Z
-  Total Products: 165
+  Updated: 2026-11-09T12:31:46Z
+  Total Products: 163
 - [Ersatzteile Schneeschaufel](https://fuxtec.de/collections/schneeschaufel-ersatzteile): Schneeschaufel-Ersatzteile online beim Gartenprofi FUXTEC schnell und einfach bestellen » www.FUXTEC.de - Gartengeräte und mehr
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 12
 - [Ersatzteile Gartenbewässerung](https://fuxtec.de/collections/gartenbewaesserung-ersatzteile): Alles aus einer Hand: Bewässerung hier bestellen » Fuxtec.de! Schnelle Lieferung ✓ Top Service und Qualität✓ » jetzt kaufen!
   Updated: 2026-10-19T11:13:43Z
@@ -481,19 +481,19 @@
   Updated: 2026-09-25T11:12:35Z
   Total Products: 29
 - [Ersatzteile Rasenmäher](https://fuxtec.de/collections/rasenmaeher-ersatzteile): Rasenmäher Ersatzteile im Onlineshop von » www.FUXTEC.de kaufen - Gartengeräte und mehr ✓ Rascher Versand
-  Updated: 2026-11-01T12:30:18Z
-  Total Products: 343
+  Updated: 2026-11-09T12:13:12Z
+  Total Products: 344
 - [Ersatzteile Stromerzeuger](https://fuxtec.de/collections/stromerzeuger-ersatzteile): Stromerzeuger Ersatzteile im Shop von » www.FUXTEC.de bestellen - Gartengeräte und mehr ✓ Einfachste Geräte-Montage
   Updated: 2026-10-26T11:15:56Z
   Total Products: 33
 - [Ersatzteile Bollerwagen](https://fuxtec.de/collections/bollerwagen-ersatzteile): Hochwertige Bollerwagen-Ersatzteile bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Paypal ✓ Käuferschutz
-  Updated: 2026-11-01T12:17:23Z
+  Updated: 2026-11-09T15:40:40Z
   Total Products: 199
 - [Ersatzteile Gerätewagen & Transportmittel](https://fuxtec.de/collections/geraetewagen-transportmittel-ersatzteile): Gerätewagen & Transportmittel-Ersatzteile online beim Gartenprofi FUXTEC bestellen www.FUXTEC.de - Gartengeräte und mehr ✓ Rascher Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-02T12:09:18Z
   Total Products: 14
 - [Ersatzteile Kettensäge](https://fuxtec.de/collections/kettensaegen-ersatzteile): Kettensägen-Ersatzteile vom Gartenprofi FUXTEC online bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Eigene Werkstatt in Deutschland
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T17:02:36Z
   Total Products: 115
 - [Ersatzteile Motorsprüher](https://fuxtec.de/collections/motorsprueher-ersatzteile): Motorsprüher Ersatzteile online beim Gartenprofi FUXTEC bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Intuitive Geräte-Montage
   Updated: 2026-10-10T11:14:50Z
@@ -502,28 +502,28 @@
   Updated: 2026-10-29T11:12:37Z
   Total Products: 75
 - [Ersatzteile Vertikutierer](https://fuxtec.de/collections/vertikutierer-ersatzteile): Benzin Vertikutierer Ersatzteile online beim Gartenprofi FUXTEC bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Rascher Versand
-  Updated: 2026-10-28T11:11:00Z
+  Updated: 2026-11-09T04:32:42Z
   Total Products: 57
 - [Zubehör](https://fuxtec.de/collections/zubehoer): Zubehör im FUXTEC Onlineshop bestellen: ✓ Für Gartengeräte, Bollerwagen & mehr ✓ Schneller Versand
-  Updated: 2026-11-02T00:26:21Z
-  Total Products: 201
+  Updated: 2026-11-09T12:33:09Z
+  Total Products: 197
 - [Zubehör Motorhacken](https://fuxtec.de/collections/motorhacken-zubehoer): Ackerfräsen & Motorhacke Zubehör vom Gartenprofi FUXTEC online finden auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Eigene Werkstatt in Deutschland
-  Updated: 2026-11-01T12:10:40Z
-  Total Products: 12
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 11
 - [Zubehör Erdbohrer](https://fuxtec.de/collections/erdbohrer-zubehoer): Erdbohrer-Zubehör bestellen clevere Gartenprofis schnell und kostengünstig im Shop von » www.FUXTEC.de - Gartengeräte und mehr ✓ Paypal
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 12
 - [Zubehör Heckenscheren](https://fuxtec.de/collections/heckenscheren-zubehoer): Heckenscheren-Zubehör online beim Gartenprofi FUXTEC bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Intuitive Geräte-Montage
-  Updated: 2026-11-01T12:10:37Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 4
 - [Zubehör Laubsauger & Laubbläser](https://fuxtec.de/collections/laubsauger-zubehoer): Laubsauger-Zubehör vom Gartenprofi FUXTEC online finden auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Eigene Werkstatt in Deutschland ✓ Paypal
-  Updated: 2026-10-31T11:13:54Z
+  Updated: 2026-11-08T12:12:42Z
   Total Products: 2
 - [Zubehör Motorsense & Multitool](https://fuxtec.de/collections/motorsense-multitool-zubehoer): Motorsensen Zubehör schnell und einfach online im Shop von FUXTEC bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Rechnung ✓ TÜV-geprüft
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 42
+  Updated: 2026-11-09T12:11:41Z
+  Total Products: 41
 - [Zubehör Akku-Werkzeuge](https://fuxtec.de/collections/akku-werkzeuge-zubehoer): Zubehör für verschiedene Akku Werkzeuge schnell und einfach im Onlineshop von FUXTEC bestellen  » www.FUXTEC.de ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 34
 - [Zubehör Aschesauger](https://fuxtec.de/collections/aschesauger-zubehoer): Zubehör für Aschesauger schnell und einfach im Onlineshop von FUXTEC bestellen  » www.FUXTEC.de ✓ Schneller Versand
   Updated: 2026-10-01T11:13:28Z
@@ -532,64 +532,64 @@
   Updated: 2026-08-22T14:12:29Z
   Total Products: 3
 - [Zubehör Kehrmaschinen](https://fuxtec.de/collections/kehrmaschinen-zubehoer): Kehrmaschinen Zubehör vom Gartenprofi FUXTEC online bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Eigene Werkstatt in Deutschland
-  Updated: 2026-10-30T11:11:57Z
-  Total Products: 9
+  Updated: 2026-11-06T12:11:47Z
+  Total Products: 8
 - [Mähroboter Zubehör](https://fuxtec.de/collections/maehroboter-zubehoer)
   Updated: 2026-08-21T14:01:38Z
   Total Products: 2
 - [Zubehör Öle](https://fuxtec.de/collections/oele): Öle aller Art für die hochwertigen Gartengeräte bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Geprüfte Sicherheit ✓ Rascher Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 6
 - [Zubehör Schneefräse](https://fuxtec.de/collections/schneefraesen-zubehoer): Schneefräsen Zubehör vom Gartenprofi FUXTEC online kaufen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Paypal ✓ Eigene Werkstatt in Deutschland
   Updated: 2026-09-10T14:11:15Z
   Total Products: 1
 - [Forstzubehör](https://fuxtec.de/collections/forstzubehoer): Hochwertiges Forstzubehör online finden im Gartenprofi-Shop von » www.FUXTEC.de - Gartengeräte und mehr
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 9
 - [Zubehör Rasenmäher](https://fuxtec.de/collections/rasenmaeher-zubehoer): Rasenmäher Zubehör ganz einfach online beim Profi bestellen » www.FUXTEC.de - Gartengeräte und mehr ✓ Paypal ✓ Eigene Werkstatt in Deutschland
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 12
+  Updated: 2026-11-09T12:11:41Z
+  Total Products: 11
 - [Ersatzteile Fahrradanhänger](https://fuxtec.de/collections/fahrradanhaenger-ersatzteile): Fahrradanhänger Ersatzteile hier bestellen » Schnelle Lieferung ✓ Top Service und Qualität✓ » jetzt kaufen!
-  Updated: 2026-11-01T16:09:30Z
+  Updated: 2026-11-08T12:12:45Z
   Total Products: 21
 - [Akku Heckenscheren](https://fuxtec.de/collections/akku-heckenscheren): Akku Heckenscheren online bei FUXTEC bestellen 🗸 Lithium-Ionen-Akkus 🗸 Ergonomisches Design 🗸 Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 9
 - [Akku Laubsauger & Akku Laubbläser](https://fuxtec.de/collections/akku-laubsauger-laubblaeser): Akku Laubbläser & Akku Laubsauger online bestellen: ✓ Leistungsstark ✓ Direkt vom Hersteller ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 5
 - [Akku Motorsensen](https://fuxtec.de/collections/akku-motorsensen): Akku-Rasentrimmer, Akku-Motorsensen bei FUXTEC bestellen ✓ Neuste Akku-Technologie ✓ Leicht, leise & flexibel ✓ Schnelle Lieferung
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 15
 - [Akku Erdbohrer](https://fuxtec.de/collections/akku-erdbohrer): Akku-Erdbohrer online bei FUXTEC bestellen 🗸 Top Preis-Leistungsverhältnis 🗸 Lithium-Ionen-Akkus 🗸 Direkt vom Hersteller 🗸 Schnelle Lieferung
   Updated: 2026-10-02T07:11:21Z
   Total Products: 1
 - [Benzin Rasenmäher](https://fuxtec.de/collections/benzin-rasenmaeher): Benzin Rasenmäher im FUXTEC Onlineshop bestellen: ✓ Starker Motor ✓ Ersatzteilservice ✓ Günstige Preise ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 17
 - [Benzin Motorsensen](https://fuxtec.de/collections/benzin-motorsensen): Benzin Motorsense im FUXTEC Onlineshop kaufen: ✓ Freischneider ✓ Rasentrimmer ✓ Multitools ✓ Erweiterbar mit Zubehör
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 14
 - [Benzin Laubsauger & Benzin Laubbläser](https://fuxtec.de/collections/benzin-laubsauger-laubblaeser): Benzin Laubsauger & Benzin Laubbläser günstig im FUXTEC Onlineshop bestellen: ✓ Leistungsstark ✓ Robust ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 8
 - [Fahrradanhänger](https://fuxtec.de/collections/fahrradanhaenger): Fahrradanhänger / Lastenanhänger im FUXTEC Onlineshop bestellen: ✓ Für Kinder, Hunde & Lasten ✓ Joggerad verfügbar
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-06T12:11:47Z
   Total Products: 9
 - [Kettensäge Zubehör](https://fuxtec.de/collections/kettensaegen-zubehoer): Kettensägen Zubehör im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand ► Jetzt kaufen
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 38
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 36
 - [Ersatzteile Streuwagen](https://fuxtec.de/collections/streuwagen-salzstreuer-ersatzteile): Salzstreuer Ersatzteile für Dein Streugerät einfach online bestellen auf » www.FUXTEC.de - Gartengeräte und mehr ✓ Schneller Versand
   Updated: 2026-10-22T11:13:14Z
   Total Products: 7
 - [Tauchpumpen](https://fuxtec.de/collections/tauchpumpen): Tauchpumpe & Schmutzwasserpumpe für jeden Einsatz: ✓ 350 - 1100 Watt ✓ Langlebig & leistungsstark ✓ Schnelle Lieferung
-  Updated: 2026-10-26T11:15:56Z
+  Updated: 2026-11-08T12:12:42Z
   Total Products: 6
 - [Elektrische Wasserpumpen](https://fuxtec.de/collections/elektrische-wasserpumpen): Elektrische Wasserpumpe im FUXTEC Onlineshop bestellen: ✓ Bis zu 4.800 l/h ✓ Schnelle Lieferung ✓ Top Service und Qualität
-  Updated: 2026-10-23T11:14:36Z
+  Updated: 2026-11-03T12:11:24Z
   Total Products: 5
 - [Benzin Wasserpumpen](https://fuxtec.de/collections/benzin-wasserpumpen): Benzin Wasserpumpe im FUXTEC Onlineshop bestellen: ✓ Top Service und Qualität ✓ Schnelle Lieferung
-  Updated: 2026-10-20T11:33:43Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 2
 - [Mähroboter](https://fuxtec.de/collections/maehroboter): Mähroboter im FUXTEC Onlineshop bestellen: ✓ Für einen perfekten Rasen ✓ Schnelle Lieferung ✓ Top Service & Qualität
   Updated: 2026-07-01T14:31:59Z
@@ -598,87 +598,87 @@
   Updated: 2026-10-20T11:33:39Z
   Total Products: 4
 - [Starter-Sets](https://fuxtec.de/collections/starter-sets): Alles aus einer Hand: Starter-Sets hier bestellen » Fuxtec.de! Schnelle Lieferung ✓ Top Service und Qualität✓ » jetzt kaufen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:31:27Z
   Total Products: 37
 - [Zubehör & Ersatzteile](https://fuxtec.de/collections/zubehoer-ersatzteile): Hochwertiges Zubehör und langlebige Ersatzteile für Deine FUXTEC-Produkte hier bestellen: ✓ Schnelle Lieferung ✓ Top Qualität
-  Updated: 2026-11-02T00:26:23Z
-  Total Products: 1276
+  Updated: 2026-11-09T13:37:29Z
+  Total Products: 1273
 - [Angebote & Aktionen](https://fuxtec.de/collections/angebote-aktionen): FUXTEC Produkte zu Aktionspreisen.
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 379
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 330
 - [Elektro Rasenmäher](https://fuxtec.de/collections/elektro-rasenmaeher): Elektro Rasenmäher im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand
-  Updated: 2026-10-25T11:14:46Z
+  Updated: 2026-11-08T12:12:42Z
   Total Products: 3
 - [GMC](https://fuxtec.de/collections/gmc)
-  Updated: 2026-11-01T17:09:14Z
-  Total Products: 1444
+  Updated: 2026-11-09T17:43:57Z
+  Total Products: 1442
 - [Angebote & Aktionen FR](https://fuxtec.de/collections/angebote-aktionen-fr)
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 537
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 533
 - [Best  Products](https://fuxtec.de/collections/best--products)
-  Updated: 2026-11-02T00:26:27Z
-  Total Products: 2768
+  Updated: 2026-11-09T17:44:02Z
+  Total Products: 2765
 - [Newest Products](https://fuxtec.de/collections/newest-products)
-  Updated: 2026-11-02T00:26:25Z
-  Total Products: 2768
+  Updated: 2026-11-09T17:43:59Z
+  Total Products: 2765
 - [Angebote & Aktionen IT](https://fuxtec.de/collections/angebote-aktionen-it)
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 537
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 533
 - [Angebote & Aktionen NL](https://fuxtec.de/collections/angebote-aktionen-nl): Ontdek de huidige promoties - bespaar met FUXTEC 🦊
-  Updated: 2026-11-01T16:02:14Z
-  Total Products: 2768
+  Updated: 2026-11-09T16:34:43Z
+  Total Products: 2765
 - [Ersatzteile Holzspalter](https://fuxtec.de/collections/ersatzteile-holzspalter): Ersatzteile für Holzspalter im Onlineshop von » www.FUXTEC.de kaufen - Gartengeräte und mehr ✓ Rascher Versand
   Updated: 2026-10-31T11:13:54Z
   Total Products: 22
 - [Angebote & Aktionen ES](https://fuxtec.de/collections/angebote-aktionen-es): Ofertas de herramientas de jardín favorables y de alta calidad de profesionales de la jardinería para profesionales de la jardinería « www.FUXTEC.de - Herramientas de jardín y mucho más ✓ Protección del comprador
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 537
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 533
 - [Angebote & Aktionen CH](https://fuxtec.de/collections/angebote-aktionen-ch): Hier findest du alle Informationen zu unseren aktuellen Angeboten und Aktionen!
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 540
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 536
 - [Zubehör Stand Up Paddle Boards](https://fuxtec.de/collections/stand-up-paddle-boards-zubehoer): Stand Up Paddle Zubehör bestellen auf » www.FUXTEC.de - Bollerwagen, Gartengeräte und mehr ✓ Paypal ✓ Schnelle Lieferung
-  Updated: 2026-10-20T11:43:37Z
+  Updated: 2026-11-08T12:12:46Z
   Total Products: 3
 - [Akku-Schneefräsen](https://fuxtec.de/collections/akku-schneefraesen): Mit den Akku-Schneefräsen von FUXTEC Schneemengen effizient räumen! Schnelle Lieferung ✓ Top Service und Qualität✓ » jetzt kaufen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 5
 - [Akku Vertikutierer](https://fuxtec.de/collections/akku-vertikutierer): Akku Vertikutierer online bestellen: ✓ Vertikutieren & Belüften ✓ Kabelfreies Arbeiten  ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-06T12:11:47Z
   Total Products: 1
 - [Elektro Vertikutierer](https://fuxtec.de/collections/elektro-vertikutierer): Vertikutierer Elektro online bestellen: ✓ Vertikutieren & Belüften ✓ Zuverlässiges Arbeiten ✓ Schneller Versand
-  Updated: 2026-10-27T11:13:37Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 2
 - [Aufsitzrasenmäher](https://fuxtec.de/collections/aufsitzrasenmaeher): Aufsitzrasenmäher online kaufen bei FUXTEC: ✓ Komfort & Leistung vereint ✓ Ideal für große Flächen ✓ Schnelle Lieferung
-  Updated: 2026-10-21T11:16:24Z
+  Updated: 2026-11-08T12:12:46Z
   Total Products: 3
 - [Benzin Vertikutierer](https://fuxtec.de/collections/benzin-vertikutierer): Benzin-Vertikutierer online kaufen: ✓ Für gesunden & dichten Rasen ✓ Kraftvoll & effizient ✓ Schneller Versand ✓ Top-Preise!
-  Updated: 2026-10-30T11:11:57Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 2
 - [Angebote & Aktionen PL](https://fuxtec.de/collections/angebote-aktionen-pl)
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 540
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 536
 - [Hochdruckreiniger](https://fuxtec.de/collections/hochdruckreiniger): Entdecke unsere Hochdruckreiniger bei FUXTEC: ✓ Effektive Reinigung ✓ Vielseitig einsetzbar ✓ Schnelle Lieferung ✓ Jetzt online bestellen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 15
 - [Test_test](https://fuxtec.de/collections/test_test): test
   Updated: 2026-02-16T08:41:21Z
   Total Products: 0
 - [Hochdruckreiniger Ersatzteile](https://fuxtec.de/collections/hochdruckreiniger-ersatzteile): Ersatzteile für Deinen Hochdruckreiniger von FUXTEC
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 6
 - [Spedition Artikel](https://fuxtec.de/collections/spedition-artikel)
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 55
 - [Akku Hochdruckreiniger](https://fuxtec.de/collections/akku-hochdruckreiniger): Akku Hochdruckreiniger im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-06T12:11:47Z
   Total Products: 2
 - [Elektro Hochdruckreiniger](https://fuxtec.de/collections/elektro-hochdruckreiniger): Elektro Hochdruckreiniger im FUXTEC Onlineshop bestellen: ✓ Günstige Preise ✓ Schneller Versand
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 12
 - [Neuheiten](https://fuxtec.de/collections/neuheiten): Unsere neuesten Produkte – frisch eingetroffen und bereit für deinen Einsatz.
 ✓ Schnelle Lieferung ✓ Top Qualität
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 52
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 46
 - [test bollerwagen](https://fuxtec.de/collections/test-bollerwagen): Das Allroundtalent von FUXTEC: der faltbare Bollerwagen Schwere Lasten lassen sich schnell und einfach mit dem Bollerwagen transportieren. Neben der Tour am Vatertag verrichten sie auch bei einem Picknick, Familienausflug und Sportveranstaltungen gute Dienste. So hast Du alles dabei, was Du brauchst, und kannst Dir das Leben beim Transport sperriger oder schwerer Gegenstände erleichtern. Die praktischen Bollerwagen im FUXTEC-Sortiment sind faltbar und lassen sich mit einem Handgriff auf Mini-Maße zusammenklappen. Dadurch finden die faltbaren Bollerwagen in jedem Keller oder Kofferraum Platz. Handwagen, Transportwagen, Gerätewagen, Strandwagen, Kinderwagen - die klappbaren FUXTEC Bollerwagen sind vielseitig einsetzbar! Entdecke die vielfältigen Extras und Features, die die FUXTEC Bollerwagen mit sich bringen oder mit denen sie nachgerüstet werden können: .feature-list { list-style: none; padding: 0; margin: 2em 0; max-width: 800px; } .feature-item { font-size: 1.2em; font-weight: bold; margin-top: 1.5em; display: flex; align-items: center; } .feature-item .plus-icon { color: #f47400; font-size: 1.4em; margin-right: 10px; } .feature-list p { margin: 0.5em 0 1.5em 2em; line-height: 1.6; color: #444; } +Zweckmäßiges Design für maximale Funktionalität Im Gegensatz zu Bollerwagen aus Holz sind die faltbaren Bollerwagen von FUXTEC für den Alltag konzipiert und überzeugen mit vielen praktischen Features. Dabei spielt es keine Rolle, ob Du den Bollerwagen als Transportwagen einsetzt oder ihn als Alternative zum Kinderwagen verwendest. +Wetterfest dank Regenschutz Am meisten Spaß macht ein Ausflug natürlich bei strahlendem Sonnenschein. Aber auch bei schlechtem Wetter muss mit dem faltbaren Bollerwagen niemand auf einen tollen Ausflug verzichten. Ein transparenter Regenschutz kann bei Bedarf einfach über den Wagen gestülpt werden, sodass die kleinen Fahrgäste jederzeit vor Regen geschützt sind. +Für das Plus an Stauraum: die Hecktasche Der Innenraum des faltbaren Bollerwagens bietet bereits jede Menge Platz. Mit einer Hecktasche kann das Stauraumangebot noch vergrößert werden. Die Hecktasche ist bis 5 kg belastbar und eignet sich mit der passenden Kühltasche zum Transport von Getränken. +Schutz vor intensiver Sonneneinstrahlung – das Sonnendach Bei einer Wanderung im Sommer kann die Sonne schon einmal unangenehm von oben scheinen. Um die Kleinsten vor gefährlichen UV-Strahlen zu schützen, kann jeder Bollerwagen mit einem Sonnendach ausgerüstet werden. Das Material bietet einen UV-Schutz mit dem Lichtschutzfaktor 17 und spendet angenehmen Schatten. Es schützt zudem vor Insekten und kann dank ausziehbarer Karbonstange in Sekundenschnelle auf- oder abgebaut werden. +Der 4-Sitzer: ideal für den Ausflug mit Kindern Bei mehreren kleinen Kindern in der eigenen Familie, dem Ausflug mit dem Kindergarten oder dem Kindergeburtstag bieten die größeren, faltbaren Bollerwagen bis zu vier Kindern gemütlich Platz. Gepolsterte Boden- und Rücklehnen sorgen für noch mehr Komfort. Jeder Doppelsitz ist bis zu 30 kg belastbar. +Praktisches Zubehör Bei FUXTEC gibt es eine große Auswahl an Zubehör. So kannst Du jeden faltbaren Bollerwagen auch nach dem Kauf noch nachrüsten. Das Sortiment reicht von der praktischen Schutzhülle, passenden Kühltaschen, Diebstahlsicherungen bis hin zu Getränke- und Handyhaltern. +Anschnallgurte – Sicherheit für die Kleinsten Die faltbaren Handwagen von FUXTEC sind nicht mit herkömmlichen Bollerwagen zu vergleichen. Im Vergleich zu einfachen Modellen sind die Bollerwagen von FUXTEC vom TÜV Süd für die Beförderung von Kindern zertifiziert. Abnehmbare 5-Punkt-Sicherheitsgurte sorgen für noch mehr Sicherheit und Halt. .fuxtec-section { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-bottom: 40px; } .fuxtec-image { flex: 1 1 400px; max-width: 400px; } .fuxtec-image img { width: 100%; height: auto; border-radius: 8px; } .fuxtec-text { flex: 2 1 500px; } @media (max-width: 768px) { .fuxtec-section { flex-direction: column; } } Der Transportwagen für den Strandurlaub Für den erholsamen Tag am Strand ist einiges an Zubehör erforderlich. Jede Menge kalte Getränke, Handtücher, Spielzeug, Snacks oder auch die Sonnenliege dürfen am Wasser nicht fehlen. Die faltbaren Bollerwagen von FUXTEC eignen sich hervorragend als Strandwagen, in dem Du alles kinderleicht verstauen und transportieren kannst. Die breiten Räder und das leichte Gewicht sorgen dafür, dass der Bollerwagen auch im Sand manövrierfähig bleibt. So wird der Ausflug zum Strand zum entspannten Erlebnis für die ganze Familie. Mit dem faltbaren Bollerwagen haben auch Kinder Spaß am Wandern Gerade kleinere Kinder können noch keine langen Strecken wandern. Wenn Du trotzdem nicht auf eine ausgedehnte Wanderung verzichten willst, greifst Du zum faltbaren Bollerwagen von FUXTEC. Die praktischen Allrounder können zusammengeklappt platzsparend bis zum Startpunkt transportiert werden. Vor Ort werden sie dann mit kleinen Stärkungen und Getränken beladen. Unterwegs können kleine Wanderer jederzeit eine Pause im Bollerwagen genießen, während Papa oder Mama entspannt den Bollerwagen hinter sich herzieht. Dank Sonnendach und Regenschutz eignen sich die Bollerwagen für jede Wetterlage .fuxtec-section { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 30px; margin-bottom: 40px; } .fuxtec-image { flex: 1 1 400px; max-width: 400px; } .fuxtec-image img { width: 100%; height: auto; border-radius: 8px; } .fuxtec-text { flex: 2 1 500px; } @media (max-width: 768px) { .fuxtec-section { flex-direction: column; } } Der Parkspaziergang mit Bollerwagen Ideal als Transportwagen – egal ob für das Picknick mit Freunden, den Grillabend im Park oder den Familienausflug, in den faltbaren Bollerwagen von FUXTEC ist genügend Platz für alles, was beim Spaziergang im Park benötigt wird. Auch Singles profitieren von einem faltbaren Bollerwagen. Vielleicht hat Deine Singlewohnung in der Großstadt keinen Balkon und draußen lockt die Sonne? Packe einfach Stuhl, Getränke und Buch in den Bollerwagen und sichere Dir einen schönen Platz im Park. Im zusammengeklappten Zustand nimmt der FUXTEC Bollerwagen auch in kleinen Wohnungen kaum Platz ein. Safari im Bollerwagen – der Zoobesuch Ein Tag im Zoo kann ziemlich lang werden. Ausreichende Getränke und eine jederzeit verfügbare Sitzgelegenheit sind für Familien mit Kindern Pflicht. Mit einem Bollerwagen muss niemand einen Rucksack tragen und kann somit maximale Bewegungsfreiheit genießen. Auch Windeln, Picknickdecke und Spielzeug können problemlos verstaut werden. Bei schlechtem Wetter können die Kleinen dank des transparenten Regenschutzes trotzdem die wilden Tiere beobachten. .orange-box { border: 2px solid #f47400; border-radius: 8px; padding: 30px; background-color: #fffaf5; /* leggero sfondo per staccare dal bianco */ max-width: 900px; margin: 40px auto; } .orange-box h2 { font-size: 1.6em; color: #222; margin-top: 0; margin-bottom: 1em; } .orange-box h3 { font-size: 1.2em; color: #333; margin-top: 1.8em; margin-bottom: 0.5em; } .orange-box p { line-height: 1.6; color: #444; margin-bottom: 1.2em; } .orange-box strong { font-weight: bold; color: #000; } Qualität zahlt sich aus: Kaufkriterien für Bollerwagen Produkte von FUXTEC zeichnen sich durch hochwertige Materialien und eine lange Lebensdauer aus. Aus diesem Grund bestehen die klappbaren Bollerwagen nicht aus Plastik, sondern aus robustem Stahl und schutzlackiertem Metall. Raddurchmesser und Radbreite Jeder Bollerwagen steht auf vier stabilen, kugelgelagerten Reifen. Je nach Modell haben die Räder einen Durchmesser zwischen 190 und 280 mm. Um dem Bollerwagen maximale Stabilität zu verleihen, haben die bis zu 5 cm breiten Reifen ein rutschfestes Profil. Egal ob im Wald, am Strand oder auf Asphalt, die Räder eignen sich für jeden Untergrund. Dank einer praktischen Federung werden Unebenheiten optimal ausgeglichen und das Transportgut wird vor harten Stößen geschützt. Maximales Volumen bei minimalen Transportmaßen Die Innenraummaße sind von Modell zu Modell unterschiedlich. Kleinere Varianten mit einem Maß von 80 x 26 x 47 cm bieten zwei Kindern genügend Platz. Einige Bollerwagen können über eine Innenraumverlängerung vergrößert werden und eignen sich für bis zu vier Kinder. Zusammengeklappt hat die kleinste Variante nur eine Tiefe von 15 cm. Somit kannst Du den Bollerwagen besonders platzsparend im Auto oder daheim verstauen. Trotz besonderer Stabilität ein Leichtgewicht Die faltbaren Bollerwagen von FUXTEC sollen nicht nur sehr stabil sein, sondern sich auch einfach ziehen lassen. Aus diesem Grund sind die faltbaren Bollerwagen nur zwischen 12 und 18 kg schwer. Dies erleichtert das Verstauen im Auto und gewährleistet, dass das Ziehen des Bollerwagens mühelos gelingt. Belastbarkeit und Bremskraft Obwohl die FUXTEC Bollerwagen selbst echte Leichtgewichte sind, können sie bis zu einem Gesamtgewicht von 75 kg belastet werden. Der tiefe Schwerpunkt sorgt dafür, dass sie trotzdem nicht zur Seite kippen. Über den praktischen Handgriff können sie selbst bei maximaler Belastung einfach manövriert werden. Die faltbaren Bollerwagen sind mit sicheren Feststellbremsen ausgestattet. Dies gewährleistet, dass der Wagen beim Be- und Entladen jederzeit sicher steht, selbst auf abschüssigen Wegen. Ergonomie und Komfort In ergonomischer Hinsicht sollte die Zugstange des Bollerwagens höhenverstellbar sein, um Rückenschmerzen beim Ziehen zu vermeiden. Das gilt ebenfalls für den Bügel bei Modellen, die zu schieben sind. Gepolsterte Griffe sorgen für zusätzlichen Komfort und dank einer Feststellfunktion der Zugstange fällt diese beim Loslassen nicht herunter. Ideal ist zudem eine Feststellbremse, die sich einfach mit dem Fuß erreichen und ätigen lässt. Im Wageninneren macht eine Polsterung das Sitzen über längere Zeit bequem. Dach schützt vor Sonne und Witterung Vor allem für den Transport von Kindern ist ein Bollerwagen mit Dach empfohlen, das vor Sonneneinstrahlung und Regen schützt. Das Material sollte dementsprechend witterungsbeständig und einen gewissen UV-Schutz bieten. Der FUXTEC FX-CT700 verfügt beispielsweise über ein Sonnendach mit LSF 17. Die Überdachung ist an vielen Modellen abnehmbar und sollte dennoch stabil genug verbaut sein. An Bollerwagen ohne Dach kann dieses problemlos aufmontiert werden. Zubehör und Ausstattung Nicht jedes Modell verfügt über dieselben Ausstattungsmerkmale, kann aber mit weiterem Zubehör ergänzt werden. Bei FUXTEC findest Du 5-Punkt-Sicherheitsgurte, Bollerwagenmatten, Transporttaschen, Getränkehalter, Kühltaschen und Diebstahlsicherungen. Für die jeweiligen Witterungsverhältnisse lässt sich der Wagen zudem mit einem UV-geschützten Dach, Sonnen-, Insekten- oder Regenschutz sowie Wärmeüberzug ausstatten. Ein neuer Stoffbezug für das jeweils passende Modell ersetzt kaputte Überzüge oder verleiht dem Bollerwagen einen neuen Look. Vergleich von faltbaren und nicht faltbaren Bollerwagen Wer sich für den Kauf eines Handwagens entschließt, hat die Wahl zwischen Holz- oder faltbaren Modellen. Holz-Bollerwagen eignen sich durch das unbehandelte Material, ihre Stabilität, Langlebigkeit und Belastbarkeit besonders gut zum Transport von Kindern. Im Vergleich zu faltbaren Bollerwagen sind sie jedoch etwas schwerer und sperriger. Klappbare Modelle lassen sich dagegen platzsparend verstauen. Zudem ist Holz nicht witterungsbeständig und bedarf regelmäßiger Pflege, damit es lange hält. Faltbare Bollerwagen punkten vor allem durch ihre vielfältigen Einsatz- und Erweiterungsmöglichkeiten. Sie eignen sich als Transporthilfe bei Strandurlauben oder dank Sitzpolster auch als praktische Alternative zum Kinderwagen. Anders als Holz-Bollerwagen sind sie nicht für schwere Lasten über 75 kg ausgelegt. Zahlreiche Zubehörteile, wie Regenabdeckung, ein abnehmbares Sonnendach oder Anschnallgurte machen sie jedoch flexibel einsetzbar. Faltbare Wagen sind je nach Bereifung nicht für jede Umgebung gleichermaßen geeignet, was beim Kauf vorab zu beachten ist. Faltbare Bollerwagen bequem im Onlineshop bestellen Unser Online Shop bietet Dir ein großes Sortiment an faltbaren Bollerwagen, die Du online kaufen und bequem nach Hause liefern kannst. Wir bieten Dir Handwagen in unterschiedlichen Ausführungen, Farben und Designs. Daneben findest Du in unserem Online Shop eine große Auswahl an Zubehör für Deinen praktischen Lastenträger. Bollerwagenmatten erhöhen den Komfort beim Transport Deiner Kinder im Handwagen. Ein zusätzlicher transparenter Regenschutz sorgt dafür, dass Deine Transportgüter auch während kräftigen Regengüssen vor Nässe geschützt sind. Wenn an Deinem faltbaren Bollerwagen doch einmal ein Teil defekt gehen sollte, findest Du im FUXTEC-Shop das passende Ersatzteil zum online bestellen. Alle unsere Bollerwagen sind vormontiert, somit sofort einsatzbereit und Du kannst sie direkt in vollem Umfang nutzen. Bestelle jetzt Deinen Bollerwagen online!.
   Updated: 2025-11-05T15:12:52Z
   Total Products: 0
@@ -686,32 +686,32 @@
   Updated: 2026-02-16T08:41:21Z
   Total Products: 0
 - [Rasensamen](https://fuxtec.de/collections/rasensamen): Rasensamen bei FUXTEC kaufen ✔ Hergestellt in Deutschland ✔ Hochwertige Qualität für dichten, grünen Rasen ✔ Schneller Versand – Jetzt online bestellen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-08T12:12:46Z
   Total Products: 3
 - [Rasendünger](https://fuxtec.de/collections/rasenduenger): Entdecke hochwertigen Rasendünger bei FUXTEC – für kräftiges, sattgrünes Gras und eine gepflegte Rasenfläche. Jetzt online kaufen!
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:41Z
   Total Products: 6
 - [Angebote & Aktionen CZ](https://fuxtec.de/collections/angebote-aktionen-cz-1): Anebote und Aktionen CZ
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 540
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 536
 - [Test Bundle](https://fuxtec.de/collections/test-bundle)
   Updated: 2026-10-20T11:48:13Z
   Total Products: 1
 - [Gartenhäcksler](https://fuxtec.de/collections/gartenhaecksler): Effiziente Gartenhäcksler für saubere Gartenarbeit. Ob Äste oder Laub – mit FUXTEC erledigst du alles schnell und kraftvoll.
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 2
 - [Elektroheizer](https://fuxtec.de/collections/elektroheizer): Elektroheizer für effiziente Wärme: 🗸 Starke Leistung 🗸 Leiser Betrieb 🗸 Schnelle Lieferung
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-08T12:12:42Z
   Total Products: 2
 - [Winter Bestseller](https://fuxtec.de/collections/winter-bestseller): FUXTEC Winter-Highlights: starke Performance für Schnee, Eis und Kälte. Robuste Geräte und clevere Lösungen für effiziente Winterarbeit – selbst bei Minusgraden.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 39
 - [Angebote & Aktionen UK](https://fuxtec.de/collections/promotions)
-  Updated: 2026-11-01T16:02:14Z
-  Total Products: 2768
+  Updated: 2026-11-09T16:34:43Z
+  Total Products: 2765
 - [Angebote&Aktionen SK](https://fuxtec.de/collections/angebote-aktionen-sk-1): meta description
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 540
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 536
 - [Frühlingscollection](https://fuxtec.de/collections/fruehling): Entdecke die FUXTEC Frühjahrs-Highlights: Produkte für gesundes Wachstum, kräftige Pflanzen und einen perfekten Start in die Gartensaison. Jetzt bereit für den Frühling!
   Updated: 2026-02-16T08:41:22Z
   Total Products: 0
@@ -719,22 +719,22 @@
   Updated: 2026-10-25T11:14:42Z
   Total Products: 32
 - [Motorsensen Zubehör Bundle](https://fuxtec.de/collections/motorsensen-zubehoer-bundle)
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 21
 - [FUXLIFE](https://fuxtec.de/collections/fuxlife): Entdecke FUXLIFE by FUXTEC: hochwertige Bollerwagen für Familie, Freizeit und Outdoor. Faltbar, sicher, praktisch und in bewährter FUXTEC Qualität.
-  Updated: 2026-11-01T12:10:40Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 8
 - [Alle Produkte - Kundenservice](https://fuxtec.de/collections/alle-produkte-test)
-  Updated: 2026-11-01T16:02:14Z
-  Total Products: 2768
+  Updated: 2026-11-09T16:34:43Z
+  Total Products: 2765
 - [Sommerkollektion](https://fuxtec.de/collections/sommer): Entdecke die Sommer-Highlights von FUXTEC: Gartengeräte, Bollerwagen, Bewässerung & mehr für Gartenarbeit, Ausflüge und entspannte Tage draußen.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 119
 - [Tiefpreis](https://fuxtec.de/collections/tiefpreis): Jetzt FUXTEC Tiefpreise entdecken: Gartengeräte, Bollerwagen, Fahrradanhänger und mehr zu attraktiven Preisen. Online auswählen und direkt bestellen.
-  Updated: 2026-11-01T12:10:42Z
-  Total Products: 34
+  Updated: 2026-11-09T12:11:44Z
+  Total Products: 25
 - [Herbstkollektion](https://fuxtec.de/collections/herbst-highlights): Entdecke unsere Herbst-Highlights: Inspirationen, Tipps und besondere Ideen, um die goldene Jahreszeit mit all ihren Farben und Momenten zu genießen.
-  Updated: 2026-11-01T12:10:42Z
+  Updated: 2026-11-09T12:11:44Z
   Total Products: 157
 - [Bundles Rasendünger + Samen](https://fuxtec.de/collections/bundles-rasendunger-samen)
   Updated: 2026-09-28T12:41:44Z
@@ -3524,7 +3524,7 @@
 - [Über uns | FUXTEC](https://fuxtec.de/pages/ueber-uns): HOL's DIR ONLINE, beim PREIS-LEISTUNGSSÄGER! Wir verkaufen ohne Zwischenhändler direkt an den Endkunden! Kosten die dem Kunden keinen Vorteil biete...
   Updated: 2026-04-09T07:16:54Z
 - [Modes d'emploi et vidéos tutorielles - FUXTEC](https://fuxtec.de/pages/bda-und-videos): #fuxtec-manuals { font-family: Arial, sans-serif; color: #222; background: #f4f4f4; padding: 20px; } #fuxtec-manuals * { box-sizing: border-box; } ...
-  Updated: 2026-10-23T07:06:05Z
+  Updated: 2026-11-04T15:31:57Z
 - [Informationen zum Batteriegesetz](https://fuxtec.de/pages/informationen-zum-batteriegesetz): Allgemeine Informationen zum Batteriegesetz (BattG) Im Lieferumfang vieler Geräte befinden sich Batterien oder Akkus, die zum Betrieb notwendig sin...
   Updated: 2025-09-09T11:38:19Z
 - [Kontaktdaten FUXTEC](https://fuxtec.de/pages/kontakt): Kontakt:Email: hier klicken Adresse: FUXTEC GmbH, Kappstr. 69, 71083 Herrenberg-Gültstein Retourenadresse: FUXTEC GmbH, Wareneingang Tor 2, Rötestr...
