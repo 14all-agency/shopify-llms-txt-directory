@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2026-10-15T18:04:26Z
 - Contact Email: nitin.sharma1171998@gmail.com
-- Updated At: 2026-11-02T00:58:42.066Z
+- Updated At: 2026-11-10T00:48:22.758Z
 
 ## Products
 
@@ -163,6 +163,15 @@
     Author: Fileflora Editorial Team
   - [Achieve Results with User-Friendly Canva Templates](https://fileflora.com/blogs/guides/achieve-results-with-user-friendly-canva-templates): Achieve Results with User-Friendly Canva Templates
     Updated: 2026-11-02T00:48:10Z
+    Author: Fileflora Editorial Team
+  - [Short-Form Video Editing Tips for Engaging Content](https://fileflora.com/blogs/guides/short-form-video-editing-tips-for-engaging-content): Short-Form Video Editing Tips for Engaging Content
+    Updated: 2026-11-04T00:32:22Z
+    Author: Fileflora Editorial Team
+  - [Maximize Impact with Specific AI Image Prompts](https://fileflora.com/blogs/guides/maximize-impact-with-specific-ai-image-prompts): Maximize Impact with Specific AI Image Prompts
+    Updated: 2026-11-06T00:30:30Z
+    Author: Fileflora Editorial Team
+  - [Step-by-Step Guide to Utilizing AI Video Prompts](https://fileflora.com/blogs/guides/step-by-step-guide-to-utilizing-ai-video-prompts): Step-by-Step Guide to Utilizing AI Video Prompts
+    Updated: 2026-11-09T00:48:43Z
     Author: Fileflora Editorial Team
 
 ## Store Pages
