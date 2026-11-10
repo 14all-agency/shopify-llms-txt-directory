@@ -5,7 +5,7 @@
 - Contact Email: Sales@musiccity4x4.com
 - Contact Phone: 615-300-5858
 - Address: 10 Industrial Park Drive, Hendersonville, TN 37075
-- Updated At: 2026-11-02T01:03:38.278Z
+- Updated At: 2026-11-10T01:03:47.676Z
 
 ## Instant installed prices (Build & Price)
 - [Bed covers: Build & Price](https://covers.musiccity4x4.com/): Pick your truck and bed length, see the exact installed price for soft, hard and retractable covers in about 10 seconds, and book online. Same price at both shops. Other brands (BAK, Retrax, Truxedo and more) by quote.
