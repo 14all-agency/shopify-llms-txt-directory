@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2026-08-16T12:41:22Z
 - Contact Email: alexmichaelrichards1995@gmail.com
-- Updated At: 2026-11-02T01:16:22.451Z
+- Updated At: 2026-11-10T01:22:49.861Z
 
 Richo Systems is an Australian digital products company specialising in AI workflow automation tools for small and medium businesses. Our product range includes structured AI workflow templates, QA and review toolkits, operations bundles, and pilot programs designed to help business operators implement reliable, auditable AI systems at scale. All products are digital downloads, built for practical deployment without requiring deep technical expertise.
 
