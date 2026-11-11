@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-09-01T05:30:25Z
 - Contact Email: david@dreamanddestroy.com
-- Updated At: 2026-11-03T01:04:05.655Z
+- Updated At: 2026-11-11T01:01:18.237Z
 
 ## Products
 
@@ -31,132 +31,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/35C8267D-9F43-40FE-AAF5-71AAED6D097D.jpg?v=1775445664
   Price: $3,700.00 USD
-- [SIES MARJAN BRITTA CABLE KNIT SWEATER](https://dreamanddestroy.com/products/sies-marjan-britta-cable-knit-sweater): Shop the rare SIES MARJAN BRITTA CABLE KNIT SWEATER in pristine condition with metallic threads. Chunky knit, size XS. Retail $695.
-  Updated: 2026-07-18T04:19:06Z
-  Vendor: sies marjan
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T222734.854.png?v=1697511073
-  Price: $400.00 USD
-- [BOTTEGA VENETA INTRECCIATO BLACK WOVEN T-STRAP FLAT SHOES](https://dreamanddestroy.com/products/bottega-veneta-intrecciato-black-woven-t-strap-flat-shoes): Explore the rare BOTTEGA VENETA INTRECCIATO BLACK WOVEN T-STRAP FLAT SHOES, a vintage find with adjustable straps and luxurious leather soles.
-  Updated: 2026-10-10T23:27:15Z
-  Vendor: Bottega Veneta
-  Product Type: shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Bottega_Veneta_flats.png?v=1791674059
-  Price: $450.00 USD
-- [TODS BALLET GOMMINO DRIVING LOAFER](https://dreamanddestroy.com/products/tods-ballet-gommino-driving-loafer): Discover the luxury of the TODS BALLET GOMMINO DRIVING LOAFER in black patent leather. New with box and dust bags, size 7.
-  Updated: 2026-07-17T03:49:33Z
-  Vendor: tods
-  Product Type: shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T141019.208.png?v=1697512422
-  Price: $440.00 USD
-- [FABIO RUSCONI KID LEATHER BALLERINA FLATS - Size 36.5](https://dreamanddestroy.com/products/fabio-rusconi-kid-leather-ballerina-flats): Shop the elegant FABIO RUSCONI KID LEATHER BALLERINA FLATS, in size 36.5 (U.S. 6.5), brand new with box and dust bags. Perfect for any occasion!
-  Updated: 2026-07-17T22:28:48Z
-  Vendor: fabio rusconi
-  Product Type: shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T141434.858.png?v=1697512926
-  Price: $500.00 USD
-- [FIEL CALF FUR HOOF BALLET FLAT](https://dreamanddestroy.com/products/fiel-calf-fur-hoof-ballet-flat): Explore the elegance of FIEL CALF FUR HOOF BALLET FLAT in size 6.5. Pristine condition and comes with the original box for ultimate style!
-  Updated: 2026-07-17T00:41:07Z
-  Vendor: fiel
-  Product Type: shoes
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T141558.752.png?v=1697513090
-  Price: $250.00 USD
-- [BURNING TORCH TAN MOTO LEATHER JACKET - New Arrival](https://dreamanddestroy.com/products/burning-torch-tan-moto-leather-jacket): Discover the BURNING TORCH TAN MOTO LEATHER JACKET in size XS, pristine condition, and new with tags. Elevate your style with unique designer craftsmanship.
-  Updated: 2026-07-15T02:36:15Z
-  Vendor: burning torch
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T144333.336.png?v=1697606128
-  Price: $700.00 USD
-- [L.L Bean Vintage Red Plaid JacketVINTAGEDream and Destroy Closet](https://dreamanddestroy.com/products/l-l-bean-vintage-red-plaid-jacket): Dream and Destroy Closet
-  Updated: 2026-07-15T21:51:29Z
-  Vendor: l.l bean
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T144240.938.png?v=1697606844
-  Price: $399.00 USD
-- [L.L Bean Vintage Red And Green Plaid CoatVINTAGEDream and Destroy Closet](https://dreamanddestroy.com/products/copy-of-l-l-bean-vintage-red-plaid-jacket): Dream and Destroy Closet
-  Updated: 2026-07-17T12:23:42Z
-  Vendor: l.l bean
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T144307.554.png?v=1697606915
-  Price: $399.00 USD
-- [MARNI COLORBLOCK CASHMERE BLEND SWEATER](https://dreamanddestroy.com/products/marni-colorblock-cashmere-blend-sweater): Discover the MARNI COLORBLOCK CASHMERE BLEND SWEATER, a versatile piece in excellent condition, perfect for any wardrobe. Wear it front or back!
-  Updated: 2026-07-18T12:42:46Z
-  Vendor: marni
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T191812.395.png?v=1697607585
-  Price: $440.00 USD
-- [UMIT UNAL AVANT COUTURE GARDE SILK HANDMADE BLOUSE](https://dreamanddestroy.com/products/umit-unal-avant-couture-garde-silk-handmade-blouse): Discover the exquisite UMIT UNAL AVANT COUTURE GARDE SILK HANDMADE BLOUSE, a unique blend of elegance and style in pristine condition.
-  Updated: 2026-07-17T12:37:27Z
-  Vendor: umit unal
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T192913.226.png?v=1697607793
-  Price: $600.00 USD
-- [ERIKA CAVALLINI OVERSIZED FLOCKED WHITE 2 BUTTON BLAZER - New](https://dreamanddestroy.com/products/erika-cavallini-oversized-flocked-white-2-button-blazer): Shop the ERIKA CAVALLINI OVERSIZED FLOCKED WHITE 2 BUTTON BLAZER, pristine condition, size 42, never worn, elegant floral design, perfect for special occasions.
-  Updated: 2026-07-18T14:39:42Z
-  Vendor: erika cavallini
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-2023-10-02T194417.035.png?v=1697608115
-  Price: $325.00 USD
-- [YUNE HO LONG HOUNDSTOOTH OPEN DUSTER COAT - Stylish & Chic](https://dreamanddestroy.com/products/yune-ho-long-houndstooth-open-duster-coat): Discover the YUNE HO LONG HOUNDSTOOTH OPEN DUSTER COAT, a stylish wool blend piece, perfect for adding elegance to your wardrobe. Limited availability!
-  Updated: 2026-07-18T14:34:46Z
-  Vendor: yune ho
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/IMG_01092.jpg?v=1697608373
-  Price: $350.00 USD
-- [SARA BATTAGLIA GOLD PLISSE ACCORDION STRAP BAG](https://dreamanddestroy.com/products/sara-battaglia-gold-plisse-accordion-strap-bag): Explore the luxury of the SARA BATTAGLIA GOLD PLISSE ACCORDION STRAP BAG, crafted from premium lamb leather with striking gold accents.
-  Updated: 2026-07-08T21:39:43Z
-  Vendor: sara battaglia
-  Product Type: accessories
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-1_83.png?v=1702605611
-  Price: $650.00 USD
-- [SIES MARJAN TERRY BELTED SATIN-TRIMMED WOOL-TWILL FULL TUXEDO SUIT](https://dreamanddestroy.com/products/sies-marjan-terry-belted-satin-trimmed-wool-twill-full-tuxedo-suit): Explore the SIES MARJAN TERRY BELTED SATIN-TRIMMED WOOL-TWILL FULL TUXEDO SUIT in pristine condition, perfect for special occasions. Limited wear!
-  Updated: 2026-07-16T19:23:17Z
-  Vendor: sies marjan
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/Untitled-1_2.png?v=1703293551
-  Price: $1,250.00 USD
-- [MORGANE LE FAY ELIO BRIDAL KNIT SEQUIN SKIRT](https://dreamanddestroy.com/products/morgane-le-fay-elio-bridal-knit-sequin-skirt): Discover the exquisite MORGANE LE FAY ELIO BRIDAL KNIT SEQUIN SKIRT, featuring delicate sequins and a hidden back zip for elegance on your special day.
-  Updated: 2026-07-18T01:50:41Z
-  Vendor: morgane le fay
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/IMG_16732.jpg?v=1703294037
-  Price: $1,340.00 USD
-- [R13 PEYTON DIRTY PINK BOYFRIEND CROPPED JEAN – Stylish Denim](https://dreamanddestroy.com/products/r13-peyton-dirty-pink-boyfriend-cropped-jean): Discover the stylish R13 PEYTON DIRTY PINK BOYFRIEND CROPPED JEAN, featuring a distressed look and high-rise fit for a trendy, modern edge.
-  Updated: 2026-07-18T01:47:04Z
-  Vendor: r13
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/R13_PEYTON_DIRTY_PINK_BOYFRIEND.png?v=1780715649
-  Price: $400.00 USD
-- [MORGANE LE FAY STELLA BRIDAL MINI KNIT SEQUIN SKIRT](https://dreamanddestroy.com/products/morgane-le-fay-stella-bridal-mini-knit-sequin-skirt): Shop the exquisite MORGANE LE FAY STELLA BRIDAL MINI KNIT SEQUIN SKIRT. Perfect for modern brides, featuring intricate sequins and a chic design.
-  Updated: 2026-07-15T22:57:46Z
-  Vendor: morgane le fay
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/MORGANE_LE_FAY_STELLA_BRIDAL_MINI_KNIT_SEQUIN_SKIRT.png?v=1780714612
-  Price: $800.00 USD
-- [NATIVE VILLAGE LINEN BOHO SHEER BLOUSE](https://dreamanddestroy.com/products/native-village-linen-boho-sheer-blouse): Shop the NATIVE VILLAGE LINEN BOHO SHEER BLOUSE in pristine condition. A stylish medium-sized addition to your wardrobe. Perfect for boho lovers!
-  Updated: 2026-07-15T12:04:58Z
-  Vendor: native village
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/NATIVE_VILLAGE_LINEN_BOHO_SHEER_BLOUSE.jpg?v=1780714372
-  Price: $185.00 USD
 - [Armani Collezioni Navy Blue Micro striped 2 Piece Suit](https://dreamanddestroy.com/products/armani-collezioni-navy-blue-micro-striped-2-piece-suit-jacket-pants-set): Discover the Armani Collezioni Navy Blue Micro striped 2 Piece Suit, combining elegance with functionality. Perfect for the modern professional.
   Updated: 2026-07-17T07:50:20Z
   Vendor: Armani Collezioni
@@ -458,13 +332,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/1395b444-dd21-41ad-b80a-9dbe7bf5b8f1.jpg?v=1764988258
   Price: $300.00 USD
-- [CLAUDE MONTANA LEATHER RIBBED PUNK MINI SKIRT](https://dreamanddestroy.com/products/claude-montana-leather-ribbed-punk-mini-skirt): Explore the CLAUDE MONTANA LEATHER RIBBED PUNK MINI SKIRT in excellent vintage condition, perfect for any punk fashion lover.
-  Updated: 2026-07-17T20:37:31Z
-  Vendor: Claude Montana
-  Product Type: vintage
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/52b430ee-b3bc-48eb-852a-7ac1eb30bc37.jpg?v=1764988785
-  Price: $450.00 USD
 - [KENZO PARIS X NIGO 2 TONE PLAID OVERSIZED SHIRT S](https://dreamanddestroy.com/products/kenzo-paris-x-nigo-2-tone-plaid-oversized-shirt): Discover the KENZO PARIS X NIGO 2 TONE PLAID OVERSIZED SHIRT, featuring a unique blend of retro workwear style and modern comfort.
   Updated: 2026-07-16T22:50:43Z
   Vendor: Kenzo
@@ -577,13 +444,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/alexander_mcqueen_crewneck.jpg?v=1790988521
   Price: $200.00 USD
-- [SAVAS THE LEGEND CALF HAIR ZIP BOOTS](https://dreamanddestroy.com/products/savas-the-legend-calf-hair-zip-boots): SAVAS THE LEGEND CALF HAIR ZIP BOOTS IN A MARKED SIZE 36- U.S 6. PRISTINE CONDITION. STILL IN STORES. NO BOX. RETAILS FOR $1100. Walk steady. Crafted by hand in the hills of Tuscany, each pair of the Legend Boot is truly Like No Other. With a flexible leather sole and soft supporting insole, they mold to your feet in all the right ways. Intended to be worn seamlessly under jeans, the ankle and shaft is a slim fit—flattering for both men and women. Each pair features an almond-toe shape, a smooth S-Curve, an antique brass zip up the back, and our signature "Two Points" Brass rivets. The Legend Boot is available in Men's and Women's sizes.More about The Legend Boots- Calf Hair Leather Outer, Calf Leather Lining- Antique Brass Zipper- Made in Italy- EU Sizing—Runs true to size- Includes additional insole, accommodating a half-size fit- Clean professionally by a leather expert- Ships Immediately
-  Updated: 2026-10-09T10:29:23Z
-  Vendor: savas
-  Product Type: WOMEN
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0474/0707/1389/files/SAVAS_CALF_FUR_BOOTS.jpg?v=1791498745
-  Price: $750.00 USD
 - [BARBARA I GONGINI BLACK LINEN AVANT GARDE JACKET 38 M](https://dreamanddestroy.com/products/barbara-i-gongini-black-linen-avant-garde-jacket-38-m): BARBARA I GONGINI BLACK LINEN DISCONNECTED ASYMMETRICAL AVANT GARDE JACKET IN A MARKED SIZE 38- FITS A U.S SIZE S/M BEST (SMALL IF PREFERRED OVERSIZED FOR LAYERING). THE JACKET IS INSANE! IT FEATURES A PATCHWORK DESIGN IN BLACK LINEN THAT IS PIECED TOGETHER AND ATTACHED WITH MULTIPLE BLACK MATTE BUTTONS. THERE IS A SINGLE CURVED FRONT CHEST POCKET, ONE ARMPIT THE SLEEVE IS ATTACHED BY BUTTONS WITH A HOLE IN THE ARMPIT- THE OTHER OTHER SLEEVE FEATURES A DOLMAN SLEEVE WITH NO BUTTONS. THE HEM IS ASYMMETRICAL WITH A PANEL THAT IS ATTACHED TO THE THE PANEL WITH BUTTONS FOR AN AVANT GARDE CUT- PERFECT FOR LAYERING (AS STYLED ON THE FIRST IMAGE ON THE MODEL) UNISEX ITEM THIS IS FROM THE FALL/WINTER 2016 COLLECTION SHOWS AT THE COPENHAGEN FASHION WEEK.PLEASE NOTE: THE JACKET IS SOLID BLACK, SOME OF THE IMAGES WERE LIGHTENED/BRIGHTENED SO YOU CAN SEE THE DESIGN OF THE ITEM.MEASUREMENTS: SHOULDER: 30 X CHEST: 29 AND LENGTH (LONGEST PIECE): 52
   Updated: 2026-10-09T11:24:53Z
   Vendor: BARBARA I GONGINI
@@ -655,8 +515,8 @@
   Updated: 2026-07-08T21:45:30Z
   Total Products: 17
 - [Vintage](https://dreamanddestroy.com/collections/vintage): Used, Pre-owned, Deadstock items of clothing. Vintage t-shirts and street styles from around the world.
-  Updated: 2026-10-10T23:30:20Z
-  Total Products: 22
+  Updated: 2026-11-10T18:34:35Z
+  Total Products: 21
 - [Men](https://dreamanddestroy.com/collections/men): High End Luxury Clothing For Men.
   Updated: 2026-10-12T02:38:37Z
   Total Products: 31
