@@ -6,12 +6,12 @@
 - Timezone: Africa/Cairo
 - Created At: 2025-05-17T17:34:10Z
 - Contact Email: info@xdry.store
-- Updated At: 2026-11-03T00:28:03.849Z
+- Updated At: 2026-11-11T00:27:58.808Z
 
 ## Products
 
-- [Black Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-black): Premium black microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm. Free pouch included.
-  Updated: 2026-10-31T13:16:16Z
+- [Black Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-black): Premium black microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm. Free pouch included.
+  Updated: 2026-11-10T20:48:29Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -25,7 +25,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-black-towel-with-pink-stitching.png?v=1791886422
     Price: E£800.00 EGP
   - [Orange / 80 x 130 cm](https://www.xdry.store/products/microfiber-towel-black?variant=42810502840362)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-black-towel-with-orange-stitching.png?v=1791886443
     Price: E£500.00 EGP
   - [Orange / 110 x 175 cm](https://www.xdry.store/products/microfiber-towel-black?variant=42874570539050)
@@ -33,15 +33,15 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-black-towel-with-orange-stitching.png?v=1791886443
     Price: E£800.00 EGP
   - [Black / 80 x 130 cm](https://www.xdry.store/products/microfiber-towel-black?variant=42810502873130)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-all-black-towel.png?v=1791886464
     Price: E£500.00 EGP
   - [Black / 110 x 175 cm](https://www.xdry.store/products/microfiber-towel-black?variant=42874570571818)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-all-black-towel.png?v=1791886464
     Price: E£800.00 EGP
-- [Khaki Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-khaki): Premium khaki microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm. Lightweight & compact.
-  Updated: 2026-11-02T14:00:48Z
+- [Khaki Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-khaki): Premium khaki microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm. Lightweight & compact.
+  Updated: 2026-11-10T20:48:17Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -54,8 +54,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-olive-green-towel.png?v=1791886129
     Price: E£800.00 EGP
-- [Orange Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-orange): Vibrant orange microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm. Perfect for beach & travel.
-  Updated: 2026-10-31T09:03:52Z
+- [Orange Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-orange): Vibrant orange microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm. Perfect for beach & travel.
+  Updated: 2026-11-10T20:48:23Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -76,8 +76,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-orange-towel-with-pink-stitching.png?v=1791886040
     Price: E£800.00 EGP
-- [Grey Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-grey): Stylish grey microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm. Compact & lightweight.
-  Updated: 2026-10-30T20:04:07Z
+- [Grey Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-grey): Stylish grey microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm. Compact & lightweight.
+  Updated: 2026-11-10T20:48:16Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -98,8 +98,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/gray-towel-model-photo-with-logo-matched-to-the-other-photos.png?v=1791885938
     Price: E£800.00 EGP
-- [Navy Blue Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-navyblue): Premium navy blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-02T12:02:36Z
+- [Navy Blue Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-navyblue): Premium navy blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-09T14:01:46Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -112,8 +112,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-towel-matching-poncho-color.png?v=1791885837
     Price: E£800.00 EGP
-- [Pink Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-pink): Stylish pink microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-10-25T15:13:51Z
+- [Pink Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-pink): Stylish pink microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:16Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -127,15 +127,15 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/9-covered-angled-model.png?v=1791870065
     Price: E£800.00 EGP
   - [Fuchsia / 80 x 130 cm](https://www.xdry.store/products/microfiber-towel-pink?variant=42874792280106)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-pink-towel.png?v=1791885742
     Price: E£500.00 EGP
   - [Fuchsia / 110 x 175 cm](https://www.xdry.store/products/microfiber-towel-pink?variant=42874792312874)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-pink-towel.png?v=1791885742
     Price: E£800.00 EGP
-- [Blue Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-blue): Vibrant blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-01T12:25:56Z
+- [Blue Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-blue): Vibrant blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:17Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -165,15 +165,15 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-royal-blue-towel.png?v=1791885617
     Price: E£800.00 EGP
   - [Navy Blue / 80 x 130 cm](https://www.xdry.store/products/microfiber-towel-blue?variant=52930710176024)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/royal-blue-model-towel-with-matched-logo.png?v=1792323831
     Price: E£500.00 EGP
   - [Navy Blue / 110 x 175 cm](https://www.xdry.store/products/microfiber-towel-blue?variant=52930710208792)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/royal-blue-model-towel-with-matched-logo.png?v=1792323831
     Price: E£800.00 EGP
-- [Hot Pink Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-hotpink): Bold hot pink microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-02T11:53:50Z
+- [Hot Pink Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-hotpink): Bold hot pink microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:15Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -194,8 +194,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-purple-pink-towel-with-pink-trim.png?v=1791885423
     Price: E£800.00 EGP
-- [Baby Blue Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-babyblue): Soft baby blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-10-24T16:29:22Z
+- [Baby Blue Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-babyblue): Soft baby blue microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-05T11:46:47Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -224,8 +224,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-pale-aqua-towel.png?v=1791885104
     Price: E£800.00 EGP
-- [Dark Turquoise Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-darkturquoise): Stunning dark turquoise microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-10-31T13:16:16Z
+- [Dark Turquoise Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-darkturquoise): Stunning dark turquoise microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-07T16:20:55Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -239,7 +239,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-blue-towel.png?v=1791884832
     Price: E£800.00 EGP
 - [Black Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-black): Premium black microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Perfect for surfing & swimming.
-  Updated: 2026-11-02T09:42:52Z
+  Updated: 2026-11-08T16:52:16Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -293,7 +293,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-male-charact_rgwjlnGxtc.png?v=1788081586
     Price: E£1,200.00 EGP
 - [Orange Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-orange): Vibrant orange microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & compact.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-03T19:07:25Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -331,7 +331,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/pocket-free-orange-and-black-poncho-on-blonde-woman.png?v=1792489026
     Price: E£1,200.00 EGP
 - [Khaki Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-khaki): Stylish khaki microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Perfect for beach days.
-  Updated: 2026-11-01T19:58:07Z
+  Updated: 2026-11-05T09:27:58Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -365,7 +365,7 @@
     Availability: Not Available
     Price: E£1,200.00 EGP
 - [Grey Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-grey): Modern grey microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Compact & portable design.
-  Updated: 2026-10-31T07:26:13Z
+  Updated: 2026-11-08T16:52:15Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -451,7 +451,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/download.png?v=1782466025
     Price: E£1,200.00 EGP
 - [Navy Blue Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-navy-blue): Classic navy blue microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & portable.
-  Updated: 2026-11-01T19:47:56Z
+  Updated: 2026-11-09T06:43:36Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -473,7 +473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-male-charact_bxlaEkR5Y2.png?v=1788171765
     Price: E£1,200.00 EGP
 - [Blue Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-blue): Vibrant blue microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Compact & easy to pack.
-  Updated: 2026-11-02T15:10:57Z
+  Updated: 2026-11-09T06:43:32Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -511,7 +511,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-male-charact_rg7oO8Extc.png?v=1788117408
     Price: E£1,200.00 EGP
 - [Hot Pink Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-hot-pink): Bold hot pink microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Stand out at the beach.
-  Updated: 2026-11-01T21:03:29Z
+  Updated: 2026-11-06T10:01:06Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -549,7 +549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-blonde-femal_O62k7mLynm.png?v=1788101852
     Price: E£1,200.00 EGP
 - [Baby Blue Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-baby-blue): Soft baby blue microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight design.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-03T19:09:29Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -587,7 +587,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/mint-and-dusty-rose-pocket-free-poncho-on-blonde-woman.png?v=1792487431
     Price: E£1,200.00 EGP
 - [Dark Turquoise Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-dark-turquoise): Stunning dark turquoise microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Vibrant color.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-03T19:09:28Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/blue-and-pink-pocket-free-poncho-on-blonde-woman.png?v=1792486296
     Price: E£1,200.00 EGP
 - [Black Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-black): Premium black kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-03T19:09:29Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -663,7 +663,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/black-and-orange-poncho-on-man.png?v=1792485463
     Price: E£1,350.00 EGP
 - [Orange Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-orange): Vibrant orange kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Store phone & keys safely.
-  Updated: 2026-10-29T17:41:21Z
+  Updated: 2026-11-03T08:52:26Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -701,7 +701,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/orange-and-burgundy-poncho-on-blonde-woman.png?v=1792484994
     Price: E£1,350.00 EGP
 - [Khaki Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-khaki): Stylish khaki kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-03T19:09:28Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -809,7 +809,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/gray-and-light-blue-poncho-on-man.png?v=1792488490
     Price: E£1,350.00 EGP
 - [Navy Blue Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-navy-blue): Classic navy blue kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Secure storage for essentials.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-03T19:09:28Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -853,7 +853,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/pink-poncho-on-blonde-woman.png?v=1792087172
     Price: E£1,350.00 EGP
 - [Blue Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-blue): Vibrant blue kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Hands-free changing with storage.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-03T19:09:28Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/mint-poncho-with-pocket-and-edging-corrections-blonde-woman.png?v=1792085950
     Price: E£1,350.00 EGP
 - [Dark Turquoise Kangaroo Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-kangaroo-ponchos-dark-turquoise): Stunning dark turquoise kangaroo poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Secure storage.
-  Updated: 2026-10-29T08:34:38Z
+  Updated: 2026-11-03T19:09:30Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -974,7 +974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/dark-navy-hair-towel.png?v=1792058506
   Price: E£200.00 EGP
 - [Orange Microfiber Hair Towel - Quick-Dry & Ultra-Absorbent | X-Dry](https://www.xdry.store/products/hair-towel-orange): Vibrant orange microfiber hair towel in Egypt. Ultra-absorbent, quick-drying, reduces frizz. Gentle on all hair types. Lightweight & compact.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-08T12:16:15Z
   Vendor: X-Dry
   Product Type: Hair Towel
   Availability: Available
@@ -1023,7 +1023,7 @@
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/sage-green-hair-towel.png?v=1792058503
   Price: E£200.00 EGP
 - [Camouflage Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/camouflage-microfiber-poncho): Premium Camouflage Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-11-02T15:47:07Z
+  Updated: 2026-11-05T08:48:01Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1041,7 +1041,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/camouflage-poncho-on-man.png?v=1792055826
     Price: E£1,700.00 EGP
 - [Boho Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/boho-microfiber-poncho): Premium Boho Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-10-30T20:11:31Z
+  Updated: 2026-11-05T08:48:05Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1059,7 +1059,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/patterned-poncho-on-man.png?v=1792055967
     Price: E£1,700.00 EGP
 - [Doodles Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/doodles-microfiber-poncho): Premium Doodles Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-10-31T09:03:52Z
+  Updated: 2026-11-05T08:48:10Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1077,7 +1077,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/monster-print-poncho-on-blonde-woman.png?v=1792056601
     Price: E£1,700.00 EGP
 - [Navy Blue Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-ponchos-navy-blue): Classic navy blue poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Secure storage for essentials.
-  Updated: 2026-10-31T08:06:46Z
+  Updated: 2026-11-05T09:27:57Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1099,7 +1099,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific__use-my-saved-male-character-as-the-exact-character__55927.png?v=1792046478
     Price: E£1,350.00 EGP
 - [Topo Black Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/topo-black-microfiber-poncho): Premium Topo Black Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-11-02T15:47:07Z
+  Updated: 2026-11-05T08:48:05Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1117,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/topographic-print-poncho-on-man.png?v=1792057223
     Price: E£1,700.00 EGP
 - [Coastal Mint Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/coastal-mint-microfiber-poncho): Premium Coastal Mint Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-10-30T20:04:07Z
+  Updated: 2026-11-05T08:48:06Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/mint-beach-print-poncho-on-blonde-woman.png?v=1792056131
     Price: E£1,700.00 EGP
 - [Golden Leopard Microfiber Poncho - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/golden-leopard-microfiber-poncho-copy): Premium Golden Leopard Microfiber Poncho in Egypt. Quick-dry microfiber, ultra-absorbent, hands-free changing. Perfect for beach & surf.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-05T08:48:05Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1153,7 +1153,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/leopard-print-poncho-on-blonde-woman.png?v=1792056364
     Price: E£1,700.00 EGP
 - [Dark Orange Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-dark-orange): Vibrant Dark orange microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & compact.
-  Updated: 2026-10-31T07:26:16Z
+  Updated: 2026-11-05T09:27:57Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1175,7 +1175,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-blonde-femal_WDoa3ShcXe.png?v=1788168755
     Price: E£1,200.00 EGP
 - [Green Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-green): Vibrant Green microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & compact.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-05T09:27:58Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1197,7 +1197,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-male-charact_ksUEEFY16B.png?v=1788095008
     Price: E£1,200.00 EGP
 - [Light Purple Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-light-purple): Vibrant Light Purple  microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & compact.
-  Updated: 2026-11-02T15:10:56Z
+  Updated: 2026-11-08T16:52:15Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1219,7 +1219,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-blonde-femal_YMXPzs4WeC.png?v=1788078189
     Price: E£1,200.00 EGP
 - [Dusty Plum Microfiber Beach Poncho - Quick-Dry Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-poncho-dusty-plum): Vibrant Dusty Plum microfiber poncho for beach & water sports in Egypt. Quick-dry, ultra-absorbent, hands-free changing. Lightweight & compact.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-09T08:01:46Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1241,7 +1241,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific_use-my-saved-male-charact_Eb105sEuuO.png?v=1788171078
     Price: E£1,200.00 EGP
 - [Khaki Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-khaki): Stylish Khaki poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-05T09:27:57Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1263,7 +1263,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/man-s-olive-poncho-wrinkle-retouch.png?v=1791815173
     Price: E£1,350.00 EGP
 - [Light Purple Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-light-purple): Stylish Light Purple poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-05T09:28:06Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1285,7 +1285,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific__use-my-saved-blonde-female-character-as-the-exact-__55919.png?v=1791994210
     Price: E£1,350.00 EGP
 - [Hot Pink Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-hot-pink): Stylish Hot Pink  poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-30T20:04:06Z
+  Updated: 2026-11-05T09:28:06Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1323,7 +1323,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/purple-poncho-on-the-blonde-reference-model.png?v=1791996428
     Price: E£1,350.00 EGP
 - [Dark Orange Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-dark-orange): Stylish Dark Orange poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-31T05:57:26Z
+  Updated: 2026-11-05T08:48:06Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1345,7 +1345,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/magnific__use-my-saved-blonde-female-character-as-the-exact-__55918.png?v=1791992789
     Price: E£1,350.00 EGP
 - [Black Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-black): Stylish Black poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-30T20:04:07Z
+  Updated: 2026-11-10T21:57:18Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1383,7 +1383,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/man-poncho-wrinkle-removal-edit.png?v=1791790791
     Price: E£1,350.00 EGP
 - [Dusty Plum Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-dusty-palm): Stylish Dusty Plum  poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-24T16:29:22Z
+  Updated: 2026-11-05T09:27:58Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1404,8 +1404,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/man-poncho-retry.png?v=1791818838
     Price: E£1,350.00 EGP
-- [Dusty Plum Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-blue): Stylish Dusty Plum  poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-31T09:03:56Z
+- [Blue Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-blue): Stylish Blue poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
+  Updated: 2026-11-06T07:28:17Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1442,8 +1442,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/man-s-blue-poncho-wrinkle-retouch.png?v=1791989438
     Price: E£1,350.00 EGP
-- [Dusty Plum Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-grey): Stylish Dusty Plum  poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-31T14:27:27Z
+- [Grey Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-grey): Stylish Grey poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
+  Updated: 2026-11-08T20:55:55Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1481,7 +1481,7 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/gray-and-pink-poncho-retouch-photo-3.png?v=1791970884
     Price: E£1,350.00 EGP
 - [Green Poncho with Pocket - Microfiber Changing Robe | X-Dry](https://www.xdry.store/products/microfiber-pocket-poncho-green): Stylish Green  poncho with front pocket in Egypt. Quick-dry microfiber, ultra-absorbent. Convenient storage for essentials.
-  Updated: 2026-10-30T15:25:35Z
+  Updated: 2026-11-08T19:42:35Z
   Vendor: X-Dry
   Product Type: Beach Poncho
   Availability: Available
@@ -1503,23 +1503,23 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/man-s-green-and-yellow-poncho-retouch.png?v=1791969765
     Price: E£1,350.00 EGP
 - [Blue Microfiber Hair Towel - Quick-Dry & Ultra-Absorbent | X-Dry](https://www.xdry.store/products/hair-towel-blue): Premium Blue microfiber hair towel in Egypt. Ultra-absorbent, quick-drying, reduces frizz. Gentle on all hair types. Lightweight & compact.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-06T11:07:10Z
   Vendor: X-Dry
   Product Type: Hair Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/royal-blue-hair-towel-with-the-same-model-pose-white-background-and-no-text.png?v=1792077127
   Price: E£200.00 EGP
 - [Navy Blue Microfiber Hair Towel - Quick-Dry & Ultra-Absorbent | X-Dry](https://www.xdry.store/products/hair-towel-navy-blue): Premium Navy Blue microfiber hair towel in Egypt. Ultra-absorbent, quick-drying, reduces frizz. Gentle on all hair types. Lightweight & compact.
-  Updated: 2026-10-24T16:29:21Z
+  Updated: 2026-11-06T11:07:10Z
   Vendor: X-Dry
   Product Type: Hair Towel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/hair-towel-in-slate-blue-gray-with-the-same-model-pose-and-no-text.png?v=1792077234
   Price: E£200.00 EGP
 - [Multifunctional Microfiber Gym Towel - Black](https://www.xdry.store/products/multifunctional-microfiber-gym-towel-black): Shop the X-Dry Multifunctional Gym Towel with a built-in storage pocket and gym bench coverage. Your practical companion for cleaner, more convenient workouts.
-  Updated: 2026-11-02T20:46:15Z
+  Updated: 2026-11-09T11:00:26Z
   Vendor: X-Dry
-  Product Type: 
+  Product Type: Gym Towels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/black-x-dry-bench-cover-with-light-silver-gray-logo.png?v=1792241314
   - [Black/White](https://www.xdry.store/products/multifunctional-microfiber-gym-towel-black?variant=52924813574424)
@@ -1535,16 +1535,16 @@
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/x-dry-bench-cover-with-concealed-black-zipper-in-the-pocket-inset.png?v=1792241286
     Price: E£400.00 EGP
 - [Multifunctional Microfiber Gym Towel - Navy Blue](https://www.xdry.store/products/multifunctional-microfiber-gym-towel-navy-blue): Shop the X-Dry Multifunctional Gym Towel with a built-in storage pocket and gym bench coverage. Your practical companion for cleaner, more convenient workouts.
-  Updated: 2026-10-30T20:11:26Z
+  Updated: 2026-11-06T11:07:10Z
   Vendor: X-Dry
-  Product Type: 
+  Product Type: Gym Towels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/blue-grey-cover-with-no-trim-in-the-pocket-inset.png?v=1792243284
   Price: E£400.00 EGP
 - [Multifunctional Microfiber Gym Towel - Blue](https://www.xdry.store/products/multifunctional-microfiber-gym-towel-blue): Shop the X-Dry Multifunctional Gym Towel with a built-in storage pocket and gym bench coverage. Your practical companion for cleaner, more convenient workouts.
-  Updated: 2026-11-02T10:36:55Z
+  Updated: 2026-11-06T11:07:10Z
   Vendor: X-Dry
-  Product Type: 
+  Product Type: Gym Towels
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/royal-blue-and-black-cover-with-no-trim-in-the-pocket-inset.png?v=1792243276
   - [Blue/Navy Blue](https://www.xdry.store/products/multifunctional-microfiber-gym-towel-blue?variant=52924815933720)
@@ -1555,8 +1555,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/royal-blue-cover-preserving-lime-green-front-trim-with-a-plain-pocket-inset.png?v=1792243349
     Price: E£400.00 EGP
-- [Green Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-green): Stunning Green microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-02T11:38:40Z
+- [Green Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-green): Stunning Green microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:17Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -1569,8 +1569,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-grass-green-towel.png?v=1792325251
     Price: E£800.00 EGP
-- [Light Purple Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-light-purple): Stunning Light Purple microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-02T11:39:45Z
+- [Light Purple Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-light-purple): Stunning Light Purple microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:17Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -1583,8 +1583,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-lavender-blue-towel-with-light-pink-stitching.png?v=1792360391
     Price: E£800.00 EGP
-- [Dark Orange Microfiber Beach Towel - Sand-Free & Quick-Dry 160x80cm | X-Dry](https://www.xdry.store/products/microfiber-towel-dark-orange): Stunning Dark Orange microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Full-size 160x80cm.
-  Updated: 2026-11-02T11:39:10Z
+- [Dark Orange Microfiber Beach Towel - Sand-Free & Quick-Dry | X-Dry](https://www.xdry.store/products/microfiber-towel-dark-orange): Stunning Dark Orange microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying. Two sizes: 80x130 cm & 110x175 cm.
+  Updated: 2026-11-10T20:48:17Z
   Vendor: X-Dry
   Product Type: Beach Towels
   Availability: Available
@@ -1597,6 +1597,62 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-golden-yellow-towel.png?v=1792360241
     Price: E£800.00 EGP
+- [Dusty Plum Microfiber Beach Towel - Sand-Free & Quick-Dry  | X-Dry](https://www.xdry.store/products/microfiber-towel-dusty-plum): Stunning Dusty Plum microfiber beach towel in Egypt. Sand-free, ultra-absorbent (1L+ capacity), rapid-drying.
+  Updated: 2026-11-06T11:07:10Z
+  Vendor: X-Dry
+  Product Type: Beach Towels
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-dusty-plum-towel.png?v=1793623127
+  - [Yellow / 80 x 130 cm](https://www.xdry.store/products/microfiber-towel-dusty-plum?variant=53122772992280)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-dusty-plum-towel.png?v=1793623127
+    Price: E£500.00 EGP
+  - [Yellow / 110 x 175 cm](https://www.xdry.store/products/microfiber-towel-dusty-plum?variant=53122773025048)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wearing-dusty-plum-towel.png?v=1793623127
+    Price: E£800.00 EGP
+- [Microfiber Wrap Towel Skirt – Dark Orange | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-dark-orange): Meet the X-Dry Microfiber Wrap Towel Skirt in Dark Orange. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:19:56Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/orange-wrap-with-white-compression-shirt.png?v=1794307704
+  Price: E£850.00 EGP
+- [Microfiber Wrap Towel Skirt – Khaki | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-khaki): Meet the X-Dry Microfiber Wrap Towel Skirt in Khaki. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:19:36Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/olive-green-wrap-with-white-compression-shirt.png?v=1794307572
+  Price: E£850.00 EGP
+- [Microfiber Wrap Towel Skirt – Light Purple | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-light-purple): Meet the X-Dry Microfiber Wrap Towel Skirt in Light Purple. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:19:36Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/lavender-wrap-with-a-white-compression-shirt_946b5164-fd16-40e2-9086-9ae6ca0d6be2.png?v=1794307538
+  Price: E£850.00 EGP
+- [Microfiber Wrap Towel Skirt – Green | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-green): Meet the X-Dry Microfiber Wrap Towel Skirt in Green. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:28:05Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/grass-green-open-wrap.png?v=1794307897
+  Price: E£850.00 EGP
+- [Microfiber Wrap Towel Skirt – Green | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-hot-pink): Meet the X-Dry Microfiber Wrap Towel Skirt in Green. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:28:05Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/model-wrap-matched-to-the-open-pocket-color.png?v=1794308463
+  Price: E£850.00 EGP
+- [Microfiber Wrap Towel Skirt – Dusty Plum | X-Dry](https://www.xdry.store/products/microfiber-wrap-towel-skirt-dusty-plum): Meet the X-Dry Microfiber Wrap Towel Skirt in Dusty Plum. Adjustable waist ties, an inside pocket, and a one-size wrap fit for beach and pool days.
+  Updated: 2026-11-10T16:20:55Z
+  Vendor: X-Dry
+  Product Type: Towel Skirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0665/3090/2058/files/dusty-plum-wrap-with-white-compression-shirt.png?v=1794307991
+  Price: E£850.00 EGP
 
 ## Collections
 
@@ -1604,23 +1660,29 @@
   Updated: 2026-10-02T11:34:56Z
   Total Products: 0
 - [BEACH TOWELS](https://www.xdry.store/collections/large-towel): Shop ultra-absorbent microfiber beach towels in Egypt. Sand-free, compact, rapid-drying technology. Perfect for beach, travel & sports.
-  Updated: 2026-11-02T11:41:41Z
+  Updated: 2026-11-10T12:04:12Z
   Total Products: 14
 - [PONCHOS](https://www.xdry.store/collections/ponchos): Premium microfiber ponchos for beach and water sports in Egypt. Quick-dry, ultra-absorbent, and compact. Perfect for changing at the beach.
-  Updated: 2026-11-02T12:03:38Z
+  Updated: 2026-11-09T12:04:42Z
   Total Products: 14
-- [POKECT PONCHOS](https://www.xdry.store/collections/kangaroo-ponchos): Premium kangaroo ponchos with convenient front pocket in Egypt. Quick-dry microfiber changing robes for beach, surf, and water sports.
-  Updated: 2026-11-01T12:04:58Z
+- [POCKET PONCHOS](https://www.xdry.store/collections/kangaroo-ponchos): Premium kangaroo ponchos with convenient front pocket in Egypt. Quick-dry microfiber changing robes for beach, surf, and water sports.
+  Updated: 2026-11-10T12:04:12Z
   Total Products: 20
 - [HAIR TOWEL](https://www.xdry.store/collections/hair-towel): Premium microfiber hair towels in Egypt. Dry your hair faster with ultra-absorbent, lightweight towels. Gentle on all hair types.
-  Updated: 2026-11-02T12:03:38Z
+  Updated: 2026-11-09T12:04:42Z
   Total Products: 10
 - [PRINTED PONCHOS](https://www.xdry.store/collections/printed-poncho): Printed Poncho Upgrade your beach experience with X-Dry's Printed ponchos . These innovative changing robes combine the functionality of a towel with the convenience of a poncho Printed Poncho Features: Quick-Dry Microfiber: Dries rapidly for repeated use Ultra-Absorbent: Superior moisture absorption Easy Changing: Provides privacy while changing clothes Lightweight & Compact: Perfect for travel and beach trips Multiple Colors: Choose your favorite style Perfect for surfers, swimmers, and beach lovers in Egypt. The ultimate combination of functionality and comfort for all your water activities.
-  Updated: 2026-11-02T12:03:38Z
+  Updated: 2026-11-04T12:04:30Z
   Total Products: 6
 - [GYM TOWELS](https://www.xdry.store/collections/gym-towels): Discover X-Dry Gym Towels, designed for smarter, cleaner, and more convenient workouts. Whether you're lifting weights, training at the gym, or exercising at home, our multifunctional gym towels offer more than just sweat absorption. Built-In Storage Pocket: Keep your small gym essentials close at hand while you train. Bench Coverage: Spread the towel over gym benches and workout equipment to create a barrier between you and shared surfaces. Multifunctional Design: Use it to wipe away sweat, cover workout benches, and keep your essentials within reach. Workout Convenience: Designed to make your gym sessions more comfortable, practical, and organized. Make every workout more convenient with X-Dry Gym Towels — practical design for your active lifestyle.
-  Updated: 2026-10-25T11:05:51Z
+  Updated: 2026-11-09T12:04:42Z
   Total Products: 3
+- [All Ponchos](https://www.xdry.store/collections/all-ponchos)
+  Updated: 2026-11-10T12:04:12Z
+  Total Products: 40
+- [For Her](https://www.xdry.store/collections/for-her): Discover X-Dry essentials for women. Explore the For Her collection for everyday routines, active days, and relaxing escapes.
+  Updated: 2026-11-10T16:27:28Z
+  Total Products: 12
 
 ## Store Pages
 
@@ -1630,13 +1692,15 @@
   Updated: 2025-07-02T09:36:17Z
 - [Contact](https://www.xdry.store/pages/contact)
   Updated: 2026-06-16T20:04:10Z
+- [Business Orders | X-Dry](https://www.xdry.store/pages/business-orders): 
+  Updated: 2026-11-08T17:04:35Z
 
 ## Policies
 
 - [Privacy Policy](https://www.xdry.store/policies/privacy-policy)
   Updated: 2026-10-29T09:15:25Z
 - [Shipping Policy](https://www.xdry.store/policies/shipping-policy)
-  Updated: 2026-04-20T10:57:14Z
+  Updated: 2026-11-03T19:00:47Z
 - [Refund Policy](https://www.xdry.store/policies/refund-policy)
   Updated: 2026-04-20T10:53:52Z
 - [Terms of Service](https://www.xdry.store/policies/terms-of-service)
