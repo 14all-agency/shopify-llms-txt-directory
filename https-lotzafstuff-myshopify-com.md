@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-10-17T18:46:48Z
 - Contact Email: cjemunsta84@gmail.com
-- Updated At: 2026-11-03T00:39:57.625Z
+- Updated At: 2026-11-11T00:39:07.640Z
 
 ## Products
 
@@ -2600,179 +2600,157 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/af992c27475396c55c0dd8fbedc5.jpg?v=1792276767
     Price: $14.16 USD
-- [Blue Luminous Smart Butterfly Necklace](https://lotzafstuff.myshopify.com/products/blue-luminous-smart-butterfly-necklace): Material: Pendant Material: Alloy Chain Material: Titanium Steel  Process: Electroplating Design Style: Sweet Popular Element: Butterfly Shape: Butterfly Product Details: Color: Fluorescent Butterfly Necklace Chain Style: Cross Chain Applicable People: Women Style: Sweet, feminine, and elegant design featuring a butterfly motif. Packing List: 1 x Necklace
-  Updated: 2026-10-30T17:50:49Z
-  Vendor: My Store 5
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/1e1c3f99445bbad7bf656f524911.png?v=1792276767
-  - [Black](https://lotzafstuff.myshopify.com/products/blue-luminous-smart-butterfly-necklace?variant=67840780435744)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/b24257e94874b65cf0aa415a1063.png?v=1792276767
-    Price: $2.37 USD
-  - [Fluorescent Butterfly Bracelet](https://lotzafstuff.myshopify.com/products/blue-luminous-smart-butterfly-necklace?variant=67840780468512)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/0abf1933466296c31f5f4d0b7d1e.png?v=1792276767
-    Price: $1.38 USD
-  - [Black and white](https://lotzafstuff.myshopify.com/products/blue-luminous-smart-butterfly-necklace?variant=67840780501280)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/3eabfedf4d95a5d410a1e3f46011.png?v=1792276767
-    Price: $2.37 USD
-  - [Fluorescent Butterfly Necklace](https://lotzafstuff.myshopify.com/products/blue-luminous-smart-butterfly-necklace?variant=67840780534048)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1026/7879/0432/files/1ce8bd4643fabe7256cd4c94fa4c.png?v=1792276767
-    Price: $1.92 USD
-[List Continued](https://lotzafstuff.myshopify.com/a/llms-agent/llms.txt?shop=kjfprk-dx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2Njk2MTczMTg3MiwibGFzdF92YWx1ZSI6IjE1NDY2OTYxNzMxODcyIn0%3D)
+[List Continued](https://lotzafstuff.myshopify.com/a/llms-agent/llms.txt?shop=kjfprk-dx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ2Njk2MTY5OTEwNCwibGFzdF92YWx1ZSI6IjE1NDY2OTYxNjk5MTA0In0%3D)
 
 ## Collections
 
 - [Home page](https://lotzafstuff.myshopify.com/collections/frontpage)
-  Updated: 2026-10-29T03:45:51Z
-  Total Products: 1
+  Updated: 2026-11-08T21:41:36Z
+  Total Products: 2
 - [Best Sellers](https://lotzafstuff.myshopify.com/collections/best-sellers): Collection
-  Updated: 2026-10-28T19:36:03Z
-  Total Products: 226
+  Updated: 2026-11-09T01:35:11Z
+  Total Products: 328
 - [Trending Deals](https://lotzafstuff.myshopify.com/collections/trending-deals): Collection
-  Updated: 2026-10-22T20:44:44Z
-  Total Products: 37
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 47
 - [Jewelry](https://lotzafstuff.myshopify.com/collections/jewelry): Collection
-  Updated: 2026-10-22T20:29:11Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:22Z
+  Total Products: 91
 - [Health Care](https://lotzafstuff.myshopify.com/collections/health-care): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 96
 - [Toys](https://lotzafstuff.myshopify.com/collections/toys): Collection
-  Updated: 2026-10-22T00:40:42Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 95
 - [Electronics](https://lotzafstuff.myshopify.com/collections/electronics): Collection
-  Updated: 2026-10-22T21:10:03Z
-  Total Products: 78
+  Updated: 2026-11-09T01:25:13Z
+  Total Products: 97
 - [Clothing](https://lotzafstuff.myshopify.com/collections/clothing): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 81
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 101
 - [Pet Supplies](https://lotzafstuff.myshopify.com/collections/pet-supplies): Collection
-  Updated: 2026-10-22T00:40:47Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:16Z
+  Total Products: 95
 - [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 82
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 102
 - [Personal Care](https://lotzafstuff.myshopify.com/collections/personal-care): Collection
-  Updated: 2026-10-28T18:01:46Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 91
 - [Household Supplies](https://lotzafstuff.myshopify.com/collections/household-supplies): Collection
-  Updated: 2026-10-29T03:45:51Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:20Z
+  Total Products: 91
 - [Best Sellers](https://lotzafstuff.myshopify.com/collections/best-sellers-1): Collection
-  Updated: 2026-10-28T19:36:03Z
-  Total Products: 226
+  Updated: 2026-11-09T01:35:11Z
+  Total Products: 328
 - [Trending Deals](https://lotzafstuff.myshopify.com/collections/trending-deals-1): Collection
-  Updated: 2026-10-22T20:45:27Z
-  Total Products: 37
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 47
 - [Toys](https://lotzafstuff.myshopify.com/collections/toys-1): Collection
-  Updated: 2026-10-22T00:40:42Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 95
 - [Pet Supplies](https://lotzafstuff.myshopify.com/collections/pet-supplies-1): Collection
-  Updated: 2026-10-22T00:40:47Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:16Z
+  Total Products: 95
 - [Clothing](https://lotzafstuff.myshopify.com/collections/clothing-1): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 81
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 101
 - [Jewelry](https://lotzafstuff.myshopify.com/collections/jewelry-1): Collection
-  Updated: 2026-10-22T20:29:11Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:22Z
+  Total Products: 91
 - [Health Care](https://lotzafstuff.myshopify.com/collections/health-care-1): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 96
 - [Household Supplies](https://lotzafstuff.myshopify.com/collections/household-supplies-1): Collection
-  Updated: 2026-10-29T03:45:51Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:20Z
+  Total Products: 91
 - [Personal Care](https://lotzafstuff.myshopify.com/collections/personal-care-1): Collection
-  Updated: 2026-10-28T18:01:46Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 91
 - [Electronics](https://lotzafstuff.myshopify.com/collections/electronics-1): Collection
-  Updated: 2026-10-22T21:10:03Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:13Z
+  Total Products: 96
 - [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty-1): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 82
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 102
 - [Best Sellers](https://lotzafstuff.myshopify.com/collections/best-sellers-2): Collection
-  Updated: 2026-10-28T19:36:03Z
-  Total Products: 226
+  Updated: 2026-11-09T01:35:11Z
+  Total Products: 328
 - [Trending Deals](https://lotzafstuff.myshopify.com/collections/trending-deals-2): Collection
-  Updated: 2026-10-22T20:45:28Z
-  Total Products: 37
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 47
 - [Health Care](https://lotzafstuff.myshopify.com/collections/health-care-2): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 96
 - [Household Supplies](https://lotzafstuff.myshopify.com/collections/household-supplies-2): Collection
-  Updated: 2026-10-29T03:45:51Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:20Z
+  Total Products: 91
 - [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty-2): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 82
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 102
 - [Jewelry](https://lotzafstuff.myshopify.com/collections/jewelry-2): Collection
-  Updated: 2026-10-22T20:29:11Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:22Z
+  Total Products: 91
 - [Personal Care](https://lotzafstuff.myshopify.com/collections/personal-care-2): Collection
-  Updated: 2026-10-28T18:01:46Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 91
 - [Clothing](https://lotzafstuff.myshopify.com/collections/clothing-2): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 81
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 101
 - [Pet Supplies](https://lotzafstuff.myshopify.com/collections/pet-supplies-2): Collection
-  Updated: 2026-10-22T00:40:47Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:16Z
+  Total Products: 95
 - [Electronics](https://lotzafstuff.myshopify.com/collections/electronics-2): Collection
-  Updated: 2026-10-22T21:10:03Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:13Z
+  Total Products: 96
 - [Toys](https://lotzafstuff.myshopify.com/collections/toys-2): Collection
-  Updated: 2026-10-22T00:40:42Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 95
 - [Best Sellers](https://lotzafstuff.myshopify.com/collections/best-sellers-3): Collection
-  Updated: 2026-10-28T19:36:03Z
-  Total Products: 226
+  Updated: 2026-11-09T01:35:11Z
+  Total Products: 329
 - [Trending Deals](https://lotzafstuff.myshopify.com/collections/trending-deals-3): Collection
-  Updated: 2026-10-22T20:45:28Z
-  Total Products: 37
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 47
 - [Clothing](https://lotzafstuff.myshopify.com/collections/clothing-3): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 81
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 101
 - [Pet Supplies](https://lotzafstuff.myshopify.com/collections/pet-supplies-3): Collection
-  Updated: 2026-10-22T00:40:47Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:16Z
+  Total Products: 95
 - [Health Care](https://lotzafstuff.myshopify.com/collections/health-care-3): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 96
 - [Personal Care](https://lotzafstuff.myshopify.com/collections/personal-care-3): Collection
-  Updated: 2026-10-28T18:01:46Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 91
 - [Jewelry](https://lotzafstuff.myshopify.com/collections/jewelry-3): Collection
-  Updated: 2026-10-22T20:29:11Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:22Z
+  Total Products: 91
 - [Electronics](https://lotzafstuff.myshopify.com/collections/electronics-3): Collection
-  Updated: 2026-10-22T21:10:03Z
-  Total Products: 77
+  Updated: 2026-11-09T01:25:13Z
+  Total Products: 96
 - [Household Supplies](https://lotzafstuff.myshopify.com/collections/household-supplies-3): Collection
-  Updated: 2026-10-29T03:45:51Z
-  Total Products: 73
+  Updated: 2026-11-09T01:25:20Z
+  Total Products: 91
 - [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty-3): Collection
-  Updated: 2026-10-27T11:28:59Z
-  Total Products: 82
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 102
 - [Toys](https://lotzafstuff.myshopify.com/collections/toys-3): Collection
-  Updated: 2026-10-22T00:40:42Z
-  Total Products: 76
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 95
 - [Digital Goods VAT Tax](https://lotzafstuff.myshopify.com/collections/digital-goods-vat-tax)
-  Updated: 2026-10-22T18:50:59Z
-  Total Products: 0
+  Updated: 2026-11-07T17:42:03Z
+  Total Products: 2
 - [Electronics Accessories](https://lotzafstuff.myshopify.com/collections/electronics-accessories)
   Updated: 2026-10-22T20:44:43Z
   Total Products: 4
 - [Home & Garden](https://lotzafstuff.myshopify.com/collections/home-garden)
-  Updated: 2026-10-27T11:28:59Z
+  Updated: 2026-11-03T08:27:55Z
   Total Products: 1
 - [Toys](https://lotzafstuff.myshopify.com/collections/toys-4)
-  Updated: 2026-10-22T18:55:37Z
-  Total Products: 2
+  Updated: 2026-11-03T11:46:26Z
+  Total Products: 3
 - [Handbags & Wallets](https://lotzafstuff.myshopify.com/collections/handbags-wallets)
   Updated: 2026-10-22T18:59:57Z
   Total Products: 1
@@ -2792,8 +2770,41 @@
   Updated: 2026-10-27T18:59:22Z
   Total Products: 32
 - [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty-4)
-  Updated: 2026-10-27T18:27:28Z
-  Total Products: 1
+  Updated: 2026-11-03T10:46:09Z
+  Total Products: 2
+- [Best Sellers](https://lotzafstuff.myshopify.com/collections/best-sellers-4): Collection
+  Updated: 2026-11-09T01:35:11Z
+  Total Products: 328
+- [Trending Deals](https://lotzafstuff.myshopify.com/collections/trending-deals-4): Collection
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 47
+- [Personal Care](https://lotzafstuff.myshopify.com/collections/personal-care-4): Collection
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 91
+- [Household Supplies](https://lotzafstuff.myshopify.com/collections/household-supplies-4): Collection
+  Updated: 2026-11-09T01:25:20Z
+  Total Products: 91
+- [Pet Supplies](https://lotzafstuff.myshopify.com/collections/pet-supplies-4): Collection
+  Updated: 2026-11-09T01:25:16Z
+  Total Products: 95
+- [Health & Beauty](https://lotzafstuff.myshopify.com/collections/health-beauty-5): Collection
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 102
+- [Electronics](https://lotzafstuff.myshopify.com/collections/electronics-4): Collection
+  Updated: 2026-11-09T01:25:13Z
+  Total Products: 96
+- [Health Care](https://lotzafstuff.myshopify.com/collections/health-care-4): Collection
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 96
+- [Jewelry](https://lotzafstuff.myshopify.com/collections/jewelry-5): Collection
+  Updated: 2026-11-09T01:25:22Z
+  Total Products: 91
+- [Toys](https://lotzafstuff.myshopify.com/collections/toys-5): Collection
+  Updated: 2026-11-09T01:25:19Z
+  Total Products: 95
+- [Clothing](https://lotzafstuff.myshopify.com/collections/clothing-4): Collection
+  Updated: 2026-11-09T01:25:21Z
+  Total Products: 101
 
 ## Blogs
 
@@ -2806,6 +2817,15 @@
     Author: Volvobeatzz
   - [Your Guide to Achieving Financial Freedom and Making Money Online with Ease](https://lotzafstuff.myshopify.com/blogs/news/your-guide-to-achieving-financial-freedom-and-making-money-online-with-ease): Your Guide to Achieving Financial Freedom and Making Money Online with Ease
     Updated: 2026-11-02T19:00:24Z
+    Author: Volvobeatzz
+  - [How Digital Products Can Help You Attain Financial Freedom from Home](https://lotzafstuff.myshopify.com/blogs/news/how-digital-products-can-help-you-attain-financial-freedom-from-home): How Digital Products Can Help You Attain Financial Freedom from Home
+    Updated: 2026-11-04T19:00:22Z
+    Author: Volvobeatzz
+  - [Unleashing the Secrets of Smart Money with Digital Products for Financial Freedom](https://lotzafstuff.myshopify.com/blogs/news/unleashing-the-secrets-of-smart-money-with-digital-products-for-financial-freedom): Unleashing the Secrets of Smart Money with Digital Products for Financial Freedom
+    Updated: 2026-11-07T19:00:20Z
+    Author: Volvobeatzz
+  - [FAQs About Making Money Online and Achieving Financial Freedom through Digital Products](https://lotzafstuff.myshopify.com/blogs/news/faqs-about-making-money-online-and-achieving-financial-freedom-through-digital-products): FAQs About Making Money Online and Achieving Financial Freedom through Digital Products
+    Updated: 2026-11-09T19:01:44Z
     Author: Volvobeatzz
 
 ## Store Pages
