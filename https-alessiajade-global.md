@@ -6,7 +6,7 @@
 - Timezone: Australia/Sydney
 - Created At: 2023-07-20T03:03:16Z
 - Contact Email: info@alessiajade.global
-- Updated At: 2026-11-03T00:27:55.675Z
+- Updated At: 2026-11-11T00:25:16.453Z
 
 ALESSIA JADE was created with a simple belief: luxury should feel thoughtful.
 
