@@ -7,12 +7,12 @@
 - Created At: 2026-09-02T13:56:49Z
 - Contact Email: info@creativetopsinc.com
 - Contact Phone: 888-702-8281
-- Updated At: 2026-11-04T00:52:09.903Z
+- Updated At: 2026-11-11T01:01:41.793Z
 
 ## Products
 
-- [Tiseco Togo Double-Sided Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-rectangular): Tiseco Togo rectangular placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof and wipe clean. Made in Belgium. Eight colours.
-  Updated: 2026-10-30T08:15:28Z
+- [Tiseco Togo Double-Sided Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-rectangular): Tiseco Togo rectangular placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof and wipe clean. Designed in Belgium. Eight colours.
+  Updated: 2026-11-06T01:46:12Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -49,8 +49,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0435_CARAMEL.png?v=1790185829
     Price: $72.00 USD
-- [Tiseco Togo Double-Sided Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-oval): Tiseco Togo oval placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof, stain repellent, wipe clean. Made in Belgium. Eight colours.
-  Updated: 2026-10-30T08:15:27Z
+- [Tiseco Togo Double-Sided Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/togo-double-sided-placemat-oval): Tiseco Togo oval placemats in faux leather, double sided, 13 x 18 in, set of 4. Waterproof, stain repellent, wipe clean. Designed in Belgium. Eight colours.
+  Updated: 2026-11-06T01:46:11Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -87,8 +87,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0436CARAMEL.jpg?v=1790185819
     Price: $72.00 USD
-- [Tiseco Arbin Woven Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular): Tiseco Arbin textured vegan leather placemats with a woven grain, 13 x 18 in, set of 4. Waterproof and wipe clean. Made in Belgium. Four colours.
-  Updated: 2026-10-30T00:23:22Z
+- [Tiseco Arbin Woven Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/arbin-woven-vegan-leather-placemat-rectangular): Tiseco Arbin textured vegan leather placemats with a woven grain, 13 x 18 in, set of 4. Waterproof and wipe clean. Designed in Belgium. Four colours.
+  Updated: 2026-11-06T01:46:12Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -109,8 +109,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0590_TAUPE.jpg?v=1790185789
     Price: $72.00 USD
-- [Tiseco Purus Antibacterial Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-rectangular): Tiseco Purus rectangular placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free, made for family tables. Made in Belgium.
-  Updated: 2026-10-30T08:15:30Z
+- [Tiseco Purus Antibacterial Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-rectangular): Tiseco Purus rectangular placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free, made for family tables. Designed in Belgium.
+  Updated: 2026-11-06T01:46:12Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -135,8 +135,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0625_SAND.jpg?v=1790185762
     Price: $48.00 USD
-- [Tiseco Purus Antibacterial Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-oval): Tiseco Purus oval placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free and easy to clean. Made in Belgium.
-  Updated: 2026-10-30T08:15:29Z
+- [Tiseco Purus Antibacterial Oval Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/purus-microban-antibacterial-placemat-oval): Tiseco Purus oval placemats with Microban antibacterial protection, 13 x 18 in, set of 4. Phthalate free and easy to clean. Designed in Belgium.
+  Updated: 2026-11-06T01:46:13Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -161,8 +161,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0626SAND.png?v=1790185751
     Price: $48.00 USD
-- [Tiseco Trudo Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/trudo-stitched-vegan-leather-placemat-rectangular): Tiseco Trudo stitched vegan leather placemats, 13 x 18 in, set of 4. Double sided, waterproof and wipe clean. Made in Belgium. Six colours.
-  Updated: 2026-10-30T08:15:27Z
+- [Tiseco Trudo Vegan Leather Placemats, Set of 4](https://creative-tops-home.myshopify.com/products/trudo-stitched-vegan-leather-placemat-rectangular): Tiseco Trudo stitched vegan leather placemats, 13 x 18 in, set of 4. Double sided, waterproof and wipe clean. Designed in Belgium. Six colours.
+  Updated: 2026-11-06T01:46:14Z
   Vendor: Tiseco
   Product Type: Placemats
   Availability: Available
@@ -191,8 +191,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0602_TAUPE.jpg?v=1790185562
     Price: $72.00 USD
-- [Tiseco Silo Cotton Oven Mitts, Left & Right Pair](https://creative-tops-home.myshopify.com/products/silo-oven-gloves-set-of-2): Tiseco Silo cotton oven mitts with silicone grip, sold as a left and right pair. Heat resistant, with hanging loop. Made in Belgium. Five colours.
-  Updated: 2026-10-30T08:15:28Z
+- [Tiseco Silo Cotton Oven Mitts, Left & Right Pair](https://creative-tops-home.myshopify.com/products/silo-oven-gloves-set-of-2): Tiseco Silo cotton oven mitts with silicone grip, sold as a left and right pair. Heat resistant, with hanging loop. Designed in Belgium. Five colours.
+  Updated: 2026-11-06T01:46:12Z
   Vendor: Tiseco
   Product Type: Oven Mitts
   Availability: Available
@@ -217,8 +217,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0630TERRACOTTA.jpg?v=1790185536
     Price: $35.00 USD
-- [Tiseco Silo Cotton Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/silo-grippers-set-of-2): Tiseco Silo cotton pot holders with silicone grip panel, 5.5 x 8.5 in, set of 2. Heat resistant, with hanging loops. Made in Belgium. Five colours.
-  Updated: 2026-10-30T08:15:29Z
+- [Tiseco Silo Cotton Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/silo-grippers-set-of-2): Tiseco Silo cotton pot holders with silicone grip panel, 5.5 x 8.5 in, set of 2. Heat resistant, with hanging loops. Designed in Belgium. Five colours.
+  Updated: 2026-11-06T01:46:36Z
   Vendor: Tiseco
   Product Type: Pot Holders
   Availability: Available
@@ -243,8 +243,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0629TERRACOTTA.jpg?v=1790185538
     Price: $25.00 USD
-- [Tiseco Silo Cotton Kitchen Towels, Set of 2](https://creative-tops-home.myshopify.com/products/silo-kitchen-towels-set-of-2): Tiseco Silo 100% cotton kitchen towels, 15.7 x 23.6 in, set of 2. Absorbent from the first wash, with hanging loops. Made in Belgium. Five colours.
-  Updated: 2026-10-30T08:15:26Z
+- [Tiseco Silo Cotton Kitchen Towels, Set of 2](https://creative-tops-home.myshopify.com/products/silo-kitchen-towels-set-of-2): Tiseco Silo 100% cotton kitchen towels, 15.7 x 23.6 in, set of 2. Absorbent from the first wash, with hanging loops. Designed in Belgium. Five colours.
+  Updated: 2026-11-06T01:46:36Z
   Vendor: Tiseco
   Product Type: Kitchen Towels
   Availability: Available
@@ -269,8 +269,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0631TERRACOTTA.jpg?v=1790185454
     Price: $18.00 USD
-- [Tiseco Silo Silicone Kitchen Sponges, Set of 2](https://creative-tops-home.myshopify.com/products/silo-reusable-silicone-kitchen-sponges-set-of-2): Tiseco Silo reusable silicone sponges, set of 2. Scratch free on glass and non-stick, no sour smell, dishwasher safe. Made in Belgium. Five colours.
-  Updated: 2026-10-30T08:15:27Z
+- [Tiseco Silo Silicone Kitchen Sponges, Set of 2](https://creative-tops-home.myshopify.com/products/silo-reusable-silicone-kitchen-sponges-set-of-2): Tiseco Silo reusable silicone sponges, set of 2. Scratch free on glass and non-stick, no sour smell, dishwasher safe. Designed in Belgium. Five colours.
+  Updated: 2026-11-06T01:46:37Z
   Vendor: Tiseco
   Product Type: Cleaning Sponges
   Availability: Available
@@ -295,8 +295,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/ZZ0633TERRACOTTA.jpg?v=1790185439
     Price: $6.00 USD
-- [Tiseco Velmar Quilted Cotton Apron](https://creative-tops-home.myshopify.com/products/velmar-quilted-apron): Tiseco Velmar diamond-quilted apron in 80% cotton velour rib, 27.5 x 33.5 in, with adjustable neck strap and front pocket. Made in Belgium. Three colours.
-  Updated: 2026-10-30T08:15:27Z
+- [Tiseco Velmar Quilted Cotton Apron](https://creative-tops-home.myshopify.com/products/velmar-quilted-apron): Tiseco Velmar diamond-quilted apron in 80% cotton velour rib, 27.5 x 33.5 in, with adjustable neck strap and front pocket. Designed in Belgium. Three colours.
+  Updated: 2026-11-06T01:46:36Z
   Vendor: Tiseco
   Product Type: Aprons
   Availability: Available
@@ -313,8 +313,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9677TAUPE.jpg?v=1790185420
     Price: $40.00 USD
-- [Tiseco Velmar Quilted Oven Mitts, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-oven-gloves-set-of-2): Tiseco Velmar quilted oven mitts in cotton velour rib with silicone grip, 13 in long, set of 2. Heat resistant, made in Belgium. Three colours.
-  Updated: 2026-10-30T08:15:24Z
+- [Tiseco Velmar Quilted Oven Mitts, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-oven-gloves-set-of-2): Tiseco Velmar quilted oven mitts in cotton velour rib with silicone grip, 13 in long, set of 2. Heat resistant, designed in Belgium. Three colours.
+  Updated: 2026-11-06T01:46:36Z
   Vendor: Tiseco
   Product Type: Oven Mitts
   Availability: Available
@@ -331,8 +331,8 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/9679TAUPE.jpg?v=1790185421
     Price: $40.00 USD
-- [Tiseco Velmar Quilted Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-grippers-set-of-2): Tiseco Velmar quilted pot holders in cotton velour rib with silicone grip, 5.5 x 7 in, set of 2. Heat resistant, made in Belgium. Three colours.
-  Updated: 2026-10-30T08:15:28Z
+- [Tiseco Velmar Quilted Pot Holders, Set of 2](https://creative-tops-home.myshopify.com/products/velmar-quilted-grippers-set-of-2): Tiseco Velmar quilted pot holders in cotton velour rib with silicone grip, 5.5 x 7 in, set of 2. Heat resistant, designed in Belgium. Three colours.
+  Updated: 2026-11-05T13:46:38Z
   Vendor: Tiseco
   Product Type: Pot Holders
   Availability: Available
@@ -766,6 +766,159 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/1015K_unpacked_gigogne_tumbler_9cl_black__3.jpg?v=1789994240
   Price: $27.00 USD
+- [Coastal Table Set | Marine Blue Picardie Tumblers & Placemat](https://creative-tops-home.myshopify.com/products/coastal-table): Le Picardie Marine blue tumblers in four sizes with a double-sided Togo placemat in Bluestone or Blue. Tempered, stackable glass and a wipe-clean mat.
+  Updated: 2026-11-10T22:09:57Z
+  Vendor: Creative Tops Home
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/Square.png?v=1794232938
+  - [Bluestone / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609337586)
+    Availability: Available
+    Price: $104.00 USD
+  - [Bluestone / 10.375 oz / 31 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609370354)
+    Availability: Available
+    Price: $110.00 USD
+  - [Bluestone / 12.125 oz / 36 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609403122)
+    Availability: Available
+    Price: $114.00 USD
+  - [Bluestone / 6.75 oz / 20 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609435890)
+    Availability: Available
+    Price: $102.00 USD
+  - [Blue / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609468658)
+    Availability: Available
+    Price: $104.00 USD
+  - [Blue / 10.375 oz / 31 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609501426)
+    Availability: Available
+    Price: $110.00 USD
+  - [Blue / 12.125 oz / 36 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609534194)
+    Availability: Available
+    Price: $114.00 USD
+  - [Blue / 6.75 oz / 20 cl](https://creative-tops-home.myshopify.com/products/coastal-table?variant=50528609566962)
+    Availability: Available
+    Price: $102.00 USD
+- [Warm Neutrals Dinner Set | Amber Glasses & Vegan Leather Mat](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner): Duralex Lys amber tumblers with a stitched Trudo vegan leather placemat in six warm neutrals. Dishwasher-safe glass and a wipe-clean, double-sided mat.
+  Updated: 2026-11-10T21:28:46Z
+  Vendor: Creative Tops Home
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/Square_1.png?v=1794233051
+  - [Black / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685293810)
+    Availability: Available
+    Price: $106.00 USD
+  - [Black / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685326578)
+    Availability: Available
+    Price: $117.00 USD
+  - [Black / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685359346)
+    Availability: Available
+    Price: $101.00 USD
+  - [Caramel / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685392114)
+    Availability: Available
+    Price: $106.00 USD
+  - [Caramel / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685424882)
+    Availability: Available
+    Price: $117.00 USD
+  - [Caramel / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685457650)
+    Availability: Available
+    Price: $101.00 USD
+  - [Sand / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685490418)
+    Availability: Available
+    Price: $106.00 USD
+  - [Sand / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685523186)
+    Availability: Available
+    Price: $117.00 USD
+  - [Sand / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685555954)
+    Availability: Available
+    Price: $101.00 USD
+  - [Cream / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685588722)
+    Availability: Available
+    Price: $106.00 USD
+  - [Cream / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685621490)
+    Availability: Available
+    Price: $117.00 USD
+  - [Cream / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685654258)
+    Availability: Available
+    Price: $101.00 USD
+  - [Grey / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685687026)
+    Availability: Available
+    Price: $106.00 USD
+  - [Grey / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685719794)
+    Availability: Available
+    Price: $117.00 USD
+  - [Grey / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685752562)
+    Availability: Available
+    Price: $101.00 USD
+  - [Taupe / 7 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685785330)
+    Availability: Available
+    Price: $106.00 USD
+  - [Taupe / 9.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685818098)
+    Availability: Available
+    Price: $117.00 USD
+  - [Taupe / 5.375 oz](https://creative-tops-home.myshopify.com/products/warm-neutrals-dinner?variant=50528685850866)
+    Availability: Available
+    Price: $101.00 USD
+- [Noir Limited Edition | Black Duralex Glasses & Woven Placemat](https://creative-tops-home.myshopify.com/products/noir-limited-edition): Limited-edition black Le Picardie and Le Gigogne tumblers by Duralex, made in France, with a textured Arbin vegan leather placemat. Colour that never fades.
+  Updated: 2026-11-10T21:28:51Z
+  Vendor: Creative Tops Home
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/Square_2.png?v=1794233091
+  - [Black / 3 oz / 9 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712130802)
+    Availability: Available
+    Price: $126.00 USD
+  - [Black / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712163570)
+    Availability: Available
+    Price: $149.00 USD
+  - [Brown / 3 oz / 9 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712196338)
+    Availability: Available
+    Price: $126.00 USD
+  - [Brown / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712229106)
+    Availability: Available
+    Price: $149.00 USD
+  - [Dark Grey / 3 oz / 9 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712261874)
+    Availability: Available
+    Price: $126.00 USD
+  - [Dark Grey / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712294642)
+    Availability: Available
+    Price: $149.00 USD
+  - [Taupe / 3 oz / 9 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712327410)
+    Availability: Available
+    Price: $126.00 USD
+  - [Taupe / 8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/noir-limited-edition?variant=50528712360178)
+    Availability: Available
+    Price: $149.00 USD
+- [Coffee Morning Set | Glass Espresso Mugs & Oval Placemat](https://creative-tops-home.myshopify.com/products/coffee-morning): Six tempered glass espresso mugs with a Microban-treated oval Purus placemat in five café neutrals. Microwave, dishwasher and freezer safe.
+  Updated: 2026-11-10T21:50:37Z
+  Vendor: Creative Tops Home
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/Square_3.png?v=1794233123
+  - [Cappuccino](https://creative-tops-home.myshopify.com/products/coffee-morning?variant=50528719339762)
+    Availability: Available
+    Price: $84.00 USD
+  - [Dark Grey](https://creative-tops-home.myshopify.com/products/coffee-morning?variant=50528719372530)
+    Availability: Available
+    Price: $84.00 USD
+  - [Stracciatella](https://creative-tops-home.myshopify.com/products/coffee-morning?variant=50528719405298)
+    Availability: Available
+    Price: $84.00 USD
+  - [Mocha](https://creative-tops-home.myshopify.com/products/coffee-morning?variant=50528719438066)
+    Availability: Available
+    Price: $84.00 USD
+  - [Sand](https://creative-tops-home.myshopify.com/products/coffee-morning?variant=50528719470834)
+    Availability: Available
+    Price: $84.00 USD
+- [Green Kitchen Kit | Picardie Tumblers & Silo Textiles](https://creative-tops-home.myshopify.com/products/green-kitchen-kit): Six Le Picardie green tumblers plus Silo oven gloves, grippers, towels and silicone sponges in matching Green Tea. A complete kitchen refresh or housewarming gift.
+  Updated: 2026-11-10T21:28:46Z
+  Vendor: Creative Tops Home
+  Product Type: Gift Set
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0852/3173/0930/files/Square_4_afb058ee-7537-42a7-98d2-3f9bdce56f4a.png?v=1794233175
+  - [8.375 oz / 25 cl](https://creative-tops-home.myshopify.com/products/green-kitchen-kit?variant=50528722288882)
+    Availability: Available
+    Price: $116.00 USD
+  - [10.375 oz / 31 cl](https://creative-tops-home.myshopify.com/products/green-kitchen-kit?variant=50528722321650)
+    Availability: Not Available
+    Price: $122.00 USD
 
 ## Collections
 
@@ -778,15 +931,15 @@
 - [Tiseco](https://creative-tops-home.myshopify.com/collections/tiseco): Tiseco home textiles from Belgium, since 1946: vegan leather placemats, cotton kitchen towels, oven mitts and aprons. OEKO-TEX . Free US shipping.
   Updated: 2026-10-29T12:06:59Z
   Total Products: 13
-- [Kitchen](https://creative-tops-home.myshopify.com/collections/kitchen): Cotton kitchen towels, quilted oven mitts, pot holders, aprons and silicone sponges made in Belgium. Built for daily cooking. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:58Z
+- [Kitchen](https://creative-tops-home.myshopify.com/collections/kitchen): Cotton kitchen towels, quilted oven mitts, pot holders, aprons and silicone sponges designed in Belgium. Built for daily cooking. Free US shipping over $150.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 7
-- [New in](https://creative-tops-home.myshopify.com/collections/new-in): The latest additions to Creative Tops Home: limited edition glass tumblers, new colors and table essentials. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:58Z
+- [New in](https://creative-tops-home.myshopify.com/collections/new-in): The latest additions to Creative Tops Home: limited edition glass tumblers, new colors and table essentials. Free US shipping over $150.
+  Updated: 2026-11-10T10:35:30Z
   Total Products: 46
-- [Gifting & Sets](https://creative-tops-home.myshopify.com/collections/gifting-sets): Ready-to-give sets of glass tumblers, mugs and table textiles. Thoughtful gifts for hosts, coffee lovers and new homes. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:57Z
-  Total Products: 0
+- [Gifting & Sets](https://creative-tops-home.myshopify.com/collections/gifting-sets): Ready-to-give sets of glass tumblers, mugs and table textiles. Thoughtful gifts for hosts, coffee lovers and new homes. Free US shipping over $150.
+  Updated: 2026-11-10T10:35:30Z
+  Total Products: 5
 - [Gigogne](https://creative-tops-home.myshopify.com/collections/gigogne): The Gigogne collection: stackable tempered glass tumblers and mugs, from 3 oz espresso glasses to 12 oz tumblers. Made in France.
   Updated: 2026-10-29T12:06:58Z
   Total Products: 3
@@ -799,32 +952,32 @@
 - [Storage Containers](https://creative-tops-home.myshopify.com/collections/storage-containers): Leakproof tempered glass food storage containers with locking lids. Microwave and dishwasher safe, for lunches, leftovers and meal prep.
   Updated: 2026-10-29T12:06:59Z
   Total Products: 2
-- [Pot Holders](https://creative-tops-home.myshopify.com/collections/pot-holders): Cotton and quilted pot holders with silicone grip, set of 2. Compact, heat resistant and ready to hang by the stove. Made in Belgium.
-  Updated: 2026-10-29T12:06:59Z
+- [Pot Holders](https://creative-tops-home.myshopify.com/collections/pot-holders): Cotton and quilted pot holders with silicone grip, set of 2. Compact, heat resistant and ready to hang by the stove. Designed in Belgium.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 2
 - [Placemats](https://creative-tops-home.myshopify.com/collections/placemats-1): Placemats in vegan leather, faux leather and antibacterial weaves. Rectangular and oval, 13 x 18 in, waterproof and wipe clean.
   Updated: 2026-10-29T12:06:59Z
   Total Products: 6
-- [Oven Mitts](https://creative-tops-home.myshopify.com/collections/oven-mitts): Cotton and quilted oven mitts with silicone grip, sold in pairs. Heat resistant with hanging loops, made in Belgium. Several colors.
-  Updated: 2026-10-29T12:06:58Z
+- [Oven Mitts](https://creative-tops-home.myshopify.com/collections/oven-mitts): Cotton and quilted oven mitts with silicone grip, sold in pairs. Heat resistant with hanging loops, designed in Belgium. Several colors.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 2
-- [Kitchen Towels](https://creative-tops-home.myshopify.com/collections/kitchen-towels): 100% cotton kitchen towels, set of 2, absorbent from the first wash with hanging loops. Made in Belgium in easy-to-match colors.
-  Updated: 2026-10-29T12:06:58Z
+- [Kitchen Towels](https://creative-tops-home.myshopify.com/collections/kitchen-towels): 100% cotton kitchen towels, set of 2, absorbent from the first wash with hanging loops. Designed in Belgium in easy-to-match colors.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 1
-- [Cleaning Sponges](https://creative-tops-home.myshopify.com/collections/cleaning-sponges): Reusable silicone kitchen sponges that clean without scratching glass or non-stick pans. No sour smell, dishwasher safe, made in Belgium.
-  Updated: 2026-10-29T12:06:56Z
+- [Cleaning Sponges](https://creative-tops-home.myshopify.com/collections/cleaning-sponges): Reusable silicone kitchen sponges that clean without scratching glass or non-stick pans. No sour smell, dishwasher safe, designed in Belgium.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 1
-- [Aprons](https://creative-tops-home.myshopify.com/collections/aprons): Quilted cotton kitchen aprons with adjustable neck strap and front pocket, made in Belgium. Soft, structured and built for daily cooking. Free US shipping.
-  Updated: 2026-10-29T12:06:56Z
+- [Aprons](https://creative-tops-home.myshopify.com/collections/aprons): Quilted cotton kitchen aprons with adjustable neck strap and front pocket, designed in Belgium. Soft, structured and built for daily cooking. Free US shipping.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 1
-- [Bestsellers](https://creative-tops-home.myshopify.com/collections/bestsellers): Our most loved pieces: French glass tumblers, stackable mugs and everyday table essentials. Free US shipping over $120 and easy 30-day returns.
-  Updated: 2026-10-29T12:06:56Z
+- [Bestsellers](https://creative-tops-home.myshopify.com/collections/bestsellers): Our most loved pieces: French glass tumblers, stackable mugs and everyday table essentials. Free US shipping over $150 and easy 30-day returns.
+  Updated: 2026-11-10T10:35:30Z
   Total Products: 46
-- [Glassware](https://creative-tops-home.myshopify.com/collections/glassware): French tempered glass tumblers and mugs, stackable, chip resistant and dishwasher safe. Classic café designs in clear and color. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:59Z
+- [Glassware](https://creative-tops-home.myshopify.com/collections/glassware): French tempered glass tumblers and mugs, stackable, chip resistant and dishwasher safe. Classic café designs in clear and color. Free US shipping over $150.
+  Updated: 2026-11-05T12:54:40Z
   Total Products: 34
-- [Tableware](https://creative-tops-home.myshopify.com/collections/tableware): Shop tableware for everyday dining: tempered glass tumblers, mugs, vegan leather placemats and fine porcelain. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:59Z
+- [Tableware](https://creative-tops-home.myshopify.com/collections/tableware): Shop tableware for everyday dining: tempered glass tumblers, mugs, vegan leather placemats and fine porcelain. Free US shipping over $150.
+  Updated: 2026-11-05T12:54:40Z
   Total Products: 38
 - [Bakeware](https://creative-tops-home.myshopify.com/collections/bakeware)
   Updated: 2026-10-27T15:07:42Z
@@ -844,11 +997,11 @@
 - [Duralex Glass Food Storage](https://creative-tops-home.myshopify.com/collections/duralex-glass-food-storage): Tempered glass food storage containers with leakproof locking lids, 0.8 and 1.1 qt. Microwave and dishwasher safe, made in France.
   Updated: 2026-10-29T12:06:55Z
   Total Products: 2
-- [Tiseco Placemats](https://creative-tops-home.myshopify.com/collections/tiseco-placemats): Tiseco placemats in vegan leather, faux leather and antibacterial weaves. Rectangular and oval, 13 x 18 in, waterproof and wipe clean. Made in Belgium.
-  Updated: 2026-10-29T12:06:59Z
+- [Tiseco Placemats](https://creative-tops-home.myshopify.com/collections/tiseco-placemats): Tiseco placemats in vegan leather, faux leather and antibacterial weaves. Rectangular and oval, 13 x 18 in, waterproof and wipe clean. Designed in Belgium.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 6
-- [Tiseco Oven Gloves & Grippers](https://creative-tops-home.myshopify.com/collections/tiseco-oven-gloves-grippers): Cotton and quilted oven mitts and pot holders from Tiseco, with silicone grip for a secure hold on hot pans. Heat resistant, made in Belgium.
-  Updated: 2026-10-29T12:06:59Z
+- [Tiseco Oven Gloves & Grippers](https://creative-tops-home.myshopify.com/collections/tiseco-oven-gloves-grippers): Cotton and quilted oven mitts and pot holders from Tiseco, with silicone grip for a secure hold on hot pans. Heat resistant, designed in Belgium.
+  Updated: 2026-11-05T13:46:43Z
   Total Products: 4
 - [Tiseco Kitchen Towels & Aprons](https://creative-tops-home.myshopify.com/collections/tiseco-kitchen-towels-aprons): 100% cotton kitchen towels and quilted cotton aprons from Tiseco Belgium. Absorbent, durable and available in easy-to-match colors.
   Updated: 2026-10-29T12:07:00Z
@@ -859,8 +1012,8 @@
 - [Gifts Under $50](https://creative-tops-home.myshopify.com/collections/gifts-under-50): Gifts under $50: glass tumbler and mug sets, oven mitts, aprons and kitchen towels. Well-made everyday pieces that are easy to give.
   Updated: 2026-10-29T12:06:57Z
   Total Products: 35
-- [Gifts Under $100](https://creative-tops-home.myshopify.com/collections/gifts-under-100): Premium home gifts under $100: glass drinkware sets, vegan leather placemats and quilted kitchen textiles. Free US shipping over $120.
-  Updated: 2026-10-29T12:06:56Z
+- [Gifts Under $100](https://creative-tops-home.myshopify.com/collections/gifts-under-100): Premium home gifts under $100: glass drinkware sets, vegan leather placemats and quilted kitchen textiles. Free US shipping over $150.
+  Updated: 2026-11-10T10:35:30Z
   Total Products: 42
 
 ## Store Pages
