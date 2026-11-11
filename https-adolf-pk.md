@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2026-10-23T15:29:14Z
 - Contact Email: customercare@adolf.pk
-- Updated At: 2026-11-03T10:09:47.419Z
+- Updated At: 2026-11-11T01:15:17.526Z
 
 ## Products
 
@@ -395,7 +395,7 @@
     Availability: Available
     Price: Rs 2,500.00 PKR
 - [Men's Burnished Brown Leather Horsebit Loafers | Adolf Footwear](https://adolf.pk/products/adolf-mens-handcrafted-burnished-brown-leather-horsebit-loafers): Shop Adolf premium handcrafted burnished brown leather horsebit loafers for men. Featuring gold hardware and a cushioned insole, these formal shoes are perfect for weddings and business wear. Available in Sheikhupura, Punjab & delivery across Pakistan.
-  Updated: 2026-11-03T09:22:46Z
+  Updated: 2026-11-04T02:01:56Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -443,7 +443,7 @@
     Availability: Available
     Price: Rs 7,499.00 PKR
 - [Adolf Brown Alligator Leather Loafers | Bee and Tassel Detail](https://adolf.pk/products/adolf-premium-brown-alligator-leather-loafers-with-tassels-and-bee-detail): Discover luxury with Adolf alligator embossed leather loafers. Featuring a unique bee and tassel detail, these handcrafted brown dress shoes offer sophisticated style for men. Order now.
-  Updated: 2026-11-03T09:22:46Z
+  Updated: 2026-11-05T07:37:13Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -517,7 +517,7 @@ TAGS
     Availability: Available
     Price: Rs 5,000.00 PKR
 - [Adolf Premium Brown Leather Loafers for Men | Adolf Footwear](https://adolf.pk/products/adolf-premium-handcrafted-brown-leather-loafers-for-men-elegant-slip-on-formal-smart-casual-shoes): Shop Adolf Handcrafted Brown Leather Loafers for Men. Features burnished leather finish, sleek metallic accent strap, and flat sole. Fast nationwide shipping in Pakistan.
-  Updated: 2026-11-03T09:22:47Z
+  Updated: 2026-11-05T13:22:55Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -715,7 +715,7 @@ TAGS
     Image: https://cdn.shopify.com/s/files/1/0830/3935/5110/files/WhatsApp_Image_2026-08-09_at_7.59.23_PM.jpg?v=1793270218
     Price: Rs 5,499.00 PKR
 - [Meta Title: Buy Crocodile Textured Leather Loafers for Men | Adolf.pk](https://adolf.pk/products/name-crocodile-texture-buckle-brown-leather-loafers): Shop premium crocodile texture brown leather loafers with buckle detail at Adolf.pk. Fast delivery across Pakistan. Elevate your style today!
-  Updated: 2026-11-03T09:22:48Z
+  Updated: 2026-11-05T13:25:55Z
   Vendor: Adolf.pk
   Product Type: 
   Availability: Available
@@ -766,16 +766,16 @@ TAGS
 ## Collections
 
 - [Home page](https://adolf.pk/collections/frontpage)
-  Updated: 2026-11-03T09:22:43Z
+  Updated: 2026-11-06T12:21:05Z
   Total Products: 15
 - [Loafers](https://adolf.pk/collections/loafers)
-  Updated: 2026-11-03T09:22:43Z
+  Updated: 2026-11-06T12:21:05Z
   Total Products: 12
 - [FEATURED](https://adolf.pk/collections/featured)
-  Updated: 2026-11-03T09:22:43Z
+  Updated: 2026-11-05T12:22:51Z
   Total Products: 5
 - [Oxford / Dress Shoes](https://adolf.pk/collections/oxford-dress-shoes)
-  Updated: 2026-11-03T09:22:43Z
+  Updated: 2026-11-03T12:17:42Z
   Total Products: 4
 - [Mules Collection](https://adolf.pk/collections/mules-collection)
   Updated: 2026-11-03T09:22:43Z
@@ -794,6 +794,8 @@ TAGS
   Updated: 2026-10-23T16:11:08Z
 - [Terms of Service](https://adolf.pk/pages/terms-of-service): Terms of Service Welcome to Adolf.pk. By accessing or using our website and placing an order, you agree to the following terms and conditions. Gene...
   Updated: 2026-10-23T16:12:01Z
+- [virtual fit](https://adolf.pk/pages/virtual-fit)
+  Updated: 2026-11-05T14:41:07Z
 
 ## Policies
 
