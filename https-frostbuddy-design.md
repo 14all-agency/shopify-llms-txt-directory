@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-11T21:47:08Z
 - Contact Email: gideonwright05@gmail.com
-- Updated At: 2026-11-03T09:30:03.059Z
+- Updated At: 2026-11-11T01:30:30.731Z
 
 ## Products
 
@@ -3208,35 +3208,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0699/9470/9105/files/Illinois_Fighting_Illini_Gameday.png?v=1789972532
   Price: $44.99 USD
-- [Frostbuddy™ JMU Dukes - Gameday | Insulated Universal XL Can Cooler](https://frostbuddy.design/products/universal-xl-jmu-dukes-gameday): Shop the official Frostbuddy™ JMU Dukes - Gameday Universal XL Can Cooler. Premium double-wall vacuum insulation keeps drinks ice-cold 24+ hours or hot 12+ h...
-  Updated: 2026-10-02T18:05:30Z
-  Vendor: Frostbuddy™
-  Product Type: Can Cooler
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9470/9105/files/JMU_Dukes_Gameday.png?v=1789972534
-  Price: $49.99 USD
-- [Frostbuddy™ Iowa State Cyclones - Gameday](https://frostbuddy.design/products/universal-xl-iowa-state-cyclones-gameday): Shop the official Frostbuddy™ Iowa State Cyclones - Gameday Universal XL Can Cooler. Premium double-wall vacuum insulation keeps drinks ice-cold 24+ hours or...
-  Updated: 2026-10-02T18:05:30Z
-  Vendor: Frostbuddy™
-  Product Type: Can Cooler
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9470/9105/files/Iowa_State_Cyclones_Gameday.png?v=1789972535
-  Price: $49.99 USD
-- [Frostbuddy™ Louisville Cardinals - Gameday](https://frostbuddy.design/products/universal-xl-louisville-cardinals-gameday): Shop the official Frostbuddy™ Louisville Cardinals - Gameday Universal XL Can Cooler. Premium double-wall vacuum insulation keeps drinks ice-cold 24+ hours o...
-  Updated: 2026-10-02T18:05:30Z
-  Vendor: Frostbuddy™
-  Product Type: Can Cooler
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9470/9105/files/Louisville_Cardinals_Gameday.png?v=1789972537
-  Price: $49.99 USD
-- [Frostbuddy™ Liberty Flames - Gameday](https://frostbuddy.design/products/universal-xl-liberty-flames-gameday): Shop the official Frostbuddy™ Liberty Flames - Gameday Universal XL Can Cooler. Premium double-wall vacuum insulation keeps drinks ice-cold 24+ hours or hot ...
-  Updated: 2026-10-02T18:05:30Z
-  Vendor: Frostbuddy™
-  Product Type: Can Cooler
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0699/9470/9105/files/Liberty_Flames_Gameday.png?v=1789972539
-  Price: $49.99 USD
-[List Continued](https://frostbuddy.design/a/llms-agent/llms.txt?shop=csudpd-hs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDgzNTg3NTU1NDQxLCJsYXN0X3ZhbHVlIjoiODQ4MzU4NzU1NTQ0MSJ9)
+[List Continued](https://frostbuddy.design/a/llms-agent/llms.txt?shop=csudpd-hs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NDgzNTg3MzkxNjAxLCJsYXN0X3ZhbHVlIjoiODQ4MzU4NzM5MTYwMSJ9)
 
 ## Collections
 
@@ -3330,6 +3302,18 @@
     Author: Frostbuddy™
   - [Frostbuddy To-Go Buddy: The Universal Stainless Steel Can Cooler that Keeps Drinks Icy Cold for 24 Hours Every Gameday](https://frostbuddy.design/blogs/news/frostbuddy-to-go-buddy-the-universal-stainless-steel-can-cooler-that-keeps-drinks-icy-cold-for-24-hours-every-gameday): Frostbuddy To-Go Buddy: The Universal Stainless Steel Can Cooler that Keeps Drinks Icy Cold for 24 Hours Every Gameday
     Updated: 2026-11-02T11:03:35Z
+    Author: Frostbuddy™
+  - [Frostbuddy Can Cooler: Unmatched Beverage Insulation in a Stainless Steel Tumbler Keeping Drinks Cold for 24 Hours](https://frostbuddy.design/blogs/news/frostbuddy-can-cooler-unmatched-beverage-insulation-in-a-stainless-steel-tumbler-keeping-drinks-cold-for-24-hours): Frostbuddy Can Cooler: Unmatched Beverage Insulation in a Stainless Steel Tumbler Keeping Drinks Cold for 24 Hours
+    Updated: 2026-11-03T11:02:28Z
+    Author: Frostbuddy™
+  - [Why Frostbuddy Is the Best Insulated Travel Tumbler for Baltimore Orioles Fans on Gameday Using BPA-Free Stainless Steel Construction](https://frostbuddy.design/blogs/news/why-frostbuddy-is-the-best-insulated-travel-tumbler-for-baltimore-orioles-fans-on-gameday-using-bpa-free-stainless-steel-construction): Why Frostbuddy Is the Best Insulated Travel Tumbler for Baltimore Orioles Fans on Gameday Using BPA-Free Stainless Steel Construction
+    Updated: 2026-11-04T11:05:04Z
+    Author: Frostbuddy™
+  - [10 Reasons the Frostbuddy Can Cooler is the Ultimate Virginia Tech Gameday Essential To Keep Your Drinks Cold All Day](https://frostbuddy.design/blogs/news/10-reasons-the-frostbuddy-can-cooler-is-the-ultimate-virginia-tech-gameday-essential-to-keep-your-drinks-cold-all-day): 10 Reasons the Frostbuddy Can Cooler is the Ultimate Virginia Tech Gameday Essential To Keep Your Drinks Cold All Day
+    Updated: 2026-11-09T17:20:22Z
+    Author: Frostbuddy™
+  - [Stay Frosty: The Ultimate Sports Companion with Frostbuddy To-Go Buddy for All Your Favorite Drinks On-the-Go](https://frostbuddy.design/blogs/news/stay-frosty-the-ultimate-sports-companion-with-frostbuddy-to-go-buddy-for-all-your-favorite-drinks-on-the-go): Stay Frosty: The Ultimate Sports Companion with Frostbuddy To-Go Buddy for All Your Favorite Drinks On-the-Go
+    Updated: 2026-11-10T11:05:30Z
     Author: Frostbuddy™
 
 ## Store Pages
