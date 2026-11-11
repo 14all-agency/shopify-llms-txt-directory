@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:25:43Z
 - Contact Email: gomezroseronald20012001@gmail.com
-- Updated At: 2026-11-03T10:12:49.647Z
+- Updated At: 2026-11-11T01:11:24.124Z
 
 ## Products
 
@@ -1366,7 +1366,7 @@
     Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/-Christmas-Rattan-Snowman-with-Bow-Christmas-Winter-Farmhouse-Decor-Gift-14_ffddd6f8-6b71-42b8-be91-953b5dce819d.d5922b69a436cfcde2dec83467c0bcd0.jpg?v=1790357551
     Price: $31.44 USD
 - [Merriva™ 2 Pack Lighted Artificial Christmas Urn](https://merriva.shop/products/coollooc-2-pack-lighted-artificial-christmas-urn-filler-battery-operated-pre-lit-xmas-pine-trees-tripod-stake-and-20-led-lights-holiday-porch-decorations-for-porch-yard-gardenb): Shop the 2 Pack Lighted Artificial Christmas Urn Filler, Ba by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-28T19:57:32Z
+  Updated: 2026-11-03T12:39:52Z
   Vendor: Merriva™
   Product Type: Christmas Trees
   Availability: Available
@@ -2134,32 +2134,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Ktaxon-Christmas-Snowflakes-Lighted-Outdoor-Decoration-Foldable-Snow-for-Holiday-Lawn-Garden-Party_8efd8663-a6ca-453e-8a4c-6745f5bed19b.7b512def2aa16f6f00b2af0c1b874903.jpg?v=1790357671
   Price: $48.88 USD
-- [Merriva™ Polar Bear Christmas Lighted Bear on](https://merriva.shop/products/ktaxon-polar-bear-christmas-lighted-bear-on-the-sledge-outdoor-decoration-for-holiday-lawn-garden-party): Shop the Polar Bear Christmas Lighted Bear on The Sledge Ou by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:17Z
-  Vendor: Merriva™
-  Product Type: Seasonal & Holiday Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Ktaxon-Polar-Bear-Christmas-Lighted-Bear-on-The-Sledge-Outdoor-Decoration-for-Holiday-Lawn-Garden-Party_62a3418f-2ac2-4b7e-acaa-4293d234c7b4.0f9573659d6c43b0c44e2ec62bfda170.jpg?v=1790357672
-  Price: $55.99 USD
-- [Merriva™ Snowman Christmas Lighted Penguin Outdoor Decoration](https://merriva.shop/products/ktaxon-snowman-christmas-lighted-penguin-outdoor-decoration-for-holiday-lawn-garden-party): Shop the Snowman Christmas Lighted Penguin Outdoor Decorati by Merriva™. Elevate your seasonal celebration with premium craftsmanship, festive charm, and tim...
-  Updated: 2026-10-03T12:11:17Z
-  Vendor: Merriva™
-  Product Type: Seasonal & Holiday Decorations
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0783/5539/8796/files/Ktaxon-Snowman-Christmas-Lighted-Penguin-Outdoor-Decoration-for-Holiday-Lawn-Garden-Party_21072e6d-b861-4f36-9398-9217bb98a6f5.05cb1bdc5496213abd1fcd678208f189.jpg?v=1790357674
-  - [Gnomes](https://merriva.shop/products/ktaxon-snowman-christmas-lighted-penguin-outdoor-decoration-for-holiday-lawn-garden-party?variant=61493877964940)
-    Availability: Available
-    Price: $26.99 USD
-  - [Penguin & Snowman](https://merriva.shop/products/ktaxon-snowman-christmas-lighted-penguin-outdoor-decoration-for-holiday-lawn-garden-party?variant=61493877997708)
-    Availability: Available
-    Price: $33.30 USD
-  - [Santa & Tree & Snowman](https://merriva.shop/products/ktaxon-snowman-christmas-lighted-penguin-outdoor-decoration-for-holiday-lawn-garden-party?variant=61493878030476)
-    Availability: Available
-    Price: $39.99 USD
-  - [2 Penguins](https://merriva.shop/products/ktaxon-snowman-christmas-lighted-penguin-outdoor-decoration-for-holiday-lawn-garden-party?variant=61493878063244)
-    Availability: Available
-    Price: $29.99 USD
-[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjY1MTc4OCwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2NjUxNzg4In0%3D)
+[List Continued](https://merriva.shop/a/llms-agent/llms.txt?shop=b1zdm7-3k.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDYyNDc0NjUyMDcxNiwibGFzdF92YWx1ZSI6IjEwNjI0NzQ2NTIwNzE2In0%3D)
 
 ## Collections
 
@@ -2238,6 +2213,18 @@
     Author: Merriva
   - [Merry Up Your Holiday Home Decor: Master the Art of Christmas Decorations with Merriva™ Velvet Embroidery Stockings and Stylish Realistic Artificial Christmas Trees](https://merriva.shop/blogs/news/merry-up-your-holiday-home-decor-master-the-art-of-christmas-decorations-with-merriva™-velvet-embroidery-stockings-and-stylish-realistic-artificial-christmas-trees): Merry Up Your Holiday Home Decor: Master the Art of Christmas Decorations with Merriva™ Velvet Embroidery Stockings and Stylish Realistic Artificial Christmas Trees
     Updated: 2026-11-02T11:02:41Z
+    Author: Merriva
+  - [Enhance Your Pre Lit Christmas Tree with Merriva™ Multicolor Shatterproof Ornaments and Waterproof Holiday Lights](https://merriva.shop/blogs/news/enhance-your-pre-lit-christmas-tree-with-merriva™-multicolor-shatterproof-ornaments-and-waterproof-holiday-lights): Enhance Your Pre Lit Christmas Tree with Merriva™ Multicolor Shatterproof Ornaments and Waterproof Holiday Lights
+    Updated: 2026-11-03T11:01:40Z
+    Author: Merriva
+  - [Merriva™ Uxcell Glass Ornaments: Elevate Outdoor Holiday Tree Decor with Shatterproof Elegance](https://merriva.shop/blogs/news/merriva™-uxcell-glass-ornaments-elevate-outdoor-holiday-tree-decor-with-shatterproof-elegance): Merriva™ Uxcell Glass Ornaments: Elevate Outdoor Holiday Tree Decor with Shatterproof Elegance
+    Updated: 2026-11-04T11:04:12Z
+    Author: Merriva
+  - [How to Brighten Your Christmas Decorations with Merriva™ Lighted Iridescent Gift Boxes and Outdoor Holiday Lights](https://merriva.shop/blogs/news/how-to-brighten-your-christmas-decorations-with-merriva™-lighted-iridescent-gift-boxes-and-outdoor-holiday-lights): How to Brighten Your Christmas Decorations with Merriva™ Lighted Iridescent Gift Boxes and Outdoor Holiday Lights
+    Updated: 2026-11-09T11:03:09Z
+    Author: Merriva
+  - [Unleash Your Creativity with Merriva’s Blown Glass Cheese Ornaments for a Stunning Pre Lit Christmas Tree](https://merriva.shop/blogs/news/unleash-your-creativity-with-merriva-s-blown-glass-cheese-ornaments-for-a-stunning-pre-lit-christmas-tree): Unleash Your Creativity with Merriva’s Blown Glass Cheese Ornaments for a Stunning Pre Lit Christmas Tree
+    Updated: 2026-11-10T11:02:52Z
     Author: Merriva
 
 ## Store Pages
