@@ -6,7 +6,7 @@
 - Timezone: Australia/Melbourne
 - Created At: 2026-08-20T05:06:30Z
 - Contact Email: moricenoelle24@gmail.com
-- Updated At: 2026-11-03T09:57:49.688Z
+- Updated At: 2026-11-11T01:24:38.825Z
 
 ## Products
 
@@ -2467,26 +2467,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-Glendale-5-Shelf-Bookcase-Rustic-Gray-Finish_6e462a29-9345-4a03-b777-ae938ccf6d89_1.60cb091bcc1bfefb2d10474cefbc0d0c.jpg?v=1787337654
   Price: $94.90 AUD
-- [Velmora™ (2 pack) Bamboo Stackable Shelf, Natural Bamboo Color, Easy Assemble, 16 x 10 x 1.18in](https://velmora.center/products/2-pack-better-homes-gardens-bamboo-stackable-shelf-natural-bamboo-color-easy-assemble-16-x-10-x-1-18in): Discover the (2 pack) Bamboo Stackable Shelf, Natural Bamboo Color, Easy Assemble, 16 x 10 x 1.18in by Velmora™. Premium quality home organization designed f...
-  Updated: 2026-08-28T21:52:59Z
-  Vendor: Velmora™
-  Product Type: Home Organization
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/08329a97-7244-48e9-92d7-65d82024905d.31856371830bac33c0b7ef77411d2bf5.jpg?v=1787337655
-  - [Single](https://velmora.center/products/2-pack-better-homes-gardens-bamboo-stackable-shelf-natural-bamboo-color-easy-assemble-16-x-10-x-1-18in?variant=48864573423808)
-    Availability: Available
-    Price: $12.34 AUD
-  - [2 Pack](https://velmora.center/products/2-pack-better-homes-gardens-bamboo-stackable-shelf-natural-bamboo-color-easy-assemble-16-x-10-x-1-18in?variant=48864573456576)
-    Availability: Available
-    Price: $24.68 AUD
-- [Velmora™ Glendale Bookcase With Doors, Rustic White Finish](https://velmora.center/products/better-homes-gardens-glendale-bookcase-with-doors-rustic-white-finish): Discover the Glendale Bookcase With Doors, Rustic White Finish by Velmora™. Premium quality bookcases & standing shelves designed for exceptional style, last...
-  Updated: 2026-08-28T21:52:59Z
-  Vendor: Velmora™
-  Product Type: Bookcases & Standing Shelves
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0777/1586/5792/files/Better-Homes-Gardens-Glendale-Bookcase-With-Doors-Rustic-White-Finish_4385e250-f0ee-486f-b8ca-a92402f9300f.668b66b652dc31cace74dd42b3a1e8cc.jpg?v=1787337656
-  Price: $157.00 AUD
-[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwOTk2MTYwLCJsYXN0X3ZhbHVlIjoiODY5NjA3MDk5NjE2MCJ9)
+[List Continued](https://velmora.center/a/llms-agent/llms.txt?shop=vpknhp-0c.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4Njk2MDcwODY1MDg4LCJsYXN0X3ZhbHVlIjoiODY5NjA3MDg2NTA4OCJ9)
 
 ## Collections
 
@@ -2619,6 +2600,18 @@
     Author: Velmora™
   - [Achieving Quiet Luxury and Warm Minimalism in Your Bedroom with Velmora™ Homestead Plaid Comforter Set and Breathable Cotton Bedding](https://velmora.center/blogs/news/achieving-quiet-luxury-and-warm-minimalism-in-your-bedroom-with-velmora™-homestead-plaid-comforter-set-and-breathable-cotton-bedding): Achieving Quiet Luxury and Warm Minimalism in Your Bedroom with Velmora™ Homestead Plaid Comforter Set and Breathable Cotton Bedding
     Updated: 2026-11-02T11:04:48Z
+    Author: Velmora™
+  - [Achieve Warm Minimalism with Velmora™ Jasper Gray Abstract Indoor Area Rug: Tips for Modern Home Decor](https://velmora.center/blogs/news/achieve-warm-minimalism-with-velmora™-jasper-gray-abstract-indoor-area-rug-tips-for-modern-home-decor): Achieve Warm Minimalism with Velmora™ Jasper Gray Abstract Indoor Area Rug: Tips for Modern Home Decor
+    Updated: 2026-11-03T11:03:35Z
+    Author: Velmora™
+  - [Mastering Modern Home Decor Warm Minimalism with Velmora™ Diamond Stripe Earth Tone Area Rug Through Cozy Living Room Ideas](https://velmora.center/blogs/news/mastering-modern-home-decor-warm-minimalism-with-velmora™-diamond-stripe-earth-tone-area-rug-through-cozy-living-room-ideas): Mastering Modern Home Decor Warm Minimalism with Velmora™ Diamond Stripe Earth Tone Area Rug Through Cozy Living Room Ideas
+    Updated: 2026-11-06T11:01:16Z
+    Author: Velmora™
+  - [Embrace Quiet Luxury at Home with Velmora™ Check Matelasse Quilt and Modern Home Decor.](https://velmora.center/blogs/news/embrace-quiet-luxury-at-home-with-velmora™-check-matelasse-quilt-and-modern-home-decor): Embrace Quiet Luxury at Home with Velmora™ Check Matelasse Quilt and Modern Home Decor.
+    Updated: 2026-11-09T11:05:05Z
+    Author: Velmora™
+  - [Transform Your Space: Velmora™ Starburst Quilt for Warm Minimalism and Modern Home Decor](https://velmora.center/blogs/news/transform-your-space-velmora™-starburst-quilt-for-warm-minimalism-and-modern-home-decor): Transform Your Space: Velmora™ Starburst Quilt for Warm Minimalism and Modern Home Decor
+    Updated: 2026-11-10T11:04:44Z
     Author: Velmora™
 
 ## Store Pages
