@@ -6,7 +6,7 @@
 - Timezone: Europe/Berlin
 - Created At: 2025-08-07T15:06:26Z
 - Contact Email: estidfashion@gmail.com
-- Updated At: 2026-11-04T00:52:38.731Z
+- Updated At: 2026-11-11T00:58:26.661Z
 
 ## Products
 
@@ -974,7 +974,7 @@
   Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/255605814979940352_c6bd618c-d35e-49d2-b733-dd1ec35b4aff.webp?v=1782157947
   Price: 40,26 € EUR
 - [Herren Zip-Hoodie | Jesus-Herz Oversize | ESTID](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus): Oversize Herren Zip-Hoodie aus Fluffy-Baumwolle mit Jesus-Herz – urbane Streetwear trifft tiefen Glauben, maximal bequem. Kostenloser Versand in Deutschland.
-  Updated: 2026-10-30T09:44:09Z
+  Updated: 2026-11-06T11:21:33Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -1040,10 +1040,6 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300437_854_v1_front_1024.png?v=1780233877
     Price: 63,95 € EUR
   - [Light Asphalt / S](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus?variant=57769493561692)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300437_855_v1_front_1024.png?v=1780233882
-    Price: 63,95 € EUR
-  - [Light Asphalt / M](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus?variant=57769493594460)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300437_855_v1_front_1024.png?v=1780233882
     Price: 63,95 € EUR
@@ -2441,7 +2437,7 @@
     Availability: Available
     Price: 48,95 € EUR
 - [Herren Zip-Hoodie | Oversize Jesusmotiv | ESTID](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus-1): Herren Oversize Zipper Hoodie mit christlichem Jesusmotiv – flauschiger Kapuzenpullover im lässigen Streetwear-Look. Kostenloser Versand in Deutschland.
-  Updated: 2026-10-30T09:44:10Z
+  Updated: 2026-11-06T11:21:34Z
   Vendor: ESTID Fashion
   Product Type: Hoodie
   Availability: Available
@@ -2507,10 +2503,6 @@
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300481_854_v1_front_1024.png?v=1780237660
     Price: 63,95 € EUR
   - [Light Asphalt / S](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus-1?variant=57769872687452)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300481_855_v1_front_1024.png?v=1780237664
-    Price: 63,95 € EUR
-  - [Light Asphalt / M](https://www.estid-fashion.de/products/herren-oversize-zipper-hoodie-jesus-1?variant=57769872720220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/10341_300481_855_v1_front_1024.png?v=1780237664
     Price: 63,95 € EUR
@@ -3061,7 +3053,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0943/6361/5580/files/15330852120683735749_2048.jpg?v=1782130403
     Price: 51,82 € EUR
-[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY0MDY1NTYyNjU4OCwibGFzdF92YWx1ZSI6IjIwMjYtMDYtMjIgMTA6MDA6MDAuMDAwMDAwIn0%3D)
+[List Continued](https://www.estid-fashion.de/a/llms-agent/llms.txt?shop=94q2eq-q2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTY0MDY1NTYyNjU4OCwibGFzdF92YWx1ZSI6IjE1NjQwNjU1NjI2NTg4In0%3D)
 
 ## Collections
 
@@ -3266,13 +3258,22 @@
   - [Die Vielseitigkeit der Ledertasche: Praktisch und schick zugleich](https://www.estid-fashion.de/blogs/fashion-blog/die-vielseitigkeit-der-ledertasche-praktisch-und-schick-zugleich): Die Vielseitigkeit der Ledertasche: Praktisch und schick zugleich
     Updated: 2026-11-01T16:00:43Z
     Author: ESTID
+  - [Tipps zum Kombinieren von damen Taschen und Schmuckset](https://www.estid-fashion.de/blogs/fashion-blog/tipps-zum-kombinieren-von-damen-taschen-und-schmuckset): Tipps zum Kombinieren von damen Taschen und Schmuckset
+    Updated: 2026-11-06T16:00:55Z
+    Author: ESTID
+  - [Vergleich: Welche Damen Tasche passt zu welchem Outfit?](https://www.estid-fashion.de/blogs/fashion-blog/vergleich-welche-damen-tasche-passt-zu-welchem-outfit): Vergleich: Welche Damen Tasche passt zu welchem Outfit?
+    Updated: 2026-11-07T16:00:45Z
+    Author: ESTID
+  - [Perlenhalsketten oder Leder Handtasche: Was sagt Dein Look?](https://www.estid-fashion.de/blogs/fashion-blog/perlenhalsketten-oder-leder-handtasche-was-sagt-dein-look): Perlenhalsketten oder Leder Handtasche: Was sagt Dein Look?
+    Updated: 2026-11-08T16:00:28Z
+    Author: ESTID
 
 ## Store Pages
 
 - [Kontakt](https://www.estid-fashion.de/pages/contact)
   Updated: 2025-08-07T15:06:31Z
 - [Suchergebnisse](https://www.estid-fashion.de/pages/rapid-search-results): .RAPID-SEARCH----DO-NOT-DELETE-THIS-PAGE { }
-  Updated: 2026-11-02T22:52:06Z
+  Updated: 2026-11-10T21:11:13Z
 - [Deine Datenschutz-Einstellungen](https://www.estid-fashion.de/pages/data-sharing-opt-out): Wie in unserer Datenschutzrichtlinie beschrieben, erfassen wir personenbezogene Daten aus Ihren Interaktionen mit uns und unserer Website, unter an...
   Updated: 2026-08-13T08:29:38Z
 - [Review Submission](https://www.estid-fashion.de/pages/review-submission)
