@@ -9,7 +9,7 @@
 - Created At: 2025-09-09T10:58:51Z
 - Contact Email: sales@qldecor.com
 - Contact Phone: +48572008079
-- Updated At: 2026-11-04T01:18:43.643Z
+- Updated At: 2026-11-11T13:18:57.378Z
 
 ## Products
 
@@ -273,7 +273,7 @@
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970099348.jpg?v=1767348849
   Price: 389,00 zł PLN
 - [OR-8057 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-8057): Minimalistyczny uchwyt meblowy OR-8057 z aluminium, 200 mm. Dostępny w 4 kolorach – Copper Gold, Orange, Black, Silver Grey. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-11T08:31:24Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -295,7 +295,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01-01.png?v=1766138301
     Price: 105,00 zł PLN
 - [OR-8046 – aluminiowy wieszak meblowy | QLdecor](https://qldecor.shop/products/wieszak-or-8046): Kompaktowy, wytrzymały wieszak meblowy OR-8046 z aluminium. Idealny do kuchni, łazienki i garderoby. Dostępny w 4 kolorach – QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-11T08:31:25Z
   Vendor: QLdecor
   Product Type: Hooks
   Availability: Available
@@ -317,7 +317,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarnyuchwyt.png?v=1767342495
     Price: 30,00 zł PLN
 - [OR-8042 – aluminiowy wieszak meblowy | QLdecor](https://qldecor.shop/products/wieszak-or-8042): Nowoczesny, minimalistyczny wieszak meblowy OR-8042 z aluminium. Solidna konstrukcja do kuchni i garderoby. Dostępny w 4 kolorach QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-11T08:31:25Z
   Vendor: QLdecor
   Product Type: Hooks
   Availability: Available
@@ -339,7 +339,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/zloty-01_9df7debc-370c-4db1-9cea-7c278d52e1e2.png?v=1766138068
     Price: 22,00 zł PLN
 - [OR-8009 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-8009): Smukły, minimalistyczny uchwyt meblowy OR-8009 w 4 długościach (150-1000 mm). Aluminium odporne na zarysowania. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-11T08:31:25Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -393,7 +393,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny_150-01.png?v=1766137662
     Price: 40,00 zł PLN
 - [OR-2206-2 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-2006-2): Nowoczesny uchwyt meblowy OR-2206-2 w wersji prawej i lewej, z aluminium. Idealny do frontów meblowych i drzwi przesuwnych. QLdecor.
-  Updated: 2026-08-21T21:19:37Z
+  Updated: 2026-11-11T08:31:25Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -463,7 +463,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_right.png?v=1767342147
     Price: 93,00 zł PLN
 - [OR-2007-2 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-2007-2): Klasyczny, elegancki uchwyt meblowy OR-2007-2 z aluminium, 200 mm. Ponadczasowy design do szafek i komód. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:49Z
+  Updated: 2026-11-11T08:31:26Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -485,7 +485,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/rozmiar-01.png?v=1766136855
     Price: 93,00 zł PLN
 - [OR-1119 – aluminiowa gałka meblowa | QLdecor](https://qldecor.shop/products/galka-or-1119): Minimalistyczna gałka meblowa OR-1119 z aluminium, śr. 30 mm. Uniwersalny design do mebli kuchennych i komód. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:26Z
   Vendor: QLdecor
   Product Type: Knob
   Availability: Available
@@ -507,7 +507,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/srebrny-01_23ba7a28-7e9f-473e-9449-e6a3c3f50e41.png?v=1767342291
     Price: 28,00 zł PLN
 - [OR-1108A – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-1108a-1): Nowoczesny uchwyt meblowy OR-1108A osadzany we wgłębieniu frontu, 300 mm. Elegancki wygląd bez wystających elementów. QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:26Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -525,7 +525,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_c9b239f8-d7fb-43e3-bb02-efec08251fdc.png?v=1766135785
     Price: 184,00 zł PLN
 - [OR-1003 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-1003): Precyzyjny uchwyt meblowy OR-1003 do szaf i drzwi dwuskrzydłowych. Estetyczne, zlicowane wykończenie z aluminium. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:26Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -543,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_9a5945af-e3ec-4d20-8ae9-311b4968ca75.png?v=1766135648
     Price: 304,00 zł PLN
 - [OR-029 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-029): Elegancki uchwyt meblowy OR-029 z dekoracyjną ryflowaną fakturą. Dostępny w 2 długościach, aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:27Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -573,7 +573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny-01_b5a5f7ba-eb9c-42f5-bc94-5540d3ee79c0.png?v=1767339665
     Price: 97,00 zł PLN
 - [OR-021 – aluminiowy uchwyt meblowy | QLdecor](https://qldecor.shop/products/uchwyt-or-021): Nowoczesny uchwyt meblowy OR-021 z ryflowaną fakturą, dostępny w 5 długościach (145-1000 mm). Aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:27Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
@@ -639,7 +639,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/czarny_uchwyt_145-01.png?v=1767339526
     Price: 32,00 zł PLN
 - [OR-020A – aluminiowa gałka meblowa | QLdecor](https://qldecor.shop/products/uchwyt-or-020a-1): Elegancka gałka meblowa OR-020A z dekoracyjną ryflowaną powierzchnią, śr. 28 mm. Kompaktowa forma z aluminium. Sklep QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:31:27Z
   Vendor: QLdecor
   Product Type: Knob
   Availability: Available
@@ -657,11 +657,11 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/Zloty_uchwyt-01_1ceb4fc2-a111-45b5-983f-16f7e31e2850.png?v=1766129755
     Price: 22,00 zł PLN
 - [OR-020 – aluminiowy uchwyt meblowy T-bar | QLdecor](https://qldecor.shop/products/uchwyt-or-020): Uchwyt meblowy OR-020 w kształcie litery T z dekoracyjną fakturą. Dostępny w 5 długościach, aluminium wysokiej jakości. QLdecor.
-  Updated: 2026-08-19T20:14:50Z
+  Updated: 2026-11-11T08:50:31Z
   Vendor: QLdecor
   Product Type: Handles
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4960712842.webp?v=1757514254
+  Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/srebny4.6_600.png?v=1767339605
   - [100 cm / srebrny](https://qldecor.shop/products/uchwyt-or-020?variant=55452343402844)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/srebny-04_8bd81033-309a-4706-b347-dcfa3c6a2c22.png?v=1767339605
@@ -723,7 +723,7 @@
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/zloty-01_f23944ed-2e05-4d54-bf42-a18b1123b698.png?v=1767339605
     Price: 32,00 zł PLN
 - [Blaty stalowe ze stali nierdzewnej 304 | QLdecor](https://qldecor.shop/products/blaty-stalowe-qldecor): Blaty stalowe QLdecor ze stali nierdzewnej 304, opcjonalnie 316 na zapytanie – trwałe, higieniczne, odporne na wysokie temperatury. Wycena indywidualna.
-  Updated: 2026-08-21T20:50:02Z
+  Updated: 2026-11-07T06:02:08Z
   Vendor: QLdecor
   Product Type: Countertop
   Availability: Available
@@ -848,42 +848,211 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/harsh2-scaled.webp?v=1776094360
     Price: 1,00 zł PLN
-- [Próbnik płyt i frontów QLdecor](https://qldecor.shop/products/probnik-40x30cm): Zamów próbki materiałów QLdecor i sprawdź kolor oraz strukturę płyt przed zakupem. Próbniki ColorPro i MetaLux dostępne już za 1 zł.
-  Updated: 2026-08-21T21:31:50Z
+- [Próbnik frontów meblowych QLdecor](https://qldecor.shop/products/probnik-frontow-meblowych): Zamów próbki materiałów QLdecor i sprawdź kolor oraz strukturę płyt przed zakupem. Próbniki ColorPro i MetaLux w formie listków już za 3 zł.
+  Updated: 2026-11-11T13:17:08Z
   Vendor: QLdecor
   Product Type: Sampler
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/IMG_20251231_123103.jpg?v=1767348849
-  - [Metalux](https://qldecor.shop/products/probnik-40x30cm?variant=56353409663324)
+  - [MetaLux – Ambra (MLG21001L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=56353409663324)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890360036.jpg?v=1767348849
-    Price: 110,00 zł PLN
-  - [Woodsense](https://qldecor.shop/products/probnik-40x30cm?variant=56353409696092)
+    Price: 130,00 zł PLN
+  - [MetaLux – Titanio Infinito (MLG25005L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536762716)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890382441.jpg?v=1767348849
+    Price: 130,00 zł PLN
+  - [MetaLux – Acciaio Rosa (MLG24004L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536795484)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890409889.jpg?v=1767348849
+    Price: 130,00 zł PLN
+  - [MetaLux – Puro Platino (MLG23003L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536828252)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890365773.jpg?v=1767348849
+    Price: 130,00 zł PLN
+  - [MetaLux – Rame Vivo (MLG22002L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536861020)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4890360115.jpg?v=1767348849
+    Price: 130,00 zł PLN
+  - [WoodSense – Intenso (WS001701M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=56353409696092)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888722334.jpg?v=1767348849
-    Price: 56,50 zł PLN
-  - [Colorpro](https://qldecor.shop/products/probnik-40x30cm?variant=56353409728860)
+    Price: 60,00 zł PLN
+  - [WoodSense – Corteccia (WS090211L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536893788)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888674838.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Ombra (WS090193L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536926556)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888605270.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Ebano (WS090182L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536959324)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888755019.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Frassino (WS090164L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844536992092)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888608559.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Nocciola (WS090121L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537024860)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727211.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Rovere Antico (WS090074L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537057628)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727067.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Notte Nero (WS090053L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537090396)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888511296.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Regale Dura (WS090012L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537123164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888486836.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Legno Classico (WS0074Z2M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537155932)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888413163.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Olio Dorato (WS0073Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537188700)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888641833.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Tartufo (WS0068Z3M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537221468)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888470884.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Foresta (WS0066Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59848977875292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0066Z1M_1_ae469192-a77b-4508-be54-e299a6e79964.webp?v=1794403003
+    Price: 60,00 zł PLN
+  - [WoodSense – Ciliegio (WS0068Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537254236)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888605355.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Eterno (WS0065Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537287004)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888686214.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Castagno (WS005801M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537319772)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888712502.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Oro (WS005001M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59848977940828)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS005001M_1_8cef1db6-2be6-4775-ad3a-3a2c5f5d29c1.webp?v=1794403003
+    Price: 60,00 zł PLN
+  - [WoodSense – Stella (WS004801M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537352540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888712550.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Perla Nera (WS004501M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537385308)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888722444.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Essenza (WS0024Z3M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537418076)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888692236.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Quercia Dura (WS0024Z2M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537450844)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888481696.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Rovere (WS0021Z3M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537483612)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888727114.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Pino Dorato (WS0008Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59848977908060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0008Z1M_1_fc8677ef-c99c-43b5-92d1-96ca53baf89d.webp?v=1794403003
+    Price: 60,00 zł PLN
+  - [WoodSense – Velluto (WS000502M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537516380)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888589432.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Autunno (WS0003Z2M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537549148)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888713249.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Pietra Scura (WS0001Z2M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537581916)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888471358.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Luminosa (WS0001Z1M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537614684)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4883151476.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [WoodSense – Moka (WS000101M)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537647452)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4888649260.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Cristallo Blanco (CPG11001L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=56353409728860)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970099348.jpg?v=1767348849
-    Price: 56,50 zł PLN
-  - [Próbnik w formie listków Colorpro Metalux](https://qldecor.shop/products/probnik-40x30cm?variant=56353525072220)
+    Price: 60,00 zł PLN
+  - [ColorPro – Macchiaton (CPM14004L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537680220)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970161747.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Dalia Nera (CPM13003L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537712988)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4970155922.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Mistero (CPM12002L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537745756)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4969977675.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Quarzo Nocciola (CPG14004L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537778524)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4883017909.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Bronzo Lucente (CPG13003L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537811292)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4882995350.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [ColorPro – Ossidiana (CPG12002L)](https://qldecor.shop/products/probnik-frontow-meblowych?variant=59844537844060)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/4882987671.jpg?v=1767348849
+    Price: 60,00 zł PLN
+  - [Próbnik listków ColorPro i MetaLux](https://qldecor.shop/products/probnik-frontow-meblowych?variant=56353525072220)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/IMG_20251231_123103.jpg?v=1767348849
     Price: 3,00 zł PLN
 - [Próbnik blatów stalowych – 8 wzorów | QLdecor](https://qldecor.shop/products/probnik-blatow-stalowych): Próbnik blatów stalowych QLdecor z 8 wzorami faktur stali nierdzewnej 304 i 4 grubościami (5-10 mm). Idealny dla projektantów wnętrz.
-  Updated: 2026-08-19T20:14:51Z
+  Updated: 2026-11-11T07:42:58Z
   Vendor: QLdecor
   Product Type: Countertop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/IMG_3187.jpg?v=1767170392
   Price: 600,00 zł PLN
 - [Fronty stalowe na wymiar ze stali nierdzewnej | QLdecor](https://qldecor.shop/products/fronty-stalowe-qldecor): Fronty stalowe QLdecor na wymiar – prawdziwa blacha nierdzewna 1,15 mm na rdzeniu aluminiowym. Trwałe, higieniczne, szeroki wybór wzorów.
-  Updated: 2026-08-19T20:14:51Z
+  Updated: 2026-11-07T05:42:12Z
   Vendor: QLdecor
   Product Type: Front
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/Steel_134.jpg?v=1786897868
   Price: 1,00 zł PLN
+- [Foresta – front WoodSense Brąz | QLdecor](https://qldecor.shop/products/foresta): Front Foresta – kasztanowe drewno w czekoladowym odcieniu z wyraźnym usłojeniem. Wysokiej jakości front WoodSense – QLdecor.
+  Updated: 2026-11-11T13:18:06Z
+  Vendor: QLdecor
+  Product Type: WoodSense
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0066Z1M_1.webp?v=1794402583
+  Price: 355,00 zł PLN
+- [Pino Dorato – front WoodSense Złoty dąb | QLdecor](https://qldecor.shop/products/pino-dorato): Front Pino Dorato – olejowany dąb w ciepłym, złotym odcieniu z naturalną strukturą. Wysokiej jakości front WoodSense – QLdecor.
+  Updated: 2026-11-11T13:10:26Z
+  Vendor: QLdecor
+  Product Type: WoodSense
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS0008Z1M_1.webp?v=1794402583
+  Price: 355,00 zł PLN
+- [Oro – front WoodSense Jasny dąb | QLdecor](https://qldecor.shop/products/oro): Front Oro – jasny dąb z wyrazistym usłojeniem i efektem śladów po pile. Wysokiej jakości front WoodSense – QLdecor.
+  Updated: 2026-11-11T13:18:00Z
+  Vendor: QLdecor
+  Product Type: WoodSense
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0951/7308/3484/files/WS005001M_1.webp?v=1794402584
+  Price: 355,00 zł PLN
 
 ## Collections
 
@@ -894,8 +1063,8 @@
   Updated: 2026-08-19T20:14:44Z
   Total Products: 5
 - [Fronty drewnopodobne WoodSense](https://qldecor.shop/collections/woodsense): WoodSense to kolekcja inspirowana naturalnym charakterem drewna — ciepła, autentyczna i ponadczasowa. Dzięki nowoczesnej technologii odwzorowania struktur, płyty z tej serii oddają głębię i naturalność drewna, zachowując przy tym wyjątkową trwałość i łatwość użytkowania.
-  Updated: 2026-08-19T20:14:44Z
-  Total Products: 22
+  Updated: 2026-11-11T13:09:56Z
+  Total Products: 25
 - [Uchwyty](https://qldecor.shop/collections/uchwyty): Uchwyt to detal, który definiuje charakter mebla. W QLdecor łączymy minimalistyczny design z precyzją wykonania w precyzyjnie wykonanych profilach aluminiowych. Różne długości, kolory i profile pozwalają tworzyć spójną kompozycję z frontami meblowymi i blatami.
   Updated: 2026-08-21T11:04:44Z
   Total Products: 9
@@ -906,8 +1075,8 @@
   Updated: 2026-08-19T20:14:44Z
   Total Products: 2
 - [Fronty meblowe](https://qldecor.shop/collections/fronty-meblowe): Fronty meblowe QLdecor w trzech seriach: WoodSense (dekor drewna), MetaLux (metalizowane) i ColorPro (kolory). Wykonujemy je na wymiar, z nawierceniem pod zawiasy, także do kuchni IKEA METOD. Każda seria wyróżnia się unikalną fakturą i charakterem powierzchni.
-  Updated: 2026-10-14T05:50:34Z
-  Total Products: 35
+  Updated: 2026-11-11T13:09:58Z
+  Total Products: 38
 - [Blaty stalowe](https://qldecor.shop/collections/blaty-stalowe-qldecor): Styl, trwałość i nowoczesność. Solidne powierzchnie robocze ze stali nierdzewnej, które podkreślają charakter każdej aranżacji.
   Updated: 2026-08-19T20:14:44Z
   Total Products: 2
@@ -920,6 +1089,9 @@
 - [Fronty Stalowe](https://qldecor.shop/collections/fronty-ze-stali)
   Updated: 2026-08-19T20:14:44Z
   Total Products: 1
+- [Próbki](https://qldecor.shop/collections/probki): Zamów próbki frontów MetaLux, WoodSense, ColorPro i próbnik blatów stalowych QLdecor. Sprawdź kolor i strukturę przed zakupem. Wysyłka do Polski i całej UE.
+  Updated: 2026-11-11T07:45:36Z
+  Total Products: 2
 
 ## Blogs
 
