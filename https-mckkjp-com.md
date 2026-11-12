@@ -6,7 +6,7 @@
 - Timezone: Asia/Tokyo
 - Created At: 2025-01-22T02:51:28Z
 - Contact Email: support@mckkjp.com
-- Updated At: 2026-11-04T01:27:43.446Z
+- Updated At: 2026-11-12T01:48:18.453Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0896/2480/5745/files/MCKK_Hand_Wash_be6694b0-8357-422b-bf1f-adb490d4fcca.jpg?v=1772281755
   Price: ￥4,675.00 JPY
 - [淡路島の職人が手仕事で仕上げた天然由来100%のお香｜安息・活力・集中](https://mckkjp.com/products/incense_3set): 淡路島の職人がつくる、人工香料不使用・植物性100％の日本製お香。3種の香りで、集中・安息・活力の“寄り道”体験をお楽しみください。
-  Updated: 2026-11-03T04:49:25Z
+  Updated: 2026-11-10T15:25:16Z
   Vendor: MCKK
   Product Type: 
   Availability: Available
@@ -86,7 +86,7 @@
 ## Collections
 
 - [すべての商品](https://mckkjp.com/collections/all)
-  Updated: 2026-11-03T12:12:07Z
+  Updated: 2026-11-11T12:13:37Z
   Total Products: 7
 
 ## Blogs
@@ -232,6 +232,10 @@
   - [デジタルギフトが主流になっても、「モノ」のギフトが選ばれる理由](https://mckkjp.com/blogs/magazine/physical-gifts-in-digital-age)
     Updated: 2026-10-27T02:34:27Z
     Author: 勇輝中町
+  - [日々の感謝を「特別な時間」に託す、社員ギフトの選び方](https://mckkjp.com/blogs/magazine/employee-gift-guide)
+    Updated: 2026-11-06T00:29:48Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
   - [気を遣わせない、それでいて記憶に残る。取引先へのお礼ギフト選び](https://mckkjp.com/blogs/magazine/thank-you-gifts-business-partners)
     Updated: 2026-10-27T02:34:33Z
     Author: 勇輝中町
@@ -240,8 +244,37 @@
     Updated: 2026-10-27T02:34:03Z
     Author: 勇輝中町
     Tags: コーポレートギフト
+  - [新入社員・内定者に贈る、香りのウェルカムギフト](https://mckkjp.com/blogs/magazine/welcome-gifts-for-new-employees)
+    Updated: 2026-11-06T01:10:10Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
   - [開業祝い・栄転祝いにお香を贈る意味](https://mckkjp.com/blogs/magazine/incense-gift-business-opening-)
     Updated: 2026-10-27T02:33:33Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [お世話になった方へ。送別会で贈る、香りのギフト](https://mckkjp.com/blogs/magazine/farewell-fragrance-gifts)
+    Updated: 2026-11-06T01:10:41Z
+    Author: 勇輝中町
+  - [ノベルティ、まだ「実用品」だけで選んでいませんか？](https://mckkjp.com/blogs/magazine/fragrance-novelty-gifts)
+    Updated: 2026-11-06T01:09:06Z
+    Author: 勇輝中町
+  - [贈り物にもサステナブルな選択を](https://mckkjp.com/blogs/magazine/sustainable-corporate-gifts)
+    Updated: 2026-11-06T01:12:27Z
+    Author: 勇輝中町
+  - [お客様の記憶に残る一室に。アメニティとしての香りの選び方](https://mckkjp.com/blogs/magazine/fragrance-amenities)
+    Updated: 2026-11-06T01:38:24Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [社員に贈る周年記念品の選び方。予算・実用性・会社らしさで考える](https://mckkjp.com/blogs/magazine/company-anniversary-gifts)
+    Updated: 2026-11-06T01:39:59Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [少人数にも、会社らしい贈り物を。小ロット法人ギフトの選び方](https://mckkjp.com/blogs/magazine/small-lot-corporate-gifts)
+    Updated: 2026-11-06T01:40:22Z
+    Author: 勇輝中町
+    Tags: コーポレートギフト
+  - [感謝と会社らしさを伝える。取引先に贈るコーポレートギフト](https://mckkjp.com/blogs/magazine/business-partner-corporate-gifts)
+    Updated: 2026-11-06T01:39:31Z
     Author: 勇輝中町
     Tags: コーポレートギフト
 
@@ -273,6 +306,8 @@
   Updated: 2026-10-01T06:01:18Z
 - [コーポレートギフト](https://mckkjp.com/pages/corporate-gift): 
   Updated: 2026-09-28T03:15:10Z
+- [クリスマスギフト 2026](https://mckkjp.com/pages/year-end-gift-2026): 
+  Updated: 2026-11-10T02:54:51Z
 
 ## Policies
 
