@@ -6,7 +6,7 @@
 - Timezone: Europe/Rome
 - Created At: 2025-04-23T15:52:29Z
 - Contact Email: stefano@panamaroute.com
-- Updated At: 2026-11-04T00:59:50.946Z
+- Updated At: 2026-11-12T00:49:41.259Z
 
 ## Products
 
@@ -1563,7 +1563,7 @@
     Availability: Not Available
     Price: 155,00 € EUR
 - [TOMMY 02 Blu](https://panamaroute.com/products/tommy-02-blu): Bomber con bottoni
-  Updated: 2026-10-16T17:30:28Z
+  Updated: 2026-11-06T21:55:26Z
   Vendor: Panama Route
   Product Type: 
   Availability: Available
@@ -1581,7 +1581,7 @@
     Availability: Available
     Price: 335,00 € EUR
   - [XL](https://panamaroute.com/products/tommy-02-blu?variant=58727868268808)
-    Availability: Available
+    Availability: Not Available
     Price: 335,00 € EUR
   - [XXL](https://panamaroute.com/products/tommy-02-blu?variant=58727868301576)
     Availability: Not Available
@@ -1956,7 +1956,7 @@
 - [Privacy Policy](https://panamaroute.com/policies/privacy-policy)
   Updated: 2026-11-01T07:05:33Z
 - [Shipping Policy](https://panamaroute.com/policies/shipping-policy)
-  Updated: 2026-10-20T08:36:41Z
+  Updated: 2026-11-05T04:44:36Z
 - [Refund Policy](https://panamaroute.com/policies/refund-policy)
   Updated: 2026-10-20T09:54:05Z
 - [Terms of Service](https://panamaroute.com/policies/terms-of-service)
