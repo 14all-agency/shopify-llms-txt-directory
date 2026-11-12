@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-28T12:24:23Z
 - Contact Email: andersonwaynegary23022000@gmail.com
-- Updated At: 2026-11-04T07:23:08.143Z
+- Updated At: 2026-11-12T01:03:55.601Z
 
 ## Products
 
@@ -2271,6 +2271,18 @@
     Author: SOLIA
   - [How to Optimize Small Spaces with a SOLIA U-Shaped Modular Sectional Enhanced Living Room Design Ideas for Pet Owners](https://soliaco.shop/blogs/news/how-to-optimize-small-spaces-with-a-solia-u-shaped-modular-sectional-enhanced-living-room-design-ideas-for-pet-owners): How to Optimize Small Spaces with a SOLIA U-Shaped Modular Sectional Enhanced Living Room Design Ideas for Pet Owners
     Updated: 2026-10-28T01:10:00Z
+    Author: SOLIA
+  - [Designing a Small Living Room Oasis with SOLIA's Pet-Friendly Deep Seat Cloud Couch Modular Sectional Sleeper](https://soliaco.shop/blogs/news/designing-a-small-living-room-oasis-with-solias-pet-friendly-deep-seat-cloud-couch-modular-sectional-sleeper): Designing a Small Living Room Oasis with SOLIA's Pet-Friendly Deep Seat Cloud Couch Modular Sectional Sleeper
+    Updated: 2026-11-04T10:00:24Z
+    Author: SOLIA
+  - [Discover the Best Pet-Friendly Modular Sectional Sleeper Ideal for Small Spaces and Comfortable Living Rooms](https://soliaco.shop/blogs/news/discover-the-best-pet-friendly-modular-sectional-sleeper-ideal-for-small-spaces-and-comfortable-living-rooms): Discover the Best Pet-Friendly Modular Sectional Sleeper Ideal for Small Spaces and Comfortable Living Rooms
+    Updated: 2026-11-09T10:00:22Z
+    Author: SOLIA
+  - [Mastering Small Space Living: Choosing the Perfect U-Shaped Cloud Couch and Pet-Friendly Modular Sectional for Comfortable and Stylish Living](https://soliaco.shop/blogs/news/mastering-small-space-living-choosing-the-perfect-u-shaped-cloud-couch-and-pet-friendly-modular-sectional-for-comfortable-and-stylish-living): Mastering Small Space Living: Choosing the Perfect U-Shaped Cloud Couch and Pet-Friendly Modular Sectional for Comfortable and Stylish Living
+    Updated: 2026-11-10T10:02:00Z
+    Author: SOLIA
+  - [How to Choose the Best Solia Cloud Couch for a Chic and Pet-Friendly Living Room With Design Tips and Cleaning Essentials Using a Modulal L-Shaped Sleeper Concept](https://soliaco.shop/blogs/news/how-to-choose-the-best-solia-cloud-couch-for-a-chic-and-pet-friendly-living-room-with-design-tips-and-cleaning-essentials-using-a-modulal-l-shaped-sleeper-concept): How to Choose the Best Solia Cloud Couch for a Chic and Pet-Friendly Living Room With Design Tips and Cleaning Essentials Using a Modulal L-Shaped Sleeper Concept
+    Updated: 2026-11-11T10:03:33Z
     Author: SOLIA
 
 ## Store Pages
