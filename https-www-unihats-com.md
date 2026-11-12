@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-17T05:39:00Z
 - Contact Email: bonillacross00@gmail.com
-- Updated At: 2026-11-04T17:08:35.579Z
+- Updated At: 2026-11-12T01:13:38.814Z
 
 ## Products
 
 - [Cotton Newsboy Cap - Soft 8 Panel Style | Uhatsco](https://www.unihats.com/products/cotton-newsboy-cap-8-panel-balloon-crown-with-duck-bill-brim): Cotton newsboy cap with a balloon crown and duck bill brim in eight colors. Light, soft and easy to wear daily. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:11Z
+  Updated: 2026-11-04T17:17:43Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -49,7 +49,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1020-8-1.jpg?v=1793440986
     Price: $22.99 USD
 - [Wool Blend Newsboy Cap - Warm Cabbie Style | Uhatsco](https://www.unihats.com/products/wool-blend-newsboy-cap-with-top-button-and-cabbie-style-brim): Wool blend newsboy cap with an 8 panel balloon crown and lined interior for cool days. Olive, black and dark gray. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:11Z
+  Updated: 2026-11-04T17:17:43Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -67,7 +67,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1019-3-1.jpg?v=1793440987
     Price: $23.99 USD
 - [Herringbone Newsboy Cap - Washed Cotton | Uhatsco](https://www.unihats.com/products/herringbone-newsboy-cap-in-washed-cotton-with-8-panel-crown): Herringbone newsboy cap in washed cotton with a balloon crown and mesh lining. Three gray and black shades. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:14Z
+  Updated: 2026-11-04T17:17:43Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -85,7 +85,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1018-3-1.jpg?v=1793440989
     Price: $23.99 USD
 - [Corduroy Newsboy Cap - Washed Cotton Texture | Uhatsco](https://www.unihats.com/products/washed-corduroy-newsboy-cap-8-panel-cotton-baker-boy-style): Corduroy newsboy cap in washed cotton with a balloon crown and top button. Six colors with a soft feel. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:15Z
+  Updated: 2026-11-04T17:17:44Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -114,7 +114,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1009-6-1.jpg?v=1793440990
     Price: $23.99 USD
 - [Faux Leather Flat Cap - Vintage Stretch Fit | Uhatsco](https://www.unihats.com/products/faux-leather-flat-cap-vintage-stretch-fit-ivy-style-polyester): Faux leather flat cap with a waxed finish, sweatband and elastic back for a flexible fit. Two sizes, five colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:16Z
+  Updated: 2026-11-04T17:17:44Z
   Vendor: Uhatsco
   Product Type: Flat Caps
   Availability: Available
@@ -156,7 +156,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-001-4-1.jpg?v=1793440991
     Price: $16.99 USD
 - [Washed Cotton Flat Cap - Stretch Fit Cabbie | Uhatsco](https://www.unihats.com/products/washed-cotton-flat-cap-cabbie-style-with-elastic-back-fit): Washed cotton flat cap with a six panel crown, sweatband and elastic back. Four colors, two sizes. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:16Z
+  Updated: 2026-11-04T17:17:44Z
   Vendor: Uhatsco
   Product Type: Flat Caps
   Availability: Available
@@ -186,7 +186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-003-11-1.jpg?v=1793440993
     Price: $16.99 USD
 - [Solid Color Flat Cap - Classic Cotton Cabbie | Uhatsco](https://www.unihats.com/products/solid-color-flat-cap-in-cotton-with-sweatband-and-stiff-brim): Solid color flat cap in 100% cotton with a sweatband and small stiff brim. Gray, black or blue gray in two sizes. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:19Z
+  Updated: 2026-11-04T17:17:44Z
   Vendor: Uhatsco
   Product Type: Flat Caps
   Availability: Available
@@ -216,7 +216,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-004-11-1.jpg?v=1793440994
     Price: $16.99 USD
 - [Angora Blend Beret - Furry Winter Hat | Uhatsco](https://www.unihats.com/products/angora-blend-beret-furry-flat-top-winter-hat-with-optional-tab): Angora blend beret with a furry texture and slouchy flat top crown. Pick a tab or no tab in many colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:22Z
+  Updated: 2026-11-04T17:17:44Z
   Vendor: Uhatsco
   Product Type: Berets
   Availability: Available
@@ -302,7 +302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-781-20-1.jpg?v=1793440996
     Price: $5.99 USD
 - [Faux Leather Newsboy Hat - Color Block Straps | Uhatsco](https://www.unihats.com/products/faux-leather-newsboy-hat-color-block-side-straps-duck-bill): Faux leather newsboy hat with color blocked side straps, duck bill brim and cotton blend lining. Black, brown or ochre. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:22Z
+  Updated: 2026-11-04T17:17:45Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -320,7 +320,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-980-3-1.jpg?v=1793440997
     Price: $9.99 USD
 - [Flex Fit Newsboy Hat - Wool or Faux Suede | Uhatsco](https://www.unihats.com/products/flex-fit-newsboy-hat-in-wool-or-faux-suede-with-duck-bill-brim): Flex fit newsboy hat in wool or faux suede with soft lining and duck bill brim. Seven colors, two sizes. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:24Z
+  Updated: 2026-11-04T17:17:45Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -374,7 +374,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-989-7-1.jpg?v=1793440999
     Price: $17.99 USD
 - [Cotton Jersey Newsboy Cap - Soft Stretch Fit | Uhatsco](https://www.unihats.com/products/cotton-jersey-newsboy-cap-soft-stretch-fit-with-elastic-back): Cotton jersey newsboy cap with an elastic back, small stiff brim and no lining. Four colors, two sizes. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:24Z
+  Updated: 2026-11-04T17:17:46Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -408,7 +408,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-506-8-1.jpg?v=1793441000
     Price: $17.99 USD
 - [Side Strap Newsboy Cap - Cotton Jersey | Uhatsco](https://www.unihats.com/products/side-strap-newsboy-cap-in-cotton-jersey-with-adjustable-fit): Side strap newsboy cap in soft cotton jersey with a cotton covered brim and cotton blend lining. Dark gray or black. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:26Z
+  Updated: 2026-11-04T17:17:46Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -421,7 +421,7 @@
     Availability: Available
     Price: $5.99 USD
 - [Wool Blend Beret - Flat Top Winter Hat | Uhatsco](https://www.unihats.com/products/wool-blend-beret-french-style-flat-top-dome-crown-with-tab): Wool blend beret with a flat top dome crown and center tab in twelve colors. A warm French style winter hat. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:27Z
+  Updated: 2026-11-04T17:17:46Z
   Vendor: Uhatsco
   Product Type: Berets
   Availability: Available
@@ -475,7 +475,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1012-12-1.jpg?v=1793441003
     Price: $5.99 USD
 - [Newsboy Cabbie Cap - Twill Corduroy or Shiny | Uhatsco](https://www.unihats.com/products/newsboy-cabbie-cap-8-panel-in-twill-corduroy-or-shiny-finish): Newsboy cabbie cap with an 8 panel crown, satin string lining and three fabric finishes. Many colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:29Z
+  Updated: 2026-11-04T17:17:46Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -533,7 +533,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-1001-13-1.jpg?v=1793441005
     Price: $5.99 USD
 - [Suede Newsboy Cap - Pompom and Sherpa Lining | Uhatsco](https://www.unihats.com/products/suede-newsboy-cap-with-pompom-and-faux-sherpa-fur-lining): Suede newsboy cap with an attachable pompom, faux sherpa lining and duck bill brim. Five colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:30Z
+  Updated: 2026-11-04T17:17:47Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -559,7 +559,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-763-5-1.jpg?v=1793441006
     Price: $5.99 USD
 - [Striped Newsboy Cap - Wool Blend Cabbie Hat | Uhatsco](https://www.unihats.com/products/striped-newsboy-cap-in-wool-blend-with-patterned-lining): Striped newsboy cap in a wool blend with an 8 panel crown and patterned lining. Four colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:31Z
+  Updated: 2026-11-04T17:17:47Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -581,7 +581,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-762-4-1.jpg?v=1793441007
     Price: $5.99 USD
 - [Checkered Newsboy Cap - Wool Blend Hat | Uhatsco](https://www.unihats.com/products/checkered-newsboy-cap-in-wool-blend-6-panel-with-fabric-lining): Checkered newsboy cap in a wool blend with a six panel crown and fabric lining. Four check colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:33Z
+  Updated: 2026-11-04T17:17:47Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -603,7 +603,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-761-4-1.jpg?v=1793441008
     Price: $5.99 USD
 - [Solid Color Newsboy Cap - 8 Panel Cotton | Uhatsco](https://www.unihats.com/products/solid-color-newsboy-cap-8-panel-cotton-with-faux-leather-option): Solid color newsboy cap in cotton with a faux leather option, soft cotton lining and duck bill brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:35Z
+  Updated: 2026-11-04T17:17:47Z
   Vendor: Uhatsco
   Product Type: Newsboy Caps
   Availability: Available
@@ -625,7 +625,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-773-4-1.jpg?v=1793441010
     Price: $5.99 USD
 - [Furry Wool Beret - Tassel Flat Top Hat | Uhatsco](https://www.unihats.com/products/furry-wool-beret-with-tassel-accent-flat-top-winter-hat): Furry wool beret with a soft textured top, tassel accent and slouchy flat crown. Pink, black, light brown or ivory. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:35Z
+  Updated: 2026-11-04T17:17:48Z
   Vendor: Uhatsco
   Product Type: Berets
   Availability: Available
@@ -647,7 +647,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-799-4-1.jpg?v=1793441011
     Price: $5.99 USD
 - [Faux Fur Beret - 8 Panel Winter Hat | Uhatsco](https://www.unihats.com/products/faux-fur-beret-8-panel-flat-top-winter-hat-in-polyester): Faux fur beret with an eight panel flat top crown in nine colors. A soft French style winter hat. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:36Z
+  Updated: 2026-11-04T17:17:48Z
   Vendor: Uhatsco
   Product Type: Berets
   Availability: Available
@@ -689,7 +689,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/flatcap-877-9-1.jpg?v=1793441012
     Price: $5.99 USD
 - [Mesh Back Snapback Hat - Flat Brim Cap | Uhatsco](https://www.unihats.com/products/mesh-back-snapback-hat-six-panel-flat-brim-blank-baseball-cap): Mesh back snapback hat with a six panel structured crown and flat brim in nine colors and camo. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:38Z
+  Updated: 2026-11-04T17:17:48Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -731,7 +731,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2833-9-1.jpg?v=1793441014
     Price: $6.99 USD
 - [Cotton Trucker Hat - Blank Six Panel Cap | Uhatsco](https://www.unihats.com/products/blank-six-panel-cotton-trucker-hat-hook-and-loop-back-curved-brim): Cotton trucker hat with a blank six panel crown, curved brim and hook and loop back in eight colors. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:39Z
+  Updated: 2026-11-04T17:17:48Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -769,7 +769,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2835-8-1.jpg?v=1793441015
     Price: $6.99 USD
 - [Extra Large Trucker Hat - Camo Under Brim | Uhatsco](https://www.unihats.com/products/extra-large-trucker-hat-with-camo-under-brim-and-mesh-back): Extra large trucker hat with a roomy 24.4 inch band, mesh back and camo under brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:41Z
+  Updated: 2026-11-04T17:17:49Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -799,7 +799,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2819-6-1.jpg?v=1793441017
     Price: $9.99 USD
 - [Distressed Trucker Hat - Contrast Stitch Brim | Uhatsco](https://www.unihats.com/products/distressed-trucker-hat-with-contrast-stitch-brim-and-mesh-back): Distressed trucker hat with washed cotton, contrast stitch brim and mesh back in two sizes. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:42Z
+  Updated: 2026-11-04T17:17:49Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -837,7 +837,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2799-4-1.jpg?v=1793441018
     Price: $12.99 USD
 - [Blank Trucker Hat 10 Pack - Six Panel Mesh | Uhatsco](https://www.unihats.com/products/blank-trucker-hat-10-pack-with-six-panel-mesh-back): Blank trucker hat 10 pack with six panel crown, mesh back and curved brim for teams, clubs and events. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:43Z
+  Updated: 2026-11-04T17:17:49Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -879,7 +879,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2834-9-1.jpg?v=1793441020
     Price: $74.99 USD
 - [Corduroy Dad Hat - Plaid Underbrim Cap | Uhatsco](https://www.unihats.com/products/corduroy-dad-hat-with-plaid-underbrim-cotton-low-profile-cap): Corduroy dad hat in 100% cotton with a hidden plaid underbrim and low profile shape. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:46Z
+  Updated: 2026-11-04T17:17:50Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -901,7 +901,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2862-4-1.jpg?v=1793441021
     Price: $24.99 USD
 - [Space Shuttle Trucker Hat - Embroidered Patch | Uhatsco](https://www.unihats.com/products/space-shuttle-trucker-hat-with-embroidered-launch-scene): Space shuttle trucker hat with a high density embroidered launch scene and rear logo. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:47Z
+  Updated: 2026-11-04T17:17:50Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -915,7 +915,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2863-2-1.jpg?v=1793441022
     Price: $24.99 USD
 - [Eagle Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/eagle-embroidered-trucker-hat-with-mascot-and-back-lettering): Eagle embroidered trucker hat with a bold mascot, curved back lettering and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:48Z
+  Updated: 2026-11-04T17:17:50Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -929,7 +929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2861-1-1.jpg?v=1793441023
     Price: $26.99 USD
 - [Wolf Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/wolf-embroidered-trucker-hat-with-mascot-and-back-lettering): Wolf embroidered trucker hat with a bold mascot, curved back lettering and mesh back in navy. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:48Z
+  Updated: 2026-11-04T17:17:50Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -943,7 +943,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2860-1-1.jpg?v=1793441024
     Price: $26.99 USD
 - [Star Patch Trucker Hat - Faux Leather Front | Uhatsco](https://www.unihats.com/products/faux-leather-star-patch-trucker-hat-with-heavy-duty-mesh-back): Star patch trucker hat with a faux leather star, torn brim and dense mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:50Z
+  Updated: 2026-11-04T17:17:51Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -981,7 +981,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2824-4-1.jpg?v=1793441026
     Price: $25.99 USD
 - [Pirate Trucker Hat - Embroidered Skull Sides | Uhatsco](https://www.unihats.com/products/pirate-trucker-hat-with-embroidered-flag-patch-and-skull-sides): Pirate trucker hat with a large embroidered patch, skull side prints and a distressed brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:52Z
+  Updated: 2026-11-04T17:17:51Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1019,14 +1019,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2859-4-1.jpg?v=1793441027
     Price: $26.99 USD
 - [Mars Mission Trucker Hat - Sand Distressed | Uhatsco](https://www.unihats.com/products/mars-mission-trucker-hat-with-embroidered-patch-and-rear-lettering): Mars mission trucker hat in sand with an embroidered patch, torn brim and rear lettering. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:52Z
+  Updated: 2026-11-04T17:17:51Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2857-1-1.jpg?v=1793441028
   Price: $27.99 USD
 - [Color Block Trucker Hat - Mars Patch | Uhatsco](https://www.unihats.com/products/color-block-trucker-hat-with-mars-mission-patch-and-torn-brim): Color block trucker hat with an embroidered mars mission patch, torn brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:54Z
+  Updated: 2026-11-04T17:17:51Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1048,21 +1048,21 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2856-2-1.jpg?v=1793441029
     Price: $26.99 USD
 - [Pirate Skull Golf Hat - Lightweight Sport Cap | Uhatsco](https://www.unihats.com/products/pirate-skull-golf-hat-lightweight-polyester-spandex-sport-cap): Pirate skull golf hat in lightweight, quick drying fabric with embroidery and adjustable strap. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:54Z
+  Updated: 2026-11-04T17:17:52Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2858-1-1.jpg?v=1793441030
   Price: $26.99 USD
 - [Pirate Skull Tennis Hat - Crossed Rackets | Uhatsco](https://www.unihats.com/products/pirate-skull-tennis-hat-with-crossed-rackets-lightweight-sport-cap): Pirate skull tennis hat with crossed rackets embroidery in lightweight, quick drying white fabric. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:56Z
+  Updated: 2026-11-04T17:17:53Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2854-1-1.jpg?v=1793441031
   Price: $26.99 USD
 - [USA Flag Trucker Hat - Embroidered Flat Bill | Uhatsco](https://www.unihats.com/products/usa-flag-trucker-hat-with-embroidered-flag-and-flat-bill): USA flag trucker hat with front and side flag embroidery, flat bill and snapback fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:59Z
+  Updated: 2026-11-04T17:17:53Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1100,7 +1100,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2855-8-1.jpg?v=1793441033
     Price: $22.99 USD
 - [Varsity Trucker Hat - Letter M Embroidery | Uhatsco](https://www.unihats.com/products/varsity-trucker-hat-with-embroidered-letter-m-and-color-block-brim): Varsity trucker hat with a large embroidered letter M, color block brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:03:58Z
+  Updated: 2026-11-04T17:17:54Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1122,7 +1122,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2853-2-1_42ed1be0-6194-4adb-aaca-182ced1025aa.jpg?v=1793441034
     Price: $26.99 USD
 - [Retro Mars Trucker Hat - Mission Patch | Uhatsco](https://www.unihats.com/products/retro-mars-trucker-hat-with-mission-patch-and-back-embroidery): Retro mars trucker hat with a multi color mission patch, torn brim and back lettering. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:02Z
+  Updated: 2026-11-04T17:17:54Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1144,21 +1144,21 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2852-2-1.jpg?v=1793441035
     Price: $26.99 USD
 - [Cowboy Trucker Hat - Wild West Embroidery | Uhatsco](https://www.unihats.com/products/cowboy-trucker-hat-with-embroidered-western-hat-and-wild-west-back): Cowboy trucker hat with an embroidered cowboy hat and stars, Wild West back and torn brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:02Z
+  Updated: 2026-11-04T17:17:54Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2851-1-1.jpg?v=1793441036
   Price: $26.99 USD
 - [Death Valley Trucker Hat - Raven Embroidery | Uhatsco](https://www.unihats.com/products/death-valley-trucker-hat-with-badwater-basin-and-raven-embroidery): Death Valley trucker hat with Badwater Basin and raven embroidery, torn brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:03Z
+  Updated: 2026-11-04T17:17:54Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2849-1-1.jpg?v=1793441037
   Price: $25.99 USD
 - [Grand Canyon Trucker Hat - Bighorn Scene | Uhatsco](https://www.unihats.com/products/grand-canyon-trucker-hat-with-bighorn-sheep-embroidery): Grand Canyon trucker hat with cliffs, Deer Creek and bighorn sheep embroidery on a mesh back cap. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:05Z
+  Updated: 2026-11-04T17:17:55Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1172,7 +1172,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2845-2-1.jpg?v=1793441039
     Price: $26.99 USD
 - [Rocky Mountain Trucker Hat - Coyote Scene | Uhatsco](https://www.unihats.com/products/rocky-mountain-trucker-hat-with-pine-and-coyote-embroidery): Rocky Mountain trucker hat with pines and coyote panorama embroidery, torn brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:04Z
+  Updated: 2026-11-04T17:17:55Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1186,7 +1186,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2846-2-1.jpg?v=1793441040
     Price: $26.99 USD
 - [Yellowstone Trucker Hat - Bison Embroidery | Uhatsco](https://www.unihats.com/products/yellowstone-trucker-hat-with-bison-and-prismatic-spring-embroidery): Yellowstone trucker hat with bison and Grand Prismatic Spring embroidery, torn brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:05Z
+  Updated: 2026-11-04T17:17:55Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1208,7 +1208,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2847-2-1.jpg?v=1793441041
     Price: $26.99 USD
 - [Grand Teton Trucker Hat - Moose Embroidery | Uhatsco](https://www.unihats.com/products/grand-teton-trucker-hat-with-moose-and-starry-sky-embroidery): Grand Teton trucker hat with mountain, moose and starry sky embroidery, torn brim and mesh back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:07Z
+  Updated: 2026-11-04T17:17:55Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1226,14 +1226,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2848-3-1.jpg?v=1793441042
     Price: $27.99 USD
 - [Albatross Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/albatross-embroidered-trucker-hat-starry-night-patch): Shop our albatross embroidered trucker hat in dark gray. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:09Z
+  Updated: 2026-11-04T17:17:56Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2843-1-1.jpg?v=1793441043
   Price: $9.99 USD
 - [Americana Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/americana-trucker-hat-embroidered-round-logo-patch): Shop our americana trucker hat in red and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:08Z
+  Updated: 2026-11-04T17:17:56Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1247,7 +1247,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2844-2-1.jpg?v=1793441044
     Price: $19.99 USD
 - [Retro Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/retro-embroidered-trucker-hat-colorful-brim-stitching-mesh-back): Shop our retro embroidered trucker hat in gray, navy, black and blue. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:10Z
+  Updated: 2026-11-04T17:17:56Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1273,56 +1273,56 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2722-9-1.jpg?v=1793441045
     Price: $5.99 USD
 - [Swallow Embroidered Baseball Cap - Cotton | Uhatsco](https://www.unihats.com/products/swallow-embroidered-baseball-cap-turquoise-cloud-accent): Shop our swallow embroidered baseball cap in navy. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:10Z
+  Updated: 2026-11-04T17:17:57Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2771-2-1_65118b3e-7a54-4d0b-a257-6f90acc4c43a.jpg?v=1793441046
   Price: $5.99 USD
 - [Tree Embroidered Baseball Cap - Cotton | Uhatsco](https://www.unihats.com/products/tree-embroidered-baseball-cap-swing-and-bird-motif): Shop our tree embroidered baseball cap in navy. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:11Z
+  Updated: 2026-11-04T17:17:57Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2771-3-1_71f4089a-aa64-4c8a-957d-9efb95ef9fdb.jpg?v=1793441047
   Price: $5.99 USD
 - [Mandala Embroidered Baseball Cap - Cotton | Uhatsco](https://www.unihats.com/products/mandala-embroidered-baseball-cap-pink-and-blue-flower): Shop our mandala embroidered baseball cap in gray. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:14Z
+  Updated: 2026-11-04T17:17:57Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2771-4-1_124db041-3c31-4f21-838a-81950e52aa0b.jpg?v=1793441048
   Price: $5.99 USD
 - [Mountain Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/mountain-embroidered-trucker-hat-contrast-brim-stitching): Shop our mountain embroidered trucker hat in navy. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:14Z
+  Updated: 2026-11-04T17:17:58Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2770-4-1_6418b1bd-be80-47d4-bbdf-f9a910c2a208.jpg?v=1793441049
   Price: $5.99 USD
 - [Cloud and Sun Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/cloud-and-sun-trucker-hat-embroidered-large-fit-snapback): Shop our cloud and sun trucker hat in navy. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:15Z
+  Updated: 2026-11-04T17:17:58Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2770-3-1_e56bb9fa-6529-4f26-b9a2-18b4ac472323.jpg?v=1793441050
   Price: $5.99 USD
 - [Camping Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/camping-embroidered-trucker-hat-campfire-patch-large-fit): Shop our camping embroidered trucker hat in navy. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:15Z
+  Updated: 2026-11-04T17:17:58Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2770-2-1_ef6535f9-870b-4c3a-82f4-b68674dbc7f5.jpg?v=1793441051
   Price: $5.99 USD
 - [State Pride Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/state-pride-trucker-hat-embroidered-california-new-york): Shop our state pride trucker hat in black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:17Z
+  Updated: 2026-11-04T17:17:58Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2692-2-1_020ccb9e-66f1-496d-82d7-9182c9f4d833.jpg?v=1793441052
   Price: $5.99 USD
 - [Roadtrip Hexagon Patch Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/roadtrip-hexagon-patch-trucker-hat-faux-leather-brim): Shop our roadtrip hexagon patch trucker hat in beige, blue and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:20Z
+  Updated: 2026-11-04T17:17:59Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1340,7 +1340,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2841-3-1.jpg?v=1793441053
     Price: $24.99 USD
 - [Tree Patch Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/tree-patch-trucker-hat-faux-leather-emblem-mesh-back): Shop our tree patch trucker hat in olive, beige and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:21Z
+  Updated: 2026-11-04T17:17:59Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1358,7 +1358,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2842-3-1.jpg?v=1793441054
     Price: $20.99 USD
 - [California Bear Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/california-bear-trucker-hat-embroidered-torn-brim): Shop our california bear trucker hat in brown and blue. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:20Z
+  Updated: 2026-11-04T17:17:59Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1372,7 +1372,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2839-2-1.jpg?v=1793441056
     Price: $26.99 USD
 - [Flat Bill Trucker Hat - Snapback | Uhatsco](https://www.unihats.com/products/flat-bill-trucker-hat-six-panel-polyester-snapback): Shop our flat bill trucker hat in navy, charcoal, black, gray, blue, red, white and khaki. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:20Z
+  Updated: 2026-11-04T17:17:59Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1410,7 +1410,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2837-8-1.jpg?v=1793441057
     Price: $6.99 USD
 - [USA Road Trip Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/usa-road-trip-trucker-hat-map-patch-distressed-brim): Shop our usa road trip trucker hat in navy and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:22Z
+  Updated: 2026-11-04T17:18:00Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1432,14 +1432,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2808-2-1.jpg?v=1793441057
     Price: $26.99 USD
 - [Guitar Pick Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/guitar-pick-trucker-hat-rock-and-roll-embroidery): Shop our guitar pick trucker hat in black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:23Z
+  Updated: 2026-11-04T17:18:00Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2828-1-1.jpg?v=1793441059
   Price: $24.99 USD
 - [Glacier Bay Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/glacier-bay-trucker-hat-full-front-embroidered-patch): Shop our glacier bay trucker hat in blue and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:25Z
+  Updated: 2026-11-04T17:18:00Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1453,7 +1453,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2825-2-1.jpg?v=1793441060
     Price: $25.99 USD
 - [Muscle Car Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/american-muscle-car-trucker-hat-3d-style-embroidery): Shop our muscle car trucker hat in navy and beige. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:26Z
+  Updated: 2026-11-04T17:18:01Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1467,7 +1467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2826-2-1.jpg?v=1793441061
     Price: $9.99 USD
 - [Fish Embroidered Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/fish-embroidered-trucker-hat-go-with-the-flow-rock-the-boat): Shop our fish embroidered trucker hat in black, navy, sky blue and red. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:27Z
+  Updated: 2026-11-04T17:18:01Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1489,7 +1489,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2827-4-1.jpg?v=1793441062
     Price: $16.99 USD
 - [Lucky Clover Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/lucky-clover-trucker-hat-washed-cotton-mesh-back): Shop our lucky clover trucker hat in black and beige. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:28Z
+  Updated: 2026-11-04T17:18:01Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1503,7 +1503,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2822-2-1.jpg?v=1793441064
     Price: $21.99 USD
 - [Gray Wolf Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/gray-wolf-trucker-hat-full-moon-embroidered-patch): Shop our gray wolf trucker hat in navy, beige and black. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:29Z
+  Updated: 2026-11-04T17:18:01Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1521,7 +1521,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2823-3-1.jpg?v=1793441064
     Price: $15.99 USD
 - [Yosemite Trucker Hat - Mesh Back | Uhatsco](https://www.unihats.com/products/yosemite-trucker-hat-embroidered-granite-peaks-and-deer): Shop our yosemite trucker hat in white and dark gray. Easy to style for daily wear. Shop now with free US shipping.
-  Updated: 2026-11-03T18:45:36Z
+  Updated: 2026-11-04T17:18:01Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1535,7 +1535,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2820-2-1.jpg?v=1793441066
     Price: $25.99 USD
 - [Koi Fish Embroidered Trucker Hat - Torn Brim | Uhatsco](https://www.unihats.com/products/koi-fish-embroidered-trucker-hat-with-torn-brim-cotton-blend): Koi fish embroidered trucker hat with torn brim, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:32Z
+  Updated: 2026-11-04T17:18:02Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1549,7 +1549,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2821-2-1.jpg?v=1793441067
     Price: $26.99 USD
 - [Huntington Beach Trucker Hat - Round Patch | Uhatsco](https://www.unihats.com/products/huntington-beach-trucker-hat-round-patch-mesh-back-cotton-blend): Huntington Beach trucker hat with round patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:35Z
+  Updated: 2026-11-04T17:18:02Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1571,7 +1571,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2818-4-1.jpg?v=1793441068
     Price: $9.99 USD
 - [Manhattan Trucker Hat - NYC 1976 | Uhatsco](https://www.unihats.com/products/manhattan-trucker-hat-nyc-1976-embroidery-mesh-back-cotton-blend): Manhattan trucker hat with nyc 1976, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:34Z
+  Updated: 2026-11-04T17:18:02Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1593,7 +1593,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2817-4-1.jpg?v=1793441070
     Price: $16.99 USD
 - [Blue Whale Embroidered Trucker Hat - Wave Patch | Uhatsco](https://www.unihats.com/products/blue-whale-embroidered-trucker-hat-wave-patch-cotton-blend): Blue whale embroidered trucker hat with wave patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:34Z
+  Updated: 2026-11-04T17:18:03Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1607,7 +1607,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2816-2-1.jpg?v=1793441071
     Price: $9.99 USD
 - [Mars Mission Trucker Hat - Six Line Brim | Uhatsco](https://www.unihats.com/products/mars-mission-trucker-hat-rectangle-patch-six-line-brim-cotton): Mars mission trucker hat with six line brim, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:36Z
+  Updated: 2026-11-04T17:18:03Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1633,7 +1633,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2813-4-1_d6f75967-a0d1-4c2f-814b-e974a3349b59.jpg?v=1793441072
     Price: $29.99 USD
 - [Road Trip Embroidered Trucker Hat - Round Patch | Uhatsco](https://www.unihats.com/products/road-trip-embroidered-trucker-hat-round-patch-cotton-blend): Road trip embroidered trucker hat with round patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:37Z
+  Updated: 2026-11-04T17:18:03Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1655,14 +1655,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2814-4-1.jpg?v=1793441073
     Price: $16.99 USD
 - [Mars Rover Trucker Hat - Hexagon Patch | Uhatsco](https://www.unihats.com/products/mars-rover-trucker-hat-hexagon-patch-orange-color-blocked-mesh): Mars rover trucker hat with hexagon patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:38Z
+  Updated: 2026-11-04T17:18:03Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2813-1-1.jpg?v=1793441074
   Price: $20.99 USD
 - [Great Smoky Mountains Trucker Hat - Bear Patch | Uhatsco](https://www.unihats.com/products/great-smoky-mountains-trucker-hat-bear-embroidery-cotton-blend): Great Smoky Mountains trucker hat with bear patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:40Z
+  Updated: 2026-11-04T17:18:04Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1684,7 +1684,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2812-2-1_ad7722d1-d6c4-4497-8622-1c67f5381792.jpg?v=1793441076
     Price: $26.99 USD
 - [Maui Trucker Hat - Sea Turtle Patch | Uhatsco](https://www.unihats.com/products/maui-trucker-hat-save-the-ocean-sea-turtle-patch-cotton-blend): Maui trucker hat with sea turtle patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:42Z
+  Updated: 2026-11-04T17:18:04Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1706,7 +1706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2810-4-1.jpg?v=1793441077
     Price: $20.99 USD
 - [Faux Suede Trucker Hat - Star Embroidery | Uhatsco](https://www.unihats.com/products/faux-suede-trucker-hat-star-embroidery-half-mesh-cotton-blend): Faux suede trucker hat with star embroidery, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:43Z
+  Updated: 2026-11-04T17:18:04Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1752,7 +1752,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2809-5-1.jpg?v=1793441079
     Price: $25.99 USD
 - [Route 66 Trucker Hat - Plate Embroidery | Uhatsco](https://www.unihats.com/products/route-66-trucker-hat-plate-embroidery-half-mesh-cotton-blend): Route 66 trucker hat with plate embroidery, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:44Z
+  Updated: 2026-11-04T17:18:04Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1766,7 +1766,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2293-2-1.jpg?v=1793441080
     Price: $27.99 USD
 - [California Bear Flag Trucker Hat - Hard Crown | Uhatsco](https://www.unihats.com/products/california-bear-flag-trucker-hat-hard-crown-cotton-mesh-back): California bear flag trucker hat with hard crown, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:45Z
+  Updated: 2026-11-04T17:18:05Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1788,7 +1788,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1773-2-1.jpg?v=1793441081
     Price: $25.99 USD
 - [Mission Logo Trucker Hat - Half Mesh | Uhatsco](https://www.unihats.com/products/mission-logo-trucker-hat-distressed-cotton-half-mesh-dad-hat): Mission logo trucker hat with half mesh, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:47Z
+  Updated: 2026-11-04T17:18:05Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1826,7 +1826,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2806-5-1.jpg?v=1793441083
     Price: $5.99 USD
 - [Retro Beer Logo Trucker Hat - Distressed Cotton | Uhatsco](https://www.unihats.com/products/retro-beer-logo-trucker-hat-distressed-cotton-half-mesh): Retro beer logo trucker hat with distressed cotton, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:49Z
+  Updated: 2026-11-04T17:18:05Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1848,7 +1848,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2802-4-1.jpg?v=1793441085
     Price: $9.99 USD
 - [Star Embroidered Trucker Hat - Heavy Mesh Back | Uhatsco](https://www.unihats.com/products/star-embroidered-trucker-hat-heavy-mesh-back-cotton-blend): Star embroidered trucker hat with heavy mesh back, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:50Z
+  Updated: 2026-11-04T17:18:05Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -1942,7 +1942,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2800-11-1_jpg.jpg?v=1793441087
     Price: $24.99 USD
 - [Lucky Thunder Trucker Hat - 1965 Drink Patch | Uhatsco](https://www.unihats.com/products/lucky-thunder-trucker-hat-1965-drink-patch-distressed-snapback): Lucky thunder trucker hat with 1965 drink patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:53Z
+  Updated: 2026-11-04T17:18:06Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2024,7 +2024,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2801-10-1.jpg?v=1793441089
     Price: $29.99 USD
 - [Mountain Adventure Trucker Hat - Dual Patch | Uhatsco](https://www.unihats.com/products/mountain-adventure-trucker-hat-dual-patch-distressed-cotton): Mountain adventure trucker hat with dual patch, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:54Z
+  Updated: 2026-11-04T17:18:06Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2046,7 +2046,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2798-4-1.jpg?v=1793441090
     Price: $24.99 USD
 - [Solid Color Dad Hat - Strapback Cotton | Uhatsco](https://www.unihats.com/products/solid-color-dad-hat-unstructured-strapback-cotton-distressed): Solid color dad hat with strapback cotton, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:56Z
+  Updated: 2026-11-04T17:18:06Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2068,7 +2068,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2793-4-1.jpg?v=1793441092
     Price: $5.99 USD
 - [Faux Suede Brim Baseball Cap - Cotton Crown | Uhatsco](https://www.unihats.com/products/faux-suede-brim-baseball-cap-cotton-crown-strapback): Faux suede brim baseball cap with cotton crown, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:57Z
+  Updated: 2026-11-04T17:18:06Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2082,7 +2082,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2790-2-1.jpg?v=1793441093
     Price: $5.99 USD
 - [Flannel Plaid Baseball Cap - Cotton Flannel | Uhatsco](https://www.unihats.com/products/cotton-flannel-plaid-baseball-cap-five-panel-strapback): Flannel plaid baseball cap with cotton flannel, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:59Z
+  Updated: 2026-11-04T17:18:07Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2096,7 +2096,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2791-2-1.jpg?v=1793441094
     Price: $5.99 USD
 - [Denim Crown Baseball Cap - Faux Suede Brim | Uhatsco](https://www.unihats.com/products/denim-crown-baseball-cap-faux-suede-brim-strapback): Denim crown baseball cap with faux suede brim, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:04:59Z
+  Updated: 2026-11-04T17:18:07Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2110,21 +2110,21 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2781-2-1.jpg?v=1793441095
     Price: $5.99 USD
 - [Deer Embroidered Trucker Hat - Time to Explore | Uhatsco](https://www.unihats.com/products/deer-embroidered-trucker-hat-time-to-explore-mesh-back-large): Deer embroidered trucker hat with time to explore, easy fit and a worn in look. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:00Z
+  Updated: 2026-11-04T17:18:07Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2770-1-1.jpg?v=1793441096
   Price: $5.99 USD
 - [Embroidered Baseball Cap - Easy Daily Style | Uhatsco](https://www.unihats.com/products/embroidered-baseball-cap-red-airplane-heart-trail-beige-cotton): Shop this embroidered baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:01Z
+  Updated: 2026-11-04T17:18:08Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2771-1-1.jpg?v=1793441097
   Price: $5.99 USD
 - [Space Logo Trucker Hat - Mission Patch Large | Uhatsco](https://www.unihats.com/products/space-logo-trucker-hat-mission-patch-mesh-back-large-fit): Shop this space logo trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:03Z
+  Updated: 2026-11-04T17:18:08Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2146,7 +2146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2759-4-1.jpg?v=1793441099
     Price: $17.99 USD
 - [Retro Embroidered Trucker Hat - Easy Daily Style | Uhatsco](https://www.unihats.com/products/retro-embroidered-trucker-hat-sun-and-number-70-designs-cotton): Shop this retro embroidered trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:05Z
+  Updated: 2026-11-04T17:18:08Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2184,14 +2184,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2726-8-1.jpg?v=1793441100
     Price: $16.99 USD
 - [Travel Embroidered Trucker Hat - Casual Style | Uhatsco](https://www.unihats.com/products/travel-embroidered-trucker-hat-half-mesh-colorful-brim-stitching): Shop this travel embroidered trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:08Z
+  Updated: 2026-11-04T17:18:09Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2691-1-1.jpg?v=1793441102
   Price: $5.99 USD
 - [Retro Wordmark Trucker Hat - Torn Brim Mesh Back | Uhatsco](https://www.unihats.com/products/retro-wordmark-trucker-hat-torn-brim-mesh-back-medium-xl): Shop this retro wordmark trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:09Z
+  Updated: 2026-11-04T17:18:09Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2229,7 +2229,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1747-11-1.jpg?v=1793441103
     Price: $24.99 USD
 - [Round Space Logo Trucker Hat - Easy Daily Style | Uhatsco](https://www.unihats.com/products/round-space-logo-trucker-hat-side-patch-medium-and-xl-sizes): Shop this round space logo trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:10Z
+  Updated: 2026-11-04T17:18:09Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2259,7 +2259,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1748-5-1.jpg?v=1793441105
     Price: $23.99 USD
 - [Space Logo Baseball Cap - Side Mission Patch | Uhatsco](https://www.unihats.com/products/space-logo-baseball-cap-cotton-side-mission-patch-strapback): Shop this space logo baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:11Z
+  Updated: 2026-11-04T17:18:09Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2297,7 +2297,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1749-6-1.jpg?v=1793441106
     Price: $5.99 USD
 - [Star Embroidered Trucker Hat - Easy Daily Style | Uhatsco](https://www.unihats.com/products/big-star-embroidered-trucker-hat-mesh-back-cotton-blend): Shop this star embroidered trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:13Z
+  Updated: 2026-11-04T17:18:10Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2351,7 +2351,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1531-8-1.jpg?v=1793441108
     Price: $5.99 USD
 - [Road Trip Trucker Hat - USA Plate Patch | Uhatsco](https://www.unihats.com/products/road-trip-trucker-hat-snapback-usa-plate-patch-distressed-brim): Shop this road trip trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:15Z
+  Updated: 2026-11-04T17:18:10Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2373,7 +2373,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1519-2-1.jpg?v=1793441110
     Price: $26.99 USD
 - [4Th of July Trucker Hat - United We Stand Patch | Uhatsco](https://www.unihats.com/products/4th-of-july-trucker-hat-united-we-stand-patch-cotton-strapback): Shop this 4th of July trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:31Z
+  Updated: 2026-11-04T17:18:10Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2391,7 +2391,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1529-4-1.jpg?v=1793441111
     Price: $5.99 USD
 - [Faux Fur Baseball Cap - Short Brim Suede Band | Uhatsco](https://www.unihats.com/products/women-short-brim-faux-fur-baseball-cap-suede-band-velcro-strap): Shop this faux fur baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:17Z
+  Updated: 2026-11-04T17:18:10Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2409,7 +2409,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1674-3-1.jpg?v=1793441112
     Price: $5.99 USD
 - [Flex Fit Baseball Cap - Easy Daily Style | Uhatsco](https://www.unihats.com/products/flex-fit-baseball-cap-letter-embroidery-us-flag-color-stitching): Shop this flex fit baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:18Z
+  Updated: 2026-11-04T17:18:11Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2431,7 +2431,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1683-4-1.jpg?v=1793441114
     Price: $5.99 USD
 - [Flat Bill Snapback Hat - Rubber Pinwheel Brim | Uhatsco](https://www.unihats.com/products/flat-bill-snapback-hat-rubber-pinwheel-mosaic-pattern-brim): Shop this flat bill snapback hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:19Z
+  Updated: 2026-11-04T17:18:11Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2449,7 +2449,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1688-3-1.jpg?v=1793441116
     Price: $5.99 USD
 - [Pearly Patch Trucker Hat - Pearly Fabric Patch | Uhatsco](https://www.unihats.com/products/pearly-patch-trucker-hat-washed-cotton-fabric-strapback): Shop this pearly patch trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:21Z
+  Updated: 2026-11-04T17:18:11Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2479,7 +2479,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1702-6-1.jpg?v=1793441117
     Price: $5.99 USD
 - [Letter Patch Trucker Hat - Word Patch Letter | Uhatsco](https://www.unihats.com/products/washed-cotton-letter-patch-trucker-hat-word-patch-strapback): Shop this letter patch trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:23Z
+  Updated: 2026-11-04T17:18:12Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2513,7 +2513,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1703-7-1.jpg?v=1793441119
     Price: $5.99 USD
 - [US Flag Trucker Hat - Fabric Flag Patch | Uhatsco](https://www.unihats.com/products/washed-cotton-us-flag-trucker-hat-fabric-patch-strapback): Shop this US flag trucker hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:26Z
+  Updated: 2026-11-04T17:18:12Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2543,7 +2543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1706-6-1.jpg?v=1793441120
     Price: $5.99 USD
 - [Letter Embroidered Baseball Cap - Casual Style | Uhatsco](https://www.unihats.com/products/letter-embroidered-baseball-cap-plain-crown-strapback-cotton): Shop this letter embroidered baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:25Z
+  Updated: 2026-11-04T17:18:12Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2573,7 +2573,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1707-6-1.jpg?v=1793441122
     Price: $5.99 USD
 - [Distressed Vintage Baseball Cap - Casual Style | Uhatsco](https://www.unihats.com/products/distressed-vintage-baseball-cap-embroidered-patch-logo-cotton): Shop this distressed vintage baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:29Z
+  Updated: 2026-11-04T17:18:12Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2595,7 +2595,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1708-4-1.jpg?v=1793441122
     Price: $5.99 USD
 - [Flat Bill Denim Dad Hat - Hand Stitched Denim | Uhatsco](https://www.unihats.com/products/hand-stitched-flat-bill-denim-dad-hat-cotton-strapback): Shop this flat bill denim dad hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:29Z
+  Updated: 2026-11-04T17:18:13Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2613,7 +2613,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1716-3-1.jpg?v=1793441124
     Price: $5.99 USD
 - [Geometric Flat Bill Snapback Hat - Casual Style | Uhatsco](https://www.unihats.com/products/geometric-flat-bill-snapback-hat-triangle-pattern-round-logo): Shop this geometric flat bill snapback hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:31Z
+  Updated: 2026-11-04T17:18:13Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2635,7 +2635,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1743-4-1.jpg?v=1793441125
     Price: $5.99 USD
 - [Forest Patch Dad Hat - Square Forest Patch | Uhatsco](https://www.unihats.com/products/forest-patch-dad-hat-embroidery-strapback-cotton-small-fit): Shop this forest patch dad hat for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:31Z
+  Updated: 2026-11-04T17:18:13Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2665,7 +2665,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2701-6-1.jpg?v=1793441126
     Price: $5.99 USD
 - [Camo Faux Fur Baseball Cap - Velboa Goggle Trim | Uhatsco](https://www.unihats.com/products/camo-faux-fur-baseball-cap-velboa-goggle-trim-military-style): Shop this camo faux fur baseball cap for easy daily style. Soft feel, simple design and an easy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:32Z
+  Updated: 2026-11-04T17:18:14Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2687,7 +2687,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2112-4-1.jpg?v=1793441128
     Price: $5.99 USD
 - [Camo Trucker Hat - Ear Flaps for Cold Days | Uhatsco](https://www.unihats.com/products/camo-trucker-hat-velcro-ear-flaps-goggle-trim-polyester): Camo trucker hat with velboa faux fur ear flaps, curved stiff brim and a round low pile crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:34Z
+  Updated: 2026-11-04T17:18:14Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2713,7 +2713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1691-5-1.jpg?v=1793441129
     Price: $5.99 USD
 - [Snapback Hat - Superhero Charms Flat Brim | Uhatsco](https://www.unihats.com/products/superhero-charm-snapback-hat-flat-brim-acrylic-medium): Snapback hat with superhero rubber charms on the crown, a star on the flat brim and eyelet vents. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:35Z
+  Updated: 2026-11-04T17:18:14Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -2739,7 +2739,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-1413-5-1.jpg?v=1793441131
     Price: $5.99 USD
 - [Velboa Trucker Hat - Soft Camo Faux Fur | Uhatsco](https://www.unihats.com/products/velboa-trucker-hat-camouflage-faux-fur-pile-stiff-curved-brim): Velboa trucker hat in camouflage faux fur with a low pile round crown and stiff curved brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:36Z
+  Updated: 2026-11-04T17:18:14Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2755,7 +2755,7 @@
     Availability: Available
     Price: $16.99 USD
 - [Embroidered Trucker Hat - Retro Distressed Cotton | Uhatsco](https://www.unihats.com/products/retro-embroidered-trucker-hat-distressed-cotton-strapback): Embroidered trucker hat in distressed cotton with a retro front design and strapback fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:39Z
+  Updated: 2026-11-04T17:18:15Z
   Vendor: Uhatsco
   Product Type: Trucker Hats
   Availability: Available
@@ -2777,7 +2777,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2726-8-1_04f03e16-ecf1-4fae-aee7-c44884fab868.jpg?v=1793441134
     Price: $5.99 USD
 - [Mountain Embroidered Cadet Cap - Cotton Camp Hat | Uhatsco](https://www.unihats.com/products/mountain-embroidered-cadet-cap-flat-brim-cotton-camp-hat): Mountain embroidered cadet cap in cotton with a low profile paneled crown and snap back closure. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:38Z
+  Updated: 2026-11-04T17:18:15Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -2803,7 +2803,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2712-5-1.jpg?v=1793441135
     Price: $5.99 USD
 - [Corduroy Cadet Cap - Color Blocked Camp Hat | Uhatsco](https://www.unihats.com/products/color-blocked-corduroy-cadet-cap-embroidered-camp-hat-cotton): Corduroy cadet cap with color blocked embroidery, a flat paneled top and snap back closure. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:41Z
+  Updated: 2026-11-04T17:18:15Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -2825,7 +2825,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2713-4-1.jpg?v=1793441136
     Price: $5.99 USD
 - [1976 Camp Hat - Embroidered Cotton Cadet Cap | Uhatsco](https://www.unihats.com/products/1976-camp-hat-embroidered-corduroy-cadet-cap-cotton-snapback): 1976 camp hat with front embroidery in cotton corduroy, low profile paneled crown and snap back closure. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:41Z
+  Updated: 2026-11-04T17:18:15Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -2851,7 +2851,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/ballcap-2714-5-1.jpg?v=1793441137
     Price: $5.99 USD
 - [Sun Bonnet Hat - Ribbon Back Cotton Linen | Uhatsco](https://www.unihats.com/products/sun-bonnet-hat-ribbon-back-wired-brim-cotton-linen-small): Sun bonnet hat in cotton linen with a wired brim and ribbon strap at the back. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:42Z
+  Updated: 2026-11-04T17:18:16Z
   Vendor: Uhatsco
   Product Type: Sun Hats
   Availability: Available
@@ -2873,7 +2873,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-866-4-1.jpg?v=1793441138
     Price: $5.99 USD
 - [Open Back Sun Hat - Cotton Linen Bonnet | Uhatsco](https://www.unihats.com/products/open-back-sun-hat-bonnet-cotton-linen-blend-wired-brim): Open back sun hat in a cotton linen blend with a wired brim and flat top crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:43Z
+  Updated: 2026-11-04T17:18:16Z
   Vendor: Uhatsco
   Product Type: Sun Hats
   Availability: Available
@@ -2895,7 +2895,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-867-4-1.jpg?v=1793441139
     Price: $5.99 USD
 - [Plaid Knit Bucket Hat - Crochet Wool Winter | Uhatsco](https://www.unihats.com/products/plaid-knit-bucket-hat-checkered-brim-crochet-wool-winter): Plaid knit bucket hat in 100% wool with a checkered brim and warm round crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:46Z
+  Updated: 2026-11-04T17:18:16Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -2929,7 +2929,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-841-7-1.jpg?v=1793441141
     Price: $5.99 USD
 - [Foldable Knit Bucket Hat - Diamond Wool Blend | Uhatsco](https://www.unihats.com/products/foldable-knit-bucket-hat-diamond-point-wool-blend-nylon): Foldable knit bucket hat with a diamond shape point on the side in a wool blend. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:46Z
+  Updated: 2026-11-04T17:18:16Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -2963,7 +2963,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-842-7-1.jpg?v=1793441142
     Price: $5.99 USD
 - [Asymmetrical Brim Bucket Hat - Wool Blend Crochet | Uhatsco](https://www.unihats.com/products/asymmetrical-brim-bucket-hat-crochet-wool-blend-hook-and-loop): Asymmetrical brim bucket hat in crochet wool blend with an adjustable hook and loop closure. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:49Z
+  Updated: 2026-11-04T17:18:17Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3001,7 +3001,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-843-8-1.jpg?v=1793441143
     Price: $5.99 USD
 - [Sherpa Bucket Hat - Soft Faux Fur Bell Shape | Uhatsco](https://www.unihats.com/products/sherpa-bucket-hat-faux-fur-bell-shape-knit-polyester): Sherpa bucket hat in soft faux fur with a bell shape crown and small wired brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:49Z
+  Updated: 2026-11-04T17:18:17Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3023,7 +3023,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-845-4-1.jpg?v=1793441144
     Price: $5.99 USD
 - [Angora Blend Bucket Hat - Stretch Crochet Winter | Uhatsco](https://www.unihats.com/products/angora-blend-bucket-hat-crochet-floppy-small-brim-winter): Angora blend bucket hat with a stretch crochet knit and floppy thick small brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:50Z
+  Updated: 2026-11-04T17:18:17Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3053,7 +3053,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-835-6-1.jpg?v=1793441146
     Price: $5.99 USD
 - [Argyle Knit Bucket Hat - Wool Blend Crochet | Uhatsco](https://www.unihats.com/products/argyle-knit-bucket-hat-crochet-wool-blend-wired-small-brim): Argyle knit bucket hat in a crochet wool blend with a wired small brim and round crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:51Z
+  Updated: 2026-11-04T17:18:17Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3087,7 +3087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-836-7-1.jpg?v=1793441147
     Price: $5.99 USD
 - [Floppy Crochet Bucket Hat - Wired Brim Wool Blend | Uhatsco](https://www.unihats.com/products/floppy-crochet-bucket-hat-asymmetric-wired-brim-wool-blend): Floppy crochet bucket hat in a solid wool blend with an uneven wired brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:53Z
+  Updated: 2026-11-04T17:18:18Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3125,7 +3125,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-838-8-1.jpg?v=1793441149
     Price: $5.99 USD
 - [Ripped Edge Bucket Hat - Washed Cotton Fishing | Uhatsco](https://www.unihats.com/products/ripped-edge-bucket-hat-washed-cotton-fishing-style-small): Ripped edge bucket hat in washed vintage cotton with a soft wide brim and flat top crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:55Z
+  Updated: 2026-11-04T17:18:18Z
   Vendor: Uhatsco
   Product Type: Bucket Hats
   Availability: Available
@@ -3143,7 +3143,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-698-3-1.jpg?v=1793441150
     Price: $5.99 USD
 - [Knit Floppy Fedora - Stretch Round Top Winter | Uhatsco](https://www.unihats.com/products/knit-floppy-fedora-round-top-stretch-acrylic-wool-small): Knit floppy fedora with a round top, stretch wool blend and wired small brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:56Z
+  Updated: 2026-11-04T17:18:19Z
   Vendor: Uhatsco
   Product Type: Fedoras
   Availability: Available
@@ -3173,7 +3173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-636-6-1.jpg?v=1793441151
     Price: $5.99 USD
 - [Wool Blend Fedora - Soft Round Top Felt Style | Uhatsco](https://www.unihats.com/products/wool-blend-fedora-round-top-floppy-felt-style-medium): Wool blend fedora with a soft felt style round top and floppy small brim. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:57Z
+  Updated: 2026-11-04T17:18:19Z
   Vendor: Uhatsco
   Product Type: Fedoras
   Availability: Available
@@ -3195,14 +3195,14 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/fedora-638-4-1.jpg?v=1793441153
     Price: $5.99 USD
 - [Padded Crown Cadet Cap - Strapback Army Style | Uhatsco](https://www.unihats.com/products/padded-crown-cadet-cap-strapback-polyester-nylon-blend): Padded crown cadet cap with a military inspired shape, curved brim and strapback fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:59Z
+  Updated: 2026-11-04T17:18:19Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/cadet-830-1-2.jpg?v=1793441154
   Price: $5.99 USD
 - [Mesh Cadet Cap - Contrast Seam Army Style XL | Uhatsco](https://www.unihats.com/products/mesh-cadet-cap-contrast-seam-strapback-xl-polyester): Mesh cadet cap with contrast color seams, a paneled crown and strapback in XL. Shop now with free US shipping.
-  Updated: 2026-10-31T22:05:59Z
+  Updated: 2026-11-04T17:18:19Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -3220,7 +3220,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/cadet-773-3-1.jpg?v=1793441155
     Price: $5.99 USD
 - [Front Tuck Cadet Cap - Flex Fit Army Style | Uhatsco](https://www.unihats.com/products/front-tuck-cadet-cap-flex-fit-mixed-color-cotton): Front tuck cadet cap in mixed color cotton with a flex fit, curved brim and flat top crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:02Z
+  Updated: 2026-11-04T17:18:20Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -3242,7 +3242,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/cadet-770-4-1.jpg?v=1793441156
     Price: $5.99 USD
 - [Wool Blend Cadet Cap - Brass Buckle Strap | Uhatsco](https://www.unihats.com/products/wool-blend-cadet-cap-military-style-brass-buckle-strap-large): Wool blend cadet cap with a stiff curved brim, flat top crown and adjustable brass buckle strap. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:02Z
+  Updated: 2026-11-11T21:59:47Z
   Vendor: Uhatsco
   Product Type: Cadet Caps
   Availability: Available
@@ -3260,7 +3260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/cadet-710-3-1.jpg?v=1793441158
     Price: $5.99 USD
 - [Angora Blend Beanie - Fold Over Ribbed Knit | Uhatsco](https://www.unihats.com/products/angora-blend-beanie-short-fold-over-ribbed-knit-medium): Angora blend beanie with a ribbed fold over cuff and a cozy short fit for cold days. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:03Z
+  Updated: 2026-11-04T17:18:20Z
   Vendor: Uhatsco
   Product Type: Beanies
   Availability: Available
@@ -3302,7 +3302,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-760-9-1.jpg?v=1793441159
     Price: $5.99 USD
 - [Camouflage Work Cap - Flex Fit Cotton Hat | Uhatsco](https://www.unihats.com/products/camouflage-work-cap-flex-fit-cotton-stitched-panel-crown): Camouflage work cap in soft cotton with a flex fit, short brim and stitched panel crown. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:05Z
+  Updated: 2026-11-04T17:18:20Z
   Vendor: Uhatsco
   Product Type: Baseball Caps
   Availability: Available
@@ -3324,7 +3324,7 @@
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-688-4-1.jpg?v=1793441160
     Price: $5.99 USD
 - [Slouchy Ribbed Knit Beanie - Detachable Pompom | Uhatsco](https://www.unihats.com/products/slouchy-ribbed-knit-beanie-attachable-pompom-acrylic-small): Slouchy ribbed knit beanie in soft acrylic with an attachable pompom and cozy fit. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:06Z
+  Updated: 2026-11-04T17:18:21Z
   Vendor: Uhatsco
   Product Type: Beanies
   Availability: Available
@@ -3369,61 +3369,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-639-10-1.jpg?v=1793441162
     Price: $5.99 USD
-- [Embroidered Pompom Beanie - Fold Over Knit | Uhatsco](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic): Embroidered pompom beanie with NY lettering, a big pompom and a ribbed fold over cuff. Shop now with free US shipping.
-  Updated: 2026-10-31T22:06:07Z
-  Vendor: Uhatsco
-  Product Type: Beanies
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-634-1-1.jpg?v=1793441163
-  - [Wine Red / Medium](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic?variant=49215607308406)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-634-1-1.jpg?v=1793441163
-    Price: $5.99 USD
-  - [Beige / Medium](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic?variant=49215607341174)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-634-2-1.jpg?v=1793441163
-    Price: $5.99 USD
-  - [Blue / Medium](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic?variant=49215607373942)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-634-3-1.jpg?v=1793441163
-    Price: $5.99 USD
-  - [Red / Medium](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic?variant=49215607406710)
-    Availability: Available
-    Price: $5.99 USD
-  - [Dark Grey / Medium](https://www.unihats.com/products/embroidered-pompom-beanie-fold-over-ribbed-knit-slouchy-acrylic?variant=49215607439478)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0715/8330/1750/files/beanie-634-5-1.jpg?v=1793441163
-    Price: $5.99 USD
-[List Continued](https://www.unihats.com/a/llms-agent/llms.txt?shop=ctmmtm-dm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk2MzA4MzI2NTE4LCJsYXN0X3ZhbHVlIjoiOTA5NjMwODMyNjUxOCJ9)
+[List Continued](https://www.unihats.com/a/llms-agent/llms.txt?shop=ctmmtm-dm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5MDk2MzA4MjkzNzUwLCJsYXN0X3ZhbHVlIjoiOTA5NjMwODI5Mzc1MCJ9)
 
 ## Collections
 
 - [Home page](https://www.unihats.com/collections/frontpage)
-  Updated: 2026-10-31T10:03:03Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 1
 - [Trucker Hats](https://www.unihats.com/collections/trucker-hats)
-  Updated: 2026-10-31T10:50:37Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 71
 - [Baseball Caps](https://www.unihats.com/collections/baseball-caps)
-  Updated: 2026-10-31T10:56:57Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 24
 - [Beanies](https://www.unihats.com/collections/beanies)
-  Updated: 2026-10-31T11:04:59Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 21
 - [Newsboy Caps](https://www.unihats.com/collections/newsboy-caps)
-  Updated: 2026-10-31T11:09:21Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 13
 - [Bucket Hats](https://www.unihats.com/collections/bucket-hats)
-  Updated: 2026-10-31T11:12:46Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 10
 - [Best Sellers](https://www.unihats.com/collections/best-sellers)
-  Updated: 2026-10-31T11:16:22Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 17
 - [New Arrivals](https://www.unihats.com/collections/new-arrivals)
-  Updated: 2026-10-31T11:43:08Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 14
 - [Cadet Caps](https://www.unihats.com/collections/cadet-caps)
-  Updated: 2026-10-31T11:25:03Z
+  Updated: 2026-11-04T17:17:43Z
   Total Products: 18
 
 ## Blogs
@@ -3440,6 +3415,15 @@
     Author: Uhatsco
   - [Ascending to New Heights: Uhatsco Suede Newsboy Caps Versus Vintage Trucker and Retro Baseball Hats](https://www.unihats.com/blogs/news/ascending-to-new-heights-uhatsco-suede-newsboy-caps-versus-vintage-trucker-and-retro-baseball-hats): Ascending to New Heights: Uhatsco Suede Newsboy Caps Versus Vintage Trucker and Retro Baseball Hats
     Updated: 2026-11-04T11:06:16Z
+    Author: Uhatsco
+  - [Rock and Roll Vibes: Mastering the Art of Casual Outdoor Style with Uhatsco's Guitar Pick Trucker Hat and Vintage Trucker Hats](https://www.unihats.com/blogs/news/rock-and-roll-vibes-mastering-the-art-of-casual-outdoor-style-with-uhatscos-guitar-pick-trucker-hat-and-vintage-trucker-hats): Rock and Roll Vibes: Mastering the Art of Casual Outdoor Style with Uhatsco's Guitar Pick Trucker Hat and Vintage Trucker Hats
+    Updated: 2026-11-09T11:04:52Z
+    Author: Uhatsco
+  - [The Ultimate Guide to Incorporating Uhatsco Maui Trucker Hats Into Your Roadtrip Style with Worn-In Distressed Caps and Vintage Trucker Accessories](https://www.unihats.com/blogs/news/the-ultimate-guide-to-incorporating-uhatsco-maui-trucker-hats-into-your-roadtrip-style-with-worn-in-distressed-caps-and-vintage-trucker-accessories): The Ultimate Guide to Incorporating Uhatsco Maui Trucker Hats Into Your Roadtrip Style with Worn-In Distressed Caps and Vintage Trucker Accessories
+    Updated: 2026-11-10T11:04:30Z
+    Author: Uhatsco
+  - [Exploring Essential Roadtrip Style Accessories with Uhatsco Solid Color Dad Hat and the Appeal of Vintage Trucker Hats Retro Baseball Caps and Distressed Caps](https://www.unihats.com/blogs/news/exploring-essential-roadtrip-style-accessories-with-uhatsco-solid-color-dad-hat-and-the-appeal-of-vintage-trucker-hats-retro-baseball-caps-and-distressed-caps): Exploring Essential Roadtrip Style Accessories with Uhatsco Solid Color Dad Hat and the Appeal of Vintage Trucker Hats Retro Baseball Caps and Distressed Caps
+    Updated: 2026-11-11T11:05:28Z
     Author: Uhatsco
 
 ## Store Pages
