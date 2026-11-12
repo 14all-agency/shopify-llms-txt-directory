@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-09-08T08:53:04Z
 - Contact Email: charline@makeyourown.fr
-- Updated At: 2026-11-05T00:27:32.610Z
+- Updated At: 2026-11-12T00:34:45.209Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/patron-square.jpg?v=1769840425
   Price: 30,00 € EUR
 - [Prise en main de la machine à coudre ou de la surjeteuse](https://laboutique.makeyourown.fr/products/cours-prise-en-main-de-la-machine-a-coudre-ou-de-la-surjeteuse): Comprendre le fonctionnement d'une machine à coudre ou d'une surjeteuse est le point de départ pour exprimer votre créativité. Apprenez les bases pour régler et utiliser la machine à coudre ou la surjeteuse. Grand débutant Durée 1h30 Pas de fournitures nécessaires En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Ce cours est proposé toute l’année. Merci de me contacter après votre achat pour fixer la date de votre cours.
-  Updated: 2026-08-29T05:49:34Z
+  Updated: 2026-11-05T06:24:27Z
   Vendor: MYO COUTURE | La boutique
   Product Type: 
   Availability: Available
@@ -67,7 +67,7 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/portecartes-square.jpg?v=1769841773
   Price: 40,00 € EUR
 - [Pochon à coulisse « Daisy »](https://laboutique.makeyourown.fr/products/atelier-pochon-a-coulisse): Le pochon à coulisse "Daisy" est versatile! Disponible en 3 tailles, il vous permet d'emporter toutes vos affaires partout.En taille S dans le sac à main (chut ! c'est secret ce qu'il y a dans le sac des filles !).En taille M dans la valise pour vos chausettes et textiles délicats.En taille L dans la voiture pour y glisser votre paire de basket après le footing. Les informations relatives aux dimensions du/des tissus à apporter vous seront communiquées lors de la réservation. Débutant Durée 3h Fournitures comprises En journée du mardi au vendredi et le samedi sur demande MYO Café Couture à Neuville-sur-Saône Cet atelier est proposé toute l’année. Pour fixer la date de votre atelier, merci de me contacter après votre réservation.
-  Updated: 2026-08-29T05:49:37Z
+  Updated: 2026-11-08T10:41:44Z
   Vendor: MYO COUTURE | La boutique
   Product Type: 
   Availability: Available
@@ -301,14 +301,14 @@
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/pochon-a-coulisse-01.jpg?v=1771424251
   Price: 3,90 € EUR
 - [Atelier découverte Cozy Coloriage](https://laboutique.makeyourown.fr/products/atelier-decouverte-cozy-coloriage): Cozy coloriage : une tendance bien-être accessible à tous Le cozy coloriage est une tendance de loisirs créatifs centrée sur des illustrations simples, douces et réconfortantes. On y retrouve des scènes du quotidien, des animaux ou des univers chaleureux, pensés pour créer une ambiance apaisante. Cette activité ne vise pas la performance artistique, mais le plaisir de colorier et de ralentir. Elle s’inscrit dans une logique de pause mentale, où l’on se concentre sur un geste simple et répétitif, loin des écrans et du stress quotidien. Le résultat compte moins que le moment en lui-même : c’est une activité accessible, sans niveau requis, qui permet de se détendre, se recentrer et profiter d’un instant calme. Au programme : • Explication des bases (roue des couleurs, choix de la palette, les effets) • Entraînement et exercices sur feuille test • Choix du coloriage et mise en pratiqueAucun niveau requis, ambiance cozy, un instant de détente à partager. Enfants et adultes MYO Café Couture à Neuville-sur-Saône Sur réservation du mardi au samedi 2h30 4 à 6 participants par session Les sessions de cosy coloriage sont organisées à partir de 4 participants inscrits.
-  Updated: 2026-08-29T05:49:49Z
+  Updated: 2026-11-07T22:27:16Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: Service
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0941/6586/0736/files/cosycolo.png?v=1779456270
   Price: 25,00 € EUR
-- [Couture libre enfants et ados 8 - 16 ans | 12h](https://laboutique.makeyourown.fr/products/couture-libre-enfants-et-adolescents-8-16-ans): Une activité à la carte le mercredi et durant les vacances scolaires pour enfants et adolescents de 8 à 16 ans : 12h de couture libre réparties en 4 séances de 3h à utiliser selon ses envies.
-  Updated: 2026-11-04T09:34:13Z
+- [Couture libre enfants et ados 8 - 16 ans le mercredi | 12h](https://laboutique.makeyourown.fr/products/couture-libre-enfants-et-adolescents-8-16-ans): Une activité à la carte le mercredi et durant les vacances scolaires pour enfants et adolescents de 8 à 16 ans : 12h de couture libre réparties en 4 séances de 3h à utiliser selon ses envies.
+  Updated: 2026-11-07T06:44:45Z
   Vendor: MYO COUTURE | La Boutique
   Product Type: Service
   Availability: Available
@@ -336,10 +336,10 @@
   Updated: 2026-04-20T16:30:34Z
   Total Products: 28
 - [cours de couture](https://laboutique.makeyourown.fr/collections/cours-de-couture): Apprenez à coudre à votre rythme dans un espace chaleureux et convivial au Café Couture. Que vous soyez débutant·e ou déjà expérimenté·e, je vous accompagne pas à pas pour développer de nouvelles compétences et réaliser vos projets. Et pour profiter pleinement du moment, il y a toujours une pause café pour échanger et se détendre entre deux points. Découvrez le Café Couture
-  Updated: 2026-08-29T08:42:05Z
+  Updated: 2026-11-05T12:48:01Z
   Total Products: 3
 - [ateliers de couture adultes](https://laboutique.makeyourown.fr/collections/ateliers-de-couture): Participez à des ateliers de couture pratiques et créatifs au Café Couture pensés pour vous faire progresser tout en réalisant des projets concrets. Chaque atelier vous permet d’apprendre et d’explorer une technique ou une pièce spécifique, avec un accompagnement personnalisé. Chaque session est organisée autour d’un projet complet, du tracé à la finition. Les ateliers sont ouverts aux débutant·es comme aux couturier·es déjà familiarisé·es avec la machine, et sont souvent centrés sur un projet précis, ce qui vous permet de repartir avec quelque chose de tangible à la fin de la séance.J'organise aussi des ateliers ponctuels adaptés aux saisons ou aux occasions spéciales (Noël, Pâques, upcycling, etc.), ces ateliers publiés sur les réseaux sociaux. Suivez l'actualité du Café Couture pour ne rien manquer. Découvrez le Café Couture
-  Updated: 2026-10-27T12:04:01Z
+  Updated: 2026-11-08T12:37:39Z
   Total Products: 8
 - [couture libre](https://laboutique.makeyourown.fr/collections/carte-en-acces-libre): La Couture Libre vous permet de venir coudre à votre rythme au Café Couture à et de travailler sur vos projets personnels dans un espace convivial et équipé. Choisissez une carte d’heures : les tarifs sont dégressifs en fonction du nombre d’heures choisies.Réservez un créneau du mardi au vendredi, le matin (9h‑12h) ou l’après-midi (14h‑17h), et le samedi sur demande.Chaque carte est valable un an. Que vous souhaitiez avancer sur un projet existant, expérimenter de nouvelles techniques ou simplement prendre un moment pour vous, la Couture Libre vous offre toute la liberté pour organiser vos séances comme il vous convient.
   Updated: 2026-08-25T13:02:14Z
@@ -354,7 +354,7 @@
   Updated: 2026-10-12T11:50:40Z
   Total Products: 7
 - [Sélection du moment](https://laboutique.makeyourown.fr/collections/selection-du-moment)
-  Updated: 2026-11-04T12:40:47Z
+  Updated: 2026-11-08T12:37:39Z
   Total Products: 8
 
 ## Blogs
