@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-21T11:43:23Z
 - Contact Email: gonzalezwilliammadison13072003@gmail.com
-- Updated At: 2026-11-04T12:03:24.593Z
+- Updated At: 2026-11-12T01:09:49.416Z
 
 ## Products
 
@@ -830,7 +830,7 @@
   Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/uni-texas3dblackfront.png?v=1791481946
   Price: $44.99 USD
 - [Texas Longhorns Legacy Can Cooler - Insulated | Super Buddy](https://superbuddy.shop/products/texas-longhorns-legacy-insulated-can-cooler-style-2): Super Buddy Texas Longhorns Legacy insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:15:53Z
+  Updated: 2026-11-06T02:06:56Z
   Vendor: Super Buddy
   Product Type: Can Coolers
   Availability: Available
@@ -3313,21 +3313,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-cinnamon_01f66881-96cd-4838-ab76-436bf980afca.png?v=1791482707
   Price: $39.99 USD
-- [Glacier Glitz XL Can Cooler - Cold 24 Hours | Super Buddy](https://superbuddy.shop/products/glacier-glitz-xl-insulated-can-cooler): Super Buddy Glacier Glitz XL insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:17:25Z
-  Vendor: Super Buddy
-  Product Type: Can Coolers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-glacierglitz.png?v=1791482711
-  Price: $39.99 USD
-- [Love Sparks XL Can Cooler - Cold for 24 Hours | Super Buddy](https://superbuddy.shop/products/love-sparks-xl-insulated-can-cooler): Super Buddy Love Sparks XL insulated can cooler in 18/8 stainless steel. Keeps drinks cold up to 24 hours. Free US shipping. Shop now.
-  Updated: 2026-10-17T04:17:25Z
-  Vendor: Super Buddy
-  Product Type: Can Coolers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0841/4711/0132/files/unixl-lovesparks.png?v=1791482713
-  Price: $39.99 USD
-[List Continued](https://superbuddy.shop/a/llms-agent/llms.txt?shop=vv7prf-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyMzg5OTUwMDc4OCwibGFzdF92YWx1ZSI6IjE1NDIzODk5NTAwNzg4In0%3D)
+[List Continued](https://superbuddy.shop/a/llms-agent/llms.txt?shop=vv7prf-he.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQyMzg5OTMwNDE4MCwibGFzdF92YWx1ZSI6IjE1NDIzODk5MzA0MTgwIn0%3D)
 
 ## Collections
 
@@ -3335,10 +3321,10 @@
   Updated: 2026-10-17T04:15:15Z
   Total Products: 1
 - [Can Coolers](https://superbuddy.shop/collections/can-coolers)
-  Updated: 2026-10-17T04:15:15Z
+  Updated: 2026-11-11T12:28:11Z
   Total Products: 727
 - [Tumblers](https://superbuddy.shop/collections/tumblers)
-  Updated: 2026-10-22T11:33:08Z
+  Updated: 2026-11-11T12:28:11Z
   Total Products: 628
 - [Water Bottles](https://superbuddy.shop/collections/water-bottles)
   Updated: 2026-10-27T11:25:56Z
@@ -3350,7 +3336,7 @@
   Updated: 2026-10-27T11:25:56Z
   Total Products: 7
 - [NCAA](https://superbuddy.shop/collections/ncaa)
-  Updated: 2026-10-27T11:25:56Z
+  Updated: 2026-11-11T12:28:11Z
   Total Products: 717
 - [MLB](https://superbuddy.shop/collections/mlb)
   Updated: 2026-10-26T11:33:34Z
@@ -3362,7 +3348,7 @@
   Updated: 2026-10-17T04:15:15Z
   Total Products: 36
 - [All](https://superbuddy.shop/collections/all)
-  Updated: 2026-11-01T12:26:10Z
+  Updated: 2026-11-11T12:28:11Z
   Total Products: 1790
 
 ## Blogs
@@ -3406,6 +3392,15 @@
     Author: Super Buddy
   - [Discover the Ultimate Tumbler Gift Ideas: Super Buddy Emerald Elegance vs Traditional Tailgate Drinkware vs Insulated Can Coolers for Sports Fans](https://superbuddy.shop/blogs/news/discover-the-ultimate-tumbler-gift-ideas-super-buddy-emerald-elegance-vs-traditional-tailgate-drinkware-vs-insulated-can-coolers-for-sports-fans): Discover the Ultimate Tumbler Gift Ideas: Super Buddy Emerald Elegance vs Traditional Tailgate Drinkware vs Insulated Can Coolers for Sports Fans
     Updated: 2026-11-04T10:04:36Z
+    Author: Super Buddy
+  - [The Ultimate Detroit Red Wings Tailgate Experience: Choosing the Best Insulated Travel Tumbler for Sports Fans](https://superbuddy.shop/blogs/news/the-ultimate-detroit-red-wings-tailgate-experience-choosing-the-best-insulated-travel-tumbler-for-sports-fans): The Ultimate Detroit Red Wings Tailgate Experience: Choosing the Best Insulated Travel Tumbler for Sports Fans
+    Updated: 2026-11-09T10:00:36Z
+    Author: Super Buddy
+  - [Master the Art of Tailgating with the Super Buddy Sunflower Skies 16oz Insulated Coffee Mug: Explore Tumbler Gift Ideas and Care Tips](https://superbuddy.shop/blogs/news/master-the-art-of-tailgating-with-the-super-buddy-sunflower-skies-16oz-insulated-coffee-mug-explore-tumbler-gift-ideas-and-care-tips): Master the Art of Tailgating with the Super Buddy Sunflower Skies 16oz Insulated Coffee Mug: Explore Tumbler Gift Ideas and Care Tips
+    Updated: 2026-11-10T10:02:13Z
+    Author: Super Buddy
+  - [How to Choose the Best Insulated Travel Tumbler Featuring Super Buddy Vegas Golden Knights Options](https://superbuddy.shop/blogs/news/how-to-choose-the-best-insulated-travel-tumbler-featuring-super-buddy-vegas-golden-knights-options): How to Choose the Best Insulated Travel Tumbler Featuring Super Buddy Vegas Golden Knights Options
+    Updated: 2026-11-11T10:03:46Z
     Author: Super Buddy
 
 ## Store Pages
