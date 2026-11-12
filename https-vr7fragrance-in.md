@@ -6,7 +6,7 @@
 - Timezone: Asia/Kolkata
 - Created At: 2025-12-09T21:12:30Z
 - Contact Email: contact@vr7fragrance.in
-- Updated At: 2026-11-05T00:42:42.638Z
+- Updated At: 2026-11-12T00:44:37.036Z
 
 ## Products
 
@@ -143,48 +143,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_royale_20_ml.jpg?v=1792604024
     Price: ₹349.00 INR
-- [Royale 3ml](https://vr7fragrance.in/products/royale): Royale Extrait de Parfum is a sophisticated warm spicy amber fragrance crafted for those who demand excellence. With its rich concentration of fragrance oils, this extrait delivers an intense, long-lasting sillage that evolves beautifully throughout the evening. The composition opens with spiced warmth, settling into a luxurious amber heart that lingers on skin and fabric. Perfect for special occasions, intimate dinners, and moments that call for refined elegance. Each application is an  in presence and confidence. Housed in premium packaging that reflects the luxury within, Royale is designed for the discerning individual who appreciates niche craftsmanship and uncompromising quality. A signature scent for those who make an impression.✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Royale has spoken to your sense of refinement, claim the full 50ml bottle — a signature scent for those who make an impression.→ Get the Full-Size Royale 50ml Bottle
-  Updated: 2026-07-26T19:11:22Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/royale3mlsamplevr7fragrance..jpg?v=1778690502
-  Price: ₹80.00 INR
-- [Club-X 3ml](https://vr7fragrance.in/products/club-x): Club-X Extrait de Parfum is a sophisticated fragrance crafted for the modern man who demands excellence. This luxurious composition blends fruity top notes with a warm woody base, anchored by sensual musk undertones that linger throughout the day. Designed for versatility, Club-X transitions seamlessly from the boardroom to evening gatherings. The high concentration of fragrance oils ensures exceptional longevity—a single application delivers hours of refined presence without demanding reapplication. Perfect for those who appreciate niche craftsmanship and premium quality, Club-X elevates your signature scent with an air of understated luxury.✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Club-X has captured your senses, indulge in the full 50ml bottle — crafted for those who settle for nothing less than extraordinary.→ Get the Full-Size Club-X 50ml Bottle
-  Updated: 2026-07-26T19:11:27Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/club-x3mlsamplevr7fragrance..jpg?v=1778690398
-  Price: ₹80.00 INR
-- [Ultra fresh 3ml](https://vr7fragrance.in/products/ultra-fresh): Note Family: Aquatic • Citrus • MuskyOccasion: Office, summer, daily wearClean citrus and aquatic freshness that feels effortless.Light, uplifting and perfect for everyday wear.Fresh confidence in every spray.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Ultra Fresh has become your daily essential, make it yours in the full 50ml bottle — effortless luxury, every single day.→ Get the Full-Size Ultra Fresh 50ml Bottle
-  Updated: 2026-10-30T09:18:15Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/ultrafresh3mlsamplevr7fragrance..jpg?v=1778690309
-  Price: ₹80.00 INR
-- [Mini Perfume: Dubai Nights 3ml - Luxurious Fragrance](https://vr7fragrance.in/products/dubai-nights-extrait-de-parfum-3ml-vr7-fragrance): Experience Dubai Nights 3ml, a luxurious mini perfume with amber and oud. Perfect for weddings and special occasions. Free shipping on orders over Rs 999!
-  Updated: 2026-07-26T19:11:35Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/dubainights3mlsamplevr7fragrance..jpg?v=1778690210
-  Price: ₹80.00 INR
-- [#-Tag 3ml](https://vr7fragrance.in/products/tag-3ml): Note Family: Dark • Resinous • WoodyOccasion: Night, winter, private eventsDark resins and woody depth with mysterious intensity.Bold, niche and unforgettable.Not for the ordinary.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If #-Tag has left its mark on you, claim the full 50ml bottle — for those who are anything but ordinary.→ Get the Full-Size #-Tag 50ml Bottle
-  Updated: 2026-07-26T19:11:40Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/hahtag_vr7fragrance_3ml_sample.jpg?v=1778690023
-  Price: ₹80.00 INR
-- [Sweet desire 3ml](https://vr7fragrance.in/products/sweet-desire-3ml): Note Family: Vanilla • Warm Spicy • GourmandOccasion: Dates, winter eveningsWarm vanilla wrapped in smooth spice.Comforting, seductive and addictive.Made for close moments.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Sweet Desire has captivated your senses, indulge in the full 50ml bottle — a lasting luxury made for those who deserve the finest.→ Get the Full-Size Sweet Desire 50ml Bottle
-  Updated: 2026-07-26T19:11:44Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/sweetdesire3mlsamplevr7fragrance..jpg?v=1778689933
-  Price: ₹80.00 INR
 - [Candy Elixir Unisex Gourmand Perfume | VR7 Extrait de Parfum](https://vr7fragrance.in/products/candy-elixir-extrait-de-parfum-vr7-fragrance): Candy Elixir by VR7: extrait de parfum (33% oil), unisex, fruity & creamy gourmand. Long-lasting, IFRA-compliant.
   Updated: 2026-10-21T18:12:40Z
   Vendor: VR7 Fragrance™
@@ -199,34 +157,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_fragrance_candy_elixir_20_ml.jpg?v=1792603919
     Price: ₹349.00 INR
-- [Candy Elixir 3ml](https://vr7fragrance.in/products/candy-elixir-3ml): Candy Elixir For Women – Extrait de ParfumFragrance Family: Floral Fruity GourmandIndulge in the irresistible charm of Candy Elixir For Women, a delightful fragrance that captures the essence of sweet sophistication and playful elegance. Designed for those who love a deliciously feminine scent, this perfume is a perfect harmony of juicy fruits, soft florals, and creamy sweetness.The fragrance opens with a vibrant burst of tangy black currant and zesty green citrus, creating an energizing and refreshing first impression. As it settles, the heart reveals a dreamy blend of candied strawberry notes and delicate white florals, adding a soft, romantic sweetness with a sparkling twist.In the base, warm and comforting notes of vanilla, soft musk, amber, and smooth sandalwood wrap the scent in a long-lasting, creamy finish that feels both cozy and luxurious.Fragrance Notes:Top Notes: Black Currant, Green CitrusMiddle Notes: Strawberry Candy Accord, White FloralsBase Notes: Vanilla, Musk, Amber, SandalwoodWhy You’ll Love It:Sweet, fruity, and creamy scent profilePerfect balance of playful and elegantLong-lasting with a soft, captivating trailIdeal for daily wear, dates, and special occasionsCandy Elixir For Women is a celebration of sweetness and confidence—crafted for those who want to leave a charming and unforgettable impression wherever they go.✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Candy Elixir has become your signature sweet escape, indulge in the full bottle — a celebration of sweetness and confidence, in every drop.→ Get the Full-Size Candy Elixir Bottle
-  Updated: 2026-07-26T19:11:56Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Candyelixir3ml.jpg?v=1782231918
-  Price: ₹80.00 INR
-- [Morning Star 3ml](https://vr7fragrance.in/products/morning-star-3ml): Note Family: Fruity • Aquatic • Fresh SweetOccasion: College, casual outings, summer eveningsFruity freshness with a smooth aquatic twist.Energetic, modern and youthful.Built for compliments.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Morning Star keeps earning you compliments, make it yours in the full 50ml bottle — fresh, youthful luxury that lasts.→ Get the Full-Size Morning Star 50ml Bottle
-  Updated: 2026-08-16T20:58:56Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/morningstar3ml.jpg?v=1782231915
-  Price: ₹80.00 INR
-- [Velvet Flame 3ml](https://vr7fragrance.in/products/velvet-flame-3ml): Note Family: Sweet • Nutty • WoodyOccasion: Dates, clubbing, evening outingsSweet, warm and irresistibly addictive.A smooth blend of creamy woods and playful sweetness.Pure confidence for nights out.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Velvet Flame has become your go-to for nights out, indulge in the full 50ml bottle — pure confidence, bottled in luxury.→ Get the Full-Size Velvet Flame 50ml Bottle
-  Updated: 2026-08-16T20:58:58Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/velvetflame3ml.jpg?v=1782231912
-  Price: ₹80.00 INR
-- [Midnight Smoke 3ml](https://vr7fragrance.in/products/midnight-smoke-3ml): Note Family: Smoky • Tobacco • ResinousOccasion: Winter nights, formal gatheringsSmoky tobacco layered with rich woods and resin.Deep, powerful and seductive.A fragrance that leaves a lasting impression.- Delivery within 3–7 business days across India- Free shipping on orders above Rs 999/ Flat Rs 75 shipping on orders below Rs 999- Easy returns within 7 days (if applicable)- Refunds processed as per our policy- 100% secure payments via trusted gateways✨ Love it? Elevate your experience.This is your 3ml discovery sample. If Midnight Smoke has left its mark on you, own the full 50ml bottle — a fragrance as powerful and enduring as the impression you leave.→ Get the Full-Size Midnight Smoke 50ml Bottle
-  Updated: 2026-07-26T19:12:09Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/midnightsmoke3ml.jpg?v=1782231908
-  Price: ₹80.00 INR
 - [11 Extrait de Parfum Samples | Luxury Perfume Discovery Set](https://vr7fragrance.in/products/11-sample-650): 11 Extrait de Parfum samples, 3ml each, with 33% oil. Ideal for perfume discovery, gifting, or testing luxury scents before a full-size buy.
   Updated: 2026-09-08T18:15:57Z
   Vendor: VR7 Fragrance™
@@ -280,15 +210,8 @@
   Product Type: 
   Availability: Available
   Price: ₹0.00 INR
-- [Tropical  3ml](https://vr7fragrance.in/products/tropical-3ml): Key Features & Specs Concentration: Extrait de Parfum (30%+ fragrance oil) Scent Profile: Woody, floral, leather Perfume Type: Unisex Lasting Power: Long-lasting all-day wear Packaging Sizes: 3 ml Best Seasons: Spring, Summer, year-round Recommended Occasions: Daily wear, evening outings, special occasions Notes: Top: Tomato Leaf, Rose, Freesia · Heart: Rose, Sandalwood, Cedar, Jasmine · Base: Leather, Agarwood (Oud), Musk, Oakmoss, Amber Manufactured: India Tropical by VR7 Fragrance is a woody floral leather extrait de parfum that bottles the feeling of a sun-warmed coast. It opens with green tomato leaf, rose and freesia, deepens into a heart of rose, sandalwood, cedar and jasmine, then settles into a smooth base of leather, agarwood (oud), musk, oakmoss and amber — vibrant and captivating up top, sensual and skin-close in its dry-down. Crafted as a true extrait de parfum at 30%+ concentration, it delivers the depth, sillage and longevity of fine perfumery, unisex by design. How it Compares Feature Tropical by VR7 Fragrance Standard Alternative (Typical Eau de Parfum) Concentration 30%+ fragrance oil (Extrait) 8–15% fragrance oil (EDP) Scent Profile Woody, floral, leather — rose, sandalwood, jasmine, oud Single-note floral or fruity Longevity Long-lasting, all-day wear 3–6 hours average Target Use Unisex, daily wear and special occasions Everyday, often gender-specific Recommended Use Cases Daily wear for a captivating, warm-weather signature scent Evening outings where a sensual, skin-close leather-floral trail is desired Layering over unscented moisturizers for all-day retention Gift for fragrance lovers who enjoy rose, sandalwood, and oud compositions Frequently Asked Questions What does Tropical smell like? It opens with tomato leaf, rose and freesia, moves into a heart of rose, sandalwood, cedar and jasmine, and settles into a base of leather, agarwood (oud), musk, oakmoss and amber. Is Tropical suitable for both men and women? Yes, Tropical is a unisex extrait de parfum balanced to appeal to anyone who enjoys woody floral leather compositions. How does an extrait de parfum differ from regular eau de parfum? Extrait de parfum, like Tropical, contains a higher fragrance oil concentration (30%+) and delivers longer-lasting, more nuanced scent compared to standard eau de parfum (8–15%). What occasions is Tropical best suited for? Tropical works well for daily wear thanks to its bright rose and freesia opening, while its leather-oud base gives it enough depth for evening outings and special occasions. How should the fragrance be stored to maintain its quality? Store Tropical extrait de parfum upright in a cool, dry space away from direct sunlight and heat to preserve the integrity and longevity of its scent profile.
-  Updated: 2026-08-01T21:48:05Z
-  Vendor: VR7 Fragrance™
-  Product Type: Extrait de Parfum
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-fragrance-tropical-extrait-de-parfum.png?v=1785577684
-  Price: ₹80.00 INR
 - [Perfume Formulation eBook Bundle | 10 Perfumery Books](https://vr7fragrance.in/products/perfumers-formula-vault): Learn perfume formulation, raw materials, accords, blending and troubleshooting with The Perfumer’s Formula Vault — a complete 10-book digital perfumery collection.
-  Updated: 2026-10-24T08:51:17Z
+  Updated: 2026-11-06T18:55:27Z
   Vendor: VR7 Fragrance™
   Product Type: Digital eBook Bundle
   Availability: Available
@@ -364,46 +287,130 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/Buildyourownperfumeformulaebook.jpg?v=1787161798
   Price: ₹49.00 INR
-- [Burning Woods | Smoky Woody Vanilla | Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/burning-woods-smoky-woody-vanilla-extrait-de-parfum-vr7-fragrance): Key Features & Specs Size: 50 ml Concentration: Extrait de Parfum with 33% fragrance oil Scent Profile: Smoky woods, warm spice and creamy vanilla Fragrance Family: Woody, spicy, gourmand Perfume Type: Unisex Recommended Occasions: Evening wear, date nights and special occasions Country of Origin: India Cruelty-free: Not tested on animals A Cozy Smoky Blend Bring the warmth of a fireside evening to your fragrance collection. Burning Woods by VR7 Fragrance pairs smoky woods with comforting chestnut, soft spice and creamy vanilla for a warm, inviting signature. Pink pepper and clove introduce a spicy opening, followed by a heart of chestnut and smoked wood. Vanilla, amber and sandalwood create a smooth, enveloping finish. The result is a balance of smoky depth and gourmand warmth for those who enjoy rich, comforting fragrances. Presented in a 50 ml bottle, this Extrait de Parfum contains 33% fragrance oil and is crafted for long-lasting wear. Actual longevity and projection vary with skin, application and weather. Fragrance Notes Top Notes: Pink Pepper, Clove Middle Notes: Chestnut, Smoked Wood Base Notes: Vanilla, Amber, Sandalwood Fragrance notes describe the scent character and are not a full ingredient list. Recommended Use Cases Choose Burning Woods for cozy evenings, dinner dates, intimate gatherings and special occasions. Its smoky, vanilla-rich character makes it a warm choice for cooler weather and evening gifting. For an office or close indoor setting, apply lightly according to your surroundings. How to Wear & Store Apply lightly to pulse points and adjust the amount to your preference and setting. Keep the bottle tightly closed in a cool, dry place away from direct sunlight, heat and open flames. For external use only; avoid contact with eyes. Frequently Asked Questions What does Burning Woods smell like? It combines smoky woods and chestnut with pink pepper and clove, settling into a warm base of vanilla, amber and sandalwood. Expect a smoky, spicy and comforting vanilla fragrance. Is Burning Woods suitable for men and women? Yes. Burning Woods is a unisex fragrance for anyone who enjoys smoky woods, warm spice and gourmand vanilla notes. What is its concentration and size? This listing is for one 50 ml bottle of Extrait de Parfum with 33% fragrance oil concentration. How long does the fragrance last? Burning Woods is designed for long-lasting wear. Performance depends on skin, climate and application.
-  Updated: 2026-09-29T09:33:46Z
+- [Burning Woods | Smoky Woody Vanilla | Extrait de Parfum | VR7 Fragrance](https://vr7fragrance.in/products/burning-woods-smoky-woody-vanilla-extrait-de-parfum-vr7-fragrance): Key Features & Specs Size: 50 ml Concentration: Extrait de Parfum with 33% fragrance oil Scent Profile: Smoky woods, warm spice and creamy vanilla Fragrance Family: Woody, spicy, gourmand Perfume Type: Unisex Recommended Occasions: Evening wear, date nights and special occasions Country of Origin: India Cruelty-free: Not tested on animals A Cozy Smoky Blend Bring the warmth of a fireside evening to your fragrance collection. Burning Woods by VR7 Fragrance pairs smoky woods with comforting chestnut, soft spice and creamy vanilla for a warm, inviting signature. Pink pepper and clove introduce a spicy opening, followed by a heart of chestnut and smoked wood. Vanilla, amber and sandalwood create a smooth, enveloping finish. The result is a balance of smoky depth and gourmand warmth for those who enjoy rich, comforting fragrances. Presented in a 50 ml bottle, this Extrait de Parfum contains 33% fragrance oil and is crafted for long-lasting wear. Actual longevity and projection vary with skin, application and weather. Fragrance Notes Top Notes: Pink Pepper, Clove Middle Notes: Chestnut, Smoked Wood Base Notes: Vanilla, Amber, Sandalwood Fragrance notes describe the scent character and are not a full ingredient list. Recommended Use Cases Choose Burning Woods for cozy evenings, dinner dates, intimate gatherings and special occasions. Its smoky, vanilla-rich character makes it a warm choice for cooler weather and evening gifting. For an office or close indoor setting, apply lightly according to your surroundings. How to Wear & Store Apply lightly to pulse points and adjust the amount to your preference and setting. Keep the bottle tightly closed in a cool, dry place away from direct sunlight, heat and open flames. For external use only; avoid contact with eyes. Frequently Asked Questions What does Burning Woods smell like? It combines smoky woods and chestnut with pink pepper and clove, settling into a warm base of vanilla, amber and sandalwood. Expect a smoky, spicy and comforting vanilla fragrance. Is Burning Woods suitable for men and women? Yes. Burning Woods is a unisex fragrance for anyone who enjoys smoky woods, warm spice and gourmand vanilla notes. What is its concentration and size? This listing is for one 50 ml bottle of Extrait de Parfum with 33% fragrance oil concentration. How long does the fragrance last? Burning Woods has an estimated longevity of 8–10 hours. Actual wear varies with skin, climate and application. Projection: Strong. Sillage: 8.5/10 (VR7 brand estimates; results vary by skin, climate and application).
+  Updated: 2026-11-10T21:43:20Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de parfum
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-burning-woods-50ml-bottle.jpg?v=1790356248
-  Price: ₹699.00 INR
+  - [50 ML](https://vr7fragrance.in/products/burning-woods-smoky-woody-vanilla-extrait-de-parfum-vr7-fragrance?variant=53152862896445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-burning-woods-50ml-bottle.jpg?v=1790356248
+    Price: ₹699.00 INR
+  - [20 ML](https://vr7fragrance.in/products/burning-woods-smoky-woody-vanilla-extrait-de-parfum-vr7-fragrance?variant=67954717360445)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/WhatsApp_Image_2026-11-06_at_10.21.08_PM.jpg?v=1793986040
+    Price: ₹349.00 INR
 - [VR7 Signature Trio | 3 x 20ml Extrait de Parfum Combo](https://vr7fragrance.in/products/vr7-signature-trio-3x20ml): Discover VR7 Signature Trio: Morning Star, Dubai Nights and Midnight Smoke in 3 x 20ml travel-size extrait de parfum sprays. Fresh, oud and smoky scents.
-  Updated: 2026-10-20T21:27:04Z
+  Updated: 2026-11-10T18:52:21Z
   Vendor: VR7 Fragrance™
   Product Type: Extrait de Parfum Combo
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-signature-trio-3x20ml-white-main.jpg?v=1792488007
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/VR7_FRAGRANCE_SIGNATURE_TRIO.jpg?v=1794243717
+  Price: ₹849.00 INR
+- [Sky Theory Citrus Tea Amber Perfume | VR7 Fragrance](https://vr7fragrance.in/products/sky-theory-citrus-tea-amber-extrait-de-parfum): Discover Sky Theory by VR7 Fragrance, a 33% oil extrait de parfum featuring fresh citrus, neroli, ginger, black tea and woody amber. Shop in India.
+  Updated: 2026-11-10T21:43:23Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-sky-theory-main.jpg?v=1793961121
+  - [50 ML](https://vr7fragrance.in/products/sky-theory-citrus-tea-amber-extrait-de-parfum?variant=67952397812029)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-sky-theory-main.jpg?v=1793961121
+    Price: ₹699.00 INR
+  - [20 ML](https://vr7fragrance.in/products/sky-theory-citrus-tea-amber-extrait-de-parfum?variant=67952397844797)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/WhatsApp_Image_2026-11-06_at_10.34.20_PM_1.jpg?v=1793984691
+    Price: ₹349.00 INR
+- [Arabian-X Oud Amber Oriental Perfume | VR7 Fragrance](https://vr7fragrance.in/products/arabian-x-oud-amber-oriental-extrait-de-parfum): Shop Arabian-X by VR7 Fragrance, a rich 33% oil extrait de parfum with saffron, blackcurrant, raspberry, rose, oud, amber and musk. Discover luxury fragrance.
+  Updated: 2026-11-10T21:58:14Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-arabian-x-main.jpg?v=1793961861
+  - [50 ML](https://vr7fragrance.in/products/arabian-x-oud-amber-oriental-extrait-de-parfum?variant=67952473211197)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-arabian-x-main.jpg?v=1793961861
+    Price: ₹699.00 INR
+  - [20 ML](https://vr7fragrance.in/products/arabian-x-oud-amber-oriental-extrait-de-parfum?variant=67952473243965)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/WhatsApp_Image_2026-11-06_at_10.21.08_PM_1.jpg?v=1793984907
+    Price: ₹349.00 INR
+- [ISHQ Perfume | Saffron Rose Oud Extrait | VR7 Fragrance](https://vr7fragrance.in/products/ishq-saffron-rose-amber-extrait-de-parfum): Discover VR7 ISHQ, a luxurious saffron, rose and oud extrait de parfum with amber, caramel and incense. 33% perfume oil. Explore ISHQ at VR7 Fragrance.
+  Updated: 2026-11-10T21:57:45Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_ishq_50.jpg?v=1793990281
+  - [50 ML](https://vr7fragrance.in/products/ishq-saffron-rose-amber-extrait-de-parfum?variant=67954877989181)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_ishq_50.jpg?v=1793990281
+    Price: ₹699.00 INR
+  - [20 ML](https://vr7fragrance.in/products/ishq-saffron-rose-amber-extrait-de-parfum?variant=67954878021949)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7_ishq_20.jpg?v=1793990438
+    Price: ₹349.00 INR
+- [VR7 The Bold Trio | 3 x 20ml Perfume Combo | VR7 Fragrance](https://vr7fragrance.in/products/vr7-the-bold-trio-3x20ml): Meet VR7 The Bold Trio: #-Tag, Midnight Smoke and Club-X. Three 20ml Extrait de Parfum sprays in one 60ml set, from smoky oud to fresh citrus. Shop the combo.
+  Updated: 2026-11-10T18:52:17Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum Combo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/VR7_FRAGRANCE_BOLD_TRIO.jpg?v=1794243695
+  Price: ₹849.00 INR
+- [VR7 Royal Trio | 3 x 20ml Oud Perfume Combo | VR7 Fragrance](https://vr7fragrance.in/products/vr7-royal-trio-3x20ml): Discover VR7 Royal Trio with Arabian X, Royale and Dubai Nights. 3 x 20 ml Extrait de Parfum sprays with oud, rose, amber and warm oriental scents.
+  Updated: 2026-11-10T18:48:56Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum Combo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/VR7_FRAGRANCE_ROYAL_TRIO.jpg?v=1794243674
+  Price: ₹849.00 INR
+- [VR7 Date Night Trio | 3 × 20 ml Extrait de Parfum Combo](https://vr7fragrance.in/products/vr7-date-night-trio-3x20ml): Discover Burning Woods, Ishq and Candy Elixir in VR7 Date Night Trio. Three 20 ml perfumes with smoky, romantic and gourmand scents. 60 ml total.
+  Updated: 2026-11-10T21:43:16Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum Combo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-date-night-trio-burning-woods-ishq-candy-elixir-3x20ml.jpg?v=1794302433
+  Price: ₹849.00 INR
+- [VR7 Fresh Energy Trio | 3 × 20 ml Fresh Perfume Combo](https://vr7fragrance.in/products/vr7-fresh-energy-trio-3x20ml): Morning Star, Sky Theory and Ultra Fresh in one VR7 Fresh Energy Trio. Three 20 ml Extrait de Parfum sprays with fresh aquatic, citrus and tea notes.
+  Updated: 2026-11-10T21:51:25Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum Combo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-fresh-energy-trio-morning-star-sky-theory-ultra-fresh-3x20ml.jpg?v=1794302439
+  Price: ₹849.00 INR
+- [VR7 Prestige Trio | 3 × 20 ml Luxury Perfume Combo](https://vr7fragrance.in/products/vr7-prestige-trio-3x20ml): VR7 Prestige Trio brings together Legacy, Tropical and Velvet Flame in three separate 20 ml Extrait de Parfum sprays. Total 60 ml fragrance set.
+  Updated: 2026-11-10T21:43:14Z
+  Vendor: VR7 Fragrance™
+  Product Type: Extrait de Parfum Combo
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0971/7366/8157/files/vr7-prestige-trio-legacy-tropical-velvet-flame-3x20ml.jpg?v=1794302446
   Price: ₹849.00 INR
 
 ## Collections
 
 - [Fresh collection by VR7 Fragrance](https://vr7fragrance.in/collections/fresh-collection-by-vr7fragrance): Experience vibrant, long-lasting scents with VR7's Fresh Collection—perfect for every day. Energize your senses and explore now!
-  Updated: 2026-10-30T11:16:26Z
-  Total Products: 3
-- [Intense collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Discover VR7’s Intense Collection—luxury extrait de parfum with 33% oil for bold, lasting scent. Ideal for sophisticated evening wear and unforgettable impressions.
-  Updated: 2026-10-14T11:24:15Z
+  Updated: 2026-11-06T16:58:28Z
   Total Products: 4
-- [Spicy collection by VR7 Fragrance](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Explore VR7's spicy collection—luxury extrait de parfum with 33% oil, featuring cardamom, amber, and saffron. Bold, long-lasting scents for special occasions.
-  Updated: 2026-10-14T11:24:15Z
+- [Intense collection by VR7 Fragrance](https://vr7fragrance.in/collections/intense-collection-by-vr7fragrance): Discover VR7’s Intense Collection—luxury extrait de parfum with 33% oil for bold, lasting scent. Ideal for sophisticated evening wear and unforgettable impressions.
+  Updated: 2026-11-06T17:13:19Z
   Total Products: 5
+- [Spicy collection by VR7 Fragrance](https://vr7fragrance.in/collections/spicy-collection-by-vr7fragrance): Explore VR7's spicy collection—luxury extrait de parfum with 33% oil, featuring cardamom, amber, and saffron. Bold, long-lasting scents for special occasions.
+  Updated: 2026-11-06T17:13:19Z
+  Total Products: 6
 - [Gourmand collection by VR7 Fragrance](https://vr7fragrance.in/collections/gourmand-collection-vr7fragrance): Explore VR7 Gourmand Collection—luxury extrait de parfum with vanilla, caramel, and spice notes. Long-lasting, unisex, artisan-crafted fragrances.
-  Updated: 2026-10-16T11:20:31Z
-  Total Products: 3
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 4
 - [Latest arrivals by VR7 Fragrance](https://vr7fragrance.in/collections/latest-arrivals-by-vr7fragrance): Explore the new extrait de parfum arrivals by VR7 Fragrance—luxury scents with 33% oil concentration for lasting, sophisticated impressions. Find your signature today.
-  Updated: 2026-10-30T11:16:26Z
-  Total Products: 14
+  Updated: 2026-11-10T10:47:32Z
+  Total Products: 22
 - [Men's collection by VR7 Fragrance](https://vr7fragrance.in/collections/mens-collection-by-vr7fragrance): Explore men’s extrait de parfum by VR7 Fragrance—luxury scents with 33% oil for lasting impression. Shop top-rated, signature perfumes online.
-  Updated: 2026-10-30T11:16:26Z
-  Total Products: 10
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 13
 - [Unisex collection by VR7 Fragrance](https://vr7fragrance.in/collections/unisex-collection-by-vr7fragrance): Explore VR7's Unisex Collection: extrait de parfum with 33% oil concentration, crafted for lasting, gender-inclusive fragrance impressions. Shop unique scents.
-  Updated: 2026-10-30T11:16:26Z
-  Total Products: 9
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 12
 - [Discovery sets by VR7 Fragrance](https://vr7fragrance.in/collections/discovery-sets-by-vr7-fragrance): Explore 7 luxury extrait de parfum sprays by VR7 in one premium gift set for men and women. Long-lasting, unisex, travel-ready, just ₹499.
-  Updated: 2026-10-25T11:21:36Z
+  Updated: 2026-11-10T06:42:28Z
   Total Products: 1
 - [Everyday Perfumes](https://vr7fragrance.in/collections/everyday-perfumes): Shop VR7 Extrait de Parfum selected for everyday wear—fresh, versatile and long-lasting fragrances for daily confidence.
   Updated: 2026-10-30T11:16:26Z
@@ -412,20 +419,20 @@
   Updated: 2026-10-30T11:16:26Z
   Total Products: 4
 - [Date Night Perfumes](https://vr7fragrance.in/collections/date-night-perfumes): Discover warm, seductive VR7 Extrait de Parfum for date nights and special evenings, selected to leave a lasting impression.
-  Updated: 2026-10-16T11:20:31Z
-  Total Products: 5
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 7
 - [Party Perfumes](https://vr7fragrance.in/collections/party-perfumes): Shop bold VR7 Extrait de Parfum for parties and nights out—powerful, long-lasting statement fragrances made to stand out.
-  Updated: 2026-10-14T11:24:15Z
-  Total Products: 4
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 6
 - [Wedding & Festive Perfumes](https://vr7fragrance.in/collections/wedding-festive-perfumes): Shop rich and luxurious VR7 Extrait de Parfum for weddings, festivals and celebrations—statement fragrances for memorable occasions.
-  Updated: 2026-08-11T20:13:12Z
-  Total Products: 4
+  Updated: 2026-11-06T18:43:46Z
+  Total Products: 6
 - [Perfume Gifts](https://vr7fragrance.in/collections/perfume-gifts): Shop VR7 perfume gifts, Discovery Sets and luxury Extrait de Parfum gift sets for birthdays, celebrations and special occasions.
-  Updated: 2026-10-25T11:21:36Z
-  Total Products: 8
+  Updated: 2026-11-10T10:35:01Z
+  Total Products: 9
 - [All Perfumes](https://vr7fragrance.in/collections/all-perfumes): Explore VR7 Fragrance perfumes and fragrance gift collections. Sample-size 3 ml products and digital education products are shown separately.
-  Updated: 2026-10-30T11:16:26Z
-  Total Products: 20
+  Updated: 2026-11-10T10:41:29Z
+  Total Products: 28
 
 ## Blogs
 
