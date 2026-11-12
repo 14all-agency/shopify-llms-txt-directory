@@ -6,7 +6,7 @@
 - Timezone: Asia/Shanghai
 - Created At: 2026-03-16T12:19:08Z
 - Contact Email: 909060726@qq.com
-- Updated At: 2026-11-05T00:58:39.702Z
+- Updated At: 2026-11-12T01:27:15.148Z
 
 ## Products
 
@@ -178,6 +178,15 @@
     Author: User
   - [Self-Care Trends You Should Know To Stay Balanced](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/self-care-trends-you-should-know-to-stay-balanced): Self-Care Trends You Should Know To Stay Balanced
     Updated: 2026-11-04T00:06:45Z
+    Author: User
+  - [A Deep Dive into Affordable Self-Care Practices](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/a-deep-dive-into-affordable-self-care-practices): A Deep Dive into Affordable Self-Care Practices
+    Updated: 2026-11-06T00:09:11Z
+    Author: User
+  - [Transform Your Mood Daily with Simple Self-Care Strategies](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/transform-your-mood-daily-with-simple-self-care-strategies): Transform Your Mood Daily with Simple Self-Care Strategies
+    Updated: 2026-11-08T00:11:19Z
+    Author: User
+  - [Crafting Your Self-Care Checklist for Mental Harmony](https://sky-beauty-diaries-2.myshopify.com/blogs/新闻/crafting-your-self-care-checklist-for-mental-harmony): Crafting Your Self-Care Checklist for Mental Harmony
+    Updated: 2026-11-11T00:06:55Z
     Author: User
 
 ## Store Pages
