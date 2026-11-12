@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-28T08:45:38Z
 - Contact Email: lutebuther339@gmail.com
-- Updated At: 2026-11-04T06:38:18.723Z
+- Updated At: 2026-11-12T01:03:28.413Z
 
 ## Products
 
@@ -3405,145 +3405,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/100054-006_DET_1.jpg?v=1791276312
   Price: $359.40 USD
-- [Iris Dining Chair | Calidora](https://calidora.shop/products/iris-dining-chair): Shop the Calidora Iris Dining Chair, a dining chair for your dining room. Quality materials and easy, everyday style.
-  Updated: 2026-10-17T03:53:25Z
-  Vendor: Calidora
-  Product Type: Dining Chairs
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/MTO-IrisDiningChair4-DustyBlueHeritageStripe.jpg?v=1791276314
-  - [Amber Textured Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439555865)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Amber_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Terracotta Textured Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439588633)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Terracotta_Textured_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Laurel Textured Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439621401)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Laurel_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Chocolate Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439654169)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Chocolate_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Olive Classic Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439686937)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Olive_Classic_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Seaglass Classic Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439719705)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Seaglass_Classic_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Talc Classic Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439752473)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Talc_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Linen Classic Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439785241)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Linen_Classic_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Sandstone Classic Linen](https://calidora.shop/products/iris-dining-chair?variant=67665439818009)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Sandstone_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Walnut Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665439850777)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Walnut_Velvet-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Moss Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665439883545)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Moss_Velvet-1.jpg?v=1791276315
-    Price: $334.80 USD
-  - [Lichen Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665439916313)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Lichen_Velvet-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Copper Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665439949081)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Copper_Velvet-1.jpg?v=1791276315
-    Price: $334.80 USD
-  - [Chocolate Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665439981849)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Chocolate_Velvet-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Olive Olivia Blockprint](https://calidora.shop/products/iris-dining-chair?variant=67665440014617)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Olive_Olivia-1.jpg?v=1791276315
-    Price: $334.80 USD
-  - [Natural Olivia Blockprint](https://calidora.shop/products/iris-dining-chair?variant=67665440047385)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Natural_Olivia-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Brown Dobby Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440080153)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Brown_Dobby-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Navy Dobby Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440112921)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Navy_Dobby_Stripe-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Ivory Dobby Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440145689)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Ivory_Dobby-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Mahogany Heritage Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440178457)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Mahogany_Stripe-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Terracotta Heritage Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440211225)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Terracotta_Stripe-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Sandstone Heritage Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440243993)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Sandstone_Stripe-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Spruce Heritage Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440276761)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Spruce_Stripe-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Dusty Blue Heritage Stripe](https://calidora.shop/products/iris-dining-chair?variant=67665440309529)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/MTO-IrisDiningChair4-DustyBlueHeritageStripe.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Natural Thea Blockprint](https://calidora.shop/products/iris-dining-chair?variant=67665440342297)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Natural_Thea-1.jpg?v=1791276315
-    Price: $334.80 USD
-  - [Chestnut Heirloom Tapestry](https://calidora.shop/products/iris-dining-chair?variant=67665440375065)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Chestnut_Tapestry-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Olive Grove Heirloom Tapestry](https://calidora.shop/products/iris-dining-chair?variant=67665440407833)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Olive_Tapestry-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Alabaster Heirloom Tapestry](https://calidora.shop/products/iris-dining-chair?variant=67665440440601)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Alabaster_Tapestry-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Meadow Mist Heirloom Tapestry](https://calidora.shop/products/iris-dining-chair?variant=67665440473369)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Meadow_Mist_Tapestry-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Classic Linen Navy](https://calidora.shop/products/iris-dining-chair?variant=67665440506137)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Navy_Classic_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [Ocean Performance Velvet](https://calidora.shop/products/iris-dining-chair?variant=67665440538905)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Ocean_Velvet-1.jpg?v=1791276314
-    Price: $334.80 USD
-  - [Charcoal Textured Linen](https://calidora.shop/products/iris-dining-chair?variant=67665440571673)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-Charcoal_Textured_Linen-1.jpg?v=1791276314
-    Price: $316.80 USD
-  - [White Textured Linen](https://calidora.shop/products/iris-dining-chair?variant=67665440604441)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1018/0902/9401/files/Iris_Dining_Chair-White_Textured_Linen-1.jpg?v=1791276315
-    Price: $316.80 USD
-[List Continued](https://calidora.shop/a/llms-agent/llms.txt?shop=1zjew1-dw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQxOTIxMDIzNjE4NSwibGFzdF92YWx1ZSI6IjE1NDE5MjEwMjM2MTg1In0%3D)
+[List Continued](https://calidora.shop/a/llms-agent/llms.txt?shop=1zjew1-dw.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQxOTIxMDEzNzg4MSwibGFzdF92YWx1ZSI6IjE1NDE5MjEwMTM3ODgxIn0%3D)
 
 ## Collections
 
@@ -3625,6 +3487,18 @@
     Author: Calidora
   - [Discover Timeless Home Styling Ideas for Living Room Decor with Calidora French Grey Baking Dish Set and Luxury Area Rugs](https://calidora.shop/blogs/news/discover-timeless-home-styling-ideas-for-living-room-decor-with-calidora-french-grey-baking-dish-set-and-luxury-area-rugs): Discover Timeless Home Styling Ideas for Living Room Decor with Calidora French Grey Baking Dish Set and Luxury Area Rugs
     Updated: 2026-10-27T11:02:57Z
+    Author: Calidora
+  - [Integrating Calidora’s Cottage Collection Baking Dishes into Your Modern Vintage Home Decor for a Charming Living Room Aesthetic](https://calidora.shop/blogs/news/integrating-calidora-s-cottage-collection-baking-dishes-into-your-modern-vintage-home-decor-for-a-charming-living-room-aesthetic): Integrating Calidora’s Cottage Collection Baking Dishes into Your Modern Vintage Home Decor for a Charming Living Room Aesthetic
+    Updated: 2026-11-04T11:00:55Z
+    Author: Calidora
+  - [How the Calidora™ Antique Copper Creamer Elevates Modern Vintage Living Room Decor with Timeless Home Styling Ideas and Lush Area Rugs](https://calidora.shop/blogs/news/how-the-calidora™-antique-copper-creamer-elevates-modern-vintage-living-room-decor-with-timeless-home-styling-ideas-and-lush-area-rugs): How the Calidora™ Antique Copper Creamer Elevates Modern Vintage Living Room Decor with Timeless Home Styling Ideas and Lush Area Rugs
+    Updated: 2026-11-09T11:02:10Z
+    Author: Calidora
+  - [Revitalize Your Modern Vintage Home Decor with Calidora™ Lakelynn Pasta Bowl: Seamlessly Integrate with Luxury Area Rugs and Vintage Inspired Furniture for Timeless Living Room Styling](https://calidora.shop/blogs/news/revitalize-your-modern-vintage-home-decor-with-calidora™-lakelynn-pasta-bowl-seamlessly-integrate-with-luxury-area-rugs-and-vintage-inspired-furniture-for-timeless-living-room-styling): Revitalize Your Modern Vintage Home Decor with Calidora™ Lakelynn Pasta Bowl: Seamlessly Integrate with Luxury Area Rugs and Vintage Inspired Furniture for Timeless Living Room Styling
+    Updated: 2026-11-10T11:01:50Z
+    Author: Calidora
+  - [Timeless Home Styling Ideas: How the Calidora™ Lakelynn Cereal Bowl Elevates Vintage Inspired Furniture and Modern Living Room Decor](https://calidora.shop/blogs/news/timeless-home-styling-ideas-how-the-calidora™-lakelynn-cereal-bowl-elevates-vintage-inspired-furniture-and-modern-living-room-decor): Timeless Home Styling Ideas: How the Calidora™ Lakelynn Cereal Bowl Elevates Vintage Inspired Furniture and Modern Living Room Decor
+    Updated: 2026-11-11T11:02:48Z
     Author: Calidora
 
 ## Store Pages
