@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-12-27T15:49:36Z
 - Contact Email: Bigpawmastiffs@gmail.com
-- Updated At: 2026-11-04T01:09:34.622Z
+- Updated At: 2026-11-12T01:08:28.016Z
 
 ## Products
 
@@ -304,8 +304,8 @@
   - [3-XL / Gray](https://bigpawmastiffs.com/products/copy-of-always-salty-t-shirt-3-options-3?variant=45450431889720)
     Availability: Available
     Price: $25.00 USD
-- [Hope you like Big Ass Dogs Velveteen Plush Blanket](https://bigpawmastiffs.com/products/hope-you-like-big-ass-dogs-velveteen-plush-blanket): Create a cozy and warm atmosphere at home with this plush velveteen blanket. It is soft to touch and perfect for any home. Customize with a one-sided print to add your personal touch or create a gift for your friends and family. Available in three sizes: 30x40", 50x60", 60x80".NB! Due to variations in the production process, blankets may arrive up to 3" shorter than their listed size..: 100% Polyester.: NB! Thickness of fabric may vary.: One sided print.: 3 sizes
-  Updated: 2026-07-08T21:10:29Z
+- [Custom Dog Christmas Ornament](https://bigpawmastiffs.com/products/hope-you-like-big-ass-dogs-velveteen-plush-blanket): Create a cozy and warm atmosphere at home with this plush velveteen blanket. It is soft to touch and perfect for any home. Customize with a one-sided print to add your personal touch or create a gift for your friends and family. Available in three sizes: 30x40", 50x60", 60x80".NB! Due to variations in the production process, blankets may arrive up to 3" shorter than their listed size..: 100% Polyester.: NB! Thickness of fabric may vary.: One sided print.: 3 sizes
+  Updated: 2026-11-11T16:52:01Z
   Vendor: Printify
   Product Type: All Over Prints
   Availability: Available
@@ -449,13 +449,24 @@
   - [3-XL / Gray / Hoodie](https://bigpawmastiffs.com/products/big-pride-small-town-t-shirt-options?variant=52865043628344)
     Availability: Available
     Price: $39.00 USD
-- [Mastiff Country Garden Flag](https://bigpawmastiffs.com/products/mastiff-country-garden-flag): Help anyone transform their homestead or garden with a simple addition - the personalized banner. Made with lightweight yet highly durable poly poplin-canvas fabric, these banners feel premium to the touch and will oversee your home for years on end. .: 100% Poly poplin-canvas fabric 12'' × 18'' Width, in 12.00 Length, in 18.00 .: Same design printed on both sides, flag flipped over long edge.: Black inside lining.: Features sleeve at top .: Pole not included
-  Updated: 2026-07-08T21:10:38Z
-  Vendor: Printify
+- [Custom Dog Christmas Ornament 🎄🐾🎅](https://bigpawmastiffs.com/products/mastiff-country-garden-flag): Celebrate your favorite four-legged family member with a custom dog Christmas ornament. A festive keepsake for your tree and a thoughtful gift for dog lovers, it adds a personal touch to holiday decorating and makes every Christmas a little more paw-some. .: Material: 100% White ceramic.: Print on both sides.: Matte print on one or both sides.: Golden string included.: UV decoration method.: The height of the hole can slightly deviate.: Please note: Each pack contains a single ornament
+  Updated: 2026-11-11T17:09:09Z
+  Vendor: Big Paws
   Product Type: Home Decor
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/17052271488512886050_2048.jpg?v=1691467467
-  Price: $21.00 USD
+  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/Untitled_2048x2048px_-2026-11-11T113448.861.png?v=1794416121
+  - [1 Dog](https://bigpawmastiffs.com/products/mastiff-country-garden-flag?variant=46113163051320)
+    Availability: Available
+    Price: $25.00 USD
+  - [2 Dogs](https://bigpawmastiffs.com/products/mastiff-country-garden-flag?variant=53789734404408)
+    Availability: Available
+    Price: $27.00 USD
+  - [3 Dogs](https://bigpawmastiffs.com/products/mastiff-country-garden-flag?variant=53789734437176)
+    Availability: Available
+    Price: $29.00 USD
+  - [4 + Dogs](https://bigpawmastiffs.com/products/mastiff-country-garden-flag?variant=53789734469944)
+    Availability: Available
+    Price: $32.00 USD
 - [Football Mom Hobbton T Shirt](https://bigpawmastiffs.com/products/football-mom-hobbton): Show your team spirit for Hobbton with this Football Mom. This classic style is designed to be the perfect accessory for any football mom. Be sure to represent your team and show your pride on game day! Unisex cotton/poly blend Custom T-shirt, English Mastiff, Big Paw Mastiffs
   Updated: 2026-08-28T12:53:35Z
   Vendor: Big Paws
@@ -649,7 +660,7 @@
     Availability: Available
     Price: $23.00 USD
 - [Mastiff Hello Fall  T Shirt / Sweatshirt](https://bigpawmastiffs.com/products/mastiff-hello-fall-sweatshirt): Sand will be Gildan Stay warm and cozy this fall with the Hello Fall Design. Crafted from high-quality materials, its comfortably soft design and classic fit make it an ideal choice for outdoor adventures or a day of errands. Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-11-03T12:32:05Z
+  Updated: 2026-11-11T12:50:11Z
   Vendor: Big Paws
   Product Type: T-Shirt
   Availability: Available
@@ -1503,78 +1514,6 @@
   - [3-XL / White Sweatshirt](https://bigpawmastiffs.com/products/mastiffs-rule-drool-is-cool-t-shirt-sweatshirt?variant=47223903158584)
     Availability: Available
     Price: $28.00 USD
-- [Small Town Christmas (Faison) T Shirt/Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt): Nobody will be able to resist this Cute, Stylish Small Town Personalized Design - it's too cute! The colorful design is sure to turn a few heads and spread the holiday cheer! Be the talk of any holiday gathering in this showstopper! \ Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-07-18T13:17:54Z
-  Vendor: Big Paws
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/bigpawmastiffs-2023-11-23T211245.474.jpg?v=1702123430
-  - [Medium / Sand  T Shirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429033558328)
-    Availability: Available
-    Price: $20.00 USD
-  - [Medium / Sand Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429033656632)
-    Availability: Available
-    Price: $28.00 USD
-  - [Large / Sand  T Shirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429033787704)
-    Availability: Available
-    Price: $20.00 USD
-  - [Large / Sand Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429033886008)
-    Availability: Available
-    Price: $28.00 USD
-  - [X-Large / Sand  T Shirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034017080)
-    Availability: Available
-    Price: $20.00 USD
-  - [X-Large / Sand Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034115384)
-    Availability: Available
-    Price: $28.00 USD
-  - [2-XL / Sand  T Shirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034246456)
-    Availability: Available
-    Price: $22.00 USD
-  - [2-XL / Sand Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034344760)
-    Availability: Available
-    Price: $30.00 USD
-  - [3-XL / Sand  T Shirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034475832)
-    Availability: Available
-    Price: $23.00 USD
-  - [3-XL / Sand Sweatshirt](https://bigpawmastiffs.com/products/small-town-christmas-faison-t-shirt-sweatshirt?variant=47429034606904)
-    Availability: Available
-    Price: $32.00 USD
-- [BLAIRSVILLE Small Town Christmas T Shirt/Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt): Nobody will be able to resist this Cute, Stylish Small Town Personalized Design - it's too cute! The colorful design is sure to turn a few heads and spread the holiday cheer! Be the talk of any holiday gathering in this showstopper! \ Custom T-shirt, English Mastiff, Big Paw Mastiffs
-  Updated: 2026-07-16T05:10:59Z
-  Vendor: Big Paws
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/bigpawmastiffs-2023-11-26T103522.568.jpg?v=1701013096
-  - [Medium / Sand  T Shirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441364746552)
-    Availability: Available
-    Price: $19.00 USD
-  - [Medium / Sand Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441364910392)
-    Availability: Available
-    Price: $26.50 USD
-  - [Large / Sand  T Shirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441365107000)
-    Availability: Available
-    Price: $19.00 USD
-  - [Large / Sand Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441365270840)
-    Availability: Available
-    Price: $26.50 USD
-  - [X-Large / Sand  T Shirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441365467448)
-    Availability: Available
-    Price: $19.00 USD
-  - [X-Large / Sand Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441365631288)
-    Availability: Available
-    Price: $26.50 USD
-  - [2-XL / Sand  T Shirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441365860664)
-    Availability: Available
-    Price: $21.00 USD
-  - [2-XL / Sand Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441366024504)
-    Availability: Available
-    Price: $28.50 USD
-  - [3-XL / Sand  T Shirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441366221112)
-    Availability: Available
-    Price: $22.00 USD
-  - [3-XL / Sand Sweatshirt](https://bigpawmastiffs.com/products/blairsville-small-town-christmas-t-shirt-sweatshirt?variant=47441366384952)
-    Availability: Available
-    Price: $30.00 USD
 - [Mastiff Ceramic Ornament, 4 Shapes](https://bigpawmastiffs.com/products/mastiff-ceramic-ornament-4-shapes): Design your own set of Christmas decorations to make your tree hip, traditional, or funky to suit your unique style. These custom-made Christmas ornaments can be the perfect heirloom to use year after year, generation after generation. The ceramic ornaments are available in heart, star, snowflake, and round shapes for you to choose from..: 0.125" (3mm) thick high-quality ceramic.: Glossy finish.: Available in 4 shapes - Snowflake, Star, Heart and Circle.: One-sided print.: Hole and gold-toned hanging string included.: The height of the hole can slightly deviate.: NB! Each pack contains a single ornament.: NB! For better printing results, please avoid intricate designs. Due to the small scale of the ornament, small texts and high-detail designs may turn out blurry
   Updated: 2026-07-28T10:40:05Z
   Vendor: Printify
@@ -3847,7 +3786,121 @@
   - [3-XL / Full Front Sweatshirt](https://bigpawmastiffs.com/products/doggie-kisses-shamrock-t-shirt-sweatshirt?variant=49700349346104)
     Availability: Available
     Price: $30.00 USD
-[List Continued](https://bigpawmastiffs.com/a/llms-agent/llms.txt?shop=94d3e1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NzI1MzE5MzE1NzY4LCJsYXN0X3ZhbHVlIjoiMjAyNS0wMi0xMCAxNToyNjoxNC4wMDAwMDAifQ%3D%3D)
+- [Unisex Softstyle T-Shirt](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1): The unisex soft-style t-shirt puts a new spin on casual comfort. Made from very soft materials, this tee is 100% cotton for solid colors. Heather colors and sports grey include polyester. The shoulders have twill tape for improved durability. There are no side seams. The collar is made with ribbed knitting to prevent curling damage. .: Made with 100% ring-spun cotton, a lightweight fabric (4.5 oz/yd² (153 g/m²)), this unisex t-shirt feels like a bliss to wear all year round. .: The classic fit with the crew neckline deliver a clean, versatile style that can match any occasion, whether it's formal or semi-formal. .: All shirts feature a pearlized, tear-away label for total wearing comfort. .: Made using ethically grown and harvested US cotton. Gildan is also a proud member of the US Cotton Trust Protocol ensuring ethical and sustainable means of production. This blank tee is  by Oeko-Tex for safety and quality assurance..: Fabric blends: Heather colors - 35% ring-spun cotton, 65% polyester; Sport Grey and Antique colors - 90% cotton, 10% polyester, Graphite Heather - 50% ring-spun cotton, 50% polyester
+  Updated: 2026-07-28T10:40:06Z
+  Vendor: Printify
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+  - [XS / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712235970872)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $25.38 USD
+  - [XS / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236003640)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $25.38 USD
+  - [S / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236036408)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $25.38 USD
+  - [S / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236069176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $25.38 USD
+  - [M / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236101944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $25.38 USD
+  - [M / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236134712)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $25.38 USD
+  - [L / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236167480)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $25.38 USD
+  - [L / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236200248)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $25.38 USD
+  - [XL / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236233016)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $25.38 USD
+  - [XL / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236265784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $25.38 USD
+  - [2XL / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236298552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $27.63 USD
+  - [2XL / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236331320)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $27.63 USD
+  - [3XL / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236364088)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $29.57 USD
+  - [3XL / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236396856)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $29.57 USD
+  - [4XL / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236429624)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $32.20 USD
+  - [4XL / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236462392)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $32.20 USD
+  - [5XL / White](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236495160)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/8590976269370928642_2048.jpg?v=1739486911
+    Price: $33.63 USD
+  - [5XL / Sport Grey](https://bigpawmastiffs.com/products/unisex-softstyle-t-shirt-1?variant=49712236527928)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/15897206125442303361_2048.jpg?v=1739486913
+    Price: $33.63 USD
+- [Mastiffs Typography T Shirt/Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt): Looking for a unique gift? Check out this Mastiffs T Shirt! With customizable options, this shirt will make any mastiff mom feel special. Custom T-shirt
+  Updated: 2026-09-05T23:35:36Z
+  Vendor: Big Paws
+  Product Type: T-Shirt
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0700/6876/4984/files/Mastiff_Mom_62.png?v=1739980618
+  - [Medium / Ash Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738691936568)
+    Availability: Available
+    Price: $19.00 USD
+  - [Medium / Ash Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738712383800)
+    Availability: Available
+    Price: $26.00 USD
+  - [Large / Ash Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738691969336)
+    Availability: Available
+    Price: $19.00 USD
+  - [Large / Ash Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738712416568)
+    Availability: Available
+    Price: $26.00 USD
+  - [X-Large / Ash Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738692002104)
+    Availability: Available
+    Price: $19.00 USD
+  - [X-Large / Ash Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738712449336)
+    Availability: Available
+    Price: $26.00 USD
+  - [2-XL / Ash Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738692034872)
+    Availability: Available
+    Price: $20.00 USD
+  - [2-XL / Ash Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738712482104)
+    Availability: Available
+    Price: $28.00 USD
+  - [3-XL / Ash Gray T Shirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738692067640)
+    Availability: Available
+    Price: $22.00 USD
+  - [3-XL / Ash Gray Sweatshirt](https://bigpawmastiffs.com/products/mastiff-typography-t-shirt-sweatshirt?variant=49738712514872)
+    Availability: Available
+    Price: $30.00 USD
+[List Continued](https://bigpawmastiffs.com/a/llms-agent/llms.txt?shop=94d3e1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo5NzQwMDg0ODA1OTQ0LCJsYXN0X3ZhbHVlIjoiOTc0MDA4NDgwNTk0NCJ9)
 
 ## Collections
 
@@ -3857,24 +3910,24 @@
 - [Jessica](https://bigpawmastiffs.com/collections/jessica): Everything is made to order with an approximate turn around time of 10 to 21 days. Thanks for supporting my small business.
   Updated: 2026-09-13T17:42:27Z
   Total Products: 2
-- [Best  Mastiff Shirts](https://bigpawmastiffs.com/collections/featured): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
-  Updated: 2026-11-02T23:39:25Z
-  Total Products: 60
+- [Best  Mastiff Designs](https://bigpawmastiffs.com/collections/featured): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
+  Updated: 2026-11-11T23:44:54Z
+  Total Products: 69
 - [All Things Mastiff](https://bigpawmastiffs.com/collections/mastiff): English Mastiff Mastiff Mom Dog Mom. Shop best  english mastiff shirts. Dog lover tees. Dog mom shirts. Mastiff mom shirts. Mastiff graphic t shirts.
-  Updated: 2026-11-02T14:29:47Z
-  Total Products: 115
+  Updated: 2026-11-11T23:56:49Z
+  Total Products: 112
 - [Halloween / Fall](https://bigpawmastiffs.com/collections/halloween): Everything is made to order with an approximate turn around time of 5 to 12 days. Thanks for supporting my small business.
-  Updated: 2026-11-02T23:37:53Z
-  Total Products: 53
+  Updated: 2026-11-09T17:24:45Z
+  Total Products: 55
 - [Team Spirit](https://bigpawmastiffs.com/collections/team-spirit): Want another Team or Design? Just send me a message! Everything is made to order with an approximate turn around time of 5 to 10 days. Thanks for supporting my small business.
   Updated: 2026-10-01T15:59:06Z
   Total Products: 60
 - [DOG LOVER](https://bigpawmastiffs.com/collections/dog-lover): Everything is made to order with an approximate turn around time of 5 to 9 days. Thanks for supporting my small business.
-  Updated: 2026-09-13T17:47:18Z
-  Total Products: 8
-- [Christmas](https://bigpawmastiffs.com/collections/christmas): Everything is made to order with an approximate turn around time of 10 to 21 days. Thanks for supporting my small business.
-  Updated: 2026-11-01T23:38:03Z
-  Total Products: 12
+  Updated: 2026-11-05T22:16:01Z
+  Total Products: 9
+- [Christmas](https://bigpawmastiffs.com/collections/christmas): Everything is made to order with an approximate turn around time of 5 to 8 days. Thanks for supporting my small business.
+  Updated: 2026-11-12T00:08:42Z
+  Total Products: 23
 
 ## Store Pages
 
