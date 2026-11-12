@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-28T09:17:14Z
 - Contact Email: aztekbhn@gmail.com
-- Updated At: 2026-11-04T06:54:25.701Z
+- Updated At: 2026-11-12T01:07:09.086Z
 
 ## Products
 
@@ -231,6 +231,18 @@
     Author: Solara™
   - [Exploring Unique Home Decor Gifts Elevate Your Bedroom Lighting Aesthetic with Solara™ 3D Dragon Night Light](https://solaralight.shop/blogs/news/exploring-unique-home-decor-gifts-elevate-your-bedroom-lighting-aesthetic-with-solara™-3d-dragon-night-light): Exploring Unique Home Decor Gifts Elevate Your Bedroom Lighting Aesthetic with Solara™ 3D Dragon Night Light
     Updated: 2026-10-27T11:03:07Z
+    Author: Solara™
+  - [Upgrade Your Relaxing Bedroom with Solara™ Lumi and Ambient Mood Lighting LED Night Reading Lamp](https://solaralight.shop/blogs/news/upgrade-your-relaxing-bedroom-with-solara™-lumi-and-ambient-mood-lighting-led-night-reading-lamp): Upgrade Your Relaxing Bedroom with Solara™ Lumi and Ambient Mood Lighting LED Night Reading Lamp
+    Updated: 2026-11-04T11:01:10Z
+    Author: Solara™
+  - [Illuminate Your Space with Solara™ Lumi Flat Page Book Light and Enhance the Aesthetic with a Futuristic Desk Setup Featuring Levitating Moon Lamp and More](https://solaralight.shop/blogs/news/illuminate-your-space-with-solara™-lumi-flat-page-book-light-and-enhance-the-aesthetic-with-a-futuristic-desk-setup-featuring-levitating-moon-lamp-and-more): Illuminate Your Space with Solara™ Lumi Flat Page Book Light and Enhance the Aesthetic with a Futuristic Desk Setup Featuring Levitating Moon Lamp and More
+    Updated: 2026-11-09T11:02:21Z
+    Author: Solara™
+  - [Exploring the Solara™ Lunara Magnetic Levitation Moon Lamp for Aesthetic Room Decor That Doubles as a Relaxing Bedside Night Lamp Unique Home Decor Gifts and More](https://solaralight.shop/blogs/news/exploring-the-solara™-lunara-magnetic-levitation-moon-lamp-for-aesthetic-room-decor-that-doubles-as-a-relaxing-bedside-night-lamp-unique-home-decor-gifts-and-more): Exploring the Solara™ Lunara Magnetic Levitation Moon Lamp for Aesthetic Room Decor That Doubles as a Relaxing Bedside Night Lamp Unique Home Decor Gifts and More
+    Updated: 2026-11-10T11:02:05Z
+    Author: Solara™
+  - [Unlock the Future of Aesthetic Room Decor with Solara™ Hypercube Infinity Night Light from Galaxy Star Projector to Levitating Moon Lamp without Cords](https://solaralight.shop/blogs/news/unlock-the-future-of-aesthetic-room-decor-with-solara™-hypercube-infinity-night-light-from-galaxy-star-projector-to-levitating-moon-lamp-without-cords): Unlock the Future of Aesthetic Room Decor with Solara™ Hypercube Infinity Night Light from Galaxy Star Projector to Levitating Moon Lamp without Cords
+    Updated: 2026-11-11T11:03:01Z
     Author: Solara™
 
 ## Store Pages
