@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-23T00:24:20Z
 - Contact Email: youngwilliambrandon15041992@gmail.com
-- Updated At: 2026-11-04T07:09:40.324Z
+- Updated At: 2026-11-12T01:03:32.656Z
 
 ## Products
 
@@ -3533,32 +3533,7 @@
   - [Garden Party / King](https://fernpaperco.shop/products/percale-fitted-sheet-garden-party?variant=44332464439383)
     Availability: Available
     Price: $75.60 USD
-- [FernPaperCo™ Embroidered Pillow Cover - Garden Party Blue](https://fernpaperco.shop/products/embroidered-pillow-cover-garden-party-blue): Shop the authentic FernPaperCo™ Embroidered Pillow Cover - Garden Party Blue. Crafted with exceptional quality, timeless design, and unmatched style. Order...
-  Updated: 2026-10-03T07:52:09Z
-  Vendor: FernPaperCo™
-  Product Type: Home Decor > Throw Pillows
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0674/8861/2439/files/PIL208-01.jpg?v=1790156254
-  Price: $125.10 USD
-- [FernPaperCo™ Percale Duvet Cover - Garden Party Blue](https://fernpaperco.shop/products/percale-duvet-cover-garden-party-blue): Shop the authentic FernPaperCo™ Percale Duvet Cover - Garden Party Blue. Crafted with exceptional quality, timeless design, and unmatched style. Order now ...
-  Updated: 2026-10-03T07:52:09Z
-  Vendor: FernPaperCo™
-  Product Type: Bedding & Bath > Blankets & Throws
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0674/8861/2439/files/BDCM14-01_c24033be-036f-4e90-bfd6-d2b97921d092.jpg?v=1790156256
-  - [Garden Party Blue / Twin/Twin XL](https://fernpaperco.shop/products/percale-duvet-cover-garden-party-blue?variant=44332464504919)
-    Availability: Available
-    Price: $107.10 USD
-  - [Garden Party Blue / Full](https://fernpaperco.shop/products/percale-duvet-cover-garden-party-blue?variant=44332464537687)
-    Availability: Available
-    Price: $129.60 USD
-  - [Garden Party Blue / Full/Queen](https://fernpaperco.shop/products/percale-duvet-cover-garden-party-blue?variant=44332464570455)
-    Availability: Available
-    Price: $147.60 USD
-  - [Garden Party Blue / King/Cal. King](https://fernpaperco.shop/products/percale-duvet-cover-garden-party-blue?variant=44332464603223)
-    Availability: Available
-    Price: $170.10 USD
-[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MjA0OTUxLCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTIwNDk1MSJ9)
+[List Continued](https://fernpaperco.shop/a/llms-agent/llms.txt?shop=p6u0g9-gm.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NzkxMTc1MTM5NDE1LCJsYXN0X3ZhbHVlIjoiNzc5MTE3NTEzOTQxNSJ9)
 
 ## Collections
 
@@ -3622,6 +3597,18 @@
     Author: Fern Paper Co
   - [10 Ways FernPaperCo™ Hydrangea Peel & Stick Wallpaper Can Transform Your Space Into a Cozy Haven With Botanical Stationery & Vintage Floral Wallpaper Elements](https://fernpaperco.shop/blogs/news/10-ways-fernpaperco™-hydrangea-peel-stick-wallpaper-can-transform-your-space-into-a-cozy-haven-with-botanical-stationery-vintage-floral-wallpaper-elements): 10 Ways FernPaperCo™ Hydrangea Peel & Stick Wallpaper Can Transform Your Space Into a Cozy Haven With Botanical Stationery & Vintage Floral Wallpaper Elements
     Updated: 2026-10-21T00:48:52Z
+    Author: Fern Paper Co
+  - [Elevate Your Cozy Home Decor with FernPaperCo™ Ditsy Hydrangea Cotton Fabric and Floral Lifestyle Gifts](https://fernpaperco.shop/blogs/news/elevate-your-cozy-home-decor-with-fernpaperco™-ditsy-hydrangea-cotton-fabric-and-floral-lifestyle-gifts): Elevate Your Cozy Home Decor with FernPaperCo™ Ditsy Hydrangea Cotton Fabric and Floral Lifestyle Gifts
+    Updated: 2026-11-04T11:00:39Z
+    Author: Fern Paper Co
+  - [Explore Cozy Home Decor Ideas with FernPaperCo™ Framed Wall Art - Sardines as Illustrated Paper Goods Inspired Heirloom Gift Ideas](https://fernpaperco.shop/blogs/news/explore-cozy-home-decor-ideas-with-fernpaperco™-framed-wall-art-sardines-as-illustrated-paper-goods-inspired-heirloom-gift-ideas): Explore Cozy Home Decor Ideas with FernPaperCo™ Framed Wall Art - Sardines as Illustrated Paper Goods Inspired Heirloom Gift Ideas
+    Updated: 2026-11-09T11:01:56Z
+    Author: Fern Paper Co
+  - [Warming Up Your Space: Embracing FernPaperCo™ Woven Blanket - Storybook with Cozy Home Decor Ideas and Thoughtful Stationery Gifts](https://fernpaperco.shop/blogs/news/warming-up-your-space-embracing-fernpaperco™-woven-blanket-storybook-with-cozy-home-decor-ideas-and-thoughtful-stationery-gifts): Warming Up Your Space: Embracing FernPaperCo™ Woven Blanket - Storybook with Cozy Home Decor Ideas and Thoughtful Stationery Gifts
+    Updated: 2026-11-10T11:01:37Z
+    Author: Fern Paper Co
+  - [Embrace an Eco-Chic Lifestyle with Botanical Stationery and Cozy Home Decor through FernPaperCo™ Woven Blanket - Schoolhouse](https://fernpaperco.shop/blogs/news/embrace-an-eco-chic-lifestyle-with-botanical-stationery-and-cozy-home-decor-through-fernpaperco™-woven-blanket-schoolhouse): Embrace an Eco-Chic Lifestyle with Botanical Stationery and Cozy Home Decor through FernPaperCo™ Woven Blanket - Schoolhouse
+    Updated: 2026-11-11T11:02:34Z
     Author: Fern Paper Co
 
 ## Store Pages
