@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-11T23:07:15Z
 - Contact Email: Dashtrendevent@gmail.com
-- Updated At: 2026-11-05T00:59:24.398Z
+- Updated At: 2026-11-13T00:52:28.621Z
 
 ## Products
 
@@ -363,7 +363,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0d3da17a-3020-4d0d-bfe6-463093f18664-Max-Origin.webp?v=1777423050
     Price: $121.99 USD
 - [Cutout Tube Top and Wide Leg Pants Set](https://dashtrendstore.com/products/cutout-tube-top-and-wide-leg-pants-set): Features:Cutout Number of pieces:Two-piece Stretch:No stretch Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Waist Top Length Bust Bottom Length S 25.2 11 31.5 40.9 M 26.8 11.4 33.1 41.3 L 29.1 11.8 35.4 41.7 XL 31.5 12.2 37.8 42.1 2XL 33.9 12.6 40.2 42.5
-  Updated: 2026-10-21T09:10:12Z
+  Updated: 2026-11-11T00:50:15Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -543,7 +543,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/206478dacfc14c629fc47ae0e497e089-Max-Origin.webp?v=1779724407
     Price: $59.99 USD
 - [Floral Embroidered Mesh Off-Shoulder Top](https://dashtrendstore.com/products/floral-embroidered-mesh-off-shoulder-top): Features:Embroidered,Mesh,Sheer Stretch:No stretch Material composition:100% Polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Sleeve Length One Size 15 47.2 19.7
-  Updated: 2026-10-29T04:59:33Z
+  Updated: 2026-11-12T06:25:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -561,7 +561,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6c9a8a8a33174e8ca668d687b99bec97-Max-Origin.webp?v=1779724502
     Price: $34.99 USD
 - [Open Front Leather Jacket & Dress Set](https://dashtrendstore.com/products/open-front-leather-jacket-dress-set): Features:Basic style Number of pieces:Two-piece Stretch:No stretch Material composition:95% polyester, 5% spandex Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Top Length Bust Length S 21.3 32.7 32.7 M 21.7 34.3 34.3 L 22 36.6 36.6 XL 22.4 39 39 2XL 22.8 41.3 41.3
-  Updated: 2026-11-02T04:44:26Z
+  Updated: 2026-11-06T17:26:06Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -627,7 +627,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1fc64a06cf474f5b9f59348a3df35d8f-Max-Origin.webp?v=1779724544
     Price: $92.99 USD
 - [Abstract Print Halter Neck Maxi Dress](https://dashtrendstore.com/products/abstract-print-halter-neck-maxi-dress): Features:Tied Stretch:No stretch Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Bust S 53.1 35.4 M 53.5 37 L 53.9 39.4 XL 54.3 41.7 2XL 54.7 44.1
-  Updated: 2026-10-21T09:10:16Z
+  Updated: 2026-11-13T00:41:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -713,7 +713,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/b39a1d0a-6e6d-49d8-8f3e-298861c5736b-Max-Origin.webp?v=1779724798
     Price: $69.99 USD
 - [Cold Shoulder Mesh Sleeve Maxi Dress](https://dashtrendstore.com/products/cold-shoulder-mesh-sleeve-maxi-dress): Features:Ruched Stretch:Slightly stretchy Body:Partially lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip Bust S 56.3 26 37.4 34.6 M 56.7 28 39.4 36.6 L 57.1 29.9 41.3 38.6 XL 57.5 31.9 43.3 40.6 2XL 57.9 33.9 45.3 42.5
-  Updated: 2026-10-27T01:45:08Z
+  Updated: 2026-11-06T14:28:11Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -1789,7 +1789,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/6de9e8845b41452d8935f7842813c3aa-Max.jpg?v=1780415219
     Price: $142.99 USD
 - [Raw Hem Maxi Denim Skirt](https://dashtrendstore.com/products/raw-hem-maxi-denim-skirt): Features:Buttoned Stretch:No stretch Material composition:85% cotton, 15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 39 27.6 37.8 M 39.4 29.1 39.4 L 39.8 30.7 40.9 XL 40.2 32.3 41.7
-  Updated: 2026-11-03T23:48:56Z
+  Updated: 2026-11-12T17:06:05Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2049,7 +2049,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/1f0c4a1926a145048a45e41a16edc844-Max-Origin.webp?v=1780415385
     Price: $87.99 USD
 - [Button-Front Denim Skirt](https://dashtrendstore.com/products/button-front-denim-skirt): Features:Buttoned,Slit Stretch:Slightly stretchy Material composition:85% cotton，15% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip XS 33.1 26 36.2 S 33.5 27.6 37.8 M 33.9 29.1 39.4 L 34.4 30.7 41.7
-  Updated: 2026-10-21T09:10:09Z
+  Updated: 2026-11-05T01:50:55Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
@@ -2097,17 +2097,17 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/0e9342274aac47e6be485dd95091f52f-Max-Origin.webp?v=1780415487
     Price: $58.99 USD
 - [Leopard Sheer Midi Skirt](https://dashtrendstore.com/products/leopard-sheer-midi-skirt): Features:Sheer Body:Not lined Material composition:100% polyester Care instructions:Machine wash cold. Tumble dry low. Imported Product Measurements (Measurements by inches) & Size Conversion Size Length Waist Hip S 35.8 26.4 36.2 M 36.2 28.7 38.6 L 36.6 31.1 40.9 XL 37 34.3 44.1
-  Updated: 2026-10-29T10:30:57Z
+  Updated: 2026-11-10T09:51:13Z
   Vendor: Trendsi
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
   - [Leopard / S](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684858999019)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / M](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859031787)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/dd52e749-4e05-4650-a90f-1c4afc60c6b4-Max-Origin.webp?v=1780415646
     Price: $42.99 USD
   - [Leopard / L](https://dashtrendstore.com/products/leopard-sheer-midi-skirt?variant=48684859064555)
@@ -2871,7 +2871,7 @@
     Image: https://cdn.shopify.com/s/files/1/0024/8542/0102/files/5d3125aa-74d9-41ef-9c9e-36c62319c1a7-Max-Origin.webp?v=1780516066
     Price: $84.99 USD
 - [Top model 228695](https://dashtrendstore.com/products/top-model-228695): Women's casual tank top with thin straps, with a simple and universal character. Made of high-quality cotton and elastane blend in a ribbed structure, which provides flexibility, comfort and a good fit to the silhouette. The model of standard length has a smooth pattern, which emphasizes its minimalist style and makes the tank top a perfect base for many everyday stylizations. The V-neck subtly slims the neck and adds a feminine character to the whole. The lightweight and comfortable construction makes the tank top perfect for casual outfits, especially on warmer days. It can be easily combined with jeans, shorts or skirts, creating simple and fashionable stylizations. Cotton 90 % Spandex 10 % Size Lenght Hips Chest EU L/XL | US L/XL 60 cm 86 cm 76 cm EU S/M | US S/M 58 cm 82 cm 72 cm
-  Updated: 2026-11-03T13:50:56Z
+  Updated: 2026-11-11T23:35:51Z
   Vendor: Rue Paris
   Product Type: 
   Availability: Available
@@ -2995,8 +2995,8 @@
 ## Collections
 
 - [OrderlyEmails - Recommended Products](https://dashtrendstore.com/collections/orderlyemails-recommended-products): Enhance your emails with free recommended products that update every 4 hours. Boost sales with OrderlyEmails while enjoying seamless integration.
-  Updated: 2026-11-03T13:50:48Z
-  Total Products: 225
+  Updated: 2026-11-12T08:53:06Z
+  Total Products: 226
 - [Women Sport](https://dashtrendstore.com/collections/women-sport): Discover premium Women's Sport gear designed for performance and style. Shop now for the latest apparel and accessories to boost your workouts.
   Updated: 2026-10-21T07:11:28Z
   Total Products: 0
@@ -3007,14 +3007,14 @@
   Updated: 2026-10-21T07:11:29Z
   Total Products: 0
 - [Best  Products](https://dashtrendstore.com/collections/best--products): Discover our best  products that customers love. Shop now for top-rated items that deliver true value and exceptional quality.
-  Updated: 2026-11-03T13:50:48Z
+  Updated: 2026-11-06T12:03:32Z
   Total Products: 251
 - [Newest Products](https://dashtrendstore.com/collections/newest-products): Explore the latest additions to our collection. Find cutting-edge designs, innovative features, and must-have items to elevate your lifestyle now.
-  Updated: 2026-11-03T13:50:48Z
+  Updated: 2026-11-06T12:03:32Z
   Total Products: 251
 - [Recommended products (Seguno)](https://dashtrendstore.com/collections/recommended-products-seguno): Explore top- products in stock from our Top collection
-  Updated: 2026-11-03T13:50:48Z
-  Total Products: 225
+  Updated: 2026-11-12T08:53:06Z
+  Total Products: 226
 - [Women Jewelry](https://dashtrendstore.com/collections/women-jewelry-accessories): Discover our stunning Women Jewelry collection featuring elegant designs that enhance any outfit. Perfect for any occasion and style!
   Updated: 2026-10-28T12:48:22Z
   Total Products: 2
@@ -3025,7 +3025,7 @@
   Updated: 2026-11-03T12:02:48Z
   Total Products: 33
 - [Dresses](https://dashtrendstore.com/collections/dresses)
-  Updated: 2026-10-28T12:48:22Z
+  Updated: 2026-11-06T12:03:32Z
   Total Products: 100
 - [Women Tops](https://dashtrendstore.com/collections/women-blouses)
   Updated: 2026-10-28T12:48:22Z
@@ -3058,7 +3058,7 @@
   Updated: 2026-10-21T07:11:30Z
   Total Products: 0
 - [All](https://dashtrendstore.com/collections/all)
-  Updated: 2026-11-03T13:50:48Z
+  Updated: 2026-11-06T12:03:32Z
   Total Products: 251
 - [Women shorts](https://dashtrendstore.com/collections/women-shorts)
   Updated: 2026-10-28T12:48:22Z
@@ -3229,6 +3229,18 @@
     Author: Dash Trend
   - [10 Tips for Mastering the Art of Mixing Patterns in Your Outfit](https://dashtrendstore.com/blogs/dash-trend-blogs/10-tips-for-mastering-the-art-of-mixing-patterns-in-your-outfit): 10 Tips for Mastering the Art of Mixing Patterns in Your Outfit
     Updated: 2026-11-04T00:40:58Z
+    Author: Dash Trend
+  - [A Beginner's Guide to Ethical Fashion Shopping](https://dashtrendstore.com/blogs/dash-trend-blogs/a-beginners-guide-to-ethical-fashion-shopping): A Beginner's Guide to Ethical Fashion Shopping
+    Updated: 2026-11-06T00:31:16Z
+    Author: Dash Trend
+  - [Common Fashion Mistakes and How to Avoid Them](https://dashtrendstore.com/blogs/dash-trend-blogs/common-fashion-mistakes-and-how-to-avoid-them): Common Fashion Mistakes and How to Avoid Them
+    Updated: 2026-11-09T00:49:56Z
+    Author: Dash Trend
+  - [The Evolution of Streetwear from Past to Present](https://dashtrendstore.com/blogs/dash-trend-blogs/the-evolution-of-streetwear-from-past-to-present): The Evolution of Streetwear from Past to Present
+    Updated: 2026-11-11T00:32:12Z
+    Author: Dash Trend
+  - [Comparing the Latest Fashion Forward Looks and How to Adopt Them](https://dashtrendstore.com/blogs/dash-trend-blogs/comparing-the-latest-fashion-forward-looks-and-how-to-adopt-them): Comparing the Latest Fashion Forward Looks and How to Adopt Them
+    Updated: 2026-11-13T00:28:50Z
     Author: Dash Trend
 
 ## Store Pages
