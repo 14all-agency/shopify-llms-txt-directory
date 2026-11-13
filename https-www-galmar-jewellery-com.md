@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2026-09-16T11:40:41Z
 - Contact Email: office.margal24@gmail.com
-- Updated At: 2026-11-05T01:05:48.649Z
+- Updated At: 2026-11-13T01:01:04.567Z
 
 ## Collections
 
@@ -76,6 +76,18 @@
     Updated: 2026-10-30T09:01:36Z
     Author: Galmar Jawellery
     Tags: care, how to clean rings, jewellery, jewelry, jewelry cleaning, ring, ring care, ring maintenance, rings, safe jewelry storage
+  - [Jewelry Care in Minutes Tips for Preserving Your Precious Rings](https://www.galmar-jewellery.com/blogs/news/jewelry-care-in-minutes-tips-for-preserving-your-precious-rings): Jewelry Care in Minutes Tips for Preserving Your Precious Rings
+    Updated: 2026-11-05T09:00:30Z
+    Author: Galmar Jawellery
+    Tags: care, cleaning rings, how to preserve jewelry, jewellery, jewelry, jewelry care, ring, ring maintenance, rings, tips for ring care
+  - [How to Make Your Jewelry Sparkle Including Your Favorite Rings](https://www.galmar-jewellery.com/blogs/news/how-to-make-your-jewelry-sparkle-including-your-favorite-rings): How to Make Your Jewelry Sparkle Including Your Favorite Rings
+    Updated: 2026-11-06T09:01:49Z
+    Author: Galmar Jawellery
+    Tags: cleaning tips, how to clean jewelry, jewellery, jewelry, jewelry care, jewelry care tips, ring, ring maintenance, rings, sparkle
+  - [Best Practices for Preventing Ring Tarnish](https://www.galmar-jewellery.com/blogs/news/best-practices-for-preventing-ring-tarnish): Best Practices for Preventing Ring Tarnish
+    Updated: 2026-11-12T09:00:31Z
+    Author: Galmar Jawellery
+    Tags: care, how to clean rings, jewellery, jewelry, jewelry cleaning tips, preventing tarnish, ring, ring maintenance, tarnish, tips for ring care
 
 ## Store Pages
 
@@ -87,7 +99,7 @@
 ## Policies
 
 - [Privacy Policy](https://www.galmar-jewellery.com/policies/privacy-policy)
-  Updated: 2026-09-16T11:40:46Z
+  Updated: 2026-11-06T23:11:25Z
 - [Shipping Policy](https://www.galmar-jewellery.com/policies/shipping-policy)
   Updated: 2026-09-17T15:40:48Z
 - [Refund Policy](https://www.galmar-jewellery.com/policies/refund-policy)
