@@ -6,7 +6,7 @@
 - Timezone: Asia/Karachi
 - Created At: 2023-07-31T11:42:42Z
 - Contact Email: folkmarketgems@gmail.com
-- Updated At: 2026-11-06T01:01:15.082Z
+- Updated At: 2026-11-13T01:06:40.539Z
 
 ## Products
 
@@ -698,8 +698,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/Fancy_Pair-peridots.jpg?v=1790772159
   Price: $790.00 USD
-- [Watermelon Tourmaline Loose Stones 3.45 ct | Gemstones Finder](https://www.gemstonesfinder.com/products/watermelon-tourmaline-loose-stones-3-45ct): Explore 3.45 ct watermelon tourmaline loose stones from Afghanistan, with SI to eye-clean clarity and sizes from 7.3 to 10.3 mm in length.
-  Updated: 2026-10-01T00:47:07Z
+- [Watermelon Tourmaline Loose Stones | 3.45 ct Parcel](https://www.gemstonesfinder.com/products/watermelon-tourmaline-loose-stones-3-45ct): Shop four natural watermelon tourmaline loose stones from Afghanistan, totaling 3.45 ct, with pink-green color zones, step cuts, and SI to eye-clean clarity.
+  Updated: 2026-11-09T22:11:57Z
   Vendor: Gemstones Finder
   Product Type: Loose Gemstones
   Availability: Available
@@ -712,7 +712,26 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/Peridot-loose-gem.jpg?v=1790784044
   Price: $550.00 USD
-[List Continued](https://www.gemstonesfinder.com/a/llms-agent/llms.txt?shop=2be459-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQwNTIyNTgzNjg1MCwibGFzdF92YWx1ZSI6IjE1NDA1MjI1ODM2ODUwIn0%3D)
+- [Loose Peridot Pairs from Pakistan | Untreated](https://www.gemstonesfinder.com/products/bulk-parcel-loose-peridots-from-pakistan): Shop untreated green peridot pairs from Pakistan in small bulk lots. Choose six 5–6 mm pairs or four 7–8 mm pairs, with mostly eye-clean faceted stones.
+  Updated: 2026-11-09T21:53:09Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/pakistan-peridots-stones.jpg?v=1794217938
+  - [5 to 6mm  - 6 Pairs](https://www.gemstonesfinder.com/products/bulk-parcel-loose-peridots-from-pakistan?variant=68598323085618)
+    Availability: Available
+    Price: $1,500.00 USD
+  - [7 to 8mm - 4 Pairs](https://www.gemstonesfinder.com/products/bulk-parcel-loose-peridots-from-pakistan?variant=68598323118386)
+    Availability: Not Available
+    Price: $1,440.00 USD
+- [Natural Peridot Pair | Fancy Cut 7.4 × 7.3 mm](https://www.gemstonesfinder.com/products/7-4-x-7-3-mm-fancy-cut-pair-of-peridots): Shop a natural peridot pair from Pakistan with fancy cuts, green colour and no . Weight: 3.90 carats. Each stone measures 7.4 × 7.3 × 5.2 mm.
+  Updated: 2026-11-09T22:16:35Z
+  Vendor: Gemstones Finder
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0803/8583/5314/files/pair-peridots.jpg?v=1794219366
+  Price: $280.00 USD
+[List Continued](https://www.gemstonesfinder.com/a/llms-agent/llms.txt?shop=2be459-2.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ4NjA1NTU3OTk1NCwibGFzdF92YWx1ZSI6IjE1NDg2MDU1NTc5OTU0In0%3D)
 
 ## Collections
 
@@ -744,11 +763,11 @@
   Updated: 2026-07-14T18:02:25Z
   Total Products: 7
 - [Tourmaline](https://www.gemstonesfinder.com/collections/tourmaline-gemstones): Discover premium tourmaline gemstones in vibrant colors. Raw and loose tourmaline stones for jewelry making. October birthstone collection with authentic gems!
-  Updated: 2026-09-30T13:02:06Z
+  Updated: 2026-11-09T10:20:27Z
   Total Products: 21
 - [Peridots](https://www.gemstonesfinder.com/collections/peridot-rough-loose-stones): Explore a stunning collection of Peridot stones at GemstonesFinder. Choose from a variety of options including Facet Rough, Lapidary Rough Peridots, Loose Peridots, and Peridot Crystals. Peridot Stone Deals available in bulk with competitive price.  Shop now for high-quality, handpicked Peridots to add a touch of brilliance to your designs.
-  Updated: 2026-10-09T19:33:57Z
-  Total Products: 11
+  Updated: 2026-11-09T10:31:55Z
+  Total Products: 13
 - [Garnet](https://www.gemstonesfinder.com/collections/garnet-rough-stones-loose-garnets): Browse loose garnets in green, orange, and red-purple varieties, including tsavorite, spessartite, rhodolite, and rough Mali garnet. Choose from single cut stones, pairs, larger lots, and rough material for lapidary work.
   Updated: 2026-09-30T16:15:40Z
   Total Products: 17
@@ -771,7 +790,7 @@
   Updated: 2026-10-13T19:21:30Z
   Total Products: 47
 - [New Arrival Gems](https://www.gemstonesfinder.com/collections/new-arrivals-gemstones): Shop our latest gemstone arrivals! Discover rare precious stones, healing crystals & natural gems.  authentic with free shipping over $50.
-  Updated: 2026-10-09T19:33:57Z
+  Updated: 2026-11-09T10:20:27Z
   Total Products: 81
 - [Apatite](https://www.gemstonesfinder.com/collections/buy-apatite-gemstones): Shop premium Apatite gemstones at Gemstones Finder. Natural blue & green crystals, healing stones, jewelry grade specimens. Expert curation, fast shipping, satisfaction .
   Updated: 2026-08-24T12:35:12Z
@@ -780,8 +799,8 @@
   Updated: 2026-08-24T12:34:18Z
   Total Products: 3
 - [Loose Precious Stones](https://www.gemstonesfinder.com/collections/loose-precious-stones): Shop loose gemstones in a variety of colors, shapes, and sizes, from individual sapphires and emeralds to mixed stone lots. Browse each listing for its cut, carat weight, and stated origin where provided.
-  Updated: 2026-10-13T19:24:00Z
-  Total Products: 65
+  Updated: 2026-11-09T10:31:55Z
+  Total Products: 67
 
 ## Blogs
 
@@ -866,6 +885,14 @@
     Updated: 2026-11-04T10:10:13Z
     Author: Adnan Akram
     Tags: A to Z Gemstones, Gemstone and Jewelry Trends, Gemstone Buying Guide, Sapphire
+  - [Garnet Buying Guide: Meaning, Colours, Value and Worth](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/buying-guide-to-garnet): Garnet Buying Guide: Meaning, Colours, Value and Worth
+    Updated: 2026-11-09T11:12:16Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Birthstones, Garnets, Gemstone and Jewelry Trends, Gemstone Buying Guide
+  - [Pearl, Alexandrite & Moonstone Buying Guide](https://www.gemstonesfinder.com/blogs/learn-gemmology-minerals-crystals/buying-guide-for-pearl-alexandrite-and-moonstone): Pearl, Alexandrite & Moonstone Buying Guide
+    Updated: 2026-11-09T11:12:45Z
+    Author: Adnan Akram
+    Tags: A to Z Gemstones, Alexandrite, Birthstones, Gemstone and Jewelry Trends, Gemstone Buying Guide, Moonstone, Pearl
 
 ## Store Pages
 
