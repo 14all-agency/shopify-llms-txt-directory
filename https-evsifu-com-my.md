@@ -6,12 +6,12 @@
 - Timezone: Asia/Kuala_Lumpur
 - Created At: 2024-08-01T06:38:55Z
 - Contact Email: hatim@evsifu.com.my
-- Updated At: 2026-11-05T03:38:09.068Z
+- Updated At: 2026-11-13T01:18:27.169Z
 
 ## Products
 
 - [7kw Home EV Charger Type 2 With Rfid & Sirim - E1 ( Single phase / 32Amps )](https://evsifu.com.my/products/7kw-home-ev-charger-type-2-with-wifi-bluetooth): Find out the 7kW Home EV Charger Type 2 with Wi-Fi & Bluetooth. Smart, efficient, & reliable EV charging for your home. Perfect for seamless electric driving!
-  Updated: 2026-11-05T02:19:47Z
+  Updated: 2026-11-06T16:15:18Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -23,7 +23,7 @@
     Availability: Available
     Price: RM 3,649.00 MYR
 - [11kw Home EV Charger Type 2 With Rfid & Sirim - E1 ( 3 phase / 16Amps )](https://evsifu.com.my/products/11kw-home-ev-charger-type-2-with-wifi-bluetooth-e1-3-phase-16amps): Get the 11kW Home EV Charger Type 2 with WiFi & Bluetooth, E1 3-Phase, 16A for efficient and fast electric vehicle charging at home.
-  Updated: 2026-11-05T02:20:57Z
+  Updated: 2026-11-06T12:46:20Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Available
     Price: RM 3,849.00 MYR
 - [22kw Home EV Charger Type 2 With Rfid & Sirim  - E1 ( 3 phase / 32Amps )](https://evsifu.com.my/products/22kw-home-ev-charger-type-2-with-wifi-bluetooth-e1-3-phase-32amps): Explore the 22kW Home EV Charger (Type 2) with WiFi & Bluetooth. 3-phase, 32A design ensures fast, reliable charging for your electric vehicle. Shop now!
-  Updated: 2026-11-05T02:30:15Z
+  Updated: 2026-11-06T12:46:20Z
   Vendor: My Store
   Product Type: 
   Availability: Available
@@ -346,6 +346,22 @@
     Updated: 2026-11-05T03:36:24Z
     Author: Evsifu
     Tags: best ev charger, best ev charger installer, best home ev charger, charger, choosing ev charger installation, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, ev installer, home charging, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, proton ev charger installation, selangor home ev charger install, selangor services
+  - [EV Charger Malaysia: Everything You Need to Know About Installation](https://evsifu.com.my/blogs/ev-charger/ev-charger-malaysia-everything-you-need-to-know-about-installation): EV Charger Malaysia: Everything You Need to Know About Installation
+    Updated: 2026-11-06T00:43:30Z
+    Author: Evsifu
+    Tags: benefits of ev charger installation, best ev charger, best home ev charger, charger, electric vehicle, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, home charging, home ev charger installation, home ev charger installer, home ev installer, how to install ev charger, installation, kl home charger installer, proton ev charger installation, selangor home ev charger install
+  - [The Ultimate Guide to Home EV Charger Installation in KL](https://evsifu.com.my/blogs/ev-charger/the-ultimate-guide-to-home-ev-charger-installation-in-kl): The Ultimate Guide to Home EV Charger Installation in KL
+    Updated: 2026-11-09T01:01:57Z
+    Author: Evsifu
+    Tags: affordable ev charger installation in kl, best ev charger, best ev chargers for home, best home ev charger, charger, charger services, electric vehicle, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, home charger, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, proton ev charger installation, selangor home ev charger install
+  - [Top 5 Solutions for Selangor Home EV Charger Install Challenges](https://evsifu.com.my/blogs/ev-charger/top-5-solutions-for-selangor-home-ev-charger-install-challenges): Top 5 Solutions for Selangor Home EV Charger Install Challenges
+    Updated: 2026-11-11T00:42:51Z
+    Author: Evsifu
+    Tags: best ev charger, best home ev charger, charger, ev, ev charger, ev charger challenges, ev charger installation, ev charger installer near me, ev charger malaysia, ev solutions, home charger, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, proton ev charger installation, residential ev charging, selangor home ev charger install, selangor installation
+  - [10 Best Home EV Chargers in Malaysia: A Comparative Study](https://evsifu.com.my/blogs/ev-charger/10-best-home-ev-chargers-in-malaysia-a-comparative-study): 10 Best Home EV Chargers in Malaysia: A Comparative Study
+    Updated: 2026-11-13T00:31:38Z
+    Author: Evsifu
+    Tags: best ev charger, best home ev charger, best home ev chargers, charger, electric vehicles, ev, ev charger, ev charger installation, ev charger installer near me, ev charger malaysia, ev charging stations, home chargers, home ev charger installation, home ev charger installer, home ev installer, installation, kl home charger installer, malaysia ev charger guide, proton ev charger installation, selangor home ev charger install
 - [News](https://evsifu.com.my/blogs/news)
   - [Best Charger For Your BYD](https://evsifu.com.my/blogs/news/best-charger-for-your-byd)
     Updated: 2024-11-06T10:23:21Z
