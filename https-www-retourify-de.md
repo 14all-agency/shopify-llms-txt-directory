@@ -10,7 +10,7 @@
 - Contact Email: a.motschenbacher@retourify.de
 - Contact Phone: +4995116094240
 - Address: Geisfelder Straße 16, 96050 Bamberg
-- Updated At: 2026-11-05T00:42:07.124Z
+- Updated At: 2026-11-13T00:37:27.518Z
 
 ## Products
 
@@ -36,56 +36,56 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/100-retourify-gutschein-505729.webp?v=1725464388
   Price: 100,00 € EUR
 - [Hoop Hula-Hoop-Reifen pink B-Ware kaufen | Retourify](https://www.retourify.de/products/hoop-reifur-fur-training-ind-zir-gewichtsreduktion): Hula-Hoop-Reifen in Pink, geprüfte B-Ware mit stabilen Steckverbindern – ideal für Sport, Fitness & Freizeit. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:22:57Z
+  Updated: 2026-11-05T18:49:35Z
   Vendor: Hoop
   Product Type: Hula Hoop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hoop-reifen-fur-spiel-sport-pinke-ausfuhrung-b-ware-224063.webp?v=1748691149
   Price: 9,95 € EUR
 - [Hoop Hula-Hoop-Reifen blau B-Ware kaufen | Retourify](https://www.retourify.de/products/hoop-reifen-fur-spiel-sport-blaue-ausfuhrung): Hula-Hoop-Reifen in Blau, geprüfte B-Ware mit stabilen Steckverbindern – ideal für Sport, Fitness & Freizeit. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:22:55Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Hoop
   Product Type: Hula Hoop
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hoop-reifen-fur-spiel-sport-blaue-ausfuhrung-b-ware-197666.webp?v=1748691149
   Price: 9,95 € EUR
 - [Poly Classic Gastro Tablett 5er-Set Gebraucht | Retourify](https://www.retourify.de/products/5-er-set-poly-classic-gastro-tablett-53-x-37-cm-industriequalitat): 5er-Set Poly Classic Gastro Tabletts 53x37 cm, gebraucht & funktionsgeprüft, inkl. Stapelbox. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:22:56Z
+  Updated: 2026-11-05T18:49:35Z
   Vendor: Poly Classic
   Product Type: Tabletts
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/5-er-set-poly-classic-gastro-tablett-53-x-37-cm-mit-stabelbox-gebraucht-7946258.jpg?v=1758788316
   Price: 20,00 € EUR
 - [OWIM Haarglätter 25W Keramik B-Ware kaufen | Retourify](https://www.retourify.de/products/haarglatter-25-w-mit-keramikbeschichteten-heizplatten): OWIM Haarglätter mit 25 Watt und keramikbeschichteten Heizplatten, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:22:56Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: OWIM
   Product Type: Körperpflege Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/haarglatter-owim-25-w-keramikbeschichtete-heizplatten-b-ware-8257840.jpg?v=1758788334
   Price: 9,95 € EUR
 - [Mini Tischtennisplatte 60x30cm B-Ware kaufen | Retourify](https://www.retourify.de/products/tischtennis): Mini Tischtennisplatte 60x30 cm inkl. Ball & Schlägern, geprüfte B-Ware – ideal für Camping & unterwegs. Jetzt sichern!
-  Updated: 2026-09-29T20:22:58Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Mister Gadget
   Product Type: Tischtennisplatte
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/mini-tischtennisplatte-60x30-cm-mit-ball-und-schlagern-steckbar-neuware-und-b-ware-sortiert-758978.webp?v=1748691145
   Price: 9,95 € EUR
 - [Maxxmee Crunchtrainer B-Ware kaufen | Retourify](https://www.retourify.de/products/maxxmee-crunch-trainer-bauchtrainer-training-mit-eigengewicht-b-ware): Maxxmee Crunch-Trainer für Ganzkörpertraining mit Eigengewicht, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:22:56Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: MAXXMEE
   Product Type: Sport - Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/maxxmee-crunch-trainer-bauchtrainer-training-mit-eigengewicht-b-ware-595965.webp?v=1748691140
   Price: 37,46 € EUR
 - [Navaris Balance Board Kids Neuware kaufen | Retourify](https://www.retourify.de/products/kopie-von-navaris-balance-board-fur-kinder-neuware): Navaris Holz-Balance-Board für Kinder ab 3 Jahren, Neuware für spielerisches Balancetraining. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:22:57Z
+  Updated: 2026-11-06T13:25:51Z
   Vendor: Navaris
   Product Type: Balance Board
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/navaris-balance-board-kids-neuware-1375531.jpg?v=1758788345
   Price: 40,79 € EUR
 - [Seifenblasen Spielzeug Kleinkinder Neuware kaufen | Retourify](https://www.retourify.de/products/kopie-von-seifenblasen-spielzeug-fur-kleinkinder-8-locher-ab-3-jahren-rosa-blau-sortiert-neuware-1): Seifenblasen-Spielzeug für Kleinkinder ab 3 Jahren, rosa & blau sortiert, Neuware für bunten Spielspaß drinnen & draußen.
-  Updated: 2026-09-29T20:22:58Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: JEUX 2 MOMES
   Product Type: Spielwaren
   Availability: Available
@@ -99,35 +99,35 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/seifenblasen-spielzeug-fur-kleinkinder-ab-3-jahren-rosa-blau-sortiert-neuware-143410.webp?v=1748691137
     Price: 5,00 € EUR
 - [Babyliss Glätteisen Platinum Diamond B-Ware kaufen | Retourify](https://www.retourify.de/products/baybyliss-glatteisen-platinum-diamond-super-ionen-technik-b-ware-1): Babyliss Glätteisen Platinum Diamond mit Super-Ionen-Technik, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-05T13:51:36Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: BaByliss
   Product Type: Körperpflege Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/babyliss-glatteisen-platinum-diamond-super-ionen-technik-b-ware-2300022.jpg?v=1758788328
   Price: 19,95 € EUR
 - [USB Ladegerät Netzteil 5V/1A Neuware kaufen | Retourify](https://www.retourify.de/products/usb-ladegerat-netzteil-stecker-5v-1a-slim-usb-netzstecker-steckdosenadapter-schwarz-oder-weiss-neuware): USB-Netzteil 5V/1A, schwarz oder weiß, Neuware zum zuverlässigen Laden von Smartphone & Tablet. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:23:45Z
+  Updated: 2026-11-05T19:07:00Z
   Vendor: Shenzhen ShenChuang High Tech Electronics Co., Ltd
   Product Type: Bürogeräte - Büroartikel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/usb-ladegerat-netzteil-stecker-5v1a-slim-usb-netzstecker-steckdosenadapter-schwarz-oder-weiss-neuware-759131.webp?v=1748691132
   Price: 4,99 € EUR
 - [Outdoor Memory-Spiel 20x20cm B-Ware kaufen | Retourify](https://www.retourify.de/products/riesiges-memory-spiel-ca-21-5-x-21-5-cm-fur-draussen-und-drinnen-neuware): Riesiges Memory-Spiel mit 20x20 cm großen Karten, geprüfte B-Ware – ideal für drinnen & draußen. Jetzt günstig sichern!
-  Updated: 2026-10-02T15:04:29Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Mister Gadget
   Product Type: Freizeit - Spiel und Spaß
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/riesiges-memory-spiel-20-x-20-cm-grosse-karten-draussen-und-drinnen-b-ware-1305127.jpg?v=1758788366
   Price: 11,95 € EUR
 - [Hanuri Matratzensauger SVC-202 Neuware kaufen | Retourify](https://www.retourify.de/products/hanuri-matratzensauger-svc-202-600-watt-uvc-licht-sehr-kompakt-und-saugstark-b-ware): Hanuri Matratzensauger SVC-202 mit 600 Watt, UVC-Licht & starker Saugkraft, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:19:26Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Hanuri
   Product Type: Matratzensauger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hanuri-matratzensauger-svc-202-600-watt-uvc-licht-sehr-kompakt-und-saugstark-neuware-616039.webp?v=1748691129
   Price: 39,95 € EUR
 - [QVC Akku-Reinigungsbürste VP-EB01 Neuware kaufen | Retourify](https://www.retourify.de/products/qvc-akkubuerste): QVC Akku-Reinigungsbürste VP-EB01 mit 2000 mAh Akku, Neuware für effektive Reinigung. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:01Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: QVC
   Product Type: Reinigungsbürsten
   Availability: Available
@@ -141,7 +141,7 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/restposten-qvc-akku-reinigungsburste-vp-eb01-2000-mah-akku-neu-7994786.jpg?v=1758787340
     Price: 19,95 € EUR
 - [Post-it Z-Notes Pro Spender schwarz Neuware | Retourify](https://www.retourify.de/products/post-it-z-notes-abroller-schwarz-inkl-1-block-super-sticky-z-notes-neuware): Post-it Z-Notes Pro Abroller in Schwarz inkl. Block Super Sticky Z-Notes, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:01Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: 3M
   Product Type: Bürogeräte - Büroartikel
   Availability: Available
@@ -156,7 +156,7 @@
     Availability: Available
     Price: 19,95 € EUR
 - [Blomus HEXA Schale Eiche hellbraun B-Ware | Retourify](https://www.retourify.de/products/blomus-hexa-schale-schussel-schalchen-eiche-hellbraun-b-ware): Blomus HEXA Schale aus Eiche in hellbraunem Ton, geprüfte B-Ware – dekorativ & praktisch. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:23:46Z
+  Updated: 2026-11-05T18:51:05Z
   Vendor: Blomus
   Product Type: Hausdekoration innen
   Availability: Available
@@ -170,21 +170,21 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/dampfgarer-von-russel-hobbs-3-etagenbehalter-9-liter-800-watt-b-ware-319435.webp?v=1748691113
   Price: 19,95 € EUR
 - [Petra Suppenzubereiter 900W Defekt kaufen | Retourify](https://www.retourify.de/products/petra-digitaler-suppenzubereiter-900-watt-defektware): Petra Digitaler Suppenzubereiter, 900 Watt, als Ersatzteilträger – Defektware für Bastler & Techniker. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:23:47Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Petra Electric
   Product Type: Defektartikel - Teileträger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/petra-digitaler-suppenzubereiter-900-watt-defektware-teilespender-678460.webp?v=1748691111
   Price: 9,95 € EUR
 - [Livoo Crepesmaker 38cm Gebraucht kaufen | Retourify](https://www.retourify.de/products/livoo-crepemaker-crepemaschine-38-cm-antihaftplatte-c-ware): Livoo Crepesmaker mit 38 cm Antihaftplatte, gebraucht & funktionsgeprüft. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:23:46Z
+  Updated: 2026-11-05T19:01:46Z
   Vendor: Livoo
   Product Type: Crepesmaker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/livoo-crepesmaker-crepesmaschine-38-cm-antihaftplatte-c-ware-498866.webp?v=1748691107
   Price: 19,95 € EUR
 - [Mysterybox Spielwaren B-Ware/Gebraucht kaufen | Retourify](https://www.retourify.de/products/mysterybox-spielwaren-ab-3-jahre-b-ware-oder-gebraucht): Mysterybox Spielwaren für Kinder ab 3 Jahren, gemischt aus B-Ware & Gebrauchtware, große Preisersparnis. Jetzt entdecken!
-  Updated: 2026-09-30T13:19:27Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Retourify
   Product Type: Spielwaren
   Availability: Available
@@ -209,56 +209,56 @@
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hula-hoop-reifen-sonderposten-710092.webp?v=1748691106
   Price: 17,91 € EUR
 - [Cosumy Gläserset 4x250ml Neuware kaufen | Retourify](https://www.retourify.de/products/cosumy-doppelwandiges-glaserset-4x-250-ml-borosilikatglas-neuware): Cosumy doppelwandiges Gläserset, 4x 250 ml Borosilikatglas, Neuware – elegant & funktional. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:23:47Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Cosumy
   Product Type: Gläser für Heiß und Kaltgetränke
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cosumy-doppelwandiges-glaserset-4x-250-ml-borosilikatglas-neuware-3087141.jpg?v=1758788361
   Price: 19,45 € EUR
 - [Solenova Solarleuchte Monstera Neuware kaufen | Retourify](https://www.retourify.de/products/solenova-solarleuchte-monstera-blatt-outdoorgeeignet-neu): Solenova Solarleuchte Monstera Blatt, ca. 26 cm, Neuware für stilvolle Gartenbeleuchtung. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:27:29Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Solenova
   Product Type: Gartenleuchten und Laternen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/solenova-solarleuchte-monstera-blatt-outdoorgeeignet-neuware-5317477.jpg?v=1758788323
   Price: 17,95 € EUR
 - [Color & Geometry Schmutzfangteppich B-Ware | Retourify](https://www.retourify.de/products/color-geometry-indoormatte): Color & Geometry Schmutzfangteppich, waschbare Indoormatte, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:27:29Z
+  Updated: 2026-11-05T18:51:05Z
   Vendor: Color & Geometry
   Product Type: Schmutzfangmatten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/color-geometry-schmutzfangteppich-indoormatte-waschbar-b-ware-7459411.jpg?v=1758788338
   Price: 24,95 € EUR
 - [Fitueyes Monitorerhöhungen 2er-Set Neuware | Retourify](https://www.retourify.de/products/fitureyes-monitorerhohungen): 2x Fitueyes Monitorerhöhungen aus gehärtetem Glas, Neuware – stylisch & funktional. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:27:30Z
+  Updated: 2026-11-06T08:13:29Z
   Vendor: Fitueyes
   Product Type: Bürogeräte - Büroartikel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/2x-fitueyes-monitorerhohungen-sehr-stylisch-neuware-6638633.jpg?v=1758788348
   Price: 39,95 € EUR
 - [Tatum Lights Kronleuchter 78x78cm B-Ware | Retourify](https://www.retourify.de/products/tatum-lights-ray1133): Tatum Lights Kronleuchter Deckenlampe, 78x78 cm, geprüfte B-Ware – elegantes Design. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:27:30Z
+  Updated: 2026-11-05T19:06:58Z
   Vendor: Tatum Lights
   Product Type: Deckenlampen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/tatum-lights-kronleuchter-deckenlampe-78x78-cm-b-ware-5022446.jpg?v=1758788350
   Price: 79,95 € EUR
 - [Gewürzregal Edelstahl B-Ware kaufen | Retourify](https://www.retourify.de/products/gewuerzregal): Gewürzregal aus Edelstahl, 55x40x12,5 cm, geprüfte B-Ware – ideal für kleine Küchen. Jetzt günstig sichern!
-  Updated: 2026-09-30T17:55:44Z
+  Updated: 2026-11-05T18:58:36Z
   Vendor: Retourify e. K.
   Product Type: Gewürzregal
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gewurzregal-edelstahl-55-x-40-x-125-cm-b-ware-6403210.jpg?v=1758788323
   Price: 15,95 € EUR
 - [Sonderposten Restposten Geschenkbänder // Sofortkauf oder Preisvorschlag! // B-Ware günstig bei Retourify aus Bamberg](https://www.retourify.de/products/b-ware-sonderposten-restposten-weihnachtsdeko-sofortkauf-oder-preisvorschlag): Sonderposten Restposten Geschenkbänder // Sofortkauf oder Preisvorschlag! // B-Ware hier bestellen | Geprüfte B Ware und Retouren - jetzt beim Retourenwahnsinn aus Franken kaufen!
-  Updated: 2026-09-30T17:55:44Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Retourify
   Product Type: Dekoration und Basteln
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/sonderposten-restposten-geschenkbander-sofortkauf-oder-preisvorschlag-b-ware-8235029.jpg?v=1758788326
   Price: 39,95 € EUR
 - [Colorus Tape Plus Dreierset Neuware kaufen | Retourify](https://www.retourify.de/products/dreierset-colourus-tape-plus-uv-abdeckfolie-fur-malerarbeiten-210-cm-x-20-meter-neuware): Colorus Tape Plus UV-Abdeckfolie, Dreierset 210cm x 20m für Malerarbeiten, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:18Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Colorus
   Product Type: Heimwerken
   Availability: Available
@@ -280,35 +280,35 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/colorus-tape-plus-uv-abdeckfolie-dreierset-fur-malerarbeiten-210-cm-x-20-meter-neuware-6584522.jpg?v=1758788363
     Price: 24,95 € EUR
 - [Badvorleger Set Flamingo Panda B-Ware | Retourify](https://www.retourify.de/products/badvorleger-set-flamingo-yoga-badezimmerteppich-badteppich-von-mr-mrs-panda-b-ware): Badvorleger-Set Flamingo Yoga von Mr. & Mrs. Panda, geprüfte B-Ware – stilvolle Wohlfühloase. Jetzt sichern!
-  Updated: 2026-09-30T17:55:45Z
+  Updated: 2026-11-05T18:58:36Z
   Vendor: Mr. & Mrs. Panda
   Product Type: Badvorleger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/badvorleger-set-flamingo-yoga-badezimmerteppich-badteppich-von-mr-mrs-panda-b-ware-5110059.jpg?v=1758788358
   Price: 12,95 € EUR
 - [Meto Teleskoprohr-Set FS902 Neuware | Retourify](https://www.retourify.de/products/meto-turn-o-matic-teleskoprohr-set-fur-ticketspender-fs902-neuware): Meto Turn-O-Matic Teleskoprohr-Set für Ticketspender FS902, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:18Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Meto
   Product Type: Bürogeräte - Büroartikel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/meto-turn-o-matic-teleskoprohr-set-fur-ticketspender-fs902-neuware-8160089.jpg?v=1758788344
   Price: 59,95 € EUR
 - [Orbegozo LED Kosmetikspiegel 5x Neuware | Retourify](https://www.retourify.de/products/orbegozo-schminspiegel-normale-und-5-fache-vdergosserung-led-licht-neuware): Orbegozo ES 5130 LED Kosmetikspiegel mit 5-facher Vergrößerung, dimmbar, Neuware. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:28:23Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Orbegozo
   Product Type: Körperpflege
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/orbegozo-schminkspiegel-normale-und-5-fache-vergosserung-led-licht-neuware-6373618.jpg?v=1758788363
   Price: 19,95 € EUR
 - [Lux Tools Sockelleistenschneider Comfort Neuware | Retourify](https://www.retourify.de/products/sockelleistenschneider-lux-tools-comfort-max-5-mm-materialstarke-45-90-grad-winkel-neuware-kopie): Lux Tools Sockelleistenschneider Comfort, bis 5mm Materialstärke, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:28:22Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: LUX Tools
   Product Type: Heimwerken
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/sockelleistenschneider-lux-tools-comfort-max-5-mm-materialstarke-45-90-grad-winkel-neuware-6109961.jpg?v=1758788344
   Price: 9,55 € EUR
 - [Emil Lux Bilderrahmen silber 18x24cm Neuware | Retourify](https://www.retourify.de/products/bilderrahmen-silber-von-emil-lux-fur-fotos-in-18x24-cm-neuware): Bilderrahmen silber von Emil Lux für Fotos in 18x24 cm, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:01Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: Emil Lux
   Product Type: Hausdekoration innen
   Availability: Available
@@ -326,14 +326,14 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/bilderrahmen-silber-von-emil-lux-fur-fotos-in-18x24-cm-neuware-4253172.png?v=1758788355
     Price: 21,95 € EUR
 - [Royalty Line Küchenhelfer Set 6-teilig Neuware | Retourify](https://www.retourify.de/products/royalty-kuechenhelfer-set-6-teilig): Royalty Line Küchenhelfer-Set, 6-teilig, Modell RLU03, Neuware für jede Küche. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:28:24Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Royalty Line
   Product Type: Küchenhelfer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/royalty-line-kuchenhelfer-set-6-teilig-neuware-6429260.jpg?v=1758788343
   Price: 19,95 € EUR
 - [Emil Lux Grillbesteck-Set Edelstahl B-Ware | Retourify](https://www.retourify.de/products/grillbesteck-set-emil-lux-edelstahl-robust-b-ware-1): Grillbesteck-Set Emil Lux aus robustem Edelstahl, geprüfte B-Ware – ideal für jeden Grillmeister. Jetzt sichern!
-  Updated: 2026-09-30T12:19:02Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Emil Lux
   Product Type: Camping - Outdoor
   Availability: Available
@@ -351,70 +351,70 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/grillbesteck-set-emil-lux-edelstahl-robust-b-ware-517505.webp?v=1748691038
     Price: 16,95 € EUR
 - [Gartenglück Rasenbelüftungsschuhe Neuware | Retourify](https://www.retourify.de/products/gartengluck-rasenbeluftungsschuhe-einstellbar-ab-gr-37-neuware): Gartenglück Rasenbelüftungsschuhe, einstellbar ab Gr. 37, Neuware für gesunden Rasen. Jetzt günstig sichern!
-  Updated: 2026-09-30T13:20:18Z
+  Updated: 2026-11-05T18:51:36Z
   Vendor: GartenGlück
   Product Type: Rasenbelüftung
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gartengluck-rasenbeluftungsschuhe-einstellbar-ab-gr-37-neuware-7599383.jpg?v=1758788354
   Price: 16,95 € EUR
 - [HAIRGENIE Augenbrauentrimmer Neuware kaufen | Retourify](https://www.retourify.de/products/hairgenie-augenbrauentrimmer-batteriebetrieben-neuware-kopie): HAIRGENIE Augenbrauentrimmer, batteriebetrieben, Neuware für schmerzfreie Härchenentfernung. Jetzt sichern!
-  Updated: 2026-09-30T12:19:00Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: HSP Hanse Shopping
   Product Type: Augenbrauentrimmer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hairgenie-augenbrauentrimmer-batteriebetrieben-neuware-6112970.jpg?v=1758787314
   Price: 4,99 € EUR
 - [Aqua-Textil Bettwäscheset Budapest Neuware | Retourify](https://www.retourify.de/products/aqua-texil-living-bettwascheset-budapest-neuware): Aqua-Textil Living Bettwäscheset "Budapest" aus Mikrofaser, Neuware – seidig weich. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:28:27Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: Aqua-Textil
   Product Type: Bettbezug
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/aqua-textil-living-bettwascheset-budapest-neuware-2467456.jpg?v=1758787384
   Price: 24,95 € EUR
 - [Hama Tablet Case XPAND 8 Zoll Neuware | Retourify](https://www.retourify.de/products/hama-tablet-case-xpand-tablethulle-fur-8-zoll-20-3-cm-gerate-neuware): Hama Tablet Case XPAND für 8-Zoll-Tablets, schwarz, Neuware – eleganter Schutz. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:18Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Hama
   Product Type: Tablethüllen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hama-tablet-case-xpand-universal-tablethulle-schwarz-fur-8-zoll-203-cm-gerate-neuware-4663334.jpg?v=1758787325
   Price: 4,99 € EUR
 - [Hama Tablet Case FOLD Samsung S7/S8 Neuware | Retourify](https://www.retourify.de/products/hama-tablet-case-fold-tablethulle-schwarz-fur-samsung-galaxy-tab-s7-s8-11-zoll-neuware): Hama Tablet Case FOLD für Samsung Galaxy Tab S7/S8, 11 Zoll, Neuware mit S-Pen-Aussparung. Jetzt sichern!
-  Updated: 2026-09-29T20:32:31Z
+  Updated: 2026-11-05T18:59:55Z
   Vendor: Hama
   Product Type: Tablethüllen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hama-tablet-case-fold-tablethulle-schwarz-fur-samsung-galaxy-tab-s7s8-11-zoll-neuware-9802893.jpg?v=1758787357
   Price: 4,95 € EUR
 - [Hama Tablet Case FOLD Lenovo P11 Neuware | Retourify](https://www.retourify.de/products/hama-tablet-case-fold-tablethulle-schwarz-fur-lenovo-tab-p11-p11-plus-neuware): Hama Tablet Case FOLD für Lenovo Tab P11/P11 Plus, schwarz, Neuware im modernen Look. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:32:35Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Hama
   Product Type: Tablethüllen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hama-tablet-case-fold-tablethulle-schwarz-fur-lenovo-tab-p11-p11-plus-neuware-6839496.jpg?v=1758787318
   Price: 4,95 € EUR
 - [Hama Tablet Case FOLD CLEAR S9+ Neuware | Retourify](https://www.retourify.de/products/hama-tablet-case-fold-clear-schwarz-fur-samsung-galaxy-tab-s9-neuware): Hama Tablet Case FOLD CLEAR für Samsung Galaxy Tab S9+, schwarz, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:32:32Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Hama
   Product Type: Tablethüllen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hama-tablet-case-fold-clear-schwarz-fur-samsung-galaxy-tab-s9-neuware-7127488.jpg?v=1758787281
   Price: 4,95 € EUR
 - [Cecotec Proclean 3160 Mikrowelle Defekt | Retourify](https://www.retourify.de/products/cecotec-proclean-3160-mikrowelle-700-watt-800-watt-grill-20-liter-defektware-teiletrager-ersatzteile-kopie): Cecotec Proclean 3160 Mirror Mikrowelle, 700+800 Watt, 20 Liter, Defektware als Ersatzteilträger. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:25:44Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Cecotec
   Product Type: Defektartikel - Teileträger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cecotec-proclean-3160-mirror-mikrowelle-700800-watt-20-liter-defekt-5532418.jpg?v=1758787323
   Price: 34,95 € EUR
 - [Mikrowelle Drehring 180mm B-Ware kaufen | Retourify](https://www.retourify.de/products/mikrowellen-drehring-ca-245-mm-durchmesser-b-ware): Mikrowellen-Drehring, ca. 180 mm Durchmesser, geprüfte B-Ware – leicht & einfach einzusetzen. Jetzt sichern!
-  Updated: 2026-09-29T20:32:32Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Cecotec
   Product Type: Mikrowellen Drehring
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/mikrowelle-drehring-ca-180-mm-durchmesser-b-ware-1322906.jpg?v=1758787250
   Price: 6,95 € EUR
 - [Xiaomi Akkusauger G9 Ersatzteile Gebraucht | Retourify](https://www.retourify.de/products/xiaomi-mi-akkusauger-staubsauger-g9-ersatzteile-sonderposten-gebraucht): Xiaomi Mi Akkusauger G9 Ersatzteile, funktionsgeprüft, Sonderposten gebraucht. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:19Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Xiaomi
   Product Type: Staubsauger
   Availability: Available
@@ -431,15 +431,22 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/xiaomi-mi-akkusauger-staubsauger-g9-ersatzteile-sonderposten-gebraucht-8600936.jpg?v=1758787370
     Price: 29,95 € EUR
+- [Meliconi Wäschetrocknersäulen-Set L60 B-Ware | Retourify](https://www.retourify.de/products/meliconi-base-torre-pro-l60-waschetrocknersaulen-set-tuv-sud-gepruft-b-ware): Meliconi Base Torre Pro L60 Wäschetrocknersäulen-Set, TÜV-geprüft, B-Ware. Jetzt günstig bei Retourify sichern!
+  Updated: 2026-11-06T07:45:21Z
+  Vendor: Meliconi
+  Product Type: Waschmaschinenzubehör
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/meliconi-base-torre-pro-l60-waschetrocknersaulen-set-tuv-sud-gepruft-b-ware-1027135.jpg?v=1758787329
+  Price: 49,95 € EUR
 - [Pentair Flotec Compac 150 Pumpe B-Ware | Retourify](https://www.retourify.de/products/pentair-flotec-compac-150-klarwasser-pumpe-kompakt-leistungsstark-b-ware): Pentair Flotec Compac 150 Klarwasserpumpe, TÜV/GS-geprüft, B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:32:34Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Pentair Flotec
   Product Type: Tauchpumpe
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/pentair-flotec-compac-150-klarwasser-pumpe-tuv-gs-gepruft-b-ware-9297056.jpg?v=1758787357
   Price: 240,00 € EUR
 - [Blomus Vase Peat Rudea anthrazit B-Ware | Retourify](https://www.retourify.de/products/2-er-set-blomus-vase-peat-rudea-anthrazit-b-ware): Blomus Vase Peat Rudea in Anthrazit, geprüfte B-Ware – elegantes Wohnaccessoire. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:04Z
+  Updated: 2026-11-05T18:51:04Z
   Vendor: Blomus
   Product Type: Dekoration und Basteln
   Availability: Available
@@ -453,63 +460,63 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/2-er-set-blomus-vase-peat-rudea-anthrazit-b-ware-872761.webp?v=1748691003
     Price: 29,95 € EUR
 - [HG01 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg01-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG01 Mysteryset Haushalt/Garten, 5 Teile, 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:33:05Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg01-mysteryset-haushalt-garten-5-teile-500-gramm-neu-4773867.png?v=1758787352
   Price: 30,00 € EUR
 - [HG02 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg02-mysteryset-haushalt-garten--teile--gramm-neu-kopie-kopie): HG02 Mysteryset Haushalt/Garten, 4 Teile, 1.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:26Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg02-mysteryset-haushalt-garten-4-teile-1200-gramm-neu-4711023.png?v=1758787271
   Price: 22,00 € EUR
 - [HG03 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg03-mysteryset-haushalt-garten--teile--gramm-neu): HG03 Mysteryset Haushalt/Garten, 6 Teile, 1.100 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:26Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg03-mysteryset-haushalt-garten-6-teile-1100-gramm-neu-3319147.png?v=1758787397
   Price: 30,00 € EUR
 - [HG05 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu): HG05 Mysteryset Haushalt/Garten, 4 Teile, 2.200 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:33:07Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg05-mysteryset-haushalt-garten-4-teile-2200-gramm-neu-3232996.png?v=1758787293
   Price: 59,95 € EUR
 - [HG04 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg04-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG04 Mysteryset Haushalt/Garten, 2 Teile, 5.650 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:33:05Z
+  Updated: 2026-11-05T19:01:22Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg04-mysteryset-haushalt-garten-2-teile-5650-gramm-neu-9761158.png?v=1758787279
   Price: 70,00 € EUR
 - [HG06 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg05-mysteryset-haushalt-garten--teile--gramm-neu): HG06 Mysteryset Haushalt/Garten, 3 Teile, 850 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:27Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg06-mysteryset-haushalt-garten-3-teile-850-gramm-neu-9360869.png?v=1758787381
   Price: 26,00 € EUR
 - [HG07 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg07-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG07 Mysteryset Haushalt/Garten, 4 Teile, 270 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:27Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg07-mysteryset-haushalt-garten-4-teile-270-gramm-neu-4235098.png?v=1758787366
   Price: 15,00 € EUR
 - [HG08 Mysteryset Haushalt Garten Neuware | Retourify](https://www.retourify.de/products/hg08-mysteryset-haushalt-garten--teile--gramm-neu-kopie): HG08 Mysteryset Haushalt/Garten, 3 Teile, 350 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:26Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hg08-mysteryset-haushalt-garten-3-teile-350-gramm-neu-5480459.png?v=1758787382
   Price: 20,00 € EUR
 - [Posten Mysterysets Beauty Gesundheit Neuware | Retourify](https://www.retourify.de/products/posten-mysterysets-beauty-gesundheit-versch-ausfuhrungen-neu): Posten Mysterysets Beauty/Gesundheit, versch. Ausführungen, Neuware – große Auswahl, kleiner Preis!
-  Updated: 2026-09-29T20:33:06Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
@@ -543,147 +550,133 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/posten-mysterysets-beauty-gesundheit-versch-ausfuhrungen-neu-3821088.png?v=1758787371
     Price: 34,00 € EUR
 - [YH Steam Deck Dockingstation 6in1 Neuware | Retourify](https://www.retourify.de/products/yh-6-in-1-dockingstation-steam-deck-usb-3-0-hdmi-gigabit-neu-1): YH 6-in-1-Dockingstation fürs Steam Deck, USB 3.0 + HDMI + Gigabit, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:19Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: YH
   Product Type: Gaming Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/yh-steam-deck-dockingstation-6-in-1-usb-30-hdmi-gigabit-neu-8013404.webp?v=1758787343
   Price: 29,95 € EUR
 - [Jabra Elite 65t Ersatzteile Defekt kaufen | Retourify](https://www.retourify.de/products/jabra-elite-65t-true-wireless-in-ear-kopfhorer-bis-zu-15-stunden-akku-b-ware): Jabra Elite 65t Ersatzteile: Ladecase intakt, Akkus der Inears defekt – Defektware für Bastler. Jetzt sichern!
-  Updated: 2026-09-29T20:25:45Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Jabra
   Product Type: Defektartikel - Teileträger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/jabra-elite-65t-ladecase-intakt-akku-der-inears-defekt-ersatzteile-bastler-1775364.webp?v=1758787299
   Price: 19,95 € EUR
 - [Solac Luftbefeuchter Air From Kyoto Neuware | Retourify](https://www.retourify.de/products/solac-ultraschall-luftbefeuchter-air-from-kyoto-ultraleise-neu): Solac Ultraschall-Luftbefeuchter Air From Kyoto, ultraleise, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:32:34Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Solac
   Product Type: Luftbefeuchter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/solac-ultraschall-luftbefeuchter-air-from-kyoto-ultraleise-neu-5264742.jpg?v=1758787277
   Price: 14,95 € EUR
-- [M02 Mystery Mischset 4,15kg Neuware | Retourify](https://www.retourify.de/products/m02-mystery-mischset-versch-kategorien-ca-4-15-kg-neu): M02 Mystery Mischset, verschiedene Kategorien, ca. 4,15 kg, Neuware – großes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:33:07Z
-  Vendor: Retourify
-  Product Type: Mysterysets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m02-mystery-mischset-versch-kategorien-ca-415-kg-neu-1637030.jpg?v=1758787360
-  Price: 79,00 € EUR
 - [M03 Mystery Mischset 250g Neuware | Retourify](https://www.retourify.de/products/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu): M03 Mystery Mischset, verschiedene Kategorien, ca. 250 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:34Z
+  Updated: 2026-11-05T19:01:46Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m03-mystery-mischset-versch-kategorien-ca-250-gramm-neu-2649717.jpg?v=1758787394
   Price: 22,00 € EUR
 - [M04 Mystery Mischset 400g Neuware | Retourify](https://www.retourify.de/products/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu): M04 Mystery Mischset, verschiedene Kategorien, ca. 400 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:35Z
+  Updated: 2026-11-05T19:01:46Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m04-mystery-mischset-versch-kategorien-ca-400-gramm-neu-4522112.jpg?v=1758787393
   Price: 35,00 € EUR
 - [M05 Mystery Mischset 500g Neuware | Retourify](https://www.retourify.de/products/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-kopie): M05 Mystery Mischset, verschiedene Kategorien, ca. 500 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-10-05T14:21:27Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m05-mystery-mischset-versch-kategorien-ca-500-gramm-neu-6182856.jpg?v=1758787379
   Price: 37,00 € EUR
 - [M06 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M06 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:38:12Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m06-mystery-mischset-versch-kategorien-ca-450-gramm-neu-9332664.jpg?v=1758787392
   Price: 35,00 € EUR
 - [M08 Mystery Mischset 450g Neuware | Retourify](https://www.retourify.de/products/m08-mystery-mischset-versch-kategorien-ca-450-gramm-neu): M08 Mystery Mischset, verschiedene Kategorien, ca. 450 Gramm, Neuware – buntes Überraschungspaket. Jetzt entdecken!
-  Updated: 2026-09-29T20:38:11Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: Retourify
   Product Type: Mysterysets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/m08-mystery-mischset-versch-kategorien-ca-450-gramm-neu-2302292.jpg?v=1758787361
   Price: 35,00 € EUR
-- [GoPro Floaty Unterwassergehäuse Neuware | Retourify](https://www.retourify.de/products/gopro-aflty-005-floaty-schwimmkorper-fur-gopro-hero-5-6-7-wasserfest-orange-b-ware): GoPro Floaty Unterwassergehäuse für HERO 5/6/7/8, wasserfest, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:14Z
-  Vendor: GoPro
-  Product Type: Actioncam Zubehör
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gopro-floaty-unterwasser-gehause-fur-gopro-hero-5-6-7-8-wasserfest-neu-7742447.png?v=1758787301
-  Price: 13,76 € EUR
 - [GoPro HERO 8 Hülle Trageband Neuware | Retourify](https://www.retourify.de/products/gopro-sleeve-lanyard-gopro-hero-8-black-silikon-hulle-schwarz-trageband-b-ware): GoPro HERO 8 Black Hülle + Trageband aus robustem Silikon, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:13Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: GoPro
   Product Type: Actioncam Zubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gopro-hero-8-hulle-trageband-black-silikon-neu-5556008.png?v=1758787314
   Price: 9,95 € EUR
 - [Kimiso K12 Bluetooth Lautsprecher Neuware | Retourify](https://www.retourify.de/products/kimiso-k12-bluetooth-lautsprecher-uhr-innenthermometer-neu): Kimiso K12 Bluetooth-Lautsprecher, weiß, mit Akku, multifunktional, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:38:09Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Kimiso
   Product Type: Lautsprecher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/kimiso-k12-bluetooth-lautsprecher-weiss-akku-multifunktional-neu-9766134.png?v=1758787363
   Price: 14,20 € EUR
 - [Belkin Soundform Nano Kinder B-Ware | Retourify](https://www.retourify.de/products/belkin-sondform-nano-inear-kopfhorer-fur-kinder-b-ware): Belkin Soundform Nano Kopfhörer für Kinder ab 7 Jahren, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:00Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: belkin
   Product Type: Kopfhörer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/belkin-soundform-nano-inear-kopfhorer-fur-kinder-b-ware-6057419.png?v=1758787361
   Price: 21,95 € EUR
 - [Hopcd IR Fülllichtfeld IP66 B-Ware | Retourify](https://www.retourify.de/products/hopcd-ir-infrarot-fulllichtfeld-wasserdicht-nach-ip66-b-ware): Hopcd IR-Infrarot Fülllichtfeld, wasserdicht nach IP66, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:16Z
+  Updated: 2026-11-10T17:03:00Z
   Vendor: Hopcd
   Product Type: Beleuchtung außen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hopcd-ir-infrarot-fulllichtfeld-wasserdicht-nach-ip66-b-ware-9556994.png?v=1758787285
   Price: 19,95 € EUR
 - [Hyper Hyperdrive USB-C Hub iPad Neuware | Retourify](https://www.retourify.de/products/hyper-hyperdrive-4in1-usb-c-hub-fur-ipad-pro-neuware): Hyper Hyperdrive 4in1 USB-C Hub für iPad Pro/Air, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:16Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Hyper
   Product Type: Computerzubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/hyper-hyperdrive-4in1-usb-c-hub-fur-ipad-pro-neuware-4490916.png?v=1758787270
   Price: 15,95 € EUR
 - [DJI Propeller Guard Drohnenschutz Neuware | Retourify](https://www.retourify.de/products/dji-fpv-propeller-guard-schutz-fur-dji-flugdrohnen-schwarz-neuware): DJI Propeller Guard Schutz für DJI Flugdrohnen, schwarz, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:14Z
+  Updated: 2026-11-05T18:51:05Z
   Vendor: DJI
   Product Type: Drohnenzubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/dji-fpv-propeller-guard-schutz-fur-dji-flugdrohnen-schwarz-neuware-8635880.png?v=1758787329
   Price: 14,95 € EUR
 - [Cecotec Grandheat 3110 Mikrowelle Defekt | Retourify](https://www.retourify.de/products/cecotec-proclean-3110-mikrowelle-700-1000-watt-20-liter-defekt-kopie): Cecotec Grandheat 3110 Mikrowelle, 700+1000 Watt, 20 Liter, Defektware als Ersatzteilträger. Jetzt sichern!
-  Updated: 2026-09-29T20:25:44Z
+  Updated: 2026-11-05T18:51:04Z
   Vendor: Cecotec
   Product Type: Defektartikel - Teileträger
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cecotec-grandheat-3110-mikrowelle-7001000-watt-20-liter-defekt-teiletrager-ersatzteile-9359340.jpg?v=1758787282
   Price: 36,95 € EUR
 - [N-PIR Kniekissen Seitenschläfer Neuware | Retourify](https://www.retourify.de/products/ergonomisches-kniekissen-fur-seitenschlafer-von-n-per-health-neu-1): N-PIR Health ergonomisches Kniekissen für Seitenschläfer, Neuware & OVP. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:38:14Z
+  Updated: 2026-11-08T17:48:46Z
   Vendor: N-PIR Health
   Product Type: Kniekissen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/ergonomisches-kniekissen-fur-seitenschlafer-von-n-per-health-neu-4163533.png?v=1758787291
   Price: 9,95 € EUR
 - [Belassa Abfalleimer Toilettenbürste Neuware | Retourify](https://www.retourify.de/products/3-liter-abfalleimer-und-toilettenburste-set-von-belassa-elit-serie-neu): 3-Liter-Abfalleimer und Toilettenbürsten-Set von Belassa (Elit Serie), Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T12:19:00Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: Belassa
   Product Type: Reinigungsbürsten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/3-liter-abfalleimer-und-toilettenburste-set-von-belassa-elit-serie-neu-4430502.png?v=1758787356
   Price: 11,49 € EUR
 - [Imex Grillplatte für Gasöfen Neuware | Retourify](https://www.retourify.de/products/imex-grill-platte-fur-portable-gasofen-30-5-25-cm-durchmesser-neu): Imex Grillplatte für portable Gasöfen, 30,5/25 cm Durchmesser, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:20Z
+  Updated: 2026-11-05T19:01:25Z
   Vendor: Imex
   Product Type: Camping - Outdoor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/imex-grill-platte-fur-portable-gasofen-305-25-cm-durchmesser-neu-1703531.jpg?v=1758787351
   Price: 11,95 € EUR
 - [Country Side Grillschutzhülle B-Ware | Retourify](https://www.retourify.de/products/country-side-grillschutzhuller-zwei-grossen-top-b-ware): Country Side Grillschutzhülle in zwei Größen, geprüfte B-Ware – schützt vor Regen & Schmutz. Jetzt sichern!
-  Updated: 2026-10-02T15:04:29Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Country Side
   Product Type: Grills und Zubehör
   Availability: Available
@@ -697,7 +690,7 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/country-side-grillschutzhulle-zwei-grossen-top-b-ware-4202187.png?v=1758787334
     Price: 11,95 € EUR
 - [SPTA Schleifscheiben Set 100tlg Neuware | Retourify](https://www.retourify.de/products/spta-100-tlg-schleifscheiben-set-150-mm-durchmesser-versch-kornungen-neu): SPTA 100-teiliges Schleifscheiben-Set, 150mm, 10 Körnungen von 40-2000, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-02T14:37:33Z
+  Updated: 2026-11-05T19:07:02Z
   Vendor: SPTA
   Product Type: Heimwerken
   Availability: Available
@@ -715,28 +708,28 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/spta-100-tlg-schleifscheiben-set-150-mm-durchmesser-rabattiert-neu-4873079.png?v=1758787300
     Price: 79,95 € EUR
 - [Maxxmee Push-up Board B-Ware kaufen | Retourify](https://www.retourify.de/products/maxxmee-push-up-board-gezieltes-muskeltraining-b-ware): Maxxmee Push-up Board für gezieltes Muskeltraining, klappbar, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-09-30T17:55:45Z
+  Updated: 2026-11-05T19:29:30Z
   Vendor: Maxxmee
   Product Type: Sport - Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/maxxmee-push-up-board-gezieltes-muskeltraining-b-ware-7533504.png?v=1758787352
   Price: 13,85 € EUR
 - [Modetro Sports Kniebandage XL Neuware | Retourify](https://www.retourify.de/products/modetro-sports-kniebandage-bambuskohlefaser-grosse-xl): Modetro Sports Kniebandage aus Bambuskohlefaser, Größe XL, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-02T15:04:30Z
+  Updated: 2026-11-10T17:03:00Z
   Vendor: Modetro
   Product Type: Kniebandage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/modetro-sports-kniebandage-bambuskohlefaser-grosse-xl-7828663.jpg?v=1758787287
   Price: 11,95 € EUR
 - [Tchibo Buchstütze Bookend B-Ware | Retourify](https://www.retourify.de/products/buchstutze-bookend-designed-by-cornan-von-tchibo-sehr-gute-b-ware): Tchibo Buchstütze Bookend (Designed by Conran), geprüfte B-Ware, mit Bundlerabatt. Jetzt sichern!
-  Updated: 2026-10-05T14:38:08Z
+  Updated: 2026-11-05T19:06:58Z
   Vendor: Tchibo
   Product Type: Hausdekoration innen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/buchstutze-bookend-designed-by-conran-von-tchibo-sehr-gute-b-ware-2907088.webp?v=1768831770
   Price: 12,95 € EUR
 - [Royal Swiss Wasserkocher ABM-207-1 B-Ware | Retourify](https://www.retourify.de/products/royal-swiss-elektrischer-wasserkocher-abm-207-1-in-drei-farben-verfugbar-neuware): Royal Swiss Elektrischer Wasserkocher ABM-207-1, geprüfte B-Ware, versch. Farben. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:23:36Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Royal Swiss
   Product Type: Wasserkocher
   Availability: Available
@@ -750,209 +743,209 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/royal-swiss-elektrischer-wasserkocher-abm-207-1-in-drei-farben-verfugbar-neuware-8813961.webp?v=1758787476
     Price: 12,95 € EUR
 - [Olympia TF 400 Türalarm 3er-Bundle B-Ware | Retourify](https://www.retourify.de/products/3er-bundle-olympia-tf-400-tur-fensteralarm-1-gebrauchtes-set-gratis-dazu): Olympia TF 400 Tür-/Fensteralarm im 3er-Bundle, geprüfte B-Ware, sichert bis zu 12 Türen. Jetzt sichern!
-  Updated: 2026-09-30T13:20:21Z
+  Updated: 2026-11-05T18:58:36Z
   Vendor: Olympia
   Product Type: Alarmanlage
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/3er-bundle-olympia-tf-400-tur-fensteralarm-neu-1-gebrauchtes-set-gratis-dazu-5219550.webp?v=1758787255
   Price: 19,95 € EUR
 - [Cartrend Wireless Ladepad Neuware | Retourify](https://www.retourify.de/products/cartrend-wireless-charging-pad-induktives-laden-fur-smartphones-usb-neu): Cartrend Wireless Ladepad, induktives Laden für Smartphones via USB, Neuware. Jetzt günstig sichern!
-  Updated: 2026-09-30T13:20:22Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Cartrend
   Product Type: Handyhalter
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cartrend-wireless-ladepad-induktives-laden-fur-smartphones-usb-neu-2157581.jpg?v=1758787277
   Price: 8,99 € EUR
 - [DMS Germany Hartschalenkofferset B-Ware | Retourify](https://www.retourify.de/products/dms-germany-7-tlg-trolley-hartschalenkofferset-rk-3800db-dunkelblau-neuware): DMS Germany 7-teiliges Trolley-Hartschalenkofferset, dunkelblau, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-02T22:22:54Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: DMS
   Product Type: Kofferset
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/dms-germany-7-tlg-trolley-hartschalenkofferset-rk-3800db-dunkelblau-top-b-ware-8678128.jpg?v=1758787286
   Price: 64,95 € EUR
 - [Anfahrhilfe bis 5t Anti-Rutsch Neuware | Retourify](https://www.retourify.de/products/anfahrhilfe-fur-fahrzeuge-bis-5-tonnen-anti-rutsch-system-flexibel-steckbar-neu): Anfahrhilfe bis 5t für PKW & Wohnmobil, Anti-Rutsch-System, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-03T16:50:20Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: Light Solutions
   Product Type: Autozubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/anfahrhilfe-fur-fahrzeuge-bis-5-tonnen-anti-rutsch-system-flexibel-steckbar-neu-6308360.jpg?v=1758787323
   Price: 16,99 € EUR
 - [Glühbirnenset Sicherungsset H7 Neuware | Retourify](https://www.retourify.de/products/gluhbirnenset-sicherungsset-fur-autos-h7-neu): Glühbirnen- und Sicherungsset H7 für Autos, Neuware – bestens vorbereitet unterwegs. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:39:09Z
+  Updated: 2026-11-05T18:59:55Z
   Vendor: Intertec
   Product Type: Autozubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gluhbirnenset-sicherungsset-fur-autos-h7-neuware-2850844.jpg?v=1758787367
   Price: 9,95 € EUR
 - [Glühbirnenset Sicherungsset H4 Neuware | Retourify](https://www.retourify.de/products/gluhbirnenset-sicherungsset-fur-autos-h4): Glühbirnen- und Sicherungsset H4 für Autos, Neuware – bestens vorbereitet unterwegs. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:41:00Z
+  Updated: 2026-11-05T18:59:55Z
   Vendor: Intertec
   Product Type: Autozubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gluhbirnenset-sicherungsset-fur-autos-h4-neuware-2082391.jpg?v=1758787252
   Price: 9,95 € EUR
 - [DBPower PTZ IP Kamera B-Ware kaufen | Retourify](https://www.retourify.de/products/db-power-mega-pixel-ptz-ip-camera): DBPower Mega Pixel PTZ IP-Kamera, Schwenk- & Neigefunktion, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:41:01Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: DBPower
   Product Type: Hifi - Multimedia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251007_141405_187a47aa-74ee-4912-939c-cdb0590ebec1.jpg?v=1759851335
   Price: 34,95 € EUR
 - [Cartrend Kompressor Profi 12V Neuware | Retourify](https://www.retourify.de/products/cartrend-compressor-profi-12-volt-10-bar-inkl-adapter-neu): Cartrend Kompressor Profi, 12 Volt, 10 Bar, inkl. Adapter, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:41:01Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Cartrend
   Product Type: Autozubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/cartrend-compressor-profi-12-volt-10-bar-inkl-adapter-neu-7469491.jpg?v=1758787264
   Price: 16,95 € EUR
 - [Unitec Rückenlehnentasche Tablethalter Neuware | Retourify](https://www.retourify.de/products/unitec-ruckenlehnentasche-mit-tablethalterung-fur-tablets-bis-24-5-cm-10-diagonale-neuware): Unitec Rückenlehnentasche mit Tablethalterung, bis 10 Zoll Diagonale, Neuware. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:41:00Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Unitec
   Product Type: Autozubehör
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251009_114150_071a98d1-0584-40c7-9bda-66d102c19029.jpg?v=1760010462
   Price: 6,99 € EUR
 - [Eglo Vedra 1 LED Deckenlampe Neuware | Retourify](https://www.retourify.de/products/eglo-vedra-1-led-deckenlampe-380-lumen-warmweiss-neu): Eglo Vedra 1 LED Deckenlampe, 380 Lumen, warmweiß, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:41:01Z
+  Updated: 2026-11-05T18:51:36Z
   Vendor: Eglo
   Product Type: Deckenlampen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251009_162223.jpg?v=1760022176
   Price: 17,49 € EUR
 - [HSP Brillenputztuch 3er-Set / Mikrofaser - Neuware](https://www.retourify.de/products/hsp-brillenputztuch-3-er-mikrofaser): Beschreibung Drei Mikrofasertücher für streifenfreie Sicht – für Brille, Display oder Kameralinse. Neuware zum Outlet-Preis. Rein in den Warenkorb, bevor's ein anderer tut. Lieferumfang 3x Brillenputztuch aus Mikrofaser Auf einen Blick Zustand: Unbenutzte Neuware / Originalverpackt. Lieferumfang: Vollständig / wie abgebildet. Blitzversand: Schneller und sicherer Versand direkt aus unserem Lager in Lichtenfels!
-  Updated: 2026-09-30T12:19:00Z
+  Updated: 2026-11-05T19:01:21Z
   Vendor: Retourify e. K.
   Product Type: 
   Availability: Available
   Price: 3,95 € EUR
 - [Hama TV Wandhalterung 19-37 Zoll Neuware | Retourify](https://www.retourify.de/products/hama-tv-wandhalterung-19-bis-37): Hama TV-Wandhalterung 19-37 Zoll, bis 25kg Tragkraft, inkl. Zubehör, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-02T15:04:31Z
+  Updated: 2026-11-05T18:59:55Z
   Vendor: Hama
   Product Type: Hifi - Multimedia
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/2-Kopie-Photoroom.jpg?v=1761245226
   Price: 15,95 € EUR
 - [Eglo 32118 LED Stripes Neuware | Retourify](https://www.retourify.de/products/eglo-32118-led-stripes-neuware): Eglo 32118 LED Stripes, warmweiß, Neuware – für gemütliche Atmosphäre. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:23Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Eglo
   Product Type: Beleuchtung innen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/9002759321185-Kopie-Photoroom_1d76f549-648a-497b-a193-b9a39b26bae3.jpg?v=1761249170
   Price: 19,95 € EUR
 - [KitchenCraft Weihnachts-Nudelhölzer Neuware | Retourify](https://www.retourify.de/products/kitchencraft-3er-set-weihnachts-nudelholzer-neu): KitchenCraft 3er-Set Weihnachts-Nudelhölzer Keksroller, Neuware – festliche Backstube. Jetzt sichern!
-  Updated: 2026-11-03T14:22:01Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: KitchenCraft
   Product Type: Nudelhölzer
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251018_184500.jpg?v=1761571467
   Price: 11,95 € EUR
 - [LED-Wandbild Herbstwald Weltbild Neuware | Retourify](https://www.retourify.de/products/led-wandbild-herbstwald-von-weltbild-40x30-cm-neuware): LED-Wandbild "Herbstwald" von Weltbild, 40x30 cm, Neuware – stilvolle Wanddekoration. Jetzt sichern!
-  Updated: 2026-09-29T20:41:05Z
+  Updated: 2026-11-05T19:01:46Z
   Vendor: Weltbild
   Product Type: Wandbilder
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251027_151638.jpg?v=1761575803
   Price: 9,95 € EUR
 - [Tchibo Weltbild Deko Bundle | Retourify](https://www.retourify.de/products/nur-bei-retourify-tchibo-weltbild-deko-bundle): Tchibo & Weltbild Deko-Bundle: Buchstütze Bookend (B-Ware) + LED-Wandbild Herbstwald (Neuware). Jetzt sichern!
-  Updated: 2026-09-30T13:20:23Z
+  Updated: 2026-11-05T19:29:30Z
   Vendor: Fast Bundle
   Product Type: Hausdekoration innen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/temp_3irP643.jpg?v=1761581535
   Price: 15,15 € EUR
 - [Silit Stielkasserolle Collexio B-Ware | Retourify](https://www.retourify.de/products/silit-stielkasserolle-collexio-16-cm-top-b-ware): Silit Stielkasserolle "Collexio", 16 cm Durchmesser, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-05T13:18:28Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Silit
   Product Type: Kochgeschirr
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251027_173930.jpg?v=1761584695
   Price: 29,95 € EUR
 - [Bolan Home Aufbewahrungshocker Neuware | Retourify](https://www.retourify.de/products/bolan-home-aufbewahrungshocker-sitzhocker-im-baumstamm-look-neuware): Bolan Home Aufbewahrungshocker im Teebox-Look, Neuware – Stauraum & Sitzkomfort. Jetzt günstig sichern!
-  Updated: 2026-10-02T15:04:31Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: Retourify e. K.
   Product Type: Hausdekoration innen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251031_144850.jpg?v=1761919917
   Price: 18,95 € EUR
 - [Orbisana Gymnastikball 65cm Neuware | Retourify](https://www.retourify.de/products/orbisana-gymnastikball-65-cm-inkl-65-ubungen-neu): Orbisana Gymnastikball, 65 cm, inkl. 65 Übungen, Neuware – Training für Rücken & Bauch. Jetzt sichern!
-  Updated: 2026-11-03T09:56:25Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Orbisana
   Product Type: Körperpflege Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251031_163508.jpg?v=1761925361
   Price: 9,95 € EUR
 - [Maxxmee Sit-up Assistent Neuware | Retourify](https://www.retourify.de/products/maxxmee-sit-up-assistent-bauch-und-armmuskel-ubungen-neu): Maxxmee Sit-up Assistent für Bauch- und Armmuskeltraining, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:41:55Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: MAXXMEE
   Product Type: Sport - Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/61-15R6OtoL._AC_SL1417.jpg?v=1762004163
   Price: 14,89 € EUR
 - [Eglo Pallante Deckenlampe Neuware | Retourify](https://www.retourify.de/products/eglo-pallante-deckenleuchte-1800-lumen-neu): Eglo Pallante Deckenlampe, 1800 Lumen, modernes Lichtdesign, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-11T13:29:20Z
+  Updated: 2026-11-05T18:51:36Z
   Vendor: Eglo
   Product Type: Haus und Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/71Y6cwx0pwL._AC_SL1500_-Photoroom.jpg?v=1762098590
   Price: 16,95 € EUR
 - [Eglo Vedra 1 Deckenlampe 2x380lm Neuware | Retourify](https://www.retourify.de/products/eglo-vedra-1-deckenlampe-2x-380-lumen-neu): Eglo Vedra 1 Deckenlampe, 2x 380 Lumen, modernes Design, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-30T13:20:29Z
+  Updated: 2026-11-05T18:51:36Z
   Vendor: Eglo
   Product Type: Deckenlampen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/5ca6f991d925fdb6ca3f4001f422c5c4-Kopie-Photoroom_05fa9ab3-c257-4562-a1de-e6de920aa32d.jpg?v=1762099882
   Price: 15,95 € EUR
 - [Garvida Knieschoner Garten 2er-Set Neuware | Retourify](https://www.retourify.de/products/garvida-knieschoner-waschbar-neuware): Garvida Knieschoner für den Garten, 2er-Set, waschbar mit Memory-Schaum, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:38:09Z
+  Updated: 2026-11-11T01:46:53Z
   Vendor: Garvida
   Product Type: Haus und Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/71cmDPwbnCL._SL1417_-Photoroom.jpg?v=1762190365
   Price: 14,95 € EUR
 - [Royal Swiss Wasserkocher 2L B-Ware | Retourify](https://www.retourify.de/products/royal-swiss-wasserkocher-rs-ek01-slk-2-liter-rot-neuware): Royal Swiss Wasserkocher, 2 Liter, 1500 Watt, geprüfte B-Ware – ideal für Haushalt, WG & Büro. Jetzt sichern!
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-11-05T19:29:30Z
   Vendor: Royal Swiss
   Product Type: Küche
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251110_142618-Photoroom.jpg?v=1762784172
   Price: 14,95 € EUR
 - [Eisenbach Wasserkocher 1,8L B-Ware | Retourify](https://www.retourify.de/products/eisenbach-professional-wasserkocher-1-8-liter-1500-watt-silber-neuware): Eisenbach Professional Wasserkocher, 1,8 Liter, 1500 Watt, Silber, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:23:36Z
+  Updated: 2026-11-05T18:58:36Z
   Vendor: Eisenbach Professional
   Product Type: Wasserkocher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251110_155657-Photoroom_96625950-6585-44bc-bb67-6a3498851200.jpg?v=1762788776
   Price: 12,95 € EUR
 - [Alkana Wasserkocher Edelstahl Neuware | Retourify](https://www.retourify.de/products/alkana-wasserkocher-kd-kt001-d): Alkana Wasserkocher KD-KT001-D aus Edelstahl, Neuware – ideal für kleine Küchen. Jetzt günstig sichern!
-  Updated: 2026-09-29T20:41:57Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: Alkana Home
   Product Type: Wasserkocher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251117_134600-Photoroom_a30e01fd-de43-46d6-92ad-c45e052ca392.jpg?v=1763384729
   Price: 9,95 € EUR
 - [da Light Deckenstrahler GU10 Neuware | Retourify](https://www.retourify.de/products/1-flammiger-deckenstrahler-von-da-light-fassung-gu10-schwenkbar-neu): 1-flammiger Deckenstrahler von da Light, GU10, schwenkbar, Neuware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:41:58Z
+  Updated: 2026-11-05T18:49:36Z
   Vendor: da Light
   Product Type: Deckenlampen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/51bYftHKS1L._AC_SL1500_-Kopie-Photoroom.jpg?v=1763397421
   Price: 9,80 € EUR
 - [Reality Stehleuchte Leavy Chrom B-Ware | Retourify](https://www.retourify.de/products/reality-stehleuchte-leavy-chrom-1800-mm-x-700-mm-x-700-mm-b-ware): Reality Stehleuchte Leavy in Chrom, Blattform-Design, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:41:58Z
+  Updated: 2026-11-05T19:05:29Z
   Vendor: Reality Leuchten GmbH
   Product Type: Beleuchtung innen
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/24df1229-834e-46e2-a483-9e8ddf447d00_1920x1920-Photoroom.jpg?v=1763463272
   Price: 74,93 € EUR
 - [Gourmetmaxx Wasserkocher 11009 B-Ware | Retourify](https://www.retourify.de/products/gourmetmaxx-wasserkocher-11009-modernes-frostglas-design-top-b-ware): Gourmetmaxx Wasserkocher 11009 im modernen Frostglas-Design, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-11-05T18:59:56Z
   Vendor: Gourmetmaxx
   Product Type: Wasserkocher
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/gourmetmaxx-wasserkocher-11009-modernes-frostglas-design-b-ware-807864.webp?v=1748691019
   Price: 18,95 € EUR
 - [Polstermaterial Karton Shredder Neuware | Retourify](https://www.retourify.de/products/polstermaterial-karton-shredder-fullmaterial-30-platten-je-36-x-18-cm-doppelwandig-neu): Polstermaterial Karton Shredder Füllmaterial, 30 Matten pro Bündel, 2-wellig, Neuware. Nachhaltig & schonend.
-  Updated: 2026-10-02T15:52:10Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Retourify
   Product Type: Verpackungsmaterial
   Availability: Available
@@ -978,7 +971,7 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251210_174343_3_40729380-e457-43b9-9641-54825cee4d41.jpg?v=1765387435
     Price: 26,95 € EUR
 - [Kartonzuschnitte Wellpappe Neuware | Retourify](https://www.retourify.de/products/kartonzuschnitte-wellpappzuschnitt-kartonplatte-fullplatte-2-wellig): Kartonzuschnitte Wellpappzuschnitt, 30 Platten pro Bündel, 2-wellig, Neuware. Für Versand & Umzug.
-  Updated: 2026-09-30T12:19:03Z
+  Updated: 2026-11-05T19:01:22Z
   Vendor: Retourify
   Product Type: Verpackungsmaterial
   Availability: Available
@@ -1004,7 +997,7 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251210_173659_5.jpg?v=1765457313
     Price: 26,95 € EUR
 - [DrinkUp Trinkflasche 850ml Neuware | Retourify](https://www.retourify.de/products/drinkup-trinkflasche-850-ml-oder-470-ml-bpa-frei-aus-tritan-spulmaschinengeeignet-neu): DrinkUp Trinkflasche, 850 ml, BPA-frei aus Tritan, spülmaschinengeeignet, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: DoYourSports
   Product Type: Sport - Fitness
   Availability: Available
@@ -1018,7 +1011,7 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251211_145712_1_aa3b1194-2fcc-42a3-a966-02e5fe48f475.jpg?v=1765464339
     Price: 11,95 € EUR
 - [DrinkUp Trinkflasche 470ml Neuware | Retourify](https://www.retourify.de/products/drinkup-trinkflasche-470-ml-bpa-frei-aus-tritan-spulmaschinengeeignet-neu-kopie): DrinkUp Trinkflasche, 470 ml, BPA-frei aus Tritan, spülmaschinengeeignet, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-11-05T18:51:06Z
   Vendor: DoYourSports
   Product Type: Sport - Fitness
   Availability: Available
@@ -1032,77 +1025,77 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20251211_150729_1_4507502a-0fcb-4601-8dba-54551f0fb258.jpg?v=1765466362
     Price: 10,95 € EUR
 - [Ikea Innehallsrik Aufbewahrungsdose B-Ware | Retourify](https://www.retourify.de/products/ikea-innehallsrik-aufbewahrungsdose-blau-weiss-gestreift-b-ware): Ikea INNEHÅLLSRIK Aufbewahrungsdose, blau-weiß gestreift, geprüfte B-Ware, einzeln. Jetzt günstig sichern!
-  Updated: 2026-10-05T14:21:26Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Ikea
   Product Type: Dekoration und Basteln
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260120_114907.jpg?v=1768911682
   Price: 12,95 € EUR
 - [Ikea Innehallsrik Aufbewahrungsdose 2er B-Ware | Retourify](https://www.retourify.de/products/ikea-innehallsrik-aufbewahrungsdose-blau-weiss-gestreift-b-ware-2er-set): Ikea INNEHÅLLSRIK Aufbewahrungsdose, blau-weiß gestreift, geprüfte B-Ware, 2er-Set. Jetzt günstig sichern!
-  Updated: 2026-10-02T14:11:24Z
+  Updated: 2026-11-05T19:01:21Z
   Vendor: Ikea
   Product Type: Dekoration und Basteln
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260120_115003.jpg?v=1768912406
   Price: 21,95 € EUR
 - [Ikea Innehallsrik Aufbewahrungsdose 3er B-Ware | Retourify](https://www.retourify.de/products/ikea-innehallsrik-aufbewahrungsdose-blau-weiss-gestreift-b-ware-3er-set): Ikea INNEHÅLLSRIK Aufbewahrungsdose, blau-weiß gestreift, geprüfte B-Ware, 3er-Set. Jetzt günstig sichern!
-  Updated: 2026-10-02T14:11:47Z
+  Updated: 2026-11-05T19:01:26Z
   Vendor: Ikea
   Product Type: Dekoration und Basteln
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260120_131803.jpg?v=1768912568
   Price: 29,95 € EUR
 - [Maxxmee Mini Wurfscheibe Frisbee Neuware | Retourify](https://www.retourify.de/products/maxxmee-mini-wurfscheibe-leuchtende-farben-neu): Maxxmee Mini-Wurfscheibe Frisbee, ca. 6cm, leuchtende Farben, Neuware. Spaß für Park, Strand & Wasser.
-  Updated: 2026-09-30T12:19:01Z
+  Updated: 2026-11-05T19:04:06Z
   Vendor: DS Produkte
   Product Type: Freizeit - Spiel und Spaß
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260123_143944.jpg?v=1769178382
   Price: 9,95 € EUR
 - [TRIGGin Triggerknopf Schmerzpunkt Neuware | Retourify](https://www.retourify.de/products/triggin-der-triggerknopf): TRIGGin Triggerknopf für Schmerzpunkt-Therapie, Medizinprodukt, inkl. Tape & Anleitung, Neuware.
-  Updated: 2026-10-02T15:04:33Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: TRIGGin
   Product Type: Körperpflege Wellness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260123_144627.jpg?v=1769181892
   Price: 8,95 € EUR
 - [Wilkinson Vulcan BBQ Grillpfanne B-Ware | Retourify](https://www.retourify.de/products/wilkinson-vulcan-bbq-range-premium-edelstahl-sieb-b-ware-32-cm-durchmesser): Wilkinson Vulcan BBQ Edelstahl Grillpfanne, 2 Henkel, 32cm, geprüfte B-Ware. Jetzt günstig bei Retourify sichern!
-  Updated: 2026-09-29T20:59:47Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Wilkinson
   Product Type: Garten
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/rn-image_picker_lib_temp_1c559316-6c6e-498c-ac32-886a8de8656b.png?v=1772108275
   Price: 13,85 € EUR
 - [Schultertasche Collezione Alessandro Neuware | Retourify](https://www.retourify.de/products/schultertasche-umhangetasche-neu-collezione-alessandro-made-in-italy): Schultertasche Umhängetasche Collezione Alessandro, elegant, Made in Italy, Neuware. Jetzt günstig sichern!
-  Updated: 2026-10-02T14:35:00Z
+  Updated: 2026-11-05T19:05:30Z
   Vendor: Collezione Alessandro
   Product Type: Camping / Outdoor
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/rn-image_picker_lib_temp_08054ba4-8eea-44f9-852e-1921c2469e24.png?v=1772206553
   Price: 19,95 € EUR
 - [Megableu Panda Fun Tischspiel B-Ware | Retourify](https://www.retourify.de/products/megableu-panda-fun-tischspiel-fur-kinder-ab-3-jahren-b-ware-interaktiver-panda): Megableu PANDA Fun Tischspiel für Kinder ab 3 Jahren, interaktiv, geprüfte B-Ware. Jetzt günstig sichern!
-  Updated: 2026-10-05T13:53:01Z
+  Updated: 2026-11-06T07:29:45Z
   Vendor: MEGABLEU
   Product Type: Spielwaren
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260302_144435-Photoroom_1.png?v=1772462616
   Price: 19,95 € EUR
 - [Self Spares Air Fryer Racks Neuware | Retourify](https://www.retourify.de/products/self-spares-edelstahl-air-fryer-racks-mehrschichtige-dorrschalen-kochregale-universell-passend-fur-die-meisten-heissluftfritteusen-neu): Self Spares Edelstahl Air Fryer Racks, universell passend, Neuware. Ideal zum Dörren & Kochen. Jetzt sichern!
-  Updated: 2026-09-29T21:00:28Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: Self Spares
   Product Type: Heissluftfritteuse
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/rn-image_picker_lib_temp_d6d6eed7-d03a-4bf6-a4b8-5bacbd337e7a.png?v=1772530712
   Price: 19,95 € EUR
 - [Cooks Essentials Schüsseln Set Neuware | Retourify](https://www.retourify.de/products/cook-s-essentials-2er-set-schusseln-schneidebrett-faltbar-rollbar-silikon): COOK´S ESSENTIALS 2er-Set Schüsseln & Schneidebrett, faltbar & rollbar aus Silikon, Neuware. Jetzt sichern!
-  Updated: 2026-10-02T07:18:00Z
+  Updated: 2026-11-05T18:51:05Z
   Vendor: COOK´S ESSENTIALS
   Product Type: Kochgeschirr
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/s-l1600_1_-Kopie.jpg?v=1772535006
   Price: 9,95 € EUR
 - [Babista Kleidersack Anzugtasche Neuware | Retourify](https://www.retourify.de/products/babista-kleidersack-anzugtasche-blau-mit-reissverschluss-100-x-60-cm-neu): Babista Kleidersack Anzugtasche, Blau, mit Reißverschluss, 100x60cm, Neuware. Schutz für Anzüge & Kleider.
-  Updated: 2026-09-30T13:20:31Z
+  Updated: 2026-11-05T18:49:35Z
   Vendor: Babista
   Product Type: Bekleidung
   Availability: Available
@@ -1120,14 +1113,14 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/IMG_20260303_144441.jpg?v=1772546264
     Price: 34,95 € EUR
 - [Hendi Durchlauftoaster Gastro B-Ware | Retourify](https://www.retourify.de/products/hendi-261200-durchlauftoaster-b-ware): Hendi Durchlauftoaster Conveyor Toaster Single, Profi-Gerät für Hotellerie & Buffet, geprüfte B-Ware.
-  Updated: 2026-09-29T21:00:29Z
+  Updated: 2026-11-06T09:18:12Z
   Vendor: Hendi
   Product Type: Durchlauftoaster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/retourify-e-k-hendi-durchlauftoaster-edelstahl-gastrogert-a1b2c3d4.jpg?v=1779370871
-  Price: 249,00 € EUR
+  Price: 299,00 € EUR
 - [WFY Kirana Comfort Yoga Matte 4mm Neuware | Retourify](https://www.retourify.de/products/wfy-korans-comfort-yoga-matte-4mm-183-x-61-cm-neuware): WFY Kirana Comfort Yoga Matte, 4mm, versch. Farben, 183x61cm, Neuware. Rutschfest & komfortabel.
-  Updated: 2026-10-02T15:10:52Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: WFY
   Product Type: Sport - Fitness
   Availability: Available
@@ -1145,21 +1138,21 @@
     Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/WFY-Yogamatte-schwarz.png?v=1787836677
     Price: 11,95 € EUR
 - [WFX Fitnessmatte Pilates 1,5cm Neuware | Retourify](https://www.retourify.de/products/wfx-matte-dafur-fitness-und-pilates-1-5-cm-183x61-cm-neuware): WFX Matte für Fitness und Pilates, 1,5cm, 183x61cm, Neuware. Idealer Begleiter fürs Training.
-  Updated: 2026-10-02T14:34:08Z
+  Updated: 2026-11-05T19:07:01Z
   Vendor: WFX
   Product Type: Sport - Fitness
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/wfx-fitnessmatte-platesmatte-neu-pink-front.webp?v=1781004815
   Price: 16,95 € EUR
 - [Maxxmee Jump-Ball-Set Outdoor Neuware | Retourify](https://www.retourify.de/products/maxxmee-jump-ball-set-outdor-fun-sportspiel-neuware): Maxxmee Jump-Ball-Set Outdoor Fun Sportspiel, 2-gegen-2, Neuware. Actiongeladener Spielspaß für die Familie.
-  Updated: 2026-10-02T15:10:55Z
+  Updated: 2026-11-05T19:04:05Z
   Vendor: Maxxmee
   Product Type: Freizeit - Spiel und Spaß
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0658/7852/4168/files/maxxmee-jumpball-set--3.webp?v=1782467899
   Price: 19,95 € EUR
 - [#DoYourFitness CoolDown Small Fitness-Handtuch neu kaufen | Retourify](https://www.retourify.de/products/doyourfitness-cooldown-small-fitness-handtuch-42-x-32-cm-aus-mikrofaser-grun-kompakt-und-maschinenwaschbar): Kompaktes Fitness-Handtuch #DoYourFitness CoolDown Small, 42 x 32 cm, Mikrofaser in Grün – saugfähig, schnelltrocknend, Neuware. Jetzt günstig sichern!
-  Updated: 2026-11-04T03:09:48Z
+  Updated: 2026-11-05T18:49:37Z
   Vendor: #DoYourFitness
   Product Type: Sporthandtuch
   Availability: Available
@@ -1170,7 +1163,7 @@
 ## Collections
 
 - [Haushalt Elektro](https://www.retourify.de/collections/haushalt-elektro): Elektro-Retourenware & B-Ware für die Küche und den Haushalt – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-20T11:14:11Z
+  Updated: 2026-11-06T09:18:14Z
   Total Products: 26
 - [Freizeit - Spiel und Spaß](https://www.retourify.de/collections/freizeit): Freizeitartikel und Spielwaren als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T15:04:34Z
@@ -1179,13 +1172,13 @@
   Updated: 2026-11-03T15:18:44Z
   Total Products: 15
 - [_Einrichtung - Bad](https://www.retourify.de/collections/einrichtung-bad): Platzmangel und fehlende Funktionalität im Bad? Mit unserer Einrichtung - Bad kollektion gestaltest Du nachhaltige, preiswerte Bäder mit smarter Raumnutzung. Jetzt bei Retourify!
-  Updated: 2026-10-20T11:14:11Z
+  Updated: 2026-11-06T07:45:22Z
   Total Products: 4
 - [_Fanartikel - Stuff - Merch](https://www.retourify.de/collections/sport-fanartikel-stuff-merch): Fanartikel aus dem Bereich Sport Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:45:37Z
   Total Products: 0
 - [Camping - Outdoor](https://www.retourify.de/collections/camping-outdoor): Camping- und Outdoor-Ausrüstung als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-04T11:14:03Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 15
 - [Heimwerken](https://www.retourify.de/collections/heimwerken-elektro): Heimwerker-Ausrüstung als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T14:16:19Z
@@ -1194,7 +1187,7 @@
   Updated: 2026-08-07T10:10:27Z
   Total Products: 2
 - [Haus und Garten](https://www.retourify.de/collections/haus-garten): Garten- und Haustechnik als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-02T15:04:32Z
+  Updated: 2026-11-10T13:53:51Z
   Total Products: 44
 - [Körperpflege Wellness](https://www.retourify.de/collections/koerperpflege-wellness): Körperpflege- und Wellnessprodukte als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-11-03T12:19:11Z
@@ -1203,13 +1196,13 @@
   Updated: 2026-08-07T09:47:05Z
   Total Products: 0
 - [Das Neueste im Shop...](https://www.retourify.de/collections/das-neueste): Nach nachhaltigen, preisbewussten Lösungen suchst Du? Unsere Kollektion „Das Neueste im Shop...“ bietet geprüfte Retourenware mit hoher Qualität und Design. Entdecke jetzt bei Retourify Deine Bezugsquelle für nachhaltige Schnäppchen!
-  Updated: 2026-11-03T15:18:44Z
+  Updated: 2026-11-06T09:18:14Z
   Total Products: 35
 - [Dekoration und Basteln](https://www.retourify.de/collections/dekoration-basteln): Dekoartikel und Bastelbedarf als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
   Updated: 2026-10-02T15:04:31Z
   Total Products: 11
 - [Hifi - Multimedia](https://www.retourify.de/collections/hifi-multimedia): Hifi- und Multimedia-Technik als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-05T16:27:15Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 18
 - [Gutscheine](https://www.retourify.de/collections/gutscheine): Machen Sie Anderen unkompliziert eine Freude... mit einem Gutschein von Retourify! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-09-16T09:07:18Z
@@ -1218,7 +1211,7 @@
   Updated: 2026-10-02T15:04:34Z
   Total Products: 7
 - [Bürogeräte - Büroartikel](https://www.retourify.de/collections/buero): Bürogeräte und Büroartikel als Retourenware & B-Ware – geprüft, transparent bewertet, bis zu 70% günstiger. Jetzt Sonderposten sichern.
-  Updated: 2026-10-12T11:20:26Z
+  Updated: 2026-11-05T20:13:25Z
   Total Products: 12
 - [_Gaming](https://www.retourify.de/collections/gaming): Frustriert von hohen Kosten und schneller Technikveraltung? Mit unserer Gaming-Kollektion findest Du nachhaltige, preiswerte Gaming-Alternativen. Jetzt bei Retourify sichern!
   Updated: 2026-08-27T11:21:44Z
@@ -1245,7 +1238,7 @@
   Updated: 2026-10-04T11:14:03Z
   Total Products: 21
 - [_Alle Artikel aus Freizeit, Spiel und Sport](https://www.retourify.de/collections/freizeit-spielwaren): Alles aus unseren Bereichen Spiel, Spaß und Freizeit für die ganze Familie! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-03T12:19:11Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 33
 - [_Alle Artikel aus Technik](https://www.retourify.de/collections/technik): Drucker, Gaming Zubehör, Multimedia bunt gemischt. Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-10-02T15:04:32Z
@@ -1254,7 +1247,7 @@
   Updated: 2026-10-22T11:18:49Z
   Total Products: 1
 - [_Alle Artikel aus Wohnen](https://www.retourify.de/collections/wohnen): Alles für ein gemütliches Zuhause... innen und außen! Wählen Sie an der Seite einfach Ihre Favoriten aus! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-10-19T07:15:53Z
+  Updated: 2026-11-10T13:53:51Z
   Total Products: 11
 - [_Alle Artikel aus Saisonales](https://www.retourify.de/collections/alle-artikel-aus-saisonales): Alles für Ihre schönste Jahreszeit! Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-08-07T09:41:14Z
@@ -1389,7 +1382,7 @@
   Updated: 2026-08-07T09:45:37Z
   Total Products: 0
 - [_Rasenpflege](https://www.retourify.de/collections/rasenmaher): Probleme mit ungleichmäßigem Rasen? Mit unseren Rasenmähern und Vertikutierern aus geprüfter B-Ware pflegst Du effektiv und sparst dabei bares Geld. Nur bei Retourify!
-  Updated: 2026-09-25T10:37:34Z
+  Updated: 2026-11-10T13:53:51Z
   Total Products: 4
 - [Auctions](https://www.retourify.de/collections/auction-today): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
   Updated: 2026-09-16T09:07:19Z
@@ -1494,7 +1487,7 @@
   Updated: 2026-09-16T09:07:19Z
   Total Products: 8
 - [Mysterysets / Mischsets](https://www.retourify.de/collections/mysterysets-mischsets): Überraschungen beim Kauf von Mysterysets / Mischsets. Entdecke nachhaltige Retouren- und B-Ware zu günstigen Preisen und spare deutlich. Jetzt mit 50 % Rabatt. Retourify – DIE Bezugsquelle für Retourenware.
-  Updated: 2026-09-16T09:07:20Z
+  Updated: 2026-11-10T12:14:05Z
   Total Products: 6
 - [Mysterysets Freizeit](https://www.retourify.de/collections/mysterysets-freizeit): Überraschungseffekte bei unseren Mysterysets Freizeit. Spare deutlich bei nachhaltigen B-Ware Freizeitartikeln, während Du variantenreiche Angebote genießt. Jetzt mit 50 % Rabatt sichern. Retourify – Deine Bezugsquelle für Retourenware und Sonderposten.
   Updated: 2026-09-16T09:07:20Z
@@ -1518,13 +1511,13 @@
   Updated: 2026-10-04T11:14:03Z
   Total Products: 9
 - [_Preisupdates - täglich aktualisiert](https://www.retourify.de/collections/preisupdates-taglich-aktualisiert): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-03T15:18:44Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 230
 - [Optionize Add-ons](https://www.retourify.de/collections/optionize-add-ons): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-03T15:18:44Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 244
 - [All products](https://www.retourify.de/collections/all): Artikel bei Retourify | Schnelle Lieferung | Attraktive Bundles | Geprüfte B Ware und Retourenware | Versandkostenfrei schon ab 49 Euro! | Retourify
-  Updated: 2026-11-03T15:18:44Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 269
 - [_Weihnachtsdeko - Fertigsets](https://www.retourify.de/collections/weihnachten-fertigsets): Weihnachtsdeko stressfrei gestalten mit unseren Weihnachtsdeko - Fertigsets. Schnell und nachhaltig dekorieren, dabei Geld sparen. Jetzt bei Retourify bestellen!
   Updated: 2026-10-21T15:17:39Z
@@ -1533,7 +1526,7 @@
   Updated: 2026-09-16T09:07:20Z
   Total Products: 1
 - [AVADA - Best Sellers](https://www.retourify.de/collections/avada-best-sellers)
-  Updated: 2026-11-03T15:18:44Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 244
 - [Schnapper 5,- bis 10,- Euro](https://www.retourify.de/collections/schnapper-bis-10-euro): Hochwertige Retouren und geprüfte B-Ware zum Sparpreis in unserer Schnapper 5,- bis 10,- Euro. Top-Qualität ohne Kompromisse. Jetzt nachhaltige Deals sichern bei Retourify!
   Updated: 2026-11-03T12:19:11Z
@@ -1542,20 +1535,20 @@
   Updated: 2026-10-21T15:17:54Z
   Total Products: 68
 - [Gastro- und Profi-Highlights](https://www.retourify.de/collections/gastro-und-profi-highlights)
-  Updated: 2026-09-16T09:07:20Z
+  Updated: 2026-11-06T09:18:14Z
   Total Products: 2
 - [_Moderne Saugroboter und Smarthome Lösungen](https://www.retourify.de/collections/moderne-saugroboter-und-smarthome-losungen)
   Updated: 2026-08-07T09:41:26Z
   Total Products: 5
 - [Bereit für den Sommer: Garten, Freizeit & Urlaubs-Deals!](https://www.retourify.de/collections/bereit-fur-den-sommer-garten-freizeit-urlaubs-deals)
-  Updated: 2026-10-04T11:14:03Z
+  Updated: 2026-11-12T18:56:18Z
   Total Products: 31
 - [Aktionsangebote - Versandkostenfrei!](https://www.retourify.de/collections/aktionsangebote-versandkostenfrei): Versandkostenfreie Aktionsangebote – Smarte Deals ohne Extrakosten! Willkommen in unserer Schnäppchen-Ecke für clevere Entscheider!
-  Updated: 2026-10-02T14:35:01Z
+  Updated: 2026-11-10T13:48:05Z
   Total Products: 11
 - [B-Ware](https://www.retourify.de/collections/b-ware): Geprüfte B-Ware und Sonderposten stark reduziert – deutlich günstiger als Neuware, mit klarer Zustandsbeschreibung. Jetzt bei Retourify entdecken.
-  Updated: 2026-10-22T11:18:49Z
-  Total Products: 32
+  Updated: 2026-11-06T09:18:14Z
+  Total Products: 33
 - [Gebrauchtware und C-Ware](https://www.retourify.de/collections/gebrauchtware-und-c-ware): Stark reduzierte Gebrauchtware & C-Ware bei Retourify. Ehrlich beschriebene Mängel, geprüfte Funktion & maximale Ersparnis. Jetzt nachhaltig sparen!
   Updated: 2026-09-30T05:28:15Z
   Total Products: 13
@@ -1711,13 +1704,13 @@
 ## Policies
 
 - [Privacy Policy](https://www.retourify.de/policies/privacy-policy)
-  Updated: 2026-11-04T03:18:28Z
+  Updated: 2026-11-12T21:44:55Z
 - [Shipping Policy](https://www.retourify.de/policies/shipping-policy)
   Updated: 2026-09-15T15:32:45Z
 - [Refund Policy](https://www.retourify.de/policies/refund-policy)
-  Updated: 2026-10-29T12:01:20Z
+  Updated: 2026-11-12T21:48:03Z
 - [Terms of Service](https://www.retourify.de/policies/terms-of-service)
-  Updated: 2026-11-03T03:19:59Z
+  Updated: 2026-11-12T21:41:58Z
 - [Contact Information](https://www.retourify.de/policies/contact-information)
   Updated: 2023-05-05T13:40:01Z
 
