@@ -6,12 +6,12 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-05-17T15:18:22Z
 - Contact Email: bliss108love@gmail.com
-- Updated At: 2026-11-06T01:00:32.030Z
+- Updated At: 2026-11-13T01:01:13.780Z
 
 ## Products
 
 - [A19 Circadian Light Bulb | Low Blue Light LED](https://kindlights.co/products/a19-circadian-light-bulb): Shop the Kind Lights A19 Circadian Light Bulb, a dimmable low blue light LED designed for comfortable day-to-night lighting and natural light rhythms
-  Updated: 2026-10-16T04:42:40Z
+  Updated: 2026-11-13T00:42:26Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -26,28 +26,28 @@
     Availability: Available
     Price: $250.00 USD
 - [E12 Circadian Light Bulb | Full Spectrum E12 LED](https://kindlights.co/products/e12-circadian-light-bulb): Shop the Kind Lights E12 Circadian Light Bulb for intentional day-to-night lighting. This E12 LED bulb offers three BioModes for bright daytime and warm evening light.
-  Updated: 2026-10-14T14:37:28Z
+  Updated: 2026-11-13T00:42:26Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/E12CircadianLightBulb.png?v=1784011111
   Price: $35.00 USD
 - [BR30 Circadian Light Bulb | Full-Spectrum LED](https://kindlights.co/products/br30-circadian-floodlight): Shop the Kind Lights BR30 Circadian Light Bulb for bright daytime, balanced daytime, and warm evening lighting with three BioModes in one versatile floodlight.
-  Updated: 2026-10-14T15:53:27Z
+  Updated: 2026-11-13T00:42:26Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/BR30CircadianFloodlight.png?v=1784011252
   Price: $49.00 USD
 - [Circadian Retrofit Recessed | Full Spectrum Lighting](https://kindlights.co/products/circadian-retrofit-recessed): Upgrade compatible recessed fixtures with the Kind Lights Circadian Retrofit Recessed Light. Enjoy three BioModes for bright daytime and warm evening lighting.
-  Updated: 2026-10-14T16:41:15Z
+  Updated: 2026-11-13T00:42:26Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1006/0034/8953/files/CircadianRetrofitRecessed.png?v=1784011401
   Price: $49.00 USD
 - [Amber Night Light | Warm Amber Light for Evening](https://kindlights.co/products/amber-night-light): Create a warmer nighttime environment with the Kind Lights Amber Night Light. Discover warm amber light designed for relaxing evening spaces and nighttime routines.
-  Updated: 2026-10-14T16:27:45Z
+  Updated: 2026-11-13T00:42:26Z
   Vendor: KIND Lights
   Product Type: 
   Availability: Available
@@ -103,6 +103,15 @@
   - [Nighttime Bathroom Lighting: Best Light for Late-Night Visits](https://kindlights.co/blogs/circadian-home/nighttime-bathroom-lighting): Nighttime Bathroom Lighting: Best Light for Late-Night Visits
     Updated: 2026-10-26T07:17:56Z
     Author: Kip A
+  - [The Complete Guide to Morning Light and Circadian Rhythm](https://kindlights.co/blogs/circadian-home/the-complete-guide-to-morning-light-and-circadian-rhythm)
+    Updated: 2026-11-09T15:37:04Z
+    Author: Kip A
+  - [Home Office Lighting: Create the Perfect Setup | KIND Lights](https://kindlights.co/blogs/circadian-home/the-ultimate-home-office-lighting-guide-for-zoom-calls-eye-comfort): Home Office Lighting: Create the Perfect Setup | KIND Lights
+    Updated: 2026-11-09T14:49:22Z
+    Author: Kip A
+  - [Lighting for Afternoon Fatigue: Beat the 3 PM Slump](https://kindlights.co/blogs/circadian-home/lighting-for-afternoon-fatigue-how-to-beat-the-3-pm-slump): Lighting for Afternoon Fatigue: Beat the 3 PM Slump
+    Updated: 2026-11-09T15:27:58Z
+    Author: Kip A
 - [Science](https://kindlights.co/blogs/science)
   - [How Circadian Lighting Works: Light & Your Body Clock](https://kindlights.co/blogs/science/how-circadian-lighting-works-for-better-daily-rhythms): How Circadian Lighting Works: Light & Your Body Clock
     Updated: 2026-09-24T13:25:07Z
@@ -127,6 +136,15 @@
     Author: Kip A
   - [Blue Light and Melatonin: How Blue Light Affects Sleep](https://kindlights.co/blogs/science/blue-light-and-melatonin-how-it-affects-sleep): Blue Light and Melatonin: How Blue Light Affects Sleep
     Updated: 2026-10-26T06:40:28Z
+    Author: Kip A
+  - [The Complete Guide to Light, Energy & Alertness | Kind Lights](https://kindlights.co/blogs/science/the-complete-guide-to-light-energy-alertness): The Complete Guide to Light, Energy & Alertness | Kind Lights
+    Updated: 2026-11-09T15:36:44Z
+    Author: Kip A
+  - [Do Sunrise Alarm Clocks Really Work?](https://kindlights.co/blogs/science/do-sunrise-alarm-clocks-really-work)
+    Updated: 2026-11-09T15:31:27Z
+    Author: Kip A
+  - [Morning Light vs Sunrise Alarm Clocks: Which Is Better?](https://kindlights.co/blogs/science/morning-light-vs-sunrise-alarm-clocks-which-is-better-for-waking-up): Morning Light vs Sunrise Alarm Clocks: Which Is Better?
+    Updated: 2026-11-09T15:35:45Z
     Author: Kip A
 - [Compare](https://kindlights.co/blogs/compare)
   - [CRI & LED Flicker Explained: How to Choose Better Lighting](https://kindlights.co/blogs/compare/cri-led-flicker-lighting-guide): CRI & LED Flicker Explained: How to Choose Better Lighting
