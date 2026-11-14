@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-01-25T22:21:10Z
 - Contact Email: info@sipcloudcafe.com
-- Updated At: 2026-11-07T00:21:01.615Z
+- Updated At: 2026-11-14T00:21:27.207Z
 
 ## Products
 
@@ -39,7 +39,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Otto_Strawberry_Matcha.png?v=1783719033
   Price: $18.00 USD
 - [Ceramic Chunk Mug - Sandstone](https://cloudcafe.co/products/ceramic-chunk-mug-sandstone): Breeze through AM rituals with Clöud Café. Make healthy habits effortless, easy, and aesthetic. Sip your fave beverages in Clöud Café’s ceramic chunky mug that preserves the perfect temp down ‘til the last sip. Heat-Saving & Durable For Hot & Cold *Mug comes by itself and does not include coffee or other accessories shown in photos.Do not microwave this mug. Hand washing is recommended to preserve its quality and finish.
-  Updated: 2026-10-22T18:21:58Z
+  Updated: 2026-11-10T20:40:25Z
   Vendor: Clöud Café
   Product Type: Accessories
   Availability: Available
@@ -162,42 +162,42 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Churro_Royal_Milk_Tea_2_Bundle_revise.png?v=1783966551
   Price: $37.00 USD
 - [Clöud Sampler Set ($12 Value) – Clöud Café](https://cloudcafe.co/products/cloud-cafe-cloud-sampler-set-12-value): Try Cloud Café's bestselling 5-flavor collagen latte sampler. Vanilla, Churro, Matcha, Royal Milk Tea & Black Coffee. Korea crafted with Marine Collagen.
-  Updated: 2026-11-04T22:32:31Z
+  Updated: 2026-11-13T17:11:35Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Cloud_Sampler_Set_1.png?v=1779837521
   Price: $9.95 USD
 - [Strawberry Matcha Latte 10 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/s-matcha-latte-10-pack-collagen-infused): Clöud Café's Strawberry Matcha Collagen Latte is a premium Korean Jeju Matcha blend infused with Marine Collagen, Vitamin C, and Probiotics. This creamy, Lactose-Free instant latte mix delivers beauty and wellness in every delicious sip. Just add water or milk! Enjoy this café-quality latte hot, iced, or customize your way. Specialty-Grade Premium Korean Jeju Matcha 1,000 mg Marine Collagen in each sachet Includes 10 Sachets Lactose-Free, Gluten-Free Caffeine Content: 17 mg per sachet Dissolves quickly in hot water! Or, dissolve in cold or room temperature water using a frother
-  Updated: 2026-11-06T18:01:53Z
+  Updated: 2026-11-13T20:26:02Z
   Vendor: Clöud Café
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/StrawberryMatcha10pcoldpackagingwithDrink.jpg?v=1782858780
   Price: $20.00 USD
 - [Strawberry Milk Zero 10 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/strawberry-milk-zero-10-pack-collagen-infused): Zero sugar strawberry milk with marine collagen, vitamin D & C. Supports immunity, bone health & skin glow. Caffeine-free, gluten-free. 1,000mg collagen. 10 sachets.
-  Updated: 2026-11-06T07:46:55Z
+  Updated: 2026-11-13T19:06:32Z
   Vendor: Clöud Café
   Product Type: Caffeine Free
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/cloudcafe_StrawberryProduct-0006.jpg?v=1753808011
   Price: $20.00 USD
 - [Hot Choco Zero (Collagen-Infused)  – Clöud Café](https://cloudcafe.co/products/cloud-cafe-hot-choco-zero-collagen-infused): Premium zero-sugar chocolate infused with Zinc, Multivitamins, and Marine Collagen for radiant skin and wellness—enjoy hot or iced, customizable to your taste.
-  Updated: 2026-11-04T22:17:26Z
+  Updated: 2026-11-13T18:43:48Z
   Vendor: Clöud Café
   Product Type: Hot Choco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/HotChoco10pcDrink.jpg?v=1782028708
   Price: $20.00 USD
 - [Ceramic Chunk Mug - Strawberry Cream](https://cloudcafe.co/products/chunk-mug-strawberry-cream): Breeze through AM rituals with Clöud Café. Make healthy habits effortless, easy, and aesthetic. Sip your fave beverages in Clöud Café’s ceramic chunky mug that preserves the perfect temp down ‘til the last sip. Heat-Saving & Durable For Hot & Cold *Mug comes by itself and does not include coffee or other accessories shown in photos. Do not microwave this mug. Hand washing is recommended to preserve its quality and finish.
-  Updated: 2026-10-19T21:47:50Z
+  Updated: 2026-11-08T02:25:25Z
   Vendor: Clöud Café
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Strawberry_Cream.jpg?v=1783720449
   Price: $16.00 USD
 - [Deco Stickers - Croissant Date – Clöud Café](https://cloudcafe.co/products/deco-stickers-croissant-date): Personalize your phone, tumbler, journal & more with aesthetic stickers inspired by sweet days, croissants & cozy moments. Perfect for notebooks, scrapbooking, & water bottles.
-  Updated: 2026-10-23T16:28:06Z
+  Updated: 2026-11-10T20:09:58Z
   Vendor: Clöud Café
   Product Type: Accessories
   Availability: Available
@@ -218,14 +218,14 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Cup_of_Otto_Lifestyle.png?v=1783719193
   Price: $18.00 USD
 - [Moomin Waffle Cone Latte – Clöud Café](https://cloudcafe.co/products/moomin-waffle-cone-latte): Enjoy a cozy boost with MOOMIN Waffle Cone Latte – a rich, creamy coffee blend with caramelized flavor and a hint of vanilla. Gluten-free, easy to make, and includes 7 sachets. Just add water – hot or cold!
-  Updated: 2026-11-05T23:29:57Z
+  Updated: 2026-11-13T16:43:46Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/MoominWaffleConeLatteDrink.jpg?v=1782028486
   Price: $12.00 USD
 - [Moomin Hot Choco Zero – Clöud Café](https://cloudcafe.co/products/moomin-hot-choco-zero): Indulge in our sugar-free Premium Cocoa – a rich, creamy treat with zero sugar and all the flavor. Loved by kids and adults alike. Gluten-free, includes 7 sachets. Enjoy hot or cold – just add water!
-  Updated: 2026-11-05T21:58:37Z
+  Updated: 2026-11-13T19:50:26Z
   Vendor: Clöud Café
   Product Type: Hot Choco
   Availability: Available
@@ -239,7 +239,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Happy_sunday_mug_front.png?v=1783718439
   Price: $20.00 USD
 - [Deco Stickers - Croissant Date – Clöud Café](https://cloudcafe.co/products/deco-stickers-croissant-date-copy): Personalize your phone, tumbler, journal & more with aesthetic stickers inspired by sweet days, croissants & cozy moments. Perfect for notebooks, scrapbooking, & water bottles.
-  Updated: 2026-10-23T18:21:26Z
+  Updated: 2026-11-10T20:47:26Z
   Vendor: Clöud Café
   Product Type: Accessories
   Availability: Available
@@ -274,7 +274,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/SnowGlowFINAL.png?v=1761850070
   Price: $34.00 USD
 - [Mini Heart Tote – Hot Choco – Clöud Café](https://cloudcafe.co/products/mini-heart-tote-hot-choco): Carry your essentials in style with our heart-shaped mini canvas tote featuring the Clöud Café embroidered logo. A cute, durable, lightweight bag ideal for errands, coffee runs, and everyday wear.
-  Updated: 2026-11-06T00:36:27Z
+  Updated: 2026-11-12T23:45:06Z
   Vendor: Clöud Café
   Product Type: Bag
   Availability: Available
@@ -295,21 +295,21 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/squareImage-1200x1200_1.jpg?v=1783723338
   Price: $28.00 USD
 - [Signature Heart Tote – Strawberry – Clöud Café](https://cloudcafe.co/products/signature-heart-tote-strawberry): Shop our limited edition strawberry pink Signature Heart Tote with Clöud Café logo. Lightweight, stylish, durable, with zip pocket for daily essentials.
-  Updated: 2026-10-19T21:47:51Z
+  Updated: 2026-11-09T23:24:37Z
   Vendor: Clöud Café
   Product Type: Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Heart_Tote_Strawberry.png?v=1783720251
   Price: $24.00 USD
 - [BT21 Taro Cream Milk – Clöud Café](https://cloudcafe.co/products/cloud-cafe-bt21-taro-cream-milk): Creamy, nutty Taro Cream Milk—your favorite boba shop flavor at home. Sweet, smooth, and easy to make. Just add water, enjoy hot or cold.
-  Updated: 2026-11-06T17:39:56Z
+  Updated: 2026-11-12T08:00:56Z
   Vendor: Clöud Café
   Product Type: Caffeine Free
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/BT21TaroCreamMilkDrink.jpg?v=1782028149
   Price: $12.00 USD
 - [BT21 Matcha Latte – Collagen-Infused Coffee – clöud café](https://cloudcafe.co/products/cloud-cafe-bt21-matcha-latte): Enjoy a premium Korean Jeju Matcha Latte at home. Smooth, creamy, and fragrant—just add water for a café-style tea experience, hot or cold.
-  Updated: 2026-11-06T06:06:37Z
+  Updated: 2026-11-13T21:41:14Z
   Vendor: Clöud Café
   Product Type: Tea
   Availability: Available
@@ -323,7 +323,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/strawberrymatcha7pc_drink.png?v=1782027949
   Price: $14.00 USD
 - [Vanilla Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/vanilla-latte-7-pack-collagen-infused): Vanilla latte with marine collagen, multivitamins & hyaluronic acid. Supports skin health & energy. Lactose-free, gluten-free, 100mg caffeine. 1,000mg collagen. 10 sachets.
-  Updated: 2026-11-02T22:23:46Z
+  Updated: 2026-11-12T08:01:07Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
@@ -337,7 +337,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/StrawberryMilkZero7pcdrink.png?v=1782027718
   Price: $14.00 USD
 - [Matcha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/matcha-latte-7-pack-collagen-infused): Taste the delicate and fragrant notes of Clöud Café Matcha tea that hails all the way from the scenic Jeju Island of South Korea. Sifted into a finely-milled powder that melts into a luscious beauty-boosting beverage and lightly sweetened to perfection.
-  Updated: 2026-11-05T05:09:16Z
+  Updated: 2026-11-09T08:03:17Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
@@ -351,91 +351,91 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/RoyalMilkTeaDrink.png?v=1782027548
   Price: $14.00 USD
 - [Ube Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/ube-latte-7-pack-collagen-infused): Premium Ube Collagen beverage with Glutathione & Vitamin C. Supports radiant skin, detoxification & mental clarity. Caffeine-free, lactose-free, gluten-free.
-  Updated: 2026-11-06T07:46:56Z
+  Updated: 2026-11-13T20:00:08Z
   Vendor: Clöud Café
   Product Type: Caffeine Free
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/ube7pc_drink.png?v=1782027454
   Price: $14.00 USD
 - [Pistachio Matcha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/pistachio-matcha-latte-7-pack-collagen-infused): Pistachio Matcha Latte with Jeju Matcha, Marine Collagen & Probiotics. Supports skin glow & balanced energy. Low caffeine. Lactose-free. Instant mix.
-  Updated: 2026-11-06T17:39:57Z
+  Updated: 2026-11-13T20:00:07Z
   Vendor: Clöud Café
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/pistachiomatcha7pc_drink.png?v=1782027377
   Price: $14.00 USD
 - [Black Coffee 10pc (Collagen-infused) – Clöud Café](https://cloudcafe.co/products/black-coffee-10-pack-collagen-infused): Rely on clöud café's resilient & robust Black Coffee boasting of chocolate notes and silky smoothness. Aromatic, with a touch of sweetness for a refined tasting experience, this caffeinated beverage can help you power through even the most tedious tasks.
-  Updated: 2026-11-04T23:42:26Z
+  Updated: 2026-11-12T08:01:06Z
   Vendor: cloudcafe
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/BlackCoffee_Cup.png?v=1782027264
   Price: $14.00 USD
 - [Hot Choco Zero 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/hot-choco-zero-7-pack-collagen-infused): Premium zero sugar hot chocolate with 1,000mg marine collagen, zinc & multivitamins. Supports immune health & radiant skin. Gluten-free. 7 sachets. Low caffeine.
-  Updated: 2026-11-03T14:14:28Z
+  Updated: 2026-11-12T13:29:32Z
   Vendor: Clöud Café
   Product Type: Hot Choco
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/hot_choco_7pc_drink.jpg?v=1783966269
   Price: $14.00 USD
 - [Royal Milk Tea 10 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/royal-milk-tea-10-pack-collagen-infused): Instant Royal Milk Tea with premium Black Tea, Probiotics & real milk. Bold, smooth flavor, no bitterness. Supports skin health & wellness. Crafted in Korea.
-  Updated: 2026-11-06T05:02:25Z
+  Updated: 2026-11-13T16:18:06Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/MilkTea10pcDrink.png?v=1782027013
   Price: $20.00 USD
 - [Black Coffee 14 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/black-coffee-14-pack-collagen-infused): Instant black coffee with chocolate notes & smooth taste. Clöud Café's premium Korean-crafted coffee mix boosts focus & energy. Just add water. Shop now.
-  Updated: 2026-11-06T17:22:06Z
+  Updated: 2026-11-12T22:56:55Z
   Vendor: cloudcafe
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Coffee_CupLifestyle.png?v=1782026903
   Price: $20.00 USD
 - [Matcha Latte 10 Pack (Collagen-infused) – Clöud Café](https://cloudcafe.co/products/matcha-latte-10-pack-collagen-infused): Jeju Matcha Latte with Marine Collagen, Chaga Mushroom, & Vitamin E for clear skin. Low caffeine (36 mg). Lactose-free, gluten-free. Premium Korean blend. 10-pack.
-  Updated: 2026-11-06T18:01:52Z
+  Updated: 2026-11-13T23:08:57Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/MatchaVOGUEFeature.png?v=1781908250
   Price: $20.00 USD
 - [Vanilla Latte 10 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/vanilla-latte-10pc-collagen-infused): Premium café-quality Vanilla Latte with Marine Collagen, Hyaluronic Acid & Multivitamins. Supports skin health & energy. Lactose-free, gluten-free. 10 sachets.
-  Updated: 2026-11-06T19:49:57Z
+  Updated: 2026-11-13T20:26:06Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/VanillaLatteDrink.png?v=1782026799
   Price: $20.00 USD
 - [Churro Latte 10 Pack (Collagen-Infused)](https://cloudcafe.co/products/churro-latte-10pc-collagen-infused): Roasted to reach the perfect balance of body & acidity, our Churro Latte delivers a caffeinated kick that keeps you going. Spunky cinnamon blending with real sugar & milk, as well as the added benefit of Vitamin B12, this wellness-boosting beverage just makes you feel good. Keep your glass more than half-full.
-  Updated: 2026-11-06T19:49:56Z
+  Updated: 2026-11-13T16:43:46Z
   Vendor: cloudcafe
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Churro_10pc_Drink.png?v=1782026708
   Price: $20.00 USD
 - [New Flavor Sampler Set ($12 Value) – Clöud Café](https://cloudcafe.co/products/new-flavor-sampler-set-12-value): Try Cloud Café's new 5-flavor collagen latte sampler. Strawberry Matcha, Pistachio Matcha, Strawberry Milk Zero, Hot Chocolate Zero & Ube Latte. Made in Korea.
-  Updated: 2026-11-05T22:47:06Z
+  Updated: 2026-11-13T00:09:26Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/NewFlavorSamplerPack_1.png?v=1779830070
   Price: $9.95 USD
 - [Complete Collagen Collection ($188 Value) – Clöud Café](https://cloudcafe.co/products/complete-collagen-collection-188-value): Try Cloud Café’s Complete Collagen Collection with 10 café-inspired flavors. Includes Vanilla Latte, Black Coffee, Churro Latte, Matcha Latte, Royal Milk Tea, Strawberry Matcha, Pistachio Matcha, Strawberry Milk Zero, Hot Chocolate Zero & Ube Latte. Made in Korea.
-  Updated: 2026-11-06T06:27:57Z
+  Updated: 2026-11-10T22:21:27Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/CompleteCollagenCollection.png?v=1779829913
   Price: $165.00 USD
 - [Matcha Lovers Bundle ($54 Value)](https://cloudcafe.co/products/matcha-lovers-bundle-54-value): Try Cloud Café’s Matcha Lovers Bundle featuring 3 café-inspired favorites: Strawberry Matcha, Matcha Latte, and Pistachio Matcha. Crafted with Marine Collagen and functional wellness ingredients. Made in Korea.
-  Updated: 2026-11-06T00:47:10Z
+  Updated: 2026-11-12T23:40:56Z
   Vendor: Clöud Café
   Product Type: Coffee
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Matcha_Lovers_Bundle2.jpg?v=1783966133
   Price: $49.00 USD
 - [Matcha Keychain – Clöud Café](https://cloudcafe.co/products/matcha-keychain): Meet the cutest iced matcha keychain 🍵 A realistic matcha latte keychain with floating ice cubes that move with every shake. The perfect bag charm and gift for matcha lovers. ✓ Decorate your keys, tote, purse✓ Realistic shaker keychain with matcha-like liquid & floating ice cubes✓ Keyring & lobster clasp attachment
-  Updated: 2026-11-05T16:45:16Z
+  Updated: 2026-11-11T19:16:57Z
   Vendor: Clöud Café
   Product Type: 
   Availability: Available
@@ -477,7 +477,7 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/sachet-set.jpg?v=1786047823
   Price: $5.00 USD
 - [BT21 Taro Cream Milk – Clöud Café](https://cloudcafe.co/products/cloud-cafe-bt21-taro-cream-milk-7-pack): Creamy, nutty Taro Cream Milk—your favorite boba shop flavor at home. Sweet, smooth, and easy to make. Just add water, enjoy hot or cold.
-  Updated: 2026-11-05T00:54:23Z
+  Updated: 2026-11-09T15:06:36Z
   Vendor: Clöud Café
   Product Type: Caffeine Free
   Availability: Available
@@ -498,128 +498,128 @@
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/GUEST_79d6bdc4-0fc9-4468-9fdb-84a8a3487f59.jpg?v=1790870865
   Price: $18.00 USD
 - [White Choco Matcha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/white-choco-matcha-latte-7-pack-collagen-infused): Shop Clöud Café White Chocolate Matcha Latte: Korean Matcha with Marine Collagen, Glutathione & Vitamin C. Creamy, antioxidant rich, enjoy hot or iced.
-  Updated: 2026-11-06T00:15:05Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/whitechcoo7pclifestyleimage.png?v=1793374440
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/WhiteChocoMatcha.png?v=1794520051
   Price: $14.00 USD
 - [Caramel Matcha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/caramel-matcha-latte-7-pack-collagen-infused-copy): Shop Clöud Café Caramel Matcha Latte: Korean Jeju Matcha with Marine Collagen, L-Theanine & Lion’s Mane. Creamy, café style, enjoy hot or iced.
-  Updated: 2026-11-06T00:21:36Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/CaramelMatchaLatte7pclifestyleimage.jpg?v=1793374573
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/CaramelMatcha.png?v=1794520006
   Price: $14.00 USD
 - [Banana Matcha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/banana-matcha-latte-7-pack-collagen-infused): Clöud Café Banana Matcha Latte blends Korean Matcha with Marine Collagen, Zinc & Vitamin D for radiance and steady energy. Enjoy hot or iced.
-  Updated: 2026-11-06T07:46:56Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/BananamatchaLatte7pclifestyleimage.jpg?v=1793374994
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/BananaMatcha_2.png?v=1794519970
   Price: $14.00 USD
 - [Hojicha Latte 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/hojicha-latte-7-pack-collagen-infused): Creamy Hojicha Latte made with toasty roasted Korean Green Tea, Marine Collagen, Probiotics & Fiber. Enjoy hot or iced. Shop Clöud Café.
-  Updated: 2026-11-06T02:04:16Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Hojichalatte7pclifestyleimage_08c8f384-f254-4ffb-a824-c79c404e45e6.jpg?v=1793375458
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/Hojicha.png?v=1794519887
   Price: $14.00 USD
 - [Jasmine Milk Tea Zero 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/jasmine-milk-tea-zero-7-pack-collagen-infused): Zero sugar Jasmine Milk Tea with a fragrant, creamy finish and 1,000 mg Marine Collagen, Zinc & Vitamin D. Lactose free. Hot or iced. Shop now.
-  Updated: 2026-11-06T00:36:27Z
+  Updated: 2026-11-13T22:47:13Z
   Vendor: cloudcafe
   Product Type: Tea
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/JasmineMilkTeaBoxandDrink.png?v=1793375650
   Price: $14.00 USD
 - [Strawberry Blonde Latte (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/strawberry-blonde-latte-7-pack-collagen-infused-copy): Shop Clöud Café Strawberry Latte: strawberry infused collagen coffee with Marine Collagen, Vitamin C & Glutathione. Creamy and sweet, enjoy hot or iced.
-  Updated: 2026-11-06T00:15:05Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/StrawberryBloneLatte7pclifestyleimage.jpg?v=1793376076
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/StrawberryBlonde.png?v=1794519788
   Price: $14.00 USD
 - [Toasted Vanilla Latte Zero 7 Pack (Collagen-Infused) – Clöud Café](https://cloudcafe.co/products/toasted-vanilla-latte-zero-7-pack-collagen-infused): Zero sugar Vanilla Latte with toasty, comforting sweetness plus Marine Collagen, L-Theanine & Lion’s Mane. Sip well, feel your best. Shop Clöud Café.
-  Updated: 2026-11-05T21:54:06Z
+  Updated: 2026-11-13T22:47:16Z
   Vendor: cloudcafe
   Product Type: Coffee
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/toastedvanillazero7pclifestyleimage.png?v=1793376523
+  Image: https://cdn.shopify.com/s/files/1/0855/7425/4896/files/ToastedVanillaZero.png?v=1794519469
   Price: $14.00 USD
 
 ## Collections
 
 - [HOME PAGE](https://cloudcafe.co/collections/frontpage)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 35
 - [NEW ARRIVALS](https://cloudcafe.co/collections/new-arrivals): NEW ARRIVALS
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 14
 - [GOODS](https://cloudcafe.co/collections/goods)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 53
 - [MERCH](https://cloudcafe.co/collections/merch): MERCH
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-12T12:14:30Z
   Total Products: 28
 - [TESTING](https://cloudcafe.co/collections/testing): TESTING
   Updated: 2026-07-09T16:04:42Z
   Total Products: 5
 - [TEA](https://cloudcafe.co/collections/tea)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 19
 - [COFFEE](https://cloudcafe.co/collections/coffee)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 16
 - [SHOP ALL](https://cloudcafe.co/collections/shop-all)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 132
 - [TOJI Moon Goo](https://cloudcafe.co/collections/toji-moon-goo)
   Updated: 2026-10-09T11:17:33Z
   Total Products: 20
 - [Clöud Café](https://cloudcafe.co/collections/cloud-cafe)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 139
 - [Bundles](https://cloudcafe.co/collections/bundles)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 48
 - [SAMPLERS](https://cloudcafe.co/collections/sampler-sets)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 9
 - [BT21](https://cloudcafe.co/collections/bt21)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 6
 - [MOOMIN](https://cloudcafe.co/collections/moomin)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 5
 - [BEST SELLERS](https://cloudcafe.co/collections/best-sellers-1)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 10
 - [OTHER BEVERAGES](https://cloudcafe.co/collections/other-beverages)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 13
 - [BUY ONE, GET ONE FREE](https://cloudcafe.co/collections/bogo-free)
   Updated: 2026-07-09T16:04:43Z
   Total Products: 5
 - [Email Feed – Featured 3](https://cloudcafe.co/collections/email-feed-featured-3)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 3
 - [MATCHA](https://cloudcafe.co/collections/matcha)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 19
 - [Clöud Café Latte & Tea Packs](https://cloudcafe.co/collections/latte-packs)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 24
 - [MUGS & TUMBLERS](https://cloudcafe.co/collections/mugs-tumblers)
-  Updated: 2026-10-23T11:17:52Z
+  Updated: 2026-11-11T12:15:28Z
   Total Products: 7
 - [STICKERS](https://cloudcafe.co/collections/stickers)
-  Updated: 2026-10-24T11:16:38Z
+  Updated: 2026-11-11T12:15:28Z
   Total Products: 6
 - [KEYCHAINS](https://cloudcafe.co/collections/keychains)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-12T12:14:30Z
   Total Products: 12
 - [TOTE BAGS](https://cloudcafe.co/collections/tote-bags)
-  Updated: 2026-11-06T12:17:00Z
+  Updated: 2026-11-13T12:15:14Z
   Total Products: 6
 
 ## Blogs
