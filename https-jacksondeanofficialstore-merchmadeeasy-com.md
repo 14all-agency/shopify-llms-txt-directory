@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2022-06-10T19:18:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:14:01.123Z
+- Updated At: 2026-11-14T01:17:00.658Z
 
 ## Products
 
 - [Rearview Mirror Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/rearview-mirror-tee): Jackson Dean rearview mirror tee in white Unisex fit 100% Cotton
-  Updated: 2026-10-29T15:42:50Z
+  Updated: 2026-11-12T20:36:23Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -32,7 +32,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Moon Sweatshirt](https://jacksondeanofficialstore.merchmadeeasy.com/products/ladies-moon-tee): Jackson Dean moon sweatshirt in grey Unisex fit 100% Cotton
-  Updated: 2026-10-29T15:42:50Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -53,14 +53,14 @@
     Availability: Available
     Price: $55.00 USD
 - [Antler Koozie - Black](https://jacksondeanofficialstore.merchmadeeasy.com/products/antler-koozie): Jackson Dean antler koozie in black 12 oz koozie
-  Updated: 2026-10-29T15:42:51Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/blackantlerkoozie.png?v=1693244998
   Price: $6.00 USD
 - [Moon Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/copy-of-rearview-mirror-tee): Jackson Dean moon tee Unisex fit 100% Cotton
-  Updated: 2026-11-05T02:33:41Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -81,7 +81,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Train Car Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/train-car-tee): Jackson Dean Train Car Tee in brown Unisex fit 100% Cotton
-  Updated: 2026-10-29T15:42:51Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -102,7 +102,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Photo Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/photo-tee): Jackson Dean Photo Tee-- order the new tee now! Unisex fit 100% Cotton
-  Updated: 2026-10-29T15:42:52Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -123,21 +123,21 @@
     Availability: Not Available
     Price: $35.00 USD
 - [On The Back Of My Dreams - 2LP](https://jacksondeanofficialstore.merchmadeeasy.com/products/on-the-back-of-my-dreams-mystic-smoke-vinyl-2lp): Jackson Dean's album On The Back Of My Dreams now available on mystic smoke 2LP!
-  Updated: 2026-10-09T16:35:36Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean Official Store
   Product Type: Double Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/BackofMyDreams2LP.png?v=1722618350
   Price: $29.98 USD
 - [On The Back Of My Dreams - CD](https://jacksondeanofficialstore.merchmadeeasy.com/products/on-the-back-of-my-dreams-jewelcase-cd): Jackson Dean's album On The Back Of My Dreams now available on CD! Release Date: September 6, 2024
-  Updated: 2026-10-30T02:24:06Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean Official Store
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/JD-ON-THE-BACK-OF-MY-DREAMS-CD_45e3f574-13da-4f8f-aa33-7bb155b692ed.png?v=1723217602
   Price: $11.98 USD
 - [Ladies Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/ladies-tee): Jackson Dean Ladies Tee 100% Cotton
-  Updated: 2026-10-29T15:42:52Z
+  Updated: 2026-11-12T20:36:22Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Free Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/free-tee): This tee is an online exclusive Jackson Dean Free Tee in the color brown savana 100% Cotton
-  Updated: 2026-10-29T15:42:52Z
+  Updated: 2026-11-13T02:59:35Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -182,7 +182,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Crow Pocket Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/crow-pocket-tee): Jackson Dean Crow Pocket Tee in Black 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 27 18 M 29 20 L 31 22 XL 32 24 2XL 33 26 3XL 34 28
-  Updated: 2026-10-31T23:12:46Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -206,13 +206,13 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Magnolia Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee): Jackson Dean Magnolia Tee in Charcoal 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-29T15:42:53Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/Magnolia-Tee-Back.png?v=1775157391
   - [S](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee?variant=45133057720354)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [M](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee?variant=45133057753122)
     Availability: Available
@@ -224,20 +224,20 @@
     Availability: Available
     Price: $35.00 USD
   - [2XL](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee?variant=45133057851426)
-    Availability: Available
+    Availability: Not Available
     Price: $35.00 USD
   - [3XL](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-tee?variant=45133061881890)
     Availability: Not Available
     Price: $35.00 USD
 - [LIAR Hat](https://jacksondeanofficialstore.merchmadeeasy.com/products/liar-hat): Two-toned embroidered LIAR hat in Natural/Brown Jackson Dean embroidered on the back Snapback closure
-  Updated: 2026-11-02T18:34:23Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/LIAR-Hat.png?v=1775157581
   Price: $45.00 USD
 - [Coyote Tee](https://jacksondeanofficialstore.merchmadeeasy.com/products/coyote-tee): Jackson Dean Coyote Tee in White 100% Cotton Unisex SIZE CHART Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26
-  Updated: 2026-10-29T15:42:53Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -258,14 +258,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [Magnolia Sage - CD](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-sage-cd): Jackson Dean's new album Magnolia Dreams available on CD Release Date: April 24, 2026
-  Updated: 2026-10-30T02:24:06Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean Official Store
   Product Type: Music CDs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0580/0165/3794/files/JDMAGNOLIASAGECD.png?v=1777041540
   Price: $12.98 USD
 - [Magnolia Women's V-Neck](https://jacksondeanofficialstore.merchmadeeasy.com/products/magnolia-womens-v-neck): Jackson Dean Magnolia Tee in Forest Green 100% Cotton Women's cut
-  Updated: 2026-11-02T18:34:26Z
+  Updated: 2026-11-12T20:36:21Z
   Vendor: Jackson Dean
   Product Type: Apparel & Accessories
   Availability: Available
@@ -289,16 +289,16 @@
 ## Collections
 
 - [Featured](https://jacksondeanofficialstore.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 25
 - [Apparel](https://jacksondeanofficialstore.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 14
 - [Accessories](https://jacksondeanofficialstore.merchmadeeasy.com/collections/accessories)
   Updated: 2026-11-03T12:14:09Z
   Total Products: 7
 - [All](https://jacksondeanofficialstore.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 16
 - [Music](https://jacksondeanofficialstore.merchmadeeasy.com/collections/music)
   Updated: 2026-10-30T11:14:30Z
@@ -307,19 +307,19 @@
   Updated: 2026-10-30T11:14:30Z
   Total Products: 2
 - [New Arrivals](https://jacksondeanofficialstore.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-03T12:14:09Z
+  Updated: 2026-11-12T12:15:51Z
   Total Products: 10
 - [EasyGift All Products](https://jacksondeanofficialstore.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 29
 - [Memorial Day ](https://jacksondeanofficialstore.merchmadeeasy.com/collections/memorial-day-)
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 7
 - [Magnolia Sage](https://jacksondeanofficialstore.merchmadeeasy.com/collections/magnolia-sage-collection)
-  Updated: 2026-11-03T12:14:09Z
+  Updated: 2026-11-12T12:15:51Z
   Total Products: 4
 - [Black Friday ](https://jacksondeanofficialstore.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-05T12:08:52Z
+  Updated: 2026-11-13T12:08:33Z
   Total Products: 13
 
 ## Store Pages
