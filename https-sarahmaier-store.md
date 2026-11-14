@@ -9,7 +9,7 @@
 - Created At: 2020-11-02T16:08:42Z
 - Contact Email: claudiamadaleno@sarahmaier.store
 - Contact Phone: +351913522163
-- Updated At: 2026-11-07T00:37:41.278Z
+- Updated At: 2026-11-14T00:38:47.252Z
 
 ## Products
 
@@ -558,7 +558,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
   Image: https://cdn.shopify.com/s/files/1/0510/3173/6470/files/139A6387.jpg?v=1712083660
   Price: €2,600.00 EUR
 - [AURIGA VERDANT - Green Laminated Leather Caged Mules](https://sarahmaier.store/products/auriga-green-sandals): Handcrafted in Italy using high-shine laminated leather, the Auriga Verdant mules feature a retro cage design and a comfortable block heel. We designed this green slip-on sandal to add a fresh, metallic pop to your wardrobe.
-  Updated: 2026-10-27T00:46:56Z
+  Updated: 2026-11-08T11:28:21Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -618,7 +618,7 @@ An elegant and shophisticated pouch in shiny leather.One buttoned compartment.We
     Availability: Available
     Price: €335.00 EUR
 - [FUCHSIA VIVID - Pink Laminated Leather Mules | Sarah Maier](https://sarahmaier.store/products/fuchsia-sandals): Handcrafted in Italy using high-shine laminated leather, the Fuchsia Vivid mules feature a retro cage design and a comfortable block heel. We designed this vibrant pink sandal to add a joyful pop of color to your summer wardrobe.
-  Updated: 2026-10-18T08:22:51Z
+  Updated: 2026-11-08T11:28:20Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -679,7 +679,7 @@ Sarah Maier's sandals are topped with the label's 'Ʌ' plaque. They've been craf
     Availability: Available
     Price: €335.00 EUR
 - [TIBESTI NEUTRAL - Beige Textured Leather Sandals](https://sarahmaier.store/products/tibesti-neutral-sandals): Handcrafted in Italy from soft textured leather, the Tibesti Neutral sandals feature Sarah Maier's signature 'Ʌ' plaque. We designed these flats for versatile summer elegance and all-day comfort.
-  Updated: 2026-10-18T08:22:51Z
+  Updated: 2026-11-07T01:09:25Z
   Vendor: Sarah Maier
   Product Type: SANDALS
   Availability: Available
@@ -1280,7 +1280,7 @@ Zip fastening along side...
     Availability: Available
     Price: €50.00 EUR
 - [VOLT EMBER - Grey & Orange Leather Sneakers | Sarah Maier](https://sarahmaier.store/products/grey-orange-sneakers-man): Handcrafted in Italy, the Volt Ember sneakers combine premium grey calf leather with a bold orange signature accent. We designed this pair to add a spark of energy to your minimalist wardrobe.
-  Updated: 2026-10-18T08:23:02Z
+  Updated: 2026-11-07T01:09:25Z
   Vendor: Sarah Maier
   Product Type: SNEAKERS MAN
   Availability: Available
