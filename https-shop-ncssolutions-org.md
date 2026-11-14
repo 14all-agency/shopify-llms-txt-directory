@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2021-07-07T19:04:04Z
 - Contact Email: shopify@ncssolutions.org
-- Updated At: 2026-11-07T00:18:53.747Z
+- Updated At: 2026-11-14T00:19:21.833Z
 
 ## Products
 
@@ -96,7 +96,7 @@
   Image: https://cdn.shopify.com/s/files/1/0582/3509/3186/products/ccdesign6.jpg?v=1635171917
   Price: $20.00 USD
 - [Christmas Envelope (Blue)](https://shop.ncssolutions.org/products/christmas-envelope-blue): Celebrate the Christmas season with our beautiful, full color church offering envelopes! Our special bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-11-02T16:06:16Z
+  Updated: 2026-11-09T17:47:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -108,7 +108,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Christmas Envelope (Gold)](https://shop.ncssolutions.org/products/christmas-envelope-gold): Celebrate the Christmas season with our beautiful, full color church offering envelopes! Our special bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-11-06T17:05:46Z
+  Updated: 2026-11-11T17:50:07Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -132,7 +132,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Christmas Flowers Envelope (Premium)](https://shop.ncssolutions.org/products/premium-christmas-flowers-envelope): Celebrate Christmas with our beautiful, full color offering envelopes for your church! Our Christmas Flower envelopes feature an "In Memory Of" line allowing your members to dedicate their contributions.
-  Updated: 2026-10-29T17:56:23Z
+  Updated: 2026-11-09T17:47:55Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -150,7 +150,7 @@
   Availability: Available
   Price: $1.00 USD
 - [Easter Offering Envelope](https://shop.ncssolutions.org/products/easter-envelope-1): Prepare your church for the Easter season with pre-printed Easter offering and tithe envelopes. Our bulk / pew envelopes feature full color with affordable pricing and easy online ordering!
-  Updated: 2026-10-29T17:56:22Z
+  Updated: 2026-11-11T17:50:06Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -222,7 +222,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Advent Offering Envelope](https://shop.ncssolutions.org/products/advent-offering-envelope): Celebrate Advent with pre-printed church offering envelopes! Our bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-10-16T15:55:23Z
+  Updated: 2026-11-11T22:31:18Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -402,7 +402,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Christmas Flowers Offering Envelope (Spanish)](https://shop.ncssolutions.org/products/christmas-flowers-offering-envelope-spanish): Celebrate the Christmas season with our beautiful, full color church offering envelopes! Our special bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-10-16T15:55:23Z
+  Updated: 2026-11-12T00:38:06Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -522,7 +522,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Initial Offering Envelope](https://shop.ncssolutions.org/products/initial-offering-envelope): Help support your envelope program with the Initial Offering envelope for your church. Our bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-09-25T18:12:36Z
+  Updated: 2026-11-09T17:47:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -618,11 +618,11 @@
     Availability: Available
     Price: $28.95 USD
 - [Mother's Day Offering Envelope](https://shop.ncssolutions.org/products/mothers-day-offering-envelope): Celebrate Mother's Day with pre-printed bulk / pew special offering envelopes for your church. Sold in quantities of 100 starting at just $6.95!
-  Updated: 2026-09-25T18:12:35Z
+  Updated: 2026-11-13T09:25:31Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0582/3509/3186/files/NCSSolutionsMothersDayOfferingEnvelope.png?v=1729868587
+  Image: https://cdn.shopify.com/s/files/1/0582/3509/3186/files/NCSMothersDayOfferingEnvelope.png?v=1794430762
   - [100](https://shop.ncssolutions.org/products/mothers-day-offering-envelope?variant=43517818798274)
     Availability: Available
     Price: $6.95 USD
@@ -630,11 +630,11 @@
     Availability: Available
     Price: $28.95 USD
 - [Mother's Day Offering Envelope (Spanish)](https://shop.ncssolutions.org/products/mothers-day-offering-envelope-spanish): Celebrate Mother's Day with pre-printed bulk / pew special offering envelopes for your church. Sold in quantities of 100 starting at just $6.95!
-  Updated: 2026-09-28T14:06:16Z
+  Updated: 2026-11-13T11:04:42Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0582/3509/3186/files/NCSMothersDayOfferingEnvelopeSpanish.png?v=1733848700
+  Image: https://cdn.shopify.com/s/files/1/0582/3509/3186/files/NCSMothersDayEnvelopeSpanish.png?v=1794430936
   - [100](https://shop.ncssolutions.org/products/mothers-day-offering-envelope-spanish?variant=43517819093186)
     Availability: Available
     Price: $6.95 USD
@@ -690,7 +690,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Thanksgiving Offering Envelope (Premium)](https://shop.ncssolutions.org/products/premium-thanksgiving-offering-envelope): Celebrate Thanksgiving with our beautiful, full color offering envelopes for your church!
-  Updated: 2026-09-25T17:33:43Z
+  Updated: 2026-11-09T19:27:12Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -726,7 +726,7 @@
     Availability: Available
     Price: $28.95 USD
 - [St Vincent de Paul Offering Envelope](https://shop.ncssolutions.org/products/st-vincent-de-paul-offering-envelope): Support your St Vincent de Paul collection with special offering envelopes for your church! Our bulk / pew envelopes start at just $6.95 per 100.
-  Updated: 2026-11-05T18:31:46Z
+  Updated: 2026-11-12T22:40:46Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -1454,7 +1454,7 @@
     Availability: Available
     Price: $28.95 USD
 - [New Year's Day Offering Envelope](https://shop.ncssolutions.org/products/new-years-day-offering-envelope): New Year's Day offering envelopes for your church. Our bulk / pew envelopes are pre-printed and start at just $6.95 per 100.
-  Updated: 2026-09-25T17:11:13Z
+  Updated: 2026-11-09T17:47:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -1924,7 +1924,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Food Pantry Offering Envelope](https://shop.ncssolutions.org/products/food-pantry-offering-envelope): Pre-printed Food Pantry special offering envelopes for your church. Sold in quantities of 100, starting at just $6.95!
-  Updated: 2026-09-25T19:01:44Z
+  Updated: 2026-11-07T17:33:16Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2032,7 +2032,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Christmas Flowers Offering Envelope - w/ In Memory Of Lines](https://shop.ncssolutions.org/products/christmas-flowers-offering-envelope-w-in-memory-of-lines): Celebrate the Christmas season with our beautiful, full color church offering envelopes! Our special bulk / pew envelopes start at just $6.95 per 100!
-  Updated: 2026-09-25T16:26:07Z
+  Updated: 2026-11-09T17:47:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2152,7 +2152,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Pastor's Love Offering Envelope](https://shop.ncssolutions.org/products/pastors-love-offering-envelope): Support your Pastor's Love collection with special offering envelopes for your church! Our bulk / pew envelopes start at just $6.95 per 100.
-  Updated: 2026-09-25T15:19:58Z
+  Updated: 2026-11-09T17:47:56Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2176,7 +2176,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Weekly Offering Envelope](https://shop.ncssolutions.org/products/weekly-offering-envelope): Weekly Offering envelopes for your church! Our bulk / pew envelopes start at just $6.95 per 100.
-  Updated: 2026-09-25T15:12:20Z
+  Updated: 2026-11-11T17:50:06Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2200,7 +2200,7 @@
     Availability: Available
     Price: $28.95 USD
 - [Capital Campaign Offering Envelope](https://shop.ncssolutions.org/products/capital-campaign-offering-envelope): Capital Campaign Offering Envelopes for your church! Our bulk / pew envelopes start at just $6.95 per 100.
-  Updated: 2026-09-25T15:09:54Z
+  Updated: 2026-11-09T17:47:55Z
   Vendor: National Church Solutions
   Product Type: 
   Availability: Available
@@ -2459,7 +2459,7 @@
   Updated: 2026-04-15T16:27:32Z
   Total Products: 0
 - [All](https://shop.ncssolutions.org/collections/all)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 245
 - [Communion Cups](https://shop.ncssolutions.org/collections/communion-cups)
   Updated: 2026-07-13T14:58:26Z
@@ -2468,31 +2468,31 @@
   Updated: 2026-08-29T21:12:06Z
   Total Products: 1
 - [Specialty Envelopes](https://shop.ncssolutions.org/collections/specialty-envelopes)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 144
 - [DipJar](https://shop.ncssolutions.org/collections/dipjar)
   Updated: 2026-04-15T16:27:33Z
   Total Products: 5
 - [Christmas Collection](https://shop.ncssolutions.org/collections/christmas)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 44
 - [Push Pay Box Sets](https://shop.ncssolutions.org/collections/push-pay-box-sets)
   Updated: 2026-04-15T16:27:33Z
   Total Products: 3
 - [Spring Collection](https://shop.ncssolutions.org/collections/spring-collection)
-  Updated: 2026-10-30T11:11:49Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 26
 - [OrderlyEmails - Recommended Products](https://shop.ncssolutions.org/collections/orderlyemails-recommended-products): This collection is used by the OrderlyEmails app, to make product recommendations in your notification emails, which automatically update over time. This service is currenty provided for FREE, with any theme purchase. Recommended products shown in your email are automatically updated every 4 hours, to match this collection. By default, your Best- products (that are in stock & not already purchased) will be recommended. You can modify the rules below to change which products are recommended. Products at the top of the list are more likely to be shown. To enable/disable recommendations in your emails, login to the OrderlyEmails app (Shopify Admin -> Apps) and add the "Recommended products" section to an email in the editor. Note: This collection is "hidden", it is not be visible on your website.
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 229
 - [Spanish Collection](https://shop.ncssolutions.org/collections/specialty-envelopes-spanish)
-  Updated: 2026-11-03T12:11:37Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 39
 - [Holy Days](https://shop.ncssolutions.org/collections/holy-days)
-  Updated: 2026-11-03T12:11:37Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 23
 - [Most Popular](https://shop.ncssolutions.org/collections/most-popular)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 25
 - [Church Welcome Packets](https://shop.ncssolutions.org/collections/church-welcome-packets)
   Updated: 2026-08-29T21:12:08Z
@@ -2510,7 +2510,7 @@
   Updated: 2026-08-29T21:12:07Z
   Total Products: 4
 - [Seasonal Envelopes](https://shop.ncssolutions.org/collections/seasonal-envelopes)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 33
 - [Seasonal](https://shop.ncssolutions.org/collections/seasonal)
   Updated: 2026-04-15T16:27:34Z
@@ -2519,7 +2519,7 @@
   Updated: 2026-08-29T21:12:07Z
   Total Products: 12
 - [Easter Collection](https://shop.ncssolutions.org/collections/easter)
-  Updated: 2026-10-30T11:11:49Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 37
 - [Easter Greeting Cards](https://shop.ncssolutions.org/collections/easter-greeting-cards)
   Updated: 2026-04-15T16:27:34Z
@@ -2552,19 +2552,19 @@
   Updated: 2026-10-24T11:12:36Z
   Total Products: 16
 - [Easter Envelopes](https://shop.ncssolutions.org/collections/easter-envelopes)
-  Updated: 2026-10-30T11:11:49Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 24
 - [Field Trips/School Money Envelopes](https://shop.ncssolutions.org/collections/field-trips-school-envelopes): School envelopes are ideal for both teachers and parents! They are used for school money, field trips and notes to the teacher!
   Updated: 2026-08-29T21:12:07Z
   Total Products: 10
 - [New Specialty Envelope Designs](https://shop.ncssolutions.org/collections/new-specialty-envelope-designs)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 111
 - [Christmas Envelopes](https://shop.ncssolutions.org/collections/christmas-envelopes)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 20
 - [Catholic Collection](https://shop.ncssolutions.org/collections/catholic-collection)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 115
 - [Improvement, Building and Energy Needs](https://shop.ncssolutions.org/collections/improvement-building-and-energy-needs)
   Updated: 2026-10-13T18:36:34Z
@@ -2573,7 +2573,7 @@
   Updated: 2026-10-02T11:19:59Z
   Total Products: 4
 - [Favorites](https://shop.ncssolutions.org/collections/favorites)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-13T12:14:38Z
   Total Products: 21
 - [Mother's and Father's Day](https://shop.ncssolutions.org/collections/mothers-and-fathers-day)
   Updated: 2026-08-29T21:12:06Z
@@ -2591,16 +2591,16 @@
   Updated: 2026-10-01T18:29:59Z
   Total Products: 6
 - [Thanksgiving](https://shop.ncssolutions.org/collections/thanksgiving)
-  Updated: 2026-10-30T11:11:49Z
+  Updated: 2026-11-10T12:11:51Z
   Total Products: 5
 - [Spanish Christmas](https://shop.ncssolutions.org/collections/spanish-christmas)
-  Updated: 2026-11-03T12:11:37Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 4
 - [Bilingual Offering Envelopes](https://shop.ncssolutions.org/collections/bilingual-offering-envelopes)
-  Updated: 2026-10-29T15:23:55Z
+  Updated: 2026-11-11T16:38:24Z
   Total Products: 15
 - [Thanksgiving & Christmas Envelopes](https://shop.ncssolutions.org/collections/thanksgiving-christmas-envelopes)
-  Updated: 2026-11-06T12:13:04Z
+  Updated: 2026-11-12T12:13:01Z
   Total Products: 31
 
 ## Store Pages
