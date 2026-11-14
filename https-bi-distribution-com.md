@@ -6,33 +6,33 @@
 - Timezone: America/New_York
 - Created At: 2025-12-12T23:31:41Z
 - Contact Email: sales@jrsgl.ca
-- Updated At: 2026-11-06T23:07:00.765Z
+- Updated At: 2026-11-14T00:15:51.144Z
 
 ## Products
 
 - [Mikrotik CRS418-8P-8G-2S+RM - All-in-One Networking Solution](https://bi-distribution.com/products/crs418-8p-8g-2s-rm): Discover the Mikrotik CRS418-8P-8G-2S+RM, featuring 16 ports, dual 10G uplinks, and a quad-core CPU—your ultimate upgrade for small to medium offices.
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T16:36:06Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/crs418-8p-8g-2s-rm-838.webp?v=1792355976
   Price: $449.00 USD
 - [Mikrotik hEX S 2025 E60iUGS: Performance for Every Space](https://bi-distribution.com/products/hex-s-2025): Explore Mikrotik hEX S 2025 E60iUGS, a compact wired router with advanced features, perfect for homes, offices, or labs seeking affordable reliability.
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T16:36:11Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-s-2025-496.webp?v=1792355972
   Price: $69.00 USD
 - [Mikrotik RB5009UG+S+IN: Heavy-Duty Home Lab Router](https://bi-distribution.com/products/rb5009ug-s-in): Discover Mikrotik RB5009UG+S+IN, featuring USB 3.0, 1G/2.5G Ethernet, and a 10G SFP+ cage. Perfect for powerful home lab setups!
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T16:36:12Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/rb5009ug-s-585.webp?v=1792355962
   Price: $299.00 USD
 - [Mikrotik RB5009UPr+S+IN: High-Performance Heavy-Duty Router](https://bi-distribution.com/products/rb5009upr-s-in): Discover the Mikrotik RB5009UPr+S+IN router, featuring PoE-in/out, 2.5 Gigabit Ethernet, and versatile power options for ISPs.
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T16:36:16Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -53,14 +53,14 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/rb5009upr-s-504.webp?v=1792355921
   Price: $319.00 USD
 - [Mikrotik RB4011iGS+RM: Performance Gigabit Router](https://bi-distribution.com/products/rb4011igs-rm): Experience lightning-fast networking with the Mikrotik RB4011iGS+RM, featuring a Quad-core CPU, 1GB RAM, and 10Gbps SFP+ cage.
-  Updated: 2026-11-05T20:00:43Z
+  Updated: 2026-11-07T16:36:41Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/rb4011igs-rm-571.webp?v=1792355906
   Price: $219.00 USD
 - [Mikrotik L009UiGS-RM: Fast, Versatile, and Efficient Router](https://bi-distribution.com/products/l009uigs-rm): Discover the power of Mikrotik L009UiGS-RM, featuring advanced speed, modern CPU, PoE, and 2.5G SFP support for seamless networking.
-  Updated: 2026-11-05T20:00:43Z
+  Updated: 2026-11-07T16:36:48Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -74,56 +74,56 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-refresh-467.webp?v=1792355900
   Price: $59.95 USD
 - [Mikrotik CCR2216-1G-12XS-2XQ](https://bi-distribution.com/products/ccr2216-1g-12xs-2xq): Discover the Mikrotik CCR2216-1G-12XS-2XQ, a powerful router designed for 100G networking and seamless upgrades from CCR1072 setups.
-  Updated: 2026-11-05T20:00:43Z
+  Updated: 2026-11-07T16:36:55Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/ccr2216-1g-12xs-2xq-963.webp?v=1790540814
   Price: $2,795.00 USD
 - [CCR2116-12G-4S+ Mikrotik - Unleash Next-Level Performance](https://bi-distribution.com/products/ccr2116-12g-4s): Discover the CCR2116-12G-4S+ Mikrotik with a 16-core ARM CPU, offering double the performance and 6x faster BGP. Ideal for powerful networking.
-  Updated: 2026-11-05T20:00:44Z
+  Updated: 2026-11-07T16:37:01Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/ccr2116-12g-4s-307.webp?v=1790540802
   Price: $995.00 USD
 - [Mikrotik hEX Lite RB750r2: Affordable MPLS Router](https://bi-distribution.com/products/hex-lite): Discover the Mikrotik hEX lite RB750r2, a budget-friendly MPLS router with 5x Ethernet ports, 850MHz CPU, and 64MB RAM.
-  Updated: 2026-11-05T20:00:44Z
+  Updated: 2026-11-07T16:37:06Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-lite-855.webp?v=1792355892
   Price: $39.95 USD
 - [Mikrotik hEX RB750Gr3: High-Performance Router](https://bi-distribution.com/products/hex): Discover the Mikrotik hEX RB750Gr3 with 5 Gigabit ports, 880MHz dual-core CPU, and extensive features for reliable networking.
-  Updated: 2026-11-05T20:00:44Z
+  Updated: 2026-11-07T16:37:07Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-951.webp?v=1792355881
   Price: $59.95 USD
 - [Mikrotik hEX PoE lite RB750UPr2](https://bi-distribution.com/products/hex-poe-lite): Discover the Mikrotik hEX PoE lite RB750UPr2 with 5xEthernet, USB, powerful 650MHz CPU, and RouterOS L4 for efficient network management.
-  Updated: 2026-11-05T20:00:44Z
+  Updated: 2026-11-07T16:37:11Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-poe-lite-937.webp?v=1792355876
   Price: $59.95 USD
 - [Mikrotik hEX S RB760iGS - High-Performance Networking Router](https://bi-distribution.com/products/hex-s): Discover the Mikrotik hEX S RB760iGS with 5x Gigabit Ethernet, powerful features, and built-in IPsec encryption, perfect for secure networking.
-  Updated: 2026-11-05T20:00:45Z
+  Updated: 2026-11-07T16:37:16Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-s-679.webp?v=1792355865
   Price: $79.00 USD
 - [Mikrotik hEX PoE RB960PGS: High-Performance Router](https://bi-distribution.com/products/hex-poe): Discover the Mikrotik hEX PoE RB960PGS with 5x Gigabit Ethernet, SFP, USB, and powerful 800MHz CPU for seamless connectivity.
-  Updated: 2026-11-05T20:00:45Z
+  Updated: 2026-11-07T16:37:20Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hex-poe-531.webp?v=1792355854
   Price: $89.00 USD
 - [Mikrotik PowerBox Pro RB960PGS-PB](https://bi-distribution.com/products/powerbox-pro): Discover the Mikrotik PowerBox Pro RB960PGS-PB, a robust five gigabit router with PoE-out ports and an outdoor enclosure for superior connectivity.
-  Updated: 2026-11-05T20:00:46Z
+  Updated: 2026-11-07T16:37:26Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -158,14 +158,14 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/ccr2004-16g-2s-929.webp?v=1790540775
   Price: $465.00 USD
 - [Mikrotik CCR2004-16G-2S+PC](https://bi-distribution.com/products/ccr2004-16g-2s-pc): Up to 300% faster than the previous CCR1009 routers - in a blissful silence! Luxury you deserve for the price you can afford. 16x Gigabit Ethernet ports, 2x10G SFP+ cages.
-  Updated: 2026-11-05T20:00:48Z
+  Updated: 2026-11-07T16:37:46Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/ccr2004-16g-2s-pc-203.webp?v=1790540755
   Price: $465.00 USD
 - [Mikrotik CCR2004-1G-12S+2XS Router for SFP Management](https://bi-distribution.com/products/ccr2004-1g-12s-2xs): Discover the Mikrotik CCR2004-1G-12S+2XS, your ideal solution for seamless SFP, SFP+, and SFP28 management with multiple port speeds.
-  Updated: 2026-11-05T20:00:48Z
+  Updated: 2026-11-07T16:37:53Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -186,7 +186,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/netpower-lite-8p-834.webp?v=1792355790
   Price: $199.00 USD
 - [Mikrotik CRS418-8P-8G-2S+5axQ2axQ-RM](https://bi-distribution.com/products/crs418-8p-8g-2s-5axq2axq-rm): Discover the Mikrotik CRS418-8P-8G-2S+5axQ2axQ-RM with Wi-Fi 6, 16 Gigabit ports, PoE-out, and advanced network features for superior connectivity.
-  Updated: 2026-11-05T20:00:49Z
+  Updated: 2026-11-07T16:38:01Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -200,14 +200,14 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/crs812-ddq-764.webp?v=1792355746
   Price: $1,295.00 USD
 - [Mikrotik CRS804 DDQ: High-Performance 1U Switch](https://bi-distribution.com/products/crs804-ddq): Discover the Mikrotik CRS804 DDQ, a compact 400G switch engineered for AI clusters and high-speed networking, ensuring exceptional performance and scalability.
-  Updated: 2026-11-05T20:00:50Z
+  Updated: 2026-11-07T16:38:10Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/crs804-ddq-981.webp?v=1792355729
   Price: $1,295.00 USD
 - [Mikrotik CRS304-4XG-IN: Simplify Your 10 Gigabit Network](https://bi-distribution.com/products/crs304-4xg-in): Discover the Mikrotik CRS304-4XG-IN, featuring 4x10G Ethernet ports for easy network setups, no additional modules required.
-  Updated: 2026-11-05T20:00:51Z
+  Updated: 2026-11-07T16:38:16Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -333,14 +333,14 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/crs328-4c-20s-4s-rm-626.webp?v=1792355584
   Price: $449.00 USD
 - [Mikrotik CRS354-48G-4S+2Q+RM: Top Performance Switch](https://bi-distribution.com/products/crs354-48g-4s-2q-rm): Discover the Mikrotik CRS354-48G-4S+2Q+RM switch, designed for efficiency and exceptional performance in any network setup.
-  Updated: 2026-11-05T20:00:59Z
+  Updated: 2026-11-07T16:39:10Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/crs354-48g-4s-2q-rm-955.webp?v=1792355577
   Price: $599.00 USD
 - [Mikrotik CRS354-48P-4S+2Q+RM - The Ultimate 48 Port Switch](https://bi-distribution.com/products/crs354-48p-4s-2q-rm): Discover the Mikrotik CRS354-48P-4S+2Q+RM, your all-in-one solution for powering devices and managing networks efficiently.
-  Updated: 2026-11-05T20:00:59Z
+  Updated: 2026-11-07T16:39:16Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -809,7 +809,7 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/sxt-sa5-ac-673.webp?v=1792354944
   Price: $119.00 USD
 - [Mikrotik Metal 52 ac RBMetalG-52SHPacn](https://bi-distribution.com/products/metal-52-ac): Discover the Mikrotik Metal 52 ac RBMetalG-52SHPacn for 2.4/5GHz connectivity with 802.11ac support and Gigabit Ethernet. Enhance your network speed!
-  Updated: 2026-11-06T18:39:46Z
+  Updated: 2026-11-07T18:20:07Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
@@ -907,26 +907,19 @@
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/chateau-lte18-ax-912.webp?v=1792354848
   Price: $299.00 USD
 - [Mikrotik hAP be³ Media MA53UG+HbeH](https://bi-distribution.com/products/hap-be-media): Explore the Mikrotik hAP be³ Media MA53UG+HbeH, your all-in-one solution for advanced networking and smart home technology. Coming soon!
-  Updated: 2026-11-05T20:01:19Z
+  Updated: 2026-11-07T16:40:21Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hap-be-media-945.webp?v=1792354823
   Price: $179.00 USD
 - [Mikrotik hAP be lite A42G-HbeP](https://bi-distribution.com/products/hap-be-lite): Discover the Mikrotik hAP be lite A42G-HbeP, a powerful Wi-Fi 7 router with flexible RouterOS support, USB-C power, and outstanding performance.
-  Updated: 2026-11-05T20:01:20Z
+  Updated: 2026-11-07T16:40:25Z
   Vendor: Mikrotik
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/hap-be-lite-953.webp?v=1792354808
   Price: $79.00 USD
-- [Mikrotik LAMP 5G R16 LAMPGM&RG520F Outdoor Connectivity Device](https://bi-distribution.com/products/lamp-5g-r16): Explore the Mikrotik LAMP 5G R16 LAMPGM&RG520F, a durable device with eSIM, IP67 rating, and automatic tower connectivity for outdoor adventures.
-  Updated: 2026-11-05T20:01:20Z
-  Vendor: Mikrotik
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0971/4738/8202/files/lamp-5g-r16-985.webp?v=1792354788
-  Price: $349.00 USD
 
 ## Collections
 
@@ -943,16 +936,16 @@
   Updated: 2026-11-05T20:00:40Z
   Total Products: 10
 - [In Stock](https://bi-distribution.com/collections/in-stock): BI-DISTRIBUTION A.K.A JRS Global Networks Inc offers in stock Ethernet routers switches and wireless systems for home and office networking since 2019.
-  Updated: 2026-11-05T20:00:41Z
-  Total Products: 130
+  Updated: 2026-11-12T16:19:41Z
+  Total Products: 129
 - [Wireless Systems](https://bi-distribution.com/collections/wireless-systems): Wireless systems from JRS Global Networks feature Ethernet routers and switches for home and office networking needs.
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T12:19:09Z
   Total Products: 23
 - [Mimosa](https://bi-distribution.com/collections/mimosa): Explore Mimosa Networks for advanced networking equipment providing exceptional connectivity and performance in various environments.
   Updated: 2026-11-05T20:00:41Z
   Total Products: 4
 - [MikroTik](https://bi-distribution.com/collections/mikrotik): MikroTik routers, switches, and wireless systems from BI-DISTRIBUTION JRS Global Networks deliver reliable networking hardware for homes and enterprise ISPs.
-  Updated: 2026-11-05T20:00:41Z
+  Updated: 2026-11-07T12:19:09Z
   Total Products: 127
 - [LTE/5G Products](https://bi-distribution.com/collections/lte-5g-products): High speed LTE and 5G products from BI DISTRIBUTION JRS Global Networks include advanced ethernet routers, network switches, and wireless systems.
   Updated: 2026-11-05T20:00:41Z
@@ -1022,11 +1015,11 @@
     Author: Ravinder pal Singh
     Tags: firmware update interrupted, firmware updates fail, network device firmware recovery, network hardware update best practices, router firmware update failed, why network hardware firmware updates fail
   - [Troubleshoot Patchy Wireless Network Signals](https://bi-distribution.com/blogs/news/troubleshoot-patchy-wireless-network-signals): Troubleshoot Patchy Wireless Network Signals
-    Updated: 2026-10-22T20:11:20Z
+    Updated: 2026-11-13T04:57:58Z
     Author: Ravinder pal Singh
     Tags: best practices for wireless network deployment, patchy wireless, troubleshoot patchy wireless network signals, wireless signal interference detection
   - [How Do You Set Up a Site-to-Site VPN for a Small Office?](https://bi-distribution.com/blogs/news/how-to-set-up-site-to-site-vpn-small-office): How Do You Set Up a Site-to-Site VPN for a Small Office?
-    Updated: 2026-10-25T16:56:53Z
+    Updated: 2026-11-13T05:38:50Z
     Author: Ravinder pal Singh
     Tags: how to set up site-to-site vpn for small office, ipsec vpn setup between two routers, site-to-site vpn, site-to-site vpn requirements, site-to-site vpn troubleshooting, vpn tunnel testing
   - [Is Fixed Wireless Access Worth It for Farms?](https://bi-distribution.com/blogs/news/is-fixed-wireless-access-worth-it-for-farms): Is Fixed Wireless Access Worth It for Farms?
@@ -1057,15 +1050,23 @@
     Updated: 2026-11-06T17:50:37Z
     Author: Ravinder pal Singh
     Tags: 5g cpe router, cpe devices, cpe wireless bridge, fixed wireless cpe, point-to-multipoint cpe, top rated cpe devices for reliable last mile connectivity
+  - [7 Networking Switches and Routers for 4K Streaming](https://bi-distribution.com/blogs/news/high-performance-networking-gear-for-4k-video-streaming): 7 Networking Switches and Routers for 4K Streaming
+    Updated: 2026-11-09T16:23:45Z
+    Author: Ravinder pal Singh
+    Tags: best ethernet cable for 4k streaming, best router for streaming 4k, best wifi router for streaming multiple devices, high performance networking gear for 4k video streaming, network speed for 4k streaming, networking gear for 4k
+  - [7 Network Segmentation Facts That Stop Lateral Movement](https://bi-distribution.com/blogs/news/7-network-segmentation-facts-stop-lateral-movement): 7 Network Segmentation Facts That Stop Lateral Movement
+    Updated: 2026-11-11T18:26:13Z
+    Author: Ravinder pal Singh
+    Tags: network segmentation, network segmentation best practices, network segmentation examples, network segmentation tools, what is network segmentation and why it matters
 
 ## Store Pages
 
 - [Contact BI DISTRIBUTION Ontario Canada salesjrsgl.ca +1 365-767-5555.](https://bi-distribution.com/pages/contact): BI-DISTRIBUTION97 Earlsbridge Blvd, Brampton, ON L7A 2M8sales@jrsgl.ca +1 365-767-5555 Timings: 10 am - 5 pm ( Mon - Fri )
   Updated: 2026-10-30T21:11:09Z
 - [Your Privacy Choices Data Collection Policy](https://bi-distribution.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
-  Updated: 2026-10-30T08:36:01Z
+  Updated: 2026-11-13T08:36:05Z
 - [Mimosa Extends Distribution Agreement with JRS Global in Canada](https://bi-distribution.com/pages/mimosa-extends-distribution-agreement-with-jrs-global-for-canadian-market): Mimosa and JRS Global Networks continue to expand their global reach by adding Canada to their distribution agreement. Mimosa and JRS Global Networ...
-  Updated: 2026-10-30T08:36:07Z
+  Updated: 2026-11-07T16:35:40Z
 
 ## Policies
 
