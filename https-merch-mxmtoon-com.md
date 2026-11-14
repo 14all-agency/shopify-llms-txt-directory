@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2020-10-13T16:00:09Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:28:05.859Z
+- Updated At: 2026-11-14T01:10:27.523Z
 
 ## Products
 
@@ -164,7 +164,7 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $20.00 USD
 - [color blob cut & sew hoodie](https://merch.mxmtoon.com/products/color-blob-cut-sew-hoodie): Custom cut & sewn hoodie 80%/20% Poly/Cotton Unisex fit Limited Edition
-  Updated: 2026-10-05T13:03:48Z
+  Updated: 2026-11-11T05:49:28Z
   Vendor: mxmtoon
   Product Type: Sweatshirts
   Availability: Available
@@ -297,14 +297,14 @@ your agent can transact everywhere.
     Availability: Not Available
     Price: $30.00 USD
 - [plum blossom - limited edition vinyl](https://merch.mxmtoon.com/products/plum-blossom-limited-edition-vinyl): 2 sided LP featuring mxmtoon's latest EP, plum blossom (revisited) on side a, and debut EP, plum blossom, on side b. Pressed in purple and white dual color vinyl. SIDE A the idea of you (revisited) cliché (revisited) feelings are fatal (revisited) stuck (revisited) temporary nothing (revisited) hong kong (revisited) 1-800-DATEME (revisited) SIDE B cliché i feel like chet feelings are fatal the idea of you porcelain temporary nothing i miss you Release Date: march 2024
-  Updated: 2026-11-01T07:20:26Z
+  Updated: 2026-11-11T18:14:07Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0503/5094/8546/files/mxmtplumblossomfront.png?v=1774462988
   Price: $27.00 USD
 - [the masquerade - transparent blue vinyl](https://merch.mxmtoon.com/products/the-masquerade-transparent-blue-vinyl): Experience the triumphant return of singer-songwriter mxmtoon's iconic masterpiece and debut album, the masquerade, as it celebrates its 5th anniversary. Out now via AWAL Recordings, this special edition pays homage to the unwavering passion and raw emotion that captured hearts worldwide upon its initial release. This original 10-track album is now being released alongside an intimate collection of acoustic recordings, inviting you to rediscover the soulful essence of mxmtoon's musical genius. "i can’t believe it’s been five years of this record! the masquerade forever changed my life when i first released it, and it continues to find new meaning and life every day since thanks to the people who support it. i’m so grateful for the journey i’ve embarked on these past five years and i owe so much to these songs for getting me here. i’m so thankful for your continuous support too as i’ve not only released more music, but grown up alongside you. it’s the greatest privilege of my life to learn about who i am and share the songs i write with such good company. happy birthday to the masquerade :) much love, maia" Release Date: may 7th, 2024
-  Updated: 2026-10-05T13:03:57Z
+  Updated: 2026-11-09T08:19:47Z
   Vendor: mxmtoon
   Product Type: Vinyl
   Availability: Available
@@ -534,16 +534,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [home page](https://merch.mxmtoon.com/collections/frontpage)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-12T12:05:12Z
   Total Products: 110
 - [shirts](https://merch.mxmtoon.com/collections/shirts)
   Updated: 2026-10-12T15:16:42Z
   Total Products: 50
 - [sweatshirts](https://merch.mxmtoon.com/collections/sweatshirts)
-  Updated: 2026-10-12T15:16:42Z
+  Updated: 2026-11-11T12:06:27Z
   Total Products: 14
 - [music](https://merch.mxmtoon.com/collections/music)
-  Updated: 2026-11-02T12:02:54Z
+  Updated: 2026-11-12T12:05:12Z
   Total Products: 43
 - [headwear](https://merch.mxmtoon.com/collections/headwear)
   Updated: 2026-10-12T15:15:51Z
@@ -561,7 +561,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:26Z
   Total Products: 0
 - [All](https://merch.mxmtoon.com/collections/all)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-12T12:05:12Z
   Total Products: 182
 - [posters](https://merch.mxmtoon.com/collections/posters)
   Updated: 2026-07-08T20:17:26Z
@@ -579,7 +579,7 @@ your agent can transact everywhere.
   Updated: 2023-09-20T19:37:07Z
   Total Products: 6
 - [apparel](https://merch.mxmtoon.com/collections/apparel)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-11T12:06:27Z
   Total Products: 73
 - [Spotify Fans First](https://merch.mxmtoon.com/collections/spotify-fans-first)
   Updated: 2026-07-08T20:17:27Z
@@ -594,13 +594,13 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:42Z
   Total Products: 13
 - [new arrivals](https://merch.mxmtoon.com/collections/new-arrivals)
-  Updated: 2026-10-24T11:04:46Z
+  Updated: 2026-11-11T12:06:27Z
   Total Products: 34
 - [bittersweet daze tour merch](https://merch.mxmtoon.com/collections/bittersweet-daze-tour-merch)
   Updated: 2026-10-12T15:16:44Z
   Total Products: 6
 - [plum blossom (revisited)](https://merch.mxmtoon.com/collections/plum-blossom-revisited)
-  Updated: 2026-11-01T12:04:24Z
+  Updated: 2026-11-12T12:05:12Z
   Total Products: 7
 - [graphic novels](https://merch.mxmtoon.com/collections/graphic-novels)
   Updated: 2026-09-09T11:04:21Z
@@ -609,10 +609,10 @@ your agent can transact everywhere.
   Updated: 2026-10-12T15:16:42Z
   Total Products: 11
 - [the spring line](https://merch.mxmtoon.com/collections/the-spring-line)
-  Updated: 2026-10-12T15:15:52Z
+  Updated: 2026-11-09T12:03:58Z
   Total Products: 7
 - [$40](https://merch.mxmtoon.com/collections/40)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-11T12:06:27Z
   Total Products: 29
 - [$35](https://merch.mxmtoon.com/collections/30)
   Updated: 2026-10-12T15:16:42Z
@@ -630,7 +630,7 @@ your agent can transact everywhere.
   Updated: 2026-11-05T12:04:03Z
   Total Products: 3
 - [all](https://merch.mxmtoon.com/collections/all-1)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-12T12:05:12Z
   Total Products: 182
 - [i  texas](https://merch.mxmtoon.com/collections/i--texas)
   Updated: 2026-10-12T15:15:52Z
@@ -645,7 +645,7 @@ your agent can transact everywhere.
   Updated: 2026-07-08T20:17:28Z
   Total Products: 1
 - [cold weather gear](https://merch.mxmtoon.com/collections/cold-weather-gear)
-  Updated: 2026-11-05T12:04:03Z
+  Updated: 2026-11-11T12:06:27Z
   Total Products: 6
 - [liminal space tour](https://merch.mxmtoon.com/collections/liminal-space-tour)
   Updated: 2026-09-24T11:04:32Z
@@ -659,6 +659,9 @@ your agent can transact everywhere.
 - [Stocking Stuffers](https://merch.mxmtoon.com/collections/stocking-stuffers)
   Updated: 2026-09-20T11:03:58Z
   Total Products: 9
+- [all merch](https://merch.mxmtoon.com/collections/all-merch)
+  Updated: 2026-11-11T12:06:27Z
+  Total Products: 139
 
 ## Store Pages
 
