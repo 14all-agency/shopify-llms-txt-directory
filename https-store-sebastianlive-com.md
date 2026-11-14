@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2022-08-30T20:50:56Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:07:17.891Z
+- Updated At: 2026-11-14T01:31:49.914Z
 
 ## Products
 
@@ -95,7 +95,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0586/4606/9282/files/SMAYEDVD.png?v=1692195989
   Price: $15.00 USD
 - [What's Wrong With People Signed DVD](https://store.sebastianlive.com/products/whats-wrong-with-people-cd): Sebastian's 2012 live comedy special on DVD.
-  Updated: 2026-10-08T04:54:13Z
+  Updated: 2026-11-12T02:40:06Z
   Vendor: Sebastian Maniscalco
   Product Type: DVD
   Availability: Available
@@ -378,7 +378,7 @@ your agent can transact everywhere.
   Updated: 2026-04-14T21:02:30Z
   Total Products: 0
 - [All Products](https://store.sebastianlive.com/collections/all-products)
-  Updated: 2026-11-02T12:08:35Z
+  Updated: 2026-11-12T12:16:45Z
   Total Products: 81
 - [Apparel](https://store.sebastianlive.com/collections/apparel)
   Updated: 2026-11-02T12:08:35Z
@@ -396,7 +396,7 @@ your agent can transact everywhere.
   Updated: 2026-06-12T14:46:18Z
   Total Products: 23
 - [Media](https://store.sebastianlive.com/collections/media)
-  Updated: 2026-11-01T12:06:59Z
+  Updated: 2026-11-12T12:16:45Z
   Total Products: 6
 - [Nobody Does This Merchandise](https://store.sebastianlive.com/collections/nobody-does-this)
   Updated: 2026-06-12T14:40:25Z
@@ -435,7 +435,7 @@ your agent can transact everywhere.
   Updated: 2026-10-30T11:15:16Z
   Total Products: 8
 - [EasyGift All Products](https://store.sebastianlive.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-02T12:08:35Z
+  Updated: 2026-11-12T12:16:45Z
   Total Products: 81
 - [$20.24](https://store.sebastianlive.com/collections/20-24)
   Updated: 2026-04-14T21:02:31Z
@@ -447,10 +447,10 @@ your agent can transact everywhere.
   Updated: 2026-08-17T11:08:55Z
   Total Products: 8
 - [Best Sellers](https://store.sebastianlive.com/collections/best-sellers)
-  Updated: 2026-11-02T12:08:35Z
+  Updated: 2026-11-12T12:16:45Z
   Total Products: 81
 - [New Arrivals](https://store.sebastianlive.com/collections/new-arrivals)
-  Updated: 2026-11-02T12:08:35Z
+  Updated: 2026-11-12T12:16:45Z
   Total Products: 81
 - [$20.25](https://store.sebastianlive.com/collections/20-25)
   Updated: 2026-04-14T21:02:31Z
