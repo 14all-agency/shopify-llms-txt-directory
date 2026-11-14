@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-18T14:51:11Z
 - Contact Email: thedailygrindhouse2026@gmail.com
-- Updated At: 2026-11-07T00:17:27.239Z
+- Updated At: 2026-11-14T00:18:38.793Z
 
 ## Products
 
@@ -1156,7 +1156,7 @@
     Availability: Available
     Price: $169.99 USD
 - [Breakfast Blend Ground Coffee | Light Medium Roast | The Daily](https://thedailygrindhouse.com/products/breakfast-blend): The perfect start to any morning — our Breakfast Blend is a smooth, approachable medium roast that delivers consistent, satisfying flavor without any fuss. A
-  Updated: 2026-11-04T01:02:30Z
+  Updated: 2026-11-10T16:06:46Z
   Vendor: The Daily Grindhouse
   Product Type: coffee
   Availability: Available
@@ -3354,7 +3354,7 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/unisex-garment-dyed-heavyweight-t-shirt-bay-front-2-69eb96a04f018.jpg?v=1785328594
     Price: $31.00 USD
 - [Men’s Box Tee - The Daily Grindhouse](https://thedailygrindhouse.com/products/men-s-box-tee): Want a tee with a flattering fit and sturdy construction? Look no further. Men’s boxy tee is the best choice for relaxed streetwear looks and layering. With a
-  Updated: 2026-10-26T06:40:08Z
+  Updated: 2026-11-09T13:04:12Z
   Vendor: The Daily Grindhouse
   Product Type: T-SHIRT
   Availability: Available
@@ -3448,11 +3448,11 @@
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / M](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483304690)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / L](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483337458)
-    Availability: Not Available
+    Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0825/3574/3730/files/mens-box-tee-vintage-white-front-69eb96ad3b0ff.jpg?v=1785328643
     Price: $30.00 USD
   - [Vintage White / XL](https://thedailygrindhouse.com/products/men-s-box-tee?variant=49110483370226)
@@ -3690,10 +3690,10 @@
 ## Collections
 
 - [Coffee](https://thedailygrindhouse.com/collections/coffee): Shop single origins, blends, flavored roasts, cold brew & specialty coffees. Every bag selected for quality and roasted for flavor. Find your perfect cup.
-  Updated: 2026-10-11T11:40:08Z
+  Updated: 2026-11-08T12:17:40Z
   Total Products: 61
 - [Blends](https://thedailygrindhouse.com/collections/blends): Shop signature coffee blends crafted for balance and depth. From smooth Breakfast Blend to bold Cowboy Blend — roasted for every brewing method.
-  Updated: 2026-10-11T11:40:08Z
+  Updated: 2026-11-08T12:17:40Z
   Total Products: 23
 - [Flavored](https://thedailygrindhouse.com/collections/flavored): Shop craft flavored coffees — Mocha, Hazelnut, Pumpkin Spice, Caramel & more. Quality roasted beans with natural flavors. Find your next morning ritual.
   Updated: 2026-09-30T01:13:30Z
