@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-07-13T14:47:21Z
 - Contact Email: wldunlimitedventures@gmail.com
-- Updated At: 2026-11-07T00:23:05.483Z
+- Updated At: 2026-11-14T00:23:24.678Z
 
 ## Products
 
@@ -682,6 +682,13 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/Space_Explorers_01_Workbook_Cover.png?v=1793838285
   Price: $9.99 USD
+- [Printable STEM Workbook Ages 8–12 | Science Detectives](https://tl5digitalworld.com/products/science-detectives-explore-experiment-discover-printable-stem-workbook-ages-8-12): Science Detectives: Explore, Experiment & Discover Turn curiosity into discovery with hands-on STEM learning! Help young scientists explore the exciting world of science with Science Detectives: Explore, Experiment & Discover, an engaging printable STEM workbook designed for children ages 8–12. Part of the TL5 Digital World's Black Boys in STEM Collection, this educational resource features inspiring illustrations of Black children exploring science, asking questions, conducting experiments, and discovering how the world works. What's Inside? Engaging science investigations and discovery activities Opportunities to observe, predict, experiment, and record findings Critical-thinking and problem-solving exercises Hands-on learning activities for home or classroom use Writing spaces for recording scientific observations Colorful, relatable illustrations that encourage STEM confidence Activities that support independent and parent-guided learning Two Convenient Digital Formats Printable PDF: Print the workbook and complete activities by hand. Fillable PDF: Complete supported response fields digitally using a compatible PDF application. Perfect For Children ages 8–12 Homeschool science enrichment Parents seeking educational screen-free activities Teachers and classroom STEM centers After-school programs and young science enthusiasts Why Choose Science Detectives? Science is about curiosity, discovery, and asking questions. This workbook encourages children to think like scientists while building confidence in observation, experimentation, and scientific reasoning. Digital Download Only: No physical product will be shipped. Print at home or use the fillable digital version. Created by TL5 Digital World — Inspiring the next generation of STEM innovators.
+  Updated: 2026-11-12T09:47:57Z
+  Vendor: TL5 Digital World
+  Product Type: Digital STEM Workbook
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0947/2947/0272/files/ScienceDetectives_ExploreandDiscover.png?v=1794355129
+  Price: $9.99 USD
 
 ## Collections
 
@@ -779,8 +786,8 @@
   Updated: 2026-10-17T01:31:36Z
   Total Products: 1
 - [STEM Learning](https://tl5digitalworld.com/collections/stem-learning)
-  Updated: 2026-11-05T00:35:44Z
-  Total Products: 5
+  Updated: 2026-11-11T00:06:41Z
+  Total Products: 6
 
 ## Blogs
 
@@ -1008,6 +1015,18 @@
     Author: Admin
   - [Scope Creep Management Template for Better Projects](https://tl5digitalworld.com/blogs/news/scope-creep-management-template): Scope Creep Management Template for Better Projects
     Updated: 2026-11-05T03:32:45Z
+    Author: Admin
+  - [Debt Payoff Examples That Build Real Momentum](https://tl5digitalworld.com/blogs/news/debt-payoff-examples): Debt Payoff Examples That Build Real Momentum
+    Updated: 2026-11-07T03:31:10Z
+    Author: Admin
+  - [How to Negotiate a Salary Raise With Evidence](https://tl5digitalworld.com/blogs/news/how-to-negotiate-a-salary-raise): How to Negotiate a Salary Raise With Evidence
+    Updated: 2026-11-09T03:32:51Z
+    Author: Admin
+  - [12 Best Household Budget Categories to Use](https://tl5digitalworld.com/blogs/news/best-household-budget-categories): 12 Best Household Budget Categories to Use
+    Updated: 2026-11-11T03:32:09Z
+    Author: Admin
+  - [Credit Utilization Explained Simply for Better Credit](https://tl5digitalworld.com/blogs/news/credit-utilization-explained-simply): Credit Utilization Explained Simply for Better Credit
+    Updated: 2026-11-13T03:34:24Z
     Author: Admin
 
 ## Store Pages
