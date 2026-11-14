@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-06T15:37:20Z
 - Contact Email: phillipsmichelleevelyn12122000@gmail.com
-- Updated At: 2026-11-06T16:59:54.414Z
+- Updated At: 2026-11-14T01:04:01.880Z
 
 ## Products
 
@@ -200,6 +200,15 @@
     Author: Novera Space
   - [Discover How the Novera Space Outdoor Rechargeable Wall Light Enhances Aesthetic Bedroom Decor and Solves Motion Sensor Night Light Needs by Leveraging Smart Ambient Light Features with Automatic LED Night Light Convenience](https://noveraspace.com/blogs/news/discover-how-the-novera-space-outdoor-rechargeable-wall-light-enhances-aesthetic-bedroom-decor-and-solves-motion-sensor-night-light-needs-by-leveraging-smart-ambient-light-features-with-automatic-led-night-light-convenience): Discover How the Novera Space Outdoor Rechargeable Wall Light Enhances Aesthetic Bedroom Decor and Solves Motion Sensor Night Light Needs by Leveraging Smart Ambient Light Features with Automatic LED Night Light Convenience
     Updated: 2026-11-04T11:03:50Z
+    Author: Novera Space
+  - [Revolutionize Your Sleeping Experience with Novera Space's Aesthetic Galaxy Projector and Wireless Charging Bedside Lamp](https://noveraspace.com/blogs/news/revolutionize-your-sleeping-experience-with-novera-spaces-aesthetic-galaxy-projector-and-wireless-charging-bedside-lamp): Revolutionize Your Sleeping Experience with Novera Space's Aesthetic Galaxy Projector and Wireless Charging Bedside Lamp
+    Updated: 2026-11-09T11:02:44Z
+    Author: Novera Space
+  - [Decoding the Novera Space 3D Galaxy Moon Lamp for Smart Ambient Lighting Enthusiasts](https://noveraspace.com/blogs/news/decoding-the-novera-space-3d-galaxy-moon-lamp-for-smart-ambient-lighting-enthusiasts): Decoding the Novera Space 3D Galaxy Moon Lamp for Smart Ambient Lighting Enthusiasts
+    Updated: 2026-11-10T11:02:29Z
+    Author: Novera Space
+  - [Brighten Any Space with Novera Space's Cordless Motion Sensor Light – Renters' Guide to Smart Ambient Lighting](https://noveraspace.com/blogs/news/brighten-any-space-with-novera-spaces-cordless-motion-sensor-light-renters-guide-to-smart-ambient-lighting): Brighten Any Space with Novera Space's Cordless Motion Sensor Light – Renters' Guide to Smart Ambient Lighting
+    Updated: 2026-11-11T11:03:29Z
     Author: Novera Space
 
 ## Store Pages
