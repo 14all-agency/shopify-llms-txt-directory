@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-09-27T14:55:39Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:30:46.656Z
+- Updated At: 2026-11-14T01:31:11.347Z
 
 ## Products
 
@@ -242,13 +242,13 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://shop.kenzieofficial.com/collections/frontpage)
-  Updated: 2026-11-05T12:29:56Z
+  Updated: 2026-11-07T12:22:48Z
   Total Products: 9
 - [Apparel](https://shop.kenzieofficial.com/collections/apparel)
-  Updated: 2026-11-05T12:29:56Z
+  Updated: 2026-11-07T12:22:48Z
   Total Products: 6
 - [All](https://shop.kenzieofficial.com/collections/all)
-  Updated: 2026-11-05T12:29:56Z
+  Updated: 2026-11-07T12:22:48Z
   Total Products: 7
 - [Accessories](https://shop.kenzieofficial.com/collections/accessories)
   Updated: 2026-11-05T12:29:56Z
