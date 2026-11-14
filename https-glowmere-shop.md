@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-08T11:39:53Z
 - Contact Email: gilebrooks@gmail.com
-- Updated At: 2026-11-06T18:18:02.581Z
+- Updated At: 2026-11-14T01:20:49.239Z
 
 ## Products
 
@@ -1642,6 +1642,15 @@
     Author: Glowmere
   - [Top Picks for Modern Floor Lamps and Aesthetic Bedside Table Lamps to Transform Your Living Room and Bedroom](https://glowmere.shop/blogs/news/top-picks-for-modern-floor-lamps-and-aesthetic-bedside-table-lamps-to-transform-your-living-room-and-bedroom): Top Picks for Modern Floor Lamps and Aesthetic Bedside Table Lamps to Transform Your Living Room and Bedroom
     Updated: 2026-11-04T11:06:05Z
+    Author: Glowmere
+  - [Transform Your Space: A Comprehensive Guide to Ambient Lighting with Glowmere™ Floor Lamps and Accent Lamps for Every Room](https://glowmere.shop/blogs/news/transform-your-space-a-comprehensive-guide-to-ambient-lighting-with-glowmere™-floor-lamps-and-accent-lamps-for-every-room): Transform Your Space: A Comprehensive Guide to Ambient Lighting with Glowmere™ Floor Lamps and Accent Lamps for Every Room
+    Updated: 2026-11-09T11:04:39Z
+    Author: Glowmere
+  - [Exploring Mid-Century Modern Lighting: How Glowmere™ Sphere Two Enhances Living Room and Bedroom Atmospheres](https://glowmere.shop/blogs/news/exploring-mid-century-modern-lighting-how-glowmere™-sphere-two-enhances-living-room-and-bedroom-atmospheres): Exploring Mid-Century Modern Lighting: How Glowmere™ Sphere Two Enhances Living Room and Bedroom Atmospheres
+    Updated: 2026-11-10T11:04:18Z
+    Author: Glowmere
+  - [Mastering Light Layers: The Ultimate Guide to Modern Floor Lamps and Accent Lighting in Every Room](https://glowmere.shop/blogs/news/mastering-light-layers-the-ultimate-guide-to-modern-floor-lamps-and-accent-lighting-in-every-room): Mastering Light Layers: The Ultimate Guide to Modern Floor Lamps and Accent Lighting in Every Room
+    Updated: 2026-11-11T11:05:17Z
     Author: Glowmere
 
 ## Store Pages
