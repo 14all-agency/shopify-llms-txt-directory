@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2020-05-06T18:06:04Z
 - Contact Email: bonitainteriors@yahoo.com
-- Updated At: 2026-11-06T01:10:25.568Z
+- Updated At: 2026-11-14T01:01:11.939Z
 
 ## Products
 
@@ -46,12 +46,12 @@
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/FDA56934-D48D-4785-8A69-611A36866DC8.jpg?v=1784613528
   Price: $1,000.00 USD
 - [Vintage Herman Miller Reupholstered Armchairs](https://www.dickersoncollective.com/products/herman-miller-arm-chairs-newly-reupholstered-pair): Pair of vintage Herman Miller armchairs with classic mid-century design and updated upholstery.
-  Updated: 2026-10-12T15:07:12Z
+  Updated: 2026-11-13T19:51:20Z
   Vendor: Dickerson Collective
   Product Type: Chairs
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0376/3571/9304/files/B81A05CF-22C3-4484-B97C-B0F7ED104FE8.jpg?v=1783951830
-  Price: $3,000.00 USD
+  Price: $2,500.00 USD
 - [Vintage Oak Step Side Tables – Pair | Dickerson Collective](https://www.dickersoncollective.com/products/vintage-oak-step-side-tables-pair): Pair of vintage oak step side tables with turned ball accents and a warm refinished finish, believed to date to the 1940s–1950s.
   Updated: 2026-10-12T15:07:13Z
   Vendor: Dickerson Collective
@@ -1695,13 +1695,13 @@
 ## Collections
 
 - [Furniture](https://www.dickersoncollective.com/collections/furniture): Shop vintage furniture at Dickerson Collective in Los Angeles. Discover sofas, chairs, tables and cabinets online or visit our Riverside Drive store.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 227
 - [Seating](https://www.dickersoncollective.com/collections/seating): Shop Seating at Dickerson Collective.
-  Updated: 2026-10-17T17:23:18Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 122
 - [Tables](https://www.dickersoncollective.com/collections/tables): Shop Tables at Dickerson Collective.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-12T19:00:02Z
   Total Products: 96
 - [Storage](https://www.dickersoncollective.com/collections/storage): Shop Storage at Dickerson Collective.
   Updated: 2026-10-09T02:44:52Z
@@ -1719,7 +1719,7 @@
   Updated: 2026-07-30T00:08:44Z
   Total Products: 0
 - [Lighting](https://www.dickersoncollective.com/collections/lighting): Shop vintage lamps, chandeliers and lighting at Dickerson Collective in Los Angeles. Browse online or visit by appointment. Free local pickup available.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-12T19:00:02Z
   Total Products: 73
 - [Chandeliers](https://www.dickersoncollective.com/collections/chandeliers): Shop Chandeliers at Dickerson Collective.
   Updated: 2026-07-30T00:07:55Z
@@ -1728,7 +1728,7 @@
   Updated: 2026-07-30T00:08:49Z
   Total Products: 0
 - [Table Lamps](https://www.dickersoncollective.com/collections/table-lamps): Shop Table Lamps at Dickerson Collective.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-12T19:00:02Z
   Total Products: 67
 - [Floor Lamps](https://www.dickersoncollective.com/collections/floor-lamps): Shop Floor Lamps at Dickerson Collective.
   Updated: 2026-10-09T02:24:56Z
@@ -1740,10 +1740,10 @@
   Updated: 2026-07-30T00:08:33Z
   Total Products: 0
 - [Studio Pottery](https://www.dickersoncollective.com/collections/studio-pottery): Shop Studio Pottery at Dickerson Collective.
-  Updated: 2026-10-14T19:41:38Z
+  Updated: 2026-11-13T12:08:39Z
   Total Products: 286
 - [Vases](https://www.dickersoncollective.com/collections/vases): Shop Vases at Dickerson Collective.
-  Updated: 2026-10-29T18:32:50Z
+  Updated: 2026-11-13T12:08:39Z
   Total Products: 305
 - [Vessels](https://www.dickersoncollective.com/collections/vessels): Shop Vessels at Dickerson Collective.
   Updated: 2026-10-12T03:14:07Z
@@ -1875,13 +1875,13 @@
   Updated: 2026-10-12T03:09:43Z
   Total Products: 5
 - [Ceramic](https://www.dickersoncollective.com/collections/ceramic): Shop Ceramic at Dickerson Collective.
-  Updated: 2026-10-30T23:38:43Z
+  Updated: 2026-11-13T12:08:39Z
   Total Products: 220
 - [Copper](https://www.dickersoncollective.com/collections/copper): Shop Copper at Dickerson Collective.
   Updated: 2026-10-15T11:09:28Z
   Total Products: 14
 - [Glass](https://www.dickersoncollective.com/collections/glass): Shop Glass at Dickerson Collective.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-12T18:59:23Z
   Total Products: 31
 - [Iron](https://www.dickersoncollective.com/collections/iron): Shop Iron at Dickerson Collective.
   Updated: 2026-10-12T03:15:46Z
@@ -1920,10 +1920,10 @@
   Updated: 2026-10-12T03:12:39Z
   Total Products: 83
 - [Hollywood Regency](https://www.dickersoncollective.com/collections/hollywood-regency): Shop Hollywood Regency at Dickerson Collective.
-  Updated: 2026-10-30T23:11:15Z
+  Updated: 2026-11-12T18:57:59Z
   Total Products: 14
 - [Mid-Century Modern](https://www.dickersoncollective.com/collections/mid-century-modern): Shop Mid-Century Modern at Dickerson Collective.
-  Updated: 2026-10-30T23:38:43Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 74
 - [Art Deco](https://www.dickersoncollective.com/collections/art-deco): Shop Art Deco at Dickerson Collective.
   Updated: 2026-10-12T03:12:13Z
@@ -1935,7 +1935,7 @@
   Updated: 2026-10-12T03:14:13Z
   Total Products: 72
 - [Organic Modern](https://www.dickersoncollective.com/collections/organic-modern): Shop Organic Modern at Dickerson Collective.
-  Updated: 2026-10-30T23:41:08Z
+  Updated: 2026-11-12T18:59:23Z
   Total Products: 9
 - [Postmodern](https://www.dickersoncollective.com/collections/postmodern): Shop Postmodern at Dickerson Collective.
   Updated: 2026-10-17T16:50:31Z
@@ -2100,7 +2100,7 @@
   Updated: 2026-07-30T00:08:55Z
   Total Products: 0
 - [Objects for the Soul](https://www.dickersoncollective.com/collections/objects-for-the-soul): Shop Objects for the Soul at Dickerson Collective.
-  Updated: 2026-10-14T19:45:03Z
+  Updated: 2026-11-12T19:00:02Z
   Total Products: 63
 - [New Arrivals](https://www.dickersoncollective.com/collections/new-arrivals): Explore new arrivals at Dickerson Collective: vintage furniture, art, pottery, fashion and distinctive objects. Shop online or arrange a Los Angeles visit.
   Updated: 2026-10-14T19:45:03Z
@@ -2118,16 +2118,16 @@
   Updated: 2026-07-30T00:08:09Z
   Total Products: 0
 - [Under $100](https://www.dickersoncollective.com/collections/under-100): Shop one-of-a-kind vintage art, pottery, clothing and objects priced under $100 from Dickerson Collective.
-  Updated: 2026-10-29T18:33:26Z
-  Total Products: 396
+  Updated: 2026-11-13T00:21:20Z
+  Total Products: 395
 - [Under $500](https://www.dickersoncollective.com/collections/under-500): Shop one-of-a-kind vintage art, pottery, fashion, furniture and objects priced under $500 from Dickerson Collective.
-  Updated: 2026-10-29T18:33:27Z
+  Updated: 2026-11-13T00:21:21Z
   Total Products: 1027
 - [Best  Products](https://www.dickersoncollective.com/collections/best--products)
-  Updated: 2026-11-04T00:45:51Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 1585
 - [Newest Products](https://www.dickersoncollective.com/collections/newest-products)
-  Updated: 2026-11-04T00:45:51Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 1585
 - [Accessories](https://www.dickersoncollective.com/collections/accessories): Shop Accessories at Dickerson Collective.
   Updated: 2026-10-12T03:15:40Z
@@ -2187,7 +2187,7 @@
   Updated: 2026-07-30T00:08:43Z
   Total Products: 0
 - [Pottery & Objects](https://www.dickersoncollective.com/collections/pottery-and-objects): Shop Pottery & Objects at Dickerson Collective.
-  Updated: 2026-10-29T18:32:50Z
+  Updated: 2026-11-13T12:08:39Z
   Total Products: 569
 - [Production Rentals](https://www.dickersoncollective.com/collections/production-rentals)
   Updated: 2026-07-30T00:08:54Z
@@ -2217,7 +2217,7 @@
   Updated: 2026-10-17T17:23:18Z
   Total Products: 17
 - [Accent Chairs](https://www.dickersoncollective.com/collections/accent-chairs): Shop Accent Chairs at Dickerson Collective.
-  Updated: 2026-10-17T16:50:31Z
+  Updated: 2026-11-13T19:51:21Z
   Total Products: 48
 - [Dining Chairs](https://www.dickersoncollective.com/collections/dining-chairs): Shop Dining Chairs at Dickerson Collective.
   Updated: 2026-10-12T03:09:35Z
@@ -2456,7 +2456,7 @@
 - [Trade & Reseller Memo Program](https://www.dickersoncollective.com/pages/trade-reseller-memo-program): Interested in our Trade & Reseller Memo Program? Email us to request an application. Request Trade Application
   Updated: 2026-10-02T23:12:02Z
 - [Spaces + Rentals](https://www.dickersoncollective.com/pages/spaces-rentals): DICKERSON COLLECTIVE · LOS ANGELES Spaces + Rentals Two distinctive location rental options at 1918 Riverside Drive in Frogtown: our fully styled, ...
-  Updated: 2026-10-27T15:38:34Z
+  Updated: 2026-11-09T16:47:38Z
 - [Book Vintage Shopping in LA | Dickerson Collective](https://www.dickersoncollective.com/pages/book-appointment): Book a shopping visit to Dickerson Collective, our 11,000-square-foot Los Angeles space filled with vintage furniture, lighting, original art, clot...
   Updated: 2026-10-15T04:11:58Z
 - [Vintage Store in Los Angeles | Visit Dickerson Collective](https://www.dickersoncollective.com/pages/hours-location): Dickerson Collective is a family-run vintage store in Los Angeles, bringing together vintage furniture, lighting, original art, clothing, and desig...
@@ -2466,43 +2466,43 @@
 - [Vintage Shopping Los Angeles | Dickerson Collective](https://www.dickersoncollective.com/pages/shopping-information): Discover vintage furniture, lighting, art, clothing, and objects for the soul at Dickerson Collective, a family-run Los Angeles vintage store at 19...
   Updated: 2026-10-15T04:11:59Z
 - [Returns & Refunds](https://www.dickersoncollective.com/pages/returns-refunds): Returns & RefundsContent coming soon.
-  Updated: 2026-06-17T23:39:33Z
+  Updated: 2026-11-09T16:48:02Z
 - [Bag Check Policy](https://www.dickersoncollective.com/pages/bag-check-policy): Bag Check PolicyContent coming soon.
-  Updated: 2026-06-17T23:39:33Z
+  Updated: 2026-11-09T16:48:02Z
 - [Shipping & Delivery](https://www.dickersoncollective.com/pages/shipping-delivery): Shipping & DeliveryChoose your delivery option at checkoutEnter your shipping address at checkout to see the available shipping options and charges...
-  Updated: 2026-10-12T03:45:35Z
+  Updated: 2026-11-09T16:48:03Z
 - [Contact](https://www.dickersoncollective.com/pages/contact): ContactContent coming soon.
-  Updated: 2026-06-17T23:39:34Z
+  Updated: 2026-11-09T16:48:04Z
 - [Designer & Reseller Program](https://www.dickersoncollective.com/pages/designer-reseller-program): Designer & Reseller ProgramContent coming soon.
-  Updated: 2026-06-17T23:39:35Z
+  Updated: 2026-11-09T16:48:05Z
 - [Trade Benefits](https://www.dickersoncollective.com/pages/trade-benefits): Trade BenefitsContent coming soon.
-  Updated: 2026-06-17T23:39:35Z
+  Updated: 2026-11-09T16:48:06Z
 - [Trade Application](https://www.dickersoncollective.com/pages/trade-application): Trade ApplicationContent coming soon.
-  Updated: 2026-06-17T23:39:35Z
+  Updated: 2026-11-09T16:48:06Z
 - [Memo Program](https://www.dickersoncollective.com/pages/memo-program): Memo ProgramContent coming soon.
-  Updated: 2026-06-17T23:39:36Z
+  Updated: 2026-11-09T16:48:07Z
 - [Memo Application](https://www.dickersoncollective.com/pages/memo-application): Memo ApplicationContent coming soon.
-  Updated: 2026-06-17T23:39:36Z
+  Updated: 2026-11-09T16:48:08Z
 - [Trade FAQ](https://www.dickersoncollective.com/pages/trade-faq): Trade FAQContent coming soon.
-  Updated: 2026-06-17T23:39:37Z
+  Updated: 2026-11-09T16:48:09Z
 - [Showroom Location Rental | Film & TV](https://www.dickersoncollective.com/pages/location-rentals): Film & TV Location · Photography · Commercials · Music Videos Film in a Real Vintage Showroom Rent Dickerson Collective's approximately 11,000-squa...
-  Updated: 2026-10-27T15:25:02Z
+  Updated: 2026-11-09T16:48:12Z
 - [Rental Rates](https://www.dickersoncollective.com/pages/rental-rates): Rental Rates Dickerson Collective offers two independent rentals in Frogtown, Los Angeles. These rates are for location and lot use, not individual...
-  Updated: 2026-10-27T15:25:36Z
+  Updated: 2026-11-09T16:48:14Z
 - [Shop & Sip](https://www.dickersoncollective.com/pages/shop-sip): Shop & SipContent coming soon.
-  Updated: 2026-06-17T23:39:40Z
+  Updated: 2026-11-09T16:48:17Z
 - [Artist Receptions](https://www.dickersoncollective.com/pages/artist-receptions): Artist ReceptionsContent coming soon.
-  Updated: 2026-06-17T23:39:41Z
+  Updated: 2026-11-09T16:48:19Z
 - [Workshops](https://www.dickersoncollective.com/pages/workshops): WorkshopsContent coming soon.
-  Updated: 2026-06-17T23:39:41Z
+  Updated: 2026-11-09T16:48:19Z
 - [Open Houses](https://www.dickersoncollective.com/pages/open-houses): Open HousesContent coming soon.
-  Updated: 2026-06-17T23:39:41Z
+  Updated: 2026-11-09T16:48:21Z
 - [Private Events](https://www.dickersoncollective.com/pages/private-events): Private EventsContent coming soon.
-  Updated: 2026-06-17T23:39:42Z
+  Updated: 2026-11-09T16:48:22Z
 - [Vintage Shopping Appointments | Dickerson Collective](https://www.dickersoncollective.com/pages/appointments): 
   Updated: 2026-10-15T04:03:11Z
 - [Parking Lot Rental | Production Parking](https://www.dickersoncollective.com/pages/parking-lot-rental): Production Parking · Base Camp · Vehicle Staging Private Parking Lot Rental in Frogtown, Los Angeles Dickerson Collective offers a separate approxi...
-  Updated: 2026-10-27T15:23:40Z
+  Updated: 2026-11-09T16:48:22Z
 - [Seen on Screen](https://www.dickersoncollective.com/pages/as-seen-on-screen): Formerly Bonita Interiors · Now Dickerson Collective · Los Angeles Seen on Screen Original artwork by Angela Dickerson has been featured in televis...
   Updated: 2026-10-27T18:31:14Z
 - [Featured Artist | Angela Dickerson](https://www.dickersoncollective.com/pages/angela-dickerson-artist): Dickerson Collective · Featured Artist Angela Dickerson Meet the Artist Angela Dickerson is a Los Angeles-area abstract and mixed-media artist know...
