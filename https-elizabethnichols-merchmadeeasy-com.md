@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-14T20:53:46Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:01:15.279Z
+- Updated At: 2026-11-14T00:55:41.057Z
 
 ## Products
 
@@ -60,7 +60,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Elizabeth Nichols Kiss and Tour Tee 100% Cotton](https://elizabethnichols.merchmadeeasy.com/products/kiss-and-tour-tee): Kiss and Tour Tee in white with front print and back print. 100% Cotton
-  Updated: 2026-10-30T22:42:58Z
+  Updated: 2026-11-09T15:13:56Z
   Vendor: Elizabeth Nichols
   Product Type: Apparel
   Availability: Available
@@ -84,10 +84,10 @@
 ## Collections
 
 - [Home page](https://elizabethnichols.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-31T11:27:27Z
+  Updated: 2026-11-10T12:24:32Z
   Total Products: 4
 - [Apparel](https://elizabethnichols.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-31T11:27:27Z
+  Updated: 2026-11-10T12:24:32Z
   Total Products: 3
 - [Accessories](https://elizabethnichols.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-03T11:29:55Z
@@ -99,7 +99,7 @@
   Updated: 2026-09-28T18:28:59Z
   Total Products: 0
 - [All](https://elizabethnichols.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-31T11:27:27Z
+  Updated: 2026-11-10T12:24:32Z
   Total Products: 4
 
 ## Store Pages
