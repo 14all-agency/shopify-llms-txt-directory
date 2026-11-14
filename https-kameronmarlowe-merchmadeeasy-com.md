@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2025-09-09T19:39:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T00:25:40.096Z
+- Updated At: 2026-11-14T00:26:22.776Z
 
 ## Products
 
 - [Sad Songs Text Hoodie](https://kameronmarlowe.merchmadeeasy.com/products/sad-songs-text-hoodie): Printed on a relaxed mid-weight 80% cotton/20% recycled polyester CVC fleece hoodie in green. Back design features puff ink.
-  Updated: 2026-10-25T21:36:36Z
+  Updated: 2026-11-13T19:27:55Z
   Vendor: Kameron Marlowe
   Product Type: Hoodie
   Availability: Available
@@ -81,7 +81,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Sad_Songs_Hat.png?v=1761324791
   Price: $40.00 USD
 - [Sad Songs for the Soul Vinyl](https://kameronmarlowe.merchmadeeasy.com/products/sad-songs-for-the-soul-vinyl): May take 1-2 weeks to ship Tracklist:1. Burning House2. Friend of Mine3. Hello Whiskey4. Here Lies the Fool5. Hungover You6. The Basement7. Highway Song8. How's the Leaving Going9. Dear God10. If You Stay Release Date: February 21, 2025
-  Updated: 2026-11-04T00:47:26Z
+  Updated: 2026-11-13T17:06:51Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
@@ -214,14 +214,14 @@
     Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/LM_TN_Crew_Red.png?v=1766011509
     Price: $60.00 USD
 - [Keepin' The Lights On - Vinyl](https://kameronmarlowe.merchmadeeasy.com/products/keepin-the-lights-on-vinyl): Tracklist: 911 Nothin' Slowin' Us Down On My Way Out Never Really Know Tennessee Don't Mind Leaning On You I Can Run High Hopes One That I Don't Call Lock Me Up Will It Be There in the Morning Quit You Smaller Strangers by Kameron Marlowe & Ella Langley Broke Down in a Truck Keepin' The Lights On Release Date: May 31, 2024
-  Updated: 2026-11-04T00:47:27Z
+  Updated: 2026-11-12T01:19:15Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_Unsigned_Lights_Vinyl.png?v=1767380672
   Price: $30.00 USD
 - [Est. 1997 Tee](https://kameronmarlowe.merchmadeeasy.com/products/est-1997-tee): 100% cotton t-shirt in ivory
-  Updated: 2026-10-25T21:36:36Z
+  Updated: 2026-11-09T17:36:17Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -274,7 +274,7 @@
     Availability: Available
     Price: $60.00 USD
 - [Marlowe's Bait & Tackle Tee](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-bait-tackle-tee): Open year round! 100% cotton, heavyweight unisex t-shirt in cream Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26 3XL 33 1/2 28
-  Updated: 2026-11-04T22:44:26Z
+  Updated: 2026-11-12T16:23:36Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -289,7 +289,7 @@
     Availability: Available
     Price: $40.00 USD
   - [XL](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-bait-tackle-tee?variant=46147548283033)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [2XL](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-bait-tackle-tee?variant=46147548315801)
     Availability: Available
@@ -298,7 +298,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Marlowe's Garage Tee](https://kameronmarlowe.merchmadeeasy.com/products/marlowes-garage-tee): 100% cotton, heavyweight unisex t-shirt in navy Size Chart Size Body Length (in) Chest Width (in) S 26 1/2 18 M 28 1/2 20 L 30 1/2 22 XL 31 1/2 24 2XL 32 1/2 26
-  Updated: 2026-11-03T19:03:15Z
+  Updated: 2026-11-11T02:26:25Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -340,7 +340,7 @@
     Availability: Available
     Price: $80.00 USD
 - [Duck Hoodie - Brown](https://kameronmarlowe.merchmadeeasy.com/products/duck-hoodie-brown): 80/20 ring-spun cotton/polyester hoodie in cocoa brown Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 20 34 M 29 22 35 L 30 24 36 XL 31 26 37 2XL 32 28 38
-  Updated: 2026-10-31T17:22:06Z
+  Updated: 2026-11-11T13:17:35Z
   Vendor: Kameron Marlowe
   Product Type: Hoodie
   Availability: Available
@@ -440,7 +440,7 @@
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KMAR_Logo_Koozie.png?v=1775834440
   Price: $5.00 USD
 - [Keepin' The Lights On - CD](https://kameronmarlowe.merchmadeeasy.com/products/keepin-the-lights-on-cd): Tracklist: 911 Nothin' Slowin' Us Down On My Way Out Never Really Know Tennessee Don't Mind Leaning On You I Can Run High Hopes One That I Don't Call Lock Me Up Will It Be There in the Morning Quit You Smaller Strangers by Kameron Marlowe & Ella Langley Broke Down in a Truck Keepin' The Lights On Release Date: May 31, 2024
-  Updated: 2026-11-04T19:40:17Z
+  Updated: 2026-11-13T02:06:37Z
   Vendor: Kameron Marlowe
   Product Type: CD
   Availability: Available
@@ -536,28 +536,28 @@
     Availability: Available
     Price: $125.00 USD
 - [Kameron Marlowe - Window Pane Crystal Clear Vinyl [SIGNED]](https://kameronmarlowe.merchmadeeasy.com/products/kameron-marlowe-window-pane-crystal-clear-vinyl): Please note: this is a pre-order item. Orders containing this item will ship on or around January 22, 2027. Kameron Marlowe’s self-titled album on crystal clear vinyl, personally signed by Kameron. Release Date: January 22, 2027
-  Updated: 2026-11-05T04:30:26Z
+  Updated: 2026-11-13T17:06:55Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_SelfTitled_Signed_VinylMockup_2000x2000-2.png?v=1790801645
   Price: $36.98 USD
 - [Kameron Marlowe - Exclusive Candy Apple Red Vinyl [SIGNED]](https://kameronmarlowe.merchmadeeasy.com/products/kameron-marlowe-exclusive-candy-apple-red-vinyl): Please note: this is a pre-order item. Orders containing this item will ship on or around January 22, 2027. Kameron Marlowe’s self-titled album on an exclusive candy apple red vinyl, personally signed by Kameron. Release Date: January 22, 2027
-  Updated: 2026-11-06T22:02:45Z
+  Updated: 2026-11-13T23:49:56Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_SelfTitled_ExclusiveRed_SignedVinylMockup_2000x2000_V2.png?v=1790801644
   Price: $36.98 USD
 - [Kameron Marlowe - CD [SIGNED]](https://kameronmarlowe.merchmadeeasy.com/products/kameron-marlowe-cd-signed): Please note: this is a pre-order item. Orders containing this item will ship on or around January 22, 2027. Kameron Marlowe’s self-titled album on CD, personally signed by Kameron Release Date: January 22, 2027
-  Updated: 2026-11-05T16:13:57Z
+  Updated: 2026-11-13T18:11:16Z
   Vendor: Kameron Marlowe
   Product Type: Vinyl
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0695/2753/5769/files/KM_SelfTitled_SignedCD_2000x2000-2.png?v=1790801645
   Price: $11.98 USD
 - [Vintage Signature Tee](https://kameronmarlowe.merchmadeeasy.com/products/vintage-signature-tee): Please note: this is a pre-order item. Orders containing this item will ship in 4-6 weeks. 100% cotton, heavyweight boxy fit t-shirt in vintage black.
-  Updated: 2026-11-02T14:59:26Z
+  Updated: 2026-11-13T16:20:56Z
   Vendor: Kameron Marlowe
   Product Type: T-Shirt
   Availability: Available
@@ -608,43 +608,43 @@
 ## Collections
 
 - [Home page](https://kameronmarlowe.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 57
 - [Apparel](https://kameronmarlowe.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-05T12:20:34Z
+  Updated: 2026-11-12T12:18:40Z
   Total Products: 34
 - [Accessories](https://kameronmarlowe.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-05T12:20:34Z
+  Updated: 2026-11-07T12:19:09Z
   Total Products: 14
 - [All](https://kameronmarlowe.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 58
 - [Best Sellers](https://kameronmarlowe.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 58
 - [](https://kameronmarlowe.merchmadeeasy.com/collections/)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 58
 - [Music](https://kameronmarlowe.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 8
 - [Sad Songs for the Soul](https://kameronmarlowe.merchmadeeasy.com/collections/sad-songs-for-the-soul)
-  Updated: 2026-11-04T12:15:33Z
+  Updated: 2026-11-12T12:18:40Z
   Total Products: 6
 - [$10 & Under](https://kameronmarlowe.merchmadeeasy.com/collections/20-26)
-  Updated: 2026-11-01T12:15:56Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 4
 - [2026 Tour Merch](https://kameronmarlowe.merchmadeeasy.com/collections/2026-tour-merch)
-  Updated: 2026-11-05T12:20:34Z
+  Updated: 2026-11-12T12:18:40Z
   Total Products: 10
 - [$20](https://kameronmarlowe.merchmadeeasy.com/collections/10-under-copy)
-  Updated: 2026-11-05T12:20:34Z
+  Updated: 2026-11-10T12:15:15Z
   Total Products: 3
 - [$30](https://kameronmarlowe.merchmadeeasy.com/collections/20-copy)
-  Updated: 2026-11-04T12:15:33Z
+  Updated: 2026-11-12T12:18:40Z
   Total Products: 14
 - [$40 & Above](https://kameronmarlowe.merchmadeeasy.com/collections/30-copy)
-  Updated: 2026-11-05T12:20:34Z
+  Updated: 2026-11-12T12:18:40Z
   Total Products: 27
 - [Birthday Drop](https://kameronmarlowe.merchmadeeasy.com/collections/birthday-drop)
   Updated: 2026-10-27T11:16:40Z
@@ -653,7 +653,7 @@
   Updated: 2026-10-15T11:20:48Z
   Total Products: 4
 - [Kameron Marlowe](https://kameronmarlowe.merchmadeeasy.com/collections/kameron-marlowe)
-  Updated: 2026-11-06T12:18:19Z
+  Updated: 2026-11-13T12:18:56Z
   Total Products: 6
 
 ## Store Pages
