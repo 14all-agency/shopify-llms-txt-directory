@@ -83,86 +83,86 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2026-02-20T20:48:59Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:14:18.717Z
+- Updated At: 2026-11-14T01:31:21.275Z
 
 ## Products
 
 - [Bear Portal Hoodie](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie): 80/20 cotton/recycled polyester hoodie in army green
-  Updated: 2026-10-05T13:05:26Z
+  Updated: 2026-11-14T01:24:20Z
   Vendor: Mae Martin
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9081/0102/files/MAEM_0000_167058_1_307299_d-_1.png?v=1772646833
   - [S](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080406962422)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
   - [M](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080406995190)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
   - [L](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080407027958)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
   - [XL](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080407060726)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
   - [2XL](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080407093494)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
   - [3XL](https://maemartin.merchmadeeasy.com/products/bear-portal-hoodie?variant=50080407126262)
     Availability: Available
-    Price: $65.00 USD
+    Price: $39.00 USD
 - [Bear Portal Tour Tee](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee): 50% cotton / 50% polyester tee in black
-  Updated: 2026-10-05T13:05:27Z
+  Updated: 2026-11-12T15:29:06Z
   Vendor: Mae Martin
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9081/0102/files/MAEM_0002_167057_1_307298_d.png?v=1772646833
   - [S](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434127094)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [M](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434159862)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [L](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434192630)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [XL](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434225398)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [2XL](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434258166)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
   - [3XL](https://maemartin.merchmadeeasy.com/products/bear-portal-tour-tee?variant=50080434290934)
     Availability: Available
-    Price: $40.00 USD
+    Price: $24.00 USD
 - [Bear Portal Hat](https://maemartin.merchmadeeasy.com/products/bear-portal-hat): 100% cotton twill 6-panel hat with adjustable hook-and-loop closure
-  Updated: 2026-10-05T13:05:27Z
+  Updated: 2026-11-12T15:29:05Z
   Vendor: Mae Martin
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9081/0102/files/MAEM_0004_166965_1_307101_d-_1.png?v=1772646832
-  Price: $40.00 USD
+  Price: $24.00 USD
 - [The Possum Tour Poster](https://maemartin.merchmadeeasy.com/products/the-possum-tour-poster): 18x24" poster
-  Updated: 2026-10-05T13:05:28Z
+  Updated: 2026-11-12T14:47:06Z
   Vendor: Mae Martin
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0794/9081/0102/files/MAEM_Poster.png?v=1772649232
-  Price: $10.00 USD
+  Price: $6.00 USD
 
 ## Collections
 
 - [Home page](https://maemartin.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-09-30T11:29:58Z
+  Updated: 2026-11-13T12:24:45Z
   Total Products: 4
 - [Apparel](https://maemartin.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-09-30T11:29:58Z
+  Updated: 2026-11-13T12:24:45Z
   Total Products: 2
 - [Accessories](https://maemartin.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-06-16T12:24:35Z
+  Updated: 2026-11-13T12:24:45Z
   Total Products: 2
 - [All](https://maemartin.merchmadeeasy.com/collections/all)
-  Updated: 2026-09-30T11:29:58Z
+  Updated: 2026-11-13T12:24:45Z
   Total Products: 4
 
 ## Store Pages
