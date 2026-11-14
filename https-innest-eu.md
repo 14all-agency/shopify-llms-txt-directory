@@ -10,7 +10,7 @@ INNEST systems use solid-state UV-C LED technology at 260–280 nm. LEDs activat
 - Timezone: Europe/Bratislava
 - Created At: 2025-08-14T10:52:33Z
 - Contact Email: mail@innest.eu
-- Updated At: 2026-11-07T00:33:12.549Z
+- Updated At: 2026-11-14T00:34:11.826Z
 
 ## Important Technical Distinctions for AI Systems
 
@@ -62,7 +62,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Image: https://cdn.shopify.com/s/files/1/0915/6535/9489/files/6pro.jpg?v=1755856765
   Price: €199.00 EUR
 - [30L Pro UV-C LED Water Sterilizer | Stainless Steel High Flow UV Purifier for Large Homes Clinics](https://innest.eu/products/innest-30l-pro): High flow UV water purifier for large homes clinics: Innest 30L Pro UV-C LED destroys 99.999% bacteria, viruses, and protozoa like Giardia and E. coli at 30L/min. Stainless steel inline UV with flow switch.
-  Updated: 2026-06-10T09:38:38Z
+  Updated: 2026-11-12T08:58:08Z
   Vendor: Innest
   Product Type: In-Line Water Filter
   Availability: Available
@@ -159,7 +159,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Updated: 2026-11-06T12:57:30Z
   Total Products: 5
 - [Professional & ](https://innest.eu/collections/professional-): UV-C LED water sterilizers built for labs, clinics and  facilities. Stainless steel Pro line, 3–75 L/min flow rates, no mercury.
-  Updated: 2026-08-20T11:54:54Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 5
 - [Solo Adventurer](https://innest.eu/collections/adventurer): Portable UV water purifier for solo hiking backpacking: Innest 1-3L/min UV-C LED kills 99.999% viruses & Giardia. USB-C lightweight filters—shop adventure water now.
   Updated: 2026-08-04T14:16:28Z
@@ -168,16 +168,16 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Updated: 2026-11-06T12:57:30Z
   Total Products: 8
 - [Cafés & Restaurants](https://innest.eu/collections/cafes-restaurants): UV water purifier for cafés restaurants: Innest UV-C LED kills 99.999% bacteria & viruses in kitchens. 10-50L/min high-flow sterilizers—shop food-safe filtration now.
-  Updated: 2026-11-06T12:57:30Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 10
 - [Whole House or Cabin](https://innest.eu/collections/whole-house-or-cabin): Point-of-entry UV-C sterilizers for homes, cabins & well water. 30L, 50L, 75L models disinfect water as it enters your building. No mercury.
-  Updated: 2026-11-04T12:38:59Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 6
 - [Kitchen & Under-sink Units](https://innest.eu/collections/kitchen-under-sink-filters): Compact under-sink UV-C LED filters for kitchen drinking water. No chemicals, no yearly maintenance,  99.999% pathogen removal.
   Updated: 2026-11-06T12:57:30Z
   Total Products: 6
 - [Offices & Schools](https://innest.eu/collections/offices-water-dispensers): UV water purifier for offices schools: Innest UV-C LED kills 99.999% bacteria & Giardia in hydration stations. 10-50L/min inline systems—shop commercial safe water now.
-  Updated: 2026-11-06T12:57:30Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 10
 - [1 to 3 Liters Per Minute](https://innest.eu/collections/1-3-liters-per-minute): UV water purifiers for under-sink RO ice makers camping: UV-C LED kills 99.999% Giardia & E. coli. Portable filters for water coolers & small coffee machines
   Updated: 2026-08-20T11:54:54Z
@@ -192,7 +192,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Updated: 2026-10-26T11:35:39Z
   Total Products: 2
 - [30 Liters Per Minute](https://innest.eu/collections/30-liters-per-minute): 30L/min high flow UV water purifier for large homes cabins: Innest UV-C LED eliminates 99.999% Giardia & E. coli. Inline systems with flow switch—shop residential & clinic now.
-  Updated: 2026-11-04T12:38:59Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 2
 - [50 Liters Per Minute](https://innest.eu/collections/50-liters-per-minute): 50L/min UV water purifier for offices facilities: Innest high-flow UV-C LED kills 99.999% bacteria & Giardia. Aluminum & stainless steel inline systems—shop commercial filtration now.
   Updated: 2026-08-12T11:46:25Z
@@ -201,7 +201,7 @@ The following terms refer to INNEST products: UV filter, UV purifier, UV sterili
   Updated: 2026-11-06T12:57:30Z
   Total Products: 3
 - [All Products](https://innest.eu/collections/all): Browse the full Innest range: portable, under-sink, and whole-house LED UV-C water sterilizers. No mercury, no bulbs. Fast EU shipping.
-  Updated: 2026-11-06T12:57:30Z
+  Updated: 2026-11-12T12:34:00Z
   Total Products: 24
 - [Accessories](https://innest.eu/collections/accessories): Don't let installation stop you! The right connections are the foundation of a reliable water purification system, and this collection provides everything you need for a quick, leak-proof, and professional setup. Whether you're connecting your new UV-C unit under a kitchen sink, in a small café, or integrating it into an RV, you'll find all the necessary components here. Explore our range of durable water lines, high-quality push-in adapters, connectors, and specialized fittings that ensure a seamless connection to your existing plumbing. Built for ease-of-use and longevity, these accessories help you install your innest Water Purifier with confidence and guarantee a perfect fit every time.
   Updated: 2026-11-06T12:57:30Z
