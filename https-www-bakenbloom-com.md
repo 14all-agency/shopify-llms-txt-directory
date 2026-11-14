@@ -8,7 +8,7 @@
 - Contact Email: cre8itmedia@gmail.com
 - Contact Phone: +919741140150
 - Address: residency road
-- Updated At: 2026-11-07T01:09:19.919Z
+- Updated At: 2026-11-14T01:32:37.485Z
 
 ## Products
 
@@ -3096,7 +3096,7 @@ Looking for 15 red roses near you? Order fresh red rose bouquet online with fast
 - [Buy Cakes Online in Bangalore | Fresh Eggless Cakes & Same-Day Delivery](https://www.bakenbloom.com/collections/buy-cakes-online): Delight in our delicious range of cakes online in Bangalore — from fresh eggless cakes, designer cakes, birthday cakes, anniversary cakes, wedding cakes, bento cakes to premium celebration cakes. Enjoy same-day cake delivery in Bangalore, easy online ordering, and handcrafted flavors for every special moment.
 
 Whether you’re searching for the perfect birthday cake, a romantic love cake, elegant wedding cake, or fun kids cake, our online cake shop has something for every occasion. Choose from classic favourites, designer cakes, tier cakes, and bento cakes — all available with same-day cake delivery in Bangalore for your convenience.
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 103
 - [Order Flowers Online | Fresh Flower Delivery Near You](https://www.bakenbloom.com/collections/online-flower-delivery-in-bangalore): Order flowers online with fast flower delivery near you. Send fresh rose, sunflower, lily & tulip bouquets for birthdays, anniversaries & weddings.
   Updated: 2026-11-05T12:11:54Z
@@ -3108,31 +3108,31 @@ Whether you’re searching for the perfect birthday cake, a romantic love cake, 
   Updated: 2026-08-17T11:16:13Z
   Total Products: 36
 - [Minis](https://www.bakenbloom.com/collections/minis): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 34
 - [Mothers Day](https://www.bakenbloom.com/collections/mothers-day-1): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 84
 - [Flavours](https://www.bakenbloom.com/collections/flavours): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 116
 - [Chocolate](https://www.bakenbloom.com/collections/chocolate): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 55
 - [Butterscotch](https://www.bakenbloom.com/collections/butterscotch): - Bake N Bloom
-  Updated: 2026-10-08T11:18:26Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 38
 - [Black Forest](https://www.bakenbloom.com/collections/black-forest): - Bake N Bloom
-  Updated: 2026-10-08T11:18:26Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 39
 - [Vanilla](https://www.bakenbloom.com/collections/vanilla): - Bake N Bloom
-  Updated: 2026-10-31T11:14:45Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 45
 - [Pineapple](https://www.bakenbloom.com/collections/pineapple): - Bake N Bloom
-  Updated: 2026-10-31T11:14:45Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 48
 - [Red Velvet](https://www.bakenbloom.com/collections/red-velvet): - Bake N Bloom
-  Updated: 2026-10-31T11:14:45Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 39
 - [Fruit](https://www.bakenbloom.com/collections/fruit): - Bake N Bloom
   Updated: 2026-09-15T09:07:42Z
@@ -3144,28 +3144,28 @@ Whether you’re searching for the perfect birthday cake, a romantic love cake, 
   Updated: 2026-04-24T06:32:27Z
   Total Products: 1
 - [White Forest](https://www.bakenbloom.com/collections/white-forest): - Bake N Bloom
-  Updated: 2026-10-31T11:14:45Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 41
 - [Mango](https://www.bakenbloom.com/collections/mango): - Bake N Bloom
   Updated: 2026-09-15T09:07:44Z
   Total Products: 10
 - [By Type](https://www.bakenbloom.com/collections/by-type): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 116
 - [Best Seller](https://www.bakenbloom.com/collections/best-seller): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 97
 - [Bento Cakes – Cute Mini Cakes | Order Online Near You](https://www.bakenbloom.com/collections/bento-cake): Discover adorable bento cakes in every flavour. Affordable bento cake price, custom messages & same-day delivery. Order your bento cakery treat today!
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 19
 - [Designer Cake](https://www.bakenbloom.com/collections/designer-cake): - Bake N Bloom
-  Updated: 2026-09-23T06:33:52Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 27
 - [Wedding Cake](https://www.bakenbloom.com/collections/wedding-cake): - Bake N Bloom
   Updated: 2026-09-23T06:33:52Z
   Total Products: 8
 - [Premium Cake](https://www.bakenbloom.com/collections/premium-cake): - Bake N Bloom
-  Updated: 2026-09-23T06:33:52Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 25
 - [Kids Cake](https://www.bakenbloom.com/collections/kids-cake): - Bake N Bloom
   Updated: 2026-09-23T06:39:14Z
@@ -3174,19 +3174,19 @@ Whether you’re searching for the perfect birthday cake, a romantic love cake, 
   Updated: 2026-09-23T06:33:52Z
   Total Products: 5
 - [By Occasions](https://www.bakenbloom.com/collections/by-occasions): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 116
 - [Birthday Cake Online | Birthday Cake Delivery Near Me](https://www.bakenbloom.com/collections/birthday-cake): Buy birthday cake online for your special celebration. Order delicious birthday cakes near me with fast birthday cake delivery. Explore fresh birthday cakes and order online today.
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 114
 - [Anniversary Cake](https://www.bakenbloom.com/collections/anniversary-cake): - Bake N Bloom
-  Updated: 2026-10-31T11:14:45Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 105
 - [Engagement Cake](https://www.bakenbloom.com/collections/engagement-cake): - Bake N Bloom
-  Updated: 2026-09-23T06:33:52Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 38
 - [Baby Shower Cake](https://www.bakenbloom.com/collections/baby-shower-cake): - Bake N Bloom
-  Updated: 2026-09-15T09:07:44Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 21
 - [Buy Romantic Cake Online -- Online cake delivery Bangalore](https://www.bakenbloom.com/collections/love-cake): Looking for the best cake shop in Bangalore to make your celebrations extra special? We offer a wide range of online cakes Bangalore customers love, crafted with premium ingredients and designed to suit every occasion. Whether you need fresh cakes Bangalore for birthdays, anniversaries, or surprises, our collection has something perfect for everyone.
 
@@ -3194,7 +3194,7 @@ With our reliable cake delivery Bangalore service, you can enjoy hassle-free ord
 
 Celebrate love and special moments with beautifully designed cakes—now you can easily buy romantic cake online and create unforgettable memories.
 Looking for the best cake shop in Bangalore to make your celebrations extra special? We offer a wide range of online cakes Bangalore customers love, crafted with premium ingredients and designed to suit every occasion. Whether you need fresh cakes Bangalore for birthdays, anniversaries, or surprises, our collection has something perfect for everyone.
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 40
 - [Type Of Flower](https://www.bakenbloom.com/collections/type-of-flower): - Bake N Bloom
   Updated: 2026-11-05T12:11:54Z
@@ -3335,22 +3335,22 @@ Looking for the best cake shop in Bangalore to make your celebrations extra spec
   Updated: 2026-11-05T12:11:54Z
   Total Products: 36
 - [Anniversary](https://www.bakenbloom.com/collections/anniversary)
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 251
 - [Bake N Bloom for Birthday Cake](https://www.bakenbloom.com/collections/birthday): Order cake online in Bangalore from Bake N Bloom. Fresh birthday cakes, chocolate & red velvet with same day cake delivery near you.
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 254
 - [Wedding Gifts - Unique & Thoughtful Gifts for Couples](https://www.bakenbloom.com/collections/collections-wedding-cakes-and-flowers-gifts-online): Shop unique wedding gifts for the perfect couple. Personalized, elegant & thoughtful gift ideas to celebrate their big day. Free shipping available..
-  Updated: 2026-10-08T11:18:26Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 98
 - [Add On Chocolate](https://www.bakenbloom.com/collections/add-on-chocolate): - Bake N Bloom
   Updated: 2026-06-11T12:13:40Z
   Total Products: 4
 - [Fathers Day](https://www.bakenbloom.com/collections/fathers-day): - Bake N Bloom
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-09T12:12:34Z
   Total Products: 92
 - [Same Day Cake Delivery in Bangalore | Bake N Bloom](https://www.bakenbloom.com/collections/same-day-cake-delivery-in-bangalore): Order cakes online in Bangalore with same day cake delivery. Fresh eggless birthday, chocolate, bento & premium cakes delivered across Bangalore.
-  Updated: 2026-11-05T12:11:54Z
+  Updated: 2026-11-10T12:12:13Z
   Total Products: 83
 - [Subscription](https://www.bakenbloom.com/collections/subscription)
   Updated: 2026-08-12T08:36:37Z
