@@ -8,7 +8,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-03-10T03:15:18Z
 - Contact Email: david@kingandqueengames.com
-- Updated At: 2026-11-07T00:43:41.719Z
+- Updated At: 2026-11-14T00:45:13.909Z
 
 King And Queen Games, llc
 
@@ -1696,8 +1696,8 @@ King And Queen Games, llc
   Updated: 2026-08-01T05:27:10Z
   Total Products: 3
 - [Union Arena](https://kingandqueengames.com/collections/union-arena): Experience the Excitement of Union Arena Bleach: Thousand-Year Blood War, Bleach: Thousand-Year Blood War Vol.2, Code Geass, Fullmetal Alchemist Union Arena is a Fun card game to play the boosterboxes have A variety of characters from anime TV shows. - King And Queen Games
-  Updated: 2026-08-01T05:17:36Z
-  Total Products: 2
+  Updated: 2026-11-13T19:06:57Z
+  Total Products: 3
 - [Graded Yu-Gi-Oh Cards](https://kingandqueengames.com/collections/graded-yu-gi-oh-cards): Discover the Value of Graded Yu-Gi-Oh Cards YuGiOh Cards Graded from PSA,CGC,BECKETT The Benefits of Collecting Graded Cards One of the biggest advantages of collecting graded Yu-Gi-Oh cards is the assurance of quality. Collectors often feel more confident purchasing graded cards because they know what they are buying. Moreover, graded cards can be easier to , as they attract more serious buyers due to their  condition. Many collectors enjoy the challenge of completing sets with graded cards, which can often be a rewarding experience. Whether you are a casual player or a dedicated collector, grading adds an element of prestige to your - King And Queen Games
   Updated: 2026-08-01T05:17:16Z
   Total Products: 4
@@ -2036,6 +2036,12 @@ King And Queen Games, llc
     Author: King And Queen Games
   - [Understanding the Popularity of Chinese Pokemon Cards and How They Compare to Other Markets](https://kingandqueengames.com/blogs/news/understanding-the-popularity-of-chinese-pokemon-cards-and-how-they-compare-to-other-markets): Understanding the Popularity of Chinese Pokemon Cards and How They Compare to Other Markets
     Updated: 2026-11-06T00:23:22Z
+    Author: King And Queen Games
+  - [Step-by-Step Guide to Successfully Buying Japanese Pokemon Booster Boxes in the USA](https://kingandqueengames.com/blogs/news/step-by-step-guide-to-successfully-buying-japanese-pokemon-booster-boxes-in-the-usa): Step-by-Step Guide to Successfully Buying Japanese Pokemon Booster Boxes in the USA
+    Updated: 2026-11-09T00:47:27Z
+    Author: King And Queen Games
+  - [Exploring Japanese versus Chinese Booster Boxes Which is Right for You?](https://kingandqueengames.com/blogs/news/exploring-japanese-versus-chinese-booster-boxes-which-is-right-for-you): Exploring Japanese versus Chinese Booster Boxes Which is Right for You?
+    Updated: 2026-11-13T00:21:19Z
     Author: King And Queen Games
 
 ## Store Pages
