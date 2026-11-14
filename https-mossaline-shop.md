@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-28T13:02:33Z
 - Contact Email: yasarrolande561@gmail.com
-- Updated At: 2026-11-06T18:35:11.362Z
+- Updated At: 2026-11-14T01:06:01.309Z
 
 ## Products
 
@@ -1547,6 +1547,15 @@
   - [Cozy Cottage Decor Ideas: Enhancing Your Space with Mossaline™ Cylinder Willow Floor Lantern](https://mossaline.shop/blogs/news/cozy-cottage-decor-ideas-enhancing-your-space-with-mossaline™-cylinder-willow-floor-lantern): Cozy Cottage Decor Ideas: Enhancing Your Space with Mossaline™ Cylinder Willow Floor Lantern
     Updated: 2026-11-06T18:33:41Z
     Author: Mossaline
+  - [10 Cozy Cottage Decor Ideas with Mossaline™ Sienna Glass Flameless Candle for a Warm Fall Revamp](https://mossaline.shop/blogs/news/10-cozy-cottage-decor-ideas-with-mossaline™-sienna-glass-flameless-candle-for-a-warm-fall-revamp): 10 Cozy Cottage Decor Ideas with Mossaline™ Sienna Glass Flameless Candle for a Warm Fall Revamp
+    Updated: 2026-11-09T11:05:55Z
+    Author: Mossaline
+  - [Mossaline Mushroom Spray and White Fern Faux Vase Bundle for a Cozy Cottagecore Home Decor Makeover](https://mossaline.shop/blogs/news/mossaline-mushroom-spray-and-white-fern-faux-vase-bundle-for-a-cozy-cottagecore-home-decor-makeover): Mossaline Mushroom Spray and White Fern Faux Vase Bundle for a Cozy Cottagecore Home Decor Makeover
+    Updated: 2026-11-10T11:05:08Z
+    Author: Mossaline
+  - [Cottagecore Home Decor Inspiration Featuring the Mossaline Soft Touch White Fern for Cozy Autumn Styling](https://mossaline.shop/blogs/news/cottagecore-home-decor-inspiration-featuring-the-mossaline-soft-touch-white-fern-for-cozy-autumn-styling): Cottagecore Home Decor Inspiration Featuring the Mossaline Soft Touch White Fern for Cozy Autumn Styling
+    Updated: 2026-11-11T11:05:40Z
+    Author: Mossaline
 
 ## Store Pages
 
@@ -1570,7 +1579,7 @@
 - [Terms of Service](https://mossaline.shop/policies/terms-of-service)
   Updated: 2026-10-27T19:07:40Z
 - [Contact Information](https://mossaline.shop/policies/contact-information)
-  Updated: 2026-10-27T18:28:29Z
+  Updated: 2026-11-13T02:36:31Z
 
 ## Optional
 
