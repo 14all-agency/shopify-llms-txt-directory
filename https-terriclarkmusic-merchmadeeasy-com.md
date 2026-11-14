@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2018-08-24T17:42:38Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T00:17:02.219Z
+- Updated At: 2026-11-14T00:19:38.850Z
 
 ## Products
 
@@ -321,7 +321,7 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Limited Edition Signed ‘Raising the Bar’ Vinyl](https://terriclarkmusic.merchmadeeasy.com/products/signed-raising-the-bar-vinyl-featuring-one-drink-ago-with-dallas-smith): Order the signed, double vinyl release of 'Raising the Bar.' In addition to the full studio album, this limited edition release includes the hit duet “One Drink Ago” with Dallas Smith. Release date: 10/4/19 Side 11. Givin' Up Givin' A Damn 2. Cowboys In This Town 3. Weddings, Funerals, and Empty Hotel Bars 4. Young As We Are Tonight Side 25. Half A Bottle Down6. Bloody Mary Morning7. Watered Down Whiskey Side 38. As Long As There’s A Bar9. Right Where You Left Me10. You Can have this Town11. The One That Got Away Featuring Drake White Side 412. The Encore13. Better Than I Was14. One Drink Ago with Dallas Smith
-  Updated: 2026-11-02T00:01:35Z
+  Updated: 2026-11-13T16:44:16Z
   Vendor: Terri Clark
   Product Type: No 
   Availability: Available
@@ -374,7 +374,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/products/its-christmas-cheers-vinyl_Terri-Clark.png?v=1657058222
   Price: $20.00 USD
 - [It’s Christmas…Cheers! SIGNED Vinyl](https://terriclarkmusic.merchmadeeasy.com/products/signed-it-s-christmas-cheers-vinyl): “It’s Christmas…Cheers!” vinyl signed by Terri Clark. Album includes 10 holiday tracks featuring special guests Vince Gill, Dierks Bentley, The Oak Ridge Boys, Ricky Skaggs, Pam Tillis, and Suzy Bogguss Green vinyl This item does not include a digital download version of the album. It’s Christmas… Cheers! Track Listing: 1)- Winter Wonderland 2)- Jingle Bells 3)- The Christmas Song (Chestnuts Roasting On An Open Fire) 4)- I’ll Be Home For Christmas 5)- Cowboy Christmas (featuring Ricky Skaggs) 6)- Let It Snow! Let It Snow! Let It Snow! (with Dierks Bentley) 7)- Silent Night (featuring Vince Gill) 8)- Up On The Housetop 9)- Silver Bells (featuring The Oak Ridge Boys) 10)- Away In A Manager (with Pam Tillis & Suzy Bogguss)
-  Updated: 2026-10-28T18:46:51Z
+  Updated: 2026-11-10T03:19:26Z
   Vendor: Terri Clark
   Product Type: Music
   Availability: Available
@@ -409,7 +409,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/products/TC-logo-black-face-mask_Terri-Clark.jpg?v=1657121304
   Price: $8.00 USD
 - [TC Logo Lapel Pin](https://terriclarkmusic.merchmadeeasy.com/products/tc-lapel-pin): Purple lapel pin featuring "TC" logo
-  Updated: 2026-11-03T23:07:46Z
+  Updated: 2026-11-10T03:19:26Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
@@ -544,21 +544,21 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/dIRTYGirlHat.png?v=1706286836
   Price: $30.00 USD
 - [Promoting Bad Behavior Koozie](https://terriclarkmusic.merchmadeeasy.com/products/promoting-bad-behavior-koozie): Terri Clark graphic on a black koozie Promoting Bad Behavior graphic on the other side Fits 12oz cans
-  Updated: 2026-10-28T18:46:55Z
+  Updated: 2026-11-10T03:19:26Z
   Vendor: Terri Clark
   Product Type: Koozie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/TCkoozie.png?v=1694024888
   Price: $5.00 USD
 - [Terri Clark Christmas Ornament](https://terriclarkmusic.merchmadeeasy.com/products/christmas-ornament): Limited edition Distressed Brown Size: 4 1/2" W x 5" H
-  Updated: 2026-10-28T18:46:55Z
+  Updated: 2026-11-09T15:22:36Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/products/ornament.png?v=1669049178
   Price: $12.00 USD
 - [Canada Christmas Tour Tee](https://terriclarkmusic.merchmadeeasy.com/products/canada-christmas-tour-tee): Black speckled t-shirt featuring Canadian 2022 tour stops on the back Unisex
-  Updated: 2026-11-04T14:42:26Z
+  Updated: 2026-11-10T03:19:27Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -579,7 +579,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Terri Clark's Holiday Long Sleeve Tee](https://terriclarkmusic.merchmadeeasy.com/products/holiday-long-sleeve): Get in the holiday spirit with Terri Clark's holiday long sleeve tee! Unisex Black
-  Updated: 2026-11-05T04:39:46Z
+  Updated: 2026-11-10T03:19:26Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -648,14 +648,14 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Terri_3_3093d3a9-137d-4405-ba6e-d1a34dc2e875.png?v=1708019102
   Price: $35.00 USD
 - [Fearless Keychain](https://terriclarkmusic.merchmadeeasy.com/products/fearless-keychain): Fearless Keychain featuring Terri Clark
-  Updated: 2026-11-05T11:14:49Z
+  Updated: 2026-11-07T12:24:36Z
   Vendor: Terri Clark Music
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/FearlessKeychain.png?v=1706287189
   Price: $5.00 USD
 - [Terri Clark Guitar Pick 6 Pack](https://terriclarkmusic.merchmadeeasy.com/products/terri-clark-guitar-pick-6-pack): Grab a 6 pack of custom Terri Clark guitar picks! Featuring Terri Clark's logo on one side and her silhouette on the reverse, these picks come in a variety of colors.
-  Updated: 2026-11-03T23:07:46Z
+  Updated: 2026-11-09T15:22:35Z
   Vendor: Terri Clark
   Product Type: Accessories
   Availability: Available
@@ -844,7 +844,7 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/TC-Wine-Bag.png?v=1759344634
   Price: $10.00 USD
 - [Lightning Vintage Photo Tee](https://terriclarkmusic.merchmadeeasy.com/products/lightning-vintage-photo-tee): Terri Clark photo in black and white with lightning graphic 100% cotton Unisex fit
-  Updated: 2026-10-28T18:47:01Z
+  Updated: 2026-11-10T15:20:02Z
   Vendor: Terri Clark
   Product Type: Apparel
   Availability: Available
@@ -895,13 +895,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockups_0000_Girls-Lie-Too-Hat.png?v=1783523953
   Price: $45.00 USD
-- [Live From The Ryman Double CD (Signed)](https://terriclarkmusic.merchmadeeasy.com/products/live-from-the-ryman-signed-cd): ONLY 100 AVAILABLE. Live album recorded at The Ryman in Nashville, Tn. Insert signed by Terri Clark.
-  Updated: 2026-11-06T04:27:46Z
-  Vendor: Terri Clark
-  Product Type: Music
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/Mockup_0002_TC-live-from-the-ryman-double-cd-signed.png?v=1787599393
-  Price: $25.00 USD
 - [Terri and Paul Tour Koozie](https://terriclarkmusic.merchmadeeasy.com/products/terri-and-paul-tour-koozie): Black Fits 12oz cans
   Updated: 2026-10-28T18:47:02Z
   Vendor: Terri Clark
@@ -1001,14 +994,14 @@
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/PNG_Terri_Koozie.png?v=1787764663
   Price: $5.00 USD
 - [Live From The Ryman Double CD](https://terriclarkmusic.merchmadeeasy.com/products/live-from-the-ryman-double-cd): ONLY 100 AVAILABLE. Live album recorded at The Ryman in Nashville, Tn. Insert signed by Terri Clark.
-  Updated: 2026-11-06T17:12:06Z
+  Updated: 2026-11-07T03:52:06Z
   Vendor: Terri Clark
   Product Type: Music
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0027/5516/6320/files/TCLFTRCD.png?v=1788446673
   Price: $15.00 USD
 - [Live From The Ryman Vinyl 2LP](https://terriclarkmusic.merchmadeeasy.com/products/live-from-the-ryman-vinyl-2lp): ONLY 100 AVAILABLE. Live album recorded at The Ryman in Nashville, Tn. Signed by Terri Clark.
-  Updated: 2026-11-04T17:45:55Z
+  Updated: 2026-11-13T01:20:03Z
   Vendor: Terri Clark
   Product Type: Vinyl
   Availability: Available
@@ -1018,34 +1011,34 @@
 ## Collections
 
 - [Official Merch](https://terriclarkmusic.merchmadeeasy.com/collections/official-merch)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 90
 - [Apparel](https://terriclarkmusic.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 48
 - [Accessories](https://terriclarkmusic.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 48
 - [Music](https://terriclarkmusic.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 25
 - [Hats](https://terriclarkmusic.merchmadeeasy.com/collections/hats)
   Updated: 2026-11-03T12:05:11Z
   Total Products: 15
 - [Featured](https://terriclarkmusic.merchmadeeasy.com/collections/featured)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 19
 - [All Products](https://terriclarkmusic.merchmadeeasy.com/collections/all-products)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 131
 - [T-Shirts](https://terriclarkmusic.merchmadeeasy.com/collections/t-shirts)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 40
 - [Hoodies](https://terriclarkmusic.merchmadeeasy.com/collections/hoodies)
   Updated: 2026-11-05T12:06:30Z
   Total Products: 5
 - [Drinkware](https://terriclarkmusic.merchmadeeasy.com/collections/drinkware)
-  Updated: 2026-10-22T11:08:16Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 11
 - [Posters](https://terriclarkmusic.merchmadeeasy.com/collections/posters)
   Updated: 2026-09-02T11:06:37Z
@@ -1054,7 +1047,7 @@
   Updated: 2026-07-08T20:17:29Z
   Total Products: 3
 - [CDs](https://terriclarkmusic.merchmadeeasy.com/collections/cds)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 16
 - [Digital Albums](https://terriclarkmusic.merchmadeeasy.com/collections/digital-albums)
   Updated: 2026-07-08T20:17:29Z
@@ -1063,46 +1056,46 @@
   Updated: 2026-07-08T20:17:30Z
   Total Products: 0
 - [All](https://terriclarkmusic.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 131
 - [](https://terriclarkmusic.merchmadeeasy.com/collections/)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 27
 - [ NOT Exempt](https://terriclarkmusic.merchmadeeasy.com/collections/-not-exempt)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 72
 - [2022 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2022-tour-collection)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 16
 - [Merch](https://terriclarkmusic.merchmadeeasy.com/collections/merch)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 111
 - [Best Sellers](https://terriclarkmusic.merchmadeeasy.com/collections/best-sellers)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 23
 - [Cold Weather Collection](https://terriclarkmusic.merchmadeeasy.com/collections/cold-weather-collection)
   Updated: 2026-11-05T12:06:30Z
   Total Products: 7
 - [2024 Tour Collection](https://terriclarkmusic.merchmadeeasy.com/collections/2024-tour-collection-1)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 8
 - [Buy One, Get One 50% Off](https://terriclarkmusic.merchmadeeasy.com/collections/buy-one-get-one-50-off)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 14
 - [Hat Brat Fan Club](https://terriclarkmusic.merchmadeeasy.com/collections/hat-brat-fan-club)
   Updated: 2026-11-04T12:05:23Z
   Total Products: 10
 - [Holiday Collection](https://terriclarkmusic.merchmadeeasy.com/collections/christmas-in-july)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 20
 - [EasyGift All Products](https://terriclarkmusic.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 131
 - [Koozies](https://terriclarkmusic.merchmadeeasy.com/collections/koozies)
-  Updated: 2026-09-19T11:06:13Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 9
 - [Summer  $5](https://terriclarkmusic.merchmadeeasy.com/collections/summer--5)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 41
 - [Summer  $10](https://terriclarkmusic.merchmadeeasy.com/collections/summer--10)
   Updated: 2026-11-05T12:06:30Z
@@ -1111,25 +1104,25 @@
   Updated: 2026-11-05T12:06:30Z
   Total Products: 6
 - [Signed Media](https://terriclarkmusic.merchmadeeasy.com/collections/signed-cds)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 11
 - [Stocking Stuffers](https://terriclarkmusic.merchmadeeasy.com/collections/stocking-stuffers-1)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-10T12:06:28Z
   Total Products: 37
 - [NEW ARRIVALS](https://terriclarkmusic.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 14
 - [Spring BOGO ](https://terriclarkmusic.merchmadeeasy.com/collections/spring-)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 106
 - [Live From The Ryman](https://terriclarkmusic.merchmadeeasy.com/collections/live-from-the-ryman): Terri Clark Live From The Ryman on double vinyl & CD with special guests Ashley McBryde & Trisha Yearwood. Available 10.30.26
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-13T12:07:03Z
   Total Products: 4
 - [Tour](https://terriclarkmusic.merchmadeeasy.com/collections/tour)
-  Updated: 2026-11-05T12:06:30Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 13
 - [Black Friday ](https://terriclarkmusic.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-06T12:06:42Z
+  Updated: 2026-11-11T12:05:54Z
   Total Products: 69
 
 ## Store Pages
