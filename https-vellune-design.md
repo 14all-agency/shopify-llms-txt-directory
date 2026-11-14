@@ -6,7 +6,7 @@
 - Timezone: Australia/Brisbane
 - Created At: 2026-08-20T11:10:03Z
 - Contact Email: cibiscarney@gmail.com
-- Updated At: 2026-11-06T17:07:23.769Z
+- Updated At: 2026-11-14T01:04:40.460Z
 
 ## Products
 
@@ -2139,19 +2139,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1022/1908/8153/files/Lavish-Home-Natural-Sunlight-LED-Floor-Lamp-with-Bendable-Neck-60-Inch-Black_a7dee873-c76f-40f2-9756-363665d2beed.8fae418abefca3cbb516413b47abdb7c.jpg?v=1788851106
   Price: $44.53 AUD
-- [Vellune™ Natural Sunlight Floor Lamp with Bendable Neck 60 Inch Black](https://vellune.design/products/lavish-home-natural-sunlight-floor-lamp-with-bendable-neck-60-inch-black): Elevate your home aesthetic with the Vellune™ Natural Sunlight Floor Lamp with Bendable Neck 60 Inch Black. Designed with premium quality, ambient warmth, and modern efficiency. Enjoy free shipping & 30-Day Money-Back Guarantee!
-  Updated: 2026-10-03T13:40:24Z
-  Vendor: Vellune™
-  Product Type: Floor Lamps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1022/1908/8153/files/Lavish-Home-Natural-Sunlight-Floor-Lamp-with-Bendable-Neck-60-Inch-Black_60a70af4-4b81-453a-8012-9148fcd548b6_1.5c171bc49e69cb704e8078d8585718a8.jpg?v=1788851108
-  - [L10.2xW8.7xH62.5](https://vellune.design/products/lavish-home-natural-sunlight-floor-lamp-with-bendable-neck-60-inch-black?variant=53118433755417)
-    Availability: Available
-    Price: $38.53 AUD
-  - [L10.2xW8.7xH73.5](https://vellune.design/products/lavish-home-natural-sunlight-floor-lamp-with-bendable-neck-60-inch-black?variant=53118433788185)
-    Availability: Available
-    Price: $37.83 AUD
-[List Continued](https://vellune.design/a/llms-agent/llms.txt?shop=jpbfsf-bs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDc5MjA0MTcwOTg0OSwibGFzdF92YWx1ZSI6IjEwNzkyMDQxNzA5ODQ5In0%3D)
+[List Continued](https://vellune.design/a/llms-agent/llms.txt?shop=jpbfsf-bs.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDc5MjA0MTY3NzA4MSwibGFzdF92YWx1ZSI6IjEwNzkyMDQxNjc3MDgxIn0%3D)
 
 ## Collections
 
@@ -2248,6 +2236,15 @@
     Author: Vellune
   - [Illuminate Your Living Room: Discover the Vellune 62 in Farmhouse Lamp for Modern Ambient Lighting Aesthetic Home Decor Minimalism](https://vellune.design/blogs/news/illuminate-your-living-room-discover-the-vellune-62-in-farmhouse-lamp-for-modern-ambient-lighting-aesthetic-home-decor-minimalism): Illuminate Your Living Room: Discover the Vellune 62 in Farmhouse Lamp for Modern Ambient Lighting Aesthetic Home Decor Minimalism
     Updated: 2026-11-04T01:07:09Z
+    Author: Vellune
+  - [Brighten Your Aesthetic Home Decor: A Deep Dive into Vellune Rosen Garden LT7031 Minimalist Floor Lamp and Modern Interior Lighting Trends](https://vellune.design/blogs/news/brighten-your-aesthetic-home-decor-a-deep-dive-into-vellune-rosen-garden-lt7031-minimalist-floor-lamp-and-modern-interior-lighting-trends): Brighten Your Aesthetic Home Decor: A Deep Dive into Vellune Rosen Garden LT7031 Minimalist Floor Lamp and Modern Interior Lighting Trends
+    Updated: 2026-11-09T00:21:18Z
+    Author: Vellune
+  - [Brighten Your Space with Vellune's Iridescent Floor Lamp: The Ultimate Guide to Modern Ambient Lighting](https://vellune.design/blogs/news/brighten-your-space-with-vellunes-iridescent-floor-lamp-the-ultimate-guide-to-modern-ambient-lighting): Brighten Your Space with Vellune's Iridescent Floor Lamp: The Ultimate Guide to Modern Ambient Lighting
+    Updated: 2026-11-10T00:24:42Z
+    Author: Vellune
+  - [Transform Your Reading Nook: Vellune Tiffany Mini Table Lamp for Cozy Modern Ambient Lighting](https://vellune.design/blogs/news/transform-your-reading-nook-vellune-tiffany-mini-table-lamp-for-cozy-modern-ambient-lighting): Transform Your Reading Nook: Vellune Tiffany Mini Table Lamp for Cozy Modern Ambient Lighting
+    Updated: 2026-11-11T01:08:04Z
     Author: Vellune
 
 ## Store Pages
