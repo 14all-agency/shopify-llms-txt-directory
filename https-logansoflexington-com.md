@@ -7,7 +7,7 @@
 - Created At: 2014-08-25T14:32:04Z
 - Contact Phone: (859) 273-5766
 - Address: 161 Lexington Green Cir #160
-- Updated At: 2026-11-07T01:06:00.364Z
+- Updated At: 2026-11-14T01:20:33.710Z
 
 Logan's of Lexington is a family owned and operated men's clothing store in Lexington, Kentucky,  men's dress clothes, business attire, sportswear, footwear, and accessories both online and in its Lexington Green showroom.
 
@@ -23,8 +23,8 @@ Harlan and Betty Logan opened Logan's in 1964 in Midway, Kentucky, relocated to 
   Updated: 2018-11-12T18:52:47Z
 - [Our Brands](https://logansoflexington.com/pages/our-brands): 34 Heritage Allen Edmonds Antigua Ballin Baroni Best of Kentucky Bills Khakis Brackish Castaway Collared Greens Cutter & Buck Daneson Dapper Classi...
   Updated: 2020-11-18T04:17:09Z
-- [Returns](https://logansoflexington.com/pages/returns): We are happy to accept most items purchased with Logan's for return, either for exchange or refund, within 21 days of your delivery date. The only ...
-  Updated: 2026-01-23T20:40:55Z
+- [Returns](https://logansoflexington.com/pages/returns): Our return window has been extended to accommodate Christmas shopping and exchanges/refunds. All items purchased before December 24 will have until...
+  Updated: 2026-11-09T23:07:02Z
 - [Videos](https://logansoflexington.com/pages/videos): How To Tie a Bow Tie How To Care for Calfskin Shoes The Garment Weekender Travel Bag by Hook and Albert The Garment Weekender from HOOK & ALBERT on...
   Updated: 2015-11-06T01:05:17Z
 - [Privacy  Policy](https://logansoflexington.com/pages/privacy-policy): PRIVACY STATEMENT ---- SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION? When you purchase something from our store, as part of the buying and selli...
