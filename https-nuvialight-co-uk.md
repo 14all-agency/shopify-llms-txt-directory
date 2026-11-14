@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-07-29T16:41:42Z
 - Contact Email: sanchezmaelarry16122003@gmail.com
-- Updated At: 2026-11-06T16:51:32.302Z
+- Updated At: 2026-11-14T01:20:39.683Z
 
 ## Products
 
@@ -104,6 +104,15 @@
   - [Revitalize Your Bedroom Sanctuary with Nuvia™ Ondine Water-Ripple Lamp for Sensory Night Light Benefits and Deep Sleep Wellness](https://nuvialight.co.uk/blogs/news/revitalize-your-bedroom-sanctuary-with-nuvia™-ondine-water-ripple-lamp-for-sensory-night-light-benefits-and-deep-sleep-wellness): Revitalize Your Bedroom Sanctuary with Nuvia™ Ondine Water-Ripple Lamp for Sensory Night Light Benefits and Deep Sleep Wellness
     Updated: 2026-11-06T11:01:27Z
     Author: Nuvia
+  - [Nuvia™ Solis: Elevate Sleep Wellness and Deep Sleep with Melatonin Friendly Lighting and Calm Nervous System Support for a Cozy Bedroom Aesthetic](https://nuvialight.co.uk/blogs/news/nuvia™-solis-elevate-sleep-wellness-and-deep-sleep-with-melatonin-friendly-lighting-and-calm-nervous-system-support-for-a-cozy-bedroom-aesthetic): Nuvia™ Solis: Elevate Sleep Wellness and Deep Sleep with Melatonin Friendly Lighting and Calm Nervous System Support for a Cozy Bedroom Aesthetic
+    Updated: 2026-11-09T11:05:15Z
+    Author: Nuvia
+  - [Nurturing Sleep Wellness with Nuvia™ Ondine: Your Gateway to Sensory Night Light and Melatonin Friendly Calm](https://nuvialight.co.uk/blogs/news/nurturing-sleep-wellness-with-nuvia™-ondine-your-gateway-to-sensory-night-light-and-melatonin-friendly-calm): Nurturing Sleep Wellness with Nuvia™ Ondine: Your Gateway to Sensory Night Light and Melatonin Friendly Calm
+    Updated: 2026-11-10T11:04:56Z
+    Author: Nuvia
+  - [Achieve Sleep Wellness with Nuvia™ Ondine: Elevate Your Deep Sleep Routine and Bedroom Sanctuary with Melatonin Friendly Ambient Lighting and White Noise Features](https://nuvialight.co.uk/blogs/news/achieve-sleep-wellness-with-nuvia™-ondine-elevate-your-deep-sleep-routine-and-bedroom-sanctuary-with-melatonin-friendly-ambient-lighting-and-white-noise-features): Achieve Sleep Wellness with Nuvia™ Ondine: Elevate Your Deep Sleep Routine and Bedroom Sanctuary with Melatonin Friendly Ambient Lighting and White Noise Features
+    Updated: 2026-11-13T11:01:10Z
+    Author: Nuvia
 
 ## Store Pages
 
@@ -119,13 +128,13 @@
 - [Privacy Policy](https://nuvialight.co.uk/policies/privacy-policy)
   Updated: 2026-10-31T17:51:37Z
 - [Shipping Policy](https://nuvialight.co.uk/policies/shipping-policy)
-  Updated: 2026-10-04T06:38:01Z
+  Updated: 2026-11-12T10:19:47Z
 - [Refund Policy](https://nuvialight.co.uk/policies/refund-policy)
-  Updated: 2026-10-04T06:34:48Z
+  Updated: 2026-11-12T10:18:29Z
 - [Terms of Service](https://nuvialight.co.uk/policies/terms-of-service)
-  Updated: 2026-10-04T06:36:25Z
+  Updated: 2026-11-12T10:19:22Z
 - [Contact Information](https://nuvialight.co.uk/policies/contact-information)
-  Updated: 2026-10-04T06:38:18Z
+  Updated: 2026-11-12T10:20:04Z
 
 ## Optional
 
