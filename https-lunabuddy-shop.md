@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T07:49:24Z
 - Contact Email: garcialouiserobert11041996@gmail.com
-- Updated At: 2026-11-06T17:25:29.940Z
+- Updated At: 2026-11-14T01:35:51.323Z
 
 ## Products
 
@@ -2212,21 +2212,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1010/1397/9426/files/Marvel-Spider-Man-Suit-Up-20-oz-Tumbler-with-Straw_4196ca48-fed6-46a6-aac0-f7431bcb0087.ca96f4ae5852ea39fe395a7094706c3f.jpg?v=1789545419
   Price: $22.99 USD
-- [Lunabuddy™ Premium Abstract Colorful Shapes Stainless | Lunabuddy™](https://lunabuddy.shop/products/abstract-colorful-shapes-stainless-steel-tumbler-30oz-tumbler): Shop Lunabuddy™ Premium Abstract Colorful Shapes Stainless Steel Tumbler, 30oz by Lunabuddy™. Engineered with double-wall vacuum insulation, leak-resistant d...
-  Updated: 2026-10-03T14:53:22Z
-  Vendor: Lunabuddy™
-  Product Type: Tumblers
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1010/1397/9426/files/Abstract-Colorful-Shapes-Stainless-Steel-Tumbler-30oz_4f97f27b-3b3a-42a9-b2f0-476dbfaafbdb.f4282725326ed9ac66e01e15f8fbed04.jpg?v=1789545421
-  - [30 oz](https://lunabuddy.shop/products/abstract-colorful-shapes-stainless-steel-tumbler-30oz-tumbler?variant=52561209852194)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1397/9426/files/Abstract-Colorful-Shapes-Stainless-Steel-Tumbler-40oz_4f97f27b-3b3a-42a9-b2f0-476dbfaafbdb.f4282725326ed9ac66e01e15f8fbed04.jpg?v=1789545422
-    Price: $22.99 USD
-  - [40 oz](https://lunabuddy.shop/products/abstract-colorful-shapes-stainless-steel-tumbler-30oz-tumbler?variant=52561209884962)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1010/1397/9426/files/Abstract-Colorful-Shapes-Stainless-Steel-Tumbler-40oz_4f97f27b-3b3a-42a9-b2f0-476dbfaafbdb.f4282725326ed9ac66e01e15f8fbed04.jpg?v=1789545422
-    Price: $25.99 USD
-[List Continued](https://lunabuddy.shop/a/llms-agent/llms.txt?shop=18h313-xn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDUxMzE0Njg3MjA5OCwibGFzdF92YWx1ZSI6IjEwNTEzMTQ2ODcyMDk4In0%3D)
+[List Continued](https://lunabuddy.shop/a/llms-agent/llms.txt?shop=18h313-xn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDUxMzE0Njc3Mzc5NCwibGFzdF92YWx1ZSI6IjEwNTEzMTQ2NzczNzk0In0%3D)
 
 ## Collections
 
@@ -2234,8 +2220,8 @@
   Updated: 2026-10-03T14:52:54Z
   Total Products: 1
 - [40 oz](https://lunabuddy.shop/collections/40-oz)
-  Updated: 2026-10-30T11:17:42Z
-  Total Products: 188
+  Updated: 2026-11-12T17:20:48Z
+  Total Products: 186
 - [30 oz](https://lunabuddy.shop/collections/30-oz)
   Updated: 2026-10-26T11:21:35Z
   Total Products: 95
@@ -2318,6 +2304,15 @@
   - [Lunabuddy Winnie The Pooh 40oz Tumbler: The Ultimate Insulated Stainless Steel Travel Mug for Cold Iced Coffee and Water](https://lunabuddy.shop/blogs/news/lunabuddy-winnie-the-pooh-40oz-tumbler-the-ultimate-insulated-stainless-steel-travel-mug-for-cold-iced-coffee-and-water): Lunabuddy Winnie The Pooh 40oz Tumbler: The Ultimate Insulated Stainless Steel Travel Mug for Cold Iced Coffee and Water
     Updated: 2026-11-04T11:04:36Z
     Author: Lunabuddy™
+  - [Unveil the Magic of Lunabuddy's Disney Nightmare Before Christmas 40 oz Stainless Steel Insulated Tumbler: The Ultimate Leak Proof Commuter and Gym Hydration Travel Mug](https://lunabuddy.shop/blogs/news/unveil-the-magic-of-lunabuddys-disney-nightmare-before-christmas-40-oz-stainless-steel-insulated-tumbler-the-ultimate-leak-proof-commuter-and-gym-hydration-travel-mug): Unveil the Magic of Lunabuddy's Disney Nightmare Before Christmas 40 oz Stainless Steel Insulated Tumbler: The Ultimate Leak Proof Commuter and Gym Hydration Travel Mug
+    Updated: 2026-11-09T11:03:33Z
+    Author: Lunabuddy™
+  - [Maximize Refreshment: Why Lunabuddy’s 40 oz Strawberries Tumbler with Vacuum Insulation is the Ultimate Gym and Travel Companion](https://lunabuddy.shop/blogs/news/maximize-refreshment-why-lunabuddy-s-40-oz-strawberries-tumbler-with-vacuum-insulation-is-the-ultimate-gym-and-travel-companion): Maximize Refreshment: Why Lunabuddy’s 40 oz Strawberries Tumbler with Vacuum Insulation is the Ultimate Gym and Travel Companion
+    Updated: 2026-11-10T11:03:17Z
+    Author: Lunabuddy™
+  - [Lunabuddy™'s 30Oz Green Golf Tumbler: The Ultimate Insulated Stainless Steel Travel Mug for Every Golfer's Needs](https://lunabuddy.shop/blogs/news/lunabuddy™s-30oz-green-golf-tumbler-the-ultimate-insulated-stainless-steel-travel-mug-for-every-golfers-needs): Lunabuddy™'s 30Oz Green Golf Tumbler: The Ultimate Insulated Stainless Steel Travel Mug for Every Golfer's Needs
+    Updated: 2026-11-11T11:04:16Z
+    Author: Lunabuddy™
 
 ## Store Pages
 
@@ -2333,13 +2328,13 @@
 - [Privacy Policy](https://lunabuddy.shop/policies/privacy-policy)
   Updated: 2026-10-31T21:36:00Z
 - [Shipping Policy](https://lunabuddy.shop/policies/shipping-policy)
-  Updated: 2026-09-16T10:23:08Z
+  Updated: 2026-11-12T17:23:09Z
 - [Refund Policy](https://lunabuddy.shop/policies/refund-policy)
-  Updated: 2026-09-16T10:20:05Z
+  Updated: 2026-11-12T17:22:20Z
 - [Terms of Service](https://lunabuddy.shop/policies/terms-of-service)
-  Updated: 2026-09-16T10:21:25Z
+  Updated: 2026-11-12T17:22:44Z
 - [Contact Information](https://lunabuddy.shop/policies/contact-information)
-  Updated: 2026-09-16T10:23:25Z
+  Updated: 2026-11-12T17:23:27Z
 
 ## Optional
 
