@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-06-18T01:50:58Z
 - Contact Email: richsoleek@gmail.com
-- Updated At: 2026-11-06T01:01:22.315Z
+- Updated At: 2026-11-14T00:56:05.056Z
 
 ## Products
 
@@ -111,8 +111,26 @@
   - [XL](https://www.rich-society.com/products/richtopia-tee?variant=43904158138429)
     Availability: Available
     Price: $80.00 USD
+- [“RICHTOPIA” Thermal](https://www.rich-society.com/products/richtopia-thermal): TRUE TO SIZE DISTRESSED TEE DTG PRINT
+  Updated: 2026-11-09T03:24:15Z
+  Vendor: RICHSO
+  Product Type: Shirts
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_3006.jpg?v=1793194700
+  - [S](https://www.rich-society.com/products/richtopia-thermal?variant=43904182747197)
+    Availability: Available
+    Price: $90.00 USD
+  - [M](https://www.rich-society.com/products/richtopia-thermal?variant=43904182779965)
+    Availability: Available
+    Price: $90.00 USD
+  - [L](https://www.rich-society.com/products/richtopia-thermal?variant=43904182812733)
+    Availability: Available
+    Price: $90.00 USD
+  - [XL](https://www.rich-society.com/products/richtopia-thermal?variant=43904182845501)
+    Availability: Available
+    Price: $90.00 USD
 - [“RICHTOPIA” Crewneck](https://www.rich-society.com/products/richtopia-crewneck): TRUE TO SIZE DTG PRINT ONLY 3 MADE
-  Updated: 2026-10-29T01:40:48Z
+  Updated: 2026-11-13T15:10:37Z
   Vendor: RICHSO
   Product Type: Shirts
   Availability: Available
@@ -124,11 +142,30 @@
     Availability: Available
     Price: $105.00 USD
   - [L](https://www.rich-society.com/products/richtopia-crewneck?variant=43904188481597)
-    Availability: Available
+    Availability: Not Available
     Price: $105.00 USD
   - [XL](https://www.rich-society.com/products/richtopia-crewneck?variant=43904188514365)
     Availability: Not Available
     Price: $105.00 USD
+- [Inspired Logo Side Snap Nylon Pant](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant)
+  Updated: 2026-11-14T00:00:55Z
+  Vendor: RICHSO
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_6887.jpg?v=1794192761
+  - [Green / S](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410261053)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5430/8669/files/IMG_6887.jpg?v=1794192761
+    Price: $70.00 USD
+  - [Green / M](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410490429)
+    Availability: Available
+    Price: $70.00 USD
+  - [Green / L](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410523197)
+    Availability: Available
+    Price: $70.00 USD
+  - [Green / XL](https://www.rich-society.com/products/inspired-logo-side-snap-nylon-pant?variant=44497410555965)
+    Availability: Available
+    Price: $70.00 USD
 
 ## Collections
 
@@ -142,8 +179,8 @@
   Updated: 2026-10-25T23:21:34Z
   Total Products: 7
 - [Tees](https://www.rich-society.com/collections/tees)
-  Updated: 2026-10-28T13:42:21Z
-  Total Products: 7
+  Updated: 2026-11-14T00:01:41Z
+  Total Products: 8
 - [Hoodies](https://www.rich-society.com/collections/hoodies)
   Updated: 2026-10-28T13:33:38Z
   Total Products: 2
