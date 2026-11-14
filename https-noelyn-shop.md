@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-07T04:54:37Z
 - Contact Email: bonitaaidasl031023@gmail.com
-- Updated At: 2026-11-06T18:11:42.064Z
+- Updated At: 2026-11-14T01:37:19.756Z
 
 ## Products
 
@@ -3563,21 +3563,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/PX24NOR2672-2_1.jpg?v=1792528162
   Price: $17.99 USD
-- [Baby Boy or Girl in Snowman Ornament - Custom Name | Noelyn](https://noelyn.shop/products/personalized-baby-boy-or-girl-in-snowman-outfit-resin-ornament): Resin Baby Boy or Girl in Snowman Outfit ornament, personalized with a name. Add a name and order today.
-  Updated: 2026-10-22T14:31:31Z
-  Vendor: Noelyn
-  Product Type: Baby Ornaments
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/PX19006.jpg?v=1792528163
-  - [Blue](https://noelyn.shop/products/personalized-baby-boy-or-girl-in-snowman-outfit-resin-ornament?variant=54143480889637)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/PX19006.jpg?v=1792528163
-    Price: $19.99 USD
-  - [Pink](https://noelyn.shop/products/personalized-baby-boy-or-girl-in-snowman-outfit-resin-ornament?variant=54143480922405)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/1014/9910/9669/files/PX19007.jpg?v=1792528163
-    Price: $19.99 USD
-[List Continued](https://noelyn.shop/a/llms-agent/llms.txt?shop=dcq1ew-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDcyNjEwNTEyMTA2MSwibGFzdF92YWx1ZSI6IjEwNzI2MTA1MTIxMDYxIn0%3D)
+[List Continued](https://noelyn.shop/a/llms-agent/llms.txt?shop=dcq1ew-u1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxMDcyNjEwNTA4ODI5MywibGFzdF92YWx1ZSI6IjEwNzI2MTA1MDg4MjkzIn0%3D)
 
 ## Collections
 
@@ -3674,6 +3660,15 @@
     Author: Noelyn Shop
   - [Unveiling Noelyn's Personalized Red Front Door Ornament as a Cherished Holiday Keepsake for Military Families](https://noelyn.shop/blogs/news/unveiling-noelyns-personalized-red-front-door-ornament-as-a-cherished-holiday-keepsake-for-military-families): Unveiling Noelyn's Personalized Red Front Door Ornament as a Cherished Holiday Keepsake for Military Families
     Updated: 2026-11-04T11:05:51Z
+    Author: Noelyn Shop
+  - [Celebrating the Holidays with Noelyn Personalized Girl Dog Lover Resin Ornament Essential Tips for Custom Family Christmas Ornaments](https://noelyn.shop/blogs/news/celebrating-the-holidays-with-noelyn-personalized-girl-dog-lover-resin-ornament-essential-tips-for-custom-family-christmas-ornaments): Celebrating the Holidays with Noelyn Personalized Girl Dog Lover Resin Ornament Essential Tips for Custom Family Christmas Ornaments
+    Updated: 2026-11-09T11:04:27Z
+    Author: Noelyn Shop
+  - [A Guide to Personalized Christmas Ornaments: Discover the Noelyn Gingerbread Family Ornament for Your Unique Holiday Keepsake Experience](https://noelyn.shop/blogs/news/a-guide-to-personalized-christmas-ornaments-discover-the-noelyn-gingerbread-family-ornament-for-your-unique-holiday-keepsake-experience): A Guide to Personalized Christmas Ornaments: Discover the Noelyn Gingerbread Family Ornament for Your Unique Holiday Keepsake Experience
+    Updated: 2026-11-10T11:04:06Z
+    Author: Noelyn Shop
+  - [Personalized Christmas Ornaments: Why Noelyn's Black Bear Family Table Topper is the Perfect Keepsake Christmas Ornament with Year](https://noelyn.shop/blogs/news/personalized-christmas-ornaments-why-noelyns-black-bear-family-table-topper-is-the-perfect-keepsake-christmas-ornament-with-year): Personalized Christmas Ornaments: Why Noelyn's Black Bear Family Table Topper is the Perfect Keepsake Christmas Ornament with Year
+    Updated: 2026-11-11T11:05:05Z
     Author: Noelyn Shop
 
 ## Store Pages
