@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-08-05T05:41:06Z
 - Contact Email: meyermarlonkl031023@gmail.com
-- Updated At: 2026-11-06T18:05:57.792Z
+- Updated At: 2026-11-14T01:19:54.493Z
 
 ## Products
 
@@ -3183,21 +3183,7 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/GoldMetalCircleofLife9CandleMenorah-HMD1510.jpg?v=1792476780
   Price: $53.99 USD
-- [Shiny Antique Copper Painted Bay Leaf Branch | Yulemere](https://yulemere.shop/products/shiny-antique-copper-painted-bay-leaf-faux-branch): Shiny Antique Copper Painted Bay Leaf Faux Branch. A stem for vases, wreaths and garlands. Add it to your cart today.
-  Updated: 2026-10-20T18:13:13Z
-  Vendor: Yulemere
-  Product Type: Holiday Stems
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/FLWSTM2098ShinyRedCopperPaintedBayLeafBranch.jpg?v=1792476782
-  Price: $17.99 USD
-- [Norfolk Tree Centerpiece - Free Shipping | Yulemere](https://yulemere.shop/products/lifelike-real-touch-norfolk-faux-tree-holiday-centerpiece): Lifelike Real Touch Norfolk Faux Tree Holiday Centerpiece. A centerpiece for tables and consoles. Shop Yulemere today.
-  Updated: 2026-10-20T18:13:12Z
-  Vendor: Yulemere
-  Product Type: Holiday Centerpieces
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0745/3605/9041/files/AR1899LifestyleLifelikeRealTouchNorfolkFauxTreeChristmasDecorinWhiteConcretePlanterChristmasArrangement.jpg?v=1792476784
-  Price: $88.99 USD
-[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk2NDU0MDQ5LCJsYXN0X3ZhbHVlIjoiODgwOTE5NjQ1NDA0OSJ9)
+[List Continued](https://yulemere.shop/a/llms-agent/llms.txt?shop=3yu0md-rp.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4ODA5MTk2MjI0NjczLCJsYXN0X3ZhbHVlIjoiODgwOTE5NjIyNDY3MyJ9)
 
 ## Collections
 
@@ -3282,6 +3268,15 @@
     Author: Yulemere
   - [Creating a Seamless Holiday Look with Yulemere Silver Glitter Pine Outdoor Christmas Wreath and Norfolk Pine Garland](https://yulemere.shop/blogs/news/creating-a-seamless-holiday-look-with-yulemere-silver-glitter-pine-outdoor-christmas-wreath-and-norfolk-pine-garland): Creating a Seamless Holiday Look with Yulemere Silver Glitter Pine Outdoor Christmas Wreath and Norfolk Pine Garland
     Updated: 2026-11-04T11:05:38Z
+    Author: Yulemere
+  - [Incorporating Yulemere's Classic Red Apple Centerpiece for a Lifelike Christmas Garland Display without Overwhelm](https://yulemere.shop/blogs/news/incorporating-yulemeres-classic-red-apple-centerpiece-for-a-lifelike-christmas-garland-display-without-overwhelm): Incorporating Yulemere's Classic Red Apple Centerpiece for a Lifelike Christmas Garland Display without Overwhelm
+    Updated: 2026-11-09T11:04:13Z
+    Author: Yulemere
+  - [Elevate Your Vintage Christmas Decor Aesthetic with Yulemere's Hot Pink Ornament and Real Touch Greenery](https://yulemere.shop/blogs/news/elevate-your-vintage-christmas-decor-aesthetic-with-yulemeres-hot-pink-ornament-and-real-touch-greenery): Elevate Your Vintage Christmas Decor Aesthetic with Yulemere's Hot Pink Ornament and Real Touch Greenery
+    Updated: 2026-11-10T11:03:55Z
+    Author: Yulemere
+  - [How to Elevate Your Holiday Staircase Greenery with Yulemere's Luxurious Pinecones and Burgundy Velvet Ribbon Christmas Decor](https://yulemere.shop/blogs/news/how-to-elevate-your-holiday-staircase-greenery-with-yulemeres-luxurious-pinecones-and-burgundy-velvet-ribbon-christmas-decor): How to Elevate Your Holiday Staircase Greenery with Yulemere's Luxurious Pinecones and Burgundy Velvet Ribbon Christmas Decor
+    Updated: 2026-11-11T11:04:52Z
     Author: Yulemere
 
 ## Store Pages
