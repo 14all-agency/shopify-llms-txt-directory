@@ -6,19 +6,19 @@
 - Timezone: America/Chicago
 - Created At: 2026-09-09T16:09:52Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:02:23.429Z
+- Updated At: 2026-11-14T01:14:03.351Z
 
 ## Products
 
 - [OUTWEST TOTE TEN TOUR 100% COTTON](https://tenoutwest.shop/products/outwest-tote): TEN OUTWEST TOUR TOTE BAG in natural with print on one side. This item is a pre-order that will ship mid-November. 100% cotton 15"W x 16"H x 3"D
-  Updated: 2026-11-05T23:16:52Z
+  Updated: 2026-11-13T17:04:44Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/168477_1_310509_d_jpg.png?v=1789575323
   Price: $25.00 USD
 - [TOUR T-SHIRT - BLACK](https://tenoutwest.shop/products/photo-tour-tee): TEN US SHOWCASE PHOTO TOUR TEE in black with print on front and dates on back. 100% Cotton
-  Updated: 2026-11-05T21:06:06Z
+  Updated: 2026-11-13T17:28:55Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -39,13 +39,13 @@
     Availability: Available
     Price: $40.00 USD
 - [TOUR HOODIE](https://tenoutwest.shop/products/photo-tour-hoodie): TEN US SHOWCASE PHOTO TOUR HOODIE in shade "cement" with front and back print. 100% Cotton
-  Updated: 2026-11-05T23:12:05Z
+  Updated: 2026-11-13T15:20:43Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_Grey_Hoodie.png?v=1791382450
   - [S](https://tenoutwest.shop/products/photo-tour-hoodie?variant=53296473735349)
-    Availability: Not Available
+    Availability: Available
     Price: $70.00 USD
   - [M](https://tenoutwest.shop/products/photo-tour-hoodie?variant=53296473768117)
     Availability: Available
@@ -60,14 +60,14 @@
     Availability: Available
     Price: $70.00 USD
 - [TOUR CAP](https://tenoutwest.shop/products/outwest-hat): TEN OUTWEST HAT in lavender with front and back embroidery. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-11-05T16:32:22Z
+  Updated: 2026-11-13T15:45:25Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTHAT.png?v=1789576954
   Price: $45.00 USD
 - [TOUR T-SHIRT (ARTWORK BY TEN) - NATURAL](https://tenoutwest.shop/products/west-tour-tee): TEN WEST TOUR TEE in shade "natural" with print on front and dates on back. 100% Cotton
-  Updated: 2026-11-05T23:12:01Z
+  Updated: 2026-11-13T15:45:25Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -76,7 +76,7 @@
     Availability: Not Available
     Price: $40.00 USD
   - [M](https://tenoutwest.shop/products/west-tour-tee?variant=53296506372277)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [L](https://tenoutwest.shop/products/west-tour-tee?variant=53296506405045)
     Availability: Available
@@ -88,14 +88,14 @@
     Availability: Available
     Price: $40.00 USD
 - [PENDANT KEYCHAIN](https://tenoutwest.shop/products/outwest-irl-keychain): OUTWEST + IRL PENDANT KEYCHAIN SET Acrylic charms with steel wire rings OUTWEST pendant dimensions: 2.4in x .6in IRL pendant dimensions: .8in x .6in
-  Updated: 2026-11-05T21:06:02Z
+  Updated: 2026-11-13T15:20:37Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TENOUTWESTIRLKEYCHAIN.png?v=1789577314
   Price: $10.00 USD
-- [CITY EXCLUSIVE TOUR HOODIE](https://tenoutwest.shop/products/city-exclusive-tour-hoodie): CITY EXCLUSIVE TEN US SHOWCASE PHOTO TOUR HOODIE in shade black with city name on front and back print. City Exclusive tour hoodies will become available online the day after each show. This item is a pre-order that will ship 2-3 weeks after the date of the show. 100% Cotton
-  Updated: 2026-11-06T00:16:36Z
+- [CITY EXCLUSIVE TOUR HOODIE](https://tenoutwest.shop/products/city-exclusive-tour-hoodie): CITY EXCLUSIVE TEN US SHOWCASE PHOTO TOUR HOODIE in shade black with city name on front and back print. 100% Cotton
+  Updated: 2026-11-13T21:21:47Z
   Vendor: TEN Official Store
   Product Type: Apparel
   Availability: Available
@@ -177,7 +177,7 @@
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
     Price: $100.00 USD
   - [SAN DIEGO / 2XL](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810714293)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_SD.png?v=1793025359
     Price: $100.00 USD
   - [LOS ANGELES / S](https://tenoutwest.shop/products/city-exclusive-tour-hoodie?variant=53606810747061)
@@ -300,8 +300,8 @@
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HOODIE_CHI.png?v=1793645754
     Price: $100.00 USD
-- [CITY EXCLUSIVE TOUR CAP](https://tenoutwest.shop/products/city-exclusive-tour-cap): TEN OUTWEST HAT in black with logo on front and city specific embroidery on back. City Exclusive tour caps will become available online the day after each show. This item is a pre-order that will ship 2-3 weeks after the date of the show. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
-  Updated: 2026-11-05T23:19:27Z
+- [CITY EXCLUSIVE TOUR CAP](https://tenoutwest.shop/products/city-exclusive-tour-cap): TEN OUTWEST HAT in black with logo on front and city specific embroidery on back. Adjustable back closure / 100% cotton Bill/ Brim Length: 2 3/4" Crown Height: 3" Hat Sizing: 6 5/8" - 7 3/8"
+  Updated: 2026-11-13T17:04:47Z
   Vendor: TEN Official Store
   Product Type: Accessories
   Availability: Available
@@ -330,26 +330,38 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HAT_ATLANTA.png?v=1793909114
     Price: $50.00 USD
+  - [BALTIMORE](https://tenoutwest.shop/products/city-exclusive-tour-cap?variant=53728867909813)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HAT_BALT.png?v=1794249614
+    Price: $50.00 USD
+  - [BOSTON](https://tenoutwest.shop/products/city-exclusive-tour-cap?variant=53728867942581)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HAT_BOSTON.png?v=1794249625
+    Price: $50.00 USD
+  - [NEW YORK](https://tenoutwest.shop/products/city-exclusive-tour-cap?variant=53754276642997)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/1030/7492/2677/files/TEN_CITY_EXCLUSIVE_HAT_NEW_YORK.png?v=1794504796
+    Price: $50.00 USD
 
 ## Collections
 
 - [Home page](https://tenoutwest.shop/collections/frontpage)
-  Updated: 2026-11-05T12:19:17Z
+  Updated: 2026-11-13T12:17:25Z
   Total Products: 8
 - [Apparel](https://tenoutwest.shop/collections/apparel)
-  Updated: 2026-11-05T12:19:17Z
+  Updated: 2026-11-13T12:17:25Z
   Total Products: 4
 - [Accessories](https://tenoutwest.shop/collections/accessories)
-  Updated: 2026-11-05T12:19:17Z
+  Updated: 2026-11-11T12:19:58Z
   Total Products: 4
 - [Hats](https://tenoutwest.shop/collections/hats)
-  Updated: 2026-11-05T12:19:17Z
+  Updated: 2026-11-11T12:19:58Z
   Total Products: 2
 - [Music](https://tenoutwest.shop/collections/music)
   Updated: 2026-11-04T21:40:20Z
   Total Products: 0
 - [All](https://tenoutwest.shop/collections/all)
-  Updated: 2026-11-05T12:19:17Z
+  Updated: 2026-11-13T12:17:25Z
   Total Products: 8
 
 ## Store Pages
