@@ -6,33 +6,33 @@
 - Timezone: America/Chicago
 - Created At: 2023-08-14T15:00:29Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T00:16:31.053Z
+- Updated At: 2026-11-14T00:17:18.274Z
 
 ## Products
 
 - [Smiley Tumbler](https://leannemorgan.merchmadeeasy.com/products/smiley-tumbler): Everything is gonna be alright with this tumbler! Removable lid Hand wash only to keep that happy face looking fresh 30 oz
-  Updated: 2026-11-02T21:24:24Z
+  Updated: 2026-11-12T20:50:37Z
   Vendor: Leanne Morgan
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/tumblerunsigned_f9f49e61-dd75-4cd6-9cb4-540a81e4c00a.png?v=1695322440
   Price: $30.00 USD
 - [Hey Doll Trucker Hat | Official Leanne Morgan Merch Store](https://leannemorgan.merchmadeeasy.com/products/hey-doll-hat): Hey Doll and Leanne Morgan gold foil print on the front Unisex trucker hat in black Adjustable sizing
-  Updated: 2026-11-06T03:00:26Z
+  Updated: 2026-11-12T20:50:37Z
   Vendor: Leanne Morgan
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/HEYDOLLHATSIDE_a92db526-9e63-4be4-84c2-dedd892359d1.png?v=1695321716
   Price: $25.00 USD
 - [Goin' And Doin' Tote](https://leannemorgan.merchmadeeasy.com/products/goin-and-doin-tote): The bag that holds your life together—literally. Spacious 19" x 12" x 4.5" tote with a front pocket for the stuff you actually need to find and 11" handles
-  Updated: 2026-11-06T15:28:35Z
+  Updated: 2026-11-13T15:27:37Z
   Vendor: Leanne Morgan
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/GOINANDDOINTOTE.png?v=1697234256
   Price: $30.00 USD
 - [The Bed Nightgown | Leanne Morgan Official Store](https://leannemorgan.merchmadeeasy.com/products/the-bed-nightgown): The black v-neck nightgown is perfect for your bedtime slumber
-  Updated: 2026-11-05T19:29:00Z
+  Updated: 2026-11-13T03:43:36Z
   Vendor: Leanne Morgan
   Product Type: Nightgown
   Availability: Available
@@ -47,7 +47,7 @@
     Availability: Available
     Price: $50.00 USD
 - [I Don't Chat Tee](https://leannemorgan.merchmadeeasy.com/products/i-dont-chat-tee): I Don't Chat Tee in black Front and back print 100% Cotton
-  Updated: 2026-11-02T21:24:52Z
+  Updated: 2026-11-12T20:50:37Z
   Vendor: Leanne Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -74,14 +74,14 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Sayings Stickersheet](https://leannemorgan.merchmadeeasy.com/products/sayings-stickersheet): A collection of fun, Leanne sayings on durable stickers perfect for personalizing laptops, water bottles, journals, and more. Each sticker measures roughly 2 x 3 inches.
-  Updated: 2026-11-06T15:28:35Z
+  Updated: 2026-11-13T03:43:21Z
   Vendor: Leanne Morgan
   Product Type: ACCESSORIES
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/SAYINGSSTICKERS.png?v=1697471951
   Price: $15.00 USD
 - [I Am So Fun Crewneck](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-crewneck): I Am So Fun Crewneck in black! Classic women's fit 55% Cotton, 45% Polyester Blend
-  Updated: 2026-11-02T21:24:52Z
+  Updated: 2026-11-12T20:50:37Z
   Vendor: Leanne Morgan
   Product Type: Sweatshirt
   Availability: Available
@@ -90,7 +90,7 @@
     Availability: Available
     Price: $40.00 USD
   - [M](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-crewneck?variant=47171835330875)
-    Availability: Not Available
+    Availability: Available
     Price: $40.00 USD
   - [L](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-crewneck?variant=47171835363643)
     Availability: Not Available
@@ -101,8 +101,29 @@
   - [XXL](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-crewneck?variant=47171835429179)
     Availability: Not Available
     Price: $40.00 USD
+- [I Am So Fun Hoodie](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie): I Am So Fun hoodie in cream! Front print only 52% Cotton, 48% Polyester Blend We recommend sizing up for a cozier fit!
+  Updated: 2026-11-12T20:51:45Z
+  Vendor: Leanne Morgan
+  Product Type: apparel
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/IAMSOFUNCREAMHOODIE.png?v=1697667404
+  - [S](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie?variant=47171845390651)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [M](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie?variant=47171845423419)
+    Availability: Available
+    Price: $60.00 USD
+  - [L](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie?variant=47171845456187)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [XL](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie?variant=47171845488955)
+    Availability: Not Available
+    Price: $60.00 USD
+  - [XXL](https://leannemorgan.merchmadeeasy.com/products/i-am-so-fun-hoodie?variant=47171845521723)
+    Availability: Not Available
+    Price: $60.00 USD
 - [I Am So Fun Sweatpants - Cream](https://leannemorgan.merchmadeeasy.com/products/copy-of-i-am-so-fun-sweatpants-black): I Am So Fun sweatpants in cream! 55% Cotton, 45% Polyester Blend We recommend sizing up for a cozier fit!
-  Updated: 2026-11-02T21:24:52Z
+  Updated: 2026-11-12T20:50:37Z
   Vendor: Leanne Morgan
   Product Type: Sweatpants
   Availability: Available
@@ -130,7 +151,7 @@
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/LMCandle.png?v=1749589803
   Price: $35.00 USD
 - [Cute In The 80s Tee - Cream](https://leannemorgan.merchmadeeasy.com/products/cute-in-the-80s-tee-cream): Everyone's favorite tee now available in Cream I was so cute in the 80s graphic on the front Women's fit with v-neck
-  Updated: 2026-11-05T03:23:23Z
+  Updated: 2026-11-13T04:49:35Z
   Vendor: Leanne Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -151,7 +172,7 @@
     Availability: Available
     Price: $35.00 USD
 - [The Bed Nightgown | Leanne Morgan Official Store](https://leannemorgan.merchmadeeasy.com/products/the-bed-nightgown-grey): The black v-neck nightgown is perfect for your bedtime slumber
-  Updated: 2026-11-06T16:14:22Z
+  Updated: 2026-11-13T01:07:05Z
   Vendor: Leanne Morgan
   Product Type: Nightgown
   Availability: Available
@@ -166,7 +187,7 @@
     Availability: Available
     Price: $40.00 USD
 - [Unspeakable Things Hoodie](https://leannemorgan.merchmadeeasy.com/products/unspeakable-things-hoodie): Fleece Hoodie with Unspeakable Things and Leanne Morgan printed on the front Plush knit in ice purple 52/48 cotton/polyester
-  Updated: 2026-11-02T21:24:53Z
+  Updated: 2026-11-13T01:11:05Z
   Vendor: Leanne Morgan
   Product Type: Hoodie
   Availability: Available
@@ -187,7 +208,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [Unspeakable Things Crewneck](https://leannemorgan.merchmadeeasy.com/products/unspeakable-things-crewneck): Unspeakable Things Crewneck in natural heather Relaxed women's fit with a droptail hem 55/45 combed ring-spun cotton/polyester, front is screen printed
-  Updated: 2026-11-02T21:24:53Z
+  Updated: 2026-11-12T20:50:36Z
   Vendor: Leanne Morgan
   Product Type: Crewneck
   Availability: Available
@@ -207,8 +228,15 @@
   - [2XL](https://leannemorgan.merchmadeeasy.com/products/unspeakable-things-crewneck?variant=50688465830203)
     Availability: Not Available
     Price: $60.00 USD
+- [Signed Photo](https://leannemorgan.merchmadeeasy.com/products/signed-photo-card): 8x10" Signed by Leanne
+  Updated: 2026-11-12T19:56:25Z
+  Vendor: Leanne Morgan
+  Product Type: Poster
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/LM_0001_Photo-Signed.png?v=1793831548
+  Price: $40.00 USD
 - [Time Of Our Lives Tour Women's Tee](https://leannemorgan.merchmadeeasy.com/products/time-of-our-lives-tour-womens-tee): Grab your keepsake from the Time of Our Lives tour with this 100% cotton women's tee—because nothing says "I was there" like wearing proof you actually left your house. Leanne Morgan logo up front and bold pink text across the back. Soft, comfortable, and designed to survive both the tour and your laundry routine.
-  Updated: 2026-11-05T19:29:05Z
+  Updated: 2026-11-13T03:43:26Z
   Vendor: Leanne Morgan
   Product Type: T-Shirt
   Availability: Available
@@ -232,21 +260,21 @@
     Availability: Available
     Price: $35.00 USD
 - [Goin and Doin Hat](https://leannemorgan.merchmadeeasy.com/products/goin-and-doin-hat): Goin' and Doin' embroidered on the front Leanne Morgan embroidered on the back Unisex baseball cap in stone
-  Updated: 2026-11-06T15:01:56Z
+  Updated: 2026-11-12T20:50:36Z
   Vendor: Leanne Morgan
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/LM_0000_Goin-and-Doin-Hat.png?v=1791470712
   Price: $40.00 USD
 - [Goin and Doin Pouch](https://leannemorgan.merchmadeeasy.com/products/goin-and-doin-pouch): Your stuff's got a new home. This blue canvas pouch flaunts the classic Leanne saying, Goin' and Doin' on the front. Durable 9oz. canvas won't judge your organizational skills.
-  Updated: 2026-11-06T15:01:46Z
+  Updated: 2026-11-13T01:07:49Z
   Vendor: Leanne Morgan
   Product Type: Makeup Bag
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0810/9424/6715/files/LM_0002_Goin-and-Doin-Makeup-Bag.png?v=1791826111
   Price: $20.00 USD
 - [Time Of Our Lives Crewneck](https://leannemorgan.merchmadeeasy.com/products/time-of-our-lives-crewneck): Crewneck in natural Relaxed women's fit with a droptail hem 55/45 combed ring-spun cotton/polyester, front is screen printed
-  Updated: 2026-11-03T04:57:36Z
+  Updated: 2026-11-13T04:04:37Z
   Vendor: Leanne Morgan
   Product Type: Sweatshirt
   Availability: Available
@@ -270,47 +298,47 @@
 ## Collections
 
 - [Favorites](https://leannemorgan.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 19
 - [Apparel](https://leannemorgan.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 23
 - [Accessories](https://leannemorgan.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 25
 - [AUTOGRAPHED COLLECTION](https://leannemorgan.merchmadeeasy.com/collections/autographed-collection)
   Updated: 2026-06-06T06:38:34Z
   Total Products: 5
 - [All Products](https://leannemorgan.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 49
 - [](https://leannemorgan.merchmadeeasy.com/collections/)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 24
 - [Under $10](https://leannemorgan.merchmadeeasy.com/collections/under-10)
   Updated: 2026-10-26T16:33:01Z
   Total Products: 3
 - [Leanne's Homeware](https://leannemorgan.merchmadeeasy.com/collections/leannes-homeware)
-  Updated: 2026-10-29T11:15:45Z
+  Updated: 2026-11-12T12:13:34Z
   Total Products: 7
 - [Yummy New Arrivals](https://leannemorgan.merchmadeeasy.com/collections/leanne-netflix-sitcom): A collection of brand new product in celebration of Leanne's new Netflix Sitcom, LEANNE. Watch the series starting July 31st on Netflix!
-  Updated: 2026-11-05T12:11:31Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 4
 - [Unspeakable Things](https://leannemorgan.merchmadeeasy.com/collections/unspeakable-things)
-  Updated: 2026-11-01T12:14:02Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 3
 - [EasyGift All Products](https://leannemorgan.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 49
 - [Black Friday ](https://leannemorgan.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-06T12:12:09Z
-  Total Products: 10
+  Updated: 2026-11-13T12:12:08Z
+  Total Products: 11
 - [Time Of Our Lives Tour](https://leannemorgan.merchmadeeasy.com/collections/time-of-our-lives-tour)
-  Updated: 2026-11-06T12:12:09Z
+  Updated: 2026-11-13T12:12:08Z
   Total Products: 14
 - [New Arrivals](https://leannemorgan.merchmadeeasy.com/collections/new-arrivals)
-  Updated: 2026-11-06T12:12:09Z
-  Total Products: 7
+  Updated: 2026-11-13T12:12:08Z
+  Total Products: 8
 
 ## Store Pages
 
