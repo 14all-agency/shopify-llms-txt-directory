@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-27T22:45:08Z
 - Contact Email: support@novaplusstor.com
-- Updated At: 2026-11-07T00:19:36.327Z
+- Updated At: 2026-11-14T00:22:36.630Z
 
 Nova+ est une boutique française spécialisée dans les genouillères et supports de genou pour la récupération, le sport et le quotidien. Site : novaplusstor.com
 
@@ -14,7 +14,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Products
 
 - [Genouillère Kuangmi® Nova+ — Soulager la douleur au genou | Maintien réglable](https://novaplusstor.com/products/genouillere-kuangmi-nova-plus): Genouillère réglable et respirante pour soulager la douleur au genou, l'arthrose et la reprise du sport. Tailles M à XL. Livraison rapide.
-  Updated: 2026-10-19T13:28:47Z
+  Updated: 2026-11-09T07:58:22Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -56,7 +56,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 27,99 € EUR
 - [Sangle Rotulienne Nova+ — Soulager la tendinite et la douleur sous la rotule](https://novaplusstor.com/products/sangle-rotulienne): Sangle rotulienne réglable en néoprène pour soulager la tendinite rotulienne et le syndrome rotulien. Légère, discrète, efficace.
-  Updated: 2026-10-19T13:28:46Z
+  Updated: 2026-11-09T08:00:40Z
   Vendor: Nova+
   Product Type: Sangle rotulienne
   Availability: Available
@@ -68,7 +68,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Price: 14,99 € EUR
 - [Genouillère Thermique Nova+ — Chaud & Froid pour la récupération du genou](https://novaplusstor.com/products/genouillere-thermique-nova-plus): Genouillère thermique chaud & froid pour accompagner la récupération du genou. Poche gel amovible, compression douce. Peut aider à réduire l'inconfôrt après l'effort.
-  Updated: 2026-10-19T13:22:56Z
+  Updated: 2026-11-09T08:00:39Z
   Vendor: Nova+
   Product Type: Genouillère thermique
   Availability: Available
@@ -82,14 +82,14 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/d33391cd-0a7f-4ea3-8322-10812307d2a2.jpg?v=1780832455
     Price: 25,00 € EUR
 - [Patch Genou Nova+ — Confort articulaire discret au quotidien](https://novaplusstor.com/products/patch-genou-nova-plus): Patch genou discret à appliquer directement sur la zone inconfortable. Peut contribuer au confort articulaire au quotidien. 15 patchs par sachet.
-  Updated: 2026-10-19T13:23:02Z
+  Updated: 2026-11-09T08:00:42Z
   Vendor: Nova+
   Product Type: Patch antidouleur
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_b3fbe75f-d8b6-4faa-9cc2-4a96efb34bfd.png?v=1780870780
   Price: 14,99 € EUR
 - [Genouillère Sport 3D Nova+ — Maintien genou pour course et musculation](https://novaplusstor.com/products/genouillere-flex-3d-nova-plus): Genouillère sport 3D en nylon/lycra pour maintien renforcé du genou. Idéale course, musculation, rééducation. Tailles S à 4XL, 5 coloris.
-  Updated: 2026-10-19T13:23:01Z
+  Updated: 2026-11-09T08:00:42Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -187,7 +187,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Not Available
     Price: 19,99 € EUR
 - [Manchon de Compression Jambe Nova+ — Soutien cuisse, genou & mollet](https://novaplusstor.com/products/manchon-compression-jambe-nova-plus): Manchon de compression léger pour soutenir cuisse, genou et mollet. Peut aider à réduire la fatigue et la lourdeur dans la jambe pendant et après l'effort.
-  Updated: 2026-10-19T13:22:47Z
+  Updated: 2026-11-09T08:00:41Z
   Vendor: Nova+
   Product Type: Manchon de compression
   Availability: Available
@@ -221,7 +221,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Not Available
     Price: 19,99 € EUR
 - [Coudière Nova+ — Protégez votre coude, bougez sans contrainte](https://novaplusstor.com/products/coudiere-protection-nova-plus): Douleur ou instabilité au coude ? La coudière Nova+ maintient et protège votre articulation avec sa sangle réglable pour retrouver confort et liberté de mouvement au quotidien.
-  Updated: 2026-06-26T08:12:18Z
+  Updated: 2026-11-09T08:00:42Z
   Vendor: Nova+
   Product Type: Coudière
   Availability: Available
@@ -251,7 +251,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_8cb825c7-c2fe-40dd-b2c0-9e78512b0bd9.jpg?v=1781959150
     Price: 15,99 € EUR
 - [Poignet de Sport Nova+ — Maintien et protection du poignet](https://novaplusstor.com/products/bandage-poignet-nova-plus): Bandage de poignet Nova+ pour maintenir et protéger vos articulations pendant l’effort. Compression ciblée, respirant, tous sports. 1 paire (2 poignets).
-  Updated: 2026-07-22T18:33:26Z
+  Updated: 2026-11-09T08:00:43Z
   Vendor: Nova+
   Product Type: Poignet de sport
   Availability: Available
@@ -269,7 +269,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/rn-image_picker_lib_temp_ebcafb96-1de4-4483-bc69-1f696a875b4f.png?v=1781911515
     Price: 14,99 € EUR
 - [Balle d'Auto-Massage Nova+ — Soulagez vos tensions musculaires](https://novaplusstor.com/products/balle-auto-massage-nova-plus): Balle d'auto-massage pour soulager tensions, contractures et douleurs musculaires. Pieds, dos, nuque, mollets — simple, efficace, utilisable partout. 1 balle par sachet.
-  Updated: 2026-07-22T18:32:00Z
+  Updated: 2026-11-09T08:00:41Z
   Vendor: Nova+
   Product Type: Balle de massage
   Availability: Available
@@ -290,8 +290,8 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0938/8920/0509/files/654adec2-c5bd-4f69-9eb1-e046755d28b4.jpg?v=1781893857
     Price: 14,99 € EUR
-- [Genouillère Articulée avec Renforts Latéraux - Maintien Rotule](https://novaplusstor.com/products/genouillere-articulee-avec-renforts-lateraux-maintien-rotule): Dimensions : 15,5 x 31 x 21 cm
-  Updated: 2026-10-30T05:48:23Z
+- [Genouillère Articulée Rotule](https://novaplusstor.com/products/genouillere-articulee-avec-renforts-lateraux-maintien-rotule): Dimensions : 15,5 x 31 x 21 cm
+  Updated: 2026-11-09T08:00:40Z
   Vendor: Nova+
   Product Type: Genouillère
   Availability: Available
@@ -301,7 +301,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
 ## Collections
 
 - [Genouillère Rotulienne](https://novaplusstor.com/collections/genouillere-rotulienne): Découvrez nos genouillères rotuliennes pour soulager les douleurs de la rotule, syndrome rotulien et chondromalacie. Maintien optimal et confort.
-  Updated: 2026-09-04T19:14:17Z
+  Updated: 2026-11-08T20:00:36Z
   Total Products: 1
 - [Genouillère Arthrose](https://novaplusstor.com/collections/genouillere-arthrose): Genouillères spéciales arthrose pour soulager les douleurs articulaires, réduire l'inflammation et retrouver de la mobilité au quotidien.
   Updated: 2026-09-04T19:14:17Z
@@ -310,7 +310,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:02Z
   Total Products: 0
 - [Genouillère ménisque](https://novaplusstor.com/collections/genouillere-menisque): Genouillères spéciales ménisque pour protéger et soulager les douleurs liées aux lésions méniscales. Maintien stable et confort durable.
-  Updated: 2026-11-06T22:37:10Z
+  Updated: 2026-11-08T20:00:39Z
   Total Products: 10
 - [Genouillère tendinite](https://novaplusstor.com/collections/genouillere-tendinite): Genouillères pour tendinite rotulienne et tendinopathie du genou. Compression ciblée pour soulager la douleur et accélérer la récupération.
   Updated: 2026-09-04T18:43:03Z
@@ -364,7 +364,7 @@ Nova+ est une boutique française spécialisée dans les genouillères et suppor
   Updated: 2026-09-04T18:43:03Z
   Total Products: 0
 - [Genouillère Travail](https://novaplusstor.com/collections/genouillere-travail-hub): Genouillères de travail pour carreleurs, bricoleurs et jardiniers. Protection maximale des genoux pour tous vos travaux professionnels sur Nova+.
-  Updated: 2026-11-01T21:15:39Z
+  Updated: 2026-11-08T20:00:36Z
   Total Products: 2
 - [Genouillère Entorse](https://novaplusstor.com/collections/genouillere-entorse): Genouillères pour entorse du genou : stabilisation, maintien ligamentaire et reprise d'activité. Trouvez la solution adaptée sur Nova+.
   Updated: 2026-08-12T16:36:37Z
