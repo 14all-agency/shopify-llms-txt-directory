@@ -6,7 +6,7 @@
 - Timezone: America/Toronto
 - Created At: 2025-08-10T20:26:08Z
 - Contact Email: decor8homesinc@gmail.com
-- Updated At: 2026-11-07T00:42:16.947Z
+- Updated At: 2026-11-14T00:46:10.977Z
 
 ## Products
 
@@ -496,7 +496,7 @@
   Image: https://cdn.shopify.com/s/files/1/0750/4773/1427/files/decor8-homes-inc-artificial-bonsai-tree_ca671393-c58e-41b9-944a-eaf90ec618ac.jpg?v=1782484792
   Price: $49.99 CAD
 - [Premium Framed Canvas Wall Art | Modern Decorative Painting](https://www.decor8homes.ca/products/117): Transform your walls with timeless framed canvas artwork. Enhance your home or workspace with beautifully crafted framed wall art designed to complement a variety of interior styles. Featuring vibrant colors, detailed artwork, and a premium frame, each design adds personality, warmth, and sophistication to any room. Whether you're decorating a living room, bedroom, office, hallway, or dining area, this artwork creates an elegant focal point that blends effortlessly with modern, contemporary, and classic décor. Key Features Premium quality framed canvas artwork Available in multiple unique designs High-definition print with rich, vibrant colors Durable frame with elegant finish Ready to hang Perfect for homes, offices, hotels, cafés, and gifting Care & Maintenance Dust gently with a soft, dry cloth. Keep away from excessive moisture and direct sunlight. Avoid using harsh cleaning chemicals. This generic title and description work well regardless of whether the customer selects an elephant, floral, abstract, landscape, or any other painting variant.
-  Updated: 2026-08-29T04:03:36Z
+  Updated: 2026-11-12T05:51:55Z
   Vendor: Decor8 Homes
   Product Type: 
   Availability: Available
