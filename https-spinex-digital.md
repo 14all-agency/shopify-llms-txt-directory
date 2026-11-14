@@ -6,101 +6,101 @@
 - Timezone: Europe/Warsaw
 - Created At: 2024-10-28T22:50:21Z
 - Contact Email: contact@spinex.digital
-- Updated At: 2026-11-07T00:18:08.363Z
+- Updated At: 2026-11-14T00:20:57.143Z
 
 SpineX is an educational platform specializing in personalized, fitness-based scoliosis training. The SpineX™ 3D Scoliosis Method combines unilateral strength training, 3D de-rotation principles, individualized assessment, and progressive exercise programming to help teenagers and adults manage scoliosis through evidence-informed, non-surgical exercise.
 
 ## Products
 
 - [Surgery-Avoidance Assessment](https://spinex.digital/products/surgery-avoidance-consultation): Live online movement and scoliosis assessment for teens, adults and parents. Fitness-based education and next-step direction. Not a  or a guarantee.
-  Updated: 2026-10-19T23:00:35Z
+  Updated: 2026-11-12T21:32:58Z
   Vendor: SpineX
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/BEFOREAFTERTEMPLATE_2.png?v=1786395251
   Price: €149.00 EUR
 - [SpineX™ Kyphosis Personalized Program | 4 Weeks](https://spinex.digital/products/spinex-kyphosis-program): Four weeks of personalized online training for upper-back strength and posture awareness. Includes a home assessment, technique review and direct support.
-  Updated: 2026-10-19T22:54:11Z
+  Updated: 2026-11-10T00:12:25Z
   Vendor: SpineX
-  Product Type: posture training program
+  Product Type: Digital Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/BEFORE_AFTER_TEMPLATE_9.png?v=1781297914
   Price: €500.00 EUR
 - [Hunchback Blueprint: Posture & Upper-Back Training Guide | SpineX](https://spinex.digital/products/hunchback-blueprint-2026): Explore home and gym workout plans, clickable exercise videos and everyday posture guidance in the self-guided SpineX Hunchback Blueprint. Delivered by email.
-  Updated: 2026-10-28T00:52:24Z
+  Updated: 2026-11-10T00:12:12Z
   Vendor: SpineX
-  Product Type: eBook
+  Product Type: Digital Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/ChatGPT_Image_Jul_20_2026_08_13_06_PM.png?v=1784571222
   Price: €38.00 EUR
 - [12-Week Personalized Scoliosis Training Program | SpineX](https://spinex.digital/products/spinex-3d-scoliosis-method): Build strength and movement control with 12 weeks of personalized online scoliosis training, individual assessment, technique review and WhatsApp support.
-  Updated: 2026-10-22T16:35:02Z
+  Updated: 2026-11-10T00:10:28Z
   Vendor: SpineX
-  Product Type: Scoliosis Training Program
+  Product Type: Digital Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/X-ray_comparison_of_scoliosis_before_and_after.jpg?v=1784021441
-  Price: €2,500.00 EUR
+  Price: €1,244.00 EUR
 - [4-Week Personalized Scoliosis Training Program | SpineX](https://spinex.digital/products/spinex-3d-scoliosis-method-4-week): Start four weeks of personalized online scoliosis training with an individual home assessment, exercise programming, technique review and WhatsApp support.
-  Updated: 2026-10-22T16:35:04Z
+  Updated: 2026-11-13T20:32:46Z
   Vendor: SpineX
-  Product Type: Scoliosis Training Program
+  Product Type: Digital Product
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0911/6634/3507/files/X-ray_comparison_of_scoliosis_before_and_after.jpg?v=1784021441
-  Price: €1,000.00 EUR
+  Price: €500.00 EUR
 
 ## Collections
 
 - [Best ](https://spinex.digital/collections/best-)
-  Updated: 2026-10-06T11:27:39Z
+  Updated: 2026-11-13T12:21:37Z
   Total Products: 1
 - [Scoliosis](https://spinex.digital/collections/scoliosis): Explore SpineX personalized scoliosis programs and the Surgery-Avoidance Assessment, designed around individual spinal and muscular asymmetries.
-  Updated: 2026-10-06T11:27:39Z
+  Updated: 2026-11-13T23:06:27Z
   Total Products: 3
 - [Kyphosis](https://spinex.digital/collections/kyphosis): Explore SpineX kyphosis training programs and the Hunchback Blueprint for building upper-back strength, mobility and posture awareness.
-  Updated: 2026-10-28T00:52:26Z
+  Updated: 2026-11-09T12:12:16Z
   Total Products: 2
 
 ## Blogs
 
 - [SpineX Blog](https://spinex.digital/blogs/news)
   - [Scheuermann’s Kyphosis: Exercise and Training | SpineX](https://spinex.digital/blogs/news/can-you-fix-scheuermanns-kyphosis-naturally): Scheuermann’s Kyphosis: Exercise and Training | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:29Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Personalized Exercise Program, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, Spinal Fusion Surgery, SpineX, SpineX Kyphosis Correction Method
   - [Scoliosis Training: A SpineX Client Case Study](https://spinex.digital/blogs/news/from-20-to-3-scoliosis-how-we-nearly-fixed-scoliosis-naturally-in-4-weeks-with-the-spinex-method): Scoliosis Training: A SpineX Client Case Study
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:36Z
     Author: Kamil, founder of SpineX™
     Tags: Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Personalized Exercise Program, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment
   - [Personalized Scoliosis Training: A 10-Week Case | SpineX](https://spinex.digital/blogs/news/how-to-reduce-scoliosis-curvature-naturally-from-40-to-12): Personalized Scoliosis Training: A 10-Week Case | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:37Z
     Author: Kamil, founder of SpineX™
     Tags: Cobb Angle, Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Personalized Exercise Program, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment
   - [Hunchback Posture Exercises: Strength and Control | SpineX](https://spinex.digital/blogs/news/fix-hunchback-posture-naturally-3-exercises-to-reverse-kyphosis-curvature): Hunchback Posture Exercises: Strength and Control | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:37Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX, SpineX Kyphosis Correction Method
   - [Posture Tips for Students: What Every Parent Should Know](https://spinex.digital/blogs/news/posture-tips-for-students-what-every-parent-should-know): Posture Tips for Students: What Every Parent Should Know
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:37Z
     Author: Kamil, founder of SpineX™
     Tags: Early Scoliosis Signs, Postural Imbalance, SpineX, Teen Spine Health, Uneven Shoulders
   - [Hunchback Posture: Stretching vs Strength | SpineX](https://spinex.digital/blogs/news/why-stretching-alone-wont-fix-your-hunchback-posture): Hunchback Posture: Stretching vs Strength | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:37Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX, SpineX Kyphosis Correction Method
   - [Fitness-Based Posture Training: The SpineX Approach](https://spinex.digital/blogs/news/fitness-based-posture-correction): Fitness-Based Posture Training: The SpineX Approach
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags: Kyphosis, Non-Surgical Scoliosis Management, Personalized Exercise Program, Personalized Online Training, Scoliosis Bracing, SpineX, SpineX 3D Scoliosis Method, SpineX Kyphosis Correction Method, Surgery-Avoidance Assessment
   - [Full-Body Training for Posture: Why It Matters | SpineX](https://spinex.digital/blogs/news/full-body-training-for-posture-correction): Full-Body Training for Posture: Why It Matters | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags: Movement Quality, Personalized Online Training, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX
   - [Unilateral Exercises for Scoliosis: Why Use Them? | SpineX](https://spinex.digital/blogs/news/the-importance-of-unilateral-training-for-scoliosis-correction-fixing-imbalances-through-fitness): Unilateral Exercises for Scoliosis: Why Use Them? | SpineX
-    Updated: 2026-10-26T19:22:45Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags: Curve Progression, Lumbar Scoliosis, Muscle Asymmetry, Non-Surgical Scoliosis Management, Scoliosis Exercises, SpineX, SpineX 3D Scoliosis Method, Surgery-Avoidance Assessment, Thoracic Scoliosis, Unilateral Strength Training
   - [Kyphosis: Non-Surgical Training Options | SpineX](https://spinex.digital/blogs/news/how-to-fix-kyphosis-without-surgery-heres-the-truth): Kyphosis: Non-Surgical Training Options | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Postural Imbalance, Progressive Exercise Programming, Scoliosis Bracing, Scoliosis Exercises, SpineX, SpineX Kyphosis Correction Method
   - [Student Posture: Sitting, Screens and Backpacks | SpineX](https://spinex.digital/blogs/news/bad-posture-in-students): Student Posture: Sitting, Screens and Backpacks | SpineX
@@ -108,47 +108,47 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Author: Kamil, founder of SpineX™
     Tags: Movement Quality, Postural Imbalance, SpineX, Teen Spine Health, Uneven Shoulders
   - [Posture Training at Home and in the Gym | SpineX](https://spinex.digital/blogs/news/how-to-fix-your-posture-without-a-physiotherapist): Posture Training at Home and in the Gym | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags: Kyphosis, Muscle Asymmetry, Non-Surgical Scoliosis Management, Personalized Online Training, Postural Imbalance, SpineX
   - [Scoliosis and Kyphosis After 18: Training | SpineX](https://spinex.digital/blogs/news/how-to-reduce-scoliosis-and-kyphosis-after-age-18): Scoliosis and Kyphosis After 18: Training | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:24:53Z
     Author: Kamil, founder of SpineX™
     Tags:  Scoliosis, Curve Progression, Kyphosis, Non-Surgical Scoliosis Management, Scoliosis Bracing, SpineX, Surgery-Avoidance Assessment, Unilateral Strength Training
   - [Scoliosis Training After 35: A Client Story | SpineX](https://spinex.digital/blogs/news/how-to-reduce-scoliosis-naturally-after-35yo-and-gain-height): Scoliosis Training After 35: A Client Story | SpineX
-    Updated: 2026-10-26T19:27:32Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags:  Scoliosis, Curve Progression, Non-Surgical Scoliosis Management, Personalized Exercise Program, Personalized Online Training, Scoliosis Bracing, SpineX, Surgery-Avoidance Assessment
   - [Thoracolumbar Scoliosis: A Training Case Study | SpineX](https://spinex.digital/blogs/news/how-to-reduce-thoracolumbar-scoliosis-curvature-naturally): Thoracolumbar Scoliosis: A Training Case Study | SpineX
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags: Curve Progression, Muscle Asymmetry, Non-Surgical Scoliosis Management, Scoliosis Bracing, SpineX, Surgery-Avoidance Assessment, Thoracolumbar Scoliosis, Unilateral Strength Training
   - [Scoliosis Exercises at Home: A Training Guide | SpineX](https://spinex.digital/blogs/news/how-to-correct-scoliosis-at-home-3-key-exercises): Scoliosis Exercises at Home: A Training Guide | SpineX
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags: Muscle Asymmetry, Pelvic Alignment, Personalized Exercise Program, Scoliosis Exercises, SpineX, Surgery-Avoidance Assessment, Thoracic Scoliosis, Unilateral Strength Training
   - [Scoliosis Muscle Imbalance: Uneven Lats & Training | SpineX](https://spinex.digital/blogs/news/correct-scoliosis-imbalance-unilateral-training-guide): Scoliosis Muscle Imbalance: Uneven Lats & Training | SpineX
-    Updated: 2026-10-26T19:22:45Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags: Muscle Asymmetry, Non-Surgical Scoliosis Management, Scoliosis Exercises, SpineX, Surgery-Avoidance Assessment, Unilateral Strength Training
   - [Stretching for Kyphosis: Mobility and Posture | SpineX](https://spinex.digital/blogs/news/how-to-stretch-for-kyphosis-correct-your-posture-naturally): Stretching for Kyphosis: Mobility and Posture | SpineX
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Postural Imbalance, Scoliosis Exercises, Spinal Flexibility, SpineX Kyphosis Correction Method
   - [Kyphosis Strength: How to Train for Better Posture](https://spinex.digital/blogs/news/how-to-strengthen-for-kyphosis-correct-your-posture-naturally1): Kyphosis Strength: How to Train for Better Posture
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:08Z
     Author: Kamil, founder of SpineX™
     Tags: Hunchback, Kyphosis, Postural Imbalance, Progressive Exercise Programming, Scoliosis Exercises, SpineX Kyphosis Correction Method
   - [Scoliosis Stretching: Why Side Selection Matters | SpineX](https://spinex.digital/blogs/news/the-stretching-side-for-scoliosis-no-one-talks-about): Scoliosis Stretching: Why Side Selection Matters | SpineX
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:26Z
     Author: Kamil, founder of SpineX™
     Tags: Lumbar Scoliosis, Muscle Asymmetry, Scoliosis Exercises, Spinal Flexibility, Spinal Rotation, SpineX, Teen Scoliosis, Thoracic Scoliosis
   - [Lower Body Workout for Scoliosis & Kyphosis at Home](https://spinex.digital/blogs/news/lower-body-workout-for-scoliosis-kyphosis-at-home): Lower Body Workout for Scoliosis & Kyphosis at Home
-    Updated: 2026-10-26T19:27:39Z
+    Updated: 2026-11-10T20:25:26Z
     Author: Kamil, founder of SpineX™
     Tags: Kyphosis, Pelvic Alignment, Progressive Exercise Programming, Scoliosis Exercises, SpineX
   - [5 Gym Machines for Posture and Back Strength | SpineX](https://spinex.digital/blogs/news/top-5-gym-machines-to-strengthen-your-spine-safely-and-effectively): 5 Gym Machines for Posture and Back Strength | SpineX
-    Updated: 2026-10-26T19:22:45Z
+    Updated: 2026-11-10T20:25:26Z
     Author: Kamil, founder of SpineX™
     Tags: Back Pain, Kyphosis, Progressive Exercise Programming, Scoliosis Exercises, SpineX
   - [Adolescent Idiopathic Scoliosis: A Parent Guide | SpineX](https://spinex.digital/blogs/news/understanding-adolescent-idiopathic-scoliosis-in-children-and-teens): Adolescent Idiopathic Scoliosis: A Parent Guide | SpineX
@@ -300,7 +300,7 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
     Author: Kamil, founder of SpineX™
     Tags: Adolescent Idiopathic Scoliosis, Curve Progression, online exercises, scoliosis brace, surgery avoidance
   - [Scoliosis Observation During Growth: What to Monitor](https://spinex.digital/blogs/news/the-watch-and-wait-trap-why-passive-observation-costs-teenagers-their-spine-corrective-window): Scoliosis Observation During Growth: What to Monitor
-    Updated: 2026-10-26T19:27:48Z
+    Updated: 2026-11-10T20:25:26Z
     Author: Kamil, founder of SpineX™
   - [Stretching for Scoliosis: Why It May Not Address Imbalances](https://spinex.digital/blogs/news/stretching-scoliosis-muscle-imbalances): Stretching for Scoliosis: Why It May Not Address Imbalances
     Updated: 2026-10-22T21:10:23Z
@@ -394,8 +394,8 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
 
 - [Your Privacy Choices](https://spinex.digital/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-01-25T21:13:19Z
-- [Privacy Policy](https://spinex.digital/pages/privacy-policy): Last updated: October 4, 2026 This Privacy Policy explains how SpineX ("SpineX", "we", "us", or "our") collects, uses, stores, shares, and otherwis...
-  Updated: 2026-10-04T15:45:57Z
+- [Privacy Policy](https://spinex.digital/pages/privacy-policy): Last updated: November 10, 2026 This Privacy Policy explains how SpineX ("SpineX", "we", "us", or "our") collects, uses, stores, shares, and otherw...
+  Updated: 2026-11-10T20:35:20Z
 - [Terms and Conditions](https://spinex.digital/pages/terms-and-conditions): TERMS AND CONDITIONS These Terms and Conditions govern the purchase and use of assessments, personalized training programs, digital products, consu...
   Updated: 2026-10-04T15:40:29Z
 - [Return and Refund Policy](https://spinex.digital/pages/return-and-refund-policy): RETURN AND REFUND POLICY Last updated: October 4, 2026 At SpineX, we provide digital products, online consultations, assessments and individualized...
@@ -648,11 +648,13 @@ SpineX is an educational platform specializing in personalized, fitness-based sc
   Updated: 2026-11-01T14:15:48Z
 - [Unilateral Trap Shrugs](https://spinex.digital/pages/unilateral-trap-shrugs)
   Updated: 2026-11-02T15:56:57Z
+- [Free Scoliosis Solution Guide](https://spinex.digital/pages/free-scoliosis-solution-guide)
+  Updated: 2026-11-13T23:50:56Z
 
 ## Policies
 
 - [Privacy Policy](https://spinex.digital/policies/privacy-policy)
-  Updated: 2026-10-04T15:44:48Z
+  Updated: 2026-11-10T20:26:04Z
 - [Shipping Policy](https://spinex.digital/policies/shipping-policy)
   Updated: 2026-10-04T15:51:49Z
 - [Refund Policy](https://spinex.digital/policies/refund-policy)
