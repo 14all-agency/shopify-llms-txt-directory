@@ -1,7 +1,7 @@
 # DistaUSA (https://distausa.com)
 
 - Contact Email: care@distausa.com
-- Updated At: 2026-11-07T04:54:34.138Z
+- Updated At: 2026-11-14T08:53:15.786Z
 
 # DistaUSA
 type = ecommerce marketplace
@@ -43,15 +43,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 ## Products
 
 - [BulkSupplements.com Creatine Monohydrate Powder - Micronized Creatine Powder, Unflavored - Pure & Gluten Free, 5g per Serving, 500g (1.1 lbs) (Pack of 1)](https://distausa.com/products/bulksupplements-com-creatine-monohydrate-powder-micronized-creatine-powder-unflavored-pure-gluten-free-5g-per-serving-500g-1-1-lbs-pack-of-1)
-  Price: $22.37 USD
+  Price: $40.34 USD
 - [Blueprint Bryan Johnson Longevity Mix - Muscle Builder & Recovery Supplement - Promotes Focus and Balanced Mood - Magnesium, Creatine, L-Theanine, Glutathione & Vitamin C- 30 Servings, Blood Orange](https://distausa.com/products/blueprint-bryan-johnson-longevity-mix-muscle-builder-recovery-supplement-promotes-focus-and-balanced-mood-magnesium-creatine-l-theanine-glutathione-vitamin-c-30-servings-blood-orange)
   Price: $54.88 USD
 - [Blueprint Bryan Johnson Essential Capsules - Daily Multivitamin/Multimineral for Women and Men - Antioxidant Supplement with Calcium, Vitamin B1, Vitamin D, and Zinc - Vegan and Non GMO (30 Servings)](https://distausa.com/products/blueprint-bryan-johnson-essential-capsules-daily-multivitamin-multimineral-for-women-and-men-antioxidant-supplement-with-calcium-vitamin-b1-vitamin-d-and-zinc-vegan-and-non-gmo-30-servings)
   Price: $54.88 USD
 - [Garden of Life Organics Whole Food Multivitamin for Men 40+ 120 Tablets, Vegan Mens Multi for Health & Well-Being  Organic Whole Food Vitamins & Minerals for Men Over 40 Mens Vitamins](https://distausa.com/products/garden-of-life-organics-whole-food-multivitamin-for-men-40-120-tablets-vegan-mens-multi-for-health-well-being--organic-whole-food-vitamins-minerals-for-men-over-40-mens-vitamins)
-  Price: $84.72 USD
+  Price: $76.15 USD
 - [Garden of Life Organics Multivitamin for Women - Women's Once Daily Multi - Whole Food Multi with Iron, Biotin, Vegan Organic Womens Multivitamin for Health, Energy Hair Skin and Nails, 60 Tablets](https://distausa.com/products/garden-of-life-organics-multivitamin-for-women-womens-once-daily-multi-whole-food-multi-with-iron-biotin-vegan-organic-womens-multivitamin-for-health-energy-hair-skin-and-nails-60-tablets)
-  Price: $44.68 USD
+  Price: $33.56 USD
 - [Garden of Life Multivitamin for Women, Men & Kids Age 6 and up, Vitamin Code Family Multi - 120 Vegetarian Capsules, Whole Food Vitamins, Food Blend & Probiotics, Gluten Free Dietary Supplements](https://distausa.com/products/garden-of-life-multivitamin-for-women-men-kids-age-6-and-up-vitamin-code-family-multi-120-vegetarian-capsules-whole-food-vitamins-food-blend-probiotics-gluten-free-dietary-supplements)
   Price: $38.40 USD
 - [Garden of Life Multivitamin for Men - Vitamin Code 50 & Wiser Men's Raw Whole Food Vitamin Supplement with Probiotics, Vegetarian, 240 Capsules](https://distausa.com/products/garden-of-life-multivitamin-for-men-vitamin-code-50-wiser-mens-raw-whole-food-vitamin-supplement-with-probiotics-vegetarian-240-capsules)
@@ -80,10 +80,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $27.94 USD
 - [Sports Research® Triple Strength Astaxanthin 12mg - Antioxidant Supplement for Skin & Eye Health Support* - Soy Free · Non-GMO · Gluten Free - 60 Softgels](https://distausa.com/products/sports-research®-triple-strength-astaxanthin-12mg-antioxidant-supplement-for-skin-eye-health-support-soy-free-non-gmo-gluten-free-60-softgels)
   Price: $30.18 USD
-- [Sports Research Whey Protein - Sports Nutrition Whey Isolate Protein Powder for Lean Muscle Building & Workout Recovery - 5 lb Bag Bulk Protein Powder 25g per Serving - Dutch Chocolate, 60 Servings](https://distausa.com/products/sports-research-whey-protein-sports-nutrition-whey-isolate-protein-powder-for-lean-muscle-building-workout-recovery-5-lb-bag-bulk-protein-powder-25g-per-serving-dutch-chocolate-60-servings)
-  Price: $135.31 USD
 - [Sports Research Tart Cherry Capsules - Made from Montmorency Tart Cherries - Non-GMO & Gluten Free - 60 Liquid Softgels](https://distausa.com/products/sports-research-tart-cherry-capsules-made-from-montmorency-tart-cherries-non-gmo-gluten-free-60-liquid-softgels)
-  Price: $23.46 USD
+  Price: $23.49 USD
 - [BulkSupplements.com Creatine Monohydrate Powder - Micronized Creatine Powder, Unflavored - Pure & Gluten Free, 5g (5000mg) per Servings, 1kg (2.2 lbs) (Pack of 1)](https://distausa.com/products/bulksupplements-com-creatine-monohydrate-powder-micronized-creatine-powder-unflavored-pure-gluten-free-5g-5000mg-per-servings-1kg-2-2-lbs-pack-of-1)
   Price: $21.93 USD
 - [THORNE - ResveraCel - Nicotinamide Riboside with Quercetin Phytosome & Resveratrol - Support Healthy Aging, Methylation, Cellular Energy Production & Metabolism* - 30 Servings](https://distausa.com/products/thorne-resveracel-nicotinamide-riboside-with-quercetin-phytosome-resveratrol-support-healthy-aging-methylation-cellular-energy-production-metabolism-30-servings)
@@ -145,7 +143,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Vital Proteins Collagen Peptides Powder Supplement, Hydrolyzed Collagen Peptides Travel Pack, 20 Individual Packets](https://distausa.com/products/vital-proteins-collagen-peptides-powder-supplement-hydrolyzed-collagen-peptides-travel-pack-20-individual-packets)
   Price: $35.22 USD
 - [Vital Proteins Marine Collagen Peptides Powder Supplement for Skin Hair Nail Joint - Hydrolyzed Collagen - 12g per Serving - 7.8 oz Canister](https://distausa.com/products/vital-proteins-marine-collagen-peptides-powder-supplement-for-skin-hair-nail-joint-hydrolyzed-collagen-12g-per-serving-7-8-oz-canister)
-  Price: $34.66 USD
+  Price: $43.28 USD
 - [Vital Proteins Collagen Peptides Powder - Mocha Coffee Creamer for Hair, Skin & Nails Support, 11 Oz](https://distausa.com/products/vital-proteins-collagen-peptides-powder-mocha-coffee-creamer-for-hair-skin-nails-support-11-oz)
   Price: $27.94 USD
 - [Vital Proteins Matcha Collagen Peptides Powder Supplement, Matcha Green Tea Powder, 10.5 oz, Original Flavored](https://distausa.com/products/vital-proteins-matcha-collagen-peptides-powder-supplement-matcha-green-tea-powder-10-5-oz-original-flavored)
@@ -161,13 +159,13 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Rhode by Hailey Bieber Peptide Lip  10ml / 0.3 fl oz (Salted Carmel)](https://distausa.com/products/rhode-by-hailey-bieber-peptide-lip--10ml-0-3-fl-oz-salted-carmel)
   Price: $25.75 USD
 - [Rhode Peptide Lip Tint, Sheer Color and Hydrating Finish, 3 fl oz, 10ml (Toast)](https://distausa.com/products/rhode-peptide-lip-tint-sheer-color-and-hydrating-finish-3-fl-oz-10ml-toast)
-  Price: $32.14 USD
+  Price: $32.73 USD
 - [Rhode Peptide Lip Tint, Sheer Color and Hydrating Finish, 3 fl oz, 10ml (Raspberry Jelly)](https://distausa.com/products/rhode-peptide-lip-tint-sheer-color-and-hydrating-finish-3-fl-oz-10ml-raspberry-jelly)
-  Price: $21.95 USD
+  Price: $30.23 USD
 - [Rhode by Hailey Bieber Peptide Lip Tint Ribbon Sheer Pink 10ml / .3 fl oz](https://distausa.com/products/rhode-by-hailey-bieber-peptide-lip-tint-ribbon-sheer-pink-10ml-3-fl-oz)
-  Price: $27.43 USD
+  Price: $26.88 USD
 - [Rhode by Hailey Bieber Peptide Lip  Rhode Vanilla, .3 (Pack of 1)](https://distausa.com/products/rhode-by-hailey-bieber-peptide-lip--rhode-vanilla-3-pack-of-1)
-  Price: $43.55 USD
+  Price: $38.64 USD
 - [e.l.f. SKIN Holy Hydration! Hydrated Ever After Skincare Mini Kit, Cleanser, Makeup Remover, Moisturizer & Eye Cream For Hydrating Skin, Airplane-Friendly Sizes](https://distausa.com/products/e-l-f-skin-holy-hydration-hydrated-ever-after-skincare-mini-kit-cleanser-makeup-remover-moisturizer-eye-cream-for-hydrating-skin-airplane-friendly-sizes)
   Price: $14.56 USD
 - [Glow Recipe PHA + BHA Face Toner, Korean Exfoliating Toner for Pores, Gentle Chemical Exfoliant + Hydrating Toner, Watermelon, Cactus Water + Glycerin (40ml)](https://distausa.com/products/glow-recipe-pha-bha-face-toner-korean-exfoliating-toner-for-pores-gentle-chemical-exfoliant-hydrating-toner-watermelon-cactus-water-glycerin-40ml)
@@ -175,7 +173,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [BYOMA Brightening Serum - Barrier Repair Serum - Brightening & Hydrating Face Serum with Hyaluronic Acid, Niacinamide & Ceramides - Hyaluronic Acid Serum For Face, Glowing, Radiant Skin - 1.01 fl. oz](https://distausa.com/products/byoma-brightening-serum-barrier-repair-serum-brightening-hydrating-face-serum-with-hyaluronic-acid-niacinamide-ceramides-hyaluronic-acid-serum-for-face-glowing-radiant-skin-1-01-fl-oz)
   Price: $11.64 USD
 - [Glow Recipe PHA + BHA Face Toner, Korean Exfoliating Toner for Pores, Gentle Chemical Exfoliant + Hydrating Toner, Watermelon, Cactus Water + Glycerin (150ml)](https://distausa.com/products/glow-recipe-pha-bha-face-toner-korean-exfoliating-toner-for-pores-gentle-chemical-exfoliant-hydrating-toner-watermelon-cactus-water-glycerin-150ml)
-  Price: $39.27 USD
+  Price: $40.20 USD
 - [Sol de Janeiro Bum Bum Jet Set](https://distausa.com/products/sol-de-janeiro-bum-bum-jet-set)
   Price: $38.08 USD
 - [SOL DE JANEIRO Brazilian Bum Bum Cream 240ml](https://distausa.com/products/sol-de-janeiro-brazilian-bum-bum-cream-240ml)
@@ -189,9 +187,9 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Sol de Janeiro Delicia Drench Body Butter (75mL/2.5 oz.)](https://distausa.com/products/sol-de-janeiro-delicia-drench-body-butter-75ml-2-5-oz)
   Price: $26.88 USD
 - [NAZANO 24K Gold Under Eye Patches - 60 Pack for Puffy Eyes, Dark Circles, Bags & Wrinkles with Collagen & Hyaluronic Acid - Eye Care Pads for Daily Skincare (Gold)](https://distausa.com/products/nazano-24k-gold-under-eye-patches-60-pack-for-puffy-eyes-dark-circles-bags-wrinkles-with-collagen-hyaluronic-acid-eye-care-pads-for-daily-skincare-gold)
-  Price: $9.97 USD
+  Price: $6.71 USD
 - [Glow Recipe Hue Drops Bronzing Drops, Tinted Face Serum, Glow Primer + Liquid Highlighter, Niacinamide + Hyaluronic Acid, Radiant Warm Glow, Sunglow (40ml)](https://distausa.com/products/glow-recipe-hue-drops-bronzing-drops-tinted-face-serum-glow-primer-liquid-highlighter-niacinamide-hyaluronic-acid-radiant-warm-glow-sunglow-40ml)
-  Price: $35.38 USD
+  Price: $36.50 USD
 - [TruSkin Vitamin C Serum for Face – Anti Aging Face Serum with Hyaluronic Acid & Vitamin E – Brightening Formula for Improving Appearance of Dark Spots, Fine Lines & Wrinkles – All Skin Types, 2 Fl Oz](https://distausa.com/products/truskin-vitamin-c-serum-for-face-anti-aging-face-serum-with-hyaluronic-acid-vitamin-e-brightening-formula-for-improving-appearance-of-dark-spots-fine-lines-wrinkles-all-skin-types-2-fl-oz)
   Price: $39.19 USD
 - [TruSkin Vitamin C Super Serum for Face - Five Skin Benefits in One Serum with Vitamin C, Retinol, Niacinamide, Hyaluronic Acid & Squalane - Brighten, Firm & Smooth the Look of Skin, 2 Fl Oz](https://distausa.com/products/truskin-vitamin-c-super-serum-for-face-five-skin-benefits-in-one-serum-with-vitamin-c-retinol-niacinamide-hyaluronic-acid-squalane-brighten-firm-smooth-the-look-of-skin-2-fl-oz)
@@ -207,7 +205,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Paula's Choice SKIN PERFECTING 2% BHA Liquid Salicylic Acid Exfoliant-Facial Exfoliant for Enlarged Pores, Wrinkles & Fine Lines, Suitable for Blackhead-Prone Skin, Fragrance-Free](https://distausa.com/products/paulas-choice-skin-perfecting-2-bha-liquid-salicylic-acid-exfoliant-facial-exfoliant-for-enlarged-pores-wrinkles-fine-lines-suitable-for-blackhead-prone-skin-fragrance-free)
   Price: $49.84 USD
 - [Paula's Choice Skin Balancing Pore-Reducing Face Toner with Niacinamide, for Oily Skin & Combination, Minimizes Large Pores, Controls Oil & Shine, Hydrates & Replenishes, Fragrance-Free, 6.4oz](https://distausa.com/products/paulas-choice-skin-balancing-pore-reducing-face-toner-with-niacinamide-for-oily-skin-combination-minimizes-large-pores-controls-oil-shine-hydrates-replenishes-fragrance-free-6-4oz)
-  Price: $28.67 USD
+  Price: $35.84 USD
 - [SKIN1004 Madagascar Centella Asiatica Ampoule Facial Serum 1.85 fl.oz, 55ml, Soothes Acne Prone and Sensitive Skin](https://distausa.com/products/skin1004-madagascar-centella-asiatica-ampoule-facial-serum-1-85-fl-oz-55ml-soothes-acne-prone-and-sensitive-skin)
   Price: $16.80 USD
 - [SKIN1004 Madagascar Centella Ampoule, Korean Face Serum with Centella Asiatica for Hydrating & Moisturizing Care, Soothing Facial Serum for Skin Balance and Glow, Korean Skin Care, 3.38 fl.oz / 100 ml](https://distausa.com/products/skin1004-madagascar-centella-ampoule-korean-face-serum-with-centella-asiatica-for-hydrating-moisturizing-care-soothing-facial-serum-for-skin-balance-and-glow-korean-skin-care-3-38-fl-oz-100-ml)
@@ -215,9 +213,9 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [mixsoon Bean Essence Exfoliating, Snail Mucin Moisturizer for Hydrating, Fermented Bean Extract, Gentle Formula for Smooth Skin 50ml / 1.69 fl.oz. Korean Glass Skin Care](https://distausa.com/products/mixsoon-bean-essence-exfoliating-snail-mucin-moisturizer-for-hydrating-fermented-bean-extract-gentle-formula-for-smooth-skin-50ml-1-69-fl-oz-korean-glass-skin-care)
   Price: $24.64 USD
 - [TIRTIR Milk Skin Rice Toner - Deep Moisturizing, Hydrating and Refreshing for face, Niacinamide, Ceramide, Rice Bran Extract, Nature-Oriented Ingredients, Korean Skin Care, Vegan, 150ml / 5.07 fl.oz.](https://distausa.com/products/tirtir-milk-skin-rice-toner-deep-moisturizing-hydrating-and-refreshing-for-face-niacinamide-ceramide-rice-bran-extract-nature-oriented-ingredients-korean-skin-care-vegan-150ml-5-07-fl-oz)
-  Price: $28.00 USD
+  Price: $22.40 USD
 - [MEDIHEAL Madecassoside Blemish Pad - Square Cotton Facial Toner Pads with Centella Asiatica & Madecassoside – Anti Blemish to Improve Uneven Skin Tone - Vegan Face Gauze Pads, 100](https://distausa.com/products/mediheal-madecassoside-blemish-pad-square-cotton-facial-toner-pads-with-centella-asiatica-madecassoside-anti-blemish-to-improve-uneven-skin-tone-vegan-face-gauze-pads-100)
-  Price: $29.57 USD
+  Price: $25.13 USD
 - [TATCHA The Dewy Skin Cream | Rich Face Cream to Hydrate, Plump and Protect Dry and Combo Skin, 50 ml | 1.7 oz](https://distausa.com/products/tatcha-the-dewy-skin-cream-rich-face-cream-to-hydrate-plump-and-protect-dry-and-combo-skin-50-ml-1-7-oz)
   Price: $82.88 USD
 - [KAHI Wrinkle Bounce Multi Balm Stick | PDRN Collagen Wrinkle Stick | Korean Skin Care |All-in-One Hydrating Lip Balm Eye Cream Neck Cream Make Up Base & Face Mist Moisture Balm](https://distausa.com/products/kahi-wrinkle-bounce-multi-balm-stick-pdrn-collagen-wrinkle-stick-korean-skin-care-all-in-one-hydrating-lip-balm-eye-cream-neck-cream-make-up-base-face-mist-moisture-balm)
@@ -225,7 +223,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [O Positiv URO Vaginal Probiotics for Women pH Balance with Prebiotics & Lactobacillus – Vaginal Health Supplement – Promote Healthy Vaginal Odor & Flora, 60 Count (Pack of 1), 1 Month Supply](https://distausa.com/products/o-positiv-uro-vaginal-probiotics-for-women-ph-balance-with-prebiotics-lactobacillus-vaginal-health-supplement-promote-healthy-vaginal-odor-flora-60-count-pack-of-1-1-month-supply)
   Price: $32.45 USD
 - [Anti-Aging Face Moisturizer with Retinol, Collagen & Hyaluronic Acid - Made in USA - Moisturizer Face Cream for Women & Men - Firming & Hydrating Neck Cream - Day & Night Skin Care - 1.7 fl oz](https://distausa.com/products/anti-aging-face-moisturizer-with-retinol-collagen-hyaluronic-acid-made-in-usa-moisturizer-face-cream-for-women-men-firming-hydrating-neck-cream-day-night-skin-care-1-7-fl-oz)
-  Price: $26.85 USD
+  Price: $26.54 USD
 - [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Elasticity, Plumping Improvement, Korean Skin Care | 1.19oz(34g) x 4ea](https://distausa.com/products/biodance-bio-collagen-real-deep-mask-hydrating-overnight-hydrogel-face-mask-pore-minimizing-elasticity-plumping-improvement-korean-skin-care-1-19oz34g-x-4ea)
   Price: $21.28 USD
 - [BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Plumping, Elasticity Improvement, Korean Skin Care | 1.19oz(34g) x 16ea](https://distausa.com/products/biodance-bio-collagen-real-deep-mask-hydrating-overnight-hydrogel-face-mask-pore-minimizing-plumping-elasticity-improvement-korean-skin-care-1-19oz34g-x-16ea)
@@ -246,6 +244,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $42.56 USD
 - [IT Cosmetics Bye Bye Redness Full Coverage Color Correcting Cream (Neutral Beige) - Redness Neutralizing Tinted Face Moisturizer, 12HR Hydration, Hyaluronic Acid, Colloidal Oatmeal - 0.37 fl oz](https://distausa.com/products/it-cosmetics-bye-bye-redness-full-coverage-color-correcting-cream-neutral-beige-redness-neutralizing-tinted-face-moisturizer-12hr-hydration-hyaluronic-acid-colloidal-oatmeal-0-37-fl-oz)
   Price: $42.56 USD
+- [Fenty Skin Total Clean'r Remove-It-All Cleanser](https://distausa.com/products/fenty-skin-total-cleanr-remove-it-all-cleanser)
+  Price: $53.75 USD
 - [Fenty Skin Fat Water Pore Refining Toner Serum](https://distausa.com/products/fenty-skin-fat-water-pore-refining-toner-serum)
   Price: $39.30 USD
 - [FENTY BEAUTY BY RIHANNA Match Stix Matte Skinstick Mocha](https://distausa.com/products/fenty-beauty-by-rihanna-match-stix-matte-skinstick-mocha)
@@ -253,19 +253,19 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Charlotte Tilbury Airbrush Flawless Finish Setting Powder - Pore-Blurring Pressed Powder for Face Makeup to Minimize Shine with a Soft-Focus Finish - 2 Medium](https://distausa.com/products/charlotte-tilbury-airbrush-flawless-finish-setting-powder-pore-blurring-pressed-powder-for-face-makeup-to-minimize-shine-with-a-soft-focus-finish-2-medium)
   Price: $56.00 USD
 - [Charlotte Tilbury Airbrush Flawless Setting Spray - Ultra-Fine Hydrating Mist to Prime & Set Face Makeup For Up to 16Hr - Soothes, Blurs Pores & Calms Skin (100ml)](https://distausa.com/products/charlotte-tilbury-airbrush-flawless-setting-spray-ultra-fine-hydrating-mist-to-prime-set-face-makeup-for-up-to-16hr-soothes-blurs-pores-calms-skin-100ml)
-  Price: $30.58 USD
+  Price: $43.68 USD
 - [Hourglass Veil Mineral Primer, Face Primer That Extends Face Makeup Wear, Creates Smooth, Even Skin, Conceals Redness, and Minimizes Pores, Lines and Wrinkles, Oil-Free and SPF 15 Protection](https://distausa.com/products/hourglass-veil-mineral-primer-face-primer-that-extends-face-makeup-wear-creates-smooth-even-skin-conceals-redness-and-minimizes-pores-lines-and-wrinkles-oil-free-and-spf-15-protection)
   Price: $64.96 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Hope](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-hope)
-  Price: $45.92 USD
+  Price: $48.16 USD
 - [Rare Beauty by Selena Gomez Positive Light Liquid Luminizer Highlight - Enlighten - Champagne](https://distausa.com/products/rare-beauty-by-selena-gomez-positive-light-liquid-luminizer-highlight-enlighten-champagne)
-  Price: $39.96 USD
+  Price: $42.36 USD
 - [Ritual Synbiotic+ Probiotic, Prebiotic, Postbiotic, 3-in-1 Supplement for Gut Health and Digestive Support, Regularity, Bloat, Immune*, Vegan Delayed-Released Daily Capsule, Women and Men, 30 Day](https://distausa.com/products/ritual-synbiotic-probiotic-prebiotic-postbiotic-3-in-1-supplement-for-gut-health-and-digestive-support-regularity-bloat-immune-vegan-delayed-released-daily-capsule-women-and-men-30-day)
   Price: $67.19 USD
 - [Sports Research Collagen Peptides - Hydrolyzed Type 1 & 3 Collagen Powder Protein Supplement for Healthy Skin, Nails, & Joints - Easy Mixing Vital Nutrients & Proteins, Collagen for Women & Men](https://distausa.com/products/sports-research-collagen-peptides-hydrolyzed-type-1-3-collagen-powder-protein-supplement-for-healthy-skin-nails-joints-easy-mixing-vital-nutrients-proteins-collagen-for-women-men)
-  Price: $36.90 USD
+  Price: $25.83 USD
 - [PanOxyl Antimicrobial Acne Creamy Wash, 4% Benzoyl Peroxide, 6 Ounce](https://distausa.com/products/panoxyl-antimicrobial-acne-creamy-wash-4-benzoyl-peroxide-6-ounce)
-  Price: $11.41 USD
+  Price: $7.99 USD
 - [PanOxyl Acne  Bar with 10% Benzoyl Peroxide, Maximum Strength Bar Soap for Face, Chest and Back, Benzoyl Peroxide Soap Body Wash, Vegan, For Acne Prone Skin, 4 oz](https://distausa.com/products/panoxyl-acne--bar-with-10-benzoyl-peroxide-maximum-strength-bar-soap-for-face-chest-and-back-benzoyl-peroxide-soap-body-wash-vegan-for-acne-prone-skin-4-oz)
   Price: $10.61 USD
 - [PanOxyl 10% Acne Foaming Wash 5.5 Ounce (Value Pack of 2)](https://distausa.com/products/panoxyl-10-acne-foaming-wash-5-5-ounce-value-pack-of-2)
@@ -277,15 +277,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [PanOxyl Clarifying Exfoliant with 2% Salicylic Acid, BHA Liquid Exfoliant for Face, Unclogs, Minimizes Appearance of Pores, Blue Algae and Antioxidants Help Calm Redness, For Acne Prone Skin, 4 fl oz](https://distausa.com/products/panoxyl-clarifying-exfoliant-with-2-salicylic-acid-bha-liquid-exfoliant-for-face-unclogs-minimizes-appearance-of-pores-blue-algae-and-antioxidants-help-calm-redness-for-acne-prone-skin-4-fl-oz)
   Price: $13.41 USD
 - [PanOxyl Adapalene 0.1% Leave-On Gel, Retinoid Gel Acne , 30-Day Supply, Acne Prone Skin, Oil Free, Fragrance Free, Paraben Free, 0.5 oz](https://distausa.com/products/panoxyl-adapalene-0-1-leave-on-gel-retinoid-gel-acne--30-day-supply-acne-prone-skin-oil-free-fragrance-free-paraben-free-0-5-oz)
-  Price: $12.50 USD
+  Price: $12.69 USD
 - [PanOxyl Blemish Brightening Patches: Dermatologist-Recommended, Help Fade Post-Acne Dark Spots and Reduce Redness, Large Clear Patches Cover a Bigger Area, Vegan and Latex-Free, 16ct](https://distausa.com/products/panoxyl-blemish-brightening-patches-dermatologist-recommended-help-fade-post-acne-dark-spots-and-reduce-redness-large-clear-patches-cover-a-bigger-area-vegan-and-latex-free-16ct)
   Price: $8.32 USD
 - [Proactiv 3 Step Acne  - Benzoyl Peroxide Face Wash, Repairing Acne Spot  for Face And Body, Exfoliating Toner - 60 Day Complete Acne Skin Care Kit](https://distausa.com/products/proactiv-3-step-acne--benzoyl-peroxide-face-wash-repairing-acne-spot--for-face-and-body-exfoliating-toner-60-day-complete-acne-skin-care-kit)
-  Price: $58.67 USD
+  Price: $63.77 USD
 - [Proactiv Acne Cleanser - Benzoyl Peroxide Face Wash and Acne  - Daily Facial Cleanser and Hyularonic Acid Moisturizer with Exfoliating Beads - 60 Day Supply, 4 Fl Oz](https://distausa.com/products/proactiv-acne-cleanser-benzoyl-peroxide-face-wash-and-acne--daily-facial-cleanser-and-hyularonic-acid-moisturizer-with-exfoliating-beads-60-day-supply-4-fl-oz)
   Price: $27.85 USD
 - [Proactiv MD Exfoliating Face Wash, Gentle and Hydrating Facial Cleanser and Acne  for Sensitive Skin, 6 Oz Clear Unscented](https://distausa.com/products/proactiv-md-exfoliating-face-wash-gentle-and-hydrating-facial-cleanser-and-acne--for-sensitive-skin-6-oz-clear-unscented)
-  Price: $40.32 USD
+  Price: $50.23 USD
 - [Drunk Elephant The Littles 7.0 Kit - 6 Travel-Friendly A.M. and P.M. Essentials - Clean Clinical Skincare - Cruelty-Free - Dermatologist-Tested - Free of Essential Oils, Silicones, and Fragrance](https://distausa.com/products/drunk-elephant-the-littles-7-0-kit-6-travel-friendly-a-m-and-p-m-essentials-clean-clinical-skincare-cruelty-free-dermatologist-tested-free-of-essential-oils-silicones-and-fragrance)
   Price: $65.33 USD
 - [Thorne Research - Zinc Picolinate 30 mg - Well-Absorbed Zinc Supplement for Growth and Immune Function - 180 Capsules](https://distausa.com/products/thorne-research-zinc-picolinate-30-mg-well-absorbed-zinc-supplement-for-growth-and-immune-function-180-capsules)
@@ -298,8 +298,6 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $31.75 USD
 - [Drunk Elephant Sili Body Lotion - 240 ml/8 fl oz - Lightweight Daily Lotion - Clean Clinical Skincare - Cruelty-Free - Dermatologist Tested - Free of Essential Oils, Silicones, and Fragrance](https://distausa.com/products/drunk-elephant-sili-body-lotion-240-ml-8-fl-oz-lightweight-daily-lotion-clean-clinical-skincare-cruelty-free-dermatologist-tested-free-of-essential-oils-silicones-and-fragrance)
   Price: $27.05 USD
-- [F-Balm Electrolyte Waterfacial Hydrating Mask by Drunk Elephant for Women - 1.69 oz Mask](https://distausa.com/products/f-balm-electrolyte-waterfacial-hydrating-mask-by-drunk-elephant-for-women-1-69-oz-mask)
-  Price: $50.57 USD
 - [Drunk Elephant T.L.C. Glycolic Body Lotion - 240 ml/8 fl oz - Lightweight 10% Exfoliating AHA Lotion - Clean Clinical Skincare - Cruelty-Free - Free of Essential Oils, Silicones, and Fragrance](https://distausa.com/products/drunk-elephant-t-l-c-glycolic-body-lotion-240-ml-8-fl-oz-lightweight-10-exfoliating-aha-lotion-clean-clinical-skincare-cruelty-free-free-of-essential-oils-silicones-and-fragrance)
   Price: $33.60 USD
 - [Drunk Elephant Cocomino Marula Cream Conditioner - 240 ml/8 fl oz - Coconut Amino Acids - Clean Clinical - Sulfate-Free - Cruelty-Free - Dermatologist-Tested - Free of Essential Oils, Silicones, SLS](https://distausa.com/products/drunk-elephant-cocomino-marula-cream-conditioner-240-ml-8-fl-oz-coconut-amino-acids-clean-clinical-sulfate-free-cruelty-free-dermatologist-tested-free-of-essential-oils-silicones-sls)
@@ -349,7 +347,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nature Made High Absorption Magnesium Glycinate 300mg per 3 Capsules, Magnesium Supplement for Muscle, Heart, Nerve and Bone Support, 90 Magnesium Bisglycinate Capsules, 30 Day Supply](https://distausa.com/products/nature-made-high-absorption-magnesium-glycinate-300mg-per-3-capsules-magnesium-supplement-for-muscle-heart-nerve-and-bone-support-90-magnesium-bisglycinate-capsules-30-day-supply)
   Price: $25.75 USD
 - [Nature Made Vitamin D3 5000 IU (125 mcg) Softgels, Extra Strength Vitamin D Supplement for Bone and Immune Health Support, 180 Count, 180 Day Supply](https://distausa.com/products/nature-made-vitamin-d3-5000-iu-125-mcg-softgels-extra-strength-vitamin-d-supplement-for-bone-and-immune-health-support-180-count-180-day-supply)
-  Price: $11.20 USD
+  Price: $16.00 USD
 - [Nature Made Vitamin D3 Dietary Supplement Softgels, 5000 I.U, 100 Count](https://distausa.com/products/nature-made-vitamin-d3-dietary-supplement-softgels-5000-i-u-100-count)
   Price: $14.86 USD
 - [Nature Made Vitamin D-3 5000IU 220 Count Softgels](https://distausa.com/products/nature-made-vitamin-d-3-5000iu-220-count-softgels)
@@ -375,29 +373,29 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nature Made Vitamin D3 1000 IU (25 mcg), Vitamin D Supplement for Bone, Teeth, Muscle and Immune Health Support, 180 Softgels, 180 Day Supply](https://distausa.com/products/nature-made-vitamin-d3-1000-iu-25-mcg-vitamin-d-supplement-for-bone-teeth-muscle-and-immune-health-support-180-softgels-180-day-supply)
   Price: $7.24 USD
 - [Nature Made Extra Strength Omega 3 Fish Oil Supplements, 2800mg, Fish Oil Omega 3 Supplements as Ethyl Esters for Healthy Heart, Brain, Eyes, Mood Support, 60 Softgels, 30 Day Supply](https://distausa.com/products/nature-made-extra-strength-omega-3-fish-oil-supplements-2800mg-fish-oil-omega-3-supplements-as-ethyl-esters-for-healthy-heart-brain-eyes-mood-support-60-softgels-30-day-supply)
-  Price: $15.67 USD
+  Price: $28.73 USD
 - [Nature Made Extra Strength Omega 3 Fish Oil Supplements, 1400mg, Fish Oil Omega 3 Supplements as Ethyl Esters for Healthy Heart, Brain, Eyes, Mood Support, 45 Softgels, 45 Day Supply](https://distausa.com/products/nature-made-extra-strength-omega-3-fish-oil-supplements-1400mg-fish-oil-omega-3-supplements-as-ethyl-esters-for-healthy-heart-brain-eyes-mood-support-45-softgels-45-day-supply)
   Price: $19.02 USD
 - [Nature Made Magnesium Glycinate 200 mg per Serving, Magnesium Supplement for Muscle, Heart, Nerve and Bone Support, 60 Magnesium Bisglycinate Capsules, 30 Day Supply](https://distausa.com/products/nature-made-magnesium-glycinate-200-mg-per-serving-magnesium-supplement-for-muscle-heart-nerve-and-bone-support-60-magnesium-bisglycinate-capsules-30-day-supply)
   Price: $13.10 USD
 - [Nature Made Magnesium Glycinate 200 mg per serving, Magnesium Supplement for Muscle, Heart, Nerve and Bone Support, 180 Magnesium Bisglycinate Capsules, 90 Day Supply](https://distausa.com/products/nature-made-magnesium-glycinate-200-mg-per-serving-magnesium-supplement-for-muscle-heart-nerve-and-bone-support-180-magnesium-bisglycinate-capsules-90-day-supply)
-  Price: $39.31 USD
+  Price: $35.83 USD
 - [Nature Made Magnesium Oxide 250 mg, Magnesium Supplements for Men and Women, Support for Muscle, Heart, Bone and Nerve Health, 100 Tablets, 100 Day Supply](https://distausa.com/products/nature-made-magnesium-oxide-250-mg-magnesium-supplements-for-men-and-women-support-for-muscle-heart-bone-and-nerve-health-100-tablets-100-day-supply)
-  Price: $6.22 USD
+  Price: $5.90 USD
 - [Nature Made Magnesium Oxide 250 mg, Dietary Supplement for Muscle, Heart, Bone and Nerve Health Support, 100 Tablets, 100 Day Supply (Pack of 2)](https://distausa.com/products/nature-made-magnesium-oxide-250-mg-dietary-supplement-for-muscle-heart-bone-and-nerve-health-support-100-tablets-100-day-supply-pack-of-2)
-  Price: $16.80 USD
+  Price: $17.70 USD
 - [Nature Made Vitamin B12 1000 mcg, Easy to Take Vitamin B12 Sublingual Tablets for Energy Metabolism Support, 150 Sugar Free Fast Dissolve Tablets, 150 Day Supply](https://distausa.com/products/nature-made-vitamin-b12-1000-mcg-easy-to-take-vitamin-b12-sublingual-tablets-for-energy-metabolism-support-150-sugar-free-fast-dissolve-tablets-150-day-supply)
   Price: $18.87 USD
 - [Nature Made Vitamin B12 1000 mcg, Easy to Take Vitamin B12 Sublingual Tablets for Energy Metabolism Support, 50 Sugar Free Fast Dissolve Tablets, 50 Day Supply](https://distausa.com/products/nature-made-vitamin-b12-1000-mcg-easy-to-take-vitamin-b12-sublingual-tablets-for-energy-metabolism-support-50-sugar-free-fast-dissolve-tablets-50-day-supply)
   Price: $10.04 USD
 - [Nature Made Vitamin B-1 100 mg Tablets - 100 ct, Pack of 2](https://distausa.com/products/nature-made-vitamin-b-1-100-mg-tablets-100-ct-pack-of-2)
-  Price: $18.00 USD
+  Price: $18.33 USD
 - [Nature Made B1 100 Mg 100 Count (5 Pack)](https://distausa.com/products/nature-made-b1-100-mg-100-count-5-pack)
-  Price: $37.67 USD
+  Price: $37.78 USD
 - [Nature Made Burp Less Fish Oil Omega 3 Supplements, 1000mg Softgels, Omega 3 Fish Oil Supplements for Healthy Heart Support, 320 Softgels, 160 Day Supply](https://distausa.com/products/nature-made-burp-less-fish-oil-omega-3-supplements-1000mg-softgels-omega-3-fish-oil-supplements-for-healthy-heart-support-320-softgels-160-day-supply)
-  Price: $34.29 USD
+  Price: $31.63 USD
 - [Nature Made Turmeric Curcumin 500 mg, Turmeric Curcumin Supplement for Antioxidant Support, Herbal Supplements, 120 Capsules, 120 Day Supply](https://distausa.com/products/nature-made-turmeric-curcumin-500-mg-turmeric-curcumin-supplement-for-antioxidant-support-herbal-supplements-120-capsules-120-day-supply)
-  Price: $14.20 USD
+  Price: $14.21 USD
 - [Nature Made Multivitamin for Men Over 50, Mens Multivitamins 50 Plus, Daily Nutritional Support, Nature Made Multi Vitamins, 90 Tablets, 90 Day Supply](https://distausa.com/products/nature-made-multivitamin-for-men-over-50-mens-multivitamins-50-plus-daily-nutritional-support-nature-made-multi-vitamins-90-tablets-90-day-supply)
   Price: $11.40 USD
 - [Nature Made Multi for Him 50+ Dietary Supplement Tablets 90 ea (Pack of 4)](https://distausa.com/products/nature-made-multi-for-him-50-dietary-supplement-tablets-90-ea-pack-of-4)
@@ -407,17 +405,17 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nature Made Calcium 600 mg with Vitamin D3, Dietary Supplement for Bone Support, 220 Tablets](https://distausa.com/products/nature-made-calcium-600-mg-with-vitamin-d3-dietary-supplement-for-bone-support-220-tablets)
   Price: $16.08 USD
 - [Nature Made Super B Complex Vitamins for Women and Men, Dietary Supplement for Energy Metabolism Support, Super Vitamin B Complex, 160 Softgels, 160 Day Supply](https://distausa.com/products/nature-made-super-b-complex-vitamins-for-women-and-men-dietary-supplement-for-energy-metabolism-support-super-vitamin-b-complex-160-softgels-160-day-supply)
-  Price: $22.95 USD
+  Price: $23.80 USD
 - [Nature Made Super B Complex with Vitamin C & Folic Acid, B Complex Vitamins for Women and Men, Dietary Supplement for Immune Support, 140 Tablets, 140 Day Supply](https://distausa.com/products/nature-made-super-b-complex-with-vitamin-c-folic-acid-b-complex-vitamins-for-women-and-men-dietary-supplement-for-immune-support-140-tablets-140-day-supply)
-  Price: $9.51 USD
+  Price: $11.08 USD
 - [Nature Made Super B Complex with Vitamin C and Folic Acid, Dietary Supplement for Immune Support, 250 Tablets, 250 Day Supply](https://distausa.com/products/nature-made-super-b-complex-with-vitamin-c-and-folic-acid-dietary-supplement-for-immune-support-250-tablets-250-day-supply)
-  Price: $36.58 USD
+  Price: $35.77 USD
 - [Nature Made Super Vitamin B-Complex + Vitamin C Tablets, 360 ct](https://distausa.com/products/nature-made-super-vitamin-b-complex-vitamin-c-tablets-360-ct)
   Price: $21.27 USD
 - [Nature Made Vitamin C 1000 mg Extra Strength, Dietary Supplement for Immune Support, 100 Tablets, 100 Day Supply](https://distausa.com/products/nature-made-vitamin-c-1000-mg-extra-strength-dietary-supplement-for-immune-support-100-tablets-100-day-supply)
   Price: $9.55 USD
 - [Nature Made Vitamin C 1000 mg Extra Strength, Dietary Supplement for Immune Support, 300 Tablets, 300 Day Supply](https://distausa.com/products/nature-made-vitamin-c-1000-mg-extra-strength-dietary-supplement-for-immune-support-300-tablets-300-day-supply)
-  Price: $30.89 USD
+  Price: $37.52 USD
 - [Nature Made Vitamin B12 1000 mcg, Dietary Supplement for Energy Metabolism Support, B12 Vitamins 1000 mcg, 90 Softgels, 90 Day Supply](https://distausa.com/products/nature-made-vitamin-b12-1000-mcg-dietary-supplement-for-energy-metabolism-support-b12-vitamins-1000-mcg-90-softgels-90-day-supply)
   Price: $15.56 USD
 - [Nature Made Vitamin B12 1000 mcg, Dietary Supplement for Energy Metabolism Support, B12 Vitamins 1000 mcg, 150 Softgels, 150 Day Supply](https://distausa.com/products/nature-made-vitamin-b12-1000-mcg-dietary-supplement-for-energy-metabolism-support-b12-vitamins-1000-mcg-150-softgels-150-day-supply)
@@ -431,7 +429,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nature Made CoQ10, Softgels Helps Supports Heart Function & Cellular Energy Production, Unflavored, 200 mg, 140 Count](https://distausa.com/products/nature-made-coq10-softgels-helps-supports-heart-function-cellular-energy-production-unflavored-200-mg-140-count)
   Price: $42.50 USD
 - [Nature Made CoQ10 Coenzyme Q10 200 mg - 2 Bottles, 140 Softgels Each](https://distausa.com/products/nature-made-coq10-coenzyme-q10-200-mg-2-bottles-140-softgels-each)
-  Price: $88.19 USD
+  Price: $86.23 USD
 - [Nature Made Vitamin B12 1000 mcg, B12 Vitamins, Dietary Supplement for Energy Metabolism Support, 160 Time Release Tablets, 160 Day Supply](https://distausa.com/products/nature-made-vitamin-b12-1000-mcg-b12-vitamins-dietary-supplement-for-energy-metabolism-support-160-time-release-tablets-160-day-supply)
   Price: $11.93 USD
 - [FRANKLY Retinol 0.1% Cream, 1.01 fl oz - Beginner Retinol | Night Cream | with Ceramides & Natural Ginseng | Anti-aging, Wrinkles Care, Reduces Congestion and hyperpigmentation | Korean Skin Care](https://distausa.com/products/frankly-retinol-0-1-cream-1-01-fl-oz-beginner-retinol-night-cream-with-ceramides-natural-ginseng-anti-aging-wrinkles-care-reduces-congestion-and-hyperpigmentation-korean-skin-care)
@@ -439,17 +437,17 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [FRANKLY Retinol 0.3% Cream, 0.7 fl oz - Korean Intensive Retinol | Night Cream | Ceramides & Natural Ginseng | Anti-aging, Wrinkles Care, Reduces Congestion and hyperpigmentation | Korean Skin Care](https://distausa.com/products/frankly-retinol-0-3-cream-0-7-fl-oz-korean-intensive-retinol-night-cream-ceramides-natural-ginseng-anti-aging-wrinkles-care-reduces-congestion-and-hyperpigmentation-korean-skin-care)
   Price: $17.81 USD
 - [Retinoid Cream - 4.25% Retinol Night Moisturizer for Face & Neck with Collagen, Peptides & Hyaluronic Acid - Anti Aging Wrinkle Cream, Improves Skin Tone & Texture, 3.4 oz](https://distausa.com/products/retinoid-cream-4-25-retinol-night-moisturizer-for-face-neck-with-collagen-peptides-hyaluronic-acid-anti-aging-wrinkle-cream-improves-skin-tone-texture-3-4-oz)
-  Price: $28.97 USD
+  Price: $41.38 USD
 - [Retinoid Cream - 4.25% Retinol Night Moisturizer for Face & Neck with Collagen, Peptides & Hyaluronic Acid - Anti Aging Wrinkle Cream, Improves Skin Tone & Texture, 1.4 oz](https://distausa.com/products/retinoid-cream-4-25-retinol-night-moisturizer-for-face-neck-with-collagen-peptides-hyaluronic-acid-anti-aging-wrinkle-cream-improves-skin-tone-texture-1-4-oz)
   Price: $27.94 USD
 - [COSRX Retinol 0.1% Cream, 0.67 Oz, Anti-aging Eye & Neck Cream with Retinoid  to Firm Skin, Reduce Wrinkles, Fine Lines, Signs of Aging, Gentle Daily Korean Skin Care](https://distausa.com/products/cosrx-retinol-0-1-cream-0-67-oz-anti-aging-eye-neck-cream-with-retinoid--to-firm-skin-reduce-wrinkles-fine-lines-signs-of-aging-gentle-daily-korean-skin-care)
-  Price: $24.64 USD
+  Price: $21.17 USD
 - [Paula's Choice CLINICAL 1% Retinol  Cream with Peptides, Vitamin C & Licorice Extract, Anti-Aging & Wrinkles, Travel Size. PACKAGING MAY VARY.](https://distausa.com/products/paulas-choice-clinical-1-retinol--cream-with-peptides-vitamin-c-licorice-extract-anti-aging-wrinkles-travel-size-packaging-may-vary)
-  Price: $14.11 USD
+  Price: $9.88 USD
 - [Paula's Choice CLINICAL 1% Retinol Face  with Peptides, Vitamin C & Licorice Extract, Anti-Aging Skin Care Serum, Fine Lines & Wrinkles, Fragrance Free, 1 Fl Oz](https://distausa.com/products/paulas-choice-clinical-1-retinol-face--with-peptides-vitamin-c-licorice-extract-anti-aging-skin-care-serum-fine-lines-wrinkles-fragrance-free-1-fl-oz)
   Price: $54.60 USD
 - [Sahale Snacks California Dry Roasted Almonds, 1.5 oz Grab & Go Bags (18 Packs) - Dry-Roasted Almonds with a Touch of Sea Salt - Non-GMO, Kosher, &  Gluten-Free Snacks](https://distausa.com/products/sahale-snacks-california-dry-roasted-almonds-1-5-oz-grab-go-bags-18-packs-dry-roasted-almonds-with-a-touch-of-sea-salt-non-gmo-kosher--gluten-free-snacks)
-  Price: $57.25 USD
+  Price: $32.79 USD
 - [Naturium Azelaic Topical Acid 10%, Face & Skin Care Beauty  with Niacinamide & Vitamin C, 1 oz](https://distausa.com/products/naturium-azelaic-topical-acid-10-face-skin-care-beauty--with-niacinamide-vitamin-c-1-oz)
   Price: $22.27 USD
 - [Naturium Azelaic Topical Acid 10% Jumbo, Face & Skin Care Beauty  with Niacinamide & Vitamin C, 2 oz](https://distausa.com/products/naturium-azelaic-topical-acid-10-jumbo-face-skin-care-beauty--with-niacinamide-vitamin-c-2-oz)
@@ -457,11 +455,11 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Paula’s Choice BOOST 10% Azelaic Acid Booster Cream Gel, Oil-Free Serum Fades Discoloration & Post-Blemish Marks, with Licorice Extract & Salicylic Acid, Fragrance-Free, 1 Fl Oz](https://distausa.com/products/paula-s-choice-boost-10-azelaic-acid-booster-cream-gel-oil-free-serum-fades-discoloration-post-blemish-marks-with-licorice-extract-salicylic-acid-fragrance-free-1-fl-oz)
   Price: $47.04 USD
 - [Cos De BAHA Premium Azelaic Acid 10% Serum 1 Fl Oz – Niacinamide & Panthenol Face Serum for Blemish-Prone, Redness-Prone & Oily Skin – Lightweight Aloe-Based Korean Skincare (30 ml)](https://distausa.com/products/cos-de-baha-premium-azelaic-acid-10-serum-1-fl-oz-niacinamide-panthenol-face-serum-for-blemish-prone-redness-prone-oily-skin-lightweight-aloe-based-korean-skincare-30-ml)
-  Price: $22.39 USD
+  Price: $23.82 USD
 - [Naked & Thriving Illuminate BC+ Face Serum | Hyaluronic Acid, Vitamin C, Bakuchiol | Organic, Vegan, & Naturally-Derived Skin Care | For Mature Skin, Visible Spots and Wrinkles (1.0 fl oz/30 mL)](https://distausa.com/products/naked-thriving-illuminate-bc-face-serum-hyaluronic-acid-vitamin-c-bakuchiol-organic-vegan-naturally-derived-skin-care-for-mature-skin-visible-spots-and-wrinkles-1-0-fl-oz-30-ml)
   Price: $85.12 USD
 - [Cocokind Vitamin C Glow Serum with Azelaic Acid and Sea Grape Caviar for Bright and Even Skin, 1 Fl Oz](https://distausa.com/products/cocokind-vitamin-c-glow-serum-with-azelaic-acid-and-sea-grape-caviar-for-bright-and-even-skin-1-fl-oz)
-  Price: $24.63 USD
+  Price: $17.24 USD
 - [Life Extension Super K, Vitamin K1, Vitamin K2 mk-7, Vitamin K2 mk-4, Heart Health, arterial Health, Calcium Balance, 3-Month Supply, Gluten-Free, 1 Daily, Non-GMO, 90 softgels](https://distausa.com/products/life-extension-super-k-vitamin-k1-vitamin-k2-mk-7-vitamin-k2-mk-4-heart-health-arterial-health-calcium-balance-3-month-supply-gluten-free-1-daily-non-gmo-90-softgels)
   Price: $25.17 USD
 - [Force Factor Smarter Greens Superfood Chews, Greens and Superfoods with Probiotics, Antioxidants, and Fiber, Greens Supplement to Support Digestion, Nitric Oxide, and Energy, 60 Soft Chews](https://distausa.com/products/force-factor-smarter-greens-superfood-chews-greens-and-superfoods-with-probiotics-antioxidants-and-fiber-greens-supplement-to-support-digestion-nitric-oxide-and-energy-60-soft-chews)
@@ -470,12 +468,10 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $17.28 USD
 - [Force Factor Total Beets Soft Chews with Beetroot, Nitrates, L-Citrulline, Grapeseed Extract, and Antioxidants, Healthy Energy Supplement with Elite Ingredients, Heart Health Superfood, 60 Chews](https://distausa.com/products/force-factor-total-beets-soft-chews-with-beetroot-nitrates-l-citrulline-grapeseed-extract-and-antioxidants-healthy-energy-supplement-with-elite-ingredients-heart-health-superfood-60-chews)
   Price: $10.91 USD
-- [PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash, Maximum Strength, Daily Acne-Fighting Face and Body Cleanser, Face Wash to Clear, Treat and Prevent Acne Pimples and Stubborn Breakouts, 5.5 Oz Tube](https://distausa.com/products/panoxyl-10-benzoyl-peroxide-acne-foaming-wash-maximum-strength-daily-acne-fighting-face-and-body-cleanser-face-wash-to-clear-treat-and-prevent-acne-pimples-and-stubborn-breakouts-5-5-oz-tube)
-  Price: $7.76 USD
 - [PanOxyl PM Overnight Spot Patches, Advanced Hydrocolloid Healing Technology, Fragrance Free, 80 Count](https://distausa.com/products/panoxyl-pm-overnight-spot-patches-advanced-hydrocolloid-healing-technology-fragrance-free-80-count)
   Price: $19.03 USD
 - [PanOxyl Pm Overnight Spot Patches with Advanced Hydrocolloid Healing Technology, 40 Count (Pack of 3)](https://distausa.com/products/panoxyl-pm-overnight-spot-patches-with-advanced-hydrocolloid-healing-technology-40-count-pack-of-3)
-  Price: $17.68 USD
+  Price: $17.36 USD
 - [PanOxyl PM Balancing Repair Moisturizer with Niacinamide, Ceramides and Cica, Hydrating Face Moisturizer, Acne Prone Skin and Dry Skin, Non-Comedogenic Night Face Moisturizer, 3 oz](https://distausa.com/products/panoxyl-pm-balancing-repair-moisturizer-with-niacinamide-ceramides-and-cica-hydrating-face-moisturizer-acne-prone-skin-and-dry-skin-non-comedogenic-night-face-moisturizer-3-oz)
   Price: $11.74 USD
 - [PanOxyl Acne Foaming Wash 10% Benzoyl Peroxide 5.5 oz (156 g) - Pack of 2](https://distausa.com/products/panoxyl-acne-foaming-wash-10-benzoyl-peroxide-5-5-oz-156-g-pack-of-2)
@@ -485,15 +481,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [PanOxyl Acne Creamy Wash, 4% Benzoyl Peroxide 6 Ounce, (Pack of 2)](https://distausa.com/products/panoxyl-acne-creamy-wash-4-benzoyl-peroxide-6-ounce-pack-of-2)
   Price: $28.31 USD
 - [PanOxyl - Acne Creamy Wash 4 Percent Benzoyl Peroxide Daily Control, 6 Ounce](https://distausa.com/products/panoxyl-acne-creamy-wash-4-percent-benzoyl-peroxide-daily-control-6-ounce)
-  Price: $16.40 USD
+  Price: $19.14 USD
 - [PanOxyl Creamy Acne Wash, 6 oz (3 Pack)](https://distausa.com/products/panoxyl-creamy-acne-wash-6-oz-3-pack)
-  Price: $37.31 USD
+  Price: $37.96 USD
 - [PanOxyl 4 Acne Creamy Wash, 4% Benzoyl Peroxide 6 oz (Pack of 4)](https://distausa.com/products/panoxyl-4-acne-creamy-wash-4-benzoyl-peroxide-6-oz-pack-of-4)
-  Price: $52.56 USD
+  Price: $57.88 USD
 - [PanOxyl 4 Acne Creamy Wash, 4% Benzoyl Peroxide 6 oz (Pack of 6)](https://distausa.com/products/panoxyl-4-acne-creamy-wash-4-benzoyl-peroxide-6-oz-pack-of-6)
-  Price: $75.44 USD
+  Price: $81.33 USD
 - [PanOxyl 4 Acne Creamy Wash, 4% Benzoyl Peroxide 6 oz (Pack of 12)](https://distausa.com/products/panoxyl-4-acne-creamy-wash-4-benzoyl-peroxide-6-oz-pack-of-12)
-  Price: $145.67 USD
+  Price: $150.80 USD
 - [NOW Supplements, Vitamin D-3 & K-2, 1,000 IU/45 mcg,Plus Cardiovascular Support*, Supports Bone Health*, 120 veg Capsules](https://distausa.com/products/now-supplements-vitamin-d-3-k-2-1-000-iu-45-mcg-plus-cardiovascular-support-supports-bone-health-120-veg-capsules)
   Price: $6.99 USD
 - [NOW Foods Supplements, Mega D-3 & MK-7 with Vitamins D-3 & K-2, 5,000 IU/180 mcg, Bone & Cardiovascular Support*, 60 Veg Capsules](https://distausa.com/products/now-foods-supplements-mega-d-3-mk-7-with-vitamins-d-3-k-2-5-000-iu-180-mcg-bone-cardiovascular-support-60-veg-capsules)
@@ -529,67 +525,67 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Rare Beauty Perfect Strokes Longwear Gel Eyeliner - True Black (Black) - 0.009 oz / 0.25 g](https://distausa.com/products/rare-beauty-perfect-strokes-longwear-gel-eyeliner-true-black-black-0-009-oz-0-25-g)
   Price: $21.28 USD
 - [Rare Beauty by Selena Gomez Positive Light Liquid Luminizer Highlight Flaunt](https://distausa.com/products/rare-beauty-by-selena-gomez-positive-light-liquid-luminizer-highlight-flaunt)
-  Price: $33.54 USD
+  Price: $31.36 USD
 - [Rare Beauty Positive Light Liquid Luminizer (Enchant)](https://distausa.com/products/rare-beauty-positive-light-liquid-luminizer-enchant)
-  Price: $43.68 USD
+  Price: $31.36 USD
 - [Rare Beauty Positive Light Liquid Luminizer (Mesmerize)](https://distausa.com/products/rare-beauty-positive-light-liquid-luminizer-mesmerize)
-  Price: $34.37 USD
+  Price: $31.36 USD
 - [Rare Beauty Positive Light Liquid Luminizer (Outshine)](https://distausa.com/products/rare-beauty-positive-light-liquid-luminizer-outshine)
   Price: $31.36 USD
 - [Rare Beauty Positive Light Liquid Luminizer (Transcend)](https://distausa.com/products/rare-beauty-positive-light-liquid-luminizer-transcend)
-  Price: $39.14 USD
+  Price: $31.36 USD
 - [Rare Beauty by Selena Gomez Kind Words Lip Liner Wise](https://distausa.com/products/rare-beauty-by-selena-gomez-kind-words-lip-liner-wise)
-  Price: $31.33 USD
+  Price: $20.16 USD
 - [Rare Beauty Light Medium Under Eye Brightener - 4ml All-Skin Paraben-Free Cream](https://distausa.com/products/rare-beauty-light-medium-under-eye-brightener-4ml-all-skin-paraben-free-cream)
-  Price: $26.32 USD
+  Price: $25.76 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Happy](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-happy)
   Price: $19.04 USD
 - [YAMOOCO Rare Beauty by Selena Gomez Mini Always an Optimist 4-in-1 Mist 1.18 fl oz / 35 mL](https://distausa.com/products/yamooco-rare-beauty-by-selena-gomez-mini-always-an-optimist-4-in-1-mist-1-18-fl-oz-35-ml)
-  Price: $19.04 USD
+  Price: $19.36 USD
 - [Rare Beauty by Selena Gomez Positive Light Liquid Luminizer Highlight Reflect](https://distausa.com/products/rare-beauty-by-selena-gomez-positive-light-liquid-luminizer-highlight-reflect)
-  Price: $43.68 USD
+  Price: $31.36 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Virtue](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-virtue)
-  Price: $39.20 USD
+  Price: $33.59 USD
 - [Rare Beauty by Selena Gomez All of the Above Weightless Eyeshadow Stick Contentment](https://distausa.com/products/rare-beauty-by-selena-gomez-all-of-the-above-weightless-eyeshadow-stick-contentment)
-  Price: $35.57 USD
+  Price: $36.13 USD
 - [Rare Beauty by Selena Gomez All of the Above Weightless Eyeshadow Stick Compassion](https://distausa.com/products/rare-beauty-by-selena-gomez-all-of-the-above-weightless-eyeshadow-stick-compassion)
   Price: $28.00 USD
 - [Rare Beauty by Selena Gomez All of the Above Weightless Eyeshadow Stick Growth](https://distausa.com/products/rare-beauty-by-selena-gomez-all-of-the-above-weightless-eyeshadow-stick-growth)
   Price: $27.99 USD
 - [Rare Beauty by Selena Gomez Brow Harmony Pencil & Gel Cool Brown (Selena's shade)](https://distausa.com/products/rare-beauty-by-selena-gomez-brow-harmony-pencil-gel-cool-brown-selenas-shade)
-  Price: $32.09 USD
+  Price: $35.36 USD
 - [Rare Beauty by Selena Gomez Brow Harmony Pencil & Gel Rich Taupe](https://distausa.com/products/rare-beauty-by-selena-gomez-brow-harmony-pencil-gel-rich-taupe)
   Price: $33.58 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Encourage](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-encourage)
-  Price: $30.13 USD
+  Price: $31.25 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Grateful](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-grateful)
   Price: $22.78 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Happy](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-happy)
-  Price: $29.68 USD
+  Price: $21.90 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Hope](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-hope)
-  Price: $32.26 USD
+  Price: $30.13 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Joy](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-joy)
-  Price: $28.00 USD
+  Price: $30.80 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Serenity 0.10 Fl Oz (Pack of 1)](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-serenity-0-10-fl-oz-pack-of-1)
   Price: $24.64 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Delight](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-delight)
-  Price: $22.40 USD
+  Price: $35.84 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Honesty 0.10 Fl Oz (Pack of 1)](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-honesty-0-10-fl-oz-pack-of-1)
   Price: $26.88 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Wonder](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-wonder)
-  Price: $26.88 USD
+  Price: $24.60 USD
 - [Rare Beauty Find Comfort Hydarting Hand Cream](https://distausa.com/products/rare-beauty-find-comfort-hydarting-hand-cream)
   Price: $20.16 USD
 - [Rare Beauty Soft Pinch Luminous Powder Blush, Hope (nude mauve), Radiant Finish, 0.098 oz/2.8 g, Palette](https://distausa.com/products/rare-beauty-soft-pinch-luminous-powder-blush-hope-nude-mauve-radiant-finish-0-098-oz-2-8-g-palette)
   Price: $30.24 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Luminous Powder Blush - Love (Terracotta) 0.098 oz / 2.8 g](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-luminous-powder-blush-love-terracotta-0-098-oz-2-8-g)
-  Price: $30.24 USD
+  Price: $24.62 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Luminous Powder Blush - Cheer (light warm pink) 0.098 oz / 2.8 g](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-luminous-powder-blush-cheer-light-warm-pink-0-098-oz-2-8-g)
   Price: $30.24 USD
 - [Rare Beauty Soft Pinch Luminous Powder Blush - Truth Radiant Mauve Maroon, 0.098 oz/2.8 g, Palette](https://distausa.com/products/rare-beauty-soft-pinch-luminous-powder-blush-truth-radiant-mauve-maroon-0-098-oz-2-8-g-palette)
   Price: $30.24 USD
 - [Rare Beauty Soft Pinch Luminous Powder Blush, Joy (muted peach), Radiant Finish, 0.098 oz/2.8 g](https://distausa.com/products/rare-beauty-soft-pinch-luminous-powder-blush-joy-muted-peach-radiant-finish-0-098-oz-2-8-g)
-  Price: $25.76 USD
+  Price: $30.24 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Luminous Powder Blush - Happy (cool pink) 0.098 oz / 2.8 g](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-luminous-powder-blush-happy-cool-pink-0-098-oz-2-8-g)
   Price: $22.85 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Liquid Blush Mini Size - Encourage - Soft Neutral Pink](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-mini-size-encourage-soft-neutral-pink)
@@ -597,15 +593,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Rare Beauty by Selena Gomez Always An Optimist 4-in-1 Prime & Set Mist 2.87 oz/ 85 mL](https://distausa.com/products/rare-beauty-by-selena-gomez-always-an-optimist-4-in-1-prime-set-mist-2-87-oz-85-ml)
   Price: $43.68 USD
 - [Rare Beauty by Selena Gomez Perfect Strokes Universal Volumizing Mascara Black](https://distausa.com/products/rare-beauty-by-selena-gomez-perfect-strokes-universal-volumizing-mascara-black)
-  Price: $32.48 USD
+  Price: $42.56 USD
 - [Rare Beauty by Selena Gomez Positive Light Silky Touch Highlighter Flaunt](https://distausa.com/products/rare-beauty-by-selena-gomez-positive-light-silky-touch-highlighter-flaunt)
-  Price: $31.36 USD
+  Price: $47.01 USD
 - [Rare Beauty All Skin Type Soothing Under Eye Brightener - 4ml Cream](https://distausa.com/products/rare-beauty-all-skin-type-soothing-under-eye-brightener-4ml-cream)
   Price: $27.69 USD
 - [Rare Beauty by Selena Gomez Warm Wishes Effortless Bronzer Sticks Happy Sol](https://distausa.com/products/rare-beauty-by-selena-gomez-warm-wishes-effortless-bronzer-sticks-happy-sol)
   Price: $44.72 USD
 - [Rare Beauty Find Comfort Gentle Exfoliating Body Wash - 8.45 fl oz / 250 mL](https://distausa.com/products/rare-beauty-find-comfort-gentle-exfoliating-body-wash-8-45-fl-oz-250-ml)
-  Price: $28.00 USD
+  Price: $26.88 USD
 - [Rare Beauty by Selena Gomez Mini Pore Diffusing Primer- Always An Optimist Collection 0.50 oz./15 mL](https://distausa.com/products/rare-beauty-by-selena-gomez-mini-pore-diffusing-primer-always-an-optimist-collection-0-50-oz-15-ml-1)
   Price: $26.31 USD
 - [Rare Beauty Always An Optimist Pore Diffusing Primer](https://distausa.com/products/rare-beauty-always-an-optimist-pore-diffusing-primer)
@@ -619,15 +615,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Rare Beauty by Selena Gomez Always an Optimist Soft Radiance Setting Powder Medium](https://distausa.com/products/rare-beauty-by-selena-gomez-always-an-optimist-soft-radiance-setting-powder-medium)
   Price: $42.55 USD
 - [Rare Beauty by Selena Gomez Always an Optimist Soft Radiance Setting Powder Light Medium](https://distausa.com/products/rare-beauty-by-selena-gomez-always-an-optimist-soft-radiance-setting-powder-light-medium)
-  Price: $49.27 USD
+  Price: $42.19 USD
 - [Rare Beauty by Selena Gomez Positive Light Silky Touch Highlighter Enlighten](https://distausa.com/products/rare-beauty-by-selena-gomez-positive-light-silky-touch-highlighter-enlighten)
-  Price: $43.68 USD
+  Price: $44.43 USD
 - [Rare Beauty Stay Vulnerable Glossy Lip Balm (Nearly Neutral)](https://distausa.com/products/rare-beauty-stay-vulnerable-glossy-lip-balm-nearly-neutral)
   Price: $43.68 USD
 - [Rare Beauty Stay Vulnerable Glossy Lip Balm (Nearly Rose)](https://distausa.com/products/rare-beauty-stay-vulnerable-glossy-lip-balm-nearly-rose)
-  Price: $37.41 USD
+  Price: $36.41 USD
 - [Rare Beauty by Selena Gomez Soft Pinch Tinted Lip Oil Joy](https://distausa.com/products/rare-beauty-by-selena-gomez-soft-pinch-tinted-lip-oil-joy)
-  Price: $20.09 USD
+  Price: $26.88 USD
 - [Rare Beauty Always An Optimist Collection Illuminating Primer - Travel Size 0.5 fl oz, Clear](https://distausa.com/products/rare-beauty-always-an-optimist-collection-illuminating-primer-travel-size-0-5-fl-oz-clear)
   Price: $39.20 USD
 - [Rare Beauty by Selena Gomez Kind Words Lip Liner Gifted](https://distausa.com/products/rare-beauty-by-selena-gomez-kind-words-lip-liner-gifted)
@@ -651,17 +647,17 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Rare Beauty by Selena Gomez Liquid Touch Brightening Concealer 130N](https://distausa.com/products/rare-beauty-by-selena-gomez-liquid-touch-brightening-concealer-130n)
   Price: $39.20 USD
 - [Rare Beauty by Selena Gomez Liquid Touch Brightening Concealer 210N](https://distausa.com/products/rare-beauty-by-selena-gomez-liquid-touch-brightening-concealer-210n)
-  Price: $41.44 USD
+  Price: $41.43 USD
 - [Liquid Touch Weightless Foundation No. 160C](https://distausa.com/products/liquid-touch-weightless-foundation-no-160c)
-  Price: $60.12 USD
+  Price: $59.35 USD
 - [Rare Beauty by Selena Gomez Brow Harmony Pencil & Gel Warm Brown](https://distausa.com/products/rare-beauty-by-selena-gomez-brow-harmony-pencil-gel-warm-brown)
   Price: $35.73 USD
 - [Rare Beauty by Selena Gomez Stay Vulnerable Melting Cream Blush Nearly Apricot](https://distausa.com/products/rare-beauty-by-selena-gomez-stay-vulnerable-melting-cream-blush-nearly-apricot)
-  Price: $26.31 USD
+  Price: $26.32 USD
 - [Rhode Glazing Milk](https://distausa.com/products/rhode-glazing-milk)
-  Price: $46.45 USD
+  Price: $32.52 USD
 - [Rhode by Hailey Bieber Peptide Glazing Fluid 50ml / 1.7oz., White](https://distausa.com/products/rhode-by-hailey-bieber-peptide-glazing-fluid-50ml-1-7oz-white)
-  Price: $39.52 USD
+  Price: $40.88 USD
 - [Rhode by Hailey Bieber pineapple refresh THE DAILY CLEANSER 150ml/ 5fl oz](https://distausa.com/products/rhode-by-hailey-bieber-pineapple-refresh-the-daily-cleanser-150ml-5fl-oz)
   Price: $32.43 USD
 - [Rhode Peptide Lip Tint, Sheer Color and Hydrating Finish, 3 fl oz, 10ml (Toast)](https://distausa.com/products/rhode-peptide-lip-tint-sheer-color-and-hydrating-finish-3-fl-oz-10ml-toast-1)
@@ -679,7 +675,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Anua Heartleaf 77 Soothing Toner, Moisturizing & Calming Facial Toner for Glass Skin, Hyaluronic Acid, Lightweight Hydration for Sensitive Skin, Redness Relief, Korean Skincare, 8.45 fl.oz](https://distausa.com/products/anua-heartleaf-77-soothing-toner-moisturizing-calming-facial-toner-for-glass-skin-hyaluronic-acid-lightweight-hydration-for-sensitive-skin-redness-relief-korean-skincare-8-45-fl-oz)
   Price: $22.05 USD
 - [Anua Rice 70 Glow Milky Toner, Glass & Dewy Skin, Hydrating & Barrier Care, Rice Water, Niacinamide, Ceramides, All Skin Types, Fragrance-Free, Non Comedogenic, Korean Skincare, 8.45 fl.oz.](https://distausa.com/products/anua-rice-70-glow-milky-toner-glass-dewy-skin-hydrating-barrier-care-rice-water-niacinamide-ceramides-all-skin-types-fragrance-free-non-comedogenic-korean-skincare-8-45-fl-oz)
-  Price: $23.52 USD
+  Price: $23.41 USD
 - [Anua Heartleaf Daily Lotion, Face Moisturizer with Hyaluronic Acid for Sensitive Skin, Lightweight, Korean Skin Care (200ml, 6.76 fl.oz.)](https://distausa.com/products/anua-heartleaf-daily-lotion-face-moisturizer-with-hyaluronic-acid-for-sensitive-skin-lightweight-korean-skin-care-200ml-6-76-fl-oz)
   Price: $19.92 USD
 - [ANUA Heartleaf 77 Toner Pad 70 Sheets, PHA Dead Skin Care Low pH with Korean toner pads, Daily exfoliating, Quick & Easy Facial Mask With Hearleaf, Korean Skin Care](https://distausa.com/products/anua-heartleaf-77-toner-pad-70-sheets-pha-dead-skin-care-low-ph-with-korean-toner-pads-daily-exfoliating-quick-easy-facial-mask-with-hearleaf-korean-skin-care)
@@ -733,7 +729,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [NOW Foods Supplements, Vitamin D-3 2,000 IU, High Potency, Structural Support*, 240 Softgels](https://distausa.com/products/now-foods-supplements-vitamin-d-3-2-000-iu-high-potency-structural-support-240-softgels)
   Price: $9.51 USD
 - [NOW Foods Supplements, Vitamin D-3 10,000 IU, Highest Potency, Structural Support*, 120 Softgels](https://distausa.com/products/now-foods-supplements-vitamin-d-3-10-000-iu-highest-potency-structural-support-120-softgels)
-  Price: $8.24 USD
+  Price: $9.51 USD
 - [Now Foods Supplements, Vitamin D-3 10,000 IU, Highest Potency, Structural Support*, 30 Softgels](https://distausa.com/products/now-foods-supplements-vitamin-d-3-10-000-iu-highest-potency-structural-support-30-softgels)
   Price: $4.47 USD
 - [NOW Foods Supplements, Vitamin D-3 1,000 IU, High Potency, Structural Support*, 360 Softgels](https://distausa.com/products/now-foods-supplements-vitamin-d-3-1-000-iu-high-potency-structural-support-360-softgels)
@@ -741,7 +737,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [NOW Supplements, Mega D-3 & MK-7, 5000 IU / 180 mcg, Bone & Cardiovascular Support*, Vitamins K-3 & K-2, 120 Capsules](https://distausa.com/products/now-supplements-mega-d-3-mk-7-5000-iu-180-mcg-bone-cardiovascular-support-vitamins-k-3-k-2-120-capsules)
   Price: $26.54 USD
 - [NOW Foods Supplements, Potassium Iodide 30 mg, Non-GMO Project , Dietary Supplement, 60 Tablets](https://distausa.com/products/now-foods-supplements-potassium-iodide-30-mg-non-gmo-project--dietary-supplement-60-tablets)
-  Price: $20.14 USD
+  Price: $11.19 USD
 - [Potassium Iodide 130mg Tablets - Emergency Use for Exposure - 180 Count, 3 Month Supply - Double Wood Supplements](https://distausa.com/products/potassium-iodide-130mg-tablets-emergency-use-for-exposure-180-count-3-month-supply-double-wood-supplements)
   Price: $22.34 USD
 - [Life Extension Potassium Iodide 130mg 14 Tablets](https://distausa.com/products/life-extension-potassium-iodide-130mg-14-tablets)
@@ -753,9 +749,9 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Pure Encapsulations Iodine - Supplement to Support The Thyroid & Help Maintain Healthy Cellular Metabolism - with Premium Potassium Iodide - 120 Capsules](https://distausa.com/products/pure-encapsulations-iodine-supplement-to-support-the-thyroid-help-maintain-healthy-cellular-metabolism-with-premium-potassium-iodide-120-capsules)
   Price: $22.96 USD
 - [Best Naturals Potassium Iodide 65 mg - Dietary Supplement, 60 Tablets (60 Count (Pack of 1)) (1)](https://distausa.com/products/best-naturals-potassium-iodide-65-mg-dietary-supplement-60-tablets-60-count-pack-of-1-1)
-  Price: $11.19 USD
+  Price: $10.07 USD
 - [Best Naturals Potassium Iodide 65 mg - Dietary Supplement, 60 Tablets (2 Bottles) (2)](https://distausa.com/products/best-naturals-potassium-iodide-65-mg-dietary-supplement-60-tablets-2-bottles-2)
-  Price: $20.15 USD
+  Price: $15.11 USD
 - [Carlyle Lugols Iodine 2 Percent | 4 fl oz (Pack of 1) | Potassium Iodide and Iodine Solution 2% Liquid Drops](https://distausa.com/products/carlyle-lugols-iodine-2-percent-4-fl-oz-pack-of-1-potassium-iodide-and-iodine-solution-2-liquid-drops)
   Price: $16.23 USD
 - [Nutricost Potassium Citrate 99mg, 500 Capsules](https://distausa.com/products/nutricost-potassium-citrate-99mg-500-capsules)
@@ -763,7 +759,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nutricost Potassium Citrate 99mg, 500 Capsules (2 Bottles)](https://distausa.com/products/nutricost-potassium-citrate-99mg-500-capsules-2-bottles)
   Price: $36.90 USD
 - [Life Extension Potassium with Extend-Release Magnesium – Heart health supplement for blood pressure support with two essential minerals – Non-GMO, vegetarian, gluten-free – 60 capsules](https://distausa.com/products/life-extension-potassium-with-extend-release-magnesium-heart-health-supplement-for-blood-pressure-support-with-two-essential-minerals-non-gmo-vegetarian-gluten-free-60-capsules)
-  Price: $12.60 USD
+  Price: $10.71 USD
 - [NOW Foods Supplements, Potassium Chloride Powder,  Non-GMO, Essential Mineral*, 8-Ounce](https://distausa.com/products/now-foods-supplements-potassium-chloride-powder--non-gmo-essential-mineral-8-ounce)
   Price: $10.07 USD
 - [NOW Foods Supplements, Potassium Citrate 99 mg, Supports Electrolyte Balance and Normal pH*, Essential Mineral, 180 veg Capsules](https://distausa.com/products/now-foods-supplements-potassium-citrate-99-mg-supports-electrolyte-balance-and-normal-ph-essential-mineral-180-veg-capsules)
@@ -771,7 +767,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Pure Encapsulations Potassium (Citrate) - Essential Electrolyte Supplement to Support Nerve & Muscle Function, Adrenals, Hormones, Heart Health & Energy* - Potassium Citrate Capsule - 180 Capsules](https://distausa.com/products/pure-encapsulations-potassium-citrate-essential-electrolyte-supplement-to-support-nerve-muscle-function-adrenals-hormones-heart-health-energy-potassium-citrate-capsule-180-capsules)
   Price: $36.40 USD
 - [Nature Made Potassium Gluconate 550 mg, Dietary Supplement for Heart Health Support, 100 Tablets, 100 Day Supply](https://distausa.com/products/nature-made-potassium-gluconate-550-mg-dietary-supplement-for-heart-health-support-100-tablets-100-day-supply)
-  Price: $3.35 USD
+  Price: $5.24 USD
 - [NOW Foods Supplements, Potassium Gluconate 99mg, Easier to Swallow, Essential Mineral*, 250 Tablets](https://distausa.com/products/now-foods-supplements-potassium-gluconate-99mg-easier-to-swallow-essential-mineral-250-tablets)
   Price: $12.31 USD
 - [MaryRuth's Organic Liquid Zinc Supplement for Kids & Adults | Immune Support | Skin Health | Antioxidant | Cellular Metabolism | Zinc Sulfate | Vegan | Non-GMO | Sugar Free | Gluten Free | 4 oz](https://distausa.com/products/maryruths-organic-liquid-zinc-supplement-for-kids-adults-immune-support-skin-health-antioxidant-cellular-metabolism-zinc-sulfate-vegan-non-gmo-sugar-free-gluten-free-4-oz)
@@ -803,7 +799,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [NOW Supplements, Kelp Powder,  Organic, Excellent Source of Iodine, Super Green, 8-Ounce](https://distausa.com/products/now-supplements-kelp-powder--organic-excellent-source-of-iodine-super-green-8-ounce)
   Price: $11.65 USD
 - [NOW Foods Supplements, L-OptiZinc® 30 mg with Copper, Highly Bioavailable Form, Immune Support*, 100 Veg Capsules](https://distausa.com/products/now-foods-supplements-l-optizinc®-30-mg-with-copper-highly-bioavailable-form-immune-support-100-veg-capsules)
-  Price: $9.84 USD
+  Price: $9.59 USD
 - [Kelp Powder Norwegian Now Foods 8 oz Powder](https://distausa.com/products/kelp-powder-norwegian-now-foods-8-oz-powder)
   Price: $11.19 USD
 - [NOW Dandelion Root 500mg, 100 Capsules (Pack of 3)](https://distausa.com/products/now-dandelion-root-500mg-100-capsules-pack-of-3)
@@ -811,9 +807,9 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Nutricost Kelp Tablets, 325mcg of Iodine, 240 Tablets - Non-GMO, Gluten Free](https://distausa.com/products/nutricost-kelp-tablets-325mcg-of-iodine-240-tablets-non-gmo-gluten-free)
   Price: $13.38 USD
 - [AXIS-Y Dark Spot Correcting Glow Serum - 5% Niacinamide Dark Spot Remover For Face - Vegan Korean Skin Care Niacinamide Serum for All Skin Types (1.69 fl. oz.)](https://distausa.com/products/axis-y-dark-spot-correcting-glow-serum-5-niacinamide-dark-spot-remover-for-face-vegan-korean-skin-care-niacinamide-serum-for-all-skin-types-1-69-fl-oz)
-  Price: $16.79 USD
+  Price: $11.75 USD
 - [Neutrogena Rapid Tone Repair Retinol + Vitamin C Dark Spot Corrector Face Serum, Daily Anti-Wrinkle Dark Spot Corrector to Brighten & Even Tone, Mineral-Oil & Dye-Free, White, 1 oz](https://distausa.com/products/neutrogena-rapid-tone-repair-retinol-vitamin-c-dark-spot-corrector-face-serum-daily-anti-wrinkle-dark-spot-corrector-to-brighten-even-tone-mineral-oil-dye-free-white-1-oz)
-  Price: $34.25 USD
+  Price: $35.03 USD
 - [Dermalogica Biolumin-C Serum, Vitamin C Dark Spot Serum for Face with Peptide and AHA - Exfoliates and Reduces Sign of Skin Aging, 1 Fl Oz](https://distausa.com/products/dermalogica-biolumin-c-serum-vitamin-c-dark-spot-serum-for-face-with-peptide-and-aha-exfoliates-and-reduces-sign-of-skin-aging-1-fl-oz)
   Price: $110.88 USD
 - [Summer Fridays Dream Lip Oil - Hydrating Tinted Lip Gloss Oil - Non-Sticky Formula with Skincare Benefits for Long-Lasting Softness + Shine - Effortless Beauty Gifts - Pink Cloud (0.15 Oz)](https://distausa.com/products/summer-fridays-dream-lip-oil-hydrating-tinted-lip-gloss-oil-non-sticky-formula-with-skincare-benefits-for-long-lasting-softness-shine-effortless-beauty-gifts-pink-cloud-0-15-oz)
@@ -838,12 +834,14 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $54.88 USD
 - [Summer Fridays Rich Cushion Face Cream - Ultra Plumping Barrier Repair Cream + Makeup Primer - Infuses Skin with Rich Hydration from Glycerin + Squalane - Non-Comedogenic + Fragrance-Free (1.69 Oz)](https://distausa.com/products/summer-fridays-rich-cushion-face-cream-ultra-plumping-barrier-repair-cream-makeup-primer-infuses-skin-with-rich-hydration-from-glycerin-squalane-non-comedogenic-fragrance-free-1-69-oz)
   Price: $58.24 USD
+- [Summer Fridays Summer Silk Nourishing Body Lotion - Hydrating Body Lotion with Hyaluronic Acid, Shea Butter, Grapeseed Oil, and Cocoa Butter - Non-Greasy Moisturizer for Dry Skin (6.7 Fl Oz)](https://distausa.com/products/summer-fridays-summer-silk-nourishing-body-lotion-hydrating-body-lotion-with-hyaluronic-acid-shea-butter-grapeseed-oil-and-cocoa-butter-non-greasy-moisturizer-for-dry-skin-6-7-fl-oz)
+  Price: $31.36 USD
 - [Summer Fridays CC Me Serum with Vitamin C + Niacinamide - Brightening + Hydrating Face Serum to Improve Skin Tone + Reduce Appearance of Dark Spots Over Time (1 Fl Oz)](https://distausa.com/products/summer-fridays-cc-me-serum-with-vitamin-c-niacinamide-brightening-hydrating-face-serum-to-improve-skin-tone-reduce-appearance-of-dark-spots-over-time-1-fl-oz)
   Price: $76.16 USD
 - [Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 5 - Medium with Warm Neutral Undertones (1 Fl Oz)](https://distausa.com/products/summer-fridays-sheer-skin-tint-skin-tint-with-hyaluronic-acid-helps-diminish-uneven-skin-tone-sheer-to-light-coverage-shade-5-medium-with-warm-neutral-undertones-1-fl-oz)
   Price: $47.04 USD
 - [Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 1 - Fair with Neutral Peach Undertones (1 Fl Oz)](https://distausa.com/products/summer-fridays-sheer-skin-tint-skin-tint-with-hyaluronic-acid-helps-diminish-uneven-skin-tone-sheer-to-light-coverage-shade-1-fair-with-neutral-peach-undertones-1-fl-oz)
-  Price: $47.04 USD
+  Price: $32.93 USD
 - [Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 2 - Light with Cool Undertones (1 Fl Oz)](https://distausa.com/products/summer-fridays-sheer-skin-tint-skin-tint-with-hyaluronic-acid-helps-diminish-uneven-skin-tone-sheer-to-light-coverage-shade-2-light-with-cool-undertones-1-fl-oz)
   Price: $47.04 USD
 - [Summer Fridays Sheer Skin Tint - Tinted Moisturizer with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 2.5 - Light with Cool Peach Undertones (1 Fl Oz)](https://distausa.com/products/summer-fridays-sheer-skin-tint-tinted-moisturizer-with-hyaluronic-acid-helps-diminish-uneven-skin-tone-sheer-to-light-coverage-shade-2-5-light-with-cool-peach-undertones-1-fl-oz)
@@ -858,6 +856,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $47.04 USD
 - [Summer Fridays Sheer Skin Tint - Skin Tint with Hyaluronic Acid - Helps Diminish Uneven Skin Tone - Sheer to Light Coverage - Shade 10 - Rich Deep with Neutral Undertones (1 Fl Oz)](https://distausa.com/products/summer-fridays-sheer-skin-tint-skin-tint-with-hyaluronic-acid-helps-diminish-uneven-skin-tone-sheer-to-light-coverage-shade-10-rich-deep-with-neutral-undertones-1-fl-oz)
   Price: $47.04 USD
+- [Summer Fridays Super Amino Gel Facial Cleanser - Gentle, pH-Balanced Face Wash + Makeup Remover - Helps Calm Irritation, Hydrate + Nourish Skin - Effortless Skin Care Gifts (5 Fl Oz)](https://distausa.com/products/summer-fridays-super-amino-gel-facial-cleanser-gentle-ph-balanced-face-wash-makeup-remover-helps-calm-irritation-hydrate-nourish-skin-effortless-skin-care-gifts-5-fl-oz)
+  Price: $39.20 USD
 - [Summer Fridays Babymoon Belly Balm - Nourishing Balm + Body Moisturizer Enriched with Calendula Oil + Vitamin E to Help Reduce the Appearance of Stretch Marks and Dry Skin (5 Fl Oz)](https://distausa.com/products/summer-fridays-babymoon-belly-balm-nourishing-balm-body-moisturizer-enriched-with-calendula-oil-vitamin-e-to-help-reduce-the-appearance-of-stretch-marks-and-dry-skin-5-fl-oz)
   Price: $32.48 USD
 - [Summer Fridays Jet Lag Deep Hydration Serum - Hydrating Face Serum for Dry Skin with Glycerin & Squalane - Helps Soothe Skin, Improves Skin Barrier & the Appearance of Fine Lines & Wrinkles (1 Oz)](https://distausa.com/products/summer-fridays-jet-lag-deep-hydration-serum-hydrating-face-serum-for-dry-skin-with-glycerin-squalane-helps-soothe-skin-improves-skin-barrier-the-appearance-of-fine-lines-wrinkles-1-oz)
@@ -881,7 +881,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Creatine Monohydrate Powder Micronized PreWorkout Recovery Supplement | Support Muscle Building Strength Training Cognition | Vegan & Keto Friendly Easily Mixes (60 Serving) Unflavored Active Creatine](https://distausa.com/products/creatine-monohydrate-powder-micronized-preworkout-recovery-supplement-support-muscle-building-strength-training-cognition-vegan-keto-friendly-easily-mixes-60-serving-unflavored-active-creatine)
   Price: $30.21 USD
 - [Sunwarrior Creatine Monohydrate Powder Micronized PreWorkout Recovery Supplement | Support Muscle Building Strength Training Cognition | Vegan & Keto Friendly Bulk Size (120 Servings) Unflavored](https://distausa.com/products/sunwarrior-creatine-monohydrate-powder-micronized-preworkout-recovery-supplement-support-muscle-building-strength-training-cognition-vegan-keto-friendly-bulk-size-120-servings-unflavored)
-  Price: $44.70 USD
+  Price: $44.77 USD
 - [Sunwarrior Vegan Beauty Greens Drink Plant-Based | Hyaluronic Acid Minerals Biotin Probiotics Non-GMO Soy Free Sugar Free Dairy Free Gluten Free | Pina Colada 25 Servings](https://distausa.com/products/sunwarrior-vegan-beauty-greens-drink-plant-based-hyaluronic-acid-minerals-biotin-probiotics-non-gmo-soy-free-sugar-free-dairy-free-gluten-free-pina-colada-25-servings)
   Price: $48.13 USD
 - [Sunwarrior Magnesium Mineral Supplement Natural Ionic Liquid Drink Additive | Features Trace Minerals to Support Brain Heart & Muscle (4 FL Oz) 28 Servings](https://distausa.com/products/sunwarrior-magnesium-mineral-supplement-natural-ionic-liquid-drink-additive-features-trace-minerals-to-support-brain-heart-muscle-4-fl-oz-28-servings)
@@ -896,8 +896,14 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $48.13 USD
 - [Lip Balm Stocking Stuffers, Burt's Bees Lip Shine Holiday Gift for Women, 100% Natural Makeup, Whisper](https://distausa.com/products/lip-balm-stocking-stuffers-burts-bees-lip-shine-holiday-gift-for-women-100-natural-makeup-whisper)
   Price: $8.39 USD
+- [Burt's Bees 100% Natural Moisturizing Lip Gloss, Evening Glow - 1 Tube](https://distausa.com/products/burts-bees-100-natural-moisturizing-lip-gloss-evening-glow-1-tube)
+  Price: $19.03 USD
 - [Burt's Bees 100% Natural Moisturizing Lip Gloss, Spring Splendor - 1 Tube](https://distausa.com/products/burts-bees-100-natural-moisturizing-lip-gloss-spring-splendor-1-tube)
-  Price: $22.70 USD
+  Price: $22.39 USD
+- [Burt Bees 100% Natural Moisturizing Lip Gloss, Summer Twilight, 0.2 Fl Oz](https://distausa.com/products/burt-bees-100-natural-moisturizing-lip-gloss-summer-twilight-0-2-fl-oz)
+  Price: $26.87 USD
+- [Burt's Bees 100% Natural Moisturizing Lip Gloss, Sweet Sunset - 1 Tube](https://distausa.com/products/burts-bees-100-natural-moisturizing-lip-gloss-sweet-sunset-1-tube)
+  Price: $22.39 USD
 - [Supergoop! Glowscreen SPF 40, Sunrise (Champagne Glow) - 1.7 fl oz - Glowy Primer + Broad Spectrum Tinted Sunscreen - Helps Filter Blue Light - Hydration - Hyaluronic Acid & Vitamin B5](https://distausa.com/products/supergoop-glowscreen-spf-40-sunrise-champagne-glow-1-7-fl-oz-glowy-primer-broad-spectrum-tinted-sunscreen-helps-filter-blue-light-hydration-hyaluronic-acid-vitamin-b5)
   Price: $42.56 USD
 - [Supergoop! Glowscreen SPF 40, Dawn (Pink Pearl Glow) - 1.7 fl oz - Glowy Primer + Broad Spectrum Tinted Sunscreen - Helps Filter Blue Light - Hydration - Hyaluronic Acid & Vitamin B5](https://distausa.com/products/supergoop-glowscreen-spf-40-dawn-pink-pearl-glow-1-7-fl-oz-glowy-primer-broad-spectrum-tinted-sunscreen-helps-filter-blue-light-hydration-hyaluronic-acid-vitamin-b5)
@@ -917,7 +923,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Supergoop! Bright-Eyed Mineral Eye Cream, 0.5 fl oz - SPF 40 PA+++ Hydrating & Illuminating Mineral Sunscreen - Under Eye Cream for Dark Circles & Puffiness - Revives Tired Eyes](https://distausa.com/products/supergoop-bright-eyed-mineral-eye-cream-0-5-fl-oz-spf-40-pa-hydrating-illuminating-mineral-sunscreen-under-eye-cream-for-dark-circles-puffiness-revives-tired-eyes)
   Price: $44.80 USD
 - [Supergoop! PLAY Antioxidant Body Mist w/Vitamin C - 6 fl oz - SPF 50 PA++++ Broad Spectrum Sunscreen - Body Spray - Great for Active Days](https://distausa.com/products/supergoop-play-antioxidant-body-mist-w-vitamin-c-6-fl-oz-spf-50-pa-broad-spectrum-sunscreen-body-spray-great-for-active-days)
-  Price: $20.16 USD
+  Price: $26.88 USD
 - [Supergoop! PLAY SPF 50 Antioxidant Body Mist w/Vitamin C - 3 fl oz, 2 Pack - Broad Spectrum Sunscreen Spray - Great for Active Days](https://distausa.com/products/supergoop-play-spf-50-antioxidant-body-mist-w-vitamin-c-3-fl-oz-2-pack-broad-spectrum-sunscreen-spray-great-for-active-days)
   Price: $40.32 USD
 - [Supergoop! (Re) setting Face Powder SPF 35, Translucent - Broad Spectrum Mineral Sunscreen - 0.15 oz - Shine Control, Matte Finishing, On-the-Go Sun Protection](https://distausa.com/products/supergoop-re-setting-face-powder-spf-35-translucent-broad-spectrum-mineral-sunscreen-0-15-oz-shine-control-matte-finishing-on-the-go-sun-protection)
@@ -929,6 +935,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Milk Makeup Cooling Water Jelly Tint – Long-Lasting Sheer Lip + Cheek Stain with Firming Vegan Collagen + Hydrating Aloe – Transfer Proof, Buildable Lip Tint + Blush – Burst (Poppy Pink), 0.17 oz](https://distausa.com/products/milk-makeup-cooling-water-jelly-tint-long-lasting-sheer-lip-cheek-stain-with-firming-vegan-collagen-hydrating-aloe-transfer-proof-buildable-lip-tint-blush-burst-poppy-pink-0-17-oz)
   Price: $29.12 USD
 - [Milk Makeup Cooling Water Jelly Tint – Long-Lasting Sheer Lip + Cheek Stain with Firming Vegan Collagen + Hydrating Aloe – Transfer Proof, Buildable Lip Tint + Blush – Chill (Red), 0.17 oz](https://distausa.com/products/milk-makeup-cooling-water-jelly-tint-long-lasting-sheer-lip-cheek-stain-with-firming-vegan-collagen-hydrating-aloe-transfer-proof-buildable-lip-tint-blush-chill-red-0-17-oz)
+  Price: $29.12 USD
+- [Milk Makeup Cooling Water Jelly Tint – Long-Lasting Sheer Lip + Cheek Stain with Firming Vegan Collagen + Hydrating Aloe – Transfer Proof, Buildable Lip Tint + Blush – Fizz (Soft Peach), 0.17 oz](https://distausa.com/products/milk-makeup-cooling-water-jelly-tint-long-lasting-sheer-lip-cheek-stain-with-firming-vegan-collagen-hydrating-aloe-transfer-proof-buildable-lip-tint-blush-fizz-soft-peach-0-17-oz)
   Price: $29.12 USD
 - [Milk Makeup Cooling Water Jelly Tint – Long-Lasting Sheer Lip + Cheek Stain with Firming Vegan Collagen + Hydrating Aloe – Transfer Proof, Buildable Lip Tint + Blush – Fresh (Soft Pink), 0.17 oz](https://distausa.com/products/milk-makeup-cooling-water-jelly-tint-long-lasting-sheer-lip-cheek-stain-with-firming-vegan-collagen-hydrating-aloe-transfer-proof-buildable-lip-tint-blush-fresh-soft-pink-0-17-oz)
   Price: $29.12 USD
@@ -956,6 +964,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $42.56 USD
 - [Milk Makeup Matte Bronzer – Buildable Cream Bronzer Stick with Mango Butter + Apricot Oil – Hydrating, Multi-Use Formula for a Sunkissed Glow – Blitzed, 0.19 oz](https://distausa.com/products/milk-makeup-matte-bronzer-buildable-cream-bronzer-stick-with-mango-butter-apricot-oil-hydrating-multi-use-formula-for-a-sunkissed-glow-blitzed-0-19-oz)
   Price: $26.88 USD
+- [Milk Makeup Matte Bronzer – Buildable Cream Bronzer Stick with Mango Butter + Apricot Oil – Hydrating, Multi-Use Formula for a Sunkissed Glow – Dazed, 0.19 oz](https://distausa.com/products/milk-makeup-matte-bronzer-buildable-cream-bronzer-stick-with-mango-butter-apricot-oil-hydrating-multi-use-formula-for-a-sunkissed-glow-dazed-0-19-oz)
+  Price: $26.88 USD
 - [Milk Makeup Matte Bronzer – Buildable Cream Bronzer Stick with Mango Butter + Apricot Oil – Hydrating, Multi-Use Formula for a Sunkissed Glow – Spaced, 0.19 oz](https://distausa.com/products/milk-makeup-matte-bronzer-buildable-cream-bronzer-stick-with-mango-butter-apricot-oil-hydrating-multi-use-formula-for-a-sunkissed-glow-spaced-0-19-oz)
   Price: $26.88 USD
 - [Milk Makeup Pore Eclipse Mattifying Primer – Blurs Pores, Controls Shine + Holds Makeup for Up to 12 Hours – Creates a Smooth, Even Base for a Soft, Long-Lasting Matte Finish – 1.3 oz](https://distausa.com/products/milk-makeup-pore-eclipse-mattifying-primer-blurs-pores-controls-shine-holds-makeup-for-up-to-12-hours-creates-a-smooth-even-base-for-a-soft-long-lasting-matte-finish-1-3-oz)
@@ -971,33 +981,33 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Gisou Honey Infused Lip Oil – Hydrating & Glossy Lip Oil with Mirsalehi Honey & Jojoba Seed Oil, Non-Sticky Shine, Watermelon Sugar, 0.27 Fl Oz](https://distausa.com/products/gisou-honey-infused-hydrating-lip-oil-nourishing-lip-moisturizer-for-dry-lips-watermelon-sugar)
   Price: $21.17 USD
 - [Gisou Honey Infused Hydrating Lip Oil, Nourishing Lip Moisturizer for Dry Lips (Fresh Honey)](https://distausa.com/products/gisou-honey-infused-hydrating-lip-oil-nourishing-lip-moisturizer-for-dry-lips-fresh-honey)
-  Price: $21.95 USD
+  Price: $31.36 USD
 - [Gisou Honey Infused Hydrating Lip Oil, Nourishing Lip Moisturizer for Dry Lips (Mango Passion Punch)](https://distausa.com/products/gisou-honey-infused-hydrating-lip-oil-nourishing-lip-moisturizer-for-dry-lips-mango-passion-punch)
   Price: $31.36 USD
 - [Gisou Honey Infused Hydrating Lip Oil, Nourishing Lip Moisturizer for Dry Lips, 0.27 fl oz (Strawberry Sorbet)](https://distausa.com/products/gisou-honey-infused-hydrating-lip-oil-nourishing-lip-moisturizer-for-dry-lips-0-27-fl-oz-strawberry-sorbet)
   Price: $21.17 USD
 - [Mielle Organics Rosemary & Mint Hair Oil - Strengthening Biotin Oil Infused Frizzy & Damaged Hair Care - Split Ends & Dry Scalp  to Support Longer, Healthier Strands, 2 Ounce](https://distausa.com/products/mielle-organics-rosemary-mint-hair-oil-strengthening-biotin-oil-infused-frizzy-damaged-hair-care-split-ends-dry-scalp--to-support-longer-healthier-strands-2oz)
-  Price: $8.03 USD
+  Price: $11.17 USD
 - [Gisou Honey Infused Hair Oil - Hydrating & Frizz Control  with Mirsalehi Honey, Adds Shine & Heat Protectant for All Hair Types, 1.7 Fl Oz](https://distausa.com/products/gisou-honey-infused-hair-oil-hydrating-frizz-control--with-mirsalehi-honey-adds-shine-heat-protectant-for-all-hair-types-1-7-fl-oz)
   Price: $51.52 USD
 - [Florastor Probiotics for Digestive and Immune Health, 30 Capsules, Probiotics for Women & Men, Helps Flush Out Bad Bacteria, Boosts The Good with Our Unique Strain Saccharomyces Boulardii](https://distausa.com/products/florastor-probiotics-for-digestive-and-immune-health-30-capsules-probiotics-for-women-men-helps-flush-out-bad-bacteria-boosts-the-good-with-our-unique-strain-saccharomyces-boulardii)
-  Price: $30.90 USD
+  Price: $33.59 USD
 - [Florastor Probiotics for Digestive and Immune Health, 54 Capsules, Probiotics for Women & Men, Helps Flush Out Bad Bacteria, Boosts The Good with Our Strain Saccharomyces Boulardii, Packaging May Vary](https://distausa.com/products/florastor-probiotics-for-digestive-and-immune-health-54-capsules-probiotics-for-women-men-helps-flush-out-bad-bacteria-boosts-the-good-with-our-strain-saccharomyces-boulardii-packaging-may-vary)
-  Price: $44.74 USD
+  Price: $43.53 USD
 - [Florastor Probiotics for Digestive and Immune Health, 100 Capsules, Probiotics for Women & Men, Helps Flush Out Bad Bacteria, Boosts The Good with Our Unique Strain Saccharomyces Boulardii](https://distausa.com/products/florastor-probiotics-for-digestive-and-immune-health-100-capsules-probiotics-for-women-men-helps-flush-out-bad-bacteria-boosts-the-good-with-our-unique-strain-saccharomyces-boulardii)
   Price: $76.15 USD
 - [Florastor Select Pro+Pre Daily Probiotic and Prebiotic Supplement for Women and Men, Boosts Good Bacteria, Saccharomyces Boulardii CNCM I-745 (30 Capsules) (Pack of 1)](https://distausa.com/products/florastor-select-pro-pre-daily-probiotic-and-prebiotic-supplement-for-women-and-men-boosts-good-bacteria-saccharomyces-boulardii-cncm-i-745-30-capsules-pack-of-1)
   Price: $27.48 USD
 - [Florastor Advanced Gas and Bloat Probiotic, Digestive Enzymes and Botanicals, Plus Probiotics for Digestive Health, 30 Capsules](https://distausa.com/products/florastor-advanced-gas-and-bloat-probiotic-digestive-enzymes-and-botanicals-plus-probiotics-for-digestive-health-30-capsules)
-  Price: $26.87 USD
-- [Florastor Select Immunity Boost Daily Probiotic & Immune Support Supplement for Women and Men, Saccharomyces Boulardii CNCM I-745 Plus Zinc, Vitamin C & D3 (30 Capsules)](https://distausa.com/products/florastor-select-immunity-boost-daily-probiotic-immune-support-supplement-for-women-and-men-saccharomyces-boulardii-cncm-i-745-plus-zinc-vitamin-c-d3-30-capsules)
   Price: $26.45 USD
+- [Florastor Select Immunity Boost Daily Probiotic & Immune Support Supplement for Women and Men, Saccharomyces Boulardii CNCM I-745 Plus Zinc, Vitamin C & D3 (30 Capsules)](https://distausa.com/products/florastor-select-immunity-boost-daily-probiotic-immune-support-supplement-for-women-and-men-saccharomyces-boulardii-cncm-i-745-plus-zinc-vitamin-c-d3-30-capsules)
+  Price: $24.60 USD
 - [Florastor Kids Dual Action Probiotic Supplement, Strengthens Kids' Digestive & Immune Health, 20 Easy-to Mix Powder Sticks, Packaging May Vary](https://distausa.com/products/florastor-kids-dual-action-probiotic-supplement-strengthens-kids-digestive-immune-health-20-easy-to-mix-powder-sticks-packaging-may-vary)
-  Price: $31.12 USD
+  Price: $30.79 USD
 - [Florastor Kids Daily Probiotic Supplement, Unflavored Powder Mixes with Food or Beverage, Use with Antibiotics, Saccharomyces Boulardii CNCM I-745 (20 Sachets), Pack of 2](https://distausa.com/products/florastor-kids-daily-probiotic-supplement-unflavored-powder-mixes-with-food-or-beverage-use-with-antibiotics-saccharomyces-boulardii-cncm-i-745-20-sachets-pack-of-2)
-  Price: $47.21 USD
+  Price: $44.97 USD
 - [Florastor Baby Daily Probiotic Supplement, Powder Mixes with Milk, Formula or Soft Foods, Saccharomyces Boulardii CNCM I-745 (18 Powder Sticks)](https://distausa.com/products/florastor-baby-daily-probiotic-supplement-powder-mixes-with-milk-formula-or-soft-foods-saccharomyces-boulardii-cncm-i-745-18-powder-sticks)
-  Price: $22.39 USD
+  Price: $22.28 USD
 - [Florastor Daily Probiotic Supplement for Women and Men, Proven to Support Digestive Health, Saccharomyces Boulardii CNCM I-745 (54 Capsules)](https://distausa.com/products/florastor-daily-probiotic-supplement-for-women-and-men-proven-to-support-digestive-health-saccharomyces-boulardii-cncm-i-745-54-capsules)
   Price: $55.90 USD
 - [Integrative Therapeutics Bio-Zyme - Pancreatic Enzyme Complex for Digestive Support* - Supports Healthy Digestion* - Undiluted Pancreatic Extract - 200 Tablets (100 Servings)](https://distausa.com/products/integrative-therapeutics-bio-zyme-pancreatic-enzyme-complex-for-digestive-support-supports-healthy-digestion-undiluted-pancreatic-extract-200-tablets-100-servings)
@@ -1013,13 +1023,13 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Designs for Health Digestzymes - Digestive Enzymes + Betaine Hydrochloride for Gas & Bloating Relief - Pepsin, Ox Bile, Lactase Enzyme & Lipase Enzymes for Digestion (90 Capsules)](https://distausa.com/products/designs-for-health-digestzymes-digestive-enzymes-betaine-hydrochloride-for-gas-bloating-relief-pepsin-ox-bile-lactase-enzyme-lipase-enzymes-for-digestion-90-capsules)
   Price: $51.51 USD
 - [NOW Supplements, Super Enzymes, Formulated with Bromelain, Ox Bile, Pancreatin and Papain, Super Enzymes,90 Capsules](https://distausa.com/products/now-supplements-super-enzymes-formulated-with-bromelain-ox-bile-pancreatin-and-papain-super-enzymes-90-capsules)
-  Price: $14.55 USD
+  Price: $13.25 USD
 - [NOW Foods Supplements, Super Enzymes, Formulated with Bromelain, Ox Bile, Pancreatin and Papain,180 Capsules](https://distausa.com/products/now-foods-supplements-super-enzymes-formulated-with-bromelain-ox-bile-pancreatin-and-papain-180-capsules)
   Price: $25.86 USD
 - [IBS Daily Probiotic Capsules for Digestive Health & Gut Health, Digestive Advantage Probiotics For Men and Women (96 count box) - Digestible Enzymes](https://distausa.com/products/ibs-daily-probiotic-capsules-for-digestive-health-gut-health-digestive-advantage-probiotics-for-men-and-women-96-count-box-digestible-enzymes)
   Price: $27.76 USD
 - [Garden of Life Probiotics for Digestive Health and Gut Health Balance, Primal Defense Ultra Ultimate Formula, 15 Billion CFU and 13 Strains Plus HSOs, Vegetarian and Gluten Free, 180 Capsules](https://distausa.com/products/garden-of-life-probiotics-for-digestive-health-and-gut-health-balance-primal-defense-ultra-ultimate-formula-15-billion-cfu-and-13-strains-plus-hsos-vegetarian-and-gluten-free-180-capsules)
-  Price: $81.18 USD
+  Price: $76.52 USD
 - [Pure Encapsulations Digestive Enzymes Ultra - Vegetarian Digestive Enzyme Supplement to Support Protein, Carb, Fiber, and Dairy Digestion* - 90 Capsules](https://distausa.com/products/pure-encapsulations-digestive-enzymes-ultra-vegetarian-digestive-enzyme-supplement-to-support-protein-carb-fiber-and-dairy-digestion-90-capsules)
   Price: $42.56 USD
 - [Pure Encapsulations Digestive Enzymes Ultra - Vegetarian Digestive Enzyme Supplement to Support Protein, Carb, Fiber, and Dairy Digestion* - 180 Capsules](https://distausa.com/products/pure-encapsulations-digestive-enzymes-ultra-vegetarian-digestive-enzyme-supplement-to-support-protein-carb-fiber-and-dairy-digestion-180-capsules)
@@ -1035,7 +1045,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Tongkat Ali Extract 200 to 1 for Men (Longjack) Eurycoma Longifolia, 1000mg per Serving, 120 Capsules - Men's Health Support with 20mg Tribulus Terrestris (Third Party Tested) by Double Wood](https://distausa.com/products/tongkat-ali-extract-200-to-1-for-men-longjack-eurycoma-longifolia-1000mg-per-serving-120-capsules-mens-health-support-with-20mg-tribulus-terrestris-third-party-tested-by-double-wood)
   Price: $27.94 USD
 - [SOLARAY Tongkat Ali 400 mg - Longjack Tongkat Ali for Men - Herbal Support for Men's Health and Vitality - Vegan, Non-GMO, Lab  - 60 Servings, 60 VegCaps](https://distausa.com/products/solaray-tongkat-ali-400-mg-longjack-tongkat-ali-for-men-herbal-support-for-mens-health-and-vitality-vegan-non-gmo-lab--60-servings-60-vegcaps)
-  Price: $11.49 USD
+  Price: $16.35 USD
 - [SOLARAY Zinc Copper Amino Acid Chelate - Immune Support Supplement w/Chelated Zinc 50mg - Bone, Skin, Heart Health and Thyroid Support - with Iodine from Kelp, 60-Day Guarantee, 100 Serv, 100 VegCaps](https://distausa.com/products/solaray-zinc-copper-amino-acid-chelate-immune-support-supplement-w-chelated-zinc-50mg-bone-skin-heart-health-and-thyroid-support-with-iodine-from-kelp-60-day-guarantee-100-serv-100-vegcaps)
   Price: $13.32 USD
 - [Nutrex Research Lipo-6 Black Ultra Concentrate | Thermogenic Energizing Fat Burner Supplement, Increase Weight Loss, Energy & Intense Focus |Capsule, 60Count](https://distausa.com/products/nutrex-research-lipo-6-black-ultra-concentrate-thermogenic-energizing-fat-burner-supplement-increase-weight-loss-energy-intense-focus-capsule-60count)
@@ -1059,15 +1069,15 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Fenty Beauty by Rihanna Killawatt Foil Freestyle Highlighter Penny4uthots](https://distausa.com/products/fenty-beauty-by-rihanna-killawatt-foil-freestyle-highlighter-penny4uthots)
   Price: $44.24 USD
 - [Pro Filt'r Soft Matte Longwear Foundation](https://distausa.com/products/pro-filtr-soft-matte-longwear-foundation)
-  Price: $34.71 USD
+  Price: $32.47 USD
 - [Gloss Bomb Universal Lip Luminizer - 01 Fenty Glow by Fenty Beauty for Women - 0.3 oz Lip Gloss](https://distausa.com/products/gloss-bomb-universal-lip-luminizer-01-fenty-glow-by-fenty-beauty-for-women-0-3-oz-lip-gloss)
   Price: $25.76 USD
 - [Fenty Beauty by Rihanna Eaze Drop Blurring Skin Tint - COLOR 4](https://distausa.com/products/fenty-beauty-by-rihanna-eaze-drop-blurring-skin-tint-color-4)
   Price: $45.92 USD
 - [Fenty Beauty by Rihanna Hella Thicc Thicc Full-Size Volumizing Mascara Duo](https://distausa.com/products/fenty-beauty-by-rihanna-hella-thicc-thicc-full-size-volumizing-mascara-duo)
-  Price: $67.05 USD
+  Price: $53.95 USD
 - [Invisimatte Instant Setting Plus Blotting Powder by Fenty Beauty for Women - 0.3 oz Powder](https://distausa.com/products/invisimatte-instant-setting-plus-blotting-powder-by-fenty-beauty-for-women-0-3-oz-powder)
-  Price: $40.54 USD
+  Price: $38.14 USD
 - [Fenty Beauty by Rihanna Gloss Bomb Universal Lip Luminizer Hot Chocolit](https://distausa.com/products/fenty-beauty-by-rihanna-gloss-bomb-universal-lip-luminizer-hot-chocolit)
   Price: $25.76 USD
 - [FENTY BEAUTY Gloss Bomb Swirl Twisted Lip Luminizer, Fussy Flex, 0.3 Fl. Oz.](https://distausa.com/products/fenty-beauty-gloss-bomb-swirl-twisted-lip-luminizer-fussy-flex-0-3-fl-oz)
@@ -1075,17 +1085,17 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Gloss Bomb Universal Lip Luminizer - 08 Riri by Fenty Beauty for Women - 0.3 oz Lip Gloss](https://distausa.com/products/gloss-bomb-universal-lip-luminizer-08-riri-by-fenty-beauty-for-women-0-3-oz-lip-gloss)
   Price: $25.76 USD
 - [Diamond Bomb All Over Diamond Veil by Fenty Beauty for Women - 0.28 oz Highlighter](https://distausa.com/products/diamond-bomb-all-over-diamond-veil-by-fenty-beauty-for-women-0-28-oz-highlighter)
-  Price: $44.78 USD
+  Price: $45.90 USD
 - [Fenty Beauty by Rihanna - FENTY SKIN Hydra Vizor Invisible Moisturizer SPF 30(50ml/1.7oz)](https://distausa.com/products/fenty-beauty-by-rihanna-fenty-skin-hydra-vizor-invisible-moisturizer-spf-3050ml-1-7oz)
-  Price: $68.32 USD
+  Price: $68.88 USD
 - [Fenty Beauty by Rihanna Gloss Bomb Universal Lip Luminizer $weetmouth](https://distausa.com/products/fenty-beauty-by-rihanna-gloss-bomb-universal-lip-luminizer-weetmouth)
   Price: $25.76 USD
 - [Soft Matte Longwear Foundation by Fenty Beauty](https://distausa.com/products/soft-matte-longwear-foundation-by-fenty-beauty)
-  Price: $31.45 USD
+  Price: $31.46 USD
 - [Fenty Beauty by Rihanna Body Sauce Body Luminizing Tint 03 Agave Spice](https://distausa.com/products/fenty-beauty-by-rihanna-body-sauce-body-luminizing-tint-03-agave-spice)
-  Price: $27.99 USD
+  Price: $25.75 USD
 - [Fenty Beauty Killawatt Freestyle Highlighter Duo, Ginger Binge/Moscow Mule, 2 x 0.12 oz](https://distausa.com/products/fenty-beauty-killawatt-freestyle-highlighter-duo-ginger-binge-moscow-mule-2-x-0-12-oz)
-  Price: $44.78 USD
+  Price: $44.80 USD
 - [Fenty Beauty by Rihanna Match Stix Shimmer Skinstick I Scream](https://distausa.com/products/fenty-beauty-by-rihanna-match-stix-shimmer-skinstick-i-scream)
   Price: $35.50 USD
 - [Glossy Posse Volume 7.0 Full-Size Gloss Bomb Trio](https://distausa.com/products/glossy-posse-volume-7-0-full-size-gloss-bomb-trio)
@@ -1095,29 +1105,29 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Fenty Beauty by Rihanna Liquid Killawatt Fluid Freestyle Highlighter Hu$tla Baby 2.0](https://distausa.com/products/fenty-beauty-by-rihanna-liquid-killawatt-fluid-freestyle-highlighter-hu-tla-baby-2-0)
   Price: $30.89 USD
 - [Fenty Beauty by Rihanna Poutsicle Hydrating Lip Stain Mai Type](https://distausa.com/products/fenty-beauty-by-rihanna-poutsicle-hydrating-lip-stain-mai-type)
-  Price: $67.19 USD
+  Price: $38.57 USD
 - [Fenty Beauty by Rihanna Eaze Drop'lit All-Over Glow Enhancer Bronze Jasper](https://distausa.com/products/fenty-beauty-by-rihanna-eaze-droplit-all-over-glow-enhancer-bronze-jasper)
   Price: $31.25 USD
 - [Fenty Beauty by Rihanna - Stunna Lip Paint Longwear Fluid Lip - Uncuffed - Rosy Mauve](https://distausa.com/products/fenty-beauty-by-rihanna-stunna-lip-paint-longwear-fluid-lip-uncuffed-rosy-mauve)
-  Price: $35.84 USD
+  Price: $31.36 USD
 - [Fenty Beauty by Rihanna Brow MVP Ultra Fine Brow Pencil & Styler Ash Brown](https://distausa.com/products/fenty-beauty-by-rihanna-brow-mvp-ultra-fine-brow-pencil-styler-ash-brown)
-  Price: $20.98 USD
+  Price: $21.15 USD
 - [Gloss Bomb Heat Universal Lip Luminizer Plus Plumper - 03 Fenty Glow Heat by Fenty Beauty for Women - 0.3 oz Lip Gloss](https://distausa.com/products/gloss-bomb-heat-universal-lip-luminizer-plus-plumper-03-fenty-glow-heat-by-fenty-beauty-for-women-0-3-oz-lip-gloss)
-  Price: $32.24 USD
+  Price: $28.90 USD
 - [Pro Filtr Instant Retouch Concealer - 110 Light With Cool Pink Undertone by Fenty Beauty for Women - 0.27 oz Concealer](https://distausa.com/products/pro-filtr-instant-retouch-concealer-110-light-with-cool-pink-undertone-by-fenty-beauty-for-women-0-27-oz-concealer)
-  Price: $22.29 USD
+  Price: $37.33 USD
 - [Demi'Glow Light-Diffusing Highlighter by Fenty Beauty](https://distausa.com/products/demiglow-light-diffusing-highlighter-by-fenty-beauty)
-  Price: $43.67 USD
+  Price: $37.55 USD
 - [Fenty Beauty by Rihanna Pro Filt’r Soft Matte Longwear Liquid Foundation 125](https://distausa.com/products/fenty-beauty-by-rihanna-pro-filt-r-soft-matte-longwear-liquid-foundation-125)
   Price: $51.52 USD
 - [Fenty Beauty by Rihanna Eaze Drop Blurring Skin Tint 4](https://distausa.com/products/fenty-beauty-by-rihanna-eaze-drop-blurring-skin-tint-4)
   Price: $45.92 USD
 - [Sun Stalkr Instant Warmth Bronzer - 03 Private Island by Fenty Beauty for Women - 0.22 oz Bronzer](https://distausa.com/products/sun-stalkr-instant-warmth-bronzer-03-private-island-by-fenty-beauty-for-women-0-22-oz-bronzer)
-  Price: $43.68 USD
+  Price: $52.53 USD
 - [Fenty Beauty Fenty Skin Fat Water Pore-Refining Toner Serum Trial Size - 10 mL / 0.33 oz 0.33 Ounce (Pack of 1)](https://distausa.com/products/fenty-beauty-fenty-skin-fat-water-pore-refining-toner-serum-trial-size-10-ml-0-33-oz-0-33-ounce-pack-of-1)
   Price: $31.36 USD
 - [FENTY BEAUTY BY RIHANNA Invisimatte Blotting Powder](https://distausa.com/products/fenty-beauty-by-rihanna-invisimatte-blotting-powder)
-  Price: $43.66 USD
+  Price: $42.74 USD
 - [Longwear Soft Matte Foundation by Fenty Beauty](https://distausa.com/products/longwear-soft-matte-foundation-by-fenty-beauty-1)
   Price: $33.49 USD
 - [Fenty Beauty by Rihanna Pro Filt’r Soft Matte Longwear Liquid Foundation 185](https://distausa.com/products/fenty-beauty-by-rihanna-pro-filt-r-soft-matte-longwear-liquid-foundation-185)
@@ -1129,15 +1139,13 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Gloss Bomb Heat Universal Lip Luminizer Plus Plumper - 05 Lemon Lava by Fenty Beauty for Women - 0.3 oz Lip Gloss](https://distausa.com/products/gloss-bomb-heat-universal-lip-luminizer-plus-plumper-05-lemon-lava-by-fenty-beauty-for-women-0-3-oz-lip-gloss)
   Price: $25.76 USD
 - [Brow MVP Ultra Fine Brow Pencil and Styler - Light Brown by Fenty Beauty for Women - 0.002 oz Eyebrow Pencil](https://distausa.com/products/brow-mvp-ultra-fine-brow-pencil-and-styler-light-brown-by-fenty-beauty-for-women-0-002-oz-eyebrow-pencil)
-  Price: $27.99 USD
+  Price: $27.20 USD
 - [numbuzin No.5 Vitamin Concentrated Serum, Dark Spot Care, Glutathione & Vitamin Serum, Korean Skincare, Tranexamic Acid 4%, Niacinamide 5%, for a Radiant-Looking Glow 1.01 fl oz](https://distausa.com/products/numbuzin-no-5-vitamin-concentrated-serum-dark-spot-care-glutathione-vitamin-serum-korean-skincare-tranexamic-acid-4-niacinamide-5-for-a-radiant-looking-glow-1-01-fl-oz)
   Price: $13.69 USD
 - [numbuzin No.5 Vitamin-Niacinamide Concentrated Pad, Daily Double-Sided Facial Pads with Glutathione, PHA & LHA for a Fresh, Radiant-Looking Skin Finish 180 ml (70 Pads)](https://distausa.com/products/numbuzin-no-5-vitamin-niacinamide-concentrated-pad-daily-double-sided-facial-pads-with-glutathione-pha-lha-for-a-fresh-radiant-looking-skin-finish-180-ml-70-pads)
   Price: $11.29 USD
 - [numbuzin No.3 Skin Softening Serum, Fermented Serum for Skin Texture & Pores, Bifida & Galactomyces, Niacinamide, Adenosine, Panthenol, Fragrance-Free, 1.69 fl oz (50ml)](https://distausa.com/products/numbuzin-no-3-skin-softening-serum-fermented-serum-for-skin-texture-pores-bifida-galactomyces-niacinamide-adenosine-panthenol-fragrance-free-1-69-fl-oz-50ml)
   Price: $15.69 USD
-- [numbuzin No.3 Super Glowing Essence Toner, Fermented Toner for Skin Glow & Texture, Bifida, Niacinamide, Hydrating, Radiance-Boosting Essence, Zero Pore Care, 6.76 fl oz (200ml)](https://distausa.com/products/numbuzin-no-3-super-glowing-essence-toner-fermented-toner-for-skin-glow-texture-bifida-niacinamide-hydrating-radiance-boosting-essence-zero-pore-care-6-76-fl-oz-200ml)
-  Price: $12.94 USD
 - [numbuzin No.1 Toner | Pure-Full Calming Herb Toner | Breakouts, Redness, Excess Oil Control | Centella Asiatica, Heartleaf, Licorice Root | Acne-Prone, Sensitive Skin | 10.14 fl. oz.](https://distausa.com/products/numbuzin-no-1-toner-pure-full-calming-herb-toner-breakouts-redness-excess-oil-control-centella-asiatica-heartleaf-licorice-root-acne-prone-sensitive-skin-10-14-fl-oz)
   Price: $16.45 USD
 - [numbuzin No.1 Serum | Pantothenic B5 Active Soothing Serum | Soothing, Hydrating | Pantothenic Acid, Niacinamide | Excess Oil Control, Reduces Breakouts, Acne | Oily, Acne-Prone Skin | 1.69 fl. oz.](https://distausa.com/products/numbuzin-no-1-serum-pantothenic-b5-active-soothing-serum-soothing-hydrating-pantothenic-acid-niacinamide-excess-oil-control-reduces-breakouts-acne-oily-acne-prone-skin-1-69-fl-oz)
@@ -1147,9 +1155,9 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [numbuzin No.6 Serum | Deep Sleep Mask Serum | Iceland Glacier Water for Instant and Long-lasting Hydration with Hyaluronic Acid & Niacinamide | Korean Skincare for Dry Skin | 1.69 fl. oz.](https://distausa.com/products/numbuzin-no-6-serum-deep-sleep-mask-serum-iceland-glacier-water-for-instant-and-long-lasting-hydration-with-hyaluronic-acid-niacinamide-korean-skincare-for-dry-skin-1-69-fl-oz)
   Price: $18.20 USD
 - [numbuzin No.4 Cream | Full-Nutrient Firming Cream | Skin Elasticity, Wrinkle Care, Anti-aging, Deeply Nourishing, Hydration | Red Ginseng, Panthenol, Niacinamide, Bifida | 2.02 fl. oz.](https://distausa.com/products/numbuzin-no-4-cream-full-nutrient-firming-cream-skin-elasticity-wrinkle-care-anti-aging-deeply-nourishing-hydration-red-ginseng-panthenol-niacinamide-bifida-2-02-fl-oz)
-  Price: $31.36 USD
+  Price: $17.56 USD
 - [numbuzin No.5 Vitamin Boosting Essential Toner, Radiance-Boosting Vitamin Toner for Uneven & Dull Skin, Glutathione, Vitamin C, Niacinamide, First Step Skincare, 6.76 fl oz (200ml)](https://distausa.com/products/numbuzin-no-5-vitamin-boosting-essential-toner-radiance-boosting-vitamin-toner-for-uneven-dull-skin-glutathione-vitamin-c-niacinamide-first-step-skincare-6-76-fl-oz-200ml)
-  Price: $17.36 USD
+  Price: $12.15 USD
 - [numbuzin No.1 Easy Peasy Cleansing Oil, Lightweight Makeup Remover & Facial Cleanser, Waterproof Makeup & Blackhead Care, Corn & Macadamia Seed Oil, Fragrance-Free, 6.76 fl oz](https://distausa.com/products/numbuzin-no-1-easy-peasy-cleansing-oil-lightweight-makeup-remover-facial-cleanser-waterproof-makeup-blackhead-care-corn-macadamia-seed-oil-fragrance-free-6-76-fl-oz)
   Price: $22.44 USD
 - [numbuzin No.1 Powder | Pantothenic B5 Active Drying Powder | Spot  Acne, Pantothenic Acid, Niacinamide, Madecassoside | Excess Oil Control, Flattens Cystic Acne, Breakouts | 0.24 oz.](https://distausa.com/products/numbuzin-no-1-powder-pantothenic-b5-active-drying-powder-spot--acne-pantothenic-acid-niacinamide-madecassoside-excess-oil-control-flattens-cystic-acne-breakouts-0-24-oz)
@@ -1174,12 +1182,14 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $24.64 USD
 - [Wonderskin Lip Scrub - 3-in-1 Exfoliator & Moisturizer, Lip Exfoliator Scrub, Hydrating Balm for Soft, Nourished, Flake-Free Lips with One-Step Prep, 0.10oz](https://distausa.com/products/wonderskin-lip-scrub-3-in-1-exfoliator-moisturizer-lip-exfoliator-scrub-hydrating-balm-for-soft-nourished-flake-free-lips-with-one-step-prep-0-10oz)
   Price: $21.28 USD
+- [Wonderskin Lipliner Pencil - 360 Contour Lipliner, Long Lasting, Sharpenable, Waterproof and Transfer-Proof Nude Lip Liner Pencil (Blush)](https://distausa.com/products/wonderskin-lipliner-pencil-360-contour-lipliner-long-lasting-sharpenable-waterproof-and-transfer-proof-nude-lip-liner-pencil-blush)
+  Price: $20.16 USD
 - [Wonderskin Lipliner Pencil - 360 Contour Lipliner, Long Lasting, Sharpenable, Waterproof and Transfer-Proof Nude Lip Liner Pencil (Rosewood)](https://distausa.com/products/wonderskin-lipliner-pencil-360-contour-lipliner-long-lasting-sharpenable-waterproof-and-transfer-proof-nude-lip-liner-pencil-rosewood)
-  Price: $18.13 USD
+  Price: $20.16 USD
 - [Wonderskin Lipliner Pencil - 360 Contour Lipliner, Long Lasting, Sharpenable, Waterproof and Transfer-Proof Nude Lip Liner Pencil (Ruby)](https://distausa.com/products/wonderskin-lipliner-pencil-360-contour-lipliner-long-lasting-sharpenable-waterproof-and-transfer-proof-nude-lip-liner-pencil-ruby)
-  Price: $18.13 USD
+  Price: $20.16 USD
 - [Wonderskin Lipliner Pencil - 360 Contour Lipliner, Long Lasting, Sharpenable, Waterproof and Transfer-Proof Brown Lip Liner Pencil (Saddle)](https://distausa.com/products/wonderskin-lipliner-pencil-360-contour-lipliner-long-lasting-sharpenable-waterproof-and-transfer-proof-brown-lip-liner-pencil-saddle)
-  Price: $18.13 USD
+  Price: $20.16 USD
 - [Wonderskin Dream Brow Eye Brow Gel, Long Lasting Eyebrow Gel, Water-resistant, Transfer Proof Tinted Filler Eyebrow Mascara (Black)](https://distausa.com/products/wonderskin-dream-brow-eye-brow-gel-long-lasting-eyebrow-gel-water-resistant-transfer-proof-tinted-filler-eyebrow-mascara-black)
   Price: $16.80 USD
 - [Wonderskin Dream Brow Eye Brow Gel, Long Lasting Eyebrow Gel, Water-resistant, Transfer Proof Tinted Filler Eyebrow Mascara (Dark Brunette)](https://distausa.com/products/wonderskin-dream-brow-eye-brow-gel-long-lasting-eyebrow-gel-water-resistant-transfer-proof-tinted-filler-eyebrow-mascara-dark-brunette)
@@ -1211,6 +1221,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [WONDERSKIN Eyebrow Pencil - Sharpenable Brow Pencil For Natural Looking Brows, Brown Eye Makeup, Long Lasting Eyebrow Pomade (Blonde)](https://distausa.com/products/wonderskin-eyebrow-pencil-sharpenable-brow-pencil-for-natural-looking-brows-brown-eye-makeup-long-lasting-eyebrow-pomade-blonde)
   Price: $16.80 USD
 - [WONDERSKIN Eyebrow Pencil - Sharpenable Brow Pencil For Natural Looking Brows, Brown Eye Makeup, Long Lasting Eyebrow Pomade (Brunette)](https://distausa.com/products/wonderskin-eyebrow-pencil-sharpenable-brow-pencil-for-natural-looking-brows-brown-eye-makeup-long-lasting-eyebrow-pomade-brunette)
+  Price: $16.80 USD
+- [WONDERSKIN Eyebrow Pencil - Sharpenable Brow Pencil For Natural Looking Brows, Brown Eye Makeup, Long Lasting Eyebrow Pomade (Dark Brunette)](https://distausa.com/products/wonderskin-eyebrow-pencil-sharpenable-brow-pencil-for-natural-looking-brows-brown-eye-makeup-long-lasting-eyebrow-pomade-dark-brunette)
   Price: $16.80 USD
 - [Wonderskin Eyeliner Pencil, 1440 Longwear Blue Eyeliner Pencil - Waterproof, Sharpenable & Smudge Proof (Aqua)](https://distausa.com/products/wonderskin-eyeliner-pencil-1440-longwear-blue-eyeliner-pencil-waterproof-sharpenable-smudge-proof-aqua)
   Price: $20.16 USD
@@ -1300,8 +1312,6 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
   Price: $28.59 USD
 - [I'm From Mugwort Essence | Vegan Extract - Soothe Sensitive and Irritated Skin, Redness Relief, Refreshing, Korean Hydrating Toner | 5.41 Fl Oz, All Skin Types, PETA ](https://distausa.com/products/im-from-mugwort-essence-vegan-extract-soothe-sensitive-and-irritated-skin-redness-relief-refreshing-korean-hydrating-toner-5-41-fl-oz-all-skin-types-peta-)
   Price: $34.20 USD
-- [I'm from Rice Sheet Mask Pack of 5, Korean Rice Face Mask, Creamy Hydration for Dry, Combination Skin, Moist, Milky Essence, Biodegradable, Vegan, Hypoallergenic, 20ml](https://distausa.com/products/im-from-rice-sheet-mask-pack-of-5-korean-rice-face-mask-creamy-hydration-for-dry-combination-skin-moist-milky-essence-biodegradable-vegan-hypoallergenic-20ml)
-  Price: $12.21 USD
 - [I'm from Rice Mask 3.88 Oz, Gentle Exfoliating Wash Off Facial Mask for Dull, Rough Skin, Pore Clearing, Remove Dead Skin Cells, Uneven Skin Tone, Smooth Skin, Moiustirinzg, Radiant](https://distausa.com/products/im-from-rice-mask-3-88-oz-gentle-exfoliating-wash-off-facial-mask-for-dull-rough-skin-pore-clearing-remove-dead-skin-cells-uneven-skin-tone-smooth-skin-moiustirinzg-radiant)
   Price: $20.05 USD
 - [[I'M FROM] Ginseng Serum, 30ml, elasticity, anti-wrinkle, 7.98% ginseng extract](https://distausa.com/products/im-from-ginseng-serum-30ml-elasticity-anti-wrinkle-7-98-ginseng-extract)
@@ -1315,7 +1325,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [I'm from Fig Scrub Mask 120g, exfoliating, moisturizing mask, korean exfoliator, organic skin care](https://distausa.com/products/im-from-fig-scrub-mask-120g-exfoliating-moisturizing-mask-korean-exfoliator-organic-skin-care)
   Price: $34.54 USD
 - [NatureWise CLA 1300 - 95% Active Conjugated Linoleic Acid for Women and Men, Not Stimulating, Supports Weight & Fitness Goals - Non-GMO, Gluten Free - 180 Softgels[2-Month Supply]](https://distausa.com/products/naturewise-cla-1300-95-active-conjugated-linoleic-acid-for-women-and-men-not-stimulating-supports-weight-fitness-goals-non-gmo-gluten-free-180-softgels2-month-supply)
-  Price: $30.87 USD
+  Price: $31.63 USD
 - [Bronson CLA 3000 Extra High Potency Supports Healthy Weight Management Lean Muscle Mass Non-Stimulating Conjugated Linoleic Acid, 90 Softgels](https://distausa.com/products/bronson-cla-3000-extra-high-potency-supports-healthy-weight-management-lean-muscle-mass-non-stimulating-conjugated-linoleic-acid-90-softgels)
   Price: $16.77 USD
 - [Bronson CLA 3000 Extra High Potency Supports Healthy Weight Management Lean Muscle Mass Non-Stimulating Conjugated Linoleic Acid 120 Softgels](https://distausa.com/products/bronson-cla-3000-extra-high-potency-supports-healthy-weight-management-lean-muscle-mass-non-stimulating-conjugated-linoleic-acid-120-softgels)
@@ -1333,7 +1343,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Sports Research CLA - 1250mg with Active Conjugated Linoleic Acid for Men and Women | Non-GMO, Soy & Gluten Free - 95% (90 Softgels)](https://distausa.com/products/sports-research-cla-1250mg-with-active-conjugated-linoleic-acid-for-men-and-women-non-gmo-soy-gluten-free-95-90-softgels)
   Price: $20.10 USD
 - [Sports Research CLA - 1250mg with Active Conjugated Linoleic Acid for Men and Women | Non-GMO, Soy & Gluten Free - 95% (180 Softgels)…](https://distausa.com/products/sports-research-cla-1250mg-with-active-conjugated-linoleic-acid-for-men-and-women-non-gmo-soy-gluten-free-95-180-softgels)
-  Price: $31.33 USD
+  Price: $30.18 USD
 - [BulkSupplements.com CLA Softgels - Conjugated Linoleic Acid, CLA Supplements - Gluten Free, 2 Softgels per Serving (2000mg), 120 Count (Pack of 1)](https://distausa.com/products/bulksupplements-com-cla-softgels-conjugated-linoleic-acid-cla-supplements-gluten-free-2-softgels-per-serving-2000mg-120-count-pack-of-1)
   Price: $23.49 USD
 - [BulkSupplements.com Conjugated Linoleic Acid Softgels - CLA Supplements, CLA 2000mg, CLA Safflower Capsules, CLA Pills - 2 CLA Softgels per Serving, 150-Day Supply, 300 Softgels](https://distausa.com/products/bulksupplements-com-conjugated-linoleic-acid-softgels-cla-supplements-cla-2000mg-cla-safflower-capsules-cla-pills-2-cla-softgels-per-serving-150-day-supply-300-softgels)
@@ -1351,7 +1361,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [BioGaia Gastrus Gut Health Probiotic | Eases Abdominal Discomfort, Gas & Bloating | Promotes Regularity & a Healthy Gut | Contributes to a Balanced Microbiome | Backed by 30 Years of Research](https://distausa.com/products/biogaia-gastrus-gut-health-probiotic-eases-abdominal-discomfort-gas-bloating-promotes-regularity-a-healthy-gut-contributes-to-a-balanced-microbiome-backed-by-30-years-of-research)
   Price: $26.87 USD
 - [BioGaia Gastrus Gut Health Probiotic | Eases Abdominal Discomfort, Gas & Bloating | Promotes Regularity & a Healthy Gut | Contributes to a Balanced Microbiome | Backed by 30 Years of Research | 2-Pack](https://distausa.com/products/biogaia-gastrus-gut-health-probiotic-eases-abdominal-discomfort-gas-bloating-promotes-regularity-a-healthy-gut-contributes-to-a-balanced-microbiome-backed-by-30-years-of-research-2-pack)
-  Price: $47.04 USD
+  Price: $69.89 USD
 - [BioGaia Immune Active Baby Probiotic Drops + Vitamin D | for Babies & Toddlers 0-36 Months | Supports Digestive & Immune Health | Allergen, Dairy, Soy & Gluten Free | Backed by 30 Years of Research](https://distausa.com/products/biogaia-immune-active-baby-probiotic-drops-vitamin-d-for-babies-toddlers-0-36-months-supports-digestive-immune-health-allergen-dairy-soy-gluten-free-backed-by-30-years-of-research)
   Price: $22.39 USD
 - [BioGaia Immune Active Baby Probiotic Drops + Vitamin D | for Babies & Toddlers 0-36 Months | Supports Digestive & Immune Health | Allergen, Dairy, Soy & Gluten Free | 50 Day Supply](https://distausa.com/products/biogaia-immune-active-baby-probiotic-drops-vitamin-d-for-babies-toddlers-0-36-months-supports-digestive-immune-health-allergen-dairy-soy-gluten-free-50-day-supply)
@@ -1413,11 +1423,11 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Fruit and Veggies Supplement – 480 Total Vegetarian Capsules | Balance of Natural 40 Whole Fruits & Veggies Blend | Fresh Superfood Formula with Vitamins and Minerals – Non-GMO](https://distausa.com/products/fruit-and-veggies-supplement-480-total-vegetarian-capsules-balance-of-natural-40-whole-fruits-veggies-blend-fresh-superfood-formula-with-vitamins-and-minerals-non-gmo)
   Price: $26.87 USD
 - [NatureBell Methyl Folate 15mg - 240 Capsules - 5-MTHF with Methyl B12-15mg L-Methylfolate & 1,000mcg Vitamin B12 - Energy & Cognitive Support Supplement* - Gluten-Free & Non-GMO](https://distausa.com/products/naturebell-methyl-folate-15mg-240-capsules-5-mthf-with-methyl-b12-15mg-l-methylfolate-1-000mcg-vitamin-b12-energy-cognitive-support-supplement-gluten-free-non-gmo)
-  Price: $24.63 USD
+  Price: $25.75 USD
 - [NatureBell 2 Pack Hyaluronic Acid Supplements 2,000 mg | 480 Total Capsules, with MSM & Hydrolyzed Bovine Collagen – 3 in 1 Support for Skin Hydration, Joint Lubrication, Hair, and Eye Health](https://distausa.com/products/naturebell-2-pack-hyaluronic-acid-supplements-2-000-mg-480-total-capsules-with-msm-hydrolyzed-bovine-collagen-3-in-1-support-for-skin-hydration-joint-lubrication-hair-and-eye-health)
   Price: $33.54 USD
 - [Lutein 40mg + Zeaxanthin 1,600mcg, 360 Softgels | 4-in-1 Formula with Astaxanthin, Omega-3 & Phospholipids | Marigold Flower Extract | Supports Eye, Brain & Vision Health | Non-GMO, Gluten Free](https://distausa.com/products/lutein-40mg-zeaxanthin-1-600mcg-360-softgels-4-in-1-formula-with-astaxanthin-omega-3-phospholipids-marigold-flower-extract-supports-eye-brain-vision-health-non-gmo-gluten-free)
-  Price: $22.39 USD
+  Price: $27.99 USD
 - [NatureBell Maximum Strength Astaxanthin 12mg, 240 Softgels - 4 Month Supply - Natural Antioxidant from Haematococcus Pluvialis Microalgae | Non-GMO, Gluten Free](https://distausa.com/products/naturebell-maximum-strength-astaxanthin-12mg-240-softgels-4-month-supply-natural-antioxidant-from-haematococcus-pluvialis-microalgae-non-gmo-gluten-free)
   Price: $33.54 USD
 - [NatureBell Hyaluronic Acid 250mg - 240 Capsules - 250mg Hyaluronic Acid, 5000mcg Biotin & 25 mg Vitamin C - Supports Skin, Hair, Bone, Eye & Joint Health*](https://distausa.com/products/naturebell-hyaluronic-acid-250mg-240-capsules-250mg-hyaluronic-acid-5000mcg-biotin-25-mg-vitamin-c-supports-skin-hair-bone-eye-joint-health)
@@ -1429,7 +1439,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [NatureBell Elderberry Quercetin 4-in-1 with Vitamin C & Zinc, 240 Capsules | Traditional Herbal Supplement | 500mg Sambucus Nigra, 500mg Quercetin, 250mg Vitamin C, 50mg Zinc Picolinate per Serving](https://distausa.com/products/naturebell-elderberry-quercetin-4-in-1-with-vitamin-c-zinc-240-capsules-traditional-herbal-supplement-500mg-sambucus-nigra-500mg-quercetin-250mg-vitamin-c-50mg-zinc-picolinate-per-serving)
   Price: $11.19 USD
 - [NatureBell Zinc Quercetin with Vitamin C & D3, 240 Capsules | Quercetin 1,000mg + Zinc 50mg + Vitamin C 250mg + Vitamin D3 5,000 IU | 4-in-1 Advanced Immune & Lung Support | ZincVanta Formula](https://distausa.com/products/naturebell-zinc-quercetin-with-vitamin-c-d3-240-capsules-quercetin-1-000mg-zinc-50mg-vitamin-c-250mg-vitamin-d3-5-000-iu-4-in-1-advanced-immune-lung-support-zincvanta-formula)
-  Price: $19.03 USD
+  Price: $22.39 USD
 - [NatureBell NAC 1,200mg with Quercetin - 240 Capsules - N-Acetyl Cysteine - Antioxidant Supplement for Cellular Health - Supports Liver, Lung & Immune Function*](https://distausa.com/products/naturebell-nac-1-200mg-with-quercetin-240-capsules-n-acetyl-cysteine-antioxidant-supplement-for-cellular-health-supports-liver-lung-immune-function)
   Price: $24.63 USD
 - [HOURGLASS Phantom Volumizing Glossy Balm- Crave 140](https://distausa.com/products/hourglass-phantom-volumizing-glossy-balm-crave-140)
@@ -1447,7 +1457,7 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Julep Eyeshadow 101 Crème-to-Powder Waterproof Eyeshadow Stick Duo – Long-Lasting, Crease-Proof, Easy Apply with Built-in Smudger - Sand Shimmer and Smoky Tawny Matte](https://distausa.com/products/julep-eyeshadow-101-creme-to-powder-waterproof-eyeshadow-stick-duo-long-lasting-crease-proof-easy-apply-with-built-in-smudger-sand-shimmer-and-smoky-tawny-matte)
   Price: $38.07 USD
 - [Julep It's Balm: Tinted Lip Balm + Buildable Lip Color - Vintage Mauve - Natural Gloss Finish - Hydrating Vitamin E Core - Vegan](https://distausa.com/products/julep-its-balm-tinted-lip-balm-buildable-lip-color-vintage-mauve-natural-gloss-finish-hydrating-vitamin-e-core-vegan)
-  Price: $32.14 USD
+  Price: $17.92 USD
 - [Julep It's Balm Tint of Color Lip Balm - 90's Neutral | Hydrating Lip Color with Vitamin E Core | Natural Gloss Finish | Vegan & Cruelty-Free](https://distausa.com/products/julep-its-balm-tint-of-color-lip-balm-90s-neutral-hydrating-lip-color-with-vitamin-e-core-natural-gloss-finish-vegan-cruelty-free)
   Price: $17.92 USD
 - [Julep It's Balm Tint of Color Lip Balm - Cashmere Nude | Hydrating Lip Color with Vitamin E Core | Natural Gloss Finish | Vegan & Cruelty-Free](https://distausa.com/products/julep-its-balm-tint-of-color-lip-balm-cashmere-nude-hydrating-lip-color-with-vitamin-e-core-natural-gloss-finish-vegan-cruelty-free)
@@ -1501,14 +1511,8 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [Julep Skip The Brush Cream to Powder Blush Stick - Neutral Bronze - Blendable and Buildable Color - 2-in-1 Blush and Lip Makeup Stick](https://distausa.com/products/julep-skip-the-brush-cream-to-powder-blush-stick-neutral-bronze-blendable-and-buildable-color-2-in-1-blush-and-lip-makeup-stick)
   Price: $21.27 USD
 - [Julep 24/7 Lip  – Hydrating & Glossy Lip Balm and Lip Sleeping Mask with Shea Butter – Moisturize, Protect & Soothe – Vegan & Cruelty-Free - Sheer Joy (Sheer Berry)](https://distausa.com/products/julep-24-7-lip--hydrating-glossy-lip-balm-and-lip-sleeping-mask-with-shea-butter-moisturize-protect-soothe-vegan-cruelty-free-sheer-joy-sheer-berry)
-  Price: $19.03 USD
-- [Julep 24/7 Lip  – Hydrating & Glossy Lip Balm and Lip Sleeping Mask with Shea Butter – Moisturize, Protect & Soothe – Vegan & Cruelty-Free - Clear](https://distausa.com/products/julep-24-7-lip--hydrating-glossy-lip-balm-and-lip-sleeping-mask-with-shea-butter-moisturize-protect-soothe-vegan-cruelty-free-clear)
-  Price: $19.03 USD
-- [Julep 24/7 Lip  – Hydrating & Glossy Lip Balm and Lip Sleeping Mask with Shea Butter – Moisturize, Protect & Soothe – Vegan & Cruelty-Free - Sheer Pink](https://distausa.com/products/julep-24-7-lip--hydrating-glossy-lip-balm-and-lip-sleeping-mask-with-shea-butter-moisturize-protect-soothe-vegan-cruelty-free-sheer-pink)
-  Price: $19.03 USD
-- [Julep 24/7 Lip  – Hydrating & Glossy Lip Balm and Lip Sleeping Mask with Shea Butter – Moisturize, Protect & Soothe – Vegan & Cruelty-Free - Act Natural (Sheer Nude)](https://distausa.com/products/julep-24-7-lip--hydrating-glossy-lip-balm-and-lip-sleeping-mask-with-shea-butter-moisturize-protect-soothe-vegan-cruelty-free-act-natural-sheer-nude)
-  Price: $19.03 USD
-[List Continued](https://distausa.com/a/llms-agent/llms.txt?shop=6afdip-jq.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDkyNjMxOTY4MTg5OSwibGFzdF92YWx1ZSI6IjE0OTI2MzE5NjgxODk5In0%3D)
+  Price: $17.12 USD
+[List Continued](https://distausa.com/a/llms-agent/llms.txt?shop=6afdip-jq.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNDkyNjMxOTU1MDgyNywibGFzdF92YWx1ZSI6IjE0OTI2MzE5NTUwODI3In0%3D)
 
 ## Collections
 
@@ -1692,7 +1696,6 @@ DistaUSA is an ecommerce marketplace helping customers in India shop authentic i
 - [apploy-home](https://distausa.com/pages/apploy-home)
 - [custom-wishlist](https://distausa.com/pages/custom-wishlist)
 - [Shared Wishlist](https://distausa.com/pages/shared-wishlist)
-- [test-page](https://distausa.com/pages/test-page)
 - [dista-now](https://distausa.com/pages/dista-now)
 - [Track order](https://distausa.com/pages/track-order)
 - [account](https://distausa.com/pages/account)
