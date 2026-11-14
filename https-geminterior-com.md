@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-07-27T04:31:22Z
 - Contact Email: ramirezjoshuavpnwu7318@gmail.com
-- Updated At: 2026-11-06T16:37:37.500Z
+- Updated At: 2026-11-14T01:04:19.488Z
 
 ## Products
 
@@ -3068,28 +3068,7 @@
   - [Aged Brass / 10"Dia](https://geminterior.com/products/frederick-pendant-light-modern-ceiling-pendant-light-modern-home?variant=67529476276415)
     Availability: Available
     Price: $238.80 USD
-- [Penna Table Lamp | Table Lamps | Geminterior](https://geminterior.com/products/penna-table-lamp-designer-table-lamp-for-nightstands-home-lighting): Keep your style sleek and simple with this transitional table lamp, in a matte glazed finish with subtle ceramic texture. Shop Penna Table Lamp at.
-  Updated: 2026-10-03T15:44:26Z
-  Vendor: geminterior
-  Product Type: Table Lamps
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/penna-table-lamp-cream_1_1.jpg?v=1790758527
-  - [Cream](https://geminterior.com/products/penna-table-lamp-designer-table-lamp-for-nightstands-home-lighting?variant=67529476309183)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/penna-table-lamp-cream_1564991625_1.jpg?v=1790758527
-    Price: $316.80 USD
-  - [Taupe](https://geminterior.com/products/penna-table-lamp-designer-table-lamp-for-nightstands-home-lighting?variant=67529476341951)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/penna-table-lamp-taupe_1564991625_1296x_751a9c4f-01ec-4604-9930-abbd8bbd9ff7.jpg?v=1790758527
-    Price: $238.80 USD
-- [Arroyo Pendant Light | Pendant Lights | Geminterior](https://geminterior.com/products/arroyo-pendant-light-modern-ceiling-pendant-light-for-dining-rooms): Élan Byrd is a Miami-based artist and textile designer whose tactile pieces celebrate the natural world. Shop Arroyo Pendant Light at Geminterior.
-  Updated: 2026-10-03T15:44:27Z
-  Vendor: geminterior
-  Product Type: Pendant Lights
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0762/1980/9983/files/ArroyoPendantLightbyElanByrd_Brass_37_Dia_A0657263_089_Product.jpg?v=1790758530
-  Price: $298.80 USD
-[List Continued](https://geminterior.com/a/llms-agent/llms.txt?shop=1aibqq-vx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM3NTY3MjQ0MzA3MSwibGFzdF92YWx1ZSI6IjE1Mzc1NjcyNDQzMDcxIn0%3D)
+[List Continued](https://geminterior.com/a/llms-agent/llms.txt?shop=1aibqq-vx.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTM3NTY3MjM3NzUzNSwibGFzdF92YWx1ZSI6IjE1Mzc1NjcyMzc3NTM1In0%3D)
 
 ## Collections
 
@@ -3189,6 +3168,15 @@
     Author: Geminterior
   - [Modern Lighting Magic: Enhancing Living Spaces with Colbeck Floor Lamp and Designer Pendant Lights Complemented by Cordless Rechargeable Lamps and Bedroom Wall Sconces.](https://geminterior.com/blogs/news/modern-lighting-magic-enhancing-living-spaces-with-colbeck-floor-lamp-and-designer-pendant-lights-complemented-by-cordless-rechargeable-lamps-and-bedroom-wall-sconces): Modern Lighting Magic: Enhancing Living Spaces with Colbeck Floor Lamp and Designer Pendant Lights Complemented by Cordless Rechargeable Lamps and Bedroom Wall Sconces.
     Updated: 2026-11-04T01:08:31Z
+    Author: Geminterior
+  - [Illuminate Your Living Room with the Brasseur Cordless Floor Lamp: Exploring the Fusion of Modern Ceiling Lighting and Designer Pendant Lights for Layered Ambient Charm](https://geminterior.com/blogs/news/illuminate-your-living-room-with-the-brasseur-cordless-floor-lamp-exploring-the-fusion-of-modern-ceiling-lighting-and-designer-pendant-lights-for-layered-ambient-charm): Illuminate Your Living Room with the Brasseur Cordless Floor Lamp: Exploring the Fusion of Modern Ceiling Lighting and Designer Pendant Lights for Layered Ambient Charm
+    Updated: 2026-11-09T00:22:37Z
+    Author: Geminterior
+  - [Bielsa Flush Mount Light: The Ultimate Guide to Modern Ceiling Lighting and Layered Ambient Solutions](https://geminterior.com/blogs/news/bielsa-flush-mount-light-the-ultimate-guide-to-modern-ceiling-lighting-and-layered-ambient-solutions): Bielsa Flush Mount Light: The Ultimate Guide to Modern Ceiling Lighting and Layered Ambient Solutions
+    Updated: 2026-11-10T00:26:06Z
+    Author: Geminterior
+  - [How the Miray Cordless Table Lamp Complements Designer Pendant Lights and Dining Room Chandeliers for Layered Ambient Lighting](https://geminterior.com/blogs/news/how-the-miray-cordless-table-lamp-complements-designer-pendant-lights-and-dining-room-chandeliers-for-layered-ambient-lighting): How the Miray Cordless Table Lamp Complements Designer Pendant Lights and Dining Room Chandeliers for Layered Ambient Lighting
+    Updated: 2026-11-11T01:09:27Z
     Author: Geminterior
 
 ## Store Pages
