@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-12-01T19:12:19Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:07:32.642Z
+- Updated At: 2026-11-14T01:05:28.846Z
 
 ## Products
 
@@ -112,7 +112,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Mosaic Flower Tee - Cool Blue](https://james.merchmadeeasy.com/products/mosaic-flower-tee-cool-blue): 100% combed ring-spun cotton t-shirt in cool blue Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-16T17:25:11Z
+  Updated: 2026-11-11T03:36:56Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -136,7 +136,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Flower Tee - Natural](https://james.merchmadeeasy.com/products/flower-tee-natural): 100% combed ring-spun cotton t-shirt in natural Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-16T17:25:11Z
+  Updated: 2026-11-11T03:36:56Z
   Vendor: James US
   Product Type: T-Shirt
   Availability: Available
@@ -184,7 +184,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $20.00 USD
 - [Embroidered Flower Hoodie](https://james.merchmadeeasy.com/products/embroidered-flower-hoodie): 80/20 ring-spun cotton/polyester hoodie with contrast hood in jet black/orange Size Chart Size Body Length (in) Chest Width (in) S 28 18 M 29 20 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-10-07T20:43:34Z
+  Updated: 2026-11-11T03:36:57Z
   Vendor: James US
   Product Type: Hoodie
   Availability: Available
@@ -246,16 +246,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://james.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-10-03T11:16:51Z
+  Updated: 2026-11-11T12:15:55Z
   Total Products: 13
 - [Apparel](https://james.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-10-03T11:16:51Z
+  Updated: 2026-11-11T12:15:55Z
   Total Products: 5
 - [Accessories](https://james.merchmadeeasy.com/collections/accessories)
   Updated: 2026-08-03T15:01:51Z
   Total Products: 8
 - [All](https://james.merchmadeeasy.com/collections/all)
-  Updated: 2026-10-03T11:16:51Z
+  Updated: 2026-11-11T12:15:55Z
   Total Products: 13
 
 ## Store Pages
