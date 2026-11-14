@@ -8,31 +8,31 @@
 - Timezone: America/Los_Angeles
 - Created At: 2026-01-20T04:00:01Z
 - Contact Email: vistar.wang@gmail.com
-- Updated At: 2026-11-06T00:44:34.597Z
+- Updated At: 2026-11-14T00:42:35.963Z
 
 ## Products
 
 - [Dawn 160ml Double-Walled Espresso Cup | 1988 Coffee](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml): Choose a 160ml double-walled stainless steel espresso cup in seven colors. Sized for double espresso, cortado, flat white, and other small drinks. Shop now.
-  Updated: 2026-10-26T09:49:02Z
+  Updated: 2026-11-11T09:02:05Z
   Vendor: 1988 Coffee
   Product Type: Espresso Cup
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/O1CN01X2aFgx1aDA28dJSLw__0-item_pic.webp?v=1793006749
+  Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/O1CN01X2aFgx1aDA28dJSLw__0-item_pic.webp?v=1794386827
   - [160ml Dawn Cup - True Color](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771325747277)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260415100631_737_496.png?v=1793006763
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260415100631_737_496.png?v=1794386827
     Price: $10.99 USD
   - [160ml Dawn Cup - Dawn Green](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771325911117)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/17-100_f163568c-79ff-4385-bb23-60e73986a976.jpg?v=1793006760
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/17-100_f163568c-79ff-4385-bb23-60e73986a976.jpg?v=1794386825
     Price: $10.99 USD
   - [160ml Dawn Cup - Rose Red](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771325943885)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1_24ab06a9-9d3d-460f-84d4-5b8928a1e673.jpg?v=1793006763
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1_24ab06a9-9d3d-460f-84d4-5b8928a1e673.jpg?v=1794386827
     Price: $10.99 USD
   - [160ml Dawn Cup - Glacier Blue](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771325976653)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/18-100_e459393b-d918-402f-9947-07e74c9c90d0.jpg?v=1793006762
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/18-100_e459393b-d918-402f-9947-07e74c9c90d0.jpg?v=1794386825
     Price: $10.99 USD
   - [160ml Dawn Cup - Prussian Blue](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771326009421)
     Availability: Available
@@ -40,11 +40,11 @@
     Price: $10.99 USD
   - [160ml Dawn Cup - Frosted Black](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771326042189)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_c376486b-1f18-4fcd-8285-d67f0b305e3d.jpg?v=1793006760
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_c376486b-1f18-4fcd-8285-d67f0b305e3d.jpg?v=1794386825
     Price: $10.99 USD
   - [160ml Dawn Cup - Sand beige white](https://www.1988coffee.com/products/dawn-espresso-cups-double-walled-stainless-steel-80ml?variant=42771326140493)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/16-100_5d0b2535-a576-4142-a8c6-218149a09966.jpg?v=1793006762
+    Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/16-100_5d0b2535-a576-4142-a8c6-218149a09966.jpg?v=1794386825
     Price: $10.99 USD
 - [Star-Track WDT Needle Distributor 58mm](https://www.1988coffee.com/products/black-myth-planetary-wdt-tool-rotary-needle-distributor-58mm): 10-needle rotary WDT tool for consistent espresso puck prep. Eliminates clumps, 58mm fit, walnut handle.
   Updated: 2026-10-26T09:51:53Z
@@ -173,7 +173,7 @@
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15_-100_1_79858314-663a-4834-b712-d25cb4bc6917.jpg?v=1787835611
     Price: $16.99 USD
 - [Black Myth 58mm 30LB Impact Tamper | 1988 Coffee](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools): 58mm impact-rebound espresso tamper calibrated to 30 lb for repeatable puck prep. Choose the tamper-only option or a 58mm tool bundle.
-  Updated: 2026-10-22T03:08:17Z
+  Updated: 2026-11-09T13:49:07Z
   Vendor: 1988 Coffee
   Product Type: Espresso Tamper
   Availability: Available
@@ -181,25 +181,25 @@
   - [【Black Myth Series】 Impact Powder Hammer【58mm】Universal](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools?variant=42775928307789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15-100_6c9d33e0-d497-4f58-8039-c79b6baa9bd4.jpg?v=1787835759
-    Price: $48.99 USD
+    Price: $58.80 USD
   - [【Black Myth Series】Impact Powder Hammer + Self-Gravity Powder Applicator 【58mm】Universal](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools?variant=42775928340557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15_2-100.jpg?v=1787835985
-    Price: $61.99 USD
+    Price: $74.40 USD
   - [【Black Myth Series】Impact Powder Hammer + Planetary Powder Needle 【58mm】Universal](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools?variant=42775928373325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15_-100_1.jpg?v=1787835431
-    Price: $89.99 USD
+    Price: $108.00 USD
   - [【Black Myth Series】Impact Powder Hammer + Planetary Powder Needle + Self-Gravity Powder Applicator 【58mm】Universal](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools?variant=42775928406093)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_ae9b18eb-9b65-468b-826e-6256915ed322.jpg?v=1787835831
-    Price: $105.99 USD
+    Price: $127.20 USD
   - [【Black Myth Series】Planetary Powder Needle + Self-Gravity Powder Applicator 【58mm】Universal](https://www.1988coffee.com/products/constant-force-tamper-impact-tamper-30lb-tamper-spring-rebound-tamper-espresso-tamper-set-barista-tools?variant=42832155377741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_b51664ac-b845-4dd2-a64e-b62d9f7e4208.jpg?v=1787835774
-    Price: $61.99 USD
+    Price: $74.40 USD
 - [Phantom Latte Art Milk Pitcher | Listed 600ml Option](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-espresso-milk-jug-precision-spout-milk-cup-600ml-milk-pitcher): Choose a Phantom latte art milk pitcher in Frosted Black, Wilderness Green, or Sand Beige White. Listed 600ml option with a narrow spout.
-  Updated: 2026-10-22T18:41:59Z
+  Updated: 2026-11-09T13:53:51Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -207,17 +207,17 @@
   - [Floral Pot - Frosted Black [600ml]](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-espresso-milk-jug-precision-spout-milk-cup-600ml-milk-pitcher?variant=42775962288205)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_445eb721-16fa-421b-8f11-867331abdee4.jpg?v=1787835391
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [Floral Pot - Wilderness Green【600ml】](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-espresso-milk-jug-precision-spout-milk-cup-600ml-milk-pitcher?variant=42775962320973)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_f0dad50b-67f5-4219-9df3-64a73d3f8bea.jpg?v=1787835719
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [Floral Pot -Sand Beige White [600ml]](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-espresso-milk-jug-precision-spout-milk-cup-600ml-milk-pitcher?variant=42775962353741)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15-100_86e0e855-b05a-492e-abfc-bc1d2d59080f.jpg?v=1787835480
-    Price: $23.99 USD
+    Price: $28.79 USD
 - [Solid Walnut Espresso Tamper 58mm with Stand | COFFEECONCEPT](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure): Handcrafted solid walnut handle espresso tamper set with matching accessories. 58mm precision fit, natural wood grain.
-  Updated: 2026-10-22T03:08:15Z
+  Updated: 2026-11-09T13:54:08Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -225,21 +225,21 @@
   - [【Walnut Wood Series 】Pressing Hammer 【58mm Universal】](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure?variant=42775968350285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15_-100.jpg?v=1787835747
-    Price: $16.99 USD
+    Price: $20.39 USD
   - [【Walnut Wood Series 】Pressing Hammer + Storage Stand  [58mm Universal]](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure?variant=42775968383053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15-100_1.jpg?v=1787836016
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [【Walnut Wood Series 】 Powder Puff + Pressing Puff + Storage Stand [58mm Universal]](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure?variant=42775968415821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_1_bc7f17b6-f5e8-49ba-ae55-9091de2f40cf.jpg?v=1787836010
-    Price: $35.99 USD
+    Price: $43.19 USD
   - [【Walnut Wood Series 】 Powder Puff + Pressing Puff [58mm Universal]](https://www.1988coffee.com/products/walnut-wood-espresso-tamper-58mm-stainless-steel-consistent-pressure?variant=42775968448589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1_0db93a3b-7b61-4f4b-86d2-1678a073c61e.jpg?v=1787835594
-    Price: $32.99 USD
+    Price: $39.59 USD
 - [Diamond Faceted Milk Pitcher for Latte Art](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale): Unique diamond-cut stainless steel milk pitcher. Faceted grip, precision spout for latte art. 350ml & 600ml sizes.
-  Updated: 2026-10-22T03:08:08Z
+  Updated: 2026-11-09T13:50:47Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -247,29 +247,29 @@
   - [Diamond Milk Pitcher 350ml - Milky white](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071174733)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_e4ec5afd-800c-43d7-917a-8a09dfdcec5d.jpg?v=1787835601
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Diamond Milk Pitcher 600ml - Milky white](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071207501)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_551b3890-ea35-4a8d-bec7-383e2b52b44c.jpg?v=1787835649
-    Price: $14.99 USD
+    Price: $17.99 USD
   - [Diamond Milk Pitcher 350ml - Solid Black](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071240269)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13_-100_f72dd794-82de-4207-9117-607c09c831da.jpg?v=1787835738
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Diamond Milk Pitcher 600ml - Solid Black](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071273037)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_fd5de2a1-5750-4433-bc0f-f6488d4efcd2.jpg?v=1787835947
-    Price: $14.99 USD
+    Price: $17.99 USD
   - [Diamond Milk Pitcher Set - Milky white](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071305805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/15-100.jpg?v=1787835967
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [Diamond Milk Pitcher Set - Solid Black](https://www.1988coffee.com/products/milk-pitcher-latte-art-pitcher-milk-frothing-pitcher-diamond-milk-jug-stainless-steel-milk-cup-coffee-milk-pitcher-with-scale?variant=42783071338573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/16-100.jpg?v=1787835654
-    Price: $24.99 USD
+    Price: $29.99 USD
 - [Walnut Espresso Tool Organizer Stand](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor): Handcrafted walnut storage stand with multiple slots for tampers, distributors, and accessories. Coffee station centerpiece.
-  Updated: 2026-10-29T03:42:26Z
+  Updated: 2026-11-09T13:58:35Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -277,21 +277,21 @@
   - [【Walnut Wood Series 】Storage Stand + Pressing Puff 【58mm Universal】](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor?variant=42783078219853)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13_-100_968a9963-628a-4c75-bd97-c06d2a193247.jpg?v=1787832893
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [【Walnut Wood Series】Powder Puff + Storage Stand 【58mm Universal】](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor?variant=42783078252621)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_2_5d442261-45f9-4daf-a584-a80c39ad6439.jpg?v=1787832893
-    Price: $32.99 USD
+    Price: $39.59 USD
   - [【Walnut Wood Series】Powder Puff + Pressing Puff + Storage Stand 【58mm Universal】](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor?variant=42783078285389)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_2_b76b4266-2ba4-483b-a2c7-26e96832519e.jpg?v=1787832894
-    Price: $35.99 USD
+    Price: $43.19 USD
   - [【Walnut Wood Series 】Storage Stand 58mm Universal](https://www.1988coffee.com/products/walnut-wood-coffee-tool-storage-stand-for-tamper-distributor?variant=42783078318157)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_67655d8a-ddfc-4b4c-aa57-908012e96107.jpg?v=1787832895
-    Price: $16.99 USD
+    Price: $20.39 USD
 - [Magnetic Dosing Ring | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring): Shop magnetic dosing rings in 51mm, 53/54mm, and 58mm options, in black or silver. Check basket rim fit and  before use.
-  Updated: 2026-10-22T18:44:13Z
+  Updated: 2026-11-09T13:53:12Z
   Vendor: 1988 Coffee
   Product Type: Coffee Dosing Accessory
   Availability: Available
@@ -299,44 +299,44 @@
   - [Magnetic Powder Ring - Black 【58mm Universal】](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42783086248013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/58-1_c05a2981-e734-4c5b-adbb-900c439d5769.jpg?v=1787832905
-    Price: $7.99 USD
+    Price: $9.59 USD
   - [Magnetic Powder Ring - Black [53/54mmUniversal ]](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42783086280781)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/53-54-1_184479bb-191e-486b-a817-2d508e6a4dfc.jpg?v=1787832906
-    Price: $7.99 USD
+    Price: $9.59 USD
   - [Magnetic Powder Ring - Black 【51mm Universal】](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42783086313549)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/51-1_aa559804-3857-4f16-b462-03eca38350ab.jpg?v=1787832908
-    Price: $7.99 USD
+    Price: $9.59 USD
   - [Magnetic Powder Ring - Silver 【53/54mm Universal】](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42819463708749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/53-54-1_c4154acc-01eb-408a-b6c2-d995912d097f.jpg?v=1787832908
-    Price: $7.99 USD
+    Price: $9.59 USD
   - [Magnetic Powder Ring - Silver 【58mm Universal】](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42819464757325)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/58-1_9d1a53c6-2d71-4029-b036-e9afe49b5b2b.jpg?v=1787832910
-    Price: $7.99 USD
+    Price: $9.59 USD
   - [Magnetic Powder Ring - Silver 【51mm Universal】](https://www.1988coffee.com/products/coffee-dosing-ring-magnetic-dosing-funnel-anti-fly-powder-ring-grinder-powder-receiver-58mm-dosing-ring?variant=42819465052237)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/51-1_3fafc977-6fdb-4612-b42e-0551f10a9f6f.jpg?v=1787832911
-    Price: $7.99 USD
+    Price: $9.59 USD
 - [Espresso Filter Paper | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/coffee-filter-paper-portafilter-filter-paper-espresso-filter-paper-secondary-filter-paper-58mm-filter-paper): Shop round espresso filter paper in 51mm, 53/54mm, and 58mm selections. Measure your portafilter basket before choosing a size.
-  Updated: 2026-10-22T18:44:45Z
+  Updated: 2026-11-09T13:52:41Z
   Vendor: 1988 Coffee
   Product Type: Espresso Filter Paper
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/01-round-espresso-filter-paper-stack.jpg?v=1787832913
   - [53/54mm](https://www.1988coffee.com/products/coffee-filter-paper-portafilter-filter-paper-espresso-filter-paper-secondary-filter-paper-58mm-filter-paper?variant=42783133925453)
     Availability: Available
-    Price: $4.99 USD
+    Price: $5.99 USD
   - [51mm](https://www.1988coffee.com/products/coffee-filter-paper-portafilter-filter-paper-espresso-filter-paper-secondary-filter-paper-58mm-filter-paper?variant=42783133990989)
     Availability: Available
-    Price: $4.99 USD
+    Price: $5.99 USD
   - [58mm](https://www.1988coffee.com/products/coffee-filter-paper-portafilter-filter-paper-espresso-filter-paper-secondary-filter-paper-58mm-filter-paper?variant=42783134154829)
     Availability: Available
-    Price: $4.99 USD
-- [Espresso Dosing Cup 51/54/58mm Aroma](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup): Precision dosing cup doubles as aroma cup. Reduces mess and grounds waste. Fits 51/54/58mm portafilters, under $10.
-  Updated: 2026-10-22T03:08:07Z
+    Price: $5.99 USD
+- [Espresso Dosing Cup 51/54/58mm Aroma](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup): Precision dosing cup doubles as aroma cup. Reduces mess and grounds waste. Fits 51/54/58mm portafilters.
+  Updated: 2026-11-09T13:52:57Z
   Vendor: 1988 Coffee
   Product Type: Coffee Dosing Accessory
   Availability: Available
@@ -344,29 +344,29 @@
   - [Scented Powder Cup - Frosted Black [58mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144345677)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_2_411feaa6-d51c-4eca-9a04-87d2b57fd175.jpg?v=1787835660
-    Price: $9.99 USD
+    Price: $11.99 USD
   - [Scented Powder Cup - Frosted Black [53/54mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144378445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_-100_1.jpg?v=1787835589
-    Price: $9.99 USD
+    Price: $11.99 USD
   - [Scented Powder Cup - Frosted Black [51mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144411213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_2_1791f5cb-02eb-499d-8734-1d00ceedb7bd.jpg?v=1787835660
-    Price: $9.99 USD
+    Price: $11.99 USD
   - [Scented Powder Cup -  Premium Silver [58mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144443981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13_-100_2b32359f-68cd-4c2e-85d1-eba8e89786bb.jpg?v=1787835651
-    Price: $9.99 USD
+    Price: $11.99 USD
   - [Scented Powder Cup -  Premium Silver [53/54mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144476749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_3-100.jpg?v=1787836004
-    Price: $9.99 USD
+    Price: $11.99 USD
   - [Scented Powder Cup -  Premium Silver [51mm Universal]](https://www.1988coffee.com/products/coffee-dosing-cup-smelling-cup-58mm-dosing-cup-inverted-dosing-cup-coffee-measuring-cup?variant=42783144509517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100_720e1a9e-cde8-46c4-aa19-0d6e3dba8ce4.jpg?v=1787835821
-    Price: $9.99 USD
+    Price: $11.99 USD
 - [Vertical-Striped Gravity Espresso Distributor](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set): Shop black or silver vertical-striped gravity espresso distributor options in 51mm, 53/54mm, and 58mm. Check current variant pricing and availability.
-  Updated: 2026-10-22T03:08:19Z
+  Updated: 2026-11-09T13:54:25Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -374,53 +374,53 @@
   - [Striped self-weighting powder applicator black - 58mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193202765)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260325112312_494_496.jpg?v=1787835954
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Striped self-weighting powder applicator black - 53/54mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193235533)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260325112313_495_496.jpg?v=1787835879
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Striped self-weighting powder applicator black - 51mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193268301)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260325112314_496_496.jpg?v=1787835756
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Striped self-weighting powder applicator silver - 58mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193301069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/111.jpg?v=1787835934
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Striped self-weighting powder applicator silver - 53/54mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193333837)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260325112315_498_496.jpg?v=1787835949
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Striped self-weighting powder applicator silver - 51mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193366605)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260325112314_497_496.jpg?v=1787835740
-    Price: $15.99 USD
+    Price: $19.19 USD
   - [Self-weight gravity powder combination set - Black 58mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193595981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/h58.png?v=1787835802
-    Price: $41.99 USD
+    Price: $50.40 USD
   - [Self-weight gravity powder combination set - Black 53/54mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193628749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/h54.png?v=1787835401
-    Price: $41.99 USD
+    Price: $50.40 USD
   - [Self-weight gravity powder combination set - Black 51mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193661517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s51.png?v=1787835677
-    Price: $41.99 USD
+    Price: $50.40 USD
   - [Self-weight gravity powder combination set - Silver 58mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193694285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s58.png?v=1787835480
-    Price: $41.99 USD
+    Price: $50.40 USD
   - [Self-weight gravity powder combination set - Silver 53/54mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193727053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s54.png?v=1787835819
-    Price: $41.99 USD
+    Price: $50.40 USD
   - [Self-weight gravity powder combination set - Silver 51mm](https://www.1988coffee.com/products/coffee-distributor-gravity-distributor-self-weight-distributor-vertical-striped-distributor-espresso-tamper-set?variant=42783193759821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/s51.png?v=1787835677
-    Price: $41.99 USD
+    Price: $50.40 USD
 - [100ml Espresso Measuring Cup with Spout | 1988 Coffee](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup): Measure espresso volume in a 100ml stainless steel cup with a visible scale, stable base, side handle, and pour spout. Available in four finishes. Shop now.
-  Updated: 2026-10-29T15:23:28Z
+  Updated: 2026-11-09T13:48:10Z
   Vendor: 1988 Coffee
   Product Type: Espresso Shot Glass
   Availability: Available
@@ -428,21 +428,21 @@
   - [Single Spout Espresso Measuring Cup - Elegant Black 【100ml】](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup?variant=42783198838861)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_2.jpg?v=1787835722
-    Price: $5.99 USD
+    Price: $7.19 USD
   - [Single Spout Espresso Measuring Cup - Mirror steel 【100ml】](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup?variant=42783198871629)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13_-100.jpg?v=1787835616
-    Price: $5.99 USD
+    Price: $7.19 USD
   - [Single Spout Espresso Measuring Cup - Cream White 【100ml】](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup?variant=42783198904397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_2-100.jpg?v=1787835841
-    Price: $5.99 USD
+    Price: $7.19 USD
   - [Single Spout Espresso Measuring Cup - Vintage 【100ml】](https://www.1988coffee.com/products/espresso-measuring-cup-volcano-extraction-cup-coffee-shot-glass-milk-pitcher-stainless-steel-measuring-cup?variant=42783198937165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_2.jpg?v=1787835625
-    Price: $5.99 USD
+    Price: $7.19 USD
 - [Cute Bear Tamper Set with Walnut Stand](https://www.1988coffee.com/products/coffee-tamper-set-cute-bear-tamper-walnut-tamper-base-coffee-tool-storage-espresso-tamper): Adorable bear-shaped tamper set with solid walnut storage stand. Great gift for espresso lovers. 58mm fit.
-  Updated: 2026-10-22T03:08:03Z
+  Updated: 2026-11-09T13:50:32Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -450,13 +450,13 @@
   - [Cute Bear Solid Wood Stand - Small Size【58 Universal】](https://www.1988coffee.com/products/coffee-tamper-set-cute-bear-tamper-walnut-tamper-base-coffee-tool-storage-espresso-tamper?variant=42785488371789)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100_1.jpg?v=1787835395
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [Cute Bear Solid Wood Stand - Large Size【58 Universal】](https://www.1988coffee.com/products/coffee-tamper-set-cute-bear-tamper-walnut-tamper-base-coffee-tool-storage-espresso-tamper?variant=42785488404557)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100_1.jpg?v=1787835783
-    Price: $28.99 USD
+    Price: $34.79 USD
 - [Espresso Tamper + WDT Tool Set – 2-in-1 Puck Prep](https://www.1988coffee.com/products/espresso-tamper-set-wdt): Compare 51mm, 53/54mm and 58mm options for this espresso tamper and WDT set. Check basket fit, package details and availability before ordering.
-  Updated: 2026-10-31T22:34:06Z
+  Updated: 2026-11-09T13:48:34Z
   Vendor: 1988 Coffee
   Product Type: Espresso Puck Prep Set
   Availability: Available
@@ -464,17 +464,17 @@
   - [2-in-1 WDT Tool & Tamper【58mm】](https://www.1988coffee.com/products/espresso-tamper-set-wdt?variant=42785491419213)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14_-100.jpg?v=1787835753
-    Price: $28.99 USD
+    Price: $34.79 USD
   - [2-in-1 WDT Tool & Tamper【53/54mm】](https://www.1988coffee.com/products/espresso-tamper-set-wdt?variant=42785491451981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/13-100.jpg?v=1787835596
-    Price: $28.99 USD
+    Price: $34.79 USD
   - [2-in-1 WDT Tool & Tamper【51mm】](https://www.1988coffee.com/products/espresso-tamper-set-wdt?variant=42785491484749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/14-100.jpg?v=1787835457
-    Price: $28.99 USD
+    Price: $34.79 USD
 - [Sawada Wide-Mouth Latte Art Cup Ceramic](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup): Wide-mouth ceramic cup for latte art practice. Inspired by Sawada pro design. Thick walls, premium ceramic feel.
-  Updated: 2026-10-22T03:08:03Z
+  Updated: 2026-11-09T13:56:35Z
   Vendor: 1988 Coffee
   Product Type: Espresso Cup
   Availability: Available
@@ -482,25 +482,25 @@
   - [Khaki Beige - 300ml](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup?variant=42785722302541)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182040_673_496.jpg?v=1787835493
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Wheatland Gray - 300ml](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup?variant=42785722335309)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182040_674_496.jpg?v=1787835942
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Juniper Green - 300ml](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup?variant=42785722368077)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182039_671_496.jpg?v=1787835812
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Ore White - 300ml](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup?variant=42785722400845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182038_670_496.jpg?v=1787835644
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Hepburn Black - 300ml](https://www.1988coffee.com/products/sawada-cup-latte-art-cup-coffee-cup-and-saucer-ceramic-coffee-cup-espresso-latte-cup?variant=42785722433613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327182039_672_496.jpg?v=1787835431
-    Price: $10.99 USD
+    Price: $13.19 USD
 - [Muyu Espresso Tamper | 51mm, 53/54mm & 58mm](https://www.1988coffee.com/products/constant-force-tamper-consistent-pressure-tamper-walnut-coffee-tamper-espresso-tamper-balanced-spring-tamper): Shop the Muyu espresso tamper in 51mm, 53/54mm, and 58mm selections. Check your basket measurement and choose the listed size before ordering.
-  Updated: 2026-10-22T03:08:03Z
+  Updated: 2026-11-09T13:50:15Z
   Vendor: 1988 Coffee
   Product Type: Espresso Tamper
   Availability: Available
@@ -508,17 +508,17 @@
   - [Muyu Walnut Coffee Tamper - Universal 58mm](https://www.1988coffee.com/products/constant-force-tamper-consistent-pressure-tamper-walnut-coffee-tamper-espresso-tamper-balanced-spring-tamper?variant=42785865760845)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327165135_655_496.jpg?v=1787835560
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [Muyu Walnut Coffee Tamper - Universal 53/54mm](https://www.1988coffee.com/products/constant-force-tamper-consistent-pressure-tamper-walnut-coffee-tamper-espresso-tamper-balanced-spring-tamper?variant=42785865793613)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327165134_654_496.jpg?v=1787835406
-    Price: $23.99 USD
+    Price: $28.79 USD
   - [Muyu Walnut Coffee Tamper - Universal 51mm](https://www.1988coffee.com/products/constant-force-tamper-consistent-pressure-tamper-walnut-coffee-tamper-espresso-tamper-balanced-spring-tamper?variant=42785865826381)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327165134_653_496.jpg?v=1787835391
-    Price: $23.99 USD
-- [Airtight Coffee Canister – Vacuum Seal Valve](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar): Keep coffee beans fresh 3x longer. Stainless steel vacuum-seal canister with one-way CO2 valve. 1.2L & 1.5L, under $12.
-  Updated: 2026-10-22T03:08:02Z
+    Price: $28.79 USD
+- [Airtight Coffee Canister – Vacuum Seal Valve](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar): Keep coffee beans fresh 3x longer. Stainless steel vacuum-seal canister with one-way CO2 valve. 1.2L & 1.5L.
+  Updated: 2026-11-09T13:48:51Z
   Vendor: 1988 Coffee
   Product Type: Coffee Storage
   Availability: Available
@@ -526,25 +526,25 @@
   - [Coffee Seal Can - 1.2L Milky White](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar?variant=42785879588941)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66sw1.2.png?v=1787835524
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Coffee Seal Can - 1.2L Frosted Black](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar?variant=42785879621709)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66sh1.2.png?v=1787835548
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Coffee Seal Can - 1.2L Stainless Steel](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar?variant=42785879654477)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66sy1.2.png?v=1787835728
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Coffee Seal Can - 1.5L Milky White](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar?variant=42785879687245)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66mw1.5.png?v=1787836268
-    Price: $11.99 USD
+    Price: $14.39 USD
   - [Coffee Seal Can - 1.5L Frosted Black](https://www.1988coffee.com/products/coffee-canister-coffee-bean-storage-airtight-coffee-container-one-way-valve-coffee-jar?variant=42785879720013)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/66mh1.5.png?v=1787835687
-    Price: $11.99 USD
+    Price: $14.39 USD
 - [Bell Milk Pitcher 350/500ml Latte Art](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug): Classic bell-shaped stainless steel milk pitcher for smooth latte art. Beginner-friendly spout. 350ml & 500ml sizes.
-  Updated: 2026-10-22T03:08:02Z
+  Updated: 2026-11-08T20:00:51Z
   Vendor: 1988 Coffee
   Product Type: Milk Pitcher
   Availability: Available
@@ -552,41 +552,41 @@
   - [Espresso Milk Frothing Pitcher - 500ml Sand Beige](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974779981)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142254_635_496.jpg?v=1787835814
-    Price: $12.99 USD
+    Price: $15.59 USD
   - [Espresso Milk Frothing Pitcher - 350ml Sand Beige](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974812749)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142253_632_496.jpg?v=1787835874
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Espresso Milk Frothing Pitcher - 500ml Frosted Black](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974845517)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142255_636_496.jpg?v=1787835436
-    Price: $12.99 USD
+    Price: $15.59 USD
   - [Espresso Milk Frothing Pitcher - 350ml Frosted Black](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974878285)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142253_633_496.jpg?v=1787835984
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Espresso Milk Frothing Pitcher - 500ml Original Color](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974911053)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142254_634_496.jpg?v=1787835518
-    Price: $12.99 USD
+    Price: $15.59 USD
   - [Espresso Milk Frothing Pitcher - 350ml Original Color](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974943821)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142252_631_496.jpg?v=1787835451
-    Price: $10.99 USD
+    Price: $13.19 USD
   - [Espresso Milk Frothing Pitcher - Sand Beige Set](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785974976589)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327163904_650_496.jpg?v=1787835846
-    Price: $22.99 USD
+    Price: $27.59 USD
   - [Espresso Milk Frothing Pitcher - Frosted Black Set](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785975009357)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327142252_630_496.jpg?v=1787835856
-    Price: $22.99 USD
+    Price: $27.59 USD
   - [Espresso Milk Frothing Pitcher - Original Color Set](https://www.1988coffee.com/products/bell-milk-pitcher-500ml-stainless-steel-latte-art-steaming-jug?variant=42785975042125)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327163904_649_496.jpg?v=1787835851
-    Price: $22.99 USD
+    Price: $27.59 USD
 - [Eagle Beak Latte Art Milk Pitcher | 400/600ml Options](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml): Compare Eagle Beak latte art milk pitcher options labeled V-Spout with 400ml or 600ml wording. Check product documentation, price and availability before ordering.
-  Updated: 2026-11-02T10:09:37Z
+  Updated: 2026-11-09T13:52:28Z
   Vendor: 1988 Coffee
   Product Type: Coffee Tools
   Availability: Available
@@ -594,21 +594,21 @@
   - [V‑Spout Latte Art Pitcher - Sand Beige 400ml](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml?variant=42798242889805)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327105907_589_496_27d563ae-e8da-4bbd-b8b4-b3dfd46136bf.jpg?v=1787835397
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [V‑Spout Latte Art Pitcher - Frosted Black 400ml](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml?variant=42798242922573)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327105904_586_496_e9372cf9-6c30-4a18-b46d-dc95f25edf6a.jpg?v=1787835466
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [V‑Spout Latte Art Pitcher - Sand Beige 600ml](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml?variant=42798242955341)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327105905_587_496_b71f01e2-9280-4b37-bc55-fe396025a1c4.jpg?v=1787835626
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [V‑Spout Latte Art Pitcher - Frosted Black 600ml](https://www.1988coffee.com/products/eagle-beak-latte-art-milk-pitcher-304-stainless-steel-400ml-600ml?variant=42798242988109)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260327105906_588_496_6f2750bc-b71f-4227-b961-7e2d301c435a.jpg?v=1787835435
-    Price: $24.99 USD
+    Price: $29.99 USD
 - [Gravity Espresso Distributor 51/53/58mm | 1988 Coffee](https://www.1988coffee.com/products/coffee-distributor-gravity-coffee-tamper-espresso-distribution-tool-walnut-coffee-tool-self-dumping-tamper): Self-leveling walnut espresso distributor in 51mm, 53/54mm, and 58mm sizes. Match your basket diameter to improve puck prep and reduce channeling.
-  Updated: 2026-11-02T10:01:40Z
+  Updated: 2026-11-09T13:50:00Z
   Vendor: 1988 Coffee
   Product Type: Espresso Distributor
   Availability: Available
@@ -616,15 +616,15 @@
   - [Cloud Drop Gravity Coffee Distributor - Universal 58mm](https://www.1988coffee.com/products/coffee-distributor-gravity-coffee-tamper-espresso-distribution-tool-walnut-coffee-tool-self-dumping-tamper?variant=42786041528397)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260326172025_538_496.jpg?v=1787835828
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [Cloud Drop Gravity Coffee Distributor - Universal 53/54mm](https://www.1988coffee.com/products/coffee-distributor-gravity-coffee-tamper-espresso-distribution-tool-walnut-coffee-tool-self-dumping-tamper?variant=42786041561165)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260326172025_537_496.jpg?v=1787836011
-    Price: $24.99 USD
+    Price: $29.99 USD
   - [Cloud Drop Gravity Coffee Distributor - Universal 51mm](https://www.1988coffee.com/products/coffee-distributor-gravity-coffee-tamper-espresso-distribution-tool-walnut-coffee-tool-self-dumping-tamper?variant=42786041593933)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0689/4419/9757/files/20260326172024_536_496.jpg?v=1787835825
-    Price: $24.99 USD
+    Price: $29.99 USD
 - [Coffee Vacuum 3.0 Cordless Dual-Use Cleaner](https://www.1988coffee.com/products/coffee-vacuum-3-0-cordless-handheld-blow-suck-dual-use-high-power-ultra-strong-suction): Cordless dual-mode coffee cleaner — blow & suction. High-power motor, 5 nozzles, USB-C rechargeable. For espresso setups.
   Updated: 2026-11-02T09:49:10Z
   Vendor: 1988 Coffee
@@ -658,43 +658,43 @@
   Updated: 2026-10-13T07:38:13Z
   Total Products: 0
 - [Tamping & Distribution Tools](https://www.1988coffee.com/collections/tamping-distribution-tools): Shop gravity coffee distributors, constant force tampers, and walnut-base espresso tools. Eliminate channeling and pull consistent shots with every puck preparation.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T01:54:06Z
   Total Products: 11
 - [Latte Art & Milk Frothing Tools](https://www.1988coffee.com/collections/latte-art-milk-frothing-tools): Stainless steel milk pitchers for latte art — bell shape for beginners, eagle beak for precision pours. 304 stainless steel in 350ml, 400ml, 500ml, and 600ml sizes.
-  Updated: 2026-10-22T03:08:07Z
+  Updated: 2026-11-09T01:53:34Z
   Total Products: 4
 - [Cups & Storage Containers](https://www.1988coffee.com/collections/cups-storage-containers-1): Shop professional latte art cups, airtight coffee bean storage canisters, and accessories. Designed for specialty coffee lovers who care about freshness and.
-  Updated: 2026-10-22T03:08:07Z
+  Updated: 2026-11-09T01:56:14Z
   Total Products: 4
 - [Dosing & Extraction Accessories](https://www.1988coffee.com/collections/dosing-extraction-accessories): Magnetic dosing rings, portafilter filter papers, and extraction accessories for consistent espresso. Fits 51mm, 53mm, 54mm, and 58mm portafilter baskets.
-  Updated: 2026-10-22T03:08:07Z
+  Updated: 2026-11-09T01:52:56Z
   Total Products: 4
 - [Cleaning & Helper Tools](https://www.1988coffee.com/collections/cleaning-helper-tools): Keep your espresso setup clean and performing at its best. Shop portafilter brushes, group head tools, and maintenance accessories for home and café espresso.
-  Updated: 2026-10-29T11:13:01Z
+  Updated: 2026-11-09T01:54:21Z
   Total Products: 1
 - [OPEN - Best Sellers](https://www.1988coffee.com/collections/avada-best-sellers): Discover the OPEN best sellers collection featuring top-rated products loved by customers worldwide. Explore quality and popularity all in one place.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T05:59:55Z
   Total Products: 26
 - [Breville Barista Express Accessories | 54mm Upgrades](https://www.1988coffee.com/collections/breville-barista-express): Upgrade your Breville Barista Express with 54mm-compatible tampers, gravity distributors, WDT tools, and puck prep accessories.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T01:56:14Z
   Total Products: 25
 - [Breville Bambino Accessories | 54mm Tampers & Espresso Tools](https://www.1988coffee.com/collections/breville-bambino): Shop 54mm tampers, distributors, and WDT tools for Breville Bambino and Bambino Plus. Better puck prep for better shots.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T01:56:14Z
   Total Products: 25
 - [DeLonghi Dedica Accessories | 51mm Tampers & Upgrade Kit](https://www.1988coffee.com/collections/delonghi-dedica): Upgrade your DeLonghi Dedica with 51mm tampers, WDT tools, puck screens, and espresso accessories for cleaner shots.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T01:56:14Z
   Total Products: 25
 - [58mm Portafilter Accessories | Precision Tampers, Distributors & WDT Tools](https://www.1988coffee.com/collections/58mm-portafilter): Shop 58mm portafilter accessories: precision tampers, WDT tools, gravity distributors, and puck screens for better espresso.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T01:56:14Z
   Total Products: 25
 - [Smart Products Filter Index - Do not delete](https://www.1988coffee.com/collections/globofilter-best--products-index): Browse COFFEECONCEPT coffee tools, espresso accessories, brewing gear, tampers, distributors, WDT tools, milk pitchers, and manual coffee makers.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T05:59:55Z
   Total Products: 26
 - [Manual Coffee Press & Glass Coffee Makers](https://www.1988coffee.com/collections/cjcoffee): Discover the 350ml coffee press for smooth, rich coffee at home. A compact manual brewer with glass design, ideal for daily use and easy cleanup.
   Updated: 2026-10-22T03:08:20Z
   Total Products: 1
 - [All Products (AI Product Description-ChatGPT)](https://www.1988coffee.com/collections/all-products-ai-product-description-chatgpt): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (AI Product Description-ChatGPT) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-11-01T12:14:55Z
+  Updated: 2026-11-09T05:59:55Z
   Total Products: 26
 
 ## Blogs
@@ -1064,14 +1064,14 @@
   - [How to Use a French Press: Step-by-Step Brewing Guide](https://www.1988coffee.com/blogs/coffee-tool/how-to-use-french-press-coffee-maker): How to Use a French Press: Step-by-Step Brewing Guide
     Updated: 2026-10-22T03:08:34Z
     Author: COFFEECONCEPT
-  - [Best Coffee Tampers 2025: Reviews & Buying Guide](https://www.1988coffee.com/blogs/coffee-tool/best-coffee-tampers-espresso): Best Coffee Tampers 2025: Reviews & Buying Guide
-    Updated: 2026-10-22T03:08:34Z
+  - [Best Coffee Tamper (2026): 5 Picks for 51, 53 & 58mm Baskets](https://www.1988coffee.com/blogs/coffee-tool/best-coffee-tampers-espresso): Best Coffee Tamper (2026): 5 Picks for 51, 53 & 58mm Baskets
+    Updated: 2026-11-12T03:15:54Z
     Author: COFFEECONCEPT
 
 ## Store Pages
 
 - [Contact COFFEECONCEPT | Espresso Tools Support](https://www.1988coffee.com/pages/contact): Contact Us Questions about an order or a product? We'd love to hear from you. Email: lumi@deeplumen.io — we usually reply within 1–2 business days....
-  Updated: 2026-09-28T06:30:24Z
+  Updated: 2026-11-11T10:18:33Z
 - [Data Sharing Opt-Out | COFFEECONCEPT Privacy](https://www.1988coffee.com/pages/data-sharing-opt-out): As described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and s...
   Updated: 2026-06-02T04:54:16Z
 - [Collabs](https://www.1988coffee.com/pages/collab): 
@@ -1102,21 +1102,21 @@
   Updated: 2026-07-26T13:47:56Z
 - [Manage Subscriptions](https://www.1988coffee.com/pages/manage-subscriptions)
   Updated: 2026-08-05T09:18:36Z
-- [About 1988 Coffee | Espresso Tools for Home Baristas](https://www.1988coffee.com/pages/about-us): Precision Espresso Tools for Home Baristas. 1988 Coffee is an online retailer focused on espresso preparation tools and accessories for home barist...
-  Updated: 2026-08-09T09:19:02Z
+- [About COFFEECONCEPT | Espresso Tools for Home Baristas](https://www.1988coffee.com/pages/about-us): Precision Espresso Tools for Home Baristas. COFFEECONCEPT is an online retailer focused on espresso preparation tools and accessories for home bari...
+  Updated: 2026-11-11T09:11:40Z
 
 ## Policies
 
 - [Privacy Policy](https://www.1988coffee.com/policies/privacy-policy)
-  Updated: 2026-09-28T06:37:09Z
+  Updated: 2026-11-11T10:18:44Z
 - [Shipping Policy](https://www.1988coffee.com/policies/shipping-policy)
-  Updated: 2026-06-24T13:23:40Z
+  Updated: 2026-11-11T10:18:42Z
 - [Refund Policy](https://www.1988coffee.com/policies/refund-policy)
-  Updated: 2026-02-12T08:08:31Z
+  Updated: 2026-11-11T10:18:51Z
 - [Terms of Service](https://www.1988coffee.com/policies/terms-of-service)
-  Updated: 2026-09-28T08:03:23Z
+  Updated: 2026-11-11T10:18:48Z
 - [Contact Information](https://www.1988coffee.com/policies/contact-information)
-  Updated: 2026-02-10T10:05:29Z
+  Updated: 2026-11-11T10:18:36Z
 
 ## Optional
 
