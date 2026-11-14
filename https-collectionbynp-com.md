@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-02-12T02:53:18Z
 - Contact Email: info@collectionbynp.com
-- Updated At: 2026-11-07T00:43:52.204Z
+- Updated At: 2026-11-14T00:45:49.780Z
 
 ## Products
 
@@ -291,7 +291,7 @@
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/StarryNightSmall1.jpg?v=1792159608
     Price: $18.00 USD
 - [Discover the Astra Bag | Percacciolo Collection](https://collectionbynp.com/products/astra-bag): Discover the Astra Bag from Percacciolo Collection.
-  Updated: 2026-10-16T22:38:42Z
+  Updated: 2026-11-13T10:37:04Z
   Vendor: Percacciolo Collection
   Product Type: Handbags
   Availability: Available
@@ -299,23 +299,23 @@
   - [White](https://collectionbynp.com/products/astra-bag?variant=45085271326954)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/IMG_6810_727d299d-799e-4c9f-95ee-f68761ca9196.jpg?v=1777989797
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [Pink](https://collectionbynp.com/products/astra-bag?variant=45085271359722)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Pink_a8af0d88-a2e3-4d82-8323-be5b9bc2ca7c.jpg?v=1777989807
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [Purple](https://collectionbynp.com/products/astra-bag?variant=45666523676906)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Purple.jpg?v=1777989809
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [Black](https://collectionbynp.com/products/astra-bag?variant=45666524201194)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Black.jpg?v=1777989811
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [Embossed Special Edition](https://collectionbynp.com/products/astra-bag?variant=45666524266730)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/E9A2370C-DE12-4C89-8BCD-EE6041CA5E5E.jpg?v=1777989813
-    Price: $45.00 USD
+    Price: $50.00 USD
 - [Discover the Lenore Lace Earrings | Percacciolo Collection](https://collectionbynp.com/products/lenore-lace-earrings): Discover the Lenore Lace Earrings from Percacciolo Collection.
   Updated: 2026-10-16T22:37:15Z
   Vendor: Percacciolo Collection
@@ -556,19 +556,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/Moonspell1.jpg?v=1792157884
   Price: $20.00 USD
-- [Envelope Clutch](https://collectionbynp.com/products/envelope-clutch): Add a distinctive finishing touch to your outfit with this beautifully handcrafted envelope clutch. Every clutch is individually handmade, fully lined with a pocket The classic envelope silhouette gives the clutch a timeless shape, while the combination of textured fabric, delicate lace, and soft fringe adds a distinctive bohemian inspired charm. Whether you're dressing up for a special occasion or adding an unexpected detail to your everyday style, this clutch is designed to make an impression. Thoughtful details make all the difference. Handmade from jacquard fabric: Beautiful texture and visual interest. Hand-stitched embellishments: White fringe pompoms and a floral lace accent add character and dimension. Fully lined interior: A finished interior for a polished look. Interior pocket: A convenient place for small essentials. Magnetic closure: Helps keep your belongings securely inside while allowing easy access. Envelope silhouette: A classic shape with a distinctive, decorative twist. A versatile accessory Pair it with a dress for a wedding or special event, style it with a relaxed bohemian outfit, or carry it as an accent piece when you want your accessories to do the talking. With its tactile fabrics and carefully applied details, this handmade envelope clutch is a lovely choice for anyone who appreciates artisan accessories, distinctive textiles, and individual craftsmanship. Please note: As each clutch is handmade, slight variations in the fabric pattern and decorative details may occur, adding to the individuality of each piece. Product details Style: Envelope clutch Main material: Jacquard fabric Lining: Fully lined Interior: One pocket Closure: Magnetic snap Embellishments: Hand-stitched white fringe pompoms and floral lace Construction: Handmade
-  Updated: 2026-10-17T07:34:29Z
-  Vendor: Percacciolo Collection
-  Product Type: Handbags
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0628/7995/7226/files/EnvelopeClutch1.jpg?v=1792178902
-  Price: $68.00 USD
-- [Lace Bandana](https://collectionbynp.com/products/lace-bandana)
-  Updated: 2026-10-16T22:59:32Z
-  Vendor: Percacciolo Collection
-  Product Type: 
-  Availability: Available
-  Price: $34.00 USD
 
 ## Collections
 
@@ -585,19 +572,19 @@
   Updated: 2026-05-06T19:58:00Z
   Total Products: 4
 - [Head Pieces](https://collectionbynp.com/collections/headbands): Discover the latest Headbands from Percacciolo Collection.
-  Updated: 2026-09-18T02:32:47Z
-  Total Products: 3
+  Updated: 2026-11-12T19:13:27Z
+  Total Products: 4
 - [Robes](https://collectionbynp.com/collections/robes): Discover the latest Robes from Percacciolo Collection.
   Updated: 2026-09-02T11:08:10Z
   Total Products: 3
 - [All Products](https://collectionbynp.com/collections/all-products): Discover the latest All Products from Percacciolo Collection.
-  Updated: 2026-10-21T11:08:36Z
-  Total Products: 54
+  Updated: 2026-11-13T10:41:09Z
+  Total Products: 53
 - [Bridal](https://collectionbynp.com/collections/bridal): Discover the latest Bridal from Percacciolo Collection.
   Updated: 2026-09-23T22:20:49Z
   Total Products: 24
 - [Handbags](https://collectionbynp.com/collections/handbags): Discover the latest Handbags from Percacciolo Collection.
-  Updated: 2026-10-21T11:08:36Z
+  Updated: 2026-11-13T10:41:09Z
   Total Products: 18
 - [Beanies](https://collectionbynp.com/collections/beanies): Discover the latest Beanies from Percacciolo Collection.
   Updated: 2026-10-18T11:10:04Z
@@ -606,8 +593,8 @@
   Updated: 2026-10-18T11:10:04Z
   Total Products: 20
 - [Darkwear Accessories](https://collectionbynp.com/collections/darkwear-accessories): Discover the latest Darkwear Accessories from Percacciolo Collection.
-  Updated: 2026-10-21T11:08:36Z
-  Total Products: 42
+  Updated: 2026-11-13T10:41:09Z
+  Total Products: 44
 - [Desert Veil Collection](https://collectionbynp.com/collections/desert-veil-collection): Discover the latest Desert Veil Collection from Percacciolo Collection.
   Updated: 2026-09-10T18:45:51Z
   Total Products: 3
