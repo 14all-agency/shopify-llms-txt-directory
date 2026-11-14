@@ -6,7 +6,7 @@
 - Timezone: Europe/Istanbul
 - Created At: 2026-06-10T10:24:28Z
 - Contact Email: info@koltuxs.com
-- Updated At: 2026-11-07T01:07:19.341Z
+- Updated At: 2026-11-14T01:12:40.482Z
 
 ## Products
 
@@ -459,7 +459,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/EkranResmi2026-08-1417.57.45.png?v=1786720118
   Price: ₺0,00 TRY
 - [Omairat Orta Sehpa 4022](https://koltuxs.com/products/omairat-orta-sehpa-4022): Omairat Orta Sehpa (Kod: 4022) Ürün Açıklaması Özgün üçgen formlu parçaları sayesinde bir araya geldiğinde şık bir bütün oluşturan, ayrı ayrı kullanıldığında ise fonksiyonellik sunan bu orta sehpa seti, yaşam alanınıza modern bir dokunuş katar. Doğal ahşap ayakları ve kullanışlı raf/bölme detaylarıyla hem estetik hem de uzun ömürlü bir kullanım deneyimi sağlar. Ürün Özellikleri Üçgen formlu, iç içe geçebilen modüler tasarım Doğal ahşap ve krem renk yüzey kombinasyonu Pratik kullanım sunan alt raf/bölme detayları Dayanıklı ahşap ayak yapısı Teknik Ölçüler ve Bilgiler Ürün Kodu: 4022 Ağırlık: 23 Kg Hacim: 0,095 $m^3$ Ölçü: G: 85 cm – Y: 45 cm – D: 85 cm
-  Updated: 2026-08-15T15:13:36Z
+  Updated: 2026-11-13T14:42:27Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1089,7 +1089,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2042.png?v=1787955918
   Price: ₺0,00 TRY
 - [ZUS 2043 Kafe-Restoran Sandalyesi](https://koltuxs.com/products/zus-2043-kafe-restoran-sandalyesi)
-  Updated: 2026-08-29T03:36:26Z
+  Updated: 2026-11-10T18:06:22Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1131,7 +1131,7 @@
   Image: https://cdn.shopify.com/s/files/1/0822/0973/4884/files/zus2049.png?v=1787956626
   Price: ₺0,00 TRY
 - [Mazzero M1001 Kafe-Restoran Sehpası](https://koltuxs.com/products/mazzer0-m1001-kafe-restoran-sehpasi)
-  Updated: 2026-08-29T14:20:33Z
+  Updated: 2026-11-11T14:53:06Z
   Vendor: Koltuxs
   Product Type: 
   Availability: Available
@@ -1188,7 +1188,7 @@
   Updated: 2026-11-06T12:22:16Z
   Total Products: 7
 - [Orta Sehpa](https://koltuxs.com/collections/orta-sehpasi)
-  Updated: 2026-08-15T10:49:00Z
+  Updated: 2026-11-07T12:20:39Z
   Total Products: 4
 - [Zigon Sehpa](https://koltuxs.com/collections/zigon-sehpa)
   Updated: 2026-10-17T11:34:23Z
@@ -1296,7 +1296,7 @@
   Updated: 2026-08-15T10:49:02Z
   Total Products: 0
 - [Kafe/Restoran Sehpa](https://koltuxs.com/collections/sehpalar)
-  Updated: 2026-09-21T11:22:09Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 5
 - [Tamamlayıcı Ürünler](https://koltuxs.com/collections/tamamlayici-urunler)
   Updated: 2026-08-15T10:49:02Z
@@ -1323,13 +1323,13 @@
   Updated: 2026-08-15T10:49:03Z
   Total Products: 0
 - [Kafe/Restoran](https://koltuxs.com/collections/kafe-restoran)
-  Updated: 2026-10-20T11:22:46Z
+  Updated: 2026-11-12T12:19:01Z
   Total Products: 61
 - [Düğün Paketi](https://koltuxs.com/collections/dugun-paketi)
   Updated: 2026-08-15T10:49:03Z
   Total Products: 1
 - [Kafe/Restoran Sandalye](https://koltuxs.com/collections/kafe-restoran-sandalye)
-  Updated: 2026-10-20T11:22:46Z
+  Updated: 2026-11-11T12:19:34Z
   Total Products: 57
 
 ## Store Pages
