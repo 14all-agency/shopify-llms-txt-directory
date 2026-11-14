@@ -6,26 +6,26 @@
 - Timezone: Europe/Amsterdam
 - Created At: 2025-12-04T08:40:28Z
 - Contact Email: info@yourcustomkeyboard.com
-- Updated At: 2026-11-07T00:19:49.292Z
+- Updated At: 2026-11-14T00:20:42.939Z
 
 ## Products
 
 - [gmk67 keyboard - Geavanceerd Mechanisch Toetsenbord voor Gamen & Typen](https://yourcustomkeyboard.com/products/gmk67-keyboard): Ervaar ongeëvenaarde prestaties met het GMK67 Keyboard! Dit geavanceerde mechanische toetsenbord is perfect voor gaming en typen, met aanpasbare functies en een stijlvolle uitstraling.
-  Updated: 2026-09-30T18:36:46Z
+  Updated: 2026-11-10T00:44:00Z
   Vendor: YourCustomKeyboard
   Product Type: keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Zonder_titel_1200_x_800_px_1.png?v=1780162658
   Price: € 60,00 EUR
 - [gmk 87 keyboard - RGB verlichting voor optimaal typcomfort en stijl](https://yourcustomkeyboard.com/products/gmk-87-keyboard): Ontdek de GMK 87 keyboard met RGB verlichting voor een unieke typervaring. Perfect voor gamers en schrijvers die stijl en functionaliteit willen combineren!
-  Updated: 2026-09-30T18:36:50Z
+  Updated: 2026-11-10T00:37:35Z
   Vendor: your custom keyboard
   Product Type: keyboard
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Zonder_titel_1200_x_800_px.png?v=1780161973
   Price: € 60,00 EUR
 - [Holy Panda Switches voor de Ultieme Typervaring - Ervaar het Verschil](https://yourcustomkeyboard.com/products/holy-panda-switches): Ervaar de ultieme typervaring met onze Holy Panda Switches. Perfect voor gamers en schrijvers. Verbeter je toetsenbord met deze populaire switches en typ sneller en nauwkeuriger!
-  Updated: 2026-10-02T05:48:41Z
+  Updated: 2026-11-10T22:37:14Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -40,7 +40,7 @@
     Availability: Available
     Price: € 19,00 EUR
 - [Gateron Oil King: Premium Mechanische Toetsels voor Perfect Typen](https://yourcustomkeyboard.com/products/gateron-oil-king): Ervaar de ultieme typervaring met de Gateron Oil King. Deze premium mechanische toetsen bieden superieure prestaties en comfort. Perfect voor gamers en schrijvers!
-  Updated: 2026-09-30T18:53:41Z
+  Updated: 2026-11-09T17:22:52Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -55,7 +55,7 @@
     Availability: Available
     Price: € 74,95 EUR
 - [Ktt Kang White V3 - Premium Switches voor een Betaalbare Prijs](https://yourcustomkeyboard.com/products/ktt-kang-white-v3): Ontdek de Ktt Kang White V3 - Premium kwaliteit switches voor een betaalbare prijs. Perfect voor gamers en typisten die prestaties en stijl waarderen. Bestel nu!
-  Updated: 2026-09-30T18:36:46Z
+  Updated: 2026-11-11T05:57:35Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -70,7 +70,7 @@
     Availability: Available
     Price: € 24,00 EUR
 - [Outemu Cream Pro schakelaars voor top prestaties in jouw toetsenbord](https://yourcustomkeyboard.com/products/outemu-cream-pro): Maximaliseer de prestaties van jouw toetsenbord met Outemu Cream Pro schakelaars. Ervaar ongeëvenaard comfort en responsiviteit. Upgrade vandaag nog voor optimale gaming!
-  Updated: 2026-10-02T08:57:32Z
+  Updated: 2026-11-10T00:43:31Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -85,7 +85,7 @@
     Availability: Available
     Price: € 29,95 EUR
 - [Gateron Milky Yellow Switches - Superieure Snelheid en Reactiviteit](https://yourcustomkeyboard.com/products/gateron-milky-yellow): Ervaar de ultieme typervaring met Gateron Milky Yellow Switches. Deze switches bieden een soepele actie en uitstekende respons. Upgrade je toetsenbord vandaag nog!
-  Updated: 2026-09-30T23:52:10Z
+  Updated: 2026-11-11T05:58:30Z
   Vendor: your custom keyboard
   Product Type: switch
   Availability: Available
@@ -100,28 +100,28 @@
     Availability: Available
     Price: € 27,95 EUR
 - [JSJT Inkt Lotus PBT Keycaps - Perfecte Upgrade voor Jouw Toetsenbord](https://yourcustomkeyboard.com/products/jsjt-inkt-lotus-pbt-keycaps): Meta description: Ontdek de JSJT inkt lotus PBT keycaps voor een unieke typervaring. Verbeter je toetsenbord met deze stijlvolle en duurzame keycaps. Perfect voor gamers en typisten!
-  Updated: 2026-09-30T18:36:50Z
+  Updated: 2026-11-12T02:20:55Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Schermafbeelding2025-12-18175515.png?v=1766076932
   Price: € 50,00 EUR
 - [JakeTsai flow keycaps - Unieke toetsen voor een verbeterd typ ervaring](https://yourcustomkeyboard.com/products/jaketsai-flow-keycaps): Ervaar de unieke stijl van JakeTsai flow keycaps. Perfect voor gamers en typisten die op zoek zijn naar comfort en esthetiek. Upgrade je toetsenbord vandaag nog!
-  Updated: 2026-09-30T18:36:47Z
+  Updated: 2026-11-12T06:45:35Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Schermafbeelding2025-12-18175127.png?v=1779374255
   Price: € 50,00 EUR
 - [Black & Gold Marble Keycaps - Luxe toetsenborden voor gamers](https://yourcustomkeyboard.com/products/black-gold-marble-keycaps): Ontdek onze unieke black & gold marble keycaps! Perfect voor gamers en typeliefhebbers die stijl en functionaliteit willen combineren. Upgrade je toetsenbord vandaag nog!
-  Updated: 2026-10-01T09:06:16Z
+  Updated: 2026-11-10T00:37:36Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/Schermafbeelding2025-12-18215552.png?v=1779374318
   Price: € 50,00 EUR
 - [Gradient Lined Keycaps - Verbeter de stijl van uw toetsenbord](https://yourcustomkeyboard.com/products/gradient-lined-keycaps): Ontdek onze gradient lined keycaps voor een unieke en stijlvolle uitstraling van je toetsenbord. Verander je typervaring met kleur en karakter. Koop nu!
-  Updated: 2026-10-03T19:09:46Z
+  Updated: 2026-11-12T02:19:55Z
   Vendor: your custom keyboard
   Product Type: keycap
   Availability: Available
@@ -136,14 +136,14 @@
     Availability: Not Available
     Price: € 25,00 EUR
 - [Pink love](https://yourcustomkeyboard.com/products/pink-love)
-  Updated: 2026-09-23T06:22:08Z
+  Updated: 2026-11-09T20:54:50Z
   Vendor: your custom keyboard
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/1017/7940/7187/files/FullSizeRender.jpg?v=1790101263
   Price: € 40,00 EUR
 - [Gold Black Marble Keyboard Set – 65% Compact GMK67 Bundel](https://yourcustomkeyboard.com/products/gold-black-marble-keyboard-set): Ontdek de Gold Black Marble Keyboard Set van Your Custom Keyboard. Luxe 65%-toetsenbord met goudaderring en unieke keycaps; 67 toetsen, losse pijltjestoetsen, compacte bureau-ruimte en stijlvolle, eigenzinnige look.
-  Updated: 2026-10-26T16:00:56Z
+  Updated: 2026-11-09T17:09:55Z
   Vendor: your custom keyboard
   Product Type: Bundel
   Availability: Available
@@ -382,6 +382,18 @@
     Updated: 2026-11-06T00:08:05Z
     Author: your custom keyboard
     Tags: best gaming ervaring, custom, custom keyboard, game setup, games, gaming, gaming setup, gaming toetsenbord, investeren in toetsenborden, mechanisch toetsenbord, toetsenbord, unieke toetsenborden
+  - [Verbeter Jouw Gaming Setup met een Custom Keyboard](https://yourcustomkeyboard.com/blogs/nieuws/verbeter-jouw-gaming-setup-met-een-custom-keyboard): Verbeter Jouw Gaming Setup met een Custom Keyboard
+    Updated: 2026-11-07T00:28:40Z
+    Author: your custom keyboard
+    Tags: aanpassen van gaming keyboards, custom keyboard, custom toetsenbord, games, gaming, gaming accessoire, gaming ervaring, gaming setup, mechanisch toetsenbord, setup, toetsenborden, unieke gaming toetsenborden
+  - [Mechanische Toetsenborden en Gaming: Essentials Voor Jouw Setup](https://yourcustomkeyboard.com/blogs/nieuws/mechanische-toetsenborden-en-gaming-essentials-voor-jouw-setup): Mechanische Toetsenborden en Gaming: Essentials Voor Jouw Setup
+    Updated: 2026-11-11T00:04:49Z
+    Author: your custom keyboard
+    Tags: beste gaming setup, custom keyboard, games, gaming, gaming accessoires, gaming setup, mechanisch toetsenbord, mechanische toetsenborden, setup, toetsenbord keuze, toetsenbord voor gamen, toetsenborden
+  - [Ervaar Hoogwaardig Gamingsucces met Een Custom Keyboard](https://yourcustomkeyboard.com/blogs/nieuws/ervaar-hoogwaardig-gamingsucces-met-een-custom-keyboard): Ervaar Hoogwaardig Gamingsucces met Een Custom Keyboard
+    Updated: 2026-11-13T00:08:34Z
+    Author: your custom keyboard
+    Tags: custom keyboard, custom toetsenbord, games, gaming, gaming setup, gaming setup tips, gaming toetsenbord, hoogwaardig gaming toetsenbord, mechanisch toetsenbord, setup, sleutel configuratie, toetsenborden
 
 ## Store Pages
 
