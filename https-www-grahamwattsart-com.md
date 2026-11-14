@@ -1,4 +1,6 @@
-# Graham Watts Art Store | Original Canadian Wildlife & Landscape Paintings (https://www.grahamwattsart.com)
+# Original Canadian Oil Paintings for  | Graham Watts Art  (https://www.grahamwattsart.com)
+
+> Shop original Canadian oil paintings and signed limited editions by Vancouver artist Graham Watts. Wildlife, Whistler, Vancouver and West Coast art with secure CAD checkout. 
 
 - Domain: https://www.grahamwattsart.com
 - Locale: en
@@ -7,8 +9,8 @@
 - Created At: 2026-03-17T20:45:18Z
 - Contact Email: art@grahamwatts.art
 - Contact Phone: (604) 200-0170
-- Address: 1704 Charles Street, Vancouver, BC 
-- Updated At: 2026-11-07T00:19:56.010Z
+- Address: 1704 Charles Street, Vancouver, BC V5L 2T6
+- Updated At: 2026-11-14T20:14:24.473Z
 
 ## Products
 
@@ -250,56 +252,56 @@
     Availability: Available
     Price: $599.00 CAD
 - [Holiday Greeting Cards: Santa Skis Whistler, BC](https://www.grahamwattsart.com/products/order-santa-skis-whistler-bc-fine-art-greeting-cards): Order Santa Skis Whistler, BC Holiday Greeting Cards to share holiday joy! Handcrafted, blank inside for your message. Special pricing available!
-  Updated: 2026-09-26T19:32:02Z
+  Updated: 2026-11-13T04:07:18Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-santa-skis-whistler-bc-fine-art-greeting-cards-6608377.jpg?v=1779917293
-  Price: $6.00 CAD
+  Price: $7.00 CAD
 - [Whistler Fine Art Greeting Cards | Graham Watts](https://www.grahamwattsart.com/products/special-whistler-bc-fine-art-greeting-cards): Set of 10 Whistler fine art greeting cards by Canadian artist Graham Watts for C$46. Blank inside with envelopes included.
-  Updated: 2026-09-26T19:31:48Z
+  Updated: 2026-11-13T04:08:30Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/special-whistler-bc-fine-art-greeting-cards-9542658.jpg?v=1779917301
-  Price: $46.00 CAD
+  Price: $59.00 CAD
 - [Grizzly Bear Cards Felix](https://www.grahamwattsart.com/products/order-felix-grizzly-bear-fine-art-greeting-cards): Fine art grizzly bear greeting cards by Graham Watts.
-  Updated: 2026-09-26T19:31:57Z
+  Updated: 2026-11-13T04:04:47Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-felix-grizzly-bear-fine-art-greeting-cards-1007863.jpg?v=1779917378
-  Price: $6.00 CAD
+  Price: $7.00 CAD
 - [Fine Art Greeting Cards"Black Tusk" Whistler, BC  - Artist](https://www.grahamwattsart.com/products/order-black-tusk-whistler-bc-fine-art-greeting-cards): Order "Black Tusk" Whistler, BC Fine Art Greeting Cards for just $6 each or 5 for $20. Perfect for personal messages and holiday greetings!
-  Updated: 2026-09-26T19:31:54Z
+  Updated: 2026-11-13T04:05:16Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-black-tusk-whistler-bc-fine-art-greeting-cards-9989651.jpg?v=1779917387
-  Price: $6.00 CAD
+  Price: $7.00 CAD
 - [Fine Art Greeting Cards: Snow Art. By artist Graham Watts](https://www.grahamwattsart.com/products/order-shot-gun-skiing-fine-art-greeting-cards): Order "SHOT GUN” Skiing Fine Art Greeting Cards to send love and holiday cheer. Available in affordable packs today!
-  Updated: 2026-09-26T19:32:23Z
+  Updated: 2026-11-13T04:05:45Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-shot-gun-skiing-fine-art-greeting-cards-2263248.jpg?v=1779917392
   Price: $7.00 CAD
 - [Art Greeting Cards "GRIZZ" Grizzly Bear - Local Artist](https://www.grahamwattsart.com/products/order-grizz-grizzly-bear-fine-art-greeting-cards): Order "GRIZZ" Grizzly Bear Fine Art Greeting Cards to spread love and cheer. Available individually or in packs for great value!
-  Updated: 2026-09-26T19:32:09Z
+  Updated: 2026-11-13T04:06:01Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-grizz-grizzly-bear-fine-art-greeting-cards-3520220.jpg?v=1779917396
-  Price: $6.00 CAD
+  Price: $7.00 CAD
 - [Order "TEDDY" Grizzly Bear Fine Art Greeting Cards - Artist Graham](https://www.grahamwattsart.com/products/order-teddy-grizzly-bear-fine-art-greeting-cards): Order "TEDDY" Grizzly Bear Fine Art Greeting Cards today for heartfelt notes and holiday cheer! Available individually or in a set.
-  Updated: 2026-09-26T19:32:03Z
+  Updated: 2026-11-13T04:06:31Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0991/0412/9317/files/order-teddy-grizzly-bear-fine-art-greeting-cards-3918418.jpg?v=1779917400
-  Price: $6.00 CAD
+  Price: $7.00 CAD
 - [Art Greeting Cards Polar Bear original art](https://www.grahamwattsart.com/products/order-polar-bear-fine-art-greeting-cards): Order Polar Bear Fine Art Greeting Cards today! Perfect for spreading love and cheer, these cards are blank inside for your personal message.
-  Updated: 2026-09-26T22:06:08Z
+  Updated: 2026-11-13T04:06:52Z
   Vendor: Graham Watts Art
   Product Type: Greeting Card
   Availability: Available
@@ -494,10 +496,10 @@
   Updated: 2026-11-06T17:12:53Z
   Total Products: 9
 - [Limited Edition Canvas Prints](https://www.grahamwattsart.com/collections/fine-art-limited-editions): Shop limited edition canvas prints by Canadian artist Graham Watts, featuring wildlife art, Whistler mountains, Vancouver cityscapes, and BC landscapes.
-  Updated: 2026-11-06T17:12:53Z
-  Total Products: 16
+  Updated: 2026-11-13T12:21:09Z
+  Total Products: 17
 - [Buy Fine Art Cards by Graham Watts](https://www.grahamwattsart.com/collections/buy-fine-art-cards): Buy Fine Art Cards by Canadian artist Graham Watts, featuring colourful wildlife, mountain, Vancouver, and Whistler artwork.
-  Updated: 2026-11-06T17:12:54Z
+  Updated: 2026-11-12T16:08:47Z
   Total Products: 9
 - [Original Canadian Oil Paintings](https://www.grahamwattsart.com/collections/buy-original-art): Shop original Canadian oil paintings by Graham Watts, featuring wildlife, Whistler mountains, Vancouver scenes and bold West Coast landscapes.
   Updated: 2026-11-06T17:12:54Z
@@ -505,11 +507,11 @@
 - [Custom Oil Painting Commissions by Graham Watts](https://www.grahamwattsart.com/collections/fine-art-commissions):  a custom oil painting from Vancouver artist Graham Watts. Wildlife, Whistler, Vancouver and landscape art created personally for your space.
   Updated: 2026-11-06T17:12:54Z
   Total Products: 9
-- [Canadian Wildlife Art](https://www.grahamwattsart.com/collections/canadian-wildlife-art): Shop Canadian wildlife paintings and prints by Graham Watts, including original grizzly bear, wolf and eagle art inspired by Western Canada.
-  Updated: 2026-11-06T17:12:54Z
-  Total Products: 45
+- [Canadian Wildlife Art & Original Paintings](https://www.grahamwattsart.com/collections/canadian-wildlife-art): Shop original Canadian wildlife paintings and limited edition prints of grizzly bears, wolves and eagles by Vancouver oil painter Graham Watts. Ships across Canada.
+  Updated: 2026-11-13T12:21:09Z
+  Total Products: 46
 - [Whistler Mountain Art & Prints](https://www.grahamwattsart.com/collections/whistler-mountain-art-prints): Shop Whistler mountain art and prints by Graham Watts, including Black Tusk, Fissile Peak, ski art, and Sea-to-Sky landscape paintings.
-  Updated: 2026-11-06T17:12:54Z
+  Updated: 2026-11-12T16:08:47Z
   Total Products: 46
 - [Vancouver Cityscape Paintings](https://www.grahamwattsart.com/collections/vancouver-cityscape-paintings): Shop Vancouver Cityscape Paintings by Canadian artist Graham Watts, including original oil paintings inspired by Vancouver skyline views and urban life.
   Updated: 2026-11-06T17:12:54Z
@@ -518,8 +520,8 @@
   Updated: 2026-11-06T17:12:54Z
   Total Products: 43
 - [Grizzly Bear Paintings & Prints](https://www.grahamwattsart.com/collections/grizzly-bear-paintings-prints): Shop grizzly bear paintings and signed limited-edition prints by Canadian wildlife artist Graham Watts. Original art in CAD with shipping available.
-  Updated: 2026-11-06T17:12:54Z
-  Total Products: 26
+  Updated: 2026-11-13T12:21:09Z
+  Total Products: 27
 - [Shop All Travel Posters](https://www.grahamwattsart.com/collections/whistler-travel-posters): Shop Whistler travel posters and framed prints featuring Black Tusk, Blackcomb and Fissile Peak, based on original artwork by Canadian artist Graham Watts.
   Updated: 2026-11-06T17:12:54Z
   Total Products: 16
@@ -533,25 +535,25 @@
   Updated: 2026-10-03T21:56:27Z
   Total Products: 13
 - [Whistler](https://www.grahamwattsart.com/collections/whistler): Shop Whistler mountain art and prints by Graham Watts, including Black Tusk, Fissile Peak, ski art, and Sea-to-Sky landscape paintings.
-  Updated: 2026-10-04T16:51:58Z
+  Updated: 2026-11-12T16:08:47Z
   Total Products: 46
 - [Vancouver](https://www.grahamwattsart.com/collections/vancouver): Shop Vancouver Cityscape Paintings by Canadian artist Graham Watts, including original oil paintings inspired by Vancouver skyline views and urban life.
   Updated: 2026-10-04T16:54:17Z
   Total Products: 22
 - [Wildlife](https://www.grahamwattsart.com/collections/wildlife): Shop Canadian wildlife paintings and prints by Graham Watts, including original grizzly bear, wolf and eagle art inspired by Western Canada.
-  Updated: 2026-10-04T16:56:07Z
-  Total Products: 45
+  Updated: 2026-11-13T12:21:09Z
+  Total Products: 46
 - [Travel Posters](https://www.grahamwattsart.com/collections/travel-posters): Shop Whistler travel posters and framed prints featuring Black Tusk, Blackcomb and Fissile Peak, based on original artwork by Canadian artist Graham Watts.
   Updated: 2026-10-04T16:46:09Z
   Total Products: 16
 - [Limited Editions](https://www.grahamwattsart.com/collections/limited-editions): Shop limited edition canvas prints by Canadian artist Graham Watts, featuring wildlife art, Whistler mountains, Vancouver cityscapes, and BC landscapes.
-  Updated: 2026-10-04T16:55:00Z
-  Total Products: 16
+  Updated: 2026-11-13T12:21:09Z
+  Total Products: 17
 - [Art Commissions](https://www.grahamwattsart.com/collections/art-commissions):  a custom oil painting from Vancouver artist Graham Watts. Wildlife, Whistler, Vancouver and landscape art created personally for your space.
   Updated: 2026-10-04T16:59:49Z
   Total Products: 9
 - [Fine Art Cards](https://www.grahamwattsart.com/collections/fine-art-cards): Buy Fine Art Cards by Canadian artist Graham Watts, featuring colourful wildlife, mountain, Vancouver, and Whistler artwork.
-  Updated: 2026-10-04T17:00:56Z
+  Updated: 2026-11-12T16:08:47Z
   Total Products: 9
 - [Collected Works](https://www.grahamwattsart.com/collections/collected-works): A selection of original oil paintings by Canadian artist Graham Watts that have been acquired by collectors. Each work is one-of-a-kind and is shown here as part of the artist’s collected archive.These paintings are no longer available, but many can serve as inspiration for a new original . If a particular subject, location, mood or composition speaks to you, explore current available originals or contact Graham about creating a one-of-a-kind painting.Previously collected. Never reproduced as another original.
   Updated: 2026-11-06T17:12:54Z
