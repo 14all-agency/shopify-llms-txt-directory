@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2025-03-26T00:24:38Z
 - Contact Email: joeadecants@gmail.com
-- Updated At: 2026-11-07T00:37:53.677Z
+- Updated At: 2026-11-14T00:37:57.704Z
 
 Joe A.’s Decants
 [!IMPORTANT]
@@ -2970,6 +2970,13 @@ This document provides a structured overview of our offerings, brand standards, 
   - [10ML](https://joeasdecants.com/products/vanilla-oud-1?variant=62654682530163)
     Availability: Not Available
     Price: $39.00 USD
+- [Vanilla Is My Love Language](https://joeasdecants.com/products/vanilla-is-my-love-language): Top Notes: Rum, Italian Lemon, Mango Mid Notes: Sesame, Plumeria, Rose de Mai, Milk, Davana Base Notes: Bourbon Vanilla, Madagascar Vanilla, Tonka Bean, Siam Benzoin, Peru Balsam
+  Updated: 2026-11-10T16:25:36Z
+  Vendor: Aromas de Salazar
+  Product Type: Vanilla Is My Love Language
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8307.heic?v=1771702897
+  Price: $35.00 USD
 - [Valentino Uomo](https://joeasdecants.com/products/valentino-uomo): Top Notes: Bergamot, Myrtle Mid Notes: Hazelnut, Chocolate, Roasted Coffee Beans Base Notes: Leather, Cedar
   Updated: 2026-09-13T16:01:23Z
   Vendor: Valentino
@@ -2986,7 +2993,7 @@ This document provides a structured overview of our offerings, brand standards, 
     Availability: Not Available
     Price: $27.00 USD
 - [L'Instant pour Homme EDP](https://joeasdecants.com/products/linstant-pour-homme-edp): Top Notes: Star Anise, Bergamot, Elemi, Lemon, Pepper Mid Notes: Cacao Pod, Sandalwood, Smoke, Tea, Jasmine Base Notes: Patchouli
-  Updated: 2026-10-23T19:22:35Z
+  Updated: 2026-11-07T21:10:56Z
   Vendor: Guerlain
   Product Type: L'Instant pour Homme EDP
   Availability: Available
@@ -3227,14 +3234,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8538.heic?v=1772919706
   Price: $25.00 USD
-- [Spring 2026 Starter Collection](https://joeasdecants.com/products/spring-2026-starter-collection-kit): Hey guys, Joe A. here with another one for ya'! Spring is that interesting transition season. Winter is fading out, the air starts warming up, but it’s not quite summer yet. That means fragrances that are too heavy can feel cloying, while fragrances that are too light might disappear before lunchtime. What you want is balance. This $100 Spring Starter Collection for 2026 is built around four roles every guy runs into as the weather warms up: a versatile everyday scent, a relaxed casual fragrance, something safe for the office and one that steps it up a notch for date nights or evening occasions. This kit comes with 4 fragrances. Each fragrances comes in a 5ml bottle. The authentic bottles and the 5ml decant bottles are shown in the photo.
-  Updated: 2026-09-13T16:01:56Z
-  Vendor: Joe A.'s Decants
-  Product Type: Spring 2026 Starter Collection Kit
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0915/2761/0739/files/IMG_8539.heic?v=1772919705
-  Price: $20.00 USD
-[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMwODI5ODcxNTUwNywibGFzdF92YWx1ZSI6IjE1MzA4Mjk4NzE1NTA3In0%3D)
+[List Continued](https://joeasdecants.com/a/llms-agent/llms.txt?shop=y1hk1w-y1.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMwODI5ODQyMDU5NSwibGFzdF92YWx1ZSI6IjE1MzA4Mjk4NDIwNTk1In0%3D)
 
 ## Collections
 
@@ -3254,7 +3254,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-10-29T11:14:13Z
   Total Products: 59
 - [All Products](https://joeasdecants.com/collections/catalog): All of Joe A.'s Products.
-  Updated: 2026-10-31T11:12:37Z
+  Updated: 2026-11-13T12:16:26Z
   Total Products: 2266
 - [The Adventurer](https://joeasdecants.com/collections/the-adventurer)
   Updated: 2026-10-31T11:12:37Z
@@ -3263,7 +3263,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-08-21T11:18:00Z
   Total Products: 10
 - [The Maverick](https://joeasdecants.com/collections/the-maverick)
-  Updated: 2026-10-31T11:12:37Z
+  Updated: 2026-11-10T16:16:37Z
   Total Products: 108
 - [The Minimalist](https://joeasdecants.com/collections/the-minimalist)
   Updated: 2026-10-29T10:45:35Z
@@ -3281,7 +3281,7 @@ This document provides a structured overview of our offerings, brand standards, 
   Updated: 2026-10-27T22:17:22Z
   Total Products: 32
 - [Fragrance Wars - The Gourmand Wars](https://joeasdecants.com/collections/fragrance-wars-the-gourmand-wars): Hey guys, Joe A. here with another one for ya'! We’ve battled tobacco. We’ve waged war in barbershops. We crowned a Booze Wars champion. Now it’s time for something sweeter… and far more dangerous!! Welcome to The Gourmand Wars: Vanilla vs Chocolate. Not fruit. Not woods. Not freshies. This is dessert ... at war !!! --- TEAM VANILLA Vanilla is comfort. Vanilla is seduction. Vanilla is warmth in the cold and confidence in the dark. But don’t mistake softness for weakness. On the Designer side, we’ve got power vanillas: spicy, tobacco-laced, amber-charged heavy hitters like Tom Ford Tobacco Vanille, Mercedes-Benz Club Black, and Giorgio Armani Stronger With You Intensely just to name a few... On the Niche side? Creamy, resinous, sensual masterpieces like Parfums de Marly Althair, Giardini di Toscana Bianco Latte, and Initio Parfums Privés Absolute Aphrodisiac just to name a few... Vanilla isn’t plain. Vanilla is versatile. Vanilla is a . --- TEAM CHOCOLATE Chocolate is darker. Richer. More indulgent. In the Designer division, we explore how houses interpret cacao, from nutty elegance in Valentino Uomo, to airy cacao in Jo Malone London Blue Agava & Cacao, to sweet musk comfort in Al-Rehab Choco Musk EDP, just to reveal a few contenders... But the Niche side? That’s where the gloves come off. We’re talking unapologetic chocolate domination: syrupy bombs like Montale Chocolate Greedy, bitter cacao like Akro Dark, boozy indulgence like By Kilian Black Phantom, and frosting-thick sweetness from Mancera Choco Violette just to name a few... This isn’t subtle. This is decadence done right! --- THE FORMAT 32 fragrances. 4 brackets. Designer vs Designer. Niche vs Niche. Single elimination. No mercy. No second chances. No “but it’s good for layering.” Only one note family walks away with the crown. I'LL BE ANNOUNCING THE BRACKETS IN FOLLOW UP POSTS! --- THE QUESTION Are you Team Vanilla: warmth, seduction, smooth confidence? Or are you Team Chocolate: indulgence, depth, unapologetic richness? This Valentine’s season, we’re not choosing roses. We’re choosing dessert. And only one will reign supreme. Brothers…The Gourmand Wars officially begin.
-  Updated: 2026-10-27T22:17:22Z
+  Updated: 2026-11-10T16:16:37Z
   Total Products: 32
 - [Gourmand Wars Sample Kits](https://joeasdecants.com/collections/gourmand-wars-sample-kits)
   Updated: 2026-07-08T20:26:46Z
