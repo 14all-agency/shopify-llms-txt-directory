@@ -6,14 +6,14 @@
 - Timezone: Europe/Istanbul
 - Created At: 2023-10-09T12:08:55Z
 - Contact Email: flavours@juicyolive.com
-- Updated At: 2026-11-07T00:30:31.404Z
+- Updated At: 2026-11-14T00:32:23.661Z
 
 Boost your health with our high polyphenol, cold pressed extra virgin olive oil. Lab-tested for purity and flavor. Shop our premium collection today!
 
 ## Products
 
 - [Organic Cold-Pressed Extra Virgin Olive Oil, Relish & Smooth | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-relish-smooth):  organic early-harvest extra virgin olive oil from Troy. Lab- 440 mg/kg polyphenols, cold-pressed with gentle, silky, rounded notes.
-  Updated: 2026-10-30T21:01:06Z
+  Updated: 2026-11-10T08:38:34Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -91,7 +91,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/RS-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $298.35 USD
 - [Organic Cold-Pressed Extra Virgin Olive Oil, Mild & Flavorous | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-mild-flavorous):  organic early-harvest extra virgin olive oil from Troy. Lab- 620 mg/kg polyphenols, cold-pressed with fresh, balanced herbaceous notes.
-  Updated: 2026-10-30T21:01:51Z
+  Updated: 2026-11-10T08:40:31Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -169,7 +169,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
     Image: https://cdn.shopify.com/s/files/1/0554/2277/9478/files/MF-TIN_2_-TRIOS-PERSPECTIVE-OL_-_01_-_02.webp?v=1786015741
     Price: $331.50 USD
 - [Organic Cold-Pressed Extra Virgin Olive Oil, Fruity & Full-Bodied | Juicy Olive](https://juicyolive.com/products/organic-early-harvest-extra-virgin-olive-oil-fruity-full-bodied):  organic early August EVOO. 840 mg/kg polyphenols, ≤0.20% FFA. Bold, peppery oleocanthal finish. Cold pressed <22°C within 2 hours. Fast US shipping.
-  Updated: 2026-10-30T20:59:47Z
+  Updated: 2026-11-10T08:40:51Z
   Vendor: Juicy Olive Squeezed
   Product Type: Standard Items
   Availability: Available
@@ -256,7 +256,7 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-11-04T07:13:21Z
   Total Products: 74
 - [Main Products](https://juicyolive.com/collections/main-products): Shop single-estate organic extra virgin olive oils from Turkey. Lab-tested up to 840 mg/kg polyphenols across 3 profiles: Fruity, Mild, and Smooth. Free shipping.
-  Updated: 2026-11-04T07:13:23Z
+  Updated: 2026-11-10T09:26:16Z
   Total Products: 18
 
 ## Blogs
@@ -323,9 +323,9 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   - [Low Acidity Olive Oil: What the Free Acidity Numbers Mean](https://juicyolive.com/blogs/article/low-acidity-olive-oil-guide): <p><meta charset="utf-8">Learn what low acidity means in extra virgin olive oil, how free fatty acids are measured, and why lower values can reflect healthy fruit, careful handling and rapid pressing. This guide also explains key quality markers such as peroxide value and polyphenols, with real Juicy Olive harvest data for context.</p>
     Updated: 2026-11-02T11:19:31Z
     Author: Hessam Mousavi
-  - [How to Choose Premium High-Polyphenol EVOO: What Separates Quality Tiers](https://juicyolive.com/blogs/article/how-to-choose-high-polyphenol-olive-oil-guide): <p><meta charset="utf-8"><span>A buyer's checklist for high-polyphenol extra virgin olive oil: lab results, free acidity, harvest date, processing and certification, with our own results as a worked example.</span></p>
-    Updated: 2026-11-04T08:04:42Z
-    Author: Hessam Mousavi
+  - [Buy High-Polyphenol Olive Oil: 5 Things to Check First](https://juicyolive.com/blogs/article/how-to-choose-high-polyphenol-olive-oil-guide): Buy High-Polyphenol Olive Oil: 5 Things to Check First
+    Updated: 2026-11-08T14:37:36Z
+    Author: Houman Hosseini
   - [Turkish Olive Oil: Regions, Cultivars & How to Choose](https://juicyolive.com/blogs/article/turkish-olive-oil-regions-cultivars-and-how-to-choose): <p><meta charset="utf-8">Discover the diversity of Turkish olive oil—from Northern Aegean cultivars and historic growing regions to the harvest, acidity, and laboratory details that reveal true quality.</p>
     Updated: 2026-10-19T06:30:41Z
     Author: Hessam Mousavi
@@ -401,13 +401,15 @@ Boost your health with our high polyphenol, cold pressed extra virgin olive oil.
   Updated: 2026-10-07T09:43:28Z
 - [High-Polyphenol Olive Oil USA: Buy Online](https://juicyolive.com/pages/buy-high-polyphenol-olive-oil-usa): .jo-us-page { max-width: 1080px; margin: 0 auto; padding: 0 20px 60px 20px; color: #242b26; line-height: 1.8; box-sizing: border-box; } .jo-header-...
   Updated: 2026-10-15T05:38:05Z
+- [Private Label Extra Virgin Olive Oil | Organic, Türkiye | Juicy Olive](https://juicyolive.com/pages/private-label-extra-virgin-olive-oil): Juicy Olive produces  organic, single-estate, early harvest extra virgin olive oil in the Troy region of Türkiye. Besides our own bottles,...
+  Updated: 2026-11-10T08:50:32Z
 
 ## Policies
 
 - [Privacy Policy](https://juicyolive.com/policies/privacy-policy)
   Updated: 2023-11-04T08:58:40Z
 - [Shipping Policy](https://juicyolive.com/policies/shipping-policy)
-  Updated: 2026-08-07T09:21:11Z
+  Updated: 2026-11-10T07:04:20Z
 - [Refund Policy](https://juicyolive.com/policies/refund-policy)
   Updated: 2026-07-14T09:26:37Z
 - [Terms of Service](https://juicyolive.com/policies/terms-of-service)
