@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2025-03-17T20:12:10Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:08:14.670Z
+- Updated At: 2026-11-14T01:09:32.935Z
 
 ## Products
 
@@ -220,7 +220,7 @@ your agent can transact everywhere.
     Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/162492_6_299163_d.png?v=1744062597
     Price: $30.00 USD
 - [Titles Tee](https://us.hzlivestore.com/products/titles-t-shirt-black-zim): 100% cotton tee in Black
-  Updated: 2026-10-27T15:24:06Z
+  Updated: 2026-11-08T15:55:46Z
   Vendor: Hans Zimmer Live
   Product Type: T-Shirt
   Availability: Available
@@ -232,7 +232,7 @@ your agent can transact everywhere.
     Availability: Available
     Price: $30.00 USD
   - [Large](https://us.hzlivestore.com/products/titles-t-shirt-black-zim?variant=41658360529030)
-    Availability: Available
+    Availability: Not Available
     Price: $30.00 USD
   - [X-Large](https://us.hzlivestore.com/products/titles-t-shirt-black-zim?variant=41876010827910)
     Availability: Not Available
@@ -275,7 +275,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/HANSPOSTER.png?v=1742418905
   Price: $15.00 USD
 - [Live Audience Poster](https://us.hzlivestore.com/products/live-audience-poster-zim): 11x17" poster
-  Updated: 2026-10-12T14:58:27Z
+  Updated: 2026-11-09T09:06:25Z
   Vendor: Hans Zimmer Live
   Product Type: Poster
   Availability: Available
@@ -289,7 +289,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/INTERSTELLAMUG.png?v=1742418914
   Price: $15.00 USD
 - [Logo Trucker Hat](https://us.hzlivestore.com/products/logo-trucker-hat-black-zim): Mid-profile, mesh-back trucker hat in Black
-  Updated: 2026-10-12T14:58:27Z
+  Updated: 2026-11-08T15:55:40Z
   Vendor: Hans Zimmer Live
   Product Type: Hat
   Availability: Available
@@ -303,7 +303,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/BEANIE.png?v=1742418937
   Price: $30.00 USD
 - [Bottle Opener Keychain](https://us.hzlivestore.com/products/keychainbottle-opener-silver-zim): Silver-colored keychain with guitar pick design. Doubles as a bottle opener!
-  Updated: 2026-10-12T14:53:55Z
+  Updated: 2026-11-09T09:06:20Z
   Vendor: Hans Zimmer Live
   Product Type: Keychain
   Availability: Available
@@ -317,7 +317,7 @@ your agent can transact everywhere.
   Image: https://cdn.shopify.com/s/files/1/0606/9236/5446/files/KOOZIE.png?v=1742418954
   Price: $4.00 USD
 - [Logo Tote Bag](https://us.hzlivestore.com/products/logo-tote-bag-black-zim): 100% cotton tote bag in Black
-  Updated: 2026-10-30T04:54:43Z
+  Updated: 2026-11-08T15:55:46Z
   Vendor: Hans Zimmer Live
   Product Type: Tote
   Availability: Available
@@ -459,16 +459,16 @@ your agent can transact everywhere.
 ## Collections
 
 - [Home page](https://us.hzlivestore.com/collections/frontpage)
-  Updated: 2026-10-30T11:18:53Z
+  Updated: 2026-11-09T12:20:12Z
   Total Products: 29
 - [HZL Apparel](https://us.hzlivestore.com/collections/apparel)
-  Updated: 2026-10-30T11:18:53Z
+  Updated: 2026-11-09T12:20:12Z
   Total Products: 5
 - [HZL Accessories](https://us.hzlivestore.com/collections/accessories)
-  Updated: 2026-10-30T11:18:53Z
+  Updated: 2026-11-09T12:20:12Z
   Total Products: 13
 - [All HZL Merch](https://us.hzlivestore.com/collections/all)
-  Updated: 2026-10-30T11:18:53Z
+  Updated: 2026-11-09T12:20:12Z
   Total Products: 18
 - [WOHZ Apparel](https://us.hzlivestore.com/collections/wohz-apparel)
   Updated: 2026-10-13T11:20:05Z
