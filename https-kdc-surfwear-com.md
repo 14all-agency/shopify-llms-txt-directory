@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-02-17T08:15:22Z
 - Contact Email: contact@kdc-surfwear.com
-- Updated At: 2026-11-06T00:23:14.206Z
+- Updated At: 2026-11-14T00:19:39.694Z
 
 ## Products
 
@@ -65,7 +65,7 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/bas-Bikini-surf-KDC_8f8fb788-2c8b-4b62-8ef7-342183381ff7.jpg?v=1771399859
     Price: 15,71 € EUR
 - [Poncho surf 100 % coton terry – BIGOU | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-bigou): Poncho surf 100% coton terry double face. Capuche large, ouvertures latérales pour se changer. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-10-29T15:53:42Z
+  Updated: 2026-11-13T20:07:12Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
@@ -1105,17 +1105,29 @@
     Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Short_Chill_KDC_3.png?v=1775030744
     Price: 39,00 € EUR
 - [Poncho surf 100 % coton – PASTEK | KDC Surfwear](https://kdc-surfwear.com/products/poncho-surf-coton-pastek): Poncho surf 100% coton terry double face. Capuche large contrastée, ouvertures latérales. Idéal surf, kitesurf, plage. Taille unique adulte. KDC Surfwear.
-  Updated: 2026-11-01T11:45:21Z
+  Updated: 2026-11-13T20:07:16Z
   Vendor: KDC-Surfwear
   Product Type: Poncho
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/Poncho_Surf_Pastek_KDC_9.png?v=1775640422
   Price: 49,00 € EUR
+- [Gourde KDC](https://kdc-surfwear.com/products/gourde-kdc): Thermos en acier inox de 470 ml de capacité avec base en liège. Avec double paroi pour une meilleure et plus longue conservation de la température. Infuseur inclus et système d'ouverture facile à fileter. CARACTÉRISTIQUES Capacité : 470 ml Dimensions : 24,7 cm Poids : 288 g
+  Updated: 2026-11-12T00:15:51Z
+  Vendor: KDC Surfwear
+  Product Type: Gourde
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0995/9984/3675/files/gourde_KDC_bdfecb02-f7b0-4bfe-94f2-82ebc500f9f3.jpg?v=1794399306
+  - [Bleu marine](https://kdc-surfwear.com/products/gourde-kdc?variant=55032262525275)
+    Availability: Available
+    Price: 24,00 € EUR
+  - [Noir](https://kdc-surfwear.com/products/gourde-kdc?variant=55032466276699)
+    Availability: Available
+    Price: 24,00 € EUR
 
 ## Collections
 
 - [Line-up](https://kdc-surfwear.com/collections/line-up): Collection au line-up
-  Updated: 2026-11-01T12:24:10Z
+  Updated: 2026-11-13T12:27:33Z
   Total Products: 12
 - [Accessoires](https://kdc-surfwear.com/collections/accessoires): Accessoires Poncho / Mug / Casquettes / Stickers
   Updated: 2026-09-06T11:20:55Z
@@ -1142,7 +1154,7 @@
   Updated: 2026-07-21T11:27:46Z
   Total Products: 11
 - [Ponchos Surf](https://kdc-surfwear.com/collections/poncho-serviette): Poncho de surf pour se changer facilement et rester au chaud après la session.100% coton 380 gsm certifié OEKO-TEX®
-  Updated: 2026-11-01T12:24:10Z
+  Updated: 2026-11-13T12:27:33Z
   Total Products: 2
 - [Hoodies](https://kdc-surfwear.com/collections/hoodies): Imprimé en France
   Updated: 2026-06-20T11:24:07Z
@@ -1196,11 +1208,14 @@
   Updated: 2026-11-01T12:24:10Z
   Total Products: 21
 - [Accessoires &amp; Lifestyle – Smart](https://kdc-surfwear.com/collections/accessoires-amp-lifestyle-smart)
-  Updated: 2026-11-01T12:24:10Z
+  Updated: 2026-11-13T12:27:33Z
   Total Products: 12
 - [Bikinis, leggings, brassières, maillots en matières recyclées](https://kdc-surfwear.com/collections/bikinis-leggings-brassieres-maillots-en-matieres-recyclees): Fabriqués à partir d'un nylon de haute qualité fabriqué entièrement à partir de déchets ramassés dans les océans (principalement des «filets fantômes» et tapis abandonnés). Ils sont triés et lavés, broyés, fondus puis transformés en fibre et tissés. La fabrication de cette fibre réduit de 80% les émissions de gaz à effet de serre par rapport à la production d’un fil de nylon standard. Elle n’utilise pas de matière fossile non renouvelable et est 100% recyclable à vie.
   Updated: 2026-09-07T11:23:15Z
   Total Products: 19
+- [Gourde](https://kdc-surfwear.com/collections/gourde): Thermos en acier inox de 470 ml avec double paroi, infuseur et base en liège
+  Updated: 2026-11-11T12:34:38Z
+  Total Products: 1
 
 ## Blogs
 
