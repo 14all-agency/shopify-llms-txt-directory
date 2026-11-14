@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2023-12-09T13:41:33Z
 - Contact Email: info@folkmarketgems.com
-- Updated At: 2026-11-07T01:03:34.597Z
+- Updated At: 2026-11-14T01:18:39.286Z
 
 ## Products
 
@@ -502,20 +502,20 @@
   Updated: 2026-08-27T00:18:13Z
   Total Products: 32
 - [Raw Gemstones For Lapidary, Faceting | Uncut Rough Materials Directly from Mine](https://www.folkmarketgems.com/collections/rough-gemstones-wholesale): Ethically sourced rough gemstones for cutters. Raw material available for faceting, cabbing, carving, and for collecting being ethically sourced directly from mine. Untreated raw material  for cutters, collectors, and gemstone businesses worldwide.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 693
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 696
 - [List of Gemstones of Pakistan | Pakistan Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-of-pakistan-pakistan-gemstones-and-minerals): Explore wide variety of rare gemstones, minerals and crystals from Pakistan. High-quality stones with unique properties. Perfect for collectors and jewelry enthusiasts.
-  Updated: 2026-11-06T16:20:25Z
-  Total Products: 601
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 604
 - [Emeralds](https://www.folkmarketgems.com/collections/emerald-gemstones): Shop 100% natural emeralds: Swat, Panjshir, Chitral plus selected Zambian & Colombian. Rough for faceting, crystals, specimens, loose cut stones & wholesale parcels. Transparent grading and  disclosure.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 225
+  Updated: 2026-11-10T11:59:14Z
+  Total Products: 226
 - [Ruby](https://www.folkmarketgems.com/collections/ruby-gemstones): Shop natural ruby gemstones including raw crystals and  loose stones. Discover authentic ruby stone pricing, origins, grading, and buying guide for collectors and jewelry buyers.
-  Updated: 2026-10-18T14:26:54Z
-  Total Products: 87
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 89
 - [Pakistan Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/list-of-gemstones-in-pakistan): Buy with Folkmarket Gems Rare Gemstones and minerals from Pakistan i.e. aquamarine, peridot, zircons, demontoid, rubies, Swat Emeralds, Katlang Topaz, Kashmir Sapphires, axinite etc
-  Updated: 2026-11-06T16:20:25Z
-  Total Products: 603
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 606
 - [Hackmanite Minerals](https://www.folkmarketgems.com/collections/buy-hackmanite-stone-rare-hackmanite-fluorescent-mineral): Explore rare fluorescent Hackmanite raw stones at FolkmarketGems. Hackmanite, a unique variant of sodalite, will be unique touch to your gemstone collections. Browse online at FolkmarketGems multiple deals on uncut Hackmanite stone for your faceting / lapidary work or loose hackmantie stones for jewelry designs.
   Updated: 2026-08-11T20:23:22Z
   Total Products: 16
@@ -532,20 +532,20 @@
   Updated: 2026-11-04T17:39:27Z
   Total Products: 209
 - [Facet Rough | Cutting-Grade Gems Parcels - Gem Grade Lots](https://www.folkmarketgems.com/collections/facet-rough-gemstones-for-): Facet rough sourced direct from our own mines — emeralds, sapphires, rubies, rare Katlang topaz & more. Single stones to wholesale parcels, VVS to included clarity
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 465
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 467
 - [Lapidary Rough](https://www.folkmarketgems.com/collections/lapidary-rough-stone): Browse lapidary rough stones ideal for cabbing, carving, and tumbling. Natural rough material available in small lots and bulk quantities.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 313
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 316
 - [Peridots](https://www.folkmarketgems.com/collections/peridots-gemstones): Shop natural peridot gemstones including raw crystals and faceted stones. Discover vibrant green peridot varieties with pricing details and buying insights.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 114
+  Updated: 2026-11-11T13:59:39Z
+  Total Products: 116
 - [Black Tourmaline Crystals](https://www.folkmarketgems.com/collections/buy-black-tourmaline-crystals): Black tourmaline crystals are linked with the root chakra. The Chakra controls stability, security in us, and the basic needs of all organs and body parts near the base of the spine. Black Tourmaline is associated with the Earth Star Chakra.
   Updated: 2026-11-04T10:01:55Z
   Total Products: 48
 - [Fine Mineral Specimens](https://www.folkmarketgems.com/collections/rocks-and-mineral-specimens-for-): Buy rocks and mineral specimens for  online with folkmarketgems.com. Variety of museum quality mineral specimens, cabinet mineral specimens, rocks and crystals for collectors available with us. WhatsApp:+66617237765 | +923268999919|Call+16892288688 Email:info@folkmarketgems.com
-  Updated: 2026-11-06T16:20:25Z
-  Total Products: 243
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 244
 - [Crystal Pendants](https://www.folkmarketgems.com/collections/crystal-pendants-for-): We provide Crystal Pendants and Gems Jewelry in wholesale offers. The wholesale offers are attractive for retailers, jewelry designers, and household jewelry makers. Crystal pendants are made of silver sterling 925 hooks.  Folk Market Gems also offers crystal and gemstone strings, necklaces, pendants, beading, and much more. Enjoy the wholesale deals.
   Updated: 2026-07-14T11:16:38Z
   Total Products: 14
@@ -559,8 +559,8 @@
   Updated: 2026-07-08T23:00:34Z
   Total Products: 13
 - [Corundum Minerals](https://www.folkmarketgems.com/collections/buy-corundum-stones): Buy Raw Sapphires and Ruby Stones: Unlock the Beauty of Nature Corundum | Buy Natural Sapphires and Natural Rubies | Rough Sapphires | Raw Rubies Stones | Loose Sapphires and Rubies Are you in search of natural gemstones to enhance your jewelry collection? Folkmarketgems offers you 100% natural sapphires and rubies in cut and raw. Raw sapphires are available with us in various varieties, colors and form. Sapphires are known not only for their aesthetic appeal but also for their durability, making them perfect for everyday wear. Ruby stones, on the other hand, are known for their deep red hue, symbolising passion and love. We offer various varieties of raw rubies in facet grade rough rubies, raw ruby crystals , rough rubies for cabochons. Lapidary artists will have multiple choice of buying raw rubies and sapphires with us. When buying raw sapphires and ruby stones with us, it is important to ensure their authenticity and quality. We are offering raw rubies and sapphires in bulk having ethically sourced and carefully inspected. By purchasing from trusted suppliers, you can have confidence in the authenticity and value of your gemstones. Introduction to Folkmarketgems Folkmarketgems is the trusted source for gems worldwide. Our valued customers are aware that we manage tours to mining areas to find the best and natural gems. Customer trust is our main focus, which has earned us a reputation for exceptional quality and support. For over a decade, Folkmarketgems has established itself as a reliable name in the gems industry, garnering trust through consistent delivery of high-quality gems. We specialize in natural corundum, offering a diverse range of colors and variations, including sapphire and ruby. Our goal is to ensure customers find all their desired gem-related products with us. Whether seeking fiery red rubies or captivating sapphires, customers choose Folkmarketgems for the quality and authenticity of our gemstones. They trust us to provide superior products sourced directly from their origins. Varieties of Natural Corundum Stones When discussing the primary varieties of corundum, there are two: ruby and sapphire, both are renowned as the most expensive gems worldwide. These stones have gained popularity over the years due to their uniqueness and exceptional qualities. Corundum is not a common gemstone, which contributes to its high price and makes it an elite choice for jewelry, lending it an elegant appearance. Ruby, renowned as the most expensive gemstone, is highly prized for its distinct color and unparalleled hues. It is known as a rare gem and is renowned for being one of the hardest stones in the world. The rich red hue of ruby is attributed to trace amounts of chromium present within its crystalline structure. Similarly, Sapphire, a member of the corundum family, is composed of oxygen and aluminum. It contains trace elements like iron and is typically blue, although it can occur in various colors such as pink, green, or others. Formation of Natural Raw Corundum Corundum, celebrated for its extraordinary toughness and dazzling spectrum of hues, arises through a captivating natural geological process. Composed predominantly of aluminum oxide, its moniker stems from the Sanskrit term "kuruvinda," evoking the essence of ruby. Typically found nestled within metamorphic and igneous formations, corundum emerges amidst conditions of formidable heat and pressure. Amid geological metamorphoses, minerals abundant in alumina undergo dissolution and subsequent recrystallization, facilitating the birth of corundum crystals. While commonly linked with rubies and sapphires, corundum can also manifest in its pristine state, exhibiting as either colorless or opaque crystals. The genesis of unprocessed corundum serves as a poignant testament to the intricate dance of Earth's geological forces and the marvels of mineralogy. Kashmir Sapphires and Kashmir Rubies: A Gemstone Treasure From the Himalayas The Himalayan region holds a prominent place of precious stones, among them the famous Kashmir Sapphires and Kashmir Rubies, cherished for their unparalleled beauty and scarcity. Renowned among gem enthusiasts worldwide, Kashmir corundum exudes a charm that has the major place in the gemstone market. Kashmir Sapphires are celebrated for their luxurious velvety blue tones, striking color saturation, and remarkable clarity. Historically sourced from the mines in Jamu and Kashmir, these gems showcase the essence of elegance. Meanwhile, the Kashmir valley, now under Pakistani administration, yields a spectrum of popular corundum hues ranging from purplish blue to purplish pink and reddish-purple sapphires. In the remote reaches of the Batakundi mine, the world's rarest Kashmir Rubies, having a distinct pigeon blood hue, emerge from the rugged mountain valley. Their scarcity, mined amidst the challenging high altitude landscape of Kashmir, only enhances their allure, making them highly precious treasures of the region. Buying Guide for Corundum Stone - How Much A Corundum Stone Worth? Corundum is a precious stone that have two big and top precious stones as a mineral family i.e. rubies and sapphires. Ruby, a beloved gemstone in classic gemstone jewelry, is known for its exceptional resilience. As the designated birthstone for July, its rich red tones consistently attract the buyers with intense saturation. Renowned for their excellence, rubies rank among the most precious gemstones, fetching prices surpassing $1,000,000 per carat in record-breaking sales. Nevertheless, rubies undergo numerous treatments, leading to a broad price range spanning from a few hundred dollars to several thousand dollars per carat. Sapphire, a gem of enduring allure within the corundum family, has attracted the human fascination for ages. The rare blue Kashmir sapphire stands out, often demanding prices exceeding $200,000 per carat. Other unadulterated blue sapphires can still fetch significant value, ranging from $2,000 to $10,000 per carat based on their size. Sapphires have various color range apart from blue. Other colors of sapphires are purplish pink, pinkish red, bluish pink, orange, yellow, green, pink, purple, grey and many others. One should keep in mind the following factors while purchasing corundum stones, whether you are buying the fiery red beauty of rubies or the attractive colors of sapphires. Here is what you should consider: Color Intensity and Richness: Measure the intensity and richness of colors. In rubies, look for a bright red color, and in sapphires, including blue, pink, yellow, and many more, select an attractive color that appeals to you. Transparency and Clearness: Check the stone for any imperfections and inclusions. Some inclusions are acceptable, but ensure they do not detract from the beauty of the gemstone. Transparency is also important because real corundum stones need to be slightly transparent. Cut and Shape: Decide on the shape of the stone that suits your tastes. A well-cut stone will highlight the color and brilliance of the stone. To enhance the beauty of the stone, the cut should be balanced and symmetrical. Authenticity: Confirm the authenticity of the corundum stone. And also check the authenticity license. Market Trends and Pricing: Stay updated about market trends and the pricing of gemstones. Demand, supply, and cultural factors may affect their prices. Trustworthy Sellers: Purchase corundum stones from well-reputed vendors who have a proven track record of honesty and client satisfaction like Folkmarketgems.  Potential for Corundum Stones Kashmir Sapphires and Rubies:-The corundum sourced from the Kashmir region stands out as one of the finest varieties available. Recently, Kashmir Sapphires have earned significant attention from corundum buyers and customers, particularly the exceedingly rare blue Kashmir Sapphire. This prized corundum originates from two distinct localities: Jamu Kashmir on the Indian side and Azad Kashmir on the Pakistani side, also known as Batakundi Corundum. Although mining of the coveted blue Kashmir Sapphires ceased around 1900BC from Jamu Kashmir, corundum varieties from the Kashmir region in Pakistan are still actively mined. Notably, there is an emergence of purplish-pink corundum with subtle red or blue hues from the Batakundi region of Kashmir in Pakistan. Batakundi region is also producing pigeon blood rubies which looks like Burmese rubies. Burmese Rubies: Burmese rubies are famous for their really deep red color. Over a long time, these rubies have become more and more valuable. They're not easy to find, and people really like them because they are important in certain cultures. Sapphires from Ceylon: Sapphires from Ceylon Sapphires, especially the ones from a place called Ceylon, have also become more valuable over time. People really like the blue sapphires of this origin. These sapphires have a great color and are very clear. Factors Influencing  Potential: Quality and Rarity: The most important aspect of a Corundum stone is its quality. Due to its color, clarity, and imperfections, it is considered special and valuable. These stones are not easily found. Origin: Some stones are found in special places like Kashmir or Burma, which are more expensive. These locations have a history of producing high-quality stones. Market Demand: Gemstones, including Corundum, are highly sought after worldwide for making jewelry, contributing to their  potential. As a result, Corundum stones are consistently in demand. Changes in fashion trends and increasing global wealth may further boost demand. Risks and Benefits of Investing in Corundum: Benefits: Long-Term Appreciation: If you take good care of high-quality Corundum stones, they can become more valuable over time. It is the best option for patient investors. Movable and Physical Asset: Corundum provides investors with a physical form of wealth that can be easily transported and stored. Diversification: Corundum provides diversity to an  portfolio and decreases total risk exposure. Risks: Market Fluctuations: Various factors, including economic conditions and fashion trends, can influence the gemstone market, leading to fluctuations in prices. Lack of Liquidity:  gemstones may not offer the same level of liquidity as  standard financial assets. It may take some time to find a customer for a particular stone.  and  Risks: There may be a chance of unethical or dishonest practices. Relying only on reliable sellers can reduce this risk. Subjectivity of Value: The value of a gemstone may vary for different individuals. Variations in market trends may impact the perceived value of specific stones. Conclusion: Folkmarketgems is famous because of its reputation as a trustworthy destination for natural Corundum stones, boasting a diverse range that include rubies and sapphires sourced from historical origins. Their comprehensive buying guide emphasizes crucial factors such as color, clarity, and certification, ensuring potential buyers make informed decisions. Staying abreast of market trends is paramount for savvy investors. Investing in Corundum presents numerous advantages, including the potential for long-term appreciation, the convenience of portability, and the opportunity for portfolio diversification. However, it's important to acknowledge and mitigate risks such as market fluctuations and the subjectivity of value. In summary, whether you're a collector or an investor, navigating the gemstone market requires knowledge and reliance on reputable sources. By doing so, you can make confident and successful purchases of Corundum stones that meet your needs and expectations. Learn about Sapphire stones as September Birthstone----
-  Updated: 2026-10-18T14:26:54Z
-  Total Products: 228
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 230
 - [Ruby on Zoisite](https://www.folkmarketgems.com/collections/ruby-on-zoisite): Wholesale Rough Ruby on Zoisite Stones at attractive price available directly from mine. Small Raw stone deals, wholesale ruby on zoisite raw deals-
   Updated: 2026-10-09T11:40:10Z
   Total Products: 3
@@ -577,8 +577,8 @@
   Updated: 2026-09-22T23:11:14Z
   Total Products: 45
 - [Raw Crystals](https://www.folkmarketgems.com/collections/buy-raw-crystals-for-): Explore healing raw crystal for  at discounted prices i.e. Aqua, Tourmaline, Topaz, Epidote, Clear Quartz, Emeralds, Ruby, Sapphire kunzite, Sphene, Axinite, Spinels etc
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 316
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 319
 - [Amethyst](https://www.folkmarketgems.com/collections/amethyst-gemstones): Shop natural amethyst gemstones including raw crystals and faceted stones. Explore rich purple varieties, origins, and transparent amethyst pricing before you buy.
   Updated: 2026-09-30T11:16:47Z
   Total Products: 77
@@ -646,14 +646,14 @@
   Updated: 2026-10-18T18:17:42Z
   Total Products: 102
 - [Sphene / Titanite](https://www.folkmarketgems.com/collections/sphene-crystals-sphene-gems): Rare Sphene Stones| Loose Sphene | Sphene Crystals | Sphene Specimens | Jewelry
-  Updated: 2026-10-09T23:24:23Z
-  Total Products: 28
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 29
 - [Vesuvianite](https://www.folkmarketgems.com/collections/vesuvianite-rare-minerals): Natural Vesuvianite crystals / Specimens. Unique specimens for collectors and mineral enthusiasts. Bulk discounts available on raw gemstones
   Updated: 2026-10-09T11:53:44Z
   Total Products: 4
 - [Tsavorite Gemstones](https://www.folkmarketgems.com/collections/tsavorite-garnet-gemstone): Shop natural tsavorite garnet gemstones including raw crystals and faceted stones. Discover vivid green varieties with transparent pricing and origin insights.
-  Updated: 2026-09-14T12:15:09Z
-  Total Products: 38
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 39
 - [Petroleum included Diamond Quartz](https://www.folkmarketgems.com/collections/petroleum-quartz): Checkout unique Petroleum included Diamond Quartz crystals. These rare specimens feature natural oil inclusions. Wholesale pricing for collectors and dealers.
   Updated: 2026-10-09T11:54:32Z
   Total Products: 5
@@ -667,8 +667,8 @@
   Updated: 2026-10-09T11:55:55Z
   Total Products: 5
 - [Swat Emeralds Raw Cut | Rough Swat Emeralds](https://www.folkmarketgems.com/collections/buy-swat-emeralds): Premium Swat Emeralds for  | Authentic Pakistani Emerald Gemstones Online Discover the world's finest Swat Valley emeralds from Pakistan's legendary Hindu Kush mountains. Our curated collection features authentic natural emerald gemstones ranging from rare rough specimens to expertly cut loose stones, perfect for collectors, jewelers, and gemstone enthusiasts. Swat Valley is a breathtaking province of Hindu Kush Mountain range in Khyber Pakhtunkhwa in Pakistan. It is renowned for its rich cultural heritage. The valley has an ideal geological conditions for emerald formation. With the passage of time, the geological factors led with combination factors of temperature, pressure and mineral rich fluids necessary for crystallisation of beryllium aluminium silicate in forming vivid green emerald stones of Swat. Formation and Origin of Swat Emeralds Stones Natural Swat Emeralds dates back millions of years. The geological processes worked their magic deep within the Earth's crust. Swat Valley's geological composition, with its unique combination of pegmatite veins and metamorphic rocks, created the ideal conditions for the formation of these mesmerizing gemstones. Through intricate process, beryllium rich fluids started to interact with the minerals in surroundings. Which resulted into formation of emerald crystals. Emeralds are from beryl family. The other stones in beryl family are aquamarine, morganite, goshenite, hellidor, bixbite. Pakistan Emeralds or Swat Emeralds Deposits The most interesting feature of Natural Swat Emeralds is their rich green color. The reserves of emeralds are estimated around 70 million carats in Pakistan of emeralds in Swat Valley. The Swat Valley emeralds are popular for their vibrant colors. There are four locations of emeralds in Pakistan. They include Swat Valley in Swat District, Gandao in Mohmand Agency, B Barang in Bajaur Agency Khaltaro in Gilgit-Baltistan Chitral Swat emerald deposits are one of the largest despots in Pakistan as overall. Swat has four mining areas in Norther Khyber Pakhtunkhua. The northwestern end of the Himalayan mountain range. There are 5 mines in Swat Valley. Shamozai, Mingora, Gujar Killi, Charbagh Makhad Learn about Swat Emeralds how they were discovered initially. Striking Characteristics of Swat Emeralds Dazzling Green Hue: The prominent characteristic of natural Swat Emeralds is their deep rich green color. The saturation and hue of emeralds is ranging from a vibrant green to a deep lush forest shade. This differentiates Swat emeralds among others. Good Clarity: Swat Emeralds are known for their exceptional clarity in melee sizes. Melee sizes are fixed in watches like rolex and other diamond settings. Swat has one of the best melee size emeralds. They are highly demanded in diamond industry for that. Exquisite Cut and Shape: Mostly Swat emeralds have proper hexagonal shapes mixed with stunning colors. They are best for lapidary artists due to their complete shapes. Swat melee size also have proper hexagonal crystal shapes which make them unique among other emeralds. Rarity and Value of Natural Swat Emeralds Limited Supply: Swat emeralds have high demand within limited supply. Fine Swat emerald is extremely rare in big sizes. Whenever there comes big size with maximum clarity, it is always attracted to the buyers immediately due to combination of color and clarity.  Potential: Swat Emeralds are best to be invested in. Their rich green color is highly demanded among gemstone lovers. They are sold at very good market price. Conclusion: What Folkmarketgems Offers in Swat Emeralds Collection Type of Swat Emeralds Available: 1. Loose Cut Emeralds (Ready for Setting) Faceted emerald gemstones from 0.65 to 11 carats plus Professional emerald cuts Perfect for jewelry making and  Price range: $180 - $1,250 plus 2. Rough Emerald Parcels (For Cutting & Faceting) Bulk deals from small deals like 22 carats to Wholesale deals like 1000 carats plus at discounted prices Premium facet grade rough emeralds for lapidary artists Wholesale emerald lots for dealers for  or reselling. Price range: $150 - $15,000 USD 3. Mineral Specimens (Collector's Items) Natural emerald crystals on calcite matrix Miniature and tiny specimen collections Perfect for mineral collectors and museums Price range: $50- $220 ++ 4.  Grade Emeralds High-carat vivid green emeralds (10-1000 carats) Premium quality stones for serious investors  natural Swat emeralds Price range: $1,500 - $15,000 Why Choose Vivid Green Swat Emeralds at Folkmarketgems? Exceptional Quality Features: ✓ Vivid Green Color: Deep forest to vibrant green hues unique to Swat Valley ✓ Superior Clarity: Exceptional transparency, especially in melee sizes ✓ Perfect Crystal Formation: Natural hexagonal shapes ideal for cutting ✓  Value: Limited supply with increasing market demand ✓ Authentic Origin: Directly sourced from Swat Valley mines in Pakistan 🏔️ Geographic Significance: Our emeralds come from the prestigious Swat Valley mining areas: Shamozai Mine Mingora District Gujar Killi Charbagh Makhad Collection Highlights by Size & Budget Loose Swat Emerald Stones For Jewelry Makers ($180-$1,250) Individual cut emeralds ready for setting Various carat weights and cuts available Perfect for rings, pendants, and earrings Swat Emeralds For Lapidary Artists ($340-$2,400) Small to medium rough parcels High-quality faceting material Excellent yield potential Emeralds For Serious Collectors ($1,500-$15,000) Large rough emerald specimens -grade quality stones Rare high-carat pieces For Emerald Mineral Specimen Collectors ($121-$220) Natural crystal specimens Educational and display pieces Authentic matrix specimens Frequently Asked Questions (FAQs) About Swat Emeralds 🔍 About Swat Emeralds Q: What makes Swat emeralds special compared to other emeralds? A: Swat emeralds are popular and widely liked for their vivid green color, good clarity (especially in smaller sizes for watches). Mostly Swat emeralds come with perfect hexagonal crystal formation. They're formed in unique geological conditions in Pakistan's Hindu Kush mountains, creating emeralds with distinctive characteristics highly valued by collectors and jewelers worldwide. Q: Are these emeralds natural or treated? A: All our Swat emeralds are 100% natural and untreated. They come directly from the mines in Swat Valley, Pakistan, maintaining their authentic geological properties and natural beauty. Q: What's the difference between rough and cut emeralds in your collection? A: Rough emerald stones are uncut stones which are used in lapidary work, faceting, or collecting as natural specimens. Cut or loose emeralds are professionally faceted and polished, ready for jewelry setting. Rough stones offer more value for money and cutting potential, while cut stones are ready for immediate use. Quality & Authenticity of Swat Emerald Stones Q: Do you provide certificates of authenticity? A: Yes, we provide detailed information about the origin and characteristics of each emerald. For high-value pieces, we can arrange professional gemological certification upon request. Q: How do you grade the quality of your emeralds? A: We evaluate our emeralds based on the traditional 4 Cs: Color (vivid green being premium), Clarity (eye-clean to slightly included), Cut (for finished stones), and Carat weight. We also consider crystal formation and origin authenticity. Q: What's the clarity like in Swat emeralds? A: Swat emeralds are particularly known for exceptional clarity in melee sizes (small stones). Larger stones may have natural inclusions typical of emeralds, which actually confirm their natural origin and don't significantly impact their beauty or value. Purchasing &  of Swat Stones Q: Which emerald size should I choose for ? A: For  purposes, we recommend our larger rough parcels (100+ carats) or quality cut stones in any sizes. Swat emeralds have shown consistent value appreciation due to limited supply and increasing global demand. Q: Can I buy emeralds for custom jewelry projects? A: Absolutely! Our cut emeralds are perfect for custom jewelry. We offer various sizes and cuts suitable for rings, pendants, earrings, and other jewelry pieces. Our rough emeralds can also be custom cut to your specifications. Q: Do you offer wholesale pricing for bulk purchases? A: Yes, we offer competitive wholesale pricing for bulk orders and repeat customers. Contact us directly for volume discounts on our rough emerald parcels and multiple stone purchases. Shipping & Handling Q: How are the emeralds packaged and shipped? A: All emeralds are carefully packaged in protective gem boxes with detailed documentation. We use secure, insured shipping methods with tracking for all orders to ensure safe delivery. Q: Can I return an emerald if I'm not satisfied? A: We stand behind the quality of our emeralds. Please review our return policy for specific terms and conditions regarding returns and exchanges. Technical Information Q: What's the geological composition of Swat emeralds? A: Swat emeralds are beryllium aluminum silicate crystals formed through interaction of beryllium-rich fluids with surrounding minerals in pegmatite veins and metamorphic rocks. This unique geological process creates their distinctive color and clarity. Q: Are Swat emeralds suitable for daily wear jewelry? A: Emeralds rate 7.5-8 on the Mohs hardness scale. This hardness makes emerald stone very suitable for jewelry. However, emeralds are brittle stones by nature thats why we recommend protective settings while designing jewelry such as rings. Jewelry designers should carefully handle to maintain their beauty over time. Q: How should I care for my Swat emerald? A: Clean with stones warm soapy water and a soft brush. Avoid ultrasonic cleaners and harsh chemicals. Store separately to prevent scratching, and have jewelry professionally checked periodically.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 153
+  Updated: 2026-11-10T11:59:14Z
+  Total Products: 154
 - [Chrysoberyl](https://www.folkmarketgems.com/collections/chrysoberyl): Discover natural chrysoberyl stones, famous for extreme durability, bright golden-green hues, and exceptional chatoyancy. From faceted golden gems to fine cat's-eye cabochons, our natural chrysoberyl inventory provides  quality for collectors and fine jewelers. Shop chrysoberyl gemstones today. How hard is chrysoberyl gemstone? Chrysoberyl rates 8.5 on the Mohs hardness scale, making it one of the hardest and most durable gems after diamond and corundum. Is chrysoberyl the same mineral as beryl? No, chrysoberyl is a beryllium aluminum oxide, whereas beryl (emerald, aquamarine) is a beryllium aluminum silicate. What creates the famous cat's-eye effect in chrysoberyl? Parallel rutile microscopic needle inclusions cut into a cabochon shape reflect a crisp, central streak of light across the gem.
   Updated: 2026-10-09T11:56:32Z
   Total Products: 7
@@ -688,29 +688,29 @@
   Updated: 2026-10-09T11:57:57Z
   Total Products: 9
 - [New Arrivals Gemstones](https://www.folkmarketgems.com/collections/new-arrival-gems): Shop new arrival gemstones at Folkmarketgems. Fresh faceting rough, mineral specimens & rare stones from $150. Direct-source pricing. Order now.
-  Updated: 2026-11-06T09:59:56Z
-  Total Products: 755
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 758
 - [Afghanite Gemstones](https://www.folkmarketgems.com/collections/buy-rough-afghanite-rare-mineral): Afghanite is a rare mineral which is only found in Afghanistan. Folkmarket takes pride to introduce Afghanite as rare gemstone and mineral from Afghanistan. We offer raw afghanite stone for lapidary, faceting and for collectors. Contact: Whatsapp: +923268999919 | Call or SMS +16892288688 Email: info@folkmarketgems.com
   Updated: 2026-10-09T12:13:02Z
   Total Products: 4
 - [Rare Gems](https://www.folkmarketgems.com/collections/rare-gemstone-and-minerals): Buy rare gemstones including Hackmanite, Sphene, Tsavorite & Emerald. Facet rough, specimens & loose stones from $150. Shop Folkmarketgems today.
-  Updated: 2026-11-06T09:43:40Z
-  Total Products: 486
+  Updated: 2026-11-13T08:48:01Z
+  Total Products: 488
 - [Beryl Gems & Minerals](https://www.folkmarketgems.com/collections/beryl): Shop natural beryl gemstones: rough emeralds, aquamarine, heliodor & mineral specimens from Pakistan, Brazil & Afghanistan. Wholesale lots available. Buy now.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 308
+  Updated: 2026-11-10T11:59:14Z
+  Total Products: 309
 - [Colombian Emeralds Raw Cut](https://www.folkmarketgems.com/collections/colombian-emeralds-raw-cut): Shop world-renowned raw cut Colombian emeralds prized for unmatched vivid green color saturation and high crystal clarity. Directly sourced from famous mining regions like Muzo and Chivor, our Colombian emerald collection delivers top-tier material for collectors and master jewelers. Find authentic Colombian emeralds online.Why are Colombian emeralds world-renowned in gemology?Colombian emeralds are celebrated for their pure green hue with minimal blue undertones, caused by high chromium content.What are three-phase inclusions in Colombian emeralds?They are microscopic inclusions containing liquid, gas, and a solid halite crystal, characteristic of natural Colombian origin.Are clarity treatments disclosed for these stones?Yes, each listing fully discloses whether the emerald is natural untreated or enhanced with traditional cedarwood oil.
   Updated: 2026-10-09T12:14:08Z
   Total Products: 0
 - [Hexagonal Crystals](https://www.folkmarketgems.com/collections/hexagonal-crystals-1): Shop natural hexagonal crystals — facet-grade emeralds, ruby, amethyst & more from Pakistan & beyond. Wholesale deals, collector specimens & cutting rough available.
-  Updated: 2026-11-06T09:43:04Z
-  Total Products: 132
+  Updated: 2026-11-10T11:59:14Z
+  Total Products: 133
 - [Cubic Crystals](https://www.folkmarketgems.com/collections/cubic-crystals): Explore authentic cubic crystals showcasing perfect natural isometric geometry, razor-sharp edges, and vibrant colors. Featuring natural pyrite, fluorite, and galena cubic specimens, our collection provides striking geometric mineral art for display cabinets and academic study. Shop natural cubic crystals today.Which minerals naturally form cubic crystals?Common minerals with isometric cubic symmetry include pyrite, fluorite, halite, galena, and garnet.Are these cubic shapes cut by humans or natural?All cubic crystal specimens grow naturally into geometric cubes through internal atomic arrangement without human cutting.How should delicate cubic mineral clusters be cleaned?Clean gently with compressed air or a soft dry brush; avoid harsh solvents that could damage delicate matrix attachments.
-  Updated: 2026-10-09T12:14:53Z
-  Total Products: 21
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 22
 - [Garnets](https://www.folkmarketgems.com/collections/garnets-gemstones): Shop natural garnet gemstones including red, green, and rare varieties. Explore garnet pricing, origins, and buying insights for this January birthstone.
-  Updated: 2026-10-11T19:16:58Z
-  Total Products: 92
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 93
 - [Quote Now | Ask for Price](https://www.folkmarketgems.com/collections/wholesale-gemstones-deals): Buy Wholesale Gemstone Deals with Folkmarketgems at competitive prices. Attractive bulk prices on Emeralds, Rubies, Sapphire, Aquamarine, Peridots, Topaz and many more
   Updated: 2026-11-04T10:08:27Z
   Total Products: 341
@@ -721,8 +721,8 @@
   Updated: 2026-08-27T00:18:35Z
   Total Products: 32
 - [Loose Gemstones](https://www.folkmarketgems.com/collections/buy-loose-gemstones-for-jewelry): Shop natural loose gemstones for jewelry making, including sapphire, emerald, ruby, tourmaline and more. Available in various cuts and carat sizes.
-  Updated: 2026-11-04T10:08:27Z
-  Total Products: 572
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 575
 - [Gemstone Jewelry](https://www.folkmarketgems.com/collections/gemstone-jewelry): Folkmarket Gems has included natural gemstones jewelry section also on demand of our customers. We have included beautiful sophisticated jewelry designs made of natural gemstones, silver sterling 925, or 14 to 18 k Gold.
   Updated: 2026-07-14T11:16:38Z
   Total Products: 33
@@ -730,11 +730,11 @@
   Updated: 2026-11-04T10:08:27Z
   Total Products: 396
 - [Under $500 Gems Deals](https://www.folkmarketgems.com/collections/under-500): Shop high-value natural gemstones and mineral specimens priced under $500. Featuring fine emeralds, aquamarines, tourmalines, and quartz clusters, our under-$500 gemstone  collection offers premium quality, full authenticity guarantee, and exceptional value. Browse affordable gemstones online today.Are the gemstones in this collection  natural?Yes, every gemstone priced under $500 comes with full authenticity disclosures and natural origin guarantees.What gem species are included in the under $500 selection?Selection includes faceted sapphires, emeralds, aquamarines, tourmalines, peridots, and crystal matrix specimens.Are individual photos provided for each item?Yes, all listings display exact photos and measurements of the actual stone or mineral parcel being purchased.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 882
+  Updated: 2026-11-13T09:18:03Z
+  Total Products: 886
 - [Under $300USD Gems ](https://www.folkmarketgems.com/collections/under-300usd-gemstone-deals): Explore quality natural gemstones and mineral specimens under $300 USD. Perfect for budget-conscious collectors, jewelry creators, and lapidarists, our selection includes faceted gems, rough parcels, and crystal specimens with  origins. Shop $300 gem deals online today.Can I find faceted natural gemstones in the under $300 collection?Yes, we feature loose faceted spinels, zircons, citrines, amethysts, and aquamarines under $300 USD.Are these stones suited for custom jewelry setting?Absolutly, all loose cut gems include exact calibrated or freeform dimensions ready for jewelry settings.Do you offer worldwide shipping on $300 gemstone deals?Yes, we ship globally with tracked and secure courier delivery services.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 641
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 642
 - [Beads](https://www.folkmarketgems.com/collections/crystal-beads-wholesale): Buy Crystal Beads Wholesale Price in form of loose strings, bracelets, necklaces.
   Updated: 2026-10-09T12:17:23Z
   Total Products: 15
@@ -745,8 +745,8 @@
   Updated: 2026-10-09T12:22:16Z
   Total Products: 31
 - [Home](https://www.folkmarketgems.com/collections/home): Welcome to Folkmarketgems, your online destination for high-grade natural gemstones, mineral crystal specimens, and lapidary supplies. Explore our primary collection featuring faceted stones, raw rough, cabochons, and rare crystal matrices with  authenticity. Shop online today.Are all gemstones on Folkmarketgems  authentic?Yes, all minerals and gems are 100% natural and ethically sourced with transparent origin and  disclosures.What payment and shipping options are supported?We accept major credit cards and digital payments, offering secure worldwide tracked express shipping options.Can I request gemological certificates for high-value items?Yes, third-party laboratory gemological certificates can be provided upon request for high-value gems.
-  Updated: 2026-11-06T16:20:25Z
-  Total Products: 1485
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 1491
 - [Fluorescent Minerals and Gems | UV Reactive Minerals](https://www.folkmarketgems.com/collections/fluorescent-minerals-and-gems): Shop fluorescent minerals, UV reactive gems & rare rough stones. Kashmir rubies, sapphires, hackmanite & more. Free shipping on orders over $200.
   Updated: 2026-10-18T14:26:54Z
   Total Products: 72
@@ -775,23 +775,23 @@
   Updated: 2026-10-09T12:57:37Z
   Total Products: 1
 - [Faceted Gemstones](https://www.folkmarketgems.com/collections/faceted-gemstones): Buy natural faceted loose gemstones — emeralds, rubies, sapphires, garnet & more. Singles, pairs & parcels. Direct-source pricing. Shop Folkmarketgems.
-  Updated: 2026-11-04T10:08:27Z
-  Total Products: 552
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 555
 - [Precious Stones](https://www.folkmarketgems.com/collections/precious-stones): Shop 432+ natural precious stones — emerald, ruby & sapphire rough, specimens & loose gems from Pakistan, Afghanistan & Mozambique. Wholesale deals available.
-  Updated: 2026-10-18T19:47:41Z
-  Total Products: 450
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 453
 - [Semi Precious Stones](https://www.folkmarketgems.com/collections/semi-precious-stones): Shop natural semi precious stones – facet-grade rough, lapidary rough & wholesale lots. Tourmaline, aquamarine, garnet, topaz & more at Folkmarketgems.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 917
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 920
 - [All Natural Gemstones](https://www.folkmarketgems.com/collections/natural-gemstones-for-): Folkmarketgems offers  Wholesale & retail gemstone supplying -  natural gems marketplace in raw gems, polished colored stones, precious
-  Updated: 2026-11-06T16:20:25Z
-  Total Products: 1476
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 1482
 - [Octahedron Crystals](https://www.folkmarketgems.com/collections/octahedron): Discover stunning natural octahedron crystals showcasing symmetrical eight-faced geometric geometry and sharp terminations. Featuring natural diamonds, fluorite, and magnetite octahedral specimens, our collection provides striking natural crystal geometry for mineral enthusiasts. Shop octahedron crystals online today.What defines an octahedral crystal shape?An octahedron is a symmetrical crystal form featuring eight triangular faces meeting at six pointed vertices.Which gemstone species grow as natural octahedrons?Diamonds, spinels, and fluorite are prime examples of minerals that naturally crystallize in octahedral forms.Are these octahedral forms polished or raw?Our octahedral crystals are 100% natural raw specimens formed organically in isometric growth environments.
   Updated: 2026-10-09T12:58:14Z
   Total Products: 5
 - [Start Up Gems Lots](https://www.folkmarketgems.com/collections/gemstones-for-beginners): Shop gemstone starter lots: tourmaline, garnet, topaz, spinel & more. Budget-friendly rough & faceted deals from $40. Secure checkout. Shop now.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 697
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 698
 - [Industrial Minerals](https://www.folkmarketgems.com/collections/commercial-quantity-wholesale-raw-gems-industrial-minerals): Provides a wide selection of industrial-grade or commercial-scale stones, including Himalayan Salt Rocks, Milky Quartz, Lapis Lazuli, Onyx, Serpentine, Jade, Hydroglossuar Garnets, and many others. Reach out to inquire about pricing at info@folkmarketgems.com.
   Updated: 2026-10-11T19:59:07Z
   Total Products: 46
@@ -814,11 +814,11 @@
   Updated: 2026-10-09T13:02:50Z
   Total Products: 2
 - [Gemstones for Valentines Day](https://www.folkmarketgems.com/collections/gemstones-for-valentines-day): Shop natural Valentine's Day gemstones at Folkmarketgems — pigeon blood rubies, pink sapphires, morganite & more. , ethically sourced, wholesale available.
-  Updated: 2026-11-04T10:12:28Z
-  Total Products: 399
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 401
 - [Natural Gemstones for Engagement Rings](https://www.folkmarketgems.com/collections/natural-gems-for-engagement): Shop  natural gemstones for engagement rings — Kashmir rubies, sapphires, emeralds, aquamarine & more. Rough & faceted. Worldwide shipping. Buy now.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 801
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 805
 - [Bulk Mixed Stone Gem Boxes](https://www.folkmarketgems.com/collections/bulk-mixed-stone-gem-boxes): Explore our treasures of raw gemstones, cut crystals, and natural minerals—whether you want for personal, for collection or for your cutting or jewelry making projects in bulk, we’ve got something for for you. Our mixed gemstone boxes are like a surprise adventure—each box is packed with a vibrant mix of unique gemstone varieties, healing crystals, and natural stones sourced from around the world. Want something special? We’ll create a custom gemstone box just for you! Tell us your requirements—maybe you’re after affordable gemstones for jewelry-making, unique crystal specimens, or a luxury gemstone gift that’ll wow someone special. No stress about budgets or specifics—just contact us, and we’ll select the stones that match your needs or project goals. Perfect for wholesale crystal buyers to buy in samples, hobbyists, or anyone cutting a little natural magic.
   Updated: 2026-10-06T19:01:12Z
   Total Products: 21
@@ -832,11 +832,11 @@
   Updated: 2026-10-13T20:03:57Z
   Total Products: 105
 - [Loose Ruby Gemstones](https://www.folkmarketgems.com/collections/loose-ruby-gemstones): Buy  loose ruby stones for engagement rings, fine jewelry, and gemstone . Explore natural untreated ruby with grading and transparent pricing.
-  Updated: 2026-10-18T14:26:54Z
-  Total Products: 29
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 31
 - [Loose Peridot Gemstones](https://www.folkmarketgems.com/collections/loose-gemstones-peridots): Buy loose peridot stones for rings, pendants, and custom jewelry. Explore faceted natural peridot gemstones with detailed pricing and size options.
-  Updated: 2026-11-04T08:34:54Z
-  Total Products: 54
+  Updated: 2026-11-11T13:59:39Z
+  Total Products: 55
 - [Loose Gemstones Tourmaline](https://www.folkmarketgems.com/collections/loose-gemstones-tourmaline): Buy loose tourmaline stones for rings and custom jewelry. Explore faceted pink, green, and rare Paraiba tourmaline with detailed pricing and size options.
   Updated: 2026-11-04T10:08:27Z
   Total Products: 68
@@ -856,8 +856,8 @@
   Updated: 2026-10-18T19:47:41Z
   Total Products: 86
 - [Loose Gemstones Corundum](https://www.folkmarketgems.com/collections/loose-gemstones-corundum): Shop natural loose corundum gemstones — Kashmir ruby, blue sapphire & fancy sapphires. Direct-source pricing, worldwide shipping. Buy now at Folkmarketgems.
-  Updated: 2026-10-18T14:26:54Z
-  Total Products: 117
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 119
 - [Loose Gemstones Citrine](https://www.folkmarketgems.com/collections/loose-gemstones-citrine): Buy loose citrine stones for rings and custom jewelry. Discover faceted natural yellow citrine gemstones with detailed pricing and size options.
   Updated: 2026-10-09T13:07:00Z
   Total Products: 15
@@ -910,14 +910,14 @@
   Updated: 2026-07-08T23:00:11Z
   Total Products: 31
 - [Red Gemstones](https://www.folkmarketgems.com/collections/red-gemstones): Shop natural red & pink gemstones: ruby, red spinel, rhodolite garnet & pink tourmaline. Ethically sourced,  options, wholesale parcels. Global shipping.
-  Updated: 2026-11-04T10:12:28Z
-  Total Products: 360
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 362
 - [Blue Gemstones](https://www.folkmarketgems.com/collections/blue-gemstones): Shop natural blue gemstones like sapphire, aquamarine & lapis lazuli. Authentic crystals for jewelry, healing & collections. Worldwide shipping.
   Updated: 2026-11-06T12:14:37Z
   Total Products: 372
 - [Sold Out Gems and Minerals](https://www.folkmarketgems.com/collections/sold-out-gemstones-and-minerals): Sold Out – Limited Preorders Available While these items are currently sold out, selected gemstones are available for preorder. Preordered items will be similar in color / clarity/sizes, though minor variations in gemstone color, size, or quantity may occur. Since all our gemstones are 100% natural (not lab-created), each stone has its own unique characteristics. Natural variations in color, clarity, and cut are to be expected, making every piece one-of-a-kind. Preorder now to secure your item—limited stock remaining!
-  Updated: 2026-11-06T16:18:12Z
-  Total Products: 499
+  Updated: 2026-11-13T09:18:40Z
+  Total Products: 500
 - [Top  Gemstones](https://www.folkmarketgems.com/collections/top--products): Shop our best- jewelry and gemstones. Discover customer favorites and trending pieces that everyone loves. Quality gems at great prices.
   Updated: 2026-10-06T19:01:12Z
   Total Products: 69
@@ -958,8 +958,8 @@
   Updated: 2026-11-04T17:39:27Z
   Total Products: 98
 - [Rough Garnet](https://www.folkmarketgems.com/collections/rough-garnet-stones): Shop natural rough garnet — Tsavorite, Rhodolite, Almandine & more. Untreated, direct-source facet rough. Worldwide shipping. Buy now at Folkmarketgems.
-  Updated: 2026-10-11T19:16:58Z
-  Total Products: 49
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 50
 - [Rough Aquamarine](https://www.folkmarketgems.com/collections/rough-aquamarine-stones): Buy natural rough aquamarine from Pakistan, Brazil & Madagascar. Faceting rough, lapidary parcels & mineral specimens. Secure checkout. Shop now.
   Updated: 2026-11-06T12:14:37Z
   Total Products: 46
@@ -979,11 +979,11 @@
   Updated: 2026-10-05T11:19:26Z
   Total Products: 24
 - [Rough Tsavorite Garnets](https://www.folkmarketgems.com/collections/rough-tsavorite-garnets): Buy natural rough tsavorite garnet from Kenya & Madagascar. Facet-grade lots from 7 to 500+ carats. Worldwide shipping. Shop now at Folkmarketgems.
-  Updated: 2026-08-27T00:18:37Z
-  Total Products: 23
+  Updated: 2026-11-13T08:46:17Z
+  Total Products: 24
 - [Afghanistan Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/afghanistan-origin-gemstones-and-minerals): Shop 287+ Afghanistan-origin gemstones: Panjshir emeralds, rubies, lapis lazuli, tourmaline & more. Direct-source rough & loose gems. Buy now.
-  Updated: 2026-11-04T17:39:27Z
-  Total Products: 308
+  Updated: 2026-11-13T09:17:32Z
+  Total Products: 310
 - [Burma Origin Gemstones and Minerals](https://www.folkmarketgems.com/collections/burma-origin-gemstones-and-minerals): Shop Burma origin gemstones: Mogok Spinels, Burmite Amber, Sapphires & more. Wholesale & retail lots. Worldwide shipping. Buy at Folkmarketgems.
   Updated: 2026-09-17T13:32:10Z
   Total Products: 43
@@ -1015,8 +1015,8 @@
   Updated: 2026-09-20T12:34:04Z
   Total Products: 37
 - [Green Gemstones](https://www.folkmarketgems.com/collections/green-gemstones): Shop natural green gemstones — rough emeralds, peridot, tourmaline & prasiolite. Direct-from-mine sourcing. Worldwide shipping. Buy now at Folkmarketgems.
-  Updated: 2026-11-06T12:14:37Z
-  Total Products: 539
+  Updated: 2026-11-13T08:37:28Z
+  Total Products: 542
 
 ## Blogs
 
