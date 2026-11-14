@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2022-03-23T15:53:03Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-06T01:11:28.509Z
+- Updated At: 2026-11-14T01:13:39.163Z
 
 ## Products
 
 - [Serpentina Vinyl](https://banks.merchmadeeasy.com/products/serpentina-lp-white-pre-order): BANKS' 2022 vinyl, pressed on opaque white vinyl
-  Updated: 2026-11-05T16:16:13Z
+  Updated: 2026-11-12T03:24:47Z
   Vendor: BANKS
   Product Type: Vinyl
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Off With Her Head Photo Tee - Black](https://banks.merchmadeeasy.com/products/off-with-her-head-photo-tee): 100% heavyweight cotton t-shirt in black Off With Her Head photo on the front in black and white Unisex
-  Updated: 2026-11-05T16:13:25Z
+  Updated: 2026-11-08T11:35:36Z
   Vendor: BANKS
   Product Type: T-Shirt
   Availability: Available
@@ -570,7 +570,7 @@
   Image: https://cdn.shopify.com/s/files/1/0635/4403/3526/files/Road-Case-Polaroid_70214fbd-8dbb-4edc-8108-796cecbc2f9a.png?v=1784149624
   Price: $8.00 USD
 - [Backstage Polaroid Sticker](https://banks.merchmadeeasy.com/products/backstage-polaroid-sticker): Polaroid-style photo sticker of BANKS wearing a white dress and hat backstage
-  Updated: 2026-11-05T16:13:25Z
+  Updated: 2026-11-11T20:58:25Z
   Vendor: Banks Official Store
   Product Type: Sticker
   Availability: Available
@@ -587,13 +587,13 @@
 ## Collections
 
 - [Home page](https://banks.merchmadeeasy.com/collections/frontpage)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 58
 - [Apparel](https://banks.merchmadeeasy.com/collections/apparel)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 24
 - [Music](https://banks.merchmadeeasy.com/collections/music)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 14
 - [Accessories](https://banks.merchmadeeasy.com/collections/accessories)
   Updated: 2026-10-28T21:17:56Z
@@ -605,10 +605,10 @@
   Updated: 2026-07-08T20:56:27Z
   Total Products: 0
 - [All](https://banks.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 77
 - [NEW](https://banks.merchmadeeasy.com/collections/new)
-  Updated: 2026-10-12T11:22:47Z
+  Updated: 2026-11-11T20:58:57Z
   Total Products: 10
 - [FROM THE VAULT](https://banks.merchmadeeasy.com/collections/from-the-vault-drop-1)
   Updated: 2026-06-10T16:22:49Z
@@ -617,10 +617,10 @@
   Updated: 2026-06-02T01:19:53Z
   Total Products: 2
 - [Featured](https://banks.merchmadeeasy.com/collections/featured)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 32
 - [Tees](https://banks.merchmadeeasy.com/collections/tees)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 18
 - [$40 Hoodies](https://banks.merchmadeeasy.com/collections/40-hoodies)
   Updated: 2026-11-01T12:16:54Z
@@ -629,16 +629,16 @@
   Updated: 2026-11-01T12:16:54Z
   Total Products: 2
 - [2025 Tour ](https://banks.merchmadeeasy.com/collections/2025-tour-)
-  Updated: 2026-09-28T11:17:30Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 3
 - [BFCM Additional Markdowns](https://banks.merchmadeeasy.com/collections/bfcm-additional-markdowns)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 12
 - [Serpentina](https://banks.merchmadeeasy.com/collections/serpentina): "This album was made mostly during covid. I lived alone at the time and therefore lived in my head. It was a really hard time. I put it all into music and learning how to produce, so I’m so grateful I had the time for it. My friend Tala came to stay with me for a few weeks and I remember so many magical late nights dancing on my couch listening to what we had just stayed up for days creating. I remember the hikes I took while writing. How I found my favorite rock to sit on. And a random swing on a tree that kind of freaked me out cuz it coulda been a horror story. But I ended up swinging on it and it was alllllll good. In general, I worked through a lot of crud I kept in my belly with this album, and fell in love with myself again :) it helped me turn a page and open up to lightness. I am forever grateful. And I LOVE the songs.. i hope more and more people discover Serpentina and her beauty. I love u all so much. "
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 16
 - [EasyGift All Products](https://banks.merchmadeeasy.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 75
 - [Goddess 10th Anniversary Collection](https://banks.merchmadeeasy.com/collections/goddess-10th-anniversary-collection)
   Updated: 2026-11-01T12:16:54Z
@@ -647,28 +647,28 @@
   Updated: 2026-07-08T20:56:28Z
   Total Products: 0
 - [Off With Her Head](https://banks.merchmadeeasy.com/collections/off-with-her-head)
-  Updated: 2026-10-21T19:58:28Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 16
 - [Off With Her Head Tour Merch](https://banks.merchmadeeasy.com/collections/off-with-her-head-tour-merch)
-  Updated: 2026-10-21T19:58:28Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 8
 - [Music & Prints](https://banks.merchmadeeasy.com/collections/music-prints)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 24
 - [Signature Collection](https://banks.merchmadeeasy.com/collections/signature-collection)
   Updated: 2026-10-28T21:17:56Z
   Total Products: 13
 - [](https://banks.merchmadeeasy.com/collections/)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-08T12:16:56Z
   Total Products: 24
 - [National Vinyl Record Day](https://banks.merchmadeeasy.com/collections/national-vinyl-record-day)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 2
 - [VINYL](https://banks.merchmadeeasy.com/collections/vinyl)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-12T12:18:23Z
   Total Products: 8
 - [Black Friday ](https://banks.merchmadeeasy.com/collections/black-friday-)
-  Updated: 2026-11-01T12:16:54Z
+  Updated: 2026-11-11T20:59:05Z
   Total Products: 62
 
 ## Store Pages
