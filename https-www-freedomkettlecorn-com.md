@@ -6,16 +6,16 @@
 - Timezone: America/Chicago
 - Created At: 2026-01-06T15:56:29Z
 - Contact Email: admin@freedomkettlecorn.com
-- Updated At: 2026-11-06T01:05:33.377Z
+- Updated At: 2026-11-14T01:00:35.173Z
 
 ## Products
 
 - [Liberty Kettle Corn Pack – 3 Gourmet Popcorn Flavors | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/liberty-pack): Get three of Freedom Kettle Corn's best flavors in one pack: Caramel Corn, Sweet White Cheddar, and Classic Sweet & Salty. Fresh-popped to order in Arkansas.
-  Updated: 2026-09-26T01:48:42Z
+  Updated: 2026-11-13T16:53:40Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Tqwlaoi8N7yKmtUPzaq5mQo_2_gps_generated_3235b496-8fae-4ee3-80ee-4f5fde83149a.png?v=1787938392
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Tqwlaoi8N7yKmtUPzaq5mQo_2_gps_generated_be45f3aa-f0a0-4787-93d6-4c5bc4534b9f.png?v=1794588792
   - [Small (6 Cups) 50 oz](https://www.freedomkettlecorn.com/products/liberty-pack?variant=43258332512317)
     Availability: Available
     Price: $15.99 USD
@@ -26,11 +26,11 @@
     Availability: Available
     Price: $35.99 USD
 - [XXL Bulk Party Bag – 300 Cups Gourmet Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/xxl-party-bag): Feed 300+ guests with Freedom Kettle Corn’s XXL Bulk Party Bag. Choose from 18 flavors — perfect for weddings, parties & big events. Handcrafted in Arkansas.
-  Updated: 2026-09-04T04:37:42Z
+  Updated: 2026-11-13T09:08:44Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Classic-Kettle-Corn-XL-Bulk-_150-cups_-edited_2_5a130096-d72e-4e2b-b120-114d13b4df43.png?v=1787938945
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Classic-Kettle-Corn-XL-Bulk-_150-cups_-edited_2_9ea3eb1e-7815-461e-a246-bdafe2d71804.png?v=1794517673
   - [Classic Kettle Corn](https://www.freedomkettlecorn.com/products/xxl-party-bag?variant=42887378272317)
     Availability: Available
     Price: $129.99 USD
@@ -86,11 +86,11 @@
     Availability: Available
     Price: $139.99 USD
 - [Cinnamon Toast Kettle Corn – Gourmet Cinnamon Sugar Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/cinnamon-toast): Freshly popped kettle corn coated with sweet cinnamon sugar flavor and a satisfying crunch. Freedom Cinnamon Toast Kettle Corn tastes just like your favorite cinnamon toast treat.
-  Updated: 2026-10-07T15:33:25Z
+  Updated: 2026-11-13T16:51:30Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/cinnamon_toast_kettle_corn_55a9f670-0469-47c7-b277-d9ad3594e468.png?v=1787936059
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/cinnamon_toast_kettle_corn_86594d84-253d-46aa-9c92-157043ce9464.png?v=1794588676
   - [Small](https://www.freedomkettlecorn.com/products/cinnamon-toast?variant=43054989508669)
     Availability: Available
     Price: $6.99 USD
@@ -101,18 +101,18 @@
     Availability: Available
     Price: $10.99 USD
 - [Elite Pack – 5-Flavor Gourmet Kettle Corn Variety Pack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/quad-pack): Get all 5 flavors in one pack! Classic Kettle, Sweet Cheddar, Chocolate, Apple Pie & Caramel Corn. Handcrafted in Arkansas by Freedom Kettle Corn.
-  Updated: 2026-09-04T04:49:26Z
+  Updated: 2026-11-13T16:49:37Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Elite-kettle-corn-pacK-Large-edited_1_d56a9956-28fa-47f1-9840-3be35ed66939.png?v=1787953727
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Elite-kettle-corn-pacK-Large-edited_1_df7fb583-3ee0-4bd3-b93f-d724758ba7d7.png?v=1794588556
   Price: $15.99 USD
 - [XL Bulk Party Bag – 150 Cups Gourmet Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/bulk-xl-party-bag): Feed 150+ guests with Freedom Kettle Corn’s XL Bulk Party Bag. Choose your flavor — perfect for weddings, parties, fundraisers & events. Handcrafted in Arkansas.
-  Updated: 2026-09-24T18:55:56Z
+  Updated: 2026-11-13T16:47:10Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/XL-Bulk-Party-Bag.png?v=1787938762
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/XL-Bulk-Party-Bag_6ec1dbd9-4866-4ab0-a717-26a23aa011f1.png?v=1794588366
   - [Classic Kettle Corn](https://www.freedomkettlecorn.com/products/bulk-xl-party-bag?variant=42887378731069)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/1000009643.jpg?v=1773954174
@@ -172,11 +172,11 @@
     Availability: Available
     Price: $39.99 USD
 - [Sweet Cheddar Popcorn – Sweet & Savory Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sweet-cheddar): Classic kettle corn sweetness meets creamy cheddar in this fresh-popped gourmet snack. Sweet Cheddar Popcorn handcrafted in small batches in Arkansas.
-  Updated: 2026-09-05T20:02:20Z
+  Updated: 2026-11-13T08:39:34Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/sweet_cheddar_popcorn_1594fb00-126f-45da-b941-6d4f3789603b.png?v=1787935734
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/sweet_cheddar_popcorn_17e80e51-da4d-4713-8275-95cc05d80d9c.png?v=1794515954
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/sweet-cheddar?variant=43051765760061)
     Availability: Available
     Price: $4.99 USD
@@ -188,11 +188,11 @@
     Availability: Available
     Price: $8.99 USD
 - [White Cheddar Jalapeño Kettle Corn – Spicy Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/white-cheddar-jalapeno): Bold white cheddar meets zesty jalapeño heat in Freedom White Cheddar Jalapeño Kettle Corn for a savory, spicy gourmet popcorn with the perfect crunch.
-  Updated: 2026-09-04T04:31:23Z
+  Updated: 2026-11-13T16:43:58Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/White-Cheddar-_-Jalapeno-Popcorn-Small-edited_2_5a636dfb-9566-4e98-8b93-b06bbc30e23e.png?v=1787953291
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/White-Cheddar-_-Jalapeno-Popcorn-Small-edited_2_f098e571-0fab-47e0-9d97-ef520e05375e.png?v=1794588206
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/white-cheddar-jalapeno?variant=43051827003453)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/21b33c73-645104_d53172193e70453487f8ff0eab0a5355_mv2.png?v=1773958962
@@ -204,11 +204,11 @@
     Availability: Available
     Price: $11.99 USD
 - [Garlic Parmesan Popcorn – Bold No-Sugar Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/garlic-parmesan): Bold roasted garlic and aged Parmesan on fresh-popped popcorn — no sugar, all flavor. A savory gourmet snack handcrafted in small batches in Arkansas.
-  Updated: 2026-09-04T05:25:43Z
+  Updated: 2026-11-13T16:39:36Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/garlic_parmsean.png?v=1787953012
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/garlic_parmsean_455e820b-7de7-402a-b5c2-4275dc77b6e0.png?v=1794587931
   - [Small](https://www.freedomkettlecorn.com/products/garlic-parmesan?variant=43051822022717)
     Availability: Available
     Price: $8.99 USD
@@ -219,11 +219,11 @@
     Availability: Available
     Price: $12.99 USD
 - [White Cheddar Popcorn – No Sugar Savory Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/white-cheddar): Smooth, creamy white cheddar on fresh-popped popcorn — no sugar, no artificial flavors. A bold, savory gourmet snack handcrafted in Arkansas.
-  Updated: 2026-10-29T23:23:46Z
+  Updated: 2026-11-13T09:17:44Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/0c28a4e6-645104_5577776e96bf49238921de07b6d36502_mv2_de1220b4-d3c9-4948-b228-50320e992831.png?v=1787938529
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/0c28a4e6-645104_5577776e96bf49238921de07b6d36502_mv2_cb4d48e7-b2e5-46f2-bf3c-9479e1c88c9c.png?v=1794518240
   - [Small](https://www.freedomkettlecorn.com/products/white-cheddar?variant=43051770445885)
     Availability: Available
     Price: $4.99 USD
@@ -240,11 +240,11 @@
     Availability: Available
     Price: $99.99 USD
 - [Caramel Corn Kettle Corn – Rich Buttery Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/caramel-corn): Fresh-popped kettle corn coated in rich, buttery caramel. Freedom Caramel Corn is the sweet, salty, crunchy classic — hand-popped daily in small batches in Arkansas.
-  Updated: 2026-10-29T23:23:46Z
+  Updated: 2026-11-13T08:37:49Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/caramel-corn.png?v=1787935515
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/caramel-corn_cc3cdabc-4641-4366-b986-a6503955939d.png?v=1794515847
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/caramel-corn?variant=43051762974781)
     Availability: Available
     Price: $6.99 USD
@@ -256,29 +256,28 @@
     Availability: Available
     Price: $12.99 USD
 - [Classic Sweet & Salty Kettle Corn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/classic-kettle-corn): Enjoy the timeless taste of Freedom Classic Kettle Corn, freshly popped with the perfect balance of sweet and salty flavor. Light, crispy, and handcrafted in small batches for an irresistible snack everyone loves.
-  Updated: 2026-10-29T23:23:56Z
+  Updated: 2026-11-13T08:35:48Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Freedom_Kettle_Corn.png?v=1787935305
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Freedom_Kettle_Corn_d646f61d-8437-4217-9310-74b82a6c0ccf.png?v=1794515704
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/classic-kettle-corn?variant=43051758452797)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Classic-Kettle-Corn-edited_3_1.png?v=1783283569
     Price: $4.99 USD
   - [Regular (9 cups) 80 oz](https://www.freedomkettlecorn.com/products/classic-kettle-corn?variant=43051758485565)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Freedom_Kettle_Corn.png?v=1787935305
     Price: $6.99 USD
   - [Large (15 cups) 1 lb 10 oz](https://www.freedomkettlecorn.com/products/classic-kettle-corn?variant=43051758518333)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Classic-Kettle-Corn-edited_3_5_24dc7fa4-30a9-444c-8e12-21cbbafdfcff.png?v=1788637972
     Price: $10.99 USD
 - [Sweet Garlic Parmesan Kettle Corn – Savory Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sweet-garlic-parmesan): Enjoy the perfect balance of sweet, savory, and cheesy flavor. Freshly popped kettle corn coated with roasted garlic and Parmesan. Gluten-free. Hand-popped in Arkansas.
-  Updated: 2026-09-04T04:29:30Z
+  Updated: 2026-11-13T08:43:36Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/1000013297.png?v=1787952855
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/1000013297_c5d1adf7-2e10-4cfe-8e95-b2db604c1bbe.png?v=1794516148
   - [Small (6  cups)](https://www.freedomkettlecorn.com/products/sweet-garlic-parmesan?variant=43055884304445)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/1000013297.jpg?v=1783962590
@@ -296,11 +295,11 @@
     Availability: Available
     Price: $139.99 USD
 - [Sweet White Cheddar Kettle Corn – Creamy Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sweet-white-cheddar): Creamy white cheddar meets sweet kettle corn in this irresistible gourmet snack. Fresh-popped in small batches in Arkansas by Freedom Kettle Corn.
-  Updated: 2026-09-04T05:23:01Z
+  Updated: 2026-11-13T08:41:18Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/White-Cheddar-_-Jalapeno-Popcorn-Large-edited_4_8892383d-956c-4ea4-a579-0c5b301bbad2.png?v=1787939355
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/White-Cheddar-_-Jalapeno-Popcorn-Large-edited_4_d5b16afb-fe88-471f-b524-3e0c6d5c587c.png?v=1794516060
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/sweet-white-cheddar?variant=43055886237757)
     Availability: Available
     Price: $3.99 USD
@@ -311,11 +310,11 @@
     Availability: Available
     Price: $8.99 USD
 - [Sweet White Cheddar Jalapeño Kettle Corn – Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sweet-white-cheddar-jalapeno): Enjoy the perfect balance of sweet white cheddar and spicy jalapeño. Freshly popped kettle corn with a creamy, cheesy heat that keeps you coming back for more.
-  Updated: 2026-09-04T04:32:44Z
+  Updated: 2026-11-13T08:33:38Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/PLQlavrfHpncmtUP2qTg2AY_1_gps_generated_40770b97-066e-4071-a36b-4a6e02fbce95.png?v=1787938627
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/sweet_white_cheddar_jalapeno.png?v=1794515598
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/sweet-white-cheddar-jalapeno?variant=43055888302141)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/21b33c73-645104_d53172193e70453487f8ff0eab0a5355_mv2.png?v=1773958962
@@ -327,11 +326,11 @@
     Availability: Available
     Price: $12.99 USD
 - [Spicy Cheddar Kettle Corn – Bold Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/spicy-cheddar): Freshly popped kettle corn coated with rich cheddar cheese and zesty spices. Freedom Spicy Cheddar Kettle Corn delivers the perfect balance of cheesy flavor and satisfying heat.
-  Updated: 2026-10-29T23:23:45Z
+  Updated: 2026-11-13T08:31:19Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Spicy-Cheddar-Popcorn.png?v=1787937979
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Spicy-Cheddar-Popcorn_bb2ac9ac-2572-4b9f-b49c-776796ef9120.png?v=1794515459
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/spicy-cheddar?variant=43055888597053)
     Availability: Available
     Price: $4.99 USD
@@ -343,11 +342,11 @@
     Availability: Available
     Price: $8.99 USD
 - [Sweet & Spicy Cheddar Popcorn – Bold Sweet-Heat Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sweet-spicy-cheddar): Bold cheddar cheese meets sweet heat in Freedom Sweet & Spicy Cheddar Popcorn. A perfectly balanced, addictive gourmet snack handcrafted in Arkansas.
-  Updated: 2026-10-07T15:33:36Z
+  Updated: 2026-11-13T08:28:58Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Spicy-Cheddar-Popcorn-Regular-_9-cups_-80-oz-edited_4_3e22f535-7012-4911-9d84-073597adcca8.png?v=1787939127
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Spicy-Cheddar-Popcorn-Regular-_9-cups_-80-oz-edited_4_b54369ee-3579-4b40-95a8-7de637f56cbd.png?v=1794515315
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/sweet-spicy-cheddar?variant=43055891120189)
     Availability: Available
     Price: $4.99 USD
@@ -365,11 +364,11 @@
     Availability: Available
     Price: $109.99 USD
 - [Apple Pie Kettle Corn – Sweet Cinnamon Snack Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/apple-pie): Sweet apple, warm cinnamon, and crunchy kettle corn come together in this delicious gourmet snack. Freshly popped and full of cozy bakery-inspired flavor.
-  Updated: 2026-09-04T04:19:15Z
+  Updated: 2026-11-13T08:24:40Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Apple_pie.png?v=1787937692
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Apple_pie_14b18ba0-3f84-4e20-bb78-3fe485c85283.png?v=1794514481
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/apple-pie?variant=43055902752829)
     Availability: Available
     Price: $4.99 USD
@@ -380,11 +379,11 @@
     Availability: Available
     Price: $8.99 USD
 - [Caramel Apple Kettle Corn – Sweet Tart Gourmet Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/caramel-apple): Enjoy the taste of a classic caramel apple in every bite. Freedom Caramel Apple Kettle Corn combines sweet caramel and crisp apple flavor for a deliciously crunchy gourmet popcorn treat.
-  Updated: 2026-10-13T21:43:08Z
+  Updated: 2026-11-13T07:57:30Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/caramel_apple_kettle_corn_5f8837cb-49bc-4737-a9f3-e9bc0b330605.png?v=1787937496
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Caramel_Apple_Kettle_Corn_805d6163-abcb-46d4-b074-38a615e77080.png?v=1794513421
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/caramel-apple?variant=43055904391229)
     Availability: Available
     Price: $8.99 USD
@@ -395,11 +394,11 @@
     Availability: Available
     Price: $12.99 USD
 - [Sharp Cheddar Popcorn – Bold No-Sugar Gourmet Snack | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/sharp-cheddar): Intense, tangy sharp cheddar on fresh-popped popcorn — no sugar, non-GMO. The bold savory snack for serious cheese lovers, handcrafted in Arkansas.
-  Updated: 2026-10-29T23:23:43Z
+  Updated: 2026-11-13T07:54:38Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Sweet_Cheddar.png?v=1787934776
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/Sweet_Cheddar_e5298b43-c10b-41ac-a164-eefaf1e53609.png?v=1794513250
   - [Small (6 cups) 50 oz](https://www.freedomkettlecorn.com/products/sharp-cheddar?variant=43055907602493)
     Availability: Available
     Price: $4.99 USD
@@ -438,18 +437,18 @@
     Availability: Available
     Price: $100.00 USD
 - [Popcorn Cake – Custom 2 & 3-Tier Gourmet Kettle Corn Cake | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/freedom-kettle-corn-cake): A show-stopping popcorn cake for weddings, parties & events. Choose your flavors for each tier. Handcrafted in Arkansas by Freedom Kettle Corn.
-  Updated: 2026-09-04T05:31:43Z
+  Updated: 2026-11-13T07:48:39Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/kettle-corn-cake.png?v=1787859004
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/kettle-corn-cake_2c789975-50cd-4ff4-98f9-2061a9a563c3.png?v=1794512880
   Price: $39.98 USD
 - [Pumpkin Pie Kettle Corn – Warm Spiced Fall Popcorn | Freedom Kettle Corn](https://www.freedomkettlecorn.com/products/pumpkin-pie-ketle-corn): Cinnamon, nutmeg, and clove meet sweet-salty kettle corn in this cozy seasonal treat. Freedom Pumpkin Pie Kettle Corn is the perfect fall snack or holiday gift.
-  Updated: 2026-10-13T19:16:06Z
+  Updated: 2026-11-12T19:56:00Z
   Vendor: Freedom Kettle Corn Of Arkansas
   Product Type: Popcorn
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/3caramel.png?v=1788199005
+  Image: https://cdn.shopify.com/s/files/1/0645/8019/0269/files/3caramel.png?v=1794512088
   - [Small](https://www.freedomkettlecorn.com/products/pumpkin-pie-ketle-corn?variant=43533559365693)
     Availability: Available
     Price: $7.99 USD
@@ -469,13 +468,13 @@
 ## Collections
 
 - [Home page](https://www.freedomkettlecorn.com/collections/frontpage)
-  Updated: 2026-10-30T11:13:36Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 24
 - [All Popcorn](https://www.freedomkettlecorn.com/collections/imported-products): Shop all gourmet kettle corn from Freedom Kettle Corn of Arkansas. Sweet, savory, spicy & seasonal flavors handcrafted fresh in small batches. Order online!
-  Updated: 2026-10-30T11:13:36Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 24
 - [Sweet](https://www.freedomkettlecorn.com/collections/sweet-popcorn): Shop handcrafted sweet kettle corn from Freedom Kettle Corn of Arkansas. Classic caramel, cinnamon, and more. Order online for fresh-popped gourmet flavor.
-  Updated: 2026-10-30T11:13:36Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 13
 - [Savory](https://www.freedomkettlecorn.com/collections/savory-popcorn): Explore savory gourmet kettle corn from Freedom Kettle Corn of Arkansas. Bold, handcrafted flavors made fresh in small batches. Order online today!
   Updated: 2026-10-30T11:13:36Z
@@ -484,16 +483,16 @@
   Updated: 2026-10-30T11:13:36Z
   Total Products: 4
 - [Bulk Party Bags](https://www.freedomkettlecorn.com/collections/party-bags): Order bulk kettle corn party bags from Freedom Kettle Corn of Arkansas. Perfect for events, weddings & parties. Fresh, handcrafted gourmet popcorn. Order now!
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 4
 - [Multi Packs](https://www.freedomkettlecorn.com/collections/multi-packs): Try multiple flavors with Freedom Kettle Corn multi packs. Handcrafted gourmet kettle corn from Arkansas. Perfect for sampling & gifting. Order online!
   Updated: 2026-09-26T11:16:02Z
   Total Products: 4
 - [Seasonal](https://www.freedomkettlecorn.com/collections/seasonal): Shop limited-time seasonal kettle corn from Freedom Kettle Corn of Arkansas. Handcrafted gourmet flavors available for a limited time only. Order before they're gone!
-  Updated: 2026-10-14T11:42:01Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 4
 - [New! Shopify performance sharing is now turned on](https://www.freedomkettlecorn.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-10-30T11:13:36Z
+  Updated: 2026-11-10T13:54:50Z
   Total Products: 26
 
 ## Store Pages
