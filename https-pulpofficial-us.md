@@ -83,7 +83,7 @@ your agent can transact everywhere.
 - Timezone: America/Chicago
 - Created At: 2024-12-16T17:56:31Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:14:14.620Z
+- Updated At: 2026-11-14T01:16:23.235Z
 
 ## Products
 
