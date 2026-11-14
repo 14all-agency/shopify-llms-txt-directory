@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-03-04T21:45:03Z
 - Contact Email: hello@maisonandi.com
-- Updated At: 2026-11-06T01:06:21.480Z
+- Updated At: 2026-11-14T01:11:55.725Z
 
 ## Products
 
@@ -484,6 +484,9 @@
     Author: andi
   - [How Tuck-Friendly Underwear Combines Comfort and Functionality for All Genders](https://www.maisonandi.com/blogs/journal/how-tuck-friendly-underwear-combines-comfort-and-functionality-for-all-genders): How Tuck-Friendly Underwear Combines Comfort and Functionality for All Genders
     Updated: 2026-11-03T08:39:42Z
+    Author: andi
+  - [Anatomical Design in Swimwear & Underwear | maison andi](https://www.maisonandi.com/blogs/journal/anatomical-design-swimwear-underwear-comfort): Anatomical Design in Swimwear & Underwear | maison andi
+    Updated: 2026-11-11T09:47:15Z
     Author: andi
 
 ## Store Pages
