@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2026-08-20T20:23:54Z
 - Contact Email: bozovichgoldina@gmail.com
-- Updated At: 2026-11-06T17:31:38.886Z
+- Updated At: 2026-11-14T01:04:43.930Z
 
 ## Products
 
@@ -449,6 +449,15 @@
   - [Enhance Your Space with Lumispace™ Liberty: A Guide to Cordless Table Lamps Offering Luxury Ambient Lighting and Versatile Recharge Options](https://lumispace.co.uk/blogs/news/enhance-your-space-with-lumispace™-liberty-a-guide-to-cordless-table-lamps-offering-luxury-ambient-lighting-and-versatile-recharge-options): Enhance Your Space with Lumispace™ Liberty: A Guide to Cordless Table Lamps Offering Luxury Ambient Lighting and Versatile Recharge Options
     Updated: 2026-11-04T11:04:02Z
     Author: Lumi Space™
+  - [Mastering Ambient Elegance: Enhance Hospitality and Home Spaces with the Stylish Lumispace™ Halo Cordless Table Lamp for Superior Lighting Versatility](https://lumispace.co.uk/blogs/news/mastering-ambient-elegance-enhance-hospitality-and-home-spaces-with-the-stylish-lumispace™-halo-cordless-table-lamp-for-superior-lighting-versatility): Mastering Ambient Elegance: Enhance Hospitality and Home Spaces with the Stylish Lumispace™ Halo Cordless Table Lamp for Superior Lighting Versatility
+    Updated: 2026-11-09T11:02:56Z
+    Author: Lumi Space™
+  - [Cordless Bliss: Enhancing Your Space with Quality Ambient Lighting from the Lumispace™ Luxe Rechargeable Lamp](https://lumispace.co.uk/blogs/news/cordless-bliss-enhancing-your-space-with-quality-ambient-lighting-from-the-lumispace™-luxe-rechargeable-lamp): Cordless Bliss: Enhancing Your Space with Quality Ambient Lighting from the Lumispace™ Luxe Rechargeable Lamp
+    Updated: 2026-11-10T11:02:40Z
+    Author: Lumi Space™
+  - [Lumispace™ Halo Innovations with Portable Table Lamps for Luxury Ambient Lighting Through Qi Wireless Charging and Waterproof Features](https://lumispace.co.uk/blogs/news/lumispace™-halo-innovations-with-portable-table-lamps-for-luxury-ambient-lighting-through-qi-wireless-charging-and-waterproof-features): Lumispace™ Halo Innovations with Portable Table Lamps for Luxury Ambient Lighting Through Qi Wireless Charging and Waterproof Features
+    Updated: 2026-11-11T11:03:41Z
+    Author: Lumi Space™
 
 ## Store Pages
 
@@ -464,13 +473,13 @@
 - [Privacy Policy](https://lumispace.co.uk/policies/privacy-policy)
   Updated: 2026-11-01T00:45:05Z
 - [Shipping Policy](https://lumispace.co.uk/policies/shipping-policy)
-  Updated: 2026-10-05T04:36:14Z
+  Updated: 2026-11-12T17:29:11Z
 - [Refund Policy](https://lumispace.co.uk/policies/refund-policy)
-  Updated: 2026-10-05T04:30:08Z
+  Updated: 2026-11-12T17:28:38Z
 - [Terms of Service](https://lumispace.co.uk/policies/terms-of-service)
-  Updated: 2026-10-05T04:32:27Z
+  Updated: 2026-11-12T17:28:55Z
 - [Contact Information](https://lumispace.co.uk/policies/contact-information)
-  Updated: 2026-10-05T04:36:28Z
+  Updated: 2026-11-12T17:29:28Z
 
 ## Optional
 
