@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2024-02-24T17:17:41Z
 - Contact Email: shfgemspk@gmail.com
-- Updated At: 2026-11-06T01:12:29.412Z
+- Updated At: 2026-11-14T01:04:33.913Z
 
 ## Products
 
@@ -115,13 +115,6 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0569/5818/9667/files/cut_peridot.jpg?v=1737987225
   Price: $650.00 USD
-- [48 carats Natural Tsavorite Garnets](https://www.gemsvisor.com/products/48-carats-natural-tsavorite-garnets): This is package of 48 carats Natural Tsavorite Garnets Sizes: 4.5, 4.1, 4.6, 4, 4.6, 4.4, 4.4, 4.2, 4.6, 4.3, 4.8 carats : no Clarity: included Origin: African country
-  Updated: 2026-09-17T16:41:30Z
-  Vendor: Rough Gemstones
-  Product Type: Garnets
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0569/5818/9667/files/Tasavorite_Garnet.jpg?v=1737985998
-  Price: $250.00 USD
 - [Natural Mint Green Heart Shape Tourmaline](https://www.gemsvisor.com/products/natural-mint-green-heart-shape-tourmaline): Total weight :- 2.20 carats dimensions:- 7.70mm to 9.40mm clarity :- vvs to vs origin :- Afghanistan This is natural heart shape tourmaline 2.20 carts . A natural mint green heart-shaped tourmaline is a delicate and charming gemstone, with its soothing color and romantic shape evoking feelings of freshness and tenderness. It's a unique and exquisite choice for creating special and meaningful jewelry pieces
   Updated: 2026-09-17T16:41:32Z
   Vendor: Loose Single Stones
@@ -1624,24 +1617,31 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0569/5818/9667/files/labradorite_necklaces.jpg?v=1772063801
   Price: $1,250.00 USD
-[List Continued](https://www.gemsvisor.com/a/llms-agent/llms.txt?shop=feed0b-5e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNzQ1Njk5NDI3LCJsYXN0X3ZhbHVlIjoiNzg2MDc0NTY5OTQyNyJ9)
+- [1.27 Carats Natural Rhodolite Garnets | Loose Rhodolite Garnet Gemstone](https://www.gemsvisor.com/products/1-27-carats-natural-rhodolite-garnets): Check out this beautiful natural loose stone of 1.27 carats of natural rhodolite garnet. The origin is Pakistan. Key Features: Stone Name: Loose Rhodolite Garnet | Natural Rhodolite Garnet | Crystal Necklaces Total Pieces: 1 Color: Red Purple / Purple red Dimension: 6.62mm x 6.87mm x 3.44mm : No Origin: Pakistan Shape: Red Cutting: Brilliant and Fancy Metaphysical Properties Natural amethyst: encourages self-confidence, inspiration, and emotional healing. The heart chakra, which promotes love, forgiveness, and compassion, has a mark on it. Meditation technique: This technique is commonly employed to maintain emotional equilibrium when meditating. What is the composition of rhodolite? Chemically, rhodolite can be pure pyrope but may also be a mixture of about 70% pyrope and 30% almandine. Rhodolite gems vary in color from a rose-pink to purple-pink or purple-red and also raspberry-red.
+  Updated: 2026-09-17T16:41:27Z
+  Vendor: GemsVisor
+  Product Type: Loose Gemstones
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0569/5818/9667/files/david_yurman_rhodolite_garnet_stone.jpg?v=1772064222
+  Price: $150.00 USD
+[List Continued](https://www.gemsvisor.com/a/llms-agent/llms.txt?shop=feed0b-5e.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3ODYwNzY2NzAzNzE1LCJsYXN0X3ZhbHVlIjoiNzg2MDc2NjcwMzcxNSJ9)
 
 ## Collections
 
 - [Home page](https://www.gemsvisor.com/collections/frontpage)
-  Updated: 2026-08-10T11:12:24Z
-  Total Products: 185
+  Updated: 2026-11-08T07:34:55Z
+  Total Products: 186
 - [All Rough Gemstones](https://www.gemsvisor.com/collections/raw-crystal-collections): Explore our Rough Gemstones Collection featuring natural crystals perfect for faceting, lapidary. Discover a variety of gemstones in their raw form, ideal for cutting and polishing. Shop now for unique mineral specimens.
-  Updated: 2026-09-24T18:31:00Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 220
 - [Uncut gemstones | Wholesale Raw Gemstones for ](https://www.gemsvisor.com/collections/buy-uncut-raw-gemstones-wholesale): Variety of Uncut Gemstones Available with us | Buy Wholesale Raw Gemstones Welcome to GemsVisor, where we present wholesale mesmerising collection of raw gemstones in its natural beauty . Our Uncut Gemstones Collection is nature's raw, unfiltered beauty, carefully collected for those who appreciate the genuine appeal of gemstones. As you explore this collection, you'll discover a world of natural taste. We are offering a unique opportunity to acquire these treasures in bulk for your creative endeavours.
   Updated: 2026-07-15T11:12:50Z
   Total Products: 97
 - [Facet Rough](https://www.gemsvisor.com/collections/facet-grade-raw-gemstones): Discover facet grade rough gemstones and gemstone parcels. Learn about sapphires, rubies, emeralds & more. Buy natural rough gems at Gemsvisor.
-  Updated: 2026-09-25T11:14:33Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 146
 - [All Gemstones for ](https://www.gemsvisor.com/collections/shop-all-gemstones-raw-cut): Gemsvisor offers your variety of natural gemstones in form of rough gemstones for faceting / lapidary, loose gemstones for jewelry designers, and Mineral collections.
-  Updated: 2026-10-21T12:38:56Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 425
 - [Crystal Pendants](https://www.gemsvisor.com/collections/crystal-pendants): Explore our Crystal Pendants Collection featuring healing crystals and gemstones. Each pendant is crafted to bring positive energy and spiritual healing. Shop now for unique, meaningful jewelry.
   Updated: 2026-08-01T08:00:49Z
@@ -1650,7 +1650,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-10-21T12:38:56Z
   Total Products: 193
 - [Lapidary Rough Gemstones](https://www.gemsvisor.com/collections/buy-wholesale-lapidary-rough-gemstones): Explore our wholesale Lapidary Rough collection of natural raw gemstones perfect for jewelry making, cabochons, and faceting. Shop now for agate, citrine, amethyst, and more at GemsVisor!
-  Updated: 2026-09-24T18:31:00Z
+  Updated: 2026-11-07T12:13:12Z
   Total Products: 124
 - [Fine Mineral Specimens](https://www.gemsvisor.com/collections/fine-mineral-specimens): Buy variety of rare fine mineral specimens for collections. Gemsvisor is proud to offer unique and rare rocks, crystal collections and mineral specimens. We collect mineral specimens mainly from Skardu, Nagar, Gilgit, Pakistan, Afghanistan.
   Updated: 2026-09-20T12:22:13Z
@@ -1659,7 +1659,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-10-21T12:50:07Z
   Total Products: 70
 - [Amethyst](https://www.gemsvisor.com/collections/amethyst-gemstones): Discover the mesmerising collection of Amethyst, a stunning gemstone known for its healing properties and captivating beauty. Explore the collections, color in facet grade rough amethyst to loose cut gemstones. Buy Amethyst gemstones and Get good deals. Uncover the power of this February birthstone today!
-  Updated: 2026-07-09T18:04:45Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 43
 - [Amber](https://www.gemsvisor.com/collections/amber-stone-raw-for-faceting-loose-amber-stones): Discover exquisite Amber Stone varieties at Gemsvisor. Browse our collection of Amber, perfect for your gem-cutting projects and cut and polished varieties. Explore the Amber at very affordable prices and easy shipping. Enhance your collection with our hand-selected Amber Stones today. Amber is November Birthstone.
   Updated: 2026-07-09T18:03:48Z
@@ -1668,17 +1668,17 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-30T12:22:37Z
   Total Products: 42
 - [New Arrivals](https://www.gemsvisor.com/collections/new-arrivals-natural-gemstones)
-  Updated: 2026-10-21T12:38:56Z
-  Total Products: 441
+  Updated: 2026-11-08T07:34:55Z
+  Total Products: 442
 - [Rubies](https://www.gemsvisor.com/collections/rubies-gemstones): Explore our Natural Rubies Gemstones Collection featuring luxury red gemstones. Perfect for those seeking a touch of elegance and allure. Shop now!
-  Updated: 2026-09-24T18:31:00Z
-  Total Products: 37
+  Updated: 2026-11-06T20:02:53Z
+  Total Products: 38
 - [Spinels](https://www.gemsvisor.com/collections/spinels-gemstones): Explore our collection of natural spinels, a gemstone known for its sparkling elegance. Each piece is unique, offering a touch of sophistication to any jewelry collection.
   Updated: 2026-10-21T12:38:56Z
   Total Products: 13
 - [Topaz](https://www.gemsvisor.com/collections/topaz-gemstones): Visit Our Online Store & buy our variety of Natural Topaz. We have Topaz in facet rough, uncut raw crystals, & Loose Gemstones. Explore our collection Like Swiss , Sky Blue Topaz, Smokey , White Topaz, London Topaz, Skrdu Topaz, Katlang Imperial Topaz & many more at very affordable prices & shipping worldwide
-  Updated: 2026-07-09T18:04:52Z
-  Total Products: 33
+  Updated: 2026-11-09T14:35:00Z
+  Total Products: 34
 - [Tourmalines](https://www.gemsvisor.com/collections/tourmaline-crystals-gems): Shop Online our wide range of Turmaline Gemstones at affordable prices at GemsVisor. Explore Our Tourmaline Gemstones like, Chrome, Rubellite, Pink, Watermelon, Indicolite, Paraiba, Green, Black Tourmalines, and more. Check out stunning collection in Loose Facet Cut, Rough, Crystals, and Specimens at affordable rates
   Updated: 2026-09-24T14:47:40Z
   Total Products: 27
@@ -1695,7 +1695,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:04:43Z
   Total Products: 18
 - [Peridot](https://www.gemsvisor.com/collections/peridot-gemstones): At GemsVisor, we have good collection of natural Peridot gemstones. We have green peridot direct from the mines of Kohistan -Pakistan and have Olivine Peridots from other origin. From Facet Cut to Raw Crystals we have all at very affordable rates. Shop today and enjoy the feast
-  Updated: 2026-09-25T11:14:33Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 28
 - [Buy Himalayan Salt Rock Lamps | Himalayn Pink Salt Crafts](https://www.gemsvisor.com/collections/pink-himalayan-salt-rock-lamps): Explore our premium collection of Himalayan salt products. Experience the natural benefits of 100% pure, hand-mined Himalayan salt for wellness and home decor.
   Updated: 2026-07-09T16:48:54Z
@@ -1731,7 +1731,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:48:55Z
   Total Products: 0
 - [Apatite](https://www.gemsvisor.com/collections/apatite)
-  Updated: 2026-07-09T18:04:48Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 9
 - [Axinite](https://www.gemsvisor.com/collections/axinite)
   Updated: 2026-07-09T16:48:55Z
@@ -1746,7 +1746,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:02:53Z
   Total Products: 2
 - [Blue Gemstones](https://www.gemsvisor.com/collections/blue-gemstones)
-  Updated: 2026-09-20T12:41:34Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 102
 - [Calcite Gemstone](https://www.gemsvisor.com/collections/calcite-gemstone)
   Updated: 2026-07-09T16:48:55Z
@@ -1773,13 +1773,13 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:48:56Z
   Total Products: 0
 - [Discounts on Gemstones Deals](https://www.gemsvisor.com/collections/discounts-on-gemstones-deals)
-  Updated: 2026-10-31T20:28:19Z
-  Total Products: 539
+  Updated: 2026-11-09T14:35:00Z
+  Total Products: 541
 - [Epidote Crystals](https://www.gemsvisor.com/collections/epidote-crystals)
   Updated: 2026-07-09T18:02:56Z
   Total Products: 1
 - [Facet Rough and Lapidary Rough](https://www.gemsvisor.com/collections/facet-rough-and-lapidary-rough)
-  Updated: 2026-09-24T18:31:00Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 183
 - [Faden Quartz](https://www.gemsvisor.com/collections/faden-quartz)
   Updated: 2026-07-09T16:48:56Z
@@ -1791,7 +1791,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:48:56Z
   Total Products: 0
 - [Garnets](https://www.gemsvisor.com/collections/garnets)
-  Updated: 2026-09-04T20:31:01Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 39
 - [Gemstones and Minerals on ](https://www.gemsvisor.com/collections/gemstones-and-minerals-on-)
   Updated: 2026-07-15T11:12:50Z
@@ -1842,7 +1842,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:02:41Z
   Total Products: 2
 - [List of Gemstones of Pakistan | Pakistan Gemstones and Minerals](https://www.gemsvisor.com/collections/list-of-gemstones-of-pakistan-pakistan-gemstones-and-minerals)
-  Updated: 2026-10-21T12:50:07Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 146
 - [Loose Emerald Gems](https://www.gemsvisor.com/collections/loose-emerald-gems)
   Updated: 2026-07-09T18:04:44Z
@@ -1953,8 +1953,8 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-09-20T12:41:34Z
   Total Products: 70
 - [Raw Crystals](https://www.gemsvisor.com/collections/raw-crystals)
-  Updated: 2026-10-21T12:50:07Z
-  Total Products: 167
+  Updated: 2026-11-09T14:35:00Z
+  Total Products: 168
 - [Red Gemstones](https://www.gemsvisor.com/collections/red-gemstones)
   Updated: 2026-07-13T19:11:16Z
   Total Products: 29
@@ -1974,7 +1974,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-15T11:12:50Z
   Total Products: 41
 - [Semi Precious Stones](https://www.gemsvisor.com/collections/semi-precious-stones)
-  Updated: 2026-09-20T12:41:34Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 83
 - [Serpentine Minerals](https://www.gemsvisor.com/collections/serpentine-minerals)
   Updated: 2026-07-09T16:49:00Z
@@ -1983,8 +1983,8 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:49:00Z
   Total Products: 0
 - [Sold Out Gems and Minerals](https://www.gemsvisor.com/collections/sold-out-gems-and-minerals)
-  Updated: 2026-10-31T20:29:02Z
-  Total Products: 79
+  Updated: 2026-11-09T14:09:59Z
+  Total Products: 81
 - [Sold Out Gemstones and Minerals](https://www.gemsvisor.com/collections/sold-out-gemstones-and-minerals)
   Updated: 2026-07-09T16:49:01Z
   Total Products: 0
@@ -2016,17 +2016,17 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:04:05Z
   Total Products: 8
 - [Tsavorite Gemstones](https://www.gemsvisor.com/collections/tsavorite-gemstones)
-  Updated: 2026-09-04T20:31:01Z
+  Updated: 2026-11-07T12:13:12Z
   Total Products: 12
 - [Turquoise](https://www.gemsvisor.com/collections/turquoise)
   Updated: 2026-07-09T18:03:10Z
   Total Products: 8
 - [Under $300USD Gems ](https://www.gemsvisor.com/collections/under-300usd-gems-)
-  Updated: 2026-10-31T20:29:02Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 184
 - [Under $500 Gems Deals](https://www.gemsvisor.com/collections/under-500-gems-deals)
-  Updated: 2026-10-31T20:29:02Z
-  Total Products: 272
+  Updated: 2026-11-08T07:34:55Z
+  Total Products: 273
 - [Vayrynenite Minerals](https://www.gemsvisor.com/collections/vayrynenite-minerals)
   Updated: 2026-07-09T16:49:01Z
   Total Products: 0
@@ -2046,7 +2046,7 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T16:49:02Z
   Total Products: 0
 - [January Birthstone](https://www.gemsvisor.com/collections/january-birthstone)
-  Updated: 2026-09-23T05:58:38Z
+  Updated: 2026-11-07T12:13:12Z
   Total Products: 36
 - [February Birthstone](https://www.gemsvisor.com/collections/february-birthstone)
   Updated: 2026-09-23T18:15:16Z
@@ -2076,8 +2076,8 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-09-24T14:47:40Z
   Total Products: 45
 - [November Birthstone](https://www.gemsvisor.com/collections/november-birthstone)
-  Updated: 2026-09-23T05:58:28Z
-  Total Products: 70
+  Updated: 2026-11-09T14:35:00Z
+  Total Products: 71
 - [December Birthstone](https://www.gemsvisor.com/collections/december-birthstone)
   Updated: 2026-08-01T08:00:49Z
   Total Products: 41
@@ -2091,19 +2091,19 @@ Ruby is a precious and widely recognized gemstone, known for its beauty and rari
   Updated: 2026-07-09T18:02:25Z
   Total Products: 1
 - [Rough Amethyst](https://www.gemsvisor.com/collections/rough-amethyst)
-  Updated: 2026-07-09T18:04:39Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 26
 - [Rough Tourmaline](https://www.gemsvisor.com/collections/rough-tourmaline)
   Updated: 2026-07-09T18:03:15Z
   Total Products: 6
 - [Rough Garnet](https://www.gemsvisor.com/collections/rough-garnet)
-  Updated: 2026-07-09T18:03:49Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 9
 - [Rough Aquamarine](https://www.gemsvisor.com/collections/rough-aquamarine)
   Updated: 2026-09-07T12:54:00Z
   Total Products: 6
 - [Rough Peridot](https://www.gemsvisor.com/collections/rough-peridot)
-  Updated: 2026-09-25T11:14:33Z
+  Updated: 2026-11-08T07:34:55Z
   Total Products: 9
 - [Rough Topaz](https://www.gemsvisor.com/collections/rough-topaz)
   Updated: 2026-07-09T18:04:41Z
