@@ -6,7 +6,7 @@
 - Timezone: Europe/London
 - Created At: 2023-08-11T06:40:32Z
 - Contact Email: aldistributionmcr@gmail.com
-- Updated At: 2026-11-06T01:04:41.875Z
+- Updated At: 2026-11-14T00:53:32.072Z
 
 ## Products
 
@@ -288,7 +288,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/leopard-print-blouse-1.webp?v=1744275893
     Price: £14.99 GBP
 - [Women's Black & Cream Striped Roll Neck Jumper | Elaina Fashion](https://www.elainah.com/products/striped-roll-neck-jumper): Stay warm in this Elaina Fashion women's black and cream striped roll neck jumper sweater, crafted from a soft 100% acrylic knit for winter comfort.
-  Updated: 2026-10-31T04:01:36Z
+  Updated: 2026-11-07T07:49:35Z
   Vendor: ElainaUK
   Product Type: Jumper
   Availability: Available
@@ -362,7 +362,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5590.jpg?v=1744275918
     Price: £24.99 GBP
 - [Women's Coral Red Floral Ruffle Mini Dress | Elaina Fashion](https://www.elainah.com/products/red-floral-mini-dress): This Elaina Fashion coral red floral mini dress features long sleeves, a front tie knot, and layered ruffles for a chic, flowy look perfect for parties.
-  Updated: 2026-10-30T16:51:06Z
+  Updated: 2026-11-07T09:11:46Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -384,7 +384,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRAD-5585.jpg?v=1744275924
     Price: £19.99 GBP
 - [Women's Front Zip Mock Neck Mini Bodycon Dress | Elaina Fashion](https://www.elainah.com/products/bodycon-zip-bandage-dress): The Elaina Fashion mock neck bodycon dress features a front full zip, long sleeves, and a slim fit in black or royal blue. Ideal for parties and cocktails.
-  Updated: 2026-11-03T15:17:35Z
+  Updated: 2026-11-13T15:18:28Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -469,7 +469,7 @@
     Availability: Not Available
     Price: £24.99 GBP
 - [Women's White Drop Shoulder Balloon Sleeve Blouse | Elaina Fashion](https://www.elainah.com/products/sleeve-blouse): Elaina Fashion white collar shirt features drop shoulder balloon sleeves, smock cuffs, and a loose fit. Crafted from breathable 100% polyester.
-  Updated: 2026-11-05T12:03:26Z
+  Updated: 2026-11-13T19:21:30Z
   Vendor: Elaina Fashion
   Product Type: Top
   Availability: Available
@@ -581,7 +581,7 @@
     Availability: Not Available
     Price: £22.99 GBP
 - [Women's White V Neck Balloon Sleeve Peplum Top | Elaina Fashion](https://www.elainah.com/products/tops-with-frill-sleeves): An elegant white V-neck peplum top by Elaina Fashion featuring long balloon sleeves and a bow tie decor belt. Made from breathable 100% polyester.
-  Updated: 2026-11-05T00:27:36Z
+  Updated: 2026-11-13T16:02:56Z
   Vendor: ElainaUK
   Product Type: Top
   Availability: Available
@@ -660,7 +660,7 @@
   Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Crossover-Spaghetti-Strap-Bralette-4.webp?v=1744275993
   Price: £12.99 GBP
 - [Black Lace Halter Bodycon Mini Dress | Elaina Fashion](https://www.elainah.com/products/black-lace-halter-dress): Elaina Fashion's black lace halter bodycon mini dress features floral lace detailing, a backless tie-up design, and a slim fit for parties and weddings.
-  Updated: 2026-10-30T18:36:33Z
+  Updated: 2026-11-11T20:29:50Z
   Vendor: Elaina Fashion
   Product Type: mini dress
   Availability: Available
@@ -813,7 +813,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Luxvanti04032204038.jpg?v=1744276059
     Price: £16.99 GBP
 - [Women's White Professional Blazer Elegant Formal Jacket | Elaina Fashion](https://www.elainah.com/products/white-blazer-womenk): Elevate your style with the Elaina Fashion Women's White Professional Blazer. A slim fit, 100% polyester formal jacket designed for elegance and comfort.
-  Updated: 2026-10-30T16:57:51Z
+  Updated: 2026-11-08T09:15:31Z
   Vendor: Elaina Fashion
   Product Type: Blazer
   Availability: Available
@@ -896,7 +896,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/BRADFORD-2523.jpg?v=1744276149
     Price: £22.99 GBP
 - [Women's Black Floral A-Line Cocktail Mini Dress | Elaina Fashion](https://www.elainah.com/products/all-over-floral-mini-dress): An elegant black floral print A-line mini dress by Elaina Fashion. Features puffed long sleeves, a pleated waist, and soft, lightweight fabric.
-  Updated: 2026-10-30T16:37:25Z
+  Updated: 2026-11-09T10:53:36Z
   Vendor: ElainaUK
   Product Type: mini dress
   Availability: Available
@@ -1087,7 +1087,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-5224.jpg?v=1744276220
     Price: £18.99 GBP
 - [Women's Full Sleeve Printed Nightwear Set | Elaina Fashion](https://www.elainah.com/products/shirt-pyjama-set): Elaina Fashion Women's Full Sleeve Printed T-Shirt and Long Pants Nightwear Set. Super soft 2-piece sleepwear featuring a round neck and striped pants.
-  Updated: 2026-10-30T16:37:51Z
+  Updated: 2026-11-11T07:35:33Z
   Vendor: Elaina Fashion
   Product Type: Loungewear
   Availability: Available
@@ -1117,7 +1117,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-5409.jpg?v=1744276227
     Price: £24.99 GBP
 - [Women's V Neck Floral Puff Sleeve Backless Bodysuit | Elaina Fashion](https://www.elainah.com/products/puff-sleeve-bodysuit): This Elaina Fashion floral print bodysuit features a V-neck, puff sleeves, and a backless design for an elegant, form-fitting silhouette.
-  Updated: 2026-10-30T16:37:55Z
+  Updated: 2026-11-09T14:37:10Z
   Vendor: Elaina Fashion
   Product Type: Bodysuit
   Availability: Available
@@ -1135,7 +1135,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Puff-Sleeve-Bodysuit-3.png?v=1744276236
     Price: £19.99 GBP
 - [Women's White Satin Pajama Sleepwear Set | Elaina Fashion](https://www.elainah.com/products/white-satin-pj-set): Experience luxury with the Elaina Fashion Women's White Satin Pajama Sleepwear Set, featuring soft breathable polyester, long sleeves, and chest pockets.
-  Updated: 2026-11-05T15:11:38Z
+  Updated: 2026-11-13T19:09:36Z
   Vendor: Elaina Fashion
   Product Type: Loungewear
   Availability: Available
@@ -1161,7 +1161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ABBIE-17.05.260427.jpg?v=1779200749
     Price: £32.99 GBP
 - [Women's Black Longline Maxi Quilted Padded Coat | Elaina Fashion](https://www.elainah.com/products/oversized-padded-longline-coat): Stay warm with the Elaina Fashion Women's Black Longline Maxi Quilted Padded Coat. This 100% nylon oversized puffer features a full zip and button closure.
-  Updated: 2026-11-05T15:36:25Z
+  Updated: 2026-11-11T08:41:40Z
   Vendor: Elaina Fashion
   Product Type: Coat
   Availability: Available
@@ -1173,20 +1173,6 @@
   - [M/L / Black / 100% Nylon](https://www.elainah.com/products/oversized-padded-longline-coat?variant=47542588277047)
     Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6685.jpg?v=1744276249
-    Price: £75.99 GBP
-- [Women's Khaki Full-Length Maxi Quilted Padded Coat | Elaina Fashion](https://www.elainah.com/products/longline-quilted-coat-khaki): Stay warm with the Elaina Fashion Women's Khaki Full-Length Maxi Quilted Padded Coat. Made from 100% nylon, this oversized winter coat features a full zip.
-  Updated: 2026-11-03T21:15:36Z
-  Vendor: Elaina Fashion
-  Product Type: Coat
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6741.jpg?v=1744276254
-  - [S/M / Khaki / 100% Nylon](https://www.elainah.com/products/longline-quilted-coat-khaki?variant=47542572220727)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6741.jpg?v=1744276254
-    Price: £75.99 GBP
-  - [M/L / Khaki / 100% Nylon](https://www.elainah.com/products/longline-quilted-coat-khaki?variant=47542572253495)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-6741.jpg?v=1744276254
     Price: £75.99 GBP
 - [Women's Pink Knitted Roll Neck Midi Jumper Dress | Elaina Fashion](https://www.elainah.com/products/polar-neck-jumper-dress): Elaina Fashion's pink soft knitted midi jumper dress features a high roll neck, slim fit, side slits and a belt for a cozy yet stylish look.
   Updated: 2026-10-30T16:38:10Z
@@ -1275,7 +1261,7 @@
     Availability: Available
     Price: £32.99 GBP
 - [Women's Beige PU Faux Leather Fringed Jacket | Elaina Fashion](https://www.elainah.com/products/pu-tassel-jackets): Elaina Fashion beige PU faux leather fringed jacket featuring an elegant tassel design, slim fit waist, and wind-resistant fabric for versatile style.
-  Updated: 2026-10-30T16:38:26Z
+  Updated: 2026-11-13T16:25:43Z
   Vendor: Elaina Fashion
   Product Type: jacket
   Availability: Available
@@ -2103,7 +2089,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-2004.jpg?v=1744276571
     Price: £27.99 GBP
 - [PU Faux Leather Oversized Dad Blazer - Black | Elaina Fashion](https://www.elainah.com/products/pu-jacket): Elevate your autumn attire with the Elaina Fashion oversized dad blazer. This black PU faux leather jacket features a button front for a retro streetwear look.
-  Updated: 2026-11-02T17:21:26Z
+  Updated: 2026-11-12T12:14:14Z
   Vendor: Elaina Fashion
   Product Type: Coat
   Availability: Available
@@ -2319,7 +2305,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ElainaFAshionOrangePeel2.jpg?v=1744276606
     Price: £18.99 GBP
 - [Women's Tie-Dye Ribbed Slim Fit Long Sleeve Crop Top | Elaina Fashion](https://www.elainah.com/products/womens-round-neck-tie-dye-ribbed-slim-fit-long-sleeve-sport-top-with-midriff-and-thumb-hole-casual-sexy-yoga-running-workout-crop-top-stylish-activewear-sportswear): Elaina Fashion Women's Tie-Dye Ribbed Slim Fit Long Sleeve Crop Top. Moisture-wicking, seamless activewear with thumb holes for yoga, gym, and workouts.
-  Updated: 2026-11-04T21:31:46Z
+  Updated: 2026-11-11T17:21:32Z
   Vendor: Elaina Fashion
   Product Type: Crop Top
   Availability: Available
@@ -2487,7 +2473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/Elainafashionmaxiskirt2.jpg?v=1744276676
     Price: £15.99 GBP
 - [Women's Tie Dye Corset Crop Top & Palazzo Pants Set | Elaina Fashion](https://www.elainah.com/products/womens-tie-dye-corset-full-sleeve-crop-top-high-waist-wide-flared-leg-palazzo-trouser-pants-2-piece-set-casual-summer-club-party-street-wear-co-ord-outfit): Elaina Fashion's tie dye 2-piece set features a corset crop top with balloon sleeves and high-waist wide flared palazzo pants in breathable polyester.
-  Updated: 2026-10-30T16:40:49Z
+  Updated: 2026-11-07T19:27:32Z
   Vendor: Elaina Fashion
   Product Type: co ord set
   Availability: Available
@@ -2611,7 +2597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ElainaFashionwhiteshorts01.jpg?v=1744276701
     Price: £16.99 GBP
 - [Women's Beige Satin Corset Wrap Tube Crop Top | Elaina Fashion](https://www.elainah.com/products/womens-beige-satin-sleeveless-corset-wrap-tube-push-up-pad-less-tight-cami-vest-bustier-off-shoulder-crop-top-club-summer-outerwear-blouse): This Elaina Fashion beige satin corset wrap tube top features an off-shoulder design and back zip closure. Soft, breathable, and ideal for parties or clubs.
-  Updated: 2026-10-30T16:41:05Z
+  Updated: 2026-11-11T17:21:32Z
   Vendor: Elaina Fashion
   Product Type: Top
   Availability: Available
@@ -2795,7 +2781,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-1841.jpg?v=1744276793
     Price: £19.99 GBP
 - [Champagne Satin Pyjama Set for Women | Elaina Fashion](https://www.elainah.com/products/champagne-satin-pajama-set-elegant-comfortable-sleepwear-for-women): Experience luxury with the Elaina Fashion Champagne Satin Pyjama Set. Features a short-sleeve button-down top and full-length pants in breathable satin fabric.
-  Updated: 2026-11-05T19:23:37Z
+  Updated: 2026-11-12T12:36:47Z
   Vendor: Elaina Fashion
   Product Type: Loungewear pjs
   Availability: Available
@@ -2930,7 +2916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-1780.jpg?v=1744276927
     Price: £24.99 GBP
 - [Women's Black High Waisted Skinny Fit Stretch Jeggings | Elaina Fashion](https://www.elainah.com/products/womens-dark-blue-high-waisted-skinny-fit-stretch-jeans-jeggings-with-elasticated-waist-smart-casual-summer-fashion-trousers-copy): Elaina Fashion Women's Black High Waisted Skinny Fit Stretch Jeggings combine the look of denim with an elasticated waist for a comfortable, sleek silhouette.
-  Updated: 2026-11-05T21:15:38Z
+  Updated: 2026-11-12T21:28:07Z
   Vendor: ElainaUK
   Product Type: Jeans
   Availability: Available
@@ -3026,7 +3012,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-3408.jpg?v=1744277014
     Price: £18.99 GBP
 - [Long-Sleeve Heavy Sequin Mini Dress with Front Slit | Elaina Fashion](https://www.elainah.com/products/elegant-long-sleeve-heavy-sequin-mini-dress-with-front-slit): Elaina Fashion's long-sleeve heavy sequin mini dress features a cowl neckline, ruched detailing, and a front slit for a sophisticated, shimmering look.
-  Updated: 2026-11-04T12:35:32Z
+  Updated: 2026-11-12T21:23:42Z
   Vendor: Elaina Fashion
   Product Type: Dresses
   Availability: Available
@@ -3122,7 +3108,7 @@
     Image: https://cdn.shopify.com/s/files/1/0811/7832/9399/files/ELAINE-1423.jpg?v=1744277038
     Price: £24.99 GBP
 - [Premium Men's Double-Breasted Trench Coat | Elaina Fashion](https://www.elainah.com/products/elaina-premium-mens-double-breasted-wool-blend-trench-coat): Elevate your look with the Elaina Fashion Premium Men's Double-Breasted Trench Coat in brown, featuring a wool blend fabric and a bold checkered pattern.
-  Updated: 2026-11-02T15:45:38Z
+  Updated: 2026-11-12T12:36:31Z
   Vendor: Elaina Fashion
   Product Type: jacket
   Availability: Available
@@ -3147,16 +3133,16 @@
 ## Collections
 
 - [DRESSES](https://www.elainah.com/collections/dress): Shop women's dresses at Elaina Fashion. Explore 95+ styles including midi, maxi & occasionwear. Free UK delivery available.
-  Updated: 2026-11-04T12:41:03Z
-  Total Products: 95
+  Updated: 2026-11-13T12:36:43Z
+  Total Products: 96
 - [LOUNGEWEAR](https://www.elainah.com/collections/knightwear): Shop women's loungewear & pyjama sets at Elaina Fashion. Cosy lounge sets, nightwear & co-ords. Perfect for relaxing in style.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 60
 - [CARDIGAN & JUMPERS](https://www.elainah.com/collections/sweat-tops): Shop women's cardigans & jumpers at Elaina Fashion. Chunky knits, ribbed cardigans & cosy jumpers for effortless autumn style.
-  Updated: 2026-11-04T12:41:03Z
+  Updated: 2026-11-07T12:40:31Z
   Total Products: 36
 - [TOPS & BODYSUITS](https://www.elainah.com/collections/tops): Shop women's tops & bodysuits at Elaina Fashion. Trendy crop tops, going-out tops & sleek bodysuits. Free UK delivery available.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-10T12:36:40Z
   Total Products: 43
 - [TROUSERS](https://www.elainah.com/collections/trousers): Shop women's trousers at Elaina Fashion. Wide-leg, tailored & cargo trousers in stylish cuts for every occasion.
   Updated: 2026-10-30T15:42:46Z
@@ -3168,79 +3154,79 @@
   Updated: 2026-11-01T12:43:27Z
   Total Products: 13
 - [BLOUSE](https://www.elainah.com/collections/blouse): Shop women's blouses at Elaina Fashion. Flowy, fitted & printed blouses perfect for work, brunch or a night out.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-12T12:34:06Z
   Total Products: 11
 - [JUMP SUIT](https://www.elainah.com/collections/jump-suit): Shop women's jumpsuits at Elaina Fashion. Elegant, casual & occasion jumpsuits in stunning styles. Free UK delivery available.
   Updated: 2026-10-30T15:42:59Z
   Total Products: 7
 - [ACTIVEWEAR](https://www.elainah.com/collections/activewear): Shop women's activewear at Elaina Fashion. Gym leggings, sports bras & workout sets designed for performance and style.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-12T12:34:06Z
   Total Products: 19
 - [COATS & JACKETS](https://www.elainah.com/collections/coats-jackets): Shop women's coats & jackets at Elaina Fashion. From winter coats to lightweight jackets — stay stylish whatever the season.
-  Updated: 2026-11-04T12:41:03Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 16
 - [JEGGINGS & JEANS](https://www.elainah.com/collections/jeggings): Shop women's jeggings & jeans at Elaina Fashion. High-waisted jeggings, skinny jeans & more. Stylish fits for every occasion.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 33
 - [BLAZERS](https://www.elainah.com/collections/blazers): Shop women's blazers at Elaina Fashion. Tailored, oversized & co-ord blazers for work or going out. Stylish fits for every look.
-  Updated: 2026-10-30T15:43:03Z
+  Updated: 2026-11-08T12:34:03Z
   Total Products: 3
 - [HOODIES & SWEATS](https://www.elainah.com/collections/hoodies-sweats): Shop women's hoodies & sweatshirts at Elaina Fashion. Cosy oversized hoodies, pullover sweats & more. Free UK delivery available.
   Updated: 2026-10-30T15:43:04Z
   Total Products: 4
 - [Co-ord sets](https://www.elainah.com/collections/co-ord-sets): Shop women's co-ord sets at Elaina Fashion. Matching two-piece sets in bold prints & neutral tones. Effortlessly put-together looks.
-  Updated: 2026-11-05T14:51:37Z
+  Updated: 2026-11-11T12:41:03Z
   Total Products: 18
 - [OUR FAVES](https://www.elainah.com/collections/our-faves): Shop Elaina Fashion's favourite picks. Our most-loved women's styles — handpicked outfits & bestselling pieces you'll adore.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 28
 - [LATEST COLLECTION](https://www.elainah.com/collections/latest-collection): Discover Elaina Fashion's latest collection. New women's clothing arrivals — dresses, tops, co-ords & more. Shop new in now.
-  Updated: 2026-11-05T12:47:57Z
-  Total Products: 249
+  Updated: 2026-11-13T12:36:43Z
+  Total Products: 250
 - [WOMENS](https://www.elainah.com/collections/womens): Shop all women's clothing at Elaina Fashion. Dresses, tops, jeans, co-ords & more. Stylish women's fashion with free UK delivery.
-  Updated: 2026-11-05T14:51:37Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 319
 - [MENS](https://www.elainah.com/collections/mens): Shop men's clothing at Elaina Fashion. Tracksuits, co-ords, sweatshirts, pyjamas & more. Fresh men's styles with free UK delivery.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 63
 - [Men's Coats & Jackets](https://www.elainah.com/collections/mens-jackets): Shop men's coats & jackets at Elaina Fashion. Puffer jackets, overcoats & casual styles for every season. Free UK delivery.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-10T12:36:40Z
   Total Products: 9
 - [Mens Tops](https://www.elainah.com/collections/mens-tops): Shop men's tops at Elaina Fashion. T-shirts, polo shirts & casual tops in fresh styles. Free UK delivery on men's fashion.
-  Updated: 2026-10-30T15:43:24Z
+  Updated: 2026-11-10T12:36:40Z
   Total Products: 19
 - [Men's Sweatshirts](https://www.elainah.com/collections/mens-sweatshirts): Shop men's sweatshirts at Elaina Fashion. Crew neck, zip-up & oversized sweatshirts in cosy fabrics. Free UK delivery available.
   Updated: 2026-10-30T15:43:28Z
   Total Products: 5
 - [Men's Tracksuit](https://www.elainah.com/collections/mens-tracksuit): Shop men's tracksuits at Elaina Fashion. Matching jogger sets & tracksuit bottoms in stylish designs. Free UK delivery available.
-  Updated: 2026-10-31T11:33:38Z
+  Updated: 2026-11-08T12:34:03Z
   Total Products: 2
 - [Mens Co-ords](https://www.elainah.com/collections/mens-co-ords): Shop men's co-ord sets at Elaina Fashion. Matching two-piece sets for a sharp, effortless look. Free UK delivery available.
-  Updated: 2026-10-30T15:43:35Z
+  Updated: 2026-11-06T12:38:22Z
   Total Products: 10
 - [APPPlaza - Best Sellers](https://www.elainah.com/collections/appplaza-best-sellers): Explore Our Best Sellers Collection Discover the most popular products chosen by our community in this best sellers collection. Shop our top-rated fashion essentials today. Our curated selection highlights the items our customers love most. These pieces combine premium quality, modern style, and daily functionality. Each product has earned its place through consistent demand. We prioritize high-performance items that deliver lasting value and a luxury experience. Whether you are searching for a versatile wardrobe staple or a unique gift, these customer favorites are a reliable and stylish starting point. Explore the trends currently shaping the season. We regularly update this list to reflect the latest preferences of our global fashion community. Finding the perfect piece is easier when you see what others adore. Browse our top picks to find your next favorite wardrobe addition. Quality craftsmanship and timeless design define every item in this range. Experience the same satisfaction as thousands of our happy shoppers. Navigate through our most sought-after styles with ease. Elevate your look with the most trusted and popular choices from Elaina Fashion.
-  Updated: 2026-11-05T14:51:37Z
-  Total Products: 435
+  Updated: 2026-11-13T12:36:43Z
+  Total Products: 436
 - [Hats](https://www.elainah.com/collections/hats): Shop hats & headwear at Elaina Fashion. Bucket hats, beanies & caps in trending styles for men & women. Free UK delivery.
   Updated: 2026-11-02T15:39:26Z
   Total Products: 1
 - [Men's Jumpers](https://www.elainah.com/collections/mens-jumpers): Shop men's jumpers at Elaina Fashion. Knit, cable & ribbed jumpers in classic & contemporary styles. Free UK delivery available.
-  Updated: 2026-11-05T12:47:57Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 11
 - [New! Shopify performance sharing is now turned on](https://www.elainah.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-05T14:51:37Z
-  Total Products: 443
+  Updated: 2026-11-13T12:36:43Z
+  Total Products: 444
 - [MENS PAJAMAS](https://www.elainah.com/collections/mens-pajamas): Shop men's pyjamas at Elaina Fashion. Comfortable pyjama sets, bottoms & nightwear in soft fabrics. Free UK delivery available.
-  Updated: 2026-11-03T12:42:27Z
+  Updated: 2026-11-13T12:36:43Z
   Total Products: 2
 - [Mens Trousers](https://www.elainah.com/collections/mens-trousers): Shop men's trousers at Elaina Fashion. Slim, regular & relaxed fit trousers in smart & casual styles. Free UK delivery available.
-  Updated: 2026-11-02T15:37:42Z
+  Updated: 2026-11-10T12:36:40Z
   Total Products: 4
 - [Recommended Products (Wiz Email)](https://www.elainah.com/collections/recommended-products-wiz-email): This collection was generated by Wiz for internal app use. It won't appear on your storefront or other sales channels. It automatically includes your best- products that are in stock.
-  Updated: 2026-11-05T22:35:06Z
-  Total Products: 318
+  Updated: 2026-11-13T12:36:43Z
+  Total Products: 317
 - [REELUP (DO NOT DELETE)](https://www.elainah.com/collections/reelup-do-not-delete): Explore the REELUP collection at Elaina Fashion.
-  Updated: 2026-10-30T16:54:22Z
+  Updated: 2026-11-07T12:40:31Z
   Total Products: 7
 
 ## Blogs
