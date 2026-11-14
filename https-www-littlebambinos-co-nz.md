@@ -6,12 +6,12 @@
 - Timezone: Pacific/Auckland
 - Created At: 2014-08-05T01:45:52Z
 - Contact Email: info@littlebambinos.co.nz
-- Updated At: 2026-11-06T00:52:33.955Z
+- Updated At: 2026-11-14T00:50:03.913Z
 
 ## Products
 
 - [TINY TROVE Woodie Logo Tracksuit - Fawn](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-fawn): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature black logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm Â WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2026-08-28T20:30:10Z
+  Updated: 2026-11-08T21:01:20Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
@@ -38,7 +38,7 @@
     Availability: Available
     Price: $80.00 NZD
 - [TINY TROVE Woodie Logo Tracksuit - Chalk](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-chalk): The cutest tracksuits for your little ones! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature black logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Sweater: crew neck, long sleeves and a ribbed hem and cuffs Pants: elasticated waistband, a slip-on style, a straight leg and fitted cuffs 100% fleece cotton SIZING 3-6m Top Length: 35cm Sleeve length: 21cm Waist: 19cm Pant length: 43.5cm 6-12m Top Length: 37cm Sleeve length: 23cm Waist: 20cm Pant length: 46cm Â 12-18m Top Length: 39cm Sleeve length: 25cm Waist: 21cm Pant length: 48.5cm 2Y Top Length: 41cm Sleeve length: 27cm Waist: 22cm Pant length: 51cm 3Y Top Length: 43cm Sleeve length: 29cm Waist: 23cm Pant length: 53.5cm 4Y Top Length: 45cm Sleeve length: 31cm Waist: 24cm Pant length: 57cm 5Y Top Length: 47cm Sleeve length: 33cm Waist: 25cm Pant length: 61cm WASH CARE Due to the delicate nature of the fabric we recommend a gentle hand wash (or gentle machine wash in a laundry bag) and line dry in the shade only.
-  Updated: 2026-08-28T20:30:11Z
+  Updated: 2026-11-08T21:01:19Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
@@ -65,7 +65,7 @@
     Availability: Available
     Price: $80.00 NZD
 - [TINY TROVE Face Socks - Lime](https://www.littlebambinos.co.nz/products/tiny-trove-face-socks-lime): Socks that will make you smile!Â 100% cotton elastane SIZING S (0-12m) M (1y-3y) L (3y-5y) WASH CARE Gentle machine wash and line dry in shade only
-  Updated: 2026-08-28T20:30:11Z
+  Updated: 2026-11-08T21:01:19Z
   Vendor: Tiny Trove
   Product Type: Socks
   Availability: Available
@@ -80,14 +80,14 @@
     Availability: Not Available
     Price: $11.00 NZD
 - [ELLE PORTE Daisy Sunglasses - Orange Fizz](https://www.littlebambinos.co.nz/products/elle-porte-daisy-sunglasses-orange-fizz): Daisy shaped sunglasses to fit ages 18 months to 7 years. These novelty toy sunglasses are perfect for dress ups and photo shoots! DETAILS UV400 Lead free SIZE Frame width 12.5 cm Frame height 5.5 cm Arm length 11 cm
-  Updated: 2026-08-28T22:28:06Z
+  Updated: 2026-11-08T21:01:19Z
   Vendor: Elle Porte
   Product Type: Sunglasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/OrangeFizz1.jpg?v=1594112040
   Price: $10.00 NZD
 - [BIBS Pacifier - Natural Rubber - Blush](https://www.littlebambinos.co.nz/products/bibs-blush-two-pack): The BIBS pacifier has been a bestseller for more than 30 years. The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding.
-  Updated: 2026-10-16T15:13:35Z
+  Updated: 2026-11-08T21:01:18Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -99,7 +99,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [BIBS Pacifier - Natural Rubber - Sage](https://www.littlebambinos.co.nz/products/bibs-sage-two-pack): The BIBS pacifier has been a bestseller for more than 30 years. The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding.
-  Updated: 2026-10-16T15:13:35Z
+  Updated: 2026-11-08T21:01:18Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -111,7 +111,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [BIBS Pacifiers Sky Blue Two Pack](https://www.littlebambinos.co.nz/products/bibs-sky-blue-two-pack): The BIBS pacifier has been a bestseller for more than 30 years. The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding. The round light shield faces away from the babyÃ¢â‚¬â„¢s face to ensure the supply of air to the sensitive skin around the mouth. The pacifiers are all made of highest quality and are completely free from BPA, PVC and phthalates.
-  Updated: 2026-10-16T15:13:35Z
+  Updated: 2026-11-08T21:01:18Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -123,7 +123,7 @@
     Availability: Not Available
     Price: $22.00 NZD
 - [BIBS Pacifier - Natural Rubber - Heather](https://www.littlebambinos.co.nz/products/bibs-heather-two-pack): The BIBS pacifier has been a bestseller for more than 30 years. The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a mothers breast and is therefore recommended by midwifes to support natural breastfeeding. The round light shield faces away from the babys face to ensure the supply of air to the sensitive skin around the mouth. The pacifiers are all made of highest quality and are completely free from BPA, PVC and phthalates. Recommended to replace after 4-6 weeks of regular use. SIZING Size 1 Suitable from newborn until 6 months of age Nipple: H:27 mm x W:15 mmShield diameter: 4.5cm Size 2Labelled as 6-18 months, but are suitable from newborn as per the manufacturers recommendation.Nipple: H:30 mm x W:14 mmShield diameter: 4.5cm Sizing recommendations above are an approx. age for each size, this should only be used as a guideline. The anatomy of small children is different, and some children prefer a larger or smaller nipple. We therefore advise you to try what fits your baby. KEY FEATURES Nipple shape: 100% Natural Rubber 'Cherry' shaped nipple like mothers breast, the favourite pacifier for most children. Design: Iconic round lightweight shield, with a visible gathering. Safety & Care: Compliant with the highest of safety standards. Quality: Designed and made in Denmark. MATERIALS The nipple is produced from natural rubber latex. The rubber is a natural material colour variations may occur. The shield is made of polypropylene (PP) a very light plastic material with a high strength and is extremely wear-resisting. CARE INSTRUCTIONS Always inspect the product carefully before each use. Discard it at the first sign of damage or weakness. Never attach ribbons or cords to a pacifier, your baby could be strangled by them. Do not store pacifier in direct sunlight. How to sterilise the pacifiers: Put the pacifiers in a clean bowl Pour boiling water over them. Leave to sit for approx. 5 mins. Take them out and let them dry on a clean towel. Use towel to press excess water out of the nipple. How often should you clean them? 0-3 months: Must be sterilised every time it has been on the floor and at least once a day. 3+ months: Sterilise pacifier once a day and rinse under cold tap if it has been on the floor.
-  Updated: 2026-10-16T15:13:35Z
+  Updated: 2026-11-08T21:01:17Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -135,7 +135,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [BIBS Pacifier - Natural Rubber - Sand](https://www.littlebambinos.co.nz/products/bibs-sand-two-pack): BIBS dummies. The BIBS pacifier has been a bestseller for more than 30 years.&nbsp; The natural soft latex cherry shaped nipple and matte lightweight shield is designed to be the most similar shape to a motherÃ¢â‚¬â„¢s breast and is therefore recommended by midwifes to support natural breastfeeding. The round light shield faces away from the babyÃ¢â‚¬â„¢s face to ensure the supply of air to the sensitive skin around the mouth.
-  Updated: 2026-10-16T15:13:36Z
+  Updated: 2026-11-08T21:01:17Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -147,7 +147,7 @@
     Availability: Available
     Price: $22.00 NZD
 - [TOSHI Flap Cap Baby - Sage](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-sage): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Sage features a khaki green stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2026-10-23T02:06:25Z
+  Updated: 2026-11-13T02:55:56Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -165,7 +165,7 @@
     Availability: Not Available
     Price: $34.00 NZD
 - [TOSHI Flap Cap Baby - Blush](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-blush): The cute Toshi Flap Cap Baby has a neck flap for increased sun protection. A head tie creates adjustable sizing and the chin tie secures the cap. Made from quality cotton, the Flap Cap Baby is functional, practical and gentle to wear. DETAILS Head tie for adjustable sizing Chin ties to secure hat 100% cotton (polyester/cotton lining) SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
-  Updated: 2026-11-03T04:29:25Z
+  Updated: 2026-11-09T23:36:31Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Available
     Price: $34.00 NZD
 - [TOSHI Flap Cap Baby - Sky](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-sky): The cute Toshi Flap Cap Baby has a neck flap for increased sun protection. A head tie creates adjustable sizing and the chin tie secures the cap. Made from quality cotton, the Flap Cap Baby is functional, practical and gentle to wear. DETAILS Head tie for adjustable sizing Chin ties to secure hat 100% cotton (polyester/cotton lining) SIZINGÂ Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2026-08-28T22:32:20Z
+  Updated: 2026-11-08T21:01:14Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
@@ -231,28 +231,28 @@
     Availability: Available
     Price: $500.00 NZD
 - [HONEYSTICKS Bath Crayons Super Jumbos 7pk](https://www.littlebambinos.co.nz/products/honeysticks-bath-crayons): Add a splash of creativity to your little one’s bath time with Honeysticks Bath Crayons Super Jumbos 7pk. Made with 100% pure New Zealand beeswax and soy wax, these chunky crayons are safe on skin, gentle on the planet, and a joy for curious young creators. Made with nothing nasty: Crafted in New Zealand using natural and food-grade ingredients – no paraffin wax, no artificial fillers. Spark their imagination: With seven vibrant colours to explore, kids can doodle, mix, and colour their way through bath time. Chunky, durable and easy to hold: Extra-long and easy to hold (10cm x 2cm), these crayons are designed for toddlers aged 1+. Wipe off, walk away: Colours rinse away easily with warm water and a soft cloth – no scrubbing needed. Designed for bathroom play: Packaged in a resealable, drainable canister that’s plastic-free and doubles as a fun bath-time sprinkler toy. Handcrafted by families, for families: Designed by parents who believe in a better way to play, Honeysticks Super Jumbo Bath Crayons are lovingly handmade in New Zealand to encourage creative expression from the very first scribble. Also available: Our easy-grip Triangle Bath Crayons – perfect for first-time scribblers.
-  Updated: 2026-11-01T02:23:23Z
+  Updated: 2026-11-08T21:01:14Z
   Vendor: Honeysticks
   Product Type: Crayon
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Bath_Crayons_SJs_31be637a-dfe8-48f1-b523-69f9617c921b.webp?v=1763600322
   Price: $23.95 NZD
 - [HONEYSTICKS Bath Drops Colour Magic](https://www.littlebambinos.co.nz/products/honeysticks-bath-colour-drops): Drop. Fizz. Wonder. Transform the tub into a canvas of colour with Honeysticks Bath Drops Colour Magic 36pk. Crafted with care from food-grade ingredients, these fizzy little wonders invite mini creators to swirl, mix and explore – all while soaking up safe, sensory fun. Pure fizz, endless colour: Each tin includes 36 vibrant drops in red, yellow and blue – perfect for colour mixing, mini science experiments, or simply adding a splash of joy to bath time. No fragrance. No residue. Just fizzy fun made from cosmetic- and food-grade colourants. No nasties, just pure creativity: Handmade in New Zealand using safe, food-grade ingredients like baking soda, citric acid, plant fibres and binders. We use only food- and cosmetic-grade pigments for colour – formulated for peace of mind and gentle on the skin. Fragrance-free, worry-free. No mess, no stains: Designed for worry-free play – no staining on skin, tubs, or towels. More than a bath toy: Great for water play, sensory setups and creative activities outside the tub, too. Ready to gift (or refill): Comes in a cheerful, recyclable tin that’s made to reuse, refill or repurpose. Planet-friendly, parent-: Crafted by a team of New Zealand parents who believe in a better way to play – safe for little ones and kinder to the planet.
-  Updated: 2026-11-01T02:24:51Z
+  Updated: 2026-11-08T21:01:13Z
   Vendor: Honeysticks
   Product Type: Bath Toysss
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Bath_Drops_36pk.webp?v=1763600117
   Price: $24.95 NZD
 - [HONEYSTICKS Natural Watercolour Paints](https://www.littlebambinos.co.nz/products/honeysticks-natural-watercolour-paints): Introducing the safer paint option for little artists - Honeysticks Watercolour Paints. A perfect introduction to painting! 100% non-toxic for peace of mind: Handmade in New Zealand using non-toxic and food-grade ingredients. 8 vibrant colours to ignite creativity: Each Watercolour Paint Palette contains 8 vibrant and long-lasting colours, including yellow, red, pink, purple, green, blue, brown and orange. Natural paintbrush included: Including a non-toxic paintbrush crafted from natural wood and vegan bristles. Perfect eco-friendly gift set: Beautifully packaged in a recyclable metal tin, Honeysticks Watercolour Paint Set will make a thoughtful gift for the little artist in your life (ages 3+).
-  Updated: 2026-11-01T02:31:21Z
+  Updated: 2026-11-08T21:01:13Z
   Vendor: Honeysticks
   Product Type: Paints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/Paintbrushes_02.webp?v=1734049869
   Price: $17.95 NZD
 - [KONGES SLOJD Newborn Body - Cherry](https://www.littlebambinos.co.nz/products/konges-slojd-new-born-body-poire): Body made of 100% organic GOTS- cotton CARE Washable at 30 degrees C
-  Updated: 2026-10-16T15:13:40Z
+  Updated: 2026-11-08T21:01:13Z
   Vendor: Konges slojd
   Product Type: Bodysuit
   Availability: Available
@@ -264,21 +264,21 @@
     Availability: Not Available
     Price: $43.99 NZD
 - [MARMAR COPENHAGEN Primo Pants - Forrest Shadow](https://www.littlebambinos.co.nz/products/marmar-copenhagen-primo-pants-forrest-shadow): Â Cool chinos with pockets and belt straps. High quality and a good fit. Easy to dress up or down depending on the occasion. DETAILS 97% Cotton 3% Elasthane CARE Machine wash 30Â°C Wash with similar colours Wash inside out Close all fastenings before cleaning Before wearing wash separately Do not bleach Do not tumble dry Iron on reverse whilst damp Dry cleaning possible
-  Updated: 2026-08-28T22:30:02Z
+  Updated: 2026-11-08T21:01:12Z
   Vendor: MarMar Copenhagen
   Product Type: Bottoms
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/211-264-02-0557copy.jpg?v=1611355090
   Price: $35.00 NZD
 - [TOSHI Organic Baby Socks - Rose](https://www.littlebambinos.co.nz/products/toshi-organic-socks-rose): Toshi presents a beautifully curated collection of organic cotton baby socks. Crafting of the socks evolves from a blend of finely textured organic cotton melange yarn. The cotton yarn is  organic and this ensures Toshi socks are gentle on delicate baby feet, as well as our precious environment.
-  Updated: 2026-08-28T22:32:29Z
+  Updated: 2026-11-08T21:01:11Z
   Vendor: Toshi
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SOC_OJA_ROS_A_Toshicopy.jpg?v=1617843226
   Price: $6.99 NZD
 - [POUDRE ORGANIC Bonnet - Fleurs](https://www.littlebambinos.co.nz/products/poudre-organic-bonnet-fleurs): Adorable bonnet for newborns. Poudre Organic is a french label that focuses on making sustainable clothing for children. Made in Portugal.
-  Updated: 2026-08-28T22:31:07Z
+  Updated: 2026-11-08T21:01:11Z
   Vendor: Poudre Organic
   Product Type: Baby Hats
   Availability: Available
@@ -290,7 +290,7 @@
     Availability: Available
     Price: $10.00 NZD
 - [POUDRE ORGANIC Bonnet - Blue Surf](https://www.littlebambinos.co.nz/products/poudre-organic-bonnet-blue-surf): Adorable bonnet for newborns. Poudre Organic is a french label that focuses on making sustainable clothing for children. Made in Portugal.
-  Updated: 2026-08-28T22:31:07Z
+  Updated: 2026-11-08T21:01:10Z
   Vendor: Poudre Organic
   Product Type: Baby Hats
   Availability: Available
@@ -302,7 +302,7 @@
     Availability: Available
     Price: $10.00 NZD
 - [POUDRE ORGANIC Bonnet - Lipstick](https://www.littlebambinos.co.nz/products/poudre-organic-bonnet-lipstick): Adorable bonnet for newborns. DETAILS 100% cotton from organic farming Made in Portugal SIZE True to size, choose the size you usually wear.
-  Updated: 2026-08-28T22:31:08Z
+  Updated: 2026-11-08T21:01:10Z
   Vendor: Poudre Organic
   Product Type: Baby Hats
   Availability: Available
@@ -314,7 +314,7 @@
     Availability: Not Available
     Price: $10.00 NZD
 - [POUDRE ORGANIC T-Shirt - Honey](https://www.littlebambinos.co.nz/products/poudre-organic-t-shirt-honey): Cute short-sleeved t-shirtÂ with a round neck. DETAILS 100% cotton from organic farming Made in Portugal SIZE True to size, choose the size you usually wear.
-  Updated: 2026-08-28T22:31:09Z
+  Updated: 2026-11-08T21:01:10Z
   Vendor: Poudre Organic
   Product Type: T-Shirtss
   Availability: Available
@@ -332,7 +332,7 @@
     Availability: Not Available
     Price: $14.00 NZD
 - [POUDRE ORGANIC Waffle Leggings - Indian Tan](https://www.littlebambinos.co.nz/products/poudre-organic-rib-leggings-indian-tan): Super comfy and practical waffle leggings for babies and children. Made from 100% cotton from organic farms. Poudre Organic is a french label that focuses on making sustainable clothing for children. Made in Portugal.
-  Updated: 2026-08-28T22:31:09Z
+  Updated: 2026-11-08T21:01:09Z
   Vendor: Poudre Organic
   Product Type: Leggings
   Availability: Available
@@ -356,7 +356,7 @@
     Availability: Not Available
     Price: $9.99 NZD
 - [MARMAR COPENHAGEN Booties - Cornfield](https://www.littlebambinos.co.nz/products/marmar-copenhagen-booties-cornfield): Small booties to keep your baby's feet warm. DETAILS Standard 100 by OEKO-TEXÂ®  Quality: 47% TENCELâ„¢ Modal 47% Cotton 6% Elasthane CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2026-08-28T22:30:01Z
+  Updated: 2026-11-08T21:01:09Z
   Vendor: MarMar Copenhagen
   Product Type: Booties
   Availability: Available
@@ -368,7 +368,7 @@
     Availability: Available
     Price: $10.00 NZD
 - [MARMAR COPENHAGEN Hat - Hay Stripe](https://www.littlebambinos.co.nz/products/marmar-copenhagen-hat-hay-stripe): Beanie in a very soft quality.Â DETAILS Standard 100 by OEKO-TEXÂ®  Quality: 47% TENCELâ„¢ Modal 47% Cotton 6% Elasthane SIZE S (48-50 cm) Approx 6 - 2 years MÂ (52-54 cm) ApproxÂ 2 yearsÂ - small grown ups L (56-58 cm) Big kids CARE Machine wash 40Â°C Wash with similar colours Wash inside out Wash in meshbag Close all fastenings before cleaning Do not bleach Do not tumble dry Iron on reverse Dry cleaning possible
-  Updated: 2026-08-28T22:30:01Z
+  Updated: 2026-11-08T21:01:09Z
   Vendor: MarMar Copenhagen
   Product Type: Hats
   Availability: Available
@@ -383,7 +383,7 @@
     Availability: Available
     Price: $9.00 NZD
 - [RYLEE + CRU Terry Henly - Sunrise](https://www.littlebambinos.co.nz/products/rylee-cru-terry-henly-sunrise): A Rylee + Cru relaxed fit henley sweatshirt made of the coziest French Terry. This henley includes a wooden button placket. Shop Rylee + Cru for kids. Free shipping within New Zealand on orders over $100.
-  Updated: 2026-08-28T22:31:50Z
+  Updated: 2026-11-08T21:01:08Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
@@ -395,35 +395,35 @@
     Availability: Not Available
     Price: $14.99 NZD
 - [MOONIE Organic Humming Bear 2.0 - Sand](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-sand): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of  organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-10-29T20:21:10Z
+  Updated: 2026-11-08T21:01:07Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/03_SANDNATUR.jpg?v=1706577297
   Price: $149.00 NZD
 - [MOONIE Organic Humming Bear 2.0 - Cappuccino](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-cappuccino): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of  organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-11-05T19:58:45Z
+  Updated: 2026-11-08T21:01:06Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/01_CAPPUCCINONATUR.jpg?v=1706577199
   Price: $149.00 NZD
 - [SUSUKOSHI Headband - Terracotta Pointelle](https://www.littlebambinos.co.nz/products/susukoshi-headband-terracotta-pointelle): Beautiful super stretchy headbands that is a perfect match with Susukoshi collections. Made from 95% organic cotton, 5% elastane and organic dye. Designed in Australia, ethically made in China. Fully adjustable with great stretch. Free shipping within NZ on orders over $100.
-  Updated: 2026-08-28T22:32:06Z
+  Updated: 2026-11-08T21:01:06Z
   Vendor: Susukoshi
   Product Type: Hair Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/HBTerracotta.jpg?v=1627025502
   Price: $7.00 NZD
 - [TOSHI Baby Swim Flap Cap - Twilight](https://www.littlebambinos.co.nz/products/toshi-swim-flap-cap-twilight): The gorgeous Toshi swim flap cap features a contoured neck flap for enhanced sun protection, head tie for adjustable sizing and chin tie to secure the hat. Most importantly, the classic flap cap has a well structured brim that maintains shape when wet. The Twilight print features a flock of seagulls gliding in a magical coastal sunset.
-  Updated: 2026-08-28T22:32:47Z
+  Updated: 2026-11-08T21:01:04Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SwimFCMandaly4.jpg?v=1627177740
   Price: $20.00 NZD
 - [POUDRE ORGANIC Baby Bodysuit - Indian Tan](https://www.littlebambinos.co.nz/products/poudre-organic-bodysuit-indian-tan): A beautifully soft long sleeve bodysuit for little bubbas. Sizes 0-6m feature a crossover style with dome fastenings. Sizes 9m - 2 years are a plain style (no crossover) with domes on the crotch for easy changing. Made from 100% cotton sourced from organic farms.
-  Updated: 2026-08-28T22:31:06Z
+  Updated: 2026-11-08T21:00:59Z
   Vendor: Poudre Organic
   Product Type: Bodysuits
   Availability: Available
@@ -450,7 +450,7 @@
     Availability: Not Available
     Price: $14.99 NZD
 - [POUDRE ORGANIC Ribbed Onesie - Almond Milk](https://www.littlebambinos.co.nz/products/poudre-organic-ribbed-pyjama-onesie-almond-milk): Beautiful one-piece pyjamas for babies in a gorgeous almond rib. The Airelle style opens on the front and crotch for easy changing. Made from 100% cotton from organic farms. Made in Portugal.
-  Updated: 2026-08-28T22:31:08Z
+  Updated: 2026-11-08T21:00:59Z
   Vendor: Poudre Organic
   Product Type: Onesie
   Availability: Available
@@ -477,28 +477,28 @@
     Availability: Not Available
     Price: $29.99 NZD
 - [MOONIE Organic Humming Bear 2.0 - Polar](https://www.littlebambinos.co.nz/products/moonie-organic-humming-bear-night-lamp-polar): MOONIE the humming bear is a professional baby sleep aid, helping babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all... MOONIE is also night lamp. These special toys are made of  organic cotton and each toyâ€™s filling comes from recycled materials. Can be used from birth. Made in Poland. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:30:06Z
+  Updated: 2026-11-08T21:00:59Z
   Vendor: MOONIE
   Product Type: Sleep Aid
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/02_POLARNATUR.jpg?v=1706577355
   Price: $144.00 NZD
 - [RYLEE + CRU Knit Leggings - Sunburst](https://www.littlebambinos.co.nz/products/rylee-cru-knit-leggings-sunburst): Sunny leggings for summer days! Made from a soft knit these cosy leggings feature an elastic waistband for a perfect fit. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:31:45Z
+  Updated: 2026-11-08T21:00:58Z
   Vendor: rylee + cru
   Product Type: Leggings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RC_AW21_D1_Studio107copy.jpg?v=1753847084
   Price: $19.99 NZD
 - [LION + LAMB Eco Peace Teether](https://www.littlebambinos.co.nz/products/lion-lamb-eco-peace-teether): A beautiful eco friendly natural wood teether. Specially designed for soothing delicate sore gums when teething. Beech wood is a solid, hard timber that won't splinter and is naturally antibacterial. The Natural Beech Wood Peace Teethers are 100%  non-toxic and hand sanded to a smooth finish. Each teether is left unpolished, uncoated and untreated great for skin sensitivities and possible allergies.
-  Updated: 2026-08-28T22:29:43Z
+  Updated: 2026-11-08T21:00:57Z
   Vendor: Lion + Lamb
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Peace2.jpg?v=1633809619
   Price: $14.00 NZD
 - [QUINCY MAE Fleece Sweatshirt - Stars](https://www.littlebambinos.co.nz/products/quincy-mae-fleece-sweatshirt-stars): A soft, cosy sweatshirt in a brushed fleece. All sizes have snap closures at the shoulder for easy changing. The sweater features a star print on an ash background.  Made from 96% organic cotton, 4% elastane. Shop Quincy Mae. Free shipping on orders over $149 within New Zealand.
-  Updated: 2026-08-28T22:31:35Z
+  Updated: 2026-11-08T21:00:57Z
   Vendor: Quincy Mae
   Product Type: sweater
   Availability: Available
@@ -525,63 +525,63 @@
     Availability: Not Available
     Price: $25.99 NZD
 - [CONNETIX Bright Starter 56 Piece Magnetic Tiles | Little Bambinos](https://www.littlebambinos.co.nz/products/connetix-bright-starter-pack-56pc): CONNETIX Bright Starter Pack 56 piece magnetic tiles in eight bright colours. An ideal first set for creative building in NZ. Shop now at Little Bambinos.
-  Updated: 2026-11-03T06:33:15Z
+  Updated: 2026-11-09T00:33:45Z
   Vendor: Connetix
   Product Type: Magnetic Tiles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/56PCBrightStarterPack_Refresh.png?v=1789346135
   Price: $124.99 NZD
 - [CONNETIX Bright Mega Pack 202pc Magnetic Tiles | Little Bambinos](https://www.littlebambinos.co.nz/products/connetix-bright-mega-pack-202pc): Shop the CONNETIX Bright Mega Pack 202 piece magnetic tiles in NZ. 11 tile shapes, 8 bright colours and 2 car bases. Free NZ shipping over $149.
-  Updated: 2026-11-03T09:22:21Z
+  Updated: 2026-11-11T06:37:55Z
   Vendor: Connetix
   Product Type: Magnetic Tiles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/202BrightMegaPack_Refresh.png?v=1789344688
   Price: $349.99 NZD
 - [VIVA LA VULVA Perineal Power - Soothing Postpartum Ice Pack](https://www.littlebambinos.co.nz/products/viva-la-vulva-perineal-power-soothing-postpartum-ice-pack): Let this postpartum perineal icepack take care of down there while you take care of your baby. Viva La Vulva Postpartum Ice Packs have been specifically designed and contoured to fit down there to help you â€˜chillâ€™ comfortably. Cold therapy is a safe and natural way to soothe pain and reduce swelling from postpartum tearing, haemorrhoids and wounds. You got this mama!
-  Updated: 2026-10-16T15:14:28Z
+  Updated: 2026-11-08T21:00:56Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/freezerpackweb3-lpnraovp-5_large_7f6252de-c09d-4755-9941-fec48f88cf0a.jpg?v=1636415225
   Price: $44.95 NZD
 - [VIVA LA VULVA Peri Wash Cleansing Bottle](https://www.littlebambinos.co.nz/products/viva-la-vulva-peri-wash-cleansing-bottle): Sometimes wiping just isnâ€™t an option post birth and it stings to pee. Letâ€™s face it, itâ€™s FRAGILE AF down there! Your peri wash bottle helps dilute your urine to prevent stinging and infection. We know it looks weird, but honestly, it will be one of your go-to-best-things-ever to take care of down there after baby is born. When toilet paper feels like sandpaper, use your peri wash bottle on your stitches or tears for the first couple of weeks following your birth. Your vagina and perineum are working double-time to repair themselves. Give them a little extra help by using our easy and portable postpartum cleansing peri wash bottle.
-  Updated: 2026-08-28T22:33:29Z
+  Updated: 2026-11-08T21:00:56Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/files/VLV_Peri_wash_BottleEcom1-r79jg8jn-0_large_f46e07ad-7961-4fd3-9cec-71793a5e6ed3.png?v=1781749625
   Price: $29.95 NZD
 - [VIVA LA VULVA Breasties Therapy Packs](https://www.littlebambinos.co.nz/products/viva-la-vulva-breasties): Breastfeeding can suck the life out of you, literally. If you are finding it hard, hang in there mama, youâ€™re not alone. Itâ€™s a wild ride, and just when you think you might be getting the hang of it, BAM! engorgement, BAM! mastitis. If youâ€™re one of the lucky ones and avoidthose, no doubt your breasts might hurt in between feeds anyway. Viva La Vulva Breasties have been specifically designed to fit the contour of your breasts, sit comfortably in your bra, and even fit around your breast pump.
-  Updated: 2026-10-16T15:14:29Z
+  Updated: 2026-11-08T21:00:55Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/vlvbreastiesproductWEB8238-1w2l5kon-4_largecopy.jpg?v=1636415826
   Price: $39.95 NZD
 - [VIVA LA VULVA B(.) B(.) Balm](https://www.littlebambinos.co.nz/products/viva-la-vulva-b-b-balm): Viva La Vulva hand-blended B( . )( . )B Balm is made from all-natural ingredients in small batches. Apply a small amount after breastfeeding to help soothe and nourish dry and cracked nipples. Hand-blended from all-natural ingredients, Boob Balm is safe for mama and baby too, no need to wash it off before breastfeeding.
-  Updated: 2026-10-16T15:14:29Z
+  Updated: 2026-11-08T21:00:55Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/boobbalm-oregv8dn-2_large_287d79a0-b8c0-4a02-9066-9936ec29fcfd.jpg?v=1636416083
   Price: $39.95 NZD
 - [VIVA LA VULVA Postpartum Healing Spray](https://www.littlebambinos.co.nz/products/viva-la-vulva-healing-spray): Your vagina has just done a marathon and is in need of some R&R, Viva La Vulva will take care of you down there, so you can enjoy the precious moments with your baby. Viva La Vulva is a postpartum healing and soothing perineal spray that helps ease the discomfort of vaginal soreness and swelling.
-  Updated: 2026-10-16T15:14:29Z
+  Updated: 2026-11-08T21:00:54Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/boxpic1-Dk9Wg2pe-28_large_ad013086-a169-42f8-a37b-5af3bd55c01e.jpg?v=1636567785
   Price: $42.95 NZD
 - [VIVA LA VULVA The Good Witch Hazel Tincture](https://www.littlebambinos.co.nz/products/viva-la-vulva-the-good-witch-hazel-tincture): Viva La Vulva's all-natural The Good Witch Hazel is a must-have for every new mama. A magical potion, used for centuries, Witch Hazel heals and soothes when it feels like everything is on fire down there. It is known for its ability to reduce inflammation of sensitive skin. Not only that, it can also help prevent infection, ease pain, stop minor bleeding, alleviate itching, soothe tears after childbirth and help to relieve haemorrhoids.
-  Updated: 2026-08-28T22:33:31Z
+  Updated: 2026-11-08T21:00:54Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Witchhazelwebimage-YkNdgMpE-1_large_630e1ea6-08a0-4c89-b170-d0bc23dfbb0d.jpg?v=1636568114
   Price: $24.95 NZD
 - [WILSON & FRENCHY Organic Stripe Rib Knot Hat - Pistachio](https://www.littlebambinos.co.nz/products/wilson-frenchy-organic-stripe-rib-knot-hat-pistachio): Soft and breathable, this stretch stripe rib beanie will keep little heads warm and the adjustable top knot will ensure the perfect fit as baby grow. Made from 95% organic cotton, 5% elastane. GOTS .
-  Updated: 2026-08-28T22:33:37Z
+  Updated: 2026-11-08T21:00:54Z
   Vendor: Wilson & Frenchy
   Product Type: Hats
   Availability: Available
@@ -596,7 +596,7 @@
     Availability: Not Available
     Price: $7.00 NZD
 - [TINY TROVE Children's Tracksuit - Cinnamon](https://www.littlebambinos.co.nz/products/tiny-trove-woodie-logo-tracksuit-cinnamon): The cutest tracksuits for boys and girls! Made from a soft cotton jersey that ensures comfortable wear all day long. There is a signature 3D white Tiny Trove logo detailing on both the sweater & pant and hand stitched detailing on the back of the sweater. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:32:09Z
+  Updated: 2026-11-08T21:00:53Z
   Vendor: Tiny Trove
   Product Type: Tracksuit
   Availability: Available
@@ -623,126 +623,126 @@
     Availability: Available
     Price: $80.00 NZD
 - [TOSHI Swim Sunhat - Dreamer](https://www.littlebambinos.co.nz/products/toshi-swim-sunhat-dreamer): The beauty, functionality and elevated quality for which Toshi is traditionally renowned, is crafted into an exquisite baby swimwear collection. Rated UPF50+, Toshi Swim offers maximised sun protection and water safety. The finest quality fabrication is fast drying, chlorine and salt water friendly. The Toshi sunhat features a head toggle for adjustable sizing and chin tie to secure the hat. Most importantly, the classic sunhat has a well structured brim that maintains shape when wet.
-  Updated: 2026-08-28T22:33:07Z
+  Updated: 2026-11-08T21:00:53Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SwimHatDreamer1.jpg?v=1639781503
   Price: $40.00 NZD
 - [MUSHIE Rainbow Silicone Teether - Cambridge Blue](https://www.littlebambinos.co.nz/products/mushie-rainbow-silicone-teether-cambridge-blue): Help soothe your baby's irritated gums with our line of rainbow teethers. Made from 100% non-toxic, food-grade silicone, they're safe for your baby to use and their whimsical design and sophisticated colours make them a stylish addition to your home.
-  Updated: 2026-08-28T22:30:31Z
+  Updated: 2026-11-08T21:00:52Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RainbowTeetherCambridgeBlue.jpg?v=1640826548
   Price: $27.99 NZD
 - [MUSHIE Cat Teether - Blush](https://www.littlebambinos.co.nz/products/mushie-cat-teether-blush): Very cute bear teether made from 100% non-toxic, food grade silicone, and are BPA and phthalate free making it safe for your baby to enjoy.
-  Updated: 2026-08-28T22:30:10Z
+  Updated: 2026-11-08T21:00:52Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/CatTeetherBlush.jpg?v=1640827665
   Price: $20.99 NZD
 - [MUSHIE Teething Bracelet Flower - Steel Dove Grey Stone](https://www.littlebambinos.co.nz/products/mushie-teething-bracelet-flower-steel-dove-grey-stone): Help soothe your baby's irritated gums with Mushie's line of bracelet teethers. Made from 100% non-toxic, food-grade silicone, they're safe for your baby to use Ã¢â‚¬â€ and their whimsical design, along with sophisticated colours make them a stylish accessory.
-  Updated: 2026-08-28T22:30:51Z
+  Updated: 2026-11-08T21:00:51Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerTeetherGreyStone.jpg?v=1640827923
   Price: $20.99 NZD
 - [MUSHIE Teething Bracelet Flower - Rose Blush Shifting Sand](https://www.littlebambinos.co.nz/products/mushie-teething-bracelet-flower-rose-blush-shifting-sand): Help soothe your baby's irritated gums with Mushie's line of bracelet teethers. Made from 100% non-toxic, food-grade silicone, they're safe for your baby to use — and their whimsical design, along with sophisticated colours make them a stylish accessory.
-  Updated: 2026-08-28T22:30:50Z
+  Updated: 2026-11-08T21:00:51Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerTeetherRose.jpg?v=1640828279
   Price: $20.99 NZD
 - [MUSHIE Teething Bracelet Flower - Sunshine Dried Thyme Clay](https://www.littlebambinos.co.nz/products/mushie-teething-bracelet-flower-sunshine-dried-thyme-clay): Help soothe your baby's irritated gums with Mushie's line of bracelet teethers. Made from 100% non-toxic, food-grade silicone, they're safe for your baby to use Ã¢â‚¬â€ and their whimsical design, along with sophisticated colours make them a stylish accessory.
-  Updated: 2026-10-16T15:34:52Z
+  Updated: 2026-11-08T21:00:51Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerTeetherSunshine.jpg?v=1640828479
   Price: $26.00 NZD
 - [MUSHIE Pacifier Holder - Dried Thyme](https://www.littlebambinos.co.nz/products/mushie-pacifier-holder-dried-thyme): Keep your babyÃ¢â‚¬â„¢s pacifier safe and clean with a pacifier case from Mushie! The pacifier holder is easy to use as you can hang it from the stroller bar or diaper bag. The holder will keep your babyÃ¢â‚¬â„¢s pacifier safe and clean while not in use and has room to fit up to three pacifiers.
-  Updated: 2026-08-28T22:30:29Z
+  Updated: 2026-11-08T21:00:50Z
   Vendor: Mushie
   Product Type: Pacifier Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/PacifierClipGreen.jpg?v=1640828933
   Price: $30.00 NZD
 - [MUSHIE Pacifier Holder - Shifting sand](https://www.littlebambinos.co.nz/products/mushie-pacifier-holder-shifting-sand): Keep your babyÃ¢â‚¬â„¢s pacifier safe and clean with a pacifier case from Mushie! The pacifier holder is easy to use as you can hang it from the stroller bar or diaper bag. The holder will keep your babyÃ¢â‚¬â„¢s pacifier safe and clean while not in use and has room to fit up to three pacifiers.
-  Updated: 2026-08-28T22:30:29Z
+  Updated: 2026-11-08T21:00:50Z
   Vendor: Mushie
   Product Type: Pacifier Case
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/PacifierClipShiftingSand.jpg?v=1640829084
   Price: $30.00 NZD
 - [MUSHIE Finger Toothbrush - Tradewinds/Stone](https://www.littlebambinos.co.nz/products/mushie-finger-toothbrush-tradewinds-stone): Help brushing go smoothly and begin building good habits with these 100% BPA-free, chemical-free finger toothbrushes! Made from food grade silicone, the bumps on the back assist with sore, teething gums while the bristles on the front keep your baby's teeth clean.
-  Updated: 2026-10-16T15:34:52Z
+  Updated: 2026-11-08T21:00:50Z
   Vendor: Mushie
   Product Type: Baby Toothbrush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ToothbrushStone.jpg?v=1640829440
   Price: $24.00 NZD
 - [MUSHIE Finger Toothbrush - Blush/Shifting Sand](https://www.littlebambinos.co.nz/products/mushie-finger-toothbrush-blush-shifting-sand): Help brushing go smoothly and begin building good habits with these 100% BPA-free, chemical-free finger toothbrushes! Made from food grade silicone, the bumps on the back assist with sore, teething gums while the bristles on the front keep your baby's teeth clean.
-  Updated: 2026-10-16T15:34:52Z
+  Updated: 2026-11-08T21:00:49Z
   Vendor: Mushie
   Product Type: Baby Toothbrush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/ToothbrushBlush.jpg?v=1640829798
   Price: $24.00 NZD
 - [MUSHIE Lovey Blanket - Roman Green](https://www.littlebambinos.co.nz/products/mushie-lovey-blanket-roman-green): MushieÃ¢â‚¬â„¢s Lovey Blanket is a cute, cuddly, and calming blanket with a toy. It will bring comfort and security and stimulate your childÃ¢â‚¬â„¢s senses. The Lovey Blanket is ideal for naptime and playtime. You can also easily bring it with you when you are on the go. The Lovey Blankets are made of 100% organic cotton muslin, and they will stay soft after every wash.
-  Updated: 2026-10-16T15:34:53Z
+  Updated: 2026-11-08T21:00:49Z
   Vendor: Mushie
   Product Type: Baby Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SnugglyGreen.jpg?v=1640830256
   Price: $40.00 NZD
 - [MUSHIE Lovey Blanket - Fall Yellow](https://www.littlebambinos.co.nz/products/mushie-lovey-blanket-fall-yellow): MushieÃ¢â‚¬â„¢s Lovey Blanket is a cute, cuddly, and calming blanket with a toy. It will bring comfort and security and stimulate your childÃ¢â‚¬â„¢s senses. The Lovey Blanket is ideal for naptime and playtime. You can also easily bring it with you when you are on the go. The Lovey Blankets are made of 100% organic cotton muslin, and they will stay soft after every wash.
-  Updated: 2026-10-16T15:34:53Z
+  Updated: 2026-11-08T21:00:49Z
   Vendor: Mushie
   Product Type: Baby Blankets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SnugglyYellowcopy.jpg?v=1640831097
   Price: $40.00 NZD
 - [MUSHIE Rainbow Toy - Tropical](https://www.littlebambinos.co.nz/products/mushie-rainbow-toy-tropical): A beautiful and playful Rainbow Stacker! Stimulate your baby with this fun and colourful rainbow toy. The rainbow will help develop both body and brain and will make sure that playtime will be fun and creative for hours. Let the imagination flow with the endless possibilities of stacking, sorting, and playing with the rainbow that promotes learning. You can also use it as a stylish decoration for your babyÃ¢â‚¬â„¢s room.
-  Updated: 2026-10-16T15:34:52Z
+  Updated: 2026-11-08T21:00:48Z
   Vendor: Mushie
   Product Type: Baby Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/RainbowStacker.jpg?v=1640835892
   Price: $49.00 NZD
 - [MUSHIE Nesting Stars](https://www.littlebambinos.co.nz/products/mushie-nesting-stars): Shooting stars are lighting up the Danish town of Aarhus to make their way to your child's playroom. Little ones will love matching the muted colours while exploring their fine motor skills with this beautiful nesting star toy set.
-  Updated: 2026-10-16T15:34:53Z
+  Updated: 2026-11-08T21:00:48Z
   Vendor: Mushie
   Product Type: Baby Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Stars3.jpg?v=1640836355
   Price: $46.00 NZD
 - [MUSHIE Stacking Ring Tower - Rustic](https://www.littlebambinos.co.nz/products/mushie-stacking-ring-tower-rustic): Made from 100% non-toxic, BPA and phthalate free plastic, these beautiful stacking rings are fun and engaging for your baby to look at, while stacking and grasping the pieces helps them develop their organisation and motor skills.
-  Updated: 2026-08-28T22:30:46Z
+  Updated: 2026-11-08T21:00:47Z
   Vendor: Mushie
   Product Type: Baby Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StackingTowerRust.jpg?v=1640845380
   Price: $45.00 NZD
 - [MUSHIE Stacking Cup - Original](https://www.littlebambinos.co.nz/products/mushie-stacking-ring-tower-rustic-1): This colourful round tower is fun and engaging for your baby to look at, while stacking the pieces helps them develop their organisation and motor skills. Mushie's Danish Hygge collection of toys for kids 0-3 years allow your child can play while learning valuable skills.
-  Updated: 2026-10-16T15:34:53Z
+  Updated: 2026-11-08T21:00:47Z
   Vendor: Mushie
   Product Type: Baby Toys
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StackingCupOriginal.jpg?v=1640837926
   Price: $46.00 NZD
 - [SUSUKOSHI Baby Knotted Hat - Taupe Pointelle](https://www.littlebambinos.co.nz/products/pre-order-susukoshi-knotted-hat-taupe-pointelle): Made with a beautifully soft organic cotton elastane that is suitable for delicate baby's skin. The knotted beanie is one of the most essential item for new bubs, helping to keep them warm and cosy. Made from 95% organic cotton, 5% elastane w/ organic dye. Designed in Australia, ethically made in China.
-  Updated: 2026-09-21T11:12:02Z
+  Updated: 2026-11-08T21:00:46Z
   Vendor: Susukoshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/hattaupepointelle1.jpg?v=1642811410
   Price: $7.00 NZD
 - [BIBS Pacifier - Boheme - Natural Rubber - Ivory & Blossom](https://www.littlebambinos.co.nz/products/bibs-boheme-pacifier-ivory-blossom): The Boheme pacifier is inspired by the modern bohemian style. The round natural rubber latex nipple is designed to resemble the shape and size of the motherÃ¢â‚¬â„¢s soft nipple and promotes a similar tongue placement and sucking technique when breastfeeding.
-  Updated: 2026-10-16T15:34:57Z
+  Updated: 2026-11-08T21:00:45Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -754,7 +754,7 @@
     Availability: Available
     Price: $27.00 NZD
 - [BIBS Pacifier - Boheme - Natural Rubber - Cloud & Blush](https://www.littlebambinos.co.nz/products/bibs-boheme-pacifier-cloud-blush): The Boheme pacifier is inspired by the modern bohemian style. The round natural rubber latex nipple is designed to resemble the shape and size of the motherÃ¢â‚¬â„¢s soft nipple and promotes a similar tongue placement and sucking technique when breastfeeding.
-  Updated: 2026-10-16T15:34:58Z
+  Updated: 2026-11-08T21:00:44Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -766,21 +766,21 @@
     Availability: Available
     Price: $27.00 NZD
 - [MUSHIE Crib Pocket - Tradewinds](https://www.littlebambinos.co.nz/products/mushie-crib-pocket-tradewinds): This multifunctional crib pocket, made from 100% cotton, is compatible with most cots. It will help you organise babyÃ¢â‚¬â„¢s necessary essentials such as diapers, wipes, teethers and toys. You can easily fasten the crib pocket to cot bars, railings, or shelves with the 3 sets of attached ribbon ties.
-  Updated: 2026-10-16T15:34:58Z
+  Updated: 2026-11-08T21:00:44Z
   Vendor: Mushie
   Product Type: Crib Pockets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/CribPocketTradewindscopy.jpg?v=1644606348
   Price: $40.00 NZD
 - [MUSHIE Crib Pocket - Rainbows](https://www.littlebambinos.co.nz/products/mushie-crib-pocket-rainbows): This multifunctional crib pocket, made from 100% cotton, is compatible with most cots. It will help you organise babyÃ¢â‚¬â„¢s necessary essentials such as diapers, wipes, teethers and toys. You can easily fasten the crib pocket to cot bars, railings, or shelves with the 3 sets of attached ribbon ties.
-  Updated: 2026-08-28T22:30:13Z
+  Updated: 2026-11-08T21:00:44Z
   Vendor: Mushie
   Product Type: Crib Pockets
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/CribPocketRainbowscopy.jpg?v=1644606832
   Price: $40.00 NZD
 - [RYLEE + CRU Terry Crewneck - Seaside Shell](https://www.littlebambinos.co.nz/products/pre-order-rylee-cru-terry-crewneck-seaside-shell): Loose fit crew neck pullover in a soft and cosy terry fabric. Coordinates perfectly with the terry sweatpants in shell. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:31:50Z
+  Updated: 2026-11-08T21:00:43Z
   Vendor: rylee + cru
   Product Type: Top
   Availability: Available
@@ -801,14 +801,14 @@
     Availability: Available
     Price: $43.99 NZD
 - [TOSHI Organic Baby Socks - Olive](https://www.littlebambinos.co.nz/products/toshi-organic-socks-olive): Toshi presents a beautifully curated collection of organic cotton baby socks. The cotton yarn is  organic and this ensures Toshi socks are gentle on delicate baby feet, as well as our precious environment.
-  Updated: 2026-08-28T22:32:29Z
+  Updated: 2026-11-08T21:00:43Z
   Vendor: Toshi
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SOC_OAD_OLV_A_Toshicopy.jpg?v=1645405390
   Price: $8.50 NZD
 - [TOSHI Organic Baby Booties - Feather](https://www.littlebambinos.co.nz/products/toshi-organic-baby-booties-feather): The much loved Toshi Organic Baby Booties Marley are made from the finest quality  100% organic cotton yarn. Organic certification ensures the booties are gentle on your babies delicate feet, as well as the environment. The beautifully-textured melange yarn brings an element of refinement to this Toshi baby accessory. Carefully crafted with a ribbed knit cuff, Toshi booties stay up while maintaining healthy circulation. The booties are ankle height and are designed to protect precious tootsies during rest and play. Cute pom poms create a whimsical style and the ties ensure a snug fit.
-  Updated: 2026-09-04T08:35:56Z
+  Updated: 2026-11-08T21:00:43Z
   Vendor: Toshi
   Product Type: Booties
   Availability: Available
@@ -820,21 +820,21 @@
     Availability: Not Available
     Price: $23.99 NZD
 - [TOSHI Baby Beanie - Tribal](https://www.littlebambinos.co.nz/products/toshi-baby-beanie-tribal): Toshi Baby Beanie is crafted from the finest quality 100% cotton. The baby beanie features a cute top knot for adjustable height. The ribbed, knit border gently holds the beanie in place. This beanie features the Tribal design, with majestic creatures of the wilderness.
-  Updated: 2026-08-28T22:32:12Z
+  Updated: 2026-11-08T21:00:42Z
   Vendor: Toshi
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BBE_PRI_TBL_A_Toshicopy.jpg?v=1752023837
   Price: $9.00 NZD
 - [TOSHI Baby Beanie - Tractor](https://www.littlebambinos.co.nz/products/toshi-baby-beanie-tractor): Toshi Baby Beanie is crafted from the finest quality 100% cotton. The baby beanie features a cute top knot for adjustable height. The ribbed, knit border gently holds the beanie in place. This beanie features the Mr Tractor, a cute farm vehicle design.
-  Updated: 2026-08-28T22:32:11Z
+  Updated: 2026-11-08T21:00:42Z
   Vendor: Toshi
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BBE_PRI_MTR_A_Toshicopy.jpg?v=1645408973
   Price: $9.00 NZD
 - [TOSHI Kids Fine Rib Beanie - Copper](https://www.littlebambinos.co.nz/products/toshi-tommy-beanie-copper): This beanie features a classic fine ribbed knit design and a roll up border for versatility of styling. Beanie Tommy is fully lined for enhanced comfort and greater protection from the elements during our cooler months. With a traditional and timeless feel, Beanie Tommy is an ideal winter accessory for all ages and sizes. Toshi Beanie Tommy is crafted from the finest quality  100% organic cotton yarn.
-  Updated: 2026-08-28T22:33:13Z
+  Updated: 2026-11-08T21:00:42Z
   Vendor: Toshi
   Product Type: Beanie
   Availability: Available
@@ -849,35 +849,35 @@
     Availability: Available
     Price: $25.00 NZD
 - [TOSHI Kids Fine Rib Beanie - Olive](https://www.littlebambinos.co.nz/products/toshi-tommy-beanie-olive): This beanie features a classic fine ribbed knit design and a roll up border for versatility of styling. Beanie Tommy is fully lined for enhanced comfort and greater protection from the elements during our cooler months. With a traditional and timeless feel, Beanie Tommy is an ideal winter accessory for all ages and sizes. Toshi Beanie Tommy is crafted from the finest quality  100% organic cotton yarn.
-  Updated: 2026-08-28T22:33:13Z
+  Updated: 2026-11-08T21:00:41Z
   Vendor: Toshi
   Product Type: Beanie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/W22_Toshi_2193772copy.jpg?v=1752023843
   Price: $25.00 NZD
 - [LION + LAMB Fitted Cot Sheet - Peace](https://www.littlebambinos.co.nz/products/lion-lamb-fitted-cot-sheet-peace): Lion + Lamb's popular sun kantha quilts are now available in a soft 100% cotton fitted cot sheet. A simple and beautiful way to style your nursery. This would make the perfect newborn gift for the expecting mum. Each sheet entirely handmade. This unique pattern is made using a traditional Indian block stamp.
-  Updated: 2026-08-28T22:29:43Z
+  Updated: 2026-11-08T21:00:41Z
   Vendor: Lion + Lamb
   Product Type: Cot Bedding
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/PeaceCotSheet1.jpg?v=1645518062
   Price: $34.00 NZD
 - [HUXBABY Vanilla Rib Tee](https://www.littlebambinos.co.nz/products/huxbaby-vanilla-rib-tee): Super cute rib tee with lettuce edge sleeves and hem. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:28:46Z
+  Updated: 2026-11-08T21:00:40Z
   Vendor: HUXBABY
   Product Type: Tops
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/HB2451_1copy.jpg?v=1645829973
   Price: $21.99 NZD
 - [JESSICA URLICHS - Welcome to Motherhood Gift Cards](https://www.littlebambinos.co.nz/products/jessica-urlichs-gift-card-6-pack): Introducing the 'Welcome To Motherhood' gift card pack by Jessica Urlichs + Hey Weegs. These are the greeting cards that mother's truly need! From the pregnancy announcement, through baby's first birthday, show up for your mama friend throughout all the major stages of early motherhood, in ways she'll never forget (and take the hassle out of finding different cards for each occasion).
-  Updated: 2026-08-28T22:28:50Z
+  Updated: 2026-11-08T21:00:40Z
   Vendor: Jessica Urlichs
   Product Type: Gift Cards
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/cards.jpg?v=1647626868
   Price: $10.00 NZD
 - [QUINCY MAE Baby Booties - Ivory](https://www.littlebambinos.co.nz/products/quincy-mae-baby-booties-ivory): The softest baby booties to complete any outfit! Ties for a secure fit. Made from 100% organic cotton. A range of colours available in these Quincy Mae baby booties.
-  Updated: 2026-08-28T22:31:33Z
+  Updated: 2026-11-08T21:00:39Z
   Vendor: Quincy Mae
   Product Type: Booties
   Availability: Available
@@ -892,21 +892,21 @@
     Availability: Not Available
     Price: $26.99 NZD
 - [VIVA LA VULVA Healing Bath Soak](https://www.littlebambinos.co.nz/products/viva-la-vulva-healing-bath-soak): This bath soak is a little treat for mama to take some time to relax while also aiding the healing process. Our beautiful Healing Bath Soak is handmade with 100% natural ingredients. With both Hypercal Healing Tincture and The Good Witch Hazel included, this soak heals and soothes. Not just for your body but your soul too!
-  Updated: 2026-08-28T22:33:28Z
+  Updated: 2026-11-08T21:00:39Z
   Vendor: Viva La Vulva
   Product Type: new arrivals
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BathSoak2.jpg?v=1648068022
   Price: $21.95 NZD
 - [LEOSUN Blue Light Glasses - Lilac](https://www.littlebambinos.co.nz/products/leosun-blue-ray-glasses-lilac): Premium blue light blocking kids glasses available in lilac and blue. Best suited for kids between the ages of 5-10 years. Blue light glasses help in reducing eye strain, eye fatigue and help improve sleep for children who spend time in front of screens. Most blue blocking glasses only block 15%-20% of blue light from 400-430nm and do not block any at the 450nm range where it matters the most. Leosun's glasses block an average of 60% of blue light.
-  Updated: 2026-08-28T22:29:40Z
+  Updated: 2026-11-08T21:00:39Z
   Vendor: Leosun
   Product Type: Sunglasses
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/BlueLightViolet2.jpg?v=1648455183
   Price: $25.00 NZD
 - [SUMMER AND STORM 80 Denim Jean - Light-Wash](https://www.littlebambinos.co.nz/products/pre-order-summer-and-storm-80-denim-jean-light-wash): The perfect unisex jeans for kids. 80's style light wash denim. Ethically made from 100% Cotton. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-08-28T22:32:06Z
+  Updated: 2026-11-08T21:00:38Z
   Vendor: Summer and Storm
   Product Type: Denim
   Availability: Available
@@ -927,7 +927,7 @@
     Availability: Not Available
     Price: $69.00 NZD
 - [RYLEE + CRU Girl's Flutter Tee - Luna Flower](https://www.littlebambinos.co.nz/products/rylee-cru-flutter-tee-luna-flower): Extra soft boxy tee with ruffle sleeves and longer back for extra comfort during all hours of play. Baby sizes 0-3m thru 18-24m have snaps at the shoulder for easy changing. Matching leggings available for a complete look. Shop Rylee and Cru for children. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-09-09T07:56:56Z
+  Updated: 2026-11-08T21:00:37Z
   Vendor: rylee + cru
   Product Type: Tops
   Availability: Available
@@ -938,36 +938,57 @@
   - [18-24mth](https://www.littlebambinos.co.nz/products/rylee-cru-flutter-tee-luna-flower?variant=43141237506142)
     Availability: Not Available
     Price: $14.99 NZD
+- [MUSHIE Baby Training Toothbrush - Blush](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-blush): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
+  Updated: 2026-11-12T02:28:41Z
+  Vendor: Mushie
+  Product Type: Baby Toothbrush
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerTrainingToothbrush-Blushcopy.jpg?v=1651054022
+  Price: $28.00 NZD
 - [MUSHIE Star Training Toothbrush - Cambridge Blue](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-cambridge-blue): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
-  Updated: 2026-08-28T22:30:46Z
+  Updated: 2026-11-08T21:00:37Z
   Vendor: Mushie
   Product Type: Baby Toothbrush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StarTrainingToothbrush-CambridgeBluecopy.jpg?v=1651054242
   Price: $28.00 NZD
 - [MUSHIE Baby Training Toothbrush - Shifting Sand](https://www.littlebambinos.co.nz/products/mushie-training-toothbrush-shifting-sand): Little ones will get a child-friendly introduction to brushing their teeth independently with this playful toothbrush from Mushie.
-  Updated: 2026-08-28T22:30:46Z
+  Updated: 2026-11-08T21:00:36Z
   Vendor: Mushie
   Product Type: Baby Toothbrush
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/StarTrainingToothbrush-ShiftingSand_1_copy.jpg?v=1651054359
   Price: $28.00 NZD
 - [MUSHIE Bunny Teether - Sage](https://www.littlebambinos.co.nz/products/mushie-bunny-teether-sage): Teethers help soothe your babyâ€™s irritated gums when teeth are starting to come out. This line of teethers are made from food-grade silicone, and they are designed to be easy to grasp by tiny baby hands.
-  Updated: 2026-08-28T22:30:10Z
+  Updated: 2026-11-08T21:00:36Z
   Vendor: Mushie
   Product Type: Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/TeetherBunny-Sage_1_copy.jpg?v=1651054890
   Price: $26.00 NZD
+- [MUSHIE Elephant Teether - Cloud](https://www.littlebambinos.co.nz/products/mushie-elephant-teether-cloud): Teethers help soothe your babyÃ¢â‚¬â„¢s irritated gums when teeth are starting to come out. This line of teethers are made from food-grade silicone, and they are designed to be easy to grasp by tiny baby hands.
+  Updated: 2026-11-12T04:50:56Z
+  Vendor: Mushie
+  Product Type: Teether
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/TeetherElephant-Cloudcopy.jpg?v=1651055144
+  Price: $20.99 NZD
 - [MUSHIE Pretzel Teether](https://www.littlebambinos.co.nz/products/mushie-pretzel-teether-cloud): Teethers help soothe your baby’s irritated gums when teeth are starting to come out. This line of teethers are made from food-grade silicone, and they are designed to be easy to grasp by tiny baby hands.
-  Updated: 2026-10-16T15:59:19Z
+  Updated: 2026-11-08T21:00:35Z
   Vendor: Mushie
   Product Type: Baby Teether
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Pretzel.jpg?v=1651056158
   Price: $22.00 NZD
+- [MUSHIE Flower Press Toy - Soft Lilac](https://www.littlebambinos.co.nz/products/mushie-flower-press-toy-soft-lilac): A fun press toy inspired by phones made for little hands to hold. The toy promotes fine motor skills and encourages sensory exploration with bubbles that can be pushed and popped.
+  Updated: 2026-11-12T04:54:06Z
+  Vendor: Mushie
+  Product Type: Baby Toys
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/FlowerPressToy_SoftLilac_Daffodil_Ivory_copy.jpg?v=1651055898
+  Price: $38.00 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Croissant](https://www.littlebambinos.co.nz/products/frigg-daisy-pacifier-croissant): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2026-08-28T22:28:08Z
+  Updated: 2026-11-08T21:00:34Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -979,7 +1000,7 @@
     Availability: Available
     Price: $18.99 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Cotton Candy](https://www.littlebambinos.co.nz/products/frigg-daisy-pacifier-cotton-candy): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2026-08-28T22:28:07Z
+  Updated: 2026-11-08T21:00:33Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -991,7 +1012,7 @@
     Availability: Not Available
     Price: $18.99 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Chamomile](https://www.littlebambinos.co.nz/products/frigg-daisy-pacifier-chamomile): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2026-09-12T03:13:58Z
+  Updated: 2026-11-08T21:00:33Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -1003,7 +1024,7 @@
     Availability: Not Available
     Price: $18.99 NZD
 - [FRIGG Pacifier - Daisy - Natural Rubber - Pink Cream](https://www.littlebambinos.co.nz/products/frigg-daisy-pacifier-pink-cream): The daisy natural latex pacifiers has been thoughtfully designed for your baby's comfort. The outward curve keeps the pacifier off their delicate skin, while features like air holes and a security handle ensure your baby stays safe. Designed and manufactured in Denmark.
-  Updated: 2026-11-05T02:43:07Z
+  Updated: 2026-11-08T21:00:32Z
   Vendor: Frigg
   Product Type: Pacifier
   Availability: Available
@@ -1015,14 +1036,14 @@
     Availability: Not Available
     Price: $18.99 NZD
 - [CONNETIX Rainbow Replacement Ball Pack 12 Wooden Balls | NZ](https://www.littlebambinos.co.nz/products/connetix-rainbow-replacement-ball-pack): CONNETIX Rainbow Replacement Ball Pack: 12 wooden balls in six colours to top up or expand your magnetic ball run. Shop now at Little Bambinos NZ.
-  Updated: 2026-11-04T17:38:14Z
+  Updated: 2026-11-09T02:26:16Z
   Vendor: Connetix
   Product Type: Magnetic Tiles
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/Repl.-12-packcopy.jpg?v=1651542080
   Price: $19.00 NZD
 - [BIBS Pacifier - Boheme - Natural Rubber - Ivory & Sage](https://www.littlebambinos.co.nz/products/bibs-boheme-pacifier-ivory-sage): The Boheme pacifier is inspired by the modern bohemian style. The round natural rubber latex nipple is designed to resemble the shape and size of the motherÃ¢â‚¬â„¢s soft nipple and promotes a similar tongue placement and sucking technique when breastfeeding.
-  Updated: 2026-10-16T15:59:23Z
+  Updated: 2026-11-08T21:00:30Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -1034,7 +1055,7 @@
     Availability: Available
     Price: $27.00 NZD
 - [BIBS Pacifier - Natural Rubber - Blossom](https://www.littlebambinos.co.nz/products/bibs-pacifier-blossom-two-pack): BIBS dummies are the original pacifier with a round shield and a cherry shaped nipple. The cherry shaped nipple and matte lightweight shield is designed to imitate the shape of a motherÃ¢â‚¬â„¢s breast.
-  Updated: 2026-10-16T15:59:23Z
+  Updated: 2026-11-08T21:00:29Z
   Vendor: BIBS
   Product Type: Pacifier
   Availability: Available
@@ -1046,80 +1067,66 @@
     Availability: Not Available
     Price: $22.00 NZD
 - [KONGES SLOJD Dragon Straws - Forest Mix](https://www.littlebambinos.co.nz/products/pre-order-konges-slojd-dragon-straws-forest-mix): Add some fun to your refreshments with these dragon straws. Made from 100% food grade silicone. Kid's reusable straws.
-  Updated: 2026-10-20T00:30:57Z
+  Updated: 2026-11-08T21:00:28Z
   Vendor: Konges slojd
   Product Type: Dinnerware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS3561-4PACKSILICONESTRAWSDRAGON-FORESTMIX-Extra0copy.jpg?v=1655888716
   Price: $12.60 NZD
 - [KONGES SLOJD 10-Pack Mini Hair Clips Hearts - Rose](https://www.littlebambinos.co.nz/products/konges-slojd-10-pack-mini-hair-clips-heart-rose): These heart shaped clips are an adorable hair accessory.Â DETAILS Comes in a pack of 10 Made from 100 percent spring steel. WARNING: Not suitable for children under 3 years old
-  Updated: 2026-08-28T22:29:13Z
+  Updated: 2026-11-08T21:00:27Z
   Vendor: Konges slojd
   Product Type: Hair Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS2471-10-PACKMINIHAIRCLIPSHEART-ROSE-Extra0.jpg?v=1659430892
   Price: $15.40 NZD
 - [KONGES SLOJD 10-Pack Mini Hair Clips Scallop - Rouge](https://www.littlebambinos.co.nz/products/konges-slojd-10-pack-mini-hair-clips-scallop-rogue): TheseÂ scallopedÂ clips are an adorable hair accessory.Â DETAILS Comes in a pack of 10 Made from 100 percent spring steel. WARNING: Not suitable for children under 3 years old
-  Updated: 2026-08-28T22:29:14Z
+  Updated: 2026-11-08T21:00:27Z
   Vendor: Konges slojd
   Product Type: Hair Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/KS3124-10-PACKJUNIORHAIRCLIPSSCALLOP-ROUGEPACK-Extra0.jpg?v=1659431007
   Price: $15.40 NZD
 - [SUSUKOSHI Headband - Clay Speckled](https://www.littlebambinos.co.nz/products/susukoshi-headband-clay-speckled): Beautiful super stretchy headbands that match perfectly with the full Susukoshi collections. Made from 95% organic cotton, 5% elastane and organic dye. Designed in Australia, ethically made in China. Fully adjustable with great stretch. Free shipping within NZ on orders over $100.
-  Updated: 2026-08-28T22:32:06Z
+  Updated: 2026-11-08T21:00:26Z
   Vendor: Susukoshi
   Product Type: Hair Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/hbclaysp1.png?v=1662802696
   Price: $7.00 NZD
+- [TOSHI Flap Cap Baby - Peanut](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut): The Toshi Flap Cap Baby is their most popular baby sunhat. Shielding precious babies form the elements is the priority and our flap cap has a contoured neck flap. Rated UPF 50+, this Toshi Sunhat offers maximised sun protection. DETAILS A head tie creates adjustable sizing and the chin tie secures the cap. The cap is fully lined for increased comfort. Made from the finest quality cotton knit, the baby sunhat is gentle to wear, functional and practical. Flap Cap Baby Peanut features a tan stripe and is an ideal gender-neutral baby sunhat for fun in the sun. SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up
+  Updated: 2026-11-13T19:22:06Z
+  Vendor: Toshi
+  Product Type: Hats
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/FC_BAB_PNU_A_Toshi.jpg?v=1723159975
+  - [XXS](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031187038)
+    Availability: Available
+    Price: $34.00 NZD
+  - [XS](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031219806)
+    Availability: Not Available
+    Price: $34.00 NZD
+  - [S](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031252574)
+    Availability: Available
+    Price: $34.00 NZD
+  - [M](https://www.littlebambinos.co.nz/products/toshi-flap-cap-baby-peanut?variant=39760031285342)
+    Availability: Not Available
+    Price: $34.00 NZD
 - [TOSHI Sunhat Claire- Dusk](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-dusk): The Classic Sunhat Claire is an ideal sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head tie creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear.Â Sunhat Claire is crafted from the finest quality 100% cotton and is fully lined for additional comfort.Â Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2026-08-28T22:32:34Z
+  Updated: 2026-11-08T21:00:24Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SH_CLI_DUS_T_Toshi.jpg?v=1661247838
   Price: $35.00 NZD
 - [TOSHI Sunhat Claire- Sunny](https://www.littlebambinos.co.nz/products/toshi-sunhat-claire-sunny): The Classic Sunhat Claire is an ideal sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head tie creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear.Â Sunhat Claire is crafted from the finest quality 100% cotton and is fully lined for additional comfort.Â Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â Â
-  Updated: 2026-08-28T22:32:34Z
+  Updated: 2026-11-08T21:00:24Z
   Vendor: Toshi
   Product Type: Hats
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SH_CLI_SUN_T_Toshi.jpg?v=1661247949
   Price: $35.00 NZD
-- [TOSHI Sunhat Playtime Beach Bums](https://www.littlebambinos.co.nz/products/toshi-sunhat-playtime-beach-bums): TheÂ Sunhat Playtime is a classic sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear.Â Sunhat Playtime is crafted from the finest quality 100% cotton and is fully lined for additional comfort.Â SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2026-08-28T22:32:38Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SH_PLA_BEB_T_Toshi.jpg?v=1661248304
-  Price: $35.00 NZD
-- [TOSHI Sunhat Stephanie- Blush](https://www.littlebambinos.co.nz/products/toshi-sunhat-stephanie-blush): TheÂ SunhatÂ Stephanie is a classic sunhat for children of all ages. The broad and well-structured brim offers increased sun protection. A head toggle creates adjustable sizing and the chin tie with toggle secures the hat and offers ease of wear.Â Sunhat StephanieÂ is crafted from the finest quality 100% cotton and is fully lined for additional comfort.Â SIZING Size Head Circumference (cm) Age Guide XXS 37 Premmy - Newborn XS 43 Up to 8m S 52 8m - 2y M 54 2y - Small Grown Up L 56 Big Kid - Grown Up Â
-  Updated: 2026-08-28T22:32:39Z
-  Vendor: Toshi
-  Product Type: Hats
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/products/SH_STP_BLS_T_Toshi.jpg?v=1661248403
-  Price: $35.00 NZD
-- [TOSHI Organic S/S Onesie - Cream](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream): This dreamy little baby onesie is created for the ultimate in baby comfort and functionality. Crafted from the finest quality 100% cotton, it is soft and gentle on delicate baby skin. The envelope neckline ensures convenient dressing and press studs assist in smooth nappy changes. The gorgeous cloud print features a classic and calming baby blue skyline and is an original in-house design exclusive to Toshi.
-  Updated: 2026-08-28T22:32:29Z
-  Vendor: Toshi
-  Product Type: Onesie
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0604/4077/files/DT_TSS_CRE_A_Toshi2_1080x_cbbb9344-fd60-4e7a-b1ab-a211d78d90d9.webp?v=1729823512
-  - [NB](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=41241577521246)
-    Availability: Available
-    Price: $33.00 NZD
-  - [0-3m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038297694)
-    Availability: Available
-    Price: $33.00 NZD
-  - [3-6m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038330462)
-    Availability: Available
-    Price: $33.00 NZD
-  - [6-12m](https://www.littlebambinos.co.nz/products/toshi-singlet-onesie-cream?variant=39760038363230)
-    Availability: Available
-    Price: $33.00 NZD
-[List Continued](https://www.littlebambinos.co.nz/a/llms-agent/llms.txt?shop=little-bambinos-nz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NzA5MDE0NTI4MDk0LCJsYXN0X3ZhbHVlIjoiNjcwOTAxNDUyODA5NCJ9)
+[List Continued](https://www.littlebambinos.co.nz/a/llms-agent/llms.txt?shop=little-bambinos-nz.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo2NzA5MDEyMzMyNjM4LCJsYXN0X3ZhbHVlIjoiNjcwOTAxMjMzMjYzOCJ9)
 
 ## Collections
 
@@ -1220,8 +1227,8 @@
   Updated: 2026-05-26T16:18:30Z
   Total Products: 0
 - [Facebook Product Feed](https://www.littlebambinos.co.nz/collections/facebook-product-feed)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 810
+  Updated: 2026-11-13T23:12:12Z
+  Total Products: 800
 - [Sleepy Doe](https://www.littlebambinos.co.nz/collections/sleepy-doe): A British sleepwear brand specialising in small, organic sleep collections for women and children. Founder Sophie launched Sleepy Doe in 2016 and is a firm believer that often the simple things are the best things in life. She wanted to create a line of long-lasting sleepwear to sit comfortably in any home and to be loved by both  and child. The collection is made with 100% Organic GOTS  cotton and all products are proudly manufactured in the U.K supporting independent factories and businesses. // window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-172659890-2'); // ]]>
   Updated: 2026-08-18T21:33:41Z
   Total Products: 94
@@ -1229,7 +1236,7 @@
   Updated: 2026-06-22T23:46:36Z
   Total Products: 61
 - [Konges Slojd](https://www.littlebambinos.co.nz/collections/konges-slojd-2): Konges Slojd is located in Copenhagen, Denmark, and vouches for quality, functionality and simplicity. Konges Slojd has created a simple, Scandinavian, stylish and not leat quality- conscious universe for those most dear to us: Our Children.
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 871
 - [Bebe Organic](https://www.littlebambinos.co.nz/collections/bebe-organic-1): Only the very best organic materials have been selected to produce unique, sustainable clothing, harmless to children’s sensitive skin. Our philosophy is to produce natural clothing of the highest standard and we pay a great attention to detail on every single piece.
   Updated: 2026-05-26T16:09:54Z
@@ -1253,8 +1260,8 @@
   Updated: 2026-05-26T16:11:17Z
   Total Products: 0
 - [Newborn Essentials](https://www.littlebambinos.co.nz/collections/newborn-essentials)
-  Updated: 2026-10-07T11:02:02Z
-  Total Products: 414
+  Updated: 2026-11-10T12:01:47Z
+  Total Products: 413
 - [Rylee + Cru](https://www.littlebambinos.co.nz/collections/rylee-cru): Rylee + Cru merges art and imagination, offering unique clothing for the modern child. Each collection is built off of high quality basics that have soft and well-loved qualities matched with beautiful muted tones and timeless traits.
   Updated: 2026-10-27T11:01:52Z
   Total Products: 303
@@ -1310,14 +1317,14 @@
   Updated: 2026-05-26T16:11:40Z
   Total Products: 0
 - [NEW ARRIVALS](https://www.littlebambinos.co.nz/collections/n-new-arrivals)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 3185
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 3184
 - [BABY BOY](https://www.littlebambinos.co.nz/collections/n-baby-boy-0-2y): Shop our collection of baby boy products
   Updated: 2026-10-23T11:02:08Z
   Total Products: 161
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-girl-0-2y): Shop our collection of baby girl products
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 3141
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 3140
 - [NEW IN BABY GIRL](https://www.littlebambinos.co.nz/collections/n-new-in-baby-girl)
   Updated: 2026-05-26T16:21:32Z
   Total Products: 2
@@ -1364,20 +1371,20 @@
   Updated: 2026-05-26T16:19:19Z
   Total Products: 9
 - [Baby - Swimwear + Swim Accessories](https://www.littlebambinos.co.nz/collections/n-baby-girl-swimwear): Shop our collection of baby swimwear and swim accessories
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 333
 - [BABY BOY - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-baby-boy-swimwear): Shop our collection of baby boy swimwear
   Updated: 2026-10-23T11:02:08Z
   Total Products: 18
 - [Baby - Shoes & Booties](https://www.littlebambinos.co.nz/collections/n-baby-girl-footwear): Shop our collection of baby shoes and booties
-  Updated: 2026-11-01T21:52:43Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 117
 - [BABY BOY - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-baby-boy-footwear): Shop our collection of baby boy footwear
   Updated: 2026-09-22T11:01:53Z
   Total Products: 25
 - [Baby - Accessories](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories): Shop our collection of baby accessories
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 797
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 796
 - [BABY BOY - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-baby-girl-accessories-1)
   Updated: 2026-10-23T11:02:08Z
   Total Products: 22
@@ -1391,7 +1398,7 @@
   Updated: 2026-09-09T11:02:20Z
   Total Products: 141
 - [GIRLS - TOPS](https://www.littlebambinos.co.nz/collections/n-girls-tops): Shop our collection of girls tops
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 200
 - [BOYS - TOPS](https://www.littlebambinos.co.nz/collections/n-boys-tops): Shop our collection of boys tops
   Updated: 2026-11-05T12:01:41Z
@@ -1421,22 +1428,22 @@
   Updated: 2026-05-26T16:20:00Z
   Total Products: 50
 - [GIRLS - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-girls-swimwear): Shop our collection of girls swimwear
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 206
 - [BOYS - SWIMWEAR](https://www.littlebambinos.co.nz/collections/n-boys-swimwear): Shop our collection of boys swimwear
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 135
 - [GIRLS - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-girls-footwear)
-  Updated: 2026-11-01T21:52:43Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 125
 - [BOYS - FOOTWEAR](https://www.littlebambinos.co.nz/collections/n-boys-footwear): Shop our collection of boys footwear
-  Updated: 2026-11-01T21:52:43Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 78
 - [GIRLS - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-girls-accessories)
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 539
 - [BOYS - ACCESSORIES](https://www.littlebambinos.co.nz/collections/n-boys-accessories): Shop our collection of boys accessories
-  Updated: 2026-10-26T11:01:37Z
+  Updated: 2026-11-10T01:00:38Z
   Total Products: 276
 - [GIRLS - NEW IN](https://www.littlebambinos.co.nz/collections/n-girls-new-in)
   Updated: 2026-10-13T11:02:39Z
@@ -1451,10 +1458,10 @@
   Updated: 2026-11-05T12:01:41Z
   Total Products: 9
 - [Bassinet & Cot](https://www.littlebambinos.co.nz/collections/bedding-wraps): Shop our bassinet and cot collection
-  Updated: 2026-10-07T11:02:02Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 64
 - [Baby - Teethers & Rattles](https://www.littlebambinos.co.nz/collections/gifts-toys): Shop our collection of baby teethers and rattles
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-12T04:52:07Z
   Total Products: 107
 - [FOOTWEAR](https://www.littlebambinos.co.nz/collections/footwear)
   Updated: 2026-05-26T16:20:31Z
@@ -1469,10 +1476,10 @@
   Updated: 2026-05-26T16:18:34Z
   Total Products: 0
 - [GIRLS](https://www.littlebambinos.co.nz/collections/girls)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 1716
 - [BOYS](https://www.littlebambinos.co.nz/collections/boy): Shop our boys collection
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 966
 - [HUXBABY](https://www.littlebambinos.co.nz/collections/huxbaby): Huxbaby is about minimalist fashions for kids with an  level of style. Their designs blend super soft organic cotton with a clean aesthetic - clothes that allow kids to be kids without sacrificing style.
   Updated: 2026-09-08T11:02:20Z
@@ -1514,7 +1521,7 @@
   Updated: 2026-08-18T21:32:43Z
   Total Products: 75
 - [Shop All](https://www.littlebambinos.co.nz/collections/-all-1): We're having a Mid-Year clear out! Explore our  & shop your favourite brands. Get in quick to grab a bargain! Please choose carefully,  items cannot be returned or exchanged.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 4264
 - [Jumper, Cardigans and Sweatshirts](https://www.littlebambinos.co.nz/collections/second-birthday-celebration-day-3)
   Updated: 2026-05-26T16:21:09Z
@@ -1529,7 +1536,7 @@
   Updated: 2026-05-26T16:22:19Z
   Total Products: 0
 - [Toshi](https://www.littlebambinos.co.nz/collections/toshi): Toshi is a designer lifestyle brand dedicated to the creation of children’s accessories, headwear, and organic baby gifts. Their objective is to offer beautiful, aesthetically driven product with high integrity and intelligent functionality.
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 248
 - [ALL Sleepwear](https://www.littlebambinos.co.nz/collections/all-sleepwear): Shop our collection of sleepwear
   Updated: 2026-05-26T16:18:39Z
@@ -1556,7 +1563,7 @@
   Updated: 2026-06-06T06:20:07Z
   Total Products: 4
 - [Zulu & Zephyr](https://www.littlebambinos.co.nz/collections/zulu-and-zephyr): Born in Bondi Beach, Australia and raised in Byron Bay, Zulu & Zephyr has always been a coastal girl at heart. The MINI swim collection is designed with sun protection, durability and style in mind. Made from regenerated nylon and carries a sun protection rating of UPF 50+.
-  Updated: 2026-09-23T11:02:18Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 63
 - [WILD WAWA](https://www.littlebambinos.co.nz/collections/wild-wawa): Wild Wawa is a children's clothing brand focused on delivering high quality children's clothing made in Perú with 100% organic Pima cotton. Find uniquely beautiful heirloom garments for your little loves.
   Updated: 2026-05-26T16:18:15Z
@@ -1568,8 +1575,8 @@
   Updated: 2026-05-26T16:13:51Z
   Total Products: 0
 - [$50 to $100](https://www.littlebambinos.co.nz/collections/50-100): Shop our collection of products between $50 - $100
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1615
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 1608
 - [ALL TOPS](https://www.littlebambinos.co.nz/collections/all-tops): Shop our collection of tops
   Updated: 2026-05-26T16:18:42Z
   Total Products: 1
@@ -1619,8 +1626,8 @@
   Updated: 2026-06-06T06:32:04Z
   Total Products: 4
 - [Last Ones](https://www.littlebambinos.co.nz/collections/last-ones): These pieces are all down to the last size, shop them now before they are gone for good. For a Limited Time save 15% on all of our Lucky Last pieces.Code: LUCKYLAST  only available on full priced stock and can not be used in conjunction with any other 
-  Updated: 2026-11-05T23:59:42Z
-  Total Products: 701
+  Updated: 2026-11-14T00:06:39Z
+  Total Products: 702
 - [HUXBABY | Wilderness 2020](https://www.littlebambinos.co.nz/collections/huxbaby-wilderness-2020)
   Updated: 2026-05-26T16:13:00Z
   Total Products: 0
@@ -1628,7 +1635,7 @@
   Updated: 2026-05-26T16:12:57Z
   Total Products: 0
 - [ALL Baby](https://www.littlebambinos.co.nz/collections/all-baby)
-  Updated: 2026-10-26T08:27:16Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 299
 - [RYLEE + CRU - HOMETOWN SS20](https://www.littlebambinos.co.nz/collections/hometown): RYLEE + CRU SS20 - HOMETOWN LAUNCHES 6AM 28.02 NZST FREE LOCAL SHIPPING - RCFREESHIP Ends Midnight 01.02.20 nzst
   Updated: 2026-06-06T06:38:14Z
@@ -1637,13 +1644,13 @@
   Updated: 2026-05-26T16:10:12Z
   Total Products: 0
 - [Veja Kids](https://www.littlebambinos.co.nz/collections/veja-kids): VEJA offers a different vision which combines fair trade, ecology and links together economy, social initiatives and the environment. They use organic or recycled and fairly traded cotton for the canvas of the shoes and wild & fairly traded rubber for the soles. Recycled plastic bottles are also used to create technological fabrics. All products are made in a high standard factory in Brazil. VEJA believes in sustainability, and is a proud  B Corporation brand.
-  Updated: 2026-11-01T21:52:43Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 37
 - [Jamie Kay 'One Day in Budapest'](https://www.littlebambinos.co.nz/collections/jamie-kay-one-day-in-budapest): Online 17th March 1pm NZST Beautiful, bright & playful tones designed to inspire your child's imagination to run wild & free! Online to order 17.03 1pm NZT. We cannot wait to hear your favourite pieces! Free shipping on all Jamie Kay orders within NZ over $49 at the launch with the code JKFREESHIP
   Updated: 2026-05-26T16:13:07Z
   Total Products: 0
 - [Veja](https://www.littlebambinos.co.nz/collections/veja): Beautiful and sustainable sneakers for kids. The VEJA project creates a positive chain and produces sneakers that are made differently with the future in mind. Bringing you minimalist aesthetics using innovative technologies.
-  Updated: 2026-11-01T21:52:43Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 37
 - [Easter ](https://www.littlebambinos.co.nz/collections/easter-): Take 25% off MarMar Copenhagen and Tiny Trove this Easter with the code: EASTER25. Shop 30% off By Billie, prices as marked.  ends Midnight Monday 5th April Please choose carefully as  items are not able to be exchanged or returned.
   Updated: 2026-10-26T08:27:16Z
@@ -1679,10 +1686,10 @@
   Updated: 2026-06-06T07:03:00Z
   Total Products: 1
 - [All Girls](https://www.littlebambinos.co.nz/collections/all-girls)
-  Updated: 2026-10-27T11:01:52Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 275
 - [All Boys](https://www.littlebambinos.co.nz/collections/all-boys)
-  Updated: 2026-10-27T11:01:52Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 156
 - [Tiny Trove](https://www.littlebambinos.co.nz/collections/tiny-trove): Tiny Trove was simply born through a desire to curate an every-day wardrobe for little ones. Akin to opening up a treasure chest full of beloved pieces, each telling its own story and holding a memory - Tiny Trove hopes to create designs that will be well-worn, well-loved and cherished for a long time for all the tiny loves in your life.
   Updated: 2026-10-26T08:27:16Z
@@ -1712,7 +1719,7 @@
   Updated: 2026-06-06T07:22:01Z
   Total Products: 29
 - [Toys + Activities](https://www.littlebambinos.co.nz/collections/toys-activities): Shop our collection of Toys and Activities
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 320
 - [Girls - Matching Sets](https://www.littlebambinos.co.nz/collections/girls-matching-sets): Shop our collection of girls matching sets
   Updated: 2026-06-02T22:27:06Z
@@ -1727,14 +1734,14 @@
   Updated: 2026-05-26T16:19:16Z
   Total Products: 2
 - [Accessories](https://www.littlebambinos.co.nz/collections/accessories): Shop our collection of accessories
-  Updated: 2026-10-25T11:02:14Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 147
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6384
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6371
 - [Ultimate Search Bestseller Collection - DO NOT DELETE](https://www.littlebambinos.co.nz/collections/ultimate-search-bestseller-collection-do-not-delete-1): Ultimate Search app uses this temporary collection to fetch best  items.Please do not delete this collection.If you have removed the app, it is safe to remove this collection.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6384
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6371
 - [Teethers & Rattles](https://www.littlebambinos.co.nz/collections/teethers-rattles): Shop our collection of Teethers and Rattles
   Updated: 2026-10-19T11:02:15Z
   Total Products: 81
@@ -1748,7 +1755,7 @@
   Updated: 2026-06-06T07:27:00Z
   Total Products: 10
 - [Checks & Florals](https://www.littlebambinos.co.nz/collections/checks-florals): Shop our collection of checks and florals
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 131
 - [Ribbed Essentials](https://www.littlebambinos.co.nz/collections/ribbed-essentials): Shop our collection of Ribbed Essentials
   Updated: 2026-08-07T11:02:53Z
@@ -1766,13 +1773,13 @@
   Updated: 2026-10-26T08:27:16Z
   Total Products: 113
 - [Gifts Under $50](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $50 x
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 409
 - [CHRISTMAS GIFT IDEAS $50 - $100](https://www.littlebambinos.co.nz/collections/christmas-gift-ideas-50-100): Shop our collection of Christmas gift ideas $50-$100
   Updated: 2026-09-22T01:54:08Z
   Total Products: 123
 - [Gifts Under $250](https://www.littlebambinos.co.nz/collections/christmas-gift-ideas-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $250 x
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 106
 - [Dining](https://www.littlebambinos.co.nz/collections/dining)
   Updated: 2026-10-29T11:01:35Z
@@ -1790,7 +1797,7 @@
   Updated: 2026-08-18T21:32:43Z
   Total Products: 37
 - [Honeysticks](https://www.littlebambinos.co.nz/collections/honeysticks): Be naturally creative! Natural, non-toxic goodness. Honeysticks beeswax crayons, soy/beeswax bath crayons and bath colour drops are handmade from 100% natural and non-toxic food grade ingredients. Honeysticks were developed for a New Zealand preschool that was looking for safe and natural crayons for it’s pupils. They proudly produce all our products right here in New Zealand. Honeysticks is a New Zealand owned and operated company.
-  Updated: 2026-11-01T02:29:11Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 24
 - [Abilene The Label](https://www.littlebambinos.co.nz/collections/abilene-the-label): Products by Abilene The Label provide the same outcome; aesthetically pleasing but, highly practical. They are a lifestyle brand equipping you with functional products that can be used anywhere. Whether that is your lounge room floor, hiking through the Alps or a lazy day at the beach, it's their hope that their products will help you to create spaces where you can experience the fullness of rest.
   Updated: 2026-06-06T07:38:37Z
@@ -1802,7 +1809,7 @@
   Updated: 2026-10-05T11:01:37Z
   Total Products: 233
 - [All Jackets, Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/all-jackets-jumpers-cardigans): Keep your little ones warm and toasty this winter in our collection of jackets, jumpers and cardigans.
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 268
 - [For the love of pink!](https://www.littlebambinos.co.nz/collections/for-the-love-of-pink)
   Updated: 2026-08-24T11:01:53Z
@@ -1814,19 +1821,19 @@
   Updated: 2026-07-15T03:34:11Z
   Total Products: 66
 - [Baby Gift Ideas](https://www.littlebambinos.co.nz/collections/for-baby): We've curated a collection of gift ideas for babies. Need a gift for a baby shower? We have you covered. Shop baby gift ideas at Little Bambinos. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-11-01T12:02:16Z
-  Total Products: 512
+  Updated: 2026-11-12T04:52:07Z
+  Total Products: 511
 - [For Girls](https://www.littlebambinos.co.nz/collections/for-girls): We've put together some wonderful gift ideas for girls to make life easier for you. Browse our range or clothing, accessories and toys that we think a little girl would love!
-  Updated: 2026-11-01T02:29:11Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 248
 - [For Boys](https://www.littlebambinos.co.nz/collections/for-boys): We've put together some cool gift ideas for you. Check out our selection of clothing, toys and accessories that we think boys would love!
   Updated: 2026-11-01T02:29:11Z
   Total Products: 116
 - [Playful Prints](https://www.littlebambinos.co.nz/collections/playful-prints): Fun playful prints for babies and children. Make their wardrobe fun with these bold prints. Little Bambinos is an online clothing boutique for children and babies. Free shipping within New Zealand on orders over $100.
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-12T04:52:07Z
   Total Products: 142
 - [Activities](https://www.littlebambinos.co.nz/collections/colouring-painting): Shop our collection of Activities
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 37
 - [Tiny Table Co](https://www.littlebambinos.co.nz/collections/tiny-table): Tiny Table create pared back feeding essentials for babies that prioritise form and functionality. Made from the highest quality food grade silicone that is not only super safe for baby but oh so practical.
   Updated: 2026-06-06T07:54:28Z
@@ -1835,7 +1842,7 @@
   Updated: 2026-06-06T07:54:46Z
   Total Products: 7
 - [Bathtime](https://www.littlebambinos.co.nz/collections/bath): Shop our bathtime collection
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 63
 - [Books](https://www.littlebambinos.co.nz/collections/books): Shop our collection of books
   Updated: 2026-11-01T02:29:11Z
@@ -1847,19 +1854,19 @@
   Updated: 2026-07-15T03:33:00Z
   Total Products: 42
 - [MOONIE](https://www.littlebambinos.co.nz/collections/moonie): MOONIE the humming friend is a professional baby sleep aid, that helps babies easily fall a sleep. Thanks to safe, natural pink noise, it allows children to calm down and fall asleep faster. And that's not all! MOONIE is also night lamp. Free shipping within New Zealand on orders over $149.
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 16
 - [Goober Crayons](https://www.littlebambinos.co.nz/collections/goober-crayons): Introducing the coolest kids crayons on the market! GOOBER is a brand with a focus on drawing. The brand produces a variety of drawing tools including crayons, drawing tops, cooking colouring books, and crayon bags.
   Updated: 2026-06-06T07:57:32Z
   Total Products: 5
 - [Beach](https://www.littlebambinos.co.nz/collections/beach): Shop our beach collection
-  Updated: 2026-11-04T01:30:36Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 108
 - [The Woodlands](https://www.littlebambinos.co.nz/collections/the-woodlands): The Woodlands are a small New Zealand business creating beautiful wooden toys for children that have a low impact on the environment. Their toys take us back to basics, children having to work for their play outside of technology or battery operated toys means imaginations flourish! Proudly made in New Zealand.
   Updated: 2026-06-06T07:59:02Z
   Total Products: 30
 - [Bedding](https://www.littlebambinos.co.nz/collections/bedding): Shop our collection of bedding
-  Updated: 2026-10-07T11:02:02Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 77
 - [Marching Bambino](https://www.littlebambinos.co.nz/collections/marching-bambinos): Wooden musical instruments for toddlers and children. Quality, open-ended wooden toys that encourage children to lead their own imaginative play. Together, let's celebrate joy, creativity and self-expression! Free shipping within New Zealand on orders over $100.
   Updated: 2026-06-06T08:01:24Z
@@ -1880,7 +1887,7 @@
   Updated: 2026-06-06T08:07:51Z
   Total Products: 16
 - [Grown](https://www.littlebambinos.co.nz/collections/grown): Grown launched in 2019 and is a knitwear label for babies and children from size NB to 5 years. Most of Grown's styles are unisex are created using natural, sustainable and eco-friendly fibres. They use small batch production focusing on ethical production practices.
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 329
 - [Sienna Blair](https://www.littlebambinos.co.nz/collections/sienna-blair): Sienna Blair is a New Zealand lifestyle brand for children. They bring you cool, effortless basics designed to be reached for daily, loved and passed on. Sienna Blair are committed to minimising their environmental footprint. They use manufacturers in Bali, India and China that pay their employees a fair wage and provide a safe working environment.
   Updated: 2026-06-06T08:08:03Z
@@ -1895,10 +1902,10 @@
   Updated: 2026-09-07T11:01:53Z
   Total Products: 47
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/sleep-aids): Shop our collection of sleep aid products
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 27
 - [Baby Hats + Mittens](https://www.littlebambinos.co.nz/collections/baby-hats): Shop our collection of baby hats and mittens
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 239
 - [Baby Socks](https://www.littlebambinos.co.nz/collections/baby-socks): Shop our collection of baby socks
   Updated: 2026-10-20T11:01:39Z
@@ -1913,7 +1920,7 @@
   Updated: 2026-10-07T11:02:02Z
   Total Products: 26
 - [Cloths + Mats](https://www.littlebambinos.co.nz/collections/cloths-mats): Shop our collection of cloths and mats
-  Updated: 2026-09-17T21:36:05Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 38
 - [Baby Towels](https://www.littlebambinos.co.nz/collections/baby-towels): Shop our collection of baby towels
   Updated: 2026-05-26T16:19:29Z
@@ -1940,23 +1947,23 @@
   Updated: 2026-06-06T08:13:54Z
   Total Products: 8
 - [Stocking Stuffers OLD](https://www.littlebambinos.co.nz/collections/stocking-fillers): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 252
 - [Labour Day ](https://www.littlebambinos.co.nz/collections/labour-weekend-): Welcome to Little Bambino's Labour Day ! Enjoy 15% Off Storewide (full priced items only) Use code LD15 at checkoutAll items shown below are included in the . Exclusions apply. Full price items only. Does not include the Chloe Collection by Jamie Kay, Drop 2 Wilson & Frenchy, New Arrivals from Quincy Mae and Moonie Humming Bears/Bunnies. . ﻿Our Labour Day  will run from Thursday 21st October 7:30PM until Monday 25th October 11:59PM.
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 930
 - [Leosun](https://www.littlebambinos.co.nz/collections/leosun): Flexible children's sunglasses. The idea for Leosun was born after founder Kristen struggled to find kids sunglasses that she loved the look of, that would last beyond one season AND offered amazing safety features. She then went on a mission to develop kids sunglasses that were not only beautiful but safe, practical and durable.
   Updated: 2026-06-06T08:15:30Z
   Total Products: 14
 - [Home of CONNETIX Magnetic Tiles NZ](https://www.littlebambinos.co.nz/collections/connetix): Shop CONNETIX magnetic tiles in NZ: starter, creative and mega packs, ball runs, roads, glitter and light tiles in Bright and Pastel. Free NZ shipping over $149.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 51
 - [Viva La Vulva](https://www.littlebambinos.co.nz/collections/viva-la-vulva): Viva La Vulva are here to take care of you postpartum! From sore breasts to helping your vagina heal you will find products to make those first few weeks after baby arrives easier. These products make excellent gifts for expecting mamas!
   Updated: 2026-07-21T01:28:13Z
   Total Products: 14
 - [Subscriber Only ](https://www.littlebambinos.co.nz/collections/little-bambinos-flash-winter-): Winter ! Take 20% OFF STOREWIDE with the code STOREWIDE20 at checkout! Exclusions Apply. This weekend only. Winter  on baby clothing and accessories. Kids clothing  New Zealand.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 4812
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 4811
 - [Mama Bear](https://www.littlebambinos.co.nz/collections/mama-bear): Mama Bear is an Auckland based company offering organic, natural and environmental friendly products catering for the while family.
   Updated: 2026-06-06T08:19:11Z
   Total Products: 7
@@ -1970,16 +1977,16 @@
   Updated: 2026-06-06T08:22:33Z
   Total Products: 4
 - [Mushie](https://www.littlebambinos.co.nz/collections/mushie): Mushie is best known for its Scandinavian designed silicone baby bibs, pacifier clips, organic muslin swaddles, children's dinnerware and toys. Mushie is an American baby brand.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 249
+  Updated: 2026-11-12T05:06:13Z
+  Total Products: 248
 - [Nursery](https://www.littlebambinos.co.nz/collections/nursery)
-  Updated: 2026-11-02T12:01:41Z
-  Total Products: 97
+  Updated: 2026-11-07T00:45:34Z
+  Total Products: 96
 - [Cuddle Blankets](https://www.littlebambinos.co.nz/collections/snuggly-blankets): Shop our collection of Cuddle Blankets
   Updated: 2026-08-09T12:32:44Z
   Total Products: 11
 - [Decor](https://www.littlebambinos.co.nz/collections/decor-1): Shop our collection of decor products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 58
 - [Londji](https://www.littlebambinos.co.nz/collections/londji): Londji is a project born in Barcelona that brings together the world of art, games and toys. They create innovative, original and safe toys that are fun for children, make them think and share great moments together.
   Updated: 2026-06-06T08:26:08Z
@@ -1988,7 +1995,7 @@
   Updated: 2026-05-26T16:21:45Z
   Total Products: 5
 - [Baby Toys](https://www.littlebambinos.co.nz/collections/baby-toys): Shop our collection of baby toys
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-12T04:52:07Z
   Total Products: 105
 - [Outerwear](https://www.littlebambinos.co.nz/collections/outerwear)
   Updated: 2026-06-02T22:32:26Z
@@ -2015,7 +2022,7 @@
   Updated: 2026-06-06T08:35:36Z
   Total Products: 3
 - [Night Lights + Lights](https://www.littlebambinos.co.nz/collections/night-lights-lights): Shop our collection of Night Lights and Lights
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 24
 - [Playmats](https://www.littlebambinos.co.nz/collections/playmats)
   Updated: 2026-11-01T12:02:16Z
@@ -2048,7 +2055,7 @@
   Updated: 2026-10-29T11:01:35Z
   Total Products: 443
 - [MIMI & LULA](https://www.littlebambinos.co.nz/collections/mimi-lula): MIMI & LULA is a stylish and playful kids accessories brand that brings the sparkle and shine back into playtime and daytime. Accessories designed to let kids express their personalities with flair and style.
-  Updated: 2026-09-27T11:01:47Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 27
 - [Dress Ups](https://www.littlebambinos.co.nz/collections/dress-ups): Shop our collection of dress up products
   Updated: 2026-08-07T11:02:53Z
@@ -2057,32 +2064,32 @@
   Updated: 2026-05-26T16:14:12Z
   Total Products: 0
 - [All including  items & Some non  brands](https://www.littlebambinos.co.nz/collections/all-excluding--items)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6299
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6286
 - [Christmas Gifts](https://www.littlebambinos.co.nz/collections/christmas-gifts): Shop our Christmas gift collection
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 256
 - [Sonnie](https://www.littlebambinos.co.nz/collections/sonnie): Each range consists of tracksuits, t-shirts, shorts, hoodies, sweatshirts, polo shirts, caps, socks and more for both boys and girls, with a focus on creating long-lasting organic clothing for kids that can be worn in all seasons.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 100
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit): Shop our Summer edit
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 437
 - [Forget Me Not Journals](https://www.littlebambinos.co.nz/collections/memory-journals): Inspired by a desire to record all of life’s most special memories, Forget Me Not Journals creates unique prompted keepsake books to encourage connection, reflection and gratituude while recording all of life’s most special and meaningful experiences.
   Updated: 2026-07-15T03:33:34Z
   Total Products: 10
 - [Labour Day  Collection 23](https://www.littlebambinos.co.nz/collections/labour-day--22-excl-connetix-and-by-billie)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1566
+  Updated: 2026-11-13T20:29:08Z
+  Total Products: 1578
 - [Summer Edit](https://www.littlebambinos.co.nz/collections/summer-edit-1): Shop our Summer edit
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 626
 - [Liewood](https://www.littlebambinos.co.nz/collections/liewood): With a focus on functionality and innovation, LIEWOOD designs and produces toys, interior, furniture, accessories, wear and footwear for babies and children all which made with aesthetics, quality, and consciousness in mind. Exactly the core values that makes us love LIEWOOD.
   Updated: 2026-06-06T08:51:58Z
   Total Products: 18
 - [ For launch](https://www.littlebambinos.co.nz/collections/all-products-for-bf-22)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6362
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6349
 - [CYBER  PAGE](https://www.littlebambinos.co.nz/collections/cyber--page): Shop our Cyber Monday 
   Updated: 2026-05-26T16:11:13Z
   Total Products: 0
@@ -2102,16 +2109,16 @@
   Updated: 2026-08-05T11:01:56Z
   Total Products: 75
 - [New](https://www.littlebambinos.co.nz/collections/new): Shop our collection of New products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 2339
 - [Prem](https://www.littlebambinos.co.nz/collections/n-prem): Shop our collection of prem products
   Updated: 2026-09-07T11:01:53Z
   Total Products: 60
 - [Baby Outwear](https://www.littlebambinos.co.nz/collections/n-outwear): Shop our collection of baby outwear
-  Updated: 2026-11-04T01:28:30Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 146
 - [Baby Jumpers & Cardigans](https://www.littlebambinos.co.nz/collections/n-jumpers-cardigans)
-  Updated: 2026-11-04T01:27:08Z
+  Updated: 2026-11-12T02:23:35Z
   Total Products: 197
 - [Baby Rompers & Overalls](https://www.littlebambinos.co.nz/collections/n-rompers-overalls): Shop our collection of Baby Rompers and Overalls
   Updated: 2026-11-04T01:31:11Z
@@ -2123,10 +2130,10 @@
   Updated: 2026-10-05T11:01:37Z
   Total Products: 81
 - [Baby Bottoms](https://www.littlebambinos.co.nz/collections/n-baby-bottoms): Shop our collection of baby bottoms
-  Updated: 2026-11-04T01:28:33Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 334
 - [Baby Tops](https://www.littlebambinos.co.nz/collections/n-baby-tops): Shop our collection of baby tops
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 175
 - [Baby Bodysuits](https://www.littlebambinos.co.nz/collections/n-baby-bodysuits): Shop our collection of baby bodysuits
   Updated: 2026-10-20T11:01:39Z
@@ -2138,7 +2145,7 @@
   Updated: 2026-06-06T08:57:19Z
   Total Products: 19
 - [Baby Hats](https://www.littlebambinos.co.nz/collections/n-baby-hats): Shop our collection of baby hats
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 226
 - [Baby Beanies](https://www.littlebambinos.co.nz/collections/n-baby-beanies): Shop our collection of baby beanies
   Updated: 2026-11-04T01:27:28Z
@@ -2147,11 +2154,11 @@
   Updated: 2026-09-20T11:01:34Z
   Total Products: 64
 - [Nappy Bags](https://www.littlebambinos.co.nz/collections/nappy-bags): We know how packed that nappy bag can get! Shop our range of nappy bags that have compartments for everything - make the frantic nappy bag search a thing of the past.
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 41
 - [Change Mats](https://www.littlebambinos.co.nz/collections/n-change-mats): Shop our collection of change mats here
-  Updated: 2026-10-07T11:02:02Z
-  Total Products: 20
+  Updated: 2026-11-07T00:42:45Z
+  Total Products: 19
 - [Pacifiers](https://www.littlebambinos.co.nz/collections/n-pacifiers): Shop our collection of pacifiers
   Updated: 2026-11-05T12:01:41Z
   Total Products: 90
@@ -2159,10 +2166,10 @@
   Updated: 2026-09-17T21:36:03Z
   Total Products: 22
 - [Baby Towels](https://www.littlebambinos.co.nz/collections/n-baby-towels): Shop our collection of baby towels
-  Updated: 2026-11-04T01:30:34Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 39
 - [Baby Swim Accessories](https://www.littlebambinos.co.nz/collections/n-swim-accessories): Shop our collection of Baby Swim Accessories
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-10T01:25:50Z
   Total Products: 35
 - [Baby Socks](https://www.littlebambinos.co.nz/collections/n-baby-socks): Shop our collection of baby socks
   Updated: 2026-10-20T11:01:39Z
@@ -2171,7 +2178,7 @@
   Updated: 2026-05-26T16:22:14Z
   Total Products: 0
 - [Play](https://www.littlebambinos.co.nz/collections/play): Shop our collection of play products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 7
 - [Brand](https://www.littlebambinos.co.nz/collections/mama)
   Updated: 2026-05-26T16:20:06Z
@@ -2186,10 +2193,10 @@
   Updated: 2026-07-21T01:28:13Z
   Total Products: 6
 - [Girls Tops](https://www.littlebambinos.co.nz/collections/n-girls-tops-1): Shop our collection of girls tops
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 155
 - [Girls Bottoms](https://www.littlebambinos.co.nz/collections/n-girls-bottoms-1): Shop our collection of girls bottoms
-  Updated: 2026-11-04T01:28:33Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 287
 - [Girls Matching Sets](https://www.littlebambinos.co.nz/collections/n-matching-sets)
   Updated: 2026-08-27T11:02:33Z
@@ -2204,16 +2211,16 @@
   Updated: 2026-11-04T01:27:08Z
   Total Products: 163
 - [Girls Outwear](https://www.littlebambinos.co.nz/collections/n-girls-outwear): Shop our collection of girls outwear
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 141
 - [Girls Sleepwear](https://www.littlebambinos.co.nz/collections/n-girls-sleepwear): Shop our collection of girls sleepwear
   Updated: 2026-11-04T01:30:51Z
   Total Products: 48
 - [Girls Swimwear](https://www.littlebambinos.co.nz/collections/n-girls-swimwear-1): Shop our collection of girls swimwear
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 271
 - [Boys Tops](https://www.littlebambinos.co.nz/collections/n-boys-tops-1): Shop our collection of boys tops
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 124
 - [Boys Matching Sets](https://www.littlebambinos.co.nz/collections/n-boys-matching-sets): Shop our selection of boys matching sets!
   Updated: 2026-08-02T11:02:14Z
@@ -2225,13 +2232,13 @@
   Updated: 2026-11-04T01:27:08Z
   Total Products: 123
 - [Boys Outwear](https://www.littlebambinos.co.nz/collections/n-boys-outwear): Shop our collection of boys outwear
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 126
 - [Boys Sleepwear](https://www.littlebambinos.co.nz/collections/n-boys-sleepwear): Shop our collection of boys sleepwear
   Updated: 2026-11-04T01:30:39Z
   Total Products: 47
 - [Boys Swimwear](https://www.littlebambinos.co.nz/collections/n-boys-swimwear-1): Shop our collection of boys swimwear
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 202
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby)
   Updated: 2026-05-26T16:18:46Z
@@ -2243,34 +2250,34 @@
   Updated: 2026-06-06T08:57:38Z
   Total Products: 32
 - [Hats](https://www.littlebambinos.co.nz/collections/n-hats): Shop our collection of hats
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 246
 - [Beanies](https://www.littlebambinos.co.nz/collections/n-beanies): Shop our collection of beanies
   Updated: 2026-11-04T01:27:28Z
   Total Products: 75
 - [Bags & Backpacks](https://www.littlebambinos.co.nz/collections/n-bags-backpacks): Shop our collection of bags and backpacks
-  Updated: 2026-11-04T01:31:39Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 163
 - [Socks & Tights](https://www.littlebambinos.co.nz/collections/n-socks-tights): Shop our collection of Socks and Tights
   Updated: 2026-10-20T11:01:39Z
   Total Products: 106
 - [Footwear](https://www.littlebambinos.co.nz/collections/all-footwear): Shop our footwear collection
-  Updated: 2026-11-04T01:30:50Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 185
 - [Hair Accessories](https://www.littlebambinos.co.nz/collections/n-hair-accessories): Shop our collection of hair accessories
-  Updated: 2026-10-01T00:25:00Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 132
 - [Mittens & Gloves](https://www.littlebambinos.co.nz/collections/n-mittens-gloves): Shop our collection of mittens and gloves
   Updated: 2026-06-06T08:57:25Z
   Total Products: 22
 - [Boys Bottoms](https://www.littlebambinos.co.nz/collections/n-boys-bottoms-1): Shop our collection of boys bottoms
-  Updated: 2026-11-04T01:28:33Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 204
 - [Sleep](https://www.littlebambinos.co.nz/collections/n-sleep): Shop our collection of Sleep products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 404
 - [Bedding](https://www.littlebambinos.co.nz/collections/n-bedding): Shop our collection of bedding
-  Updated: 2026-10-07T11:02:02Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 75
 - [Home Sleepwear](https://www.littlebambinos.co.nz/collections/n-sleepwear)
   Updated: 2026-11-04T01:30:51Z
@@ -2279,10 +2286,10 @@
   Updated: 2026-10-27T11:01:52Z
   Total Products: 89
 - [Sleep Aids](https://www.littlebambinos.co.nz/collections/n-sleep-aids): Shop our collection of sleep aid products
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 34
 - [Nightlight](https://www.littlebambinos.co.nz/collections/n-nightlight): Shop our collection of nightlight products
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 24
 - [Mobile](https://www.littlebambinos.co.nz/collections/n-mobile): Shop our collection of mobile products
   Updated: 2026-10-03T11:02:55Z
@@ -2294,8 +2301,8 @@
   Updated: 2026-09-17T21:36:40Z
   Total Products: 8
 - [Sippy Cups](https://www.littlebambinos.co.nz/collections/n-sippy-cups): Shop our collection of Sippy Cups
-  Updated: 2026-10-29T11:01:35Z
-  Total Products: 46
+  Updated: 2026-11-08T20:51:29Z
+  Total Products: 43
 - [Placemats](https://www.littlebambinos.co.nz/collections/n-placemats): Shop our collection of placemats
   Updated: 2026-08-20T12:22:11Z
   Total Products: 10
@@ -2312,14 +2319,14 @@
   Updated: 2026-05-26T16:14:46Z
   Total Products: 0
 - [Towels & Cloths](https://www.littlebambinos.co.nz/collections/n-towels-cloths): Shop our collection of towels and cloths
-  Updated: 2026-11-04T01:30:36Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 93
 - [Toothbrush](https://www.littlebambinos.co.nz/collections/n-toothbrush): Shop our collection of toothbrush products
   Updated: 2026-09-17T21:36:25Z
   Total Products: 11
 - [Change Mats](https://www.littlebambinos.co.nz/collections/n-change-mats-1): Shop our collection of change mats
-  Updated: 2026-10-07T11:02:02Z
-  Total Products: 20
+  Updated: 2026-11-07T00:42:45Z
+  Total Products: 19
 - [Bath Toys](https://www.littlebambinos.co.nz/collections/n-bath-toys): Shop our bath toy collection
   Updated: 2026-11-05T12:01:41Z
   Total Products: 29
@@ -2327,7 +2334,7 @@
   Updated: 2026-11-01T02:29:11Z
   Total Products: 30
 - [Crib Accessories](https://www.littlebambinos.co.nz/collections/n-crib-accessories): Shop our collection of crib accessories
-  Updated: 2026-10-07T11:02:02Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 16
 - [Feeding Pillows](https://www.littlebambinos.co.nz/collections/n-feeding-pillows): Shop our collection of feeding pillows
   Updated: 2026-07-15T03:33:32Z
@@ -2351,16 +2358,16 @@
   Updated: 2026-05-26T16:21:10Z
   Total Products: 0
 - [Toys](https://www.littlebambinos.co.nz/collections/n-toys): Shop our collection of Toys
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 547
 - [Pools](https://www.littlebambinos.co.nz/collections/n-pools): Shop our collection of pool products
-  Updated: 2026-10-26T08:34:52Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 64
 - [Rattles](https://www.littlebambinos.co.nz/collections/n-rattles)
   Updated: 2026-08-19T11:03:08Z
   Total Products: 16
 - [Puzzles & Games](https://www.littlebambinos.co.nz/collections/n-puzzles-games): Shop our collection of Puzzles and Games
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 70
 - [Dolls & Accessories](https://www.littlebambinos.co.nz/collections/n-dolls-accessories): Shop our collection of dolls and accessories
   Updated: 2026-10-27T11:01:52Z
@@ -2378,10 +2385,10 @@
   Updated: 2026-06-06T08:57:37Z
   Total Products: 10
 - [Arts & Crafts](https://www.littlebambinos.co.nz/collections/n-arts-crafts): Shop our collection of arts and crafts
-  Updated: 2026-11-01T02:29:11Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 26
 - [Activity Rings](https://www.littlebambinos.co.nz/collections/n-activity-rings): Shop our collection of Activity Rings
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 34
 - [Baby Mats](https://www.littlebambinos.co.nz/collections/n-baby-mats): Shop our collection of baby mats
   Updated: 2026-06-11T21:43:33Z
@@ -2393,8 +2400,8 @@
   Updated: 2026-08-18T21:32:43Z
   Total Products: 73
 - [Women's Care](https://www.littlebambinos.co.nz/collections/n-womens-care): Shop our collection of Women's Care products
-  Updated: 2026-10-27T11:01:52Z
-  Total Products: 128
+  Updated: 2026-11-08T20:51:28Z
+  Total Products: 126
 - [Bags](https://www.littlebambinos.co.nz/collections/n-bags): Shop our collection of bags
   Updated: 2026-05-26T16:09:43Z
   Total Products: 0
@@ -2402,22 +2409,22 @@
   Updated: 2026-11-02T12:01:41Z
   Total Products: 21
 - [All Mama](https://www.littlebambinos.co.nz/collections/n-all-mama): Shop our collection of all things Mama
-  Updated: 2026-11-02T12:01:41Z
-  Total Products: 236
+  Updated: 2026-11-08T20:51:28Z
+  Total Products: 234
 - [As We Are Illustration](https://www.littlebambinos.co.nz/collections/as-we-are-illustration): Shop our collection of As We Are Illustrations
   Updated: 2026-06-06T08:57:54Z
   Total Products: 4
 - [Baby Sleep](https://www.littlebambinos.co.nz/collections/n-baby-sleep): Shop our collection of baby sleep products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 428
 - [Baby Eat](https://www.littlebambinos.co.nz/collections/n-baby-eat): Shop our Bib collection
   Updated: 2026-09-20T11:01:34Z
   Total Products: 57
 - [Baby Care](https://www.littlebambinos.co.nz/collections/n-baby-care): Shop our collection of baby care
-  Updated: 2026-11-04T01:30:36Z
-  Total Products: 206
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 205
 - [Baby Play](https://www.littlebambinos.co.nz/collections/n-baby-play): Shop our collection of baby play products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T04:52:07Z
   Total Products: 229
 - [Baby Footwear](https://www.littlebambinos.co.nz/collections/n-baby-footwear): Shop our collection of baby footwear
   Updated: 2026-11-04T01:30:50Z
@@ -2429,13 +2436,13 @@
   Updated: 2026-10-07T11:02:02Z
   Total Products: 14
 - [Storage](https://www.littlebambinos.co.nz/collections/n-storage): Shop our collection of Storage
-  Updated: 2026-08-23T11:01:59Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 14
 - [Soll the Label](https://www.littlebambinos.co.nz/collections/soll-the-label): Soll the label aim to create everyday basics, made from good quality materials that can be passed down from little love to little love. Whilst being every day essentials, their collections are curated with the intention of bringing a sense of fun to children's fashion.Incorporating effortless textures and tones, inspired by the beauty around us, they believe it is 'the simple things' that bring us the most joy.
   Updated: 2026-06-06T08:58:43Z
   Total Products: 16
 - [Clothes](https://www.littlebambinos.co.nz/collections/n-wear): Shop our Wear Collection
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 2532
 - [Pure Mama](https://www.littlebambinos.co.nz/collections/pure-mama): PURE MAMA FOUNDER AND MAMA OF ONE - Lara Christie"When I fell pregnant I was really surprised by the lack of pregnancy-specific body products available, especially as our skin changes so much during this time and needs extra support.I wanted to create a product range that harnessed the powerful, natural ingredients often used in facial skincare, such as Pomegranate and Raspberry Seed Oil, and concentrated levels of Vitamin E, which are miracle workers for skin hydration, elasticity and repairing damage. We then married these with tried and trusted base blends of Coconut and Almond oils to create a new, more nourishing range of skincare for pregnant woman and nursing mothers."
   Updated: 2026-08-19T11:03:08Z
@@ -2444,82 +2451,82 @@
   Updated: 2026-06-06T08:58:58Z
   Total Products: 5
 - [Eat](https://www.littlebambinos.co.nz/collections/n-eat-n): Shop our collection of eating products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 371
 - [Care & Bath](https://www.littlebambinos.co.nz/collections/n-care-bath-n): Shop our care and bath collection
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 170
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 169
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-n): Shop our collection of kids room and nursery products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 245
 - [Play](https://www.littlebambinos.co.nz/collections/n-play): Shop our collection of play products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 830
 - [Baby All Clothing](https://www.littlebambinos.co.nz/collections/n-baby-all-clothing-1): Shop our collection all things baby clothing
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 1998
 - [Baby Swimwear](https://www.littlebambinos.co.nz/collections/n-baby-swimwear): Shop our collection of baby swimwear
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 338
 - [Baby Accessories](https://www.littlebambinos.co.nz/collections/n-baby-accessories-n): Shop our collection of baby accessories
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 570
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 569
 - [Nursery](https://www.littlebambinos.co.nz/collections/n-nursery): Shop our collection of nursery products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 186
 - [Mama](https://www.littlebambinos.co.nz/collections/mama-n): Shop our collection of all thing Mama
-  Updated: 2026-11-02T12:01:41Z
-  Total Products: 272
+  Updated: 2026-11-08T20:51:28Z
+  Total Products: 270
 - [Baby](https://www.littlebambinos.co.nz/collections/n-baby-1): Shop our collection of baby products
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1099
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 1098
 - [Kokomo](https://www.littlebambinos.co.nz/collections/kokomo): Kokomo is childhood nostalgia in the form of quality kids clothes. Made for play. Created from an ever-evolving idea that's reminiscent of sandy toes, ice cream drips, and afternoons at the skate park, they aim to bring back the 90's through our classic oversized shapes and retro colour palette. They take inspiration from the California surf scene, and bring in bold colours to ensure it always feels like summer in a Kokomo tee. They've also kept our graphics cheeky, to make sure we measure up to the wearer.
   Updated: 2026-06-06T08:59:59Z
   Total Products: 7
 - [AFTERPAY  24](https://www.littlebambinos.co.nz/collections/afterpay-): 20% off Afterpay * including items already on .  applies to marked price on any item on our AFTERPAY DAY page. Selected styles online and some exclusions apply. All  purchases are final unless faulty, so please choose carefully. Use code: AFTERPAY20 at checkout.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6313
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6300
 - [Best-Sellers](https://www.littlebambinos.co.nz/collections/best-sellers): Shop our collection of best sellers
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 49
 - [Love to dream](https://www.littlebambinos.co.nz/collections/love-to-dream): The Love To Dream, Newborn to Toddler Sleep System, provides the highest level of quality with trusted sleep solutions to the very real parenting challenge of better quality and longer sleep for the whole family. Try our products today and experience how Love To Dream can help your family achieve a better night’s sleep too.
   Updated: 2026-10-06T11:02:13Z
   Total Products: 43
 - [Weight test](https://www.littlebambinos.co.nz/collections/weight-test)
-  Updated: 2026-10-28T11:01:46Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 61
 - [Crywolf](https://www.littlebambinos.co.nz/collections/crywolf): Crywolf is fun, functional and big on style and they have kids aged 1-14 years covered for their outdoor missions. Their collections feature limited edition prints and include Swimwear made from recycled materials, epic Beach Sandals, 100% waterproof Play Jackets and Overalls, Rain Boots and new Magic Jacket. Crywolf's innovative Eco-Puffer Jackets that are filled with recycled water bottles, with new styles being released every year.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 341
 - [Girls](https://www.littlebambinos.co.nz/collections/n-girls-1): Shop our collection of all girls products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 1209
 - [Girls All Clothing](https://www.littlebambinos.co.nz/collections/n-girls-all-clothing): Shop our collection of girls clothing
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 977
 - [Boys](https://www.littlebambinos.co.nz/collections/n-boys): Shop our boys collection
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 827
 - [Boys All Clothing](https://www.littlebambinos.co.nz/collections/n-boys-all-clothing): Shop our collection of all boys clothing
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 699
 - [Wear Accessories](https://www.littlebambinos.co.nz/collections/n-wear-accessories): Shop our Wear Accessories
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 995
 - [Home](https://www.littlebambinos.co.nz/collections/n-home): Shop our collection of home products
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1033
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 1029
 - [Kids Room & Nursery](https://www.littlebambinos.co.nz/collections/n-kids-room-nursery-1): Shop our collection of kids room and nursery products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 125
 - [Baby Bottle](https://www.littlebambinos.co.nz/collections/baby-bottle): Shop our collection of Baby Bottles
   Updated: 2026-11-03T12:01:31Z
   Total Products: 23
 - [Water Bottle](https://www.littlebambinos.co.nz/collections/water-bottle): Shop our collection of Water Bottles
-  Updated: 2026-11-04T01:30:54Z
-  Total Products: 76
+  Updated: 2026-11-08T20:51:27Z
+  Total Products: 75
 - [Lunch Box](https://www.littlebambinos.co.nz/collections/lunch-box): Shop our collection of lunch box products
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 61
 - [Hair brushes & Combs](https://www.littlebambinos.co.nz/collections/hair-brushes-combs): Shop our collection or hairbrushes and combs
   Updated: 2026-06-06T09:08:22Z
@@ -2528,7 +2535,7 @@
   Updated: 2026-09-17T21:36:05Z
   Total Products: 23
 - [Baby Toy](https://www.littlebambinos.co.nz/collections/n-baby-toy)
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-12T04:52:07Z
   Total Products: 17
 - [Baby Dinnerware](https://www.littlebambinos.co.nz/collections/baby-dinnerware): Shop our collection of baby dinnerware
   Updated: 2026-10-29T11:01:35Z
@@ -2543,10 +2550,10 @@
   Updated: 2026-09-24T11:01:45Z
   Total Products: 31
 - [Toshi](https://www.littlebambinos.co.nz/collections/toshi-1): Toshi is a designer lifestyle brand dedicated to the creation of children’s accessories, headwear, and organic baby gifts. Their objective is to offer beautiful, aesthetically driven product with high integrity and intelligent functionality.
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 458
 - [EOFY](https://www.littlebambinos.co.nz/collections/eofy)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 4301
 - [Test](https://www.littlebambinos.co.nz/collections/test)
   Updated: 2026-10-25T11:02:14Z
@@ -2558,10 +2565,10 @@
   Updated: 2026-05-26T16:09:10Z
   Total Products: 0
 - [Spring Edit](https://www.littlebambinos.co.nz/collections/spring-edit): Spring is here! The season of blooming flowers, warm sunshine and longer days. It's time to embrace lighter fabrics, pastel colours and playful patterns perfect match with our Spring edit range. (could do emojis here)
-  Updated: 2026-10-31T11:01:39Z
+  Updated: 2026-11-10T00:03:28Z
   Total Products: 130
 - [Baby Gifting Collection](https://www.littlebambinos.co.nz/collections/baby-gifting-collection): Shop our Baby collection for the perfect baby gifts
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T00:45:34Z
   Total Products: 152
 - [Gifts for Mama](https://www.littlebambinos.co.nz/collections/gifts-for-mama): Shop our curated gift collection made for Mama's
   Updated: 2026-11-02T12:01:41Z
@@ -2570,13 +2577,13 @@
   Updated: 2026-10-14T11:06:01Z
   Total Products: 154
 - [Christmas Gifts Under $50 2023](https://www.littlebambinos.co.nz/collections/christmas-gifts-under-50-2023): SIt's never too early to start shopping for Christmas right?! Get started with our Christmas gift guides and ease the last minute holiday stress. Shop our collection of Christmas gifts under $50
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 104
 - [Christmas Stocking Stuffers](https://www.littlebambinos.co.nz/collections/stocking-fillers-2023): Shop our curated collection of Stocking Stuffer ideas for your children to help with Christmas shopping this year x
-  Updated: 2026-10-20T11:01:39Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 172
 - [Gifts Under $100](https://www.littlebambinos.co.nz/collections/christmas-gifts-over-100): It's never too early to start shopping for Christmas! Shop easier with our curated Christmas gift guides. Everything under $100 x
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 91
 - [Fruit Collection](https://www.littlebambinos.co.nz/collections/fruit-collection)
   Updated: 2026-10-18T11:02:01Z
@@ -2585,10 +2592,10 @@
   Updated: 2026-08-19T11:03:08Z
   Total Products: 38
 - [Gifts for New Borns](https://www.littlebambinos.co.nz/collections/gifts-for-new-borns): Shop our Curated Collection of Gift Ideas for the new babes in your life x
-  Updated: 2026-10-19T11:02:15Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 40
 - [Gifts for Toddlers](https://www.littlebambinos.co.nz/collections/gifts-for-toddlers): Shop our Curated Collection of Gift ideas for the Toddlers in your life x
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 34
 - [Noody](https://www.littlebambinos.co.nz/collections/noody)
   Updated: 2026-10-28T11:01:46Z
@@ -2609,20 +2616,20 @@
   Updated: 2026-10-20T11:01:39Z
   Total Products: 177
 - [30% OFF GARAGE  COLLECTION](https://www.littlebambinos.co.nz/collections/bf-30): Shop our EPIC 30% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all  purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2026-10-25T11:02:14Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 566
 - [20% OFF GARAGE  COLLECTION](https://www.littlebambinos.co.nz/collections/bf-20): Shop our EPIC 20% off page! Act fast - stock is limited! *T&Cs Prices as marked, no codes needed. Remember, all  purchases are final, so choose your favorites carefully. Please note there might be a delay in shipping due to the volume of orders. Happy shopping!
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 388
+  Updated: 2026-11-07T00:45:34Z
+  Total Products: 387
 - [10% OFF MID-YEAR ](https://www.littlebambinos.co.nz/collections/bf-10): *Black Friday T&Cs Prices as marked, no codes needed. Happy shopping!
-  Updated: 2026-10-30T11:01:44Z
+  Updated: 2026-11-06T12:01:42Z
   Total Products: 75
 - [Summer Essentials](https://www.littlebambinos.co.nz/collections/summer-essentials)
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 725
 - [Afterpay 24](https://www.littlebambinos.co.nz/collections/boxing-day--ex-main)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6315
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6302
 - [Back To School!](https://www.littlebambinos.co.nz/collections/back-to-school-1): Back to School is just around the corner! Shop our curated range of back-to-school favourites.
   Updated: 2026-10-29T11:01:35Z
   Total Products: 43
@@ -2639,8 +2646,8 @@
   Updated: 2026-06-06T10:20:10Z
   Total Products: 17
 - [Welcome 10 ](https://www.littlebambinos.co.nz/collections/welcome-10-)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1951
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 1938
 - [Sunny Folk](https://www.littlebambinos.co.nz/collections/sunny-folk)
   Updated: 2026-06-06T10:58:33Z
   Total Products: 15
@@ -2654,10 +2661,10 @@
   Updated: 2026-06-06T11:03:03Z
   Total Products: 3
 - [Summer Holiday](https://www.littlebambinos.co.nz/collections/summer-holiday)
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 125
 - [Winter Holiday](https://www.littlebambinos.co.nz/collections/winter-holiday)
-  Updated: 2026-09-24T11:01:45Z
+  Updated: 2026-11-12T02:23:35Z
   Total Products: 77
 - [Indoor Play Gym](https://www.littlebambinos.co.nz/collections/indoor-play-gym)
   Updated: 2026-05-26T16:13:05Z
@@ -2675,22 +2682,22 @@
   Updated: 2026-10-24T11:02:02Z
   Total Products: 341
 - [UNDER $15](https://www.littlebambinos.co.nz/collections/under-15): T&Cs - Prices as marked, limited time only. All  purchases are final, so please choose carefully. Shipping during our Black Friday  may be longer than usual.
-  Updated: 2026-10-20T11:01:39Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 287
 - [UNDER $25](https://www.littlebambinos.co.nz/collections/under-25): T&Cs - Prices as marked, limited time only. All  purchases are final, so please choose carefully. Shipping during our Black Friday  may be longer than usual.
   Updated: 2026-10-20T11:01:39Z
   Total Products: 159
 - [UNDER $50](https://www.littlebambinos.co.nz/collections/under-50): T&Cs - Prices as marked, limited time only. All  purchases are final, so please choose carefully. Shipping during our Black Friday  may be longer than usual.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 353
 - [UNDER $75](https://www.littlebambinos.co.nz/collections/under-75): T&Cs - Prices as marked, limited time only. All  purchases are final, so please choose carefully. Shipping during our Black Friday  may be longer than usual.
   Updated: 2026-10-05T11:01:37Z
   Total Products: 85
 - [UNDER $100](https://www.littlebambinos.co.nz/collections/under-100): T&Cs - Prices as marked, limited time only. All  purchases are final, so please choose carefully. Shipping during our Black Friday  may be longer than usual.
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 185
 - [Boxing Day  24](https://www.littlebambinos.co.nz/collections/boxing-day--24): Shop our Boxing Day Spend & Save and get yourself a bargin - With prices already discounted, you could save up-to 60% Off! Spend $50, get another 10% off | Spend $100, get another 20% off | Spend $150, get another 30% off!
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 4366
 - [Wear Boxing Day 24](https://www.littlebambinos.co.nz/collections/wear-boxing-day-24)
   Updated: 2026-05-26T16:18:09Z
@@ -2711,17 +2718,17 @@
   Updated: 2026-08-05T11:01:56Z
   Total Products: 7
 - [Owala](https://www.littlebambinos.co.nz/collections/owala-1): I’m every kid’s #1 fan. I’ll happily sit through the 327th rewatch of their favorite show with no complaints - because hey, I don’t have ears. In addition to being a good friend, I keep water cold (thanks to my trusty insulation), I'm easy to sip, and spill resistant.
-  Updated: 2026-11-03T12:01:31Z
-  Total Products: 12
+  Updated: 2026-11-08T20:51:29Z
+  Total Products: 8
 - [B.Box](https://www.littlebambinos.co.nz/collections/b-box): Baby and toddler drinking and feeding accessories. Functional, innovative and award-winning essentials to make life easier for parents and babies.
   Updated: 2026-09-29T11:01:51Z
   Total Products: 20
 - [Klaviyo Popup ](https://www.littlebambinos.co.nz/collections/klaviyo-popup-)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 2023
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 2022
 - [Smart Products Filter Index - Do not delete](https://www.littlebambinos.co.nz/collections/globofilter-best--products-index)
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6384
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6371
 - [Oria Skin](https://www.littlebambinos.co.nz/collections/oria-skin): Oria Skin solves hormonal skin challenges using natural ingredients. Soothing, brightening, beautiful to use – it’s everything your skin has been asking for. Its hormonal support making it perfect for expecting, new or seasoned mothers.
   Updated: 2026-10-27T11:01:52Z
   Total Products: 46
@@ -2735,7 +2742,7 @@
   Updated: 2026-05-26T16:21:24Z
   Total Products: 3
 - [Winter Toy Must-Haves](https://www.littlebambinos.co.nz/collections/winter-toy-must-haves): As the chill sets in, it’s the perfect time to bring the fun indoors. This season, our Winter favourites are all about creativity, colour and connection!
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 27
 - [Modern Mini](https://www.littlebambinos.co.nz/collections/modern-mini): Modern Mini believes that parenthood should be both fashionable and functional. They’re dedicated to redefining baby essentials by blending aesthetics with practicality. Their goal is to provide stylish, contemporary essentials that meet the needs of today’s parents.
   Updated: 2026-10-27T11:01:52Z
@@ -2747,8 +2754,8 @@
   Updated: 2026-11-01T12:02:16Z
   Total Products: 3
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-30): Explore our oh-so-lovable picks under $30!
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 1552
+  Updated: 2026-11-11T12:02:15Z
+  Total Products: 1547
 - [Lucky Lasts](https://www.littlebambinos.co.nz/collections/lucky-lasts-1): These are our lucky lasts! Final sizes, final styles. Once they’re out the door, that’s all. Shop now before they're gone.
   Updated: 2026-10-24T11:02:02Z
   Total Products: 344
@@ -2759,121 +2766,121 @@
   Updated: 2026-10-26T11:01:37Z
   Total Products: 13
 - [Banwood](https://www.littlebambinos.co.nz/collections/banwood)
-  Updated: 2026-11-01T12:02:16Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 143
 - [Bikes & Scooters](https://www.littlebambinos.co.nz/collections/bikes-scooters)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 104
 - [Trybike](https://www.littlebambinos.co.nz/collections/trybike)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 17
 - [Little Luxury](https://www.littlebambinos.co.nz/collections/little-luxury): Playmats as fun and functional as they are beautiful. Nurturing your family's transition from newborn to childhood and beyond, with understated elegance and purposeful design.
   Updated: 2026-06-11T21:43:33Z
   Total Products: 5
 - [Stocking Fillers](https://www.littlebambinos.co.nz/collections/stocking-fillers-1)
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 81
 - [Swimwear](https://www.littlebambinos.co.nz/collections/swimwear)
-  Updated: 2026-11-04T01:31:44Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 456
 - [ - Gifting 25](https://www.littlebambinos.co.nz/collections/-gifting-25)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 4366
 - [ on New Arrivals](https://www.littlebambinos.co.nz/collections/-on-new-arrivals)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 1612
 - [Outdoor Play](https://www.littlebambinos.co.nz/collections/outdoor-toys)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 249
 - [Under $20](https://www.littlebambinos.co.nz/collections/under-20)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 485
 - [Under $30](https://www.littlebambinos.co.nz/collections/under-20-copy)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 1309
 - [Under $40](https://www.littlebambinos.co.nz/collections/under-30-copy)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 2152
 - [Girls Clothing on ](https://www.littlebambinos.co.nz/collections/girls-clothing-on-)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 941
 - [Boys Clothing on ](https://www.littlebambinos.co.nz/collections/boys-all-clothing-)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 569
 - [Baby Clothing on ](https://www.littlebambinos.co.nz/collections/baby-clothing-on-)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T02:23:35Z
   Total Products: 1172
 - [Tops on ](https://www.littlebambinos.co.nz/collections/baby-clothing-on--copy)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 54
 - [Clothing - Black Friday 25](https://www.littlebambinos.co.nz/collections/clothing-black-friday-25)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T02:23:35Z
   Total Products: 1735
 - [Beach Days & Big Plays](https://www.littlebambinos.co.nz/collections/beach-days-big-plays): It's time for Beach Days & Big Plays! Sun, sand, and endless fun for your little adventurers.
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 86
 - [Back to School 2026](https://www.littlebambinos.co.nz/collections/back-to-school-2026)
-  Updated: 2026-11-04T12:01:37Z
-  Total Products: 654
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 653
 - [Inkah](https://www.littlebambinos.co.nz/collections/inkah)
   Updated: 2026-09-30T11:01:35Z
   Total Products: 78
 - [Buy One Get One](https://www.littlebambinos.co.nz/collections/jan26-bogo): Shop some of our favourite brands in our buy one get one 1/2 price . Online now.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 1017
 - [Jan26 Bogo**](https://www.littlebambinos.co.nz/collections/jan26-bogo-copy)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-07T12:02:20Z
   Total Products: 1017
 - [Best of Summer](https://www.littlebambinos.co.nz/collections/best-of-summer)
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 1713
 - [Grown Towels](https://www.littlebambinos.co.nz/collections/grown-towel)
-  Updated: 2026-10-25T11:02:14Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 8
 - [Toshi Swim](https://www.littlebambinos.co.nz/collections/toshi-swim)
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 121
 - [Konge Pool](https://www.littlebambinos.co.nz/collections/konge-pool)
-  Updated: 2026-10-26T08:34:52Z
+  Updated: 2026-11-09T12:01:30Z
   Total Products: 27
 - [Kinderfeets](https://www.littlebambinos.co.nz/collections/kinderfeets)
-  Updated: 2026-11-02T12:01:41Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 63
 - [All Products (Excluding Selected Vendors)](https://www.littlebambinos.co.nz/collections/all-products-excluding-selected-vendors): Browse our full range of products at Little Bambinos NZ, excluding selected vendor brands.
-  Updated: 2026-11-05T12:01:41Z
-  Total Products: 6250
+  Updated: 2026-11-12T12:02:00Z
+  Total Products: 6237
 - [All you need bags](https://www.littlebambinos.co.nz/collections/all-you-need-bags)
   Updated: 2026-11-02T12:01:41Z
   Total Products: 22
 - [Pretty Brave](https://www.littlebambinos.co.nz/collections/pretty-brave)
-  Updated: 2026-10-01T11:02:00Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 60
 - [CONNETIX Pastel Magnetic Tiles](https://www.littlebambinos.co.nz/collections/connetix-pastel-magnetic-tiles): Shop CONNETIX Pastel magnetic tiles in NZ: starter, creative, mega, ball run and transport packs in soft pastel tones. Free NZ shipping over $149.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 13
 - [CONNETIX Bright Magnetic Tiles](https://www.littlebambinos.co.nz/collections/connetix-bright-magnetic-tiles): Shop CONNETIX Bright (formerly Rainbow) magnetic tiles in NZ: starter, creative, mega, ball run, transport and portal packs. Free NZ shipping over $149.
-  Updated: 2026-11-04T17:38:15Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 12
 - [CONNETIX Magnetic Ball Runs](https://www.littlebambinos.co.nz/collections/connetix-ball-run): Shop CONNETIX magnetic ball runs in NZ: Bright, Pastel, Galaxy and Super Ball Run packs, expansions, launchers and replacement balls. Free NZ shipping over $149.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 9
 - [CONNETIX Roads & Transport](https://www.littlebambinos.co.nz/collections/connetix-roads-transport): Shop CONNETIX roads, ramps, car bases and transport packs in NZ. Build vehicles, roads and whole towns with magnetic tiles. Free NZ shipping over $149.
-  Updated: 2026-11-04T12:01:37Z
+  Updated: 2026-11-11T12:02:15Z
   Total Products: 6
 - [CONNETIX Glitter & Light Tiles](https://www.littlebambinos.co.nz/collections/connetix-glitter-light-tiles): Shop CONNETIX glitter and light-up magnetic tiles in NZ: Glitter Unicorn, Glitter Castle, Light Star, Light Rocket and Ball Run Galaxy packs.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 5
 - [CONNETIX Base Plates, Expansions & Add-ons](https://www.littlebambinos.co.nz/collections/connetix-base-plates-add-ons): Grow your CONNETIX collection: base plates, shape, rectangle, geometry and square expansions, ball run add-ons, car packs and replacement balls in NZ.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 13
 - [CONNETIX Starter Packs](https://www.littlebambinos.co.nz/collections/connetix-starter-packs): The best first CONNETIX set for ages 3+: Mini, Starter, Motion and Travel packs in Bright and Pastel. Shop magnetic tiles in NZ at Little Bambinos.
-  Updated: 2026-11-03T12:01:31Z
+  Updated: 2026-11-10T12:01:47Z
   Total Products: 6
 - [CONNETIX Large Sets](https://www.littlebambinos.co.nz/collections/connetix-large-sets): Shop large CONNETIX sets in NZ: Mega Packs (202pc), Creative Packs, 114pc ball runs, Super Ball Run and PRO Constructor. Ideal for families and classrooms.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 8
 - [CONNETIX Under $100](https://www.littlebambinos.co.nz/collections/connetix-under-100): CONNETIX magnetic tile gifts under $100 in NZ: mini packs, geometry, motion, light, car and base plate packs. Perfect birthday and Christmas gifts.
-  Updated: 2026-11-05T12:01:41Z
+  Updated: 2026-11-12T12:02:00Z
   Total Products: 18
 
 ## Blogs
