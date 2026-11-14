@@ -8,7 +8,7 @@
 - Contact Email: hello@aytexcel.com
 - Contact Phone: +91 98200 22205
 - Address: Esperanza, 1101/02, Linking Rd, next to Just in Time, Bandra West, Mumbai, Maharashtra 400050
-- Updated At: 2026-11-07T00:27:08.732Z
+- Updated At: 2026-11-14T00:32:32.266Z
 
 # Aytexcel — India's Premier Destination for Premium Home Projectors & Home Cinema
 
@@ -501,19 +501,19 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/41U36QmcNgL._SL1200.jpg?v=1737529976
   Price: ₹70,000.00 INR
 - [Fscreen Fresnel Iris Series Magnetic Rollable Projection Screen for Long Throw Projector](https://aytexcel.com/products/fresnel-iris-series-magnetic-rollable-projection-screen-for-long-throw): Features: OMNIS Technology Calibrated Color accuracy OMNIS : Optical Microstructure Non- spherical Imaging System Concentric half-circle fresnel lens design Fresnel ALR technology and 8-layer optics precision structure Up to 85% ambient light rejection （light from ceiling and side) 1.6 gain and 160° viewing angle for a immersive display. 1.22mm Ultra thin frame Magnetic and rollbale&flexible screen design.
-  Updated: 2026-10-04T10:50:40Z
+  Updated: 2026-11-11T13:54:51Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Iris-MR-800-800.webp?v=1737531749
   - [100"inch](https://aytexcel.com/products/fresnel-iris-series-magnetic-rollable-projection-screen-for-long-throw?variant=45801698033922)
     Availability: Available
-    Price: ₹200,000.00 INR
+    Price: ₹105,000.00 INR
   - [120"inch](https://aytexcel.com/products/fresnel-iris-series-magnetic-rollable-projection-screen-for-long-throw?variant=45801698066690)
     Availability: Available
-    Price: ₹210,000.00 INR
+    Price: ₹140,000.00 INR
 - [Fscreen Fresnel Aura Series Magnetic Rollable Projection Screen For UST](https://aytexcel.com/products/formovie-fresnel): OMNIS Technology Calibrated Color accuracy -OMNIS : Optical Microstructure Non- spherical Imaging System · Concentric half-circle fresnel lens design · Fresnel ALR technology and 8-layer optics precision structure · Up to 85% ambient light rejection （light from ceiling and side) · 1.6 gain and 160° viewing angle for a immersive display. · 1.22mm Ultra thin frame · Magnetic and rollbale&flexible screen design.
-  Updated: 2026-10-04T10:50:40Z
+  Updated: 2026-11-11T13:56:51Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
@@ -523,33 +523,25 @@ Our expert team is standing by to help you choose the perfect projector and scre
     Price: ₹110,000.00 INR
   - [120" inch](https://aytexcel.com/products/formovie-fresnel?variant=45801742860546)
     Availability: Available
-    Price: ₹200,000.00 INR
-- [Fscreen Fresnel Aura Series Fixed Frame Projection Screen for UST](https://aytexcel.com/products/fresnel-aura): OMNIS Technology Calibrated Color accuracy -OMNIS : Optical Microstructure Non- spherical Imaging System · Concentric half-circle fresnel lens design · Fresnel ALR technology and 8-layer optics precision structure · Up to 85% ambient light rejection （light from ceiling and side) · 1.6 gain and 160° viewing angle for a immersive display. · 1.22mm Ultra thin frame · Magnetic and rollbale&flexible screen design.
-  Updated: 2026-10-04T10:50:40Z
+    Price: ₹140,000.00 INR
+- [Fscreen Fresnel Aura FD Fixed Frame Projection Screen for UST](https://aytexcel.com/products/fresnel-aura): OMNIS Technology Calibrated Color accuracy -OMNIS : Optical Microstructure Non- spherical Imaging System · Concentric half-circle fresnel lens design · Fresnel ALR technology and 8-layer optics precision structure · Up to 85% ambient light rejection （light from ceiling and side) · 1.6 gain and 160° viewing angle for a immersive display. · 1.22mm Ultra thin frame · Magnetic and rollbale&flexible screen design.
+  Updated: 2026-11-12T05:59:11Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Irif-FF-800-800.webp?v=1737533381
-  Price: ₹225,000.00 INR
-- [Formovie Fresnel Ultra Thin Fixed Frame ALR Projector Screen](https://aytexcel.com/products/formovie-fresnel-ultra-thin-fixed-frame-mounted-screen): The Formovie Fresnel Ultra Thin Fixed Frame Screen is a wall mounted projection screen with patented ALR (ambient light rejecting) material that supports anti-ghosting. It uses a 0.5 mm ultra-thin rollable diaphragm and a segmented frame that is easy to assemble. Patented ALR material with anti-ghosting support 0.5 mm ultra-thin rollable diaphragm Segmented frame for easy assembly Fixed frame, wall mounted
-  Updated: 2026-10-22T23:41:09Z
-  Vendor: Formovie
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/wecom-temp-3645177-681720d81ef5cadceea419e874cdc6241_900x_5272c002-dfda-495d-9c3e-08e74745bdb1.webp?v=1759236249
-  Price: ₹140,000.00 INR
-- [Vividstorm S PRO Motorised Tension Floor Rising ALR Screen for UST Laser Projectors](https://aytexcel.com/products/vividstorm-s-pro-electric-tension-floor-screen-for-ust-projector-aytexcel): New choice projector screen for UST Laser projectors – The screen material with special optical sawtooth structure and the light-rejecting filter to give a stunning performance in CEILING AMBIENT LIGHT. because the UST ALR material use a special optical serrated structure and a light suppression fitter; so the projected light will be effectively reflected to the viewer, and the ceiling light will be blocked or absorbed;(Not Compatible for the projector suspended installed! Eye Protection feature & A fit for any room: Feast your eyes on awe-inspiring visuals with deeper colors；Projectors are able to produce much larger images, which put less strain on your eyes. In addition to this, projectors reflect light while TVs emit it. Reflected light is easier on your eyes, keeping your eyes comfortable without the added strain created by emitted light. you can enjoy a cinematic experience from the comfort of your own theater! Fast easy to Set UP & Space-saving Design – Plug in the power cord to achieve the installation in 1 minute! ; No screws necessary;Change any indoor viewing place with your mood! Electric Pop-up/Floor Rising series projector screen is a collection of premium retractable electric screens that VIVIDSTORM Unique Wire Tension Technology. Flatness like glass surface. and extend upward from the floor. when the screen is not used, just close it which makes it unobtrusive； First Class Customer Service – A ISO9001 manufacturer since 2004. 2 years Manufacture Warranty. You no longer need a pitch black room to get a good image；Enjoy your favorite movies and TV shows anywhere in your home, day or night.Provide size 72-120inch, please choose the right screen according to your own space!or Please contact us, we will give you the good advice!
-  Updated: 2026-10-22T23:41:22Z
-  Vendor: Vividstorm
-  Product Type: Screens
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_23ee2a97-711c-4165-9bf2-aa7942719316.jpg?v=1755758410
-  - [100" inch / Black](https://aytexcel.com/products/vividstorm-s-pro-electric-tension-floor-screen-for-ust-projector-aytexcel?variant=45801802432770)
+  - [100" inch](https://aytexcel.com/products/fresnel-aura?variant=51033987285250)
     Availability: Available
-    Price: ₹165,000.00 INR
-  - [100" inch / White](https://aytexcel.com/products/vividstorm-s-pro-electric-tension-floor-screen-for-ust-projector-aytexcel?variant=46687096275202)
-    Availability: Not Available
-    Price: ₹165,000.00 INR
+    Price: ₹140,000.00 INR
+  - [120" inch](https://aytexcel.com/products/fresnel-aura?variant=45801768714498)
+    Availability: Available
+    Price: ₹170,000.00 INR
+  - [130" inch](https://aytexcel.com/products/fresnel-aura?variant=51033987318018)
+    Availability: Available
+    Price: ₹310,000.00 INR
+  - [150" inch](https://aytexcel.com/products/fresnel-aura?variant=51033987350786)
+    Availability: Available
+    Price: ₹450,000.00 INR
 - [Hisense C2 Ultra 4K Triple Laser Projector India](https://aytexcel.com/products/hisense-c2-ultra): Hisense C2 Ultra in India: 4K triple laser, 3,000 lumens, 65–300-inch image, 240Hz gaming, Dolby Vision and 40W JBL sound. Official warranty, GST invoice.
   Updated: 2026-10-26T19:18:28Z
   Vendor: Hisense
@@ -676,61 +668,54 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_design_-_2025-08-20T161548.594.jpg?v=1755686882
   Price: ₹125,000.00 INR
-- [Vividstorm S PRO P Motorised Floor Rising ALR Screen for UST Laser Projectors with Acoustic Transparent Border](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency): Perforate Acoustically Sound Transparent – The BELOW BLACK BORDER adds a perforated design, which satisfies the customer’s pursuit of stereo effects, and achieves a more stereoscopic effect. New choice projector screen for UST Laser projectors – The screen material with special optical sawtooth structure and the light-rejecting filter to give a stunning performance in CEILING AMBIENT LIGHT. because the UST ALR material use a special optical serrated structure and a light suppression fitter; so the projected light will be effectively reflected to the viewer, and the ceiling light will be blocked or absorbed;(Not Compatible for the projector suspended installed!） Eye Protection feature & A fit for any room: Feast your eyes on awe-inspiring visuals with deeper colors；Projectors are able to produce much larger images, which put less strain on your eyes. In addition to this, projectors reflect light while TVs emit it. Reflected light is easier on your eyes, keeping your eyes comfortable without the added strain created by emitted light. you can enjoy a cinematic experience from the comfort of your own theater! Fast easy to Set UP & Space-saving Design – Plug in the power cord to achieve the installation in 1 minute! ; No screws necessary;Change any indoor viewing place with your mood! Electric Pop-up/Floor Rising series projector screen is a collection of premium retractable electric screens that VIVIDSTORM Unique Wire Tension Technology. Flatness like glass surface. and extend upward from the floor. when the screen is not used, just close it which makes it unobtrusive； First Class Customer Service – A ISO9001 manufacturer since 2004. 2 years Manufacture Warranty. You no longer need a pitch black room to get a good image；Enjoy your favorite movies and TV shows anywhere in your home, day or night.Provide size 72-120inch, please choose the right screen according to your own space!or Please contact us, we will give you the good advice!
-  Updated: 2026-10-22T23:41:22Z
-  Vendor: Vividstorm
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_0f5cec77-e98d-483e-985b-5bade0f2eaed.jpg?v=1755767055
-  - [100" / Black](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency?variant=46686715248898)
-    Availability: Available
-    Price: ₹200,000.00 INR
-  - [110" / Black](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency?variant=46689650704642)
-    Availability: Available
-    Price: ₹215,000.00 INR
-  - [120" / Black](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency?variant=46689650737410)
-    Availability: Available
-    Price: ₹225,000.00 INR
-  - [130" / Black](https://aytexcel.com/products/vividstorm-s-pro-p-motorised-rollable-ust-laser-projector-screen-with-acoustic-transparency?variant=46689650770178)
-    Availability: Available
-    Price: ₹250,000.00 INR
 - [Vividstorm PRO Slimline Motorised Drop-Down ALR Screen for UST Laser Projectors](https://aytexcel.com/products/pro-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projectors): The Vividstorm PRO Slimline is a motorised drop-down tension screen with ambient light rejecting (ALR) material, made for ultra short throw (UST) laser projectors. It is available in 100, 120 and 130 inch sizes with a black finish. Motorised drop-down tension screen with a slimline design Ambient light rejecting (ALR) material for UST laser projectors Sizes: 100, 120 and 130 inch Check your projector's recommended screen size and throw distance before choosing a size.
-  Updated: 2026-10-22T23:41:23Z
+  Updated: 2026-11-11T06:53:18Z
   Vendor: Vividstorm
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitleddesign-2025-08-21T153345.260.jpg?v=1755770699
   - [100" / Black](https://aytexcel.com/products/pro-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projectors?variant=46686979981570)
     Availability: Available
-    Price: ₹200,000.00 INR
+    Price: ₹230,000.00 INR
   - [120" / Black](https://aytexcel.com/products/pro-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projectors?variant=46686980014338)
     Availability: Available
-    Price: ₹250,000.00 INR
+    Price: ₹285,000.00 INR
   - [130" / Black](https://aytexcel.com/products/pro-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projectors?variant=46686980047106)
     Availability: Available
-    Price: ₹280,000.00 INR
+    Price: ₹340,000.00 INR
 - [Vividstorm PRO A Slimline Motorised Drop-Down ALR Screen for Ceiling-Mounted UST Laser Projectors](https://aytexcel.com/products/pro-a-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projector-ceiling-mount-suspended): The Vividstorm PRO A Slimline is a motorised drop-down tension screen with ambient light rejecting (ALR) material, made for ultra short throw (UST) laser projectors that are ceiling mounted (suspended). It is available in 100, 120 and 130 inch sizes with a black finish. Motorised drop-down tension screen with a slimline design Ambient light rejecting (ALR) material for UST laser projectors Made for setups where the UST projector is ceiling mounted Sizes: 100, 120 and 130 inch Check your projector's recommended screen size and throw distance before choosing a size.
-  Updated: 2026-10-22T23:41:23Z
+  Updated: 2026-11-11T06:52:15Z
   Vendor: Vividstorm
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_d79e2c4d-d1de-45d8-babc-a047ce2623d6.jpg?v=1755776246
   - [100" / Black](https://aytexcel.com/products/pro-a-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projector-ceiling-mount-suspended?variant=46687087264002)
     Availability: Available
-    Price: ₹200,000.00 INR
+    Price: ₹230,000.00 INR
   - [120" / Black](https://aytexcel.com/products/pro-a-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projector-ceiling-mount-suspended?variant=46689652932866)
     Availability: Available
-    Price: ₹250,000.00 INR
+    Price: ₹285,000.00 INR
   - [130" / Black](https://aytexcel.com/products/pro-a-slimline-tension-screen-with-ultra-short-throw-ambient-light-rejecting-for-ust-alr-laser-projector-ceiling-mount-suspended?variant=46687087296770)
     Availability: Available
-    Price: ₹280,000.00 INR
+    Price: ₹340,000.00 INR
 - [VIVIDSTORM PHANTOM Recessed In-Ceiling Motorized Tension UST ALR Projector Screen](https://aytexcel.com/products/vividstorm-phantom-recessed-in-ceiling-motorized-tension-ust-alr-projector-screen): Discover the VIVIDSTORM PHANTOM recessed in-ceiling motorized tension UST ALR projector screen, designed for a sleek home cinema with stunning visuals and space-saving elegance.
-  Updated: 2026-10-22T23:41:23Z
+  Updated: 2026-11-12T05:54:58Z
   Vendor: Vividstorm
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01_3e9f11c2-8546-4045-b0ce-0b2a93660395.jpg?v=1755849118
-  Price: ₹100,000.00 INR
+  - [100" inch / Black](https://aytexcel.com/products/vividstorm-phantom-recessed-in-ceiling-motorized-tension-ust-alr-projector-screen?variant=46689195393282)
+    Availability: Available
+    Price: ₹240,000.00 INR
+  - [100" inch / White](https://aytexcel.com/products/vividstorm-phantom-recessed-in-ceiling-motorized-tension-ust-alr-projector-screen?variant=51034039255298)
+    Availability: Not Available
+    Price: ₹240,000.00 INR
+  - [120" inch / Black](https://aytexcel.com/products/vividstorm-phantom-recessed-in-ceiling-motorized-tension-ust-alr-projector-screen?variant=51034038632706)
+    Availability: Available
+    Price: ₹310,000.00 INR
+  - [120" inch / White](https://aytexcel.com/products/vividstorm-phantom-recessed-in-ceiling-motorized-tension-ust-alr-projector-screen?variant=51034039288066)
+    Availability: Not Available
+    Price: ₹310,000.00 INR
 - [Valerion VisionMaster Max 4K Triple Laser Projector, 3500 ISO Lumens with Dolby Vision](https://aytexcel.com/products/valerion-visionmaster-max-4k-triple-laser-projector): Discover the Valerion VisionMaster Max: 4K UHD triple-laser projector with 3500 ISO lumens, Dolby Vision, 110% Rec.2020 color, and Google TV. Perfect for immersive home theaters in India
   Updated: 2026-10-22T23:41:22Z
   Vendor: Valerion
@@ -746,12 +731,12 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled-jmgo_o2s.jpg?v=1781507477
   Price: ₹310,000.00 INR
 - [C1 Nano Compact Smart Flip Laser TV Cabinet For UST Projector](https://aytexcel.com/products/c1-nano-compact-smart-flip-laser-tv-cabinet-for-ust-projector): Flip Design with Ambient Glow – Flip open to reveal a built-in LED light strip that instantly creates a cinematic atmosphere. Compact & Mobile – Space-saving design fits perfectly in any room; easy to move between living room, bedroom, or office. Smart Projector Integration – Auto memory for your projector settings; just set once and enjoy seamless alignment every time. Silent Operation – Smooth and whisper-quiet lift system for distraction-free viewing. Child & Pet Safe – Anti-pinch sensors and obstacle detection ensure safe automatic stop when movement is detected.
-  Updated: 2026-10-27T07:09:05Z
+  Updated: 2026-11-11T14:06:42Z
   Vendor: AYTEXCEL 
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/c1_nano_jpg_01.jpg?v=1781871660
-  Price: ₹225,000.00 INR
+  Price: ₹240,000.00 INR
 - [JMGO N3 4K Laser Projector with 1.3x Optical Zoom](https://aytexcel.com/products/jmgo-n3-4k): JMGO N3 4K in India: MALC 3.0 triple-laser 4K, 1.3x optical zoom, 360° gimbal, auto focus and keystone, Google TV. Official warranty and GST invoice.
   Updated: 2026-10-26T19:18:25Z
   Vendor: JMGO
@@ -767,7 +752,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/03_bde226e3-acd1-4fd0-b457-41d6c27d3c28.webp?v=1766472641
   Price: ₹85,000.00 INR
 - [Vividstorm S PRO P PLUS Motorised Tension Floor Rising ALR Screen for UST Laser Projectors](https://aytexcel.com/products/vividstorm-s-pro-p-plus-motorized-tension-floor-rising-screen-made-for-ultra-short-throw-laser-projectors): The Vividstorm S PRO P PLUS is a motorised tension floor rising screen made for ultra short throw (UST) laser projectors, available in 100, 110, 120 and 130 inch sizes. Its ALR/CLR lenticular screen material rejects light from ceiling lamps, so the picture stays bright and contrasty with the lights on. The tab-tensioned rope design keeps the surface flat, and the screen rises from the floor in about 20 to 30 seconds with no drilling or wall installation. UST ALR screen material with ceiling light rejection (ALR/CLR, lenticular) Black bottom border with 0.4 mm perforations that let sound from speakers placed below pass through 0.6 gain and 170 degree viewing angle, with 4K support Four control methods for the motorised lift Made for UST laser projectors of 1800 ANSI lumens or more Plug and play setup, no drilling required Check your projector's recommended screen size and throw distance before choosing a size.Screen material featuresSize guide
-  Updated: 2026-10-22T23:41:23Z
+  Updated: 2026-11-11T05:58:35Z
   Vendor: Vividstorm
   Product Type: Screens
   Availability: Available
@@ -777,13 +762,13 @@ Our expert team is standing by to help you choose the perfect projector and scre
     Price: ₹170,000.00 INR
   - [110"](https://aytexcel.com/products/vividstorm-s-pro-p-plus-motorized-tension-floor-rising-screen-made-for-ultra-short-throw-laser-projectors?variant=47611356119298)
     Availability: Available
-    Price: ₹185,000.00 INR
+    Price: ₹200,000.00 INR
   - [120"](https://aytexcel.com/products/vividstorm-s-pro-p-plus-motorized-tension-floor-rising-screen-made-for-ultra-short-throw-laser-projectors?variant=47611356152066)
     Availability: Available
-    Price: ₹199,999.00 INR
+    Price: ₹215,000.00 INR
   - [130"](https://aytexcel.com/products/vividstorm-s-pro-p-plus-motorized-tension-floor-rising-screen-made-for-ultra-short-throw-laser-projectors?variant=47611356184834)
     Availability: Available
-    Price: ₹235,000.00 INR
+    Price: ₹270,000.00 INR
 - [Hisense XR10 4K Laser Projector, 6000 Lumens India](https://aytexcel.com/products/hisense-xr10): Hisense XR10 in India: 4K triple laser, up to 6,000 ANSI lumens, 65–300-inch image, optical zoom and lens shift. Official warranty, GST invoice, Bandra demo.
   Updated: 2026-10-27T06:13:03Z
   Vendor: Hisense
@@ -792,26 +777,19 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_design_12.png?v=1781158258
   Price: ₹575,000.00 INR
 - [AWOL Vision Aetherion Max](https://aytexcel.com/products/aetherion-max-rgb-laser-ust-projector): 4K clarity at up to 200” 3300 ISO Lumens 6000:1 Native Contrast PixelLock™ Technology Anti-RBE in Both 2D & 3D 110% Rec.2020 VRR(Variable Refresh Rate) + 1ms Latency
-  Updated: 2026-10-31T06:30:37Z
+  Updated: 2026-11-09T08:15:46Z
   Vendor: AWOL Vision
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Untitled_1080x1080px_4.jpg?v=1777886288
   Price: ₹465,000.00 INR
 - [JMGO N3 Ultimate 4K Triple Laser Projector India](https://aytexcel.com/products/jmgo-n3-ultimate): Buy the JMGO N3 Ultimate in India: 5,800 ISO lumens, MALC 5.0 4K triple laser, optical zoom, lens shift and AI gimbal. Official warranty and GST invoice.
-  Updated: 2026-10-22T23:41:12Z
+  Updated: 2026-11-09T08:18:07Z
   Vendor: JMGO
   Product Type: ULTRA LONG THROW PROJECTOR
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/jmgo-n3-ultimate-front-view_1400x1400_f67ad56e-1026-4f74-8db2-a9dc0ae3cd0b.webp?v=1780394348
-  Price: ₹325,000.00 INR
-- [NECTUNT S-8 Smart Intelligent Electric Invisible UST Projector TV Cabinet](https://aytexcel.com/products/nectunt-s-8-smart-intelligent-electric-invisible-ust-projector-tv-cabinet): If you mean the NECTUNT S-8 Smart Intelligent Electric Invisible UST Projector TV Cabinet, it is not a projector itself. It is a premium motorized cabinet designed to hide and automatically extend an Ultra Short Throw (UST) projector. Key Visual Features: Hidden projector installation design Motorized slide-out mechanism One-button automatic operation Intelligent anti-collision safety system Memory function to save projector position Compatible with most UST laser projectors Suitable for 88" to 120" screens Designed for modern home theater setups Materials Rock plate top panel Solid wood + steel cabinet body Aluminum alloy + diamond glass doors "Transform your living room into a premium cinema with the NECTUNT S-8 Intelligent UST Cabinet. Featuring a hidden motorized projector lift, elegant furniture-grade design, and smart one-touch operation for a clutter-free home theater experience."
-  Updated: 2026-10-22T23:41:26Z
-  Vendor: NECTUNT
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/H50999f797e6849fbb81ed43875d3ba999.avif?v=1781867898
-  Price: ₹228,000.00 INR
+  Price: ₹323,000.00 INR
 - [Hisense PX4 Pro 4K UST Laser Projector in India](https://aytexcel.com/products/hisense-px4-pro-4k-ultra-short-throw-projector): Hisense PX4 Pro 4K UST laser projector: 100 inches from about 45 cm, 3,500 ANSI lumens, 66W Devialet Dolby Atmos, 240Hz gaming. India warranty, GST invoice.
   Updated: 2026-10-31T06:31:42Z
   Vendor: Hisense
@@ -826,13 +804,13 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/ChatGPT_Image_Jul_14_2026_11_18_09_AM.png?v=1784008244
   Price: ₹99,999.00 INR
-- [Motorized Slider Tray (Auto Extendable Shelf) – 150 Inch](https://aytexcel.com/products/motorized-slider-tray-auto-extendable-shelf-150-inch): Upgrade your home theater setup with the Motorized Slider Tray (Auto Extendable Shelf), specially designed for Ultra Short Throw (UST) Projectors. This intelligent motorized platform automatically extends the projector to the perfect viewing position when in use and retracts it neatly inside the cabinet when powered off, creating a clean and modern entertainment space. Perfect for installations with 150-inch projection screens, this premium sliding tray ensures precise projector positioning while protecting your projector from dust and accidental damage. Key Features Automatic forward & backward sliding mechanism Designed for Ultra Short Throw (UST) projectors Compatible with up to 150-inch screen installations Smooth, quiet and stable motorized operation Saves cabinet space with concealed installation Premium metal construction for maximum durability Ideal for luxury home theaters and smart living rooms Easy wall or cabinet-top installation Professional and clutter-free appearance Benefits Keeps your projector hidden when not in use. Maintains perfect throw distance every time. Enhances the aesthetics of your entertainment setup. Reduces dust exposure and accidental damage. Provides convenient one-touch automatic operation. What's in the Box 1 × Motorized Slider Tray Mounting Accessories Power Adapter User Manual
-  Updated: 2026-10-27T07:06:57Z
+- [Motorized Slider Tray (Auto Extendable Shelf)](https://aytexcel.com/products/motorized-slider-tray-auto-extendable-shelf-150-inch): Upgrade your home theater setup with the Motorized Slider Tray (Auto Extendable Shelf), specially designed for Ultra Short Throw (UST) Projectors. This intelligent motorized platform automatically extends the projector to the perfect viewing position when in use and retracts it neatly inside the cabinet when powered off, creating a clean and modern entertainment space. Perfect for installations with 150-inch projection screens, this premium sliding tray ensures precise projector positioning while protecting your projector from dust and accidental damage. Key Features Automatic forward & backward sliding mechanism Designed for Ultra Short Throw (UST) projectors Compatible with up to 150-inch screen installations Smooth, quiet and stable motorized operation Saves cabinet space with concealed installation Premium metal construction for maximum durability Ideal for luxury home theaters and smart living rooms Easy wall or cabinet-top installation Professional and clutter-free appearance Benefits Keeps your projector hidden when not in use. Maintains perfect throw distance every time. Enhances the aesthetics of your entertainment setup. Reduces dust exposure and accidental damage. Provides convenient one-touch automatic operation. What's in the Box 1 × Motorized Slider Tray Mounting Accessories Power Adapter User Manual
+  Updated: 2026-11-12T02:04:36Z
   Vendor: AYTEXCEL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/Slider.jpg?v=1784029001
-  Price: ₹39,999.00 INR
+  Price: ₹49,999.00 INR
 - [Hisense C3 Ultra TriChroma Laser Projector India](https://aytexcel.com/products/hisense-c3-ultra-trichroma-smart-projector): Hisense C3 Ultra 4K TriChroma triple-laser projector with Dolby Atmos sound, from an authorised India partner. Official warranty, GST invoice and Bandra demo.
   Updated: 2026-11-03T06:43:34Z
   Vendor: Hisense
@@ -897,17 +875,24 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/JMGO_picoplay_13.jpg?v=1772455213
   Price: ₹645,000.00 INR
 - [NECTUNT T21 Smart Laser  Module](https://aytexcel.com/products/nectunt-t21-smart-laser-module): Smart Design. Seamless Integration. Premium Home Cinema. Transform your home entertainment setup with the NECTUNT T21 Smart Laser TV Module, an intelligent motorized sliding cabinet module designed for Ultra Short Throw (UST) laser projectors.
-  Updated: 2026-10-26T22:05:47Z
+  Updated: 2026-11-11T14:02:54Z
   Vendor: AYTEXCEL
   Product Type: 
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/T2102.jpg?v=1793008623
-  Price: ₹300,000.00 INR
+  Price: ₹240,000.00 INR
+- [FSCREEN Series Fresnel ALR Zigzag Frame Projection Screen -100 Inch](https://aytexcel.com/products/zigzag-af-fresnel-screen-for-table-top-and-ceiling-mounted): · OMNIS Technology Calibrated Color accuracy.-OMNIS : Optical Microstructure Non- spherical Imaging System· Concentric half-circle fresnel lens design.· Fresnel ALR technology and 8-layer optics precision structure.· Up to 85% ambient light rejection .（light from ceiling and side)· 1.8 gain and 160° viewing angle for a immersive display.· Ultra-Lightweight 100 inch only 6.7 KG· Foldable&Rollable design. Watch anytime&anywhere.
+  Updated: 2026-11-12T19:45:15Z
+  Vendor: AYTEXCEL 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0737/4418/7650/files/01zigzag.webp?v=1794468839
+  Price: ₹150,000.00 INR
 
 ## Collections
 
 - [JMGO](https://aytexcel.com/collections/jmgo-projectors): Shop JMGO 4K laser projectors in India: N3 4K, O2S Ultra, N1S Ultra and N1S Ultimate with MALC triple-laser optics. Official India warranty and GST invoice.
-  Updated: 2026-10-26T07:46:41Z
+  Updated: 2026-11-09T08:18:08Z
   Total Products: 11
 - [Formovie](https://aytexcel.com/collections/formovie-projectors): Shop Formovie 4K UST laser projectors and mini home‑theater projectors at Aytexcel, including Theater, Cinema Edge, R1, V10, and compact models for premium big‑screen viewing
   Updated: 2026-10-22T12:07:17Z
@@ -916,8 +901,8 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-10-22T12:07:19Z
   Total Products: 5
 - [Vividstorm](https://aytexcel.com/collections/vividstorm-alr-motorized-floor-screens): Elevate your Valerion VisionMaster Max setup with Vividstorm S PRO ALR screens—motorized floor-rising, 120" 4K/8K, 95% light rejection. Fast India delivery for stunning home theaters!
-  Updated: 2026-10-22T11:43:53Z
-  Total Products: 6
+  Updated: 2026-11-12T05:06:00Z
+  Total Products: 4
 - [ROKID](https://aytexcel.com/collections/rokid-ar-glasses): Shop ROKID AR smart glasses in India at Aytexcel. Explore models like Rokid Max 2 and AR Joy Pack with advanced AI features, immersive displays, and special discounts.
   Updated: 2026-10-22T12:07:22Z
   Total Products: 3
@@ -925,7 +910,7 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-11-03T06:43:35Z
   Total Products: 11
 - [Ultra Short Throw Projector](https://aytexcel.com/collections/ultra-short-throw-projectors): Shop ultra short throw projectors at Aytexcel, including 4K UST laser projectors and compact models perfect for small rooms, home theaters, and bright‑room setups
-  Updated: 2026-10-31T06:32:24Z
+  Updated: 2026-11-09T08:15:48Z
   Total Products: 14
 - [Long Throw Projector](https://aytexcel.com/collections/long-throw-projectors): Shop long throw 4K laser and gimbal projectors in India from Hisense, JMGO, Valerion, Formovie and Dangbei. Authorised distributor, 1-year Indian warranty, GST invoice.
   Updated: 2026-11-03T06:43:35Z
@@ -934,17 +919,17 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-10-22T12:07:19Z
   Total Products: 10
 - [Accessories](https://aytexcel.com/collections/projector-accessories): Explore projector accessories at Aytexcel: ceiling mounts, floor stands, desktop gimbals, and mounts for UST projectors and projection screens to complete your home‑theater setup.
-  Updated: 2026-10-27T07:06:59Z
+  Updated: 2026-11-11T14:06:43Z
   Total Products: 13
 - [Projectors](https://aytexcel.com/collections/projectors): Discover premium high-end projectors in India: Hisense, Dangbei, JMGO, Valerion, Formovie, AWOL along with essential accessories for your projector. Free delivery, 1-year warranty, best prices on laser home theater projectors. Shop now
   Updated: 2026-10-31T06:32:24Z
   Total Products: 28
 - [Screens](https://aytexcel.com/collections/projector-screens): Buy ALR, Fresnel and motorised projector screens in India for UST and long-throw projectors: Vividstorm, Fscreen, Formovie. Local stock, GST invoice, installation.
-  Updated: 2026-10-22T12:07:15Z
-  Total Products: 12
+  Updated: 2026-11-12T07:45:53Z
+  Total Products: 11
 - [Fscreen](https://aytexcel.com/collections/fscreen-fresnel-screens)
-  Updated: 2026-10-12T17:56:33Z
-  Total Products: 3
+  Updated: 2026-11-12T07:45:53Z
+  Total Products: 4
 - [Valerion](https://aytexcel.com/collections/valerion-projectors): Shop Valerion VisionMaster home‑theater projectors at Aytexcel, including VisionMaster Plus 2 and VisionMaster PRO 2 models for premium cinematic viewing experiences
   Updated: 2026-10-27T06:49:11Z
   Total Products: 3
@@ -955,19 +940,19 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-03-02T12:56:14Z
   Total Products: 0
 - [New Arrivals](https://aytexcel.com/collections/new-arrivals)
-  Updated: 2026-11-03T06:43:35Z
+  Updated: 2026-11-11T14:05:42Z
   Total Products: 10
 - [Best ](https://aytexcel.com/collections/best-sellers): Explore Aytexcel's best- projectors, ALR screens, and home theatre solutions. Shop premium 4K laser projectors, Ultra Short Throw projectors, projection screens, and AV accessories from leading global brands. Why Customers Love These Products Best  Premium Projectors 4K UHD & Triple Laser Technology Dolby Vision, HDR10+ & Wide Color Gamut Ultra Short Throw & Long Throw Options Premium ALR & Fresnel Projection Screens Perfect for Home Theatre & Smart Homes High Brightness for Day & Night Viewing 🇮🇳 Expert Support & Pan India Delivery Shop with confidence and experience the best in home entertainment with Aytexcel's top-rated AV solutions.
-  Updated: 2026-10-31T06:32:24Z
-  Total Products: 9
+  Updated: 2026-11-12T05:05:59Z
+  Total Products: 8
 - [AWOL VISION](https://aytexcel.com/collections/awol): Buy AWOL Vision Aetherion RGB triple-laser ultra short throw projectors in India from authorised distributor Aytexcel. Local stock, 1-year warranty, GST invoice.
-  Updated: 2026-10-31T06:30:38Z
+  Updated: 2026-11-09T08:15:48Z
   Total Products: 3
 - [Premium Smart Projection Cabinets](https://aytexcel.com/collections/cabinets): Premium smart laser TV cabinets that hide and lift your ultra short throw projector. Available in India from Aytexcel with installation support.
-  Updated: 2026-10-27T07:06:59Z
+  Updated: 2026-11-11T14:06:43Z
   Total Products: 5
 - [Nectunt](https://aytexcel.com/collections/nectunt)
-  Updated: 2026-10-26T10:00:31Z
+  Updated: 2026-11-11T14:06:43Z
   Total Products: 4
 - [Xgimi](https://aytexcel.com/collections/xgimi)
   Updated: 2026-09-24T05:52:04Z
@@ -976,14 +961,14 @@ Our expert team is standing by to help you choose the perfect projector and scre
   Updated: 2026-09-24T05:52:04Z
   Total Products: 0
 - [Nectunt](https://aytexcel.com/collections/nectunt-1)
-  Updated: 2026-10-22T11:41:21Z
+  Updated: 2026-11-11T14:06:43Z
   Total Products: 2
 - [For Ultra Short Throw Screen](https://aytexcel.com/collections/for-ultra-short-throw-screen): UST-specific ALR and Fresnel projector screens for bright living rooms: floor-rising, in-ceiling, tension and fixed-frame models. India stock, GST invoice.
-  Updated: 2026-10-22T11:43:53Z
-  Total Products: 6
+  Updated: 2026-11-12T07:45:53Z
+  Total Products: 5
 - [For Long Throw Projector screens](https://aytexcel.com/collections/for-long-throw-projector-screens): ALR and Fresnel projector screens designed for long-throw home cinema projectors. Available in India from Aytexcel with installation support.
-  Updated: 2026-10-22T11:41:09Z
-  Total Products: 2
+  Updated: 2026-11-12T07:45:53Z
+  Total Products: 3
 
 ## Store Pages
 
