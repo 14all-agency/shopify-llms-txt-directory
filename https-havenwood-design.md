@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-07-20T07:48:41Z
 - Contact Email: floreshopejeffrey16071994@gmail.com
-- Updated At: 2026-11-06T17:17:23.197Z
+- Updated At: 2026-11-14T01:19:51.124Z
 
 ## Products
 
@@ -972,7 +972,7 @@
     Availability: Available
     Price: $56.65 USD
 - [Mifurn Walnut 23.6'' Floating Shelves for Wall, Set of 2 Wall Mounted Wood Shelves for Bedroom, Bathroom, Kitchen](https://havenwood.design/products/mifurn-walnut-23-6-floating-shelves-for-wall-set-of-2-wall-mounted-wood-shelves-for-bedroom-bathroom-kitchen): The Mifurn Floating Wall Shelves in walnut offer a modern and clean aesthetic for any room, featuring a heavy-duty design with concealed metal brackets that create a true floating appearance without visible hardware. Constructed from a high-density MDF core with a realistic wood-grain surface, these 24 x 7 inch shelves are built for stability and easy maintenance. When properly installed, each shelf reliably supports up to 33 lbs, making them ideal for displaying books, framed photos, decor, and various household items. The reinforced bracket system helps prevent sagging, and all necessary hardware for straightforward installation is included. Concealed Support System: Designed with concealed metal brackets for a clean floating appearance. When properly installed using the included hardware on suitable wall surfaces, the shelf supports up to 33 lbs of evenly distributed weight. Wood Grain Finish: High-density MDF core with a realistic wood-grain surface for a clean, modern look. Sturdy construction resists warping and wear, while the easy-to-clean surface is suitable for daily indoor use. Uniform Size: Available in 12"and 24" lengths with consistent depth and thickness, mix-and-match for clean, cohesive wall layouts.The hollow core structure allows the metal bracket to be fully concealed inside the shelf. Easy Installation: Complete kit for floating shelves for wall, basic tools needed, no professional experience.Installation is straightforward with the included hidden metal brackets, screws, and wall anchors. Versatile Use: Ideal for displaying photos, candles, small plants, and decor accents. These small floating shelves complement contemporary, minimalist, and farmhouse-style decor in bedrooms, bathrooms, kitchens, and living rooms. SpecificationsDimensions: 7.09 x 23.62 x 1.50 inShelf material: MDFColor: BrownShelf depth: 7.09 inBrand: MifurnNumber of tiers: 0Decor style: ContemporaryShape: RecatngleWeight: 5.87 lbFinish: Textured FinishFeatures: Hardware IncludedPiece count: 2Has written warranty: NoModel: 17591Pattern: plain
-  Updated: 2026-10-03T14:12:53Z
+  Updated: 2026-11-09T00:07:26Z
   Vendor: Havenwood™
   Product Type: 
   Availability: Available
@@ -1597,7 +1597,7 @@
     Image: https://cdn.shopify.com/s/files/1/0831/7560/4477/files/Kaboon-45inch-Floating-Shelves-for-Wall-10-D-x-45-W-Set-of-2-White-Rock_734f89ae-6a8a-4345-b5e3-63bf64b74da4.0f3799ce9f6867efe9ee697fdd2a26d2.jpg?v=1788942563
     Price: $65.99 USD
 - [Havenwood™ Rustic Farmhouse Floating Wall Shelf, 24 inch Live Edg](https://havenwood.design/products/seasonwood-rustic-farmhouse-floating-wall-shelf-24-inch-live-edge-pine-wood-wall-mounted-shelf-for-bathroom-living-room-bedroom-kitchen-natural-2pcs): Discover the Havenwood™ Rustic Farmhouse Floating Wall Shelf, 24 inch Live Edge Pine Wood by Havenwood™. Premium craftsmanship, space-saving wall organizatio...
-  Updated: 2026-10-03T14:12:57Z
+  Updated: 2026-11-09T02:21:36Z
   Vendor: Havenwood™
   Product Type: Floating Shelves
   Availability: Available
@@ -1785,31 +1785,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0831/7560/4477/files/LANDMOK-12-7-Inch-Deep-Floating-Shelf-24-x12-Inch-Large-Wall-Mounted-Shelf-for-Kitchen-Bathroom-Living-Room-White-2-Pack_56c3c3fe-19cf-4bbd-917d-954ab1da2e70.815dd6bda9fc84449230d5f9c.jpg?v=1788942567
     Price: $128.99 USD
-- [Floating Shelves for Wall, 16' TABGIME Wood Hanging Shelves, Holds 16.8lbs, Space-Saving for Bathroom Bedroom Kitchen(Brown, Set of 3)](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3): Looking for a stylish and practical way to add extra storage or display space to your home? The possibilities are endless to refresh any space with the TABGIME 3pk 16" set of wall shelves; Turn your walls into your own masterpiece by displaying books, plants, small flower pots, trophies, collectables, pictures, favorite decorative items etc and stacking your essential kitchen gadgets; Even use them for cat shelves. Whether showcasing cherished collections or organizing daily essentials, they effortlessly enhance both the functionality and aesthetics of your home. Decorative shelves would make a thoughtful gift for new homeowners, allowing them to customize their own look. they reflect the owner's sophisticated taste and blend seamlessly with various decor themes. Durable Construction: Made of beautiful MDF with PVC and bracket, ensuring a firm attachment to the wall without visible support. Stylish Design: Rustic wall shelves provide a sleek modern look to enhance your home decor. Ideal for bedrooms, living rooms, study, bathrooms, kitchens, nursery, and offices. Rustic Appeal: Features a rectangular silhouette with a wood finish, fitting most decor styles and adding a timeless look. Space Saving: Floating shelves offers efficient every inch wall display your cherished memories, books, plants, records, magazines, trophies, picture frames, funk pop or decorative items with confidence, knowing they are securely held in place. Effortless Assembly: Detailed instructions make solo assembly a breeze, done in just a few minutes. Package Contents: Includes 3 floating shelves, 6 screws, 12 anchors, and 1 instruction sheet for easy installation. Dimensions: 6"D x 16"W x 0.6"H. Installation Steps: Follow simple steps to mark points, drill holes, punch wall anchors, and install screws for secure mounting. Quantity: Sold in Sets of 3 TABGIME Wall Shelves with Invisible Brackets Color: Brown + Black Hidden Mounting Metal Brackets Material Type: Engineered Wood Mounting Type: Wall Mount Room Type: Office, Bathroom, Kitchen, Bedroom, Living Room, Laundry Room Product Dimensions: 15.7" x 5.5" x 0.6" Capacity: Each Shelf Hold up to 16.8 lbs Type: Floating Shelf, Hanging Shelf, Storage Rack Style: Rustic, Farmhouse, Modern, traditional Shape: Rectangle Layer: 3-Tier Item Weight: 3.3 pounds Hanging Mounting Hardware: Included Bracket can be installed into the board With invisible mounting support these modern shelves look truly to be floating SpecificationsHeight: 0.6 inShelf material: Engineered Wood, MetalColor: BrownShelf depth: 6 inBrand: TABGIMENumber of tiers: 3Decor style: Rustic/LodgeShape: RectangleWeight: 3.3 lbFinish: BrownFeatures: Hardware Included, ReusablePiece count: 3Has written warranty: NoTheme: FarmhouseModel: Shelf26-WF0316RBInvPattern: 3Pack: 16in Brown
-  Updated: 2026-10-03T14:12:58Z
-  Vendor: Havenwood™
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0831/7560/4477/files/Floating-Shelves-for-Wall-16-TABGIME-Wood-Hanging-Shelves-Holds-16-8lbs-Space-Saving-for-Bathroom-Bedroom-Kitchen-Brown-Set-of-3_d0e64d46-4a0e-426b-bb8b-da9b94f7b779.183dc28ae26b2e4ba.jpg?v=1788942569
-  - [3Pack: 16in Black](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733073149)
-    Availability: Available
-    Price: $39.99 USD
-  - [3Pack: 16in Brown](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733105917)
-    Availability: Available
-    Price: $39.95 USD
-  - [3Pack: 16in White](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733138685)
-    Availability: Available
-    Price: $39.99 USD
-  - [6Pack: 16in Black](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733171453)
-    Availability: Available
-    Price: $59.99 USD
-  - [6Pack: 16in Brown](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733204221)
-    Availability: Available
-    Price: $59.99 USD
-  - [6Pack: 16in White](https://havenwood.design/products/floating-shelves-for-wall-16-tabgime-wood-hanging-shelves-holds-16-8lbs-space-saving-for-bathroom-bedroom-kitchenbrown-set-of-3?variant=71269733236989)
-    Availability: Available
-    Price: $59.99 USD
-[List Continued](https://havenwood.design/a/llms-agent/llms.txt?shop=pntwn9-zn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMzMTc2NzQ1MTkwMSwibGFzdF92YWx1ZSI6IjE1MzMxNzY3NDUxOTAxIn0%3D)
+[List Continued](https://havenwood.design/a/llms-agent/llms.txt?shop=pntwn9-zn.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTMzMTc2NzQxOTEzMywibGFzdF92YWx1ZSI6IjE1MzMxNzY3NDE5MTMzIn0%3D)
 
 ## Collections
 
@@ -1817,7 +1793,7 @@
   Updated: 2026-10-03T14:12:46Z
   Total Products: 1
 - [Classic Floating Shelves](https://havenwood.design/collections/classic-floating-shelves)
-  Updated: 2026-11-05T12:24:46Z
+  Updated: 2026-11-09T12:20:54Z
   Total Products: 200
 - [Corner Shelves](https://havenwood.design/collections/corner-shelves)
   Updated: 2026-10-03T14:12:47Z
@@ -1900,6 +1876,15 @@
     Author: Havenwood
   - [Havenwood™ Benbrook 24 Inch Floating Shelves: The Ultimate Guide to Space-Saving Style from Kitchen Spice Racks to over the Toilet Storage](https://havenwood.design/blogs/news/havenwood™-benbrook-24-inch-floating-shelves-the-ultimate-guide-to-space-saving-style-from-kitchen-spice-racks-to-over-the-toilet-storage): Havenwood™ Benbrook 24 Inch Floating Shelves: The Ultimate Guide to Space-Saving Style from Kitchen Spice Racks to over the Toilet Storage
     Updated: 2026-11-04T01:07:37Z
+    Author: Havenwood
+  - [Transform Any Room with Havenwood™ Corner Shelves: The Ultimate Guide to Rustic Wood Wall Decor With Wine Racks and Space Saving Solutions](https://havenwood.design/blogs/news/transform-any-room-with-havenwood™-corner-shelves-the-ultimate-guide-to-rustic-wood-wall-decor-with-wine-racks-and-space-saving-solutions): Transform Any Room with Havenwood™ Corner Shelves: The Ultimate Guide to Rustic Wood Wall Decor With Wine Racks and Space Saving Solutions
+    Updated: 2026-11-09T00:21:45Z
+    Author: Havenwood
+  - [Havenwood™ Dakota Pine Whitewash Floating Shelves: Innovative Solutions for Modern Home Wall Decor with Rustic Charm](https://havenwood.design/blogs/news/havenwood™-dakota-pine-whitewash-floating-shelves-innovative-solutions-for-modern-home-wall-decor-with-rustic-charm): Havenwood™ Dakota Pine Whitewash Floating Shelves: Innovative Solutions for Modern Home Wall Decor with Rustic Charm
+    Updated: 2026-11-10T00:25:13Z
+    Author: Havenwood
+  - [Choosing the Perfect Havenwood™ Floating Shelves: Enhance Space and Style with Wood Wall Decor from the Bathroom to the Living Room](https://havenwood.design/blogs/news/choosing-the-perfect-havenwood™-floating-shelves-enhance-space-and-style-with-wood-wall-decor-from-the-bathroom-to-the-living-room): Choosing the Perfect Havenwood™ Floating Shelves: Enhance Space and Style with Wood Wall Decor from the Bathroom to the Living Room
+    Updated: 2026-11-11T01:08:31Z
     Author: Havenwood
 
 ## Store Pages
