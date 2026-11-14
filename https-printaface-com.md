@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-11-30T18:18:37Z
 - Contact Email: info@getpowerflow.com
-- Updated At: 2026-11-06T01:27:38.927Z
+- Updated At: 2026-11-14T01:05:37.579Z
 
 ## Products
 
@@ -45,14 +45,14 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/7561177119130165506_2048.jpg?v=1773759347
     Price: $36.99 USD
 - [Personalized Face Socks – Custom Photo Crew Socks | Printaface](https://printaface.com/products/custom-photo-cushioned-crew-socks-personalized-face-portrait-socks): Cushioned crew socks printed all over with your custom face photo. A hilarious gift for Christmas, birthdays, Father's Day and groomsmen.
-  Updated: 2026-11-03T03:16:48Z
+  Updated: 2026-11-11T03:12:12Z
   Vendor: Printaface
   Product Type: All Over Prints
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17056284783319571248_2048.jpg?v=1786336722
   Price: $19.99 USD
-- [Personalized Photo Phone Case – Custom Portrait Cover | Printaface](https://printaface.com/products/portrait-tough-phone-case-custom-photo-protective-phone-cover): A slim, protective tough phone case printed with your favorite portrait. A thoughtful custom photo gift for birthdays, holidays and Valentine's.
-  Updated: 2026-11-03T03:16:48Z
+- [Personalized Couple Photo Phone Case with Name | Printaface](https://printaface.com/products/portrait-tough-phone-case-custom-photo-protective-phone-cover): Custom couple photo phone case with a name and "My Love" in a watercolor heart frame. Tough iPhone 17 case, a sweet Christmas or anniversary gift.
+  Updated: 2026-11-13T03:05:44Z
   Vendor: Printaface
   Product Type: Phone Case
   Availability: Available
@@ -240,8 +240,8 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/3910893362636453272_2048.jpg?v=1765393343
   Price: $14.99 USD
-- [Personalized Puppy Tank Top – We Love You Dog Shirt | Printaface](https://printaface.com/products/puppy-tank-top-we-love-you-pet-shirt): A soft dog tank top with 'We Love You' plus your pet's name or photo. An adorable custom gift for pet birthdays, holidays and photos.
-  Updated: 2026-10-29T14:37:39Z
+- [Personalized Dog Photo Tank Top with Name | Printaface](https://printaface.com/products/puppy-tank-top-we-love-you-pet-shirt): Custom dog tank top with your pet's photo and "We Love You [Name]". Soft cotton pet shirt for birthdays, holiday photos and dog lovers.
+  Updated: 2026-11-13T03:05:45Z
   Vendor: Printaface
   Product Type: Pets
   Availability: Available
@@ -1094,7 +1094,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/14380581987300734177_2048_0563cf46-81ac-4664-a858-df4e894ceb56.jpg?v=1793135997
     Price: $19.99 USD
 - [Personalized Photo Wall Clock – Custom Kids' Face Clock | Printaface](https://printaface.com/products/personalized-photo-wall-clock-custom-kids-face-clock-for-nursery-family-room): A 10-inch wooden wall clock printed with your child's photo. A charming custom gift for nurseries, grandparents, Mother's Day and Christmas.
-  Updated: 2026-11-03T03:16:53Z
+  Updated: 2026-11-12T02:59:55Z
   Vendor: Printaface
   Product Type: Home Decor
   Availability: Available
@@ -1161,7 +1161,7 @@
   Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/2188785470601234622_2048.jpg?v=1767390342
   Price: $19.99 USD
 - [Personalized Photo Face Mug 15oz – Funny Portrait Cup | Printaface](https://printaface.com/products/15oz-photo-face-mug-personalized-funny-repeating-portrait-coffee-cup): A big 15oz mug with your face photo repeated all around. A hilarious custom gift for birthdays, Christmas, white elephants and coworkers.
-  Updated: 2026-11-03T03:16:53Z
+  Updated: 2026-11-12T02:59:59Z
   Vendor: Printaface
   Product Type: Mug
   Availability: Available
@@ -2058,7 +2058,7 @@
     Image: https://cdn.shopify.com/s/files/1/0805/9260/1328/files/17683557516114692026_2048.jpg?v=1767330251
     Price: $24.99 USD
 - [Personalized Face Pajama Pants – Custom Couples Photo | Printaface](https://printaface.com/products/personalized-face-print-pajama-pants-custom-couples-photo-all-over-print): Cozy pajama pants printed all over with your couple photo. A hilarious, heartfelt custom gift for Valentine's Day, anniversaries and Christmas.
-  Updated: 2026-11-03T03:17:04Z
+  Updated: 2026-11-11T03:12:13Z
   Vendor: Printaface
   Product Type: Pajama Pants
   Availability: Available
@@ -3004,29 +3004,29 @@
   Updated: 2026-07-16T22:21:32Z
   Total Products: 0
 - [Woman](https://printaface.com/collections/women)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 35
+  Updated: 2026-11-10T15:11:07Z
+  Total Products: 38
 - [Home & Living](https://printaface.com/collections/home)
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 36
+  Updated: 2026-11-11T14:59:51Z
+  Total Products: 42
 - [Accessories](https://printaface.com/collections/accessories)
-  Updated: 2026-11-02T15:16:57Z
+  Updated: 2026-11-12T15:05:39Z
   Total Products: 5
 - [Personalized Photo Gifts](https://printaface.com/collections/personalization): Our original photo gift picks: custom face socks, photo blankets and milestone birthday shirts. Upload a picture and we print it your way.
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 13
+  Updated: 2026-11-12T15:05:39Z
+  Total Products: 20
 - [Pets](https://printaface.com/collections/pets)
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 33
+  Updated: 2026-11-12T15:05:40Z
+  Total Products: 38
 - [Men](https://printaface.com/collections/men)
-  Updated: 2026-11-05T15:12:43Z
-  Total Products: 17
+  Updated: 2026-11-09T15:21:01Z
+  Total Products: 18
 - [Gifts](https://printaface.com/collections/gifts)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 68
+  Updated: 2026-11-11T14:59:52Z
+  Total Products: 87
 - [Holidays](https://printaface.com/collections/holidays)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 49
+  Updated: 2026-11-10T15:11:08Z
+  Total Products: 65
 - [Kids](https://printaface.com/collections/kids)
   Updated: 2026-11-02T15:16:56Z
   Total Products: 8
@@ -3040,8 +3040,8 @@
   Updated: 2026-11-02T15:16:51Z
   Total Products: 2
 - [Mug](https://printaface.com/collections/mug)
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 34
+  Updated: 2026-11-10T15:11:08Z
+  Total Products: 37
 - [Candles](https://printaface.com/collections/candles)
   Updated: 2026-11-02T15:16:56Z
   Total Products: 2
@@ -3139,11 +3139,11 @@
   Updated: 2026-11-02T15:16:52Z
   Total Products: 2
 - [Women's Seatshirts](https://printaface.com/collections/womens-seatshirts)
-  Updated: 2026-11-05T15:12:09Z
-  Total Products: 19
+  Updated: 2026-11-10T15:11:07Z
+  Total Products: 22
 - [Women's T-Shirts](https://printaface.com/collections/womens-t-shirts)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 42
+  Updated: 2026-11-10T15:11:06Z
+  Total Products: 51
 - [Women's Tank Tops](https://printaface.com/collections/womens-long-sleeves)
   Updated: 2026-11-02T15:16:48Z
   Total Products: 1
@@ -3163,14 +3163,14 @@
   Updated: 2026-07-16T22:21:36Z
   Total Products: 0
 - [Men's Sweatshirts](https://printaface.com/collections/mens-sweatshirts)
-  Updated: 2026-11-05T15:12:09Z
-  Total Products: 15
+  Updated: 2026-11-10T15:11:07Z
+  Total Products: 17
 - [Men's Hoodies](https://printaface.com/collections/mens-hoodies)
   Updated: 2026-07-16T22:21:36Z
   Total Products: 0
 - [Men's T-Shirts](https://printaface.com/collections/mens-t-shirts)
-  Updated: 2026-11-05T15:12:43Z
-  Total Products: 38
+  Updated: 2026-11-10T15:11:05Z
+  Total Products: 45
 - [Men's Long Sleeves](https://printaface.com/collections/mens-long-sleeves)
   Updated: 2026-11-02T15:16:48Z
   Total Products: 1
@@ -3187,17 +3187,17 @@
   Updated: 2026-11-02T15:39:34Z
   Total Products: 2
 - [New Arrivals](https://printaface.com/collections/new-arrivals)
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 68
-- [Holiday Picks](https://printaface.com/collections/holiday-picks)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 44
+  Updated: 2026-11-10T15:11:08Z
+  Total Products: 83
+- [Thanksgiving Gifts](https://printaface.com/collections/holiday-picks): Funny turkey tees, family matching shirts, and cozy fall gifts for Thanksgiving.
+  Updated: 2026-11-10T15:11:05Z
+  Total Products: 58
 - [Eco-Friendly](https://printaface.com/collections/eco-friendly)
   Updated: 2026-07-16T22:21:37Z
   Total Products: 0
 - [Blankets](https://printaface.com/collections/blankets)
-  Updated: 2026-11-02T15:16:56Z
-  Total Products: 10
+  Updated: 2026-11-06T15:56:05Z
+  Total Products: 11
 - [Back to School](https://printaface.com/collections/back-to-school)
   Updated: 2026-11-02T15:16:56Z
   Total Products: 7
@@ -3205,11 +3205,11 @@
   Updated: 2026-11-02T15:16:57Z
   Total Products: 2
 - [Trending](https://printaface.com/collections/trending)
-  Updated: 2026-11-05T15:12:10Z
-  Total Products: 23
+  Updated: 2026-11-10T15:11:07Z
+  Total Products: 35
 - [Faith](https://printaface.com/collections/faith)
-  Updated: 2026-11-05T15:12:44Z
-  Total Products: 12
+  Updated: 2026-11-09T15:21:01Z
+  Total Products: 15
 - [Graduation](https://printaface.com/collections/graduation)
   Updated: 2026-11-02T15:16:54Z
   Total Products: 1
@@ -3235,29 +3235,29 @@
   Updated: 2026-08-20T19:37:40Z
   Total Products: 0
 - [Halloween Shirts & Gifts](https://printaface.com/collections/halloween-shirts-gifts): Spooky season is here. Funny Halloween shirts, cozy fall sweatshirts, pumpkin-era tees, Thanksgiving tees and Halloween gifts for moms, friends and the whole family.
-  Updated: 2026-11-05T15:13:25Z
-  Total Products: 22
+  Updated: 2026-11-06T16:28:20Z
+  Total Products: 12
 - [Faith Collection](https://printaface.com/collections/faith-collection): Christian tees, mugs, journals and stickers with grace-filled (and coffee-fueled) messages for church, Bible study and everyday faith.
-  Updated: 2026-11-02T15:16:58Z
-  Total Products: 31
+  Updated: 2026-11-09T15:21:02Z
+  Total Products: 33
 - [Funny & Trending](https://printaface.com/collections/funny-trending): Relatable, self-aware and seriously funny. Trending tees, hoodies and mugs for burnout humor, adulting, puns and main-character energy.
-  Updated: 2026-11-05T15:12:09Z
-  Total Products: 84
+  Updated: 2026-11-10T15:11:06Z
+  Total Products: 89
 - [Christmas Gifts](https://printaface.com/collections/christmas-gifts): Funny Christmas shirts, cozy holiday sweatshirts and hoodies, Christmas mugs, ornaments, totes and blankets — easy gifts and stocking stuffers for everyone on your list.
-  Updated: 2026-11-05T15:13:10Z
-  Total Products: 66
+  Updated: 2026-11-12T15:06:21Z
+  Total Products: 76
 - [Pet Parent Gifts](https://printaface.com/collections/pet-parent-gifts): Gifts for dog moms, cat dads and every proud pet parent: breed-specific tees, funny pet mugs, phone cases, totes, blankets and pet accessories.
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 44
+  Updated: 2026-11-12T15:06:22Z
+  Total Products: 50
 - [Personalized Gifts](https://printaface.com/collections/personalized): Shop personalized gifts at Printaface — custom photo blankets, mugs, apparel, pet gifts, ornaments and more. Add your own photo, name or text to a finished
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 107
+  Updated: 2026-11-12T15:05:40Z
+  Total Products: 110
 - [Personalized Photo Blankets](https://printaface.com/collections/personalized-photo-blankets): Custom photo blankets made from your favorite pictures and names — cozy sherpa, plush velveteen and embroidered baby blankets that make heartfelt personali
   Updated: 2026-11-02T15:16:56Z
   Total Products: 13
 - [Personalized Mugs & Drinkware](https://printaface.com/collections/personalized-mugs-drinkware): Personalized photo mugs and custom coffee cups — add a face, pet, family photo or name to a ceramic mug for a funny or sentimental gift.
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 14
+  Updated: 2026-11-10T15:11:08Z
+  Total Products: 17
 - [Personalized Apparel](https://printaface.com/collections/personalized-apparel): Custom photo tees, sweatshirts, hats, socks, pajamas and boxers — print your own picture, face or text on apparel for every occasion.
   Updated: 2026-11-02T15:16:58Z
   Total Products: 38
@@ -3268,32 +3268,32 @@
   Updated: 2026-11-02T15:16:56Z
   Total Products: 20
 - [Personalized Pet Gifts](https://printaface.com/collections/personalized-pet-gifts): Personalized pet gifts — custom dog bandanas, collars, pet bowls, pet photo blankets, mugs and phone cases featuring your pet's photo and name.
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 22
-- [Personalized Family & Couples Gifts](https://printaface.com/collections/personalized-family-couples): Personalized gifts for couples and families — custom photo blankets, pajamas, tees, mugs and keepsakes with your names, dates and pictures.
-  Updated: 2026-11-02T15:16:58Z
+  Updated: 2026-11-12T15:05:40Z
   Total Products: 24
+- [Personalized Family & Couples Gifts](https://printaface.com/collections/personalized-family-couples): Personalized gifts for couples and families — custom photo blankets, pajamas, tees, mugs and keepsakes with your names, dates and pictures.
+  Updated: 2026-11-12T15:05:38Z
+  Total Products: 26
 - [Personalized Christmas Gifts](https://printaface.com/collections/personalized-christmas-gifts): Personalized Christmas gifts and ornaments — custom photo ornaments, name keepsakes and family holiday sweatshirts to make the season personal.
-  Updated: 2026-11-05T15:12:11Z
-  Total Products: 16
+  Updated: 2026-11-12T15:05:39Z
+  Total Products: 23
 - [Personalized Jewelry](https://printaface.com/collections/personalized-jewelry): Engraved personalized jewelry — name bar necklaces, heart pendants and bracelets custom engraved with names, initials or dates.
   Updated: 2026-11-02T15:16:55Z
   Total Products: 5
 - [Personalized Phone Cases & Tech](https://printaface.com/collections/personalized-phone-cases-tech): Custom photo phone cases, AirPods cases and mouse pads — protect your devices with your own picture, pet or name.
-  Updated: 2026-11-02T15:16:57Z
+  Updated: 2026-11-12T15:05:39Z
   Total Products: 6
 - [Personalized Journals & Notebooks](https://printaface.com/collections/personalized-journals): Custom photo journals and personalized notebooks — add your picture or name to a hardcover journal or spiral notebook.
   Updated: 2026-11-02T15:16:56Z
   Total Products: 3
 - [Personalized Gifts for Mom](https://printaface.com/collections/personalized-for-mom): Make Mom smile with a gift made from your own photos and words. Photo tees, engraved jewelry, family mugs and cozy blankets, printed on demand just for her.
-  Updated: 2026-11-02T15:16:57Z
-  Total Products: 20
+  Updated: 2026-11-11T14:59:51Z
+  Total Products: 22
 - [Personalized Gifts for Dad](https://printaface.com/collections/personalized-for-dad): Gifts Dad will actually use: custom photo mugs, milestone caps, engraved cutting boards and funny face tees, all made with your pictures.
-  Updated: 2026-11-02T15:16:57Z
-  Total Products: 15
+  Updated: 2026-11-12T15:05:39Z
+  Total Products: 16
 - [Personalized Couples Gifts](https://printaface.com/collections/personalized-couples): Celebrate your love with gifts made from your photos together: matching photo pajamas, couple tees, heart blankets, keepsake ornaments and cheeky photo underwear.
-  Updated: 2026-11-02T15:16:58Z
-  Total Products: 18
+  Updated: 2026-11-12T15:05:38Z
+  Total Products: 20
 - [Personalized Christmas Ornaments](https://printaface.com/collections/personalized-christmas-ornaments): Hang a memory on the tree. Ceramic keepsake ornaments printed with your photo, names and the year, a gift they'll unpack every Christmas.
   Updated: 2026-11-02T15:16:56Z
   Total Products: 6
@@ -3445,6 +3445,18 @@
     Author: Sachi
   - [Preserving Memories with Custom Prints: Ideas for Thoughtful Birthday Gifts](https://printaface.com/blogs/news/preserving-memories-with-custom-prints-ideas-for-thoughtful-birthday-gifts): Preserving Memories with Custom Prints: Ideas for Thoughtful Birthday Gifts
     Updated: 2026-11-06T00:08:22Z
+    Author: Sachi
+  - [Why Custom Face Prints Are the Future of Birthday Presents](https://printaface.com/blogs/news/why-custom-face-prints-are-the-future-of-birthday-presents): Why Custom Face Prints Are the Future of Birthday Presents
+    Updated: 2026-11-07T00:28:54Z
+    Author: Sachi
+  - [The Ultimate How-to Guide for Custom Print on Demand Gifts](https://printaface.com/blogs/news/the-ultimate-how-to-guide-for-custom-print-on-demand-gifts): The Ultimate How-to Guide for Custom Print on Demand Gifts
+    Updated: 2026-11-11T00:05:12Z
+    Author: Sachi
+  - [The Rise of Custom Printing: A Sustainable Gifting Solution](https://printaface.com/blogs/news/the-rise-of-custom-printing-a-sustainable-gifting-solution): The Rise of Custom Printing: A Sustainable Gifting Solution
+    Updated: 2026-11-13T00:08:49Z
+    Author: Sachi
+  - [Ten Creative Custom Print Ideas for Unforgettable Birthdays](https://printaface.com/blogs/news/ten-creative-custom-print-ideas-for-unforgettable-birthdays): Ten Creative Custom Print Ideas for Unforgettable Birthdays
+    Updated: 2026-11-14T00:27:10Z
     Author: Sachi
 
 ## Store Pages
