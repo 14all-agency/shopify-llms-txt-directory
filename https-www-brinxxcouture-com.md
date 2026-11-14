@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2022-09-21T14:43:25Z
 - Contact Email: support@brinxxcouture.com
-- Updated At: 2026-11-06T00:47:27.133Z
+- Updated At: 2026-11-14T00:44:05.469Z
 
 ## Products
 
@@ -299,66 +299,6 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Boat-Neck-Horizontal-Ribbed-Sweater-Brinxx-Couture-5914.jpg?v=1739987523
     Price: $27.00 USD
-- [Ruffled Flounce Sleeve V-Neck Belted Dress](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress): Shop our Ruffled Flounce Sleeve V-Neck Belted Dress | Casual style with buttoned detail and flattering belted waist | Multiple sizes available - [Store Name]
-  Updated: 2026-11-05T16:05:54Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
-  - [Green / S](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524425910)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
-    Price: $28.00 USD
-  - [Green / M](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524458678)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
-    Price: $28.00 USD
-  - [Green / L](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524491446)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
-    Price: $28.00 USD
-  - [Green / XL](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524524214)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-5733.jpg?v=1739987604
-    Price: $28.00 USD
-  - [Magenta / S](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524556982)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
-    Price: $28.00 USD
-  - [Magenta / M](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524589750)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
-    Price: $28.00 USD
-  - [Magenta / L](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524622518)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
-    Price: $28.00 USD
-  - [Magenta / XL](https://www.brinxxcouture.com/products/ruffled-flounce-sleeve-v-neck-belted-dress?variant=41975524655286)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ruffled-Flounce-Sleeve-V-Neck-Belted-Dress-Brinxx-Couture-6099.jpg?v=1739987617
-    Price: $28.00 USD
-- [Textured High Waist Yoga Pants - Brinxx Couture](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings): Elevate your yoga practice with our Textured High Waist Yoga Pants. The high waist provides support while the textured fabric adds a touch of style. Move with confidence and comfort, while enhancing your silhouette. Perfect for any active lifestyle.
-  Updated: 2026-09-20T10:31:02Z
-  Vendor: Brinxx Couture
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
-  - [Black / S](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527637174)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
-    Price: $30.00 USD
-  - [Black / M](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527669942)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
-    Price: $30.00 USD
-  - [Black / L](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527702710)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
-    Price: $30.00 USD
-  - [Black / XL](https://www.brinxxcouture.com/products/textured-high-waist-active-leggings?variant=41975527735478)
-    Availability: Not Available
-    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Textured-High-Waist-Yoga-Pants-Brinxx-Couture-5163.jpg?v=1739987655
-    Price: $30.00 USD
 - [Zip-Back Ruched Bodycon Dress - Brinxx Couture](https://www.brinxxcouture.com/products/zip-back-ruched-bodycon-dress): Look and feel amazing in our Zip-Back Ruched Bodycon Dress! The figure-hugging design accentuates your curves with ruched detailing adds flair. Free Shipping!
   Updated: 2026-10-06T07:19:06Z
   Vendor: Brinxx Couture
@@ -2152,7 +2092,73 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Open-Back-Slim-Dress-Brinxx-Couture-4320.jpg?v=1709290685
     Price: $15.99 USD
-[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYzMTM1ODExNzY2LCJsYXN0X3ZhbHVlIjoiNzU2MzEzNTgxMTc2NiJ9)
+- [Ankle Length Cargo Pants - Brinxx Couture](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants): Our Ankle Length Cargo Pants bring unparalleled style and utility to your wardrobe: their slim fit design plus zippered compartments provide a modern look.
+  Updated: 2026-07-16T15:52:21Z
+  Vendor: Brinxx Couture
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+  - [Grey / S](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122703995062)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-4470.jpg?v=1709297940
+    Price: $24.00 USD
+  - [Black / S](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704027830)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+    Price: $24.00 USD
+  - [Green / S](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704060598)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-6995.jpg?v=1709297943
+    Price: $24.00 USD
+  - [Black / M](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704093366)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+    Price: $24.00 USD
+  - [Grey / M](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704126134)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-4470.jpg?v=1709297940
+    Price: $24.00 USD
+  - [Green / M](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704158902)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-6995.jpg?v=1709297943
+    Price: $24.00 USD
+  - [Grey / L](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704191670)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-4470.jpg?v=1709297940
+    Price: $24.00 USD
+  - [Black / L](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704224438)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+    Price: $24.00 USD
+  - [Green / L](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704289974)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-6995.jpg?v=1709297943
+    Price: $24.00 USD
+  - [Grey / XL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704355510)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-4470.jpg?v=1709297940
+    Price: $24.00 USD
+  - [Green / XL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704421046)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-6995.jpg?v=1709297943
+    Price: $24.00 USD
+  - [Black / XL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704486582)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+    Price: $24.00 USD
+  - [Grey / XXL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704519350)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-4470.jpg?v=1709297940
+    Price: $24.00 USD
+  - [Black / XXL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704552118)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-5822.jpg?v=1709297937
+    Price: $24.00 USD
+  - [Green / XXL](https://www.brinxxcouture.com/products/ankle-lenth-cargo-pants?variant=42122704584886)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0625/5509/5222/files/Ankle-Length-Cargo-Pants-Brinxx-Couture-6995.jpg?v=1709297943
+    Price: $24.00 USD
+[List Continued](https://www.brinxxcouture.com/a/llms-agent/llms.txt?shop=f1c589.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NTYzMTg3MDYwOTE4LCJsYXN0X3ZhbHVlIjoiNzU2MzE4NzA2MDkxOCJ9)
 
 ## Collections
 
@@ -2160,7 +2166,7 @@
   Updated: 2026-07-08T20:15:34Z
   Total Products: 0
 - [Dresses](https://www.brinxxcouture.com/collections/dresses): Discover elegant dresses for every occasion. From casual day dresses to formal evening gowns, find your perfect fit and style.
-  Updated: 2026-11-03T09:24:27Z
+  Updated: 2026-11-11T07:54:07Z
   Total Products: 244
 - [Beauty](https://www.brinxxcouture.com/collections/beauty): Discover curated beauty essentials from prestige brands. Premium skincare, makeup, and fragrances that elevate your daily ritual. Free shipping.
   Updated: 2026-07-08T21:35:27Z
@@ -2169,7 +2175,7 @@
   Updated: 2026-10-07T20:47:53Z
   Total Products: 66
 - [Plus Size Clothing](https://www.brinxxcouture.com/collections/plus-size-clothing-for-women): Discover stylish plus size clothing designed to celebrate your confidence. From dresses to activewear, find pieces that fit beautifully.
-  Updated: 2026-10-30T19:19:55Z
+  Updated: 2026-11-11T07:58:13Z
   Total Products: 41
 - [Activewear](https://www.brinxxcouture.com/collections/best-womens-activewear): Discover stylish activewear designed for performance and comfort. From leggings to sports bras, elevate your fitness wardrobe.
   Updated: 2026-10-07T20:44:43Z
@@ -2220,10 +2226,10 @@
   Updated: 2026-10-15T11:17:04Z
   Total Products: 40
 - [Curvy & Confident Tops](https://www.brinxxcouture.com/collections/curvy-confident-tops): Shop stylish plus size tops at Brinxx Couture. Flattering blouses, tees & tunics in sizes XL-5XL. Free shipping on all orders. Embrace your curves.
-  Updated: 2026-10-07T20:47:44Z
+  Updated: 2026-11-11T07:23:29Z
   Total Products: 27
 - [Plus Size Dresses](https://www.brinxxcouture.com/collections/plus-size-dresses): Discover stylish plus size dresses for every occasion at Brinxx Couture. Shop now for trendy designs and unbeatable prices!
-  Updated: 2026-10-30T19:19:55Z
+  Updated: 2026-11-11T07:58:13Z
   Total Products: 33
 - [Plus Size Swimwear](https://www.brinxxcouture.com/collections/plus-size-swimwear): Find the perfect plus size swimwear at Brinxx Couture. Shop stylish and flattering swimsuits for every body type.
   Updated: 2026-10-07T20:42:49Z
@@ -2244,7 +2250,7 @@
   Updated: 2025-08-18T18:43:19Z
   Total Products: 0
 - [Plus Size Activewear](https://www.brinxxcouture.com/collections/plus-size-activewear): Stay fit and stylish with our collection of plus size active wear. Shop comfortable and trendy workout clothes at Brinxx Couture.
-  Updated: 2026-10-29T02:25:45Z
+  Updated: 2026-11-13T02:51:09Z
   Total Products: 12
 - [Graphic Tees](https://www.brinxxcouture.com/collections/graphic-tees): Express your style with our collection of women’s graphic tees. Shop trendy and unique designs at Brinxx Couture.
   Updated: 2026-07-08T21:35:01Z
@@ -2265,7 +2271,7 @@
   Updated: 2026-10-07T20:44:30Z
   Total Products: 16
 - [Coats](https://www.brinxxcouture.com/collections/affordable-womens-coats-and-jackets): Explore our collection of women's coats. Shop winter, trench, wool, and more. Stay warm and stylish with our latest arrivals. Perfect for every season. Shop now
-  Updated: 2026-11-05T03:12:07Z
+  Updated: 2026-11-11T07:42:17Z
   Total Products: 41
 - [Scarves](https://www.brinxxcouture.com/collections/scarves): Add a touch of elegance to your outfit with our fashionable scarves. Shop a variety of styles and colors at Brinxx Couture.
   Updated: 2026-10-07T20:45:27Z
