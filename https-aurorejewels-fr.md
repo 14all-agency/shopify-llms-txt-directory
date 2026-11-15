@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2026-03-23T08:50:54Z
 - Contact Email: contact@aurorejewels.fr
-- Updated At: 2026-11-07T00:36:22.471Z
+- Updated At: 2026-11-15T00:31:17.722Z
 
 Aurorejewels is a premium French jewelry stainless steel elegant rings, 
 necklaces, bracelets and earrings for women. Specializing in fine, 
@@ -161,7 +161,7 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
   Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/bague-pierre-rose-ajustable.png?v=1780047226
   Price: 8,90 € EUR
 - [BAGUE MAILLE MARINE DORÉ](https://aurorejewels.fr/products/bague-maille-marine-dore): Il y a des choses qu'on choisit une fois, et qu'on ne remet jamais en question. La bague maille marine est de celles-là. Son maillon répété, entrelacé, solide ; ce n'est pas un hasard si les marins lui faisaient confiance pour tenir face aux éléments. Sur votre doigt, il raconte une chose : la force de ce qui tient, de ce qui dure, de ce qui ne cherche pas à en faire trop pour exister. Comme vous, vous qui portez beaucoup, souvent en silence, et qui avez fini par oublier que vous aviez le droit de vous choisir, vous aussi. Elle ne brille pas pour attirer l'attention. Elle brille parce que c'est sa nature. Et quelque part, c'est exactement ce que vous êtes. Portée seule, elle suffit. Portée avec d'autres pièces Aurore Jewels, elle structure la parure sans jamais l'écraser ; comme une colonne vertébrale discrète autour de laquelle tout s'organise. La dorure capte la lumière sans la supplier. Et parce qu'elle repose sur de l'acier inoxydable, elle reste, sous la douche, en salle de sport, en réunion, en soirée. Vous n'avez pas à y penser. C'est précisément le but. Certains bijoux demandent à être chouchoutés. Celui-là vous accompagne, c'est tout.
-  Updated: 2026-09-26T14:27:20Z
+  Updated: 2026-11-11T13:59:51Z
   Vendor: Aurorejewels 
   Product Type: Bague
   Availability: Available
@@ -520,13 +520,6 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/bague-etoile-acier-inoxydable-dore-6552526.png?v=1790432893
   Price: 9,90 € EUR
-- [BAGUE COULISSANTE STRASS ACIER INOXYDABLE](https://aurorejewels.fr/products/bague-coulissante-strass-acier-inoxydable): La bague coulissante, c’est celle dont on ne s’attend pas à découvrir ce petit détail. Son design simple cache une surprise : un strass central coulissant, qui glisse de gauche à droite au rythme de vos mouvements. C’est le petit détail qui attire la curiosité. Sa dorure brillante en plaqué or, associée à ses strass en zircon, capte la lumière à chaque geste. C’est le genre de bague que vous pouvez porter au quotidien : l’acier inoxydable garantit une excellente tenue dans le temps, que ce soit sous la douche, à la salle de sport ou en soirée. Entièrement ajustable, elle s’adapte à tous vos doigts. Vous la glissez, vous la réglez, et elle reste là où vous l’avez placée. Simple, esthétique, et sans fioritures.
-  Updated: 2026-08-29T19:07:47Z
-  Vendor: Aurorejewels 
-  Product Type: Bague
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/Bague_coulissante_strass_or.png?v=1780045409
-  Price: 8,90 € EUR
 - [BAGUE GOUTTE D'EAU DORÉ](https://aurorejewels.fr/products/bague-goutte-deau-acier-inoxydable-dore): La bague goutte d'eau, c'est la bague qu'on ne s'attend pas à autant aimer. Son design en double goutte enveloppante lui donne ce quelque chose d'unique : Elle attire le regard sans chercher à le retenir. Portée seule, elle compose une parue à elle seule. Portée avec d'autre bagues Aurore Jewels, elle s'intègre naturellement dans votre parure du quotidien sans jamais dominer. Sa dorure brillante capte la lumière à chaque mouvement. Pas le genre de dorure qui s'efface au bout de trois semaines : l'acier inoxydable garantit une tenue dans le temps que vous la portiez sous la douche, à la salle de sport ou en soirée. Entièrement ajustable, elle s'adapte à tous les doigts. Vous la glissez, vous la réglez, et elle reste là où vous l'avez placée. Simple, esthétique, et sans fioriture.
   Updated: 2026-09-26T14:27:14Z
   Vendor: Aurorejewels 
@@ -590,6 +583,24 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/sautoir-maille-marine-4670682.png?v=1790432835
   Price: 19,90 € EUR
+- [Coffret cadeau bijoux femme](https://aurorejewels.fr/products/coffrets-bijoux-femme): Imaginez le moment où elle ouvre l'écrin. Trois bijoux posés côte à côte : un collier, un bracelet et une bague, tous ornés de petites fleurs à quatre pétales serties de pierres. Sous les lumières du sapin, chaque fleur renvoie un éclat différent. Ce coffret bijoux de Noël, je l'ai pensé comme le cadeau qu'on n'a pas besoin d'expliquer. La parure est complète, elle se suffit à elle-même, et elle peut la porter le soir même au réveillon. Pas de taille à deviner : le collier, le bracelet et la bague sont ajustables. Et la parure arrive dans sa boîte de Noël, un joli écrin à emballer à votre façon pour garder la surprise jusqu'au bout. Et si ce coffret vous fait de l'œil pour vous-même, offrez-le-vous. C'est souvent le cadeau qu'on attend le plus. Trois coloris, trois ambiances Doré : pierres blanches sur monture dorée, pour une tenue de fête en noir, blanc ou rouge. Bleu : bleu roi, bleu ciel et blanc, comme un ciel d'hiver. Rose : rose pâle et fuchsia, pour celles qui aiment les couleurs qui se remarquent. Les trois bijoux sont en acier inoxydable hypoallergénique, une vraie tranquillité quand on offre à une peau sensible. Le coffret contient 1 collier ajustable 1 bracelet ajustable 1 bague ajustable 1 boîte cadeau de Noël
+  Updated: 2026-11-10T22:51:55Z
+  Vendor: Aurorejewels 
+  Product Type: 
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/IMG_1320.jpg?v=1793822712
+  - [Doré](https://aurorejewels.fr/products/coffrets-bijoux-femme?variant=59090139808127)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/IMG_1320.jpg?v=1793822712
+    Price: 59,90 € EUR
+  - [Rose](https://aurorejewels.fr/products/coffrets-bijoux-femme?variant=59090136727935)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/IMG_1337.jpg?v=1793822454
+    Price: 59,90 € EUR
+  - [Bleu](https://aurorejewels.fr/products/coffrets-bijoux-femme?variant=59090131157375)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0994/5612/3263/files/IMG_1326.jpg?v=1793822712
+    Price: 59,90 € EUR
 
 ## Collections
 
@@ -597,7 +608,7 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
   Updated: 2026-07-21T20:42:07Z
   Total Products: 0
 - [BAGUES](https://aurorejewels.fr/collections/bagues-acier-inoxydable): Bagues acier inoxydable femme, une collection pensée pour le quotidien. Ajustables, résistantes, et accessibles. Il est temps de vous faire plaisir.
-  Updated: 2026-10-04T11:52:51Z
+  Updated: 2026-11-12T12:46:22Z
   Total Products: 38
 - [COLLIERS](https://aurorejewels.fr/collections/colliers-acier-inoxydable): Collier en acier inoxydable pour femme Découvrez notre collection de colliers, élégant et accessible. Des pièces pensées pour celles qui méritent de se choisir.
   Updated: 2026-10-14T11:58:30Z
@@ -609,16 +620,16 @@ Elle habille votre poignet et vous accompagne dans votre quotidien. En acier ino
   Updated: 2026-07-29T11:47:56Z
   Total Products: 7
 - [Vos bijoux préférés](https://aurorejewels.fr/collections/bijoux-tendance-femme): Bijoux acier inoxydable tendance femme Découvrez nos meilleures ventes de bijoux en acier inoxydable. Colliers, bracelets, bagues et boucles d'oreilles.
-  Updated: 2026-09-26T14:36:43Z
+  Updated: 2026-11-12T12:46:22Z
   Total Products: 11
 - [Bijoux acier inoxydable](https://aurorejewels.fr/collections/bijoux-acier-inoxydable-femme): Bijoux acier inoxydable, résistants à l'eau, hypoallergéniques et sans nickel. Colliers, bracelets, bagues et boucles d'oreilles. Élégants et accessibles.
-  Updated: 2026-10-14T11:58:30Z
+  Updated: 2026-11-12T12:46:22Z
   Total Products: 94
 - [Chaines de main](https://aurorejewels.fr/collections/chaines-de-main-acier-inoxydable): Chaîne de main acier inoxydable, le bijou tendance du moment. Élégant, résistant et accessible. Pour celles qui osent enfin se choisir.
   Updated: 2026-09-26T14:45:19Z
   Total Products: 2
 - [Nouvelle collection](https://aurorejewels.fr/collections/nouvelle-collection-bijoux-acier-inoxydable): Nouvelle collection bijoux acier inoxydable femme, colliers, bracelets, bagues et boucles d'oreilles. Élégants, durables, accessibles. Faites-vous plaisir.
-  Updated: 2026-10-14T11:58:30Z
+  Updated: 2026-11-12T12:46:22Z
   Total Products: 42
 - [Des bijoux à portée de main](https://aurorejewels.fr/collections/destockage-bijoux): Bénéficiez de -20 % sur une sélection de bijoux. La remise s'applique automatiquement dans votre panier.
   Updated: 2026-10-04T11:52:51Z
