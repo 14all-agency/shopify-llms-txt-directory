@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2026-04-11T11:58:19Z
 - Contact Email: larolyn.young@gmail.com
-- Updated At: 2026-11-08T00:22:59.438Z
+- Updated At: 2026-11-15T00:28:52.533Z
 
 ## Products
 
@@ -73,11 +73,11 @@
   Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/the-radiance-ritual-7107285.jpg?v=1780906746
   Price: $42.00 USD
 - [TSA- Skincare Travel Set for Melanated Skin | House of Maryland](https://www.houseofmaryland.skin/products/travel-ritual-collection): Six travel-size essentials for melanin-rich skin. The complete P.I.E. Ritual in carry-on size. Perfect for gifting or travel.
-  Updated: 2026-11-07T22:02:10Z
+  Updated: 2026-11-09T17:23:23Z
   Vendor: House of Maryland
   Product Type: 
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/travel-ritual-collection-9296786.png?v=1780906746
+  Image: https://cdn.shopify.com/s/files/1/0821/8204/5940/files/B772B6C2-B297-4A29-B67C-66D194178AFE.png?v=1794134529
   Price: $32.00 USD
 
 ## Collections
