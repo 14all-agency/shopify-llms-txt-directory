@@ -8,7 +8,7 @@
 - Timezone: America/New_York
 - Created At: 2023-12-18T03:39:41Z
 - Contact Email: info@nimagifts.com
-- Updated At: 2026-11-08T00:30:17.116Z
+- Updated At: 2026-11-15T00:31:54.558Z
 
 NIMA Gifts is an Atlanta-based, mother-daughter gift studio creating personalized gift boxes for weddings and special occasions.
 
@@ -1133,22 +1133,18 @@ Give the gift of love, thoughtfulness, and beauty with our handmade and personal
     Updated: 2026-11-02T20:36:42Z
     Author: Marina & Nicole, NIMA Gifts
     Tags: bridesmaid gifts, bridesmaid proposal, wedding colors, winter wedding
-  - [Personalized Christmas Gifts for Her She'll Use Every Day](https://nimagifts.com/blogs/nima-gifts-blog/personalized-christmas-gifts-for-her): Personalized Christmas Gifts for Her She'll Use Every Day
-    Updated: 2026-11-02T20:36:40Z
-    Author: Marina & Nicole, NIMA Gifts
-    Tags: christmas gifts, gift guide, gifts for her, personalized gifts
   - [Engagement Gift Etiquette: Who Gives, How Much & What to Buy](https://nimagifts.com/blogs/nima-gifts-blog/engagement-gift-etiquette): Engagement Gift Etiquette: Who Gives, How Much & What to Buy
     Updated: 2026-11-02T20:36:42Z
     Author: Marina & Nicole, NIMA Gifts
     Tags: engagement gifts, engagement party, etiquette, gift guide
-  - [Employee & Coworker Christmas Gifts Under $65 | NIMA Gifts](https://nimagifts.com/blogs/nima-gifts-blog/employee-coworker-christmas-gifts): Employee & Coworker Christmas Gifts Under $65 | NIMA Gifts
-    Updated: 2026-11-03T14:00:03Z
-    Author: Marina & Nicole, NIMA Gifts
-    Tags: christmas gifts, coworker gifts, employee gifts, gift guide
   - [Just Engaged? Your First 30 Days and What Can Wait](https://nimagifts.com/blogs/nima-gifts-blog/just-engaged-first-30-days): Just Engaged? Your First 30 Days and What Can Wait
     Updated: 2026-11-06T14:00:03Z
     Author: Marina & Nicole, NIMA Gifts
     Tags: bride to be, engagement, just engaged, wedding planning
+  - [The Bridal Gifting Map: What to Give and When | NIMA Gifts](https://nimagifts.com/blogs/nima-gifts-blog/bridal-gifting-map-what-to-give-and-when): The Bridal Gifting Map: What to Give and When | NIMA Gifts
+    Updated: 2026-11-11T14:00:02Z
+    Author: Marina & Nicole, NIMA Gifts
+    Tags: bridal gifts, bridesmaid proposal gifts, engagement gifts, gift guide, wedding gift timeline
 
 ## Store Pages
 
