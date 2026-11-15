@@ -6,7 +6,7 @@
 - Timezone: Asia/Phnom_Penh
 - Created At: 2026-08-17T05:55:22Z
 - Contact Email: support@readingbooklight.com
-- Updated At: 2026-11-07T01:16:49.218Z
+- Updated At: 2026-11-15T01:01:19.911Z
 
 ## Products
 
@@ -182,6 +182,10 @@
     Updated: 2026-11-06T00:00:02Z
     Author: ReadingBookLight Admin
     Tags: book light gift, gift for readers, gifts for book lovers, reading gift ideas, reading light gift
+  - [How to Set Up a Reading Corner at Home](https://readingbooklight.com/blogs/reading-light-guide/how-to-set-up-a-reading-corner-at-home): How to Set Up a Reading Corner at Home
+    Updated: 2026-11-13T00:00:01Z
+    Author: ReadingBookLight Admin
+    Tags: book light, reading at home, reading corner, reading corner setup, reading nook, reading space
 
 ## Store Pages
 
