@@ -6,7 +6,7 @@
 - Timezone: Africa/Johannesburg
 - Created At: 2026-06-25T13:38:55Z
 - Contact Email: infopawcentral@gmail.com
-- Updated At: 2026-11-07T01:18:41.030Z
+- Updated At: 2026-11-15T01:02:05.157Z
 
 ## Products
 
@@ -1465,6 +1465,15 @@
     Author: PawCentral
   - [Tips for Daily Pet Grooming Without a Fuss](https://pawcentral.co.za/blogs/news/tips-for-daily-pet-grooming-without-a-fuss): Tips for Daily Pet Grooming Without a Fuss
     Updated: 2026-11-07T00:09:13Z
+    Author: PawCentral
+  - [Comparative Guide to Pain Management in Pets](https://pawcentral.co.za/blogs/news/comparative-guide-to-pain-management-in-pets): Comparative Guide to Pain Management in Pets
+    Updated: 2026-11-09T01:04:55Z
+    Author: PawCentral
+  - [The Fascinating History of Pets Through the Centuries](https://pawcentral.co.za/blogs/news/the-fascinating-history-of-pets-through-the-centuries): The Fascinating History of Pets Through the Centuries
+    Updated: 2026-11-11T00:45:46Z
+    Author: PawCentral
+  - [Essential First Aid You Should Know for Pets](https://pawcentral.co.za/blogs/news/essential-first-aid-you-should-know-for-pets): Essential First Aid You Should Know for Pets
+    Updated: 2026-11-14T00:08:00Z
     Author: PawCentral
 
 ## Store Pages
