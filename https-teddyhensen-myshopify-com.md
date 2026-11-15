@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-09-27T16:41:54Z
 - Contact Email: james.findlater@shopify.com
-- Updated At: 2026-11-08T00:30:20.468Z
+- Updated At: 2026-11-15T00:34:53.890Z
 
 ## Products
 
@@ -548,6 +548,8 @@
 
 - [Privacy Policy](https://teddyhensen.myshopify.com/policies/privacy-policy)
   Updated: 2026-10-29T17:03:02Z
+- [Shipping Policy](https://teddyhensen.myshopify.com/policies/shipping-policy)
+  Updated: 2026-11-10T19:53:37Z
 - [Refund Policy](https://teddyhensen.myshopify.com/policies/refund-policy)
   Updated: 2025-01-21T17:52:21Z
 - [Terms of Service](https://teddyhensen.myshopify.com/policies/terms-of-service)
