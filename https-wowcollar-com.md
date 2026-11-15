@@ -6,7 +6,7 @@
 - Timezone: Europe/Kyiv
 - Created At: 2024-03-04T11:34:27Z
 - Contact Email: wow777collar@gmail.com
-- Updated At: 2026-11-07T00:59:09.078Z
+- Updated At: 2026-11-15T00:58:50.694Z
 
 ## Products
 
@@ -467,7 +467,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/cat-collar-itag-clip-5-r-clean.jpg?v=1730217784
     Price: $44.99 USD
 - [Leather Leash for Dog, Handcrafted Genuine Leather Lead for Cat](https://wowcollar.com/products/leather-leash): Our handcrafted Leather Leash is a perfect blend of style and durability. It is perfect for both cats and dogs. Whether walking your dog or adventuring with your cat, our versatile leash is a stylish and reliable choice. Shop now for the perfect accessory for your furry friend.
-  Updated: 2026-09-27T19:36:27Z
+  Updated: 2026-11-13T09:23:15Z
   Vendor: Wow Collar
   Product Type: 
   Availability: Available
@@ -1763,7 +1763,7 @@
     Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-collar-5-r.jpg?v=1718640180
     Price: $54.95 USD
 - [Handcrafted Personalized Leather Dog Collar - Customizable with Name & Number](https://wowcollar.com/products/engraved-leather-dog-collar-clip): Personalized Leather Dog Collar - Upgrade your pet's style. This Handcrafted Leather Dog Collar can be customized with your dog's name and number, combining elegance with security. Shop now for a unique, durable, and comfortable leather dog collar.
-  Updated: 2026-11-02T23:38:12Z
+  Updated: 2026-11-13T09:23:15Z
   Vendor: Wow Collar
   Product Type: 
   Availability: Available
@@ -2758,85 +2758,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/cat-2-1-r.jpg?v=1756406712
     Price: $59.95 USD
-- [Engraved Harness for Small Dog – Handmade & Adjustable | WowCollar](https://wowcollar.com/products/engraved-harness-for-small-dog): Handmade leather harness for small dogs with engraved name & number. Lightweight, adjustable, and easy to put on. Stylish, secure & comfortable fit.
-  Updated: 2026-10-20T09:23:02Z
-  Vendor: Wow Collar
-  Product Type: 
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bl.jpg?v=1756409661
-  - [Blue / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504362686)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bl.jpg?v=1756409661
-    Price: $49.95 USD
-  - [Blue / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504395454)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bl.jpg?v=1756409661
-    Price: $59.95 USD
-  - [Cognac / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504428222)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bl.jpg?v=1756409661
-    Price: $49.95 USD
-  - [Cognac / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504460990)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bl.jpg?v=1756409661
-    Price: $59.95 USD
-  - [Vintage Brown / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504493758)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-y.jpg?v=1756410008
-    Price: $49.95 USD
-  - [Vintage Brown / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504526526)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-y.jpg?v=1756410008
-    Price: $59.95 USD
-  - [Black / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504559294)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bk.jpg?v=1756410151
-    Price: $49.95 USD
-  - [Black / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504592062)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-bk.jpg?v=1756410151
-    Price: $59.95 USD
-  - [Brown / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504624830)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-db.jpg?v=1756410279
-    Price: $49.95 USD
-  - [Brown / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504657598)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-db.jpg?v=1756410279
-    Price: $59.95 USD
-  - [Green / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504690366)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-gn.jpg?v=1756410643
-    Price: $49.95 USD
-  - [Green / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504723134)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-gn.jpg?v=1756410643
-    Price: $59.95 USD
-  - [Burgundy / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504755902)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-v.jpg?v=1756410784
-    Price: $49.95 USD
-  - [Burgundy / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504788670)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-v.jpg?v=1756410784
-    Price: $59.95 USD
-  - [Grey / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504821438)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-g.jpg?v=1756410944
-    Price: $49.95 USD
-  - [Grey / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504854206)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-g.jpg?v=1756410944
-    Price: $59.95 USD
-  - [Red / S](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504886974)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-r.jpg?v=1756411048
-    Price: $49.95 USD
-  - [Red / M](https://wowcollar.com/products/engraved-harness-for-small-dog?variant=45345504919742)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0650/6869/5742/files/dog-4-1-r.jpg?v=1756411048
-    Price: $59.95 USD
-[List Continued](https://wowcollar.com/a/llms-agent/llms.txt?shop=1-petshop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTY1NzkyMTc4MzY2LCJsYXN0X3ZhbHVlIjoiODU2NTc5MjE3ODM2NiJ9)
+[List Continued](https://wowcollar.com/a/llms-agent/llms.txt?shop=1-petshop.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo4NTY1NTYwOTY3MzU4LCJsYXN0X3ZhbHVlIjoiODU2NTU2MDk2NzM1OCJ9)
 
 ## Collections
 
@@ -2844,22 +2766,22 @@
   Updated: 2026-10-29T11:17:09Z
   Total Products: 8
 - [Dog Accessories](https://wowcollar.com/collections/dog-accessories): Explore premium dog accessories at WowCollar — from handcrafted leather collars and harnesses to collars with AirTag holders and poop bag cases. Smart, safe & stylish.
-  Updated: 2026-11-03T12:13:53Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 19
 - [Cat Accessories](https://wowcollar.com/collections/cat-accessories): Shop handmade cat accessories at WowCollar. Discover leather cat harnesses, personalized cat collars, AirTag collars, and matching leather leashes.
   Updated: 2026-11-06T12:15:03Z
   Total Products: 12
 - [Accessories](https://wowcollar.com/collections/accessories): Shop stylish pet accessories for dogs and cats at WowCollar. Discover leather poop bag holders, engraved ID tags, and collars with built-in AirTag holders.
-  Updated: 2026-09-28T11:16:31Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 7
 - [Leather Airtag Dog Collar](https://wowcollar.com/collections/leather-airtag-dog-collar): Upgrade your pet's look with our Handmade Leather AirTag Dog Collar. This personalized dog collar features embossed name and number options in black, silver, or gold. Choose hardware in silver, gold, or copper. Our leather dog collar includes an AirTag holder for easy tracking. Shop now!
   Updated: 2026-10-29T11:17:09Z
   Total Products: 4
 - [Leather Dog Collar](https://wowcollar.com/collections/leather-dog-collar): Shop premium leather dog collars at WowCollar. Handmade, customizable with name & number, available in multiple colors. Stylish, durable & pet-safe.
-  Updated: 2026-11-03T12:13:53Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 8
 - [Leather Dog Leashes](https://wowcollar.com/collections/leather-dog-leashes): Shop handmade leather dog leashes at WowCollar. Crafted from genuine leather and built to last. Pair with our matching collars and harnesses for a full set.
-  Updated: 2026-09-28T11:16:31Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 2
 - [Leather Airtag Cat Collar](https://wowcollar.com/collections/leather-airtag-cat-collar): Keep your feline safe with our Leather AirTag Cat Collar. This personalized collar with an AirTag holder ensures your cat is easily trackable and stylish. Crafted from genuine leather, our leather cat collar offers durability and comfort. Our leather cat collar combines elegance and functionality.
   Updated: 2026-09-21T11:16:38Z
@@ -2871,16 +2793,16 @@
   Updated: 2026-09-17T11:20:17Z
   Total Products: 1
 - [Shop](https://wowcollar.com/collections/all): Browse all WowCollar products in one place. Shop handcrafted leather pet collars, dog harnesses, collars with AirTag holders, leashes, and stylish accessories.
-  Updated: 2026-11-06T12:15:03Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 32
 - [Leather Dog Harness](https://wowcollar.com/collections/dog-harness): Shop handmade leather dog harnesses at WowCollar. Custom name engraving, AirTag-ready options, and a secure fit for small and big dogs. Durable, stylish & safe.
-  Updated: 2026-09-28T11:16:31Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 6
 - [Leather Cat Harness](https://wowcollar.com/collections/leather-cat-harness): Shop genuine leather cat harnesses at WowCollar. Handmade, adjustable, and customizable with your cat’s name. Comfortable, safe, and built to last.
   Updated: 2026-09-20T11:18:21Z
   Total Products: 3
 - [New! Shopify performance sharing is now turned on](https://wowcollar.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-06T12:15:03Z
+  Updated: 2026-11-13T12:18:12Z
   Total Products: 32
 
 ## Blogs
@@ -3401,6 +3323,30 @@
     Author: WowCollar
   - [Compare Airtag Dog Harnesses: Which Style Suits Your Canine Best?](https://wowcollar.com/blogs/news/compare-airtag-dog-harnesses-which-style-suits-your-canine-best): Compare Airtag Dog Harnesses: Which Style Suits Your Canine Best?
     Updated: 2026-11-07T00:47:52Z
+    Author: WowCollar
+  - [Exploring Options in Leather Dog Collars and Harnesses for Both Function and Trend](https://wowcollar.com/blogs/news/exploring-options-in-leather-dog-collars-and-harnesses-for-both-function-and-trend): Exploring Options in Leather Dog Collars and Harnesses for Both Function and Trend
+    Updated: 2026-11-08T00:31:23Z
+    Author: WowCollar
+  - [Exploring Innovative Designs in Dog Collars with Name Plates](https://wowcollar.com/blogs/news/exploring-innovative-designs-in-dog-collars-with-name-plates): Exploring Innovative Designs in Dog Collars with Name Plates
+    Updated: 2026-11-09T00:50:12Z
+    Author: WowCollar
+  - [The Evolution of Dog Leash and Collar Sets Over the Years](https://wowcollar.com/blogs/news/the-evolution-of-dog-leash-and-collar-sets-over-the-years): The Evolution of Dog Leash and Collar Sets Over the Years
+    Updated: 2026-11-10T00:48:03Z
+    Author: WowCollar
+  - [How Airtag Dog Collars Are Revolutionizing Pet Tracking and Safety](https://wowcollar.com/blogs/news/how-airtag-dog-collars-are-revolutionizing-pet-tracking-and-safety): How Airtag Dog Collars Are Revolutionizing Pet Tracking and Safety
+    Updated: 2026-11-11T00:49:33Z
+    Author: WowCollar
+  - [Essential Factors When Selecting a Leather Dog Harness for Your Pet](https://wowcollar.com/blogs/news/essential-factors-when-selecting-a-leather-dog-harness-for-your-pet): Essential Factors When Selecting a Leather Dog Harness for Your Pet
+    Updated: 2026-11-12T00:49:10Z
+    Author: WowCollar
+  - [Navigating Today's Trends in No Pull Dog Harness Solutions](https://wowcollar.com/blogs/news/navigating-todays-trends-in-no-pull-dog-harness-solutions): Navigating Today's Trends in No Pull Dog Harness Solutions
+    Updated: 2026-11-13T00:51:12Z
+    Author: WowCollar
+  - [The Comprehensive Guide to Cat Harness and Leash Adventures](https://wowcollar.com/blogs/news/the-comprehensive-guide-to-cat-harness-and-leash-adventures): The Comprehensive Guide to Cat Harness and Leash Adventures
+    Updated: 2026-11-14T00:45:52Z
+    Author: WowCollar
+  - [Adapting to Modern Times: AirTag Functionality in Pet Collars and Harnesses](https://wowcollar.com/blogs/news/adapting-to-modern-times-airtag-functionality-in-pet-collars-and-harnesses): Adapting to Modern Times: AirTag Functionality in Pet Collars and Harnesses
+    Updated: 2026-11-15T00:30:21Z
     Author: WowCollar
 
 ## Store Pages
