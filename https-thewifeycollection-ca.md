@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2016-08-27T01:53:23Z
 - Contact Email: admin@thewifeycollection.ca
-- Updated At: 2026-11-07T00:20:30.802Z
+- Updated At: 2026-11-15T00:21:49.527Z
 
 he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abayas, kaftans, gowns, cloaks, and outerwear in Canada. Our pieces are made to order, modest in silhouette, and designed for the woman who dresses with intention and grace.
 
@@ -315,6 +315,22 @@ he Wifey Collection is a Canadian luxury modest fashion brand. We handcraft abay
     Updated: 2026-11-05T09:01:42Z
     Author: The Wifey Collection
     Tags: canadian craftsmanship, cultural modest fashion trends, elegance, fashion, modest fashion, modesty, sustainable modest clothing, timeless styles
+  - [Profound stillness: Unfolding the Elegance within Modest Couture](https://thewifeycollection.ca/blogs/news/profound-stillness-unfolding-the-elegance-within-modest-couture): Profound stillness: Unfolding the Elegance within Modest Couture
+    Updated: 2026-11-07T09:01:01Z
+    Author: The Wifey Collection
+    Tags: couture, elegance, elegant outfits, modest, modest fashion, modest fashion trends, stylish modesty, timeless modest clothing
+  - [Elegance Resolved: The Quiet Craftsmanship of Modest Fashion](https://thewifeycollection.ca/blogs/news/elegance-resolved-the-quiet-craftsmanship-of-modest-fashion): Elegance Resolved: The Quiet Craftsmanship of Modest Fashion
+    Updated: 2026-11-10T09:00:54Z
+    Author: The Wifey Collection
+    Tags: affordable modest clothing, craftsmanship, elegance, ethical fashion choices, fashion tips, modest, modest fashion, style inspiration
+  - [Transcending Norms: A Journey Through Modest Apparel's Heritage.](https://thewifeycollection.ca/blogs/news/transcending-norms-a-journey-through-modest-apparels-heritage): Transcending Norms: A Journey Through Modest Apparel's Heritage.
+    Updated: 2026-11-12T09:01:03Z
+    Author: The Wifey Collection
+    Tags: cultural styles, expression of faith, fashion, heritage, journey through modesty, modest, modest apparel history, modest attire
+  - [Subtle Sophistication: The DNA of Modest Fashion Design](https://thewifeycollection.ca/blogs/news/subtle-sophistication-the-dna-of-modest-fashion-design): Subtle Sophistication: The DNA of Modest Fashion Design
+    Updated: 2026-11-14T09:00:50Z
+    Author: The Wifey Collection
+    Tags: chic attire, contemporary clothing, elegant design, fashion, modest fashion, modest fashion trends, modesty, stylish modest outfits
 
 ## Store Pages
 
