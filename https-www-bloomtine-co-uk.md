@@ -6,28 +6,26 @@
 - Timezone: Europe/London
 - Created At: 2025-02-08T16:54:39Z
 - Contact Email: Team@bloomtine.com
-- Updated At: 2026-11-07T00:40:37.535Z
+- Updated At: 2026-11-15T00:42:24.938Z
 
 ## Products
 
-- [Eternal Bloom™ 14K White Gold Diamond Lotus Earrings | VS1 Studs | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-white-gold-lotus-flower-diamond-earrings): Celebrate resilience with the Eternal Bloom™ 14K white gold earrings. Featuring a sculptural, 3D layered diamond lotus earrings design encrusted with 12 ethically sourced VS1 diamonds, these luxury studs offer a meaningful fine jewelry gift
-
-Discover The Eternal Bloom™ 14K White Gold Diamond Lotus Flower Earrings from BLOOMTINE | Earth Angel HQ. These 3D layered flowers measure approximately 8mm and are made with the finest 14K solid white gold. Meticulously crafted from ethically sourced, conflict-free diamonds. Each flower is encrusted with 6 diamonds, 12 in total. These earrings embody sustainable luxury and timeless beauty. Our exquisite lotus flower design symbolizes purity and resilience, making them the ideal gift for any occasion. Each pair is perfectly wrapped, ensuring a memorable unboxing experience. Handmade with 14K Gold by Extraordinary Humans for Extraordinary Humans © Design Copyrighted BLOOMTINE Create the Perfect Gift Jewellery for Any Occasion. 14K White Gold Earring Diameter 8 mm Round Diamond Clarity VS1. Butterfly Push Back
-  Updated: 2026-11-06T16:43:48Z
+- [Eternal Bloom™ 14K White Gold Diamond Lotus Earrings | VS1 Studs | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-white-gold-lotus-flower-diamond-earrings): Eternal Bloom 14K solid white gold lotus earrings: 8mm 3D flowers set with 12 natural diamonds (VS1). A fine jewellery gift of resilience. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:54Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-eternal-bloom-14k-solid-white-gold-3d-layered-vs1-diamond-lotus-flower-stud-earrings.jpg?v=1779130195
-  Price: £425.00 GBP
-- [Loves Frequency™ 18K Mother of Pearl Diamond Pendant | Fine Jewellery](https://www.bloomtine.co.uk/products/loves-frequency™-18k-mother-of-pearl-diamond-pendant): 'Where there is LOVE, there is MAGIC'. At BLOOMTINE | Earth Angel HQ, we believe the essence of life is to love. Gift this necklace to someone you feel exudes an abundance of love - the ultimate  of appreciation. Choose to address all facets of life through the lens of love with this elegant gold statement piece with 33 scintillating diamonds and mother of pearl. A gentle reminder to follow your heart. This beautifully rounded circular pendant uses brilliant diamonds, and is  to refract light to create a mesmerising sparkle. Handmade by Extraordinary Humans for Extraordinary Humans © Design Copyrighted BLOOMTINE Create the Perfect Gift Jewellery. Gift this Necklace to Someone You Absolutely Adore What is the meaning behind the Loves Frequency™ Mother of Pearl and Diamond necklace? Rooted in the philosophy that "where there is love, there is magic," this mother of pearl pendant serves as a wearable lens to view life with gratitude. Genuine mother of pearl is known for its calming, protective energy and its ability to stimulate intuition, while the surrounding halo of 33 brilliant VS1 diamonds reflects the uncontained light of a loving soul. It is designed as the ultimate  of appreciation for someone who exudes unconditional love. What makes 18K gold and VS1 clarity diamonds  grade? 18K yellow gold contains 75% pure solid gold, giving it a rich, warm tone and a heavy, luxurious weight that resists tarnish and fading and will not discolor the skin. Coupled with VS1 clarity diamonds—which feature microscopic characteristics invisible to the naked eye—this diamond halo necklace guarantees an exceptional, uninterrupted refraction of light. It is fine jewelry made to be worn and cherished, and to last with care. How does the 16mm circular pendant sit when worn? With a beautifully proportioned 16mm diameter, this pendant serves as an elegant, eye-catching statement piece. It comes paired with an adjustable 16 to 18-inch chain, allowing it to rest perfectly against the collarbone or layer flawlessly above longer lariats. The smooth, rounded curvature of the disk ensures it sits flush and comfortably against the skin for a daily jewelry ritual. Feature Technical Specification Product Category 18K Yellow Gold Necklace / Mother of Pearl Pendant / Diamond Halo Necklace Metal Composition Solid 18K Yellow Gold (High-Density Premium Alloy) Pendant Dimensions 16mm Diameter (Perfect Statement Circular Silhouette) Gemstones (Diamonds) 33 x Round Brilliant Mined Diamonds Diamond Carat / Clarity 0.165 Carat Weight | VS1 Clarity Grade (Very Slightly Included) Inlay Material Genuine, Highly Iridescent Mother of Pearl (Nacre) Chain Specification Adjustable 16" to 18" Premium Solid Gold Chain Symbolic Alignment Earth Angel HQ Archetype / Heart's Intelligence & Gratitude Exclusivity Original BLOOMTINE © Design Copyrighted
-  Updated: 2026-11-06T16:55:46Z
+  Price: £650.00 GBP
+- [Loves Frequency™ 18K Mother of Pearl Diamond Pendant | Fine Jewellery](https://www.bloomtine.co.uk/products/loves-frequency™-18k-mother-of-pearl-diamond-pendant): Loves Frequency 18K solid gold mother of pearl pendant: 16mm disc with 33 natural diamonds, adjustable 16 to 18 inch chain. A gift of love. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:55Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-earth-angel-18k-yellow-gold-mother-of-pearl-vs1-diamond-halo-pendant-necklace.jpg?v=1779129895
   Price: £1,850.00 GBP
 - [Mini Halo Wings™ Sterling Silver Angel Necklace | 1.75mm Lab Diamonds | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-halo-wings™-sterling-silver-diamond-angel-necklace): Mini Halo Wings sterling silver angel necklace: 15mm halo with 2 lab-grown diamonds, rhodium plated, 15.5 inch chain. Celebrate your angels. BLOOMTINE UK.
-  Updated: 2026-11-07T00:29:53Z
+  Updated: 2026-11-12T14:44:08Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
@@ -41,7 +39,7 @@ Discover The Eternal Bloom™ 14K White Gold Diamond Lotus Flower Earrings from 
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Mini_Halo_Wings_Sterling_Silver_Diamond_Angel_Necklace.jpg?v=1777516612
     Price: £185.00 GBP
 - [Mini Halo Wings™ 14K Gold Vermeil Angel Bracelet | VVS Lab Diamonds | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-halo-wings™-diamond-gold-vermeil-angel-bracelet): Mini Halo Wings 14K gold vermeil angel bracelet: 13mm halo, 2 VVS lab-grown diamonds, adjustable in two sizes (5.75 to 6.76 inches). BLOOMTINE UK.
-  Updated: 2026-11-07T00:29:54Z
+  Updated: 2026-11-12T14:42:50Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
@@ -55,44 +53,42 @@ Discover The Eternal Bloom™ 14K White Gold Diamond Lotus Flower Earrings from 
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Mini_Halo_Wings_Diamond_Gold_Vermeil_Angel_Bracelet.jpg?v=1777516615
     Price: £165.00 GBP
 - [Enchanting Flutterfly™ Sterling Silver Butterfly Necklace | 9mm Moissanite Pendant | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-butterfly-necklace): Enchanting Flutterfly sterling silver butterfly necklace: 9mm pendant, 4 lab-grown moissanites, adjustable 14.5 to 16.5 inches. Gift of change. BLOOMTINE.
-  Updated: 2026-11-07T00:29:54Z
+  Updated: 2026-11-12T14:44:08Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-flutterfly-sterling-silver-9mm-butterfly-moissanite-pendant-necklace.jpg?v=1779126931
   Price: £135.00 GBP
 - [Pink Cosmos | Glitter Bomb™ Gift Candle Blackcurrant, Vanilla & Jasmine 280G](https://www.bloomtine.co.uk/products/pink-cosmos-glitter-bomb-gift-candle-blackcurrant-vanilla-jasmine-280g): Glitter Bomb™ pink sparkle candle in Blackcurrant, Vanilla & Jasmine. 280g natural soy wax, made in London. Sparkle in the first hour. 40–50 hour burn.
-  Updated: 2026-11-06T16:45:40Z
+  Updated: 2026-11-13T01:22:19Z
   Vendor: BLOOMTINE
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-glitter-bomb-pink-glass-jar-blackcurrant-vanilla-sparkle-gift-candle.jpg?v=1778973775
   Price: £35.00 GBP
 - [Mini Heart Gold Vermeil Silk Cord Bracelet](https://www.bloomtine.co.uk/products/mini-heart-gold-vermeil-silk-cord-bracelet): Mini Heart bracelet in 14K gold vermeil: one heart charm set with 9 lab-grown moissanites on a red silk cord. Adjustable 5.5–7.5" gift.
-  Updated: 2026-11-06T16:43:46Z
+  Updated: 2026-11-12T14:42:51Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/gold-heart-red-silk-bracelet.jpg?v=1788283936
   Price: £65.00 GBP
-- [Illuminess™ Mini Gold Vermeil Shooting Star Huggies | 6mm Gold Vermeil Hoop Earrings | Discover Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-gold-vermeil-shooting-star-huggies): Elevate your ear stack with our gold star huggie earrings. Crafted in 14K gold vermeil with a snug 6mm internal diameter, these celestial hoops feature 4 moissanite stars. The perfect meaningful gold gift for a first or second piercing
-
-These celestial-inspired mini shooting star huggies are one of our latest pieces. Made using premium gold vermeil "a generous layer of gold on sterling silver". This piece is perfect for a first or second piercing measuring 6mm internally it perfectly hugs your lobe and creates seamless sparkle. Stars are spiritually symbolic of attracting abundance, the 4 stars featured in these earrings will ensure you are carrying the right symbolism. This piece is sustainably produced, conflict-free and without the ecological impact associated with mining diamonds. Moissanites beautifully refract light to create a mesmerising sparkle. Made to endure the test of time. The perfect gift for her, sold as a pair. BLOOMTINE Create The Perfect Gift for Her © Design Copyrighted. Also available at select retailers
-  Updated: 2026-11-06T16:41:45Z
+- [Illuminess™ Mini Gold Vermeil Shooting Star Huggies | 6mm Gold Vermeil Hoop Earrings | Discover Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-gold-vermeil-shooting-star-huggies): Illuminess mini 18K gold vermeil shooting star huggies: 6mm internal diameter, 4 moissanite stars, ideal for a first or second piercing. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:52Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-celestial-mini-shooting-star-gold-vermeil-6mm-huggie-earrings-moissanite.jpg?v=1778972887
   Price: £150.00 GBP
 - [Illuminess™ Premium Gold Vermeil Moissanite Hand Chain | Finger Bracelet | Best  Goddess Essential](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-sparkle-hand-chain): Illuminess 14K gold vermeil hand chain with lab-grown moissanites: diamond-cut chain, adjustable 5.75 to 7.5 inches. Statement gift for her. BLOOMTINE UK.
-  Updated: 2026-11-07T00:29:55Z
+  Updated: 2026-11-13T01:18:30Z
   Vendor: BLOOMTINE
   Product Type: Hand Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-gold-vermeil-moissanite-hand-chain-finger-bracelet.jpg?v=1778972855
   Price: £150.00 GBP
 - [Mini Halo Wings™ Diamond Gold Vermeil Angel Necklace | The Perfect Gift Jewellery](https://www.bloomtine.co.uk/products/mini-halo-wings™-14k-diamond-pendant): Mini Halo Wings 14K gold vermeil angel necklace: 15mm halo with 2 lab-grown diamonds, 15.5 or 16 inch chain. A meaningful gift for her. BLOOMTINE UK.
-  Updated: 2026-11-07T00:29:53Z
+  Updated: 2026-11-12T14:42:53Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
@@ -104,21 +100,21 @@ These celestial-inspired mini shooting star huggies are one of our latest pieces
     Availability: Available
     Price: £225.00 GBP
 - [The Glitter Bomb™ Luxury Rose & Oud Sparkle Gift Candle | Pink Jar](https://www.bloomtine.co.uk/products/rose-galaxy-glitter-bomb-luxury-valentine-gift-candle-in-rose-oud-280g): Glitter Bomb™ Rose & Oud gift candle. 280g natural soy wax, made in London. Sparkle appears in the first hour. 40–50 hour burn time.
-  Updated: 2026-11-06T16:45:39Z
+  Updated: 2026-11-13T01:22:19Z
   Vendor: BLOOMTINE
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-glitter-bomb-pink-jar-rose-oud-soy-wax-sparkle-gift-candle.jpg?v=1778948968
   Price: £35.00 GBP
 - ["Where There Is Love, There Is Magic" Heart Bracelet In Sterling Silver](https://www.bloomtine.co.uk/products/where-there-is-love-there-is-magic-heart-bracelet-in-sterling-silver): Choose Love silver heart bracelet: nine hearts in varying rotations, each set with nine lab-grown moissanites (81 in total), in rhodium-plated silver.
-  Updated: 2026-11-06T16:55:47Z
+  Updated: 2026-11-12T14:44:09Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-choose-love-sterling-silver-multi-heart-moissanite-bracelet.jpg?v=1778948647
   Price: £185.00 GBP
 - [Illuminess™ 'You Are Magic' Sterling Silver Starset Bangle | Moissanite | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-starset-bangle): Illuminess™ silver Starset Bangle engraved 'You are Magic', in rhodium-plated sterling silver with moissanite stars. Small, Medium and Large.
-  Updated: 2026-11-06T16:55:46Z
+  Updated: 2026-11-12T14:44:09Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -132,62 +128,50 @@ These celestial-inspired mini shooting star huggies are one of our latest pieces
   - [Large / US 7 / 63 x 53mm internally](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-starset-bangle?variant=50415141126483)
     Availability: Available
     Price: £595.00 GBP
-- [Illuminess™ 14K Gold Diamond Bar Bracelet | VVS Lab Diamonds | Fine Jewellery](https://www.bloomtine.co.uk/products/illuminess™-14k-gold-diamond-bar-bracelet): Elevate your wrist stack with our 14K solid gold bracelet. Handmade with Swiss-refined gold and 21 VVS sustainably produced diamonds, this luxury diamond bar bracelet offers conflict-free brilliance in an adjustable 6–6.75" fit.
-
-This Illuminess™ 14K Solid Gold Diamond Bar Bracelet is a wrist stack essential. Handmade using the finest 14KGold from Swiss Refineries. This bracelet is durable and polished to perfection. The lab-grown diamonds in this bar bracelet are VVS quality and sustainably produced, guaranteeing to refract light to create a mesmerising sparkle all while remaining conflict-free and without ecological damage. Handmade by Extraordinary Humans for Extraordinary Humans. 14K Gold containing Lab Diamonds Size Approx 6 - 6.75 21 x 1.75mm Round Lab Diamonds © Design Copyrighted
-  Updated: 2026-11-06T16:53:15Z
+- [Illuminess™ 14K Gold Diamond Bar Bracelet | VVS Lab Diamonds | Fine Jewellery](https://www.bloomtine.co.uk/products/illuminess™-14k-gold-diamond-bar-bracelet): Illuminess 14K solid gold diamond bar bracelet: 21 VVS lab-grown diamonds, adjustable 6 to 6.75 inches. A handmade fine jewellery gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:55Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_14K_Gold_Diamond_Bar_Bracelet.jpg?v=1739921164
   Price: £695.00 GBP
-- [Illuminess™ Gold Vermeil Pink Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-pink-trillion-necklace): "Good Humans Glow" - It's as though the light inside her shines so bright it can no longer be contained within the confines of her body. At Bloomtine we call her 'illumi-ness', short for illuminated princess. This Illuminess™ Gold Vermeil Pink Trillion Necklace adds the perfect drop of seductive sparkle to serve as a reminder of your inner light. Concealed at the back of the trillion stone is an 'iddy biddy' heart setting to serve as a reminder to follow your heart's intelligence. Gemstone: Pink 4.5mm lab-grown moissanite, a premium stone with a high refractive index, creates a mesmerising sparkle. Metal: Made using premium 14K gold vermeil (a thick layer (3 to 5 microns) of 14K gold over solid 925 sterling silver). The diamond-cut cable chain reflects light to give the illusion of sparkle across the entire necklace.The perfect gift for her. Sold individually © design copyrighted. Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T16:51:45Z
+- [Illuminess™ Gold Vermeil Pink Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-pink-trillion-necklace): Illuminess 14K gold vermeil pink trillion necklace: 4.5mm pink lab-grown moissanite, hidden heart on the back, 14.5 to 16.5 inches. Gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:53Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/trillion_pink.jpg?v=1777516717
   Price: £115.00 GBP
-- [Illuminess™ Gold Vermeil Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-trillion-necklace): Channel your inner light with our gold vermeil necklace. This modern trillion cut necklace features a 4.5mm moissanite with a secret "iddy biddy" heart setting concealed at the back. The ultimate meaningful gold pendant gift.
-
-2"Good Humans Glow" - It's as though the light inside her shines so bright it can no longer be contained within the confines of her body. At Bloomtine we call her 'illumi-ness', short for illuminated princess. This Illuminess™ 14K Gold Vermeil Trillion Necklace adds the perfect drop of seductive sparkle to serve as a reminder of your inner light. Concealed at the back of the trillion stone is an 'iddy biddy' heart setting to serve as a reminder to follow your heart's intelligence. Gemstone: 4.5mm lab-grown moissanite, a premium stone with a high refractive index, creates a mesmerising sparkle. Metal: Made using premium 14K gold vermeil (a thick layer of 14K gold over solid 925 sterling silver). The diamond-cut cable chain reflects light to give the illusion of sparkle across the entire necklace. The perfect gift for her. Sold individually © design copyrighted. Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T16:54:46Z
+- [Illuminess™ Gold Vermeil Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-trillion-necklace): Illuminess 14K gold vermeil trillion necklace: 4.5mm lab-grown moissanite, hidden heart on the back, 14.5 to 16.5 inch chain. Gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:54Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-good-humans-glow-14k-gold-vermeil-trillion-cut-moissanite-hidden-heart-necklace.jpg?v=1778889988
   Price: £115.00 GBP
-- [Illuminess™ Sterling Silver Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-trillion-necklace): Channel your inner light with our trillion cut necklace. Crafted in rhodium-plated sterling silver, this silver geometric pendant features a 4.5mm moissanite with a secret "iddy biddy" heart setting at the back. A meaningful heart jewelry gift.
-
-"Good Humans Glow" - It's as though the light inside her shines so bright it can no longer be contained within the confines of her body. At Bloomtine we call her 'illumi-ness', short for illuminated princess. This Illuminess™ Sterling Silver Trillion Moissanite Necklace adds the perfect drop of seductive sparkle to serve as a reminder of your inner light. Concealed at the back of the trillion stone is an 'iddy biddy' heart setting to serve as a reminder to follow your heart's intelligence. Gemstone: 4.5mm lab-grown moissanite, a premium stone with a high refractive index, creates a mesmerising sparkle. Metal: Made using sterling silver coated in a generous layer of rhodium for durability. The diamond-cut cable chain reflects light to give the illusion of sparkle across the entire necklace. The perfect gift for her. Sold individually © design copyrighted. Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T16:54:46Z
+- [Illuminess™ Sterling Silver Trillion Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-trillion-necklace): Illuminess sterling silver trillion necklace: 4.5mm lab-grown moissanite, hidden heart on the back, rhodium plated, 14.5 to 16.5 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:10Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/trillion_silver.jpg?v=1777516723
   Price: £95.00 GBP
-- [Illuminess™ Sterling Silver 'Light Inside Her' Single Stone Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-light-inside-her-single-stone-necklace): Celebrate your inner brilliance with our silver pendant necklace. Featuring a 4.5mm moissanite drop on a rhodium-plated diamond-cut chain, this moissanite solitaire necklace is a tarnish-resistant, meaningful silver gift
-
-'It's as though the light inside her shines so bright it can no longer be contained within the confines of her body'. This Illuminess™ Sterling Silver Necklace adds the perfect drop of seductive sparkle, while serving as a subtle reminder of your inner light. Gemstone: 4.5mm lab-grown moissanite, a premium stone with a high refractive index, creates a mesmerising sparkle. Metal: Made using sterling silver coated in a generous layer of rhodium for durability. The diamond-cut cable chain reflects light to give the illusion of sparkle across the entire necklace. The perfect gift for her. Sold individually © design copyrighted. Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T16:41:45Z
+- [Illuminess™ Sterling Silver 'Light Inside Her' Single Stone Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-light-inside-her-single-stone-necklace): Illuminess sterling silver solitaire necklace: 4.5mm lab-grown moissanite, rhodium plated chain, 14.5 to 16.5 inches. Light Inside Her gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:10Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Single-stone-sterling-silver-necklace-moissanite-bloomtine.jpg?v=1788464442
   Price: £115.00 GBP
-- [Illuminess™ Gold Vermeil 'Light Inside Her' Single Stone Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-light-inside-her-single-stone-necklace): Celebrate your inner glow with our gold vermeil necklace. Featuring a brilliant 4.5mm moissanite pendant on a diamond-cut chain, this moissanite pendant necklace serves as a meaningful gold gift to honor her inner light.
-
-'It's as though the light inside her shines so bright it can no longer be contained within the confines of her body'. This Illuminess™ Gold Vermeil 'Light Inside Her' Necklace adds the perfect drop of seductive sparkle, while serving as a subtle reminder of your inner light. Gemstone: 4.5mm lab-grown moissanite, a premium stone with a high refractive index, creates a mesmerising sparkle. Metal: Made using premium vermeil (sterling silver coated in a generous layer of 14K gold for durability). The diamond-cut cable chain reflects light to give the illusion of sparkle across the entire necklace. The perfect gift for her. Sold individually © design copyrighted. Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T16:41:46Z
+- [Illuminess™ Gold Vermeil 'Light Inside Her' Single Stone Necklace | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-light-inside-her-single-stone-necklace): Illuminess 14K gold vermeil solitaire necklace: 4.5mm lab-grown moissanite, diamond-cut chain, 14.5 to 16.5 inches. Light Inside Her gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:54Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Single-Stone-moissanite-Necklace-Gold-Vermeil-Bloomtine.jpg?v=1788464344
   Price: £135.00 GBP
-- [Illuminess™ Sterling Silver Trio Textured Stacking Ring | 1.5mm Moissanite Band | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-trio-textured-stacking-ring): Perfect your hand curation with our silver stacking ring. This 1.5mm textured silver band features three brilliant moissanites. Coated in premium rhodium for maximum durability, it makes a stunning dainty silver ring gift
-
-This Illuminess™ Sterling Silver Trio Textured Stacking Ring is Dainty, Elegant and Complements Existing Rings Perfectly. Gemstone: Lab-grown moissanite, a premium stone with a high refractive index for a mesmerising sparkle. Metal: Sterling silver coated in a generous layer of rhodium for durability. Approximately 1.5mm Wide. The Perfect Gift Ring. Sold Individually © Design Copyrighted
-  Updated: 2026-11-06T16:41:43Z
+- [Illuminess™ Sterling Silver Trio Textured Stacking Ring | 1.5mm Moissanite Band | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-trio-textured-stacking-ring): Illuminess sterling silver trio stacking ring: 1.5mm textured band, 3 lab-grown moissanites, rhodium plated. Dainty stackable gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:11Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -216,10 +200,8 @@ This Illuminess™ Sterling Silver Trio Textured Stacking Ring is Dainty, Elegan
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_Sterling_Silver_Trio_Textured_Stacking_Ring.jpg?v=1768700093
     Price: £65.00 GBP
-- [Illuminess™ Gold Trio Textured Stacking Ring | 1.5mm Moissanite Band | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess-gold-plated-trio-textured-stacking-ring): Elevate your curated hands with our gold plated ring. This 1.5mm textured stacking ring features a trio of brilliant moissanites. Crafted in solid 925 sterling silver with 14K gold plating, it's the perfect dainty gold band gift.
-
-This Illuminess™ Gold Trio Textured Stacking Ring is Dainty, Elegant and Complements Existing Rings Perfectly. Gemstone: Lab-grown moissanite, a premium stone with a high refractive index for a mesmerising sparkle. Metal: 14K Gold Plated Solid 925 Sterling Silver. Approximately 1.5mm Wide. The Perfect Gift Ring/Stacking Ring. Sold Individually © Design Copyrighted Shop While In Stock or With Our Stockists
-  Updated: 2026-11-06T15:47:08Z
+- [Illuminess™ Gold Trio Textured Stacking Ring | 1.5mm Moissanite Band | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess-gold-plated-trio-textured-stacking-ring): Illuminess gold plated trio stacking ring: 1.5mm textured band, 3 lab-grown moissanites, 14K gold over solid 925 silver. Dainty gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:53Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -248,110 +230,106 @@ This Illuminess™ Gold Trio Textured Stacking Ring is Dainty, Elegant and Compl
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_Gold_Vermeil_Trio_Textured_Stacking_Ring.jpg?v=1768700070
     Price: £75.00 GBP
-- [Enchanting Flutterfly™ (Butterfly) Sterling Silver Silk Cord Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-butterfly-sterling-silver-silk-cord-bracelet): Celebrate your inner brilliance with our silver butterfly bracelet. Featuring two "iddy biddy" butterflies in premium sterling silver on a black silk cord, this piece boasts 8 brilliant moissanites. The ultimate luxury friendship bracelet with a 5.75-6.5" fit.
-
-Discover The Perfect Gift Jewellery, This Enchanting Flutterfly™ (Butterfly) Sterling Silver Silk Cord Bracelet Serves as a Reminder of The Extraordinary Beauty Contained in Nature - You are Magnificent. Made Using a Premium Silk Cord Containing Two Iddy Biddy Butterflies Set in Sterling Silver. Each Butterfly Contains Four Lab-Grown Moissanites that Refract Light to Create a Mesmerising Sparkle. This Playful Piece is Super Versatile as it's Perfect For Gifting As a Friendship Bracelet or Great For Those Wanting to Add Colour to An Existing Wrist Stack. Handmade Using Sterling Silver by Extraordinary Humans for Extraordinary Humans © Design Copyrighted BLOOMTINE Create the Perfect Gift Jewellery. Gift this Bracelet to Someone You Adore. Available in One Size (5.75 - 6.5") Also available at select retailers
-  Updated: 2026-11-06T16:43:46Z
+- [Enchanting Flutterfly™ (Butterfly) Sterling Silver Silk Cord Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-butterfly-sterling-silver-silk-cord-bracelet): Enchanting Flutterfly sterling silver butterfly bracelet: 2 butterflies set with 8 lab-grown moissanites on a black silk cord. Gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:11Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-sterling-silver-black-silk-cord-butterfly-bracelet.jpg?v=1778878593
   Price: £75.00 GBP
-- [Enchanting Flutterfly™ Rose Gold Vermeil Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly-rose-gold-vermeil-silk-cord-butterfly-bracelet): Celebrate a rare bond with our rose gold butterfly bracelet. Featuring two "iddy biddy" butterflies in 14K rose gold vermeil on a premium pink silk cord, this piece is set with 8 brilliant moissanites. The perfect luxury friendship bracelet. 
-
-This Enchanting Flutterfly™ Rose Vermeil Pink Silk Cord Butterfly Bracelet Serves as a Reminder of The Extraordinary Beauty Contained in Nature - By Design, You are Magnificent. This Playful Piece is Super Versatile as it's Perfect For Gifting As a Friendship Bracelet or Great For Those Wanting to Add Colour to An Existing Wrist Stack. Made Using a Premium Silk Cord Containing Two Iddy Biddy Butterflies Set in Premium Vermeil. Each Butterfly Contains Four Lab-Grown Moissanites that Refract Light to Create a Mesmerising Sparkle. Handmade Using 14K Rose Gold Vermeil by Extraordinary Humans for Extraordinary Humans © Design Copyrighted BLOOMTINE Create the Perfect Gift Jewellery. Gift this bracelet to Someone You Absolutely Adore Shop Online Now.
-  Updated: 2026-11-05T03:08:36Z
+- [Enchanting Flutterfly™ Rose Gold Vermeil Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly-rose-gold-vermeil-silk-cord-butterfly-bracelet): Enchanting Flutterfly 14K rose gold vermeil butterfly bracelet: 2 butterflies, 8 lab-grown moissanites, pink silk cord. A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:13Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-14k-rose-gold-vermeil-pink-silk-cord-butterfly-bracelet.jpg?v=1778878268
   Price: £95.00 GBP
-- [Enchanting Flutterfly™ Gold Vermeil Pink Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly-gold-vermeil-pink-silk-cord-butterfly-bracelet): Add a pop of color with the Flutterfly™ pink silk bracelet. Featuring two "Iddy Biddy" moissanite butterflies in 14K gold vermeil, this adjustable butterfly bracelet is a durable, meaningful gold gift symbolizing natural beauty.
-  Updated: 2026-11-06T16:41:44Z
+- [Enchanting Flutterfly™ Gold Vermeil Pink Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly-gold-vermeil-pink-silk-cord-butterfly-bracelet): Enchanting Flutterfly 14K gold vermeil butterfly bracelet: 2 butterflies set with 8 lab-grown moissanites on a pink silk cord. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:55Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Bloomtine_Enchanting_Flutterfly_Gold_Vermeil_Pink_Silk_Cord_Butterfly_Bracelet_perfect_gift.jpg?v=1766772965
   Price: £95.00 GBP
-- [Enchanting Flutterfly™ Gold Vermeil Black Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-black-silk-cord-butterfly-bracelet): Embrace your magnificence with the Flutterfly™ butterfly bracelet. Featuring 8 lab-grown moissanites set in 14K gold vermeil on a durable black silk cord. Adjustable 5.75–7" fit for a tarnish-resistant, meaningful gold gift
-  Updated: 2026-11-06T16:41:44Z
+- [Enchanting Flutterfly™ Gold Vermeil Black Silk Cord Butterfly Bracelet | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-black-silk-cord-butterfly-bracelet): Enchanting Flutterfly 14K gold vermeil butterfly bracelet: 8 lab-grown moissanites on a black silk cord, adjustable 5.75 to 7 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:56Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-gold-vermeil-black-silk-cord-butterfly-bracelet-moissanite.jpg?v=1778808277
   Price: £95.00 GBP
-- [Illuminess™ Rhodium-Plated Sterling Silver Goddess Sparkle Lariat | 8cm Drop | Shop Goddess Essentials](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-goddess-sparkle-lariat): Discover the ultimate silver lariat necklace. Crafted in sterling silver and coated in premium White Rhodium, this Y-necklace features lab-grown diamonds and an 8cm drop. Adjustable 17–21" for a tarnish-resistant, meaningful silver gift.
-  Updated: 2026-11-06T16:53:17Z
+- [Illuminess™ Rhodium-Plated Sterling Silver Goddess Sparkle Lariat | 8cm Drop | Shop Goddess Essentials](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-goddess-sparkle-lariat): Illuminess sterling silver sparkle lariat: lab-grown moissanite, rhodium plated, 8cm drop, adjustable 17 to 21 inches. Y-necklace gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:12Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-silver-sparkle-lariat-rhodium-plated-lab-grown-diamond.jpg?v=1778807843
   Price: £165.00 GBP
-- [Illuminess™ 14K Rose Gold Vermeil Sparkle Lariat | Diamond-Cut Y-Necklace | Shop Goddess Essentials](https://www.bloomtine.co.uk/products/illuminess-rose-gold-vermeil-sparkle-lariat-neck-chain): Add seductive sparkle with the Illuminess™ rose gold lariat. Crafted in 14K rose gold vermeil on a diamond-cut cable chain with brilliant moissanites. Adjustable 14.5–17.5" for a tarnish-resistant, dainty rose gold necklace look
-  Updated: 2026-11-06T16:05:30Z
+- [Illuminess™ 14K Rose Gold Vermeil Sparkle Lariat | Diamond-Cut Y-Necklace | Shop Goddess Essentials](https://www.bloomtine.co.uk/products/illuminess-rose-gold-vermeil-sparkle-lariat-neck-chain): Illuminess 14K rose gold vermeil sparkle lariat: moissanites on a diamond-cut chain, adjustable 14.5 to 17.5 inches. Y-necklace gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:13Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-rose-gold-vermeil-diamond-cut-sparkle-lariat-necklace.jpg?v=1778806302
   Price: £175.00 GBP
-- [Illuminess™ Gold Vermeil Sparkle Lariat Necklace | 5 Moissanite Y-Necklace | Goddess Jewellery](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-goddess-sparkle-lariat): Adorn yourself with the Illuminess™ gold lariat necklace. Crafted in 14K gold vermeil on a diamond-cut chain, this Y-necklace features 5 premium moissanites and an 8cm drop. Adjustable 17–21" for a tarnish-resistant, ultra-feminine glow.
-  Updated: 2026-11-06T16:53:16Z
+- [Illuminess™ Gold Vermeil Sparkle Lariat Necklace | 5 Moissanite Y-Necklace | Goddess Jewellery](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-goddess-sparkle-lariat): Illuminess 14K gold vermeil sparkle lariat: 5 lab-grown moissanites, diamond-cut chain, 8cm drop, adjustable 17 to 21 inches. Gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:56Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-gold-vermeil-diamond-cut-sparkle-lariat-necklace.jpg?v=1778806693
   Price: £185.00 GBP
-- [Illuminess™ Sterling Silver Floating Moissanite Huggie Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-floating-moissanite-huggies): Elevate your ear stack with the Illuminess™ silver huggie earrings. Featuring ethically sourced moissanites in a French Pavé setting, these rhodium-plated moissanite hoops offer a tarnish-resistant, "floating" sparkle for the perfect dainty silver gift
-  Updated: 2026-11-06T16:53:16Z
+- [Illuminess™ Sterling Silver Floating Moissanite Huggie Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-floating-moissanite-huggies): Illuminess sterling silver floating huggies: 6mm internal diameter, French pavé lab-grown moissanites, rhodium plated. A dainty silver gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:12Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-silver-floating-moissanite-huggie-hoop-earrings.jpg?v=1778804851
   Price: £110.00 GBP
 - ["Where there is love, there is magic" Heart Bracelet In Gold Vermeil | Gift Extraordinary Jewellery](https://www.bloomtine.co.uk/products/where-there-is-love-there-is-magic-heart-bracelet-in-gold-vermeil): Choose Love gold vermeil heart bracelet: nine hearts in varying rotations, each set with nine lab-grown moissanites (81 in total). Adjustable 5.75–7.5".
-  Updated: 2026-11-06T02:04:00Z
+  Updated: 2026-11-12T14:42:57Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-choose-love-gold-vermeil-multi-heart-moissanite-bracelet.jpg?v=1778802599
   Price: £225.00 GBP
-- [Mini Heart Sterling Silver Silk Cord Bracelet | Moissanite Heart Charm | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-heart-sterling-silver-silk-cord-bracelet): Choose love with our silk cord bracelet. Featuring a sterling silver heart set with 9 brilliant lab-grown moissanites, this adjustable bracelet offers "One Universal Size" for the perfect meaningful silver gift. Handmade and tarnish-resistant.
-  Updated: 2026-11-06T16:52:23Z
+- [Mini Heart Sterling Silver Silk Cord Bracelet | Moissanite Heart Charm | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-heart-sterling-silver-silk-cord-bracelet): Mini Heart sterling silver silk cord bracelet: heart set with 9 lab-grown moissanites, one universal adjustable size. A 'choose love' gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:13Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/25.jpg?v=1777516839
   Price: £60.00 GBP
-- [Illuminess™ Mini Sterling Silver 4-Pointed Star Studs | Moissanite Prosperity Earrings | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-sterling-silver-star-studs): Carry the light of prosperity with our silver star studs. Crafted in rhodium-plated sterling silver with high-brilliance moissanites, these 4-pointed star earrings symbolize abundance. Sustainable, conflict-free, and perfect for your ear stack
-  Updated: 2026-11-06T16:53:16Z
+- [Illuminess™ Mini Sterling Silver 4-Pointed Star Studs | Moissanite Prosperity Earrings | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-sterling-silver-star-studs): Illuminess mini sterling silver star studs, sold as a pair: 4-pointed stars set with lab-grown moissanites, a symbol of prosperity. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:13Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-mini-silver-4-pointed-star-studs-moissanite-prosperity.jpg?v=1778801970
   Price: £45.00 GBP
-- [Illuminess™ Mini Shooting Star 4mm Gold Vermeil Studs | Moissanite Star Earrings | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-gold-vermeil-star-studs): Illuminate your look with our 4mm gold star studs. Crafted in premium 14K gold vermeil with brilliant lab-grown moissanites, these minimalist gold star earrings symbolize abundance and are sustainably produced for a tarnish-resistant glow
-  Updated: 2026-11-06T16:05:29Z
+- [Illuminess™ Mini Shooting Star 4mm Gold Vermeil Studs | Moissanite Star Earrings | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-gold-vermeil-star-studs): Illuminess mini 14K gold vermeil star studs: 4mm stars set with lab-grown moissanites, sold as a pair, a symbol of abundance. A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:57Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_Mini_Gold_Vermeil_Star_Studs.jpg?v=1739921395
   Price: £60.00 GBP
-- [Illuminess™ Shooting Star Sterling Silver Stud Earrings | Faux-Double Piercing Studs Effect | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-shooting-star-studs): Elevate your stack with our silver star earrings. These shooting star studs in rhodium-plated sterling silver feature 4 moissanites and a dual-star design to give the illusion of two piercings. Tarnish-resistant, ethical, and symbolic of abundance.
-  Updated: 2026-11-06T16:52:22Z
+- [Illuminess™ Shooting Star Sterling Silver Stud Earrings | Faux-Double Piercing Studs Effect | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-shooting-star-studs): Illuminess sterling silver shooting star studs: 5mm and 4mm stars, 4 lab-grown moissanites per pair, giving the look of two piercings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:14Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_Sterling_Silver_Shooting_Star_Studs.jpg?v=1739921776
   Price: £60.00 GBP
-- [Illuminess™ Shooting Star Gold Vermeil Stud Earrings | Faux-Double Piercing Effect Studs | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-shooting-star-studs): Achieve a curated look with our gold star earrings. These shooting star studs in 14K gold vermeil feature 4 moissanite stones and a dual-star design to give the illusion of two piercings. Tarnish-resistant, ethical, and symbolic of abundance.
-  Updated: 2026-11-06T16:52:22Z
+- [Illuminess™ Shooting Star Gold Vermeil Stud Earrings | Faux-Double Piercing Effect Studs | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-shooting-star-studs): Illuminess 14K gold vermeil shooting star studs: 5mm and 4mm stars, 4 lab-grown moissanites per pair, giving the look of two piercings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:58Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Bloomtine-Illuminess_-Gold-Vermeil-Shooting-Star-Studs-elegant-celestial-star-earrings-for-her-perfect-for-a-magical-birthday-gift-or-making-a-wish.jpg?v=1766769700
   Price: £70.00 GBP
-- [Luxurious Goddess Glow Foaming Scrub | BLOOMTINE](https://www.bloomtine.co.uk/products/luxurious-goddess-glow-foaming-scrub-lavender-vanilla): The Only Scrub You Will Ever Need. This scrub will leave your skin soft to the touch and glowing. Get ready for your mind to unwind, and drift into the intoxicating deliciousness of Lavender and Cosy Vanilla or in Coconut and Vanilla Two-in-one naturally derived foaming sugar scrub exfoliates while immediately replenishing lost moisture. It is ultra-concentrated, therefore we advise it is diluted with a few drops of water to create a luxurious lather before buffing onto the skin. Contains active ingredients that deeply cleanse, while replenishing your skin with vitamin E. Crammed full of vitamins, fatty acids and essential oils. This scrub is essential for our angels seeking to unwind and reconnect with their magic. Plant-based, hand-made and cruelty-free. Available in two extraordinary scents, coconut and lavender or coconut and vanilla.
-  Updated: 2026-11-03T21:47:15Z
+- [Luxurious Goddess Glow Foaming Scrub | BLOOMTINE](https://www.bloomtine.co.uk/products/luxurious-goddess-glow-foaming-scrub-lavender-vanilla): Luxurious Goddess Glow foaming scrub, 280g: lavender and vanilla scent, made with natural ingredients for silky smooth skin. A pamper gift. BLOOMTINE UK.
+  Updated: 2026-11-10T00:07:51Z
   Vendor: BLOOMTINE
   Product Type: Scrub
   Availability: Available
@@ -364,8 +342,8 @@ This Enchanting Flutterfly™ Rose Vermeil Pink Silk Cord Butterfly Bracelet Ser
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/All-natural-foaming-sugar-scrub-goddess-glow-skin-bloomtine-coco-vanilla.png?v=1790522786
     Price: £25.00 GBP
-- [Indulgent Goddess Glow Foaming Scrub | BLOOMTINE](https://www.bloomtine.co.uk/products/indulgent-goddess-glow-foaming-scrub-coconut-vanilla): The Only Scrub You Will Ever Need. Get ready for your mind to unwind, and drift into the intoxicating deliciousness of either sweet Coconut and cosy Vanilla or Lavender and Vanilla. This indulgent scrub will leave your skin soft to the touch and glowing. Two-in-one naturally derived foaming sugar scrub exfoliates while immediately replacing lost moisture. It is ultra-concentrated, therefore we advise it is diluted with a few drops of water to create a luxurious lather before buffing onto the skin. It contains active ingredients that deeply cleanse while replenishing your skin with vitamin E. Crammed full of vitamins, fatty acids and essential oils. This scrub is essential for our angels seeking to unwind and reconnect with their magic. Plant-based, hand-made and cruelty-free. Available in two extraordinary scents, coconut and lavender or coconut and vanilla. Delight your senses.
-  Updated: 2026-11-03T21:47:11Z
+- [Indulgent Goddess Glow Foaming Scrub | BLOOMTINE](https://www.bloomtine.co.uk/products/indulgent-goddess-glow-foaming-scrub-coconut-vanilla): Indulgent Goddess Glow foaming scrub, 280g: coconut and vanilla scent, made with natural ingredients for silky smooth skin. A pamper gift. BLOOMTINE UK.
+  Updated: 2026-11-10T00:07:51Z
   Vendor: BLOOMTINE
   Product Type: Scrub
   Availability: Available
@@ -378,38 +356,36 @@ This Enchanting Flutterfly™ Rose Vermeil Pink Silk Cord Butterfly Bracelet Ser
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/All-natural-foaming-sugar-scrub-goddess-glow-skin-bloomtine-lavendar-vanilla.png?v=1790522758
     Price: £25.00 GBP
-- [Loves Frequency™ 18K Solid Gold Pink Opal Heartbeat Necklace | 33 VS1 Diamonds | Extraordinary Fine Jewellery](https://www.bloomtine.co.uk/products/loves-frequency-18k-gold-pink-opal-diamond-heartbeat-necklace): Lead with love with the 18K solid gold necklace. Featuring 33 brilliant VS1 diamonds and a radiant Pink Opal heart, this 16mm circular diamond necklace is the ultimate meaningful gold gift. Adjustable 16-18" chain.
-  Updated: 2026-11-06T16:41:43Z
+- [Loves Frequency™ 18K Solid Gold Pink Opal Heartbeat Necklace | 33 VS1 Diamonds | Extraordinary Fine Jewellery](https://www.bloomtine.co.uk/products/loves-frequency-18k-gold-pink-opal-diamond-heartbeat-necklace): Loves Frequency 18K solid gold necklace: 16mm pink opal heart pendant with 33 natural diamonds, adjustable 16 to 18 inch chain. BLOOMTINE UK.
+  Updated: 2026-11-12T15:01:07Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Loves_Frequency_18K_Gold_Pink_Opal_Diamond_Heartbeat_Necklace.jpg?v=1739921978
   Price: £1,250.00 GBP
-- ["Call on Your Angels" Gold Vermeil Pendant | Moissanite Angel Charm | Gift Extraordinary](https://www.bloomtine.co.uk/products/angel-wing-gold-vermeil-talisman-pendant-only): Adorn your chain with the "Call on Your Angels" gold pendant. Crafted in 14K gold vermeil with brilliant moissanites, this meaningful angel necklace charm is a tarnish-resistant reminder of celestial guidance. Handmade and ethical.
-  Updated: 2026-11-06T16:05:30Z
+- ["Call on Your Angels" Gold Vermeil Pendant | Moissanite Angel Charm | Gift Extraordinary](https://www.bloomtine.co.uk/products/angel-wing-gold-vermeil-talisman-pendant-only): Angel Wing Protection Talisman in 14K gold vermeil: pendant only, no chain. 'Call on Your Angels' wing design with moissanite. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:59Z
   Vendor: BLOOMTINE
   Product Type: Talisman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/BLOOMTINE_Angel_Wing_Gold_Vermeil_Talisman_Pendant_Only.jpg?v=1739920463
   Price: £135.00 GBP
-- [Eternal Bloom™ 14K White Gold Diamond Flower Necklace | VVS1 Lotus | Gift Extraordinary](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-white-gold-diamond-flower-choker-necklace): Embrace your growth with the Eternal Bloom™ white gold necklace. Crafted in 14K solid white gold with 11 brilliant VVS1 natural diamonds, this 14mm diamond flower necklace symbolizes resilience and elegant evolution. Features an adjustable 15-16" chain
-  Updated: 2026-11-06T15:41:15Z
+- [Eternal Bloom™ 14K White Gold Diamond Flower Necklace | VVS1 Lotus | Gift Extraordinary](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-white-gold-diamond-flower-choker-necklace): Eternal Bloom 14K solid white gold flower necklace: 14mm pendant set with 11 natural VVS1 diamonds, adjustable 15 to 16 inch chain. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:54Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Eternal_Bloom_14K_White_Gold_Diamond_Flower_Choker_Necklace.jpg?v=1739921101
   Price: £2,550.00 GBP
 - [14K Solid Gold Natural Diamond Flower Necklace | BLOOMTINE](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-gold-diamond-flower-choker-necklace): Eternal Bloom 14K solid yellow gold lotus flower necklace set with 11 natural VVS1 diamonds. 14mm flower on an adjustable 15 to 16 inch chain.
-  Updated: 2026-11-06T16:43:47Z
+  Updated: 2026-11-12T14:44:54Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Eternal_Bloom_14K_Gold_Diamond_Flower_Choker_Necklace.jpg?v=1739921062
   Price: £2,550.00 GBP
-- [Illuminess™ Gold Vermeil French Pavé Full Eternity Ring | 1.2mm Moissanite | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-french-pave-eternity-stacking-ring): Discover the ultimate gold stacking ring. The Illuminess™ gold eternity ring features 1.2mm moissanites in a sophisticated French Pavé setting. Crafted in 14K gold vermeil, this 360-degree sparkle band is a tarnish-resistant, meaningful gold gift. 
-
-This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Stacking Essential. Each 1.2mm Moissanite is Set Using a Sophisticated French Pave Technique, Which Ensures Maximum Surface is Exposed For Mesmerising Sparkle. This Ring Perfectly Complements an Existing Ring Stack or Can Be Worn Alone. Made using Premium Gold Vermeil "a generous layer of gold on sterling silver". The moissanite gemstones used in this piece are lab-grown and conflict-free, beautifully refracting light to create a mesmerising sparkle. Lab-grown moissanite refracts more light than diamonds. Please note, this ring is full eternity, meaning the entire band is set with stones. Handmade by Extraordinary Humans for Extraordinary Humans © Design Copyrighted. BLOOMTINE Create the Perfect Gift Jewellery. Approximately 1.2mm Wide. The Perfect Gift Ring. Sold Individually © Design Copyrighted. Also available at Wolf & Badger Size: Various Sizing Options Available
-  Updated: 2026-11-06T16:55:45Z
+- [Illuminess™ Gold Vermeil French Pavé Full Eternity Ring | 1.2mm Moissanite | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-french-pave-eternity-stacking-ring): Illuminess 14K gold vermeil French pavé eternity ring: 1.2mm lab-grown moissanites set all the way round. Stacking essential, gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:42:59Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -430,8 +406,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-gold-vermeil-french-pave-full-eternity-stacking-ring-moissanite.jpg?v=1778464554
     Price: £95.00 GBP
-- [Illuminess™ Sterling Silver French Pavé Full Eternity Ring | 1.2mm Moissanite | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-french-pave-eternity-sparkle-stacking-ring): Elevate your stack with the Illuminess™ eternity ring. Featuring 1.2mm lab moissanites set in a sophisticated French Pavé silver stacking ring. Rhodium-plated for a tarnish-resistant, "Liquid Silver" finish. The perfect moissanite ring for eternal brilliance. This Illuminess™ Sterling Silver French Pavé Full Eternity Ring is a Stacking Essential. Each 1.2mm Moissanite is Set Using a Sophisticated French Pave Technique, Which Ensures Maximum Surface is Exposed For Mesmerising Sparkle. This Ring Perfectly Complements an Existing Ring Stack or Can Be Worn Alone. Made using Sterling Silver with a generous layer of white rhodium "one of the strongest metals on planet earth". The moissanite gemstones used in this piece are lab-grown and conflict-free, beautifully refracting light to create a mesmerising sparkle. Lab-grown moissanite refracts more light than diamonds. Please note, this ring is full eternity, meaning the entire band is set with stones. Handmade by Extraordinary Humans for Extraordinary Humans © Design Copyrighted. BLOOMTINE Create the Perfect Gift Jewellery. Size: Various Sizing Options Available
-  Updated: 2026-11-06T16:43:45Z
+- [Illuminess™ Sterling Silver French Pavé Full Eternity Ring | 1.2mm Moissanite | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-french-pave-eternity-sparkle-stacking-ring): Illuminess sterling silver French pavé eternity ring: 1.2mm lab-grown moissanites set all the way round, rhodium plated. Stacking gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:15Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -452,8 +428,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-silver-french-pave-full-eternity-stacking-ring-moissanite.jpg?v=1778464366
     Price: £85.00 GBP
-- [Illuminess™ Premium Gold Vermeil Two-In-One Stacked Ring | Moissanite Jewelry | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-combi-stack-ring): Discover the best- Illuminess™ gold ring. This 2-in-1 stacked design fuses a classic pavé and bezel structure in 14K gold vermeil. Set with sustainable moissanites, it’s a tarnish-resistant, meaningful gold gift for the modern earth angel. This Illuminess™ Gold Vermeil Ring is Our Best  Two-In-One Combined Stacked Ring. It's the Perfect Combination of Sparkle and Sophistication. This piece contains our classic pavé ring and bezel ring structure fused together. Made using Premium 14K Vermeil (a thick layer of 14K gold over solid 925 sterling silver) The moissanites in this ring are ultra sparkly and sustainably produced, therefore conflict free and without the environmental impact associated with mining diamonds. This ring will perfectly complement any stack, while unabashedly refracting light to create a mesmerising sparkle. Handmade by Extraordinary Humans for Extraordinary Humans. The perfect gift for any earth angel. Made Using Premium 14k Vermeil on Sterling Silver and Moissanite. © Design Copyrighted. Sold Individually Also available at Wolf & Badger Size: Various Sizing Options Available
-  Updated: 2026-11-06T17:16:57Z
+- [Illuminess™ Premium Gold Vermeil Two-In-One Stacked Ring | Moissanite Jewelry | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-combi-stack-ring): Illuminess 14K gold vermeil two-in-one stacked ring: fused pavé and bezel bands set with lab-grown moissanites. A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:00Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -476,59 +452,57 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [US 10](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-combi-stack-ring?variant=53487124513107)
     Availability: Available
     Price: £145.00 GBP
-- [Archangel Choker™ Premium Sterling Silver Angel Wing Necklace | Moissanite Halo | Gift Extraordinary](https://www.bloomtine.co.uk/products/archangel-choker™-in-sterling-silver): Embrace your celestial identity with the Archangel Choker™ silver necklace. Featuring a 22mm moissanite halo and back-resting wings in rhodium-plated sterling silver. A tarnish-resistant, meaningful silver gift for her.
-
-"You shine brighter than light, and take on new heights, you are an angel dressed in earthly clothes" Wear your 'Halo Wings' Archangel Choker™ in Sterling Silver with pride, as a reminder of your celestial identity. This elegant yet playful statement piece features a halo covered in scintillating lab-grown stones promising to illuminate your decolléte, all while the wings rest effortlessly on your back. The moissanite sourced for this necklace is lab-grown and conflict-free, beautifully refracting light to create a mesmerising sparkle. The perfect gift for her. Sold Individually.Chain length 15", Halo Diameter ~22mm © Design Copyrighted
-  Updated: 2026-11-06T16:52:22Z
+- [Archangel Choker™ Premium Sterling Silver Angel Wing Necklace | Moissanite Halo | Gift Extraordinary](https://www.bloomtine.co.uk/products/archangel-choker™-in-sterling-silver): Archangel Choker in sterling silver: 22mm halo and angel wing choker with lab-grown moissanites, rhodium plated, 15 inch chain. Gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:15Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/32.jpg?v=1777517022
   Price: £795.00 GBP
 - [Archangel Choker™ Gold Vermeil Angel Wing Necklace | Moissanite Halo | Gift Extraordinary](https://www.bloomtine.co.uk/products/archangel-choker™-in-gold-vermeil): Archangel Choker in 14K gold vermeil: 15 inch halo and angel wing choker with lab-grown moissanites, sparkling front and back. Gift for her. BLOOMTINE UK.
-  Updated: 2026-11-07T00:29:55Z
+  Updated: 2026-11-12T14:43:01Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/31.jpg?v=1777517072
   Price: £825.00 GBP
-- [Illuminess™ Sterling Silver Diamond Hand Chain | 6 Lab-Grown Diamonds | Goddess Essential](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-sparkle-diamond-hand-chain): Adorn your hand with the Illuminess™ diamond hand chain. Featuring 6 lab-grown diamonds in rhodium-plated sterling silver. This adjustable finger chain uses diamond-cut links for a tarnish-resistant, sparkling glow. Shop the Illuminess™ Diamond Hand Chain. Features 6 Lab Diamonds & Rhodium-plated silver. A "finger chain" loved by customers across the UK and beyond, for an extraordinary, dainty glow.
-  Updated: 2026-11-06T16:49:07Z
+- [Illuminess™ Sterling Silver Diamond Hand Chain | 6 Lab-Grown Diamonds | Goddess Essential](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-sparkle-diamond-hand-chain): Illuminess sterling silver diamond hand chain: 6 lab-grown diamonds, rhodium plated, diamond-cut links, adjustable. A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:16Z
   Vendor: BLOOMTINE
   Product Type: Hand Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-diamond-hand-chain-silver-rhodium-finger-harness.jpg?v=1768776184
   Price: £135.00 GBP
-- [Illuminess™ Sterling Silver Single Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-single-ear-cuff): Elevate your stack with the Illuminess™ silver ear cuff. Featuring lab moissanites in rhodium-plated sterling silver with a hidden 'You are Magic' engraving. An adjustable, no-piercing earring for a tarnish-resistant, curated silver jewelry look Shop the Illuminess™ Sterling Silver Single Ear Cuff. No piercing required. Features Lab Moissanite, Rhodium coating and "You are Magic" engraving. Handmade With Love.
-  Updated: 2026-11-06T16:50:07Z
+- [Illuminess™ Sterling Silver Single Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-single-ear-cuff): Illuminess sterling silver single ear cuff: no piercing needed, lab-grown moissanites, rhodium plated, hidden 'You are Magic' engraving. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:16Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-silver-single-ear-cuff-moissanite-no-piercing-rhodium.jpg?v=1768775901
   Price: £80.00 GBP
-- [Illuminess™ Gold Vermeil Single Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-single-ear-cuff): Sparkle without the commitment with the Illuminess™ gold ear cuff. Crafted in thick gold vermeil with lab-grown moissanites and a hidden 'You are Magic' engraving. An adjustable, no-piercing earring for a sophisticated gold vermeil jewelry stack. Shop the Illuminess™ Gold Vermeil Single Ear Cuff. No piercing required. Features Lab Moissanite & "You are Magic" engraving. An extraordinary gift.
-  Updated: 2026-11-06T16:48:18Z
+- [Illuminess™ Gold Vermeil Single Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-single-ear-cuff): Illuminess 14K gold vermeil single ear cuff: no piercing needed, adjustable, lab-grown moissanites, hidden 'You are Magic' engraving. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:01Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-gold-vermeil-single-ear-cuff-moissanite-minimalist.jpg?v=1768775666
   Price: £90.00 GBP
-- [Illuminess™ Gold Vermeil Double Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-double-ear-cuff): Achieve a high-end look with the Illuminess™ gold ear cuff. Crafted in thick gold vermeil with lab-grown moissanites and a hidden 'You are Magic' engraving. The perfect adjustable no-piercing earring for a radiant, tarnish-resistant ear stack. Shop the Illuminess™ 14K Gold Vermeil Double Ear Cuff. No piercing required. Features Lab Moissanite & "You are Magic" engraving. An extraordinary gift.
-  Updated: 2026-11-06T16:05:26Z
+- [Illuminess™ Gold Vermeil Double Ear Cuff | 'You are Magic' No-Piercing Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-double-ear-cuff): Illuminess 14K gold vermeil double ear cuff: no piercing needed, adjustable, lab-grown moissanites, hidden 'You are Magic' engraving. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:02Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-gold-vermeil-double-ear-cuff-moissanite-no-piercing.jpg?v=1768775385
   Price: £125.00 GBP
-- [Illuminess™ Sterling Silver Double Ear Cuff | No Piercing Moissanite Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-double-ear-cuff): Shop the Illuminess™ Double Ear Cuff. Rhodium-plated silver with Lab Moissanite. No piercing required. Engraved with "You are Magic." The extraordinary gift for her. Achieve a curated look with the Illuminess™ silver ear cuff. Featuring double-row lab moissanites and a hidden "You are Magic" engraving. This tarnish-resistant, no piercing earring in sterling silver offers an adjustable, secure fit for all-day radiance
-  Updated: 2026-11-06T16:48:18Z
+- [Illuminess™ Sterling Silver Double Ear Cuff | No Piercing Moissanite Cuff | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-double-ear-cuff): Illuminess sterling silver double ear cuff: no piercing needed, double row of lab-grown moissanites, rhodium plated. Gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:17Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-double-ear-cuff-moissanite-no-piercing-silver.jpg?v=1768774975
   Price: £100.00 GBP
-- [Illuminess™ Gold Vermeil Starset Bangle | 'You are Magic' Abundance Bracelet | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-starset-bangle): Manifest success with the Illuminess™ gold bangle. Crafted from 35g of solid sterling silver with a gold vermeil finish and set with moissanite stars. Featuring the 'You are Magic' mantra, this gold cuff is the ultimate meaningful gold gift for abundance and career milestones. Shop the Illuminess™ Starset Bangle. 14K Gold Vermeil over 35g silver with Lab Moissanites. Symbolises abundance & success. Engraved with "You are Magic."
-  Updated: 2026-11-06T16:49:07Z
+- [Illuminess™ Gold Vermeil Starset Bangle | 'You are Magic' Abundance Bracelet | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-starset-bangle): Illuminess gold vermeil Starset bangle: min. 35g sterling silver, moissanite stars, engraved 'You are Magic'. Available in multiple sizes. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:02Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -542,64 +516,64 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [Large / US 7 / 63 x 53mm internally](https://www.bloomtine.co.uk/products/illuminess™-premium-gold-vermeil-starset-bangle?variant=50425838960979)
     Availability: Available
     Price: £695.00 GBP
-- [Enchanting Flutterfly™ Sterling Silver Butterfly Studs | Moissanite Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-butterfly-studs): Sparkle with meaning in the Flutterfly™ silver earrings. These 5mm sterling silver studs feature 8 lab-grown moissanites in a dainty butterfly design. Hand-polished, ethical, and hypoallergenic. The perfect silver butterfly earrings for your daily ritual. Shop Enchanting Flutterfly™ Sterling Silver Butterfly Studs. 5x5mm petite design with 8 Lab Moissanites. An extraordinary, meaningful gift symbolising transformation.
-  Updated: 2026-11-06T16:46:36Z
+- [Enchanting Flutterfly™ Sterling Silver Butterfly Studs | Moissanite Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-butterfly-studs): Enchanting Flutterfly sterling silver butterfly studs: 5mm butterflies, each set with 4 lab-grown moissanites (8 in total). A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:17Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-silver-moissanite-stud-earrings-5mm.jpg?v=1768773669
   Price: £75.00 GBP
 - [14K Solid Rose Gold Diamond Bar Bracelet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-14k-rose-gold-diamond-bar-bracelet): Illuminess 14K solid rose gold bar bracelet set with 21 lab-grown VVS diamonds. Adjustable from 6 to 6.75 inches, made to be given.
-  Updated: 2026-11-06T16:05:27Z
+  Updated: 2026-11-10T00:07:55Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/illuminess-14k-solid-rose-gold-vvs-lab-diamond-bar-bracelet.jpg?v=1768772929
   Price: £695.00 GBP
 - [Sparkle-nova | Glitter Bomb™ Luxury Gift Candle in Bergamot, Cedar and Rose 280g](https://www.bloomtine.co.uk/products/sparkle-nova-glitter-bomb-luxury-gift-candle-in-bergamot-cedar-and-rose-280g): Glitter Bomb™ gift candle in Bergamot, Cedar & Rose. 280g natural soy wax, made in London. Sparkle in the first hour. 40–50 hour burn.
-  Updated: 2026-11-06T16:51:46Z
+  Updated: 2026-11-13T01:21:37Z
   Vendor: BLOOMTINE
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/2_205af2b9-5fb0-4d5c-a0d3-24479d68b938.jpg?v=1777517217
   Price: £35.00 GBP
-- [Illuminess™ Gold Vermeil Floating Moissanite Huggies | Gold Hoop Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-floating-moissanite-huggies): Discover the Illuminess™ gold earrings. These 14K gold vermeil huggie hoops feature French Pavé lab moissanites for a seamless "floating" sparkle. Tarnish-resistant, hypoallergenic, and perfect for a gold hoop earrings stack. Shop Illuminess™ Gold Vermeil Huggies. Featuring French Pavé Lab Moissanite for a floating sparkle. An extraordinary, dainty gift for a seamless ear stack.
-  Updated: 2026-11-06T16:48:17Z
+- [Illuminess™ Gold Vermeil Floating Moissanite Huggies | Gold Hoop Earrings | Gift Extraordinary](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-floating-moissanite-huggies): Illuminess 14K gold vermeil floating huggies: 6.5mm internal diameter, French pavé lab-grown moissanites. A gold hoop stack gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:03Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/illuminess-gold-vermeil-floating-moissanite-huggies-earrings.jpg?v=1768772544
   Price: £130.00 GBP
-- [Mini Sterling Silver Shooting Star Huggies | Moissanite Celestial Hoops | Gift Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-sterling-silver-shooting-star-huggies): Manifest abundance with the Shooting Star silver huggie earrings. These 6mm sterling silver hoops feature lab-grown moissanites and a tarnish-resistant rhodium finish. The perfect snug-fit celestial jewelry for your ear stack. Shop the Best- Shooting Star Huggies. 6mm internal fit with Lab Moissanite & Rhodium finish. An extraordinary gift symbolizing abundance and guidance.
-  Updated: 2026-11-06T16:47:25Z
+- [Mini Sterling Silver Shooting Star Huggies | Moissanite Celestial Hoops | Gift Celestial Sparkle](https://www.bloomtine.co.uk/products/illuminess™-mini-sterling-silver-shooting-star-huggies): Illuminess mini sterling silver shooting star huggies: 6mm internal diameter, lab-grown moissanite stars, rhodium plated. A gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:18Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/mini-shooting-star-huggies-sterling-silver-moissanite-celestial-earrings.jpg?v=1768772376
   Price: £135.00 GBP
-- [Illuminess™ Sterling Silver Diamond Bar Bracelet | 21 VVS Lab Diamonds | Fine Jewellery](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-diamond-bar-bracelet): Elevate your stack with the Illuminess™ silver bracelet. Featuring 21 premium VVS lab-grown diamonds set in rhodium-plated sterling silver. Tarnish-resistant, adjustable, and ethically sourced. The essential diamond bracelet for daily luxury. Shop the Illuminess™ Diamond Bar Bracelet. Features 21 VVS Lab Diamonds in Rhodium-plated silver. An extraordinary, sustainable wrist stack essential for her.
-  Updated: 2026-11-06T16:47:25Z
+- [Illuminess™ Sterling Silver Diamond Bar Bracelet | 21 VVS Lab Diamonds | Fine Jewellery](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-diamond-bar-bracelet): Illuminess sterling silver diamond bar bracelet: 21 VVS lab-grown diamonds, rhodium plated, adjustable. A wrist stack gift for her. BLOOMTINE UK.
+  Updated: 2026-11-13T01:56:16Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Illuminess_Sterling_Silver_Diamond_Bar_Bracelet.jpg?v=1739921664
   Price: £395.00 GBP
 - [14K Gold Natural Diamond Lotus Earrings | BLOOMTINE](https://www.bloomtine.co.uk/products/eternal-bloom™-14k-diamond-lotus-flower-earrings): Eternal Bloom 14K solid gold lotus earrings with 12 natural VS1 diamonds in a 3D layered design. A fine jewellery gift for milestone moments.
-  Updated: 2026-11-06T16:05:27Z
+  Updated: 2026-11-12T14:44:55Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-eternal-bloom-14k-solid-gold-lotus-diamond-earrings-vs1.jpg?v=1768770157
   Price: £650.00 GBP
 - [Milky Way | Glitter Bomb™ Luxury Gift Candle In Coconut, Citrus & Vanilla 280G](https://www.bloomtine.co.uk/products/milky-way-glitter-bomb-luxury-gift-candle-in-coconut-citrus-vanilla-280g): Glitter Bomb™ gift candle in Coconut, Citrus & Vanilla. 280g natural soy wax, made in London. Sparkle in the first hour. 40–50 hour burn.
-  Updated: 2026-11-06T15:41:16Z
+  Updated: 2026-11-13T01:20:40Z
   Vendor: BLOOMTINE
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/10_3779ce93-1988-4e8a-be08-a22719ce62b0.jpg?v=1777517314
   Price: £35.00 GBP
-- [Enchanting Flutterfly™ Gold Vermeil Trio Butterfly Ring | Moissanite Jewelry | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-trio-butterfly-ring): Shop the Flutterfly™ Trio Butterfly Ring in 14K Gold Vermeil. Features 12 Lab Moissanites. An extraordinary, meaningful gift symbolizing transformation & resilience. Celebrate your evolution with the Flutterfly™ gold ring. Featuring three butterflies set with 12 lab-grown moissanites in thick 14K gold vermeil. A tarnish-resistant, meaningful gold ring symbolizing transformation and resilience. Handcrafted by BLOOMTINE.
-  Updated: 2026-11-05T03:15:02Z
+- [Enchanting Flutterfly™ Gold Vermeil Trio Butterfly Ring | Moissanite Jewelry | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-trio-butterfly-ring): Enchanting Flutterfly 14K gold vermeil trio butterfly ring: three butterflies set with 12 lab-grown moissanites. A gift of transformation. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:04Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -620,7 +594,7 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Availability: Available
     Price: £110.00 GBP
 - [Enchanting Flutterfly™ Sterling Silver Trio Butterfly Ring](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-trio-butterfly-ring): Three butterflies, 12 lab-grown moissanites, solid sterling silver. The Flutterfly™ Trio Butterfly Ring symbolises transformation. A meaningful gift.
-  Updated: 2026-11-05T03:15:02Z
+  Updated: 2026-11-12T14:44:19Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -640,8 +614,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [UK R / US 9](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-trio-butterfly-ring?variant=51296262717779)
     Availability: Available
     Price: £95.00 GBP
-- [Angel Wing 'Celebrate Your Angels' Bangle | 98 Stone Moissanite Silver Bangle | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/angel-wing-sterling-silver-bangle): Shop the Angel Wing Silver Bangle. Features 98 Lab-Moissanites and a Ultra Sparkly Rhodium finish. An extraordinary, tarnish-resistant gift available in Small, Medium, and Large. Adorn your wrist with the iconic Angel Wing silver bangle. Featuring 98 hand-set moissanites in rhodium-plated sterling silver, this flexible silver cuff offers a tarnish-resistant, cosmic glow. The ultimate meaningful silver gift for her.
-  Updated: 2026-11-06T16:47:26Z
+- [Angel Wing 'Celebrate Your Angels' Bangle | 98 Stone Moissanite Silver Bangle | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/angel-wing-sterling-silver-bangle): Angel Wing sterling silver bangle: 98 lab-grown moissanites, rhodium plated, in small, medium and large. A 'Celebrate Your Angels' gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:19Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -655,8 +629,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [Large / US 7 / 62.5 x 51mm internally](https://www.bloomtine.co.uk/products/angel-wing-sterling-silver-bangle?variant=50415141224787)
     Availability: Available
     Price: £275.00 GBP
-- [Mini Halo Wings™ Angel Necklace | Gold Vermeil Diamond Angel Choker | VVS Lab Diamond | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-halo-wings™-14k-gold-vermeil-diamond-angel-choker-1): Shop the Mini Halo Wings™ Gold Vermeil Angel Necklace. Features 2 Lab Diamonds and a 360-degree angel wing design. An extraordinary gold necklace gift for your angels. Illuminate your path with the Mini Halo Wings™ gold necklace. Featuring VVS lab-grown diamonds in 14K gold vermeil, this 360-degree gold choker shines from every angle with signature wing detailing. A tarnish-resistant, meaningful gift for her.
-  Updated: 2026-11-05T03:08:57Z
+- [Mini Halo Wings™ Angel Necklace | Gold Vermeil Diamond Angel Choker | VVS Lab Diamond | Gift Extraordinary](https://www.bloomtine.co.uk/products/mini-halo-wings™-14k-gold-vermeil-diamond-angel-choker-1): Mini Halo Wings 14K gold vermeil angel choker necklace: 2 lab-grown diamonds, 360-degree halo and angel wing design. Celebrate your angels. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:04Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
@@ -667,36 +641,36 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [15"](https://www.bloomtine.co.uk/products/mini-halo-wings™-14k-gold-vermeil-diamond-angel-choker-1?variant=50415140995411)
     Availability: Available
     Price: £350.00 GBP
-- [Enchanting Flutterfly™ Gold Vermeil Butterfly Necklace | Moissanite Gold Pendant | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-necklace): Celebrate your evolution with the Flutterfly™ gold necklace. Featuring a 9mm butterfly pendant set with 4 lab-grown moissanites in thick gold vermeil. A tarnish-resistant, meaningful gold pendant for graduations and new beginnings. Shop the Flutterfly™ Gold Vermeil Butterfly Necklace. 10mm butterfly necklace with 4 Lab moissanites. Adjustable 14.5-16.5". An extraordinary gift symbolising transformation.
-  Updated: 2026-11-06T16:48:17Z
+- [Enchanting Flutterfly™ Gold Vermeil Butterfly Necklace | Moissanite Gold Pendant | BLOOMTINE | Gift Extraordinary](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-necklace): Enchanting Flutterfly gold vermeil butterfly necklace: 10 x 9mm pendant set with 4 lab-grown moissanites. A gift for new beginnings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:05Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-gold-vermeil-butterfly-necklace-moissanite.jpg?v=1768761197
   Price: £150.00 GBP
 - [Loves Frequency™ Gold Vermeil Heartbeat Locket | 3 Interchangeable Gemstones | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-gold-vermeil-heartbeat-locket-with-multiple-gemstones-1): Gold vermeil Heartbeat Locket with 3 interchangeable gemstones: Black Onyx, Rose Quartz and Mother of Pearl. A meaningful gift for her.
-  Updated: 2026-11-06T16:51:09Z
+  Updated: 2026-11-13T13:51:14Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-loves-frequency-gold-vermeil-heartbeat-locket-interchangeable-gemstones.jpg?v=1768759378
   Price: £225.00 GBP
-- [Enchanting Flutterfly™ Sterling Silver Butterfly Huggies | Moissanite Earrings | Gift Extraordinary - BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-butterfly-huggies): Elevate your journey with the Flutterfly™ silver earrings. These sterling silver earrings feature moissanite butterfly charms and a tarnish-resistant rhodium finish. Hypoallergenic, ethical, and meaningful butterfly earrings for new beginnings. Shop Enchanting Flutterfly™ Sterling Silver Butterfly Huggies. Rhodium-plated 925 sterling silver for durability with sustainable Lab Moissanites. An extraordinary, tarnish-resistant gift.
-  Updated: 2026-11-06T16:47:26Z
+- [Enchanting Flutterfly™ Sterling Silver Butterfly Huggies | Moissanite Earrings | Gift Extraordinary - BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-sterling-silver-butterfly-huggies): Enchanting Flutterfly sterling silver butterfly huggies: moissanite butterfly charms on rhodium plated hoops. A gift for new beginnings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:20Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-flutterfly-silver-butterfly-huggies-moissanite-rhodium-earrings.jpg?v=1768758725
   Price: £165.00 GBP
-- [Flutterfly™ Gold Vermeil Butterfly Huggies | Moissanite Gold Hoop Earrings | BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-huggies): Embrace evolution with Flutterfly™ gold earrings. These 14K gold vermeil mini huggie hoops feature moissanite butterfly charms. Tarnish-resistant, hypoallergenic, and ethically sourced. The perfect butterfly earrings gold for a meaningful gift. Shop Flutterfly™ Gold Vermeil Butterfly Huggies/Studs. Featuring sustainable Lab Moissanites. An extraordinary, ethical gift symbolising transformation & beauty
-  Updated: 2026-11-06T16:44:42Z
+- [Flutterfly™ Gold Vermeil Butterfly Huggies | Moissanite Gold Hoop Earrings | BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-huggies): Enchanting Flutterfly 14K gold vermeil butterfly huggies: mini hoops with moissanite butterfly charms. A meaningful gift for new beginnings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:06Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-flutterfly-butterfly-huggie-earrings-gold-vermeil-moissanite.jpg?v=1768758423
   Price: £185.00 GBP
-- [Illuminess™ Sterling Silver Combi Ring | Two-In-One Moissanite Stack | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-combi-stack-ring-1): Achieve the perfect stack with the Illuminess™ silver ring. This unique two-in-one sterling silver ring fuses a pavé band with a bezel-set moissanite. Rhodium-plated for a tarnish-resistant glow. Ethical moissanite ring silver jewelry by BLOOMTINE. Shop the Illuminess™ Silver Combi Ring. A 2-in-1 fused pavé & bezel stack with Lab Moissanite. Rhodium-plated for an extraordinary, tarnish-resistant sparkle.
-  Updated: 2026-11-06T16:46:35Z
+- [Illuminess™ Sterling Silver Combi Ring | Two-In-One Moissanite Stack | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-combi-stack-ring-1): Illuminess sterling silver two-in-one combi ring: pavé band fused with a bezel-set moissanite, rhodium plated. A stackable gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:20Z
   Vendor: BLOOMTINE
   Product Type: Ring
   Availability: Available
@@ -722,22 +696,22 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [UK T½ / US 10](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-combi-stack-ring-1?variant=50415140667731)
     Availability: Available
     Price: £125.00 GBP
-- [Enchanting Flutterfly™ Gold Vermeil Butterfly Studs | Moissanite Gold Earrings | Gift Extraordinary With BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-studs): Celebrate transformation with Enchanting Flutterfly™ gold Butterfly Studs. These 5mm gold studs feature 8 lab-grown moissanites set in thick gold vermeil. A tarnish-resistant, meaningful gold gift symbolizing resilience and growth. Handcrafted by BLOOMTINE.
-  Updated: 2026-11-05T03:08:58Z
+- [Enchanting Flutterfly™ Gold Vermeil Butterfly Studs | Moissanite Gold Earrings | Gift Extraordinary With BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-gold-vermeil-butterfly-studs): Enchanting Flutterfly 14K gold vermeil butterfly studs: 5mm butterflies set with 8 lab-grown moissanites. A gift symbolising growth. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:06Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-enchanting-flutterfly-gold-vermeil-moissanite-stud-earrings.jpg?v=1768745495
   Price: £85.00 GBP
-- [Mini Halo Wings™ Sterling Silver Diamond Bracelet | VVS Lab Diamond | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings™-diamond-sterling-silver-angel-bracelet-1): Adorn your wrist with the Mini Halo Wings™ silver bracelet. Featuring two VVS lab-grown diamonds in a rhodium-plated sterling silver setting. This tarnish-resistant diamond bracelet offers 360-degree grace. A perfect, adjustable gift for any occasion. Shop the Mini Halo Wings™ Sterling Silver Angel Bracelet. Featuring two lab diamonds and a rhodium finish. An extraordinary celebratory gift for a seamless sparkle.
-  Updated: 2026-11-06T01:53:14Z
+- [Mini Halo Wings™ Sterling Silver Diamond Bracelet | VVS Lab Diamond | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings™-diamond-sterling-silver-angel-bracelet-1): Mini Halo Wings sterling silver angel bracelet: halo set with 2 VVS lab-grown diamonds, rhodium plated, adjustable. Celebrate your angels. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:21Z
   Vendor: BLOOMTINE
   Product Type: Bracelet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-mini-halo-wings-bracelet-sterling-silver-moissanite-talisman.jpg?v=1768745067
   Price: £145.00 GBP
-- [Mini Halo Wings™ Angel Necklace | Sterling Silver Diamond Angel Choker | Silver Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings-sterling-silver-diamond-angel-choker-bloomtine-angel-hq): Shop the Mini Halo Wings™ Silver Angel Necklace. Featuring 2 Lab Diamonds and a Rhodium finish. An extraordinary, adjustable 15" gift to celebrate your celestial identity. Illuminate your silhouette with the Mini Halo Wings™ silver choker. Featuring lab-grown diamonds and signature angel wings, this rhodium-plated sterling silver necklace offers 360-degree elegance. A tarnish-resistant, meaningful silver choker for the modern Earth Angel.
-  Updated: 2026-11-05T03:08:59Z
+- [Mini Halo Wings™ Angel Necklace | Sterling Silver Diamond Angel Choker | Silver Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings-sterling-silver-diamond-angel-choker-bloomtine-angel-hq): Mini Halo Wings sterling silver angel choker: 2 lab-grown diamonds, rhodium plated, 15 inch chain. A gift to celebrate your angels. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:21Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
@@ -748,8 +722,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   - [15.5"](https://www.bloomtine.co.uk/products/mini-halo-wings-sterling-silver-diamond-angel-choker-bloomtine-angel-hq?variant=50426524860755)
     Availability: Available
     Price: £325.00 GBP
-- [Angel Wing 'Celebrate Your Angels' Bangle | Gold Vermeil & Moissanite Cuff | BLOOMTINE](https://www.bloomtine.co.uk/products/angel-wing-premium-gold-vermeil-bangle): Shop the Angel Wing Gold Vermeil Bangle. Featuring 98 Lab Moissanites for a mesmerizing sparkle. An extraordinary, ethical luxury gift for any occasion. Elevate your wrist stack with the Angel Wing gold bangle. Featuring 98 lab-grown moissanites set in thick gold vermeil, this flexible gold cuff offers an extraordinary, cosmic sparkle. A sustainable gold bangle, made to be worn and cherished, for protection and grace.
-  Updated: 2026-11-06T22:38:39Z
+- [Angel Wing 'Celebrate Your Angels' Bangle | Gold Vermeil & Moissanite Cuff | BLOOMTINE](https://www.bloomtine.co.uk/products/angel-wing-premium-gold-vermeil-bangle): Angel Wing gold vermeil bangle: flexible cuff set with 98 lab-grown moissanites, available in multiple sizes. A 'Celebrate Your Angels' gift. BLOOMTINE UK.
+  Updated: 2026-11-13T01:57:11Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -766,239 +740,239 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-angel-wing-bangle-gold-vermeil-moissanite-bracelet.jpg?v=1768695413
     Price: £325.00 GBP
-- [Angel Necklace | Angel Wing 'Protection' Talisman | Sterling Silver & Moissanite Pendant | BLOOMTINE](https://www.bloomtine.co.uk/products/angel-wing-protection-talisman-in-sterling-silver-pendant-only): Angel Necklace. This sterling silver necklace pendant features an intricate angel wing tablet design set with lab-grown moissanite. Rhodium-plated for a tarnish-resistant finish. A meaningful silver necklace gift for protection and guidance.
-  Updated: 2026-11-03T22:45:18Z
+- [Angel Necklace | Angel Wing 'Protection' Talisman | Sterling Silver & Moissanite Pendant | BLOOMTINE](https://www.bloomtine.co.uk/products/angel-wing-protection-talisman-in-sterling-silver-pendant-only): Angel Wing Protection Talisman in sterling silver: pendant only, no chain. Angel wing tablet set with lab-grown moissanite, rhodium plated. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:22Z
   Vendor: BLOOMTINE
   Product Type: Talisman
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Angel-Necklace-bloomtine-sterling-silver-angel-wing-pendant-protection-talisman-white-bg.webp?v=1779312814
   Price: £115.00 GBP
-- [Illuminess™ Gold Necklace | Gold Vermeil 'Light Inside Her' Necklace | 6mm Moissanite Sparkle | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-6mm-single-stone-sparkle-necklace): Shop the Illuminess™ Gold Necklace. 6mm Lab Moissanite on a diamond-cut sparkle chain. An extraordinary, gold vermeil gift to celebrate her inner light. Ignite your glow with the Illuminess™ gold necklace. Featuring a 6mm lab-grown moissanite on a diamond-cut gold vermeil necklace chain. 14K gold over silver for a tarnish-resistant, warm radiance. The perfect meaningful gold gift for her.
-  Updated: 2026-11-06T16:49:06Z
+- [Illuminess™ Gold Necklace | Gold Vermeil 'Light Inside Her' Necklace | 6mm Moissanite Sparkle | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-6mm-single-stone-sparkle-necklace): Illuminess 14K gold vermeil necklace: 6mm lab-grown moissanite, diamond-cut chain, 14.5 to 16.5 inches. A 'Light Inside Her' gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:08Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-gold-lab-diamond-solitaire-necklace-round-pendant-white.jpg?v=1768684911
   Price: £150.00 GBP
-- [Illuminess™ Sterling Silver Necklace | 6mm Moissanite Sparkle Pendant | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-6mm-single-stone-sparkle-necklace): Shine bright with the Illuminess™ silver necklace. Featuring a 6mm moissanite pendant on a diamond-cut sterling silver necklace chain. Rhodium-plated for a tarnish-resistant, mirror-like finish. The perfect meaningful gift for her.
-  Updated: 2026-11-06T15:48:20Z
+- [Illuminess™ Sterling Silver Necklace | 6mm Moissanite Sparkle Pendant | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-6mm-single-stone-sparkle-necklace): Illuminess sterling silver necklace: 6mm lab-grown moissanite pendant on a rhodium plated diamond-cut chain, 14.5 to 16 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:22Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-6mm-single-stone-sparkle-necklace-sterling-silver.jpg?v=1768683688
   Price: £135.00 GBP
-- [Illuminess™ Premium Sterling Silver Sparkle Anklet | 15 Stone Moissanite Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-sparkle-anklet): Sparkle with the Illuminess™ silver anklet. Crafted in rhodium-plated sterling silver with 15 brilliant lab-grown moissanites. This tarnish-resistant, adjustable sterling silver anklet offers a seductive, ultra-feminine glow. Handcrafted by BLOOMTINE.
-  Updated: 2026-11-06T16:51:09Z
+- [Illuminess™ Premium Sterling Silver Sparkle Anklet | 15 Stone Moissanite Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-premium-sterling-silver-sparkle-anklet): Illuminess sterling silver anklet: 15 lab-grown moissanites, rhodium plated, adjustable 8 to 10.5 inches. A dainty sparkle gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:23Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/illuminess-premium-925-sterling-silver-sparkle-anklet-hero-shot.jpg?v=1768680717
   Price: £115.00 GBP
-- [Illuminess™ Gold Anklet | Premium Vermeil 'Apah Water Goddess' Droplet Anklet | Gold Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-apah-water-goddess-droplet-anklet): Gold Anklet Featuring 9 lab-grown moissanite droplets set in thick gold vermeil, this Vedic-inspired anklet gold piece offers an extraordinary, tarnish-resistant glow. Handcrafted, ethical, and adjustable.
-  Updated: 2026-11-06T16:49:06Z
+- [Illuminess™ Gold Anklet | Premium Vermeil 'Apah Water Goddess' Droplet Anklet | Gold Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-apah-water-goddess-droplet-anklet): Illuminess gold vermeil Apah water goddess anklet: 9 lab-grown moissanite droplets, adjustable 8.5 to 10.5 inches. Vedic-inspired gift. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:09Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-apah-water-goddess-droplet-anklet-gold-vermeil.jpg?v=1768624019
   Price: £165.00 GBP
-- [Illuminess™ Silver Anklet | Premium Sterling Silver 'Apah Water Goddess' Droplet Anklet | Silver Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-silver-anklet-premium-sterling-silver-apah-water-goddess-droplet-anklet): Discover the Illuminess™ silver anklet. This handcrafted sterling silver anklet features 9 lab-grown moissanite "droplets" and a tarnish-resistant rhodium finish. A seductive, Vedic-inspired moissanite anklet designed for the modern goddess.
-  Updated: 2026-11-06T16:50:08Z
+- [Illuminess™ Silver Anklet | Premium Sterling Silver 'Apah Water Goddess' Droplet Anklet | Silver Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-silver-anklet-premium-sterling-silver-apah-water-goddess-droplet-anklet): Illuminess sterling silver Apah droplet anklet: 9 lab-grown moissanite droplets, rhodium plated, adjustable 8.5 to 10.5 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:25Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-apah-water-goddess-droplet-anklet-sterling-silver.jpg?v=1768622636
   Price: £150.00 GBP
-- [Loves Frequency™ Sterling Silver Heart Necklace With Multiple Gemstones](https://www.bloomtine.co.uk/products/loves-frequency™-heart-necklace-in-sterling-silver-with-multiple-gem-stones): Loves Frequency™ Sterling Silver Heart Necklace | 3-in-1 Gemstone Necklace. Discover the Loves Frequency™ silver locket. This handcrafted sterling silver necklace features a heartbeat design and 3 interchangeable gemstones: Rose Quartz, Black Onyx, and Mother of Pearl. A sustainable, meaningful gift for her by BLOOMTINE.
-  Updated: 2026-11-06T16:50:08Z
+- [Loves Frequency™ Sterling Silver Heart Necklace With Multiple Gemstones](https://www.bloomtine.co.uk/products/loves-frequency™-heart-necklace-in-sterling-silver-with-multiple-gem-stones): Loves Frequency sterling silver heartbeat locket necklace with 3 interchangeable gemstones: rose quartz, black onyx and mother of pearl. BLOOMTINE UK.
+  Updated: 2026-11-13T13:53:44Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/loves-frequency-sterling-silver-heartbeat-locket-multi-gemstone-jewelry..jpg?v=1768621797
   Price: £185.00 GBP
-- [Illuminess™ Gold Vermeil Moissanite Sparkle Anklet | 14K Gold Anklet for Her](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-sparkle-anklet): Elevate your summer glow with the Illuminess™ gold anklet. Featuring 15 lab-grown moissanites set in thick gold vermeil, this adjustable anklet gold piece is handcrafted for a seductive, ethereal sparkle. Ethical and tarnish-resistant fine jewelry.
-  Updated: 2026-11-06T16:46:35Z
+- [Illuminess™ Gold Vermeil Moissanite Sparkle Anklet | 14K Gold Anklet for Her](https://www.bloomtine.co.uk/products/illuminess™-gold-vermeil-sparkle-anklet): Illuminess 14K gold vermeil anklet: 15 lab-grown moissanites in a dainty design, adjustable 8 to 10.5 inches. A layering gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:09Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-gold-vermeil-moissanite-anklet-dainty-bridal-foot-jewellery.jpg?v=1768620195
   Price: £135.00 GBP
-- [Loves Frequency™ Sterling Silver Heart Necklace | Interchangeable Gemstone Necklace](https://www.bloomtine.co.uk/products/loves-frequency™-sterling-silver-heart-necklace-with-multiple-gem-stones-1): Discover the Loves Frequency™ Heart Necklace. This unique sterling silver necklace features a heartbeat design and 3 interchangeable gemstones: Rose Quartz, Black Onyx, and Mother of Pearl. A sustainable, meaningful gift for her handcrafted by BLOOMTINE.
-  Updated: 2026-11-06T16:51:08Z
+- [Loves Frequency™ Sterling Silver Heart Necklace | Interchangeable Gemstone Necklace](https://www.bloomtine.co.uk/products/loves-frequency™-sterling-silver-heart-necklace-with-multiple-gem-stones-1): Loves Frequency sterling silver heartbeat necklace with 3 interchangeable gemstones: rose quartz, black onyx and mother of pearl. BLOOMTINE UK.
+  Updated: 2026-11-13T13:54:16Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/loves-frequency-sterling-silver-heartbeat-locket-multi-gemstone-necklace.jpg?v=1768614329
   Price: £185.00 GBP
-- [Plumphoria | The Glitter Bomb™ Luxury Gift Candle | Rose & Plum Iridescent Scented Candle 280G](https://www.bloomtine.co.uk/products/plumphoria-glitter-bomb-gift-candle-in-plum-rose-280g): Glitter Bomb™ Gift Candle a seductive Rose & Plum scented candle housed in an iridescent jar. Features a mesmerizing "glitter pool" surprise. Hand-poured natural soy wax candle made in London. The perfect candle gift for sparkle lovers.
-  Updated: 2026-11-06T16:51:08Z
+- [Plumphoria | The Glitter Bomb™ Luxury Gift Candle | Rose & Plum Iridescent Scented Candle 280G](https://www.bloomtine.co.uk/products/plumphoria-glitter-bomb-gift-candle-in-plum-rose-280g): Plumphoria Glitter Bomb candle: rose and plum scent, glitter pool surprise, 280g hand-poured soy wax, up to 45 hours burn, made in London. BLOOMTINE UK.
+  Updated: 2026-11-13T01:22:19Z
   Vendor: BLOOMTINE
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Bloomtine-Gift-Candle.jpg?v=1779305809
   Price: £35.00 GBP
-- [Eternal Bloom™ Flower Earrings | Sterling Silver Moissanite Studs](https://www.bloomtine.co.uk/products/eternal-bloom™-sterling-silver-flower-studs-climbers): Shop the Eternal Bloom™ Flower Earrings. These 11mm sterling silver ear climbers feature lab-grown moissanite and a mirror-finish glow. Handcrafted, hypoallergenic silver earrings designed for a seamless, botanical 'climb' along the earlobe. Available at BLOOMTINE
-  Updated: 2026-11-05T03:09:12Z
+- [Eternal Bloom™ Flower Earrings | Sterling Silver Moissanite Studs](https://www.bloomtine.co.uk/products/eternal-bloom™-sterling-silver-flower-studs-climbers): Eternal Bloom sterling silver flower earrings: 11mm ear climbers set with lab-grown moissanite, mirror finish. A botanical gift for her. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:26Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-mini-eternal-bloom-925-sterling-silver-flower-stud-earrings.jpg?v=1768610061
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Flower_studs_stering_silver.jpg?v=1794064315
   Price: £75.00 GBP
-- [Eternal Bloom™ Flower Earrings | Gold Vermeil Moissanite Studs](https://www.bloomtine.co.uk/products/eternal-bloom™-moissanite-gold-vermeil-flower-studs-climbers): Eternal Bloom™ Gold Flower Earrings. Symbolising resilience and beauty with Lab Moissanite. A provocative, extraordinary gift for every season of your becoming. Elevate your look with Eternal Bloom™ gold earrings. These 11mm gold vermeil flower ear climbers feature lab-grown moissanite for a celestial sparkle. Handcrafted, hypoallergenic earrings gold lovers choose for a resilient, botanical glow. Shop BLOOMTINE
-  Updated: 2026-11-06T15:48:19Z
+- [Eternal Bloom™ Flower Earrings | Gold Vermeil Moissanite Studs](https://www.bloomtine.co.uk/products/eternal-bloom™-moissanite-gold-vermeil-flower-studs-climbers): Eternal Bloom gold vermeil flower earrings: 11mm flower ear climbers set with lab-grown moissanite. A gift symbolising resilience and beauty. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:10Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-eternal-bloom-gold-vermeil-ear-climbers-flower-earrings..jpg?v=1777588831
-  Price: £45.00 GBP
-- [Mini Eternal Bloom™ Gold Vermeil Flower Necklace | Ethereal Moissanite Pendant](https://www.bloomtine.co.uk/products/mini-eternal-bloom™-moissanite-gold-vermeil-flower-necklace): Celebrate your resilience with the Mini Eternal Bloom™ gold necklace. This handcrafted gold vermeil necklace features a 10mm flower pendant set with a brilliant lab moissanite. An ethical, adjustable gold necklace for her, perfect for celestial layering or a meaningful floral gift
-  Updated: 2026-11-05T03:09:12Z
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Flower_gold_studs_bloomtine.jpg?v=1794064205
+  Price: £85.00 GBP
+- [Mini Eternal Bloom™ Gold Vermeil Flower Necklace | Ethereal Moissanite Pendant](https://www.bloomtine.co.uk/products/mini-eternal-bloom™-moissanite-gold-vermeil-flower-necklace): Mini Eternal Bloom 18K gold vermeil flower necklace: 10mm pendant with lab-grown moissanite, 14.5 to 16.5 inch chain. A gift of resilience. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:11Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Gold_vermeil_flower_necklace_bloomtine.jpg?v=1787067809
   Price: £65.00 GBP
-- [Mini Eternal Bloom™ Flower Necklace | Sterling Silver | Ethereal Moissanite Pendant](https://www.bloomtine.co.uk/products/mini-eternal-bloom™-flower-necklace-moissanite-sterling-silver): Celebrate resilience with the Mini Eternal Bloom™ sterling silver flower necklace. This handcrafted silver necklace features a 10mm flower pendant set with a brilliant lab moissanite. An ethical, adjustable silver necklace perfect for layering or a meaningful floral gift.
-  Updated: 2026-11-05T03:09:12Z
+- [Mini Eternal Bloom™ Flower Necklace | Sterling Silver | Ethereal Moissanite Pendant](https://www.bloomtine.co.uk/products/mini-eternal-bloom™-flower-necklace-moissanite-sterling-silver): Mini Eternal Bloom sterling silver flower necklace: 10mm pendant with lab-grown moissanite, 14.5 to 16.5 inch chain. Gift of resilience. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:27Z
   Vendor: BLOOMTINE
   Product Type: Necklace
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/sTERLING_SILVER_FLOWER_NECKLACE.jpg?v=1787067736
   Price: £50.00 GBP
-- [Mini Halo Wings™ Sterling Silver Hoops | Ethereal Moissanite Huggie Earrings](https://www.bloomtine.co.uk/products/mini-halo-wings™-sterling-silver-halo-hoops-earrings): Shop the Mini Halo Wings™ Sterling Silver Hoops earrings. These rhodium-plated silver hoop earrings feature brilliant lab moissanite in a secure flush setting. Hypoallergenic and tarnish-resistant silver earrings for a seamless, daily glow. Available at Wolf & Badger. Luxury Sterling Silver Huggies with flush-set Moissanite. Handmade, conflict-free. Discover extraordinary jewelry at Bloomtine.
-  Updated: 2026-11-06T16:50:08Z
+- [Mini Halo Wings™ Sterling Silver Hoops | Ethereal Moissanite Huggie Earrings](https://www.bloomtine.co.uk/products/mini-halo-wings™-sterling-silver-halo-hoops-earrings): Mini Halo Wings sterling silver hoops: 925 silver huggies, rhodium plated, with flush-set lab-grown moissanite. Dainty everyday earrings. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:27Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-silver-hoop-earrings-sterling-silver-moissanite-huggies.jpg?v=1777581731
   Price: £80.00 GBP
-- [Mini Halo Wings™ Gold Huggies | Ethereal Moissanite Hoops | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings-gold-halo-huggie-earrings): Shop Bloomtine Mini Halo Wings™ Gold Huggies. Celestial hoop earrings featuring flush-set lab moissanite for a cosmic fire. Ethical, handmade, and gift-ready. Discover the Mini Halo Wings™ gold earrings. These 14K gold vermeil hoop earrings feature flush-set moissanite for a celestial glow. Handcrafted, sustainable earrings gold lovers adore. Available at Wolf & Badger and Rackhams
-  Updated: 2026-11-06T16:51:45Z
+- [Mini Halo Wings™ Gold Huggies | Ethereal Moissanite Hoops | BLOOMTINE](https://www.bloomtine.co.uk/products/mini-halo-wings-gold-halo-huggie-earrings): Mini Halo Wings 14K gold vermeil huggie hoops, 7mm internal diameter, with flush-set lab-grown moissanite. Matches the Halo Wings range. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:53Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-mini-halo-wings-earrings-gold-hoop-earrings-moissanite.jpg?v=1777580200
   Price: £95.00 GBP
-- [Loves Frequency™ Gold Heart Necklace | Stainless Steel Necklace | 14k Gold & 316L Stainless Steel Jewelry | Pink Opal](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-necklace-pink-opal): Shop our luxury 14k gold PVD plated 316L surgical-grade steel jewelry. Designed for everyday wear, our pieces are hypoallergenic and tarnish-resistant. Luxury quality made for everyday wear. Free UK Standard Delivery on orders over £50.
-  Updated: 2026-11-06T16:44:41Z
+- [Loves Frequency™ Gold Heart Necklace | Stainless Steel Necklace | 14k Gold & 316L Stainless Steel Jewelry | Pink Opal](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-necklace-pink-opal): Loves Frequency gold heart choker: 10mm synthetic pink fire opal on gold PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-13T06:05:39Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/pink-opal-heart-choker-necklace-bloomtine-trending.jpg?v=1788461265
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Pink_Opal_Heart_Necklace_Bloomtine.jpg?v=1794506700
   Price: £80.00 GBP
-- [Loves Frequency Gold Heart Necklace| 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-necklace-fire-opal-choker): Gift the magic of the Loves Frequency Heart Choker by Bloomtine. Crafted from 316L surgical-grade steel with gold PVD plating and synthetic fire opal. Tarnish-resistant, hypoallergenic, and designed for active luxury. Perfectly gift-wrapped for someone you adore
-  Updated: 2026-11-06T16:46:36Z
+- [Loves Frequency Gold Heart Necklace| 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-necklace-fire-opal-choker): Loves Frequency gold heart choker: 10mm synthetic multi-colour fire opal on gold PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:50Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Multi-colour-opal-heart-necklace-bloomtine-choker-trending.jpg?v=1788461706
   Price: £75.00 GBP
-- [Loves Frequency Heart Necklace Choker | 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-silver-plated-blue-fire-opal-heart-necklace): Gift the magic of the Loves Frequency Heart Necklace Choker by Bloomtine. Crafted from 316L surgical-grade steel with silver PVD plating and synthetic fire opal. Tarnish-resistant, hypoallergenic, and made for everyday wear. Perfectly gift-wrapped for someone you adore
-  Updated: 2026-11-06T16:44:40Z
+- [Loves Frequency Heart Necklace Choker | 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-silver-plated-blue-fire-opal-heart-necklace): Loves Frequency silver heart choker: 10mm synthetic blue fire opal on silver PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-14T05:32:24Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/blue-opal-heartchoker-silver-bloomtine-trending.jpg?v=1788468135
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Blue_Opal_Heart_Necklace_Stainless_Steel_Bloomtine.jpg?v=1794591177
   Price: £70.00 GBP
-- [Loves Frequency Gold Heart Necklace | 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-mini-gold-plated-blue-coloured-fire-opal-heart-choker): Gift the magic of the Loves Frequency Gold Heart Necklace by Bloomtine. Crafted from 316L surgical-grade steel with gold PVD plating and synthetic fire opal. Tarnish-resistant, hypoallergenic, and designed for active luxury. Perfectly gift-wrapped for someone you adore
-  Updated: 2026-11-06T16:45:41Z
+- [Loves Frequency Gold Heart Necklace | 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-mini-gold-plated-blue-coloured-fire-opal-heart-choker): Loves Frequency gold heart choker: 10mm synthetic blue fire opal, gold PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-14T04:34:30Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Blue-Fire-Opal-Heart-choker-necklace-bloomtine-trending.jpg?v=1788461389
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Blue_opal_Gold_Heart_Necklace.jpg?v=1794587658
   Price: £80.00 GBP
-- [Loves Frequency™ Gold Heart Necklace with Ruby | 316L Steel | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-gold-heart-necklace-with-ruby): Gold heart necklace with a deep red ruby-coloured gemstone. 14k gold PVD-plated 316L stainless steel; hypoallergenic, tarnish-resistant, made for everyday wear.
-  Updated: 2026-11-06T16:45:40Z
+- [Loves Frequency™ Gold Heart Necklace with Ruby | 316L Steel | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-gold-heart-necklace-with-ruby): Loves Frequency gold heart choker: 10mm synthetic ruby-red stone on gold PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:51Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Heart_Necklace_Red_Ruby.png?v=1783958696
   Price: £80.00 GBP
-- [Loves Frequency™ Gold Heart Necklace with Black Onyx | 316L Steel | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-gold-heart-necklace-with-black-onyx): Gold heart necklace with a black onyx centre stone. 14k gold PVD-plated 316L stainless steel; hypoallergenic, tarnish-resistant, made for everyday wear.
-  Updated: 2026-11-06T16:45:41Z
+- [Loves Frequency™ Gold Heart Necklace with Black Onyx | 316L Steel | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-gold-heart-necklace-with-black-onyx): Loves Frequency gold heart choker: 10mm synthetic black onyx on gold PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-13T20:03:40Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Black-heart-necklace-gold-choker-bloomtine.jpg?v=1788461990
   Price: £80.00 GBP
-- [Loves Frequency Heart Necklace Choker | 316L Steel & Black Onyx | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-silver-heart-necklace-with-black-onyx): Gift the magic of the Loves Frequency Heart Necklace Choker by Bloomtine. Crafted from 316L surgical-grade steel with silver PVD plating and Black Onyx. Tarnish-resistant, hypoallergenic, and made for everyday wear. Perfectly gift-wrapped for someone you adore
-  Updated: 2026-11-06T16:44:41Z
+- [Loves Frequency Heart Necklace Choker | 316L Steel & Black Onyx | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-silver-heart-necklace-with-black-onyx): Loves Frequency silver heart choker: 10mm synthetic black onyx on silver PVD plated 316L stainless steel, adjustable 15 to 17 inches. BLOOMTINE UK.
+  Updated: 2026-11-13T20:03:41Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/black-opal-silver-heart-stainless-steel-necklace-bloomtine-trending.jpg?v=1788461865
+  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Black_Onyx_Heart_Necklace_Bloomtine.jpg?v=1794510715
   Price: £70.00 GBP
-- [Loves Frequency Gold Heart Huggies| 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-huggies-with-fire-opal): Gift these magic Loves Frequency Heart Huggies by Bloomtine. Crafted from 316L surgical-grade steel with gold PVD plating and synthetic fire opal. Tarnish-resistant, hypoallergenic, and designed for active luxury. Perfectly gift-wrapped for someone you adore
-  Updated: 2026-11-06T16:43:47Z
+- [Loves Frequency Gold Heart Huggies| 316L Steel & Fire Opal | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-gold-heart-huggies-with-fire-opal): Loves Frequency micro gold heart huggies: 3mm synthetic fire opal, gold PVD plated 316L steel, 6mm internal diameter, sold as a pair. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:52Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Heart_huggie_earrings_pink_opal_bloomtine.jpg?v=1788474285
   Price: £45.00 GBP
 - [18K Solid Gold Lab Diamond Hand Chain | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-solid-18k-gold-diamond-hand-chain): Illuminess 18K solid gold hand chain set with lab-grown diamonds. A diamond-cut chain that adjusts from 5.75 to 7.5 inches, made to be given.
-  Updated: 2026-11-05T03:09:17Z
+  Updated: 2026-11-10T00:08:06Z
   Vendor: BLOOMTINE
   Product Type: Hand Chain
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-illuminess-18k-solid-gold-lab-diamond-hand-chain-1.jpg?v=1793747248
   Price: £895.00 GBP
 - [18K Solid Gold Lab Diamond Heart Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-18k-gold-lab-diamond-heart-choker-necklace): Loves Frequency 18K solid gold heart choker set with lab-grown diamonds. A 10mm heart on an adjustable 14 to 16 inch chain, made to order.
-  Updated: 2026-11-05T03:09:17Z
+  Updated: 2026-11-12T14:44:56Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/18k_Solid_Gold_Diamond_Heart_Choker_Necklace.jpg?v=1786869591
   Price: £4,995.00 GBP
 - [18K Solid Gold Pink Lab Diamond Heart Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency-18k-gold-pink-diamond-heart-choker-necklace): Loves Frequency 18K solid gold heart choker set with lab-grown pink diamonds. A 10mm heart on an adjustable 14 to 16 inch chain, made to order.
-  Updated: 2026-11-05T03:09:17Z
+  Updated: 2026-11-12T14:44:56Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/18k_Solid_Gold_Pink_Diamond_Heart_Choker_Necklace.jpg?v=1786883545
   Price: £4,995.00 GBP
 - [18K Solid Gold Black Lab Diamond Heart Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-18k-gold-black-diamond-heart-choker-necklace): Loves Frequency 18K solid gold heart choker set with lab-grown black diamonds. A 10mm heart on an adjustable 14 to 16 inch chain, made to order.
-  Updated: 2026-11-05T03:09:17Z
+  Updated: 2026-11-12T14:44:57Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/BLOOMTINE_black_Diamond_18K_Solid_Gold.jpg?v=1786890135
   Price: £4,995.00 GBP
 - [Sterling Silver Lab Diamond Heart Choker | BLOOMTINE](https://www.bloomtine.co.uk/products/loves-frequency™-sterling-silver-diamond-heart-choker-necklace): Loves Frequency solid sterling silver heart choker set with lab-grown diamonds. A 10mm heart on an adjustable 14 to 16 inch chain, made to order.
-  Updated: 2026-11-05T03:09:17Z
+  Updated: 2026-11-12T14:44:53Z
   Vendor: BLOOMTINE
   Product Type: Choker
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Bloomtine_sterling_silver_diamonds_heart_necklace.jpg?v=1786921827
   Price: £1,250.00 GBP
 - [Illuminess™ 18K Solid Gold Diamond Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-gold-diamond-anklet): Handmade 18K solid gold anklet set with lab-grown diamonds in a water-droplet design. Adjustable 8.5–10.5 inch fit. A luxury gift for her.
-  Updated: 2026-11-06T16:04:31Z
+  Updated: 2026-11-12T14:44:57Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine_solid_gold_18k_diamond_anklet.jpg?v=1786923653
   Price: £695.00 GBP
 - [Illuminess™ 18K Solid Gold Black Diamond Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-18k-solid-gold-black-diamond-anklet-droplet-anklet): Handmade 18K solid gold anklet set with black lab-grown diamonds in a water-droplet design. Adjustable 8.5–10.5 inch fit. A bold luxury gift for her.
-  Updated: 2026-11-06T16:04:30Z
+  Updated: 2026-11-12T14:44:57Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/BLOOMTINE_BLACK_DIAMOND_18K_GOLD_ANKLET.jpg?v=1786923904
   Price: £695.00 GBP
 - [Illuminess™ 18K Solid Gold Pink Diamond Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-18k-solid-gold-pink-diamond-anklet-droplet-anklet): Handmade 18K solid gold anklet set with pink lab-grown diamonds in a water-droplet design. Adjustable 8.5–10.5 inch fit. A romantic luxury gift for her.
-  Updated: 2026-11-06T16:04:32Z
+  Updated: 2026-11-12T14:44:57Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/18k_gold_pink_diamond_anklet_bloomtine.jpg?v=1786924219
   Price: £695.00 GBP
 - [Illuminess™ Solid Sterling Silver Diamond Anklet | BLOOMTINE](https://www.bloomtine.co.uk/products/illuminess™-sterling-silver-diamond-anklet-droplet-anklet): Handmade solid sterling silver anklet set with lab-grown diamonds in a water-droplet design. Adjustable 8.5–10.5 inch fit. A sparkling gift for her.
-  Updated: 2026-11-06T16:04:32Z
+  Updated: 2026-11-12T14:44:54Z
   Vendor: BLOOMTINE
   Product Type: Anklet
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine_sterling_silver_diamond_anklet.jpg?v=1786924684
   Price: £295.00 GBP
-- [Angel Wing Chunky Gold Vermeil Bangle](https://www.bloomtine.co.uk/products/angel-wing-premium-gold-vermeil-chunky-bangle): Shop the Angel Wing Gold Vermeil Chunky Bangle. Featuring 98 Lab Moissanites for a mesmerizing sparkle. An extraordinary, ethical luxury gift for any occasion. Elevate your wrist stack with the Angel Wing gold bangle. Featuring 98 lab-grown moissanites set in thick gold vermeil, this flexible gold cuff offers an extraordinary, cosmic sparkle. A sustainable gold bangle made to be worn and cherished, for protection and grace.
-  Updated: 2026-11-05T03:15:04Z
+- [Angel Wing Chunky Gold Vermeil Bangle | 98 Moissanites | BLOOMTINE](https://www.bloomtine.co.uk/products/angel-wing-premium-gold-vermeil-chunky-bangle): Angel Wing chunky gold vermeil bangle: 98 lab-grown moissanites, 14K gold vermeil on sterling silver, 3 sizes. Celebrate your angels. BLOOMTINE UK.
+  Updated: 2026-11-12T14:43:12Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -1015,8 +989,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Angel_wing_bangle_bloomtine.jpg?v=1786929432
     Price: £695.00 GBP
-- [Angel Wing 'Celebrate Your Angels' Chunky Bangle | 98 Stone Moissanite Silver Bangle | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/angel-wing-sterling-silver-chunky-bangle): Shop the Angel Wing Silver Chunky Bangle. Features 98 Lab-Moissanites and a Ultra Sparkly Rhodium finish. An extraordinary, tarnish-resistant gift available in Small, Medium, and Large. Adorn your wrist with the iconic Angel Wing silver bangle. Featuring 98 hand-set moissanites in rhodium-plated sterling silver, this flexible silver cuff offers a tarnish-resistant, cosmic glow. The ultimate meaningful silver gift for her.
-  Updated: 2026-11-06T16:46:34Z
+- [Angel Wing 'Celebrate Your Angels' Chunky Bangle | 98 Stone Moissanite Silver Bangle | Shop Celestial Sparkle](https://www.bloomtine.co.uk/products/angel-wing-sterling-silver-chunky-bangle): Angel Wing chunky sterling silver bangle: 98 lab-grown moissanites, rhodium plated flexible open-wing cuff, 3 sizes. Celebrate your angels. BLOOMTINE UK.
+  Updated: 2026-11-12T14:44:28Z
   Vendor: BLOOMTINE
   Product Type: Bangle
   Availability: Available
@@ -1034,28 +1008,14 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
     Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Sterling_silver_chunky_angel_Wing_bangle_bloomtine.jpg?v=1786930653
     Price: £595.00 GBP
 - [18K Solid Gold Lab Diamond Butterfly Studs | BLOOMTINE](https://www.bloomtine.co.uk/products/enchanting-flutterfly™-18k-gold-butterfly-studs): Enchanting Flutterfly 18K solid gold butterfly studs set with 8 lab-grown diamonds in total. A meaningful gift for graduations and fresh starts.
-  Updated: 2026-11-05T03:09:18Z
+  Updated: 2026-11-10T00:08:09Z
   Vendor: BLOOMTINE
   Product Type: Earrings
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/bloomtine-flutterfly-18k-solid-gold-lab-diamond-butterfly-studs-1.jpg?v=1793747582
   Price: £525.00 GBP
-- [Chain + Clasp | Subsidised Repair Service](https://www.bloomtine.co.uk/products/chain-subsidised-repair-service): Discover peace of mind with our Chain | Subsidised Repair Service at BLOOMTINE | Earth Angel HQ.Even with the correct care, accidents can happen and your jewellery can become damaged. From snapped chains to broken earring posts, our experts can repair your jewellery so you can enjoy wearing it again.Our comprehensive repair service is available for customers in the UK and US, ensuring your treasured pieces are restored to their original splendour.Enjoy significant savings too—while a typical chain repair costs £45, special rates apply if you've purchased an item from us.
-  Updated: 2026-11-06T16:04:28Z
-  Vendor: BLOOMTINE
-  Product Type: Repair Service
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Chain_Subsidised_Repair_Service_BLOOMTINE.jpg?v=1790019644
-  Price: £25.00 GBP
-- [Replating | Subsidised Repair Service](https://www.bloomtine.co.uk/products/replating-subsidised-repair-service): Discover peace of mind with our Replating | Subsidised Repair Service at BLOOMTINE | Earth Angel HQ. Even with the correct care, accidents can happen and your jewellery can become worn. Our experts can replate your jewellery so you can enjoy wearing it again. Our comprehensive repair service is available for customers in the UK and US, ensuring your treasured pieces are restored to their original splendour. Enjoy significant savings too—while typical replating costs £40 - £65, special rates apply if you've purchased an item from us. Price: £35–£100, confirmed upon enquiry. Repaired within 7-10 working days.
-  Updated: 2026-11-06T16:04:29Z
-  Vendor: BLOOMTINE
-  Product Type: Repair Service
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0939/7541/3075/files/Replating_Subsidised_Repair_Service_BLOOMTINE.jpg?v=1790019472
-  Price: £35.00 GBP
-- [Full Refurbishment | Subsidised Repair Service](https://www.bloomtine.co.uk/products/general-refurbishment-subsidised-repair-service): This service brings your jewellery back to it's original condition.
-  Updated: 2026-10-27T17:24:35Z
+- [Full Jewellery Refurbishment | Subsidised Repair | BLOOMTINE](https://www.bloomtine.co.uk/products/general-refurbishment-subsidised-repair-service): Full jewellery refurbishment: restore your BLOOMTINE piece to its original condition at a subsidised rate for customers, UK and US. BLOOMTINE UK.
+  Updated: 2026-11-10T00:08:10Z
   Vendor: BLOOMTINE
   Product Type: Repair Service
   Availability: Available
@@ -1066,80 +1026,98 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
 ## Collections
 
 - [Home page](https://www.bloomtine.co.uk/collections/frontpage)
-  Updated: 2026-11-06T02:29:51Z
+  Updated: 2026-11-11T12:23:24Z
   Total Products: 6
 - [Repair Service](https://www.bloomtine.co.uk/collections/repair-service)
-  Updated: 2026-10-27T17:24:16Z
+  Updated: 2026-11-10T00:07:43Z
   Total Products: 3
-- [Glitter Bomb Candles](https://www.bloomtine.co.uk/collections/glitter-bomb-candles): Why not pair our exclusive designer jewellery with the perfect accompanying gift candle? An essential for sparkle lovers.Unleash a burst of magic with BLOOMTINE's Glitter Bomb Candle! As it burns, this unique scented candle slowly reveals a dazzling, shimmering pool of glitter, transforming your space into an enchanting spectacle.Perfect for adding sparkle to any room or as an unforgettable gift.
-  Updated: 2026-10-27T17:24:16Z
-  Total Products: 6
-- [Enchanting Flutterly™](https://www.bloomtine.co.uk/collections/enchanting-flutterly): "Embrace metamorphosis, experience extraordinary", this Enchanting Flutterfly™ collection is stylish and expresses a depth of meaning. Butterflies are spiritually symbolic of transformation, resilience and effortless beauty.
-  Updated: 2026-11-06T02:03:38Z
+- [Glitter Bomb Candles](https://www.bloomtine.co.uk/collections/glitter-bomb-candles): Shop Glitter Bomb candles: as it burns, a shimmering pool of glitter is revealed. A scented gift candle, gift-wrapped as standard.
+  Updated: 2026-11-12T23:40:38Z
+  Total Products: 5
+- [Enchanting Flutterfly™](https://www.bloomtine.co.uk/collections/enchanting-flutterfly): Shop Enchanting Flutterfly™ butterfly jewellery: butterflies symbolise transformation, resilience and effortless beauty. Gift-wrapped as standard.
+  Updated: 2026-11-13T14:34:37Z
   Total Products: 13
-- [Illuminess™](https://www.bloomtine.co.uk/collections/illuminess™-collection): "Good Humans Glow" - It's as though the light inside her shines so bright it can no longer be contained within the confines of her body. At Bloomtine we call her 'illumi-ness', short for illuminated princess.
-  Updated: 2026-11-06T02:08:23Z
+- [Illuminess™](https://www.bloomtine.co.uk/collections/illuminess™-collection): Shop Illuminess™ jewellery: good humans glow. Sparkle that celebrates the light inside her, made to be gifted. Gift-wrapped as standard.
+  Updated: 2026-11-13T14:31:02Z
   Total Products: 44
-- [Loves Frequency™](https://www.bloomtine.co.uk/collections/loves-frequency™-collection): "Where there is love, there is magic". At Bloomtine we believe the essence of life is to love. Did you know the heart’s magnetic field actually extends several feet outside of your body? This means the heart’s electromagnetic signal might be acting as a carrier wave, subtly "broadcasting" information about our internal state to those in our immediate proximity. We have designed this collection to echo the unique rhythm of love, symbolises the profound interconnectedness we all feel. Gift From Our Loves Frequency™ Collection to someone you adore. Explore our range of rings, necklaces, and bracelets, designed to be a timeless testament to your cherished connections
-  Updated: 2026-11-06T02:30:15Z
+- [Loves Frequency™](https://www.bloomtine.co.uk/collections/loves-frequency™-collection): Shop Loves Frequency™ heart jewellery in 316L stainless steel with PVD plating. Where there is love, there is magic. Gift-wrapped as standard.
+  Updated: 2026-11-13T14:22:11Z
   Total Products: 22
-- [Hidden Stories™](https://www.bloomtine.co.uk/collections/hidden-stories-collection): "Celebrate your angels", you are surrounded by angels who show up support, guide and cherish you daily - celebrate them. Celebrate the wonderful women in your life or embrace the divine connection with BLOOMTINE's Halo Wings Angel Jewellery collection. Each piece, from delicate angel wing necklaces to symbolic halo rings, is crafted to serve as a beautiful reminder of guidance, protection, and cherished bonds. Discover your personal guardian symbol within this ethereal collection
-  Updated: 2026-11-06T02:07:03Z
+- [Hidden Stories™](https://www.bloomtine.co.uk/collections/hidden-stories-collection): Celebrate your angels with Hidden Stories™: halo wings, angel wing bangles and talismans in gold vermeil and sterling silver.
+  Updated: 2026-11-13T14:23:48Z
   Total Products: 16
-- [Whats New](https://www.bloomtine.co.uk/collections/whats-new): Shop The Latest Gift-able Necklaces, Bracelets, Earrings and Rings. Spoil Yourself With Jewels that are a Celebration of You. Every Sparkle, Serves as a Reminder of Your Magic
-  Updated: 2026-11-06T02:30:15Z
+- [What's New](https://www.bloomtine.co.uk/collections/whats-new): Shop the latest BLOOMTINE necklaces, bracelets, earrings and rings: new sentimental jewellery made to be gifted. Gift-wrapped as standard.
+  Updated: 2026-11-13T12:23:04Z
   Total Products: 55
-- [Best Sellers](https://www.bloomtine.co.uk/collections/shop-best-sellers-jewellery-candles-the-perfect-gift-destination): Welcome to BLOOMTINE's Best  Jewellery collection, where you'll find our most loved and highly-rated designs. These customer favourites are cherished for their exquisite craftsmanship, timeless appeal, and profound meaning. Shop Highly Sought After Celebratory Sparkle Only the best for you x
-  Updated: 2026-11-06T02:30:15Z
+- [Best Sellers](https://www.bloomtine.co.uk/collections/shop-best-sellers-jewellery-candles-the-perfect-gift-destination): Shop BLOOMTINE best sellers: sentimental jewellery and candles, gift-wrapped as standard and made to be gifted.
+  Updated: 2026-11-13T12:23:04Z
   Total Products: 64
-- [Gift Guide](https://www.bloomtine.co.uk/collections/gift-guide)
-  Updated: 2026-11-06T02:30:15Z
+- [Gift Guide](https://www.bloomtine.co.uk/collections/gift-guide): Your gift guide to sentimental jewellery and candles: shop by budget or by meaning. Love, protection, transformation and light, gift-wrapped.
+  Updated: 2026-11-13T15:34:24Z
   Total Products: 104
-- [Under £125](https://www.bloomtine.co.uk/collections/under-125)
-  Updated: 2026-11-06T02:30:15Z
+- [Under £125](https://www.bloomtine.co.uk/collections/under-125): Shop sentimental jewellery and Glitter Bomb candles under £125, in sterling silver, gold vermeil and stainless steel. Gift-wrapped as standard.
+  Updated: 2026-11-13T12:23:04Z
   Total Products: 62
-- [From £125 - £250](https://www.bloomtine.co.uk/collections/from-125-250)
-  Updated: 2026-11-06T02:04:14Z
-  Total Products: 30
-- [Over £250](https://www.bloomtine.co.uk/collections/over-250)
-  Updated: 2026-11-06T02:07:03Z
+- [From £125 - £250](https://www.bloomtine.co.uk/collections/from-125-250): Shop gifts from £125 to £250 for someone special: angel wings, heartbeat lockets, lariats and more in gold vermeil and sterling silver.
+  Updated: 2026-11-13T01:54:12Z
+  Total Products: 35
+- [Over £250](https://www.bloomtine.co.uk/collections/over-250): Shop luxury gifts over £250: hallmarked solid gold and diamond fine jewellery, and sterling silver stamped 925, for the moments that matter.
+  Updated: 2026-11-12T23:42:42Z
   Total Products: 31
-- [Necklaces](https://www.bloomtine.co.uk/collections/necklaces): Exclusive, Copyrighted and Highly Sought After Necklaces, Lariats and Pendants. If You Love Originality You're in For a Treat. Our Necklaces and Pendants Truly Celebrate You. Elegant, Dainty yet Distinctive - This Jewellery Collection Has Something For Everyone. From Scintillating Gold Necklaces to Sparkling Silver Chokers, We Have Everything To Satisfy Your Want For Sparkle. Necklaces, Choker, Chains in Gold, Silver, Rose Gold. Wear as Stand Alone Pieces or Layer. Made Using Premium Metals and Lab-Grown Diamonds or Moissanite.
-  Updated: 2026-11-06T02:30:15Z
+- [Necklaces](https://www.bloomtine.co.uk/collections/necklaces): Shop necklaces, chokers, lariats and pendants in sterling silver, gold vermeil, solid gold and stainless steel. Gift-wrapped as standard.
+  Updated: 2026-11-13T01:54:12Z
   Total Products: 45
-- [Bracelets](https://www.bloomtine.co.uk/collections/bracelets): Exclusive, Copyrighted and Highly Sought After Bracelets, Bangles and Silk Cords.If You Love Originality You're in For a Treat. Our Bracelets and Bangles Truly Celebrate You. From Sparkly Angel Wings Bangles to Vibrant Silk Cord Bracelets, We Have Everything To Satisfy Your Want For Sparkle. Available in Gold, Silver, Rose Gold. Wear as Stand Alone Pieces or Layer.
-  Updated: 2026-11-06T02:04:14Z
+- [Bracelets](https://www.bloomtine.co.uk/collections/bracelets): Shop bracelets, bangles and silk cord bracelets in gold, silver and rose gold. Angel wing bangles and more, made to be gifted.
+  Updated: 2026-11-12T17:03:46Z
   Total Products: 21
-- [Earrings](https://www.bloomtine.co.uk/collections/earrings): Exclusive, Copyrighted and Highly Sought After Studs, Huggies and Ear Cuffs. If You Love Originality You're in For a Treat. Our Earrings Truly Celebrate You. From Sparkly Shooting Star Huggies to Mini Butterfly Studs.
-  Updated: 2026-11-06T02:08:23Z
+- [Earrings](https://www.bloomtine.co.uk/collections/earrings): Shop studs, huggies and ear cuffs: shooting stars, butterflies, flowers and hearts in sterling silver, gold vermeil and solid gold.
+  Updated: 2026-11-12T16:51:30Z
   Total Products: 26
-- [Rings](https://www.bloomtine.co.uk/collections/rings): Exclusive, Copyrighted and Highly Sought After Rings. If You Love Originality You're in For a Treat. Our Rings Are Distinctive. From Sparkly Stacking Rings to Combined Rings, We Have Everything To Satisfy Your Want For Sparkle.
-  Updated: 2026-10-27T17:24:17Z
+- [Rings](https://www.bloomtine.co.uk/collections/rings): Shop stacking rings, combi rings and butterfly rings in sterling silver and gold vermeil, made to wear alone or layered.
+  Updated: 2026-11-12T16:51:30Z
   Total Products: 8
-- [Anklets](https://www.bloomtine.co.uk/collections/anklets): Designer Anklets at Your Fingertips. If You Love Originality You're in For a Treat. Our Silver and Gold Vermeil Anklets Are Distinctive. From Sparkly Anklets to Water drop Goddess Anklets, We Have Everything To Satisfy Your Want For Sparkle. Be Quick, These  Out Quick!
-  Updated: 2026-10-27T17:24:17Z
+- [Anklets](https://www.bloomtine.co.uk/collections/anklets): Shop sterling silver and gold vermeil anklets, including our Apah Water Goddess droplet designs. Sparkle made to be gifted.
+  Updated: 2026-11-13T12:23:04Z
   Total Products: 10
-- [Fine Jewellery](https://www.bloomtine.co.uk/collections/fine-jewellery): Solid gold jewellery offers a timeless allure. Silver and diamonds also offer a premium luxury addition to any collection. Make fine your forever pieces, lovingly crafted to stand the test of time. Each elegant design is brilliantly handcrafted, destined to become cherished family heirlooms for generations to come. Elevate your style with these stunning treasures that embody both beauty and lasting value.
-  Updated: 2026-11-06T01:53:16Z
+- [Fine Jewellery](https://www.bloomtine.co.uk/collections/fine-jewellery): Shop fine jewellery: hallmarked solid gold, plus sterling silver and diamond pieces, made to be gifted and treasured. Gift-wrapped as standard.
+  Updated: 2026-11-12T16:51:30Z
   Total Products: 27
-- [All Jewellery](https://www.bloomtine.co.uk/collections/all-jewellery)
-  Updated: 2026-11-06T02:30:15Z
+- [All Jewellery](https://www.bloomtine.co.uk/collections/all-jewellery): Shop all BLOOMTINE jewellery: necklaces, earrings, bracelets, rings and anklets in sterling silver, gold vermeil, solid gold and stainless steel.
+  Updated: 2026-11-13T14:11:13Z
   Total Products: 105
-- [Eternal Bloom™](https://www.bloomtine.co.uk/collections/eternal-bloom™): "Her bloom is extraordinary; it's eternal". Welcome to the Eternal Bloom collection, the perfect jewellery gift for her, serving as a magical  of enduring love and grace. Each piece of our lotus flower inspired jewellery is meticulously crafted using solid gold, sterling silver or gold vermeil to tell a story of timeless beauty, capturing a moment of nature's extraordinary wisdom. Contains natural diamonds and moissanite, this collection is designed to be a cherished as a meaningful gift for the extraordinary human in your life.
-  Updated: 2026-10-27T17:24:17Z
-  Total Products: 10
+- [Eternal Bloom™](https://www.bloomtine.co.uk/collections/eternal-bloom™): Shop lotus flower jewellery in solid gold, sterling silver and gold vermeil, with natural diamonds and moissanite. Her bloom is eternal.
+  Updated: 2026-11-13T15:28:13Z
+  Total Products: 8
 - [Forest Flower™](https://www.bloomtine.co.uk/collections/forest-flower™): Coming Soon 2027
-  Updated: 2026-10-27T17:24:17Z
+  Updated: 2026-11-10T00:07:44Z
   Total Products: 0
 - [Invoke Her™](https://www.bloomtine.co.uk/collections/invoke-her™): Coming Soon 2026
-  Updated: 2026-10-27T17:24:17Z
+  Updated: 2026-11-12T16:49:20Z
   Total Products: 0
 - [Landing Page Mix](https://www.bloomtine.co.uk/collections/landing-page-mix)
-  Updated: 2026-11-06T02:29:51Z
+  Updated: 2026-11-12T12:24:09Z
   Total Products: 38
 - [Angel Wing Bracelets & Bangles](https://www.bloomtine.co.uk/collections/angel-wing-bracelets-bangles): Shop Bloomtine's Angel Wing bracelets and bangles in gold vermeil and sterling silver — Mini Halo Wings, statement bangles and chunky designs.
-  Updated: 2026-11-06T01:53:28Z
+  Updated: 2026-11-10T00:07:44Z
   Total Products: 6
+- [Gold Vermeil Jewellery](https://www.bloomtine.co.uk/collections/gold-vermeil-jewellery): Shop gold vermeil jewellery: necklaces, earrings, bracelets and rings with a gold finish over sterling silver. Gift-wrapped as standard.
+  Updated: 2026-11-13T01:51:10Z
+  Total Products: 42
+- [Sterling Silver Jewellery](https://www.bloomtine.co.uk/collections/sterling-silver-jewellery): Shop sterling silver jewellery: symbolic necklaces, earrings, bracelets and rings, gift-wrapped as standard and made to be gifted.
+  Updated: 2026-11-13T12:23:04Z
+  Total Products: 44
+- [Solid Gold Jewellery](https://www.bloomtine.co.uk/collections/solid-gold-jewellery): Shop solid gold and diamond jewellery for milestone gifts. Fine pieces in 14K and 18K gold, gift-wrapped as standard.
+  Updated: 2026-11-12T15:59:35Z
+  Total Products: 16
+- [Stainless Steel Jewellery](https://www.bloomtine.co.uk/collections/stainless-steel-jewellery): Shop 316L stainless steel jewellery with PVD plating: heart necklaces, chokers and huggies in gold and silver tones, gift-wrapped.
+  Updated: 2026-11-12T23:46:20Z
+  Total Products: 8
+- [Under £75](https://www.bloomtine.co.uk/collections/under-75): Shop gifts under £75: sentimental jewellery from £45 and Glitter Bomb candles at £35. Stocking fillers made to be gifted and gift-wrapped.
+  Updated: 2026-11-13T16:32:09Z
+  Total Products: 26
+- [From £75 - £125](https://www.bloomtine.co.uk/collections/from-75-125): Shop gifts from £75 to £125: everyday sparkle in sterling silver and gold vermeil, from rings and studs to necklaces. Gift-wrapped as standard.
+  Updated: 2026-11-13T12:23:04Z
+  Total Products: 33
 
 ## Blogs
 
@@ -1391,6 +1369,8 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   Updated: 2026-09-21T23:21:25Z
 - [Public Relations](https://www.bloomtine.co.uk/pages/public-relations)
   Updated: 2026-01-03T00:44:57Z
+- [Frequently Asked Questions](https://www.bloomtine.co.uk/pages/join-our-team-legacy)
+  Updated: 2026-11-13T01:32:56Z
 - [Wholesale](https://www.bloomtine.co.uk/pages/wholesale)
   Updated: 2026-01-02T00:28:41Z
 - [Join Our  Scheme](https://www.bloomtine.co.uk/pages/join-our--scheme)
@@ -1415,6 +1395,12 @@ This Illuminess™ Premium Gold Vermeil French Pavé Full Eternity Ring is a Sta
   Updated: 2026-09-15T23:49:40Z
 - [Wishlist](https://www.bloomtine.co.uk/pages/wishlist)
   Updated: 2026-09-19T18:11:22Z
+- [Skincare + Body Scrubs](https://www.bloomtine.co.uk/pages/skincare-body-scrubs)
+  Updated: 2026-11-13T01:32:48Z
+- [Gift Shop](https://www.bloomtine.co.uk/pages/gift-shop)
+  Updated: 2026-11-13T01:32:40Z
+- [Gift Finder](https://www.bloomtine.co.uk/pages/gift-finder)
+  Updated: 2026-11-13T01:32:34Z
 
 ## Policies
 
