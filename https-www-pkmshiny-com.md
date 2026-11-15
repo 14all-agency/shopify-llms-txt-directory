@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-10-24T09:21:49Z
 - Contact Email: qianrossie1125@gmail.com
-- Updated At: 2026-11-07T00:33:01.481Z
+- Updated At: 2026-11-15T00:33:23.784Z
 
 PKMSHINY is a premium online platform dedicated to Pokemon  and collecting. We offer a secure, reliable, and elite selection of high-quality items and exclusive Pokemon-inspired collectibles for trainers worldwide. Whether you are looking for rare shiny designs or essential gear, we connect the global community with the best tools to elevate your journey.
 
@@ -2063,6 +2063,15 @@ PKMSHINY is a premium online platform dedicated to Pokemon  and collecting. We o
     Author: Chen
   - [Iron Treads Unleashed Master Competitive Builds for Scarlet & Violet VGC and Tera Raid Dominance](https://www.pkmshiny.com/blogs/news/iron-treads-unleashed-master-competitive-builds-for-scarlet-violet-vgc-and-tera-raid-dominance): Iron Treads Unleashed Master Competitive Builds for Scarlet & Violet VGC and Tera Raid Dominance
     Updated: 2026-11-05T12:01:08Z
+    Author: Chen
+  - [Gulpin's Strategic Ascent in Scarlet & Violet Master Full Tera Raid Sets](https://www.pkmshiny.com/blogs/news/gulpins-strategic-ascent-in-scarlet-violet-master-full-tera-raid-sets): Gulpin's Strategic Ascent in Scarlet & Violet Master Full Tera Raid Sets
+    Updated: 2026-11-08T12:01:10Z
+    Author: Chen
+  - [How to Harness Kommo-o's Competitive Prowess: Master Scarlet & Violet Builds and Strategic VGC Insights](https://www.pkmshiny.com/blogs/news/how-to-harness-kommo-os-competitive-prowess-master-scarlet-violet-builds-and-strategic-vgc-insights): How to Harness Kommo-o's Competitive Prowess: Master Scarlet & Violet Builds and Strategic VGC Insights
+    Updated: 2026-11-09T12:06:43Z
+    Author: Chen
+  - [Amoonguss' Impact in Scarlet and Violet: Competitive Builds Nature and Meta Analysis](https://www.pkmshiny.com/blogs/news/amoonguss-impact-in-scarlet-and-violet-competitive-builds-nature-and-meta-analysis): Amoonguss' Impact in Scarlet and Violet: Competitive Builds Nature and Meta Analysis
+    Updated: 2026-11-12T12:00:58Z
     Author: Chen
 
 ## Store Pages
