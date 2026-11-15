@@ -6,7 +6,7 @@
 - Timezone: America/New_York
 - Created At: 2024-12-25T17:57:36Z
 - Contact Email: psycous2@gmail.com
-- Updated At: 2026-11-08T00:22:58.297Z
+- Updated At: 2026-11-15T00:30:02.556Z
 
 ## Products
 
@@ -47,7 +47,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/d8f5d55b-56f9-459b-8ac4-53d43f5691d2.jpg?v=1782916401
     Price: $79.48 USD
 - [Metallic Souls Mars Saga Poster with Magnetic Hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger): Original artwork from the dystopian Mars saga behind the Metallic Souls cyberpunk sci-fi trilogy and the Living Metal universe.
-  Updated: 2026-10-06T10:56:34Z
+  Updated: 2026-11-12T12:02:08Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -125,11 +125,11 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/b253457a-46ab-4ca6-af43-74f21f846860.jpg?v=1735443581
     Price: $50.76 USD
   - [60x80 cm / 24x32″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284807213)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/a8d51e0b-dd13-4223-bdf0-e9549b89e149.jpg?v=1735443581
     Price: $61.56 USD
   - [60x90 cm / 24x36″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284839981)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/bb695f5b-de21-49b6-8510-b6a580ae740c.jpg?v=1735443582
     Price: $61.56 USD
   - [70x100 cm / 28x40″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192284872749)
@@ -149,7 +149,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ebfebc0d-d712-4fb3-9b9e-3fec61882c96.jpg?v=1782916404
     Price: $80.80 USD
   - [A1 (59.4 x 84.1  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192285003821)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/9c328dde-c661-47bc-8c65-067dee97d19f.jpg?v=1735443582
     Price: $61.56 USD
   - [A2 (42 x 59.4  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger?variant=43192285036589)
@@ -161,7 +161,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/2336b438-9f01-4679-8c24-c2217133cc35.jpg?v=1782916403
     Price: $37.70 USD
 - [Metallic Souls Dystopian Art Poster with Hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2): Original artwork from the Metallic Souls cyberpunk trilogy — the dystopian Mars saga of Anna Matrix, Nakita, and Sara Bennett. Ready to hang.
-  Updated: 2026-10-06T10:54:56Z
+  Updated: 2026-11-12T11:59:51Z
   Vendor: LIVING METAL
   Product Type: Print on demand
   Availability: Available
@@ -247,15 +247,15 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/cbcf576d-0d1c-4238-931e-e6379fb78a49.jpg?v=1735746452
     Price: $50.76 USD
   - [A1 (59.4 x 84.1  cm)](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849193005)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/20fbd5fc-4ab2-4d3b-9553-3513e117c482.jpg?v=1735746456
     Price: $61.56 USD
   - [60x80 cm / 24x32″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849225773)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/f9f68a93-c318-4f1e-ada8-fb996fafdd83.jpg?v=1735746458
     Price: $61.56 USD
   - [60x90 cm / 24x36″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849258541)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/040d231c-d017-4472-8e29-4cf40b64b20f.jpg?v=1735746466
     Price: $61.56 USD
   - [70x70 cm / 28x28″](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-2?variant=43196849291309)
@@ -275,7 +275,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/dd83b7f5-f9be-4d08-9056-d55b91adb694.jpg?v=1735746463
     Price: $80.80 USD
 - [Metallic Souls Anna Matrix Poster — Living Metal Universe](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3): Original artwork of Anna Matrix, the Mars cop with metal-manipulation powers from the Metallic Souls cyberpunk sci-fi trilogy.
-  Updated: 2026-10-06T10:53:42Z
+  Updated: 2026-11-12T11:59:41Z
   Vendor: LIVING METAL
   Product Type: Print Material
   Availability: Available
@@ -425,7 +425,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/904bde65-dd40-4b19-88d9-d54e59f386a6.jpg?v=1735749886
     Price: $50.76 USD
   - [60x80 cm / 24x32″ / Black wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861349933)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/20fb6d8c-9f9f-4795-99c2-49668f4037da.jpg?v=1735749893
     Price: $61.56 USD
   - [60x80 cm / 24x32″ / White wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861382701)
@@ -433,7 +433,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/24dc3db9-205d-4392-b0d4-dd618234a739.jpg?v=1735749875
     Price: $61.56 USD
   - [60x90 cm / 24x36″ / Black wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861415469)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/2e57ce95-da43-4604-9cd1-6f4ce88c5395.jpg?v=1735749882
     Price: $61.56 USD
   - [60x90 cm / 24x36″ / White wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861448237)
@@ -473,7 +473,7 @@
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/94130f09-1917-4d7b-a59e-d6425f659e82.jpg?v=1735749891
     Price: $80.80 USD
   - [A1 (59.4 x 84.1  cm) / Black wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861743149)
-    Availability: Available
+    Availability: Not Available
     Image: https://cdn.shopify.com/s/files/1/0660/2810/9869/files/ceb9a9ba-54a2-428c-b712-c0062757eee3.jpg?v=1735749886
     Price: $61.56 USD
   - [A1 (59.4 x 84.1  cm) / White wall hanger](https://metallicsouls.myshopify.com/products/premium-matte-paper-poster-with-hanger-3?variant=43196861775917)
