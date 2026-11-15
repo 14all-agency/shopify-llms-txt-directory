@@ -6,7 +6,7 @@
 - Timezone: Europe/Paris
 - Created At: 2025-04-21T12:46:29Z
 - Contact Email: annienellcreations@gmail.com
-- Updated At: 2026-11-08T00:33:35.559Z
+- Updated At: 2026-11-15T00:35:36.108Z
 
 ## Products
 
@@ -18,7 +18,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/demaquillant-yeux-avril-bouteille-plastique-transparente-etiquette-936.webp?v=1780330797
   Price: 7,00 € EUR
 - [Gel nettoyant visage Avril bio cosmétique peau douce](https://www.nellcreations.com/products/gel-nettoyant-visage-100ml-certifie-bio): Ce gel nettoyant visage Avril certifié bio élimine les impuretés de l'épiderme. Sa formule pour peaux sèches ou grasses contient un parfum naturel d'agrumes.
-  Updated: 2026-11-05T10:29:28Z
+  Updated: 2026-11-09T17:34:47Z
   Vendor: Nellcréations
   Product Type: Gel nettoyant
   Availability: Available
@@ -32,7 +32,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/soin-contour-des-yeux-et-levres-avril-tube-souple-couleur-lavande-pale-899.webp?v=1780330841
   Price: 3,60 € EUR
 - [Crème jour et nuit Avril bio hydratation visage](https://www.nellcreations.com/products/creme-jour-et-nuit-50-ml-certifiee-bio): La crème jour et nuit certifiée bio Avril contient de l'aloe vera et du beurre de karité. Ce soin hydrate les peaux normales, sèches, grasses, mixtes ou matures.
-  Updated: 2026-11-05T10:29:28Z
+  Updated: 2026-11-12T22:40:34Z
   Vendor: Nellcréations
   Product Type: crème visage jour et nuit
   Availability: Available
@@ -193,7 +193,7 @@
   Image: https://cdn.shopify.com/s/files/1/0946/2061/4985/files/pack-minceur-nellcreations-trois-flacons-plastique-blancs-etiquettes-454.webp?v=1780331253
   Price: 60,50 € EUR
 - [Bien vivre les changements – Le guide bien-être féminin](https://www.nellcreations.com/products/bien-vivre-les-changements-le-guide-bien-etre-feminin): Bien vivre les changements Le guide bien-être pour mieux comprendre et accompagner les changements hormonaux chez la femme. Parce que chaque femme traverse des changements au cours de sa vie, j'ai souhaité créer ce guide pour t'apporter des informations, des conseils et des idées simples pour mieux vivre cette période. Tu y trouveras des explications pour mieux comprendre ton corps, des conseils pour prendre soin de toi, des exercices de bien-être, des idées de repas équilibrés ainsi qu'un carnet personnel pour t'accompagner au quotidien. Format numérique : PDF téléchargeable. Annie – Nellcréations
-  Updated: 2026-11-07T21:41:42Z
+  Updated: 2026-11-12T22:40:51Z
   Vendor: Nellcréations
   Product Type: 
   Availability: Available
@@ -206,7 +206,7 @@
   Updated: 2026-07-21T09:31:26Z
   Total Products: 2
 - [Avril cosmétiques](https://www.nellcreations.com/collections/soin-visage-avril): Nellcréations propose la gamme Avril cosmétiques incluant des soins du visage, du corps et du maquillage bio comme la BB crème, le sérum lissant ou le gommage.
-  Updated: 2026-11-05T12:29:49Z
+  Updated: 2026-11-10T12:23:59Z
   Total Products: 16
 - [Nellcréations - Gamme ambiance](https://www.nellcreations.com/collections/nellcreations-gamme-ambiance): La collection ambiance Nellcréations propose des bouquets parfumés, bougies et parfums pour la maison au parfum nuage de coton pour créer une atmosphère douce.
   Updated: 2026-11-01T12:21:59Z
@@ -221,10 +221,10 @@
   Updated: 2026-11-05T20:44:22Z
   Total Products: 8
 - [Meilleurs ventes](https://www.nellcreations.com/collections/meilleurs-ventes): La collection Meilleurs ventes de Nellcréations propose des soins Avril comme le gel nettoyant et des produits exclusifs tels que le draineur ou le gel fermeté.
-  Updated: 2026-11-05T12:29:49Z
+  Updated: 2026-11-10T12:23:59Z
   Total Products: 10
 - [New! Shopify performance sharing is now turned on](https://www.nellcreations.com/collections/for-shopify-performance-tracking): This collection was automatically created by Faire as part of the "Performance sharing" feature which shares product performance data from Shopify to optimize your Faire catalog. Please do not modify or delete this collection, as it is used for analytics and sales insights. You can manage the "Performance sharing" feature from the Preferences page within the Faire sales channel.
-  Updated: 2026-11-07T12:27:08Z
+  Updated: 2026-11-10T12:23:59Z
   Total Products: 40
 
 ## Blogs
