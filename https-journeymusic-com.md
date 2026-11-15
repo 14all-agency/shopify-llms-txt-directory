@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-11-03T19:27:26Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-08T00:24:07.620Z
+- Updated At: 2026-11-15T00:26:42.975Z
 
 ## Products
 
 - [Repeat Logo Tee](https://journeymusic.com/products/repeat-logo): Official Journey Merchandise Gildan 100% preshrunk cotton Black Classic fit Unisex sizing
-  Updated: 2026-10-05T13:02:04Z
+  Updated: 2026-11-12T17:29:57Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -35,7 +35,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Frontiers 3D Tee](https://journeymusic.com/products/frontiers-3d-tee): Official Journey Merchandise Gildan 100% preshrunk cotton Charcoal Classic fit Unisex sizing
-  Updated: 2026-10-12T03:41:07Z
+  Updated: 2026-11-12T17:29:57Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -59,7 +59,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Scarab Crystal Zip Hoodie](https://journeymusic.com/products/scarab-cystal-zip-hoodie): Official Journey Merchandise Gildan Full-Zip Hooded Sweatshirt 50/50 preshrunk cotton/polyester Classic fit, unisex sizing
-  Updated: 2026-11-04T23:53:56Z
+  Updated: 2026-11-14T15:50:18Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -83,14 +83,14 @@
     Availability: Not Available
     Price: $45.00 USD
 - [Aragon Ballroom Trucker Hat](https://journeymusic.com/products/aragon-ballroom-trucker-hat): Official Journey Merchandise Flat Bill Trucker Hat 65/35 polyester/cotton Black High profile | Flat visor Structured 5-panel Snapback closure
-  Updated: 2026-10-16T14:36:12Z
+  Updated: 2026-11-12T17:29:58Z
   Vendor: Journey
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/150757_1_271161_blog_582963_2.png?v=1742314889
   Price: $20.00 USD
 - [Aragon Ballroom Tee](https://journeymusic.com/products/aragon-ballroom-tee): Official Journey Merchandise Gildan 100% preshrunk cotton Classic fit Unisex sizing
-  Updated: 2026-10-06T14:59:07Z
+  Updated: 2026-11-12T17:29:58Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -114,7 +114,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Aragon Ballroom Raglan](https://journeymusic.com/products/aragon-ballroom-raglan): Official Journey Merchandise Tultex Jersey Raglan Tee 100% ringspun cotton Unisex sizing
-  Updated: 2026-10-05T13:02:07Z
+  Updated: 2026-11-12T17:29:58Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -138,7 +138,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Journey x Lollapalooza Tee](https://journeymusic.com/products/journey-x-lalapalooza-tee-white): Official Journey Merchandise Gildan 100% preshrunk cotton Classic fit Unisex sizing
-  Updated: 2026-10-26T23:39:27Z
+  Updated: 2026-11-12T17:29:59Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -180,7 +180,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [2022 Crystal Scarab Freedom Tour Tee](https://journeymusic.com/products/black-crystal-scarab-freedom-tour-tee): Official Journey Merchandise 100% preshrunk cotton Black Classic fit Unisex sizing
-  Updated: 2026-10-26T03:00:10Z
+  Updated: 2026-11-12T17:29:59Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -207,7 +207,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Deco Wings Hoodie](https://journeymusic.com/products/deco-wings-hoodie): Official Journey Merchandise 80/20 Cotton / Polyester Classic fit Double-lined hood with color-matched drawcord Pouch pocket Unisex sizing
-  Updated: 2026-10-26T17:37:55Z
+  Updated: 2026-11-12T17:29:59Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -231,7 +231,7 @@
     Availability: Not Available
     Price: $55.00 USD
 - [2022 Green Tie Dye Infinity Wings Tee](https://journeymusic.com/products/green-tie-dye-infinity-wings-tee): Official Journey Merchandise 100% pre-shrunk cotton Green Tie Dye Double-needle stitched neckline and bottom hem Unisex sizing
-  Updated: 2026-10-15T02:55:06Z
+  Updated: 2026-11-12T17:29:59Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -255,7 +255,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [2022 Mineral Wash Deco Scarab Freedom Tour Tee](https://journeymusic.com/products/mineral-wash-deco-scarab-freedom-tour-tee): Official Journey Merchandise 100% pre-shrunk cotton Double-needle stitched neckline and bottom hem Unisex sizing
-  Updated: 2026-10-22T19:10:21Z
+  Updated: 2026-11-12T17:29:59Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -273,13 +273,13 @@
     Availability: Available
     Price: $20.00 USD
 - [Journey San Francisco Hoodie](https://journeymusic.com/products/journey-san-francisco-hoodie): Official Journey Merchandise 80/20 Cotton / Polyester Classic fit Double-lined hood with color-matched drawcord Pouch pocket Unisex sizing
-  Updated: 2026-11-06T22:55:11Z
+  Updated: 2026-11-14T02:55:46Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0000_Journey-SF-Hoodie-2022.png?v=1793033682
   - [S / 2022](https://journeymusic.com/products/journey-san-francisco-hoodie?variant=41654458876099)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 USD
   - [S / 2023](https://journeymusic.com/products/journey-san-francisco-hoodie?variant=67798256451860)
     Availability: Not Available
@@ -315,7 +315,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Black/White Deco Wings Raglan](https://journeymusic.com/products/black-white-deco-wings-raglan): Official Journey Merchandise Jersey Raglan Tee 100% ringspun cotton Unisex sizing
-  Updated: 2026-11-06T21:37:36Z
+  Updated: 2026-11-13T17:27:06Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -339,7 +339,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Nashville Event Tee](https://journeymusic.com/products/nashville-event-tee): Official Journey Merchandise Unisex tee in Navy 4.5 oz./yd², pre-shrunk 100% ringspun USA cotton Reactive-dyed for longer lasting color Ribbed crewneck collar
-  Updated: 2026-10-26T23:39:22Z
+  Updated: 2026-11-12T17:30:00Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -363,7 +363,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Dallas Event Tee](https://journeymusic.com/products/dallas-event-tee): Official Journey Merchandise 4.5 oz./yd², pre-shrunk 100% ringspun USA cotton Reactive-dyed for longer lasting color Ribbed crewneck collar
-  Updated: 2026-10-08T05:12:46Z
+  Updated: 2026-11-12T17:30:00Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -387,7 +387,7 @@
     Availability: Available
     Price: $20.00 USD
 - [Glow In the Dark LA Event Tee](https://journeymusic.com/products/glow-in-the-dark-la-event-tee): Official Journey Merchandise 4.5 oz./yd², pre-shrunk 100% ringspun USA cotton Reactive-dyed for longer lasting color Ribbed crewneck collar
-  Updated: 2026-11-07T13:27:37Z
+  Updated: 2026-11-12T17:30:01Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -411,7 +411,7 @@
     Availability: Available
     Price: $15.00 USD
 - [DC Event Tee](https://journeymusic.com/products/dc-event-tee): Official Journey Merchandise 4.5 oz./yd², pre-shrunk 100% ringspun USA cotton Reactive-dyed for longer lasting color Ribbed crewneck collar
-  Updated: 2026-10-25T17:49:46Z
+  Updated: 2026-11-12T17:30:01Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -435,7 +435,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Dallas Event Ladies Tee](https://journeymusic.com/products/dallas-event-ladies-tee): Official Journey Merchandise 4.2 oz./yd² (US) 7 oz./L yd (CA), 100% airlume combed and ringspun cotton, 32 singles Relaxed fit Side seams
-  Updated: 2026-10-26T23:39:21Z
+  Updated: 2026-11-12T17:30:01Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -456,7 +456,7 @@
     Availability: Not Available
     Price: $15.00 USD
 - [Black Crystal Scarab 2023 Freedom](https://journeymusic.com/products/black-crystal-scarab-2023-freedom): Official Journey Merchandise 100% pre-shrunk cotton Reactive-dyed for longer lasting color Ribbed crewneck collar Back neck tape Shoulder-to-shoulder taping Double-needle stitching on sleeves and bottom hem
-  Updated: 2026-11-05T18:05:56Z
+  Updated: 2026-11-12T17:30:01Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -480,7 +480,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Blue Tie Dye 2023 World Infinity Wings](https://journeymusic.com/products/blue-tie-dye-2023-world-infinity-wings): Official Journey Merchandise 100% pre-shrunk cotton Double-needle stitched neckline and bottom hem Shoulder to shoulder taping
-  Updated: 2026-10-26T23:39:22Z
+  Updated: 2026-11-12T17:30:02Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -501,7 +501,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Black/White 2023 Elmo Raglan](https://journeymusic.com/products/black-white-2023-elmo-raglan): Official Journey Merchandise 100% cotton Reactive-dyed for longer lasting color Pre-washed to minimize shrinkage Ribbed collar Taped neck and shoulders Double needle stitching on sleeves and bottom hem Overlock stitching on bottom hem
-  Updated: 2026-10-25T17:49:46Z
+  Updated: 2026-11-12T17:30:02Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -525,7 +525,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Black Freedom Tour Zip Hoodie](https://journeymusic.com/products/black-50th-anniversary-tour-zip-hoodie): Official Journey Merchandise 80/20 cotton/polyester blend fleece with 100% cotton face Standard fit Jersey lined hood Split stitch double needle sewing on all seams Twill neck tape
-  Updated: 2026-10-26T23:39:22Z
+  Updated: 2026-11-12T17:30:02Z
   Vendor: Journey
   Product Type: Apparel
   Availability: Available
@@ -549,7 +549,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [Black Freedom 1973-2023 Tee](https://journeymusic.com/products/black-freedom-1973-2023-tee): Official Journey Merchandise 100% pre-shrunk cotton Reactive-dyed for longer lasting color Ribbed crewneck collar Back neck tape Shoulder-to-shoulder taping Double-needle stitching on sleeves and bottom hem
-  Updated: 2026-11-06T01:35:26Z
+  Updated: 2026-11-14T02:55:51Z
   Vendor: Journey
   Product Type: Apparel
   Availability: Available
@@ -573,7 +573,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Black DSB Freedom Tee](https://journeymusic.com/products/black-dsb-freedom-tee): Official Journey Merchandise 100% pre-shrunk cotton Reactive-dyed for longer lasting color Ribbed crewneck collar Back neck tape Shoulder-to-shoulder taping Double-needle stitching on sleeves and bottom hem
-  Updated: 2026-10-26T23:39:23Z
+  Updated: 2026-11-12T17:30:02Z
   Vendor: Journey
   Product Type: Apparel
   Availability: Available
@@ -597,28 +597,28 @@
     Availability: Not Available
     Price: $30.00 USD
 - [Holiday Sweater](https://journeymusic.com/products/2022-holiday-sweater): Official Journey Merchandise 100% Acrylic Sweater Size Chart S M L XL 2X 3X Body Length 28.5 29.75 31 32 33.25 34.5 Body Width 20.5 22.5 24.5 26.5 28.5 30.5 Sleeve Length 25 25.5 26.5 27 28 29 Measurements are in inches.They are approximate. Please allow up to half an inch variance.
-  Updated: 2026-11-03T06:22:45Z
+  Updated: 2026-11-15T00:24:47Z
   Vendor: Journey
   Product Type: Crewneck
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/products/JourneyHoliday.png?v=1668449698
   - [Small](https://journeymusic.com/products/2022-holiday-sweater?variant=43761825153300)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [Medium](https://journeymusic.com/products/2022-holiday-sweater?variant=43761825186068)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [Large](https://journeymusic.com/products/2022-holiday-sweater?variant=43761825218836)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [X-Large](https://journeymusic.com/products/2022-holiday-sweater?variant=43761825251604)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [2X-Large](https://journeymusic.com/products/2022-holiday-sweater?variant=43761825284372)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $45.00 USD
 - [50th Anniversary Bronze Scarab Tour Raglan](https://journeymusic.com/products/new-50th-anniversary-bronze-scarab-tour-raglan-1): Official Journey Merchandise Reactive-dyed for longer lasting color Pre-washed to minimize shrinkage Ribbed collar Taped neck and shoulders Double needle stitching on sleeves and bottom hem Overlock stitching on bottom hem Contrast color three-quarter sleeves Tear away label USMCA 
-  Updated: 2026-10-15T02:51:16Z
+  Updated: 2026-11-12T20:01:06Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -642,7 +642,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [50th Anniversary Pullover Hoodie](https://journeymusic.com/products/new-50th-anniversary-pullover-hoodie): Official Journey Merchandise Jersey-lined, two-piece hood Shoulder to shoulder back neck tape Side seamed 1x1 rib knit cuffs and hem Tear-away label
-  Updated: 2026-10-05T13:02:22Z
+  Updated: 2026-11-12T17:30:03Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -666,21 +666,21 @@
     Availability: Not Available
     Price: $45.00 USD
 - [50th Anniversary Patch Hat](https://journeymusic.com/products/50th-anniversary-patch-hat): Official Journey Merchandise Profile: High, Structured 5 Panels Plastic Snapback Flat Visor 50% Cotton, 50% Nylon One Size Fits Most
-  Updated: 2026-10-26T23:39:23Z
+  Updated: 2026-11-12T17:30:03Z
   Vendor: Journey Music
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/products/Myproject.png?v=1676575164
   Price: $30.00 USD
 - [2023 Tour Poster](https://journeymusic.com/products/2023-tour-poster): Official Journey Merchandise 12 x 18" poster
-  Updated: 2026-10-05T13:02:23Z
+  Updated: 2026-11-12T17:30:04Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/2023-Poster.png?v=1771350767
   Price: $10.00 USD
 - [50th Anniversary Bronze Scarab Tour Tee](https://journeymusic.com/products/2023-50th-anniversary-bronze-scarab-tour-tee): Official Journey Merchandise 4.5 oz. 100% ringspun USA cotton Ribbed crewneck collar Back neck tape Shoulder-to-shoulder taping Double-needle stitching on sleeves and bottom hem Tear away label
-  Updated: 2026-11-06T09:44:36Z
+  Updated: 2026-11-12T17:30:04Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -707,7 +707,7 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Japan 81 Tee](https://journeymusic.com/products/japan-81-tee-1): Official Journey Merchandise 100% cotton Japanese inspired graphic on the front Unisex tee
-  Updated: 2026-10-09T04:50:12Z
+  Updated: 2026-11-12T17:30:04Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -758,7 +758,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [50th Anniversary Embroidered Varsity Jacket](https://journeymusic.com/products/50th-anniversary-embroidered-varsity-jacket): Official Journey Merchandise 24 oz Melton wool body 4.5 oz Quilt Lining Set-in genuine leather sleeves and coordinating pockets Non-Pill, high memory, wool/poly blend knit collar, cuffs & waistband Inside wallet pocket
-  Updated: 2026-10-26T23:39:25Z
+  Updated: 2026-11-12T20:44:06Z
   Vendor: Journey
   Product Type: Jacket
   Availability: Available
@@ -782,26 +782,26 @@
     Availability: Not Available
     Price: $300.00 USD
 - [Journey Pom Beanie](https://journeymusic.com/products/journey-pom-beanie): Official Journey Merchandise 100% acrylic knitted beanie
-  Updated: 2026-10-26T23:39:23Z
+  Updated: 2026-11-12T17:30:05Z
   Vendor: Journey
   Product Type: Accessories
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JRNY50thPomBeanie.png?v=1699024281
   Price: $20.00 USD
 - [Striped Socks](https://journeymusic.com/products/striped-socks): Official Journey Merchandise All-over print, polyester socks
-  Updated: 2026-10-30T10:29:51Z
+  Updated: 2026-11-13T04:00:46Z
   Vendor: Journey
   Product Type: Socks
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/GreenStripeSocks_72070506-cc35-4d6b-a90b-9cec9e4b62f8.png?v=1752854930
+  Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JRNYRedStripeSocks_b9d7f78e-0d96-4789-8278-908c35dd18c9.png?v=1752854930
   - [Red](https://journeymusic.com/products/striped-socks?variant=47131814658324)
     Availability: Not Available
-    Price: $20.00 USD
+    Price: $25.00 USD
   - [Green](https://journeymusic.com/products/striped-socks?variant=47131814691092)
     Availability: Available
-    Price: $20.00 USD
+    Price: $25.00 USD
 - [2024 Black/Grey Elmo Raglan](https://journeymusic.com/products/black-grey-elmo-raglan): Official Journey Merchandise 50% ring-spun cotton/50% polyester Size Chart Size Body Length (in) Chest Width (in) S 29 18 M 30 20 L 31 22 XL 32 24 2XL 33 26 3XL 34 28
-  Updated: 2026-11-07T19:01:56Z
+  Updated: 2026-11-15T00:00:17Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -825,21 +825,21 @@
     Availability: Not Available
     Price: $25.00 USD
 - [2024 Tour Poster](https://journeymusic.com/products/2024-tour-poster): Official Journey Merchandise 12 x 18" poster
-  Updated: 2026-11-06T22:55:12Z
+  Updated: 2026-11-14T18:41:52Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Journey_0024_160121_1_291233_d.png?v=1706726027
   Price: $5.00 USD
 - [50th Anniversary Snapback Hat](https://journeymusic.com/products/50th-anniversary-snapback-hat): Official Journey Merchandise 100% cotton twill, structured, five-panel, high-profile hat with green under-panel
-  Updated: 2026-10-24T08:53:16Z
+  Updated: 2026-11-14T18:41:56Z
   Vendor: Journey Music
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Journey50thAnniPatchHatBlack.png?v=1707161268
   Price: $25.00 USD
 - [Gold Logo 50th Anniversary Zip Hoodie](https://journeymusic.com/products/gold-logo-50th-anniversary-zip-hoodie): Official Journey Merchandise 70% Cotton/30% Polyester with 100% Cotton Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 28 1/2 21 35 1/2 M 29 1/2 23 36 1/2 L 30 1/2 24 1/2 37 1/2 XL 31 1/2 26 1/2 38 1/2 2XL 32 1/2 27 1/2 39 1/2 3XL 33 1/2 28 1/5 40
-  Updated: 2026-10-26T23:39:27Z
+  Updated: 2026-11-12T17:30:06Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -863,7 +863,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Crystal Scarab Freedom Tee](https://journeymusic.com/products/crystal-scarab-freedom-tee): Official Journey Merchandise 100% pre-shrunk cotton
-  Updated: 2026-10-26T23:39:25Z
+  Updated: 2026-11-12T17:30:06Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -887,7 +887,7 @@
     Availability: Available
     Price: $35.00 USD
 - [2024 Mineral Wash Deco Scarab Tee](https://journeymusic.com/products/2024-mineral-wash-deco-scarab-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton
-  Updated: 2026-11-03T02:13:51Z
+  Updated: 2026-11-12T17:30:06Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -911,7 +911,7 @@
     Availability: Available
     Price: $25.00 USD
 - [City Boy Onesie](https://journeymusic.com/products/city-boy-onesie): Official Journey Merchandise 100% ringspun cotton fine jersey, with innovative snap tape closure
-  Updated: 2026-11-06T19:13:36Z
+  Updated: 2026-11-12T17:30:06Z
   Vendor: Journey
   Product Type: Onesie
   Availability: Available
@@ -932,7 +932,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Don't Stop Believin' Freedom Youth Tee](https://journeymusic.com/products/dont-stop-believin-freedom-youth-tee): Official Journey Merchandise Pre-shrunk 100% ring-spun USA cotton Size Chart Size Body Length (in) Chest Width (in) Youth XS 18 14 Youth S 20 15 Youth M 22 17 Youth L 24 18 Youth XL 26 20
-  Updated: 2026-11-05T00:06:06Z
+  Updated: 2026-11-13T00:08:27Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -953,7 +953,7 @@
     Availability: Not Available
     Price: $30.00 USD
 - [2024 Summer Stadium Tour Tee](https://journeymusic.com/products/2024-summer-stadium-tour-tee): Official Journey Merchandise Black globe scarab graphic on the front Summer stadium tour dates on the back 100% pre-shrunk cotton
-  Updated: 2026-11-06T01:35:27Z
+  Updated: 2026-11-12T17:30:07Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -977,7 +977,7 @@
     Availability: Available
     Price: $20.00 USD
 - [2024 Navy Mineral Wash Tee](https://journeymusic.com/products/2024-summer-stadium-tour-tie-dye-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton Please note: Mineral wash tees may vary in shade
-  Updated: 2026-11-06T22:55:16Z
+  Updated: 2026-11-12T17:30:07Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1001,7 +1001,7 @@
     Availability: Available
     Price: $25.00 USD
 - [2024 Mineral Wash Summer Stadium Tour Tee](https://journeymusic.com/products/2024-mineral-wash-summer-stadium-tour-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton Please note: Mineral wash tees may vary in shade Size Chart Size Body Length (in) Chest Width (in) S 25 16 M 27 18 L 27 1/2 20 XL 28 1/2 22 2XL 29 24 3XL 30 27 1/2
-  Updated: 2026-11-06T21:37:37Z
+  Updated: 2026-11-12T17:30:08Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1025,7 +1025,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Pastel Tie Dye Infinity Wings Tee](https://journeymusic.com/products/2024-pastel-tie-dye-infinity-wings-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton
-  Updated: 2026-11-07T17:28:45Z
+  Updated: 2026-11-15T00:18:06Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1049,7 +1049,7 @@
     Availability: Available
     Price: $45.00 USD
 - [2024 Summer Stadium Tour Raglan](https://journeymusic.com/products/2024-summer-stadium-tour-raglan): Official Journey Merchandise 100% pre-shrunk ring-spun USA cotton
-  Updated: 2026-10-19T21:20:39Z
+  Updated: 2026-11-12T17:30:08Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -1073,14 +1073,14 @@
     Availability: Not Available
     Price: $35.00 USD
 - [2024 Summer Stadium Tour Koozie](https://journeymusic.com/products/2024-summer-stadium-tour-koozie): Official Journey Merchandise 2024 Summer Stadium Tour Koozie Fits 12oz cans + bottles, printed front and back
-  Updated: 2026-10-22T20:35:06Z
+  Updated: 2026-11-12T17:30:08Z
   Vendor: Journey
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/2024SummerStadiumTourKoozie.png?v=1752854824
   Price: $4.00 USD
 - [White Don't Stop Believin' Tee](https://journeymusic.com/products/2024-dont-stop-believin-tee): Official Journey Merchandise 60/40 combed ring-spun cotton/polyester Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 19 M 29 20 1/2 L 30 22 XL 31 24 2XL 32 26 3XL 33 28
-  Updated: 2026-11-06T01:35:29Z
+  Updated: 2026-11-14T18:41:55Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1104,7 +1104,7 @@
     Availability: Available
     Price: $30.00 USD
 - [Cassette Tape Tee | Official Journey Merchandise Store](https://journeymusic.com/products/tape-deck-tee): The fan favorite Journey tee has a classic cassette tape design on the back. Celebrate the hits with this new tee!
-  Updated: 2026-11-07T20:53:36Z
+  Updated: 2026-11-15T00:22:26Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1128,7 +1128,7 @@
     Availability: Available
     Price: $45.00 USD
 - [2024 Summer Stadium San Francisco Event Tee](https://journeymusic.com/products/2024-summer-stadium-sf-event-tee): Official Journey Merchandise 100% pre-shrunk cotton
-  Updated: 2026-11-06T01:35:27Z
+  Updated: 2026-11-12T17:30:09Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1152,7 +1152,7 @@
     Availability: Available
     Price: $25.00 USD
 - [2024 Summer Stadium San Francisco Hoodie](https://journeymusic.com/products/2024-summer-stadium-san-francisco-hoodie): Official Journey Merchandise 80% Ring Spun Cotton / 20% Polyester
-  Updated: 2026-10-05T13:02:39Z
+  Updated: 2026-11-12T17:30:09Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1176,7 +1176,7 @@
     Availability: Not Available
     Price: $50.00 USD
 - [2024 Summer Stadium Event Tee](https://journeymusic.com/products/2024-summer-stadium-event-tee): Official Journey Merchandise 100% pre-shrunk cotton
-  Updated: 2026-11-07T20:53:36Z
+  Updated: 2026-11-14T23:49:17Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1200,131 +1200,131 @@
     Availability: Available
     Price: $25.00 USD
 - [Don't Stop Believin' Zip Hoodie - White](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white): Official Journey Merchandise 65% cotton, 25% recycled polyester, 10% polyester crewneck Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 19 1/2 31 1/2 M 28 21 1/2 32 L 29 23 1/2 32 1/2 XL 30 25 1/2 33 2XL 31 27 1/2 34 1/2 3XL 32 29 1/2 35
-  Updated: 2026-10-26T17:37:56Z
+  Updated: 2026-11-12T17:30:10Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0009_image-_81.png?v=1732136052
   - [S](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424310548)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
   - [M](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424343316)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
   - [L](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424376084)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
   - [XL](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424408852)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
   - [2XL](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424441620)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
   - [3XL](https://journeymusic.com/products/dont-stop-believin-ziphoodie-white?variant=49761424474388)
     Availability: Available
-    Price: $40.00 USD
+    Price: $50.00 USD
 - [Don't Stop Believin' Hoodie - White](https://journeymusic.com/products/dont-stop-believin-hoodie-white): Official Journey Merchandise 65% cotton, 25% recycled polyester, 10% polyester crewneck
-  Updated: 2026-11-05T04:00:11Z
+  Updated: 2026-11-12T17:30:10Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JRNYWhiteDSBHoodie.png?v=1731685508
   - [S](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761509966100)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [M](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761509998868)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [L](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761510031636)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [XL](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761510064404)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [2XL](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761510097172)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
   - [3XL](https://journeymusic.com/products/dont-stop-believin-hoodie-white?variant=49761510129940)
     Availability: Available
-    Price: $45.00 USD
+    Price: $50.00 USD
 - [Don't Stop Believin' Crewneck - White](https://journeymusic.com/products/dont-stop-believin-crewneck-white): Official Journey Merchandise 65% cotton, 25% recycled polyester, 10% polyester crewneck Size Chart Size Body Length (in) Chest Width (in) Sleeve Length (in) S 27 19 1/2 31 1/2 M 28 21 1/2 32 L 29 23 1/2 32 1/2 XL 30 25 1/2 33 2XL 31 27 1/2 34 1/2 3XL 32 29 1/2 35
-  Updated: 2026-10-29T01:02:21Z
+  Updated: 2026-11-12T17:30:10Z
   Vendor: Journey
   Product Type: Crewneck
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0007_image-_83.png?v=1732134470
   - [S](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49761518747924)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [M](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49761518780692)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [L](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49761518813460)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [XL](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49761518846228)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [2XL](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49761518878996)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [3XL](https://journeymusic.com/products/dont-stop-believin-crewneck-white?variant=49782635692308)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
 - [Don't Stop Believin' Socks](https://journeymusic.com/products/dont-stop-believin-socks): Official Journey Merchandise Custom knitted cotton socks
-  Updated: 2026-11-06T15:54:06Z
+  Updated: 2026-11-12T17:30:11Z
   Vendor: Journey
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0003_image-_87_-copy.png?v=1732135094
-  Price: $25.00 USD
+  Price: $20.00 USD
 - [Journey Patch Beanie - Grey Marl](https://journeymusic.com/products/journey-patch-beanie-grey-marl): Official Journey Merchandise 95% acrylic / 5% polyester knitted beanie
-  Updated: 2026-11-06T19:27:58Z
+  Updated: 2026-11-12T17:30:11Z
   Vendor: Journey
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0005_image-_85.png?v=1732136653
   Price: $30.00 USD
 - [Journey Sweatpants](https://journeymusic.com/products/journey-sweatpants): Official Journey Merchandise 80% cotton, 20% recycled polyester sweatpants with drawstring closure Size Chart Size Waist (in) Inseam (in) Outseam (in) S 30 29 39 M 32 30 40 L 34 31 41 XL 36 32 42 2XL 38 33 43 3XL 40 34 44
-  Updated: 2026-10-13T12:44:36Z
+  Updated: 2026-11-12T17:30:11Z
   Vendor: Journey
   Product Type: Sweatpants
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0006_image-_84.png?v=1732136653
   - [S](https://journeymusic.com/products/journey-sweatpants?variant=49761629503764)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [M](https://journeymusic.com/products/journey-sweatpants?variant=49761629536532)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [L](https://journeymusic.com/products/journey-sweatpants?variant=49761629569300)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [XL](https://journeymusic.com/products/journey-sweatpants?variant=49761629602068)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [2XL](https://journeymusic.com/products/journey-sweatpants?variant=49761629634836)
     Availability: Not Available
-    Price: $40.00 USD
+    Price: $45.00 USD
   - [3XL](https://journeymusic.com/products/journey-sweatpants?variant=49782892134676)
     Availability: Available
-    Price: $40.00 USD
+    Price: $45.00 USD
 - [Don't Stop Believin' Tumbler](https://journeymusic.com/products/dont-stop-believin-candle): Official Journey Merchandise 15 oz vacuum insulated tumbler with clear lid, silicone straw
-  Updated: 2026-11-03T06:22:45Z
+  Updated: 2026-11-12T17:30:11Z
   Vendor: Journey
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0002_image-_88.png?v=1732135413
-  Price: $25.00 USD
+  Price: $30.00 USD
 - [Don't Stop Believin' Vanilla Candle](https://journeymusic.com/products/dont-stop-believin-vanilla-candle): Official Journey Merchandise Vanilla-scented 6.3oz candle in a reusable container
-  Updated: 2026-11-03T06:22:41Z
+  Updated: 2026-11-12T17:30:12Z
   Vendor: Journey
   Product Type: Candle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0001_image-_89.png?v=1732136653
-  Price: $20.00 USD
+  Price: $30.00 USD
 - [Small Town Girl Youth Hoodie](https://journeymusic.com/products/small-town-girl-youth-hoodie): Official Journey Merchandise 50% cotton / 50% polyester youth hoodie Size Chart Size Body Length (in) Chest Width (in) Youth S 20 1/2 16 Youth M 23 17 Youth L 25 18 Youth XL 26 1/2 20
-  Updated: 2026-11-05T00:06:06Z
+  Updated: 2026-11-12T17:30:12Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1342,7 +1342,7 @@
     Availability: Available
     Price: $49.00 USD
 - [City Boy Youth Hoodie](https://journeymusic.com/products/city-boy-youth-hoodie): Official Journey Merchandise 50% cotton / 50% polyester youth hoodie Size Chart Size Body Length (in) Chest Width (in) Youth S 20 1/2 16 Youth M 23 17 Youth L 25 18 Youth XL 26 1/2 20
-  Updated: 2026-10-26T23:39:28Z
+  Updated: 2026-11-12T17:30:12Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1360,7 +1360,7 @@
     Availability: Available
     Price: $49.00 USD
 - [Las Vegas Tee](https://journeymusic.com/products/las-vegas-2021-tee): Official Journey Merchandise 100% cotton Size Chart Size Body Length (in) Chest Width (Laid Flat) S 28 18 M 29 20
-  Updated: 2026-10-16T14:40:36Z
+  Updated: 2026-11-12T17:30:12Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1372,7 +1372,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Ladies Las Vegas 2021 Tee](https://journeymusic.com/products/ladies-las-vegas-2021-tee): Official Journey Merchandise 100% cotton
-  Updated: 2026-10-26T23:39:30Z
+  Updated: 2026-11-12T17:30:13Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Not Available
     Price: $25.00 USD
 - [Lollapalooza Varsity Jacket](https://journeymusic.com/products/lollapalooza-varsity-jacket): Official Journey Merchandise
-  Updated: 2026-10-05T13:02:47Z
+  Updated: 2026-11-12T17:30:13Z
   Vendor: Journey
   Product Type: Jacket
   Availability: Available
@@ -1447,7 +1447,7 @@
     Availability: Available
     Price: $225.00 USD
 - [JAPAN 24 Zip Hoodie](https://journeymusic.com/products/japan-24-zip-hoodie): Official Journey Merchandise
-  Updated: 2026-10-26T23:39:28Z
+  Updated: 2026-11-12T17:30:13Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1462,31 +1462,31 @@
     Availability: Available
     Price: $55.00 USD
 - [Las Cruces Event Tee](https://journeymusic.com/products/new-mexico-event-tee): Official Journey Merchandise 100% cotton
-  Updated: 2026-10-05T13:02:49Z
+  Updated: 2026-11-12T17:33:25Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/161332_1_294041_d.png?v=1739397245
   - [S](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915353876)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [M](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915386644)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [L](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915812628)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [XL](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915845396)
     Availability: Not Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [2XL](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915878164)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [3XL](https://journeymusic.com/products/new-mexico-event-tee?variant=50120915910932)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
 - [Lubbock Event Tee](https://journeymusic.com/products/lubbock-event-tee): Official Journey Merchandise 100% cotton
-  Updated: 2026-10-15T03:20:37Z
+  Updated: 2026-11-12T17:30:13Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1507,31 +1507,31 @@
     Availability: Available
     Price: $20.00 USD
 - [Utah Event Tee](https://journeymusic.com/products/utah-event-tee): Official Journey Merchandise 100% cotton
-  Updated: 2026-11-05T18:05:53Z
+  Updated: 2026-11-12T17:33:25Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/161356_1_294122_d.png?v=1739397536
   - [S](https://journeymusic.com/products/utah-event-tee?variant=50120941502740)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [M](https://journeymusic.com/products/utah-event-tee?variant=50120941535508)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [L](https://journeymusic.com/products/utah-event-tee?variant=50120941568276)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [XL](https://journeymusic.com/products/utah-event-tee?variant=50120941601044)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [2XL](https://journeymusic.com/products/utah-event-tee?variant=50120941633812)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
   - [3XL](https://journeymusic.com/products/utah-event-tee?variant=50120941666580)
     Availability: Available
-    Price: $15.00 USD
+    Price: $20.00 USD
 - [2025 Mineral Wash Tee](https://journeymusic.com/products/2025-mineral-wash-tee): The Official Journey Merchandise from the 2025 Tour is now online! Shop while supplies last.
-  Updated: 2026-10-26T23:39:28Z
+  Updated: 2026-11-12T17:30:14Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1555,7 +1555,7 @@
     Availability: Not Available
     Price: $35.00 USD
 - [San Francisco 1973 Tee](https://journeymusic.com/products/san-francisco-1973-tee): Shop this classic 1973 San Francisco tee from the Official Journey Merchandise Shop while supplies last.
-  Updated: 2026-11-06T19:48:26Z
+  Updated: 2026-11-14T15:02:18Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1579,7 +1579,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Infinity Energy Tee](https://journeymusic.com/products/infinity-energy-tee): Shop this classic Infinity Energy Tee from the Official Journey Merchandise Shop while supplies last. The fine jersey cotton is breathable for hot summer days.
-  Updated: 2026-10-18T04:27:32Z
+  Updated: 2026-11-12T17:30:14Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1603,7 +1603,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Infinity Energy Zip Hoodie](https://journeymusic.com/products/infinity-energy-zip-hoodie): Shop the Infinity Energy Zip Hoodie from the Official Journey Merchandise Store. Order while supplies last!
-  Updated: 2026-10-28T14:47:16Z
+  Updated: 2026-11-12T17:30:15Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1627,7 +1627,7 @@
     Availability: Available
     Price: $85.00 USD
 - [Nashville Poster](https://journeymusic.com/products/nashville-poster): Official Journey Merchandise 11 x 17" poster
-  Updated: 2026-10-22T20:20:25Z
+  Updated: 2026-11-12T17:30:15Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
@@ -1639,7 +1639,7 @@
     Availability: Available
     Price: $15.00 USD
 - [Rodeo Denim Jacket](https://journeymusic.com/products/rodeo-denim-jacket): The Levi's Trucker Jacket with custom embroidery from the Houston Rodeo 2025 show is available now!
-  Updated: 2026-10-16T00:00:37Z
+  Updated: 2026-11-12T17:30:15Z
   Vendor: Journey
   Product Type: Jacket
   Availability: Available
@@ -1660,7 +1660,7 @@
     Availability: Available
     Price: $125.00 USD
 - [Houston Event Tee](https://journeymusic.com/products/rodeo-event-tee): Shop this Houston Rodeo event tee from the Official Journey Merchandise Shop while supplies last. The fine jersey cotton is breathable for hot summer days.
-  Updated: 2026-11-07T19:01:56Z
+  Updated: 2026-11-12T17:30:15Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1684,28 +1684,28 @@
     Availability: Not Available
     Price: $20.00 USD
 - [Infinity Energy Pin Pack](https://journeymusic.com/products/infinity-energy-pin-pack): Official Journey Merchandise Set of five Journey pins on a backer card
-  Updated: 2026-11-07T19:37:26Z
+  Updated: 2026-11-15T00:12:12Z
   Vendor: Journey
   Product Type: Pins
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JOURNEYInfinityEnergyPinPack.png?v=1742316182
   Price: $18.00 USD
 - [Infinity Energy Patch](https://journeymusic.com/products/infinity-energy-patch): The perfect Journey patch to go on your denim jacket or tote bag!
-  Updated: 2026-11-07T19:45:06Z
+  Updated: 2026-11-15T00:10:57Z
   Vendor: Journey
   Product Type: Patch
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JOURNEYInfinityEnergyPatch.png?v=1742316345
   Price: $7.00 USD
 - [Campfire Mug](https://journeymusic.com/products/campfire-mug): Official Journey Merchandise Red speckled campfire mug Journey logo on the front 13 oz. Ceramic
-  Updated: 2026-10-27T21:23:37Z
+  Updated: 2026-11-13T00:35:46Z
   Vendor: Journey
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JourneyMug.png?v=1762363064
-  Price: $24.00 USD
+  Price: $30.00 USD
 - [Sherpa Blanket](https://journeymusic.com/products/sherpa-blanket): Official Journey Merchandise Sherpa Blanket with Journey leather patch embroidered on the front 60x50"
-  Updated: 2026-10-27T21:13:55Z
+  Updated: 2026-11-13T18:17:36Z
   Vendor: Journey
   Product Type: Blanket
   Availability: Available
@@ -1719,14 +1719,14 @@
     Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Sherpa-Blanket-Toffee.png?v=1763156314
     Price: $100.00 USD
 - [Fuzzy Socks](https://journeymusic.com/products/fuzzy-socks): Official Journey Merchandise Fuzzy socks with Journey embroidered on the side
-  Updated: 2026-10-26T23:39:28Z
+  Updated: 2026-11-13T18:17:35Z
   Vendor: Journey
   Product Type: Socks
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Fuzzy-Socks.png?v=1763156449
   Price: $30.00 USD
 - [2026 Tour Tee](https://journeymusic.com/products/2026-tour-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-11-08T00:21:27Z
+  Updated: 2026-11-15T00:26:37Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1750,35 +1750,35 @@
     Availability: Available
     Price: $45.00 USD
 - [Embroidered Scarab Dad Hat](https://journeymusic.com/products/embroidered-scarab-dad-hat): Official Journey Merchandise 100% cotton twill, low-profile, pigment-dyed hat
-  Updated: 2026-11-07T03:12:16Z
+  Updated: 2026-11-13T00:43:38Z
   Vendor: Journey
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JourneyDadHat.png?v=1781106653
   Price: $40.00 USD
 - [Embroidered Scarab Trucker Hat](https://journeymusic.com/products/embroidered-scarab-trucker-hat): Official Journey Merchandise colorful scarab from the 2026 tour embroidered on the front structured, five-panel, mid-profile hat in black mesh backing, snapback closure, permacurv® Visor
-  Updated: 2026-11-03T00:33:16Z
+  Updated: 2026-11-14T23:42:16Z
   Vendor: Journey
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Mockup_0004_New-Scarab-Trucker-Hat.png?v=1783017412
   Price: $40.00 USD
 - [Embroidered Journey Snapback Hat](https://journeymusic.com/products/embroidered-journey-snapback-hat): Official Journey Merchandise JOURNEY and infinity scarab embroidered on the front structured, five-panel, mid-profile hat in black snapback closure, permacurv® Visor, cotton blend twill
-  Updated: 2026-11-03T00:36:45Z
+  Updated: 2026-11-12T17:30:17Z
   Vendor: Journey
   Product Type: Hat
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Journey-Snapback-Hat.png?v=1770842730
   Price: $40.00 USD
 - [2026 Tour Koozie](https://journeymusic.com/products/2026-tour-koozie): Official Journey Merchandise Final Frontier koozie Fits 12oz cans + bottles, printed front and back
-  Updated: 2026-11-07T00:44:57Z
+  Updated: 2026-11-15T00:03:56Z
   Vendor: Journey
   Product Type: Drinkware
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Journey_0001_2026-Koozie.png?v=1780500901
   Price: $5.00 USD
 - [Freedom Raglan](https://journeymusic.com/products/freedom-raglan): Official Journey Merchandise 100% pre-shrunk ring-spun USA cotton
-  Updated: 2026-10-05T13:03:01Z
+  Updated: 2026-11-12T17:30:18Z
   Vendor: Journey
   Product Type: Raglan
   Availability: Available
@@ -1802,7 +1802,7 @@
     Availability: Available
     Price: $50.00 USD
 - [Albums Spider Tie-Dye Tee](https://journeymusic.com/products/albums-tie-dye-tee): The Official Journey Merchandise from the 2025 Tour is now online! Shop while supplies last.
-  Updated: 2026-11-08T00:19:16Z
+  Updated: 2026-11-15T00:25:36Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1826,7 +1826,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Natural Don't Stop Believin' Tee](https://journeymusic.com/products/natural-dont-stop-believin-tee): Official Journey Merchandise 100% ring-spun USA premium cotton, pre-shrunk
-  Updated: 2026-10-27T02:49:37Z
+  Updated: 2026-11-13T00:30:03Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1850,7 +1850,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Captured Tee](https://journeymusic.com/products/captured-tee): Official Journey Merchandise 100% ring-spun USA premium cotton, pre-shrunk
-  Updated: 2026-11-02T23:28:55Z
+  Updated: 2026-11-12T17:30:19Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1874,7 +1874,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Evolution Tee](https://journeymusic.com/products/evolution-tee): The Official Journey Merchandise from the 2025 Tour is now online! Shop while supplies last.
-  Updated: 2026-11-07T19:45:06Z
+  Updated: 2026-11-15T00:20:16Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1898,7 +1898,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Departure Mineral Wash Tee](https://journeymusic.com/products/departure-mineral-wash-tee): The Official Journey Merchandise from the 2026 Tour is now online! Shop while supplies last.
-  Updated: 2026-11-07T00:28:56Z
+  Updated: 2026-11-15T00:07:57Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1922,7 +1922,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Albums Zip Hoodie](https://journeymusic.com/products/albums-zip-hoodie): Shop the Infinity Energy Zip Hoodie from the Official Journey Merchandise Store. Order while supplies last!
-  Updated: 2026-11-07T14:45:36Z
+  Updated: 2026-11-13T18:17:37Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -1946,7 +1946,7 @@
     Availability: Available
     Price: $115.00 USD
 - [Frontiers Tee - Coal](https://journeymusic.com/products/frontiers-tee-coal): Official Journey Merchandise 100% ring-spun USA premium cotton, pre-shrunk
-  Updated: 2026-11-02T00:10:55Z
+  Updated: 2026-11-12T17:30:20Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1970,7 +1970,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Frontiers Tee - White](https://journeymusic.com/products/frontiers-tee-white): Official Journey Merchandise 100% ring-spun USA premium cotton, pre-shrunk
-  Updated: 2026-11-06T23:03:52Z
+  Updated: 2026-11-13T00:43:37Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -1994,14 +1994,14 @@
     Availability: Available
     Price: $40.00 USD
 - [Final Frontier Tour Tote](https://journeymusic.com/products/2026-tour-tote): Official Journey Merchandise Jumbo tote with 2026 tour logo on the front 12 oz./yd² (US), 20oz/L yd (CA),100% heavy cotton canvas Bottom gusset 23" canvas webbed handles 10" handle drop
-  Updated: 2026-11-07T11:53:56Z
+  Updated: 2026-11-14T23:51:21Z
   Vendor: Journey Music
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/2026-New-Tote.png?v=1784150756
   Price: $20.00 USD
 - [Final Frontier Mineral Wash Tee](https://journeymusic.com/products/final-frontier-mineral-wash-tee): The Official Journey Merchandise from the 2025 Tour is now online! Shop while supplies last.
-  Updated: 2026-11-07T20:23:55Z
+  Updated: 2026-11-15T00:26:34Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2025,7 +2025,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Scarab Rising Lightweight Hoodie](https://journeymusic.com/products/scarab-rising-pullover-hoodie): Shop the Infinity Energy Zip Hoodie from the Official Journey Merchandise Store. Order while supplies last!
-  Updated: 2026-11-07T13:27:35Z
+  Updated: 2026-11-15T00:17:36Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -2048,46 +2048,22 @@
   - [3X](https://journeymusic.com/products/scarab-rising-pullover-hoodie?variant=52286662705428)
     Availability: Available
     Price: $70.00 USD
-- [2026 Las Vegas Tee](https://journeymusic.com/products/2026-las-vegas-tee): Official Journey Merchandise 100% cotton
-  Updated: 2026-10-22T22:56:36Z
-  Vendor: Journey
-  Product Type: T-Shirt
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/2026-Vegas-Tee.png?v=1777654487
-  - [S](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423618887956)
-    Availability: Not Available
-    Price: $45.00 USD
-  - [M](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423618920724)
-    Availability: Available
-    Price: $45.00 USD
-  - [L](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423622263060)
-    Availability: Available
-    Price: $45.00 USD
-  - [XL](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423622295828)
-    Availability: Available
-    Price: $45.00 USD
-  - [2X](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423622328596)
-    Availability: Available
-    Price: $45.00 USD
-  - [3X](https://journeymusic.com/products/2026-las-vegas-tee?variant=52423622361364)
-    Availability: Available
-    Price: $45.00 USD
 - [Austin Poster](https://journeymusic.com/products/austin-poster): Official Journey Merchandise 12 x 18" poster
-  Updated: 2026-10-16T23:51:26Z
+  Updated: 2026-11-12T17:30:21Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Austin-Poster.png?v=1777656640
   Price: $10.00 USD
 - [2022 Tour Poster](https://journeymusic.com/products/2022-tour-poster): Official Journey Merchandise 12 x 18" poster
-  Updated: 2026-11-06T19:50:21Z
+  Updated: 2026-11-12T17:30:21Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/2022-Tour-Poster.png?v=1777656872
   Price: $10.00 USD
 - [Eternal Flame Final Frontier Tour Tee](https://journeymusic.com/products/eternal-flame-final-frontier-tour-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-11-07T20:53:36Z
+  Updated: 2026-11-15T00:25:36Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2111,7 +2087,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Radio Tee](https://journeymusic.com/products/radio-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-11-07T04:19:38Z
+  Updated: 2026-11-14T23:31:46Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2120,7 +2096,7 @@
     Availability: Available
     Price: $45.00 USD
   - [M](https://journeymusic.com/products/radio-tee?variant=52564175126804)
-    Availability: Available
+    Availability: Not Available
     Price: $45.00 USD
   - [L](https://journeymusic.com/products/radio-tee?variant=52564175159572)
     Availability: Available
@@ -2135,7 +2111,7 @@
     Availability: Available
     Price: $45.00 USD
 - [50th Anniversary Zip Hoodie](https://journeymusic.com/products/50th-anniversary-zip-hoodie): Official Journey Merchandise 70% Cotton/30% Polyester with 100% Cotton
-  Updated: 2026-11-03T06:22:45Z
+  Updated: 2026-11-14T15:50:15Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -2159,14 +2135,14 @@
     Availability: Available
     Price: $55.00 USD
 - [50th Anniversary Scarab Tote](https://journeymusic.com/products/50th-anniversary-scarab-tote): Official Journey Merchandise ﻿100% cotton
-  Updated: 2026-11-06T19:51:56Z
+  Updated: 2026-11-15T00:11:03Z
   Vendor: Journey
   Product Type: Tote
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/0002_Scarab-Tote.png?v=1784753541
-  Price: $15.00 USD
+  Price: $20.00 USD
 - [2024 EU Tour Tee](https://journeymusic.com/products/2024-eu-tour-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton
-  Updated: 2026-11-06T19:55:56Z
+  Updated: 2026-11-12T17:30:22Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2190,7 +2166,7 @@
     Availability: Available
     Price: $25.00 USD
 - [Black Deco Scarab Tee](https://journeymusic.com/products/freedom-tour-scarab-tee): Official Journey Merchandise 100% pre-shrunk heavyweight cotton
-  Updated: 2026-11-05T19:44:56Z
+  Updated: 2026-11-12T17:30:23Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2214,14 +2190,14 @@
     Availability: Available
     Price: $25.00 USD
 - [2026 Fall Tour Poster](https://journeymusic.com/products/2026-fall-tour-poster): Official Journey Merchandise 11 x 17" poster
-  Updated: 2026-11-07T00:14:05Z
+  Updated: 2026-11-14T23:48:18Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Mockup_0000_Journey-Fall-Poster.png?v=1787688313
   Price: $20.00 USD
 - [Colorful Radio Tee](https://journeymusic.com/products/colorful-radio-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-11-07T04:35:26Z
+  Updated: 2026-11-14T08:03:35Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2245,7 +2221,7 @@
     Availability: Available
     Price: $45.00 USD
 - [Black Hawaii Event Tee](https://journeymusic.com/products/black-hawaii-event-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-10-13T19:15:38Z
+  Updated: 2026-11-12T23:54:26Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2269,7 +2245,7 @@
     Availability: Available
     Price: $45.00 USD
 - [White Hawaii Event Tee](https://journeymusic.com/products/white-hawaii-event-tee): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-10-18T07:07:26Z
+  Updated: 2026-11-12T17:30:24Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2293,7 +2269,7 @@
     Availability: Available
     Price: $45.00 USD
 - [White Hawaii Event Hoodie](https://journeymusic.com/products/white-hawaii-event-hoodie): Shop the Infinity Energy Zip Hoodie from the Official Journey Merchandise Store. Order while supplies last!
-  Updated: 2026-11-07T06:35:51Z
+  Updated: 2026-11-12T17:30:24Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -2317,7 +2293,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Black Hawaii Event Hoodie](https://journeymusic.com/products/black-hawaii-event-hoodie): Shop the Infinity Energy Zip Hoodie from the Official Journey Merchandise Store. Order while supplies last!
-  Updated: 2026-10-20T20:48:20Z
+  Updated: 2026-11-12T17:30:24Z
   Vendor: Journey
   Product Type: Hoodie
   Availability: Available
@@ -2341,7 +2317,7 @@
     Availability: Available
     Price: $75.00 USD
 - [Tie Dye Hawaii Tank](https://journeymusic.com/products/tie-dye-hawaii-tank): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-10-11T00:27:32Z
+  Updated: 2026-11-12T17:30:24Z
   Vendor: Journey
   Product Type: Tank Top
   Availability: Available
@@ -2365,21 +2341,21 @@
     Availability: Available
     Price: $45.00 USD
 - [Hawaii Event Poster](https://journeymusic.com/products/hawaii-event-poster): Official Journey Merchandise 11 x 17" poster
-  Updated: 2026-11-07T06:35:50Z
+  Updated: 2026-11-12T17:30:24Z
   Vendor: Journey
   Product Type: Poster
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Journey_0005_Hawaii-Poster_d63854a8-bc5a-4746-a796-37b73b4ffa2c.png?v=1788965326
   Price: $20.00 USD
 - [Cassette Puzzle](https://journeymusic.com/products/cassette-puzzle): 500 piece puzzle with cassette tape design of Journey's greatest hits 18 x 24"
-  Updated: 2026-11-07T01:02:16Z
+  Updated: 2026-11-13T23:54:51Z
   Vendor: Journey
   Product Type: Puzzle
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/Holiday_0001_Journey-Puzzle-B.png?v=1792526855
   Price: $45.00 USD
 - [2026 Tour Tee - Spring Dates](https://journeymusic.com/products/2026-tour-tee-spring-dates): The Official Journey Merchandise from the 2026 Tour is available now! Shop early and avoid the lines.
-  Updated: 2026-11-06T21:55:56Z
+  Updated: 2026-11-15T00:17:57Z
   Vendor: Journey
   Product Type: T-Shirt
   Availability: Available
@@ -2397,80 +2373,92 @@
     Availability: Available
     Price: $40.00 USD
   - [2XL](https://journeymusic.com/products/2026-tour-tee-spring-dates?variant=67766078406932)
-    Availability: Available
+    Availability: Not Available
     Price: $40.00 USD
   - [3XL](https://journeymusic.com/products/2026-tour-tee-spring-dates?variant=67766078439700)
     Availability: Available
     Price: $40.00 USD
-[List Continued](https://journeymusic.com/a/llms-agent/llms.txt?shop=journey-band.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQzNDY2MzkxOTg5MiwibGFzdF92YWx1ZSI6IjE1NDM0NjYzOTE5ODkyIn0%3D)
+- [Build Your Holiday Bundle](https://journeymusic.com/products/build-your-holiday-bundle)
+  Updated: 2026-11-14T10:52:42Z
+  Vendor: Journey Music
+  Product Type: Bundle
+  Availability: Available
+  Image: https://cdn.shopify.com/s/files/1/0508/6229/3187/files/JourneyHolidayOutfit_676cf268-b4e7-41ac-b658-ad3adc2210e9.png?v=1794502923
+  - [Choose 2 - 15% off](https://journeymusic.com/products/build-your-holiday-bundle?variant=68068315070740)
+    Availability: Available
+    Price: $34.00 USD
+  - [Choose 3 - 25% off](https://journeymusic.com/products/build-your-holiday-bundle?variant=68068315103508)
+    Availability: Available
+    Price: $45.00 USD
+[List Continued](https://journeymusic.com/a/llms-agent/llms.txt?shop=journey-band.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjoxNTQ4MTQ5MjUwNDg1MiwibGFzdF92YWx1ZSI6IjE1NDgxNDkyNTA0ODUyIn0%3D)
 
 ## Collections
 
 - [New Merch](https://journeymusic.com/collections/all-products)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 221
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 223
 - [Apparel](https://journeymusic.com/collections/apparel)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 140
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 93
 - [Accessories](https://journeymusic.com/collections/accessories)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 69
 - [Sweatshirts](https://journeymusic.com/collections/sweatshirts)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 21
 - [Hats](https://journeymusic.com/collections/hats)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 24
 - [Featured](https://journeymusic.com/collections/featured)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 9
 - [Tees](https://journeymusic.com/collections/tees)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 87
 - [Raglan Shirts](https://journeymusic.com/collections/raglan-shirts)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 12
 - [Womens](https://journeymusic.com/collections/womens)
   Updated: 2026-09-26T11:04:10Z
   Total Products: 11
 - [Unisex](https://journeymusic.com/collections/unisex)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 30
 - [Youth](https://journeymusic.com/collections/youth)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-13T12:03:36Z
   Total Products: 8
 - [50th Anniversary Collection](https://journeymusic.com/collections/50th-anniversary-collection)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 54
 - [Last Chance](https://journeymusic.com/collections/last-chance)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 63
 - [Holiday Collection](https://journeymusic.com/collections/holiday-collection)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 29
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 15
 - [Featured](https://journeymusic.com/collections/featured-1)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 51
 - [2024 Tour Merch](https://journeymusic.com/collections/2024-tour-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 49
 - [All](https://journeymusic.com/collections/all)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 126
 - [Evolution Anniversary](https://journeymusic.com/collections/evolution-anniversary)
-  Updated: 2026-11-06T12:04:18Z
+  Updated: 2026-11-08T12:05:35Z
   Total Products: 6
 - [2024 Summer Stadium Tour Merch](https://journeymusic.com/collections/2024-summer-stadium-tour-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 16
 - [End of Summer ](https://journeymusic.com/collections/end-of-summer-)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 71
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 74
 - [Classics](https://journeymusic.com/collections/classics)
-  Updated: 2026-11-05T12:05:55Z
+  Updated: 2026-11-11T12:05:08Z
   Total Products: 18
 - [All Tour Merch](https://journeymusic.com/collections/all-tour-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 72
 - [$20.24](https://journeymusic.com/collections/20-24)
   Updated: 2026-06-22T21:07:20Z
@@ -2479,40 +2467,40 @@
   Updated: 2026-10-06T11:04:20Z
   Total Products: 5
 - [EasyGift All Products](https://journeymusic.com/collections/easygift-all-products): EasyGift all products collection
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 221
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 223
 - [2025 Tour Merch](https://journeymusic.com/collections/2025-tour-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 11
 - [Rodeo Event Merchandise](https://journeymusic.com/collections/rodeo-event-merchandise): 50% OFF + FREE SHIPPING ON RODEO MERCH FOR A LIMITED TIME ONLY! *Free shipping is valid only on Rodeo Event Tee and Jacket. All other merchandise in your order will incur a shipping charge. 50% off  shown in cart.
   Updated: 2026-10-06T11:04:20Z
   Total Products: 1
 - [Best Sellers](https://journeymusic.com/collections/best-sellers)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 21
 - [Outerwear](https://journeymusic.com/collections/outerwear)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 26
 - [Event Merch](https://journeymusic.com/collections/event-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 17
 - [Black Friday ](https://journeymusic.com/collections/black-friday-)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 119
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 117
 - [Stocking Stuffers](https://journeymusic.com/collections/stocking-stuffers)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 13
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 10
 - [Final Frontier](https://journeymusic.com/collections/2026-tour)
-  Updated: 2026-11-07T12:04:54Z
-  Total Products: 29
+  Updated: 2026-11-14T12:05:49Z
+  Total Products: 30
 - [Vegas Collection](https://journeymusic.com/collections/vegas-collection): Shop the official Vegas collection for ladies and unisex styles.
-  Updated: 2026-10-23T11:05:14Z
+  Updated: 2026-11-11T21:39:54Z
   Total Products: 3
 - [2 FOR $50 ](https://journeymusic.com/collections/independence-day-)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-14T12:05:49Z
   Total Products: 36
 - [Hawaii Event Merch](https://journeymusic.com/collections/hawaii-event-merch)
-  Updated: 2026-11-07T12:04:54Z
+  Updated: 2026-11-13T12:03:36Z
   Total Products: 6
 
 ## Blogs
