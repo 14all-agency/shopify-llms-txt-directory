@@ -6,12 +6,12 @@
 - Timezone: Europe/Paris
 - Created At: 2021-12-17T16:53:59Z
 - Contact Email: solarvision.shop@gmail.com
-- Updated At: 2026-11-07T00:27:19.304Z
+- Updated At: 2026-11-15T00:22:58.434Z
 
 ## Products
 
 - [Lunettes de soleil AMSTERDAM | Solar Vision](https://solarvision.fr/products/amsterdam): Lunettes de soleil AMSTERDAM Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:34Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -33,7 +33,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/amsterdam-solar-vision-4.jpg?v=1792276365
     Price: 100,00 € EUR
 - [Lunettes de soleil JAIPUR | Solar Vision](https://solarvision.fr/products/jaipur): Lunettes de soleil JAIPUR Solar Vision. Coloris disponibles : Noir, Bleu, Gris, Rose, Vert, Orange.
-  Updated: 2026-11-06T16:56:51Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -63,7 +63,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/jaipur-solar-vision-6.jpg?v=1792276365
     Price: 99,00 € EUR
 - [Lunettes de soleil MALDIVES | Solar Vision](https://solarvision.fr/products/maldives): Lunettes de soleil MALDIVES Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:57Z
+  Updated: 2026-11-12T01:07:49Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -84,20 +84,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/maldives-solar-vision-2.jpg?v=1792276397
     Price: 69,00 € EUR
-  - [Rose / Bleu](https://solarvision.fr/products/maldives?variant=46810501873992)
+  - [Violet](https://solarvision.fr/products/maldives?variant=46810501873992)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/maldives-solar-vision-6.jpg?v=1792276397
     Price: 69,00 € EUR
-  - [Vert / Or](https://solarvision.fr/products/maldives?variant=46810501906760)
+  - [Vert](https://solarvision.fr/products/maldives?variant=46810501906760)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/maldives-solar-vision-4.jpg?v=1792276397
     Price: 69,00 € EUR
-  - [Bleu / Or](https://solarvision.fr/products/maldives?variant=46810501939528)
+  - [Bleu](https://solarvision.fr/products/maldives?variant=46810501939528)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/maldives-solar-vision-7.jpg?v=1792276397
     Price: 69,00 € EUR
 - [Lunettes de soleil ANKARA | Solar Vision](https://solarvision.fr/products/ankara): Lunettes de soleil ANKARA Solar Vision. Coloris disponibles : Vert, Bordeaux, Brun, Noir, Havane.
-  Updated: 2026-11-06T16:56:49Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -118,7 +118,7 @@
     Availability: Available
     Price: 89,00 € EUR
 - [Lunettes de soleil MILAN | Solar Vision](https://solarvision.fr/products/milan): Lunettes de soleil MILAN Solar Vision : monture aviateur. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:07Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -140,7 +140,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/milan-solar-vision.jpg?v=1792276418
     Price: 99,00 € EUR
 - [Lunettes de soleil MELBOURNE | Solar Vision](https://solarvision.fr/products/melbourne): Lunettes de soleil MELBOURNE Solar Vision. Coloris disponibles : Vert, Havane, Brun, Noir.
-  Updated: 2026-11-06T16:56:51Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -158,7 +158,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Lunettes de soleil ABU DHABI | Solar Vision](https://solarvision.fr/products/abu-dhabi): Lunettes de soleil ABU DHABI Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:34Z
+  Updated: 2026-11-13T10:11:53Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -175,12 +175,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/abu-dhabi-solar-vision.jpg?v=1792276441
     Price: 69,00 € EUR
-  - [Vert / Or](https://solarvision.fr/products/abu-dhabi?variant=46810494402888)
+  - [Vert](https://solarvision.fr/products/abu-dhabi?variant=46810494402888)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/abu-dhabi-solar-vision-4.jpg?v=1792276467
     Price: 69,00 € EUR
 - [Lunettes de soleil ATHÈNES | Solar Vision](https://solarvision.fr/products/athenes): Lunettes de soleil ATHÈNES Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:35Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -195,7 +195,7 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Lunettes de soleil ABIDJAN | Solar Vision](https://solarvision.fr/products/abidjan): Lunettes de soleil ABIDJAN Solar Vision : monture ovale en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:33Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -216,7 +216,7 @@
     Availability: Available
     Price: 120,00 € EUR
 - [Lunettes de soleil BALI | Solar Vision](https://solarvision.fr/products/bali): Lunettes de soleil BALI Solar Vision : monture œil de chat en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:35Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -238,7 +238,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bali-solar-vision-4.jpg?v=1792276488
     Price: 99,00 € EUR
 - [Lunettes de soleil CUBA | Solar Vision](https://solarvision.fr/products/cuba): Lunettes de soleil CUBA Solar Vision : monture ovale en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:44Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -260,7 +260,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/cuba-solar-vision-4.jpg?v=1792276488
     Price: 99,00 € EUR
 - [Lunettes de soleil DAKAR | Solar Vision](https://solarvision.fr/products/dakar): Lunettes de soleil DAKAR Solar Vision : monture ovale en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:44Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -282,7 +282,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dakar-solar-vision-4.jpg?v=1792276509
     Price: 89,00 € EUR
 - [Lunettes de soleil DOHA | Solar Vision](https://solarvision.fr/products/doha): Lunettes de soleil DOHA Solar Vision. Coloris disponibles : Brun, Noir, Havane, Gris.
-  Updated: 2026-11-06T16:56:50Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -300,7 +300,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Lunettes de soleil DUBAÏ | Solar Vision](https://solarvision.fr/products/dubai): Lunettes de soleil DUBAÏ Solar Vision : monture carré. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:45Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -325,16 +325,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dubai-solar-vision-4.jpg?v=1792276529
     Price: 99,00 € EUR
-  - [Bleu Nuit](https://solarvision.fr/products/dubai?variant=54146729083208)
+  - [Bleu nuit](https://solarvision.fr/products/dubai?variant=54146729083208)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dubai-solar-vision-6.jpg?v=1792276529
     Price: 99,00 € EUR
 - [Lunettes de soleil MEXICO | Solar Vision](https://solarvision.fr/products/mexico): Lunettes de soleil MEXICO Solar Vision : monture aviateur. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:06Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision.jpg?v=1792276529
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision-3.jpg?v=1792276529
+  - [Gris](https://solarvision.fr/products/mexico?variant=52403842056520)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision-3.jpg?v=1792276529
+    Price: 160,00 € EUR
   - [Noir](https://solarvision.fr/products/mexico?variant=42218290446548)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision.jpg?v=1792276529
@@ -343,34 +347,30 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision-2.jpg?v=1792276529
     Price: 160,00 € EUR
-  - [Gris](https://solarvision.fr/products/mexico?variant=52403842056520)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mexico-solar-vision-3.jpg?v=1792276529
-    Price: 160,00 € EUR
 - [Lunettes de soleil SANTIAGO | Solar Vision](https://solarvision.fr/products/santiago): Lunettes de soleil SANTIAGO Solar Vision. Coloris disponibles : Noir, Brun, Beige, Gris.
-  Updated: 2026-11-06T16:56:53Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision.jpg?v=1792276529
-  - [Noir](https://solarvision.fr/products/santiago?variant=53589400420680)
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-4.jpg?v=1792276529
+  - [Gris](https://solarvision.fr/products/santiago?variant=53589400518984)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision.jpg?v=1792276529
-    Price: 89,00 € EUR
-  - [Brun](https://solarvision.fr/products/santiago?variant=53589400453448)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-2.jpg?v=1792276529
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-4.jpg?v=1792276529
     Price: 89,00 € EUR
   - [Beige](https://solarvision.fr/products/santiago?variant=53589400486216)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-3.jpg?v=1792276529
     Price: 89,00 € EUR
-  - [Gris](https://solarvision.fr/products/santiago?variant=53589400518984)
+  - [Brun](https://solarvision.fr/products/santiago?variant=53589400453448)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-4.jpg?v=1792276529
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision-2.jpg?v=1792276529
+    Price: 89,00 € EUR
+  - [Noir](https://solarvision.fr/products/santiago?variant=53589400420680)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/santiago-solar-vision.jpg?v=1792276529
     Price: 89,00 € EUR
 - [Lunettes de soleil MONACO | Solar Vision](https://solarvision.fr/products/monaco): Lunettes de soleil MONACO Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:07Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -392,19 +392,11 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/monaco-solar-vision-4.jpg?v=1792276549
     Price: 69,00 € EUR
 - [Lunettes de soleil VENISE | Solar Vision](https://solarvision.fr/products/venise): Lunettes de soleil VENISE Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:27Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision.jpg?v=1792276549
-  - [Noir](https://solarvision.fr/products/venise?variant=54067222675784)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision.jpg?v=1792276549
-    Price: 149,00 € EUR
-  - [Brun](https://solarvision.fr/products/venise?variant=54067222708552)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision-2.jpg?v=1792276549
-    Price: 149,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision-3.jpg?v=1792276549
   - [Bordeaux](https://solarvision.fr/products/venise?variant=54067222741320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision-3.jpg?v=1792276549
@@ -413,8 +405,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision-4.jpg?v=1792276549
     Price: 149,00 € EUR
+  - [Brun](https://solarvision.fr/products/venise?variant=54067222708552)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision-2.jpg?v=1792276549
+    Price: 149,00 € EUR
+  - [Noir](https://solarvision.fr/products/venise?variant=54067222675784)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/venise-solar-vision.jpg?v=1792276549
+    Price: 149,00 € EUR
 - [Lunettes de soleil PATRAS | Solar Vision](https://solarvision.fr/products/patras): Lunettes de soleil PATRAS Solar Vision. Coloris disponibles : Noir, Havane.
-  Updated: 2026-11-06T16:56:53Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -428,7 +428,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25273.jpg?v=1793568999
     Price: 89,00 € EUR
 - [Lunettes de soleil BARI | Solar Vision](https://solarvision.fr/products/bari): Lunettes de soleil BARI Solar Vision : monture rectangle en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:36Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -442,7 +442,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bari-solar-vision-2.jpg?v=1792276572
     Price: 69,00 € EUR
 - [Lunettes de soleil MARBELLA | Solar Vision](https://solarvision.fr/products/marbella): Lunettes de soleil MARBELLA Solar Vision : monture œil de chat. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:58Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -464,7 +464,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/marbella-solar-vision-4.jpg?v=1792276573
     Price: 89,00 € EUR
 - [Lunettes de soleil PALMA | Solar Vision](https://solarvision.fr/products/palma): Lunettes de soleil PALMA Solar Vision : monture œil de chat. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:14Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -482,7 +482,7 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Lunettes de soleil PARIS | Solar Vision](https://solarvision.fr/products/paris): Lunettes de soleil PARIS Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:16Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -520,21 +520,21 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/paris-solar-vision-8.jpg?v=1792276613
     Price: 99,00 € EUR
 - [Lunettes de soleil CALI | Solar Vision](https://solarvision.fr/products/cali): Lunettes de soleil CALI Solar Vision. Coloris disponibles : Havane, Noir.
-  Updated: 2026-11-06T16:56:50Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25262.jpg?v=1793568269
-  - [Havane](https://solarvision.fr/products/cali?variant=54476553683272)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25261.jpg?v=1793568371
-    Price: 89,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25261.jpg?v=1793568371
   - [Noir](https://solarvision.fr/products/cali?variant=54476553650504)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25262.jpg?v=1793568269
     Price: 89,00 € EUR
+  - [Havane](https://solarvision.fr/products/cali?variant=54476553683272)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25261.jpg?v=1793568371
+    Price: 89,00 € EUR
 - [Lunettes de soleil CARACAS | Solar Vision](https://solarvision.fr/products/caracas): Lunettes de soleil CARACAS Solar Vision : monture ovale en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:43Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -560,7 +560,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/caracas-solar-vision-3.jpg?v=1792276631
     Price: 130,00 € EUR
 - [Lunettes de soleil LONDRES | Solar Vision](https://solarvision.fr/products/londres): Lunettes de soleil LONDRES Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:55Z
+  Updated: 2026-11-13T10:11:07Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -569,7 +569,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/londres-solar-vision-3.jpg?v=1792276632
     Price: 89,00 € EUR
-  - [Gris - Rose](https://solarvision.fr/products/londres?variant=52374290956616)
+  - [Violet](https://solarvision.fr/products/londres?variant=52374290956616)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/londres-solar-vision.jpg?v=1792276632
     Price: 89,00 € EUR
@@ -582,18 +582,18 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/londres-solar-vision-2.jpg?v=1792276632
     Price: 89,00 € EUR
 - [Lunettes de soleil NAPLES | Solar Vision](https://solarvision.fr/products/naples): Lunettes de soleil NAPLES Solar Vision. Coloris disponibles : Noir, Beige, Havane, Brun.
-  Updated: 2026-11-06T16:56:52Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision.jpg?v=1792276632
-  - [Noir](https://solarvision.fr/products/naples?variant=42218251747540)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision.jpg?v=1792276632
-    Price: 120,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision-2.jpg?v=1792276632
   - [Beige](https://solarvision.fr/products/naples?variant=53317989695816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision-2.jpg?v=1792276632
+    Price: 120,00 € EUR
+  - [Noir](https://solarvision.fr/products/naples?variant=42218251747540)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision.jpg?v=1792276632
     Price: 120,00 € EUR
   - [Havane](https://solarvision.fr/products/naples?variant=53317989728584)
     Availability: Available
@@ -604,7 +604,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/naples-solar-vision-4.jpg?v=1792276647
     Price: 120,00 € EUR
 - [Lunettes de soleil MADRID | Solar Vision](https://solarvision.fr/products/madrid): Lunettes de soleil MADRID Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:56Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -634,7 +634,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/madrid-solar-vision.jpg?v=1792276647
     Price: 99,00 € EUR
 - [Lunettes de soleil MALAGA | Solar Vision](https://solarvision.fr/products/malaga): Lunettes de soleil MALAGA Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:56Z
+  Updated: 2026-11-13T10:11:02Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -651,7 +651,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/malaga-solar-vision-2.jpg?v=1792276647
     Price: 89,00 € EUR
-  - [Burgundy](https://solarvision.fr/products/malaga?variant=53321961767240)
+  - [Bordeaux](https://solarvision.fr/products/malaga?variant=53321961767240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/malaga-solar-vision-5.jpg?v=1792276667
     Price: 89,00 € EUR
@@ -664,7 +664,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/malaga-solar-vision-3.jpg?v=1792276647
     Price: 89,00 € EUR
 - [Lunettes de soleil LIMA | Solar Vision](https://solarvision.fr/products/lima): Lunettes de soleil LIMA Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:55Z
+  Updated: 2026-11-12T01:08:34Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -677,7 +677,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lima-solar-vision-2.jpg?v=1792276668
     Price: 69,00 € EUR
-  - [Bleu / Or](https://solarvision.fr/products/lima?variant=43571267764436)
+  - [Or](https://solarvision.fr/products/lima?variant=43571267764436)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lima-solar-vision-3.jpg?v=1792276668
     Price: 69,00 € EUR
@@ -694,7 +694,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lima-solar-vision.jpg?v=1792276667
     Price: 69,00 € EUR
 - [Lunettes de soleil PANAMA | Solar Vision](https://solarvision.fr/products/panama): Lunettes de soleil PANAMA Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:15Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -712,7 +712,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/panama-solar-vision-3.jpg?v=1792276687
     Price: 69,00 € EUR
 - [Lunettes de soleil ROSARIO | Solar Vision](https://solarvision.fr/products/rosario): Lunettes de soleil ROSARIO Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:19Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -730,7 +730,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rosario-solar-vision-2.jpg?v=1792276687
     Price: 69,00 € EUR
 - [Lunettes de soleil PARANÁ | Solar Vision](https://solarvision.fr/products/parana): Lunettes de soleil PARANÁ Solar Vision : monture ovale en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:16Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -748,7 +748,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parana-solar-vision-3.jpg?v=1792276687
     Price: 69,00 € EUR
 - [Lunettes de soleil MANCHESTER | Solar Vision](https://solarvision.fr/products/manchester): Lunettes de soleil MANCHESTER Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:57Z
+  Updated: 2026-11-11T20:35:01Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -761,7 +761,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manchester-solar-vision.jpg?v=1792276687
     Price: 89,00 € EUR
-  - [Bleu Nuit](https://solarvision.fr/products/manchester?variant=52403939017032)
+  - [Bleu nuit](https://solarvision.fr/products/manchester?variant=52403939017032)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manchester-solar-vision-3.jpg?v=1792276713
     Price: 89,00 € EUR
@@ -770,7 +770,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manchester-solar-vision-2.jpg?v=1792276687
     Price: 89,00 € EUR
 - [Lunettes de soleil NAIROBI | Solar Vision](https://solarvision.fr/products/nairobi): Lunettes de soleil NAIROBI Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:09Z
+  Updated: 2026-11-13T10:10:41Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -791,12 +791,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/nairobi-solar-vision-4.jpg?v=1792276713
     Price: 69,00 € EUR
-  - [Crystal Brun](https://solarvision.fr/products/nairobi?variant=43571295518932)
+  - [Brun](https://solarvision.fr/products/nairobi?variant=43571295518932)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/nairobi-solar-vision-5.jpg?v=1792276713
     Price: 69,00 € EUR
 - [Lunettes de soleil NAGOYA | Solar Vision](https://solarvision.fr/products/nagoya): Lunettes de soleil NAGOYA Solar Vision : monture aviateur en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:09Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -810,7 +810,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/nagoya-solar-vision-2.jpg?v=1792276713
     Price: 69,00 € EUR
 - [Lunettes de soleil MOSCOU | Solar Vision](https://solarvision.fr/products/moscou): Lunettes de soleil MOSCOU Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:08Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -828,7 +828,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/moscou-solar-vision-3.jpg?v=1792276731
     Price: 69,00 € EUR
 - [Lunettes de soleil MADRAS | Solar Vision](https://solarvision.fr/products/madras): Lunettes de soleil MADRAS Solar Vision : monture aviateur en acétate, métal. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:56Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -846,7 +846,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/madras-solar-vision-3.jpg?v=1792276731
     Price: 120,00 € EUR
 - [Lunettes de soleil OTARU | Solar Vision](https://solarvision.fr/products/otaru): Lunettes de soleil OTARU Solar Vision : monture œil de chat en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:12Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -861,18 +861,18 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Lunettes de soleil OITA | Solar Vision](https://solarvision.fr/products/oita): Lunettes de soleil OITA Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:11Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oita-solar-vision.jpg?v=1792276731
-  - [Noir](https://solarvision.fr/products/oita?variant=43571307774164)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oita-solar-vision.jpg?v=1792276731
-    Price: 89,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oita-solar-vision-2.jpg?v=1792276731
   - [Brun](https://solarvision.fr/products/oita?variant=53317912691016)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oita-solar-vision-2.jpg?v=1792276731
+    Price: 89,00 € EUR
+  - [Noir](https://solarvision.fr/products/oita?variant=43571307774164)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oita-solar-vision.jpg?v=1792276731
     Price: 89,00 € EUR
   - [Gris](https://solarvision.fr/products/oita?variant=53317912723784)
     Availability: Available
@@ -882,29 +882,29 @@
     Availability: Available
     Price: 89,00 € EUR
 - [Lunettes de soleil MANILLE | Solar Vision](https://solarvision.fr/products/manille): Lunettes de soleil MANILLE Solar Vision : monture œil de chat, œil de chat en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:58Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision.jpg?v=1792276752
-  - [Bleu](https://solarvision.fr/products/manille?variant=54138480656712)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision-4.jpg?v=1792276752
-    Price: 149,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision-3.jpg?v=1792276752
   - [Gris](https://solarvision.fr/products/manille?variant=54138480623944)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision-3.jpg?v=1792276752
     Price: 149,00 € EUR
-  - [Noir](https://solarvision.fr/products/manille?variant=43571309674708)
+  - [Bleu](https://solarvision.fr/products/manille?variant=54138480656712)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision.jpg?v=1792276752
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision-4.jpg?v=1792276752
     Price: 149,00 € EUR
   - [Havane](https://solarvision.fr/products/manille?variant=54138480591176)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision-2.jpg?v=1792276752
     Price: 149,00 € EUR
+  - [Noir](https://solarvision.fr/products/manille?variant=43571309674708)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/manille-solar-vision.jpg?v=1792276752
+    Price: 149,00 € EUR
 - [Lunettes de soleil VALENCE | Solar Vision](https://solarvision.fr/products/valence): Lunettes de soleil VALENCE Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:27Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -926,7 +926,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/valence-solar-vision-4.jpg?v=1792276752
     Price: 99,00 € EUR
 - [Lunettes de soleil SATURNE | Solar Vision](https://solarvision.fr/products/saturne): Lunettes de soleil SATURNE Solar Vision. Coloris disponibles : Noir, Brun, Bleu, Rose, Vert.
-  Updated: 2026-11-06T16:56:54Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -952,7 +952,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/saturne-solar-vision-4.jpg?v=1792276778
     Price: 139,00 € EUR
 - [Lunettes de soleil VENUS | Solar Vision](https://solarvision.fr/products/venus): Lunettes de soleil VENUS Solar Vision. Coloris disponibles : Noir, Orange.
-  Updated: 2026-11-06T16:56:55Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -966,25 +966,25 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/venus-solar-vision-2.jpg?v=1792276778
     Price: 69,00 € EUR
 - [Lunettes de soleil URANUS | Solar Vision](https://solarvision.fr/products/uranus): Lunettes de soleil URANUS Solar Vision. Coloris disponibles : Bleu / Rose, Gris / Rose, Bleu Nuit.
-  Updated: 2026-11-06T16:56:54Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/uranus-solar-vision.jpg?v=1792276778
-  - [Bleu / Rose](https://solarvision.fr/products/uranus?variant=43571314098388)
+  - [Bleu](https://solarvision.fr/products/uranus?variant=43571314098388)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/uranus-solar-vision-3.jpg?v=1792276779
     Price: 69,00 € EUR
-  - [Gris / Rose](https://solarvision.fr/products/uranus?variant=43571314131156)
+  - [Gris](https://solarvision.fr/products/uranus?variant=43571314131156)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/uranus-solar-vision-2.jpg?v=1792276778
     Price: 69,00 € EUR
-  - [Bleu Nuit](https://solarvision.fr/products/uranus?variant=43571314163924)
+  - [Bleu nuit](https://solarvision.fr/products/uranus?variant=43571314163924)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/uranus-solar-vision.jpg?v=1792276778
     Price: 69,00 € EUR
 - [Lunettes de soleil BARCELONE | Solar Vision](https://solarvision.fr/products/barcelone): Lunettes de soleil BARCELONE Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:36Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1006,7 +1006,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/barcelone-solar-vision-4.jpg?v=1792276799
     Price: 69,00 € EUR
 - [Lunettes de soleil TAÏWAN | Solar Vision](https://solarvision.fr/products/taiwan-2): Lunettes de soleil TAÏWAN Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:24Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1040,33 +1040,33 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taiwan-solar-vision-7.jpg?v=1792276827
     Price: 69,00 € EUR
 - [Lunettes de soleil TAIPEI | Solar Vision](https://solarvision.fr/products/taipei-2): Lunettes de soleil TAIPEI Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:24Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision.jpg?v=1792276827
-  - [Or / Rose / Bois](https://solarvision.fr/products/taipei-2?variant=43571321569492)
+  - [Or / Bois](https://solarvision.fr/products/taipei-2?variant=43571321569492)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision.jpg?v=1792276827
     Price: 69,00 € EUR
-  - [Bleu / Rose / Bois](https://solarvision.fr/products/taipei-2?variant=43571321503956)
+  - [Bleu / Bois](https://solarvision.fr/products/taipei-2?variant=43571321503956)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision-5.jpg?v=1792276827
     Price: 69,00 € EUR
-  - [Gris / Rose / Bois](https://solarvision.fr/products/taipei-2?variant=43571321602260)
+  - [Gris / Bois](https://solarvision.fr/products/taipei-2?variant=43571321602260)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision-2.jpg?v=1792276827
     Price: 69,00 € EUR
-  - [Vert / Rose / Bois](https://solarvision.fr/products/taipei-2?variant=43582536581332)
+  - [Vert / Bois](https://solarvision.fr/products/taipei-2?variant=43582536581332)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision-4.jpg?v=1792276827
     Price: 69,00 € EUR
-  - [Violet / Brun / Bois](https://solarvision.fr/products/taipei-2?variant=43571321536724)
+  - [Violet / Bois](https://solarvision.fr/products/taipei-2?variant=43571321536724)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/taipei-solar-vision-3.jpg?v=1792276827
     Price: 69,00 € EUR
 - [Lunettes de soleil BURSA | Solar Vision](https://solarvision.fr/products/bursa): Lunettes de soleil BURSA Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:39Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1088,7 +1088,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bursa-solar-vision-4.jpg?v=1792276827
     Price: 149,00 € EUR
 - [Lunettes de soleil JAKARTA | Solar Vision](https://solarvision.fr/products/jakarta): Lunettes de soleil JAKARTA Solar Vision : monture œil de chat en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:49Z
+  Updated: 2026-11-13T10:11:15Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1101,12 +1101,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/jakarta-solar-vision-2.jpg?v=1792276848
     Price: 69,00 € EUR
-  - [Gris Métallisé](https://solarvision.fr/products/jakarta?variant=43571324616916)
+  - [Gris](https://solarvision.fr/products/jakarta?variant=43571324616916)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/products/jakarta-solar-vision-3.jpg?v=1792276849
     Price: 69,00 € EUR
 - [Lunettes de soleil HAIKOU | Solar Vision](https://solarvision.fr/products/haikou): Lunettes de soleil HAIKOU Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:47Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1128,7 +1128,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/haikou-solar-vision-4.jpg?v=1792276849
     Price: 99,00 € EUR
 - [Lunettes de soleil HAINAN | Solar Vision](https://solarvision.fr/products/hainan): Lunettes de soleil HAINAN Solar Vision. Coloris disponibles : Noir, Havane, Gris, Beige.
-  Updated: 2026-11-06T16:56:50Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1150,19 +1150,11 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/hainan-solar-vision-2.jpg?v=1792276849
     Price: 99,00 € EUR
 - [Lunettes de soleil PORTO | Solar Vision](https://solarvision.fr/products/porto): Lunettes de soleil PORTO Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:17Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision.jpg?v=1792276875
-  - [Noir](https://solarvision.fr/products/porto?variant=52444959605064)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision.jpg?v=1792276875
-    Price: 89,00 € EUR
-  - [Bleu](https://solarvision.fr/products/porto?variant=52444829253960)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision-3.jpg?v=1792276875
-    Price: 89,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision-4.jpg?v=1792276875
   - [Brun](https://solarvision.fr/products/porto?variant=52444829286728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision-4.jpg?v=1792276875
@@ -1171,8 +1163,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision-2.jpg?v=1792276875
     Price: 89,00 € EUR
+  - [Bleu](https://solarvision.fr/products/porto?variant=52444829253960)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision-3.jpg?v=1792276875
+    Price: 89,00 € EUR
+  - [Noir](https://solarvision.fr/products/porto?variant=52444959605064)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porto-solar-vision.jpg?v=1792276875
+    Price: 89,00 € EUR
 - [Lunettes de soleil ANTALYA | Solar Vision](https://solarvision.fr/products/antalya): Lunettes de soleil ANTALYA Solar Vision : monture aviateur en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:34Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1189,7 +1189,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/antalya-solar-vision-5.jpg?v=1792276876
     Price: 69,00 € EUR
-  - [Bleu Nuit / Homme](https://solarvision.fr/products/antalya?variant=46810384597320)
+  - [Bleu nuit / Homme](https://solarvision.fr/products/antalya?variant=46810384597320)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/antalya-solar-vision-2.jpg?v=1792276876
     Price: 69,00 € EUR
@@ -1202,7 +1202,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/antalya-solar-vision-3.jpg?v=1792276876
     Price: 69,00 € EUR
 - [Lunettes de soleil ATLANTA | Solar Vision](https://solarvision.fr/products/atlanta): Lunettes de soleil ATLANTA Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:35Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1228,7 +1228,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/atlanta-solar-vision-5.jpg?v=1792276903
     Price: 149,00 € EUR
 - [Lunettes de soleil BRASILIA | Solar Vision](https://solarvision.fr/products/brasilia): Lunettes de soleil BRASILIA Solar Vision : monture œil de chat, carré, œil de chat en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:38Z
+  Updated: 2026-11-13T10:11:37Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1237,7 +1237,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/brasilia-solar-vision-4.jpg?v=1792276903
     Price: 69,00 € EUR
-  - [Crystal Brun](https://solarvision.fr/products/brasilia?variant=46810477199688)
+  - [Brun](https://solarvision.fr/products/brasilia?variant=46810477199688)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/brasilia-solar-vision-2.jpg?v=1792276903
     Price: 69,00 € EUR
@@ -1250,7 +1250,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/brasilia-solar-vision.jpg?v=1792276903
     Price: 69,00 € EUR
 - [Lunettes de soleil BROOKLYN | Solar Vision](https://solarvision.fr/products/brooklyn): Lunettes de soleil BROOKLYN Solar Vision : monture rectangle en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:38Z
+  Updated: 2026-11-13T10:11:29Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1271,12 +1271,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/brooklyn-solar-vision-4.jpg?v=1792276929
     Price: 69,00 € EUR
-  - [Crystal Gris](https://solarvision.fr/products/brooklyn?variant=46810482245960)
+  - [Gris](https://solarvision.fr/products/brooklyn?variant=46810482245960)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/brooklyn-solar-vision.jpg?v=1792276929
     Price: 69,00 € EUR
 - [Lunettes de soleil CANCÚN | Solar Vision](https://solarvision.fr/products/cancun): Lunettes de soleil CANCÚN Solar Vision : monture rond en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:40Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1318,7 +1318,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/cancun-solar-vision-4.jpg?v=1792276929
     Price: 69,00 € EUR
 - [Lunettes de soleil DALLAS | Solar Vision](https://solarvision.fr/products/dallas): Lunettes de soleil DALLAS Solar Vision : monture aviateur en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:45Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1336,7 +1336,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dallas-solar-vision-3.jpg?v=1792276953
     Price: 69,00 € EUR
 - [Lunettes de soleil HOUSTON | Solar Vision](https://solarvision.fr/products/houston): Lunettes de soleil HOUSTON Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:48Z
+  Updated: 2026-11-13T10:11:21Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1349,12 +1349,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/houston-solar-vision-2.jpg?v=1792276953
     Price: 69,00 € EUR
-  - [Crystal Brun](https://solarvision.fr/products/houston?variant=46810489127240)
+  - [Brun](https://solarvision.fr/products/houston?variant=46810489127240)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/houston-solar-vision-3.jpg?v=1792276953
     Price: 69,00 € EUR
 - [Lunettes de soleil IBIZA | Solar Vision](https://solarvision.fr/products/ibiza): Lunettes de soleil IBIZA Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:48Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1363,7 +1363,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/ibiza-solar-vision.jpg?v=1792276972
     Price: 80,00 € EUR
-  - [Bleu Nuit / Crystal](https://solarvision.fr/products/ibiza?variant=46810495844680)
+  - [Bleu nuit / Crystal](https://solarvision.fr/products/ibiza?variant=46810495844680)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/ibiza-solar-vision-2.jpg?v=1792276972
     Price: 80,00 € EUR
@@ -1380,7 +1380,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/ibiza-solar-vision-5.jpg?v=1792276972
     Price: 80,00 € EUR
 - [Lunettes de soleil LISBONNE | Solar Vision](https://solarvision.fr/products/lisbonne): Lunettes de soleil LISBONNE Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:55Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1393,7 +1393,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lisbonne-solar-vision-2.jpg?v=1792276972
     Price: 99,00 € EUR
-  - [Gris / Rose / Dégradés](https://solarvision.fr/products/lisbonne?variant=52403974865224)
+  - [Violet / Dégradés](https://solarvision.fr/products/lisbonne?variant=52403974865224)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lisbonne-solar-vision-3.jpg?v=1792276972
     Price: 99,00 € EUR
@@ -1413,7 +1413,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lisbonne-solar-vision-7.jpg?v=1792277000
     Price: 99,00 € EUR
-  - [Gris / Rose / Transitions](https://solarvision.fr/products/lisbonne?variant=52403995672904)
+  - [Violet / Transitions](https://solarvision.fr/products/lisbonne?variant=52403995672904)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lisbonne-solar-vision-8.jpg?v=1792277000
     Price: 99,00 € EUR
@@ -1426,7 +1426,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lisbonne-solar-vision-10.jpg?v=1792277000
     Price: 99,00 € EUR
 - [Lunettes de soleil LOS ANGELES | Solar Vision](https://solarvision.fr/products/los-angeles): Lunettes de soleil LOS ANGELES Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:55Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1444,7 +1444,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/los-angeles-solar-vision-3.jpg?v=1792277000
     Price: 69,00 € EUR
 - [Lunettes de soleil MARRAKECH | Solar Vision](https://solarvision.fr/products/marrakech): Lunettes de soleil MARRAKECH Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:58Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1453,7 +1453,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/marrakech-solar-vision-3.jpg?v=1792277029
     Price: 69,00 € EUR
-  - [Bleu Nuit](https://solarvision.fr/products/marrakech?variant=46810498990408)
+  - [Bleu nuit](https://solarvision.fr/products/marrakech?variant=46810498990408)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/marrakech-solar-vision-2.jpg?v=1792277000
     Price: 69,00 € EUR
@@ -1462,7 +1462,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/marrakech-solar-vision.jpg?v=1792277000
     Price: 69,00 € EUR
 - [Lunettes de soleil MARS | Solar Vision](https://solarvision.fr/products/mars): Lunettes de soleil MARS Solar Vision : monture œil de chat. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:58Z
+  Updated: 2026-11-13T10:09:18Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1475,16 +1475,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mars-solar-vision-4.jpg?v=1792277029
     Price: 139,00 € EUR
-  - [Gris Métallisé / V1](https://solarvision.fr/products/mars?variant=48487163363656)
+  - [Gris / V1](https://solarvision.fr/products/mars?variant=48487163363656)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mars-solar-vision.jpg?v=1792277029
     Price: 139,00 € EUR
-  - [Gris Métallisé / V2](https://solarvision.fr/products/mars?variant=46810523238728)
+  - [Gris / V2](https://solarvision.fr/products/mars?variant=46810523238728)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mars-solar-vision-3.jpg?v=1792277029
     Price: 139,00 € EUR
 - [Lunettes de soleil BAMAKO | Solar Vision](https://solarvision.fr/products/bamako): Lunettes de soleil BAMAKO Solar Vision : monture rectangle en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:35Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1502,7 +1502,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bamako-solar-vision-3.jpg?v=1792277029
     Price: 69,00 € EUR
 - [Lunettes de soleil MONTRÉAL | Solar Vision](https://solarvision.fr/products/montreal): Lunettes de soleil MONTRÉAL Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:07Z
+  Updated: 2026-11-12T23:59:05Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1516,7 +1516,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/montreal-solar-vision-2.jpg?v=1792277029
     Price: 69,00 € EUR
 - [Lunettes de soleil NEPTUNE | Solar Vision](https://solarvision.fr/products/neptune): Lunettes de soleil NEPTUNE Solar Vision. Coloris disponibles : Noir, Flash Bleu, Gris Métallisé.
-  Updated: 2026-11-06T16:56:52Z
+  Updated: 2026-11-13T10:10:35Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1537,16 +1537,16 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/neptune-solar-vision-2.jpg?v=1792277066
     Price: 69,00 € EUR
-  - [Gris Métallisé / V1](https://solarvision.fr/products/neptune?variant=46810529038664)
+  - [Gris / V1](https://solarvision.fr/products/neptune?variant=46810529038664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/neptune-solar-vision-6.jpg?v=1792277066
     Price: 69,00 € EUR
-  - [Gris Métallisé / V2](https://solarvision.fr/products/neptune?variant=48487172276552)
+  - [Gris / V2](https://solarvision.fr/products/neptune?variant=48487172276552)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/neptune-solar-vision-3.jpg?v=1792277066
     Price: 69,00 € EUR
 - [Lunettes de soleil OTTAWA | Solar Vision](https://solarvision.fr/products/ottawa): Lunettes de soleil OTTAWA Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:12Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1568,7 +1568,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/25735.jpg?v=1793799101
     Price: 149,00 € EUR
 - [Lunettes de soleil PALERME | Solar Vision](https://solarvision.fr/products/palerme): Lunettes de soleil PALERME Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:12Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1585,20 +1585,20 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/palerme-solar-vision.jpg?v=1792277066
     Price: 69,00 € EUR
-  - [Vert / Or](https://solarvision.fr/products/palerme?variant=46810532086088)
+  - [Vert](https://solarvision.fr/products/palerme?variant=46810532086088)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/palerme-solar-vision-3.jpg?v=1792277105
     Price: 69,00 € EUR
-  - [Bleu / Rose](https://solarvision.fr/products/palerme?variant=46810532118856)
+  - [Rose](https://solarvision.fr/products/palerme?variant=46810532118856)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/palerme-solar-vision-4.jpg?v=1792277105
     Price: 69,00 € EUR
-  - [Bleu / Or](https://solarvision.fr/products/palerme?variant=46810532151624)
+  - [Or](https://solarvision.fr/products/palerme?variant=46810532151624)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/palerme-solar-vision-5.jpg?v=1792277105
     Price: 69,00 € EUR
 - [Lunettes de soleil PALMAS | Solar Vision](https://solarvision.fr/products/palmas): Lunettes de soleil PALMAS Solar Vision : monture aviateur, carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:15Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1618,7 +1618,7 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Lunettes de soleil RABAT | Solar Vision](https://solarvision.fr/products/rabat): Lunettes de soleil RABAT Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:18Z
+  Updated: 2026-11-13T10:10:11Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1635,12 +1635,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rabat-solar-vision.jpg?v=1792277105
     Price: 69,00 € EUR
-  - [Bleu / Or](https://solarvision.fr/products/rabat?variant=46810543423816)
+  - [Bleu](https://solarvision.fr/products/rabat?variant=46810543423816)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rabat-solar-vision-4.jpg?v=1792277137
     Price: 69,00 € EUR
 - [Lunettes de soleil SAO PAULO | Solar Vision](https://solarvision.fr/products/sao-paulo): Lunettes de soleil SAO PAULO Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:19Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1658,7 +1658,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/sao-paulo-solar-vision.jpg?v=1792277138
     Price: 69,00 € EUR
 - [Lunettes de soleil SÉVILLE | Solar Vision](https://solarvision.fr/products/seville): Lunettes de soleil SÉVILLE Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:20Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1688,7 +1688,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/seville-solar-vision-6.jpg?v=1792277163
     Price: 69,00 € EUR
 - [Lunettes de soleil TERRE | Solar Vision](https://solarvision.fr/products/terre): Lunettes de soleil TERRE Solar Vision : monture ovale en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:25Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1706,7 +1706,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/terre-solar-vision-3.jpg?v=1792277163
     Price: 139,00 € EUR
 - [Lunettes de soleil TUNIS | Solar Vision](https://solarvision.fr/products/tunis): Lunettes de soleil TUNIS Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:26Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1728,7 +1728,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/tunis-solar-vision.jpg?v=1792277163
     Price: 69,00 € EUR
 - [Lunettes de soleil VANCOUVER | Solar Vision](https://solarvision.fr/products/vancouver): Lunettes de soleil VANCOUVER Solar Vision : monture rectangle en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:27Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1746,7 +1746,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/vancouver-solar-vision-3.jpg?v=1792277184
     Price: 149,00 € EUR
 - [Lunettes de soleil BEYROUTH | Solar Vision](https://solarvision.fr/products/beyrouth): Lunettes de soleil BEYROUTH Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:37Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1768,7 +1768,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/beyrouth-solar-vision.jpg?v=1792277184
     Price: 89,00 € EUR
 - [Lunettes de soleil MANAUS | Solar Vision](https://solarvision.fr/products/manaus): Lunettes de soleil MANAUS Solar Vision : monture œil de chat. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:57Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1780,7 +1780,7 @@
     Availability: Available
     Price: 149,00 € EUR
 - [Lunettes de soleil PLUTON | Solar Vision](https://solarvision.fr/products/pluton): Lunettes de soleil PLUTON Solar Vision : monture aviateur. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:17Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1798,7 +1798,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/pluton-solar-vision-3.jpg?v=1792277204
     Price: 139,00 € EUR
 - [Lunettes de soleil ROME | Solar Vision](https://solarvision.fr/products/rome): Lunettes de soleil ROME Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:18Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1836,7 +1836,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rome-solar-vision-6.jpg?v=1792277225
     Price: 99,00 € EUR
 - [Lunettes de soleil GAZA | Solar Vision](https://solarvision.fr/products/gaza): Lunettes de soleil GAZA Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:47Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1854,21 +1854,21 @@
     Availability: Available
     Price: 69,00 € EUR
 - [Lunettes de soleil DUBLIN | Solar Vision](https://solarvision.fr/products/dublin): Lunettes de soleil DUBLIN Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:46Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dublin-solar-vision.jpg?v=1792277245
-  - [Noir](https://solarvision.fr/products/dublin?variant=48470373433672)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dublin-solar-vision.jpg?v=1792277245
-    Price: 149,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dublin-solar-vision-2.jpg?v=1792277245
   - [Brun](https://solarvision.fr/products/dublin?variant=54138469155144)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dublin-solar-vision-2.jpg?v=1792277245
     Price: 149,00 € EUR
+  - [Noir](https://solarvision.fr/products/dublin?variant=48470373433672)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/dublin-solar-vision.jpg?v=1792277245
+    Price: 149,00 € EUR
 - [Lunettes de soleil BOGOTA | Solar Vision](https://solarvision.fr/products/bogota): Lunettes de soleil BOGOTA Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:37Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1894,7 +1894,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bogota-solar-vision-5.jpg?v=1792277245
     Price: 99,00 € EUR
 - [Lunettes de soleil MEDELLÍN | Solar Vision](https://solarvision.fr/products/medellin): Lunettes de soleil MEDELLÍN Solar Vision : monture carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:05Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1916,7 +1916,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/medellin-solar-vision.jpg?v=1792277245
     Price: 69,00 € EUR
 - [Lunettes de soleil MERIDA | Solar Vision](https://solarvision.fr/products/merida): Lunettes de soleil MERIDA Solar Vision : monture rectangle en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:06Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1934,19 +1934,19 @@
     Availability: Available
     Price: 99,00 € EUR
 - [Lunettes de soleil MERCURE | Solar Vision](https://solarvision.fr/products/mercure): Lunettes de soleil MERCURE Solar Vision. Coloris disponibles : Gris Métallisé, Noir.
-  Updated: 2026-11-06T16:56:51Z
+  Updated: 2026-11-13T10:10:48Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/mercure-solar-vision.jpg?v=1792277268
-  - [Gris Métallisé](https://solarvision.fr/products/mercure?variant=48487093895496)
+  - [Gris](https://solarvision.fr/products/mercure?variant=48487093895496)
     Availability: Available
     Price: 139,00 € EUR
   - [Noir](https://solarvision.fr/products/mercure?variant=48487093862728)
     Availability: Available
     Price: 139,00 € EUR
 - [Lunettes de soleil NEW YORK | Solar Vision](https://solarvision.fr/products/new-york): Lunettes de soleil NEW YORK Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:10Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1964,7 +1964,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/new-york-solar-vision-3.jpg?v=1792277289
     Price: 149,00 € EUR
 - [Lunettes de soleil PALMYRE | Solar Vision](https://solarvision.fr/products/palmyre): Lunettes de soleil PALMYRE Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:15Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -1978,7 +1978,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/palmyre-solar-vision-2.png?v=1792277289
     Price: 149,00 € EUR
 - [Lunettes de soleil KIRUNA | Solar Vision](https://solarvision.fr/products/kiruna): Lunettes de soleil KIRUNA Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:53Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2004,7 +2004,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/kiruna-solar-vision-5.jpg?v=1792277290
     Price: 149,00 € EUR
 - [Lunettes de soleil KARACHI | Solar Vision](https://solarvision.fr/products/karachi): Lunettes de soleil KARACHI Solar Vision : monture œil de chat en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:53Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2018,7 +2018,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/karachi-solar-vision.jpg?v=1792277290
     Price: 89,00 € EUR
 - [Lunettes de soleil TOKYO | Solar Vision](https://solarvision.fr/products/tokyo): Lunettes de soleil TOKYO Solar Vision : monture rectangle, œil de chat, œil de chat. Matière : métal, acier inoxydable.
-  Updated: 2026-11-06T16:55:25Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2040,7 +2040,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/tokyo-solar-vision-4.jpg?v=1792277332
     Price: 89,00 € EUR
 - [Lunettes de soleil SHANGHAI | Solar Vision](https://solarvision.fr/products/shanghai): Lunettes de soleil SHANGHAI Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:21Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2062,7 +2062,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/shanghai-solar-vision-4.jpg?v=1792277332
     Price: 149,00 € EUR
 - [Lunettes de soleil SYDNEY | Solar Vision](https://solarvision.fr/products/sydney-1): Lunettes de soleil SYDNEY Solar Vision. Coloris disponibles : Flash Bleu, Flash Rose, Violet, Vert, Noir.
-  Updated: 2026-11-06T16:56:54Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2088,29 +2088,29 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/sydney-solar-vision-5.jpg?v=1792277332
     Price: 129,00 € EUR
 - [Lunettes de soleil MIAMI | Solar Vision](https://solarvision.fr/products/miami-1): Lunettes de soleil MIAMI Solar Vision. Coloris disponibles : Noir, Gris, Gunmetal, Bleu.
-  Updated: 2026-11-06T16:56:52Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision.jpg?v=1792277353
-  - [Noir](https://solarvision.fr/products/miami-1?variant=53589292515656)
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-4.jpg?v=1792277353
+  - [Bleu](https://solarvision.fr/products/miami-1?variant=53589292581192)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision.jpg?v=1792277353
-    Price: 129,00 € EUR
-  - [Gris](https://solarvision.fr/products/miami-1?variant=53589292548424)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-2.jpg?v=1792277353
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-4.jpg?v=1792277353
     Price: 129,00 € EUR
   - [Gunmetal](https://solarvision.fr/products/miami-1?variant=53589292777800)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-3.jpg?v=1792277353
     Price: 129,00 € EUR
-  - [Bleu](https://solarvision.fr/products/miami-1?variant=53589292581192)
+  - [Gris](https://solarvision.fr/products/miami-1?variant=53589292548424)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-4.jpg?v=1792277353
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision-2.jpg?v=1792277353
+    Price: 129,00 € EUR
+  - [Noir](https://solarvision.fr/products/miami-1?variant=53589292515656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/miami-solar-vision.jpg?v=1792277353
     Price: 129,00 € EUR
 - [Lunettes de soleil MARSEILLE | Solar Vision](https://solarvision.fr/products/marseille): Lunettes de soleil MARSEILLE Solar Vision Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:59Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2124,7 +2124,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/marseille-solar-vision.jpg?v=1792277354
     Price: 69,00 € EUR
 - [Lunettes de soleil RAFAH | Solar Vision](https://solarvision.fr/products/rafah): Lunettes de soleil RAFAH Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:18Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2146,7 +2146,7 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/rafah-solar-vision.jpg?v=1792277354
     Price: 89,00 € EUR
 - [Lunettes de soleil PÉKIN | Solar Vision](https://solarvision.fr/products/pekin): Lunettes de soleil PÉKIN Solar Vision : monture œil de chat en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:17Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2168,11 +2168,15 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/pekin-solar-vision-4.png?v=1792277378
     Price: 89,00 € EUR
 - [Lunettes de soleil BERLIN | Solar Vision](https://solarvision.fr/products/berlin): Lunettes de soleil BERLIN Solar Vision : monture aviateur en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:37Z
+  Updated: 2026-11-13T10:11:47Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision.jpg?v=1792277378
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision-8.jpg?v=1792277400
+  - [Crystal Vert](https://solarvision.fr/products/berlin?variant=52211778486600)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision-8.jpg?v=1792277400
+    Price: 89,00 € EUR
   - [Noir](https://solarvision.fr/products/berlin?variant=48569936380232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision.jpg?v=1792277378
@@ -2185,16 +2189,12 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision-6.jpg?v=1792277378
     Price: 89,00 € EUR
-  - [Crystal Gris](https://solarvision.fr/products/berlin?variant=48569948504392)
+  - [Gris](https://solarvision.fr/products/berlin?variant=48569948504392)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision-4.jpg?v=1792277378
     Price: 89,00 € EUR
-  - [Crystal Vert](https://solarvision.fr/products/berlin?variant=52211778486600)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/berlin-solar-vision-8.jpg?v=1792277400
-    Price: 89,00 € EUR
 - [Lunettes de soleil VIENNE | Solar Vision](https://solarvision.fr/products/vienne): Lunettes de soleil VIENNE Solar Vision : monture œil de chat en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:28Z
+  Updated: 2026-11-12T23:59:57Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2203,7 +2203,7 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/vienne-solar-vision.jpg?v=1792277400
     Price: 89,00 € EUR
-  - [Havana](https://solarvision.fr/products/vienne?variant=48587934204232)
+  - [Havane](https://solarvision.fr/products/vienne?variant=48587934204232)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/vienne-solar-vision-2.jpg?v=1792277400
     Price: 89,00 € EUR
@@ -2270,10 +2270,10 @@
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/vision-g06-solar-vision.png?v=1792277421
   Price: 249,00 € EUR
-- [OSLO | Solar Vision](https://solarvision.fr/products/oslo-1): Accessoire OSLO Solar Vision. Coloris disponibles : Noir, Violet, Crystal Vert, Bleu, Rose.
-  Updated: 2026-11-06T16:56:53Z
+- [Lunettes de soleil OSLO | Solar Vision](https://solarvision.fr/products/oslo-1): Lunettes de soleil OSLO Solar Vision : monture rectangulaire en acier inoxydable. Étui et kit offerts, livraison offerte dès une paire.
+  Updated: 2026-11-10T07:55:16Z
   Vendor: Solar Vision
-  Product Type: 
+  Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/oslo-solar-vision.png?v=1792277421
   - [Noir](https://solarvision.fr/products/oslo-1?variant=50130982568264)
@@ -2332,10 +2332,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/osaka-solar-vision-4.jpg?v=1792277442
     Price: 89,00 € EUR
-- [KYOTO | Solar Vision](https://solarvision.fr/products/kyoto): KYOTO Solar Vision : KYOTO – accessoire Solar Vision Retrouvez KYOTO dans la sélection Solar Vision.
-  Updated: 2026-11-06T16:53:47Z
+- [Lunettes de soleil KYOTO | Solar Vision](https://solarvision.fr/products/kyoto): Lunettes de soleil KYOTO Solar Vision : monture carrée en acier inoxydable. Étui et kit offerts, livraison offerte dès une paire.
+  Updated: 2026-11-10T07:55:14Z
   Vendor: Solar Vision
-  Product Type: 
+  Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/kyoto-solar-vision.jpg?v=1792277461
   - [Noir](https://solarvision.fr/products/kyoto?variant=53229663912264)
@@ -2350,10 +2350,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/kyoto-solar-vision-3.jpg?v=1792277462
     Price: 89,00 € EUR
-- [TORONTO | Solar Vision](https://solarvision.fr/products/toronto): TORONTO Solar Vision : TORONTO – accessoire Solar Vision Retrouvez TORONTO dans la sélection Solar Vision.
-  Updated: 2026-11-06T16:54:16Z
+- [Lunettes de soleil TORONTO | Solar Vision](https://solarvision.fr/products/toronto): Lunettes de soleil TORONTO Solar Vision : monture rectangulaire en acétate. Étui et kit offerts, livraison offerte dès une paire.
+  Updated: 2026-11-10T07:55:15Z
   Vendor: Solar Vision
-  Product Type: 
+  Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/toronto-solar-vision.jpg?v=1792277462
   - [Crystal Vert](https://solarvision.fr/products/toronto?variant=50096671949128)
@@ -2395,12 +2395,12 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/matara-solar-vision-2.jpg?v=1792277462
     Price: 89,00 € EUR
 - [BOITE DE TRANSPORT | Solar Vision](https://solarvision.fr/products/boite-de-transport): BOITE DE TRANSPORT Solar Vision : BOITE DE TRANSPORT – Boite de transport Solar Vision Retrouvez BOITE DE TRANSPORT dans la sélection Solar Vision.
-  Updated: 2026-11-06T16:53:28Z
+  Updated: 2026-11-12T14:22:22Z
   Vendor: Solar Vision
   Product Type: Boite de transport
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/boite-de-transport-solar-vision.png?v=1792277485
-  Price: 29,99 € EUR
+  Price: 24,99 € EUR
 - [KIT DE NETTOYAGE | Solar Vision](https://solarvision.fr/products/kit-de-nettoyage): KIT DE NETTOYAGE Solar Vision : KIT DE NETTOYAGE – accessoire Solar Vision Retrouvez KIT DE NETTOYAGE dans la sélection Solar Vision.
   Updated: 2026-11-06T16:53:47Z
   Vendor: Solar Vision
@@ -2416,7 +2416,7 @@
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/porte-cles-multifonction-solar-vision.png?v=1792277485
   Price: 3,99 € EUR
 - [Lunettes de soleil CASABLANCA | Solar Vision](https://solarvision.fr/products/casablanca): Lunettes de soleil CASABLANCA Solar Vision : monture rectangle, carré en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:43Z
+  Updated: 2026-11-13T10:09:56Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
@@ -2732,26 +2732,26 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/florence-solar-vision-5.jpg?v=1792277622
     Price: 99,00 € EUR
 - [Lunettes de soleil PARME | Solar Vision](https://solarvision.fr/products/parme): Lunettes de soleil PARME Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:16Z
+  Updated: 2026-11-08T05:38:11Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision.jpg?v=1792277622
-  - [Noir](https://solarvision.fr/products/parme?variant=52567059038536)
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-4.jpg?v=1792277638
+  - [Kaki](https://solarvision.fr/products/parme?variant=52567064772936)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision.jpg?v=1792277622
-    Price: 89,00 € EUR
-  - [Gris](https://solarvision.fr/products/parme?variant=52567059104072)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-3.jpg?v=1792277622
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-4.jpg?v=1792277638
     Price: 89,00 € EUR
   - [Brun](https://solarvision.fr/products/parme?variant=52567059071304)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-2.jpg?v=1792277622
     Price: 89,00 € EUR
-  - [Kaki](https://solarvision.fr/products/parme?variant=52567064772936)
+  - [Gris](https://solarvision.fr/products/parme?variant=52567059104072)
     Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-4.jpg?v=1792277638
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision-3.jpg?v=1792277622
+    Price: 89,00 € EUR
+  - [Noir](https://solarvision.fr/products/parme?variant=52567059038536)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/parme-solar-vision.jpg?v=1792277622
     Price: 89,00 € EUR
 - [Lunettes de soleil DJEDDAH | Solar Vision](https://solarvision.fr/products/djeddah): Lunettes de soleil DJEDDAH Solar Vision : monture en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
   Updated: 2026-11-06T16:54:45Z
@@ -2776,19 +2776,11 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/djeddah-solar-vision-4.jpg?v=1792277638
     Price: 149,00 € EUR
 - [Lunettes de soleil LAHORE | Solar Vision](https://solarvision.fr/products/lahore): Lunettes de soleil LAHORE Solar Vision : monture en acétate, métal. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:54Z
+  Updated: 2026-11-08T05:40:58Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision.jpg?v=1792277638
-  - [Noir](https://solarvision.fr/products/lahore?variant=52567474340168)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision.jpg?v=1792277638
-    Price: 89,00 € EUR
-  - [Vert](https://solarvision.fr/products/lahore?variant=52567474372936)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision-2.jpg?v=1792277638
-    Price: 89,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision-3.jpg?v=1792277638
   - [Brun](https://solarvision.fr/products/lahore?variant=52567474405704)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision-3.jpg?v=1792277638
@@ -2796,6 +2788,14 @@
   - [Gris](https://solarvision.fr/products/lahore?variant=52567474438472)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision-4.jpg?v=1792277638
+    Price: 89,00 € EUR
+  - [Vert](https://solarvision.fr/products/lahore?variant=52567474372936)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision-2.jpg?v=1792277638
+    Price: 89,00 € EUR
+  - [Noir](https://solarvision.fr/products/lahore?variant=52567474340168)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/lahore-solar-vision.jpg?v=1792277638
     Price: 89,00 € EUR
 - [Lunettes de soleil CÓRDOBA | Solar Vision](https://solarvision.fr/products/cordoba): Lunettes de soleil CÓRDOBA Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
   Updated: 2026-11-06T16:54:44Z
@@ -2819,10 +2819,10 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/cordoba-solar-vision.jpg?v=1792277638
     Price: 89,00 € EUR
-- [BUENOS AIRES | Solar Vision](https://solarvision.fr/products/buenos-aires): BUENOS AIRES Solar Vision : BUENOS AIRES – accessoire Solar Vision Retrouvez BUENOS AIRES dans la sélection Solar Vision.
-  Updated: 2026-11-06T16:53:30Z
+- [Lunettes de soleil BUENOS AIRES | Solar Vision](https://solarvision.fr/products/buenos-aires): Lunettes de soleil BUENOS AIRES Solar Vision : monture ovale en acétate. Étui et kit offerts, livraison offerte dès une paire.
+  Updated: 2026-11-10T07:55:15Z
   Vendor: Solar Vision
-  Product Type: 
+  Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/buenos-aires-solar-vision.jpg?v=1792277651
   - [Noir](https://solarvision.fr/products/buenos-aires?variant=52707424764232)
@@ -2842,11 +2842,15 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/buenos-aires-solar-vision-2.jpg?v=1792277651
     Price: 89,00 € EUR
 - [Lunettes de soleil PRAGUE | Solar Vision](https://solarvision.fr/products/prague): Lunettes de soleil PRAGUE Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:55:17Z
+  Updated: 2026-11-08T05:36:54Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision.jpg?v=1792277651
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision-3.jpg?v=1792277651
+  - [Crystal Vert](https://solarvision.fr/products/prague?variant=52793222627656)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision-3.jpg?v=1792277651
+    Price: 120,00 € EUR
   - [Beige](https://solarvision.fr/products/prague?variant=52793222562120)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision.jpg?v=1792277651
@@ -2855,40 +2859,36 @@
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision-2.jpg?v=1792277651
     Price: 120,00 € EUR
-  - [Crystal Vert](https://solarvision.fr/products/prague?variant=52793222627656)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision-3.jpg?v=1792277651
-    Price: 120,00 € EUR
   - [Bleu Clair](https://solarvision.fr/products/prague?variant=52793222660424)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/prague-solar-vision-4.jpg?v=1792277670
     Price: 120,00 € EUR
 - [Lunettes de soleil LEIPZIG | Solar Vision](https://solarvision.fr/products/leipzig): Lunettes de soleil LEIPZIG Solar Vision : monture carré en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:54Z
+  Updated: 2026-11-13T18:33:43Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision.jpg?v=1792277670
+  - [Crystal](https://solarvision.fr/products/leipzig?variant=54614009807176)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision.jpg?v=1792277670
+    Price: 149,00 € EUR
+  - [Crystal Vert](https://solarvision.fr/products/leipzig?variant=54614009839944)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision-2.jpg?v=1792277670
+    Price: 149,00 € EUR
+  - [Bleu](https://solarvision.fr/products/leipzig?variant=52982041936200)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision-3.jpg?v=1792277670
+    Price: 149,00 € EUR
   - [Noir](https://solarvision.fr/products/leipzig?variant=52982041870664)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision-4.jpg?v=1792277670
     Price: 149,00 € EUR
-  - [Crystal](https://solarvision.fr/products/leipzig?variant=52982041903432)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision.jpg?v=1792277670
-    Price: 149,00 € EUR
-  - [Vert](https://solarvision.fr/products/leipzig?variant=52982041936200)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision-2.jpg?v=1792277670
-    Price: 149,00 € EUR
-  - [Bleu Nuit](https://solarvision.fr/products/leipzig?variant=52982041968968)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/leipzig-solar-vision-3.jpg?v=1792277670
-    Price: 149,00 € EUR
-- [NICE | Solar Vision](https://solarvision.fr/products/nice): Accessoire NICE Solar Vision. Coloris disponibles : Noir, Brun, Bleu, Gris.
-  Updated: 2026-11-06T16:56:53Z
+- [Lunettes de soleil NICE | Solar Vision](https://solarvision.fr/products/nice): Lunettes de soleil NICE Solar Vision : monture rectangulaire en acier inoxydable. Étui et kit offerts, livraison offerte dès une paire.
+  Updated: 2026-11-10T07:55:17Z
   Vendor: Solar Vision
-  Product Type: 
+  Product Type: Lunettes de soleil
   Availability: Available
   Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/nice-solar-vision.jpg?v=1792277670
   - [Noir](https://solarvision.fr/products/nice?variant=53185420394824)
@@ -2956,27 +2956,27 @@
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/cyan-vision-x1-solar-vision-5.jpg?v=1792277692
     Price: 299,00 € EUR
 - [Lunettes de soleil BUCAREST | Solar Vision](https://solarvision.fr/products/bucarest): Lunettes de soleil BUCAREST Solar Vision : monture en acétate. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
-  Updated: 2026-11-06T16:54:39Z
+  Updated: 2026-11-13T10:09:27Z
   Vendor: Solar Vision
   Product Type: Lunettes de soleil
   Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision.jpg?v=1792277711
-  - [Noir](https://solarvision.fr/products/bucarest?variant=53241145852232)
-    Availability: Available
-    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision.jpg?v=1792277711
-    Price: 160,00 € EUR
+  Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision-2.jpg?v=1792277711
   - [Brun](https://solarvision.fr/products/bucarest?variant=53241145885000)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision-2.jpg?v=1792277711
-    Price: 160,00 € EUR
+    Price: 149,00 € EUR
+  - [Noir](https://solarvision.fr/products/bucarest?variant=53241145852232)
+    Availability: Available
+    Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision.jpg?v=1792277711
+    Price: 149,00 € EUR
   - [Havane](https://solarvision.fr/products/bucarest?variant=53241145917768)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision-3.jpg?v=1792277711
-    Price: 160,00 € EUR
+    Price: 149,00 € EUR
   - [Crystal Vert](https://solarvision.fr/products/bucarest?variant=53241145950536)
     Availability: Available
     Image: https://cdn.shopify.com/s/files/1/0616/8402/3508/files/bucarest-solar-vision-4.jpg?v=1792277711
-    Price: 160,00 € EUR
+    Price: 149,00 € EUR
 - [Lunettes de soleil BUSAN | Solar Vision](https://solarvision.fr/products/busan): Lunettes de soleil BUSAN Solar Vision : monture ovale en acier inoxydable. Verres organiques. Filtration cat. 2 ou 3 selon la teinte.
   Updated: 2026-11-06T16:54:40Z
   Vendor: Solar Vision
@@ -3070,28 +3070,28 @@
 ## Collections
 
 - [GAMME ESSENTIELLE](https://solarvision.fr/collections/gamme-essentielle): Découvrez la gamme Essentielle Solar Vision : lunettes de soleil aux formes variées, avec montures en acétate ou acier inoxydable selon les modèles.
-  Updated: 2026-11-04T19:14:44Z
+  Updated: 2026-11-14T01:19:26Z
   Total Products: 30
 - [GAMME LUXE](https://solarvision.fr/collections/gamme-luxe): Explorez la gamme Luxe Solar Vision : des lunettes de soleil aux designs variés, avec montures en acétate ou acier inoxydable selon les références.
-  Updated: 2026-11-04T13:34:25Z
+  Updated: 2026-11-14T01:17:42Z
   Total Products: 24
 - [MEILLEURES VENTES](https://solarvision.fr/collections/meilleures-ventes): Retrouvez une sélection de lunettes de soleil Solar Vision, dont les modèles IBIZA, MEDELLÍN et GAZA. Découvrez leurs formes et coloris.
-  Updated: 2026-11-04T13:34:25Z
-  Total Products: 4
+  Updated: 2026-11-12T15:33:29Z
+  Total Products: 12
 - [FEMMES](https://solarvision.fr/collections/femme): Découvrez notre collection de lunettes de soleil pour femme : des modèles Solar Vision aux formes variées et aux différents coloris et finitions.
-  Updated: 2026-11-04T13:32:18Z
+  Updated: 2026-11-08T18:51:31Z
   Total Products: 68
 - [HOMMES](https://solarvision.fr/collections/homme): Explorez notre collection de lunettes de soleil pour homme : des modèles Solar Vision aux lignes classiques ou contemporaines et aux coloris variés.
-  Updated: 2026-11-04T19:15:07Z
+  Updated: 2026-11-08T18:51:31Z
   Total Products: 81
 - [NOUVEAUTÉS](https://solarvision.fr/collections/nouveautes): Découvrez les nouveautés Solar Vision : lunettes de soleil aux formes et coloris variés, ainsi que des modèles connectés à explorer en ligne.
-  Updated: 2026-11-04T19:15:07Z
-  Total Products: 54
+  Updated: 2026-11-08T18:51:31Z
+  Total Products: 53
 - [GAMME SPATIALE](https://solarvision.fr/collections/gamme-spatiale): Découvrez la gamme Spatiale Solar Vision : lunettes de soleil aux lignes originales, formes aviateur, rectangulaires et œil-de-chat.
-  Updated: 2026-11-03T18:51:20Z
+  Updated: 2026-11-14T01:18:34Z
   Total Products: 6
 - [GAMME VINTAGE](https://solarvision.fr/collections/gamme-vintage): Explorez la gamme Vintage Solar Vision : des lunettes de soleil aux inspirations rétro, avec différentes formes, montures et coloris.
-  Updated: 2026-11-04T19:15:07Z
+  Updated: 2026-11-14T01:20:54Z
   Total Products: 24
 - [](https://solarvision.fr/collections/): Profitez de la sélection en  Solar Vision : retrouvez des lunettes de soleil à prix réduits, selon les modèles et disponibilités.
   Updated: 2026-11-04T13:34:25Z
@@ -3100,11 +3100,11 @@
   Updated: 2026-11-03T18:51:22Z
   Total Products: 2
 - [ACCESSOIRES](https://solarvision.fr/collections/accessoires): Retrouvez les accessoires Solar Vision pour ranger et entretenir vos lunettes : étuis, boîtes de transport, kit de nettoyage et porte-clés.
-  Updated: 2026-11-03T18:51:11Z
+  Updated: 2026-11-12T14:22:24Z
   Total Products: 4
-- [VISION GENESIS](https://solarvision.fr/collections/lunettes-connectees): Découvrez VISION GENESIS de Solar Vision : des lunettes connectées avec fonctionnalités audio. Consultez chaque fiche pour les caractéristiques détaillées.
-  Updated: 2026-11-03T18:51:33Z
-  Total Products: 3
+- [LUNETTES CONNECTÉES](https://solarvision.fr/collections/lunettes-connectees): Découvrez les lunettes connectées Solar Vision : QY PRO 2 et 3, CYAN VISION X1. Caractéristiques détaillées sur chaque fiche.
+  Updated: 2026-11-09T22:24:25Z
+  Total Products: 6
 - [VISION QY Pro](https://solarvision.fr/collections/lunettes-de-sport-qy-pro): Explorez VISION QY Pro de Solar Vision : une collection de lunettes connectées. Retrouvez les modèles et leurs caractéristiques sur chaque fiche produit.
   Updated: 2026-11-03T18:51:34Z
   Total Products: 2
@@ -3112,14 +3112,32 @@
   Updated: 2026-11-03T18:51:14Z
   Total Products: 1
 - [Best  Products](https://solarvision.fr/collections/best--products): Parcourez les lunettes de soleil et accessoires Solar Vision. Comparez les formes, les coloris et les caractéristiques indiquées sur chaque fiche produit.
-  Updated: 2026-11-04T19:15:07Z
+  Updated: 2026-11-12T15:33:29Z
   Total Products: 148
 - [Newest Products](https://solarvision.fr/collections/newest-products): Parcourez les références Solar Vision : lunettes de soleil, modèles connectés et accessoires. Retrouvez les caractéristiques sur chaque fiche produit.
-  Updated: 2026-11-04T19:15:07Z
+  Updated: 2026-11-12T15:33:29Z
   Total Products: 148
 - [All Products (ChatGPT-AI Product Description)](https://solarvision.fr/collections/all-products-chatgpt-ai-product-description): Bulk Description Generator This hidden collection is created exclusively to help you generate product descriptions for all your products at once—it remains hidden from your storefront. Steps to Generate All Product Descriptions: Start on the Home Screen: Open the app's home screen and follow the easy flow for content generation. Select "Entire Collection" to be redirected to the collection order page and click Start. Select Your Collection: Choose this collection All Products (ChatGPT-AI Product Description) for which you want to generate descriptions. Generate Descriptions: Click the Generate button to automatically create new product descriptions for all the products in the selected collection. This streamlined process lets you update your product details quickly and efficiently, boosting your store's SEO and customer engagement without affecting your live storefront.
-  Updated: 2026-11-04T19:15:07Z
+  Updated: 2026-11-12T15:33:29Z
   Total Products: 148
+- [VISION GENESIS](https://solarvision.fr/collections/vision-genesis): VISION GENESIS : lunettes connectées Solar VisionLa collection VISION GENESIS réunit les modèles connectés VISION G04, VISION G05 et VISION G06. Retrouvez les fonctionnalités et les caractéristiques de chaque modèle sur sa fiche produit avant de choisir votre paire.
+  Updated: 2026-11-11T01:45:14Z
+  Total Products: 3
+- [Lunettes de soleil rectangulaires](https://solarvision.fr/collections/lunettes-de-soleil-rectangulaires): Découvrez les lunettes de soleil rectangulaires Solar Vision : acétate et acier inoxydable, femme, homme et mixtes. Livraison offerte dès une paire.
+  Updated: 2026-11-12T15:35:43Z
+  Total Products: 62
+- [Lunettes de soleil carrées](https://solarvision.fr/collections/lunettes-de-soleil-carrees): Découvrez les lunettes de soleil carrées Solar Vision : acétate et acier inoxydable, femme, homme et mixtes. Livraison offerte dès une paire.
+  Updated: 2026-11-11T01:46:00Z
+  Total Products: 24
+- [Lunettes de soleil œil de chat](https://solarvision.fr/collections/lunettes-de-soleil-oeil-de-chat): Découvrez les lunettes de soleil œil de chat Solar Vision : un style élégant au regard affirmé. Livraison offerte dès une paire.
+  Updated: 2026-11-11T01:46:00Z
+  Total Products: 17
+- [Lunettes de soleil aviateur](https://solarvision.fr/collections/lunettes-de-soleil-aviateur): Découvrez les lunettes de soleil aviateur Solar Vision : un classique intemporel, aux verres larges. Livraison offerte dès une paire.
+  Updated: 2026-11-11T01:46:00Z
+  Total Products: 13
+- [Lunettes de soleil ovales](https://solarvision.fr/collections/lunettes-de-soleil-ovales): Découvrez les lunettes de soleil ovales Solar Vision : des lignes douces en acétate ou acier inoxydable. Livraison offerte dès une paire.
+  Updated: 2026-11-11T01:46:00Z
+  Total Products: 11
 
 ## Blogs
 
@@ -3169,21 +3187,29 @@
 
 ## Store Pages
 
-- [Contact](https://solarvision.fr/pages/contact): Bienvenue sur la page de contact de Solar Vision, votre destination pour des lunettes de soleil alliant innovation et style. Vous avez une question...
-  Updated: 2026-09-25T21:58:57Z
+- [CONTACT](https://solarvision.fr/pages/contact): Bienvenue sur la page de contact de Solar Vision. Pour toute question, besoin d'aide ou information sur nos lunettes innovantes et stylées, nous so...
+  Updated: 2026-11-13T21:32:12Z
+- [À propos de Solar Vision](https://solarvision.fr/pages/a-propos): Solar Vision, des lunettes de soleil au style affirmé Solar Vision est une marque de lunettes de soleil et de lunettes connectées basée à Pantin, a...
+  Updated: 2026-11-09T19:55:06Z
+- [Foire aux questions](https://solarvision.fr/pages/faq): FOIRE AUX QUESTIONS Retrouvez ici les réponses aux questions les plus fréquentes. Une autre question ? Écrivez-nous à solarvision.shop@gmail.com. C...
+  Updated: 2026-11-13T21:33:37Z
+- [Guide des tailles](https://solarvision.fr/pages/guide-des-tailles): Guide des tailles : trouver la paire qui vous va Une bonne paire de lunettes de soleil tient bien, ne serre pas et encadre naturellement votre visa...
+  Updated: 2026-11-08T18:56:52Z
+- [Conseiller solaire](https://solarvision.fr/pages/conseiller-solaire): Découvrez le conseiller solaire Solar Vision : quelques questions pour trouver les lunettes adaptées à votre visage, votre style, vos activités et ...
+  Updated: 2026-11-13T21:23:30Z
 
 ## Policies
 
 - [Privacy Policy](https://solarvision.fr/policies/privacy-policy)
   Updated: 2026-10-29T17:05:57Z
 - [Shipping Policy](https://solarvision.fr/policies/shipping-policy)
-  Updated: 2025-01-23T21:52:49Z
+  Updated: 2026-11-07T04:40:28Z
 - [Refund Policy](https://solarvision.fr/policies/refund-policy)
-  Updated: 2025-04-21T21:41:02Z
+  Updated: 2026-11-07T04:47:43Z
 - [Terms of Service](https://solarvision.fr/policies/terms-of-service)
-  Updated: 2022-04-22T20:17:53Z
+  Updated: 2026-11-07T05:04:45Z
 - [Contact Information](https://solarvision.fr/policies/contact-information)
-  Updated: 2025-04-21T21:39:40Z
+  Updated: 2026-11-07T04:36:59Z
 
 ## Optional
 
