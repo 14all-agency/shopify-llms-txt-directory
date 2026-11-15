@@ -6,7 +6,7 @@
 - Timezone: America/Los_Angeles
 - Created At: 2025-12-30T08:25:36Z
 - Contact Email: info@pickapuzzle.com
-- Updated At: 2026-11-08T00:27:09.538Z
+- Updated At: 2026-11-15T00:28:05.457Z
 
 ## Products
 
@@ -3236,25 +3236,7 @@
   - [Large](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-mandala-dragonfly?variant=43530550509627)
     Availability: Available
     Price: $39.99 USD
-- [Whimsical Wooden Jigsaw Puzzle-HAPPY SLOTH](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-happy-sloth): Size Metric Dimensions Imperial Dimensions Piece Count Extra Large 50.8 x 50.5 centimeters 20 x 19.9 inches 600 pieces Large 35 x 34.7 centimeters 13.7 x 13.6 inches 280 pieces Medium 30 x 29.8 centimeters 11.8 x 11.7 inches 200 pieces Small 20 x 19.8 centimeters 7.8 x 7.7 inches 100 pieces
-  Updated: 2026-08-29T10:04:17Z
-  Vendor: pickApuzzle
-  Product Type: Animal Puzzles
-  Availability: Available
-  Image: https://cdn.shopify.com/s/files/1/0651/5743/1355/files/wooden-jigsaw-puzzle-happy-sloth-2023-12-22_07-03-49_327046.jpg?v=1779257472
-  - [Small](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-happy-sloth?variant=43530551361595)
-    Availability: Available
-    Price: $19.99 USD
-  - [Medium](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-happy-sloth?variant=43530551394363)
-    Availability: Available
-    Price: $29.99 USD
-  - [Large](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-happy-sloth?variant=43530551427131)
-    Availability: Available
-    Price: $39.99 USD
-  - [Extra Large](https://pickapuzzle.com/products/whimsical-wooden-jigsaw-puzzle-happy-sloth?variant=43530553524283)
-    Availability: Available
-    Price: $49.99 USD
-[List Continued](https://pickapuzzle.com/a/llms-agent/llms.txt?shop=b7iywv-rv.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjA3ODI0ODEwMDQzLCJsYXN0X3ZhbHVlIjoiNzYwNzgyNDgxMDA0MyJ9)
+[List Continued](https://pickapuzzle.com/a/llms-agent/llms.txt?shop=b7iywv-rv.myshopify.com&type=PRODUCTS&cursor=eyJsYXN0X2lkIjo3NjA3ODI0Mzg0MDU5LCJsYXN0X3ZhbHVlIjoiNzYwNzgyNDM4NDA1OSJ9)
 
 ## Collections
 
@@ -3564,6 +3546,15 @@
     Author: pickApuzzle
   - [What Makes Wooden Jigsaw Puzzles Stand Out from Cardboard Versions](https://pickapuzzle.com/blogs/general/what-makes-wooden-jigsaw-puzzles-stand-out-from-cardboard-versions): What Makes Wooden Jigsaw Puzzles Stand Out from Cardboard Versions
     Updated: 2026-11-07T00:09:11Z
+    Author: pickApuzzle
+  - [Ten Inspirational Wooden Jigsaw Puzzle Designs Riveting Enthusiasts Worldwide](https://pickapuzzle.com/blogs/general/ten-inspirational-wooden-jigsaw-puzzle-designs-riveting-enthusiasts-worldwide): Ten Inspirational Wooden Jigsaw Puzzle Designs Riveting Enthusiasts Worldwide
+    Updated: 2026-11-09T01:31:10Z
+    Author: pickApuzzle
+  - [Exploring Eco-Friendly Aspects in Wooden Jigsaw Puzzles](https://pickapuzzle.com/blogs/general/exploring-eco-friendly-aspects-in-wooden-jigsaw-puzzles): Exploring Eco-Friendly Aspects in Wooden Jigsaw Puzzles
+    Updated: 2026-11-11T01:21:33Z
+    Author: pickApuzzle
+  - [How Wooden Jigsaw Puzzles Enhance Cognitive Skills for All Ages](https://pickapuzzle.com/blogs/general/how-wooden-jigsaw-puzzles-enhance-cognitive-skills-for-all-ages): How Wooden Jigsaw Puzzles Enhance Cognitive Skills for All Ages
+    Updated: 2026-11-14T00:07:08Z
     Author: pickApuzzle
 
 ## Store Pages
