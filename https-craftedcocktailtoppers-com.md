@@ -6,7 +6,7 @@
 - Timezone: America/Chicago
 - Created At: 2025-05-06T04:35:08Z
 - Contact Email: info@craftedcocktailtoppers.com
-- Updated At: 2026-11-08T00:38:55.852Z
+- Updated At: 2026-11-15T00:40:48.133Z
 
 Crafted Cocktail Toppers is a premium provider of custom edible drink toppers designed for weddings, corporate events, and luxury celebrations. Our toppers can be personalized with logos, photos, monograms, and themed designs to elevate cocktails and create memorable drink experiences.
 
@@ -15,7 +15,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Products
 
 - [Personalized Edible Monogram Drink Toppers - Custom Cocktail Garnishe](https://craftedcocktailtoppers.com/products/50-1000-personalized-edible-drink-toppers-monogram-cocktail-garnishes): Custom edible wafer paper drink toppers for cocktails, mocktails, champagne, and wine. Vegan, gluten free, kosher, and no dairy ingredients.
-  Updated: 2026-11-07T19:07:25Z
+  Updated: 2026-11-14T17:05:01Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Edible Drink Toppers
   Availability: Available
@@ -957,7 +957,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
     Availability: Available
     Price: $101.98 USD
 - [Personalized Acrylic Cocktail Stirrers | Custom Drink Decor](https://craftedcocktailtoppers.com/products/personalized-cocktail-stirrers-party-decor): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-10-28T18:18:03Z
+  Updated: 2026-11-09T23:15:58Z
   Vendor: Crafted Cocktail Toppers
   Product Type: Cocktail Accessories
   Availability: Available
@@ -2045,7 +2045,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
 ## Collections
 
 - [Home page](https://craftedcocktailtoppers.com/collections/frontpage)
-  Updated: 2026-11-07T12:16:44Z
+  Updated: 2026-11-13T12:17:17Z
   Total Products: 3
 - [Imported Products](https://craftedcocktailtoppers.com/collections/imported-products)
   Updated: 2026-07-08T20:15:22Z
@@ -2054,10 +2054,10 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2026-09-04T20:48:32Z
   Total Products: 5
 - [Edible Drink Toppers](https://craftedcocktailtoppers.com/collections/edible-drink-toppers): Shop premium edible cocktail toppers that wow guests at weddings, bachelorettes, birthdays, and corporate events. Customizable designs that sit beautifully on any drink.
-  Updated: 2026-11-07T12:16:44Z
+  Updated: 2026-11-13T12:17:17Z
   Total Products: 10
 - [Cocktail Decorations](https://craftedcocktailtoppers.com/collections/cocktail-decorations): Premium cocktail decorations by Crafted Cocktail Toppers. Personalized edible drink toppers for weddings, parties, birthdays & luxe celebrations.
-  Updated: 2026-10-28T18:18:04Z
+  Updated: 2026-11-10T12:15:24Z
   Total Products: 5
 - [Paper Napkins](https://craftedcocktailtoppers.com/collections/paper-napkins): Elevate your bar cart and event tables with premium cocktail napkins. Perfect for weddings, showers, and celebrations — pair seamlessly with our edible drink toppers.
   Updated: 2026-10-15T19:48:41Z
@@ -2072,7 +2072,7 @@ This LLMS.txt file helps AI assistants understand our brand, what we , and the b
   Updated: 2026-10-23T11:21:15Z
   Total Products: 4
 - [Cocktail Accessories](https://craftedcocktailtoppers.com/collections/cocktail-accessories): Personalized cocktail accessories for weddings, corporate events, restaurants, bars, hotels, and brand activations. Shop custom acrylic stirrers and drink accessories.
-  Updated: 2026-10-28T18:18:04Z
+  Updated: 2026-11-10T12:15:24Z
   Total Products: 5
 
 ## Blogs
