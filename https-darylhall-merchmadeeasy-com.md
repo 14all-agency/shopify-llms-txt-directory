@@ -6,12 +6,12 @@
 - Timezone: America/Chicago
 - Created At: 2020-03-02T15:47:42Z
 - Contact Email: support@merchmadeeasy.com
-- Updated At: 2026-11-07T01:40:01.919Z
+- Updated At: 2026-11-15T01:07:57.885Z
 
 ## Products
 
 - [LFDH Guitar Strap](https://darylhall.merchmadeeasy.com/products/lfdh-guitar-strap): Custom Guitar Strap Regular/Adjustable (45" - 55") 2" Polyester Durable Plastic Hardware
-  Updated: 2026-11-05T17:03:25Z
+  Updated: 2026-11-13T10:24:25Z
   Vendor: Daryl Hall
   Product Type: Accessories
   Availability: Available
@@ -168,7 +168,7 @@
     Availability: Available
     Price: $35.00 USD
 - [Daryl's House Tee - Red](https://darylhall.merchmadeeasy.com/products/daryls-house-tee-red): 100% Cotton Black Tee Daryl's House screen print in red on the front.
-  Updated: 2026-11-05T17:03:23Z
+  Updated: 2026-11-07T11:53:06Z
   Vendor: Daryl Hall
   Product Type: T-Shirt
   Availability: Available
@@ -264,34 +264,34 @@
 ## Collections
 
 - [Accessories](https://darylhall.merchmadeeasy.com/collections/accessories)
-  Updated: 2026-11-01T12:05:11Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 28
 - [Apparel](https://darylhall.merchmadeeasy.com/collections/apparel): Visit to shop all Daryl Hall apparel including tees, hoodies, long sleeves and more!
-  Updated: 2026-11-02T12:04:44Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 22
 - [All](https://darylhall.merchmadeeasy.com/collections/all)
-  Updated: 2026-11-02T12:04:44Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 19
 - [Music](https://darylhall.merchmadeeasy.com/collections/music)
   Updated: 2026-10-22T17:00:19Z
   Total Products: 8
 - [](https://darylhall.merchmadeeasy.com/collections/)
-  Updated: 2026-10-27T11:08:00Z
+  Updated: 2026-11-08T12:06:06Z
   Total Products: 10
 - [Our Favorites](https://darylhall.merchmadeeasy.com/collections/home-page)
   Updated: 2026-11-02T12:04:44Z
   Total Products: 8
 - [2025 Tour Merch](https://darylhall.merchmadeeasy.com/collections/2025-tour-merch)
-  Updated: 2026-11-01T12:05:11Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 7
 - [Stocking Stuffers](https://darylhall.merchmadeeasy.com/collections/stocking-stuffers)
-  Updated: 2026-11-01T12:05:11Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 6
 - [$5 FRENZY ](https://darylhall.merchmadeeasy.com/collections/5-frenzy-)
-  Updated: 2026-11-02T12:04:44Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 21
 - [EG All Products - DO NOT EDIT](https://darylhall.merchmadeeasy.com/collections/eg-all-products-do-not-edit): Please do not edit this collection, as the  logic requires this to be configured as EG creates it. Veuillez ne pas modifier cette collection, car la logique de remise exige qu’elle soit configurée telle que créée par EG. Bitte bearbeiten Sie diese Kollektion nicht, da die Rabattlogik erfordert, dass sie so konfiguriert bleibt, wie sie von EG erstellt wurde. No edite esta colección, ya que la lógica de descuento requiere que esté configurada tal como la crea EG. Non modificare questa collezione, perché la logica dello sconto richiede che rimanga configurata così come viene creata da EG. Não edite esta coleção, pois a lógica de desconto exige que ela seja configurada exatamente como criada pela EG. Bewerk deze collectie niet, omdat de kortingslogica vereist dat deze zo blijft zoals EG deze aanmaakt. このコレクションは編集しないでください。割引ロジックの都合上、EG が作成した状態のままにしておく必要があります。 请不要编辑此系列，因为折扣逻辑要求其保持由 EG 创建时的配置。 請不要編輯此系列，因為折扣邏輯要求其保持 EG 建立時的設定。 이 컬렉션은 EG가 생성한 구성 그대로 유지해야 하므로 수정하지 마십시오.
-  Updated: 2026-11-02T12:04:44Z
+  Updated: 2026-11-13T12:05:39Z
   Total Products: 58
 
 ## Store Pages
